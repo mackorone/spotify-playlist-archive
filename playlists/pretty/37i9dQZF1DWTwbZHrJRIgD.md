@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Tu Jhoothi Main Makkaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,585 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,935 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 12 | [Slowly Slowly](https://open.spotify.com/track/3qQGNzpU95Oeab7mptyjVd) | [Tannerwell](https://open.spotify.com/artist/1fWlAHbkUGgoCsgrSzpF7t), [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo) | [Slowly Slowly](https://open.spotify.com/album/2bzHQolfh8BsUg7QFH6mSR) | 2:42 |
 | 13 | [Raat Bhar](https://open.spotify.com/track/3ctaMit7CuiHIPVYrRvm15) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Heropanti](https://open.spotify.com/album/3OozDMNwTvyCP4bOhsSou0) | 5:25 |
 | 14 | [Mann Mera \- Original Version](https://open.spotify.com/track/1As2Jo89VTF9V3D6GuOPr9) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Mann Mera \(Original Version\)](https://open.spotify.com/album/3KR9QiP7RuCpAhXwFOE9vR) | 3:48 |
-| 15 | [Maiyya Mainu](https://open.spotify.com/track/3ygfdwvBJ2Y5XhJiiHFFZE) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG) | [Jersey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1FrTddcjO9PzPaJX7SkQEC) | 3:51 |
+| 15 | [Maiyya Mainu](https://open.spotify.com/track/3ygfdwvBJ2Y5XhJiiHFFZE) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Shellee](https://open.spotify.com/artist/5DJ2ZMr3PC7eTtYAZLOP4n) | [Jersey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1FrTddcjO9PzPaJX7SkQEC) | 3:51 |
 | 16 | [Good For Nothing \- From "Sitaare Zameen Par"](https://open.spotify.com/track/6E841E7H6MpnHlS7XDDLRW) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Good For Nothing \(From "Sitaare Zameen Par"\)](https://open.spotify.com/album/677AjzOFaPKMgzl5rLpneJ) | 3:28 |
 | 17 | [Ik Vaari Aa](https://open.spotify.com/track/7fyiYhn7STpHvT5g0lbncC) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Raabta](https://open.spotify.com/album/05U9YwErzcnF0PmyPalDo5) | 4:34 |
 | 18 | [Story of a Bird](https://open.spotify.com/track/5nBOV8rbNUi6SQb4SOrdx0) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Story of a Bird](https://open.spotify.com/album/3yXSlH8QsT0hvJvfJjS2iB) | 3:50 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,528 likes - 89 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,550 likes - 89 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 65 | [Family](https://open.spotify.com/track/1oOXaVhLJnpNmdvB0JLSOl) | [Stailok](https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Family](https://open.spotify.com/album/3ErU1DF7DYc6bcFf2zcBrB) | 4:18 |
 | 66 | [Uma Brasileira](https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Uma Brasileira](https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC) | 3:18 |
 | 67 | [Se va la luna](https://open.spotify.com/track/4mCiEn4QyvzEzMyNdGqN3X) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Se va la luna](https://open.spotify.com/album/7chklGslK4E9zT744tmEy8) | 3:01 |
-| 68 | [Puede Parecer](https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Sí Serás](https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0) | 3:18 |
+| 68 | [The Lady in Red](https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [The Lady in Red](https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd) | 3:45 |
 | 69 | [Naufrago](https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o) | [Mensajeros Reggae](https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE) | [Así](https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte) | 3:57 |
 | 70 | [Este Mundo](https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Negro](https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY) | 4:25 |
 | 71 | [Doce Amor \(Dulce Amor\)](https://open.spotify.com/track/7ramI65lUzXS2XN89aT6pr) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk), [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Doce Amor \(Dulce Amor\)](https://open.spotify.com/album/6AL0oMPAPWgIjsx0pGZrmd) | 5:12 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 74 | [Culpable O No](https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Cover Me](https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0) | 4:10 |
 | 75 | [Si Tú No Estás](https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [E.N Young](https://open.spotify.com/artist/14vjE0DKC1Y9G1WfdCSzFf) | [Si Tú No Estás](https://open.spotify.com/album/3UNLDMe86tqLPxyXz4dZHi) | 3:10 |
 | 76 | [La Naturaleza](https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY) | [Planta & Canta](https://open.spotify.com/artist/2yW6FW6bMFIEtPJgYK4UQ0), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [La Naturaleza](https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE) | 4:14 |
-| 77 | [The Lady in Red](https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [The Lady in Red](https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd) | 3:45 |
+| 77 | [Puede Parecer](https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Sí Serás](https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0) | 3:18 |
 | 78 | [Nada Que Me Venga Mal](https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo) | [Slow Burnin´](https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV) | [Liberación](https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1) | 2:51 |
 | 79 | [Waitin](https://open.spotify.com/track/27Kx5R1fh1tov999b6hfSA) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Waitin](https://open.spotify.com/album/4enVRuv9QzD2jsvk6EeLtT) | 3:42 |
 | 80 | [Lo Que Dicta El Tiempo](https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Amor De Barrio](https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj) | 4:27 |
@@ -92,10 +92,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 82 | [Quién Sos?](https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd) | [Quién Sos?](https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA) | 3:51 |
 | 83 | [El Cuento](https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ) | [12 Tribus](https://open.spotify.com/artist/7whGu0xfNiwItHQv41NXH4), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Súbete](https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU) | 4:05 |
 | 84 | [Seguirla](https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Seguirla](https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm) | 3:11 |
-| 85 | [Portal De Luz](https://open.spotify.com/track/7qAsDWTNvpxY3ao7sFvDUQ) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Portal De Luz](https://open.spotify.com/album/5UdNKgMCEDftWSYelCWBIw) | 4:19 |
-| 86 | [Agua Nueva](https://open.spotify.com/track/0SNOtKlYtfNzv0fg0gdBCh) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Agua Nueva](https://open.spotify.com/album/5LztDzrA8CF02H92LddtOl) | 3:42 |
+| 85 | [Agua Nueva](https://open.spotify.com/track/0SNOtKlYtfNzv0fg0gdBCh) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Agua Nueva](https://open.spotify.com/album/5LztDzrA8CF02H92LddtOl) | 3:42 |
+| 86 | [Portal De Luz](https://open.spotify.com/track/7qAsDWTNvpxY3ao7sFvDUQ) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Portal De Luz](https://open.spotify.com/album/5UdNKgMCEDftWSYelCWBIw) | 4:19 |
 | 87 | [Hombres De Hierro](https://open.spotify.com/track/3Hejy2uyKY41La7CrqLCnD) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Hombres De Hierro](https://open.spotify.com/album/28PPi09N38AQCzBLW5AMZC) | 4:39 |
-| 88 | [De Tanto Caminar](https://open.spotify.com/track/3YYxrPjEt5r9BPWvvdYFae) | [Delfines de Etiopia](https://open.spotify.com/artist/3XhuCg7NlHiT3zafRVZdc9) | [Momento Tiempo](https://open.spotify.com/album/0ydi3g7gS5nXOfc1BHAkd1) | 4:19 |
-| 89 | [Volver a Sentir \- En Vivo en el Teatro Caupolicán](https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [En Vivo Teatro Caupolicán](https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA) | 4:11 |
+| 88 | [Volver a Sentir \- En Vivo en el Teatro Caupolicán](https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [En Vivo Teatro Caupolicán](https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA) | 4:11 |
+| 89 | [De Tanto Caminar](https://open.spotify.com/track/3YYxrPjEt5r9BPWvvdYFae) | [Delfines de Etiopia](https://open.spotify.com/artist/3XhuCg7NlHiT3zafRVZdc9) | [Momento Tiempo](https://open.spotify.com/album/0ydi3g7gS5nXOfc1BHAkd1) | 4:19 |
 
 Snapshot ID: `aENJAgAAAADlXBMoiLctUE2RJCy9EV1N`

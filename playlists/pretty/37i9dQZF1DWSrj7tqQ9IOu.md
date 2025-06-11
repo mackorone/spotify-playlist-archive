@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Victor Marc
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,762 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,741 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Parallel Lines](https://open.spotify.com/track/2h9k3txmnkPpDzMhgohEZO) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [What We Leave Behind](https://open.spotify.com/album/5glE2xnhRJnkan4lHWgXJt) | 2:42 |
 | 50 | [TA LETTRE](https://open.spotify.com/track/23VcYslv7rlmMdVzzxGrUJ) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [TA LETTRE](https://open.spotify.com/album/1lhkv34eWTxdXYvRmdz7l1) | 3:11 |
 
-Snapshot ID: `aEITiwAAAABfBJUqFdTglgWYbYONjww7`
+Snapshot ID: `aEITiwAAAADc9wlRK9QfQ80TCMB7AKiA`

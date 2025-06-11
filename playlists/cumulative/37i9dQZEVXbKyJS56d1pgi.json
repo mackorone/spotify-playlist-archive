@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 197862,
       "name": "Acordar",
       "url": "https://open.spotify.com/track/1M7pnSHpd4i5xFE2nUGq2W"
@@ -2256,7 +2256,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -9508,7 +9508,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 131822,
       "name": "Encosta na Parede",
       "url": "https://open.spotify.com/track/4EVIYtNeI4O8h0lmE0wycC"
@@ -29978,7 +29978,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 258223,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/5p1eiAHN5xYAMrSUDKxidI"
@@ -31074,6 +31074,32 @@
       "duration_ms": 109384,
       "name": "Tipo Hollywood",
       "url": "https://open.spotify.com/track/6nvbXA95vgyThzj2Tbhank"
+    },
+    {
+      "album": {
+        "name": "Tipo Nino Vs Kabrinha",
+        "url": "https://open.spotify.com/album/3kdrIdpP89aiYsJW2e3BYH"
+      },
+      "artists": [
+        {
+          "name": "DJ Biel Divulga",
+          "url": "https://open.spotify.com/artist/4nWyeZK6CbH0eAQ5tRWf9o"
+        },
+        {
+          "name": "DJ Dozabri",
+          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
+        },
+        {
+          "name": "Mc Lek\u00e3o",
+          "url": "https://open.spotify.com/artist/19yiaMgl4Z5TFhUNp7R1JJ"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201230,
+      "name": "Tipo Nino Vs Kabrinha",
+      "url": "https://open.spotify.com/track/1jxQFCC0ukN7AaUwXWK0N8"
     },
     {
       "album": {
@@ -34090,6 +34116,24 @@
       "duration_ms": 121572,
       "name": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC"
+    },
+    {
+      "album": {
+        "name": "EMDP (The Last Album)",
+        "url": "https://open.spotify.com/album/2G4T745eynlKnJdhDj3bAB"
+      },
+      "artists": [
+        {
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163759,
+      "name": "Y Que Fue?",
+      "url": "https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv"
     },
     {
       "album": {

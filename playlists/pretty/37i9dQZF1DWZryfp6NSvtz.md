@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Wunderhorse
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,960 likes - 126 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,012 likes - 126 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 125 | [Girotondo](https://open.spotify.com/track/3JHkcUD528nUi5VSSaAAKj) | [Visconti](https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P) | [Girotondo](https://open.spotify.com/album/6Yswy1d4QHh4CghuAeTeuQ) | 2:58 |
 | 126 | [Black Book](https://open.spotify.com/track/1vTbBTzLzLKz6TVmRIwIBK) | [Our Bodies](https://open.spotify.com/artist/1WROvbRgHUv2btWps6WzGW) | [Black Book](https://open.spotify.com/album/2ZhCAotYBPm0EfTOAyfTvg) | 2:56 |
 
-Snapshot ID: `AAAAAJH5NFPDyIy+E9hh9cLkv9HW/G8P`
+Snapshot ID: `aEIhdgAAAADneRu2vLT9leycVXhG6E3a`

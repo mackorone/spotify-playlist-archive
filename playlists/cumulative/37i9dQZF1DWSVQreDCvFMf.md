@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Arron Rebustes, JAO
 
-407 songs - 1 day 1 hr 34 min
+408 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [A Tale of Us](https://open.spotify.com/track/5fCd7HfQzCDWplEJMaVr5O) | [Huni](https://open.spotify.com/artist/00ZKfj5ZkA4F4KvipCDZQc) | [A Tale of Us](https://open.spotify.com/album/0LEvapJu0hYIKtKo7Ak1JM) | 4:12 | 2024-07-02 | 2024-07-13 |
 | [ABI](https://open.spotify.com/track/4UVXg1Pjs34P366H91egMA) | [Arron Rebustes](https://open.spotify.com/artist/57bzRuWfRpg71paLHsYcjx), [JAO](https://open.spotify.com/artist/6Bc3V3kVnWpY5kqQN6nio5) | [ABI](https://open.spotify.com/album/1y21KDZs9GejirZLd4fYNk) | 3:55 | 2025-05-30 |  |
 | [Ahon](https://open.spotify.com/track/2ZNUhyHeCLzwKLBMH0m48Y) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m), [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ) | [Ahon](https://open.spotify.com/album/6TUc561cCK7NAubC7YVxKN) | 4:17 | 2025-05-09 |  |
+| [AIGHT?](https://open.spotify.com/track/5ogwE88jZ0oowmT2wmSLzB) | [Carl Angelo](https://open.spotify.com/artist/6DSGhKHTjmfiPILjDnDky6) | [Silab](https://open.spotify.com/album/0dxHxcwXMcLptUNBWWIIXn) | 3:07 | 2025-06-10 |  |
 | [Akala Ko](https://open.spotify.com/track/2OWyYWZ2Z03bXqaGcOHJ7T) | [BLASTER](https://open.spotify.com/artist/34KLaW82VNor4hhKXMyXJ9) | [Akala Ko](https://open.spotify.com/album/2lukVfOU2cJCOVmKt6bumz) | 3:43 | 2025-05-02 |  |
 | [Akin](https://open.spotify.com/track/5JVH4SJnTLPDouGwJWdTQD) | [figvres](https://open.spotify.com/artist/4ShxxebL6hOdEveQSOVZkV) | [Akin](https://open.spotify.com/album/6kWDSBC2UNB5qfV92j0TQU) | 4:29 | 2025-05-23 |  |
 | [AKIN](https://open.spotify.com/track/5MT8VS94CftuX3KdPZdBUn) | [LUMI](https://open.spotify.com/artist/0ih2mQrqesmfugYZ2WNLJZ) | [AKIN](https://open.spotify.com/album/4KKSk2igvtrIzzb2AtoxJX) | 3:04 | 2025-05-30 |  |

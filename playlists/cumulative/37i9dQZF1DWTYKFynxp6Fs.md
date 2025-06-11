@@ -4,7 +4,7 @@
 
 > Every song that's Trending NOW from Malayalam! <br/>Cover: Narivetta
 
-73 songs - 4 hr 15 min
+74 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [SHUNDA MANDI](https://open.spotify.com/track/5eOZW6Sqmt34JHdZdYjHd2) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Rishi Roy](https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH) | [SHUNDA MANDI](https://open.spotify.com/album/2mysz6I2aTYuvfgeXA6Lx1) | 3:14 | 2025-03-24 |  |
 | [Sthuthi \(From "Bougainvillea"\)](https://open.spotify.com/track/3ISVxEn74F0nBrO7vEnou8) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Sthuthi \(From "Bougainvillea"\)](https://open.spotify.com/album/0JaTVWR0wj2Ri1LcpiwE4s) | 2:59 | 2024-10-07 | 2025-05-27 |
 | [Sundari Laila \(From "Abhilasham"\)](https://open.spotify.com/track/6KZegrgrc28ZjqWnJSwcTi) | [Sreehari K Nair](https://open.spotify.com/artist/2nUk6QuBVgAPxwIzLQyU9z), [Lal Krishna](https://open.spotify.com/artist/6T9d3iP4qFaKzPATYC0lYE), [Bharath Sajikumar](https://open.spotify.com/artist/1p8cN7ow4EE4F0vNE1gz6i), [Aswin Vijayan](https://open.spotify.com/artist/28GxfEqJSbq0Q2ckxxSxos), [Sharfu](https://open.spotify.com/artist/3avQr1PDVuj9mLt0vySDYa) | [Sundari Laila \(From "Abhilasham"\)](https://open.spotify.com/album/26TC5642qGK3KGChlXZ52F) | 1:20 | 2025-04-08 |  |
+| [Thala \- Male Version](https://open.spotify.com/track/14TFPisWG8mgHFOkP6V0aJ) | [Rahul Raj](https://open.spotify.com/artist/4kbWDG96QZ2HkyVl9l1EmL), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Chotta Mumbai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2i1SJBHJTghlGBWSP5D4fA) | 4:14 | 2025-06-10 |  |
 | [Thallumaala Paattu](https://open.spotify.com/track/1JGdOSXhyXpAu7xUpoygxW) | [Hrithik Jayakish](https://open.spotify.com/artist/1uyEDo5vVeOUdz0xbLBKb4), [Neha Girish](https://open.spotify.com/artist/7j7JiRc4hgylqljp5gmKcv), [Eshaan Sanil](https://open.spotify.com/artist/1zdLDvuJcKyCtgrPAKwEIQ), [Thejas Krishna](https://open.spotify.com/artist/485YsYvNnyDA6LZOq4BGA2), [Vishnu Vijay](https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p) | [Thallumaala Paattu \(From "Thallumaala"\)](https://open.spotify.com/album/2SJjygAl0nTOitVhhBmhNn) | 3:03 | 2022-08-18 | 2025-04-05 |
 | [Thattathil \(From "Abhilasham"\)](https://open.spotify.com/track/6PxB85rPecatl7jZcFHlYK) | [Sreehari K Nair](https://open.spotify.com/artist/2nUk6QuBVgAPxwIzLQyU9z), [Sharfu](https://open.spotify.com/artist/3avQr1PDVuj9mLt0vySDYa) | [Thattathil \(From "Abhilasham"\)](https://open.spotify.com/album/1Dm8yyO41vK1cW9FI0NhaB) | 4:10 | 2025-04-02 |  |
 | [Theerame \- From "Malik"](https://open.spotify.com/track/3XMYdcclpeP0LBmVLr6L8p) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Theerame \(From "Malik"\)](https://open.spotify.com/album/789iCALhEJFyPpWMOlLA0E) | 4:23 | 2023-03-21 |  |

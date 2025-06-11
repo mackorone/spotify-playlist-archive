@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,149 likes - 75 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,134 likes - 75 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 21 | [Five Little Pumpkins Sitting on a Gate](https://open.spotify.com/track/3uawt11RygVvIMXVRMb4PN) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Preschool Halloween Songs](https://open.spotify.com/album/43jz0Ysu62z2Zvi9NZJ3ti) | 1:56 |
 | 22 | [Toodly Doodly Boo](https://open.spotify.com/track/2UeUAHIyYNa5tPJSqLxtzO) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Toodly Doodly Boo](https://open.spotify.com/album/3ugTiT5GGB23CRaDhZwuUd) | 3:29 |
 | 23 | [This Is Halloween](https://open.spotify.com/track/2kKLdZHp3Tfj140BgnbiuJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 3:27 |
-| 24 | [Bones! Bones! Bones!](https://open.spotify.com/track/0eVGZSVkdxVfrtoIZsUDq7) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Awesome Sauce](https://open.spotify.com/artist/4rF4SqHjG4ZNy3k6aJjru1) | [Bones! Bones! Bones!](https://open.spotify.com/album/5V8VkDTGBoTIkxrIywqlda) | 1:37 |
-| 25 | [12345 Once I Caught A Ghost Hi\-Five!](https://open.spotify.com/track/4JvesxqwHz4UXo9HUMf64A) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween With CoComelon](https://open.spotify.com/album/2BkpwLT0nO6fZQyOcYcILu) | 1:53 |
+| 24 | [12345 Once I Caught A Ghost Hi\-Five!](https://open.spotify.com/track/4JvesxqwHz4UXo9HUMf64A) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween With CoComelon](https://open.spotify.com/album/2BkpwLT0nO6fZQyOcYcILu) | 1:53 |
+| 25 | [Bones! Bones! Bones!](https://open.spotify.com/track/0eVGZSVkdxVfrtoIZsUDq7) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Awesome Sauce](https://open.spotify.com/artist/4rF4SqHjG4ZNy3k6aJjru1) | [Bones! Bones! Bones!](https://open.spotify.com/album/5V8VkDTGBoTIkxrIywqlda) | 1:37 |
 | 26 | [Halloween Stomp](https://open.spotify.com/track/3ehXfGKCpCj5LmU2LMqRK7) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Halloween](https://open.spotify.com/album/1k14nuO98b5izdLmLoReL8) | 2:17 |
 | 27 | [What Will You Be for Halloween?](https://open.spotify.com/track/4BYemuA5Ld6WnHqvXDv0z8) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [What Will You Be for Halloween?](https://open.spotify.com/album/4rtIbTzYyoOiwMOsriCMJh) | 2:24 |
 | 28 | [Monsters](https://open.spotify.com/track/4twPZuAAZdJyF0R1se8bv7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Monsters & Goosebumps](https://open.spotify.com/album/7deHbl0kyfHgiOK5OzYowH) | 2:32 |

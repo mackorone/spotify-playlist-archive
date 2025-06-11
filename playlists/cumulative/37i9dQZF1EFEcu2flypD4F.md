@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-394 songs - 1 day 1 hr 2 min
+395 songs - 1 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,8 @@
 | [superbad](https://open.spotify.com/track/0eCKIQmFqczIWgTCE1kK0U) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Dear Joe,](https://open.spotify.com/album/5S9KGKorBFNaLxpviyydiI) | 3:02 | 2025-03-07 |  |
 | [Sweat and Tears](https://open.spotify.com/track/7xlqKLHfdjxerFBsR36Ylc) | [Natalie Portman](https://open.spotify.com/artist/1r3yFdQpEfM9Ip9rNRLzL1) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 2:42 | 2023-12-30 |  |
 | [Sweet Design](https://open.spotify.com/track/5B5sLwwW45tLXW2CYzK8QC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 2:25 | 2023-12-30 |  |
-| [Sweet One](https://open.spotify.com/track/70yw1mWJ1dr9M0A2cDDWF5) | [Katie Noonan](https://open.spotify.com/artist/4ch5DvHFpBlRtZAERVcfHr) | [Songbook](https://open.spotify.com/album/00MGlaDFwsnlyhILi6MIke) | 4:48 | 2023-12-30 |  |
+| [Sweet One](https://open.spotify.com/track/70yw1mWJ1dr9M0A2cDDWF5) | [Katie Noonan](https://open.spotify.com/artist/4ch5DvHFpBlRtZAERVcfHr) | [Songbook](https://open.spotify.com/album/00MGlaDFwsnlyhILi6MIke) | 4:48 | 2023-12-30 | 2025-06-11 |
+| [Sweet One \(feat\. Sia\)](https://open.spotify.com/track/4fYW8D26oT3GjmaBYK3Pm9) | [Katie Noonan](https://open.spotify.com/artist/4ch5DvHFpBlRtZAERVcfHr), [The Captains](https://open.spotify.com/artist/37JtJzCZlbzsJqpkRSoXiG), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Emperor's Box](https://open.spotify.com/album/6MuRAdOhzqvhItkS8lUPST) | 4:07 | 2025-06-10 |  |
 | [Sweet Potato](https://open.spotify.com/track/0X5REyeiMlUl1YJqsjXW3w) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 3:56 | 2023-12-30 |  |
 | [Sóc de Titani \- Titanium](https://open.spotify.com/track/4AfD1g69gUYC2TekIIF21a) | [Edurne](https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh) | [Sóc de Titani \(Titanium\)](https://open.spotify.com/album/7HI1HOsUFRUoFlNyiWfTn0) | 3:12 | 2024-09-26 |  |
 | [Tears Fall](https://open.spotify.com/track/7AwywoYsLhJNxxAcEZzQML) | [Jacquie](https://open.spotify.com/artist/0SuQEAJ7EMAipBdrAYO4XS) | [Tears Fall](https://open.spotify.com/album/0Vb2554uYYq0vMABjZPWY6) | 3:34 | 2023-12-30 |  |

@@ -2,9 +2,9 @@
 
 ### [RAP 91 Malayalam](https://open.spotify.com/playlist/37i9dQZF1DX8OdFBus1U8c)
 
-> Best of Malayalam Hip\-Hop! <br/>Cover :  GOOKU, JOKER 390P, AZWIN
+> Best of Malayalam Hip\-Hop! <br/>Cover :  Thirumali
 
-338 songs - 17 hr 24 min
+339 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,7 @@
 | [Pradhaman](https://open.spotify.com/track/2FREvswB3QKcz86mvndXY6) | [Anohnymouss](https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT), [STIC](https://open.spotify.com/artist/32ruOa5gdWStRHmLau9zL5) | [Pradhaman](https://open.spotify.com/album/1PUesjSuRmSCrLI4njwW75) | 2:27 | 2023-11-10 | 2024-02-13 |
 | [Prayojanam](https://open.spotify.com/track/4yaheKpzPY2sQmeD9axB6q) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g) | [Prayojanam](https://open.spotify.com/album/3TteRqPJZjtKTtkXw34g2v) | 3:26 | 2025-01-09 | 2025-02-18 |
 | [Psycho](https://open.spotify.com/track/4DNno7YwgVANoQLNKcTgQi) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Psycho](https://open.spotify.com/album/2e6W34AqB2NhldDdzzdj9i) | 3:04 | 2022-06-23 | 2023-07-24 |
-| [Puthen Kodi](https://open.spotify.com/track/0QQNTlH92lNuhpNMv5CXsF) | [Slaya](https://open.spotify.com/artist/1gHrrXq8gRv3gBIxOgOdcD) | [Puthen Kodi](https://open.spotify.com/album/0mQhdxGMYb1q7DnZOXd7Yz) | 2:40 | 2025-04-29 |  |
+| [Puthen Kodi](https://open.spotify.com/track/0QQNTlH92lNuhpNMv5CXsF) | [Slaya](https://open.spotify.com/artist/1gHrrXq8gRv3gBIxOgOdcD) | [Puthen Kodi](https://open.spotify.com/album/0mQhdxGMYb1q7DnZOXd7Yz) | 2:40 | 2025-04-29 | 2025-06-11 |
 | [Raavanan](https://open.spotify.com/track/7EZIw08pSqINJLo1wsqd9R) | [AQIL](https://open.spotify.com/artist/7hI4ELuvUPvCLwAH2vtP1T) | [Raavanan](https://open.spotify.com/album/2Fxy7tQSkhKVINxfDaSmWY) | 3:29 | 2024-04-22 | 2024-05-22 |
 | [RAP MONEY](https://open.spotify.com/track/2GX5RJ173nRHB7duLl8qTC) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [RAP MONEY](https://open.spotify.com/album/3J9idTC9bFaMOIhxZvWGgB) | 2:50 | 2023-07-23 | 2024-05-22 |
 | [Rap Scene](https://open.spotify.com/track/0yqdDhyVprEB0o2L9pwmRF) | [riPz](https://open.spotify.com/artist/371uEcwtjldtDNJ8J7j7LA) | [Rap Scene](https://open.spotify.com/album/0SjSyYXqVnGx9UWI7DqoE7) | 3:31 | 2023-09-13 | 2024-02-13 |
@@ -305,6 +305,7 @@
 | [Theruvinte Kalakaran](https://open.spotify.com/track/07m5XcQaa9fFVPsCPyTtof) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Theruvinte Kalakaran](https://open.spotify.com/album/363vnlGOUs1yjshF3cxwlX) | 3:28 | 2022-06-23 | 2025-01-09 |
 | [Theruvinte Mon](https://open.spotify.com/track/0uf8atzwCLOdHhn7Fh3Ms1) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf), [HRISHI](https://open.spotify.com/artist/7kKoRxgfmSO6FeY8iuUO3O) | [Theruvinte Mon](https://open.spotify.com/album/1n3teNhKap8DypDAAEHdoI) | 2:43 | 2024-02-12 | 2024-05-22 |
 | [Thiagarajan Syndrome](https://open.spotify.com/track/6zhDHffeXAQQ80I3MiFjRd) | [RagSagar](https://open.spotify.com/artist/2Bssm0bO0wxnmjJn5mqwzY), [Saurav SR](https://open.spotify.com/artist/24Pw3dvJ8bEAdebRYCbM3p) | [Thiagarajan Syndrome](https://open.spotify.com/album/09WO7uluXsSljENw8Pi5JZ) | 3:25 | 2025-02-25 | 2025-04-30 |
+| [THIRICHARIVU](https://open.spotify.com/track/6pcncqvQOTN0g1E9rQ67B7) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Jay Stellar](https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk) | [THIRICHARIVU](https://open.spotify.com/album/2n3uTWXYmQiHxftXVNvjFZ) | 2:43 | 2025-06-10 |  |
 | [Thirumbi Varuvathu \(From "Neymar"\)](https://open.spotify.com/track/2qJE0biPkcyUlmxXx5lny4) | [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe), [Shaan Rahman](https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [Thirumbi Varuvathu \(From "Neymar"\)](https://open.spotify.com/album/7Gl8rMy67Br16RVGdN0F72) | 2:27 | 2023-07-19 | 2024-03-01 |
 | [Thokku](https://open.spotify.com/track/09d7fEb8T8DipTtGfbqjdA) | [Azuran](https://open.spotify.com/artist/1OxvhhZ38t4JAe6tIRPmLQ), [Pakarcha Vyadhi](https://open.spotify.com/artist/1laDdJtAMkry4ChFpeQV1K), [Zeusheelan](https://open.spotify.com/artist/1qfr8yoyXA3bnan7cexvSN) | [Thokku](https://open.spotify.com/album/0NiPKGCDAmRRAkPqyMw4XK) | 3:18 | 2023-07-23 | 2024-02-13 |
 | [Thollal](https://open.spotify.com/track/66u5SJ10AGPHpBREOhZFhW) | [NISHAD MECHERI](https://open.spotify.com/artist/5GkjcNLMN7z0ayMhCSWb7p), [NAJRAN KABEER](https://open.spotify.com/artist/3GyKlyUkAUXO5JkMgD4ar4), [Ashi](https://open.spotify.com/artist/1r4Ag1UH92ToySUnpmsHaL) | [Thollal](https://open.spotify.com/album/3rNFIhf2s1s7Q37scScpdA) | 3:54 | 2025-01-10 | 2025-04-17 |

@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 936877,
+  "num_followers": 936839,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
-        "name": "Charged Up",
-        "url": "https://open.spotify.com/album/4HckeGUqZQrIUCOGbNJB30"
-      },
-      "artists": [
-        {
-          "name": "Firebeatz",
-          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
-        }
-      ],
-      "duration_ms": 123222,
-      "name": "Charged Up",
-      "url": "https://open.spotify.com/track/414AiThcDCEw5KDrpouSlQ"
-    },
-    {
-      "added_at": "2025-06-06 04:00:23",
-      "album": {
         "name": "Let Me Think About It Again",
         "url": "https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 195813,
       "name": "Let Me Think About It Again",
       "url": "https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY"
+    },
+    {
+      "added_at": "2025-06-06 04:00:23",
+      "album": {
+        "name": "Charged Up",
+        "url": "https://open.spotify.com/album/4HckeGUqZQrIUCOGbNJB30"
+      },
+      "artists": [
+        {
+          "name": "Firebeatz",
+          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
+        }
+      ],
+      "duration_ms": 123222,
+      "name": "Charged Up",
+      "url": "https://open.spotify.com/track/414AiThcDCEw5KDrpouSlQ"
     },
     {
       "added_at": "2025-06-06 04:00:23",
@@ -615,26 +615,6 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Breathe Carolina",
-          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
-        }
-      ],
-      "duration_ms": 163124,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
-    },
-    {
-      "added_at": "2025-06-06 04:00:23",
-      "album": {
         "name": "I'm a Man",
         "url": "https://open.spotify.com/album/3N9SCz8ypCUZ9KL07wv6EQ"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 167076,
       "name": "I'm a Man",
       "url": "https://open.spotify.com/track/3zzzMsXOCCkPAFr2zbmKzY"
+    },
+    {
+      "added_at": "2025-06-06 04:00:23",
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        }
+      ],
+      "duration_ms": 163124,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
     },
     {
       "added_at": "2025-06-06 04:00:23",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/2SWKH00mLsaRmLa1f05Sox"
-      },
-      "artists": [
-        {
-          "name": "Wenzday",
-          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
-        },
-        {
-          "name": "Confession",
-          "url": "https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/6bqKjzTRCFudLgD4kPpMpC"
-    },
-    {
-      "added_at": "2025-06-06 04:00:23",
-      "album": {
         "name": "Arsonist",
         "url": "https://open.spotify.com/album/0itXC9BJZhqiNjNXFwwdln"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 135692,
       "name": "Arsonist",
       "url": "https://open.spotify.com/track/4bdQhbucGehpzEZQgxTv36"
+    },
+    {
+      "added_at": "2025-06-06 04:00:23",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2SWKH00mLsaRmLa1f05Sox"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        },
+        {
+          "name": "Confession",
+          "url": "https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/6bqKjzTRCFudLgD4kPpMpC"
     },
     {
       "added_at": "2025-06-06 04:00:23",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
+        "name": "HOUSE PARTY",
+        "url": "https://open.spotify.com/album/1vUtPZOCuQuByE1TVXgA2H"
+      },
+      "artists": [
+        {
+          "name": "ESCARGOT",
+          "url": "https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3"
+        },
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "HOUSE PARTY",
+      "url": "https://open.spotify.com/track/0cdhN1HqOz9ji1sdZbqSe2"
+    },
+    {
+      "added_at": "2025-06-06 04:00:23",
+      "album": {
         "name": "Goodies - Knock2 Remix",
         "url": "https://open.spotify.com/album/3CZxe7XGcQsoTEPUQI9vn5"
       },
@@ -1275,26 +1295,6 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
-        "name": "HOUSE PARTY",
-        "url": "https://open.spotify.com/album/1vUtPZOCuQuByE1TVXgA2H"
-      },
-      "artists": [
-        {
-          "name": "ESCARGOT",
-          "url": "https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3"
-        },
-        {
-          "name": "SNAILS",
-          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
-        }
-      ],
-      "duration_ms": 185280,
-      "name": "HOUSE PARTY",
-      "url": "https://open.spotify.com/track/0cdhN1HqOz9ji1sdZbqSe2"
-    },
-    {
-      "added_at": "2025-06-06 04:00:23",
-      "album": {
         "name": "B\u20acNZ",
         "url": "https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z"
       },
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
-        "name": "No Ecstasy Love",
-        "url": "https://open.spotify.com/album/23LgdnFZdrukb4zopFgz8e"
-      },
-      "artists": [
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 205846,
-      "name": "No Ecstasy Love",
-      "url": "https://open.spotify.com/track/7zPRxFNAatx8y4LYTAvJrD"
-    },
-    {
-      "added_at": "2025-06-06 04:00:23",
-      "album": {
         "name": "Anywhere You Go",
         "url": "https://open.spotify.com/album/6mRvKOoHZhmm0MLoztR9ky"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 181934,
       "name": "Anywhere You Go",
       "url": "https://open.spotify.com/track/1fFu4J4awCBu1zuwyLrWWh"
+    },
+    {
+      "added_at": "2025-06-06 04:00:23",
+      "album": {
+        "name": "No Ecstasy Love",
+        "url": "https://open.spotify.com/album/23LgdnFZdrukb4zopFgz8e"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 205846,
+      "name": "No Ecstasy Love",
+      "url": "https://open.spotify.com/track/7zPRxFNAatx8y4LYTAvJrD"
     },
     {
       "added_at": "2025-06-06 04:00:23",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
-        "name": "Beat Goes On (feat. Casey Cook)",
-        "url": "https://open.spotify.com/album/1Rot8rGcIeEXCNW960nszl"
-      },
-      "artists": [
-        {
-          "name": "Cheyenne Giles",
-          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
-        },
-        {
-          "name": "Casey Cook",
-          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
-        }
-      ],
-      "duration_ms": 169350,
-      "name": "Beat Goes On (feat. Casey Cook)",
-      "url": "https://open.spotify.com/track/1cI5uk4DpB22EixZCllbwy"
-    },
-    {
-      "added_at": "2025-06-06 04:00:23",
-      "album": {
         "name": "Droppin' It (La La La)",
         "url": "https://open.spotify.com/album/7xYg6EaYOKlvp1rf1EPXX5"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 156190,
       "name": "Droppin' It (La La La)",
       "url": "https://open.spotify.com/track/2rXuuV7atcaVO4cm4UZBZU"
+    },
+    {
+      "added_at": "2025-06-06 04:00:23",
+      "album": {
+        "name": "Beat Goes On (feat. Casey Cook)",
+        "url": "https://open.spotify.com/album/1Rot8rGcIeEXCNW960nszl"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "duration_ms": 169350,
+      "name": "Beat Goes On (feat. Casey Cook)",
+      "url": "https://open.spotify.com/track/1cI5uk4DpB22EixZCllbwy"
     },
     {
       "added_at": "2025-06-06 04:00:23",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
-        "name": "What You Got",
-        "url": "https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh"
-      },
-      "artists": [
-        {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
-        },
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "What You Got",
-      "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
-    },
-    {
-      "added_at": "2025-06-06 04:00:23",
-      "album": {
         "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 141666,
       "name": "My City\u2019s On Fire - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
+    },
+    {
+      "added_at": "2025-06-06 04:00:23",
+      "album": {
+        "name": "What You Got",
+        "url": "https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh"
+      },
+      "artists": [
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        },
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "What You Got",
+      "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
     },
     {
       "added_at": "2025-06-06 04:00:23",
@@ -1651,6 +1651,22 @@
       "duration_ms": 219345,
       "name": "For The People",
       "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
+    },
+    {
+      "added_at": "2025-06-06 04:00:23",
+      "album": {
+        "name": "Selecta",
+        "url": "https://open.spotify.com/album/4bq8jTnpZ8HrQ29TpE0URG"
+      },
+      "artists": [
+        {
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/63ypuogvE15L0ju8wCGJDx"
     },
     {
       "added_at": "2025-06-06 04:00:23",
@@ -1715,26 +1731,6 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
-        "name": "Night Shift",
-        "url": "https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        },
-        {
-          "name": "MASTERIA",
-          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
-        }
-      ],
-      "duration_ms": 230625,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"
-    },
-    {
-      "added_at": "2025-06-06 04:00:23",
-      "album": {
         "name": "Bass Down Low",
         "url": "https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4"
       },
@@ -1771,34 +1767,22 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
-        "name": "Selecta",
-        "url": "https://open.spotify.com/album/4bq8jTnpZ8HrQ29TpE0URG"
+        "name": "Night Shift",
+        "url": "https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT"
       },
       "artists": [
         {
-          "name": "Kapuzen",
-          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/63ypuogvE15L0ju8wCGJDx"
-    },
-    {
-      "added_at": "2025-06-06 04:00:23",
-      "album": {
-        "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
-        "url": "https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7"
-      },
-      "artists": [
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        },
         {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+          "name": "MASTERIA",
+          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
         }
       ],
-      "duration_ms": 176309,
-      "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
-      "url": "https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u"
+      "duration_ms": 230625,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"
     },
     {
       "added_at": "2025-06-06 04:00:23",
@@ -1819,6 +1803,42 @@
       "duration_ms": 135238,
       "name": "Move It (with Luciana)",
       "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
+    },
+    {
+      "added_at": "2025-06-06 04:00:23",
+      "album": {
+        "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
+        "url": "https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "duration_ms": 176309,
+      "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
+      "url": "https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u"
+    },
+    {
+      "added_at": "2025-06-06 04:00:23",
+      "album": {
+        "name": "I'm Drunk (feat. AMY MIY\u00da)",
+        "url": "https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta"
+      },
+      "artists": [
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        },
+        {
+          "name": "AMY MIY\u00da",
+          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
+        }
+      ],
+      "duration_ms": 150234,
+      "name": "I'm Drunk (feat. AMY MIY\u00da)",
+      "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
     },
     {
       "added_at": "2025-06-06 04:00:23",
@@ -1847,42 +1867,6 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
-        "name": "I'm Drunk (feat. AMY MIY\u00da)",
-        "url": "https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta"
-      },
-      "artists": [
-        {
-          "name": "Yung Felix",
-          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
-        },
-        {
-          "name": "AMY MIY\u00da",
-          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
-        }
-      ],
-      "duration_ms": 150234,
-      "name": "I'm Drunk (feat. AMY MIY\u00da)",
-      "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
-    },
-    {
-      "added_at": "2025-06-06 04:00:23",
-      "album": {
-        "name": "Chain Gang",
-        "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 107536,
-      "name": "Chain Gang",
-      "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
-    },
-    {
-      "added_at": "2025-06-06 04:00:23",
-      "album": {
         "name": "Free My Mind",
         "url": "https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU"
       },
@@ -1903,22 +1887,18 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
-        "name": "On Repeat",
-        "url": "https://open.spotify.com/album/6diHtMekZwOe9u0yPsGGj9"
+        "name": "Chain Gang",
+        "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
       },
       "artists": [
         {
-          "name": "Charmes",
-          "url": "https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ"
-        },
-        {
-          "name": "ED_PRJCT",
-          "url": "https://open.spotify.com/artist/3pfE00p0ds0YdtRwWi4DtR"
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         }
       ],
-      "duration_ms": 138518,
-      "name": "On Repeat",
-      "url": "https://open.spotify.com/track/7sBpjG2LLkn0gsJFrPgXne"
+      "duration_ms": 107536,
+      "name": "Chain Gang",
+      "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
     },
     {
       "added_at": "2025-06-06 04:00:23",
@@ -1939,6 +1919,26 @@
       "duration_ms": 160849,
       "name": "Afterparty",
       "url": "https://open.spotify.com/track/1P8mmV6llhUuj8sz3By1q1"
+    },
+    {
+      "added_at": "2025-06-06 04:00:23",
+      "album": {
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/6diHtMekZwOe9u0yPsGGj9"
+      },
+      "artists": [
+        {
+          "name": "Charmes",
+          "url": "https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ"
+        },
+        {
+          "name": "ED_PRJCT",
+          "url": "https://open.spotify.com/artist/3pfE00p0ds0YdtRwWi4DtR"
+        }
+      ],
+      "duration_ms": 138518,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/7sBpjG2LLkn0gsJFrPgXne"
     }
   ],
   "unique_name": "Shuffle Syndrome",

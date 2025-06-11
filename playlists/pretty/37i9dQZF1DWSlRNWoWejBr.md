@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ginga y balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 899,236 likes - 75 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 899,613 likes - 75 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 52 | [Folga No Trampo](https://open.spotify.com/track/1uGVaYQNjMPmVO0gAtzHnZ) | [MC Luiggi](https://open.spotify.com/artist/3Ie7tlw7AZSqd9GNFjCRAP), [Mc Kitinho](https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO), [DJ Lukas Matheus](https://open.spotify.com/artist/7sPsy5FMTkslbHy9PGaoFz) | [Folga No Trampo](https://open.spotify.com/album/4JUaN7FvGbXTm7KrGo4BtL) | 2:23 |
 | 53 | [Que Saudade de Você](https://open.spotify.com/track/5QyecPCNZUVL1qDNTdt1qM) | [Mc Kaio](https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx), [MC L da Vinte](https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo) | [Que Saudade de Você](https://open.spotify.com/album/4pYNN6mFLoNfjOCS55sugx) | 2:03 |
 | 54 | [Trilogia 150](https://open.spotify.com/track/19ipNAuJDPuz6ILrT0UFu1) | [MC Roger](https://open.spotify.com/artist/6QiUH0jJVJUdnte0jX1Wzj), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [MC PG](https://open.spotify.com/artist/2vl278iLkl20FIEnTRDQm8) | [Trilogia 150](https://open.spotify.com/album/43nTGYQSX4dkIOUoayPLdu) | 2:09 |
-| 55 | [Sexta\-Feira Tô na Bala](https://open.spotify.com/track/7Lm79MdoqvoxnpnOSp7FR8) | [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [DJ Guih Da ZO](https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx) | [Sexta\-Feira Tô na Bala](https://open.spotify.com/album/6KdHQQe9PAVwPHgOkxRMCM) | 3:26 |
+| 55 | [Sexta\-Feira Tô na Bala](https://open.spotify.com/track/7Lm79MdoqvoxnpnOSp7FR8) | [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [DJ Guih Da ZO](https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx), [2Click](https://open.spotify.com/artist/1HFlteLskPFaDFOdfn31hb) | [Sexta\-Feira Tô na Bala](https://open.spotify.com/album/6KdHQQe9PAVwPHgOkxRMCM) | 3:26 |
 | 56 | [Eu sou Cantor Não Sou Bandido](https://open.spotify.com/track/2wXqRqVGiGB2fyy9eoPJbP) | [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT) | [Eu sou Cantor Não Sou Bandido](https://open.spotify.com/album/2hP5V6Xu71tHrg7bmlSS89) | 4:26 |
 | 57 | [A Danada Me Ligando](https://open.spotify.com/track/3H7eBmcTJyuEMStfmKuLmG) | [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [DJ Oreia](https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Mc Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm) | [A Danada Me Ligando](https://open.spotify.com/album/5JSy0y2EhIpd2duve74FqE) | 4:43 |
 | 58 | [Hoje o Dia Tá Bonito](https://open.spotify.com/track/2MHQdlPaIcD49dJXHd6MYI) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [GringoBeats808](https://open.spotify.com/artist/5H2zqAv4kVidX9S98sanYa) | [Hoje o Dia Tá Bonito](https://open.spotify.com/album/4yhFvEgprV0ERYI7KYBDL8) | 1:49 |

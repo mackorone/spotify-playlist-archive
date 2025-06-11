@@ -999,6 +999,24 @@
     },
     {
       "album": {
+        "name": "Cosmic Trinity",
+        "url": "https://open.spotify.com/album/3A5DjmDDQVqhqTrrbQcMh5"
+      },
+      "artists": [
+        {
+          "name": "Infinitesimal",
+          "url": "https://open.spotify.com/artist/70m8DH3NleJbaiOF5soVYM"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211350,
+      "name": "Cosmic Trinity",
+      "url": "https://open.spotify.com/track/7amtYM2FuWSWBzlb40Y8OH"
+    },
+    {
+      "album": {
         "name": "Cosmos",
         "url": "https://open.spotify.com/album/1qODcPWaDKdK4bGZGgNDKA"
       },
@@ -1912,7 +1930,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 226833,
       "name": "Gleam",
       "url": "https://open.spotify.com/track/7oA6HCPv6DK944HwoKB7fN"

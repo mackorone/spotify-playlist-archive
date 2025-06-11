@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Cold Dream](https://open.spotify.com/track/1JpCGxRT3yexccFeCcxTE5) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [一天的交界](https://open.spotify.com/album/77K5EwWtG43DxX6bIFyCIN) | 3:54 | 2024-01-23 | 2025-01-11 |
-| [DISEASE](https://open.spotify.com/track/3iWYMsT2kwGv7fVzjtGgjY) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [DISEASE](https://open.spotify.com/album/48muWPXD65T8ExoCG4UVAp) | 4:23 | 2025-01-10 |  |
+| [DISEASE](https://open.spotify.com/track/3iWYMsT2kwGv7fVzjtGgjY) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [DISEASE](https://open.spotify.com/album/48muWPXD65T8ExoCG4UVAp) | 4:22 | 2025-01-10 |  |
 | [F.O.](https://open.spotify.com/track/6s7dsNAVIvTy6pS3MLWEuN) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Way out](https://open.spotify.com/album/4ebUiIXxTDyS9LhtItkPRj) | 3:21 | 2024-01-23 | 2025-01-11 |
 | [Marching](https://open.spotify.com/track/4dPO2F6oOCgCbm8rk3xSon) | [Vinida Weng](https://open.spotify.com/artist/6oYvpkS6pM9ts4nbXRaINg) | [7th Seed](https://open.spotify.com/album/76L0k8lPXrPAZtaX87FK6M) | 2:51 | 2025-01-10 |  |
 | [One Time](https://open.spotify.com/track/1Paux5JtRTuhuPZagjdBbh) | [Soft Lipa](https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T), [Black MIC](https://open.spotify.com/artist/6w62HSgZvXKJpsSHXNPp2l), [Yappy](https://open.spotify.com/artist/28G5rtbvCmWsjyp5G6LwMe) | [One Time](https://open.spotify.com/album/1CjguZo4rflz8qf9ZWDTlu) | 4:15 | 2024-01-23 | 2025-01-11 |

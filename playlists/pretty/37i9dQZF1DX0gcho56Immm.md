@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Smerz
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,618 likes - 113 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,715 likes - 113 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 | 5 | [Sun Tan](https://open.spotify.com/track/5Vcly7T9MwGfvEMYk90RrI) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Sun Tan](https://open.spotify.com/album/06o9hDDvMetaUcbnATlFtg) | 3:37 |
 | 6 | [I could](https://open.spotify.com/track/5EmtveGyjsE023P8atahBQ) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [I could](https://open.spotify.com/album/1vea1LG3TmBnFdUP4H0K0B) | 2:36 |
 | 7 | [Rivet Gun](https://open.spotify.com/track/5MAJGAdzKex0Z8Po7GwS4e) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Rivet Gun](https://open.spotify.com/album/0DAG064jI5VUY0CAWDYZG2) | 2:17 |
-| 8 | [daugther](https://open.spotify.com/track/5VRbDeF87UzXK8LI1HLk3f) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [daugther](https://open.spotify.com/album/4FlWe4YmzMi9LVFZlza1AK) | 4:46 |
+| 8 | [daughter](https://open.spotify.com/track/5VRbDeF87UzXK8LI1HLk3f) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [daughter](https://open.spotify.com/album/4FlWe4YmzMi9LVFZlza1AK) | 4:46 |
 | 9 | [Police Scanner](https://open.spotify.com/track/1uLOYD6T0wdpOD8FcgsPuv) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/0TX4JFqSmYn8T7qMpZbvGY) | 2:22 |
 | 10 | [dog\-tired](https://open.spotify.com/track/4ckNiDVC9gYumzgg9qZTQH) | [Camille Keller](https://open.spotify.com/artist/3cSFP8ZUJeHzJaPdHtdl0F) | [Lack of G\-LIP](https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4) | 2:21 |
 | 11 | [Until June](https://open.spotify.com/track/4reIkCla73IpG17FZel0Hf) | [effe](https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX) | [Until June](https://open.spotify.com/album/7xlOzPNL2DyzVzwNoAvFJC) | 3:48 |

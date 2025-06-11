@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1979](https://open.spotify.com/track/5KRRcT67VNIZUygEbMoIC1) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness](https://open.spotify.com/album/09LdvC3k8ybEmyeiShUWw2) | 4:25 | 2020-11-18 |  |
+| [1979](https://open.spotify.com/track/5KRRcT67VNIZUygEbMoIC1) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness](https://open.spotify.com/album/09LdvC3k8ybEmyeiShUWw2) | 4:25 | 2020-11-18 | 2025-06-11 |
 | [1979 \- Remastered 2012](https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:26 | 2020-11-18 | 2024-04-19 |
 | [32 Flavors](https://open.spotify.com/track/6oipWwDsUB0XCoZfZeRBvW) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Not A Pretty Girl](https://open.spotify.com/album/5HkAhOC4QT6SYmlzuBqFdb) | 6:07 | 2020-11-18 | 2022-07-29 |
 | [A Long December](https://open.spotify.com/track/1tjKIXd7DYNklhVSgBxREi) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Recovering The Satellites](https://open.spotify.com/album/4YArB2Q848BDmmwUUumEFP) | 4:55 | 2020-11-18 |  |
@@ -137,6 +137,6 @@
 | [You Were Meant For Me](https://open.spotify.com/track/6kBU9uWqar0Fw2Ws0he11A) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Pieces Of You](https://open.spotify.com/album/6t0qVXx77kMCVyxHejzJsP) | 4:14 | 2020-11-18 | 2022-07-29 |
 | [You Were Meant For Me](https://open.spotify.com/track/7y7aSSTiQfO0Ace4F7yxzE) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Pieces Of You](https://open.spotify.com/album/3g9baRrkyeaxVVlKALv9Pr) | 4:14 | 2020-11-18 | 2024-04-19 |
 | [Zombie \(Acoustic Version\)](https://open.spotify.com/track/1aZfq7TK3tNl9XJLkOpwKw) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL) | 4:01 | 2020-11-18 | 2024-04-19 |
-| [Zombie \- Acoustic Version](https://open.spotify.com/track/1qylvO4iCIZZcqc4TqSjTZ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/0iBRl2CMi7gbt17WfdVI2r) | 4:01 | 2020-11-18 | 2025-05-21 |
+| [Zombie \- Acoustic Version](https://open.spotify.com/track/1qylvO4iCIZZcqc4TqSjTZ) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/0iBRl2CMi7gbt17WfdVI2r) | 4:01 | 2020-11-18 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Wake up at your own pace with gentle piano music.
 
-161 songs - 7 hr 0 min
+162 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Kaleidoscope](https://open.spotify.com/track/3WiissyVFRpCVrqbyPKZxZ) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Kaleidoscope](https://open.spotify.com/album/0eVw8w35dO9VuGLy4vOprZ) | 2:01 | 2021-04-21 | 2025-06-05 |
 | [Lekko](https://open.spotify.com/track/6hg8132jlk9fZsSbfpdmGR) | [Marcin Starosta](https://open.spotify.com/artist/3zXWrdKJkoFzMsPsw51Nzw) | [Lekko](https://open.spotify.com/album/2AKOAyRuAkRAg0sNWoH2nL) | 2:27 | 2021-04-21 |  |
 | [Les rêveries élusives](https://open.spotify.com/track/57lP0TxQtO4lsBqSEbDOgw) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Les rêveries élusives](https://open.spotify.com/album/0MMT4isaDPBPS4i0eLw4wC) | 2:23 | 2024-11-25 |  |
+| [Light](https://open.spotify.com/track/4XOrreh4CufJwuUg3p7DuR) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Light](https://open.spotify.com/album/67fKGoAizybPTMM2l27bpP) | 2:47 | 2025-06-10 |  |
 | [Litany](https://open.spotify.com/track/6hNwn4kKfeuDJUDqNFI4s9) | [Daniella Babbitt](https://open.spotify.com/artist/11qA90NqXDlLWVji5Vmwct) | [Litany](https://open.spotify.com/album/5tGHP4Do2fHjjTB8y3egi5) | 2:52 | 2021-04-21 | 2025-03-12 |
 | [Look Inside Yourself](https://open.spotify.com/track/0HjbgCPF2lbT6zvaLsfkql) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Look Inside Yourself](https://open.spotify.com/album/30RisILwJC85OO8yOOlxRs) | 3:38 | 2022-03-18 | 2022-11-13 |
 | [Look Inside Yourself](https://open.spotify.com/track/52GQU2qUtb25jJEmg9hYcU) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Look Inside Yourself](https://open.spotify.com/album/6S0jnsTpJ5qoskAUyjXIm5) | 3:38 | 2021-04-21 | 2024-10-01 |

@@ -4,7 +4,7 @@
 
 > This is Guns N' Roses\. The essential tracks, all in one playlist.
 
-62 songs - 5 hr 4 min
+63 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Don't Cry \(Original\)](https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 4:43 | 2022-09-17 |  |
 | [Double Talkin' Jive](https://open.spotify.com/track/46AtSShP5IL2Ls3uHpxmt8) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 3:22 | 2022-09-17 |  |
 | [Double Talkin' Jive \- Live In Las Vegas, Thomas & Mack Center \- January 25, 1992](https://open.spotify.com/track/4qFgFSv8kYaM9zE2W5uPGX) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Double Talkin' Jive / You Could Be Mine](https://open.spotify.com/album/2N4TYFo5gG1Ej9VhdDJVTN) | 8:40 | 2022-10-31 | 2022-11-17 |
+| [Down On The Farm](https://open.spotify.com/track/1AU7nLoyAO170E6V5iZkEM) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The Spaghetti Incident?](https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu) | 3:28 | 2025-06-11 |  |
 | [Dust N' Bones](https://open.spotify.com/track/4vtXsXvSYaTfKQ0dJXbJGu) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 4:58 | 2022-09-17 |  |
 | [Estranged](https://open.spotify.com/track/3s03nrUInN3NAVjQtmnS0O) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 9:23 | 2022-09-17 |  |
 | [Hair Of The Dog](https://open.spotify.com/track/1kq4BX4zZHyr4O5cJGcduh) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The Spaghetti Incident?](https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu) | 3:54 | 2022-09-17 |  |
@@ -48,7 +49,7 @@
 | [Paradise City](https://open.spotify.com/track/3YBZIN3rekqsKxbJc9FZko) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5) | 6:45 | 2022-09-17 | 2023-03-18 |
 | [Patience](https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 5:54 | 2022-09-17 |  |
 | [Perhaps](https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Perhaps](https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb) | 3:48 | 2023-08-19 |  |
-| [Raw Power](https://open.spotify.com/track/2foNAckCzsyD0HJUbmhTZJ) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The Spaghetti Incident?](https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu) | 3:11 | 2022-09-17 |  |
+| [Raw Power](https://open.spotify.com/track/2foNAckCzsyD0HJUbmhTZJ) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The Spaghetti Incident?](https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu) | 3:11 | 2022-09-17 | 2025-06-11 |
 | [Reckless Life](https://open.spotify.com/track/5k1j3UnyXvmgIyNWIfycFb) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [G N' R Lies](https://open.spotify.com/album/1RCAG3LrDwYsNU5ZiUJlWi) | 3:22 | 2022-09-17 | 2023-03-22 |
 | [Reckless Life \- Live](https://open.spotify.com/track/0iLV9SuiXvAf7QI1LIHybg) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 3:21 | 2023-03-21 |  |
 | [Rocket Queen](https://open.spotify.com/track/6v5VsfCYKdrkQBTMhAlkDr) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5) | 6:13 | 2022-09-17 | 2022-12-14 |

@@ -16987,6 +16987,28 @@
     },
     {
       "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/5tU26oyOJsrG1TfSN4mCrM"
+      },
+      "artists": [
+        {
+          "name": "Ra5im",
+          "url": "https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk"
+        },
+        {
+          "name": "Arnie Way",
+          "url": "https://open.spotify.com/artist/5cHBng7fvXk2Ea8UcyR5ct"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153813,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/390IAPX580IGV2Rx8dx8ot"
+    },
+    {
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/5pqtjYOAyfkki8usZYPXAY"
       },

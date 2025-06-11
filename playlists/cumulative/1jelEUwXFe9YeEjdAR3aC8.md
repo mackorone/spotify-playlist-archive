@@ -4,7 +4,7 @@
 
 > Listen here for the best emerging British Acts across pop, alternative and more
 
-817 songs - 1 day 21 hr 30 min
+819 songs - 1 day 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -671,6 +671,7 @@
 | [Sunshine Baby](https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Sunshine Baby](https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI) | 3:39 | 2023-05-22 | 2023-06-13 |
 | [superglue \(stripped\)](https://open.spotify.com/track/1JkFZhU00Ztdv1c4GvzrP2) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [superglue \(stripped\)](https://open.spotify.com/album/3EapjVxmTtUMa0afVw8nUi) | 3:51 | 2023-07-16 | 2023-07-25 |
 | [Survive My Own Mind](https://open.spotify.com/track/6GiI6EnuQ5V7pJ5WxOJ6z4) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Survive My Own Mind](https://open.spotify.com/album/1ywqaWYRgovlH12fhAFdpN) | 3:13 | 2022-10-24 | 2023-01-24 |
+| [Swedish Girl](https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Swedish Girl](https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo) | 2:33 | 2025-06-10 |  |
 | [Sweet Symphony \(feat\. Chris Stapleton\) \- Living Proof Version](https://open.spotify.com/track/1KNre6pPRHOLQyjiBLgGmX) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Sweet Symphony \(Living Proof Version\)](https://open.spotify.com/album/6Hn7kX63d5uEm7mn0ZSCGH) | 3:45 | 2023-10-02 | 2023-10-31 |
 | [Sweet Symphony \(with Chris Stapleton\)](https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Sweet Symphony](https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7) | 3:48 | 2022-09-27 | 2023-02-21 |
 | [swimming in pity](https://open.spotify.com/track/2cBLY3kNAJ2IjygBLpRrli) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [swimming in pity](https://open.spotify.com/album/6ySG6aUUn6g8xujn2xKaM6) | 2:56 | 2025-04-24 |  |
@@ -786,6 +787,7 @@
 | [White Light](https://open.spotify.com/track/5ZcOxwQlVwUYhWZHqjjIMR) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [Puff Piece](https://open.spotify.com/album/7kmtAF4DN4Rfde2mv5e1r3) | 3:12 | 2022-10-10 | 2022-10-18 |
 | [Who are you?](https://open.spotify.com/track/2EIUQkawLEdWDytIL0mQV8) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/1qOdryKl2RmYnnLHgx2AXm) | 2:31 | 2025-04-24 |  |
 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 | 2025-05-07 |  |
+| [Who Knew Dancing Was A Sin](https://open.spotify.com/track/09qCrdsapK16DbhzFBzvMA) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [Who Knew Dancing Was A Sin](https://open.spotify.com/album/2agANvTRbWcM7wzBgaSRFA) | 3:14 | 2025-06-10 |  |
 | [Who’s Making You Feel It](https://open.spotify.com/track/3fogOLGOLBcvpDD5e0ukPa) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Who’s Making You Feel It](https://open.spotify.com/album/5aZnyZi7nvqMtZSkMYMlR6) | 3:36 | 2025-04-24 |  |
 | [Who’s There To Love Without You?](https://open.spotify.com/track/4tBZyQzNxXMvRUdpwv9j95) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Who’s There To Love Without You?](https://open.spotify.com/album/3ZqtUDdI0wz0DNBfE1iKLK) | 3:03 | 2025-05-07 |  |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2025-02-21 | 2025-04-25 |

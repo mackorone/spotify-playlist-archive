@@ -1878,7 +1878,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 192853,
       "name": "AURORA",
       "url": "https://open.spotify.com/track/18m5dJOPB2geFwOymXNaWg"
@@ -3888,7 +3888,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 228541,
       "name": "Cicatrices",
       "url": "https://open.spotify.com/track/23FJGRug9hlYUIBnrmkIBX"
@@ -4284,7 +4284,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 231680,
       "name": "Como Lo Hizo? - En Vivo",
       "url": "https://open.spotify.com/track/3KAdpFK7rveKAAwpgjwhNn"
@@ -4456,7 +4456,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 72937,
       "name": "Conmigo Te Gust\u00f3",
       "url": "https://open.spotify.com/track/4eqXTlaHeK6xkM1fRx9wR5"
@@ -5770,6 +5770,48 @@
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
+    },
+    {
+      "album": {
+        "name": "Diles",
+        "url": "https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286040,
+      "name": "Diles",
+      "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
     },
     {
       "album": {
@@ -8024,7 +8066,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 130196,
       "name": "FUE CULPA TUYA",
       "url": "https://open.spotify.com/track/71N3UjxfXEWljGkjBDcnNY"
@@ -12416,7 +12458,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
@@ -12526,7 +12568,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 166794,
       "name": "MEJOR QUE VOS",
       "url": "https://open.spotify.com/track/36x1AGih4bK9cnPjbbChgG"
@@ -14102,7 +14144,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 272733,
       "name": "No Podr\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/3X8jKI7kHrbhqgLboG14tw"
@@ -14586,7 +14628,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 299810,
       "name": "Nunca Lo Olvides",
       "url": "https://open.spotify.com/track/4581iSIX0QZNNzAQRysF3k"
@@ -15592,7 +15634,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-24",
+      "date_removed": null,
       "duration_ms": 256555,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
@@ -18810,7 +18852,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 164000,
       "name": "Si Las Gatas Se Amotinan",
       "url": "https://open.spotify.com/track/76lXtXJP6VqX6r9Ks3AUy0"

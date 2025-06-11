@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 10 Jun 03:03 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 10 Jun 18:03 UTC.
 
-4,907 songs - 11 day 8 hr 57 min
+4,909 songs - 11 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1362,6 +1362,7 @@
 | [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 | 2024-05-03 | 2024-05-05 |
 | [Every Time the Sun Comes Up](https://open.spotify.com/track/0EVteu1b9ADgqPdSRvLDGL) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Every Time the Sun Comes Up](https://open.spotify.com/album/6UF26PZulm5iH78Tw1EMFu) | 4:22 | 2024-05-28 | 2024-06-01 |
 | [Everybody Gets Down](https://open.spotify.com/track/0Z3YRaL0NvDgPdhTQTnqip) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Everybody Gets Down](https://open.spotify.com/album/2itGQCqttw47maPiLdncOM) | 2:41 | 2025-05-12 | 2025-05-22 |
+| [Everybody Laughs](https://open.spotify.com/track/1gbFItwP8tng1ZeXoqh0eS) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [Everybody Laughs](https://open.spotify.com/album/07UWuNYU2qSx5QMSJsNtkL) | 3:48 | 2025-06-10 |  |
 | [Everybody Needs Me](https://open.spotify.com/track/7i5sSFLuU6PKPxOnPvdWKA) | [Tom MacDonald](https://open.spotify.com/artist/6DvlemMOlMH6VD9tB7BPRf) | [Everybody Needs Me](https://open.spotify.com/album/7oIR0HGqW8m9Gn4IuzfdkT) | 3:11 | 2024-08-23 | 2024-08-29 |
 | [Everybody Worldwide](https://open.spotify.com/track/3yYVvyE09OeA8vBNkX3dCv) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Everybody Worldwide](https://open.spotify.com/album/0fJXUwr5v6bJhT5cRSqHd4) | 3:03 | 2024-09-25 | 2024-09-28 |
 | [Everyday](https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Everyday](https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et) | 3:40 | 2025-01-03 | 2025-01-17 |
@@ -2858,6 +2859,7 @@
 | [MUZEU](https://open.spotify.com/track/70lIMzCAltgvTJRFJe8s2Y) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [MUZEU](https://open.spotify.com/album/3bd1dMnWuPI1eKBda71qCy) | 2:36 | 2024-11-01 | 2024-11-06 |
 | [MxstHated](https://open.spotify.com/track/1OKdwDDv4Hx2Ull8xpCvm2) | [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [MxstHated / Sxld My Sxul](https://open.spotify.com/album/2cq1sqjm5df3ryvoI3xnim) | 2:21 | 2025-02-23 | 2025-03-02 |
 | [My Baby](https://open.spotify.com/track/3IoknZ5v6SeuCiinT5j7MS) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [My Baby](https://open.spotify.com/album/34U5by0mD1zacluFdEmAoU) | 2:47 | 2024-09-27 | 2024-10-01 |
+| [My Baby \(Got Nothing At All\) \(Materialists Original Soundtrack\)](https://open.spotify.com/track/6P0bG1wDbLvs8kNJV4hQUt) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [My Baby \(Got Nothing At All\) \(Materialists Original Soundtrack\)](https://open.spotify.com/album/5ykmfDC5Y89gnzQYE8oPIu) | 4:02 | 2025-06-10 |  |
 | [My Beautiful Girl](https://open.spotify.com/track/3tuzP0VTRq1be7QrbSmBMe) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [My Beautiful Girl](https://open.spotify.com/album/0tasLYViIeiNn7GfozOJ71) | 2:13 | 2024-10-08 | 2024-10-11 |
 | [MY BRUDDAS KEEPER](https://open.spotify.com/track/1sV6V7dYtHHgKKUY1o5AUb) | [Doodie Lo](https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7) | [MY BRUDDAS KEEPER](https://open.spotify.com/album/6PRxvsyauUKTg0NCAkVHPW) | 2:14 | 2024-10-30 | 2024-11-01 |
 | [My Demise](https://open.spotify.com/track/4khMFRcix9aKyMK8xrMR4I) | [Red Handed Denial](https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7) | [My Demise](https://open.spotify.com/album/16npYkSzHqRMovT2rZPxvI) | 3:37 | 2024-05-08 | 2024-05-11 |
@@ -3349,7 +3351,7 @@
 | [Profane Usurpation](https://open.spotify.com/track/1xa5DbGc2eyvG7oZrLB5LA) | [KRUELTY](https://open.spotify.com/artist/0R2MCc7Bg2RsZb7nOKpJdU) | [Profane Usurpation](https://open.spotify.com/album/1aQvOk6rCEDUqZYs8eDddZ) | 3:46 | 2024-10-08 | 2024-10-11 |
 | [Project Z](https://open.spotify.com/track/3CLhTFlOw3qvfQhl4ax4Qg) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Project Z](https://open.spotify.com/album/6h04HyX6APITqu3K1JptQl) | 3:45 | 2024-09-27 | 2024-10-02 |
 | [promises](https://open.spotify.com/track/4eZZwf34YtM0QxkGljAhdj) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [promises](https://open.spotify.com/album/1m7138O2yJiku77vNLBcJD) | 2:28 | 2024-11-29 | 2024-12-05 |
-| [Prophecy](https://open.spotify.com/track/6dUN5gfOJN6y61piEiPViQ) | [Creo](https://open.spotify.com/artist/7oh6gwRCYhambO8qcKh3T1) | [Prophecy](https://open.spotify.com/album/6glqlPmfb0zXdAeCCEoUqC) | 2:46 | 2025-06-05 |  |
+| [Prophecy](https://open.spotify.com/track/6dUN5gfOJN6y61piEiPViQ) | [Creo](https://open.spotify.com/artist/7oh6gwRCYhambO8qcKh3T1) | [Prophecy](https://open.spotify.com/album/6glqlPmfb0zXdAeCCEoUqC) | 2:46 | 2025-06-05 | 2025-06-11 |
 | [PROTECT THE CROSS](https://open.spotify.com/track/0g1E4Q6653qeAegOEL5T1B) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [PROTECT THE CROSS](https://open.spotify.com/album/5Y8Ay1cUK6y5454OOzwbfm) | 2:49 | 2025-01-20 | 2025-01-30 |
 | [Protector](https://open.spotify.com/track/246PeUwGKXRy9Uvl3lQU9U) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Protector](https://open.spotify.com/album/0Lg5U1P4p7c2jjzZStHPkm) | 4:49 | 2024-07-29 | 2024-08-01 |
 | [PROTEÇÃO DIVINA](https://open.spotify.com/track/1l6oWvVBXhBYbhVIXYsnNQ) | [EF](https://open.spotify.com/artist/31zD0TKiTJ0OlcW3I6JI27), [YUNG LIXO](https://open.spotify.com/artist/6ab8tnQvr8sXXIpSZCrbQs) | [PROTEÇÃO DIVINA](https://open.spotify.com/album/7zlXmyjN6u5BnIaV3rmRfh) | 2:28 | 2024-09-12 | 2024-09-14 |
@@ -3907,7 +3909,7 @@
 | [Standalone](https://open.spotify.com/track/5H63aGGsjcpDvzuqBZTV1o) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [Standalone+1](https://open.spotify.com/album/3AavCvQYJLFv7qmSgyLbHt) | 1:08 | 2024-12-28 | 2025-01-12 |
 | [Star](https://open.spotify.com/track/491IJw5T7r2a45NM7clcNk) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [Retrospective: Star](https://open.spotify.com/album/4Nqu8TIwAYEeD1xbBLD9gB) | 3:00 | 2024-08-28 | 2024-08-31 |
 | [Star](https://open.spotify.com/track/6LM7O0ujf9VfPleIQA1bWm) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Star](https://open.spotify.com/album/45U3g8nL4BlpuD93BmbIv5) | 2:04 | 2024-07-26 | 2024-07-30 |
-| [Star 69](https://open.spotify.com/track/6pSFh3VxiFzSrov1Se4Rql) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [Star 69](https://open.spotify.com/album/4RHqGETvVg3UTdiesKXo2m) | 2:56 | 2025-06-01 |  |
+| [Star 69](https://open.spotify.com/track/6pSFh3VxiFzSrov1Se4Rql) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [Star 69](https://open.spotify.com/album/4RHqGETvVg3UTdiesKXo2m) | 2:56 | 2025-06-01 | 2025-06-11 |
 | [Star Signs](https://open.spotify.com/track/21ZvC8aUTJIe5IBT34sLbG) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Star Signs](https://open.spotify.com/album/3V9OWu0finGlIhiPkf2XUv) | 2:40 | 2024-11-12 | 2024-11-26 |
 | [STARBLAZE](https://open.spotify.com/track/296UE3AygQKdzequJhUdGz) | [xaev](https://open.spotify.com/artist/10zsHcOcO047KmhOhi57iL) | [STARBLAZE](https://open.spotify.com/album/0WFn8xobTBPK5Zib09K6hc) | 3:06 | 2024-06-06 | 2024-06-09 |
 | [Starburned and Unkissed](https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Starburned and Unkissed](https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc) | 3:40 | 2024-05-02 | 2024-05-04 |

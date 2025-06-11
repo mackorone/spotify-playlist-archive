@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "1991",
+        "url": "https://open.spotify.com/album/4QJ7NdBhEfuB8jmziEObfn"
+      },
+      "artists": [
+        {
+          "name": "LUCKY TAPES",
+          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238594,
+      "name": "1991",
+      "url": "https://open.spotify.com/track/33ilcTkjNwGmeXZqwM2qdy"
+    },
+    {
+      "album": {
         "name": "24/7 YOU...",
         "url": "https://open.spotify.com/album/1RIeaWQ4OVcm8TEZdiAaPr"
       },
@@ -1376,6 +1394,24 @@
       "duration_ms": 234077,
       "name": "hug.",
       "url": "https://open.spotify.com/track/7MhElI8fkwK5W4w5o8KMQw"
+    },
+    {
+      "album": {
+        "name": "I hate this love song",
+        "url": "https://open.spotify.com/album/0R8wB8JasgURZHtMHwRjm4"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "I hate this love song",
+      "url": "https://open.spotify.com/track/0HwDv2bXxdQnGUJhAuGAqG"
     },
     {
       "album": {
@@ -2910,6 +2946,24 @@
       "duration_ms": 200500,
       "name": "TOKIDOKI",
       "url": "https://open.spotify.com/track/3SiUx0t1TvXEYNjRkxsfx7"
+    },
+    {
+      "album": {
+        "name": "tomato",
+        "url": "https://open.spotify.com/album/7wRw76TSgb16kQfeGvGtal"
+      },
+      "artists": [
+        {
+          "name": "Shota Shimizu",
+          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280413,
+      "name": "tomato",
+      "url": "https://open.spotify.com/track/0fvg4lNtdROo83CGCfgyNF"
     },
     {
       "album": {
@@ -4768,7 +4822,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 302346,
       "name": "\u30d7\u30ed\u30ed\u30fc\u30b0",
       "url": "https://open.spotify.com/track/4YMukCV1BsdK8V9kZoQpT6"
@@ -6590,7 +6644,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 206000,
       "name": "\u611b\u306b\u604b\u3088",
       "url": "https://open.spotify.com/track/24AG8p0Yz6eUXVmiACOyw8"
@@ -6824,7 +6878,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 201973,
       "name": "\u672c\u5f53\u306f\u306d\u3001",
       "url": "https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9"

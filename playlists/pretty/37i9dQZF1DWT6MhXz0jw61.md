@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,363,793 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,363,914 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Passenger Princess \(feat\. Smino\)](https://open.spotify.com/track/4XXARhW0U9SKGQJcnYIDAC) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Passenger Princess / Adam](https://open.spotify.com/album/6eszObM49D1h61rbPxS7po) | 2:27 |
 | 100 | [Prairie View \(feat\. Monaleo\)](https://open.spotify.com/track/4SRO28Mlz2386J87Nzwq7D) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Prairie View](https://open.spotify.com/album/21G9fcYSqk08kpBiFK6SrK) | 2:16 |
 
-Snapshot ID: `aEJn3wAAAACsSJ2t/CciWD5aQbCWDUGf`
+Snapshot ID: `aEJn3wAAAACXc555VfLRp4h+dF2RtlQv`

@@ -1,6 +1,6 @@
 {
   "description": "The official playlist for the 67th GRAMMY Awards.",
-  "num_followers": 152196,
+  "num_followers": 152181,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,22 @@
     {
       "added_at": "2025-02-03 18:19:52",
       "album": {
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 207795,
+      "name": "Sexy to Someone",
+      "url": "https://open.spotify.com/track/3awweDjWIuXNMogMClJnvE"
+    },
+    {
+      "added_at": "2025-02-03 18:19:52",
+      "album": {
         "name": "WE STILL DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 252920,
       "name": "We Still Don't Trust You",
       "url": "https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN"
-    },
-    {
-      "added_at": "2025-02-03 18:19:52",
-      "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 207795,
-      "name": "Sexy to Someone",
-      "url": "https://open.spotify.com/track/3awweDjWIuXNMogMClJnvE"
     },
     {
       "added_at": "2025-02-03 18:19:52",

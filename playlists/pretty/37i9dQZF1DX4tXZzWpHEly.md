@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 
 > Country songs that soundtrack the great Australian outback
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,254 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,264 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,14 +68,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 58 | [Jolene](https://open.spotify.com/track/647ys5EZXczaZvlBxhlx7M) | [Natalie Pearson](https://open.spotify.com/artist/5kDX9AsxeSUnU71dLYNesa) | [Under the Covers](https://open.spotify.com/album/4QmYBlpB9dPCcoqgqtyhGY) | 2:36 |
 | 59 | [Charcoal Lane](https://open.spotify.com/track/3XhjdHcb8Hi4zBPCkneDYz) | [Archie Roach](https://open.spotify.com/artist/4LtYxILg8YPMwQjKnXb5kh) | [Charcoal Lane](https://open.spotify.com/album/2cB16btwYMf8hOu2BlFvLl) | 3:21 |
 | 60 | [Rattlin' Bones](https://open.spotify.com/track/2SPZKCTMGDjg0AMGhvehLH) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4HcgEh8nstAPqYptEWtVOM) | 3:42 |
-| 61 | [Streets of Tamworth](https://open.spotify.com/track/1Qjj7QWWpwRGjE5DM4Jb3e) | [Roger Knox](https://open.spotify.com/artist/3SGB83kV2y4Ij3dvVBOFBb) | [Warrior In Chains \- The Best of Roger Knox](https://open.spotify.com/album/1xNjcw2H6Lm5LmZRaZ7nzS) | 2:43 |
-| 62 | [Royal Telephone](https://open.spotify.com/track/3ANy5aNWEJScu480jnj11I) | [Jimmy Little](https://open.spotify.com/artist/6AEG1EJDgdOWQQEeP2AI97) | [The Definitive Collection](https://open.spotify.com/album/6FaVnrx77ieMJQ05srhqmz) | 2:13 |
-| 63 | [Ghost Town](https://open.spotify.com/track/08IV7NVbtbeUpAUUSWe28Z) | [The McClymonts](https://open.spotify.com/artist/3rQZpe0EHJWXItfc2OzzKf) | [Chaos and Bright Lights](https://open.spotify.com/album/5bboHzwA1vlYcu2hnJoD5i) | 2:54 |
+| 61 | [Royal Telephone](https://open.spotify.com/track/3ANy5aNWEJScu480jnj11I) | [Jimmy Little](https://open.spotify.com/artist/6AEG1EJDgdOWQQEeP2AI97) | [The Definitive Collection](https://open.spotify.com/album/6FaVnrx77ieMJQ05srhqmz) | 2:13 |
+| 62 | [Ghost Town](https://open.spotify.com/track/08IV7NVbtbeUpAUUSWe28Z) | [The McClymonts](https://open.spotify.com/artist/3rQZpe0EHJWXItfc2OzzKf) | [Chaos and Bright Lights](https://open.spotify.com/album/5bboHzwA1vlYcu2hnJoD5i) | 2:54 |
+| 63 | [Streets of Tamworth](https://open.spotify.com/track/1Qjj7QWWpwRGjE5DM4Jb3e) | [Roger Knox](https://open.spotify.com/artist/3SGB83kV2y4Ij3dvVBOFBb) | [Warrior In Chains \- The Best of Roger Knox](https://open.spotify.com/album/1xNjcw2H6Lm5LmZRaZ7nzS) | 2:43 |
 | 64 | [A Woman Knows](https://open.spotify.com/track/11cErfQuLGZMX3qovKJPF7) | [Gina Jeffreys](https://open.spotify.com/artist/1kfw6RPH8k2cuQnZ1fqnzk) | [Walks Of Life](https://open.spotify.com/album/2fE3yJQw1AL11aP2CtRUZA) | 3:20 |
 | 65 | [Fire & Ice](https://open.spotify.com/track/66BnogBwUwRU3U22ISWvjX) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd), [Catherine Britt](https://open.spotify.com/artist/2U7nIOFSqqsKaBdSIdL0iZ) | [Call out for the Cavalry](https://open.spotify.com/album/7vYAJToSn6GsX6YYPelpdm) | 3:43 |
-| 66 | [Koori Rose](https://open.spotify.com/track/6fSuXbKHvfjPgsnbre7oJo) | [Roger Knox](https://open.spotify.com/artist/3SGB83kV2y4Ij3dvVBOFBb) | [Warrior In Chains \- The Best of Roger Knox](https://open.spotify.com/album/1xNjcw2H6Lm5LmZRaZ7nzS) | 2:36 |
-| 67 | [Bury Me In Blue Jeans](https://open.spotify.com/track/3E3ZNCCIZt5TOgjS0IYyQY) | [Tailgate Drive](https://open.spotify.com/artist/5Saz490V1lZlwrQ6kTPFI8) | [Bury Me In Blue Jeans](https://open.spotify.com/album/39vorNleYwSGm4eCWoq4kB) | 4:03 |
-| 68 | [Chain of Joy](https://open.spotify.com/track/4riMZ7xA4evmLwzgSc8cEo) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 2:57 |
+| 66 | [Bury Me In Blue Jeans](https://open.spotify.com/track/3E3ZNCCIZt5TOgjS0IYyQY) | [Tailgate Drive](https://open.spotify.com/artist/5Saz490V1lZlwrQ6kTPFI8) | [Bury Me In Blue Jeans](https://open.spotify.com/album/39vorNleYwSGm4eCWoq4kB) | 4:03 |
+| 67 | [Chain of Joy](https://open.spotify.com/track/4riMZ7xA4evmLwzgSc8cEo) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 2:57 |
+| 68 | [Koori Rose](https://open.spotify.com/track/6fSuXbKHvfjPgsnbre7oJo) | [Roger Knox](https://open.spotify.com/artist/3SGB83kV2y4Ij3dvVBOFBb) | [Warrior In Chains \- The Best of Roger Knox](https://open.spotify.com/album/1xNjcw2H6Lm5LmZRaZ7nzS) | 2:36 |
 | 69 | [Dancin' with Elvis](https://open.spotify.com/track/0nvRN2P2zKZ1HnBeRdVELA) | [Gina Jeffreys](https://open.spotify.com/artist/1kfw6RPH8k2cuQnZ1fqnzk) | [Somebody's Daughter](https://open.spotify.com/album/3qSwSOljlJQC62UatQYzOu) | 3:25 |
 | 70 | [Saturated](https://open.spotify.com/track/17bC7BQoH9R4x5E9SDYTsa) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 4:00 |
 | 71 | [Heatwave](https://open.spotify.com/track/3RRFPAWfF7SzXtdePPQIr7) | [Missy Lancaster](https://open.spotify.com/artist/4D3jbGqN1G7WxpRYJ1R6gL) | [Piece Of Me](https://open.spotify.com/album/06AzmWtWOUCb5ZKJLh68b4) | 3:16 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 74 | [So Long So Long](https://open.spotify.com/track/5nGF0GD9p1lnKn8OdUNlUL) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [So Long So Long](https://open.spotify.com/album/0DrSVziCS5z1okRftdWpIh) | 3:00 |
 | 75 | [Better Days](https://open.spotify.com/track/7eGt8dg46ni1LGK82034MJ) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [The Good Life](https://open.spotify.com/album/0o8Ylc1KfRnV1nv41BCP2c) | 3:52 |
 | 76 | [Home](https://open.spotify.com/track/0uVGDMlCO2I9UZQHr8GfHG) | [Mae Valley](https://open.spotify.com/artist/5vRoP692tghSyI7wFV0gLB) | [Mae Valley](https://open.spotify.com/album/1F2w7aXInM21WMXzy2dtrm) | 2:57 |
-| 77 | [Rusty Strings](https://open.spotify.com/track/3aRnNQap5z6RQ4yvgfmpab) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Rusty Strings](https://open.spotify.com/album/6c5EKjVzwqVaB1Vf9pyhAG) | 3:24 |
-| 78 | [Monkey On A Wire](https://open.spotify.com/track/6gnTDFX9qLva4Em1sufXus) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4HcgEh8nstAPqYptEWtVOM) | 3:06 |
+| 77 | [Monkey On A Wire](https://open.spotify.com/track/6gnTDFX9qLva4Em1sufXus) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4HcgEh8nstAPqYptEWtVOM) | 3:06 |
+| 78 | [Rusty Strings](https://open.spotify.com/track/3aRnNQap5z6RQ4yvgfmpab) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Rusty Strings](https://open.spotify.com/album/6c5EKjVzwqVaB1Vf9pyhAG) | 3:24 |
 | 79 | [Midnight Run](https://open.spotify.com/track/1ilLZiQpyxa5jcG8Uk2n9n) | [Travis Sinclair](https://open.spotify.com/artist/6KCfu2k3Nrrq9xiXt902pQ) | [Rush](https://open.spotify.com/album/7JNZxNWJbAykmTrpvNzkgc) | 3:32 |
 | 80 | [Storm Rollin In](https://open.spotify.com/track/1ybsvweyxqw2FSgGUaOPI5) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Country Heart](https://open.spotify.com/album/66GkKTkJU3PiDbXGp8H8it) | 2:42 |
 

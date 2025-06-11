@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H1gQEaz8An.md) - [plain]
 
 > Lo que diga el corazón ❤️💔 Cover: Tito Double P
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,260 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,408 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk fra Tigergutt101 og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,473 likes - 107 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,471 likes - 107 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 8 | [Lovesong](https://open.spotify.com/track/67wDvVvrSQKUcFJNUoGm0j) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Lovesong](https://open.spotify.com/album/6KjKdbW4MWSi2jmeERVZqZ) | 2:01 |
 | 9 | [Maskulin](https://open.spotify.com/track/771dXT0ppsiSU8frVIDWJL) | [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Maskulin](https://open.spotify.com/album/1yyhzVZMl7jRc8bHaRTKxX) | 3:03 |
 | 10 | [Save My Love \(with Ellie Goulding & AVAION\)](https://open.spotify.com/track/4w3Uy4n1hfj1mx6ag7bII5) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Save My Love \(with Ellie Goulding & AVAION\)](https://open.spotify.com/album/3KFX6b8uxX8cORnXbSiC18) | 3:35 |
-| 11 | [BlimE! \- Være med](https://open.spotify.com/track/0niveiGYHzcqFQbY6UPh2B) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Agnete Saba](https://open.spotify.com/artist/2PFYSInm0FBZJ2NQudUNHQ), [BlimE!](https://open.spotify.com/artist/3b7i9BNL3DBMl1fXy4kayt) | [BlimE! \- Være med](https://open.spotify.com/album/005CzVpCCtsaJAukK5aZiM) | 2:45 |
+| 11 | [BlimE! \- Være med](https://open.spotify.com/track/0niveiGYHzcqFQbY6UPh2B) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Agnete Saba](https://open.spotify.com/artist/2PFYSInm0FBZJ2NQudUNHQ), [BlimE!](https://open.spotify.com/artist/3b7i9BNL3DBMl1fXy4kayt) | [BlimE! \- Være med](https://open.spotify.com/album/005CzVpCCtsaJAukK5aZiM) | 2:41 |
 | 12 | [Alle tårer uten grunn](https://open.spotify.com/track/1YBcKo256J2pGDirRygps7) | [Bendik](https://open.spotify.com/artist/4krYRNHjKcETSEY2Ghf9Mo) | [Alle tårer uten grunn](https://open.spotify.com/album/673o8jCPzWRRkMGWTm3pz5) | 2:51 |
 | 13 | [August](https://open.spotify.com/track/133aNn3wxPgWg0IAoZ2ZqH) | [06 Boys](https://open.spotify.com/artist/0V2Y2bp26jVrvRYKtS33EN) | [Mellom linjan](https://open.spotify.com/album/1OZRSBEg1vGJrNj43QaqXT) | 2:53 |
 | 14 | [If I stop I'll feel it](https://open.spotify.com/track/3ZmazoGrS6OXn5iF2k5D5M) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [If I stop I'll feel it](https://open.spotify.com/album/4GCkV1Tw1RPjYgyN4953MI) | 3:00 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 43 | [Underdog](https://open.spotify.com/track/1Ze9srPgLfK0m8lOlbjgjv) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Underdog](https://open.spotify.com/album/5XyD3NtnDD2YfMUQZ4md6F) | 2:16 |
 | 44 | [Crystal Eyes](https://open.spotify.com/track/0qnfXBPZqP7JHQLQ7HxlWW) | [Silke](https://open.spotify.com/artist/1CfY8GMX1i8Wd0OVlXt0MG) | [Crystal Eyes](https://open.spotify.com/album/606oSsAp4AzDL1iWTDATRK) | 2:43 |
 | 45 | [Cherry Blossom](https://open.spotify.com/track/1FEVo167dinoFhKTb7KLk6) | [Raylee](https://open.spotify.com/artist/4zCBJOtUKo7uZiDfPLhujv) | [Cherry Blossom](https://open.spotify.com/album/1FsUBJ945LnxmR8TcVTQgA) | 2:47 |
-| 46 | [Seduce 2026](https://open.spotify.com/track/2ZDTx97bCRpz6U2DLZT96P) | [HENK](https://open.spotify.com/artist/3DBKxQt1RYU1BmXmMYDCAi), [Joe Rock](https://open.spotify.com/artist/2l5ZAGdHNQnBS3YWnAMchH) | [Seduce 2026](https://open.spotify.com/album/6dSaLhyYMgV57HVlZSVznH) | 2:48 |
+| 46 | [Kom igjen \(Seduce 2026\)](https://open.spotify.com/track/2ZDTx97bCRpz6U2DLZT96P) | [HENK](https://open.spotify.com/artist/3DBKxQt1RYU1BmXmMYDCAi), [Joe Rock](https://open.spotify.com/artist/2l5ZAGdHNQnBS3YWnAMchH) | [Kom igjen \(Seduce 2026\)](https://open.spotify.com/album/6dSaLhyYMgV57HVlZSVznH) | 2:48 |
 | 47 | [Losing My Mind](https://open.spotify.com/track/6DJc0UvXBsVJpvK3XwQgQq) | [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7), [DAMEN](https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ) | [Losing My Mind](https://open.spotify.com/album/0R6E19xuHfcWBuUX5VC5rg) | 2:58 |
 | 48 | [Boy](https://open.spotify.com/track/4ZbD7hoqAVz7y4LjKesosW) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Boy](https://open.spotify.com/album/6haJhYWiaQebv4nZjpXB58) | 3:21 |
 | 49 | [Freedom](https://open.spotify.com/track/5KnH8nLgUCWDQ9vIfFz7V0) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [Freedom](https://open.spotify.com/album/4TN4aY61CdCWDqCSIxFsSn) | 3:14 |

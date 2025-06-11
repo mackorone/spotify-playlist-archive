@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,552 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,617 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 37 | [Bananza \(Belly Dancer\)](https://open.spotify.com/track/3BwkldhE22DdxOcXegF2Kv) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:58 |
 | 38 | [Who Dat Girl \(feat\. Akon\)](https://open.spotify.com/track/7z73ehYAn9O1XP9XlCqVtd) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Only One Flo \(Part 1\)](https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS) | 3:20 |
 | 39 | [I Wanna Love You \- Album Version \(Edited\)](https://open.spotify.com/track/2PAfPeJPLytM6ssug0njKi) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Tha Blue Carpet Treatment](https://open.spotify.com/album/5Q1K1mEiR2F9MHzMbdBX3i) | 2:58 |
-| 40 | [Sweetest Girl \(Dollar Bill\) \(feat\. Akon, Lil' Wayne & Niia\)](https://open.spotify.com/track/4liGjmhCupa7RP9JaQELYx) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx) | [Sweetest Girl \(Dollar Bill\) \(feat\. Akon, Lil' Wayne & Niia\)](https://open.spotify.com/album/347NJqwpdmSrkTE7F2IlaZ) | 4:01 |
-| 41 | [Dangerous](https://open.spotify.com/track/0b0jmVQZ0rxs69RGq2WCu2) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Dangerous](https://open.spotify.com/album/09hwTvcIp4AK8nKDDHZppF) | 3:53 |
+| 40 | [Dangerous](https://open.spotify.com/track/0b0jmVQZ0rxs69RGq2WCu2) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Dangerous](https://open.spotify.com/album/09hwTvcIp4AK8nKDDHZppF) | 3:53 |
+| 41 | [Sweetest Girl \(Dollar Bill\) \(feat\. Akon, Lil' Wayne & Niia\)](https://open.spotify.com/track/4liGjmhCupa7RP9JaQELYx) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx) | [Sweetest Girl \(Dollar Bill\) \(feat\. Akon, Lil' Wayne & Niia\)](https://open.spotify.com/album/347NJqwpdmSrkTE7F2IlaZ) | 4:01 |
 | 42 | [Right Now \(Na Na Na\) \- Sped Up](https://open.spotify.com/track/6xNNG4y7YJyb11AvsOELba) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [chllxedits](https://open.spotify.com/artist/7n2FSLSrAtkTAgGtaot7x8) | [Right Now \(Na Na Na\) \[Sped Up\]](https://open.spotify.com/album/7wM292yB8e6ldDiDoBpYlw) | 3:46 |
 | 43 | [Came To Do \(feat\. Akon\)](https://open.spotify.com/track/3fLXPbXiezgmbJEEOkT8ve) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [X \(Expanded Edition\)](https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY) | 3:48 |
 | 44 | [I Wanna Love You \- Remix](https://open.spotify.com/track/7p5mNdJbsKUx0iwuIPCfEM) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Konvicted \(Complete Edition\)](https://open.spotify.com/album/4SAz7HhY1uBvxF6O9k1iyq) | 4:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 49 | [Angel](https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Angel](https://open.spotify.com/album/3m1Nxg2YS7QIs0v428yNLP) | 3:35 |
 | 50 | [Criminal](https://open.spotify.com/track/39bx4zZrPxTjw8VNuvjt6X) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Ra\-One](https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy) | 5:06 |
 
-Snapshot ID: `aETSgAAAAAD4yqNUCTrO4Vhmk3npInlC`
+Snapshot ID: `aEYkAAAAAADAG3Ha5yRDZpztHOyoXyyt`

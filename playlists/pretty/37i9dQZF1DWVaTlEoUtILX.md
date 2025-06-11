@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVaTlEoUtILX.md) - [plain]
 
 > Listen to the soundtracks of Romance in the House\. \(가족X멜로의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,360 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,363 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVaTlEoUtILX.md) - [plain]
 | 74 | [We Come Around \- Instrumental](https://open.spotify.com/track/3A46gb7Gw0ezYEGlrAn57g) | [Woshi](https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq) | [Romance in the House \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/4OYNOjkXYD0nYV5nHbVfHK) | 3:38 |
 | 75 | [By Your Side \- Instrumental](https://open.spotify.com/track/3kr0A2KrVPcWekaZtazNMy) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Romance in the House \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/3gBfJhcaevqcsmz2zsGG07) | 2:59 |
 
-Snapshot ID: `ZvApjwAAAAAQnCnMbmyZqdyJ5qRQLmQ6`
+Snapshot ID: `AAAAAEjTDT67i5kD4NsuhEEFufbyc6lo`

@@ -1,6 +1,6 @@
 {
   "description": "The best rock songs of the moment. Cover: Mother Mother",
-  "num_followers": 194681,
+  "num_followers": 194678,
   "original_name": "Rock Now",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
       "duration_ms": 165974,
       "name": "Ballyhoo",
       "url": "https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ"
+    },
+    {
+      "added_at": "2025-06-06 04:00:30",
+      "album": {
+        "name": "Rock N' Roll Band",
+        "url": "https://open.spotify.com/album/4AGcTdhgc50z8SZfBz16CO"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Nil",
+          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
+        }
+      ],
+      "duration_ms": 145914,
+      "name": "Rock N' Roll Band",
+      "url": "https://open.spotify.com/track/3tAyXvsaRiWYmjyt0H7C7G"
     },
     {
       "added_at": "2025-06-06 04:00:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Rashmeet Kaur, Lisa Mishra and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,663 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,695 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Qatal](https://open.spotify.com/track/5FDVyL6VahLO3B4T7xRYD9) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE) | [WITHOUT PREJUDICE](https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi) | 2:51 |
 | 50 | [Holo Lolo \| Coke Studio Bharat](https://open.spotify.com/track/3hJqcK8PvzbhIAyrgcKbCQ) | [Shankuraj Konwar](https://open.spotify.com/artist/2sTO4BkutHILz6xXwbbar9), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Holo Lolo \| Coke Studio Bharat](https://open.spotify.com/album/01U2i2MpX4XFJuty26VYty) | 4:41 |
 
-Snapshot ID: `AAAAAPT11FJOkVvm+8VPh1tgZw8lh/s5`
+Snapshot ID: `aEKG/gAAAAD/Ao6mz3feKVpcXAKv7EGd`

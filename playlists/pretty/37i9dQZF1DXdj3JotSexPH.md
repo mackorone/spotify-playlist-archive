@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 
 > اضغط للبدء
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,213 likes - 79 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,215 likes - 79 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 | 19 | [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:20 |
 | 20 | [CUTE DEPRESSED](https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf) | [Dyan Dxddy](https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx) | [CUTE DEPRESSED](https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ) | 1:36 |
 | 21 | [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 |
-| 22 | [Slide da Treme Melódica v2](https://open.spotify.com/track/6xBpb9zNWlRHTslOAe6kXF) | [DJ FNK](https://open.spotify.com/artist/7nM7RtPXQ6jwNlFTfPyZnA), [Polaris](https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs) | [Slide da Treme Melódica v2](https://open.spotify.com/album/4sWmzhpogE4nLa1f2q9Ke0) | 2:45 |
-| 23 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 |
+| 22 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 |
+| 23 | [Slide da Treme Melódica v2](https://open.spotify.com/track/6xBpb9zNWlRHTslOAe6kXF) | [DJ FNK](https://open.spotify.com/artist/7nM7RtPXQ6jwNlFTfPyZnA), [Polaris](https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs) | [Slide da Treme Melódica v2](https://open.spotify.com/album/4sWmzhpogE4nLa1f2q9Ke0) | 2:45 |
 | 24 | [Watch This \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/0wH3O1Z1MJXYrl2BVENPD4) | [Watch This \(ARIZONATEARS Pluggnb Remix\)](https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1) | 2:43 |
 | 25 | [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 |
 | 26 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 |
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 | 62 | [SHED F TARFO](https://open.spotify.com/track/7p9fo8NM2SrquqIn1rhYNH) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL) | [SHED F TARFO](https://open.spotify.com/album/6MMlotsbFacSgj8QFi1TSf) | 2:36 |
 | 63 | [Lajl Aldar](https://open.spotify.com/track/6Mt9xxJ9RVgvMtN7Qqguv7) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [Lajl Aldar](https://open.spotify.com/album/6j0XfhZLiWgfjb4m3x8mYB) | 2:20 |
 | 64 | [Khalisni](https://open.spotify.com/track/0T1nrCDa8G4pzzW92BgGIp) | [Saud G](https://open.spotify.com/artist/76VXSNBSY5pbsYgMe2dTYZ), [Ahmedoo Biggie](https://open.spotify.com/artist/4srnmX4lNfxOKYNA8gdRMy) | [Khalisni](https://open.spotify.com/album/3gYH2ky5iZ1SaKNveeP378) | 3:09 |
-| 65 | [Loop](https://open.spotify.com/track/2Pi4fHuWK9k8Wg2NvUx9dn) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Kitab](https://open.spotify.com/album/1ao9V5no6rbr7QGNFUE5LI) | 3:02 |
+| 65 | [فويقو](https://open.spotify.com/track/4LWi9iKjOWbFnL21uqts6G) | [Abdullah Trill](https://open.spotify.com/artist/0RdQVXvBEJSwpdfMfwfHOD) | [فويقو](https://open.spotify.com/album/2iCQwd97pVX6TR4jzE2IE0) | 2:12 |
 | 66 | [SHOOTA](https://open.spotify.com/track/3nfWzTTxqbjHvALssUUKGb) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP) | [SHOOTA](https://open.spotify.com/album/2pSwKpprTbV2QveOywXmjy) | 2:29 |
-| 67 | [فويقو](https://open.spotify.com/track/4LWi9iKjOWbFnL21uqts6G) | [Abdullah Trill](https://open.spotify.com/artist/0RdQVXvBEJSwpdfMfwfHOD) | [فويقو](https://open.spotify.com/album/2iCQwd97pVX6TR4jzE2IE0) | 2:12 |
+| 67 | [Loop](https://open.spotify.com/track/2Pi4fHuWK9k8Wg2NvUx9dn) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Kitab](https://open.spotify.com/album/1ao9V5no6rbr7QGNFUE5LI) | 3:02 |
 | 68 | [Dabbaba](https://open.spotify.com/track/2m4BGrqCUVV73BAK3FdnVh) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Dabbaba](https://open.spotify.com/album/4DDutVKDyQFI7Hq0MV6Nyv) | 2:09 |
 | 69 | [3al hady](https://open.spotify.com/track/2xo7e1lWaLrmHqRyITPSlT) | [Uglymoss](https://open.spotify.com/artist/0FnIoDE1vDMSPMCXpfmLFW) | [3al hady](https://open.spotify.com/album/1Ae5dRJaDBUqCjTE33f15F) | 2:48 |
 | 70 | [براند](https://open.spotify.com/track/0bMkuGfY0DFEfZ3Y5szHpx) | [Khalz](https://open.spotify.com/artist/6Ypyp6sAbGndh7J0EMfope), [MOHAMEDMEM](https://open.spotify.com/artist/4V2oeE3lVCRjk6GnL0fsBI) | [براند](https://open.spotify.com/album/02adwhzPLgQhBCiAHW3oZe) | 2:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P16lb.md) - [plain]
 
 > This is Lupita Infante\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510 likes - 43 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 511 likes - 43 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P16lb.md) - [plain]
 | 26 | [Quiéreme Así](https://open.spotify.com/track/7pomnxYbEnoNFmfnqwO8bR) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 3:13 |
 | 27 | [Luna de Octubre](https://open.spotify.com/track/5MXS3tVsNlONTl56cIW3rv) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Luna de Octubre](https://open.spotify.com/album/6IhmFfKfKtrcoGhqIEVGW8) | 3:14 |
 | 28 | [Flor Sin Retoño](https://open.spotify.com/track/2KDYFxmIMYR7qUO2IkG9jx) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Flor Sin Retoño](https://open.spotify.com/album/1IBxPCtaWBMojqn7XkIiSy) | 3:16 |
-| 29 | [Cien Años \- En Vivo](https://open.spotify.com/track/0abywAZKp30hCllOLhq8P6) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 3:14 |
+| 29 | [El Amor De Mi Vida](https://open.spotify.com/track/1SIuzHNrctmvWo5geNIFyi) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [El Amor de Mi Vida](https://open.spotify.com/album/1FhXUMF28q1d6dJBl1Nj1S) | 3:06 |
 | 30 | [Cómo Olvidarte](https://open.spotify.com/track/5TcLdIf7BgSRvidCtrs4Vw) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 3:08 |
-| 31 | [El Amor De Mi Vida](https://open.spotify.com/track/1SIuzHNrctmvWo5geNIFyi) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [El Amor de Mi Vida](https://open.spotify.com/album/1FhXUMF28q1d6dJBl1Nj1S) | 3:06 |
+| 31 | [Cien Años \- En Vivo](https://open.spotify.com/track/0abywAZKp30hCllOLhq8P6) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 3:14 |
 | 32 | [Que Facilito](https://open.spotify.com/track/1TW2q02eRkvbAol6smqoCC) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Que Facilito](https://open.spotify.com/album/6VVI613WDbwhIMB5ImpJLa) | 2:36 |
-| 33 | [Las Mexicanas](https://open.spotify.com/track/1CTROO8PaURfNU67CIHeRQ) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Nena Guzman](https://open.spotify.com/artist/77H38dMT3cSpIoM3xCPqvA), [Grupo Emperatriz](https://open.spotify.com/artist/1qxVgLo5z2WWqHSHq9MkR7) | [Duetos](https://open.spotify.com/album/6NflZIEwZGmXzGh3668MlD) | 3:11 |
+| 33 | [Yo He Nacido Mexicana](https://open.spotify.com/track/1yejtctJKLV7weRjDLtwYx) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Serenata](https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn) | 2:40 |
 | 34 | [Besarte Así](https://open.spotify.com/track/0z2fdrdXxLhb00CJjPxiY6) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 3:54 |
-| 35 | [Yo He Nacido Mexicana](https://open.spotify.com/track/1yejtctJKLV7weRjDLtwYx) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Serenata](https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn) | 2:40 |
+| 35 | [Las Mexicanas](https://open.spotify.com/track/1CTROO8PaURfNU67CIHeRQ) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Nena Guzman](https://open.spotify.com/artist/77H38dMT3cSpIoM3xCPqvA), [Grupo Emperatriz](https://open.spotify.com/artist/1qxVgLo5z2WWqHSHq9MkR7) | [Duetos](https://open.spotify.com/album/6NflZIEwZGmXzGh3668MlD) | 3:11 |
 | 36 | [El Mundo \- En Vivo](https://open.spotify.com/track/6PIFSo9nndPgQzZrnvOGZc) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [El Mundo \(En Vivo\)](https://open.spotify.com/album/4iDJSotLOOfiPlHRNAjrpS) | 3:32 |
 | 37 | [Cucurrucucú Paloma](https://open.spotify.com/track/1piJQpsNncvOCmF8dHX8FS) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cucurrucucú Paloma](https://open.spotify.com/album/3yIXEqENgPgtJnJC7oYIci) | 3:10 |
 | 38 | [Siempre, Siempre \- En Vivo](https://open.spotify.com/track/62pCEqKU6Nx2tJmXdYEBYf) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 3:22 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P16lb.md) - [plain]
 | 42 | [Ella \- Tu Recuerdo y Yo \- Canta, Canta, Canta \- En Vivo](https://open.spotify.com/track/1UppMIrayJYVKtFTxWYyF1) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 5:45 |
 | 43 | [México \(Can I Stay\)](https://open.spotify.com/track/1PuOLi2DuqheibqK4wTCI8) | [Ayala](https://open.spotify.com/artist/3CXuE5e7yVZDVTxhp8BeKa), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Mariachi Imperial Azteca](https://open.spotify.com/artist/3i1TXUJiZ8xHGHddUTAvOh) | [MÉXICO \(CAN I STAY\)](https://open.spotify.com/album/6ZXcVsYRdUKUReGYRLrTD2) | 3:06 |
 
-Snapshot ID: `aETSgAAAAAB9azH8pJn4hDUHFSgVnSka`
+Snapshot ID: `aEYkAAAAAADh4+hClTNMKmRNV/1VsBlN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Marshmello, Ellie Goulding, AVAION
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,878 likes - 99 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,870 likes - 99 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 98 | [Lovin Myself](https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lovin Myself](https://open.spotify.com/album/5vWfr5gSeCbqFwutBK7sDp) | 2:56 |
 | 99 | [Summer Nights](https://open.spotify.com/track/03sfZuHY4SFlPaWoC5vLup) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [myne](https://open.spotify.com/artist/34WPfL387QxZ5t8epiRnTL) | [Summer Nights](https://open.spotify.com/album/0fhDL3ImX8l2gI0qpIG5Ql) | 2:42 |
 
-Snapshot ID: `AAAAAApzzVRdM8sIRftH3cqObm7EdPa0`
+Snapshot ID: `aEITnAAAAABRs8xFrTMjE60NWsZWaK1h`

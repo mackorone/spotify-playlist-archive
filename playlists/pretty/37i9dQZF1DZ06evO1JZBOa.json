@@ -1,12 +1,12 @@
 {
   "description": "This is Manu Dibango. The essential tracks, all in one playlist.",
-  "num_followers": 9807,
+  "num_followers": 9809,
   "original_name": "This Is Manu Dibango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAABW+77do5x2dRYRpG6pDTSL",
+  "snapshot_id": "aEYkAAAAAAAaNoMYYPQ3ZdhkecUTBscJ",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "African Woodoo",
-        "url": "https://open.spotify.com/album/3KoCNy8UEBuCcrz5GLFHiv"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 230106,
-      "name": "Lagos Go Slow",
-      "url": "https://open.spotify.com/track/0JQSknccRupmf6K8UPfCWl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Africadelic",
         "url": "https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 107786,
       "name": "Oriental Sunset",
       "url": "https://open.spotify.com/track/5eLgxGM0GjdeFIRmkvCZi6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "African Woodoo",
+        "url": "https://open.spotify.com/album/3KoCNy8UEBuCcrz5GLFHiv"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Lagos Go Slow",
+      "url": "https://open.spotify.com/track/0JQSknccRupmf6K8UPfCWl"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Home Made",
+        "url": "https://open.spotify.com/album/5L3ihXiPtFHrLZhlG0KIa6"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 502693,
+      "name": "Tropical Garden",
+      "url": "https://open.spotify.com/track/1WdixZ4J8I8hlgCIEqZkdc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seventie's",
         "url": "https://open.spotify.com/album/4bFS2cSFPn02EBXo5yu9fP"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 204320,
       "name": "Aphrodite Shake",
       "url": "https://open.spotify.com/track/28gRP80rUqoyu8PnL89mdC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Home Made",
-        "url": "https://open.spotify.com/album/5L3ihXiPtFHrLZhlG0KIa6"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 502693,
-      "name": "Tropical Garden",
-      "url": "https://open.spotify.com/track/1WdixZ4J8I8hlgCIEqZkdc"
     },
     {
       "added_at": null,
@@ -787,22 +787,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lorenzo 2015 CC.",
-        "url": "https://open.spotify.com/album/00FW0vTXN3EWyC68GJNN4X"
+        "name": "Africadelic",
+        "url": "https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg"
       },
       "artists": [
-        {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
-        },
         {
           "name": "Manu Dibango",
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 274626,
-      "name": "Musica",
-      "url": "https://open.spotify.com/track/5quLDM7ds2qugQmzT6Qwaa"
+      "duration_ms": 243186,
+      "name": "Moving Waves",
+      "url": "https://open.spotify.com/track/1UCP7iid4Ur5bb8QlMRnPw"
     },
     {
       "added_at": null,
@@ -843,6 +839,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lorenzo 2015 CC.",
+        "url": "https://open.spotify.com/album/00FW0vTXN3EWyC68GJNN4X"
+      },
+      "artists": [
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        },
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 274626,
+      "name": "Musica",
+      "url": "https://open.spotify.com/track/5quLDM7ds2qugQmzT6Qwaa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Africadelic",
         "url": "https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg"
       },
@@ -852,9 +868,9 @@
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 243186,
-      "name": "Moving Waves",
-      "url": "https://open.spotify.com/track/1UCP7iid4Ur5bb8QlMRnPw"
+      "duration_ms": 136360,
+      "name": "Africadelic",
+      "url": "https://open.spotify.com/track/3oViSE4pEzB9UT6Lo5XJyF"
     },
     {
       "added_at": null,
@@ -875,22 +891,6 @@
       "duration_ms": 274626,
       "name": "Les gar\u00e7ons ne pleurent pas",
       "url": "https://open.spotify.com/track/3p6yYoGeqGQZnaBLopd0HY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dibango 82 \u2013 In Marseille Dec 82",
-        "url": "https://open.spotify.com/album/3sFpm1dzLfedjW4oOkqyXG"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 74518,
-      "name": "Migilbawe",
-      "url": "https://open.spotify.com/track/18z5k889lbe1LhXake5VTZ"
     },
     {
       "added_at": null,

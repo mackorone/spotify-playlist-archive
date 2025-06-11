@@ -1,6 +1,6 @@
 {
   "description": "Fue durante los '70 que el Rock se manifest\u00f3 como un gigante a nivel mundial. Argentina no fue la excepci\u00f3n.  Foto: <a href=\"spotify:artist:10vtHOCA3qPLmrGylgO2F1\">Manal</a>",
-  "num_followers": 43222,
+  "num_followers": 43230,
   "original_name": "Esp\u00edritu Setentista",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
-        "name": "Manal",
-        "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
-      },
-      "artists": [
-        {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Jugo de Tomate",
-      "url": "https://open.spotify.com/track/0agzpJR3jRbfLKhG5nWxx3"
-    },
-    {
-      "added_at": "2024-06-12 23:45:40",
-      "album": {
         "name": "El 1er \u00c1lbum M\u00e1s los Singles",
         "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 187786,
       "name": "Muchacha (Ojos de Papel)",
       "url": "https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm"
+    },
+    {
+      "added_at": "2024-06-12 23:45:40",
+      "album": {
+        "name": "Manal",
+        "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Jugo de Tomate",
+      "url": "https://open.spotify.com/track/0agzpJR3jRbfLKhG5nWxx3"
     },
     {
       "added_at": "2024-06-12 23:45:40",
@@ -155,18 +155,18 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
-        "name": "Manal",
-        "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
+        "name": "Los Gatos",
+        "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
       },
       "artists": [
         {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1"
+          "name": "Los Gatos",
+          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
         }
       ],
-      "duration_ms": 230146,
-      "name": "No Pibe",
-      "url": "https://open.spotify.com/track/1XjCxUmgXzqLEGzqUse3qK"
+      "duration_ms": 176000,
+      "name": "La Balsa",
+      "url": "https://open.spotify.com/track/4J2xMy0kakU9sAin1uppxb"
     },
     {
       "added_at": "2024-06-12 23:45:40",
@@ -203,18 +203,18 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
-        "name": "Los Gatos",
-        "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
+        "name": "Manal",
+        "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
       },
       "artists": [
         {
-          "name": "Los Gatos",
-          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1"
         }
       ],
-      "duration_ms": 176000,
-      "name": "La Balsa",
-      "url": "https://open.spotify.com/track/4J2xMy0kakU9sAin1uppxb"
+      "duration_ms": 230146,
+      "name": "No Pibe",
+      "url": "https://open.spotify.com/track/1XjCxUmgXzqLEGzqUse3qK"
     },
     {
       "added_at": "2024-06-12 23:45:40",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/0K5znMCZ80jQtl2zqMCoyE"
+      },
+      "artists": [
+        {
+          "name": "Polifemo",
+          "url": "https://open.spotify.com/artist/5kt7SkycNsq8vbKoFb3QxO"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "Oye Dios Que Me Has Dado",
+      "url": "https://open.spotify.com/track/7xfYEIvk2qRxODCefqdOuR"
+    },
+    {
+      "added_at": "2024-06-12 23:45:40",
+      "album": {
         "name": "Otras Pistas",
         "url": "https://open.spotify.com/album/4vNaQkW0hQORx5gVi0WFJV"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 215026,
       "name": "Mi Cuarto",
       "url": "https://open.spotify.com/track/1eD4rXi4Orx0b3k5an1LBL"
-    },
-    {
-      "added_at": "2024-06-12 23:45:40",
-      "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/0K5znMCZ80jQtl2zqMCoyE"
-      },
-      "artists": [
-        {
-          "name": "Polifemo",
-          "url": "https://open.spotify.com/artist/5kt7SkycNsq8vbKoFb3QxO"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "Oye Dios Que Me Has Dado",
-      "url": "https://open.spotify.com/track/7xfYEIvk2qRxODCefqdOuR"
     },
     {
       "added_at": "2024-06-12 23:45:40",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/0K5znMCZ80jQtl2zqMCoyE"
+      },
+      "artists": [
+        {
+          "name": "Polifemo",
+          "url": "https://open.spotify.com/artist/5kt7SkycNsq8vbKoFb3QxO"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Sueltate Rock And Roll",
+      "url": "https://open.spotify.com/track/1HbLdtZvbp8JRVAJhlktfK"
+    },
+    {
+      "added_at": "2024-06-12 23:45:40",
+      "album": {
         "name": "Alma y Vida, Vol. 2",
         "url": "https://open.spotify.com/album/7MHEzCpcFrBeVBaqzM6cSl"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 603400,
       "name": "Los Delirios del Mariscal",
       "url": "https://open.spotify.com/track/56vhyP9UvLtGYUbeBBxqke"
-    },
-    {
-      "added_at": "2024-06-12 23:45:40",
-      "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/0K5znMCZ80jQtl2zqMCoyE"
-      },
-      "artists": [
-        {
-          "name": "Polifemo",
-          "url": "https://open.spotify.com/artist/5kt7SkycNsq8vbKoFb3QxO"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Sueltate Rock And Roll",
-      "url": "https://open.spotify.com/track/1HbLdtZvbp8JRVAJhlktfK"
     },
     {
       "added_at": "2024-06-12 23:45:40",

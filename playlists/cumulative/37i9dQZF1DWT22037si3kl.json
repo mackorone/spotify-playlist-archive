@@ -3689,6 +3689,40 @@
     },
     {
       "album": {
+        "name": "Mixtape Chir\u00f3",
+        "url": "https://open.spotify.com/album/2hqitsZt4GZdgn7lFxw08S"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "TkN",
+          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        },
+        {
+          "name": "ProdSmile",
+          "url": "https://open.spotify.com/artist/468Ift2ngwSQzitOIDjgQO"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213284,
+      "name": "Fashion",
+      "url": "https://open.spotify.com/track/3bpNcH1SCEMn6zuynZGY5e"
+    },
+    {
+      "album": {
         "name": "Fashion Cria",
         "url": "https://open.spotify.com/album/7GZqAxKQOkiv5OKrJ25WUB"
       },
@@ -7836,7 +7870,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 179383,
       "name": "Outro Clima",
       "url": "https://open.spotify.com/track/2Rsrsh2J3BAn4SLBGT7g0s"

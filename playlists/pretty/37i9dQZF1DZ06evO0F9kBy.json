@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 26984,
+  "num_followers": 26985,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAAAgz+tYHY3sNoiRNrZA52O6",
+  "snapshot_id": "aEYkAAAAAABRCv/sY1+hn0+XdF2PUp2q",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Out of the Way of Your Own Heart (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN"
+        "name": "Joyful Noise (feat. DOE) [Live]",
+        "url": "https://open.spotify.com/album/0sCjoeW4EhfoMApELYKFOr"
       },
       "artists": [
         {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        },
-        {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
         }
       ],
-      "duration_ms": 246627,
-      "name": "No Body (feat. Matt Maher)",
-      "url": "https://open.spotify.com/track/3KhD8sFLTlH2rFvMskQoUb"
+      "duration_ms": 278375,
+      "name": "Joyful Noise (feat. DOE) - Live",
+      "url": "https://open.spotify.com/track/5sn2NVwXGfGEQDBbkAIXj6"
     },
     {
       "added_at": null,
@@ -483,22 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joyful Noise (feat. DOE) [Live]",
-        "url": "https://open.spotify.com/album/0sCjoeW4EhfoMApELYKFOr"
+        "name": "Get Out of the Way of Your Own Heart (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN"
       },
       "artists": [
         {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
         },
         {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 278375,
-      "name": "Joyful Noise (feat. DOE) - Live",
-      "url": "https://open.spotify.com/track/5sn2NVwXGfGEQDBbkAIXj6"
+      "duration_ms": 246627,
+      "name": "No Body (feat. Matt Maher)",
+      "url": "https://open.spotify.com/track/3KhD8sFLTlH2rFvMskQoUb"
     },
     {
       "added_at": null,
@@ -731,6 +731,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Climate Vigil Songs",
+        "url": "https://open.spotify.com/album/3aMGPjxPYVzrmKTtBY1m2X"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 291057,
+      "name": "Hosanna! (Will You Rise?)",
+      "url": "https://open.spotify.com/track/0FkLUL0ofJQ0wHeedtTWia"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Joy of Jesus (feat. Matt Maher, Mac Powell & Ellie Holcomb) (feat. Matt Maher, Mac Powell & Ellie Holcomb)",
         "url": "https://open.spotify.com/album/2LeVGsWiMyhdTpiNctU5LZ"
       },
@@ -803,30 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Climate Vigil Songs",
-        "url": "https://open.spotify.com/album/3aMGPjxPYVzrmKTtBY1m2X"
-      },
-      "artists": [
-        {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 291057,
-      "name": "Hosanna! (Will You Rise?)",
-      "url": "https://open.spotify.com/track/0FkLUL0ofJQ0wHeedtTWia"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Stories I Tell Myself",
         "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
       },
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 233160,
-      "name": "The Stories I Tell Myself",
-      "url": "https://open.spotify.com/track/4C5VoslGdB45KzAaKp4Cg7"
+      "duration_ms": 198066,
+      "name": "The Way You Love Me",
+      "url": "https://open.spotify.com/track/1X6DdAapNhXKQemy5R6WNW"
     },
     {
       "added_at": null,
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 198066,
-      "name": "The Way You Love Me",
-      "url": "https://open.spotify.com/track/1X6DdAapNhXKQemy5R6WNW"
+      "duration_ms": 233160,
+      "name": "The Stories I Tell Myself",
+      "url": "https://open.spotify.com/track/4C5VoslGdB45KzAaKp4Cg7"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu?si=knZAmKnbRdGHERALnIWAJQ">Festizie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,011 likes - 119 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,351 likes - 119 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 118 | [El\-Roi](https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [El\-Roi](https://open.spotify.com/album/6JNS9zkZHiyaTJTmBKqzHD) | 3:44 |
 | 119 | [Trinity](https://open.spotify.com/track/3j9mH5VzRe2mgaHWuvoccj) | [Snatcha](https://open.spotify.com/artist/39fYK5CHqdEbJj3oTJrAPl), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [Trinity](https://open.spotify.com/album/6RKJqNo6yI0e2vGXciN7oq) | 2:06 |
 
-Snapshot ID: `AAAAAAWa1lNcLuDAMfvdmf+qLa8NpQ/u`
+Snapshot ID: `aEIv2AAAAAATyPDtKYA1hI4zV4CdoR/E`

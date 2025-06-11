@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "Silab",
+        "url": "https://open.spotify.com/album/0dxHxcwXMcLptUNBWWIIXn"
+      },
+      "artists": [
+        {
+          "name": "Carl Angelo",
+          "url": "https://open.spotify.com/artist/6DSGhKHTjmfiPILjDnDky6"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187994,
+      "name": "AIGHT?",
+      "url": "https://open.spotify.com/track/5ogwE88jZ0oowmT2wmSLzB"
+    },
+    {
+      "album": {
         "name": "Akala Ko",
         "url": "https://open.spotify.com/album/2lukVfOU2cJCOVmKt6bumz"
       },

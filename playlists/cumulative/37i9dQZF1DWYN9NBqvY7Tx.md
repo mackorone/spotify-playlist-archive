@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-663 songs - 1 day 10 hr 8 min
+664 songs - 1 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Avalon](https://open.spotify.com/track/5tEeiYkDyA3Z5h9rbrl4fT) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Anne Gudrun](https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5) | [Avalon](https://open.spotify.com/album/4jyaot3pAqw7LsUIHYMasE) | 2:16 | 2024-11-15 | 2025-06-06 |
 | [AVANGARD](https://open.spotify.com/track/0Ga86OpGoHJ5XjyfxYc4ov) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw) | [AVANGARD](https://open.spotify.com/album/0E77ZcJUnLuD3mijSftoLc) | 2:36 | 2025-03-19 |  |
 | [Awakening](https://open.spotify.com/track/62PbprHwaVxJL4prILr60X) | [Defqwop](https://open.spotify.com/artist/0lfD4Ye7RAbP8FQiuE6aFs) | [Awakening](https://open.spotify.com/album/1SC1DSnd1siId2pwnwnwSt) | 3:38 | 2022-05-13 | 2022-05-18 |
+| [Azul](https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Azul](https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4) | 3:46 | 2025-06-06 |  |
 | [Back Bus](https://open.spotify.com/track/21ceB6sHPjBtj8SCU9C1zi) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [Deadbeats & Brownies \- Drum & Bass Compilation](https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule) | 2:57 | 2024-01-30 | 2024-07-05 |
 | [Back For More](https://open.spotify.com/track/1waYHmEXR5mFJCfEYfa2BL) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [Back For More](https://open.spotify.com/album/11kp1IYIHPxZhBKHNaeKgb) | 2:28 | 2023-07-18 | 2023-08-06 |
 | [BACKBONE](https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [BACKBONE](https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY) | 2:46 | 2024-08-16 |  |
@@ -522,7 +523,7 @@
 | [Slide da Treme Melódica v2](https://open.spotify.com/track/6xBpb9zNWlRHTslOAe6kXF) | [DJ FNK](https://open.spotify.com/artist/7nM7RtPXQ6jwNlFTfPyZnA), [Polaris](https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs) | [Slide da Treme Melódica v2](https://open.spotify.com/album/4sWmzhpogE4nLa1f2q9Ke0) | 2:45 | 2024-11-15 |  |
 | [Slow It Down](https://open.spotify.com/track/6b6HudhUkFIvlDjyuhiEBE) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [LOUD ABOUT US!](https://open.spotify.com/artist/2dzPIX85Caa0lYCBPvzMEc) | [Slow It Down](https://open.spotify.com/album/3GZ3vwr111BXf705k8FV4f) | 3:08 | 2022-05-06 | 2022-07-29 |
 | [SMACK TALK](https://open.spotify.com/track/5rzHkSHRyZUdQcCX6noFDB) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [ISOKNOCK](https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37) | [SMACK TALK](https://open.spotify.com/album/0F1AHBmHwzLNiOvqXc1bnc) | 4:00 | 2024-06-28 |  |
-| [Smalltown Boy](https://open.spotify.com/track/4wAQSi076CxYXc0y37IRRH) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Smalltown Boy](https://open.spotify.com/album/4oCofpA6t1IuTsAAuRxhti) | 3:34 | 2024-06-24 |  |
+| [Smalltown Boy](https://open.spotify.com/track/4wAQSi076CxYXc0y37IRRH) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Smalltown Boy](https://open.spotify.com/album/4oCofpA6t1IuTsAAuRxhti) | 3:34 | 2024-06-24 | 2025-06-11 |
 | [SMB \(w/ Hongjoong of ATEEZ\)](https://open.spotify.com/track/37BYze5s1mi14oE0U0c3Fg) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SMB \(w/ Hongjoong of ATEEZ\)](https://open.spotify.com/album/1Lgz2bQZCHu1scUkX0qpnl) | 2:13 | 2025-01-18 | 2025-03-20 |
 | [Somebody Like U](https://open.spotify.com/track/2uDyv5rw4333xY5obTeByt) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Walkerverse, Pt\. I](https://open.spotify.com/album/22pMyI5Ra0xRPDpf21ZWNb) | 3:11 | 2022-07-04 | 2022-11-26 |
 | [Somebody Like U](https://open.spotify.com/track/5CkNcNcocnAWbshrLuCl2B) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9) | 3:11 | 2022-12-09 | 2024-04-19 |

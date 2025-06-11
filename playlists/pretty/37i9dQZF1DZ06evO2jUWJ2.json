@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 302561,
+  "num_followers": 302647,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAABL/fo8qNMVz6J+AmlPZb0K",
+  "snapshot_id": "aEYkAAAAAADuEHCaVNAp3EpQflrhx2fg",
   "tracks": [
     {
       "added_at": null,
@@ -611,22 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vida aos Sepulcros",
-        "url": "https://open.spotify.com/album/7lxtRrXDl6cekYe78zSJaV"
+        "name": "LION",
+        "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
       },
       "artists": [
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
           "name": "Elevation Worship",
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
         }
       ],
-      "duration_ms": 293702,
-      "name": "Vida aos Sepulcros",
-      "url": "https://open.spotify.com/track/6oq4dspH3sjmAWm3QaViSW"
+      "duration_ms": 499155,
+      "name": "Forever YHWH (feat. Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/6lWVaAM35H2Bu26XT6cVKm"
     },
     {
       "added_at": null,
@@ -655,22 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LION",
-        "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
+        "name": "Vida aos Sepulcros",
+        "url": "https://open.spotify.com/album/7lxtRrXDl6cekYe78zSJaV"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         },
         {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 499155,
-      "name": "Forever YHWH (feat. Tiffany Hudson)",
-      "url": "https://open.spotify.com/track/6lWVaAM35H2Bu26XT6cVKm"
+      "duration_ms": 293702,
+      "name": "Vida aos Sepulcros",
+      "url": "https://open.spotify.com/track/6oq4dspH3sjmAWm3QaViSW"
     },
     {
       "added_at": null,
@@ -695,6 +695,26 @@
       "duration_ms": 473850,
       "name": "New Thing Coming (feat. Tiffany Hudson & Steven Furtick)",
       "url": "https://open.spotify.com/track/352bLqQDbtRgaFhZgdLUde"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LION",
+        "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 276036,
+      "name": "What I See (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/4A6zhvBNk6MAUp4u07p7kD"
     },
     {
       "added_at": null,
@@ -731,26 +751,6 @@
       "duration_ms": 236735,
       "name": "Echo (feat. Tauren Wells)",
       "url": "https://open.spotify.com/track/6ZhORhQoBD0qndKYvpBTv2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LION",
-        "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        }
-      ],
-      "duration_ms": 276036,
-      "name": "What I See (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/4A6zhvBNk6MAUp4u07p7kD"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hallelujah Here Below",
-        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 424754,
-      "name": "Won't Stop Now",
-      "url": "https://open.spotify.com/track/6LKjIAHCnZjaB4BfEIFHrW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Another One (feat. Chris Brown)",
         "url": "https://open.spotify.com/album/3NfyzXp4dCBmfkc8PVECRE"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 392308,
       "name": "Another One (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/1ks04dUr7tjZJUbT89MoJD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hallelujah Here Below",
+        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 424754,
+      "name": "Won't Stop Now",
+      "url": "https://open.spotify.com/track/6LKjIAHCnZjaB4BfEIFHrW"
     },
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Graves Into Gardens (Live)",
-        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 410508,
-      "name": "Never Lost (Live) (feat. Tauren Wells)",
-      "url": "https://open.spotify.com/track/0Ck8Iw5OM5Ag8q2CjBqjrV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joy In The Morning (Horizon Edition)",
         "url": "https://open.spotify.com/album/4k9NfmigtkDZLHB5MJ04RQ"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 528413,
       "name": "Joy In The Morning",
       "url": "https://open.spotify.com/track/5m1eBDlvDe8WIkVhnJRA95"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 410508,
+      "name": "Never Lost (Live) (feat. Tauren Wells)",
+      "url": "https://open.spotify.com/track/0Ck8Iw5OM5Ag8q2CjBqjrV"
     },
     {
       "added_at": null,

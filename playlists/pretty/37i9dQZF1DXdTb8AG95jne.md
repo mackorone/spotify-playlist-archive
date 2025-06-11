@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: ZIN CHOI\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,738 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,773 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 21 | [Dear My All](https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Dear My All](https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf) | 2:41 |
 | 22 | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/track/0kvtiq8qll4OTfDXvrkXEF) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:08 |
 | 23 | [Wonder](https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO) | 3:55 |
-| 24 | [Let Me Love My Youth](https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Let Me Love My Youth](https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ) | 4:08 |
+| 24 | [Winter](https://open.spotify.com/track/3tqUaq6JjHcN34WZb70FyY) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Nonadaptation](https://open.spotify.com/album/6BS3zt0gQalEc1R6hVuFP6) | 3:52 |
 | 25 | [Sleepless in Seoul \(feat\. LEE SUHYUN\)](https://open.spotify.com/track/3OrmrZSVQJ8Kt017K51aF2) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(feat\. LEE SUHYUN\)](https://open.spotify.com/album/1aEMUc73KsSG53ysHl8x9f) | 4:17 |
-| 26 | [Winter](https://open.spotify.com/track/3tqUaq6JjHcN34WZb70FyY) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Nonadaptation](https://open.spotify.com/album/6BS3zt0gQalEc1R6hVuFP6) | 3:52 |
+| 26 | [Let Me Love My Youth](https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Let Me Love My Youth](https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ) | 4:08 |
 | 27 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 |
 | 28 | [Hollywood](https://open.spotify.com/track/3XPD2voMhtskeDqtClsbaU) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Hollywood](https://open.spotify.com/album/0MY78gb6h0RWwO43g921z0) | 5:31 |
 | 29 | [MIMI](https://open.spotify.com/track/4RfVtka58I93lEnPsLlBEZ) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [GAUSSIAN](https://open.spotify.com/album/3fW9gKjP50cSIocjBT7qR0) | 3:27 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 40 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 |
 | 41 | [Today's Mood](https://open.spotify.com/track/7LcgHOeLcMbAMu48Abqtqt) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/0H24UcLRQFp2iihdvpQQ20) | 3:45 |
 | 42 | [One](https://open.spotify.com/track/420CEW5diE4ulkdbUxtg2w) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [One](https://open.spotify.com/album/6JfMCmlRcKbd07cj3GDPEG) | 2:48 |
-| 43 | [Okinawa](https://open.spotify.com/track/08Fo1zAY2piVFOD2Lv3n3z) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Okinawa](https://open.spotify.com/album/0vPsSVKMo07UijGL755gqL) | 5:48 |
-| 44 | [Rawww](https://open.spotify.com/track/0d6PXcdf0OTlfF16uQ7fh6) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/46EtrYe0U9yYOKCOYD1zAi) | 2:40 |
-| 45 | [Thought of You](https://open.spotify.com/track/4As6SLkweWhpNGIA66b891) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [Thought of You](https://open.spotify.com/album/6wArEED6fUTnMHkrOoxaPK) | 3:33 |
-| 46 | [H O M E](https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:51 |
-| 47 | [In the Bed](https://open.spotify.com/track/5naUy3DInK9w6phVgZKoKk) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [In the Bed](https://open.spotify.com/album/6UCGxZpwzt7SYipIRa0CCo) | 4:25 |
-| 48 | [Pixels](https://open.spotify.com/track/5YBTucTtGmiXiRATFlW0Nz) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Pixels](https://open.spotify.com/album/3DiqMTkQMuCrjo9Cf8Oq9d) | 4:08 |
-| 49 | [3108](https://open.spotify.com/track/4Pty5kAaFSjQk2a5cLLpqK) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [3108](https://open.spotify.com/album/4km6abn4iGxsbDnxuvFMrw) | 2:58 |
-| 50 | [Fallin'](https://open.spotify.com/track/0TsPyXbNXGbCpbqy9MhvZ4) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [Fallin'](https://open.spotify.com/album/3SViR3CSpovgvtg4BAx4s8) | 3:16 |
+| 43 | [Rawww](https://open.spotify.com/track/0d6PXcdf0OTlfF16uQ7fh6) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/46EtrYe0U9yYOKCOYD1zAi) | 2:40 |
+| 44 | [Okinawa](https://open.spotify.com/track/08Fo1zAY2piVFOD2Lv3n3z) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Okinawa](https://open.spotify.com/album/0vPsSVKMo07UijGL755gqL) | 5:48 |
+| 45 | [H O M E](https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:51 |
+| 46 | [Thought of You](https://open.spotify.com/track/4As6SLkweWhpNGIA66b891) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [Thought of You](https://open.spotify.com/album/6wArEED6fUTnMHkrOoxaPK) | 3:33 |
+| 47 | [Fallin'](https://open.spotify.com/track/0TsPyXbNXGbCpbqy9MhvZ4) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [Fallin'](https://open.spotify.com/album/3SViR3CSpovgvtg4BAx4s8) | 3:16 |
+| 48 | [In the Bed](https://open.spotify.com/track/5naUy3DInK9w6phVgZKoKk) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [In the Bed](https://open.spotify.com/album/6UCGxZpwzt7SYipIRa0CCo) | 4:25 |
+| 49 | [Pixels](https://open.spotify.com/track/5YBTucTtGmiXiRATFlW0Nz) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Pixels](https://open.spotify.com/album/3DiqMTkQMuCrjo9Cf8Oq9d) | 4:08 |
+| 50 | [3108](https://open.spotify.com/track/4Pty5kAaFSjQk2a5cLLpqK) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [3108](https://open.spotify.com/album/4km6abn4iGxsbDnxuvFMrw) | 2:58 |
 
 Snapshot ID: `aEeZdQAAAADGYEg69yiCQf/VYUcqLFFH`

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,000 songs - 2 day 8 hr 18 min
+1,001 songs - 2 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -821,6 +821,7 @@
 | [STEREO](https://open.spotify.com/track/7BF0YStgkz3SbuEWkodlP5) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [STEREO](https://open.spotify.com/album/1O3gAtGtFNMteLPa1YjXAH) | 2:58 | 2023-11-29 | 2024-03-14 |
 | [still?](https://open.spotify.com/track/4vqbuKcOPlutoGCEKZ2Grv) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [still?](https://open.spotify.com/album/5ngxW1fB5FLHP4pwm5PJ6h) | 3:07 | 2024-03-14 | 2024-06-04 |
 | [still? \- BKAYE Remix](https://open.spotify.com/track/4ieyLj9yjnB41DAapVidGc) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [still? \(BKAYE Remix\)](https://open.spotify.com/album/1VtTUZn5x5iVubXCNZOgeB) | 2:53 | 2024-04-02 | 2024-06-20 |
+| [Stranger](https://open.spotify.com/track/390IAPX580IGV2Rx8dx8ot) | [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk), [Arnie Way](https://open.spotify.com/artist/5cHBng7fvXk2Ea8UcyR5ct) | [Stranger](https://open.spotify.com/album/5tU26oyOJsrG1TfSN4mCrM) | 2:33 | 2025-06-10 |  |
 | [Strangers](https://open.spotify.com/track/4bq2Aaq3jtNKFo92BR3yhC) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Holochrome](https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ) | [Strangers](https://open.spotify.com/album/5pqtjYOAyfkki8usZYPXAY) | 3:39 | 2023-05-25 | 2023-08-20 |
 | [Street Level](https://open.spotify.com/track/38A8wAKWmyndvOHxdYh8lE) | [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [Street Level / Listen Up](https://open.spotify.com/album/2nX6zYHBUXbfDYAdBoaRLy) | 2:59 | 2025-06-02 |  |
 | [Street Talk](https://open.spotify.com/track/4l9hQWK345xfGixJQ3xvez) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19), [beastboi.](https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4) | [Street Talk](https://open.spotify.com/album/3aYg85BYxXNANnn6KLMNeF) | 2:40 | 2024-07-24 | 2024-10-16 |

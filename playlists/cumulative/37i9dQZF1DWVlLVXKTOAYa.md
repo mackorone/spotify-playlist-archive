@@ -4,7 +4,7 @@
 
 > The most interesting tracks in the current world of pop music.
 
-1,205 songs - 2 day 14 hr 22 min
+1,206 songs - 2 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-12-05 | 2025-03-14 |
 | [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 | 2024-12-05 | 2025-03-07 |
 | [Arcade](https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Arcade](https://open.spotify.com/album/7BISGeB7QwhqRIadxuLHfG) | 3:03 | 2022-03-24 | 2022-10-01 |
-| [Arcade \(Spotify Singles\)](https://open.spotify.com/track/0kY9Xp9GHh6uuCXpKncOxi) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Arcade \(Spotify Singles\)](https://open.spotify.com/album/3XccOYlrax3mtRQXKwdYTy) | 2:39 | 2025-05-08 |  |
+| [Arcade \(Spotify Singles\)](https://open.spotify.com/track/0kY9Xp9GHh6uuCXpKncOxi) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Arcade \(Spotify Singles\)](https://open.spotify.com/album/3XccOYlrax3mtRQXKwdYTy) | 2:39 | 2025-05-08 | 2025-06-11 |
 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 | 2025-01-09 | 2025-04-05 |
 | [As I Am \(feat\. Khalid\)](https://open.spotify.com/track/4MmMxyew8yq1OEyJOMaX6M) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Justice](https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD) | 2:54 | 2021-12-16 | 2022-07-29 |
 | [AT LEAST I'M GOOD AT IT](https://open.spotify.com/track/1KrLtIuOgZ1QiIxBqGb4NF) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [AT LEAST I'M GOOD AT IT](https://open.spotify.com/album/3ALTi5aB725LhPjGikjG4Z) | 2:28 | 2022-03-24 | 2022-04-21 |
@@ -277,6 +277,7 @@
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-12-05 | 2025-03-14 |
 | [Dinner](https://open.spotify.com/track/0fD2C4iOpAJet8DBaImPJy) | [Adam Klobi](https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI) | [Dinner](https://open.spotify.com/album/4OWtgRW16OHXE98shkJjZA) | 3:48 | 2025-03-20 |  |
 | [Dirty](https://open.spotify.com/track/0z93LiOLVx8thr9eD2r9uV) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Dirty](https://open.spotify.com/album/7pUbm4cVWzOkXKuy4rzAjK) | 3:03 | 2024-12-12 | 2025-03-14 |
+| [Disco Cowgirl](https://open.spotify.com/track/3ShZPsqNw5P6AxqEzWcgMp) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Disco Cowgirl](https://open.spotify.com/album/0xnQxuzAjBDkab4zPtFwOh) | 3:25 | 2025-05-29 |  |
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-12-05 | 2025-03-14 |
 | [Distraction](https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Distraction](https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o) | 2:51 | 2022-07-07 | 2022-08-05 |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2023-01-06 | 2024-05-24 |

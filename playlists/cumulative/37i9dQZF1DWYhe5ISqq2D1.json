@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u305f\u3063\u305f\u72ec\u308a\u3067\u30e1\u30ed\u30c7\u30a3\u30fc\u3068\u8a00\u8449\u3092\u7d21\u3050\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3002Cover: Baby Canta",
+  "description": "\u305f\u3063\u305f\u72ec\u308a\u3067\u30e1\u30ed\u30c7\u30a3\u30fc\u3068\u8a00\u8449\u3092\u7d21\u3050\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3002Cover: jo0ji",
   "name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "tracks": [
     {
@@ -5208,7 +5208,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 279957,
       "name": "Yamamba Mambo",
       "url": "https://open.spotify.com/track/2P0BVinCbzbms7RTrXycvS"
@@ -7288,7 +7288,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 395826,
       "name": "\u30b4\u30fc\u30b9\u30c8",
       "url": "https://open.spotify.com/track/75Dv13MlhuD5zVeupmIpDa"
@@ -8210,7 +8210,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-29",
+      "date_removed": null,
       "duration_ms": 169773,
       "name": "\u30e9\u30a4\u30d5\u30b9\u30bf\u30a4\u30eb",
       "url": "https://open.spotify.com/track/6DX1571XvHNwRoqQJx6A8r"
@@ -10418,6 +10418,24 @@
       "duration_ms": 213191,
       "name": "\u6717\u6717",
       "url": "https://open.spotify.com/track/7Jp8SrcoDDZHl1MYbSiXuq"
+    },
+    {
+      "album": {
+        "name": "\u6761\u53f8",
+        "url": "https://open.spotify.com/album/4FtXFRN2SUz02ERbkdf25d"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228506,
+      "name": "\u6761\u53f8",
+      "url": "https://open.spotify.com/track/1GPJ7qT0APz9GqZyotCMhu"
     },
     {
       "album": {

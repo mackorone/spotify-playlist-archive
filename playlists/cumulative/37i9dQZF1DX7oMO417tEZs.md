@@ -4,7 +4,7 @@
 
 > A curated space for the avant\-garde\. Cover: Sophia Stel
 
-1,615 songs - 3 day 16 hr 50 min
+1,616 songs - 3 day 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -685,6 +685,7 @@
 | [Hotline](https://open.spotify.com/track/5QM9WZ4PdG1h0c3dc9QiUA) | [vincent's last summer](https://open.spotify.com/artist/7FiGSKxy5ZCK0hzf81tjm3) | [Hotline](https://open.spotify.com/album/3IbXCFLguPI38kGf657iI7) | 2:46 | 2024-09-27 | 2025-02-22 |
 | [HotMom.com](https://open.spotify.com/track/6leIMUV6IC5hQEvwPPdsrK) | [Oscar Louis](https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK) | [HotMom.com](https://open.spotify.com/album/7m4p607UjRClyEYBjPr2GN) | 2:24 | 2022-10-07 | 2023-02-18 |
 | [Hours \- Acoustic](https://open.spotify.com/track/2XeiErcAs3bupghj4jfB6u) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [Hours \(Acoustic\)](https://open.spotify.com/album/43RroKIozB14vXHnBsjsbY) | 2:46 | 2022-03-04 | 2022-04-02 |
+| [House Fire](https://open.spotify.com/track/4wG5sRMJRvPsxSaUQzyKag) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [House Fire](https://open.spotify.com/album/4IBqJMZM6WuVWW2szJFlym) | 3:07 | 2025-06-06 |  |
 | [how far will you go](https://open.spotify.com/track/7BBX8agn6l3GlJWCecoLi2) | [GOVI](https://open.spotify.com/artist/12qE4Gh9Ee2jAooVkZLq62) | [how far will you go](https://open.spotify.com/album/5APyne5EPcLxhAVEm95BK7) | 3:38 | 2023-06-23 | 2023-12-02 |
 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 | 2023-08-25 | 2023-12-09 |
 | [How Many](https://open.spotify.com/track/7r4eIeyVaErbZlXHDXaQeb) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [How Many](https://open.spotify.com/album/4IylGJ09nibqVHqRGzxSIN) | 2:03 | 2024-07-05 | 2024-09-14 |

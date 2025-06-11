@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 166268,
+  "num_followers": 166284,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-06-09 04:52:37",
       "album": {
-        "name": "Mood Valiant",
-        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 203266,
-      "name": "And We Go Gentle",
-      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
-    },
-    {
-      "added_at": "2025-06-09 04:52:37",
-      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/2PLznXIZ3amppNBiPoMFvs"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 185991,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/7mvma3mO5hSyhVbJDXxtFz"
+    },
+    {
+      "added_at": "2025-06-09 04:52:37",
+      "album": {
+        "name": "Mood Valiant",
+        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 203266,
+      "name": "And We Go Gentle",
+      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
     },
     {
       "added_at": "2025-06-09 04:52:37",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-06-09 04:52:37",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/53m3RvFPacVDijPuDabf0Y"
-      },
-      "artists": [
-        {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
-        }
-      ],
-      "duration_ms": 220945,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp"
-    },
-    {
-      "added_at": "2025-06-09 04:52:37",
-      "album": {
         "name": "Seize The Day",
         "url": "https://open.spotify.com/album/56uC55DMbvL9l8dQAoszp5"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 161512,
       "name": "Seize The Day",
       "url": "https://open.spotify.com/track/04rz2UaJqbK4aUs7TSk7Sw"
+    },
+    {
+      "added_at": "2025-06-09 04:52:37",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/53m3RvFPacVDijPuDabf0Y"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "duration_ms": 220945,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp"
     },
     {
       "added_at": "2025-06-09 04:52:37",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-06-09 04:52:37",
       "album": {
-        "name": "at least i look cool",
-        "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 171695,
-      "name": "at least i look cool",
-      "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
-    },
-    {
-      "added_at": "2025-06-09 04:52:37",
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/059780GUzrYPDmQF1tlsek"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 196989,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/4tn5zAuILpz5GjsdoosU3G"
+    },
+    {
+      "added_at": "2025-06-09 04:52:37",
+      "album": {
+        "name": "at least i look cool",
+        "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 171695,
+      "name": "at least i look cool",
+      "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
     },
     {
       "added_at": "2025-06-09 04:52:37",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2025-06-09 04:52:37",
       "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
-      },
-      "artists": [
-        {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 316200,
-      "name": "Distractions",
-      "url": "https://open.spotify.com/track/4DGPON9kch3YXAzVsozF8R"
-    },
-    {
-      "added_at": "2025-06-09 04:52:37",
-      "album": {
         "name": "Firebabe",
         "url": "https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz"
       },
@@ -1147,6 +1127,26 @@
     {
       "added_at": "2025-06-09 04:52:37",
       "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
+      },
+      "artists": [
+        {
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 316200,
+      "name": "Distractions",
+      "url": "https://open.spotify.com/track/4DGPON9kch3YXAzVsozF8R"
+    },
+    {
+      "added_at": "2025-06-09 04:52:37",
+      "album": {
         "name": "Underground Vibes",
         "url": "https://open.spotify.com/album/3KbEXCBCtDk1gUIJrQirIA"
       },
@@ -1159,6 +1159,22 @@
       "duration_ms": 312413,
       "name": "Mad Blunted Jazz",
       "url": "https://open.spotify.com/track/11mUt9hPLDxt7EsoYB2Ujc"
+    },
+    {
+      "added_at": "2025-06-09 04:52:37",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3"
     },
     {
       "added_at": "2025-06-09 04:52:37",
@@ -1179,22 +1195,6 @@
       "duration_ms": 215999,
       "name": "Cheap Vacations (feat. Glassface)",
       "url": "https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP"
-    },
-    {
-      "added_at": "2025-06-09 04:52:37",
-      "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3"
     },
     {
       "added_at": "2025-06-09 04:52:37",
@@ -1351,38 +1351,6 @@
     {
       "added_at": "2025-06-09 04:52:37",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/4H1ifuiljrSCXJn2LI3zLC"
-      },
-      "artists": [
-        {
-          "name": "Arabelle",
-          "url": "https://open.spotify.com/artist/7uU11RJKOt74chXI2s6eQf"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/5QJ40U3CynwRGa7wmFePDl"
-    },
-    {
-      "added_at": "2025-06-09 04:52:37",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 253927,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
-    },
-    {
-      "added_at": "2025-06-09 04:52:37",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/4zhxQLpyqo7xnKpFHOgJvw"
       },
@@ -1403,22 +1371,34 @@
     {
       "added_at": "2025-06-09 04:52:37",
       "album": {
-        "name": "Build",
-        "url": "https://open.spotify.com/album/6ASizE9wRKuBUsgARpMrkh"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
       },
       "artists": [
         {
-          "name": "Justine Skye",
-          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
-        },
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
         }
       ],
-      "duration_ms": 247333,
-      "name": "Build",
-      "url": "https://open.spotify.com/track/0G3qCSe4KcWFc0EKlXCEo8"
+      "duration_ms": 253927,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
+    },
+    {
+      "added_at": "2025-06-09 04:52:37",
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/4H1ifuiljrSCXJn2LI3zLC"
+      },
+      "artists": [
+        {
+          "name": "Arabelle",
+          "url": "https://open.spotify.com/artist/7uU11RJKOt74chXI2s6eQf"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/5QJ40U3CynwRGa7wmFePDl"
     },
     {
       "added_at": "2025-06-09 04:52:37",
@@ -1451,6 +1431,26 @@
       "duration_ms": 158675,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/2HltyHR6c797UOdw42knuC"
+    },
+    {
+      "added_at": "2025-06-09 04:52:37",
+      "album": {
+        "name": "Build",
+        "url": "https://open.spotify.com/album/6ASizE9wRKuBUsgARpMrkh"
+      },
+      "artists": [
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        },
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "duration_ms": 247333,
+      "name": "Build",
+      "url": "https://open.spotify.com/track/0G3qCSe4KcWFc0EKlXCEo8"
     },
     {
       "added_at": "2025-06-09 04:52:37",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-06-09 04:52:37",
       "album": {
-        "name": "I WILL BE THE CAUSE OF OUR DEATH",
-        "url": "https://open.spotify.com/album/2Es4yinpnkszumajLeesGb"
-      },
-      "artists": [
-        {
-          "name": "takeshi iwamoto",
-          "url": "https://open.spotify.com/artist/28fZt7cLleTXJB9V8zDxE9"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "I WILL BE THE CAUSE OF OUR DEATH",
-      "url": "https://open.spotify.com/track/2cKY2agDTAezOq1HZPOheC"
-    },
-    {
-      "added_at": "2025-06-09 04:52:37",
-      "album": {
         "name": "Hello, I said",
         "url": "https://open.spotify.com/album/4bNKNSX4l2cIRlxp0l12fH"
       },
@@ -1623,22 +1607,18 @@
     {
       "added_at": "2025-06-09 04:52:37",
       "album": {
-        "name": "untitled (what's it gonna be)",
-        "url": "https://open.spotify.com/album/74bDYW7BEX7rs8Rl4LNqLS"
+        "name": "I WILL BE THE CAUSE OF OUR DEATH",
+        "url": "https://open.spotify.com/album/2Es4yinpnkszumajLeesGb"
       },
       "artists": [
         {
-          "name": "thecolorfractal",
-          "url": "https://open.spotify.com/artist/0v5RDo6n69zPsWKEDuZueu"
-        },
-        {
-          "name": "Gail Belmonte",
-          "url": "https://open.spotify.com/artist/7cu716rV1JmtKcJ9h7FRLQ"
+          "name": "takeshi iwamoto",
+          "url": "https://open.spotify.com/artist/28fZt7cLleTXJB9V8zDxE9"
         }
       ],
-      "duration_ms": 250666,
-      "name": "untitled (what's it gonna be)",
-      "url": "https://open.spotify.com/track/76YpiW77bh2bCbvysBnwF4"
+      "duration_ms": 222000,
+      "name": "I WILL BE THE CAUSE OF OUR DEATH",
+      "url": "https://open.spotify.com/track/2cKY2agDTAezOq1HZPOheC"
     },
     {
       "added_at": "2025-06-09 04:52:37",
@@ -1675,22 +1655,22 @@
     {
       "added_at": "2025-06-09 04:52:37",
       "album": {
-        "name": "Light (with BENEE)",
-        "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
+        "name": "untitled (what's it gonna be)",
+        "url": "https://open.spotify.com/album/74bDYW7BEX7rs8Rl4LNqLS"
       },
       "artists": [
         {
-          "name": "Finn Falcon",
-          "url": "https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ"
+          "name": "thecolorfractal",
+          "url": "https://open.spotify.com/artist/0v5RDo6n69zPsWKEDuZueu"
         },
         {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+          "name": "Gail Belmonte",
+          "url": "https://open.spotify.com/artist/7cu716rV1JmtKcJ9h7FRLQ"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Light (with BENEE)",
-      "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
+      "duration_ms": 250666,
+      "name": "untitled (what's it gonna be)",
+      "url": "https://open.spotify.com/track/76YpiW77bh2bCbvysBnwF4"
     },
     {
       "added_at": "2025-06-09 04:52:37",
@@ -1711,6 +1691,26 @@
     {
       "added_at": "2025-06-09 04:52:37",
       "album": {
+        "name": "Light (with BENEE)",
+        "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
+      },
+      "artists": [
+        {
+          "name": "Finn Falcon",
+          "url": "https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Light (with BENEE)",
+      "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
+    },
+    {
+      "added_at": "2025-06-09 04:52:37",
+      "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy"
       },
@@ -1727,22 +1727,18 @@
     {
       "added_at": "2025-06-09 04:52:37",
       "album": {
-        "name": "Queen Space (with Summer Walker)",
-        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
         }
       ],
-      "duration_ms": 230841,
-      "name": "Queen Space (with Summer Walker)",
-      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
+      "duration_ms": 190642,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/1r5JnD5hiJrViG0DUG02Jv"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

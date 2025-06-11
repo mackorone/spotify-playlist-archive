@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > No hay nada que pueda derrotarte, después de la tormenta viene la calma :\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,101 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,106 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 49 | [Moon](https://open.spotify.com/track/0tffNoL4418lhzZmJJFNB7) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda \(Deluxe\)](https://open.spotify.com/album/2Wiyo7LzdeBCsVZiRA6vVZ) | 2:36 |
 | 50 | [Sol](https://open.spotify.com/track/2rFTvpWi3E3P9rD1aX1c52) | [Tunacola](https://open.spotify.com/artist/0E0FX8RYDfwseJAhwO9AK2) | [Todos los Veranos del Mundo](https://open.spotify.com/album/6hUR37m9nntDDqYe5xxBEv) | 4:26 |
 
-Snapshot ID: `ZwiSgAAAAAAeRBys/A+djbbrzSR/rnMO`
+Snapshot ID: `ZwiSgAAAAABTUr234FTCSw4Cntdx0dOD`

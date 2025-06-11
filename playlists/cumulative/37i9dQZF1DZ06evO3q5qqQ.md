@@ -4,7 +4,7 @@
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-77 songs - 3 hr 40 min
+78 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Chuyito y el Mayo \(En Vivo\)](https://open.spotify.com/track/7jjlHbcXCJOHJ2h7ilpQyx) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. II \(En Vivo\)](https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM) | 3:09 | 2024-01-29 |  |
 | [Corazón Ranchero \(En Vivo\)](https://open.spotify.com/track/1XFdyarYxFTBtSmB8MpILF) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. II \(En Vivo\)](https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM) | 3:41 | 2024-07-23 | 2024-10-21 |
 | [De Aqui Soy](https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [De Aqui Soy](https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP) | 2:48 | 2025-02-03 |  |
-| [Don Mayo \(En vivo\)](https://open.spotify.com/track/0dosB2O1QBbPSkAw2eFSX5) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa) | 2:56 | 2024-01-29 |  |
+| [Don Mayo \(En vivo\)](https://open.spotify.com/track/0dosB2O1QBbPSkAw2eFSX5) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa) | 2:56 | 2024-01-29 | 2025-06-11 |
 | [El 30](https://open.spotify.com/track/4YqYXDEXCOzoigKHCCAec7) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El 30](https://open.spotify.com/album/5uFfnpEe1QrKi8kLEjEFSy) | 3:10 | 2024-01-29 | 2024-04-25 |
 | [El Amor No Es Para Todos](https://open.spotify.com/track/3oazxJTMSqk0KCupesUq7B) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [El Amor No Es Para Todos](https://open.spotify.com/album/3yDNbHOaUo0r9yafxBkAJl) | 2:22 | 2024-04-20 |  |
 | [El Apache](https://open.spotify.com/track/6JtzRe7OZeTp3np1d3qULV) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Corridos Bélicos, Vol\. 3](https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo) | 2:48 | 2024-01-29 | 2024-03-09 |
@@ -58,6 +58,7 @@
 | [La Muchacha Del Salado "La Nicholette" \(En vivo\)](https://open.spotify.com/track/5dgSrp2BNzQXzYblHtzAao) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa) | 2:44 | 2024-01-29 |  |
 | [La Novedad](https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Novedad](https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS) | 3:29 | 2024-04-22 |  |
 | [La Pasadita \(En vivo\)](https://open.spotify.com/track/09YX9qkzkVAPnAOxdC3PFV) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/05uudYnuSJPNR6tFefx699) | 2:29 | 2024-02-25 |  |
+| [La Playa](https://open.spotify.com/track/7qi4z99o4xMAYhcVOZrfDz) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Playa](https://open.spotify.com/album/6w6RCUcKd1oiSK6eE2TBY1) | 3:46 | 2025-06-11 |  |
 | [La Ruleta de la Vida](https://open.spotify.com/track/7LqZaeQLxCddAw8k0FA9T7) | [La Instruxion](https://open.spotify.com/artist/4IJpHcdinb2JCL9Gi9Gdw4), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Ruleta de la Vida](https://open.spotify.com/album/4onNGEWvJ7CFdwxOfRNP8O) | 2:39 | 2024-10-22 | 2025-02-16 |
 | [La Sombra Del Sombrero \- En Vivo](https://open.spotify.com/track/1kyAxI5VF8BQ9rfL07QV75) | [Chuy Lopez](https://open.spotify.com/artist/6VwUtgHcDXb3cLnlIKidVM), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pisteando Entre Amigos \(En Vivo\)](https://open.spotify.com/album/6LX4xXXcu3GuO8mpMCwWKo) | 3:38 | 2025-04-20 | 2025-05-20 |
 | [Levantando Polvadera \(En vivo\)](https://open.spotify.com/track/63z6pfIFHMXPUvZCuXOL9W) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7) | 2:09 | 2024-01-29 |  |

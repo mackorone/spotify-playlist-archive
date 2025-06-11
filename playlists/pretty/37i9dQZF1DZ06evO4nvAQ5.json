@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 15401,
+  "num_followers": 15406,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAACOUQ8OJK7Emcn6g9mf00fm",
+  "snapshot_id": "aEYkAAAAAABxSxf1/HLkHaMmNanxmERA",
   "tracks": [
     {
       "added_at": null,
@@ -747,6 +747,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CELEBRATION",
+        "url": "https://open.spotify.com/album/4eBp5HfKr28qzlcpmYIdjy"
+      },
+      "artists": [
+        {
+          "name": "Common Kings",
+          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 205875,
+      "name": "Raggamuffin",
+      "url": "https://open.spotify.com/track/5fCAt9wpOMHR0NB2WjLjQ5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Backyard Boogie",
         "url": "https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 241083,
       "name": "Hawaiian Pakalolo",
       "url": "https://open.spotify.com/track/33wJTyMde69nSAreVisHlk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CELEBRATION",
-        "url": "https://open.spotify.com/album/4eBp5HfKr28qzlcpmYIdjy"
-      },
-      "artists": [
-        {
-          "name": "Common Kings",
-          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 205875,
-      "name": "Raggamuffin",
-      "url": "https://open.spotify.com/track/5fCAt9wpOMHR0NB2WjLjQ5"
     },
     {
       "added_at": null,
@@ -863,22 +863,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marching Orders",
-        "url": "https://open.spotify.com/album/1mTwtUHI9TLq3b0hk4DrFO"
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD"
       },
       "artists": [
-        {
-          "name": "The Green",
-          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
-        },
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 230563,
-      "name": "Mama Roots",
-      "url": "https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj"
+      "duration_ms": 223393,
+      "name": "Love's Close Around",
+      "url": "https://open.spotify.com/track/0ZrAAJ6u6IlukqFbHK3RIA"
     },
     {
       "added_at": null,
@@ -899,6 +895,26 @@
       "duration_ms": 221666,
       "name": "Good Cry (feat. Chaka Demus)",
       "url": "https://open.spotify.com/track/5dwNgWoqKuGiULtMKILzKz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marching Orders",
+        "url": "https://open.spotify.com/album/1mTwtUHI9TLq3b0hk4DrFO"
+      },
+      "artists": [
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 230563,
+      "name": "Mama Roots",
+      "url": "https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj"
     },
     {
       "added_at": null,
@@ -943,22 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 223393,
-      "name": "Love's Close Around",
-      "url": "https://open.spotify.com/track/0ZrAAJ6u6IlukqFbHK3RIA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wash House Ting",
         "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
       },
@@ -975,22 +975,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rose Petals",
-        "url": "https://open.spotify.com/album/0c5o3uiLOPdmDTjcDOPnnu"
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD"
       },
       "artists": [
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 214767,
-      "name": "No Pressure (feat. Snoop Dogg) - Bonus Track",
-      "url": "https://open.spotify.com/track/5PAsypzNOpxEOuhgxjqWaI"
+      "duration_ms": 213543,
+      "name": "S.O.B.",
+      "url": "https://open.spotify.com/track/4t3jJFnRmbOSg27ecYFr7x"
     }
   ],
   "unique_name": "This Is J Boog",

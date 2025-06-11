@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dancefloor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,657 likes - 75 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,876 likes - 75 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 43 | [Discamore](https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Discamore](https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU) | 3:44 |
 | 44 | [Hey Hey Guy \(7" Vocal Version\)](https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF) | [Ken Laszlo](https://open.spotify.com/artist/00OX175uYCsHJPLZOjNJqe) | [Greatest Hits & Remixes](https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22) | 3:26 |
 | 45 | [Dammi un'idea](https://open.spotify.com/track/7DrO38olLryjXBoxqKPqHN) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI), [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt) | [Dammi un'idea](https://open.spotify.com/album/1Y6CC1upQq0zT8hsuhTHKj) | 3:21 |
-| 46 | [Cotton & Silk](https://open.spotify.com/track/6oFA9zdx6geUC6uCqQKhJc) | [Tiger & Woods](https://open.spotify.com/artist/0AEi1DK5ehyvkZzOUlqEVz), [' EM](https://open.spotify.com/artist/51Iui0ghqgBcmLE7B12lBR) | [Cotton & Silk](https://open.spotify.com/album/667kJuZEkDLZtV7j1K4gSS) | 3:43 |
-| 47 | [Take A Chance \- Original Mix](https://open.spotify.com/track/0lLqS6XnoLYJJXHj57h4jz) | [Mr\. Flagio](https://open.spotify.com/artist/1arUaR84JlrYFPAjZaBKSq) | [Take A Chance](https://open.spotify.com/album/0jFg1pE1m0257KL4hpzq2m) | 7:52 |
+| 46 | [Take A Chance \- Original Mix](https://open.spotify.com/track/0lLqS6XnoLYJJXHj57h4jz) | [Mr\. Flagio](https://open.spotify.com/artist/1arUaR84JlrYFPAjZaBKSq) | [Take A Chance](https://open.spotify.com/album/0jFg1pE1m0257KL4hpzq2m) | 7:52 |
+| 47 | [Cotton & Silk](https://open.spotify.com/track/6oFA9zdx6geUC6uCqQKhJc) | [Tiger & Woods](https://open.spotify.com/artist/0AEi1DK5ehyvkZzOUlqEVz), [' EM](https://open.spotify.com/artist/51Iui0ghqgBcmLE7B12lBR) | [Cotton & Silk](https://open.spotify.com/album/667kJuZEkDLZtV7j1K4gSS) | 3:43 |
 | 48 | [For You \- Original Album](https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C) | [Ago](https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx) | [For You \(LP\)](https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n) | 5:53 |
 | 49 | [I Want You](https://open.spotify.com/track/34yg2BvpUtDP6VPmZYCP9x) | [Gary Low](https://open.spotify.com/artist/4MntnRuXrTyjMGt1RF0k8b) | [Gary Low: The Best of](https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9) | 8:29 |
 | 50 | [E mò e mò \- Mixed By Erry Remix \(Radio Edit\)](https://open.spotify.com/track/0NOhqNiNfdtAWZdCYcu7K0) | [Peppino Di Capri](https://open.spotify.com/artist/4zg9VA3wNR2KFwpvPabqa4), [Mixed By Erry](https://open.spotify.com/artist/7vdZ66oXssJ9V5kNRE37UN) | [E mò e mò \(Mixed By Erry Remix\)](https://open.spotify.com/album/3oEAlLpsfnwQzGWH0kq4HA) | 3:12 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 71 | [Baby I Love You](https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW) | [Easy Going](https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1) | [Baby I Love You \(Original\) \- Single](https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U) | 8:23 |
 | 72 | [Sciura Milanese](https://open.spotify.com/track/5YTv2jGYKy2TUpKvTgvYuY) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Sciura Milanese](https://open.spotify.com/album/249ujnw9iFNdxE4FlFCvJ2) | 3:10 |
 | 73 | [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 |
-| 74 | [Desiderio](https://open.spotify.com/track/6QCjkO9QE3itTOwe3tmX01) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI) | [Desiderio](https://open.spotify.com/album/73G2ccMo3S3DS7DTCd6pCG) | 4:25 |
-| 75 | [Sentimento Universale](https://open.spotify.com/track/5Lzr2D8OagZ5Oy6JxoQ8PK) | [Tamati](https://open.spotify.com/artist/5N4Hr2udzNz82WhOJmyIDU) | [Pazzo Italiano](https://open.spotify.com/album/7G0egW1pCmKnpwRT9MZ81F) | 5:02 |
+| 74 | [Sentimento Universale](https://open.spotify.com/track/5Lzr2D8OagZ5Oy6JxoQ8PK) | [Tamati](https://open.spotify.com/artist/5N4Hr2udzNz82WhOJmyIDU) | [Pazzo Italiano](https://open.spotify.com/album/7G0egW1pCmKnpwRT9MZ81F) | 5:02 |
+| 75 | [Desiderio](https://open.spotify.com/track/6QCjkO9QE3itTOwe3tmX01) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI) | [Desiderio](https://open.spotify.com/album/73G2ccMo3S3DS7DTCd6pCG) | 4:25 |
 
 Snapshot ID: `aEITyQAAAAB2rljcLZiXYmDJZ9HPSt++`

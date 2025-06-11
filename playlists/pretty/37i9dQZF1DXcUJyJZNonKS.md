@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUJyJZNonKS.md) - [plain]
 
 ### [Crunchyroll Anime Essentials](https://open.spotify.com/playlist/37i9dQZF1DXcUJyJZNonKS)
 
-> A brand new anime season has arrived! Check back often to discover your next favorite fall anime tracks.
+> A brand new anime season has arrived! Check back often to discover your next favorite anime tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,964 likes - 77 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,993 likes - 77 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUJyJZNonKS.md) - [plain]
 | 76 | [キミとアイドルプリキュア♪ Light Up！](https://open.spotify.com/track/5yB5sPue0XCrUqY9F1Mkkl) | [石井あみ](https://open.spotify.com/artist/6RNBmAAY3e0sC1Ne0iXnsV), [熊田茜音](https://open.spotify.com/artist/6atbj1ekQT3aHVY551wxqb), [吉武千颯](https://open.spotify.com/artist/7pSHeDPpr7dU6nkxAa2D83), [キミとアイドルプリキュア♪](https://open.spotify.com/artist/6x3NNrhojDHsTib8R3uNb4) | [『キミとアイドルプリキュア♪』主題歌シングル【通常盤】](https://open.spotify.com/album/6WaMoRf067e3k9xsfWcehq) | 4:18 |
 | 77 | [Trio Dreams](https://open.spotify.com/track/4vrKeoL84Zn7PN68VcNJcz) | [キュアアイドル\(CV：松岡美里\)](https://open.spotify.com/artist/5sQufCNOPIEOmIwcdqiGlo), [キュアウインク\(CV：髙橋ミナミ\)](https://open.spotify.com/artist/0oR7V5wsCHZb0ImjEbBRx5), [キュアキュンキュン\(CV：高森奈津美\)](https://open.spotify.com/artist/2pMIvQ0xTjASn0wBsKIg4T), [キミとアイドルプリキュア♪](https://open.spotify.com/artist/6x3NNrhojDHsTib8R3uNb4) | [『キミとアイドルプリキュア♪』主題歌シングル【通常盤】](https://open.spotify.com/album/6WaMoRf067e3k9xsfWcehq) | 3:41 |
 
-Snapshot ID: `aC9aDQAAAAApnOF8AdmDWrxh521Q/lB5`
+Snapshot ID: `aEfIaAAAAAAjyF6T9g4QdGUYIQmRDGoL`

@@ -4,7 +4,7 @@
 
 > 2025: doom scrolling is out, off\-grid is in.
 
-75 songs - 3 hr 10 min
+82 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Scene From a Memory](https://open.spotify.com/track/4FdFpWv4nrAMzrtZ6gnNPM) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [A Scene From a Memory](https://open.spotify.com/album/149K4TCTEEYy3PsGC2gpc2) | 2:15 | 2025-03-07 |  |
 | [A Thousand Miles](https://open.spotify.com/track/7y7zmK91BV5A4NagPCtuWt) | [Allard Sidonia](https://open.spotify.com/artist/75Qjml4Q7xX9oYUxLlfkAY) | [A Thousand Miles](https://open.spotify.com/album/7eo39n32RoBLx2Z2yFfsnG) | 3:17 | 2025-03-26 |  |
 | [Adieux](https://open.spotify.com/track/2lHRiPZ9BGevu7jnXDo7q8) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Experience](https://open.spotify.com/album/0VZo00CZ7kv8GH7fUzSqTr) | 2:55 | 2025-03-07 |  |
+| [Aged](https://open.spotify.com/track/1xeKcMfBt1BcnYBcTagDz8) | [Ella Davies](https://open.spotify.com/artist/41ZN6cpScLI4JidZW7f47H) | [Aged](https://open.spotify.com/album/1lqvHDfvRd5oZIYRELq5d5) | 2:27 | 2025-06-10 |  |
 | [Agilis](https://open.spotify.com/track/4FST1ZxPQbuH0YMv8fCxUu) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Agilis](https://open.spotify.com/album/21TIrpEbhEE7a6673fIURK) | 2:11 | 2025-03-07 |  |
 | [Aguachile](https://open.spotify.com/track/79JWsSXbAW3gisGFrLXafU) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Aguachile](https://open.spotify.com/album/6ugXuZjPxb6eUacXvSiPXZ) | 2:06 | 2025-05-30 |  |
 | [Amenable](https://open.spotify.com/track/45hCCandEc5IGL5p6rUy7g) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Amenable](https://open.spotify.com/album/7lTPmvctkCtwVtMyJZtPaw) | 2:54 | 2025-03-07 |  |
@@ -24,6 +25,7 @@
 | [Constant Flow](https://open.spotify.com/track/4ddSt3tiJ7QxAq93PlIf3Z) | [Stace Brinorma](https://open.spotify.com/artist/0uhbT4yNeyFnQePzFddGJk) | [Constant Flow](https://open.spotify.com/album/6ZKXemtYF6UdrXwA9mA2o6) | 2:20 | 2025-04-09 |  |
 | [Copper Corners](https://open.spotify.com/track/2ZOHuRyNd05kKlsZVKPnuD) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Copper Corners](https://open.spotify.com/album/1ex8osQco2SsMVEvJBrwEA) | 2:24 | 2025-03-07 |  |
 | [Counting the Days](https://open.spotify.com/track/1xfEo3rOHLAT3vqxMPKC5d) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Counting the Days](https://open.spotify.com/album/1DIDzFc9XpurOpFuCGmL43) | 2:48 | 2025-04-02 |  |
+| [Descanso](https://open.spotify.com/track/09GOfbYAJRl2EtDAWCzaYh) | [aung](https://open.spotify.com/artist/0s0tm9zd9sIgQU1g44VujV) | [Descanso](https://open.spotify.com/album/3P2cjSVUew8ztsFyndU0mo) | 2:52 | 2025-06-10 |  |
 | [Dianthus](https://open.spotify.com/track/1AFS4HPrOmxvVgKGVuylWI) | [Valentia Serrano](https://open.spotify.com/artist/1OCi9l2I6jEaENzD8MuSAJ) | [Dianthus](https://open.spotify.com/album/2NVyXMffU56Xmv5Dqs8Aix) | 2:33 | 2025-03-21 |  |
 | [Dream Currents](https://open.spotify.com/track/1ojiIYfLCTbwPU5Iw5eGKx) | [Enigmatic Horizons](https://open.spotify.com/artist/7lxOloHmE3ZvWzfIitB4Xc) | [Dream Currents](https://open.spotify.com/album/52oI8gPpTN0njgd3m1cip8) | 2:18 | 2025-03-07 |  |
 | [Ember](https://open.spotify.com/track/7yZcjQGSDcKdxAmxJ7rvqd) | [Lunar Lull](https://open.spotify.com/artist/0w0zHn5v90BiyC7Puy5dPo) | [Ember](https://open.spotify.com/album/4Veqj4ATJBFYcrGMig7O38) | 2:44 | 2025-05-20 |  |
@@ -32,13 +34,14 @@
 | [first light](https://open.spotify.com/track/7bu870j7iPDSdbMob24mRp) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [first light](https://open.spotify.com/album/11ohTTCQ3SNzVb2IjCuuRk) | 2:55 | 2025-03-07 |  |
 | [Fleeting Dreams](https://open.spotify.com/track/5gHcTERPThy3uSkgj8Cegt) | [Ash Forrest](https://open.spotify.com/artist/6hoYRcfEHX7qRbBvQpoGCV) | [Fleeting Dreams](https://open.spotify.com/album/2Yqf95s4VCPO21d5URnAR1) | 2:21 | 2025-03-07 |  |
 | [Floating in Between](https://open.spotify.com/track/26uNq6Q320YkGvrgmYb09t) | [Potting Shed Dreams](https://open.spotify.com/artist/2xotsVJoq3CP69eHgQNux6) | [Floating in Between](https://open.spotify.com/album/1C4AaDwT02U80E9aaVbj1I) | 2:12 | 2025-03-07 |  |
+| [Flying](https://open.spotify.com/track/5LnE41JDvVICQgfw8VZ61k) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Flying](https://open.spotify.com/album/6e2ImMD9m33oOGyv1VP4yi) | 2:05 | 2025-06-10 |  |
 | [Follow](https://open.spotify.com/track/3d5Mi2IFJ9J4MSWwUFvyEl) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Follow](https://open.spotify.com/album/1R8czr85JJr1ouJ4KI3BPS) | 2:01 | 2025-03-07 |  |
 | [Foothills](https://open.spotify.com/track/0oVBOb9DTb5x9fOQOK0RRV) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Foothills](https://open.spotify.com/album/1JLVBPMupd4nb0JzUDWzsi) | 2:13 | 2025-03-07 |  |
 | [Forever Yours](https://open.spotify.com/track/2Fa4HWhnE7oiWdiHnjv3aD) | [Lyvia Northman](https://open.spotify.com/artist/5UlShaxI9lS8FdpD4esXvh) | [Forever Yours](https://open.spotify.com/album/373hZdOKeVNCwLsi7VZRJN) | 2:22 | 2025-05-30 |  |
 | [Go South](https://open.spotify.com/track/6mqQyvWTWafG0ntnX7dj2N) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Go South](https://open.spotify.com/album/1RypPSrMTRaAXvO3u8BurB) | 2:20 | 2025-05-02 |  |
 | [Half Of My Soul](https://open.spotify.com/track/5ykVoVdexmabNS0Oi8RFSs) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Half Of My Soul](https://open.spotify.com/album/6Ph4IPNvLZZh6kqBxmbZ60) | 3:41 | 2025-03-18 |  |
 | [Healing Tendrils](https://open.spotify.com/track/41ThXtLwrQtNmL4kxtoHKe) | [Stanley Lloyd](https://open.spotify.com/artist/32BtOzjlmKXKmYpKFIX6OY) | [Healing Tendrils](https://open.spotify.com/album/0RiGwcltuObnCRpjiAOpJS) | 2:40 | 2025-03-07 |  |
-| [Hiver](https://open.spotify.com/track/3X7jAbQljjes5YZPV1TAUP) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Hiver](https://open.spotify.com/album/1wKl4ZvsF3qx5EVq9hKgy4) | 2:29 | 2025-03-07 |  |
+| [Hiver](https://open.spotify.com/track/3X7jAbQljjes5YZPV1TAUP) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Hiver](https://open.spotify.com/album/1wKl4ZvsF3qx5EVq9hKgy4) | 2:29 | 2025-03-07 | 2025-06-11 |
 | [Home](https://open.spotify.com/track/4dOD4uPnmDmh8LKkC3jQ8o) | [Sune Klintberg](https://open.spotify.com/artist/3TXiQjSvTxhlNZTML8XJQY) | [Home](https://open.spotify.com/album/6m4x8gXUxYmkr7Dj850nzg) | 2:46 | 2025-03-07 |  |
 | [Idyllwild](https://open.spotify.com/track/2RKTXZKlTWEKYgAwA0D8dM) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Idyllwild](https://open.spotify.com/album/36EtKQcr9CYVdkcGFymr9Z) | 2:21 | 2025-05-13 |  |
 | [In Green](https://open.spotify.com/track/65X0IiKlzsco1zlM18opk6) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [In Green](https://open.spotify.com/album/0ron8ZEWZaCkrL3cg4H0VE) | 2:34 | 2025-04-23 |  |
@@ -47,12 +50,12 @@
 | [Jay](https://open.spotify.com/track/24FZP1U7646LkL8F0i2Dvv) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Summer Portraits](https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs) | 3:12 | 2025-03-07 | 2025-04-03 |
 | [Just Like the Movies](https://open.spotify.com/track/3x1Eo1XG7K3OdIIVaB7lsS) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Just Like the Movies](https://open.spotify.com/album/2wICyNzRtzx3QZg21JY4kl) | 2:07 | 2025-03-26 |  |
 | [Laurence](https://open.spotify.com/track/5VW6aFOUabBvUI94eDFVSe) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Laurence](https://open.spotify.com/album/56xYvj6tVsPP8HpZYphfUW) | 3:00 | 2025-03-07 | 2025-04-10 |
-| [Leggere](https://open.spotify.com/track/6YrLhDigWAMubVqnY3wtBj) | [Gioia Pisano](https://open.spotify.com/artist/5WMvjE5qJNLR5FMPdQfic8) | [Leggere](https://open.spotify.com/album/4QzaKdPJYa0iJT4iyNH8V4) | 2:29 | 2025-05-02 |  |
+| [Leggere](https://open.spotify.com/track/6YrLhDigWAMubVqnY3wtBj) | [Gioia Pisano](https://open.spotify.com/artist/5WMvjE5qJNLR5FMPdQfic8) | [Leggere](https://open.spotify.com/album/4QzaKdPJYa0iJT4iyNH8V4) | 2:29 | 2025-05-02 | 2025-06-11 |
 | [Li](https://open.spotify.com/track/3Pfj28ILjwTSgBsIXSxYlo) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Li](https://open.spotify.com/album/1xOxD86o1JwiJ7YHeVxDKc) | 2:40 | 2025-05-30 |  |
 | [Little House In Silver Lake](https://open.spotify.com/track/1QQXKivwrfMS3ma2ZBUGyr) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Little House In Silver Lake](https://open.spotify.com/album/6hXIKTf62eL65rGo6GshIs) | 2:52 | 2025-03-07 |  |
 | [Lost in the Library](https://open.spotify.com/track/6OegSW1Xm2gyfwU9zZUkwU) | [Claude Leon](https://open.spotify.com/artist/6CaYrWBRxJNLRd95uQ6uLC) | [Lost in the Library](https://open.spotify.com/album/1y2cH530QIZ5EAveiJZOlP) | 2:34 | 2025-03-07 |  |
 | [Meet Me At Noon](https://open.spotify.com/track/1nq30PCzNrkktaSxn2uxds) | [Jack Ame](https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ) | [Meet Me At Noon](https://open.spotify.com/album/1afrHdIQvjlrC8GfRrHg4B) | 2:36 | 2025-03-26 |  |
-| [Moment In Time](https://open.spotify.com/track/6elxWhsFbXqdYuD7QCeWgM) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Moment In Time](https://open.spotify.com/album/2THxRrRB28hjygxAf7y7JW) | 2:10 | 2025-03-07 |  |
+| [Moment In Time](https://open.spotify.com/track/6elxWhsFbXqdYuD7QCeWgM) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Moment In Time](https://open.spotify.com/album/2THxRrRB28hjygxAf7y7JW) | 2:10 | 2025-03-07 | 2025-06-11 |
 | [Noapte](https://open.spotify.com/track/6vvJ1z8ddlyIUbULIR5hFq) | [Alexandru Andrei Popescu](https://open.spotify.com/artist/7mDY8ZdBUwI5RNx8LZWbzp) | [Noapte](https://open.spotify.com/album/38FjKBlXaVtArSSzahmtO4) | 3:19 | 2025-05-02 |  |
 | [Olivanders](https://open.spotify.com/track/5WY0sGX8iM9ic4XQh8hvuu) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Olivanders](https://open.spotify.com/album/4rwGVDtpLpcpDU3JL5803Q) | 2:09 | 2025-03-07 |  |
 | [Padua](https://open.spotify.com/track/51uN1ea8n1Gcy8oTe7LddO) | [Seán Ó Riain](https://open.spotify.com/artist/5UppcMSMhMJ0GkluIUwwF2) | [Padua](https://open.spotify.com/album/6zYcA2On0fSISK9SH4dAFX) | 2:32 | 2025-03-07 |  |
@@ -60,11 +63,12 @@
 | [Playful Wind](https://open.spotify.com/track/7rOurgjncvw0IFiCJiEI7o) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Playful Wind](https://open.spotify.com/album/6ubQk4XamI1kBK1CqUDiSz) | 2:05 | 2025-03-14 |  |
 | [Proposals](https://open.spotify.com/track/5pKBj0c5JXnzq8NBGTcsuE) | [M\. Ljungström](https://open.spotify.com/artist/3DkwuBQlbF81WFD2hhmkPR) | [Proposals](https://open.spotify.com/album/3TJwMwAI6ZKk7Mnc2ogwK0) | 2:17 | 2025-03-07 |  |
 | [Remains Of The Day](https://open.spotify.com/track/25nabFKD0CMJKhvP4qtFUM) | [Melanié Poret](https://open.spotify.com/artist/1qP02f6jA0m3AZ8devpRNu) | [Remains Of The Day](https://open.spotify.com/album/5GCoV5qKlqrpY083S90IfG) | 2:04 | 2025-04-02 |  |
+| [rewind](https://open.spotify.com/track/3jz7hr714fHMHXqO0kYR3R) | [Nicholai Janeret](https://open.spotify.com/artist/1emPMGrt54fr9Ax9Q2xOql) | [rewind](https://open.spotify.com/album/5Deaq9fAIYodfXMfjiBmtg) | 2:29 | 2025-06-10 |  |
 | [Ripple](https://open.spotify.com/track/4AKMLplEzfYluvpSmOQD34) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Ripple](https://open.spotify.com/album/5hvM9FzNI6znVtt9RwVGQA) | 2:26 | 2025-03-07 |  |
 | [Sanshi Sumei](https://open.spotify.com/track/4HMgsKppAisNBfX8oGmRma) | [Nazomi](https://open.spotify.com/artist/3yCSMqBC0KBXeNWetRYFzt) | [Sanshi Sumei](https://open.spotify.com/album/2LP2wUI2VMWYmOmhfDBHVu) | 2:05 | 2025-03-07 |  |
 | [Skylight](https://open.spotify.com/track/03Rhfj6DZLmkvfa4dHcvzt) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Skylight](https://open.spotify.com/album/27Lf5zIyUMM8WR6LXWkC6A) | 2:37 | 2025-05-13 |  |
 | [Skyline Sonnet](https://open.spotify.com/track/5IqPPFogK8Quw9iKgnvqxl) | [Quentin Noire](https://open.spotify.com/artist/1FXZ3lnXGrC1N5WGYOzmRm) | [Skyline Sonnet](https://open.spotify.com/album/0pLZ2ao9Gg7nKiIWewdlVh) | 2:36 | 2025-03-07 |  |
-| [Sole In Viso](https://open.spotify.com/track/46o8PS9zl4HryzFZEVgtwm) | [Emilio Abruzzo](https://open.spotify.com/artist/3Cmm3KzKAdZM69mMxxLaDK) | [Sole In Viso](https://open.spotify.com/album/6spKUg9mnuj7UNvjOR5w7S) | 2:23 | 2025-03-07 |  |
+| [Sole In Viso](https://open.spotify.com/track/46o8PS9zl4HryzFZEVgtwm) | [Emilio Abruzzo](https://open.spotify.com/artist/3Cmm3KzKAdZM69mMxxLaDK) | [Sole In Viso](https://open.spotify.com/album/6spKUg9mnuj7UNvjOR5w7S) | 2:23 | 2025-03-07 | 2025-06-11 |
 | [Strangely Familiar](https://open.spotify.com/track/2nsOZMaNxxtd79bJ7dbxLb) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Strangely Familiar](https://open.spotify.com/album/0690iOy21OddNlV3HRLEgD) | 3:22 | 2025-05-13 |  |
 | [Stronghold](https://open.spotify.com/track/7u88VSbgr8shaE8AEQgxWr) | [Eldur Hæettu](https://open.spotify.com/artist/1lGzKi0vUzzzT5b2U4CMHC) | [Stronghold](https://open.spotify.com/album/0sgtGomrGyyVDpMka5CFAK) | 2:51 | 2025-03-07 |  |
 | [Sunflower](https://open.spotify.com/track/7gcHVrqiSXb2vhLKvze7Ub) | [Kuro Yama](https://open.spotify.com/artist/1cS2AwtXloMGmieZSnIJ9d) | [Sunflower](https://open.spotify.com/album/1WMJxArpMCKdWDKFie4azg) | 2:21 | 2025-03-07 |  |
@@ -78,9 +82,12 @@
 | [The Limestone](https://open.spotify.com/track/2lWQ4ZRpOW0ZOEdWjG5Wzi) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [The Limestone](https://open.spotify.com/album/5ep7vG452SEeamVWgunlw0) | 2:24 | 2025-04-16 |  |
 | [The Mighty Ocean](https://open.spotify.com/track/3Fjin8fnhoA4cuz7WLVHC5) | [Richard Sauzal](https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI) | [The Mighty Ocean](https://open.spotify.com/album/481dJbM3TjoBdOawFxqiMi) | 2:50 | 2025-04-02 |  |
 | [The Only One](https://open.spotify.com/track/6ffWLQVoGsJyXeqkgXSAIg) | [Aron E\. Ross](https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4) | [The Only One](https://open.spotify.com/album/3PMbgWveWWvXDqNl8h8v4m) | 2:56 | 2025-03-07 |  |
+| [The Relaxing Gem](https://open.spotify.com/track/5REKUW4QDSYOIeL68o5bUH) | [ZenithEcho](https://open.spotify.com/artist/6kr9ZNAP53oR0jWVt7LJwD) | [The Relaxing Gem](https://open.spotify.com/album/6LM72L5zfSMbFq0LtG3HRs) | 1:58 | 2025-06-10 |  |
+| [The Traveler](https://open.spotify.com/track/5ZXNWcTvp4L7iMKxzp0Ozj) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [The Traveler](https://open.spotify.com/album/03jl7ZeJClPn2L947LE6L8) | 2:54 | 2025-06-10 |  |
 | [Time Flies](https://open.spotify.com/track/2mzjMrdrxlOpUatw2HT7Me) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Time Flies](https://open.spotify.com/album/6li4NlfLqtrRB8ietKYaTL) | 2:06 | 2025-05-13 | 2025-05-31 |
 | [Token](https://open.spotify.com/track/0hB3bysyufVO1pUCj1rYwS) | [Farsjön](https://open.spotify.com/artist/1JVGbsUCqcTgrQP6qc3LEe) | [Token](https://open.spotify.com/album/4uL1RDBqy4Ji6D8UaEUwlE) | 3:16 | 2025-03-18 |  |
 | [Truth Within](https://open.spotify.com/track/3mRO22aXY2HAdEVFluFrXI) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Truth Within](https://open.spotify.com/album/0LW4Hr1eiR2BodmRD9iDev) | 2:21 | 2025-03-26 |  |
+| [we just keep on going](https://open.spotify.com/track/6X47Ep7oQ6d692X9KWPusw) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [we just keep on going](https://open.spotify.com/album/7mbdKkcux9ZJMD5bgQnWjx) | 2:10 | 2025-06-10 |  |
 | [When you know, you know](https://open.spotify.com/track/4CsFtHD9LKRpBHmj9rowFq) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [When you know, you know](https://open.spotify.com/album/3q8ciLZpMajLdjS9i7oUpm) | 2:40 | 2025-03-07 |  |
 | [With Winds Free](https://open.spotify.com/track/6MpLfCVfp8IshjM6eqQQhC) | [Waqar Jachin](https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu) | [With Winds Free](https://open.spotify.com/album/1HdDpEpJGTt1MdU7t491Ov) | 2:29 | 2025-03-07 |  |
 

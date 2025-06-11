@@ -38201,6 +38201,24 @@
     },
     {
       "album": {
+        "name": "Addison",
+        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152495,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/0Q9kIg9o8w1XKepXWmDUmT"
+    },
+    {
+      "album": {
         "name": "New York",
         "url": "https://open.spotify.com/album/0fi5QEzJUB4aSYoRNTGqVa"
       },

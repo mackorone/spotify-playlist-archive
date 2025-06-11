@@ -1,12 +1,12 @@
 {
   "description": "This is Los Enanitos Verdes. The essential tracks, all in one playlist.",
-  "num_followers": 201443,
+  "num_followers": 201475,
   "original_name": "This Is Los Enanitos Verdes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAAAmDqszczCVh1zrFk/bN9XE",
+  "snapshot_id": "aEYkAAAAAABrnQ3ZdbbWLD12zblJXsP1",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
+        "name": "Carrousel",
+        "url": "https://open.spotify.com/album/7kbzQFUUaR7IRFLT40k4cT"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 293226,
-      "name": "Luz De Dia - En Vivo",
-      "url": "https://open.spotify.com/track/71AMvL4Fey4MwxQShk4VBR"
+      "duration_ms": 266746,
+      "name": "Guitarras Blancas",
+      "url": "https://open.spotify.com/track/4g6BF5KhQDIpwJuevv7bFa"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carrousel",
-        "url": "https://open.spotify.com/album/7kbzQFUUaR7IRFLT40k4cT"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 266746,
-      "name": "Guitarras Blancas",
-      "url": "https://open.spotify.com/track/4g6BF5KhQDIpwJuevv7bFa"
+      "duration_ms": 293226,
+      "name": "Luz De Dia - En Vivo",
+      "url": "https://open.spotify.com/track/71AMvL4Fey4MwxQShk4VBR"
     },
     {
       "added_at": null,

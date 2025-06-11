@@ -2,16 +2,16 @@
 
 ### [RADAR India](https://open.spotify.com/playlist/37i9dQZF1DWTAtTdFMiJYK)
 
-> Most exciting artists from the Indian Indie scene\. Cover: maahi
+> Most exciting artists from the Indian Indie scene\. Cover: Divyam Sodhi
 
-358 songs - 20 hr 14 min
+359 songs - 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Dog Chasing Its Own Tail](https://open.spotify.com/track/4DfmnGTcqwD5C7VtNY9AtX) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [A Dog Chasing Its Own Tail](https://open.spotify.com/album/0WFwYv6lASwvE4GfM62UxP) | 2:40 | 2021-12-06 | 2022-01-11 |
 | [Aadhe Waade](https://open.spotify.com/track/2YvoiniJ209ypzXMlZxSp0) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Aadhe Waade](https://open.spotify.com/album/0C0KpcvMUCrukbLFAH1zby) | 2:34 | 2024-12-04 | 2025-01-10 |
 | [Aadhe Waade](https://open.spotify.com/track/5pCRRKwA796gdrNkCmJ9vt) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Aadhe Waade](https://open.spotify.com/album/3rzWT5DEabAiiD3Dq221cl) | 2:34 | 2023-09-26 |  |
-| [Aadhey Adhoorey](https://open.spotify.com/track/6vjdxjLwPkIf8DQVeQgR8V) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aadhey Adhoorey](https://open.spotify.com/album/4LyJ3UBUTCmoZC8SVCYPqM) | 2:53 | 2025-01-21 |  |
+| [Aadhey Adhoorey](https://open.spotify.com/track/6vjdxjLwPkIf8DQVeQgR8V) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aadhey Adhoorey](https://open.spotify.com/album/4LyJ3UBUTCmoZC8SVCYPqM) | 2:53 | 2025-01-21 | 2025-06-11 |
 | [Aaina](https://open.spotify.com/track/4qCfgOX1ggMp6D0rGWFUfQ) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Arjit Shrivastava](https://open.spotify.com/artist/7EBfv067H7dViRbeOVQqFv), [Aviral Kumar](https://open.spotify.com/artist/4VWA00yIUYAA3b0jsjdx1z) | [Aaina](https://open.spotify.com/album/6Ujs8343i3KHRv91qvUdAY) | 3:44 | 2023-01-20 | 2024-05-11 |
 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 | 2022-04-25 | 2024-12-05 |
 | [Aankhon Se Batana](https://open.spotify.com/track/49oltVbt6XTuhAptCpGW4j) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/19H1bwuvijYTRr5urWUFTI) | 3:41 | 2022-03-21 | 2022-04-26 |
@@ -160,6 +160,7 @@
 | [Kahaani](https://open.spotify.com/track/6gK2gR0uyFFYJ5sKH4zyjx) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Kahaani](https://open.spotify.com/album/5DShAPJRVmP2Z0cmcjm1wW) | 3:35 | 2022-10-10 | 2024-01-11 |
 | [Kahani](https://open.spotify.com/track/6sMxjlCiYvcfmK8DxfIXeH) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Kahani](https://open.spotify.com/album/7I29dbTNdImBhxnqhOEEWD) | 4:05 | 2024-04-04 |  |
 | [Kaho na](https://open.spotify.com/track/5znUlfypbCVjEzqGvzy0Xw) | [Abir](https://open.spotify.com/artist/0XHapa0VH6XHwA3wlqextO) | [Kaho na](https://open.spotify.com/album/3z1UN7JGoHwRv8E1gwoG6E) | 2:14 | 2023-07-03 | 2025-01-22 |
+| [Kaise Ho Tum](https://open.spotify.com/track/3Uwok7aLLQyXhfqNlekSim) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Likhari](https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15) | [Kaise Ho Tum](https://open.spotify.com/album/6AnZMvLRQAA3WNH5OXC4ZJ) | 2:43 | 2025-06-10 |  |
 | [Kaisi Ho ?](https://open.spotify.com/track/2Bk6sJI1RkMrAQyUCtr1qx) | [Amartya Bobo Rahut](https://open.spotify.com/artist/4dTwJ84ivqIRkRI5qKB9vB) | [Kaisi Ho ?](https://open.spotify.com/album/2g3kns9XJzDoeZAPIw6a1k) | 2:52 | 2021-12-06 | 2022-06-30 |
 | [Kalabaaziyan](https://open.spotify.com/track/0I93L5Bf6uRLGlntVZ4JCW) | [Sagar Dhote](https://open.spotify.com/artist/69xwjUB838EA5HBT16wetu), [Aditya Kalway](https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR) | [Kalabaaziyan](https://open.spotify.com/album/7s2KHBisbNXINql6Tva33X) | 3:43 | 2021-12-06 | 2022-01-11 |
 | [Kaniya](https://open.spotify.com/track/2MlvqNB3Fu6zLDr6QyYKcr) | [Siddharth Pandit](https://open.spotify.com/artist/4lG93AH2UqEYBZKlpxkZAG), [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2s9PpHqBw1IxjSE15E6nkT), [Yashika Sikka](https://open.spotify.com/artist/390xyQcoX7CbyOBQ6QKeIJ), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep) | [Kaniya](https://open.spotify.com/album/1s2phSlNCUWdTTQcLex91f) | 3:48 | 2021-12-06 | 2022-04-08 |

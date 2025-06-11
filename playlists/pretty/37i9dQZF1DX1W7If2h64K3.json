@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 54651,
+  "num_followers": 54663,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
@@ -351,34 +351,6 @@
     {
       "added_at": "2024-10-15 15:27:46",
       "album": {
-        "name": "Schumann: Missa sacra; 4 doppelch\u00f6rige Ges\u00e4nge",
-        "url": "https://open.spotify.com/album/0hcRHKRzGfDrUmqOvVpPsC"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Marianne Crebassa",
-          "url": "https://open.spotify.com/artist/4asOb5ev8RSnUcvl7kFNlW"
-        },
-        {
-          "name": "Les Cris De Paris",
-          "url": "https://open.spotify.com/artist/18WClKhoOmHFZasTywJX1n"
-        },
-        {
-          "name": "Geoffroy Jourdain",
-          "url": "https://open.spotify.com/artist/7zYG8ixRuJNyuc00Lyq5EF"
-        }
-      ],
-      "duration_ms": 172186,
-      "name": "Missa Sacra Op. 147: IV. Offertorium",
-      "url": "https://open.spotify.com/track/01bUsrRqDL4L7UL2faL6VF"
-    },
-    {
-      "added_at": "2024-10-15 15:27:46",
-      "album": {
         "name": "Mozart: Quintet in E-Flat & Trio in E-Flat - Schumann: M\u00e4rchenerz\u00e4hlungen & Fantasiest\u00fccke",
         "url": "https://open.spotify.com/album/4ATmHy2jtryKewpgqLW1yR"
       },
@@ -423,8 +395,8 @@
     {
       "added_at": "2024-10-15 15:27:46",
       "album": {
-        "name": "Violin Sonata No. 1 in A Minor, Op. 105: I. Mit leidenschaftlichem ausdruck",
-        "url": "https://open.spotify.com/album/6jttl9oqX32A5kVSRkBT1C"
+        "name": "Schumann: Missa sacra; 4 doppelch\u00f6rige Ges\u00e4nge",
+        "url": "https://open.spotify.com/album/0hcRHKRzGfDrUmqOvVpPsC"
       },
       "artists": [
         {
@@ -432,17 +404,21 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Andrew Wan",
-          "url": "https://open.spotify.com/artist/5uzHTiIlBm52CfvHki0BXF"
+          "name": "Marianne Crebassa",
+          "url": "https://open.spotify.com/artist/4asOb5ev8RSnUcvl7kFNlW"
         },
         {
-          "name": "Charles Richard-Hamelin",
-          "url": "https://open.spotify.com/artist/50mnKnOEmIVxdz2mNoNOa5"
+          "name": "Les Cris De Paris",
+          "url": "https://open.spotify.com/artist/18WClKhoOmHFZasTywJX1n"
+        },
+        {
+          "name": "Geoffroy Jourdain",
+          "url": "https://open.spotify.com/artist/7zYG8ixRuJNyuc00Lyq5EF"
         }
       ],
-      "duration_ms": 484560,
-      "name": "Violin Sonata No. 1 in A Minor, Op. 105: I. Mit leidenschaftlichem ausdruck",
-      "url": "https://open.spotify.com/track/6FvHLsIsj4HI5eaX7dZvxm"
+      "duration_ms": 172186,
+      "name": "Missa Sacra Op. 147: IV. Offertorium",
+      "url": "https://open.spotify.com/track/01bUsrRqDL4L7UL2faL6VF"
     },
     {
       "added_at": "2024-10-15 15:27:46",
@@ -463,6 +439,30 @@
       "duration_ms": 439213,
       "name": "Concerto Without Orchestra, Op. 14 (Grand Sonata No. 3 in F Minor): III. Quasi variazioni. Andantino de Clara Wieck",
       "url": "https://open.spotify.com/track/2IAnU53rak76TpGpA515Xl"
+    },
+    {
+      "added_at": "2024-10-15 15:27:46",
+      "album": {
+        "name": "Violin Sonata No. 1 in A Minor, Op. 105: I. Mit leidenschaftlichem ausdruck",
+        "url": "https://open.spotify.com/album/6jttl9oqX32A5kVSRkBT1C"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Andrew Wan",
+          "url": "https://open.spotify.com/artist/5uzHTiIlBm52CfvHki0BXF"
+        },
+        {
+          "name": "Charles Richard-Hamelin",
+          "url": "https://open.spotify.com/artist/50mnKnOEmIVxdz2mNoNOa5"
+        }
+      ],
+      "duration_ms": 484560,
+      "name": "Violin Sonata No. 1 in A Minor, Op. 105: I. Mit leidenschaftlichem ausdruck",
+      "url": "https://open.spotify.com/track/6FvHLsIsj4HI5eaX7dZvxm"
     },
     {
       "added_at": "2024-10-15 15:27:46",
@@ -515,34 +515,6 @@
     {
       "added_at": "2024-10-15 15:27:46",
       "album": {
-        "name": "Besser ohne Worte",
-        "url": "https://open.spotify.com/album/4AAbCsOBu1MXyE1d8VXQc4"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "duo tuba & harfe",
-          "url": "https://open.spotify.com/artist/1GNzzWtAC8PwUERRL8Ldkv"
-        },
-        {
-          "name": "Andreas Martin Hofmeir",
-          "url": "https://open.spotify.com/artist/7fPSTBoGnZDdi3uSsMZtLW"
-        },
-        {
-          "name": "Andreas Mildner",
-          "url": "https://open.spotify.com/artist/5zTimQ8WAG2hGhQqWtoDVv"
-        }
-      ],
-      "duration_ms": 97003,
-      "name": "Loreley, Op. 53 No. 2 (Arr. A. Mildner & A. Martin for Harp & Tuba)",
-      "url": "https://open.spotify.com/track/2P2A2quqdVt99XQxTfyUWa"
-    },
-    {
-      "added_at": "2024-10-15 15:27:46",
-      "album": {
         "name": "Schumann: Das Paradies und die Peri",
         "url": "https://open.spotify.com/album/5qQbLaME0qmQ3RSUYtGLHd"
       },
@@ -575,6 +547,34 @@
     {
       "added_at": "2024-10-15 15:27:46",
       "album": {
+        "name": "Besser ohne Worte",
+        "url": "https://open.spotify.com/album/4AAbCsOBu1MXyE1d8VXQc4"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "duo tuba & harfe",
+          "url": "https://open.spotify.com/artist/1GNzzWtAC8PwUERRL8Ldkv"
+        },
+        {
+          "name": "Andreas Martin Hofmeir",
+          "url": "https://open.spotify.com/artist/7fPSTBoGnZDdi3uSsMZtLW"
+        },
+        {
+          "name": "Andreas Mildner",
+          "url": "https://open.spotify.com/artist/5zTimQ8WAG2hGhQqWtoDVv"
+        }
+      ],
+      "duration_ms": 97003,
+      "name": "Loreley, Op. 53 No. 2 (Arr. A. Mildner & A. Martin for Harp & Tuba)",
+      "url": "https://open.spotify.com/track/2P2A2quqdVt99XQxTfyUWa"
+    },
+    {
+      "added_at": "2024-10-15 15:27:46",
+      "album": {
         "name": "Schumann: Myrthen",
         "url": "https://open.spotify.com/album/7I0LzTM3LnH0byXdDn3cGf"
       },
@@ -599,30 +599,6 @@
     {
       "added_at": "2024-10-15 15:27:46",
       "album": {
-        "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
-        "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Christian Thielemann",
-          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
-        }
-      ],
-      "duration_ms": 773000,
-      "name": "Symphony No. 2 in C, Op. 61: 1. Sostenuto assai - Un poco pi\u00f9 vivace - Allegro ma non troppo - Con fuoco",
-      "url": "https://open.spotify.com/track/5OQl6PCd6FxO7qfz6tMVGq"
-    },
-    {
-      "added_at": "2024-10-15 15:27:46",
-      "album": {
         "name": "Schumann: Symphony No. 1 in B Flat Major, Op. 38 \"Spring\": III. Scherzo. Molto vivace",
         "url": "https://open.spotify.com/album/6ucj1lc7fJKkUghOv2CLq7"
       },
@@ -643,6 +619,30 @@
       "duration_ms": 353000,
       "name": "Symphony No. 1 in B Flat Major, Op. 38 \"Spring\": III. Scherzo. Molto vivace",
       "url": "https://open.spotify.com/track/22O2MEvTDmsVdbbn5J6jYT"
+    },
+    {
+      "added_at": "2024-10-15 15:27:46",
+      "album": {
+        "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
+        "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Christian Thielemann",
+          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
+        }
+      ],
+      "duration_ms": 773000,
+      "name": "Symphony No. 2 in C, Op. 61: 1. Sostenuto assai - Un poco pi\u00f9 vivace - Allegro ma non troppo - Con fuoco",
+      "url": "https://open.spotify.com/track/5OQl6PCd6FxO7qfz6tMVGq"
     },
     {
       "added_at": "2024-10-15 15:27:46",

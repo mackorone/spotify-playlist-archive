@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: \uc774\ubb34\uc9c4) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 376637,
+  "num_followers": 376625,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -551,26 +551,6 @@
     {
       "added_at": "2025-05-27 09:11:31",
       "album": {
-        "name": "When it snows(Feat.Heize)",
-        "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
-      },
-      "artists": [
-        {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        },
-        {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 232026,
-      "name": "When it snows(Feat.Heize)",
-      "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
-    },
-    {
-      "added_at": "2025-05-27 09:11:31",
-      "album": {
         "name": "Alchemy of Souls, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2lQsPX6qa4zqpcPwVLRCsU"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 212608,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
+    },
+    {
+      "added_at": "2025-05-27 09:11:31",
+      "album": {
+        "name": "When it snows(Feat.Heize)",
+        "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        },
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 232026,
+      "name": "When it snows(Feat.Heize)",
+      "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
     },
     {
       "added_at": "2025-05-27 09:11:31",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-05-27 09:11:31",
       "album": {
-        "name": "Purpose - The 2nd Album",
-        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 239499,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
-    },
-    {
-      "added_at": "2025-05-27 09:11:31",
-      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 170533,
       "name": "17",
       "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
+    },
+    {
+      "added_at": "2025-05-27 09:11:31",
+      "album": {
+        "name": "Purpose - The 2nd Album",
+        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 239499,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
     },
     {
       "added_at": "2025-05-27 09:11:31",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-05-27 09:11:31",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/3OXMz0E7sNDCEtiB4xNNkf"
-      },
-      "artists": [
-        {
-          "name": "Cho Jang Hyuck",
-          "url": "https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q"
-        }
-      ],
-      "duration_ms": 266292,
-      "name": "\uc911\ub3c5\ub41c \uc0ac\ub791",
-      "url": "https://open.spotify.com/track/5NtAjS4i0wEFK0lvvuSAVb"
-    },
-    {
-      "added_at": "2025-05-27 09:11:31",
-      "album": {
         "name": "To live",
         "url": "https://open.spotify.com/album/0qdQ9rTmbb5L5eTkDGe3zx"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 231520,
       "name": "To live",
       "url": "https://open.spotify.com/track/2BnTrafo86hmIwWSPwmvKH"
+    },
+    {
+      "added_at": "2025-05-27 09:11:31",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/3OXMz0E7sNDCEtiB4xNNkf"
+      },
+      "artists": [
+        {
+          "name": "Cho Jang Hyuck",
+          "url": "https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q"
+        }
+      ],
+      "duration_ms": 266292,
+      "name": "\uc911\ub3c5\ub41c \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/5NtAjS4i0wEFK0lvvuSAVb"
     },
     {
       "added_at": "2025-05-27 09:11:31",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-05-27 09:11:31",
       "album": {
-        "name": "Family by Choice (Original Television Soundtrack) Pt. 4",
-        "url": "https://open.spotify.com/album/4lZPOXajtPXz2lOvpzLPNT"
-      },
-      "artists": [
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
-        }
-      ],
-      "duration_ms": 288046,
-      "name": "All Our Days",
-      "url": "https://open.spotify.com/track/6SCzQNXZpExdFIJ5vsX04y"
-    },
-    {
-      "added_at": "2025-05-27 09:11:31",
-      "album": {
         "name": "Walk With Me",
         "url": "https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 246320,
       "name": "Walk With Me",
       "url": "https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0"
+    },
+    {
+      "added_at": "2025-05-27 09:11:31",
+      "album": {
+        "name": "Family by Choice (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/4lZPOXajtPXz2lOvpzLPNT"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 288046,
+      "name": "All Our Days",
+      "url": "https://open.spotify.com/track/6SCzQNXZpExdFIJ5vsX04y"
     },
     {
       "added_at": "2025-05-27 09:11:31",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2025-05-27 09:11:31",
       "album": {
+        "name": "Ode To The Stars",
+        "url": "https://open.spotify.com/album/5AYHR2HOnxZuZJnXTvJaGA"
+      },
+      "artists": [
+        {
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        },
+        {
+          "name": "LEE RAON",
+          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
+        }
+      ],
+      "duration_ms": 282853,
+      "name": "Ode To The Stars",
+      "url": "https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK"
+    },
+    {
+      "added_at": "2025-05-27 09:11:31",
+      "album": {
         "name": "It\u2032s You",
         "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
       },
@@ -1355,22 +1375,6 @@
     {
       "added_at": "2025-05-27 09:11:31",
       "album": {
-        "name": "SOUL FOOD",
-        "url": "https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q"
-      },
-      "artists": [
-        {
-          "name": "BMK",
-          "url": "https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O"
-        }
-      ],
-      "duration_ms": 284106,
-      "name": "When flowering spring comes",
-      "url": "https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW"
-    },
-    {
-      "added_at": "2025-05-27 09:11:31",
-      "album": {
         "name": "Burn Like A Star",
         "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
       },
@@ -1387,6 +1391,22 @@
       "duration_ms": 188253,
       "name": "Burn Like A Star",
       "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
+    },
+    {
+      "added_at": "2025-05-27 09:11:31",
+      "album": {
+        "name": "SOUL FOOD",
+        "url": "https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q"
+      },
+      "artists": [
+        {
+          "name": "BMK",
+          "url": "https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O"
+        }
+      ],
+      "duration_ms": 284106,
+      "name": "When flowering spring comes",
+      "url": "https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW"
     },
     {
       "added_at": "2025-05-27 09:11:31",
@@ -1451,22 +1471,18 @@
     {
       "added_at": "2025-05-27 09:11:31",
       "album": {
-        "name": "Ode To The Stars",
-        "url": "https://open.spotify.com/album/5AYHR2HOnxZuZJnXTvJaGA"
+        "name": "Love Playlist3 Part.1",
+        "url": "https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI"
       },
       "artists": [
         {
-          "name": "MAKTUB",
-          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
-        },
-        {
-          "name": "LEE RAON",
-          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 282853,
-      "name": "Ode To The Stars",
-      "url": "https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK"
+      "duration_ms": 237224,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI"
     },
     {
       "added_at": "2025-05-27 09:11:31",
@@ -1491,38 +1507,6 @@
     {
       "added_at": "2025-05-27 09:11:31",
       "album": {
-        "name": "Coward",
-        "url": "https://open.spotify.com/album/4OYhJBKIM6yZGkEpTEOVe1"
-      },
-      "artists": [
-        {
-          "name": "LEECHANGSUB",
-          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
-        }
-      ],
-      "duration_ms": 258440,
-      "name": "Coward",
-      "url": "https://open.spotify.com/track/2U9yHgZ9voJUFjcHinsspT"
-    },
-    {
-      "added_at": "2025-05-27 09:11:31",
-      "album": {
-        "name": "Love Playlist3 Part.1",
-        "url": "https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 237224,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI"
-    },
-    {
-      "added_at": "2025-05-27 09:11:31",
-      "album": {
         "name": "Rookie Cops (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 212146,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
+    },
+    {
+      "added_at": "2025-05-27 09:11:31",
+      "album": {
+        "name": "Coward",
+        "url": "https://open.spotify.com/album/4OYhJBKIM6yZGkEpTEOVe1"
+      },
+      "artists": [
+        {
+          "name": "LEECHANGSUB",
+          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
+        }
+      ],
+      "duration_ms": 258440,
+      "name": "Coward",
+      "url": "https://open.spotify.com/track/2U9yHgZ9voJUFjcHinsspT"
     },
     {
       "added_at": "2025-05-27 09:11:31",

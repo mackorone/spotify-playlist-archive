@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyczwg2TmSH.md) - [plain]
 
 > When America needed hope, they delivered\. Listen to the music co\-curated by the cast of The Six Triple Eight, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,147 likes - 28 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,167 likes - 28 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyczwg2TmSH.md) - [plain]
 | 27 | [Waterfalls](https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:39 |
 | 28 | [The Star of a Story](https://open.spotify.com/track/4ObtCddd94XbJcsF2RSgWu) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Central Heating \(Expanded Edition\)](https://open.spotify.com/album/6PWZmDj0bqiOqjMANAyjvH) | 5:50 |
 
-Snapshot ID: `Z2UkHgAAAABynvkDVQnPB01Gok2iELbZ`
+Snapshot ID: `Z2UkHgAAAAAN2m4u+RVKTSgkZqhEUWdL`

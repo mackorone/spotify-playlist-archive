@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 
 > Start your day right and wake up with some calm and cool Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,999 likes - 210 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,003 likes - 210 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 | 209 | [My Ship](https://open.spotify.com/track/6LfNBoBMp1pJtnm2VQm0gy) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [My Ship](https://open.spotify.com/album/4L2n6cYNRrpHlsIO6sokyR) | 2:36 |
 | 210 | [New Hampshire](https://open.spotify.com/track/0Z8auoHguIXLgSMzqT3kZr) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Almond Joy](https://open.spotify.com/album/6DHRv3vxhrco4PWdW8z47F) | 3:03 |
 
-Snapshot ID: `aEGAPQAAAAAXU3FpLdXRrdCEKlHSyeYb`
+Snapshot ID: `AAAAAJ5dBxid32XT/bXyP6LHT6aK7KaI`

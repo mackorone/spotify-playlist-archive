@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia JVG:ltä ja emmalta & matildalta, ibeltä ja Arekselta, Sara Beeltä, Ellinooralta ja monelta muulta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,375 likes - 122 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,379 likes - 122 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

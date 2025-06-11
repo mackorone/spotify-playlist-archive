@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T6mE1pBbgn.md) - [plain]
 
 > Get ready for the upcoming concert by listening to the artist's best songs! \(아티스트의 베스트곡을 들으며 다가오는 콘서트를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 861 likes - 20 songs - 53 min 23 sec
+[Spotify](https://open.spotify.com/user/spotify) - 901 likes - 20 songs - 53 min 23 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T6mE1pBbgn.md) - [plain]
 | 19 | [Cherish \(My Love\) \(Fever Remix\)](https://open.spotify.com/track/6EK4T9Ai54phc0ULn7Edqo) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Cherish \(My Love\) \(Remixes\)](https://open.spotify.com/album/1rQZODajANwqhegpEuCYk4) | 2:46 |
 | 20 | [Cherish \(My Love\) \(Sped Up\)](https://open.spotify.com/track/5q3hkZQcEKKv13NGJjrbOX) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Cherish \(My Love\) \(Remixes\)](https://open.spotify.com/album/1rQZODajANwqhegpEuCYk4) | 2:16 |
 
-Snapshot ID: `aDV/LgAAAADKdM69PjGE5wFys+C4ZYTx`
+Snapshot ID: `aEfa1QAAAAAvRUnOR7GU0ff/xfqhx9Zo`

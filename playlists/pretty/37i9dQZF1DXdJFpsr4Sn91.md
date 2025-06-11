@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa Sabrina Carpenter.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,270 likes - 82 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,277 likes - 82 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

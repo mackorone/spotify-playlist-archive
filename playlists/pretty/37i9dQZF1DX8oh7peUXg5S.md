@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Pedro Pastor y Silvio Rodríguez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,184 likes - 99 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,196 likes - 99 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 32 | [El Breve Espacio en Que No Estas](https://open.spotify.com/track/0ZKHCt987c5ili0AegnZbb) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Querido Pablo](https://open.spotify.com/album/6TRGz0g8v91FdG5Re8y7yh) | 4:02 |
 | 33 | [Contigo](https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Yo, Mi, Me, Contigo](https://open.spotify.com/album/0C4Nm6vpiyldyOKNAESuSI) | 4:39 |
 | 34 | [Hoy Ten Miedo De Mi](https://open.spotify.com/track/4gXv9Rw5aLPkgzdhKFBCir) | [Fernando Delgadillo](https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc) | [Con Cierto Aire a Ti](https://open.spotify.com/album/3sE2cw64lJ7L5jqbBkDcBA) | 2:58 |
-| 35 | [Estadio Azteca](https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El cantante](https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr) | 3:37 |
-| 36 | [Contigo](https://open.spotify.com/track/6bXhCHurSM6988FKos7DLY) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Luna nueva](https://open.spotify.com/album/06wdTbvLdXkO7dC2TdrzUd) | 3:59 |
+| 35 | [Contigo](https://open.spotify.com/track/6bXhCHurSM6988FKos7DLY) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Luna nueva](https://open.spotify.com/album/06wdTbvLdXkO7dC2TdrzUd) | 3:59 |
+| 36 | [Estadio Azteca](https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El cantante](https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr) | 3:37 |
 | 37 | [Comiendote a Besos](https://open.spotify.com/track/02FKjeU8CrA2ckppBa5RJg) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Con Derecho A...](https://open.spotify.com/album/1t2OluRtbro9nSJsizuquA) | 4:01 |
 | 38 | [Todo me va bien](https://open.spotify.com/track/2XGmrTpELLkcwelpEntk7n) | [Albert Pla](https://open.spotify.com/artist/0oIls1SE66gDuk4BZObFaN), [Kase.O](https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux) | [Todo me va bien](https://open.spotify.com/album/7rUi2MBXpM18nJuipSTV7B) | 4:22 |
 | 39 | [Gracias A La Vida](https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:24 |

@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Aged",
+        "url": "https://open.spotify.com/album/1lqvHDfvRd5oZIYRELq5d5"
+      },
+      "artists": [
+        {
+          "name": "Ella Davies",
+          "url": "https://open.spotify.com/artist/41ZN6cpScLI4JidZW7f47H"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Aged",
+      "url": "https://open.spotify.com/track/1xeKcMfBt1BcnYBcTagDz8"
+    },
+    {
+      "album": {
         "name": "Aislingeach",
         "url": "https://open.spotify.com/album/1OkHickHsYjJvqrprMhxAr"
       },
@@ -1334,7 +1352,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 165023,
       "name": "Ciclos de Tiempo",
       "url": "https://open.spotify.com/track/6P0XK7PxB4LnG3dQAmzQIe"
@@ -2328,6 +2346,24 @@
       "duration_ms": 151381,
       "name": "False Promises",
       "url": "https://open.spotify.com/track/1cu3EoaUYDWcUvEYceDvbR"
+    },
+    {
+      "album": {
+        "name": "Feathermoon",
+        "url": "https://open.spotify.com/album/24XiN1ePrYGKc6c2g9E52v"
+      },
+      "artists": [
+        {
+          "name": "Gilded Reverie",
+          "url": "https://open.spotify.com/artist/293KvG5a4tl3xjpUsnXjym"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117078,
+      "name": "Feathermoon",
+      "url": "https://open.spotify.com/track/1DLpTT8Ntk2P1gHYkzcJbV"
     },
     {
       "album": {

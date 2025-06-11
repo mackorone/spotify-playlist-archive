@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,090 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,103 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,15 +64,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 54 | [Love In the Time of Madness](https://open.spotify.com/track/1lOn7QVLKuNtPQOOjq9Qo6) | [Josh Gauton](https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M) | [Slow Renaissance](https://open.spotify.com/album/2z2kb5sdhNp9lBnnzGxhi1) | 4:03 |
 | 55 | [The Day Before You \- Acoustic](https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [The Writer's Room: An Acoustic EP](https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5) | 3:32 |
 | 56 | [Beautiful \(feat\. India.Arie\)](https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Beautiful](https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb) | 3:46 |
-| 57 | [Falling At The Thought Of You](https://open.spotify.com/track/4PqpoY1wcn4GsM4gKw7lBO) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Falling At The Thought Of You](https://open.spotify.com/album/1ucrXcjn2Dd5FVWrN7bYdX) | 2:50 |
-| 58 | [ZIKITUM](https://open.spotify.com/track/6YfdLH5Y3SLpbagzkqwJoc) | [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG) | [ZIKITUM](https://open.spotify.com/album/0yHtSQXp7c8O3nC3dwh32X) | 2:22 |
+| 57 | [ZIKITUM](https://open.spotify.com/track/6YfdLH5Y3SLpbagzkqwJoc) | [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG) | [ZIKITUM](https://open.spotify.com/album/0yHtSQXp7c8O3nC3dwh32X) | 2:22 |
+| 58 | [Falling At The Thought Of You](https://open.spotify.com/track/4PqpoY1wcn4GsM4gKw7lBO) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Falling At The Thought Of You](https://open.spotify.com/album/1ucrXcjn2Dd5FVWrN7bYdX) | 2:50 |
 | 59 | [I'll Wait](https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [I'll Wait](https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR) | 3:51 |
 | 60 | [Look At Love](https://open.spotify.com/track/6LyEFiIuByViEKcbZBAebw) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD) | 3:21 |
 | 61 | [What A Mystery](https://open.spotify.com/track/2FYSON92zpz3iiDAmG2IMg) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Carry Me](https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0) | 2:57 |
 | 62 | [Together](https://open.spotify.com/track/3BWvRBAgmWS7v7hgZnSn9S) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [The Glorious Unfolding](https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ) | 4:02 |
 | 63 | [Just Too Good](https://open.spotify.com/track/23hRAQiS0XqnGIz1Oyb1gR) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Just Too Good](https://open.spotify.com/album/6ZbkWzwtQiNTCWNu7uTTbd) | 3:23 |
-| 64 | [i do](https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J) | [i do](https://open.spotify.com/album/6qTSsWWkDt5kqb2ZjX0wQA) | 2:31 |
-| 65 | [I Love You \(Remix\)](https://open.spotify.com/track/0C7KfSMsBddWhnw2gCZLBK) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Tryhard Society](https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw) | [I Love You \(Remix\)](https://open.spotify.com/album/1VX963HeOs6HHWWm8jwxim) | 3:13 |
+| 64 | [I Love You \(Remix\)](https://open.spotify.com/track/0C7KfSMsBddWhnw2gCZLBK) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Tryhard Society](https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw) | [I Love You \(Remix\)](https://open.spotify.com/album/1VX963HeOs6HHWWm8jwxim) | 3:13 |
+| 65 | [i do](https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J) | [i do](https://open.spotify.com/album/6qTSsWWkDt5kqb2ZjX0wQA) | 2:31 |
 | 66 | [Can't Help Falling In Love \- LIGHT](https://open.spotify.com/track/07vX2XhvGzxkHTaQ141AbB) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [brooke](https://open.spotify.com/artist/7FUnhnuowTICdtK0KzH7Ng) | [Can't Help Falling In Love](https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y) | 2:51 |
 | 67 | [YOU'RE THE ONE I WANT](https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [NATIVE TONGUE](https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc) | 2:05 |
 | 68 | [Crazy Kinda Love](https://open.spotify.com/track/3iFbRKq1x2SrPqAUX7QGsp) | [Serayah](https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod), [Ahjah Walls](https://open.spotify.com/artist/6bMYwgJuOOGMEXr9L7UZoM), [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Kingdom Business: Season 1](https://open.spotify.com/album/3BHQ2gvtr6npNexUhaGKJ1) | 4:08 |

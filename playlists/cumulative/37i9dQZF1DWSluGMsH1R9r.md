@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-750 songs - 1 day 8 hr 8 min
+751 songs - 1 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -653,6 +653,7 @@
 | [The Orchard \(I\)](https://open.spotify.com/track/2Wcv1iL7U75j0yAUuQq4Qz) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [The Orchard \(I\)](https://open.spotify.com/album/7r3fBLzgZjxVXqRyUU2tPt) | 2:47 | 2021-12-07 | 2024-04-19 |
 | [The Pond](https://open.spotify.com/track/0sP3vS5hPhIRz694UxUJ7w) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [The Pond](https://open.spotify.com/album/2ipoCdTtDNjEhFZYBHaPpw) | 2:28 | 2024-09-24 |  |
 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 | 2023-08-07 | 2024-11-20 |
+| [The Relaxing Gem](https://open.spotify.com/track/5REKUW4QDSYOIeL68o5bUH) | [ZenithEcho](https://open.spotify.com/artist/6kr9ZNAP53oR0jWVt7LJwD) | [The Relaxing Gem](https://open.spotify.com/album/6LM72L5zfSMbFq0LtG3HRs) | 1:58 | 2025-06-10 |  |
 | [The Remedy](https://open.spotify.com/track/3LYU4JAT6xnEufa2BBwe89) | [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [The Remedy](https://open.spotify.com/album/6SNyV83OijPvIMf7BKxySb) | 2:54 | 2021-12-07 | 2022-04-21 |
 | [The River](https://open.spotify.com/track/2FPCfxbbIoCItFMjTG8sl0) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 1:58 | 2021-12-07 | 2022-12-24 |
 | [The Sailor's Tale](https://open.spotify.com/track/4CJk8MsMYM1y9ve1jpG9Pz) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Storybook](https://open.spotify.com/album/4DnP1mve2HFOL0XoWYdwvZ) | 2:12 | 2021-12-07 | 2024-10-16 |

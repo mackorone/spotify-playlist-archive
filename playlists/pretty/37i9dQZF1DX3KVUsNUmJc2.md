@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUsNUmJc2.md) - [plain]
 
 > Every legend has a beginning\. Listen to music from Arcane, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,240 likes - 39 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,616 likes - 39 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUsNUmJc2.md) - [plain]
 | 38 | [When Everything Went Wrong \(from the series Arcane League of Legends\)](https://open.spotify.com/track/6YCW1g7XwaDZX7sUSM8LWq) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 3:13 |
 | 39 | [The Beast \(from the series Arcane League of Legends\)](https://open.spotify.com/track/0Sa8RvLw4OnhXYAL9FfStJ) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Misha Mansoor](https://open.spotify.com/artist/2RGaw1ZrhxGfoikLAk4wuZ) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 3:50 |
 
-Snapshot ID: `Z/fgkwAAAABzlgYvEBzzVDvUm24zTjG6`
+Snapshot ID: `Z/fgkwAAAABJACCBwI5RvtibeviglcAg`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 
 > This is The Cranberries\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,276 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,342 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q7ks0.md) - [plain]
 | 49 | [Rupture](https://open.spotify.com/track/5VRwfyvT38wkVeedq3GuG4) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL) | 4:16 |
 | 50 | [Intermission](https://open.spotify.com/track/6moSWwDJWpp7fs8Cta3hNi) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed \(Deluxe Edition\)](https://open.spotify.com/album/44VTFJKruvFCS3solylzrP) | 2:02 |
 
-Snapshot ID: `aETSgAAAAAAK+m/xoyTfwkUp/wo0B7Dk`
+Snapshot ID: `aEYkAAAAAAA3IlSoF73Vs/QN6M4dcRF2`

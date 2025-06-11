@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36\">HBO's Rap Sh!t</a>",
-  "num_followers": 40963,
+  "num_followers": 40988,
   "original_name": "HBO Rap Sh!t's Taste",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Thug Misses (Digitally Remastered)",
+        "url": "https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV"
+      },
+      "artists": [
+        {
+          "name": "Khia",
+          "url": "https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60"
+        },
+        {
+          "name": "DSD",
+          "url": "https://open.spotify.com/artist/5iNFhXzTt8S6gLWss7qGGD"
+        }
+      ],
+      "duration_ms": 311466,
+      "name": "The K-Wang",
+      "url": "https://open.spotify.com/track/08a5tq3SGdgj45GCnFDvlA"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "SMD",
         "url": "https://open.spotify.com/album/2v9QOVsyQI2815eaOk4em6"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 182146,
       "name": "LIT BITCH",
       "url": "https://open.spotify.com/track/6rXEeSswc5z1lpRcHcV6zc"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Thug Misses (Digitally Remastered)",
-        "url": "https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV"
-      },
-      "artists": [
-        {
-          "name": "Khia",
-          "url": "https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60"
-        },
-        {
-          "name": "DSD",
-          "url": "https://open.spotify.com/artist/5iNFhXzTt8S6gLWss7qGGD"
-        }
-      ],
-      "duration_ms": 311466,
-      "name": "The K-Wang",
-      "url": "https://open.spotify.com/track/08a5tq3SGdgj45GCnFDvlA"
     },
     {
       "added_at": "2022-10-01 16:00:00",

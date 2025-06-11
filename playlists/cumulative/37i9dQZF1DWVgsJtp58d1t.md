@@ -2,9 +2,9 @@
 
 ### [This Is Frequency](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> Happy Black Music Month! Cover: Nova Twins
+> Happy Black Music Month! Now featuring our  <a href="https://www.instagram.com/p/DKuestyxk7t/?igsh=NTc4MTIwNjQ2YQ==">Frequency Zine</a>  cover star Rico Nasty
 
-4,713 songs - 9 day 22 hr 29 min
+4,717 songs - 9 day 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -900,6 +900,7 @@
 | [CORSA](https://open.spotify.com/track/1aMHy6hXMgtGQ49dzAYPLm) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [CORSA](https://open.spotify.com/album/69qqSrvZB2mnCOeiyHA19d) | 3:09 | 2022-06-17 | 2022-07-23 |
 | [Corte Madera, CA / Another Day pt.2 \- A COLORS SHOW](https://open.spotify.com/track/3UifuftcYcIo0DmWKDw5KS) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Corte Madera, CA / Another Day pt.2 \- A COLORS SHOW](https://open.spotify.com/album/1LU84NL1HS5vLuci39q0Fm) | 3:05 | 2022-09-09 | 2022-10-08 |
 | [Cory Gunz "On The Radar" Freestyle](https://open.spotify.com/track/3ePmw29u090unEfYVsSdcK) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Cory Gunz "On The Radar" Freestyle](https://open.spotify.com/album/4kl2D7B2EKalqr6ZWt3Y1i) | 3:43 | 2024-07-27 | 2024-08-10 |
+| [Cotton Candy \(feat\. 2 Chainz\)](https://open.spotify.com/track/2ILSAavE0FTWeZ8pAZY5bS) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 3:26 | 2025-06-10 |  |
 | [Couldn't Be Me](https://open.spotify.com/track/56wsU1rsd1bpIlzbe036yA) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Couldn't Be Me](https://open.spotify.com/album/0ELsFkeYClGBR66JRdonU7) | 2:48 | 2024-08-23 | 2024-09-08 |
 | [Count Me Out](https://open.spotify.com/track/5uFJduSeHmCttOQzpaCgnu) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [B4PINK](https://open.spotify.com/album/0wgrKGnsLCq4tM0jIOBmkP) | 2:25 | 2022-06-17 | 2022-07-10 |
 | [Counterfeit](https://open.spotify.com/track/6h1dtfc7PrKnpjIUAtZFR9) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Counterfeit](https://open.spotify.com/album/30JIhqDMtrOsbWDrDwdfyo) | 3:12 | 2024-10-25 | 2024-12-05 |
@@ -2965,6 +2966,7 @@
 | [On Sight](https://open.spotify.com/track/7HrGCco4XvgbbOmXOEE55i) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Um, Hello](https://open.spotify.com/album/6WtGNBLv5568Clwzd8u4vj) | 2:12 | 2022-04-08 | 2022-05-07 |
 | [ON SITE](https://open.spotify.com/track/74px2mvcWoPbjFQPL8bXlt) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV) | [ON SITE](https://open.spotify.com/album/6F6DVgio7m3yDUznaq1jA4) | 2:19 | 2025-05-09 | 2025-05-17 |
 | [On The Low](https://open.spotify.com/track/0TvWlnaVTQK0R5eE8Q8iyi) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [House of LION BABE](https://open.spotify.com/album/5IUfjrEOi16wUrxDArk0NQ) | 3:46 | 2024-09-20 | 2024-09-28 |
+| [ON THE LOW](https://open.spotify.com/track/4o5bxjpANU9AXdvoBSietM) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL](https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4) | 2:16 | 2025-06-10 |  |
 | [ON THE LOW](https://open.spotify.com/track/7JJsA3K4QxzK6SU3BRnvMd) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [ON THE LOW](https://open.spotify.com/album/3Zu1sBpLxNrYzEDAk6mEjN) | 2:16 | 2025-03-28 | 2025-04-19 |
 | [ON THE MONEY](https://open.spotify.com/track/4X4QySVLdBnOd2HoXQLs0I) | [BRONZE AVERY](https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW) | [ON THE MONEY](https://open.spotify.com/album/7tjJBbMowzxHXnd5Xl4pRf) | 2:24 | 2025-02-22 | 2025-03-08 |
 | [on the pisces moon](https://open.spotify.com/track/7Kuo76MyWTcnRlw0wbvAAQ) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [on the pisces moon](https://open.spotify.com/album/6j8xtmODCWGglY03htjnDU) | 2:46 | 2023-03-10 | 2023-03-25 |
@@ -3005,6 +3007,7 @@
 | [Only Love](https://open.spotify.com/track/6RfIR5hQTyHWrQYbDzhtfs) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Only Love](https://open.spotify.com/album/0E0ZVILGRfM9yU2aJwnk6E) | 2:47 | 2022-10-14 | 2022-10-19 |
 | [Only Love](https://open.spotify.com/track/76KzsJ4emV8BsE4CgwFxeo) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Only Love](https://open.spotify.com/album/3FmERkFWALx6fbh8fcSKx2) | 2:47 | 2022-10-14 | 2022-10-25 |
 | [Only Me](https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Only Me](https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns) | 2:39 | 2024-01-12 | 2024-03-02 |
+| [Only Mine](https://open.spotify.com/track/4EMC2wUflNi4Gcwu2rfURq) | [Nyah Grace](https://open.spotify.com/artist/1WfCU4DPKY0jvcqEWU34UK) | [Only Mine](https://open.spotify.com/album/7rSvl5GQvprf8k0s6xQGVa) | 2:59 | 2025-06-10 |  |
 | [Only One](https://open.spotify.com/track/4fp34qCt027BJGROwGDeQh) | [Ashli](https://open.spotify.com/artist/2T0p9A9mK7wpiXNrSb2jP9) | [Only One](https://open.spotify.com/album/6zb4RTDGsGKGCg70f20dNg) | 3:08 | 2022-03-25 | 2022-04-16 |
 | [Only Smoke Trees](https://open.spotify.com/track/1NNHxE9zwgRRjbytbZrdrU) | [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5) | [Didn't Have To](https://open.spotify.com/album/5VVKWRiULbJkKeAJTysitg) | 1:37 | 2024-07-27 | 2024-08-10 |
 | [Only The Lonely](https://open.spotify.com/track/2vf6KIEKiEEyc1OGr97TII) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Only The Lonely](https://open.spotify.com/album/2r4VTLpIKfKm9tUNIdylPk) | 3:52 | 2022-08-26 | 2022-09-17 |
@@ -4038,6 +4041,7 @@
 | [Technicolor Love](https://open.spotify.com/track/0xPbEroCoWAutN6yHJVWYN) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [Technicolor Love](https://open.spotify.com/album/4jjEC6GHtOQdKqEi151fuC) | 3:14 | 2023-02-24 | 2023-03-04 |
 | [Technicolor Love \(feat\. redveil\)](https://open.spotify.com/track/4qzulXfoTGX3FBqsW4AzRF) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [Technicolor Love \(feat\. redveil\)](https://open.spotify.com/album/4HTdrR3aylcEuJQlyuH6Pn) | 3:14 | 2023-02-24 | 2023-03-11 |
 | [Tectonic](https://open.spotify.com/track/1IKAwJ591yhbNsLBlmoZJO) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Tectonic](https://open.spotify.com/album/7E3d1CbWbRjf4Q2obJ6Wvc) | 2:32 | 2024-02-02 | 2024-02-10 |
+| [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/track/7FDj2xBMqi0e8qDowNitrh) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL](https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4) | 2:12 | 2025-06-10 |  |
 | [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/track/36gQ2Hyr8ErtuxmssOYEOX) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/album/3pS5fcf4omfdgFP14wvmqJ) | 2:18 | 2025-02-22 | 2025-03-22 |
 | [Tek A Gyal](https://open.spotify.com/track/0oI9Z2DpVDPjGH0pQpdb2P) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Tek A Gyal](https://open.spotify.com/album/0LWK2IysPWGjzkeJxDCJsK) | 2:45 | 2024-09-20 | 2024-09-28 |
 | [tell me](https://open.spotify.com/track/29hQU0F1P9mxjAallGIZ4J) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [tell me](https://open.spotify.com/album/0JScyUkeeX2YaQXUQT9e09) | 2:43 | 2024-02-02 | 2024-02-10 |
@@ -4102,7 +4106,7 @@
 | [THE LAST TIME](https://open.spotify.com/track/4zkH2YuWOZlXgzOH17TvKs) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [THE LAST TIME](https://open.spotify.com/album/0GyFu1r5ctSDKHwvkF6Coy) | 3:14 | 2025-04-04 | 2025-04-19 |
 | [The Life I Chose](https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [The Life I Chose](https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS) | 2:24 | 2024-02-23 | 2024-03-16 |
 | [The Light](https://open.spotify.com/track/6j5BK1cFX9TjJd5EXHGgAn) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Light](https://open.spotify.com/album/2thP70nudcFpvmRl3AsYRa) | 2:52 | 2023-03-24 | 2023-04-15 |
-| [The Method](https://open.spotify.com/track/0dFH3oc8wikiyi5p5gLUlP) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Get Well Soon!](https://open.spotify.com/album/1v7XLUz7h8OYrxGjb9n2tA) | 3:16 | 2025-05-16 | 2025-05-24 |
+| [The Method](https://open.spotify.com/track/0dFH3oc8wikiyi5p5gLUlP) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Get Well Soon!](https://open.spotify.com/album/1v7XLUz7h8OYrxGjb9n2tA) | 3:16 | 2025-05-16 |  |
 | [The Middle](https://open.spotify.com/track/1hpwh231orYstXAUAEPwp6) | [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [The Middle](https://open.spotify.com/album/6FCFmsL6xefeBO73Dyiwc1) | 2:51 | 2023-07-21 | 2023-09-16 |
 | [The Morning](https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Morning](https://open.spotify.com/album/4sP4BjciIheSSBEGwDpG2q) | 2:59 | 2025-05-16 |  |
 | [The Next](https://open.spotify.com/track/7hZfOP3gtRWagxuSwNG7du) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [The Next](https://open.spotify.com/album/5NNwwuzgbWaaxTseHOweJm) | 1:36 | 2023-04-21 | 2023-05-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Jake Worthington
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,386 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,371 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 19 | [Up In Texas](https://open.spotify.com/track/7KJVh9zU77dzRVs9ZDyztF) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Up In Texas](https://open.spotify.com/album/6ECMDvNJ3mAY49NiYxE3eW) | 3:11 |
 | 20 | [Chasing My Tail](https://open.spotify.com/track/33IImDk07VMw7E99BWz6jK) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Have A Nice Day](https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha) | 3:58 |
 | 21 | [She Hurts Like Tequila](https://open.spotify.com/track/0STyXMnPEAN9Y8F2AB2W3L) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [She Hurts Like Tequila](https://open.spotify.com/album/1rkFmAJVDy10lLw7st5bwd) | 3:22 |
-| 22 | [Bye In A Goodbye](https://open.spotify.com/track/10aBvWcmf8tFa69J8LQAKn) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Bye In A Goodbye](https://open.spotify.com/album/4B281NRNlGrzrQRxXXu72R) | 3:57 |
-| 23 | [Handle On You](https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Handle On You](https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR) | 3:39 |
+| 22 | [Handle On You](https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Handle On You](https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR) | 3:39 |
+| 23 | [Bye In A Goodbye](https://open.spotify.com/track/10aBvWcmf8tFa69J8LQAKn) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Bye In A Goodbye](https://open.spotify.com/album/4B281NRNlGrzrQRxXXu72R) | 3:57 |
 | 24 | [Something's Gonna Kill Me](https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me](https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It) | 3:03 |
 | 25 | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/track/7pNCw2WPlLImrZSSI3tXC8) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/album/1UkSXpE3GpdEPenT83tsnW) | 3:43 |
 | 26 | [It Won't Be Long](https://open.spotify.com/track/4L7H1toyQvfKJWNlD0RfHt) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [It Won't Be Long](https://open.spotify.com/album/1JXyyQl8aPFi9rAXwOF7pv) | 3:17 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 73 | [Green Eyes Blue](https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Green Eyes Blue](https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq) | 3:37 |
 | 74 | [Cold Shoulder](https://open.spotify.com/track/282YiPLSxibbQvGCQ05bkF) | [Mary Heather Hickman](https://open.spotify.com/artist/7HCxS7azUAuU5SyWIY5fDl) | [Cold Shoulder](https://open.spotify.com/album/7rRa6fVsCQPLQPfQlyE8TS) | 2:51 |
 | 75 | [Starting Over Again](https://open.spotify.com/track/48G2MXa9GeJZFkZz7j7Nyo) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Starting Over Again](https://open.spotify.com/album/0eKWH1z22oFzi2D8S3D13C) | 2:59 |
-| 76 | [The Road](https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Turning Point](https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21) | 2:33 |
+| 76 | [The Show](https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [The Show](https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6) | 3:28 |
 | 77 | [Lonestar Lonely](https://open.spotify.com/track/0Ot74bX8yoyXSoibhqAlyj) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [Lonestar Lonely](https://open.spotify.com/album/6ccDlVdugIG7zA0AzskxuM) | 3:35 |
 | 78 | [When My Baby’s In Boots](https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [When My Baby’s In Boots](https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q) | 3:03 |
-| 79 | [The Show](https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [The Show](https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6) | 3:28 |
+| 79 | [The Road](https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Turning Point](https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21) | 2:33 |
 | 80 | [That's What Makes The World Go Around](https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's What Makes the World Go Around](https://open.spotify.com/album/0WJUACzppmRQemrlwap45e) | 3:17 |
 | 81 | [Crossing Lines](https://open.spotify.com/track/3sR8Hdgl2oD1kKB7oS2U1M) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Crossing Lines](https://open.spotify.com/album/2i37SSqkyaIafbqGWHYyqw) | 2:50 |
 | 82 | [Over](https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8) | [The Droptines](https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc) | [The Droptines](https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl) | 3:02 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 95 | [That's What You Get](https://open.spotify.com/track/4pa00oKsxQsUWSOD48QiRU) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [That's What You Get](https://open.spotify.com/album/5RrS8vIjRW2ppMf7TvbpZT) | 2:39 |
 | 96 | [Kick A Little](https://open.spotify.com/track/7JVAxrtctxKu5GpmlCCyGL) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [Rodney Carrington](https://open.spotify.com/artist/7xsMZdxw6eEJXGTLZulONO), [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Kick A Little](https://open.spotify.com/album/4ge2mkLRHL3eVxABHU9hEb) | 3:47 |
 | 97 | [Who I Am](https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Who I Am](https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY) | 4:17 |
-| 98 | [Mine Tomorrow](https://open.spotify.com/track/7J5uYwCH3rPIkDNroSK6qV) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Mine Tomorrow](https://open.spotify.com/album/2JFg94fX6wfG8IWxLTyNsG) | 3:20 |
+| 98 | [Life Behind Bars](https://open.spotify.com/track/2wZ1K4RDhCOonx5bNGmJRr) | [Vandoliers](https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE) | [Life Behind Bars](https://open.spotify.com/album/2yPg5aTs0CypCiLPzTjPCT) | 3:35 |
 | 99 | [The Greys Between](https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [The Greys Between](https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg) | 4:15 |
 | 100 | [A Few Years Back](https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [A Few Years Back](https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4) | 3:40 |
 

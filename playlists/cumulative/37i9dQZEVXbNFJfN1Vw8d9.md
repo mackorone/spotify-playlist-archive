@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-1,455 songs - 3 day 7 hr 9 min
+1,456 songs - 3 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -689,7 +689,7 @@
 | [La Llama del Amor](https://open.spotify.com/track/4aYd4OvURiE7jrnkdbwk0t) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Jairo deRemache](https://open.spotify.com/artist/7w9jfr3fWWEOnm5O3c296Q) | [La Llama del Amor](https://open.spotify.com/album/74Q0veNkYjGu2olhqfdFsW) | 2:58 | 2022-06-25 | 2022-10-25 |
 | [La Llevo Al Cielo \(Ft\. Ñengo Flow\)](https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [La Llevo Al Cielo \(Ft\. Ñengo Flow\)](https://open.spotify.com/album/0WEtvlRZhn9bZLHbjCLSv2) | 4:14 | 2022-05-21 | 2022-10-18 |
 | [LA MARINA STA MORENA](https://open.spotify.com/track/0HIbm4W6C8Ar2Cnen0tE44) | [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3) | [LA MARINA STA MORENA](https://open.spotify.com/album/5znQOqzQhL9GNJoXaxG2aw) | 2:11 | 2024-08-06 | 2024-10-16 |
-| [La Morocha](https://open.spotify.com/track/6vRQqxOhUFd78p5tL8jXr7) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [QUE NOS FALTE TODO](https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G) | 2:14 | 2025-05-18 |  |
+| [La Morocha](https://open.spotify.com/track/6vRQqxOhUFd78p5tL8jXr7) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [QUE NOS FALTE TODO](https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G) | 2:14 | 2025-05-18 | 2025-06-11 |
 | [LA MuDANZA](https://open.spotify.com/track/3G7agPwWfcORnWCAGMDOpm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:33 | 2025-01-06 | 2025-02-07 |
 | [La Máquina](https://open.spotify.com/track/35ns1WEurw3MVlHJjHwNWQ) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 4:56 | 2022-12-10 | 2022-12-12 |
 | [LA NENA](https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [LA NENA](https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw) | 3:20 | 2024-04-21 | 2024-05-26 |
@@ -1320,6 +1320,7 @@
 | [Todo Lit](https://open.spotify.com/track/1oxSzLgFPeFm5o6y7Bxie9) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 4:01 | 2024-01-20 | 2024-01-22 |
 | [Tokicha](https://open.spotify.com/track/5uPGtSSHtN28xUhX7W4eAp) | [J Castle](https://open.spotify.com/artist/7nNS9kiCWRqHGBcWxLB0Pk), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Tokicha](https://open.spotify.com/album/6zAlmaTBclBxZ63eeWHPSe) | 2:21 | 2025-03-05 | 2025-03-28 |
 | [TOP 5](https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 2:26 | 2022-01-15 | 2022-04-10 |
+| [top diesel](https://open.spotify.com/track/2QP041AcWg8PwPIWP95RKN) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 3:09 | 2025-06-10 |  |
 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 | 2023-02-25 | 2023-03-15 |
 | [Touching The Sky](https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Touching The Sky](https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa) | 3:07 | 2024-05-25 | 2024-05-27 |
 | [Toy en el Mic](https://open.spotify.com/track/3DeZc9cOc1DM8YNoJV8lAv) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [en dormir sin Madrid](https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB) | 2:17 | 2023-10-06 | 2023-10-15 |

@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2017. Cover: The xx",
-  "num_followers": 158127,
+  "num_followers": 158140,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
@@ -1383,22 +1383,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Begin (feat. Wales)",
-        "url": "https://open.spotify.com/album/3611xLiDgXb1doMwP0YizT"
+        "name": "Erratic Cinematic",
+        "url": "https://open.spotify.com/album/6fyMUlF3m4s4aMrbpT6HIL"
       },
       "artists": [
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        },
-        {
-          "name": "Wales",
-          "url": "https://open.spotify.com/artist/3IxDETkXytMePFoyf7PYWQ"
+          "name": "Gerry Cinnamon",
+          "url": "https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1"
         }
       ],
-      "duration_ms": 242859,
-      "name": "Begin (feat. Wales)",
-      "url": "https://open.spotify.com/track/3uSwz1gv799BQhkqgIgfSz"
+      "duration_ms": 196600,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/2c9OnhCwDVpKZWjOPqKiA8"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1419,18 +1415,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Erratic Cinematic",
-        "url": "https://open.spotify.com/album/6fyMUlF3m4s4aMrbpT6HIL"
+        "name": "Begin (feat. Wales)",
+        "url": "https://open.spotify.com/album/3611xLiDgXb1doMwP0YizT"
       },
       "artists": [
         {
-          "name": "Gerry Cinnamon",
-          "url": "https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Wales",
+          "url": "https://open.spotify.com/artist/3IxDETkXytMePFoyf7PYWQ"
         }
       ],
-      "duration_ms": 196600,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/2c9OnhCwDVpKZWjOPqKiA8"
+      "duration_ms": 242859,
+      "name": "Begin (feat. Wales)",
+      "url": "https://open.spotify.com/track/3uSwz1gv799BQhkqgIgfSz"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Lines",
-        "url": "https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 194906,
-      "name": "Minimum",
-      "url": "https://open.spotify.com/track/6kND7UAXGZk2kfZbEWQ6e3"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "raingurl",
         "url": "https://open.spotify.com/album/3YtDhWqQOTOT6XD2DQHpBr"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 237231,
       "name": "raingurl",
       "url": "https://open.spotify.com/track/4gRAniZdYF2zVrDUsNC9tU"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Lines",
+        "url": "https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 194906,
+      "name": "Minimum",
+      "url": "https://open.spotify.com/track/6kND7UAXGZk2kfZbEWQ6e3"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "The Far Field",
-        "url": "https://open.spotify.com/album/5fhDKNsP4aDsSLjd4JLXrz"
+        "name": "Retrospect",
+        "url": "https://open.spotify.com/album/7od5erHuDrLwWySdecKpcJ"
       },
       "artists": [
         {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+          "name": "Vistas",
+          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
         }
       ],
-      "duration_ms": 205586,
-      "name": "Ran",
-      "url": "https://open.spotify.com/track/5GxeKtNdjSVAZTfxSsnXhF"
+      "duration_ms": 204004,
+      "name": "Retrospect - Single Version",
+      "url": "https://open.spotify.com/track/1YlOdKPa0LBTqOnFAxWPLQ"
     }
   ],
   "unique_name": "Best of Indie 2017",

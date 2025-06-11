@@ -1,12 +1,12 @@
 {
   "description": "This is Charli xcx. The essential tracks, all in one playlist.",
-  "num_followers": 164968,
+  "num_followers": 165139,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAAD/KKcxYuqXhl5RyJ6Nb8MY",
+  "snapshot_id": "aEYkAAAAAAC3iKLNJyVquw3qoEyCePsF",
   "tracks": [
     {
       "added_at": null,
@@ -328,13 +328,17 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         },
         {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        },
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
         }
       ],
-      "duration_ms": 121273,
-      "name": "365 featuring shygirl",
-      "url": "https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix"
+      "duration_ms": 157328,
+      "name": "Von dutch a. g. cook remix featuring addison rae",
+      "url": "https://open.spotify.com/track/6nx4f2nVmFNWquoMtUrdYX"
     },
     {
       "added_at": null,
@@ -400,17 +404,13 @@
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         },
         {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        },
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
         }
       ],
-      "duration_ms": 157328,
-      "name": "Von dutch a. g. cook remix featuring addison rae",
-      "url": "https://open.spotify.com/track/6nx4f2nVmFNWquoMtUrdYX"
+      "duration_ms": 121273,
+      "name": "365 featuring shygirl",
+      "url": "https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix"
     },
     {
       "added_at": null,
@@ -754,11 +754,15 @@
         {
           "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 147293,
-      "name": "Move Me",
-      "url": "https://open.spotify.com/track/2A8lxHaI7sJD1oABvXwly1"
+      "duration_ms": 168053,
+      "name": "Beg for You (feat. Rina Sawayama)",
+      "url": "https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k"
     },
     {
       "added_at": null,
@@ -826,15 +830,11 @@
         {
           "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 168053,
-      "name": "Beg for You (feat. Rina Sawayama)",
-      "url": "https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k"
+      "duration_ms": 147293,
+      "name": "Move Me",
+      "url": "https://open.spotify.com/track/2A8lxHaI7sJD1oABvXwly1"
     },
     {
       "added_at": null,

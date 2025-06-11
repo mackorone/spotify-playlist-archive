@@ -4,7 +4,7 @@
 
 > falling apart jk hahaha unless
 
-351 songs - 18 hr 54 min
+352 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Sorry](https://open.spotify.com/track/0lnIJmgcUpEpe4AZACjayW) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:52 | 2025-03-28 | 2025-04-01 |
 | [sorry haha i fell asleep](https://open.spotify.com/track/4EzVsSkEdO7JJRe80MxtQk) | [Egg](https://open.spotify.com/artist/6zQlhM6cyJRrzuqAbB8PlB) | [sorry haha i fell asleep](https://open.spotify.com/album/10BhgUIfF4zFcLwqHhioL6) | 2:37 | 2021-04-30 | 2025-03-29 |
 | [space girl](https://open.spotify.com/track/7FjIYiD53wxlQmzTT6Wdpf) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [space girl](https://open.spotify.com/album/2kTyJsKMpVKd3dv87ePucD) | 3:51 | 2022-10-06 | 2024-04-19 |
+| [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 | 2025-06-10 |  |
 | [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 | 2025-05-13 | 2025-06-02 |
 | [Sports](https://open.spotify.com/track/77G0k1La0c5Dw8bAFANcyp) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Sports](https://open.spotify.com/album/4AJbHyDx1Fu8mYxlcj6K8F) | 2:44 | 2021-04-30 | 2022-10-29 |
 | [STAY IN \(feat\. LoveLeo\)](https://open.spotify.com/track/2smYox7uyoZCKgMHoqfg4X) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [LoveLeo](https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6) | [STAY IN](https://open.spotify.com/album/0xO1o1vjzil8Nch5mNjjox) | 2:08 | 2021-04-30 | 2022-06-28 |
@@ -317,7 +318,7 @@
 | [The Smallest Man Who Ever Lived](https://open.spotify.com/track/1xtw1krCR6Dw2KwkXw5z63) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:05 | 2025-04-04 |  |
 | [The Way I Loved You \(Taylor’s Version\)](https://open.spotify.com/track/22bPsP2jCgbLUvh82U0Z3M) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:03 | 2021-04-30 | 2022-10-29 |
 | [THEY DON'T LIKE ME](https://open.spotify.com/track/2bc7SqBhY9VaioLwZ2Jj8I) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [THEY DON'T LIKE ME](https://open.spotify.com/album/3A0uVETyD1PPrgOJ3sEaoM) | 2:48 | 2021-04-30 | 2022-06-06 |
-| [Throw Away](https://open.spotify.com/track/2ML7vSeIZEmOCOiLUmz7Sv) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Monster](https://open.spotify.com/album/6Q3VZtyPCZFMO4cPF4828q) | 5:16 | 2025-03-28 |  |
+| [Throw Away](https://open.spotify.com/track/2ML7vSeIZEmOCOiLUmz7Sv) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Monster](https://open.spotify.com/album/6Q3VZtyPCZFMO4cPF4828q) | 5:16 | 2025-03-28 | 2025-06-11 |
 | [throw ur life away](https://open.spotify.com/track/78c55upqbKmJ1ZHFBW3WLZ) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv), [Endie](https://open.spotify.com/artist/3B7lDutNv1vGrqkujRx78O), [Roan](https://open.spotify.com/artist/5v93nEcTqLrRMP74UPwEU6), [recycleBin](https://open.spotify.com/artist/1qB8BJOcuJuNQw0cPy5RZ2) | [throw ur life away](https://open.spotify.com/album/09q8igzwBWFfUK0t3mo0SS) | 2:55 | 2022-01-28 | 2022-02-12 |
 | [Thru Your Phone](https://open.spotify.com/track/74cVJfmK18rhWnscIpGXjt) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:08 | 2025-03-28 |  |
 | [Thunder](https://open.spotify.com/track/0afGLa6wcYiLLXFZ48ZQpY) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [Cat Heaven](https://open.spotify.com/album/0Z9NeEvqeecaLCFUmI4uDw) | 5:13 | 2021-04-30 | 2025-03-29 |

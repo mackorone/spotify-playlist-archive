@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-1,217 songs - 2 day 23 hr 4 min
+1,218 songs - 2 day 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,7 +426,7 @@
 | [Lose My Breath \(Feat\. Charlie Puth\)](https://open.spotify.com/track/2DXavoWAmIHlrECHPM1Vca) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Lose My Breath \(Feat\. Charlie Puth\)](https://open.spotify.com/album/1HSW0KtusVmitWsZGhjaJB) | 2:46 | 2024-05-11 | 2024-05-13 |
 | [LosE tO yOu](https://open.spotify.com/track/6lTJOAfoSWVgRpCPiztujD) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [LosE tO yOu](https://open.spotify.com/album/2MooXNaTRtM9XNfajmvdcs) | 3:21 | 2024-03-16 | 2024-03-18 |
 | [Loser](https://open.spotify.com/track/5MGYY2USzSzFFrJe2Nul7Q) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [Loser](https://open.spotify.com/album/6hxA2XnQbjGb6dt4F28CPA) | 4:13 | 2021-08-29 | 2022-02-20 |
-| [Loser \(feat\. YENA\)](https://open.spotify.com/track/4WrkJNGb4zUwARc0FD3iNf) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV), [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 2:35 | 2025-05-17 |  |
+| [Loser \(feat\. YENA\)](https://open.spotify.com/track/4WrkJNGb4zUwARc0FD3iNf) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV), [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 2:35 | 2025-05-17 | 2025-06-11 |
 | [Lost at first sight](https://open.spotify.com/track/4tejvhLkdvPYn4p90jk5QS) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [Lost at first sight](https://open.spotify.com/album/3PuUcAi2et3wlpngZRntA5) | 4:04 | 2024-02-15 | 2024-10-19 |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2021-06-05 | 2021-06-21 |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-04-06 | 2023-04-19 |
@@ -512,7 +512,7 @@
 | [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 | 2024-10-18 | 2024-11-17 |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-07 | 2025-03-03 |
 | [not the same](https://open.spotify.com/track/67siqMtQTGPpJZI4Dz8OpM) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 3:04 | 2024-12-07 | 2024-12-13 |
-| [Nothing Without Your Love](https://open.spotify.com/track/4H6s1mTZcjHAMU36ZF3Xoz) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 2:56 | 2025-05-17 |  |
+| [Nothing Without Your Love](https://open.spotify.com/track/4H6s1mTZcjHAMU36ZF3Xoz) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 2:56 | 2025-05-17 | 2025-06-11 |
 | [Nothing's gonna change my love for you](https://open.spotify.com/track/20WIExWA0CPJ92x9jm7hNR) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [Timeless](https://open.spotify.com/album/2rntSWCLxmhuB25LlnzkbK) | 3:29 | 2025-03-02 | 2025-03-10 |
 | [Now That We Don't Talk \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 2:26 | 2023-10-28 | 2023-11-03 |
 | [NPC的一場意外](https://open.spotify.com/track/2xoPgjS9kp36190AhzVyKB) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [NPC的一場意外](https://open.spotify.com/album/23InlFS43Q9t1UH8g6gVrc) | 2:54 | 2025-02-01 | 2025-04-09 |
@@ -819,7 +819,7 @@
 | [一個眼神](https://open.spotify.com/track/6BtPxWB4UsgZraWugItyrn) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [一個眼神](https://open.spotify.com/album/4fVbAQA7z7qeE3eg5zV6Uu) | 2:57 | 2024-02-07 | 2024-02-12 |
 | [一手造成](https://open.spotify.com/track/7D0xhG1kyWghQgAbtHXoN4) | [Winka 陳泳伽](https://open.spotify.com/artist/1wmTLcYhwwD3GbNoI2Vwls) | [一手造成](https://open.spotify.com/album/3B822JL4gtdMgJVXqdz40o) | 3:38 | 2023-03-11 | 2023-07-22 |
 | [一擊即中](https://open.spotify.com/track/1rlODr95iOaPruwCEEc17B) | [Nicholas Tse](https://open.spotify.com/artist/5icAICPWHiBMzTJl7nUPMP) | [零距離](https://open.spotify.com/album/46b49zG31suvCTp6sgcFDY) | 3:33 | 2025-04-26 | 2025-05-05 |
-| [一百個未老先衰的方法](https://open.spotify.com/track/33zXfdqtSYhvfdoRrEdiRH) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [一百個未老先衰的方法](https://open.spotify.com/album/3rMaeLPzHfg3GcNjqA2AgG) | 4:13 | 2024-12-02 | 2025-05-25 |
+| [一百個未老先衰的方法](https://open.spotify.com/track/33zXfdqtSYhvfdoRrEdiRH) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [一百個未老先衰的方法](https://open.spotify.com/album/3rMaeLPzHfg3GcNjqA2AgG) | 4:13 | 2024-12-02 |  |
 | [一號種籽](https://open.spotify.com/track/3i804ijVjXeLrMKGIiVCHm) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [一號種籽](https://open.spotify.com/album/5vdDXo15V2KaVH8lDpY0SI) | 3:57 | 2022-08-24 | 2023-03-09 |
 | [一表人才](https://open.spotify.com/track/6zeblz6qaURo2JphS7XeFz) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo), [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [一表人才](https://open.spotify.com/album/0D0U5JDeFboAiXAZJ0FMUs) | 4:19 | 2021-11-20 | 2023-01-12 |
 | [一路向北](https://open.spotify.com/track/31RIphTQ9y4zStkH5xRWgW) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [11月的蕭邦](https://open.spotify.com/album/6rRydp9XlVoLfTtA3qpWcn) | 4:54 | 2023-05-15 | 2023-05-17 |
@@ -1092,6 +1092,7 @@
 | [玻璃心](https://open.spotify.com/track/4SQxzEwMRZcLl4XSDoWCL5) | [Namewee](https://open.spotify.com/artist/24jrxG0tKcwgAzsLuPzyMi), [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [玻璃心](https://open.spotify.com/album/2e5in6GxWwtHPwPi7lqf4N) | 3:58 | 2021-10-19 | 2021-11-17 |
 | [理性與任性之間](https://open.spotify.com/track/2sQ1tPY9JSeBbmEefD8kir) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [理性與任性之間](https://open.spotify.com/album/51jtxD1lp3MlhECZAtBBB9) | 5:07 | 2021-08-29 | 2022-02-17 |
 | [生若冰火 \(ViuTV 劇集冰上火花主題曲\)](https://open.spotify.com/track/0zEBpYDhSzcvAvypqOqm5G) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [生若冰火 \(ViuTV 劇集冰上火花主題曲\)](https://open.spotify.com/album/1siFw7GYzPnHXcGCR0fi0O) | 3:04 | 2023-11-03 | 2024-02-16 |
+| [用背脊唱情歌](https://open.spotify.com/track/1jQp4mCBDmXr8NMqsMpH8E) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [用背脊唱情歌](https://open.spotify.com/album/65RVRNqYKdkqVJOUOtAtF8) | 3:30 | 2025-06-10 |  |
 | [留一天與你喘息](https://open.spotify.com/track/6flgMTTqhbJSNryAPCYcvA) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [留一天與你喘息](https://open.spotify.com/album/70ZVowDZAeADC8GGzpxtgj) | 4:18 | 2022-02-15 | 2024-04-27 |
 | [留下來的人](https://open.spotify.com/track/0NaXXkY7Lss2VF3sYISJXG) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [人類世](https://open.spotify.com/album/44L9IokCH6BqKPFfkNbS9V) | 4:04 | 2021-11-28 | 2023-01-04 |
 | [留下來的人](https://open.spotify.com/track/5Mg4jtsrw6DVRXApAhQm7j) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [留下來的人](https://open.spotify.com/album/65gZmrFaxPaiVEXI2jMuTP) | 4:04 | 2021-04-18 | 2021-11-28 |

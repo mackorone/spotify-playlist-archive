@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHODOCcCxrj.md) - [plain]
 | 11 | [Way Back](https://open.spotify.com/track/6aE1kHca8lxdIDMgZwAwfJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Don’t Get Too Close](https://open.spotify.com/album/5TG8nNzWlr4lsL6XBURDs0) | 1:59 |
 | 12 | [Maria](https://open.spotify.com/track/4tqOaLJdXjWi4OaFSKIT2R) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:07 |
 | 13 | [French Exit](https://open.spotify.com/track/7nFYnsLIX8EhyFJcPgdIDX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:21 |
-| 14 | [Dizzy](https://open.spotify.com/track/2IxMYlNIuCdG93ZWQ0hLQ3) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Odyssey](https://open.spotify.com/album/60tqwty63qejmNXYSHmRX6) | 2:52 |
-| 15 | [anthems](https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:51 |
+| 14 | [anthems](https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:51 |
+| 15 | [Dizzy](https://open.spotify.com/track/2IxMYlNIuCdG93ZWQ0hLQ3) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Odyssey](https://open.spotify.com/album/60tqwty63qejmNXYSHmRX6) | 2:52 |
 | 16 | [Anything For Love](https://open.spotify.com/track/1yg0jZwJIsmG7a2TqPIv7z) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 2:21 |
 | 17 | [Highest Building](https://open.spotify.com/track/6vd4SM9P40ZFLPVSHpzsJk) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Palaces](https://open.spotify.com/album/0XzZkJXmgnY3o2LbuPYmQg) | 3:36 |
 | 18 | [Pretty In Possible](https://open.spotify.com/track/4Q5LWPIKCuV6LRdDeqOYM7) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:36 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHODOCcCxrj.md) - [plain]
 | 84 | [Yeva's Lullaby](https://open.spotify.com/track/4vxquvA6UGJbUxj9bQdV9o) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/7Lr60fwVDyKA2IMoc2si1V) | 6:53 |
 | 85 | [The Circle Unbroken](https://open.spotify.com/track/7IMgOhpJ9gnkGUl52AY3cc) | [Alto Arc](https://open.spotify.com/artist/0ICZuF8dhbiJrkRfIbYF8q) | [Alto Arc](https://open.spotify.com/album/7Lr60fwVDyKA2IMoc2si1V) | 5:17 |
 
-Snapshot ID: `AbztVAAAAAA2MEjnxo/4nrafZB3zXbJf`
+Snapshot ID: `Abzy4AAAAAA3sk4T9cdOLJvpoeYL2HqU`

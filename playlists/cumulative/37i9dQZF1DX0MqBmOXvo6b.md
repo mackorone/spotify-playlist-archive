@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-729 songs - 1 day 6 hr 57 min
+730 songs - 1 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -627,6 +627,7 @@
 | [The Opening](https://open.spotify.com/track/5usmLdjDelMj2inEm5MmAP) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [The Opening](https://open.spotify.com/album/0bsAKVLQlW0IpVYZtOmCxb) | 2:20 | 2024-12-11 |  |
 | [The Pond](https://open.spotify.com/track/0sP3vS5hPhIRz694UxUJ7w) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [The Pond](https://open.spotify.com/album/2ipoCdTtDNjEhFZYBHaPpw) | 2:28 | 2024-09-24 |  |
 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 | 2023-08-07 | 2025-04-26 |
+| [The Relaxing Gem](https://open.spotify.com/track/5REKUW4QDSYOIeL68o5bUH) | [ZenithEcho](https://open.spotify.com/artist/6kr9ZNAP53oR0jWVt7LJwD) | [The Relaxing Gem](https://open.spotify.com/album/6LM72L5zfSMbFq0LtG3HRs) | 1:58 | 2025-06-10 |  |
 | [The Remedy](https://open.spotify.com/track/3LYU4JAT6xnEufa2BBwe89) | [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [The Remedy](https://open.spotify.com/album/6SNyV83OijPvIMf7BKxySb) | 2:54 | 2022-06-07 | 2023-01-25 |
 | [The Sailor's Tale](https://open.spotify.com/track/4CJk8MsMYM1y9ve1jpG9Pz) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Storybook](https://open.spotify.com/album/4DnP1mve2HFOL0XoWYdwvZ) | 2:12 | 2022-06-07 | 2024-10-02 |
 | [The Scent Of New Days](https://open.spotify.com/track/5w0kPzgsa5bnD8yEYagRUT) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [The Scent Of New Days](https://open.spotify.com/album/1OmJS0DvrFD7hDq6yiyVWD) | 2:22 | 2022-06-07 |  |

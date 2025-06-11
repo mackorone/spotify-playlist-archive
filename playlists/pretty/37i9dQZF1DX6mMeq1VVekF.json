@@ -1,6 +1,6 @@
 {
   "description": "No tags, no labels - just free form. Cover: Obongjayar",
-  "num_followers": 179483,
+  "num_followers": 179492,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,26 @@
     {
       "added_at": "2025-06-05 23:00:08",
       "album": {
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/5ME2rABxMciklKhCnrWYaY"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        },
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 146719,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/1EcXdrJ3qgbgHiPR2wZyRe"
+    },
+    {
+      "added_at": "2025-06-05 23:00:08",
+      "album": {
         "name": "Wifey Riddim",
         "url": "https://open.spotify.com/album/6GLYQfBSP4JHsec83wYB9c"
       },
@@ -279,26 +299,6 @@
       "duration_ms": 148054,
       "name": "Wifey Riddim",
       "url": "https://open.spotify.com/track/4QmoRTOUyrBb0butY0aYtX"
-    },
-    {
-      "added_at": "2025-06-05 23:00:08",
-      "album": {
-        "name": "Chameleon",
-        "url": "https://open.spotify.com/album/5ME2rABxMciklKhCnrWYaY"
-      },
-      "artists": [
-        {
-          "name": "Alemeda",
-          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
-        },
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 146719,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/1EcXdrJ3qgbgHiPR2wZyRe"
     },
     {
       "added_at": "2025-06-05 23:00:08",
@@ -495,6 +495,22 @@
     {
       "added_at": "2025-06-05 23:00:08",
       "album": {
+        "name": "NO MANNERS",
+        "url": "https://open.spotify.com/album/2u9XbBgvH6M2YIkUh6swAX"
+      },
+      "artists": [
+        {
+          "name": "MGEE",
+          "url": "https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC"
+        }
+      ],
+      "duration_ms": 138591,
+      "name": "NO MANNERS",
+      "url": "https://open.spotify.com/track/6ZwndlSxLb1QlzQxbMcWjO"
+    },
+    {
+      "added_at": "2025-06-05 23:00:08",
+      "album": {
         "name": "Sticks and Stones (ft. Kojey Radical & Strandz)",
         "url": "https://open.spotify.com/album/6KTsdhNUKZUZIXvrEWcPiO"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 252452,
       "name": "Sticks and Stones (ft. Kojey Radical & Strandz)",
       "url": "https://open.spotify.com/track/4GEBLb8i3BtKGuqjoU2txa"
-    },
-    {
-      "added_at": "2025-06-05 23:00:08",
-      "album": {
-        "name": "NO MANNERS",
-        "url": "https://open.spotify.com/album/2u9XbBgvH6M2YIkUh6swAX"
-      },
-      "artists": [
-        {
-          "name": "MGEE",
-          "url": "https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC"
-        }
-      ],
-      "duration_ms": 138591,
-      "name": "NO MANNERS",
-      "url": "https://open.spotify.com/track/6ZwndlSxLb1QlzQxbMcWjO"
     },
     {
       "added_at": "2025-06-05 23:00:08",
@@ -643,26 +643,6 @@
     {
       "added_at": "2025-06-05 23:00:08",
       "album": {
-        "name": "More Light (feat. Princess Nokia)",
-        "url": "https://open.spotify.com/album/53xHbnROiHwbXgea0I5qW8"
-      },
-      "artists": [
-        {
-          "name": "Divine Earth",
-          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
-        },
-        {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
-        }
-      ],
-      "duration_ms": 212559,
-      "name": "More Light (feat. Princess Nokia)",
-      "url": "https://open.spotify.com/track/3i6GcEPDKsyChS4mkLFj1z"
-    },
-    {
-      "added_at": "2025-06-05 23:00:08",
-      "album": {
         "name": "Tyla",
         "url": "https://open.spotify.com/album/2gpVnc299Vw2l5pqjSpHlt"
       },
@@ -683,6 +663,26 @@
     {
       "added_at": "2025-06-05 23:00:08",
       "album": {
+        "name": "More Light (feat. Princess Nokia)",
+        "url": "https://open.spotify.com/album/53xHbnROiHwbXgea0I5qW8"
+      },
+      "artists": [
+        {
+          "name": "Divine Earth",
+          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
+        },
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "duration_ms": 212559,
+      "name": "More Light (feat. Princess Nokia)",
+      "url": "https://open.spotify.com/track/3i6GcEPDKsyChS4mkLFj1z"
+    },
+    {
+      "added_at": "2025-06-05 23:00:08",
+      "album": {
         "name": "All My Life",
         "url": "https://open.spotify.com/album/3k9rPnqzQ5NGvu8CtiA0Sz"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 187192,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/76AYXcnSdgIK4l3cEzuXFw"
+    },
+    {
+      "added_at": "2025-06-05 23:00:08",
+      "album": {
+        "name": "Avoid The Drones & 9 Months",
+        "url": "https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 214320,
+      "name": "9 Months",
+      "url": "https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh"
     },
     {
       "added_at": "2025-06-05 23:00:08",
@@ -759,6 +775,26 @@
     {
       "added_at": "2025-06-05 23:00:08",
       "album": {
+        "name": "GREEN LIGHT",
+        "url": "https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA"
+      },
+      "artists": [
+        {
+          "name": "Moses Yoofee Trio",
+          "url": "https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "GREEN LIGHT",
+      "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
+    },
+    {
+      "added_at": "2025-06-05 23:00:08",
+      "album": {
         "name": "dream girl / wake up b*tch",
         "url": "https://open.spotify.com/album/1Kpt6L8hF6bDLSgoPdHLHv"
       },
@@ -791,42 +827,6 @@
     {
       "added_at": "2025-06-05 23:00:08",
       "album": {
-        "name": "GREEN LIGHT",
-        "url": "https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA"
-      },
-      "artists": [
-        {
-          "name": "Moses Yoofee Trio",
-          "url": "https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS"
-        },
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "GREEN LIGHT",
-      "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
-    },
-    {
-      "added_at": "2025-06-05 23:00:08",
-      "album": {
-        "name": "Avoid The Drones & 9 Months",
-        "url": "https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 214320,
-      "name": "9 Months",
-      "url": "https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh"
-    },
-    {
-      "added_at": "2025-06-05 23:00:08",
-      "album": {
         "name": "WHITE NOISE",
         "url": "https://open.spotify.com/album/1Ed7eYD0Z6o1BZU5p5mjtd"
       },
@@ -839,6 +839,22 @@
       "duration_ms": 192982,
       "name": "WHITE NOISE",
       "url": "https://open.spotify.com/track/5HT8TOYAhw3sfvqZowrVMH"
+    },
+    {
+      "added_at": "2025-06-05 23:00:08",
+      "album": {
+        "name": "Crystal Ball",
+        "url": "https://open.spotify.com/album/5N75jW6H3Mb5ZEsa8kEgxa"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 154594,
+      "name": "Crystal Ball",
+      "url": "https://open.spotify.com/track/0pLLxI6K5Nd70Vmh4BZSxm"
     },
     {
       "added_at": "2025-06-05 23:00:08",
@@ -859,22 +875,6 @@
       "duration_ms": 134687,
       "name": "ROSTER",
       "url": "https://open.spotify.com/track/6FnezcbAmX7tOMF4hSi71K"
-    },
-    {
-      "added_at": "2025-06-05 23:00:08",
-      "album": {
-        "name": "Crystal Ball",
-        "url": "https://open.spotify.com/album/5N75jW6H3Mb5ZEsa8kEgxa"
-      },
-      "artists": [
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
-        }
-      ],
-      "duration_ms": 154594,
-      "name": "Crystal Ball",
-      "url": "https://open.spotify.com/track/0pLLxI6K5Nd70Vmh4BZSxm"
     },
     {
       "added_at": "2025-06-05 23:00:08",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-06-05 23:00:08",
       "album": {
-        "name": "Red Sea",
-        "url": "https://open.spotify.com/album/20tFCHvKqXmcCwJcoBpWBA"
-      },
-      "artists": [
-        {
-          "name": "Lv",
-          "url": "https://open.spotify.com/artist/0ZdEpgTWH5UAPeItBOSL5Y"
-        }
-      ],
-      "duration_ms": 132800,
-      "name": "Red Sea",
-      "url": "https://open.spotify.com/track/1GPHLX444M4TPoeH2PkN5L"
-    },
-    {
-      "added_at": "2025-06-05 23:00:08",
-      "album": {
         "name": "PERFECT FANTASY",
         "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 180014,
       "name": "U GOTTA (feat. Pharrell)",
       "url": "https://open.spotify.com/track/6YIoAJ4zwvcEuQkMiluxuD"
+    },
+    {
+      "added_at": "2025-06-05 23:00:08",
+      "album": {
+        "name": "Red Sea",
+        "url": "https://open.spotify.com/album/20tFCHvKqXmcCwJcoBpWBA"
+      },
+      "artists": [
+        {
+          "name": "Lv",
+          "url": "https://open.spotify.com/artist/0ZdEpgTWH5UAPeItBOSL5Y"
+        }
+      ],
+      "duration_ms": 132800,
+      "name": "Red Sea",
+      "url": "https://open.spotify.com/track/1GPHLX444M4TPoeH2PkN5L"
     },
     {
       "added_at": "2025-06-05 23:00:08",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-06-05 23:00:08",
       "album": {
-        "name": "Younger",
-        "url": "https://open.spotify.com/album/3HNaAy3sM6qTb8ox0WKeid"
-      },
-      "artists": [
-        {
-          "name": "Olympia Vitalis",
-          "url": "https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt"
-        }
-      ],
-      "duration_ms": 180481,
-      "name": "Younger",
-      "url": "https://open.spotify.com/track/4xCH7kDMDhYSgLiyMdYTj4"
-    },
-    {
-      "added_at": "2025-06-05 23:00:08",
-      "album": {
         "name": "Tempest",
         "url": "https://open.spotify.com/album/0JCVaWFdfzUEvOBMAfJzXI"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 296607,
       "name": "Tempest",
       "url": "https://open.spotify.com/track/7qDBCXw48fj85AaJDvyLD9"
+    },
+    {
+      "added_at": "2025-06-05 23:00:08",
+      "album": {
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/3HNaAy3sM6qTb8ox0WKeid"
+      },
+      "artists": [
+        {
+          "name": "Olympia Vitalis",
+          "url": "https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt"
+        }
+      ],
+      "duration_ms": 180481,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/4xCH7kDMDhYSgLiyMdYTj4"
     },
     {
       "added_at": "2025-06-05 23:00:08",

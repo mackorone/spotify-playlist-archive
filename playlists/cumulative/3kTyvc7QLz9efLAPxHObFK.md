@@ -4,7 +4,7 @@
 
 > 
 
-2,314 songs - 5 day 1 hr 36 min
+2,315 songs - 5 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1179,6 +1179,7 @@
 | [Let Me Go](https://open.spotify.com/track/5OvoDHeAEEJdKDihh7mxkY) | [REDALiCE](https://open.spotify.com/artist/3m63JSv6jhLEKNXcEd5EUK) | [Let Me Go](https://open.spotify.com/album/0JYBmJ5RZGCrmGdvqUWGOn) | 2:55 | 2022-08-10 |  |
 | [Let me in the dark](https://open.spotify.com/track/6sdEgRMk7X2dZhp3vkL24M) | [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB), [Empira](https://open.spotify.com/artist/52SEFvQng6XqKFfoE4YcbI), [Anna Timofei](https://open.spotify.com/artist/4srvcFuQaZHS0KyBvFApWG) | [Armageddon](https://open.spotify.com/album/4gjJDTNDYQgBp9M7HzGSIv) | 3:43 | 2024-05-13 |  |
 | [Let Me Know](https://open.spotify.com/track/4U4ePKfIEaakJ5DvkGI5p2) | [Hartshorn](https://open.spotify.com/artist/26CaaT8FqbEIzi3hlD8MKc) | [Let Me Know](https://open.spotify.com/album/5Dmoy9lAuZcjioPvqULm2q) | 3:46 | 2022-11-21 |  |
+| [Let Me Know](https://open.spotify.com/track/1j67pM7Rcf0GPoW2a4MlZO) | [Xelerate](https://open.spotify.com/artist/0gPwvAURbtqpxkdMWh3iko), [Schlot](https://open.spotify.com/artist/0XDU5Tj8CTvRZBaKB6pSSw) | [Let Me Know](https://open.spotify.com/album/5IiBLpthp9Ir2hKKt6UJK9) | 2:38 | 2025-06-10 |  |
 | [LET THE BASS GO](https://open.spotify.com/track/6Nu8Ek8HhQLthr9OcoqZKe) | [TYEGUYS](https://open.spotify.com/artist/2asjtW7K4OnBYGQ0zBqi4F), [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [LOCO / LET THE BASS GO](https://open.spotify.com/album/0A5BBNeMiYjoFu2gaON8cW) | 2:09 | 2023-06-09 |  |
 | [Let the Music Take Control](https://open.spotify.com/track/1wMK3UMlBqSUzUgeBeAT9r) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [SONJA](https://open.spotify.com/artist/7rEAvtkj6sNUlQXlYRldrs) | [Let the Music Take Control](https://open.spotify.com/album/1QQovynrzb6OmP3qlUYbnI) | 2:37 | 2025-03-09 |  |
 | [Let You Go](https://open.spotify.com/track/4stHUglyODej8EeAWwr7r5) | [Div Eadie](https://open.spotify.com/artist/5R4341VMttAGEFTTZgaK4P), [Daniel Seven](https://open.spotify.com/artist/4zRiD4QO1sRhP4BnHGhNkW), [Slice N Dice](https://open.spotify.com/artist/3WidLZ58DQjM525pYif1VW), [Sebastian Hansson](https://open.spotify.com/artist/54UEo4InT0mMpgLJj18mG7) | [Let You Go](https://open.spotify.com/album/0oJfPAysgFF0KUKs3aZzBB) | 4:08 | 2024-11-24 |  |

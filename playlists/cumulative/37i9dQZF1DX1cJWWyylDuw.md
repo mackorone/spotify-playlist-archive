@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Paleface Swiss
 
-667 songs - 1 day 19 hr 9 min
+668 songs - 1 day 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [COCKSNATCHER](https://open.spotify.com/track/77QKvXOMECqax6FVtEzmXu) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG) | [COCKSNATCHER](https://open.spotify.com/album/1GeTfE2jUquPWvVok5uUkq) | 2:27 | 2024-06-10 | 2025-01-18 |
 | [Coda](https://open.spotify.com/track/2YE0yL7BzyP2YyzkuHTeeR) | [Reflections](https://open.spotify.com/artist/0DTH9zFyvRb24bb8XN0iEr) | [Coda](https://open.spotify.com/album/6EZW8CglyT5kAySgljI7Bf) | 3:47 | 2021-12-17 | 2022-05-18 |
 | [Code of Honor](https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Fury](https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl) | 3:06 | 2022-05-06 |  |
-| [Coffin of Pain](https://open.spotify.com/track/447Njnc42ii3OpAcVVzw60) | [Distinguisher](https://open.spotify.com/artist/2SAUkgFRLdVSLxMzT85HSc) | [Under the Weight of Things I Couldn't Change](https://open.spotify.com/album/6WG2fAFFnRFlsEbJYVgkRU) | 3:36 | 2022-04-01 |  |
+| [Coffin of Pain](https://open.spotify.com/track/447Njnc42ii3OpAcVVzw60) | [Distinguisher](https://open.spotify.com/artist/2SAUkgFRLdVSLxMzT85HSc) | [Under the Weight of Things I Couldn't Change](https://open.spotify.com/album/6WG2fAFFnRFlsEbJYVgkRU) | 3:36 | 2022-04-01 | 2025-06-11 |
 | [Conflict](https://open.spotify.com/track/0NriyCXjYbGy3tguiBkzQ4) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Kid Of Darkness](https://open.spotify.com/album/7nSuVfuuJObHowL6DL8SlH) | 2:24 | 2024-06-10 |  |
 | [Confounder](https://open.spotify.com/track/2k31Xzc5ooZO44mBeYx7dw) | [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [Confounder](https://open.spotify.com/album/3OwqYRjxbTvsiaE3JFbtV5) | 4:21 | 2025-05-02 |  |
 | [Consistent Suffering](https://open.spotify.com/track/2c2iD9Wq0TajHayTCKSaVl) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Feral](https://open.spotify.com/album/1ysr3SlffkcJMqFtX9Ykxe) | 3:31 | 2023-06-16 | 2024-02-10 |
@@ -599,6 +599,7 @@
 | [The Shadowy Descent of Gaia](https://open.spotify.com/track/0MCP9JP5ikBXncq8zlhkCK) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J) | [The Shadowy Descent of Gaia](https://open.spotify.com/album/4Ifi7nuaAuagUnBj7yY4rG) | 4:42 | 2021-12-17 | 2025-03-15 |
 | [The Soil](https://open.spotify.com/track/1B5N4Uv5ueJw5rbiga5asV) | [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [The Soil](https://open.spotify.com/album/5NrHpWyWCGVya29slLU2QG) | 3:29 | 2021-12-17 | 2022-07-28 |
 | [The Soil](https://open.spotify.com/track/1zwypBAsxWePrtVBaabDmf) | [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [Hell Will Come for Us All](https://open.spotify.com/album/5u6SV78mDidg0AKa7u3M70) | 3:29 | 2022-07-08 | 2024-04-19 |
+| [The Substance](https://open.spotify.com/track/7dPZOf2Hyn5BRSUmz1ScDI) | [Decayer](https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i) | [The Substance](https://open.spotify.com/album/4zRZVEWooswBKCk4Ymbef0) | 4:35 | 2025-06-06 |  |
 | [The Tyrannt's Covenant](https://open.spotify.com/track/4HX43R8UeIPjEPpTzKQb3P) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Kyle Anderson](https://open.spotify.com/artist/74GuAuCz0mWRUiqL4KPJKh) | [The Tyrannt's Covenant](https://open.spotify.com/album/6t9Q5AZw9LyXEqVvdVZbfP) | 3:21 | 2021-12-17 | 2022-07-27 |
 | [The Vice](https://open.spotify.com/track/7vFKWWgZP8UXReQlJ8QR5u) | [Relapse](https://open.spotify.com/artist/6FIDsLHMUgxEaL3mWChbXo) | [The Vice](https://open.spotify.com/album/23Jqc70i8Xz4wVDBVdYVa5) | 3:06 | 2021-12-17 | 2022-04-05 |
 | [The War Within](https://open.spotify.com/track/0e4wJqC4fthZp6yUCUaCmh) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J), [Jamie Graham](https://open.spotify.com/artist/23lPSllEOA8jXD0bXzzlyM) | [Praenuntius Infiniti](https://open.spotify.com/album/1pmqc1OZ7VYMqjtG8zCAMz) | 4:14 | 2021-12-17 | 2022-07-28 |

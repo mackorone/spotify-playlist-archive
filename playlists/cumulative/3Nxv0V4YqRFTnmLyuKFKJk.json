@@ -5283,6 +5283,24 @@
     },
     {
       "album": {
+        "name": "Topsify",
+        "url": "https://open.spotify.com/album/0sv18JZgOQr2m1eXWF7sKJ"
+      },
+      "artists": [
+        {
+          "name": "Topsify",
+          "url": "https://open.spotify.com/show/0sv18JZgOQr2m1eXWF7sKJ"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55077,
+      "name": "Tyler Braden Takes Over the Country Essentials 2025 Playlist",
+      "url": "https://open.spotify.com/episode/4SgaYawO9SA9PN6j1ukTkj"
+    },
+    {
+      "album": {
         "name": "Blood Sugar Sex Magik (Deluxe Edition)",
         "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
       },

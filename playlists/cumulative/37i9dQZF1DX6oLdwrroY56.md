@@ -4,7 +4,7 @@
 
 > pinoy alternative music \. Cover: ena mori
 
-182 songs - 11 hr 39 min
+185 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bahaghari \(Halika na\)](https://open.spotify.com/track/1i0Kp24hzORn8FPXlS7TEt) | [Sandiwa](https://open.spotify.com/artist/720Zve67rPRTRjyI9Qsb0q) | [Bahaghari \(Halika na\)](https://open.spotify.com/album/1cz9BF4Rs8M9IvjT9dI6wB) | 3:55 | 2024-02-09 | 2025-01-17 |
 | [bakasyon](https://open.spotify.com/track/7q7BWieEcjilMrSr752Hqk) | [Carousel Casualties](https://open.spotify.com/artist/5JKO1slXmXcPZghqTrYG1I) | [bakasyon](https://open.spotify.com/album/3muugpfoJOOJm9PaobXiAq) | 4:05 | 2024-06-21 | 2025-04-17 |
 | [Bakit?](https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bakit?](https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI) | 3:14 | 2023-10-13 | 2024-02-10 |
+| [basura](https://open.spotify.com/track/0WCtuhRtnDCKQYZUT3GcQX) | [Sandwich](https://open.spotify.com/artist/6baezjDaGyBqrW8xGqw3a5), [SUYEN](https://open.spotify.com/artist/2k0vf45LoEKtyGiGnyJ4Vv) | [basura](https://open.spotify.com/album/1Ce54hcVgiEP7JDgVxATkw) | 2:37 | 2025-06-10 |  |
 | [bedroom](https://open.spotify.com/track/7nPRtLdOTKJySFy2z2LU2s) | [Shan Capri](https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr) | [Bedroom](https://open.spotify.com/album/7uZIMZtOF3h5c5r7Rtejzr) | 2:01 | 2025-04-16 |  |
 | [Been You](https://open.spotify.com/track/6ZdBAy2SQtDt9oHH9bfGrx) | [Y ARA](https://open.spotify.com/artist/1bPRfjxbCnpHxgGnU59Ml6) | [Been You](https://open.spotify.com/album/2MgHTw0DyWDasWLtFtjuuP) | 3:29 | 2023-10-13 | 2024-02-10 |
 | [bestfriend](https://open.spotify.com/track/1qUcFABxKEe0YZa2sTL24i) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [bestfriend](https://open.spotify.com/album/6VZhkGKPGpAvEtfq7yE5Le) | 2:38 | 2025-02-14 |  |
@@ -37,6 +38,7 @@
 | [Cake](https://open.spotify.com/track/3gw2lEKB2hlaOHDwJJx5gn) | [Any Name's Okay](https://open.spotify.com/artist/1CZ6BqSNNDTbyne4SltF0e) | [Cake](https://open.spotify.com/album/4ghNBLqhyuIOAlldSzmt5k) | 4:36 | 2025-03-06 |  |
 | [CK2](https://open.spotify.com/track/4Zlt1E6DOWVExa9Cnr0uMx) | [Y ARA](https://open.spotify.com/artist/1bPRfjxbCnpHxgGnU59Ml6) | [CK2](https://open.spotify.com/album/74Mec7fYdgHVhYjby3wDGw) | 4:07 | 2023-10-27 | 2024-04-27 |
 | [Coming Close](https://open.spotify.com/track/3aBKCqT0M6pZDLzeLl98gg) | [LORY](https://open.spotify.com/artist/1MnhXelXuGXhjgCyWrc4DF), [wenszy](https://open.spotify.com/artist/1fiAlXgYdWp7Bypyn1NFBl) | [Coming Close](https://open.spotify.com/album/3AABUUguEAzOGFOtJSyDgt) | 3:03 | 2025-04-16 |  |
+| [Cutterpillow](https://open.spotify.com/track/0LlNrjbu99D9fjcdL9yBsx) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Cutterpillow: Tribute Album](https://open.spotify.com/album/6wugYeIhCGw1bzhRozLQcb) | 2:17 | 2025-06-10 |  |
 | [Dance Like You](https://open.spotify.com/track/6i3YUrKwblwZ2lmeJSzJj6) | [Benj Pangilinan](https://open.spotify.com/artist/6zJwFsIO19JxvxUAveVAFa) | [Dance Like You](https://open.spotify.com/album/4sm3BFmwbB0TvmD3HiQHJp) | 3:53 | 2023-10-13 | 2024-05-04 |
 | [Delikado](https://open.spotify.com/track/79hOmFOZM0XZMBQE7rF4Gi) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Delikado](https://open.spotify.com/album/28fntKUsi2qv7tO8jbyADU) | 4:59 | 2023-10-13 | 2023-11-11 |
 | [Di Na Ako](https://open.spotify.com/track/1wC67ZTpPMKRPBex4od1WB) | [Chrstn](https://open.spotify.com/artist/2YwTbSBUyNZTdv39z5pJNW) | [Di Na Ako](https://open.spotify.com/album/1j0PALJJqrFEgDIGpj41Y1) | 4:44 | 2023-10-13 | 2023-11-11 |
@@ -113,6 +115,7 @@
 | [October](https://open.spotify.com/track/2FLcvttJzDNFmAyRyikgc9) | [Wiji Kun](https://open.spotify.com/artist/1X3KbP5esRXH95jVlTi1R6) | [October](https://open.spotify.com/album/1l35MLMhL5L2EDrllIASY3) | 3:52 | 2024-10-18 |  |
 | [Oh Giliw Ko](https://open.spotify.com/track/1WhbuhFMIV9DzgbNX6JV09) | [The Knobs](https://open.spotify.com/artist/5SChS914naD0ev5pHTFMdt) | [Oh Giliw Ko](https://open.spotify.com/album/0Oexw3mJOsG9gHFkgzmu5I) | 5:16 | 2024-07-12 | 2025-04-17 |
 | [Oh, Irog](https://open.spotify.com/track/5YJvGgkhx20VYT64YgRZm2) | [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [Oh, Irog](https://open.spotify.com/album/3Ln0sjWYwOb0YNw9ew4StY) | 4:56 | 2025-02-14 |  |
+| [otw](https://open.spotify.com/track/3Wh9QrUzz5sEkiZAVUB9o1) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [otw](https://open.spotify.com/album/1yRluH890LAb0yIo1Ce2GV) | 3:32 | 2025-06-10 |  |
 | [Paano Tayo](https://open.spotify.com/track/42EXYGjRYIv9qFcej1BUXC) | [End Street](https://open.spotify.com/artist/1tDu9QYGiRTIVCnw5tn2pE) | [Paano Tayo](https://open.spotify.com/album/1OwOrNjmoRpCDXCd37cx0m) | 3:13 | 2025-04-25 |  |
 | [Pagsisisi](https://open.spotify.com/track/69txIAX7vrg9P3Pu7TfgXE) | [Pastel Sky](https://open.spotify.com/artist/1CAWvuliUzB5ORBEkRoS0r) | [Pagsisisi](https://open.spotify.com/album/130CxcfouohfD4K1SlSKfe) | 3:57 | 2025-03-06 |  |
 | [Pakiusap](https://open.spotify.com/track/6CyRHuzI8LcX1qtWtHaUPM) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [Pakiusap](https://open.spotify.com/album/12JXkOGXbf1GPDJYdBvxeL) | 2:55 | 2023-10-13 | 2023-11-19 |

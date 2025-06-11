@@ -1,12 +1,12 @@
 {
   "description": "This is Los Alegres De Teran. The essential tracks, all in one playlist.",
-  "num_followers": 12163,
+  "num_followers": 12162,
   "original_name": "This Is Los Alegres De Teran",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAABWrhLTAOG3sLLsuiqjAtA/",
+  "snapshot_id": "aEYkAAAAAAC9Mm/B/xLw9nW74kq6/KWV",
   "tracks": [
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos Famosos",
+        "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Valente Quintero",
+      "url": "https://open.spotify.com/track/4TVZ40cph6HTc6H5OOszZj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FOGATA NORTENA",
         "url": "https://open.spotify.com/album/6obN0Ujy1MqdJbeR7D7zcy"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 169973,
       "name": "Hay Mujeres Ingratas en la Vida [Ranchera]",
       "url": "https://open.spotify.com/track/2Bkt0E2LT4oewCAsDuFsRJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "30 \u00c9xitos los Alegres de Teran, CD 2",
-        "url": "https://open.spotify.com/album/0m2aHPs4ObaxbeLBD5XpQF"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 148296,
-      "name": "Morena Mia",
-      "url": "https://open.spotify.com/track/5INk7O0D5NndGyvTZb3ZTZ"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Famosos",
-        "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
+        "name": "30 \u00c9xitos los Alegres de Teran, CD 2",
+        "url": "https://open.spotify.com/album/0m2aHPs4ObaxbeLBD5XpQF"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 211826,
-      "name": "Valente Quintero",
-      "url": "https://open.spotify.com/track/4TVZ40cph6HTc6H5OOszZj"
+      "duration_ms": 148296,
+      "name": "Morena Mia",
+      "url": "https://open.spotify.com/track/5INk7O0D5NndGyvTZb3ZTZ"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Recuerdo",
-        "url": "https://open.spotify.com/album/0ElJxS0euvpw3AQfgVGPKj"
+        "name": "Corridos",
+        "url": "https://open.spotify.com/album/5D06CNjENIw3OPcXI79QnS"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 197453,
-      "name": "Prenda Del Alma",
-      "url": "https://open.spotify.com/track/6dAiVXqPyOp64bo42LfQDp"
+      "duration_ms": 218044,
+      "name": "Los Tequileros",
+      "url": "https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
       "duration_ms": 167866,
       "name": "Los Pilares de la C\u00e1rcel",
       "url": "https://open.spotify.com/track/3kx7GR0EaE6LOaVQYEYKB5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Recuerdo",
+        "url": "https://open.spotify.com/album/0ElJxS0euvpw3AQfgVGPKj"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Prenda Del Alma",
+      "url": "https://open.spotify.com/track/6dAiVXqPyOp64bo42LfQDp"
     },
     {
       "added_at": null,
@@ -655,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos",
-        "url": "https://open.spotify.com/album/5D06CNjENIw3OPcXI79QnS"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 218044,
-      "name": "Los Tequileros",
-      "url": "https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ca\u00f1onazos Norte\u00f1os",
         "url": "https://open.spotify.com/album/02QZWZpOvdk97kuYJWY8NL"
       },
@@ -683,22 +683,6 @@
       "duration_ms": 152493,
       "name": "Cajita de Oro",
       "url": "https://open.spotify.com/track/0QIVhpxIP5WSIHRcNmXWU6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 2",
-        "url": "https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 168066,
-      "name": "Hermos\u00edsimo Lucero",
-      "url": "https://open.spotify.com/track/5G9HznDbXaU9UII6Sy2v1T"
     },
     {
       "added_at": null,
@@ -719,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Latin Classics",
-        "url": "https://open.spotify.com/album/4aHYMwkbQBblvPaSrAfBsJ"
+        "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 2",
+        "url": "https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj"
       },
       "artists": [
         {
@@ -728,9 +712,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 142613,
-      "name": "Te Vas Angel M\u00edo",
-      "url": "https://open.spotify.com/track/5jyY0uSQZjdJRJq1vF2mFI"
+      "duration_ms": 168066,
+      "name": "Hermos\u00edsimo Lucero",
+      "url": "https://open.spotify.com/track/5G9HznDbXaU9UII6Sy2v1T"
     },
     {
       "added_at": null,
@@ -751,6 +735,22 @@
       "duration_ms": 167800,
       "name": "La Mosca",
       "url": "https://open.spotify.com/track/6kVnZD4Fw0GF1Uh31a09Qa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Latin Classics",
+        "url": "https://open.spotify.com/album/4aHYMwkbQBblvPaSrAfBsJ"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 142613,
+      "name": "Te Vas Angel M\u00edo",
+      "url": "https://open.spotify.com/track/5jyY0uSQZjdJRJq1vF2mFI"
     },
     {
       "added_at": null,

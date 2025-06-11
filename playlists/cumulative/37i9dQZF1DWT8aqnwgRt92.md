@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,985 songs - 5 day 3 hr 25 min
+1,986 songs - 5 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1119,6 +1119,7 @@
 | [Yobigoe](https://open.spotify.com/track/0lctvjZiJkXnHw0mghsq0J) | [Tei](https://open.spotify.com/artist/0rDC7Y5wGmOdqS7JVaZpYI) | [Yobigoe](https://open.spotify.com/album/0EjfZgr0WRu1uOklzp52gV) | 4:41 | 2024-04-10 | 2024-04-19 |
 | [You Are My World](https://open.spotify.com/track/1ZNwBBKUCDt9yTYfjAardm) | [前橋ウィッチーズ](https://open.spotify.com/artist/5tQLD8Ak85HJXxXy6Pp5D9) | [You Are My World](https://open.spotify.com/album/0RXTpdT4MXIsJHaIYnBhia) | 3:42 | 2025-05-06 | 2025-05-21 |
 | [YOU GOTTA RUN](https://open.spotify.com/track/5M6dCPsVXY2MjAnuMsVJIU) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [YOU GOTTA RUN](https://open.spotify.com/album/0UDsknPG5AbLKR7xm3seas) | 4:19 | 2024-10-22 | 2024-12-18 |
+| [You Wanna Mellow](https://open.spotify.com/track/2UdW0PIlhASazoLy7ioKh5) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [You Wanna Mellow](https://open.spotify.com/album/6m8pQx9DKwNyjyIEQhNkCN) | 3:30 | 2025-06-10 |  |
 | [Young Gun of The Sun](https://open.spotify.com/track/1FvOJYT3Q7JI4HvAekiEW8) | [ヒプノシスマイク \-D.R.B\- \(Bad Ass Temple\)](https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup), [ヒプノシスマイク \-D.R.B\- \(波羅夷 空却\)](https://open.spotify.com/artist/6c1w45xLPDcBpx1O1I1h8t) | [Bad Ass Temple \-戒定慧\-](https://open.spotify.com/album/2uQtOIKEuUWsy2HVt270Zy) | 3:02 | 2022-09-01 | 2022-09-16 |
 | [Your Key](https://open.spotify.com/track/6u6hU2ZikSQ8PdPC3yVYbH) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Your Key](https://open.spotify.com/album/16NmOg7tpLafA7WJb1eAwS) | 3:28 | 2024-01-09 | 2024-03-20 |
 | [Yumagadoki](https://open.spotify.com/track/5ZQfzVe2AZ2YGeW04QNWmn) | [Soraru & Rib](https://open.spotify.com/artist/2xagT4uswba0ebsK4tlNr2), [Soraru](https://open.spotify.com/artist/2hRrM4EVq5bjYRHQvX7goz), [Rib](https://open.spotify.com/artist/4eO7EIigOqHaFTZD1oqK5f) | [Collaboration Single "Yumagadoki" \-TV Anime "Migi & Dali" OpeningTheme\-](https://open.spotify.com/album/5HjBHw6gFDGDkrR0e694mn) | 3:36 | 2023-10-24 | 2024-01-10 |
@@ -1426,7 +1427,7 @@
 | [トゥインクルクス](https://open.spotify.com/track/2gxESAdcKrgQBdPacgTN9H) | [Ayahi Takagaki](https://open.spotify.com/artist/6i5Ibaw62PidoTtJ7NlkzZ), [Aki Toyosaki](https://open.spotify.com/artist/6aieZOzFuKqDoq1QWdZEEP) | [トゥインクルクス](https://open.spotify.com/album/4HNYPuVKtEKesnqkAjdHcH) | 4:34 | 2024-04-16 | 2024-05-06 |
 | [トゥインクルクス](https://open.spotify.com/track/2yQ2m22sMXB5YRIf56KvCN) | [Ayahi Takagaki](https://open.spotify.com/artist/6i5Ibaw62PidoTtJ7NlkzZ), [Aki Toyosaki](https://open.spotify.com/artist/6aieZOzFuKqDoq1QWdZEEP) | [トゥインクルクス](https://open.spotify.com/album/4PhipK2AAOfIhJ5XqEkzCn) | 4:36 | 2024-06-12 | 2024-07-03 |
 | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [トウキョウ・シャンディ・ランデヴ](https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ) | 3:04 | 2022-10-20 | 2023-01-13 |
-| [トウキョウ・シャンディ・ランデヴ \- from CrosSing](https://open.spotify.com/track/1IVvF0ZPPZSpaj2N49sC5r) | [二ノ宮ゆい](https://open.spotify.com/artist/5kyObFcuVNXnw0OVcf5YhV) | [トウキョウ・シャンディ・ランデヴ \- from CrosSing](https://open.spotify.com/album/7IynrACLzNO2DSevTxkt3l) | 3:04 | 2025-06-03 |  |
+| [トウキョウ・シャンディ・ランデヴ \- from CrosSing](https://open.spotify.com/track/1IVvF0ZPPZSpaj2N49sC5r) | [二ノ宮ゆい](https://open.spotify.com/artist/5kyObFcuVNXnw0OVcf5YhV) | [トウキョウ・シャンディ・ランデヴ \- from CrosSing](https://open.spotify.com/album/7IynrACLzNO2DSevTxkt3l) | 3:04 | 2025-06-03 | 2025-06-11 |
 | [トコシエスタ](https://open.spotify.com/track/5NigQtxhXjVsgy9IZjCnL8) | [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [トコシエスタ](https://open.spotify.com/album/7LcXqq2ETXZWYnqJ8JDeLe) | 3:27 | 2023-07-11 | 2023-10-04 |
 | [トドメの一撃](https://open.spotify.com/track/7sd09c4dFK5dLHRsySex9L) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 5:10 | 2023-11-17 | 2024-01-17 |
 | [トメハネハラウ](https://open.spotify.com/track/2R3Pfcb5loHfNs0FI7RQxY) | [Earphones](https://open.spotify.com/artist/6nH1MaNtYwXEuwdOZ1R75p) | [トメハネハラウ](https://open.spotify.com/album/4LvSFjOlrfFOG3K8eFShyb) | 3:56 | 2022-12-22 | 2023-01-13 |

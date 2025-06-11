@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,565 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,611 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 27 | [OH NO,OH YES!](https://open.spotify.com/track/7hT9QzdqxxoWB0JtCGuCnD) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [REQUEST \(30th Anniversary Edition\)](https://open.spotify.com/album/4IjRikscB01fLT0BtKT5g5) | 5:18 |
 | 28 | [First Light \- 2018 Remaster](https://open.spotify.com/track/5Dra6dW1mc7BOh833TDowz) | [Makoto Matsushita](https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG) | [FIRST LIGHT \(2018 Remaster\)](https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT) | 4:33 |
 | 29 | [雨](https://open.spotify.com/track/697jY7OLi15Iv3YUMrrULD) | [Kei Ishiguro](https://open.spotify.com/artist/3wiCwqhbzyXzW8GI7WfZSM) | [Yokohama Ragtime](https://open.spotify.com/album/7qjft00dDfIB21CxjCGjiJ) | 3:28 |
-| 30 | [DOWN TOWN](https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH) | [EPO](https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv) | [DOWN TOWN](https://open.spotify.com/album/1N1eSro0gsmLBiQgVS7QBc) | 4:14 |
-| 31 | [Slow Nights](https://open.spotify.com/track/4TQVYbMBXqzBlKrVeW1Nsd) | [Tomoko Aran](https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp) | [MORE RELAX](https://open.spotify.com/album/57PGfsHat10fVPFSrqROIa) | 3:43 |
+| 30 | [Slow Nights](https://open.spotify.com/track/4TQVYbMBXqzBlKrVeW1Nsd) | [Tomoko Aran](https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp) | [MORE RELAX](https://open.spotify.com/album/57PGfsHat10fVPFSrqROIa) | 3:43 |
+| 31 | [DOWN TOWN](https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH) | [EPO](https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv) | [DOWN TOWN](https://open.spotify.com/album/1N1eSro0gsmLBiQgVS7QBc) | 4:14 |
 | 32 | [カナリア諸島にて](https://open.spotify.com/track/38XNkVwthnLAUH2RmoKCz3) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 4:01 |
 | 33 | [September Rain \- 2018 Remaster](https://open.spotify.com/track/25z4QmWYR2stp1xbVcG51J) | [Makoto Matsushita](https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG) | [FIRST LIGHT \(2018 Remaster\)](https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT) | 4:29 |
 | 34 | [スノッブな夜へ](https://open.spotify.com/track/1ToZZMWUQUXiicl6n2O6P2) | [Yurie Kokubu](https://open.spotify.com/artist/1TnNKsMdzxwBiHkde10tPX) | [Relief 72 hours](https://open.spotify.com/album/6Flte85iZhB31faD8mWRl5) | 4:51 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAABhpcbj1m/5I20OKkcaroOB",
+  "snapshot_id": "aEYkAAAAAAC1M9BNcQP2+vzddNPHfmsQ",
   "tracks": [
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artist 2.0 (Deluxe)",
-        "url": "https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Melody",
-          "url": "https://open.spotify.com/artist/6RTLnOk36W68I78qjRi0XB"
-        }
-      ],
-      "duration_ms": 135017,
-      "name": "It's Crazy (feat. Melody)",
-      "url": "https://open.spotify.com/track/43KDvvVHjDBtx8qD5hs5qH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B4 AVA",
         "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 205702,
       "name": "24 Hours (feat. Lil Durk) [Bonus]",
       "url": "https://open.spotify.com/track/4O7FYAjDATiyylfIIAuRNE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Artist 2.0 (Deluxe)",
+        "url": "https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/6RTLnOk36W68I78qjRi0XB"
+        }
+      ],
+      "duration_ms": 135017,
+      "name": "It's Crazy (feat. Melody)",
+      "url": "https://open.spotify.com/track/43KDvvVHjDBtx8qD5hs5qH"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me vs. Myself",
-        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
+        "name": "Artist 2.0",
+        "url": "https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 154250,
-      "name": "February",
-      "url": "https://open.spotify.com/track/6nCV2ldwVNe7xjRDgXO7ZC"
+      "duration_ms": 196618,
+      "name": "Blood On My Denim",
+      "url": "https://open.spotify.com/track/0LHWHUcUYhFAUkCt2q4Gad"
     },
     {
       "added_at": null,
@@ -871,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artist 2.0",
-        "url": "https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae"
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 196618,
-      "name": "Blood On My Denim",
-      "url": "https://open.spotify.com/track/0LHWHUcUYhFAUkCt2q4Gad"
+      "duration_ms": 154250,
+      "name": "February",
+      "url": "https://open.spotify.com/track/6nCV2ldwVNe7xjRDgXO7ZC"
     },
     {
       "added_at": null,

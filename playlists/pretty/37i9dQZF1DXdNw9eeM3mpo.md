@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Camiseta 22 y Los Miserables en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,427 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,457 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 90 | [Amor Sin Odio](https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS) | [Que Empiece Ya!](https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti) | 5:32 |
 | 91 | [Paz y Baile](https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P) | [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Flavio Cianciarulo](https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3) | [Paz y Baile](https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr) | 3:38 |
 | 92 | [Quiero Bailar Ska!!!](https://open.spotify.com/track/6nltOspNKN9Vt1MLONvoZT) | [Boxer](https://open.spotify.com/artist/2CboRkb4SB7Xhca2WhpLDD) | [Quiero Bailar Ska!!!](https://open.spotify.com/album/2mJm3RcjlckzPcupdolmmx) | 3:19 |
-| 93 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
-| 94 | [Don\`t Worry Be Happy](https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Don't Worry Be Happy](https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY) | 3:45 |
-| 95 | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF) | [Raztlan](https://open.spotify.com/artist/4bm76UqljC1NEUS1yahaxE), [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO) | 3:33 |
+| 93 | [Tengo Miedo](https://open.spotify.com/track/20OijkPcdtlQ6G0UPagDe4) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [Tengo Miedo](https://open.spotify.com/album/4ygDNvIHzZH7Ga0iuAJqa9) | 3:17 |
+| 94 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
+| 95 | [Don\`t Worry Be Happy](https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Don't Worry Be Happy](https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY) | 3:45 |
 | 96 | [Todo Crazy](https://open.spotify.com/track/00xO4aLAM1baaX7HX3y1Dw) | [Gallo Rojo](https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk), [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt) | [Todo Crazy](https://open.spotify.com/album/1xwLD4K1UR04tqUKcAYy9a) | 2:55 |
-| 97 | [Tengo Miedo](https://open.spotify.com/track/20OijkPcdtlQ6G0UPagDe4) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [Tengo Miedo](https://open.spotify.com/album/4ygDNvIHzZH7Ga0iuAJqa9) | 3:17 |
-| 98 | [Virgen de la Merced](https://open.spotify.com/track/74QCc0AxmtLL10CRqVc2Y7) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW), [Big Javy](https://open.spotify.com/artist/2ZOu3MoZXWcJjQLedo40Xp) | [Revolución Ska](https://open.spotify.com/album/2RAOafSouYFgyEKRzUQala) | 4:03 |
-| 99 | [Todo Algún Día Termina](https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Todo Algún Día Termina](https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK) | 4:08 |
-| 100 | [Mucho Mejor](https://open.spotify.com/track/74hKdpN6CifwRlsg5VItCX) | [Bombai](https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Mucho Mejor](https://open.spotify.com/album/53KzF0G9feWSiJ76Psj3LE) | 2:55 |
+| 97 | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF) | [Raztlan](https://open.spotify.com/artist/4bm76UqljC1NEUS1yahaxE), [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO) | 3:33 |
+| 98 | [Mucho Mejor](https://open.spotify.com/track/74hKdpN6CifwRlsg5VItCX) | [Bombai](https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Mucho Mejor](https://open.spotify.com/album/53KzF0G9feWSiJ76Psj3LE) | 2:55 |
+| 99 | [Virgen de la Merced](https://open.spotify.com/track/74QCc0AxmtLL10CRqVc2Y7) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW), [Big Javy](https://open.spotify.com/artist/2ZOu3MoZXWcJjQLedo40Xp) | [Revolución Ska](https://open.spotify.com/album/2RAOafSouYFgyEKRzUQala) | 4:03 |
+| 100 | [Todo Algún Día Termina](https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Todo Algún Día Termina](https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK) | 4:08 |
 
 Snapshot ID: `Z+91cwAAAACPNM1WHeYYeYXN2akekW0o`

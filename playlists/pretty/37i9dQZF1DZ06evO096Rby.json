@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 43634,
+  "num_followers": 43656,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAABGiZHdZafQ6TcjhtK6mWS4",
+  "snapshot_id": "aEYkAAAAAAD/Zuy0hqACbgglYKYlEaIn",
   "tracks": [
     {
       "added_at": null,
@@ -183,26 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Redenci\u00f3n",
-        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 172963,
-      "name": "Un D\u00eda Antes",
-      "url": "https://open.spotify.com/track/4HIefvvG2aMsrSuTgx9vxL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loco Enamorado",
         "url": "https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 226000,
       "name": "Loco Enamorado",
       "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Redenci\u00f3n",
+        "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 172963,
+      "name": "Un D\u00eda Antes",
+      "url": "https://open.spotify.com/track/4HIefvvG2aMsrSuTgx9vxL"
     },
     {
       "added_at": null,
@@ -327,26 +327,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dicen y Dicen",
-        "url": "https://open.spotify.com/album/1KOlHmExRD42dLpWE4GwkF"
+        "name": "LAS LOCAS",
+        "url": "https://open.spotify.com/album/15FgU4bKkshUdxg8oyDnuk"
       },
       "artists": [
         {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         },
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
         }
       ],
-      "duration_ms": 173135,
-      "name": "Dicen y Dicen",
-      "url": "https://open.spotify.com/track/6mzQvzXGWVoNjWhdhup27l"
+      "duration_ms": 192960,
+      "name": "LAS LOCAS",
+      "url": "https://open.spotify.com/track/5hL5HGnYdu5jwhvphRZMpT"
     },
     {
       "added_at": null,
@@ -367,22 +363,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "LAS LOCAS",
-        "url": "https://open.spotify.com/album/15FgU4bKkshUdxg8oyDnuk"
+        "name": "Dicen y Dicen",
+        "url": "https://open.spotify.com/album/1KOlHmExRD42dLpWE4GwkF"
       },
       "artists": [
         {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
         },
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
         }
       ],
-      "duration_ms": 192960,
-      "name": "LAS LOCAS",
-      "url": "https://open.spotify.com/track/5hL5HGnYdu5jwhvphRZMpT"
+      "duration_ms": 173135,
+      "name": "Dicen y Dicen",
+      "url": "https://open.spotify.com/track/6mzQvzXGWVoNjWhdhup27l"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Cambio la Suerte",
+        "url": "https://open.spotify.com/album/5cIjsNTgxNwzmfnfN1AyYV"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 171430,
+      "name": "Me Cambio la Suerte",
+      "url": "https://open.spotify.com/track/7iSLBztgZArYWUMmZV5b1c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Brothers (09/19)",
         "url": "https://open.spotify.com/album/0A5XLLKJ8Z7G6AM7uL4WzI"
       },
@@ -667,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Cambio la Suerte",
-        "url": "https://open.spotify.com/album/5cIjsNTgxNwzmfnfN1AyYV"
+        "name": "Corridos 602 Vol.3 (En Vivo)",
+        "url": "https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8"
       },
       "artists": [
         {
@@ -676,25 +692,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 171430,
-      "name": "Me Cambio la Suerte",
-      "url": "https://open.spotify.com/track/7iSLBztgZArYWUMmZV5b1c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 234416,
-      "name": "El Vaso Derrama - En Vivo",
-      "url": "https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU"
+      "duration_ms": 142357,
+      "name": "En Los Puritos Huesos - En Vivo",
+      "url": "https://open.spotify.com/track/3lrhIGDAi0AELopgjKVJJf"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602 Vol.3 (En Vivo)",
-        "url": "https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8"
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 142357,
-      "name": "En Los Puritos Huesos - En Vivo",
-      "url": "https://open.spotify.com/track/3lrhIGDAi0AELopgjKVJJf"
+      "duration_ms": 234416,
+      "name": "El Vaso Derrama - En Vivo",
+      "url": "https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 215061,
-      "name": "Tatuajes",
-      "url": "https://open.spotify.com/track/5pkv0CmgCpjhaOb2jATdrx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Cans\u00f3 (En Vivo)",
         "url": "https://open.spotify.com/album/0DU8thSB2OYqVcDGWVBNgM"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 194634,
       "name": "Se Cans\u00f3 - En Vivo",
       "url": "https://open.spotify.com/track/7I3u4wFME9L4Wbva3coJHA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 215061,
+      "name": "Tatuajes",
+      "url": "https://open.spotify.com/track/5pkv0CmgCpjhaOb2jATdrx"
     },
     {
       "added_at": null,

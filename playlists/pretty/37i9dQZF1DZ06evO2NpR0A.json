@@ -1,12 +1,12 @@
 {
   "description": "This is Bon Iver. The essential tracks, all in one playlist.",
-  "num_followers": 279938,
+  "num_followers": 279967,
   "original_name": "This Is Bon Iver",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAAC8pNAQg99ZyqZoBRN9tfVI",
+  "snapshot_id": "aEYkAAAAAABtBD2v2mI2T95hSVpOx28q",
   "tracks": [
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "Salem",
+      "url": "https://open.spotify.com/track/1u7cLB3jSUdBTfttKd1LeN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heart of Gold (with Bon Iver)",
         "url": "https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 172190,
       "name": "Heart of Gold (with Bon Iver)",
       "url": "https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "i,i",
-        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/4dIMGmkew7pLWVoJ7de8Wg"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/4dIMGmkew7pLWVoJ7de8Wg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AUATC",
         "url": "https://open.spotify.com/album/34vuelnZf81DSBwmZ4NAiP"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 142125,
       "name": "AUATC",
       "url": "https://open.spotify.com/track/5aGXoGa7ZmsYr3dvQJsR7R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "i,i",
-        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "Salem",
-      "url": "https://open.spotify.com/track/1u7cLB3jSUdBTfttKd1LeN"
     },
     {
       "added_at": null,

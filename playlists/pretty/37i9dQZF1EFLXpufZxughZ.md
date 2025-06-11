@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,062 likes - 138 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,063 likes - 138 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 72 | [jaguars in the air](https://open.spotify.com/track/4UHTXB3cN4jzH5OdkpIUwX) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 3:37 |
 | 73 | [Statistics](https://open.spotify.com/track/2SKrFsrNoT1CO2uBDd9Ora) | [Lyfe Jennings](https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf) | [I Still Believe \(Deluxe\)](https://open.spotify.com/album/2m1dt02G7ShQXmdz549Vpi) | 3:23 |
 | 74 | [Turn It Up \(feat\. Usher\)](https://open.spotify.com/track/2aupzXVfgAkI4nnVR8dDMe) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Basic Instinct](https://open.spotify.com/album/5kcwxjSYHuuafWqUflsSsu) | 3:08 |
-| 75 | [Jealousy](https://open.spotify.com/track/5GYWABR2YFICkSEYZ3nG1M) | [Bri Steves](https://open.spotify.com/artist/26PGLwvDbs1jVA6tAv1lLj) | [Jealousy](https://open.spotify.com/album/7ylhykmmtmOvqBRRlDq2hf) | 3:06 |
-| 76 | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/track/6tY2qRdgwSkftQVZEfyuBw) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [7](https://open.spotify.com/album/6zvPbyirVUhsvlVkITiytd) | 2:37 |
+| 75 | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/track/6tY2qRdgwSkftQVZEfyuBw) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [7](https://open.spotify.com/album/6zvPbyirVUhsvlVkITiytd) | 2:37 |
+| 76 | [Jealousy](https://open.spotify.com/track/5GYWABR2YFICkSEYZ3nG1M) | [Bri Steves](https://open.spotify.com/artist/26PGLwvDbs1jVA6tAv1lLj) | [Jealousy](https://open.spotify.com/album/7ylhykmmtmOvqBRRlDq2hf) | 3:06 |
 | 77 | [Without You](https://open.spotify.com/track/0ltJVWX5qsUSrNJEXhTN0r) | [Issues](https://open.spotify.com/artist/3zRstk92RGCVDyslSySNsm) | [Beautiful Oblivion](https://open.spotify.com/album/1PDhhxnDRAMs12nWawUKE2) | 3:01 |
 | 78 | [Decades](https://open.spotify.com/track/6yiCFprNLeKraW5RsYUxiE) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 2:28 |
 | 79 | [Hard to Breathe](https://open.spotify.com/track/0z7vP1cqwrlwvbSw5d0pzc) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Frequencies](https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta) | 2:57 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 137 | [It's Alright](https://open.spotify.com/track/0OIrTCGGsV35HNAC4UR0wD) | [Clive Bruce](https://open.spotify.com/artist/74A1JytvpdwhdpCD7ydkk5) | [Gypsy Queen](https://open.spotify.com/album/5wZbC3NsXrEyxNzIMtZ1QH) | 2:24 |
 | 138 | [T.R.I.B.E](https://open.spotify.com/track/00IuwiO6X1ZdguEb0cfxx6) | [The A.I.M.](https://open.spotify.com/artist/6LJbmJajmn2ITsXJqECxJP) | [T.R.I.B.E](https://open.spotify.com/album/4Y26nPJ19pqiTyQjpgeCVJ) | 3:59 |
 
-Snapshot ID: `AbztaAAAAABmzxPHTNLpkSM+uRVKaxGJ`
+Snapshot ID: `Abzy4AAAAACmsATlw1PYXmaP4PQmWvxj`

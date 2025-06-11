@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-4,282 songs - 9 day 21 hr 0 min
+4,283 songs - 9 day 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Adeus que me vou embora — I\. ADEUS](https://open.spotify.com/track/3qndkT1Kqd8Icnav9KACnt) | [Mocho Gris](https://open.spotify.com/artist/6ZCivSkSKalzlPiD9bmrBD) | [2](https://open.spotify.com/album/5rqZQ7blXKnX24aUWLEil3) | 5:35 | 2024-11-15 | 2024-11-23 |
 | [Adeus que te vais embora – I\. ADEUS](https://open.spotify.com/track/13VTpRgI4Yh3YJY44NqLx5) | [Mocho Gris](https://open.spotify.com/artist/6ZCivSkSKalzlPiD9bmrBD) | [Adeus que te vais embora – I\. ADEUS](https://open.spotify.com/album/0qY7enQNv8snwaZSuozVXr) | 4:40 | 2024-10-04 | 2024-10-12 |
 | [Adicto](https://open.spotify.com/track/70SJ1NcI81LRV1JGKadcBB) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS PARTE 2 \- Deluxe](https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS) | 2:52 | 2024-08-09 | 2024-08-20 |
+| [Adiós, hola](https://open.spotify.com/track/3wAeje1UyjEE9dHNlvULk2) | [Tórtel](https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9), [Daga Voladora](https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca) | [Adiós, hola](https://open.spotify.com/album/0W4Lcl5JzVXX1fDPaxaWaM) | 2:12 | 2025-06-10 |  |
 | [Adruz](https://open.spotify.com/track/2SxNBlzKkSApeOg0Ou6BGW) | [Roneo](https://open.spotify.com/artist/0HUZSrM12BQcOqwdDXdYml), [Dawiz](https://open.spotify.com/artist/16pbYWC2245gjzNQa3BlCs) | [Adruz](https://open.spotify.com/album/74JoCn0NQ6ImkCYvbh3vuL) | 2:57 | 2024-05-24 | 2024-06-12 |
 | [Adult Swim](https://open.spotify.com/track/0aVG3mmGxMBKpOXG86kfyK) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [Adult Swim](https://open.spotify.com/album/3rgczmiiifVtUfq7vTtqyA) | 1:48 | 2024-09-20 | 2024-09-28 |
 | [ADULTA Y FUNCIONAL](https://open.spotify.com/track/7cMPEH5WqRvID3ovjYgy17) | [Rakky Ripper](https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj), [Marta Sango](https://open.spotify.com/artist/4rVronLhqEXcfu8CjCmLQv), [eurosanto](https://open.spotify.com/artist/0UDkMW0MDYYjQpPx0v7pBP) | [ADULTA Y FUNCIONAL](https://open.spotify.com/album/7JUCkoquPjHPJN3AVy9b5u) | 2:53 | 2024-05-31 | 2024-06-12 |

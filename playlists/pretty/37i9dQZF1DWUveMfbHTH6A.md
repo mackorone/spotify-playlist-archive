@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks around the world this year\. Cover: Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,620 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,622 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 28 | [2 Much](https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [2 Much](https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR) | 3:20 |
 | 29 | [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 |
 | 30 | [Stacy's Chips](https://open.spotify.com/track/0QaPoZqWfIYDMu3I3NncY8) | [Lexa Gates](https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu) | [Elite Vessel](https://open.spotify.com/album/4CM64AqgbtDE5kpcJAgi8F) | 2:48 |
-| 31 | [i love you don't worry xx](https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [i love you don't worry xx](https://open.spotify.com/album/4Vw51MRqtbfQ4xD11BsusD) | 3:05 |
-| 32 | [dance of the trees](https://open.spotify.com/track/0xxDlKnKOMjcr1Phz2U1EB) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [here we go again...](https://open.spotify.com/album/1TQmMkWDju1CTomVO866ju) | 2:31 |
-| 33 | [Intergalactic Janet](https://open.spotify.com/track/0cczRyfWxYAMs6qHEr0jFd) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/2sAPRdU1BZxn42eICvtgHv) | 2:40 |
-| 34 | [LOSTWITHOUTMARIA](https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [LOSTWITHOUTMARIA](https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT) | 2:34 |
+| 31 | [dance of the trees](https://open.spotify.com/track/0xxDlKnKOMjcr1Phz2U1EB) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [here we go again...](https://open.spotify.com/album/1TQmMkWDju1CTomVO866ju) | 2:31 |
+| 32 | [i love you don't worry xx](https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [i love you don't worry xx](https://open.spotify.com/album/4Vw51MRqtbfQ4xD11BsusD) | 3:05 |
+| 33 | [LOSTWITHOUTMARIA](https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [LOSTWITHOUTMARIA](https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT) | 2:34 |
+| 34 | [Intergalactic Janet](https://open.spotify.com/track/0cczRyfWxYAMs6qHEr0jFd) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/2sAPRdU1BZxn42eICvtgHv) | 2:40 |
 | 35 | [she wants me too](https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [wilt](https://open.spotify.com/album/3kmDFMtB0dcW12p62brgKG) | 2:41 |
 | 36 | [internet girl](https://open.spotify.com/track/63DGV1mELaumtRGzV9Y5sI) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [Souly Had](https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO) | [internet girl](https://open.spotify.com/album/68Rs6kp20R9n61RlAH7TAj) | 2:39 |
 | 37 | [Lorelei](https://open.spotify.com/track/0saFjmJYZlWjoOpLhlrOgH) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [VOLUME 1](https://open.spotify.com/album/7dAz4N6jLl36RwpVmJnJBr) | 4:24 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 44 | [Rich](https://open.spotify.com/track/4OYKHiuqAjiSQJjn08LNXy) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Rich](https://open.spotify.com/album/5T3wN7U12GfIVduaX8aDU3) | 3:55 |
 | 45 | [The Bed I Made](https://open.spotify.com/track/52lurZLl1MTd4I2E3GMkgb) | [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [The Bed I Made](https://open.spotify.com/album/35JQWINaTEFOCJSKg6pd4a) | 3:52 |
 | 46 | [she ain't texas](https://open.spotify.com/track/1ElaPKXfrZkfhNUoEDGrzI) | [Ashley Anne](https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw) | [she ain't texas](https://open.spotify.com/album/6wKBrxFqveJQGNtrPbdQZx) | 4:05 |
-| 47 | [Shadows](https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Shadows](https://open.spotify.com/album/0mQFKHQ1KQYQCY46mudsJC) | 3:03 |
-| 48 | [Bring The Witches Back](https://open.spotify.com/track/3sJHkSkno3qYZkXemkoNkW) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Bring The Witches Back](https://open.spotify.com/album/5J9P9buPntwTG6hgWShoYc) | 4:14 |
+| 47 | [Bring The Witches Back](https://open.spotify.com/track/3sJHkSkno3qYZkXemkoNkW) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Bring The Witches Back](https://open.spotify.com/album/5J9P9buPntwTG6hgWShoYc) | 4:14 |
+| 48 | [Shadows](https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Shadows](https://open.spotify.com/album/0mQFKHQ1KQYQCY46mudsJC) | 3:03 |
 | 49 | [safe space](https://open.spotify.com/track/7lOsJPdQuDAVmm3ZZsvG9f) | [Sughn](https://open.spotify.com/artist/0BPCwLHpZIpVlVXcZyH2CB) | [safe space](https://open.spotify.com/album/2tBmCvqE2xObYau5vGoY2z) | 3:10 |
 | 50 | [HYPNOTIC](https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [HYPNOTIC](https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT) | 2:14 |
 | 51 | [HELLO PITI](https://open.spotify.com/track/0pwJNdOShRPkqNAmtrFAvv) | [Korashe](https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [Cómo duele si es tan bonito](https://open.spotify.com/album/1ieiB4J3foLe9yOQj1ia18) | 2:23 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 67 | [REAL](https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [REAL](https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g) | 3:23 |
 | 68 | [Stillness in Motion](https://open.spotify.com/track/0ALhDzmcQJ2MMl8Erpw5I6) | [Plots](https://open.spotify.com/artist/1HGABGjZjIc5KhW1OM4Dr3) | [Stillness in Motion](https://open.spotify.com/album/6ZpYIjsaO9jkjxYv0cKsuu) | 3:41 |
 | 69 | [Ignore](https://open.spotify.com/track/2Pp3hN6Mg3Ob5ZJgCw3D6Q) | [Stemlines](https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX) | [L4TA](https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc) | 3:08 |
-| 70 | [así de tranquila](https://open.spotify.com/track/7CtZimuunrBX0a5sl3RxBn) | [ANADIE](https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [así de tranquila](https://open.spotify.com/album/4hue7V5sMwdwcD0MLpD6os) | 2:53 |
-| 71 | [CAMERINO](https://open.spotify.com/track/59NAwiZv9xBZq5lqerdaSj) | [NICO B.](https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe) | [AERIAL DISPLAY](https://open.spotify.com/album/5zcFR9B9NWmrW9jwX3Fy1G) | 3:10 |
+| 70 | [CAMERINO](https://open.spotify.com/track/59NAwiZv9xBZq5lqerdaSj) | [NICO B.](https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe) | [AERIAL DISPLAY](https://open.spotify.com/album/5zcFR9B9NWmrW9jwX3Fy1G) | 3:10 |
+| 71 | [así de tranquila](https://open.spotify.com/track/7CtZimuunrBX0a5sl3RxBn) | [ANADIE](https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs), [Kfé](https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF) | [así de tranquila](https://open.spotify.com/album/4hue7V5sMwdwcD0MLpD6os) | 2:53 |
 | 72 | [The Viper](https://open.spotify.com/track/2JapCT0xikq6Fy1PQiJz1C) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [The Viper](https://open.spotify.com/album/3cQR7hyzZEbwAESuPEu8qR) | 2:30 |
 | 73 | [Why Is It Light Out?](https://open.spotify.com/track/1f6xPiazNywm5rC1krjr5O) | [The Kilans](https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt) | [Why Is It Light Out?](https://open.spotify.com/album/6904DB41CM3pjgKkUTKWjm) | 4:02 |
 | 74 | [Shotgun](https://open.spotify.com/track/7BZSjFeuQAmmnVnzvlMJ8i) | [Michele Lu](https://open.spotify.com/artist/5ycgCCXYSzg54CQ1HDJLUZ) | [Shotgun](https://open.spotify.com/album/3CSR9L8G9vYROd8xMTv5GM) | 3:55 |

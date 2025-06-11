@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAADU+u+WDvkuFn0u1A21W+7N",
+  "snapshot_id": "aEYkAAAAAABMCfpfpGMQFkchnpaugeeL",
   "tracks": [
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desiderium",
-        "url": "https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh"
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 260617,
-      "name": "Steal My Attention",
-      "url": "https://open.spotify.com/track/0tbrfWifXRO0HVwfjUBYvF"
+      "duration_ms": 146441,
+      "name": "Gamble",
+      "url": "https://open.spotify.com/track/5JLSIy36h3QNQoanUJOd98"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Menu",
-        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
+        "name": "Desiderium",
+        "url": "https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 146441,
-      "name": "Gamble",
-      "url": "https://open.spotify.com/track/5JLSIy36h3QNQoanUJOd98"
+      "duration_ms": 260617,
+      "name": "Steal My Attention",
+      "url": "https://open.spotify.com/track/0tbrfWifXRO0HVwfjUBYvF"
     },
     {
       "added_at": null,
@@ -459,6 +459,38 @@
       "duration_ms": 173096,
       "name": "Floating - feat. Candy Crush Saga",
       "url": "https://open.spotify.com/track/3gMCxYKNYbb1S9U1EoerCV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 220032,
+      "name": "Lovely Soul",
+      "url": "https://open.spotify.com/track/01wmlBhq22bHYCCvmySnzC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eternal Reverie",
+        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 274838,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/76jIZHzRboYpVSqbVCYf5c"
     },
     {
       "added_at": null,
@@ -483,38 +515,6 @@
       "duration_ms": 260000,
       "name": "All In - Karaba Remix",
       "url": "https://open.spotify.com/track/1mt2tCWHhI3PzCZ28y29rk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternal Reverie",
-        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 274838,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/76jIZHzRboYpVSqbVCYf5c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midnight Menu",
-        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 220032,
-      "name": "Lovely Soul",
-      "url": "https://open.spotify.com/track/01wmlBhq22bHYCCvmySnzC"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 169786,
+      "name": "For My Eternal, Oh Dream My Treasure",
+      "url": "https://open.spotify.com/track/2C3QesjC4kWD2YrbKsu1aG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Young Art Sound II",
         "url": "https://open.spotify.com/album/56Sabgy81YsOgHAURQY3uH"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 153297,
       "name": "Strange Froot",
       "url": "https://open.spotify.com/track/3LCIxTgrIysK7KVbtUrWED"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 169786,
-      "name": "For My Eternal, Oh Dream My Treasure",
-      "url": "https://open.spotify.com/track/2C3QesjC4kWD2YrbKsu1aG"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creature Dreams",
-        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 195607,
-      "name": "Fallen Arches",
-      "url": "https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oasis Nocturno",
         "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Creature Dreams",
+        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 195607,
+      "name": "Fallen Arches",
+      "url": "https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Midnight Menu",
         "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
       },
@@ -807,6 +807,22 @@
       "duration_ms": 216726,
       "name": "Sweet Day",
       "url": "https://open.spotify.com/track/5WSdubzrIpADdcmacJFjCR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 202965,
+      "name": "Bibimbap",
+      "url": "https://open.spotify.com/track/4CO7oeYMJeu8DRqXJtl7LV"
     },
     {
       "added_at": null,
@@ -847,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lune Rouge",
-        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 202965,
-      "name": "Bibimbap",
-      "url": "https://open.spotify.com/track/4CO7oeYMJeu8DRqXJtl7LV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream Chorus",
         "url": "https://open.spotify.com/album/3uPpKcsjnkBwb44qudcJDZ"
       },
@@ -875,6 +875,26 @@
       "duration_ms": 139426,
       "name": "Dream Chorus",
       "url": "https://open.spotify.com/track/0kIpJOynQACVOaafTMOM3M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+        }
+      ],
+      "duration_ms": 218589,
+      "name": "Early to Dawn (feat. Selah Sue)",
+      "url": "https://open.spotify.com/track/5RtsfSD7GPULA5Omi6eHvz"
     },
     {
       "added_at": null,
@@ -923,26 +943,6 @@
       "duration_ms": 191233,
       "name": "Fried for the Night",
       "url": "https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lune Rouge",
-        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Selah Sue",
-          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
-        }
-      ],
-      "duration_ms": 218589,
-      "name": "Early to Dawn (feat. Selah Sue)",
-      "url": "https://open.spotify.com/track/5RtsfSD7GPULA5Omi6eHvz"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-250 songs - 11 hr 6 min
+252 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Dreamt, far hope...](https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Dreamt, far hope...](https://open.spotify.com/album/3c8RtZuJK7GD9436O5DPSF) | 2:19 | 2023-09-11 |  |
 | [Drifting Along](https://open.spotify.com/track/4SIUDl2ip5jEFAQeeIXC9B) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Drifting Along](https://open.spotify.com/album/3Fo02LwzmosC2HVPEFFMPu) | 2:29 | 2022-08-03 |  |
 | [Dulcian](https://open.spotify.com/track/3QqwaqJI54yCVhSHX94sQo) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Dulcian](https://open.spotify.com/album/5xADNZ9czbbHhHPg5aJueT) | 2:17 | 2022-08-03 |  |
+| [Dust of Morning](https://open.spotify.com/track/43gMP9sW5ssRzGpL5Tf87M) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [Dust of Morning](https://open.spotify.com/album/1qt2UUl2UyWtlfNFkXs9QP) | 2:16 | 2025-06-10 |  |
 | [Dustlight](https://open.spotify.com/track/7lh5pJSumRRSpiK0gqwORR) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [Dustlight](https://open.spotify.com/album/2Dn3n3eSJRxPBxWJCuFIRK) | 2:13 | 2025-04-04 | 2025-06-05 |
 | [Efteraar](https://open.spotify.com/track/0E9fxTuKGsFLd9nirytamd) | [Mark Jubel](https://open.spotify.com/artist/6QhnbblQwendc1TdZMj6qd) | [Efteraar](https://open.spotify.com/album/5IJrl616LUYdsgjI6GT30K) | 2:24 | 2022-12-06 |  |
 | [El Misterio VII \(solo piano\)](https://open.spotify.com/track/6WwfOCmwiIkkZHjwlTcUu4) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Krabbé Zoekt Kahlo](https://open.spotify.com/album/0V5qBDi0tCD8DFKf8nhWEt) | 2:40 | 2022-09-23 |  |
@@ -97,7 +98,7 @@
 | [Give and Take](https://open.spotify.com/track/1ZuWu44vG2cTSX2BaTMORM) | [Otto Mitch](https://open.spotify.com/artist/1z83SKsSScydhd9ImLkUCP) | [Give and Take](https://open.spotify.com/album/3jYUbXJT616rFP3Nm3oO68) | 2:14 | 2023-08-01 |  |
 | [Glitter](https://open.spotify.com/track/3v9Pk1fxLg5MvKm9i5WraZ) | [Tim Karlsen](https://open.spotify.com/artist/3I0dZZLw0lTrptPX7nNc59) | [Glitter](https://open.spotify.com/album/0L8EQKHSBRT1ZjeB8bH8vX) | 2:52 | 2022-08-26 |  |
 | [Golden Hour](https://open.spotify.com/track/7cY9kWU1cPLJ1wxxvKEZMh) | [Leila Milki](https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON) | [Springtime Improvisations](https://open.spotify.com/album/5ezMUY3NhgxPsufHezSG7D) | 1:34 | 2022-08-03 | 2025-04-09 |
-| [Grateful For The Time](https://open.spotify.com/track/4087fSTfSGcZdb7CaTays6) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Grateful For The Time](https://open.spotify.com/album/7lU9zqz8ky2VXhYv5PDm0R) | 2:30 | 2025-06-04 |  |
+| [Grateful For The Time](https://open.spotify.com/track/4087fSTfSGcZdb7CaTays6) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Grateful For The Time](https://open.spotify.com/album/7lU9zqz8ky2VXhYv5PDm0R) | 2:30 | 2025-06-04 | 2025-06-11 |
 | [Grounded in Love](https://open.spotify.com/track/6r3yNcTDGZxBsvUi5hwpOf) | [Rocco](https://open.spotify.com/artist/70qMxbmTMbxS4MCjkkZvTH) | [Grounded in Love](https://open.spotify.com/album/7dgM19C1eRfwg33ev3jLV8) | 2:23 | 2024-09-30 |  |
 | [Hallowed Ground](https://open.spotify.com/track/7C8w6cZETAiUxJ0xtkBcuu) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Hallowed Ground](https://open.spotify.com/album/2tH19CDOZgXO3d5hLwQbY2) | 2:41 | 2022-10-24 | 2025-01-15 |
 | [Healing Begins](https://open.spotify.com/track/7MHN5EduWiVbYCFBdo2hkJ) | [Katia Waizel](https://open.spotify.com/artist/2fG2mbIMWrjg3vepzDjAh0) | [Healing Begins](https://open.spotify.com/album/7dsWPNgn6y7whMrI9nG9V1) | 2:59 | 2022-08-03 |  |
@@ -112,6 +113,7 @@
 | [If Only I Could Stop the Clock](https://open.spotify.com/track/2Ey5klJpXYZj8Ci9thENWA) | [Maarten Schellekens](https://open.spotify.com/artist/35HKcY4o7vVi5rzJ0gPxis) | [If Only I Could Stop the Clock](https://open.spotify.com/album/5MPk2CIBjpHTo4VKeLCfEE) | 2:31 | 2023-01-26 | 2023-04-20 |
 | [Illuminate The Night](https://open.spotify.com/track/4xwD2O3xL0aMEI2jfw7mb8) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Illuminate The Night](https://open.spotify.com/album/2fbtqkEVf615YZStDOMGdw) | 2:07 | 2023-08-01 | 2025-01-15 |
 | [Impressions](https://open.spotify.com/track/2IxfYyUQFZWoopvcfOmKnV) | [Joseph Vaux](https://open.spotify.com/artist/3xeLXw1KYDFIZlod0XGHr1) | [Impressions](https://open.spotify.com/album/319m1F9IJTZ6ups51e1m4N) | 2:43 | 2022-08-03 | 2022-09-13 |
+| [In quiet solitude](https://open.spotify.com/track/07gGRtodbRkRMa7JEg9B8D) | [Emilio Chiara](https://open.spotify.com/artist/5a48GWM8CpVJtzLvnFn1js) | [In quiet solitude](https://open.spotify.com/album/5hP2ziNexducebrx4wRaqi) | 2:14 | 2025-06-10 |  |
 | [In the Quiet Hours](https://open.spotify.com/track/0mhzqS1uEIQm49i8yH7eUh) | [Harmonic Reverie](https://open.spotify.com/artist/5MQgVlRZZAASmBxSk6bbqi) | [In the Quiet Hours](https://open.spotify.com/album/0Hxyrm1hOIXjJFcXb51kn8) | 3:19 | 2025-05-28 |  |
 | [Indian Yellow](https://open.spotify.com/track/6j8KPn7rmbTwlkpEbHcrS1) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 3:14 | 2022-08-03 |  |
 | [Intertwining](https://open.spotify.com/track/4DrbKyHiDUDBAMSvLmDIYN) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Intertwining](https://open.spotify.com/album/4v2uvSANeRjevB4F7EhXIt) | 2:25 | 2022-08-03 |  |

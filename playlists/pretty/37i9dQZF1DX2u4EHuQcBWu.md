@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,456 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,510 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 20 | [Los dinosaurios](https://open.spotify.com/track/0XiHPXB9HYxq3ThywnTT9B) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [HILDA CANTA CHARLY](https://open.spotify.com/album/2cHEbZW4aAGuRVvdnQNX5O) | 3:29 |
 | 21 | [This is Not America \(feat\. Ibeyi\)](https://open.spotify.com/track/7d8LusdMBU3yWUSWBpETjG) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [This is Not America \(feat\. Ibeyi\)](https://open.spotify.com/album/5J11N6p7TBOMPE5bg9mbax) | 3:51 |
 | 22 | [Yo Tambor](https://open.spotify.com/track/4Ib1dCDihiqnNfLvR49CJS) | [Andy Mountains](https://open.spotify.com/artist/7ngrio7nmDW1gb3Na5Q1wj) | [De Aquí y de Allá, Vol\. II: Homenaje a la Caravana de Madres Centroamericanas Que Buscan a Sus Hijas e Hijos](https://open.spotify.com/album/2NknIOVVasKOH56yneCQ1u) | 5:31 |
-| 23 | [Senor Matanza](https://open.spotify.com/track/2uR6DAqwZCfDeD6jFrD5zA) | [Mano Negra](https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2) | [Casa Babylon](https://open.spotify.com/album/0DzXs04hKcMYg7D2JSLptk) | 3:57 |
-| 24 | [Movimiento](https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:51 |
+| 23 | [Movimiento](https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:51 |
+| 24 | [Senor Matanza](https://open.spotify.com/track/2uR6DAqwZCfDeD6jFrD5zA) | [Mano Negra](https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2) | [Casa Babylon](https://open.spotify.com/album/0DzXs04hKcMYg7D2JSLptk) | 3:57 |
 | 25 | [Liberté](https://open.spotify.com/track/22ireWyQ00W5sHnTEnJdQ0) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0), [Dr.Shenka](https://open.spotify.com/artist/0SIPopELCLWFhd0v52B7S1), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Liberté](https://open.spotify.com/album/55GKnR9Unov0eOBuoEt9Vz) | 4:10 |
 | 26 | [Escribo Rap Con R De Revolución](https://open.spotify.com/track/6vmrsiaeNq7LpiGdvB2bJT) | [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Escribo Rap Con R De Revolucion](https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7) | 4:17 |
 | 27 | [Se Me Ocurre](https://open.spotify.com/track/4fZJ1PRKY0cWC8PRWnRZQa) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N) | 4:02 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 64 | [Sólo Le Pido A Dios](https://open.spotify.com/track/6SNNyxD0jCgoQBqNQfMTDU) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco](https://open.spotify.com/album/51wgsldnwV1Xq9BW1GoV0w) | 4:08 |
 | 65 | [Canción Sin Miedo](https://open.spotify.com/track/28WYHiLShsQh3NEV5FfhsW) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Canción Sin Miedo](https://open.spotify.com/album/7LK8yw2OrKJ7Nv0BZ6EIKz) | 3:33 |
 | 66 | [Síganme los Buenos](https://open.spotify.com/track/64hFXTMZsmDAT0kiWZrYwD) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Síganme los Buenos](https://open.spotify.com/album/2rW21cjOMIZYEneQKO74Gm) | 3:27 |
-| 67 | [que lo que](https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [que lo que](https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu) | 2:04 |
-| 68 | [La Fuerza Policial](https://open.spotify.com/track/115aU4mUhsHVAoUlTqWnKP) | [2X](https://open.spotify.com/artist/4Og1dnAsJ7C9oj5axIFs5d) | [Pateando Craneos](https://open.spotify.com/album/2wW6wncmIYNKNpnDH1BrvF) | 2:41 |
+| 67 | [La Fuerza Policial](https://open.spotify.com/track/115aU4mUhsHVAoUlTqWnKP) | [2X](https://open.spotify.com/artist/4Og1dnAsJ7C9oj5axIFs5d) | [Pateando Craneos](https://open.spotify.com/album/2wW6wncmIYNKNpnDH1BrvF) | 2:41 |
+| 68 | [que lo que](https://open.spotify.com/track/4FZOE9zQMqeWPxXqrIubmO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [que lo que](https://open.spotify.com/album/1pO9CYRWj5oJYJsIzFHYDu) | 2:04 |
 | 69 | [Rompan Todo](https://open.spotify.com/track/7571CUGTEd1jKijAYxXRxB) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Tango 4](https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T) | 3:57 |
 | 70 | [Cinco Siglos Igual](https://open.spotify.com/track/6CIjy70IxwaCi1uEx07TyY) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [15 Años De Mi](https://open.spotify.com/album/2724ObvOvyi3CjgkBVIxlY) | 4:14 |
 | 71 | [Empresaurio](https://open.spotify.com/track/2nnHeIo6kBeSWqj41EmC2x) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [La Dieta del Lagarto](https://open.spotify.com/album/2TBrmbIm2ks1iQ6XExMyMw) | 3:14 |

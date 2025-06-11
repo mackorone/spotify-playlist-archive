@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "#1",
+        "url": "https://open.spotify.com/album/7mlcEJZkHVzPxD051unDs8"
+      },
+      "artists": [
+        {
+          "name": "Iqbal",
+          "url": "https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192093,
+      "name": "#1",
+      "url": "https://open.spotify.com/track/0jQe8y8MuE65RRG4KSuzeE"
+    },
+    {
+      "album": {
         "name": ".45",
         "url": "https://open.spotify.com/album/1ElbKPKHkEi2SZjrCPLBwf"
       },
@@ -3086,7 +3104,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 150927,
       "name": "Dhake Te Dua",
       "url": "https://open.spotify.com/track/3LrmY8bmFxihT46shYXAH5"
@@ -8931,6 +8949,24 @@
     },
     {
       "album": {
+        "name": "No Link Up",
+        "url": "https://open.spotify.com/album/3RtZ2O8pcP69Byub2oFelr"
+      },
+      "artists": [
+        {
+          "name": "Sunny Randhawa",
+          "url": "https://open.spotify.com/artist/3h87sa2W1TI6kn30DMwz15"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "No Link Up",
+      "url": "https://open.spotify.com/track/3TMtRuNbUcQDz4ZJ9wIj0q"
+    },
+    {
+      "album": {
         "name": "No Reason",
         "url": "https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY"
       },
@@ -9702,7 +9738,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 146980,
       "name": "PB29",
       "url": "https://open.spotify.com/track/0VTWWi4eNJAKi1wJqEufvy"

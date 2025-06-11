@@ -371,6 +371,28 @@
     },
     {
       "album": {
+        "name": "Emerald and Stone",
+        "url": "https://open.spotify.com/album/4EQe1P20TVDfxwRKDp3El5"
+      },
+      "artists": [
+        {
+          "name": "Anastasia Kobekina",
+          "url": "https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m"
+        },
+        {
+          "name": "Kammerorchester Basel",
+          "url": "https://open.spotify.com/artist/1fY6hh9OH6MirLiogDiwPU"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135893,
+      "name": "Emerald and Stone",
+      "url": "https://open.spotify.com/track/1i1qDioBSMR3YQ2xKSi75m"
+    },
+    {
+      "album": {
         "name": "Vaughan Williams: Tallis Fantasia; Fantasia on Greensleeves; The Lark Ascending etc.",
         "url": "https://open.spotify.com/album/49fD8z3scrgWpCnfkGtbSI"
       },

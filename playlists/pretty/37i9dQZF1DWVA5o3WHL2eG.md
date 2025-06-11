@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Zsá Zsá
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,942 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,965 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 10 | [ICH GEH MIT MIR](https://open.spotify.com/track/21dfwDOI57dqW8LLqV5Ypk) | [LORI](https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x) | [ICH GEH MIT MIR](https://open.spotify.com/album/5XVnX6GnATq2EgjfNlVjvb) | 3:07 |
 | 11 | [Schlimmster Mensch der Welt](https://open.spotify.com/track/5BSwfudT5otTmLorKncQdi) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Schlimmster Mensch der Welt](https://open.spotify.com/album/6BNJB42hjoBQaG3swmFuVt) | 2:37 |
 | 12 | [hungerspiele](https://open.spotify.com/track/5EnJNlBSbircsRkFlpINQ0) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [hungerspiele](https://open.spotify.com/album/0XD2A1SUf0gl6LkWBNzQ2R) | 2:57 |
-| 13 | [Vespa](https://open.spotify.com/track/4cQXzeob93WskDrYumvoqn) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [Vespa](https://open.spotify.com/album/6pUSfO8PGUDlUFWh8SMZJQ) | 2:17 |
-| 14 | [wenn's am schönsten ist](https://open.spotify.com/track/4fZYJSpK32o3CeWPByulUj) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [wenn's am schönsten ist](https://open.spotify.com/album/1O9pMaZ82BwU6cb7nCO9WG) | 2:16 |
+| 13 | [wenn's am schönsten ist](https://open.spotify.com/track/4fZYJSpK32o3CeWPByulUj) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [wenn's am schönsten ist](https://open.spotify.com/album/1O9pMaZ82BwU6cb7nCO9WG) | 2:16 |
+| 14 | [Vespa](https://open.spotify.com/track/4cQXzeob93WskDrYumvoqn) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [Vespa](https://open.spotify.com/album/6pUSfO8PGUDlUFWh8SMZJQ) | 2:17 |
 | 15 | [Arschloch](https://open.spotify.com/track/7zrONlmULDcVEi5Z1yrHkz) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [Arschloch](https://open.spotify.com/album/4Kr76gbMDTFr2uFVEyB3nQ) | 3:16 |
 | 16 | [Feuerkind](https://open.spotify.com/track/56ldjSVqZJ332ntiGLSPvW) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Feuerkind](https://open.spotify.com/album/5zwr0tXhxtJmfvgL1G8BK0) | 3:40 |
 | 17 | [Bitte sag](https://open.spotify.com/track/5rj7ExuHtdyVGtUMuprZqe) | [Paula Douglas](https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ) | [Bitte sag](https://open.spotify.com/album/7GV5MAj4vGJ6UBwpUcKmnX) | 2:11 |
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 19 | [215 fehlstunden](https://open.spotify.com/track/3X4DZ9xR9ASP2mApkmOWg3) | [chiara](https://open.spotify.com/artist/4WimfwqguLTlWfpNaaonvG) | [215 fehlstunden](https://open.spotify.com/album/46Vbi8Z2yGVDa3D1k9ZRmD) | 2:31 |
 | 20 | [Er kriegt mich nicht](https://open.spotify.com/track/3QlqPRUCScMH9SRdRSPhid) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Er kriegt mich nicht](https://open.spotify.com/album/32KQ2dKaKl0XXalzDj9b5U) | 1:29 |
 | 21 | [Daddy](https://open.spotify.com/track/5UEdzLdq8tICr6x0abO4gM) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Daddy](https://open.spotify.com/album/4sQdg2DCe4J2ZJbOEZ615l) | 2:34 |
-| 22 | [paradox](https://open.spotify.com/track/7caBLs17zpDr8qfRPoTPw3) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [paradox](https://open.spotify.com/album/3pexxVelQfabVmGJNTmq24) | 5:09 |
-| 23 | [blauäugig](https://open.spotify.com/track/1x9Nayn5si8O2ijcz7lfQe) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [sad girl summer](https://open.spotify.com/album/6TsjtXGkd8JKtB400it3nF) | 3:34 |
-| 24 | [Knoppers](https://open.spotify.com/track/42nG2hVZIVNfPBQ8RiOCAj) | [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W), [Traya](https://open.spotify.com/artist/0bo1LMgTEg5qpicrIee54M) | [Knoppers](https://open.spotify.com/album/0RzlcFXkk0MJmcQhYxwcwR) | 2:06 |
+| 22 | [Knoppers](https://open.spotify.com/track/42nG2hVZIVNfPBQ8RiOCAj) | [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W), [Traya](https://open.spotify.com/artist/0bo1LMgTEg5qpicrIee54M) | [Knoppers](https://open.spotify.com/album/0RzlcFXkk0MJmcQhYxwcwR) | 2:06 |
+| 23 | [paradox](https://open.spotify.com/track/7caBLs17zpDr8qfRPoTPw3) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [paradox](https://open.spotify.com/album/3pexxVelQfabVmGJNTmq24) | 5:09 |
+| 24 | [blauäugig](https://open.spotify.com/track/1x9Nayn5si8O2ijcz7lfQe) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [sad girl summer](https://open.spotify.com/album/6TsjtXGkd8JKtB400it3nF) | 3:34 |
 | 25 | [Schlalalafen](https://open.spotify.com/track/7xszxxMBk5CPOn0lsk02l3) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Schlalalafen](https://open.spotify.com/album/6ZpQhN9Ej76gOrUu1j8aO5) | 2:52 |
 | 26 | [\#billieeilish](https://open.spotify.com/track/1PLNecx91vPpSxVjPI9JTC) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ) | [\#billieeilish](https://open.spotify.com/album/6yZxnZCrzE14iX4C1n1gAr) | 1:45 |
 | 27 | [gegengift](https://open.spotify.com/track/37wSsrdZXwlBAkWdKR25Gn) | [Cosima Kiby](https://open.spotify.com/artist/1hm4J3Mp8Yh2TDhOp6u7sM) | [gegengift](https://open.spotify.com/album/5neEPGUpUctNlt9xVO5rug) | 2:36 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 38 | [Pacify](https://open.spotify.com/track/4vdIMyvKTGh9kFZhi9Kt7w) | [The Red Flags](https://open.spotify.com/artist/7FIb3f7HlWJre42vwT6rDN) | [Self\-Centred And Delusional](https://open.spotify.com/album/2VGX96Cq2zq9n2tp2lOQ3K) | 2:31 |
 | 39 | [C C C](https://open.spotify.com/track/2SXLCcrH227dQ1ffi7PbnH) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [C C C](https://open.spotify.com/album/4LxaKUWOsO7I15CMN0wVxC) | 3:06 |
 | 40 | [EGO DEATH](https://open.spotify.com/track/0aRI4HE2SzFVecxw0taEU8) | [TEER](https://open.spotify.com/artist/6DAoPIKbym8tpSn4cAffWv) | [AETHER](https://open.spotify.com/album/3CZX3uBKtBtzgpIG49uCRR) | 3:04 |
-| 41 | [Imaginary Friend](https://open.spotify.com/track/3UJtYt80oyV9oHS7YemxnZ) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Imaginary Friend](https://open.spotify.com/album/7zruNgHAbhS7yI1bYbERpv) | 4:46 |
-| 42 | [Dark Circus](https://open.spotify.com/track/47cUzqM7rbKDEO0yzUv09h) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Dark Circus](https://open.spotify.com/album/4qV8ICYfScGe9HhIflz4VQ) | 5:39 |
+| 41 | [Dark Circus](https://open.spotify.com/track/47cUzqM7rbKDEO0yzUv09h) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Dark Circus](https://open.spotify.com/album/4qV8ICYfScGe9HhIflz4VQ) | 5:39 |
+| 42 | [Imaginary Friend](https://open.spotify.com/track/3UJtYt80oyV9oHS7YemxnZ) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Imaginary Friend](https://open.spotify.com/album/7zruNgHAbhS7yI1bYbERpv) | 4:46 |
 | 43 | [Warriors Of The Sea](https://open.spotify.com/track/4v43w0RfWBs2dPUAHaiTf7) | [Doro](https://open.spotify.com/artist/5GLeyUhj8B8f5pJxqZllKl) | [Warriors Of The Sea](https://open.spotify.com/album/4cxENbFoE4iuayIPsz8MSo) | 4:20 |
 | 44 | [FiiRE](https://open.spotify.com/track/3cBXkCnguNwiOkzZbheOvk) | [MADANii](https://open.spotify.com/artist/1RzGXB2manO8IeUxrPSG4f) | [BiiLINGUAL](https://open.spotify.com/album/3pEd1BiDvPjSjFSWff5z7t) | 3:36 |
 | 45 | [This Time](https://open.spotify.com/track/4r4VfrGShdNq1uf0lHBWoC) | [Lener](https://open.spotify.com/artist/4z6eCRDaL8dNvotGKlPhoS) | [This Time](https://open.spotify.com/album/2afefi75vyKcOS52Ht520I) | 3:13 |
 | 46 | [Sternschnuppe](https://open.spotify.com/track/3FnD5COGtGg6ORDsoKxoEn) | [LIÄN](https://open.spotify.com/artist/66lqRDCF3RB3kxtuLTaow3) | [Sternschnuppe](https://open.spotify.com/album/0fnxxDF8kBCyWTPEF0OJ57) | 2:29 |
 | 47 | [Water Your Plants!](https://open.spotify.com/track/1DKc3IfxmLdSuTFU5gZp34) | [Brosie](https://open.spotify.com/artist/1BhHfoVYBG9UF75NYr61RB) | [Water Your Plants!](https://open.spotify.com/album/0NX7nE3wc8Ujw4O4nboZv3) | 2:58 |
 | 48 | [Boys Club](https://open.spotify.com/track/1BOx5dccNvhnv0udC3QAye) | [Batbait](https://open.spotify.com/artist/1PGFrlFMjm2RIi2ndQ0lHG) | [Boys Club](https://open.spotify.com/album/08QXYglCJqvNFPrfYyCyth) | 3:10 |
-| 49 | [Herbst](https://open.spotify.com/track/6w0OvLIbLYyduR2rbhyihi) | [MODULAR](https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot) | [Lonely Hearts Club](https://open.spotify.com/album/4cdlmbig8FesnkktsYU8N8) | 2:49 |
-| 50 | [aufribbeln](https://open.spotify.com/track/2DbX3oaPunzAeNpnBWz5Qy) | [LISABETH](https://open.spotify.com/artist/2LB3CqyRr5ttDlWqGl5CEv) | [aufribbeln](https://open.spotify.com/album/7MtrWPMStCEDdBknw1pfze) | 3:28 |
+| 49 | [aufribbeln](https://open.spotify.com/track/2DbX3oaPunzAeNpnBWz5Qy) | [LISABETH](https://open.spotify.com/artist/2LB3CqyRr5ttDlWqGl5CEv) | [aufribbeln](https://open.spotify.com/album/7MtrWPMStCEDdBknw1pfze) | 3:28 |
+| 50 | [Herbst](https://open.spotify.com/track/6w0OvLIbLYyduR2rbhyihi) | [MODULAR](https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot) | [Lonely Hearts Club](https://open.spotify.com/album/4cdlmbig8FesnkktsYU8N8) | 2:49 |
 
 Snapshot ID: `aEajOQAAAACnR30YJxWmkZGez5c+bj7Y`

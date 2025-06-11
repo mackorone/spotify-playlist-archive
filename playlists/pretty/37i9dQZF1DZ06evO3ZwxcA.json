@@ -1,12 +1,12 @@
 {
   "description": "This is P.O.D.. The essential tracks, all in one playlist.",
-  "num_followers": 74367,
+  "num_followers": 74388,
   "original_name": "This Is P.O.D.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAAA0sQ8LmoyRss/bbmoXAan2",
+  "snapshot_id": "aEYkAAAAAAAFGhzGRvquFvZ6QFv/o13a",
   "tracks": [
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Testify",
+        "url": "https://open.spotify.com/album/5RIaPLtgEKqhRjLO5KHZfo"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 282626,
+      "name": "Roots in Stereo",
+      "url": "https://open.spotify.com/track/41WwJd8ZzllMdQQqp11e6D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "American Sun",
         "url": "https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 186453,
       "name": "They Don't Like It",
       "url": "https://open.spotify.com/track/034PqbW9ySTVrW8q3fKVDL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Testify",
-        "url": "https://open.spotify.com/album/5RIaPLtgEKqhRjLO5KHZfo"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 282626,
-      "name": "Roots in Stereo",
-      "url": "https://open.spotify.com/track/41WwJd8ZzllMdQQqp11e6D"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Murdered Love",
-        "url": "https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "West Coast Rock Steady",
-      "url": "https://open.spotify.com/track/7IHQvpdwkG4jHzG5u4ty4v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SoCal Sessions",
         "url": "https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 229653,
       "name": "No Ordinary Love Song - Acoustic Version",
       "url": "https://open.spotify.com/track/0fMHHSvKYVNJ8mswH55jIv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Murdered Love",
+        "url": "https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "West Coast Rock Steady",
+      "url": "https://open.spotify.com/track/7IHQvpdwkG4jHzG5u4ty4v"
     },
     {
       "added_at": null,

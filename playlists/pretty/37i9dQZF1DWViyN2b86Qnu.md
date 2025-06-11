@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > Incredible tracks from trans, non\-binary, and gender\-fluid artists\. Cover: Beverly Glenn\-Copeland, Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,965 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,959 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 49 | [Prettiest Secret](https://open.spotify.com/track/5YtqndU0RuIAEP1swFJHga) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [More Than That](https://open.spotify.com/album/2hZJvNZNGl3OiliDYaeLlf) | 2:37 |
 | 50 | [Estrogen](https://open.spotify.com/track/2ysmGZWE33tgH9uWUse085) | [Knife Girl](https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L) | [Estrogen](https://open.spotify.com/album/0qPh5Xy3MnB213BYGmKCwE) | 3:38 |
 
-Snapshot ID: `AAAAAEApY612as+KcE0UFKGawynhrBL8`
+Snapshot ID: `aDx/mQAAAAC+S0cV8jpTGcmIc1eoDtQR`

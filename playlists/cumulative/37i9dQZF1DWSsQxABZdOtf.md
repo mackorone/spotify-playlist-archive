@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-635 songs - 1 day 12 hr 16 min
+636 songs - 1 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [SHH](https://open.spotify.com/track/3r84d0ft0N8A1Su1rsCOCq) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [SHH](https://open.spotify.com/album/053MseQgY8vInhLC3CximX) | 1:34 | 2024-06-12 | 2024-09-19 |
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-11-18 | 2023-03-18 |
 | [SHOOTING STAR](https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SHOOTING STAR](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) | 3:23 | 2023-03-16 | 2023-08-18 |
+| [Shot Caller](https://open.spotify.com/track/7wCY9HLLNECM1DxO3Mz6CK) | [Nina Las Vegas](https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ), [Swick](https://open.spotify.com/artist/5VNkkC3qDvK5k5qtfEaEID), [Zanillya](https://open.spotify.com/artist/525tLjcAVmE8JpqncIAD7p) | [Shot Caller](https://open.spotify.com/album/1ZagA41DDTxulo2jWZzrmF) | 2:49 | 2025-06-10 |  |
 | [SHY SOL](https://open.spotify.com/track/4wkjQB79jPEx7eJ5Gm6RbG) | [JUPiTA](https://open.spotify.com/artist/6FzRUaQAw1wDZe3qhVmhht) | [iO.](https://open.spotify.com/album/2L7f5LhpY3gFKBIZRDaKly) | 4:07 | 2025-02-28 |  |
 | [SIRENA](https://open.spotify.com/track/48IwcOwqbUna819uOmjSO9) | [Ivohé](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [SIRENA](https://open.spotify.com/album/7xZ1LHpgrNngxvjnUsFs76) | 3:27 | 2023-02-13 | 2023-08-18 |
 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 | 2023-08-17 | 2024-02-21 |

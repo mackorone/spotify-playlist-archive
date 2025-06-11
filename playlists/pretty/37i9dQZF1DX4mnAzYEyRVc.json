@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Sondaschule",
-  "num_followers": 60708,
+  "num_followers": 60731,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2025-04-11 06:00:09",
       "album": {
+        "name": "Brass Emo, Vol. 2",
+        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Ocean Avenue",
+      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
+    },
+    {
+      "added_at": "2025-04-11 06:00:09",
+      "album": {
         "name": "Salida 32",
         "url": "https://open.spotify.com/album/236QUbOHOXCb4gosnr1gsD"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 187040,
       "name": "Salida 32",
       "url": "https://open.spotify.com/track/6tWkhkZ7SHR3fDyX058p2s"
-    },
-    {
-      "added_at": "2025-04-11 06:00:09",
-      "album": {
-        "name": "Brass Emo, Vol. 2",
-        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Ocean Avenue",
-      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
     },
     {
       "added_at": "2025-04-11 06:00:09",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2025-04-11 06:00:09",
       "album": {
+        "name": "Estacional",
+        "url": "https://open.spotify.com/album/5wU8q6gfYE2aQDxTMRULGt"
+      },
+      "artists": [
+        {
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/0Ie0046Cnewwp8bKCZlDPA"
+    },
+    {
+      "added_at": "2025-04-11 06:00:09",
+      "album": {
         "name": "Paz y Baile",
         "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 218750,
       "name": "Paz y Baile",
       "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
-    },
-    {
-      "added_at": "2025-04-11 06:00:09",
-      "album": {
-        "name": "Estacional",
-        "url": "https://open.spotify.com/album/5wU8q6gfYE2aQDxTMRULGt"
-      },
-      "artists": [
-        {
-          "name": "Timo Pacheco",
-          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Tengo Miedo",
-      "url": "https://open.spotify.com/track/0Ie0046Cnewwp8bKCZlDPA"
     },
     {
       "added_at": "2025-04-11 06:00:09",

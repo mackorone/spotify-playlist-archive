@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: Mark Morton",
-  "num_followers": 89704,
+  "num_followers": 89731,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
-        "name": "She Runs Hot",
-        "url": "https://open.spotify.com/album/26WQ4szhge6FtRZgWqR8bn"
-      },
-      "artists": [
-        {
-          "name": "Ghost Hounds",
-          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
-        }
-      ],
-      "duration_ms": 187352,
-      "name": "She Runs Hot",
-      "url": "https://open.spotify.com/track/5fLAUOUVivK8tXyI5m7zkl"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
         "name": "Religiously. The Album.",
         "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 168658,
       "name": "God\u2019s Gonna Cut You Down",
       "url": "https://open.spotify.com/track/5Qt4tTjY5bjhKa3OGNVP2J"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
+        "name": "She Runs Hot",
+        "url": "https://open.spotify.com/album/26WQ4szhge6FtRZgWqR8bn"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "duration_ms": 187352,
+      "name": "She Runs Hot",
+      "url": "https://open.spotify.com/track/5fLAUOUVivK8tXyI5m7zkl"
     },
     {
       "added_at": "2025-04-21 21:56:35",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
-        "name": "Break My Heart",
-        "url": "https://open.spotify.com/album/1wOvsBCKijqgU7cFkkDHOq"
-      },
-      "artists": [
-        {
-          "name": "Them Dirty Roses",
-          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
-        }
-      ],
-      "duration_ms": 254082,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/3njCj24qFzep7tAhiJSYTZ"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
         "name": "Won't Take Me Alive",
         "url": "https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 225596,
       "name": "Won't Take Me Alive",
       "url": "https://open.spotify.com/track/18zG4sti0gnHNnobLOBjmr"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
+        "name": "Break My Heart",
+        "url": "https://open.spotify.com/album/1wOvsBCKijqgU7cFkkDHOq"
+      },
+      "artists": [
+        {
+          "name": "Them Dirty Roses",
+          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
+        }
+      ],
+      "duration_ms": 254082,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/3njCj24qFzep7tAhiJSYTZ"
     },
     {
       "added_at": "2025-04-21 21:56:35",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
-        "name": "Tell Me Why",
-        "url": "https://open.spotify.com/album/2sBcoEEW3X9UJLPKoyWx7l"
-      },
-      "artists": [
-        {
-          "name": "Danny Worsnop",
-          "url": "https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW"
-        }
-      ],
-      "duration_ms": 186764,
-      "name": "Tell Me Why",
-      "url": "https://open.spotify.com/track/6I6RTCNLWEtstBAc9A3Fin"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
         "name": "Bricks",
         "url": "https://open.spotify.com/album/6fQDqpUjTb5BZ1DEs25zdd"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
-        "name": "A Bad Hand",
-        "url": "https://open.spotify.com/album/6b67OZDuDlK6iJkGvxjmfd"
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/2sBcoEEW3X9UJLPKoyWx7l"
       },
       "artists": [
         {
-          "name": "Them Dirty Roses",
-          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
+          "name": "Danny Worsnop",
+          "url": "https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW"
         }
       ],
-      "duration_ms": 220852,
-      "name": "A Bad Hand",
-      "url": "https://open.spotify.com/track/3upRSam0eJrJWhcRVbLXHS"
+      "duration_ms": 186764,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/6I6RTCNLWEtstBAc9A3Fin"
     },
     {
       "added_at": "2025-04-21 21:56:35",
@@ -747,6 +731,22 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
+        "name": "A Bad Hand",
+        "url": "https://open.spotify.com/album/6b67OZDuDlK6iJkGvxjmfd"
+      },
+      "artists": [
+        {
+          "name": "Them Dirty Roses",
+          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
+        }
+      ],
+      "duration_ms": 220852,
+      "name": "A Bad Hand",
+      "url": "https://open.spotify.com/track/3upRSam0eJrJWhcRVbLXHS"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
         "name": "Nervous",
         "url": "https://open.spotify.com/album/2nzUJkFqobo7AeMczO9v7q"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
-        "name": "Make It Count / Hillbilly Happy",
-        "url": "https://open.spotify.com/album/0HRE5NQJm1eC0XX2drnYuw"
-      },
-      "artists": [
-        {
-          "name": "49 Winchester",
-          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
-        }
-      ],
-      "duration_ms": 240453,
-      "name": "Make It Count",
-      "url": "https://open.spotify.com/track/7z0BmvrHgSvLF8JU7iiE77"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
         "name": "The Outside (Deluxe Album Edition)",
         "url": "https://open.spotify.com/album/2u3UiV0r30VTHiibNNuYXL"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 117667,
       "name": "Til My Heart Don't Beat",
       "url": "https://open.spotify.com/track/0yQHaVoo4kTdzrRgByDkCE"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
+        "name": "Make It Count / Hillbilly Happy",
+        "url": "https://open.spotify.com/album/0HRE5NQJm1eC0XX2drnYuw"
+      },
+      "artists": [
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+        }
+      ],
+      "duration_ms": 240453,
+      "name": "Make It Count",
+      "url": "https://open.spotify.com/track/7z0BmvrHgSvLF8JU7iiE77"
     },
     {
       "added_at": "2025-04-21 21:56:35",

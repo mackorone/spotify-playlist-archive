@@ -4,7 +4,7 @@
 
 > 
 
-412 songs - 1 day 3 hr 21 min
+413 songs - 1 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [CHROMA 005 A.L.O.E](https://open.spotify.com/track/3j9K1iPrnwwPyieemfz2if) | [B.D.B](https://open.spotify.com/artist/6sXF3naVGIqO5axr7EVgPi), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Benjamin Damage](https://open.spotify.com/artist/4erUkZEVS1jXi5kwEtNvjT) | [CHROMA 005](https://open.spotify.com/album/5K2nivvCbKUqr1cBAkei6g) | 5:10 | 2024-08-07 | 2024-11-14 |
 | [CHROMA 008 TANGZ](https://open.spotify.com/track/5CQ8kbCeDFZmASjXzp2I6b) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [CHROMA 008](https://open.spotify.com/album/5V70JZgrMpZ6oZowA3h8Yb) | 5:12 | 2025-01-14 |  |
 | [CHROMA 009 KR36](https://open.spotify.com/track/4aKUZRIOUMo1NIYiF6GC9n) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [Kehina](https://open.spotify.com/artist/3vdW9X7Us4XMYguRhcoiIx), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 009](https://open.spotify.com/album/1xcQTBrYUlKpTj73BQGQKx) | 4:48 | 2025-04-15 |  |
+| [CHROMA 010 BRILLO](https://open.spotify.com/track/7kDzjUYcQ1Gi1u2zWeXwY0) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 010](https://open.spotify.com/album/3Ny8QJii9zz7d3Qs4I8WmB) | 4:31 | 2025-06-10 |  |
 | [Circle Back Around](https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Circle Back Around](https://open.spotify.com/album/4crvOlmTqKOcYeZkNs3D33) | 3:15 | 2023-02-21 | 2023-10-18 |
 | [Close To You](https://open.spotify.com/track/7AhBjNRySvSEna7yOTxspv) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Close To You](https://open.spotify.com/album/0WWfUDxemDpOuvEERdb189) | 5:41 | 2024-03-05 | 2024-05-29 |
 | [Close Your Eyes](https://open.spotify.com/track/1JkiUUejePFuSJkbCxiOta) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Close Your Eyes](https://open.spotify.com/album/3Em33jXolcIXpBUskbbSiQ) | 6:30 | 2022-02-16 | 2022-07-14 |

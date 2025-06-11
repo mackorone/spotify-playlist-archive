@@ -1,6 +1,6 @@
 {
   "description": "Legendarios del rock en espa\u00f1ol.",
-  "num_followers": 4277765,
+  "num_followers": 4277687,
   "original_name": "Rock en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-06-04 19:12:33",
       "album": {
-        "name": "El Grito Del Tiempo",
-        "url": "https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3"
-      },
-      "artists": [
-        {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
-        }
-      ],
-      "duration_ms": 235626,
-      "name": "En alg\u00fan lugar",
-      "url": "https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu"
-    },
-    {
-      "added_at": "2024-06-04 19:12:33",
-      "album": {
         "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
         "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 194080,
       "name": "Devu\u00e9lveme a mi chica",
       "url": "https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"
+    },
+    {
+      "added_at": "2024-06-04 19:12:33",
+      "album": {
+        "name": "El Grito Del Tiempo",
+        "url": "https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 235626,
+      "name": "En alg\u00fan lugar",
+      "url": "https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu"
     },
     {
       "added_at": "2024-06-04 19:12:33",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-06-04 19:12:33",
       "album": {
-        "name": "Los Abuelos De La Nada 1 (1994 Remastered Version)",
-        "url": "https://open.spotify.com/album/6IwPxvK4pVWKt6HBCmXh8h"
-      },
-      "artists": [
-        {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
-        }
-      ],
-      "duration_ms": 167213,
-      "name": "Mil Horas - 1994 Remastered Version",
-      "url": "https://open.spotify.com/track/4pHdHimCLvD4nx8lh6uQyx"
-    },
-    {
-      "added_at": "2024-06-04 19:12:33",
-      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 267226,
       "name": "Kumbala",
       "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
+    },
+    {
+      "added_at": "2024-06-04 19:12:33",
+      "album": {
+        "name": "Los Abuelos De La Nada 1 (1994 Remastered Version)",
+        "url": "https://open.spotify.com/album/6IwPxvK4pVWKt6HBCmXh8h"
+      },
+      "artists": [
+        {
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+        }
+      ],
+      "duration_ms": 167213,
+      "name": "Mil Horas - 1994 Remastered Version",
+      "url": "https://open.spotify.com/track/4pHdHimCLvD4nx8lh6uQyx"
     },
     {
       "added_at": "2024-06-04 19:12:33",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-06-04 19:12:33",
       "album": {
-        "name": "El Primer Instinto",
-        "url": "https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL"
-      },
-      "artists": [
-        {
-          "name": "Jaguares",
-          "url": "https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq"
-        }
-      ],
-      "duration_ms": 206133,
-      "name": "Te Lo Pido por Favor",
-      "url": "https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M"
-    },
-    {
-      "added_at": "2024-06-04 19:12:33",
-      "album": {
         "name": "La Ley MTV Unplugged",
         "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 288066,
       "name": "Mentira",
       "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
+    },
+    {
+      "added_at": "2024-06-04 19:12:33",
+      "album": {
+        "name": "El Primer Instinto",
+        "url": "https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL"
+      },
+      "artists": [
+        {
+          "name": "Jaguares",
+          "url": "https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq"
+        }
+      ],
+      "duration_ms": 206133,
+      "name": "Te Lo Pido por Favor",
+      "url": "https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M"
     },
     {
       "added_at": "2024-06-04 19:12:33",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-06-04 19:12:33",
       "album": {
-        "name": "Locura",
-        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 316426,
-      "name": "Luna de Miel en la Mano",
-      "url": "https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv"
-    },
-    {
-      "added_at": "2024-06-04 19:12:33",
-      "album": {
         "name": "Coleccion Suprema",
         "url": "https://open.spotify.com/album/62mYqA8S00dcrD42jmml86"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 298226,
       "name": "Estrechez De Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4oR2kX5BI50GBnQGRdRRsM"
+    },
+    {
+      "added_at": "2024-06-04 19:12:33",
+      "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 316426,
+      "name": "Luna de Miel en la Mano",
+      "url": "https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv"
     },
     {
       "added_at": "2024-06-04 19:12:33",
@@ -1035,6 +1035,22 @@
       "duration_ms": 308946,
       "name": "Lago en el Cielo",
       "url": "https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2"
+    },
+    {
+      "added_at": "2024-06-04 19:12:33",
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi"
+      },
+      "artists": [
+        {
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+        }
+      ],
+      "duration_ms": 194573,
+      "name": "El Duelo",
+      "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
     },
     {
       "added_at": "2024-06-04 19:12:33",
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2024-06-04 19:12:33",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi"
-      },
-      "artists": [
-        {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
-        }
-      ],
-      "duration_ms": 194573,
-      "name": "El Duelo",
-      "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
-    },
-    {
-      "added_at": "2024-06-04 19:12:33",
-      "album": {
         "name": "25 a\u00f1os",
         "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
       },
@@ -1103,22 +1103,6 @@
       "duration_ms": 230693,
       "name": "Pobre so\u00f1ador",
       "url": "https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW"
-    },
-    {
-      "added_at": "2024-06-04 19:12:33",
-      "album": {
-        "name": "Clics Modernos",
-        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 206720,
-      "name": "Nos Siguen Pegando Abajo",
-      "url": "https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB"
     },
     {
       "added_at": "2024-06-04 19:12:33",
@@ -1139,6 +1123,22 @@
       "duration_ms": 249306,
       "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
       "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
+    },
+    {
+      "added_at": "2024-06-04 19:12:33",
+      "album": {
+        "name": "Clics Modernos",
+        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 206720,
+      "name": "Nos Siguen Pegando Abajo",
+      "url": "https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB"
     },
     {
       "added_at": "2024-06-04 19:12:33",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-06-04 19:12:33",
       "album": {
-        "name": "Rocanrol Bumerang",
-        "url": "https://open.spotify.com/album/1YIw799VStxgysT27cUGwp"
-      },
-      "artists": [
-        {
-          "name": "Miguel R\u00edos",
-          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Santa Lucia - Remastered 2005",
-      "url": "https://open.spotify.com/track/5bycn7SuJzYnxte0W54mNX"
-    },
-    {
-      "added_at": "2024-06-04 19:12:33",
-      "album": {
         "name": "Uno",
         "url": "https://open.spotify.com/album/0cbMRBnrfgHOfy8O5qRxcK"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 284933,
       "name": "Aqu\u00ed",
       "url": "https://open.spotify.com/track/4aDtCVcQCkR7zYa8jwLciP"
+    },
+    {
+      "added_at": "2024-06-04 19:12:33",
+      "album": {
+        "name": "Rocanrol Bumerang",
+        "url": "https://open.spotify.com/album/1YIw799VStxgysT27cUGwp"
+      },
+      "artists": [
+        {
+          "name": "Miguel R\u00edos",
+          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Santa Lucia - Remastered 2005",
+      "url": "https://open.spotify.com/track/5bycn7SuJzYnxte0W54mNX"
     },
     {
       "added_at": "2024-06-04 19:12:33",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-06-04 19:12:33",
       "album": {
-        "name": "La Flaca - Edici\u00f3n 10\u00ba Aniversario",
-        "url": "https://open.spotify.com/album/52SGUmWz4rcauYwTKIJzBp"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "La flaca",
-      "url": "https://open.spotify.com/track/1MrZ8hGkUWMmT816wPaMgE"
-    },
-    {
-      "added_at": "2024-06-04 19:12:33",
-      "album": {
         "name": "Lo Mejor de Vilma Palma",
         "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 281933,
       "name": "La pachanga",
       "url": "https://open.spotify.com/track/0bIye27QbOvSrTAmCViX5O"
+    },
+    {
+      "added_at": "2024-06-04 19:12:33",
+      "album": {
+        "name": "La Flaca - Edici\u00f3n 10\u00ba Aniversario",
+        "url": "https://open.spotify.com/album/52SGUmWz4rcauYwTKIJzBp"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "La flaca",
+      "url": "https://open.spotify.com/track/1MrZ8hGkUWMmT816wPaMgE"
     },
     {
       "added_at": "2024-06-04 19:12:33",

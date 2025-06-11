@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 
 > Iconic indie tunes from your favourite films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,286 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,290 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 | 34 | [Silhouettes \- From “The Hunger Games: Catching Fire” Soundtrack](https://open.spotify.com/track/2QMLICqo5TTiPv4BPD3N5t) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [The Hunger Games: Catching Fire \(Original Motion Picture Soundtrack / Deluxe Version\)](https://open.spotify.com/album/0SEBE7BfXHY4o9VQICoZOC) | 4:31 |
 | 35 | [Paperweight by Joshua Radin and Schuyler Fisk](https://open.spotify.com/track/7IjL4IoQZMk1dOI4MH1T0i) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Paperweight by Joshua Radin and Schuyler Fisk](https://open.spotify.com/album/1llgroOoPNwILl0RNnHoh7) | 3:24 |
 | 36 | [Sing \- 2012 Remaster](https://open.spotify.com/track/7d1dGY0j55oqOmJFAdmQlR) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Leisure \(Special Edition\)](https://open.spotify.com/album/0cTdvscLZjCTEKxYUlJFwa) | 6:00 |
-| 37 | [Mushaboom](https://open.spotify.com/track/30z3PlzkPYVNUzhpkTT3UY) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/12bMKICVsvDdRlGzpSEKpB) | 3:43 |
-| 38 | [Black Sheep](https://open.spotify.com/track/1CBQ8XGwcu7BcsT8iByvwE) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Scott Pilgrim vs\. the World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3q1e0dxZARuaHxZkLzgErK) | 4:55 |
+| 37 | [Black Sheep](https://open.spotify.com/track/1CBQ8XGwcu7BcsT8iByvwE) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Scott Pilgrim vs\. the World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3q1e0dxZARuaHxZkLzgErK) | 4:55 |
+| 38 | [Mushaboom](https://open.spotify.com/track/30z3PlzkPYVNUzhpkTT3UY) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/12bMKICVsvDdRlGzpSEKpB) | 3:43 |
 | 39 | [Little Motel](https://open.spotify.com/track/1UR0lWHLSCx2naiD7bq9FW) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Were Dead Before The Ship Even Sank](https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz) | 4:44 |
 | 40 | [Trainspotting](https://open.spotify.com/track/3N8p0hzXZ0EF0OoDGFh5G9) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Vanishing Point \(Expanded Edition\)](https://open.spotify.com/album/4VhBLFWE273FyI3rDeNx0A) | 8:04 |
 | 41 | [After Hours](https://open.spotify.com/track/2AgiH9n8cXo0csSkEhByKe) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [Brain Thrust Mastery](https://open.spotify.com/album/4RBBsBIPdyfW1FX5McFxs8) | 3:52 |
-| 42 | [Skeletons](https://open.spotify.com/track/4QDlcd4wAmmXXtKryfTxnO) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz! \(Deluxe Edition\)](https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG) | 5:02 |
-| 43 | [My Rollercoaster \[Juno Film Version\]](https://open.spotify.com/track/1cVoEI9zKLytNGNGM1MVUT) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Juno \- Music From The Motion Picture](https://open.spotify.com/album/3Dm3Kc5oOFtesVJe5TF1HG) | 0:53 |
+| 42 | [My Rollercoaster \[Juno Film Version\]](https://open.spotify.com/track/1cVoEI9zKLytNGNGM1MVUT) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Juno \- Music From The Motion Picture](https://open.spotify.com/album/3Dm3Kc5oOFtesVJe5TF1HG) | 0:53 |
+| 43 | [Skeletons](https://open.spotify.com/track/4QDlcd4wAmmXXtKryfTxnO) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz! \(Deluxe Edition\)](https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG) | 5:02 |
 | 44 | [The Yeah Yeah Yeah Song](https://open.spotify.com/track/2mlIzqDE7RaMaMx1UPdsXL) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [At War With the Mystics](https://open.spotify.com/album/4HAqJpa6YWefRXdLVpk5S6) | 3:52 |
 | 45 | [Set The Fire To The Third Bar](https://open.spotify.com/track/4uhQFwOqe5Vy84bjOB5Zob) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp), [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Eyes Open](https://open.spotify.com/album/5PYva5C1cdwx2PAsOgZBHN) | 3:22 |
 | 46 | [How It Ends](https://open.spotify.com/track/59Ss6VuU0ML2mbb2Px70rt) | [DeVotchKa](https://open.spotify.com/artist/0hk8VgR64voU5ueK96W2DI) | [How It Ends](https://open.spotify.com/album/36gQzGzLViSKZw4tvNbLEh) | 6:59 |

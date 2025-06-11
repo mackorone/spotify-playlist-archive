@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 79684,
+  "num_followers": 79763,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAADgAv7q04oPPU+L2k/mD+Fq",
+  "snapshot_id": "aEYkAAAAAACXGoj23QtJ5ZbNv6XbSdAm",
   "tracks": [
     {
       "added_at": null,
@@ -1135,6 +1135,34 @@
       "duration_ms": 249813,
       "name": "Vivos",
       "url": "https://open.spotify.com/track/10jI01n8w6g41qiIMAcAkb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Antes dos Gigantes Chegarem, Vol. 2",
+        "url": "https://open.spotify.com/album/5Dz9KqHWRNlLHrWpEXcWoc"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        },
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        }
+      ],
+      "duration_ms": 227093,
+      "name": "Almas",
+      "url": "https://open.spotify.com/track/1l2T5EJk8djGStVNwsltCo"
     }
   ],
   "unique_name": "This Is BK",

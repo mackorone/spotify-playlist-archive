@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 
 > This is Nicholas Craven\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608 likes - 46 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 609 likes - 46 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 | 36 | [2 Sides](https://open.spotify.com/track/23HXgFzfHAaoTqlyweimUI) | [Jimmie D](https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC) | [Good Music Hypnotizes](https://open.spotify.com/album/6gRt97VXKvCAti89oAI7LZ) | 2:09 |
 | 37 | [High Winds](https://open.spotify.com/track/7HPDbITY0cS65MntSLdFue) | [Jimmie D](https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Koncept Jack$on](https://open.spotify.com/artist/2SHO0IPq0mfwPxwquNx8Qa) | [High Winds](https://open.spotify.com/album/2sbm3v5x18dG7QoVHTzNUf) | 2:23 |
 | 38 | [American Made](https://open.spotify.com/track/0InAsDsfTZ12eovy8l1itp) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4) | [Deleted Scenes 2](https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ) | 2:23 |
-| 39 | [Final Destination](https://open.spotify.com/track/4OAEMH3QS3o69ww6wKrNQS) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 3:08 |
+| 39 | [Midsommar](https://open.spotify.com/track/6n4hU8yiTKd9vdusec8auo) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 1:09 |
 | 40 | [Commonwealth](https://open.spotify.com/track/1Hm2jBldfKVXxkPgeENjGy) | [Jimmie D](https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Sonnyjim](https://open.spotify.com/artist/7yjhuWL2bXEWGI0IplF6i4) | [Good Music Hypnotizes](https://open.spotify.com/album/6gRt97VXKvCAti89oAI7LZ) | 2:30 |
 | 41 | [Look What You Done](https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 2:14 |
 | 42 | [1000 Mile Stare](https://open.spotify.com/track/2M2bmKIGUboIJk3bDYgIz3) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [1000 Mile Stare](https://open.spotify.com/album/22IbC2lqB6l7aqDXvro9Xz) | 3:18 |
-| 43 | [Eyes Wide Shut](https://open.spotify.com/track/7AkHHkRNWLc9Ytz60MH8lW) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 3:04 |
+| 43 | [Final Destination](https://open.spotify.com/track/4OAEMH3QS3o69ww6wKrNQS) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 3:08 |
 | 44 | [Spring](https://open.spotify.com/track/7z0mAsQSbW6eB9beoVeCGu) | [Jimmie D](https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Good Music Hypnotizes](https://open.spotify.com/album/6gRt97VXKvCAti89oAI7LZ) | 2:33 |
 | 45 | [Peaches and Herb \- Remix](https://open.spotify.com/track/46DS5VcDCIWh54ljkXz2MI) | [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Peaches and Herb \(Remix\)](https://open.spotify.com/album/2fUhrIKAeSXuwdxH5vMcph) | 3:02 |
-| 46 | [Midsommar](https://open.spotify.com/track/6n4hU8yiTKd9vdusec8auo) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 1:09 |
+| 46 | [Eyes Wide Shut](https://open.spotify.com/track/7AkHHkRNWLc9Ytz60MH8lW) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 3:04 |
 
-Snapshot ID: `aETSgAAAAACyBRrzHDUEdn9KgyFUD5RC`
+Snapshot ID: `aEYkAAAAAACw6gAF6twaauAZ8rTezJat`

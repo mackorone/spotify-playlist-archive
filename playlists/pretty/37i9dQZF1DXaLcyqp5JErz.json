@@ -1,6 +1,6 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Gisele Nascimento, Anderson Freire",
-  "num_followers": 612497,
+  "num_followers": 612666,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Nada Al\u00e9m da Gra\u00e7a",
-        "url": "https://open.spotify.com/album/26MpPUKXvsjaCPxwdPvOaV"
-      },
-      "artists": [
-        {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
-        }
-      ],
-      "duration_ms": 271209,
-      "name": "Deus \u00e9 Deus",
-      "url": "https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Advogado Fiel",
         "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 288995,
       "name": "Sou Humano",
       "url": "https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Nada Al\u00e9m da Gra\u00e7a",
+        "url": "https://open.spotify.com/album/26MpPUKXvsjaCPxwdPvOaV"
+      },
+      "artists": [
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+        }
+      ],
+      "duration_ms": 271209,
+      "name": "Deus \u00e9 Deus",
+      "url": "https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -431,22 +431,18 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "At\u00e9 Transbordar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
+        "name": "Cassiane - Gospel Collection Ao Vivo",
+        "url": "https://open.spotify.com/album/6tVasQXY2XtPQXfHRE6eSE"
       },
       "artists": [
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Felippe Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05"
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 271866,
-      "name": "Pra Onde Iremos? (feat. Felippe Valad\u00e3o) - Ao Vivo",
-      "url": "https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18"
+      "duration_ms": 382014,
+      "name": "Com Muito Louvor",
+      "url": "https://open.spotify.com/track/57JAYiwPmU93oowUWKwrEF"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -467,18 +463,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Cassiane - Gospel Collection Ao Vivo",
-        "url": "https://open.spotify.com/album/6tVasQXY2XtPQXfHRE6eSE"
+        "name": "At\u00e9 Transbordar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
       },
       "artists": [
         {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Felippe Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05"
         }
       ],
-      "duration_ms": 382014,
-      "name": "Com Muito Louvor",
-      "url": "https://open.spotify.com/track/57JAYiwPmU93oowUWKwrEF"
+      "duration_ms": 271866,
+      "name": "Pra Onde Iremos? (feat. Felippe Valad\u00e3o) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Compromisso",
-        "url": "https://open.spotify.com/album/2RwmrTMOiwryGW3DaDnhG8"
+        "name": "Consagra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
       },
       "artists": [
         {
-          "name": "R\u00e9gis Danese",
-          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 319924,
-      "name": "Faz Um Milagre em Mim",
-      "url": "https://open.spotify.com/track/0Z2PZbBFTJDm8ZQIakyCh7"
+      "duration_ms": 381318,
+      "name": "Consagra\u00e7\u00e3o / Louvor ao Rei",
+      "url": "https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Consagra\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
+        "name": "Compromisso",
+        "url": "https://open.spotify.com/album/2RwmrTMOiwryGW3DaDnhG8"
       },
       "artists": [
         {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+          "name": "R\u00e9gis Danese",
+          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
         }
       ],
-      "duration_ms": 381318,
-      "name": "Consagra\u00e7\u00e3o / Louvor ao Rei",
-      "url": "https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L"
+      "duration_ms": 319924,
+      "name": "Faz Um Milagre em Mim",
+      "url": "https://open.spotify.com/track/0Z2PZbBFTJDm8ZQIakyCh7"
     },
     {
       "added_at": "2024-11-29 03:01:00",

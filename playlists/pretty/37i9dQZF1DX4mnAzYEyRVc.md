@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Sondaschule
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,708 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,731 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 71 | [Spanish Bombs](https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Contra\-Revolucion Avenue](https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2) | 3:02 |
 | 72 | [Marchez](https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE) | [The Offenders](https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob) | [Class of Nations](https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1) | 3:11 |
 | 73 | [Contigo Estaré Bien](https://open.spotify.com/track/7jxoIjsqigNBPTQ9QY1Jin) | [Juantxo Skalari & La Rude Band](https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb) | [Rude Station](https://open.spotify.com/album/5Il8lM2h0OKIKGwrbFlceQ) | 3:12 |
-| 74 | [Salida 32](https://open.spotify.com/track/6tWkhkZ7SHR3fDyX058p2s) | [Funambulista](https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Salida 32](https://open.spotify.com/album/236QUbOHOXCb4gosnr1gsD) | 3:07 |
-| 75 | [Ocean Avenue](https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Brass Emo, Vol\. 2](https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a) | 3:13 |
+| 74 | [Ocean Avenue](https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Brass Emo, Vol\. 2](https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a) | 3:13 |
+| 75 | [Salida 32](https://open.spotify.com/track/6tWkhkZ7SHR3fDyX058p2s) | [Funambulista](https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Salida 32](https://open.spotify.com/album/236QUbOHOXCb4gosnr1gsD) | 3:07 |
 | 76 | [Sleepin' on the Couch \(with The Elovaters\)](https://open.spotify.com/track/7hshPrDYRXYIpOCmHRMBhM) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ), [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [Shellshock](https://open.spotify.com/album/1UWTes4uVkRcGJeEKCBw4x) | 4:08 |
 | 77 | [Tania](https://open.spotify.com/track/3HOTLjTf8JBpzTCcwHvhv9) | [3 Pemuda Berbahaya](https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z), [Sallsa Bintan](https://open.spotify.com/artist/3iqKTNNCTLOh6MScaCFut7) | [Tania](https://open.spotify.com/album/5FadqUvau1HuWFisyucP3F) | 4:21 |
 | 78 | [Lo Que Tú Me Das \- Gracias](https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Canciones De Amor, Y Un Remedio Pa'l Corazón](https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha) | 3:02 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 85 | [Zombiler](https://open.spotify.com/track/1IW6yBz7CH4oN7csJxl9Oz) | [Second](https://open.spotify.com/artist/0hB4oP2Xs7bmAb3W5dHwsi) | [Zombiler](https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z) | 3:26 |
 | 86 | [Don't Worry, Be Happy](https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb) | [The Busters](https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB) | [Ruder Than Rude](https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU) | 2:57 |
 | 87 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
-| 88 | [Paz y Baile](https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P) | [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Flavio Cianciarulo](https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3) | [Paz y Baile](https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr) | 3:38 |
-| 89 | [Tengo Miedo](https://open.spotify.com/track/0Ie0046Cnewwp8bKCZlDPA) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [Estacional](https://open.spotify.com/album/5wU8q6gfYE2aQDxTMRULGt) | 3:17 |
+| 88 | [Tengo Miedo](https://open.spotify.com/track/0Ie0046Cnewwp8bKCZlDPA) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [Estacional](https://open.spotify.com/album/5wU8q6gfYE2aQDxTMRULGt) | 3:17 |
+| 89 | [Paz y Baile](https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P) | [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Flavio Cianciarulo](https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3) | [Paz y Baile](https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr) | 3:38 |
 | 90 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
 | 91 | [Devil With a Microphone](https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF) | [Random Hand](https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb) | [Random Hand](https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC) | 3:12 |
 | 92 | [Don\`t Worry Be Happy](https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Don't Worry Be Happy](https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY) | 3:45 |

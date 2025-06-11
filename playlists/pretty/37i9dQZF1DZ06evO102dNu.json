@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1210469,
+  "num_followers": 1210549,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAAB9kQhoQGEO7qxdo6V5pvqM",
+  "snapshot_id": "aEYkAAAAAACh+rC9sXFpKMIqBb6Wh6tl",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinatra's Sinatra",
-        "url": "https://open.spotify.com/album/3HBuwtSVm028hyFuwuTiJ5"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "Young At Heart",
-      "url": "https://open.spotify.com/track/0QbRfr3pJtHGxhIpIMYmbN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinatra's Swingin' Session!!! And More (Remastered / Expanded Edition)",
         "url": "https://open.spotify.com/album/0rnnzYSJbxKoxcp9U5I2zF"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 120333,
       "name": "When You're Smiling (The Whole World Smiles With You) - 1999 Remastered",
       "url": "https://open.spotify.com/track/4v79iygQ4tRn5GDwxDEN45"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinatra's Sinatra",
+        "url": "https://open.spotify.com/album/3HBuwtSVm028hyFuwuTiJ5"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "Young At Heart",
+      "url": "https://open.spotify.com/track/0QbRfr3pJtHGxhIpIMYmbN"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trilogy: Past, Present & Future",
-        "url": "https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "Theme From New York, New York",
-      "url": "https://open.spotify.com/track/3QksrtI9VFCBHWA4rgvcV8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinatra's Swingin' Session!!! And More (Remastered / Expanded Edition)",
         "url": "https://open.spotify.com/album/0rnnzYSJbxKoxcp9U5I2zF"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 171426,
       "name": "Blue Moon - 1999 Remastered",
       "url": "https://open.spotify.com/track/5RLzsVW6UNiV2YrOlKwzNN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trilogy: Past, Present & Future",
+        "url": "https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Theme From New York, New York",
+      "url": "https://open.spotify.com/track/3QksrtI9VFCBHWA4rgvcV8"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
+        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 181906,
+      "name": "Learnin' The Blues",
+      "url": "https://open.spotify.com/track/6rNOKdqa2lThuBIJOZXSVa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Essential Frank Sinatra with the Tommy Dorsey Orchestra (with Frank Sinatra)",
         "url": "https://open.spotify.com/album/6mcP2ZPyrpMIOrXvSDNQ3g"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 199733,
       "name": "Polka Dots and Moonbeams",
       "url": "https://open.spotify.com/track/0HFWS5C6ThNeuOr10Xz21U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
-        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 181906,
-      "name": "Learnin' The Blues",
-      "url": "https://open.spotify.com/track/6rNOKdqa2lThuBIJOZXSVa"
     },
     {
       "added_at": null,

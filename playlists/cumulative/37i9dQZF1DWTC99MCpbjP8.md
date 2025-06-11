@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-645 songs - 1 day 3 hr 56 min
+647 songs - 1 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Amable](https://open.spotify.com/track/16VZ9OzusJbud7xZsPnq1V) | [Pelagia Calisto](https://open.spotify.com/artist/51V1l6ATUknZWvH8YdRkVv) | [Amable](https://open.spotify.com/album/0fXfiMKFMlS4dQWBRkguej) | 2:12 | 2024-01-08 |  |
 | [Amaryllis](https://open.spotify.com/track/2WaBWRReKqvbWBi2ATw5QE) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Amaryllis](https://open.spotify.com/album/63RlPJTM1SC2knHQtbspf2) | 2:21 | 2022-04-22 | 2023-05-04 |
 | [Amber](https://open.spotify.com/track/31eqVCJgVXYnJa1GkQdJuC) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [Amber](https://open.spotify.com/album/6xc2Dyjtqq4jdwFVTqdHpl) | 3:47 | 2022-04-22 | 2022-09-16 |
-| [Amen](https://open.spotify.com/track/5BE8bT99o4cINi4eISOt2A) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Amen](https://open.spotify.com/album/4gf23gqn48jC8XBcNsOnna) | 2:59 | 2023-08-07 |  |
+| [Amen](https://open.spotify.com/track/5BE8bT99o4cINi4eISOt2A) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Amen](https://open.spotify.com/album/4gf23gqn48jC8XBcNsOnna) | 2:59 | 2023-08-07 | 2025-06-11 |
 | [Amiable](https://open.spotify.com/track/1WNj5OaWzAZyyAeumYFWPn) | [Sonja Elliott](https://open.spotify.com/artist/7kKuC431bgNSQmNpEUBbbr) | [Amiable](https://open.spotify.com/album/3rWRFWT7dErO0kTLSeqgJn) | 2:37 | 2024-03-25 |  |
 | [Amici](https://open.spotify.com/track/1GBNuD6VkNDHXNwL0wgVi2) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Amici](https://open.spotify.com/album/30oMX8LB37YXsinHIph2XI) | 2:08 | 2022-04-22 | 2024-02-14 |
 | [Amongst The Trees](https://open.spotify.com/track/0JwtjSgQzfSPsTNMufSGsT) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Amongst The Trees](https://open.spotify.com/album/4St0VWo6mYaE4zJJ0GuuKO) | 2:45 | 2024-03-04 | 2025-05-30 |
@@ -84,7 +84,7 @@
 | [Borrowed Time](https://open.spotify.com/track/2swEngJC2fSnOIaCDEllJX) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Borrowed Time](https://open.spotify.com/album/2jcvs7NliDYO7R4TLJtQYr) | 2:31 | 2022-07-27 | 2023-01-27 |
 | [Borrowed Time](https://open.spotify.com/track/6sdG0HUpvMNfsOiwtj6E6j) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Borrowed Time](https://open.spotify.com/album/0HkQ5lRS5R77z79ixPpWRL) | 2:31 | 2022-04-22 | 2022-07-29 |
 | [Boundaries](https://open.spotify.com/track/6fcBDcZTZVx1jJAED8KYv0) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Boundaries](https://open.spotify.com/album/2B6kWesA1AyfYfG6VxZN2b) | 2:50 | 2022-04-22 | 2024-04-16 |
-| [branches of hope](https://open.spotify.com/track/0vaiq2ZcMe2rtd7eGqIY8b) | [mandarin + cedar](https://open.spotify.com/artist/5lKC596KgYRuupiQKGr7HF) | [branches of hope](https://open.spotify.com/album/26TKyvjmtbN1vBFX7wlJSQ) | 3:16 | 2023-02-07 |  |
+| [branches of hope](https://open.spotify.com/track/0vaiq2ZcMe2rtd7eGqIY8b) | [mandarin + cedar](https://open.spotify.com/artist/5lKC596KgYRuupiQKGr7HF) | [branches of hope](https://open.spotify.com/album/26TKyvjmtbN1vBFX7wlJSQ) | 3:16 | 2023-02-07 | 2025-06-11 |
 | [Breakwater](https://open.spotify.com/track/0t0ulNuHypcHuCunILTz1G) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [Breakwater](https://open.spotify.com/album/6ZwNvrEiKxnwJxFK8iDXTx) | 2:06 | 2025-02-26 |  |
 | [Breathe](https://open.spotify.com/track/10EePqFwFowFmqDqwyP1qm) | [Jamie McNeal](https://open.spotify.com/artist/74vNtY2P9DwQNltXVislIc) | [Breathe](https://open.spotify.com/album/7JfW3XHvMfeoC4ioGD9FpI) | 2:12 | 2024-04-09 |  |
 | [Briefly](https://open.spotify.com/track/5c32g8ZBUZCClHDb545VQs) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Briefly](https://open.spotify.com/album/0SU6Lu0SRMIe3efMEms6JJ) | 1:58 | 2022-09-15 | 2023-08-15 |
@@ -105,7 +105,7 @@
 | [Closing Stages](https://open.spotify.com/track/45XxWtNAwclSQIBJDUVw6N) | [Marius Notar](https://open.spotify.com/artist/2XBVOEAwFri2h8RpBa2nqT) | [Closing Stages](https://open.spotify.com/album/2uAnT5ZeIyl28nA97aJ9YP) | 2:49 | 2023-03-28 |  |
 | [Closure](https://open.spotify.com/track/4pLt09DV3FFjNTLqbxhJcO) | [Franz Becker](https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t) | [Sweet Nostalgia](https://open.spotify.com/album/6dOBc28si0bRhW0SoQxdR6) | 3:57 | 2022-04-22 | 2022-09-16 |
 | [cold embrace](https://open.spotify.com/track/7edfdEV5G5gJUkiPP6g8AD) | [Gian Marco Castro](https://open.spotify.com/artist/3eKHhTJoTeSu0BNBls4ju6) | [cold embrace](https://open.spotify.com/album/6Bjg1HMdsEf532a4V3AHTF) | 2:57 | 2022-04-22 | 2023-08-15 |
-| [Cold Fire](https://open.spotify.com/track/1C8yK8kQsb2J4wzavoa1gR) | [Lot Gordon](https://open.spotify.com/artist/1Q6LTB4M1mV3SVrtW0ZIWl) | [Cold Fire](https://open.spotify.com/album/3gcMnFOQNITW4ULBIGhpcj) | 3:01 | 2023-09-18 |  |
+| [Cold Fire](https://open.spotify.com/track/1C8yK8kQsb2J4wzavoa1gR) | [Lot Gordon](https://open.spotify.com/artist/1Q6LTB4M1mV3SVrtW0ZIWl) | [Cold Fire](https://open.spotify.com/album/3gcMnFOQNITW4ULBIGhpcj) | 3:01 | 2023-09-18 | 2025-06-11 |
 | [Colorado Nights](https://open.spotify.com/track/6CTYTP3Kb3TKDLurnsPcOP) | [Lander Jacobson](https://open.spotify.com/artist/3loblVZXbtYpTvNtkp4V1s) | [Colorado Nights](https://open.spotify.com/album/3CqYjTyGVynO1zpNagTctc) | 2:50 | 2022-04-22 | 2024-03-20 |
 | [Comfort](https://open.spotify.com/track/2Vi2f6Hf11vYsoov4Z9HWe) | [Gabriela Ohm](https://open.spotify.com/artist/3UvBxuvjgjOfzdIM84Pm2g) | [Comfort](https://open.spotify.com/album/49QcBTDwd5jQbAyvcgXZhr) | 3:01 | 2024-08-07 | 2025-05-15 |
 | [Compass](https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Compass](https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv) | 2:20 | 2022-04-22 | 2024-11-07 |
@@ -180,7 +180,7 @@
 | [Feeling Free](https://open.spotify.com/track/6kbvb0UyWZVvmKjSIQJzRe) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [Feeling Free](https://open.spotify.com/album/6GsuHsBee1V5VZLEQMRMaB) | 2:06 | 2022-04-22 | 2023-01-27 |
 | [Felt Improv No\. 25](https://open.spotify.com/track/4jklfyp9aW2xX8oUp7Z8gA) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 25](https://open.spotify.com/album/683ttioDjnQMeIgqQC2gfM) | 2:55 | 2022-04-22 | 2023-01-27 |
 | [fields of forever \- sleep rework](https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [fields of forever \(sleep rework\)](https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS) | 3:41 | 2023-02-20 |  |
-| [Filigree](https://open.spotify.com/track/59nGO5jYiozyEG87wUuUqU) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Filigree](https://open.spotify.com/album/6mRKNvVgv05PvVulU2mHsM) | 2:32 | 2025-01-15 |  |
+| [Filigree](https://open.spotify.com/track/59nGO5jYiozyEG87wUuUqU) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Filigree](https://open.spotify.com/album/6mRKNvVgv05PvVulU2mHsM) | 2:32 | 2025-01-15 | 2025-06-11 |
 | [Finding Peace](https://open.spotify.com/track/3N1hgEodmOmy4yVexeoXah) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [Finding Peace](https://open.spotify.com/album/3UBjil8VBvpkL9qub4syby) | 2:40 | 2023-08-21 | 2025-05-15 |
 | [Fiorire](https://open.spotify.com/track/1nxWCkjlOdwRwyROs99UNv) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Ariosa](https://open.spotify.com/album/0YzXa9BR1O17eoFmKmSded) | 2:57 | 2022-04-22 | 2023-05-10 |
 | [Fireside](https://open.spotify.com/track/5Si7lQfzTcOs55xiXgBxS9) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Fireside](https://open.spotify.com/album/0GonTZsFfeSeAcpTxJDZxU) | 2:13 | 2024-01-08 |  |
@@ -267,7 +267,7 @@
 | [Just a Thought](https://open.spotify.com/track/0yoaGTIVmywSYedV1YsIhG) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Just a Thought](https://open.spotify.com/album/2ThuoXpPbWohcnLD3na9SP) | 2:34 | 2022-04-22 | 2022-07-28 |
 | [Keepsakes](https://open.spotify.com/track/6KH1ipvlKEfafZOSXR5nwm) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [Keepsakes](https://open.spotify.com/album/0VOvPEYdsYbzHwrLabGK8E) | 2:46 | 2023-02-07 | 2023-08-15 |
 | [Kiruna](https://open.spotify.com/track/7FIIDU8NgQSsVPPZOQa3Hu) | [Sverker Johansson](https://open.spotify.com/artist/01Enhg7P7vObcpQjxL2Lrj) | [Kiruna](https://open.spotify.com/album/1YVlg8DLYswEs5oCdm57IU) | 2:39 | 2022-05-27 | 2025-05-15 |
-| [Kragerø](https://open.spotify.com/track/7nPNz869TJHvmEgJjH4290) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [Kragerø](https://open.spotify.com/album/5TkRRcAfYAsDBCKo3kUMpx) | 2:22 | 2024-01-09 |  |
+| [Kragerø](https://open.spotify.com/track/7nPNz869TJHvmEgJjH4290) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [Kragerø](https://open.spotify.com/album/5TkRRcAfYAsDBCKo3kUMpx) | 2:22 | 2024-01-09 | 2025-06-11 |
 | [Kveld](https://open.spotify.com/track/4qoa4ULtvmDz6JjGdiPqj0) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Kveld](https://open.spotify.com/album/0n6oSeXcZOyfdmdnnfm0xl) | 2:00 | 2022-04-22 | 2023-05-10 |
 | [Lady Ground](https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Lady Ground](https://open.spotify.com/album/2yFKE5lcraojoSTsV7Jl0a) | 2:54 | 2022-04-22 | 2024-04-16 |
 | [Laetitia](https://open.spotify.com/track/39e67SWLFobtjgr1S10iYE) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Laetitia](https://open.spotify.com/album/2MeED0qq5A14TCiVU2UNdn) | 1:57 | 2022-04-22 | 2023-08-15 |
@@ -284,6 +284,7 @@
 | [Les pavillons des délaissés](https://open.spotify.com/track/4lSyzEUY0pxWWJrhnLiyUC) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Les pavillons des délaissés](https://open.spotify.com/album/0vK08Lh4PcuujemvwSpfKW) | 2:28 | 2024-04-15 |  |
 | [Les Soir](https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Les Soir](https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m) | 2:24 | 2023-06-19 |  |
 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 | 2022-04-22 | 2023-03-29 |
+| [Light](https://open.spotify.com/track/4XOrreh4CufJwuUg3p7DuR) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Light](https://open.spotify.com/album/67fKGoAizybPTMM2l27bpP) | 2:47 | 2025-06-10 |  |
 | [Light From the Stars](https://open.spotify.com/track/6gdfuIxnmyRMpca7pP7ok5) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Light From the Stars](https://open.spotify.com/album/6mjBBRGkUO8dyMFtw56OGn) | 1:52 | 2024-07-29 | 2025-04-02 |
 | [Like a Child](https://open.spotify.com/track/2J9UTgDdul3kMGZgnsUZIp) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Like a Child](https://open.spotify.com/album/4RF4Nz20dvgZUk2iSXbddV) | 2:35 | 2022-04-22 | 2024-10-09 |
 | [Like Before](https://open.spotify.com/track/27An0sDvzMb7GM6pRE9ycF) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Like Before](https://open.spotify.com/album/2XnJ6Gy388bHlx1rikNI4p) | 2:15 | 2022-07-27 | 2024-02-14 |
@@ -340,6 +341,7 @@
 | [Monuments](https://open.spotify.com/track/3UuRldDkQBgFmEkgWG42Ge) | [Daníel Fannar](https://open.spotify.com/artist/5N36wGewpkol8rMbwxx0nj) | [Monuments](https://open.spotify.com/album/0vq2GgBYof806maqlWvTky) | 2:48 | 2022-04-22 | 2023-01-27 |
 | [Morning Air](https://open.spotify.com/track/75yhwBaQZoBOt5XeX1Dm6E) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Morning Air](https://open.spotify.com/album/6r5cXVhPeNalnSEgIupUcj) | 2:57 | 2022-04-22 | 2023-01-27 |
 | [Morning Song](https://open.spotify.com/track/0CSW0V2PU9WOEbxBkltPio) | [Melody of Sound](https://open.spotify.com/artist/1jbj3bUyRhQ8FqU55nERZ4) | [Morning Song](https://open.spotify.com/album/0oXikKT6FVhUyV4ASmXF19) | 2:09 | 2022-04-22 | 2023-05-04 |
+| [Morning Sun](https://open.spotify.com/track/6mlqTL4FdN645uNsvnblcD) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [Morning Sun](https://open.spotify.com/album/1xnzCbETLtHNY7GF5ldEtl) | 2:26 | 2025-06-10 |  |
 | [Mornings](https://open.spotify.com/track/1iWqz6adg6vBQDBub0xHLc) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Flor](https://open.spotify.com/album/1spCAAyAm46YalU3LbjT8s) | 1:54 | 2023-01-26 | 2023-08-15 |
 | [Mornings With You](https://open.spotify.com/track/1eJ4ZttuJo0O4hFTVUbT1t) | [Noella Russo](https://open.spotify.com/artist/2zgddkOsrXf0cnPquq6N59) | [Mornings With You](https://open.spotify.com/album/0XxTFCTiJE90ttX2klGpMf) | 2:19 | 2024-03-19 | 2025-05-15 |
 | [Mother](https://open.spotify.com/track/7cewGJQD5mApwm7C4O4CJg) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [Mother](https://open.spotify.com/album/7G0zM5Kc1VMsLPS58RvPku) | 2:46 | 2022-04-22 | 2023-04-19 |

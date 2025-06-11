@@ -4,7 +4,7 @@
 
 > Best of Haryanvi Hip\-Hop! Cover: Sumit Parta
 
-429 songs - 22 hr 1 min
+430 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Brand New](https://open.spotify.com/track/5hDKa4HzGxhnLGO6vnc3pA) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Shiva Choudhary](https://open.spotify.com/artist/3KOSRNy74RLnTAFn0u1tmN), [Love Kataria](https://open.spotify.com/artist/68Zi4yF7GdesbYgTEEZPDZ), [Sshiv](https://open.spotify.com/artist/6NyXhJPrcOKVowHPoP5AQA) | [Brand New](https://open.spotify.com/album/2dj8GXKlijOBhPcY9DXY2k) | 1:50 | 2023-11-06 | 2024-08-20 |
 | [Brownie](https://open.spotify.com/track/4seQ9Xo3qCKmM8Yt6PL2Hl) | [Kaka WRLD](https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv), [Dhruv Balyan](https://open.spotify.com/artist/1xG2KakaKLMD1hrVHryZTw) | [Brownie](https://open.spotify.com/album/4wW8unHhh5oJsGkjKAm2RV) | 2:44 | 2023-03-28 | 2023-04-11 |
 | [Bum Bum](https://open.spotify.com/track/3iEFn2t4LQtZx52VO0FHJg) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Bum Bum](https://open.spotify.com/album/0M0GX1S7u34MG770aEfiVl) | 3:07 | 2025-01-31 | 2025-03-29 |
+| [Bum Bum](https://open.spotify.com/track/1MUmEGwf1DjPYiB6KPFzAJ) | [RC Magnum](https://open.spotify.com/artist/6tOvJBGkAKjTULntyXRidT) | [Say Hi To The Bad Guy](https://open.spotify.com/album/5UMlg34i0hLvYtW552rN4p) | 2:30 | 2025-06-10 |  |
 | [Cash Cash](https://open.spotify.com/track/4M60JVJPqNzIkJy4V6Jfi1) | [Krish Rao](https://open.spotify.com/artist/0iwEynjG3vgrTK0dj5QHxl), [Jai](https://open.spotify.com/artist/0mNpRIxJZqQmcB0UCTU59S) | [Cash Cash](https://open.spotify.com/album/4s9fLpsGNYr0OlD8oJRvbS) | 2:19 | 2025-04-25 |  |
 | [Chache Tau Aale](https://open.spotify.com/track/44NtvMhVrYIPljvDcH6rOv) | [CK Nara](https://open.spotify.com/artist/1TFtilwVj1KoItcly7EVHH) | [Chache Tau Aale](https://open.spotify.com/album/7dyzqhPT2GEcfhsBXSmFBd) | 2:16 | 2025-05-20 |  |
 | [Chadh Chadh ke](https://open.spotify.com/track/0ePcqkdh2G3L8SlpxiiRTy) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [Chadh Chadh ke](https://open.spotify.com/album/5owDV9tN5oB4fge2YQTUsI) | 3:25 | 2024-08-30 | 2025-02-16 |
@@ -161,7 +162,7 @@
 | [Ghaav](https://open.spotify.com/track/0E88ez0AnFBNkcMEcO9wAa) | [Guru Gera](https://open.spotify.com/artist/5MobrF9MFJPxc05F8p3Boa), [Its Aghori](https://open.spotify.com/artist/3z4OZpcpWVOxzPuGeuEWgr) | [Ghaav](https://open.spotify.com/album/7LQxbxLKaennHRN23E6Soi) | 2:56 | 2023-09-08 | 2023-09-28 |
 | [Ghana Kasoota \(feat\. Surbhi Jyoti\)](https://open.spotify.com/track/0mvcsYusnTYlAkOZ077lDb) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Surbhi Jyoti](https://open.spotify.com/artist/0ZwLuYX3Fe14PhonPeqd5X) | [Ghana Kasoota \(feat\. Surbhi Jyoti\)](https://open.spotify.com/album/5wNK25BcVubz95drmXiBCZ) | 2:48 | 2023-10-06 |  |
 | [Ghane Gande](https://open.spotify.com/track/1rWSLMe0neIBRZi15GgfY6) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr) | [Ghane Gande](https://open.spotify.com/album/5GghzJpDq0yvH3YE0jiAWJ) | 2:56 | 2025-01-24 |  |
-| [Ghani Der Hogi](https://open.spotify.com/track/6EX1udGZhfia6Cz3nlHJtw) | [Rigul](https://open.spotify.com/artist/7vlWwl8xvyQdLQabfdb9wv), [Yawar](https://open.spotify.com/artist/2IWAyq4Hd0rT9lbDDI3u1y), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Ghani Der Hogi](https://open.spotify.com/album/5Fg1aPjCOS6nCOptr1ureK) | 2:20 | 2025-05-09 |  |
+| [Ghani Der Hogi](https://open.spotify.com/track/6EX1udGZhfia6Cz3nlHJtw) | [Rigul](https://open.spotify.com/artist/7vlWwl8xvyQdLQabfdb9wv), [Yawar](https://open.spotify.com/artist/2IWAyq4Hd0rT9lbDDI3u1y), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Ghani Der Hogi](https://open.spotify.com/album/5Fg1aPjCOS6nCOptr1ureK) | 2:20 | 2025-05-09 | 2025-06-11 |
 | [Ghani Syaani](https://open.spotify.com/track/1Cb0T2tnApa38jg8DOUF0B) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Shehnaaz Gill](https://open.spotify.com/artist/1opCEf85NTZSE7YkxLCvmV), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Ghani Syaani](https://open.spotify.com/album/6XMfzJDG7d0IedtJLfWDdc) | 3:33 | 2023-03-28 | 2023-08-31 |
 | [Ghar Jaane De](https://open.spotify.com/track/0AU0jnkTn516bqy2tJSlmp) | [Mandys](https://open.spotify.com/artist/662nBxX0k6vcCiUGLiPUTu) | [Ghar Jaane De](https://open.spotify.com/album/0gmGkBBlAHsx1EggphIQ3h) | 2:21 | 2024-01-13 | 2025-01-11 |
 | [GOAT ANTHEM](https://open.spotify.com/track/0pXKN8T5b1sXMkrOoxSlGO) | [Rakesh Mor](https://open.spotify.com/artist/6Q1rjvVMBkw1q0zIge4qXv), [Nimish](https://open.spotify.com/artist/0bcdCsL0pRZoBda7sVvfkl) | [GOAT ANTHEM](https://open.spotify.com/album/6Yp6OALOmvQVcTdgA8Fywv) | 2:34 | 2024-09-30 | 2024-10-22 |

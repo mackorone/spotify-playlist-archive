@@ -1,12 +1,12 @@
 {
   "description": "This is Racionais MC's. The essential tracks, all in one playlist.",
-  "num_followers": 576823,
+  "num_followers": 576858,
   "original_name": "This Is Racionais MC's",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAAAu8SWAS+XwTxgBhM75attA",
+  "snapshot_id": "aEYkAAAAAADpZReFEgPgd2nFT3qGDY1Z",
   "tracks": [
     {
       "added_at": null,
@@ -182,11 +182,15 @@
         {
           "name": "Racionais MC's",
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        },
+        {
+          "name": "DJ CIA",
+          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
         }
       ],
-      "duration_ms": 159902,
-      "name": "Voc\u00ea Me Deve",
-      "url": "https://open.spotify.com/track/5G4rIw7lHwmxQUADg2lnWo"
+      "duration_ms": 76087,
+      "name": "Cores & Valores",
+      "url": "https://open.spotify.com/track/6aJkwHHjSLbSe9T07ulltq"
     },
     {
       "added_at": null,
@@ -246,15 +250,11 @@
         {
           "name": "Racionais MC's",
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        },
-        {
-          "name": "DJ CIA",
-          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
         }
       ],
-      "duration_ms": 76087,
-      "name": "Cores & Valores",
-      "url": "https://open.spotify.com/track/6aJkwHHjSLbSe9T07ulltq"
+      "duration_ms": 159902,
+      "name": "Voc\u00ea Me Deve",
+      "url": "https://open.spotify.com/track/5G4rIw7lHwmxQUADg2lnWo"
     },
     {
       "added_at": null,

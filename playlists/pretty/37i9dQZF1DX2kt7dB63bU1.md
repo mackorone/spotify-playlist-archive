@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Tyreek McDole
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,818 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,844 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [Wonder in the Waiting](https://open.spotify.com/track/4gVz0PNVbWFkWKz2abuAet) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [A Seasonal Thing...Winter](https://open.spotify.com/album/5qHocH0PxAZIXtT4fBmjUg) | 4:40 |
 | 100 | [Without You](https://open.spotify.com/track/43lTZae0hP92dJUfaBlKQo) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Without You](https://open.spotify.com/album/2nwFdSEvJhqzXFYPgkkFHZ) | 4:20 |
 
-Snapshot ID: `aEJnxgAAAADXIlC7fjk560I+Ce3AjUN/`
+Snapshot ID: `AAAAAA4O/WFpYxNVDw27bUSLQDFVPkAD`

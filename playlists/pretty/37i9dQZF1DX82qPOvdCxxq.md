@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > Celebrating 10 years of the best new music by independent artists! Cover: CéJae \| Artwork: Dana Shine
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,925 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,948 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

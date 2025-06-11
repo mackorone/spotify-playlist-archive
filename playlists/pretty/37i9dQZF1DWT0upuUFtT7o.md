@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > Celebrating 10 years of the best new indie music from independent artists\. Cover: DERBY
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,956 likes - 130 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,966 likes - 130 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

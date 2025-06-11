@@ -1,12 +1,12 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 4323,
+  "num_followers": 4324,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAADuRBQRS8YKP0Kmmrq22FnR",
+  "snapshot_id": "aEYkAAAAAADX8ihvqwIupeUWdu89Tgub",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "...To the Beat of a Dead Horse",
-        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 97429,
-      "name": "And Now It's Happening in Mine",
-      "url": "https://open.spotify.com/track/4i2ZnG3km6mvQ3zqcsEAio"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parting the Sea Between Brightness and Me",
         "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 110333,
       "name": "Home Away from Here",
       "url": "https://open.spotify.com/track/698tUiegVocxceqJSBKK4S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...To the Beat of a Dead Horse",
+        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 97429,
+      "name": "And Now It's Happening in Mine",
+      "url": "https://open.spotify.com/track/4i2ZnG3km6mvQ3zqcsEAio"
     },
     {
       "added_at": null,

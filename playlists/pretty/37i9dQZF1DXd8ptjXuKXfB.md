@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,982 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,991 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,15 +61,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 51 | [egyszerű](https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:50 |
 | 52 | [SZÍVTIPRÓ](https://open.spotify.com/track/5LsAiClz23EjfEvQpyzuUi) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [SZÍVTIPRÓ](https://open.spotify.com/album/3drLrYFMCLk7wsa5Uk6b6k) | 3:15 |
 | 53 | [EGY/KETTŐ](https://open.spotify.com/track/7g4EKsrNrdZ4WzUxf4beOw) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [EGY/KETTŐ](https://open.spotify.com/album/4ZGTtTBhvo82ptO3YcTno4) | 4:59 |
-| 54 | [Szép](https://open.spotify.com/track/6rYTRrFZTcT3i3u0eG0fHX) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E), [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Sisi](https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f), [BEATó](https://open.spotify.com/artist/3m410ob9E6v6HxcrpeSUqn) | [Spontán Kollabok](https://open.spotify.com/album/58pRsBtv0Sf4VRp3R70mXp) | 3:12 |
-| 55 | [Voodoo Baba](https://open.spotify.com/track/1tTOuvmJvZ2DACbTLkwZIT) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [Torz](https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh) | 2:34 |
+| 54 | [Voodoo Baba](https://open.spotify.com/track/1tTOuvmJvZ2DACbTLkwZIT) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [Torz](https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh) | 2:34 |
+| 55 | [Szép](https://open.spotify.com/track/6rYTRrFZTcT3i3u0eG0fHX) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E), [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Sisi](https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f), [BEATó](https://open.spotify.com/artist/3m410ob9E6v6HxcrpeSUqn) | [Spontán Kollabok](https://open.spotify.com/album/58pRsBtv0Sf4VRp3R70mXp) | 3:12 |
 | 56 | [PROSECCO](https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [NINCS HOLNAP](https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd) | 2:10 |
 | 57 | [Frida Kahlo](https://open.spotify.com/track/7CMqBgZAFANJNyQueevWvR) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [Frida Kahlo](https://open.spotify.com/album/5HMnxIdbBRvoTW5PvNbBoo) | 2:43 |
 | 58 | [Székelykapu](https://open.spotify.com/track/13EtEH0X61xnyEChVmeb2Q) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [Vagy Mindent Vagy Semmit](https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH) | 2:50 |
-| 59 | [lánc](https://open.spotify.com/track/4gmKiblmETOzpLtFIaxCyb) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [lánc](https://open.spotify.com/album/09BkttRkb1DswriD8v2MO3) | 2:39 |
-| 60 | [Tiara](https://open.spotify.com/track/0nI4wU2023g1mFho21Vddr) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Tiara](https://open.spotify.com/album/4zwAnvsCRk4a7sBdYHFYOn) | 3:23 |
+| 59 | [Tiara](https://open.spotify.com/track/0nI4wU2023g1mFho21Vddr) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Tiara](https://open.spotify.com/album/4zwAnvsCRk4a7sBdYHFYOn) | 3:23 |
+| 60 | [introvertált dal](https://open.spotify.com/track/2EAvOY1uymm5ZAd0ZbnnPW) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 2:49 |
 | 61 | [PATKÁNY](https://open.spotify.com/track/769BgoDplcfdCwuMKzVMgV) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [PATKÁNY](https://open.spotify.com/album/5QBhS7BWtdqDSz6N9YICeK) | 2:29 |
-| 62 | [introvertált dal](https://open.spotify.com/track/2EAvOY1uymm5ZAd0ZbnnPW) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 2:49 |
+| 62 | [lánc](https://open.spotify.com/track/4gmKiblmETOzpLtFIaxCyb) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [lánc](https://open.spotify.com/album/09BkttRkb1DswriD8v2MO3) | 2:39 |
 | 63 | [ROCKSTAR](https://open.spotify.com/track/6W7AQZlX9nvw0r74LSxcop) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [ROCKSTAR](https://open.spotify.com/album/30ibOhh9gc3XJ6I0KHbcYb) | 3:30 |
 | 64 | [Boldog igazán](https://open.spotify.com/track/335Wifss6mmpkiypUEnsIA) | [DÁNIELFY](https://open.spotify.com/artist/4imSxhDqtkiuKUamV1AL2l), [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [HA MEGÉRKEZEL](https://open.spotify.com/album/0Pr7RO2APWS9vip0G4n8HS) | 3:11 |
 | 65 | [Meztelen](https://open.spotify.com/track/2DUQVPD8RtAcVZGzabRezv) | [Majka](https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB), [Horváth Tamás](https://open.spotify.com/artist/4I1y8Rd0H2NGXMzmT6JWsz) | [Meztelen](https://open.spotify.com/album/6TgAPeBHnPFcNBPryaOQHi) | 4:08 |

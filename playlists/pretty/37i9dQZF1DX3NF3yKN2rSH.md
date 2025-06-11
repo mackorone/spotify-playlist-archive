@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,364 likes - 100 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,366 likes - 100 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 35 | [Always Jesus](https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Tunnel Vision](https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v) | 3:57 |
 | 36 | [Worthy Is The Lamb Slain](https://open.spotify.com/track/0kBssWQicwNaU5jJ547luQ) | [Marvin Winans And The Perfected Praise Choir](https://open.spotify.com/artist/5bacVzt9GLSZEEjHKXwaEo) | [Introducing Perfected Praise](https://open.spotify.com/album/5Y3JhsPmHYR31DRQOe4o96) | 6:11 |
 | 37 | [Blood Medley](https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 4:37 |
-| 38 | [The Blessing \(feat\. Maranda Curtis\)](https://open.spotify.com/track/07hpnqy4P8emLuz4GuPPAL) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [I've Got a Testimony](https://open.spotify.com/album/16lH0UDiWWT9aXaM7ZJKDJ) | 6:32 |
-| 39 | [Redeemer](https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V) | [Karima](https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE) | [Redeemer](https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs) | 5:17 |
+| 38 | [Redeemer](https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V) | [Karima](https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE) | [Redeemer](https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs) | 5:17 |
+| 39 | [The Blessing \(feat\. Maranda Curtis\)](https://open.spotify.com/track/07hpnqy4P8emLuz4GuPPAL) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [I've Got a Testimony](https://open.spotify.com/album/16lH0UDiWWT9aXaM7ZJKDJ) | 6:32 |
 | 40 | [Release \- Live/Edit](https://open.spotify.com/track/70mAuybPl9xCCmCRkubv6E) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM), [Tiff Joy](https://open.spotify.com/artist/5BZU9FuwmQoyYg3OQMMiv9) | [Choirmaster](https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR) | 4:03 |
 | 41 | [At The Cross](https://open.spotify.com/track/0Dfrt8K6k2rUg1Jf4EbppZ) | [John P\. Kee & The New Life Community Choir](https://open.spotify.com/artist/04LhvDkXmA8kPyJED34IEM) | [Blessed By Association](https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx) | 4:59 |
 | 42 | [The Blood Will Never Lose Its Power](https://open.spotify.com/track/5Q7aK3pXH9l5mrjxrGiU9o) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [My Very OWN Easter \- EP](https://open.spotify.com/album/3VxA6E1TAfW2Q5VHMvtDPB) | 7:47 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 65 | [If God / Nothing But the Blood](https://open.spotify.com/track/6hre6Y63XrzzTPOBT9NM6e) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [The Gathering](https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT) | 8:25 |
 | 66 | [Born To Die](https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB) | [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [The Love Fellowship Crusade Choir](https://open.spotify.com/artist/3xrX4BvsX5AqroXDkwVmw1) | [Verity Records: The First Decade, A Celebration Of Christmas](https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx) | 4:50 |
 | 67 | [The Old Rugged Cross](https://open.spotify.com/track/5aDPMyBFhThZrjRJXrrGy7) | [Rev\. James Moore](https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN) | [Live In Detroit \(Live\)](https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv) | 8:16 |
-| 68 | [Calvary](https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [Beginnings](https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR) | 5:48 |
-| 69 | [I Know It Was the Blood](https://open.spotify.com/track/3OK5efpJzgvpqzgTsSvgaP) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [Sing A Nu Song](https://open.spotify.com/album/2Pq4TiBAMv0r7WD0DmMp6t) | 6:10 |
+| 68 | [I Know It Was the Blood](https://open.spotify.com/track/3OK5efpJzgvpqzgTsSvgaP) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [Sing A Nu Song](https://open.spotify.com/album/2Pq4TiBAMv0r7WD0DmMp6t) | 6:10 |
+| 69 | [Calvary](https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [Beginnings](https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR) | 5:48 |
 | 70 | [God Is Not Dead](https://open.spotify.com/track/64u71Ii45f6Pa3BPwIvYul) | [Joshua's Troop](https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV) | [Joshua's Troop](https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT) | 5:11 |
 | 71 | [These Nails \- Live](https://open.spotify.com/track/3kVIUABK3lKYuXOu6d4vjl) | [Donald Lawrence & The Tri\-City Singers](https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V) | [Donald Lawrence & The Tri\-City Singers Collection](https://open.spotify.com/album/5ejaaJUSkQ6k7LdxFAniDs) | 5:28 |
 | 72 | [Glorify Him](https://open.spotify.com/track/4jDdPGYvKht4WP69F1DPlF) | [Darwin Hobbs](https://open.spotify.com/artist/6zhrnjTFJFS6bWzFtRm7aH) | [Motown Gospel: 20 Years/20 Hits](https://open.spotify.com/album/368XwqLQDiFFC57FAKFKcG) | 4:05 |

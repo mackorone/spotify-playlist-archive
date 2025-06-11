@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "AMG Isteria",
       "url": "https://open.spotify.com/track/0uoFYncPoFjOb7uU33yyl0"
@@ -1980,7 +1980,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -5508,7 +5508,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 181333,
       "name": "Chasat",
       "url": "https://open.spotify.com/track/4Rl34RU1EMpxsuxuHCpo1k"
@@ -8392,7 +8392,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 213493,
       "name": "Doseshtay se sam",
       "url": "https://open.spotify.com/track/0FpscyomAHJAkvHjYbpqwE"
@@ -12954,7 +12954,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 189863,
       "name": "HE, HE, HE",
       "url": "https://open.spotify.com/track/4gjATTXuqOl7YbkCXtFrBo"
@@ -15168,7 +15168,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 78492,
       "name": "Interlude : Showtime",
       "url": "https://open.spotify.com/track/45zLrK0668WQ5JFMyiYmCS"
@@ -20726,7 +20726,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 179166,
       "name": "Moy Si Merak",
       "url": "https://open.spotify.com/track/6Y06ElSXio17oXbPcTkhnO"
@@ -27458,7 +27458,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
@@ -28694,7 +28694,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 165045,
       "name": "Sports car",
       "url": "https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S"
@@ -39088,7 +39088,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-05",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "\u041d\u0430\u0448\u0430\u0442\u0430",
       "url": "https://open.spotify.com/track/1fTNb11PK6Ode6hx4bC8pl"
@@ -39808,7 +39808,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 240937,
       "name": "\u041e\u0442 \u043a\u0435\u0444 \u0434\u0430 \u0443\u043c\u0438\u0440\u0430\u043c",
       "url": "https://open.spotify.com/track/1SF5ZAO1oUSduw2lHschoA"
@@ -40106,7 +40106,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 178461,
       "name": "\u041f\u0438\u0442\u0430\u0448 \u043b\u0438 \u043c\u0435",
       "url": "https://open.spotify.com/track/4np8dpfv5qahhkOSzgsMFL"
@@ -40992,7 +40992,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 172235,
       "name": "\u0422\u0430\u043a\u0430 \u0441\u044a\u043c \u0430\u0437, \u0442\u0430\u043a\u0430 \u0441\u0438 \u0442\u0438",
       "url": "https://open.spotify.com/track/7cMp1gzM4aSdbX6vJKmDh4"
@@ -41341,6 +41341,32 @@
     },
     {
       "album": {
+        "name": "\u0422\u0443\u043a-\u0422\u0430\u043c",
+        "url": "https://open.spotify.com/album/0slK8t50As7YJYf48XG05r"
+      },
+      "artists": [
+        {
+          "name": "Donika",
+          "url": "https://open.spotify.com/artist/3DJYC50MIKFpWotJVrxFJg"
+        },
+        {
+          "name": "Antonio",
+          "url": "https://open.spotify.com/artist/0rQ97rmt6NN5BVLKJze1mK"
+        },
+        {
+          "name": "Monkey",
+          "url": "https://open.spotify.com/artist/5wpjYEcmW8zMVbiiFidaGO"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236838,
+      "name": "\u0422\u0443\u043a-\u0422\u0430\u043c",
+      "url": "https://open.spotify.com/track/49Wp0NALmAsMBkaXYzd8ur"
+    },
+    {
+      "album": {
         "name": "\u0423\u0430\u0443",
         "url": "https://open.spotify.com/album/2K7iBFjPSo8AOtth2pNRl9"
       },
@@ -41378,7 +41404,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 185915,
       "name": "\u0423\u0430\u0443",
       "url": "https://open.spotify.com/track/2PEv2iMFRRJrGbPPE1Lqfw"
@@ -41668,7 +41694,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 195164,
       "name": "\u0427\u0443\u043f\u0438 \u0431\u0430\u0440\u0438\u0435\u0440\u0438",
       "url": "https://open.spotify.com/track/7injeo0OCRz5C9UKtYmiP0"

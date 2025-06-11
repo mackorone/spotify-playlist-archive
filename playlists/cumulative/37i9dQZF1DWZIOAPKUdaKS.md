@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-809 songs - 1 day 11 hr 3 min
+811 songs - 1 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [Life Goes On](https://open.spotify.com/track/2Ndf7eHaRMAdd2d84phJLS) | [Jacob Trautner](https://open.spotify.com/artist/3Ebs2p58ggIPTmK0tCthW9) | [Life Goes On](https://open.spotify.com/album/7JW1NaSKBP7t1o0DroYfoX) | 2:49 | 2021-12-07 | 2022-07-20 |
 | [Lifting](https://open.spotify.com/track/2AjAdJGA7cdxtJwmTzWhqf) | [Reynard Hodges](https://open.spotify.com/artist/39urE2pQBG55PwXRDOQwEC) | [Lifting](https://open.spotify.com/album/36juNVp8q5LH5MVkBLabUk) | 2:41 | 2021-12-07 | 2022-07-20 |
 | [Ligare Arcum](https://open.spotify.com/track/2SQnm2Hx9VCWopW6LMCD3N) | [Jean d'Yeu](https://open.spotify.com/artist/4nLWZ040J0l6wHTIKRqvZv) | [Ligare Arcum](https://open.spotify.com/album/5QuBJQRifMGPN3rf2OU7gj) | 3:04 | 2022-02-15 | 2023-05-04 |
+| [Light](https://open.spotify.com/track/4XOrreh4CufJwuUg3p7DuR) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Light](https://open.spotify.com/album/67fKGoAizybPTMM2l27bpP) | 2:47 | 2025-06-10 |  |
 | [Light Heart](https://open.spotify.com/track/1PVN8pKYgISfY2sA58ahFG) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Light Heart](https://open.spotify.com/album/5dJiU63FHF3Icb7UPuwtH9) | 1:59 | 2021-12-07 | 2022-07-20 |
 | [Liminal ride](https://open.spotify.com/track/7zVpXNJWZTx9VFGsASdvDb) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Liminal ride](https://open.spotify.com/album/3wHAU30ikn1KGIwPBIbZuY) | 2:36 | 2022-12-05 |  |
 | [Linger](https://open.spotify.com/track/1dl9NpSOGc99QraGZDAzWx) | [Stephen Canyons](https://open.spotify.com/artist/5ZQycVE891WyyN6kIKe7Oj) | [Linger](https://open.spotify.com/album/62b5qlDwAPMIrK3300tgOP) | 2:04 | 2022-04-07 |  |
@@ -778,6 +779,7 @@
 | [Waiting for You](https://open.spotify.com/track/5ZWodvcCq8kTLjfy821dRO) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Waiting for You](https://open.spotify.com/album/2bfBDIwzb9EFHIMhINCDLC) | 2:19 | 2021-12-07 | 2023-05-04 |
 | [Waking Up](https://open.spotify.com/track/7c33zkn49H7mwANl899jCD) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Waking Up](https://open.spotify.com/album/5DyFhKX0zsMGHmze1X6zXs) | 2:49 | 2024-12-11 |  |
 | [Waltz For Nala](https://open.spotify.com/track/3NJ3rJfgSHeRqM9Fz12lLJ) | [Igulfrid](https://open.spotify.com/artist/5mvjbSc65aNXZZ0G4p6bMQ) | [Waltz For Nala](https://open.spotify.com/album/0MMm9VMrSYTvSFyyrwD9yQ) | 2:17 | 2021-12-07 | 2022-07-20 |
+| [Wanderlust](https://open.spotify.com/track/0FWiBmCzyNSuvus2TIoAEw) | [Justin Dell](https://open.spotify.com/artist/7nQzEyE1TWkfthJfE0fs43) | [Wanderlust](https://open.spotify.com/album/2nVZXTIoztXDPcG6em3MTv) | 2:18 | 2025-06-10 |  |
 | [Watching Her Go](https://open.spotify.com/track/0PDORoWxzxbquaPnFGcE8I) | [Aleisha Millar](https://open.spotify.com/artist/2a2JENyvbHLDEeMCbAKjl4) | [Watching Her Go](https://open.spotify.com/album/2fqyRr9O1bnPeLgoTE8jbu) | 2:47 | 2022-11-24 | 2025-05-03 |
 | [We Never Know](https://open.spotify.com/track/4IiRsVQYU8d8RTZuwBIkJR) | [George Eardley\-Wilmot](https://open.spotify.com/artist/1oltNwwT7845RLRc2nB4A6) | [We Never Know](https://open.spotify.com/album/0xZQBNftw82HG8hb7rVujJ) | 2:27 | 2022-11-24 | 2024-11-07 |
 | [We Will Last](https://open.spotify.com/track/37lSjTwceAafdpm011tsGb) | [Marta Lien](https://open.spotify.com/artist/0sUO8DtYY1h8PWvc2ymvuY) | [We Will Last](https://open.spotify.com/album/5S6G0M716lcPw7KHAFmUCJ) | 2:28 | 2022-04-07 | 2025-04-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8jiBuMzYD6.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/raycondones/">BruceDropEmOff</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,584 likes - 47 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,617 likes - 47 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8jiBuMzYD6.md) - [plain]
 | 46 | [Hello Stranger](https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [Hello Stranger](https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw) | 2:46 |
 | 47 | [Try Me](https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 2:31 |
 
-Snapshot ID: `AAAAANpdpnVim/RJU7ahsaF9rR1xKv2K`
+Snapshot ID: `ZSBUQwAAAADElRQCelshwsF6jgdf8Hdh`

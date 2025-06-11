@@ -1,12 +1,12 @@
 {
   "description": "This is Arsenal Efectivo. The essential tracks, all in one playlist.",
-  "num_followers": 12370,
+  "num_followers": 12371,
   "original_name": "This Is Arsenal Efectivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAADAYlixfyT885lhAD/aCyip",
+  "snapshot_id": "aEYkAAAAAABudBSmtFqyGPvup1EJ228h",
   "tracks": [
     {
       "added_at": null,
@@ -435,6 +435,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/1YcIp5ySMbCZJZAtBPuBAh"
+      },
+      "artists": [
+        {
+          "name": "Trouble Kidd",
+          "url": "https://open.spotify.com/artist/2BUm9jjApR6h94btZHECuw"
+        },
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 128347,
+      "name": "Peligro",
+      "url": "https://open.spotify.com/track/4e57NeDTbHbdan24Vf6WU5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DDM Anthem",
         "url": "https://open.spotify.com/album/5D4MjY99Ckh4N6wOedYy6c"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 258726,
       "name": "DDM Anthem",
       "url": "https://open.spotify.com/track/22ZE5l6Z9Z8I8eGk4Ty4OW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/1YcIp5ySMbCZJZAtBPuBAh"
-      },
-      "artists": [
-        {
-          "name": "Trouble Kidd",
-          "url": "https://open.spotify.com/artist/2BUm9jjApR6h94btZHECuw"
-        },
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 128347,
-      "name": "Peligro",
-      "url": "https://open.spotify.com/track/4e57NeDTbHbdan24Vf6WU5"
     },
     {
       "added_at": null,

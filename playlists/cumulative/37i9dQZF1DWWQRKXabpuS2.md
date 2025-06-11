@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد
 
-413 songs - 1 day 4 hr 23 min
+414 songs - 1 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Alaa Hoonk](https://open.spotify.com/track/4IPtpgUdAZ7PAaInGXsVOx) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [Alaa Hoonk](https://open.spotify.com/album/1hTduMtGuABBRFYHgYTiH7) | 2:31 | 2022-09-16 | 2023-03-25 |
 | [Alammeh Lah](https://open.spotify.com/track/1aIysPTbYWjoDlnXR8dwCE) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Alammeh Lah](https://open.spotify.com/album/592nTrO8zRJQpzRVhHG3dY) | 4:10 | 2023-01-20 | 2023-08-19 |
 | [Albadr Aldhahook](https://open.spotify.com/track/3to1cO2tsmdl7d4JNVnSyE) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Albadr Aldhahook](https://open.spotify.com/album/2rONmeWNNWsm1oh8Yt8T45) | 3:34 | 2022-02-11 | 2022-02-12 |
+| [Aldhel3 Al3awaj](https://open.spotify.com/track/4OSTubhaEBdfyORRKgMvgo) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe), [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [Aldhel3 Al3awaj](https://open.spotify.com/album/7I397BCQjtGSg9cKoFfVzU) | 3:39 | 2025-06-10 |  |
 | [Aleek Agreb](https://open.spotify.com/track/2UyZhVv6kMbIJafgjUB2Pb) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Aleek Agreb](https://open.spotify.com/album/5h2AknGWBsTQvXss7zmgTA) | 4:11 | 2021-12-23 | 2022-06-04 |
 | [Aljamal Al Yousefy](https://open.spotify.com/track/2n4bNkN9g10IrpneHrvIXR) | [Mohammed AlMenhali](https://open.spotify.com/artist/3zwErc4TrlnprH22dO0Iem) | [Aljamal Al Yousefy](https://open.spotify.com/album/0NoIyLmo6NtjSmeEUb4SBg) | 4:36 | 2021-12-23 | 2022-03-12 |
 | [Alkhamri](https://open.spotify.com/track/4lUN47aPWKGlKbiWOuYkJR) | [Sheyaab](https://open.spotify.com/artist/4ws4u7WBMXjLtooqt1yQ49), [Bu Belal](https://open.spotify.com/artist/3V5efQdYiGDYq2LLV6dsU2), [Carol](https://open.spotify.com/artist/0t3N6YV4XJtCd93C6c6CIS), [Bu Belall](https://open.spotify.com/artist/6sIFcXYk0GMwlYxHcMV3B2) | [Alkhamri](https://open.spotify.com/album/0Tji72I9mjsExOYcQUN2Ih) | 3:07 | 2022-09-28 | 2023-05-02 |
@@ -169,7 +170,7 @@
 | [Keda Wala Keda](https://open.spotify.com/track/5jpNJTb9XKt6WVxEQfKLYK) | [Jori Kattan](https://open.spotify.com/artist/3auQGROryTRCO2rgjeyGHD) | [Keda Wala Keda](https://open.spotify.com/album/3tr3MAqqpmGfYA69xfVIRb) | 2:39 | 2022-01-12 | 2022-06-10 |
 | [Kellahe El Shouq](https://open.spotify.com/track/6E3UOyIIeRzeycTVY84CLZ) | [Khaled Abdul Rahman](https://open.spotify.com/artist/6X5jPcdNTzdvOnOGhLTXyX) | [Kellahe El Shouq](https://open.spotify.com/album/6RBuponLlbtQMbtKh5uJ53) | 5:51 | 2023-07-03 | 2024-02-02 |
 | [Kethir Asameh](https://open.spotify.com/track/3gvQirei6Ou7yh87W7hKWe) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Kethir Asameh](https://open.spotify.com/album/795GVZBK7w1ny4eS3Du3PD) | 3:21 | 2023-02-14 | 2023-09-09 |
-| [Kethr El Ghala](https://open.spotify.com/track/558ALwJdYCddXe3LyXKrKv) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Kethr El Ghala](https://open.spotify.com/album/2fKsdzB75Aq0wWj8anqplX) | 4:09 | 2024-08-08 |  |
+| [Kethr El Ghala](https://open.spotify.com/track/558ALwJdYCddXe3LyXKrKv) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Kethr El Ghala](https://open.spotify.com/album/2fKsdzB75Aq0wWj8anqplX) | 4:09 | 2024-08-08 | 2025-06-11 |
 | [Khair Il Kalam](https://open.spotify.com/track/0OJBY7oLHFxqksLVL9K2zw) | [Al Wasmi](https://open.spotify.com/artist/1lJI9VB5GCD1uPQdyVl0Y9) | [Khair Il Kalam](https://open.spotify.com/album/01Wu2jFeYUZobCu87M3qW3) | 3:54 | 2021-12-23 | 2022-03-12 |
 | [Khajoola](https://open.spotify.com/track/1cylMxQ5Y1lnQhD3fSbbZz) | [Ibrahim Dashti](https://open.spotify.com/artist/7fVr9abExkyr5UQwtlWvpD) | [Khajoola](https://open.spotify.com/album/4AB5LQsjEfynEVrMy35Ysq) | 4:10 | 2024-06-07 | 2025-04-08 |
 | [Khaleeny](https://open.spotify.com/track/3L7FfHb5zImzhMmBG0MyJl) | [Hamad Al Mamari](https://open.spotify.com/artist/6TGysqweeNFlQJmwd8LnRu) | [Khaleeny](https://open.spotify.com/album/2zkPQyNFkv0UoOCJMsa6MH) | 2:46 | 2021-12-23 | 2022-06-04 |

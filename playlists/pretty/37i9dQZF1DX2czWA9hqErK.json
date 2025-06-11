@@ -1,6 +1,6 @@
 {
   "description": "Make every day feel like Sunday",
-  "num_followers": 1352326,
+  "num_followers": 1352256,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
-    },
-    {
-      "added_at": "2025-05-22 23:00:12",
-      "album": {
         "name": "Crazymad, For Me",
         "url": "https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 216946,
       "name": "Stay For Something",
       "url": "https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c"
+    },
+    {
+      "added_at": "2025-05-22 23:00:12",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
     },
     {
       "added_at": "2025-05-22 23:00:12",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/42vQ4SVYUBt7MZN2j2ZB14"
-      },
-      "artists": [
-        {
-          "name": "Elliot James Reay",
-          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
-        }
-      ],
-      "duration_ms": 199357,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/68P2Y5cUBxwDfneL8cFJJ4"
-    },
-    {
-      "added_at": "2025-05-22 23:00:12",
-      "album": {
         "name": "Anyone In Love",
         "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 186990,
       "name": "Anyone In Love",
       "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
+    },
+    {
+      "added_at": "2025-05-22 23:00:12",
+      "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/42vQ4SVYUBt7MZN2j2ZB14"
+      },
+      "artists": [
+        {
+          "name": "Elliot James Reay",
+          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
+        }
+      ],
+      "duration_ms": 199357,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/68P2Y5cUBxwDfneL8cFJJ4"
     },
     {
       "added_at": "2025-05-22 23:00:12",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
-        "name": "SAYA",
-        "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE"
-      },
-      "artists": [
-        {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
-        }
-      ],
-      "duration_ms": 209100,
-      "name": "..THUS IS WHY ( I DON\u2019T SPRING 4 LOVE )",
-      "url": "https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz"
-    },
-    {
-      "added_at": "2025-05-22 23:00:12",
-      "album": {
         "name": "Kansas Anymore (The Longest Goodbye)",
         "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 232360,
       "name": "Frances",
       "url": "https://open.spotify.com/track/1aWgq6UfTHralw5xL1Drs0"
+    },
+    {
+      "added_at": "2025-05-22 23:00:12",
+      "album": {
+        "name": "SAYA",
+        "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "duration_ms": 209100,
+      "name": "..THUS IS WHY ( I DON\u2019T SPRING 4 LOVE )",
+      "url": "https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz"
     },
     {
       "added_at": "2025-05-22 23:00:12",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
-        "name": "Teenage Love",
-        "url": "https://open.spotify.com/album/1TQuSNnGJGfX80HQE7HBcl"
+        "name": "to be seen",
+        "url": "https://open.spotify.com/album/5JJnU438NU09ZVv4OuoYCQ"
       },
       "artists": [
         {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
         }
       ],
-      "duration_ms": 261586,
-      "name": "Teenage Love",
-      "url": "https://open.spotify.com/track/3fgMHs4LZNPrMV2AFqma3F"
+      "duration_ms": 203627,
+      "name": "to be seen",
+      "url": "https://open.spotify.com/track/2cRShN9bomoLuFfeR7CaD0"
     },
     {
       "added_at": "2025-05-22 23:00:12",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
-        "name": "to be seen",
-        "url": "https://open.spotify.com/album/5JJnU438NU09ZVv4OuoYCQ"
+        "name": "Teenage Love",
+        "url": "https://open.spotify.com/album/1TQuSNnGJGfX80HQE7HBcl"
       },
       "artists": [
         {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
         }
       ],
-      "duration_ms": 203627,
-      "name": "to be seen",
-      "url": "https://open.spotify.com/track/2cRShN9bomoLuFfeR7CaD0"
+      "duration_ms": 261586,
+      "name": "Teenage Love",
+      "url": "https://open.spotify.com/track/3fgMHs4LZNPrMV2AFqma3F"
     },
     {
       "added_at": "2025-05-22 23:00:12",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
-        "name": "The Seize",
-        "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 214401,
-      "name": "The Seize",
-      "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
-    },
-    {
-      "added_at": "2025-05-22 23:00:12",
-      "album": {
         "name": "Be Still",
         "url": "https://open.spotify.com/album/6CI0Mg4tlEUOFAVdZwmtDg"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 241531,
       "name": "Be Still",
       "url": "https://open.spotify.com/track/5iRAP5qArzW7EjLGyLpPza"
+    },
+    {
+      "added_at": "2025-05-22 23:00:12",
+      "album": {
+        "name": "The Seize",
+        "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 214401,
+      "name": "The Seize",
+      "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
     },
     {
       "added_at": "2025-05-22 23:00:12",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
-        "name": "Call Them And Tell Them You Love Them",
-        "url": "https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD"
-      },
-      "artists": [
-        {
-          "name": "Tamzene",
-          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
-        }
-      ],
-      "duration_ms": 191912,
-      "name": "Too Many Times",
-      "url": "https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U"
-    },
-    {
-      "added_at": "2025-05-22 23:00:12",
-      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/5kCV7lHlpgAYi3KJdL0ydU"
       },
@@ -1419,18 +1403,18 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
-        "name": "Fall on Me",
-        "url": "https://open.spotify.com/album/3WFSscg1CmMws760Eir9Ot"
+        "name": "Call Them And Tell Them You Love Them",
+        "url": "https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD"
       },
       "artists": [
         {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+          "name": "Tamzene",
+          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
         }
       ],
-      "duration_ms": 216085,
-      "name": "Fall on Me",
-      "url": "https://open.spotify.com/track/10wIeKaNvOaUgvzUUfwu7L"
+      "duration_ms": 191912,
+      "name": "Too Many Times",
+      "url": "https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U"
     },
     {
       "added_at": "2025-05-22 23:00:12",
@@ -1447,6 +1431,22 @@
       "duration_ms": 214986,
       "name": "Running Out Of Time",
       "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
+    },
+    {
+      "added_at": "2025-05-22 23:00:12",
+      "album": {
+        "name": "Fall on Me",
+        "url": "https://open.spotify.com/album/3WFSscg1CmMws760Eir9Ot"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 216085,
+      "name": "Fall on Me",
+      "url": "https://open.spotify.com/track/10wIeKaNvOaUgvzUUfwu7L"
     },
     {
       "added_at": "2025-05-22 23:00:12",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
-        "name": "Sweet Nothings",
-        "url": "https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh"
-      },
-      "artists": [
-        {
-          "name": "Mychelle",
-          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Sweet Nothings",
-      "url": "https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx"
-    },
-    {
-      "added_at": "2025-05-22 23:00:12",
-      "album": {
         "name": "Someone That's Better",
         "url": "https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 133059,
       "name": "Someone That's Better",
       "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
+    },
+    {
+      "added_at": "2025-05-22 23:00:12",
+      "album": {
+        "name": "Sweet Nothings",
+        "url": "https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh"
+      },
+      "artists": [
+        {
+          "name": "Mychelle",
+          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx"
     },
     {
       "added_at": "2025-05-22 23:00:12",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-05-22 23:00:12",
       "album": {
-        "name": "Chloe Qisha",
-        "url": "https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 164175,
-      "name": "Scary Movie",
-      "url": "https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI"
-    },
-    {
-      "added_at": "2025-05-22 23:00:12",
-      "album": {
         "name": "A Wonder Day",
         "url": "https://open.spotify.com/album/75id1mpGPHtg5jSEDGoC8Z"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 209352,
       "name": "A Wonder Day",
       "url": "https://open.spotify.com/track/4vu2cZ7d1Etx43jmQJWyO2"
+    },
+    {
+      "added_at": "2025-05-22 23:00:12",
+      "album": {
+        "name": "Chloe Qisha",
+        "url": "https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 164175,
+      "name": "Scary Movie",
+      "url": "https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI"
     }
   ],
   "unique_name": "Easy",

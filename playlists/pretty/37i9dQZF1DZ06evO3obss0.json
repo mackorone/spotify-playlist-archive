@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 115381,
+  "num_followers": 115395,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAACLz69NmVNSHUZgTNrzAejb",
+  "snapshot_id": "aEYkAAAAAAAqKlU788nohNONi77LbDQ/",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Make It To Heaven (with Raye)",
+        "url": "https://open.spotify.com/album/3YgpLKWG2xfjEe8vVfcn13"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 172380,
+      "name": "Make It to Heaven (with Raye)",
+      "url": "https://open.spotify.com/track/5dS2dvXVPe7AR6UwBpnomW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Can\u2019t Change Me (feat. Raye)",
         "url": "https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx"
       },
@@ -527,30 +551,6 @@
       "duration_ms": 218626,
       "name": "Please Don\u2019t Touch",
       "url": "https://open.spotify.com/track/16eNwSoWmJh5GSjN8ECmIp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Make It To Heaven (with Raye)",
-        "url": "https://open.spotify.com/album/3YgpLKWG2xfjEe8vVfcn13"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 172380,
-      "name": "Make It to Heaven (with Raye)",
-      "url": "https://open.spotify.com/track/5dS2dvXVPe7AR6UwBpnomW"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kids At Play- EP",
-        "url": "https://open.spotify.com/album/21R2CiMVZH2MY514Sq2DIG"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 213245,
-      "name": "Breaking News (with RAYE)",
-      "url": "https://open.spotify.com/track/4kL66iksPrNaqzKYlzDgoa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Side Tape",
         "url": "https://open.spotify.com/album/6VpSHPH5y0YyCajycHp6PL"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 170666,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/5nhG9nkIXaPA89Yd9BLOZU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kids At Play- EP",
+        "url": "https://open.spotify.com/album/21R2CiMVZH2MY514Sq2DIG"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 213245,
+      "name": "Breaking News (with RAYE)",
+      "url": "https://open.spotify.com/track/4kL66iksPrNaqzKYlzDgoa"
     },
     {
       "added_at": null,
@@ -975,18 +975,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Genesis.",
-        "url": "https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW"
+        "name": "Algorithm",
+        "url": "https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW"
       },
       "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 76300,
-      "name": "Genesis, pt. i",
-      "url": "https://open.spotify.com/track/1QNVnWXHOFI2fZecY8wUna"
+      "duration_ms": 278181,
+      "name": "Paralyzed (feat. RAYE)",
+      "url": "https://open.spotify.com/track/3kTthHt7h6paFEMOaIxXC3"
     }
   ],
   "unique_name": "This Is RAYE",

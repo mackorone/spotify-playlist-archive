@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > chill vibes to soundtrack your gaming session 🎮 👾
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,203 likes - 50 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,216 likes - 50 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 21 | [constellations](https://open.spotify.com/track/6Tmhesk2tLiJtJ52Al3nQ1) | [butterfli](https://open.spotify.com/artist/6A3Fdu30Vz62jf3XP5pLy5) | [constellations](https://open.spotify.com/album/2atTpuP3z27zonfsOSU52f) | 2:24 |
 | 22 | [5.50 Am](https://open.spotify.com/track/0e7GJUcTnb1HQZn73goySz) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [5.50 Am](https://open.spotify.com/album/5OoxfVdEtJacEbZcNeV68r) | 2:02 |
 | 23 | [numb](https://open.spotify.com/track/69pHMM7biztKZHCTnxnzFI) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [ambient vol 3](https://open.spotify.com/album/1SEsmp8PM5sHb4XUhUr0M7) | 1:41 |
-| 24 | [Train Delays](https://open.spotify.com/track/27fserVzR1RsJ0FBkQIzSu) | [BeatsDotCom](https://open.spotify.com/artist/5Qly1NvJNo9y2GcL2AmRwc) | [Train Delays](https://open.spotify.com/album/4bWbawDFa9DwvPjS8tdNr6) | 2:00 |
-| 25 | [limerence](https://open.spotify.com/track/2EuEUEInXrlb7NZqyTOJ3f) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [limerence](https://open.spotify.com/album/12G2OhdDoWlxrEsoEutcJv) | 2:48 |
+| 24 | [not noise](https://open.spotify.com/track/1gT5Xf60TPfCwxMhTdqrfe) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [not noise](https://open.spotify.com/album/0YKQ9sSjkyHFGgr8Pp1SDt) | 2:28 |
+| 25 | [Train Delays](https://open.spotify.com/track/27fserVzR1RsJ0FBkQIzSu) | [BeatsDotCom](https://open.spotify.com/artist/5Qly1NvJNo9y2GcL2AmRwc) | [Train Delays](https://open.spotify.com/album/4bWbawDFa9DwvPjS8tdNr6) | 2:00 |
 | 26 | [rescue](https://open.spotify.com/track/7zGy5IJuIH6r9lxLLLRJ1m) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [ashess](https://open.spotify.com/artist/1hhLt9cFkv19R49FGbQAow) | [rescue](https://open.spotify.com/album/4zVgqmITVLk905VoQ7mbVA) | 2:16 |
-| 27 | [not noise](https://open.spotify.com/track/1gT5Xf60TPfCwxMhTdqrfe) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [not noise](https://open.spotify.com/album/0YKQ9sSjkyHFGgr8Pp1SDt) | 2:28 |
+| 27 | [limerence](https://open.spotify.com/track/2EuEUEInXrlb7NZqyTOJ3f) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [limerence](https://open.spotify.com/album/12G2OhdDoWlxrEsoEutcJv) | 2:48 |
 | 28 | [Flights](https://open.spotify.com/track/5MBQzDJGmntPw0kI2wJm1W) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR) | [Flights](https://open.spotify.com/album/3THQrWkSD0kxlat1aVfefp) | 2:29 |
 | 29 | [Island Bounce](https://open.spotify.com/track/1oxbRHkBMJCOSxt6WAL41F) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Island Bounce](https://open.spotify.com/album/0tC0zfmZKgr5MUDpA1m2yq) | 2:27 |
 | 30 | [lilac](https://open.spotify.com/track/2aIVnvIeWx5gkSi9DAezDF) | [little blue](https://open.spotify.com/artist/5WFsnwKBPWK0uFitm41Dv1), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [lilac](https://open.spotify.com/album/5cluglvJrg5Sa1kpVzh0hK) | 2:02 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 39 | [Aqua](https://open.spotify.com/track/7ArMWsBYI59MmStLmWAYHj) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Aqua](https://open.spotify.com/album/5prd1riQ0u3Cv0qjBLpbuu) | 1:41 |
 | 40 | [Drifting](https://open.spotify.com/track/6SD1pxax8w0mb4HKFMHB6g) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q), [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [Drifting](https://open.spotify.com/album/4PgWB31QuLC06bxsG8HXEa) | 2:55 |
 | 41 | [memories](https://open.spotify.com/track/2Vj1OMtjDCPlYIMmvak2Iq) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur), [Jay Karin](https://open.spotify.com/artist/1MaQRDI7QUo8lm9vwWrBfL) | [memories](https://open.spotify.com/album/1FlMizTLU44bh37i6tAKh1) | 1:49 |
-| 42 | [Fika](https://open.spotify.com/track/2cMCreuGNlEP5zzxXIMQS2) | [Unjaps](https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi) | [Isolated](https://open.spotify.com/album/2tchNCm4dsnBTu3KaXCQy0) | 3:18 |
-| 43 | [Setsunai](https://open.spotify.com/track/24wAolXLDbi80kKrNh60HI) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Setsunai](https://open.spotify.com/album/2rsfHZjyuVClDvBXWcm4P1) | 2:12 |
+| 42 | [Setsunai](https://open.spotify.com/track/24wAolXLDbi80kKrNh60HI) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Setsunai](https://open.spotify.com/album/2rsfHZjyuVClDvBXWcm4P1) | 2:12 |
+| 43 | [Fika](https://open.spotify.com/track/2cMCreuGNlEP5zzxXIMQS2) | [Unjaps](https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi) | [Isolated](https://open.spotify.com/album/2tchNCm4dsnBTu3KaXCQy0) | 3:18 |
 | 44 | [Deep Breaths](https://open.spotify.com/track/24tCFs2DAT3Js3kBBalhb0) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA), [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Deep Breaths](https://open.spotify.com/album/1tDzraOZEOGevw4RcTLrS0) | 3:02 |
 | 45 | [4pm naps](https://open.spotify.com/track/5i1GoRGX8ZauNcxWZx1oPb) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [4pm naps](https://open.spotify.com/album/1HTKBNjdgZM5otxolfrjci) | 1:54 |
 | 46 | [star struck](https://open.spotify.com/track/3JcRY9LLi7aLBqceAbAJaC) | [alixe.](https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn) | [star struck](https://open.spotify.com/album/0lWOg0zxjpIS81tzwUB0qr) | 1:36 |

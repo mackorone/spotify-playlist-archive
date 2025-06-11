@@ -4,7 +4,7 @@
 
 > Kom maar op met de zon ☀️🌼🌻
 
-682 songs - 1 day 10 hr 33 min
+683 songs - 1 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,7 +491,7 @@
 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-08-21 | 2024-01-23 |
 | [Praise Break](https://open.spotify.com/track/2bGaYqwsyiy0tq8ZqHel7M) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Praise Break](https://open.spotify.com/album/1vPsTpxHJSTZnidXFr70he) | 3:27 | 2024-04-16 | 2024-12-03 |
 | [PRETTY GIRLS](https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [PRETTY GIRLS](https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk) | 2:25 | 2024-08-29 | 2024-09-25 |
-| [Priceless \(feat\. LISA\)](https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Priceless \(feat\. LISA\)](https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ) | 2:43 | 2025-05-07 |  |
+| [Priceless \(feat\. LISA\)](https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Priceless \(feat\. LISA\)](https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ) | 2:43 | 2025-05-07 | 2025-06-11 |
 | [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 | 2024-03-28 | 2024-08-02 |
 | [QUE HACES](https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [QUE HACES](https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ) | 2:51 | 2025-05-12 |  |
 | [Queen Of My Castle](https://open.spotify.com/track/5AkKovjix5SPXurPaV1p69) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Queen Of My Castle](https://open.spotify.com/album/5g6FHRdXl51AAOmlJaHfk9) | 2:36 | 2024-05-02 | 2024-12-18 |
@@ -535,6 +535,7 @@
 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 | 2023-05-15 | 2023-08-18 |
 | [Silverline \(lean on me\)](https://open.spotify.com/track/2j7ex6Rt50bJJw2ei7KOO1) | [Laura Tesoro](https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2), [Anna Winkin](https://open.spotify.com/artist/19wbJkKeRqpnf1ibyz1tVI) | [Silverline \(lean on me\)](https://open.spotify.com/album/6oUIMVSaRi6UycUXpDA3oj) | 3:04 | 2025-04-24 |  |
 | [SIMPLY THE BEST](https://open.spotify.com/track/31rWRFlQyMpmF6hfN4vUFj) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [ELEVATION](https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn) | 3:56 | 2023-02-23 | 2023-06-06 |
+| [Sirenita](https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Sirenita](https://open.spotify.com/album/368kxIiTLbrhAzdIq48WnJ) | 2:49 | 2025-06-10 |  |
 | [Skyboy](https://open.spotify.com/track/2HFigR6saLng0ZUEr9ISCE) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Skyboy](https://open.spotify.com/album/1aBJUsmDLkDgfeZ2nCqHlm) | 3:31 | 2023-03-09 | 2023-07-05 |
 | [SLEEP TONIGHT \(THIS IS THE LIFE\) \- with R3HAB and Sam Feldt](https://open.spotify.com/track/3pt8FTbqdnMyh3r9noAYsQ) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [SLEEP TONIGHT \(THIS IS THE LIFE\) \[with R3HAB and Sam Feldt\]](https://open.spotify.com/album/7CsXgmeC033GlMrmETGDru) | 2:16 | 2024-02-28 | 2024-07-19 |
 | [Slow It Down](https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 2:41 | 2024-04-25 | 2024-12-06 |

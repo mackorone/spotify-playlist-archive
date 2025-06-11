@@ -1,12 +1,12 @@
 {
   "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49510,
+  "num_followers": 49511,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAABiOFSObRzMpty7tTVzbtX1",
+  "snapshot_id": "aEYkAAAAAAD1hoMPnLe14fd2U/5axzxJ",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Too Sensitive For This Shit",
-        "url": "https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 159288,
-      "name": "L.O.V.E. Me",
-      "url": "https://open.spotify.com/track/62yWj1rl3dmeamxfBjOtHO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mr. Brightside",
         "url": "https://open.spotify.com/album/0jLNuoqf2JVuAcNr1vrUex"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 228431,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/1Soa5Axg9Ob0XVYNqXhisX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Too Sensitive For This Shit",
+        "url": "https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 159288,
+      "name": "L.O.V.E. Me",
+      "url": "https://open.spotify.com/track/62yWj1rl3dmeamxfBjOtHO"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 213745,
-      "name": "Hit & Run",
-      "url": "https://open.spotify.com/track/1jlLg8ZQbvCTkIoP2fI70b"
+      "duration_ms": 206618,
+      "name": "A Belle to Remember",
+      "url": "https://open.spotify.com/track/2I05iyCC84kQHipFDl7yfd"
     },
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 206618,
-      "name": "A Belle to Remember",
-      "url": "https://open.spotify.com/track/2I05iyCC84kQHipFDl7yfd"
+      "duration_ms": 213745,
+      "name": "Hit & Run",
+      "url": "https://open.spotify.com/track/1jlLg8ZQbvCTkIoP2fI70b"
     },
     {
       "added_at": null,

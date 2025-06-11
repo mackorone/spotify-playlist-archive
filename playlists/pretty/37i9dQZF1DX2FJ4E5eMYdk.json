@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 184320,
+  "num_followers": 184374,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Panther in the Dollhouse",
+        "url": "https://open.spotify.com/album/6uFReUE0X1oqtumrJLdy26"
+      },
+      "artists": [
+        {
+          "name": "Whitehorse",
+          "url": "https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss"
+        }
+      ],
+      "duration_ms": 203319,
+      "name": "Nighthawks",
+      "url": "https://open.spotify.com/track/3eTCd9Vrjl3EwaitvfcmbG"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "Bottle It In",
         "url": "https://open.spotify.com/album/7lXj7neMWuwD4PTYkaToes"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 261986,
       "name": "It Came to Me",
       "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Panther in the Dollhouse",
-        "url": "https://open.spotify.com/album/6uFReUE0X1oqtumrJLdy26"
-      },
-      "artists": [
-        {
-          "name": "Whitehorse",
-          "url": "https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss"
-        }
-      ],
-      "duration_ms": 203319,
-      "name": "Nighthawks",
-      "url": "https://open.spotify.com/track/3eTCd9Vrjl3EwaitvfcmbG"
     },
     {
       "added_at": "2024-07-05 19:49:15",

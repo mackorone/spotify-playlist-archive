@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAABgrfAaMZ1Fvu82fb4sOCqj",
+  "snapshot_id": "aEYkAAAAAADwnBOPN+3g+bFfbutMfcwN",
   "tracks": [
     {
       "added_at": null,
@@ -75,6 +75,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Doce Presen\u00e7a",
+        "url": "https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E"
+      },
+      "artists": [
+        {
+          "name": "Fred Arrais",
+          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 247104,
+      "name": "Doce Presen\u00e7a",
+      "url": "https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adora\u00e7\u00e3o 7 - Filho do Homem",
         "url": "https://open.spotify.com/album/6PHskQPBNPz0blL2d5MCit"
       },
@@ -95,26 +115,6 @@
       "duration_ms": 307644,
       "name": "Meu Prazer",
       "url": "https://open.spotify.com/track/1xWZv65Lh0soR16GOhTsoV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doce Presen\u00e7a",
-        "url": "https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E"
-      },
-      "artists": [
-        {
-          "name": "Fred Arrais",
-          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 247104,
-      "name": "Doce Presen\u00e7a",
-      "url": "https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Orar e Adorar: O Cora\u00e7\u00e3o de Quem Adora",
-        "url": "https://open.spotify.com/album/2n9IDWleJ5NPsWInxVMyKz"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 356053,
-      "name": "A Do\u00e7ura do Teu Falar",
-      "url": "https://open.spotify.com/track/3uOBqGrPcqIlcLFtvsqK7R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pra Me Alegrar",
         "url": "https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 241906,
       "name": "O Deserto Vale Ouro (feat. Fernanda Brum)",
       "url": "https://open.spotify.com/track/5kMfmB02ngkeIwfI9FgXxZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Orar e Adorar: O Cora\u00e7\u00e3o de Quem Adora",
+        "url": "https://open.spotify.com/album/2n9IDWleJ5NPsWInxVMyKz"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 356053,
+      "name": "A Do\u00e7ura do Teu Falar",
+      "url": "https://open.spotify.com/track/3uOBqGrPcqIlcLFtvsqK7R"
     },
     {
       "added_at": null,
@@ -419,22 +419,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imenso Amor",
-        "url": "https://open.spotify.com/album/2jjIGswLhaembsSRP4d6J4"
+        "name": "O Poder de Alian\u00e7a",
+        "url": "https://open.spotify.com/album/4zsVqpHfZlhH5QChdJ14ab"
       },
       "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        },
         {
           "name": "Ludmila Ferber",
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 203235,
-      "name": "Imenso Amor",
-      "url": "https://open.spotify.com/track/6Fe1vCxKNy15hK4LWBl86n"
+      "duration_ms": 296613,
+      "name": "Deus Conhece",
+      "url": "https://open.spotify.com/track/3yhGDWHhhewie2l9sMr4Yp"
     },
     {
       "added_at": null,
@@ -455,18 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Poder de Alian\u00e7a",
-        "url": "https://open.spotify.com/album/4zsVqpHfZlhH5QChdJ14ab"
+        "name": "Imenso Amor",
+        "url": "https://open.spotify.com/album/2jjIGswLhaembsSRP4d6J4"
       },
       "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        },
         {
           "name": "Ludmila Ferber",
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 296613,
-      "name": "Deus Conhece",
-      "url": "https://open.spotify.com/track/3yhGDWHhhewie2l9sMr4Yp"
+      "duration_ms": 203235,
+      "name": "Imenso Amor",
+      "url": "https://open.spotify.com/track/6Fe1vCxKNy15hK4LWBl86n"
     },
     {
       "added_at": null,
@@ -675,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
-        "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 459662,
-      "name": "Nunca Pare De Lutar",
-      "url": "https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adora\u00e7\u00e3o 5 - Quebrando as Maldi\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/2GNk5f7VzqFBea2pmEnOaR"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 200176,
       "name": "Maior Amor",
       "url": "https://open.spotify.com/track/3lfNmjigw0revdL0xkZlxu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
+        "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 459662,
+      "name": "Nunca Pare De Lutar",
+      "url": "https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V"
     },
     {
       "added_at": null,
@@ -823,38 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can\u00e7\u00f5es Inesquec\u00edveis",
-        "url": "https://open.spotify.com/album/4WfAu0Bd0G638EiZKCw4yO"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 372800,
-      "name": "Tempo de Cura",
-      "url": "https://open.spotify.com/track/5gjX2f8PACqq8dqUXwOdMI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Orar e Adorar 3 - Ou\u00e7o Deus Me Chamar",
-        "url": "https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 421866,
-      "name": "Toma Teu Trono",
-      "url": "https://open.spotify.com/track/0EYhxEagvkr3yasS5goZSQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rastros de Amor (ao Vivo)",
         "url": "https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF"
       },
@@ -875,6 +843,38 @@
       "duration_ms": 227013,
       "name": "Jesus, A Rocha Eterna - Ao Vivo",
       "url": "https://open.spotify.com/track/0J97poNV4fN5atj0hgjTXi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Orar e Adorar 3 - Ou\u00e7o Deus Me Chamar",
+        "url": "https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 421866,
+      "name": "Toma Teu Trono",
+      "url": "https://open.spotify.com/track/0EYhxEagvkr3yasS5goZSQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can\u00e7\u00f5es Inesquec\u00edveis",
+        "url": "https://open.spotify.com/album/4WfAu0Bd0G638EiZKCw4yO"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 372800,
+      "name": "Tempo de Cura",
+      "url": "https://open.spotify.com/track/5gjX2f8PACqq8dqUXwOdMI"
     },
     {
       "added_at": null,

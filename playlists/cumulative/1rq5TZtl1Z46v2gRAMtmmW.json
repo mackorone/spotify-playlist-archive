@@ -1459,6 +1459,24 @@
     },
     {
       "album": {
+        "name": "CHROMA 010",
+        "url": "https://open.spotify.com/album/3Ny8QJii9zz7d3Qs4I8WmB"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271085,
+      "name": "CHROMA 010 BRILLO",
+      "url": "https://open.spotify.com/track/7kDzjUYcQ1Gi1u2zWeXwY0"
+    },
+    {
+      "album": {
         "name": "Circle Back Around",
         "url": "https://open.spotify.com/album/4crvOlmTqKOcYeZkNs3D33"
       },

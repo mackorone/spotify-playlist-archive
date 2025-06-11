@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Link do Zap
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,147 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,190 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 26 | [Má Fase](https://open.spotify.com/track/4Y7WXxhgHDNctcO9MzA2e7) | [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS) | [Diamante Rubi](https://open.spotify.com/album/53LoH3VaZcXkOA8LzPHwUJ) | 4:12 |
 | 27 | [OUTRA REALIDADE](https://open.spotify.com/track/28DVvFIEB1NAYcxKL65oMl) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Cris SNJ](https://open.spotify.com/artist/69qkC8x2DGT4yjuwXNFQPf), [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Nega Gizza](https://open.spotify.com/artist/3oiQITN04AtBYNL1vRvAZy), [DJ Negrito](https://open.spotify.com/artist/7moCvonQ3XMZVzrlsTK4K1) | [OUTRA REALIDADE](https://open.spotify.com/album/0HmLrWoCZvc4d2Cz0cB4Jq) | 4:24 |
 | 28 | [Rap Bom](https://open.spotify.com/track/1rAIZVMq28d5xTvbAKjHJR) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [Jackson Ganga](https://open.spotify.com/artist/2eAUt3uGVV4YJlyM9ZW161) | [Rap Bom](https://open.spotify.com/album/0Jw1xflA7TBugdF0BQZ9dQ) | 3:16 |
-| 29 | [Carburando a Forte](https://open.spotify.com/track/1j34JFx7sfJNCpdUAd6tok) | [Gorilla Concept Music](https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Carburando a Forte](https://open.spotify.com/album/5Ysr9JEkxjb0TxCBvzRXzZ) | 2:35 |
+| 29 | [Carburando a Forte](https://open.spotify.com/track/1j34JFx7sfJNCpdUAd6tok) | [Gorilla Concept Music](https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Mvzza](https://open.spotify.com/artist/2fkE2uxHML1rUsTu0h5LJf) | [Carburando a Forte](https://open.spotify.com/album/5Ysr9JEkxjb0TxCBvzRXzZ) | 2:35 |
 | 30 | [Agradecer](https://open.spotify.com/track/1S36mq449TuEpTKhODvf3G) | [Gorilla Concept Music](https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [Agradecer](https://open.spotify.com/album/0yV8PBoAVVbRUQah3SQv7z) | 2:10 |
 | 31 | [Caso Encerrado](https://open.spotify.com/track/5Pc8y48ecP95ljRyeyOC6P) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG), [Alemar](https://open.spotify.com/artist/762y4kQE966IVmD9SMT79l) | [Caso Encerrado](https://open.spotify.com/album/3xrlw1cyO9517yv8oQCiBJ) | 3:46 |
 | 32 | [Sagrado](https://open.spotify.com/track/6cNCBpAOFUAPqZ2PT89Iuu) | [Gigante No Mic](https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX), [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Skimn](https://open.spotify.com/artist/1KDMy6PF82No6Tx2VGdFXt) | [Sagrado](https://open.spotify.com/album/29vFt57MdPG6NPWsoZHoNF) | 4:43 |

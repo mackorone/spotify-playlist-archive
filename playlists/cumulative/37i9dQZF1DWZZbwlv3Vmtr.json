@@ -5900,7 +5900,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 141686,
       "name": "Glimmers",
       "url": "https://open.spotify.com/track/7ooO1azb9V79AwrCCDDsDM"
@@ -6316,7 +6316,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 122789,
       "name": "Greenhouse",
       "url": "https://open.spotify.com/track/7kMMiLUe4vBChQSNxlIlwR"
@@ -6744,7 +6744,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 156838,
       "name": "Heaux",
       "url": "https://open.spotify.com/track/2XF3s6ycUXSJQCVMteiERI"
@@ -8508,6 +8508,24 @@
       "duration_ms": 169500,
       "name": "Layovers",
       "url": "https://open.spotify.com/track/11fKCRvb1iBkuHK7Etq3bv"
+    },
+    {
+      "album": {
+        "name": "lazy",
+        "url": "https://open.spotify.com/album/0M4szo3iu3uNN36UR81JWX"
+      },
+      "artists": [
+        {
+          "name": "teylors",
+          "url": "https://open.spotify.com/artist/71ZUjeK7Y7ELruTeS2Nd7X"
+        }
+      ],
+      "date_added": "2025-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "lazy",
+      "url": "https://open.spotify.com/track/3mGpooqbPt5GddbS6U5Azr"
     },
     {
       "album": {
@@ -11588,6 +11606,24 @@
       "duration_ms": 192000,
       "name": "Orange and More Orange",
       "url": "https://open.spotify.com/track/7zLvnQVUahgEm9TmV7dtjn"
+    },
+    {
+      "album": {
+        "name": "Oscar",
+        "url": "https://open.spotify.com/album/7fZitTtCmUP5HqYGcjbIOu"
+      },
+      "artists": [
+        {
+          "name": "pipetiger",
+          "url": "https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL"
+        }
+      ],
+      "date_added": "2025-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118045,
+      "name": "Oscar",
+      "url": "https://open.spotify.com/track/6OaTHXIlJk7yDVCMEAyV4v"
     },
     {
       "album": {
@@ -16124,7 +16160,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-30",
+      "date_removed": null,
       "duration_ms": 125714,
       "name": "Sunglasses at Night",
       "url": "https://open.spotify.com/track/7bprxmvPWGSdYIyjcXKVSV"

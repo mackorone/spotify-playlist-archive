@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 
 > Kom maar op met de zon ☀️🌼🌻
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,129 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,318 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 | 48 | [Something Like Magic](https://open.spotify.com/track/0O5dq70LiQB66YxkAfUA2H) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Something Like Magic](https://open.spotify.com/album/3gKlBSjuaGHkzYhZC5iPj2) | 2:29 |
 | 49 | [Alles Wordt Beter](https://open.spotify.com/track/5d0KtdnoPpniNFngV5ehcP) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Alles Wordt Beter](https://open.spotify.com/album/7CgvY0HQwJiDPh9ENB59DB) | 3:11 |
 | 50 | [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 |
-| 51 | [Mais além \(Beyond\)](https://open.spotify.com/track/6ruAYarEGAhBlKXeip5nYN) | [Zuco 103](https://open.spotify.com/artist/7m5FwndSbCRd5vJvgviUCA) | [Mais além \(Beyond\)](https://open.spotify.com/album/0ZZS2TrYk46doyRvE1qzvb) | 3:28 |
+| 51 | [Sirenita](https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Sirenita](https://open.spotify.com/album/368kxIiTLbrhAzdIq48WnJ) | 2:49 |
 | 52 | [Invincible \- from Kaiju No\. 8](https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Invincible \(from Kaiju No\. 8\)](https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p) | 2:35 |
 | 53 | [How Do I Feel](https://open.spotify.com/track/3EsjWjJBj1uRUHdRdwJc4U) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [How Do I Feel](https://open.spotify.com/album/02xxO3zXFAZezAzyuaLpVQ) | 2:46 |
 | 54 | [Misfits](https://open.spotify.com/track/1YNKJeJImFDqyOtJD543uH) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Misfits](https://open.spotify.com/album/65VFiBQZyDAxVq5Fy3cpIr) | 2:42 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 | 60 | [SMOKE THE PAIN AWAY](https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [SMOKE THE PAIN AWAY](https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP) | 2:42 |
 | 61 | [Tears Dry Tonight](https://open.spotify.com/track/3WjljjNzoLEQxghZLoAyFQ) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Tears Dry Tonight](https://open.spotify.com/album/2x4jGKWr3BFg511NVr88Cq) | 2:47 |
 | 62 | [Ik Zing \(feat\. Snelle\)](https://open.spotify.com/track/0fROjdyTv6S6E65qpQfwHa) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Ik Zing \(feat\. Snelle\)](https://open.spotify.com/album/0mGKEPfav9UHa2wssnrruz) | 2:54 |
-| 63 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 |
-| 64 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
-| 65 | [Slow Motion](https://open.spotify.com/track/2xijXb00w9o7Ol04MPCL6c) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Slow Motion](https://open.spotify.com/album/6AigIAiWriqJI4dgWjwFqf) | 2:31 |
-| 66 | [Ken Je Dat Gevoel](https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Ken Je Dat Gevoel](https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x) | 2:51 |
-| 67 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
-| 68 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 |
-| 69 | [Priceless \(feat\. LISA\)](https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Priceless \(feat\. LISA\)](https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ) | 2:43 |
+| 63 | [Mais além \(Beyond\)](https://open.spotify.com/track/6ruAYarEGAhBlKXeip5nYN) | [Zuco 103](https://open.spotify.com/artist/7m5FwndSbCRd5vJvgviUCA) | [Mais além \(Beyond\)](https://open.spotify.com/album/0ZZS2TrYk46doyRvE1qzvb) | 3:28 |
+| 64 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 |
+| 65 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
+| 66 | [Slow Motion](https://open.spotify.com/track/2xijXb00w9o7Ol04MPCL6c) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Slow Motion](https://open.spotify.com/album/6AigIAiWriqJI4dgWjwFqf) | 2:31 |
+| 67 | [Ken Je Dat Gevoel](https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Ken Je Dat Gevoel](https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x) | 2:51 |
+| 68 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |
+| 69 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 |
 | 70 | [Con Calma](https://open.spotify.com/track/2z4t6UgsOQeuzWF4CN6RWu) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Con Calma](https://open.spotify.com/album/63jwtYCNzu0DgoOYt6LXVi) | 2:36 |
 | 71 | [Jouw Idee](https://open.spotify.com/track/6u9MrPWzCXj0pQjuglCyqy) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 3:20 |
 | 72 | [This One's On The House](https://open.spotify.com/track/0rtgKV8GI1SBTDhBxh2jkg) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [This One's On The House](https://open.spotify.com/album/5BsfvWMM9xq24X92OwOhNX) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 | 99 | [Heart Like Mine \(feat\. Rosa Linn\)](https://open.spotify.com/track/4xqekuN4lfu6MBeWov0Icl) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Heart Like Mine \(feat\. Rosa Linn\)](https://open.spotify.com/album/2k7ml7X0RXedgJaW7nkjak) | 2:29 |
 | 100 | [Burning Down](https://open.spotify.com/track/4sRKsQ7zQEACvXTi7hPyjX) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Burning Down \(Alex’s Version\)](https://open.spotify.com/album/44SlAPqGthCRERcF5874so) | 2:59 |
 
-Snapshot ID: `aEMI5wAAAACjIHBbaluCLJzvkO1IS5rq`
+Snapshot ID: `aEg6dgAAAAB5UxbIqLQ402DE+2ibuzDx`

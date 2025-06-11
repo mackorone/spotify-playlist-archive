@@ -1,12 +1,12 @@
 {
   "description": "This is FLOW. The essential tracks, all in one playlist.",
-  "num_followers": 30358,
+  "num_followers": 30360,
   "original_name": "This Is FLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAACycGdU8xaeTugrSbAvBaVb",
+  "snapshot_id": "aEYkAAAAAABW/4ftOgjc456L1rdT0C63",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPLASH!!!\u3000\u301c\u9065\u304b\u306a\u308b\u81ea\u4e3b\u5236\u4f5cBEST\u301c",
-        "url": "https://open.spotify.com/album/59g7wpzEHm6dyxE9HJfUZp"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 245693,
-      "name": "\u30e1\u30ed\u30b9",
-      "url": "https://open.spotify.com/track/0alUfU5ZaXKF8IbDykGikb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TRIBALYTHM",
         "url": "https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar"
       },
@@ -515,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "26 a Go Go !!!",
-        "url": "https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs"
+        "name": "SPLASH!!!\u3000\u301c\u9065\u304b\u306a\u308b\u81ea\u4e3b\u5236\u4f5cBEST\u301c",
+        "url": "https://open.spotify.com/album/59g7wpzEHm6dyxE9HJfUZp"
       },
       "artists": [
         {
@@ -524,9 +508,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 225800,
-      "name": "GLORY DAYS",
-      "url": "https://open.spotify.com/track/3ad19A6jKYDikNoOtjxVXM"
+      "duration_ms": 245693,
+      "name": "\u30e1\u30ed\u30b9",
+      "url": "https://open.spotify.com/track/0alUfU5ZaXKF8IbDykGikb"
     },
     {
       "added_at": null,
@@ -551,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "26 a Go Go !!!",
+        "url": "https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 225800,
+      "name": "GLORY DAYS",
+      "url": "https://open.spotify.com/track/3ad19A6jKYDikNoOtjxVXM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "INNOSENSE Special Edition",
         "url": "https://open.spotify.com/album/3JxLf3XTj5Qw3jrnJeqjgV"
       },
@@ -563,6 +563,22 @@
       "duration_ms": 242373,
       "name": "INNOSENSE",
       "url": "https://open.spotify.com/track/1rRy8TzvkjTxvI2moGqmDl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLACK & WHITE",
+        "url": "https://open.spotify.com/album/5REfiCQKIQ8BkQUjQlzvfF"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 222226,
+      "name": "Hey!!!",
+      "url": "https://open.spotify.com/track/1ccEcnMjkBufGHaxi4Yzdp"
     },
     {
       "added_at": null,
@@ -583,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLACK & WHITE",
-        "url": "https://open.spotify.com/album/5REfiCQKIQ8BkQUjQlzvfF"
+        "name": "DAYS",
+        "url": "https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY"
       },
       "artists": [
         {
@@ -592,9 +608,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 222226,
-      "name": "Hey!!!",
-      "url": "https://open.spotify.com/track/1ccEcnMjkBufGHaxi4Yzdp"
+      "duration_ms": 91786,
+      "name": "DAYS \u301cEUREKA OPENING MIX\u301c",
+      "url": "https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD"
     },
     {
       "added_at": null,
@@ -619,22 +635,6 @@
       "duration_ms": 269693,
       "name": "LOUDER",
       "url": "https://open.spotify.com/track/70M4Ld9pUnFHcTissTRfUF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DAYS",
-        "url": "https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 91786,
-      "name": "DAYS \u301cEUREKA OPENING MIX\u301c",
-      "url": "https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Coast",
-        "url": "https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Realize",
-      "url": "https://open.spotify.com/track/4pwLHkVcHkLNPl8GjwEft1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30e2\u30e1\u30f3\u30c8",
         "url": "https://open.spotify.com/album/4RTmbNBIQKliym9xSlGLlT"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 243134,
       "name": "LOST",
       "url": "https://open.spotify.com/track/6aVfbXl9xV7de7vaFxnYb6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golden Coast",
+        "url": "https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/4pwLHkVcHkLNPl8GjwEft1"
     },
     {
       "added_at": null,
@@ -771,18 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CLOSER",
-        "url": "https://open.spotify.com/album/71MY6Oc8qW00UdkoxRmVzb"
+        "name": "Howling",
+        "url": "https://open.spotify.com/album/69EHjc9rHKNBR7E6I2xAsL"
       },
       "artists": [
         {
           "name": "FLOW",
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "GRANRODEO",
+          "url": "https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc"
         }
       ],
-      "duration_ms": 209527,
-      "name": "CLOSER",
-      "url": "https://open.spotify.com/track/5kbJRlLEBgMsYgrjUbLEjb"
+      "duration_ms": 91906,
+      "name": "Howling -TV Size-",
+      "url": "https://open.spotify.com/track/3KAXKgP9pqOozsACcuFUsb"
     },
     {
       "added_at": null,
@@ -803,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CLOSER",
+        "url": "https://open.spotify.com/album/71MY6Oc8qW00UdkoxRmVzb"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 209527,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/5kbJRlLEBgMsYgrjUbLEjb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u97f3\u8272 / Break it down",
         "url": "https://open.spotify.com/album/7ryXVjydzPTwKLVeQIddYm"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 278946,
       "name": "\u97f3\u8272",
       "url": "https://open.spotify.com/track/0hLxJzPDAP096Bz0fRZ3L6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Howling",
-        "url": "https://open.spotify.com/album/69EHjc9rHKNBR7E6I2xAsL"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        },
-        {
-          "name": "GRANRODEO",
-          "url": "https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc"
-        }
-      ],
-      "duration_ms": 91906,
-      "name": "Howling -TV Size-",
-      "url": "https://open.spotify.com/track/3KAXKgP9pqOozsACcuFUsb"
     },
     {
       "added_at": null,

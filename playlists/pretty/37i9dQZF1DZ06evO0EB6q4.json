@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 246148,
+  "num_followers": 246266,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAAB1fYES3Vth24dEyMLHmvaL",
+  "snapshot_id": "aEYkAAAAAABB7Pn8v71/aimiH7stuys6",
   "tracks": [
     {
       "added_at": null,
@@ -763,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compilado, Vol. 1",
-        "url": "https://open.spotify.com/album/7fZDOnXpFSO6hUe0Ds9iAG"
+        "name": "No Pienses Que Me Fui",
+        "url": "https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG"
       },
       "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 190542,
-      "name": "M\u00eda",
-      "url": "https://open.spotify.com/track/4DJglNblWD6tSBHIqe3Ymq"
+      "duration_ms": 150186,
+      "name": "No Pienses Que Me Fui",
+      "url": "https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM"
     },
     {
       "added_at": null,
@@ -799,22 +803,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pienses Que Me Fui",
-        "url": "https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG"
+        "name": "Compilado, Vol. 1",
+        "url": "https://open.spotify.com/album/7fZDOnXpFSO6hUe0Ds9iAG"
       },
       "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 150186,
-      "name": "No Pienses Que Me Fui",
-      "url": "https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM"
+      "duration_ms": 190542,
+      "name": "M\u00eda",
+      "url": "https://open.spotify.com/track/4DJglNblWD6tSBHIqe3Ymq"
     },
     {
       "added_at": null,

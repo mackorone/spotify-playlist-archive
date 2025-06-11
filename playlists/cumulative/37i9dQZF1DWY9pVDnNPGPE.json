@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "TEENS",
+        "url": "https://open.spotify.com/album/13Xma3LR5wz4tuWyJzztk0"
+      },
+      "artists": [
+        {
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "B4N (Bye For Now)",
+      "url": "https://open.spotify.com/track/6t488oJlCcGfUq34T8A3LD"
+    },
+    {
+      "album": {
         "name": "LOVE or TAKE",
         "url": "https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV"
       },
@@ -588,7 +606,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 164861,
       "name": "Dream about You",
       "url": "https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD"
@@ -646,7 +664,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 208920,
       "name": "Falling In Love (feat. 10cm)",
       "url": "https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX"
@@ -664,7 +682,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 209306,
       "name": "Fanfare",
       "url": "https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco"
@@ -1733,6 +1751,28 @@
     },
     {
       "album": {
+        "name": "Summer breeze (with Chamsom)",
+        "url": "https://open.spotify.com/album/4rIjeq5wb89TkL3SR2aOaT"
+      },
+      "artists": [
+        {
+          "name": "saevom",
+          "url": "https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca"
+        },
+        {
+          "name": "Chamsom",
+          "url": "https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213375,
+      "name": "Summer breeze (with Chamsom)",
+      "url": "https://open.spotify.com/track/2uMhkwGoyDNeDfujSQHOOg"
+    },
+    {
+      "album": {
         "name": "Summer Festa",
         "url": "https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM"
       },
@@ -1766,6 +1806,24 @@
       "duration_ms": 150250,
       "name": "SummerSweet",
       "url": "https://open.spotify.com/track/6eFTJraZWhyEmFa6Fx3MnZ"
+    },
+    {
+      "album": {
+        "name": "SAVe tHE AiR GREEN CONCERT",
+        "url": "https://open.spotify.com/album/7g9jb9Xf9iCZBbf46yMFVJ"
+      },
+      "artists": [
+        {
+          "name": "Zitten",
+          "url": "https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226400,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/6D4ZkbtBd4DshKMzStOf8x"
     },
     {
       "album": {

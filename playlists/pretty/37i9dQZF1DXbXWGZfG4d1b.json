@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour. ",
-  "num_followers": 24330,
+  "num_followers": 24333,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
+        "name": "Yo Me Quedo / Todo El Bien",
+        "url": "https://open.spotify.com/album/1FXcQJgH3C44yfym4BD7cz"
+      },
+      "artists": [
+        {
+          "name": "RYAN",
+          "url": "https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E"
+        }
+      ],
+      "duration_ms": 174144,
+      "name": "Yo Me Quedo",
+      "url": "https://open.spotify.com/track/6t9ENASZMz9BDBCw3Owkpp"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
         "name": "Medalla De Oro A La Mejor Canci\u00f3n De Amor",
         "url": "https://open.spotify.com/album/3SHCY55PM5ueF7hoiFspgN"
       },
@@ -395,38 +411,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Yo Me Quedo / Todo El Bien",
-        "url": "https://open.spotify.com/album/1FXcQJgH3C44yfym4BD7cz"
-      },
-      "artists": [
-        {
-          "name": "RYAN",
-          "url": "https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E"
-        }
-      ],
-      "duration_ms": 174144,
-      "name": "Yo Me Quedo",
-      "url": "https://open.spotify.com/track/6t9ENASZMz9BDBCw3Owkpp"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
-        "name": "YASS",
-        "url": "https://open.spotify.com/album/7iZXMSMM0P3VNTsIx8Xfjy"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        }
-      ],
-      "duration_ms": 185390,
-      "name": "HAT TRICK",
-      "url": "https://open.spotify.com/track/1dLUkI78UJyPZgcP3t9XUd"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Mi Verano Oscuro",
         "url": "https://open.spotify.com/album/1sy7k2IzwSt2z2NoOXjUsp"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 197005,
       "name": "Solo",
       "url": "https://open.spotify.com/track/74W7TUPaRUOQgIj60HAcCh"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "YASS",
+        "url": "https://open.spotify.com/album/7iZXMSMM0P3VNTsIx8Xfjy"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        }
+      ],
+      "duration_ms": 185390,
+      "name": "HAT TRICK",
+      "url": "https://open.spotify.com/track/1dLUkI78UJyPZgcP3t9XUd"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Y Nada Sirve",
-        "url": "https://open.spotify.com/album/6uciJQidm2CY2M127Ei5Vq"
-      },
-      "artists": [
-        {
-          "name": "Catalina Ammaturo",
-          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "Y Nada Sirve",
-      "url": "https://open.spotify.com/track/4NtSf2833RafoCkuKrrSEi"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Polvo",
         "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 236890,
       "name": "Polvo",
       "url": "https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Y Nada Sirve",
+        "url": "https://open.spotify.com/album/6uciJQidm2CY2M127Ei5Vq"
+      },
+      "artists": [
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "Y Nada Sirve",
+      "url": "https://open.spotify.com/track/4NtSf2833RafoCkuKrrSEi"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Caminar en Cristal",
-        "url": "https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S"
-      },
-      "artists": [
-        {
-          "name": "Catalina Ammaturo",
-          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
-        }
-      ],
-      "duration_ms": 144071,
-      "name": "Caminar en Cristal",
-      "url": "https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Romance Con la Luna",
         "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 132221,
       "name": "Botella",
       "url": "https://open.spotify.com/track/1vINgAHcEj9PQCI18LhHIH"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Caminar en Cristal",
+        "url": "https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S"
+      },
+      "artists": [
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "duration_ms": 144071,
+      "name": "Caminar en Cristal",
+      "url": "https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "general paz",
-        "url": "https://open.spotify.com/album/4IA2B09XZkxSovqVhonkUR"
-      },
-      "artists": [
-        {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
-        }
-      ],
-      "duration_ms": 169581,
-      "name": "General Paz",
-      "url": "https://open.spotify.com/track/7uRSvEQAlYng9g92DQY6RX"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "ME FUI DE LA FIESTA",
         "url": "https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN"
       },
@@ -783,26 +767,18 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Nokia 1100 (Recreo's Version) / Terraplanistas.mp3",
-        "url": "https://open.spotify.com/album/2m5ub94hReyIxDAkXxY9PE"
+        "name": "general paz",
+        "url": "https://open.spotify.com/album/4IA2B09XZkxSovqVhonkUR"
       },
       "artists": [
         {
-          "name": "Recreo Uruguayo",
-          "url": "https://open.spotify.com/artist/3jqihnUiBnGtwsqjYVVXZ1"
-        },
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
-        },
-        {
-          "name": "Justo B Fornaroli",
-          "url": "https://open.spotify.com/artist/5hIcFzrzUvL4n6Ntz1draz"
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
         }
       ],
-      "duration_ms": 124992,
-      "name": "Nokia 1100 (Recreo's Version)",
-      "url": "https://open.spotify.com/track/69yHFCm63qP6ivEm9SIARG"
+      "duration_ms": 169581,
+      "name": "General Paz",
+      "url": "https://open.spotify.com/track/7uRSvEQAlYng9g92DQY6RX"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -839,6 +815,30 @@
       "duration_ms": 219881,
       "name": "Lpm",
       "url": "https://open.spotify.com/track/0rtzPxprZcyDhDz9SP3N25"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Nokia 1100 (Recreo's Version) / Terraplanistas.mp3",
+        "url": "https://open.spotify.com/album/2m5ub94hReyIxDAkXxY9PE"
+      },
+      "artists": [
+        {
+          "name": "Recreo Uruguayo",
+          "url": "https://open.spotify.com/artist/3jqihnUiBnGtwsqjYVVXZ1"
+        },
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        },
+        {
+          "name": "Justo B Fornaroli",
+          "url": "https://open.spotify.com/artist/5hIcFzrzUvL4n6Ntz1draz"
+        }
+      ],
+      "duration_ms": 124992,
+      "name": "Nokia 1100 (Recreo's Version)",
+      "url": "https://open.spotify.com/track/69yHFCm63qP6ivEm9SIARG"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -887,6 +887,22 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
+        "name": "Losers' Paradise",
+        "url": "https://open.spotify.com/album/0nWLiIqkHQ2LmgkUJ9SwhJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Vin",
+          "url": "https://open.spotify.com/artist/11LJcIdoTUeF7PtDwd5TUc"
+        }
+      ],
+      "duration_ms": 210750,
+      "name": "Losers' Paradise",
+      "url": "https://open.spotify.com/track/529Hflo1AuaNdEoOmA0ELu"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
         "name": "Cae la noche",
         "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Losers' Paradise",
-        "url": "https://open.spotify.com/album/0nWLiIqkHQ2LmgkUJ9SwhJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Vin",
-          "url": "https://open.spotify.com/artist/11LJcIdoTUeF7PtDwd5TUc"
-        }
-      ],
-      "duration_ms": 210750,
-      "name": "Losers' Paradise",
-      "url": "https://open.spotify.com/track/529Hflo1AuaNdEoOmA0ELu"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Humo y Menta",
         "url": "https://open.spotify.com/album/6OBbs5S884aHFo58MDOUsZ"
       },
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "LOS VIEJOS CON GUITA",
-        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
-      },
-      "artists": [
-        {
-          "name": "cata carpena",
-          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
-        }
-      ],
-      "duration_ms": 244195,
-      "name": "DOSMILUNO",
-      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Destruyo Mi Guitarra",
         "url": "https://open.spotify.com/album/3xVTNIz26kYKfuwjPMomn9"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 117087,
       "name": "Destruyo Mi Guitarra",
       "url": "https://open.spotify.com/track/5Dj8AXxfscyjkgO3M5jiJq"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "LOS VIEJOS CON GUITA",
+        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
+      },
+      "artists": [
+        {
+          "name": "cata carpena",
+          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
+        }
+      ],
+      "duration_ms": 244195,
+      "name": "DOSMILUNO",
+      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "El Hit",
-        "url": "https://open.spotify.com/album/289DmDK5Hnq2Eh0d05HdI7"
-      },
-      "artists": [
-        {
-          "name": "Dum Chica",
-          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
-        }
-      ],
-      "duration_ms": 193928,
-      "name": "El Hit",
-      "url": "https://open.spotify.com/track/0gt0wTEOGBNxooOdDKbKmm"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Puedo ver el mar en tus ojos",
         "url": "https://open.spotify.com/album/5M6UHcIg0mGxbWo9xUdfVF"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Entre L\u00edneas",
-        "url": "https://open.spotify.com/album/1bABFsJ5fcgwxnaimzmJxe"
+        "name": "El Hit",
+        "url": "https://open.spotify.com/album/289DmDK5Hnq2Eh0d05HdI7"
       },
       "artists": [
         {
-          "name": "Cerro Dubl\u00edn",
-          "url": "https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7"
+          "name": "Dum Chica",
+          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
         }
       ],
-      "duration_ms": 196173,
-      "name": "Entre L\u00edneas",
-      "url": "https://open.spotify.com/track/3jPgaRBb1VXKr3nt4pLvFp"
+      "duration_ms": 193928,
+      "name": "El Hit",
+      "url": "https://open.spotify.com/track/0gt0wTEOGBNxooOdDKbKmm"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1211,6 +1195,22 @@
       "duration_ms": 189940,
       "name": "Otra Galaxia",
       "url": "https://open.spotify.com/track/1VVlUSD40U9aOZAiFB0E7k"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Entre L\u00edneas",
+        "url": "https://open.spotify.com/album/1bABFsJ5fcgwxnaimzmJxe"
+      },
+      "artists": [
+        {
+          "name": "Cerro Dubl\u00edn",
+          "url": "https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Entre L\u00edneas",
+      "url": "https://open.spotify.com/track/3jPgaRBb1VXKr3nt4pLvFp"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "El Discreto Encanto de la Melod\u00eda",
-        "url": "https://open.spotify.com/album/4hKhsNXuzsrNNwep7s3dqH"
-      },
-      "artists": [
-        {
-          "name": "Saturno y la Melancol\u00eda",
-          "url": "https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Somos Diferentes",
-      "url": "https://open.spotify.com/track/2s8vUergwWmNyEcoau4O5O"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "El Buen Fantasma",
         "url": "https://open.spotify.com/album/48hbGU7bm2fKzJhoYfI0fA"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 179539,
       "name": "El Buen Fantasma",
       "url": "https://open.spotify.com/track/7iLbWqKcFMp5uCxXqDjihM"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "El Discreto Encanto de la Melod\u00eda",
+        "url": "https://open.spotify.com/album/4hKhsNXuzsrNNwep7s3dqH"
+      },
+      "artists": [
+        {
+          "name": "Saturno y la Melancol\u00eda",
+          "url": "https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Somos Diferentes",
+      "url": "https://open.spotify.com/track/2s8vUergwWmNyEcoau4O5O"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Donde nac\u00ed",
-        "url": "https://open.spotify.com/album/5FdW7ShHsFpZmDPgyjlRSA"
-      },
-      "artists": [
-        {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        }
-      ],
-      "duration_ms": 231270,
-      "name": "Donde nac\u00ed",
-      "url": "https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "Razon",
         "url": "https://open.spotify.com/album/4h9tNVsb4NVkuwlyXODjFa"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 179658,
       "name": "Raz\u00f3n",
       "url": "https://open.spotify.com/track/2HJTLma7NZUMF6gNHRDims"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Donde nac\u00ed",
+        "url": "https://open.spotify.com/album/5FdW7ShHsFpZmDPgyjlRSA"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "duration_ms": 231270,
+      "name": "Donde nac\u00ed",
+      "url": "https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA"
     },
     {
       "added_at": "2025-05-09 15:00:14",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-05-09 15:00:14",
       "album": {
-        "name": "Anclado",
-        "url": "https://open.spotify.com/album/7JjatfKYlSBkcTfChzT4yt"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Laser",
-          "url": "https://open.spotify.com/artist/1G3t1G8HB4X8DIAaix8JaX"
-        }
-      ],
-      "duration_ms": 264500,
-      "name": "Anclado",
-      "url": "https://open.spotify.com/track/3SnASrSEhm1AoHsawT7Wnx"
-    },
-    {
-      "added_at": "2025-05-09 15:00:14",
-      "album": {
         "name": "No Est\u00e1 Mal Volar",
         "url": "https://open.spotify.com/album/6thHooDl6fbhY7eA81TPNJ"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 196434,
       "name": "No Est\u00e1 Mal Volar",
       "url": "https://open.spotify.com/track/5lQCyblY4iqtuAxDCxxOfd"
+    },
+    {
+      "added_at": "2025-05-09 15:00:14",
+      "album": {
+        "name": "Anclado",
+        "url": "https://open.spotify.com/album/7JjatfKYlSBkcTfChzT4yt"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Laser",
+          "url": "https://open.spotify.com/artist/1G3t1G8HB4X8DIAaix8JaX"
+        }
+      ],
+      "duration_ms": 264500,
+      "name": "Anclado",
+      "url": "https://open.spotify.com/track/3SnASrSEhm1AoHsawT7Wnx"
     },
     {
       "added_at": "2025-05-09 15:00:14",

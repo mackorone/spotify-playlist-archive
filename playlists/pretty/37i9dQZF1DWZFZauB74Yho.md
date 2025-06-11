@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Molly Tuttle
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,015 likes - 124 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,037 likes - 124 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 682593,
+  "num_followers": 682741,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAADyE6CJ3kmEZR/1i89zkfBL",
+  "snapshot_id": "aEYkAAAAAAB2Q3LJKV9PPpMjPyTHnFTd",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red (Taylor's Version)",
-        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+        "name": "Bad As I Used To Be (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/7sax23n4Dim8d6MPcyEi8b"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
           "name": "Chris Stapleton",
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
         }
       ],
-      "duration_ms": 285106,
-      "name": "I Bet You Think About Me (feat. Chris Stapleton) (Taylor\u2019s Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/4CkgMiMqZ5JzW9iYXSTMTL"
+      "duration_ms": 300113,
+      "name": "Bad As I Used To Be (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/5r2PhhTusIuX91ZGLqtzvk"
     },
     {
       "added_at": null,
@@ -483,22 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad As I Used To Be (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/7sax23n4Dim8d6MPcyEi8b"
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 300113,
-      "name": "Bad As I Used To Be (From F1\u00ae The Movie)",
-      "url": "https://open.spotify.com/track/5r2PhhTusIuX91ZGLqtzvk"
+      "duration_ms": 285106,
+      "name": "I Bet You Think About Me (feat. Chris Stapleton) (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/4CkgMiMqZ5JzW9iYXSTMTL"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Celebrate Halloween at home with these fun tracks",
-  "num_followers": 72149,
+  "num_followers": 72134,
   "original_name": "Trick or Treat",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-04-30 20:39:41",
       "album": {
+        "name": "Halloween With CoComelon",
+        "url": "https://open.spotify.com/album/2BkpwLT0nO6fZQyOcYcILu"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 113935,
+      "name": "12345 Once I Caught A Ghost Hi-Five!",
+      "url": "https://open.spotify.com/track/4JvesxqwHz4UXo9HUMf64A"
+    },
+    {
+      "added_at": "2025-04-30 20:39:41",
+      "album": {
         "name": "Bones! Bones! Bones!",
         "url": "https://open.spotify.com/album/5V8VkDTGBoTIkxrIywqlda"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 97455,
       "name": "Bones! Bones! Bones!",
       "url": "https://open.spotify.com/track/0eVGZSVkdxVfrtoIZsUDq7"
-    },
-    {
-      "added_at": "2025-04-30 20:39:41",
-      "album": {
-        "name": "Halloween With CoComelon",
-        "url": "https://open.spotify.com/album/2BkpwLT0nO6fZQyOcYcILu"
-      },
-      "artists": [
-        {
-          "name": "CoComelon",
-          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
-        }
-      ],
-      "duration_ms": 113935,
-      "name": "12345 Once I Caught A Ghost Hi-Five!",
-      "url": "https://open.spotify.com/track/4JvesxqwHz4UXo9HUMf64A"
     },
     {
       "added_at": "2025-04-30 20:39:41",

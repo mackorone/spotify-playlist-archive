@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 雷擎 \(L8ching\) x 阿橘 \(Ahh G\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,821 likes - 124 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,820 likes - 124 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [降噪 \- 北流五週年音樂共創計畫](https://open.spotify.com/track/4BR4E1y7La8wxc034rdQn2) | [雷擎](https://open.spotify.com/artist/7GUCq6MngjGs2x50aQdNBV), [阿橘](https://open.spotify.com/artist/6kZYE9gWvwhbkjhcg8ZHqm) | [降噪 \(北流五週年音樂共創計畫\)](https://open.spotify.com/album/2pSyyMeE9Gj043CJXQEW5q) | 4:16 |
+| 1 | [降噪 \- 北流五週年音樂共創計畫](https://open.spotify.com/track/4BR4E1y7La8wxc034rdQn2) | [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf), [阿橘](https://open.spotify.com/artist/6kZYE9gWvwhbkjhcg8ZHqm) | [降噪 \(北流五週年音樂共創計畫\)](https://open.spotify.com/album/2pSyyMeE9Gj043CJXQEW5q) | 4:16 |
 | 2 | [霞](https://open.spotify.com/track/4IdPBhbIVOjbYF96uvsmPK) | [宋德鶴](https://open.spotify.com/artist/6jRVqBhXHlT61Nr3j3H9eI) | [霞](https://open.spotify.com/album/2CsVd1QgZKs0yj3HZYCVY1) | 5:16 |
 | 3 | [如果我是一朵花（花蓮流行音樂 AI 實驗基地主題曲）](https://open.spotify.com/track/5k0LyCSzPiuuFI1d7IcF7b) | [Suming](https://open.spotify.com/artist/3jV6Ro12GySf82kJiksE7D) | [如果我是一朵花（花蓮流行音樂 AI 實驗基地主題曲）](https://open.spotify.com/album/4PhD7wxxYFH1vgYooJ8GLm) | 3:03 |
 | 4 | [Shy Song 2012](https://open.spotify.com/track/6dEYqHXvcMNO4PgehSt5pu) | [午休失眠](https://open.spotify.com/artist/3azQB8zfh6QT8qcJhnxugJ) | [午休失眠](https://open.spotify.com/album/2yb7dnBsS3k5KEMqVwBLVU) | 4:46 |

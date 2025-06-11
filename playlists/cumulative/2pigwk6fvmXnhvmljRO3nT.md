@@ -4,7 +4,7 @@
 
 > 
 
-7,354 songs - 19 day 2 hr 35 min
+7,356 songs - 19 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4312,6 +4312,7 @@
 | [Photosynthesis](https://open.spotify.com/track/3DlgDXIYtnWtJKiB8bZQMv) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Bucket List Project](https://open.spotify.com/album/10UscF31tC7Sz8S2a1mGbM) | 3:21 | 2025-01-15 |  |
 | [Piano Man](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man \(Legacy Edition\)](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) | 5:39 | 2024-12-10 |  |
 | [Pick Up The Pace](https://open.spotify.com/track/3RiGWybqOdKiZL08lplY0l) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Pick Up The Pace](https://open.spotify.com/album/7EpyAwlcdDoWzAaLv8g3ZC) | 2:26 | 2024-12-10 |  |
+| [Pick Up the Phone](https://open.spotify.com/track/34rke5UuVABzz8UY5xBOYM) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [DROGAS Light](https://open.spotify.com/album/5URLytQmeXTIT7B4U1Tynd) | 4:39 | 2025-06-10 |  |
 | [Pick up the Phone](https://open.spotify.com/track/6om8S0igH5jbMpPY8ja8Jj) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [DROGAS Light](https://open.spotify.com/album/2utMSPHiSIHEg2vb9awgDi) | 4:39 | 2025-01-04 |  |
 | [pick up the phone](https://open.spotify.com/track/20dP2DaMHIAmwWAbp7peSr) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 4:12 | 2025-01-15 |  |
 | [pick up the phone](https://open.spotify.com/track/4GXl8l1MfZPf2GvpyRPJBf) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [pick up the phone](https://open.spotify.com/album/4MDMfOdhV1IyoRnklwOHG9) | 4:12 | 2025-01-15 |  |
@@ -7315,6 +7316,7 @@
 | [진혼](https://open.spotify.com/track/2BxUjHQRrYX82cP3wDvOTU) | [야다](https://open.spotify.com/artist/3YB77fanbqqyPS7NstYpOE) | [Restructure](https://open.spotify.com/album/6NEUkvavXv0GoJYxWPpfLp) | 5:06 | 2025-01-15 |  |
 | [째즈 카페](https://open.spotify.com/track/0SwSiNArqc58nd21Zfj1Ow) | [Byun Jin\-Sub](https://open.spotify.com/artist/19TSeYJNZVClzoWb6hUVr7), [Shin Hae Chul](https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn) | [신해철](https://open.spotify.com/album/4m0fkoRpLFiJALSqwZ1ibX) | 4:58 | 2024-12-14 |  |
 | [착한 사랑](https://open.spotify.com/track/6STfH93Dthmk0VMZCD5Hgn) | [김민종](https://open.spotify.com/artist/1wEyGbuSlgNqFKT7bH5Y9p) | [애](https://open.spotify.com/album/5DbE0NBVjUrhIh5C44Gz3i) | 5:05 | 2025-01-15 |  |
+| [찾았다](https://open.spotify.com/track/6QikGnXxJcliCmTkmP0GhG) | [JYJ](https://open.spotify.com/artist/23pnZUOyyTzYzg5GZSvj4Y) | [성균관 스캔들 OST \(Soundtrack\)](https://open.spotify.com/album/7LvIurK4UM0atGzhvZuqAk) | 3:22 | 2025-06-10 |  |
 | [챔피언](https://open.spotify.com/track/6h0DkyZqIuWFFdWRo7n8l2) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Psy 3](https://open.spotify.com/album/7cEeYqp2ltesGDkU2niTtL) | 3:06 | 2025-01-15 |  |
 | [천년의 사랑](https://open.spotify.com/track/29FS4aopbu0HWQ2GSFalvy) | [Park Wan Kyu](https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB) | [천년지애](https://open.spotify.com/album/3TQXaDuauGf8syAkPbYrex) | 4:25 | 2025-01-15 |  |
 | [천상연](https://open.spotify.com/track/5WQwhK2KLfWJDVDznuedLN) | [CAN](https://open.spotify.com/artist/2c1h7Xz5KxOeVuwfz8HTGQ) | [Version 1.0](https://open.spotify.com/album/1IpzCpS2L0ooCeFxRTXhko) | 5:09 | 2024-12-14 |  |

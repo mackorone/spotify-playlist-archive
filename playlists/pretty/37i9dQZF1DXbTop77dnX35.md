@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from BNXN, Young Jonn, Simi and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,782 likes - 61 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,882 likes - 61 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 21 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 |
 | 22 | [Want You \(feat\. DESTIN CONRAD & JayO\)](https://open.spotify.com/track/2FTgm5uZfuWOoTaVp4bCCa) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Want You \(feat\. DESTIN CONRAD & JayO\)](https://open.spotify.com/album/64e8tTJ3jGpplrXghXQKZn) | 3:19 |
 | 23 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
-| 24 | [PRINCESSA \(feat\. Jul\)](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/1jlWHMrmUolKvn65EQR8SM) | [PRINCESSA \(feat\. Jul\)](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 |
+| 24 | [PRINCESSA \(feat\. Jul\)](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [PRINCESSA \(feat\. Jul\)](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 |
 | 25 | [Shoulder](https://open.spotify.com/track/59BXqiS3Bee0Cx7gjpuJBJ) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Shoulder](https://open.spotify.com/album/04v5bEZUuDeS0orgjeaTJZ) | 3:35 |
 | 26 | [ONE BY ONE II](https://open.spotify.com/track/3MHTjBkjMmDu1fYjNDAy7F) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm), [The Therapist](https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2) | [ONE BY ONE II](https://open.spotify.com/album/5x2LbIrjS3dfrglCune7Ps) | 2:39 |
 | 27 | [WICKED \- BENSY REMIX](https://open.spotify.com/track/1GO5njIVQqCwUkXXSFGoyJ) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [Bensy](https://open.spotify.com/artist/5bL6DC0g37boJqvYx1Ofom) | [WICKED \(BENSY REMIX\)](https://open.spotify.com/album/6chFbJ4BDcMeiEOyYu1Vdo) | 2:52 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 40 | [Peddi](https://open.spotify.com/track/643eUUzfiHcyEVt5UHcMkC) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [Peddi](https://open.spotify.com/album/0QAP2mGhEGg4H2TeZYqnPr) | 6:00 |
 | 41 | [Think Of You](https://open.spotify.com/track/6zkGr8sfd3zhm8QlZbs7ni) | [Troms](https://open.spotify.com/artist/0YmBwQV2xeBXyU8tCkMa80) | [Think Of You](https://open.spotify.com/album/4SDUHglZhBOf2OqGzBKTb7) | 2:26 |
 | 42 | [Wall Breaker](https://open.spotify.com/track/0Nf54AaxEHvsn5UqEsMWVA) | [Naeche](https://open.spotify.com/artist/3DoiZZ3pZTYzQvJ166tN2u) | [Wall Breaker](https://open.spotify.com/album/3uk5EcVpTjgOxnKvWzlckK) | 3:24 |
-| 43 | [HELLO](https://open.spotify.com/track/1Lalwq5VhflT2RtbbAjMrR) | [Paq](https://open.spotify.com/artist/0XYSXxykpPb4xmTjvc2yY4) | [HELLO](https://open.spotify.com/album/4vomJbWRRHcdQ0dJFsKeQa) | 2:24 |
+| 43 | [HELLO](https://open.spotify.com/track/1Lalwq5VhflT2RtbbAjMrR) | [Paq](https://open.spotify.com/artist/0XYSXxykpPb4xmTjvc2yY4), [Shaker](https://open.spotify.com/artist/6L2J0lrqalkp9BEEDj1elG) | [HELLO](https://open.spotify.com/album/4vomJbWRRHcdQ0dJFsKeQa) | 2:24 |
 | 44 | [Live Life](https://open.spotify.com/track/3Z6JHxkI5m1IVo1Zdcpma2) | [Sean Lifer](https://open.spotify.com/artist/6rREDWo14PH0s8L1GEeZZ9), [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh) | [Live Life](https://open.spotify.com/album/7JHeTptZRL3UzP0sP94BTh) | 2:01 |
 | 45 | [MARANATHA II](https://open.spotify.com/track/5LK1FwfvYawnalmxEqIBrK) | [Chicogod](https://open.spotify.com/artist/1uNsXjSgAHP9q7oWBKJa1E), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [MARANATHA II](https://open.spotify.com/album/7g9IydA2PfC37uhQHXJRtq) | 3:34 |
 | 46 | [Take Me Away](https://open.spotify.com/track/2Mf3XQqnex1OorOsJ9mSbF) | [CRUX GLOBAL](https://open.spotify.com/artist/6vlOng9ireAqlyOcRuehLt), [KELALIE](https://open.spotify.com/artist/52gfOjGDeEBwIoDJTTMaCm), [Delzz](https://open.spotify.com/artist/5HEA0zUBRhRXXa470ouTdc), [Daboy Kenzi](https://open.spotify.com/artist/77HPdxhFodvllNDHT3JBmf) | [Take Me Away](https://open.spotify.com/album/33Jy8HG74rabvfcItn6hVj) | 3:08 |

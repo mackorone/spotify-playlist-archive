@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 
 > A collection of the best Arab metal\.  Cover: <a href="spotify:artist:63U8atFXZ3sax4eeV212tq">Coat Of Arms</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,149 likes - 30 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,162 likes - 30 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 | 12 | [Daret Layyem](https://open.spotify.com/track/26uaNROSTOeRpwMCGICjza) | [Nawather](https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI) | [Wasted Years](https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw) | 5:02 |
 | 13 | [Sidi Arbi 2](https://open.spotify.com/track/1opJhxEOwxwbxMJCCojg1h) | [Znous](https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx) | [Sidi Arbi 2](https://open.spotify.com/album/26nQPOmPYYNujrR5CSPkQj) | 3:51 |
 | 14 | [Lay chafi](https://open.spotify.com/track/5WCLyTCEPTz3f8Q4AnSZqm) | [Betweenatna](https://open.spotify.com/artist/74xbHp6MeHavk2G1OaIeNT) | [Betweenatna](https://open.spotify.com/album/33a4lA6Cx4c1XzygMiuru8) | 4:02 |
-| 15 | [Moongod](https://open.spotify.com/track/54LcV9HzyNTrwbYYY88XD5) | [Aeternam](https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s) | [Moongod](https://open.spotify.com/album/3nU5Xe4BWjZUUZ8477MMVa) | 5:41 |
-| 16 | [Quest For Eternity](https://open.spotify.com/track/3bkHJDmHIjdKOOCvVDoXCE) | [Acrassicauda](https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG) | [GILGAMESH](https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y) | 3:46 |
+| 15 | [Quest For Eternity](https://open.spotify.com/track/3bkHJDmHIjdKOOCvVDoXCE) | [Acrassicauda](https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG) | [GILGAMESH](https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y) | 3:46 |
+| 16 | [Moongod](https://open.spotify.com/track/54LcV9HzyNTrwbYYY88XD5) | [Aeternam](https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s) | [Moongod](https://open.spotify.com/album/3nU5Xe4BWjZUUZ8477MMVa) | 5:41 |
 | 17 | [Time to Raise the Curtains](https://open.spotify.com/track/7MSH1qlIpKG1JNd0vhBhte) | [Nawather](https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI) | [Wasted Years](https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw) | 4:00 |
 | 18 | [Khoroto \(Gultrah Sound System\)](https://open.spotify.com/track/5JW5FWbRjkcANrIXxjHPJx) | [Znous](https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx) | [Znousland 2](https://open.spotify.com/album/0HXnt2qsur4HpiY1DlRI6e) | 4:02 |
 | 19 | [Freedom Denied](https://open.spotify.com/track/6Qd5yE8cmlcaaBz7Nxy2EL) | [Blaakyum](https://open.spotify.com/artist/2pddgL1ZW41XCeEQNVvomB) | [Line of Fear](https://open.spotify.com/album/4iyZLxCNIGZEZAJBuOopi5) | 4:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > bands and tracks on the rise in heavy music\. Cover: PRESIDENT
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,641 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,687 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 49 | [Rotting Wool](https://open.spotify.com/track/7vNLTNEYdUI3FwieneXrFV) | [Vomit Forth](https://open.spotify.com/artist/7FauDKMDbUkCa6SuNfI0GP) | [Rotting Wool](https://open.spotify.com/album/25xhIBIh52pBTmn0RDlaBE) | 2:18 |
 | 50 | [In the Name of War](https://open.spotify.com/track/3fC5DH3Pu3DzCHlgtBUZVd) | [Whom Gods Destroy](https://open.spotify.com/artist/6CPRNvNZxQq4thYYQVijUH) | [Insanium](https://open.spotify.com/album/4BZUFFuZsZ5F4prX6GWOxv) | 6:38 |
 
-Snapshot ID: `aEKjcQAAAACuoVI5ymIaCxwbpAHhtnL6`
+Snapshot ID: `aEKjcQAAAADk58yLWE8Yu8RfT8rM+X64`

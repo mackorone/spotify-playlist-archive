@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Sabrina Carpenter, Internet Girl, Nobuhle more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,236 likes - 89 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,247 likes - 89 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 33 | [HA HA HA](https://open.spotify.com/track/5CUoPjNakqWqFnTbSdd5dg) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [HA HA HA](https://open.spotify.com/album/4bgpgeZcEMF42o1dVQLLWy) | 2:46 |
 | 34 | [Ndinga \(feat\. AirBurn Sounds & John Delinger\)](https://open.spotify.com/track/5tzFmrghvWKXVwR5laW79Z) | [Zanda Zakuza](https://open.spotify.com/artist/1TTc432YhEO75fRcVKerPe), [Airburn Sounds](https://open.spotify.com/artist/2LkaC9qdFjuAWym0SCTHZ4), [John Delinger](https://open.spotify.com/artist/6XN31m8OnBsuLM0izcm17u) | [Ndinga \(feat\. AirBurn Sounds & John Delinger\)](https://open.spotify.com/album/4XLXWu766ZT7aGihKjnQ9z) | 5:31 |
 | 35 | [Boy](https://open.spotify.com/track/4ZbD7hoqAVz7y4LjKesosW) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Boy](https://open.spotify.com/album/6haJhYWiaQebv4nZjpXB58) | 3:21 |
-| 36 | [PRINCESSA \(feat\. Jul\)](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/1jlWHMrmUolKvn65EQR8SM) | [PRINCESSA \(feat\. Jul\)](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 |
+| 36 | [PRINCESSA \(feat\. Jul\)](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [PRINCESSA \(feat\. Jul\)](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 |
 | 37 | [ALL IN](https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [ALL IN](https://open.spotify.com/album/193wg0lwoipCYBEneekEkv) | 2:16 |
 | 38 | [A SHO THING \(do 4 luv\)](https://open.spotify.com/track/32ZWS5gDm9J053ZSj5TBn9) | [Fatso 98](https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr), [Deep Essentials](https://open.spotify.com/artist/4GKBiT9eByOCqj0045uolO) | [A SHO THING \(do 4 luv\)](https://open.spotify.com/album/5tbrQbUiPOHRhSKktSqeqB) | 6:30 |
 | 39 | [Cayo Perico](https://open.spotify.com/track/2iRADxnPxhy41zZ2CDE7sf) | [Sdala Deep](https://open.spotify.com/artist/172TdrBuEWtrxX7UqGHS7f), [M00tion](https://open.spotify.com/artist/0hHKCtRNUUbczIb3csIz7j), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq) | [Cayo Perico](https://open.spotify.com/album/5ti8jS4CUU4YXD6qZYx8PA) | 6:25 |

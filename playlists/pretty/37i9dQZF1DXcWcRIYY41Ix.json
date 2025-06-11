@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: Silvana Estrada.",
-  "num_followers": 130007,
+  "num_followers": 130030,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -411,18 +411,26 @@
     {
       "added_at": "2025-06-06 06:00:09",
       "album": {
-        "name": "La Utop\u00eda en que Vivimos",
-        "url": "https://open.spotify.com/album/1QCfbXagWcqyxSbOoszNQT"
+        "name": "Por qu\u00e9 Ser\u00e1 (feat. La Tania & Yerai Cort\u00e9s)",
+        "url": "https://open.spotify.com/album/24xWSIdWaIWJHnMfgYVqaR"
       },
       "artists": [
         {
-          "name": "Rupatrupa",
-          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        },
+        {
+          "name": "La Tania",
+          "url": "https://open.spotify.com/artist/0dHJZzGiT5uu423w8avILQ"
+        },
+        {
+          "name": "Yerai Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/4lozfkWdqPL69SUoFK6GFi"
         }
       ],
-      "duration_ms": 303699,
-      "name": "La Cultura del Miedo",
-      "url": "https://open.spotify.com/track/2nSqBmRIDOlsBeiM2jdsup"
+      "duration_ms": 300383,
+      "name": "Por qu\u00e9 Ser\u00e1 (feat. La Tania & Yerai Cort\u00e9s)",
+      "url": "https://open.spotify.com/track/5KE2x4MVkDMbuH4grodfdb"
     },
     {
       "added_at": "2025-06-06 06:00:09",
@@ -551,26 +559,18 @@
     {
       "added_at": "2025-06-06 06:00:09",
       "album": {
-        "name": "Por qu\u00e9 Ser\u00e1 (feat. La Tania & Yerai Cort\u00e9s)",
-        "url": "https://open.spotify.com/album/24xWSIdWaIWJHnMfgYVqaR"
+        "name": "La Utop\u00eda en que Vivimos",
+        "url": "https://open.spotify.com/album/1QCfbXagWcqyxSbOoszNQT"
       },
       "artists": [
         {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
-        },
-        {
-          "name": "La Tania",
-          "url": "https://open.spotify.com/artist/0dHJZzGiT5uu423w8avILQ"
-        },
-        {
-          "name": "Yerai Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/4lozfkWdqPL69SUoFK6GFi"
+          "name": "Rupatrupa",
+          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
         }
       ],
-      "duration_ms": 300383,
-      "name": "Por qu\u00e9 Ser\u00e1 (feat. La Tania & Yerai Cort\u00e9s)",
-      "url": "https://open.spotify.com/track/5KE2x4MVkDMbuH4grodfdb"
+      "duration_ms": 303699,
+      "name": "La Cultura del Miedo",
+      "url": "https://open.spotify.com/track/2nSqBmRIDOlsBeiM2jdsup"
     },
     {
       "added_at": "2025-06-06 06:00:09",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-06-06 06:00:09",
       "album": {
-        "name": "Consid\u00e9rame",
-        "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
-      },
-      "artists": [
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Consid\u00e9rame",
-      "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
-    },
-    {
-      "added_at": "2025-06-06 06:00:09",
-      "album": {
         "name": "Bruja",
         "url": "https://open.spotify.com/album/4QELFWOMZddkZnDBb4Fr6D"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 273663,
       "name": "Bruja",
       "url": "https://open.spotify.com/track/6ecEjqnw87g9UexxeJxpY2"
+    },
+    {
+      "added_at": "2025-06-06 06:00:09",
+      "album": {
+        "name": "Consid\u00e9rame",
+        "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
+      },
+      "artists": [
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Consid\u00e9rame",
+      "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
     },
     {
       "added_at": "2025-06-06 06:00:09",
@@ -807,26 +807,6 @@
     {
       "added_at": "2025-06-06 06:00:09",
       "album": {
-        "name": "Temple Bar (en directo)",
-        "url": "https://open.spotify.com/album/2UWIMBcWSJidcpHbNk1kb3"
-      },
-      "artists": [
-        {
-          "name": "Luis Ferc\u00e1n",
-          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
-        },
-        {
-          "name": "Nacho Mur",
-          "url": "https://open.spotify.com/artist/6cX4krqTwKWyrfU7QkzmDf"
-        }
-      ],
-      "duration_ms": 262239,
-      "name": "Temple Bar (en directo)",
-      "url": "https://open.spotify.com/track/6bDf8vOFYO6hqFYuWIoZpN"
-    },
-    {
-      "added_at": "2025-06-06 06:00:09",
-      "album": {
         "name": "Ventura (Live)",
         "url": "https://open.spotify.com/album/4Xpme8SyUVkaIdyme2w8PQ"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 295328,
       "name": "Ventura - Live",
       "url": "https://open.spotify.com/track/3jxMqzOXht0AfgpWIZtY0O"
+    },
+    {
+      "added_at": "2025-06-06 06:00:09",
+      "album": {
+        "name": "Temple Bar (en directo)",
+        "url": "https://open.spotify.com/album/2UWIMBcWSJidcpHbNk1kb3"
+      },
+      "artists": [
+        {
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+        },
+        {
+          "name": "Nacho Mur",
+          "url": "https://open.spotify.com/artist/6cX4krqTwKWyrfU7QkzmDf"
+        }
+      ],
+      "duration_ms": 262239,
+      "name": "Temple Bar (en directo)",
+      "url": "https://open.spotify.com/track/6bDf8vOFYO6hqFYuWIoZpN"
     },
     {
       "added_at": "2025-06-06 06:00:09",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-06-06 06:00:09",
       "album": {
-        "name": "Se va",
-        "url": "https://open.spotify.com/album/2SFK93DB5qCxkfr4T8Z4RZ"
-      },
-      "artists": [
-        {
-          "name": "Marisa Valle Roso",
-          "url": "https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL"
-        }
-      ],
-      "duration_ms": 165546,
-      "name": "Se va",
-      "url": "https://open.spotify.com/track/0ASnHQcC2WH7cxzVuuyd3R"
-    },
-    {
-      "added_at": "2025-06-06 06:00:09",
-      "album": {
         "name": "Todo te parece normal",
         "url": "https://open.spotify.com/album/6w60jUW5MJdacklytIan1H"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 296669,
       "name": "Todo te parece normal",
       "url": "https://open.spotify.com/track/1jQ695vF4J7RQz9vHhHj80"
+    },
+    {
+      "added_at": "2025-06-06 06:00:09",
+      "album": {
+        "name": "Se va",
+        "url": "https://open.spotify.com/album/2SFK93DB5qCxkfr4T8Z4RZ"
+      },
+      "artists": [
+        {
+          "name": "Marisa Valle Roso",
+          "url": "https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL"
+        }
+      ],
+      "duration_ms": 165546,
+      "name": "Se va",
+      "url": "https://open.spotify.com/track/0ASnHQcC2WH7cxzVuuyd3R"
     },
     {
       "added_at": "2025-06-06 06:00:09",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-06-06 06:00:09",
       "album": {
-        "name": "Fenomenal",
-        "url": "https://open.spotify.com/album/4n8MA85wRz2yUWCxgKbO4O"
-      },
-      "artists": [
-        {
-          "name": "Begut",
-          "url": "https://open.spotify.com/artist/7JivS2YOCfCKfjRcsbS08u"
-        }
-      ],
-      "duration_ms": 240823,
-      "name": "Fenomenal",
-      "url": "https://open.spotify.com/track/5uqMpWn78c3SElpz7rbfe0"
-    },
-    {
-      "added_at": "2025-06-06 06:00:09",
-      "album": {
         "name": "Continuar",
         "url": "https://open.spotify.com/album/5SBfVpckwITuqJI6PKRfxL"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 157928,
       "name": "Continuar",
       "url": "https://open.spotify.com/track/18PTMhSPFPlHl1aY1vUqjL"
+    },
+    {
+      "added_at": "2025-06-06 06:00:09",
+      "album": {
+        "name": "Fenomenal",
+        "url": "https://open.spotify.com/album/4n8MA85wRz2yUWCxgKbO4O"
+      },
+      "artists": [
+        {
+          "name": "Begut",
+          "url": "https://open.spotify.com/artist/7JivS2YOCfCKfjRcsbS08u"
+        }
+      ],
+      "duration_ms": 240823,
+      "name": "Fenomenal",
+      "url": "https://open.spotify.com/track/5uqMpWn78c3SElpz7rbfe0"
     },
     {
       "added_at": "2025-06-06 06:00:09",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2025-06-06 06:00:09",
       "album": {
+        "name": "DUE\u00d1O DE TUS NOTICIAS",
+        "url": "https://open.spotify.com/album/2zonbxSHo9ygRLWlskkZBz"
+      },
+      "artists": [
+        {
+          "name": "Nahuel Briones",
+          "url": "https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR"
+        },
+        {
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+        }
+      ],
+      "duration_ms": 272517,
+      "name": "DUE\u00d1O DE TUS NOTICIAS",
+      "url": "https://open.spotify.com/track/00f06mo8PDNJAIsYmzKfUT"
+    },
+    {
+      "added_at": "2025-06-06 06:00:09",
+      "album": {
         "name": "Ag\u00fcita del equilibrio",
         "url": "https://open.spotify.com/album/7ofJqkZR4YXfEB4guQ0YD5"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 263441,
       "name": "Ag\u00fcita del equilibrio",
       "url": "https://open.spotify.com/track/4FHCDi6WjHPYUpoDqsD1VJ"
-    },
-    {
-      "added_at": "2025-06-06 06:00:09",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/19feuIeNVyYzJcJ3TCEsRf"
-      },
-      "artists": [
-        {
-          "name": "Faneka",
-          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
-        },
-        {
-          "name": "In\u00e9s de Lis",
-          "url": "https://open.spotify.com/artist/30A3yBYfPdIW32J8VNHjHF"
-        }
-      ],
-      "duration_ms": 281147,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/7IBVRBJht8mGoaDQiluqYd"
     },
     {
       "added_at": "2025-06-06 06:00:09",
@@ -1435,22 +1435,22 @@
     {
       "added_at": "2025-06-06 06:00:09",
       "album": {
-        "name": "DUE\u00d1O DE TUS NOTICIAS",
-        "url": "https://open.spotify.com/album/2zonbxSHo9ygRLWlskkZBz"
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/19feuIeNVyYzJcJ3TCEsRf"
       },
       "artists": [
         {
-          "name": "Nahuel Briones",
-          "url": "https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR"
+          "name": "Faneka",
+          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
         },
         {
-          "name": "Sof\u00eda Viola",
-          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+          "name": "In\u00e9s de Lis",
+          "url": "https://open.spotify.com/artist/30A3yBYfPdIW32J8VNHjHF"
         }
       ],
-      "duration_ms": 272517,
-      "name": "DUE\u00d1O DE TUS NOTICIAS",
-      "url": "https://open.spotify.com/track/00f06mo8PDNJAIsYmzKfUT"
+      "duration_ms": 281147,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/7IBVRBJht8mGoaDQiluqYd"
     },
     {
       "added_at": "2025-06-06 06:00:09",
@@ -1471,6 +1471,22 @@
       "duration_ms": 180250,
       "name": "Todas Las Banderas (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/0GE2jclS5RVs3SDV5MZJK3"
+    },
+    {
+      "added_at": "2025-06-06 06:00:09",
+      "album": {
+        "name": "Buenos Aires (Live Session)",
+        "url": "https://open.spotify.com/album/2V2b8pF4kKDzuXdD8xKHoH"
+      },
+      "artists": [
+        {
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        }
+      ],
+      "duration_ms": 287691,
+      "name": "Basilio - Live Session",
+      "url": "https://open.spotify.com/track/4RaR66uoOJTnNS3bkW1RDf"
     },
     {
       "added_at": "2025-06-06 06:00:09",
@@ -1535,6 +1551,54 @@
     {
       "added_at": "2025-06-06 06:00:09",
       "album": {
+        "name": "El Estallido",
+        "url": "https://open.spotify.com/album/4P98v55Jw2OQtU0TO62MW8"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        },
+        {
+          "name": "Los Locos Descalzos",
+          "url": "https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS"
+        },
+        {
+          "name": "Blanca la Almendrita",
+          "url": "https://open.spotify.com/artist/4SHp6hFKS5azKCDDXrsLB5"
+        },
+        {
+          "name": "Mar\u00eda del Tango",
+          "url": "https://open.spotify.com/artist/3Sj2eDMpmDWqmqIOtWyVEU"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "El Estallido",
+      "url": "https://open.spotify.com/track/0x1gvDz9CUoVHS8uoC3uxB"
+    },
+    {
+      "added_at": "2025-06-06 06:00:09",
+      "album": {
+        "name": "Una mica m\u00e9s",
+        "url": "https://open.spotify.com/album/0fHKuUkKOvyToHlqg5Dj4l"
+      },
+      "artists": [
+        {
+          "name": "Las Migas",
+          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
+        },
+        {
+          "name": "Suu",
+          "url": "https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA"
+        }
+      ],
+      "duration_ms": 261775,
+      "name": "Una mica m\u00e9s",
+      "url": "https://open.spotify.com/track/6C36Pk2VkTCwEJ6LB3JMen"
+    },
+    {
+      "added_at": "2025-06-06 06:00:09",
+      "album": {
         "name": "Lobo",
         "url": "https://open.spotify.com/album/4d3I9khxaMn5J7RxbpBkJk"
       },
@@ -1567,34 +1631,6 @@
     {
       "added_at": "2025-06-06 06:00:09",
       "album": {
-        "name": "El Estallido",
-        "url": "https://open.spotify.com/album/4P98v55Jw2OQtU0TO62MW8"
-      },
-      "artists": [
-        {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
-        },
-        {
-          "name": "Los Locos Descalzos",
-          "url": "https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS"
-        },
-        {
-          "name": "Blanca la Almendrita",
-          "url": "https://open.spotify.com/artist/4SHp6hFKS5azKCDDXrsLB5"
-        },
-        {
-          "name": "Mar\u00eda del Tango",
-          "url": "https://open.spotify.com/artist/3Sj2eDMpmDWqmqIOtWyVEU"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "El Estallido",
-      "url": "https://open.spotify.com/track/0x1gvDz9CUoVHS8uoC3uxB"
-    },
-    {
-      "added_at": "2025-06-06 06:00:09",
-      "album": {
         "name": "ENCORE",
         "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
       },
@@ -1607,42 +1643,6 @@
       "duration_ms": 252668,
       "name": "REMOLINO",
       "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
-    },
-    {
-      "added_at": "2025-06-06 06:00:09",
-      "album": {
-        "name": "Una mica m\u00e9s",
-        "url": "https://open.spotify.com/album/0fHKuUkKOvyToHlqg5Dj4l"
-      },
-      "artists": [
-        {
-          "name": "Las Migas",
-          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
-        },
-        {
-          "name": "Suu",
-          "url": "https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA"
-        }
-      ],
-      "duration_ms": 261775,
-      "name": "Una mica m\u00e9s",
-      "url": "https://open.spotify.com/track/6C36Pk2VkTCwEJ6LB3JMen"
-    },
-    {
-      "added_at": "2025-06-06 06:00:09",
-      "album": {
-        "name": "No me acostumbro",
-        "url": "https://open.spotify.com/album/2KqIe1NjNffUrsTkMMmu1v"
-      },
-      "artists": [
-        {
-          "name": "Ove",
-          "url": "https://open.spotify.com/artist/5NtBFd3dVH5mwEtVaA6UCY"
-        }
-      ],
-      "duration_ms": 181007,
-      "name": "No me acostumbro",
-      "url": "https://open.spotify.com/track/1hU5peNB7WdgHKiVLaQ035"
     },
     {
       "added_at": "2025-06-06 06:00:09",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2025-06-06 06:00:09",
       "album": {
+        "name": "No me acostumbro",
+        "url": "https://open.spotify.com/album/2KqIe1NjNffUrsTkMMmu1v"
+      },
+      "artists": [
+        {
+          "name": "Ove",
+          "url": "https://open.spotify.com/artist/5NtBFd3dVH5mwEtVaA6UCY"
+        }
+      ],
+      "duration_ms": 181007,
+      "name": "No me acostumbro",
+      "url": "https://open.spotify.com/track/1hU5peNB7WdgHKiVLaQ035"
+    },
+    {
+      "added_at": "2025-06-06 06:00:09",
+      "album": {
         "name": "La Fuerza",
         "url": "https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 230952,
       "name": "Me hace feliz, mam\u00e1",
       "url": "https://open.spotify.com/track/5H7RvxJ5Ivd96gT9VYzTlc"
-    },
-    {
-      "added_at": "2025-06-06 06:00:09",
-      "album": {
-        "name": "Buenos Aires (Live Session)",
-        "url": "https://open.spotify.com/album/2V2b8pF4kKDzuXdD8xKHoH"
-      },
-      "artists": [
-        {
-          "name": "Marta G\u00f3mez",
-          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
-        }
-      ],
-      "duration_ms": 287691,
-      "name": "Basilio - Live Session",
-      "url": "https://open.spotify.com/track/4RaR66uoOJTnNS3bkW1RDf"
     },
     {
       "added_at": "2025-06-06 06:00:09",

@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 117903,
+  "num_followers": 117933,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAAAIgg8jumAZBW54CdNtSsuB",
+  "snapshot_id": "aEYkAAAAAAAdkrYNqmtod7L4R8xiP08S",
   "tracks": [
     {
       "added_at": null,
@@ -1335,30 +1335,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sigo na F\u00e9 do Pai",
-        "url": "https://open.spotify.com/album/7iC162RW3i4GYeyEcuFUUJ"
+        "name": "Puxando Lan\u00e7a no Barco Cheio de Piranha",
+        "url": "https://open.spotify.com/album/4l6121oWYQpNwTDUL95wuy"
       },
       "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
         {
           "name": "Mc Poze do Rodo",
           "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
         },
         {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Salvador Da Rima",
-          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
-        },
-        {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2dBT3th6SJHwxWc5Hl3d9O"
+          "name": "DJ Alex da Baixada",
+          "url": "https://open.spotify.com/artist/3CpM0dzOVpRwngLci6OKfm"
         }
       ],
-      "duration_ms": 264827,
-      "name": "Sigo na F\u00e9 do Pai",
-      "url": "https://open.spotify.com/track/4KxjRjzK24EQXbM4qoOz4X"
+      "duration_ms": 155611,
+      "name": "Puxando Lan\u00e7a no Barco Cheio de Piranha",
+      "url": "https://open.spotify.com/track/4X2CzIGItTPTwJpAmT32Mb"
     },
     {
       "added_at": null,
@@ -1407,26 +1403,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puxando Lan\u00e7a no Barco Cheio de Piranha",
-        "url": "https://open.spotify.com/album/4l6121oWYQpNwTDUL95wuy"
+        "name": "Sigo na F\u00e9 do Pai",
+        "url": "https://open.spotify.com/album/7iC162RW3i4GYeyEcuFUUJ"
       },
       "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
         {
           "name": "Mc Poze do Rodo",
           "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
         },
         {
-          "name": "DJ Alex da Baixada",
-          "url": "https://open.spotify.com/artist/3CpM0dzOVpRwngLci6OKfm"
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        },
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2dBT3th6SJHwxWc5Hl3d9O"
         }
       ],
-      "duration_ms": 155611,
-      "name": "Puxando Lan\u00e7a no Barco Cheio de Piranha",
-      "url": "https://open.spotify.com/track/4X2CzIGItTPTwJpAmT32Mb"
+      "duration_ms": 264827,
+      "name": "Sigo na F\u00e9 do Pai",
+      "url": "https://open.spotify.com/track/4KxjRjzK24EQXbM4qoOz4X"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 26544,
+  "num_followers": 26559,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAABY5uigd+759YEIdWKFCMUq",
+  "snapshot_id": "aEYkAAAAAAClFI5TQuSv+cXsnD8ZCxGu",
   "tracks": [
     {
       "added_at": null,
@@ -155,26 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ACTIN UP WITH SEXYY RED",
-        "url": "https://open.spotify.com/album/3MQUPgltYMpQ2hmVNZZdKv"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 135946,
-      "name": "ACTIN UP WITH SEXYY RED",
-      "url": "https://open.spotify.com/track/0VTNaBTD8WWpz0cW3dRR0g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OMG! (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/1Tvjx0HSnZx85wmtnDXVsP"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 152989,
       "name": "OMG! (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2TuVErkUG3BdQR0dsbtakg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ACTIN UP WITH SEXYY RED",
+        "url": "https://open.spotify.com/album/3MQUPgltYMpQ2hmVNZZdKv"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 135946,
+      "name": "ACTIN UP WITH SEXYY RED",
+      "url": "https://open.spotify.com/track/0VTNaBTD8WWpz0cW3dRR0g"
     },
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hood Hottest Princess (Deluxe)",
-        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Tay Keith",
-          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
-        }
-      ],
-      "duration_ms": 157523,
-      "name": "I Don't Wanna Be Saved (feat. Tay Keith)",
-      "url": "https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somethin' (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/0HkzOucR55zv6wQWIWOPBs"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 149245,
       "name": "Somethin' (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/3LdP8uDwQ1NVwNCrb8I32K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "duration_ms": 157523,
+      "name": "I Don't Wanna Be Saved (feat. Tay Keith)",
+      "url": "https://open.spotify.com/track/20uBNCshRN9fKeE3dHRXST"
     },
     {
       "added_at": null,

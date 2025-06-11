@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,793 songs - 3 day 7 hr 36 min
+1,796 songs - 3 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,7 +389,7 @@
 | [Dijon](https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Dijon](https://open.spotify.com/album/1ASLxNnlNc8YqS4hzxtTYs) | 2:39 | 2021-02-09 | 2021-08-05 |
 | [Dione](https://open.spotify.com/track/0OyfmSpjOUz6k0swecwQEw) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Dione](https://open.spotify.com/album/1xSWJQd6aRwP8ETyHJXyQP) | 2:28 | 2022-07-06 | 2024-06-06 |
 | [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 | 2023-02-03 | 2025-01-07 |
-| [Distant Horizon](https://open.spotify.com/track/2iCOm2pd5bLroo3rgBNtJv) | [Felix Brightwood](https://open.spotify.com/artist/2HITDeV1KHvOpkWy95Rv9t) | [Distant Horizon](https://open.spotify.com/album/673bP4xnK1ElzFbUIwJEyx) | 2:45 | 2025-01-21 |  |
+| [Distant Horizon](https://open.spotify.com/track/2iCOm2pd5bLroo3rgBNtJv) | [Felix Brightwood](https://open.spotify.com/artist/2HITDeV1KHvOpkWy95Rv9t) | [Distant Horizon](https://open.spotify.com/album/673bP4xnK1ElzFbUIwJEyx) | 2:45 | 2025-01-21 | 2025-06-11 |
 | [Distant Lapse](https://open.spotify.com/track/7pDD127Pc7US1ZG0sJy3e0) | [Jase Moran](https://open.spotify.com/artist/54eoq0q1McIMaeoK4J3DdQ) | [Distant Lapse](https://open.spotify.com/album/1WdR1q6Tq8PXKRoQAwXl3y) | 2:45 | 2020-01-08 | 2020-09-30 |
 | [Distant Shores](https://open.spotify.com/track/5akwB4g9TXC5B586LAew37) | [PIAMINO](https://open.spotify.com/artist/3MCDB7qdTDruqWX2LwuUb6) | [Distant Shores](https://open.spotify.com/album/0bKOpKhuIFRcUz5U4reXeR) | 2:14 | 2022-10-03 | 2023-09-23 |
 | [Divine Structure](https://open.spotify.com/track/5S7nfUHhiA3kfmyMPvhV6V) | [Charlotte Funke](https://open.spotify.com/artist/3yO7osdYZcoKHt0kTZT486) | [Episode](https://open.spotify.com/album/09cW79JXOPShafrskPjFxK) | 3:47 | 2019-07-11 | 2019-09-12 |
@@ -409,6 +409,7 @@
 | [Duende](https://open.spotify.com/track/5EOANVSfg3dX4zE4Askrau) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Duende](https://open.spotify.com/album/35rtUQ6uZ8w6pOp0DBHtwQ) | 2:31 | 2020-04-28 | 2021-09-09 |
 | [Dusk to dawn](https://open.spotify.com/track/130InHyyoQxDbRgScp4i6O) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [Scenery](https://open.spotify.com/album/6zs3f5KpHjW6yvVN5xQ0Bc) | 2:34 | 2021-05-12 | 2022-07-16 |
 | [Dust](https://open.spotify.com/track/65D1Dr0vNzYruUkQu8Jt5j) | [Verinda](https://open.spotify.com/artist/1UgthFKmzz8hqrSdQgL33Q) | [Dust](https://open.spotify.com/album/2of8zmcTMEhShflLa5FQYe) | 2:29 | 2019-10-22 | 2021-05-22 |
+| [Dust of Morning](https://open.spotify.com/track/43gMP9sW5ssRzGpL5Tf87M) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [Dust of Morning](https://open.spotify.com/album/1qt2UUl2UyWtlfNFkXs9QP) | 2:16 | 2025-06-10 |  |
 | [Dvale](https://open.spotify.com/track/3bfXhbANHZ65viUlQMYtBR) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Dvale](https://open.spotify.com/album/32YKmdwX6mljtaTRxcFJNx) | 2:59 | 2019-11-12 | 2020-04-14 |
 | [Début](https://open.spotify.com/track/6YS1MXqso0zlmcL4OV1kXk) | [Mélanie Laurent](https://open.spotify.com/artist/7HS5tD2CPw2AgG4AgWpxpN) | [En t'attendant](https://open.spotify.com/album/4zojkjd8EnxhvBQAx1Nd4W) | 2:40 | 2019-05-26\* | 2020-03-31 |
 | [Départ](https://open.spotify.com/track/35ZsQf6ONY4YYxyyr0Kj2o) | [Samuel Félix](https://open.spotify.com/artist/4QCrQhj1liuos6rjK3hUBr) | [Départ](https://open.spotify.com/album/69aFKb0LkHjwRhyVDpAK3A) | 3:10 | 2020-06-24 | 2021-03-31 |
@@ -829,6 +830,7 @@
 | [Liberations \(Scaled Down Version\)](https://open.spotify.com/track/3tBSK5WCWFTa5SZ5uelB4P) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [As The Years Go By](https://open.spotify.com/album/3mJDPP4Axx9itKVW5SPytr) | 2:22 | 2019-05-26\* | 2019-11-12 |
 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 | 2021-12-08 | 2023-05-10 |
 | [Life Goes On \- Hideyuki Hashimoto Rework](https://open.spotify.com/track/2u6LWpFrDoipclUF01Oaeu) | [Kevin Imbrechts](https://open.spotify.com/artist/4IEPEjmBa0rkMZQhv5gYNu), [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og), [Illuminine](https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5) | [Life Goes On \(Hideyuki Hashimoto Rework\)](https://open.spotify.com/album/5VYX9BylYO3qY6TogPXrmS) | 3:08 | 2022-06-03 | 2023-07-04 |
+| [Light](https://open.spotify.com/track/4XOrreh4CufJwuUg3p7DuR) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Light](https://open.spotify.com/album/67fKGoAizybPTMM2l27bpP) | 2:47 | 2025-06-10 |  |
 | [Light Heart](https://open.spotify.com/track/1PVN8pKYgISfY2sA58ahFG) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Light Heart](https://open.spotify.com/album/5dJiU63FHF3Icb7UPuwtH9) | 1:59 | 2021-06-24 | 2022-12-06 |
 | [Light of wintertime](https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Light of wintertime](https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD) | 2:11 | 2023-07-03 |  |
 | [Like a Child](https://open.spotify.com/track/2J9UTgDdul3kMGZgnsUZIp) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Like a Child](https://open.spotify.com/album/4RF4Nz20dvgZUk2iSXbddV) | 2:35 | 2022-03-10 | 2023-09-23 |
@@ -1147,6 +1149,7 @@
 | [Periferi](https://open.spotify.com/track/3XQE7ZJGVZTcPcZMZslJk5) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Periferi](https://open.spotify.com/album/1hlrScthcnYasjcFUZk5Ca) | 2:24 | 2023-01-17 | 2025-04-09 |
 | [Personne d'autre que toi](https://open.spotify.com/track/4M7jagkEBHpniJmWdntxNR) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Heaven](https://open.spotify.com/album/3aN17LcVzjDKxp7FXowuhO) | 3:05 | 2020-05-12 | 2020-08-04 |
 | [Perspectives](https://open.spotify.com/track/4Puel2A43BWrFrmzMU8qyu) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [Perspectives](https://open.spotify.com/album/1gH4Fi83RTno4pSNQ2mmiT) | 2:44 | 2020-04-14 | 2020-11-03 |
+| [Petal Drift](https://open.spotify.com/track/0qFkEaASYYsIIQoYlN9SF9) | [Stone Mirland](https://open.spotify.com/artist/7JhyuaeB60S8vsFRzcdN2o) | [Petal Drift](https://open.spotify.com/album/3eDENR5ZFpxC72QQmBnLEo) | 2:29 | 2025-06-10 |  |
 | [Petals](https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1) | [Floriscope](https://open.spotify.com/artist/0G4MXHhzyHUB9XexNNg2Sw) | [Petals](https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L) | 2:37 | 2019-07-11 | 2020-11-03 |
 | [Petit a petit, l’oiseau fait son nid](https://open.spotify.com/track/5Ze5DrTUOybbeTXgqOHFz7) | [Claire Pinette](https://open.spotify.com/artist/4cmV4jq8K9fFMqXdYQrtRP) | [Petit a petit, l’oiseau fait son nid](https://open.spotify.com/album/2oUWFui217UHBGY84n15BB) | 1:44 | 2019-08-30 | 2020-01-08 |
 | [Phantom](https://open.spotify.com/track/1PqCQoqFZWNLylRHsmUjG8) | [Kendra Logozar](https://open.spotify.com/artist/7rwhybBLjf5jWQsmXfwJhd) | [Phantom](https://open.spotify.com/album/721GgErPvBzAlFeFjvigOH) | 1:57 | 2021-05-12 | 2022-10-14 |

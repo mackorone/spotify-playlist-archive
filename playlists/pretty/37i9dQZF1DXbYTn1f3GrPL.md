@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYTn1f3GrPL.md) - [plain]
 
 > Música serena de piano para dormir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,818 likes - 129 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,829 likes - 129 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fire Lily](https://open.spotify.com/track/2uSAha9mpw97lxp4Gpp2HK) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Fire Lily](https://open.spotify.com/album/7vwV0V7Xn0c9f5WGNTJhZ8) | 2:28 |
 | 2 | [Two Hearts](https://open.spotify.com/track/7hWj5ZNuvZfCSn24MFRzwx) | [Nature then Nurture](https://open.spotify.com/artist/2uXzMvEa7FA2izNUxuDH2Y) | [Two Hearts](https://open.spotify.com/album/72fypJ6Ikrw15nvVhFT1yG) | 2:21 |
-| 3 | [Whispering Willow](https://open.spotify.com/track/71NBn3kY25GCHpOPrckEnf) | [Fringilla coelebs](https://open.spotify.com/artist/2aJhtzB2xk0L8GcdzdREz1) | [Whispering Willow](https://open.spotify.com/album/6bedXNIvBvKyIowfWkiKbi) | 2:37 |
-| 4 | [fleur au vent](https://open.spotify.com/track/0FVTRr4Xf05TsboxNTESFI) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [fleur au vent](https://open.spotify.com/album/3uJ98jRYQe813KxNufJxKl) | 2:36 |
+| 3 | [fleur au vent](https://open.spotify.com/track/0FVTRr4Xf05TsboxNTESFI) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [fleur au vent](https://open.spotify.com/album/3uJ98jRYQe813KxNufJxKl) | 2:36 |
+| 4 | [Whispering Willow](https://open.spotify.com/track/71NBn3kY25GCHpOPrckEnf) | [Fringilla coelebs](https://open.spotify.com/artist/2aJhtzB2xk0L8GcdzdREz1) | [Whispering Willow](https://open.spotify.com/album/6bedXNIvBvKyIowfWkiKbi) | 2:37 |
 | 5 | [Mystic Rivers](https://open.spotify.com/track/24qUwzHcqj4x9JIJ5FP5JO) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Mystic Rivers](https://open.spotify.com/album/2J5LFFXdwIVXxLSmm3wxej) | 3:11 |
 | 6 | [Grounded in Love](https://open.spotify.com/track/6r3yNcTDGZxBsvUi5hwpOf) | [Rocco](https://open.spotify.com/artist/70qMxbmTMbxS4MCjkkZvTH) | [Grounded in Love](https://open.spotify.com/album/7dgM19C1eRfwg33ev3jLV8) | 2:23 |
 | 7 | [Lucid Dreams](https://open.spotify.com/track/6O9AWPGehNHiSJ1sNcKgBg) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [Lucid Dreams](https://open.spotify.com/album/11fdE1fXnkCVmNKgqNDEEm) | 2:50 |
-| 8 | [Quiet Reverie](https://open.spotify.com/track/1uGHNaIqgdSVkW9Edz20Og) | [Siri Eijde](https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV) | [Quiet Reverie](https://open.spotify.com/album/5HFnlATLEcpPTZzjtifDQS) | 2:27 |
-| 9 | [The Breeze and The Wildflower](https://open.spotify.com/track/6Plm2aAPOdsimkWZiL7VVd) | [Roasting Coffee Beans](https://open.spotify.com/artist/03dlT1wdnhRBavp2hsrmoY) | [The Breeze and The Wildflower](https://open.spotify.com/album/6IINRvEFdsEwwk38Q3jQEO) | 2:45 |
-| 10 | [Veiled Remembrance](https://open.spotify.com/track/5ottoPWbTULvnKU5PSCysf) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Veiled Remembrance](https://open.spotify.com/album/6qwFoOfdmNmHT0aTrXBlzA) | 2:52 |
+| 8 | [The Breeze and The Wildflower](https://open.spotify.com/track/6Plm2aAPOdsimkWZiL7VVd) | [Roasting Coffee Beans](https://open.spotify.com/artist/03dlT1wdnhRBavp2hsrmoY) | [The Breeze and The Wildflower](https://open.spotify.com/album/6IINRvEFdsEwwk38Q3jQEO) | 2:45 |
+| 9 | [Veiled Remembrance](https://open.spotify.com/track/5ottoPWbTULvnKU5PSCysf) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Veiled Remembrance](https://open.spotify.com/album/6qwFoOfdmNmHT0aTrXBlzA) | 2:52 |
+| 10 | [Quiet Reverie](https://open.spotify.com/track/1uGHNaIqgdSVkW9Edz20Og) | [Siri Eijde](https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV) | [Quiet Reverie](https://open.spotify.com/album/5HFnlATLEcpPTZzjtifDQS) | 2:27 |
 | 11 | [Sleeping On Clouds](https://open.spotify.com/track/3hZOoFLCKOWk7UlHbqQbo0) | [Etne Skiöld](https://open.spotify.com/artist/2hBTCIkNqbHQYTDIhxDfJD) | [Sleeping On Clouds](https://open.spotify.com/album/6EQ1DXLD8BGNnK2hgmcJv3) | 2:00 |
-| 12 | [The Quiet Room](https://open.spotify.com/track/0Iq6y319N2q1xTj3QtjvQF) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [The Quiet Room](https://open.spotify.com/album/1bUlMMwOomK8AOUqGJUYeu) | 2:28 |
-| 13 | [Little eyes](https://open.spotify.com/track/0ujCuPifSXi03mgGeqbsvC) | [Leddei](https://open.spotify.com/artist/52c7HK8GD8wokmwHeNXGhs) | [Little eyes](https://open.spotify.com/album/5YYGBgnXZ9M36cOYlWKbQi) | 2:19 |
-| 14 | [Fruits of the Harvest 432 Hz \- Piano](https://open.spotify.com/track/6XIpwHcF7w11Q8OEcwKTUs) | [Jaime Jacobs](https://open.spotify.com/artist/0V7UyntvztxPiZ1GrxMsUx) | [Fruits of the Harvest 432 Hz \(Piano\)](https://open.spotify.com/album/4AZFWxNOHsHIWfDKkI15f8) | 2:14 |
-| 15 | [Soft Echoes](https://open.spotify.com/track/6LgGNehVT0BpXcYqu4tWIc) | [Lukasz Allain](https://open.spotify.com/artist/3O2fAJFoOE1uxFK9ZXouLc) | [Soft Echoes](https://open.spotify.com/album/0j3nUOkfEKrduxG19DtbTJ) | 2:47 |
-| 16 | [By the water](https://open.spotify.com/track/2YoLc0qnDHNgjpuaF0nxOV) | [Big Marsh](https://open.spotify.com/artist/4d2MCwL7Etc9TuxNALb5IF) | [By the water](https://open.spotify.com/album/33LaRBVTZeUUY5bpWBZMJe) | 2:23 |
-| 17 | [Nordic Sunset](https://open.spotify.com/track/6daWwJ5d0lswGClgWB18Pc) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Nordic Sunset](https://open.spotify.com/album/65Cml5MnWFs3jeca3oiyGl) | 2:30 |
-| 18 | [Contemplating the Horizon](https://open.spotify.com/track/0YWCYAFinPOcx2CHG0bwr3) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [Contemplating the Horizon](https://open.spotify.com/album/1MUae59pDReQvn12s6UsUD) | 2:41 |
-| 19 | [lavande](https://open.spotify.com/track/4EJN7S0RIFD50gZQOf4pRM) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [lavande](https://open.spotify.com/album/3F4ggN1yBna5FlNj8Bw8Y7) | 2:36 |
+| 12 | [Little eyes](https://open.spotify.com/track/0ujCuPifSXi03mgGeqbsvC) | [Leddei](https://open.spotify.com/artist/52c7HK8GD8wokmwHeNXGhs) | [Little eyes](https://open.spotify.com/album/5YYGBgnXZ9M36cOYlWKbQi) | 2:19 |
+| 13 | [Fruits of the Harvest 432 Hz \- Piano](https://open.spotify.com/track/6XIpwHcF7w11Q8OEcwKTUs) | [Jaime Jacobs](https://open.spotify.com/artist/0V7UyntvztxPiZ1GrxMsUx) | [Fruits of the Harvest 432 Hz \(Piano\)](https://open.spotify.com/album/4AZFWxNOHsHIWfDKkI15f8) | 2:14 |
+| 14 | [The Quiet Room](https://open.spotify.com/track/0Iq6y319N2q1xTj3QtjvQF) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [The Quiet Room](https://open.spotify.com/album/1bUlMMwOomK8AOUqGJUYeu) | 2:28 |
+| 15 | [lavande](https://open.spotify.com/track/4EJN7S0RIFD50gZQOf4pRM) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [lavande](https://open.spotify.com/album/3F4ggN1yBna5FlNj8Bw8Y7) | 2:36 |
+| 16 | [Nordic Sunset](https://open.spotify.com/track/6daWwJ5d0lswGClgWB18Pc) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Nordic Sunset](https://open.spotify.com/album/65Cml5MnWFs3jeca3oiyGl) | 2:30 |
+| 17 | [Soft Echoes](https://open.spotify.com/track/6LgGNehVT0BpXcYqu4tWIc) | [Lukasz Allain](https://open.spotify.com/artist/3O2fAJFoOE1uxFK9ZXouLc) | [Soft Echoes](https://open.spotify.com/album/0j3nUOkfEKrduxG19DtbTJ) | 2:47 |
+| 18 | [By the water](https://open.spotify.com/track/2YoLc0qnDHNgjpuaF0nxOV) | [Big Marsh](https://open.spotify.com/artist/4d2MCwL7Etc9TuxNALb5IF) | [By the water](https://open.spotify.com/album/33LaRBVTZeUUY5bpWBZMJe) | 2:23 |
+| 19 | [Contemplating the Horizon](https://open.spotify.com/track/0YWCYAFinPOcx2CHG0bwr3) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [Contemplating the Horizon](https://open.spotify.com/album/1MUae59pDReQvn12s6UsUD) | 2:41 |
 | 20 | [Abandoned](https://open.spotify.com/track/07e1UOoLHenRgycuDjaLdT) | [Pass Sacaglia](https://open.spotify.com/artist/0ZrsvPjO4XAYfYXzoTroF5) | [Abandoned](https://open.spotify.com/album/3nVkrDvCKza3Wv8CGSX9os) | 2:44 |
 | 21 | [Soft Focus](https://open.spotify.com/track/2RnZhye8X48n6dhZakrI1T) | [Big Marsh](https://open.spotify.com/artist/4d2MCwL7Etc9TuxNALb5IF) | [Soft Focus](https://open.spotify.com/album/5sSjbQbNspCTJIy1f3pZsc) | 2:39 |
 | 22 | [Bring the silence](https://open.spotify.com/track/0xX8rlYoCfag1vzsYJOWde) | [Morlya](https://open.spotify.com/artist/3bulcOxlxNQf6IsdtkZZ0R) | [Bring the silence](https://open.spotify.com/album/2Y8JmDSdZtS59CCIMsxe2F) | 2:55 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYTn1f3GrPL.md) - [plain]
 | 128 | [Eastbound and North](https://open.spotify.com/track/3ZoAuHnyRnb4X0HBfyYGIR) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Eastbound and North](https://open.spotify.com/album/739lH4T8HIvoHWzJ9xOClz) | 2:54 |
 | 129 | [At Dawn](https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:16 |
 
-Snapshot ID: `aEAWMgAAAAA0cNiplXLOit06nMFMY5UL`
+Snapshot ID: `aEhU9QAAAACSKa6Dq5E7iFiPpsO3zVsK`

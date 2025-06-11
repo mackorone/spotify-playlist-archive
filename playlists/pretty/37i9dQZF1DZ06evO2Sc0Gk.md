@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,134 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,137 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 6 | [Love Me Now](https://open.spotify.com/track/6rSaK72hupKbqmK1Nlbam6) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Love Me Now](https://open.spotify.com/album/0yHdSNNqqPSfT06mxbKasD) | 2:25 |
 | 7 | [Skin Tight](https://open.spotify.com/track/43C8ga8Z7MkOc1TmEzXcJ3) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Skin Tight](https://open.spotify.com/album/0xkIlDRadF78PKqsAS2DSo) | 4:08 |
 | 8 | [Arcoíris](https://open.spotify.com/track/5zzbORcD0GwLY0wQHP1Xs1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:06 |
-| 9 | [Chop Time, No Friend](https://open.spotify.com/track/4qbEAsnEwISp19ebujxhg4) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 2:48 |
-| 10 | [Bad Vibe](https://open.spotify.com/track/3HATF0OPbTWWy5TPz8KiAu) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Lotto Boyzz](https://open.spotify.com/artist/6TlhWcs3imNDmxFviZjpDX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Modus Operandi](https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq) | 3:34 |
+| 9 | [Bad Vibe](https://open.spotify.com/track/3HATF0OPbTWWy5TPz8KiAu) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Lotto Boyzz](https://open.spotify.com/artist/6TlhWcs3imNDmxFviZjpDX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Modus Operandi](https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq) | 3:34 |
+| 10 | [Chop Time, No Friend](https://open.spotify.com/track/4qbEAsnEwISp19ebujxhg4) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 2:48 |
 | 11 | [Let Me Live \(feat\. Anne\-Marie & Mr Eazi\)](https://open.spotify.com/track/3D1rlKmZdpYUeMtRRLNawc) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Let Me Live \(feat\. Anne\-Marie & Mr Eazi\)](https://open.spotify.com/album/4lbrKowAEUP76TRU57FAJI) | 3:25 |
 | 12 | [Falling For U](https://open.spotify.com/track/1RrayK8ea3tDtD1QnNMUL9) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Lost Files](https://open.spotify.com/album/3TMfWqrSPfKFXUgGJyL09Z) | 3:03 |
 | 13 | [Dance For Me \(Eugy X Mr Eazi\)](https://open.spotify.com/track/6prqX1SW2MMH8hAOIzKQ3Z) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dance For Me \(Eugy X Mr Eazi\)](https://open.spotify.com/album/0SwJftCsa4HhuNWT11cIlJ) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 49 | [Wena](https://open.spotify.com/track/4DOTgsTJcISBUpLLvo5Hrn) | [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Chop Life, Vol\. 1: Mzansi Chronicles](https://open.spotify.com/album/2TvhWKLTi6Gv3LCndQDeM0) | 3:14 |
 | 50 | [Oh My Gawd](https://open.spotify.com/track/2YPt00iweeNvS9qDu0X48d) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [K4mo](https://open.spotify.com/artist/7IziQIyiq8TGse0Mc1laYi) | [Oh My Gawd](https://open.spotify.com/album/5P5MvJc13ZQcxfMzyk60d0) | 3:00 |
 
-Snapshot ID: `aETSgAAAAADzTzaYZJ7XP1cNTvmXJvcW`
+Snapshot ID: `aEYkAAAAAADSbA8D1ukEnEK74ijRj3RT`

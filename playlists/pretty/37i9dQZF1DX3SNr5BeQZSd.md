@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > the freshest trending lofi beats for chill, focus, or study vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,455 likes - 100 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,543 likes - 100 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 99 | [everything will be alright](https://open.spotify.com/track/6Kt3hXL704ziL0p3vq9g8o) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [everything will be alright](https://open.spotify.com/album/2pzzZldtWC8h2JBHGrE9nO) | 1:43 |
 | 100 | [bubbles](https://open.spotify.com/track/1r1nsmEX2SxUn71NNpiWZG) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [bubbles](https://open.spotify.com/album/0kQ5meQ8gpcXMnlEO2ciO1) | 2:03 |
 
-Snapshot ID: `aEJnxgAAAAAyt0t/Fl0Sy3SaQldimrac`
+Snapshot ID: `aEJnxgAAAABAc/rw+a+EGDF4DBL1IYVn`

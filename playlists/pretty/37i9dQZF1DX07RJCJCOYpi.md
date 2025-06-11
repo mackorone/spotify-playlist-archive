@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: RØZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,912,906 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,912,478 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 84 | [Parcera](https://open.spotify.com/track/56oomeTRgamzypt6iObrvA) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Parcera](https://open.spotify.com/album/1zli9BhqCmdNUeLXd2JFQm) | 2:32 |
 | 85 | [fit mami](https://open.spotify.com/track/7IMRZR1rZHzpz6ggu6zih2) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [fit mami](https://open.spotify.com/album/2WsAeXmqIu0IOdz8DhoRmk) | 2:22 |
 | 86 | [Danza Kuduro \- Tiësto Remix](https://open.spotify.com/track/64tld7huCbqobyTfV5oBZR) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Danza Kuduro \(Tiësto Remix\)](https://open.spotify.com/album/2FKAOTpsqDC8AgutOaIl5g) | 3:38 |
-| 87 | [To The Beat](https://open.spotify.com/track/4y9tKMhrx5uepqljKj7wq9) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [To The Beat](https://open.spotify.com/album/6ICIY47SvWgH6mOhtgY5au) | 2:32 |
+| 87 | [To The Beat](https://open.spotify.com/track/4y9tKMhrx5uepqljKj7wq9) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [To The Beat](https://open.spotify.com/album/6ICIY47SvWgH6mOhtgY5au) | 2:32 |
 | 88 | [Vocation](https://open.spotify.com/track/70xKqgJOnicN4OsIB6hOXU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Vocation](https://open.spotify.com/album/2wxhtvRbDXBBHnGXQ8HCqa) | 3:04 |
 | 89 | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 |
 | 90 | [PROVENZA \- REMIX](https://open.spotify.com/track/7xHNDiHAqzjIKKeR8f5vhH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 99 | [ALVRGZO](https://open.spotify.com/track/4DnhYGcizQepwr7vvvntih) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [ALVRGZO](https://open.spotify.com/album/6ZbXdOGGsxEqOWM0WFOaF5) | 2:42 |
 | 100 | [Marianela \(Que Pasa\)](https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Marianela \(Que Pasa\)](https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0) | 2:25 |
 
-Snapshot ID: `aCbCFgAAAAD/4JmDQf3yGHRwF3s3OKYW`
+Snapshot ID: `aCbCFgAAAADjV0lH+s7OeQI+qbyFb05S`

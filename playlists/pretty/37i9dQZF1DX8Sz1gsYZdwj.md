@@ -4,31 +4,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Sz1gsYZdwj.md) - [plain]
 
 > Drift off to these peaceful classical melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,238 likes - 103 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,263 likes - 103 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Veiled Remembrance](https://open.spotify.com/track/5ottoPWbTULvnKU5PSCysf) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Veiled Remembrance](https://open.spotify.com/album/6qwFoOfdmNmHT0aTrXBlzA) | 2:52 |
 | 2 | [Cádiz](https://open.spotify.com/track/2fQTBDA81IyaYgtr2Gz4Wl) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Cádiz](https://open.spotify.com/album/5YBGQGNe1qX309BmK6eDFL) | 2:12 |
 | 3 | [Winter Ends Here](https://open.spotify.com/track/0uWMXaYpiAP0Eig5brMGpD) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [Winter Ends Here](https://open.spotify.com/album/7kXf5brsq55KnrnVSBbvKi) | 2:33 |
-| 4 | [nocturnal summer](https://open.spotify.com/track/5fGKMCSBHAhRW9923UBO3c) | [forever day](https://open.spotify.com/artist/2xZ6v1AA2KEKLIYafq7a0a) | [nocturnal summer & road to isabelle](https://open.spotify.com/album/23aavgdGxGJIduhBWoOfSu) | 2:37 |
-| 5 | [Meaning Of Life](https://open.spotify.com/track/3m6dt7vpVFKM6VawzTUSbR) | [Our Sense](https://open.spotify.com/artist/7vUyFSVFxPY2dxiiosiqhY) | [Meaning Of Life](https://open.spotify.com/album/0JTJbjoyZxpYEGROgEriRU) | 2:34 |
+| 4 | [Meaning Of Life](https://open.spotify.com/track/3m6dt7vpVFKM6VawzTUSbR) | [Our Sense](https://open.spotify.com/artist/7vUyFSVFxPY2dxiiosiqhY) | [Meaning Of Life](https://open.spotify.com/album/0JTJbjoyZxpYEGROgEriRU) | 2:34 |
+| 5 | [nocturnal summer](https://open.spotify.com/track/5fGKMCSBHAhRW9923UBO3c) | [forever day](https://open.spotify.com/artist/2xZ6v1AA2KEKLIYafq7a0a) | [nocturnal summer & road to isabelle](https://open.spotify.com/album/23aavgdGxGJIduhBWoOfSu) | 2:37 |
 | 6 | [Silent Among Strangers](https://open.spotify.com/track/0QesMtYIzZ8yLPbSNYXqW1) | [Yeer Ifinies](https://open.spotify.com/artist/3GOZgVR0H4p50c5LaZ8kQx) | [Silent Among Strangers](https://open.spotify.com/album/6O8w2goMMDonSZnugTW4kL) | 2:30 |
 | 7 | [Abandoned](https://open.spotify.com/track/07e1UOoLHenRgycuDjaLdT) | [Pass Sacaglia](https://open.spotify.com/artist/0ZrsvPjO4XAYfYXzoTroF5) | [Abandoned](https://open.spotify.com/album/3nVkrDvCKza3Wv8CGSX9os) | 2:44 |
 | 8 | [Daylight](https://open.spotify.com/track/0dVsSv0xlnO3CJd4osrt2w) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Daylight](https://open.spotify.com/album/1MMZ6TC0X0LcztVxsx2oYr) | 2:39 |
-| 9 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 |
-| 10 | [The Story of Forever](https://open.spotify.com/track/31qeus61ieZE3s9VU3OOPU) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [The Story of Forever](https://open.spotify.com/album/0HrNXsDWQIBntoUwfhjaVW) | 3:43 |
-| 11 | [premier amour](https://open.spotify.com/track/3dLwUzb6aiBJnjsIGpfOOH) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [premier amour](https://open.spotify.com/album/0zRTkkUJhHUpRh3Go2X6Yz) | 2:38 |
-| 12 | [So Still](https://open.spotify.com/track/5Oyts6S9nV0eKgpN8pZMQj) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [So Still](https://open.spotify.com/album/2r6SI58mqGIUTngRoGPFUo) | 2:18 |
-| 13 | [closer](https://open.spotify.com/track/36J08RU5mlBaKPcNdkxLoa) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [closer](https://open.spotify.com/album/44ZRGnsdTom76RKEsCHSkN) | 2:56 |
-| 14 | [Until the End](https://open.spotify.com/track/7heAWVeCRuprbkAJwMtN7E) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Until the End](https://open.spotify.com/album/2y2bo07zzJPSlNR3UEAtdm) | 2:40 |
+| 9 | [premier amour](https://open.spotify.com/track/3dLwUzb6aiBJnjsIGpfOOH) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [premier amour](https://open.spotify.com/album/0zRTkkUJhHUpRh3Go2X6Yz) | 2:38 |
+| 10 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 |
+| 11 | [closer](https://open.spotify.com/track/36J08RU5mlBaKPcNdkxLoa) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [closer](https://open.spotify.com/album/44ZRGnsdTom76RKEsCHSkN) | 2:56 |
+| 12 | [Until the End](https://open.spotify.com/track/7heAWVeCRuprbkAJwMtN7E) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Until the End](https://open.spotify.com/album/2y2bo07zzJPSlNR3UEAtdm) | 2:40 |
+| 13 | [The Story of Forever](https://open.spotify.com/track/31qeus61ieZE3s9VU3OOPU) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [The Story of Forever](https://open.spotify.com/album/0HrNXsDWQIBntoUwfhjaVW) | 3:43 |
+| 14 | [Fernweh](https://open.spotify.com/track/2ZiPXDK7uxEQtvlPwyQn5a) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Fernweh](https://open.spotify.com/album/4UDwsawToHCgtQgNNGT8rd) | 2:04 |
 | 15 | [From A Distance](https://open.spotify.com/track/3SjLu50VyJyELmAYxPOKO8) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [From A Distance](https://open.spotify.com/album/0AWi2GaZtWl5tscgxkUB9P) | 2:57 |
 | 16 | [Fire Lily](https://open.spotify.com/track/2uSAha9mpw97lxp4Gpp2HK) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Fire Lily](https://open.spotify.com/album/7vwV0V7Xn0c9f5WGNTJhZ8) | 2:28 |
-| 17 | [Fernweh](https://open.spotify.com/track/2ZiPXDK7uxEQtvlPwyQn5a) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Fernweh](https://open.spotify.com/album/4UDwsawToHCgtQgNNGT8rd) | 2:04 |
+| 17 | [So Still](https://open.spotify.com/track/5Oyts6S9nV0eKgpN8pZMQj) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [So Still](https://open.spotify.com/album/2r6SI58mqGIUTngRoGPFUo) | 2:18 |
 | 18 | [moonlight in my heart](https://open.spotify.com/track/2PquyxqnifehQWWYRQm7wE) | [Rocky Road Heaven](https://open.spotify.com/artist/5Sl6AeIxVJBWaJp4kWYeQ9) | [moonlight in my heart](https://open.spotify.com/album/2cgT5qag7EB0BEtZJZ9qzd) | 2:38 |
-| 19 | [Vuelta](https://open.spotify.com/track/0mPUDi1UgV7xvwMo31wYlR) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Vuelta](https://open.spotify.com/album/71bxnh6ZfVRvmW6BpyXgiB) | 2:03 |
-| 20 | [Morning Stroll](https://open.spotify.com/track/3yTWImqxM0Vd3izQPXHLdz) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Morning Stroll](https://open.spotify.com/album/5AntDnve8CcLpMxfNaIchR) | 2:09 |
-| 21 | [Soak](https://open.spotify.com/track/4RE7zeeKezgpDgNdkleavy) | [Quentin Noire](https://open.spotify.com/artist/1FXZ3lnXGrC1N5WGYOzmRm) | [Soak](https://open.spotify.com/album/1nW6jIUZl5rTEqYPSRiNAp) | 3:46 |
+| 19 | [Soak](https://open.spotify.com/track/4RE7zeeKezgpDgNdkleavy) | [Quentin Noire](https://open.spotify.com/artist/1FXZ3lnXGrC1N5WGYOzmRm) | [Soak](https://open.spotify.com/album/1nW6jIUZl5rTEqYPSRiNAp) | 3:46 |
+| 20 | [Vuelta](https://open.spotify.com/track/0mPUDi1UgV7xvwMo31wYlR) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Vuelta](https://open.spotify.com/album/71bxnh6ZfVRvmW6BpyXgiB) | 2:03 |
+| 21 | [Morning Stroll](https://open.spotify.com/track/3yTWImqxM0Vd3izQPXHLdz) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Morning Stroll](https://open.spotify.com/album/5AntDnve8CcLpMxfNaIchR) | 2:09 |
 | 22 | [Chuchotement](https://open.spotify.com/track/2NWOoi4HoSZFX0sySYIqVi) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [Chuchotement](https://open.spotify.com/album/291s2oBqqd2yA0AmII2KTy) | 2:14 |
 | 23 | [The Quiet Room](https://open.spotify.com/track/0Iq6y319N2q1xTj3QtjvQF) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [The Quiet Room](https://open.spotify.com/album/1bUlMMwOomK8AOUqGJUYeu) | 2:28 |
 | 24 | [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Sz1gsYZdwj.md) - [plain]
 | 102 | [New Moon](https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Beyond The Horizon](https://open.spotify.com/album/424n6K5q9ff7X0dUJooPZn) | 3:00 |
 | 103 | [Landsort](https://open.spotify.com/track/0VrOdgTIh68gW8p9WkXSPY) | [Olivia Meyer](https://open.spotify.com/artist/473vc3cGQmpGSHrcyvePWE) | [Fantasia](https://open.spotify.com/album/5h0R2d0rhCu6V46L91UBN4) | 2:19 |
 
-Snapshot ID: `aEAXNAAAAABCezwmpl3zXMM1plHbkp36`
+Snapshot ID: `aEhWmAAAAADJvxc5bbMcwrOzkB1ElSVg`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng thưởng thức và tôn vinh các tác phẩm của nữ nghệ sĩ Việt \. Ảnh bìa: Cầm
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,849 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,850 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [ThichThich](https://open.spotify.com/track/3rx7g2qRxKscgtQUiKwQvN) | [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [ThichThich](https://open.spotify.com/album/6Nb0ehML3dHRw3pyfd71BY) | 4:01 |
 | 50 | [Nhìn Những Mùa Thu Đi](https://open.spotify.com/track/4MZkrUWN2C0dhc7Xn1LPug) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [Nhìn Những Mùa Thu Đi](https://open.spotify.com/album/4JjTQrduYfwIza24mYYZVv) | 2:52 |
 
-Snapshot ID: `aEB7owAAAACJNugR8IeRBbeUamtuW9kq`
+Snapshot ID: `aEB7owAAAAD3LbfzQn4usbBf/9pynrzh`

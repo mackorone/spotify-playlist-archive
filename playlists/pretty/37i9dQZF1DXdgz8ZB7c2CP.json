@@ -1,6 +1,6 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring okgiorgio",
-  "num_followers": 842268,
+  "num_followers": 842267,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
@@ -436,7 +436,7 @@
           "url": "https://open.spotify.com/artist/525tLjcAVmE8JpqncIAD7p"
         }
       ],
-      "duration_ms": 169250,
+      "duration_ms": 169239,
       "name": "Shot Caller",
       "url": "https://open.spotify.com/track/7wCY9HLLNECM1DxO3Mz6CK"
     },
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2025-06-06 00:01:29",
       "album": {
+        "name": "Fade Together",
+        "url": "https://open.spotify.com/album/1VIo7xdJoEqT7YFRooZlLC"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        }
+      ],
+      "duration_ms": 300524,
+      "name": "Fade Together",
+      "url": "https://open.spotify.com/track/4aiIC5QqNtzPQcjzvB06sp"
+    },
+    {
+      "added_at": "2025-06-06 00:01:29",
+      "album": {
         "name": "On & On (nimino Remix)",
         "url": "https://open.spotify.com/album/1kU0TUOmumAwURhV8V9be0"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 179399,
       "name": "On & On - nimino Remix",
       "url": "https://open.spotify.com/track/1tx4NjqrgzaEKmaPECXMgZ"
-    },
-    {
-      "added_at": "2025-06-06 00:01:29",
-      "album": {
-        "name": "Fade Together",
-        "url": "https://open.spotify.com/album/1VIo7xdJoEqT7YFRooZlLC"
-      },
-      "artists": [
-        {
-          "name": "it's murph",
-          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
-        }
-      ],
-      "duration_ms": 300524,
-      "name": "Fade Together",
-      "url": "https://open.spotify.com/track/4aiIC5QqNtzPQcjzvB06sp"
     },
     {
       "added_at": "2025-06-06 00:01:29",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2025-06-06 00:01:29",
       "album": {
-        "name": "tell you straight (Louis The Child\u2019s version)",
-        "url": "https://open.spotify.com/album/1zGrBJhYNgJwHGh8ApwDi5"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        },
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        }
-      ],
-      "duration_ms": 169568,
-      "name": "tell you straight (Louis The Child\u2019s version)",
-      "url": "https://open.spotify.com/track/3dgAEgBOp9GbvQPLnvXi77"
-    },
-    {
-      "added_at": "2025-06-06 00:01:29",
-      "album": {
         "name": "Counting (Sammy Virji Remix)",
         "url": "https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n"
       },
@@ -1519,22 +1499,22 @@
     {
       "added_at": "2025-06-06 00:01:29",
       "album": {
-        "name": "Still Fading",
-        "url": "https://open.spotify.com/album/2gziIdEYaL37zcgcdgTMJX"
+        "name": "tell you straight (Louis The Child\u2019s version)",
+        "url": "https://open.spotify.com/album/1zGrBJhYNgJwHGh8ApwDi5"
       },
       "artists": [
         {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
         },
         {
-          "name": "Alecc Crisostomo",
-          "url": "https://open.spotify.com/artist/0K8VpMGpOGfQeqoAx5hSef"
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
         }
       ],
-      "duration_ms": 186500,
-      "name": "Still Fading",
-      "url": "https://open.spotify.com/track/4QecB7Q334BITuDDErAAya"
+      "duration_ms": 169568,
+      "name": "tell you straight (Louis The Child\u2019s version)",
+      "url": "https://open.spotify.com/track/3dgAEgBOp9GbvQPLnvXi77"
     },
     {
       "added_at": "2025-06-06 00:01:29",
@@ -1575,18 +1555,22 @@
     {
       "added_at": "2025-06-06 00:01:29",
       "album": {
-        "name": "FALLING",
-        "url": "https://open.spotify.com/album/6zS0xzm0lLyuP8RSNFnaYb"
+        "name": "Still Fading",
+        "url": "https://open.spotify.com/album/2gziIdEYaL37zcgcdgTMJX"
       },
       "artists": [
         {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        },
+        {
+          "name": "Alecc Crisostomo",
+          "url": "https://open.spotify.com/artist/0K8VpMGpOGfQeqoAx5hSef"
         }
       ],
-      "duration_ms": 162210,
-      "name": "FALLING",
-      "url": "https://open.spotify.com/track/2SqokKkZV5nliQXZiXx9kJ"
+      "duration_ms": 186500,
+      "name": "Still Fading",
+      "url": "https://open.spotify.com/track/4QecB7Q334BITuDDErAAya"
     },
     {
       "added_at": "2025-06-06 00:01:29",
@@ -1611,22 +1595,18 @@
     {
       "added_at": "2025-06-06 00:01:29",
       "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/2Omja92GFGLYahWnSK5K9F"
+        "name": "FALLING",
+        "url": "https://open.spotify.com/album/6zS0xzm0lLyuP8RSNFnaYb"
       },
       "artists": [
         {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        },
-        {
-          "name": "Livingston Crain",
-          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
         }
       ],
-      "duration_ms": 165517,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/4GKDKSHYMvlDJl3XxaeQlS"
+      "duration_ms": 162210,
+      "name": "FALLING",
+      "url": "https://open.spotify.com/track/2SqokKkZV5nliQXZiXx9kJ"
     },
     {
       "added_at": "2025-06-06 00:01:29",
@@ -1655,18 +1635,22 @@
     {
       "added_at": "2025-06-06 00:01:29",
       "album": {
-        "name": "DOPAMINE",
-        "url": "https://open.spotify.com/album/09MQOD9JMDf6f1pWLap3By"
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/2Omja92GFGLYahWnSK5K9F"
       },
       "artists": [
         {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Livingston Crain",
+          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
         }
       ],
-      "duration_ms": 169721,
-      "name": "DOPAMINE",
-      "url": "https://open.spotify.com/track/2c68HYmE7DdLuu6ExnPSzK"
+      "duration_ms": 165517,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/4GKDKSHYMvlDJl3XxaeQlS"
     },
     {
       "added_at": "2025-06-06 00:01:29",
@@ -1691,6 +1675,22 @@
       "duration_ms": 240454,
       "name": "Lights Go Out",
       "url": "https://open.spotify.com/track/0FJ57QkOsbHFKJxwpiRgNP"
+    },
+    {
+      "added_at": "2025-06-06 00:01:29",
+      "album": {
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/09MQOD9JMDf6f1pWLap3By"
+      },
+      "artists": [
+        {
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
+        }
+      ],
+      "duration_ms": 169721,
+      "name": "DOPAMINE",
+      "url": "https://open.spotify.com/track/2c68HYmE7DdLuu6ExnPSzK"
     },
     {
       "added_at": "2025-06-06 00:01:29",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2025-06-06 00:01:29",
       "album": {
-        "name": "Fun",
-        "url": "https://open.spotify.com/album/1kZhU7o65hxykIDQlYaysm"
-      },
-      "artists": [
-        {
-          "name": "Deki Alem",
-          "url": "https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52"
-        }
-      ],
-      "duration_ms": 188321,
-      "name": "Fun",
-      "url": "https://open.spotify.com/track/7gsYaYvQHjW7x4UzLpCrVo"
-    },
-    {
-      "added_at": "2025-06-06 00:01:29",
-      "album": {
         "name": "Yapa Yapa (Shut It Pls)",
         "url": "https://open.spotify.com/album/3Z9MUVPl8LX8k61pp53zdz"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 114158,
       "name": "Yapa Yapa (Shut It Pls)",
       "url": "https://open.spotify.com/track/6j2ahxtJ0tzWX6ElZUGiHj"
+    },
+    {
+      "added_at": "2025-06-06 00:01:29",
+      "album": {
+        "name": "Fun",
+        "url": "https://open.spotify.com/album/1kZhU7o65hxykIDQlYaysm"
+      },
+      "artists": [
+        {
+          "name": "Deki Alem",
+          "url": "https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52"
+        }
+      ],
+      "duration_ms": 188321,
+      "name": "Fun",
+      "url": "https://open.spotify.com/track/7gsYaYvQHjW7x4UzLpCrVo"
     },
     {
       "added_at": "2025-06-06 00:01:29",
@@ -1895,6 +1895,42 @@
     {
       "added_at": "2025-06-06 00:01:29",
       "album": {
+        "name": "Velour",
+        "url": "https://open.spotify.com/album/07PcjZSnBUrQeaabtOhRDM"
+      },
+      "artists": [
+        {
+          "name": "Catching Cairo",
+          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
+        },
+        {
+          "name": "Koherent",
+          "url": "https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD"
+        }
+      ],
+      "duration_ms": 265500,
+      "name": "Velour",
+      "url": "https://open.spotify.com/track/11ZEBkHufnnQGkCdPHTxar"
+    },
+    {
+      "added_at": "2025-06-06 00:01:29",
+      "album": {
+        "name": "YA BODY",
+        "url": "https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "duration_ms": 183165,
+      "name": "YA BODY",
+      "url": "https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB"
+    },
+    {
+      "added_at": "2025-06-06 00:01:29",
+      "album": {
         "name": "saving flowers (Hudson Mohawke Remix)",
         "url": "https://open.spotify.com/album/0xYEK2yJx7FVznbmI9EM7H"
       },
@@ -1919,26 +1955,6 @@
     {
       "added_at": "2025-06-06 00:01:29",
       "album": {
-        "name": "Velour",
-        "url": "https://open.spotify.com/album/07PcjZSnBUrQeaabtOhRDM"
-      },
-      "artists": [
-        {
-          "name": "Catching Cairo",
-          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
-        },
-        {
-          "name": "Koherent",
-          "url": "https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD"
-        }
-      ],
-      "duration_ms": 265500,
-      "name": "Velour",
-      "url": "https://open.spotify.com/track/11ZEBkHufnnQGkCdPHTxar"
-    },
-    {
-      "added_at": "2025-06-06 00:01:29",
-      "album": {
         "name": "RUNAWAY",
         "url": "https://open.spotify.com/album/6i7asWf24BRupGASEkCDxQ"
       },
@@ -1951,22 +1967,6 @@
       "duration_ms": 146865,
       "name": "RUNAWAY",
       "url": "https://open.spotify.com/track/28KtJI5NRoDCAYTK6FdBsE"
-    },
-    {
-      "added_at": "2025-06-06 00:01:29",
-      "album": {
-        "name": "YA BODY",
-        "url": "https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        }
-      ],
-      "duration_ms": 183165,
-      "name": "YA BODY",
-      "url": "https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB"
     },
     {
       "added_at": "2025-06-06 00:01:29",

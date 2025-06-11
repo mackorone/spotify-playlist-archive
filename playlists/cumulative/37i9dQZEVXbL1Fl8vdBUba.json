@@ -6763,6 +6763,36 @@
     },
     {
       "album": {
+        "name": "TRINIDAD BENDITA",
+        "url": "https://open.spotify.com/album/7GsCgJ2MFW9lGxfiHjqKEP"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Sebastian Ledher",
+          "url": "https://open.spotify.com/artist/6KUSLPXO8e94sZWVksv4nn"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        },
+        {
+          "name": "Joseph Ren",
+          "url": "https://open.spotify.com/artist/0TG7p0ATDDBfhBjl9EBvIb"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "UNA NOCHE DE LOCURA",
+      "url": "https://open.spotify.com/track/7sEVEZcZHbglN1RsxMoQMV"
+    },
+    {
+      "album": {
         "name": "UNA NOCHE DE LOCURA",
         "url": "https://open.spotify.com/album/7oyUvM6kWg2uedggrMM21Y"
       },
@@ -6790,36 +6820,6 @@
       "duration_ms": 164000,
       "name": "UNA NOCHE DE LOCURA",
       "url": "https://open.spotify.com/track/3L5V6BpgH5g9V5sMR24MWg"
-    },
-    {
-      "album": {
-        "name": "TRINIDAD BENDITA",
-        "url": "https://open.spotify.com/album/7GsCgJ2MFW9lGxfiHjqKEP"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Tayson Kryss",
-          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
-        },
-        {
-          "name": "Joseph Ren",
-          "url": "https://open.spotify.com/artist/0TG7p0ATDDBfhBjl9EBvIb"
-        },
-        {
-          "name": "Sebastian Ledher",
-          "url": "https://open.spotify.com/artist/6KUSLPXO8e94sZWVksv4nn"
-        }
-      ],
-      "date_added": "2025-06-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 164000,
-      "name": "UNA NOCHE DE LOCURA",
-      "url": "https://open.spotify.com/track/7sEVEZcZHbglN1RsxMoQMV"
     },
     {
       "album": {

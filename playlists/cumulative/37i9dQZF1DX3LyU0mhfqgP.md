@@ -4,7 +4,7 @@
 
 > Songs from LGBTQIA+ artists\. Cover: Esteman
 
-1,536 songs - 3 day 11 hr 4 min
+1,537 songs - 3 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,6 +464,7 @@
 | [Fue De Novela](https://open.spotify.com/track/10lAjE35OuaE7ejpLz3l3w) | [Valen Etchegoyen](https://open.spotify.com/artist/68605Nj80pgfMzs2fr8fZs) | [Fue De Novela](https://open.spotify.com/album/7hGv3LNsu71EvaD1ktlagv) | 3:05 | 2023-05-09 | 2023-06-02 |
 | [Fuetazo \(feat\. Villano Antillano\)](https://open.spotify.com/track/3MeQpnrMl1fjVun29DK45k) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Fuetazo \(feat\. Villano Antillano\)](https://open.spotify.com/album/14GJrju93uE5fZCslmD2UR) | 2:23 | 2024-01-10 | 2024-03-13 |
 | [Funeral for the World](https://open.spotify.com/track/01HxG3OBY1KPK0sgYSHkym) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Funeral for the World](https://open.spotify.com/album/6WyntCOurB6GZLIRdEQPye) | 2:47 | 2023-03-07 | 2023-04-26 |
+| [G.A.Y o\(T^T\)o](https://open.spotify.com/track/5k9SawAzVj4c0IhFy5F3xs) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [G.A.Y](https://open.spotify.com/album/67EgkQPXGlckGrsPGAOOQH) | 3:47 | 2025-06-10 |  |
 | [Gag On It](https://open.spotify.com/track/1NIIHg8jXOq095MQiLxXzC) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 1:39 | 2024-06-05 | 2025-03-12 |
 | [GAGA](https://open.spotify.com/track/03Zu5idb9CeZAEHfTCOC82) | [Grace Gaustad](https://open.spotify.com/artist/1F2JeQG9fLoC6flF1QTnxS) | [GAGA](https://open.spotify.com/album/6uhEybZbF6cdm7NKoE4RgE) | 3:47 | 2022-06-24 | 2022-07-29 |
 | [Game](https://open.spotify.com/track/0D9uiRUPipUELo9UlNpGI7) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Age of Adonxs](https://open.spotify.com/album/6oVOGdv3UUEQMtln8UehQd) | 2:48 | 2023-07-11 | 2023-08-09 |

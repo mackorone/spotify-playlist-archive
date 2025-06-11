@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Z\u00e9 Ibarra",
-  "num_followers": 350073,
+  "num_followers": 350059,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2025-06-06 03:43:34",
       "album": {
+        "name": "big buraco",
+        "url": "https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN"
+      },
+      "artists": [
+        {
+          "name": "Jadsa",
+          "url": "https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj"
+        }
+      ],
+      "duration_ms": 180185,
+      "name": "sol na pele",
+      "url": "https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq"
+    },
+    {
+      "added_at": "2025-06-06 03:43:34",
+      "album": {
         "name": "Todo carnaval tem seu fim",
         "url": "https://open.spotify.com/album/1hpYnot4DYD0jace4qsKnL"
       },
@@ -359,22 +375,6 @@
     {
       "added_at": "2025-06-06 03:43:34",
       "album": {
-        "name": "big buraco",
-        "url": "https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN"
-      },
-      "artists": [
-        {
-          "name": "Jadsa",
-          "url": "https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj"
-        }
-      ],
-      "duration_ms": 180185,
-      "name": "sol na pele",
-      "url": "https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq"
-    },
-    {
-      "added_at": "2025-06-06 03:43:34",
-      "album": {
         "name": "Se Acaso Voc\u00ea Chegasse",
         "url": "https://open.spotify.com/album/6QVaN8Rem6eekBccoZTzDz"
       },
@@ -411,6 +411,22 @@
     {
       "added_at": "2025-06-06 03:43:34",
       "album": {
+        "name": "Olho D'\u00c1gua",
+        "url": "https://open.spotify.com/album/7fCIDiLSw43YDw7suMRqkb"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "duration_ms": 188064,
+      "name": "Deleita",
+      "url": "https://open.spotify.com/track/6BZGnPjuZTH8znxY7Zp0my"
+    },
+    {
+      "added_at": "2025-06-06 03:43:34",
+      "album": {
         "name": "Esperan\u00e7a",
         "url": "https://open.spotify.com/album/2aJT8yD4FvkheQ2Xqhy51w"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 205915,
       "name": "Mutir\u00e3o de Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/0yL2NJPP19vdualPdOCWet"
-    },
-    {
-      "added_at": "2025-06-06 03:43:34",
-      "album": {
-        "name": "Olho D'\u00c1gua",
-        "url": "https://open.spotify.com/album/7fCIDiLSw43YDw7suMRqkb"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 188064,
-      "name": "Deleita",
-      "url": "https://open.spotify.com/track/6BZGnPjuZTH8znxY7Zp0my"
     },
     {
       "added_at": "2025-06-06 03:43:34",
@@ -707,18 +707,18 @@
     {
       "added_at": "2025-06-06 03:43:34",
       "album": {
-        "name": "O amor me fala de voc\u00ea",
-        "url": "https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz"
+        "name": "Ana Canta C\u00e1ssia - Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0tko43L76jX04WzhfWeeyU"
       },
       "artists": [
         {
-          "name": "Caike Souza",
-          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
+          "name": "Ana Carolina",
+          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
         }
       ],
-      "duration_ms": 199308,
-      "name": "O amor me fala de voc\u00ea",
-      "url": "https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5"
+      "duration_ms": 192108,
+      "name": "All Star - Ao Vivo",
+      "url": "https://open.spotify.com/track/1wpgey8upO8HoGdFbEzGJd"
     },
     {
       "added_at": "2025-06-06 03:43:34",
@@ -743,18 +743,18 @@
     {
       "added_at": "2025-06-06 03:43:34",
       "album": {
-        "name": "Ana Canta C\u00e1ssia - Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0tko43L76jX04WzhfWeeyU"
+        "name": "O amor me fala de voc\u00ea",
+        "url": "https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz"
       },
       "artists": [
         {
-          "name": "Ana Carolina",
-          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
+          "name": "Caike Souza",
+          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
         }
       ],
-      "duration_ms": 192108,
-      "name": "All Star - Ao Vivo",
-      "url": "https://open.spotify.com/track/1wpgey8upO8HoGdFbEzGJd"
+      "duration_ms": 199308,
+      "name": "O amor me fala de voc\u00ea",
+      "url": "https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5"
     },
     {
       "added_at": "2025-06-06 03:43:34",
@@ -875,6 +875,22 @@
     {
       "added_at": "2025-06-06 03:43:34",
       "album": {
+        "name": "For\u00e7a Estranha",
+        "url": "https://open.spotify.com/album/51ofvduJsjvQ9aQZB4oP3a"
+      },
+      "artists": [
+        {
+          "name": "Xande de Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "duration_ms": 257739,
+      "name": "For\u00e7a Estranha",
+      "url": "https://open.spotify.com/track/19SaVJ4hb8WQApuD2iEa7w"
+    },
+    {
+      "added_at": "2025-06-06 03:43:34",
+      "album": {
         "name": "Ala\u00edde Costa, Uma Estrela para Dalva",
         "url": "https://open.spotify.com/album/7Eo5TNWpYUDBc45P6vpZO1"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 141881,
       "name": "Ave Maria no Morro",
       "url": "https://open.spotify.com/track/2hYkpOhLYQZtMhmVC7m48n"
-    },
-    {
-      "added_at": "2025-06-06 03:43:34",
-      "album": {
-        "name": "For\u00e7a Estranha",
-        "url": "https://open.spotify.com/album/51ofvduJsjvQ9aQZB4oP3a"
-      },
-      "artists": [
-        {
-          "name": "Xande de Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
-        }
-      ],
-      "duration_ms": 257739,
-      "name": "For\u00e7a Estranha",
-      "url": "https://open.spotify.com/track/19SaVJ4hb8WQApuD2iEa7w"
     },
     {
       "added_at": "2025-06-06 03:43:34",
@@ -1263,62 +1263,6 @@
     {
       "added_at": "2025-06-06 03:43:34",
       "album": {
-        "name": "CORAL",
-        "url": "https://open.spotify.com/album/2sA4L7b2365LhgDk9mh796"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Manoel",
-          "url": "https://open.spotify.com/artist/6V29laIlmBaFnxF9uDvZvH"
-        },
-        {
-          "name": "Alessandra Le\u00e3o",
-          "url": "https://open.spotify.com/artist/37m97yyap5ftH0sx3IHqno"
-        }
-      ],
-      "duration_ms": 269374,
-      "name": "Iy\u00e1 Mesan",
-      "url": "https://open.spotify.com/track/12qwubySXFcZGfLczELOiV"
-    },
-    {
-      "added_at": "2025-06-06 03:43:34",
-      "album": {
-        "name": "N\u00e1 Canta Z\u00e9carlos",
-        "url": "https://open.spotify.com/album/3fRREzyoi1HH9FI1D4a5xJ"
-      },
-      "artists": [
-        {
-          "name": "N\u00e1 Ozzetti",
-          "url": "https://open.spotify.com/artist/0uhzGb9luJW0RlaYgFg4Ic"
-        },
-        {
-          "name": "Z\u00e9carlos Ribeiro",
-          "url": "https://open.spotify.com/artist/3K2J18fCBtWbGlWPDRhdjs"
-        }
-      ],
-      "duration_ms": 235568,
-      "name": "Tantas",
-      "url": "https://open.spotify.com/track/4weVKBbQ23lv7oeGt63KXM"
-    },
-    {
-      "added_at": "2025-06-06 03:43:34",
-      "album": {
-        "name": "Coragem",
-        "url": "https://open.spotify.com/album/1nlkvskl6untUR98IWBiZP"
-      },
-      "artists": [
-        {
-          "name": "Leandro L\u00e9o",
-          "url": "https://open.spotify.com/artist/4VdN6acIkpyHgNCeCCGIYh"
-        }
-      ],
-      "duration_ms": 198291,
-      "name": "Coragem",
-      "url": "https://open.spotify.com/track/1V3JPg2FrfvpJi7v27N9Jh"
-    },
-    {
-      "added_at": "2025-06-06 03:43:34",
-      "album": {
         "name": "Baladas Sortidas",
         "url": "https://open.spotify.com/album/77nK246hgZj0r9YVlKHzvk"
       },
@@ -1343,6 +1287,62 @@
       "duration_ms": 216315,
       "name": "Incapacidade de Amar",
       "url": "https://open.spotify.com/track/42IEzPyFXLkDocEFiXffR8"
+    },
+    {
+      "added_at": "2025-06-06 03:43:34",
+      "album": {
+        "name": "CORAL",
+        "url": "https://open.spotify.com/album/2sA4L7b2365LhgDk9mh796"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Manoel",
+          "url": "https://open.spotify.com/artist/6V29laIlmBaFnxF9uDvZvH"
+        },
+        {
+          "name": "Alessandra Le\u00e3o",
+          "url": "https://open.spotify.com/artist/37m97yyap5ftH0sx3IHqno"
+        }
+      ],
+      "duration_ms": 269374,
+      "name": "Iy\u00e1 Mesan",
+      "url": "https://open.spotify.com/track/12qwubySXFcZGfLczELOiV"
+    },
+    {
+      "added_at": "2025-06-06 03:43:34",
+      "album": {
+        "name": "Coragem",
+        "url": "https://open.spotify.com/album/1nlkvskl6untUR98IWBiZP"
+      },
+      "artists": [
+        {
+          "name": "Leandro L\u00e9o",
+          "url": "https://open.spotify.com/artist/4VdN6acIkpyHgNCeCCGIYh"
+        }
+      ],
+      "duration_ms": 198291,
+      "name": "Coragem",
+      "url": "https://open.spotify.com/track/1V3JPg2FrfvpJi7v27N9Jh"
+    },
+    {
+      "added_at": "2025-06-06 03:43:34",
+      "album": {
+        "name": "N\u00e1 Canta Z\u00e9carlos",
+        "url": "https://open.spotify.com/album/3fRREzyoi1HH9FI1D4a5xJ"
+      },
+      "artists": [
+        {
+          "name": "N\u00e1 Ozzetti",
+          "url": "https://open.spotify.com/artist/0uhzGb9luJW0RlaYgFg4Ic"
+        },
+        {
+          "name": "Z\u00e9carlos Ribeiro",
+          "url": "https://open.spotify.com/artist/3K2J18fCBtWbGlWPDRhdjs"
+        }
+      ],
+      "duration_ms": 235568,
+      "name": "Tantas",
+      "url": "https://open.spotify.com/track/4weVKBbQ23lv7oeGt63KXM"
     },
     {
       "added_at": "2025-06-06 03:43:34",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-06-06 03:43:34",
       "album": {
-        "name": "A Calma Acalma",
-        "url": "https://open.spotify.com/album/1wMB5ZetaZy8rKtzM0yx4c"
-      },
-      "artists": [
-        {
-          "name": "J\u00d8Y Brandt",
-          "url": "https://open.spotify.com/artist/2YRTxRv98WvCsjK4wXtgxk"
-        }
-      ],
-      "duration_ms": 197635,
-      "name": "A Calma Acalma",
-      "url": "https://open.spotify.com/track/40D0bFvyl9ypjQvhjlZ5w4"
-    },
-    {
-      "added_at": "2025-06-06 03:43:34",
-      "album": {
         "name": "Jo\u00e3o Bosco: \"Cors\u00e1rio\" and guests Jaques Morelenbaum, Mestrinho e Vanessa Moreno (Live at Rio Montreux Jazz Festival)",
         "url": "https://open.spotify.com/album/4lRSnuu8YXHO6dFCPVQJF4"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 279549,
       "name": "O B\u00eabado e a Equilibrista - Live At Rio Montreux Jazz Festival",
       "url": "https://open.spotify.com/track/3cQX0fVeZfhgTDfYxEyJCm"
+    },
+    {
+      "added_at": "2025-06-06 03:43:34",
+      "album": {
+        "name": "A Calma Acalma",
+        "url": "https://open.spotify.com/album/1wMB5ZetaZy8rKtzM0yx4c"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8Y Brandt",
+          "url": "https://open.spotify.com/artist/2YRTxRv98WvCsjK4wXtgxk"
+        }
+      ],
+      "duration_ms": 197635,
+      "name": "A Calma Acalma",
+      "url": "https://open.spotify.com/track/40D0bFvyl9ypjQvhjlZ5w4"
     },
     {
       "added_at": "2025-06-06 03:43:34",

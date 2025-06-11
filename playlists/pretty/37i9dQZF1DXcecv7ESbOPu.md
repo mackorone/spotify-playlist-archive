@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Hov1, Sabrina Carpenter, Thomas Stenström och Hannes med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,358 likes - 102 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,368 likes - 102 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 85 | [Riviera](https://open.spotify.com/track/5vDuD9ndOBRnV61bHHr9Gg) | [OBESTALLT](https://open.spotify.com/artist/4pXCzsrekbc42Kbme1cvpi) | [Riviera](https://open.spotify.com/album/315GjUSP75Jcfklq5O5hc8) | 4:58 |
 | 86 | [27 juni](https://open.spotify.com/track/66cS1dWVxlZNWJ6eAT3SC5) | [Vince Wavy](https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW) | [27 juni](https://open.spotify.com/album/5H3Zw717KF2jWHquWFTSpd) | 1:24 |
 | 87 | [Ta mig här och nu](https://open.spotify.com/track/7oRhDJ4vZpFIFJOx0fjHK7) | [Linus Kajman](https://open.spotify.com/artist/481GuwBdWn7VytCBh3BDjb) | [Ta mig här och nu](https://open.spotify.com/album/64GSVTB3Z5imJ8D8X3SmO8) | 2:32 |
-| 88 | [daugther](https://open.spotify.com/track/5VRbDeF87UzXK8LI1HLk3f) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [daugther](https://open.spotify.com/album/4FlWe4YmzMi9LVFZlza1AK) | 4:46 |
+| 88 | [daughter](https://open.spotify.com/track/5VRbDeF87UzXK8LI1HLk3f) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [daughter](https://open.spotify.com/album/4FlWe4YmzMi9LVFZlza1AK) | 4:46 |
 | 89 | [INTERSTELLAR](https://open.spotify.com/track/2VB4LDy3AHEeO2XbQj2MwV) | [Bella Leonette](https://open.spotify.com/artist/0Qzh6QfLR7zubyDl581ZOt) | [LEJONHJÄRTA](https://open.spotify.com/album/7v8mn0fy2uSmvjDW4E31bN) | 2:09 |
 | 90 | [Beleza](https://open.spotify.com/track/4x72Qg1MABWWilZLBlMO8U) | [Naliyah](https://open.spotify.com/artist/3DbI3fZ6rjnVdNMvIehZYo) | [Beleza](https://open.spotify.com/album/7q1HejiAuVG24rRfFj9BUd) | 3:26 |
 | 91 | [Boy](https://open.spotify.com/track/4ZbD7hoqAVz7y4LjKesosW) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Boy](https://open.spotify.com/album/6haJhYWiaQebv4nZjpXB58) | 3:21 |

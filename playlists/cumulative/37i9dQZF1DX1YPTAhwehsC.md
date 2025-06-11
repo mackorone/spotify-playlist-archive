@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: Clipse
 
-1,596 songs - 3 day 0 hr 24 min
+1,597 songs - 3 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -617,6 +617,7 @@
 | [Hate The Real](https://open.spotify.com/track/5ftWjOByjaSeEXbiiAUU5U) | [MCVERTT](https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Hate The Real](https://open.spotify.com/album/1siHdZPVsaanNBgk0E6Efe) | 3:38 | 2024-05-17 | 2024-09-07 |
 | [HAWK 'EM](https://open.spotify.com/track/5dvltJIfwqg3TYR0ZkO9R1) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [HAWK 'EM](https://open.spotify.com/album/5ehzQiccJQZdCbZv9a3WEc) | 2:03 | 2025-03-28 | 2025-04-19 |
 | [HAWK 'EM \- Remix](https://open.spotify.com/track/1VjN0CiMoWAJclGeDMz5zT) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [HAWK 'EM \(Remix\)](https://open.spotify.com/album/0UefnbQNxITkLyHsniWQ9P) | 3:07 | 2025-04-18 | 2025-05-03 |
+| [HAWK 'EM \- Remix](https://open.spotify.com/track/5LQVlvne8YXsrUfIS4fCI4) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [HAWK 'EM \(Remix\)](https://open.spotify.com/album/5j9iq40g2u1q5BDwyzeRpf) | 3:07 | 2025-06-10 |  |
 | [Head High](https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Head High](https://open.spotify.com/album/65KIgWKpqFbvMmH8QUkdUD) | 3:00 | 2022-03-04 | 2022-04-02 |
 | [Head$hot! \(with Trippie Redd\)](https://open.spotify.com/track/6xLaQvMFknex88LVALSgYP) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [HYPERNOVA.](https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og) | 2:16 | 2021-11-12 | 2022-01-22 |
 | [Hear Me Clearly \(with Nigo\)](https://open.spotify.com/track/0WxzTL8Ptu103bVeYcBzoS) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Hear Me Clearly](https://open.spotify.com/album/2pb2WYmkUE3NCYZp6TYCZi) | 2:21 | 2022-03-04 | 2022-04-02 |
@@ -1601,7 +1602,7 @@
 | [You The One](https://open.spotify.com/track/0s5XQmXojAvhbX7IxpqDlq) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [You The One](https://open.spotify.com/album/2t4e1LAgV9nYBCEO8lKpp6) | 2:45 | 2025-02-21 | 2025-04-05 |
 | [Young Age](https://open.spotify.com/track/5w8z7stENWmMTIhfDZTewt) | [Smooky MarGielaa](https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Young Age](https://open.spotify.com/album/0wa6jF49Hdnnv0QlKmu68j) | 2:04 | 2023-03-03 | 2023-04-29 |
 | [YUMA](https://open.spotify.com/track/6JFwqguM5QjpKrN6JLQdGA) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [YUMA](https://open.spotify.com/album/3TcrWRrzAn2ZvavYxznNcE) | 2:02 | 2024-01-19 | 2024-03-16 |
-| [Yup & I do](https://open.spotify.com/track/5xs9IGR02tU4bsHt3a6CBP) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [STMG DemGuyz](https://open.spotify.com/artist/0jieytrsm8GJJGwTTCAkkq) | [Yup & I do](https://open.spotify.com/album/5uiCdHTYa2rFe0QkPRO6yO) | 2:06 | 2025-06-06 |  |
+| [Yup & I do](https://open.spotify.com/track/5xs9IGR02tU4bsHt3a6CBP) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [STMG DemGuyz](https://open.spotify.com/artist/0jieytrsm8GJJGwTTCAkkq) | [Yup & I do](https://open.spotify.com/album/5uiCdHTYa2rFe0QkPRO6yO) | 2:06 | 2025-06-06 | 2025-06-11 |
 | [YUP!](https://open.spotify.com/track/51bDDKxzwJAc6zUtyYSyHL) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [HOURS AFTER THE CLUB](https://open.spotify.com/album/7LCH3EL2NaCmVegWM3dPBq) | 2:39 | 2023-07-14 | 2023-09-02 |
 | [Zipcodes](https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Zipcodes](https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S) | 4:27 | 2022-07-15 | 2022-08-06 |
 

@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 30910,
+  "num_followers": 30936,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -555,26 +555,6 @@
     {
       "added_at": "2025-06-09 09:13:49",
       "album": {
-        "name": "Pawankhind",
-        "url": "https://open.spotify.com/album/3PSsr8LdIZTDoXSoHIj6em"
-      },
-      "artists": [
-        {
-          "name": "Avadhoot Gupte",
-          "url": "https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock"
-        },
-        {
-          "name": "Devdutta Manisha Baji",
-          "url": "https://open.spotify.com/artist/2JWAqfpZpVmQ5nfYHVFn76"
-        }
-      ],
-      "duration_ms": 260943,
-      "name": "Raja Aala",
-      "url": "https://open.spotify.com/track/5TPlJn8nfTT6bd9FwGgof8"
-    },
-    {
-      "added_at": "2025-06-09 09:13:49",
-      "album": {
         "name": "Chandramukhi",
         "url": "https://open.spotify.com/album/4OK7vE5nVTJgG7OPn0tlio"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 315653,
       "name": "Chandra (Featuring. Shreya Ghoshal)",
       "url": "https://open.spotify.com/track/4mtGAPsQCIlD4ZXdpRi0wf"
+    },
+    {
+      "added_at": "2025-06-09 09:13:49",
+      "album": {
+        "name": "Pawankhind",
+        "url": "https://open.spotify.com/album/3PSsr8LdIZTDoXSoHIj6em"
+      },
+      "artists": [
+        {
+          "name": "Avadhoot Gupte",
+          "url": "https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock"
+        },
+        {
+          "name": "Devdutta Manisha Baji",
+          "url": "https://open.spotify.com/artist/2JWAqfpZpVmQ5nfYHVFn76"
+        }
+      ],
+      "duration_ms": 260943,
+      "name": "Raja Aala",
+      "url": "https://open.spotify.com/track/5TPlJn8nfTT6bd9FwGgof8"
     },
     {
       "added_at": "2025-06-09 09:13:49",

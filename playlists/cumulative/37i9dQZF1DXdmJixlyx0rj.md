@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: DPR CREAM & DPR ARTIC\)
 
-232 songs - 13 hr 14 min
+233 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Euphoric Forest](https://open.spotify.com/track/6h3RLwnbGwcZoUdtFaRbMy) | [DIDI HAN](https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF) | [Forest](https://open.spotify.com/album/4C45OQeWsIvj1QNb4aHiMs) | 7:04 | 2024-04-05 | 2024-06-06 |
 | [Fabulous \- GINJO Remix, Bonus Track](https://open.spotify.com/track/6U2cbwRR7YeNM2H49opI7J) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [GINJO](https://open.spotify.com/artist/75vTLAnhUDaUwzjPCKvaJM) | [iScreaM Vol.30 : To\. X Remixes](https://open.spotify.com/album/6kR9Gky1BBCFn17lA6ZO9x) | 4:44 | 2024-04-05 | 2024-07-20 |
 | [Fact Check \- 2Spade Remix](https://open.spotify.com/track/2XqJVFoCikwIJqVx4YKRTN) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [2Spade](https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn) | [iScreaM Vol.29 : Fact Check Remixes](https://open.spotify.com/album/7BtKnsfFs2zXcpIty9mMqP) | 3:45 | 2024-04-05 | 2024-10-30 |
-| [Fact Check \- 2Spade Remix](https://open.spotify.com/track/3UACQUaXxMROJMW6o0563J) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [2Spade](https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn) | [iScreaM Vol.29 : Fact Check Remixes](https://open.spotify.com/album/4RyzS0bkoVoL6KZHlLpfyx) | 3:45 | 2024-04-18 |  |
+| [Fact Check \- 2Spade Remix](https://open.spotify.com/track/3UACQUaXxMROJMW6o0563J) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [2Spade](https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn) | [iScreaM Vol.29 : Fact Check Remixes](https://open.spotify.com/album/4RyzS0bkoVoL6KZHlLpfyx) | 3:45 | 2024-04-18 | 2025-06-11 |
 | [Falling In Love \(feat\. Natalie Major\)](https://open.spotify.com/track/7FIiiND0OckRPn4olaNFEd) | [SakaZan](https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM), [Natalie Major](https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ) | [Falling In Love \(feat\. Natalie Major\)](https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks) | 3:34 | 2024-06-28 |  |
 | [Feel It](https://open.spotify.com/track/3p3J8JhxzIoCmrLsIO3AnS) | [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8) | [Feel It](https://open.spotify.com/album/0UglV84SnWeShd5dgtpJ4H) | 2:19 | 2024-06-28 | 2024-08-16 |
 | [Felony](https://open.spotify.com/track/1om32xXgoiPoqrZnG3UQBz) | [Rockett](https://open.spotify.com/artist/43A3PsJWoDgpFw5y9dEJV2) | [Love Crime](https://open.spotify.com/album/7MxqlhBt338i4PjAvXGR0h) | 2:34 | 2024-11-05 |  |
@@ -155,6 +155,7 @@
 | [Next Level \- Lionclad Remix](https://open.spotify.com/track/7fKRGSEsy6Y5e1gE7trjAv) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Lionclad](https://open.spotify.com/artist/2AGxU7q0xWss9jkiTPmxH7) | [iScreaM Vol.10 : Next Level Remixes](https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY) | 3:45 | 2024-04-05 | 2024-06-29 |
 | [NOSAE NOSAE \- Remix](https://open.spotify.com/track/39neTEf3wIhm04a2SE88dA) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0), [Cosmickey](https://open.spotify.com/artist/2VME6o9EyB1AvDCkUdT7iB), [Sky](https://open.spotify.com/artist/3x3u1bkDrTFD7KtrJyQVNT) | [Homies\(Remix\)](https://open.spotify.com/album/40xju0ksMj869kE6Fj3Ua6) | 3:12 | 2024-10-23 | 2024-11-18 |
 | [Not Today](https://open.spotify.com/track/7Exqqvhu4qVumN79VTpzlk) | [2Spade](https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn), [Marv](https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW) | [H₩OARANG](https://open.spotify.com/album/3nvENdfXkJX2eQNj4BAP8s) | 2:53 | 2024-11-29 | 2024-12-16 |
+| [O.Y.S.T.E.R](https://open.spotify.com/track/6uIJf1K0s97Edqoy1p7NPG) | [Band Oyster](https://open.spotify.com/artist/6srjyToknvIumliRxxTRmc) | [O.Y.S.T.E.R](https://open.spotify.com/album/5v71xpMsua2dco9yQVtFhV) | 5:12 | 2025-06-10 |  |
 | [Off Ways](https://open.spotify.com/track/28oDhUdHX9CqwVrdJTKubW) | [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8), [Chill Satellite](https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA) | [Off Ways](https://open.spotify.com/album/5GrvHifcpCyzKUMHI2Mtyy) | 3:00 | 2024-04-05 | 2024-06-29 |
 | [On My Mind](https://open.spotify.com/track/4cytI2dxVs5ZOh7qYuOYv5) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [On My Mind](https://open.spotify.com/album/0dhS0KyKfi6TSkjLNQfkcg) | 2:40 | 2024-06-28 | 2025-05-21 |
 | [PARADISE](https://open.spotify.com/track/1l5J8Z8hIhfFvt6hUbuchV) | [Thru](https://open.spotify.com/artist/7gWULzAJSyQez1XA3nRmfH), [SUZO](https://open.spotify.com/artist/52mRVQC1hdI0tSV6zEp5f8) | [PARADISE](https://open.spotify.com/album/0SFyF2YwxMJn6sHkOCTRfW) | 2:57 | 2024-04-05 | 2024-04-19 |

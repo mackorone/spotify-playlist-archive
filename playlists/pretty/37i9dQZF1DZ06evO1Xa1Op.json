@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 21537,
+  "num_followers": 21534,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAACSDrslegv3gRTgbjRN4fK4",
+  "snapshot_id": "aEYkAAAAAAC+slHPoQbUUT+Et0g486Um",
   "tracks": [
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Source",
-        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        },
-        {
-          "name": "Nitin Sawhney",
-          "url": "https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ"
-        }
-      ],
-      "duration_ms": 313760,
-      "name": "Inchana Massina (feat. Nitin Sawhney)",
-      "url": "https://open.spotify.com/track/75M7JOHhgvLzu4TzcP54W9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SABAR MEETS JAZZ",
         "url": "https://open.spotify.com/album/1PrNSteU1B6rQM797Petp6"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 204000,
       "name": "TIMBINDY",
       "url": "https://open.spotify.com/track/5tmj1qvK1JquYi8yRcgupj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Source",
+        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Nitin Sawhney",
+          "url": "https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ"
+        }
+      ],
+      "duration_ms": 313760,
+      "name": "Inchana Massina (feat. Nitin Sawhney)",
+      "url": "https://open.spotify.com/track/75M7JOHhgvLzu4TzcP54W9"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
       "duration_ms": 308866,
       "name": "Soko",
       "url": "https://open.spotify.com/track/2QPRGNETO1GeEcth5pfWyH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Savane (2019 Remaster)",
-        "url": "https://open.spotify.com/album/2ru8ZK0F2CyHfJm7th1wpv"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 258173,
-      "name": "Yer Bounda Fara (2019 - Remaster)",
-      "url": "https://open.spotify.com/track/4HzKjoUhJGIP9WPuxh30OA"
     },
     {
       "added_at": null,

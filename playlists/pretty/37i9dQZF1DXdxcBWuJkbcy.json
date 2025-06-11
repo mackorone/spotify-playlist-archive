@@ -1,6 +1,6 @@
 {
   "description": "Pumping tracks for pumping iron!",
-  "num_followers": 7944725,
+  "num_followers": 7944323,
   "original_name": "Gym Hits",
   "owner": {
     "name": "Spotify",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2025-05-22 22:00:30",
       "album": {
-        "name": "Hypnotized",
-        "url": "https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 180540,
-      "name": "Hypnotized (feat. Ellie Goulding)",
-      "url": "https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW"
-    },
-    {
-      "added_at": "2025-05-22 22:00:30",
-      "album": {
         "name": "Where You Are",
         "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 188534,
       "name": "Stephanie",
       "url": "https://open.spotify.com/track/3sh2q76qsc7yLkQNmHKfQf"
+    },
+    {
+      "added_at": "2025-05-22 22:00:30",
+      "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 180540,
+      "name": "Hypnotized (feat. Ellie Goulding)",
+      "url": "https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW"
     },
     {
       "added_at": "2025-05-22 22:00:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,313 songs - 19 day 0 hr 27 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,315 songs - 19 day 0 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7321,5 +7321,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7311 | [Can't Hold Us \(feat\. Ray Dalton\)](https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Macklemore & Ryan Lewis](https://open.spotify.com/artist/6WLvgbfYXQPO396oJEYCsi), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Heist](https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8) | 4:18 |
 | 7312 | [Don't You Worry Child \- Radio Edit](https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Don't You Worry Child](https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY) | 3:32 |
 | 7313 | [STEP BY STEP UP↑↑↑↑](https://open.spotify.com/track/4gWHHX78wKDxR5W5ROeP7T) | [fourfolium](https://open.spotify.com/artist/2RVXdOnRln5sL4z5wU6Sok) | [HIGECORE!](https://open.spotify.com/album/6rcrV8O10BZ8L4nLmiy56g) | 4:11 |
+| 7314 | [Pick Up the Phone](https://open.spotify.com/track/34rke5UuVABzz8UY5xBOYM) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [DROGAS Light](https://open.spotify.com/album/5URLytQmeXTIT7B4U1Tynd) | 4:39 |
+| 7315 | [찾았다](https://open.spotify.com/track/6QikGnXxJcliCmTkmP0GhG) | [JYJ](https://open.spotify.com/artist/23pnZUOyyTzYzg5GZSvj4Y) | [성균관 스캔들 OST \(Soundtrack\)](https://open.spotify.com/album/7LvIurK4UM0atGzhvZuqAk) | 3:22 |
 
-Snapshot ID: `AAAHMqJZ6CZzHpQSPeibo4qW4DvDoOvP`
+Snapshot ID: `AAAHNPZRqYfoSyTwLo9/lwpnrnW9CVwP`

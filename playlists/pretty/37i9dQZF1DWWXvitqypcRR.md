@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 
 > <a href="spotify:artist:18JlbX3l0yzlwdnQVJrLsp">Tripolism</a>'s favorite tracks\. Updated regularly\. Curated by Tripolism\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,147 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,167 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 | 40 | [So](https://open.spotify.com/track/14nUTHoq6kIzWaoKuhPQG9) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp) | [So](https://open.spotify.com/album/2Y9HG345Cd6pTQmcpsoqV6) | 3:46 |
 | 41 | [Highly Recommended](https://open.spotify.com/track/2kyhGp9Okt2kYzgFBxDed6) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Highly Recommended](https://open.spotify.com/album/7l3DslmV0uxeWut1lpgaNf) | 5:43 |
 | 42 | [Is It?, Ver\. 1](https://open.spotify.com/track/1X9lMemzVQDot8btlgV9oJ) | [All Is Well](https://open.spotify.com/artist/6sUqmXdGEuB20zBkmhMxTG) | [Fragments](https://open.spotify.com/album/1t3OKl7zfpHQBVWghSm1tw) | 5:55 |
-| 43 | [Sensa](https://open.spotify.com/track/17MT6vv1WVqLFOkqJkd6Pf) | [Lilya Mandre](https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW), [Zac Martel](https://open.spotify.com/artist/7g0VQy3w7eS5eM8nq8IY3g), [Tommy Kimpton](https://open.spotify.com/artist/4itBCzgUmIxnSOLI5LQRd1) | [Sensa](https://open.spotify.com/album/2RWJTcOuzato9McKwJgzH2) | 4:25 |
+| 43 | [Sensa](https://open.spotify.com/track/17MT6vv1WVqLFOkqJkd6Pf) | [Lilya Mandre](https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW), [Zac Martel](https://open.spotify.com/artist/7g0VQy3w7eS5eM8nq8IY3g), [Tommy Kimpton](https://open.spotify.com/artist/4itBCzgUmIxnSOLI5LQRd1), [Ayla](https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq) | [Sensa](https://open.spotify.com/album/2RWJTcOuzato9McKwJgzH2) | 4:25 |
 | 44 | [Keep Me On The Dancefloor \- FKA MASH Remix](https://open.spotify.com/track/1SQ5OIztwoY2Ah7RTpFj4R) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96), [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq) | [Keep Me On The Dancefloor \(FKA MASH Remix\)](https://open.spotify.com/album/4HhRRRtz6jJL7sWyGxN9Ri) | 3:26 |
 | 45 | [Been Such A Long Time \- mOat Remix](https://open.spotify.com/track/3JDR6khVxghRAokogzY38g) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp), [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds) | [Dotr \(Remixes\)](https://open.spotify.com/album/14OJemZ81XM3kfUJqGqOIo) | 6:12 |
 | 46 | [Falling Feels Like Flying \(ft Kabusa Oriental Choir\)](https://open.spotify.com/track/4uwYYpAbDZ1SFRdde2hJUU) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kabusa Oriental Choir](https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj) | [On A Trip](https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN) | 3:16 |

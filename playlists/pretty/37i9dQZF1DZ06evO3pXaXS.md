@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pXaXS.md) - [plain]
 
 > This is The Police\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,642 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,684 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pXaXS.md) - [plain]
 | 37 | [Once Upon A Daydream](https://open.spotify.com/track/6d4nFWjT3SF9YgdutJYU2q) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Alternate Sequence\)](https://open.spotify.com/album/2796tQP9Fel4s4zaCX66Oo) | 3:33 |
 | 38 | [Someone To Talk To](https://open.spotify.com/track/5kijcc1kZNSFcEboJsDVkF) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Super Deluxe Edition\)](https://open.spotify.com/album/4IdDVb3BntFlGHKrFA5sea) | 3:04 |
 | 39 | [Can't Stand Losing You/Reggatta De Blanc \- Live From River Plate Stadium, Buenos Aires](https://open.spotify.com/track/7qXOUUDmgkYql3k9AJUeIw) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Certifiable \(Live in Buenos Aires\)](https://open.spotify.com/album/2Dz4qhsr2dWMcRLVP7474f) | 6:30 |
-| 40 | [Shambelle](https://open.spotify.com/track/2jn9j0RG0UKukFZAviVCbG) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 5:10 |
+| 40 | [A Sermon](https://open.spotify.com/track/5YlavkDAyN6SM6jtmJzuPP) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 2:32 |
 | 41 | [Fall Out](https://open.spotify.com/track/0hAyb0O9Ft16QAjtLMRCJE) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [The Police](https://open.spotify.com/album/0QV6T4VzyWkF1eJed2eRcP) | 2:03 |
 | 42 | [Rock And Roll Music](https://open.spotify.com/track/3rxg2m40EClckontG296I1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Super Deluxe Edition\)](https://open.spotify.com/album/4IdDVb3BntFlGHKrFA5sea) | 1:55 |
 | 43 | [Voices Inside My Head / When The World Is Running Down You Make the Best Of What's Still Around \- Live From River Plate Stadium, Buenos Aires](https://open.spotify.com/track/2UtXxz9XGRn7qvZ275H7aJ) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Certifiable \(Live in Buenos Aires\)](https://open.spotify.com/album/2Dz4qhsr2dWMcRLVP7474f) | 7:04 |
-| 44 | [A Sermon](https://open.spotify.com/track/5YlavkDAyN6SM6jtmJzuPP) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 2:32 |
+| 44 | [Shambelle](https://open.spotify.com/track/2jn9j0RG0UKukFZAviVCbG) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 5:10 |
 | 45 | [We Are the Police](https://open.spotify.com/track/1cNHW91XkcPxisLZuDbc0h) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH), [Adam Driver](https://open.spotify.com/artist/37eFQoWqQ7wwYH8OuLXY9M), [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Annette \(Unlimited Edition\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/1qqZSTptKt9zXK4zJkkNPf) | 1:22 |
 | 46 | [Three Steps To Heaven](https://open.spotify.com/track/6gFvK5y2TJQksecZAShqKV) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Super Deluxe Edition\)](https://open.spotify.com/album/4IdDVb3BntFlGHKrFA5sea) | 2:48 |
 | 47 | [Landlord](https://open.spotify.com/track/359ZqVnNGDhkQgMPmQ9dvn) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pXaXS.md) - [plain]
 | 49 | [Dead End Job](https://open.spotify.com/track/1wLiJWt0YABFCJxHnYIoDj) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 3:35 |
 | 50 | [Goodbye Tomorrow](https://open.spotify.com/track/1SLmGbYOQGG4PPW109de9U) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Super Deluxe Edition\)](https://open.spotify.com/album/4IdDVb3BntFlGHKrFA5sea) | 3:12 |
 
-Snapshot ID: `aETSgAAAAAAl5zgBwA4hWC9n/qljAHmz`
+Snapshot ID: `aEYkAAAAAAD/bXX1KMzLpXugfnaJPu+f`

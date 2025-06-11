@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpy4ZQQMZKm.md) - [plain]
 
 > The songs with the biggest throwback moments\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,105,657 likes - 58 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,106,355 likes - 58 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

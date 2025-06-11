@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/1xU1q2lviYWohSFWY85KmU.md) - [plain]
 | 39 | [マジカル・ライブ・ストリーマー \(feat\. 初音ミク\)](https://open.spotify.com/track/0cyyjY1bL7asUeFS5WzAr8) | [ヤマギシコージ](https://open.spotify.com/artist/1qHX4qNXPDGWLQKXAkxFbZ), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [マジカル・ライブ・ストリーマー](https://open.spotify.com/album/5DuWRysi1lMgzfREjoEuj9) | 2:53 |
 | 40 | [星幽 \(feat\. 初音ミク\)](https://open.spotify.com/track/4AozubchwV5cVoz2hEZq5r) | [あくたり](https://open.spotify.com/artist/4AWTC8Kqn1DRU4aQIUcrOg), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [星幽](https://open.spotify.com/album/5t0UILTqasXb0gpIErARj3) | 1:15 |
 
-Snapshot ID: `AAAFTThnZ/6Mrpwc/JZydu3AWM0fgyVI`
+Snapshot ID: `AAAFZvQKp2wsIwPMcEOB9gi0DvCm5ias`

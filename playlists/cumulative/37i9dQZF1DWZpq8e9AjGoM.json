@@ -859,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Enigma",
+        "url": "https://open.spotify.com/album/5FmIguu1Cg8ACToBY2Klfj"
+      },
+      "artists": [
+        {
+          "name": "Valter Soll",
+          "url": "https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181155,
+      "name": "Enigma",
+      "url": "https://open.spotify.com/track/5Tp8RmoHqTihaZyFMBZ5jG"
+    },
+    {
+      "album": {
         "name": "Entre arboles",
         "url": "https://open.spotify.com/album/0osL3EqdQcGwFhVgnmJ6qV"
       },
@@ -1234,6 +1252,24 @@
       "duration_ms": 142636,
       "name": "Get To Know You",
       "url": "https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL"
+    },
+    {
+      "album": {
+        "name": "Grateful For The Time",
+        "url": "https://open.spotify.com/album/7lU9zqz8ky2VXhYv5PDm0R"
+      },
+      "artists": [
+        {
+          "name": "Alex Laude",
+          "url": "https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150997,
+      "name": "Grateful For The Time",
+      "url": "https://open.spotify.com/track/4087fSTfSGcZdb7CaTays6"
     },
     {
       "album": {

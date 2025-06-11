@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59639,
+  "num_followers": 59643,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
+        "name": "G\u00e5 f\u00f6r glory",
+        "url": "https://open.spotify.com/album/0O1Vm8GzLMmuaG73QKDq0a"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "G\u00e5 f\u00f6r glory",
+      "url": "https://open.spotify.com/track/5JF5WXIyAvGAhMVI8Rn5AG"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
         "name": "Another Life (Marcus & Martinus vs VIZE)",
         "url": "https://open.spotify.com/album/2EYNSyGV5ScXtvwdS7hppY"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 163533,
       "name": "Another Life (Marcus & Martinus vs VIZE)",
       "url": "https://open.spotify.com/track/1qn9cTpUZiynYkFEOOnwY9"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
-        "name": "G\u00e5 f\u00f6r glory",
-        "url": "https://open.spotify.com/album/0O1Vm8GzLMmuaG73QKDq0a"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "G\u00e5 f\u00f6r glory",
-      "url": "https://open.spotify.com/track/5JF5WXIyAvGAhMVI8Rn5AG"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "Your Fantasy",
-        "url": "https://open.spotify.com/album/53Jqh6cjJL9jAVaN3alBDB"
-      },
-      "artists": [
-        {
-          "name": "Girl Group",
-          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
-        }
-      ],
-      "duration_ms": 139444,
-      "name": "Your Fantasy",
-      "url": "https://open.spotify.com/track/2ShL2rVF4EPkcIVF03JFgM"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
         "name": "Stannar vi kvar h\u00e4r s\u00e5 d\u00f6r vi",
         "url": "https://open.spotify.com/album/1kyZ7ToGWJiXmJX3MjUdDT"
       },
@@ -591,6 +575,22 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
+        "name": "Your Fantasy",
+        "url": "https://open.spotify.com/album/53Jqh6cjJL9jAVaN3alBDB"
+      },
+      "artists": [
+        {
+          "name": "Girl Group",
+          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
+        }
+      ],
+      "duration_ms": 139444,
+      "name": "Your Fantasy",
+      "url": "https://open.spotify.com/track/2ShL2rVF4EPkcIVF03JFgM"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
         "name": "Tom Cruisin'",
         "url": "https://open.spotify.com/album/1pTvDS8e4LoB0l5BaydhDL"
       },
@@ -603,22 +603,6 @@
       "duration_ms": 172432,
       "name": "Tom Cruisin'",
       "url": "https://open.spotify.com/track/3um7ZBlvt2VoLICwBYIyx3"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
-        "name": "Goldfish",
-        "url": "https://open.spotify.com/album/2XX3LX4IKOXrYI1SnX7dZV"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 186900,
-      "name": "Goldfish",
-      "url": "https://open.spotify.com/track/1pLf4NG5vTnEUxYr9kZOpk"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -643,22 +627,38 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "Trappa till himlen",
-        "url": "https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8"
+        "name": "Goldfish",
+        "url": "https://open.spotify.com/album/2XX3LX4IKOXrYI1SnX7dZV"
       },
       "artists": [
         {
-          "name": "Terra ",
-          "url": "https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1"
-        },
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
         }
       ],
-      "duration_ms": 236842,
-      "name": "Trappa till himlen",
-      "url": "https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV"
+      "duration_ms": 186900,
+      "name": "Goldfish",
+      "url": "https://open.spotify.com/track/1pLf4NG5vTnEUxYr9kZOpk"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
+        "name": "N\u00e5gon annan \u00e4n dig",
+        "url": "https://open.spotify.com/album/2ygUzWnMr5uTK4ddjDZdKB"
+      },
+      "artists": [
+        {
+          "name": "Henric Edstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
+        },
+        {
+          "name": "JULI",
+          "url": "https://open.spotify.com/artist/4L3VEiHYe7BxQsHloHXGzf"
+        }
+      ],
+      "duration_ms": 164869,
+      "name": "N\u00e5gon annan \u00e4n dig",
+      "url": "https://open.spotify.com/track/4r1TW43zghVN80uLJxxk9d"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -695,6 +695,26 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
+        "name": "Trappa till himlen",
+        "url": "https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8"
+      },
+      "artists": [
+        {
+          "name": "Terra ",
+          "url": "https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1"
+        },
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 236842,
+      "name": "Trappa till himlen",
+      "url": "https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
         "name": "Jag m\u00e5ste v\u00e4lja",
         "url": "https://open.spotify.com/album/3inX2cdSEUxZat1E2lcZNE"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 195500,
       "name": "Jag m\u00e5ste v\u00e4lja",
       "url": "https://open.spotify.com/track/3GDX6H2fLc3UyBaHHdIGwz"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
-        "name": "N\u00e5gon annan \u00e4n dig",
-        "url": "https://open.spotify.com/album/2ygUzWnMr5uTK4ddjDZdKB"
-      },
-      "artists": [
-        {
-          "name": "Henric Edstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
-        },
-        {
-          "name": "JULI",
-          "url": "https://open.spotify.com/artist/4L3VEiHYe7BxQsHloHXGzf"
-        }
-      ],
-      "duration_ms": 164869,
-      "name": "N\u00e5gon annan \u00e4n dig",
-      "url": "https://open.spotify.com/track/4r1TW43zghVN80uLJxxk9d"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
+        "name": "INATT IGEN",
+        "url": "https://open.spotify.com/album/4w83t50g9487UwORpDiCOh"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        }
+      ],
+      "duration_ms": 139310,
+      "name": "INATT IGEN",
+      "url": "https://open.spotify.com/track/2VqbxwOaj6t3DW6Yylv9PW"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
         "name": "Samma gamla visa",
         "url": "https://open.spotify.com/album/462nFJ44ve1KbMzotNYWep"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 193429,
       "name": "Samma gamla visa",
       "url": "https://open.spotify.com/track/5jTrzpI1DiIoTscfjiaXh4"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
-        "name": "INATT IGEN",
-        "url": "https://open.spotify.com/album/4w83t50g9487UwORpDiCOh"
-      },
-      "artists": [
-        {
-          "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
-        }
-      ],
-      "duration_ms": 139310,
-      "name": "INATT IGEN",
-      "url": "https://open.spotify.com/track/2VqbxwOaj6t3DW6Yylv9PW"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "TVIVEL & TRO",
-        "url": "https://open.spotify.com/album/2eWk5PnmUu9dT0rNQMB9wg"
-      },
-      "artists": [
-        {
-          "name": "ABEL",
-          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
-        }
-      ],
-      "duration_ms": 168928,
-      "name": "DELILAH",
-      "url": "https://open.spotify.com/track/1zmufSjMnUu7VBVuMDJ5Bf"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
         "name": "Tro",
         "url": "https://open.spotify.com/album/45kllyUpXALGQ3casrPGZ6"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 136593,
       "name": "Tro",
       "url": "https://open.spotify.com/track/1YJGpZL9eDOrbHCxszX9D2"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
+        "name": "TVIVEL & TRO",
+        "url": "https://open.spotify.com/album/2eWk5PnmUu9dT0rNQMB9wg"
+      },
+      "artists": [
+        {
+          "name": "ABEL",
+          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
+        }
+      ],
+      "duration_ms": 168928,
+      "name": "DELILAH",
+      "url": "https://open.spotify.com/track/1zmufSjMnUu7VBVuMDJ5Bf"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "F\u00f6rst\u00f6raren",
-        "url": "https://open.spotify.com/album/1T0gsLv0NrBA8DKuQQknoD"
-      },
-      "artists": [
-        {
-          "name": "Hemliga Klubben",
-          "url": "https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf"
-        }
-      ],
-      "duration_ms": 146778,
-      "name": "F\u00f6rst\u00f6raren",
-      "url": "https://open.spotify.com/track/5vUyKrknRb2sYddxO6oUHI"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
         "name": "112",
         "url": "https://open.spotify.com/album/1zml0unk1vmOVPhYlpExW7"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/2NW96KndFggFYbRxqCfzzb"
+        "name": "F\u00f6rst\u00f6raren",
+        "url": "https://open.spotify.com/album/1T0gsLv0NrBA8DKuQQknoD"
       },
       "artists": [
         {
-          "name": "Vella",
-          "url": "https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH"
+          "name": "Hemliga Klubben",
+          "url": "https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf"
         }
       ],
-      "duration_ms": 182725,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/02Hjgk7NbS2BtkMpK5pe1j"
+      "duration_ms": 146778,
+      "name": "F\u00f6rst\u00f6raren",
+      "url": "https://open.spotify.com/track/5vUyKrknRb2sYddxO6oUHI"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -1083,6 +1067,22 @@
       "duration_ms": 182372,
       "name": "Feel Free",
       "url": "https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/2NW96KndFggFYbRxqCfzzb"
+      },
+      "artists": [
+        {
+          "name": "Vella",
+          "url": "https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH"
+        }
+      ],
+      "duration_ms": 182725,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/02Hjgk7NbS2BtkMpK5pe1j"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "Settle Down",
-        "url": "https://open.spotify.com/album/2BOhNUPQwvNFxH1rdjnqUc"
-      },
-      "artists": [
-        {
-          "name": "Vella",
-          "url": "https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH"
-        }
-      ],
-      "duration_ms": 198900,
-      "name": "Settle Down",
-      "url": "https://open.spotify.com/track/24nrsUD8dIaX8gkiotxy6w"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
         "name": "K\u00e4rleksrum",
         "url": "https://open.spotify.com/album/5HTtYR7SHbZXCT4hMZfGjo"
       },
@@ -1203,22 +1187,6 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "Ikv\u00e4ll m\u00e5ste n\u00e5nting h\u00e4nda",
-        "url": "https://open.spotify.com/album/0yaCpQvJffjcBuD4JFbXzI"
-      },
-      "artists": [
-        {
-          "name": "Felicia Takman",
-          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
-        }
-      ],
-      "duration_ms": 219642,
-      "name": "Ikv\u00e4ll m\u00e5ste n\u00e5nting h\u00e4nda",
-      "url": "https://open.spotify.com/track/2jaXOhm7dmmsokJjj2DsUA"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
         "name": "L\u00e4ngesen",
         "url": "https://open.spotify.com/album/33yREDH6p24DwWopavOqVJ"
       },
@@ -1231,6 +1199,22 @@
       "duration_ms": 191999,
       "name": "L\u00e4ngesen",
       "url": "https://open.spotify.com/track/7BkMhRsjtKNl1O38dFz9de"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
+        "name": "Ikv\u00e4ll m\u00e5ste n\u00e5nting h\u00e4nda",
+        "url": "https://open.spotify.com/album/0yaCpQvJffjcBuD4JFbXzI"
+      },
+      "artists": [
+        {
+          "name": "Felicia Takman",
+          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
+        }
+      ],
+      "duration_ms": 219642,
+      "name": "Ikv\u00e4ll m\u00e5ste n\u00e5nting h\u00e4nda",
+      "url": "https://open.spotify.com/track/2jaXOhm7dmmsokJjj2DsUA"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
+        "name": "Settle Down",
+        "url": "https://open.spotify.com/album/2BOhNUPQwvNFxH1rdjnqUc"
+      },
+      "artists": [
+        {
+          "name": "Vella",
+          "url": "https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH"
+        }
+      ],
+      "duration_ms": 198900,
+      "name": "Settle Down",
+      "url": "https://open.spotify.com/track/24nrsUD8dIaX8gkiotxy6w"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
         "name": "Mormors Sommarvisa",
         "url": "https://open.spotify.com/album/1DB94nhmlINo21fAr3CzWJ"
       },
@@ -1263,22 +1263,6 @@
       "duration_ms": 143649,
       "name": "Mormors Sommarvisa",
       "url": "https://open.spotify.com/track/2Q9n5vvOyFz7feO8bYNb8g"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
-        "name": "and is it really over",
-        "url": "https://open.spotify.com/album/4uW3H526QlOeBveCV2sgSL"
-      },
-      "artists": [
-        {
-          "name": "Joonas",
-          "url": "https://open.spotify.com/artist/06bXpbtpgnaU0cklDrSqlg"
-        }
-      ],
-      "duration_ms": 227121,
-      "name": "and is it really over",
-      "url": "https://open.spotify.com/track/5RAInZ6ZRVYhgf31HLECFZ"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
+        "name": "and is it really over",
+        "url": "https://open.spotify.com/album/4uW3H526QlOeBveCV2sgSL"
+      },
+      "artists": [
+        {
+          "name": "Joonas",
+          "url": "https://open.spotify.com/artist/06bXpbtpgnaU0cklDrSqlg"
+        }
+      ],
+      "duration_ms": 227121,
+      "name": "and is it really over",
+      "url": "https://open.spotify.com/track/5RAInZ6ZRVYhgf31HLECFZ"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
         "name": "Mr. Vibe Killer",
         "url": "https://open.spotify.com/album/0yRDW91fBRvdL2CUNYG3wK"
       },
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "SIGHTS",
-        "url": "https://open.spotify.com/album/7fehq5D80Esh91dT8G87oe"
-      },
-      "artists": [
-        {
-          "name": "Jhon Allan",
-          "url": "https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS"
-        }
-      ],
-      "duration_ms": 186191,
-      "name": "SIGHTS",
-      "url": "https://open.spotify.com/track/2svUIV9N4rXk5V7cyA9jbS"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
         "name": "Hj\u00e4rtat kan ha fel ibland",
         "url": "https://open.spotify.com/album/6Kdvv7a6OSJ2392TMGKkIQ"
       },
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
+        "name": "SIGHTS",
+        "url": "https://open.spotify.com/album/7fehq5D80Esh91dT8G87oe"
+      },
+      "artists": [
+        {
+          "name": "Jhon Allan",
+          "url": "https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS"
+        }
+      ],
+      "duration_ms": 186191,
+      "name": "SIGHTS",
+      "url": "https://open.spotify.com/track/2svUIV9N4rXk5V7cyA9jbS"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
         "name": "Sirens",
         "url": "https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110"
       },
@@ -1391,6 +1391,22 @@
       "duration_ms": 172838,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
+        "name": "snackar f\u00f6r mycket",
+        "url": "https://open.spotify.com/album/35IFjmzMQ5iQJxeHqzuVoq"
+      },
+      "artists": [
+        {
+          "name": "Chris Taylor",
+          "url": "https://open.spotify.com/artist/2X6nKUSF2b8qXr9pcMno7Q"
+        }
+      ],
+      "duration_ms": 161614,
+      "name": "snackar f\u00f6r mycket",
+      "url": "https://open.spotify.com/track/5DXQmPqBUuf51HpIxfZst4"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -1431,34 +1447,18 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "snackar f\u00f6r mycket",
-        "url": "https://open.spotify.com/album/35IFjmzMQ5iQJxeHqzuVoq"
+        "name": "i guess this is me now?",
+        "url": "https://open.spotify.com/album/0fr8btLAWf5vRidQtFtVxc"
       },
       "artists": [
         {
-          "name": "Chris Taylor",
-          "url": "https://open.spotify.com/artist/2X6nKUSF2b8qXr9pcMno7Q"
+          "name": "ENVYYOU",
+          "url": "https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm"
         }
       ],
-      "duration_ms": 161614,
-      "name": "snackar f\u00f6r mycket",
-      "url": "https://open.spotify.com/track/5DXQmPqBUuf51HpIxfZst4"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
-        "name": "bland molnen/under isen",
-        "url": "https://open.spotify.com/album/1ruLTxzG4vZvQqvPslsrzo"
-      },
-      "artists": [
-        {
-          "name": "TUVA",
-          "url": "https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q"
-        }
-      ],
-      "duration_ms": 168336,
-      "name": "luften i maj",
-      "url": "https://open.spotify.com/track/0lCZhCH8XT87T1zQDCeHsZ"
+      "duration_ms": 148906,
+      "name": "violet",
+      "url": "https://open.spotify.com/track/636roEe0dWBQwgTLJoBr9j"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "i guess this is me now?",
-        "url": "https://open.spotify.com/album/0fr8btLAWf5vRidQtFtVxc"
+        "name": "bland molnen/under isen",
+        "url": "https://open.spotify.com/album/1ruLTxzG4vZvQqvPslsrzo"
       },
       "artists": [
         {
-          "name": "ENVYYOU",
-          "url": "https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm"
+          "name": "TUVA",
+          "url": "https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q"
         }
       ],
-      "duration_ms": 148906,
-      "name": "violet",
-      "url": "https://open.spotify.com/track/636roEe0dWBQwgTLJoBr9j"
+      "duration_ms": 168336,
+      "name": "luften i maj",
+      "url": "https://open.spotify.com/track/0lCZhCH8XT87T1zQDCeHsZ"
     }
   ],
   "unique_name": "p\u00e5 repeat",

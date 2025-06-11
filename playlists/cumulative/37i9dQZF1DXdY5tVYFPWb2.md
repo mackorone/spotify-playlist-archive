@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-903 songs - 2 day 11 hr 30 min
+904 songs - 2 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Drive](https://open.spotify.com/track/0UyjuTpVs3puSMGJQYY1W4) | [髙橋多聞](https://open.spotify.com/artist/71GnUG4fPTeVn1h7PwUbNs) | [Drive](https://open.spotify.com/album/1WphwJpdlrhrRfSG5tZ2VQ) | 4:33 | 2023-03-14 | 2023-03-22 |
 | [Drive Our Dreams](https://open.spotify.com/track/4Tm9gdyG4FnEf2IBlrYx3s) | [Little Black Dress](https://open.spotify.com/artist/0rrUSORQ2b4EReKZhB3U9P) | [SYNCHRONICITY POP](https://open.spotify.com/album/2XMzhpRsY3PbAWrxNv7xNK) | 4:55 | 2024-06-12 | 2024-07-31 |
 | [Drive’n The Rain](https://open.spotify.com/track/5PixDfOQbLTEG2YFPcXA1e) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [PLASMA](https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y) | 6:16 | 2022-07-27 | 2023-08-25 |
+| [Driving Summer](https://open.spotify.com/track/4WHMEWCwKOlBGNABFoj5Fg) | [Tomoyo Harada](https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1) | [Driving Summer](https://open.spotify.com/album/0bFonS00fotNAieZ3RBLx8) | 4:27 | 2025-06-10 |  |
 | [Eastern Railroad](https://open.spotify.com/track/1ePjUavUg94dF598YFLiwt) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [NEVER ENDING SUMMER REMIX](https://open.spotify.com/album/0ZbNM7icPjo2rt0l56xGWW) | 3:54 | 2022-09-27 | 2022-10-05 |
 | [Eclipse](https://open.spotify.com/track/3xUemE6fdgQKwymzvCjHJt) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/3awnnhSoffzFbLrQs0QnKA) | 3:37 | 2023-11-21 | 2024-02-14 |
 | [Eclipse](https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng) | 3:37 | 2024-04-16 |  |
@@ -733,7 +734,7 @@
 | [フーリッシュサマー](https://open.spotify.com/track/6TqYBVT4sytzhEyiujcqjM) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [フーリッシュサマー](https://open.spotify.com/album/4xLSbMXqkmxhaY3mJKKXDh) | 4:27 | 2022-06-30 | 2022-11-27 |
 | [ブルージー](https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Grow apart](https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n) | 3:12 | 2022-08-02 |  |
 | [ブルーハワイ](https://open.spotify.com/track/6aAOQW6aYVfb1RZTpseu5K) | [ティンペッツ](https://open.spotify.com/artist/75uba7u8cg297V1nx7HGh1) | [ブルーハワイ](https://open.spotify.com/album/0oZLf6DhoyHhtDMGrybbCb) | 3:46 | 2022-12-13 | 2023-06-07 |
-| [ブルーライト](https://open.spotify.com/track/6PbCnxdWt2sxv1V4cDRDS9) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [ブルーライト](https://open.spotify.com/album/13FfzSty8Mw77tHNyPE3cu) | 3:55 | 2023-04-04 |  |
+| [ブルーライト](https://open.spotify.com/track/6PbCnxdWt2sxv1V4cDRDS9) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [ブルーライト](https://open.spotify.com/album/13FfzSty8Mw77tHNyPE3cu) | 3:55 | 2023-04-04 | 2025-06-11 |
 | [プラスティック・ラブ](https://open.spotify.com/track/4wGxmG5XLeSs4EiUzhbOcY) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [プラスティック・ラブ](https://open.spotify.com/album/2sbbdJ8TzA6zdXySG4jpDD) | 5:00 | 2022-11-08 | 2023-04-12 |
 | [プラスティック・ラブ \- 12" Original Length ReMix](https://open.spotify.com/track/6FhRpVWOtflqDk2UjWMY2N) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [VARIETY \(30th Anniversary Edition\)](https://open.spotify.com/album/3CBcuIFKPBBTHy7wLfGudH) | 4:55 | 2022-06-02 |  |
 | [プレ・ロマンス](https://open.spotify.com/track/1NLajpAmlLrh5OlnJpA2W4) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [SASUKE](https://open.spotify.com/artist/7jwE5FqGmCoX2l5HYaLfkP) | [プレ・ロマンス](https://open.spotify.com/album/6G4IcMO9mMKRMFP0Y5XIYj) | 3:36 | 2022-06-25 | 2022-06-29 |

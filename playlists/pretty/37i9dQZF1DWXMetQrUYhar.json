@@ -1,6 +1,6 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
-  "num_followers": 110623,
+  "num_followers": 110633,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
@@ -505,6 +505,22 @@
       "url": "https://open.spotify.com/track/0P9RpXoU2UnYmjzrEMlupy"
     },
     {
+      "added_at": "2023-11-07 19:15:28",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 212647,
+      "name": "Miss Independent - Spotify Singles",
+      "url": "https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk"
+    },
+    {
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
@@ -521,6 +537,22 @@
       "url": "https://open.spotify.com/track/2nfUHDtJdrsDBurr05mTJx"
     },
     {
+      "added_at": "2025-01-27 20:00:12",
+      "album": {
+        "name": "flower boy - Spotify Singles",
+        "url": "https://open.spotify.com/album/0XJmr9bXAu9lqnDzu3CQiq"
+      },
+      "artists": [
+        {
+          "name": "King Isis",
+          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
+        }
+      ],
+      "duration_ms": 174630,
+      "name": "flower boy - Spotify Singles",
+      "url": "https://open.spotify.com/track/6K9U3U3C5wIB8MCXiPppFa"
+    },
+    {
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
@@ -535,22 +567,6 @@
       "duration_ms": 180430,
       "name": "I Don't Wanna Talk (I Just Wanna Dance) - Spotify Singles",
       "url": "https://open.spotify.com/track/1lzY6cYbKjLlDlDQ8KfhdR"
-    },
-    {
-      "added_at": "2023-11-07 19:15:28",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 212647,
-      "name": "Miss Independent - Spotify Singles",
-      "url": "https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -599,22 +615,6 @@
       "duration_ms": 214393,
       "name": "Hold Your Head Up High - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1e57DutOjV5KXlNjqWOC61"
-    },
-    {
-      "added_at": "2025-01-27 20:00:12",
-      "album": {
-        "name": "flower boy - Spotify Singles",
-        "url": "https://open.spotify.com/album/0XJmr9bXAu9lqnDzu3CQiq"
-      },
-      "artists": [
-        {
-          "name": "King Isis",
-          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
-        }
-      ],
-      "duration_ms": 174630,
-      "name": "flower boy - Spotify Singles",
-      "url": "https://open.spotify.com/track/6K9U3U3C5wIB8MCXiPppFa"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -764,22 +764,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1Lfr02RCVj36QJzjVfEEi9"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 239465,
-      "name": "I Can Hardly Speak",
-      "url": "https://open.spotify.com/track/6RE0waxUF2FpqFmcUlJI1O"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
       },
       "artists": [
@@ -791,6 +775,22 @@
       "duration_ms": 195850,
       "name": "Real Peach - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1Lfr02RCVj36QJzjVfEEi9"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 239465,
+      "name": "I Can Hardly Speak",
+      "url": "https://open.spotify.com/track/6RE0waxUF2FpqFmcUlJI1O"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -940,22 +940,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7eIpt9EravnZoiZFzFJbli"
-      },
-      "artists": [
-        {
-          "name": "Ella Vos",
-          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
-        }
-      ],
-      "duration_ms": 170342,
-      "name": "00000 Million - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1WnSNeXgZUs9lfEv3rAFXH"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
       },
       "artists": [
@@ -967,6 +951,22 @@
       "duration_ms": 229341,
       "name": "You're The One - Spotify Singles",
       "url": "https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7eIpt9EravnZoiZFzFJbli"
+      },
+      "artists": [
+        {
+          "name": "Ella Vos",
+          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
+        }
+      ],
+      "duration_ms": 170342,
+      "name": "00000 Million - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1WnSNeXgZUs9lfEv3rAFXH"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Spotify Singles (Recorded At Spotify Studios NYC)",
-        "url": "https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 204290,
-      "name": "Maps - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1eHbFX3dETUPt5oSzgmQDF"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 268207,
       "name": "U Got It Bad - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/4Dg5moVCTqxAb7Wr8Dq2T5"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles (Recorded At Spotify Studios NYC)",
+        "url": "https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 204290,
+      "name": "Maps - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1eHbFX3dETUPt5oSzgmQDF"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1132,22 +1132,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 311320,
-      "name": "This Life - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/5HPEdBhvOFVJDEAPW1dKfa"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4HKJv2TGDJlUektNzVgFzQ"
       },
       "artists": [
@@ -1159,6 +1143,22 @@
       "duration_ms": 209542,
       "name": "Ride - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5pKJwIFF2FVHAV2DCYzjHh"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 311320,
+      "name": "This Life - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/5HPEdBhvOFVJDEAPW1dKfa"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Wannabe - Spotify Singles",
-        "url": "https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5G3oIEkrH07sffZrAEJwGN"
       },
       "artists": [
         {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
         }
       ],
-      "duration_ms": 152109,
-      "name": "Wannabe - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1"
+      "duration_ms": 277563,
+      "name": "Don't Delete The Kisses - Recorded at Spotify Studios London",
+      "url": "https://open.spotify.com/track/1hZyADicbo5k0OQbwcxVEo"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1275,18 +1275,34 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5G3oIEkrH07sffZrAEJwGN"
+        "name": "Wannabe - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW"
       },
       "artists": [
         {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 277563,
-      "name": "Don't Delete The Kisses - Recorded at Spotify Studios London",
-      "url": "https://open.spotify.com/track/1hZyADicbo5k0OQbwcxVEo"
+      "duration_ms": 152109,
+      "name": "Wannabe - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 235979,
+      "name": "Pressure - Live at AIR Studios, London",
+      "url": "https://open.spotify.com/track/3aaKyI6jJUNaGGa9PVmzMz"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1307,22 +1323,6 @@
       "duration_ms": 250000,
       "name": "Alemania - Spotify Singles (Blackpaw Remix)",
       "url": "https://open.spotify.com/track/3MeqHGb5MAPTADUJn1FXWR"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 235979,
-      "name": "Pressure - Live at AIR Studios, London",
-      "url": "https://open.spotify.com/track/3aaKyI6jJUNaGGa9PVmzMz"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1408,22 +1408,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3JheGJ15VzACtXQoYT8YPm"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 245596,
-      "name": "Good Kisser - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5eyPkSDWFQNnnkZhFfE6Yo"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe"
       },
       "artists": [
@@ -1435,6 +1419,22 @@
       "duration_ms": 159497,
       "name": "sex money feelings die - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/0MRGc7t0cM9mLlQlfM7LFI"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3JheGJ15VzACtXQoYT8YPm"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 245596,
+      "name": "Good Kisser - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5eyPkSDWFQNnnkZhFfE6Yo"
     },
     {
       "added_at": "2023-11-07 19:15:28",
@@ -1800,22 +1800,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 175946,
-      "name": "Night So Long - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/28H8wM4aFa1DYUMjw4sI3c"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2LRvMxrP2MbJATWGkCJ3Y2"
       },
       "artists": [
@@ -1827,6 +1811,22 @@
       "duration_ms": 212728,
       "name": "Strangers - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2OODSSTxWK2i6LQvQJD557"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 175946,
+      "name": "Night So Long - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/28H8wM4aFa1DYUMjw4sI3c"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 245826,
-      "name": "Want You Back - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1VxuPBPMqgVMAv6NXZFQ3B"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/7mqNAKmDhYPSA1NrvIG0wv"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 199575,
       "name": "Genghis Khan - Jim Eno Sessions",
       "url": "https://open.spotify.com/track/5mFvYNykzBjdXRbPxKnvwA"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 245826,
+      "name": "Want You Back - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1VxuPBPMqgVMAv6NXZFQ3B"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1928,22 +1928,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 210355,
-      "name": "El Rey de la Popola - Spotify Singles",
-      "url": "https://open.spotify.com/track/2kMYjwRj5E9Th5QgXoj8Mj"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/68X345rpDHj4iY6E7pcT6d"
       },
       "artists": [
@@ -1955,6 +1939,22 @@
       "duration_ms": 316108,
       "name": "Mourning Sound - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4qPb53XN2ilYsBf5OIHdtV"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 210355,
+      "name": "El Rey de la Popola - Spotify Singles",
+      "url": "https://open.spotify.com/track/2kMYjwRj5E9Th5QgXoj8Mj"
     },
     {
       "added_at": "2023-01-11 22:54:33",

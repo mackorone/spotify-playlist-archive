@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md) - cumulative - [plain](/playlists/plain/65txKM8JvWVEJORHstAcVL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/65txKM8JvWVEJORHstAcVL)
 
-### [LA LLISTA DE FLAIXBAC \(1/6/2025\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
+### [LA LLISTA DE FLAIXBAC \(8/6/2025\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-170 songs - 8 hr 28 min
+172 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,8 +12,9 @@
 | [2AM](https://open.spotify.com/track/3BvR83k9fPwDZUBwFxBPpu) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [2AM](https://open.spotify.com/album/7HSCFsDUsj8xPAy8DHoxsB) | 3:16 | 2024-12-08 |  |
 | [4 KISSUS](https://open.spotify.com/track/1PIvAh8XJbyrpMD0bKX6P8) | [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3) | [4 KISSUS](https://open.spotify.com/album/2aTIzTlrpr9DM4d51GCzKY) | 2:23 | 2024-02-11 | 2024-07-15 |
 | [4\-3\-3](https://open.spotify.com/track/6z2LDLTbaG7vRZsCd6y212) | [Els Amics De Les Arts](https://open.spotify.com/artist/0op3EnoEZ0jQY13sbyoSo2), [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [4\-3\-3](https://open.spotify.com/album/6Bk9nvL7XFojCy544fLrkf) | 3:13 | 2024-11-24 | 2025-05-06 |
+| [6 DE FEBRERO](https://open.spotify.com/track/2TCUMmklsJTLWHnoU4mSQ4) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [6 DE FEBRERO](https://open.spotify.com/album/6sD0JDqmxDkCDs74Jy6wFu) | 2:55 | 2025-06-10 |  |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/7wd9kz7UXhJr8pgdqpzKu5) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh) | 2:51 | 2024-08-25 | 2025-04-23 |
-| [A Fora Plou](https://open.spotify.com/track/2PoCr1gM9yoLnMWpqUMCzJ) | [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [A Fora Plou](https://open.spotify.com/album/42Ms09jrEIhhmqHmGLmGSD) | 2:51 | 2025-03-17 |  |
+| [A Fora Plou](https://open.spotify.com/track/2PoCr1gM9yoLnMWpqUMCzJ) | [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [A Fora Plou](https://open.spotify.com/album/42Ms09jrEIhhmqHmGLmGSD) | 2:51 | 2025-03-17 | 2025-06-11 |
 | [Abans que s'acabi el Món](https://open.spotify.com/track/2Mcm9St5ujvazdS4SB4n8L) | [Gertrudis](https://open.spotify.com/artist/3eAm5IYwnH7uTX5EBT9sbi) | [Abans que s'acabi el Món](https://open.spotify.com/album/6O90WPSc1nfGH5lCyfcsLw) | 2:49 | 2024-03-03 | 2024-06-03 |
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-03-02 |  |
 | [ACTITUD](https://open.spotify.com/track/4D4DbeUfU2tsrbP83y54Qd) | [Buhos](https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR), [Fraktal](https://open.spotify.com/artist/3E3CNsYCMGVEbSoHw0dgLn), [Mon DJ](https://open.spotify.com/artist/5SLANaLk13zw9NaKeIS49U) | [ACTITUD](https://open.spotify.com/album/1rRgIp7kMofwXGZp6Wj5bk) | 3:06 | 2024-06-16 | 2024-11-11 |
@@ -59,6 +60,7 @@
 | [Els teus ulls](https://open.spotify.com/track/6cPe7rorhofISE335CqPmH) | [Alfred García](https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx) | [Els teus ulls](https://open.spotify.com/album/3D68fVBSVoz7QvrkysKjPq) | 2:31 | 2023-11-05 | 2024-08-19 |
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-04-22 |  |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-02 | 2025-01-20 |
+| [Espresso Macchiato](https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj) | 2:53 | 2025-06-10 |  |
 | [Espurna](https://open.spotify.com/track/0YLvq215pAthBeTs5qp5yg) | [Stay Homas](https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU), [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3) | [Espurna](https://open.spotify.com/album/30MA4geElUAQ6gNQ3ajaiK) | 2:37 | 2025-01-26 |  |
 | [Estrella](https://open.spotify.com/track/7C21gNXsV6dKk8fnCenDof) | [Alfred García](https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Estrella](https://open.spotify.com/album/4h1gOcRIha3vpaX5oMo1td) | 2:51 | 2025-06-02 |  |
 | [Exotica](https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Exotica](https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD) | 2:01 | 2025-03-24 |  |
@@ -146,7 +148,7 @@
 | [Sushi Poke](https://open.spotify.com/track/4oGvBNpgLClPi0hsvIFyFK) | [dani6ix & IZZKID](https://open.spotify.com/artist/3uvPbZvw5KBjF8WRkMsjcz), [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Sushi Poke](https://open.spotify.com/album/0QhKmDHcAZxkV1kRCCl122) | 2:22 | 2025-01-06 | 2025-05-06 |
 | [T'estiu](https://open.spotify.com/track/6lgMnEEcSsptqmPEuU6vrw) | [Alfred García](https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx) | [T'estiu](https://open.spotify.com/album/70sYjuJFnvaTSk3qyyXMTj) | 2:48 | 2025-05-12 |  |
 | [Take Me to the Beach](https://open.spotify.com/track/2Wop6FEmIstWTMeQb0TXcw) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 2:47 | 2024-12-01 | 2025-03-25 |
-| [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-10-20 |  |
+| [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-10-20 | 2025-06-11 |
 | [tequiero](https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [tequiero](https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN) | 3:05 | 2023-11-19 | 2024-07-08 |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-03-03 | 2024-11-25 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-12-01 |  |

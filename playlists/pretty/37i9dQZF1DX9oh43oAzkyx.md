@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,780,030 likes - 76 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,780,374 likes - 76 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 70 | [Blow](https://open.spotify.com/track/2g3qKijfeHfDyM7Fmaoi5M) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Blow](https://open.spotify.com/album/07AiRVrtrniKqkxHpLLY2g) | 3:02 |
 | 71 | [24 hours to live](https://open.spotify.com/track/5ia8VbDkfzWBjC6f3bOTt1) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [24 hours to live](https://open.spotify.com/album/73djAmtght7e1sfNLior3P) | 3:28 |
 | 72 | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/track/6x3gud5JkOSGYJpRUYN1Gg) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/album/0lpk5TUY4VN3X5Y4iOwJls) | 3:36 |
-| 73 | [Presidential Rolex](https://open.spotify.com/track/5t0MkcpR3E24eNQcJN48WP) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:28 |
-| 74 | [Precision](https://open.spotify.com/track/0jYYthUDGsJrYMCrtdHYtJ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Precision](https://open.spotify.com/album/1DNvuu85Qyu95qxWCY8jTO) | 2:47 |
+| 73 | [Precision](https://open.spotify.com/track/0jYYthUDGsJrYMCrtdHYtJ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Precision](https://open.spotify.com/album/1DNvuu85Qyu95qxWCY8jTO) | 2:47 |
+| 74 | [Presidential Rolex](https://open.spotify.com/track/5t0MkcpR3E24eNQcJN48WP) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:28 |
 | 75 | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/track/5B40Td13cDQ4adeAiLf8Z4) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Twin \(feat\. Lil Durk\)](https://open.spotify.com/album/7IdlBOwOeXlriuPRozrkKz) | 2:28 |
 | 76 | [CHAMPIONS](https://open.spotify.com/track/7ezboaARv4FY1k0WFoINWC) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [CHAMPIONS](https://open.spotify.com/album/59YcRgHMJ2jyNEv7kR12rn) | 4:02 |
 

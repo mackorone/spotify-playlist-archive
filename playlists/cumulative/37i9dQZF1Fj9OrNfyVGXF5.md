@@ -4,7 +4,7 @@
 
 > Listen to the soundtrack and selections from WORLD OF STREET WOMAN FIGHTER.
 
-74 songs - 3 hr 40 min
+77 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,9 @@
 | [Curated by ROYAL FAMILY](https://open.spotify.com/track/6JQyQ0NuJyGGCFRPxaWID8) | [ROYAL FAMILY](https://open.spotify.com/artist/05iCqIjQ2GisDw8WLHSWIJ) | [WSWF SHOUT \[ROYAL FAMILY\]](https://open.spotify.com/album/04LtAupvLjETlbYbHzIWSc) | 0:05 | 2025-05-14 |  |
 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 | 2025-05-14 |  |
 | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Billy B](https://open.spotify.com/artist/3P2dL1jA3FykjGry2EcZEf) | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS) | 2:11 | 2025-05-14 |  |
+| [ECHO! \(Prod\. WOOZI\)](https://open.spotify.com/track/2ZmjUVTEA6UjJmqyiRGBBd) | [HxW](https://open.spotify.com/artist/1EReYiseDwE51FzGm7EK9n) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.2 \(Class Mission\)](https://open.spotify.com/album/7zY5lldzF6MgRVfRajSS4f) | 2:33 | 2025-06-11 |  |
 | [Electric Relaxation](https://open.spotify.com/track/5JW7xIcR5fEqzrR7YRV0eM) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [Coffeehouse Classics Vol\. 1](https://open.spotify.com/album/2kcUXoH9BvKlt1eEsQkRR6) | 3:45 | 2025-05-14 |  |
+| [Flip Flop \(Prod\. Padi\)](https://open.spotify.com/track/6RZMwZQkoTLoPkwkA9rurA) | [GUMMY](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.2 \(Class Mission\)](https://open.spotify.com/album/7zY5lldzF6MgRVfRajSS4f) | 2:59 | 2025-06-11 |  |
 | [Gang′s Spirit Queen′s Move \(OSAKA Ojo Gang Crew\)](https://open.spotify.com/track/1M02GfXgbtrzGEaFQzcX9B) | [WORLD OF STREET WOMAN FIGHTER \(WSWF\)](https://open.spotify.com/artist/5NzvDUeOc9JCP5yMnEInIX) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.0 \(Cheering Theme\)](https://open.spotify.com/album/33kKKW2JYwI9bRDxIPR4Md) | 0:37 | 2025-05-14 |  |
 | [Get Busy \- Odd Mob Club Mix](https://open.spotify.com/track/6u6vaQoR0IXCWRSOP7h7D6) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Get Busy \(Odd Mob Club Mix\)](https://open.spotify.com/album/0tzUcNV1CNq8D6JYS2wosW) | 2:45 | 2025-05-14 |  |
 | [Get Into It \(Yuh\)](https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:18 | 2025-05-14 |  |
@@ -61,6 +63,7 @@
 | [PURE/HONEY](https://open.spotify.com/track/45bteDyQ303LFxmDiLE3m8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/3ctW8o8ABBCNWWkdIvEGgV) | 4:48 | 2025-05-14 |  |
 | [React \(feat\. Redman\)](https://open.spotify.com/track/7sG40bSekfQ5m73oPpHEKJ) | [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [2000s Hip\-Hop Classics \- Top Hip\-Hop Tracks From 1999\-2009](https://open.spotify.com/album/6LZrTAeLH9m3xGyc7y7ukD) | 3:37 | 2025-05-14 |  |
 | [Real Hot Tokyo \(RHTokyo Crew\)](https://open.spotify.com/track/759CE5ffIbqSm9Wvqu7Y6L) | [WORLD OF STREET WOMAN FIGHTER \(WSWF\)](https://open.spotify.com/artist/5NzvDUeOc9JCP5yMnEInIX) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.0 \(Cheering Theme\)](https://open.spotify.com/album/33kKKW2JYwI9bRDxIPR4Md) | 0:44 | 2025-05-14 |  |
+| [Ridin′ \(Prod\. THE HUB\)](https://open.spotify.com/track/4bGMm3NwFM8q8YC3Y6VLOE) | [LILY](https://open.spotify.com/artist/0INVGid5ozT0WUEGa0WYV5), [JIWOO](https://open.spotify.com/artist/1AqG0h7s7G7UOeEOAWKCF7), [KYUJIN](https://open.spotify.com/artist/5ml2UIgNVH6l7i4vm3aaRw) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.2 \(Class Mission\)](https://open.spotify.com/album/7zY5lldzF6MgRVfRajSS4f) | 2:47 | 2025-06-11 |  |
 | [Rude Boy](https://open.spotify.com/track/60jzFy6Nn4M0iD1d94oteF) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Rated R](https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2) | 3:42 | 2025-05-14 |  |
 | [S&M Remix](https://open.spotify.com/track/44FAj28ivN0HJ0xVYwQ9nL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [S&M Remix](https://open.spotify.com/album/4rLvbAUc2aqGSwkG4TQRgs) | 4:17 | 2025-05-14 |  |
 | [SASS \(Prod\. THE HUB\)](https://open.spotify.com/track/3i4uRxBpIrI6xb6CHLvh9p) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4GYvM3EbRUpbeen0zCIGaK) | 2:51 | 2025-05-28 |  |

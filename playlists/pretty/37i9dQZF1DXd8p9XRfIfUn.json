@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: Lexxx Torres ",
-  "num_followers": 79735,
+  "num_followers": 79746,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
+        "name": "POPPER!",
+        "url": "https://open.spotify.com/album/4v0x0syzsxORqMTW3c88Zp"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        },
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "duration_ms": 110141,
+      "name": "POPPER!",
+      "url": "https://open.spotify.com/track/3dffM1ONyWwC9153O47a2O"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
         "name": "Tanto Fronteo",
         "url": "https://open.spotify.com/album/27PL5DSMr3hRU6TOYeQFKp"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 297073,
       "name": "Tanto Fronteo",
       "url": "https://open.spotify.com/track/4tsB6dDW31Okuqumrmyvbk"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
-        "name": "POPPER!",
-        "url": "https://open.spotify.com/album/4v0x0syzsxORqMTW3c88Zp"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        },
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        }
-      ],
-      "duration_ms": 110141,
-      "name": "POPPER!",
-      "url": "https://open.spotify.com/track/3dffM1ONyWwC9153O47a2O"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

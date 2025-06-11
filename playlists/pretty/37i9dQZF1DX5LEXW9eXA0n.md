@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: 조째즈\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,467 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,451 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [Stitching](https://open.spotify.com/track/2FyMzBBr9xI0GL2du2KJsI) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Stitch](https://open.spotify.com/album/49l21eblkkpfozaTjlpphW) | 2:56 |
 | 100 | [Stroll](https://open.spotify.com/track/1ksogiV5AnuwcejwfKpNKK) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Stroll](https://open.spotify.com/album/72LyvyO7wpv7ADawbJqHTG) | 5:06 |
 
-Snapshot ID: `aEZK4gAAAACuXRbvc/AK5hMTC7jjVoBp`
+Snapshot ID: `aEZK4gAAAABl5pIbcLlVkTFKg7EbxemT`

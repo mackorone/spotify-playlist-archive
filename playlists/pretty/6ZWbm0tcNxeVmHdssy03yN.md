@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 47,615 likes - 90 songs - 4 hr 33 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 47,632 likes - 90 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 4 | [Beautiful Disaster \- Redux](https://open.spotify.com/track/0MkruK6G1KoNn7BSUmiIOb) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [Beautiful Disaster \(Redux\)](https://open.spotify.com/album/1ZSXC2f06YU2dCtjoWiUw5) | 3:50 |
 | 5 | [Go Back](https://open.spotify.com/track/5QeTydQwZzRUcHca2H6IO3) | [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U), [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7) | [Time To Move](https://open.spotify.com/album/1xKvqoVRcgM1J0kWXxvg4w) | 2:30 |
 | 6 | [reasons why](https://open.spotify.com/track/2tAPyXSM3L6UC3BbpMpYBI) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [reasons why](https://open.spotify.com/album/7zehwvaDIe6BdrrxadG93N) | 3:24 |
-| 7 | [Find You Out](https://open.spotify.com/track/4PjF4hfiJud0by3yMyIPbV) | [Marauder](https://open.spotify.com/artist/6Qe7KL13GQ3DVTrGobEW1q), [dayaway](https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX), [CLAVVS](https://open.spotify.com/artist/2JcWOIfDeHESCg42COyDy1) | [Find You Out](https://open.spotify.com/album/09DfFjypTMasY9zhEfPP4K) | 2:17 |
+| 7 | [Find You Out](https://open.spotify.com/track/4PjF4hfiJud0by3yMyIPbV) | [Marauder](https://open.spotify.com/artist/6Qe7KL13GQ3DVTrGobEW1q), [CLAVVS](https://open.spotify.com/artist/2JcWOIfDeHESCg42COyDy1), [draigh](https://open.spotify.com/artist/7A89xY5ISF9lS5VDDtfi5K) | [Find You Out](https://open.spotify.com/album/09DfFjypTMasY9zhEfPP4K) | 2:17 |
 | 8 | [Slow Whine \(Elisama Remix\)](https://open.spotify.com/track/4oUw7uBhTgS185cLJLxMny) | [Strikes](https://open.spotify.com/artist/2nGaDG8ooKQeqRldV2WAYm), [Elisama](https://open.spotify.com/artist/2G5sbmIkoE8hZpNdXHHhrU) | [Slow Whine \(Elisama Remix\)](https://open.spotify.com/album/1U0zTtxxnVrII6N36m7hi7) | 2:28 |
 | 9 | [Big Body Benz](https://open.spotify.com/track/7oFrbYZRNoSOZTmbHKc4yw) | [Ugly Dray](https://open.spotify.com/artist/4CY7OYb1eZFkEy5FL9okDS) | [Big Body Benz](https://open.spotify.com/album/4v8TSRSiu9W4Je0cUojK8h) | 2:22 |
 | 10 | [Forever Hold Your Gun \(Stripped\)](https://open.spotify.com/track/0KaWkulC9m38UuxkAfCA6T) | [Y.O.G.A.](https://open.spotify.com/artist/0H2mWrAuc4RzRwr2SkpG2y), [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Forever Hold Your Gun \(Stripped\)](https://open.spotify.com/album/0d3WzQFaVarYCcnuRR14ON) | 2:20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVRbdKqFtIef.md) - [plain]
 
 > This is Chappell Roan\. The essential tracks all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,006 likes - 23 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,216 likes - 23 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVRbdKqFtIef.md) - [plain]
 | 22 | [Guilty Pleasure](https://open.spotify.com/track/0q8TNCQhwnDwnzq38IVV4l) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:44 |
 | 23 | [Meantime](https://open.spotify.com/track/1L3fMJNX5WUJ865uU406Vz) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [School Nights](https://open.spotify.com/album/44u4QMvReXg0lhHl9xARxu) | 3:03 |
 
-Snapshot ID: `AAAAAGPUaNgSVnSU7JnrSM098iF1N0SA`
+Snapshot ID: `aCto2wAAAADfGQUt+iUXWxh0Zb2YhZyO`

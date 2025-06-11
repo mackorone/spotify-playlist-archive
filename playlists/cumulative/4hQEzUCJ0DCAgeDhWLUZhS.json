@@ -4935,6 +4935,24 @@
     },
     {
       "album": {
+        "name": "Misery",
+        "url": "https://open.spotify.com/album/1NjpiLG4KtHeMcSklW3lhw"
+      },
+      "artists": [
+        {
+          "name": "50 Lions",
+          "url": "https://open.spotify.com/artist/2TY2TDzMptJVfUAoV2n0hb"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125668,
+      "name": "Misery",
+      "url": "https://open.spotify.com/track/757KXgD95AUGZtJ46LTkRA"
+    },
+    {
+      "album": {
         "name": "MLBRN",
         "url": "https://open.spotify.com/album/7EOVE590oo7t0kK3kK1a8X"
       },

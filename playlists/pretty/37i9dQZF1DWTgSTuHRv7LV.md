@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Sante Fe Klan & Rick Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,277 likes - 198 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,319 likes - 198 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

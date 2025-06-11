@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:4uqHgaeBynLBQgfhMEIm1G">PLUTO</a>
 
-2,357 songs - 4 day 8 hr 46 min
+2,358 songs - 4 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1047,6 +1047,7 @@
 | [It's Us \(feat\. Luh Tyler\)](https://open.spotify.com/track/4Bx4S0eeZc3KElNPFYPccn) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [The X Tape \(Deluxe\)](https://open.spotify.com/album/1OhznYXcpOhfoWIdUgsNW4) | 2:33 | 2024-03-01 | 2024-05-18 |
 | [I’m Him](https://open.spotify.com/track/6ISRN95tJh7iVS0Z3kggeF) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [ROTY](https://open.spotify.com/album/1bj8fRMTZww5rRfP7jsnvi) | 1:44 | 2023-08-25 | 2023-10-14 |
 | [JACKPOT](https://open.spotify.com/track/7MURXO8ygXnNxg1PMMlX3o) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [JACKPOT](https://open.spotify.com/album/6RFuLCFRPOPBDB61wgkNsQ) | 2:20 | 2024-04-19 | 2024-05-03 |
+| [Jagger](https://open.spotify.com/track/1Xo1xMK0kBA7W8KpoizQwf) | [Lil 6](https://open.spotify.com/artist/2Ro8nJQrWimpIrsVnpvHgL) | [Who Is 6?](https://open.spotify.com/album/1Q7ZsJKDMzTgXD7kiQyvIQ) | 1:45 | 2025-06-10 |  |
 | [JAPANESE DENIM \(feat\. Veeze & LUCKI\)](https://open.spotify.com/track/7IRBVTWua5balW0xUJHmUF) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [JAPANESE DENIM \(feat\. Veeze & LUCKI\)](https://open.spotify.com/album/5m3BPYBaanarQy8hXJ7XoZ) | 2:07 | 2024-03-01 | 2024-04-19 |
 | [Jaw Morant](https://open.spotify.com/track/0fpHeEk20cY0bANLJVVPsP) | [Wynne](https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX) | [Jaw Morant](https://open.spotify.com/album/5bQIdXMpIoSkkA5CghhL9C) | 3:17 | 2023-06-02 | 2023-08-12 |
 | [Jay N Bey!](https://open.spotify.com/track/0pST9hoYDLC7cI71VrXxBW) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 2](https://open.spotify.com/album/5QohyYxe1zRYpTmkWJTNYb) | 2:11 | 2022-08-26 | 2022-09-10 |
@@ -2358,7 +2359,7 @@
 | [YSL Woody \(feat\. Babyface Ray\)](https://open.spotify.com/track/5N7bSjfIHe7ZaqYcAuHvTc) | [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [YSL Woody \(feat\. Babyface Ray\)](https://open.spotify.com/album/64SqckNdoLqrrx2bSIcB0U) | 2:33 | 2023-12-08 | 2024-02-24 |
 | [Yucky Blucky Fruitcake](https://open.spotify.com/track/1j3SdMJfeRJXycCp50boYE) | [DOECHII](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 4:35 | 2022-01-12 | 2022-01-22 |
 | [Yung OG Flow](https://open.spotify.com/track/6JY8Ygpx1r9cApONDumYIL) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Yung OG Flow](https://open.spotify.com/album/2MaBHrov5S6bCosjKzxsCZ) | 1:50 | 2024-08-23 | 2024-08-31 |
-| [Yup & I do](https://open.spotify.com/track/5xs9IGR02tU4bsHt3a6CBP) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [STMG DemGuyz](https://open.spotify.com/artist/0jieytrsm8GJJGwTTCAkkq) | [Yup & I do](https://open.spotify.com/album/5uiCdHTYa2rFe0QkPRO6yO) | 2:06 | 2025-06-06 |  |
+| [Yup & I do](https://open.spotify.com/track/5xs9IGR02tU4bsHt3a6CBP) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [STMG DemGuyz](https://open.spotify.com/artist/0jieytrsm8GJJGwTTCAkkq) | [Yup & I do](https://open.spotify.com/album/5uiCdHTYa2rFe0QkPRO6yO) | 2:06 | 2025-06-06 | 2025-06-11 |
 | [ZOMBIE LAND](https://open.spotify.com/track/6vXDqGc6QJT7vbOieUpQqf) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [I PRAY YOU DIE](https://open.spotify.com/album/2YIoPX7DnOtey7S5MjfuX8) | 2:00 | 2024-10-18 | 2024-12-14 |
 | [Zoo Life](https://open.spotify.com/track/26jWu6ccHlmi3LA3KdGz3j) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Zoo Life](https://open.spotify.com/album/1YwhdqhLE8PlMq8Dalyn8x) | 3:08 | 2025-02-21 | 2025-03-01 |
 | [Zuper \(feat\. Wizz Havinn\)](https://open.spotify.com/track/5cMju8aHhROILtAHKsSO4A) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Zuper \(feat\. Wizz Havinn\)](https://open.spotify.com/album/44s9T0FGkafvdrtJ86YEq2) | 2:39 | 2024-05-10 | 2024-05-25 |

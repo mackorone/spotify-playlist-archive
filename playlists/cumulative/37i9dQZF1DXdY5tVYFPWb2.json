@@ -2705,6 +2705,24 @@
     },
     {
       "album": {
+        "name": "Driving Summer",
+        "url": "https://open.spotify.com/album/0bFonS00fotNAieZ3RBLx8"
+      },
+      "artists": [
+        {
+          "name": "Tomoyo Harada",
+          "url": "https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267840,
+      "name": "Driving Summer",
+      "url": "https://open.spotify.com/track/4WHMEWCwKOlBGNABFoj5Fg"
+    },
+    {
+      "album": {
         "name": "NEVER ENDING SUMMER REMIX",
         "url": "https://open.spotify.com/album/0ZbNM7icPjo2rt0l56xGWW"
       },
@@ -14018,7 +14036,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 235500,
       "name": "\u30d6\u30eb\u30fc\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/6PbCnxdWt2sxv1V4cDRDS9"

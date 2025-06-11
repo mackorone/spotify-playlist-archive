@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to Women at Full Volume\. Cover: Cầm
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080,068 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,080,035 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,21 +38,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 28 | [Im So ATL](https://open.spotify.com/track/6B3evHyQCMysT7Qa2gEu3A) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD) | [Im So ATL](https://open.spotify.com/album/4bcvWXBjMb02i99YXUJR4z) | 2:04 |
 | 29 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 |
 | 30 | [Kati Xereis](https://open.spotify.com/track/6sdfSqn9Jz0hr2CYtOicQX) | [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Kati Xereis](https://open.spotify.com/album/1JmNd52N6hawcFYuqKKQ0w) | 2:44 |
-| 31 | [Letter To My 13 Year Old Self](https://open.spotify.com/track/59Y1f3y8FuLjadWY9Bx2LC) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 4:22 |
-| 32 | [Pleasure](https://open.spotify.com/track/72AAKt6SQmRbYSvVKP34QD) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Pleasure](https://open.spotify.com/album/55xKiaSWQ1BABKnueyYsSN) | 2:48 |
+| 31 | [Pleasure](https://open.spotify.com/track/72AAKt6SQmRbYSvVKP34QD) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Pleasure](https://open.spotify.com/album/55xKiaSWQ1BABKnueyYsSN) | 2:48 |
+| 32 | [Letter To My 13 Year Old Self](https://open.spotify.com/track/59Y1f3y8FuLjadWY9Bx2LC) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 4:22 |
 | 33 | [Childlike Things](https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 2:30 |
 | 34 | [¿Trato Hecho?](https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:00 |
-| 35 | [Vaktimiz Dar Sevgilim](https://open.spotify.com/track/61J7Zh1Nj0vCive6SKdy7O) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Bir Yol Bu](https://open.spotify.com/album/2OAJgY6y0u5IIRJES9mP03) | 4:54 |
-| 36 | [Dilemas da vida moderna](https://open.spotify.com/track/6TKBDgjEsyB2AGprNMpZyy) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [No Escuro, Quem É Você?](https://open.spotify.com/album/5RibeqZd7ps8S6bhOVHuDk) | 2:28 |
+| 35 | [Dilemas da vida moderna](https://open.spotify.com/track/6TKBDgjEsyB2AGprNMpZyy) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [No Escuro, Quem É Você?](https://open.spotify.com/album/5RibeqZd7ps8S6bhOVHuDk) | 2:28 |
+| 36 | [Vaktimiz Dar Sevgilim](https://open.spotify.com/track/61J7Zh1Nj0vCive6SKdy7O) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Bir Yol Bu](https://open.spotify.com/album/2OAJgY6y0u5IIRJES9mP03) | 4:54 |
 | 37 | [Cold Heart](https://open.spotify.com/track/5WRdonm8caliL2JA6fT2fL) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Cold Heart](https://open.spotify.com/album/03BbCLJ40xtTP3NBNL5pYU) | 3:45 |
 | 38 | [人醒著不過一萬多天](https://open.spotify.com/track/2M3RZZVaDI606gFCf8mQ00) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [人醒著不過一萬多天](https://open.spotify.com/album/6ElA3UsQyvUYOWYycmtAGq) | 4:33 |
 | 39 | [Belbala](https://open.spotify.com/track/4Oagap5XW3qs8J9Kkmr855) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Belbala](https://open.spotify.com/album/6AmmvJiN4To7amchRSxEKm) | 2:39 |
 | 40 | [Fan](https://open.spotify.com/track/6gx7FxxgsZXcmcUS8hBzjs) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Fan](https://open.spotify.com/album/2ROpD9Dicooqh7dtVQYMtn) | 2:58 |
 | 41 | [Siostra](https://open.spotify.com/track/6tqLDvntpOCReWMz5iujGx) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Gorset](https://open.spotify.com/album/0qpw7taZ590do6gljRq0Zb) | 2:43 |
 | 42 | [Ophelia](https://open.spotify.com/track/5hjhaH0vwtpftiLtF3veZp) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:35 |
-| 43 | [Champagne ké fraises](https://open.spotify.com/track/0VueZHw6jT3nA1X7df4fCR) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Champagne ké fraises](https://open.spotify.com/album/1EBbcU9zdWhLnziZVSyU4J) | 4:11 |
-| 44 | [Derre](https://open.spotify.com/track/02mGPF4589DiiSdoH0pu1d) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Derre](https://open.spotify.com/album/7dSovHX9P2wh3p8quX7EhL) | 2:36 |
-| 45 | [Ladida](https://open.spotify.com/track/0UewHkoEkSW2cbpNbLPI4F) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Ladida](https://open.spotify.com/album/5H10ukTXc6mnzTe7leaQPJ) | 2:11 |
+| 43 | [Ladida](https://open.spotify.com/track/0UewHkoEkSW2cbpNbLPI4F) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Ladida](https://open.spotify.com/album/5H10ukTXc6mnzTe7leaQPJ) | 2:11 |
+| 44 | [Champagne ké fraises](https://open.spotify.com/track/0VueZHw6jT3nA1X7df4fCR) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Champagne ké fraises](https://open.spotify.com/album/1EBbcU9zdWhLnziZVSyU4J) | 4:11 |
+| 45 | [Derre](https://open.spotify.com/track/02mGPF4589DiiSdoH0pu1d) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Derre](https://open.spotify.com/album/7dSovHX9P2wh3p8quX7EhL) | 2:36 |
 | 46 | [Sankofa](https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Sankofa](https://open.spotify.com/album/3LWU6KJE2nMfhQNI2pSVCY) | 2:36 |
 | 47 | [Je t’aime n’est pas assez fort](https://open.spotify.com/track/4hkDLIDklIRQiJEHQouKJu) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [L'album du mâle](https://open.spotify.com/album/5m9F4xOwjKxbTx3c1RRwhH) | 3:25 |
 | 48 | [Taj Li Watani](https://open.spotify.com/track/0qkei2mL1oGzIQtPesLCoD) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Taj Li Watani](https://open.spotify.com/album/56draevXcdLxvpUM3arMyo) | 2:46 |

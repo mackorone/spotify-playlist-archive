@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 82055,
+  "num_followers": 82049,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAAC1W6UxfvLmCMR/EOkX/7Ao",
+  "snapshot_id": "aEYkAAAAAADABWtrQ6ZbjVFmNZWTVk6m",
   "tracks": [
     {
       "added_at": null,
@@ -135,6 +135,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sexta-Feira",
+        "url": "https://open.spotify.com/album/6i3rMCP4RC6T1kDIjJhFNj"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 239118,
+      "name": "Sexta-Feira",
+      "url": "https://open.spotify.com/track/2opfAkFHhQCmSZA8bsLy5f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica Paris",
         "url": "https://open.spotify.com/album/1sCto8C5QNFJF3zUZNwxXH"
       },
@@ -171,26 +191,6 @@
       "duration_ms": 420000,
       "name": "Poesia Ac\u00fastica Paris",
       "url": "https://open.spotify.com/track/03fBjLzNCO7PfPfi1qOhxL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sexta-Feira",
-        "url": "https://open.spotify.com/album/6i3rMCP4RC6T1kDIjJhFNj"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 239118,
-      "name": "Sexta-Feira",
-      "url": "https://open.spotify.com/track/2opfAkFHhQCmSZA8bsLy5f"
     },
     {
       "added_at": null,
@@ -667,30 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Minissaia",
-        "url": "https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "Minissaia",
-      "url": "https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00f4-Zaico",
         "url": "https://open.spotify.com/album/5dhlzcGI3mrhm08aDWjWPM"
       },
@@ -711,6 +687,30 @@
       "duration_ms": 158783,
       "name": "M\u00f4-Zaico",
       "url": "https://open.spotify.com/track/2nR85tpgwRpO8ogN5ZfhnD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Minissaia",
+        "url": "https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "Minissaia",
+      "url": "https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo"
     },
     {
       "added_at": null,
@@ -763,26 +763,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oriente Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
+        "name": "Teoria do Ciclo da \u00c1gua",
+        "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
       },
       "artists": [
         {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 275905,
+      "name": "Garota",
+      "url": "https://open.spotify.com/track/6ripdgnZJ8hGfVO6jp5ISV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Um P\u00e9 no Ch\u00e3o, outro no sonho",
+        "url": "https://open.spotify.com/album/1fPCDOkbKP3SiHowx50ZWI"
+      },
+      "artists": [
+        {
+          "name": "AR Baby",
+          "url": "https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K"
+        },
+        {
+          "name": "Fresh Records",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
         },
         {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "GREGO",
-          "url": "https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X"
+          "name": "DuaL021",
+          "url": "https://open.spotify.com/artist/56GWDFupQ5FL0YanKueYCH"
         }
       ],
-      "duration_ms": 250851,
-      "name": "Liberta",
-      "url": "https://open.spotify.com/track/6tsmtDa7CAXIMSwWpXRUGQ"
+      "duration_ms": 158846,
+      "name": "Desencontro",
+      "url": "https://open.spotify.com/track/5LF10fGtxei0RkdAqGGL1Y"
     },
     {
       "added_at": null,
@@ -807,26 +831,6 @@
       "duration_ms": 209298,
       "name": "Esquece de Mim (Rap) - Ao Vivo",
       "url": "https://open.spotify.com/track/4EyYjb6RGev9qvgh2Eld00"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teoria do Ciclo da \u00c1gua",
-        "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 275905,
-      "name": "Garota",
-      "url": "https://open.spotify.com/track/6ripdgnZJ8hGfVO6jp5ISV"
     },
     {
       "added_at": null,
@@ -875,30 +879,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um P\u00e9 no Ch\u00e3o, outro no sonho",
-        "url": "https://open.spotify.com/album/1fPCDOkbKP3SiHowx50ZWI"
+        "name": "Oriente Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
       },
       "artists": [
         {
-          "name": "AR Baby",
-          "url": "https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K"
-        },
-        {
-          "name": "Fresh Records",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
         },
         {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "DuaL021",
-          "url": "https://open.spotify.com/artist/56GWDFupQ5FL0YanKueYCH"
+          "name": "GREGO",
+          "url": "https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X"
         }
       ],
-      "duration_ms": 158846,
-      "name": "Desencontro",
-      "url": "https://open.spotify.com/track/5LF10fGtxei0RkdAqGGL1Y"
+      "duration_ms": 250851,
+      "name": "Liberta",
+      "url": "https://open.spotify.com/track/6tsmtDa7CAXIMSwWpXRUGQ"
     },
     {
       "added_at": null,
@@ -995,6 +995,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ainda \u00c9 Ver\u00e3o",
+        "url": "https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Dalsin",
+          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
+        }
+      ],
+      "duration_ms": 157006,
+      "name": "Por Aqui",
+      "url": "https://open.spotify.com/track/4piSBeJX7t6OOK636pTxnD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Do Caos ao Nirvana",
         "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
       },
@@ -1006,31 +1026,15 @@
         {
           "name": "Paiva Prod",
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "No Cais",
-      "url": "https://open.spotify.com/track/2iFG2rANNj7cbebbhKqAv3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Afetropia",
-        "url": "https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
         }
       ],
-      "duration_ms": 173989,
-      "name": "Dan\u00e7ar Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/0QCO5Qs1Bde7iw8IXlhpXy"
+      "duration_ms": 225000,
+      "name": "F\u00e9",
+      "url": "https://open.spotify.com/track/2cAsgavVid3IoFYfiUgHzi"
     },
     {
       "added_at": null,
@@ -1051,6 +1055,26 @@
       "duration_ms": 177800,
       "name": "Vai Partir",
       "url": "https://open.spotify.com/track/0TU4A9f61vxswsSgxAwnIw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afetropia",
+        "url": "https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 173989,
+      "name": "Dan\u00e7ar Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/0QCO5Qs1Bde7iw8IXlhpXy"
     },
     {
       "added_at": null,
@@ -1084,37 +1108,17 @@
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
         },
         {
           "name": "Pedro Lotto",
           "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
         }
       ],
-      "duration_ms": 225000,
-      "name": "F\u00e9",
-      "url": "https://open.spotify.com/track/2cAsgavVid3IoFYfiUgHzi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ainda \u00c9 Ver\u00e3o",
-        "url": "https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Dalsin",
-          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
-        }
-      ],
-      "duration_ms": 157006,
-      "name": "Por Aqui",
-      "url": "https://open.spotify.com/track/4piSBeJX7t6OOK636pTxnD"
+      "duration_ms": 185454,
+      "name": "Hey Boy",
+      "url": "https://open.spotify.com/track/7opmuePHHDBml8hNvrza4R"
     },
     {
       "added_at": null,
@@ -1135,6 +1139,26 @@
       "duration_ms": 247975,
       "name": "A Culpa \u00c9 das Igrejas / Sinais",
       "url": "https://open.spotify.com/track/5wUkG5QrjYbsCTi0TQmrFp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beira Mar, Pt. 2",
+        "url": "https://open.spotify.com/album/14wWNucRHaBBpeJ2u6DWQ6"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 139124,
+      "name": "Beira Mar, Pt. 2",
+      "url": "https://open.spotify.com/track/3kqWhY8Nf24VuHEog0xIpF"
     },
     {
       "added_at": null,
@@ -1168,37 +1192,13 @@
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "NOG",
-          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         }
       ],
-      "duration_ms": 185454,
-      "name": "Hey Boy",
-      "url": "https://open.spotify.com/track/7opmuePHHDBml8hNvrza4R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beira Mar, Pt. 2",
-        "url": "https://open.spotify.com/album/14wWNucRHaBBpeJ2u6DWQ6"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 139124,
-      "name": "Beira Mar, Pt. 2",
-      "url": "https://open.spotify.com/track/3kqWhY8Nf24VuHEog0xIpF"
+      "duration_ms": 208695,
+      "name": "No Cais",
+      "url": "https://open.spotify.com/track/2iFG2rANNj7cbebbhKqAv3"
     },
     {
       "added_at": null,

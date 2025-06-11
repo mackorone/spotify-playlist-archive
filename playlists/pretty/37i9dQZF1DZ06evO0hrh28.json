@@ -1,12 +1,12 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 244038,
+  "num_followers": 244162,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAAD/bP80ccKqqB2ouVVSODo2",
+  "snapshot_id": "aEYkAAAAAAB7e7npvfXgXFrHwhTQ2Aa6",
   "tracks": [
     {
       "added_at": null,
@@ -943,26 +943,6 @@
       "duration_ms": 196239,
       "name": "No Soy Yo",
       "url": "https://open.spotify.com/track/67OKX8DNYygddabwIjExsp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HISTERIQUEO",
-        "url": "https://open.spotify.com/album/0ajHIug4wUF4TowpnpQoPc"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 205809,
-      "name": "HISTERIQUEO",
-      "url": "https://open.spotify.com/track/3z4y1bSwBoz21QuVqKVnEM"
     }
   ],
   "unique_name": "This Is Emilia",

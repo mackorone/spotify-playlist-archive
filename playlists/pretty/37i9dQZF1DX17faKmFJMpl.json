@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uad6d \ud799\ud569\uc758 \ubfcc\ub9ac, \uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d \ud799\ud569\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: Tiger JK)",
-  "num_followers": 4525,
+  "num_followers": 4528,
   "original_name": "\uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d\ud799\ud569 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -859,6 +859,42 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Fanatic",
+        "url": "https://open.spotify.com/album/63R1PRmdQrDt6EHftX4laO"
+      },
+      "artists": [
+        {
+          "name": "Fana",
+          "url": "https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT"
+        },
+        {
+          "name": "Kebee & The Quiett",
+          "url": "https://open.spotify.com/artist/19FusVEESEp7aIW8ZNORim"
+        }
+      ],
+      "duration_ms": 258506,
+      "name": "Brutal Treatment (Part. 1) [feat. Kebee & The Quiett]",
+      "url": "https://open.spotify.com/track/4HJZszQCz2viSCi0qlHSIR"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Bizzionary",
+        "url": "https://open.spotify.com/album/6iEkOP0oNzQz7yiJNHhoOM"
+      },
+      "artists": [
+        {
+          "name": "Bizzy",
+          "url": "https://open.spotify.com/artist/4w7y9BkDnf9hhjzQH6Br41"
+        }
+      ],
+      "duration_ms": 477231,
+      "name": "Movement 4",
+      "url": "https://open.spotify.com/track/6kXS78PdKrHwpzTnAtKp13"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "More Than Music",
         "url": "https://open.spotify.com/album/0LmooMzTUYiGpGAdesf5Vq"
       },
@@ -907,42 +943,6 @@
       "duration_ms": 333946,
       "name": "Hip Hop For Respect (feat. Verbal Jint, Gaknakunae, TBNY, BILL STAX, Simon Dominic, Garion, Dok2, Sean2Slow, MC Sungchun)",
       "url": "https://open.spotify.com/track/4arB8dvHCT1jlEPfYrAU2N"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Fanatic",
-        "url": "https://open.spotify.com/album/63R1PRmdQrDt6EHftX4laO"
-      },
-      "artists": [
-        {
-          "name": "Fana",
-          "url": "https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT"
-        },
-        {
-          "name": "Kebee & The Quiett",
-          "url": "https://open.spotify.com/artist/19FusVEESEp7aIW8ZNORim"
-        }
-      ],
-      "duration_ms": 258506,
-      "name": "Brutal Treatment (Part. 1) [feat. Kebee & The Quiett]",
-      "url": "https://open.spotify.com/track/4HJZszQCz2viSCi0qlHSIR"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Bizzionary",
-        "url": "https://open.spotify.com/album/6iEkOP0oNzQz7yiJNHhoOM"
-      },
-      "artists": [
-        {
-          "name": "Bizzy",
-          "url": "https://open.spotify.com/artist/4w7y9BkDnf9hhjzQH6Br41"
-        }
-      ],
-      "duration_ms": 477231,
-      "name": "Movement 4",
-      "url": "https://open.spotify.com/track/6kXS78PdKrHwpzTnAtKp13"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1471,30 +1471,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Map of the Human Soul",
-        "url": "https://open.spotify.com/album/0HOb3ypZrAVbuGYLiMhC7z"
+        "name": "Last Days",
+        "url": "https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp"
       },
       "artists": [
         {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
         },
         {
-          "name": "Digiri",
-          "url": "https://open.spotify.com/artist/5AkXQoXgGrx1J1zkiyRATG"
-        },
-        {
-          "name": "yankie",
-          "url": "https://open.spotify.com/artist/6a8KtGpAv3NHL713mcH08a"
-        },
-        {
-          "name": "ILLSON",
-          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
+          "name": "Supreme Team",
+          "url": "https://open.spotify.com/artist/6dHoQP2ONf0e9DMH94Obo7"
         }
       ],
-      "duration_ms": 270933,
-      "name": "Watch Ya Self",
-      "url": "https://open.spotify.com/track/7GA9RRaJrIvmT48a376CHo"
+      "duration_ms": 281160,
+      "name": "Trust Me (Feat. Supreme Team)",
+      "url": "https://open.spotify.com/track/6gXBoDyGqD3e2GzgGFrmqp"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1531,22 +1523,30 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Last Days",
-        "url": "https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp"
+        "name": "Map of the Human Soul",
+        "url": "https://open.spotify.com/album/0HOb3ypZrAVbuGYLiMhC7z"
       },
       "artists": [
         {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
         },
         {
-          "name": "Supreme Team",
-          "url": "https://open.spotify.com/artist/6dHoQP2ONf0e9DMH94Obo7"
+          "name": "Digiri",
+          "url": "https://open.spotify.com/artist/5AkXQoXgGrx1J1zkiyRATG"
+        },
+        {
+          "name": "yankie",
+          "url": "https://open.spotify.com/artist/6a8KtGpAv3NHL713mcH08a"
+        },
+        {
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
         }
       ],
-      "duration_ms": 281160,
-      "name": "Trust Me (Feat. Supreme Team)",
-      "url": "https://open.spotify.com/track/6gXBoDyGqD3e2GzgGFrmqp"
+      "duration_ms": 270933,
+      "name": "Watch Ya Self",
+      "url": "https://open.spotify.com/track/7GA9RRaJrIvmT48a376CHo"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1579,22 +1579,6 @@
       "duration_ms": 227880,
       "name": "\uc5c4\uc9c0\uc190\uac00\ub77d",
       "url": "https://open.spotify.com/track/4dDETFzyd7iCbiev3Ct29J"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Black Swan Songs",
-        "url": "https://open.spotify.com/album/2voi9yJzbucvDooWNM2ro7"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        }
-      ],
-      "duration_ms": 281826,
-      "name": "Lesson 3 (MC)",
-      "url": "https://open.spotify.com/track/19rhATjgisVmI9uwb9hRW4"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1635,6 +1619,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Black Swan Songs",
+        "url": "https://open.spotify.com/album/2voi9yJzbucvDooWNM2ro7"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "duration_ms": 281826,
+      "name": "Lesson 3 (MC)",
+      "url": "https://open.spotify.com/track/19rhATjgisVmI9uwb9hRW4"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/0iId2qa493w4lk0LEWhy35"
       },
@@ -1663,22 +1663,6 @@
       "duration_ms": 194835,
       "name": "\uacf5\uc2dd",
       "url": "https://open.spotify.com/track/2mPFyCcfRj3Iil9DlpaL6p"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Massmediah",
-        "url": "https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb"
-      },
-      "artists": [
-        {
-          "name": "CB MASS",
-          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
-        }
-      ],
-      "duration_ms": 286812,
-      "name": "The Movement II",
-      "url": "https://open.spotify.com/track/3ilwG9iYGH9HecRrT4LgYc"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1719,6 +1703,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Massmediah",
+        "url": "https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb"
+      },
+      "artists": [
+        {
+          "name": "CB MASS",
+          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
+        }
+      ],
+      "duration_ms": 286812,
+      "name": "The Movement II",
+      "url": "https://open.spotify.com/track/3ilwG9iYGH9HecRrT4LgYc"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/0iId2qa493w4lk0LEWhy35"
       },
@@ -1755,22 +1755,6 @@
       "duration_ms": 224373,
       "name": "Die Legend (feat.Double K, DOK2)",
       "url": "https://open.spotify.com/track/6xhSsoBa28s72GbpBi49qJ"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Modern Rhymes XX",
-        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
-      },
-      "artists": [
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        }
-      ],
-      "duration_ms": 222315,
-      "name": "History In The Making - 2021 Remaster",
-      "url": "https://open.spotify.com/track/4wZMRcybEBblgIIwlupPbP"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1819,6 +1803,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Modern Rhymes XX",
+        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
+      },
+      "artists": [
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "duration_ms": 222315,
+      "name": "History In The Making - 2021 Remaster",
+      "url": "https://open.spotify.com/track/4wZMRcybEBblgIIwlupPbP"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/0iId2qa493w4lk0LEWhy35"
       },
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Modern Rhymes XX",
-        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
-      },
-      "artists": [
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        }
-      ],
-      "duration_ms": 239052,
-      "name": "Drama - 2021 Remaster",
-      "url": "https://open.spotify.com/track/6bofFcTR5GBWTx8KszhDGB"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Garion \uac00\ub9ac\uc628",
         "url": "https://open.spotify.com/album/0NAGKYjre0MgNYdUtcBuDp"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 242826,
       "name": "4 Life (Feat. Yuri)",
       "url": "https://open.spotify.com/track/7sFUq6W4gdE4xUwA2bBy0m"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Modern Rhymes XX",
+        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
+      },
+      "artists": [
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "duration_ms": 239052,
+      "name": "Drama - 2021 Remaster",
+      "url": "https://open.spotify.com/track/6bofFcTR5GBWTx8KszhDGB"
     },
     {
       "added_at": "2024-11-20 08:34:55",

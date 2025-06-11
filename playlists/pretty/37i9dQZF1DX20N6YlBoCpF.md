@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Jakkie Louw, Jay, Taye, Ziané Saaymanen meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,800 likes - 101 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,810 likes - 101 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "A taste of today's best bluegrass instrumentals. ",
-  "num_followers": 56915,
+  "num_followers": 56936,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -112,6 +112,22 @@
       },
       "artists": [
         {
+          "name": "Dirk Powell",
+          "url": "https://open.spotify.com/artist/0WLXcCZ84s9zsmIOoJeEwG"
+        }
+      ],
+      "duration_ms": 224186,
+      "name": "Susan's Gone",
+      "url": "https://open.spotify.com/track/6OZLrNbCCtGM596YZJ8deM"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Appalachian Picking Society",
+        "url": "https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg"
+      },
+      "artists": [
+        {
           "name": "Abigail Washburn",
           "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
         },
@@ -147,22 +163,6 @@
       "duration_ms": 311693,
       "name": "Midnight on the Water",
       "url": "https://open.spotify.com/track/6saGatCp8YJ6hXj4AGO2Qc"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Appalachian Picking Society",
-        "url": "https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg"
-      },
-      "artists": [
-        {
-          "name": "Dirk Powell",
-          "url": "https://open.spotify.com/artist/0WLXcCZ84s9zsmIOoJeEwG"
-        }
-      ],
-      "duration_ms": 224186,
-      "name": "Susan's Gone",
-      "url": "https://open.spotify.com/track/6OZLrNbCCtGM596YZJ8deM"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Celebrants",
-        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 184493,
-      "name": "Going Out\u2026",
-      "url": "https://open.spotify.com/track/0Ak9D9HV7XLSrljdrOPtUj"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Songs For The Sparrows",
         "url": "https://open.spotify.com/album/4dRUKAQWlfGK9AlmsJlS78"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 269733,
       "name": "Big Mountain",
       "url": "https://open.spotify.com/track/7AcJDi9pjGHLE1OMiWmLED"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Celebrants",
+        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 184493,
+      "name": "Going Out\u2026",
+      "url": "https://open.spotify.com/track/0Ak9D9HV7XLSrljdrOPtUj"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Lone Soldier",
-        "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
-      },
-      "artists": [
-        {
-          "name": "David Grier",
-          "url": "https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "Smith Chapel",
-      "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Lonesome Whistle",
         "url": "https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 166720,
       "name": "City Of New Orleans - Instrumental",
       "url": "https://open.spotify.com/track/2rrPQlivP17rTDAaRopUsE"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Lone Soldier",
+        "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
+      },
+      "artists": [
+        {
+          "name": "David Grier",
+          "url": "https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "Smith Chapel",
+      "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Decembering",
-        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
-      },
-      "artists": [
-        {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Icebound",
-      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Mandolin Spring",
         "url": "https://open.spotify.com/album/4Ze4CqMrUWIze2m6hJeWK4"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 210597,
       "name": "Mandolin Spring",
       "url": "https://open.spotify.com/track/2P63JDVaKXwLyD5OoDPxrI"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Decembering",
+        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
+      },
+      "artists": [
+        {
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Icebound",
+      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -919,26 +919,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Get Lost",
-        "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Jake Workman",
-          "url": "https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx"
-        }
-      ],
-      "duration_ms": 267954,
-      "name": "Get Lost",
-      "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Americana Master Series: Best Of The Sugar Hill Years",
         "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 281386,
       "name": "Squirrelville",
       "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Get Lost",
+        "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Jake Workman",
+          "url": "https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx"
+        }
+      ],
+      "duration_ms": 267954,
+      "name": "Get Lost",
+      "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Bop Your Head",
-        "url": "https://open.spotify.com/album/420mYWvOmXSapn5DlOawVJ"
-      },
-      "artists": [
-        {
-          "name": "Allen & Bright",
-          "url": "https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y"
-        }
-      ],
-      "duration_ms": 166132,
-      "name": "Bop Your Head",
-      "url": "https://open.spotify.com/track/2XKfkDRJg53T7g9ToPOqv9"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "The American Fiddler",
         "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
       },
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
+        "name": "Bop Your Head",
+        "url": "https://open.spotify.com/album/420mYWvOmXSapn5DlOawVJ"
+      },
+      "artists": [
+        {
+          "name": "Allen & Bright",
+          "url": "https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y"
+        }
+      ],
+      "duration_ms": 166132,
+      "name": "Bop Your Head",
+      "url": "https://open.spotify.com/track/2XKfkDRJg53T7g9ToPOqv9"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
         "name": "Crossing the Junction / Deer River",
         "url": "https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj"
       },
@@ -1047,22 +1047,6 @@
       "duration_ms": 218120,
       "name": "Crossing the Junction / Deer River",
       "url": "https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "58957: The Bluegrass Guitar Collection",
-        "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
-      },
-      "artists": [
-        {
-          "name": "Tony Rice Unit",
-          "url": "https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg"
-        }
-      ],
-      "duration_ms": 156932,
-      "name": "Blackberry Blossom",
-      "url": "https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
+        "name": "58957: The Bluegrass Guitar Collection",
+        "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
       },
       "artists": [
         {
-          "name": "The Grascals",
-          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
+          "name": "Tony Rice Unit",
+          "url": "https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg"
         }
       ],
-      "duration_ms": 233000,
-      "name": "It's A String Thing",
-      "url": "https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15"
+      "duration_ms": 156932,
+      "name": "Blackberry Blossom",
+      "url": "https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1115,6 +1099,22 @@
       "duration_ms": 179140,
       "name": "Graveyard Fields",
       "url": "https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
+      },
+      "artists": [
+        {
+          "name": "The Grascals",
+          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "It's A String Thing",
+      "url": "https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1287,6 +1287,30 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
+        "name": "Now They Are Four",
+        "url": "https://open.spotify.com/album/30YVehEEp82UN9otkEdZhj"
+      },
+      "artists": [
+        {
+          "name": "Dan Crary",
+          "url": "https://open.spotify.com/artist/7MNoJalBLtqKoDbjvjPqt5"
+        },
+        {
+          "name": "Byron Berline",
+          "url": "https://open.spotify.com/artist/6NZD4FCwmNsEIS1CL1Y3io"
+        },
+        {
+          "name": "John Hickman",
+          "url": "https://open.spotify.com/artist/32wFBGZOIY1FRH7ioqKGJD"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Santa Ana",
+      "url": "https://open.spotify.com/track/3TSAh9y768l565Dm9Awod2"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
         "name": "Pretty Kate And The Rabbit",
         "url": "https://open.spotify.com/album/2884fPDAEgQ7scMdBBIzHF"
       },
@@ -1315,26 +1339,26 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Now They Are Four",
-        "url": "https://open.spotify.com/album/30YVehEEp82UN9otkEdZhj"
+        "name": "Crowe River",
+        "url": "https://open.spotify.com/album/7B1ir2STaCkGcMw15M7NMZ"
       },
       "artists": [
         {
-          "name": "Dan Crary",
-          "url": "https://open.spotify.com/artist/7MNoJalBLtqKoDbjvjPqt5"
+          "name": "Lonesome Ace Stringband",
+          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
         },
         {
-          "name": "Byron Berline",
-          "url": "https://open.spotify.com/artist/6NZD4FCwmNsEIS1CL1Y3io"
+          "name": "John Showman",
+          "url": "https://open.spotify.com/artist/7LcJJJFnWyr4LrudLL3fpN"
         },
         {
-          "name": "John Hickman",
-          "url": "https://open.spotify.com/artist/32wFBGZOIY1FRH7ioqKGJD"
+          "name": "Chris Coole",
+          "url": "https://open.spotify.com/artist/6FrFN8PoG2qUy8apsYeN8o"
         }
       ],
-      "duration_ms": 177493,
-      "name": "Santa Ana",
-      "url": "https://open.spotify.com/track/3TSAh9y768l565Dm9Awod2"
+      "duration_ms": 154285,
+      "name": "Crowe River",
+      "url": "https://open.spotify.com/track/6NBmpYvczviLnDzLlluZo0"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1383,46 +1407,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Crowe River",
-        "url": "https://open.spotify.com/album/7B1ir2STaCkGcMw15M7NMZ"
-      },
-      "artists": [
-        {
-          "name": "Lonesome Ace Stringband",
-          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
-        },
-        {
-          "name": "John Showman",
-          "url": "https://open.spotify.com/artist/7LcJJJFnWyr4LrudLL3fpN"
-        },
-        {
-          "name": "Chris Coole",
-          "url": "https://open.spotify.com/artist/6FrFN8PoG2qUy8apsYeN8o"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Crowe River",
-      "url": "https://open.spotify.com/track/6NBmpYvczviLnDzLlluZo0"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Jolly Green",
-        "url": "https://open.spotify.com/album/5lcQTfd8rTpKxQSMR6HozY"
-      },
-      "artists": [
-        {
-          "name": "Malingo",
-          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
-        }
-      ],
-      "duration_ms": 142652,
-      "name": "Jolly Green",
-      "url": "https://open.spotify.com/track/7Mq5PMcUCC6SeEv6CP0jk8"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Runnin' from the Weather",
         "url": "https://open.spotify.com/album/5xXWvwOfvFnvwcgQwZmWEk"
       },
@@ -1443,22 +1427,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "The Drifter",
-        "url": "https://open.spotify.com/album/2sUWx6c0BiEVMPhtCN3awW"
-      },
-      "artists": [
-        {
-          "name": "Danny Roberts",
-          "url": "https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "The Drifter",
-      "url": "https://open.spotify.com/track/7EypAsgFzfyVK13EqjZnDQ"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Concrete and Steel",
         "url": "https://open.spotify.com/album/0T9mLuAz73gyFfAiyEBfCD"
       },
@@ -1471,6 +1439,38 @@
       "duration_ms": 251047,
       "name": "Concrete and Steel",
       "url": "https://open.spotify.com/track/4py2tahEW31c0KfKIZFVE1"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Jolly Green",
+        "url": "https://open.spotify.com/album/5lcQTfd8rTpKxQSMR6HozY"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "duration_ms": 142652,
+      "name": "Jolly Green",
+      "url": "https://open.spotify.com/track/7Mq5PMcUCC6SeEv6CP0jk8"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "The Drifter",
+        "url": "https://open.spotify.com/album/2sUWx6c0BiEVMPhtCN3awW"
+      },
+      "artists": [
+        {
+          "name": "Danny Roberts",
+          "url": "https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "The Drifter",
+      "url": "https://open.spotify.com/track/7EypAsgFzfyVK13EqjZnDQ"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1699,6 +1699,26 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
+        "name": "No Wise Men",
+        "url": "https://open.spotify.com/album/2MTB8w2lEje2L5DVub4hYk"
+      },
+      "artists": [
+        {
+          "name": "Mark Grundhoefer",
+          "url": "https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w"
+        },
+        {
+          "name": "David Brimer",
+          "url": "https://open.spotify.com/artist/668Oojl6P3J0BOUymsWnOh"
+        }
+      ],
+      "duration_ms": 187980,
+      "name": "No Wise Men",
+      "url": "https://open.spotify.com/track/2RjM38LJMAb4GxMthocOXY"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
         "name": "EMD",
         "url": "https://open.spotify.com/album/6EvXb5NjFdjQfLGIPttxcF"
       },
@@ -1735,26 +1755,6 @@
       "duration_ms": 229480,
       "name": "EMD",
       "url": "https://open.spotify.com/track/2VLV2108fW3ZwYIAYpZYHb"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "No Wise Men",
-        "url": "https://open.spotify.com/album/2MTB8w2lEje2L5DVub4hYk"
-      },
-      "artists": [
-        {
-          "name": "Mark Grundhoefer",
-          "url": "https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w"
-        },
-        {
-          "name": "David Brimer",
-          "url": "https://open.spotify.com/artist/668Oojl6P3J0BOUymsWnOh"
-        }
-      ],
-      "duration_ms": 187980,
-      "name": "No Wise Men",
-      "url": "https://open.spotify.com/track/2RjM38LJMAb4GxMthocOXY"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
+        "name": "OKX",
+        "url": "https://open.spotify.com/album/7FOnj5usctKvI2Y6H3Knrb"
+      },
+      "artists": [
+        {
+          "name": "The OK Factor",
+          "url": "https://open.spotify.com/artist/0qPvnnO0TLLOwFRjFZbIlv"
+        }
+      ],
+      "duration_ms": 244111,
+      "name": "Bluegrass Ben",
+      "url": "https://open.spotify.com/track/5tdtneO3Sd5mLyIy7AMScq"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
         "name": "Commencement",
         "url": "https://open.spotify.com/album/1jDsr7E1Nh5SqkLqbHgfV2"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 291276,
       "name": "Commencement",
       "url": "https://open.spotify.com/track/7DhlCi536R0nnOewj8pgUq"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "OKX",
-        "url": "https://open.spotify.com/album/7FOnj5usctKvI2Y6H3Knrb"
-      },
-      "artists": [
-        {
-          "name": "The OK Factor",
-          "url": "https://open.spotify.com/artist/0qPvnnO0TLLOwFRjFZbIlv"
-        }
-      ],
-      "duration_ms": 244111,
-      "name": "Bluegrass Ben",
-      "url": "https://open.spotify.com/track/5tdtneO3Sd5mLyIy7AMScq"
     },
     {
       "added_at": "2025-02-21 05:00:42",

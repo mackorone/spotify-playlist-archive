@@ -758,7 +758,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 178893,
       "name": "Call Me Anything (But Call Me)",
       "url": "https://open.spotify.com/track/5rJJo8AgcYF1FujR33OO52"
@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 163053,
       "name": "Deep Moanin Blues",
       "url": "https://open.spotify.com/track/7HFlwmFEzq3vXL6oJGd3xe"
@@ -3016,7 +3016,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 173493,
       "name": "Oh Papa Blues",
       "url": "https://open.spotify.com/track/7vwa5vpfxwSnNWS82Q09v1"
@@ -3074,6 +3074,24 @@
       "duration_ms": 171180,
       "name": "Rough and Tumble Blues",
       "url": "https://open.spotify.com/track/2rIkHGBexv1XkjgeHlQkre"
+    },
+    {
+      "album": {
+        "name": "Gone Daddy Blues",
+        "url": "https://open.spotify.com/album/4jzOHrTkPyHIAEfL9WeqX7"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172080,
+      "name": "Rough and Tumble Blues",
+      "url": "https://open.spotify.com/track/2DRzhUnErAml6momH6Bork"
     },
     {
       "album": {
@@ -3862,7 +3880,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-18",
+      "date_removed": null,
       "duration_ms": 185481,
       "name": "Those Dogs Of Mine",
       "url": "https://open.spotify.com/track/6rmOlRShKuuce0IiMYqXzC"
@@ -4330,7 +4348,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 177627,
       "name": "Ya Da Do: 2",
       "url": "https://open.spotify.com/track/2rNUgeOGolvvOQTLfy6vSG"

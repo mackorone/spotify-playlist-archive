@@ -1,6 +1,6 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 436367,
+  "num_followers": 436533,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
@@ -611,26 +611,6 @@
     {
       "added_at": "2025-06-06 04:00:30",
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/5AIi8LYYq6kwvUAxZuqUBd"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 165026,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/4dF08DjAjgactxNnsjRod6"
-    },
-    {
-      "added_at": "2025-06-06 04:00:30",
-      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 212878,
       "name": "LADY GAGA",
       "url": "https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR"
+    },
+    {
+      "added_at": "2025-06-06 04:00:30",
+      "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/5AIi8LYYq6kwvUAxZuqUBd"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 165026,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/4dF08DjAjgactxNnsjRod6"
     },
     {
       "added_at": "2025-06-06 04:00:30",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-06-06 04:00:30",
       "album": {
-        "name": "La Rueda De La Fortuna",
-        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "El Paciente",
-      "url": "https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub"
-    },
-    {
-      "added_at": "2025-06-06 04:00:30",
-      "album": {
         "name": "LOS CUADROS",
         "url": "https://open.spotify.com/album/1WIv1NHz49sR2TK9WKBUwz"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 160409,
       "name": "LOS CUADROS",
       "url": "https://open.spotify.com/track/41EOhpn50qvd8iZSKw531W"
+    },
+    {
+      "added_at": "2025-06-06 04:00:30",
+      "album": {
+        "name": "La Rueda De La Fortuna",
+        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "El Paciente",
+      "url": "https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub"
     },
     {
       "added_at": "2025-06-06 04:00:30",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-06-06 04:00:30",
       "album": {
-        "name": "Joven De La Sierra",
-        "url": "https://open.spotify.com/album/7zCozAkwj8Amiq3S85Oi9K"
-      },
-      "artists": [
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        }
-      ],
-      "duration_ms": 196603,
-      "name": "Joven De La Sierra",
-      "url": "https://open.spotify.com/track/1w4VdnKmR1xCs6gdFuZ3kA"
-    },
-    {
-      "added_at": "2025-06-06 04:00:30",
-      "album": {
         "name": "Entre las de 20",
         "url": "https://open.spotify.com/album/0teu3BYgtk8WuPBZWeDVN6"
       },
@@ -1167,34 +1151,38 @@
     {
       "added_at": "2025-06-06 04:00:30",
       "album": {
-        "name": "Martes 13",
-        "url": "https://open.spotify.com/album/4DERREe1IEROc2LTHlJrfq"
+        "name": "Joven De La Sierra",
+        "url": "https://open.spotify.com/album/7zCozAkwj8Amiq3S85Oi9K"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        }
+      ],
+      "duration_ms": 196603,
+      "name": "Joven De La Sierra",
+      "url": "https://open.spotify.com/track/1w4VdnKmR1xCs6gdFuZ3kA"
+    },
+    {
+      "added_at": "2025-06-06 04:00:30",
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
       "artists": [
         {
           "name": "Luis R Conriquez",
           "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 163341,
-      "name": "Martes 13",
-      "url": "https://open.spotify.com/track/3E9uSlxdkqijIBCu2rYQBj"
-    },
-    {
-      "added_at": "2025-06-06 04:00:30",
-      "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/0vCLnUAU6odhQC7c5zla9O"
-      },
-      "artists": [
+        },
         {
-          "name": "Kane Rodriguez",
-          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 175271,
-      "name": "Se Volvieron Locos",
-      "url": "https://open.spotify.com/track/0elyegsqzW6UHenMeIJiOR"
+      "duration_ms": 179450,
+      "name": "La 701",
+      "url": "https://open.spotify.com/track/7hOjsjkiAxFRHNUlLJSO1i"
     },
     {
       "added_at": "2025-06-06 04:00:30",
@@ -1215,6 +1203,22 @@
       "duration_ms": 160897,
       "name": "El Rescate",
       "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
+    },
+    {
+      "added_at": "2025-06-06 04:00:30",
+      "album": {
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/0vCLnUAU6odhQC7c5zla9O"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        }
+      ],
+      "duration_ms": 175271,
+      "name": "Se Volvieron Locos",
+      "url": "https://open.spotify.com/track/0elyegsqzW6UHenMeIJiOR"
     },
     {
       "added_at": "2025-06-06 04:00:30",
@@ -1447,22 +1451,6 @@
     {
       "added_at": "2025-06-06 04:00:30",
       "album": {
-        "name": "DIOS POR DELANTE",
-        "url": "https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 214473,
-      "name": "DIOS POR DELANTE",
-      "url": "https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr"
-    },
-    {
-      "added_at": "2025-06-06 04:00:30",
-      "album": {
         "name": "Si Lo Digo Es Porque Puedo",
         "url": "https://open.spotify.com/album/36T7295UHRjUmh2HxKNkDR"
       },
@@ -1475,6 +1463,22 @@
       "duration_ms": 172297,
       "name": "Gente De Accionar",
       "url": "https://open.spotify.com/track/3ZpajXo0KgjHw5WSMMIDfy"
+    },
+    {
+      "added_at": "2025-06-06 04:00:30",
+      "album": {
+        "name": "DIOS POR DELANTE",
+        "url": "https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 214473,
+      "name": "DIOS POR DELANTE",
+      "url": "https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr"
     },
     {
       "added_at": "2025-06-06 04:00:30",
@@ -1551,22 +1555,6 @@
     {
       "added_at": "2025-06-06 04:00:30",
       "album": {
-        "name": "Prueba De Fuego",
-        "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 231855,
-      "name": "Prueba De Fuego",
-      "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
-    },
-    {
-      "added_at": "2025-06-06 04:00:30",
-      "album": {
         "name": "Proyecto X",
         "url": "https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs"
       },
@@ -1603,6 +1591,22 @@
       "duration_ms": 177023,
       "name": "Anda Bien el Nene",
       "url": "https://open.spotify.com/track/5rAnfPGKZGyRBzI5kcAaqB"
+    },
+    {
+      "added_at": "2025-06-06 04:00:30",
+      "album": {
+        "name": "Prueba De Fuego",
+        "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 231855,
+      "name": "Prueba De Fuego",
+      "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
     },
     {
       "added_at": "2025-06-06 04:00:30",
@@ -1719,22 +1723,6 @@
     {
       "added_at": "2025-06-06 04:00:30",
       "album": {
-        "name": "Recordando Ariel Camacho (Live)",
-        "url": "https://open.spotify.com/album/68m4BXWynI34UtRpglzFcq"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "El Karma - Live",
-      "url": "https://open.spotify.com/track/5bUOyzMveALWJtMzGOSrBv"
-    },
-    {
-      "added_at": "2025-06-06 04:00:30",
-      "album": {
         "name": "Sin Miedo (En Vivo)",
         "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
       },
@@ -1771,18 +1759,18 @@
     {
       "added_at": "2025-06-06 04:00:30",
       "album": {
-        "name": "Daytona",
-        "url": "https://open.spotify.com/album/03NuIj4ZTS7DAoUf1smCS2"
+        "name": "Recordando Ariel Camacho (Live)",
+        "url": "https://open.spotify.com/album/68m4BXWynI34UtRpglzFcq"
       },
       "artists": [
         {
-          "name": "R\u00e9gulo Molina",
-          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 208524,
-      "name": "Daytona",
-      "url": "https://open.spotify.com/track/1aOpfe9bFkKY175YQmNOjf"
+      "duration_ms": 178666,
+      "name": "El Karma - Live",
+      "url": "https://open.spotify.com/track/5bUOyzMveALWJtMzGOSrBv"
     },
     {
       "added_at": "2025-06-06 04:00:30",
@@ -1799,6 +1787,22 @@
       "duration_ms": 244219,
       "name": "Empat\u00eda",
       "url": "https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh"
+    },
+    {
+      "added_at": "2025-06-06 04:00:30",
+      "album": {
+        "name": "Daytona",
+        "url": "https://open.spotify.com/album/03NuIj4ZTS7DAoUf1smCS2"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Molina",
+          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
+        }
+      ],
+      "duration_ms": 208524,
+      "name": "Daytona",
+      "url": "https://open.spotify.com/track/1aOpfe9bFkKY175YQmNOjf"
     },
     {
       "added_at": "2025-06-06 04:00:30",

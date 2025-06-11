@@ -1,12 +1,12 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 3783,
+  "num_followers": 3784,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAAAZrkHDmivIhy61PBX+5AcW",
+  "snapshot_id": "aEYkAAAAAACvB520oSw3zJhfPhOIftVp",
   "tracks": [
     {
       "added_at": null,
@@ -103,26 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lucius",
-        "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Impressions (feat. Madison Cunningham)",
-      "url": "https://open.spotify.com/track/62DqRTSOIbyIF0AzWDMguj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cunningham Bird",
         "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
       },
@@ -167,6 +147,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lucius",
+        "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "Impressions (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/62DqRTSOIbyIF0AzWDMguj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Billboard Heart",
         "url": "https://open.spotify.com/album/7n8ZhTHwFTpKF5u584a53t"
       },
@@ -187,26 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Departures",
-        "url": "https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj"
-      },
-      "artists": [
-        {
-          "name": "Jon Foreman",
-          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 253213,
-      "name": "Side By Side",
-      "url": "https://open.spotify.com/track/2BtUkMC928pz4Yqz27ZQo9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cunningham Bird",
         "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 252960,
       "name": "Without A Leg To Stand On",
       "url": "https://open.spotify.com/track/4CDF9sHXsSNSNUGOgvFI3f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Departures",
+        "url": "https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj"
+      },
+      "artists": [
+        {
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 253213,
+      "name": "Side By Side",
+      "url": "https://open.spotify.com/track/2BtUkMC928pz4Yqz27ZQo9"
     },
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "Pin It Down",
-      "url": "https://open.spotify.com/track/4G0cKJupBY79cAoYDihZwI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cunningham Bird",
         "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 139346,
       "name": "Stephanie",
       "url": "https://open.spotify.com/track/4G1idx6dUpoZCQBWRG8VbY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 246573,
+      "name": "Pin It Down",
+      "url": "https://open.spotify.com/track/4G0cKJupBY79cAoYDihZwI"
     },
     {
       "added_at": null,
@@ -331,26 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neighbor Song (ft. Madison Cunningham)",
-        "url": "https://open.spotify.com/album/1gWFh2G3METlCAbzhfaIzs"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 220230,
-      "name": "Neighbor Song [Feat. Madison Cunningham]",
-      "url": "https://open.spotify.com/track/5t6reWfzf0aOeMgVijYRGS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cunningham Bird",
         "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 214946,
       "name": "Long Distance Winner",
       "url": "https://open.spotify.com/track/0gpNdUkaWwi7SySXljnjd5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neighbor Song (ft. Madison Cunningham)",
+        "url": "https://open.spotify.com/album/1gWFh2G3METlCAbzhfaIzs"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 220230,
+      "name": "Neighbor Song [Feat. Madison Cunningham]",
+      "url": "https://open.spotify.com/track/5t6reWfzf0aOeMgVijYRGS"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "Anywhere",
-      "url": "https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cunningham Bird",
         "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 283106,
       "name": "Crystal",
       "url": "https://open.spotify.com/track/2H3gBsloNdjGWlnct8GR1d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 306783,
-      "name": "All I\u2019ve Ever Known",
-      "url": "https://open.spotify.com/track/3asrVoL2yOlr6LSAamJ94L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cunningham Bird",
         "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 203373,
       "name": "Don\u2019t Let Me Down Again",
       "url": "https://open.spotify.com/track/7rEeIaUe3cqW8lkVThboZc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 306783,
+      "name": "All I\u2019ve Ever Known",
+      "url": "https://open.spotify.com/track/3asrVoL2yOlr6LSAamJ94L"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 197972,
-      "name": "Who Are You Now",
-      "url": "https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broken Harvest",
         "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
       },
@@ -591,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 197972,
+      "name": "Who Are You Now",
+      "url": "https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Who Are You Now",
         "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
@@ -603,6 +603,26 @@
       "duration_ms": 228013,
       "name": "L.A. (Looking Alive)",
       "url": "https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ups & Downs",
+        "url": "https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD"
+      },
+      "artists": [
+        {
+          "name": "Scary Pockets",
+          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 202895,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4"
     },
     {
       "added_at": null,
@@ -639,26 +659,6 @@
       "duration_ms": 262934,
       "name": "In From Japan",
       "url": "https://open.spotify.com/track/3nL4XPPA0k2BCfaAxoUiZw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ups & Downs",
-        "url": "https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD"
-      },
-      "artists": [
-        {
-          "name": "Scary Pockets",
-          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 202895,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4"
     },
     {
       "added_at": null,

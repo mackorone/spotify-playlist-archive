@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Rock never dies\. Cover: Turnstile
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,494,207 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,492,829 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I CARE](https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:53 |
 | 2 | [Surreal](https://open.spotify.com/track/4bzbaBvahwx1R0jyh5TO8U) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Anomaly III](https://open.spotify.com/album/6XSVU6wzxcUCroWOniqA97) | 4:47 |
-| 3 | [Apologies](https://open.spotify.com/track/3iTgpxcDmPDMw0n9IJYG3S) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Apologies](https://open.spotify.com/album/2OXvqcP3PvhUs9PTd39AkY) | 3:06 |
-| 4 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 |
-| 5 | [Piranha](https://open.spotify.com/track/3CsNQEi0aX88xnSVkWUH3i) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Piranha](https://open.spotify.com/album/4VEd0SDgR3oRQZHz8fgCa4) | 2:48 |
-| 6 | [Paws](https://open.spotify.com/track/73bLtrWnmMu15zgkwgxIft) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Paws](https://open.spotify.com/album/2WTsBo00ik6uknNsm09K9v) | 4:19 |
-| 7 | [Sinking Feeling](https://open.spotify.com/track/3lTj6VhUedrKhpCsw5Rnbb) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Sinking Feeling](https://open.spotify.com/album/1BfIqHOVWRBcqzUUc4jIey) | 3:47 |
-| 8 | [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 |
-| 9 | [Wake Me Up](https://open.spotify.com/track/1tenXdRDmbXA1spfbDSxmc) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [21st Century Fiction](https://open.spotify.com/album/6PXuxQUn7Ar2AKt2BSseX2) | 5:20 |
-| 10 | [Hell You Call A Dream](https://open.spotify.com/track/03A89GAR9MPybXei4sZiYh) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 2:56 |
-| 11 | [Godspeed](https://open.spotify.com/track/4gk0U9MIugzdLRvB9N5BFj) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Outrun You All](https://open.spotify.com/album/3dy3BgU0SuF4YyHSCmQoYc) | 3:14 |
-| 12 | [All My Friends](https://open.spotify.com/track/2wdqcce0DKklq4aSD8zADU) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Big Ole Album Vol\. 1](https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg) | 3:01 |
+| 3 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 |
+| 4 | [Piranha](https://open.spotify.com/track/3CsNQEi0aX88xnSVkWUH3i) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Piranha](https://open.spotify.com/album/4VEd0SDgR3oRQZHz8fgCa4) | 2:48 |
+| 5 | [Paws](https://open.spotify.com/track/73bLtrWnmMu15zgkwgxIft) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Paws](https://open.spotify.com/album/2WTsBo00ik6uknNsm09K9v) | 4:19 |
+| 6 | [Sinking Feeling](https://open.spotify.com/track/3lTj6VhUedrKhpCsw5Rnbb) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Sinking Feeling](https://open.spotify.com/album/1BfIqHOVWRBcqzUUc4jIey) | 3:47 |
+| 7 | [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 |
+| 8 | [Wake Me Up](https://open.spotify.com/track/1tenXdRDmbXA1spfbDSxmc) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [21st Century Fiction](https://open.spotify.com/album/6PXuxQUn7Ar2AKt2BSseX2) | 5:20 |
+| 9 | [Hell You Call A Dream](https://open.spotify.com/track/03A89GAR9MPybXei4sZiYh) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 2:56 |
+| 10 | [Godspeed](https://open.spotify.com/track/4gk0U9MIugzdLRvB9N5BFj) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Outrun You All](https://open.spotify.com/album/3dy3BgU0SuF4YyHSCmQoYc) | 3:14 |
+| 11 | [All My Friends](https://open.spotify.com/track/2wdqcce0DKklq4aSD8zADU) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Big Ole Album Vol\. 1](https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg) | 3:01 |
+| 12 | [Apologies](https://open.spotify.com/track/3iTgpxcDmPDMw0n9IJYG3S) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Apologies](https://open.spotify.com/album/2OXvqcP3PvhUs9PTd39AkY) | 3:06 |
 | 13 | [Flowers & Dirt](https://open.spotify.com/track/0mnUcuIMHiKQyHkkNNeKRr) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Flowers & Dirt](https://open.spotify.com/album/6dwzFHYwgGP9vL9Aod6U8P) | 2:07 |
 | 14 | [Figure It Out](https://open.spotify.com/track/4LJ9rJfTgp1L2HS37wkPhx) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Figure It Out](https://open.spotify.com/album/6aj0THdfoTZmLqFOeN2bQy) | 3:09 |
 | 15 | [Stare At The Void](https://open.spotify.com/track/6hMfBQep2z22t7jKxY9sEF) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Stare At The Void](https://open.spotify.com/album/7MsTZUHYSSRsjLT7TX5ljY) | 3:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 74 | [Lost In Time](https://open.spotify.com/track/6RxAiQGhBC9mZhWQEXJn6M) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [GET BENT!](https://open.spotify.com/album/3GGarrspHOxKZ9TCrOzq4t) | 2:52 |
 | 75 | [SMOKE BREAK](https://open.spotify.com/track/5jOXjkSWyN5QZdZE5hg0xP) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [LETHAL](https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4) | 1:53 |
 
-Snapshot ID: `aEJnyQAAAADuuAjPZaVQryjuojeKcx+g`
+Snapshot ID: `aEhFYAAAAAA3yT/0y1TzT2rKUl5eplth`

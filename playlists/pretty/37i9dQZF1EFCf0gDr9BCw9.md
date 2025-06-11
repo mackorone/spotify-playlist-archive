@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 618 likes - 149 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 617 likes - 149 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 133 | [Blue Heart](https://open.spotify.com/track/7qUp2TX0RDdOTqamY0IauJ) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 4:38 |
 | 134 | [Bugle Breaks](https://open.spotify.com/track/722g3b31Fn8GzSQ68WJlbR) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Les Plus Grands Orchestres de la Liberation](https://open.spotify.com/album/4TvT04s52uey1cRszFZHOq) | 2:53 |
 | 135 | [Flame Indigo](https://open.spotify.com/track/6CeZy1DpklSJtAiDLJDRUs) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 4:34 |
-| 136 | [Feet On The Beat](https://open.spotify.com/track/3XBAY99bnSNts24sAPWHMA) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 3:36 |
-| 137 | [Portrait of a Silk Thread](https://open.spotify.com/track/1ZgsLi4iqANiYLTRxevUmv) | [Lennart Aberg](https://open.spotify.com/artist/3ZXO6RQeKC6PYzXqi7xe41), [Swedish Radio Jazz Group](https://open.spotify.com/artist/4RbQ3ndXO1lnERpNEAIXvx) | [A Swedish Tribute to Duke](https://open.spotify.com/album/3Omjs5bBjpbgzCDK8v44e0) | 4:43 |
+| 136 | [Portrait of a Silk Thread](https://open.spotify.com/track/1ZgsLi4iqANiYLTRxevUmv) | [Lennart Aberg](https://open.spotify.com/artist/3ZXO6RQeKC6PYzXqi7xe41), [Swedish Radio Jazz Group](https://open.spotify.com/artist/4RbQ3ndXO1lnERpNEAIXvx) | [A Swedish Tribute to Duke](https://open.spotify.com/album/3Omjs5bBjpbgzCDK8v44e0) | 4:43 |
+| 137 | [Feet On The Beat](https://open.spotify.com/track/3XBAY99bnSNts24sAPWHMA) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 3:36 |
 | 138 | [Tiffany](https://open.spotify.com/track/35WGvwOw4Be7RGXna1IvCJ) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 4:35 |
 | 139 | [Lozit](https://open.spotify.com/track/4xBCIDH136EpQCzmbQqN1k) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 3:20 |
 | 140 | [Blue House](https://open.spotify.com/track/7pDvQGCUCIuUj9H4dxzQ1q) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Something To Live For: The Music of Billy Strayhorn](https://open.spotify.com/album/49zze2JVgBNviHLK21YYON) | 4:20 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 148 | [Matumbe](https://open.spotify.com/track/06GVigj1ayGxXAdVxw3vDv) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Only God Can Make a Tree](https://open.spotify.com/album/7L6HoS1DoiQucal8O2RBQD) | 4:02 |
 | 149 | [Prima Bara Dubla](https://open.spotify.com/track/5p1fIuJvkzF7Rhdry4IuuT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [INTEGRAL DUKE ELLINGTON 1958 \- 1959](https://open.spotify.com/album/7hTH7xLVl2iNM00iY3E64J) | 5:41 |
 
-Snapshot ID: `AbztXgAAAAAJ/Yc5nJ+pFkcBQyaDaffR`
+Snapshot ID: `Abzy6gAAAAATcTblxU2v/KsBzeYewVP3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Sudan Archives
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336,647 likes - 117 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,639 likes - 117 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا 🤩 الغلاف: نبيل
+> أحدث الأغاني المصرية هنا 🤩 الغلاف: مصطفى حجاج & إسلام كابونجا
 
-1,480 songs - 3 day 10 hr 44 min
+1,481 songs - 3 day 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1299,7 +1299,7 @@
 | [كإنك مسكن](https://open.spotify.com/track/0N951bbetOixebVN6fUnyi) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [كإنك مسكن](https://open.spotify.com/album/2ukwdLszuyImuImHrpfyQW) | 4:19 | 2024-11-29 | 2025-02-28 |
 | [كارفوم بكايته \- لو القديم راحت عليه يبقي الجديد يرقص بالية](https://open.spotify.com/track/2hitrJSVqSNeIsamCOVdUw) | [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI) | [كارفوم بكايته \(لو القديم راحت عليه يبقي الجديد يرقص بالية\)](https://open.spotify.com/album/2yGwhZrfPsVoIG0qyTHoux) | 2:16 | 2023-05-05 | 2023-06-21 |
 | [كان ليا حبايب](https://open.spotify.com/track/6tQtyN6rNdsfjRNEC6bSNM) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [كان ليا حبايب](https://open.spotify.com/album/2rUngNOWjttCruLwgnEHUp) | 4:18 | 2023-02-16 | 2023-04-06 |
-| [كان ليا صاحبة](https://open.spotify.com/track/4m5Crsrtssvr1IIcUlKmoh) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW) | [كان ليا صاحبة](https://open.spotify.com/album/0Rk5jviqJwC1I0srdIIzuS) | 4:14 | 2025-04-24 |  |
+| [كان ليا صاحبة](https://open.spotify.com/track/4m5Crsrtssvr1IIcUlKmoh) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW) | [كان ليا صاحبة](https://open.spotify.com/album/0Rk5jviqJwC1I0srdIIzuS) | 4:14 | 2025-04-24 | 2025-06-11 |
 | [كان ياما كان](https://open.spotify.com/track/0U7LKLwPwAoRK5vF6CxY9I) | [Ahmed Ehab](https://open.spotify.com/artist/3P9Etdmy2JoRlvlelYxZVl) | [كان ياما كان](https://open.spotify.com/album/0HqJNj4BLxv28jhxZud7m0) | 3:33 | 2024-03-08 | 2024-06-12 |
 | [كانت بتسهر](https://open.spotify.com/track/6i2yw9dhF9GPevIJxD3ewR) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [كانت بتسهر](https://open.spotify.com/album/33Rdd2BXryUUBUrrcAcJMY) | 3:30 | 2022-03-11 | 2022-07-08 |
 | [كتاكيت](https://open.spotify.com/track/3jteVEmOXFUyWJ651mhgyc) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw), [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [G\. Oka](https://open.spotify.com/artist/6EZ1sLlOJzgFJzfWUnF0Py) | [كتاكيت](https://open.spotify.com/album/7ClhEA7NvStla8CQiHB6nN) | 2:46 | 2024-04-10 | 2024-06-01 |
@@ -1438,6 +1438,7 @@
 | [وجع القلب](https://open.spotify.com/track/0FZ5oLIe8RJYYheKPnmdu2) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [وجع القلب](https://open.spotify.com/album/5LM0TAyvuFOorgqktkRVEx) | 3:16 | 2022-11-17 | 2023-01-27 |
 | [ورق رسايلك](https://open.spotify.com/track/2ia4akE9lf4BPQdG4b88sL) | [Ahmed Ehab](https://open.spotify.com/artist/3P9Etdmy2JoRlvlelYxZVl) | [ورق رسايلك](https://open.spotify.com/album/7m3abyAEppsKvsi3t70RpR) | 2:22 | 2024-11-07 | 2024-12-20 |
 | [وسط الوشوش \- تتر مسلسل بنون](https://open.spotify.com/track/6jVUA2W2YcGnTJsV2YGajs) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [وسط الوشوش \(تتر مسلسل بنون\)](https://open.spotify.com/album/7u6D1jal2Oi5UeF8qWPlTx) | 4:29 | 2023-06-08 | 2023-07-19 |
+| [وضع الطيران](https://open.spotify.com/track/4pSLabzQFsVrrPfIXU9VG0) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52), [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [وضع الطيران](https://open.spotify.com/album/76l8XYZOoK6cPCJR3BcWMw) | 3:56 | 2025-06-10 |  |
 | [وقت الفراق](https://open.spotify.com/track/0oikCaTV3ZMxWUTxDeF3HC) | [Wazeer](https://open.spotify.com/artist/44uG5qaf4POeVrqI6anrr4) | [وقت الفراق](https://open.spotify.com/album/1EbaIOOBWGwbArlafQPqqH) | 3:10 | 2025-05-08 |  |
 | [وقعتك سودا](https://open.spotify.com/track/2qA2a5EAavlBPNk1fJosmE) | [Ali Kakooli](https://open.spotify.com/artist/44Hq31Jx9di0TFPsmU6et9) | [وقعتك سودا](https://open.spotify.com/album/2IpKiLIfKgjuQcf0Eisr7K) | 3:32 | 2024-07-03 | 2024-08-30 |
 | [ولا بفتكرك](https://open.spotify.com/track/6dex9ihJIiC7DtAdQTx29Y) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [ولا بفتكرك](https://open.spotify.com/album/6w5uI5QrXLlUPE30QhRX30) | 3:48 | 2024-12-06 | 2025-02-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,684 likes - 43 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,763 likes - 44 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,5 +51,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 41 | [Paraíso Que Me Cerca](https://open.spotify.com/track/3uv5o7hM6piPkA20ZhWQQ2) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Cidade do Pecado](https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn) | 3:37 |
 | 42 | [O Próximo Nascer do Sol](https://open.spotify.com/track/47PieBHqNxpbLZqsDAUCI4) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 3:06 |
 | 43 | [Vivos](https://open.spotify.com/track/10jI01n8w6g41qiIMAcAkb) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 4:09 |
+| 44 | [Almas](https://open.spotify.com/track/1l2T5EJk8djGStVNwsltCo) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k), [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq) | [Antes dos Gigantes Chegarem, Vol\. 2](https://open.spotify.com/album/5Dz9KqHWRNlLHrWpEXcWoc) | 3:47 |
 
-Snapshot ID: `aETSgAAAAADgAv7q04oPPU+L2k/mD+Fq`
+Snapshot ID: `aEYkAAAAAACXGoj23QtJ5ZbNv6XbSdAm`

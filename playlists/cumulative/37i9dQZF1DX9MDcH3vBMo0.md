@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-821 songs - 1 day 11 hr 40 min
+824 songs - 1 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Avignon](https://open.spotify.com/track/5TAVI2qJFJMSsfR3qB5Bub) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Avignon](https://open.spotify.com/album/6y7OWImxz4xSyspxzKsLvl) | 2:43 | 2023-09-11 |  |
 | [Aún Te Veo](https://open.spotify.com/track/3fB2azt4qGQTs2KbSsEmjH) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Aún Te Veo](https://open.spotify.com/album/5ZG2B564RbdcYWLEjheU77) | 2:30 | 2024-07-29 |  |
 | [Ática](https://open.spotify.com/track/07g8nWc95mnGgPfRlRq075) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Ática](https://open.spotify.com/album/2UEDt340ibuHflO6Hd2ZEs) | 2:29 | 2022-04-21 | 2023-10-03 |
-| [Back Together](https://open.spotify.com/track/6t4dYNa9xTzWYHpFZmfC7U) | [Samuel Kees](https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn) | [Back Together](https://open.spotify.com/album/7aHIJMNdGIzqyNVowCJH52) | 2:48 | 2025-06-04 |  |
+| [Back Together](https://open.spotify.com/track/6t4dYNa9xTzWYHpFZmfC7U) | [Samuel Kees](https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn) | [Back Together](https://open.spotify.com/album/7aHIJMNdGIzqyNVowCJH52) | 2:48 | 2025-06-04 | 2025-06-11 |
 | [Balett](https://open.spotify.com/track/5akA0ZrfTGKwyjtHc4fr0p) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Papillon](https://open.spotify.com/album/4efBGcJ0YfvTrZvvKFEJj6) | 4:38 | 2022-04-21 | 2022-07-20 |
 | [Ballerina Light](https://open.spotify.com/track/5Eq3qZckwqaLZq2yEsUAvU) | [Ingemar Aberg](https://open.spotify.com/artist/7qA4SXXE0nQFNPN2qLmT4H) | [Ballerina Light](https://open.spotify.com/album/1E1NYgXEpG8vZWzJl7Y3Mh) | 2:41 | 2022-04-21 | 2022-09-24 |
 | [Beauty Of You](https://open.spotify.com/track/6zkZvCIEpgUUgCz7qSK3Nc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Beauty Of You](https://open.spotify.com/album/0Od2qq1KiShZ1Px1Rkka3x) | 2:16 | 2022-04-21 | 2023-05-04 |
@@ -77,6 +77,7 @@
 | [Bienveillant](https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73) | [Edie Chastain](https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk) | [Bienveillant](https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr) | 1:57 | 2022-04-21 | 2023-01-21 |
 | [Big Sur](https://open.spotify.com/track/3biK7UciGCvvdSodatIrD1) | [Marisa Madsen](https://open.spotify.com/artist/6vdBFtunfJQ1TWNrUdTxMF) | [Big Sur](https://open.spotify.com/album/0BODazxjB45xhwVjPYv0hf) | 2:38 | 2022-04-21 | 2024-04-10 |
 | [Bisous](https://open.spotify.com/track/7JbggX922kddEmCuDiPWP2) | [Pauline Blanchet](https://open.spotify.com/artist/2YzRF5Z1h7dL8Hq1BmE9Q2) | [Bisous](https://open.spotify.com/album/0I4JXUV2ck18CJ5RoX090x) | 2:07 | 2022-04-21 | 2022-09-24 |
+| [Bittersweet](https://open.spotify.com/track/0bxzyjTOBLWowRUOltf6Ld) | [Purple Kees](https://open.spotify.com/artist/1DJk5phajqhPpEq84bJzjz) | [Bittersweet](https://open.spotify.com/album/7KuautUZm0ZeL7LmAxuQfZ) | 2:58 | 2025-06-10 |  |
 | [Blessed with a fire](https://open.spotify.com/track/1CjqK7of4R5W0lrUjjfRdx) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Blessed with a fire](https://open.spotify.com/album/4OkclVD647nRAOSsgOzxKr) | 2:06 | 2023-07-10 | 2025-05-31 |
 | [Blessing In Disguise](https://open.spotify.com/track/1oxgOieE4U81VQM8Fd0B4W) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Always Sometimes](https://open.spotify.com/album/6MZFw7yJqWz9fOdoGSOvL8) | 2:32 | 2022-04-21 | 2024-04-04 |
 | [Blossom](https://open.spotify.com/track/10pCEITWkgRHhTAuCtvMWK) | [Ricki Westberg](https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4) | [Blossom](https://open.spotify.com/album/46h9YpSwtk2AIq2ICk0Fsb) | 2:16 | 2022-04-21 | 2022-09-24 |
@@ -296,6 +297,7 @@
 | [Humbly](https://open.spotify.com/track/6MeOCVIU94xMVgr1kTMKRT) | [Gail Singleton](https://open.spotify.com/artist/1VA9HBofA9Pc9Q3DSR4gQw) | [Humbly](https://open.spotify.com/album/7r8ESgCgTKTuJRjAUo7F1I) | 2:12 | 2022-04-21 | 2024-02-14 |
 | [Hymne d'été](https://open.spotify.com/track/1BMXuo67CPYuccFQO0r0v9) | [Gael Motif](https://open.spotify.com/artist/5Cekx8y4a1ldk7upl3DTe3) | [Hymne d'été](https://open.spotify.com/album/5BqIJ93b8hXkeVY2LMPj1G) | 2:14 | 2022-04-21 | 2024-02-03 |
 | [Høstsol](https://open.spotify.com/track/4WSd5HfPN9mlJl4lSzoXw4) | [Eline Neteland](https://open.spotify.com/artist/4EXNBWhy685Yit4VemEbR6) | [Høstsol](https://open.spotify.com/album/17kenhwkiIX1zmroBRnfdH) | 2:09 | 2022-04-21 | 2023-08-31 |
+| [I Dreamed of You](https://open.spotify.com/track/3q5PzPbD5IDrAd3GYmyXvY) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [I Dreamed of You](https://open.spotify.com/album/6TCwLDqzhLtvdl57BZzH1C) | 2:42 | 2025-06-10 |  |
 | [I found you](https://open.spotify.com/track/53LdGm0FF9hIH4GY1aytqr) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [I found you](https://open.spotify.com/album/46AgYDtzsWu8eczwGknUBW) | 2:17 | 2022-07-20 | 2024-02-03 |
 | [I Know Him](https://open.spotify.com/track/4CeTYj1jcn4wVhh7HOHfeM) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [I Know Him](https://open.spotify.com/album/54o66y7C616cYs13urOgYx) | 2:37 | 2022-04-21 | 2023-06-20 |
 | [I Know You](https://open.spotify.com/track/5QCQvHat9B9VgaENda7gbs) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [I Know You](https://open.spotify.com/album/2mSXKlafDrp0KUqJ3UkN4x) | 2:51 | 2025-01-07 |  |
@@ -383,6 +385,7 @@
 | [Lifted By Clouds](https://open.spotify.com/track/15JMopPB5eYcCX1zOj6cvh) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Lifted By Clouds](https://open.spotify.com/album/0VJFceOr20drAByLH6lOcd) | 2:07 | 2023-02-20 |  |
 | [Lifted By Clouds](https://open.spotify.com/track/5EGuIIQNERZqGKEUbynsqu) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Otherworldly](https://open.spotify.com/album/4firwTZqPeb61lvSPqDdx3) | 2:07 | 2023-02-27 | 2024-04-19 |
 | [Lifting](https://open.spotify.com/track/2AjAdJGA7cdxtJwmTzWhqf) | [Reynard Hodges](https://open.spotify.com/artist/39urE2pQBG55PwXRDOQwEC) | [Lifting](https://open.spotify.com/album/36juNVp8q5LH5MVkBLabUk) | 2:41 | 2022-04-21 | 2022-09-24 |
+| [Light](https://open.spotify.com/track/4XOrreh4CufJwuUg3p7DuR) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Light](https://open.spotify.com/album/67fKGoAizybPTMM2l27bpP) | 2:47 | 2025-06-10 |  |
 | [Light Heart](https://open.spotify.com/track/1PVN8pKYgISfY2sA58ahFG) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Light Heart](https://open.spotify.com/album/5dJiU63FHF3Icb7UPuwtH9) | 1:59 | 2022-04-21 | 2022-07-21 |
 | [Light of wintertime](https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Light of wintertime](https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD) | 2:11 | 2023-07-03 |  |
 | [Light through a Willow's Leaves](https://open.spotify.com/track/1L5ABoW0UZyVWk7ZbXDokA) | [Qunfan Wen](https://open.spotify.com/artist/2qhWWY7F1cPThO3UfSJVcm) | [Light through a Willow's Leaves](https://open.spotify.com/album/4ERDVnEd0b6ul3FjS1FNB4) | 1:52 | 2022-04-21 | 2023-07-25 |
@@ -581,7 +584,7 @@
 | [Ruiseñor](https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Khione](https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51) | 2:59 | 2023-01-20 | 2025-03-19 |
 | [Sacrifice](https://open.spotify.com/track/1w5hmKj5aKzeYwJDmXWvos) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Sacrifice](https://open.spotify.com/album/6H4OFwDXGIayENuOoNNnZX) | 3:04 | 2023-08-29 |  |
 | [Saga](https://open.spotify.com/track/4bi0GnPBgHmlqb5OtXk9oE) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Saga](https://open.spotify.com/album/3wr966vVFS29mukRY6UZUC) | 2:01 | 2022-04-21 | 2024-03-26 |
-| [sakura](https://open.spotify.com/track/2CpXWQc4PuLauXBkAu6Dnz) | [Tom Feldt](https://open.spotify.com/artist/6zsJJhawunqJOVpD7kpoib) | [sakura](https://open.spotify.com/album/4avjQ7OYxRtTSOCs6qRv5S) | 2:13 | 2025-05-29 |  |
+| [sakura](https://open.spotify.com/track/2CpXWQc4PuLauXBkAu6Dnz) | [Tom Feldt](https://open.spotify.com/artist/6zsJJhawunqJOVpD7kpoib) | [sakura](https://open.spotify.com/album/4avjQ7OYxRtTSOCs6qRv5S) | 2:13 | 2025-05-29 | 2025-06-11 |
 | [Salt and Skin](https://open.spotify.com/track/5tAEj5pI81x8l7atVQaxlx) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Salt and Skin](https://open.spotify.com/album/0xY1k0w6KPxGg4Cg9CgSbn) | 2:57 | 2024-08-09 |  |
 | [Sanctuary](https://open.spotify.com/track/5oKiEfM3YuGCOXrFKcZpbM) | [Wave Of Pollen](https://open.spotify.com/artist/7gPa5ROTtEKCRAaOsM6thZ) | [Sanctuary](https://open.spotify.com/album/2Ogoe8psCeVJQe7trdF7Bf) | 2:34 | 2022-04-21 | 2024-04-04 |
 | [Sanctum](https://open.spotify.com/track/35liU7bs2YbA1udhkERMok) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Sanctum](https://open.spotify.com/album/2Hgwn7veVh8OIFsq7IzVKI) | 2:59 | 2022-04-21 | 2024-10-23 |

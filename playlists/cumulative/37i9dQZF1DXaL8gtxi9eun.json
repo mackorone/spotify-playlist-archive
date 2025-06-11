@@ -2561,6 +2561,24 @@
     },
     {
       "album": {
+        "name": "Kalam Faregh",
+        "url": "https://open.spotify.com/album/7dR1LiIeAibr5NL2jYjnDb"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274050,
+      "name": "Kalam Faregh",
+      "url": "https://open.spotify.com/track/3bkkYSKgGjsToIbAhl654c"
+    },
+    {
+      "album": {
         "name": "Kello Waham",
         "url": "https://open.spotify.com/album/1Bo8bgAlOE14eEZHeY8RXL"
       },
@@ -5620,7 +5638,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 156789,
       "name": "\u062c\u0627\u0645\u062f\u064a\u0646 \u062c\u0627\u0645\u062f\u064a\u0646",
       "url": "https://open.spotify.com/track/6p8MwOiWSDv6bhgfSjCppL"
@@ -7218,7 +7236,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 198997,
       "name": "\u2060Nazarat",
       "url": "https://open.spotify.com/track/5xiz9j91A3c5o3h08uIToP"

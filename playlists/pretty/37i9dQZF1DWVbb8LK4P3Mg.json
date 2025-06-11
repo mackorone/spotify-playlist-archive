@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: ONEWE(\uc6d0\uc704))",
-  "num_followers": 146750,
+  "num_followers": 146730,
   "original_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
+        "name": "This Christmas \u2013 Winter is Coming",
+        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 267250,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/6eAMa0e7WCbjM7ivbAhvkq"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
         "name": "Ex-Mas",
         "url": "https://open.spotify.com/album/1SdCbiVhmFkKbkNXpaVWe5"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 216564,
       "name": "Ex-Mas",
       "url": "https://open.spotify.com/track/4OPHXmAsFf5BcMhUSITwm1"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
-        "name": "This Christmas \u2013 Winter is Coming",
-        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 267250,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/6eAMa0e7WCbjM7ivbAhvkq"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "THE BOYZ Special Single 'Christmassy!'",
-        "url": "https://open.spotify.com/album/5KR9XuMapeh6JjUdcy4MHM"
-      },
-      "artists": [
-        {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
-        }
-      ],
-      "duration_ms": 205533,
-      "name": "Christmassy!",
-      "url": "https://open.spotify.com/track/1KMc5CXwEkjklwSqPMQjB1"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "This Christmas \u2013 Winter is Coming",
         "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 215101,
       "name": "\uaca8\uc6b8\ub098\ubb34 I\u2019m all ears",
       "url": "https://open.spotify.com/track/7KJUpJgGaQTdSq3L5StCfi"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "THE BOYZ Special Single 'Christmassy!'",
+        "url": "https://open.spotify.com/album/5KR9XuMapeh6JjUdcy4MHM"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "duration_ms": 205533,
+      "name": "Christmassy!",
+      "url": "https://open.spotify.com/track/1KMc5CXwEkjklwSqPMQjB1"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "[Hwa Sa Show Vol.2] Grey Christmas",
-        "url": "https://open.spotify.com/album/3sGZLUL4z7U9rPjkfyldX7"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 208293,
-      "name": "Grey Christmas",
-      "url": "https://open.spotify.com/track/3m71HSKTOQCXNWKxuO5LPG"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "This Christmas \u2013 Winter is Coming",
         "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 259339,
       "name": "Christmas without You",
       "url": "https://open.spotify.com/track/617cDTzVRFEwYPzi3FKaXT"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "[Hwa Sa Show Vol.2] Grey Christmas",
+        "url": "https://open.spotify.com/album/3sGZLUL4z7U9rPjkfyldX7"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 208293,
+      "name": "Grey Christmas",
+      "url": "https://open.spotify.com/track/3m71HSKTOQCXNWKxuO5LPG"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "The Present",
-        "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "PRESENT",
-      "url": "https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "This Christmas \u2013 Winter is Coming",
         "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 167456,
       "name": "The Magic of Christmas Time",
       "url": "https://open.spotify.com/track/35OjjtMHKnPdOAsEZ6M9OA"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "The Present",
+        "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "PRESENT",
+      "url": "https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "The Present",
-        "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "A miracle 3days ago",
-      "url": "https://open.spotify.com/track/5qKVSthaAAitawItqZjJpI"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "This Christmas \u2013 Winter is Coming",
         "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
       },
@@ -871,18 +855,18 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "Merry-Chri",
-        "url": "https://open.spotify.com/album/4oqQrLd2zP701hWtcGx0Vr"
+        "name": "The Present",
+        "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
       },
       "artists": [
         {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
         }
       ],
-      "duration_ms": 332666,
-      "name": "Merry-Chri",
-      "url": "https://open.spotify.com/track/3yVUAgXBPozhKKeXphiTY3"
+      "duration_ms": 240200,
+      "name": "A miracle 3days ago",
+      "url": "https://open.spotify.com/track/5qKVSthaAAitawItqZjJpI"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -903,18 +887,18 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "Gift For You",
-        "url": "https://open.spotify.com/album/3ufRFSgwF6xWlczCYmpTS6"
+        "name": "Merry-Chri",
+        "url": "https://open.spotify.com/album/4oqQrLd2zP701hWtcGx0Vr"
       },
       "artists": [
         {
-          "name": "WEi",
-          "url": "https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5"
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
         }
       ],
-      "duration_ms": 213986,
-      "name": "Gift For You",
-      "url": "https://open.spotify.com/track/7IEgrgGqJ7TxJN9v57acIC"
+      "duration_ms": 332666,
+      "name": "Merry-Chri",
+      "url": "https://open.spotify.com/track/3yVUAgXBPozhKKeXphiTY3"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -935,6 +919,22 @@
       "duration_ms": 165486,
       "name": "SATELLITE",
       "url": "https://open.spotify.com/track/2jvYOUaoyzaq9RIvyaYw9r"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "Gift For You",
+        "url": "https://open.spotify.com/album/3ufRFSgwF6xWlczCYmpTS6"
+      },
+      "artists": [
+        {
+          "name": "WEi",
+          "url": "https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5"
+        }
+      ],
+      "duration_ms": 213986,
+      "name": "Gift For You",
+      "url": "https://open.spotify.com/track/7IEgrgGqJ7TxJN9v57acIC"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "Winter Bloom",
-        "url": "https://open.spotify.com/album/4fE3UDxP596kDYgqlUukiy"
-      },
-      "artists": [
-        {
-          "name": "CLASS:y",
-          "url": "https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ"
-        }
-      ],
-      "duration_ms": 179684,
-      "name": "Winter Bloom",
-      "url": "https://open.spotify.com/track/7jfa0NpiHLaaKpec5cxO30"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "Christmas Dance",
         "url": "https://open.spotify.com/album/4D7wSlC3TgPptQwEb9t5XP"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 244173,
       "name": "Christmas Dance",
       "url": "https://open.spotify.com/track/5Fr2nTvU0OdhMUohTNXlA4"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "Winter Bloom",
+        "url": "https://open.spotify.com/album/4fE3UDxP596kDYgqlUukiy"
+      },
+      "artists": [
+        {
+          "name": "CLASS:y",
+          "url": "https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ"
+        }
+      ],
+      "duration_ms": 179684,
+      "name": "Winter Bloom",
+      "url": "https://open.spotify.com/track/7jfa0NpiHLaaKpec5cxO30"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "The Carol 2.0 (ViVi, Choerry, Yves)",
-        "url": "https://open.spotify.com/album/4a8IIN37HSD7SuDWuyNSs9"
-      },
-      "artists": [
-        {
-          "name": "LOONA",
-          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
-        }
-      ],
-      "duration_ms": 206439,
-      "name": "The Carol 2.0 (ViVi, Choerry, Yves)",
-      "url": "https://open.spotify.com/track/5gkbQEgYlXajuf8CcYpojE"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "Christmas With You",
         "url": "https://open.spotify.com/album/2Gl0CRia4oSIdPf1d565pZ"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 234306,
       "name": "Christmas With You",
       "url": "https://open.spotify.com/track/5b8VfM4pIknpsNH93pEp5x"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "The Carol 2.0 (ViVi, Choerry, Yves)",
+        "url": "https://open.spotify.com/album/4a8IIN37HSD7SuDWuyNSs9"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "duration_ms": 206439,
+      "name": "The Carol 2.0 (ViVi, Choerry, Yves)",
+      "url": "https://open.spotify.com/track/5gkbQEgYlXajuf8CcYpojE"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "\uc608\uc068 \uac00\ub4dd\ud55c Eve",
-        "url": "https://open.spotify.com/album/1TPvE61epVsbkvDYACjXXo"
-      },
-      "artists": [
-        {
-          "name": "Han Yo Han",
-          "url": "https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P"
-        },
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        }
-      ],
-      "duration_ms": 170232,
-      "name": "\uc608\uc068 \uac00\ub4dd\ud55c Eve (prod. Minit)",
-      "url": "https://open.spotify.com/track/0PxRwVf71nxGKSTSWHjp9H"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "First Snow",
         "url": "https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb"
       },
@@ -1423,18 +1403,22 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "The Christmas Number 12",
-        "url": "https://open.spotify.com/album/5jVCZws60QZ11TP2nWjxOZ"
+        "name": "\uc608\uc068 \uac00\ub4dd\ud55c Eve",
+        "url": "https://open.spotify.com/album/1TPvE61epVsbkvDYACjXXo"
       },
       "artists": [
         {
-          "name": "OoOo",
-          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
+          "name": "Han Yo Han",
+          "url": "https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P"
+        },
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
         }
       ],
-      "duration_ms": 159835,
-      "name": "The Christmas Number 12",
-      "url": "https://open.spotify.com/track/1VgEdXPGiCizL6DfIUDGok"
+      "duration_ms": 170232,
+      "name": "\uc608\uc068 \uac00\ub4dd\ud55c Eve (prod. Minit)",
+      "url": "https://open.spotify.com/track/0PxRwVf71nxGKSTSWHjp9H"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1455,22 +1439,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
-      },
-      "artists": [
-        {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
-        }
-      ],
-      "duration_ms": 269012,
-      "name": "Save Our Christmas",
-      "url": "https://open.spotify.com/track/7aHBGcIkKffL8JGz5czTeA"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "Santa,I have a Wish\u2026",
         "url": "https://open.spotify.com/album/7u38QbYaTHAnXXFVqdEKTl"
       },
@@ -1483,6 +1451,38 @@
       "duration_ms": 214666,
       "name": "Santa,I have a Wish\u2026",
       "url": "https://open.spotify.com/track/2ZAF7QSsI5xTMo8kAH79BU"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "The Christmas Number 12",
+        "url": "https://open.spotify.com/album/5jVCZws60QZ11TP2nWjxOZ"
+      },
+      "artists": [
+        {
+          "name": "OoOo",
+          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
+        }
+      ],
+      "duration_ms": 159835,
+      "name": "The Christmas Number 12",
+      "url": "https://open.spotify.com/track/1VgEdXPGiCizL6DfIUDGok"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "duration_ms": 269012,
+      "name": "Save Our Christmas",
+      "url": "https://open.spotify.com/track/7aHBGcIkKffL8JGz5czTeA"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "My Favorite Winter",
-        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 229386,
-      "name": "My Favorite Winter",
-      "url": "https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "Christmas Love",
         "url": "https://open.spotify.com/album/7iTnFSQCuTl8j5XenUsOu3"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 192533,
       "name": "Christmas Love",
       "url": "https://open.spotify.com/track/07RqTH1eogXDP6lvfkpTgr"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "My Favorite Winter",
+        "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 229386,
+      "name": "My Favorite Winter",
+      "url": "https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "X-Present",
-        "url": "https://open.spotify.com/album/6g8ILyk6RmulQbdosbetPg"
-      },
-      "artists": [
-        {
-          "name": "NTX",
-          "url": "https://open.spotify.com/artist/49DJRZw2T9mtMBpXkdQPCL"
-        }
-      ],
-      "duration_ms": 246293,
-      "name": "Fallin\u2019 in the Christmas love",
-      "url": "https://open.spotify.com/track/6p28cXqSTBxaXKTtIKv9PF"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "The Christmas Book Page 2",
         "url": "https://open.spotify.com/album/3qJNim41qjH0Z2gJlxujh3"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 239777,
       "name": "Winter Land",
       "url": "https://open.spotify.com/track/4UUNhwWMIicEF3mizXRBah"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "X-Present",
+        "url": "https://open.spotify.com/album/6g8ILyk6RmulQbdosbetPg"
+      },
+      "artists": [
+        {
+          "name": "NTX",
+          "url": "https://open.spotify.com/artist/49DJRZw2T9mtMBpXkdQPCL"
+        }
+      ],
+      "duration_ms": 246293,
+      "name": "Fallin\u2019 in the Christmas love",
+      "url": "https://open.spotify.com/track/6p28cXqSTBxaXKTtIKv9PF"
     }
   ],
   "unique_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",

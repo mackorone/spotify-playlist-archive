@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Becky G &amp; Manuel Turizo
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 53,334 likes - 200 songs - 10 hr 30 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 53,332 likes - 200 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 | 199 | [Tattoo \- Remix with Camilo](https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Tattoo \(Remix with Camilo\)](https://open.spotify.com/album/3Na85E6foBKxAeoAojX427) | 3:42 |
 | 200 | [Te Imaginaba](https://open.spotify.com/track/0YHtQ5UTlvjdgMJL3Gh09b) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Te Imaginaba](https://open.spotify.com/album/34lHWGbMwEieuMtYcyhqrR) | 2:38 |
 
-Snapshot ID: `AAATdNLj7VvbmNxPyQhHng8O9+/aRbdi`
+Snapshot ID: `AAATd+yw2fiuTA9H6ANDyeMR7RI/fmI5`

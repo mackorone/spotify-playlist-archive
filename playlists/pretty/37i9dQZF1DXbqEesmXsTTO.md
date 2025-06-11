@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqEesmXsTTO.md) - [plain]
 
 > 다양한 장르와 악기가 더해진 퓨전 국악 음악들을 즐겨보세요! \(커버: HARPAARY\(해파리\)\) \(Enjoy fusion Korean national music with various genres and instruments added!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,930 likes - 69 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,931 likes - 69 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,14 +52,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqEesmXsTTO.md) - [plain]
 | 42 | [ride the wind \(feat\. Blank!d\)](https://open.spotify.com/track/0FrarKu8G7izoH2NuqPxDx) | [Band KyongJi](https://open.spotify.com/artist/1Y87ZFsWo8jHO3mu5yPqer), [Blank!d](https://open.spotify.com/artist/18LCQDhzfktqMyKT8pqFQ3) | [ride the wind](https://open.spotify.com/album/2sHuTeFDcA5KegsWOc9hmz) | 5:07 |
 | 43 | [Night Sea](https://open.spotify.com/track/2efR2mfIfPAx9Sf96pOtNL) | [sEODo](https://open.spotify.com/artist/7uB71Iy85Sxm7OclRykqTh) | [In Summer](https://open.spotify.com/album/5sDkMwuCbhOOw8oFMyh6yx) | 3:03 |
 | 44 | [Arirang for you](https://open.spotify.com/track/02Li3zuBHmYvTU3snTt48H) | [NEUL](https://open.spotify.com/artist/5SaYHywNAcLUqIFcel7xwn) | [Piece Of Love](https://open.spotify.com/album/69A1ez7jfXMcLGOWRCk7lf) | 3:27 |
-| 45 | [sEcREt](https://open.spotify.com/track/5j01kyREle1q5e9xq3n2ah) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [sEcREt](https://open.spotify.com/album/4Zg5JPkF1JTVe8h2vewyZO) | 3:35 |
+| 45 | [sEcREt](https://open.spotify.com/track/5j01kyREle1q5e9xq3n2ah) | [sEODo](https://open.spotify.com/artist/7uB71Iy85Sxm7OclRykqTh) | [sEcREt](https://open.spotify.com/album/4Zg5JPkF1JTVe8h2vewyZO) | 3:35 |
 | 46 | [Wind Blowing From The East 동쪽에서 부는 바람](https://open.spotify.com/track/34LtGQ7tuZC9A3jdGxtnob) | [김신일\(Electreecity\)](https://open.spotify.com/artist/2r0sbNAu8c2hLlh0GuR9TS), [Mago 마고](https://open.spotify.com/artist/7dAsAiYMBahaIoSsm7cIGt) | [Wind Blowing From The East 동쪽에서 부는 바람](https://open.spotify.com/album/5yv7dPP2Z4lmGw1xSb2sCC) | 4:38 |
 | 47 | [Here comes Byeoljubu](https://open.spotify.com/track/3n2xF9MQ8emHwLHtfr4QmV) | [Band KyongJi](https://open.spotify.com/artist/1Y87ZFsWo8jHO3mu5yPqer) | [Here comes Byeoljubu](https://open.spotify.com/album/0Hz72QFtM5VQQB6fP8tasS) | 2:53 |
-| 48 | [farewell song](https://open.spotify.com/track/7F4j0ajE6AKZouEh33R52r) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [farewell song](https://open.spotify.com/album/24O48umyQCklMttrpWzHst) | 4:04 |
-| 49 | [In My View](https://open.spotify.com/track/1QJIIMzo6sSf7SLfkLHII3) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX), [ColdoK](https://open.spotify.com/artist/78tQQcdlRdUWKILrwpdolL) | [In My View](https://open.spotify.com/album/4BQs0ok8uj0FIKgd9K2IxN) | 3:35 |
+| 48 | [farewell song](https://open.spotify.com/track/7F4j0ajE6AKZouEh33R52r) | [sEODo](https://open.spotify.com/artist/7uB71Iy85Sxm7OclRykqTh) | [farewell song](https://open.spotify.com/album/24O48umyQCklMttrpWzHst) | 4:04 |
+| 49 | [In My View \(feat\. ColdoK\)](https://open.spotify.com/track/1QJIIMzo6sSf7SLfkLHII3) | [sEODo](https://open.spotify.com/artist/7uB71Iy85Sxm7OclRykqTh), [ColdoK](https://open.spotify.com/artist/78tQQcdlRdUWKILrwpdolL) | [In My View](https://open.spotify.com/album/4BQs0ok8uj0FIKgd9K2IxN) | 3:35 |
 | 50 | [Naval Commander of the Three Provinces](https://open.spotify.com/track/0qzjdgdYvY9JXxlFbFQLUP) | [Band KyongJi](https://open.spotify.com/artist/1Y87ZFsWo8jHO3mu5yPqer) | [Naval Commander of the Three Provinces](https://open.spotify.com/album/0aFKByWB3ZqHcqrVcNQ1oC) | 3:45 |
 | 51 | [Frame](https://open.spotify.com/track/3ex2LupXmbd11zECCgT4zg) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [Frame](https://open.spotify.com/album/02HMGsHNWWkqS7z2TdEOFi) | 4:59 |
-| 52 | [Sarang\-Ga](https://open.spotify.com/track/72XPDX00pwj9OEagtNlBeT) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [사랑가](https://open.spotify.com/album/0FAaDS3Pjvgmbmpff1afEC) | 3:58 |
+| 52 | [Sarang\-Ga](https://open.spotify.com/track/72XPDX00pwj9OEagtNlBeT) | [sEODo](https://open.spotify.com/artist/7uB71Iy85Sxm7OclRykqTh) | [사랑가](https://open.spotify.com/album/0FAaDS3Pjvgmbmpff1afEC) | 3:58 |
 | 53 | [Difficult Love](https://open.spotify.com/track/3COuVim71pbexDPN6hkuf5) | [Lee Heemoon](https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G), [Prelude](https://open.spotify.com/artist/5iDrzHiqbcQR9b0Po8EA9M) | [Korean Men](https://open.spotify.com/album/1RxHiOGUmdVAI3VUjtPqsi) | 4:27 |
 | 54 | [chohui's poem](https://open.spotify.com/track/4uGonmVqKlGVq7uVLGGRjR) | [HANUM](https://open.spotify.com/artist/7B0fJxqyFHfXBAF94kxK4d) | [chohui's poem](https://open.spotify.com/album/5bm3Mf5ouJ5fPBybeIWkPs) | 3:46 |
 | 55 | [Ninano](https://open.spotify.com/track/6E5vKRvu9tGT3WVoGtm7kn) | [Band\_LineOut](https://open.spotify.com/artist/6y4ZfA9AbX3P0Ywjh2pPK7) | [The temptation of folk songs](https://open.spotify.com/album/50et9JT2KW1Fi9fFZJ6kbT) | 4:22 |

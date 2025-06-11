@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-219 songs - 9 hr 16 min
+221 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Charcoal Shades](https://open.spotify.com/track/0741VyYwzisfhSj5tgr5a0) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Charcoal Shades](https://open.spotify.com/album/3u7dYBqDJo62EAYMPVgaBv) | 2:12 | 2024-07-16 |  |
 | [Clear And Calm](https://open.spotify.com/track/4Gn7QkFfIUdoJnRnmMBIZ7) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Clear And Calm](https://open.spotify.com/album/2JUNDwk1OCuOqTLdgbS8zv) | 2:10 | 2023-10-16 |  |
 | [Clear waters](https://open.spotify.com/track/7ATTZzULv32ZSfRiudX0hb) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Clear waters](https://open.spotify.com/album/0zek5R4VK7aRwmSQ6uoJf5) | 3:17 | 2024-10-22 |  |
-| [Clouds Coming](https://open.spotify.com/track/7bTycbdDfQELplifneZzJj) | [Martes Fiore](https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W) | [Clouds Coming](https://open.spotify.com/album/7IAk6YxAb3zjyOaGV0nzb0) | 2:26 | 2024-11-06 |  |
+| [Clouds Coming](https://open.spotify.com/track/7bTycbdDfQELplifneZzJj) | [Martes Fiore](https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W) | [Clouds Coming](https://open.spotify.com/album/7IAk6YxAb3zjyOaGV0nzb0) | 2:26 | 2024-11-06 | 2025-06-11 |
 | [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2023-05-09 | 2025-03-13 |
 | [Comfort](https://open.spotify.com/track/1NK6I4kkAeZ0twLaXBwZLK) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [Comfort](https://open.spotify.com/album/2yTzioTPiDxvpMCSdJ9wDq) | 2:04 | 2024-03-05 |  |
 | [Compass](https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Compass](https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv) | 2:20 | 2023-05-09 | 2025-02-27 |
@@ -52,7 +52,7 @@
 | [Deferment](https://open.spotify.com/track/0ibKzzyo527y98eTHe7Ktg) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Deferment](https://open.spotify.com/album/24Ldw57mkv72yL3aq8yYV6) | 2:06 | 2023-11-07 |  |
 | [Del Mar](https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Del Mar](https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ) | 2:40 | 2023-08-01 |  |
 | [Diaphanous](https://open.spotify.com/track/3xdDoLDyvsMgyl1BwVaZ5E) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Diaphanous](https://open.spotify.com/album/11WJw1yb4yuNMtrwqU8FHS) | 2:53 | 2023-11-13 |  |
-| [Divine](https://open.spotify.com/track/0dPlWCE1GsnltA6q0n6nzN) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Divine](https://open.spotify.com/album/2aIQpr7QM5i2xuVQuB9YpB) | 2:45 | 2024-01-04 |  |
+| [Divine](https://open.spotify.com/track/0dPlWCE1GsnltA6q0n6nzN) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Divine](https://open.spotify.com/album/2aIQpr7QM5i2xuVQuB9YpB) | 2:45 | 2024-01-04 | 2025-06-11 |
 | [Douce Èmeraude](https://open.spotify.com/track/5UP9mzwk0CUiQ03sZ7qtDX) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Douce Èmeraude](https://open.spotify.com/album/3BxbNKCEJkGV8s6D0Pwprx) | 2:45 | 2024-05-23 |  |
 | [Dreamt, far hope...](https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Dreamt, far hope...](https://open.spotify.com/album/3c8RtZuJK7GD9436O5DPSF) | 2:19 | 2023-09-05 |  |
 | [Dulcian](https://open.spotify.com/track/3QqwaqJI54yCVhSHX94sQo) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Dulcian](https://open.spotify.com/album/5xADNZ9czbbHhHPg5aJueT) | 2:17 | 2023-05-09 | 2025-02-27 |
@@ -131,6 +131,7 @@
 | [Long\-Awaited Light](https://open.spotify.com/track/0MllxU17FqcO092gj9Gj9k) | [Marcelo Salvius](https://open.spotify.com/artist/4exM1DAqbTjDfgaj98AGiO) | [Long\-Awaited Light](https://open.spotify.com/album/4dtLMUejmFxtkEBRs3yjCN) | 2:38 | 2025-03-11 |  |
 | [Longing](https://open.spotify.com/track/7jL00x2jA5kyTuaqqf8PYq) | [Dan Lambert](https://open.spotify.com/artist/4Z9sG8VEIAR6v4wlMncoNI) | [Echoes of Home](https://open.spotify.com/album/7yCqK5TU8KBZM4MeyHqydu) | 2:22 | 2023-12-12 |  |
 | [Longitude](https://open.spotify.com/track/28W2mqtvitwaoKe5IHL4M9) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Longitude](https://open.spotify.com/album/5xkVqIK6vdCA6e3rWJjYjJ) | 2:34 | 2024-05-23 | 2025-03-13 |
+| [Lucence](https://open.spotify.com/track/6SY0nMP1iAmNNMwHnWrCgI) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [Lucence](https://open.spotify.com/album/4bkuf9zuqctbiJSvOr6U91) | 2:17 | 2025-06-10 |  |
 | [Lumina](https://open.spotify.com/track/3ROPBozZCwfK1R8ZO3gcyD) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Lumina](https://open.spotify.com/album/5nyCbLJDlIvZWJ2DJRkSgh) | 2:10 | 2024-04-22 |  |
 | [Lumière Du Matin](https://open.spotify.com/track/7HqxTwva2cSMSbLDAEzaI5) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Lumière Du Matin](https://open.spotify.com/album/2oMkIdTiqOZcCSzul1c7BJ) | 2:47 | 2023-05-09 | 2024-10-02 |
 | [Meditabundus](https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk) | [Gianni Goggia](https://open.spotify.com/artist/17wpSZjx0lWXcjoskfV2sQ), [Kellen Chase](https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t) | [Meditabundus](https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN) | 2:30 | 2023-05-09 | 2025-03-13 |
@@ -199,7 +200,7 @@
 | [The View 景色](https://open.spotify.com/track/2sdCizizVGvenywdhB3VIx) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [The View 景色](https://open.spotify.com/album/4KkEK1Oxi1nJ8g6bPuFOSp) | 2:55 | 2024-07-16 |  |
 | [The Way Home](https://open.spotify.com/track/3EviaQw7x1Wn6wxVbjvNRs) | [Matthew Adam](https://open.spotify.com/artist/1JShgWc7ZWXxlqGENVf4qb) | [The Way Home](https://open.spotify.com/album/0MgiFWUWfLEJjBgFz4mH3b) | 2:46 | 2023-05-09 | 2024-06-01 |
 | [The Whitening Fields](https://open.spotify.com/track/4MOy0eZpw1xoveN5S8stBC) | [Dean Caplan](https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q) | [The Whitening Fields](https://open.spotify.com/album/5m4Wj9vFbucH4Iq7pLapu2) | 2:33 | 2024-02-02 |  |
-| [Then And Now](https://open.spotify.com/track/6mKey9UHs1Mz5ODqvov5pA) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [Then And Now](https://open.spotify.com/album/5gteMmhtuhYkpalJBRdXbf) | 2:23 | 2025-05-21 |  |
+| [Then And Now](https://open.spotify.com/track/6mKey9UHs1Mz5ODqvov5pA) | [Móret Labino](https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP) | [Then And Now](https://open.spotify.com/album/5gteMmhtuhYkpalJBRdXbf) | 2:23 | 2025-05-21 | 2025-06-11 |
 | [Through Valleys](https://open.spotify.com/track/5SdiqWxI5tTOAugHmijeSN) | [Wyatt Elil](https://open.spotify.com/artist/2krX8gm9Nw3Bdp7vniNwum) | [Through Valleys](https://open.spotify.com/album/6j2Q4yWL0niKxmWAplQolc) | 2:01 | 2023-05-09 | 2024-11-07 |
 | [To Bring Rest](https://open.spotify.com/track/6MTI6CKlLOZapPzdT4zJLH) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [To Bring Rest](https://open.spotify.com/album/5I39qlWLBneQuXzKaJcTh5) | 2:17 | 2023-09-05 | 2025-03-13 |
 | [to the sea](https://open.spotify.com/track/6I9pSKGbuygkebmyt1ZuIL) | [The Chillest](https://open.spotify.com/artist/2qlvTZS8OkFRZi30S0D9E7) | [to the sea](https://open.spotify.com/album/2RayBw83k7G2KMzRy4Ecmw) | 2:44 | 2023-05-09 | 2025-03-13 |
@@ -216,6 +217,7 @@
 | [Valencia](https://open.spotify.com/track/0lyxuER9HktBcYRwpaasqs) | [Gaspar Becerra](https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj) | [Valencia](https://open.spotify.com/album/5EblH0XOm0QKeOEeypwONP) | 2:54 | 2023-10-10 | 2024-11-07 |
 | [Waking Up](https://open.spotify.com/track/7c33zkn49H7mwANl899jCD) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Waking Up](https://open.spotify.com/album/5DyFhKX0zsMGHmze1X6zXs) | 2:49 | 2024-12-17 |  |
 | [Wandering](https://open.spotify.com/track/7gSJbzmfzFPloeDqWPy9eI) | [Drifreda](https://open.spotify.com/artist/6KvPFVsqQeAyZxp9MUUGTW) | [Wandering](https://open.spotify.com/album/2rH60gbQ2dwWisT1yAIWN6) | 2:55 | 2024-12-10 | 2025-05-22 |
+| [Wanderlust](https://open.spotify.com/track/0FWiBmCzyNSuvus2TIoAEw) | [Justin Dell](https://open.spotify.com/artist/7nQzEyE1TWkfthJfE0fs43) | [Wanderlust](https://open.spotify.com/album/2nVZXTIoztXDPcG6em3MTv) | 2:18 | 2025-06-10 |  |
 | [Wavering in the wind](https://open.spotify.com/track/65R91R603eXiAOa0K4bar0) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Wavering in the wind](https://open.spotify.com/album/189614dABOnS6fQzug1EGC) | 2:28 | 2023-05-09 | 2024-11-07 |
 | [Waves](https://open.spotify.com/track/3Q4SprlTUVDg4HkH0e9vQR) | [Astrid Evans](https://open.spotify.com/artist/4f3z31SdUpS0auVOk6h2Vj) | [Waves](https://open.spotify.com/album/3BkQQlkS7ROeILw3aoJ2zu) | 2:24 | 2024-04-09 | 2025-03-13 |
 | [Waves](https://open.spotify.com/track/4POl5mnK3ZDe6crPzkxW9L) | [Delevski](https://open.spotify.com/artist/7jWYbcMTpLqG9gi67M5H2k) | [Waves](https://open.spotify.com/album/0ERpE5TAYb6GSInWr0v6dI) | 2:24 | 2023-05-09 | 2024-04-19 |

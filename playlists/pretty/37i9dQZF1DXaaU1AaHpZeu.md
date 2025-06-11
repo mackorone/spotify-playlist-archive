@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina, con Yarea en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,879 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,836 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 20 | [La Primera Luz](https://open.spotify.com/track/3NiBKMMrU7gyWMtuuGivZN) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [La Primera Luz](https://open.spotify.com/album/2AxbnQKs5sRvx0xpYSBKNm) | 4:45 |
 | 21 | [Homosapiens](https://open.spotify.com/track/56aNjDFvp7aVvCywNByTHM) | [Verde 70](https://open.spotify.com/artist/3Of13uTPqUVwBPz8gpz5kN) | [Homosapiens](https://open.spotify.com/album/6mQDRdhkIK0GDOnO7cnT8H) | 3:49 |
 | 22 | [Mi Mundo](https://open.spotify.com/track/7jmo5T6F8FUc05EZ8ONSg0) | [Onda Vaga](https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ) | [Amuletos de Cristal, Vol\. 1](https://open.spotify.com/album/6ktozBjDpQXyP3xugguXZd) | 3:25 |
-| 23 | [Buscamos \(Deluxe\) \- Radio Edit](https://open.spotify.com/track/2aDKwkrIalbfjDofSjL9Ya) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Abriendo Latidos \(Deluxe\)](https://open.spotify.com/album/7KxIgITgIEWpIybYb4nAD3) | 4:03 |
+| 23 | [Buscamos \(Deluxe\)](https://open.spotify.com/track/2aDKwkrIalbfjDofSjL9Ya) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Abriendo Latidos \(Deluxe\)](https://open.spotify.com/album/7KxIgITgIEWpIybYb4nAD3) | 4:03 |
 | 24 | [Los Fundamentos](https://open.spotify.com/track/14NvA7VPCaYdssvIRHdDfw) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP), [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV) | [Los Fundamentos](https://open.spotify.com/album/7BjtE9fF8Cxox4ogEjUQys) | 3:28 |
 | 25 | [La Máquina de Hacer Cagadas](https://open.spotify.com/track/07LdNNwezqBC18csARYb6i) | [Júpiter en Casa](https://open.spotify.com/artist/2FtkAsOkCkHCUbUj0Us8Wd) | [La Máquina de Hacer Cagadas](https://open.spotify.com/album/0GVFkLIhH1DDc4Um4MpNuP) | 2:55 |
 | 26 | [hoy estoy en otra parte ⋆⁺₊✧](https://open.spotify.com/track/2pqgcrRfFM3HFpNdUtEzXd) | [Linxes](https://open.spotify.com/artist/6dk5stiRd8YEY9knhBEUhx) | [hoy estoy en otra parte ⋆⁺₊✧](https://open.spotify.com/album/1e8vced5iaIQnaZf5Y4kXI) | 2:49 |

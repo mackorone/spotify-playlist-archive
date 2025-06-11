@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover :BNXN",
-  "num_followers": 614243,
+  "num_followers": 614436,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-06-06 00:01:31",
       "album": {
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 149126,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
+    },
+    {
+      "added_at": "2025-06-06 00:01:31",
+      "album": {
         "name": "Toro - A COLORS SHOW",
         "url": "https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 137631,
       "name": "Higher",
       "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
-    },
-    {
-      "added_at": "2025-06-06 00:01:31",
-      "album": {
-        "name": "Only Fans",
-        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 149126,
-      "name": "Only Fans",
-      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
     },
     {
       "added_at": "2025-06-06 00:01:31",
@@ -707,26 +707,6 @@
     {
       "added_at": "2025-06-06 00:01:31",
       "album": {
-        "name": "Toma Toma",
-        "url": "https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Toma Toma",
-      "url": "https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd"
-    },
-    {
-      "added_at": "2025-06-06 00:01:31",
-      "album": {
         "name": "everyday",
         "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 182142,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5"
+    },
+    {
+      "added_at": "2025-06-06 00:01:31",
+      "album": {
+        "name": "Toma Toma",
+        "url": "https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Toma Toma",
+      "url": "https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd"
     },
     {
       "added_at": "2025-06-06 00:01:31",
@@ -879,26 +879,6 @@
     {
       "added_at": "2025-06-06 00:01:31",
       "album": {
-        "name": "RnB",
-        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 160885,
-      "name": "Ilashe",
-      "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
-    },
-    {
-      "added_at": "2025-06-06 00:01:31",
-      "album": {
         "name": "adedamola",
         "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 177847,
       "name": "PINACOLADA",
       "url": "https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF"
+    },
+    {
+      "added_at": "2025-06-06 00:01:31",
+      "album": {
+        "name": "RnB",
+        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 160885,
+      "name": "Ilashe",
+      "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
     },
     {
       "added_at": "2025-06-06 00:01:31",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2025-06-06 00:01:31",
       "album": {
-        "name": "adedamola",
-        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Lagbaja",
-          "url": "https://open.spotify.com/artist/2caVTY3yVrcZ3iaB7rIaY2"
-        }
-      ],
-      "duration_ms": 212666,
-      "name": "back n forth",
-      "url": "https://open.spotify.com/track/2q7BfsGmjmUbxn5VkI6QKN"
-    },
-    {
-      "added_at": "2025-06-06 00:01:31",
-      "album": {
         "name": "Innocent (feat. Fireboy DML)",
         "url": "https://open.spotify.com/album/6s1rGfZEpOBh25sCEHz9UA"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 172631,
       "name": "Innocent (feat. Fireboy DML)",
       "url": "https://open.spotify.com/track/4mlurJObtqE8Q4MLwCfsiw"
+    },
+    {
+      "added_at": "2025-06-06 00:01:31",
+      "album": {
+        "name": "adedamola",
+        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Lagbaja",
+          "url": "https://open.spotify.com/artist/2caVTY3yVrcZ3iaB7rIaY2"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "back n forth",
+      "url": "https://open.spotify.com/track/2q7BfsGmjmUbxn5VkI6QKN"
     },
     {
       "added_at": "2025-06-06 00:01:31",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: RIKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,287 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,291 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 23 | [To My Audience](https://open.spotify.com/track/6qQsWs0vbFbFsr6Mroh20x) | [Kalabebe](https://open.spotify.com/artist/1MUaWt8Y92WoQfhLnjumVZ) | [Be My Guest](https://open.spotify.com/album/6RFsBhZK7IWIZirIU2oS3X) | 3:11 |
 | 24 | [Say It To My Face \(feat\. ØZI\)](https://open.spotify.com/track/3vx3DUR2dBpwDzeIWbbfi8) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [Made For You](https://open.spotify.com/album/1s5Prxw2pVBcOr6mQFPk9N) | 2:40 |
 | 25 | [Last Summer （月亮惹的禍）](https://open.spotify.com/track/6O1Cy9kee544hVq1xalQdL) | [我是機車少女](https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl) | [I'mdifficult](https://open.spotify.com/album/6eMD8zY0EQiNsS2qExm4nE) | 4:20 |
-| 26 | [DISEASE](https://open.spotify.com/track/3iWYMsT2kwGv7fVzjtGgjY) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [DISEASE](https://open.spotify.com/album/48muWPXD65T8ExoCG4UVAp) | 4:23 |
+| 26 | [DISEASE](https://open.spotify.com/track/3iWYMsT2kwGv7fVzjtGgjY) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [DISEASE](https://open.spotify.com/album/48muWPXD65T8ExoCG4UVAp) | 4:22 |
 | 27 | [comet](https://open.spotify.com/track/2lpTOVFBkhdAJV9wNRxWks) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL), [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0) | [comet](https://open.spotify.com/album/6cjbyBdq6V6ZIvzqvUxy8b) | 2:35 |
 | 28 | [Litchi Red](https://open.spotify.com/track/0rCaItAeve5mL7mQzDqLD9) | [Yokkorio](https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg) | [Litchi Red](https://open.spotify.com/album/0otNdk9nGnf02BgnjWdSH6) | 3:06 |
 | 29 | [Nightglow Dreamer](https://open.spotify.com/track/5BqfuwS9e5dScbSrclgQjT) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF), [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Nightglow Dreamer](https://open.spotify.com/album/5rAoX1PnzxNoGQd4RQDgky) | 4:29 |

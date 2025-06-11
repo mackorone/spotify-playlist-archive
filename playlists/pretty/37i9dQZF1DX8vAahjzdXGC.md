@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Sabrina Carpenter, Ed Sheeran, Addison Rae, hingga Mawar de Jongh
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,391 likes - 87 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,424 likes - 87 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 3 | [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 |
 | 4 | [Hate to Love](https://open.spotify.com/track/62cT0mioPrrNTrt5Vj8wor) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Hate to Love](https://open.spotify.com/album/1XRIRDIrlLUojdWBerZyFE) | 3:07 |
 | 5 | [Tinggal \(Original Soundtrack 'Tinggal Meninggal'\)](https://open.spotify.com/track/0nB7Hp6aOlc5Gh3Iq7cwzP) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Tinggal \(Original Soundtrack 'Tinggal Meninggal'\)](https://open.spotify.com/album/7tpWC5cXqD0ejf9UyyR65H) | 3:55 |
-| 6 | [Arah Sejati](https://open.spotify.com/track/1vC79kjknhE878OHaHPpT8) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL), [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV), [Hendro Djasmoro](https://open.spotify.com/artist/2DvUUwMkNYZSFn9Af7bcVH) | [Arah Sejati](https://open.spotify.com/album/7as6oC5TGABoFjI6k3iGvH) | 4:31 |
+| 6 | [Arah Cinta Sejati](https://open.spotify.com/track/1vC79kjknhE878OHaHPpT8) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL), [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV), [Hendro Djasmoro](https://open.spotify.com/artist/2DvUUwMkNYZSFn9Af7bcVH) | [Arah Cinta Sejati](https://open.spotify.com/album/7as6oC5TGABoFjI6k3iGvH) | 4:31 |
 | 7 | [ALL I WANT IS YOU](https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [ALL I WANT IS YOU](https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl) | 2:15 |
 | 8 | [Sendirian](https://open.spotify.com/track/1ByCMSi6E4TF8mQn8YdB4R) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Sendirian](https://open.spotify.com/album/1ieXKHJt8uZvcOSZ4hX6oE) | 2:35 |
 | 9 | [Keluh](https://open.spotify.com/track/4YCEwufcKpKulCa6tJlAjD) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Dreane](https://open.spotify.com/album/0dbhJr4XSB9SRuYB8sTnmi) | 2:38 |

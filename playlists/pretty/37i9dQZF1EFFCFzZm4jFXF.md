@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88 likes - 111 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 89 likes - 111 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 77 | [Never Stood A Chance](https://open.spotify.com/track/3AgmA7OJFNok5iGIRJu5HE) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Never Stood A Chance](https://open.spotify.com/album/5bqv7OLX8iCZEzRMZuzXLe) | 2:50 |
 | 78 | [Evolution](https://open.spotify.com/track/5T86BDcrE76auUDE6SGyvG) | [Katie Sky](https://open.spotify.com/artist/31bkgXHo67awewnmvrdsah) | [Evo](https://open.spotify.com/album/4iWd9ESivlAe73jkExfOSW) | 3:53 |
 | 79 | [Jump In](https://open.spotify.com/track/2p4td5ssFstuoFdSxGJwjm) | [Emma Stevens](https://open.spotify.com/artist/4ULAjXdgOJfwASBSBJFTUW) | [Light Year](https://open.spotify.com/album/2S9aF2HWF16IjwQ1RwcEgf) | 2:42 |
-| 80 | [Turn Off The Rain](https://open.spotify.com/track/7tI7ojD4HsrgsMGoloIm80) | [Xenia Ghali](https://open.spotify.com/artist/4iw0Pf0ZeTekpc6yqlGKYE) | [Turn Off The Rain](https://open.spotify.com/album/1EYQFHfkKdrgdltWOlRnzp) | 3:39 |
-| 81 | [If You Ever Come Back](https://open.spotify.com/track/4GD7mjIvLLZ9cgFNDwUxkU) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [If You Ever Come Back](https://open.spotify.com/album/5TETFQBznTHmqjhbaY96Zz) | 3:07 |
+| 80 | [If You Ever Come Back](https://open.spotify.com/track/4GD7mjIvLLZ9cgFNDwUxkU) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [If You Ever Come Back](https://open.spotify.com/album/5TETFQBznTHmqjhbaY96Zz) | 3:07 |
+| 81 | [Turn Off The Rain](https://open.spotify.com/track/7tI7ojD4HsrgsMGoloIm80) | [Xenia Ghali](https://open.spotify.com/artist/4iw0Pf0ZeTekpc6yqlGKYE) | [Turn Off The Rain](https://open.spotify.com/album/1EYQFHfkKdrgdltWOlRnzp) | 3:39 |
 | 82 | [Cold Winter](https://open.spotify.com/track/2roIpXQCwjCcPC9kwh8V7x) | [Keels](https://open.spotify.com/artist/1Y2eFp5L0YHdho5WsGWSzU) | [Cold Winter](https://open.spotify.com/album/1LVIZa0uPw9qAsjdQVd05m) | 3:20 |
 | 83 | [Rum & Red Bull](https://open.spotify.com/track/5mdtecC5n9oiC1WIPJDGa6) | [The Tailormade](https://open.spotify.com/artist/7dD3Cn2hLHo6WxrMOqk7c3) | [Rum & Red Bull](https://open.spotify.com/album/3BMpaaMfhpfLTl8cTJ8mDK) | 3:26 |
 | 84 | [Matters To Me](https://open.spotify.com/track/1xH7om5np5FyqNF5cnXYzz) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [Matters To Me](https://open.spotify.com/album/4srls6038abMh9Mw2jS3Yg) | 3:49 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 110 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 111 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AbztXgAAAAC9YchbVNjV4ESSOe1WhkMj`
+Snapshot ID: `Abzy4AAAAADfM4ZRFVRY1yqWvx9Q27Wm`

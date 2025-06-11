@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \u2764\ufe0f\u200d\ud83d\udd25 with Armin van Buuren",
-  "num_followers": 371781,
+  "num_followers": 372094,
   "original_name": "EDM 2025",
   "owner": {
     "name": "Spotify",
@@ -1587,30 +1587,6 @@
     {
       "added_at": "2025-06-09 15:58:42",
       "album": {
-        "name": "Angel In The Dark",
-        "url": "https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 199335,
-      "name": "Angel In The Dark",
-      "url": "https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb"
-    },
-    {
-      "added_at": "2025-06-09 15:58:42",
-      "album": {
         "name": "He's A Pirate (Save Me)",
         "url": "https://open.spotify.com/album/2SPjOq3MyMAlksxhwMCu6z"
       },
@@ -1631,6 +1607,30 @@
       "duration_ms": 153125,
       "name": "He's A Pirate (Save Me)",
       "url": "https://open.spotify.com/track/1Vj7ZZgVpNIKqkC2bA9mpx"
+    },
+    {
+      "added_at": "2025-06-09 15:58:42",
+      "album": {
+        "name": "Angel In The Dark",
+        "url": "https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 199335,
+      "name": "Angel In The Dark",
+      "url": "https://open.spotify.com/track/1omZLqRQ0nyXJwwYw94GPb"
     },
     {
       "added_at": "2025-06-09 15:58:42",
@@ -2167,26 +2167,22 @@
     {
       "added_at": "2025-06-09 15:58:42",
       "album": {
-        "name": "Surrender (Remixes)",
-        "url": "https://open.spotify.com/album/35f3mnl0evF9sAFBqjuWdi"
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/0jqUzeynq0OFvfiRxidGfE"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
         },
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "John Alto",
-          "url": "https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
         }
       ],
-      "duration_ms": 187941,
-      "name": "Surrender - John Alto Remix",
-      "url": "https://open.spotify.com/track/3uGl0FDIb3EfqKENgLvZxj"
+      "duration_ms": 214070,
+      "name": "Culture",
+      "url": "https://open.spotify.com/track/1tf1bJWmA54TDD3F0tdZy2"
     }
   ],
   "unique_name": "EDM 2025",

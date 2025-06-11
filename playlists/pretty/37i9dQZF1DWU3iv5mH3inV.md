@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > El Dembow que ta subiendo\. Foto: Jey One
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,216 likes - 100 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,254 likes - 100 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 66 | [Pa subir la nota](https://open.spotify.com/track/2gHnanUQHwdDyFvgVnHH9p) | [El Jincho](https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw), [D Jam Saw](https://open.spotify.com/artist/0aUQapby1rTJ1qTkcyx6XQ) | [Pa subir la nota](https://open.spotify.com/album/69e1AWOxRUERIaWaGXtp0y) | 2:15 |
 | 67 | [Hablando Mal](https://open.spotify.com/track/4yqs7p82VcPRbdiMn0ROGJ) | [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ) | [Hablando Mal](https://open.spotify.com/album/3i278NMh5hLeXFy4lKbMiL) | 2:10 |
 | 68 | [CapeaDembow](https://open.spotify.com/track/2MtJ2ZzGOlcqmFUGRas5yD) | [Arnold Produce](https://open.spotify.com/artist/3W0p849JsIHjth3mRJVOBJ) | [CapeaDembow](https://open.spotify.com/album/7i4rjJO5IU7VpdBE6Pw9Vk) | 2:06 |
-| 69 | [Playero 50](https://open.spotify.com/track/40XEVZBoz2ANRvR0De4uYS) | [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk), [Brayitan](https://open.spotify.com/artist/6BeoccEchFEQCVpi66gsun), [Alter Ego](https://open.spotify.com/artist/0VqrDE7OhdNb0gJL9FmVZw), [El Piloto de la Calle](https://open.spotify.com/artist/2OuatTL7XUpvS7kWhLAxwT) | [Playero 50](https://open.spotify.com/album/0ZQrk4KguTTw7ZNNEtbxSK) | 1:51 |
+| 69 | [Playero 50](https://open.spotify.com/track/40XEVZBoz2ANRvR0De4uYS) | [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk), [Brayitan](https://open.spotify.com/artist/6BeoccEchFEQCVpi66gsun), [El Piloto de la Calle](https://open.spotify.com/artist/2OuatTL7XUpvS7kWhLAxwT) | [Playero 50](https://open.spotify.com/album/0ZQrk4KguTTw7ZNNEtbxSK) | 1:51 |
 | 70 | [MAMA HUEVO](https://open.spotify.com/track/5B0XDVJrHKa50sqWeNovco) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [SATA 42](https://open.spotify.com/album/4k9YQ4z1BXtSB1XxN9oGDY) | 2:09 |
 | 71 | [Bandida](https://open.spotify.com/track/7GbRLUkmndwkZdCzBsAczg) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz), [Mapa Negro](https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO) | [Bandida](https://open.spotify.com/album/38DyYXoVdZwtWS1F6QySgD) | 1:35 |
 | 72 | [Una Peluche](https://open.spotify.com/track/5hwr9dfnj8wI9sFGGiBDHv) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F), [OG DETRUYELO](https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli) | [Una Peluche](https://open.spotify.com/album/76ovCecfGvWhD3bBglMBnL) | 2:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 99 | [Mangala](https://open.spotify.com/track/6FJsToE6UL1UAowT0hMwuq) | [El Mello 06](https://open.spotify.com/artist/0TLBdmP7SIXHSdUEWhlGPo) | [Mangala](https://open.spotify.com/album/1sMKmJ63JSEcdntbp2Ua4T) | 1:15 |
 | 100 | [Cuando Sea Donde Sea](https://open.spotify.com/track/3j4cyALRCaVstg0jTNr7Dn) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [D´Flow Aka La Maldad](https://open.spotify.com/artist/5w84GjBkeOt0pRHp2nEWEG), [OG DETRUYELO](https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli) | [Cuando Sea Donde Sea](https://open.spotify.com/album/3AlYo1ZGJDA1uA8n5RYz4M) | 2:17 |
 
-Snapshot ID: `aEELaAAAAAAXOXRlWwVVxVOb556YxUlO`
+Snapshot ID: `aEELaAAAAADXvWJWrEVzcg4WeLs5f2sk`

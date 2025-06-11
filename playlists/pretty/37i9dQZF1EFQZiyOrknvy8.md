@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 89 | [Weit, weit weg](https://open.spotify.com/track/5vu4A3HVrkf6kJr0Ik5JSt) | [Versengold](https://open.spotify.com/artist/4tGxWZaAkt50t9VZxSxOGZ) | [Nordlicht](https://open.spotify.com/album/7mHYHavA9Jjop81UQ0iZAz) | 3:33 |
 | 90 | [Pieces](https://open.spotify.com/track/03GwGxzLsZoMDPodpFGWDf) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Pieces](https://open.spotify.com/album/3VWyg2FxDIhfwBgRzDxw6I) | 3:12 |
 | 91 | [Santa, If You're There](https://open.spotify.com/track/4NJ5o0tcV32BWQCoc3OpaW) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 3:03 |
-| 92 | [Pull Me Out](https://open.spotify.com/track/7DL3XQ3XiSQJ1j34poGCsx) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos \(Special Edition\)](https://open.spotify.com/album/62lOkmFDHhhMcaYrolIJVF) | 2:47 |
-| 93 | [Mal Amor](https://open.spotify.com/track/4uhmn8qVCJD4F9aEF9cYtH) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 3:09 |
+| 92 | [Mal Amor](https://open.spotify.com/track/4uhmn8qVCJD4F9aEF9cYtH) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 3:09 |
+| 93 | [Pull Me Out](https://open.spotify.com/track/7DL3XQ3XiSQJ1j34poGCsx) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos \(Special Edition\)](https://open.spotify.com/album/62lOkmFDHhhMcaYrolIJVF) | 2:47 |
 | 94 | [Do Not Disturb](https://open.spotify.com/track/4UCTlHt2pZxZ2l500bOQKn) | [Be Charlotte](https://open.spotify.com/artist/2rTZSJ6JzWaKJaHGbEkRjl) | [Do Not Disturb](https://open.spotify.com/album/6pP96QZ9sIST5vC8OoijqV) | 2:47 |
 | 95 | [Stronger](https://open.spotify.com/track/6SEewo2CNMGzl2BoD19RA6) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos \(Special Edition\)](https://open.spotify.com/album/62lOkmFDHhhMcaYrolIJVF) | 3:09 |
 | 96 | [On My Mind](https://open.spotify.com/track/3yCcr891zvCOIlaadGZKuo) | [Sonny Alven](https://open.spotify.com/artist/2zHHEU3t9cutZFyG0fHdOR) | [On My Mind](https://open.spotify.com/album/2YoQ5WtQ3MClSxDuLElMHw) | 2:50 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 139 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 | 140 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 
-Snapshot ID: `AbztaAAAAABI9gMRgQVQCwOMIjouF51C`
+Snapshot ID: `Abzy4AAAAABALdCUBo/CJsK4XUCdmb3J`

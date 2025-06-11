@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,011 likes - 327 songs - 20 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,017 likes - 327 songs - 20 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -273,8 +273,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 263 | [Hey Joe](https://open.spotify.com/track/05slp2CgZkquotjViznlc1) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 1:54 |
 | 264 | [We're Gonna Know Each Other Forever](https://open.spotify.com/track/6TqBI6dlrON7PAmrSzcGf6) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:02 |
 | 265 | [Changes](https://open.spotify.com/track/2BojNLVmbq72M3FvZ7F9Ge) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Changes](https://open.spotify.com/album/2lwidKEv28foesJgv8hpPY) | 3:25 |
-| 266 | [Ordinary Heaven](https://open.spotify.com/track/37iTeSsKvk2PQqNMH5hfoc) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 5:12 |
-| 267 | [people still show up](https://open.spotify.com/track/1wECrZyUcXjT8W9bxMFczE) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 2:52 |
+| 266 | [people still show up](https://open.spotify.com/track/1wECrZyUcXjT8W9bxMFczE) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 2:52 |
+| 267 | [Ordinary Heaven](https://open.spotify.com/track/37iTeSsKvk2PQqNMH5hfoc) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 5:12 |
 | 268 | [The Backwards Heart](https://open.spotify.com/track/3yXpfmDmEluup8pOyi0g25) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers \(Deluxe\)](https://open.spotify.com/album/6HdWNexk92vAHRQimnh4fF) | 4:06 |
 | 269 | [Violence](https://open.spotify.com/track/3ceQfWfkQmDsDsfHrAsasD) | [Red Hearse](https://open.spotify.com/artist/2922Q2qAcxb0hRD0LtPcFc) | [Red Hearse](https://open.spotify.com/album/1BrBVH1v92OAzRDijSyhj9) | 3:47 |
 | 270 | [Wildflowers \- From “Teen Spirit” Soundtrack](https://open.spotify.com/track/6oU0RydFrAk2D8KGOUnkB4) | [Elle Fanning](https://open.spotify.com/artist/5lBUWrTWtJewTgS394y0m9) | [Teen Spirit \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3lzC2zRQZM0EVP6Zjtc0Cq) | 3:31 |
@@ -336,4 +336,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 326 | [I Will Stay Here](https://open.spotify.com/track/0Je3AfZFiRde3KcvZYlCS0) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 5:46 |
 | 327 | [What the Fuck \- Live](https://open.spotify.com/track/57C1sRLazYPpOl9HAWuU7H) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Before Shane Went to Bangkok: FUN\. LIVE in the USA](https://open.spotify.com/album/5RXUNQwcgpWLFUqhvwoY8F) | 6:42 |
 
-Snapshot ID: `AbztaAAAAAD2cmCNIh6gxfE+iXintllh`
+Snapshot ID: `Abzy6gAAAADLJTt6XLQIh81qG3H9cbIZ`

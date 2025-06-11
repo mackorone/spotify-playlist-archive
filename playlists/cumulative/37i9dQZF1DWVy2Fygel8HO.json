@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Calm Waters",
+        "url": "https://open.spotify.com/album/7eskambYbQlDp1H4E6Z6G2"
+      },
+      "artists": [
+        {
+          "name": "Reivaj Ebol",
+          "url": "https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133209,
+      "name": "Calm Waters",
+      "url": "https://open.spotify.com/track/17fzCOVbjCQwxgPaLtAC1h"
+    },
+    {
+      "album": {
         "name": "Can't Wait",
         "url": "https://open.spotify.com/album/5BOUDuuez1jkMjVmlvnyNQ"
       },
@@ -1428,6 +1446,24 @@
       "duration_ms": 178000,
       "name": "Letting you Go",
       "url": "https://open.spotify.com/track/2ZEYGe4Cwp63NJK7GffB4Q"
+    },
+    {
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/67fKGoAizybPTMM2l27bpP"
+      },
+      "artists": [
+        {
+          "name": "Tankeflukt",
+          "url": "https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167260,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/4XOrreh4CufJwuUg3p7DuR"
     },
     {
       "album": {

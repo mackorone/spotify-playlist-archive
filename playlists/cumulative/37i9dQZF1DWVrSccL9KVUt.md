@@ -2,7 +2,7 @@
 
 ### [Women of Faith](https://open.spotify.com/playlist/37i9dQZF1DWVrSccL9KVUt)
 
-> Celebrating the women of all the genres of Christian & Gospel music!  Cover: Meagan Woods
+> Celebrating the women of all the genres of Christian & Gospel music!  Cover: Megan Woods
 
 277 songs - 19 hr 49 min
 

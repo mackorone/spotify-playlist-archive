@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 19992,
+  "num_followers": 20068,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAAABRoedpNQs0F9gBZKx12kF",
+  "snapshot_id": "aEYkAAAAAAB76ID1Yh1q0+sCBa/QNc1S",
   "tracks": [
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Liability",
+        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 257600,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/6hZwGfbZLn5i8VTPhw9nZw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Treat You Right",
         "url": "https://open.spotify.com/album/2NJdKzl6B6Vu2TP4YYugue"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 204000,
       "name": "Treat You Right",
       "url": "https://open.spotify.com/track/1FFsglwdgas5NKXkGioEcF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liability",
-        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 257600,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/6hZwGfbZLn5i8VTPhw9nZw"
     },
     {
       "added_at": null,

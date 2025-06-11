@@ -1,6 +1,6 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 61014,
+  "num_followers": 61011,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-06-01 16:00:24",
       "album": {
-        "name": "Youngblood",
-        "url": "https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 203417,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw"
-    },
-    {
-      "added_at": "2025-06-01 16:00:24",
-      "album": {
         "name": "The Jaws Of Life",
         "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 267800,
       "name": "Death Of An Executioner",
       "url": "https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp"
+    },
+    {
+      "added_at": "2025-06-01 16:00:24",
+      "album": {
+        "name": "Youngblood",
+        "url": "https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 203417,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw"
     },
     {
       "added_at": "2025-06-01 16:00:24",
@@ -531,18 +531,18 @@
     {
       "added_at": "2025-06-01 16:00:24",
       "album": {
-        "name": "Ballyhoo",
-        "url": "https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3"
+        "name": "Meteora 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 165974,
-      "name": "Ballyhoo",
-      "url": "https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ"
+      "duration_ms": 161000,
+      "name": "More the Victim",
+      "url": "https://open.spotify.com/track/50jyxHSIHAz7N5jIzODvs4"
     },
     {
       "added_at": "2025-06-01 16:00:24",
@@ -563,18 +563,18 @@
     {
       "added_at": "2025-06-01 16:00:24",
       "album": {
-        "name": "Meteora 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
+        "name": "Ballyhoo",
+        "url": "https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 161000,
-      "name": "More the Victim",
-      "url": "https://open.spotify.com/track/50jyxHSIHAz7N5jIzODvs4"
+      "duration_ms": 165974,
+      "name": "Ballyhoo",
+      "url": "https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ"
     },
     {
       "added_at": "2025-06-01 16:00:24",
@@ -611,6 +611,22 @@
     {
       "added_at": "2025-06-01 16:00:24",
       "album": {
+        "name": "Over Each Other",
+        "url": "https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 170445,
+      "name": "Over Each Other",
+      "url": "https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe"
+    },
+    {
+      "added_at": "2025-06-01 16:00:24",
+      "album": {
         "name": "Broken & Beautiful",
         "url": "https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 168554,
       "name": "Smash It Like Belushi",
       "url": "https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz"
-    },
-    {
-      "added_at": "2025-06-01 16:00:24",
-      "album": {
-        "name": "Over Each Other",
-        "url": "https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 170445,
-      "name": "Over Each Other",
-      "url": "https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe"
     },
     {
       "added_at": "2025-06-01 16:00:24",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-06-01 16:00:24",
       "album": {
-        "name": "safeword",
-        "url": "https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 133639,
-      "name": "safeword",
-      "url": "https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN"
-    },
-    {
-      "added_at": "2025-06-01 16:00:24",
-      "album": {
         "name": "Twisters: The Album",
         "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 152133,
       "name": "Dead End Road",
       "url": "https://open.spotify.com/track/1unTSILv272aGjufNBJjQj"
+    },
+    {
+      "added_at": "2025-06-01 16:00:24",
+      "album": {
+        "name": "safeword",
+        "url": "https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 133639,
+      "name": "safeword",
+      "url": "https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN"
     },
     {
       "added_at": "2025-06-01 16:00:24",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-06-01 16:00:24",
       "album": {
-        "name": "Enough Is Enough",
-        "url": "https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 169133,
-      "name": "Enough Is Enough",
-      "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
-    },
-    {
-      "added_at": "2025-06-01 16:00:24",
-      "album": {
         "name": "Remind Me",
         "url": "https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 211167,
       "name": "Remind Me",
       "url": "https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8"
+    },
+    {
+      "added_at": "2025-06-01 16:00:24",
+      "album": {
+        "name": "Enough Is Enough",
+        "url": "https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 169133,
+      "name": "Enough Is Enough",
+      "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
     },
     {
       "added_at": "2025-06-01 16:00:24",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-06-01 16:00:24",
       "album": {
-        "name": "Troubled Waters",
-        "url": "https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 197775,
-      "name": "Troubled Waters",
-      "url": "https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v"
-    },
-    {
-      "added_at": "2025-06-01 16:00:24",
-      "album": {
         "name": "Good Side",
         "url": "https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 164286,
       "name": "Good Side",
       "url": "https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv"
+    },
+    {
+      "added_at": "2025-06-01 16:00:24",
+      "album": {
+        "name": "Troubled Waters",
+        "url": "https://open.spotify.com/album/54V4i5OLHNmaiXIgK7urCp"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 197775,
+      "name": "Troubled Waters",
+      "url": "https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v"
     },
     {
       "added_at": "2025-06-01 16:00:24",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-06-01 16:00:24",
       "album": {
-        "name": "Irrelevant",
-        "url": "https://open.spotify.com/album/02wEEiMLBV64tAhyPCtD4J"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 232384,
-      "name": "Irrelevant",
-      "url": "https://open.spotify.com/track/5Oz15cyQP3TMDDXKWm4tYH"
-    },
-    {
-      "added_at": "2025-06-01 16:00:24",
-      "album": {
         "name": "can we start over?",
         "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
       },
@@ -1247,18 +1231,34 @@
     {
       "added_at": "2025-06-01 16:00:24",
       "album": {
-        "name": "Lighthouse",
-        "url": "https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S"
+        "name": "Irrelevant",
+        "url": "https://open.spotify.com/album/02wEEiMLBV64tAhyPCtD4J"
       },
       "artists": [
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         }
       ],
-      "duration_ms": 191963,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb"
+      "duration_ms": 232384,
+      "name": "Irrelevant",
+      "url": "https://open.spotify.com/track/5Oz15cyQP3TMDDXKWm4tYH"
+    },
+    {
+      "added_at": "2025-06-01 16:00:24",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/3b8s7uA0RjzJlP3WfIpdsa"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 201153,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT"
     }
   ],
   "unique_name": "\u5fc3\u60c5\u5927\u632f",

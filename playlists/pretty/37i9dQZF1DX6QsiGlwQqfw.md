@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 
 > Instrumentals from the North Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,279 likes - 50 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,295 likes - 50 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 | 22 | [Raga Tilak Kamod](https://open.spotify.com/track/0XZL66ITXbLl9CmXUb3Tw7) | [Gajanan Madhav Karnad](https://open.spotify.com/artist/6ATI0pyCp6Oso19MTG0PvL) | [How the River Ganges Flows: Sublime Masterpieces of Indian Violin, 1933\-1952](https://open.spotify.com/album/1hls0BSNqZ0iEVl8jyUi10) | 3:15 |
 | 23 | [Rachna Mishra Khamaj \(From "A Sublime Trance"\)](https://open.spotify.com/track/0qvkFBUyu1Ze5vCI5UJSSG) | [Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Indian Classical Instrumental \- Pandit Shiv Kumar Sharma Special](https://open.spotify.com/album/63P7cBmEFfK72zbWGZJFtQ) | 6:21 |
 | 24 | [Jugalbandi in Teen Taal](https://open.spotify.com/track/6KsPQBR6qHXn60g6VDP6Oi) | [Alla Rakha](https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Together](https://open.spotify.com/album/0Gjp6bjN1furRn7bHAIsdi) | 15:47 |
-| 25 | [Raga Gauti](https://open.spotify.com/track/3ZH2BZZ4x3vt3gSz7w96tZ) | [Vilayat Khan](https://open.spotify.com/artist/4Gypy00T57lgC7yWaGhNmS) | [Maestro's Choice \- Vilayet Khan](https://open.spotify.com/album/4i83PHlwgynhFALhCfWeef) | 10:55 |
-| 26 | [Raga Bhimpalasi \- Gat in Rupak Tala](https://open.spotify.com/track/4q5mY8KfJJNhJMIHzrPQd2) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Aditya Kalyanpur](https://open.spotify.com/artist/0dtEnezEiqvUrVCYxoniSZ) | [Melodies at Dusk](https://open.spotify.com/album/4w3dYv2g2MWQxNjaHXs69S) | 13:54 |
+| 25 | [Raga Bhimpalasi \- Gat in Rupak Tala](https://open.spotify.com/track/4q5mY8KfJJNhJMIHzrPQd2) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Aditya Kalyanpur](https://open.spotify.com/artist/0dtEnezEiqvUrVCYxoniSZ) | [Melodies at Dusk](https://open.spotify.com/album/4w3dYv2g2MWQxNjaHXs69S) | 13:54 |
+| 26 | [Raga Gauti](https://open.spotify.com/track/3ZH2BZZ4x3vt3gSz7w96tZ) | [Vilayat Khan](https://open.spotify.com/artist/4Gypy00T57lgC7yWaGhNmS) | [Maestro's Choice \- Vilayet Khan](https://open.spotify.com/album/4i83PHlwgynhFALhCfWeef) | 10:55 |
 | 27 | [Raga Hansadhwani](https://open.spotify.com/track/2w0uDN6Md0sDw3Tt44d1PY) | [Shahid Parvez](https://open.spotify.com/artist/4UzSI1MLxlF0T0QryIfgoh) | [Maestro's Choice](https://open.spotify.com/album/39jlxBdhC0zrBvh8WjSo8Y) | 14:40 |
 | 28 | [Rag Marwa, Part 2](https://open.spotify.com/track/6827uN6sw0pHEQe9R2Jzcm) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u) | [Signature Series, Vol\. 3](https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH) | 21:13 |
 | 29 | [Chandrakaush Alap](https://open.spotify.com/track/4hrp2BLqRV6XO2oOp5IVeY) | [Nikhil Banerjee](https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1) | [Chandrakaush Khamaj 1967](https://open.spotify.com/album/4fY7XyZhcMPXyqXo5FOkh7) | 20:24 |

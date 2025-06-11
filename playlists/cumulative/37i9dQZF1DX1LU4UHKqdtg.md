@@ -2,7 +2,7 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: MEOVV
+> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: LE SSERAFIM
 
 1,485 songs - 3 day 7 hr 4 min
 
@@ -698,7 +698,7 @@
 | [Like That](https://open.spotify.com/track/1sxNix9ZqNI50638iunh68) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [Like That](https://open.spotify.com/album/4SOTVJp2kAs4oZYCER8hYu) | 2:43 | 2024-04-12 | 2024-05-08 |
 | [LIKE U 100](https://open.spotify.com/track/25ujeTA1Ma2rYzxr7ozdrP) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Flowering](https://open.spotify.com/album/2UUsZyRmggGvLJTnp0ZKcE) | 2:46 | 2025-02-25 |  |
 | [Like Yesterday](https://open.spotify.com/track/5YTsiCrfRiIxxqUnpcqe39) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [Like Yesterday](https://open.spotify.com/album/4yaIevy3AvY5g1k7SkejSK) | 3:40 | 2024-10-21 | 2024-11-23 |
-| [Like You](https://open.spotify.com/track/1iBYMUTBFJDkAW8zQQWGNl) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Like You](https://open.spotify.com/album/7sb7JwqC9frJEdDinAVU0P) | 2:04 | 2025-05-13 |  |
+| [Like You](https://open.spotify.com/track/1iBYMUTBFJDkAW8zQQWGNl) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Like You](https://open.spotify.com/album/7sb7JwqC9frJEdDinAVU0P) | 2:04 | 2025-05-13 | 2025-06-11 |
 | [Lilith \(feat\. SUGA of BTS\) \(Diablo IV Anthem\)](https://open.spotify.com/track/3l6LBCOL9nPsSY29TUY2VE) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Lilith \(feat\. SUGA of BTS\) \(Diablo IV Anthem\)](https://open.spotify.com/album/3jN1Hlw2BsZZJigsA2kgBA) | 3:00 | 2023-06-06 | 2023-08-11 |
 | [Lime & Lemon](https://open.spotify.com/track/53Jy1OGka6wXUuE11Vj6jR) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Lime & Lemon](https://open.spotify.com/album/7c0C835UWVrAkQYjnBrwcT) | 3:08 | 2023-06-13 | 2023-08-01 |
 | [Lime & Lemon](https://open.spotify.com/track/0rkZ6uluEtLlYegJE9juej) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Lime & Lemon](https://open.spotify.com/album/1VeMx6yfm2e6nuemMfUuNF) | 3:10 | 2023-06-27 | 2023-07-12 |

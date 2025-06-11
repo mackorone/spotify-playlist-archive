@@ -856,7 +856,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 204000,
       "name": "A Ha",
       "url": "https://open.spotify.com/track/0DIxLj89tIXwRhP8EVsFgJ"
@@ -8058,7 +8058,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 276388,
       "name": "CH\u1edc NG\u00c0Y KH\u00d4NG N\u1eaeNG",
       "url": "https://open.spotify.com/track/3DMOeS29PgLdgaaybtU06E"
@@ -12639,6 +12639,28 @@
     },
     {
       "album": {
+        "name": "Em \u0110ang Y\u00eau Ai \u0110\u00f3",
+        "url": "https://open.spotify.com/album/76bRizUYyjsxjVYXecFrOa"
+      },
+      "artists": [
+        {
+          "name": "Han",
+          "url": "https://open.spotify.com/artist/6xI4HKNrfT3SBf8PSwGMFG"
+        },
+        {
+          "name": "BMZ",
+          "url": "https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173383,
+      "name": "Em \u0110ang Y\u00eau Ai \u0110\u00f3",
+      "url": "https://open.spotify.com/track/677TfyoOterQsgr5wo38r0"
+    },
+    {
+      "album": {
         "name": "Em \u0110i Theo T\u00f4i V\u1ec1 Nh\u00e0",
         "url": "https://open.spotify.com/album/31GQQ7Rxw5dQg3LRXJxoiN"
       },
@@ -15102,7 +15124,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 296274,
       "name": "Hoa L\u00e1 Thay L\u00f2ng",
       "url": "https://open.spotify.com/track/7lfLDclvqtfbaR503tuI75"
@@ -19314,7 +19336,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 268333,
       "name": "Li\u1ec7u R\u1eb1ng Ng\u01b0\u1eddi C\u00f2n \u1ede \u0110\u00f3",
       "url": "https://open.spotify.com/track/0rwPBjSx8jduCvKFpiH70d"
@@ -25122,6 +25144,28 @@
       "duration_ms": 164307,
       "name": "Nh\u00e2n Danh T\u00ecnh Y\u00eau",
       "url": "https://open.spotify.com/track/299ZggyOu3Udr4rgnmCifo"
+    },
+    {
+      "album": {
+        "name": "Nh\u00ecn",
+        "url": "https://open.spotify.com/album/6M1QRCMexLY5GrLB219N1G"
+      },
+      "artists": [
+        {
+          "name": "The Snagon",
+          "url": "https://open.spotify.com/artist/2zT6RN4MASXgt1rud2f27Q"
+        },
+        {
+          "name": "Trung Hi\u1ebfu",
+          "url": "https://open.spotify.com/artist/7yFVAuH07ZICCXnS1esZrE"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300015,
+      "name": "Nh\u00ecn",
+      "url": "https://open.spotify.com/track/56e49A30U9IrU16G6RfEhh"
     },
     {
       "album": {
@@ -37068,6 +37112,28 @@
       "duration_ms": 220806,
       "name": "V\u00e0 Em \u0110\u00e3 T\u1eebng Y\u00eau Anh Ch\u01b0a - Happilinez Remix",
       "url": "https://open.spotify.com/track/3S6OAFgAm7SPzqiOd6DcWF"
+    },
+    {
+      "album": {
+        "name": "V\u00e0i \u0110i\u1ec1u Mu\u1ed1n N\u00f3i",
+        "url": "https://open.spotify.com/album/6hB6SBABwsTTbVsTMXdL2E"
+      },
+      "artists": [
+        {
+          "name": "Hoang Dieuu",
+          "url": "https://open.spotify.com/artist/5iZ0xQzr42tm1fAqY9ach4"
+        },
+        {
+          "name": "BMZ",
+          "url": "https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216005,
+      "name": "V\u00e0i \u0110i\u1ec1u Mu\u1ed1n N\u00f3i",
+      "url": "https://open.spotify.com/track/2rNWLcddiSwJb6DWVNnmrt"
     },
     {
       "album": {

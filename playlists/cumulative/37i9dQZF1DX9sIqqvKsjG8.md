@@ -4,7 +4,7 @@
 
 > Soft and contemplative piano music to help you focus and chill.
 
-949 songs - 1 day 16 hr 33 min
+951 songs - 1 day 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Dunmore](https://open.spotify.com/track/7vYzWlDUalocUHnAlcSbUc) | [Calan McIntyre](https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz) | [Dunmore](https://open.spotify.com/album/66wulAfBtzKGoqbUPvYzuu) | 2:02 | 2021-12-07 | 2022-05-06 |
 | [Duomo di Milano](https://open.spotify.com/track/3mffU0czrRPDpfUeul2EcJ) | [Akiko Mina](https://open.spotify.com/artist/2wqjgcSh9MHmBAYXcR1tWn) | [Duomo di Milano](https://open.spotify.com/album/2aKUCrS9jMnOwTVINklBpY) | 3:07 | 2021-12-07 | 2022-06-08 |
 | [durch Nacht und Nebel](https://open.spotify.com/track/6ceKCk7fknQhCvYWtwAmlP) | [Arndt Goudier](https://open.spotify.com/artist/0adSRv2wPNTotg3FojDkzJ) | [Valle Halle](https://open.spotify.com/album/7sTnfKi8ZaEaG9LQRz1tFT) | 3:03 | 2021-12-07 | 2022-08-26 |
+| [Dust of Morning](https://open.spotify.com/track/43gMP9sW5ssRzGpL5Tf87M) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [Dust of Morning](https://open.spotify.com/album/1qt2UUl2UyWtlfNFkXs9QP) | 2:16 | 2025-06-10 |  |
 | [Délise](https://open.spotify.com/track/7sTIuY89Vgtb67PdM1awJK) | [Raffaello Sorrento](https://open.spotify.com/artist/7nhYjVhwKCoj5Sc6CrcNYl) | [Délise](https://open.spotify.com/album/52Wm8XO82x6UKyAmIVQIDQ) | 2:05 | 2024-05-07 |  |
 | [Early Memories](https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Early Memories](https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g) | 2:33 | 2022-02-14 | 2023-10-07 |
 | [Ebbe](https://open.spotify.com/track/2tMAQUBzGA8VqP8sLJvkdS) | [Kia Leonharts](https://open.spotify.com/artist/6EEGgdrklC8HMkuZRXkfTx) | [Ebbe](https://open.spotify.com/album/3ZP0FpVQ6OAJM2Gns4lfOE) | 2:43 | 2021-12-07 | 2022-06-08 |
@@ -357,6 +358,7 @@
 | [Husk](https://open.spotify.com/track/31wi1LOTXtipf1NXgJv50H) | [Tamara Eden](https://open.spotify.com/artist/4bRMSKrWQRQXELuI73lXLD) | [Husk](https://open.spotify.com/album/0MgDHH3pv3BuTUNWH1NExE) | 3:10 | 2023-04-25 | 2024-12-12 |
 | [Hymn for Archimedes](https://open.spotify.com/track/64mtjDgjo03VB8NC4Uf9vX) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Hymn for Archimedes](https://open.spotify.com/album/41QM1uQUiU5UWkUuIaMjyR) | 3:38 | 2021-12-07 | 2022-11-25 |
 | [I Can't Meet U](https://open.spotify.com/track/0Iygz7s7yEU8RBvFmfFRKW) | [Anna Goya](https://open.spotify.com/artist/3T6VP5tdYDJR2H9sc62fMW) | [I Can't Meet U](https://open.spotify.com/album/26rZqvlW6EAdOs8hFsRS67) | 2:48 | 2021-12-07 | 2022-05-06 |
+| [I Dreamed of You](https://open.spotify.com/track/3q5PzPbD5IDrAd3GYmyXvY) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [I Dreamed of You](https://open.spotify.com/album/6TCwLDqzhLtvdl57BZzH1C) | 2:42 | 2025-06-10 |  |
 | [I Know Him](https://open.spotify.com/track/4CeTYj1jcn4wVhh7HOHfeM) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [I Know Him](https://open.spotify.com/album/54o66y7C616cYs13urOgYx) | 2:37 | 2021-12-07 | 2022-03-17 |
 | [I Was Thinking](https://open.spotify.com/track/6nhqhyy74vnNf0Sg66Sdkf) | [Marcia Barlow](https://open.spotify.com/artist/45yDipnbqgnHXHKXdx290U) | [I Was Thinking](https://open.spotify.com/album/5CAT5ZnVtK4zp2XpBVVo5i) | 2:27 | 2021-12-07 | 2023-04-26 |
 | [If The Wind Stops \- Calm Version](https://open.spotify.com/track/1IftqSqlnSXAHG6Vahrsuj) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Pianissimo](https://open.spotify.com/album/7vBWI0VTZ4NPylawx1Eng2) | 4:04 | 2023-08-21 | 2025-05-14 |

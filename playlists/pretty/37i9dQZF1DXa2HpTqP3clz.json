@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Rhiannon Giddens & Justin Robinson",
-  "num_followers": 166199,
+  "num_followers": 166207,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "The New Modern Hymns",
-        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
-      },
-      "artists": [
-        {
-          "name": "Darrell Scott",
-          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
-        }
-      ],
-      "duration_ms": 226901,
-      "name": "American Tune",
-      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Crooked Tree",
         "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 196677,
       "name": "Castilleja",
       "url": "https://open.spotify.com/track/7GVZVkfQtr01rzG3D5z0c2"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "The New Modern Hymns",
+        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
+      },
+      "artists": [
+        {
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+        }
+      ],
+      "duration_ms": 226901,
+      "name": "American Tune",
+      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
+        "name": "Runnin' from the Weather",
+        "url": "https://open.spotify.com/album/5xXWvwOfvFnvwcgQwZmWEk"
+      },
+      "artists": [
+        {
+          "name": "Larry & Joe",
+          "url": "https://open.spotify.com/artist/3rnapzAMNCrWgCU45Zgnwj"
+        },
+        {
+          "name": "Sophie Wellington",
+          "url": "https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Runnin' from the Weather",
+      "url": "https://open.spotify.com/track/35OzicAta0YmBkeB7olWB8"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
         "name": "Living In A Song",
         "url": "https://open.spotify.com/album/6OBDoOanDakhw9QyyB5wau"
       },
@@ -1103,26 +1123,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Runnin' from the Weather",
-        "url": "https://open.spotify.com/album/5xXWvwOfvFnvwcgQwZmWEk"
-      },
-      "artists": [
-        {
-          "name": "Larry & Joe",
-          "url": "https://open.spotify.com/artist/3rnapzAMNCrWgCU45Zgnwj"
-        },
-        {
-          "name": "Sophie Wellington",
-          "url": "https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Runnin' from the Weather",
-      "url": "https://open.spotify.com/track/35OzicAta0YmBkeB7olWB8"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Down the Road",
         "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
       },
@@ -1135,22 +1135,6 @@
       "duration_ms": 195573,
       "name": "Down the Road",
       "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
-        "name": "No Matter Where It Goes from Here",
-        "url": "https://open.spotify.com/album/6ufi2rWxnAnHf103FKlZl5"
-      },
-      "artists": [
-        {
-          "name": "Wood & Wire",
-          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "My Hometown",
-      "url": "https://open.spotify.com/track/4VHUkYbYdbmqNEK3REHZeN"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1171,6 +1155,22 @@
       "duration_ms": 254316,
       "name": "Into the Wild",
       "url": "https://open.spotify.com/track/3N5uxXspMxRD6q1k0G0NwW"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "No Matter Where It Goes from Here",
+        "url": "https://open.spotify.com/album/6ufi2rWxnAnHf103FKlZl5"
+      },
+      "artists": [
+        {
+          "name": "Wood & Wire",
+          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "My Hometown",
+      "url": "https://open.spotify.com/track/4VHUkYbYdbmqNEK3REHZeN"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1291,18 +1291,22 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Looking Past the Pain (The Cowboy Song)",
-        "url": "https://open.spotify.com/album/5Im9SOujSPyg7XAWUvQShY"
+        "name": "Vol. II",
+        "url": "https://open.spotify.com/album/67FkMHssT1EBNS6KzZTGoY"
       },
       "artists": [
         {
-          "name": "Seth Mulder & Midnight Run",
-          "url": "https://open.spotify.com/artist/6evegGCBbWtKn22mb9NcBp"
+          "name": "Watkins Family Hour",
+          "url": "https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj"
+        },
+        {
+          "name": "Willie Watson",
+          "url": "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq"
         }
       ],
-      "duration_ms": 237905,
-      "name": "Looking Past the Pain (The Cowboy Song)",
-      "url": "https://open.spotify.com/track/09hTpfs6vZuYzKQ9vT8DP6"
+      "duration_ms": 205933,
+      "name": "She Left Me Standing on the Mountain",
+      "url": "https://open.spotify.com/track/7JPuc4cWW62fMpL4iRldWY"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1355,6 +1359,22 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
+        "name": "Looking Past the Pain (The Cowboy Song)",
+        "url": "https://open.spotify.com/album/5Im9SOujSPyg7XAWUvQShY"
+      },
+      "artists": [
+        {
+          "name": "Seth Mulder & Midnight Run",
+          "url": "https://open.spotify.com/artist/6evegGCBbWtKn22mb9NcBp"
+        }
+      ],
+      "duration_ms": 237905,
+      "name": "Looking Past the Pain (The Cowboy Song)",
+      "url": "https://open.spotify.com/track/09hTpfs6vZuYzKQ9vT8DP6"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 216950,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
-        "name": "Vol. II",
-        "url": "https://open.spotify.com/album/67FkMHssT1EBNS6KzZTGoY"
-      },
-      "artists": [
-        {
-          "name": "Watkins Family Hour",
-          "url": "https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj"
-        },
-        {
-          "name": "Willie Watson",
-          "url": "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "She Left Me Standing on the Mountain",
-      "url": "https://open.spotify.com/track/7JPuc4cWW62fMpL4iRldWY"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "This Sad Song (Single Version) [Live]",
-        "url": "https://open.spotify.com/album/7iSdWGN9Q4U6zKeGDM9XuJ"
-      },
-      "artists": [
-        {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
-        }
-      ],
-      "duration_ms": 138534,
-      "name": "This Sad Song (Single Version) [Live]",
-      "url": "https://open.spotify.com/track/6YKGPjcii1mJRMaY1hWFGh"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "My Little Girl in Tennessee (Live)",
         "url": "https://open.spotify.com/album/2KCEPrxG000PkTJy4GyUs5"
       },
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Big City",
-        "url": "https://open.spotify.com/album/1I8mPtZ8MM6o5SxCCwmsNa"
+        "name": "This Sad Song (Single Version) [Live]",
+        "url": "https://open.spotify.com/album/7iSdWGN9Q4U6zKeGDM9XuJ"
       },
       "artists": [
         {
-          "name": "Joe Mullins & The Radio Ramblers",
-          "url": "https://open.spotify.com/artist/1nlVHZslyaaNB0p5SUJe17"
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
         }
       ],
-      "duration_ms": 171055,
-      "name": "Big City",
-      "url": "https://open.spotify.com/track/7hOFKZLEODrvpfqmrFJSAK"
+      "duration_ms": 138534,
+      "name": "This Sad Song (Single Version) [Live]",
+      "url": "https://open.spotify.com/track/6YKGPjcii1mJRMaY1hWFGh"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1495,22 +1479,18 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Mr. Charlie",
-        "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
+        "name": "Big City",
+        "url": "https://open.spotify.com/album/1I8mPtZ8MM6o5SxCCwmsNa"
       },
       "artists": [
         {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
-        },
-        {
-          "name": "Josh Shilling",
-          "url": "https://open.spotify.com/artist/2aaOHInTP3KKRiOdfl0TiE"
+          "name": "Joe Mullins & The Radio Ramblers",
+          "url": "https://open.spotify.com/artist/1nlVHZslyaaNB0p5SUJe17"
         }
       ],
-      "duration_ms": 273627,
-      "name": "Mr. Charlie",
-      "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
+      "duration_ms": 171055,
+      "name": "Big City",
+      "url": "https://open.spotify.com/track/7hOFKZLEODrvpfqmrFJSAK"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1527,6 +1507,26 @@
       "duration_ms": 195000,
       "name": "Georgia Rain",
       "url": "https://open.spotify.com/track/6kM1cbK4b9MPzIDKvzXJHu"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Mr. Charlie",
+        "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        },
+        {
+          "name": "Josh Shilling",
+          "url": "https://open.spotify.com/artist/2aaOHInTP3KKRiOdfl0TiE"
+        }
+      ],
+      "duration_ms": 273627,
+      "name": "Mr. Charlie",
+      "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Bury Me Beneath the Willow",
-        "url": "https://open.spotify.com/album/7udN0NdG7MCc8j5ud1XDt5"
-      },
-      "artists": [
-        {
-          "name": "Tony Trischka",
-          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
-        },
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 238157,
-      "name": "Bury Me Beneath the Willow",
-      "url": "https://open.spotify.com/track/0wVkYqvTSittO0HGc3EUCF"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "These Ole Blues",
         "url": "https://open.spotify.com/album/7pOUqo4VhWgWlHCGCzGoaS"
       },
@@ -1719,6 +1699,26 @@
       "duration_ms": 255178,
       "name": "These Ole Blues",
       "url": "https://open.spotify.com/track/7v773znNvjE1Gx6cIgcmYA"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Bury Me Beneath the Willow",
+        "url": "https://open.spotify.com/album/7udN0NdG7MCc8j5ud1XDt5"
+      },
+      "artists": [
+        {
+          "name": "Tony Trischka",
+          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 238157,
+      "name": "Bury Me Beneath the Willow",
+      "url": "https://open.spotify.com/track/0wVkYqvTSittO0HGc3EUCF"
     },
     {
       "added_at": "2025-06-06 04:00:14",

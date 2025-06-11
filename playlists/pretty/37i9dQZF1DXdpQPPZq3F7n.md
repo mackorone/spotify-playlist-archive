@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,603,535 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,603,897 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tum Kya Mile \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/track/06LCamFUOtImIKi9mFRKiD) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tum Kya Mile \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/album/5FtQVEQsWzRcpqh820ZoII) | 4:37 |
-| 2 | [Maiyya Mainu](https://open.spotify.com/track/3ygfdwvBJ2Y5XhJiiHFFZE) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG) | [Jersey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1FrTddcjO9PzPaJX7SkQEC) | 3:51 |
+| 2 | [Maiyya Mainu](https://open.spotify.com/track/3ygfdwvBJ2Y5XhJiiHFFZE) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Shellee](https://open.spotify.com/artist/5DJ2ZMr3PC7eTtYAZLOP4n) | [Jersey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1FrTddcjO9PzPaJX7SkQEC) | 3:51 |
 | 3 | [Qaafirana](https://open.spotify.com/track/7BCp5hEiiDSmXsxsXkvYff) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Kedarnath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm) | 5:41 |
 | 4 | [Hasi \- Male Version](https://open.spotify.com/track/32765xcLM1fd6wQIpkN9A0) | [Ami Mishra](https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Hamari Adhuri Kahani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7sVzilmsqYcLMYw2gtvoZM) | 4:32 |
 | 5 | [Dhoonde Akhiyaan \- From "Jabariya Jodi"](https://open.spotify.com/track/6pXp6OFlxrA0FJyzNw4QID) | [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Dhoonde Akhiyaan \(From "Jabariya Jodi"\)](https://open.spotify.com/album/2VzVxHsEdLE6u6wbXpP0iN) | 4:35 |

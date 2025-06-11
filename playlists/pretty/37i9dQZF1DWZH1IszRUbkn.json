@@ -1,6 +1,6 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 1596,
+  "num_followers": 1597,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
@@ -503,18 +503,22 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Yo Soy Franky (M\u00fasica Original de la Serie)",
-        "url": "https://open.spotify.com/album/4b1h8Ne7RKTyIpQ9WfWm8F"
+        "name": "Mejores Amigos",
+        "url": "https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl"
       },
       "artists": [
         {
-          "name": "Maria Gabriela de Faria",
-          "url": "https://open.spotify.com/artist/7LpAjUpIbi5plngbkXLiKv"
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        },
+        {
+          "name": "Cepillin",
+          "url": "https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ"
         }
       ],
-      "duration_ms": 193109,
-      "name": "Ritmo Rob\u00f3tico",
-      "url": "https://open.spotify.com/track/4zywwK3a4ATbKfHQX1dMdV"
+      "duration_ms": 185640,
+      "name": "La Feria de Cepill\u00edn",
+      "url": "https://open.spotify.com/track/6ixbJ6uzpbNdg8SmdMnczD"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -555,22 +559,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Mejores Amigos",
-        "url": "https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl"
+        "name": "Yo Soy Franky (M\u00fasica Original de la Serie)",
+        "url": "https://open.spotify.com/album/4b1h8Ne7RKTyIpQ9WfWm8F"
       },
       "artists": [
         {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        },
-        {
-          "name": "Cepillin",
-          "url": "https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ"
+          "name": "Maria Gabriela de Faria",
+          "url": "https://open.spotify.com/artist/7LpAjUpIbi5plngbkXLiKv"
         }
       ],
-      "duration_ms": 185640,
-      "name": "La Feria de Cepill\u00edn",
-      "url": "https://open.spotify.com/track/6ixbJ6uzpbNdg8SmdMnczD"
+      "duration_ms": 193109,
+      "name": "Ritmo Rob\u00f3tico",
+      "url": "https://open.spotify.com/track/4zywwK3a4ATbKfHQX1dMdV"
     },
     {
       "added_at": "2020-04-27 15:43:16",

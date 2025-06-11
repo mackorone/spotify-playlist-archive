@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAAA1Qaasuli1SyR69yVnX6iT",
+  "snapshot_id": "aEYkAAAAAAAehpN6Dc14rzRMTMFhAsOc",
   "tracks": [
     {
       "added_at": null,
@@ -909,7 +909,7 @@
         },
         {
           "name": "Nath Fischer",
-          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
+          "url": "https://open.spotify.com/artist/76cadDGwcJerxd4gl7NaHp"
         }
       ],
       "duration_ms": 218181,
@@ -1267,26 +1267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No meu Flat",
-        "url": "https://open.spotify.com/album/2lc9wdanTUu4UVvkaFacFt"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6M4I5fzROAwy9WcsnvLVxa"
-        }
-      ],
-      "duration_ms": 242285,
-      "name": "No meu Flat",
-      "url": "https://open.spotify.com/track/0bwPnwCSM3txTCxdmMQ3ay"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tipo Trem Bala",
         "url": "https://open.spotify.com/album/05Dcxnk5vJMRCciw18U0Qc"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 163278,
       "name": "A Firma \u00e9 Forte",
       "url": "https://open.spotify.com/track/2hXPKwtp3D4LJl29MalPMh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No meu Flat",
+        "url": "https://open.spotify.com/album/2lc9wdanTUu4UVvkaFacFt"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6M4I5fzROAwy9WcsnvLVxa"
+        }
+      ],
+      "duration_ms": 242285,
+      "name": "No meu Flat",
+      "url": "https://open.spotify.com/track/0bwPnwCSM3txTCxdmMQ3ay"
     },
     {
       "added_at": null,

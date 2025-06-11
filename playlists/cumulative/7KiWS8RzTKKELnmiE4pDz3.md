@@ -4,7 +4,7 @@
 
 > 
 
-1,051 songs - 2 day 4 hr 30 min
+1,053 songs - 2 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -674,6 +674,7 @@
 | [ONE WATCH \(feat\. Young Thug\)](https://open.spotify.com/track/60XGm1Hmyx7UliCAYjiCd8) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 3:55 | 2023-12-12 | 2025-05-21 |
 | [One Way!](https://open.spotify.com/track/2659CRCrqaXCaYBMtKrdYi) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [One Way!](https://open.spotify.com/album/6hVJx6AudFaeCyHCECXHcy) | 2:46 | 2022-09-04 | 2023-04-12 |
 | [Only A Fool Would Say That](https://open.spotify.com/track/7GVvj4zJNVuBJSl6StEfn5) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p) | 2:55 | 2025-06-02 |  |
+| [Only Acting](https://open.spotify.com/track/3JqzejMCeM5o79cQy6HC3a) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Only Acting](https://open.spotify.com/album/6QCE2058ztBYq8YouZJs2S) | 3:49 | 2025-06-10 |  |
 | [OnMyList](https://open.spotify.com/track/6AQzASAlkQfTGOuoGKpSEf) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [OnMyList](https://open.spotify.com/album/2Vpbvodjmuf7fRnfAnbUNA) | 1:57 | 2023-01-04 | 2023-05-09 |
 | [Oooooh \(feat\. Young Scooter\)](https://open.spotify.com/track/5FMH3g2VYH4manoJWEDhUk) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Beast Mode](https://open.spotify.com/album/02Mp4Q83TVhpe8VeCpMZjZ) | 3:09 | 2024-12-03 |  |
 | [OPM BABI](https://open.spotify.com/track/76yJsfb1CUy5Um8nFL7jKQ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:53 | 2025-06-01 |  |
@@ -1056,6 +1057,7 @@
 | [Yacht](https://open.spotify.com/track/4BHwo6sEEYjtZyopn04gEJ) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Five Forever](https://open.spotify.com/album/0zBzGId66SwQWCsPJgNLY1) | 2:33 | 2025-05-31 |  |
 | [You > Them \(Hate It!\)](https://open.spotify.com/track/3XwNEmdMEmjf9CkZrDBpM9) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [You > Them \(Hate It!\)](https://open.spotify.com/album/1t3gqZG4owzK59lurQyRjl) | 2:15 | 2022-12-07 | 2024-04-24 |
 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 | 2025-05-01 |  |
+| [You Know How It Is](https://open.spotify.com/track/2rj5XqPLceqhzK65BMdpu6) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [TOTEP](https://open.spotify.com/album/1JRe4BK6irt43VvOESllLv) | 2:14 | 2025-06-10 |  |
 | [Zaza \(feat\. Future\)](https://open.spotify.com/track/3j1WBK1zvZd0oosBisQoOp) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Trapped On Cleveland 3](https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM) | 3:41 | 2023-12-27 | 2024-03-05 |
 | [Zero to 250](https://open.spotify.com/track/3uiG40OLahrpwMK1a7CuWa) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [The Leek \(Vol\. 7\)](https://open.spotify.com/album/2r8xWIxgtcUjqGlxpDOQX6) | 3:27 | 2025-04-16 |  |
 | [Zodiac](https://open.spotify.com/track/0jue0zxb5P4u3k55sFiuBK) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Zodiac](https://open.spotify.com/album/7fK0Qd0BFVuJx1OQ1UIM2k) | 2:51 | 2025-02-24 |  |

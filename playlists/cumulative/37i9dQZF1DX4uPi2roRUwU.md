@@ -4,7 +4,7 @@
 
 > Diese Beats machen garantiert gute Laune!
 
-180 songs - 8 hr 24 min
+181 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [All You Need Is Love](https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [All You Need Is Love](https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe) | 2:19 | 2023-09-01 | 2024-05-29 |
 | [Alors On Danse \- DubDogz Remix](https://open.spotify.com/track/19eIZmuXlBmLTha1lPHef7) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Alors On Danse \(DubDogz Remix\)](https://open.spotify.com/album/1hOCJ4eNjtYKIH9ZmNGc8p) | 2:48 | 2024-12-09 |  |
 | [Alright \(feat\. KIDDO\)](https://open.spotify.com/track/1vUOJpWc091SBYULNvz9mp) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Alright \(feat\. KIDDO\)](https://open.spotify.com/album/0Nn6sMoZFBIUIsy8fpILrI) | 2:49 | 2023-09-01 | 2024-10-11 |
-| [Angel of Mine](https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Angel of Mine](https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf) | 2:42 | 2025-02-06 |  |
+| [Angel of Mine](https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Angel of Mine](https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf) | 2:42 | 2025-02-06 | 2025-06-11 |
 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 | 2024-08-22 |  |
 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 | 2025-05-28 |  |
 | [Atlantis](https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Atlantis](https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr) | 2:16 | 2024-02-09 | 2024-02-12 |
@@ -137,6 +137,7 @@
 | [Safe and Sound \- Niklas Dee & Luca\-Dante Spadafora Remix](https://open.spotify.com/track/2wBknFtpATOG4LDG3BzIzI) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [Safe and Sound \(Niklas Dee & Luca\-Dante Spadafora Remix\)](https://open.spotify.com/album/0B7sAo6TCAyMhwQGTtU2FK) | 2:31 | 2024-04-04 | 2024-07-04 |
 | [Saturday/Sunday](https://open.spotify.com/track/2tX3PY8eP3h9XaBcLXuRBa) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Saturday/Sunday](https://open.spotify.com/album/5mhEZOho91w4yYgkOTHdas) | 2:46 | 2023-09-01 | 2024-02-10 |
 | [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 | 2023-09-01 | 2024-08-23 |
+| [Save My Love \(with Ellie Goulding & AVAION\)](https://open.spotify.com/track/4w3Uy4n1hfj1mx6ag7bII5) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Save My Love \(with Ellie Goulding & AVAION\)](https://open.spotify.com/album/3KFX6b8uxX8cORnXbSiC18) | 3:35 | 2025-06-09 |  |
 | [Say My Name \- Remix](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Say My Name \(Remix\)](https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk) | 2:48 | 2024-12-16 |  |
 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2023-09-01 | 2023-10-28 |
 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 | 2024-06-17 | 2024-08-23 |

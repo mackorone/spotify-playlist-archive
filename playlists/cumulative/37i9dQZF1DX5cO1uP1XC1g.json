@@ -4151,6 +4151,28 @@
     },
     {
       "album": {
+        "name": "Maleket Gamal El Kon",
+        "url": "https://open.spotify.com/album/2o3FieURTMsE0wPBPqFogl"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        },
+        {
+          "name": "AL SHAMI",
+          "url": "https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173207,
+      "name": "Maleket Gamal El Kon",
+      "url": "https://open.spotify.com/track/2UaswhFiFjhWfIBpiVSfEt"
+    },
+    {
+      "album": {
         "name": "Malna haka ?",
         "url": "https://open.spotify.com/album/3kVqflkL3lAXJDjBhuYa7n"
       },
@@ -5436,7 +5458,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 161506,
       "name": "Tek Tek (feat. MHD)",
       "url": "https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1"

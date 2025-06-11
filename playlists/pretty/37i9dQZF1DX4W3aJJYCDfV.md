@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Sabrina Carpenter, Ed Sheeran, Little Simz and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 905,695 likes - 118 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 905,745 likes - 118 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 98 | [BOY JOY!](https://open.spotify.com/track/6HhUHJVzf5grHxJyhATlPp) | [charlieeeee](https://open.spotify.com/artist/06a7x2F8Yi3TARax1iFKIp) | [BOY JOY!](https://open.spotify.com/album/31i0cwfhs5bHm1EATRdWs2) | 3:03 |
 | 99 | [Bitter Seeds](https://open.spotify.com/track/7MOoiJGuFT3EDpWzClCVXJ) | [LASTELLE](https://open.spotify.com/artist/2BB6OyMcGIRSwJQfsmpjKJ) | [Bitter Seeds](https://open.spotify.com/album/32K5uCnkgj4RGRNo5mDOkB) | 4:31 |
 | 100 | [haha](https://open.spotify.com/track/3vKAnMOGw7ys5fKxxSMBu3) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [haha](https://open.spotify.com/album/2RSOqEmQIEq3rWzHhW9h3b) | 2:01 |
-| 101 | [It's Late](https://open.spotify.com/track/1qAM1GgubEOlnFe1bZn1Iq) | [Levi Heron](https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP), [Trevor Reilly](https://open.spotify.com/artist/3ADvMKlRP2jEmuttsn31oT) | [It's Late](https://open.spotify.com/album/64ndvkdBfViyRCuyOlh8yD) | 3:57 |
-| 102 | [Shotta \(Edit\)](https://open.spotify.com/track/1E784RkpdFzlLw3STu4R2v) | [REESE](https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Shotta \(Edit\)](https://open.spotify.com/album/0g9r7crKzpE98Leoc0uR77) | 2:30 |
+| 101 | [It's Late](https://open.spotify.com/track/1qAM1GgubEOlnFe1bZn1Iq) | [Levi Heron](https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP) | [It's Late](https://open.spotify.com/album/64ndvkdBfViyRCuyOlh8yD) | 3:57 |
+| 102 | [Shotta](https://open.spotify.com/track/1E784RkpdFzlLw3STu4R2v) | [REESE](https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Shotta](https://open.spotify.com/album/0g9r7crKzpE98Leoc0uR77) | 2:30 |
 | 103 | [Broken Record](https://open.spotify.com/track/3rK328kNdfyU4pICIPSopA) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Broken Record](https://open.spotify.com/album/7HpmGgVcO09i1LMAqMbFbd) | 3:05 |
 | 104 | [Air Mile Gang](https://open.spotify.com/track/504bLu9MuJEBD9t7aWn9FD) | [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx), [Ayo Beatz](https://open.spotify.com/artist/7nfHGYGlZKXrD9lTmll6Ut) | [Air Mile Gang](https://open.spotify.com/album/4e9qWnuHFyViy0aypAMDFv) | 2:31 |
 | 105 | [Piece Of My Soul](https://open.spotify.com/track/3ECemWbXbG8XAuuI8M2Eft) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Piece Of My Soul](https://open.spotify.com/album/61JOQRSDrDZhtSAUxFhQso) | 2:42 |

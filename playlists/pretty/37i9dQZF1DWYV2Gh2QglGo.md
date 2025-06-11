@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Josh Ross and Canadian country music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,909 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,912 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 49 | [Worth The Double](https://open.spotify.com/track/32u476jmlwUrcHKxEyIvdy) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Worth The Double](https://open.spotify.com/album/5K1tVgF54JxYcCx4ZMII1d) | 2:51 |
 | 50 | [Never Not Care](https://open.spotify.com/track/76QLV6Eu2S375hXioGynF5) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Never Not Care](https://open.spotify.com/album/3rpA5VLqSQ1WfrDt050OZv) | 2:35 |
 
-Snapshot ID: `aEJpoQAAAACo4svbhJKU4KqeZ0C9mtWy`
+Snapshot ID: `AAAAAAPgKMfjvZICkEqbBrr1khfDjWq1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358 likes - 165 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 359 likes - 165 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 22 | [happiness](https://open.spotify.com/track/4hMcb6afvdD4zdPhGSJkxX) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/3viPcBAym7FXyZWuvTM5T7) | 3:16 |
 | 23 | [Nightstand](https://open.spotify.com/track/54XN8ydl4ZaUnwr7tBq0JP) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Nightstand](https://open.spotify.com/album/306N9U0AKgh5y5ZZTUbUw5) | 2:41 |
 | 24 | [Cotton Candy Lemonade](https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Cotton Candy Lemonade](https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ) | 2:26 |
-| 25 | [Buttered Up](https://open.spotify.com/track/1Uue730zlycJb8dN6n6PHz) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Sensational](https://open.spotify.com/album/6xd9phTkcEIsi1JWhbxZM3) | 2:50 |
-| 26 | [ur special to me](https://open.spotify.com/track/2rYXXYRrP3qOOPkUsUTsal) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 1:54 |
+| 25 | [ur special to me](https://open.spotify.com/track/2rYXXYRrP3qOOPkUsUTsal) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 1:54 |
+| 26 | [Buttered Up](https://open.spotify.com/track/1Uue730zlycJb8dN6n6PHz) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Sensational](https://open.spotify.com/album/6xd9phTkcEIsi1JWhbxZM3) | 2:50 |
 | 27 | [Cool Kids](https://open.spotify.com/track/3zBBmQa8L6gCCT8OdptVOi) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Cool Kids](https://open.spotify.com/album/1MsuHTwmnG7Wn2ZQcMp4Uv) | 2:12 |
 | 28 | [You Feel Like](https://open.spotify.com/track/1sa6exP6ZJyABlnh1BqB0n) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [You Feel Like](https://open.spotify.com/album/3iIBzlYmVim0NepaUlu9yS) | 3:15 |
 | 29 | [California](https://open.spotify.com/track/1SVbYemhVlCGnpxUF3gyLH) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:52 |
@@ -86,13 +86,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 76 | [i drive me mad \- Mike Shinoda Mix](https://open.spotify.com/track/0DplYafqAQYY1fcx3XY3hv) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [i drive me mad \(Mike Shinoda Mix\)](https://open.spotify.com/album/74eZ7jc74TkCSI8esb81xd) | 2:48 |
 | 77 | [Be Alright](https://open.spotify.com/track/2CgSu8P3ZAw7qdzfOl0Cyb) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Be Alright // U Sometimes](https://open.spotify.com/album/2l9hUZ6VOlwDim9igWpiK5) | 2:36 |
 | 78 | [Awesome](https://open.spotify.com/track/0L53Abm07SniogTRH1CoqC) | [Dylan Rockoff](https://open.spotify.com/artist/2L2hppNg0A5WfGJTChIJL5) | [Semicolon & Parentheses \(Deluxe\)](https://open.spotify.com/album/42BA8ADEXyNS7spQ1fH8KS) | 2:56 |
-| 79 | [All Because of You](https://open.spotify.com/track/12vl4hGCWCw2JR36kj7rrk) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:33 |
-| 80 | [THE FLOOR IS LAVA!!](https://open.spotify.com/track/7H45IsekLH01EQ4rY1bng8) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [THE FLOOR IS LAVA!!](https://open.spotify.com/album/02cUgScRSAqfbFp6UHKXmh) | 2:45 |
-| 81 | [Brown Eyed Baby](https://open.spotify.com/track/4z0DCTfwCBX4kCzW2pruYb) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Brown Eyed Baby](https://open.spotify.com/album/7HPFvEwNsmy5eXxxY2m2uP) | 3:02 |
+| 79 | [Brown Eyed Baby](https://open.spotify.com/track/4z0DCTfwCBX4kCzW2pruYb) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Brown Eyed Baby](https://open.spotify.com/album/7HPFvEwNsmy5eXxxY2m2uP) | 3:02 |
+| 80 | [All Because of You](https://open.spotify.com/track/12vl4hGCWCw2JR36kj7rrk) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:33 |
+| 81 | [THE FLOOR IS LAVA!!](https://open.spotify.com/track/7H45IsekLH01EQ4rY1bng8) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [THE FLOOR IS LAVA!!](https://open.spotify.com/album/02cUgScRSAqfbFp6UHKXmh) | 2:45 |
 | 82 | [Manners](https://open.spotify.com/track/4EaISYr58EZ2YzBi3WRLxG) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Manners](https://open.spotify.com/album/0ZP6B7PFgIorIya2y5bwQY) | 3:06 |
 | 83 | [Dead Inside](https://open.spotify.com/track/6Sjmx09ykOw95BvbbGH0cY) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Dead Inside](https://open.spotify.com/album/1VevxxrVO5mBQFuw1s89xt) | 1:55 |
-| 84 | [Sober Up](https://open.spotify.com/track/2toGngwDUb3uo2reQ9dOGS) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Quinn XCII Presents: Mustard Mike's Breakfast, Lunch, and Dinner](https://open.spotify.com/album/2rS2er7DfZlkvCEOvcJies) | 2:49 |
-| 85 | [Flyover State](https://open.spotify.com/track/2ZxUgGgTOUM1izQUSQ6Ui1) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Flyover State](https://open.spotify.com/album/03T3cRxwnKsDtOeHZ4K5EG) | 3:15 |
+| 84 | [Flyover State](https://open.spotify.com/track/2ZxUgGgTOUM1izQUSQ6Ui1) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Flyover State](https://open.spotify.com/album/03T3cRxwnKsDtOeHZ4K5EG) | 3:15 |
+| 85 | [Sober Up](https://open.spotify.com/track/2toGngwDUb3uo2reQ9dOGS) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Quinn XCII Presents: Mustard Mike's Breakfast, Lunch, and Dinner](https://open.spotify.com/album/2rS2er7DfZlkvCEOvcJies) | 2:49 |
 | 86 | [Trading Places](https://open.spotify.com/track/7w32L6hgnvFY53No8A3Vlg) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Chapter 2](https://open.spotify.com/album/3N5XKeovbZHLKdeORgHEJ1) | 3:43 |
 | 87 | [Guidelines](https://open.spotify.com/track/0uJ8jnAFiiMOBsZcDQC9sn) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Guidelines](https://open.spotify.com/album/3uWRX7uAwJcolHlUW2Fr3O) | 2:34 |
 | 88 | [Heaven Feels Like](https://open.spotify.com/track/0nSxiyRH74IpDiVdYLVjsv) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Heaven Feels Like](https://open.spotify.com/album/6b9FZARXpkujci1C3uzozn) | 3:23 |
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 112 | [Start Again](https://open.spotify.com/track/3oFmFx3iK3nurxkoFop2Md) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Jesse Fink](https://open.spotify.com/artist/7tMI1lr95LzkzRPElGDAlJ) | [Feel Again](https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM) | 2:47 |
 | 113 | [when you're older](https://open.spotify.com/track/5eFoGE7suEgqgDDaAZiWDc) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [when you're older](https://open.spotify.com/album/4Rt1dnxFH98AwYEraIYbio) | 2:23 |
 | 114 | [Waterfall](https://open.spotify.com/track/3uAqz4hbag8RrL1v2kzgn1) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Lucky](https://open.spotify.com/album/4uINqK7mi5spfI23cy5GXx) | 2:59 |
-| 115 | [I Don't Wanna Know](https://open.spotify.com/track/7bH7LRAHdrZaWTlcuLuIYF) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [I Don't Wanna Know](https://open.spotify.com/album/5vXf3NU1ucc2wpTRNibX4b) | 3:48 |
-| 116 | [pretty years](https://open.spotify.com/track/5TBkWxfdtylJzNmwXt9Gm9) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [pretty years](https://open.spotify.com/album/3Cc93a6n5rYgFDi7oTND03) | 2:59 |
+| 115 | [pretty years](https://open.spotify.com/track/5TBkWxfdtylJzNmwXt9Gm9) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [pretty years](https://open.spotify.com/album/3Cc93a6n5rYgFDi7oTND03) | 2:59 |
+| 116 | [I Don't Wanna Know](https://open.spotify.com/track/7bH7LRAHdrZaWTlcuLuIYF) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [I Don't Wanna Know](https://open.spotify.com/album/5vXf3NU1ucc2wpTRNibX4b) | 3:48 |
 | 117 | [My My](https://open.spotify.com/track/473Gdc2FyRRR0Zq1nUDmEE) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [The Valley](https://open.spotify.com/album/5pXMD5ZtWugzcLXl6uBTrq) | 3:02 |
 | 118 | [Art Of Letting Go \(feat\. James Gillespie\)](https://open.spotify.com/track/4dt4MyGRdBmpAukq0r5GuX) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Discovery](https://open.spotify.com/album/1PpVHHdTAnWPTWg2v6ERZH) | 3:22 |
 | 119 | [OH MY!](https://open.spotify.com/track/6vX0pfXyDgG34SofgP93Hp) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:31 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 164 | [Go!](https://open.spotify.com/track/5RHXCRZwXTIt5uYdKmu9jk) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [SINK OR SWIM](https://open.spotify.com/album/4Bdc1txexdBh1j5h17BVIs) | 2:08 |
 | 165 | [Forever](https://open.spotify.com/track/35SKywJkP3BZU7RDwk370f) | [Jesse James](https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK) | [Operator Please Put Me Through](https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9) | 4:46 |
 
-Snapshot ID: `AbztXgAAAADDpLfjlb5MMCJ6udZMfh/J`
+Snapshot ID: `AbzzCAAAAADXwWJAfZ6immOGdNy8Ueak`

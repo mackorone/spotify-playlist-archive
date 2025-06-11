@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,546,123 likes - 85 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,546,120 likes - 85 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 30 | [WALTZ](https://open.spotify.com/track/0Gat59ovG99RlMEdUoZELk) | [龍宮城](https://open.spotify.com/artist/0xOawbTJb7VLKsaJGjpeCK) | [WALTZ](https://open.spotify.com/album/3E1jCzUN8bxwYi0jP8sbtN) | 3:53 |
 | 31 | [PARAGON](https://open.spotify.com/track/5XbhCs9IBWBRJwsJoU3BeD) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [PARAGON](https://open.spotify.com/album/31mNUa6zQ3dAbW6xl0VP4Y) | 2:45 |
 | 32 | [夜に咲く](https://open.spotify.com/track/3D6nPXAtujzuhqDIE9B9Jo) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [夜に咲く](https://open.spotify.com/album/4pEOUdsqzor9LDUWcoq5N8) | 3:00 |
-| 33 | [天使と悪魔](https://open.spotify.com/track/614SrzamJ4d8gJOLkiZbRn) | [GRe4N BOYZ](https://open.spotify.com/artist/5OodWcD7f7OOXvNUG2HqbC) | [天使と悪魔](https://open.spotify.com/album/5NZlBgPBgInls0xXbeLxUW) | 3:39 |
-| 34 | [TWILIGHT!!!](https://open.spotify.com/track/7rPEpMvt6O2Np1i7TFk3Hc) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [TWILIGHT!!!](https://open.spotify.com/album/3KbovyECUFkQQFfUVvwkD6) | 3:37 |
-| 35 | [mild days](https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [mild days](https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd) | 3:08 |
-| 36 | [コンバート](https://open.spotify.com/track/4rjCBfwLxTk2p3QApO51Uu) | [Seiya Matsumuro](https://open.spotify.com/artist/6iGygjPmoB9TLSjhWHhdqQ) | [コンバート](https://open.spotify.com/album/3FKM8romYmoOCVRF5ChPrg) | 3:52 |
-| 37 | [超える](https://open.spotify.com/track/1TH4Kmyu3QPe2J2BAe18FP) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [超える](https://open.spotify.com/album/1cxtxEcH2IIboiHWYYALoE) | 4:02 |
-| 38 | [トウキョウ・シャンディ・ランデヴ \- from CrosSing](https://open.spotify.com/track/1IVvF0ZPPZSpaj2N49sC5r) | [二ノ宮ゆい](https://open.spotify.com/artist/5kyObFcuVNXnw0OVcf5YhV) | [トウキョウ・シャンディ・ランデヴ \- from CrosSing](https://open.spotify.com/album/7IynrACLzNO2DSevTxkt3l) | 3:04 |
+| 33 | [You Wanna Mellow](https://open.spotify.com/track/2UdW0PIlhASazoLy7ioKh5) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [You Wanna Mellow](https://open.spotify.com/album/6m8pQx9DKwNyjyIEQhNkCN) | 3:30 |
+| 34 | [天使と悪魔](https://open.spotify.com/track/614SrzamJ4d8gJOLkiZbRn) | [GRe4N BOYZ](https://open.spotify.com/artist/5OodWcD7f7OOXvNUG2HqbC) | [天使と悪魔](https://open.spotify.com/album/5NZlBgPBgInls0xXbeLxUW) | 3:39 |
+| 35 | [TWILIGHT!!!](https://open.spotify.com/track/7rPEpMvt6O2Np1i7TFk3Hc) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [TWILIGHT!!!](https://open.spotify.com/album/3KbovyECUFkQQFfUVvwkD6) | 3:37 |
+| 36 | [mild days](https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [mild days](https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd) | 3:08 |
+| 37 | [コンバート](https://open.spotify.com/track/4rjCBfwLxTk2p3QApO51Uu) | [Seiya Matsumuro](https://open.spotify.com/artist/6iGygjPmoB9TLSjhWHhdqQ) | [コンバート](https://open.spotify.com/album/3FKM8romYmoOCVRF5ChPrg) | 3:52 |
+| 38 | [超える](https://open.spotify.com/track/1TH4Kmyu3QPe2J2BAe18FP) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [超える](https://open.spotify.com/album/1cxtxEcH2IIboiHWYYALoE) | 4:02 |
 | 39 | [愛とか。](https://open.spotify.com/track/22alwYLfFsS5tOWhO7UbSD) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [愛とか。](https://open.spotify.com/album/1YHyYjUNSTLgTRGAj8JOCp) | 3:54 |
 | 40 | [魔法はスパイス](https://open.spotify.com/track/73Jga6MTClvMJtBenx2S8V) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [Fooocus](https://open.spotify.com/album/6GMdck1kasizpyASeI18i7) | 3:56 |
 | 41 | [Q](https://open.spotify.com/track/3quLLbcBipdInn9sHY3q7e) | [majiko](https://open.spotify.com/artist/6HX4Jrnb0WhEv9goeGoh6p) | [Q](https://open.spotify.com/album/2AlYyM8w72MVLy0BPtu1nI) | 3:35 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [Curious about you](https://open.spotify.com/track/4NkwAY248EipSQ4SMp7nV6) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Curious about you](https://open.spotify.com/album/3qXGpeLVb06vcBRaod0dXV) | 3:00 |
 | 85 | [capsule](https://open.spotify.com/track/5fzvL9CZiaMUzNcRSNsLEN) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [capsule](https://open.spotify.com/album/4WqcLhG9RRrwaXQFlwAFPw) | 4:54 |
 
-Snapshot ID: `aD8fKgAAAABOOU8hX0VAdTEvTjEo2sZS`
+Snapshot ID: `aEjGjwAAAADaLrhY32agCI6huSLFOoLd`

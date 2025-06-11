@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-183 songs - 7 hr 36 min
+185 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Blanche, Op\. 10](https://open.spotify.com/track/3WIIFZRWbPORTJarz8ozTL) | [Henri de Quengo](https://open.spotify.com/artist/5OgcUeWAFwuAgo9wDWr6hr) | [Blanche, Op\. 10](https://open.spotify.com/album/5AKXt0yEKjmyKE9fdddEdt) | 2:19 | 2023-05-09 | 2025-01-07 |
 | [Breakwater](https://open.spotify.com/track/0t0ulNuHypcHuCunILTz1G) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [Breakwater](https://open.spotify.com/album/6ZwNvrEiKxnwJxFK8iDXTx) | 2:06 | 2025-02-25 |  |
 | [Briefly](https://open.spotify.com/track/5c32g8ZBUZCClHDb545VQs) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Briefly](https://open.spotify.com/album/0SU6Lu0SRMIe3efMEms6JJ) | 1:58 | 2023-05-09 | 2025-04-09 |
+| [Calm Waters](https://open.spotify.com/track/17fzCOVbjCQwxgPaLtAC1h) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [Calm Waters](https://open.spotify.com/album/7eskambYbQlDp1H4E6Z6G2) | 2:13 | 2025-06-10 |  |
 | [Can't Wait](https://open.spotify.com/track/4mv7yv3xb6CFLUEZ0ndowA) | [Maura Huffman](https://open.spotify.com/artist/60HUetND2GEvv5sPhsdujy) | [Can't Wait](https://open.spotify.com/album/5BOUDuuez1jkMjVmlvnyNQ) | 2:05 | 2023-05-09 | 2025-04-26 |
 | [Candles](https://open.spotify.com/track/3c2mI16b5l3zEPNsNdWqSf) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Candles](https://open.spotify.com/album/1eQlINbY8VmjpT2nmQm6Nn) | 2:52 | 2023-08-15 |  |
 | [Celandine](https://open.spotify.com/track/5jQYFxt77oQWFQXbok9jcq) | [Aldo Talete](https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W) | [Celandine](https://open.spotify.com/album/6nwjj72G7P6AjnMACNl8Qe) | 3:10 | 2025-04-04 |  |
@@ -87,6 +88,7 @@
 | [Last Sunday](https://open.spotify.com/track/6QIPjub60aFnvKxe4oNuEs) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Quiet Time](https://open.spotify.com/album/5ZPxSsZCr5aueS8arp82eJ) | 2:23 | 2023-05-09 | 2024-04-19 |
 | [Lazy Sunday Vibes](https://open.spotify.com/track/22c7C62EK0p3yAlurFMTwL) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Lazy Sunday Vibes](https://open.spotify.com/album/5OQFFxd5Wv6gCKVpG5RfwN) | 2:13 | 2024-10-07 | 2025-05-21 |
 | [Letting you Go](https://open.spotify.com/track/2ZEYGe4Cwp63NJK7GffB4Q) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [Letting you Go](https://open.spotify.com/album/2FxQXh44dk0Y3MdV5EhlAI) | 2:58 | 2024-09-02 |  |
+| [Light](https://open.spotify.com/track/4XOrreh4CufJwuUg3p7DuR) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Light](https://open.spotify.com/album/67fKGoAizybPTMM2l27bpP) | 2:47 | 2025-06-10 |  |
 | [Looking Back](https://open.spotify.com/track/0NonVzf5jmyLRKpSMKzURN) | [Noomi Meerbach](https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh) | [Looking Back](https://open.spotify.com/album/2Noa0HFFFuk4Q8CUdsti1U) | 2:14 | 2025-04-28 | 2025-05-14 |
 | [Lullaby in Ab](https://open.spotify.com/track/3aYsCuKTpXYZiWKhignTD2) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U), [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm) | [Lullaby in Ab](https://open.spotify.com/album/1Q9FZghRGWyJIlRtBy5Zn2) | 1:54 | 2023-05-09 | 2025-04-09 |
 | [Láska nás rozdělí](https://open.spotify.com/track/3VEugG0JjifOVAc9HW8GWb) | [Séverine Royal](https://open.spotify.com/artist/3IL097aOxiyd0goKefIDlz) | [Láska nás rozdělí](https://open.spotify.com/album/1SkusXfUiDOAA80XWU0kmE) | 1:56 | 2023-05-09 | 2024-10-08 |

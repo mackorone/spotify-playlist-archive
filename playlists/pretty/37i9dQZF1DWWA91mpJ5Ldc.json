@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 133742,
+  "num_followers": 133756,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -27,26 +27,6 @@
     {
       "added_at": "2025-06-06 03:50:27",
       "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Samurai (feat. Stevie Wonder)",
-      "url": "https://open.spotify.com/track/3BQAK2pnTpfZvLg2MUUU5i"
-    },
-    {
-      "added_at": "2025-06-06 03:50:27",
-      "album": {
         "name": "Ac\u00fastico MTV Tiago Iorc (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Tf4vmSc5PYcpmwZUSLEJV"
       },
@@ -63,6 +43,26 @@
       "duration_ms": 281034,
       "name": "Tangerina - Ao Vivo",
       "url": "https://open.spotify.com/track/6TDPTk5c9r1aAaLEILqNmA"
+    },
+    {
+      "added_at": "2025-06-06 03:50:27",
+      "album": {
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Samurai (feat. Stevie Wonder)",
+      "url": "https://open.spotify.com/track/3BQAK2pnTpfZvLg2MUUU5i"
     },
     {
       "added_at": "2025-06-06 03:50:27",
@@ -307,22 +307,6 @@
     {
       "added_at": "2025-06-06 03:50:27",
       "album": {
-        "name": "Mais de N\u00f3s",
-        "url": "https://open.spotify.com/album/1G5UFcEDjBbmEUY14dtppC"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 174361,
-      "name": "Mais de N\u00f3s",
-      "url": "https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc"
-    },
-    {
-      "added_at": "2025-06-06 03:50:27",
-      "album": {
         "name": "SAGRADO, Vol 2",
         "url": "https://open.spotify.com/album/4eYk4cU1zx8awKfFBUoW1S"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 222834,
       "name": "Coisas do Amor (Me Chama)",
       "url": "https://open.spotify.com/track/114PRV1kahG7WkUOF0hxlX"
+    },
+    {
+      "added_at": "2025-06-06 03:50:27",
+      "album": {
+        "name": "Mais de N\u00f3s",
+        "url": "https://open.spotify.com/album/1G5UFcEDjBbmEUY14dtppC"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 174361,
+      "name": "Mais de N\u00f3s",
+      "url": "https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc"
     },
     {
       "added_at": "2025-06-06 03:50:27",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-06-06 03:50:27",
       "album": {
-        "name": "Original Brasil",
-        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 197610,
-      "name": "Menina",
-      "url": "https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx"
-    },
-    {
-      "added_at": "2025-06-06 03:50:27",
-      "album": {
         "name": "Estragar a Amizade",
         "url": "https://open.spotify.com/album/5APMx5lSHqxUh0w7x0h2jG"
       },
@@ -563,18 +547,18 @@
     {
       "added_at": "2025-06-06 03:50:27",
       "album": {
-        "name": "Bota Pra Tocar Tim Maia",
-        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
+        "name": "Original Brasil",
+        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
       },
       "artists": [
         {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
         }
       ],
-      "duration_ms": 222577,
-      "name": "Bota Pra Tocar Tim Maia",
-      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
+      "duration_ms": 197610,
+      "name": "Menina",
+      "url": "https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx"
     },
     {
       "added_at": "2025-06-06 03:50:27",
@@ -591,6 +575,22 @@
       "duration_ms": 212573,
       "name": "Pra Vida",
       "url": "https://open.spotify.com/track/7z9ygQkhE50EGYMuZfbEFq"
+    },
+    {
+      "added_at": "2025-06-06 03:50:27",
+      "album": {
+        "name": "Bota Pra Tocar Tim Maia",
+        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
+      },
+      "artists": [
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        }
+      ],
+      "duration_ms": 222577,
+      "name": "Bota Pra Tocar Tim Maia",
+      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
     },
     {
       "added_at": "2025-06-06 03:50:27",

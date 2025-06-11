@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E?si=tyL293W8TNOTiDj7X9xO1g"> Mariah The Scientist</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,088 likes - 71 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,098 likes - 71 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

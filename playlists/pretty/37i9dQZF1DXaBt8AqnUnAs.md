@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,778 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,781 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 34 | [Anjo](https://open.spotify.com/track/1UQhXpOKXJeNu1HNolwbZy) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [Confia: Sonho de Cria \- Trilha Sonora](https://open.spotify.com/album/7hK2s7g8yU1a8ULW4AuVBf) | 2:50 |
 | 35 | [Musa do Verão](https://open.spotify.com/track/7jdZXXQ0Th0Oub1NIW2EoK) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [Dj Alle da coro](https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x) | [Musa do Verão](https://open.spotify.com/album/02Gn0ZxKwgvwqqpJVm5BHw) | 2:42 |
 | 36 | [QQ CÊ QUER AQUI ?](https://open.spotify.com/track/4tOb014LgTxMvkm6cHXkXK) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [Quanto Mais Eu Como, Mais Fome Eu Sinto !](https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG) | 2:53 |
-| 37 | [Fases](https://open.spotify.com/track/1oq5Gk7m0r3kRzOoh6GUOA) | [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Andressinha](https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al) | [Fases](https://open.spotify.com/album/36R1fAVyOsz8ockmiJVv1o) | 3:19 |
+| 37 | [Fases](https://open.spotify.com/track/1oq5Gk7m0r3kRzOoh6GUOA) | [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [DRESSA](https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al) | [Fases](https://open.spotify.com/album/36R1fAVyOsz8ockmiJVv1o) | 3:19 |
 | 38 | [Faixa Amarela](https://open.spotify.com/track/5I2QRVDyIYCyiebuJxtJyi) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [f.b.o](https://open.spotify.com/artist/1ac7vvl78LVq0f2sIjyEpU), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [PATRONO](https://open.spotify.com/album/3KOm7ouLh0kOz6sJ8AdpVI) | 3:15 |
 | 39 | [Tempo](https://open.spotify.com/track/5h2umbNHTvGiT1gE4tTFCr) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Tempo](https://open.spotify.com/album/7opYgdcsTkMNxFNHWZueO8) | 2:53 |
 | 40 | [Despedida](https://open.spotify.com/track/6oFlNVvlrUghNPE1C4JKli) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Despedida](https://open.spotify.com/album/30jgZDcMKM7vqe40aOQB9u) | 3:56 |

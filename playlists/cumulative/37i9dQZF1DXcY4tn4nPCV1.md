@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-495 songs - 21 hr 2 min
+497 songs - 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [After All](https://open.spotify.com/track/1NNxb9HgLDdGvrq4aIfaH0) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [After All](https://open.spotify.com/album/0LjEawGHQt8fln9x6FkG4b) | 2:20 | 2022-10-14 |  |
 | [After The Rain](https://open.spotify.com/track/1lRBerZ343b4uokzIzyMYY) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [After the Rain](https://open.spotify.com/album/4JH0SDLuwtuy6JFuwvAniJ) | 2:26 | 2023-04-04 |  |
 | [Aftontimma](https://open.spotify.com/track/1svRACx5V80ifZCa1xC6DJ) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Aftontimma](https://open.spotify.com/album/0GUcfgnAq4LSrBPAUG92qC) | 2:40 | 2022-04-04 | 2022-12-24 |
+| [Aged](https://open.spotify.com/track/1xeKcMfBt1BcnYBcTagDz8) | [Ella Davies](https://open.spotify.com/artist/41ZN6cpScLI4JidZW7f47H) | [Aged](https://open.spotify.com/album/1lqvHDfvRd5oZIYRELq5d5) | 2:27 | 2025-06-10 |  |
 | [Aislingeach](https://open.spotify.com/track/45YmYHJG9AoFEg6X2xvmTV) | [Chloe Doyle](https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r) | [Aislingeach](https://open.spotify.com/album/1OkHickHsYjJvqrprMhxAr) | 2:01 | 2022-04-04 | 2024-02-03 |
 | [All I Know](https://open.spotify.com/track/0uyLuw53EGon6rU894LnDV) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [Times Gone By](https://open.spotify.com/album/58MF4lru4Nm7MQq7ctCym8) | 1:51 | 2022-11-18 | 2023-07-19 |
 | [Altar](https://open.spotify.com/track/4GBWvw48RFr6WQDSvFJ5yh) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Altar](https://open.spotify.com/album/7gmheB2m41ayIEe5yPWFPj) | 2:17 | 2023-02-21 |  |
@@ -81,7 +82,7 @@
 | [Chalet High](https://open.spotify.com/track/05IVJHxixrLD0oVi63i6Fn) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Chalet High](https://open.spotify.com/album/0s5pe0oFhpK60gLPI1RDZZ) | 2:39 | 2022-04-04 | 2025-03-19 |
 | [Chaleureuse](https://open.spotify.com/track/0FAJDVUpuCzEhCGfouo8Fk) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [Chaleureuse](https://open.spotify.com/album/1wjRb8hVZyqMasnqzsqqcw) | 2:14 | 2022-04-04 |  |
 | [Chute De Neige](https://open.spotify.com/track/7jbEFWP7BR5dp3CVY3VcTc) | [Orcrist](https://open.spotify.com/artist/1N5Q4G5YuaZkMi4M8Kef2U) | [Chute De Neige](https://open.spotify.com/album/1jGeso4zdhTekE74udbEli) | 3:26 | 2024-10-07 |  |
-| [Ciclos de Tiempo](https://open.spotify.com/track/6P0XK7PxB4LnG3dQAmzQIe) | [Gogo Khoi](https://open.spotify.com/artist/5Gz6VMJi61el4scZUa9YYb) | [Ciclos de Tiempo](https://open.spotify.com/album/5yTw2u7HHlEQxGwPiKf1eU) | 2:45 | 2025-04-23 |  |
+| [Ciclos de Tiempo](https://open.spotify.com/track/6P0XK7PxB4LnG3dQAmzQIe) | [Gogo Khoi](https://open.spotify.com/artist/5Gz6VMJi61el4scZUa9YYb) | [Ciclos de Tiempo](https://open.spotify.com/album/5yTw2u7HHlEQxGwPiKf1eU) | 2:45 | 2025-04-23 | 2025-06-11 |
 | [Cinematique](https://open.spotify.com/track/7KHGqeUF5KpiD1rtpqds3z) | [Olivier DeGrasse](https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb) | [Cinematique](https://open.spotify.com/album/6FlXAjyMzdByLk8AbunigT) | 2:54 | 2022-04-04 | 2024-10-02 |
 | [Clear View](https://open.spotify.com/track/63OnbQzyCqoQqIsgT6QXGq) | [Lotus Laverne](https://open.spotify.com/artist/59aZyEO8IQYZfEpsOV8vkj) | [Clear View](https://open.spotify.com/album/6Fx8MCfIvZafSQUUvU5FJD) | 2:53 | 2023-07-03 | 2025-05-22 |
 | [Clear waters](https://open.spotify.com/track/7ATTZzULv32ZSfRiudX0hb) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Clear waters](https://open.spotify.com/album/0zek5R4VK7aRwmSQ6uoJf5) | 3:17 | 2024-10-21 |  |
@@ -137,6 +138,7 @@
 | [Faded Portrait](https://open.spotify.com/track/3z4hK6i9TGy2s7kmP6h2qO) | [Auguste Blanc](https://open.spotify.com/artist/5nVYmZntdGuW8hqgifpxMe) | [Faded Portrait](https://open.spotify.com/album/3yOB2diMaxo8A1mrKa198M) | 2:05 | 2023-03-07 | 2025-03-19 |
 | [Fallboard](https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Fallboard](https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2) | 2:40 | 2022-04-04 | 2022-04-29 |
 | [False Promises](https://open.spotify.com/track/1cu3EoaUYDWcUvEYceDvbR) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [False Promises](https://open.spotify.com/album/6PG7rTqulExeBecNr3eCSq) | 2:31 | 2022-04-04 | 2024-03-26 |
+| [Feathermoon](https://open.spotify.com/track/1DLpTT8Ntk2P1gHYkzcJbV) | [Gilded Reverie](https://open.spotify.com/artist/293KvG5a4tl3xjpUsnXjym) | [Feathermoon](https://open.spotify.com/album/24XiN1ePrYGKc6c2g9E52v) | 1:57 | 2025-06-10 |  |
 | [Feeling Free](https://open.spotify.com/track/6kbvb0UyWZVvmKjSIQJzRe) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [Feeling Free](https://open.spotify.com/album/6GsuHsBee1V5VZLEQMRMaB) | 2:06 | 2022-04-04 | 2025-04-24 |
 | [Felt Improv No\. 7](https://open.spotify.com/track/0Opima0tmKX1e9RhLMawGW) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 7](https://open.spotify.com/album/54yeHy6gMLbnNej2UcxljW) | 2:26 | 2022-04-04 | 2022-05-21 |
 | [Feuilles Tombantes](https://open.spotify.com/track/18KgQFOqj7gZSWN81jcs9C) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Feuilles Tombantes](https://open.spotify.com/album/7gKQQqcUaQuE6g9hWuz23J) | 2:07 | 2022-04-04 | 2022-05-21 |

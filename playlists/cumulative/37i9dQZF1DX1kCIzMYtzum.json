@@ -2989,6 +2989,28 @@
     },
     {
       "album": {
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/0jqUzeynq0OFvfiRxidGfE"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214070,
+      "name": "Culture",
+      "url": "https://open.spotify.com/track/1tf1bJWmA54TDD3F0tdZy2"
+    },
+    {
+      "album": {
         "name": "Cynical",
         "url": "https://open.spotify.com/album/2FSVbytdzBlR6SBT4AFewv"
       },
@@ -15246,7 +15268,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 187941,
       "name": "Surrender - John Alto Remix",
       "url": "https://open.spotify.com/track/3uGl0FDIb3EfqKENgLvZxj"

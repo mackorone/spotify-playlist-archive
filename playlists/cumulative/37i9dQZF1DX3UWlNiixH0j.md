@@ -2,9 +2,9 @@
 
 ### [Edge!](https://open.spotify.com/playlist/37i9dQZF1DX3UWlNiixH0j)
 
-> 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Ovall
+> 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: ゆうらん船
 
-2,442 songs - 6 day 8 hr 29 min
+2,443 songs - 6 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Couch potato](https://open.spotify.com/track/0xaw7RO8FbezqjqTDxdvYN) | [JunIzawa](https://open.spotify.com/artist/7784zrMh7ieZT0RZJgxV9I), [Tami Keem](https://open.spotify.com/artist/4H2v1nlEJIETN8rDRmVXG1) | [Couch potato](https://open.spotify.com/album/2K3OcxqdyKdntOkR0p1y3z) | 4:25 | 2023-12-26 | 2024-01-17 |
 | [Countdown Rag](https://open.spotify.com/track/4I3f7odzNXdhDrxX4W4aT3) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Inner Dialog](https://open.spotify.com/album/48AHaxshOHD3ktB9Ea5RDN) | 5:25 | 2023-04-18 | 2023-04-26 |
 | [Counting Dog](https://open.spotify.com/track/31QpOfZ2Hhg9nLVAURiYl8) | [Shugo Tokumaru](https://open.spotify.com/artist/0jQlt8C2OuW3ZwHTSvTDI5) | [Song Symbiosis](https://open.spotify.com/album/2589MaXA7W0CINZWTLcZxE) | 4:04 | 2024-07-16 | 2024-09-11 |
+| [Crack Up!](https://open.spotify.com/track/2M3kPxMBEePxEr6cxbjFbl) | [ゆうらん船](https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm) | [Crack Up! / How dare you?](https://open.spotify.com/album/2uXa6yAoy47EedB3FAxIad) | 3:45 | 2025-06-11 |  |
 | [Crack!](https://open.spotify.com/track/5fdcRU4NnzoQDvUaITXU8n) | [Summer Whales](https://open.spotify.com/artist/3hkum3WiqHnQUdMicxAsS8) | [Doughy](https://open.spotify.com/album/3awx1iBGigpJlxHssiFSjA) | 3:14 | 2024-07-16 | 2024-07-27 |
 | [Crawl](https://open.spotify.com/track/37DAC9LSqcr4Lv2hFHxutm) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Crawl](https://open.spotify.com/album/0JdikBpBF0qTAwQLx9bF5h) | 2:12 | 2024-09-10 | 2024-09-25 |
 | [Crawl](https://open.spotify.com/track/5md4lxtn3naY8cKsJxToaI) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Cut the Collar](https://open.spotify.com/album/0qOsWpmV9ALT6q1jlgTAlt) | 2:12 | 2024-10-08 | 2024-11-20 |
@@ -644,7 +645,7 @@
 | [Japanalog](https://open.spotify.com/track/6UvaD6jmG8NDUs5j0F0w6f) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [1STST](https://open.spotify.com/album/2rrNP1v4yTJDxK4NdYAiZt) | 4:01 | 2023-07-11 | 2023-08-02 |
 | [Je t’aime!](https://open.spotify.com/track/0V3z4oq6d0iOTS9EN6AsTu) | [A VIRGIN](https://open.spotify.com/artist/0dDP1gsPC4bWS5vnynu99s) | [Je t’aime!](https://open.spotify.com/album/6FHDQQn0fNFBBGIzY7IB07) | 4:15 | 2025-02-12 | 2025-02-19 |
 | [Jellyfish](https://open.spotify.com/track/389o6ubDDpPvhNUaLl22tL) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Jellyfish](https://open.spotify.com/album/6ieIuzXf3cN3GH0Nzh7Y98) | 3:05 | 2024-02-20 | 2024-02-28 |
-| [JENGA \- feat\. mizuki masuda](https://open.spotify.com/track/1ZCX27ml054dNfafAdTKO1) | [JunIzawa](https://open.spotify.com/artist/7784zrMh7ieZT0RZJgxV9I) | [JENGA \(feat\. mizuki masuda\)](https://open.spotify.com/album/3WCwnWpoeOTPw4eWKoCwVt) | 3:16 | 2025-06-03 |  |
+| [JENGA \- feat\. mizuki masuda](https://open.spotify.com/track/1ZCX27ml054dNfafAdTKO1) | [JunIzawa](https://open.spotify.com/artist/7784zrMh7ieZT0RZJgxV9I) | [JENGA \(feat\. mizuki masuda\)](https://open.spotify.com/album/3WCwnWpoeOTPw4eWKoCwVt) | 3:16 | 2025-06-03 | 2025-06-11 |
 | [Jersey \- 2024 Ver.](https://open.spotify.com/track/2sRIsLEsOaIZkys9An4ET4) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2) | 2:34 | 2024-03-07 | 2024-04-19 |
 | [jet](https://open.spotify.com/track/3Ml9e47VBPNTPLQn2njEJg) | [Meg Bonus](https://open.spotify.com/artist/0BEEpuk86319ft7cb4jxei) | [jet](https://open.spotify.com/album/0qqKWFoXvdDumUEsscZZ3i) | 2:33 | 2024-12-17 | 2024-12-25 |
 | [JET](https://open.spotify.com/track/7hftTxgaRlD51lgTvmtVqJ) | [黄鶯睍睆\(uguisu\-naku\)](https://open.spotify.com/artist/6XUG7F74W7f7j36VzVPlSl) | [JET](https://open.spotify.com/album/3tjGSyyeaNSbn6EDPHW1gE) | 2:53 | 2023-08-08 | 2023-08-16 |
@@ -1682,7 +1683,7 @@
 | [ときめき](https://open.spotify.com/track/6YfFksjNc28hZfcz2xst8k) | [YOU IRIE](https://open.spotify.com/artist/5E9UHQpY8cvh5wAqURO3lA) | [恋愛](https://open.spotify.com/album/4a4n3o292xrmAzsEPauPQO) | 3:14 | 2024-02-13 | 2024-02-21 |
 | [ときめきを教えて](https://open.spotify.com/track/2e9Xouw2euVfmRuehC6QM6) | [℃\-want you!](https://open.spotify.com/artist/1oePCCijpoxaCwJSzNahwa) | [ときめきを教えて](https://open.spotify.com/album/64mQ3crgXIy4yEHFaJlzei) | 4:19 | 2023-08-13 | 2023-08-23 |
 | [とりあえず](https://open.spotify.com/track/7k2kKPLzxIa4OmDeoiWfYD) | [Mikan Hayashi](https://open.spotify.com/artist/1VPFnxE9Nu4PM4JoCU4RUt), [多多 x 以捷](https://open.spotify.com/artist/25vtw3bkiKz9nbo7vl6qqY) | [とりあえず](https://open.spotify.com/album/6Fg4RusObKTcshoLDWv05K) | 4:37 | 2023-05-02 | 2023-05-31 |
-| [とわの祭り](https://open.spotify.com/track/1VSG9RkIORqUX2oXKNL37E) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [とわの祭り](https://open.spotify.com/album/3nOa9wMmXNvDjtsgcabTkP) | 4:51 | 2025-05-27 | 2025-06-04 |
+| [とわの祭り](https://open.spotify.com/track/1VSG9RkIORqUX2oXKNL37E) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [とわの祭り](https://open.spotify.com/album/3nOa9wMmXNvDjtsgcabTkP) | 4:51 | 2025-05-27 |  |
 | [どうして髭を？](https://open.spotify.com/track/41QfKjANF6fiDll3MN6yxS) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN), [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [どうして髭を？](https://open.spotify.com/album/5fkSBMSaT3TGGdQohMGaX2) | 3:18 | 2024-02-27 | 2024-04-07 |
 | [どく](https://open.spotify.com/track/71kriPfeYO4Oq0DDbHJ0Cp) | [mukeikaku](https://open.spotify.com/artist/13EKu7UHAU6sAqlIoRFQJw) | [konami](https://open.spotify.com/album/2AdasEVsCUNsE0ZTzWcb5a) | 2:26 | 2023-12-12 | 2023-12-14 |
 | [どこへも行かないで](https://open.spotify.com/track/0QctNmKMvT5Hw4aWO1HJI7) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [どこへも行かないで](https://open.spotify.com/album/5uzQHJQVfnPR9sZXxG6PlJ) | 2:44 | 2023-04-18 | 2023-07-26 |
@@ -1995,7 +1996,7 @@
 | [低気圧のせい](https://open.spotify.com/track/59yxpxb7OTJLXJHlXWJAAG) | [TsuShiMaMiRe](https://open.spotify.com/artist/2sfE9wBQnqpFNgWZnL06fd) | [低気圧のせい](https://open.spotify.com/album/10VSjS5qHqeYjzhVQzcYHP) | 3:24 | 2023-06-27 | 2023-07-05 |
 | [低空](https://open.spotify.com/track/6WVmWMn8ZknjbA70Xr93wc) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [低空](https://open.spotify.com/album/5069TeKV6SsMxz4PQW9GEp) | 3:54 | 2023-03-21 | 2023-04-16 |
 | [何度大人になったって](https://open.spotify.com/track/1hqDNBeFeplMihnRMt6ipS) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [何度大人になったって](https://open.spotify.com/album/3PV4XJnhX3UI55hZFCjpCL) | 4:09 | 2023-09-26 | 2023-10-23 |
-| [何様](https://open.spotify.com/track/3JBFXZsqq0RPtIOAaIJ5VD) | [mogari](https://open.spotify.com/artist/3x9YOPyoFRdfAYgkZjLrS4) | [何様](https://open.spotify.com/album/5pgGsEtU0jStIyhXtCvq8A) | 2:53 | 2025-06-03 |  |
+| [何様](https://open.spotify.com/track/3JBFXZsqq0RPtIOAaIJ5VD) | [mogari](https://open.spotify.com/artist/3x9YOPyoFRdfAYgkZjLrS4) | [何様](https://open.spotify.com/album/5pgGsEtU0jStIyhXtCvq8A) | 2:53 | 2025-06-03 | 2025-06-11 |
 | [余韻](https://open.spotify.com/track/6IXpfkYDZG9HduKQ4PEI7c) | [Asagaya Romantics](https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x) | [余韻](https://open.spotify.com/album/4EqQmG1fJ3GQ36FfonkaGp) | 4:06 | 2025-01-23 | 2025-03-20 |
 | [修羅だってクラスメイト](https://open.spotify.com/track/1kpObJxRAUgfv49R96pzRP) | [The Otals](https://open.spotify.com/artist/2L8w8wwNFtKVGd9CLkicfe), [eureka](https://open.spotify.com/artist/7oUqP2q81T2SIUBoJjippe) | [修羅だってクラスメイト](https://open.spotify.com/album/0EnNucQLOsbYInAA8HMK8w) | 3:21 | 2023-07-11 | 2023-07-19 |
 | [俺たち](https://open.spotify.com/track/6IcsgTSy0IILxdNsRgEDfJ) | [TØGARÜ](https://open.spotify.com/artist/5ouwyGcoeuDl6mRua8okkb) | [俺たち](https://open.spotify.com/album/7ghl2hdqBzeWcSgyjrL8bf) | 3:42 | 2025-05-01 | 2025-05-07 |

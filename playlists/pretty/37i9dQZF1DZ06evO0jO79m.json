@@ -1,12 +1,12 @@
 {
   "description": "This is Shakira. The essential tracks, all in one playlist.",
-  "num_followers": 1708996,
+  "num_followers": 1709186,
   "original_name": "This Is Shakira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAADonYI/ZpUqtfvAxYlA6xJx",
+  "snapshot_id": "aEYkAAAAAAAyNBYiL2cFQ5meFgEj/mKe",
   "tracks": [
     {
       "added_at": null,
@@ -423,26 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monoton\u00eda",
-        "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 158804,
-      "name": "Monoton\u00eda",
-      "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El tren de los momentos",
         "url": "https://open.spotify.com/album/4LXfHYVr0scRlsxnWyO437"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 273373,
       "name": "Te lo agradezco, pero no (feat. Shakira)",
       "url": "https://open.spotify.com/track/0TSO6afZViXH6OUlIMl6m4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monoton\u00eda",
+        "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 158804,
+      "name": "Monoton\u00eda",
+      "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
     },
     {
       "added_at": null,
@@ -791,6 +791,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fijaci\u00f3n Oral, Vol. 1",
+        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 285040,
+      "name": "No (feat. Gustavo Cerati)",
+      "url": "https://open.spotify.com/track/0J6dOwflFSy3h1AoKmkqKc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Ultimo Adi\u00f3s",
         "url": "https://open.spotify.com/album/1Tz1WfJZkvWPhyFHWAzZLo"
       },
@@ -883,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fijaci\u00f3n Oral, Vol. 1",
-        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 285040,
-      "name": "No (feat. Gustavo Cerati)",
-      "url": "https://open.spotify.com/track/0J6dOwflFSy3h1AoKmkqKc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
       },
@@ -983,6 +983,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "She Wolf (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3MhG5IXiezatEXyNsXPLPm"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 188866,
+      "name": "She Wolf",
+      "url": "https://open.spotify.com/track/4l9fZ75WzPZlAIkqJIWlo8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Gusta",
         "url": "https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 190570,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "She Wolf (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3MhG5IXiezatEXyNsXPLPm"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 188866,
-      "name": "She Wolf",
-      "url": "https://open.spotify.com/track/4l9fZ75WzPZlAIkqJIWlo8"
     },
     {
       "added_at": null,

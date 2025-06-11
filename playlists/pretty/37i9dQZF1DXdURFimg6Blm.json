@@ -1,6 +1,6 @@
 {
   "description": "Boost your energy with these dance tracks.",
-  "num_followers": 1454514,
+  "num_followers": 1454681,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,26 @@
     {
       "added_at": "2025-06-06 04:00:22",
       "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 199804,
+      "name": "MAD",
+      "url": "https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH"
+    },
+    {
+      "added_at": "2025-06-06 04:00:22",
+      "album": {
         "name": "BACKBONE",
         "url": "https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 169523,
       "name": "Be My Lover (feat. La Bouche) - 2023 Mix",
       "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
-    },
-    {
-      "added_at": "2025-06-06 04:00:22",
-      "album": {
-        "name": "MAD",
-        "url": "https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 199804,
-      "name": "MAD",
-      "url": "https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH"
     },
     {
       "added_at": "2025-06-06 04:00:22",
@@ -615,22 +615,26 @@
     {
       "added_at": "2025-06-06 04:00:22",
       "album": {
-        "name": "light years (feat. In\u00e9z)",
-        "url": "https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI"
+        "name": "Can't Decide",
+        "url": "https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
         },
         {
-          "name": "In\u00e9z",
-          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        },
+        {
+          "name": "Locky",
+          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
         }
       ],
-      "duration_ms": 220978,
-      "name": "light years (feat. In\u00e9z)",
-      "url": "https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x"
+      "duration_ms": 175384,
+      "name": "Can't Decide",
+      "url": "https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx"
     },
     {
       "added_at": "2025-06-06 04:00:22",
@@ -655,6 +659,26 @@
     {
       "added_at": "2025-06-06 04:00:22",
       "album": {
+        "name": "light years (feat. In\u00e9z)",
+        "url": "https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "duration_ms": 220978,
+      "name": "light years (feat. In\u00e9z)",
+      "url": "https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x"
+    },
+    {
+      "added_at": "2025-06-06 04:00:22",
+      "album": {
         "name": "HIGHJACK (right back)",
         "url": "https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ"
       },
@@ -675,30 +699,6 @@
       "duration_ms": 161982,
       "name": "HIGHJACK (right back)",
       "url": "https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ"
-    },
-    {
-      "added_at": "2025-06-06 04:00:22",
-      "album": {
-        "name": "Can't Decide",
-        "url": "https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD"
-      },
-      "artists": [
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        },
-        {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
-        },
-        {
-          "name": "Locky",
-          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Can't Decide",
-      "url": "https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx"
     },
     {
       "added_at": "2025-06-06 04:00:22",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2025-06-06 04:00:22",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 144664,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY"
-    },
-    {
-      "added_at": "2025-06-06 04:00:22",
-      "album": {
         "name": "Around The World",
         "url": "https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf"
       },
@@ -1111,6 +1091,26 @@
     {
       "added_at": "2025-06-06 04:00:22",
       "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 144664,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY"
+    },
+    {
+      "added_at": "2025-06-06 04:00:22",
+      "album": {
         "name": "7 Seconds (feat. Shamiya Battles) [Radio Edit]",
         "url": "https://open.spotify.com/album/6i3MFLyojYO4kteUSnWaVG"
       },
@@ -1127,6 +1127,30 @@
       "duration_ms": 92226,
       "name": "7 Seconds (feat. Shamiya Battles) - Radio Edit",
       "url": "https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT"
+    },
+    {
+      "added_at": "2025-06-06 04:00:22",
+      "album": {
+        "name": "Save My Love (with Ellie Goulding & AVAION)",
+        "url": "https://open.spotify.com/album/3KFX6b8uxX8cORnXbSiC18"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 215555,
+      "name": "Save My Love (with Ellie Goulding & AVAION)",
+      "url": "https://open.spotify.com/track/4w3Uy4n1hfj1mx6ag7bII5"
     },
     {
       "added_at": "2025-06-06 04:00:22",
@@ -1283,30 +1307,6 @@
     {
       "added_at": "2025-06-06 04:00:22",
       "album": {
-        "name": "Save My Love (with Ellie Goulding & AVAION)",
-        "url": "https://open.spotify.com/album/3KFX6b8uxX8cORnXbSiC18"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 215555,
-      "name": "Save My Love (with Ellie Goulding & AVAION)",
-      "url": "https://open.spotify.com/track/4w3Uy4n1hfj1mx6ag7bII5"
-    },
-    {
-      "added_at": "2025-06-06 04:00:22",
-      "album": {
         "name": "A Little Closer",
         "url": "https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU"
       },
@@ -1415,6 +1415,30 @@
     {
       "added_at": "2025-06-06 04:00:22",
       "album": {
+        "name": "OMG! (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/1Tvjx0HSnZx85wmtnDXVsP"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "duration_ms": 152989,
+      "name": "OMG! (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/2TuVErkUG3BdQR0dsbtakg"
+    },
+    {
+      "added_at": "2025-06-06 04:00:22",
+      "album": {
         "name": "Couldn't Care Less (feat. Gia Koka)",
         "url": "https://open.spotify.com/album/5uALiucSFQTU1ZG1Z8pRwQ"
       },
@@ -1475,6 +1499,26 @@
     {
       "added_at": "2025-06-06 04:00:22",
       "album": {
+        "name": "X-Rated",
+        "url": "https://open.spotify.com/album/64a4S0L82vMJcOppgnYxmo"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Funkdoobiest",
+          "url": "https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN"
+        }
+      ],
+      "duration_ms": 184620,
+      "name": "X-Rated",
+      "url": "https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw"
+    },
+    {
+      "added_at": "2025-06-06 04:00:22",
+      "album": {
         "name": "Another World",
         "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
       },
@@ -1491,26 +1535,6 @@
       "duration_ms": 144000,
       "name": "Another World",
       "url": "https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO"
-    },
-    {
-      "added_at": "2025-06-06 04:00:22",
-      "album": {
-        "name": "Control Of Me (feat. Daecolm)",
-        "url": "https://open.spotify.com/album/4jMryrW1qdyahy1pjyR2Tm"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Daecolm",
-          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
-        }
-      ],
-      "duration_ms": 195291,
-      "name": "Control Of Me (feat. Daecolm)",
-      "url": "https://open.spotify.com/track/6DHluTEItUYKyU5fhqLRNc"
     },
     {
       "added_at": "2025-06-06 04:00:22",
@@ -1535,22 +1559,22 @@
     {
       "added_at": "2025-06-06 04:00:22",
       "album": {
-        "name": "X-Rated",
-        "url": "https://open.spotify.com/album/64a4S0L82vMJcOppgnYxmo"
+        "name": "Control Of Me (feat. Daecolm)",
+        "url": "https://open.spotify.com/album/4jMryrW1qdyahy1pjyR2Tm"
       },
       "artists": [
         {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
         },
         {
-          "name": "Funkdoobiest",
-          "url": "https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN"
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
         }
       ],
-      "duration_ms": 184620,
-      "name": "X-Rated",
-      "url": "https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw"
+      "duration_ms": 195291,
+      "name": "Control Of Me (feat. Daecolm)",
+      "url": "https://open.spotify.com/track/6DHluTEItUYKyU5fhqLRNc"
     },
     {
       "added_at": "2025-06-06 04:00:22",
@@ -1571,42 +1595,22 @@
     {
       "added_at": "2025-06-06 04:00:22",
       "album": {
-        "name": "OMG! (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/1Tvjx0HSnZx85wmtnDXVsP"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
-        }
-      ],
-      "duration_ms": 152989,
-      "name": "OMG! (From F1\u00ae The Movie)",
-      "url": "https://open.spotify.com/track/2TuVErkUG3BdQR0dsbtakg"
-    },
-    {
-      "added_at": "2025-06-06 04:00:22",
-      "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n"
+        "name": "Push The Tempo",
+        "url": "https://open.spotify.com/album/0XfYZGlEQ7KNK8Pcuqh9AN"
       },
       "artists": [
         {
           "name": "Sub Focus",
           "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
         }
       ],
-      "duration_ms": 215172,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"
+      "duration_ms": 161829,
+      "name": "Push The Tempo",
+      "url": "https://open.spotify.com/track/2dkUsfpsB0c394cmFe18Ih"
     },
     {
       "added_at": "2025-06-06 04:00:22",
@@ -1691,22 +1695,18 @@
     {
       "added_at": "2025-06-06 04:00:22",
       "album": {
-        "name": "Push The Tempo",
-        "url": "https://open.spotify.com/album/0XfYZGlEQ7KNK8Pcuqh9AN"
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n"
       },
       "artists": [
         {
           "name": "Sub Focus",
           "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Katy B",
-          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
         }
       ],
-      "duration_ms": 161829,
-      "name": "Push The Tempo",
-      "url": "https://open.spotify.com/track/2dkUsfpsB0c394cmFe18Ih"
+      "duration_ms": 215172,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"
     },
     {
       "added_at": "2025-06-06 04:00:22",
@@ -1823,6 +1823,26 @@
     {
       "added_at": "2025-06-06 04:00:22",
       "album": {
+        "name": "Until The Lights Go Out",
+        "url": "https://open.spotify.com/album/6eTCjsz3UJzuGEHVpMXSRZ"
+      },
+      "artists": [
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "CARMA",
+          "url": "https://open.spotify.com/artist/5gp0qfvidEBit8aWKh18NA"
+        }
+      ],
+      "duration_ms": 191359,
+      "name": "Until The Lights Go Out",
+      "url": "https://open.spotify.com/track/6xmWDLQBuBjWBc0Ary6wUj"
+    },
+    {
+      "added_at": "2025-06-06 04:00:22",
+      "album": {
         "name": "Dreamin (feat. Daya)",
         "url": "https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN"
       },
@@ -1867,22 +1887,18 @@
     {
       "added_at": "2025-06-06 04:00:22",
       "album": {
-        "name": "Until The Lights Go Out",
-        "url": "https://open.spotify.com/album/6eTCjsz3UJzuGEHVpMXSRZ"
+        "name": "Appetite",
+        "url": "https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo"
       },
       "artists": [
         {
-          "name": "Axwell",
-          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
-        },
-        {
-          "name": "CARMA",
-          "url": "https://open.spotify.com/artist/5gp0qfvidEBit8aWKh18NA"
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
         }
       ],
-      "duration_ms": 191359,
-      "name": "Until The Lights Go Out",
-      "url": "https://open.spotify.com/track/6xmWDLQBuBjWBc0Ary6wUj"
+      "duration_ms": 227272,
+      "name": "Appetite",
+      "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
     },
     {
       "added_at": "2025-06-06 04:00:22",
@@ -1903,22 +1919,6 @@
       "duration_ms": 168000,
       "name": "6 In the Morning (feat. Nate Dogg)",
       "url": "https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J"
-    },
-    {
-      "added_at": "2025-06-06 04:00:22",
-      "album": {
-        "name": "Appetite",
-        "url": "https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        }
-      ],
-      "duration_ms": 227272,
-      "name": "Appetite",
-      "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
     },
     {
       "added_at": "2025-06-06 04:00:22",
@@ -2071,30 +2071,6 @@
     {
       "added_at": "2025-06-06 04:00:22",
       "album": {
-        "name": "TENTEN",
-        "url": "https://open.spotify.com/album/5X7s4cPiT5e5QjvsEUp76Q"
-      },
-      "artists": [
-        {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
-        },
-        {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
-        },
-        {
-          "name": "D38",
-          "url": "https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe"
-        }
-      ],
-      "duration_ms": 209347,
-      "name": "TENTEN",
-      "url": "https://open.spotify.com/track/6njivaRY1zUaaEZGf22unI"
-    },
-    {
-      "added_at": "2025-06-06 04:00:22",
-      "album": {
         "name": "Your Love (Diplo Remix)",
         "url": "https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV"
       },
@@ -2111,6 +2087,26 @@
       "duration_ms": 155625,
       "name": "Your Love - Diplo Remix",
       "url": "https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y"
+    },
+    {
+      "added_at": "2025-06-06 04:00:22",
+      "album": {
+        "name": "Smile (feat. Carolina Liar)",
+        "url": "https://open.spotify.com/album/5MwREpSNM3JMxAq8xqe3im"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Carolina Liar",
+          "url": "https://open.spotify.com/artist/0OuSnRyi1OkLPkR4AqzJwi"
+        }
+      ],
+      "duration_ms": 192963,
+      "name": "Smile (feat. Carolina Liar)",
+      "url": "https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D"
     }
   ],
   "unique_name": "Beast Mode Dance",

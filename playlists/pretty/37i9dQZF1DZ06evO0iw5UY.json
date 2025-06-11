@@ -1,13 +1,29 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 27873,
+  "num_followers": 27879,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAAB3j5kh0x2o6eEAcql8h16I",
+  "snapshot_id": "aEYkAAAAAAAyKaYTNui4+8N9HBuy6v9e",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crying On The Dancefloor",
+        "url": "https://open.spotify.com/album/2eBcYBlG9vIfWxJRgupw1R"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 258600,
+      "name": "Crying On The Dancefloor",
+      "url": "https://open.spotify.com/track/7EcjCd8QWRTIKfRY0i4vTu"
+    },
     {
       "added_at": null,
       "album": {
@@ -675,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ammunition",
-        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 206120,
-      "name": "Ammunition",
-      "url": "https://open.spotify.com/track/2z5zyZaP6J9sh74mMKytUo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "zer0 (The Remixes, Pt. 1)",
         "url": "https://open.spotify.com/album/1tKNZiieRvhgkQce7FufKC"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 156190,
       "name": "Good On You - MOTi Remix",
       "url": "https://open.spotify.com/track/30PysXbn5cVodLBPGV2FWb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ammunition",
+        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 206120,
+      "name": "Ammunition",
+      "url": "https://open.spotify.com/track/2z5zyZaP6J9sh74mMKytUo"
     },
     {
       "added_at": null,
@@ -767,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ammunition",
-        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 208240,
-      "name": "Broken Record",
-      "url": "https://open.spotify.com/track/2eQeO6nn2hMaMECtoWMT6y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Liar",
         "url": "https://open.spotify.com/album/2vM48bdBKltEFYUSOEQ8EG"
       },
@@ -799,6 +799,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ammunition",
+        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 208240,
+      "name": "Broken Record",
+      "url": "https://open.spotify.com/track/2eQeO6nn2hMaMECtoWMT6y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "zer0",
+        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 227539,
+      "name": "zer0",
+      "url": "https://open.spotify.com/track/7nMBN3eKuRfcQGEnzDeNKP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/3HtUie8gwm5iINhBRFmLc4"
       },
@@ -811,42 +843,6 @@
       "duration_ms": 219813,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/46L9j7CjtctvVNSZTmEJrx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "zer0",
-        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "Asim Azhar",
-          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
-        }
-      ],
-      "duration_ms": 214992,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6O4dKR2qDrowPXV7lwUNA8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Play Hard EP",
-        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Can't Control Myself",
-      "url": "https://open.spotify.com/track/16tUjfbOz2vzcOC9KlMMfz"
     },
     {
       "added_at": null,
@@ -871,6 +867,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Play Hard EP",
+        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Can't Control Myself",
+      "url": "https://open.spotify.com/track/16tUjfbOz2vzcOC9KlMMfz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "zer0",
+        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        }
+      ],
+      "duration_ms": 214992,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6O4dKR2qDrowPXV7lwUNA8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Krewella (Hits Japan Special Edition)",
         "url": "https://open.spotify.com/album/4K7tFtMLmnx4m55edoHwvT"
       },
@@ -883,22 +915,6 @@
       "duration_ms": 214453,
       "name": "Party Monster",
       "url": "https://open.spotify.com/track/1HUMI5qtdgmXQaaqVzJbjv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "zer0",
-        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 227539,
-      "name": "zer0",
-      "url": "https://open.spotify.com/track/7nMBN3eKuRfcQGEnzDeNKP"
     },
     {
       "added_at": null,
@@ -947,22 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play Hard EP",
-        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 266346,
-      "name": "Play Hard",
-      "url": "https://open.spotify.com/track/1fXmeYsGbs8Mtp6ozgzB8r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "zer0",
         "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
       },
@@ -987,8 +987,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New World Pt. 1",
-        "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
+        "name": "Play Hard EP",
+        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
       },
       "artists": [
         {
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 208544,
-      "name": "Love Outta Me",
-      "url": "https://open.spotify.com/track/79Qq2wM8xhDm8CLjcVTMVk"
+      "duration_ms": 266346,
+      "name": "Play Hard",
+      "url": "https://open.spotify.com/track/1fXmeYsGbs8Mtp6ozgzB8r"
     }
   ],
   "unique_name": "This Is Krewella",

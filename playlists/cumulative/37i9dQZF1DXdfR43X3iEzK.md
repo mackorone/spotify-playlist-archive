@@ -4,7 +4,7 @@
 
 > my alt/pop could mean anything \~<br/>ft\. alemeda & rachel chinouriri 🦎
 
-371 songs - 19 hr 44 min
+372 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [MDE](https://open.spotify.com/track/2jDFXO72LEFopl2IM4vZoI) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [MDE](https://open.spotify.com/album/6hF8DcIpra4pbkhcgakDlm) | 4:47 | 2025-04-03 |  |
 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 | 2025-03-07 | 2025-03-14 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-06-07 | 2025-03-08 |
+| [Metanoia \(p.179\)](https://open.spotify.com/track/1qcpPLLM4y1bGfwPS5DHDI) | [Salty Licorice](https://open.spotify.com/artist/6ipya2KPF19iwpylWPCHZs) | [The Sunrise Cried](https://open.spotify.com/album/5RSwmoVHdPTkHeIQDyRxsN) | 3:12 | 2025-06-10 |  |
 | [Mild To Moderate Pain](https://open.spotify.com/track/6AxlvreGHDqoo0aVeVCmTK) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Mild To Moderate Pain](https://open.spotify.com/album/4XF8dYSOGW5Xdy8x5CfOm3) | 3:15 | 2025-03-21 | 2025-04-11 |
 | [Millennium](https://open.spotify.com/track/51Uj8b5Oi1YY7ayhM4lDoN) | [Celeste Madden](https://open.spotify.com/artist/3o0nlRLCgJxu7fUwDsvGiB) | [Millennium](https://open.spotify.com/album/2Nsxxy2YWTJNGFnhd3hmT9) | 4:06 | 2025-03-07 | 2025-03-28 |
 | [Misunderstanding \- Night Edit](https://open.spotify.com/track/3cYXWHPUthm483Pum3iKdQ) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Misunderstanding \(Night Edit\)](https://open.spotify.com/album/2ASFJ6lZCQ9RPNWxU1DHK9) | 3:37 | 2025-03-14 | 2025-04-04 |

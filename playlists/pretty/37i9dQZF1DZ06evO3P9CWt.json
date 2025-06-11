@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 280607,
+  "num_followers": 280599,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAADxClgAbKztq+nwnBg/XVk0",
+  "snapshot_id": "aEYkAAAAAAAs3M5QnPT7p1GfIosK7oVP",
   "tracks": [
     {
       "added_at": null,
@@ -423,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 157928,
+      "name": "Amor de Que",
+      "url": "https://open.spotify.com/track/7vpGKEUPrA4UEsS4o4W1tP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dawn Of Chromatica",
         "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 140968,
       "name": "Fun Tonight - Pabllo Vittar Remix",
       "url": "https://open.spotify.com/track/70FhY7hwautR5xB1qnHzVn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 157928,
-      "name": "Amor de Que",
-      "url": "https://open.spotify.com/track/7vpGKEUPrA4UEsS4o4W1tP"
     },
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ba\u00fa da Taty 2, Pt. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1aSIovEpV6p1gt3LTqECJr"
-      },
-      "artists": [
-        {
-          "name": "Taty Girl",
-          "url": "https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 158664,
-      "name": "N\u00e3o \u00e9 Papel de Homem - Ao Vivo",
-      "url": "https://open.spotify.com/track/01a0s6oTQ1ZgmYCafcyu8I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SAL",
         "url": "https://open.spotify.com/album/2QhW0MWqMoUENkeL2CFSXE"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 120000,
       "name": "SAL",
       "url": "https://open.spotify.com/track/4b5rbmik2mSrGo8IvjDUUp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ba\u00fa da Taty 2, Pt. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1aSIovEpV6p1gt3LTqECJr"
+      },
+      "artists": [
+        {
+          "name": "Taty Girl",
+          "url": "https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 158664,
+      "name": "N\u00e3o \u00e9 Papel de Homem - Ao Vivo",
+      "url": "https://open.spotify.com/track/01a0s6oTQ1ZgmYCafcyu8I"
     },
     {
       "added_at": null,
@@ -891,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 166108,
-      "name": "No Hablo Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/5HRzqOUfdVsHxDEBQImCT3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
       },
@@ -923,8 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "111 DELUXE",
-        "url": "https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP"
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
       },
       "artists": [
         {
@@ -932,9 +916,9 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 145920,
-      "name": "Eu Vou",
-      "url": "https://open.spotify.com/track/6tkuCCpBNnAWjbOv2MHIgO"
+      "duration_ms": 166108,
+      "name": "No Hablo Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/5HRzqOUfdVsHxDEBQImCT3"
     },
     {
       "added_at": null,
@@ -955,22 +939,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+        "name": "111 DELUXE",
+        "url": "https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP"
       },
       "artists": [
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
         }
       ],
-      "duration_ms": 158544,
-      "name": "Trago seu Amor de Volta (feat. Dilsinho)",
-      "url": "https://open.spotify.com/track/5XZur2QUZ1yY1OclXoKFUt"
+      "duration_ms": 145920,
+      "name": "Eu Vou",
+      "url": "https://open.spotify.com/track/6tkuCCpBNnAWjbOv2MHIgO"
     },
     {
       "added_at": null,
@@ -995,22 +975,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu Nunca Fui Embora",
-        "url": "https://open.spotify.com/album/518eTaR0LiBmCtyjepuLaB"
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
       },
       "artists": [
         {
-          "name": "Fresno",
-          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
-        },
-        {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
         }
       ],
-      "duration_ms": 199629,
-      "name": "Eu Te Amo / Eu Te Odeio (I\u00d4-I\u00d4)",
-      "url": "https://open.spotify.com/track/3GFMmirWIKNp8OyMSf83Dg"
+      "duration_ms": 158544,
+      "name": "Trago seu Amor de Volta (feat. Dilsinho)",
+      "url": "https://open.spotify.com/track/5XZur2QUZ1yY1OclXoKFUt"
     },
     {
       "added_at": null,
@@ -1027,6 +1007,26 @@
       "duration_ms": 179489,
       "name": "\u00c2nsia",
       "url": "https://open.spotify.com/track/3KgZPCgxOKqOeR5VEZXK43"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu Nunca Fui Embora",
+        "url": "https://open.spotify.com/album/518eTaR0LiBmCtyjepuLaB"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 199629,
+      "name": "Eu Te Amo / Eu Te Odeio (I\u00d4-I\u00d4)",
+      "url": "https://open.spotify.com/track/3GFMmirWIKNp8OyMSf83Dg"
     }
   ],
   "unique_name": "This Is Pabllo Vittar",

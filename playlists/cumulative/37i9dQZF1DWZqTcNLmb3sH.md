@@ -2,7 +2,7 @@
 
 ### [Latest Kannada](https://open.spotify.com/playlist/37i9dQZF1DWZqTcNLmb3sH)
 
-> Check out the latest hits from Sandalwood!<br/>Cover : Sarala Subbarao
+> Check out the latest hits from Sandalwood!<br/>Cover : Ekka
 
 1,602 songs - 4 day 1 hr 45 min
 

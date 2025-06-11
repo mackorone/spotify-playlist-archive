@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 
 > A melhor trilha sonora pra se preparar pros dias mais quentes do ano!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,046,358 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,046,298 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 | 67 | [No Therapy](https://open.spotify.com/track/7tUTCcqkMCnC9qLqbQeI0T) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [No Therapy](https://open.spotify.com/album/0XTNNkLIXEGtOqevtADXgi) | 2:52 |
 | 68 | [Glamour Girl](https://open.spotify.com/track/4pJ9shfcBs2BCpbD6IwzeC) | [Louie Austen](https://open.spotify.com/artist/41ITYFOUrXrzWhudmBYC0X) | [Iguana](https://open.spotify.com/album/0Zmj2c0w8Guh4sSblM068O) | 5:01 |
 | 69 | [All This Love \(feat\. Harlœ\)](https://open.spotify.com/track/0nxYyX5PIHJqF4VSb4CIFV) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL) | [All This Love \(feat\. Harlœ\)](https://open.spotify.com/album/3mMaKYr6aPtFSHYUr7acxJ) | 2:44 |
-| 70 | [Banana](https://open.spotify.com/track/2eSnW4d3A4SyEVhVPmBffa) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Kisses](https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE) | 3:15 |
+| 70 | [Cry Dancing](https://open.spotify.com/track/7g2uEIBiSXUNkLmEUCv5nq) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Cry Dancing](https://open.spotify.com/album/6PLgk4A3mMtYCuYSwiQ4pl) | 2:59 |
 
 Snapshot ID: `Z5ehjgAAAADrA6AM9ewWGAJ9BHd1PVB0`

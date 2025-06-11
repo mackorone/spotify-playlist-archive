@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Curtis Harding
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,082 likes - 101 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,141 likes - 101 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 100 | [Without You](https://open.spotify.com/track/2Ex6PBUZ3fsF6slCIiqIdp) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Without You](https://open.spotify.com/album/3WDkQ6nXADxHuZ4c94TqwE) | 2:26 |
 | 101 | [You Can Count On Me](https://open.spotify.com/track/63zB2o0u28X046oIFO2ou1) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Waiting on the Sidelines](https://open.spotify.com/album/5kABgENIqXOEWtN3o6rcPn) | 4:09 |
 
-Snapshot ID: `aEJnzgAAAAAHN3gHH561rImLKqtjQk58`
+Snapshot ID: `aEJnzgAAAABltMSzSreO9K48EkURZknF`

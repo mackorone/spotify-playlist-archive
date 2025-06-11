@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,720 likes - 198 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,757 likes - 198 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 197 | [Eladio](https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Eladio](https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM) | 2:18 |
 | 198 | [On My Mind](https://open.spotify.com/track/0Hj0kGeZLDahlACb0Rp19P) | [dtktd](https://open.spotify.com/artist/7xDx9PMuogC7WSGSK0bVnd) | [On My Mind](https://open.spotify.com/album/4puVnK4L2kmdacIudsFgn3) | 3:14 |
 
-Snapshot ID: `aCx1gQAAAABnI0LUDGd5EfxhIOWZeepp`
+Snapshot ID: `aEh5OAAAAADpVbdJrrZo6rTwgAU7Sm/Q`

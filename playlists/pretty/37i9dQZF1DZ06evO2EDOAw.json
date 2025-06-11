@@ -1,12 +1,12 @@
 {
   "description": "This is Kierra Sheard. The essential tracks, all in one playlist.",
-  "num_followers": 4907,
+  "num_followers": 4910,
   "original_name": "This Is Kierra Sheard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAACU8s4+7gGeNXGymHe2CXuO",
+  "snapshot_id": "aEYkAAAAAAAICNFBXcvstaK3WcFByc6j",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "G.U.T.S. (God's Up To Something)",
+        "url": "https://open.spotify.com/album/3axdrnIrP55NKd3MXIaI7R"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 90008,
+      "name": "G.U.T.S. (God's Up To Something)",
+      "url": "https://open.spotify.com/track/6lRSb2GjSyMEvMm0h4gtl3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My City - Single",
         "url": "https://open.spotify.com/album/2nLXrmWwWYef7UOgkuUMd6"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 218207,
       "name": "My City",
       "url": "https://open.spotify.com/track/4BZ0BhOjn8C6NaXnGwV1gn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "G.U.T.S. (God's Up To Something)",
-        "url": "https://open.spotify.com/album/3axdrnIrP55NKd3MXIaI7R"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 90008,
-      "name": "G.U.T.S. (God's Up To Something)",
-      "url": "https://open.spotify.com/track/6lRSb2GjSyMEvMm0h4gtl3"
     },
     {
       "added_at": null,
@@ -631,30 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Things New",
-        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 238610,
-      "name": "We Need You",
-      "url": "https://open.spotify.com/track/5EyAWYVFPOvS4K3pgLRkxc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Things Work Together",
         "url": "https://open.spotify.com/album/436tJ7T4l2EXqFa4r8PT5r"
       },
@@ -675,6 +651,30 @@
       "duration_ms": 294888,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/74w1s9d3VuQYAcGXRqxmkm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Things New",
+        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 238610,
+      "name": "We Need You",
+      "url": "https://open.spotify.com/track/5EyAWYVFPOvS4K3pgLRkxc"
     },
     {
       "added_at": null,
@@ -735,30 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome to Faith City",
-        "url": "https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz"
       },
       "artists": [
         {
-          "name": "Tim Bowman Jr.",
-          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
-        },
-        {
-          "name": "Faith City Music",
-          "url": "https://open.spotify.com/artist/1Biqub6tmQiUOiVlQViytQ"
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
         },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
         }
       ],
-      "duration_ms": 252760,
-      "name": "Nobody but God (feat. Kierra Sheard & 1K Phew)",
-      "url": "https://open.spotify.com/track/1eCnFnrOGHZvg9L6YSIdIY"
+      "duration_ms": 189392,
+      "name": "Better Than I Found It (feat. Kierra Sheard)",
+      "url": "https://open.spotify.com/track/0q7Y6vWAbhqL0SUFfv8aET"
     },
     {
       "added_at": null,
@@ -791,42 +783,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz"
+        "name": "Welcome to Faith City",
+        "url": "https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3"
       },
       "artists": [
         {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+          "name": "Tim Bowman Jr.",
+          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
+        },
+        {
+          "name": "Faith City Music",
+          "url": "https://open.spotify.com/artist/1Biqub6tmQiUOiVlQViytQ"
         },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 189392,
-      "name": "Better Than I Found It (feat. Kierra Sheard)",
-      "url": "https://open.spotify.com/track/0q7Y6vWAbhqL0SUFfv8aET"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Glory Song",
-        "url": "https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         },
         {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
         }
       ],
-      "duration_ms": 307960,
-      "name": "All Glory",
-      "url": "https://open.spotify.com/track/2rXdqg7tdmrwJZmXTi5Cym"
+      "duration_ms": 252760,
+      "name": "Nobody but God (feat. Kierra Sheard & 1K Phew)",
+      "url": "https://open.spotify.com/track/1eCnFnrOGHZvg9L6YSIdIY"
     },
     {
       "added_at": null,
@@ -915,6 +895,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Glory Song",
+        "url": "https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 307960,
+      "name": "All Glory",
+      "url": "https://open.spotify.com/track/2rXdqg7tdmrwJZmXTi5Cym"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "V4...The Other Side",
         "url": "https://open.spotify.com/album/2vdDEuqRB1P8oCAACbtoYJ"
       },
@@ -939,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Act Like You Know",
-        "url": "https://open.spotify.com/album/05NmdHk18G886nI09gL8Gj"
-      },
-      "artists": [
-        {
-          "name": "Aarion Pace Rhodes",
-          "url": "https://open.spotify.com/artist/6SfjkLFy9F3mpfRW0GcLEG"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 254730,
-      "name": "Act Like You Know",
-      "url": "https://open.spotify.com/track/6XjyTfImNEAOrv6Ic3Nbyt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
@@ -971,6 +951,22 @@
       "duration_ms": 205178,
       "name": "Mo' Better",
       "url": "https://open.spotify.com/track/5OblpdryT79xB9YHHu9vnL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Owe You",
+        "url": "https://open.spotify.com/album/2xmUC6JDf6PS06lb1ZJffL"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 172693,
+      "name": "All I Am",
+      "url": "https://open.spotify.com/track/1FZFAtqLVRrB9pWZWoNd3z"
     },
     {
       "added_at": null,
@@ -1015,26 +1011,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oil + Water",
-        "url": "https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 315533,
-      "name": "Somehow (feat. Kierra Sheard)",
-      "url": "https://open.spotify.com/track/2TmKgQy6If0wrPHtLKbmWp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
@@ -1075,34 +1051,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Owe You",
-        "url": "https://open.spotify.com/album/2xmUC6JDf6PS06lb1ZJffL"
+        "name": "Oil + Water",
+        "url": "https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX"
       },
       "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 172693,
-      "name": "All I Am",
-      "url": "https://open.spotify.com/track/1FZFAtqLVRrB9pWZWoNd3z"
+      "duration_ms": 315533,
+      "name": "Somehow (feat. Kierra Sheard)",
+      "url": "https://open.spotify.com/track/2TmKgQy6If0wrPHtLKbmWp"
     },
     {
       "added_at": null,
       "album": {
-        "name": "This Is Me",
-        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
+        "name": "SORRY, I CHANGED (AGAIN)",
+        "url": "https://open.spotify.com/album/0z1gNLw6wCE0azh08jDWyK"
       },
       "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 289240,
-      "name": "Hear This",
-      "url": "https://open.spotify.com/track/1NABT15PuixOq4qohUy3Uo"
+      "duration_ms": 196988,
+      "name": "Paid It All",
+      "url": "https://open.spotify.com/track/4wzFepzEcy21hrLGpk4PxI"
     },
     {
       "added_at": null,
@@ -1127,22 +1111,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "SORRY, I CHANGED (AGAIN)",
-        "url": "https://open.spotify.com/album/0z1gNLw6wCE0azh08jDWyK"
+        "name": "This Is Me",
+        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
       },
       "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 196988,
-      "name": "Paid It All",
-      "url": "https://open.spotify.com/track/4wzFepzEcy21hrLGpk4PxI"
+      "duration_ms": 289240,
+      "name": "Hear This",
+      "url": "https://open.spotify.com/track/1NABT15PuixOq4qohUy3Uo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bold Right Life",
+        "url": "https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "Praise Him Now",
+      "url": "https://open.spotify.com/track/6dzvHYU9p50AWJshDhqZVa"
     }
   ],
   "unique_name": "This Is Kierra Sheard",

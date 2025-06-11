@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 114628,
+  "num_followers": 114643,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -279,18 +279,18 @@
     {
       "added_at": "2025-05-22 22:00:40",
       "album": {
-        "name": "Konge p\u00e5 b\u00f8gda",
-        "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
+        "name": "Polisen",
+        "url": "https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj"
       },
       "artists": [
         {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+          "name": "Silje Bakke",
+          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
         }
       ],
-      "duration_ms": 180393,
-      "name": "Konge p\u00e5 b\u00f8gda",
-      "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
+      "duration_ms": 145645,
+      "name": "Polisen",
+      "url": "https://open.spotify.com/track/1df1uSXhMSzNE29Ung8GEn"
     },
     {
       "added_at": "2025-05-22 22:00:40",
@@ -311,6 +311,22 @@
     {
       "added_at": "2025-05-22 22:00:40",
       "album": {
+        "name": "Konge p\u00e5 b\u00f8gda",
+        "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 180393,
+      "name": "Konge p\u00e5 b\u00f8gda",
+      "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
+    },
+    {
+      "added_at": "2025-05-22 22:00:40",
+      "album": {
         "name": "Dum i haue",
         "url": "https://open.spotify.com/album/3OLp95GgOiPnnmiU0C5SFU"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 144808,
       "name": "Dum i haue",
       "url": "https://open.spotify.com/track/02V2PBxnk14EbrOaDmI0gU"
-    },
-    {
-      "added_at": "2025-05-22 22:00:40",
-      "album": {
-        "name": "Polisen",
-        "url": "https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj"
-      },
-      "artists": [
-        {
-          "name": "Silje Bakke",
-          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
-        }
-      ],
-      "duration_ms": 145645,
-      "name": "Polisen",
-      "url": "https://open.spotify.com/track/1df1uSXhMSzNE29Ung8GEn"
     },
     {
       "added_at": "2025-05-22 22:00:40",
@@ -427,8 +427,8 @@
     {
       "added_at": "2025-05-22 22:00:40",
       "album": {
-        "name": "F\u00f8dt i nord",
-        "url": "https://open.spotify.com/album/2dDMye7V9k7u1gOgJlhG1K"
+        "name": "Norge rundt med Staysman",
+        "url": "https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3"
       },
       "artists": [
         {
@@ -436,13 +436,13 @@
           "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         },
         {
-          "name": "Han Helge & Han H\u00e5kon",
-          "url": "https://open.spotify.com/artist/1bIbltluV9bXeETPkdhDKI"
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 156030,
-      "name": "F\u00f8dt i nord",
-      "url": "https://open.spotify.com/track/7mrXev5OYtn2FQz9R6U7ja"
+      "duration_ms": 138454,
+      "name": "Hytta Mi",
+      "url": "https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ"
     },
     {
       "added_at": "2025-05-22 22:00:40",
@@ -519,8 +519,8 @@
     {
       "added_at": "2025-05-22 22:00:40",
       "album": {
-        "name": "Norge rundt med Staysman",
-        "url": "https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3"
+        "name": "F\u00f8dt i nord",
+        "url": "https://open.spotify.com/album/2dDMye7V9k7u1gOgJlhG1K"
       },
       "artists": [
         {
@@ -528,13 +528,13 @@
           "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         },
         {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+          "name": "Han Helge & Han H\u00e5kon",
+          "url": "https://open.spotify.com/artist/1bIbltluV9bXeETPkdhDKI"
         }
       ],
-      "duration_ms": 138454,
-      "name": "Hytta Mi",
-      "url": "https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ"
+      "duration_ms": 156030,
+      "name": "F\u00f8dt i nord",
+      "url": "https://open.spotify.com/track/7mrXev5OYtn2FQz9R6U7ja"
     },
     {
       "added_at": "2025-05-22 22:00:40",
@@ -679,26 +679,6 @@
     {
       "added_at": "2025-05-22 22:00:40",
       "album": {
-        "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver (EPA Remixes)",
-        "url": "https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp"
-      },
-      "artists": [
-        {
-          "name": "Lasse Stefanz",
-          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
-        },
-        {
-          "name": "N!NE",
-          "url": "https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro"
-        }
-      ],
-      "duration_ms": 173986,
-      "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver - N!NE EPA Bass Boosted Remix",
-      "url": "https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj"
-    },
-    {
-      "added_at": "2025-05-22 22:00:40",
-      "album": {
         "name": "GUTTA (feat. Plumbo)",
         "url": "https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 158866,
       "name": "GUTTA (feat. Plumbo)",
       "url": "https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE"
+    },
+    {
+      "added_at": "2025-05-22 22:00:40",
+      "album": {
+        "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver (EPA Remixes)",
+        "url": "https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp"
+      },
+      "artists": [
+        {
+          "name": "Lasse Stefanz",
+          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
+        },
+        {
+          "name": "N!NE",
+          "url": "https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro"
+        }
+      ],
+      "duration_ms": 173986,
+      "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver - N!NE EPA Bass Boosted Remix",
+      "url": "https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj"
     },
     {
       "added_at": "2025-05-22 22:00:40",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-05-22 22:00:40",
       "album": {
-        "name": "Stj\u00e6lt fr\u00e5 ei countryl\u00e5t",
-        "url": "https://open.spotify.com/album/0ZvZl05t7ErPHF3uifasCG"
-      },
-      "artists": [
-        {
-          "name": "Spelloppmaker",
-          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
-        }
-      ],
-      "duration_ms": 188788,
-      "name": "Stj\u00e6lt fr\u00e5 ei countryl\u00e5t",
-      "url": "https://open.spotify.com/track/0gpnzHtnXiZWQemi2XvUZq"
-    },
-    {
-      "added_at": "2025-05-22 22:00:40",
-      "album": {
         "name": "Siste Kveld",
         "url": "https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my"
       },
@@ -823,18 +807,34 @@
     {
       "added_at": "2025-05-22 22:00:40",
       "album": {
-        "name": "Bara vara med dig",
-        "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
+        "name": "Stj\u00e6lt fr\u00e5 ei countryl\u00e5t",
+        "url": "https://open.spotify.com/album/0ZvZl05t7ErPHF3uifasCG"
       },
       "artists": [
         {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+          "name": "Spelloppmaker",
+          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
         }
       ],
-      "duration_ms": 161267,
-      "name": "Bara vara med dig",
-      "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
+      "duration_ms": 188788,
+      "name": "Stj\u00e6lt fr\u00e5 ei countryl\u00e5t",
+      "url": "https://open.spotify.com/track/0gpnzHtnXiZWQemi2XvUZq"
+    },
+    {
+      "added_at": "2025-05-22 22:00:40",
+      "album": {
+        "name": "29 tonn",
+        "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 198268,
+      "name": "29 tonn",
+      "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
     },
     {
       "added_at": "2025-05-22 22:00:40",
@@ -855,34 +855,18 @@
     {
       "added_at": "2025-05-22 22:00:40",
       "album": {
-        "name": "Flammer og Bensin",
-        "url": "https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK"
+        "name": "Bara vara med dig",
+        "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
       },
       "artists": [
         {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
         }
       ],
-      "duration_ms": 212360,
-      "name": "Flammer og Bensin",
-      "url": "https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz"
-    },
-    {
-      "added_at": "2025-05-22 22:00:40",
-      "album": {
-        "name": "Sv\u00e6re Pupper",
-        "url": "https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h"
-      },
-      "artists": [
-        {
-          "name": "KOKKOS",
-          "url": "https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk"
-        }
-      ],
-      "duration_ms": 138947,
-      "name": "Sv\u00e6re Pupper",
-      "url": "https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD"
+      "duration_ms": 161267,
+      "name": "Bara vara med dig",
+      "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
     },
     {
       "added_at": "2025-05-22 22:00:40",
@@ -923,6 +907,38 @@
     {
       "added_at": "2025-05-22 22:00:40",
       "album": {
+        "name": "Flammer og Bensin",
+        "url": "https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 212360,
+      "name": "Flammer og Bensin",
+      "url": "https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz"
+    },
+    {
+      "added_at": "2025-05-22 22:00:40",
+      "album": {
+        "name": "Sv\u00e6re Pupper",
+        "url": "https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h"
+      },
+      "artists": [
+        {
+          "name": "KOKKOS",
+          "url": "https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk"
+        }
+      ],
+      "duration_ms": 138947,
+      "name": "Sv\u00e6re Pupper",
+      "url": "https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD"
+    },
+    {
+      "added_at": "2025-05-22 22:00:40",
+      "album": {
         "name": "Til deg som alltid er overstadig berusa og aldri kommer inn p\u00e5 konsert (det f\u00e5r'n aldri se)",
         "url": "https://open.spotify.com/album/2FLzX94cTeOyzdWqMrYfsm"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 167229,
       "name": "Til deg som alltid er overstadig berusa og aldri kommer inn p\u00e5 konsert - det f\u00e5r'n aldri se",
       "url": "https://open.spotify.com/track/27oP2aiSv0U4ych4m6jIkN"
-    },
-    {
-      "added_at": "2025-05-22 22:00:40",
-      "album": {
-        "name": "29 tonn",
-        "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 198268,
-      "name": "29 tonn",
-      "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
     },
     {
       "added_at": "2025-05-22 22:00:40",

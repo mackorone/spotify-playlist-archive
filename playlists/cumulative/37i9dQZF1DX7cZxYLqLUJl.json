@@ -1359,6 +1359,24 @@
     },
     {
       "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/67fKGoAizybPTMM2l27bpP"
+      },
+      "artists": [
+        {
+          "name": "Tankeflukt",
+          "url": "https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167260,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/4XOrreh4CufJwuUg3p7DuR"
+    },
+    {
+      "album": {
         "name": "Litany",
         "url": "https://open.spotify.com/album/5tGHP4Do2fHjjTB8y3egi5"
       },

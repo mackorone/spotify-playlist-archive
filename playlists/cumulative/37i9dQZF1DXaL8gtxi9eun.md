@@ -4,7 +4,7 @@
 
 > أجمد أغاني البوب المصري كلها في قائمة واحدة\. غلاف: رامي جمال
 
-394 songs - 23 hr 30 min
+395 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Jannat Al Hob](https://open.spotify.com/track/2mrgVjT6BNT46MFwhLmFO7) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Jannat Al Hob](https://open.spotify.com/album/7mKEvo2ScRVTcOvgfezrkR) | 3:56 | 2024-01-02 | 2024-02-18 |
 | [Jayeb Khbari](https://open.spotify.com/track/7g6MW822UoLSQCFrSXUZCI) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Jayeb Khbari](https://open.spotify.com/album/0RFcMf8UFXmaltJ8mk2oV6) | 3:08 | 2023-07-11 | 2023-08-21 |
 | [Kaddabeen](https://open.spotify.com/track/6RoiEYuRGOr7ZdjzaJtMta) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Kaddabeen](https://open.spotify.com/album/3K6vwmVKtmeBbnpcBL69zt) | 3:24 | 2024-02-17 | 2024-11-19 |
+| [Kalam Faregh](https://open.spotify.com/track/3bkkYSKgGjsToIbAhl654c) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Kalam Faregh](https://open.spotify.com/album/7dR1LiIeAibr5NL2jYjnDb) | 4:34 | 2025-06-10 |  |
 | [Kello Waham](https://open.spotify.com/track/1BswE7MEewdixfNF3Vm6dj) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Kello Waham](https://open.spotify.com/album/1Bo8bgAlOE14eEZHeY8RXL) | 3:22 | 2024-01-29 | 2024-02-01 |
 | [khateera](https://open.spotify.com/track/3y1tMUZAy2v5LMyKo7Ko8J) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [khateera](https://open.spotify.com/album/3t3U7jth4HV9tx11NMwC0N) | 3:24 | 2022-05-04 | 2022-07-15 |
 | [Khayef](https://open.spotify.com/track/2ExMyvTPD9nsEBgq80zQQB) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Khayef](https://open.spotify.com/album/0ZU2uWc2wZiYb5lMzufWA3) | 3:15 | 2022-05-04 | 2022-06-04 |
@@ -314,7 +315,7 @@
 | [بقيس الجمال بيكي](https://open.spotify.com/track/4VriXHfdk3GpTMCKOW70D5) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [بقيس الجمال بيكي](https://open.spotify.com/album/5jIBjSo2wTnNdSdUnbs9eN) | 3:47 | 2024-02-17 | 2024-07-19 |
 | [بلاش تتغر](https://open.spotify.com/track/0rjP7wNQffUE86c4ogPUrQ) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بلاش تتغر](https://open.spotify.com/album/3l5B196f1xLIIpzysyaCDV) | 3:32 | 2023-08-18 | 2024-02-07 |
 | [تيجي نسيب](https://open.spotify.com/track/0hZaYE3a53y2VbZq85MceM) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [تيجي نسيب](https://open.spotify.com/album/2hq36WlHifY01YuBdfLv15) | 3:45 | 2024-08-09 |  |
-| [جامدين جامدين](https://open.spotify.com/track/6p8MwOiWSDv6bhgfSjCppL) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [جامدين جامدين](https://open.spotify.com/album/2zR5PYwezfeSwhaSs7dUBp) | 2:36 | 2024-07-04 |  |
+| [جامدين جامدين](https://open.spotify.com/track/6p8MwOiWSDv6bhgfSjCppL) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [جامدين جامدين](https://open.spotify.com/album/2zR5PYwezfeSwhaSs7dUBp) | 2:36 | 2024-07-04 | 2025-06-11 |
 | [جغرافيًا](https://open.spotify.com/track/31gyXhkjaqNtd0qC3sez0S) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [جغرافيًا](https://open.spotify.com/album/1nPTIrAMfh0Tzba123B4IC) | 3:02 | 2025-05-24 |  |
 | [جيت متأخر](https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [جيت متأخر](https://open.spotify.com/album/5Qgmfingzj1FsL1kbu2V5L) | 3:18 | 2023-12-08 | 2024-02-07 |
 | [حالته صعبة](https://open.spotify.com/track/2rz6i8B0kvYVar1GIza4O7) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [حالته صعبة](https://open.spotify.com/album/12J0QVom1KE7d8GaQjbI5x) | 4:52 | 2024-08-16 | 2025-04-18 |
@@ -401,6 +402,6 @@
 | [يوم ما تفارق](https://open.spotify.com/track/24IDrEwDg8oUCkNM2HqIFk) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [يوم ما تفارق](https://open.spotify.com/album/03Isepd8zJovcaPZ6qYFFl) | 4:15 | 2024-06-26 | 2025-03-13 |
 | [٣٠ حياة](https://open.spotify.com/track/2uhzCIW1KnPv465S7myMQx) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [٣٠ حياة](https://open.spotify.com/album/6lGUTiWhKmZMStRv2obKbJ) | 5:18 | 2024-02-17 | 2024-07-30 |
 | [⁠Hazzi Dehekli](https://open.spotify.com/track/3VJ14M8j85bAYBupPOdZu2) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Sekketen](https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o) | 3:12 | 2024-05-07 | 2024-07-16 |
-| [⁠Nazarat](https://open.spotify.com/track/5xiz9j91A3c5o3h08uIToP) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Sekketen](https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o) | 3:18 | 2024-05-07 |  |
+| [⁠Nazarat](https://open.spotify.com/track/5xiz9j91A3c5o3h08uIToP) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Sekketen](https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o) | 3:18 | 2024-05-07 | 2025-06-11 |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > The Hottest Arabic Music.<br/>Cover: Bessan Ismail
 
-423 songs - 1 day 1 hr 31 min
+424 songs - 1 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Makhelaw magalou](https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Makhelaw magalou](https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO) | 3:00 | 2022-07-07 | 2023-07-05 |
 | [Malak Ghayran](https://open.spotify.com/track/0wwY6AmShdMFvYz8tXVZ54) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Malak Ghayran](https://open.spotify.com/album/680KiP3Mb1AUn9tIJZwSHV) | 3:27 | 2021-12-12 | 2022-02-18 |
 | [Malek El Fabraka](https://open.spotify.com/track/6DdXM6uwl9XuGIVwP7bXOx) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Malek El Fabraka](https://open.spotify.com/album/2T3oPO96g0IUsYb9uD2ULT) | 3:23 | 2021-12-12 | 2023-08-11 |
+| [Maleket Gamal El Kon](https://open.spotify.com/track/2UaswhFiFjhWfIBpiVSfEt) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Maleket Gamal El Kon](https://open.spotify.com/album/2o3FieURTMsE0wPBPqFogl) | 2:53 | 2025-06-10 |  |
 | [Malna haka ?](https://open.spotify.com/track/1oRqzXVdTqofua7MDSmJZn) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Malna haka ?](https://open.spotify.com/album/3kVqflkL3lAXJDjBhuYa7n) | 3:06 | 2021-12-12 | 2022-09-19 |
 | [Manga](https://open.spotify.com/track/72UjNW994y94RYAdTB4zD4) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Lehqt Nafsy](https://open.spotify.com/album/5Hy7i5IWXGVgnZ6EGYK5Oq) | 3:19 | 2023-10-04 | 2023-10-12 |
 | [Marthnash](https://open.spotify.com/track/24UlSm1BMapZxtHtBrPexc) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Marthnash](https://open.spotify.com/album/0f7uaCUNzau7vlY0BAPxIH) | 3:36 | 2024-04-17 | 2024-05-02 |
@@ -292,7 +293,7 @@
 | [Tegy Nenbeset](https://open.spotify.com/track/2olgmxnrsz48q2lodyL9YI) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Tegy Nenbeset](https://open.spotify.com/album/4Y0PokkjwBKB44WxXwK8I2) | 3:18 | 2023-08-14 |  |
 | [Tegy Ntrahn](https://open.spotify.com/track/2NF0gMDLnJSaqIfj0SvrDi) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 4:00 | 2022-07-22 | 2022-12-27 |
 | [Tegy Ntrahn](https://open.spotify.com/track/4CvAW2jw7bcfx40aF3YT39) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/1UH5PQeEnm7MFkSN3t71av) | 4:00 | 2022-01-04 | 2022-07-29 |
-| [Tek Tek \(feat\. MHD\)](https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85) | 2:41 | 2023-05-30 |  |
+| [Tek Tek \(feat\. MHD\)](https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85) | 2:41 | 2023-05-30 | 2025-06-11 |
 | [Thekrak \(16\)](https://open.spotify.com/track/4rLXGSQ0IwvAb5Hye9Rixj) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Thekrak \(16\)](https://open.spotify.com/album/7gT2MAtewnaohs143iyPjK) | 4:39 | 2022-09-18 | 2022-09-30 |
 | [Thekrak \(16\)](https://open.spotify.com/track/7DPK6KDwhYUiPPGgXuq1st) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kol El Khata](https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c) | 4:39 | 2022-09-26 | 2022-10-05 |
 | [Ti Ra Ra](https://open.spotify.com/track/10OU7eWlVd6U1nPAUoAlCv) | [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM), [Bashaar Al Jawad](https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W) | [Ti Ra Ra](https://open.spotify.com/album/3KMm49eJBEaIvtS2K2ZIlz) | 2:27 | 2021-12-12 | 2023-02-10 |

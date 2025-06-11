@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-316 songs - 14 hr 23 min
+319 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Boscotrecase](https://open.spotify.com/track/3FuD9bDwD9kCUjxz9GEM2o) | [Ennio Bellucc](https://open.spotify.com/artist/62ZwR3KQ7YIIzgAcLxNsHx) | [Boscotrecase](https://open.spotify.com/album/7xYAJnnKPGyzr3qgo9mFMe) | 2:16 | 2024-05-07 |  |
 | [Breeze](https://open.spotify.com/track/4bN96tqhMRF1WW6jeiLGPB) | [Max Swan](https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj) | [Breeze](https://open.spotify.com/album/3Du1Oc0JUqb6lxFFEqGuT4) | 2:37 | 2025-04-16 |  |
 | [Broken and Beautiful](https://open.spotify.com/track/4JBJiBA9gjVrWhHHf8lhgE) | [Dawn, Dawn, Dawn](https://open.spotify.com/artist/6qT731U8rSadVUrqDvGakd) | [A Gentle Invitation](https://open.spotify.com/album/3u9VcEAHRGzXiejoaybCOw) | 3:29 | 2020-10-20\* | 2023-09-09 |
+| [Brûlante](https://open.spotify.com/track/1odAiMcVPK2ICByCZ47Uxk) | [Lucien Vallière](https://open.spotify.com/artist/4JmBqZlqb5nwbJYRYe4l5G) | [Brûlante](https://open.spotify.com/album/61xylbaTzrl6BCKITSXEFN) | 2:24 | 2025-06-10 |  |
 | [Buonanotte e sogni d’oro](https://open.spotify.com/track/6pQlRxPMSILxVr7vz3JmGC) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Buonanotte e sogni d’oro](https://open.spotify.com/album/2mqptjD5PxNAeTPzouxYKT) | 3:44 | 2020-10-20\* | 2021-10-21 |
 | [Buoyant](https://open.spotify.com/track/6Wq0t1A5sxrYNxKtfXuXHB) | [Iremia](https://open.spotify.com/artist/2GQxq7lvcYy8w71KvQHJM6) | [Lucid Air](https://open.spotify.com/album/2sAUWgPdApJIaescPesSPq) | 1:30 | 2021-01-30 | 2023-09-09 |
 | [Calling](https://open.spotify.com/track/0BY0tUd1MNhONkZwNyMCVg) | [Monaxia](https://open.spotify.com/artist/5oSOrrskSneqhw8bwpkb1v) | [Calling](https://open.spotify.com/album/6DuVMjQuRjgYKmKZNQs1bu) | 2:26 | 2021-01-30 | 2023-09-09 |
@@ -84,6 +85,7 @@
 | [Elegi For Cello](https://open.spotify.com/track/7dQKHDJim4QKJ1yBJjJHER) | [Elena Falwell](https://open.spotify.com/artist/6UAIuJD5BiwwPfxdsVDXBh) | [Elegi For Cello](https://open.spotify.com/album/4EzVBLVXTaZSv3mmaj7zKB) | 2:43 | 2020-10-20\* | 2023-09-09 |
 | [Empathy](https://open.spotify.com/track/6VJP2WKOkybliacQhLzYQN) | [Ricardo Gardner](https://open.spotify.com/artist/5BTXzlOGp7C0zkY3y5rHkT) | [Empathy](https://open.spotify.com/album/1HMzKY4ZxTVOoz3ycrkF5w) | 2:29 | 2020-10-20\* | 2024-07-30 |
 | [Endurance](https://open.spotify.com/track/7kRnLUIABJA0Q21X13XmwJ) | [Aerian](https://open.spotify.com/artist/7bMCx1XzOM2Bb6XTk2sHKf) | [Endurance](https://open.spotify.com/album/1kIaz392QGviN4kPIOhCe5) | 2:29 | 2022-06-24 | 2025-02-25 |
+| [Enigma](https://open.spotify.com/track/5Tp8RmoHqTihaZyFMBZ5jG) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Enigma](https://open.spotify.com/album/5FmIguu1Cg8ACToBY2Klfj) | 3:01 | 2025-06-10 |  |
 | [Enigma Variations: Nimrod](https://open.spotify.com/track/7G26YVx3IowgdA1Fzb58bi) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [L'Orchestra Nazionale di Mendoni](https://open.spotify.com/artist/42xl6CZP3xDMz2eLWRWx2w) | [Variations](https://open.spotify.com/album/2XzIVL7OmXQWpwdZDh7eqj) | 3:09 | 2020-10-20\* | 2023-09-09 |
 | [Enlightenment](https://open.spotify.com/track/5Msu8YDbMCzgcubZ70SmAQ) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [After The Rain Has Fallen](https://open.spotify.com/album/0I4xfg7IicQQb9KQF3Y9p4) | 2:51 | 2020-10-20\* | 2022-05-20 |
 | [Equipoise](https://open.spotify.com/track/0Ij8KeRUVRRAOjJceqt6FF) | [September Meredyth](https://open.spotify.com/artist/1fFlzIR8vrvwW9wEvqoY7P) | [Equipoise](https://open.spotify.com/album/54epGztbs8gWarb8ChOzgj) | 2:56 | 2020-10-20\* |  |
@@ -307,6 +309,7 @@
 | [Veo Tus Ojos](https://open.spotify.com/track/6Oqa6085qLYJbi6v9X2DEe) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Veo Tus Ojos](https://open.spotify.com/album/23kCmRZjRZIfvM7Pi2xRvz) | 3:06 | 2022-07-08 | 2023-09-09 |
 | [Vertical Seas](https://open.spotify.com/track/4xqI2lGmINpE0XMcZdIOYH) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Vertical Seas](https://open.spotify.com/album/5IbA6pnLzkGr23TmhBu4xA) | 3:01 | 2024-12-20 |  |
 | [Vespera](https://open.spotify.com/track/3kRMgnaBoU2JeLVN3TeGIJ) | [Freya Bagger](https://open.spotify.com/artist/5eXjvPNzzT9oZcbK0zuSj7) | [Vespera](https://open.spotify.com/album/1pej4Wxd7Wo5FmWmiyeeFS) | 2:25 | 2025-03-11 |  |
+| [Voicing the Past](https://open.spotify.com/track/2g5UwHtPHeBNfAVaAC7m4r) | [Adrien Mann](https://open.spotify.com/artist/5riMQUJqMiLZg8AcxvjVIf) | [Voicing the Past](https://open.spotify.com/album/1RjoMyc35IAbjMLnYuUoy7) | 2:23 | 2025-06-10 |  |
 | [waltz \- the greenhouse](https://open.spotify.com/track/7kfnzRb4vbJUJDtSFuvlHi) | [BARTH.](https://open.spotify.com/artist/6oM4pj0cViaM9uaplSkKAl) | [finding peace \- the greenhouse](https://open.spotify.com/album/3hcUmxsxfss5ehoxc3sBfm) | 3:12 | 2023-09-08 |  |
 | [Waltz In The Sunset](https://open.spotify.com/track/4KxLDubITTzAoRROcamdIs) | [An&Ca](https://open.spotify.com/artist/6RH6BLYVKA1TGccBIvluoI) | [Forever In Your Arms](https://open.spotify.com/album/3Aqr3oh4OLhRXeBHWqCR4F) | 2:40 | 2020-10-20\* | 2022-07-08 |
 | [warm cocoa](https://open.spotify.com/track/1DH4LU7IDJAfcci6cqnU9c) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [warm cocoa](https://open.spotify.com/album/0sPxt9ckDOlYOEmx8NallC) | 2:24 | 2024-02-05 |  |

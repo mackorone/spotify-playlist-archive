@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 132069,
+  "num_followers": 132078,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAACr79F1s1L0YB4fq9FPhEop",
+  "snapshot_id": "aEYkAAAAAAA4E0kvKVDa/QHUZ3b5/z6d",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "After School Session",
-        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 137106,
-      "name": "Brown Eyed Handsome Man",
-      "url": "https://open.spotify.com/track/2KIz4ileT7mvzFhAR8U5gS"
+      "duration_ms": 185845,
+      "name": "Big Boys",
+      "url": "https://open.spotify.com/track/2Srwzgs6tbJDB4Sm8lUDI0"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck",
-        "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
       },
       "artists": [
         {
@@ -356,25 +356,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 185845,
-      "name": "Big Boys",
-      "url": "https://open.spotify.com/track/2Srwzgs6tbJDB4Sm8lUDI0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "San Francisco Dues",
-        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 142440,
-      "name": "Let's Do Our Thing Together",
-      "url": "https://open.spotify.com/track/7cTrN7Jpg3RduYiH1HwQb8"
+      "duration_ms": 137106,
+      "name": "Brown Eyed Handsome Man",
+      "url": "https://open.spotify.com/track/2KIz4ileT7mvzFhAR8U5gS"
     },
     {
       "added_at": null,
@@ -391,6 +375,22 @@
       "duration_ms": 275440,
       "name": "I'm A Rocker",
       "url": "https://open.spotify.com/track/0x61kbCcvC8WqSihmQMgdA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "San Francisco Dues",
+        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 142440,
+      "name": "Let's Do Our Thing Together",
+      "url": "https://open.spotify.com/track/7cTrN7Jpg3RduYiH1HwQb8"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "From St. Louie To Frisco",
+        "url": "https://open.spotify.com/album/4qce3g6j5IGks63lY23eTD"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "Louis To Frisco",
+      "url": "https://open.spotify.com/track/6H7OQEC6V2X0mB0ss3yrI8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Have Mercy - His Complete Chess Recordings 1969 - 1974",
         "url": "https://open.spotify.com/album/27q84AdiSVhTtrGOwwoMIW"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 177200,
       "name": "No Money Down",
       "url": "https://open.spotify.com/track/6RpRXXv69SeNcRqScvyd0F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From St. Louie To Frisco",
-        "url": "https://open.spotify.com/album/4qce3g6j5IGks63lY23eTD"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "Louis To Frisco",
-      "url": "https://open.spotify.com/track/6H7OQEC6V2X0mB0ss3yrI8"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After School Session",
-        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Wee Wee Hours",
-      "url": "https://open.spotify.com/track/2P7FDhmzGh4iJ2ATb7d9oo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chuck Berry In London",
         "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 109466,
       "name": "Dear Dad - Single Version",
       "url": "https://open.spotify.com/track/6b27e8J1dUre0H9xBM9rvs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Wee Wee Hours",
+      "url": "https://open.spotify.com/track/2P7FDhmzGh4iJ2ATb7d9oo"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "San Francisco Dues",
-        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "San Francisco Dues",
-      "url": "https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 125106,
       "name": "Still Got The Blues",
       "url": "https://open.spotify.com/track/5IpREDjsiqYQNvHqg4Qj3G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "San Francisco Dues",
+        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "San Francisco Dues",
+      "url": "https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "San Francisco Dues",
-        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 157240,
-      "name": "Bordeaux In My Pirough",
-      "url": "https://open.spotify.com/track/3RVH1OQ7AH4A4iac4MzqLT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chuck Berry In Memphis",
         "url": "https://open.spotify.com/album/6YcMOYUcy7x4uOg7PasswM"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 150333,
       "name": "I Do Really Love You",
       "url": "https://open.spotify.com/track/2yJ5SBKkxC7MLHbrEPFQjK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "San Francisco Dues",
+        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 157240,
+      "name": "Bordeaux In My Pirough",
+      "url": "https://open.spotify.com/track/3RVH1OQ7AH4A4iac4MzqLT"
     }
   ],
   "unique_name": "This Is Chuck Berry",

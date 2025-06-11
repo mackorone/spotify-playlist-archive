@@ -1,6 +1,6 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 118101,
+  "num_followers": 118146,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
+        "name": "The Magic Of Manuel",
+        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
+      },
+      "artists": [
+        {
+          "name": "Manuel & The Music Of The Mountains",
+          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Moonglow and Theme from Picnic",
+      "url": "https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
         "name": "The Pops Goes Country (with Boston Pops Orchestra)",
         "url": "https://open.spotify.com/album/0mmCf5GOA5jCuduhZmh0iq"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 163893,
       "name": "Tennessee Waltz (with Boston Pops Orchestra)",
       "url": "https://open.spotify.com/track/5SzsffG2AkYrjgcmUrVfxX"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "The Magic Of Manuel",
-        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
-      },
-      "artists": [
-        {
-          "name": "Manuel & The Music Of The Mountains",
-          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Moonglow and Theme from Picnic",
-      "url": "https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -463,18 +463,18 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2NGgziFUMP8Hs3S7WysJi1"
+        "name": "Paris When It Sizzles",
+        "url": "https://open.spotify.com/album/5lAGUlrq75JPt2DrtfESeK"
       },
       "artists": [
         {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
         }
       ],
-      "duration_ms": 148106,
-      "name": "Our Love",
-      "url": "https://open.spotify.com/track/1GWSHN7cCSTdX1kULdoVPh"
+      "duration_ms": 166706,
+      "name": "Gabrielle",
+      "url": "https://open.spotify.com/track/0XVdFtfj6N7JRvw78tlia1"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -495,18 +495,18 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Paris When It Sizzles",
-        "url": "https://open.spotify.com/album/5lAGUlrq75JPt2DrtfESeK"
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2NGgziFUMP8Hs3S7WysJi1"
       },
       "artists": [
         {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
         }
       ],
-      "duration_ms": 166706,
-      "name": "Gabrielle",
-      "url": "https://open.spotify.com/track/0XVdFtfj6N7JRvw78tlia1"
+      "duration_ms": 148106,
+      "name": "Our Love",
+      "url": "https://open.spotify.com/track/1GWSHN7cCSTdX1kULdoVPh"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -531,6 +531,38 @@
       "duration_ms": 217266,
       "name": "Ebb Tide",
       "url": "https://open.spotify.com/track/2jCGELICh9bYpSiJ9bl2vL"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "A Band Is Born",
+        "url": "https://open.spotify.com/album/2JxztvhZeOftDGyJWEsFjU"
+      },
+      "artists": [
+        {
+          "name": "Billy May",
+          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
+        }
+      ],
+      "duration_ms": 205173,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/58JEIINhz1END8PYpnBZ55"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "The Best Of Nelson Riddle",
+        "url": "https://open.spotify.com/album/1ZBWBWcN8IQFYRgC0jwLOl"
+      },
+      "artists": [
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+        }
+      ],
+      "duration_ms": 144666,
+      "name": "The Green Leaves Of Summer",
+      "url": "https://open.spotify.com/track/3IM5KByL9vEigcg7WqORhv"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -583,22 +615,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "The Best Of Nelson Riddle",
-        "url": "https://open.spotify.com/album/1ZBWBWcN8IQFYRgC0jwLOl"
-      },
-      "artists": [
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
-        }
-      ],
-      "duration_ms": 144666,
-      "name": "The Green Leaves Of Summer",
-      "url": "https://open.spotify.com/track/3IM5KByL9vEigcg7WqORhv"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "Music For Romancing",
         "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
       },
@@ -615,18 +631,34 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "A Band Is Born",
-        "url": "https://open.spotify.com/album/2JxztvhZeOftDGyJWEsFjU"
+        "name": "The America Album",
+        "url": "https://open.spotify.com/album/1Nfll2ZgujqwqmbGozAUKW"
       },
       "artists": [
         {
-          "name": "Billy May",
-          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
+          "name": "James Last",
+          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
         }
       ],
-      "duration_ms": 205173,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/58JEIINhz1END8PYpnBZ55"
+      "duration_ms": 264693,
+      "name": "Jean",
+      "url": "https://open.spotify.com/track/29z6TDFegnPabgoD16wpt0"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Latin Hits I Missed",
+        "url": "https://open.spotify.com/album/59ykUEGD13BeMV0qi700U6"
+      },
+      "artists": [
+        {
+          "name": "Edmundo Ros & His Orchestra",
+          "url": "https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv"
+        }
+      ],
+      "duration_ms": 133813,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/6KdYxXMJpJn6UlfzD2w8Z8"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -647,18 +679,18 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "The America Album",
-        "url": "https://open.spotify.com/album/1Nfll2ZgujqwqmbGozAUKW"
+        "name": "Music For Lovers Only",
+        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
       },
       "artists": [
         {
-          "name": "James Last",
-          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
         }
       ],
-      "duration_ms": 264693,
-      "name": "Jean",
-      "url": "https://open.spotify.com/track/29z6TDFegnPabgoD16wpt0"
+      "duration_ms": 202026,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/33haaDXqwsd7wOk75ov0NL"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -683,38 +715,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Music For Lovers Only",
-        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
-      },
-      "artists": [
-        {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/33haaDXqwsd7wOk75ov0NL"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "Latin Hits I Missed",
-        "url": "https://open.spotify.com/album/59ykUEGD13BeMV0qi700U6"
-      },
-      "artists": [
-        {
-          "name": "Edmundo Ros & His Orchestra",
-          "url": "https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv"
-        }
-      ],
-      "duration_ms": 133813,
-      "name": "Carnival",
-      "url": "https://open.spotify.com/track/6KdYxXMJpJn6UlfzD2w8Z8"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "I Wish You Love",
         "url": "https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 168666,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "Plays Latin Themes For Young Lovers",
-        "url": "https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "How Insensitive",
-      "url": "https://open.spotify.com/track/0Hm8nvg2mibkKlJJJ0SFOB"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -763,6 +747,22 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
+        "name": "Plays Latin Themes For Young Lovers",
+        "url": "https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "How Insensitive",
+      "url": "https://open.spotify.com/track/0Hm8nvg2mibkKlJJJ0SFOB"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
         "name": "Charade",
         "url": "https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy"
       },
@@ -779,18 +779,18 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Hollywood Love Themes",
-        "url": "https://open.spotify.com/album/5EQpdNemXkTVnyV47OAEsZ"
+        "name": "West of Sunset",
+        "url": "https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7"
       },
       "artists": [
         {
-          "name": "Stanley Black and his Orchestra",
-          "url": "https://open.spotify.com/artist/52ixPxvhj7veiIZLScC9K9"
+          "name": "Frank Chacksfield",
+          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
         }
       ],
-      "duration_ms": 224470,
-      "name": "Love Is a Many Splendoured Thing",
-      "url": "https://open.spotify.com/track/5KnNVLAEkIRbNC9FeURva8"
+      "duration_ms": 147506,
+      "name": "Marylin",
+      "url": "https://open.spotify.com/track/4mMky7LwvVButfAckz3upW"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -811,18 +811,18 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "West of Sunset",
-        "url": "https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7"
+        "name": "Hollywood Love Themes",
+        "url": "https://open.spotify.com/album/5EQpdNemXkTVnyV47OAEsZ"
       },
       "artists": [
         {
-          "name": "Frank Chacksfield",
-          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
+          "name": "Stanley Black and his Orchestra",
+          "url": "https://open.spotify.com/artist/52ixPxvhj7veiIZLScC9K9"
         }
       ],
-      "duration_ms": 147506,
-      "name": "Marylin",
-      "url": "https://open.spotify.com/track/4mMky7LwvVButfAckz3upW"
+      "duration_ms": 224470,
+      "name": "Love Is a Many Splendoured Thing",
+      "url": "https://open.spotify.com/track/5KnNVLAEkIRbNC9FeURva8"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "West of Sunset",
-        "url": "https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7"
-      },
-      "artists": [
-        {
-          "name": "Frank Chacksfield",
-          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
-        }
-      ],
-      "duration_ms": 190480,
-      "name": "Capri Serenade",
-      "url": "https://open.spotify.com/track/2TUU5umfVQe14sPiWtLRMB"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "Big Band Bash!",
         "url": "https://open.spotify.com/album/0ryTYwTgma4jd8vLMfk2yK"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 163400,
       "name": "My Last Affair",
       "url": "https://open.spotify.com/track/6qn13FWqpeXQfeoz7aJrp0"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "West of Sunset",
+        "url": "https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7"
+      },
+      "artists": [
+        {
+          "name": "Frank Chacksfield",
+          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Capri Serenade",
+      "url": "https://open.spotify.com/track/2TUU5umfVQe14sPiWtLRMB"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Lovely Lady",
-        "url": "https://open.spotify.com/album/0itwZ1AGwB7Dd0yP0T84Wy"
-      },
-      "artists": [
-        {
-          "name": "Frank Chacksfield",
-          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
-        }
-      ],
-      "duration_ms": 210517,
-      "name": "A Lovely Way To Spend An Evening",
-      "url": "https://open.spotify.com/track/3sqXSFkQsxfFZiVAF8FYiT"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "Pops Stoppers",
         "url": "https://open.spotify.com/album/5vn6TVkymb29hRpqELulM9"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 251689,
       "name": "Liebestraum",
       "url": "https://open.spotify.com/track/58UavZzfKbcfxFfG49uuiZ"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Lovely Lady",
+        "url": "https://open.spotify.com/album/0itwZ1AGwB7Dd0yP0T84Wy"
+      },
+      "artists": [
+        {
+          "name": "Frank Chacksfield",
+          "url": "https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF"
+        }
+      ],
+      "duration_ms": 210517,
+      "name": "A Lovely Way To Spend An Evening",
+      "url": "https://open.spotify.com/track/3sqXSFkQsxfFZiVAF8FYiT"
     },
     {
       "added_at": "2024-07-17 14:53:29",

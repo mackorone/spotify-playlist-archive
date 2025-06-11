@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFn2ideAJpT.md) - [plain]
 
 > Crystal Clear Solfeggio Frequencies 963 Hertz
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,632 likes - 62 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,769 likes - 62 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFn2ideAJpT.md) - [plain]
 | 61 | [Chakra Healing](https://open.spotify.com/track/0uMK8rvIDTz9B1wakrMdkd) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Chakra Healing](https://open.spotify.com/album/2E53QAT0NpsO0QTzh1zwg9) | 4:13 |
 | 62 | [963 Hz Relajamiento](https://open.spotify.com/track/3m3y1qCitcEB5bvheuYPqS) | [Paz Interna](https://open.spotify.com/artist/1Btjq0uMBQTfsHKxyknM7G) | [963 Hz El Futuro](https://open.spotify.com/album/0Z0bvs4In2QVbuhu2MnjGh) | 2:45 |
 
-Snapshot ID: `AAAAAHWXqDtOdbdRUWLzVegycULqDbyD`
+Snapshot ID: `aCRatwAAAACvTmnfPO9++xjYxxCHC++P`

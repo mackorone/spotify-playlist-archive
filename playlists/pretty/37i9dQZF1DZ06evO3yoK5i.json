@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 239293,
+  "num_followers": 239327,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAABFaKf5OllLG6wrTBmzFSfh",
+  "snapshot_id": "aEYkAAAAAAD1I49eKsrH1nZwvVZq9hfl",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/3h5yQVDuEGV0Xu0vVKe0Fk"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Un \u00c1ngel Como El Sol T\u00fa Eres",
-      "url": "https://open.spotify.com/track/6qkDsBn30aO9TJdwXznRO8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
         "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 281253,
       "name": "Estrella Gemela - Remastered 2021",
       "url": "https://open.spotify.com/track/0CEjdxDzT7Yl5KW1nsuhcS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/3h5yQVDuEGV0Xu0vVKe0Fk"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Un \u00c1ngel Como El Sol T\u00fa Eres",
+      "url": "https://open.spotify.com/track/6qkDsBn30aO9TJdwXznRO8"
     },
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dove c'\u00e8 musica",
-        "url": "https://open.spotify.com/album/0CewPA0oXl2anqTzAgVcKX"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        },
-        {
-          "name": "Humberto Gatica",
-          "url": "https://open.spotify.com/artist/67K364KAVvBthhmq70ct4h"
-        }
-      ],
-      "duration_ms": 335440,
-      "name": "L'aurora",
-      "url": "https://open.spotify.com/track/22jJTOMRp6aJrLROjDzcz4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eros",
         "url": "https://open.spotify.com/album/5MDsDepmrXoKkYwY8ZyS3r"
       },
@@ -543,18 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Historias (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf"
+        "name": "Dove c'\u00e8 musica",
+        "url": "https://open.spotify.com/album/0CewPA0oXl2anqTzAgVcKX"
       },
       "artists": [
         {
           "name": "Eros Ramazzotti",
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Humberto Gatica",
+          "url": "https://open.spotify.com/artist/67K364KAVvBthhmq70ct4h"
         }
       ],
-      "duration_ms": 277266,
-      "name": "F\u00e1bula - Remastered 2021",
-      "url": "https://open.spotify.com/track/6E0YAI0iBKV5Dzl3jvnrdW"
+      "duration_ms": 335440,
+      "name": "L'aurora",
+      "url": "https://open.spotify.com/track/22jJTOMRp6aJrLROjDzcz4"
     },
     {
       "added_at": null,
@@ -579,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dove C'\u00e8 Musica",
-        "url": "https://open.spotify.com/album/7pDzIMRQxQHkMmCZIdWAok"
+        "name": "Todo Historias (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf"
       },
       "artists": [
         {
@@ -588,9 +572,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 281600,
-      "name": "Stella gemella",
-      "url": "https://open.spotify.com/track/5KghKF7Q8cqmOjoZIlyjhT"
+      "duration_ms": 277266,
+      "name": "F\u00e1bula - Remastered 2021",
+      "url": "https://open.spotify.com/track/6E0YAI0iBKV5Dzl3jvnrdW"
     },
     {
       "added_at": null,
@@ -611,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Historias (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf"
+        "name": "Dove C'\u00e8 Musica",
+        "url": "https://open.spotify.com/album/7pDzIMRQxQHkMmCZIdWAok"
       },
       "artists": [
         {
@@ -620,9 +604,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 347720,
-      "name": "A Medio Camino - Remastered 2021",
-      "url": "https://open.spotify.com/track/2Pt9kY02ODStk0n20FlEEM"
+      "duration_ms": 281600,
+      "name": "Stella gemella",
+      "url": "https://open.spotify.com/track/5KghKF7Q8cqmOjoZIlyjhT"
     },
     {
       "added_at": null,
@@ -643,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
+        "name": "Todo Historias (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf"
       },
       "artists": [
         {
@@ -652,9 +636,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 305613,
-      "name": "Casi Amor (Quasi amore) - Remastered 2021",
-      "url": "https://open.spotify.com/track/4x7OBTM0w4VgXd5sVaEdjS"
+      "duration_ms": 347720,
+      "name": "A Medio Camino - Remastered 2021",
+      "url": "https://open.spotify.com/track/2Pt9kY02ODStk0n20FlEEM"
     },
     {
       "added_at": null,
@@ -671,6 +655,22 @@
       "duration_ms": 253053,
       "name": "Una Historia Importante - Remastered 2021",
       "url": "https://open.spotify.com/track/6uulJvNvvJep8eNtOLOOIX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 305613,
+      "name": "Casi Amor (Quasi amore) - Remastered 2021",
+      "url": "https://open.spotify.com/track/4x7OBTM0w4VgXd5sVaEdjS"
     },
     {
       "added_at": null,

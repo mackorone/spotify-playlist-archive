@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Caetano & Beth\u00e2nia",
-  "num_followers": 1414544,
+  "num_followers": 1414758,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,18 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "F\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0fwc0d0RgaCypAt32HGICQ"
+        "name": "Cores, Nomes",
+        "url": "https://open.spotify.com/album/1xAQ6kW7DQZxTghyepHtzm"
       },
       "artists": [
         {
           "name": "Caetano Veloso",
           "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
         }
       ],
-      "duration_ms": 212601,
-      "name": "F\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0JBC2rItQc5K8wMZrMDV2r"
+      "duration_ms": 263373,
+      "name": "Queixa",
+      "url": "https://open.spotify.com/track/1NIAQbzrcpqoaZd3sNFFKJ"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -471,18 +467,22 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Cores, Nomes",
-        "url": "https://open.spotify.com/album/1xAQ6kW7DQZxTghyepHtzm"
+        "name": "F\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0fwc0d0RgaCypAt32HGICQ"
       },
       "artists": [
         {
           "name": "Caetano Veloso",
           "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
         }
       ],
-      "duration_ms": 263373,
-      "name": "Queixa",
-      "url": "https://open.spotify.com/track/1NIAQbzrcpqoaZd3sNFFKJ"
+      "duration_ms": 212601,
+      "name": "F\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0JBC2rItQc5K8wMZrMDV2r"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
+        "name": "Rosa Morena",
+        "url": "https://open.spotify.com/album/2v0e82jPJ6kjipDhCKu0Aq"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 121986,
+      "name": "Chega de Saudade",
+      "url": "https://open.spotify.com/track/0dWOiVQwoUYTtXD0VVgmJQ"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
         "name": "Belchior Ac\u00fastico",
         "url": "https://open.spotify.com/album/0g6WyfeTF3xMgMjoYf2EZC"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 155960,
       "name": "A Palo Seco",
       "url": "https://open.spotify.com/track/1rQ0viTAi8pxDy53iNvKNn"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
-        "name": "Rosa Morena",
-        "url": "https://open.spotify.com/album/2v0e82jPJ6kjipDhCKu0Aq"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 121986,
-      "name": "Chega de Saudade",
-      "url": "https://open.spotify.com/track/0dWOiVQwoUYTtXD0VVgmJQ"
     },
     {
       "added_at": "2025-05-30 05:19:13",

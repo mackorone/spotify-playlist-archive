@@ -794,7 +794,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
@@ -2860,7 +2860,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 208000,
       "name": "Al\u00e9gale Al Umpire",
       "url": "https://open.spotify.com/track/3KQwuuHarLTIZIUXtwDmPN"
@@ -4597,6 +4597,24 @@
     },
     {
       "album": {
+        "name": "Ay Mamita",
+        "url": "https://open.spotify.com/album/35nuM8cRFXhxct9LMjcl8q"
+      },
+      "artists": [
+        {
+          "name": "Alan Arrieta",
+          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164042,
+      "name": "Ay Mamita",
+      "url": "https://open.spotify.com/track/4LDd2UU8XdtJRrIyPvR9vW"
+    },
+    {
+      "album": {
         "name": "INC\u00d3MODO",
         "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
@@ -5644,7 +5662,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 212413,
       "name": "BANDIDA",
       "url": "https://open.spotify.com/track/1vvWri6BpgA6Pqz6JixNFa"
@@ -8153,6 +8171,28 @@
     },
     {
       "album": {
+        "name": "B\u00e9same",
+        "url": "https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202285,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B"
+    },
+    {
+      "album": {
         "name": "Caballo Homosexual De Las Monta\u00f1as",
         "url": "https://open.spotify.com/album/0tUOF6Ri9RJM99uHQEj4bD"
       },
@@ -9660,7 +9700,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 195194,
       "name": "CHAMPAGNE",
       "url": "https://open.spotify.com/track/0mfemgLsr0ucLSOBOc4xJ0"
@@ -11314,7 +11354,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 241648,
       "name": "COQUETA",
       "url": "https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV"
@@ -11768,6 +11808,24 @@
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
+    },
+    {
+      "album": {
+        "name": "Crema Helado",
+        "url": "https://open.spotify.com/album/1ynwWMXLjJvJ8rRT9a0AaZ"
+      },
+      "artists": [
+        {
+          "name": "Leandro Santos",
+          "url": "https://open.spotify.com/artist/72taM7sOzAaGZ301OJahR4"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157611,
+      "name": "Crema Helado",
+      "url": "https://open.spotify.com/track/5opOLLSVs2jhxV0KHzpyZ6"
     },
     {
       "album": {
@@ -15022,7 +15080,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 212222,
       "name": "DUE\u00d1O DE TI",
       "url": "https://open.spotify.com/track/72x2PO7XxA6tDMf26rlJqW"
@@ -16593,6 +16651,24 @@
     },
     {
       "album": {
+        "name": "\u00bfY ahora qu\u00e9?",
+        "url": "https://open.spotify.com/album/4idEUGJW1xj2VMK8EWYYMI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168840,
+      "name": "El vino de tu boca",
+      "url": "https://open.spotify.com/track/7hUJOJ6aF45Y7kbx9Xf0qX"
+    },
+    {
+      "album": {
         "name": "LO MISMO DE SIEMPRE",
         "url": "https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6"
       },
@@ -16608,7 +16684,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 199093,
       "name": "EL \u00daLTIMO BESO",
       "url": "https://open.spotify.com/track/0iDvrlGtHMldrW0X85y8zf"
@@ -30576,7 +30652,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 271341,
       "name": "mal comunicada",
       "url": "https://open.spotify.com/track/3q4UXDFDa6is0TDHhZJ70e"
@@ -39084,7 +39160,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 260254,
       "name": "Pa las girlas (con DJ Urba) - Remix",
       "url": "https://open.spotify.com/track/2kvSCKwcdYB8CaBoZm7sa9"
@@ -43035,6 +43111,28 @@
     },
     {
       "album": {
+        "name": "QLOO*",
+        "url": "https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Kreamly",
+          "url": "https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148915,
+      "name": "QLOO*",
+      "url": "https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS"
+    },
+    {
+      "album": {
         "name": "Que Bendici\u00f3n",
         "url": "https://open.spotify.com/album/3g4yazlUAzhkxuCVe1x5hB"
       },
@@ -46382,7 +46480,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 194062,
       "name": "secuestro",
       "url": "https://open.spotify.com/track/3I4YGWwJoqBdBGVnkRjnVw"
@@ -47868,7 +47966,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 184547,
       "name": "si te pillara",
       "url": "https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd"
@@ -47938,6 +48036,28 @@
       "duration_ms": 204454,
       "name": "Si T\u00fa Me Quieres",
       "url": "https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7"
+    },
+    {
+      "album": {
+        "name": "Palabra De To's (Seca)",
+        "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189512,
+      "name": "Si T\u00fa Me Vieras",
+      "url": "https://open.spotify.com/track/46964wQT31RrX0XJ6ML62I"
     },
     {
       "album": {
@@ -51428,7 +51548,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 321600,
       "name": "Te Colaboro - Remix",
       "url": "https://open.spotify.com/track/0OqrGVB6yyf3Sr7mow7X59"
@@ -53504,6 +53624,24 @@
       "duration_ms": 238240,
       "name": "Todo a Su Tiempo",
       "url": "https://open.spotify.com/track/4JLZyyWuvvse6xKiZqRdau"
+    },
+    {
+      "album": {
+        "name": "UNO",
+        "url": "https://open.spotify.com/album/1KgKemleH5GeTmcUA7U9ka"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165527,
+      "name": "Todo Contigo",
+      "url": "https://open.spotify.com/track/0FLh1ZDsjnoACzBrAVjXT2"
     },
     {
       "album": {
@@ -57156,7 +57294,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 184743,
       "name": "Vita Fer",
       "url": "https://open.spotify.com/track/3jS9G4KmuOwuawj3k4Smpc"
@@ -58018,7 +58156,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 162263,
       "name": "WASSUP",
       "url": "https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn"
@@ -60644,7 +60782,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 188952,
       "name": "Zombie Lady",
       "url": "https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV"

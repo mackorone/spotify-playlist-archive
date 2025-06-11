@@ -2,7 +2,7 @@
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D?si=DURCdbRPSkmxvhoVmlXbvQ"> حسين الجسمي </a>
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy?si=FfcOtSRrQiCxivwrvrofWA">  تامر حسني و   <a href="https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k?si=BZx8j7OJRe23ahe63YqC4Q"> الشامي
 
 373 songs - 21 hr 46 min
 
@@ -328,7 +328,7 @@
 | [كده كده بايظه](https://open.spotify.com/track/6JIL1FI26WjTEnHZbOHXzZ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Aly Fathalla](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [كده كده بايظه](https://open.spotify.com/album/78eJSdtqKHJJdYKhPCm6Wn) | 3:09 | 2023-09-08 | 2025-02-13 |
 | [كعبك علي](https://open.spotify.com/track/3fiEw3W3xInUXjyuqFO1S6) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [كعبك علي](https://open.spotify.com/album/1Kgo9nVQn4AwUiaFg3NIFu) | 3:34 | 2023-08-03 | 2023-08-21 |
 | [كل وعد](https://open.spotify.com/track/53A95mGzwiRKw61TOI7VEW) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [كل وعد](https://open.spotify.com/album/6UAXKC0N1xKuEh7otKcz3H) | 3:28 | 2024-06-13 |  |
-| [كلام عينيه](https://open.spotify.com/track/6g95dK7o7vVh8ZCnDAseU5) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 3:55 | 2023-09-25 |  |
+| [كلام عينيه](https://open.spotify.com/track/6g95dK7o7vVh8ZCnDAseU5) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 3:55 | 2023-09-25 | 2025-06-11 |
 | [كله بألف وش](https://open.spotify.com/track/2xa1lKFfSDDEBeJURGDXf6) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [كله بألف وش](https://open.spotify.com/album/3LmFEyUvrTZcfGANGcEX2L) | 3:20 | 2023-09-01 | 2023-10-03 |
 | [كلها بقا ليها اخصام \- عليا الطلاق كله بيكدب](https://open.spotify.com/track/4vLMzTyW0qq87QEaX2enxW) | [Kozbara](https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG) | [كلها بقا ليها اخصام \(عليا الطلاق كله بيكدب\)](https://open.spotify.com/album/76zWCg8Bm8Ifac89Vww2al) | 3:09 | 2024-04-24 | 2024-12-06 |
 | [كنت فاكرك](https://open.spotify.com/track/7smW6V6oHCmWDvk5ec9ukS) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [كنت فاكرك](https://open.spotify.com/album/7qxc6MjDtRvHJIpviokcgq) | 2:47 | 2024-12-16 | 2025-01-10 |

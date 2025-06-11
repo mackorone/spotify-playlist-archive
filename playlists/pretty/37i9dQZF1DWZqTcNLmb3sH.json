@@ -1,13 +1,37 @@
 {
-  "description": "Check out the latest hits from Sandalwood!\nCover : Sarala Subbarao",
-  "num_followers": 63020,
+  "description": "Check out the latest hits from Sandalwood!\nCover : Ekka",
+  "num_followers": 63027,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEbRmwAAAADnndyQhDFRbd9deY0fciCD",
+  "snapshot_id": "aEgziQAAAABciqqXD7j016D/kB0fEBKQ",
   "tracks": [
+    {
+      "added_at": "2025-06-09 12:18:40",
+      "album": {
+        "name": "Bangle Bangari (From \"Ekka\")",
+        "url": "https://open.spotify.com/album/2ARHhMPgbuImGJvbzx9Pa9"
+      },
+      "artists": [
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
+        },
+        {
+          "name": "Nagarjun Sharma",
+          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
+        }
+      ],
+      "duration_ms": 264004,
+      "name": "Bangle Bangari (From \"Ekka\")",
+      "url": "https://open.spotify.com/track/5pev9XrM5pNdpgSa1gTkGc"
+    },
     {
       "added_at": "2025-05-20 08:58:55",
       "album": {
@@ -159,30 +183,6 @@
       "duration_ms": 233308,
       "name": "Shaharavanu (From \"Aleva Moda\")",
       "url": "https://open.spotify.com/track/5KmSM0qK7dvMfRFSJDZjlj"
-    },
-    {
-      "added_at": "2025-06-09 12:18:40",
-      "album": {
-        "name": "Bangle Bangari (From \"Ekka\")",
-        "url": "https://open.spotify.com/album/2ARHhMPgbuImGJvbzx9Pa9"
-      },
-      "artists": [
-        {
-          "name": "Anthony Daasan",
-          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
-        },
-        {
-          "name": "Charanraj MR",
-          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
-        },
-        {
-          "name": "Nagarjun Sharma",
-          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
-        }
-      ],
-      "duration_ms": 264004,
-      "name": "Bangle Bangari (From \"Ekka\")",
-      "url": "https://open.spotify.com/track/5pev9XrM5pNdpgSa1gTkGc"
     },
     {
       "added_at": "2025-06-06 13:06:55",

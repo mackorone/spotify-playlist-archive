@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: LARINHX, Marisa Pecadora
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,304 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,334 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 19 | [Bandida](https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [BANDIDA](https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj) | 2:59 |
 | 20 | [Fé nas Maluca](https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Fé nas Maluca](https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA) | 2:23 |
 | 21 | [Hentai](https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Hentai](https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02) | 2:22 |
-| 22 | [Fases](https://open.spotify.com/track/1oq5Gk7m0r3kRzOoh6GUOA) | [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Andressinha](https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al) | [Fases](https://open.spotify.com/album/36R1fAVyOsz8ockmiJVv1o) | 3:19 |
+| 22 | [Fases](https://open.spotify.com/track/1oq5Gk7m0r3kRzOoh6GUOA) | [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [DRESSA](https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al) | [Fases](https://open.spotify.com/album/36R1fAVyOsz8ockmiJVv1o) | 3:19 |
 | 23 | [Mais Uma Vez](https://open.spotify.com/track/1eaovty3PjfGj6vmAWONPg) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Modestto](https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd) | [Versos e Voos](https://open.spotify.com/album/0PxKUgrFm5TILYhoQk98XQ) | 3:12 |
 | 24 | [LAI$ROSA On The Radar Freestyle](https://open.spotify.com/track/3s2njFVDOO2dn46Y3KkIoy) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [LAI$ROSA On The Radar Freestyle](https://open.spotify.com/album/3Zih5VaAa4t3PFEYyUUNKV) | 2:17 |
 | 25 | [Date](https://open.spotify.com/track/51TPPeZpsia4O6EGhFXrYP) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Date](https://open.spotify.com/album/3WAICN4NCMJpkY7uG1DcIK) | 2:40 |

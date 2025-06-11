@@ -1,6 +1,6 @@
 {
   "description": "Fine jazz for a fine day.",
-  "num_followers": 27509,
+  "num_followers": 27508,
   "original_name": "fine jazz",
   "owner": {
     "name": "Spotify",
@@ -292,12 +292,12 @@
       },
       "artists": [
         {
-          "name": "Chiminyo",
-          "url": "https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4"
-        },
-        {
           "name": "Uniri",
           "url": "https://open.spotify.com/artist/6MGWbyxXmoiLVcsZkapigA"
+        },
+        {
+          "name": "Chiminyo",
+          "url": "https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4"
         }
       ],
       "duration_ms": 154038,

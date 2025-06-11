@@ -4,7 +4,7 @@
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 김뮤즈 \(Kimmuse\)\) \(Celebrating 10 years of Fresh Finds! Meet the emerging talents of Korea!\)
 
-1,549 songs - 3 day 15 hr 7 min
+1,550 songs - 3 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Burger Boy](https://open.spotify.com/track/7hYLH7Dv6NXnpYfT4Hs8lp) | [Lel](https://open.spotify.com/artist/6dTVavxnfSecjWl1BOcrCM) | [Burger Boy](https://open.spotify.com/album/566BQ0O5BRYgCpIRrjcUx4) | 4:23 | 2022-06-18 | 2022-07-05 |
 | [Burn \(feat\. HWI YOUNG\)](https://open.spotify.com/track/6kyoDUOnuJ8LOz8MHGqyHl) | [ABOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM), [Hemo](https://open.spotify.com/artist/2iEc1J1tlRKvBC7XX77tnz), [HWI YOUNG](https://open.spotify.com/artist/33AKNSK4a6ue4IWvjojOCP) | [Burn \(feat\. HWI YOUNG\)](https://open.spotify.com/album/25I59rAJSxacffGGW95Nmh) | 3:57 | 2022-10-14 | 2023-02-01 |
 | [BURN\-OUT](https://open.spotify.com/track/6wJ6w7zUkO9XXI90HxGll1) | [FRIDA\-ANNE](https://open.spotify.com/artist/5YfqwaqXKVlPHQYrFNrETr) | [BURN\-OUT](https://open.spotify.com/album/3AIPiHniTj4nvppiLvTyof) | 2:36 | 2023-01-11 | 2023-02-09 |
-| [Burning slow \(feat\. Sik\-K, GGM LIL DRAGON\) \- Remix](https://open.spotify.com/track/5q7uQrUfdGIrTnspd8tYu6) | [Molly Yam](https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [GGM LIL DRAGON](https://open.spotify.com/artist/41mlkzYR9tlZ8ZByH6yhCS) | [Burning slow \(feat\. Sik\-K, GGM LIL DRAGON\) \[Remix\]](https://open.spotify.com/album/7s2DOIB1K1zx8Lf0AF9Ivh) | 2:50 | 2025-02-14 |  |
+| [Burning slow \(feat\. Sik\-K, GGM LIL DRAGON\) \- Remix](https://open.spotify.com/track/5q7uQrUfdGIrTnspd8tYu6) | [Molly Yam](https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [GGM LIL DRAGON](https://open.spotify.com/artist/41mlkzYR9tlZ8ZByH6yhCS) | [Burning slow \(feat\. Sik\-K, GGM LIL DRAGON\) \[Remix\]](https://open.spotify.com/album/7s2DOIB1K1zx8Lf0AF9Ivh) | 2:50 | 2025-02-14 | 2025-06-11 |
 | [But I'll let you go now](https://open.spotify.com/track/452KNEoKCdREczV2K75Ccg) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [But I'll let you go now](https://open.spotify.com/album/0coGY4BoKKCiGr8PZf7Qft) | 3:38 | 2024-09-19 | 2025-02-04 |
 | [Butterfly on my mind](https://open.spotify.com/track/6I6F82g5Lk555dRHWjVR1w) | [HolyBear](https://open.spotify.com/artist/6RhW0yVl3QJNlL894XSGpn) | [Honey jar No.01](https://open.spotify.com/album/5Zx2HCIxersMYBoulDHh9t) | 3:39 | 2023-01-11 | 2023-02-09 |
 | [by your side](https://open.spotify.com/track/1euSUsk7zx85oQfpv8JpK1) | [Ju Yoon Ha](https://open.spotify.com/artist/2G6zefY3cizYXTcpWNtNMP), [Richard Parkers](https://open.spotify.com/artist/3sw0rm6AMRKHAoFDjuYw5C) | [by your side](https://open.spotify.com/album/7GzJlw0XgAIV5mAKTkqIWC) | 4:00 | 2022-09-29 | 2022-12-01 |
@@ -354,6 +354,7 @@
 | [Don′t Wanna Lose Myself \(Feat\. veanii\)](https://open.spotify.com/track/4rElh76q7QWQD7DUoLYISU) | [Eunwol](https://open.spotify.com/artist/7KhtkI63Z1EyjZTMVUAOs2), [veanii](https://open.spotify.com/artist/5ZdRpsx2LkNxgbbJIBVR21) | [Don′t Wanna Lose Myself](https://open.spotify.com/album/7cgDi9nODMY4ZMtSHDbOe7) | 3:03 | 2024-09-02 | 2025-02-04 |
 | [DOONGDOONG](https://open.spotify.com/track/1yZlciew2fF8UeKRTWnSyr) | [GAYUN](https://open.spotify.com/artist/6n7CIEww6DHvulPWWaY7lx) | [DOONGDOONG](https://open.spotify.com/album/42rPgb1YkbplNgH4pSm1Ya) | 2:18 | 2022-09-05 | 2022-11-08 |
 | [double tap](https://open.spotify.com/track/1ihLTwHjpxs2waSvf5yOrj) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [double tap](https://open.spotify.com/album/4fwBRNDbioQ2eO0DZxyzyK) | 2:37 | 2022-06-09 | 2022-07-05 |
+| [Double Trouble \(Remix\)](https://open.spotify.com/track/2TeevnrPlJfYfyJtSjK1mB) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Double Trouble \(Remix\)](https://open.spotify.com/album/3ylXCMrMzkXt5mVkZYw67P) | 3:12 | 2025-06-10 |  |
 | [DRAMA \(feat\. FR:EDEN\)](https://open.spotify.com/track/2vHRtmzDZPBPa40Sc5VvJZ) | [Komah Jay](https://open.spotify.com/artist/5CBVMQylJ4lBChrO4HgO1K), [FR:EDEN](https://open.spotify.com/artist/6psIuXSnGPGKY93Wcj1qeW) | [DRAMA](https://open.spotify.com/album/10GZ3uTbFaAFiXVLRVNrtU) | 3:12 | 2022-06-09 | 2022-06-19 |
 | [Dream](https://open.spotify.com/track/1xlFjLN4YvtwiFfsdsFJr1) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Dream](https://open.spotify.com/album/4KncPcPqHtRgmZjNtFB9Xy) | 6:14 | 2022-05-02 | 2022-06-10 |
 | [Dream](https://open.spotify.com/track/4L4nz12JO6kO7MsNOYg3Q2) | [Neoul](https://open.spotify.com/artist/7IgaF0I7U8PSC2CW4YVNaQ) | [위로](https://open.spotify.com/album/51IyRzPbDrknhdKyrV01c0) | 4:03 | 2022-06-09 | 2022-06-21 |

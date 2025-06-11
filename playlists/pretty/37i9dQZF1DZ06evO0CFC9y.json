@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 36568,
+  "num_followers": 36570,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAABCcuYQeMaLLVkFaOsPPXnX",
+  "snapshot_id": "aEYkAAAAAAA4MJsb9jSWuMDlRsCEyoX/",
   "tracks": [
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 140240,
-      "name": "This Secret Ninja",
-      "url": "https://open.spotify.com/track/55O5Cy0aULLS0Gvt4XakVM"
+      "duration_ms": 102600,
+      "name": "Wake-Up Call",
+      "url": "https://open.spotify.com/track/7J1BMTiBm1qVyUycTGvo3X"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 102600,
-      "name": "Wake-Up Call",
-      "url": "https://open.spotify.com/track/7J1BMTiBm1qVyUycTGvo3X"
+      "duration_ms": 140240,
+      "name": "This Secret Ninja",
+      "url": "https://open.spotify.com/track/55O5Cy0aULLS0Gvt4XakVM"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shut Your Mouth And Open Your Eyes",
-        "url": "https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB"
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 93706,
-      "name": "Three Reasons",
-      "url": "https://open.spotify.com/track/3buW09qkN0WsPWmeStXdDC"
+      "duration_ms": 140579,
+      "name": "Begging For Trouble",
+      "url": "https://open.spotify.com/track/19elq0F6glRZAResdR1XTR"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bodies",
-        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
+        "name": "Shut Your Mouth And Open Your Eyes",
+        "url": "https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 140579,
-      "name": "Begging For Trouble",
-      "url": "https://open.spotify.com/track/19elq0F6glRZAResdR1XTR"
+      "duration_ms": 93706,
+      "name": "Three Reasons",
+      "url": "https://open.spotify.com/track/3buW09qkN0WsPWmeStXdDC"
     },
     {
       "added_at": null,

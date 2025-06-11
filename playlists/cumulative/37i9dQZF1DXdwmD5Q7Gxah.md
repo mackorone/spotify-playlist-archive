@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/put\-me\-on\-a\-porch\-with\-a\-crispy\-beverage">Check out our May newsletter!</a> Cover: Ethel Cain
 
-3,394 songs - 7 day 17 hr 5 min
+3,395 songs - 7 day 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2054,6 +2054,7 @@
 | [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/track/0shO1fRNWJusvfEId0OfsR) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/album/2A4pe5mwhAjBx2gas0HsWM) | 2:10 | 2024-02-27 | 2024-03-22 |
 | [New Money](https://open.spotify.com/track/5nmE1iF4KtmvbIBUHG1TZ1) | [Brent de la Cruz](https://open.spotify.com/artist/6K3z7wWXjNRKFyTnMtKQbD) | [New Money](https://open.spotify.com/album/1G0h2tBZj0SBnQPzG1eBH1) | 2:54 | 2019-08-16 | 2019-10-10 |
 | [New Slang](https://open.spotify.com/track/1wAqhAF1dynDjMy7m5CSSE) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World](https://open.spotify.com/album/1OXUnUd8QPoVJpStlBGn0J) | 3:51 | 2022-05-12 | 2022-07-30 |
+| [New York](https://open.spotify.com/track/0Q9kIg9o8w1XKepXWmDUmT) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 2:32 | 2025-06-10 |  |
 | [New York](https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [New York](https://open.spotify.com/album/0fi5QEzJUB4aSYoRNTGqVa) | 2:43 | 2024-10-11 | 2025-03-14 |
 | [News At 9](https://open.spotify.com/track/4ve3XvrdiYbKeDZ1QdeBU7) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [News At 9](https://open.spotify.com/album/7xc9xUwYtVKNIA2DEx51ce) | 3:13 | 2022-04-22 | 2022-06-10 |
 | [Next Summer](https://open.spotify.com/track/5wqOKs1a7wSB3yUzYoRjHb) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [Next Summer](https://open.spotify.com/album/19sockWCm1L90iLEqMTur0) | 3:08 | 2020-07-31 | 2020-10-16 |

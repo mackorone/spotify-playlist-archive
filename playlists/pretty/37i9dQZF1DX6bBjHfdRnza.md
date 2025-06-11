@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > Celebrating 10 years of the best new dance music by independent artists and labels, featuring Collect 200\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,337 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,443 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Westside](https://open.spotify.com/track/27bKtnJX9Fe4sM2CZ4nbjy) | [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ) | [Westside](https://open.spotify.com/album/6MiGMLLVMQUdtE12WlvwGj) | 3:08 |
 | 100 | [I'LL BE THERE](https://open.spotify.com/track/6CipQEf67sBUWvr7bG4r09) | [Dom Dias](https://open.spotify.com/artist/68ptFxNNKKJOxy7Y8x5K0B) | [EPTWO.5](https://open.spotify.com/album/44rMzAjLp36rvaaagY50sW) | 3:12 |
 
-Snapshot ID: `aEMxRgAAAADMDVLEfdF/U7ntcZVU6fIr`
+Snapshot ID: `AAAAAL07E5/7d0gDktucqtEK5CC3lmMJ`

@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,461 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,746 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Loneliness](https://open.spotify.com/track/5xspb4pHCUdfQvWc5y3e51) | [Tomcraft](https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp) | [Trance \- The Early Years, Vol\. 2 \(2002\-2007\)](https://open.spotify.com/album/47D7XEBUhrgSh1CaVixJLh) | 3:48 |
 | 2 | [Ecuador \- Original Radio Edit](https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [It's My Life](https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS) | 3:32 |
 | 3 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 |
-| 4 | [Touch Me](https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw) | [Rui Da Silva](https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v) | [Produced & Remixed](https://open.spotify.com/album/7slnTp1JuFDHosCeCCGPrI) | 8:35 |
-| 5 | [God Is a DJ](https://open.spotify.com/track/1pUFYb9peWkK8m1WCKNRjp) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Forever Faithless \- The Greatest Hits](https://open.spotify.com/album/2Vcq2BbEjHFdfodZ8hlcZL) | 3:28 |
+| 4 | [God Is a DJ](https://open.spotify.com/track/1pUFYb9peWkK8m1WCKNRjp) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Forever Faithless \- The Greatest Hits](https://open.spotify.com/album/2Vcq2BbEjHFdfodZ8hlcZL) | 3:28 |
+| 5 | [Touch Me](https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw) | [Rui Da Silva](https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v) | [Produced & Remixed](https://open.spotify.com/album/7slnTp1JuFDHosCeCCGPrI) | 8:35 |
 | 6 | [On The Beach \- Mauro Picotto's CRW Remix](https://open.spotify.com/track/1YsZB1pLIXR0YgiOxUG9cv) | [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [On The Beach](https://open.spotify.com/album/6VFOyyn3IVAWkeoJzBOCV9) | 3:17 |
 | 7 | [Encore Une Fois \- Future Breeze Edit](https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Future Breeze](https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls) | [It's My Life](https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS) | 3:41 |
-| 8 | [Seven Days and One Week \- Radio Edit](https://open.spotify.com/track/47BPp5TPDpl0wCXB0FWXvg) | [BBE](https://open.spotify.com/artist/1Jz17Vwjc2WYOT2MfYG5GO) | [Seven Days and One Week](https://open.spotify.com/album/1WJ0SZdrAvouJXwp6I5Gs5) | 4:31 |
-| 9 | [Take Me Away \(Into The Night\) \- Vocal Radio Mix](https://open.spotify.com/track/0EcH1iItB5rVIZaaiQMbsG) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Believe](https://open.spotify.com/album/7m03aYUMXQ19qB1s5rTz4w) | 3:10 |
+| 8 | [Take Me Away \(Into The Night\) \- Vocal Radio Mix](https://open.spotify.com/track/0EcH1iItB5rVIZaaiQMbsG) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Believe](https://open.spotify.com/album/7m03aYUMXQ19qB1s5rTz4w) | 3:10 |
+| 9 | [Seven Days and One Week \- Radio Edit](https://open.spotify.com/track/47BPp5TPDpl0wCXB0FWXvg) | [BBE](https://open.spotify.com/artist/1Jz17Vwjc2WYOT2MfYG5GO) | [Seven Days and One Week](https://open.spotify.com/album/1WJ0SZdrAvouJXwp6I5Gs5) | 4:31 |
 | 10 | [Saltwater](https://open.spotify.com/track/1eohWwYv5zfXgLf5yKCJIS) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Maire Brennan](https://open.spotify.com/artist/6JIbdXrERgmH6Hn8mmjfUR) | [Twenty](https://open.spotify.com/album/5S26j913nxRCYKyE4sZNCR) | 3:22 |
 | 11 | [Airwave \- Radio Vocal Edit](https://open.spotify.com/track/294bZQoJEueD2ys3wrNDmI) | [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Airwave](https://open.spotify.com/album/3NzdpoQtPQVRckK9opV5v8) | 2:59 |
 | 12 | [Stay \- Original Single Edit](https://open.spotify.com/track/26oBh1fvCfQ5ZaBAgwnLAw) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [La Trec](https://open.spotify.com/artist/744Aa9RuKugKrpF6nt1kbv) | [Stay](https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU) | 3:32 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 45 | [Not Over Yet '99 \(feat\. Grace\) \- Radio Edit](https://open.spotify.com/track/3gYUvf0BzPsPky2y3oBf3d) | [Planet Perfecto](https://open.spotify.com/artist/3Q9P0SbpaP9xsBtLUVK0Be), [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [Not Over Yet '99](https://open.spotify.com/album/2P3GrMALjeCYAbFvuFFsFH) | 3:36 |
 | 46 | [1998](https://open.spotify.com/track/0ZcJZSx8cZndVwZrudIFy9) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe) | [1998](https://open.spotify.com/album/6yp67msJDZJIkki3TGzhmq) | 3:53 |
 | 47 | [Southern Sun](https://open.spotify.com/track/6GZO2jSzaULhCH30DakBhu) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Carla Werner](https://open.spotify.com/artist/3SMF5D7b8NM3YFSsgu9WQ9) | [Southern Sun / Ready Steady Go](https://open.spotify.com/album/10vaUmlTOpclr1x7xjYS8h) | 3:55 |
-| 48 | [Offshore](https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Offshore](https://open.spotify.com/album/201vsPXufpD68a7bulnr5O) | 4:28 |
-| 49 | [ResuRection \- Paul Oakenfold Full On Fluoro Mix](https://open.spotify.com/track/7yLvQTsNQALncCJdFdzqB2) | [Planet Perfecto Knights](https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq) | [A State Of Trance 1000 \- Celebration Mix \(Selected by Armin van Buuren\)](https://open.spotify.com/album/5uaA8MAWIlzcvaH3770kaX) | 3:56 |
+| 48 | [ResuRection \- Paul Oakenfold Full On Fluoro Mix](https://open.spotify.com/track/7yLvQTsNQALncCJdFdzqB2) | [Planet Perfecto Knights](https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq) | [A State Of Trance 1000 \- Celebration Mix \(Selected by Armin van Buuren\)](https://open.spotify.com/album/5uaA8MAWIlzcvaH3770kaX) | 3:56 |
+| 49 | [Offshore](https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Offshore](https://open.spotify.com/album/201vsPXufpD68a7bulnr5O) | 4:28 |
 | 50 | [Can't Sleep \- Radio Edit](https://open.spotify.com/track/7imdlxmN8ORoiwbje4KcDy) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Can't Sleep](https://open.spotify.com/album/5KW0519bHDR5rjyGzcGYbB) | 3:12 |
 
 Snapshot ID: `Zp9+KwAAAAC3ASkKepCE6dvI+/4IuoXY`

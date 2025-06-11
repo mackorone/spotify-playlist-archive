@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Celebrating 10 years of  unearthing your new favourite artists\. Cover: & ish Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,995 likes - 93 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,994 likes - 93 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

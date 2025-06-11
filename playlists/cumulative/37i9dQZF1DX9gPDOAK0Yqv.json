@@ -1813,6 +1813,28 @@
     },
     {
       "album": {
+        "name": "Childhood",
+        "url": "https://open.spotify.com/album/1yrHN3SY262lkoXmSm0g6G"
+      },
+      "artists": [
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        },
+        {
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/5L16Ed5kXdbY40EJmAlY1y"
+    },
+    {
+      "album": {
         "name": "Choose Life",
         "url": "https://open.spotify.com/album/2KzcNZkZJ7tbBMcizN3e5x"
       },
@@ -3916,7 +3938,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 238125,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/6m1B316ZF6UpDQwhz34Zfr"
@@ -9014,7 +9036,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 190371,
       "name": "Neverland (From Japan)",
       "url": "https://open.spotify.com/track/4GkGjg7uYvqcZvkTV4rrnu"
@@ -15240,7 +15262,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-02",
+      "date_removed": null,
       "duration_ms": 174254,
       "name": "Work (feat. Yeat)",
       "url": "https://open.spotify.com/track/6Xl6w3XXqVCcUAfMPQbMMJ"

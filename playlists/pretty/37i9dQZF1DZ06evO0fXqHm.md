@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 
 > This is Mac Júlia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,739 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,740 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 | 35 | [BOLA LOGO](https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql) | [Wealstarcks](https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [AMOUR BEIJA FLOR](https://open.spotify.com/album/1x8PBSEvx9oYxYzIczWTVn) | 1:47 |
 | 36 | [Gloss](https://open.spotify.com/track/5l3vz1aOUOQAlwU6F1F3Jr) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Weeze Cooker](https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo) | [Gloss](https://open.spotify.com/album/6bJXjxrtZxQjWbNrhRfrtT) | 2:14 |
 | 37 | [Olha Bebê](https://open.spotify.com/track/3MieTvQzwXlljej28RVFmC) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Mete Mac Vol 1](https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er) | 3:44 |
-| 38 | [Salto Alto](https://open.spotify.com/track/5tJm7qkKmiwt2iHZBLR02c) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [$IMBIO$E](https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY) | 2:37 |
-| 39 | [Avenida Brasil](https://open.spotify.com/track/7eIfnbitmJPHXbSeyjzVlC) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 2:50 |
+| 38 | [Avenida Brasil](https://open.spotify.com/track/7eIfnbitmJPHXbSeyjzVlC) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 2:50 |
+| 39 | [Salto Alto](https://open.spotify.com/track/5tJm7qkKmiwt2iHZBLR02c) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [$IMBIO$E](https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY) | 2:37 |
 | 40 | [Macetada Forte](https://open.spotify.com/track/4mLgpSkTXqrFRkdOcMNArR) | [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Dj Dudu Coupper](https://open.spotify.com/artist/1KrZfBw5jysX8sRY1n48Az) | [Eu & Elas](https://open.spotify.com/album/4FZ4coUA02edFdEP8qUFE6) | 2:10 |
 | 41 | [Rua do Ouro](https://open.spotify.com/track/0jIpirkyh4eJenGg28djsm) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Rua do Ouro](https://open.spotify.com/album/7gM14u4cfMbL25IQTNPmPZ) | 2:31 |
-| 42 | [Mama](https://open.spotify.com/track/61znzBhqg2HpuK1aMckMi4) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Mama](https://open.spotify.com/album/4xOsFV0RqRz4SJq2fkwge6) | 2:10 |
-| 43 | [Phone](https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Phone](https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL) | 2:46 |
+| 42 | [Phone](https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Phone](https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL) | 2:46 |
+| 43 | [Mama](https://open.spotify.com/track/61znzBhqg2HpuK1aMckMi4) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Mama](https://open.spotify.com/album/4xOsFV0RqRz4SJq2fkwge6) | 2:10 |
 | 44 | [Rompe](https://open.spotify.com/track/5ay5pvM8CuZTsbrr0wfxRH) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [PK Delas](https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3), [Dj Alle da coro](https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x) | [Rompe](https://open.spotify.com/album/283BKOpijdldRWEsKOfAmT) | 2:33 |
 | 45 | [Balança Dona Onça](https://open.spotify.com/track/7wRB9osEiwoJQtttVmpDmm) | [Gu Original](https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Balança Dona Onça](https://open.spotify.com/album/37Lo8SM4fMpdXXliNW4d3H) | 3:24 |
 | 46 | [Sozinho](https://open.spotify.com/track/6vqr49lCwlODxmWEdb091P) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp), [Dj Leo Lg](https://open.spotify.com/artist/7fhK7EsjjzfFurFz8FAlDe), [DJ JOAO DA INESTAN](https://open.spotify.com/artist/1K3wppIvsUK99HODkiNgeu) | [Sozinho](https://open.spotify.com/album/0kzkl5kB8rwy8D0jCpLopY) | 2:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 | 49 | [Para de Brincar Comigo](https://open.spotify.com/track/1XU61okRaI9UxMB3z2O2GQ) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Mete Mac Vol 1](https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er) | 1:56 |
 | 50 | [TODA VEZ QUE EU TE VEJO](https://open.spotify.com/track/4BRJeEBhCba4qO87fEYDaC) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [SMU](https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c), [DJ Ws da Igrejinha](https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Baile do Bruxo \(DELUXE\)](https://open.spotify.com/album/0S3pM5Z9LfLBU6IdYFJxiA) | 2:57 |
 
-Snapshot ID: `aETSgAAAAACN2Ru8gUL/Qp1nUubrj4S8`
+Snapshot ID: `aEYkAAAAAAD6LBpCtr6geoDIa6zplB7x`

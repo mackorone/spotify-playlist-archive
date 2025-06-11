@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 135876,
+  "num_followers": 135883,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAAB37+sGtKaO9Avfr1tFu75o",
+  "snapshot_id": "aEYkAAAAAABUgw8uENWCc02nXRBkLl+m",
   "tracks": [
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry For The Wait 2",
-        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 268527,
-      "name": "Fabi",
-      "url": "https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HP Everything",
         "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 169629,
       "name": "Ric Flair",
       "url": "https://open.spotify.com/track/1gXU6XIRIJ83Y3C7dZfTBm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sorry For The Wait 2",
+        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 268527,
+      "name": "Fabi",
+      "url": "https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry For The Wait 2",
-        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 222819,
-      "name": "Coraz\u00f3n Cromado",
-      "url": "https://open.spotify.com/track/0gBImi8U4Ut1DOG5hZmmRz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa Las Vibras",
         "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
       },
@@ -703,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HP Everything",
-        "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
+        "name": "Sorry For The Wait 2",
+        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
       },
       "artists": [
         {
@@ -712,9 +696,25 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 200000,
-      "name": "El Saco",
-      "url": "https://open.spotify.com/track/7EWvUP83AuQh717BkOfGVS"
+      "duration_ms": 222819,
+      "name": "Coraz\u00f3n Cromado",
+      "url": "https://open.spotify.com/track/0gBImi8U4Ut1DOG5hZmmRz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa' las Vibras 2",
+        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 266346,
+      "name": "Siempre Activo",
+      "url": "https://open.spotify.com/track/0K4SyhuWJ915Og82kI8DRz"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' las Vibras 2",
-        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
+        "name": "HP Everything",
+        "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 266346,
-      "name": "Siempre Activo",
-      "url": "https://open.spotify.com/track/0K4SyhuWJ915Og82kI8DRz"
+      "duration_ms": 200000,
+      "name": "El Saco",
+      "url": "https://open.spotify.com/track/7EWvUP83AuQh717BkOfGVS"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
       "duration_ms": 219562,
       "name": "Donde Andaban",
       "url": "https://open.spotify.com/track/6etICDD8QLM1kkMsVZFPDk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HP Everything",
-        "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 185866,
-      "name": "En El Laboratorio",
-      "url": "https://open.spotify.com/track/3JV1vCdoRnyVSMle9pFkfB"
     },
     {
       "added_at": null,
@@ -827,6 +811,22 @@
       "duration_ms": 165458,
       "name": "Bien Pilas",
       "url": "https://open.spotify.com/track/2D3GD6rdUMvYrezCeeoPWT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HP Everything",
+        "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 185866,
+      "name": "En El Laboratorio",
+      "url": "https://open.spotify.com/track/3JV1vCdoRnyVSMle9pFkfB"
     },
     {
       "added_at": null,

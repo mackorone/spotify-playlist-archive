@@ -4,7 +4,7 @@
 
 > Music to help you concentrate during your homework.
 
-167 songs - 7 hr 55 min
+168 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [For Stormboy](https://open.spotify.com/track/1gLbbnyTOnx6LrCQ87c0gp) | [Rhiannon Bannenberg](https://open.spotify.com/artist/5gXJLUsp1nn6OPYnXczUHy) | [Ambrosia \(Official Soundtrack\)](https://open.spotify.com/album/0I5YQc4ZWo2sraMUEHgjcU) | 1:36 | 2023-01-26 |  |
 | [For the Love of Love](https://open.spotify.com/track/7KWhxUrK9ofPTn3ItWceR5) | [Novo Talos](https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea) | [For the Love of Love](https://open.spotify.com/album/5ZND5oHPinIv1XkKQb4lsX) | 2:23 | 2023-01-26 |  |
 | [Forêt Profonde](https://open.spotify.com/track/0hfmBHOwBmy9Hmi2vd9eku) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Forêt Profonde](https://open.spotify.com/album/2k9TF8OSLFWUrMVz9u0RKA) | 3:07 | 2023-01-26 |  |
+| [GBFISYSIH](https://open.spotify.com/track/0P6rmbD8668dVimhlX1afA) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Man Made Object](https://open.spotify.com/album/3EhWiub8XqFk3nQbYcJq4o) | 3:21 | 2023-03-12 |  |
 | [Gelsomino](https://open.spotify.com/track/6wdkw4U5RYbYGShrrJ8P9k) | [Darrell Vitagliano](https://open.spotify.com/artist/6NlWjzoEit79rWPMDscYKO) | [Gelsomino](https://open.spotify.com/album/4rYaSW4Rfvdhf9F0vg5ns6) | 1:58 | 2023-03-12 | 2024-09-14 |
 | [Gently](https://open.spotify.com/track/2O6Iydf5216CgF3v0jTN95) | [Levi Stills](https://open.spotify.com/artist/1SsPpMBBiD7g5iVFkJepaO) | [Gently](https://open.spotify.com/album/5W8DqZ91qSx6HlRDaorcaN) | 2:07 | 2023-03-12 | 2025-02-22 |
 | [Glow](https://open.spotify.com/track/7ooM6rULm5upVZNOKwux3B) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Lifeline](https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45) | 4:14 | 2023-01-26 | 2024-12-06 |
@@ -129,7 +130,7 @@
 | [Saying Things](https://open.spotify.com/track/2bjQvSk5T3A2dmnqqeRhzI) | [Emanuel Fremont](https://open.spotify.com/artist/0RYljGNR9lf53Pg1BrHNQc) | [Saying Things](https://open.spotify.com/album/4iKAhtxr1Vdm5l8eMhmgs9) | 2:03 | 2023-01-26 |  |
 | [Seascape](https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [Seascape](https://open.spotify.com/album/1dnQVRgmoyYxwxRWPf9aBY) | 2:05 | 2023-01-26 |  |
 | [Seven Days Walking / Day 7: Ascent](https://open.spotify.com/track/5iZJK7w5mgHwOC8Sjs3eaT) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Seven Days Walking \(Day 7\)](https://open.spotify.com/album/4GEcFHTB7y9N8ciFFDIikp) | 5:24 | 2023-03-12 |  |
-| [Silentium](https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k) | [VIbeke Holst\-Tofte](https://open.spotify.com/artist/2vwQEppB6ZLxvDBMuZjv7h) | [Silentium](https://open.spotify.com/album/5hy969sJ3PHIXTBtlLEY1d) | 2:21 | 2023-01-26 |  |
+| [Silentium](https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k) | [VIbeke Holst\-Tofte](https://open.spotify.com/artist/2vwQEppB6ZLxvDBMuZjv7h) | [Silentium](https://open.spotify.com/album/5hy969sJ3PHIXTBtlLEY1d) | 2:21 | 2023-01-26 | 2025-06-11 |
 | [Sintra](https://open.spotify.com/track/5JlzdloHUjgYWByeCgtFSx) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Sintra](https://open.spotify.com/album/1HsKGoWJ7EJ6M8JvGnat04) | 3:24 | 2023-03-12 |  |
 | [Six Etudes for Piano \- q = 96](https://open.spotify.com/track/7bYwm4LQaOsardfDdbVZg6) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Bruce Brubaker](https://open.spotify.com/artist/400JXdqRhBKf0A6qNoLCSJ) | [Time Curve: Music for Piano by Philip Glass and William Duckworth](https://open.spotify.com/album/1kGhTPdqFxysr6qHRv32MR) | 4:48 | 2023-03-12 |  |
 | [Slowdance](https://open.spotify.com/track/1Qeltj3aBElDiFuaBtav77) | [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm), [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G) | [Slowdance](https://open.spotify.com/album/72A4G4HmEmKGjet1K8slI8) | 2:02 | 2023-01-26 |  |

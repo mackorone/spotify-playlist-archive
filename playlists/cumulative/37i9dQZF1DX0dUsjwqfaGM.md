@@ -4,7 +4,7 @@
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Ánh Sáng AZA
 
-178 songs - 10 hr 18 min
+179 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Swimming Pool](https://open.spotify.com/track/1tAXRG24pKcKqSJB42JXcL) | [SOI](https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P), [Juliet By Night](https://open.spotify.com/artist/4kFlZCpQ9vLFSlqsqs24HP) | [Swimming Pool](https://open.spotify.com/album/7E2PC1UukNMvbnqadklf66) | 3:47 | 2024-04-02 | 2024-12-05 |
 | [Tan Ca](https://open.spotify.com/track/6wiZj290wIL3afV18Q0Yet) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 4:08 | 2024-10-03 |  |
 | [The Sun](https://open.spotify.com/track/3b39uP6KnsHufr698HUL5T) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [The Sun](https://open.spotify.com/album/1Jvml0dIWxaI2N5CGpQa1G) | 3:53 | 2023-08-10 | 2024-12-05 |
+| [Thua Người Ta](https://open.spotify.com/track/0jtKXWSesIai271sQT6VBC) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [Thua Người Ta](https://open.spotify.com/album/3SFXrBYmq1KiykPeasXh1L) | 3:14 | 2025-06-10 |  |
 | [Thành phố phía Đông](https://open.spotify.com/track/23v3rSWUt4YqbyH8BHoYWs) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 3:42 | 2025-03-27 |  |
 | [Thành Phố Đêm](https://open.spotify.com/track/5DAFdVmVwj2dFddjHSdDQk) | [Khải](https://open.spotify.com/artist/2YJjdbWUlFUPMyveMVft5k), [da/md](https://open.spotify.com/artist/3rfioXxHtUmA66MpuKdozJ) | [Thành Phố Đêm](https://open.spotify.com/album/2IJtIuvzoJdAp45m7oWwUp) | 3:10 | 2022-09-09 | 2024-09-27 |
 | [Thế Giới Của Em](https://open.spotify.com/track/24DVKr1495WzRv1lNOlvRz) | [Minh Đinh](https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu), [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7) | [Thế Giới Của Em](https://open.spotify.com/album/0SkClw8Gjjd9EotloigIVT) | 3:36 | 2023-04-13 | 2024-12-05 |
@@ -153,7 +154,7 @@
 | [Thế Thôi](https://open.spotify.com/track/3q9jkVZnem47J0HdQEK8WM) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Thế Thôi](https://open.spotify.com/album/246AHh3LvTsa9Nfi4xrrng) | 4:03 | 2022-09-09 | 2023-09-15 |
 | [To The Moon](https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [To The Moon](https://open.spotify.com/album/4UEbczuNRxEy7SGJTrfEBd) | 3:21 | 2022-09-09 | 2024-09-27 |
 | [Told you so](https://open.spotify.com/track/5422bws6jw1sO4XSepeykV) | [Mèow Lạc](https://open.spotify.com/artist/1984OVQ0KnJW80MiZYOrFF) | [Sugar Rush](https://open.spotify.com/album/0Ri2UlAe5bgNzkU6wIu54Q) | 3:23 | 2024-12-04 | 2025-03-28 |
-| [Trôi Boy](https://open.spotify.com/track/7rCFJQaXCrDUsFwjjAuTwf) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk) | [Trôi Boy](https://open.spotify.com/album/2U81kSbTmfAYcPyfifD7EN) | 3:12 | 2024-12-04 |  |
+| [Trôi Boy](https://open.spotify.com/track/7rCFJQaXCrDUsFwjjAuTwf) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk) | [Trôi Boy](https://open.spotify.com/album/2U81kSbTmfAYcPyfifD7EN) | 3:12 | 2024-12-04 | 2025-06-11 |
 | [Trông Trăng](https://open.spotify.com/track/6snFw66Rvx0q90NbAxCy1k) | [Mèow Lạc](https://open.spotify.com/artist/1984OVQ0KnJW80MiZYOrFF) | [Rừng Bê Tông](https://open.spotify.com/album/3P7FAiLPsLKinIRi5PcnJN) | 3:34 | 2024-12-04 | 2025-03-28 |
 | [Tái chế con tim](https://open.spotify.com/track/5ZWZxERwDEosiydpu3oER8) | [Mèow Lạc](https://open.spotify.com/artist/1984OVQ0KnJW80MiZYOrFF) | [Sugar Rush](https://open.spotify.com/album/0Ri2UlAe5bgNzkU6wIu54Q) | 3:44 | 2024-12-04 | 2025-03-28 |
 | [Tái chế con tim](https://open.spotify.com/track/6QrP2m1rhyT1EuPNvX7iWC) | [Mèow Lạc](https://open.spotify.com/artist/1984OVQ0KnJW80MiZYOrFF) | [Tái chế con tim](https://open.spotify.com/album/5fJBIrMnkozdKGZfJ68kqX) | 3:44 | 2024-04-02 | 2024-12-05 |

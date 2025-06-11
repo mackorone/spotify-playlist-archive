@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4uT4afwoFqf5HupqMjErXX">Chiiild</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531 likes - 101 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 532 likes - 101 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 12 | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:57 |
 | 13 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 |
 | 14 | [Mercy](https://open.spotify.com/track/1ohlbpNCsuqstbqsezNdUI) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 3:11 |
-| 15 | [Bounce](https://open.spotify.com/track/5o4A29wnuf7Dw4OLyRerFb) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. III](https://open.spotify.com/album/69geSnHCNYtHbg8YaJorb7) | 2:52 |
-| 16 | [Mine](https://open.spotify.com/track/3LU1LzDmm5siz3WExknlil) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [ADOLESCENCE](https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH) | 4:00 |
+| 15 | [Mine](https://open.spotify.com/track/3LU1LzDmm5siz3WExknlil) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [ADOLESCENCE](https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH) | 4:00 |
+| 16 | [Bounce](https://open.spotify.com/track/5o4A29wnuf7Dw4OLyRerFb) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. III](https://open.spotify.com/album/69geSnHCNYtHbg8YaJorb7) | 2:52 |
 | 17 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 |
 | 18 | [Don't Go](https://open.spotify.com/track/3LmO2iMqMHZH1vMvdE6v7u) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [I Thought It'd Be Different](https://open.spotify.com/album/5pOw339jffG6207J1W0GRo) | 2:46 |
 | 19 | [Sleepwalking](https://open.spotify.com/track/050TMrxpzlXGYRDAjnrSp6) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 2:45 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 100 | [Murder](https://open.spotify.com/track/7Ev7Bb8tPrQFR2MvQzrfM9) | [Thes](https://open.spotify.com/artist/7nnzlSxfrZkifdVvMhKyGp) | [Young Giant](https://open.spotify.com/album/4j6RpYZk9y67ggu1gWO8QL) | 4:35 |
 | 101 | [PLAY \(In The Moment\)](https://open.spotify.com/track/4OuOAYCQPczAnRkapdhin7) | [TURBO NOUVEAUX](https://open.spotify.com/artist/1FhTzeHeuXnBs57wqsi3hY) | [PLAY \(In The Moment\)](https://open.spotify.com/album/10BG9DQTwq5Dgj33LcY2o0) | 2:26 |
 
-Snapshot ID: `AbztVAAAAABQsmiIZ01eeEnCRKF+DViW`
+Snapshot ID: `Abzy4AAAAABZHaCi4gugiMTLEo9p13cM`

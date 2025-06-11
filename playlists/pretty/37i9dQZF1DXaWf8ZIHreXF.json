@@ -1,6 +1,6 @@
 {
   "description": "The biggest dance floor bangers of the 2010s. ",
-  "num_followers": 198423,
+  "num_followers": 198479,
   "original_name": "Dance Hits 2010s",
   "owner": {
     "name": "Spotify",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Settle (Special Edition)",
-        "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "AlunaGeorge",
-          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
-        }
-      ],
-      "duration_ms": 277687,
-      "name": "White Noise",
-      "url": "https://open.spotify.com/track/5EWFuo4ObEnfndc57sTuIo"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Five More Hours",
         "url": "https://open.spotify.com/album/1j4y4oErsQ2dIiZXClg1Zc"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 211975,
       "name": "Five More Hours",
       "url": "https://open.spotify.com/track/6YwLgicpvVuMt1eE2OldwQ"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Settle (Special Edition)",
+        "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        }
+      ],
+      "duration_ms": 277687,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/5EWFuo4ObEnfndc57sTuIo"
     },
     {
       "added_at": "2023-08-25 09:30:35",

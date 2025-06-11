@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-300 songs - 16 hr 31 min
+305 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Another Love](https://open.spotify.com/track/3q53Qumo5wm3B5nquuAtM9) | [Darius Holland](https://open.spotify.com/artist/2LuKu3ADzYNgrpnLwJCiFU) | [Another Love](https://open.spotify.com/album/3PIURc7CKch3smMnj221og) | 2:25 | 2024-11-06 |  |
 | [Anti\-Hero](https://open.spotify.com/track/4I0Kmiieqw8EmKEbiZPQzJ) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [Anti\-Hero](https://open.spotify.com/album/10TQNCLR0xgqTkHfUqRaGj) | 2:42 | 2023-02-06 | 2025-04-26 |
 | [Anti\-Hero](https://open.spotify.com/track/63kM4CbosJ70v25kZv19xc) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Anti\-Hero](https://open.spotify.com/album/3KwmgUnyK4ogjXVM5tF5GG) | 3:19 | 2022-11-18 | 2022-11-26 |
+| [APT.](https://open.spotify.com/track/3KZIILHAFvMmIlIAaQmivr) | [Cyrus Holloway](https://open.spotify.com/artist/15imgSvNwI0COJ9tIz0f7b) | [APT.](https://open.spotify.com/album/7m59X1CTOcBMwp85q0fpmN) | 3:35 | 2025-06-10 |  |
 | [As It Was](https://open.spotify.com/track/6BtLaWYYnxcObhjdGqpuNi) | [Darius Holland](https://open.spotify.com/artist/2LuKu3ADzYNgrpnLwJCiFU) | [As It Was](https://open.spotify.com/album/4Xq8MuUowgvQq7jbKkirEk) | 3:09 | 2024-11-19 |  |
 | [As It Was \(arr\. string quartet\)](https://open.spotify.com/track/4HE4FZmT05tZuN9NlBeE4f) | [Music Lab Strings](https://open.spotify.com/artist/7cNAfzcs4jv8ByJvZk6gnq), [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [As It Was \(arr\. string quartet\)](https://open.spotify.com/album/4ZDNoOtzzPTMOpJlw14Bb3) | 3:51 | 2023-07-28 | 2025-03-29 |
 | [As Long As You Love Me](https://open.spotify.com/track/2RJi3pWg858aWyv0h9WFIC) | [Vidar Arvidsson](https://open.spotify.com/artist/7wtRK2lUYTMFcVSYzdNAXp) | [Baby One More Time](https://open.spotify.com/album/2L1zanjl6Dp1Q0z1y6cmrv) | 3:54 | 2023-02-21 |  |
@@ -145,6 +146,7 @@
 | [I Just Called To Say I Love You](https://open.spotify.com/track/3bHCOreR8QHPpcYVRlUMbZ) | [Sebastian Young](https://open.spotify.com/artist/5WQMqq5sG5zabwkK07At6G) | [I Just Called To Say I Love You](https://open.spotify.com/album/33x0lAlwM1poVikUjdalFm) | 3:28 | 2025-04-29 |  |
 | [I Just Can't Stop Loving You](https://open.spotify.com/track/3AEHG55q4GF9zFgtMdQMQi) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [I Just Can't Stop Loving You](https://open.spotify.com/album/0maykbcNsWHDhZ7TGMq4jn) | 3:34 | 2024-09-03 |  |
 | [I love you, I'm sorry](https://open.spotify.com/track/1fI1V8UNvkYRoQjQ5NwwPS) | [Jonka Tribute](https://open.spotify.com/artist/3RBASZuevPXGYdPtyltxT9) | [I love you, I'm sorry](https://open.spotify.com/album/35aDCfbOCuJU1tDhjv2vwp) | 2:33 | 2025-03-07 |  |
+| [I Wanna Dance with Somebody](https://open.spotify.com/track/2iN0iVvk3OQBI8c182UMWd) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [I Wanna Dance with Somebody](https://open.spotify.com/album/3a62tJVdJn8vD3g02XtOTJ) | 3:05 | 2025-06-10 |  |
 | [I Want It That Way](https://open.spotify.com/track/6vLwopf1erdW3XoCfz6TIX) | [DisCovered](https://open.spotify.com/artist/07FxfwSU3s0RwrN5ooGt8y) | [I Want It That Way](https://open.spotify.com/album/2wJVSaCsCjUhFY4tyNraAj) | 1:56 | 2024-11-06 | 2025-04-26 |
 | [I'm Not That Girl \(Arr\. Piano\) \- from "Wicked"](https://open.spotify.com/track/5iAwczYczwYLSlj5U6cAkY) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp), [Music Lab Dreamtime](https://open.spotify.com/artist/0mIB3cuII0h6FIpiVMqFIi) | [I'm Not That Girl \(Arr\. Piano\) \[from "Wicked"\]](https://open.spotify.com/album/78iuWg2dMz742JICVfV5Fk) | 2:42 | 2024-11-19 |  |
 | [I'm Not the Only One](https://open.spotify.com/track/2NoZtslvJanrcruU5Ih2be) | [Elías Flores](https://open.spotify.com/artist/7HWUEipeFBHvnz4GITai8Z) | [I'm Not the Only One](https://open.spotify.com/album/13ntDoVpFx1smJVDEPJRCH) | 3:48 | 2025-02-19 |  |
@@ -164,6 +166,7 @@
 | [Just The Way You Are](https://open.spotify.com/track/2hkgfwHDrYXjyngrgC79ko) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Just The Way You Are](https://open.spotify.com/album/4wKLnQ1N88dKJ6mcSAhOKq) | 3:28 | 2023-04-04 | 2024-03-20 |
 | [Kiss From a Rose](https://open.spotify.com/track/3cEDAxI3xPhb829MlH1VJi) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Geek Wedding Forever, Vol\. 3](https://open.spotify.com/album/7HeIpr2afiUilGq9acQx5u) | 4:47 | 2022-11-18 | 2022-11-26 |
 | [Knowing Me, Knowing You](https://open.spotify.com/track/7DErj8hrr8faR59bKgKqVm) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Knowing Me, Knowing You](https://open.spotify.com/album/68gReoq0QB4ZjmVEB9U8eU) | 3:00 | 2025-02-19 |  |
+| [Latch](https://open.spotify.com/track/3A63XpCOCqL31W11VBQwM9) | [Noa Figaro](https://open.spotify.com/artist/18y6r0kVbCi6CwWfLXHySf) | [Latch](https://open.spotify.com/album/0o7saNUJyqmU6bTyztAmlc) | 3:01 | 2025-06-10 |  |
 | [Let It Be](https://open.spotify.com/track/13cbzpde3MdxuL3rphl8ar) | [Therése Therén](https://open.spotify.com/artist/27L2UTyUaO5OCJSNPYgks6) | [Let It Be](https://open.spotify.com/album/6SQXcGqLblWlV1YZqu55cT) | 3:32 | 2024-10-01 |  |
 | [Let It Go](https://open.spotify.com/track/1pQtiUNaBpjcspLcqetigX) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2016, Vol\. 2](https://open.spotify.com/album/10WHTghh38mVQRKNlk4rx8) | 4:20 | 2022-11-18 | 2022-11-26 |
 | [Life on Mars?](https://open.spotify.com/track/63Pm0kIqaIVINrO96TNUzv) | [Mike Garson](https://open.spotify.com/artist/1BKXfC7Sr2gN3PlWcPBzX8) | [The Bowie Variations](https://open.spotify.com/album/2UsgTX8YO2eagUwhdDnHlR) | 5:28 | 2021-11-25 | 2025-01-15 |
@@ -200,6 +203,7 @@
 | [Old Town Road](https://open.spotify.com/track/0KUi4dptCJzeEHPr38B7j9) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Diamonds](https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n) | 2:22 | 2023-05-09 |  |
 | [One Dance](https://open.spotify.com/track/684mcUkgIA1OQwy5VpvHD1) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2016, Vol\. 2](https://open.spotify.com/album/10WHTghh38mVQRKNlk4rx8) | 2:11 | 2022-11-18 | 2022-11-26 |
 | [Oops!...i Did It Again](https://open.spotify.com/track/0L0UVibaypf3j5IIkHcUXJ) | [DisCovered](https://open.spotify.com/artist/07FxfwSU3s0RwrN5ooGt8y) | [Oops!...i Did It Again](https://open.spotify.com/album/3hIspTjVavy9I21EmWEc8K) | 2:06 | 2024-11-12 |  |
+| [Ordinary](https://open.spotify.com/track/09lSfcBUDhinOxgJXPxFeF) | [Jonka Tribute](https://open.spotify.com/artist/3RBASZuevPXGYdPtyltxT9) | [Ordinary](https://open.spotify.com/album/4merxPnN6pGKGnOeodxp8g) | 3:02 | 2025-06-10 |  |
 | [Papa, Can You Hear Me?](https://open.spotify.com/track/3ZfBUAzlJwJzctLtxykX5b) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Papa, Can You Hear Me?](https://open.spotify.com/album/0s8h7hCUsE7sXp9ZtV4FFK) | 4:41 | 2022-07-08 | 2024-12-20 |
 | [Perfect](https://open.spotify.com/track/6clv20tpXFKLevFO7Tcdno) | [Junior Carrol](https://open.spotify.com/artist/2Scv3DFwZ724kkR09uNKbv) | [Perfect](https://open.spotify.com/album/7554ixwW94p7WaGD2mtO4G) | 3:49 | 2024-08-20 | 2025-03-29 |
 | [Perfect \- Acoustic Guitar](https://open.spotify.com/track/1QsTMEruwcaYNMVF2qzq6E) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Perfect \(Acoustic Guitar\)](https://open.spotify.com/album/7e5oQEy3tCFFY53HRJqZCe) | 3:56 | 2025-02-25 |  |
@@ -287,6 +291,7 @@
 | [What Was I Made For? \- Piano Version](https://open.spotify.com/track/0ELGKtNSHKPlrrITjXCQQ0) | [Relaxing Piano Covers](https://open.spotify.com/artist/4lwvpHoeQnnQK1W4btWFOU) | [What Was I Made For? \(Piano Version\)](https://open.spotify.com/album/23n2QTKckKp2ZXM16cug3P) | 3:43 | 2023-08-14 |  |
 | [When She Loved Me](https://open.spotify.com/track/6syMpNOEjJXqtFklVFXFQV) | [The Cardboards](https://open.spotify.com/artist/6nb7HIU4p1mORQurLGhDYu) | [When She Loved Me](https://open.spotify.com/album/6g9g4U66eVzFGh4xvJFg1j) | 2:57 | 2023-09-18 |  |
 | [when the party's over](https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over](https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T) | 3:28 | 2021-11-25 | 2025-04-26 |
+| [When We Were Young](https://open.spotify.com/track/7FYfBT0iHH626ypxt11HqB) | [Dante Alessi](https://open.spotify.com/artist/5sdgrvVHHErwilSjmcxzEN) | [When We Were Young](https://open.spotify.com/album/4FvoN9NMt7XNW3WzY3kszi) | 2:52 | 2025-06-10 |  |
 | [When You Believe](https://open.spotify.com/track/4Ii8MnBiT9b5OQdCZni6j9) | [Tierra Sonora](https://open.spotify.com/artist/5A1O45cYVPyJU5ZHS9VieF) | [When You Believe](https://open.spotify.com/album/5TDOt28GEEhuRGUEicuRiN) | 3:23 | 2024-12-19 |  |
 | [Wicked game](https://open.spotify.com/track/6mE9gXGFd515rYg7TtCPlr) | [Therése Therén](https://open.spotify.com/artist/27L2UTyUaO5OCJSNPYgks6) | [Wicked game](https://open.spotify.com/album/60p7CHmcDBgrPK9U9j2HgZ) | 3:28 | 2024-10-21 |  |
 | [Wicked Game](https://open.spotify.com/track/1fzP9TiMOq4FHKmnGaKVAE) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Our Flashback Wedding](https://open.spotify.com/album/7EjVc5O5g56nKL6RrAilPo) | 3:24 | 2022-11-18 | 2022-11-26 |

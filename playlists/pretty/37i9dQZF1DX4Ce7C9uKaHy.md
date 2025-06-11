@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 
 > Fine jazz for a fine day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,509 likes - 64 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,508 likes - 64 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 14 | [Pretty](https://open.spotify.com/track/3DJvCOTzW4Yepz0qnbOo7f) | [Gan Gemi](https://open.spotify.com/artist/7wkHx3fIGiREy0nBgXrZya) | [Pretty](https://open.spotify.com/album/2bt4bHmVP6xq6rySpL7J9B) | 2:32 |
 | 15 | [Laser Beam](https://open.spotify.com/track/79psiZTSPOmcnaeY4GKU20) | [Zeñel](https://open.spotify.com/artist/7gZIxDEvU2dnBdaKG8DxOW) | [5ive](https://open.spotify.com/album/0yfUYJ5nOQi7iB9MXv3MSl) | 5:05 |
 | 16 | [All Black Everything](https://open.spotify.com/track/2qZpjV0ABiaoMBhjslXXkf) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [All Black Everything](https://open.spotify.com/album/1mEy3yttQpCAuNwdMc1Qng) | 5:06 |
-| 17 | [Soar](https://open.spotify.com/track/7F8HGHuxgKJ6ISlbX2NJuW) | [Chiminyo](https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4), [Uniri](https://open.spotify.com/artist/6MGWbyxXmoiLVcsZkapigA) | [Soar](https://open.spotify.com/album/5FLNHUP6N4lNCGbQdd6Vdu) | 2:34 |
+| 17 | [Soar](https://open.spotify.com/track/7F8HGHuxgKJ6ISlbX2NJuW) | [Uniri](https://open.spotify.com/artist/6MGWbyxXmoiLVcsZkapigA), [Chiminyo](https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4) | [Soar](https://open.spotify.com/album/5FLNHUP6N4lNCGbQdd6Vdu) | 2:34 |
 | 18 | [Orange\-coloured day](https://open.spotify.com/track/3jXy5FvEftfAWa6Bk5ukAy) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Orange\-coloured day](https://open.spotify.com/album/5LSivLzjAl3bOSECr27PHj) | 2:48 |
 | 19 | [Hizuki](https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [HIZUKI // PERFECT DIVIDE](https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF) | 4:10 |
 | 20 | [Mardy](https://open.spotify.com/track/4s9KcTGJr5uzW2I9pjHZPI) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Mardy](https://open.spotify.com/album/4pyM8BFy9SAXGHmSrOEOqC) | 2:43 |

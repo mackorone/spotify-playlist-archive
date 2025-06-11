@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 Scumma Do Mar in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,397 likes - 110 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,401 likes - 110 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 28 | [Ragazzi della baia](https://open.spotify.com/track/26lCXDLbYI8CrLzRsRd9UL) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [Backpackers](https://open.spotify.com/album/5cxMUQCVThjx7xrXWNu5xW) | 3:28 |
 | 29 | [Crepe](https://open.spotify.com/track/3Cks2nAZsFGk8ZBSywnWaF) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU) | [Crepe](https://open.spotify.com/album/7GQLK9lqYZNrSamPOIQxj4) | 4:12 |
 | 30 | [CAMPARI NOIA](https://open.spotify.com/track/3uyzA6mvWop8poqlPjHDqk) | [LAGUNA BOLLENTE](https://open.spotify.com/artist/63TkepjSwqWuleTIdydrL7) | [FANTA SBOCCO](https://open.spotify.com/album/0htYi8bzIk5tG08JD0qLYz) | 2:39 |
-| 31 | [GESU NON C'ENTRA ^](https://open.spotify.com/track/1GyVMgHsENG1k6Q9bz5cCn) | [ELETTRICA](https://open.spotify.com/artist/2ZXPwoWGIuwqjLNLboL3pa) | [GESÙ NON C'ENTRA](https://open.spotify.com/album/1i64f79jU84gxMJoPqImel) | 3:13 |
+| 31 | [GESU NON C'ENTRA](https://open.spotify.com/track/1GyVMgHsENG1k6Q9bz5cCn) | [ELETTRICA](https://open.spotify.com/artist/2ZXPwoWGIuwqjLNLboL3pa) | [GESÙ NON C'ENTRA](https://open.spotify.com/album/1i64f79jU84gxMJoPqImel) | 3:13 |
 | 32 | [La terza bici che mi hanno inculato](https://open.spotify.com/track/26sfrOOXw9UZOHYCxNYzVw) | [Tonno](https://open.spotify.com/artist/2bB6iVsARQK2KQiurz1nM7) | [La terza bici che mi hanno inculato](https://open.spotify.com/album/1qEDlUGjxZMDus25tOVkan) | 3:18 |
 | 33 | [Buianotte](https://open.spotify.com/track/1bqoLYddCR5bEglt5AV0hY) | [Thruppi](https://open.spotify.com/artist/3DJ294D2VS2W1sEwtBzbjS), [Giovanni Truppi](https://open.spotify.com/artist/6qSYb2AiQlXlAoa50vLx5m), [specchiopaura](https://open.spotify.com/artist/15OZuHjUnj9YAmwn5EXzrM) | [Buianotte](https://open.spotify.com/album/4B8gH29xs7bQ4mk2ll1SwP) | 3:48 |
 | 34 | [buco nero](https://open.spotify.com/track/4UxnRl0oN6htx2593DpJpb) | [i cani](https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP) | [post mortem](https://open.spotify.com/album/0l8cw32SMyAlYyCheOoL9p) | 3:44 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lupita Infante. The essential tracks, all in one playlist.",
-  "num_followers": 510,
+  "num_followers": 511,
   "original_name": "This Is Lupita Infante",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAAB9azH8pJn4hDUHFSgVnSka",
+  "snapshot_id": "aEYkAAAAAADh4+hClTNMKmRNV/1VsBlN",
   "tracks": [
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras de Mi Abuelo, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk"
+        "name": "El Amor de Mi Vida",
+        "url": "https://open.spotify.com/album/1FhXUMF28q1d6dJBl1Nj1S"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 194705,
-      "name": "Cien A\u00f1os - En Vivo",
-      "url": "https://open.spotify.com/track/0abywAZKp30hCllOLhq8P6"
+      "duration_ms": 186117,
+      "name": "El Amor De Mi Vida",
+      "url": "https://open.spotify.com/track/1SIuzHNrctmvWo5geNIFyi"
     },
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Amor de Mi Vida",
-        "url": "https://open.spotify.com/album/1FhXUMF28q1d6dJBl1Nj1S"
+        "name": "Puras de Mi Abuelo, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 186117,
-      "name": "El Amor De Mi Vida",
-      "url": "https://open.spotify.com/track/1SIuzHNrctmvWo5geNIFyi"
+      "duration_ms": 194705,
+      "name": "Cien A\u00f1os - En Vivo",
+      "url": "https://open.spotify.com/track/0abywAZKp30hCllOLhq8P6"
     },
     {
       "added_at": null,
@@ -579,6 +579,38 @@
       "duration_ms": 156329,
       "name": "Que Facilito",
       "url": "https://open.spotify.com/track/1TW2q02eRkvbAol6smqoCC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 160589,
+      "name": "Yo He Nacido Mexicana",
+      "url": "https://open.spotify.com/track/1yejtctJKLV7weRjDLtwYx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Como en las Pel\u00edculas de Antes",
+        "url": "https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 234864,
+      "name": "Besarte As\u00ed",
+      "url": "https://open.spotify.com/track/0z2fdrdXxLhb00CJjPxiY6"
     },
     {
       "added_at": null,
@@ -607,38 +639,6 @@
       "duration_ms": 191000,
       "name": "Las Mexicanas",
       "url": "https://open.spotify.com/track/1CTROO8PaURfNU67CIHeRQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor Como en las Pel\u00edculas de Antes",
-        "url": "https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 234864,
-      "name": "Besarte As\u00ed",
-      "url": "https://open.spotify.com/track/0z2fdrdXxLhb00CJjPxiY6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 160589,
-      "name": "Yo He Nacido Mexicana",
-      "url": "https://open.spotify.com/track/1yejtctJKLV7weRjDLtwYx"
     },
     {
       "added_at": null,

@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 ### [Fresh Finds Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX1RLKir9EDRO)
 
-> Bağımsız yerli sahneden keşiflerin 10\. yılını kutluyoruz! Kapak: Ilgaz Altın Çizim: Isu Kim
+> Bağımsız yerli sahneden keşiflerin 10\. yılını kutluyoruz! Kapak: aslı  Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,419 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,412 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BBK](https://open.spotify.com/track/2ip0MAJnmGkB6cjSt7jr5R) | [Filozof Kedi](https://open.spotify.com/artist/0UkVXKhMnHC9NkqkC7QimK) | [BBK](https://open.spotify.com/album/4MPAKZQvUKmSMP5ykxmzLK) | 3:07 |
 | 2 | [Yüksek Bir Yerden Atlamak](https://open.spotify.com/track/2uFj7GwOzZkVvwKu3LXh5T) | [Eriç](https://open.spotify.com/artist/3lOTkw5UMASA20SlYr8fHZ) | [Yerli Yersiz](https://open.spotify.com/album/28KkDUrw03df80t57pFLYe) | 3:27 |
-| 3 | [Aşk Kolay Olmalı](https://open.spotify.com/track/02F5ZaEvg6GmECVmWTPcGF) | [Elif Çohaz](https://open.spotify.com/artist/2nHjQP11BO3BV7ckkg4bZz) | [Aşk Kolay Olmalı](https://open.spotify.com/album/6pKS9lNkQduKFh4Fz7dCIC) | 3:05 |
+| 3 | [tek başına](https://open.spotify.com/track/5lv27x8BSXpDH5HbbdihYh) | [aslı](https://open.spotify.com/artist/0c6PVCYwCrVOW87YxACtIX) | [tek başına](https://open.spotify.com/album/103VaX7xrzJESAto7HJBlC) | 3:29 |
 | 4 | [kesik yüzeyler](https://open.spotify.com/track/1FsdQgrHLlxvX3A4mW91dM) | [naberkötüdür](https://open.spotify.com/artist/1zRlSU3LUMU19vg375QUmf) | [kesik yüzeyler](https://open.spotify.com/album/3232XFUqjtfjaxabBs0t7D) | 4:01 |
-| 5 | [Dilimin Tam Ucunda](https://open.spotify.com/track/3rHCD2jqROn6BUMMelK5tO) | [Ilgaz Altın](https://open.spotify.com/artist/2Tu3kqfmezkw99AWCkww4P) | [Dilimin Tam Ucunda](https://open.spotify.com/album/2riFqH9YsCw8qdq0bpXvFN) | 3:50 |
-| 6 | [tek başına](https://open.spotify.com/track/5lv27x8BSXpDH5HbbdihYh) | [aslı](https://open.spotify.com/artist/0c6PVCYwCrVOW87YxACtIX) | [tek başına](https://open.spotify.com/album/103VaX7xrzJESAto7HJBlC) | 3:29 |
+| 5 | [Aşk Kolay Olmalı](https://open.spotify.com/track/02F5ZaEvg6GmECVmWTPcGF) | [Elif Çohaz](https://open.spotify.com/artist/2nHjQP11BO3BV7ckkg4bZz) | [Aşk Kolay Olmalı](https://open.spotify.com/album/6pKS9lNkQduKFh4Fz7dCIC) | 3:05 |
+| 6 | [Dilimin Tam Ucunda](https://open.spotify.com/track/3rHCD2jqROn6BUMMelK5tO) | [Ilgaz Altın](https://open.spotify.com/artist/2Tu3kqfmezkw99AWCkww4P) | [Dilimin Tam Ucunda](https://open.spotify.com/album/2riFqH9YsCw8qdq0bpXvFN) | 3:50 |
 | 7 | [Bu Gece](https://open.spotify.com/track/1DC3S9HXLJdpBHpu1hTWwv) | [Evren](https://open.spotify.com/artist/2vn6ieqfLt99Xdy9KciQJW) | [Bu Gece](https://open.spotify.com/album/4wIWQx1G4vcCFPyPg4mI1w) | 2:15 |
 | 8 | [uydu bu aşk](https://open.spotify.com/track/5E3pd3QlpaN3cnoY4oVzvs) | [Tutku](https://open.spotify.com/artist/5hgO3u5FjBwpPJZFP8W7DX) | [uydu bu aşk](https://open.spotify.com/album/0Xk8HEwM4wnUPyABbNqgUR) | 3:10 |
 | 9 | [I'm Here](https://open.spotify.com/track/63zQxIH0qL37l2ynJLigQz) | [Ece Era](https://open.spotify.com/artist/6UMFKxAYDGjZtbUBvMn3xu) | [I'm Here](https://open.spotify.com/album/6MKuqsiiitHF8HxbMz9JO2) | 3:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 74 | [Yarınlar Tuzak](https://open.spotify.com/track/2Nv3bgeMIGoTDiQF5TyHZY) | [NAA](https://open.spotify.com/artist/1nR429OaY5MPuDOk1jmGKJ) | [Yarınlar Tuzak](https://open.spotify.com/album/0aNmb7jYEwC7m57X3mtu90) | 2:00 |
 | 75 | [777](https://open.spotify.com/track/3BK648HmyqMVDpOgwdw1MV) | [Rolla](https://open.spotify.com/artist/3BWYEYxTitOKVdHVehwWp9) | [777](https://open.spotify.com/album/0E02ONPmx5xqyZlJjQ0vIL) | 3:20 |
 
-Snapshot ID: `aEL3lwAAAACpupkIsgRql0TzQOQGRe2k`
+Snapshot ID: `aEic6wAAAADIWLv/koFlp50rtEKfg/Ez`

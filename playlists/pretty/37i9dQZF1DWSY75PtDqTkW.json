@@ -1,6 +1,6 @@
 {
   "description": "Extra van je vrije tijd genieten voor jong en oud.",
-  "num_followers": 110387,
+  "num_followers": 110408,
   "original_name": "Quality Time",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Drops Of Jupiter",
-        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Drops of Jupiter (Tell Me)",
-      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Blowin' Your Mind!",
         "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 183306,
       "name": "Brown Eyed Girl",
       "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Drops Of Jupiter",
+        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Drops of Jupiter (Tell Me)",
+      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1047,18 +1047,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "For Once In My Life",
-        "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
+        "name": "Mezzanine",
+        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Elizabeth Fraser",
+          "url": "https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx"
         }
       ],
-      "duration_ms": 169800,
-      "name": "For Once In My Life",
-      "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
+      "duration_ms": 330773,
+      "name": "Teardrop",
+      "url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1079,22 +1083,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Mezzanine",
-        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
+        "name": "For Once In My Life",
+        "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
       },
       "artists": [
         {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        },
-        {
-          "name": "Elizabeth Fraser",
-          "url": "https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 330773,
-      "name": "Teardrop",
-      "url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ"
+      "duration_ms": 169800,
+      "name": "For Once In My Life",
+      "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Dusty In Memphis",
-        "url": "https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2"
+        "name": "Foreigner (Expanded)",
+        "url": "https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M"
       },
       "artists": [
         {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
         }
       ],
-      "duration_ms": 148053,
-      "name": "Son Of A Preacher Man",
-      "url": "https://open.spotify.com/track/6ek9SiEj5a65WIs2EV7qiM"
+      "duration_ms": 203133,
+      "name": "Cold as Ice",
+      "url": "https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Foreigner (Expanded)",
-        "url": "https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M"
+        "name": "Dusty In Memphis",
+        "url": "https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2"
       },
       "artists": [
         {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
         }
       ],
-      "duration_ms": 203133,
-      "name": "Cold as Ice",
-      "url": "https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs"
+      "duration_ms": 148053,
+      "name": "Son Of A Preacher Man",
+      "url": "https://open.spotify.com/track/6ek9SiEj5a65WIs2EV7qiM"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 233173,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn"
       },
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+        "name": "Picture Book (Expanded Version)",
+        "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
       },
       "artists": [
         {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
         }
       ],
-      "duration_ms": 233173,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
+      "duration_ms": 269840,
+      "name": "Holding Back the Years - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Picture Book (Expanded Version)",
-        "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
-      },
-      "artists": [
-        {
-          "name": "Simply Red",
-          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
-        }
-      ],
-      "duration_ms": 269840,
-      "name": "Holding Back the Years - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Pocket Full Of Kryptonite",
         "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Labour Of Love II",
-        "url": "https://open.spotify.com/album/1mMfvPS1HZsxtU958F4Eq9"
-      },
-      "artists": [
-        {
-          "name": "UB40",
-          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Kingston Town",
-      "url": "https://open.spotify.com/track/1YnVYHXoak0syv4xBRHQRb"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Zenyatta Mondatta (Remastered 2003)",
         "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 242666,
       "name": "Don't Stand So Close To Me",
       "url": "https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Labour Of Love II",
+        "url": "https://open.spotify.com/album/1mMfvPS1HZsxtU958F4Eq9"
+      },
+      "artists": [
+        {
+          "name": "UB40",
+          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Kingston Town",
+      "url": "https://open.spotify.com/track/1YnVYHXoak0syv4xBRHQRb"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "When a Man Loves a Woman",
+        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "Talking Book",
         "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 165333,
       "name": "(You Make Me Feel Like) A Natural Woman",
       "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "When a Man Loves a Woman",
-        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -2083,6 +2083,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "The First Time Ever I Saw Your Face",
+      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "Baggariddim",
         "url": "https://open.spotify.com/album/6UjYrQhvKY0dq6nos8TVc8"
       },
@@ -2103,18 +2119,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+        "name": "Get Lifted",
+        "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
       },
       "artists": [
         {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 260666,
-      "name": "The First Time Ever I Saw Your Face",
-      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
+      "duration_ms": 281466,
+      "name": "Ordinary People",
+      "url": "https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -2131,22 +2147,6 @@
       "duration_ms": 264546,
       "name": "Keep Your Head Up",
       "url": "https://open.spotify.com/track/5fpEDGQX0Ah3utGnFYulQZ"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Get Lifted",
-        "url": "https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 281466,
-      "name": "Ordinary People",
-      "url": "https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Going To A Go-Go",
-        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "The Tracks Of My Tears",
-      "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Bat Out Of Hell II: Back Into Hell",
         "url": "https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 316466,
       "name": "I'd Do Anything For Love (But I Won't Do That) - Single Edit",
       "url": "https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Going To A Go-Go",
+        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "The Tracks Of My Tears",
+      "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3155,6 +3155,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "Woodland - EP",
+        "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 210080,
+      "name": "Bloom - Bonus Track",
+      "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "Wanted on Voyage",
         "url": "https://open.spotify.com/album/5tF2lAa2rh2kU2xIiBzWia"
       },
@@ -3171,18 +3187,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Woodland - EP",
-        "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC"
       },
       "artists": [
         {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 210080,
-      "name": "Bloom - Bonus Track",
-      "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
+      "duration_ms": 263000,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/7H8zey5My6uNdD2TxeCb9F"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3203,6 +3219,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "Out Of Time (U.S. Version)",
+        "url": "https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 267733,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/1xB1tmm50ZhXwrNs89u7Jx"
       },
@@ -3219,18 +3251,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC"
+        "name": "(What's The Story) Morning Glory? (Deluxe Edition) [Remastered]",
+        "url": "https://open.spotify.com/album/6ozp33PI3p9AdddB6ZL3xQ"
       },
       "artists": [
         {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 263000,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/7H8zey5My6uNdD2TxeCb9F"
+      "duration_ms": 258732,
+      "name": "Wonderwall (Remastered)",
+      "url": "https://open.spotify.com/track/5wj4E6IsrVtn8IBJQOd0Cl"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3267,34 +3299,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Edition) [Remastered]",
-        "url": "https://open.spotify.com/album/6ozp33PI3p9AdddB6ZL3xQ"
+        "name": "Extreme II - Pornograffitti",
+        "url": "https://open.spotify.com/album/7GOk2a0toWcEMGEm8uKLyz"
       },
       "artists": [
         {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
         }
       ],
-      "duration_ms": 258732,
-      "name": "Wonderwall (Remastered)",
-      "url": "https://open.spotify.com/track/5wj4E6IsrVtn8IBJQOd0Cl"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Out Of Time (U.S. Version)",
-        "url": "https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 267733,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB"
+      "duration_ms": 334040,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/2SbsvihBJmgNKZ4qkXFWrp"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3315,22 +3331,6 @@
       "duration_ms": 282040,
       "name": "As",
       "url": "https://open.spotify.com/track/7r3KzVwHtr2iMZtqJvFn9A"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Extreme II - Pornograffitti",
-        "url": "https://open.spotify.com/album/7GOk2a0toWcEMGEm8uKLyz"
-      },
-      "artists": [
-        {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
-        }
-      ],
-      "duration_ms": 334040,
-      "name": "More Than Words",
-      "url": "https://open.spotify.com/track/2SbsvihBJmgNKZ4qkXFWrp"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3367,22 +3367,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Tango In The Night",
-        "url": "https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 222733,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/6i8ecOsx4J2Px1maiqzqoG"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Can't Buy A Thrill",
         "url": "https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw"
       },
@@ -3399,18 +3383,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Silk Degrees",
-        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
+        "name": "Tango In The Night",
+        "url": "https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV"
       },
       "artists": [
         {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 315640,
-      "name": "Lowdown",
-      "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
+      "duration_ms": 222733,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/6i8ecOsx4J2Px1maiqzqoG"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3431,18 +3415,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Little Girl Blue (2013 Remastered Version)",
-        "url": "https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7"
+        "name": "Silk Degrees",
+        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
         }
       ],
-      "duration_ms": 215746,
-      "name": "My Baby Just Cares for Me - 2013 Remastered Version",
-      "url": "https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC"
+      "duration_ms": 315640,
+      "name": "Lowdown",
+      "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3463,18 +3447,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Teaser And The Firecat",
-        "url": "https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo"
+        "name": "Little Girl Blue (2013 Remastered Version)",
+        "url": "https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7"
       },
       "artists": [
         {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Morning Has Broken",
-      "url": "https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh"
+      "duration_ms": 215746,
+      "name": "My Baby Just Cares for Me - 2013 Remastered Version",
+      "url": "https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3495,18 +3479,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "The Joshua Tree (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/2qKmY7yt0kXdzSQxYAu9eZ"
+        "name": "Teaser And The Firecat",
+        "url": "https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
         }
       ],
-      "duration_ms": 277480,
-      "name": "I Still Haven't Found What I'm Looking For - Remastered 2007",
-      "url": "https://open.spotify.com/track/7gozgbG5EBTukCFWToTRA5"
+      "duration_ms": 200000,
+      "name": "Morning Has Broken",
+      "url": "https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3527,22 +3511,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Five-A-Side",
-        "url": "https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F"
-      },
-      "artists": [
-        {
-          "name": "Ace",
-          "url": "https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP"
-        }
-      ],
-      "duration_ms": 204226,
-      "name": "How Long",
-      "url": "https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Up From Below",
         "url": "https://open.spotify.com/album/3yfisavFdGTrjFf9Ecpbio"
       },
@@ -3559,34 +3527,34 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Super Trouper",
-        "url": "https://open.spotify.com/album/1nVUhbpkGwlTKxSIF6UJyM"
+        "name": "Five-A-Side",
+        "url": "https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Ace",
+          "url": "https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP"
         }
       ],
-      "duration_ms": 294720,
-      "name": "The Winner Takes It All",
-      "url": "https://open.spotify.com/track/5kBZR12AntJUTo9UeAsKqP"
+      "duration_ms": 204226,
+      "name": "How Long",
+      "url": "https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD"
     },
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Sigh No More (Benelux Edition)",
-        "url": "https://open.spotify.com/album/4yHxYRTHNocJenKZ4gQndD"
+        "name": "The Joshua Tree (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/2qKmY7yt0kXdzSQxYAu9eZ"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 218000,
-      "name": "The Cave",
-      "url": "https://open.spotify.com/track/2wT4SF6jRAl0GZvLO3QLeh"
+      "duration_ms": 277480,
+      "name": "I Still Haven't Found What I'm Looking For - Remastered 2007",
+      "url": "https://open.spotify.com/track/7gozgbG5EBTukCFWToTRA5"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3607,6 +3575,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "Super Trouper",
+        "url": "https://open.spotify.com/album/1nVUhbpkGwlTKxSIF6UJyM"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 294720,
+      "name": "The Winner Takes It All",
+      "url": "https://open.spotify.com/track/5kBZR12AntJUTo9UeAsKqP"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "Sweet Baby James",
         "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
       },
@@ -3619,6 +3603,22 @@
       "duration_ms": 200579,
       "name": "Fire and Rain",
       "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Sigh No More (Benelux Edition)",
+        "url": "https://open.spotify.com/album/4yHxYRTHNocJenKZ4gQndD"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/2wT4SF6jRAl0GZvLO3QLeh"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3663,22 +3663,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Back Home Again",
-        "url": "https://open.spotify.com/album/33KGuaxYmTlMgauIxfovy6"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 178266,
-      "name": "Annie's Song",
-      "url": "https://open.spotify.com/track/5qxFudz7A6PGptviHsz4Yd"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Some Girls",
         "url": "https://open.spotify.com/album/54sqbAXxR1jFfyXb1WvrHK"
       },
@@ -3691,6 +3675,22 @@
       "duration_ms": 288666,
       "name": "Miss You - Remastered",
       "url": "https://open.spotify.com/track/5LcD4BvRlJOn8inQGT2RUY"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Back Home Again",
+        "url": "https://open.spotify.com/album/33KGuaxYmTlMgauIxfovy6"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 178266,
+      "name": "Annie's Song",
+      "url": "https://open.spotify.com/track/5qxFudz7A6PGptviHsz4Yd"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3767,6 +3767,38 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "Ice On Fire (Remastered With Bonus Tracks)",
+        "url": "https://open.spotify.com/album/77IyyuuRV7IDN1ri7mBEuI"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 343240,
+      "name": "Nikita",
+      "url": "https://open.spotify.com/track/5lBI9isMBEHRn5Wxde058W"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Playlist: 90s Pop",
+        "url": "https://open.spotify.com/album/6DUy5QdkKXI15NFbk3pYAZ"
+      },
+      "artists": [
+        {
+          "name": "Charles & Eddie",
+          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
+        }
+      ],
+      "duration_ms": 204386,
+      "name": "Would I Lie To You?",
+      "url": "https://open.spotify.com/track/62R1MRux3R0v2cngA2xdJn"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "Fickle Heart (Plus Two Bonus Cuts)",
         "url": "https://open.spotify.com/album/0sXMbAJXXbkoJDbrbIiQgo"
       },
@@ -3799,38 +3831,6 @@
       "duration_ms": 260586,
       "name": "One",
       "url": "https://open.spotify.com/track/0Y8o2jU3ATJsIuatAhTG5Y"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Playlist: 90s Pop",
-        "url": "https://open.spotify.com/album/6DUy5QdkKXI15NFbk3pYAZ"
-      },
-      "artists": [
-        {
-          "name": "Charles & Eddie",
-          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
-        }
-      ],
-      "duration_ms": 204386,
-      "name": "Would I Lie To You?",
-      "url": "https://open.spotify.com/track/62R1MRux3R0v2cngA2xdJn"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Ice On Fire (Remastered With Bonus Tracks)",
-        "url": "https://open.spotify.com/album/77IyyuuRV7IDN1ri7mBEuI"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 343240,
-      "name": "Nikita",
-      "url": "https://open.spotify.com/track/5lBI9isMBEHRn5Wxde058W"
     },
     {
       "added_at": "2024-11-13 17:10:11",

@@ -4,7 +4,7 @@
 
 > Descubre el futuro de las escenas en México en compañía de Doony Graff
 
-437 songs - 22 hr 51 min
+440 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Chorumbo](https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Chorumbo](https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh) | 3:20 | 2023-07-03 | 2025-04-23 |
 | [Claridad Extática \- Tayhana Remix](https://open.spotify.com/track/0OqgbKpcSIieXmzEZWAsP7) | [Sueuga Kamau](https://open.spotify.com/artist/1PO6esSj88BOLjfrnCdUFM), [Tayhana](https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg) | [Claridad Extática \(Tayhana Remix\)](https://open.spotify.com/album/5iN0iaMcTTbJvwNtKwJmv9) | 4:06 | 2022-05-13 | 2022-07-17 |
 | [COCINE Y COCINE](https://open.spotify.com/track/022iMnAwAf64XrD6DcFfwd) | [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Onemillionkisses](https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c) | [NO ACEPTEN IMITACIONES](https://open.spotify.com/album/2mGO4bU7bgrFwEtcusFoIj) | 2:35 | 2025-05-09 |  |
+| [Cocodrilos](https://open.spotify.com/track/4wlEzNBPccyqMESEq1IS7B) | [Oveja](https://open.spotify.com/artist/3XhLzBXSvRtyTI1scZa2mX) | [Cocodrilos](https://open.spotify.com/album/5K55oM6XujNajJ1NPlvOSA) | 2:46 | 2025-06-10 |  |
 | [Cohete](https://open.spotify.com/track/6eVNeNkfbEbcwwi8IuYt35) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 3:39 | 2021-10-01 | 2022-05-11 |
 | [Colibrí](https://open.spotify.com/track/0FQrn8ItavKqvvjGodzMHa) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Colibrí](https://open.spotify.com/album/7A05hfSc8V8dCptrSoOiKI) | 3:14 | 2025-04-23 |  |
 | [Cometa](https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:00 | 2022-05-11 | 2022-07-24 |
@@ -252,6 +253,7 @@
 | [Morena](https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Morena](https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U) | 2:29 | 2022-08-08 | 2022-12-06 |
 | [Morena](https://open.spotify.com/track/03NjizgksFxcj3JpxLh3vn) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Morena](https://open.spotify.com/album/1ceWXvh39yPWMZiR6d6rrV) | 3:40 | 2022-05-13 | 2023-04-19 |
 | [Morra](https://open.spotify.com/track/3TdmhbiEYuTsrMXi8v6pgF) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Morra](https://open.spotify.com/album/5QjEgcxVI1AW3xz3cmrGGg) | 3:37 | 2024-06-04 | 2025-04-23 |
+| [MTY](https://open.spotify.com/track/3fT8Xnj4T4gtKUSmIPXZL6) | [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F), [Fntwxy](https://open.spotify.com/artist/6rxrgRFcJO761tilGL0VPH) | [MTY](https://open.spotify.com/album/1F5BssS4Z96oE0U7kn1U97) | 2:10 | 2025-06-10 |  |
 | [mucho texto](https://open.spotify.com/track/52bveGvtg6PtlEVxtxH5T4) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 3:21 | 2021-10-01 | 2022-05-12 |
 | [Muévete](https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Divergentes Inc.](https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI) | [Muévete](https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo) | 3:31 | 2022-05-13 | 2023-04-19 |
 | [My Love](https://open.spotify.com/track/4KmnnsobuU6kmhmdsR5qPl) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [My Love](https://open.spotify.com/album/3anKkRkQCaPcQV1jYxM42V) | 4:33 | 2022-05-13 | 2022-07-15 |
@@ -354,6 +356,7 @@
 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 | 2022-08-26 | 2022-11-09 |
 | [signos](https://open.spotify.com/track/4Yg9FM81cRqrbSZvr84k5J) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Fosis Met Amor](https://open.spotify.com/album/4lhk0djVeQeioDawW8NkO3) | 2:52 | 2022-05-11 | 2022-07-27 |
 | [Sin Compromiso](https://open.spotify.com/track/2IEuqijMtqJWrNfa5raZFc) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Sin Compromiso](https://open.spotify.com/album/0wrgk3LgWKQLD79oqoElpy) | 3:02 | 2021-10-01 | 2022-05-12 |
+| [Sin Voz](https://open.spotify.com/track/1q7on6hRi1dJkgshETQd10) | [emmanuellcortess\_](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Sin Voz](https://open.spotify.com/album/6aXRA8awYCWrSNlUIiLidw) | 4:15 | 2025-06-10 |  |
 | [Snakes](https://open.spotify.com/track/3XVP4UcQ6UtqUNUA7eOXsa) | [DUNNOWHO](https://open.spotify.com/artist/5hopiq3ryZicsodQkx8dGn), [HiiTay](https://open.spotify.com/artist/2zoliOCqK1WrucYhdrjiHz), [Zerarri](https://open.spotify.com/artist/7ISdsaYvSq0pkEFwt3Tu2y) | [Snakes](https://open.spotify.com/album/4TQlTRsDAafp2rol1iAjgX) | 2:49 | 2022-05-13 | 2022-07-11 |
 | [Sobran Motivos](https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Sobran Motivos](https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt) | 3:05 | 2023-04-18 | 2023-07-04 |
 | [Sola](https://open.spotify.com/track/4iwOAvxOS7reyD6EAFr6dN) | [Hillkidd](https://open.spotify.com/artist/4nk1I74jOOJiPdKPU6GfWk), [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4) | [Sola](https://open.spotify.com/album/6HMq15hlgpDx0c3dXUt5AK) | 3:46 | 2025-04-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: Stephen Stanley
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,895 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,893 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 74 | [Out Of The Cave](https://open.spotify.com/track/7b1wXW0faKHMQ8gy6Jcrws) | [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [Out Of The Cave](https://open.spotify.com/album/59YNuBvpwj1UIzIxaImeI3) | 3:27 |
 | 75 | [Friend](https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG) | [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl) | [Friend](https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k) | 3:46 |
 
-Snapshot ID: `aCf7EwAAAAC8IXxNDKwHdRiyYNI81nL3`
+Snapshot ID: `AAAAANN3ht3x5U4dXXccCFTsMsbQECLt`

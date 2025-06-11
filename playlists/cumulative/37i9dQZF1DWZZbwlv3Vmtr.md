@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,038 songs - 1 day 16 hr 11 min
+1,040 songs - 1 day 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,7 @@
 | [Ginger and Lime](https://open.spotify.com/track/0vpCjZxZ03dHk71gT6WdHR) | [spice rack](https://open.spotify.com/artist/4as7eq7Z4RegcT6FJ754Ub) | [the spice is right](https://open.spotify.com/album/1PHAihdUhYxo9dZrN1QOyb) | 2:21 | 2022-04-15 | 2023-10-27 |
 | [ginza](https://open.spotify.com/track/5vm51ZokW3p5Mc0WG015QD) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [ginza](https://open.spotify.com/album/5H7eKaI7Dj0Hv7U9X00yWt) | 2:36 | 2022-07-01 | 2022-07-29 |
 | [Gliding](https://open.spotify.com/track/5tFHUZ0Qldkq8B3OzhgoTm) | [In\-No\-Scence](https://open.spotify.com/artist/5MOvmIpMThMyTNmvwdckcA) | [Gliding](https://open.spotify.com/album/6qJG6AhrAb4wxIuR1fsKjp) | 1:43 | 2023-04-03 | 2025-05-29 |
-| [Glimmers](https://open.spotify.com/track/7ooO1azb9V79AwrCCDDsDM) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [Glimmers](https://open.spotify.com/album/1XzhGnS0rspiOQZ552QHo5) | 2:21 | 2025-03-07 |  |
+| [Glimmers](https://open.spotify.com/track/7ooO1azb9V79AwrCCDDsDM) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [Glimmers](https://open.spotify.com/album/1XzhGnS0rspiOQZ552QHo5) | 2:21 | 2025-03-07 | 2025-06-11 |
 | [Glitch Flower](https://open.spotify.com/track/5FILcC4AkPVuPdEqINDWNX) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7) | [Glitch Flower](https://open.spotify.com/album/4dwzeOvMJCTIBGiUFw82rO) | 2:52 | 2024-02-09 |  |
 | [Glorious](https://open.spotify.com/track/6MtDXkpB4tCtiRIFfAyzCE) | [Lozzle](https://open.spotify.com/artist/3qhKLxCl0TVYBmDoNCKMbt) | [Glorious](https://open.spotify.com/album/0Gp6gzfEUO9RPly3O6hyOz) | 2:11 | 2022-04-15 | 2022-06-03 |
 | [glossy window](https://open.spotify.com/track/2AG1nSGB6J9xEQOIm1Dyc8) | [7th Indigo](https://open.spotify.com/artist/75RGXEBlI9OL7jBSMlf12W) | [glossy window](https://open.spotify.com/album/0AoH1D4zGLEW72v3xI91QR) | 2:10 | 2022-07-01 | 2024-08-10 |
@@ -340,7 +340,7 @@
 | [Gravel](https://open.spotify.com/track/3hqhYxVwW3o6g8p7HhtSVW) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [Gravel](https://open.spotify.com/album/7ICWHUYb9EkAyol455qck6) | 1:54 | 2022-11-11 | 2024-06-17 |
 | [Gray or Grey](https://open.spotify.com/track/6tLMDPDjojjIn2dv7KEXco) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [Gray or Grey](https://open.spotify.com/album/2IsZrqLuFZHHM46SvrCLOd) | 2:52 | 2022-04-15 | 2025-01-23 |
 | [Green Coco](https://open.spotify.com/track/5lQhlSIPhc0x7VQ2cPLe6P) | [Alana Coello](https://open.spotify.com/artist/2el9nQDcHdJ1kFvoMPz1KT) | [Green Coco](https://open.spotify.com/album/5Jz1CJwWTof9wJnC1a7Usq) | 2:53 | 2023-11-17 |  |
-| [Greenhouse](https://open.spotify.com/track/7kMMiLUe4vBChQSNxlIlwR) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Ethan Deetz](https://open.spotify.com/artist/2u9pLWgNWbfZ2qPPZ8jMhZ) | [Greenhouse](https://open.spotify.com/album/6XbxhxcdM0T8uz4jaWtqcQ) | 2:02 | 2024-11-27 |  |
+| [Greenhouse](https://open.spotify.com/track/7kMMiLUe4vBChQSNxlIlwR) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Ethan Deetz](https://open.spotify.com/artist/2u9pLWgNWbfZ2qPPZ8jMhZ) | [Greenhouse](https://open.spotify.com/album/6XbxhxcdM0T8uz4jaWtqcQ) | 2:02 | 2024-11-27 | 2025-06-11 |
 | [Grey](https://open.spotify.com/track/3GAy161sXmgiMOD7PYzBIA) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Grey](https://open.spotify.com/album/7CUV9YXdh4CdcwLl7K4La6) | 3:16 | 2022-04-15 | 2022-05-20 |
 | [Grey Grey Sky](https://open.spotify.com/track/1Ja3HxkCvHjv4Vi9I7Crp0) | [Low Key Persona](https://open.spotify.com/artist/1c8LSH695KiZELRZeGUbeb) | [Grey Grey Sky](https://open.spotify.com/album/5eUIfgdL6gN8FDwJciEf7E) | 1:54 | 2022-10-28 | 2025-02-08 |
 | [Grooves](https://open.spotify.com/track/2a1kr1fmEAUKphT2cLxGeF) | [Nuncc](https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8) | [Grooves](https://open.spotify.com/album/6igUXKzTBxsPRRyXof9YXf) | 1:46 | 2025-02-14 | 2025-06-08 |
@@ -362,7 +362,7 @@
 | [Healing](https://open.spotify.com/track/7ww9dpRq9JazTQTbmQvt1F) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Healing](https://open.spotify.com/album/0V8w3lrIyZbd47a3ZMgsEF) | 2:25 | 2023-12-08 |  |
 | [Heartbeat](https://open.spotify.com/track/1CcDRIoWnH19cOockC58UT) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Heartbeat](https://open.spotify.com/album/2b4MQwic08GoiWdAoI76Q3) | 2:05 | 2024-09-13 |  |
 | [Heat Sink](https://open.spotify.com/track/1LkKE6EKpkBXBqYnfaPHXE) | [Yeriho](https://open.spotify.com/artist/78i2cMCD9ZGsHitYgLbMhW), [Brunch Collect](https://open.spotify.com/artist/0kAzoeOzrlScAtTLUy613u) | [Odyssey](https://open.spotify.com/album/0tt8x0BZjFBKRbPP5Z5tNq) | 2:00 | 2022-07-22 | 2022-12-10 |
-| [Heaux](https://open.spotify.com/track/2XF3s6ycUXSJQCVMteiERI) | [Dr\. Travis](https://open.spotify.com/artist/49IK4aTJhEP93RfabiqaEZ) | [Kawhi](https://open.spotify.com/album/0ASHEDZAklWntGctYuGsRY) | 2:36 | 2022-04-15 |  |
+| [Heaux](https://open.spotify.com/track/2XF3s6ycUXSJQCVMteiERI) | [Dr\. Travis](https://open.spotify.com/artist/49IK4aTJhEP93RfabiqaEZ) | [Kawhi](https://open.spotify.com/album/0ASHEDZAklWntGctYuGsRY) | 2:36 | 2022-04-15 | 2025-06-11 |
 | [Heavensent](https://open.spotify.com/track/0SdZzPskMPdVibBUHNrrim) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Heavensent](https://open.spotify.com/album/0nzrNWqyAHUgLFiB4gE15Y) | 3:04 | 2023-12-22 | 2025-05-24 |
 | [Hello, Beautiful](https://open.spotify.com/track/0EZBeSP6JhQ9tiZRkm45wE) | [Nostalgique](https://open.spotify.com/artist/0vQZ3ouldVTGqaF2RJCr6O) | [Hello, Beautiful](https://open.spotify.com/album/2visBkenZRm39wKPaCd5kh) | 1:16 | 2022-04-15 | 2022-06-10 |
 | [Hello, Hi](https://open.spotify.com/track/5W3FAOOcBGlhyS14THQvPC) | [Royal 63](https://open.spotify.com/artist/3uacTioaRYR9HiighlkFqJ) | [Hello, Hi](https://open.spotify.com/album/33JTS1buALOUApqVP63eSL) | 2:10 | 2022-06-03 | 2022-09-03 |
@@ -457,6 +457,7 @@
 | [Latex](https://open.spotify.com/track/2IfYpqvhlKUQ7BcURXGWHo) | [Sail & Weep](https://open.spotify.com/artist/1ufnSHs8Qsy6u9d5hQo4Ao) | [Latex](https://open.spotify.com/album/6yKF2qc08283e2ooJrdawF) | 2:37 | 2022-04-15 |  |
 | [Layer 11](https://open.spotify.com/track/1bGs3t13EhRBFpsriAPTrS) | [Chewsday](https://open.spotify.com/artist/2HGON9HbOgKaYL7F6IIYLU) | [Layer 11](https://open.spotify.com/album/0s6MSC4PuCQqllrO6FjAaI) | 2:20 | 2022-11-25 |  |
 | [Layovers](https://open.spotify.com/track/11fKCRvb1iBkuHK7Etq3bv) | [Shapes N Clouds](https://open.spotify.com/artist/1hzy68RXMgXkGADAtpTHBl), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [Layovers](https://open.spotify.com/album/0IBctredI1PfDUiPFP3OkB) | 2:49 | 2022-08-05 | 2022-10-14 |
+| [lazy](https://open.spotify.com/track/3mGpooqbPt5GddbS6U5Azr) | [teylors](https://open.spotify.com/artist/71ZUjeK7Y7ELruTeS2Nd7X) | [lazy](https://open.spotify.com/album/0M4szo3iu3uNN36UR81JWX) | 2:17 | 2025-06-07 |  |
 | [Lazy Days](https://open.spotify.com/track/7suskOPZ8onOtynAzhT0Qg) | [My Ol' Man](https://open.spotify.com/artist/37j2MNjIAKO9lXKTXlhxJM) | [Lazy Days](https://open.spotify.com/album/66aCELdbiAYIzRN55S0SyN) | 2:43 | 2022-04-15 | 2022-07-08 |
 | [Lazy Dreams](https://open.spotify.com/track/0MeDQSiROjluPfu8hF00bT) | [Goslow](https://open.spotify.com/artist/4vc0hwDIdfnY7qAYAk9hqn), [VOLKHIN](https://open.spotify.com/artist/4zLct3dcGnskzifqZebi2p) | [Lazy Dreams](https://open.spotify.com/album/0dsR4JBGi6wYvVh8NF9PB9) | 2:12 | 2022-08-19 | 2023-09-11 |
 | [Lazy Wave](https://open.spotify.com/track/0NnNuDaIWS2aPRkKCgTDvE) | [Zeyn](https://open.spotify.com/artist/1NR5IwCw7nBTNjTQSKOb7Z) | [Lazy Wave](https://open.spotify.com/album/1gXyrT30rMvmePGUziVIVO) | 2:26 | 2022-10-14 |  |
@@ -619,6 +620,7 @@
 | [only you](https://open.spotify.com/track/0FvxLuWx3pVjeAhqMyrKLl) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [only you](https://open.spotify.com/album/1MmSnwIwlZY9UWIiUBnobG) | 2:26 | 2022-09-30 |  |
 | [Opus 2](https://open.spotify.com/track/7JV0q80mvbiEUDGUFxE3J5) | [WillSum](https://open.spotify.com/artist/65yQkihuUYn5wSktWTgSVG) | [Opus 2](https://open.spotify.com/album/716LHTsujovH8m2J576NaV) | 2:00 | 2022-04-15 |  |
 | [Orange and More Orange](https://open.spotify.com/track/7zLvnQVUahgEm9TmV7dtjn) | [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE) | [This Must Be the Place](https://open.spotify.com/album/6MqKvZpyncm6ycEpmFm1M2) | 3:12 | 2022-07-08 | 2023-09-22 |
+| [Oscar](https://open.spotify.com/track/6OaTHXIlJk7yDVCMEAyV4v) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Oscar](https://open.spotify.com/album/7fZitTtCmUP5HqYGcjbIOu) | 1:58 | 2025-06-07 |  |
 | [Our Feelings](https://open.spotify.com/track/6Afhf3If4W91Y1SaubBPQK) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Our Feelings](https://open.spotify.com/album/1Wl54blA680GecLnFfJoGS) | 2:20 | 2024-10-16 |  |
 | [Out Of Order](https://open.spotify.com/track/5UgCKTRv3o4HrS5gOLUN4b) | [Tzeri](https://open.spotify.com/artist/52hl0yuSTaDyn0cJxxCMaK) | [Out Of Order](https://open.spotify.com/album/6IeQxgTkyOgmyo26GKWCNl) | 2:21 | 2022-04-15 |  |
 | [Out The Blue \- Beat Edit](https://open.spotify.com/track/0C0YfH9QJ0vh0p4yQyjZyU) | [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH), [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [Out The Blue \(Beat Edit\)](https://open.spotify.com/album/4cjeF3pTkT8til7510bCSp) | 1:30 | 2022-04-15 | 2022-09-03 |
@@ -860,7 +862,7 @@
 | [Sunbake](https://open.spotify.com/track/13dSHGSpq8LoJe4YesGKSr) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [Sunbake](https://open.spotify.com/album/1vNX82DA1f0PLCNIdJaJ9P) | 2:04 | 2022-04-15 | 2023-10-13 |
 | [Sunday](https://open.spotify.com/track/71e14NqXbs73muybtabMjJ) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Sunday](https://open.spotify.com/album/2GY7OcR4K6JftC80zFMrK0) | 3:48 | 2023-09-08 | 2025-04-07 |
 | [Sunday Stroll](https://open.spotify.com/track/59X5tZsRdrmuj12YKnXvjh) | [Chilles](https://open.spotify.com/artist/13uNHvieT91AQEZiuno4KU) | [Sunday Stroll](https://open.spotify.com/album/4zmXufzsEaiw6tUvElJR6j) | 1:57 | 2022-04-15 | 2022-06-10 |
-| [Sunglasses at Night](https://open.spotify.com/track/7bprxmvPWGSdYIyjcXKVSV) | [Moon Ghetto](https://open.spotify.com/artist/13Z78tf8milV5V0tcNwVq0), [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Sunglasses at Night](https://open.spotify.com/album/7gmLOUJFVnq4SNAKOdpstk) | 2:05 | 2022-12-09 | 2025-05-30 |
+| [Sunglasses at Night](https://open.spotify.com/track/7bprxmvPWGSdYIyjcXKVSV) | [Moon Ghetto](https://open.spotify.com/artist/13Z78tf8milV5V0tcNwVq0), [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Sunglasses at Night](https://open.spotify.com/album/7gmLOUJFVnq4SNAKOdpstk) | 2:05 | 2022-12-09 |  |
 | [Sunny](https://open.spotify.com/track/0JXVthIPNVYB76jj2oxbKY) | [Aphrodiciaq](https://open.spotify.com/artist/1YlacHeO7Vj237OMKD8hxh) | [Sunny](https://open.spotify.com/album/3R5VARmC4zQ45PWlphX0vR) | 2:33 | 2022-10-14 | 2025-05-24 |
 | [Sunny Side](https://open.spotify.com/track/2J8gE4IMrJhOpKad0UgM25) | [Hawk Town](https://open.spotify.com/artist/4kr96RAgKYYkht9GMqFKY1) | [Sunny Side](https://open.spotify.com/album/0JjSuWZ8awn89gBUKP4urE) | 2:37 | 2022-04-15 | 2025-05-24 |
 | [Sunny Side](https://open.spotify.com/track/50IYpgJ4swioyNFfti9M6l) | [ninetytwo.](https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V) | [Sunny Side](https://open.spotify.com/album/3qhjESGg47HWA4vcRdS8TZ) | 1:58 | 2024-05-29 |  |

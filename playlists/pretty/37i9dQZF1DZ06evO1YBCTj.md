@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YBCTj.md) - [plain]
 
 > This is keshi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,630 likes - 44 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,669 likes - 44 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YBCTj.md) - [plain]
 | 12 | [Forever](https://open.spotify.com/track/2C5nlzIMJ81NYmeGhofNNP) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Deluxe\)](https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf) | 2:51 |
 | 13 | [SOMEBODY](https://open.spotify.com/track/3iqlzKw1tLt6tXZyKWV0fZ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:44 |
 | 14 | [War](https://open.spotify.com/track/7GjOb7jRRrB3nrNqFeKzff) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:29 |
-| 15 | [Kiss Me Right](https://open.spotify.com/track/4fXmBERnR3SDk053aqQqwa) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Bonus Edition\)](https://open.spotify.com/album/0ResBXlOIf8Bqsf6W9swJx) | 2:41 |
+| 15 | [i swear i'll never leave again](https://open.spotify.com/track/5byXSKd7QOHtVMOiptklBD) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 2:53 |
 | 16 | [Inside Out](https://open.spotify.com/track/3x39bVlJlxorxZGzBpc2yA) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Deluxe\)](https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf) | 3:57 |
-| 17 | [i swear i'll never leave again](https://open.spotify.com/track/5byXSKd7QOHtVMOiptklBD) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 2:53 |
+| 17 | [Kiss Me Right](https://open.spotify.com/track/4fXmBERnR3SDk053aqQqwa) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Bonus Edition\)](https://open.spotify.com/album/0ResBXlOIf8Bqsf6W9swJx) | 2:41 |
 | 18 | [Like That](https://open.spotify.com/track/3pf5M9sxSecmhjT9gMPwe9) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:00 |
 | 19 | [blue](https://open.spotify.com/track/21yCOhgaDMc0KEtxhZHTbI) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 2:58 |
 | 20 | [skeletons](https://open.spotify.com/track/2BuJrxYKhYky20dQqTlobO) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [skeletons](https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0) | 2:32 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YBCTj.md) - [plain]
 | 43 | [just friends](https://open.spotify.com/track/2KEnu7ABoDpekTUae5rrU0) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [just friends](https://open.spotify.com/album/5Uaaq4KQPwGTG9cyooFD1I) | 2:03 |
 | 44 | [atlas](https://open.spotify.com/track/0PQK5efczMVIIjScPRZYH5) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [skeletons](https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0) | 2:51 |
 
-Snapshot ID: `aETSgAAAAABGT+sc7f83Q5rZsk6zcsXN`
+Snapshot ID: `aEYkAAAAAACxG0ftaxwGQLBu4cS3qZsV`

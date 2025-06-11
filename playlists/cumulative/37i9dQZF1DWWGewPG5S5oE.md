@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 4Aces
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 小室響
 
-417 songs - 1 day 9 hr 31 min
+418 songs - 1 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Extra Freedom](https://open.spotify.com/track/0ViSJTe0YkVRP5FXcNo91V) | [Kyoto Jazz Sextet](https://open.spotify.com/artist/6HJLP8BxT0IJtEtZRba2Xd) | [UNITY](https://open.spotify.com/album/3sR1fIm8LCnPukPiLghLgV) | 6:19 | 2022-09-06 | 2023-05-17 |
 | [Face To Face \- Live at 100BAN Hall, Kobe, 2022](https://open.spotify.com/track/3Wzhjs5i3i9T5KJ9xN9rKH) | [Hiro Kimura](https://open.spotify.com/artist/0qMjX7Df9jLTDJu4mggBoI), [Miki Hirose](https://open.spotify.com/artist/1HCCpOwaRMg0YNT0GFRSPx) | [Folds \(Live at 100BAN Hall, Kobe, 2022\)](https://open.spotify.com/album/19uLSbnTCzQqDn6csaIH8O) | 9:13 | 2023-04-11 | 2023-08-02 |
 | [Face To Face \- Live at 100BAN Hall, Kobe, 2022](https://open.spotify.com/track/2KDNxWVhoKrb0eD3I1rRlH) | [木村紘](https://open.spotify.com/artist/7kpUeYy4uViw2WqItHP1mk), [Miki Hirose](https://open.spotify.com/artist/1HCCpOwaRMg0YNT0GFRSPx) | [Folds \(Live at 100BAN Hall, Kobe, 2022\)](https://open.spotify.com/album/0RfsSTVgv1MwEKfB0O9AyV) | 9:13 | 2023-04-11 | 2023-04-13 |
-| [Fall \- feat.Shinpei Ruike](https://open.spotify.com/track/2XGxo0fRxLfI6NRSIRbsY0) | [小室響](https://open.spotify.com/artist/2knziYJNT3pAgE21mHc4a0), [Shinpei Ruike](https://open.spotify.com/artist/5hIsqTfC2qj4oawLhTDLs1) | [Fall \(feat.Shinpei Ruike\)](https://open.spotify.com/album/3PwfmA3fnPu10cybU9S5dL) | 10:54 | 2025-05-20 |  |
+| [Fall \- feat.Shinpei Ruike](https://open.spotify.com/track/2XGxo0fRxLfI6NRSIRbsY0) | [小室響](https://open.spotify.com/artist/2knziYJNT3pAgE21mHc4a0), [Shinpei Ruike](https://open.spotify.com/artist/5hIsqTfC2qj4oawLhTDLs1) | [Fall \(feat.Shinpei Ruike\)](https://open.spotify.com/album/3PwfmA3fnPu10cybU9S5dL) | 10:54 | 2025-05-20 | 2025-06-11 |
 | [Family Mate](https://open.spotify.com/track/4Xu7MtszWBQXB34P2om65e) | [Soundtype](https://open.spotify.com/artist/0IDzcMfdL7OKZNhFjjH4Te) | [Family Mate](https://open.spotify.com/album/6uJ7zwjJPM5VzabtlGTI8W) | 4:41 | 2024-08-13 | 2024-09-18 |
 | [Fiction](https://open.spotify.com/track/0iSowMxJqhNn89D6aM3UQ8) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Heart of Tokage](https://open.spotify.com/album/7Do6pM4reRPvvgwKYg6hL9) | 3:42 | 2023-03-21 | 2023-05-17 |
 | [Find You Find Me](https://open.spotify.com/track/4d2I2W72Hnal6K6w86mYK9) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Find You Find Me](https://open.spotify.com/album/1xYZtlGvIcHC5qYtjdTy9N) | 3:58 | 2025-03-18 | 2025-05-26 |
@@ -249,6 +249,7 @@
 | [Recollections Abstracted](https://open.spotify.com/track/4a9WjEoPVlaCfNy4SNkysJ) | [Kei Matsumaru](https://open.spotify.com/artist/3mHyQil6LHrtKvJ2hrFN6e), [Akira Ishii](https://open.spotify.com/artist/4aXZZMEzjJD8LbpsfNl6W0), [Hideaki Kanazawa](https://open.spotify.com/artist/7a99ADzo7A5wdnxqFz5X7i), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Recollections Abstracted](https://open.spotify.com/album/45DPR62WKg1y09EyJcde93) | 8:12 | 2022-09-06 | 2022-09-28 |
 | [Red Lightning](https://open.spotify.com/track/7z8y7GvjS0X2BwDJGThY7y) | [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O), [Takumi Kaneko](https://open.spotify.com/artist/6GaU1oIXLnxCY0yxoR1KVg), [Tomoharu"Jr."Takahashi](https://open.spotify.com/artist/4WgBkIoSdVQ5oCjekYpGck), [Yoshio Kobayashi](https://open.spotify.com/artist/5Su4NgoYgeEAt1GSXdmMxu) | [Red Lightning](https://open.spotify.com/album/6d7yeq3RIbu5dRXWvq094C) | 5:32 | 2022-09-06 | 2022-12-28 |
 | [Red Ocean](https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 5:00 | 2022-09-06 | 2024-04-19 |
+| [Reflection \- feat.類家心平&峰厚介](https://open.spotify.com/track/1qEnZlEVK9txknYaDSmwN8) | [小室響](https://open.spotify.com/artist/2knziYJNT3pAgE21mHc4a0), [Shinpei Ruike](https://open.spotify.com/artist/5hIsqTfC2qj4oawLhTDLs1), [峰厚介](https://open.spotify.com/artist/0wTMIuAhb3RlvY8bkt1yNt) | [Reflection \(feat.類家心平&峰厚介\)](https://open.spotify.com/album/3ZDhtZ3RIwPiZvsLMn63ZS) | 19:03 | 2025-06-10 |  |
 | [Reflections in D](https://open.spotify.com/track/4ponlXnRElQCm2LSpo0JVZ) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [プレイズ・スタンダード](https://open.spotify.com/album/1BPfVA2Mfj9pP2Sp6uBdrr) | 3:53 | 2023-09-05 | 2023-12-20 |
 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 | 2022-09-06 | 2024-12-18 |
 | [REMEDY](https://open.spotify.com/track/7zIf3lvb2jqsyRWPX5IO4A) | [otoshik](https://open.spotify.com/artist/1L8gpoL5UFZvoQXkda0uXu) | [REMEDY](https://open.spotify.com/album/0o0mNGUywrcMgBGzmxAXd5) | 5:52 | 2025-01-21 | 2025-03-13 |

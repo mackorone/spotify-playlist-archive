@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pcshwfgXFN.md) - [plain]
 
 > A selection of Islamic Duaa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,531 likes - 35 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,527 likes - 35 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,12 +22,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pcshwfgXFN.md) - [plain]
 | 12 | [Allahoma Eny Asalok Alafia](https://open.spotify.com/track/1hZyGewLBDK4YHiFDQGrNp) | [Haroon Al Rasheed](https://open.spotify.com/artist/2nniJ5inYBrjj4v1VzFalt) | [Duaa Sayed Al Estegfaar](https://open.spotify.com/album/5Lw1gg3Vn3W4ChUnqEoOZr) | 0:48 |
 | 13 | [دعاء ختم القران ١](https://open.spotify.com/track/5wa6Xknf6waXXlLcf13jOn) | [احمد السعيد مندور](https://open.spotify.com/artist/1sni2CLdOh54hNoDnNJyIr) | [ادعية اسلامية](https://open.spotify.com/album/25d8GxHD0iumD0INN9T4Tf) | 5:45 |
 | 14 | [دعاء كل يوم في شهر رمضان](https://open.spotify.com/track/11jpKKK9qpz8AKTFjcU7xa) | [أبو أيمن](https://open.spotify.com/artist/2y3dfldORxkOXdixRoM64Y) | [أدعية شهر رمضان](https://open.spotify.com/album/4jVYVEL9E8Il4N62eEMwu9) | 1:44 |
-| 15 | [الحمد لله الذي خلق السموات و الارض](https://open.spotify.com/track/59zUfXJTxxZHqnILX8CB39) | [Sheikh Mohamed Metwally Al Shaarawy](https://open.spotify.com/artist/7ilS6CVz4sDnhD5zUHGYGF) | [ادعية الشيخ محمد متولي الشعراوي](https://open.spotify.com/album/18rGXF8PO28jmrvnSOuXSU) | 1:12 |
+| 15 | [اعينا على طاعتك](https://open.spotify.com/track/4b9ePeY7n2SSPUqU2hVXqI) | [Sheikh Mohamed Metwally Al Shaarawy](https://open.spotify.com/artist/7ilS6CVz4sDnhD5zUHGYGF) | [ادعية الشيخ محمد متولي الشعراوي](https://open.spotify.com/album/18rGXF8PO28jmrvnSOuXSU) | 1:41 |
 | 16 | [اللهم يا الله](https://open.spotify.com/track/1hrizEky1eZy0XS6GgjOCm) | [Edres Abkar](https://open.spotify.com/artist/37MfCJQQ9aE323lqRTIgju) | [اللهم يا الله](https://open.spotify.com/album/08yJU7z39Quf8CQbVaP9gI) | 5:16 |
 | 17 | [دعاء اللهم اجعل لي نصيباً من الخير](https://open.spotify.com/track/2ple70bGnZPJh2sppFGYby) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [دعاء اللهم اجعل لي نصيباً من الخير](https://open.spotify.com/album/0c8Kbb1MTtLsvwaZc2BuBj) | 0:39 |
 | 18 | [\( Live \) اللهم إنا نسألك خير ما نأتي](https://open.spotify.com/track/0rWxaewxRQ2NXCJbiv8I49) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية شهر رمضان](https://open.spotify.com/album/2tOnxcvLJkNfE0uh5ADKbj) | 1:00 |
 | 19 | [اللهم اعنا على الصيام](https://open.spotify.com/track/5MlLAqk4nqOYbISXGUJOkB) | [Nour al Houda](https://open.spotify.com/artist/2kvtOCzGgeWCgQTUovLF33) | [ادعية رمضان](https://open.spotify.com/album/1iwEVWsnYgm3lThBhamg5H) | 1:58 |
-| 20 | [اعينا على طاعتك](https://open.spotify.com/track/4b9ePeY7n2SSPUqU2hVXqI) | [Sheikh Mohamed Metwally Al Shaarawy](https://open.spotify.com/artist/7ilS6CVz4sDnhD5zUHGYGF) | [ادعية الشيخ محمد متولي الشعراوي](https://open.spotify.com/album/18rGXF8PO28jmrvnSOuXSU) | 1:41 |
+| 20 | [الحمد لله الذي خلق السموات و الارض](https://open.spotify.com/track/59zUfXJTxxZHqnILX8CB39) | [Sheikh Mohamed Metwally Al Shaarawy](https://open.spotify.com/artist/7ilS6CVz4sDnhD5zUHGYGF) | [ادعية الشيخ محمد متولي الشعراوي](https://open.spotify.com/album/18rGXF8PO28jmrvnSOuXSU) | 1:12 |
 | 21 | [Duaa 01](https://open.spotify.com/track/547b7IE6PjVGYTEpDOTNRu) | [Al Sheikh Saad Al Ghamidi](https://open.spotify.com/artist/1CGHWaiCXY5Z1K7tZzoaTf) | [Duaa 01](https://open.spotify.com/album/31yPPWxtAoIbmvAh1l08gw) | 3:54 |
 | 22 | [دعاء ختم القرآن](https://open.spotify.com/track/4NW9H4kbsEvcGqnB4yscq2) | [الشيخ ماهر المعيقلي](https://open.spotify.com/artist/6HxcDnh44UND5HvvGmWP17) | [أدعية بصوت الشيخ ماهر المعيقلي](https://open.spotify.com/album/58QRUpaLEB9Q3KC6FUck6H) | 9:33 |
 | 23 | [\( Live \) اللهم صلي على جميع الملائكة والمرسلين](https://open.spotify.com/track/36LZfcKCa9dIatXNNrP7ck) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية شهر رمضان](https://open.spotify.com/album/2tOnxcvLJkNfE0uh5ADKbj) | 1:00 |

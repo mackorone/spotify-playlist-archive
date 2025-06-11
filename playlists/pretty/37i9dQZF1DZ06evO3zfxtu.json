@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAACxxLgI2z9xQPDi2w8WgP5v",
+  "snapshot_id": "aEYkAAAAAAD6Zy88w9MihadQad7uhiTv",
   "tracks": [
     {
       "added_at": null,
@@ -243,26 +243,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "N2U (feat. Martha Wash)",
-        "url": "https://open.spotify.com/album/0TGjVzVuB9IhQERhQCesy1"
+        "name": "That's My Girl (Remixes)",
+        "url": "https://open.spotify.com/album/0oApwtNMKHwqN7Zx4IYip8"
       },
       "artists": [
         {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+          "name": "Fifth Harmony",
+          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
         },
         {
           "name": "Eva Shaw",
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Martha Wash",
-          "url": "https://open.spotify.com/artist/7htVGwGw3uAa7Axft4MTnx"
         }
       ],
-      "duration_ms": 192145,
-      "name": "N2U (feat. Martha Wash)",
-      "url": "https://open.spotify.com/track/1Mw7M3NtxV1iSB6fHD8592"
+      "duration_ms": 193533,
+      "name": "That's My Girl - Eva Shaw Remix",
+      "url": "https://open.spotify.com/track/6ysEPZlnEh20JQUuMaOFes"
     },
     {
       "added_at": null,
@@ -295,22 +291,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "That's My Girl (Remixes)",
-        "url": "https://open.spotify.com/album/0oApwtNMKHwqN7Zx4IYip8"
+        "name": "N2U (feat. Martha Wash)",
+        "url": "https://open.spotify.com/album/0TGjVzVuB9IhQERhQCesy1"
       },
       "artists": [
         {
-          "name": "Fifth Harmony",
-          "url": "https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt"
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
         },
         {
           "name": "Eva Shaw",
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Martha Wash",
+          "url": "https://open.spotify.com/artist/7htVGwGw3uAa7Axft4MTnx"
         }
       ],
-      "duration_ms": 193533,
-      "name": "That's My Girl - Eva Shaw Remix",
-      "url": "https://open.spotify.com/track/6ysEPZlnEh20JQUuMaOFes"
+      "duration_ms": 192145,
+      "name": "N2U (feat. Martha Wash)",
+      "url": "https://open.spotify.com/track/1Mw7M3NtxV1iSB6fHD8592"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swing My Way",
-        "url": "https://open.spotify.com/album/5hOvPYDRbJpfVQ34rY3gQr"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Kris the $pirit",
-          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
-        }
-      ],
-      "duration_ms": 192200,
-      "name": "Swing My Way",
-      "url": "https://open.spotify.com/track/6nVP1QzLceLBUWLLBtqdb0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ROWDYRUFF BOYZ (with Eva Shaw)",
         "url": "https://open.spotify.com/album/0wIJrXCHUAVOcoz8mzSDia"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 175941,
       "name": "ROWDYRUFF BOYZ (with Eva Shaw)",
       "url": "https://open.spotify.com/track/1Rj8B7kHHM92QMZF0bIcqN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Swing My Way",
+        "url": "https://open.spotify.com/album/5hOvPYDRbJpfVQ34rY3gQr"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Kris the $pirit",
+          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
+        }
+      ],
+      "duration_ms": 192200,
+      "name": "Swing My Way",
+      "url": "https://open.spotify.com/track/6nVP1QzLceLBUWLLBtqdb0"
     },
     {
       "added_at": null,
@@ -727,54 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "100GANG",
-        "url": "https://open.spotify.com/album/7HuzSng8agTguNBreZvmC3"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Hitmakerchinx",
-          "url": "https://open.spotify.com/artist/6GhBUUXBi2x3DVad9izEQD"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "100GANG",
-      "url": "https://open.spotify.com/track/0nQMfKCZUHSYA2Qp98Q4m1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vitamin D (Eva Shaw Remix)",
-        "url": "https://open.spotify.com/album/7dgIG0ZI4arq3aV94fSJPW"
-      },
-      "artists": [
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 160565,
-      "name": "Vitamin D - Eva Shaw Remix",
-      "url": "https://open.spotify.com/track/5dLSBxsw8pZ0CTg3ld2Zkk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/0C1rCiWg2VxcAH7SKdG55B"
       },
@@ -839,6 +791,54 @@
       "duration_ms": 175132,
       "name": "Ba Da Da Ding",
       "url": "https://open.spotify.com/track/738Lq96Lgoy6oiZx2itjyl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vitamin D (Eva Shaw Remix)",
+        "url": "https://open.spotify.com/album/7dgIG0ZI4arq3aV94fSJPW"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 160565,
+      "name": "Vitamin D - Eva Shaw Remix",
+      "url": "https://open.spotify.com/track/5dLSBxsw8pZ0CTg3ld2Zkk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "100GANG",
+        "url": "https://open.spotify.com/album/7HuzSng8agTguNBreZvmC3"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Hitmakerchinx",
+          "url": "https://open.spotify.com/artist/6GhBUUXBi2x3DVad9izEQD"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "100GANG",
+      "url": "https://open.spotify.com/track/0nQMfKCZUHSYA2Qp98Q4m1"
     },
     {
       "added_at": null,
@@ -1127,22 +1127,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/6IS5tLaoTvCaWwgEahPGRV"
+        "name": "100%",
+        "url": "https://open.spotify.com/album/7KxXdsAwi1yz5mUkyG5l2J"
       },
       "artists": [
         {
           "name": "Eva Shaw",
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "pisceze",
-          "url": "https://open.spotify.com/artist/3DmOaVvd5WgtShwcyetG3n"
         }
       ],
-      "duration_ms": 158357,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/6v1axX1firdR05VR9siAGF"
+      "duration_ms": 169173,
+      "name": "100%",
+      "url": "https://open.spotify.com/track/2KrLo6tZVmS9vWGa4rejK5"
     }
   ],
   "unique_name": "This Is Eva Shaw",

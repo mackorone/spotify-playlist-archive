@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-572 songs - 1 day 0 hr 31 min
+574 songs - 1 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,6 +513,7 @@
 | [The Open](https://open.spotify.com/track/2sSzhlTz0N1HlSuoLLxv8z) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [The Open](https://open.spotify.com/album/2AcC9SJ0mMyKGJLONZx6lt) | 3:34 | 2022-04-14 | 2023-03-22 |
 | [The Optimist](https://open.spotify.com/track/4wJd6cER10JZRuU5y3DBkZ) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [The Optimist](https://open.spotify.com/album/3KzZstlr8d3MiiO1swIRJX) | 2:39 | 2023-05-09 |  |
 | [The promenade](https://open.spotify.com/track/7wwoRmaR5PedYCw1iWtjAM) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [The promenade](https://open.spotify.com/album/4j34n7TZ31JyiCgulAMSnJ) | 1:59 | 2023-08-07 | 2023-08-22 |
+| [The Relaxing Gem](https://open.spotify.com/track/5REKUW4QDSYOIeL68o5bUH) | [ZenithEcho](https://open.spotify.com/artist/6kr9ZNAP53oR0jWVt7LJwD) | [The Relaxing Gem](https://open.spotify.com/album/6LM72L5zfSMbFq0LtG3HRs) | 1:58 | 2025-06-10 |  |
 | [The Right Course](https://open.spotify.com/track/6vjhLsJbpfclLNSCKHjGTW) | [Jone Lange](https://open.spotify.com/artist/4bG81VTcDhZQpPzrHyWksb) | [The Right Course](https://open.spotify.com/album/1Oa9FqJMkzggnUsHyywQ7Q) | 1:59 | 2023-04-18 | 2023-08-22 |
 | [The Sound of Snow](https://open.spotify.com/track/2x90SHtWXagGmY5w0HVx1i) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [The Sound Of Snow](https://open.spotify.com/album/0WIVuD9M706cCtCSTGCFZY) | 2:35 | 2023-11-20 |  |
 | [The Still](https://open.spotify.com/track/17C3G5g7bBxxRAe6XVWxHA) | [Erinthe](https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M) | [The Still](https://open.spotify.com/album/06eRSftUdtz4u5Zx9s7Ywc) | 2:09 | 2024-03-25 |  |
@@ -562,6 +563,7 @@
 | [Waltz for Lizzy](https://open.spotify.com/track/70xS3AcW7idZcUrvFEzMln) | [Cove Hollis](https://open.spotify.com/artist/7ritXO0gCWbfK4D4Qstvh6) | [Waltz for Lizzy](https://open.spotify.com/album/6G7moqFyfKhBbnb5lxvnjF) | 1:49 | 2023-01-26 | 2023-07-19 |
 | [Waltz For Nala](https://open.spotify.com/track/3NJ3rJfgSHeRqM9Fz12lLJ) | [Igulfrid](https://open.spotify.com/artist/5mvjbSc65aNXZZ0G4p6bMQ) | [Waltz For Nala](https://open.spotify.com/album/0MMm9VMrSYTvSFyyrwD9yQ) | 2:17 | 2021-12-07 | 2023-04-19 |
 | [Wayfarer](https://open.spotify.com/track/6pHZs5zWUpnAp2lsGBqv9g) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Wayfarer](https://open.spotify.com/album/0Xn8a1juC1VWLCOIskDjzm) | 1:53 | 2023-06-20 | 2023-08-22 |
+| [we just keep on going](https://open.spotify.com/track/6X47Ep7oQ6d692X9KWPusw) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [we just keep on going](https://open.spotify.com/album/7mbdKkcux9ZJMD5bgQnWjx) | 2:10 | 2025-06-10 |  |
 | [Wheels in Motion](https://open.spotify.com/track/4Uke8Qv2jsLGq2pKSXjSXO) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Spritual](https://open.spotify.com/album/2mYJWYmAlZKGjmlv8d0wR4) | 3:08 | 2021-12-07 | 2022-06-08 |
 | [When It Rains](https://open.spotify.com/track/6nXvoksCAZqI8nEBTSvpfx) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [When It Rains](https://open.spotify.com/album/4uWWYNXiMcwiHIhUakiZT8) | 2:19 | 2023-04-03 |  |
 | [when softness lifted us](https://open.spotify.com/track/4YJFGtMJbQsPtBFNaLVJVy) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [when softness lifted us](https://open.spotify.com/album/7gKhonZ8cfp8AuuCXVWflm) | 2:41 | 2021-12-07 | 2023-10-05 |

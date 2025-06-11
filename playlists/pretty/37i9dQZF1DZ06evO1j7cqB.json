@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAABQNEYDlxF4ATbGJlpsiUUu",
+  "snapshot_id": "aEYkAAAAAACknhpEYVyFO9B23YRPbds1",
   "tracks": [
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Walking Dead (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
+        "name": "Outlander: Season 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 49321,
-      "name": "Theme from the Walking Dead",
-      "url": "https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp"
+      "duration_ms": 209746,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/4NGQdWwIqpUZ0Ft9L3KtJ1"
     },
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI"
+        "name": "The Walking Dead (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 209746,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/4NGQdWwIqpUZ0Ft9L3KtJ1"
+      "duration_ms": 49321,
+      "name": "Theme from the Walking Dead",
+      "url": "https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Godzilla: King of the Monsters (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Godzilla Main Title",
-      "url": "https://open.spotify.com/track/6EscmbDWTIP17ZgNWOqPlf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlander: Season 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4qBiXsf6Xa71EmjOjG4iHT"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Godzilla: King of the Monsters (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 154560,
+      "name": "Godzilla Main Title",
+      "url": "https://open.spotify.com/track/6EscmbDWTIP17ZgNWOqPlf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
       },
@@ -699,22 +699,6 @@
       "duration_ms": 190186,
       "name": "Old Tom Bombadil (feat. Rufus Wainwright)",
       "url": "https://open.spotify.com/track/18jteTWXqIdaHOkfLjHWWT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "See: Season 1 (Apple TV+ Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/7vGAeZodzXH2XicpzU8CQc"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 123840,
-      "name": "Father Voss",
-      "url": "https://open.spotify.com/track/5tmc6a3lDw5zkLDbuyAX3i"
     },
     {
       "added_at": null,
@@ -739,28 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Four: The Great Wave - Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4weUG3UZYTKHrVpzXkdCno"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Sophia Nomvete",
-          "url": "https://open.spotify.com/artist/4psdBvyZ9koExsBkXNWvrW"
-        }
-      ],
-      "duration_ms": 227386,
-      "name": "A Plea to the Rocks",
-      "url": "https://open.spotify.com/track/3TJv4muSnTh31frWAhXM7l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
+        "name": "See: Season 1 (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/7vGAeZodzXH2XicpzU8CQc"
       },
       "artists": [
         {
@@ -768,9 +732,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 160069,
-      "name": "Forgiveness Takes an Age",
-      "url": "https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s"
+      "duration_ms": 123840,
+      "name": "Father Voss",
+      "url": "https://open.spotify.com/track/5tmc6a3lDw5zkLDbuyAX3i"
     },
     {
       "added_at": null,
@@ -795,6 +759,42 @@
       "duration_ms": 105106,
       "name": "Clementine (feat. Richard Rankin & Sophie Skelton)",
       "url": "https://open.spotify.com/track/3bngJ81AN1cON3DgrSDcHe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 160069,
+      "name": "Forgiveness Takes an Age",
+      "url": "https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Four: The Great Wave - Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4weUG3UZYTKHrVpzXkdCno"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Sophia Nomvete",
+          "url": "https://open.spotify.com/artist/4psdBvyZ9koExsBkXNWvrW"
+        }
+      ],
+      "duration_ms": 227386,
+      "name": "A Plea to the Rocks",
+      "url": "https://open.spotify.com/track/3TJv4muSnTh31frWAhXM7l"
     },
     {
       "added_at": null,

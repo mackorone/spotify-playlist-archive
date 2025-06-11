@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : אסתר רדא
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,055 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,056 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 20 | [Priorities](https://open.spotify.com/track/4a6Br4XFWyCLNkSlGLvXHr) | [Guy Moses](https://open.spotify.com/artist/1cZUAgTSmJr8mXjwN9mvlI), [SHAKED MILLER](https://open.spotify.com/artist/7Ax3QEFi6NXeuiAB025OaQ) | [Priorities](https://open.spotify.com/album/5MpXC8mEUSX5lIWw1hQnWk) | 3:45 |
 | 21 | [לפני שהכל נרדם](https://open.spotify.com/track/3vaYdeBFQpYbcd0VfeZa6X) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv), [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [לפני שהכל נרדם](https://open.spotify.com/album/1ivPvapAsPBNroZlcfRn9P) | 3:16 |
 | 22 | [Sghayiroun \- صغيرون](https://open.spotify.com/track/4cS8LIFz9LHWj0MwjxRhgj) | [SHIRAN](https://open.spotify.com/artist/4sJyVLje7OBYbgNuwwFj6S), [BAKAL](https://open.spotify.com/artist/2x9lzZzUyVDqE7qCmhC7tg) | [Sghayiroun \- صغيرون](https://open.spotify.com/album/44ufEMkuR5HgVvrobv7ys5) | 3:22 |
-| 23 | [הכי יפה בדיסקו](https://open.spotify.com/track/5P2Jj9F8jXWvbflKao1Fjg) | [Girafot](https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy), [Daniel sun Krief](https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm) | [מזל שיש לי מוזיקה](https://open.spotify.com/album/24yew2vDaykmrWYYaz92jM) | 2:54 |
-| 24 | [העץ יחיה](https://open.spotify.com/track/2L2PghgZHxNKrcVsR16FmW) | [Monica Sex](https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj), [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [העץ יחיה](https://open.spotify.com/album/7gROCFhhozMnHNVrxVNPiL) | 3:09 |
+| 23 | [העץ יחיה](https://open.spotify.com/track/2L2PghgZHxNKrcVsR16FmW) | [Monica Sex](https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj), [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [העץ יחיה](https://open.spotify.com/album/7gROCFhhozMnHNVrxVNPiL) | 3:09 |
+| 24 | [הכי יפה בדיסקו](https://open.spotify.com/track/5P2Jj9F8jXWvbflKao1Fjg) | [Girafot](https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy), [Daniel sun Krief](https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm) | [מזל שיש לי מוזיקה](https://open.spotify.com/album/24yew2vDaykmrWYYaz92jM) | 2:54 |
 | 25 | [א יידישע ראסטהמאן](https://open.spotify.com/track/39qjT6d16GYsjXkrsHuciH) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [א יידישע ראסטהמאן](https://open.spotify.com/album/13Z3HKPuJMuoG9YOVeTYY1) | 5:04 |
 | 26 | [אפשרות של אי](https://open.spotify.com/track/1U6SYgLo1VqMFNGfV8Aw2s) | [Or Biron](https://open.spotify.com/artist/7FdMaA6Pn01qtUM5655PgM) | [אפשרות של אי](https://open.spotify.com/album/2jLU4g1C3cJoNSYC3kHFZB) | 4:18 |
 | 27 | [3 משאלות](https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [3 משאלות](https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9) | 3:17 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 41 | [It’ll Probably Be Fine](https://open.spotify.com/track/7wAy7LwfXOJ8ThVx7iJidl) | [flatmate sessions](https://open.spotify.com/artist/1ofSz6R42TbG7u3ZOAlaCW), [Heart Sauce](https://open.spotify.com/artist/0FNZfLwIzxfRbRqOfokZ6P) | [It’ll Probably Be Fine](https://open.spotify.com/album/7Kn1Qs3c0kxAofQnWQkrSP) | 2:49 |
 | 42 | [ויהי אור](https://open.spotify.com/track/3JPWeQidSXbNwyKfD97Rxk) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [Zulat Choir](https://open.spotify.com/artist/6me6qoZHnbljLqgsEgXmd7) | [ויהי אור](https://open.spotify.com/album/4E6a4Zsmi4mE9P6f9G1ME7) | 5:26 |
 | 43 | [היי אני רוצה להגיד לך \- מתוך פסקול האחיות המוצלחות שלי](https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [האחות הרביעית \- פסקול האחיות המוצלחות שלי](https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz) | 3:00 |
-| 44 | [Caviar](https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa) | [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ) | [Caviar](https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ) | 4:06 |
-| 45 | [לבזבז לך את הזמן](https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק ב'](https://open.spotify.com/album/21absbNyeEXykXGFsK62mP) | 3:16 |
+| 44 | [לבזבז לך את הזמן](https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק ב'](https://open.spotify.com/album/21absbNyeEXykXGFsK62mP) | 3:16 |
+| 45 | [Caviar](https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa) | [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ) | [Caviar](https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ) | 4:06 |
 | 46 | [אייפון \- גרסה עברית](https://open.spotify.com/track/5RCZpcNIes8bLNfsHw7q3y) | [Riff Cohen](https://open.spotify.com/artist/3yKO4z2CeXv9sxD1zSw0Sg) | [אייפון \(גרסה עברית\)](https://open.spotify.com/album/42po7QHiTT56Vp0e2fMKKU) | 4:19 |
-| 47 | [שמש קטנה](https://open.spotify.com/track/5VXm7PRmaUziuU5s0u84qy) | [Aviv Guedj](https://open.spotify.com/artist/1ONVLNtv8t9Nr3TglnONrT) | [שמש קטנה](https://open.spotify.com/album/2FDyy5ubYs7J8wVXDKBvtt) | 4:23 |
-| 48 | [משהו לתת](https://open.spotify.com/track/4AhPbFtFCfAQfWYmGHOGFi) | [Anat Malamud](https://open.spotify.com/artist/34VgaC3eefsp2SoNFU4cZQ) | [יתגלה האור](https://open.spotify.com/album/31czfHaWu4Gt5MtOqECw9G) | 3:17 |
-| 49 | [מילים אהבה ויין](https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [מילים אהבה ויין](https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ) | 6:48 |
+| 47 | [מילים אהבה ויין](https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [מילים אהבה ויין](https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ) | 6:48 |
+| 48 | [שמש קטנה](https://open.spotify.com/track/5VXm7PRmaUziuU5s0u84qy) | [Aviv Guedj](https://open.spotify.com/artist/1ONVLNtv8t9Nr3TglnONrT) | [שמש קטנה](https://open.spotify.com/album/2FDyy5ubYs7J8wVXDKBvtt) | 4:23 |
+| 49 | [משהו לתת](https://open.spotify.com/track/4AhPbFtFCfAQfWYmGHOGFi) | [Anat Malamud](https://open.spotify.com/artist/34VgaC3eefsp2SoNFU4cZQ) | [יתגלה האור](https://open.spotify.com/album/31czfHaWu4Gt5MtOqECw9G) | 3:17 |
 | 50 | [הכי אוהב אותי](https://open.spotify.com/track/4C8fqtZdD1uvmO1JKMs0zy) | [קיקי מלינקי](https://open.spotify.com/artist/3IC3e7Xim7DpP5jBbzqdmo) | [הכי אוהב אותי](https://open.spotify.com/album/3eV2YgJCNNwGLFRRx6bC8C) | 2:30 |
 
 Snapshot ID: `aEIFZwAAAAAXDAeOot3OQPaRydLV4wrg`

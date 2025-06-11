@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 | 44 | [Que Emane](https://open.spotify.com/track/4smt7R9eqj7Tayae2ELEvU) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [6 Super Hits](https://open.spotify.com/album/3Hpql8w5zpptxGHF7d5fpi) | 3:52 |
 | 45 | [Sin Miedo A Nada](https://open.spotify.com/track/6FMAicEUZ4FtSRDfoSkgMn) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Amor](https://open.spotify.com/album/0XEnNSpQyGQmEqFBYW3BGE) | 4:07 |
 | 46 | [Bipolar](https://open.spotify.com/track/2YKYIyZrAF1RszG0Eihx2G) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w) | 3:16 |
-| 47 | [No Al Alguacil](https://open.spotify.com/track/3F0GuwuCGanHQjCPPuOwKr) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:47 |
-| 48 | [Un Abrazo](https://open.spotify.com/track/1pEaG0ebYxmYVefAX32OGT) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 4:02 |
+| 47 | [Un Abrazo](https://open.spotify.com/track/1pEaG0ebYxmYVefAX32OGT) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 4:02 |
+| 48 | [No Al Alguacil](https://open.spotify.com/track/3F0GuwuCGanHQjCPPuOwKr) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:47 |
 | 49 | [Doña Pudor](https://open.spotify.com/track/4DVrs6PjdacQJiTmU5M40K) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Una Rosa Blu](https://open.spotify.com/album/581llNtG60NdAQUsrCbsPC) | 3:10 |
 | 50 | [Sube](https://open.spotify.com/track/5zy0QB79zacHialCjXb4Ba) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 3:14 |
 | 51 | [De Película](https://open.spotify.com/track/6p1lIWNu4l8QEx6ybjo74l) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w) | 3:23 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 | 75 | [Mi Navidá \(Pa Pedirte A Ti\)](https://open.spotify.com/track/5tcxo91GPmSVgMEw8r0TzB) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Regalo Soy Yo](https://open.spotify.com/album/2ziDjUZdlpA0l6CGTJE5LX) | 3:02 |
 | 76 | [Un Ángel De Dios \(Aleluya\)](https://open.spotify.com/track/5Q02SSgigCQRCysAyDto0J) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Regalo Soy Yo](https://open.spotify.com/album/2ziDjUZdlpA0l6CGTJE5LX) | 3:36 |
 
-Snapshot ID: `AbztaAAAAABzdg4O4iZ6vXY+cfp5Bdek`
+Snapshot ID: `Abzy4AAAAAC7rA+Pek5ievTOMhKC7j2j`

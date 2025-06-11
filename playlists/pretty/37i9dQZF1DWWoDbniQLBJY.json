@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed viven las ac\u00fasticas. Cover: Valentina Rico",
-  "num_followers": 1883992,
+  "num_followers": 1883733,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2025-03-28 04:00:40",
       "album": {
+        "name": "CHILDSTAR",
+        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "AMANECER",
+      "url": "https://open.spotify.com/track/1JsmV1V1IRPR44tVDHpYUZ"
+    },
+    {
+      "added_at": "2025-03-28 04:00:40",
+      "album": {
         "name": "Imagina",
         "url": "https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 297664,
       "name": "Algo contigo",
       "url": "https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb"
-    },
-    {
-      "added_at": "2025-03-28 04:00:40",
-      "album": {
-        "name": "CHILDSTAR",
-        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 203546,
-      "name": "AMANECER",
-      "url": "https://open.spotify.com/track/1JsmV1V1IRPR44tVDHpYUZ"
     },
     {
       "added_at": "2025-03-28 04:00:40",
@@ -583,18 +583,18 @@
     {
       "added_at": "2025-03-28 04:00:40",
       "album": {
-        "name": "chiquita",
-        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
+        "name": "Soldadito de Hierro",
+        "url": "https://open.spotify.com/album/4aF473yAU7HOafe47RWrLk"
       },
       "artists": [
         {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
         }
       ],
-      "duration_ms": 198720,
-      "name": "culpa",
-      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
+      "duration_ms": 142964,
+      "name": "Soldadito de Hierro",
+      "url": "https://open.spotify.com/track/3DfUO7e24abpbIreUpUK4B"
     },
     {
       "added_at": "2025-03-28 04:00:40",
@@ -615,18 +615,18 @@
     {
       "added_at": "2025-03-28 04:00:40",
       "album": {
-        "name": "Soldadito de Hierro",
-        "url": "https://open.spotify.com/album/4aF473yAU7HOafe47RWrLk"
+        "name": "chiquita",
+        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
       },
       "artists": [
         {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 142964,
-      "name": "Soldadito de Hierro",
-      "url": "https://open.spotify.com/track/3DfUO7e24abpbIreUpUK4B"
+      "duration_ms": 198720,
+      "name": "culpa",
+      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
     },
     {
       "added_at": "2025-03-28 04:00:40",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-03-28 04:00:40",
       "album": {
-        "name": "Agua Del Pozo",
-        "url": "https://open.spotify.com/album/08C8LxgyBqG84Xv8Wbrokd"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "De Camino",
-      "url": "https://open.spotify.com/track/0OnfT8ZB33ST5fRBzJjaIo"
-    },
-    {
-      "added_at": "2025-03-28 04:00:40",
-      "album": {
         "name": "Despacito (Acoustic)",
         "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 218108,
       "name": "Despacito - Acoustic",
       "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
+    },
+    {
+      "added_at": "2025-03-28 04:00:40",
+      "album": {
+        "name": "Agua Del Pozo",
+        "url": "https://open.spotify.com/album/08C8LxgyBqG84Xv8Wbrokd"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "De Camino",
+      "url": "https://open.spotify.com/track/0OnfT8ZB33ST5fRBzJjaIo"
     },
     {
       "added_at": "2025-03-28 04:00:40",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2025-03-28 04:00:40",
       "album": {
-        "name": "Acustico",
-        "url": "https://open.spotify.com/album/7nWAePPkngD730y97WP8H1"
-      },
-      "artists": [
-        {
-          "name": "La Quinta Estacion",
-          "url": "https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh"
-        },
-        {
-          "name": "Miguel Inzunza",
-          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
-        }
-      ],
-      "duration_ms": 453893,
-      "name": "Algo M\u00e1s (Versi\u00f3n Ac\u00fastica) (with Miguel Inzunza) - En Vivo",
-      "url": "https://open.spotify.com/track/4lsQ95QbbWVlJYjsRxsOda"
-    },
-    {
-      "added_at": "2025-03-28 04:00:40",
-      "album": {
         "name": "Preso (Grabado en ONErpm Studios)",
         "url": "https://open.spotify.com/album/7zeQVlK0bClZRzg7pc0bRt"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 175000,
       "name": "Preso (Grabado en ONErpm Studios)",
       "url": "https://open.spotify.com/track/6CGN4Qx3KC3sFROIqXpKdS"
+    },
+    {
+      "added_at": "2025-03-28 04:00:40",
+      "album": {
+        "name": "Acustico",
+        "url": "https://open.spotify.com/album/7nWAePPkngD730y97WP8H1"
+      },
+      "artists": [
+        {
+          "name": "La Quinta Estacion",
+          "url": "https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh"
+        },
+        {
+          "name": "Miguel Inzunza",
+          "url": "https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb"
+        }
+      ],
+      "duration_ms": 453893,
+      "name": "Algo M\u00e1s (Versi\u00f3n Ac\u00fastica) (with Miguel Inzunza) - En Vivo",
+      "url": "https://open.spotify.com/track/4lsQ95QbbWVlJYjsRxsOda"
     },
     {
       "added_at": "2025-03-28 04:00:40",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-03-28 04:00:40",
       "album": {
-        "name": "En Ac\u00fastico",
-        "url": "https://open.spotify.com/album/6SIva4NYVKvJoJVfExZYDk"
-      },
-      "artists": [
-        {
-          "name": "Jxta Martin",
-          "url": "https://open.spotify.com/artist/689Xz3YbAUBmCsDYUxLu7P"
-        }
-      ],
-      "duration_ms": 207207,
-      "name": "Destino - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1UUAtmVInu4DNChh5HYiHk"
-    },
-    {
-      "added_at": "2025-03-28 04:00:40",
-      "album": {
         "name": "Mp3",
         "url": "https://open.spotify.com/album/3dwG8Qc0o6b63lBFT4jqPd"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 181368,
       "name": "Mp3",
       "url": "https://open.spotify.com/track/0PWLHDSK39Kh8Adc83Ltw6"
+    },
+    {
+      "added_at": "2025-03-28 04:00:40",
+      "album": {
+        "name": "En Ac\u00fastico",
+        "url": "https://open.spotify.com/album/6SIva4NYVKvJoJVfExZYDk"
+      },
+      "artists": [
+        {
+          "name": "Jxta Martin",
+          "url": "https://open.spotify.com/artist/689Xz3YbAUBmCsDYUxLu7P"
+        }
+      ],
+      "duration_ms": 207207,
+      "name": "Destino - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1UUAtmVInu4DNChh5HYiHk"
     },
     {
       "added_at": "2025-03-28 04:00:40",

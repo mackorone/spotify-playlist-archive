@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtVG5o02Mg3.md) - [plain]
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv?si=afc0b53f965f42b8">Poppy's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,632 likes - 30 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,642 likes - 30 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtVG5o02Mg3.md) - [plain]
 | 29 | [Become a Machine](https://open.spotify.com/track/6Xt6hMb6cxdZ29ULtdQIFl) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Posthuman](https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L) | 3:12 |
 | 30 | [Old Data in a Dead Machine](https://open.spotify.com/track/3ar2QgJBKzLfn0wQPOPDwG) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [Errorzone](https://open.spotify.com/album/5KSIgVF5lx4JURkS50jRS9) | 2:09 |
 
-Snapshot ID: `ZaDHUAAAAADux3ehh9BJF0btEmPo0WhM`
+Snapshot ID: `AAAAAC1SJivfFM6++6DiYnN5A5lzVVoP`

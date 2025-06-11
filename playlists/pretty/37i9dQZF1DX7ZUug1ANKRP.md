@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: David Guetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,853,745 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,853,673 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Infinity \- Adagio For Strings](https://open.spotify.com/track/6hcTkn83waVM5YbDAFWcta) | [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Infinity \(Adagio For Strings\)](https://open.spotify.com/album/1s7FN8TtMhm3KCw16ZWg56) | 2:16 |
 | 50 | [Paradise](https://open.spotify.com/track/6DScw9vLroJcH5MrDC7tdO) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Paradise](https://open.spotify.com/album/42ImQjBCPMpzqDSHsq9hx3) | 2:37 |
 
-Snapshot ID: `aEauJQAAAAAh590lHmMJwBrsmJRmoNV8`
+Snapshot ID: `AAAAABVlYQEkWP7el+gNFeb/MRCqkeLQ`

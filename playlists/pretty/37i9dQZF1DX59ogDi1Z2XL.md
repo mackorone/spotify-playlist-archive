@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,441 likes - 75 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,468 likes - 75 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 74 | [Think They Know Me](https://open.spotify.com/track/6N8HXdW83KFNS6cEqzJDS3) | [Golde London](https://open.spotify.com/artist/1Lskvp8v0SE5vR9KR8Ymcb) | [Think They Know Me](https://open.spotify.com/album/4KXmjnHNOGkBpZsF4S1Jg9) | 2:49 |
 | 75 | [mnu](https://open.spotify.com/track/0WJ6sYIjsKe2GEbHxGLax7) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Eestbound](https://open.spotify.com/artist/1k6SNxtUoIymDrXHuf3N3G) | [mnu](https://open.spotify.com/album/1i1LylO9Ww3MxxexmRLpMN) | 2:07 |
 
-Snapshot ID: `AAAAALOi8vxiYEVtRYhooGaVv4TyTf7A`
+Snapshot ID: `aEJnkgAAAACCXcda/OuLR6BZ580Kgbfw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,481 likes - 100 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,599 likes - 100 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 99 | [Lokole](https://open.spotify.com/track/43heTUpqTPKcFZfxyNnPF5) | [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [MANU \(UK\)](https://open.spotify.com/artist/7GHIqxeRBx0oXdgxwkPbu5), [Shammalee](https://open.spotify.com/artist/0YW1YZUJNiGAZLtJ5ytDG2) | [Lokole](https://open.spotify.com/album/2dVgvRKiVAfl0OHeUlHWtF) | 3:55 |
 | 100 | [Harambeya](https://open.spotify.com/track/2ReJnK3QkmEGDJF7UOqZAf) | [MOA’](https://open.spotify.com/artist/44W8dXqg07iXkqOZpyXkDY) | [Harambeya](https://open.spotify.com/album/2I08vq2uJaImaQ5ho6X4NZ) | 6:50 |
 
-Snapshot ID: `AAAAAFpzEK388dwkdyG/zFP5jfA5oGOU`
+Snapshot ID: `aEFd/gAAAACpmiuiKD78URvl8afBhGp+`

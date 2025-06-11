@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,328 likes - 75 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,346 likes - 75 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 21 | [I <3 U SO](https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [The Rawkers \(I <3 U SO Edition\)](https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ) | 3:42 |
 | 22 | [Ready For The Floor](https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Made In The Dark](https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ) | 3:54 |
 | 23 | [Technologic](https://open.spotify.com/track/0LSLM0zuWRkEYemF7JcfEE) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Human After All](https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo) | 4:44 |
-| 24 | [Signatune \- Thomas Bangalter Short Edit](https://open.spotify.com/track/0lbVB3ktcJkLZwX3GkiNi9) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Lucky Boy At Night](https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall) | 3:38 |
-| 25 | [NYC](https://open.spotify.com/track/4PAR0Zp6Mbu3p6NKYClgBr) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:19 |
+| 24 | [NYC](https://open.spotify.com/track/4PAR0Zp6Mbu3p6NKYClgBr) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:19 |
+| 25 | [Signatune \- Thomas Bangalter Short Edit](https://open.spotify.com/track/0lbVB3ktcJkLZwX3GkiNi9) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Lucky Boy At Night](https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall) | 3:38 |
 | 26 | [Positif](https://open.spotify.com/track/3KEnGyuImTqe7asrYW0kUv) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ) | 2:51 |
 | 27 | [Je veux te voir](https://open.spotify.com/track/4H9637mkUDyk9Rq0WgDEwc) | [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [Pop\-Up](https://open.spotify.com/album/2UiP7sGjSxl52QtlWAXYVy) | 4:21 |
 | 28 | [Let's Make Love and Listen to Death From Above](https://open.spotify.com/track/1Jd9W7k8DTnBSovDSxK77n) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:31 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 62 | [Suspense Is Killing Me](https://open.spotify.com/track/3so9K62SVDzEpIw5zE9kju) | [Boy 8\-Bit](https://open.spotify.com/artist/5HfRYTHODGPIbWxYeNTsam) | [Suspense Is Killing Me EP](https://open.spotify.com/album/0NLguEzq237Uukt4kmaqZR) | 4:53 |
 | 63 | [Acceptable in the 80's \- Tom Neville Remix](https://open.spotify.com/track/5kPgxhET1iRXB9kvOvzEFb) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Neville](https://open.spotify.com/artist/1gbiWzSQlYGEEFeH97pGwt) | [Acceptable In The 80s](https://open.spotify.com/album/3pPwssIXWoFz7r5Wjusbme) | 7:11 |
 | 64 | [Wake Up \- Original](https://open.spotify.com/track/4nWHPMywLwn3oONWNfGJ2k) | [Les Petits Pilous](https://open.spotify.com/artist/2MS8Aeh2jTfqu1VhRZ4x1P) | [Wake Up](https://open.spotify.com/album/35grWCVaUU9bWGDYtQ1vin) | 3:58 |
-| 65 | [Beeper](https://open.spotify.com/track/0V2gjJB54qHeA3CDCMZU3N) | [The Count](https://open.spotify.com/artist/3XU5UXslhtah4HGOcZpD9O), [Sinden](https://open.spotify.com/artist/2ocxN5hH10NHQ8vNR7VkSi), [Kid Sister](https://open.spotify.com/artist/3FTzn86WmApHmwBMGVSEXE) | [Mega Mega Mega and Mega Remixes](https://open.spotify.com/album/1ntbRWmw3ELtUHcwpeU6o9) | 4:43 |
-| 66 | [To the Bobmobile](https://open.spotify.com/track/5RtHhF7VOGimztBk2NFXUx) | [Bobmo](https://open.spotify.com/artist/67zjOa1s3aBqLx9ffbranq) | [Let's Go Bobmo ! \- EP](https://open.spotify.com/album/0iGyMe8t2opNPCeergmsgO) | 3:43 |
+| 65 | [To the Bobmobile](https://open.spotify.com/track/5RtHhF7VOGimztBk2NFXUx) | [Bobmo](https://open.spotify.com/artist/67zjOa1s3aBqLx9ffbranq) | [Let's Go Bobmo ! \- EP](https://open.spotify.com/album/0iGyMe8t2opNPCeergmsgO) | 3:43 |
+| 66 | [Beeper](https://open.spotify.com/track/0V2gjJB54qHeA3CDCMZU3N) | [The Count](https://open.spotify.com/artist/3XU5UXslhtah4HGOcZpD9O), [Sinden](https://open.spotify.com/artist/2ocxN5hH10NHQ8vNR7VkSi), [Kid Sister](https://open.spotify.com/artist/3FTzn86WmApHmwBMGVSEXE) | [Mega Mega Mega and Mega Remixes](https://open.spotify.com/album/1ntbRWmw3ELtUHcwpeU6o9) | 4:43 |
 | 67 | [Brenda](https://open.spotify.com/track/792NaHTl4bJqdxMXSdhNij) | [Pablo J](https://open.spotify.com/artist/2L4145zftGoC6kL337sTIS), [The Lobsterettes](https://open.spotify.com/artist/1r8rok8grW3DHojFnylc62) | [Dance Till Dawn](https://open.spotify.com/album/7hbbhPthcCqbv5YG6MDDm5) | 3:40 |
 | 68 | [Are You The One? \- Simian Mobile Disco Remix](https://open.spotify.com/track/1AWb20qRRJ5R2d25qcm16z) | [The Presets](https://open.spotify.com/artist/1zTAQ6zkGz2L2i6lfR30EX), [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Re\-Sets](https://open.spotify.com/album/2ozdqRxqlbblhJVzCtPyaf) | 5:20 |
 | 69 | [Forever \(Van She Tech Remix\)](https://open.spotify.com/track/22OFfgww7iv1fYhSC3A8w3) | [Walter Meego](https://open.spotify.com/artist/2JfrljViGl4PxMfa3Fd6kS) | [Indie\_structable](https://open.spotify.com/album/05Xl91MDBtpibflg0EmHrg) | 4:20 |

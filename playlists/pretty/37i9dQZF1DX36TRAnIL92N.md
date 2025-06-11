@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,053 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,259 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,14 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 34 | [Pulverturm \- ANNA Rework](https://open.spotify.com/track/4NN7PBVKclppjgszynZ9K1) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Pulverturm \(ANNA Rework\)](https://open.spotify.com/album/4jh1gyFiHu0u7noPxQyzcE) | 3:56 |
 | 35 | [No Fear](https://open.spotify.com/track/0PnWVKRbW0YPCP8WlEZVZO) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [No Fear](https://open.spotify.com/album/7sVPRS5B7vxBcOgrsEODOz) | 4:12 |
 | 36 | [Roar](https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Roar](https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp) | 5:55 |
-| 37 | [Bailarina](https://open.spotify.com/track/0bjU18qoUNAJbZm9zz2OeX) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual II](https://open.spotify.com/album/2x2mFRvZa0njVoPaWE2BTK) | 4:05 |
-| 38 | [Hare Ram](https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hare Ram](https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4) | 3:19 |
+| 37 | [Hare Ram](https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hare Ram](https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4) | 3:19 |
+| 38 | [Bailarina](https://open.spotify.com/track/0bjU18qoUNAJbZm9zz2OeX) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual II](https://open.spotify.com/album/2x2mFRvZa0njVoPaWE2BTK) | 4:05 |
 | 39 | [YKSI](https://open.spotify.com/track/7nsd1DNX2HrZQEDPdTSMQg) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [YKSI](https://open.spotify.com/album/4YEzU9BML2f64xUlFfJEfD) | 3:53 |
 | 40 | [Geht's noch? \- DJ Gigola Remix](https://open.spotify.com/track/00V7ezFmvR4wv4m7f9PC5A) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw), [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Geht's noch? \(21 Year Anniversary Pt\. 1\)](https://open.spotify.com/album/6KbnDVQVCobouAN8Mkc0B4) | 4:08 |
 | 41 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 |
-| 42 | [Salty](https://open.spotify.com/track/5bxebyE7bBCb6D4ICh9nNe) | [Timmo](https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U) | [Salty](https://open.spotify.com/album/6iWlgl3SAgJMd1DiR3QLWR) | 3:01 |
-| 43 | [Hypnotic \(feat\. Kyozo\)](https://open.spotify.com/track/1KdVxthsHJ2J2jf3EPdtVi) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Kyozo](https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v) | [Hypnotic \(feat\. Kyozo\)](https://open.spotify.com/album/2e8VG70c6hFcOnSbc0wIhD) | 4:09 |
-| 44 | [Planet XX \- Extended Mix](https://open.spotify.com/track/2t8dxuo4kz49lIXW6NJ3Ss) | [The YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg) | [Planet XX](https://open.spotify.com/album/7CWg0oYwESxCpnDxhkQbx7) | 5:38 |
+| 42 | [Planet XX \- Extended Mix](https://open.spotify.com/track/2t8dxuo4kz49lIXW6NJ3Ss) | [The YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg) | [Planet XX](https://open.spotify.com/album/7CWg0oYwESxCpnDxhkQbx7) | 5:38 |
+| 43 | [Salty](https://open.spotify.com/track/5bxebyE7bBCb6D4ICh9nNe) | [Timmo](https://open.spotify.com/artist/32LzV8uY2Zf8Nda9Rvjx5U) | [Salty](https://open.spotify.com/album/6iWlgl3SAgJMd1DiR3QLWR) | 3:01 |
+| 44 | [Hypnotic \(feat\. Kyozo\)](https://open.spotify.com/track/1KdVxthsHJ2J2jf3EPdtVi) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Kyozo](https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v) | [Hypnotic \(feat\. Kyozo\)](https://open.spotify.com/album/2e8VG70c6hFcOnSbc0wIhD) | 4:09 |
 | 45 | [I Need It More](https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [I Need It More](https://open.spotify.com/album/1xy1SNciNQEj4B9Aqd299d) | 2:38 |
 | 46 | [Melodia](https://open.spotify.com/track/78dLyf8klcyrmgpwgmRQlE) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Melodia](https://open.spotify.com/album/4LntPSMGgRAOym8Yj684Gw) | 3:42 |
 | 47 | [ENERGY](https://open.spotify.com/track/4EMEqHr2OoobVApJlz4sV2) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [THIS IS NOT AN ALBUM](https://open.spotify.com/album/6MdQHR6deZ4QIzEdnWOCJt) | 6:17 |

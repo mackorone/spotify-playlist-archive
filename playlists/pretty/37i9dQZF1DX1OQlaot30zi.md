@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Diss Gacha, Baby Gang, Rhove, MV Killa, Bresh, Lazza e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,398 likes - 132 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,405 likes - 132 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

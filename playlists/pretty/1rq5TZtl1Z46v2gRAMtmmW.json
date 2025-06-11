@@ -1,13 +1,29 @@
 {
   "description": "",
-  "num_followers": 31397,
+  "num_followers": 31395,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAQU1A9tNfkr2dZcPJSLyp3kSkjdc4K",
+  "snapshot_id": "AAAQVsrvdPcIZYfw46ausXMdshHXQdh3",
   "tracks": [
+    {
+      "added_at": "2025-06-10 13:51:24",
+      "album": {
+        "name": "CHROMA 010",
+        "url": "https://open.spotify.com/album/3Ny8QJii9zz7d3Qs4I8WmB"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 271085,
+      "name": "CHROMA 010 BRILLO",
+      "url": "https://open.spotify.com/track/7kDzjUYcQ1Gi1u2zWeXwY0"
+    },
     {
       "added_at": "2025-05-22 10:09:38",
       "album": {

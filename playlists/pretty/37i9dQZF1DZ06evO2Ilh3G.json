@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 117310,
+  "num_followers": 117316,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAADaCjBTy1Jr2gljezUb8NP2",
+  "snapshot_id": "aEYkAAAAAADR1ZUzRFcyd0eu/I6mYbqk",
   "tracks": [
     {
       "added_at": null,
@@ -402,15 +402,11 @@
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 188333,
-      "name": "WORTH IT (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/7kp6XhIxrvNb8BgTwLjaEx"
+      "duration_ms": 96013,
+      "name": "ON THE RIVER",
+      "url": "https://open.spotify.com/track/1aLpfH1M7Y4ZngOmSiHk0l"
     },
     {
       "added_at": null,
@@ -506,11 +502,15 @@
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 96013,
-      "name": "ON THE RIVER",
-      "url": "https://open.spotify.com/track/1aLpfH1M7Y4ZngOmSiHk0l"
+      "duration_ms": 188333,
+      "name": "WORTH IT (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/7kp6XhIxrvNb8BgTwLjaEx"
     },
     {
       "added_at": null,

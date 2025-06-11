@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrP6ULNzvkI.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks from around the world this year\. Cover: Katherine Li \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,799 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,805 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrP6ULNzvkI.md) - [plain]
 | 74 | [Aura](https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 7:17 |
 | 75 | [Summer Love](https://open.spotify.com/track/0eFKx8VwwDiFWFtP3XLHvv) | [Bambina](https://open.spotify.com/artist/7dKQ4jc9y35k3P5dKWsLL1) | [Summer Love](https://open.spotify.com/album/05mmPNGroDOEiOgo4vpIxh) | 3:55 |
 
-Snapshot ID: `AAAAAFLqP4rDs+g1zFyZUYRV7rY34QLe`
+Snapshot ID: `ZIsT+AAAAADuYElBU/QreRIaCBM9EVO3`

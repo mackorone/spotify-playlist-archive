@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,331 songs - 3 day 16 hr 52 min
+2,332 songs - 3 day 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -640,7 +640,7 @@
 | [Everything you need](https://open.spotify.com/track/77DrQhfJtki3fUcMd7oQgB) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Everything you need](https://open.spotify.com/album/1WCLmsAFHVG2UaKQlYMu8N) | 2:22 | 2023-10-27 | 2025-02-28 |
 | [Exhale](https://open.spotify.com/track/4pQUl96NzlzIgt9gJSN1Qg) | [Mike Oliver](https://open.spotify.com/artist/19K0OLGUGXU9PGvbJ2aAHn) | [Exhale](https://open.spotify.com/album/4ZDOyfZij7YmgVhV2qucI6) | 2:16 | 2022-12-09 |  |
 | [Exklusive Mermaid](https://open.spotify.com/track/6YDbQEkfLBzaTKtY9zSmDp) | [Hurricana Life](https://open.spotify.com/artist/0Kcx1vBedIEV2q1zAbzeyk) | [Exklusive Mermaid](https://open.spotify.com/album/1RgNgfXKEUaV4cxCcYHUvy) | 1:43 | 2022-04-15 | 2023-08-18 |
-| [Exodus](https://open.spotify.com/track/5xYkz6G3qPgn5FnZgRgZAp) | [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Exodus / Lunar Lullaby](https://open.spotify.com/album/0qGXuyDWrYXdxcCPy2Koaa) | 2:12 | 2025-03-21 |  |
+| [Exodus](https://open.spotify.com/track/5xYkz6G3qPgn5FnZgRgZAp) | [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Exodus / Lunar Lullaby](https://open.spotify.com/album/0qGXuyDWrYXdxcCPy2Koaa) | 2:12 | 2025-03-21 | 2025-06-11 |
 | [Expected Events](https://open.spotify.com/track/7e2CntkyYlYKlTufrSOCGl) | [Poof Tricks](https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q) | [Expected Events](https://open.spotify.com/album/0Pa7yL0dq62qlO7Y54mShy) | 2:36 | 2024-10-18 |  |
 | [Expensive](https://open.spotify.com/track/3IkWkgQIxh3Oe4RKH6SY8r) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Rush Hour](https://open.spotify.com/album/03zUkj89Tq0J7n7MFUWphs) | 2:01 | 2024-07-26 |  |
 | [Exploring Time](https://open.spotify.com/track/3384bG1DpYYZnQanvYS2rQ) | [Nagini](https://open.spotify.com/artist/0ZxRpoI2PLAU4FffUoMh4K) | [Exploring Time](https://open.spotify.com/album/3eF8x8rc3UvZJ5WRe9AdNk) | 1:44 | 2022-12-16 | 2024-12-21 |
@@ -1483,6 +1483,7 @@
 | [Orchids](https://open.spotify.com/track/1VCvqlbVdacKqen5LH8vu7) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [Orchids](https://open.spotify.com/album/4soSzFXAu8rstK2p9bLy1D) | 2:06 | 2024-10-04 |  |
 | [Ortswechsel](https://open.spotify.com/track/3PJ9CERQeU0AaBN0y3rpzW) | [Half Empty](https://open.spotify.com/artist/1KCCx7ZPVGykwC51uU5RZg), [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx) | [Ortswechsel](https://open.spotify.com/album/3m6kJXRWRugO0wkRfvD4mZ) | 2:33 | 2022-05-13 | 2022-11-12 |
 | [Osage Diamonds](https://open.spotify.com/track/4dw9ofZQdQoykFzkJ5P9lE) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [String Figures](https://open.spotify.com/album/0wnz8hFyc28lFugxF1vgmN) | 1:52 | 2022-11-11 | 2023-02-07 |
+| [Oscar](https://open.spotify.com/track/6OaTHXIlJk7yDVCMEAyV4v) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Oscar](https://open.spotify.com/album/7fZitTtCmUP5HqYGcjbIOu) | 1:58 | 2025-06-05 |  |
 | [Osmo](https://open.spotify.com/track/3Lk8aG313wpVAjCm6AFqTz) | [Spike Radio](https://open.spotify.com/artist/6vHESzKBG7nSZJqsXAhncp) | [Osmo](https://open.spotify.com/album/64QGryJXlSnzkjZSfYpklq) | 2:34 | 2022-09-16 | 2025-03-08 |
 | [otherside](https://open.spotify.com/track/1W1Qi95eKfFNjlQvJlW3BG) | [Wave Five](https://open.spotify.com/artist/0FwSV23g1cCNlPFm9jr0I8) | [otherside](https://open.spotify.com/album/2bIyf2BXAerJdMnS7e2MZd) | 2:29 | 2022-08-05 | 2022-08-12 |
 | [ottos visa](https://open.spotify.com/track/2UIfKmFnpMjSLONtCxZw7B) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [ottos visa](https://open.spotify.com/album/5BZ89t6bxwxcPbQAH1FXcE) | 2:53 | 2024-01-05 |  |

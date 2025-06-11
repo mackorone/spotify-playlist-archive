@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Ocean. The essential tracks, all in one playlist.",
-  "num_followers": 288034,
+  "num_followers": 288144,
   "original_name": "This Is Danny Ocean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAAA3ddFkre8uRtud+914WPBo",
+  "snapshot_id": "aEYkAAAAAACO3/2SzLzOXaX5S+jHljsF",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dime t\u00fa",
-        "url": "https://open.spotify.com/album/3eOqEdggLEeQz0jAZpNCXD"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 210302,
-      "name": "Dime t\u00fa",
-      "url": "https://open.spotify.com/track/6z8sQFj47s9ZG0Ls1k9Gct"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CUARTO AZUL",
         "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 202713,
       "name": "HOY ES TU CUMPLEA\u00d1OS",
       "url": "https://open.spotify.com/track/4gQUdvZbxu7G9G7NlREw21"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dime t\u00fa",
+        "url": "https://open.spotify.com/album/3eOqEdggLEeQz0jAZpNCXD"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 210302,
+      "name": "Dime t\u00fa",
+      "url": "https://open.spotify.com/track/6z8sQFj47s9ZG0Ls1k9Gct"
     },
     {
       "added_at": null,

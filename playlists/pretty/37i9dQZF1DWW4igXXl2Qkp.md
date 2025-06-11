@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > Celebrating 10 years of the best new hip\-hop music from new, independent artists\.  Cover: <a href="spotify:artist:2MEiPjmRDl1ftTEaBD3B7D">Raq baby<br/></a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,721 likes - 100 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,786 likes - 100 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 99 | [it is what it is](https://open.spotify.com/track/1EkM7SToZWGLkJp572Y7Ab) | [Swapa](https://open.spotify.com/artist/37v7VwiEJ4ImKCmCrA2Z6a) | [it is what it is](https://open.spotify.com/album/6Q5w9pBeKPyXvOJavQpju0) | 2:23 |
 | 100 | [freak](https://open.spotify.com/track/05qbKpOCGCKCm2A3HsBQ0r) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF), [Mega](https://open.spotify.com/artist/3h5quwaBaCWdrQJC3BcTR6) | [freak](https://open.spotify.com/album/5TlWvqRKrqcS6XHPHdoT2G) | 2:33 |
 
-Snapshot ID: `aEJn4QAAAACgQqCxikm1kFqK2A+55YLu`
+Snapshot ID: `aEJn4QAAAADwT7iKm7MacXIwcDJynO6F`

@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 179224,
       "name": "Amen",
       "url": "https://open.spotify.com/track/5BE8bT99o4cINi4eISOt2A"
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 196105,
       "name": "branches of hope",
       "url": "https://open.spotify.com/track/0vaiq2ZcMe2rtd7eGqIY8b"
@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 181500,
       "name": "Cold Fire",
       "url": "https://open.spotify.com/track/1C8yK8kQsb2J4wzavoa1gR"
@@ -3116,7 +3116,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 152833,
       "name": "Filigree",
       "url": "https://open.spotify.com/track/59nGO5jYiozyEG87wUuUqU"
@@ -4690,7 +4690,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 142820,
       "name": "Krager\u00f8",
       "url": "https://open.spotify.com/track/7nPNz869TJHvmEgJjH4290"
@@ -4982,6 +4982,24 @@
       "duration_ms": 143624,
       "name": "Libre",
       "url": "https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3"
+    },
+    {
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/67fKGoAizybPTMM2l27bpP"
+      },
+      "artists": [
+        {
+          "name": "Tankeflukt",
+          "url": "https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167260,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/4XOrreh4CufJwuUg3p7DuR"
     },
     {
       "album": {
@@ -6002,6 +6020,24 @@
       "duration_ms": 129975,
       "name": "Morning Song",
       "url": "https://open.spotify.com/track/0CSW0V2PU9WOEbxBkltPio"
+    },
+    {
+      "album": {
+        "name": "Morning Sun",
+        "url": "https://open.spotify.com/album/1xnzCbETLtHNY7GF5ldEtl"
+      },
+      "artists": [
+        {
+          "name": "Halgeir Nielsen",
+          "url": "https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146333,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/6mlqTL4FdN645uNsvnblcD"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [RADAR: Early Noise ](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
-> Spotifyが注目するニューカマー・プレイリスト。 Cover: 7co
+> Spotifyが注目するニューカマー・プレイリスト。 Cover: AKASAKI
 
-1,936 songs - 4 day 21 hr 17 min
+1,938 songs - 4 day 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Dusky dolphin](https://open.spotify.com/track/605FTb8SVKtMrwI2wNFZ3A) | [Natsudaidai](https://open.spotify.com/artist/7tipvX4wcOjtV5g0inLM2G) | [青果店](https://open.spotify.com/album/0F7fiC5h6Cm73bfceMzFIX) | 3:00 | 2025-01-28 | 2025-02-05 |
 | [D・T・F](https://open.spotify.com/track/061MFvSxejBkapUzNkOEia) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [D・T・F](https://open.spotify.com/album/2euKaGrPxK3Y1T2g8Ws3t1) | 3:31 | 2022-04-27 | 2022-06-15 |
 | [Eadgb](https://open.spotify.com/track/3Xzc2XEAocSqgmYwOHWMYe) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Oidaki](https://open.spotify.com/album/5FGKmIasXlcphIo9Z3ihS5) | 3:34 | 2023-04-06 | 2023-05-31 |
+| [Echoes](https://open.spotify.com/track/6b2KRSiAOIDrGUSgfuv4iP) | [芦田菜名子](https://open.spotify.com/artist/7tbgB78LexnWXuIARLJYg4) | [Echoes](https://open.spotify.com/album/2Zt36TQLYR245njjr3rR0l) | 3:35 | 2025-06-10 |  |
 | [Eclipse](https://open.spotify.com/track/3xUemE6fdgQKwymzvCjHJt) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/3awnnhSoffzFbLrQs0QnKA) | 3:37 | 2023-11-21 | 2024-01-11 |
 | [Eclipse](https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng) | 3:37 | 2023-11-21 | 2023-11-23 |
 | [eclipse](https://open.spotify.com/track/0V6KjZQAx4Jt3nOlFsBKu4) | [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [500mm](https://open.spotify.com/album/0v0QtZVYTmVuJ2MoYP44oz) | 3:54 | 2024-06-04 | 2024-09-04 |
@@ -588,7 +589,7 @@
 | [LOSER](https://open.spotify.com/track/4yKWOc2ZxCLm4CnhxwlzVt) | [Apes](https://open.spotify.com/artist/0kbl25Zya0X7bHFgPLcXQ4) | [LOSER](https://open.spotify.com/album/0L8xmVOSdDajUjsTjAAawb) | 4:45 | 2022-02-17 | 2022-03-23 |
 | [Love \(feat\. Skaai\)](https://open.spotify.com/track/33WmukupZpPsnobClDyZzs) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Love \(feat\. Skaai\)](https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd) | 4:18 | 2023-02-01 | 2023-04-19 |
 | [Love and distance](https://open.spotify.com/track/0wMOsutc9gJc24auYtUxJI) | [THE KING OF ROOKIE](https://open.spotify.com/artist/3ltjzVXtMNjDaf6BIyKMPX) | [Mixed juice rocket](https://open.spotify.com/album/4qbMk89DBqtQAbGOduuBjK) | 4:41 | 2023-04-04 | 2023-04-17 |
-| [Love in the EYE](https://open.spotify.com/track/6xlSFLefgdzaUs5PiwwbbS) | [ニイナ](https://open.spotify.com/artist/3awoctCVai4GDLEzZREbPV) | [Love in the EYE](https://open.spotify.com/album/5X68eZsoTlDru3Kz3q7IHk) | 2:39 | 2025-02-25 |  |
+| [Love in the EYE](https://open.spotify.com/track/6xlSFLefgdzaUs5PiwwbbS) | [ニイナ](https://open.spotify.com/artist/3awoctCVai4GDLEzZREbPV) | [Love in the EYE](https://open.spotify.com/album/5X68eZsoTlDru3Kz3q7IHk) | 2:39 | 2025-02-25 | 2025-06-11 |
 | [Love is always](https://open.spotify.com/track/5mWFPBsJLGSt9LJjULiqKE) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Love is always](https://open.spotify.com/album/4txs319mQ4SGQMJo4DujYt) | 4:39 | 2022-10-25 | 2022-12-28 |
 | [Love Letter](https://open.spotify.com/track/0p771me5mgbzHgZekj3iXD) | [中島雄士](https://open.spotify.com/artist/2FRIJWTtnozd9tZ0jH8CmN) | [Junction Pop](https://open.spotify.com/album/6Fm1I5GiQwoxjYTXPZS4f9) | 3:44 | 2023-03-22 | 2023-05-17 |
 | [Love Like A Bomb \(feat\. ひかり\)](https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール](https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28) | 3:27 | 2022-10-04 | 2022-11-09 |
@@ -1430,7 +1431,7 @@
 | [ブランニュース](https://open.spotify.com/track/69wlrQjMXsN9ozcAMAHXTN) | [chef's](https://open.spotify.com/artist/7I6vgeUew4Ew1pxztnFhMa) | [ブランニュース](https://open.spotify.com/album/1Zo82DYs6D8tgpzmQZuQaU) | 3:59 | 2025-02-25 |  |
 | [ブーケ](https://open.spotify.com/track/7H2QpQ7AWXuFT8cHv4u0ap) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [ブーケ](https://open.spotify.com/album/0o0O044SPFfy4fz3M1XTe3) | 3:58 | 2024-02-20 | 2024-02-22 |
 | [プラネタリウム](https://open.spotify.com/track/115wUJPzuzOPybG6iMYxJZ) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [bouquet](https://open.spotify.com/album/5orOfKlTjdQExk741M0MKb) | 3:55 | 2024-03-19 | 2024-06-05 |
-| [プレデター](https://open.spotify.com/track/3RHlC1GYvsgr5Z0wiRznEP) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [プレデター](https://open.spotify.com/album/1BxSDCPFXkAGtq45RC72vI) | 3:36 | 2025-05-13 |  |
+| [プレデター](https://open.spotify.com/track/3RHlC1GYvsgr5Z0wiRznEP) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [プレデター](https://open.spotify.com/album/1BxSDCPFXkAGtq45RC72vI) | 3:36 | 2025-05-13 | 2025-06-11 |
 | [ヘッドフォン](https://open.spotify.com/track/0QUbgQiGg2MBDrbNUbnMGH) | [ワンダフル放送局](https://open.spotify.com/artist/06HH8z9WkqtGgLpCMqDkaT) | [ヘッドフォン](https://open.spotify.com/album/6h0nBkvHSsQ93SzIopvQnu) | 2:52 | 2023-08-29 | 2023-09-27 |
 | [ヘッドライナー](https://open.spotify.com/track/2Obc3RDAagf9cw40XFMmBs) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [ロンリーパラドックス](https://open.spotify.com/album/4KadXvqLOsB4WUCHzleYFV) | 3:54 | 2025-01-09 | 2025-01-29 |
 | [ヘッドライナー](https://open.spotify.com/track/5ESy12imzRxzr7hd43SNPg) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [ヘッドライナー](https://open.spotify.com/album/2LQcnPReDbYKybSOF9Azxh) | 3:54 | 2023-08-15 | 2023-08-17 |
@@ -1539,6 +1540,7 @@
 | [光を迎えに行こう](https://open.spotify.com/track/0xqySIjnf29mmmt4YPCSJw) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [光を迎えに行こう](https://open.spotify.com/album/2CjIqVUiomIdPor6EB39dN) | 3:58 | 2024-09-10 | 2024-12-04 |
 | [光線](https://open.spotify.com/track/42DGm06re0rxSEOM0AhO6p) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [光線](https://open.spotify.com/album/05rp9bgAR4fXTNYrhSBvg0) | 3:09 | 2023-08-22 | 2023-11-01 |
 | [全方向美少女](https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [全方向美少女](https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl) | 2:07 | 2024-01-04 | 2025-01-29 |
+| [全身前礼](https://open.spotify.com/track/5zoprj5Fno5is2UVHEuJwC) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [全身前礼](https://open.spotify.com/album/2M7ynUGk2tRD9VcoFNQ9ay) | 2:53 | 2025-06-10 |  |
 | [内臓のままに](https://open.spotify.com/track/7433OyuqMR2keCdpXcP6MA) | [KOMONO LAKE](https://open.spotify.com/artist/3wWaB9vMXkeUHD6RgH3lpG) | [内臓のままに](https://open.spotify.com/album/20mavkP1fktsBMzGuz4O3L) | 3:00 | 2023-12-12 | 2023-12-14 |
 | [冥冥](https://open.spotify.com/track/39bCGq3Ad9c3IMcYV2ROhe) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [冥冥](https://open.spotify.com/album/76a759u25fWITdpdjqidXn) | 3:27 | 2024-07-02 | 2025-04-16 |
 | [冬のささやき](https://open.spotify.com/track/3U4tw1oZeOjJBdBRobevru) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [冬のささやき](https://open.spotify.com/album/3QNcIPAbhvMjnqPG61SD5j) | 4:11 | 2022-10-11 | 2022-11-23 |

@@ -1,12 +1,12 @@
 {
   "description": "This is The Intruders. The essential tracks, all in one playlist.",
-  "num_followers": 3026,
+  "num_followers": 3028,
   "original_name": "This Is The Intruders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAADw/HFi2U7GsVtV10ge9uuO",
+  "snapshot_id": "aEYkAAAAAAC2YdpfT1dKV+6gIyP1PhH0",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Energy of Love",
-        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 208760,
-      "name": "A Nice Girl Like You",
-      "url": "https://open.spotify.com/track/6XPrQp3jvE9YcGJf6XVfXx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 218554,
       "name": "Cry Together - Live",
       "url": "https://open.spotify.com/track/1AHoHNRyc2MGWDMHRQMkRO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Energy of Love",
+        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 208760,
+      "name": "A Nice Girl Like You",
+      "url": "https://open.spotify.com/track/6XPrQp3jvE9YcGJf6XVfXx"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Town Doo Wop, Vol. 5",
-        "url": "https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF"
+        "name": "The Great Guitar Instrumentals: '50s & '60s",
+        "url": "https://open.spotify.com/album/3u540OPocP9GCkWh0XPtWi"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 148991,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/0Nu3tJkKb4UBDBLRMVRV2s"
+      "duration_ms": 151866,
+      "name": "Jefferies Rock",
+      "url": "https://open.spotify.com/track/5PdTiYmRNpH75Qk66GHv8V"
     },
     {
       "added_at": null,
@@ -700,15 +700,15 @@
           "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
         }
       ],
-      "duration_ms": 312830,
-      "name": "The Love I Lost - Live",
-      "url": "https://open.spotify.com/track/26SDi9fX3ujRlgfxqU2Th1"
+      "duration_ms": 224118,
+      "name": "If You Don't Know Me By Now - Live",
+      "url": "https://open.spotify.com/track/2sWyHjB0BFSCxoVYuSyarY"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Great Guitar Instrumentals: '50s & '60s",
-        "url": "https://open.spotify.com/album/3u540OPocP9GCkWh0XPtWi"
+        "name": "Old Town Doo Wop, Vol. 5",
+        "url": "https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 151866,
-      "name": "Jefferies Rock",
-      "url": "https://open.spotify.com/track/5PdTiYmRNpH75Qk66GHv8V"
+      "duration_ms": 148991,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/0Nu3tJkKb4UBDBLRMVRV2s"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
         }
       ],
-      "duration_ms": 224118,
-      "name": "If You Don't Know Me By Now - Live",
-      "url": "https://open.spotify.com/track/2sWyHjB0BFSCxoVYuSyarY"
+      "duration_ms": 312830,
+      "name": "The Love I Lost - Live",
+      "url": "https://open.spotify.com/track/26SDi9fX3ujRlgfxqU2Th1"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Hot Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,027 likes - 125 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,054 likes - 125 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [face.](https://open.spotify.com/track/0zX4S0PU6BG9UxHtaAx2jA) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [face.](https://open.spotify.com/album/1pWnfUxBMWhF3TgWarYieF) | 2:21 |
 | 125 | [Fantasy](https://open.spotify.com/track/5KYtpMiqtObbbgsevOnFOi) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Are We All Angels](https://open.spotify.com/album/0zDdwRsOg2sVvOFpjEOtHs) | 3:29 |
 
-Snapshot ID: `aEIhdgAAAADkxU7xZe/j0wzKMW14+nfJ`
+Snapshot ID: `aEIhdgAAAADvDxC+SKZbNk9EHTMSR4N9`

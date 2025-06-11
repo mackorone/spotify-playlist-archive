@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound\. Cover: Salif Keita
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,656 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,706 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 99 | [Ené yèwèdèdkwat](https://open.spotify.com/track/5wgAKC4awJYizs0IbOsU2o) | [Tamrat Molla](https://open.spotify.com/artist/0HJNHryykMm06vJjHe2FDi), [Venus Band](https://open.spotify.com/artist/5OSfNKHKPD3zCtE1raSdbp) | [Ethiopiques, Vol\. 24: Golden years of Modern Ethiopian Music \(1969\-1975\)](https://open.spotify.com/album/4PIVIEBOwwkT5PNhGkrN3o) | 4:13 |
 | 100 | [Sonkolon](https://open.spotify.com/track/7kwh4OBLLGc0Fvp5ENu7hm) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fatou](https://open.spotify.com/album/2jdSj8ZhRoGvKFD9r22BtT) | 3:30 |
 
-Snapshot ID: `aB23zQAAAADertG3Tp3QOqBVGbKhMfLz`
+Snapshot ID: `AAAAAHhPv3N9HCxyrXvDK8pTyy/JyKJp`

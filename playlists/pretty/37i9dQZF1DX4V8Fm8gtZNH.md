@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,001 likes - 332 songs - 19 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,029 likes - 332 songs - 19 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

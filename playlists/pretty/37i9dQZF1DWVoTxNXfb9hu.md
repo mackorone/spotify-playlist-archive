@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoTxNXfb9hu.md) - [plain]
 
 > Colourful songs to kickstart your Holi party! Cover \- Yeh Jawaani Hai Deewani
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,760 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,815 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

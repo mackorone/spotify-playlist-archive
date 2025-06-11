@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 252973,
+  "num_followers": 252985,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAAD3No+nwR7yJFGrOWrPQeRT",
+  "snapshot_id": "aEYkAAAAAABANdIBWOReNY+CkWR6TZmd",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trio (2016 Remaster)",
+        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 240813,
+      "name": "Those Memories of You - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7sdNvO1i0MeKRseYnuebGN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If You Hadn\u2019t Been There",
         "url": "https://open.spotify.com/album/2N09fTgE3daKnVujeFEyLD"
       },
@@ -507,30 +531,6 @@
       "duration_ms": 211586,
       "name": "After the Gold Rush - 2015 Remaster",
       "url": "https://open.spotify.com/track/22GKOoU7q9YGhaedUzhlpT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trio (2016 Remaster)",
-        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 240813,
-      "name": "Those Memories of You - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7sdNvO1i0MeKRseYnuebGN"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cover Stories: Brandi Carlile Celebrates 10 Years of the Story (An Album to Benefit War Child)",
-        "url": "https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 257372,
-      "name": "The Story",
-      "url": "https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wrecking Ball",
         "url": "https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 171133,
       "name": "It Wasn't God Who Made Honky Tonk Angels",
       "url": "https://open.spotify.com/track/0zUXyDr4tSc7iSfdX7Zjtd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cover Stories: Brandi Carlile Celebrates 10 Years of the Story (An Album to Benefit War Child)",
+        "url": "https://open.spotify.com/album/3eI5yt8PVoaONTDcHHTky7"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 257372,
+      "name": "The Story",
+      "url": "https://open.spotify.com/track/4B5rqUfJXLCJl9WMXMHehx"
     },
     {
       "added_at": null,

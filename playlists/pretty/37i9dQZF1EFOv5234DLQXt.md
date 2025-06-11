@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 38 | [Té para Tres](https://open.spotify.com/track/40VoDKKiYXmUgCYYJ9c0lT) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 2:25 |
 | 39 | [TIERRA ZANTA](https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 3:57 |
 | 40 | [Vuelta por el Universo](https://open.spotify.com/track/7uY3xheR58xt98wb8BIz21) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2) | 6:00 |
-| 41 | [Desastre](https://open.spotify.com/track/2K0GxrtQNE3tVFeW4fYGZi) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:36 |
-| 42 | [Disco Eterno \- Remasterizado 2007](https://open.spotify.com/track/1MgAlKWp9ntSF5DRG6vKYl) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Sueño Stereo \(Remastered\)](https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg) | 5:46 |
+| 41 | [Disco Eterno \- Remasterizado 2007](https://open.spotify.com/track/1MgAlKWp9ntSF5DRG6vKYl) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Sueño Stereo \(Remastered\)](https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg) | 5:46 |
+| 42 | [Desastre](https://open.spotify.com/track/2K0GxrtQNE3tVFeW4fYGZi) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:36 |
 | 43 | [Karaoke](https://open.spotify.com/track/6sLY33z3QsMa9HnzCvXcGT) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 3:54 |
 | 44 | [Lisa](https://open.spotify.com/track/3ac2SnHk4KYjP2Au4ZL7eu) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Amor Amarillo](https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR) | 4:25 |
 | 45 | [Paseo Inmoral](https://open.spotify.com/track/6VH153hUoK92d0cqsf5l9i) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 5:31 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 116 | [Uno Entre Mil](https://open.spotify.com/track/6acGFk7EsZFCzgziXulVFM) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 3:53 |
 | 117 | [Caravana](https://open.spotify.com/track/7xlM9YL6XDJpMhFdgRxftR) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 4:18 |
 
-Snapshot ID: `AbztXgAAAAAkpUNkTkLcy8160MZGi689`
+Snapshot ID: `Abzy4AAAAAC/ODpepuhxR2cBI+rbD84l`

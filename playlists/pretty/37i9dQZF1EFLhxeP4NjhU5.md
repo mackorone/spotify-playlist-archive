@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48szR2kmia8PcpVpxqI2o1">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,092 likes - 189 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,091 likes - 189 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 102 | [Bebesita](https://open.spotify.com/track/69XHHNUwwgm7I0dlfqaGJS) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 3:05 |
 | 103 | [El Problema](https://open.spotify.com/track/6cyH3OGfKQBevSYxJFIUCx) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 3:28 |
 | 104 | [Apretaito](https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Apretaito](https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL) | 3:19 |
-| 105 | [Luna \- \(Remix\)](https://open.spotify.com/track/1thHX5yotz3YQD9IHhv4cG) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Luna \(Remix\)](https://open.spotify.com/album/5wlAC1Tv7ZgriwNX3Zbljg) | 4:02 |
-| 106 | [Matricula](https://open.spotify.com/track/3qoJowHPbi2Kamj3MBxvul) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4) | [Matricula](https://open.spotify.com/album/0brb9CPoH9CKWHo6uthZIv) | 3:10 |
+| 105 | [Matricula](https://open.spotify.com/track/3qoJowHPbi2Kamj3MBxvul) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4) | [Matricula](https://open.spotify.com/album/0brb9CPoH9CKWHo6uthZIv) | 3:10 |
+| 106 | [Luna \- \(Remix\)](https://open.spotify.com/track/1thHX5yotz3YQD9IHhv4cG) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Luna \(Remix\)](https://open.spotify.com/album/5wlAC1Tv7ZgriwNX3Zbljg) | 4:02 |
 | 107 | [Somo o No Somos](https://open.spotify.com/track/3YeImruYgPnQtn4QgHqi04) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 3:56 |
 | 108 | [SUBEME LA RADIO REMIX](https://open.spotify.com/track/5XeSiH1cHcz1Lqzxj4qk5P) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [SUBEME LA RADIO REMIX](https://open.spotify.com/album/10OXbQaVSsw1DlmszDnXmY) | 3:27 |
 | 109 | [Pin](https://open.spotify.com/track/5L1GX9GFIHYm1AMAlNgoHw) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:41 |
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 188 | [Fire](https://open.spotify.com/track/6fGjKSs0onPKmsjA4ZwDPp) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Mr.Phillips](https://open.spotify.com/artist/500Pu8sBollg8xWSu9TR3E) | [The Last Album](https://open.spotify.com/album/30t1kkG1NrdaCnr4NppWzs) | 3:45 |
 | 189 | [24 Horas](https://open.spotify.com/track/0r10aAQk6Em9NEYhMXaNDZ) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Códigos](https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd) | 3:00 |
 
-Snapshot ID: `AbztXgAAAAAIssMQBUXFRZAEyiBbENjH`
+Snapshot ID: `Abzy6gAAAAC5MWpY9LJf94GojorJTAia`

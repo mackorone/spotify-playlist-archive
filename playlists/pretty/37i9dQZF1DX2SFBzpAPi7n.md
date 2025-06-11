@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: The Rose\(더 로즈\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,588 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,570 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 18 | [Back To Me](https://open.spotify.com/track/20Ahyv93KKjMuDHAVy2yjr) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [DUAL](https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so) | 3:44 |
 | 19 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 |
 | 20 | [To Reach You](https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [To Reach You](https://open.spotify.com/album/6cSbfbsVtQpnvFcRsYru1P) | 2:38 |
-| 21 | [It′s You](https://open.spotify.com/track/2XtNYB72kf5QEhYDdPZdc7) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Resident Playbook, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/6V21UD13g0tZrqe5UCps16) | 3:47 |
-| 22 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 |
+| 21 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 |
+| 22 | [It′s You](https://open.spotify.com/track/2XtNYB72kf5QEhYDdPZdc7) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Resident Playbook, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/6V21UD13g0tZrqe5UCps16) | 3:47 |
 | 23 | [Sorry](https://open.spotify.com/track/7w4uUETSzQHNItfRI8w2MA) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/7MVDBgukYtYUtFA9a5QKYn) | 3:35 |
 | 24 | [Shoot Me](https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg) | 2:55 |
 | 25 | [Awake](https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:46 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 27 | [Little Light](https://open.spotify.com/track/1Y5D7m2QtyBdvwvY3gAVNQ) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [YOUTH \- The 1st Album](https://open.spotify.com/album/06VXjmfFLNhkSLEe94ROXj) | 3:44 |
 | 28 | [Really Like You](https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Really Like You](https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu) | 2:58 |
 | 29 | [She's In The Rain](https://open.spotify.com/track/43NeZM2TbrQr6djoAnDyVo) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/4Zd5O0llwgfmpJoZOeKWiQ) | 3:57 |
-| 30 | [May the TENDERNESS be with you! \(feat\. KARINA of aespa\)](https://open.spotify.com/track/4dA19AW8ehIYVOScdWu4IT) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS), [KARINA](https://open.spotify.com/artist/2qwDjeSYANOOBFU8jwtBXx) | [Sound of Music pt.1](https://open.spotify.com/album/0MszgvODJojjzJCNmlWWGu) | 3:25 |
-| 31 | [Someday It′s Time to Shine](https://open.spotify.com/track/5HFrbl4QXzy8lgNj60YZqR) | [Mido and Falasol](https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq) | [Resident Playbook, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/5iuDI9yIR5v8ayzQ4poPCu) | 4:48 |
+| 30 | [Someday It′s Time to Shine](https://open.spotify.com/track/5HFrbl4QXzy8lgNj60YZqR) | [Mido and Falasol](https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq) | [Resident Playbook, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/5iuDI9yIR5v8ayzQ4poPCu) | 4:48 |
+| 31 | [May the TENDERNESS be with you! \(feat\. KARINA of aespa\)](https://open.spotify.com/track/4dA19AW8ehIYVOScdWu4IT) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS), [KARINA](https://open.spotify.com/artist/2qwDjeSYANOOBFU8jwtBXx) | [Sound of Music pt.1](https://open.spotify.com/album/0MszgvODJojjzJCNmlWWGu) | 3:25 |
 | 32 | [Wi Ing Wi Ing](https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO) | 3:14 |
 | 33 | [Zombie](https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ) | 3:29 |
 | 34 | [RED](https://open.spotify.com/track/6kcXrU60QTkMRBRd3O0Rrq) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/1ifwystmHNV1dbgLni1hNA) | 2:56 |

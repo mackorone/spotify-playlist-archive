@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > Celebrating 10 years of Fresh Finds! The best new music by independent artists in the Nordics\. Cover: Aggy Ally
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,863 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,862 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 2 | [Sun Tan](https://open.spotify.com/track/5Vcly7T9MwGfvEMYk90RrI) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Sun Tan](https://open.spotify.com/album/06o9hDDvMetaUcbnATlFtg) | 3:37 |
 | 3 | [Pain Killer](https://open.spotify.com/track/20lBQfwF4WjXU2ipajAqTk) | [theophilia](https://open.spotify.com/artist/3SWQx1YIz6i5AgeL3htTS1) | [Pain Killer](https://open.spotify.com/album/7jV8QrZxz4Bzf7CSAbeCjA) | 2:51 |
 | 4 | [Another Life](https://open.spotify.com/track/2cWbWkRjDuDX3VhZCN50Do) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Another Life](https://open.spotify.com/album/1uOknY2ro4BCx9enXudDiH) | 4:34 |
-| 5 | [daugther](https://open.spotify.com/track/5VRbDeF87UzXK8LI1HLk3f) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [daugther](https://open.spotify.com/album/4FlWe4YmzMi9LVFZlza1AK) | 4:46 |
+| 5 | [daughter](https://open.spotify.com/track/5VRbDeF87UzXK8LI1HLk3f) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [daughter](https://open.spotify.com/album/4FlWe4YmzMi9LVFZlza1AK) | 4:46 |
 | 6 | [fooo00oool](https://open.spotify.com/track/14jB6NjGfnSjWzW9tVTMXq) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [fooo00oool](https://open.spotify.com/album/0PyiLqUiHUVpC2QqlH4kTs) | 3:08 |
 | 7 | [Metanoia \(p.179\)](https://open.spotify.com/track/1qcpPLLM4y1bGfwPS5DHDI) | [Salty Licorice](https://open.spotify.com/artist/6ipya2KPF19iwpylWPCHZs) | [The Sunrise Cried](https://open.spotify.com/album/5RSwmoVHdPTkHeIQDyRxsN) | 3:12 |
 | 8 | [You're on the Loose](https://open.spotify.com/track/77P729eyk6EgyXQJV22hpu) | [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [You're on the Loose](https://open.spotify.com/album/7An52a3iEFGZPKQE3NCDSy) | 4:37 |

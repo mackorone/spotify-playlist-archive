@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: ENHYPEN
 
-600 songs - 1 day 9 hr 25 min
+602 songs - 1 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [BLOOM \(feat\. Ayumu Imazu\)](https://open.spotify.com/track/6jBeNTZcQrzvAMr1p9QBDV) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz), [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [BLOOM \(feat\. Ayumu Imazu\)](https://open.spotify.com/album/6ViNM72dBCuPDyJMetsWI6) | 3:29 | 2025-06-02 |  |
 | [Blow Your Cover](https://open.spotify.com/track/1gmr7JOnYuR9eq4sqVv6pN) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [Blow Your Cover](https://open.spotify.com/album/5qxa3A2fmTtqzOFTSD6rgQ) | 2:39 | 2024-04-12 | 2024-05-29 |
 | [BLUE \- Japanese ver.](https://open.spotify.com/track/5ELGegnHxGQDRy5mWjgGKh) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [BLUE \(Japanese ver.\)](https://open.spotify.com/album/7i6ZTJn1LA0V9FDLOEIpC7) | 3:02 | 2025-03-20 | 2025-04-16 |
+| [Blue Flame](https://open.spotify.com/track/2HL9ZAoNjflbahJ8QuqqxN) | [aoen](https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i) | [青い太陽](https://open.spotify.com/album/6zKaq83ZghJi7NJyy3BDS3) | 3:06 | 2025-06-09 |  |
 | [BO$$Y](https://open.spotify.com/track/12IAErrJ4t96w75iP5HMau) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [VIIsual](https://open.spotify.com/album/2NbRDGdARD2nXnVlou8wjF) | 3:33 | 2024-12-03 | 2025-03-07 |
 | [BON](https://open.spotify.com/track/3FzRKDirkUsApk11WEz1wz) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.O \-ring\-](https://open.spotify.com/album/2f2HoX9FvofLR1ruxImLiK) | 3:23 | 2024-05-28 | 2025-03-07 |
 | [Bon Voyage](https://open.spotify.com/track/3uG3PENb4Nc6VQH9LiFF6A) | [BLVCKBERRY](https://open.spotify.com/artist/2oOlkw512A8JGZJi2y5zqy) | [Bon Voyage](https://open.spotify.com/album/5ftyQK0K0vdQQVNmBwclCN) | 4:54 | 2024-01-11 | 2024-01-24 |
@@ -174,7 +175,7 @@
 | [Get Wild](https://open.spotify.com/track/4IDWkk8s12B50Ksb4aS87W) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Get Wild](https://open.spotify.com/album/54og7pfmDGwwaVrROP2aiL) | 2:58 | 2025-03-06 | 2025-04-07 |
 | [GGUM](https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [GGUM](https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V) | 2:31 | 2025-03-06 | 2025-03-24 |
 | [GIANT](https://open.spotify.com/track/5cZUp0PoAYzsXefD0pdALc) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GIANT](https://open.spotify.com/album/2vVMz605sZeoefSLbbBNeb) | 2:54 | 2024-11-12 | 2025-03-20 |
-| [GIANT \(Korean Version\)](https://open.spotify.com/track/157BWJSAbWf72tNvC1P1kv) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/4fTGqjAolmy05iQwHq7n6x) | 2:53 | 2025-03-20 |  |
+| [GIANT \(Korean Version\)](https://open.spotify.com/track/157BWJSAbWf72tNvC1P1kv) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/4fTGqjAolmy05iQwHq7n6x) | 2:53 | 2025-03-20 | 2025-06-11 |
 | [Gifted\. \- Orchestra ver.](https://open.spotify.com/track/6eVpSSlmikGCpP6gdt0FnH) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Gifted\. \-Orchestra ver.\-](https://open.spotify.com/album/0k3aV68FkJd7YOMlteL4WD) | 3:51 | 2024-03-26 | 2024-05-01 |
 | [Girlfriend](https://open.spotify.com/track/7GfzepybK1its9ZO9H9Bqz) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup) | [Girlfriend](https://open.spotify.com/album/6wmaWic8SNvOknibUnCN6b) | 3:45 | 2024-05-28 | 2024-06-26 |
 | [Girlfriend](https://open.spotify.com/track/5gSD05Y9cZ9gazxgGuyfey) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [+Alpha（Special Edition）](https://open.spotify.com/album/01ZMA8tItQb2Xs99Foagdx) | 3:18 | 2024-08-22 | 2024-09-18 |
@@ -208,6 +209,7 @@
 | [HIGHER EX](https://open.spotify.com/track/5HQkEVozABejYyWUdMfeFF) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [HIGHER EX](https://open.spotify.com/album/43FcOYz8efEsLFhm5suAiZ) | 3:22 | 2024-05-21 | 2024-09-04 |
 | [Highlights \(Twilight Remix\)](https://open.spotify.com/track/0RSazMPFPTxeLgwdxhp7tb) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Highlights \(Twilight Remix\)](https://open.spotify.com/album/6RZSx9zM1PlAcPFbkIkSGw) | 2:55 | 2024-03-26 | 2024-04-03 |
 | [HIRAKEGOMA](https://open.spotify.com/track/3hp17ZWfLvUXNe1rzo8RbZ) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅰ \(Deluxe\)](https://open.spotify.com/album/3OH4JlJZ6J7A1yhA0XmnPR) | 2:40 | 2024-12-03 | 2025-03-07 |
+| [Hollow](https://open.spotify.com/track/5K1thEZHOgjE89mxwA01T9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Hollow](https://open.spotify.com/album/3yZGdJW5lLePqAPE5z7OxT) | 3:29 | 2025-06-10 |  |
 | [Homeboys](https://open.spotify.com/track/5dK9B2ItDXvTIGYMfDZrrS) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [刺激最優先](https://open.spotify.com/album/1R7e1FHHGKNtT6uWqok07p) | 3:19 | 2025-01-07 | 2025-02-12 |
 | [Hot summer](https://open.spotify.com/track/7MqRkrtQdHUfKjW1nlxl2v) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [まさか泣くとは思わなかった](https://open.spotify.com/album/3YmV4jIJtEzl0fbRDag6KX) | 2:54 | 2025-05-27 |  |
 | [Hug](https://open.spotify.com/track/1Yy0eOzubrYK75bXH3rFbF) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Hug](https://open.spotify.com/album/7lov2nZxGiyLarQgDSnCv2) | 3:54 | 2025-03-06 | 2025-04-18 |

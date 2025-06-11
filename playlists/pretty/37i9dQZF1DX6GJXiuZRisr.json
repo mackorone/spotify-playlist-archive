@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1606271,
+  "num_followers": 1606301,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,30 @@
     {
       "added_at": "2025-06-06 04:00:19",
       "album": {
+        "name": "Beautiful People (Miss Monique Remix)",
+        "url": "https://open.spotify.com/album/6RbuWWX31va0m3FduVREQb"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Beautiful People - Miss Monique Remix",
+      "url": "https://open.spotify.com/track/2xypJtZG2dblYWcD7NUau9"
+    },
+    {
+      "added_at": "2025-06-06 04:00:19",
+      "album": {
         "name": "Angel In The Dark",
         "url": "https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm"
       },
@@ -627,30 +651,6 @@
       "duration_ms": 120461,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/45c9wiUAAYRgbAnBcfPEsk"
-    },
-    {
-      "added_at": "2025-06-06 04:00:19",
-      "album": {
-        "name": "Beautiful People (Miss Monique Remix)",
-        "url": "https://open.spotify.com/album/6RbuWWX31va0m3FduVREQb"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Beautiful People - Miss Monique Remix",
-      "url": "https://open.spotify.com/track/2xypJtZG2dblYWcD7NUau9"
     },
     {
       "added_at": "2025-06-06 04:00:19",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-06-06 04:00:19",
       "album": {
-        "name": "Manta",
-        "url": "https://open.spotify.com/album/26PV47U9aFqbYOkcsUUcq5"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 247152,
-      "name": "Manta",
-      "url": "https://open.spotify.com/track/0uXlFJxr5zDnoLql7DELIm"
-    },
-    {
-      "added_at": "2025-06-06 04:00:19",
-      "album": {
         "name": "girl$ (Layton Giordani Remix)",
         "url": "https://open.spotify.com/album/2vcisyP9y8jUFqI7W6x7BN"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 184477,
       "name": "girl$ - Layton Giordani Remix",
       "url": "https://open.spotify.com/track/3ZzafniLjEBqRM7GeyRcvz"
+    },
+    {
+      "added_at": "2025-06-06 04:00:19",
+      "album": {
+        "name": "Manta",
+        "url": "https://open.spotify.com/album/26PV47U9aFqbYOkcsUUcq5"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 247152,
+      "name": "Manta",
+      "url": "https://open.spotify.com/track/0uXlFJxr5zDnoLql7DELIm"
     },
     {
       "added_at": "2025-06-06 04:00:19",
@@ -1379,22 +1379,22 @@
     {
       "added_at": "2025-06-06 04:00:19",
       "album": {
-        "name": "Love Shop",
-        "url": "https://open.spotify.com/album/5P33pqHNg5OYbLoDcvaO26"
+        "name": "Caught in a Moment",
+        "url": "https://open.spotify.com/album/45l9SKxkBvjKvVwKbK3XA0"
       },
       "artists": [
         {
-          "name": "YOTTO",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
         },
         {
-          "name": "Something Good",
-          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         }
       ],
-      "duration_ms": 211273,
-      "name": "Love Shop",
-      "url": "https://open.spotify.com/track/2P7S7IZOIs70ApL9ddtYwL"
+      "duration_ms": 255285,
+      "name": "Caught in a Moment",
+      "url": "https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79"
     },
     {
       "added_at": "2025-06-06 04:00:19",
@@ -1419,22 +1419,22 @@
     {
       "added_at": "2025-06-06 04:00:19",
       "album": {
-        "name": "Caught in a Moment",
-        "url": "https://open.spotify.com/album/45l9SKxkBvjKvVwKbK3XA0"
+        "name": "Love Shop",
+        "url": "https://open.spotify.com/album/5P33pqHNg5OYbLoDcvaO26"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "YOTTO",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
         },
         {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
         }
       ],
-      "duration_ms": 255285,
-      "name": "Caught in a Moment",
-      "url": "https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79"
+      "duration_ms": 211273,
+      "name": "Love Shop",
+      "url": "https://open.spotify.com/track/2P7S7IZOIs70ApL9ddtYwL"
     },
     {
       "added_at": "2025-06-06 04:00:19",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-06-06 04:00:19",
       "album": {
-        "name": "IT MIGHT BE THE DRUGS",
-        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
-      },
-      "artists": [
-        {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
-        }
-      ],
-      "duration_ms": 219892,
-      "name": "IT MIGHT BE THE DRUGS",
-      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
-    },
-    {
-      "added_at": "2025-06-06 04:00:19",
-      "album": {
         "name": "Blue Symphony",
         "url": "https://open.spotify.com/album/6n7gP0fXV4kDGAEGwJ0xpv"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 203225,
       "name": "Blue Symphony",
       "url": "https://open.spotify.com/track/6YztQYF4h3cqtF8rNcVWM5"
+    },
+    {
+      "added_at": "2025-06-06 04:00:19",
+      "album": {
+        "name": "IT MIGHT BE THE DRUGS",
+        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        }
+      ],
+      "duration_ms": 219892,
+      "name": "IT MIGHT BE THE DRUGS",
+      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
     },
     {
       "added_at": "2025-06-06 04:00:19",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-06-06 04:00:19",
       "album": {
-        "name": "Communicate",
-        "url": "https://open.spotify.com/album/1A4e6I1K9UfIsOXfCn21GV"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 338225,
-      "name": "Communicate",
-      "url": "https://open.spotify.com/track/172om5zC8R0HHXOzpjUX2m"
-    },
-    {
-      "added_at": "2025-06-06 04:00:19",
-      "album": {
         "name": "Where's The Music Gone",
         "url": "https://open.spotify.com/album/2gcKpdIcK8DTt99uPWZkxp"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 228496,
       "name": "Where's The Music Gone",
       "url": "https://open.spotify.com/track/0W2DNZ8ttfFvhlGCBgMq0s"
+    },
+    {
+      "added_at": "2025-06-06 04:00:19",
+      "album": {
+        "name": "Communicate",
+        "url": "https://open.spotify.com/album/1A4e6I1K9UfIsOXfCn21GV"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "duration_ms": 338225,
+      "name": "Communicate",
+      "url": "https://open.spotify.com/track/172om5zC8R0HHXOzpjUX2m"
     },
     {
       "added_at": "2025-06-06 04:00:19",

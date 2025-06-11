@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 
 > The biggest Arabic song in the 1990's\. Cover : Amr Diab
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,246 likes - 40 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,277 likes - 40 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,12 +23,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 13 | [Methl El Kezbeh](https://open.spotify.com/track/609a0YjFOZ9A98gMcOx9fC) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [Shoak El Sahari](https://open.spotify.com/album/0ZHYxNFHpbc0SXF406j1VO) | 5:08 |
 | 14 | [Malhomsh Fel Tayeb](https://open.spotify.com/track/6amGvLtCwPRzsXvra8toV8) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Yashak Amar](https://open.spotify.com/album/0TiLIrZnWWOfbQekPaINIi) | 6:12 |
 | 15 | [مواعدانى](https://open.spotify.com/track/6nLo8pZ7r5dPZnlEGBchip) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [مشينا](https://open.spotify.com/album/3KZuogULhgXrMIOvArGEC7) | 4:17 |
-| 16 | [ياعمرنا](https://open.spotify.com/track/7042RePASZ2OVSYt97wJyz) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [ذكريات](https://open.spotify.com/album/0l5WwYnIl9rtiP8vUzCdv9) | 4:31 |
+| 16 | [Nafs El Makan](https://open.spotify.com/track/2XPnzYLx2hLHVLz6REezsr) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Nour El Ein](https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA) | 4:35 |
 | 17 | [Kolak Ala Badhak \- Remastered 2000](https://open.spotify.com/track/2sFFcde1ToI6DVCzvWwePM) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK) | [Ba'Ad Al Hob](https://open.spotify.com/album/2Ro807NACs4StaffbQUd8A) | 5:49 |
-| 18 | [A'lbal](https://open.spotify.com/track/6HwrjWRXfzSV4fKiaDOYU5) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [A'lbal](https://open.spotify.com/album/3pDNPqfo5RZHTFU5Rdw2r0) | 5:53 |
-| 19 | [Marasil](https://open.spotify.com/track/3HwYcquGa3CkKV5ysbCz9l) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Marasil](https://open.spotify.com/album/66jInZF8WwjMbWn2nuFZss) | 5:09 |
+| 18 | [Marasil](https://open.spotify.com/track/3HwYcquGa3CkKV5ysbCz9l) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Marasil](https://open.spotify.com/album/66jInZF8WwjMbWn2nuFZss) | 5:09 |
+| 19 | [A'lbal](https://open.spotify.com/track/6HwrjWRXfzSV4fKiaDOYU5) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [A'lbal](https://open.spotify.com/album/3pDNPqfo5RZHTFU5Rdw2r0) | 5:53 |
 | 20 | [Aïcha \- Version Mixte](https://open.spotify.com/track/59TEwguuXqdtjUrdG5trEa) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Sahra](https://open.spotify.com/album/0XID5D29qdqciKjMBsySwH) | 4:19 |
-| 21 | [Nafs El Makan](https://open.spotify.com/track/2XPnzYLx2hLHVLz6REezsr) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Nour El Ein](https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA) | 4:35 |
+| 21 | [ياعمرنا](https://open.spotify.com/track/7042RePASZ2OVSYt97wJyz) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [ذكريات](https://open.spotify.com/album/0l5WwYnIl9rtiP8vUzCdv9) | 4:31 |
 | 22 | [Efred](https://open.spotify.com/track/2G9gFbESJG8K8PmrPrxBDI) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Efred](https://open.spotify.com/album/65MdcRzosUdJ58PtZWBqCI) | 4:52 |
 | 23 | [Lolaki](https://open.spotify.com/track/3U3Mg8TxGphsn6xOXGHyQl) | [Ali Hemeida](https://open.spotify.com/artist/3sJXlwYQKVSrx9BJj0o9Af) | [Lolaki](https://open.spotify.com/album/5lysbcklI2aaHzhUqPULow) | 4:40 |
 | 24 | [Ah Bahibbak](https://open.spotify.com/track/4ZOwcp2U8eyz5SlOddYzIc) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Rouhi](https://open.spotify.com/album/4qcW7uuWQxP5ueJBgXOBnr) | 4:13 |

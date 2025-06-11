@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRTlrhMB12D.md) - [plain]
 
 > Soulful Hindi songs for your nostalgic journey\. Cover \- Mere Jeevan Saathi
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,514 likes - 100 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,576 likes - 100 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

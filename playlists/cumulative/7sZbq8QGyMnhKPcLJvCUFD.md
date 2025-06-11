@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-715 songs - 1 day 12 hr 6 min
+716 songs - 1 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [High \(feat\. Aleesia\)](https://open.spotify.com/track/3Bin1J5O34OUDb3a4BctoI) | [JPB](https://open.spotify.com/artist/0t5H8FcoVPzn4sVeNxibMU), [Aleesia](https://open.spotify.com/artist/1KV1BqrUpebQPqVU2r89xc) | [High](https://open.spotify.com/album/7LqM3dX7Iv65gtMl29Sqd5) | 2:28 | 2023-08-08 | 2024-04-17 |
 | [high4aminute](https://open.spotify.com/track/30yzZdUB2IwJBPHT75z6wN) | [Raude](https://open.spotify.com/artist/53OGD4I8jF4rxTyEquy1WZ) | [high4aminute](https://open.spotify.com/album/0zpzJJy4JNWcFQPMwLQPD3) | 1:48 | 2023-05-19 | 2023-08-10 |
 | [Hinterlands](https://open.spotify.com/track/6h3wPSFFiJ7owyARNu8op8) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [Hinterlands](https://open.spotify.com/album/4rzEnGAJp4uWxc7h7Kn7fM) | 4:23 | 2024-11-01 |  |
+| [Hit The Ground](https://open.spotify.com/track/0AB8w8esboIuj2qAiVaQBU) | [KAYA!](https://open.spotify.com/artist/4HuCkhcxK4l0G1xwQMAyNY), [LULO](https://open.spotify.com/artist/1SPCD4LuDZ1AHZdC6Ybtk7) | [Hit The Ground](https://open.spotify.com/album/3V9EAWy4cbnDGdOzU2bV66) | 3:04 | 2025-06-10 |  |
 | [Hold It Up To The Light](https://open.spotify.com/track/57EZquEXGTktwHOUN0UUG3) | [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [Hold It Up To The Light](https://open.spotify.com/album/7h6O0kva9Pju5lTnIyUL1h) | 3:30 | 2025-03-04 |  |
 | [Hold On Me](https://open.spotify.com/track/5ExBJA2HtqlQCUFnICjrTf) | [Raul Ojamaa](https://open.spotify.com/artist/6Z3GmozKVgFxFcP2Qzp0Fp), [Maris Pihlap](https://open.spotify.com/artist/3594I0JPmGJklcod5vZJv7) | [Hold On Me](https://open.spotify.com/album/2afxBQvxCZQ2KcbCy2Pwgd) | 3:28 | 2023-12-13 | 2024-07-19 |
 | [Hollow](https://open.spotify.com/track/53dI9LHErYo0hljsDIMMrG) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Hollow](https://open.spotify.com/album/4o692fJS1XXJC39uhAy1f0) | 3:25 | 2024-04-12 |  |

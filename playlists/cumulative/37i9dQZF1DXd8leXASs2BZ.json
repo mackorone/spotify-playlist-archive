@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "\u3044\u3088\u3044\u3088POP YOURS\u958b\u50ac! // Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Joe Cupertino",
+  "description": "\u3044\u3088\u3044\u3088POP YOURS\u958b\u50ac! // Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: 5Leaf",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -248,7 +248,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 142408,
       "name": "1983 - Remix",
       "url": "https://open.spotify.com/track/4meJlE98KPiocYKoU4sBJh"
@@ -4226,7 +4226,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 146406,
       "name": "DIVA",
       "url": "https://open.spotify.com/track/26zWqYh4fdyAyVtGjZyL3X"
@@ -4920,7 +4920,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 168100,
       "name": "Early Summer",
       "url": "https://open.spotify.com/track/5rZcICNasYZHmI5b4KzKPU"
@@ -5312,7 +5312,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 202311,
       "name": "Erika Sawajiri (feat. \u042fu-a)",
       "url": "https://open.spotify.com/track/2m4ULH2PgeNN4Va9bX3IXu"
@@ -7681,6 +7681,24 @@
     },
     {
       "album": {
+        "name": "HO CHI MINH",
+        "url": "https://open.spotify.com/album/1SZyd3TorNwEbEceUaU9EI"
+      },
+      "artists": [
+        {
+          "name": "BBY NABE",
+          "url": "https://open.spotify.com/artist/4zb2mUkgFg9NGwAJnzlS8B"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113435,
+      "name": "HO CHI MINH",
+      "url": "https://open.spotify.com/track/4HhByMFFOERh7oy2sjM25P"
+    },
+    {
+      "album": {
         "name": "Jazzy&Me",
         "url": "https://open.spotify.com/album/3fE836KnAbE7cPSb0VXtm7"
       },
@@ -9559,6 +9577,24 @@
     },
     {
       "album": {
+        "name": "Landscape",
+        "url": "https://open.spotify.com/album/4iknMMIeNLt87crIZIaB46"
+      },
+      "artists": [
+        {
+          "name": "interplay",
+          "url": "https://open.spotify.com/artist/3aqzl6USx71Kd6SxlOsNz0"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207857,
+      "name": "Landscape",
+      "url": "https://open.spotify.com/track/1fueh4THH0z9BP757rWmeI"
+    },
+    {
+      "album": {
         "name": "LEAD",
         "url": "https://open.spotify.com/album/12eiDX769GffsCljewZy7i"
       },
@@ -10540,7 +10576,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 139445,
       "name": "Matenai",
       "url": "https://open.spotify.com/track/4SRtT9SUbElvGEZMrHT3G8"
@@ -10667,6 +10703,24 @@
     },
     {
       "album": {
+        "name": "Michikusa",
+        "url": "https://open.spotify.com/album/66h6iU86pXPAw7rTVSVmL7"
+      },
+      "artists": [
+        {
+          "name": "5Leaf",
+          "url": "https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148293,
+      "name": "Michikusa",
+      "url": "https://open.spotify.com/track/0RRJ9Z80mZYLo2KVD46Nqm"
+    },
+    {
+      "album": {
         "name": "Mind",
         "url": "https://open.spotify.com/album/7gM3kvrfjpNdSGcW3QBVEK"
       },
@@ -10740,6 +10794,28 @@
       "duration_ms": 168796,
       "name": "MISS YOU",
       "url": "https://open.spotify.com/track/5nslwaTR9NlQUjVVJNykD4"
+    },
+    {
+      "album": {
+        "name": "Misty",
+        "url": "https://open.spotify.com/album/6XQNdc5gNg7v3SkfG4LWQA"
+      },
+      "artists": [
+        {
+          "name": "D.E.P",
+          "url": "https://open.spotify.com/artist/64ql4Ia1efthJfNOxbtWNo"
+        },
+        {
+          "name": "vw b0mb.",
+          "url": "https://open.spotify.com/artist/7LTGEBujjkGI77DHS9IUA6"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157279,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4DizRCNUqgS9GS6gOUDglp"
     },
     {
       "album": {
@@ -10970,6 +11046,28 @@
       "duration_ms": 224100,
       "name": "Muzihi",
       "url": "https://open.spotify.com/track/59b11sivyb18O7E7FCm10M"
+    },
+    {
+      "album": {
+        "name": "WE ARE \u7834\u5929\u8352",
+        "url": "https://open.spotify.com/album/5co5trdYqLTqeLLvHMiwzb"
+      },
+      "artists": [
+        {
+          "name": "Lil Ash \u61fa\u6094",
+          "url": "https://open.spotify.com/artist/5HyNuT1PVK3iFwukNreo0L"
+        },
+        {
+          "name": "Watson",
+          "url": "https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147698,
+      "name": "MVP (feat. Watson)",
+      "url": "https://open.spotify.com/track/77wQJsasG7MdCYqbgyTPXF"
     },
     {
       "album": {
@@ -12714,7 +12812,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 172888,
       "name": "Overhaul",
       "url": "https://open.spotify.com/track/2K6voZtmRKYdGM0r1mntEr"
@@ -13567,6 +13665,24 @@
     },
     {
       "album": {
+        "name": "DL STATION",
+        "url": "https://open.spotify.com/album/7x4gZPw8Twc5TJUtoViyeh"
+      },
+      "artists": [
+        {
+          "name": "Deep Leaf",
+          "url": "https://open.spotify.com/artist/01YQGWRqEsJ0L7QKZO1TkD"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294139,
+      "name": "RAINBOW BRIDGE",
+      "url": "https://open.spotify.com/track/6IaeKanf1bag9znHRss7QK"
+    },
+    {
+      "album": {
         "name": "Rainy Day",
         "url": "https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9"
       },
@@ -13618,6 +13734,24 @@
       "duration_ms": 146813,
       "name": "RANDO",
       "url": "https://open.spotify.com/track/7zzkmw6rUNfccb8GypmTzY"
+    },
+    {
+      "album": {
+        "name": "Rank up",
+        "url": "https://open.spotify.com/album/2ox5tCXccGMYIr86I4nrs3"
+      },
+      "artists": [
+        {
+          "name": "Adem",
+          "url": "https://open.spotify.com/artist/0piNpexdBU84sjLSvbFI9b"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115028,
+      "name": "Rank up",
+      "url": "https://open.spotify.com/track/1EO5QqxtxeJWmElrDhsAWk"
     },
     {
       "album": {
@@ -14120,7 +14254,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 133736,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/5l5lkWSvhzlBfCPU1XTXDV"

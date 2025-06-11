@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Stupid Kozo
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,154 likes - 99 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,156 likes - 99 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 98 | [Get Loose](https://open.spotify.com/track/16DBKyIHIPdKnQbQZkNdKG) | [Cheetah](https://open.spotify.com/artist/57VZ8RtFU9P9iZr9LHg4OD), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Get Loose](https://open.spotify.com/album/2j2BNY5MwsZAv3g6UzIkMq) | 2:36 |
 | 99 | [Weekend](https://open.spotify.com/track/1oRGVcXV3iiVAkGDQy1zF5) | [QPLO](https://open.spotify.com/artist/5mJwgdNPd9Qqn1eA2uU0LH) | [Weekend](https://open.spotify.com/album/30r8Ed5TkC6n0m1XyKIhCc) | 3:08 |
 
-Snapshot ID: `aEb3DAAAAABPdz9OtZzeOZFRv+Xl+c1s`
+Snapshot ID: `aEb3DAAAAABt4f+8uZjNDLQ5rO5SP/hE`

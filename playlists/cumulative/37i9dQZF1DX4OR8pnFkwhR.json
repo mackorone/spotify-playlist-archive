@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: 7co\n",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: AKASAKI\n",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -5519,6 +5519,24 @@
     },
     {
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/2Zt36TQLYR245njjr3rR0l"
+      },
+      "artists": [
+        {
+          "name": "\u82a6\u7530\u83dc\u540d\u5b50",
+          "url": "https://open.spotify.com/artist/7tbgB78LexnWXuIARLJYg4"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215073,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/6b2KRSiAOIDrGUSgfuv4iP"
+    },
+    {
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/3awnnhSoffzFbLrQs0QnKA"
       },
@@ -10792,7 +10810,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 159751,
       "name": "Love in the EYE",
       "url": "https://open.spotify.com/track/6xlSFLefgdzaUs5PiwwbbS"
@@ -26332,7 +26350,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 216120,
       "name": "\u30d7\u30ec\u30c7\u30bf\u30fc",
       "url": "https://open.spotify.com/track/3RHlC1GYvsgr5Z0wiRznEP"
@@ -28304,6 +28322,24 @@
       "duration_ms": 127925,
       "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
       "url": "https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS"
+    },
+    {
+      "album": {
+        "name": "\u5168\u8eab\u524d\u793c",
+        "url": "https://open.spotify.com/album/2M7ynUGk2tRD9VcoFNQ9ay"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173133,
+      "name": "\u5168\u8eab\u524d\u793c",
+      "url": "https://open.spotify.com/track/5zoprj5Fno5is2UVHEuJwC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: We Came As Romans
 
-1,250 songs - 3 day 4 hr 41 min
+1,251 songs - 3 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -898,7 +898,7 @@
 | [Resilient](https://open.spotify.com/track/2l7oMkvjaqzFqPb81d92T9) | [We Were Giants](https://open.spotify.com/artist/3xbDqSaTiICfeLyTTrFGDz) | [Resilient](https://open.spotify.com/album/5Vvedx69s0fy9wzv1xv124) | 4:21 | 2024-03-08 | 2024-05-13 |
 | [Rest Your Head](https://open.spotify.com/track/5odEwsdDs3TzkySwH3t78s) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [And Dying Forever](https://open.spotify.com/album/3s8j7DemV6FuV0EyakQhEq) | 3:08 | 2022-07-13 | 2022-07-16 |
 | [Retribution](https://open.spotify.com/track/6hlFMfui1zugK8TNEaFkBs) | [Whispers](https://open.spotify.com/artist/62tqJaaK7ys8tATtp4334R) | [Retribution](https://open.spotify.com/album/4aQbL2fzztxM1wFFzTNfI9) | 4:17 | 2024-11-22 | 2024-11-29 |
-| [Return To Tragedy](https://open.spotify.com/track/0sWRSfKSZjO2IMU25ymrfT) | [Heists](https://open.spotify.com/artist/7i04oRstVv5xfCRMppUxuF) | [Return To Tragedy](https://open.spotify.com/album/4rVAfvkDau1nZ5BHaN7ME7) | 3:46 | 2025-05-02 |  |
+| [Return To Tragedy](https://open.spotify.com/track/0sWRSfKSZjO2IMU25ymrfT) | [Heists](https://open.spotify.com/artist/7i04oRstVv5xfCRMppUxuF) | [Return To Tragedy](https://open.spotify.com/album/4rVAfvkDau1nZ5BHaN7ME7) | 3:46 | 2025-05-02 | 2025-06-11 |
 | [Revery](https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Revery](https://open.spotify.com/album/5yNd7mpvNnQWDHUr9WvKPE) | 3:12 | 2025-05-23 |  |
 | [Riot](https://open.spotify.com/track/6KPHpYLUcSIWQy6mG3JpN0) | [Neverland In Ashes](https://open.spotify.com/artist/1udZMRTk7TTItuCsMDm3Q1) | [Riot](https://open.spotify.com/album/5rMji1cIGWpALn7VKq9h4n) | 3:23 | 2021-12-17 | 2022-02-11 |
 | [Rise](https://open.spotify.com/track/1hYOMPs7urlESUzMqfb9Ms) | [Awake Again](https://open.spotify.com/artist/2dwdtOjnNg7wIZoUpPjY5m) | [Rise](https://open.spotify.com/album/1RiAhYJePETr9hJN6QkVZj) | 3:50 | 2021-12-17 | 2022-01-15 |
@@ -1196,6 +1196,7 @@
 | [W.a.R](https://open.spotify.com/track/75ipV1ycKTZuy6CYb6wa0j) | [Main\-De\-Gloire](https://open.spotify.com/artist/1YcOnsBEycC9X5OY6kUzmV) | [W.A.R](https://open.spotify.com/album/5K1VQBpd6392NncfwKl6kG) | 3:27 | 2023-02-03 | 2023-05-06 |
 | [Wake The Dead](https://open.spotify.com/track/2DayUFU47R0WQQsvB3KPk3) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Wake The Dead](https://open.spotify.com/album/7JfMevv73honn9mW7ZenHs) | 3:07 | 2023-10-27 | 2024-04-19 |
 | [Wake The Dead](https://open.spotify.com/track/7cLEpyYMAgQh3x0oX6scp3) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Wake The Dead](https://open.spotify.com/album/50NFxpSSYkfxIIrd6RX7Lu) | 3:07 | 2023-05-26 | 2024-05-11 |
+| [wake up](https://open.spotify.com/track/0VOwatDTO6LFwZQgsUMY8N) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [Limerence](https://open.spotify.com/album/0motcONJsfhElYdP1r0hcQ) | 4:05 | 2025-06-06 |  |
 | [Walk Away](https://open.spotify.com/track/1TK3lggm7HZ00nQp01uUTu) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC) | [Walk Away](https://open.spotify.com/album/0kQCM0BNxFbSxPs0EFtwvN) | 3:29 | 2024-08-25 | 2025-05-10 |
 | [Walk With Me In Hell](https://open.spotify.com/track/4bwp2R1oJxwNwoc28T7iy7) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Walk With Me In Hell](https://open.spotify.com/album/7bAqjOAUci57f6be2isPZh) | 5:16 | 2022-09-02 | 2022-09-10 |
 | [Walking Blind](https://open.spotify.com/track/7HFpMpwPVsaifUGZIRfD8f) | [No Bragging Rights](https://open.spotify.com/artist/6b0TUydvuFHiCMET4SZ0L2) | [Walking Blind](https://open.spotify.com/album/46cPXcE6C6aquvvABKjLfU) | 3:17 | 2021-12-17 | 2022-02-11 |

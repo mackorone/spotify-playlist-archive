@@ -1,6 +1,6 @@
 {
   "description": "Popkillery rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i wszystkich nominowanych utwor\u00f3w w kategorii singiel roku.",
-  "num_followers": 10904,
+  "num_followers": 10900,
   "original_name": "Popkillery 2025: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
+        "name": "Prawie straci\u0142em g\u0142os",
+        "url": "https://open.spotify.com/album/6QwBC5xO7nwwmb3SzDUuAr"
+      },
+      "artists": [
+        {
+          "name": "Chivas",
+          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
+        }
+      ],
+      "duration_ms": 144472,
+      "name": "Prawie straci\u0142em g\u0142os",
+      "url": "https://open.spotify.com/track/2CJoMNzcvbpV38fKqAOaQ3"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
         "name": "Ona M\u00f3wi",
         "url": "https://open.spotify.com/album/5t2dYtdLUqfdmNjuqwknvU"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 152470,
       "name": "Ona M\u00f3wi",
       "url": "https://open.spotify.com/track/6RfHSlo0xOa5s3WnYj9xJa"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
-        "name": "Prawie straci\u0142em g\u0142os",
-        "url": "https://open.spotify.com/album/6QwBC5xO7nwwmb3SzDUuAr"
-      },
-      "artists": [
-        {
-          "name": "Chivas",
-          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
-        }
-      ],
-      "duration_ms": 144472,
-      "name": "Prawie straci\u0142em g\u0142os",
-      "url": "https://open.spotify.com/track/2CJoMNzcvbpV38fKqAOaQ3"
     },
     {
       "added_at": "2025-04-24 21:35:46",
@@ -279,6 +279,46 @@
       "duration_ms": 179571,
       "name": "Multisport",
       "url": "https://open.spotify.com/track/5P1qwR2V4a5EFDrsztWqaZ"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
+        "name": "W ZWI\u0104ZKU Z MUZYK\u0104",
+        "url": "https://open.spotify.com/album/2yVDUnBqTF1sQ0SmUqEezy"
+      },
+      "artists": [
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        }
+      ],
+      "duration_ms": 202054,
+      "name": "MAMA POWTARZA\u0141A",
+      "url": "https://open.spotify.com/track/5y0CCj9ENhM4G3gebGlnzb"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
+        "name": "TTHE GRIND",
+        "url": "https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "duration_ms": 156387,
+      "name": "RAP",
+      "url": "https://open.spotify.com/track/1F7O4MZUE2VZdJ9QbS0qB7"
     },
     {
       "added_at": "2025-04-24 21:35:46",
@@ -327,46 +367,6 @@
       "duration_ms": 184864,
       "name": "PG$",
       "url": "https://open.spotify.com/track/2Bvmq94ifFUXQmaFPR5Vis"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
-        "name": "W ZWI\u0104ZKU Z MUZYK\u0104",
-        "url": "https://open.spotify.com/album/2yVDUnBqTF1sQ0SmUqEezy"
-      },
-      "artists": [
-        {
-          "name": "Sobel",
-          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
-        },
-        {
-          "name": "Deemz",
-          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
-        }
-      ],
-      "duration_ms": 202054,
-      "name": "MAMA POWTARZA\u0141A",
-      "url": "https://open.spotify.com/track/5y0CCj9ENhM4G3gebGlnzb"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
-        "name": "TTHE GRIND",
-        "url": "https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP"
-      },
-      "artists": [
-        {
-          "name": "Otsochodzi",
-          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
-        },
-        {
-          "name": "lohleq",
-          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
-        }
-      ],
-      "duration_ms": 156387,
-      "name": "RAP",
-      "url": "https://open.spotify.com/track/1F7O4MZUE2VZdJ9QbS0qB7"
     },
     {
       "added_at": "2025-04-24 21:35:46",

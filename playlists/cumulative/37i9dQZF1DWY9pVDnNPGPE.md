@@ -4,7 +4,7 @@
 
 > 따뜻한 햇살과 가벼운 발걸음\. 행복한 음악들과 기분 좋은 산책 & 피크닉을 즐겨보세요.
 
-105 songs - 5 hr 42 min
+108 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Am I in Love?](https://open.spotify.com/track/7z48oYBNNDpcbaImgAqU2a) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Move Up K\-Billboard Pt.2](https://open.spotify.com/album/36mP7j3Ygmmim0MSqvk30U) | 2:54 | 2025-05-27 | 2025-06-06 |
 | [Antifreeze](https://open.spotify.com/track/1osW08ygBwopWmjWzqWbfJ) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Love, Yerin](https://open.spotify.com/album/5a3LnwhYHFlx82Do9iuU8t) | 4:05 | 2025-03-27 |  |
 | [ASTEARSGOBY](https://open.spotify.com/track/2rOA9vEsnpNB6L5XgmibKn) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:56 | 2025-03-27 |  |
+| [B4N \(Bye For Now\)](https://open.spotify.com/track/6t488oJlCcGfUq34T8A3LD) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [TEENS](https://open.spotify.com/album/13Xma3LR5wz4tuWyJzztk0) | 3:33 | 2025-06-10 |  |
 | [Baby I Love You](https://open.spotify.com/track/6QK081MDKmHExMa1zmCC1S) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 3:11 | 2023-11-03 | 2025-03-28 |
 | [Balloon in Love](https://open.spotify.com/track/3x6unDluyCL4v5AeGrAVGA) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Balloon in Love](https://open.spotify.com/album/2AxY2j1VRmHSoIooqtQ7p9) | 3:14 | 2025-03-27 |  |
 | [Beautiful Night](https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Seoul Check\-in OST Part 5](https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD) | 3:20 | 2023-11-03 |  |
@@ -38,11 +39,11 @@
 | [Do Re Mi Fa Sol \(Feat\. CHANGMO\)](https://open.spotify.com/track/4kchBm5YZ6wTo4bXQamLjK) | [Park Bom](https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Do Re Mi Fa Sol](https://open.spotify.com/album/5a5B1drwuHl728MeIWClZ0) | 3:04 | 2024-06-24 | 2024-10-15 |
 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 | 2023-11-03 |  |
 | [DOWN \(Juicy Juicy\)](https://open.spotify.com/track/086PZ9r1W6iNjZyL8qOqTS) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [See You in My 19th Life, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0BM8vW7jepWGUcEd2mh2EY) | 3:26 | 2023-11-03 | 2025-03-28 |
-| [Dream about You](https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Delivery Man, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF) | 2:44 | 2023-11-03 |  |
+| [Dream about You](https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Delivery Man, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF) | 2:44 | 2023-11-03 | 2025-06-11 |
 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 | 2023-11-03 |  |
 | [Everyday](https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [YUMI's Cells 2, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4) | 3:44 | 2023-11-03 |  |
-| [Falling In Love \(feat\. 10cm\)](https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [CAKE](https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8) | 3:28 | 2025-04-15 |  |
-| [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 | 2023-11-03 |  |
+| [Falling In Love \(feat\. 10cm\)](https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [CAKE](https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8) | 3:28 | 2025-04-15 | 2025-06-11 |
+| [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 | 2023-11-03 | 2025-06-11 |
 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 | 2023-11-03 |  |
 | [Fly away](https://open.spotify.com/track/4uh6rj3FryYQXMz9zLqDKL) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Fly Away](https://open.spotify.com/album/0ndTHRw7Cy3y5iIJA6VayW) | 3:40 | 2025-03-27 | 2025-05-21 |
 | [Good Morning](https://open.spotify.com/track/0XHWHGSfcicPuMXes5vnwX) | [DAHEE](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [No Worries](https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU) | 1:05 | 2024-04-05 | 2024-05-20 |
@@ -98,8 +99,10 @@
 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 | 2023-11-03 |  |
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2023-11-03 |  |
 | [Sugardance](https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B) | [Milena](https://open.spotify.com/artist/6hm6cRg1O2MWOhXX61jA2w) | [Sweeet](https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl) | 2:57 | 2024-04-05 | 2024-11-02 |
+| [Summer breeze \(with Chamsom\)](https://open.spotify.com/track/2uMhkwGoyDNeDfujSQHOOg) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [Summer breeze \(with Chamsom\)](https://open.spotify.com/album/4rIjeq5wb89TkL3SR2aOaT) | 3:33 | 2025-06-10 |  |
 | [Summer Festa](https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Summer Festa](https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM) | 3:10 | 2024-11-21 | 2025-03-28 |
 | [SummerSweet](https://open.spotify.com/track/6eFTJraZWhyEmFa6Fx3MnZ) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [SummerSweet](https://open.spotify.com/album/3djCKvCgZmdaM7aB3QlbwU) | 2:30 | 2023-11-03 | 2024-04-19 |
+| [Sunshine](https://open.spotify.com/track/6D4ZkbtBd4DshKMzStOf8x) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [SAVe tHE AiR GREEN CONCERT](https://open.spotify.com/album/7g9jb9Xf9iCZBbf46yMFVJ) | 3:46 | 2025-06-10 |  |
 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 | 2024-08-10 |  |
 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 | 2023-11-03 | 2024-08-11 |
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-11-03 | 2025-03-28 |

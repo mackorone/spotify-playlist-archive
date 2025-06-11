@@ -4,7 +4,7 @@
 
 > This is J Boog\. The essential tracks, all in one playlist.
 
-74 songs - 4 hr 31 min
+75 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Mystery](https://open.spotify.com/track/696bLELRbQE6K4l3rJODMj) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 3:22 | 2024-01-29 |  |
 | [Never Give Up](https://open.spotify.com/track/3CPOkmC658WbCY4HnPjxta) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Never Give Up](https://open.spotify.com/album/1xC4rDxccWwdxTTF3Q4uS9) | 3:08 | 2024-01-29 |  |
 | [No Other Love](https://open.spotify.com/track/2fb8kXjXaT2hkK86VrmThw) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Monterey or Bust, Vol\. 2](https://open.spotify.com/album/2zLwFPoUPCopbjHzSjyEYM) | 3:13 | 2024-01-29 |  |
-| [No Pressure \(feat\. Snoop Dogg\) \- Bonus Track](https://open.spotify.com/track/5PAsypzNOpxEOuhgxjqWaI) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Rose Petals](https://open.spotify.com/album/0c5o3uiLOPdmDTjcDOPnnu) | 3:34 | 2024-01-29 |  |
+| [No Pressure \(feat\. Snoop Dogg\) \- Bonus Track](https://open.spotify.com/track/5PAsypzNOpxEOuhgxjqWaI) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Rose Petals](https://open.spotify.com/album/0c5o3uiLOPdmDTjcDOPnnu) | 3:34 | 2024-01-29 | 2025-06-11 |
 | [OILEI](https://open.spotify.com/track/1Yy7BIwEgAN8sLoag73Wws) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Fia](https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W) | [OILEI](https://open.spotify.com/album/5QuXzMxfzTnbEjaSInFJGP) | 3:00 | 2024-09-18 |  |
 | [Pennies From Heaven](https://open.spotify.com/track/4HVqLcIwCcmSCprLVPYrqW) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Pennies From Heaven](https://open.spotify.com/album/52UFnh2PI1ZvexfhUu4m9W) | 2:43 | 2024-01-29 | 2025-02-18 |
 | [Pina Colada](https://open.spotify.com/track/2xdRUkk8QpCeByPM9e7GVD) | [Kiwini Vaitai](https://open.spotify.com/artist/5bE3HtCcvJ4gLtw8aMQpyi), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Independently Bizarre](https://open.spotify.com/album/1LIfFWLTOutqBKQI1zEISj) | 4:10 | 2024-10-25 | 2025-03-30 |
@@ -65,6 +65,7 @@
 | [Raggamuffin](https://open.spotify.com/track/5fCAt9wpOMHR0NB2WjLjQ5) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [CELEBRATION](https://open.spotify.com/album/4eBp5HfKr28qzlcpmYIdjy) | 3:25 | 2024-01-29 |  |
 | [Replay](https://open.spotify.com/track/5HoQXfTZSnjoXsyJ2HU6Qp) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Million Stylez](https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 3:17 | 2024-01-29 |  |
 | [Rose Petals](https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Wash House Ting](https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK) | 4:02 | 2024-01-29 |  |
+| [S.O.B.](https://open.spotify.com/track/4t3jJFnRmbOSg27ecYFr7x) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Heartbeat](https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD) | 3:33 | 2025-06-11 |  |
 | [See Her Again](https://open.spotify.com/track/3Ibxs1OxL9wH3jBwpIQGid) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [See Her Again \- Single](https://open.spotify.com/album/1f5ECVICe8ixZ9BBiCCrkV) | 3:09 | 2024-01-29 |  |
 | [Shape Of My Heart](https://open.spotify.com/track/3OqJ4t667BczIotFZULjIq) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Clive Hunt](https://open.spotify.com/artist/0TYvtIjZSDStLhh3wfKHy8) | [Shape Of My Heart](https://open.spotify.com/album/1ZdRMznFSc4cLTNk2eTq2W) | 4:32 | 2025-03-02 | 2025-06-09 |
 | [She Give Me Lovin'](https://open.spotify.com/track/4cQiaV2jiEELjjP588itBe) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 4:08 | 2024-07-27 | 2024-11-30 |

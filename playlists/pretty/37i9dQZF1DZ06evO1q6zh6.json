@@ -1,12 +1,12 @@
 {
   "description": "This is Judas Priest. The essential tracks, all in one playlist.",
-  "num_followers": 177011,
+  "num_followers": 177030,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAABTq6eGVM0u55APPQmzXDty",
+  "snapshot_id": "aEYkAAAAAADCU7CVr/dTBoIq+QElTzAb",
   "tracks": [
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Defenders Of The Faith",
-        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
+        "name": "Point Of Entry",
+        "url": "https://open.spotify.com/album/02mDd1vg3xHPOxpNYkZIGP"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 206333,
-      "name": "Jawbreaker",
-      "url": "https://open.spotify.com/track/3T1k6b4zMzA2bW8klvKCcX"
+      "duration_ms": 274866,
+      "name": "Desert Plains",
+      "url": "https://open.spotify.com/track/1zMXCwfwiIGPZA4kq7ideV"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Point Of Entry",
-        "url": "https://open.spotify.com/album/02mDd1vg3xHPOxpNYkZIGP"
+        "name": "Defenders Of The Faith",
+        "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
       },
       "artists": [
         {
@@ -436,25 +436,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 274866,
-      "name": "Desert Plains",
-      "url": "https://open.spotify.com/track/1zMXCwfwiIGPZA4kq7ideV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin After Sin",
-        "url": "https://open.spotify.com/album/2GXeHOkRouW0LnKBMUnVtv"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 203533,
-      "name": "Diamonds and Rust",
-      "url": "https://open.spotify.com/track/2Z17Q91PB11tzkDh0QQtd6"
+      "duration_ms": 206333,
+      "name": "Jawbreaker",
+      "url": "https://open.spotify.com/track/3T1k6b4zMzA2bW8klvKCcX"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
       "duration_ms": 189733,
       "name": "Riding on the Wind",
       "url": "https://open.spotify.com/track/4Myj2cmlFC8tsq9cqj082O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin After Sin",
+        "url": "https://open.spotify.com/album/2GXeHOkRouW0LnKBMUnVtv"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 203533,
+      "name": "Diamonds and Rust",
+      "url": "https://open.spotify.com/track/2Z17Q91PB11tzkDh0QQtd6"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "British Steel",
-        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Rapid Fire",
-      "url": "https://open.spotify.com/track/1Ym7220l4W7Yz7Yt26rWSr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Defenders Of The Faith",
         "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 287733,
       "name": "Love Bites",
       "url": "https://open.spotify.com/track/36IWziKKiPQ65IU4cBQ5l2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "British Steel",
+        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Rapid Fire",
+      "url": "https://open.spotify.com/track/1Ym7220l4W7Yz7Yt26rWSr"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "British Steel",
-        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "United",
-      "url": "https://open.spotify.com/track/5QJTiFUvKTVEwcDrek3xpU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Defenders Of The Faith",
         "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 264360,
       "name": "Freewheel Burning",
       "url": "https://open.spotify.com/track/6aQBzaeOIajIPGAMzqa23J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "British Steel",
+        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "United",
+      "url": "https://open.spotify.com/track/5QJTiFUvKTVEwcDrek3xpU"
     },
     {
       "added_at": null,

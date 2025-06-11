@@ -4,7 +4,7 @@
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-110 songs - 6 hr 45 min
+111 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [by your side](https://open.spotify.com/track/49BDJvU7zsc9nHW13ovkLC) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Brut](https://open.spotify.com/album/2JiPV8SXl4Rcvh4qOAacwy) | 2:51 | 2025-05-19 |  |
 | [Closer Than This](https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Closer Than This](https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4) | 3:43 | 2024-03-05 | 2025-04-29 |
 | [Complex \(Feat\. G\-DRAGON\)](https://open.spotify.com/track/3v7M2SwKHQZ8domnAQV2DJ) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [OO](https://open.spotify.com/album/20WQSlujuTbzd9d5V46mkc) | 3:27 | 2023-11-03 | 2024-04-19 |
-| [Dear Diary](https://open.spotify.com/track/2qgA8fMwtftAhDzkd6mhgD) | [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1) | [Dear Diary](https://open.spotify.com/album/0HDY0qVf18AP9ef5chIqxC) | 3:38 | 2023-11-03 |  |
+| [Dear Diary](https://open.spotify.com/track/2qgA8fMwtftAhDzkd6mhgD) | [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1) | [Dear Diary](https://open.spotify.com/album/0HDY0qVf18AP9ef5chIqxC) | 3:38 | 2023-11-03 | 2025-06-11 |
 | [Dear My All](https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Dear My All](https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf) | 2:41 | 2025-03-26 |  |
 | [Deeper](https://open.spotify.com/track/6T2XxCNGgkbFvyyuJNN3fQ) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEYnote \#2 \[Deeper\]](https://open.spotify.com/album/1v8S64LHiST7uozBRziaIN) | 3:36 | 2024-03-05 | 2025-03-06 |
 | [Don't be sad](https://open.spotify.com/track/6SU5PLvEAozLFwKRCI26NT) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Don't be sad](https://open.spotify.com/album/3a3bUbDgnFcZPHz6Fj4P5D) | 3:30 | 2023-11-03 | 2024-04-19 |
@@ -66,6 +66,7 @@
 | [Knees](https://open.spotify.com/track/3Sc3OHN2EnhsKwzt7hMFKQ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [CHAT\-SHIRE](https://open.spotify.com/album/3rMvAe0zU0pJRnRa7Rfc1U) | 4:42 | 2025-04-21 |  |
 | [Lean On Me](https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [A\-TEEN2 Part.1](https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa) | 3:30 | 2023-11-03 |  |
 | [Let Me Love My Youth](https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Let Me Love My Youth](https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ) | 4:08 | 2023-11-03 | 2024-04-19 |
+| [Let Me Love My Youth](https://open.spotify.com/track/4qdBPJta3BVPXCS0wJZ6yO) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Let Me Love My Youth](https://open.spotify.com/album/3wRgzgnqcva5unpKKmgZ57) | 4:08 | 2025-06-09 |  |
 | [Life goes on](https://open.spotify.com/track/2svtm7O8mhNGflEdsxsZtt) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Journey](https://open.spotify.com/album/2ZiNV3uCWEno9JIDtCaSaP) | 3:43 | 2025-03-26 | 2025-05-31 |
 | [Listen to this song](https://open.spotify.com/track/3Nei4vBEJMjEiQFThLsHrG) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Listen to this song](https://open.spotify.com/album/6Jq8RAeVPIY6mlr6uj1yir) | 3:43 | 2024-03-08 | 2025-03-27 |
 | [Lonely Night](https://open.spotify.com/track/33uSVRloZKosKDrGz4eIGS) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Lonely Night](https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA) | 3:35 | 2024-03-08 | 2024-09-11 |

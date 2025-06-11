@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125275,
+  "num_followers": 125265,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAULEKo+9AOugH4c4HQGXb2x6D65Rr7",
+  "snapshot_id": "AAAULZWFg9ZQ1SN404teh0Q1kg2KFSA4",
   "tracks": [
+    {
+      "added_at": "2025-06-10 15:01:58",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/5tU26oyOJsrG1TfSN4mCrM"
+      },
+      "artists": [
+        {
+          "name": "Ra5im",
+          "url": "https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk"
+        },
+        {
+          "name": "Arnie Way",
+          "url": "https://open.spotify.com/artist/5cHBng7fvXk2Ea8UcyR5ct"
+        }
+      ],
+      "duration_ms": 153813,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/390IAPX580IGV2Rx8dx8ot"
+    },
     {
       "added_at": "2025-06-09 14:52:58",
       "album": {

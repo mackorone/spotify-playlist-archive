@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-367 songs - 20 hr 59 min
+368 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Don't You Cry For Me \- Acoustic](https://open.spotify.com/track/2okaCGJegLC7oK8z7OXutm) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Don't You Cry For Me \(Acoustic\)](https://open.spotify.com/album/2YK6l9mVcjDHrw7cLyT7j7) | 4:35 | 2024-04-11 | 2024-06-22 |
 | [Donde](https://open.spotify.com/track/6wiwcn6GkkKEXCBwOYldLM) | [Xiuhtezcatl](https://open.spotify.com/artist/56bZk5ODMBjqUQm1z44gBE), [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi) | [Donde](https://open.spotify.com/album/74w3nm7wWosixhYgX3X9iv) | 3:07 | 2024-10-01 | 2024-10-25 |
 | [Donde El Verano Seas Tú](https://open.spotify.com/track/278SoIuUjZ2w2IcRSPjbwm) | [Belapalma](https://open.spotify.com/artist/3Pi1Q9bVKMJRc9mM80kwTY) | [Donde El Verano Seas Tú](https://open.spotify.com/album/4Pz72AICDOht0fzxkRYInb) | 2:34 | 2024-06-21 | 2024-08-24 |
-| [Dos Lágrimas, Dos Peces](https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Dos Lágrimas, Dos Peces](https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE) | 3:40 | 2024-06-21 |  |
+| [Dos Lágrimas, Dos Peces](https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Dos Lágrimas, Dos Peces](https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE) | 3:40 | 2024-06-21 | 2025-06-11 |
 | [Dove](https://open.spotify.com/track/2UBvTL4FRQd7CgBFJiZkWH) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [SUGAR EP.](https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ) | 6:09 | 2023-08-18 | 2024-03-15 |
 | [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 | 2025-02-25 | 2025-04-01 |
 | [Dynamite](https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV) | [Treadlights](https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK) | [Dynamite](https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU) | 2:31 | 2024-04-11 | 2025-06-03 |
@@ -357,6 +357,7 @@
 | [Una y otra vez](https://open.spotify.com/track/7jBP3I3IuxxPEvbsBJypdZ) | [Lou Cornago](https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v) | [Una y otra vez](https://open.spotify.com/album/26wOMg1h4v6nqQzXng3n9T) | 3:10 | 2024-04-11 |  |
 | [Unchained Melody](https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Unchained Melody](https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG) | 2:36 | 2023-03-30 |  |
 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 | 2024-04-11 | 2025-03-07 |
+| [Vendetta Letal](https://open.spotify.com/track/0trnvSTysSRypnBXCOY7wv) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [Vendetta Letal](https://open.spotify.com/album/3AsrX9wf3DiEPC2rVjQ4Hd) | 2:33 | 2025-06-07 |  |
 | [Vete Por Ahí \(feat\. Irenegarry\)](https://open.spotify.com/track/28EsJpm5RRLjVFRAp0AmIZ) | [Penélope](https://open.spotify.com/artist/6SHQwrGBd6PmgME2zFXNtr), [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [Vete Por Ahí \(feat\. Irenegarry\)](https://open.spotify.com/album/41GaP5r3xPbSu0rZpzCIlr) | 3:20 | 2024-08-23 | 2024-10-25 |
 | [Vida Nueva](https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Vida Nueva](https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp) | 2:49 | 2025-03-31 |  |
 | [VOLCANITO DORMIDO](https://open.spotify.com/track/4y4ZvtUZbm9hoB9hDBCfN2) | [Tórtel](https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9), [fffflashback](https://open.spotify.com/artist/0FQTy3xRVBrOBtijHUp4U1) | [VOLCANITO DORMIDO](https://open.spotify.com/album/5BEd1syiQ3S1vdZq6i66KZ) | 2:23 | 2024-02-08 | 2024-03-15 |

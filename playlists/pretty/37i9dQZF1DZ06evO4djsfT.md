@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,960 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,970 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Can’t Tell It All \(Remix\)](https://open.spotify.com/track/3HVeUY3tYnCg7yHe3JN0bS) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [COMA](https://open.spotify.com/album/1R9kIu20SZDjdKj3KpysYL) | 3:11 |
 | 2 | [We Still Believe \(HLY FOREVER\) \(feat\. One Church Music\)](https://open.spotify.com/track/7pS6A11LEP0ID59nC8pB6a) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [One Church Music](https://open.spotify.com/artist/2Isa1riijBI13f9xqoLJAa) | [We Still Believe \(HLY FOREVER\) \(feat\. One Church Music\)](https://open.spotify.com/album/7FK7RibZNqyMZjkZq9YVdp) | 2:51 |
-| 3 | [Church Clap](https://open.spotify.com/track/4iHrXZX4AKJOW58civjs1t) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Weight & Glory](https://open.spotify.com/album/4gR8HZVG97FFpWrzfvVM8v) | 3:17 |
-| 4 | [10K](https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:16 |
+| 3 | [10K](https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:16 |
+| 4 | [Church Clap](https://open.spotify.com/track/4iHrXZX4AKJOW58civjs1t) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Weight & Glory](https://open.spotify.com/album/4gR8HZVG97FFpWrzfvVM8v) | 3:17 |
 | 5 | [King Jesus](https://open.spotify.com/track/1o6Rm46dLxydQtmOw233jX) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:48 |
 | 6 | [No Chains](https://open.spotify.com/track/2B8OrKU8suMxTx2PcuuSIG) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [No Chains](https://open.spotify.com/album/0IyI0N52hnLYyBRoeB0EAr) | 3:42 |
-| 7 | [COUNT 'EM \(REMIX\)](https://open.spotify.com/track/16YIHrgoawGdhayXsRR6Ax) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [COUNT 'EM / TEAR OFF THE ROOF \(REMIXES\)](https://open.spotify.com/album/7klfC9qvCT6gv7ffuYSUUN) | 4:05 |
-| 8 | [Armies](https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:30 |
+| 7 | [Armies](https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:30 |
+| 8 | [COUNT 'EM \(REMIX\)](https://open.spotify.com/track/16YIHrgoawGdhayXsRR6Ax) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [COUNT 'EM / TEAR OFF THE ROOF \(REMIXES\)](https://open.spotify.com/album/7klfC9qvCT6gv7ffuYSUUN) | 4:05 |
 | 9 | [Miracles](https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:41 |
 | 10 | [God Be The Glory \(Remix\)](https://open.spotify.com/track/7yZt3dNx3wRiTTqQoOvxvS) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [God Be The Glory \(Remix\)](https://open.spotify.com/album/1lmyYK0fbipBT1a4ddHxKF) | 3:48 |
 | 11 | [Be Alright \- Remix](https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Be Alright \(Remix\)](https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 49 | [IGWT](https://open.spotify.com/track/13eWduFiVbu83T2Sm5hAIf) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [IGWT](https://open.spotify.com/album/79MvjuFzYGvLVXzURjgNsT) | 2:59 |
 | 50 | [Smoke Free](https://open.spotify.com/track/4N0kn2312eWP0ufX6O6lkZ) | [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The Messenger 4: Independents Day](https://open.spotify.com/album/0mi8gsJuVUlshWtP5yaq3U) | 4:19 |
 
-Snapshot ID: `aETSgAAAAAA27e3X4Z3bFD1NmOxczt8z`
+Snapshot ID: `aEYkAAAAAADIrfdbMAtjK201W/qymuw6`

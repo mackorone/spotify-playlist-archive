@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now!  Cover: HANABIE. \u82b1\u51b7\u3048\u3002",
+  "description": "The biggest rock artists in Japan right now!  Cover: Penthouse",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -1867,6 +1867,24 @@
     },
     {
       "album": {
+        "name": "Bye-Bye to you",
+        "url": "https://open.spotify.com/album/6Z7Mzo45DiFgAHm1DQwWvo"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248400,
+      "name": "Bye-Bye to you",
+      "url": "https://open.spotify.com/track/1YC7xtKxgK0w1ZCtVXuvzl"
+    },
+    {
+      "album": {
         "name": "California coconuts",
         "url": "https://open.spotify.com/album/6jTHO0OfY0J7FjlokGXzH9"
       },
@@ -2592,6 +2610,24 @@
       "duration_ms": 273146,
       "name": "DEVOTION",
       "url": "https://open.spotify.com/track/7H3o2welk7kIf3yOknhtAi"
+    },
+    {
+      "album": {
+        "name": "Die or feel",
+        "url": "https://open.spotify.com/album/4z8vcckbkJLXKJ6E73nzp7"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188560,
+      "name": "Die or feel",
+      "url": "https://open.spotify.com/track/14XKJkURophMkotFxR3tGl"
     },
     {
       "album": {
@@ -5222,7 +5258,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 204234,
       "name": "Inaho",
       "url": "https://open.spotify.com/track/5JLqMwyDoRbz6CVelTmDsZ"
@@ -5510,7 +5546,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 147633,
       "name": "JULIUS",
       "url": "https://open.spotify.com/track/027xIoTAUMI0WSCDKRVEZI"
@@ -7054,7 +7090,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 284173,
       "name": "MAKUAKE",
       "url": "https://open.spotify.com/track/2VTbIKHS8foduKFrcatEwN"
@@ -8251,6 +8287,24 @@
     },
     {
       "album": {
+        "name": "NO MAP",
+        "url": "https://open.spotify.com/album/2nNjIRfBjGtZYPTCsH8wSa"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235600,
+      "name": "NO MAP",
+      "url": "https://open.spotify.com/track/6oMU3ANlpnEIKu8RtxWZkR"
+    },
+    {
+      "album": {
         "name": "No more cry",
         "url": "https://open.spotify.com/album/6zpFA9iNwQHkV4xSXzIQEK"
       },
@@ -8468,7 +8522,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 221225,
       "name": "On Fire",
       "url": "https://open.spotify.com/track/6R60QSiT6Jr6vWY2Vbr0JN"
@@ -8996,6 +9050,24 @@
       "duration_ms": 151800,
       "name": "PHOENIX (Movie Ver.)",
       "url": "https://open.spotify.com/track/1lh9rvhJYUPFrGtGcJI8Ar"
+    },
+    {
+      "album": {
+        "name": "Planetary",
+        "url": "https://open.spotify.com/album/08PXW0KjcLUccvIsZBvomW"
+      },
+      "artists": [
+        {
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177489,
+      "name": "Planetary",
+      "url": "https://open.spotify.com/track/5v2bUbn70jpJcPkWL3EYwF"
     },
     {
       "album": {
@@ -10234,7 +10306,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 189557,
       "name": "Scramble Lines",
       "url": "https://open.spotify.com/track/0zQkqcbenWbuK9pasCuDDb"
@@ -10484,6 +10556,24 @@
       "duration_ms": 210440,
       "name": "SEVENTEEN",
       "url": "https://open.spotify.com/track/67iNt98UJRDjlwxdGvo2qJ"
+    },
+    {
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1wyx3QUqF5Oq6dnhMSE97Z"
+      },
+      "artists": [
+        {
+          "name": "ANORAK!",
+          "url": "https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164268,
+      "name": "Shade",
+      "url": "https://open.spotify.com/track/6ErQ6D7KHBqPsKv8wvDqoH"
     },
     {
       "album": {
@@ -15496,7 +15586,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 269374,
       "name": "\u3068\u308a\u3042\u3048\u305a\u4eca\u306f",
       "url": "https://open.spotify.com/track/3Xt6fCTkqUVAqg8EpC0aUv"
@@ -23884,7 +23974,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-29",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "\u9b54\u6cd5\u306f\u30b9\u30d1\u30a4\u30b9",
       "url": "https://open.spotify.com/track/73Jga6MTClvMJtBenx2S8V"

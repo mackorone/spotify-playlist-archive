@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Fajar Noor
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,357 likes - 92 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,412 likes - 92 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 9 | [Malam Mingguku](https://open.spotify.com/track/6eFkVyh3eh8rrn99PhdrXM) | [Shakirra Vier](https://open.spotify.com/artist/25EadvOKROXy52Cn1BF6QI), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Malam Mingguku](https://open.spotify.com/album/7gH0RtOJGhglEkxQWSRAZ4) | 3:19 |
 | 10 | [Satu Mimpiku](https://open.spotify.com/track/2qdaaqZLXjPbJLj6tfQTiN) | [Anjelia Dom](https://open.spotify.com/artist/7AiZ5XZ49xLKToi5dtQ5lJ), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Satu Mimpiku](https://open.spotify.com/album/7zQZXfqafLRyy1XQoqBS3S) | 3:12 |
 | 11 | [Kita Usahakan Lagi](https://open.spotify.com/track/1wfbqUSPWbnPjkiBA9UmoF) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Kita Usahakan Lagi](https://open.spotify.com/album/0gOmfHG7fEF7dq72Q7jl9q) | 3:53 |
-| 12 | [Arah Sejati](https://open.spotify.com/track/1vC79kjknhE878OHaHPpT8) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL), [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV), [Hendro Djasmoro](https://open.spotify.com/artist/2DvUUwMkNYZSFn9Af7bcVH) | [Arah Sejati](https://open.spotify.com/album/7as6oC5TGABoFjI6k3iGvH) | 4:31 |
+| 12 | [Arah Cinta Sejati](https://open.spotify.com/track/1vC79kjknhE878OHaHPpT8) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL), [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV), [Hendro Djasmoro](https://open.spotify.com/artist/2DvUUwMkNYZSFn9Af7bcVH) | [Arah Cinta Sejati](https://open.spotify.com/album/7as6oC5TGABoFjI6k3iGvH) | 4:31 |
 | 13 | [Pesona Sederhana](https://open.spotify.com/track/3k78Q9tWIFvJd6PNGtTofC) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Rahasia Pertama](https://open.spotify.com/album/46Vu60ForvCqH8L7l9X6BP) | 4:15 |
 | 14 | [Tinggal \(Original Soundtrack 'Tinggal Meninggal'\)](https://open.spotify.com/track/0nB7Hp6aOlc5Gh3Iq7cwzP) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Tinggal \(Original Soundtrack 'Tinggal Meninggal'\)](https://open.spotify.com/album/7tpWC5cXqD0ejf9UyyR65H) | 3:55 |
 | 15 | [Assalamualaikum Beijing](https://open.spotify.com/track/2Tol6juywKKQ8ZrVUAFRnR) | [Pia Fellini](https://open.spotify.com/artist/0Hs6I4PGiZlwnErIr9SjX4) | [Assalamualaikum Beijing](https://open.spotify.com/album/62VEKiG2wqGj0pULcRXLci) | 4:13 |

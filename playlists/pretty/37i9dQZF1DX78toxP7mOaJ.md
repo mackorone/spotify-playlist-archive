@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Celebrating 10 years of the best new rock & alternative music from independent artists\. Cover: xiao xiao
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,808 likes - 102 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,821 likes - 102 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 101 | [Tonight It's Just Us](https://open.spotify.com/track/1J1pXE8ttWSKtiuPX7TlAL) | [The Wholesome Boys](https://open.spotify.com/artist/4ThDKoYYw37S6JyoWbZQSO) | [Tonight It's Just Us](https://open.spotify.com/album/23t5RMnMqZPB6cRcrMAIHZ) | 2:53 |
 | 102 | [Silver and Black](https://open.spotify.com/track/6RlrQ2S0yoIRL3yJT8fqCA) | [Big Wheels](https://open.spotify.com/artist/0tSStztUA6Hkk2Z7tGLLtd) | [Silver and Black](https://open.spotify.com/album/4tIA1g5pW45xqyX9k1Nrfz) | 2:51 |
 
-Snapshot ID: `aD/EzQAAAAAOOronb5Tv6R/47oOPSxE9`
+Snapshot ID: `aD/EzQAAAAByrHS+HhJgQmJvz1quVc3V`

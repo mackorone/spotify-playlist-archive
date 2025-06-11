@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226831,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT"
+    },
+    {
+      "album": {
         "name": "Deadbeats & Brownies - Drum & Bass Compilation",
         "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
       },
@@ -11288,7 +11306,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 214153,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/4wAQSi076CxYXc0y37IRRH"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > als het woud een playlist zou zijn
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,191 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,196 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,19 +34,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 24 | [Owls](https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Groundwork Rising](https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh) | 4:12 |
 | 25 | [Carry You](https://open.spotify.com/track/2nN96CD98ppkuMTG9BeaIZ) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [A Little Light in the Dark](https://open.spotify.com/album/5qkitI5JItbEEx7JSDQzHQ) | 3:22 |
 | 26 | [little me](https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [little me](https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm) | 3:00 |
-| 27 | [High Up](https://open.spotify.com/track/7bw14ijp1ulc2ML5Nq2cRW) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6), [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [High Up](https://open.spotify.com/album/04RRkuSWzmRggOYO1HAvpZ) | 3:41 |
-| 28 | [Shape of Tomorrow](https://open.spotify.com/track/426yKV0zjMdLNHb5o4SuUS) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [In Light](https://open.spotify.com/album/3TN0tiqlA7kj1o7FtJ08XV) | 3:34 |
-| 29 | [Ashes](https://open.spotify.com/track/0uoJUir7zZJCGxwfh9ekKD) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Ashes](https://open.spotify.com/album/62lXmNrNMjNLBO0d7YkJRJ) | 4:42 |
+| 27 | [Ashes](https://open.spotify.com/track/0uoJUir7zZJCGxwfh9ekKD) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Ashes](https://open.spotify.com/album/62lXmNrNMjNLBO0d7YkJRJ) | 4:42 |
+| 28 | [High Up](https://open.spotify.com/track/7bw14ijp1ulc2ML5Nq2cRW) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6), [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [High Up](https://open.spotify.com/album/04RRkuSWzmRggOYO1HAvpZ) | 3:41 |
+| 29 | [Shape of Tomorrow](https://open.spotify.com/track/426yKV0zjMdLNHb5o4SuUS) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [In Light](https://open.spotify.com/album/3TN0tiqlA7kj1o7FtJ08XV) | 3:34 |
 | 30 | [April May July](https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [April May July](https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc) | 3:53 |
 | 31 | [From Up Here](https://open.spotify.com/track/3sT7VhTBLbLNUIPc7CYqXf) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Breath and Air](https://open.spotify.com/album/28CQ3p031mxAc8p2Z3SMy8) | 4:37 |
-| 32 | [The Soils Ever Changing](https://open.spotify.com/track/7JDySQnkWJuRDmmIPeiqRt) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh) | [The Soils Ever Changing](https://open.spotify.com/album/1hG1LegaM7GrrE3Mfu6rG3) | 3:59 |
-| 33 | [For Tomorrow's Sake](https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [For Tomorrow's Sake](https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi) | 3:24 |
+| 32 | [For Tomorrow's Sake](https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [For Tomorrow's Sake](https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi) | 3:24 |
+| 33 | [The Soils Ever Changing](https://open.spotify.com/track/7JDySQnkWJuRDmmIPeiqRt) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh) | [The Soils Ever Changing](https://open.spotify.com/album/1hG1LegaM7GrrE3Mfu6rG3) | 3:59 |
 | 34 | [Into The Night](https://open.spotify.com/track/10dx7ktH1k0r1SsJr7Vutu) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Lovesongs](https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi) | 3:17 |
 | 35 | [Daughters](https://open.spotify.com/track/0gkbSKHIteBnTaICk5olxg) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Daughters](https://open.spotify.com/album/47NyXXILF8gzdX8koVRirx) | 3:37 |
 | 36 | [I Miss You, I Do](https://open.spotify.com/track/6Q6DS150kHJ3bigd3EEWh6) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/29ONymW27lZQsuZc3yKxux) | 4:06 |
-| 37 | [Willow](https://open.spotify.com/track/0DrkxFAooTDpynN6S45BsM) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Willow](https://open.spotify.com/album/0PBWBfwJx9pW7E3gVYlCB0) | 4:34 |
+| 37 | [Toy Heart](https://open.spotify.com/track/0y9CKIUQGBPdeTU3Mjo389) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [Toy Heart](https://open.spotify.com/album/0af3f7ejJ7Y3nsLhVnvc9I) | 3:17 |
 | 38 | [gone is the grace](https://open.spotify.com/track/690PnBq4pAsxEoCvqcZYpX) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [antichamber](https://open.spotify.com/album/3FXBukPm1OOjYUL1UJgsPQ) | 3:38 |
-| 39 | [Toy Heart](https://open.spotify.com/track/0y9CKIUQGBPdeTU3Mjo389) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [Toy Heart](https://open.spotify.com/album/0af3f7ejJ7Y3nsLhVnvc9I) | 3:17 |
+| 39 | [Willow](https://open.spotify.com/track/0DrkxFAooTDpynN6S45BsM) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Willow](https://open.spotify.com/album/0PBWBfwJx9pW7E3gVYlCB0) | 4:34 |
 | 40 | [Peach Sky](https://open.spotify.com/track/5wT6tIjnF3wM8fBHfUr4V7) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Peach Sky](https://open.spotify.com/album/2LfKD41S5iuCa6iiT7XM5x) | 3:01 |
 | 41 | [Yvonne](https://open.spotify.com/track/4fPaBqB8bWftagOHy2xtDF) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Yvonne](https://open.spotify.com/album/3pFLJO0siLPq3r89fuJVk7) | 2:12 |
 | 42 | [Hold On](https://open.spotify.com/track/61t4YbSe1FRAcOLJZPOg5z) | [Philemon](https://open.spotify.com/artist/4ApTlSIEi4CNhGGuxxPXWq) | [Hold On](https://open.spotify.com/album/4QWgIt9q3iv2vhx7BG74x0) | 3:02 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 46 | [For Months Now \(III\)](https://open.spotify.com/track/1S4dxxePAL21FZfgjdn5k0) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [For Months Now \(III\)](https://open.spotify.com/album/7wicvkduvBHX8fEe2BMPxW) | 4:07 |
 | 47 | [Too Fast](https://open.spotify.com/track/68doYcCRB3BeHpVYwQcEDk) | [Mooneye](https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL) | [Come with Me and Hide](https://open.spotify.com/album/23pr3SrInhrmHAwBZxcJYY) | 3:58 |
 | 48 | [Thoughtless Man](https://open.spotify.com/track/2XHr4X6ykkZmv2dhK94hJd) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [How Do We Go Back To Being Normal?](https://open.spotify.com/album/7t77eQdswzlXeKdAhIeJFg) | 3:02 |
-| 49 | [Letting Go](https://open.spotify.com/track/3NpeqhzTU37SFnYaEQfKa1) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Letting Go \(Alternate Version\)](https://open.spotify.com/album/7jqAvUIPC1gt7dDXbUbVUT) | 3:29 |
-| 50 | [In My House](https://open.spotify.com/track/3eS6WoprTnjBqSxQooJys3) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [In My House / Like A Thorn](https://open.spotify.com/album/4zubTJub6ZIAwNGVsLjl6Z) | 3:03 |
+| 49 | [In My House](https://open.spotify.com/track/3eS6WoprTnjBqSxQooJys3) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [In My House / Like A Thorn](https://open.spotify.com/album/4zubTJub6ZIAwNGVsLjl6Z) | 3:03 |
+| 50 | [Letting Go](https://open.spotify.com/track/3NpeqhzTU37SFnYaEQfKa1) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Letting Go \(Alternate Version\)](https://open.spotify.com/album/7jqAvUIPC1gt7dDXbUbVUT) | 3:29 |
 
 Snapshot ID: `aEIThwAAAACa6v89h75D9h9k77oNLuZ2`

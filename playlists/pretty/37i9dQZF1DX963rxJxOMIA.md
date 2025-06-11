@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 
 > Fino y elegante, como KAROL G.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,446 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,519 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 | 59 | [Hasta Aquí Llegué](https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Hasta Aquí Llegué](https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5) | 3:08 |
 | 60 | [Desde Antes](https://open.spotify.com/track/5Ulsi8075EHzP2chQqbv86) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Valka](https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr) | [Desde Antes](https://open.spotify.com/album/2M8U9CPDLmJwTEoMEXWDZl) | 3:11 |
 
-Snapshot ID: `aDTHxwAAAAAjGD2TT3HjtajVn96thJVB`
+Snapshot ID: `aDTHxwAAAADhK6Hx9K+lcarSOPbevAnT`

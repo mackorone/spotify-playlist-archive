@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,087 likes - 43 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,089 likes - 43 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 4 | [Wanna Be on Your Mind](https://open.spotify.com/track/1i9zKDcPdW7xPq8Kgte0t0) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' against a Stone](https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z) | 3:58 |
 | 5 | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ) | 2:34 |
 | 6 | [Two Hearts](https://open.spotify.com/track/5oUk1qXeCE355VLhp5Q49E) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:53 |
-| 7 | [All I Really Wanna Do](https://open.spotify.com/track/6zwaAZzlDrap10CYFQQIsq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:43 |
+| 7 | [Sweet Things Just for You](https://open.spotify.com/track/3Njnztq7RcqwQycbOzaI8i) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:37 |
 | 8 | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/track/4nNft158MTJ5fbbPt0tb2l) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:43 |
 | 9 | [Fade Into You](https://open.spotify.com/track/0zMkPeOXFjcDJymkJl5qZD) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 4:45 |
 | 10 | [Long Lonely Road](https://open.spotify.com/track/4l0bi7g9dOp1L3QDBbCTjk) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:56 |
-| 11 | [Sweet Things Just for You](https://open.spotify.com/track/3Njnztq7RcqwQycbOzaI8i) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:37 |
+| 11 | [All I Really Wanna Do](https://open.spotify.com/track/6zwaAZzlDrap10CYFQQIsq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:43 |
 | 12 | [Smile](https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:30 |
 | 13 | [Ordinary World](https://open.spotify.com/track/1om1YO2BUOfjL7yimgAnsJ) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Ordinary World](https://open.spotify.com/album/327HasqiXSg84xOEbiNdLl) | 4:40 |
 | 14 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 |
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 27 | [Somebody To Love](https://open.spotify.com/track/5n0zsZHAP1lUwc9cGuwxhr) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:32 |
 | 28 | [Stay](https://open.spotify.com/track/0lXhdx5FL08z86AjpYPqRo) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:01 |
 | 29 | [Big Dream](https://open.spotify.com/track/5Kpt9U5o9qDUkT5RyvOwmg) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [My Black Country: The Songs of Alice Randall](https://open.spotify.com/album/55YFzxmWdGxAUFSp9zh9sN) | 2:23 |
-| 30 | [High Note \[Feat\. Stax Music Academy\]](https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Stax Music Academy](https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K) | [High Note \[Feat\. Stax Music Academy\]](https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w) | 3:02 |
+| 30 | [Into My Arms](https://open.spotify.com/track/5UpRKWaVwwLQMH7ME6Pxr0) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 4:10 |
 | 31 | [Twined & Twisted](https://open.spotify.com/track/1odjg0Ct6jcXl9hK0nx02f) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:13 |
 | 32 | [Two Roads](https://open.spotify.com/track/70mQOpzNZzO7FJvjmMWbY7) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 4:11 |
-| 33 | [Into My Arms](https://open.spotify.com/track/5UpRKWaVwwLQMH7ME6Pxr0) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 4:10 |
+| 33 | [High Note \[Feat\. Stax Music Academy\]](https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Stax Music Academy](https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K) | [High Note \[Feat\. Stax Music Academy\]](https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w) | 3:02 |
 | 34 | [Don't Start \(feat\. Valerie June\)](https://open.spotify.com/track/1NAyk3RK82m5M1IKki0caf) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [JPEG RAW](https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV) | 3:03 |
 | 35 | [Trials, Troubles, Tribulations](https://open.spotify.com/track/16sKiqhg3YdpeyJ8bsxYxM) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:02 |
 | 36 | [Why The Bright Stars Glow](https://open.spotify.com/track/7gYMQltOReqftzZDH3jWs8) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:25 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 42 | [Friendship \[Feat\. Carla Thomas, Stax Music Academy\]](https://open.spotify.com/track/65uCEtnZZyOJ9PUH3DGr8W) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj), [Stax Music Academy](https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K) | [Friendship \[Feat\. Carla Thomas and Stax Music Academy\]](https://open.spotify.com/album/5OcQ95byjeN44N1DAp3de3) | 3:39 |
 | 43 | [Happy Or Lonesome](https://open.spotify.com/track/4vzU9v60ThI1hzgGJZphI9) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Sweetheart 2014](https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx) | 1:51 |
 
-Snapshot ID: `aETSgAAAAABFxAaFZe++0iHaKf0OQRls`
+Snapshot ID: `aEYkAAAAAADjCaTTzMMlUGdNIPZU86aH`

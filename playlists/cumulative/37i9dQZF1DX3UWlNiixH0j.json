@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: Ovall",
+  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u3086\u3046\u3089\u3093\u8239",
   "name": "Edge!",
   "tracks": [
     {
@@ -4756,6 +4756,24 @@
       "duration_ms": 244754,
       "name": "Counting Dog",
       "url": "https://open.spotify.com/track/31QpOfZ2Hhg9nLVAURiYl8"
+    },
+    {
+      "album": {
+        "name": "Crack Up! / How dare you?",
+        "url": "https://open.spotify.com/album/2uXa6yAoy47EedB3FAxIad"
+      },
+      "artists": [
+        {
+          "name": "\u3086\u3046\u3089\u3093\u8239",
+          "url": "https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225097,
+      "name": "Crack Up!",
+      "url": "https://open.spotify.com/track/2M3kPxMBEePxEr6cxbjFbl"
     },
     {
       "album": {
@@ -12108,7 +12126,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 196863,
       "name": "JENGA - feat. mizuki masuda",
       "url": "https://open.spotify.com/track/1ZCX27ml054dNfafAdTKO1"
@@ -31616,7 +31634,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 291366,
       "name": "\u3068\u308f\u306e\u796d\u308a",
       "url": "https://open.spotify.com/track/1VSG9RkIORqUX2oXKNL37E"
@@ -37330,7 +37348,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 173142,
       "name": "\u4f55\u69d8",
       "url": "https://open.spotify.com/track/3JBFXZsqq0RPtIOAaIJ5VD"

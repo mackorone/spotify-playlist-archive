@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 176594,
+  "num_followers": 176661,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -455,26 +455,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/2dSzJEyeUOzNu19c5s2O0p"
-      },
-      "artists": [
-        {
-          "name": "48th St. Collective",
-          "url": "https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn"
-        },
-        {
-          "name": "Natalie Renoir",
-          "url": "https://open.spotify.com/artist/1J6oTMVgZOOKh6ytjazn87"
-        }
-      ],
-      "duration_ms": 249860,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/02ycfzy7qpE24I6NO7wPwO"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Make Someone Happy",
         "url": "https://open.spotify.com/album/1jjxzX4wNzRiTETj76qlrz"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 282702,
       "name": "Make Someone Happy",
       "url": "https://open.spotify.com/track/1NwlQ1rL7MkuJppWF7lnHb"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/2dSzJEyeUOzNu19c5s2O0p"
+      },
+      "artists": [
+        {
+          "name": "48th St. Collective",
+          "url": "https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn"
+        },
+        {
+          "name": "Natalie Renoir",
+          "url": "https://open.spotify.com/artist/1J6oTMVgZOOKh6ytjazn87"
+        }
+      ],
+      "duration_ms": 249860,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/02ycfzy7qpE24I6NO7wPwO"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Let's Get Lost",
-        "url": "https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx"
-      },
-      "artists": [
-        {
-          "name": "Johnny Summers",
-          "url": "https://open.spotify.com/artist/6uqOd0qw9avpT0vCyCZ4DX"
-        }
-      ],
-      "duration_ms": 190893,
-      "name": "Let's Get Lost",
-      "url": "https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Much Rain",
         "url": "https://open.spotify.com/album/6Rl3a9T2VTGwCita9jJTeo"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 286678,
       "name": "Much Rain",
       "url": "https://open.spotify.com/track/3R7Cy7vHabyoHeWey6n6Dn"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Let's Get Lost",
+        "url": "https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx"
+      },
+      "artists": [
+        {
+          "name": "Johnny Summers",
+          "url": "https://open.spotify.com/artist/6uqOd0qw9avpT0vCyCZ4DX"
+        }
+      ],
+      "duration_ms": 190893,
+      "name": "Let's Get Lost",
+      "url": "https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "One Less Lonely Girl",
-        "url": "https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf"
-      },
-      "artists": [
-        {
-          "name": "Nikki Ocean",
-          "url": "https://open.spotify.com/artist/6niRXUE5IPchgYvYD8Ck00"
-        }
-      ],
-      "duration_ms": 236648,
-      "name": "One Less Lonely Girl",
-      "url": "https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Don't Forget Me (When I'm Gone)",
         "url": "https://open.spotify.com/album/2cjK6kxgKI8C2cv4zYqezC"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 184250,
       "name": "Don't Forget Me (When I'm Gone)",
       "url": "https://open.spotify.com/track/6DMbtQe33VCzkhmEQbjzYc"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "One Less Lonely Girl",
+        "url": "https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf"
+      },
+      "artists": [
+        {
+          "name": "Nikki Ocean",
+          "url": "https://open.spotify.com/artist/6niRXUE5IPchgYvYD8Ck00"
+        }
+      ],
+      "duration_ms": 236648,
+      "name": "One Less Lonely Girl",
+      "url": "https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "All For One",
-        "url": "https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415"
-      },
-      "artists": [
-        {
-          "name": "Jamison Ross",
-          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
-        }
-      ],
-      "duration_ms": 320640,
-      "name": "Don't Go To Strangers",
-      "url": "https://open.spotify.com/track/1KMgmgjUCjSHMWaEx6z9Om"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/4bVk8bkgZx4JQwZzWAslTq"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 177680,
       "name": "River",
       "url": "https://open.spotify.com/track/57cy5aqH3hqdeYWZpstmaj"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "All For One",
+        "url": "https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415"
+      },
+      "artists": [
+        {
+          "name": "Jamison Ross",
+          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
+        }
+      ],
+      "duration_ms": 320640,
+      "name": "Don't Go To Strangers",
+      "url": "https://open.spotify.com/track/1KMgmgjUCjSHMWaEx6z9Om"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Softly Loudly",
-        "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
-      },
-      "artists": [
-        {
-          "name": "Emma Nabarro-Steel",
-          "url": "https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q"
-        }
-      ],
-      "duration_ms": 235539,
-      "name": "Love is Easy",
-      "url": "https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "All About You",
         "url": "https://open.spotify.com/album/2v2NobYKPTp4h3rjMDPYFA"
       },
@@ -1323,22 +1307,18 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "A Bridge",
-        "url": "https://open.spotify.com/album/6wFwaP0tCpw8N8PPYFEQIZ"
+        "name": "Softly Loudly",
+        "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
       },
       "artists": [
         {
-          "name": "TICO DE MORAES",
-          "url": "https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05"
-        },
-        {
-          "name": "Alexander Raichenok",
-          "url": "https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6"
+          "name": "Emma Nabarro-Steel",
+          "url": "https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q"
         }
       ],
-      "duration_ms": 243666,
-      "name": "A Bridge",
-      "url": "https://open.spotify.com/track/4PGyTgWYuHcMWhJBT7Rulv"
+      "duration_ms": 235539,
+      "name": "Love is Easy",
+      "url": "https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1363,6 +1343,26 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
+        "name": "A Bridge",
+        "url": "https://open.spotify.com/album/6wFwaP0tCpw8N8PPYFEQIZ"
+      },
+      "artists": [
+        {
+          "name": "TICO DE MORAES",
+          "url": "https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05"
+        },
+        {
+          "name": "Alexander Raichenok",
+          "url": "https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "A Bridge",
+      "url": "https://open.spotify.com/track/4PGyTgWYuHcMWhJBT7Rulv"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
         "name": "Enough to Be on Your Way",
         "url": "https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3"
       },
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Do It Anyway",
-        "url": "https://open.spotify.com/album/02MwUDPORy0V7VNQsaCyZa"
-      },
-      "artists": [
-        {
-          "name": "Keith Cuts",
-          "url": "https://open.spotify.com/artist/0h4NIiGxZcD1K0Vu6pO0rN"
-        }
-      ],
-      "duration_ms": 215587,
-      "name": "Do It Anyway",
-      "url": "https://open.spotify.com/track/7aolyumzZqw1og9ztMmNZG"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Love Rushes Past",
         "url": "https://open.spotify.com/album/50bndooKOa7btzN0Y4vNC0"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 160629,
       "name": "The Light",
       "url": "https://open.spotify.com/track/32vvYSbLEh6ArgrO14b05N"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Do It Anyway",
+        "url": "https://open.spotify.com/album/02MwUDPORy0V7VNQsaCyZa"
+      },
+      "artists": [
+        {
+          "name": "Keith Cuts",
+          "url": "https://open.spotify.com/artist/0h4NIiGxZcD1K0Vu6pO0rN"
+        }
+      ],
+      "duration_ms": 215587,
+      "name": "Do It Anyway",
+      "url": "https://open.spotify.com/track/7aolyumzZqw1og9ztMmNZG"
     },
     {
       "added_at": "2025-05-18 18:29:44",

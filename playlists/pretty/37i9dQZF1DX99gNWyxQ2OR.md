@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99gNWyxQ2OR.md) - [plain]
 
 > A complete collection of Chopin's Nocturnes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,837 likes - 21 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,863 likes - 21 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99gNWyxQ2OR.md) - [plain]
 | 20 | [Nocturne No\. 6 in G Minor, Op\. 15, No\. 3](https://open.spotify.com/track/7Fs8VvfKUBq9QULOmXDvJ3) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maria João Pires](https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs) | [Chopin: The Nocturnes](https://open.spotify.com/album/5sJtW03dyXYGzd7WRqT4Zk) | 4:26 |
 | 21 | [Nocturne in G Major, Op\. 37 No\. 2: Nocturne No\. 12 in G Major, Op\. 37, No\. 2](https://open.spotify.com/track/2QPzPGD9PnzWqnrOGP8yBp) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Nocturnes, Vol\. 2](https://open.spotify.com/album/0FP9XagwY9S38aFqtqYJGC) | 5:43 |
 
-Snapshot ID: `AAAAABJGkz+DoRLPsGymWtsPOWa0jSsT`
+Snapshot ID: `Z4EJqQAAAAAdFKJKyJkqB06Gqz165dRq`

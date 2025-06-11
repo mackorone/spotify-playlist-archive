@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9xitos urbanos de Latinoam\u00e9rica con Young Miko.",
+  "description": "\u00c9xitos urbanos de Latinoam\u00e9rica con Mora.",
   "name": "Hits Urbanos",
   "tracks": [
     {
@@ -3328,7 +3328,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 146000,
       "name": "CELOSA",
       "url": "https://open.spotify.com/track/24oq20t1LgJiIoFDrbCiDF"
@@ -7959,6 +7959,24 @@
     },
     {
       "album": {
+        "name": "FERXXO VOL X: Sagrado",
+        "url": "https://open.spotify.com/album/3PfMmFVUx9oJUFvnDf76Iz"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187933,
+      "name": "Ferxxo 500",
+      "url": "https://open.spotify.com/track/2QVkY2pDftaLXyhltDaOaD"
+    },
+    {
+      "album": {
         "name": "Fiesta",
         "url": "https://open.spotify.com/album/6lBcWzcBdPmgl6IUtM4Naz"
       },
@@ -10174,6 +10192,24 @@
       "duration_ms": 305823,
       "name": "Klonk - Remix",
       "url": "https://open.spotify.com/track/4RG1T9AqbSmOBQlUpbY50s"
+    },
+    {
+      "album": {
+        "name": "Korazong",
+        "url": "https://open.spotify.com/album/1HVqPBOI5b3OTpbEqxvDUM"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174048,
+      "name": "Korazong",
+      "url": "https://open.spotify.com/track/43J20QsNeYhG23RcLHIGIn"
     },
     {
       "album": {
@@ -22834,16 +22870,16 @@
           "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         },
         {
+          "name": "Sebastian Ledher",
+          "url": "https://open.spotify.com/artist/6KUSLPXO8e94sZWVksv4nn"
+        },
+        {
           "name": "Tayson Kryss",
           "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
         },
         {
           "name": "Joseph Ren",
           "url": "https://open.spotify.com/artist/0TG7p0ATDDBfhBjl9EBvIb"
-        },
-        {
-          "name": "Sebastian Ledher",
-          "url": "https://open.spotify.com/artist/6KUSLPXO8e94sZWVksv4nn"
         }
       ],
       "date_added": "2025-06-06",
@@ -23028,7 +23064,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 172427,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"

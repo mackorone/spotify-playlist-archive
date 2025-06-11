@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Juicce
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,820 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,823 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [She The Last One](https://open.spotify.com/track/1OGikFMQXWG41hK6QWIGjK) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [She The Last One](https://open.spotify.com/album/1FCDz3JcIg62PMInMhubHQ) | 3:22 |
 | 50 | [Paper Boats](https://open.spotify.com/track/66EaDuPoCEvvz8GBn1bXL9) | [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv), [Riascode](https://open.spotify.com/artist/6sKceWIUPv10lfblPrUQDM) | [Paper Boats](https://open.spotify.com/album/49R4RBVBH4sktSSTO5Fg1u) | 4:15 |
 
-Snapshot ID: `aC/lBQAAAACorGumpbwAUxxolz+SID5h`
+Snapshot ID: `aC/lBQAAAAAbDTAntv7vmB6HHM+hoYHD`

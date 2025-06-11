@@ -4,7 +4,7 @@
 
 > furry, ΘΔ, indie\. Cover: <a href="https://open.spotify.com/artist/5ZJuxb6oluPvuK2okvCAKk?si=6m21\-sBBRUCQL8sQjE9CwA">Furry Loser</a> \|\| Visit our <a href="https://indieanthro.com">website</a> for more ✨
 
-212 songs - 11 hr 31 min
+216 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Myst](https://open.spotify.com/track/1h7ihalj2DJTymArgI1kKB) | [Sundae Wuz](https://open.spotify.com/artist/4Dkcq4Wcrn3a4xeQsHwuW7) | [Myst](https://open.spotify.com/album/43HZJFG2LN3ykKLQ750G9R) | 5:16 | 2025-05-26 |  |
 | [Myst](https://open.spotify.com/track/3DhIrLoCwQE90Oar2LCYJX) | [Sundae Wuz](https://open.spotify.com/artist/4Dkcq4Wcrn3a4xeQsHwuW7) | [Other Ones](https://open.spotify.com/album/1qmUvhgFBzhlarJXgphKpn) | 5:16 | 2025-03-21 | 2025-05-27 |
 | [Myth](https://open.spotify.com/track/7gejQy4gJderBxIGMjx4dw) | [acloudyskye](https://open.spotify.com/artist/5OeSHuvHTS9qUgAUTt3GIR) | [Myth](https://open.spotify.com/album/3687gTmSo080xPk0968omL) | 4:01 | 2024-12-22 |  |
+| [Navigator](https://open.spotify.com/track/5oZnpwPZW0jOpobzSG7l3O) | [Keep it Together](https://open.spotify.com/artist/3ofzJ1WKyqzCkAQLC9SIA8) | [Navigator](https://open.spotify.com/album/2KnxoUvGsuTXBMIuBqfdfv) | 4:23 | 2025-06-10 |  |
 | [need](https://open.spotify.com/track/36AchlZMZsT0Sm64iQEvWh) | [Ivory Rasmus](https://open.spotify.com/artist/01mSRpKFT1xUPcIWCMnVwo) | [need](https://open.spotify.com/album/0IUKLtbSMWBTIKRa5aXah1) | 3:50 | 2024-09-05 |  |
 | [Need U](https://open.spotify.com/track/18R7xqM7EmxYyJ1EB0JDBh) | [SOLARDOG](https://open.spotify.com/artist/0ERVZTPaOTcCU411qHpCV5), [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [Need U](https://open.spotify.com/album/4X6kdKJj5esPAbRhXfbU8Z) | 2:55 | 2023-07-27 |  |
 | [Night In The Woods](https://open.spotify.com/track/4qTniG6KZVupxDFCVBlkUh) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Night In The Woods](https://open.spotify.com/album/4nQXAJOfPOBtQX0rx6YvBw) | 3:39 | 2025-05-26 |  |
@@ -180,7 +181,7 @@
 | [Sheep Theme](https://open.spotify.com/track/4BeOHtksAeQvGcIm5zPRzH) | [samlrc](https://open.spotify.com/artist/68283IIASCzcDv3Q4BSV1L) | [A Lonely Sinner](https://open.spotify.com/album/0G92BFcckQ8LKXhxmEvLat) | 3:05 | 2024-03-20 |  |
 | [Should I Consider](https://open.spotify.com/track/10tHXodePBcZIN2St0cMlT) | [Taitoki](https://open.spotify.com/artist/0pER9ND48xKGZvGPZKEobC) | [Sapphic Ends](https://open.spotify.com/album/5sUCs4A0qvZCimXphQTFzg) | 2:24 | 2024-12-30 |  |
 | [silly dancers & necromancers](https://open.spotify.com/track/3j98I7tc7XzE4nOeQwbYuB) | [Starri](https://open.spotify.com/artist/5bpxCCdYWV0fZxJhrZEye5) | [B4EVER](https://open.spotify.com/album/2C1hIryExseP7EjpqHIh08) | 2:06 | 2024-12-28 |  |
-| [Slow Start](https://open.spotify.com/track/2XHym52UhEAbxSymPMUV64) | [Keep it Together](https://open.spotify.com/artist/3ofzJ1WKyqzCkAQLC9SIA8) | [Departures](https://open.spotify.com/album/0UxfpuOL93usUyfqRodI2Y) | 3:50 | 2025-01-31 |  |
+| [Slow Start](https://open.spotify.com/track/2XHym52UhEAbxSymPMUV64) | [Keep it Together](https://open.spotify.com/artist/3ofzJ1WKyqzCkAQLC9SIA8) | [Departures](https://open.spotify.com/album/0UxfpuOL93usUyfqRodI2Y) | 3:50 | 2025-01-31 | 2025-06-11 |
 | [SLOWDANCE](https://open.spotify.com/track/1uMf1CtoOAetmkoDe5uRXP) | [Shinemachine](https://open.spotify.com/artist/54UmANd8X3X3hrK78sdGaD) | [Shinemachine](https://open.spotify.com/album/4MvnA2bRmpUxwzsgpaUrlA) | 4:01 | 2024-10-07 |  |
 | [slugs, shells, pellets](https://open.spotify.com/track/0vz83YM6YiPaHn8W9gIIhm) | [weareallmadeofstardust](https://open.spotify.com/artist/11Pqmw0qGx32PYZI49hCMi) | [Do You Ever Stop Whining ?](https://open.spotify.com/album/3VUhus5UNV3p7Y5hY1uYue) | 3:12 | 2025-03-18 |  |
 | [Snow](https://open.spotify.com/track/0511sFKHLfWzdwcfMhbDIJ) | [Bałtyk](https://open.spotify.com/artist/6DvaD5SDKpAtta09armsv9) | [Hope You Can Hear Me Now](https://open.spotify.com/album/4eHctZOtL6X6DixAKYvGfM) | 4:36 | 2024-06-21 |  |
@@ -194,14 +195,17 @@
 | [stomachache](https://open.spotify.com/track/2Rrob4iFLTexLwFKLxGyjE) | [robin's ghost](https://open.spotify.com/artist/7wluTUzWSlXbe33U5TC94G), [coldpizza](https://open.spotify.com/artist/5RvcrWaucYqDPlrfnMBzDj) | [stomachache](https://open.spotify.com/album/0yGc2nOqI0CsuT3S0sQDd4) | 3:11 | 2025-02-28 |  |
 | [Story](https://open.spotify.com/track/33gdIeqbwFeunpdgTuVApk) | [Really Great](https://open.spotify.com/artist/0qpp5B7UKGpjPwTaVd4XEn) | [Be The Light On](https://open.spotify.com/album/0CuEiQUJtWzCzBkLZ1hfcp) | 2:01 | 2025-02-28 |  |
 | [Streetlight By Streetlight](https://open.spotify.com/track/7nns2Zg9w0wuFbnYZiFEHC) | [This Is The Glasshouse](https://open.spotify.com/artist/090FV8x5cK3p3WwKnQXyFk) | [867](https://open.spotify.com/album/58Llb22QYZsh84c79agEnc) | 5:36 | 2024-11-14 |  |
+| [swallow](https://open.spotify.com/track/711oPUbP1XAhjLMYx8KOoT) | [kendall :3](https://open.spotify.com/artist/2hiVR9qgIJowlO17AE5mhY) | [oil](https://open.spotify.com/album/2GSihrGrtDoUz8gpXLM031) | 4:31 | 2025-06-10 |  |
 | [the bug song](https://open.spotify.com/track/1UZEdQs6bcIAV8r6Fk6lcA) | [flower.puppy](https://open.spotify.com/artist/0jjZSbhJWA1exGhWKwQ2hM) | [the bug song](https://open.spotify.com/album/3Bl43kD9WX4Lldy5tpJrEj) | 1:46 | 2025-03-07 | 2025-05-11 |
-| [The Catastrophe \(Good Luck With That, Man\)](https://open.spotify.com/track/2HKHccmnwpsx0FDGiehYoi) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [The Scholars](https://open.spotify.com/album/3EuXbeOZZukUbq4ZdreJzV) | 5:28 | 2025-05-10 |  |
+| [The Catastrophe \(Good Luck With That, Man\)](https://open.spotify.com/track/0yXlQbT5xqQDP2wij6XQpy) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [The Catastrophe \(Good Luck With That, Man\)](https://open.spotify.com/album/4iX0TASlBHTxQFWwL3ve7d) | 5:28 | 2025-06-10 |  |
+| [The Catastrophe \(Good Luck With That, Man\)](https://open.spotify.com/track/2HKHccmnwpsx0FDGiehYoi) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [The Scholars](https://open.spotify.com/album/3EuXbeOZZukUbq4ZdreJzV) | 5:28 | 2025-05-10 | 2025-06-11 |
 | [The dark lord Sauron stole my lunch money](https://open.spotify.com/track/6KyygJ2xLSNy3HdgLyd4t4) | [Muffin Fox](https://open.spotify.com/artist/3pheL5K8VpifPbrDlCwG6Q) | [The dark lord Sauron stole my lunch money](https://open.spotify.com/album/7Byh7B3jl7iOg3zaTxvp3D) | 4:57 | 2024-10-18 | 2025-03-14 |
 | [the feeling of seeing a flower](https://open.spotify.com/track/52T9XElKa5yzPT6h2vsdhH) | [flower.puppy](https://open.spotify.com/artist/0jjZSbhJWA1exGhWKwQ2hM) | [the feeling of seeing a flower](https://open.spotify.com/album/71Ccrq5MbpqHZXpkBIWpCh) | 4:34 | 2025-05-10 | 2025-05-27 |
 | [The Great Expedition To Find A Cure For Irony Poisoning \(Ft\. Hexosphere\)](https://open.spotify.com/track/5o1VKXqsuv9QsEPdRkXlFh) | [Plasma Cutter](https://open.spotify.com/artist/4GLMMafAflOXujxZdh4SNW), [Hexosphere](https://open.spotify.com/artist/3MRjjErWqC747FhXSqCzVt) | [III: Swords And Potions And Crystals And Sweet Tea And Flowers And Spell Scrolls And Drawings Of Dogs And Some Songs](https://open.spotify.com/album/2kbXmjnnqNhG1wdxg4Y8ZR) | 3:36 | 2024-06-23 | 2024-12-23 |
 | [The Greatest Showman](https://open.spotify.com/track/5QnjlKGfCXutGR4lZDoyry) | [Furry Loser](https://open.spotify.com/artist/5ZJuxb6oluPvuK2okvCAKk) | [Painting Clouds and Mountaintops](https://open.spotify.com/album/43d8wYLX8bTRf00ikYPGSE) | 3:36 | 2024-09-26 | 2025-05-11 |
 | [THE KILL](https://open.spotify.com/track/5UZgQsvQ9LVca5XqDRFbOb) | [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [THE KILL](https://open.spotify.com/album/14fINCadFpJCCbREk6JVLf) | 3:11 | 2023-08-14 |  |
-| [thembo](https://open.spotify.com/track/5mbwsXdg5Bdd2tyqqceOvZ) | [Werewing](https://open.spotify.com/artist/6msaXg2oHJLtyWD4PoZpkE) | [thembo](https://open.spotify.com/album/4GKLqydauHPJFHm6pnDYEz) | 1:58 | 2024-10-18 |  |
+| [thembo](https://open.spotify.com/track/52IJSH9go3OFr6PvoL6dOi) | [Werewing](https://open.spotify.com/artist/6msaXg2oHJLtyWD4PoZpkE) | [THEMBO](https://open.spotify.com/album/1y2HmkTI4JaQKI3pz5HULV) | 1:58 | 2025-06-10 |  |
+| [thembo](https://open.spotify.com/track/5mbwsXdg5Bdd2tyqqceOvZ) | [Werewing](https://open.spotify.com/artist/6msaXg2oHJLtyWD4PoZpkE) | [thembo](https://open.spotify.com/album/4GKLqydauHPJFHm6pnDYEz) | 1:58 | 2024-10-18 | 2025-06-11 |
 | [throwback](https://open.spotify.com/track/7e9388nNJNPvpgcr7sqeid) | [polyana](https://open.spotify.com/artist/79jK2cwnyhEvk0PBwqzrbH) | [throwback](https://open.spotify.com/album/6mPGMWDewCE93cUfGJe63q) | 3:41 | 2025-04-18 |  |
 | [Timekiller](https://open.spotify.com/track/3B6Pmp1a7P912E8fAYcBen) | [Catasham](https://open.spotify.com/artist/5x6DpBYRtpgfgRw2VqxSri) | [Clarity](https://open.spotify.com/album/3v2TvCKleFj0IqpbEayg1N) | 2:38 | 2025-02-28 | 2025-03-14 |
 | [TOO MANY PEOPLE](https://open.spotify.com/track/1Oscj77jtKlkUf9CXB7VYZ) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [RAVEPOP](https://open.spotify.com/album/1mLzn3i4NwDW4cOg2wJsig) | 2:27 | 2024-09-06 |  |
@@ -218,7 +222,7 @@
 | [windwatcher](https://open.spotify.com/track/6rUcxkEDXfIPMIE9Im0tfi) | [thatcherblackwood](https://open.spotify.com/artist/44OljglvOclaPuzzgY2oUs) | [windwatcher](https://open.spotify.com/album/2uaL3PJ6h22Ll0kRFNjMcZ) | 4:36 | 2024-08-17 | 2025-04-19 |
 | [with you](https://open.spotify.com/track/3RYHgICSwjphWmh8ZmRxC2) | [wisp](https://open.spotify.com/artist/7scInd2tt8fsEC4LdYAASv) | [Brumal](https://open.spotify.com/album/044HHaGRFOn1RhKR9q1ea8) | 2:39 | 2025-02-05 |  |
 | [Worms](https://open.spotify.com/track/4fl81glI9CLw1yViHUEhtN) | [delcarmen](https://open.spotify.com/artist/0HTHt3sXvPqKnV9KfPzOgU) | [Worms](https://open.spotify.com/album/7AGBkxuwEykGu6mQqBX85j) | 3:36 | 2024-11-08 |  |
-| [writhe](https://open.spotify.com/track/1NBMyjqsztVn5i651PMq5n) | [kendall :3](https://open.spotify.com/artist/2hiVR9qgIJowlO17AE5mhY) | [oil](https://open.spotify.com/album/2GSihrGrtDoUz8gpXLM031) | 4:25 | 2025-05-10 |  |
+| [writhe](https://open.spotify.com/track/1NBMyjqsztVn5i651PMq5n) | [kendall :3](https://open.spotify.com/artist/2hiVR9qgIJowlO17AE5mhY) | [oil](https://open.spotify.com/album/2GSihrGrtDoUz8gpXLM031) | 4:25 | 2025-05-10 | 2025-06-11 |
 | [二足歩行](https://open.spotify.com/track/1AAsB7uw10xpaQApORmlOs) | [Monday9](https://open.spotify.com/artist/7l2o5EB1sbrUXVmor8CApI) | [A Bucket of Soil](https://open.spotify.com/album/29ENAquIxThmwGjbObpVUK) | 2:55 | 2024-07-13 | 2025-05-27 |
 
 \*This playlist was first scraped on 2024-12-14. Prior content cannot be recovered.

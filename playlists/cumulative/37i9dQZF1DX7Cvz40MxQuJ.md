@@ -4,7 +4,7 @@
 
 > It’s giving lantern\-lit banquets, medieval courts and knights in shining armour✨
 
-69 songs - 3 hr 38 min
+70 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Consolations, S\. 172: III\. Lento placido \(Adapted for Solo Harp by Sylvain Blassel\)](https://open.spotify.com/track/1vukkWhRhTW19lUAU2ID6s) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Antoine Malette\-Chénier](https://open.spotify.com/artist/7u8xUTvSlv1iqCaP3fiIuP) | [Consolations](https://open.spotify.com/album/2Bhs0aU5JCRbRupsJ7r7mR) | 4:53 | 2025-04-18 |  |
 | [Deep River I](https://open.spotify.com/track/1wZYRFn2pFmAICpBLhzCVC) | [Samuel Coleridge\-Taylor](https://open.spotify.com/artist/0fhN6BHa9pN66ZnsrI5NUR), [Ashley Jackson](https://open.spotify.com/artist/0rJo9egOhkNC9N78nGkyXk) | [Deep River](https://open.spotify.com/album/2yVBodoUGmZmw4RW64og0T) | 4:47 | 2025-04-18 |  |
 | [Dvořák: Rusalka, Op\. 114, Act 1: Song to the Moon \(Transc\. Lenaerts for Harp\)](https://open.spotify.com/track/5nOSt81jKAUYZpTdjcfEOA) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Anneleen Lenaerts](https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I) | [Vienna Stories](https://open.spotify.com/album/4h7nbnfSBW24nzK8iaMATx) | 5:53 | 2025-04-18 | 2025-05-10 |
+| [Emerald and Stone](https://open.spotify.com/track/1i1qDioBSMR3YQ2xKSi75m) | [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m), [Kammerorchester Basel](https://open.spotify.com/artist/1fY6hh9OH6MirLiogDiwPU) | [Emerald and Stone](https://open.spotify.com/album/4EQe1P20TVDfxwRKDp3El5) | 2:15 | 2025-06-10 |  |
 | [Fantasia on Greensleeves](https://open.spotify.com/track/7ewaVft9jaB3eXlcvWPiVI) | [Ralph Vaughan Williams](https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF), [Sir Neville Marriner](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) | [Vaughan Williams: Tallis Fantasia; Fantasia on Greensleeves; The Lark Ascending etc.](https://open.spotify.com/album/49fD8z3scrgWpCnfkGtbSI) | 4:15 | 2025-01-10 |  |
 | [Fantazia Upon a Ground, Z\. 731](https://open.spotify.com/track/5i0BVXQhBB4HsFvMUsv3o1) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [Les Musiciens De Saint\-Julien](https://open.spotify.com/artist/3BOobwybtBO4mg4PDHRL5Q), [François Lazarevitch](https://open.spotify.com/artist/1w0VWTx6MNhPyOiUdqlEwm) | [Purcell: Songs & Dances](https://open.spotify.com/album/1t1qYcX0EJkhIFEXjUV5JK) | 4:46 | 2025-01-10 |  |
 | [Festival and Faire](https://open.spotify.com/track/1t15ZwSoumPAgRGZhrVH4h) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [The Sims Medieval, Vol\. 1 \(Original Score Soundtrack\)](https://open.spotify.com/album/49qqOOK7Ah3FBeGwP3Lg7A) | 2:08 | 2025-01-10 |  |

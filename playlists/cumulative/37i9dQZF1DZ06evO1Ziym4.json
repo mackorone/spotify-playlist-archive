@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "The Spaghetti Incident?",
+        "url": "https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208506,
+      "name": "Down On The Farm",
+      "url": "https://open.spotify.com/track/1AU7nLoyAO170E6V5iZkEM"
+    },
+    {
+      "album": {
         "name": "Use Your Illusion I",
         "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
       },
@@ -736,7 +754,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 191826,
       "name": "Raw Power",
       "url": "https://open.spotify.com/track/2foNAckCzsyD0HJUbmhTZJ"

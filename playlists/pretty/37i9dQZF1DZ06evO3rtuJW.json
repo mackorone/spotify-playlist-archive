@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 34065,
+  "num_followers": 34066,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAACb1bZLMqTKCwT6DhDiFZ2s",
+  "snapshot_id": "aEYkAAAAAACUtNl2O3oI1znQtS53HJhq",
   "tracks": [
     {
       "added_at": null,
@@ -95,6 +95,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 210586,
+      "name": "idk that bitch (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/0n56YWlnKfK1meIGHwMFWt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "How To Bip",
         "url": "https://open.spotify.com/album/6alCVCNscTKCbyU2oGsvjg"
       },
@@ -115,26 +135,6 @@
       "duration_ms": 154777,
       "name": "How To Bip",
       "url": "https://open.spotify.com/track/7btm6Amqf5fcSttlOxo00y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 210586,
-      "name": "idk that bitch (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/0n56YWlnKfK1meIGHwMFWt"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PTSD (Deluxe)",
-        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 196659,
-      "name": "Cap Guns",
-      "url": "https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hall of Fame",
         "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
@@ -771,22 +755,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNDERWORLD",
-        "url": "https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV"
+        "name": "PTSD (Deluxe)",
+        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
       },
       "artists": [
-        {
-          "name": "Skrilla",
-          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
-        },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 181080,
-      "name": "Swerve (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC"
+      "duration_ms": 196659,
+      "name": "Cap Guns",
+      "url": "https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG"
     },
     {
       "added_at": null,
@@ -803,6 +783,26 @@
       "duration_ms": 153329,
       "name": "Still Dangerous",
       "url": "https://open.spotify.com/track/5vc2kF0dDGa4zJ3bKFR6LP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNDERWORLD",
+        "url": "https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV"
+      },
+      "artists": [
+        {
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 181080,
+      "name": "Swerve (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC"
     },
     {
       "added_at": null,
@@ -903,6 +903,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Humble Beast (Deluxe)",
+        "url": "https://open.spotify.com/album/46Shwm91xl9opm3MadNEGn"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 209786,
+      "name": "Man Now",
+      "url": "https://open.spotify.com/track/6e8qzxdh2JPbPqGCUXva59"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "#FreeMyHoodFuckYoHood: Bounce Out Edition",
         "url": "https://open.spotify.com/album/2ROAftc11A5ptP94CNoPrD"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 190511,
       "name": "U Know Dat (feat. G Herbo)",
       "url": "https://open.spotify.com/track/6iKSh4ElPgyGlA5DY7ljLk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Humble Beast (Deluxe)",
-        "url": "https://open.spotify.com/album/46Shwm91xl9opm3MadNEGn"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 209786,
-      "name": "Man Now",
-      "url": "https://open.spotify.com/track/6e8qzxdh2JPbPqGCUXva59"
     },
     {
       "added_at": null,
@@ -979,18 +979,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome to Fazoland (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
+        "name": "Beyond Bulletproof",
+        "url": "https://open.spotify.com/album/3Ud5r7QHfMF1UhH8a5M1cH"
       },
       "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 165195,
-      "name": "Wayback",
-      "url": "https://open.spotify.com/track/0eEHWuhv5CXJUokBDmehfs"
+      "duration_ms": 243530,
+      "name": "Body Count (feat. King Von & G Herbo)",
+      "url": "https://open.spotify.com/track/30AW1wD8qK1Bqw3Z44xs3f"
     }
   ],
   "unique_name": "This Is G Herbo",

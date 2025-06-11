@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-03-06",
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "name": "LA LLISTA DE FLAIXBAC (1/6/2025)",
+  "name": "LA LLISTA DE FLAIXBAC (8/6/2025)",
   "tracks": [
     {
       "album": {
@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "6 DE FEBRERO",
+        "url": "https://open.spotify.com/album/6sD0JDqmxDkCDs74Jy6wFu"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175584,
+      "name": "6 DE FEBRERO",
+      "url": "https://open.spotify.com/track/2TCUMmklsJTLWHnoU4mSQ4"
+    },
+    {
+      "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
         "url": "https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh"
       },
@@ -114,7 +132,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 171249,
       "name": "A Fora Plou",
       "url": "https://open.spotify.com/track/2PoCr1gM9yoLnMWpqUMCzJ"
@@ -1020,6 +1038,24 @@
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "album": {
+        "name": "Espresso Macchiato",
+        "url": "https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj"
+      },
+      "artists": [
+        {
+          "name": "Tommy Cash",
+          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173746,
+      "name": "Espresso Macchiato",
+      "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
     },
     {
       "album": {
@@ -2760,7 +2796,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95MHDa0jj42.md) - [plain]
 
 > sunny bossa beats to chill, focus or study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,643 likes - 70 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,753 likes - 70 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

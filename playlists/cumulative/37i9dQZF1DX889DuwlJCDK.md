@@ -2,9 +2,9 @@
 
 ### [青春と一瞬](https://open.spotify.com/playlist/37i9dQZF1DX889DuwlJCDK)
 
-> 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: Maki
+> 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: reGretGirl
 
-1,192 songs - 2 day 23 hr 59 min
+1,193 songs - 3 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Beauty and the Beast](https://open.spotify.com/track/60AlhgBWHsGEcKXix3FFNZ) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [Beauty and the Beast](https://open.spotify.com/album/3VfPRyqrBengV19luJEGNz) | 4:10 | 2024-04-02 | 2024-04-19 |
 | [Because of the Night](https://open.spotify.com/track/4S5mEnMUixAl2ZKFqaayen) | [コロブチカ](https://open.spotify.com/artist/13DtUTAgjkfoHgimlJQYwC) | [Because of the Night](https://open.spotify.com/album/6vMJUHLvZHaVBCRFssJdG8) | 3:38 | 2025-03-11 | 2025-03-19 |
 | [BIRTHDAY](https://open.spotify.com/track/4aULuHlNkw0JtUgarkgO4c) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [RE:BIRTH](https://open.spotify.com/album/1lzeSqAU7CcMDjZo23tslk) | 5:02 | 2023-09-26 | 2023-10-04 |
+| [Blue Hour](https://open.spotify.com/track/7nlac1q068F2BRrgetyznl) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [LOVERS](https://open.spotify.com/album/0EZysk3Db5NNZJoJ51PTSE) | 3:30 | 2025-06-11 |  |
 | [Blue light](https://open.spotify.com/track/4maIfu6RioRLlTBOeTnP5g) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Blue light](https://open.spotify.com/album/7CgmEdA9U6sm9bneO5gc6M) | 3:55 | 2023-07-27 | 2024-03-13 |
 | [Blue Train](https://open.spotify.com/track/4MxUWX3CnhSh1OMpe8Vr1E) | [雪国](https://open.spotify.com/artist/7DDVGuK8o8mZF7zYtU4yjD) | [Lemuria](https://open.spotify.com/album/2KoR8oWfmpXg3VSCrYcQvo) | 3:44 | 2025-01-14 | 2025-03-30 |
 | [Blue Youth](https://open.spotify.com/track/04zTPJMXog2HpYK2mK5Wdg) | [Hikarinonakani](https://open.spotify.com/artist/7v1EcexaWSP0Ra29bQCsnm) | [Blue Youth](https://open.spotify.com/album/5fQudcd31VvtMr4IvFEWwo) | 1:48 | 2023-07-27 | 2023-08-29 |
@@ -660,7 +661,7 @@
 | [カレイドスコウプ](https://open.spotify.com/track/4VIQJIfEgvSr2p1AuUVHei) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [カレイドスコウプ](https://open.spotify.com/album/1cM6c96lnb3MLqUOHX5qyM) | 3:28 | 2023-12-19 | 2023-12-21 |
 | [カーニバル](https://open.spotify.com/track/0AeRBtvSVRgoOOqH6wpVj7) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [カーニバル](https://open.spotify.com/album/07gRQAuJ9IQerIveLKsDkS) | 3:31 | 2025-06-03 |  |
 | [カーニバル](https://open.spotify.com/track/5XGhwqu1TB391if1pD4lje) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:23 | 2023-11-14 | 2024-12-18 |
-| [キスをしようよ](https://open.spotify.com/track/5cwTnNBcsfuZZjhJpCQGvq) | [少年キッズボウイ](https://open.spotify.com/artist/4KYktd3fg1vqZbi5R7Eoa5) | [キスをしようよ](https://open.spotify.com/album/00BjawMqEgTaDiQAYNPgpp) | 2:55 | 2025-05-21 |  |
+| [キスをしようよ](https://open.spotify.com/track/5cwTnNBcsfuZZjhJpCQGvq) | [少年キッズボウイ](https://open.spotify.com/artist/4KYktd3fg1vqZbi5R7Eoa5) | [キスをしようよ](https://open.spotify.com/album/00BjawMqEgTaDiQAYNPgpp) | 2:55 | 2025-05-21 | 2025-06-11 |
 | [キディーボーイ](https://open.spotify.com/track/3lX6GbHiomkQyiuRbelFyo) | [AHUB](https://open.spotify.com/artist/3PlNRhsKLFl3TFw5IJIGTs) | [UMANITY](https://open.spotify.com/album/1LFgTfea3yj1Hn8d5Wqiic) | 3:06 | 2025-04-01 | 2025-04-09 |
 | [キミに似合うワタシ](https://open.spotify.com/track/2xrSxmUs0hCpUwrb9SKtXO) | [ガラクタ](https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA) | [キミに似合うワタシ](https://open.spotify.com/album/6W7KBMDQNupEJRTwsCH0FX) | 3:30 | 2025-05-06 | 2025-06-04 |
 | [キャラメルパイ](https://open.spotify.com/track/2WCCNii7NpoIgPdVOeu8Dy) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [キャラメルパイ](https://open.spotify.com/album/4W412FdVRRX5RFRVGgiPPh) | 3:38 | 2025-04-08 | 2025-06-04 |

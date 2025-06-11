@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 133141,
+  "num_followers": 133143,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAADBbBVoSRsdJilLVSQSM/LQ",
+  "snapshot_id": "aEYkAAAAAAAqeYCfQqxXsbOiiT1gHt2G",
   "tracks": [
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 331070,
-      "name": "Pai Eu Confiarei",
-      "url": "https://open.spotify.com/track/1C1cSdN9oPaKINILtzgqao"
+      "duration_ms": 301720,
+      "name": "Deus Vem me Socorrer",
+      "url": "https://open.spotify.com/track/6o8o7Nt2q7793HJxA586BT"
     },
     {
       "added_at": null,
@@ -443,6 +443,26 @@
       "duration_ms": 265032,
       "name": "Aceito o Teu Chamado",
       "url": "https://open.spotify.com/track/1JxseLLcAhM48rfw0pQfYd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sou Humano",
+        "url": "https://open.spotify.com/album/2UKwLM7kvCIJqcZyiCqpKQ"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 270976,
+      "name": "Sou Humano",
+      "url": "https://open.spotify.com/track/0BkcVqOrULDcssoXHc1hFW"
     },
     {
       "added_at": null,
@@ -471,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sou Humano",
-        "url": "https://open.spotify.com/album/2UKwLM7kvCIJqcZyiCqpKQ"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 270976,
-      "name": "Sou Humano",
-      "url": "https://open.spotify.com/track/0BkcVqOrULDcssoXHc1hFW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Advogado Fiel",
         "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
       },
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 301720,
-      "name": "Deus Vem me Socorrer",
-      "url": "https://open.spotify.com/track/6o8o7Nt2q7793HJxA586BT"
+      "duration_ms": 331070,
+      "name": "Pai Eu Confiarei",
+      "url": "https://open.spotify.com/track/1C1cSdN9oPaKINILtzgqao"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Voices that are elevating nuestra cultura. ERRE en portada. ",
-  "num_followers": 1163,
+  "num_followers": 1167,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,26 @@
     {
       "added_at": "2025-01-24 13:50:50",
       "album": {
+        "name": "cuida",
+        "url": "https://open.spotify.com/album/6Gne8FkmQsA4QtRoBTOqb8"
+      },
+      "artists": [
+        {
+          "name": "csndra",
+          "url": "https://open.spotify.com/artist/2bVAzXBTTKrvtFlQbe0qwe"
+        },
+        {
+          "name": "Jvndro",
+          "url": "https://open.spotify.com/artist/7e9EzUSlZ35veKoHzpa1P0"
+        }
+      ],
+      "duration_ms": 166866,
+      "name": "cuida",
+      "url": "https://open.spotify.com/track/1CTkL5eli1SYcgTjQDNlC6"
+    },
+    {
+      "added_at": "2025-01-24 13:50:50",
+      "album": {
         "name": "SOLTERA",
         "url": "https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 152601,
       "name": "Noche Y Dia",
       "url": "https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa"
-    },
-    {
-      "added_at": "2025-01-24 13:50:50",
-      "album": {
-        "name": "cuida",
-        "url": "https://open.spotify.com/album/6Gne8FkmQsA4QtRoBTOqb8"
-      },
-      "artists": [
-        {
-          "name": "csndra",
-          "url": "https://open.spotify.com/artist/2bVAzXBTTKrvtFlQbe0qwe"
-        },
-        {
-          "name": "Jvndro",
-          "url": "https://open.spotify.com/artist/7e9EzUSlZ35veKoHzpa1P0"
-        }
-      ],
-      "duration_ms": 166866,
-      "name": "cuida",
-      "url": "https://open.spotify.com/track/1CTkL5eli1SYcgTjQDNlC6"
     },
     {
       "added_at": "2025-01-24 13:50:50",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-01-24 13:50:50",
       "album": {
-        "name": "Silvia",
-        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 153139,
-      "name": "Silvia",
-      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
-    },
-    {
-      "added_at": "2025-01-24 13:50:50",
-      "album": {
         "name": "Truth Is so Loud",
         "url": "https://open.spotify.com/album/7FIr3efCjLJKs4a9O3iY97"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 224579,
       "name": "Truth Is so Loud",
       "url": "https://open.spotify.com/track/6KOK4CMcOZiOkaRbztg2xA"
+    },
+    {
+      "added_at": "2025-01-24 13:50:50",
+      "album": {
+        "name": "Silvia",
+        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 153139,
+      "name": "Silvia",
+      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
     },
     {
       "added_at": "2025-01-24 13:50:50",

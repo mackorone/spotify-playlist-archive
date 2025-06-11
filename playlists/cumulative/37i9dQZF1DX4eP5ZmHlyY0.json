@@ -961,6 +961,24 @@
     },
     {
       "album": {
+        "name": "\u9752\u3044\u592a\u967d",
+        "url": "https://open.spotify.com/album/6zKaq83ZghJi7NJyy3BDS3"
+      },
+      "artists": [
+        {
+          "name": "aoen",
+          "url": "https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186013,
+      "name": "Blue Flame",
+      "url": "https://open.spotify.com/track/2HL9ZAoNjflbahJ8QuqqxN"
+    },
+    {
+      "album": {
         "name": "VIIsual",
         "url": "https://open.spotify.com/album/2NbRDGdARD2nXnVlou8wjF"
       },
@@ -3056,7 +3074,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 173386,
       "name": "GIANT (Korean Version)",
       "url": "https://open.spotify.com/track/157BWJSAbWf72tNvC1P1kv"
@@ -3710,6 +3728,24 @@
       "duration_ms": 160994,
       "name": "HIRAKEGOMA",
       "url": "https://open.spotify.com/track/3hp17ZWfLvUXNe1rzo8RbZ"
+    },
+    {
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/3yZGdJW5lLePqAPE5z7OxT"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209226,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/5K1thEZHOgjE89mxwA01T9"
     },
     {
       "album": {

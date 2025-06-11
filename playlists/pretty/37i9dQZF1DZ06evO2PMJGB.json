@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 262167,
+  "num_followers": 262195,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAACwONJBIJtKIDMecdjA2Btz",
+  "snapshot_id": "aEYkAAAAAAApsM4Er51X3GSBhsAWJ12e",
   "tracks": [
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music For People Who Believe In Love",
-        "url": "https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE"
-      },
-      "artists": [
-        {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 214735,
-      "name": "What We Are (with Lu\u00edsa Sonza)",
-      "url": "https://open.spotify.com/track/6Z59PmHDQDJxjo5UnXky6n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/1ZhOLwc5e3v4k70MbpFtYt"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 155798,
       "name": "Flores",
       "url": "https://open.spotify.com/track/25gD4PQjxCLnwIY2n23aEl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music For People Who Believe In Love",
+        "url": "https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 214735,
+      "name": "What We Are (with Lu\u00edsa Sonza)",
+      "url": "https://open.spotify.com/track/6Z59PmHDQDJxjo5UnXky6n"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Sirvo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2ZcRV9LpoGmX7kgRTOD7VN"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 161749,
-      "name": "N\u00e3o Sirvo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Er9jEdVvBzg7VQpcMtJYJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beijo De Judas",
         "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 174881,
       "name": "Tenta\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/71txbUtWVkqbN7BOQcEkDI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Sirvo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2ZcRV9LpoGmX7kgRTOD7VN"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 161749,
+      "name": "N\u00e3o Sirvo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Er9jEdVvBzg7VQpcMtJYJ"
     },
     {
       "added_at": null,

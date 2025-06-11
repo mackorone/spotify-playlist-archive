@@ -1,6 +1,6 @@
 {
   "description": "Easy listening for a comfortable drive.",
-  "num_followers": 263859,
+  "num_followers": 263979,
   "original_name": "Mellow Drive",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Drops Of Jupiter",
-        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Drops of Jupiter (Tell Me)",
-      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "The Diary Of Alicia Keys",
         "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
       },
@@ -295,18 +279,34 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+        "name": "Drops Of Jupiter",
+        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
         }
       ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+      "duration_ms": 259933,
+      "name": "Drops of Jupiter (Tell Me)",
+      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 232253,
+      "name": "Delicate",
+      "url": "https://open.spotify.com/track/6NFyWDv5CjfwuzoCkw47Xf"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -327,18 +327,18 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 232253,
-      "name": "Delicate",
-      "url": "https://open.spotify.com/track/6NFyWDv5CjfwuzoCkw47Xf"
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Bringing Down The Horse",
-        "url": "https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh"
-      },
-      "artists": [
-        {
-          "name": "The Wallflowers",
-          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
-        }
-      ],
-      "duration_ms": 312626,
-      "name": "One Headlight",
-      "url": "https://open.spotify.com/track/0z1b34WikhOH9ZxU8QDWcv"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "lovestrong.",
         "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 246587,
       "name": "jar of hearts",
       "url": "https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Bringing Down The Horse",
+        "url": "https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh"
+      },
+      "artists": [
+        {
+          "name": "The Wallflowers",
+          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
+        }
+      ],
+      "duration_ms": 312626,
+      "name": "One Headlight",
+      "url": "https://open.spotify.com/track/0z1b34WikhOH9ZxU8QDWcv"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Cheers to the Fall",
-        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
-      },
-      "artists": [
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
-        }
-      ],
-      "duration_ms": 253342,
-      "name": "Rise Up",
-      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "GEMINI",
         "url": "https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 240506,
       "name": "Good Old Days (feat. Kesha)",
       "url": "https://open.spotify.com/track/2Za1AlJNvksouPPWbXpR2X"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Cheers to the Fall",
+        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "duration_ms": 253342,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Veneer",
-        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 161680,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Let It All Go",
         "url": "https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 280757,
       "name": "Let It All Go",
       "url": "https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 161680,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Mess Is Mine",
+      "url": "https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/1ciAVKFdlpLi2eGDlXv6Bo"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 240706,
       "name": "Stay",
       "url": "https://open.spotify.com/track/4zzzZ1UNfr75ASG1lUE9L1"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Mess Is Mine",
-      "url": "https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Ain't Nobody (Loves Me Better) [Acoustic] [Acoustic Version]",
-        "url": "https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 178355,
-      "name": "Ain't Nobody (Loves Me Better) - Acoustic",
-      "url": "https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Nine Track Mind",
         "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 194453,
       "name": "One Call Away",
       "url": "https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Ain't Nobody (Loves Me Better) [Acoustic] [Acoustic Version]",
+        "url": "https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 178355,
+      "name": "Ain't Nobody (Loves Me Better) - Acoustic",
+      "url": "https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Gossip In The Grain",
-        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 280226,
-      "name": "Let It Be Me",
-      "url": "https://open.spotify.com/track/56AecW9Anb0CY6HpgWvcg9"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Talking Dreams (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 220626,
       "name": "Bright",
       "url": "https://open.spotify.com/track/3WKg25vrbjJlkhsgl2W4p3"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Gossip In The Grain",
+        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 280226,
+      "name": "Let It Be Me",
+      "url": "https://open.spotify.com/track/56AecW9Anb0CY6HpgWvcg9"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "HOPE Campaign Tribute Album 2010",
-        "url": "https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM"
-      },
-      "artists": [
-        {
-          "name": "The Beautiful Girls",
-          "url": "https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8"
-        }
-      ],
-      "duration_ms": 257906,
-      "name": "La Mar",
-      "url": "https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Pour It Out Into The Night",
         "url": "https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 262066,
       "name": "Good Old Days",
       "url": "https://open.spotify.com/track/3ycnLH0vm7D9K2QHA4cAnq"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "HOPE Campaign Tribute Album 2010",
+        "url": "https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM"
+      },
+      "artists": [
+        {
+          "name": "The Beautiful Girls",
+          "url": "https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8"
+        }
+      ],
+      "duration_ms": 257906,
+      "name": "La Mar",
+      "url": "https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -3111,22 +3111,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "V (Deluxe)",
-        "url": "https://open.spotify.com/album/3z4ASjF9zQ6efgXFr9bQXu"
-      },
-      "artists": [
-        {
-          "name": "Adam Levine",
-          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
-        }
-      ],
-      "duration_ms": 267733,
-      "name": "Lost Stars",
-      "url": "https://open.spotify.com/track/30p0klayCW8WvkcTehVvqs"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "The Lumineers",
         "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
       },
@@ -3139,6 +3123,22 @@
       "duration_ms": 163133,
       "name": "Ho Hey",
       "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "V (Deluxe)",
+        "url": "https://open.spotify.com/album/3z4ASjF9zQ6efgXFr9bQXu"
+      },
+      "artists": [
+        {
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+        }
+      ],
+      "duration_ms": 267733,
+      "name": "Lost Stars",
+      "url": "https://open.spotify.com/track/30p0klayCW8WvkcTehVvqs"
     },
     {
       "added_at": "2024-07-05 23:01:26",

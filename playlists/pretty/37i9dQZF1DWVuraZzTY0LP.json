@@ -1,6 +1,6 @@
 {
   "description": "Lo m\u00e1s alternativo para una mam\u00e1 muy mo-der-na.",
-  "num_followers": 347430,
+  "num_followers": 347427,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-05-09 06:00:14",
       "album": {
+        "name": "Hopes And Fears",
+        "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "Everybody's Changing",
+      "url": "https://open.spotify.com/track/5hkdfA87RZvNaxl6XiveOA"
+    },
+    {
+      "added_at": "2025-05-09 06:00:14",
+      "album": {
         "name": "I Said I Love You First... And You Said It Back",
         "url": "https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 132539,
       "name": "Talk",
       "url": "https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb"
-    },
-    {
-      "added_at": "2025-05-09 06:00:14",
-      "album": {
-        "name": "Hopes And Fears",
-        "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Everybody's Changing",
-      "url": "https://open.spotify.com/track/5hkdfA87RZvNaxl6XiveOA"
     },
     {
       "added_at": "2025-05-09 06:00:14",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2025-05-09 06:00:14",
       "album": {
+        "name": "Sonidos De Karm\u00e1tica Resonancia",
+        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 270906,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh"
+    },
+    {
+      "added_at": "2025-05-09 06:00:14",
+      "album": {
         "name": "safeword",
         "url": "https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 205000,
       "name": "Nunca Me Dejes",
       "url": "https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB"
-    },
-    {
-      "added_at": "2025-05-09 06:00:14",
-      "album": {
-        "name": "Sonidos De Karm\u00e1tica Resonancia",
-        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 270906,
-      "name": "Popular",
-      "url": "https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh"
     },
     {
       "added_at": "2025-05-09 06:00:14",

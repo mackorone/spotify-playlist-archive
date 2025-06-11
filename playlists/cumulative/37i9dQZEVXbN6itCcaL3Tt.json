@@ -3990,7 +3990,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3BntzKsnLf2pc0dsvE3Zav"
@@ -4582,7 +4582,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 164000,
       "name": "BARRIO",
       "url": "https://open.spotify.com/track/28U1K6MfN4EmBnvNKhfjPC"
@@ -8226,7 +8226,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 181875,
       "name": "Chc\u0119 Ciebie cz\u0119\u015bciej",
       "url": "https://open.spotify.com/track/6pMLpqFEmvZKwPcIC16fdl"
@@ -13520,7 +13520,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -23317,6 +23317,40 @@
     },
     {
       "album": {
+        "name": "LABUBU",
+        "url": "https://open.spotify.com/album/3J8Vi8t8zJL9MHrV6gHEsA"
+      },
+      "artists": [
+        {
+          "name": "Ekipa",
+          "url": "https://open.spotify.com/artist/4rneSQYWhgIT9pMX2NwpeM"
+        },
+        {
+          "name": "FRIZ",
+          "url": "https://open.spotify.com/artist/6K02Q2fEVl7WMmMqN85tIc"
+        },
+        {
+          "name": "Kacper Blonsky",
+          "url": "https://open.spotify.com/artist/1KoIf5DUkzaITPCCKAhgKe"
+        },
+        {
+          "name": "Postirol",
+          "url": "https://open.spotify.com/artist/2MdRJ4qSgSQk9uA95FITj3"
+        },
+        {
+          "name": "Kartonii",
+          "url": "https://open.spotify.com/artist/5Bnjum0foyWYc4lY9oRIvm"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "LABUBU",
+      "url": "https://open.spotify.com/track/4BY3ThfL9Mo43cz6GkrIO3"
+    },
+    {
+      "album": {
         "name": "King Sento 2",
         "url": "https://open.spotify.com/album/1cEs5ryOm6c9s3IIjYUHT1"
       },
@@ -23344,7 +23378,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 215716,
       "name": "LABUBU",
       "url": "https://open.spotify.com/track/5UnALEoLaqXrqFSgBrHnQh"
@@ -23624,7 +23658,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 178758,
       "name": "Lato",
       "url": "https://open.spotify.com/track/0oF40HEGBYbYQufEtB81BM"
@@ -31590,7 +31624,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 180214,
       "name": "Ocean Beach",
       "url": "https://open.spotify.com/track/4cMTFaW3avrE75XKvuE9uq"
@@ -39252,6 +39286,10 @@
       },
       "artists": [
         {
+          "name": "Ekipa",
+          "url": "https://open.spotify.com/artist/4rneSQYWhgIT9pMX2NwpeM"
+        },
+        {
           "name": "MODELKI",
           "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
         },
@@ -39262,10 +39300,6 @@
         {
           "name": "WERSOW",
           "url": "https://open.spotify.com/artist/1FIoGhkDJAWOqXT1I85GRC"
-        },
-        {
-          "name": "Ekipa",
-          "url": "https://open.spotify.com/artist/4rneSQYWhgIT9pMX2NwpeM"
         },
         {
           "name": "Mortal",
@@ -39876,7 +39910,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 178775,
       "name": "Shake It To The Max (FLY) - Remix",
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
@@ -40894,11 +40928,15 @@
         {
           "name": "Urbanski",
           "url": "https://open.spotify.com/artist/7Myky2n7ro7FEMaf0HyHtE"
+        },
+        {
+          "name": "Tymoteusz",
+          "url": "https://open.spotify.com/artist/6vmzxIxi1A7CfB52BhRVKS"
         }
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 169939,
       "name": "Sophia Loren",
       "url": "https://open.spotify.com/track/493ORSeExHylEYu7tolox9"
@@ -43966,7 +44004,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 233229,
       "name": "The Days - NOTION Remix",
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
@@ -45398,7 +45436,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 146808,
       "name": "TRUMP",
       "url": "https://open.spotify.com/track/1alG1GrEIXwhWsqW47enGC"
@@ -46258,7 +46296,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 138000,
       "name": "Uno Momento",
       "url": "https://open.spotify.com/track/2lszjkyKpER3mEFPQQayZR"
@@ -50092,7 +50130,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 253133,
       "name": "Zanim p\u00f3jd\u0119",
       "url": "https://open.spotify.com/track/6LuOCaMHFBfaR1MLKNHhMA"
@@ -51018,7 +51056,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 154292,
       "name": "Z\u0141ODZIEJ Z TELEWIZJI",
       "url": "https://open.spotify.com/track/5x507OyaZNXRpERVGN5qzF"
@@ -51656,7 +51694,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 157720,
       "name": "\u201eTak to lecia\u0142o!\u201d",
       "url": "https://open.spotify.com/track/77qp2lzKsMmOeyKbtnoSVI"

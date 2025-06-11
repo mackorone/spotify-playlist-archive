@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Guatemala.
 
-1,019 songs - 2 day 8 hr 44 min
+1,020 songs - 2 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,8 +93,9 @@
 | [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-16 | 2022-07-18 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 | 2023-02-19 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-24 |
+| [Asquerosamente Rico](https://open.spotify.com/track/27aWzQn0uCuEwHkNlKi1jP) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Rico o Muerto, Vol\. 1](https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO) | 3:15 | 2025-06-10 |  |
 | [AURORA](https://open.spotify.com/track/18m5dJOPB2geFwOymXNaWg) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 3:12 | 2025-05-20 | 2025-05-22 |
-| [Ay Mamita](https://open.spotify.com/track/4LDd2UU8XdtJRrIyPvR9vW) | [Alan Arrieta](https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr) | [Ay Mamita](https://open.spotify.com/album/35nuM8cRFXhxct9LMjcl8q) | 2:44 | 2025-06-04 |  |
+| [Ay Mamita](https://open.spotify.com/track/4LDd2UU8XdtJRrIyPvR9vW) | [Alan Arrieta](https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr) | [Ay Mamita](https://open.spotify.com/album/35nuM8cRFXhxct9LMjcl8q) | 2:44 | 2025-06-04 | 2025-06-11 |
 | [AY MAMÁ](https://open.spotify.com/track/2lAUq68F2bt7Kc218n9FPp) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 2:43 | 2024-09-25 | 2025-05-28 |
 | [Ay, DiOs Mío!](https://open.spotify.com/track/1beTDCe7sT7fzm8WIKXicz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:09 | 2021-03-27 | 2021-04-26 |
 | [Ay, DiOs Mío!](https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Ay, DiOs Mío!](https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63) | 3:09 | 2021-03-27\* | 2021-03-27 |

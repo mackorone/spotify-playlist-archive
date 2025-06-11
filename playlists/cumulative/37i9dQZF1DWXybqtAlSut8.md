@@ -4,7 +4,7 @@
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-98 songs - 4 hr 12 min
+100 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Forward Prayers](https://open.spotify.com/track/7CMlAUGf2BpDEkOAY0UrnI) | [Sigrid Vega](https://open.spotify.com/artist/5mK058CiyrTC9IJtBMGixs) | [Forward Prayers](https://open.spotify.com/album/6N53ce95G64ep6Aq0aKnwm) | 2:56 | 2025-02-21 |  |
 | [Gateway to peace](https://open.spotify.com/track/0rVB2OiZHIxZifUVllP2iV) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Gateway to peace](https://open.spotify.com/album/6McNuhNx2BztWLtb1wcJhW) | 2:04 | 2025-04-04 |  |
 | [Gathered By the Holly](https://open.spotify.com/track/2KrIc4hWgqEFO8GnPgjiFj) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Gathered By the Holly](https://open.spotify.com/album/1I0NYv8m3sFCFhV5dXgt1t) | 2:00 | 2024-11-19 |  |
-| [Glimpses of Glory](https://open.spotify.com/track/3SMEMrh3Z2OaMHRNJSvvlE) | [Joel Carrington](https://open.spotify.com/artist/09DPxIQWwKpQSRHsn5CNcf) | [Glimpses of Glory](https://open.spotify.com/album/3lySba71h9HDrTlIKA1aMo) | 2:37 | 2025-05-20 |  |
+| [Glimpses of Glory](https://open.spotify.com/track/3SMEMrh3Z2OaMHRNJSvvlE) | [Joel Carrington](https://open.spotify.com/artist/09DPxIQWwKpQSRHsn5CNcf) | [Glimpses of Glory](https://open.spotify.com/album/3lySba71h9HDrTlIKA1aMo) | 2:37 | 2025-05-20 | 2025-06-11 |
 | [Go Tell It on the Mountain](https://open.spotify.com/track/6j9sxrPzicPYaesxdlRVME) | [Andrew Rick](https://open.spotify.com/artist/5AT79GgEygZW9OVGweJeBu) | [Go Tell It on the Mountain](https://open.spotify.com/album/3o3acoQ0WWOiGG2j7rKeAN) | 2:35 | 2024-11-06 | 2024-11-20 |
 | [Go, Tell It on the Mountain](https://open.spotify.com/track/41gAeCFzMwTpI4tj8YKFew) | [Kristján Sigurðsson](https://open.spotify.com/artist/3BdsSsPWnueaOw8P8cdbBi) | [Go, Tell It on the Mountain](https://open.spotify.com/album/75iDlwqkGkNZEbMzTfUw0d) | 2:10 | 2024-11-19 |  |
 | [Goodness of God](https://open.spotify.com/track/5gtNXKWhY49TGnw7ODrvVM) | [Keys To The Kingdom](https://open.spotify.com/artist/19WGr3r6eAlKXoa0lKazuK) | [Goodness of God](https://open.spotify.com/album/79k3a3N8fkcRI7m11bGhFZ) | 2:38 | 2025-05-14 |  |
@@ -69,6 +69,7 @@
 | [Lord Give Me Strength](https://open.spotify.com/track/41AYs1JTgPFq1QqtyqoGAU) | [Augustus Step](https://open.spotify.com/artist/6pLbnxGxHee8tyi6X1f44M) | [Lord Give Me Strength](https://open.spotify.com/album/4LhmVr396kI1G42KL2c3BB) | 2:10 | 2025-02-21 |  |
 | [Lord, I Need You \- Instrumental](https://open.spotify.com/track/3kR85FFf3Xe6Dj2orfHJdk) | [Dan Musselman](https://open.spotify.com/artist/7kuyOw0FKwn0BwTHegjJ4g) | [Peaceful Piano Worship, Volume 2](https://open.spotify.com/album/6MLd4WUU9jlMAhwcV1xueI) | 3:15 | 2024-03-20 | 2025-05-15 |
 | [May the road rise up to meet you](https://open.spotify.com/track/10zUNmRqhiTlVPpHWm7N3E) | [Sarah Mathieson](https://open.spotify.com/artist/2Bt65oYe6XD6YksE5ELi5n) | [May the road rise up to meet you](https://open.spotify.com/album/3Ez5u996mV5hPbv8dnQamk) | 2:07 | 2024-03-20 |  |
+| [Message of Hope](https://open.spotify.com/track/5gFlgbQNfTfGkjpmDzUEfZ) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [Message of Hope](https://open.spotify.com/album/1mLtGVTHxVFveefNDeF3Gl) | 2:12 | 2025-06-10 |  |
 | [Nearer, My God, to Thee \- Piano](https://open.spotify.com/track/6tmfx84m0fPjDRWaEOJRsp) | [Faithful Horizon](https://open.spotify.com/artist/2kl2iJXfU234FdA96LCCIM) | [Hymns to Worship Our Savior \(Piano\)](https://open.spotify.com/album/2ZPomiRL9ZzUdv2O3MLco7) | 2:34 | 2024-03-20 |  |
 | [o how wonderful \- Instrumental](https://open.spotify.com/track/7MKEZuJngdoyAE8EPnpUFZ) | [draw close](https://open.spotify.com/artist/6lQTc8ch7seamP33kWxxqT) | [o how wonderful \(Instrumental\)](https://open.spotify.com/album/3Z9bELfk7Ac0sxYNfwdhzv) | 1:43 | 2024-03-20 |  |
 | [O Little One of God](https://open.spotify.com/track/4O1OIdJC9bEawX6O6mfQKY) | [Etienne Pomme](https://open.spotify.com/artist/5B2iGNGRPzQ8KEWruVmZPC) | [O Little One of God](https://open.spotify.com/album/2DBUd1Kz83NStsnEnUbSi0) | 2:29 | 2024-11-19 |  |
@@ -99,6 +100,7 @@
 | [To God Be the Glory \- Piano](https://open.spotify.com/track/4JTguoVmnJnvYU7Tr3UXcZ) | [Sacred Keys](https://open.spotify.com/artist/5M6nB85ptAF8gjR6ivoJv7) | [Glorious Peaceful Hymns \(Piano\)](https://open.spotify.com/album/6zG36CBTmA4hX6Gmqoglb7) | 2:29 | 2024-03-20 |  |
 | [Upon arising](https://open.spotify.com/track/0mjJd9JwaIF6MPaqm04PDT) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Upon arising](https://open.spotify.com/album/1vaVict2D2c1gGhRnJxamu) | 2:07 | 2024-05-03 |  |
 | [Upright](https://open.spotify.com/track/6YCdFKgr4EKMpOoanmmXLB) | [Piano Logos](https://open.spotify.com/artist/71Y0cryV3GqHeCgRbduLJC) | [Blameless](https://open.spotify.com/album/5YqPtFU9BvjlCyJ9RUAouH) | 1:40 | 2024-03-20 |  |
+| [Veil of Light](https://open.spotify.com/track/3pURquRCmqNRZMw0K9FUPE) | [Joel Carrington](https://open.spotify.com/artist/09DPxIQWwKpQSRHsn5CNcf) | [Veil of Light](https://open.spotify.com/album/33m6qWykTrS55cR5e6CpYD) | 2:56 | 2025-06-10 |  |
 | [Waltz for the Holy Season](https://open.spotify.com/track/2fhIte7pdJzoMwtzvYqaX2) | [Callum Dario](https://open.spotify.com/artist/00qmK5h2yaGcGAlaNxtp3q) | [Waltz for the Holy Season](https://open.spotify.com/album/2j5aDzccwhcGgl3vDaorMY) | 3:00 | 2024-11-19 |  |
 | [What A Friend We Have In Jesus](https://open.spotify.com/track/4TTgSYLyZPzlwmjU4w37Il) | [Chapman Asbury](https://open.spotify.com/artist/3JmHUA1Ro9pT1JJEhluIBJ) | [What A Friend We Have In Jesus](https://open.spotify.com/album/4Pb3IkcjHTvvAMUqoZsn7p) | 3:46 | 2024-03-20 | 2024-10-23 |
 | [When I Get There](https://open.spotify.com/track/31Wfh7ary1K8g4i1KGYgla) | [Harry Cross](https://open.spotify.com/artist/3SUUNx6JXgmJPojGiLO8bo) | [When I Get There](https://open.spotify.com/album/2wdHaVPXKt2iDsriz9ai3k) | 2:46 | 2024-03-20 |  |

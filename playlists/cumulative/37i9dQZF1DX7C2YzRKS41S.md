@@ -4,7 +4,7 @@
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-458 songs - 1 day 2 hr 59 min
+459 songs - 1 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [Medo de Avião](https://open.spotify.com/track/6NNHvJiNoWUOB6QthRA7S1) | [Ana Cañas](https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz) | [Ana Cañas Canta Belchior](https://open.spotify.com/album/6KStzeWw0tLQgBmW3UTB8K) | 4:33 | 2022-02-11 | 2022-07-21 |
 | [Melhor Sem Mim](https://open.spotify.com/track/1hUzkO738a6LoYIBhMCR0r) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Melhor Sem Mim](https://open.spotify.com/album/088K4X8hrYw2RTyxs6q77A) | 3:06 | 2022-01-21 | 2022-04-17 |
 | [Menino de Papel](https://open.spotify.com/track/2iiZsYIyb2MUANhTkNjtIy) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Menino de Papel](https://open.spotify.com/album/1ykcByGySTdMT3veccKEXT) | 2:56 | 2025-05-30 |  |
-| [Mesma Sensação](https://open.spotify.com/track/7agqUicjzuTmStccvAwG1f) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [Mesma Sensação](https://open.spotify.com/album/1ese8tfg7dYxhWnWhAp500) | 3:14 | 2025-02-22 |  |
+| [Mesma Sensação](https://open.spotify.com/track/7agqUicjzuTmStccvAwG1f) | [Georgia Castro](https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ) | [Mesma Sensação](https://open.spotify.com/album/1ese8tfg7dYxhWnWhAp500) | 3:14 | 2025-02-22 | 2025-06-11 |
 | [Meu Amor É Seu](https://open.spotify.com/track/4kc7hKuZFE3XYd2xMVvdxS) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Só Conheço o Mar](https://open.spotify.com/album/2C3fZsdvNDv3qYQSdTZTQk) | 2:55 | 2021-12-24 | 2022-07-29 |
 | [Meu Bem](https://open.spotify.com/track/08tHtVcWkD5rcxkguScfUY) | [Felipe Câmara](https://open.spotify.com/artist/7nMcdHn8XjZDOzCn1x83f0) | [Meu Bem](https://open.spotify.com/album/6kRSgZALUlqIKnISQC6L7F) | 3:51 | 2021-12-24 | 2022-06-28 |
 | [Meu Bem](https://open.spotify.com/track/0ytvLIAhBCFT504fZU5pUo) | [Guil](https://open.spotify.com/artist/2XHBtzbbgnF9s2QRvmmZi2) | [Guil](https://open.spotify.com/album/4bC19EkmFsVCI0S5Ke1Cro) | 2:51 | 2022-03-25 | 2022-04-20 |
@@ -297,6 +297,7 @@
 | [Olhando Pra Você](https://open.spotify.com/track/0ynCBNl6NcbsnwG9cSvQHv) | [Helena Crespo](https://open.spotify.com/artist/3NedcabZdLX3VIJtPil96h) | [Olhando Pra Você](https://open.spotify.com/album/59TpQGEapksVR1XylKqEHG) | 4:08 | 2021-12-24 | 2022-07-29 |
 | [Olhar pra Fora](https://open.spotify.com/track/593t6WxkGzRatsav9nL8y0) | [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6), [Nina Oliveira](https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1) | [Olhar pra Fora](https://open.spotify.com/album/434lfLPwKFQjPZdxGjiXV3) | 4:24 | 2021-12-24 | 2022-07-26 |
 | [Outra Reza](https://open.spotify.com/track/6uDb9uEjjHMziYpH0XxqBw) | [Matheus de Bezerra](https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu), [MOBILE LAB](https://open.spotify.com/artist/5jGDIZzcLyiXnEDhMkC5Kw) | [Outra Reza](https://open.spotify.com/album/0LY7eWxzjs1HeTgpdpcG12) | 3:47 | 2021-12-24 | 2022-06-14 |
+| [Outros Tempos, Outras Ruas](https://open.spotify.com/track/1f9Z5Dc6sLZytvsAH9kA9z) | [Bola](https://open.spotify.com/artist/0vSYheQ4exKMuzSbTWOo4Z), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Outros Tempos, Outras Ruas](https://open.spotify.com/album/1o8yF93jv7CY0bSXGKikah) | 3:33 | 2025-06-06 |  |
 | [Paciência](https://open.spotify.com/track/3GG5nTd7yZVBeJbMrmNpy6) | [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR) | [Paciência](https://open.spotify.com/album/2iAIjIkCSMqmQNfQEuEe3N) | 4:34 | 2023-10-20 | 2023-11-04 |
 | [Para Brilhar Outra Vez \- Acústico](https://open.spotify.com/track/2N35dDVeOlWbmA40Q1ZCIE) | [Jay Horsth](https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B) | [Para Brilhar Outra Vez \(Acústico\)](https://open.spotify.com/album/7Ljd8WZnrrhpFpPlPVSwNN) | 3:36 | 2022-02-11 | 2022-07-17 |
 | [Para o Novo](https://open.spotify.com/track/3swSMrutONgXUMIbkZ02gw) | [Aline Wirley](https://open.spotify.com/artist/5QJMxfSyCyewbvI9FM7p1q) | [Indômita](https://open.spotify.com/album/59G6GQbxuBCJoZPAzf7wWx) | 3:24 | 2021-12-24 | 2022-07-25 |

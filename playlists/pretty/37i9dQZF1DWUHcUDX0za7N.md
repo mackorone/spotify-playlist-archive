@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Kizz Daniel
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,269 likes - 70 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,320 likes - 70 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,16 +43,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 33 | [Fire](https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Hat\-Trick](https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo) | 2:17 |
 | 34 | [Space](https://open.spotify.com/track/00qWmyg2cpJuP7nLDBTdqN) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Space](https://open.spotify.com/album/2mJtN5UazYAF27M68FOjZN) | 3:06 |
 | 35 | [Birkin Baby](https://open.spotify.com/track/2v6IlFqm8pAa2s6Sqhib5u) | [Skinny Skater](https://open.spotify.com/artist/1GS3dN5V15qDZV5Qqi9Bm1) | [Birkin Baby](https://open.spotify.com/album/13M1N2mOP9KSLSCUOM4PyU) | 2:30 |
-| 36 | [Alade Ade](https://open.spotify.com/track/5bh0oljgOyl3rN8ErhqKvx) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Alade Ade](https://open.spotify.com/album/7nd9lBSL5F2pKV583BDh1r) | 2:42 |
-| 37 | [flavor.](https://open.spotify.com/track/3q51YwUa160xFufWZuPM78) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [Xistence.](https://open.spotify.com/album/36cl6vYPoDH3k2dtTsuBL5) | 1:38 |
+| 36 | [flavor.](https://open.spotify.com/track/3q51YwUa160xFufWZuPM78) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [Xistence.](https://open.spotify.com/album/36cl6vYPoDH3k2dtTsuBL5) | 1:38 |
+| 37 | [Alade Ade](https://open.spotify.com/track/5bh0oljgOyl3rN8ErhqKvx) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Alade Ade](https://open.spotify.com/album/7nd9lBSL5F2pKV583BDh1r) | 2:42 |
 | 38 | [Compose](https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Compose](https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV) | 2:24 |
 | 39 | [Hello Habibi](https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:16 |
 | 40 | [THERAPY SESSION](https://open.spotify.com/track/6V25a6msBFeOLjIynVhWgx) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [G.O.A.T](https://open.spotify.com/album/6vNtI8WqFszCyAQhGlShtF) | 2:43 |
 | 41 | [Zaza \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/53BtrOyMr2ETb8Mtk7qruJ) | [KOHDEE](https://open.spotify.com/artist/4VAE2wGIfC4WMTh6N3mm7M), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Zaza \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/album/1jRnWoU55hKmRllDJsTvvU) | 2:07 |
 | 42 | [Velvet](https://open.spotify.com/track/1DTVhkf9ATO3hoPrCrh0iX) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Onorato](https://open.spotify.com/album/7AWzd6RxtoKkd8AcqCRcle) | 2:43 |
 | 43 | [Jehovah](https://open.spotify.com/track/7EfjkOYi6He33zzUoHuUjs) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Jehovah](https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM) | 2:44 |
-| 44 | [Chocolate & Caramel](https://open.spotify.com/track/3I0OL1oZUCYbI4GW4sVjWA) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Bhad Boi](https://open.spotify.com/album/2JrMvVPza1zRBAuz3eDufm) | 2:41 |
-| 45 | [Wavy](https://open.spotify.com/track/3tH6wzTJ1IdlBoMJh6oG8a) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Dj 4kerty](https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG) | [Pawon Boy Vol.1](https://open.spotify.com/album/5dOM4EFOJqqWwK61p7NHO6) | 2:15 |
+| 44 | [Wavy](https://open.spotify.com/track/3tH6wzTJ1IdlBoMJh6oG8a) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Dj 4kerty](https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG) | [Pawon Boy Vol.1](https://open.spotify.com/album/5dOM4EFOJqqWwK61p7NHO6) | 2:15 |
+| 45 | [Chocolate & Caramel](https://open.spotify.com/track/3I0OL1oZUCYbI4GW4sVjWA) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Bhad Boi](https://open.spotify.com/album/2JrMvVPza1zRBAuz3eDufm) | 2:41 |
 | 46 | [Grateful](https://open.spotify.com/track/10tuqT05957Cs0VIS2GGaZ) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Full Time Job](https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX) | 2:49 |
 | 47 | [Synchro System \(feat\. Pheelz, Young Jonn & Lil Kesh\)](https://open.spotify.com/track/4OXlgrOv4FtLuMnuqsI69c) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:43 |
 | 48 | [DSC](https://open.spotify.com/track/7HwSQoHXqMX3JlAh2qnDgd) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [DSC](https://open.spotify.com/album/5yEQEggZjhNNLMz8jY4n3r) | 2:36 |

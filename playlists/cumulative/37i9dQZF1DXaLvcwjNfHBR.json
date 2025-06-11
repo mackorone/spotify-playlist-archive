@@ -7515,6 +7515,24 @@
     },
     {
       "album": {
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149666,
+      "name": "Illegal",
+      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
+    },
+    {
+      "album": {
         "name": "In A Perfect World (with Julia Michaels)",
         "url": "https://open.spotify.com/album/2OFiWC4MyJh72imvTDV3gq"
       },
@@ -8904,6 +8922,24 @@
       "duration_ms": 215331,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe"
+    },
+    {
+      "album": {
+        "name": "Love Balloon",
+        "url": "https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240906,
+      "name": "Love Balloon",
+      "url": "https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI"
     },
     {
       "album": {
@@ -15112,7 +15148,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 174880,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/5QCfOMH5K7bS4dH7H7PNeI"
@@ -15148,7 +15184,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 171335,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm"

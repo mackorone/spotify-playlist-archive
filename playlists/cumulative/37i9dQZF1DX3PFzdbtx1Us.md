@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-392 songs - 15 hr 45 min
+395 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Acceptance](https://open.spotify.com/track/303e6fTCQ5d3ljcg1TQrkC) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Acceptance](https://open.spotify.com/album/5TifGwgK5S9VTApf5z4Qfx) | 2:54 | 2021-06-27 | 2023-05-16 |
 | [African Violet](https://open.spotify.com/track/2AS9ZM50B6JkihVq1KY6b6) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Dark Taupe](https://open.spotify.com/album/47AoMLS4iKE2Lx942HBIKY) | 3:02 | 2021-06-27 | 2022-07-29 |
 | [African Violet](https://open.spotify.com/track/5vIug0SecVlX2XcfsZnJ3B) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Dark Taupe](https://open.spotify.com/album/4jVtjvaOT1SppdADH8DfQK) | 3:02 | 2022-07-05 | 2023-05-16 |
+| [Aged](https://open.spotify.com/track/1xeKcMfBt1BcnYBcTagDz8) | [Ella Davies](https://open.spotify.com/artist/41ZN6cpScLI4JidZW7f47H) | [Aged](https://open.spotify.com/album/1lqvHDfvRd5oZIYRELq5d5) | 2:27 | 2025-06-10 |  |
 | [Aguachile](https://open.spotify.com/track/79JWsSXbAW3gisGFrLXafU) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Aguachile](https://open.spotify.com/album/6ugXuZjPxb6eUacXvSiPXZ) | 2:06 | 2025-05-30 |  |
 | [Aim For The Stars](https://open.spotify.com/track/0FFLm5zwx2r5lNEeCetS1n) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Aquatic Flow](https://open.spotify.com/album/2a7lLhWw43s2z0RDvLj2JD) | 2:22 | 2022-07-05 | 2023-05-16 |
 | [Aim For The Stars](https://open.spotify.com/track/3sT8aDoeiMZszGpDOiRoPo) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Aquatic Flow](https://open.spotify.com/album/5floaq0TzsFFMLAtnJ9cfM) | 2:22 | 2021-06-27 | 2022-07-29 |
@@ -164,7 +165,7 @@
 | [I'll Be Around](https://open.spotify.com/track/4UJ8IkZl3qhcRLFdZ9XyY5) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [I'll Be Around](https://open.spotify.com/album/2A01x4zvltCBhOa8cpl9mf) | 3:10 | 2023-09-26 |  |
 | [Idyllwild](https://open.spotify.com/track/2RKTXZKlTWEKYgAwA0D8dM) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Idyllwild](https://open.spotify.com/album/36EtKQcr9CYVdkcGFymr9Z) | 2:21 | 2025-05-13 |  |
 | [If The Wind Stops \- Calm Version](https://open.spotify.com/track/1IftqSqlnSXAHG6Vahrsuj) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Pianissimo](https://open.spotify.com/album/7vBWI0VTZ4NPylawx1Eng2) | 4:04 | 2023-09-11 | 2024-02-06 |
-| [in the midst of it all](https://open.spotify.com/track/1oKYmWpoSYAbQ9U957SWug) | [aung](https://open.spotify.com/artist/0s0tm9zd9sIgQU1g44VujV) | [in the midst of it all](https://open.spotify.com/album/1c7a6NCXbJ0z1IyJwVrKR1) | 2:25 | 2024-02-05 |  |
+| [in the midst of it all](https://open.spotify.com/track/1oKYmWpoSYAbQ9U957SWug) | [aung](https://open.spotify.com/artist/0s0tm9zd9sIgQU1g44VujV) | [in the midst of it all](https://open.spotify.com/album/1c7a6NCXbJ0z1IyJwVrKR1) | 2:25 | 2024-02-05 | 2025-06-11 |
 | [Incision In The Silence](https://open.spotify.com/track/5ZrQJBEg0jYRb8OEOGnD83) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Incision In The Silence](https://open.spotify.com/album/2jWibDfPA4AdWP7k50uzWN) | 2:09 | 2023-05-15 |  |
 | [Inseparable](https://open.spotify.com/track/4qmOpOHZFZVqS5MPXmcTev) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Inseparable](https://open.spotify.com/album/6fe33jx3YiupGSZqhJS9dr) | 2:31 | 2024-04-03 |  |
 | [Inside the Moon](https://open.spotify.com/track/64vVXe441Mo6VmJJw6Ab2d) | [Julle Sørensen](https://open.spotify.com/artist/0kugtyGHt54hfsLQmhlUay) | [Inside the Moon](https://open.spotify.com/album/30Uqu5fDo3Bjykr8fkuxUD) | 1:45 | 2023-09-11 | 2025-04-03 |
@@ -301,6 +302,7 @@
 | [Reminiscence](https://open.spotify.com/track/4JX3QGip45EV6Ne0uvV9NK) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [As The Years Go By](https://open.spotify.com/album/5aeUh8jEe9W9IUQJU0Q3Bd) | 2:32 | 2022-07-05 | 2023-05-16 |
 | [Respiro](https://open.spotify.com/track/4SGQ9TT7NTUAMnYvuwsWfW) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Respiro](https://open.spotify.com/album/6rs8vroVC5n6qKclLx9prJ) | 2:05 | 2023-05-15 |  |
 | [Reverie of the Plains](https://open.spotify.com/track/6Jm87c63XEWFJqKrzaArV8) | [Shreyas Murali](https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS) | [Reverie of the Plains](https://open.spotify.com/album/6XERKnx3XcIgMsbgYkGgx9) | 3:21 | 2024-12-11 |  |
+| [rewind](https://open.spotify.com/track/3jz7hr714fHMHXqO0kYR3R) | [Nicholai Janeret](https://open.spotify.com/artist/1emPMGrt54fr9Ax9Q2xOql) | [rewind](https://open.spotify.com/album/5Deaq9fAIYodfXMfjiBmtg) | 2:29 | 2025-06-10 |  |
 | [Riverlight](https://open.spotify.com/track/3sp6FlleWKCE9mxdnHXFlU) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Riverlight](https://open.spotify.com/album/2wWyVXM1gackIofNnlxWdP) | 2:13 | 2023-05-15 |  |
 | [Rébus](https://open.spotify.com/track/1RaP4GkSYdKzKyRJdXxBJ6) | [Christophe Pouget](https://open.spotify.com/artist/6NMPthFB3FbixffuRKpIGU) | [Rébus](https://open.spotify.com/album/4pJZ7dbo8FXYh3NwS7wOvl) | 2:29 | 2023-05-15 |  |
 | [Salt Skin](https://open.spotify.com/track/5MKtW4amtrjowQ4z7uWCjU) | [Galen Rise](https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R) | [Salt Skin](https://open.spotify.com/album/5uDgyEcwgosiV7lf9n2f40) | 2:55 | 2023-05-15 |  |
@@ -364,6 +366,7 @@
 | [The Old Chapel](https://open.spotify.com/track/47tqkzmEb9HmxGYXA0HERN) | [Max Goethe](https://open.spotify.com/artist/2nZU81jrG7xjPA8a3pZZmf) | [The Old Chapel](https://open.spotify.com/album/4WdLOyBKFk1KV6lANVXvOL) | 2:09 | 2024-01-09 |  |
 | [The Ones Left Behind](https://open.spotify.com/track/1pfOyfuKafxJXajfsnU731) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [The Ones Left Behind](https://open.spotify.com/album/6j0thUmUXxZmX8XFhFuudh) | 2:28 | 2021-06-27 | 2023-05-16 |
 | [The Optimist](https://open.spotify.com/track/4wJd6cER10JZRuU5y3DBkZ) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [The Optimist](https://open.spotify.com/album/3KzZstlr8d3MiiO1swIRJX) | 2:39 | 2023-05-15 |  |
+| [The Traveler](https://open.spotify.com/track/5ZXNWcTvp4L7iMKxzp0Ozj) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [The Traveler](https://open.spotify.com/album/03jl7ZeJClPn2L947LE6L8) | 2:54 | 2025-06-10 |  |
 | [The Weaver](https://open.spotify.com/track/2LxVm0nL8MOuJd6CtWpaKM) | [Brooklyn Meir](https://open.spotify.com/artist/7oRlC8DQY3Xj6KAj8KVWft) | [The Weaver](https://open.spotify.com/album/23zWzkzL1LknfgpcwYbTH8) | 3:39 | 2024-11-13 |  |
 | [The Winding Paths](https://open.spotify.com/track/5VceRZmSDeW6y7ipxiwOvK) | [Regina Mira](https://open.spotify.com/artist/5TxyXnLkmonAVNpdgJ7z4C) | [October](https://open.spotify.com/album/3csL43PsskrOpVuXSRTw91) | 1:59 | 2021-06-27 | 2023-05-16 |
 | [Them](https://open.spotify.com/track/1cXTuVkGdqa3anVZWWDGm0) | [R\. York](https://open.spotify.com/artist/4CqaNfV0FxkPOMcQAiyw71) | [Life Stories](https://open.spotify.com/album/0sAjpgFwwWx4EzSx0mq4g7) | 2:02 | 2023-05-15 | 2025-04-10 |

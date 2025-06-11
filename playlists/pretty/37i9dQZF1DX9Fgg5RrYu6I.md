@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Fgg5RrYu6I.md) - [plain]
 
 > Listen to the soundtracks of the Missing Crown Prince\. \(세자가 사라졌다의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,702 likes - 44 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,707 likes - 44 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Fgg5RrYu6I.md) - [plain]
 | 24 | [AcDaJi\-歌](https://open.spotify.com/track/4ms3ziNYCXCh6hXXcpNEs2) | [SamSan](https://open.spotify.com/artist/0Mqb4ZExEqQNOkEFSyZiql), [Han Woong Won](https://open.spotify.com/artist/6gYgsMseEMY6iYkUsL662N) | [AcDaJi\-歌](https://open.spotify.com/album/4zEPfoiIle9t6UAIN9u8sV) | 3:15 |
 | 25 | [Silk](https://open.spotify.com/track/0bBz0h34GjbI3qHepq3V8b) | [Shin Yujin](https://open.spotify.com/artist/47zMycCO60ysrkORth8xw6) | [흥](https://open.spotify.com/album/6Lhs9JUf9s36ln1m4pq9gp) | 4:08 |
 | 26 | [Asurajang](https://open.spotify.com/track/7f1A2jVHZBNYQrTyfLaSDY) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [Asurajang](https://open.spotify.com/album/3y6pOcL1sFC4K75FwWtp3j) | 3:10 |
-| 27 | [Sarang\-Ga](https://open.spotify.com/track/72XPDX00pwj9OEagtNlBeT) | [sEODo](https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX) | [사랑가](https://open.spotify.com/album/0FAaDS3Pjvgmbmpff1afEC) | 3:58 |
+| 27 | [Sarang\-Ga](https://open.spotify.com/track/72XPDX00pwj9OEagtNlBeT) | [sEODo](https://open.spotify.com/artist/7uB71Iy85Sxm7OclRykqTh) | [사랑가](https://open.spotify.com/album/0FAaDS3Pjvgmbmpff1afEC) | 3:58 |
 | 28 | [사철가](https://open.spotify.com/track/5MKmYrqG7AKgUrJDBePMOR) | [juri kim](https://open.spotify.com/artist/32xsx3uhWocPe8QkffUMen) | [사철가](https://open.spotify.com/album/0zMo671mzJyTYutazaJ3Kn) | 6:12 |
 | 29 | [Curated by KIM MIN KYU](https://open.spotify.com/track/3EJPxV0kk88vZkp5Z3Zc0D) | [KIM MIN KYU](https://open.spotify.com/artist/6iGikaDGkff5EAnspuRM15) | [Missing Crown Prince Audio Liners](https://open.spotify.com/album/3YJ1MtRCQ2YdDPY5QJxQwG) | 0:28 |
 | 30 | [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 |

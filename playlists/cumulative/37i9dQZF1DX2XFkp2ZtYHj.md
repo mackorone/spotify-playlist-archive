@@ -4,7 +4,7 @@
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-285 songs - 12 hr 3 min
+289 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Azalea](https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Azalea](https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU) | 2:23 | 2023-10-18 |  |
 | [Beauty](https://open.spotify.com/track/3qxuK06404vBqUlB3VcrHx) | [Jon Cossack](https://open.spotify.com/artist/6w8RoKnxCYlouuGTigZTO6) | [Beauty](https://open.spotify.com/album/48YLSCQqRS20tYuJa2xXR5) | 2:19 | 2023-11-08 |  |
 | [Beckoning](https://open.spotify.com/track/3H1OE9Zplf6jwb9tjMAXFT) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Beckoning](https://open.spotify.com/album/52s8Slpn2zsl7L7SoASh5a) | 2:00 | 2023-11-08 |  |
+| [Before Sunset](https://open.spotify.com/track/26licdts7EZ9dLaKd8NNh4) | [Rudy Bloom](https://open.spotify.com/artist/6kw1TTFYSs8rMUKWOm7kTI) | [Before Sunset](https://open.spotify.com/album/27HI1XKXwpZWZSRIDXKTHe) | 2:11 | 2025-06-10 |  |
 | [Between the Heaves](https://open.spotify.com/track/67k8S3GXTelujadCL0MzZN) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Between the Heaves](https://open.spotify.com/album/50dcAZn3eoMrJlNtKq09qd) | 2:15 | 2023-10-18 | 2024-07-30 |
 | [Between The Lines](https://open.spotify.com/track/33BPMNYcPhcua4D5MhJa6d) | [Michel Haspeslagh](https://open.spotify.com/artist/3pBbMbMr7qdCr9OA3hasPl) | [Between The lines](https://open.spotify.com/album/5jDKJJoabz0LeU11vXVfRR) | 2:28 | 2023-10-18 |  |
 | [Beyond](https://open.spotify.com/track/7LI2fD9JTssq4v5oDgIkeq) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Beyond](https://open.spotify.com/album/2gflztD0uo7P987eJrykqF) | 2:25 | 2024-12-13 |  |
@@ -85,6 +86,7 @@
 | [Emanate](https://open.spotify.com/track/0X4e6EoRi8NyVoCsJIbYz8) | [Aldo Talete](https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W) | [Emanate](https://open.spotify.com/album/7Eb7FSjOX0Tf9GTtHW8XuS) | 2:59 | 2024-12-13 | 2025-05-21 |
 | [Emerald](https://open.spotify.com/track/0OpKRZqOmoSCtjfpkOa6Ew) | [Agatha Messina](https://open.spotify.com/artist/286xUM2HNGoiq5B1ym9cMI) | [Emerald](https://open.spotify.com/album/68F0SS9ueRjE4NUhAReYDE) | 2:17 | 2024-02-21 |  |
 | [Enchanted](https://open.spotify.com/track/4VFWqPpohVxrvj0X30zY7M) | [Francine Gaétane](https://open.spotify.com/artist/6gMlkMM2jbGYhiNAzcR6Zw) | [Enchanted](https://open.spotify.com/album/1Ok4CK8AVQH0v7KAVkmHSS) | 2:16 | 2023-10-18 | 2025-04-09 |
+| [Enigma](https://open.spotify.com/track/5Tp8RmoHqTihaZyFMBZ5jG) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Enigma](https://open.spotify.com/album/5FmIguu1Cg8ACToBY2Klfj) | 3:01 | 2025-06-10 |  |
 | [Equinox](https://open.spotify.com/track/4wv3ixqGPuO0Rdbf3Ut0PU) | [Marco Apicella](https://open.spotify.com/artist/5Nww6Nim8NzaAH97sRJxms) | [Equinox](https://open.spotify.com/album/7HngB2j6G8OPPegkEIEBXY) | 2:58 | 2024-03-25 |  |
 | [Erzählung](https://open.spotify.com/track/7KGvAbdvYZEtTOCIWNG205) | [Christian Menke](https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU) | [Erzählung](https://open.spotify.com/album/38CElXf2rWdFfn6wGN2Efb) | 2:51 | 2023-10-18 |  |
 | [Escallonia](https://open.spotify.com/track/3eiNEHJYK9MX3UKYfW9irj) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Escallonia](https://open.spotify.com/album/2wY3ju9AoeMmFDyATPzBSh) | 2:09 | 2024-05-07 |  |
@@ -100,7 +102,7 @@
 | [Fares](https://open.spotify.com/track/3XHRlU43qYbiFhDDL4rOmO) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Fares](https://open.spotify.com/album/5VfCMA0661DODtD9hNtH7T) | 2:06 | 2025-01-07 |  |
 | [Feeling for the next](https://open.spotify.com/track/0g9bBv0gQr8qdehaRoV1Rw) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Feeling for the next](https://open.spotify.com/album/46RY7EANNUMjv9zUg4Hr3n) | 2:04 | 2023-10-18 |  |
 | [Fields Of Love](https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Fields Of Love](https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN) | 2:17 | 2023-10-18 |  |
-| [Finding Light](https://open.spotify.com/track/4Vacrvcwb9t1suLPgAptil) | [Magnus Sakamura](https://open.spotify.com/artist/6YyKxlVhFcuyUVfKutRtQr) | [Finding Light](https://open.spotify.com/album/2S9UXnSMlmV6HkMkEcKwGn) | 2:33 | 2025-03-11 |  |
+| [Finding Light](https://open.spotify.com/track/4Vacrvcwb9t1suLPgAptil) | [Magnus Sakamura](https://open.spotify.com/artist/6YyKxlVhFcuyUVfKutRtQr) | [Finding Light](https://open.spotify.com/album/2S9UXnSMlmV6HkMkEcKwGn) | 2:33 | 2025-03-11 | 2025-06-11 |
 | [first light](https://open.spotify.com/track/7bu870j7iPDSdbMob24mRp) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [first light](https://open.spotify.com/album/11ohTTCQ3SNzVb2IjCuuRk) | 2:55 | 2025-02-19 |  |
 | [Floating down the river](https://open.spotify.com/track/5MNItTInmQ6ouf1Ap6kJbi) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Floating down the river](https://open.spotify.com/album/3Y12xyD08LirinmcqLC4gX) | 2:13 | 2025-05-02 |  |
 | [Flock of birds](https://open.spotify.com/track/1IX1OcHSP4orBnAijqa7gT) | [Skye High](https://open.spotify.com/artist/3DGbJwTEqE5CuLnxk0KI5l) | [Flock of birds](https://open.spotify.com/album/05KODFYK497NNmTs0ZW9xx) | 3:02 | 2023-10-18 | 2024-09-25 |
@@ -193,6 +195,7 @@
 | [Particle rise](https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Particle rise](https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR) | 2:32 | 2023-10-18 |  |
 | [Passion and Fire](https://open.spotify.com/track/5tTv0eBtH62dVailpRZ46C) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Passion and Fire](https://open.spotify.com/album/55AHv4KY3jolnloSltgAou) | 2:24 | 2023-10-18 |  |
 | [Paths](https://open.spotify.com/track/3JWltf5Em6j7uhJhSNFneD) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Paths](https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC) | 2:52 | 2023-10-18 | 2025-05-15 |
+| [Peaceful Journey](https://open.spotify.com/track/6xPVzZn8h59Tfoo7q4tynk) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Peaceful Journey](https://open.spotify.com/album/22Bek0UjocOoeu6hUiElon) | 2:53 | 2025-06-10 |  |
 | [Perfect Timing](https://open.spotify.com/track/6LUP8h81Gl3GzEMU7OaWxZ) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Perfect Timing](https://open.spotify.com/album/3IsqmVQFD31pAnxaKjmT4i) | 2:40 | 2024-03-25 |  |
 | [Pneuma](https://open.spotify.com/track/66AEotuooy840dzHKyW9Ks) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Pneuma](https://open.spotify.com/album/264KiTwubNhJtDZByhbqKI) | 2:21 | 2023-10-18 |  |
 | [Poema](https://open.spotify.com/track/7a2UsjQknwvctwlSYhiikH) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Poema](https://open.spotify.com/album/3mcNY82C2lWEMJPWv7NYiX) | 2:01 | 2023-10-18 |  |
@@ -253,7 +256,7 @@
 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 | 2023-10-18 |  |
 | [The Sound of Light](https://open.spotify.com/track/23BuLC49RZuPbIGZriYDNI) | [Antoine Fauré](https://open.spotify.com/artist/5TOgvcEmZnjyDHGdnQP4nL) | [The Sound of Light](https://open.spotify.com/album/3IdvazfYUOel4zSdILAHcF) | 2:33 | 2025-05-14 | 2025-05-21 |
 | [The Way](https://open.spotify.com/track/119mkkPrkKwH7hGxzHlQ78) | [Claudia Schumann](https://open.spotify.com/artist/2iwOpHlcFiksGX5PEJ1apz) | [The Way](https://open.spotify.com/album/3eME09xtnpzzdXw0PWbPFb) | 2:29 | 2025-04-02 |  |
-| [The Winds Know My Name](https://open.spotify.com/track/6nnQtoLq0ob2xkqDm5ZLXT) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [The Winds Know My Name](https://open.spotify.com/album/2v4GL8ZQQ2SGzvSMOHmvsT) | 2:50 | 2025-02-26 |  |
+| [The Winds Know My Name](https://open.spotify.com/track/6nnQtoLq0ob2xkqDm5ZLXT) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [The Winds Know My Name](https://open.spotify.com/album/2v4GL8ZQQ2SGzvSMOHmvsT) | 2:50 | 2025-02-26 | 2025-06-11 |
 | [The Year of Unravelling](https://open.spotify.com/track/0e66Y7BTyvFt5iskJrTVpY) | [Elyse Cloudd](https://open.spotify.com/artist/4Z9Z9Pd1xy1BKq3PgHnpGV) | [The Year of Unravelling](https://open.spotify.com/album/6cqFzCzHOttvioayRM2McD) | 2:08 | 2023-10-18 |  |
 | [There Is Light](https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [There Is Light](https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg) | 2:58 | 2024-02-05 |  |
 | [They'll be out for us](https://open.spotify.com/track/1kaj6oW9veB9lAvUuy52TC) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [They'll be out for us](https://open.spotify.com/album/35CFT5d4Vus6953tBe0eYJ) | 2:17 | 2023-10-18 | 2025-02-27 |
@@ -275,6 +278,7 @@
 | [Vicino a te](https://open.spotify.com/track/0jyMAqJwPO3ov7Mo3vHAbb) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Vicino a te](https://open.spotify.com/album/4ytOeb0tk33w4DlIP2P4SC) | 2:26 | 2023-10-18 | 2024-09-04 |
 | [Villa Cortese](https://open.spotify.com/track/0XBYGS44lCaxUKtrjJEWtu) | [Livia Marcella](https://open.spotify.com/artist/3KwM0iGMCIBr2BJbDB8RQq) | [Villa Cortese](https://open.spotify.com/album/0Q9SFuITF91V41glxx88Dn) | 2:39 | 2024-04-22 |  |
 | [Vocation](https://open.spotify.com/track/3WO9w2dTOjfwn8cf04Ft0W) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Vocation](https://open.spotify.com/album/7hyTlMMTqS0Vs7oWvqc9uy) | 2:15 | 2023-10-18 | 2024-10-02 |
+| [Voicing the Past](https://open.spotify.com/track/2g5UwHtPHeBNfAVaAC7m4r) | [Adrien Mann](https://open.spotify.com/artist/5riMQUJqMiLZg8AcxvjVIf) | [Voicing the Past](https://open.spotify.com/album/1RjoMyc35IAbjMLnYuUoy7) | 2:23 | 2025-06-10 |  |
 | [Warm](https://open.spotify.com/track/03zca5jNCKSk4uttDewQ42) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Warm](https://open.spotify.com/album/0qfYgChE45s9trkjNJT5Iq) | 2:07 | 2023-10-18 | 2024-10-02 |
 | [Warm Embrace](https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Warm Embrace](https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY) | 2:43 | 2023-10-18 |  |
 | [Whatever is left](https://open.spotify.com/track/5MWKM287iNZv276AkNnJaM) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Whatever is left](https://open.spotify.com/album/1LNtCytR3zCAjkMtFeUd6Q) | 2:03 | 2024-02-05 |  |

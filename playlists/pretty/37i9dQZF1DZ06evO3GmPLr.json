@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 51386,
+  "num_followers": 51434,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAABKW54Ed+u/DnSKo4JFs/f7",
+  "snapshot_id": "aEYkAAAAAAChliC6sAVpsWUNqaTDBsqH",
   "tracks": [
     {
       "added_at": null,
@@ -79,18 +79,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J"
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
       },
       "artists": [
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Lydia Kitto",
+          "url": "https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA"
         }
       ],
-      "duration_ms": 215594,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh"
+      "duration_ms": 215986,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/6jJTlYkddJONCQQVzWFzcQ"
     },
     {
       "added_at": null,
@@ -115,22 +119,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J"
       },
       "artists": [
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Lydia Kitto",
-          "url": "https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA"
         }
       ],
-      "duration_ms": 215986,
-      "name": "Only",
-      "url": "https://open.spotify.com/track/6jJTlYkddJONCQQVzWFzcQ"
+      "duration_ms": 215594,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh"
     },
     {
       "added_at": null,
@@ -151,6 +151,30 @@
       "duration_ms": 185600,
       "name": "Point and Kill",
       "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        },
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        }
+      ],
+      "duration_ms": 167544,
+      "name": "Flood",
+      "url": "https://open.spotify.com/track/3m9g8ua3M51JvqmS8rh6bS"
     },
     {
       "added_at": null,
@@ -187,30 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        },
-        {
-          "name": "Moonchild Sanelly",
-          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
-        }
-      ],
-      "duration_ms": 167544,
-      "name": "Flood",
-      "url": "https://open.spotify.com/track/3m9g8ua3M51JvqmS8rh6bS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -227,6 +227,22 @@
       "duration_ms": 269413,
       "name": "Woman",
       "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 174972,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/0BFG4mvQhFttosErqHmN2K"
     },
     {
       "added_at": null,
@@ -267,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 174972,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/0BFG4mvQhFttosErqHmN2K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -295,6 +295,22 @@
       "duration_ms": 178066,
       "name": "Two Worlds Apart",
       "url": "https://open.spotify.com/track/34qvgmIagzNQdZTRL2poiv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 240379,
+      "name": "Thief",
+      "url": "https://open.spotify.com/track/20kfSemlOU2CpCmh7GRSRv"
     },
     {
       "added_at": null,
@@ -335,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 240379,
-      "name": "Thief",
-      "url": "https://open.spotify.com/track/20kfSemlOU2CpCmh7GRSRv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO THANK YOU",
         "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
       },
@@ -363,6 +363,26 @@
       "duration_ms": 238831,
       "name": "Heart on Fire",
       "url": "https://open.spotify.com/track/5OJUTZS9QE2qem6FDsEnOM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Yukimi",
+          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
+        }
+      ],
+      "duration_ms": 182173,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/1HmK8lrO7XCaMEn0CWbDWB"
     },
     {
       "added_at": null,
@@ -399,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Yukimi",
-          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
-        }
-      ],
-      "duration_ms": 182173,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/1HmK8lrO7XCaMEn0CWbDWB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO THANK YOU",
         "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
       },
@@ -431,6 +431,30 @@
       "duration_ms": 352178,
       "name": "Angel",
       "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        },
+        {
+          "name": "Miraa May",
+          "url": "https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM"
+        }
+      ],
+      "duration_ms": 267535,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/1DOagLRXZ5KtZ1GLuTceSq"
     },
     {
       "added_at": null,
@@ -467,30 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        },
-        {
-          "name": "Miraa May",
-          "url": "https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM"
-        }
-      ],
-      "duration_ms": 267535,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/1DOagLRXZ5KtZ1GLuTceSq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO THANK YOU",
         "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 393280,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/6eCxbfPngmMvJjnJxyBcDg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 154986,
+      "name": "one life, might live",
+      "url": "https://open.spotify.com/track/7183fwCYtpFWrBWamXHU1E"
     },
     {
       "added_at": null,
@@ -539,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drop 6",
-        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 154986,
-      "name": "one life, might live",
-      "url": "https://open.spotify.com/track/7183fwCYtpFWrBWamXHU1E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO THANK YOU",
         "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 317278,
       "name": "No Merci",
       "url": "https://open.spotify.com/track/552lBxKLGjerBDS8VYHOJn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 126462,
+      "name": "might bang, might not",
+      "url": "https://open.spotify.com/track/4q6cqwj1Bo7z7S0uF7pKnz"
     },
     {
       "added_at": null,
@@ -603,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drop 6",
-        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 126462,
-      "name": "might bang, might not",
-      "url": "https://open.spotify.com/track/4q6cqwj1Bo7z7S0uF7pKnz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO THANK YOU",
         "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
       },
@@ -631,26 +631,6 @@
       "duration_ms": 364181,
       "name": "X",
       "url": "https://open.spotify.com/track/0R4Po8nAlhZMmlA4TKH8Fy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GREY Area",
-        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 225255,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/5PrVJBp2pyJxKDKXVKDiGq"
     },
     {
       "added_at": null,
@@ -675,6 +655,26 @@
       "duration_ms": 261510,
       "name": "Black and British (feat. Little Simz & Benjamin AD)",
       "url": "https://open.spotify.com/track/2emMsRy56TTkzPY6MZ2YlG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GREY Area",
+        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 225255,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/5PrVJBp2pyJxKDKXVKDiGq"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GREY Area",
-        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 185203,
-      "name": "Boss",
-      "url": "https://open.spotify.com/track/5JmWjnv4BG5E7y6ijLzEz5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Satellite Business 2.0",
         "url": "https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 293377,
       "name": "Satellite Business 2.0",
       "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GREY Area",
+        "url": "https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 185203,
+      "name": "Boss",
+      "url": "https://open.spotify.com/track/5JmWjnv4BG5E7y6ijLzEz5"
     },
     {
       "added_at": null,

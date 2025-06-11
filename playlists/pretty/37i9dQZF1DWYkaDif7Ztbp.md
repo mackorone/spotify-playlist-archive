@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: Master KG, Goon Flavour & Eemoh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,680,321 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,680,463 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 47 | [Biri Marung \(feat\. Sje Konka, Focalistic, DJ Maphorisa, Scotts Maphuma & CowBoii\)](https://open.spotify.com/track/7MD8gswt08VhFwVF1PR8Mg) | [Mr Pilato](https://open.spotify.com/artist/3qqJxbB40F5AmjBiO4akVa), [Ego Slimflow](https://open.spotify.com/artist/4hADccnhJWKgtjTKues1oy), [Tebogo G Mashego](https://open.spotify.com/artist/3U6tzzUuiMZD64IPkutbjM), [Sje Konka](https://open.spotify.com/artist/1KAE5EFbVnz0RGnj9DdY1l), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [CowBoii](https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1) | [Biri Marung \(feat\. Sje Konka, Focalistic, DJ Maphorisa, Scotts Maphuma & CowBoii\)](https://open.spotify.com/album/4Q3RdIIabU5csHjoe8b8Qh) | 7:34 |
 | 48 | [SHAOLIN](https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:20 |
 | 49 | [Vuka \(feat\. Thukuthela\)](https://open.spotify.com/track/24fRfn3FOM4xk02aE4wief) | [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [Jazzworx](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [Vuka \(feat\. Thukuthela\)](https://open.spotify.com/album/2kOXA5AceS4b8bfjtZW4nE) | 5:27 |
-| 50 | [Ngisakuthanda](https://open.spotify.com/track/2tUXE87QNnoVQZApV3uyVZ) | [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [TBO](https://open.spotify.com/artist/64xQmd6s2PbIZkjqOXx0hp), [PYY Logdrum King](https://open.spotify.com/artist/3XlnEEBHy6coXIZgenpRav), [DJ Tearz](https://open.spotify.com/artist/1VBa3ryJBZPaV7xzsiA81f), [Dr Thulz](https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4) | [Ngisakuthanda](https://open.spotify.com/album/1Y5TphK5oq4DmAGIvHNsUt) | 6:52 |
+| 50 | [Ngisakuthanda](https://open.spotify.com/track/2tUXE87QNnoVQZApV3uyVZ) | [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [TBO](https://open.spotify.com/artist/64xQmd6s2PbIZkjqOXx0hp), [PYY Log Drum King](https://open.spotify.com/artist/7EjDxfiI8nHmJeYKZcE5MP), [Dj Tearz](https://open.spotify.com/artist/3WAuGYW5O6SHDLpboZMbiZ), [Dr Thulz](https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4) | [Ngisakuthanda](https://open.spotify.com/album/1Y5TphK5oq4DmAGIvHNsUt) | 6:52 |
 
 Snapshot ID: `aEIv2gAAAAA+TxNs+ZZdnVQROJ4XTTk6`

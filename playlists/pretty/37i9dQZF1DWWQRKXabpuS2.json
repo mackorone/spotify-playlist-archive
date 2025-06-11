@@ -1,13 +1,33 @@
 {
   "description": " \u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
-  "num_followers": 40470,
+  "num_followers": 40484,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEaV4QAAAABXbVMT7OqBoATGPZ8h32DO",
+  "snapshot_id": "aEf+QQAAAAD3sjjMXsr9PXR2PmUUJ2AO",
   "tracks": [
+    {
+      "added_at": "2025-06-10 09:43:29",
+      "album": {
+        "name": "Aldhel3 Al3awaj",
+        "url": "https://open.spotify.com/album/7I397BCQjtGSg9cKoFfVzU"
+      },
+      "artists": [
+        {
+          "name": "Oumaima Taleb",
+          "url": "https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe"
+        },
+        {
+          "name": "Fahad Al Kubaisi",
+          "url": "https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ"
+        }
+      ],
+      "duration_ms": 219492,
+      "name": "Aldhel3 Al3awaj",
+      "url": "https://open.spotify.com/track/4OSTubhaEBdfyORRKgMvgo"
+    },
     {
       "added_at": "2025-06-09 08:05:53",
       "album": {
@@ -791,22 +811,6 @@
       "duration_ms": 270586,
       "name": "Lak Saqeni Al Rab",
       "url": "https://open.spotify.com/track/1UyCd0dfP02R4AUwWllZCx"
-    },
-    {
-      "added_at": "2025-04-28 07:47:09",
-      "album": {
-        "name": "Kethr El Ghala",
-        "url": "https://open.spotify.com/album/2fKsdzB75Aq0wWj8anqplX"
-      },
-      "artists": [
-        {
-          "name": "Fouad Abdulwahed",
-          "url": "https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg"
-        }
-      ],
-      "duration_ms": 249009,
-      "name": "Kethr El Ghala",
-      "url": "https://open.spotify.com/track/558ALwJdYCddXe3LyXKrKv"
     }
   ],
   "unique_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",

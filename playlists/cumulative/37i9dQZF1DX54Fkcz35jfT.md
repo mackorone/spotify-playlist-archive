@@ -2,9 +2,9 @@
 
 ### [Loud Rock Japan](https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT)
 
-> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/ Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: Survive Said The Prophet
+> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/ Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: THE SIXTH LIE
 
-397 songs - 22 hr 50 min
+399 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-07-20 | 2024-01-30 |
 | [APEX](https://open.spotify.com/track/7CTA1vdVYwHsIwOMvOkEhE) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [APEX](https://open.spotify.com/album/14H4061l4bvaxzT8EcMVP2) | 3:47 | 2023-11-21 | 2024-06-07 |
 | [Appetite](https://open.spotify.com/track/0LPIIylUH5sd4dmV2RgoVT) | [ulma sound junction](https://open.spotify.com/artist/3h5skAdoPngCgx42LEYnse) | [INVISIBRUISE](https://open.spotify.com/album/3GdBp0u3VxTTbGPvaAF7Q4) | 5:37 | 2023-11-28 | 2023-12-20 |
+| [Are You There?](https://open.spotify.com/track/1BEqi1rbNREiLHlfbF6pMu) | [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt), [凪希](https://open.spotify.com/artist/6PfiboIDR2gjgNfELBqRMQ) | [Are You There?](https://open.spotify.com/album/7gaI544WAwOI4RadQSK05y) | 2:17 | 2025-06-10 |  |
 | [AREA PD](https://open.spotify.com/track/2vdO4HCh3Ya4B6U044UdCh) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [AREA PD](https://open.spotify.com/album/4QC4o5bDLPMDLPk4Hs2M22) | 2:57 | 2023-07-20 | 2023-11-22 |
 | [Atmosphere](https://open.spotify.com/track/5zedOynNXLH5aUHPM5zSv7) | [MONOEYES](https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9) | [The Unforgettables E.P.](https://open.spotify.com/album/0wfPZAnAc4hs0pIxXtS8pM) | 2:48 | 2024-09-03 |  |
 | [BANG!!!](https://open.spotify.com/track/0GbTk360zzHOkQqyS6hvUz) | [Are Square](https://open.spotify.com/artist/57YbNDKxQBIRzIjsLSfhCY) | [BANG!!!](https://open.spotify.com/album/6QMQPmyX3VFs6SLhEFA7JU) | 3:39 | 2023-10-05 | 2024-07-31 |
@@ -83,7 +84,7 @@
 | [Dive](https://open.spotify.com/track/0e5R5RHym5iKSPUzES8Nt6) | [Kanna](https://open.spotify.com/artist/47U5PirBYuleMsuD307qej) | [Youth](https://open.spotify.com/album/1QS0b8uup5KXDD858XJecR) | 3:00 | 2023-12-05 | 2023-12-20 |
 | [Dive in Your Faith](https://open.spotify.com/track/0pzu9pwttcFnbx822XA9xx) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Dive in Your Faith](https://open.spotify.com/album/38QdEHccuklJS8B35kl2qE) | 3:27 | 2023-07-20 | 2023-12-27 |
 | [DO THE DANCE](https://open.spotify.com/track/0bAUr8cmsxdjIIyGNJmc2F) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [DO THE DANCE](https://open.spotify.com/album/7iWCRdzPIQw6HiPFvTb5l2) | 3:16 | 2023-07-27 | 2023-09-30 |
-| [DO THE DANCE](https://open.spotify.com/track/0eCjxBaTwjCNksbytKPlqh) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E) | 3:16 | 2024-06-11 |  |
+| [DO THE DANCE](https://open.spotify.com/track/0eCjxBaTwjCNksbytKPlqh) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E) | 3:16 | 2024-06-11 | 2025-06-11 |
 | [DO THE DANCE](https://open.spotify.com/track/1dyxnU4Me5DETPSXkNpaDl) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 3:16 | 2023-09-26 | 2024-04-19 |
 | [DO THE DANCE](https://open.spotify.com/track/6fqHrKRWVAobPJBPvgMEqM) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/7tf9tNN8G9jS6kqCkbDy12) | 3:16 | 2023-07-27 | 2023-07-29 |
 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 | 2023-07-20 |  |
@@ -264,7 +265,7 @@
 | [Say My Name](https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6) | 1:48 | 2023-10-10 |  |
 | [Schmerz](https://open.spotify.com/track/5xeD8ZfRdinMDzUfaw1T4B) | [\-真天地開闢集団\-ジグザグ](https://open.spotify.com/artist/6X80cxJKMsSqzFmwHX7QCu) | [Gran ∞ Grace](https://open.spotify.com/album/4T8vKqEfLe7aS914pjg7A3) | 3:01 | 2024-11-05 |  |
 | [scorpion.](https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [scorpion.](https://open.spotify.com/album/572kvsrM2Jb4EmO93m65Om) | 2:43 | 2023-08-08 | 2023-11-22 |
-| [SCUM DOGS FART](https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [ENTH](https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ) | 3:17 | 2024-03-26 |  |
+| [SCUM DOGS FART](https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [ENTH](https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ) | 3:17 | 2024-03-26 | 2025-06-11 |
 | [SCUM DOGS FART](https://open.spotify.com/track/6dlfbY8ImWjJbYGwuLLiV2) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [ENTH](https://open.spotify.com/album/5NE8yd43s8gZJ3mp0flYvq) | 3:17 | 2024-03-26 | 2024-04-19 |
 | [Seaside](https://open.spotify.com/track/6rwSf69yMf3c2dfqkoVt8b) | [THE NOVEMBERS](https://open.spotify.com/artist/06qEHODsluMWTP4MrQC9RF) | [The Novembers](https://open.spotify.com/album/5UsLQiAt93L1SdFvqP3ERO) | 3:27 | 2023-12-05 | 2024-05-15 |
 | [Shousatsu](https://open.spotify.com/track/74Xrlu3BM1srb9vMBpCe9E) | [TYOSiN](https://open.spotify.com/artist/61GEYBaST9W8FSoigPRYs7) | [Shousatsu](https://open.spotify.com/album/4koW2ALo5eDjXlAOSR6als) | 3:05 | 2023-11-14 | 2023-12-20 |
@@ -339,6 +340,7 @@
 | [yoake](https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [yoake](https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A) | 4:49 | 2023-07-20 |  |
 | [Your Head](https://open.spotify.com/track/3B4WNqMYRAfGmxlVMoilyh) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Inside Your Head](https://open.spotify.com/album/7fS687f0QR3bCyjMgDATWd) | 3:34 | 2023-07-20 | 2024-04-19 |
 | [ZERO](https://open.spotify.com/track/5XdByWSKX0rkqG3YkNTjDh) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [ZERO](https://open.spotify.com/album/76kQt4pqSy9i9TB3L2aQ2q) | 3:07 | 2024-02-15 | 2024-10-16 |
+| [「変身」](https://open.spotify.com/track/2b7Y188esHzmfCyFtLi7Km) | [DEZERT](https://open.spotify.com/artist/6PXfBBOkykTOPWoiURXBIl) | [yourself: ATTITUDE](https://open.spotify.com/album/2kfzcbhu3Rn2Km2T3lovx4) | 3:10 | 2025-06-10 |  |
 | [あつまれ！パーティーピーポー](https://open.spotify.com/track/1dIvfhOBd3UpHfuaQnFlhr) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [BEST of the Tank\-top](https://open.spotify.com/album/0Ng4VLkEM5p6YLXmqJi5Gf) | 3:14 | 2023-11-14 | 2023-11-22 |
 | [あばく](https://open.spotify.com/track/5ucixkROvLTWu0LeJMt32M) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [あばく](https://open.spotify.com/album/2qtIGkBUz6IRZyJxH46z5s) | 2:53 | 2024-08-13 | 2025-02-05 |
 | [おいしいサバイバー](https://open.spotify.com/track/7rUo3qpSvGob97U68qb0M6) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [おいしいサバイバー](https://open.spotify.com/album/2GXXX6qqWMmqhG4FU91NPX) | 2:58 | 2025-02-04 |  |

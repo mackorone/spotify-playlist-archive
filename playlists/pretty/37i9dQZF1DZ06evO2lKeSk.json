@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 356018,
+  "num_followers": 356077,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAAAQ7H8tfguLVAp0a/v+Oshq",
+  "snapshot_id": "aEYkAAAAAAAkfMWW8b+Zh+GuI2LT1KuF",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sagitario",
-        "url": "https://open.spotify.com/album/05tHWQm1uJIo6FxQ9xzygd"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Y Aqu\u00ed Estoy",
-      "url": "https://open.spotify.com/track/5PSES4lFkqiLk2ERayuuha"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Mexico",
         "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 288160,
       "name": "Mi Talism\u00e1n",
       "url": "https://open.spotify.com/track/6CYf0PlFE36q772z8qrZrT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sagitario",
+        "url": "https://open.spotify.com/album/05tHWQm1uJIo6FxQ9xzygd"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "Y Aqu\u00ed Estoy",
+      "url": "https://open.spotify.com/track/5PSES4lFkqiLk2ERayuuha"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qui\u00e9n Como t\u00fa",
-        "url": "https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 270733,
-      "name": "Ni un Roce (Nem um Toque)",
-      "url": "https://open.spotify.com/track/0h9tN3D3jMLv4P9xwcUwDG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Esencial De Ana Gabriel",
         "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 208946,
       "name": "Hechizo",
       "url": "https://open.spotify.com/track/3BrrnpQ2p1WeXmtNYs5b0D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qui\u00e9n Como t\u00fa",
+        "url": "https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 270733,
+      "name": "Ni un Roce (Nem um Toque)",
+      "url": "https://open.spotify.com/track/0h9tN3D3jMLv4P9xwcUwDG"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qui\u00e9n Como t\u00fa",
-        "url": "https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 242306,
-      "name": "Hice Bien Quererte (Lambada) - Versi\u00f3n Corta",
-      "url": "https://open.spotify.com/track/3M7phO34hRzD2bEPZCXeVk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy Como Soy",
         "url": "https://open.spotify.com/album/32VCHqymjw33HvCc42QrTV"
       },
@@ -823,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Esencial De Ana Gabriel",
-        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+        "name": "Qui\u00e9n Como t\u00fa",
+        "url": "https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D"
       },
       "artists": [
         {
@@ -832,9 +816,9 @@
           "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 171013,
-      "name": "Mi Gusto Es",
-      "url": "https://open.spotify.com/track/7nxcuxZdkAtkrTkleoUi9S"
+      "duration_ms": 242306,
+      "name": "Hice Bien Quererte (Lambada) - Versi\u00f3n Corta",
+      "url": "https://open.spotify.com/track/3M7phO34hRzD2bEPZCXeVk"
     },
     {
       "added_at": null,
@@ -851,6 +835,22 @@
       "duration_ms": 174800,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/136nrRA3pcFuerzpyFL5Y4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Esencial De Ana Gabriel",
+        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 171013,
+      "name": "Mi Gusto Es",
+      "url": "https://open.spotify.com/track/7nxcuxZdkAtkrTkleoUi9S"
     },
     {
       "added_at": null,

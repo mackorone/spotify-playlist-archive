@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 
 > bold tracks, serious swagger.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,376,659 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,376,605 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 | 33 | [Troublemaker](https://open.spotify.com/track/1XDLcR3ykWZx7p0UmMoLKp) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Troublemaker](https://open.spotify.com/album/4K2P5H65cGZMz9bFLPwCVd) | 3:32 |
 | 34 | [Where We Are \- Edit](https://open.spotify.com/track/4ebNp6KQ4cUVeD3YSXcWTI) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Where We Are](https://open.spotify.com/album/7ckwltseCfQmCc7JvobNeE) | 3:58 |
 | 35 | [Wicked Ones](https://open.spotify.com/track/6gYdBoY62Za89ripQXMDXZ) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Wicked Ones](https://open.spotify.com/album/4wvFYSwOhDNl1sbtiEU8J8) | 2:52 |
-| 36 | [Blood on Your Knees](https://open.spotify.com/track/3x6QbnhKGxweFWdqDl8289) | [Suzanne Santo](https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a) | [Ruby Red](https://open.spotify.com/album/7Bsz8Wc2xeIZVr0XC23Vfk) | 3:42 |
-| 37 | [High and Lonesome](https://open.spotify.com/track/4zDNTiMEuHCIzodoJQ2Sie) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof \(Deluxe Edition\)](https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN) | 4:33 |
+| 36 | [High and Lonesome](https://open.spotify.com/track/4zDNTiMEuHCIzodoJQ2Sie) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof \(Deluxe Edition\)](https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN) | 4:33 |
+| 37 | [Blood on Your Knees](https://open.spotify.com/track/3x6QbnhKGxweFWdqDl8289) | [Suzanne Santo](https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a) | [Ruby Red](https://open.spotify.com/album/7Bsz8Wc2xeIZVr0XC23Vfk) | 3:42 |
 | 38 | [Avalanche](https://open.spotify.com/track/2J6FjuQNSU0tvcplhtl5AP) | [Torus](https://open.spotify.com/artist/2hAbK9kNETmY7FHExyadGM), [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Avalanche](https://open.spotify.com/album/0DQe0tsjxE9yfB2dntQmUR) | 3:24 |
 | 39 | [GREAT NIGHT \(feat\. Shovels & Rope\)](https://open.spotify.com/track/53xIMpFKswj3mqbPuiFJC0) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [GREAT NIGHT \(feat\. Shovels & Rope\)](https://open.spotify.com/album/0DzSbOJZt5KxkQnTolpYgA) | 2:55 |
 | 40 | [Smoke Rising](https://open.spotify.com/track/54d6U1U3Y74mDmJJECZNNQ) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 4:33 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlw12ofHcMM.md) - [plain]
 | 47 | [Midnight Hour](https://open.spotify.com/track/4qkRbAJLkfwFGlwfRc1Emx) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [Little May](https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S) | 3:17 |
 | 48 | [Ain't No Angel](https://open.spotify.com/track/6ATkdQDvgPt8W06XPjcB8Z) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Ain't No Angel](https://open.spotify.com/album/4ADyT6cpGaqGdLRmlx7S5F) | 3:43 |
 | 49 | [Retrograde](https://open.spotify.com/track/17KeHeGWyRNkbGnZxGBPl7) | [Striking Matches](https://open.spotify.com/artist/4v2DyasTOGK3Pv90w75yar) | [Retrograde](https://open.spotify.com/album/60QwS2TtQfyLMdMcbc6ayo) | 3:25 |
-| 50 | [Fall for That](https://open.spotify.com/track/2mvMmeybBKZHmxUAS2SrBO) | [Suzanne Santo](https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Yard Sale](https://open.spotify.com/album/0f6Zs9gZdMift137nyLO2A) | 4:00 |
+| 50 | [Carnival of Crows '06](https://open.spotify.com/track/2lO1SCes5TisAXB3S9EN7z) | [The Parlor Mob](https://open.spotify.com/artist/1U4d20oJAq9aLa2mhDGwVV) | [Back in '06](https://open.spotify.com/album/4U313heRCOXknbLrnl0nb3) | 3:11 |
 
 Snapshot ID: `ZsitzQAAAADr4xKsJiqWYGUtpTuICkqP`

@@ -4,7 +4,7 @@
 
 > This is Maren Morris\. The essential tracks, all in one playlist.
 
-94 songs - 5 hr 19 min
+95 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,8 +15,9 @@
 | [Background Music](https://open.spotify.com/track/2QgLakrVOFqkpR2lmMQ6FT) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:34 | 2023-02-12 | 2025-05-17 |
 | [Background Music](https://open.spotify.com/track/5PBQsqit9PJ4OS1KWkto3h) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Background Music](https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi) | 3:34 | 2022-09-08 | 2023-02-13 |
 | [because, of course](https://open.spotify.com/track/3ME0Q21e8o9ZUciGZjOAYw) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Intermission](https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c) | 2:47 | 2024-08-06 | 2025-05-14 |
-| [because, of course](https://open.spotify.com/track/4M1FBkdbAWtgHPeN0U1GQ5) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 2:47 | 2025-05-14 |  |
-| [bed no breakfast](https://open.spotify.com/track/2dNRnuMiLjicWMbmSkKF4n) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [bed no breakfast](https://open.spotify.com/album/50eGJe89pUdqFiNcl3V36B) | 2:26 | 2025-04-20 |  |
+| [because, of course](https://open.spotify.com/track/4M1FBkdbAWtgHPeN0U1GQ5) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 2:47 | 2025-05-14 | 2025-06-11 |
+| [bed no breakfast](https://open.spotify.com/track/2dNRnuMiLjicWMbmSkKF4n) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [bed no breakfast](https://open.spotify.com/album/50eGJe89pUdqFiNcl3V36B) | 2:26 | 2025-04-20 | 2025-06-11 |
+| [bed no breakfast](https://open.spotify.com/track/6TtCDWxfCeUGotpkhnhASc) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 2:26 | 2025-06-11 |  |
 | [Better Than We Found It](https://open.spotify.com/track/6IVLDX1miNBy1BOWebnMP2) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Better Than We Found It](https://open.spotify.com/album/4DI81D0NrKjNh88p7qusbC) | 3:17 | 2022-09-08 | 2025-05-11 |
 | [Bigger Man \(with Maren Morris\)](https://open.spotify.com/track/3Dd9ip26FejJl8qi6mJ7M8) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:06 | 2022-09-08 | 2025-05-11 |
 | [Bummin' Cigarettes](https://open.spotify.com/track/1C9Pf4MPHdv0FtEGkHz8F4) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:06 | 2023-04-17 |  |

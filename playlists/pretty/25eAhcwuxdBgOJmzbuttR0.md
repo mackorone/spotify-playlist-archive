@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 5 likes - 374 songs - 1 day 1 hr 20 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 6 likes - 374 songs - 1 day 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FusBW.md) - [plain]
 
 > This is RIOPY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,911 likes - 45 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,910 likes - 45 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,25 +26,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FusBW.md) - [plain]
 | 16 | [Meditation](https://open.spotify.com/track/19d0cpyRZYw0R00y4Am99v) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation](https://open.spotify.com/album/3WLbC4BcUUxjLP9mY2s504) | 4:55 |
 | 17 | [New World](https://open.spotify.com/track/7yB0uTtiY9jrTMzWpbnn1r) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Tree of Light](https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf) | 3:47 |
 | 18 | [On a Cloud](https://open.spotify.com/track/4FLnSfoyAZ1upX2uerS9XO) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [RIOPY](https://open.spotify.com/album/0MdHcPWZcFK3Su33QEERbt) | 3:46 |
-| 19 | [Habibi \(Love\)](https://open.spotify.com/track/2FAPfnVnC5rLtXSGReURmp) | [TUNE YOUR MIND](https://open.spotify.com/artist/1RiPQVwSrI0TAJDYNAJtp1), [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 66](https://open.spotify.com/album/62VLkrAkCtoMehAQSelT13) | 2:24 |
-| 20 | [Perfect Balance](https://open.spotify.com/track/2qMvZaqqKz1u0DF2OfggDM) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Emotive Piano](https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ) | 1:54 |
+| 19 | [Perfect Balance](https://open.spotify.com/track/2qMvZaqqKz1u0DF2OfggDM) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Emotive Piano](https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ) | 1:54 |
+| 20 | [Habibi \(Love\)](https://open.spotify.com/track/2FAPfnVnC5rLtXSGReURmp) | [TUNE YOUR MIND](https://open.spotify.com/artist/1RiPQVwSrI0TAJDYNAJtp1), [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 66](https://open.spotify.com/album/62VLkrAkCtoMehAQSelT13) | 2:24 |
 | 21 | [Flo](https://open.spotify.com/track/4opgRBGGDePBULgTfwu0Xn) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Tree of Light](https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf) | 3:52 |
 | 22 | [Drive](https://open.spotify.com/track/1GVXbkQGidWl3obKyq51b2) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [RIOPY](https://open.spotify.com/album/0MdHcPWZcFK3Su33QEERbt) | 5:05 |
-| 23 | [La Vernatelle](https://open.spotify.com/track/1uZfUDfJEWrpjFAtGbosU1) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [\[extended\] BLISS](https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS) | 2:50 |
+| 23 | [Human Compassion](https://open.spotify.com/track/61XRtaSvEcC52h4RAYP4hx) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [\[extended\] BLISS](https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS) | 3:22 |
 | 24 | [Lullaby](https://open.spotify.com/track/62ffNyWwzneLiD96UC4ycT) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Hintergrundmusik zum Lesen](https://open.spotify.com/album/2ypUyg36ZeXQlK7fjFt0Dm) | 3:26 |
 | 25 | [Summer Night](https://open.spotify.com/track/4udQdukrhegqWhqdprQtbx) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Tree of Light](https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf) | 5:10 |
 | 26 | [Changing Times](https://open.spotify.com/track/5XEwkz6o2JWAQL9xmtJC3X) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Emotive Piano](https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ) | 1:17 |
-| 27 | [Human Compassion](https://open.spotify.com/track/61XRtaSvEcC52h4RAYP4hx) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [\[extended\] BLISS](https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS) | 3:22 |
+| 27 | [La Vernatelle](https://open.spotify.com/track/1uZfUDfJEWrpjFAtGbosU1) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [\[extended\] BLISS](https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS) | 2:50 |
 | 28 | [Ever After](https://open.spotify.com/track/7FcOEkthAu7DrEKJt4qqYB) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Thrive](https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T) | 4:12 |
 | 29 | [Meditation 3](https://open.spotify.com/track/6NRqEnKVvUTMzZRypnptR5) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 3](https://open.spotify.com/album/5q24MVIvqxjaGxm6FCUgeo) | 3:50 |
-| 30 | [Epiphany](https://open.spotify.com/track/698yyux04kySM0ezqzIQhD) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Epiphany](https://open.spotify.com/album/55pCEgcgrUOP9ifcNXf1vw) | 3:29 |
+| 30 | [NATURE VIBRATION](https://open.spotify.com/track/07B34XRyX1ZYl28exCMNYY) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 432](https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC) | 4:38 |
 | 31 | [Noah](https://open.spotify.com/track/28VLOsb8NVYCfGgXvZF7Lq) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [\[extended\] BLISS](https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS) | 2:47 |
-| 32 | [Sakura](https://open.spotify.com/track/2zftgeM1pifub6Zpt2dM5b) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Thrive](https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T) | 3:49 |
-| 33 | [NATURE VIBRATION](https://open.spotify.com/track/07B34XRyX1ZYl28exCMNYY) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 432](https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC) | 4:38 |
+| 32 | [Epiphany](https://open.spotify.com/track/698yyux04kySM0ezqzIQhD) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Epiphany](https://open.spotify.com/album/55pCEgcgrUOP9ifcNXf1vw) | 3:29 |
+| 33 | [Sakura](https://open.spotify.com/track/2zftgeM1pifub6Zpt2dM5b) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Thrive](https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T) | 3:49 |
 | 34 | [Meditation 22](https://open.spotify.com/track/2zyt5VHuSeLPBfUjl9uDNx) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Le Rêve d'une note](https://open.spotify.com/album/3kaHw48zUVcXBK5wCsWITY) | 22:34 |
 | 35 | [Sweet awakening](https://open.spotify.com/track/4OMHYzumgLL8hqugPLf5dw) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [\[extended\] BLISS](https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS) | 2:35 |
-| 36 | [Costa da Caparica](https://open.spotify.com/track/0a9louq1zctSt5SA7z4cUY) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Thrive](https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T) | 3:41 |
-| 37 | [Brave Heart](https://open.spotify.com/track/040Md6cPvzjqwPXZIcPnm4) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Portraits in Film](https://open.spotify.com/album/5UgUWVUhDfevhi7qYOClzB) | 3:19 |
+| 36 | [Brave Heart](https://open.spotify.com/track/040Md6cPvzjqwPXZIcPnm4) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Portraits in Film](https://open.spotify.com/album/5UgUWVUhDfevhi7qYOClzB) | 3:19 |
+| 37 | [Costa da Caparica](https://open.spotify.com/track/0a9louq1zctSt5SA7z4cUY) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Thrive](https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T) | 3:41 |
 | 38 | [Evolving Memories](https://open.spotify.com/track/7fatRhuZtEj2KB2VGefprE) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Emotive Piano](https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ) | 2:33 |
 | 39 | [Sweet Dream](https://open.spotify.com/track/2hFqgROkIJaQ25re3xTQ8w) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [\[extended\] BLISS](https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS) | 3:17 |
 | 40 | [Meditation 111](https://open.spotify.com/track/4OpzaBPXTZkBKyiQVYxMag) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 111](https://open.spotify.com/album/418PRzkbwMn1lsbNtBWHeC) | 2:22 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FusBW.md) - [plain]
 | 44 | [Breathe](https://open.spotify.com/track/5MC9eD8alc4LwxAmhrOfF9) | [TUNE YOUR MIND](https://open.spotify.com/artist/1RiPQVwSrI0TAJDYNAJtp1), [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Breathe](https://open.spotify.com/album/6nfzwVlb6qBc4I1XeDKNH1) | 2:25 |
 | 45 | [A Tale in Paris](https://open.spotify.com/track/1Cmo5HNKi7vkojpgCRTW2g) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [A Tale in Paris](https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ) | 2:46 |
 
-Snapshot ID: `aETSgAAAAAC1QBEUvwhiUfoc6Vk/kZBe`
+Snapshot ID: `aEYkAAAAAAD1y0bpi1y6APXll4RzvKHr`

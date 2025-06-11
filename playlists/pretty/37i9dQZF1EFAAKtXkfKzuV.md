@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236 likes - 68 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 237 likes - 68 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 10 | [Lose It All](https://open.spotify.com/track/1rLKLphzEdI1YQqHn4n0OD) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Lose It All](https://open.spotify.com/album/4dPAqSKXgdO0YosVpLNbE4) | 2:54 |
 | 11 | [The Best Is Yet To Come](https://open.spotify.com/track/6A5zWnkFR96Z4SJPon9KjD) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Best Is Yet To Come](https://open.spotify.com/album/2zs4alV54L7X8B0lNghrG7) | 3:03 |
 | 12 | [Tears In The Morning](https://open.spotify.com/track/3LQcSr9IlOZNrDGq4zmBBP) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Tears In The Morning](https://open.spotify.com/album/1X0BxsZZVRJteTY5avuwUS) | 2:20 |
-| 13 | [Older Now](https://open.spotify.com/track/6bko9xilkuD49EtdKTrnUq) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [klei](https://open.spotify.com/artist/04Tq9kLCxG1auw8xfUD4Mp) | [Older Now](https://open.spotify.com/album/2Y8fhKUzUKhfm6iNRTJH4X) | 3:09 |
-| 14 | [Obsolet](https://open.spotify.com/track/1V1LlJZJba5e3aAoOKExSW) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Besser kann ich es nicht erklären](https://open.spotify.com/album/2x3GbNC5I3eFx4ZrFJjvsy) | 3:03 |
+| 13 | [Obsolet](https://open.spotify.com/track/1V1LlJZJba5e3aAoOKExSW) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Besser kann ich es nicht erklären](https://open.spotify.com/album/2x3GbNC5I3eFx4ZrFJjvsy) | 3:03 |
+| 14 | [Older Now](https://open.spotify.com/track/6bko9xilkuD49EtdKTrnUq) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [klei](https://open.spotify.com/artist/04Tq9kLCxG1auw8xfUD4Mp) | [Older Now](https://open.spotify.com/album/2Y8fhKUzUKhfm6iNRTJH4X) | 3:09 |
 | 15 | [Something About You](https://open.spotify.com/track/0lMXvD8xbeX0QZCineyxbm) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [BCS](https://open.spotify.com/artist/4tGQ53InAQSRcbpDrYZPtz) | [Something About You](https://open.spotify.com/album/4MOtzDnGKybtKJsoWypDu9) | 2:54 |
 | 16 | [We're Done](https://open.spotify.com/track/1ZmP8k7gRkFnHU5WT5f3qm) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Zoe Maxwell](https://open.spotify.com/artist/642AbhxMV1HpvwV4kMAFmw) | [We're Done](https://open.spotify.com/album/5OMiYGBlMTN09vXaf8rZ5u) | 2:59 |
 | 17 | [Used To](https://open.spotify.com/track/7fxBpWDrnSYnbMq1nXxHPw) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [kaii](https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye) | [Used To](https://open.spotify.com/album/2WaLo3xRff8eUIbRRrhgTm) | 2:39 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 67 | [Flimmerlicht](https://open.spotify.com/track/7J2aP9q1HDpq7edb4b7sK5) | [48 Stunden](https://open.spotify.com/artist/0lzjvvk1UkMwgbpDYlpE7M) | [Der Letzte Sommer](https://open.spotify.com/album/3i9sd6fOlY6b6EVrs6lzT6) | 4:04 |
 | 68 | [Superstars \(Tonight\) \- Original](https://open.spotify.com/track/67U3q4t5IS3hq4uzpn1avq) | [Rush Hour](https://open.spotify.com/artist/5NlrkQ9wUg4sDUZ0DcgNfq) | [Superstars \(Tonight\)](https://open.spotify.com/album/2sUMawAATz5SuhOfkjlYxw) | 4:45 |
 
-Snapshot ID: `AbztXgAAAAAA7evFIGgq3SX0NlZxQL4g`
+Snapshot ID: `Abzy4AAAAABdtUMrI3dLAJ5Pu86Cx+sG`

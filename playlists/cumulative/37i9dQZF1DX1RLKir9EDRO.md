@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX1RLKir9EDRO)
 
-> Bağımsız yerli sahneden keşiflerin 10\. yılını kutluyoruz! Kapak: Ilgaz Altın Çizim: Isu Kim
+> Bağımsız yerli sahneden keşiflerin 10\. yılını kutluyoruz! Kapak: aslı  Çizim: Isu Kim
 
 1,032 songs - 2 day 9 hr 12 min
 

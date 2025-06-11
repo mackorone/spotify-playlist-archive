@@ -4,7 +4,7 @@
 
 > Piesele potrivite pentru zilele și nopțile tale chill de vară
 
-144 songs - 8 hr 11 min
+145 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Cămașa](https://open.spotify.com/track/6LcILdBybmZBU8f0a3xzgC) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Cămașa](https://open.spotify.com/album/4W6wL197uWhGJNKX2tabuj) | 3:07 | 2024-06-21 | 2024-07-27 |
 | [Dandelion](https://open.spotify.com/track/0tz35TsCwA94l9b1KvTWVq) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Dandelion](https://open.spotify.com/album/4d9X64meCyPThkTj9dzjpI) | 3:22 | 2025-01-21 |  |
 | [Daylight](https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:44 | 2024-06-21 | 2025-05-17 |
+| [De la dela](https://open.spotify.com/track/4qQDJp46yZj6xz8mwq91v7) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [De la dela](https://open.spotify.com/album/6pba5ksDHtVywuKyhlpzmy) | 3:23 | 2025-05-16 |  |
 | [Dead Man](https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Dead Man](https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY) | 4:34 | 2024-06-21 | 2024-07-27 |
 | [DEFECT](https://open.spotify.com/track/3pJLkJKlpdHGjNkAzBNtFz) | [Mihail](https://open.spotify.com/artist/6l5kIaZ51iCClkxrgr904F) | [Nuante](https://open.spotify.com/album/1zPeQuxuqemOjkK9XuVlxH) | 4:58 | 2025-02-27 |  |
 | [Dernière Cigarette](https://open.spotify.com/track/4ULGWCPPadrpPvWdumBHG1) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [Dernière Cigarette](https://open.spotify.com/album/7rU1pJ3SlmgdVMBoyIeaDy) | 2:54 | 2024-07-26 | 2025-02-15 |
@@ -64,7 +65,7 @@
 | [I Went Dancing With My Sister \- Bonus Track](https://open.spotify.com/track/2E8p2xkMaloP8V7tSgi0Ba) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans \(Deluxe Edition\)](https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa) | 4:22 | 2024-06-21 | 2024-07-27 |
 | [ifeelsodumb](https://open.spotify.com/track/3ml1GUPvdZt6yXdzjAjuOU) | [Mariana Tereso](https://open.spotify.com/artist/2flPiXqSKewUNnRoSCGZHu) | [ifeelsodumb](https://open.spotify.com/album/3VaoekXt1lRSEuuTVJh1Nk) | 2:51 | 2025-02-14 | 2025-02-28 |
 | [imperfect for you](https://open.spotify.com/track/6XXKB32Om6WuXg3uEWwTob) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:02 | 2024-06-21 | 2025-05-17 |
-| [Inimi](https://open.spotify.com/track/1yqHs2M4rSgRzJ57ZWazpB) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Inimi](https://open.spotify.com/album/4UVwC4Wj5xcrblIEe4UqVH) | 2:56 | 2024-11-27 |  |
+| [Inimi](https://open.spotify.com/track/1yqHs2M4rSgRzJ57ZWazpB) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Inimi](https://open.spotify.com/album/4UVwC4Wj5xcrblIEe4UqVH) | 2:56 | 2024-11-27 | 2025-06-11 |
 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 | 2025-05-02 |  |
 | [Karma](https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Karma](https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW) | 2:35 | 2024-06-21 | 2024-08-10 |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2024-06-21 | 2025-05-17 |

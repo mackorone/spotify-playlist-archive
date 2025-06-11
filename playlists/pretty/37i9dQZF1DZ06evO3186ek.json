@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 159162,
+  "num_followers": 159178,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAACa+TNci56Y+m2vbhLCRyDJ",
+  "snapshot_id": "aEYkAAAAAAAoBz7OmH9NovL5qxF+5PIq",
   "tracks": [
     {
       "added_at": null,
@@ -603,30 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "KJ Scriven",
-          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
-        }
-      ],
-      "duration_ms": 542193,
-      "name": "Man of Your Word (feat. KJ Scriven)",
-      "url": "https://open.spotify.com/track/6TigGiyqHr7Dy1CaCeKhdP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jubilee: Juneteenth Edition",
         "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
       },
@@ -651,6 +627,30 @@
       "duration_ms": 492415,
       "name": "God Will Work It Out (feat. Israel Houghton & Mav City Gospel Choir)",
       "url": "https://open.spotify.com/track/0cquJ3BPyFKQALxOMsl7m3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "KJ Scriven",
+          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
+        }
+      ],
+      "duration_ms": 542193,
+      "name": "Man of Your Word (feat. KJ Scriven)",
+      "url": "https://open.spotify.com/track/6TigGiyqHr7Dy1CaCeKhdP"
     },
     {
       "added_at": null,
@@ -1139,8 +1139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Hold It All Together",
-        "url": "https://open.spotify.com/album/7uZioCeVgBz0I6mTC3mL26"
+        "name": "Maverick City Music, Vol. 3: Pt. 2",
+        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
       },
       "artists": [
         {
@@ -1148,21 +1148,13 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "Elyssa Figueroa",
-          "url": "https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l"
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 510726,
-      "name": "When I Lock Eyes (feat. Brandon Lake & Elyssa Smith)",
-      "url": "https://open.spotify.com/track/4dzxXnney0FbzFq6Daucsu"
+      "duration_ms": 513188,
+      "name": "Yes & Amen",
+      "url": "https://open.spotify.com/track/5tJcVf7dGQOdm6fopaVawi"
     },
     {
       "added_at": null,
@@ -1187,8 +1179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 2",
-        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
+        "name": "You Hold It All Together",
+        "url": "https://open.spotify.com/album/7uZioCeVgBz0I6mTC3mL26"
       },
       "artists": [
         {
@@ -1196,13 +1188,21 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Elyssa Figueroa",
+          "url": "https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l"
         }
       ],
-      "duration_ms": 513188,
-      "name": "Yes & Amen",
-      "url": "https://open.spotify.com/track/5tJcVf7dGQOdm6fopaVawi"
+      "duration_ms": 510726,
+      "name": "When I Lock Eyes (feat. Brandon Lake & Elyssa Smith)",
+      "url": "https://open.spotify.com/track/4dzxXnney0FbzFq6Daucsu"
     },
     {
       "added_at": null,

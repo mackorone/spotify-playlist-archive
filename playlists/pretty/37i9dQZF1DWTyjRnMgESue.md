@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Drugdealer & Weyes Blood
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,238 likes - 109 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,249 likes - 109 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 108 | [Good Thing Going On \(ft\. Abbey Cone\)](https://open.spotify.com/track/7GHs0BFoFRwswFfwrt080E) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1), [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Good Thing Going On \(ft\. Abbey Cone\)](https://open.spotify.com/album/4Vv0XphWxHApFjEI3tSFav) | 2:51 |
 | 109 | [Kitchen](https://open.spotify.com/track/72ylauA1S1X3Yz9l5aufhu) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 2:44 |
 
-Snapshot ID: `aEJn0QAAAAAtJz/Yv+OCoqdzbQMwA1mt`
+Snapshot ID: `aEJn0QAAAABFvh7F+YNNqvvDOkWam/gS`

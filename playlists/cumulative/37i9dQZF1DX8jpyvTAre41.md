@@ -4,7 +4,7 @@
 
 > The best rock songs of the moment\. Cover: Mother Mother
 
-1,249 songs - 2 day 22 hr 16 min
+1,250 songs - 2 day 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -885,6 +885,7 @@
 | [Rock n Roll](https://open.spotify.com/track/0a3HBsPWPOHOFwRx75dUtJ) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [In Good Time](https://open.spotify.com/album/46JOax9Ae2TFpLQQbofUVz) | 3:40 | 2022-04-08 | 2022-05-07 |
 | [Rock n Roll](https://open.spotify.com/track/2wp72dpFc0ZdjVuAcU3A4C) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Rock n Roll](https://open.spotify.com/album/5PBNGqdEHD35kYQTQjRKZm) | 3:40 | 2022-03-11 | 2022-04-09 |
 | [Rock N Roller](https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Rock N Roller](https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K) | 3:43 | 2024-06-07 | 2024-10-26 |
+| [Rock N' Roll Band](https://open.spotify.com/track/3tAyXvsaRiWYmjyt0H7C7G) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Rock N' Roll Band](https://open.spotify.com/album/4AGcTdhgc50z8SZfBz16CO) | 2:25 | 2025-06-06 |  |
 | [Rodeo](https://open.spotify.com/track/4lA2t93lXgoe1NAzgP2b6u) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Rodeo](https://open.spotify.com/album/26tjiIfV5xBjTbTHbX8XFP) | 3:19 | 2025-04-04 |  |
 | [ROLE MODEL](https://open.spotify.com/track/4v9x3cl1AIAbCLYGO6EBuS) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [ROLE MODEL](https://open.spotify.com/album/1snCvzLusXJUdauMrTnzVG) | 1:58 | 2024-05-10 | 2024-09-28 |
 | [Roll With The Punches](https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Roll With The Punches](https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES) | 3:32 | 2025-02-07 | 2025-05-10 |

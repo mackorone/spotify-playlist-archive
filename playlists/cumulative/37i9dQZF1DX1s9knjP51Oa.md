@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-852 songs - 1 day 12 hr 36 min
+855 songs - 1 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Glourious](https://open.spotify.com/track/3AjIuQRx278sErh7B9knpS) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Glourious](https://open.spotify.com/album/4iUd5XDXgicUS1gLzfYCIK) | 2:23 | 2021-12-13 | 2022-09-13 |
 | [Glow](https://open.spotify.com/track/3lM1BCOR6zXKsvC7I3eABX) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Glow](https://open.spotify.com/album/0XirurPx9hImK25nVbAGXo) | 2:23 | 2021-12-13 | 2022-07-22 |
 | [Golden Hour](https://open.spotify.com/track/2Df6FcpcajZ02DNjHHEi1Y) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Golden Hour](https://open.spotify.com/album/4quXwctlEiPi3tGCuIKx4p) | 3:31 | 2024-09-30 |  |
+| [Golden Still](https://open.spotify.com/track/4THFNmTf7BSMOb4sTCplgW) | [Plane Curston](https://open.spotify.com/artist/08EEIy4ABAgKlRWhLbMdqe) | [Golden Still](https://open.spotify.com/album/53LiVwvY7YU2uhwv91NnlC) | 2:05 | 2025-06-10 |  |
 | [Grace](https://open.spotify.com/track/7awIIxfZGrKfqIWOD3iZPV) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Grace](https://open.spotify.com/album/2AFvFo44JnSdEghSwTaSFq) | 2:46 | 2021-12-13 | 2022-09-24 |
 | [Gran Separado](https://open.spotify.com/track/6E0A1z9LAekBr97GRRlQ4p) | [Leonid Gautier](https://open.spotify.com/artist/1PG2CsJ35TSdcLarWqxGdu) | [Gran Separado](https://open.spotify.com/album/5MAFv5FqwSv5iNtmsInAbc) | 3:41 | 2021-12-13 | 2022-09-13 |
 | [Grateful For The Time](https://open.spotify.com/track/4087fSTfSGcZdb7CaTays6) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Grateful For The Time](https://open.spotify.com/album/7lU9zqz8ky2VXhYv5PDm0R) | 2:30 | 2025-06-04 |  |
@@ -550,6 +551,7 @@
 | [Pensierino](https://open.spotify.com/track/2r4aYjCB1TuQXVgRIPb3Oe) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Pensierino](https://open.spotify.com/album/4EpQQNXnD33xDH6Oaw6T8q) | 2:29 | 2022-03-02 | 2024-03-19 |
 | [Pensive](https://open.spotify.com/track/6bYu9TU2rm2rYvlalCReDa) | [Ina Lawson](https://open.spotify.com/artist/6gv5zYOQsJ4vQNAHkGTmLP) | [Pensive](https://open.spotify.com/album/4Ug4sq5SSNzBxx9wgNY2yF) | 2:35 | 2021-12-13 | 2022-08-10 |
 | [Perla](https://open.spotify.com/track/0kQMah3gWs9amKOblNUdx7) | [Per Lööf](https://open.spotify.com/artist/18KIEPt8afqad7CPIzsWgV) | [Perla](https://open.spotify.com/album/3BN8pdq5ZXWGQD58OgJt5Q) | 2:12 | 2022-12-21 | 2024-09-03 |
+| [Petal Drift](https://open.spotify.com/track/0qFkEaASYYsIIQoYlN9SF9) | [Stone Mirland](https://open.spotify.com/artist/7JhyuaeB60S8vsFRzcdN2o) | [Petal Drift](https://open.spotify.com/album/3eDENR5ZFpxC72QQmBnLEo) | 2:29 | 2025-06-10 |  |
 | [Pianola](https://open.spotify.com/track/48SGMBtW11z4g8ymVdpI4B) | [Jose Carcavelos](https://open.spotify.com/artist/3WSJGymGbgPhHHqTRBUE0H) | [Pianola](https://open.spotify.com/album/3qpHIXKiaEB8Z6M2otPc6U) | 1:49 | 2022-04-21 | 2023-08-22 |
 | [Picture Life](https://open.spotify.com/track/4bjAEUYwbMIcd3e86EinLN) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Picture Life](https://open.spotify.com/album/21ZXPpXidDE9KvpZRCB12d) | 2:29 | 2023-11-06 | 2024-12-04 |
 | [Pioggia Eterna](https://open.spotify.com/track/2unmie5sfHDGwSQO9jEok4) | [Clara Nishimoto](https://open.spotify.com/artist/1hgBYux2Cpl893e98XlC2z) | [Pioggia Eterna](https://open.spotify.com/album/03XIBRIbVxPRGYqzaoHwsT) | 2:50 | 2021-12-13 | 2022-05-27 |
@@ -603,6 +605,7 @@
 | [Reverence](https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [Reverence](https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI) | 2:18 | 2022-01-18 | 2024-01-03 |
 | [Reveries](https://open.spotify.com/track/2Wq70oxNy3i4KOW175fUs2) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [Reveries](https://open.spotify.com/album/7Jl54jIBzvZjzED55yLj23) | 3:35 | 2021-12-13 | 2022-08-10 |
 | [Revolve](https://open.spotify.com/track/3vM5WFlaaxJjCMWsQYLwZI) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Revolve](https://open.spotify.com/album/6EDRURCpmlUE7b6OkrVmeR) | 2:30 | 2021-12-13 | 2023-01-10 |
+| [rewind](https://open.spotify.com/track/3jz7hr714fHMHXqO0kYR3R) | [Nicholai Janeret](https://open.spotify.com/artist/1emPMGrt54fr9Ax9Q2xOql) | [rewind](https://open.spotify.com/album/5Deaq9fAIYodfXMfjiBmtg) | 2:29 | 2025-06-10 |  |
 | [Ricordarsi](https://open.spotify.com/track/3RuTCzfsjBoat5ZliUAC4a) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Ricordarsi](https://open.spotify.com/album/63LrcK9pRwS6QE63iCVurd) | 2:30 | 2021-12-13 | 2022-10-05 |
 | [Ride your wave](https://open.spotify.com/track/0X5m41yl6i5wTJ4PlCeZRa) | [San Fiore](https://open.spotify.com/artist/2dVta8IapeaopXnWcmKUSm) | [Ride your wave](https://open.spotify.com/album/3qKVEoO7SrxWM5ImLm6Iy1) | 2:44 | 2023-02-03 |  |
 | [River](https://open.spotify.com/track/78kCCDzaO09KZ8Fg7ZzIfF) | [Niklas Blumenthaler](https://open.spotify.com/artist/14PMDJ6ZGkzsHqS51zw6cG) | [River](https://open.spotify.com/album/0MoRdHoFxiCWDv5Wl9f4ac) | 2:57 | 2022-05-26 | 2024-04-04 |

@@ -4,7 +4,7 @@
 
 > This is Banda Zarape\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 53 min
+70 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Ponte El Zarape](https://open.spotify.com/track/4gZTC4RXeQMYPINO9geFta) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Caliente, Caliente](https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR) | 3:03 | 2022-06-01 |  |
 | [Popurri: Dejala que Baile / Mambo Mambo / Mambo loco / Un Dos Tres](https://open.spotify.com/track/3a7BpZWSfk1QuOG7qaxXoN) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5), [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl), [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [Popurri: Dejala que Baile / Mambo Mambo / Mambo loco / Un Dos Tres](https://open.spotify.com/album/3HSSM7tr8DWdMJpNfj1Ajl) | 10:45 | 2023-12-13 | 2024-10-12 |
 | [Popurrí](https://open.spotify.com/track/64ffk6yPKFyOGOsKWHXuzy) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5), [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl), [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [Popurrí](https://open.spotify.com/album/6oFY7iqrjHUg8lzyNYORyC) | 10:45 | 2024-10-12 |  |
+| [Popurrí: Charanga / Pachanga](https://open.spotify.com/track/1ZJYFOo6v9v4Y9r2I3W3eS) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Pura Pachanga](https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr) | 7:18 | 2025-06-11 |  |
 | [Por Ella](https://open.spotify.com/track/3yoRAxitLXuzk0zisgllrM) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Coleccion Suprema Plus\- Banda Zarape](https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal) | 4:07 | 2022-06-01 |  |
 | [Que Bonita Te Ves](https://open.spotify.com/track/3uqtKci9LebHux8xSzzdtv) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Piensa en Mi](https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4) | 3:20 | 2022-12-27 |  |
 | [Que Esto Que Lo Otro](https://open.spotify.com/track/5NwNMxpq58Sg2aKCCHJy0o) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Dale Biberon](https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA) | 3:32 | 2022-06-01 |  |

@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Pastel Ghost, Mareux, Magdalena Bay and more
+> With Pastel Ghost, Sky Ferreira, Mareux and more
 
 1,813 songs - 4 day 15 hr 33 min
 
@@ -151,7 +151,7 @@
 | [Bad Girls](https://open.spotify.com/track/3o6cyNUUVQ55klr7tswS1c) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Ritual In Repeat \(Deluxe\)](https://open.spotify.com/album/2qpspWmRrEI8EEEXqL1O5e) | 4:31 | 2022-03-14 | 2022-05-25 |
 | [Bad Things](https://open.spotify.com/track/1caFMoQlQyF5JHvfPNe49E) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 3:38 | 2021-08-06 |  |
 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2024-01-15 | 2024-07-11 |
-| [Bang Bang Bang Bang](https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3) | [Sohodolls](https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN) | [Ribbed Music For The Numb Generation](https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW) | 3:01 | 2024-01-13 | 2025-06-10 |
+| [Bang Bang Bang Bang](https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3) | [Sohodolls](https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN) | [Ribbed Music For The Numb Generation](https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW) | 3:01 | 2024-01-13 |  |
 | [Baptism](https://open.spotify.com/track/1Ow9ZsMYJ1XmaXmUeKYJGT) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(II\)](https://open.spotify.com/album/37TeO5usN4vsGSfpg4dPNA) | 4:11 | 2020-11-17 | 2022-03-09 |
 | [Bassically](https://open.spotify.com/track/0jGayco2vDiq3kMpPFN2bI) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Verde](https://open.spotify.com/album/6sUm1weVRMmT05silXrYzR) | 4:51 | 2022-03-13 | 2022-11-08 |
 | [Bath Salts](https://open.spotify.com/track/0ZNgzUgemkx9kpLUxSPJ4F) | [Kitty](https://open.spotify.com/artist/6YMeCrTjUKwsXh9yhQJjEV) | [Charm and Mirror](https://open.spotify.com/album/5o7u4rf5p1o5aaHuIR8z4H) | 3:38 | 2022-04-17 | 2022-10-11 |
@@ -325,7 +325,7 @@
 | [Cherry](https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 3:00 | 2024-03-04 | 2024-03-05 |
 | [Cherry](https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Cherry](https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM) | 3:25 | 2020-10-17 | 2022-01-31 |
 | [Cherry Waves](https://open.spotify.com/track/70L6nHORQsblY813yNqUR3) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Saturday Night Wrist](https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ) | 5:17 | 2024-03-06 | 2024-03-30 |
-| [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 | 2022-04-15 | 2025-06-04 |
+| [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 | 2022-04-15 |  |
 | [Cherub](https://open.spotify.com/track/5xNZSB7R9u4PRyK8Gnpl0h) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Sexy](https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq) | 1:50 | 2023-03-30 | 2024-04-10 |
 | [Chic Chick](https://open.spotify.com/track/7fNNmMAgvOyQi4WHIOSM8A) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Am I A Girl?](https://open.spotify.com/album/5QCXxPUwoOtxeZQmve6w2u) | 2:54 | 2022-05-04 | 2023-06-27 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-05-21 | 2024-06-06 |
@@ -712,7 +712,7 @@
 | [He Took Her to a Movie](https://open.spotify.com/track/67rg7z2MZN4WuVaUNHFeRK) | [Ladytron](https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz) | [604](https://open.spotify.com/album/0Rg5gPR4pbwQrnfmTO9yxK) | 3:10 | 2022-12-20 | 2023-03-25 |
 | [Headache](https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Paradise Valley](https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv) | 5:04 | 2021-05-05 | 2022-03-06 |
 | [Headlock](https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 3:35 | 2024-12-27 | 2024-12-28 |
-| [Heads Will Roll](https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR) | 3:41 | 2024-04-25 |  |
+| [Heads Will Roll](https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR) | 3:41 | 2024-04-25 | 2025-06-11 |
 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 | 2023-09-26 | 2024-02-01 |
 | [Heartbeats](https://open.spotify.com/track/2YacpExEbX9tF8IbFlFOo4) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Deep Cuts](https://open.spotify.com/album/1iqMDM4Io1tnDDl58NGeVJ) | 3:51 | 2020-10-22 | 2022-02-21 |
 | [Heatwave](https://open.spotify.com/track/4TvHgHwMh8jkc9iIUqljUZ) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Heatwave](https://open.spotify.com/album/2lEUWac6gmtTkuHOZqiGoH) | 2:42 | 2022-07-27 | 2023-04-11 |
@@ -803,7 +803,7 @@
 | [I'd Rather Sleep](https://open.spotify.com/track/56JcHvg7W4cCs6fQEOz2gW) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Intro Bonito](https://open.spotify.com/album/3s3PEd50fVx2qXMNgPy0uD) | 1:55 | 2020-12-11 | 2021-12-18 |
 | [I'd Rather Sleep](https://open.spotify.com/track/614cx8ZtQJX7jRIBnUhPA7) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Intro Bonito](https://open.spotify.com/album/3RNP9iHMJpFkGbMB2OAnJn) | 1:55 | 2024-02-12 | 2024-02-15 |
 | [I'll Haunt You](https://open.spotify.com/track/4ZXIWSHrJT3yL6IrLPWPM5) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Swimmer](https://open.spotify.com/album/3vghyeIx26jtU7DdAW2bEb) | 2:32 | 2022-03-31 | 2022-07-03 |
-| [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 | 2022-03-09 |  |
+| [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 | 2022-03-09 | 2025-06-11 |
 | [I'm Not Done \- Still Not Done Mix](https://open.spotify.com/track/5bhgC6aNOJIt5PVTrmuwu1) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Plunge Remix](https://open.spotify.com/album/2wV1CNHfzOxg2dD7UvTfGF) | 4:28 | 2022-06-09 | 2022-06-10 |
 | [I'm On Fire](https://open.spotify.com/track/04sx4DemzEp9Dzopqge2QX) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [In The City](https://open.spotify.com/album/0IPR1Bmg15FsnBtZ0BNFA5) | 4:05 | 2020-10-16\* | 2022-03-05 |
 | [I'm on Top](https://open.spotify.com/track/42xl5HtTPAiHNGzUAYC6of) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [I'm on Top](https://open.spotify.com/album/3L1JG5XGlYjZp0IN7y8pMu) | 3:22 | 2023-05-08 | 2023-11-11 |
@@ -1283,7 +1283,7 @@
 | [Proto](https://open.spotify.com/track/1kQgvgzTxrGQMU8HjR6Mdv) | [Prince Innocence](https://open.spotify.com/artist/2lMbnMWwgAxvVHXVDlF3ZV) | [Lapse \- EP](https://open.spotify.com/album/2UuaVj6om6EkS5T7Aq9lah) | 3:26 | 2023-04-18 | 2023-05-04 |
 | [Ptolemaea](https://open.spotify.com/track/7JqYAVv3OZnaYZ7i9pNdtN) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD) | 6:23 | 2022-10-08 | 2022-10-13 |
 | [Pulse](https://open.spotify.com/track/2ITYYmWIJT2NeGyCfgMZmq) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 4:03 | 2023-06-04 | 2023-06-08 |
-| [Pulse](https://open.spotify.com/track/5bgvvo3M133lVVzTZpZFmV) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE) | 4:03 | 2025-02-17 | 2025-06-09 |
+| [Pulse](https://open.spotify.com/track/5bgvvo3M133lVVzTZpZFmV) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE) | 4:03 | 2025-02-17 |  |
 | [Pulsewidth](https://open.spotify.com/track/643gyipSU7dkmrFhJ8UAIm) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 3:48 | 2024-02-22 | 2024-04-11 |
 | [Pumpkin Attack on Mommy and Daddy](https://open.spotify.com/track/5qZgel15EFnyCrJKsNI7Mj) | [Xiu Xiu](https://open.spotify.com/artist/5JLqvjW3Nyom2OsRUyFsS9) | [Girl with Basket of Fruit](https://open.spotify.com/album/7ml3twZt7NnjolHqminVwl) | 5:00 | 2023-02-25 | 2023-07-12 |
 | [Pumpkin Attack on Mommy and Daddy](https://open.spotify.com/track/6sS4xbV549t7URdvM2Uem4) | [Xiu Xiu](https://open.spotify.com/artist/5JLqvjW3Nyom2OsRUyFsS9) | [Girl with Basket of Fruit](https://open.spotify.com/album/0Sm1k8ifHIO117TmPPgv4I) | 5:00 | 2022-03-22 | 2022-10-17 |
@@ -1425,7 +1425,7 @@
 | [Sit / Stay](https://open.spotify.com/track/63UZ7V1aOCm902l8SVv1rI) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/4LgpVx8efQT7SRXGRq5Tze) | 3:54 | 2022-03-13 | 2022-10-08 |
 | [Sixteen](https://open.spotify.com/track/6YVnxQXmEI4KrbhtSUGWCd) | [Ayesha Erotica](https://open.spotify.com/artist/5EiwfaQxmwjCyPLZ7i6kxW) | [Tasty Erotica](https://open.spotify.com/album/785p4fVWelSxMTYn8iDg9J) | 2:12 | 2020-12-24 | 2021-01-02 |
 | [Skeleton](https://open.spotify.com/track/2SxSeN5PN2kd3JaVIQVkW3) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 4:00 | 2022-04-23 | 2024-02-02 |
-| [Skeleton](https://open.spotify.com/track/659mtBqBiCt0Ohz7FI5cZ7) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE) | 4:00 | 2024-12-14 |  |
+| [Skeleton](https://open.spotify.com/track/659mtBqBiCt0Ohz7FI5cZ7) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE) | 4:00 | 2024-12-14 | 2025-06-11 |
 | [Skin](https://open.spotify.com/track/1o9WcfspYzjQmUG3BWH5ux) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 6:09 | 2021-02-17 | 2025-05-30 |
 | [Skin](https://open.spotify.com/track/2i2iJ6EBx18SRHFTFHD0Ys) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE) | 6:09 | 2020-11-15 | 2020-11-16 |
 | [Skin Walker](https://open.spotify.com/track/7hFEVgrTWhGf6RdHQULBql) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [I Hate People On The Internet](https://open.spotify.com/album/0e8Mkw2QbxOROl9ktrjQDJ) | 2:44 | 2022-07-20 | 2022-10-08 |

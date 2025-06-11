@@ -4,7 +4,7 @@
 
 > CURATED BY TYLER BRADEN\-\- these are his country essentials! Keep checking back to see who will curate next! This is the best of country!
 
-318 songs - 19 hr 21 min
+319 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Too Easy \(From Twisters: The Album\)](https://open.spotify.com/track/5DWplsLK5juocMo4PBX826) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Too Easy \(From Twisters: The Album\)](https://open.spotify.com/album/1dbfKHyu773FIRYf8dQY8v) | 2:30 | 2024-07-03 | 2024-09-05 |
 | [Turtles All the Way Down](https://open.spotify.com/track/4NE3oWyUQI2b2NjyMyC8Bi) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 3:08 | 2024-09-04 | 2025-04-26 |
 | [Tush \- 2006 Remaster](https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 2:17 | 2022-05-05 | 2024-07-05 |
+| [Tyler Braden Takes Over the Country Essentials 2025 Playlist](https://open.spotify.com/episode/4SgaYawO9SA9PN6j1ukTkj) | [Topsify](https://open.spotify.com/show/0sv18JZgOQr2m1eXWF7sKJ) | [Topsify](https://open.spotify.com/album/0sv18JZgOQr2m1eXWF7sKJ) | 0:55 | 2025-06-10 |  |
 | [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 | 2022-05-05 | 2024-07-05 |
 | [Up To No Good](https://open.spotify.com/track/03hcfTQjONwVFIYEu7Sx7u) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes the Album](https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU) | 2:13 | 2024-07-03 | 2024-09-05 |
 | [Ventura Highway](https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [Homecoming](https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um) | 3:31 | 2022-05-05 | 2024-07-05 |

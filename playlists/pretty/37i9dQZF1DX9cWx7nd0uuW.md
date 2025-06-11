@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cWx7nd0uuW.md) - [plain]
 
 > Challenging norms, breaking boundaries with Advisry's Keith Herron\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,095 likes - 42 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,102 likes - 42 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cWx7nd0uuW.md) - [plain]
 | 41 | [Happy Ending](https://open.spotify.com/track/1Szz2K6zjz3tbHJFfuIb4E) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:08 |
 | 42 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 |
 
-Snapshot ID: `AAAAAEQFRn/9LC3u2/BzKXelQ2Bna3jt`
+Snapshot ID: `ZSjA/AAAAAAAbGHJhge6BB2WDro3++P1`

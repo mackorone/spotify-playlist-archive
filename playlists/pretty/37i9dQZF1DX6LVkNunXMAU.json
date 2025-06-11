@@ -1,6 +1,6 @@
 {
   "description": "indie folk latino de estaci\u00f3n. Foto: Paz Carrara y Raly Barrionuevo",
-  "num_followers": 60440,
+  "num_followers": 60455,
   "original_name": "folk & oto\u00f1o",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
+        "name": "Reminiscencia",
+        "url": "https://open.spotify.com/album/2YYYKlbq15SgyHOzyTqLvu"
+      },
+      "artists": [
+        {
+          "name": "Lu Ferreyra",
+          "url": "https://open.spotify.com/artist/723edx2BuJb3sprVI7DDyO"
+        }
+      ],
+      "duration_ms": 220537,
+      "name": "Reminiscencia",
+      "url": "https://open.spotify.com/track/0bk8u1GOiuSJyIhvmzvQ10"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
         "name": "Carretera Austral",
         "url": "https://open.spotify.com/album/09aNyCG1HL7eBxvJSpDpWg"
       },
@@ -499,22 +515,6 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "Reminiscencia",
-        "url": "https://open.spotify.com/album/2YYYKlbq15SgyHOzyTqLvu"
-      },
-      "artists": [
-        {
-          "name": "Lu Ferreyra",
-          "url": "https://open.spotify.com/artist/723edx2BuJb3sprVI7DDyO"
-        }
-      ],
-      "duration_ms": 220537,
-      "name": "Reminiscencia",
-      "url": "https://open.spotify.com/track/0bk8u1GOiuSJyIhvmzvQ10"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
         "name": "Quemarropa",
         "url": "https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9"
       },
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "Volar",
-        "url": "https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        }
-      ],
-      "duration_ms": 199946,
-      "name": "Volar",
-      "url": "https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
         "name": "Para\u00edso Coraz\u00f3n",
         "url": "https://open.spotify.com/album/2fPlyQwOTDnwE0nnpxzWuZ"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 206777,
       "name": "M\u00fasica de Computadora",
       "url": "https://open.spotify.com/track/3URE4Okm8FmExP0AcyqrMI"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
+        "name": "Volar",
+        "url": "https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        }
+      ],
+      "duration_ms": 199946,
+      "name": "Volar",
+      "url": "https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -843,26 +843,6 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "Particular",
-        "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
-      },
-      "artists": [
-        {
-          "name": "LE TORO",
-          "url": "https://open.spotify.com/artist/399hFqtRXcXAUU8F4x2BkN"
-        },
-        {
-          "name": "INE",
-          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
-        }
-      ],
-      "duration_ms": 165808,
-      "name": "Particular",
-      "url": "https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
         "name": "Tampoco Poco",
         "url": "https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 180534,
       "name": "Tampoco Poco",
       "url": "https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
+        "name": "Particular",
+        "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
+      },
+      "artists": [
+        {
+          "name": "LE TORO",
+          "url": "https://open.spotify.com/artist/399hFqtRXcXAUU8F4x2BkN"
+        },
+        {
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+        }
+      ],
+      "duration_ms": 165808,
+      "name": "Particular",
+      "url": "https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -903,6 +903,22 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
+        "name": "El Vals",
+        "url": "https://open.spotify.com/album/1I0GlSP3diYHVYtDaXFyrN"
+      },
+      "artists": [
+        {
+          "name": "Felix Alvarez",
+          "url": "https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA"
+        }
+      ],
+      "duration_ms": 200956,
+      "name": "El Vals",
+      "url": "https://open.spotify.com/track/6zx183cKNh2ws2k9ikLK1Q"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
         "name": "V13",
         "url": "https://open.spotify.com/album/3nVZrraklAxaq0VlJSdmLZ"
       },
@@ -923,34 +939,18 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "El Vals",
-        "url": "https://open.spotify.com/album/1I0GlSP3diYHVYtDaXFyrN"
+        "name": "2:42",
+        "url": "https://open.spotify.com/album/0IeereaucGl6PwFZ3CCh4O"
       },
       "artists": [
         {
-          "name": "Felix Alvarez",
-          "url": "https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA"
+          "name": "SANTACRUZ",
+          "url": "https://open.spotify.com/artist/42q0iHNbkj0YS8kp0QuOp2"
         }
       ],
-      "duration_ms": 200956,
-      "name": "El Vals",
-      "url": "https://open.spotify.com/track/6zx183cKNh2ws2k9ikLK1Q"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
-        "name": "Ancla",
-        "url": "https://open.spotify.com/album/6zxhQ5fk9XWNJ7RiqLq8QU"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 212444,
-      "name": "Ancla",
-      "url": "https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp"
+      "duration_ms": 171388,
+      "name": "2:42",
+      "url": "https://open.spotify.com/track/4yzo6HV34l2wGug7W90BPZ"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -971,18 +971,18 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "2:42",
-        "url": "https://open.spotify.com/album/0IeereaucGl6PwFZ3CCh4O"
+        "name": "Ancla",
+        "url": "https://open.spotify.com/album/6zxhQ5fk9XWNJ7RiqLq8QU"
       },
       "artists": [
         {
-          "name": "SANTACRUZ",
-          "url": "https://open.spotify.com/artist/42q0iHNbkj0YS8kp0QuOp2"
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
         }
       ],
-      "duration_ms": 171388,
-      "name": "2:42",
-      "url": "https://open.spotify.com/track/4yzo6HV34l2wGug7W90BPZ"
+      "duration_ms": 212444,
+      "name": "Ancla",
+      "url": "https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "Dolor",
-        "url": "https://open.spotify.com/album/6zB720K3Qqm1dpiZPJB60h"
-      },
-      "artists": [
-        {
-          "name": "Maria Campos",
-          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
-        }
-      ],
-      "duration_ms": 168037,
-      "name": "Dolor",
-      "url": "https://open.spotify.com/track/0chHnBvvMZPlYhu9zng97m"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
         "name": "Coquimbo, Mazatl\u00e1n",
         "url": "https://open.spotify.com/album/44SIr0g0SdQWjxmZSOo6cd"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 264732,
       "name": "Coquimbo, Mazatl\u00e1n",
       "url": "https://open.spotify.com/track/6hJ3NOmGfnY11dvwsM2I3Z"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
+        "name": "Dolor",
+        "url": "https://open.spotify.com/album/6zB720K3Qqm1dpiZPJB60h"
+      },
+      "artists": [
+        {
+          "name": "Maria Campos",
+          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
+        }
+      ],
+      "duration_ms": 168037,
+      "name": "Dolor",
+      "url": "https://open.spotify.com/track/0chHnBvvMZPlYhu9zng97m"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
-        "name": "Caparaz\u00f3n",
-        "url": "https://open.spotify.com/album/1BsdnZvfo9rUHKj7XGgpNp"
-      },
-      "artists": [
-        {
-          "name": "Delfi Moore",
-          "url": "https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe"
-        }
-      ],
-      "duration_ms": 187594,
-      "name": "Caparaz\u00f3n",
-      "url": "https://open.spotify.com/track/1ZILqfSEpNKojBamw4IRnN"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
         "name": "Barquinho",
         "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 152750,
       "name": "Barquinho",
       "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
+        "name": "Caparaz\u00f3n",
+        "url": "https://open.spotify.com/album/1BsdnZvfo9rUHKj7XGgpNp"
+      },
+      "artists": [
+        {
+          "name": "Delfi Moore",
+          "url": "https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe"
+        }
+      ],
+      "duration_ms": 187594,
+      "name": "Caparaz\u00f3n",
+      "url": "https://open.spotify.com/track/1ZILqfSEpNKojBamw4IRnN"
     },
     {
       "added_at": "2025-04-25 03:00:33",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2025-04-25 03:00:33",
       "album": {
+        "name": "Cumbia Nena Magic",
+        "url": "https://open.spotify.com/album/2caja4MilrThiyXshp5nTa"
+      },
+      "artists": [
+        {
+          "name": "Manu Hattom",
+          "url": "https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY"
+        }
+      ],
+      "duration_ms": 191418,
+      "name": "Cumbia Nena Magic",
+      "url": "https://open.spotify.com/track/7iU8rcZIZBsVs8UX3t5xCW"
+    },
+    {
+      "added_at": "2025-04-25 03:00:33",
+      "album": {
         "name": "Sed de Ternura Vol.1 (Duo Set)",
         "url": "https://open.spotify.com/album/4qYPcULqIyFhuyqBRbDHpA"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 187000,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/40R2dPgyTDiToHbjU6Nen0"
-    },
-    {
-      "added_at": "2025-04-25 03:00:33",
-      "album": {
-        "name": "Cumbia Nena Magic",
-        "url": "https://open.spotify.com/album/2caja4MilrThiyXshp5nTa"
-      },
-      "artists": [
-        {
-          "name": "Manu Hattom",
-          "url": "https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY"
-        }
-      ],
-      "duration_ms": 191418,
-      "name": "Cumbia Nena Magic",
-      "url": "https://open.spotify.com/track/7iU8rcZIZBsVs8UX3t5xCW"
     },
     {
       "added_at": "2025-04-25 03:00:33",

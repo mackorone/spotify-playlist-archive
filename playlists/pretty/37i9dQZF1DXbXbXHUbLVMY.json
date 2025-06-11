@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udea8 ",
-  "num_followers": 70,
+  "num_followers": 39,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -255,26 +255,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/30pPojWH2mqVN5aXmocwRY"
-      },
-      "artists": [
-        {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
-        },
-        {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
-        }
-      ],
-      "duration_ms": 148373,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/21RCoKctRVVVG8nt8r5dsU"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "players (feat. Ari Bajgora)",
         "url": "https://open.spotify.com/album/0LnOHuLU0X0GDrrUEJDfqs"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 151693,
       "name": "players (feat. Ari Bajgora)",
       "url": "https://open.spotify.com/track/5E76BN3Mzf66NPmiACqUi6"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/30pPojWH2mqVN5aXmocwRY"
+      },
+      "artists": [
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        },
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        }
+      ],
+      "duration_ms": 148373,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/21RCoKctRVVVG8nt8r5dsU"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -871,18 +871,18 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Trump",
-        "url": "https://open.spotify.com/album/4FOR6AyYhKQZfYNBaMZzsx"
+        "name": "2 Trekk",
+        "url": "https://open.spotify.com/album/2wYFWBGcjjulb9KrIQDmso"
       },
       "artists": [
         {
-          "name": "Magzim",
-          "url": "https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn"
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
         }
       ],
-      "duration_ms": 122322,
-      "name": "Trump",
-      "url": "https://open.spotify.com/track/4SxPAIOIiVTXbacf83ZPne"
+      "duration_ms": 172841,
+      "name": "2 Trekk",
+      "url": "https://open.spotify.com/track/5OfEqTBuUw1LqeU5FLgNNW"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -923,18 +923,18 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "2 Trekk",
-        "url": "https://open.spotify.com/album/2wYFWBGcjjulb9KrIQDmso"
+        "name": "Trump",
+        "url": "https://open.spotify.com/album/4FOR6AyYhKQZfYNBaMZzsx"
       },
       "artists": [
         {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+          "name": "Magzim",
+          "url": "https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn"
         }
       ],
-      "duration_ms": 172841,
-      "name": "2 Trekk",
-      "url": "https://open.spotify.com/track/5OfEqTBuUw1LqeU5FLgNNW"
+      "duration_ms": 122322,
+      "name": "Trump",
+      "url": "https://open.spotify.com/track/4SxPAIOIiVTXbacf83ZPne"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -959,6 +959,30 @@
       "duration_ms": 121629,
       "name": "Hva Vil Du",
       "url": "https://open.spotify.com/track/31YHU4e3AaomzCYvuLHXom"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "Bed\u00f8velse Gj\u00f8r Mester",
+        "url": "https://open.spotify.com/album/1MEQ3H8iYw0q4npG8Bht2t"
+      },
+      "artists": [
+        {
+          "name": "Tyr",
+          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        },
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        },
+        {
+          "name": "Siyab\u00e5ng",
+          "url": "https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK"
+        }
+      ],
+      "duration_ms": 221276,
+      "name": "Tyrs Vals (feat. Arif Murakami & Siyab\u00e5ng)",
+      "url": "https://open.spotify.com/track/0V0qOWYd1Oz1jGaVFii95s"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -1023,30 +1047,6 @@
       "duration_ms": 188785,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/5ZfR2ZsJrBJpLIMsN7zMIn"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
-        "name": "Bed\u00f8velse Gj\u00f8r Mester",
-        "url": "https://open.spotify.com/album/1MEQ3H8iYw0q4npG8Bht2t"
-      },
-      "artists": [
-        {
-          "name": "Tyr",
-          "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
-        },
-        {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
-        },
-        {
-          "name": "Siyab\u00e5ng",
-          "url": "https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK"
-        }
-      ],
-      "duration_ms": 221276,
-      "name": "Tyrs Vals (feat. Arif Murakami & Siyab\u00e5ng)",
-      "url": "https://open.spotify.com/track/0V0qOWYd1Oz1jGaVFii95s"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
+        "name": "Plz",
+        "url": "https://open.spotify.com/album/1fq4RgmOWZDIcn8xMU8Seb"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "duration_ms": 142118,
+      "name": "Plz",
+      "url": "https://open.spotify.com/track/01zRsUiMwy2eev4L0LKZvo"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
         "name": "Pennen & Sverdet",
         "url": "https://open.spotify.com/album/5tyxwV6ZtkLLpt1a8RtFpa"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 158006,
       "name": "Byggeklosser",
       "url": "https://open.spotify.com/track/4oTk9KPi04XhB0eFxLLDoo"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
-        "name": "Plz",
-        "url": "https://open.spotify.com/album/1fq4RgmOWZDIcn8xMU8Seb"
-      },
-      "artists": [
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        }
-      ],
-      "duration_ms": 142118,
-      "name": "Plz",
-      "url": "https://open.spotify.com/track/01zRsUiMwy2eev4L0LKZvo"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
+        "name": "Fakk love",
+        "url": "https://open.spotify.com/album/3BbrExBX9GDFKEMDQ0AbQA"
+      },
+      "artists": [
+        {
+          "name": "Chris Abolade",
+          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
+        }
+      ],
+      "duration_ms": 124750,
+      "name": "Fakk love",
+      "url": "https://open.spotify.com/track/05mlYFe6CSsOaghF1lTJNB"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
         "name": "Meet Me",
         "url": "https://open.spotify.com/album/0feypZYACSl2PL5m164tU2"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 162000,
       "name": "Meet Me",
       "url": "https://open.spotify.com/track/5h4sKMUrBnPgBqgaO1J8kz"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
-        "name": "Fakk love",
-        "url": "https://open.spotify.com/album/3BbrExBX9GDFKEMDQ0AbQA"
-      },
-      "artists": [
-        {
-          "name": "Chris Abolade",
-          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
-        }
-      ],
-      "duration_ms": 124750,
-      "name": "Fakk love",
-      "url": "https://open.spotify.com/track/05mlYFe6CSsOaghF1lTJNB"
     },
     {
       "added_at": "2025-05-22 22:00:39",

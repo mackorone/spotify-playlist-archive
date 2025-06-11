@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u6765\u65e5\u516c\u6f14 Stray Kids World Tour \u300edominATE JAPAN\u300f\u306e\u30bb\u30c3\u30c8\u30ea\u30b9\u30c8\u3092MC\u3068\u5171\u306b\u516c\u958b\uff01",
+  "description": "Stray Kids World Tour \u300edominATE JAPAN\u300f\u9759\u5ca1\u30a8\u30b3\u30d1\u30b9\u30bf\u30b8\u30a2\u30e0\u516c\u6f14\u3067\u306e\u30bb\u30c3\u30c8\u30ea\u30b9\u30c8\u3092\u516c\u958b\uff01",
   "name": "On Tour Japan: Stray Kids",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 193459,
       "name": "About \"GIANT\"",
       "url": "https://open.spotify.com/track/5GFCbB6Mb58nH6jRTPWxQL"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 836352,
       "name": "About Solo Stages",
       "url": "https://open.spotify.com/track/7EOBBrqrcYtDz9BAgs3QF3"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 213573,
       "name": "As we are (Seungmin)",
       "url": "https://open.spotify.com/track/7qBtrHeh3R41pfe9t0j5ZP"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-18",
+      "date_removed": null,
       "duration_ms": 200813,
       "name": "BLIND SPOT",
       "url": "https://open.spotify.com/track/4PV7XCf0Kts7mWu4KPbi56"
@@ -272,6 +272,24 @@
       "duration_ms": 220648,
       "name": "Booster",
       "url": "https://open.spotify.com/track/0UmzMKmO7Xsei8UtGTLjKY"
+    },
+    {
+      "album": {
+        "name": "Mixtape : dominATE",
+        "url": "https://open.spotify.com/album/4fTGqjAolmy05iQwHq7n6x"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173413,
+      "name": "Burnin\u2019 Tires (Changbin & I.N)",
+      "url": "https://open.spotify.com/track/1qpIvbvH6qdeIclH8exaQA"
     },
     {
       "album": {
@@ -340,7 +358,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 193373,
       "name": "CASE 143 -Japanese ver.-",
       "url": "https://open.spotify.com/track/24c1YnlFKxrAPINd69UlLd"
@@ -502,10 +520,28 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 186200,
       "name": "Christmas Love",
       "url": "https://open.spotify.com/track/6kc4TYfDwwxd5ihBAxVF9L"
+    },
+    {
+      "album": {
+        "name": "Mixtape : dominATE",
+        "url": "https://open.spotify.com/album/4fTGqjAolmy05iQwHq7n6x"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221346,
+      "name": "CINEMA (Lee Know & Seungmin)",
+      "url": "https://open.spotify.com/track/62gh6CJh4UgCKhb0UVOgNf"
     },
     {
       "album": {
@@ -574,7 +610,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 172320,
       "name": "COMFLEX",
       "url": "https://open.spotify.com/track/7289Xa5folExThdAnsfZsI"
@@ -628,7 +664,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 191013,
       "name": "Cover Me",
       "url": "https://open.spotify.com/track/3JANGirqYxKdxjh55Lj1a9"
@@ -772,7 +808,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 70787,
       "name": "Double Encore",
       "url": "https://open.spotify.com/track/6YB4VAMzBFMcnSSWxMUKpT"
@@ -808,10 +844,28 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 98331,
       "name": "Encore",
       "url": "https://open.spotify.com/track/3TctTXvgogwoOvrD82UAko"
+    },
+    {
+      "album": {
+        "name": "Mixtape : dominATE",
+        "url": "https://open.spotify.com/album/4fTGqjAolmy05iQwHq7n6x"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191093,
+      "name": "ESCAPE (Bang Chan & Hyunjin)",
+      "url": "https://open.spotify.com/track/3azJdRk8qSuApz5irmde3R"
     },
     {
       "album": {
@@ -898,7 +952,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-11",
+      "date_removed": null,
       "duration_ms": 215066,
       "name": "FAM",
       "url": "https://open.spotify.com/track/6ilFCE6Ec0g4i6qbay0t6s"
@@ -934,7 +988,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 44160,
       "name": "Farewell Message 1",
       "url": "https://open.spotify.com/track/61HeAvkkZ368ausvl0bdlU"
@@ -952,7 +1006,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 41574,
       "name": "Farewell Message 2",
       "url": "https://open.spotify.com/track/683EWXh1vwSP5ufwtrlLes"
@@ -1024,7 +1078,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 171000,
       "name": "GET LIT",
       "url": "https://open.spotify.com/track/23VYz0E9oUxyNnW07CzfMN"
@@ -1150,7 +1204,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 131560,
       "name": "Greetings from Stray Kids",
       "url": "https://open.spotify.com/track/4SBfolvtp20uV6vhBPBGle"
@@ -1222,7 +1276,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 163093,
       "name": "HALLUCINATION (I.N)",
       "url": "https://open.spotify.com/track/5AEOme330tTZEJlFoMFdRM"
@@ -1330,10 +1384,28 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 179400,
       "name": "Hold my hand (HAN)",
       "url": "https://open.spotify.com/track/0Ohk9Dc52UeGMoX67Mzj1T"
+    },
+    {
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/3yZGdJW5lLePqAPE5z7OxT"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209226,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/5K1thEZHOgjE89mxwA01T9"
     },
     {
       "album": {
@@ -1420,7 +1492,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 191533,
       "name": "ITEM",
       "url": "https://open.spotify.com/track/4dMD5fCmVMgbbGPGzanmpK"
@@ -1456,7 +1528,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 163680,
       "name": "Kanpai! & Comment",
       "url": "https://open.spotify.com/track/4mHrVgCyHEFNiWzLwSEZfb"
@@ -1676,7 +1748,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 185520,
       "name": "MEGAVERSE",
       "url": "https://open.spotify.com/track/3USu1p2lKTzoKFIRDeeJf8"
@@ -1694,7 +1766,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 42325,
       "name": "Merry Xmas!",
       "url": "https://open.spotify.com/track/6i0KQCx982gE8cXPA4D451"
@@ -1971,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "SKZ2020",
+        "url": "https://open.spotify.com/album/5dkqH8Cr6MHhxGV0vzIMOM"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190306,
+      "name": "My Pace",
+      "url": "https://open.spotify.com/track/395rNeuO1Eqmc1dai4K83p"
+    },
+    {
+      "album": {
         "name": "My Pace -Japanese ver.-",
         "url": "https://open.spotify.com/album/0YGA8rut4VtAnOTsIvZjOT"
       },
@@ -1982,7 +2072,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 189149,
       "name": "My Pace -Japanese ver.-",
       "url": "https://open.spotify.com/track/0fREGqFdul0GnsIuxU7aEh"
@@ -2018,7 +2108,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 53243,
       "name": "Next Stage is\u2026",
       "url": "https://open.spotify.com/track/2n4z6Y42rtHKvIaAe7MBai"
@@ -2126,7 +2216,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 121840,
       "name": "Opening Comment",
       "url": "https://open.spotify.com/track/7LrwleGuGvCNUbFX5encku"
@@ -2162,7 +2252,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 173640,
       "name": "Railway (Bang Chan)",
       "url": "https://open.spotify.com/track/3sN9AWbeDXQ0AeRlfyriX2"
@@ -2378,7 +2468,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 168640,
       "name": "So Good (Hyunjin)",
       "url": "https://open.spotify.com/track/0scsr1m6HYRSDHz0hxapg9"
@@ -2530,7 +2620,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-11",
+      "date_removed": null,
       "duration_ms": 185960,
       "name": "SUPER BOARD",
       "url": "https://open.spotify.com/track/4lcJyn1TIlgyx9pdq78Gfg"
@@ -2566,7 +2656,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 185013,
       "name": "Super Bowl -Japanese ver.-",
       "url": "https://open.spotify.com/track/74zvsuvIImK08x0SyRdw78"
@@ -2584,7 +2674,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 32765,
       "name": "Surprise Event",
       "url": "https://open.spotify.com/track/7G7pjK0NkoJTmlEvtH6UTo"
@@ -2833,6 +2923,24 @@
     },
     {
       "album": {
+        "name": "Mixtape : dominATE",
+        "url": "https://open.spotify.com/album/4fTGqjAolmy05iQwHq7n6x"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195333,
+      "name": "Truman (HAN & Felix)",
+      "url": "https://open.spotify.com/track/66yecHTxgtWpRPqnLPSfVM"
+    },
+    {
+      "album": {
         "name": "ATE",
         "url": "https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7"
       },
@@ -2844,7 +2952,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 192777,
       "name": "twilight",
       "url": "https://open.spotify.com/track/45X5lVLg9ki8b1KcR7CWRA"
@@ -2862,7 +2970,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 147400,
       "name": "ULTRA (Changbin)",
       "url": "https://open.spotify.com/track/5LiRLjFqwPNR8WBmlsbQW6"
@@ -2880,7 +2988,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 168146,
       "name": "Unfair (Felix)",
       "url": "https://open.spotify.com/track/04vneFKe8iMdaA4d2zxgjb"
@@ -2916,7 +3024,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 194840,
       "name": "VENOM",
       "url": "https://open.spotify.com/track/5VwOAFFqlLikti3l1RJnPz"
@@ -2956,6 +3064,24 @@
       "duration_ms": 219506,
       "name": "Waiting For Us (Bang Chan, Lee Know, Seungmin, I.N)",
       "url": "https://open.spotify.com/track/2LzRBroL4J9pXLf1Nsen4s"
+    },
+    {
+      "album": {
+        "name": "HOP",
+        "url": "https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148810,
+      "name": "Walkin On Water",
+      "url": "https://open.spotify.com/track/4YPF8kjq2Q9hVzOwBjM2vg"
     },
     {
       "album": {
@@ -3078,7 +3204,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 160173,
       "name": "Youth (Lee Know)",
       "url": "https://open.spotify.com/track/5SIpAgIb0L1Yc89KH2EhsT"

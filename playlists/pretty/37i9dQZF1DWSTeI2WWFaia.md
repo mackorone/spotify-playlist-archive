@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Benny The Butcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,589,098 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,589,049 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 32 | [LLC](https://open.spotify.com/track/4JI768EyJBdmpQdc4oL9uP) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:18 |
 | 33 | [Pipeline](https://open.spotify.com/track/4SJNTcvRNneF6B210XyqLu) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [Pipeline](https://open.spotify.com/album/5lYViAIS1MLIXpYPWp4UbS) | 3:39 |
 | 34 | [3333](https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [3333](https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D) | 2:33 |
-| 35 | [055](https://open.spotify.com/track/4fPRdyZTAJxZS3m3UKm8zR) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [12](https://open.spotify.com/album/3LtZUOfccDjNs18684twS8) | 4:03 |
-| 36 | [Dont Wanna C Me Rich](https://open.spotify.com/track/2yIg0KHEuXzagLIDNS2I0s) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Muddy Waters Too](https://open.spotify.com/album/5aahGTQnyEzNwR8Wy2lEpi) | 2:17 |
-| 37 | [Palaces](https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e) | 3:45 |
+| 35 | [Palaces](https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e) | 3:45 |
+| 36 | [055](https://open.spotify.com/track/4fPRdyZTAJxZS3m3UKm8zR) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [12](https://open.spotify.com/album/3LtZUOfccDjNs18684twS8) | 4:03 |
+| 37 | [Dont Wanna C Me Rich](https://open.spotify.com/track/2yIg0KHEuXzagLIDNS2I0s) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Muddy Waters Too](https://open.spotify.com/album/5aahGTQnyEzNwR8Wy2lEpi) | 2:17 |
 | 38 | [Judgement Day](https://open.spotify.com/track/0EfSMdCzfbDsQpq7gnyYi4) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:14 |
 | 39 | [The Dead Apple](https://open.spotify.com/track/3E0vJ5w8BmK4KapEJ5ZWUI) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [The Dead Apple / New York Crash](https://open.spotify.com/album/5XwaABkGUxYERVfV9q6e4L) | 4:14 |
-| 40 | [OUTLANDER](https://open.spotify.com/track/0XYCmKYEqdtNE8mYIIaBg9) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [12](https://open.spotify.com/album/3LtZUOfccDjNs18684twS8) | 3:09 |
-| 41 | [BLAH](https://open.spotify.com/track/7zsSnv9ff1GMvf0LxXHpnP) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [BLAH](https://open.spotify.com/album/7mQxz688kGblo1TPYp40VM) | 2:27 |
+| 40 | [BLAH](https://open.spotify.com/track/7zsSnv9ff1GMvf0LxXHpnP) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [BLAH](https://open.spotify.com/album/7mQxz688kGblo1TPYp40VM) | 2:27 |
+| 41 | [OUTLANDER](https://open.spotify.com/track/0XYCmKYEqdtNE8mYIIaBg9) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [12](https://open.spotify.com/album/3LtZUOfccDjNs18684twS8) | 3:09 |
 | 42 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:34 |
 | 43 | [Syrup Sandwiches \(feat\. Joey Bada$$\)](https://open.spotify.com/track/2BYffiV0F3ZGKVLuQjmjY2) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Syrup Sandwiches \(feat\. Joey Bada$$\)](https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i) | 2:53 |
 | 44 | [Born Alone](https://open.spotify.com/track/2neOh0UnFRntLK3tdUV7W0) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO) | [GOLLIWOG](https://open.spotify.com/album/6YjoANrjcsf17p1OmWESfo) | 2:56 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 24389,
+  "num_followers": 24395,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAACYsbZZlIJOQF10LMF94Ub3",
+  "snapshot_id": "aEYkAAAAAADUTqs2FTFm1VfpwesVS3l1",
   "tracks": [
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trucks On The Track",
-        "url": "https://open.spotify.com/album/2R1izUaVNUSMbNYS2S2vit"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Dieseline Dreams",
-      "url": "https://open.spotify.com/track/1a7fWD6ICc5Dbr5d22UyRV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where Country Is",
         "url": "https://open.spotify.com/album/4aGplOfbNUeAwn1hiAdQVR"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 232746,
       "name": "Where Country Is",
       "url": "https://open.spotify.com/track/0OUJQOvbcQx82CQk27Koly"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trucks On The Track",
+        "url": "https://open.spotify.com/album/2R1izUaVNUSMbNYS2S2vit"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Dieseline Dreams",
+      "url": "https://open.spotify.com/track/1a7fWD6ICc5Dbr5d22UyRV"
     },
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Slim Dusty Heritage Album",
-        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 271133,
-      "name": "We've Done Us Proud",
-      "url": "https://open.spotify.com/track/3Ul3CKnqUSGcoGSQU8v3lz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where Country Is",
         "url": "https://open.spotify.com/album/4aGplOfbNUeAwn1hiAdQVR"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 219493,
       "name": "Under The Spell Of Highway One",
       "url": "https://open.spotify.com/track/1mYEgQl8LaIaQQRVp339sL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Slim Dusty Heritage Album",
+        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 271133,
+      "name": "We've Done Us Proud",
+      "url": "https://open.spotify.com/track/3Ul3CKnqUSGcoGSQU8v3lz"
     },
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+        "name": "Songs For Rolling Stones",
+        "url": "https://open.spotify.com/album/7cZ7GoAcotwhowCmZnBbvZ"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 174333,
-      "name": "Give Me Room",
-      "url": "https://open.spotify.com/track/2yiMsEVRfPfs9olrhFmi0E"
+      "duration_ms": 114266,
+      "name": "The Road To Gundagai - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4pTr8PAfKTGz6Qr2hari9D"
     },
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs For Rolling Stones",
-        "url": "https://open.spotify.com/album/7cZ7GoAcotwhowCmZnBbvZ"
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 114266,
-      "name": "The Road To Gundagai - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4pTr8PAfKTGz6Qr2hari9D"
+      "duration_ms": 174333,
+      "name": "Give Me Room",
+      "url": "https://open.spotify.com/track/2yiMsEVRfPfs9olrhFmi0E"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
       "duration_ms": 174773,
       "name": "Old Time Country Halls",
       "url": "https://open.spotify.com/track/6ZxMX4kyWDX7TqrlbyNi1L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Mechanised Swaggie",
-      "url": "https://open.spotify.com/track/0TJ7R2m1d0bs0H4EZT79Fe"
     },
     {
       "added_at": null,
@@ -467,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "Mechanised Swaggie",
+      "url": "https://open.spotify.com/track/0TJ7R2m1d0bs0H4EZT79Fe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Truck Songs",
         "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
       },
@@ -479,26 +479,6 @@
       "duration_ms": 191693,
       "name": "Gotta Keep Moving",
       "url": "https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Looking Forward Looking Back",
-        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        },
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Matilda No More",
-      "url": "https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM"
     },
     {
       "added_at": null,
@@ -562,11 +542,15 @@
         {
           "name": "Slim Dusty",
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 180666,
-      "name": "The Bloke Who Serves The Beer",
-      "url": "https://open.spotify.com/track/6S88P3r3HlpyrAEn8yBjOP"
+      "duration_ms": 221306,
+      "name": "Matilda No More",
+      "url": "https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM"
     },
     {
       "added_at": null,
@@ -628,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 272093,
-      "name": "Paddy William",
-      "url": "https://open.spotify.com/track/0sQYfdkld1cuFNZyczDB2u"
+      "duration_ms": 180666,
+      "name": "The Bloke Who Serves The Beer",
+      "url": "https://open.spotify.com/track/6S88P3r3HlpyrAEn8yBjOP"
     },
     {
       "added_at": null,
@@ -715,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Makin' A Mile",
+        "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 151840,
+      "name": "No Good Truckin' Man",
+      "url": "https://open.spotify.com/track/3wOZmnApmX1c7ytbvjYelE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Old Time Drover's Lament",
         "url": "https://open.spotify.com/album/45DB0DhkzwyoMs2ff9P480"
       },
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Makin' A Mile",
-        "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
+        "name": "Looking Forward Looking Back",
+        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 151840,
-      "name": "No Good Truckin' Man",
-      "url": "https://open.spotify.com/track/3wOZmnApmX1c7ytbvjYelE"
+      "duration_ms": 272093,
+      "name": "Paddy William",
+      "url": "https://open.spotify.com/track/0sQYfdkld1cuFNZyczDB2u"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,526 likes - 75 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,584 likes - 75 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 46 | [Deep End](https://open.spotify.com/track/2ZYfDaCu9vugaGAJDM3NHO) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Sleep Games](https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec) | 4:11 |
 | 47 | [Distant Solace](https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Distant Solace](https://open.spotify.com/album/7odaTvennSTNVuMLArV19i) | 2:33 |
 | 48 | [Spirales](https://open.spotify.com/track/1nOhbBe3MY3sF6wLWiROIa) | [Chaitanya Hari Deuter](https://open.spotify.com/artist/6ShqyafouDcEeQVmdVuTzR) | [Deuter: San](https://open.spotify.com/album/4BBzx6fjLsoH10SwCABIvm) | 6:54 |
-| 49 | [Margin](https://open.spotify.com/track/5ftP8UAivGwdKrLtiXCDcX) | [Abstract Aprils](https://open.spotify.com/artist/0tEsiY5wdNsxeUga1b8yu0) | [Margin](https://open.spotify.com/album/4VHeuhHxD88i9lWoispU9I) | 5:16 |
-| 50 | [Hell Riders](https://open.spotify.com/track/5SrF0wLZZq1gbG71amy8uU) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [DSVII](https://open.spotify.com/album/1Pyu7uKUDKNhdsYDL82Wkg) | 6:47 |
+| 49 | [Hell Riders](https://open.spotify.com/track/5SrF0wLZZq1gbG71amy8uU) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [DSVII](https://open.spotify.com/album/1Pyu7uKUDKNhdsYDL82Wkg) | 6:47 |
+| 50 | [Margin](https://open.spotify.com/track/5ftP8UAivGwdKrLtiXCDcX) | [Abstract Aprils](https://open.spotify.com/artist/0tEsiY5wdNsxeUga1b8yu0) | [Margin](https://open.spotify.com/album/4VHeuhHxD88i9lWoispU9I) | 5:16 |
 | 51 | [Ganzfeld Effect](https://open.spotify.com/track/1giXD5iDA1zx8RbEuX551p) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Stasis](https://open.spotify.com/album/4MEJL8b4fQQ908mzoTFT6P) | 5:05 |
 | 52 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 |
 | 53 | [The Belldog](https://open.spotify.com/track/0d2HX14emol25j4C8yL7SP) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Moebius](https://open.spotify.com/artist/0ctLTKGS1coZsfRHZw48tC), [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [After the Heat](https://open.spotify.com/album/0KsjHH3K0VIMuNOuvRWMBR) | 6:19 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 59 | [The Black Mill Video Tape](https://open.spotify.com/track/4AAmFIGUbQ4xnht6tyCOVk) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Sleep Games](https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec) | 5:09 |
 | 60 | [Sowiesoso](https://open.spotify.com/track/6h1dYEUDxd8lJ32MEGegh1) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Sowiesoso](https://open.spotify.com/album/4QAH6e1Mi25uNXvvJTCneV) | 8:11 |
 | 61 | [Barcarolle](https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW) | [Saloli](https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj) | [The Deep End](https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm) | 4:42 |
-| 62 | [Under the Midnight Sun](https://open.spotify.com/track/1f6eXoO4z7MBCkhdGyMDH9) | [Jeremiah Chiu](https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa), [Marta Sofia Honer](https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv) | [Recordings from the Åland Islands](https://open.spotify.com/album/7uJLi3TtRhHKD7LtlRoEem) | 3:42 |
-| 63 | [The Eighth Wave](https://open.spotify.com/track/0hfdtb8oN7bWS0P5aqRbyZ) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 5:07 |
+| 62 | [The Eighth Wave](https://open.spotify.com/track/0hfdtb8oN7bWS0P5aqRbyZ) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 5:07 |
+| 63 | [Under the Midnight Sun](https://open.spotify.com/track/1f6eXoO4z7MBCkhdGyMDH9) | [Jeremiah Chiu](https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa), [Marta Sofia Honer](https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv) | [Recordings from the Åland Islands](https://open.spotify.com/album/7uJLi3TtRhHKD7LtlRoEem) | 3:42 |
 | 64 | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/track/0AuC6j66fjBzcNjWViIlfr) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/album/2eAOEEB8t84it83QgeZBOO) | 4:18 |
 | 65 | [Mahi Mahi](https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU) | [Moonfish](https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T), [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb), [Riccardo Chiaberta](https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1) | [Mahi Mahi](https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC) | 3:16 |
 | 66 | [Beyond the Clouds](https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz) | [Nino Nardini](https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS), [Eddie Warner](https://open.spotify.com/artist/1RJ3kDZEsPG8jqxYpWUxS2), [Roger Roger](https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt) | [Space Oddities: Studio Ganaro \(1972\-1982\)](https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU) | 2:03 |

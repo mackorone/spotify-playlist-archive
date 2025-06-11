@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Aitana en portada.",
-  "num_followers": 35422,
+  "num_followers": 35443,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
+        "name": "LOKADEM\u00c1S",
+        "url": "https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB"
+      },
+      "artists": [
+        {
+          "name": "RUSLANA",
+          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
+        }
+      ],
+      "duration_ms": 193412,
+      "name": "LOKADEM\u00c1S",
+      "url": "https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo"
+    },
+    {
+      "added_at": "2025-05-30 06:00:12",
+      "album": {
         "name": "Todo cambia",
         "url": "https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd"
       },
@@ -479,22 +495,6 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
-        "name": "LOKADEM\u00c1S",
-        "url": "https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB"
-      },
-      "artists": [
-        {
-          "name": "RUSLANA",
-          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
-        }
-      ],
-      "duration_ms": 193412,
-      "name": "LOKADEM\u00c1S",
-      "url": "https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo"
-    },
-    {
-      "added_at": "2025-05-30 06:00:12",
-      "album": {
         "name": "NO ME IMPORTA",
         "url": "https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc"
       },
@@ -547,6 +547,22 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
+        "name": "Miel de Azar",
+        "url": "https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 192197,
+      "name": "Como Queremos",
+      "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
+    },
+    {
+      "added_at": "2025-05-30 06:00:12",
+      "album": {
         "name": "No Volver\u00e9 </3",
         "url": "https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 171636,
       "name": "No Volver\u00e9 </3",
       "url": "https://open.spotify.com/track/6wVU5qPXg1YoaEa5p1QHCU"
-    },
-    {
-      "added_at": "2025-05-30 06:00:12",
-      "album": {
-        "name": "Miel de Azar",
-        "url": "https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 192197,
-      "name": "Como Queremos",
-      "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
     },
     {
       "added_at": "2025-05-30 06:00:12",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
-        "name": "Quito",
-        "url": "https://open.spotify.com/album/3R4TPnl5iUd2lXL8zMO4pY"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 179527,
-      "name": "Quito",
-      "url": "https://open.spotify.com/track/5I7HzntcnFHekSHJNrngcn"
-    },
-    {
-      "added_at": "2025-05-30 06:00:12",
-      "album": {
         "name": "Qu\u00e9 Bien Se Te Ve",
         "url": "https://open.spotify.com/album/1PrHdsonw7QUGrOLmekfsN"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 151747,
       "name": "Qu\u00e9 Bien Se Te Ve",
       "url": "https://open.spotify.com/track/2Qu7k75pTkO1swHgMoHDus"
+    },
+    {
+      "added_at": "2025-05-30 06:00:12",
+      "album": {
+        "name": "Quito",
+        "url": "https://open.spotify.com/album/3R4TPnl5iUd2lXL8zMO4pY"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 179527,
+      "name": "Quito",
+      "url": "https://open.spotify.com/track/5I7HzntcnFHekSHJNrngcn"
     },
     {
       "added_at": "2025-05-30 06:00:12",
@@ -875,26 +875,6 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
-        "name": "EL DIABLO",
-        "url": "https://open.spotify.com/album/5iF9vS6KQNnJjDXJPQI5CN"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 193181,
-      "name": "EL DIABLO",
-      "url": "https://open.spotify.com/track/5Zinmdnrq6Gp8ho1VS4zAg"
-    },
-    {
-      "added_at": "2025-05-30 06:00:12",
-      "album": {
         "name": "S\u00f3lo Qu\u00e9date En Silencio",
         "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 235360,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
+    },
+    {
+      "added_at": "2025-05-30 06:00:12",
+      "album": {
+        "name": "EL DIABLO",
+        "url": "https://open.spotify.com/album/5iF9vS6KQNnJjDXJPQI5CN"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "duration_ms": 193181,
+      "name": "EL DIABLO",
+      "url": "https://open.spotify.com/track/5Zinmdnrq6Gp8ho1VS4zAg"
     },
     {
       "added_at": "2025-05-30 06:00:12",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
-        "name": "\u00bfPor qu\u00e9 no ser amigos?",
-        "url": "https://open.spotify.com/album/4s9B7JQAD1oZuNGMEyMcBK"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        },
-        {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
-        }
-      ],
-      "duration_ms": 194490,
-      "name": "Voy a pas\u00e1rmelo bien",
-      "url": "https://open.spotify.com/track/26ckhcc4DLGTeURl8zlMwt"
-    },
-    {
-      "added_at": "2025-05-30 06:00:12",
-      "album": {
         "name": "Secuaz (Noches de Sal\u00f3n)",
         "url": "https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 189551,
       "name": "Hablar de Flores",
       "url": "https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS"
+    },
+    {
+      "added_at": "2025-05-30 06:00:12",
+      "album": {
+        "name": "\u00bfPor qu\u00e9 no ser amigos?",
+        "url": "https://open.spotify.com/album/4s9B7JQAD1oZuNGMEyMcBK"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+        }
+      ],
+      "duration_ms": 194490,
+      "name": "Voy a pas\u00e1rmelo bien",
+      "url": "https://open.spotify.com/track/26ckhcc4DLGTeURl8zlMwt"
     },
     {
       "added_at": "2025-05-30 06:00:12",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
+        "name": "\u00bfQu\u00e9 vas a saber?",
+        "url": "https://open.spotify.com/album/33IFiDbkayObVb36TdCV6l"
+      },
+      "artists": [
+        {
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+        },
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 251093,
+      "name": "\u00bfQu\u00e9 vas a saber?",
+      "url": "https://open.spotify.com/track/38V0tYzvhjYghBvlES5oef"
+    },
+    {
+      "added_at": "2025-05-30 06:00:12",
+      "album": {
         "name": "Que Somos (Remix)",
         "url": "https://open.spotify.com/album/6VOLzbfFo0ZvTtywKLRqDZ"
       },
@@ -1295,22 +1315,18 @@
     {
       "added_at": "2025-05-30 06:00:12",
       "album": {
-        "name": "\u00bfQu\u00e9 vas a saber?",
-        "url": "https://open.spotify.com/album/33IFiDbkayObVb36TdCV6l"
+        "name": "Pensamientos Intrusivos",
+        "url": "https://open.spotify.com/album/7hgxTp99yKwlzXDZgV6O8I"
       },
       "artists": [
         {
-          "name": "Love of Lesbian",
-          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
-        },
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
         }
       ],
-      "duration_ms": 251093,
-      "name": "\u00bfQu\u00e9 vas a saber?",
-      "url": "https://open.spotify.com/track/38V0tYzvhjYghBvlES5oef"
+      "duration_ms": 163239,
+      "name": "Pensamientos Intrusivos",
+      "url": "https://open.spotify.com/track/17KcNyZQ0tLSloefQFKskl"
     },
     {
       "added_at": "2025-05-30 06:00:12",
@@ -1327,22 +1343,6 @@
       "duration_ms": 229206,
       "name": "No Entiendo Si Es Amor",
       "url": "https://open.spotify.com/track/0ojs2cyAKcMMp13VTKom9s"
-    },
-    {
-      "added_at": "2025-05-30 06:00:12",
-      "album": {
-        "name": "Pensamientos Intrusivos",
-        "url": "https://open.spotify.com/album/7hgxTp99yKwlzXDZgV6O8I"
-      },
-      "artists": [
-        {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
-        }
-      ],
-      "duration_ms": 163239,
-      "name": "Pensamientos Intrusivos",
-      "url": "https://open.spotify.com/track/17KcNyZQ0tLSloefQFKskl"
     },
     {
       "added_at": "2025-05-30 06:00:12",

@@ -4,7 +4,7 @@
 
 > The sound of spring.
 
-233 songs - 10 hr 11 min
+235 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Early Memories](https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Early Memories](https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g) | 2:33 | 2025-03-11 |  |
 | [Eclectism](https://open.spotify.com/track/32SgWxCokUcQ6jGIzSIlbR) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Eclectism](https://open.spotify.com/album/6WBv2p7ixzRHdzApg88XEJ) | 2:53 | 2025-03-11 |  |
 | [Egy másik nap](https://open.spotify.com/track/28UjsaXCQ8GO4WrphLTN8s) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Egy másik nap](https://open.spotify.com/album/6pC07HHN5ieqRIqYCKEQSO) | 2:08 | 2025-03-11 |  |
+| [Enigma](https://open.spotify.com/track/5Tp8RmoHqTihaZyFMBZ5jG) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Enigma](https://open.spotify.com/album/5FmIguu1Cg8ACToBY2Klfj) | 3:01 | 2025-06-10 |  |
 | [Entre arboles](https://open.spotify.com/track/4dxawLKeBaDFQ27USfWFrq) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Entre arboles](https://open.spotify.com/album/0osL3EqdQcGwFhVgnmJ6qV) | 1:59 | 2025-03-11 | 2025-04-10 |
 | [estiu](https://open.spotify.com/track/1vzwRWE2Vj7JZwqBqi9ivM) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [estiu](https://open.spotify.com/album/2PRpPe7NkIjknf6tudsPfL) | 2:47 | 2025-03-11 |  |
 | [Ethereal Echo](https://open.spotify.com/track/3b69dyUMr81gp1lOqhTMam) | [Panner Garlix](https://open.spotify.com/artist/64ixo2TVhbwcDgM7n4koOR) | [Ethereal Echo](https://open.spotify.com/album/58wTkyo7i284z4BWv4bf0d) | 3:33 | 2025-03-11 |  |
@@ -76,6 +77,7 @@
 | [Fugazy](https://open.spotify.com/track/2d35QTcQM3EJroGevSvnEf) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Fugazy](https://open.spotify.com/album/7MVVUbmETVZkVsve5NOBM2) | 2:32 | 2025-03-11 | 2025-04-03 |
 | [Garden of mine](https://open.spotify.com/track/0x0brgn1K22WQoqiexeLX9) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [Garden of mine](https://open.spotify.com/album/0KddFugeznttIbjcdM2wZZ) | 2:41 | 2025-03-11 |  |
 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 | 2025-03-11 |  |
+| [Grateful For The Time](https://open.spotify.com/track/4087fSTfSGcZdb7CaTays6) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Grateful For The Time](https://open.spotify.com/album/7lU9zqz8ky2VXhYv5PDm0R) | 2:30 | 2025-06-10 |  |
 | [Habito](https://open.spotify.com/track/48v3esP9iVCc7HBX0zGKpk) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Habito](https://open.spotify.com/album/2iDCKPyudOHhPufR4rC9BF) | 3:32 | 2025-03-11 |  |
 | [Heartland](https://open.spotify.com/track/0M3DaTZsuttjClg5VG8exA) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Heartland](https://open.spotify.com/album/0fKjmVxLE5o2sDd1b47REq) | 3:28 | 2025-03-11 |  |
 | [Hearts of Us](https://open.spotify.com/track/2aVPRmQnQ95n2lPG1QjXr2) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Hearts of Us](https://open.spotify.com/album/4PgiOdtd12ASXZcnG24F1e) | 2:16 | 2025-03-11 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 10 Jun 03:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 10 Jun 18:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -26002,6 +26002,28 @@
       "duration_ms": 161093,
       "name": "Everybody Gets Down",
       "url": "https://open.spotify.com/track/0Z3YRaL0NvDgPdhTQTnqip"
+    },
+    {
+      "album": {
+        "name": "Everybody Laughs",
+        "url": "https://open.spotify.com/album/07UWuNYU2qSx5QMSJsNtkL"
+      },
+      "artists": [
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        },
+        {
+          "name": "Ghost Train Orchestra",
+          "url": "https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228253,
+      "name": "Everybody Laughs",
+      "url": "https://open.spotify.com/track/1gbFItwP8tng1ZeXoqh0eS"
     },
     {
       "album": {
@@ -54737,6 +54759,24 @@
     },
     {
       "album": {
+        "name": "My Baby (Got Nothing At All) (Materialists Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ykmfDC5Y89gnzQYE8oPIu"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "My Baby (Got Nothing At All) (Materialists Original Soundtrack)",
+      "url": "https://open.spotify.com/track/6P0bG1wDbLvs8kNJV4hQUt"
+    },
+    {
+      "album": {
         "name": "My Beautiful Girl",
         "url": "https://open.spotify.com/album/0tasLYViIeiNn7GfozOJ71"
       },
@@ -64142,7 +64182,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 166956,
       "name": "Prophecy",
       "url": "https://open.spotify.com/track/6dUN5gfOJN6y61piEiPViQ"
@@ -74874,7 +74914,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-11",
       "duration_ms": 176944,
       "name": "Star 69",
       "url": "https://open.spotify.com/track/6pSFh3VxiFzSrov1Se4Rql"

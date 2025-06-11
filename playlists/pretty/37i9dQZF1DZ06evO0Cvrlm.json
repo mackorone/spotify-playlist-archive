@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 587166,
+  "num_followers": 587205,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAAD7BYFbwpWjRbv7nDmsy+EL",
+  "snapshot_id": "aEYkAAAAAACUdY2jiyAjXu9HUbe33dXo",
   "tracks": [
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 381626,
-      "name": "Spinning the Wheel",
-      "url": "https://open.spotify.com/track/4V4Ur4PJskr5vR2ek8VHWw"
+      "duration_ms": 333106,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/1oMNeGkqwyEOLMUTrgdIr2"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 333106,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/1oMNeGkqwyEOLMUTrgdIr2"
+      "duration_ms": 381626,
+      "name": "Spinning the Wheel",
+      "url": "https://open.spotify.com/track/4V4Ur4PJskr5vR2ek8VHWw"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 361640,
+      "name": "The Strangest Thing",
+      "url": "https://open.spotify.com/track/1eFhGtC7msDWjjG0lrr9Dx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 245533,
       "name": "If I Told You That (feat. George Michael) - Radio Edit",
       "url": "https://open.spotify.com/track/3u3TlUNiySeTeUKMvkA1L7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 361640,
-      "name": "The Strangest Thing",
-      "url": "https://open.spotify.com/track/1eFhGtC7msDWjjG0lrr9Dx"
     },
     {
       "added_at": null,

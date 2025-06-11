@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Ánh Sáng AZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,045 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,046 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 42 | [mơ](https://open.spotify.com/track/7egXRAL5jmZMWcgu0OqzuQ) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [mơ](https://open.spotify.com/album/5uuAgeZeoZmEIYxg6LTvZM) | 3:10 |
 | 43 | [chanh tuyết](https://open.spotify.com/track/0i3kkjdLLumFcDIPwIY8b4) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay) | [chanh tuyết](https://open.spotify.com/album/0pJIWUfipTVXuJ4ivTe8xy) | 2:40 |
 | 44 | [U Can Call Me \(feat\. TINLE\)](https://open.spotify.com/track/1ZxpSNbBpfk8q3CHtwXx3U) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN), [TINLE](https://open.spotify.com/artist/1jLYYT9QNuDI4zz4Ky9fyq) | [U Can Call Me \(feat\. TINLE\)](https://open.spotify.com/album/6pzaaoHJc6aXHK3IRyb8dD) | 3:30 |
-| 45 | [Bồng Bềnh Bồng Bềnh](https://open.spotify.com/track/22zJA0YrEtlklcbU8jXTVr) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Bài Hát Hay Nhất \- Big Song Big Deal \(Tập 18\)](https://open.spotify.com/album/4CgePAYAxf7QmlJqPS5kor) | 4:07 |
+| 45 | [Thua Người Ta](https://open.spotify.com/track/0jtKXWSesIai271sQT6VBC) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [Thua Người Ta](https://open.spotify.com/album/3SFXrBYmq1KiykPeasXh1L) | 3:14 |
 | 46 | [Normal Day](https://open.spotify.com/track/3jLeGUZkKriqfiddJmrH5Z) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Mon Dương](https://open.spotify.com/artist/4JUvycEAovQNosslTeQ2tS) | [Normal Day](https://open.spotify.com/album/2G6EwsdS3RsXmpTP4sjajk) | 4:16 |
 | 47 | [5 10](https://open.spotify.com/track/6H5bXIY2XMaCZMn2O8HSG4) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [chơi trò yêu](https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2) | 2:25 |
-| 48 | [chiều thứ 7](https://open.spotify.com/track/4Via6cJtYwTD95mrrwgRkw) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Daisy Le Garçon](https://open.spotify.com/artist/5J3aJu1LxotI5WXEtTPiHo) | [chiều thứ 7](https://open.spotify.com/album/4U8Krj8WzLaBEwlSYle5Rk) | 4:39 |
+| 48 | [Bồng Bềnh Bồng Bềnh](https://open.spotify.com/track/22zJA0YrEtlklcbU8jXTVr) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Bài Hát Hay Nhất \- Big Song Big Deal \(Tập 18\)](https://open.spotify.com/album/4CgePAYAxf7QmlJqPS5kor) | 4:07 |
 | 49 | [Gentle Bad \- Special Acoustic Version](https://open.spotify.com/track/7eH52MOG0HpwIQBbtlveuU) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [Gentle Bad \(Special Acoustic Version\)](https://open.spotify.com/album/3VyRzYzL0tmMIiXYqo9UQI) | 3:36 |
-| 50 | [Trôi Boy](https://open.spotify.com/track/7rCFJQaXCrDUsFwjjAuTwf) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk) | [Trôi Boy](https://open.spotify.com/album/2U81kSbTmfAYcPyfifD7EN) | 3:12 |
+| 50 | [chiều thứ 7](https://open.spotify.com/track/4Via6cJtYwTD95mrrwgRkw) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Daisy Le Garçon](https://open.spotify.com/artist/5J3aJu1LxotI5WXEtTPiHo) | [chiều thứ 7](https://open.spotify.com/album/4U8Krj8WzLaBEwlSYle5Rk) | 4:39 |
 
-Snapshot ID: `aCXsewAAAAA+rTKN873OKok3zKN1FSuw`
+Snapshot ID: `aEeqlwAAAAAvnU5liJzfRtSlOVzD/Xpr`

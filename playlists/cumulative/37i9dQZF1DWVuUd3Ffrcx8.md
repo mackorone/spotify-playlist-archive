@@ -4,7 +4,7 @@
 
 > 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: <br/>Ed Sheeran\)
 
-525 songs - 1 day 4 hr 27 min
+526 songs - 1 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Oh Shhh...\(with Travis Scott\)](https://open.spotify.com/track/4hLoReufV6TYnpZWf5e41f) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:41 | 2024-07-25 | 2024-08-09 |
 | [OK](https://open.spotify.com/track/48iz5WV02KT4CTYFPXJF4U) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 2:38 | 2024-12-19 | 2025-02-14 |
 | [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 | 2025-05-01 |  |
+| [OMG! \(From F1® The Movie\)](https://open.spotify.com/track/2TuVErkUG3BdQR0dsbtakg) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [OMG! \(From F1® The Movie\)](https://open.spotify.com/album/1Tvjx0HSnZx85wmtnDXVsP) | 2:32 | 2025-06-11 |  |
 | [On the Stage](https://open.spotify.com/track/72n66qrnruvdjh2Ndpc86g) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [On the Stage](https://open.spotify.com/album/4qN1V7yOkQxuxw6l0BNwge) | 3:27 | 2024-08-15 | 2024-10-25 |
 | [One and Only](https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Private Blizzard](https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze) | 3:54 | 2024-08-22 | 2024-11-08 |
 | [One Bad Day](https://open.spotify.com/track/2ak4PK6BeHw8btWrVmOdYz) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [One Bad Day](https://open.spotify.com/album/0itJP1SdhOO3NKe9vxqj0s) | 3:54 | 2024-06-28 | 2024-07-27 |

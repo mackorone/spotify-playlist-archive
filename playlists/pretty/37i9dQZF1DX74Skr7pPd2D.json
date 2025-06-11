@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 46568,
+  "num_followers": 46579,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Blues Caravan",
-        "url": "https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9"
-      },
-      "artists": [
-        {
-          "name": "Buddy Rich And His Sextet",
-          "url": "https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK"
-        }
-      ],
-      "duration_ms": 580573,
-      "name": "Caravan",
-      "url": "https://open.spotify.com/track/13JH84neRa4hNDZwrdMGBD"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
         "name": "The Individualism Of Gil Evans",
         "url": "https://open.spotify.com/album/3dmkH0MnFScU9uB1naCAms"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 395293,
       "name": "Las Vegas Tango",
       "url": "https://open.spotify.com/track/1IEbtXrHgN37lTQi9Byx6g"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Blues Caravan",
+        "url": "https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9"
+      },
+      "artists": [
+        {
+          "name": "Buddy Rich And His Sextet",
+          "url": "https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK"
+        }
+      ],
+      "duration_ms": 580573,
+      "name": "Caravan",
+      "url": "https://open.spotify.com/track/13JH84neRa4hNDZwrdMGBD"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/3vOXI61BAwIaUDJG4E6Oq6"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 275133,
-      "name": "Dancing In The Dark",
-      "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Ben Webster Meets Oscar Peterson",
@@ -799,6 +783,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 275133,
+      "name": "Dancing In The Dark",
+      "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "April In Paris: The Genius Of Charlie Parker #2",
         "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
       },
@@ -815,18 +815,18 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
+        "name": "The New Standard",
+        "url": "https://open.spotify.com/album/15xN5nr2KFFScKLjVxwIgd"
       },
       "artists": [
         {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 457186,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
+      "duration_ms": 484293,
+      "name": "Norwegian Wood",
+      "url": "https://open.spotify.com/track/4VqSbmpTxOgRU2MQoa6CSC"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -847,18 +847,18 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "The New Standard",
-        "url": "https://open.spotify.com/album/15xN5nr2KFFScKLjVxwIgd"
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
       },
       "artists": [
         {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
         }
       ],
-      "duration_ms": 484293,
-      "name": "Norwegian Wood",
-      "url": "https://open.spotify.com/track/4VqSbmpTxOgRU2MQoa6CSC"
+      "duration_ms": 457186,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "Wholly Earth",
+        "url": "https://open.spotify.com/album/4eojsgohs6cXhmjtekufUE"
+      },
+      "artists": [
+        {
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+        }
+      ],
+      "duration_ms": 397160,
+      "name": "Conversation With A Baby",
+      "url": "https://open.spotify.com/track/0cPMVEgQVpm6m4uinaydQE"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "Buddy Defranco And Oscar Peterson Play George Gershwin",
         "url": "https://open.spotify.com/album/0D8KgxxJoVSrZe3XVPzrC3"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 261573,
       "name": "'S Wonderful",
       "url": "https://open.spotify.com/track/3MDM8xFeOPmTQgmV5mJUqB"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Wholly Earth",
-        "url": "https://open.spotify.com/album/4eojsgohs6cXhmjtekufUE"
-      },
-      "artists": [
-        {
-          "name": "Abbey Lincoln",
-          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
-        }
-      ],
-      "duration_ms": 397160,
-      "name": "Conversation With A Baby",
-      "url": "https://open.spotify.com/track/0cPMVEgQVpm6m4uinaydQE"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "The Complete Verve Studio Sessions",
-        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
-      },
-      "artists": [
-        {
-          "name": "Roy Eldridge",
-          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
-        }
-      ],
-      "duration_ms": 240013,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/5aMjgZfUjvHrG23l5fIM4W"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
         "name": "Bashin' - The Unpredictable Jimmy Smith (Expanded Edition)",
         "url": "https://open.spotify.com/album/34SD5R6dsyvxAzhohq2gxB"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 373800,
       "name": "Bashin'",
       "url": "https://open.spotify.com/track/5B5QXJzYyyzp4NaqyiI4gI"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "The Complete Verve Studio Sessions",
+        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
+      },
+      "artists": [
+        {
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        }
+      ],
+      "duration_ms": 240013,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/5aMjgZfUjvHrG23l5fIM4W"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1413,22 +1413,6 @@
       "url": "https://open.spotify.com/track/4KMG8smP4ISXZzEeMNgk6W"
     },
     {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "The Lonely One",
-        "url": "https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL"
-      },
-      "artists": [
-        {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "Lullaby In Rhythm",
-      "url": "https://open.spotify.com/track/1tXiZvtgg9XqlB86x4Ukqj"
-    },
-    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "The Complete Verve Singles",
@@ -1451,6 +1435,22 @@
       "duration_ms": 203653,
       "name": "I'll Close My Eyes",
       "url": "https://open.spotify.com/track/4qs7B3M5OGp5HkRCAwt36N"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "The Lonely One",
+        "url": "https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL"
+      },
+      "artists": [
+        {
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "Lullaby In Rhythm",
+      "url": "https://open.spotify.com/track/1tXiZvtgg9XqlB86x4Ukqj"
     },
     {
       "added_at": "2019-10-02 08:54:10",

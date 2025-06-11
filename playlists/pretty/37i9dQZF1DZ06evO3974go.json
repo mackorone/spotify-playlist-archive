@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAACHYDuaSCa6E8mM6NNe3zyp",
+  "snapshot_id": "aEYkAAAAAAB0shY0jsfHfhOzcUqJpmHR",
   "tracks": [
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 253452,
+      "name": "RedBone",
+      "url": "https://open.spotify.com/track/2tEvKwNUradPTkXpGnbDyv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life After Fame",
         "url": "https://open.spotify.com/album/3IYaSINx79h33UY51uylld"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 164622,
       "name": "Rich Homie Quando (feat. Rich Homie Quan)",
       "url": "https://open.spotify.com/track/5UAXYLeJ7XrdTe7u5eq2ts"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 253452,
-      "name": "RedBone",
-      "url": "https://open.spotify.com/track/2tEvKwNUradPTkXpGnbDyv"
     },
     {
       "added_at": null,
@@ -723,6 +723,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wish Me Well",
+        "url": "https://open.spotify.com/album/3ttXfU9PV0Wkwc231ZM7cZ"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 196343,
+      "name": "Exactly How It Was",
+      "url": "https://open.spotify.com/track/2DKpn2F7S62Yr5rY89H0M6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Downtown: Life Under The Gun",
         "url": "https://open.spotify.com/album/4buyJv1fGVn1QU6ZR6YroB"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 169880,
       "name": "Song Cry",
       "url": "https://open.spotify.com/track/0OAKpmhof8rDnV9j91XxUl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wish Me Well",
-        "url": "https://open.spotify.com/album/3ttXfU9PV0Wkwc231ZM7cZ"
-      },
-      "artists": [
-        {
-          "name": "YFN Lucci",
-          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 196343,
-      "name": "Exactly How It Was",
-      "url": "https://open.spotify.com/track/2DKpn2F7S62Yr5rY89H0M6"
     },
     {
       "added_at": null,

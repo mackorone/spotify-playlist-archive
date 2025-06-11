@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-530 songs - 22 hr 54 min
+531 songs - 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Monuments](https://open.spotify.com/track/3UuRldDkQBgFmEkgWG42Ge) | [Daníel Fannar](https://open.spotify.com/artist/5N36wGewpkol8rMbwxx0nj) | [Monuments](https://open.spotify.com/album/0vq2GgBYof806maqlWvTky) | 2:48 | 2022-04-14 | 2022-09-15 |
 | [Moonlight](https://open.spotify.com/track/13b7swHOlTGpZoDgtTWFIc) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Moonlight](https://open.spotify.com/album/1bRqYfdj4ipHdK3JXuhxQz) | 2:20 | 2022-04-14 | 2022-04-28 |
 | [Moonlight Reverie](https://open.spotify.com/track/1F4LTsUjpZImXSgt4FI2Dy) | [Ellie\-May Robertson](https://open.spotify.com/artist/7Ce1uDyyat0uJpzu7CDaEI) | [Moonlight Reverie](https://open.spotify.com/album/1EqwtiMH4fQsiTNmBVbWpY) | 3:00 | 2023-10-24 |  |
+| [Morning Sun](https://open.spotify.com/track/6mlqTL4FdN645uNsvnblcD) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [Morning Sun](https://open.spotify.com/album/1xnzCbETLtHNY7GF5ldEtl) | 2:26 | 2025-06-10 |  |
 | [Moving on](https://open.spotify.com/track/6G8LanLXd3GVoae2jwx4bE) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Moving on](https://open.spotify.com/album/2YbzBN9aTNdoV4g5nj1iB7) | 2:52 | 2024-05-15 |  |
 | [Murano](https://open.spotify.com/track/5tI8I6kgeIodtuD1V8ILSj) | [Afon Aéron](https://open.spotify.com/artist/4gpaQ0BoaJDQ4tCyUMNS0k) | [Murano](https://open.spotify.com/album/64NZxa9YtUVAVq8rVdTQte) | 2:37 | 2024-04-15 |  |
 | [My Affliction](https://open.spotify.com/track/49bBnHT2FcuusDAaIfZVLC) | [Thibaud Fleming](https://open.spotify.com/artist/6QE5XI9fz7xt4jDwOqYceT) | [My Affliction](https://open.spotify.com/album/7mmt3L0Tva5TBR1gJ3fbtY) | 2:19 | 2022-12-22 | 2025-04-05 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 4545,
+  "num_followers": 4547,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAAB+Mrini4J5gM/9T73R26Bg",
+  "snapshot_id": "aEYkAAAAAAASsekd18oUXESQdaISVrpE",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 233150,
+      "name": "Sl*t Him Out Again (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/1rFSc82CUMlFewowdZPRT8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reasonable Woman",
         "url": "https://open.spotify.com/album/2JYsCq8rOuQXkwv9BtJEa8"
       },
@@ -319,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 233150,
-      "name": "Sl*t Him Out Again (feat. Kaliii)",
-      "url": "https://open.spotify.com/track/1rFSc82CUMlFewowdZPRT8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Toxic Chocolate",
         "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
       },
@@ -355,6 +355,26 @@
       "duration_ms": 181812,
       "name": "Eat It Up (feat. BIA)",
       "url": "https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Just A Girl",
+        "url": "https://open.spotify.com/album/5zrhSvsc1mfyrNDVkFVgSH"
+      },
+      "artists": [
+        {
+          "name": "Lil Kayla",
+          "url": "https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 168148,
+      "name": "This",
+      "url": "https://open.spotify.com/track/7mhM28Oq3e56v6MJqPlNOR"
     },
     {
       "added_at": null,
@@ -435,26 +455,6 @@
       "duration_ms": 188014,
       "name": "Ms. Lick Back",
       "url": "https://open.spotify.com/track/1A2e34Eb1mpgWTeV8sTVRy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm Just A Girl",
-        "url": "https://open.spotify.com/album/5zrhSvsc1mfyrNDVkFVgSH"
-      },
-      "artists": [
-        {
-          "name": "Lil Kayla",
-          "url": "https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 168148,
-      "name": "This",
-      "url": "https://open.spotify.com/track/7mhM28Oq3e56v6MJqPlNOR"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 148471,
+      "name": "Toxic Chocolate",
+      "url": "https://open.spotify.com/track/0ubYxtmHWHRo4xsjXEztWv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "German Engineering Zwei",
         "url": "https://open.spotify.com/album/1essCNzwTRw1tv49AuOnG2"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 169186,
       "name": "What's Tea? - with Kaliii",
       "url": "https://open.spotify.com/track/05jGCR85ce49vONuaW97ms"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 148471,
-      "name": "Toxic Chocolate",
-      "url": "https://open.spotify.com/track/0ubYxtmHWHRo4xsjXEztWv"
     },
     {
       "added_at": null,
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 153652,
-      "name": "Bad Bad Bad",
-      "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
+      "duration_ms": 144983,
+      "name": "Nasty Bitch",
+      "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 144983,
-      "name": "Nasty Bitch",
-      "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
+      "duration_ms": 153652,
+      "name": "Bad Bad Bad",
+      "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
     },
     {
       "added_at": null,

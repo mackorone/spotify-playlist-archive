@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 577315,
+  "num_followers": 577613,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
+        "name": "The Gospel Truth (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4XtDTphsf8ejPLt2e8cxbt"
+      },
+      "artists": [
+        {
+          "name": "Ida Sand",
+          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
+        }
+      ],
+      "duration_ms": 225093,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/5Eh01izYB2eY2SZLHgzBwH"
+    },
+    {
+      "added_at": "2025-05-16 14:05:54",
+      "album": {
         "name": "The Changing Lights (Bonus Edition)",
         "url": "https://open.spotify.com/album/1pPiNmApPW6E2yPCGth1RA"
       },
@@ -303,22 +319,6 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
-        "name": "The Gospel Truth (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4XtDTphsf8ejPLt2e8cxbt"
-      },
-      "artists": [
-        {
-          "name": "Ida Sand",
-          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
-        }
-      ],
-      "duration_ms": 225093,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/5Eh01izYB2eY2SZLHgzBwH"
-    },
-    {
-      "added_at": "2025-05-16 14:05:54",
-      "album": {
         "name": "Peter Cincotti",
         "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
       },
@@ -331,6 +331,22 @@
       "duration_ms": 251920,
       "name": "Sway",
       "url": "https://open.spotify.com/track/2DPBgT4BHfawknU40BZ1gg"
+    },
+    {
+      "added_at": "2025-05-16 14:05:54",
+      "album": {
+        "name": "Mother and Brother",
+        "url": "https://open.spotify.com/album/5fjoxztU1qKAYHLgHiFh6o"
+      },
+      "artists": [
+        {
+          "name": "Jeff Cascaro",
+          "url": "https://open.spotify.com/artist/7oGP1dZ6BymT9wrPFbuS8v"
+        }
+      ],
+      "duration_ms": 219773,
+      "name": "The Sun Is Shining for Our Love",
+      "url": "https://open.spotify.com/track/1TT7MMEeEz2W4jxaQxU7lZ"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -351,22 +367,6 @@
       "duration_ms": 176013,
       "name": "One for My Baby (And One More for the Road)",
       "url": "https://open.spotify.com/track/1c4oqyJGptLz2Yt7LLheX8"
-    },
-    {
-      "added_at": "2025-05-16 14:05:54",
-      "album": {
-        "name": "Mother and Brother",
-        "url": "https://open.spotify.com/album/5fjoxztU1qKAYHLgHiFh6o"
-      },
-      "artists": [
-        {
-          "name": "Jeff Cascaro",
-          "url": "https://open.spotify.com/artist/7oGP1dZ6BymT9wrPFbuS8v"
-        }
-      ],
-      "duration_ms": 219773,
-      "name": "The Sun Is Shining for Our Love",
-      "url": "https://open.spotify.com/track/1TT7MMEeEz2W4jxaQxU7lZ"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
-        "name": "Lover Man (Oh, Where Can You Be?)",
-        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 183901,
-      "name": "Lover Man (Oh, Where Can You Be?)",
-      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
-    },
-    {
-      "added_at": "2025-05-16 14:05:54",
-      "album": {
         "name": "Duets An American Classic",
         "url": "https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 200626,
       "name": "The Good Life (with Billy Joel)",
       "url": "https://open.spotify.com/track/2cb5IF0FtYPqFujORervcL"
+    },
+    {
+      "added_at": "2025-05-16 14:05:54",
+      "album": {
+        "name": "Lover Man (Oh, Where Can You Be?)",
+        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 183901,
+      "name": "Lover Man (Oh, Where Can You Be?)",
+      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
-        "name": "Dreaming Wide Awake",
-        "url": "https://open.spotify.com/album/7AhMtlYN5CdfxJPVYzbjA9"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        }
-      ],
-      "duration_ms": 178240,
-      "name": "I'm Confessin'",
-      "url": "https://open.spotify.com/track/5mgx7i86Ei9kDDrbm9LrRn"
-    },
-    {
-      "added_at": "2025-05-16 14:05:54",
-      "album": {
         "name": "From Paris With Love",
         "url": "https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 288693,
       "name": "From Paris With Love - Single Version",
       "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
+    },
+    {
+      "added_at": "2025-05-16 14:05:54",
+      "album": {
+        "name": "Dreaming Wide Awake",
+        "url": "https://open.spotify.com/album/7AhMtlYN5CdfxJPVYzbjA9"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        }
+      ],
+      "duration_ms": 178240,
+      "name": "I'm Confessin'",
+      "url": "https://open.spotify.com/track/5mgx7i86Ei9kDDrbm9LrRn"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
-        "name": "The Sound of Music",
-        "url": "https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL"
-      },
-      "artists": [
-        {
-          "name": "Martina DaSilva",
-          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
-        }
-      ],
-      "duration_ms": 245148,
-      "name": "The Sound of Music",
-      "url": "https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx"
-    },
-    {
-      "added_at": "2025-05-16 14:05:54",
-      "album": {
         "name": "Lumi\u00e9re",
         "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 196250,
       "name": "Lumi\u00e9re",
       "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
+    },
+    {
+      "added_at": "2025-05-16 14:05:54",
+      "album": {
+        "name": "The Sound of Music",
+        "url": "https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        }
+      ],
+      "duration_ms": 245148,
+      "name": "The Sound of Music",
+      "url": "https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
+        "name": "Take on Me",
+        "url": "https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
+    },
+    {
+      "added_at": "2025-05-16 14:05:54",
+      "album": {
         "name": "Eternal Beauty",
         "url": "https://open.spotify.com/album/0gSq5AEue1uEipwnTgWvOx"
       },
@@ -1143,18 +1159,18 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
-        "name": "Take on Me",
-        "url": "https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD"
+        "name": "Peter Cincotti",
+        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
       },
       "artists": [
         {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
+      "duration_ms": 257680,
+      "name": "Comes Love",
+      "url": "https://open.spotify.com/track/2ymzmGwO7lIs3XkONaOHVz"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
-        "name": "Peter Cincotti",
-        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        }
-      ],
-      "duration_ms": 257680,
-      "name": "Comes Love",
-      "url": "https://open.spotify.com/track/2ymzmGwO7lIs3XkONaOHVz"
-    },
-    {
-      "added_at": "2025-05-16 14:05:54",
-      "album": {
         "name": "They Oughta Write a Song",
         "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
       },
@@ -1207,6 +1207,22 @@
       "duration_ms": 283026,
       "name": "A Whiter Shade of Pale",
       "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
+    },
+    {
+      "added_at": "2025-05-16 14:05:54",
+      "album": {
+        "name": "These Are the Memories",
+        "url": "https://open.spotify.com/album/4wmAugLcz7Whavrrr1t1Kb"
+      },
+      "artists": [
+        {
+          "name": "Emmaline",
+          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
+        }
+      ],
+      "duration_ms": 273670,
+      "name": "These Are the Memories",
+      "url": "https://open.spotify.com/track/6cBAQr4SjyDLDfkUa1oprE"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -1259,22 +1275,6 @@
       "duration_ms": 240080,
       "name": "Talking to Myself",
       "url": "https://open.spotify.com/track/7igFrxdpCKiipNBySbCEW5"
-    },
-    {
-      "added_at": "2025-05-16 14:05:54",
-      "album": {
-        "name": "These Are the Memories",
-        "url": "https://open.spotify.com/album/4wmAugLcz7Whavrrr1t1Kb"
-      },
-      "artists": [
-        {
-          "name": "Emmaline",
-          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
-        }
-      ],
-      "duration_ms": 273670,
-      "name": "These Are the Memories",
-      "url": "https://open.spotify.com/track/6cBAQr4SjyDLDfkUa1oprE"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
-        "name": "Nothing Standard",
-        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
-      },
-      "artists": [
-        {
-          "name": "Jesse Palter",
-          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
-        }
-      ],
-      "duration_ms": 388114,
-      "name": "Hey Jude",
-      "url": "https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD"
-    },
-    {
-      "added_at": "2025-05-16 14:05:54",
-      "album": {
         "name": "La belle vie - The Good Life",
         "url": "https://open.spotify.com/album/5j9lwYLRgkVtN5HWJ08wfH"
       },
@@ -1499,26 +1483,18 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
-        "name": "For All We Know",
-        "url": "https://open.spotify.com/album/2Uc9iyrRuHRksplRbnDZhP"
+        "name": "Nothing Standard",
+        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
       },
       "artists": [
         {
-          "name": "Adonis Rose",
-          "url": "https://open.spotify.com/artist/5xNCQCeanWkWyBKoGXET9y"
-        },
-        {
-          "name": "Ryan Hanseler",
-          "url": "https://open.spotify.com/artist/524YAzKMvMUURzW34Gtetk"
-        },
-        {
-          "name": "Lex Warshawsky",
-          "url": "https://open.spotify.com/artist/4w8FWjfDaLaHz37ICgCcHV"
+          "name": "Jesse Palter",
+          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
         }
       ],
-      "duration_ms": 444306,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/5r1nL8IUVak9RMqwpvC0Nh"
+      "duration_ms": 388114,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -1551,6 +1527,22 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
+        "name": "I've Got You Under My Skin",
+        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 209848,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
+    },
+    {
+      "added_at": "2025-05-16 14:05:54",
+      "album": {
         "name": "Here It Is: A Tribute to Leonard Cohen",
         "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
       },
@@ -1571,18 +1563,42 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
-        "name": "I've Got You Under My Skin",
-        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
+        "name": "For All We Know",
+        "url": "https://open.spotify.com/album/2Uc9iyrRuHRksplRbnDZhP"
       },
       "artists": [
         {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+          "name": "Adonis Rose",
+          "url": "https://open.spotify.com/artist/5xNCQCeanWkWyBKoGXET9y"
+        },
+        {
+          "name": "Ryan Hanseler",
+          "url": "https://open.spotify.com/artist/524YAzKMvMUURzW34Gtetk"
+        },
+        {
+          "name": "Lex Warshawsky",
+          "url": "https://open.spotify.com/artist/4w8FWjfDaLaHz37ICgCcHV"
         }
       ],
-      "duration_ms": 209848,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
+      "duration_ms": 444306,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/5r1nL8IUVak9RMqwpvC0Nh"
+    },
+    {
+      "added_at": "2025-05-16 14:05:54",
+      "album": {
+        "name": "Always Seem to Get Things Wrong",
+        "url": "https://open.spotify.com/album/0jxF7dbDnO5mQ5PHlgLlJ6"
+      },
+      "artists": [
+        {
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+        }
+      ],
+      "duration_ms": 251413,
+      "name": "I'll Tell You Something",
+      "url": "https://open.spotify.com/track/1q6sKjFBoTyZ15Vwf5IuGa"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -1603,22 +1619,6 @@
       "duration_ms": 194973,
       "name": "Lonely Waltz",
       "url": "https://open.spotify.com/track/0LuPh38D2jW4IFgPYwcUXn"
-    },
-    {
-      "added_at": "2025-05-16 14:05:54",
-      "album": {
-        "name": "Always Seem to Get Things Wrong",
-        "url": "https://open.spotify.com/album/0jxF7dbDnO5mQ5PHlgLlJ6"
-      },
-      "artists": [
-        {
-          "name": "Gabi Hartmann",
-          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
-        }
-      ],
-      "duration_ms": 251413,
-      "name": "I'll Tell You Something",
-      "url": "https://open.spotify.com/track/1q6sKjFBoTyZ15Vwf5IuGa"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
-        "name": "Nice Girls Don't Stay for Breakfast",
-        "url": "https://open.spotify.com/album/0ZnzFlGCe6D48yDBV4rXjO"
-      },
-      "artists": [
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 217507,
-      "name": "Nice Girls Don't Stay for Breakfast",
-      "url": "https://open.spotify.com/track/2QqqVuUiQROd2I6xqJqZkY"
-    },
-    {
-      "added_at": "2025-05-16 14:05:54",
-      "album": {
         "name": "It's Oh So Quiet",
         "url": "https://open.spotify.com/album/6C6nBYHDXsWFUAp7D45Pwv"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 228173,
       "name": "It's Oh So Quiet",
       "url": "https://open.spotify.com/track/0HRkVSOxjs9qdvAUKc603s"
+    },
+    {
+      "added_at": "2025-05-16 14:05:54",
+      "album": {
+        "name": "Nice Girls Don't Stay for Breakfast",
+        "url": "https://open.spotify.com/album/0ZnzFlGCe6D48yDBV4rXjO"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 217507,
+      "name": "Nice Girls Don't Stay for Breakfast",
+      "url": "https://open.spotify.com/track/2QqqVuUiQROd2I6xqJqZkY"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
-        "name": "I Need Your Love",
-        "url": "https://open.spotify.com/album/7FiZVylKJmgNbDXsz5VBav"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andrea Wang",
-          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
-        }
-      ],
-      "duration_ms": 260377,
-      "name": "I Need Your Love",
-      "url": "https://open.spotify.com/track/68uxsEa7j2Y4c0bj9aITND"
-    },
-    {
-      "added_at": "2025-05-16 14:05:54",
-      "album": {
         "name": "I Wanna Be Loved",
         "url": "https://open.spotify.com/album/0ymGCq0L4ZURIuEpEBli3I"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 230000,
       "name": "I Wanna Be Loved",
       "url": "https://open.spotify.com/track/4DVEhmEhTaUhJLGjKvK5FT"
+    },
+    {
+      "added_at": "2025-05-16 14:05:54",
+      "album": {
+        "name": "I Need Your Love",
+        "url": "https://open.spotify.com/album/7FiZVylKJmgNbDXsz5VBav"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andrea Wang",
+          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
+        }
+      ],
+      "duration_ms": 260377,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/68uxsEa7j2Y4c0bj9aITND"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
-        "name": "Dreamers Ball",
-        "url": "https://open.spotify.com/album/0uMulVRZbsaUJpJ8Lf8uDx"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Poole",
-          "url": "https://open.spotify.com/artist/0xVPAZm6o6XJ7lARU9nC1D"
-        }
-      ],
-      "duration_ms": 283960,
-      "name": "Dreamers Ball",
-      "url": "https://open.spotify.com/track/3jh6i9T4kocrZAEGv5JaXc"
-    },
-    {
-      "added_at": "2025-05-16 14:05:54",
-      "album": {
         "name": "Lemons",
         "url": "https://open.spotify.com/album/3jzKOypFUMLgtgUutC0rY8"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 249541,
       "name": "Lemons",
       "url": "https://open.spotify.com/track/0MT8gwmUQ24qxGFZ5ramXw"
+    },
+    {
+      "added_at": "2025-05-16 14:05:54",
+      "album": {
+        "name": "Lonely House",
+        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
+      },
+      "artists": [
+        {
+          "name": "Lucy Yeghiazaryan",
+          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
+        }
+      ],
+      "duration_ms": 211664,
+      "name": "There's a Lull in My Life",
+      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
     },
     {
       "added_at": "2025-05-16 14:05:54",
@@ -2331,18 +2331,18 @@
     {
       "added_at": "2025-05-16 14:05:54",
       "album": {
-        "name": "Lonely House",
-        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
+        "name": "Dreamers Ball",
+        "url": "https://open.spotify.com/album/0uMulVRZbsaUJpJ8Lf8uDx"
       },
       "artists": [
         {
-          "name": "Lucy Yeghiazaryan",
-          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
+          "name": "Rebecca Poole",
+          "url": "https://open.spotify.com/artist/0xVPAZm6o6XJ7lARU9nC1D"
         }
       ],
-      "duration_ms": 211664,
-      "name": "There's a Lull in My Life",
-      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
+      "duration_ms": 283960,
+      "name": "Dreamers Ball",
+      "url": "https://open.spotify.com/track/3jh6i9T4kocrZAEGv5JaXc"
     },
     {
       "added_at": "2025-05-16 14:05:54",

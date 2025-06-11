@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAADs5V2aGbJII8R0LDWVKEFB",
+  "snapshot_id": "aEYkAAAAAACLISts0q9/57lCbNoeXfG7",
   "tracks": [
     {
       "added_at": null,
@@ -323,38 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seeing Someone Else",
-        "url": "https://open.spotify.com/album/4oAvf42fOYgtFbVdoslw6n"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 206737,
-      "name": "Seeing Someone Else",
-      "url": "https://open.spotify.com/track/0fgZNZZPgRy4PoU4moGtvi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lady Like",
-        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 192493,
-      "name": "We're Not Friends",
-      "url": "https://open.spotify.com/track/5rwrtdf4pjvaE96LiZ85KB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) [Spotify Singles]",
         "url": "https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n"
       },
@@ -383,6 +351,38 @@
       "duration_ms": 256217,
       "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) - Spotify Singles",
       "url": "https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 192493,
+      "name": "We're Not Friends",
+      "url": "https://open.spotify.com/track/5rwrtdf4pjvaE96LiZ85KB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seeing Someone Else",
+        "url": "https://open.spotify.com/album/4oAvf42fOYgtFbVdoslw6n"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 206737,
+      "name": "Seeing Someone Else",
+      "url": "https://open.spotify.com/track/0fgZNZZPgRy4PoU4moGtvi"
     },
     {
       "added_at": null,

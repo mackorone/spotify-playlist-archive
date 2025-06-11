@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 7228,
+  "num_followers": 7230,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aETSgAAAAACbh6F4ZbA7cX4owx2cAz78",
+  "snapshot_id": "aEYkAAAAAABsx2t5D5AOTdHKvdkIAQQL",
   "tracks": [
     {
       "added_at": null,
@@ -464,13 +464,13 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "HI Idibia",
-          "url": "https://open.spotify.com/artist/7hyQCE1I9Jrqlj09FO84q8"
+          "name": "Syemca",
+          "url": "https://open.spotify.com/artist/4deX5BRJZF7cfEdxcMXTDp"
         }
       ],
-      "duration_ms": 237740,
-      "name": "Oyi (feat. HI Idibia)",
-      "url": "https://open.spotify.com/track/7f1F8o8w0R7otr5JvQfXUR"
+      "duration_ms": 184420,
+      "name": "Target You (feat. Syemca)",
+      "url": "https://open.spotify.com/track/3TnN2kZvjnZDsrS19beSqt"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
       "duration_ms": 165789,
       "name": "See God",
       "url": "https://open.spotify.com/track/4tCeALAdETzi8VXAgn4nun"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AWAY & BEYOND",
-        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 218462,
-      "name": "Dance in the Rain",
-      "url": "https://open.spotify.com/track/3bhQHT4YYeQugPW643l8JX"
     },
     {
       "added_at": null,
@@ -535,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AWAY & BEYOND",
+        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 218462,
+      "name": "Dance in the Rain",
+      "url": "https://open.spotify.com/track/3bhQHT4YYeQugPW643l8JX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
       },
@@ -544,13 +544,13 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Syemca",
-          "url": "https://open.spotify.com/artist/4deX5BRJZF7cfEdxcMXTDp"
+          "name": "HI Idibia",
+          "url": "https://open.spotify.com/artist/7hyQCE1I9Jrqlj09FO84q8"
         }
       ],
-      "duration_ms": 184420,
-      "name": "Target You (feat. Syemca)",
-      "url": "https://open.spotify.com/track/3TnN2kZvjnZDsrS19beSqt"
+      "duration_ms": 237740,
+      "name": "Oyi (feat. HI Idibia)",
+      "url": "https://open.spotify.com/track/7f1F8o8w0R7otr5JvQfXUR"
     },
     {
       "added_at": null,
@@ -567,26 +567,6 @@
       "duration_ms": 267318,
       "name": "Holy Holy",
       "url": "https://open.spotify.com/track/6DnvcwVVayZ4xfMuBn8ZfK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cupid Stories",
-        "url": "https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci"
-      },
-      "artists": [
-        {
-          "name": "Bracket",
-          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "Remember (feat. 2face)",
-      "url": "https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk"
     },
     {
       "added_at": null,
@@ -619,6 +599,26 @@
       "duration_ms": 224000,
       "name": "Azaman",
       "url": "https://open.spotify.com/track/61gKKvpUMUnfmVkJGzLiGw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cupid Stories",
+        "url": "https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci"
+      },
+      "artists": [
+        {
+          "name": "Bracket",
+          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "Remember (feat. 2face)",
+      "url": "https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk"
     },
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living In Bondage: Breaking Free (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/02HStQTLfp51GIyIITSmqI"
-      },
-      "artists": [
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Iworiwo",
-      "url": "https://open.spotify.com/track/2KTvN7dNLjejLDftqV3LMm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNSTOPPABLE",
         "url": "https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 296693,
       "name": "U No Holy Pass",
       "url": "https://open.spotify.com/track/3dmMDnpDq1GaS9zAX8ycas"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Living In Bondage: Breaking Free (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/02HStQTLfp51GIyIITSmqI"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Iworiwo",
+      "url": "https://open.spotify.com/track/2KTvN7dNLjejLDftqV3LMm"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frenemies",
-        "url": "https://open.spotify.com/album/40oBQ8EmEXE4zS1t35dgUs"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Waje",
-          "url": "https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0"
-        }
-      ],
-      "duration_ms": 241737,
-      "name": "Frenemies",
-      "url": "https://open.spotify.com/track/7hWvMTMVuxJqKUG98gAACG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 267240,
       "name": "Thank U Lord",
       "url": "https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frenemies",
+        "url": "https://open.spotify.com/album/40oBQ8EmEXE4zS1t35dgUs"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Waje",
+          "url": "https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0"
+        }
+      ],
+      "duration_ms": 241737,
+      "name": "Frenemies",
+      "url": "https://open.spotify.com/track/7hWvMTMVuxJqKUG98gAACG"
     },
     {
       "added_at": null,

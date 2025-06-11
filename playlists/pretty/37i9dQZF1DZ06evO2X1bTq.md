@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 
 > This is U2\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,246,891 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,246,937 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 | 49 | [Moment Of Surrender](https://open.spotify.com/track/2PwwiKJYMYbuWh7j5yAbwT) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [No Line On The Horizon](https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP) | 7:24 |
 | 50 | [Desire \- Stories Of Surrender Version](https://open.spotify.com/track/4GeKtpk9tQpKvHdC37fwmS) | [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Stories Of Surrender EP](https://open.spotify.com/album/5WSdpMxWXt6B0yoExeXSba) | 2:21 |
 
-Snapshot ID: `aETSgAAAAADyDGzIfDLTf6TZHSMMo/2L`
+Snapshot ID: `aEYkAAAAAACEukRHGKAo29ej3W/BhRfE`

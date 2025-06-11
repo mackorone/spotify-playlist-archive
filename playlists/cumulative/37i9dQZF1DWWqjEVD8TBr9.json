@@ -2661,6 +2661,24 @@
     },
     {
       "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/1svjQkv3NdVImDoBcuy4gs"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207671,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/1IVOj2i97YVW77n7zcbkMG"
+    },
+    {
+      "album": {
         "name": "SKZ2021",
         "url": "https://open.spotify.com/album/3sMj0uu8dKNRnyqQozC1Xv"
       },

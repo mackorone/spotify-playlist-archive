@@ -1,6 +1,6 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Kekel",
-  "num_followers": 85658,
+  "num_followers": 85666,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,30 @@
     {
       "added_at": "2024-12-13 16:53:30",
       "album": {
+        "name": "Sintomas de Prazer",
+        "url": "https://open.spotify.com/album/46gm7IOUxIc7WEd6zjJyQi"
+      },
+      "artists": [
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "Nath Fischer",
+          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Sintomas de Prazer",
+      "url": "https://open.spotify.com/track/0GD3Iwc8tSvG25LpGrlpH2"
+    },
+    {
+      "added_at": "2024-12-13 16:53:30",
+      "album": {
         "name": "Moletom",
         "url": "https://open.spotify.com/album/06lztEJw4cOCHFhFx88HCP"
       },
@@ -759,30 +783,6 @@
       "duration_ms": 334153,
       "name": "Moletom",
       "url": "https://open.spotify.com/track/4oNnEtS6QgwT8Co9P9TAVC"
-    },
-    {
-      "added_at": "2024-12-13 16:53:30",
-      "album": {
-        "name": "Sintomas de Prazer",
-        "url": "https://open.spotify.com/album/46gm7IOUxIc7WEd6zjJyQi"
-      },
-      "artists": [
-        {
-          "name": "MC Jo\u00e3ozinho VT",
-          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
-        },
-        {
-          "name": "Nath Fischer",
-          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Sintomas de Prazer",
-      "url": "https://open.spotify.com/track/0GD3Iwc8tSvG25LpGrlpH2"
     },
     {
       "added_at": "2024-12-13 16:53:30",

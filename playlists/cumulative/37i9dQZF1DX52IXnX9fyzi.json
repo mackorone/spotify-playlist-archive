@@ -5147,6 +5147,24 @@
     },
     {
       "album": {
+        "name": "Morning Sun",
+        "url": "https://open.spotify.com/album/1xnzCbETLtHNY7GF5ldEtl"
+      },
+      "artists": [
+        {
+          "name": "Halgeir Nielsen",
+          "url": "https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146333,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/6mlqTL4FdN645uNsvnblcD"
+    },
+    {
+      "album": {
         "name": "Moving on",
         "url": "https://open.spotify.com/album/2YbzBN9aTNdoV4g5nj1iB7"
       },

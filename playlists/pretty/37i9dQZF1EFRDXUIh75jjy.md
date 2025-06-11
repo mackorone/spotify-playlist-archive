@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 637 likes - 221 songs - 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 638 likes - 221 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 14 | [hole in the bottle](https://open.spotify.com/track/2yySWxfeRN2QRZnFMnYMQl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 2:35 |
 | 15 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 |
 | 16 | [if we never met \(feat\. Kelsea Ballerini\)](https://open.spotify.com/track/5vDA0WiwxOzj4AJDKDl1Bz) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [love + everything else](https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5) | 2:24 |
-| 17 | [Goodbye](https://open.spotify.com/track/6K5xY7EabiBLjd2HuBQIak) | [Who Is Fancy](https://open.spotify.com/artist/5QSx2vpiSchSeCwc0qmfNI) | [Goodbye](https://open.spotify.com/album/3wXSqg2UGr5JOlCcxWR7K4) | 3:26 |
-| 18 | [bet u wanna](https://open.spotify.com/track/1RAeuvRyRzCweAK3jUT0ZW) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:11 |
+| 17 | [bet u wanna](https://open.spotify.com/track/1RAeuvRyRzCweAK3jUT0ZW) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:11 |
+| 18 | [Goodbye](https://open.spotify.com/track/6K5xY7EabiBLjd2HuBQIak) | [Who Is Fancy](https://open.spotify.com/artist/5QSx2vpiSchSeCwc0qmfNI) | [Goodbye](https://open.spotify.com/album/3wXSqg2UGr5JOlCcxWR7K4) | 3:26 |
 | 19 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 |
 | 20 | [Almost Love](https://open.spotify.com/track/1yXFAwSMDZmX2ZyDLLyQ9s) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 3:32 |
 | 21 | [things i wish you said](https://open.spotify.com/track/2t2fnYja6b2pUizMungIo0) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 2:42 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 64 | [Out Of Touch](https://open.spotify.com/track/4OTtXTOCGFyNWdyzdX3Ee8) | [Katemale](https://open.spotify.com/artist/0Rth3Qh5ir5RzlPwRpKYqp) | [Out Of Touch](https://open.spotify.com/album/2FmFK8yohMlmHO3E53hboC) | 3:15 |
 | 65 | [ok with it](https://open.spotify.com/track/26xOau4IoTbBTdcVjITxcp) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century](https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch) | 2:45 |
 | 66 | [NO MIND](https://open.spotify.com/track/11TC5EbqUIyQSA0utzM3eI) | [MILKBLOOD](https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME) | [NO MIND](https://open.spotify.com/album/0D7pULV8tSbrBkwulGpT9b) | 2:52 |
-| 67 | [Daydream](https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Daydream](https://open.spotify.com/album/7H3DDXj9Q5QrfIlIhMt03o) | 2:55 |
-| 68 | [Forever](https://open.spotify.com/track/2C5nlzIMJ81NYmeGhofNNP) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Deluxe\)](https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf) | 2:51 |
+| 67 | [Forever](https://open.spotify.com/track/2C5nlzIMJ81NYmeGhofNNP) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Deluxe\)](https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf) | 2:51 |
+| 68 | [Daydream](https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Daydream](https://open.spotify.com/album/7H3DDXj9Q5QrfIlIhMt03o) | 2:55 |
 | 69 | [Escape](https://open.spotify.com/track/7cki30Fr1WRkFCpRECufLf) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Steph Jones](https://open.spotify.com/artist/1Aed7wBQiH5LSDMmQWnGZw) | [Painting With Dreams](https://open.spotify.com/album/11t999cj3x48JaRSde6s8p) | 3:30 |
 | 70 | [Sad Girl Summer](https://open.spotify.com/track/45vKP0cRjVu9UxNIWVHDoj) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Sad Girl Summer](https://open.spotify.com/album/01RDRSabinKcm0bjdo3tJw) | 2:44 |
 | 71 | [bored](https://open.spotify.com/track/4J1O1ERHhqtkOfdF9L6zyG) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [aurora](https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU) | 2:56 |
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 97 | [When's It Gonna Happen](https://open.spotify.com/track/2wgfQ5XYZG1IRUf7pyrVSL) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:37 |
 | 98 | [Pretender](https://open.spotify.com/track/23qOFgEan1r0oiAxis6U5K) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Pretender](https://open.spotify.com/album/2fknzhgnc8H82XbX31eE6U) | 2:55 |
 | 99 | [Feels Like](https://open.spotify.com/track/2xW3wiXtNHUsENQLrHf4X0) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:19 |
-| 100 | [Toxins](https://open.spotify.com/track/3EjnjYppRwwxYv3kHCFa3s) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Toxins](https://open.spotify.com/album/5HSb7viGPrEPdS96jE0yr9) | 3:16 |
-| 101 | [Born Again](https://open.spotify.com/track/7JcGS8KvdGXHkol58AroZ2) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:36 |
+| 100 | [Born Again](https://open.spotify.com/track/7JcGS8KvdGXHkol58AroZ2) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:36 |
+| 101 | [Toxins](https://open.spotify.com/track/3EjnjYppRwwxYv3kHCFa3s) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Toxins](https://open.spotify.com/album/5HSb7viGPrEPdS96jE0yr9) | 3:16 |
 | 102 | [Fun While It Lasted](https://open.spotify.com/track/6BgOYYhN3yzY3GzaUv3b7T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww) | 2:26 |
 | 103 | [Competition \- Single Edit](https://open.spotify.com/track/5l5TamK1eGSUAzBhsutyyk) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Competition](https://open.spotify.com/album/0HNBUptk47vF5IiBBAnmyV) | 3:08 |
 | 104 | [Thin Air](https://open.spotify.com/track/6y6a7dT81LLvGAP0k0endw) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2) | [Olivia](https://open.spotify.com/album/1symszvJQdIoNR4QhUc6En) | 3:35 |
@@ -173,8 +173,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 163 | [Cry](https://open.spotify.com/track/0IdaqHIUoLiupO6Hc0Y8CO) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:31 |
 | 164 | [Whistle](https://open.spotify.com/track/5xeMp4R5G3oj959064Hfai) | [Forever in Your Mind](https://open.spotify.com/artist/6gQnbY1egUGK5llcWsrwgE) | [FIYM](https://open.spotify.com/album/1FCFRUbloFByK8ycXyXvYc) | 2:56 |
 | 165 | [Party Trick](https://open.spotify.com/track/4srByK7V18CGHfGUzdXIvq) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Marginalia](https://open.spotify.com/album/6XO4LrNz9pugcgr8K6yh4a) | 3:26 |
-| 166 | [All or Nothing](https://open.spotify.com/track/0wD2zvN5F2PIHGSruEI7Z0) | [Juliet Simms](https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh) | [All or Nothing](https://open.spotify.com/album/5GfHdio41TToJDpLe32E23) | 2:39 |
-| 167 | [Grudge](https://open.spotify.com/track/5bflBZU8xtdhfuLJMVlVWy) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Grudge](https://open.spotify.com/album/3fv6xGd7MydT0OjTM7Gnbt) | 3:15 |
+| 166 | [Grudge](https://open.spotify.com/track/5bflBZU8xtdhfuLJMVlVWy) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Grudge](https://open.spotify.com/album/3fv6xGd7MydT0OjTM7Gnbt) | 3:15 |
+| 167 | [All or Nothing](https://open.spotify.com/track/0wD2zvN5F2PIHGSruEI7Z0) | [Juliet Simms](https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh) | [All or Nothing](https://open.spotify.com/album/5GfHdio41TToJDpLe32E23) | 2:39 |
 | 168 | [Catalina](https://open.spotify.com/track/1YPUJa5odVAIJLZ1CnE9jS) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Kaleidoscope Eyes](https://open.spotify.com/album/06n6A4hjeslmQ60FEHUFiZ) | 3:39 |
 | 169 | [Sorry That I Miss You](https://open.spotify.com/track/1TvvEJ8uFTCZJYGjGNha3M) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 2:36 |
 | 170 | [Is That a Thing?](https://open.spotify.com/track/6KqjmAUPLX2pCNEY0l6Tmi) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [DestroyDestroyDestroyDestroy](https://open.spotify.com/album/18SQBnh6bYiDaO5pvpeAzb) | 2:49 |
@@ -230,4 +230,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 220 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
 | 221 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 
-Snapshot ID: `AbztXgAAAADFxog+rBx51lkqzZYqEyyE`
+Snapshot ID: `Abzy4AAAAAA1KTq7PpukNkrnEj/86g7F`

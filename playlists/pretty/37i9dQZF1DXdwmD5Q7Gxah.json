@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://loremandfriends.substack.com/p/put-me-on-a-porch-with-a-crispy-beverage\">Check out our May newsletter!</a> Cover: Ethel Cain",
-  "num_followers": 1181320,
+  "num_followers": 1181300,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEN86gAAAACRWcGzOjB5NGXp5cC4KpxG",
+  "snapshot_id": "aEiGEwAAAAC0aI1fWMEnJmCW0zwuI5pF",
   "tracks": [
     {
       "added_at": "2025-06-04 04:10:50",
@@ -39,22 +39,6 @@
       "duration_ms": 233141,
       "name": "I CARE",
       "url": "https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC"
-    },
-    {
-      "added_at": "2025-06-06 23:42:34",
-      "album": {
-        "name": "Addison",
-        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 232597,
-      "name": "Times Like These",
-      "url": "https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB"
     },
     {
       "added_at": "2025-06-06 04:00:31",
@@ -109,6 +93,38 @@
       "url": "https://open.spotify.com/track/1EcXdrJ3qgbgHiPR2wZyRe"
     },
     {
+      "added_at": "2025-06-10 19:22:59",
+      "album": {
+        "name": "Addison",
+        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 152495,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/0Q9kIg9o8w1XKepXWmDUmT"
+    },
+    {
+      "added_at": "2025-05-30 04:00:38",
+      "album": {
+        "name": "Nice To Each Other",
+        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Nice To Each Other",
+      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
+    },
+    {
       "added_at": "2025-05-30 04:00:38",
       "album": {
         "name": "special",
@@ -123,22 +139,6 @@
       "duration_ms": 138861,
       "name": "special",
       "url": "https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p"
-    },
-    {
-      "added_at": "2025-06-06 04:00:31",
-      "album": {
-        "name": "is a Folk Artist",
-        "url": "https://open.spotify.com/album/373bkruQ61S0eMgL8dFAOG"
-      },
-      "artists": [
-        {
-          "name": "Hudson Freeman",
-          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
-        }
-      ],
-      "duration_ms": 242007,
-      "name": "Good Faith",
-      "url": "https://open.spotify.com/track/0UZzkBF9GdsHx71iy1HzcC"
     },
     {
       "added_at": "2025-06-02 17:40:17",
@@ -297,6 +297,22 @@
       "url": "https://open.spotify.com/track/0FAlG6uOeaXWuRdDxaeIQY"
     },
     {
+      "added_at": "2025-06-06 23:42:34",
+      "album": {
+        "name": "Addison",
+        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 232597,
+      "name": "Times Like These",
+      "url": "https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB"
+    },
+    {
       "added_at": "2025-06-02 17:40:17",
       "album": {
         "name": "Man Of The Year",
@@ -395,6 +411,22 @@
       "duration_ms": 165415,
       "name": "mistake",
       "url": "https://open.spotify.com/track/6wjznpOUm54iCCCT6Rgt6R"
+    },
+    {
+      "added_at": "2025-06-06 04:00:31",
+      "album": {
+        "name": "is a Folk Artist",
+        "url": "https://open.spotify.com/album/373bkruQ61S0eMgL8dFAOG"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        }
+      ],
+      "duration_ms": 242007,
+      "name": "Good Faith",
+      "url": "https://open.spotify.com/track/0UZzkBF9GdsHx71iy1HzcC"
     },
     {
       "added_at": "2025-05-22 19:27:26",
@@ -623,22 +655,6 @@
       "duration_ms": 103520,
       "name": "Super",
       "url": "https://open.spotify.com/track/4u5hMlAk0FpBsgReJ7Rpfy"
-    },
-    {
-      "added_at": "2025-05-30 04:00:38",
-      "album": {
-        "name": "Nice To Each Other",
-        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Nice To Each Other",
-      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
     },
     {
       "added_at": "2025-05-23 04:00:33",

@@ -4,7 +4,7 @@
 
 > Drift away with enthralling instrumentals.
 
-278 songs - 14 hr 24 min
+279 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Closer](https://open.spotify.com/track/3A2qFGe7UPTd7G6KbNZjCw) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Closer](https://open.spotify.com/album/0xFhKcMfVpMaKd9OK8GNq5) | 5:11 | 2021-12-09 | 2022-07-29 |
 | [Closer \- Stripped](https://open.spotify.com/track/59ear5ueSaAwD24en6HlIP) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Closer](https://open.spotify.com/album/0xFhKcMfVpMaKd9OK8GNq5) | 5:03 | 2021-12-09 | 2022-05-20 |
 | [Conifer](https://open.spotify.com/track/6gVrAqhSIPSh9iVRa6lgPH) | [Permaculti](https://open.spotify.com/artist/0uHSkfvCjMNDIW6DKaixo4) | [Conifer](https://open.spotify.com/album/2DFrfDDsktqqW94ZgPFEtS) | 3:22 | 2021-12-09 | 2023-10-11 |
+| [Cosmic Trinity](https://open.spotify.com/track/7amtYM2FuWSWBzlb40Y8OH) | [Infinitesimal](https://open.spotify.com/artist/70m8DH3NleJbaiOF5soVYM) | [Cosmic Trinity](https://open.spotify.com/album/3A5DjmDDQVqhqTrrbQcMh5) | 3:31 | 2025-06-03 |  |
 | [Cosmos](https://open.spotify.com/track/1VVrXLUjsP95YDsIcrPePT) | [Paia Mooni](https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn) | [Cosmos](https://open.spotify.com/album/1qODcPWaDKdK4bGZGgNDKA) | 2:44 | 2025-03-05 |  |
 | [Costantine](https://open.spotify.com/track/0GgKichq5jr5FTHj4JTeNq) | [Mellowin](https://open.spotify.com/artist/74ep4BS0RBXT9glJ1DybnO) | [Costantine](https://open.spotify.com/album/4PNedJ10ihtFhqC8ikjBVB) | 2:02 | 2025-04-01 |  |
 | [Darashinai Beach](https://open.spotify.com/track/6k9EQcMdqJRtmIM3fwy9vW) | [Kenichiban](https://open.spotify.com/artist/1itUqhqM3DvzOekyR0MFva) | [Darashinai Beach](https://open.spotify.com/album/68t75psR1Te5qVxWdhvDoc) | 3:39 | 2021-12-09 | 2023-02-28 |
@@ -112,7 +113,7 @@
 | [Gentle Hues](https://open.spotify.com/track/708b9RwAjOqnt5AFN7lKfZ) | [Shibuki](https://open.spotify.com/artist/01ZOR2akLhLcm87lo8jHTg) | [Gentle Hues](https://open.spotify.com/album/6UBtey8p9rG8KzXfQWy7Dn) | 4:01 | 2025-01-14 | 2025-04-11 |
 | [Gilded Stillness](https://open.spotify.com/track/1hsjIfSPcvsCxq7AJgJBEZ) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Gilded Stillness](https://open.spotify.com/album/0GBMdZT0ebGrlxwtnfAcGC) | 12:14 | 2025-04-01 |  |
 | [Glacier](https://open.spotify.com/track/3JhFdT7TtXutHY6eqw56QJ) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Glacier](https://open.spotify.com/album/27yJWNz47JpzOxvc4wXIlX) | 2:36 | 2025-04-01 |  |
-| [Gleam](https://open.spotify.com/track/7oA6HCPv6DK944HwoKB7fN) | [Aiden Gaarder](https://open.spotify.com/artist/5Ke2xVrUo5hNYxTp5fx5XS) | [Reflections](https://open.spotify.com/album/25SUYXz9bAwVFt4BZ5my5B) | 3:46 | 2022-06-24 |  |
+| [Gleam](https://open.spotify.com/track/7oA6HCPv6DK944HwoKB7fN) | [Aiden Gaarder](https://open.spotify.com/artist/5Ke2xVrUo5hNYxTp5fx5XS) | [Reflections](https://open.spotify.com/album/25SUYXz9bAwVFt4BZ5my5B) | 3:46 | 2022-06-24 | 2025-06-11 |
 | [Gotham \(acoustic\)](https://open.spotify.com/track/3bcRe9CcEZ9Dr7JyRoQ7Xb) | [Claes Nilsson](https://open.spotify.com/artist/3AdcSxxep8tZESjs9K3mZ9) | [Gotham](https://open.spotify.com/album/061InFYOX8CN8iuTyOJT7c) | 2:30 | 2021-12-09 | 2025-01-29 |
 | [Harmonious Visit](https://open.spotify.com/track/0eS7dmrKdI0oy1rAR1k8Y5) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Harmonious Visit](https://open.spotify.com/album/5dQEk7k0aOuoCN119pP2sH) | 2:35 | 2025-03-05 |  |
 | [Headroom](https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind \- Vol\. 1](https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466) | 2:52 | 2021-12-09 | 2024-11-15 |

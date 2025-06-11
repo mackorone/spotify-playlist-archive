@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1980s. Cover: Luther Vandross",
-  "num_followers": 1482123,
+  "num_followers": 1483059,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Woodface",
-        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
-      },
-      "artists": [
-        {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "Weather With You",
-      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Picture Book (Expanded Version)",
         "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 269840,
       "name": "Holding Back the Years - 2008 Remaster",
       "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Woodface",
+        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "Weather With You",
+      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Boys And Girls",
-        "url": "https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2"
-      },
-      "artists": [
-        {
-          "name": "Bryan Ferry",
-          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
-        }
-      ],
-      "duration_ms": 266333,
-      "name": "Slave To Love",
-      "url": "https://open.spotify.com/track/1c9dnQbOzw01ID7X2IsYOE"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "...But Seriously (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 327746,
       "name": "I Wish It Would Rain Down - 2016 Remaster",
       "url": "https://open.spotify.com/track/4F2t297QK40XFcIHqkmLHs"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Boys And Girls",
+        "url": "https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2"
+      },
+      "artists": [
+        {
+          "name": "Bryan Ferry",
+          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+        }
+      ],
+      "duration_ms": 266333,
+      "name": "Slave To Love",
+      "url": "https://open.spotify.com/track/1c9dnQbOzw01ID7X2IsYOE"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+        "name": "Stars (Collector's Edition)",
+        "url": "https://open.spotify.com/album/2WOo1KEogmN7MdDMjVCusC"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
         }
       ],
-      "duration_ms": 225626,
-      "name": "Crazy for You - Edit",
-      "url": "https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM"
+      "duration_ms": 257759,
+      "name": "For Your Babies",
+      "url": "https://open.spotify.com/track/58zZvqjTZdm98YhZXvsATa"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Stars (Collector's Edition)",
-        "url": "https://open.spotify.com/album/2WOo1KEogmN7MdDMjVCusC"
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
       },
       "artists": [
         {
-          "name": "Simply Red",
-          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 257759,
-      "name": "For Your Babies",
-      "url": "https://open.spotify.com/track/58zZvqjTZdm98YhZXvsATa"
+      "duration_ms": 225626,
+      "name": "Crazy for You - Edit",
+      "url": "https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Greatest Hits II (Remastered)",
-        "url": "https://open.spotify.com/album/1uG9cIT7IRuq9NqFvKFUsI"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 295333,
-      "name": "Who Wants To Live Forever - Remastered 2011",
-      "url": "https://open.spotify.com/track/3SGP8It5WDnCONyApJKRTJ"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Foreign Affair",
         "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 253173,
       "name": "I Don't Wanna Lose You",
       "url": "https://open.spotify.com/track/2TxWkdptNrm2Z0CZfMr3Iq"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Greatest Hits II (Remastered)",
+        "url": "https://open.spotify.com/album/1uG9cIT7IRuq9NqFvKFUsI"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 295333,
+      "name": "Who Wants To Live Forever - Remastered 2011",
+      "url": "https://open.spotify.com/track/3SGP8It5WDnCONyApJKRTJ"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Misplaced Childhood (2017 Remaster)",
+        "url": "https://open.spotify.com/album/3ExyKxlUkqD41I8tQumMDF"
+      },
+      "artists": [
+        {
+          "name": "Marillion",
+          "url": "https://open.spotify.com/artist/7ai5TWiOG8g9Hds5AATS28"
+        }
+      ],
+      "duration_ms": 243560,
+      "name": "Kayleigh - 2017 Remaster",
+      "url": "https://open.spotify.com/track/0r5Ju8WyodpXBHmg3f4zYf"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Heart Of Stone",
         "url": "https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK"
       },
@@ -1899,22 +1915,6 @@
       "duration_ms": 297306,
       "name": "Jealous Guy",
       "url": "https://open.spotify.com/track/6EMQo2suHaUYZVsbGVTxSZ"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Misplaced Childhood (2017 Remaster)",
-        "url": "https://open.spotify.com/album/3ExyKxlUkqD41I8tQumMDF"
-      },
-      "artists": [
-        {
-          "name": "Marillion",
-          "url": "https://open.spotify.com/artist/7ai5TWiOG8g9Hds5AATS28"
-        }
-      ],
-      "duration_ms": 243560,
-      "name": "Kayleigh - 2017 Remaster",
-      "url": "https://open.spotify.com/track/0r5Ju8WyodpXBHmg3f4zYf"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "All That Jazz",
+        "url": "https://open.spotify.com/album/2t2kQu1Zd9vZRb71Vx1ASf"
+      },
+      "artists": [
+        {
+          "name": "Breathe",
+          "url": "https://open.spotify.com/artist/1MNeXu0284O7mQWgF1YRc0"
+        }
+      ],
+      "duration_ms": 284360,
+      "name": "How Can I Fall ?",
+      "url": "https://open.spotify.com/track/62oGUBJQGPa3emMGMejBhm"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/1Iw6XX7uvOyQbq6dIht2hD"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 234706,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/65h7Qhxl2WfW31Bl6sjWAI"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "All That Jazz",
-        "url": "https://open.spotify.com/album/2t2kQu1Zd9vZRb71Vx1ASf"
-      },
-      "artists": [
-        {
-          "name": "Breathe",
-          "url": "https://open.spotify.com/artist/1MNeXu0284O7mQWgF1YRc0"
-        }
-      ],
-      "duration_ms": 284360,
-      "name": "How Can I Fall ?",
-      "url": "https://open.spotify.com/track/62oGUBJQGPa3emMGMejBhm"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Shake You Down (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0MYHBkw7zPuoZBF0irBFm3"
-      },
-      "artists": [
-        {
-          "name": "Gregory Abbott",
-          "url": "https://open.spotify.com/artist/6zdcmro5vDQSUjeioajL2r"
-        }
-      ],
-      "duration_ms": 245413,
-      "name": "Shake You Down",
-      "url": "https://open.spotify.com/track/7wQ9alB79WZb0F5gFLbxSh"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Best Of Chris Isaak",
         "url": "https://open.spotify.com/album/4aS233D1sBxySxC1dKVtup"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 286880,
       "name": "Wicked Game - Remastered",
       "url": "https://open.spotify.com/track/5l91KHr9uF8wdSdtRoZba8"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Shake You Down (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MYHBkw7zPuoZBF0irBFm3"
+      },
+      "artists": [
+        {
+          "name": "Gregory Abbott",
+          "url": "https://open.spotify.com/artist/6zdcmro5vDQSUjeioajL2r"
+        }
+      ],
+      "duration_ms": 245413,
+      "name": "Shake You Down",
+      "url": "https://open.spotify.com/track/7wQ9alB79WZb0F5gFLbxSh"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Red Red Wine - The Essential UB40",
-        "url": "https://open.spotify.com/album/2fka1yBZYQbhgyyL3wY96Q"
-      },
-      "artists": [
-        {
-          "name": "UB40",
-          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Red Red Wine",
-      "url": "https://open.spotify.com/track/3sFEGvMPkY8Ti97K94Pwp9"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Broadcast",
         "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 222066,
       "name": "Don't Fall In Love With A Dreamer",
       "url": "https://open.spotify.com/track/6xSrfSM8IvRPzwbC4VjBcg"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Red Red Wine - The Essential UB40",
+        "url": "https://open.spotify.com/album/2fka1yBZYQbhgyyL3wY96Q"
+      },
+      "artists": [
+        {
+          "name": "UB40",
+          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Red Red Wine",
+      "url": "https://open.spotify.com/track/3sFEGvMPkY8Ti97K94Pwp9"
     },
     {
       "added_at": "2023-01-24 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Yachty, GloRilla, Lil Wayne and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,395 likes - 51 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,530 likes - 51 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 50 | [Adderall](https://open.spotify.com/track/0BInM9cA2K8B0JuegBKAVw) | [408 Darwin](https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS) | [Adderall](https://open.spotify.com/album/6wOpPikfXHUabhZvGK88fK) | 2:08 |
 | 51 | [Blink Twice](https://open.spotify.com/track/0Uvwbde84o9w8OVlRXOaNa) | [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J) | [Blink Twice](https://open.spotify.com/album/691J2gBKTBdfS2INy4brKc) | 2:10 |
 
-Snapshot ID: `aENNAwAAAABVHwpmh0wstXBY/iXKo8ag`
+Snapshot ID: `AAAAAJYSsVI9H0N18fcKJj2m1mn8+VDM`

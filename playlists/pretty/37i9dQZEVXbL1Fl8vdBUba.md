@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,403 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,417 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 7 | [VITAMINA](https://open.spotify.com/track/0DMJz677XfXiiruhIELu2e) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [VITAMINA](https://open.spotify.com/album/6jf5qinEHzsxyBQgvrW916) | 3:28 |
 | 8 | [top diesel](https://open.spotify.com/track/2QP041AcWg8PwPIWP95RKN) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 3:09 |
 | 9 | [YOGURCITO](https://open.spotify.com/track/6rZno3nqeT7hv2PnSWRuYS) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [BlessDeluxury](https://open.spotify.com/album/0MkMu019XCFwwuL1ftHKmQ) | 3:03 |
-| 10 | [UNA NOCHE DE LOCURA](https://open.spotify.com/track/7sEVEZcZHbglN1RsxMoQMV) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7), [Joseph Ren](https://open.spotify.com/artist/0TG7p0ATDDBfhBjl9EBvIb), [Sebastian Ledher](https://open.spotify.com/artist/6KUSLPXO8e94sZWVksv4nn) | [TRINIDAD BENDITA](https://open.spotify.com/album/7GsCgJ2MFW9lGxfiHjqKEP) | 2:44 |
+| 10 | [UNA NOCHE DE LOCURA](https://open.spotify.com/track/7sEVEZcZHbglN1RsxMoQMV) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Sebastian Ledher](https://open.spotify.com/artist/6KUSLPXO8e94sZWVksv4nn), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7), [Joseph Ren](https://open.spotify.com/artist/0TG7p0ATDDBfhBjl9EBvIb) | [TRINIDAD BENDITA](https://open.spotify.com/album/7GsCgJ2MFW9lGxfiHjqKEP) | 2:44 |
 | 11 | [Hasta Aquí Llegué](https://open.spotify.com/track/0Qe2g06yzLBuuSvVmFiweP) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 3:08 |
 | 12 | [JOKER](https://open.spotify.com/track/6WlEftvjTtuXvLNlGXyct5) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [TRINIDAD BENDITA](https://open.spotify.com/album/7GsCgJ2MFW9lGxfiHjqKEP) | 3:30 |
 | 13 | [sobelove](https://open.spotify.com/track/3fmw8iIyQDS2L7nE6Wd0xG) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 49 | [MAS QUE AMIGOS](https://open.spotify.com/track/7FShXQYb7oLVenr7IeM3CL) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Blackinny](https://open.spotify.com/artist/2T0HIl9gOfBS7Z2GgNu7c3), [Young Fatty](https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV) | [TRINIDAD BENDITA](https://open.spotify.com/album/7GsCgJ2MFW9lGxfiHjqKEP) | 4:00 |
 | 50 | [Yo sé](https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E) | [Yo sé](https://open.spotify.com/album/4NHI7kUT9UsxlgKgDnaJdv) | 2:09 |
 
-Snapshot ID: `L9pQeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L9uh+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
