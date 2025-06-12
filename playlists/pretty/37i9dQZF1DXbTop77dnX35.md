@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from BNXN, Young Jonn, Simi and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,882 likes - 61 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,977 likes - 61 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 21 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 |
 | 22 | [Want You \(feat\. DESTIN CONRAD & JayO\)](https://open.spotify.com/track/2FTgm5uZfuWOoTaVp4bCCa) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Want You \(feat\. DESTIN CONRAD & JayO\)](https://open.spotify.com/album/64e8tTJ3jGpplrXghXQKZn) | 3:19 |
 | 23 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
-| 24 | [PRINCESSA \(feat\. Jul\)](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [PRINCESSA \(feat\. Jul\)](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 |
+| 24 | [PRINCESSA](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [PRINCESSA](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 |
 | 25 | [Shoulder](https://open.spotify.com/track/59BXqiS3Bee0Cx7gjpuJBJ) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Shoulder](https://open.spotify.com/album/04v5bEZUuDeS0orgjeaTJZ) | 3:35 |
 | 26 | [ONE BY ONE II](https://open.spotify.com/track/3MHTjBkjMmDu1fYjNDAy7F) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm), [The Therapist](https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2) | [ONE BY ONE II](https://open.spotify.com/album/5x2LbIrjS3dfrglCune7Ps) | 2:39 |
 | 27 | [WICKED \- BENSY REMIX](https://open.spotify.com/track/1GO5njIVQqCwUkXXSFGoyJ) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [Bensy](https://open.spotify.com/artist/5bL6DC0g37boJqvYx1Ofom) | [WICKED \(BENSY REMIX\)](https://open.spotify.com/album/6chFbJ4BDcMeiEOyYu1Vdo) | 2:52 |

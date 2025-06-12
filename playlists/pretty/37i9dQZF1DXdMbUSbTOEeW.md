@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 
 > Trending dance hits in India\. Cover: Karan Aujla & Badshah
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,485 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,503 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 | 49 | [One Kiss \(with Dua Lipa\) \- R3HAB Remix](https://open.spotify.com/track/5tsZgJv9QqdrIqxU9piCku) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [One Kiss \(with Dua Lipa\) \[Remixes\]](https://open.spotify.com/album/5vH3ugictBcayQWRWgfvpN) | 3:10 |
 | 50 | [Roz](https://open.spotify.com/track/1rDQJd8kzwBRXeoTtojkQn) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Baaraat](https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn) | 3:39 |
 
-Snapshot ID: `AAAAAFXTj5XvZxS+72ctxwbW6HmfT3FT`
+Snapshot ID: `aDwIJgAAAADrrCAlE5/lMWgmkmKJv2l4`

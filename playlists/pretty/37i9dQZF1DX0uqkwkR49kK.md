@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 
 > A collection of insane progressive rock creations, from classic acts to recent gems\. Cover: Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,006 likes - 60 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,079 likes - 60 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 59 | [Drunkship Of Lanterns](https://open.spotify.com/track/1hWw1UGI5GuowixFmunO9y) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Deloused in the Comatorium](https://open.spotify.com/album/0CA2EVHhRPR5VPV78KZw89) | 7:05 |
 | 60 | [The Crowing](https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [In Keeping Secrets Of Silent Earth: 3](https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB) | 6:35 |
 
-Snapshot ID: `Z7TSNAAAAAATTn1AGiKwBvbzLZdw3gys`
+Snapshot ID: `Z7TSNAAAAACLZpx9d4dfoH/d9V8BLRwo`

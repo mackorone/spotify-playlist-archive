@@ -1253,6 +1253,24 @@
     },
     {
       "album": {
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/3B5cMshSNYP8IBHRYPGVBh"
+      },
+      "artists": [
+        {
+          "name": "Antonio Conti",
+          "url": "https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150458,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/5hfdZPZVQJBQeS8gI2nytO"
+    },
+    {
+      "album": {
         "name": "Layla",
         "url": "https://open.spotify.com/album/2y1HsBsgDxbH62lMTFKavT"
       },

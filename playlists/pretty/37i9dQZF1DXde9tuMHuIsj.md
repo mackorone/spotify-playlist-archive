@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Victor Mendivil, Alemán
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,497,080 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,497,084 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 99 | [Hardaway](https://open.spotify.com/track/0ySEghkXDk4L50ZnnlPcB8) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:36 |
 | 100 | [Hasta Que Amanezca](https://open.spotify.com/track/7udzQYiFfgs7A5zctiTvIh) | [John Jay](https://open.spotify.com/artist/3hHNp8Z01f4h9xtEoM4y3q), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [EZ El Ezeta](https://open.spotify.com/artist/4nxZciIJ63XsyL0YfKCkgJ) | [New Money](https://open.spotify.com/album/0S9xLzJ3yKxKCujJaEpBQh) | 2:40 |
 
-Snapshot ID: `aDApWQAAAADoRQZDmnSZ0VqoQRnVTWX3`
+Snapshot ID: `aDApWQAAAAC9C7rXfi8vNTHhxQzSmtcH`

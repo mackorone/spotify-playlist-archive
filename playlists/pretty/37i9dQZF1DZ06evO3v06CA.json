@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 201785,
+  "num_followers": 201803,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEYkAAAAAABIm2I2Qd2RY3wB8Y6FGO4q",
+  "snapshot_id": "aEd1gAAAAABwBKwLkXV6AwyxLljQVW3y",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Willie Nelson The Collection",
-        "url": "https://open.spotify.com/album/4QQfWSR8uMbTye3EjCAea2"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 154360,
-      "name": "On the Road Again",
-      "url": "https://open.spotify.com/track/2GyH5rvdnfkjzsTFaWrrov"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 228160,
       "name": "Against the Wind",
       "url": "https://open.spotify.com/track/3Q3R4fUAI7Lz1PEowFjK11"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Willie Nelson The Collection",
+        "url": "https://open.spotify.com/album/4QQfWSR8uMbTye3EjCAea2"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 154360,
+      "name": "On the Road Again",
+      "url": "https://open.spotify.com/track/2GyH5rvdnfkjzsTFaWrrov"
     },
     {
       "added_at": null,
@@ -971,22 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oh What A Beautiful World",
-        "url": "https://open.spotify.com/album/7C2rtzfeP135vyNyzsmhfV"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "Open Season On My Heart",
-      "url": "https://open.spotify.com/track/3udOqXXzeoTpnFBAFjsyJN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tuskegee (Deluxe Version)",
         "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 270573,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oh What A Beautiful World",
+        "url": "https://open.spotify.com/album/7C2rtzfeP135vyNyzsmhfV"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Open Season On My Heart",
+      "url": "https://open.spotify.com/track/3udOqXXzeoTpnFBAFjsyJN"
     },
     {
       "added_at": null,
@@ -1255,26 +1255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faithfully (feat. Willie Nelson)",
-        "url": "https://open.spotify.com/album/3WUpUwDbCVQyeKq8YigINX"
-      },
-      "artists": [
-        {
-          "name": "Steve Perry",
-          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 262314,
-      "name": "Faithfully - feat. Willie Nelson",
-      "url": "https://open.spotify.com/track/1vnZeVXl71X1D7WHgGotLY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waylon & Willie",
         "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 142666,
       "name": "I Can Get off on You - Remastered",
       "url": "https://open.spotify.com/track/1tmCPGkgKKurSN1onKcaJt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faithfully (feat. Willie Nelson)",
+        "url": "https://open.spotify.com/album/3WUpUwDbCVQyeKq8YigINX"
+      },
+      "artists": [
+        {
+          "name": "Steve Perry",
+          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 262314,
+      "name": "Faithfully - feat. Willie Nelson",
+      "url": "https://open.spotify.com/track/1vnZeVXl71X1D7WHgGotLY"
     },
     {
       "added_at": null,

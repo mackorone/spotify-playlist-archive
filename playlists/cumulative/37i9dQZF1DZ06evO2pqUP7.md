@@ -4,7 +4,7 @@
 
 > This is Lunay\. The essential tracks, all in one playlist.
 
-66 songs - 4 hr 3 min
+67 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Fin De Semana](https://open.spotify.com/track/2DFn7QiaiaNNWXuWLABatP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Fin De Semana](https://open.spotify.com/album/5xoULy1zmC7mR6u23LMW6B) | 2:31 | 2023-11-10 |  |
 | [Gym](https://open.spotify.com/track/7kVBOWAEm4YG9I0GRxbxxg) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Gym](https://open.spotify.com/album/5ctwyXD42GpDu6D2gktAz5) | 2:18 | 2024-07-08 |  |
 | [Hora y Lugar](https://open.spotify.com/track/2kuWpL0C8LFcZSIbI3e35z) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Hora y Lugar](https://open.spotify.com/album/20VhZUhCHS0vS64kCSaGq4) | 3:48 | 2024-01-20 | 2024-11-08 |
-| [Hot \(with Lunay\)](https://open.spotify.com/track/77SzXqzzyf6wyvVxAmM9cB) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Quién es Dei V?](https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5) | 2:37 | 2024-06-17 |  |
+| [Hot \(with Lunay\)](https://open.spotify.com/track/3dAV3458kU5IEMAa5bzQMW) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Quién es Dei V?](https://open.spotify.com/album/2r23a27qGkIUR9BCgi0X6q) | 2:37 | 2025-06-12 |  |
+| [Hot \(with Lunay\)](https://open.spotify.com/track/77SzXqzzyf6wyvVxAmM9cB) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Quién es Dei V?](https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5) | 2:37 | 2024-06-17 | 2025-06-12 |
 | [INTERLUDE / REPORTE DEL TIEMPO](https://open.spotify.com/track/3NLDHndVSYmUt57fofO14y) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Susan Soltero](https://open.spotify.com/artist/7DdMp8sUGVIXO4dMesY6Mx) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 0:43 | 2023-11-10 | 2025-05-13 |
 | [La Boca \- Remix](https://open.spotify.com/track/2EEmzqzM70CybVspgM7YRT) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [La Boca \(Remix\)](https://open.spotify.com/album/5LiT3OZKgkgEeInFxUEObJ) | 3:08 | 2023-11-10 |  |
 | [La Cama](https://open.spotify.com/track/0OoqRZXnSrgIUAha3iLKG1) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:09 | 2025-01-25 |  |

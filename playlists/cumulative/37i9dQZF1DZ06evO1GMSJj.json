@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214986,
+      "name": "Gyroscope",
+      "url": "https://open.spotify.com/track/2KS7b9EbL3sPGswRf3seAZ"
+    },
+    {
+      "album": {
         "name": "Trans Canada Highway",
         "url": "https://open.spotify.com/album/7DcHbfXY5HpmU2ltqCxc8c"
       },
@@ -1636,7 +1654,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 77173,
       "name": "The Smallest Weird Number",
       "url": "https://open.spotify.com/track/4EI8Hj2EeAUdvNMnY52PMj"

@@ -2,9 +2,9 @@
 
 ### [K\`illin'](https://open.spotify.com/playlist/37i9dQZF1DX1TqbmB34Bbs)
 
-> Illest hardcore K\-hip hop tracks are here\. \(Cover: Nosun\(노선\)\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
+> Illest hardcore K\-hip hop tracks are here\. \(Cover: Loco\(로꼬\)\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
-1,261 songs - 2 day 21 hr 43 min
+1,262 songs - 2 day 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -650,6 +650,7 @@
 | [Marley \(feat\. Huckleberry P\)](https://open.spotify.com/track/2Vfab88uvIEuwa0YX9OLm9) | [Brown Tigger](https://open.spotify.com/artist/61IaAjWyHrAO5ZJdjp1YEH), [Huckleberry P](https://open.spotify.com/artist/4meeMnr8eLacsB31ApsXZS) | [2022 Monthly Brown May](https://open.spotify.com/album/2fVWXrJnn03sknbjc3ZK9n) | 3:05 | 2022-06-20 | 2022-07-29 |
 | [MARSHMALLOW \(Feat\. Huh, BLASÉ, DON MALIK\)](https://open.spotify.com/track/5BbfyeowzGfRqnrVq2Yomv) | [Padi](https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5), [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [MARSHMALLOW](https://open.spotify.com/album/4Wfwae1s3zIiA6Mc9yvnbT) | 4:04 | 2024-12-03 | 2025-04-13 |
 | [Maserati & Porsche](https://open.spotify.com/track/5NlIL7RdnXNG34BgjfbfMf) | [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Maserati & Porsche](https://open.spotify.com/album/4UcxisFzLLvQbSQNjY8nk5) | 3:12 | 2022-05-28 | 2022-07-23 |
+| [Matcha High \(feat\. TAICHU & Young Coco\)](https://open.spotify.com/track/3h5uTmefeQlkALqrXaHOir) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6) | [Matcha High](https://open.spotify.com/album/16QVdeAvXQJQuoxUUoYqQk) | 3:51 | 2025-06-11 |  |
 | [Maybe Yesterday](https://open.spotify.com/track/0R3qdRiZT5mBBUJzLHoA5b) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [Son Simba](https://open.spotify.com/artist/4q2IjH8TVz7CNSzIiPDV6B), [Viann](https://open.spotify.com/artist/7yRs5f61v5AwXwVlUQ7bNE) | [Maybe Yesterday](https://open.spotify.com/album/7DuJaFyEFscbG9QWlpz8fJ) | 3:58 | 2022-05-28 | 2022-07-28 |
 | [McNasty](https://open.spotify.com/track/0nMwj215nyfEOER5AJWLDF) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [McNasty](https://open.spotify.com/album/0Yz3zZhK6e0B5zUTqM5hZV) | 3:12 | 2024-07-01 |  |
 | [Mean](https://open.spotify.com/track/1NJ5N8SfKOH1AWCDkZQtGj) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Debugging](https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz) | 2:44 | 2024-05-23 | 2024-06-24 |
@@ -981,7 +982,7 @@
 | [Skip Bottom \(Feat\. Blase\)](https://open.spotify.com/track/27NINxYfFHrHGS3sNYXd1J) | [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Skip Bottom](https://open.spotify.com/album/7Emp8eM3hgcgnQBVgjqWBu) | 3:04 | 2022-08-01 | 2023-01-11 |
 | [Skyscraper \(Feat\. JUSTHIS\)](https://open.spotify.com/track/3IbkyQEyVBdMGGKh3UGnmc) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:53 | 2022-06-09 |  |
 | [Slatt \(feat\. Briel & Northfacegawd\)](https://open.spotify.com/track/4B7cAGF9x5B0iuidXctkzw) | [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst), [Briel](https://open.spotify.com/artist/4j61gv9CxwVFhg0SNvIlt1), [northfacegawd](https://open.spotify.com/artist/620Vx5hEMowoa71wXk4bu1) | [Sticky Wire 2 \(Deluxe Edition\)](https://open.spotify.com/album/3Qsu1llTSmCM7of9oOCCHu) | 4:02 | 2022-06-03 | 2022-07-29 |
-| [Slatty Slut \(Feat\. Sik\-K\)](https://open.spotify.com/track/1dAI1q2YGqDytJSxnqFaNy) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [AAA](https://open.spotify.com/album/67HPDc7fjJfJyHggdcRlc5) | 2:01 | 2022-05-31 |  |
+| [Slatty Slut \(Feat\. Sik\-K\)](https://open.spotify.com/track/1dAI1q2YGqDytJSxnqFaNy) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [AAA](https://open.spotify.com/album/67HPDc7fjJfJyHggdcRlc5) | 2:01 | 2022-05-31 | 2025-06-12 |
 | [Slay](https://open.spotify.com/track/2L6Mx4R9795QsMMbAqsOFh) | [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [KEUNG](https://open.spotify.com/album/27DBdAQYbalG0di7blGfDc) | 2:39 | 2022-05-28 |  |
 | [SLEEP TIGHT \(feat\. Skyminhyuk\)](https://open.spotify.com/track/0mUWfzcdWXbrR4xwA5BKU2) | [Odd95](https://open.spotify.com/artist/107BJB3FuWpbFLRaVsAMyB), [Skyminhyuk](https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM) | [SLEEP TIGHT](https://open.spotify.com/album/2Ec1spvA1p4qsxhN1HkyDB) | 2:57 | 2022-06-09 | 2022-07-29 |
 | [SLIDE \(feat\. Chillin Homie & Blase\)](https://open.spotify.com/track/2gef02SzAOGE9QKgxwMW9i) | [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [OXYNOVA](https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa), [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Drop The Bit The 3rd round Pt\. 1](https://open.spotify.com/album/4qymBh4IciyjJwgzwIVFUX) | 3:57 | 2022-06-13 | 2022-07-18 |

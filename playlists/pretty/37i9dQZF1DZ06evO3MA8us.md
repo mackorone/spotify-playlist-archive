@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 
 > This is Passion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,837 likes - 50 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,839 likes - 50 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 | 26 | [Salvation Belongs To You \- Live From Passion 2024](https://open.spotify.com/track/21YqSmQdOvrToR08TFYwJc) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Call on Heaven \(Live\)](https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP) | 5:16 |
 | 27 | [Heaven \- Live](https://open.spotify.com/track/28z598q2VWCSTdTT1opliw) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Whole Heart \(Live\)](https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky) | 5:09 |
 | 28 | [Revelation Song \- Live](https://open.spotify.com/track/35msHwn81uKQS5Jn783oSU) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Passion: Let The Future Begin \(Deluxe Edition\)](https://open.spotify.com/album/6FdImKs7ZL5y2pi1x2Kea3) | 8:28 |
-| 29 | [God Of This City \- Live](https://open.spotify.com/track/47qcfvLEpd0aq6doUZ5goj) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 5:05 |
-| 30 | [10,000 Reasons \(Bless The Lord\) \- Live](https://open.spotify.com/track/6RZ8i45jxuvih2qeNfoUdv) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Passion: White Flag](https://open.spotify.com/album/1xuZPjUaD8wODDfpWbJH9e) | 5:50 |
-| 31 | [Follow You Anywhere \- Live](https://open.spotify.com/track/3OhF89cVIbCq5oG4syZ3dr) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Follow You Anywhere \(Live\)](https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1) | 5:00 |
+| 29 | [Follow You Anywhere \- Live](https://open.spotify.com/track/3OhF89cVIbCq5oG4syZ3dr) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Follow You Anywhere \(Live\)](https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1) | 5:00 |
+| 30 | [God Of This City \- Live](https://open.spotify.com/track/47qcfvLEpd0aq6doUZ5goj) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 5:05 |
+| 31 | [10,000 Reasons \(Bless The Lord\) \- Live](https://open.spotify.com/track/6RZ8i45jxuvih2qeNfoUdv) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Passion: White Flag](https://open.spotify.com/album/1xuZPjUaD8wODDfpWbJH9e) | 5:50 |
 | 32 | [You Are My King \(Amazing Love\) \- Live/2006 Remastered](https://open.spotify.com/track/6SvW9GN8EBSqfgBJfC3rHA) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Christy Nockels](https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6) | [The Best Of Passion \(So Far\) \[Live\]](https://open.spotify.com/album/4XEkJ32aRYJ85OnaEykBEc) | 5:23 |
 | 33 | [Follow \- Live From Passion 2024](https://open.spotify.com/track/0sBm2lZBspg3kCFgwVtz5S) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Melodie Malone](https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3) | [Call on Heaven \(Live\)](https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP) | 4:38 |
 | 34 | [Amazing Grace \(My Chains Are Gone\) \- Live](https://open.spotify.com/track/1B446v2zWyL6AEq2BnKL2J) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: A Generation United For His Renown](https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T) | 8:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 | 49 | [How He Loves \- Live](https://open.spotify.com/track/5z24Hr3TKxeyeLRKFRHuzB) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Passion: Even So Come \(Deluxe Edition/Live\)](https://open.spotify.com/album/4tC75ntB2W3ORGGVhvFVmg) | 4:43 |
 | 50 | [Marvelous Light \- Live](https://open.spotify.com/track/2CniJL7x5qnBiCDJuV9pzL) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Charlie Hall](https://open.spotify.com/artist/0Przo8VxOHYfZv9FMZWsWV) | [Passion: A Generation United For His Renown](https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T) | 5:52 |
 
-Snapshot ID: `aEYkAAAAAAA54tKuBwpwudW1gaU3epV0`
+Snapshot ID: `aEd1gAAAAABnG1RgZOSsUgVgZxCb6k2G`

@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125265,
+  "num_followers": 125263,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAULZWFg9ZQ1SN404teh0Q1kg2KFSA4",
+  "snapshot_id": "AAAULnWtu00KV4P5PdE9LgwSRzMsMcZS",
   "tracks": [
+    {
+      "added_at": "2025-06-11 15:14:08",
+      "album": {
+        "name": "SURFACE",
+        "url": "https://open.spotify.com/album/4ujOWQN1rcL5cc3EPQ8wo7"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "Eliminate",
+          "url": "https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b"
+        },
+        {
+          "name": "Adalaide Adams",
+          "url": "https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "SURFACE",
+      "url": "https://open.spotify.com/track/00byVYVEufxOA9qwRwKdBN"
+    },
     {
       "added_at": "2025-06-10 15:01:58",
       "album": {

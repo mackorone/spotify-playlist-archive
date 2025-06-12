@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,124 likes - 212 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,234 likes - 212 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 211 | [Play My Heart \- Instrumental Dub](https://open.spotify.com/track/7dND9Gm3abCQZNkWBnU5kp) | [Jorja X](https://open.spotify.com/artist/75eRLowc6cNPJmalbZoU6H) | [Play My Heart](https://open.spotify.com/album/2PMZo9UjJ1HuiRG19jtEvY) | 2:14 |
 | 212 | [Midnight Disco](https://open.spotify.com/track/01NWiyGlPKcfXFj85gQ87B) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Midnight Disco](https://open.spotify.com/album/1h2qp1P2w6GIQnJYxOFpBK) | 2:41 |
 
-Snapshot ID: `AAAAAGFxGsMOCgAA3yvm6RHLfMEhslou`
+Snapshot ID: `aB4U3AAAAABV4QAEKovRxE/N4kLvgISl`

@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 681322,
+  "num_followers": 681377,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEYkAAAAAADIT6Fh97yNe1qdD0mg8gX8",
+  "snapshot_id": "aEd1gAAAAACcq6ScAIcaG4jiFSWvtt1c",
   "tracks": [
     {
       "added_at": null,
@@ -735,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let Me Fly",
+        "url": "https://open.spotify.com/album/5bPJWz3z4NWjOaRYBRZBED"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "On Dat Money (with Cardi B) - Bonus",
+      "url": "https://open.spotify.com/track/5RWKa0QLtlf3nZ8WLczt2W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JEALOUSY (feat. Cardi B)",
         "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
       },
@@ -847,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNDER8ED",
-        "url": "https://open.spotify.com/album/45x9T2H8aU4ckLPOYfGucD"
-      },
-      "artists": [
-        {
-          "name": "Pardison Fontaine",
-          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 189501,
-      "name": "Backin' It Up (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/0ldWh5GwkxnhjoUdGKzXEq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dinero",
         "url": "https://open.spotify.com/album/1fT1s4VMXc9xGIamDyFz9S"
       },
@@ -887,6 +887,26 @@
       "duration_ms": 213750,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/22mQXNE0nCuWq4yOwcadIn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNDER8ED",
+        "url": "https://open.spotify.com/album/45x9T2H8aU4ckLPOYfGucD"
+      },
+      "artists": [
+        {
+          "name": "Pardison Fontaine",
+          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 189501,
+      "name": "Backin' It Up (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/0ldWh5GwkxnhjoUdGKzXEq"
     },
     {
       "added_at": null,
@@ -1055,38 +1075,6 @@
       "duration_ms": 225492,
       "name": "Point Me 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Bebe (Remix)",
-        "url": "https://open.spotify.com/album/1hUWE99C1h8yBHZT8KxP4V"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Black Jonas Point",
-          "url": "https://open.spotify.com/artist/5ImkeVBlU11axX5QwOWg12"
-        },
-        {
-          "name": "Secreto \"El Famoso Biberon\"",
-          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
-        },
-        {
-          "name": "Liro Shaq",
-          "url": "https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk"
-        }
-      ],
-      "duration_ms": 374545,
-      "name": "La Bebe - Remix",
-      "url": "https://open.spotify.com/track/3DyiAk1BzIF8rq9rimypG4"
     }
   ],
   "unique_name": "This Is Cardi B",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 
 > A cool breeze, a clear sky, and calming piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,206 likes - 187 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,234 likes - 187 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 | 29 | [White Road](https://open.spotify.com/track/5im9REzRM7HXHBgedv0lod) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [White Road](https://open.spotify.com/album/4CqT4Z5flLY2Kiy1a2oiMf) | 2:23 |
 | 30 | [Carried Away](https://open.spotify.com/track/6osYVNKzPnVM3k7y2SasZT) | [Nadav Kohen](https://open.spotify.com/artist/6pg3pij73xdq9wUlp7R1lN) | [Carried Away](https://open.spotify.com/album/2CbSr0PzBU4Yps8XWb8hGB) | 2:02 |
 | 31 | [Sonnet 1](https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [Sonnet 1](https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz) | 2:11 |
-| 32 | [Beautiful Moment](https://open.spotify.com/track/3AfzEYAQSIboniOJSV4ifN) | [Claudia Schumann](https://open.spotify.com/artist/2iwOpHlcFiksGX5PEJ1apz) | [Beautiful Moment](https://open.spotify.com/album/33A6unt8FX7mZxOpv4dUz5) | 2:29 |
+| 32 | [Beautiful Moment](https://open.spotify.com/track/3AfzEYAQSIboniOJSV4ifN) | [C\. Schumann](https://open.spotify.com/artist/6DCx3VYkpg9rqycY67aZCx) | [Beautiful Moment](https://open.spotify.com/album/33A6unt8FX7mZxOpv4dUz5) | 2:29 |
 | 33 | [Hvile \(Ps.4\)](https://open.spotify.com/track/6VX09RQkEUeCA2f07eF4L0) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [Hvile \(Ps.4\)](https://open.spotify.com/album/70ulnAtVVPZApVt5J4WIbm) | 2:25 |
 | 34 | [Peggy's Cove](https://open.spotify.com/track/7yplIuBnFYA8eUje0Vi0UP) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Peggy's Cove](https://open.spotify.com/album/6u1kaq0ueouDEcdpyyvsFM) | 2:15 |
 | 35 | [Perdono](https://open.spotify.com/track/7jAhN8L7qmsoeLa6Wo8ItS) | [Emiliano Nucci](https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp) | [Perdono](https://open.spotify.com/album/3l0o5eKMNP76OSjxFyi2ER) | 3:18 |

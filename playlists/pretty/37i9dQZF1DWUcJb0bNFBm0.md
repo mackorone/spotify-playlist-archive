@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 
 > Noise distortion amongst the hazy clouds ☁️  Cover: Slowwves \(Thailand\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,368 likes - 95 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,377 likes - 95 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 | 79 | [Nostalgia](https://open.spotify.com/track/78ar3KjOd7cJIZJqk67mnw) | [Mariana in our Heads](https://open.spotify.com/artist/4sa4uFNUGC2SH8a4Rj710I) | [Landscapes](https://open.spotify.com/album/13pufn8mYgJ4A6w2zkUlQF) | 3:52 |
 | 80 | [Sometimes](https://open.spotify.com/track/5cTPib9wffQwW6KEgldFBI) | [Social Order](https://open.spotify.com/artist/7J3iqTNIMXafmNKtwfRQ48) | [Sometimes](https://open.spotify.com/album/6z1B90KXtwR4iG1JgjQ3KS) | 3:11 |
 | 81 | [Home](https://open.spotify.com/track/3KH7uTsH53MNReg0xtMVAT) | [GAZEKATE](https://open.spotify.com/artist/4F8TQLHmLbfQbaewX40glp) | [Home](https://open.spotify.com/album/0KWcS368MdPtgQlImvyY7k) | 4:57 |
-| 82 | [North](https://open.spotify.com/track/7t0gATi7yocV67rRNEXcDp) | [모즈다이브](https://open.spotify.com/artist/0ntQ7sGnJMIHCjp63GbQ2e) | [THE STASIS OF HUMANITY](https://open.spotify.com/album/1elGHd8JIVzG7r92vCPW1n) | 5:03 |
+| 82 | [North](https://open.spotify.com/track/7t0gATi7yocV67rRNEXcDp) | [모즈다이브](https://open.spotify.com/artist/0lFZOggvrXLeaOFT4C0Oki) | [THE STASIS OF HUMANITY](https://open.spotify.com/album/1elGHd8JIVzG7r92vCPW1n) | 5:03 |
 | 83 | [Boring Train](https://open.spotify.com/track/5QRgEuPneXDEQjiVuNzTnv) | [Beachside talks](https://open.spotify.com/artist/5sp9TRLcb2ooWZG7XRY6c4) | [Marble Town](https://open.spotify.com/album/4mF2gRfHof8jXkW3ay0Ggu) | 4:48 |
 | 84 | [Nothing but strange](https://open.spotify.com/track/40i8O5LY3C9qCBunrHd8X1) | [Drotoch](https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U) | [Nothing but strange](https://open.spotify.com/album/5sk57jXyi2sUlcBLOJWha0) | 3:49 |
 | 85 | [Dari Pinggiran](https://open.spotify.com/track/3UNttJlYxUCXS1IzBzn77x) | [Bayangan](https://open.spotify.com/artist/6Vf2sAgnMGioPLNUqqBgAI) | [Dari Pinggiran](https://open.spotify.com/album/2XnOsx99FtOrDBxyFfNqdh) | 6:43 |

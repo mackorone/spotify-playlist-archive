@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 98798,
+  "num_followers": 98818,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "A Walk in the Park",
+        "url": "https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        }
+      ],
+      "duration_ms": 325880,
+      "name": "A Walk in the Park",
+      "url": "https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Heavenly Revisited Album",
         "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 208818,
       "name": "World Of Deep",
       "url": "https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "A Walk in the Park",
-        "url": "https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI"
-      },
-      "artists": [
-        {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
-        }
-      ],
-      "duration_ms": 325880,
-      "name": "A Walk in the Park",
-      "url": "https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Patterns the Album",
+        "url": "https://open.spotify.com/album/1XzqlBfwHGBtaLXT5j6zGw"
+      },
+      "artists": [
+        {
+          "name": "Claude Young",
+          "url": "https://open.spotify.com/artist/7hWRneMDJulC1IMfHD1gt7"
+        }
+      ],
+      "duration_ms": 307933,
+      "name": "Ancelyn",
+      "url": "https://open.spotify.com/track/2AoGPNyWIsnPTHhJnHdIuf"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Oombah (Kevin Saunderson & Justin Cholewski Remix)",
         "url": "https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 190947,
       "name": "Oombah - Kevin Saunderson & Justin Cholewski Remix",
       "url": "https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Patterns the Album",
-        "url": "https://open.spotify.com/album/1XzqlBfwHGBtaLXT5j6zGw"
-      },
-      "artists": [
-        {
-          "name": "Claude Young",
-          "url": "https://open.spotify.com/artist/7hWRneMDJulC1IMfHD1gt7"
-        }
-      ],
-      "duration_ms": 307933,
-      "name": "Ancelyn",
-      "url": "https://open.spotify.com/track/2AoGPNyWIsnPTHhJnHdIuf"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -463,6 +463,26 @@
       "duration_ms": 312894,
       "name": "Just Want Another Chance - Original Mix",
       "url": "https://open.spotify.com/track/2fLoViPlr6qskNBS19sO7j"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Can You Feel It (Kevin Saunderson Remix)",
+        "url": "https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh"
+      },
+      "artists": [
+        {
+          "name": "Chez Damier",
+          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        }
+      ],
+      "duration_ms": 208210,
+      "name": "Can You Feel It - Kevin Saunderson Remix",
+      "url": "https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -507,26 +527,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Can You Feel It (Kevin Saunderson Remix)",
-        "url": "https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh"
-      },
-      "artists": [
-        {
-          "name": "Chez Damier",
-          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        }
-      ],
-      "duration_ms": 208210,
-      "name": "Can You Feel It - Kevin Saunderson Remix",
-      "url": "https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "Red Room",
         "url": "https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4"
       },
@@ -552,13 +552,13 @@
           "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
         },
         {
-          "name": "ZebrA OctobrA",
-          "url": "https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd"
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
         }
       ],
-      "duration_ms": 188225,
-      "name": "SoundwaveZ",
-      "url": "https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg"
+      "duration_ms": 352599,
+      "name": "We All Move Together - Album Mix",
+      "url": "https://open.spotify.com/track/5bdh7s1mGPfiBh2Thxlxsu"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -587,26 +587,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "I Can't Believe",
-        "url": "https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW"
-      },
-      "artists": [
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 369016,
-      "name": "I Can't Believe - Extended Mix",
-      "url": "https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "Waveform Transmission Vol. 2",
         "url": "https://open.spotify.com/album/0BmR9AfixKN0QsrkEHIXL2"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 208177,
       "name": "The Protector",
       "url": "https://open.spotify.com/track/0Gmv7RQPrem1m4Amdc4Hhk"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "I Can't Believe",
+        "url": "https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW"
+      },
+      "artists": [
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 369016,
+      "name": "I Can't Believe - Extended Mix",
+      "url": "https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -652,13 +652,13 @@
           "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
         },
         {
-          "name": "IDRIS",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+          "name": "ZebrA OctobrA",
+          "url": "https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd"
         }
       ],
-      "duration_ms": 352599,
-      "name": "We All Move Together - Album Mix",
-      "url": "https://open.spotify.com/track/5bdh7s1mGPfiBh2Thxlxsu"
+      "duration_ms": 188225,
+      "name": "SoundwaveZ",
+      "url": "https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Faith, Hope & Clarity",
+        "url": "https://open.spotify.com/album/1kPIn4PuSmvGDsXDCxVDB7"
+      },
+      "artists": [
+        {
+          "name": "The Reese Project",
+          "url": "https://open.spotify.com/artist/0BshoWL6YCwwdSTLXETd6d"
+        }
+      ],
+      "duration_ms": 346413,
+      "name": "The Color of Love - Reese Deep Mix",
+      "url": "https://open.spotify.com/track/1Qg29ZSo2roSr6ghY08jhn"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "One Nation",
         "url": "https://open.spotify.com/album/4ueHBbYbDGOpRTdKBbBoFm"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 202057,
       "name": "One Nation",
       "url": "https://open.spotify.com/track/7ygTdMWOt9OrP6dFHbBuEc"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Faith, Hope & Clarity",
-        "url": "https://open.spotify.com/album/1kPIn4PuSmvGDsXDCxVDB7"
-      },
-      "artists": [
-        {
-          "name": "The Reese Project",
-          "url": "https://open.spotify.com/artist/0BshoWL6YCwwdSTLXETd6d"
-        }
-      ],
-      "duration_ms": 346413,
-      "name": "The Color of Love - Reese Deep Mix",
-      "url": "https://open.spotify.com/track/1Qg29ZSo2roSr6ghY08jhn"
     },
     {
       "added_at": "2023-10-26 20:41:14",

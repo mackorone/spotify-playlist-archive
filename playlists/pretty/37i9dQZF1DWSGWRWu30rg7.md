@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Merayakan 10 tahun Fresh Finds, temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Vanessa Zee
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,238 likes - 99 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,249 likes - 99 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 66 | [Maafkan Aku](https://open.spotify.com/track/25C4KBqaLTzSs10yMbdtsA) | [Sunkind](https://open.spotify.com/artist/2xRuhfYNbbuoWNfrWfxwBH) | [Maafkan Aku](https://open.spotify.com/album/0eHgyGFbR1mpmb9AqKrZx0) | 4:09 |
 | 67 | [Kisah Tak Seberapa Indah](https://open.spotify.com/track/2eZEV7spb6XoUbSKyEj97o) | [Valent Duga](https://open.spotify.com/artist/6Hkx3ewDN37sXxkHDyebUC), [Romano Guitar Boy](https://open.spotify.com/artist/4V2B4o9ulMViRgnnae4F6P) | [Kisah Tak Seberapa Indah](https://open.spotify.com/album/7pos0C5qPGnxxJ0kD4JzyQ) | 3:32 |
 | 68 | [Juara](https://open.spotify.com/track/5IpzFMikA8aoVUHPWAKLAB) | [KUKILA](https://open.spotify.com/artist/6ZG3xUfs99Sas04Bcw0Qc2) | [KUKILA](https://open.spotify.com/album/3YPNQ3Zd3h2LwX6R39HLOb) | 4:44 |
-| 69 | [GG](https://open.spotify.com/track/5DIIYsUIkqpgFW2wqrTpzE) | [NTAH](https://open.spotify.com/artist/3flh7DuAIwbFwfMnfZCqXy) | [GG](https://open.spotify.com/album/53dKM3MqZ2z21zvhGlWD6C) | 3:00 |
+| 69 | [GG](https://open.spotify.com/track/5DIIYsUIkqpgFW2wqrTpzE) | [NTAH](https://open.spotify.com/artist/3flh7DuAIwbFwfMnfZCqXy) | [GG](https://open.spotify.com/album/53dKM3MqZ2z21zvhGlWD6C) | 2:47 |
 | 70 | [Usai Di Sana](https://open.spotify.com/track/3vHZ7ALX8OhMuKcmshN8Ya) | [Selasar](https://open.spotify.com/artist/5XNyD4TuQvoNhm8T5458TA) | [Usai Di Sana](https://open.spotify.com/album/7CojHJYd75FEJaYh5FzByn) | 3:58 |
 | 71 | [Like My Ex](https://open.spotify.com/track/4ShMGS24OXcjCGToul3unM) | [Amsav](https://open.spotify.com/artist/2iSv0qoTjVktDloQ55uC4Q) | [Like My Ex](https://open.spotify.com/album/3JkiaYzgn5qVzHAcps5fa4) | 3:09 |
 | 72 | [A.S.U\. \( Ai Sayang U\)](https://open.spotify.com/track/54v8TPbLeHTt3R6d0Z9M4b) | [Hura Hura Club](https://open.spotify.com/artist/5E2YqfdAa2RRkE234kZcl7), [Jenda Munthe](https://open.spotify.com/artist/499ITjNw2nHBVMd7IPoq33), [Dustin Tiffani](https://open.spotify.com/artist/4ffVdSoEMpQkHI2WKJBK6Q), [Anggie Fairy](https://open.spotify.com/artist/3YSsARt39FCPv2f7prO6Zd), [Budi Hok](https://open.spotify.com/artist/3m8gtAsFbWj8Zi3r0u99w2) | [A.S.U\. \( Ai Sayang U\)](https://open.spotify.com/album/6SKd3nMVpSKkpFzcMhylDQ) | 3:40 |

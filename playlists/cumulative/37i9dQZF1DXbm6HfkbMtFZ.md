@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-636 songs - 1 day 14 hr 13 min
+637 songs - 1 day 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [Just Like You Used To](https://open.spotify.com/track/0KNKtfE0jOcGBeu7Y5pL7h) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 3:09 | 2023-09-19 | 2024-04-19 |
 | [Karma](https://open.spotify.com/track/44wX3ghv6UPwg5uI3XnROo) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/27UVPGKePLLUlHX7xDQb7m) | 3:57 | 2024-08-14 | 2024-11-21 |
 | [Kathy and Paul](https://open.spotify.com/track/0FzYtu4DEKZkNxpxl7VXw6) | [Long Island Railroad](https://open.spotify.com/artist/2zZSQmUEnIliGJRClpPb70), [Smushie](https://open.spotify.com/artist/0XGgpBKj7u2MMX2kqUVLaH), [Ryan Gebhardt](https://open.spotify.com/artist/1GgblJXkRYNRnHUGBW9oLA) | [Kathy and Paul](https://open.spotify.com/album/6kyQHx273kGzLd4Z8ogt4C) | 2:54 | 2024-08-14 |  |
-| [Keep Your Faith to the Sky](https://open.spotify.com/track/3EvsbWc8SXFKp03SS2B9Ok) | [Willie Scott & The Birmingham Spirituals](https://open.spotify.com/artist/2MLCA5LxOACoZRdTn8ThmI) | [Keep Your Faith to the Sky](https://open.spotify.com/album/49LpwpMHPPNni1Vi7IM6oV) | 5:09 | 2021-12-16 |  |
+| [Keep Your Faith to the Sky](https://open.spotify.com/track/3EvsbWc8SXFKp03SS2B9Ok) | [Willie Scott & The Birmingham Spirituals](https://open.spotify.com/artist/2MLCA5LxOACoZRdTn8ThmI) | [Keep Your Faith to the Sky](https://open.spotify.com/album/49LpwpMHPPNni1Vi7IM6oV) | 5:09 | 2021-12-16 | 2025-06-12 |
 | [Keeping Me Under](https://open.spotify.com/track/1N5zNjjaie1MpYW4oTPqVZ) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Keeping Me Under](https://open.spotify.com/album/5GgzoCTpVmmxGoETRWBa4l) | 3:38 | 2022-03-30 | 2022-04-21 |
 | [Keeping Me Under](https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Keeping Me Under](https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu) | 3:38 | 2022-07-26 | 2023-02-14 |
 | [Kelly](https://open.spotify.com/track/3Mj5wXVgnFs0HhBI4iYHCd) | [Amason](https://open.spotify.com/artist/4cJKxS7uOPhwb5UQ70sYpN) | [Sky City](https://open.spotify.com/album/2lYmxilk8cXJlxxXmns1IU) | 3:38 | 2022-03-30 | 2022-04-21 |
@@ -435,6 +435,7 @@
 | [Pig](https://open.spotify.com/track/7lNv1uR1e9JndPOPxrx2fo) | [Sasac](https://open.spotify.com/artist/0ZfeJXXkQPkG21bGk3NTLt) | [Future Disc](https://open.spotify.com/album/1Nmf8lD3yED6aaYWwWOlWc) | 3:19 | 2021-12-16 | 2022-04-21 |
 | [Planes, Boats and Trains](https://open.spotify.com/track/4DHzUFdHMJRouGGJ4XqrKQ) | [Andrew Jackman](https://open.spotify.com/artist/3FmPzdYKLHjE6gHIdghfhL) | [Bruton BRH6: Voices in Harmony](https://open.spotify.com/album/3UsjRBVhsLR097B4cNbAwn) | 1:35 | 2021-12-16 | 2023-05-09 |
 | [Play It On My Radio](https://open.spotify.com/track/5TIwTmk9MukdTu9mOpraCy) | [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [Everybody’s Heart Is Broken Now \(Deluxe\)](https://open.spotify.com/album/5F44JFAn5cKBkuDUZGxxuD) | 4:33 | 2022-03-30 | 2022-06-22 |
+| [Play Pretend](https://open.spotify.com/track/5Bd2BRtzcEEm0G1ZU2JwLo) | [Ali Angel](https://open.spotify.com/artist/0RPW9rpDMyVD4wEMzvd1RG) | [Play Pretend](https://open.spotify.com/album/4gk7cTFVAi1cvhsGJSP6IT) | 3:24 | 2025-06-04 |  |
 | [Postmodern Girl](https://open.spotify.com/track/6KDKqDAi5e9pmb68tfOe7E) | [jeremy messersmith](https://open.spotify.com/artist/7ifrN0oUJbWF1EhktyTKte) | [Late Stage Capitalism](https://open.spotify.com/album/6dSVqMNOXBRgW3Jy8DtHVS) | 3:39 | 2021-12-16 | 2022-07-29 |
 | [Praja Magia](https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS) | 3:20 | 2023-06-26 |  |
 | [Pressure](https://open.spotify.com/track/15hp88Fwgqi3HgY2hq6cyi) | [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Lo Artiz](https://open.spotify.com/artist/471krICBnmucQIpNOf7az7), [Julia Zivic](https://open.spotify.com/artist/14ICub3ucTYRmPTfvyCsh6) | [Homegrown](https://open.spotify.com/album/4vAakYtJWrer6lENSAP19l) | 1:44 | 2024-05-01 |  |

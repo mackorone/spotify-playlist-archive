@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Z\u00e9 Ibarra",
-  "num_followers": 350059,
+  "num_followers": 350040,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -503,26 +503,6 @@
     {
       "added_at": "2025-06-06 03:43:34",
       "album": {
-        "name": "Quase Um Segundo",
-        "url": "https://open.spotify.com/album/5W3Uj6xgFVyH1Z6oNk6Nc2"
-      },
-      "artists": [
-        {
-          "name": "X\u00eania Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
-        },
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 252436,
-      "name": "Quase Um Segundo",
-      "url": "https://open.spotify.com/track/1L9980Y779SA7ZWer3JAUg"
-    },
-    {
-      "added_at": "2025-06-06 03:43:34",
-      "album": {
         "name": "Vento",
         "url": "https://open.spotify.com/album/5bbVhxfRTR1e1Ps0XYOWkK"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 172329,
       "name": "Vento",
       "url": "https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi"
+    },
+    {
+      "added_at": "2025-06-06 03:43:34",
+      "album": {
+        "name": "Quase Um Segundo",
+        "url": "https://open.spotify.com/album/5W3Uj6xgFVyH1Z6oNk6Nc2"
+      },
+      "artists": [
+        {
+          "name": "X\u00eania Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
+        },
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 252436,
+      "name": "Quase Um Segundo",
+      "url": "https://open.spotify.com/track/1L9980Y779SA7ZWer3JAUg"
     },
     {
       "added_at": "2025-06-06 03:43:34",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-06-06 03:43:34",
       "album": {
-        "name": "Fullg\u00e1s",
-        "url": "https://open.spotify.com/album/5PaaYWMN2SXYc4kygrfWCQ"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 172258,
-      "name": "Fullg\u00e1s",
-      "url": "https://open.spotify.com/track/1vFwHGzBsCwlpQe2mU0f91"
-    },
-    {
-      "added_at": "2025-06-06 03:43:34",
-      "album": {
         "name": "\u00c2nima",
         "url": "https://open.spotify.com/album/3MnVyMkVVuIw3oXUGsQCMh"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2025-06-06 03:43:34",
       "album": {
+        "name": "Fullg\u00e1s",
+        "url": "https://open.spotify.com/album/5PaaYWMN2SXYc4kygrfWCQ"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 172258,
+      "name": "Fullg\u00e1s",
+      "url": "https://open.spotify.com/track/1vFwHGzBsCwlpQe2mU0f91"
+    },
+    {
+      "added_at": "2025-06-06 03:43:34",
+      "album": {
         "name": "For\u00e7a Estranha",
         "url": "https://open.spotify.com/album/51ofvduJsjvQ9aQZB4oP3a"
       },
@@ -887,6 +887,22 @@
       "duration_ms": 257739,
       "name": "For\u00e7a Estranha",
       "url": "https://open.spotify.com/track/19SaVJ4hb8WQApuD2iEa7w"
+    },
+    {
+      "added_at": "2025-06-06 03:43:34",
+      "album": {
+        "name": "Tudo Que \u00e9 Mais Lindo",
+        "url": "https://open.spotify.com/album/0eW2mqE0xKqascEZACvnkv"
+      },
+      "artists": [
+        {
+          "name": "Alm\u00e9rio",
+          "url": "https://open.spotify.com/artist/7kF4TDKgWfhbDuBbOOBcHW"
+        }
+      ],
+      "duration_ms": 188483,
+      "name": "Tudo Que \u00e9 Mais Lindo",
+      "url": "https://open.spotify.com/track/5RmyRocpulyEBy6xbS9iDQ"
     },
     {
       "added_at": "2025-06-06 03:43:34",
@@ -915,18 +931,18 @@
     {
       "added_at": "2025-06-06 03:43:34",
       "album": {
-        "name": "Tudo Que \u00e9 Mais Lindo",
-        "url": "https://open.spotify.com/album/0eW2mqE0xKqascEZACvnkv"
+        "name": "Transe",
+        "url": "https://open.spotify.com/album/6m8OjtHsUQhAHTP3kZXLTA"
       },
       "artists": [
         {
-          "name": "Alm\u00e9rio",
-          "url": "https://open.spotify.com/artist/7kF4TDKgWfhbDuBbOOBcHW"
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
         }
       ],
-      "duration_ms": 188483,
-      "name": "Tudo Que \u00e9 Mais Lindo",
-      "url": "https://open.spotify.com/track/5RmyRocpulyEBy6xbS9iDQ"
+      "duration_ms": 190092,
+      "name": "Transe",
+      "url": "https://open.spotify.com/track/3Xo5YoWvXj6jEGQVHUJkXl"
     },
     {
       "added_at": "2025-06-06 03:43:34",
@@ -947,22 +963,6 @@
       "duration_ms": 194494,
       "name": "Eu Vivendo Nossa Vida",
       "url": "https://open.spotify.com/track/21sQjtZhCiK2wO6UwnaqKH"
-    },
-    {
-      "added_at": "2025-06-06 03:43:34",
-      "album": {
-        "name": "Transe",
-        "url": "https://open.spotify.com/album/6m8OjtHsUQhAHTP3kZXLTA"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
-        }
-      ],
-      "duration_ms": 190092,
-      "name": "Transe",
-      "url": "https://open.spotify.com/track/3Xo5YoWvXj6jEGQVHUJkXl"
     },
     {
       "added_at": "2025-06-06 03:43:34",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2025-06-06 03:43:34",
       "album": {
-        "name": "Emboscada",
-        "url": "https://open.spotify.com/album/7cbodfOsLIgrPf6teMChEd"
+        "name": "Sempre Vou Te Amar",
+        "url": "https://open.spotify.com/album/0RLZtzzupCKhl08Jle7fiQ"
       },
       "artists": [
         {
-          "name": "Joaquim",
-          "url": "https://open.spotify.com/artist/2whUuDjJvXiJqxVhYhsnSr"
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
         }
       ],
-      "duration_ms": 218109,
-      "name": "Emboscada",
-      "url": "https://open.spotify.com/track/0wSFBhSmMipBAVtQz9GY2e"
+      "duration_ms": 262074,
+      "name": "Sempre Vou Te Amar",
+      "url": "https://open.spotify.com/track/2uHb6fHd8mqyDHj8KiL9sL"
     },
     {
       "added_at": "2025-06-06 03:43:34",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2025-06-06 03:43:34",
       "album": {
+        "name": "Emboscada",
+        "url": "https://open.spotify.com/album/7cbodfOsLIgrPf6teMChEd"
+      },
+      "artists": [
+        {
+          "name": "Joaquim",
+          "url": "https://open.spotify.com/artist/2whUuDjJvXiJqxVhYhsnSr"
+        }
+      ],
+      "duration_ms": 218109,
+      "name": "Emboscada",
+      "url": "https://open.spotify.com/track/0wSFBhSmMipBAVtQz9GY2e"
+    },
+    {
+      "added_at": "2025-06-06 03:43:34",
+      "album": {
         "name": "Uma Estrela Misteriosa Revelar\u00e1 o Segredo",
         "url": "https://open.spotify.com/album/0GHZqCGxBtEO3Z4cCIpPJD"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 273139,
       "name": "Depois de Amanh\u00e3",
       "url": "https://open.spotify.com/track/5rqq2EhxqkJP77zD1o4FKl"
-    },
-    {
-      "added_at": "2025-06-06 03:43:34",
-      "album": {
-        "name": "Sempre Vou Te Amar",
-        "url": "https://open.spotify.com/album/0RLZtzzupCKhl08Jle7fiQ"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 262074,
-      "name": "Sempre Vou Te Amar",
-      "url": "https://open.spotify.com/track/2uHb6fHd8mqyDHj8KiL9sL"
     },
     {
       "added_at": "2025-06-06 03:43:34",
@@ -1287,6 +1287,22 @@
       "duration_ms": 216315,
       "name": "Incapacidade de Amar",
       "url": "https://open.spotify.com/track/42IEzPyFXLkDocEFiXffR8"
+    },
+    {
+      "added_at": "2025-06-06 03:43:34",
+      "album": {
+        "name": "ANNA",
+        "url": "https://open.spotify.com/album/5w4Zt58N4RsDrJuGGJjHPz"
+      },
+      "artists": [
+        {
+          "name": "Anna Esteves",
+          "url": "https://open.spotify.com/artist/1BA5cZhxfuqsqMnFO8Zde9"
+        }
+      ],
+      "duration_ms": 209951,
+      "name": "A Voc\u00ea",
+      "url": "https://open.spotify.com/track/2ZqtpfWaROYwW1jw2bNjDs"
     },
     {
       "added_at": "2025-06-06 03:43:34",
@@ -1379,22 +1395,6 @@
       "duration_ms": 105000,
       "name": "Ponto de Nan\u00e3",
       "url": "https://open.spotify.com/track/2ig89NtTkl5HJglRtCnnLb"
-    },
-    {
-      "added_at": "2025-06-06 03:43:34",
-      "album": {
-        "name": "ANNA",
-        "url": "https://open.spotify.com/album/5w4Zt58N4RsDrJuGGJjHPz"
-      },
-      "artists": [
-        {
-          "name": "Anna Esteves",
-          "url": "https://open.spotify.com/artist/1BA5cZhxfuqsqMnFO8Zde9"
-        }
-      ],
-      "duration_ms": 209951,
-      "name": "A Voc\u00ea",
-      "url": "https://open.spotify.com/track/2ZqtpfWaROYwW1jw2bNjDs"
     },
     {
       "added_at": "2025-06-06 03:43:34",

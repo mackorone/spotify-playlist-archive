@@ -4,7 +4,7 @@
 
 > Sommeren er her!🍹
 
-219 songs - 11 hr 25 min
+220 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Frøken Oslo V](https://open.spotify.com/track/78LCLrKFF22QHmNExXnlWr) | [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Frøken Oslo V](https://open.spotify.com/album/4qm9mJcERZOQJvIJ0UN6c1) | 2:07 | 2024-06-27 | 2024-10-25 |
 | [Fy Faen Så Deilig](https://open.spotify.com/track/7Kbnj5tbe6b0N8u0uRgiSW) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg) | [Fy Faen Så Deilig](https://open.spotify.com/album/1j6xIUm9WZ4K9uTojnvFC0) | 2:36 | 2024-06-27 | 2024-10-25 |
 | [Før han for](https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6) | 2:56 | 2024-10-24 |  |
-| [Get Away](https://open.spotify.com/track/1cZCvmW4b4DGpiZhgwvb5j) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Get Away](https://open.spotify.com/album/64iH7iS9FsuhcYC5A4FAZ2) | 3:41 | 2025-04-17 |  |
+| [Get Away](https://open.spotify.com/track/1cZCvmW4b4DGpiZhgwvb5j) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Get Away](https://open.spotify.com/album/64iH7iS9FsuhcYC5A4FAZ2) | 3:41 | 2025-04-17 | 2025-06-12 |
 | [Gjesten på festen](https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Kanskje det går te helvete](https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8) | 2:26 | 2024-09-26 |  |
 | [Glem meg, men jeg glemmer aldri](https://open.spotify.com/track/7qCDeHjYx6gbwoTSVAvoBw) | [William Gamborg](https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P) | [Glem meg, men jeg glemmer aldri](https://open.spotify.com/album/3q0aUNH4xv9GOScySjTvfI) | 2:22 | 2024-06-27 | 2025-04-04 |
 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:03 | 2025-03-27 |  |
@@ -110,6 +110,7 @@
 | [Keeps Me Going](https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Keeps Me Going](https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2) | 3:19 | 2024-06-27 | 2025-04-13 |
 | [Klisje](https://open.spotify.com/track/2p5d940zKggwkEpBj8sjf2) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Celine Madelen](https://open.spotify.com/artist/2cevasOkvddKR7XHHJjPlE) | [Klisje](https://open.spotify.com/album/50eAohXeP6Tu6hPqCnHkRA) | 2:18 | 2024-06-27 | 2025-03-02 |
 | [Kor e du?](https://open.spotify.com/track/6JfVQ0gSzYLDWZPPZoacVk) | [Sondre Justad](https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67) | [Kor e du?](https://open.spotify.com/album/6vtM7D6DXolebuT8Jk5qHf) | 3:20 | 2024-06-27 | 2025-06-01 |
+| [Kyssa noken andre](https://open.spotify.com/track/1kyFLaG8l3jJwa012XEbxf) | [Gunn Kvaale](https://open.spotify.com/artist/3upvRPK3aM4G5v03vMAlNO) | [Kyssa noken andre](https://open.spotify.com/album/52BEsP0Om8YJyl1hmIXWi3) | 2:32 | 2025-06-05 |  |
 | [la meg ligge](https://open.spotify.com/track/1a6G7x79kvHEhOkeJBLXJj) | [Michelle Ullestad](https://open.spotify.com/artist/0ftXswGpAsqomAAg0YN1pI) | [la meg ligge](https://open.spotify.com/album/3YiyfDnirvlF06ibKAa6cI) | 3:30 | 2024-06-27 | 2024-10-28 |
 | [Langt av sted](https://open.spotify.com/track/6DxBlKrmCRklJY40CQXOSF) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Langt av sted](https://open.spotify.com/album/2fwuFPvhyPfapHv5Jek01i) | 2:40 | 2024-06-27 | 2024-10-25 |
 | [Late to the Party](https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Late to the Party](https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt) | 3:06 | 2024-08-22 | 2025-03-01 |

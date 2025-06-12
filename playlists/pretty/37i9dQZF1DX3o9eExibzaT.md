@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3o9eExibzaT.md) - [plain]
 
 > It's a wonderful lie\. Listen to the music from and inspired by Big Little Lies, all episode streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,080 likes - 84 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,105 likes - 84 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3o9eExibzaT.md) - [plain]
 | 21 | [Keep On Loving You](https://open.spotify.com/track/6dYcUcj1TyZZES5ivtjLdk) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Affection](https://open.spotify.com/album/5MdPMGnu8UZlDrrF0nQEKL) | 3:53 |
 | 22 | [Love Is The Drug](https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Siren](https://open.spotify.com/album/5Tpor3YZBVEJ9tWD5L31mH) | 4:11 |
 | 23 | [Bluebird Of Happiness](https://open.spotify.com/track/1FsfU72Q4tq1AfBpdZ43G4) | [Mojave 3](https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio) | [Spoon And Rafter](https://open.spotify.com/album/67KF3j5sJPiP10rUMdG7WW) | 9:15 |
-| 24 | [Karmacoma](https://open.spotify.com/track/46bTgJAQkrkNRxMuFnpRyD) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Protection](https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC) | 5:16 |
+| 24 | [Karmacoma](https://open.spotify.com/track/46bTgJAQkrkNRxMuFnpRyD) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Protection](https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC) | 5:16 |
 | 25 | [Dreaming My Dreams With You](https://open.spotify.com/track/23uSvnQOZYPfwOfwQrLj0r) | [Cowboy Junkies](https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j) | [The Trinity Session](https://open.spotify.com/album/566tD6a3xWL6MKLWkw8ERz) | 4:31 |
 | 26 | [Down by the River \- 2017 Remaster](https://open.spotify.com/track/6YtHwMCqBPN0N3aEZ0gqQx) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Decade](https://open.spotify.com/album/2mFcOZBh8JmZdwIiOVeTw7) | 9:20 |
 | 27 | [Great Big Bundle Of Love](https://open.spotify.com/track/2UXQ9OjPyKcdy3DgTl0mgj) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Big Little Lies \(Music from Season 2 of the HBO Limited Series\)](https://open.spotify.com/album/5bVh1bvKmcaBUjQwcapIEN) | 2:17 |

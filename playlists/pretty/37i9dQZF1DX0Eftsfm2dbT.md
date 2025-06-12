@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: KEIJU
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,997 likes - 91 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,069 likes - 91 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 16 | [Bill Fake$ \(feat\. Jin Dogg\)](https://open.spotify.com/track/7txmnPcjWX9dHSJIeEozaN) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Bill Fake$ \(feat\. Jin Dogg\)](https://open.spotify.com/album/6gIZBgf8ihSBjoYRrdDJH2) | 3:43 |
 | 17 | [Maybach](https://open.spotify.com/track/67WsbWbEI02qt27s5YcXso) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Maybach](https://open.spotify.com/album/2UsXysLvyNlrGvcvG6KtyB) | 2:45 |
 | 18 | [dali](https://open.spotify.com/track/35sF0BG8RJc6RETSvu6lVD) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [dali](https://open.spotify.com/album/28mGTkCxfgw7nwZbof216T) | 1:55 |
-| 19 | [Episode 0](https://open.spotify.com/track/1TxWD55jfv69vl6UH2V37R) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [Episode 0](https://open.spotify.com/album/2JPK6krI6ApVeGWsO14IEa) | 3:56 |
+| 19 | [Episode 0 \(feat\. Vingo\)](https://open.spotify.com/track/1TxWD55jfv69vl6UH2V37R) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH) | [Episode 0 \(feat\. Vingo\)](https://open.spotify.com/album/2JPK6krI6ApVeGWsO14IEa) | 3:56 |
 | 20 | [Grand Slam](https://open.spotify.com/track/2PiSRWMcrNzWGFc2bhcphS) | [Yellow Pato](https://open.spotify.com/artist/1NdYIG2u5Dj0nFP8fPbGcr) | [Grand Slam](https://open.spotify.com/album/4lPrgwLI6V0eOprWE6qs2N) | 3:21 |
 | 21 | [START IT AGAIN \- Remix](https://open.spotify.com/track/0PJowvC3narnikzdIwDhzz) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [RIMAZI](https://open.spotify.com/artist/0tZfjqI2zhxJp3LUQqqZ85) | [START IT AGAIN \(feat\. YZERR\) \[Remix\]](https://open.spotify.com/album/3pV9a2Ofess9KjBNHl5lUb) | 3:50 |
 | 22 | [Michikusa](https://open.spotify.com/track/0RRJ9Z80mZYLo2KVD46Nqm) | [5Leaf](https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A) | [Michikusa](https://open.spotify.com/album/66h6iU86pXPAw7rTVSVmL7) | 2:28 |

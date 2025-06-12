@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,040 songs - 1 day 16 hr 16 min
+1,041 songs - 1 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -631,6 +631,7 @@
 | [oyoyoy](https://open.spotify.com/track/3olHLiTm1rO8x0MzyP1ad7) | [bito bitox](https://open.spotify.com/artist/4biX5gqFgXs4cSzHcdVFms) | [oyoyoy](https://open.spotify.com/album/6pC5QrbAOUJcl4Tu62lRmR) | 2:24 | 2022-04-15 |  |
 | [P.S\. I Love You](https://open.spotify.com/track/0Po3LlQVxAG4F7P4xceR7b) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [P.S\. I Love You](https://open.spotify.com/album/3lyhm1eO4SAd3Kqg3OE1YM) | 2:07 | 2022-09-09 | 2023-11-17 |
 | [Pacifica](https://open.spotify.com/track/1Rapts1uOPuU1vqwmbWIKR) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Pacifica](https://open.spotify.com/album/5s7hqTgpaYuNqiG4klTBYw) | 2:38 | 2022-04-15 | 2022-06-17 |
+| [Pacman](https://open.spotify.com/track/5sINkykZoWrw1GBtz6HFth) | [Panman](https://open.spotify.com/artist/58eSw4qR52cjweGCA6eydZ) | [Pacman](https://open.spotify.com/album/4ljbGRfYlYkcVhDSz9ZDw6) | 2:30 | 2025-06-07 |  |
 | [palm](https://open.spotify.com/track/2Hwwu9plR7Y0lBxByDiaYS) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [palm](https://open.spotify.com/album/4bFFUeBi8kPYsZl5g0XdqR) | 2:05 | 2023-12-22 |  |
 | [Palme](https://open.spotify.com/track/1yJR8z4s4lASBJ4wfMG8zc) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Palme](https://open.spotify.com/album/4bSIoqXG6MbAxWCCvpVcGW) | 1:50 | 2023-04-03 | 2023-10-06 |
 | [Papa Knows Best](https://open.spotify.com/track/2TLIc551287wxILT6GOeou) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [Papa Knows Best](https://open.spotify.com/album/3aSXNNj8XoYJZ5tOPPsH2w) | 2:12 | 2024-02-09 |  |
@@ -877,7 +878,7 @@
 | [supajam](https://open.spotify.com/track/0EJPiTVZZJ4LIrfQcQpDlI) | [Camden Clown](https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM) | [supajam](https://open.spotify.com/album/2qoWl3DKNFoKvMQSv79tl0) | 2:00 | 2023-12-15 |  |
 | [Supalonley](https://open.spotify.com/track/3Bhi8rQjwOviWEpnt17Ser) | [Instant Influence](https://open.spotify.com/artist/5Enyz9z97MuIj0QCfUOT1X) | [Supalonely](https://open.spotify.com/album/3gT6m4IDzhjMUot8ZgKAIM) | 3:07 | 2022-11-25 |  |
 | [Superfly](https://open.spotify.com/track/6jT11modKRcuxt9pmvAzy2) | [Kevoe West](https://open.spotify.com/artist/6Va1VmR8BklpY5M7UBlhqU) | [Superfly](https://open.spotify.com/album/4jqthv8J5DGQ40yFC2zNjF) | 1:51 | 2022-04-15 | 2022-07-29 |
-| [Superman in the Tree](https://open.spotify.com/track/3zK9cqal7EHHYp9f328vcv) | [Siktem](https://open.spotify.com/artist/3k4YXZEqBj8L4UsiPf8fgr) | [Superman in the Tree](https://open.spotify.com/album/2XIDp5ZIYl5oycOJLee6xD) | 2:14 | 2022-05-20 |  |
+| [Superman in the Tree](https://open.spotify.com/track/3zK9cqal7EHHYp9f328vcv) | [Siktem](https://open.spotify.com/artist/3k4YXZEqBj8L4UsiPf8fgr) | [Superman in the Tree](https://open.spotify.com/album/2XIDp5ZIYl5oycOJLee6xD) | 2:14 | 2022-05-20 | 2025-06-12 |
 | [Surf Tiger](https://open.spotify.com/track/0jwpEqWMwo5fR1XQXic4lg) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Surf Tiger](https://open.spotify.com/album/4jTtUszaxX0G32HP7nG2SE) | 3:02 | 2023-10-20 |  |
 | [Surfing Cats](https://open.spotify.com/track/3nhlmeGm7FdqFo3rVO7hS2) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Surfing Cats](https://open.spotify.com/album/0DCV1oGMFWeM9lB2pvYPaN) | 2:08 | 2024-03-22 | 2025-02-16 |
 | [Surroundings](https://open.spotify.com/track/5YmU5VNKazzBih5dXGIhBf) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Surroundings](https://open.spotify.com/album/2IPez7qLA9jrHocjh7qckN) | 2:38 | 2024-02-23 |  |

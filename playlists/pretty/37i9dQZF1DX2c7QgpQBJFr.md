@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹  cover: Emma Nolde
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,429 likes - 115 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,435 likes - 115 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

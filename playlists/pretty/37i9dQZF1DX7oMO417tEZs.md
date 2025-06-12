@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > A curated space for the avant\-garde\. Cover: Sophia Stel
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,761 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,781 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [I Love Everything](https://open.spotify.com/track/2QxcvapXqOzNTn8LttrIrO) | [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Tender the Spark](https://open.spotify.com/album/0nl0JtEn53WxDh7RmGfHTr) | 2:47 |
 | 100 | [Has It Entered Your Mind?](https://open.spotify.com/track/3MsFikJC5uKiOGjYoTZe3M) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Hood Psychedelia](https://open.spotify.com/album/7qd2VQPDDeeNCrBTr17hd7) | 2:05 |
 
-Snapshot ID: `aEJn0AAAAAAaJx/ZTJt1qZbeBefe2PMJ`
+Snapshot ID: `aEJn0AAAAABI6U/AvHklegeelWlKF3Ke`

@@ -4,7 +4,7 @@
 
 > This is Engel Montaz\. The essential tracks, all in one playlist.
 
-104 songs - 5 hr 28 min
+105 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Billetes Verdes](https://open.spotify.com/track/5LJjbobrSykC4uyIdF0vW9) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Lui3o5](https://open.spotify.com/artist/08TS0cq1oBlIIFVSsJhoe4) | [Billetes Verdes \(feat\. Lui3o5\)](https://open.spotify.com/album/0FhGkeR10pErYL1PqlJJsZ) | 3:14 | 2024-12-18 | 2025-04-09 |
 | [Billetes Verdes \- Live](https://open.spotify.com/track/0I3qFXRGdW0IIOs0TbCKpa) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Billetes Verdes \(Live\)](https://open.spotify.com/album/3PdWGUEbVUk8o0lE6di1wx) | 1:59 | 2024-06-19 | 2024-12-18 |
 | [Billetes Verdes \- Live](https://open.spotify.com/track/496qqEB2xvMZWf2paWmzTO) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Billetes Verdes \(Live\)](https://open.spotify.com/album/3AsUuUspzDF9ZEUnkPjVw2) | 1:59 | 2025-04-29 |  |
-| [CHARTiANDO](https://open.spotify.com/track/5FQku4nE0zRYSg2tnPo4XW) | [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Diamond la Mafia](https://open.spotify.com/artist/5rlinmh5Y0p4zfMY5qngpX) | [CHARTiANDO](https://open.spotify.com/album/5oQb5xuVZSmrgRfCR0v1G7) | 2:52 | 2025-05-07 |  |
+| [CHARTiANDO](https://open.spotify.com/track/5FQku4nE0zRYSg2tnPo4XW) | [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Diamond la Mafia](https://open.spotify.com/artist/5rlinmh5Y0p4zfMY5qngpX) | [CHARTiANDO](https://open.spotify.com/album/5oQb5xuVZSmrgRfCR0v1G7) | 2:52 | 2025-05-07 | 2025-06-12 |
+| [CHARTiANDO](https://open.spotify.com/track/6nl1So5HXqWRuNwBrjafow) | [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Diamond la Mafia](https://open.spotify.com/artist/5rlinmh5Y0p4zfMY5qngpX) | [CHARTiANDO](https://open.spotify.com/album/0vriCqEMGkaIbDamRDi7MG) | 2:52 | 2025-06-12 |  |
 | [Comerte](https://open.spotify.com/track/1eYu0ieqnTYgCeLohCMHcp) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 3:03 | 2024-07-12 | 2025-05-24 |
 | [Comerte](https://open.spotify.com/track/4DYluIPJsLvat5eijJP082) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec) | 3:03 | 2025-06-10 |  |
 | [Culiacan](https://open.spotify.com/track/20iFe0nIF1BefqYeTFtXYN) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Desire](https://open.spotify.com/album/0KSoZkdQ8u9uGe6GTFSjDz) | 2:51 | 2025-03-30 |  |

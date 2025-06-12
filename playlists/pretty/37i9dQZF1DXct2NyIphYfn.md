@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 
 > Some of the most beautiful love songs in French.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,992 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,021 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 49 | [J'aurai cent ans](https://open.spotify.com/track/1lbTcEocbV3CBy4WL6En3B) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Landing](https://open.spotify.com/album/3wsoaba9VUcxW8rMFyIZqt) | 4:52 |
 | 50 | [Chewing\-Gum](https://open.spotify.com/track/52ye3YnY6o4XITA62IzCwI) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 4:26 |
 
-Snapshot ID: `AAAAALkTkNGFMQnCGgnUakoqt89Xohp4`
+Snapshot ID: `Z5xY9QAAAABBlaRoh3xRabIjEqTmafpB`

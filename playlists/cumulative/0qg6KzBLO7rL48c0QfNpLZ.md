@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,098 songs - 2 day 0 hr 35 min
+1,099 songs - 2 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -809,6 +809,7 @@
 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 | 2024-01-10 | 2024-09-10 |
 | [Rift](https://open.spotify.com/track/2Q3K0FtsmMQ6kkzvQXlV6q) | [Parion](https://open.spotify.com/artist/2jiJ7DFItUiHpnBheGuE4E) | [Rift](https://open.spotify.com/album/1yypf5ufB95aPoajI7Sa7x) | 2:26 | 2024-08-30 | 2024-09-15 |
 | [Right For You](https://open.spotify.com/track/6U7N9Avvc1ZHt1ffuSN5cI) | [SHKHR](https://open.spotify.com/artist/1ZEJTNLYcquv69asSb1G13), [Josiah Nichols](https://open.spotify.com/artist/0lRQLoQrjE7zLSlLoh1uk3) | [Right For You](https://open.spotify.com/album/1yaaYXn2E44MKqNfIj5Xsn) | 2:30 | 2024-08-16 | 2024-09-15 |
+| [Riptide](https://open.spotify.com/track/4x1fM2LRWxny2ZYWsrvVLk) | [CEDU](https://open.spotify.com/artist/0dmcS7TJXujZs0eJpWRRBU), [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy), [JEANS](https://open.spotify.com/artist/5TDZkWlv0QtAQa2gy4SpC2) | [Riptide](https://open.spotify.com/album/122Xaw8oROekIYJbhCcBav) | 2:14 | 2025-06-11 |  |
 | [Riptide \(feat\. Levka Rey\)](https://open.spotify.com/track/6pS27YQSPgNAklavALEub0) | [Feather](https://open.spotify.com/artist/2Du67wvPTzzJ2LcmiHEOHK), [BNHM](https://open.spotify.com/artist/5Dbey2rYHmx0fZWywHiO2N), [Levka Rey](https://open.spotify.com/artist/6jaX71Jjhu6nfYVdaPTJYi) | [Riptide \(feat\. Levka Rey\)](https://open.spotify.com/album/2sjdpJzlzKAh0cHS6Di7Ev) | 2:51 | 2024-01-19 | 2024-09-10 |
 | [Risk It](https://open.spotify.com/track/2pNbGv2QHE0euiFIy823jD) | [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [RVPTR](https://open.spotify.com/artist/48fFW9rHg6jYYbPPnI1Ye4), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Risk It](https://open.spotify.com/album/6C7e7jxR8WtPJFk5afUvWP) | 2:33 | 2024-11-15 | 2024-12-13 |
 | [Rockstars](https://open.spotify.com/track/6uNH63cQYv2wfRo9iTaGQS) | [Honest Regrets](https://open.spotify.com/artist/6WeJcp2maE7mFGx43ccufg), [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH), [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [Rockstars](https://open.spotify.com/album/2px8RFwsVkje5ii4ynfBDh) | 2:07 | 2024-06-18 | 2024-07-20 |

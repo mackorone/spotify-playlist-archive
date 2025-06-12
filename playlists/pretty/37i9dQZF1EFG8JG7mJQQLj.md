@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,090 likes - 459 songs - 1 day 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,096 likes - 459 songs - 1 day 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 60 | [So Good](https://open.spotify.com/track/28GUjBGqZVcAV4PHSYzkj2) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Strange Clouds](https://open.spotify.com/album/7qqCw47pAWFzhwTpVRd0zE) | 3:33 |
 | 61 | [Bet You Wanna \(feat\. Cardi B\)](https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:41 |
 | 62 | [Stop And Stare](https://open.spotify.com/track/48s0QHJgmiNsth3WEO6U4M) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:43 |
-| 63 | [Connection](https://open.spotify.com/track/3T4UodGkfZObJ43RtA5KFU) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Connection](https://open.spotify.com/album/6rVOUFV4qi8MgqF7na73rX) | 2:28 |
-| 64 | [Beer Can’t Fix](https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:29 |
+| 63 | [Beer Can’t Fix](https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:29 |
+| 64 | [Connection](https://open.spotify.com/track/3T4UodGkfZObJ43RtA5KFU) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Connection](https://open.spotify.com/album/6rVOUFV4qi8MgqF7na73rX) | 2:28 |
 | 65 | [All The Right Moves](https://open.spotify.com/track/5XRHGXut00SrJUFmcn2lQF) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 3:58 |
 | 66 | [Me Gusta \(with Cardi B & Myke Towers\)](https://open.spotify.com/track/4a3LvPpAj6ogH7qSuPr5H6) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:00 |
 | 67 | [Can We Pretend \(feat\. Cash Cash\)](https://open.spotify.com/track/7GfKD5B7fVAzUgDvqAIbSL) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF) | [Hurts 2B Human](https://open.spotify.com/album/0hgt3tZlHEGukN56ueTGcL) | 3:44 |
@@ -295,8 +295,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 285 | [Forgot About You](https://open.spotify.com/track/73xYQWRzImNfVHhz0x9ETV) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:53 |
 | 286 | [Satellite](https://open.spotify.com/track/0VTJI43ZlIaMt05ZdZ6HuN) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [The Wanted \(Special Edition\)](https://open.spotify.com/album/0NN3zv0dQ73NkBd8tM7wFj) | 3:02 |
 | 287 | [Finest Hour \- New Version](https://open.spotify.com/track/41isF5DR6sT9acqYDTQ7FS) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Finest Hour: The Best of Gavin DeGraw](https://open.spotify.com/album/0IMzbxnAqwRi6sm9s5oOJO) | 3:41 |
-| 288 | [I Ain't Worried \(feat\. Becky G\) \- Latin Version](https://open.spotify.com/track/0kljJKo5ibiYiLQkzEXKsG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [I Ain’t Worried \(Versions\)](https://open.spotify.com/album/5Xl3sLXOwckPLzoBYIte7O) | 2:16 |
-| 289 | [Where We Are](https://open.spotify.com/track/5vQSU3pxA9atqN6zMrcTU7) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Where We Are](https://open.spotify.com/album/3PKeOrW72DQ3QB6FZvn18F) | 3:57 |
+| 288 | [Where We Are](https://open.spotify.com/track/5vQSU3pxA9atqN6zMrcTU7) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Where We Are](https://open.spotify.com/album/3PKeOrW72DQ3QB6FZvn18F) | 3:57 |
+| 289 | [I Ain't Worried \(feat\. Becky G\) \- Latin Version](https://open.spotify.com/track/0kljJKo5ibiYiLQkzEXKsG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [I Ain’t Worried \(Versions\)](https://open.spotify.com/album/5Xl3sLXOwckPLzoBYIte7O) | 2:16 |
 | 290 | [Take It Home](https://open.spotify.com/track/45RspXN5oWquKcWiiScmkR) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Take It Home](https://open.spotify.com/album/5nWFGfFaGM09JaawwjwXLF) | 2:46 |
 | 291 | [Run \(with Mariah Angeliq\) \- Latin Version](https://open.spotify.com/track/0RpCZ17BXI0x8b14UFrgDQ) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Run \(with Mariah Angeliq\) \[Latin Version\]](https://open.spotify.com/album/7tXGtR2l4iE3kvuCzFqLxL) | 2:16 |
 | 292 | [Life Without You \- Duett Version](https://open.spotify.com/track/0ALHsuOQMBBEfFa3uh1yOU) | [Stanfour](https://open.spotify.com/artist/0Ku9jFTJvPANO4LBOyJoWv), [Esmée Denters](https://open.spotify.com/artist/4ZfZ9troLXZsAVxcvXKXnV) | [Rise & Fall \(New Bonus Version\)](https://open.spotify.com/album/1Kj7AL4L0KFYIwytg0XLg8) | 4:03 |
@@ -468,4 +468,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 458 | [I Am The Future](https://open.spotify.com/track/5OApmelG95UKLMeLDRTZZy) | [Jacaranda](https://open.spotify.com/artist/44inTD4saAbXecbkXmYYPr) | [I Am The Future](https://open.spotify.com/album/6gHZPgoxaigaATAmyFU6y5) | 2:02 |
 | 459 | [Born To Race](https://open.spotify.com/track/69rjvTJkEuLgHuxCXF0MEY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Born To Race](https://open.spotify.com/album/10kpIbHXZ3ljVNqszvRKod) | 3:11 |
 
-Snapshot ID: `Abzy4AAAAADxYC78en/UEmwRsoB6XKAL`
+Snapshot ID: `Abz4ngAAAADQzezuShKgmRFK3i8fQanP`

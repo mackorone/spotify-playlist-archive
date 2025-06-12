@@ -1191,24 +1191,6 @@
     },
     {
       "album": {
-        "name": "Are U The One",
-        "url": "https://open.spotify.com/album/3I0MMEgVylA69wAef3lN0j"
-      },
-      "artists": [
-        {
-          "name": "SWIM",
-          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
-        }
-      ],
-      "date_added": "2025-05-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 274782,
-      "name": "Are U The One",
-      "url": "https://open.spotify.com/track/1rOspz7NK5VCHqAFgtk1VA"
-    },
-    {
-      "album": {
         "name": "Are We Here? (30 Something) [Remixes]",
         "url": "https://open.spotify.com/album/1BaqR0H9llOKtOGNUIN4Wc"
       },
@@ -1250,6 +1232,24 @@
       "duration_ms": 157500,
       "name": "Are You In?",
       "url": "https://open.spotify.com/track/75RWvdK6iawjliJUpXdzxw"
+    },
+    {
+      "album": {
+        "name": "Are You The One",
+        "url": "https://open.spotify.com/album/3I0MMEgVylA69wAef3lN0j"
+      },
+      "artists": [
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
+        }
+      ],
+      "date_added": "2025-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274782,
+      "name": "Are You The One",
+      "url": "https://open.spotify.com/track/1rOspz7NK5VCHqAFgtk1VA"
     },
     {
       "album": {

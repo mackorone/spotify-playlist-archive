@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: FLEMMING & Russo
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,666 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,665 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 18 | [NOG 1 KEER](https://open.spotify.com/track/1tSmrzHgtQf70rtrnmga65) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [NOG 1 KEER](https://open.spotify.com/album/6FP8fDIZKajzB2p5X0OPSY) | 2:29 |
 | 19 | [Echo](https://open.spotify.com/track/7uxIqlS7WnDOB7XtAH2X3i) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Echo](https://open.spotify.com/album/2bW3wNkvjiuqBEPRMM3ZOh) | 3:04 |
 | 20 | [Summer Love](https://open.spotify.com/track/0YjXevB90M9K34TOx4q02S) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Summer Love](https://open.spotify.com/album/4VDwEXL99iyW8h5irzXg8S) | 2:35 |
-| 21 | [Beneden \(ZIDZ anthem\)](https://open.spotify.com/track/7ubZ97TycJ5fWKKgbFQlue) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Beneden \(ZIDZ anthem\)](https://open.spotify.com/album/5Krch4sKh7GtD6gXdz4edE) | 2:15 |
+| 21 | [Beneden](https://open.spotify.com/track/7ubZ97TycJ5fWKKgbFQlue) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Beneden](https://open.spotify.com/album/5Krch4sKh7GtD6gXdz4edE) | 2:15 |
 | 22 | [Is Dit Het Begin](https://open.spotify.com/track/07lupz26MMAyPhUOqCMBvl) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Voor Altijd](https://open.spotify.com/album/5BBER32xJPBci9lHzOEPub) | 2:49 |
 | 23 | [Doen](https://open.spotify.com/track/6hKLaBGGh3Q4HohBByoQYC) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Doen EP](https://open.spotify.com/album/5rrG9ajt9SFTR4s5Yihs1n) | 2:40 |
 | 24 | [Welkom Bij Mij](https://open.spotify.com/track/1hXUCUtghj8SY82qc2nWJO) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Welkom Bij Mij](https://open.spotify.com/album/0G5ePOWQIL9b8hWuMpuoif) | 2:47 |

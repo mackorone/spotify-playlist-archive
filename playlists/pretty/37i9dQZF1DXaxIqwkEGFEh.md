@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: PayGotti
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,235,881 likes - 101 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,236,029 likes - 101 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 48 | [Sorry for Dem](https://open.spotify.com/track/1he0T9GeJ5MPUixR0KTg7Z) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Hold Off](https://open.spotify.com/album/2WE7FKWBKFDzVWOIvJq1r9) | 2:27 |
 | 49 | [Trap 101](https://open.spotify.com/track/5exJBUhHY8kYbFZoGXRcmh) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [More Leaks](https://open.spotify.com/album/4c44OTQjheRYrLdXX14TdC) | 3:46 |
 | 50 | [The Viper](https://open.spotify.com/track/4VIPmYQRbPTIYujLB76sHx) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [The Viper](https://open.spotify.com/album/67KUGPrssrB3fyI9ZFO9dP) | 2:30 |
-| 51 | [Ace Trumpets](https://open.spotify.com/track/6gurRCQTLcBNkakApASMdi) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [No Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Ace Trumpets](https://open.spotify.com/album/5UpGXA1S5pwj2ZMC4sH97y) | 2:34 |
+| 51 | [Ace Trumpets](https://open.spotify.com/track/6gurRCQTLcBNkakApASMdi) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Ace Trumpets](https://open.spotify.com/album/5UpGXA1S5pwj2ZMC4sH97y) | 2:34 |
 | 52 | [Pullin New Foreigns](https://open.spotify.com/track/6MBqFipyARxJZ5rw0ZhYuU) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Forever My Moment](https://open.spotify.com/album/6D2Olfcbdp07vl4RwPkPRg) | 2:52 |
 | 53 | [Za Plates](https://open.spotify.com/track/6crUv1TpIsHzEZIUk200jp) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Dlow Curry \(Deluxe\)](https://open.spotify.com/album/6GuthNCWjSFsAFoKsnIBR7) | 1:42 |
 | 54 | [Let Me Pop My Shit](https://open.spotify.com/track/0u9MbynjW9vxPfFoXAkPUf) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Let Me Pop My Shit](https://open.spotify.com/album/2oYyiXUWV213WPOchxbTmk) | 2:48 |

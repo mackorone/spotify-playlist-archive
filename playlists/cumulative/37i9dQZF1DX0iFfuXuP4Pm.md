@@ -4,7 +4,7 @@
 
 > Mga nangunguna sa mundo ng OPM\. Cover: Over October
 
-328 songs - 20 hr 25 min
+330 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Kape](https://open.spotify.com/track/4yaIMZ86wsyni0V9b8p52v) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Kape](https://open.spotify.com/album/3MpVBleiTg2fGZ9cvXRaRq) | 4:33 | 2025-05-07 |  |
 | [kapoy \(feat\. ZOYA\)](https://open.spotify.com/track/6zvWIAJtrJutkPdQUCMwHf) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT), [ZOYA](https://open.spotify.com/artist/2XZdgmh8MbWzuc40zrFf0J) | [kapoy \(feat\. ZOYA\)](https://open.spotify.com/album/48E4msn8F7pNljqrcdfC4X) | 4:13 | 2024-08-21 | 2024-09-27 |
 | [Karera](https://open.spotify.com/track/6xfsvHFXr8GgRzaFAkmjAY) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Karera](https://open.spotify.com/album/6eG8V6yBx09xmexOLpcn9R) | 4:28 | 2024-04-24 | 2024-08-29 |
-| [KARMEN](https://open.spotify.com/track/4ecS04LKhx2dFdnVYCYc7B) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD) | [KARMEN](https://open.spotify.com/album/1nERzbdmnFru3H4cwZFxRU) | 3:47 | 2025-04-02 |  |
+| [KARMEN](https://open.spotify.com/track/4ecS04LKhx2dFdnVYCYc7B) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD) | [KARMEN](https://open.spotify.com/album/1nERzbdmnFru3H4cwZFxRU) | 3:47 | 2025-04-02 | 2025-06-12 |
 | [Kasama](https://open.spotify.com/track/1qA0gniLfP4RIRmVTEe1eM) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh), [Chito Miranda](https://open.spotify.com/artist/72VBk3SEsEFPF948CmkHT4) | [Kasama](https://open.spotify.com/album/2t6TUKXucrJSErtNohifVu) | 4:19 | 2024-10-09 | 2025-04-03 |
 | [Kasing Kasing \(feat\. Kyle Echarri\)](https://open.spotify.com/track/13OhgUF9wgvG30aRARfgrR) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ), [Kyle Echarri](https://open.spotify.com/artist/53qa1XIZ6pZuhrGDetCGew) | [Kasing Kasing \(feat\. Kyle Echarri\)](https://open.spotify.com/album/0eX3ksx0PK4SyQnlNOuUwH) | 4:55 | 2024-01-31 | 2024-03-07 |
 | [Kidlat](https://open.spotify.com/track/6utifKVIx7dSUzD8D7ivW2) | [Plume](https://open.spotify.com/artist/666ekgxxGiZCImY6lwlOmk) | [Kidlat](https://open.spotify.com/album/3EjMtnIERkGojDYYjZc2uL) | 3:40 | 2025-06-04 |  |
@@ -224,7 +224,7 @@
 | [Oh Giliw Ko](https://open.spotify.com/track/1WhbuhFMIV9DzgbNX6JV09) | [The Knobs](https://open.spotify.com/artist/5SChS914naD0ev5pHTFMdt) | [Oh Giliw Ko](https://open.spotify.com/album/0Oexw3mJOsG9gHFkgzmu5I) | 5:16 | 2024-07-11 | 2024-11-13 |
 | [Oh, Giliw](https://open.spotify.com/track/5oV4B6QECdCASfEfElcIQA) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Oh, Giliw](https://open.spotify.com/album/7naEAFv60JMoihI6OABet9) | 4:01 | 2024-06-05 | 2024-11-28 |
 | [Oksihina](https://open.spotify.com/track/06VwVWrnYSTIikz801hGwD) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Oksihina](https://open.spotify.com/album/0YEPa646R98Iqp2GDqsl29) | 3:24 | 2024-08-14 | 2025-05-08 |
-| [One Time](https://open.spotify.com/track/6Rg6eqYIQWJv8eBoUE3bz7) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [One Time](https://open.spotify.com/album/5B4Dvq61L0RzLDXFH9L0re) | 3:00 | 2025-04-02 |  |
+| [One Time](https://open.spotify.com/track/6Rg6eqYIQWJv8eBoUE3bz7) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [One Time](https://open.spotify.com/album/5B4Dvq61L0RzLDXFH9L0re) | 3:00 | 2025-04-02 | 2025-06-12 |
 | [OYAYI](https://open.spotify.com/track/5iXSkIei0VoKtw8tpsupg3) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Keene Leonor](https://open.spotify.com/artist/71B2UzHJV0hBcWOMY5kUOb) | [OYAYI](https://open.spotify.com/album/6Ds1JbP4vYQ69HmRYPvyBA) | 5:24 | 2024-10-23 | 2025-03-27 |
 | [Paanong Gagawin?](https://open.spotify.com/track/4j2kQpKR86BfqWOAFqZ8oj) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d) | [Paanong Gagawin?](https://open.spotify.com/album/0EyU8kruF6GrZii2c5GfQM) | 3:05 | 2024-04-24 | 2024-06-01 |
 | [Padama](https://open.spotify.com/track/3i7LbFROM0kQLM48OuoXev) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Padama](https://open.spotify.com/album/0hfGtoRMfbtf40Y2pBnw51) | 4:29 | 2025-02-12 | 2025-05-29 |
@@ -232,6 +232,7 @@
 | [Pagbigyan](https://open.spotify.com/track/6hHyv6Lw3z6wlQO8f8unOC) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Pagbigyan](https://open.spotify.com/album/35FpOjf15ugBMGuf3Bem3w) | 4:44 | 2024-07-31 | 2024-11-07 |
 | [Pagbilang ng Tatlo](https://open.spotify.com/track/0RFS0I6c0tIaB0rdPa652Z) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Pagbilang ng Tatlo](https://open.spotify.com/album/5zDHRmcJnKJ3rwebiucYI4) | 3:15 | 2024-11-20 | 2025-03-19 |
 | [pagod na \(sayo\)](https://open.spotify.com/track/64AtBQlNawUk2nVIsLxwVF) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [pagod na \(sayo\)](https://open.spotify.com/album/1EB8V0k7Dy67Ind6gCvIiF) | 4:56 | 2024-05-15 | 2024-07-25 |
+| [Pahinga](https://open.spotify.com/track/2IqrQdX1ZF0xOcDKfaBs6V) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [jgh \(Deluxe\)](https://open.spotify.com/album/4yLcE8r2jZTxMhxp78RyTo) | 4:21 | 2025-06-11 |  |
 | [Pakiusap](https://open.spotify.com/track/5TKqcoMpPC5qjX6wVIJX3V) | [J\-King](https://open.spotify.com/artist/3b1iS74Wn1vc8DMDoxXu3s), [Michael Dutchi Libranda](https://open.spotify.com/artist/6ZdzYE3CEgY0Umgi3Dsgv8) | [Pakiusap](https://open.spotify.com/album/7uuqT5zw4aQXPPcu2IxxH6) | 4:23 | 2024-01-24 | 2024-02-22 |
 | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW) | 3:17 | 2024-01-24 | 2024-03-28 |
 | [Palagi](https://open.spotify.com/track/0sqnYgWOw9DMc6jRgkcB2m) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Palagi](https://open.spotify.com/album/4IO4IBKrCHtJVckqsdH6XH) | 3:38 | 2024-01-24 | 2024-02-08 |
@@ -289,6 +290,7 @@
 | [Save Me](https://open.spotify.com/track/00IoywtcjMMMAHBl5t0thC) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y), [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48) | [Free Love](https://open.spotify.com/album/55NZX6AkVkxVck5NWisa2q) | 3:36 | 2024-11-20 | 2024-12-19 |
 | [Segundo, Siguro](https://open.spotify.com/track/01r5Imd2Zq78PKzx4vgul7) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Segundo, Siguro](https://open.spotify.com/album/0AR0FWh4eW1J7A5iP54hf0) | 4:44 | 2024-04-03 | 2024-06-13 |
 | [Set You Free](https://open.spotify.com/track/1z9SylDvpsFYhgTOzq4jnf) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Set You Free](https://open.spotify.com/album/733n9hTBhq4vA2E7k9vzfn) | 4:37 | 2024-01-24 | 2024-02-15 |
+| [Shagidi](https://open.spotify.com/track/7zKYsYbbC7N8C5QOOtTlZx) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Shagidi](https://open.spotify.com/album/14xJ5Qg9sEbCJmg2vBRCUZ) | 2:28 | 2025-06-11 |  |
 | [Sikulo](https://open.spotify.com/track/4UIfLmvtfUdSnoC9O6uXvv) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK), [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH), [Nhiko](https://open.spotify.com/artist/1aW2DEplQwLEpQ68PMpHQa) | [Sikulo](https://open.spotify.com/album/2nR17tFk4I05vKtmOKdxfL) | 4:41 | 2024-03-27 | 2024-09-12 |
 | [Silent Cries](https://open.spotify.com/track/0WqlelFtFu2w5R1OzrE3Vg) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ) | [Silent Cries](https://open.spotify.com/album/2Rd4le0hPammFgfq9m1wjU) | 3:13 | 2024-09-04 | 2024-09-27 |
 | [Silver](https://open.spotify.com/track/3eZMRJkj4Q78YJ2iGxKjgI) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Silver](https://open.spotify.com/album/50NmyXmki7sJlAmJcIdMMl) | 3:43 | 2025-05-14 |  |

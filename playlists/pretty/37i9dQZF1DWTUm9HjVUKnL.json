@@ -1,13 +1,45 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Damiano David",
-  "num_followers": 238577,
+  "num_followers": 238579,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDB0JQAAAADCWBfEtLvIyfjEf7Zxk5Qq",
+  "snapshot_id": "aEl30AAAAAAEub69Un8qtmTYHEZrhdH3",
   "tracks": [
+    {
+      "added_at": "2025-06-11 12:34:24",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "duration_ms": 230733,
+      "name": "Anxiety - Spotify Singles",
+      "url": "https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw"
+    },
+    {
+      "added_at": "2025-06-11 12:34:24",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "duration_ms": 201973,
+      "name": "Piranha - Spotify Singles",
+      "url": "https://open.spotify.com/track/749eY2PXdJ96QdBAvqximN"
+    },
     {
       "added_at": "2025-05-23 13:12:05",
       "album": {

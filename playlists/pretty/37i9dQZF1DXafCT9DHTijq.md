@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafCT9DHTijq.md) - [plain]
 
 > A spine\-chilling selection of classical favourites and supernatural soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,899 likes - 58 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,887 likes - 58 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafCT9DHTijq.md) - [plain]
 | 9 | [Peer Gynt, Op\. 23: Act II, 7, In the Hall of the Mountain King](https://open.spotify.com/track/3VQ7hwiEfaHDl3AySgyaiR) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Esa\-Pekka Salonen](https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl), [Oslo Philharmonic Orchestra](https://open.spotify.com/artist/5cp6B8bMNsXdQKgE6exdzx), [Oslo Philharmonic Chorus](https://open.spotify.com/artist/5BIFtGjFOergTHZq1zJ437), [Terje Kram](https://open.spotify.com/artist/0c32OXqH55uzaIyZFnDQ16), [Barbara Hendricks](https://open.spotify.com/artist/3NkCIDMU5HgFAyVLVdCWgE) | [Grieg: Peer Gynt, Op\. 23 \(Excerpts\) \- Sony Classical Masters](https://open.spotify.com/album/2Rt1JJA8IvT38kzCyZksSP) | 2:33 |
 | 10 | [Dracula\- The Beginning](https://open.spotify.com/track/00De7REGurYkmfrKAh6CU1) | [Wojciech Kilar](https://open.spotify.com/artist/6McH9ZlRL24gW6Bt4fpqad) | [Bram Stoker's Dracula: Original Motion Picture Soundtrack](https://open.spotify.com/album/4WDRuinnAhb1taYx3RNAxr) | 6:40 |
 | 11 | [Lullaby Variation](https://open.spotify.com/track/1qflgCdJ1A7a2U5wtfK31h) | [Fernando Velázquez](https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF) | [Crimson Peak \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1h4VIVpLvycmVgk021TBpM) | 1:41 |
-| 12 | [The Exorcist: Main Theme: Tubular Bells](https://open.spotify.com/track/3ZzJMjqypHG6hn7SqtMUKc) | [Geek Music](https://open.spotify.com/artist/4TkCMPznXOjlsYLfzIU1rw) | [The Exorcist: Main Theme: Tubular Bells](https://open.spotify.com/album/69QzpucwLGZth7srwmGyqB) | 2:38 |
+| 12 | [Tubular Bells \(From "The Exorcist"\)](https://open.spotify.com/track/3ZzJMjqypHG6hn7SqtMUKc) | [Geek Music](https://open.spotify.com/artist/4TkCMPznXOjlsYLfzIU1rw) | [Tubular Bells \(From "The Exorcist"\)](https://open.spotify.com/album/69QzpucwLGZth7srwmGyqB) | 2:38 |
 | 13 | [Main Title \(Theme From Jaws\) \- From "Jaws"](https://open.spotify.com/track/55xly70WJY1cx5qsoogaqs) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Jaws \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1QeYHaWTTPvgu2wqKCPlUc) | 2:20 |
 | 14 | [Welcome To The Addams Family](https://open.spotify.com/track/655IlK9f17wH6UMzIL8cLe) | [Mychael Danna & Jeff Danna](https://open.spotify.com/artist/6T3M3x01dQbAr6XXlNVOlq) | [The Addams Family \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42gNmvl1nDLFdZh6nEA7KS) | 1:19 |
 | 15 | [Overture](https://open.spotify.com/track/10PSnO8GhuWrzDqwrphgkH) | [Christopher Young](https://open.spotify.com/artist/1FMXF1g4Fz2MWDTogFj9EC), [Saya Hashino](https://open.spotify.com/artist/1koWdRu5rSdDOg3me1SHhz), [Tonhalle\-Orchester Zürich](https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg), [Frank Strobel](https://open.spotify.com/artist/64nR5LwShrqA2MH1G4fwzl) | [Young: Nosferatu \- A Symphony of Horror: Overture](https://open.spotify.com/album/6iIGxVe69xjg7sHmeiYrUc) | 3:54 |

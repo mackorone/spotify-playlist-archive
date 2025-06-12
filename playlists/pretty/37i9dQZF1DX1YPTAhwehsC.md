@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Clipse
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,759 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,730 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 9 | [Get Jiggy](https://open.spotify.com/track/55NuTxRk1TyKzpgD8dC1IY) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Get Jiggy](https://open.spotify.com/album/1y8KPFWhfmZ3LGeLDf4AOu) | 1:58 |
 | 10 | [TRIPPIN](https://open.spotify.com/track/7LRxsdzPgpbu4EYVbqo2A6) | [Sturdyyoungin](https://open.spotify.com/artist/2DnJs9S5S7DWOyE2zK2fNs), [Ohthatsmizz](https://open.spotify.com/artist/77zq5iaCosWolNf1IRdTjJ), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [TRIPPIN](https://open.spotify.com/album/5HcOiZtNwL6AMrMdw0qJ8Q) | 2:05 |
 | 11 | [Trippin on a Yacht \(feat\. Bay Swag & Rob49\)](https://open.spotify.com/track/2oINmoPkPxKc2QATOiA0u9) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Trippin on a Yacht \(feat\. Bay Swag & Rob49\)](https://open.spotify.com/album/1ir2QtNdkl8WgzyPjDNcHz) | 4:35 |
-| 12 | [Ace Trumpets](https://open.spotify.com/track/6gurRCQTLcBNkakApASMdi) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [No Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Ace Trumpets](https://open.spotify.com/album/5UpGXA1S5pwj2ZMC4sH97y) | 2:34 |
+| 12 | [Ace Trumpets](https://open.spotify.com/track/6gurRCQTLcBNkakApASMdi) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Ace Trumpets](https://open.spotify.com/album/5UpGXA1S5pwj2ZMC4sH97y) | 2:34 |
 | 13 | [BBC](https://open.spotify.com/track/4PT50aQpCi7G7hkEOeLNON) | [Stunna Sandy](https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0) | [BBC](https://open.spotify.com/album/5zMDLrAblOQRCmmsGErd3d) | 3:06 |
 | 14 | [Pardon Me](https://open.spotify.com/track/0knXzoSajm0kMXOVH1dJNV) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Pardon Me](https://open.spotify.com/album/78dVcjFWUKnkpdyCVIb8AA) | 4:00 |
 | 15 | [One Of Them](https://open.spotify.com/track/0I0P8FFXCndrwK1wBDo2bB) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [One Of Them](https://open.spotify.com/album/6TzgT7RMTJKpclQ7awIjru) | 2:51 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 145686,
+  "num_followers": 145718,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEYkAAAAAAAeNfTh2uQZ/OlcFAfqPd1d",
+  "snapshot_id": "aEd1gAAAAACIK91Mh8Hje7hzmwADdEfe",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time, Love & Tenderness",
-        "url": "https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm"
+        "name": "Ultimate Kenny G",
+        "url": "https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P"
       },
       "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        },
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 273306,
-      "name": "Missing You Now (feat. Kenny G)",
-      "url": "https://open.spotify.com/track/7ho5FKdNqmmbCpXYcyDH8c"
+      "duration_ms": 256519,
+      "name": "Everlasting",
+      "url": "https://open.spotify.com/track/4wukH3ea6NqekDg98qB9F2"
     },
     {
       "added_at": null,
@@ -211,18 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ultimate Kenny G",
-        "url": "https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P"
+        "name": "Time, Love & Tenderness",
+        "url": "https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm"
       },
       "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        },
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 256519,
-      "name": "Everlasting",
-      "url": "https://open.spotify.com/track/4wukH3ea6NqekDg98qB9F2"
+      "duration_ms": 273306,
+      "name": "Missing You Now (feat. Kenny G)",
+      "url": "https://open.spotify.com/track/7ho5FKdNqmmbCpXYcyDH8c"
     },
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 440400,
-      "name": "Havana",
-      "url": "https://open.spotify.com/track/3h94vp5QyqopAwVolKhM5l"
+      "duration_ms": 256506,
+      "name": "Going Home - Edit",
+      "url": "https://open.spotify.com/track/7klcN1Hjle0xBe2KQsYGxY"
     },
     {
       "added_at": null,
@@ -275,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 256506,
-      "name": "Going Home - Edit",
-      "url": "https://open.spotify.com/track/7klcN1Hjle0xBe2KQsYGxY"
+      "duration_ms": 440400,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/3h94vp5QyqopAwVolKhM5l"
     },
     {
       "added_at": null,
@@ -303,6 +303,22 @@
       "duration_ms": 170360,
       "name": "The Way We Were",
       "url": "https://open.spotify.com/track/2jpLlNuAPP7vZY7ohQh5ka"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duotones",
+        "url": "https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 303506,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq"
     },
     {
       "added_at": null,
@@ -327,22 +343,6 @@
       "duration_ms": 177094,
       "name": "More Than Anybody (feat. Izzy Bizu, Kenny G)",
       "url": "https://open.spotify.com/track/5lI6cMKmok4edtVqYFWt1P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Duotones",
-        "url": "https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 303506,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
-        "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 242026,
-      "name": "I'm in the Mood for Love",
-      "url": "https://open.spotify.com/track/64wNfDYFufvc9pZqqLPMWW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Moment",
         "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 238426,
       "name": "Innocence",
       "url": "https://open.spotify.com/track/5zW8p9nOndsKZnhes6PJtM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
+        "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "I'm in the Mood for Love",
+      "url": "https://open.spotify.com/track/64wNfDYFufvc9pZqqLPMWW"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhythm & Romance",
-        "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 431893,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/7DnNhtCHZlhbXaLSebOFso"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Moment",
         "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
       },
@@ -599,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rhythm & Romance",
+        "url": "https://open.spotify.com/album/50pPvpL85j6tSLbnLqC9IO"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 431893,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/7DnNhtCHZlhbXaLSebOFso"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JESUS IS KING",
         "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 213877,
       "name": "Use This Gospel",
       "url": "https://open.spotify.com/track/0oPOuDmmkVp3h6puekhs6P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ultimate Kenny G",
-        "url": "https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 276813,
-      "name": "Jasmine Flower",
-      "url": "https://open.spotify.com/track/1bbT0SzSrKuDIfH5SU6w2U"
     },
     {
       "added_at": null,
@@ -675,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ultimate Kenny G",
+        "url": "https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 276813,
+      "name": "Jasmine Flower",
+      "url": "https://open.spotify.com/track/1bbT0SzSrKuDIfH5SU6w2U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/1JeUDgG8kEdUUlqa6Omgsr"
       },
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Innocence",
+        "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 207757,
+      "name": "Edelweiss",
+      "url": "https://open.spotify.com/track/4rWdnvbc7NxXGhjp3lIzRD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Moment",
         "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 302266,
       "name": "That Somebody Was You (with Toni Braxton)",
       "url": "https://open.spotify.com/track/3xLKkJUafOtel0oe25XABQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Innocence",
-        "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 207757,
-      "name": "Edelweiss",
-      "url": "https://open.spotify.com/track/4rWdnvbc7NxXGhjp3lIzRD"
     },
     {
       "added_at": null,

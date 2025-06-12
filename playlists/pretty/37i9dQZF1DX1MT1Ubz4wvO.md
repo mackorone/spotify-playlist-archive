@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con 'Nadar de noche' en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,882 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,889 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 16 | [megan fox](https://open.spotify.com/track/2WqFzul5YcfH1yVXjajWQZ) | [Helian Evans](https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N), [Elli Noise](https://open.spotify.com/artist/6yphIkIqAO5zE9v47ybUFE), [DVAL](https://open.spotify.com/artist/4qzqUTwzXvc2HeJmEspy4r) | [megan fox](https://open.spotify.com/album/4ZFa5SOpJIeYbjmfDBqUGo) | 2:38 |
 | 17 | [ALTARES](https://open.spotify.com/track/6a2Ocn8f7oB2CNgBGI82U0) | [Hueso Colorado](https://open.spotify.com/artist/2xdzVFCqT6qAaKObPiH59W) | [Altares](https://open.spotify.com/album/1r7uXgSX35lrEh4u2fHxBo) | 3:02 |
 | 18 | [No Te Cortes](https://open.spotify.com/track/6LUip5hZu9HLLebc1Tv2Ey) | [Obus](https://open.spotify.com/artist/5OImtJcOmtdm3MkR1yLHkp) | [Pega con Fuerza](https://open.spotify.com/album/4rpDpQIBcfBkMW6iYEYFV9) | 4:01 |
-| 19 | [MEXICO OSCURO](https://open.spotify.com/track/6PJOwbGPV7vurWVGVy6Y6O) | [DEATHMASK](https://open.spotify.com/artist/5f9fzMhIdCspKGg0uKjYt0), [Immortal Disfigurement](https://open.spotify.com/artist/6PNtic19dP6daQcCppVb1e), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl) | [MEXICO OSCURO](https://open.spotify.com/album/5SWY7xnlu4Z7F23MlOQ8uJ) | 4:26 |
+| 19 | [MEXICO OSCURO](https://open.spotify.com/track/6PJOwbGPV7vurWVGVy6Y6O) | [DEATHMASK](https://open.spotify.com/artist/5f9fzMhIdCspKGg0uKjYt0), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl), [Immortal Disfigurement](https://open.spotify.com/artist/6PNtic19dP6daQcCppVb1e) | [MEXICO OSCURO](https://open.spotify.com/album/5SWY7xnlu4Z7F23MlOQ8uJ) | 4:26 |
 | 20 | [Ya Está](https://open.spotify.com/track/3JEQAjFwmde85AoBZeUQhg) | [Kitai](https://open.spotify.com/artist/2TQyVG4JdI6hdRsOMEFOg4) | [Ya Está](https://open.spotify.com/album/3qaxCMptS1rf3L5Dkn9Y9y) | 3:25 |
 | 21 | [Algo tiene que terminar](https://open.spotify.com/track/268hFvexlCpo93bPFtgN9f) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Algo tiene que terminar](https://open.spotify.com/album/3wJPXwp3GqMl3InHkQwL44) | 3:20 |
 | 22 | [Desagradecido](https://open.spotify.com/track/4ZQ7QLGFDTPPTycFQCkaX2) | [Txefas](https://open.spotify.com/artist/0dZ7zHbiBBlE9PwD0ElHsp) | [Desagradecido](https://open.spotify.com/album/2v8rFVrXG9PNH1uM1PdOM6) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Ordinario](https://open.spotify.com/track/1mHPr6RWF04GQSd1xmCgje) | [Aldana](https://open.spotify.com/artist/38EK2pAElpxCuJCpmBeUqD), [Meliere](https://open.spotify.com/artist/5qRuv5PafVvDYN20G5bH69) | [Ordinario](https://open.spotify.com/album/2v5q9hkG22B5AoNLlQl1q2) | 3:51 |
 | 50 | [Cristo Roto](https://open.spotify.com/track/1P1IAbbWzMGvOOWHOQTQid) | [Kill Aniston](https://open.spotify.com/artist/4ltjTwCiYMegbR6ZA3Jbor) | [Salva](https://open.spotify.com/album/7uLIXNbdBKcYBxdxNKHO8A) | 6:46 |
 
-Snapshot ID: `aEJZvAAAAAAnFq5wBzSREmcmmQ/uCVo9`
+Snapshot ID: `AAAAAFZCuuCnQIjsIxAXJiiRNfj9JsKZ`

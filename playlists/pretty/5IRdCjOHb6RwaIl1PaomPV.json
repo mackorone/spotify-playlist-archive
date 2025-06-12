@@ -1,13 +1,157 @@
 {
-  "description": "The latest tracks from Mad Decent and friends. Featuring new music from Kito and DJ_Dave, plus the latest cuts from inter alia, and Varg2TM &amp; DJ Smokey.",
-  "num_followers": 50911,
+  "description": "The latest tracks from Mad Decent and friends. Featuring new music from Kablito and TDJ, plus the latest cuts from Eartheater and ALCATRAZ.",
+  "num_followers": 50910,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAcx1Yo6nbfGi0K8BPQ52NRKQwgqBff",
+  "snapshot_id": "AAAc38wsbD3aRBSWq3A6x6zteItdxJEH",
   "tracks": [
+    {
+      "added_at": "2025-06-11 23:42:34",
+      "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/1ncPmwJiMc8PUthbi4GCAd"
+      },
+      "artists": [
+        {
+          "name": "Kablito",
+          "url": "https://open.spotify.com/artist/51aWHhJ7AjxKmZ4dDUc0sm"
+        }
+      ],
+      "duration_ms": 108965,
+      "name": "CRUSH",
+      "url": "https://open.spotify.com/track/5PaS7OPXZQSG09YXvByEsi"
+    },
+    {
+      "added_at": "2025-06-11 23:42:14",
+      "album": {
+        "name": "Where Is My Angel",
+        "url": "https://open.spotify.com/album/3BbOh6UaSYNbdSZbQdrCfd"
+      },
+      "artists": [
+        {
+          "name": "TDJ",
+          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
+        }
+      ],
+      "duration_ms": 265506,
+      "name": "Where Is My Angel",
+      "url": "https://open.spotify.com/track/48ChqGVn3yIpcYWxfzPHfD"
+    },
+    {
+      "added_at": "2025-06-11 23:41:28",
+      "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/2kseeZVin6wA2vOCOmWlr9"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "duration_ms": 355182,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/3hLfifIpMTrw1VKqfcBhGa"
+    },
+    {
+      "added_at": "2025-06-11 23:41:03",
+      "album": {
+        "name": "5ever",
+        "url": "https://open.spotify.com/album/0IxIKvL0AIkvFohs9TEgpS"
+      },
+      "artists": [
+        {
+          "name": "ALCATRAZ",
+          "url": "https://open.spotify.com/artist/1HLQrKy2EhoJdADW105gfR"
+        }
+      ],
+      "duration_ms": 167492,
+      "name": "5ever",
+      "url": "https://open.spotify.com/track/0vHSuXgncuehd9GdKD2thJ"
+    },
+    {
+      "added_at": "2025-06-11 23:42:24",
+      "album": {
+        "name": "PAUSE",
+        "url": "https://open.spotify.com/album/50c1nz74rz07dgXW30TYaY"
+      },
+      "artists": [
+        {
+          "name": "Villager",
+          "url": "https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7"
+        }
+      ],
+      "duration_ms": 318805,
+      "name": "PAUSE",
+      "url": "https://open.spotify.com/track/2KBcbM9t4AhnzuDFWXgxjY"
+    },
+    {
+      "added_at": "2025-06-11 23:41:03",
+      "album": {
+        "name": "Addison",
+        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 152495,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/0Q9kIg9o8w1XKepXWmDUmT"
+    },
+    {
+      "added_at": "2025-06-11 23:41:03",
+      "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 138651,
+      "name": "DULL",
+      "url": "https://open.spotify.com/track/0uUtMNrn3EwF0KP6E90jGs"
+    },
+    {
+      "added_at": "2025-06-11 23:41:03",
+      "album": {
+        "name": "Save me now",
+        "url": "https://open.spotify.com/album/7GaqxJpgadYFnuUFpqBPr6"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "duration_ms": 181946,
+      "name": "Save me now",
+      "url": "https://open.spotify.com/track/2LmbUvytNsuPZLG0clEcah"
+    },
+    {
+      "added_at": "2025-06-11 23:42:04",
+      "album": {
+        "name": "Coping Mechanism",
+        "url": "https://open.spotify.com/album/42qH9QID70Heeue1svdvzS"
+      },
+      "artists": [
+        {
+          "name": "Car Culture",
+          "url": "https://open.spotify.com/artist/6MIVBVpCNZFEBbzZ0RTTc4"
+        }
+      ],
+      "duration_ms": 301391,
+      "name": "Coping Mechanism",
+      "url": "https://open.spotify.com/track/1GyGDwvT9U3JNJg13cArHG"
+    },
     {
       "added_at": "2025-05-30 19:22:19",
       "album": {
@@ -211,22 +355,6 @@
       "duration_ms": 161320,
       "name": "People v. Maryanne Sue",
       "url": "https://open.spotify.com/track/1x11nX6RgfQufczgQjZCXF"
-    },
-    {
-      "added_at": "2025-05-16 21:25:54",
-      "album": {
-        "name": "People v. Maryanne Sue",
-        "url": "https://open.spotify.com/album/0BIqFp6CRRc1pWvetAOrKt"
-      },
-      "artists": [
-        {
-          "name": "Devon Again",
-          "url": "https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t"
-        }
-      ],
-      "duration_ms": 102933,
-      "name": "lover",
-      "url": "https://open.spotify.com/track/6C8LtjYfofo8qerLVtgyx3"
     },
     {
       "added_at": "2025-05-16 21:25:54",
@@ -739,26 +867,6 @@
       "duration_ms": 139435,
       "name": "Besoin d'amour",
       "url": "https://open.spotify.com/track/24XA2tvfi8TWry6j1I18qp"
-    },
-    {
-      "added_at": "2025-03-21 17:02:58",
-      "album": {
-        "name": "FAW002 HOVER CAPSULE",
-        "url": "https://open.spotify.com/album/4IwiOzukiPaHgOhiyp9PwF"
-      },
-      "artists": [
-        {
-          "name": "Carr\u00e9",
-          "url": "https://open.spotify.com/artist/4OvPiX5d1CRMoTuqvoq202"
-        },
-        {
-          "name": "Addison Groove",
-          "url": "https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr"
-        }
-      ],
-      "duration_ms": 285000,
-      "name": "Shapes in Real Life",
-      "url": "https://open.spotify.com/track/1b8MJ1bT4FrhFXzQw7lKMA"
     },
     {
       "added_at": "2025-03-07 22:46:20",
@@ -1449,26 +1557,6 @@
       "url": "https://open.spotify.com/track/3HTEGxRw9cudQo8l82ra6h"
     },
     {
-      "added_at": "2025-01-25 23:36:02",
-      "album": {
-        "name": "EUSEXUA",
-        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        },
-        {
-          "name": "North West",
-          "url": "https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2"
-        }
-      ],
-      "duration_ms": 150773,
-      "name": "Childlike Things",
-      "url": "https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK"
-    },
-    {
       "added_at": "2025-01-25 23:40:10",
       "album": {
         "name": "under your spell (opium remix)",
@@ -1537,22 +1625,6 @@
       "url": "https://open.spotify.com/track/4zCa5z42tduunz4hMt8wWq"
     },
     {
-      "added_at": "2024-12-18 18:31:09",
-      "album": {
-        "name": "BAD ASS F*CKING KID",
-        "url": "https://open.spotify.com/album/2j74DNrJ8TgnMEukERqnnm"
-      },
-      "artists": [
-        {
-          "name": "Nettspend",
-          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
-        }
-      ],
-      "duration_ms": 133049,
-      "name": "Skipping Class",
-      "url": "https://open.spotify.com/track/4wHjrZYm9sW1PJuTElSBq4"
-    },
-    {
       "added_at": "2024-12-18 18:26:41",
       "album": {
         "name": "Pure Smile Snake Venom (KFR Remix)",
@@ -1573,22 +1645,6 @@
       "url": "https://open.spotify.com/track/3yQTatNrFFSYO9u9R0zlK4"
     },
     {
-      "added_at": "2024-12-18 18:26:53",
-      "album": {
-        "name": "Her\u00e1ldica +",
-        "url": "https://open.spotify.com/album/5uC2ijosFc8oET650PF88C"
-      },
-      "artists": [
-        {
-          "name": "Saramalacara",
-          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
-        }
-      ],
-      "duration_ms": 116454,
-      "name": "contacto visual",
-      "url": "https://open.spotify.com/track/6ZzJriqAFRjOg7VFqGTWkI"
-    },
-    {
       "added_at": "2024-12-18 18:26:44",
       "album": {
         "name": "kiss up",
@@ -1603,42 +1659,6 @@
       "duration_ms": 176588,
       "name": "kiss up",
       "url": "https://open.spotify.com/track/2fzjwZP7S23XQEu53Mw7KZ"
-    },
-    {
-      "added_at": "2024-12-18 18:26:46",
-      "album": {
-        "name": "Champ",
-        "url": "https://open.spotify.com/album/6xXDeJXNDUSWzNTNNXqp61"
-      },
-      "artists": [
-        {
-          "name": "girlpuppy",
-          "url": "https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360"
-        }
-      ],
-      "duration_ms": 178493,
-      "name": "Champ",
-      "url": "https://open.spotify.com/track/1IpVsKpbAo3jqPlxj1GUtz"
-    },
-    {
-      "added_at": "2024-12-18 18:26:49",
-      "album": {
-        "name": "palms",
-        "url": "https://open.spotify.com/album/5eZSErD8gAase138wnY32f"
-      },
-      "artists": [
-        {
-          "name": "dreamstation",
-          "url": "https://open.spotify.com/artist/3mMwGmSBYzsDKWydGcu066"
-        },
-        {
-          "name": "jinkasei",
-          "url": "https://open.spotify.com/artist/4nrZ7yhBckcZ3QsPzF3EHV"
-        }
-      ],
-      "duration_ms": 181354,
-      "name": "palms",
-      "url": "https://open.spotify.com/track/5tQAt6bN6UymuFqGEArr77"
     },
     {
       "added_at": "2024-11-16 01:02:54",
@@ -1679,38 +1699,6 @@
       "duration_ms": 243626,
       "name": "i fall apart",
       "url": "https://open.spotify.com/track/2HkBZyJt61zqqO5Z5wD6JL"
-    },
-    {
-      "added_at": "2024-11-27 17:14:59",
-      "album": {
-        "name": "take your vibes and go (Kino Todo Remix)",
-        "url": "https://open.spotify.com/album/6QO7xdsYKFRiYpAjHIgGow"
-      },
-      "artists": [
-        {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        },
-        {
-          "name": "brazy",
-          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
-        },
-        {
-          "name": "Kino Todo",
-          "url": "https://open.spotify.com/artist/2kzHzn9DTankt1OfK1U8ol"
-        },
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 220033,
-      "name": "take your vibes and go - Kino Todo Remix",
-      "url": "https://open.spotify.com/track/7rKntPgNiS11cRF8kBNfIR"
     },
     {
       "added_at": "2024-11-27 17:15:17",
@@ -1795,22 +1783,6 @@
       "duration_ms": 163188,
       "name": "Talking 2 it Like its Human",
       "url": "https://open.spotify.com/track/6oB4o8Q9fyao7UibaURyjs"
-    },
-    {
-      "added_at": "2024-11-16 01:04:58",
-      "album": {
-        "name": "Citibike",
-        "url": "https://open.spotify.com/album/5HqquS8mCYNDQT6oRKgAt9"
-      },
-      "artists": [
-        {
-          "name": "Blaketheman1000",
-          "url": "https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I"
-        }
-      ],
-      "duration_ms": 160875,
-      "name": "Citibike",
-      "url": "https://open.spotify.com/track/0VKnAvYe9UZgCffexHcEZd"
     },
     {
       "added_at": "2024-11-16 01:04:36",

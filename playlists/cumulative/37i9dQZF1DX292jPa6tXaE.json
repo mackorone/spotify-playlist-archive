@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop!  Cover: Preet Purba",
+  "description": "Discover the future of Punjabi Pop!  Cover: Kunwarr",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -994,7 +994,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 148085,
       "name": "Cartel",
       "url": "https://open.spotify.com/track/1xwPzo5o7RbSx9Ibj7FmuN"
@@ -2353,6 +2353,24 @@
     },
     {
       "album": {
+        "name": "BBB",
+        "url": "https://open.spotify.com/album/1PUqTj6qyz7Z8V0FF9QoZc"
+      },
+      "artists": [
+        {
+          "name": "Kunwarr",
+          "url": "https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110684,
+      "name": "GALL",
+      "url": "https://open.spotify.com/track/1mcbb2CvN3b86fvLPDlQuK"
+    },
+    {
+      "album": {
         "name": "Gall Kar",
         "url": "https://open.spotify.com/album/0gYg3xg79VMJiD8eyUXsrg"
       },
@@ -3307,6 +3325,24 @@
     },
     {
       "album": {
+        "name": "Jee Karda",
+        "url": "https://open.spotify.com/album/18qqjcST3ZppvlqntUduoJ"
+      },
+      "artists": [
+        {
+          "name": "Noor Chahal",
+          "url": "https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175058,
+      "name": "Jee Karda",
+      "url": "https://open.spotify.com/track/57nxP1bAvXFlXNzZbnoi6T"
+    },
+    {
+      "album": {
         "name": "jhalli",
         "url": "https://open.spotify.com/album/2PBbttiVQ9ZkhDKLV6cKo1"
       },
@@ -3498,7 +3534,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 186666,
       "name": "KAARA",
       "url": "https://open.spotify.com/track/5QlBJcXVhM72MdhNulVnES"
@@ -4101,6 +4137,24 @@
     },
     {
       "album": {
+        "name": "LOOK WHAT YOU DID",
+        "url": "https://open.spotify.com/album/0MmBoWwlm7hwmczQZORi7M"
+      },
+      "artists": [
+        {
+          "name": "VE5",
+          "url": "https://open.spotify.com/artist/5NhLt9FJxnYM5N2mAeeCIU"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147716,
+      "name": "LOOK WHAT YOU DID",
+      "url": "https://open.spotify.com/track/4r7X7gGvgtqEqPcCHchq7I"
+    },
+    {
+      "album": {
         "name": "Lovelorn",
         "url": "https://open.spotify.com/album/14XhzE5O1I4sq16dWx8s3a"
       },
@@ -4460,7 +4514,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 214647,
       "name": "Mirza Drill",
       "url": "https://open.spotify.com/track/1xlS9WJ6VWrFqlnVoSNkLC"
@@ -5836,7 +5890,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 187333,
       "name": "Sad Birthday",
       "url": "https://open.spotify.com/track/1mQrXzoSCIJk0aWZOwab34"
@@ -6376,7 +6430,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 159101,
       "name": "Straight Outta Streets",
       "url": "https://open.spotify.com/track/5gpjBMOzOetlMUoIyNl6b2"
@@ -6438,6 +6492,32 @@
       "duration_ms": 140876,
       "name": "Suit Vs Daaru",
       "url": "https://open.spotify.com/track/2VqT80I1nM4RaOly5EMOVB"
+    },
+    {
+      "album": {
+        "name": "Sukoon",
+        "url": "https://open.spotify.com/album/34MOO10izlzXAIT0eTuS41"
+      },
+      "artists": [
+        {
+          "name": "Vivaan",
+          "url": "https://open.spotify.com/artist/4vwUsWsIytxpxH5kXL2Diz"
+        },
+        {
+          "name": "The Rish",
+          "url": "https://open.spotify.com/artist/5JHD9Mys3Vg6IUgIWRjYN0"
+        },
+        {
+          "name": "Maahi Raj",
+          "url": "https://open.spotify.com/artist/3aWI64rwblJWSdRlqBM1kc"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195043,
+      "name": "Sukoon",
+      "url": "https://open.spotify.com/track/08Xh8OQF80q1fT4Nsyoqs9"
     },
     {
       "album": {
@@ -6749,6 +6829,32 @@
     },
     {
       "album": {
+        "name": "Tera Hath Ki Chutya",
+        "url": "https://open.spotify.com/album/4dZKJVNpekCZww2IN6mVsS"
+      },
+      "artists": [
+        {
+          "name": "Nihash",
+          "url": "https://open.spotify.com/artist/3Ojc6eoVezxVtmm5lP6eKa"
+        },
+        {
+          "name": "Saga Sounds",
+          "url": "https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN"
+        },
+        {
+          "name": "Vinder Nathu Majra",
+          "url": "https://open.spotify.com/artist/1B4NLf9v1eIpwm8vZCEOKN"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230425,
+      "name": "Tera Hath Ki Chutya",
+      "url": "https://open.spotify.com/track/55bw8P12FQf0h0ujiwTFwG"
+    },
+    {
+      "album": {
         "name": "Tera Khayal",
         "url": "https://open.spotify.com/album/5h81rQX3YY2dTGlvWe1NsH"
       },
@@ -7034,7 +7140,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 175135,
       "name": "UNSPOKEN",
       "url": "https://open.spotify.com/track/4eWrMRjk4JJ9FGjGfn9uhE"

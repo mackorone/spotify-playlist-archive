@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 257736,
+  "num_followers": 257779,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEYkAAAAAAD+5AOdxa36OnBRHXEJR+tq",
+  "snapshot_id": "aEd1gAAAAAAcCZERlwS4mizpnkcu11Ec",
   "tracks": [
     {
       "added_at": null,
@@ -439,30 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 349933,
-      "name": "Maria I'm Drunk (feat. Justin Bieber & Young Thug)",
-      "url": "https://open.spotify.com/track/6Yqmv7XJLCrQEauMbPGZSw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -483,6 +459,30 @@
       "duration_ms": 257604,
       "name": "Way 2 Sexy (with Future & Young Thug)",
       "url": "https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 349933,
+      "name": "Maria I'm Drunk (feat. Justin Bieber & Young Thug)",
+      "url": "https://open.spotify.com/track/6Yqmv7XJLCrQEauMbPGZSw"
     },
     {
       "added_at": null,
@@ -1043,26 +1043,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lightyears (with Young Thug)",
-        "url": "https://open.spotify.com/album/5WAhisFRMfSACOZUyxuWsB"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 192130,
-      "name": "Lightyears (with Young Thug)",
-      "url": "https://open.spotify.com/track/6vVzKCUfA6LzEU9wH0xNUR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 242600,
       "name": "Diamonds Dancing (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/7uZqvqXzzYMKrexKxdcGmd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lightyears (with Young Thug)",
+        "url": "https://open.spotify.com/album/5WAhisFRMfSACOZUyxuWsB"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 192130,
+      "name": "Lightyears (with Young Thug)",
+      "url": "https://open.spotify.com/track/6vVzKCUfA6LzEU9wH0xNUR"
     },
     {
       "added_at": null,

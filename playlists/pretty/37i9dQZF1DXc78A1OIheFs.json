@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19035,
+  "num_followers": 19037,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -345,22 +345,6 @@
       "url": "https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se"
     },
     {
-      "added_at": "2025-03-27 13:00:15",
-      "album": {
-        "name": "Dime",
-        "url": "https://open.spotify.com/album/6X4VcwQyRbZoYunMhh8avd"
-      },
-      "artists": [
-        {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
-        }
-      ],
-      "duration_ms": 131306,
-      "name": "Telling Lies",
-      "url": "https://open.spotify.com/track/4r6riAEVEIh10h1WuHhY5Z"
-    },
-    {
       "added_at": "2025-05-29 23:24:52",
       "album": {
         "name": "Holding Your Hand",
@@ -379,6 +363,22 @@
       "duration_ms": 152603,
       "name": "Holding Your Hand",
       "url": "https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y"
+    },
+    {
+      "added_at": "2025-03-27 13:00:15",
+      "album": {
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/6X4VcwQyRbZoYunMhh8avd"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "duration_ms": 131306,
+      "name": "Telling Lies",
+      "url": "https://open.spotify.com/track/4r6riAEVEIh10h1WuHhY5Z"
     },
     {
       "added_at": "2025-01-30 13:00:19",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "Leisurevision",
+        "url": "https://open.spotify.com/album/6o1b7D155gfX6u5SVY0bxf"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "Above Me",
+      "url": "https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU"
       },
@@ -759,6 +775,22 @@
       "duration_ms": 163648,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
+    },
+    {
+      "added_at": "2025-01-23 13:00:35",
+      "album": {
+        "name": "look what you're doing to me",
+        "url": "https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 264289,
+      "name": "look what you're doing to me",
+      "url": "https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9"
     },
     {
       "added_at": "2025-02-27 13:00:12",
@@ -783,34 +815,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Leisurevision",
-        "url": "https://open.spotify.com/album/6o1b7D155gfX6u5SVY0bxf"
+        "name": "L.A.B VI",
+        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
         }
       ],
-      "duration_ms": 214440,
-      "name": "Above Me",
-      "url": "https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7"
-    },
-    {
-      "added_at": "2025-01-23 13:00:35",
-      "album": {
-        "name": "look what you're doing to me",
-        "url": "https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c"
-      },
-      "artists": [
-        {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
-        }
-      ],
-      "duration_ms": 264289,
-      "name": "look what you're doing to me",
-      "url": "https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9"
+      "duration_ms": 260088,
+      "name": "Ocean Demon",
+      "url": "https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2"
     },
     {
       "added_at": "2025-04-03 13:00:16",
@@ -827,22 +843,6 @@
       "duration_ms": 210926,
       "name": "Alone With You",
       "url": "https://open.spotify.com/track/4twZYaycgkHGouSHWd6coG"
-    },
-    {
-      "added_at": "2024-12-12 13:00:02",
-      "album": {
-        "name": "Crazy Dream (Edit)",
-        "url": "https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 178062,
-      "name": "Crazy Dream - Edit",
-      "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
     },
     {
       "added_at": "2025-01-23 13:00:35",
@@ -895,6 +895,22 @@
       "duration_ms": 156055,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
+    },
+    {
+      "added_at": "2024-12-12 13:00:02",
+      "album": {
+        "name": "Crazy Dream (Edit)",
+        "url": "https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 178062,
+      "name": "Crazy Dream - Edit",
+      "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
     },
     {
       "added_at": "2025-05-08 14:00:23",
@@ -969,22 +985,6 @@
       "url": "https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64"
     },
     {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "L.A.B VI",
-        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 260088,
-      "name": "Ocean Demon",
-      "url": "https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2"
-    },
-    {
       "added_at": "2025-04-10 14:00:37",
       "album": {
         "name": "The Eyes",
@@ -1049,6 +1049,26 @@
       "url": "https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu"
     },
     {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "One More Chance (feat. Savage)",
+        "url": "https://open.spotify.com/album/08r5GBVNhPJMh6SmdAwUoS"
+      },
+      "artists": [
+        {
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        },
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
+        }
+      ],
+      "duration_ms": 196740,
+      "name": "One More Chance (feat. Savage)",
+      "url": "https://open.spotify.com/track/3PIJ6Ng0EOlOR4siwGnLHK"
+    },
+    {
       "added_at": "2025-02-13 13:00:24",
       "album": {
         "name": "Maumahara Noa Ahau",
@@ -1075,26 +1095,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "One More Chance (feat. Savage)",
-        "url": "https://open.spotify.com/album/08r5GBVNhPJMh6SmdAwUoS"
-      },
-      "artists": [
-        {
-          "name": "COTERIE",
-          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
-        },
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
-        }
-      ],
-      "duration_ms": 196740,
-      "name": "One More Chance (feat. Savage)",
-      "url": "https://open.spotify.com/track/3PIJ6Ng0EOlOR4siwGnLHK"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Harmless",
         "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
       },
@@ -1107,22 +1107,6 @@
       "duration_ms": 145445,
       "name": "Harmless",
       "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
-    },
-    {
-      "added_at": "2025-05-22 14:00:16",
-      "album": {
-        "name": "Motorway",
-        "url": "https://open.spotify.com/album/4ElIb7BvBZWM7nHm5lcUnG"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 210707,
-      "name": "Motorway",
-      "url": "https://open.spotify.com/track/2SRfU2mLSa7MJ8LgCY6ute"
     },
     {
       "added_at": "2024-11-28 13:00:00",
@@ -1141,20 +1125,20 @@
       "url": "https://open.spotify.com/track/0xdwUjqxpzEt7jZC0n0aN7"
     },
     {
-      "added_at": "2024-10-24 13:00:00",
+      "added_at": "2025-05-22 14:00:16",
       "album": {
-        "name": "distance",
-        "url": "https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI"
+        "name": "Motorway",
+        "url": "https://open.spotify.com/album/4ElIb7BvBZWM7nHm5lcUnG"
       },
       "artists": [
         {
-          "name": "teo glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
         }
       ],
-      "duration_ms": 142000,
-      "name": "distance",
-      "url": "https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2"
+      "duration_ms": 210707,
+      "name": "Motorway",
+      "url": "https://open.spotify.com/track/2SRfU2mLSa7MJ8LgCY6ute"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1173,20 +1157,20 @@
       "url": "https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k"
     },
     {
-      "added_at": "2025-05-01 14:00:27",
+      "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "LightBulb",
-        "url": "https://open.spotify.com/album/2o10K3y7a0yF1wwbKvFyIu"
+        "name": "distance",
+        "url": "https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI"
       },
       "artists": [
         {
-          "name": "Ladi6",
-          "url": "https://open.spotify.com/artist/6zZvfMW6XSPQcIeIdjHccY"
+          "name": "teo glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
         }
       ],
-      "duration_ms": 231033,
-      "name": "LightBulb",
-      "url": "https://open.spotify.com/track/6TmLWd2GsZwFIbPAztgX57"
+      "duration_ms": 142000,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1221,6 +1205,22 @@
       "url": "https://open.spotify.com/track/1NUsYYGE0O3SI8CxZrNhCm"
     },
     {
+      "added_at": "2025-05-01 14:00:27",
+      "album": {
+        "name": "LightBulb",
+        "url": "https://open.spotify.com/album/2o10K3y7a0yF1wwbKvFyIu"
+      },
+      "artists": [
+        {
+          "name": "Ladi6",
+          "url": "https://open.spotify.com/artist/6zZvfMW6XSPQcIeIdjHccY"
+        }
+      ],
+      "duration_ms": 231033,
+      "name": "LightBulb",
+      "url": "https://open.spotify.com/track/6TmLWd2GsZwFIbPAztgX57"
+    },
+    {
       "added_at": "2025-02-06 13:00:13",
       "album": {
         "name": "All Night",
@@ -1253,20 +1253,32 @@
       "url": "https://open.spotify.com/track/0C3G5zLNcZwwvbUk5gWLCf"
     },
     {
-      "added_at": "2024-11-28 13:00:00",
+      "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Soft Power",
-        "url": "https://open.spotify.com/album/5h60bfevDWgv7i0NTXRk3C"
+        "name": "It's You (Remix)",
+        "url": "https://open.spotify.com/album/1R64RCl0nW49PHsOaCpbC6"
       },
       "artists": [
         {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+          "name": "DJ Noiz",
+          "url": "https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK"
+        },
+        {
+          "name": "STNDRD",
+          "url": "https://open.spotify.com/artist/5LMAyDoKihkMcAGUhMqUYf"
+        },
+        {
+          "name": "Tomorrow People",
+          "url": "https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY"
+        },
+        {
+          "name": "Canaan Ene",
+          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
         }
       ],
-      "duration_ms": 208654,
-      "name": "So Easy",
-      "url": "https://open.spotify.com/track/3Gdve0JjwoBtmwqMLLcnUb"
+      "duration_ms": 175294,
+      "name": "It's You - Remix",
+      "url": "https://open.spotify.com/track/0zH0pGgXTM0pqiQXWOJ1sE"
     }
   ],
   "unique_name": "The Local List Aotearoa",

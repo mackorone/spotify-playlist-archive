@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 33937,
+  "num_followers": 33945,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "aEcFRQAAAABX8+a3ZFTI3tJhIy0SJMR/",
   "tracks": [
+    {
+      "added_at": "2025-06-09 16:01:09",
+      "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
     {
       "added_at": "2025-06-09 16:01:09",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-      "added_at": "2025-06-09 16:01:09",
-      "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
       "added_at": "2025-06-09 16:01:09",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-06-09 16:01:09",
       "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 159586,
-      "name": "DENIAL IS A RIVER",
-      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
-    },
-    {
-      "added_at": "2025-06-09 16:01:09",
-      "album": {
         "name": "Connie Francis Sings Second Hand Love & Other Hits",
         "url": "https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ"
       },
@@ -575,18 +559,34 @@
     {
       "added_at": "2025-06-09 16:01:09",
       "album": {
-        "name": "Hurry Up Tomorrow",
-        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 224136,
-      "name": "Cry For Me",
-      "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
+      "duration_ms": 159586,
+      "name": "DENIAL IS A RIVER",
+      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
+    },
+    {
+      "added_at": "2025-06-09 16:01:09",
+      "album": {
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
     },
     {
       "added_at": "2025-06-09 16:01:09",
@@ -627,18 +627,18 @@
     {
       "added_at": "2025-06-09 16:01:09",
       "album": {
-        "name": "Midnight Memories (Deluxe)",
-        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
       },
       "artists": [
         {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 245493,
-      "name": "Story of My Life",
-      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
+      "duration_ms": 224136,
+      "name": "Cry For Me",
+      "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
     },
     {
       "added_at": "2025-06-09 16:01:09",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-06-09 16:01:09",
       "album": {
-        "name": "Next Summer",
-        "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 165676,
-      "name": "Next Summer",
-      "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
-    },
-    {
-      "added_at": "2025-06-09 16:01:09",
-      "album": {
         "name": "Vaitimbora",
         "url": "https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 135131,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
+    },
+    {
+      "added_at": "2025-06-09 16:01:09",
+      "album": {
+        "name": "Next Summer",
+        "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 165676,
+      "name": "Next Summer",
+      "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
     },
     {
       "added_at": "2025-06-09 16:01:09",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-06-09 16:01:09",
       "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 165412,
-      "name": "Rah Tah Tah",
-      "url": "https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK"
-    },
-    {
-      "added_at": "2025-06-09 16:01:09",
-      "album": {
         "name": "EMDP (The Last Album)",
         "url": "https://open.spotify.com/album/2G4T745eynlKnJdhDj3bAB"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 163759,
       "name": "Y Que Fue?",
       "url": "https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv"
+    },
+    {
+      "added_at": "2025-06-09 16:01:09",
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 165412,
+      "name": "Rah Tah Tah",
+      "url": "https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK"
     },
     {
       "added_at": "2025-06-09 16:01:09",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2025-06-09 16:01:09",
       "album": {
-        "name": "Am un secret",
-        "url": "https://open.spotify.com/album/2pJSJIH3T0uNSAzteVl8eV"
-      },
-      "artists": [
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV"
-        },
-        {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Am un secret",
-      "url": "https://open.spotify.com/track/2jE6IfnXw4P4lfgixOADk6"
-    },
-    {
-      "added_at": "2025-06-09 16:01:09",
-      "album": {
         "name": "Mercedes",
         "url": "https://open.spotify.com/album/1Xz7MvPHQ8U5YBrNtOztWL"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 165269,
       "name": "Mercedes",
       "url": "https://open.spotify.com/track/7CzIPuAZjl1K8wYPOOzHyL"
+    },
+    {
+      "added_at": "2025-06-09 16:01:09",
+      "album": {
+        "name": "Am un secret",
+        "url": "https://open.spotify.com/album/2pJSJIH3T0uNSAzteVl8eV"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV"
+        },
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Am un secret",
+      "url": "https://open.spotify.com/track/2jE6IfnXw4P4lfgixOADk6"
     },
     {
       "added_at": "2025-06-09 16:01:09",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2025-06-09 16:01:09",
       "album": {
+        "name": "Ancora",
+        "url": "https://open.spotify.com/album/0jqONN6IGgRduCbg0Oyuan"
+      },
+      "artists": [
+        {
+          "name": "The Urs",
+          "url": "https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Ancora",
+      "url": "https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH"
+    },
+    {
+      "added_at": "2025-06-09 16:01:09",
+      "album": {
         "name": "Macarena",
         "url": "https://open.spotify.com/album/1uKLZaJkX4E5G757MNRyKN"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 161513,
       "name": "Macarena",
       "url": "https://open.spotify.com/track/3U7EsmefcBOb33o1pWVuOT"
-    },
-    {
-      "added_at": "2025-06-09 16:01:09",
-      "album": {
-        "name": "Ancora",
-        "url": "https://open.spotify.com/album/0jqONN6IGgRduCbg0Oyuan"
-      },
-      "artists": [
-        {
-          "name": "The Urs",
-          "url": "https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Ancora",
-      "url": "https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH"
     },
     {
       "added_at": "2025-06-09 16:01:09",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2025-06-09 16:01:09",
       "album": {
+        "name": "Maria, Maria",
+        "url": "https://open.spotify.com/album/2WXwrDnPKMh6DbB1ICbCGE"
+      },
+      "artists": [
+        {
+          "name": "Lidia Buble",
+          "url": "https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Maria, Maria",
+      "url": "https://open.spotify.com/track/4ut3pv8Po5KNXRrfKQ39IX"
+    },
+    {
+      "added_at": "2025-06-09 16:01:09",
+      "album": {
         "name": "Vin Sa Te Fur",
         "url": "https://open.spotify.com/album/3H0qoKhzglhG2QnbSkG7c8"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 187959,
       "name": "Vin Sa Te Fur",
       "url": "https://open.spotify.com/track/3dWT54uwKiBQ7JEqg3WGev"
-    },
-    {
-      "added_at": "2025-06-09 16:01:09",
-      "album": {
-        "name": "Maria, Maria",
-        "url": "https://open.spotify.com/album/2WXwrDnPKMh6DbB1ICbCGE"
-      },
-      "artists": [
-        {
-          "name": "Lidia Buble",
-          "url": "https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Maria, Maria",
-      "url": "https://open.spotify.com/track/4ut3pv8Po5KNXRrfKQ39IX"
     },
     {
       "added_at": "2025-06-09 16:01:09",

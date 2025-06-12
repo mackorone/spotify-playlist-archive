@@ -1,6 +1,6 @@
 {
   "description": "All the winning songs from the annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 258193,
+  "num_followers": 258183,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
@@ -707,26 +707,6 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
-        "name": "Fight For You (From the Original Motion Picture \"Judas and the Black Messiah\")",
-        "url": "https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Judas and the Black Messiah",
-          "url": "https://open.spotify.com/artist/33eHnoVi12zOWe8MdqRYsR"
-        }
-      ],
-      "duration_ms": 270710,
-      "name": "Fight For You - From the Original Motion Picture \"Judas and the Black Messiah\"",
-      "url": "https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
         "name": "Once: A New Musical (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/6BBjG9s1OPJXQh0dAiLwKN"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 266053,
       "name": "Falling Slowly",
       "url": "https://open.spotify.com/track/2rqU6isUjWk7s2y0ZEkmhb"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
+        "name": "Fight For You (From the Original Motion Picture \"Judas and the Black Messiah\")",
+        "url": "https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Judas and the Black Messiah",
+          "url": "https://open.spotify.com/artist/33eHnoVi12zOWe8MdqRYsR"
+        }
+      ],
+      "duration_ms": 270710,
+      "name": "Fight For You - From the Original Motion Picture \"Judas and the Black Messiah\"",
+      "url": "https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR"
     },
     {
       "added_at": "2024-01-23 19:55:12",

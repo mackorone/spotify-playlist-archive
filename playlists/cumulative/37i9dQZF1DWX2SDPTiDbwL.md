@@ -4,7 +4,7 @@
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-117 songs - 7 hr 28 min
+118 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [La Juani](https://open.spotify.com/track/0oulPWX7WIuc7zienNXCCR) | [Los Alhama](https://open.spotify.com/artist/4wONqd16Nu3igdQL7FQX47) | [Flamenco](https://open.spotify.com/album/6sD5zlDx4I2ViZFv5RRAqX) | 4:00 | 2023-09-01 | 2024-04-19 |
 | [La Moraima](https://open.spotify.com/track/6JLjGnfzm03NxkmQCQSIyv) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk) | [Best of Rafa El Tachuela: Flamenco](https://open.spotify.com/album/6Of0l7qLCVmY3Kgfuc6san) | 3:55 | 2024-04-05 |  |
 | [La Moraima](https://open.spotify.com/track/7HyhgyD0eSVk4S40w5V9e1) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk), [La Moraima](https://open.spotify.com/artist/4DyCHXN1RPYrHRAYDyce0z), [Ana Azules](https://open.spotify.com/artist/28uaLPiyViriPdt8bDkhAx), [Topo Gioia](https://open.spotify.com/artist/6GIbYKXxwHSLgrpo4RjtK8) | [Rafa El Tachliela: Flamenco Nuevo](https://open.spotify.com/album/5TIYTblia22KtU92NtAKnm) | 3:55 | 2023-09-01 | 2024-04-19 |
+| [La Noche](https://open.spotify.com/track/5hfdZPZVQJBQeS8gI2nytO) | [Antonio Conti](https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk) | [La Noche](https://open.spotify.com/album/3B5cMshSNYP8IBHRYPGVBh) | 2:30 | 2025-06-11 |  |
 | [Layla](https://open.spotify.com/track/0mDtRjCnkXPCSA9zI61SxR) | [Elior](https://open.spotify.com/artist/1fD2SIrAayRGtlgt06VU9M) | [Layla](https://open.spotify.com/album/2y1HsBsgDxbH62lMTFKavT) | 3:04 | 2024-07-18 |  |
 | [Lleva Mi Amor](https://open.spotify.com/track/1kPMYjXR6g36hSb1bxF55e) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Lleva Mi Amor](https://open.spotify.com/album/2wyKPCuOVZGPEcoh1Dxf8Y) | 2:17 | 2023-09-01 |  |
 | [Lluvia de plata](https://open.spotify.com/track/3KxU4j0VwWlPYcVgfYHfbp) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Absolute Flamenco](https://open.spotify.com/album/64ydWqsSid08IPBocvpOvp) | 2:49 | 2023-09-01 | 2024-04-19 |

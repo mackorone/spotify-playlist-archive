@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With Joshua Lanuarii, STYXVII, salv the dog and more
+> With STYXVII, Joshua Lanuarii, UrvTek and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 585 likes - 50 songs - 2 hr 14 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 | 49 | [PUPPY TF](https://open.spotify.com/track/7Mf4WiQGRUBhWhDjiYjbLt) | [Ida Deerz](https://open.spotify.com/artist/5sfvNysQqGIyLAyd2CxHnO) | [idaidaida](https://open.spotify.com/album/2MH0snsDzFgboLpkp3eKyI) | 1:25 |
 | 50 | [IDOLiZER](https://open.spotify.com/track/3ubsCWDJ0AJW9mb4NTgJS6) | [STYXVII](https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU) | [WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY](https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL) | 2:33 |
 
-Snapshot ID: `aEj5qQAAAAC/PAD90pTamPcXy5Udygrj`
+Snapshot ID: `aEpLpgAAAAAD3BOWWwcvEhZhcog/l55W`

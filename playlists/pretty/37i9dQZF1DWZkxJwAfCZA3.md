@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkxJwAfCZA3.md) - [plain]
 
 > <a href="spotify:artist:6TshTCYwh9ySzOO6Jy4Ux2"> Maya Jane Coles</a>' favorite tracks\. Updated regularly\. Curated by Maya Jane Coles Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,268 likes - 40 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,270 likes - 40 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkxJwAfCZA3.md) - [plain]
 | 39 | [Can’t Stand It](https://open.spotify.com/track/0YgkRyRI9TN0rKqwuWsrHK) | [Art Feynman](https://open.spotify.com/artist/6XlzzwOhKSberPLmwDEmkc) | [Blast Off Through the Wicker](https://open.spotify.com/album/5nkVWnfrsHKXJSfqP9IGjI) | 5:41 |
 | 40 | [Three King Fishers](https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG), [Jim Stewart](https://open.spotify.com/artist/1Gy2CxCb9Bvp6Wp0xQmSbq), [Hal Gordon](https://open.spotify.com/artist/08MG1w8piIBNcK7H4TTazQ), [Jimmy Keltner](https://open.spotify.com/artist/50appzhosvzQcqmeipXLtP), [Louis Kabok](https://open.spotify.com/artist/7ynQZmXaxvWuYmrHkVxs9u) | [Bacchanal](https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF) | 4:48 |
 
-Snapshot ID: `Z23uIgAAAAC7v5Xoc0Gz6y/AZrmkJwZx`
+Snapshot ID: `AAAAAG4YpgVkRUBU+KQdt5a/ViAHCqJf`

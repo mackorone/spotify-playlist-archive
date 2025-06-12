@@ -1,13 +1,37 @@
 {
   "description": "The best new AUS & NZ Rap. Cover: Lisi",
-  "num_followers": 141553,
+  "num_followers": 141560,
   "original_name": "Local Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEGi+wAAAACm7mF5BNgpSACREgOg8L0W",
+  "snapshot_id": "AAAAABh0VJITgAO47cGBnR0g0WEPYniI",
   "tracks": [
+    {
+      "added_at": "2025-06-11 07:00:03",
+      "album": {
+        "name": "Distant Strangers (feat. The Kid Laroi & Imogen Heap)",
+        "url": "https://open.spotify.com/album/1cwp5FEVGQaKoBV1WPbIdJ"
+      },
+      "artists": [
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Distant Strangers (feat. The Kid Laroi & Imogen Heap)",
+      "url": "https://open.spotify.com/track/7oa9VKcTKyWIYTnaz5V6xI"
+    },
     {
       "added_at": "2025-06-05 14:00:27",
       "album": {

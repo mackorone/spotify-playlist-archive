@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 20878,
+  "num_followers": 20895,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "aDm78gAAAAB3XTdsLet35wYtRbsp0TKd",
   "tracks": [
-    {
-      "added_at": "2025-05-30 14:08:50",
-      "album": {
-        "name": "MAIOR QUE O TEMPO",
-        "url": "https://open.spotify.com/album/3Cjn6aliQrVp6MPiU4oAdw"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 188041,
-      "name": "TEMPORAL",
-      "url": "https://open.spotify.com/track/7cLDMY44tHwRoFiB7as135"
-    },
     {
       "added_at": "2025-05-30 14:08:50",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 191168,
       "name": "Leva Tudo",
       "url": "https://open.spotify.com/track/05vX30MflAXWQnYkwXbczt"
+    },
+    {
+      "added_at": "2025-05-30 14:08:50",
+      "album": {
+        "name": "MAIOR QUE O TEMPO",
+        "url": "https://open.spotify.com/album/3Cjn6aliQrVp6MPiU4oAdw"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 188041,
+      "name": "TEMPORAL",
+      "url": "https://open.spotify.com/track/7cLDMY44tHwRoFiB7as135"
     },
     {
       "added_at": "2025-05-30 14:08:50",
@@ -519,26 +519,6 @@
     {
       "added_at": "2025-05-30 14:08:50",
       "album": {
-        "name": "T\u00f4 Aqui de Novo",
-        "url": "https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp"
-      },
-      "artists": [
-        {
-          "name": "Vinijoe",
-          "url": "https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg"
-        },
-        {
-          "name": "Pedrin 31",
-          "url": "https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx"
-        }
-      ],
-      "duration_ms": 215572,
-      "name": "T\u00f4 Aqui de Novo",
-      "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"
-    },
-    {
-      "added_at": "2025-05-30 14:08:50",
-      "album": {
         "name": "Calor",
         "url": "https://open.spotify.com/album/7FCf4MvjfVvtt4fvIB375L"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 149203,
       "name": "Calor",
       "url": "https://open.spotify.com/track/6tsH7BvmccAtfzBlC438TV"
+    },
+    {
+      "added_at": "2025-05-30 14:08:50",
+      "album": {
+        "name": "T\u00f4 Aqui de Novo",
+        "url": "https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp"
+      },
+      "artists": [
+        {
+          "name": "Vinijoe",
+          "url": "https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg"
+        },
+        {
+          "name": "Pedrin 31",
+          "url": "https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx"
+        }
+      ],
+      "duration_ms": 215572,
+      "name": "T\u00f4 Aqui de Novo",
+      "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"
     },
     {
       "added_at": "2025-05-30 14:08:50",
@@ -627,26 +627,6 @@
     {
       "added_at": "2025-05-30 14:08:50",
       "album": {
-        "name": "Me Conta",
-        "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
-        }
-      ],
-      "duration_ms": 196374,
-      "name": "Me Conta",
-      "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
-    },
-    {
-      "added_at": "2025-05-30 14:08:50",
-      "album": {
         "name": "Doce Veneno",
         "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 135693,
       "name": "Doce Veneno",
       "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
+    },
+    {
+      "added_at": "2025-05-30 14:08:50",
+      "album": {
+        "name": "Me Conta",
+        "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+        }
+      ],
+      "duration_ms": 196374,
+      "name": "Me Conta",
+      "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
     },
     {
       "added_at": "2025-05-30 14:08:50",
@@ -707,26 +707,6 @@
     {
       "added_at": "2025-05-30 14:08:50",
       "album": {
-        "name": "Desacelera",
-        "url": "https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo"
-      },
-      "artists": [
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        },
-        {
-          "name": "Emik\u00e1",
-          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
-        }
-      ],
-      "duration_ms": 164007,
-      "name": "Desacelera",
-      "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
-    },
-    {
-      "added_at": "2025-05-30 14:08:50",
-      "album": {
         "name": "1 a 1.",
         "url": "https://open.spotify.com/album/4Eb580XTff2K6dMJ45HNrB"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 197103,
       "name": "1 a 1.",
       "url": "https://open.spotify.com/track/4NgTv7ivT6mXUFw8Q8IVtU"
+    },
+    {
+      "added_at": "2025-05-30 14:08:50",
+      "album": {
+        "name": "Desacelera",
+        "url": "https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo"
+      },
+      "artists": [
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        },
+        {
+          "name": "Emik\u00e1",
+          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
+        }
+      ],
+      "duration_ms": 164007,
+      "name": "Desacelera",
+      "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
     },
     {
       "added_at": "2025-05-30 14:08:50",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-05-30 14:08:50",
       "album": {
-        "name": "Saia Rodada",
-        "url": "https://open.spotify.com/album/1cd7RPjvQptiwaMhhLlQi4"
-      },
-      "artists": [
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Saia Rodada",
-      "url": "https://open.spotify.com/track/2YsmKqaswhV5TdUI5dnfsK"
-    },
-    {
-      "added_at": "2025-05-30 14:08:50",
-      "album": {
         "name": "Pu'ce",
         "url": "https://open.spotify.com/album/0Q5qza0E2RJ0JvUIRiHr8C"
       },
@@ -859,6 +843,22 @@
     {
       "added_at": "2025-05-30 14:08:50",
       "album": {
+        "name": "Saia Rodada",
+        "url": "https://open.spotify.com/album/1cd7RPjvQptiwaMhhLlQi4"
+      },
+      "artists": [
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Saia Rodada",
+      "url": "https://open.spotify.com/track/2YsmKqaswhV5TdUI5dnfsK"
+    },
+    {
+      "added_at": "2025-05-30 14:08:50",
+      "album": {
         "name": "Quem Me Guia",
         "url": "https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq"
       },
@@ -875,22 +875,6 @@
       "duration_ms": 149575,
       "name": "Quem Me Guia",
       "url": "https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq"
-    },
-    {
-      "added_at": "2025-05-30 14:08:50",
-      "album": {
-        "name": "Lembra?",
-        "url": "https://open.spotify.com/album/4OztYosDtqCNgyZ3ERSieU"
-      },
-      "artists": [
-        {
-          "name": "CT",
-          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
-        }
-      ],
-      "duration_ms": 127090,
-      "name": "Lembra?",
-      "url": "https://open.spotify.com/track/5aRV9cipoubruQArEFixFQ"
     },
     {
       "added_at": "2025-05-30 14:08:50",
@@ -915,26 +899,6 @@
     {
       "added_at": "2025-05-30 14:08:50",
       "album": {
-        "name": "\u00c1guas Passadas",
-        "url": "https://open.spotify.com/album/5Vwbvq1tNraNK5OAbrD1xc"
-      },
-      "artists": [
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "\u00c1guas Passadas",
-      "url": "https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj"
-    },
-    {
-      "added_at": "2025-05-30 14:08:50",
-      "album": {
         "name": "Sossega (Nada Mal)",
         "url": "https://open.spotify.com/album/0eCs8F3tpB4sKdWJ9vHXQt"
       },
@@ -955,6 +919,42 @@
       "duration_ms": 201600,
       "name": "Sossega (Nada mal)",
       "url": "https://open.spotify.com/track/6mvy9xtCF374eRvxeY6C0d"
+    },
+    {
+      "added_at": "2025-05-30 14:08:50",
+      "album": {
+        "name": "Lembra?",
+        "url": "https://open.spotify.com/album/4OztYosDtqCNgyZ3ERSieU"
+      },
+      "artists": [
+        {
+          "name": "CT",
+          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
+        }
+      ],
+      "duration_ms": 127090,
+      "name": "Lembra?",
+      "url": "https://open.spotify.com/track/5aRV9cipoubruQArEFixFQ"
+    },
+    {
+      "added_at": "2025-05-30 14:08:50",
+      "album": {
+        "name": "\u00c1guas Passadas",
+        "url": "https://open.spotify.com/album/5Vwbvq1tNraNK5OAbrD1xc"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "\u00c1guas Passadas",
+      "url": "https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj"
     },
     {
       "added_at": "2025-05-30 14:08:50",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop<br/><br/>Cover: Chloe Qisha
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,279,021 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,278,945 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 99 | [Ground Control](https://open.spotify.com/track/4d3QWnT6shcTiVJem6zEuz) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Ground Control](https://open.spotify.com/album/1dvGoaIzAkcrpnPOUeJzUk) | 3:23 |
 | 100 | [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 |
 
-Snapshot ID: `aDktYAAAAAAWoMTUBlG0+aATOL3ddgEZ`
+Snapshot ID: `AAAAAHq0Z8xnP+bSJa5/WoM/aJL6pI0I`

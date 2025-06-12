@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,364,854 likes - 216 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,364,899 likes - 216 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 215 | [Sunset Skybar](https://open.spotify.com/track/5eqQtD31iK7C3KgNcFTM6Q) | [Palma Dreams](https://open.spotify.com/artist/6g6CC8hzY5pFe9trUEoty9) | [Dive In](https://open.spotify.com/album/3ITTHt0Eu1doM1Q4wh1I8U) | 2:40 |
 | 216 | [pleased as punch](https://open.spotify.com/track/5U4oJZhsOEDu4GNxv3LZ2L) | [Ms\. Velvet](https://open.spotify.com/artist/0y0wpWjKYzAqmY0nQkaZcH) | [pleased as punch](https://open.spotify.com/album/65ijOt7F7UB24RVOpELEXk) | 3:19 |
 
-Snapshot ID: `aDm21wAAAABBetJa6nuj2zWAUBCWt06x`
+Snapshot ID: `aDm21wAAAACbnjdo56s/y/tIsU6LBJMF`

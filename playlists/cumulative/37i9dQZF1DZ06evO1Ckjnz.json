@@ -413,6 +413,28 @@
     },
     {
       "album": {
+        "name": "Pink Is Better",
+        "url": "https://open.spotify.com/album/0FnQVPQcWZjPL6u6M1qDAf"
+      },
+      "artists": [
+        {
+          "name": "Token",
+          "url": "https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155657,
+      "name": "High Heels (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/4DrDU8Vv9UkveFFgGhAnzG"
+    },
+    {
+      "album": {
         "name": "War",
         "url": "https://open.spotify.com/album/5UthVBNdNdHyqHmSKUlegX"
       },
@@ -644,7 +666,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 164095,
       "name": "Pay Day (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/3T3UAYDMWKgg0aLsCmLtup"

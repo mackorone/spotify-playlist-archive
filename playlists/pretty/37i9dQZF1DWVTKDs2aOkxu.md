@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Ethel Cain
 
-[Spotify](https://open.spotify.com/user/spotify) - 722,001 likes - 83 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,948 likes - 83 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: ASOBOiSM
 
-1,338 songs - 3 day 6 hr 44 min
+1,340 songs - 3 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [BUM BUM](https://open.spotify.com/track/0MZvOut9kY3K8HgPfD0PjJ) | [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi) | [BUM BUM](https://open.spotify.com/album/4IAhXGhBYtNgawp2lXn295) | 3:12 | 2024-03-05 | 2024-04-03 |
 | [BURIBURI](https://open.spotify.com/track/1jnKolSiECUUSDsvRXG0sN) | [重盛さと美](https://open.spotify.com/artist/520STFW9IFHZA5A1WPWUeZ), [Tomodachi](https://open.spotify.com/artist/10b7iI7HzdtxZgCfPovith) | [BURIBURI](https://open.spotify.com/album/0esLtav09urol1KUKmUKw9) | 2:17 | 2023-05-02 | 2023-06-07 |
 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-07-09 | 2025-01-18 |
+| [Burning Flower](https://open.spotify.com/track/20mMzqcOAO1J5qmM7Q6sP0) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Burning Flower](https://open.spotify.com/album/163oByKktJZI76tPDx5iHx) | 2:57 | 2025-06-11 |  |
 | [Butterfly](https://open.spotify.com/track/0hwtEIit3clZ8uVLYGyCyj) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Butterfly](https://open.spotify.com/album/428NUiCIToyIhyAQEf2zAw) | 3:09 | 2025-03-11 |  |
 | [Butterfly Effect](https://open.spotify.com/track/0sps5YsUzFCDFxpADH02Cw) | [RAY](https://open.spotify.com/artist/11XXERdBUPHGsCBbpyaMwz) | [Pink](https://open.spotify.com/album/2LUEQdAWtMbGwzlUm4STTz) | 4:26 | 2022-11-08 | 2022-12-07 |
 | [Bye\-Bye King](https://open.spotify.com/track/0zTHa1Kd07I1VTZX8jMKrb) | [なみちえ](https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ), [RICK NOVA](https://open.spotify.com/artist/7flydDGMB0orujddPJZnTg) | [Bye\-Bye King](https://open.spotify.com/album/355SYUVufkwA8t7mDJEJQK) | 2:56 | 2022-04-05 | 2022-05-05 |
@@ -700,7 +701,7 @@
 | [Roll](https://open.spotify.com/track/6ZOfIAVHz5kouYvIqUV19r) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:36 | 2023-09-05 | 2023-11-08 |
 | [Room Tour](https://open.spotify.com/track/3VLLya1BlR43iLpsGflhWK) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [Room Tour](https://open.spotify.com/album/11jEvl4NC5zw14RbeuGrj9) | 4:25 | 2022-07-05 | 2022-07-29 |
 | [Room Tour](https://open.spotify.com/track/6LHIN6rig6gAsikFBwpWfe) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [Room Tour](https://open.spotify.com/album/2FHpkkHWUQAPMl9Vqwpmi0) | 4:25 | 2022-07-05 | 2022-08-03 |
-| [ROSE](https://open.spotify.com/track/5JTNhYqB0eG0ivgZcBviJ0) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [ROSE](https://open.spotify.com/album/55t0oiGukh64vuhsACgjtE) | 2:44 | 2025-04-01 |  |
+| [ROSE](https://open.spotify.com/track/5JTNhYqB0eG0ivgZcBviJ0) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [ROSE](https://open.spotify.com/album/55t0oiGukh64vuhsACgjtE) | 2:44 | 2025-04-01 | 2025-06-12 |
 | [rose \- feat\. Vaundy](https://open.spotify.com/track/1GHRempxln5XiNEYYvPz7f) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [rose \(feat\. Vaundy\)](https://open.spotify.com/album/4dF1UtRhD4zW3w0h6MXerB) | 3:07 | 2023-02-28 | 2023-04-05 |
 | [Run](https://open.spotify.com/track/5Hi3N1zV22FTZzWrjFMsQp) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Run](https://open.spotify.com/album/1YjBHkHzDehlUyhlaskjvV) | 4:08 | 2024-06-20 | 2025-03-12 |
 | [RUSU](https://open.spotify.com/track/4SVEykWt23e2UksVu4qDKd) | [Moeka Giga](https://open.spotify.com/artist/4XJ2D1hGea6WmjvkShHOp5) | [RUSU](https://open.spotify.com/album/0dUz40owF8xPrHsqVTHlUg) | 2:54 | 2023-01-03 | 2024-04-19 |
@@ -842,7 +843,7 @@
 | [Thinking of You](https://open.spotify.com/track/3SqHn3nZ97WlY0tznIRSo9) | [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx) | [Thinking of You](https://open.spotify.com/album/5TidXYzuZOw8akoMZAfTxG) | 3:23 | 2022-08-02 | 2024-04-03 |
 | [This Hell](https://open.spotify.com/track/7aHmvUghK3XCEqNRbUeAn4) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:56 | 2022-10-04 | 2022-11-09 |
 | [THIS IS JAPANESE GIRL](https://open.spotify.com/track/5psoHRZLny713ndQc6X9up) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [THIS IS JAPANESE GIRL](https://open.spotify.com/album/2f3N06aYmjaeAZAppZfsgJ) | 3:20 | 2024-06-20 | 2024-07-31 |
-| [Tiger](https://open.spotify.com/track/20VZXnRzvcS0qVMOThjjmM) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [ROSE](https://open.spotify.com/album/42rJ9A3HW7S2hWnkMNZIwk) | 3:10 | 2025-04-22 |  |
+| [Tiger](https://open.spotify.com/track/20VZXnRzvcS0qVMOThjjmM) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [ROSE](https://open.spotify.com/album/42rJ9A3HW7S2hWnkMNZIwk) | 3:10 | 2025-04-22 | 2025-06-12 |
 | [Till Tomorrow, Trust Tomorrow](https://open.spotify.com/track/60mFaU7A8W8obg1BGqjuHh) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/019fqb5ajmLWkD57gViVvo) | 4:05 | 2024-04-02 | 2024-04-19 |
 | [Till Tomorrow, Trust Tomorrow](https://open.spotify.com/track/34xXw6peMNDzTjGvgM2pCx) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Till Tomorrow, Trust Tomorrow](https://open.spotify.com/album/0FzesRZPhYGAKiiRvpTIP3) | 4:05 | 2023-01-03 | 2023-02-02 |
 | [TIME \(feat\. MFS\)](https://open.spotify.com/track/1JLgk1V5LbfxQKvnFXec4g) | [MoMo](https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [TIME \(feat\. MFS\)](https://open.spotify.com/album/0HV5q1uZKOy1UZOSaNPT7B) | 2:28 | 2025-05-21 |  |
@@ -1020,6 +1021,7 @@
 | [しょうがない](https://open.spotify.com/track/6knXRV59KfhPg7o1FkbDfQ) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [しょうがない](https://open.spotify.com/album/30fwOEXpsdBOnLQz5D5jbB) | 3:19 | 2025-01-17 |  |
 | [じゃむ \(feat\. iri\)](https://open.spotify.com/track/7fOO1ux4JYOxXKAxyn36wv) | [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF), [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [じゃむ \(feat\. iri\)](https://open.spotify.com/album/2RhXbdRHvDklwmBeOhGz6G) | 4:50 | 2022-10-04 | 2022-11-09 |
 | [ずるくない?](https://open.spotify.com/track/4alL49g2nf50xegCcGqDZt) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [ずるくない?](https://open.spotify.com/album/4n8v2qy6CaAySJN7yJ9gW7) | 3:28 | 2022-05-31 | 2022-07-06 |
+| [ぜんぶオーライ！](https://open.spotify.com/track/6aP9yP5rEdJsZerDTcu8dF) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [ぜんぶオーライ！](https://open.spotify.com/album/2WM85HdzAIxvhKDYw3lQpY) | 3:20 | 2025-06-11 |  |
 | [そいえば台湾](https://open.spotify.com/track/2glfJbqTmhC2a4j9D03JjI) | [FUJIN CLUB](https://open.spotify.com/artist/3ijB4Zzxv8NWbKgdGIt500) | [そいえば台湾](https://open.spotify.com/album/6VG73UR2XsS8RETlQNIcXL) | 3:56 | 2022-07-05 | 2022-07-29 |
 | [そうでもない](https://open.spotify.com/track/5xFwPz1xigFqwebuZvZDVN) | [ayutthaya](https://open.spotify.com/artist/0rTubhDFni3uMrx2nSK9WG) | [Lighthouse](https://open.spotify.com/album/00xXlkPx5MrAxB9YcyDR4w) | 3:19 | 2023-02-28 | 2024-02-07 |
 | [それでも明日は](https://open.spotify.com/track/0joCT7IWQ6EnApIQAZaLDt) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [それでも明日は](https://open.spotify.com/album/7gI4sTv01zQvKaJ8R48LPz) | 4:05 | 2024-04-02 | 2024-06-21 |

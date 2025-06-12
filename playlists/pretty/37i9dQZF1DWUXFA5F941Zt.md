@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXFA5F941Zt.md) - [plain]
 
 > Celebrate Halloween with the the best in old fashioned spooky Jazz and Blues from the 1920s\-1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,972 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,971 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXFA5F941Zt.md) - [plain]
 | 49 | [It Must Be Swell \- Remastered 2003](https://open.spotify.com/track/1HjuIGcVvxaFRAuWiSsQo2) | [Alex Bartha and His Hotel Traymore Orchestra](https://open.spotify.com/artist/1tAhpVnjPalPFTrp0o7Neq) | [Halloween Classics: Songs That Scared The Bloomers Off Your Great\-Grandma](https://open.spotify.com/album/2fytWEp9pLSfRzo5TNTRUw) | 2:58 |
 | 50 | [Hush, Hush, Hush, Here Comes the Bogey Man](https://open.spotify.com/track/65nY9qBpXrJw7LZXFdl6lr) | [Henry Hall's BBC Dance Orchestra](https://open.spotify.com/artist/39V4oHTWk2FX8XXSlKoyBC), [Val Rosing](https://open.spotify.com/artist/6AhkMuO2f4VjKD6ItDglMO) | [Jeepers Creepers \(Original Motion Picture Score\) \[Digitally Remastered\]](https://open.spotify.com/album/5pKo9SD58QGZLnbucpw0t4) | 3:00 |
 
-Snapshot ID: `Zva1vgAAAAAlnMOQxZklpoIeP1/rxeh3`
+Snapshot ID: `Zva1vgAAAACZF2NWCItWDIMPHOaX3hiM`

@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. R\u00d8Z y Peso Pluma en portada.",
-  "num_followers": 64975,
+  "num_followers": 64992,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-05-30 06:00:13",
       "album": {
-        "name": "me estoy volviendo loca",
-        "url": "https://open.spotify.com/album/0ipLSjp0E8sNY1EkyWg54s"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 139034,
-      "name": "la jefa del triple 4",
-      "url": "https://open.spotify.com/track/0ux6hoQqTirvL5yNWhoXaZ"
-    },
-    {
-      "added_at": "2025-05-30 06:00:13",
-      "album": {
         "name": "Quemando Papel",
         "url": "https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 194645,
       "name": "Quemando Papel",
       "url": "https://open.spotify.com/track/3tiaqn4MVRX9prDxiBNgHA"
+    },
+    {
+      "added_at": "2025-05-30 06:00:13",
+      "album": {
+        "name": "me estoy volviendo loca",
+        "url": "https://open.spotify.com/album/0ipLSjp0E8sNY1EkyWg54s"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 139034,
+      "name": "la jefa del triple 4",
+      "url": "https://open.spotify.com/track/0ux6hoQqTirvL5yNWhoXaZ"
     },
     {
       "added_at": "2025-05-30 06:00:13",
@@ -599,22 +599,6 @@
     {
       "added_at": "2025-05-30 06:00:13",
       "album": {
-        "name": "Cantus",
-        "url": "https://open.spotify.com/album/4EpXHxtJQBHKPK17PSyaAF"
-      },
-      "artists": [
-        {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        }
-      ],
-      "duration_ms": 184051,
-      "name": "Cantus",
-      "url": "https://open.spotify.com/track/0Vkf87nNUU5wJPKtpTYt4n"
-    },
-    {
-      "added_at": "2025-05-30 06:00:13",
-      "album": {
         "name": "\u00d1EROSTARS",
         "url": "https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 190169,
       "name": "Todo Tiene Su Final",
       "url": "https://open.spotify.com/track/5To8W2tfQMQKxSGtpcC9Qg"
+    },
+    {
+      "added_at": "2025-05-30 06:00:13",
+      "album": {
+        "name": "Cantus",
+        "url": "https://open.spotify.com/album/4EpXHxtJQBHKPK17PSyaAF"
+      },
+      "artists": [
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        }
+      ],
+      "duration_ms": 184051,
+      "name": "Cantus",
+      "url": "https://open.spotify.com/track/0Vkf87nNUU5wJPKtpTYt4n"
     },
     {
       "added_at": "2025-05-30 06:00:13",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2025-05-30 06:00:13",
       "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vl9iHGKGA2EMqoOSeezkB"
-      },
-      "artists": [
-        {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        },
-        {
-          "name": "19Clouds",
-          "url": "https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF"
-        }
-      ],
-      "duration_ms": 215201,
-      "name": "777",
-      "url": "https://open.spotify.com/track/6Hn0C04hbjPOcdR50e1kAb"
-    },
-    {
-      "added_at": "2025-05-30 06:00:13",
-      "album": {
         "name": "Light Up",
         "url": "https://open.spotify.com/album/3lpliBOg303cNhbNCeDMZm"
       },
@@ -1095,6 +1075,26 @@
     {
       "added_at": "2025-05-30 06:00:13",
       "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vl9iHGKGA2EMqoOSeezkB"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
+        {
+          "name": "19Clouds",
+          "url": "https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF"
+        }
+      ],
+      "duration_ms": 215201,
+      "name": "777",
+      "url": "https://open.spotify.com/track/6Hn0C04hbjPOcdR50e1kAb"
+    },
+    {
+      "added_at": "2025-05-30 06:00:13",
+      "album": {
         "name": "EXTAPHORIC!",
         "url": "https://open.spotify.com/album/3Z6XgTOnmv6jXg8Aus1Oxr"
       },
@@ -1123,22 +1123,6 @@
       "duration_ms": 133333,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3gN1Aw7DmcrIFeDO1yqGZc"
-    },
-    {
-      "added_at": "2025-05-30 06:00:13",
-      "album": {
-        "name": "999 (Goer)",
-        "url": "https://open.spotify.com/album/1OVXU74d1lygEMbdTxEuBb"
-      },
-      "artists": [
-        {
-          "name": "Remp",
-          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
-        }
-      ],
-      "duration_ms": 160857,
-      "name": "999 (Goer)",
-      "url": "https://open.spotify.com/track/17naw7wiDD3bL2ePAIrIVk"
     },
     {
       "added_at": "2025-05-30 06:00:13",
@@ -1175,6 +1159,22 @@
       "duration_ms": 136477,
       "name": "La Diabla (Electro Remix)",
       "url": "https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m"
+    },
+    {
+      "added_at": "2025-05-30 06:00:13",
+      "album": {
+        "name": "999 (Goer)",
+        "url": "https://open.spotify.com/album/1OVXU74d1lygEMbdTxEuBb"
+      },
+      "artists": [
+        {
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        }
+      ],
+      "duration_ms": 160857,
+      "name": "999 (Goer)",
+      "url": "https://open.spotify.com/track/17naw7wiDD3bL2ePAIrIVk"
     },
     {
       "added_at": "2025-05-30 06:00:13",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-05-30 06:00:13",
       "album": {
-        "name": "MiDNiGHT",
-        "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 186595,
-      "name": "MiDNiGHT",
-      "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
-    },
-    {
-      "added_at": "2025-05-30 06:00:13",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 149877,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg"
+    },
+    {
+      "added_at": "2025-05-30 06:00:13",
+      "album": {
+        "name": "MiDNiGHT",
+        "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 186595,
+      "name": "MiDNiGHT",
+      "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
     },
     {
       "added_at": "2025-05-30 06:00:13",
@@ -1479,30 +1479,6 @@
     {
       "added_at": "2025-05-30 06:00:13",
       "album": {
-        "name": "Franca Barona",
-        "url": "https://open.spotify.com/album/4wOs4oZxujsDhiUI436gOL"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        },
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 215294,
-      "name": "Franca Barona",
-      "url": "https://open.spotify.com/track/29cUhxuaujLL63aQ7yQrtD"
-    },
-    {
-      "added_at": "2025-05-30 06:00:13",
-      "album": {
         "name": "SIN MIRAR (Midnight Generation Remix)",
         "url": "https://open.spotify.com/album/5SOIjOz7nVuNsix1KXBylg"
       },
@@ -1527,22 +1503,26 @@
     {
       "added_at": "2025-05-30 06:00:13",
       "album": {
-        "name": "flashes",
-        "url": "https://open.spotify.com/album/58nQ8Vzv9VqS4fXnZ1cZqk"
+        "name": "Franca Barona",
+        "url": "https://open.spotify.com/album/4wOs4oZxujsDhiUI436gOL"
       },
       "artists": [
         {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
         },
         {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
         }
       ],
-      "duration_ms": 185076,
-      "name": "flashes",
-      "url": "https://open.spotify.com/track/0WldJKCaZhHHZbzu4kFV1m"
+      "duration_ms": 215294,
+      "name": "Franca Barona",
+      "url": "https://open.spotify.com/track/29cUhxuaujLL63aQ7yQrtD"
     },
     {
       "added_at": "2025-05-30 06:00:13",
@@ -1575,6 +1555,26 @@
       "duration_ms": 138000,
       "name": "M\u00cdRAME",
       "url": "https://open.spotify.com/track/07uTqdg648didHNLUqpVbc"
+    },
+    {
+      "added_at": "2025-05-30 06:00:13",
+      "album": {
+        "name": "flashes",
+        "url": "https://open.spotify.com/album/58nQ8Vzv9VqS4fXnZ1cZqk"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 185076,
+      "name": "flashes",
+      "url": "https://open.spotify.com/track/0WldJKCaZhHHZbzu4kFV1m"
     },
     {
       "added_at": "2025-05-30 06:00:13",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2025-05-30 06:00:13",
       "album": {
-        "name": "Not For Resale",
-        "url": "https://open.spotify.com/album/71F8ZwPudopYuDWajBYPM0"
-      },
-      "artists": [
-        {
-          "name": "Mandragora",
-          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
-        },
-        {
-          "name": "DYOR Atelier",
-          "url": "https://open.spotify.com/artist/2F6DhnC0oLU9HiYCGQDMa4"
-        }
-      ],
-      "duration_ms": 264374,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/5SNLzOQqKOXqTAavIjJz0u"
-    },
-    {
-      "added_at": "2025-05-30 06:00:13",
-      "album": {
         "name": "Sola",
         "url": "https://open.spotify.com/album/4L10sDlgzuYQbPCz0sgZOU"
       },
@@ -1827,6 +1807,26 @@
       "duration_ms": 105703,
       "name": "Sola",
       "url": "https://open.spotify.com/track/1L1tBBzEQ2OxchU3Ti5zdX"
+    },
+    {
+      "added_at": "2025-05-30 06:00:13",
+      "album": {
+        "name": "Not For Resale",
+        "url": "https://open.spotify.com/album/71F8ZwPudopYuDWajBYPM0"
+      },
+      "artists": [
+        {
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+        },
+        {
+          "name": "DYOR Atelier",
+          "url": "https://open.spotify.com/artist/2F6DhnC0oLU9HiYCGQDMa4"
+        }
+      ],
+      "duration_ms": 264374,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/5SNLzOQqKOXqTAavIjJz0u"
     },
     {
       "added_at": "2025-05-30 06:00:13",

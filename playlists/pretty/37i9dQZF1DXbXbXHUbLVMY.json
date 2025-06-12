@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udea8 ",
-  "num_followers": 39,
+  "num_followers": 40,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -128,7 +128,7 @@
           "url": "https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv"
         }
       ],
-      "duration_ms": 145945,
+      "duration_ms": 145000,
       "name": "Mercedes",
       "url": "https://open.spotify.com/track/5kc0p3uu8xH3up1ISZEojw"
     },
@@ -199,26 +199,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Span",
-        "url": "https://open.spotify.com/album/2S5n4V0A35bSnBoIG4SqG1"
-      },
-      "artists": [
-        {
-          "name": "25",
-          "url": "https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc"
-        },
-        {
-          "name": "Kayen",
-          "url": "https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1"
-        }
-      ],
-      "duration_ms": 143606,
-      "name": "Span",
-      "url": "https://open.spotify.com/track/7zZKjXmvQXRl17gzd15Lb2"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "FRIHET I LENKER",
         "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 170146,
       "name": "BIPOLAR",
       "url": "https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "Span",
+        "url": "https://open.spotify.com/album/2S5n4V0A35bSnBoIG4SqG1"
+      },
+      "artists": [
+        {
+          "name": "25",
+          "url": "https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc"
+        },
+        {
+          "name": "Kayen",
+          "url": "https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1"
+        }
+      ],
+      "duration_ms": 143606,
+      "name": "Span",
+      "url": "https://open.spotify.com/track/7zZKjXmvQXRl17gzd15Lb2"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "R\u00f8de Rubin",
-        "url": "https://open.spotify.com/album/6Yrm9gEwrSFWgsIDgr7YbI"
-      },
-      "artists": [
-        {
-          "name": "Plaza",
-          "url": "https://open.spotify.com/artist/00Pw5UR1M3PTfsr0S7nhUQ"
-        }
-      ],
-      "duration_ms": 156459,
-      "name": "R\u00f8de Rubin",
-      "url": "https://open.spotify.com/track/0Pdi9usvND947TMv869DmN"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "My Life",
         "url": "https://open.spotify.com/album/3Y9Ny8uaR3mHMRNXOGVB8P"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 172457,
       "name": "My Life",
       "url": "https://open.spotify.com/track/6Ds55RPFl555006cX92zBC"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "R\u00f8de Rubin",
+        "url": "https://open.spotify.com/album/6Yrm9gEwrSFWgsIDgr7YbI"
+      },
+      "artists": [
+        {
+          "name": "Plaza",
+          "url": "https://open.spotify.com/artist/00Pw5UR1M3PTfsr0S7nhUQ"
+        }
+      ],
+      "duration_ms": 156459,
+      "name": "R\u00f8de Rubin",
+      "url": "https://open.spotify.com/track/0Pdi9usvND947TMv869DmN"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -483,26 +483,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Takket v\u00e6re livet",
-        "url": "https://open.spotify.com/album/0FpElBecf0GKSZh1ZV2XZC"
-      },
-      "artists": [
-        {
-          "name": "Jonas Benyoub",
-          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
-        },
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/4zLcqjM3SYf47rR9WOfyDZ"
-        }
-      ],
-      "duration_ms": 210453,
-      "name": "555",
-      "url": "https://open.spotify.com/track/4s8kJv5M6vIXPciohYgMHN"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "Ung & Dum",
         "url": "https://open.spotify.com/album/0aibQYq60BClz1s2jmDTHx"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 147678,
       "name": "On It",
       "url": "https://open.spotify.com/track/5FNJR4YcgpNgQXjLTktubu"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "Takket v\u00e6re livet",
+        "url": "https://open.spotify.com/album/0FpElBecf0GKSZh1ZV2XZC"
+      },
+      "artists": [
+        {
+          "name": "Jonas Benyoub",
+          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+        },
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/4zLcqjM3SYf47rR9WOfyDZ"
+        }
+      ],
+      "duration_ms": 210453,
+      "name": "555",
+      "url": "https://open.spotify.com/track/4s8kJv5M6vIXPciohYgMHN"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -575,6 +575,26 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
+        "name": "Bra \u00c5r",
+        "url": "https://open.spotify.com/album/2ffzDTi3yaOAvTC843voOA"
+      },
+      "artists": [
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        },
+        {
+          "name": "Peder Nord",
+          "url": "https://open.spotify.com/artist/54m555rji218uiKKLkIMzX"
+        }
+      ],
+      "duration_ms": 109766,
+      "name": "Cph Freestyle",
+      "url": "https://open.spotify.com/track/5pH0He95Tcp7avZPVMAbxp"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
         "name": "Radarn",
         "url": "https://open.spotify.com/album/7jIXkYfDU9nZ9Y01ehHYte"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 123823,
       "name": "Radarn",
       "url": "https://open.spotify.com/track/4UE7hlOZn503ENaMi6Nilm"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
-        "name": "Bra \u00c5r",
-        "url": "https://open.spotify.com/album/2ffzDTi3yaOAvTC843voOA"
-      },
-      "artists": [
-        {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
-        },
-        {
-          "name": "Peder Nord",
-          "url": "https://open.spotify.com/artist/54m555rji218uiKKLkIMzX"
-        }
-      ],
-      "duration_ms": 109766,
-      "name": "Cph Freestyle",
-      "url": "https://open.spotify.com/track/5pH0He95Tcp7avZPVMAbxp"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -743,22 +743,18 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Ut",
-        "url": "https://open.spotify.com/album/3Bwg5T0yU07hxNB3ih0Kue"
+        "name": "THANK GOD",
+        "url": "https://open.spotify.com/album/6rL8WafHZLCLhGZIelZQlM"
       },
       "artists": [
         {
-          "name": "Rambow",
-          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
-        },
-        {
-          "name": "FRAM",
-          "url": "https://open.spotify.com/artist/4eo3HSMXtaYqAAW6f14YVt"
+          "name": "Sa_G",
+          "url": "https://open.spotify.com/artist/5ys6SWXPFzxaULLoEmaO7L"
         }
       ],
-      "duration_ms": 178237,
-      "name": "Ut",
-      "url": "https://open.spotify.com/track/2ltsNF325fGDi9yznNnDYU"
+      "duration_ms": 162178,
+      "name": "THANK GOD",
+      "url": "https://open.spotify.com/track/71E4casotTyJt5TaBL8SMb"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -779,34 +775,22 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "THANK GOD",
-        "url": "https://open.spotify.com/album/6rL8WafHZLCLhGZIelZQlM"
+        "name": "Ut",
+        "url": "https://open.spotify.com/album/3Bwg5T0yU07hxNB3ih0Kue"
       },
       "artists": [
         {
-          "name": "Sa_G",
-          "url": "https://open.spotify.com/artist/5ys6SWXPFzxaULLoEmaO7L"
-        }
-      ],
-      "duration_ms": 162178,
-      "name": "THANK GOD",
-      "url": "https://open.spotify.com/track/71E4casotTyJt5TaBL8SMb"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
-        "name": "Wine",
-        "url": "https://open.spotify.com/album/4sg5BPyaOWGmhxBdWsdy3n"
-      },
-      "artists": [
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        },
         {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+          "name": "FRAM",
+          "url": "https://open.spotify.com/artist/4eo3HSMXtaYqAAW6f14YVt"
         }
       ],
-      "duration_ms": 163589,
-      "name": "Wine",
-      "url": "https://open.spotify.com/track/3HHXFvN5BjYrASwmeaEYVI"
+      "duration_ms": 178237,
+      "name": "Ut",
+      "url": "https://open.spotify.com/track/2ltsNF325fGDi9yznNnDYU"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -827,6 +811,22 @@
       "duration_ms": 154320,
       "name": "King Of The Hill (feat. Roc Boyz)",
       "url": "https://open.spotify.com/track/4x7O0ZgkDIa9a8kkSLvith"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "Wine",
+        "url": "https://open.spotify.com/album/4sg5BPyaOWGmhxBdWsdy3n"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "duration_ms": 163589,
+      "name": "Wine",
+      "url": "https://open.spotify.com/track/3HHXFvN5BjYrASwmeaEYVI"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -871,18 +871,42 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "2 Trekk",
-        "url": "https://open.spotify.com/album/2wYFWBGcjjulb9KrIQDmso"
+        "name": "Bed\u00f8velse Gj\u00f8r Mester",
+        "url": "https://open.spotify.com/album/1MEQ3H8iYw0q4npG8Bht2t"
       },
       "artists": [
         {
           "name": "Tyr",
           "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
+        },
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        },
+        {
+          "name": "Siyab\u00e5ng",
+          "url": "https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK"
         }
       ],
-      "duration_ms": 172841,
-      "name": "2 Trekk",
-      "url": "https://open.spotify.com/track/5OfEqTBuUw1LqeU5FLgNNW"
+      "duration_ms": 221276,
+      "name": "Tyrs Vals (feat. Arif Murakami & Siyab\u00e5ng)",
+      "url": "https://open.spotify.com/track/0V0qOWYd1Oz1jGaVFii95s"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "Leve",
+        "url": "https://open.spotify.com/album/798HIQ0XS757OGJL0pGfER"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "duration_ms": 164812,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/4Md2DqRJUozRDBnEdDLdz9"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -903,22 +927,6 @@
       "duration_ms": 162857,
       "name": "Mariachi",
       "url": "https://open.spotify.com/track/4NDYDxNhfR5eJRDXB1P6OV"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
-        "name": "Leve",
-        "url": "https://open.spotify.com/album/798HIQ0XS757OGJL0pGfER"
-      },
-      "artists": [
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        }
-      ],
-      "duration_ms": 164812,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/4Md2DqRJUozRDBnEdDLdz9"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -963,26 +971,18 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Bed\u00f8velse Gj\u00f8r Mester",
-        "url": "https://open.spotify.com/album/1MEQ3H8iYw0q4npG8Bht2t"
+        "name": "2 Trekk",
+        "url": "https://open.spotify.com/album/2wYFWBGcjjulb9KrIQDmso"
       },
       "artists": [
         {
           "name": "Tyr",
           "url": "https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE"
-        },
-        {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
-        },
-        {
-          "name": "Siyab\u00e5ng",
-          "url": "https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK"
         }
       ],
-      "duration_ms": 221276,
-      "name": "Tyrs Vals (feat. Arif Murakami & Siyab\u00e5ng)",
-      "url": "https://open.spotify.com/track/0V0qOWYd1Oz1jGaVFii95s"
+      "duration_ms": 172841,
+      "name": "2 Trekk",
+      "url": "https://open.spotify.com/track/5OfEqTBuUw1LqeU5FLgNNW"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
+        "name": "Det var aldri meg",
+        "url": "https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ"
+      },
+      "artists": [
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Ment for hverandre",
+      "url": "https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
         "name": "ROSA BLOMST",
         "url": "https://open.spotify.com/album/2rSLPuHbKJ21KIMHiie3s7"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 202145,
       "name": "ROSA BLOMST",
       "url": "https://open.spotify.com/track/7gW0MBMwTtOfwGmpd4njBr"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
-        "name": "Det var aldri meg",
-        "url": "https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ"
-      },
-      "artists": [
-        {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "Ment for hverandre",
-      "url": "https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
+        "name": "Stikk I Brystet (Deluxe)",
+        "url": "https://open.spotify.com/album/1TVqo7Q0brVxoPV9daZ5RA"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "duration_ms": 231666,
+      "name": "Stikk i Brystet",
+      "url": "https://open.spotify.com/track/2K7RNGhAN82pJSz0OjXCo1"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
         "name": "Skulle Bare Visst",
         "url": "https://open.spotify.com/album/32UzzFs5NTcA5QRoc9b6sv"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 231346,
       "name": "Skulle bare visst (feat. Isah)",
       "url": "https://open.spotify.com/track/7mFLCn9SG7l30kxWkwRkbG"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
-        "name": "Stikk I Brystet (Deluxe)",
-        "url": "https://open.spotify.com/album/1TVqo7Q0brVxoPV9daZ5RA"
-      },
-      "artists": [
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        }
-      ],
-      "duration_ms": 231666,
-      "name": "Stikk i Brystet",
-      "url": "https://open.spotify.com/track/2K7RNGhAN82pJSz0OjXCo1"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "MEST ELSKET & Hatet - Deluxe",
-        "url": "https://open.spotify.com/album/4VyshA76GkIjxfp44aXtCk"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        }
-      ],
-      "duration_ms": 111214,
-      "name": "Hel/Halv",
-      "url": "https://open.spotify.com/track/0kiq7XS5IArAc4trTpW9Q0"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/45fNa0CxkPKwJrFXdzcZRf"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 178736,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/4e6yJydi3ONicrZ8gXsCCv"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "MEST ELSKET & Hatet - Deluxe",
+        "url": "https://open.spotify.com/album/4VyshA76GkIjxfp44aXtCk"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "duration_ms": 111214,
+      "name": "Hel/Halv",
+      "url": "https://open.spotify.com/track/0kiq7XS5IArAc4trTpW9Q0"
     },
     {
       "added_at": "2025-05-22 22:00:39",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2025-05-22 22:00:39",
       "album": {
-        "name": "Meet Me",
-        "url": "https://open.spotify.com/album/0feypZYACSl2PL5m164tU2"
-      },
-      "artists": [
-        {
-          "name": "Stian.",
-          "url": "https://open.spotify.com/artist/0me84MJMnB6el4dd4WBw4T"
-        },
-        {
-          "name": "Rohat",
-          "url": "https://open.spotify.com/artist/6DaZsLPQ6JeHURwrrSY0cB"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Meet Me",
-      "url": "https://open.spotify.com/track/5h4sKMUrBnPgBqgaO1J8kz"
-    },
-    {
-      "added_at": "2025-05-22 22:00:39",
-      "album": {
         "name": "Natalie",
         "url": "https://open.spotify.com/album/5lWzTiBVNoylShsjwMu7Tz"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 179325,
       "name": "Natalie",
       "url": "https://open.spotify.com/track/1HczbnV2hEtOz8FvMI3rW6"
+    },
+    {
+      "added_at": "2025-05-22 22:00:39",
+      "album": {
+        "name": "Meet Me",
+        "url": "https://open.spotify.com/album/0feypZYACSl2PL5m164tU2"
+      },
+      "artists": [
+        {
+          "name": "Stian.",
+          "url": "https://open.spotify.com/artist/0me84MJMnB6el4dd4WBw4T"
+        },
+        {
+          "name": "Rohat",
+          "url": "https://open.spotify.com/artist/6DaZsLPQ6JeHURwrrSY0cB"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Meet Me",
+      "url": "https://open.spotify.com/track/5h4sKMUrBnPgBqgaO1J8kz"
     }
   ],
   "unique_name": "100 (2)",

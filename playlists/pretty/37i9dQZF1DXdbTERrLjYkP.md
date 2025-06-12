@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent writing their own songs\. Cover: Cassandra Coleman
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,420 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,433 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 59 | [Try Me](https://open.spotify.com/track/6IDx8fFhFIEU7xT3GBvbMf) | [Mae Martin](https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn) | [I'm A TV](https://open.spotify.com/album/05BuE3SIGlbsHhGN1rBstS) | 2:50 |
 | 60 | [If I Had Never Lost My Mind...](https://open.spotify.com/track/7Gv7nvp2Rg2tiB2Ru24ETH) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [If I Had Never Lost My Mind...](https://open.spotify.com/album/0rdw28ZkCG4fAzRzIF4iah) | 3:10 |
 
-Snapshot ID: `aEJn0QAAAADliTu9LwgjMtrz2YiKp22L`
+Snapshot ID: `AAAAAMYewmYXTGUCsNoH3igzW+AiGPbL`

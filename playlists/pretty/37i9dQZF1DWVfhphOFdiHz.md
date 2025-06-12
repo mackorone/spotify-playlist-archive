@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops and LGBTQIA+ artists only\. Cover: King Princess
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,909 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,918 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 99 | [In Emerald](https://open.spotify.com/track/39Rzcw7zHgC4asCKPRVjDx) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [Chandler](https://open.spotify.com/album/6n4MUgNl5I0ZndmMO3AaZV) | 3:30 |
 | 100 | [BAD](https://open.spotify.com/track/2fv6RtYYHCg4qdlAAXePkM) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [BAD](https://open.spotify.com/album/6fLH6vOljGjdAygO4qJ9PA) | 2:38 |
 
-Snapshot ID: `AAAAAEkXEzRZNijQprduyNNBYXaSkzR1`
+Snapshot ID: `aENNMgAAAAAs4ZQ3OpbMTL54hl++xTY6`

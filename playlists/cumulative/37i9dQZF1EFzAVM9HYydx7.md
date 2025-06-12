@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-321 songs - 19 hr 52 min
+323 songs - 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,8 +275,10 @@
 | [SKITZO \(feat\. Young Thug\)](https://open.spotify.com/track/0bkV1iQHSxBaksUqgEkcbc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 6:06 | 2024-06-15 |  |
 | [SKYAMI \(feat\. Mango Foo\)](https://open.spotify.com/track/1bEwAeGJvobpPDTkw1mnb3) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Mango Foo](https://open.spotify.com/artist/7FRSHbAPSN9RLPSsh2a2rV) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:33 | 2024-01-24 |  |
 | [Somebody to Miss You](https://open.spotify.com/track/4iYIvu41J5amGqwy61ERaG) | [Travis Mills](https://open.spotify.com/artist/5fzbfP3jLDaJZe7TdFDXRY) | [All I Wanna Do \(EP\)](https://open.spotify.com/album/7qKgvQvJP7P1uKbSl19Fft) | 3:04 | 2023-12-13 |  |
-| [Sometimes](https://open.spotify.com/track/1XjfZl7mSPX1QSfARs0FM7) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z) | [UNDER8ED](https://open.spotify.com/album/45x9T2H8aU4ckLPOYfGucD) | 4:11 | 2023-12-13 |  |
-| [Southside](https://open.spotify.com/track/7hzs2eAXBVFzags75j03hh) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z) | [UNDER8ED](https://open.spotify.com/album/45x9T2H8aU4ckLPOYfGucD) | 3:27 | 2023-12-13 |  |
+| [Sometimes](https://open.spotify.com/track/46Hf77O2IyreVIS6G8BXIV) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z) | [UNDER8ED](https://open.spotify.com/album/3PDlbCUpbitsraP877GYTQ) | 4:11 | 2025-06-11 |  |
+| [Sometimes](https://open.spotify.com/track/1XjfZl7mSPX1QSfARs0FM7) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z) | [UNDER8ED](https://open.spotify.com/album/45x9T2H8aU4ckLPOYfGucD) | 4:11 | 2023-12-13 | 2025-06-12 |
+| [Southside](https://open.spotify.com/track/7hzs2eAXBVFzags75j03hh) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z) | [UNDER8ED](https://open.spotify.com/album/45x9T2H8aU4ckLPOYfGucD) | 3:27 | 2023-12-13 | 2025-06-12 |
+| [Southside](https://open.spotify.com/track/7AUYitA3rADsfyYaWai7Wv) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z) | [UNDER8ED](https://open.spotify.com/album/3PDlbCUpbitsraP877GYTQ) | 3:27 | 2025-06-11 |  |
 | [Space Rabbit](https://open.spotify.com/track/3Jez7g0MbMXh8jhkxW1uSo) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:58 | 2023-12-13 |  |
 | [Stuck On You](https://open.spotify.com/track/1327DCkONksf0c7eQVeRUG) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Stuck On You \(Official Music Video\)](https://open.spotify.com/album/2zK1QNH0E0yOvF8trHUVrw) | 3:52 | 2023-12-13 | 2024-02-02 |
 | [Stuck On You](https://open.spotify.com/track/3LBM25IgxI9y549SiYxtSi) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 3:25 | 2023-12-16 |  |

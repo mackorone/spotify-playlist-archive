@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 > With FM\-84, Ollie Wride, Gunship and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,424 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,432 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [Figuratives](https://open.spotify.com/track/5wJInZJJbCNBFf6u5SoQ7U) | [MODERNS](https://open.spotify.com/artist/11ixZj3J67XqAo6Tzn3vcf) | [Figuratives](https://open.spotify.com/album/4R83r8uqp3zKtTUB8GhCZE) | 3:28 |
 | 50 | [The Danger](https://open.spotify.com/track/5uSk7CgfTunJpnMbADEUof) | [KRISTINE](https://open.spotify.com/artist/5MveLSSy2uJw20qq12EQ94) | [Kristine](https://open.spotify.com/album/7McQf4SkP9hQpgB30agxUj) | 3:40 |
 
-Snapshot ID: `aEjz1AAAAABXLr/RWyPBm+I8SKT6y3Hf`
+Snapshot ID: `aEo11gAAAAC85Fprozg4icb8wSgy/Ofe`

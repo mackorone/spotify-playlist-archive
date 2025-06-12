@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0thcze.md) - [plain]
 
 > This is Neto Peña\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,272 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,289 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0thcze.md) - [plain]
 | 31 | [Por Tu Piel](https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Por Tu Piel](https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz) | 3:41 |
 | 32 | [No Es Que Sea Mamón](https://open.spotify.com/track/1FyzZCeAoLRqk07Dhh1zVz) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [La Bruja en el Beat](https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [No Es Que Sea Mamón](https://open.spotify.com/album/62xk03MAGxGSGK9A5iao8v) | 4:45 |
 | 33 | [Los de la A](https://open.spotify.com/track/1ihehm2g1nnca5wn5eZsaf) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Chato 473](https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp), [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx) | [Los de la A](https://open.spotify.com/album/75nAlGbzK3WWByNiKqkrK0) | 3:46 |
-| 34 | [Lento Y Contento](https://open.spotify.com/track/3RueKRQPivFxTcDwkTwOjg) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Cora](https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd) | 3:20 |
-| 35 | [Ultimadamente](https://open.spotify.com/track/3IfUGWgiKfBJMt7eCdkZqn) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Toques de Queda](https://open.spotify.com/album/6ctiaGPxGEGW8yrYmzDOvQ) | 3:32 |
+| 34 | [Ultimadamente](https://open.spotify.com/track/3IfUGWgiKfBJMt7eCdkZqn) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Toques de Queda](https://open.spotify.com/album/6ctiaGPxGEGW8yrYmzDOvQ) | 3:32 |
+| 35 | [Lento Y Contento](https://open.spotify.com/track/3RueKRQPivFxTcDwkTwOjg) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Cora](https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd) | 3:20 |
 | 36 | [Portarnos Mal](https://open.spotify.com/track/5GgvusjcTrA3RI8LqvjkvK) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Portarnos Mal](https://open.spotify.com/album/090BtctH6uWl0H1HH088db) | 3:18 |
 | 37 | [Fusionamos](https://open.spotify.com/track/3N6qWG7LH6DbLNaUtJ70z2) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Fusionamos](https://open.spotify.com/album/69RFAgRoXQi5uPAJwns0ql) | 3:14 |
 | 38 | [Malvada](https://open.spotify.com/track/3yE70C2cmJ9FcuIEL7u23e) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Malvada](https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I) | 5:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0thcze.md) - [plain]
 | 49 | [Alzypher Vol\. 3](https://open.spotify.com/track/7mIvi3Y1fVVogsEEMGtqz1) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Malucci](https://open.spotify.com/artist/6QHHahauE7Sf3fgA7JTdYO), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Alzypher Vol\. 3](https://open.spotify.com/album/46ZihTRzRSBPKRuPOE0VRD) | 3:54 |
 | 50 | [Alguien Que Me Cure](https://open.spotify.com/track/7uq7pPp522U0jfAPN6HidR) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Catarsis](https://open.spotify.com/album/3axy5HCe5bZWbJ493RS5ED) | 3:52 |
 
-Snapshot ID: `aEYkAAAAAADwEFvaHt+wradVvoeQYv0Z`
+Snapshot ID: `aEd1gAAAAAD8UyDPaZeQkwUhzIJMOAS8`

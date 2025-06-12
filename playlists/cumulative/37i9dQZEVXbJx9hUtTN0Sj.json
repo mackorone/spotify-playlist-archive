@@ -5910,7 +5910,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 218150,
       "name": "Chauen",
       "url": "https://open.spotify.com/track/4wVcsDUtS6DiuwDNoXUfht"
@@ -6598,7 +6598,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 176242,
       "name": "clich\u00e9",
       "url": "https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu"
@@ -12532,7 +12532,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 192005,
       "name": "Hate It or Love It",
       "url": "https://open.spotify.com/track/4RwOxifGEzFMm6p8DqC8Ny"
@@ -18616,7 +18616,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -25065,6 +25065,32 @@
     },
     {
       "album": {
+        "name": "PANDEMONIUM RELOADED",
+        "url": "https://open.spotify.com/album/6KEJ0oydDeJvHiF0oq9t3J"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        },
+        {
+          "name": "Vladimir Cauchemar",
+          "url": "https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU"
+        },
+        {
+          "name": "Todiefor",
+          "url": "https://open.spotify.com/artist/55SWeOUhlJHrkcuih5J2pQ"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133869,
+      "name": "PROZACZOPIXAN RELOADED",
+      "url": "https://open.spotify.com/track/2KdGSv2jbnShvF4GYVtIna"
+    },
+    {
+      "album": {
         "name": "Push Ups",
         "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
       },
@@ -31172,6 +31198,32 @@
     {
       "album": {
         "name": "DONDA 2",
+        "url": "https://open.spotify.com/album/1ZkGNUz1un0b3Z7EsJl3ci"
+      },
+      "artists": [
+        {
+          "name": "DONDA",
+          "url": "https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137180,
+      "name": "TRUE LOVE",
+      "url": "https://open.spotify.com/track/3WbuQIjkR1mIKdwSNlgqpp"
+    },
+    {
+      "album": {
+        "name": "DONDA 2",
         "url": "https://open.spotify.com/album/1hyxD3HtzCTIUUAZl26f4b"
       },
       "artists": [
@@ -31190,7 +31242,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 137180,
       "name": "TRUE LOVE",
       "url": "https://open.spotify.com/track/6ZbMNLri5DvUHPFi632iy3"
@@ -31276,6 +31328,28 @@
       "duration_ms": 225880,
       "name": "Tu Boda",
       "url": "https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6"
+    },
+    {
+      "album": {
+        "name": "RAHMA",
+        "url": "https://open.spotify.com/album/2foF38pscwjlBO1GLZnZOh"
+      },
+      "artists": [
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        },
+        {
+          "name": "Solann",
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283266,
+      "name": "Tu me verras",
+      "url": "https://open.spotify.com/track/0rESZY6seEWDcHkERUCyQu"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Indigo De Souza
 
-2,130 songs - 4 day 16 hr 46 min
+2,131 songs - 4 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1259,7 +1259,7 @@
 | [Mirror](https://open.spotify.com/track/3ojRuwQJsUQz7o9AYbtfUr) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Mirror](https://open.spotify.com/album/0aqHu5PjLZH3jsbY3hkCF8) | 4:05 | 2022-04-08 | 2022-04-17 |
 | [miss andry](https://open.spotify.com/track/4IxRx6byFf1RuXcbNny5qj) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [miss andry](https://open.spotify.com/album/4BeN8xu9ZEPUIPEFVFHuN6) | 4:23 | 2020-10-13\* | 2020-11-10 |
 | [miss me if u want to](https://open.spotify.com/track/5rwDHRNX2ntvlJbcb8xONo) | [Tipling Rock](https://open.spotify.com/artist/2ZDHVJnLtH2KJfBFzShihr) | [miss me if u want to](https://open.spotify.com/album/5JZ2VGDwBYO2sZwZJOk3A0) | 2:37 | 2020-10-13\* | 2020-11-20 |
-| [Modern Girl](https://open.spotify.com/track/45bMR5YEj1fsOVkcHbVW6s) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:43 | 2024-05-17 |  |
+| [Modern Girl](https://open.spotify.com/track/45bMR5YEj1fsOVkcHbVW6s) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:43 | 2024-05-17 | 2025-06-12 |
 | [Mol y Sol](https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL) | [Brijs](https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV) | [Glitra](https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b) | 3:30 | 2021-05-07 | 2022-04-09 |
 | [mona lisa](https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [mona lisa](https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2) | 3:10 | 2022-02-25 | 2022-07-02 |
 | [Mona Lisa](https://open.spotify.com/track/2JU0uzd2D1JxsvYsfEwZEe) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Mona Lisa](https://open.spotify.com/album/4HWQr1DMWpRjlLf871CWe5) | 3:33 | 2021-11-12 | 2022-04-21 |
@@ -1561,6 +1561,7 @@
 | [Ribs](https://open.spotify.com/track/49GfyfNkOCRFaoSNCAN5GM) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Ribs](https://open.spotify.com/album/1STW8v44VbbFKtmToUurll) | 2:50 | 2023-04-28 | 2023-10-07 |
 | [Ride or Die](https://open.spotify.com/track/22uD6yBefgzRTLrohe4IZs) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Ride or Die](https://open.spotify.com/album/1vMfrkDvP3CDkYGt19voDl) | 3:30 | 2022-01-14 | 2022-08-06 |
 | [Right Thing](https://open.spotify.com/track/4dSOUIj2mJ7gZuW7dbuSB0) | [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [Right Thing](https://open.spotify.com/album/1WFSgrgfu33KqJfk4CWyPW) | 3:42 | 2023-01-23 | 2023-02-04 |
+| [RIP KP](https://open.spotify.com/track/79ntb6PIEy0xSr0DZgIZer) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [RIP KP](https://open.spotify.com/album/3AgWdgUIlQJVHdsdieSHdl) | 2:18 | 2025-06-06 |  |
 | [Ripple](https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Ripple](https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB) | 2:41 | 2025-01-24 |  |
 | [Risk It All](https://open.spotify.com/track/110004u5CbqwZ6mD0elr6l) | [Jackson Harris](https://open.spotify.com/artist/0pW16l7mPsVjS9CdmvOstz) | [Risk It All](https://open.spotify.com/album/2RU5jhdjyOleSiJIBRJKvn) | 3:33 | 2021-05-07 | 2021-05-24 |
 | [Roadkill](https://open.spotify.com/track/3Rlj2kckSXwhcv1NarJyEn) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On a Conditional Form](https://open.spotify.com/album/65l2wbCvQ1XGtZ4PbKqF2i) | 2:55 | 2021-01-18 | 2021-06-03 |

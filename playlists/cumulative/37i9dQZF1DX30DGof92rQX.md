@@ -4,7 +4,7 @@
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Ali Zafar, Salman Paras
 
-225 songs - 11 hr 56 min
+226 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Mila De Rabba](https://open.spotify.com/track/3Qd3AODeibjyNmzhxpA94A) | [Zara Madani](https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9) | [Mila De Rabba](https://open.spotify.com/album/6PhoqHbTkMwqbHuV9f9HzE) | 3:15 | 2025-02-11 |  |
 | [Mithiye](https://open.spotify.com/track/2kEIqXfyyy4NZuQ7ngCsgl) | [Belaal](https://open.spotify.com/artist/43yRI94YNMeWDCF0FLX8m2), [Umair Butt](https://open.spotify.com/artist/4E2wX4DFQFhlLyVzRw0C1P), [Sherry Khattak](https://open.spotify.com/artist/2diSCa9Rt1feixkDPgDWux) | [Mithiye](https://open.spotify.com/album/1bhk7Gqdmyt94Nrr0PWBPH) | 3:06 | 2025-05-30 |  |
 | [moon](https://open.spotify.com/track/0dzEAbC8W01T1uJb1BDRtA) | [Bilal Khalid](https://open.spotify.com/artist/2KsaM9MOzw8IxyaxiN9YXf), [Daniyaal Omar](https://open.spotify.com/artist/2GbKYLI5CCtuGpz1tdubYz), [MUSAFIRR](https://open.spotify.com/artist/6cyLY2qToYqZzBOtJMdL4b) | [moon](https://open.spotify.com/album/6tPqgaMe31wJ0PYNG0LoBu) | 3:39 | 2024-06-28 | 2025-01-17 |
+| [Mujh Se Duur](https://open.spotify.com/track/0wCtnWUf3RrjUWSWM4FhP8) | [Eid Milan](https://open.spotify.com/artist/7BKTvq04dovtVmBCJN2jQj) | [LOLLYWOOD TAPES](https://open.spotify.com/album/57mBQ0Rbj7gyllup5448wy) | 1:13 | 2025-06-11 |  |
 | [Mumtaaz](https://open.spotify.com/track/5K31v6y0QwaeRRABsCr84R) | [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Mumtaaz](https://open.spotify.com/album/68UHkfoFPcC5MvJVcpeBIt) | 3:31 | 2025-02-11 |  |
 | [Munda on the Rise](https://open.spotify.com/track/3ZagK9zctddsHG3obsanV5) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP), [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Munda on the Rise](https://open.spotify.com/album/2Q9bAovUi19yqd5NDE6zso) | 3:33 | 2025-01-17 | 2025-06-06 |
 | [Musafir Khano](https://open.spotify.com/track/5VHj1Z4ccCPoyufzqrNjfK) | [Amjad Mirani](https://open.spotify.com/artist/74OHc8uMJcIHHjVTVMTfZu), [Babar Mangi](https://open.spotify.com/artist/7zDKZRpusSBsdEa3sUvnQv), [Kaashi Haider](https://open.spotify.com/artist/0ziRedFzsY5tItlM7Jb9jf) | [Musafir Khano](https://open.spotify.com/album/3tZByv2hyjF4zYuLY2ubQN) | 3:27 | 2024-12-12 | 2025-01-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,147 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,158 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 48 | [Doing Of The Lord](https://open.spotify.com/track/4r966NZHJtBkOpfhXVFdxY) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Doing Of The Lord](https://open.spotify.com/album/0Ff26WWIzgkiSxWVemAtxD) | 4:19 |
 | 49 | [Nwachinemelu](https://open.spotify.com/track/4TKB7cAwgWwkVQ3KJxl7s8) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Nwachinemelu](https://open.spotify.com/album/2JKnfrfl4fuSOybUMxjjYL) | 3:06 |
 | 50 | [I Know Who I Am](https://open.spotify.com/track/6ATZruJOCm9ORqzLK27rwG) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Shout It Loud](https://open.spotify.com/album/4g8iTahsd8a7fVTSCSxHBq) | 6:10 |
-| 51 | [Know Jesus, Know Road](https://open.spotify.com/track/7ifOnQtBchzbIuA9DN8YLJ) | [Steve Williz](https://open.spotify.com/artist/6btXkqPkFD0w39C299Gz2K), [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Know Jesus, Know Road](https://open.spotify.com/album/2DvdNBFHbRq772GynhQJj8) | 4:12 |
+| 51 | [Know Jesus, Know Road \- Live](https://open.spotify.com/track/7ifOnQtBchzbIuA9DN8YLJ) | [Steve Williz](https://open.spotify.com/artist/6btXkqPkFD0w39C299Gz2K), [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Know Jesus, Know Road \(Live\)](https://open.spotify.com/album/2DvdNBFHbRq772GynhQJj8) | 4:12 |
 | 52 | [FOUNTAIN](https://open.spotify.com/track/02h7yGsIosbSIvcAlwf0oZ) | [Giliane](https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t), [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [FOUNTAIN](https://open.spotify.com/album/6SpIR8mUXO4dY85hnftSdT) | 2:04 |
 | 53 | [CHILD OF GOD](https://open.spotify.com/track/01kkDeb3etCfFzvf4AqoJq) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [CHILD OF GOD](https://open.spotify.com/album/4xR6DeIKUvnm0vtjxEq0Z7) | 2:31 |
 | 54 | [Agbeniga \(The Lifter\)](https://open.spotify.com/track/0lmzuvXSua8tu2Sn5IF8mn) | [Adeyinka Alaseyori](https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob) | [Agbeniga \(The Lifter\)](https://open.spotify.com/album/3OZqbyN5SnSl1fUZxQrm0g) | 4:02 |

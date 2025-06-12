@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 528256,
+  "num_followers": 528432,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,34 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Trap Capos II",
+        "url": "https://open.spotify.com/album/0OQZL8ymQ9RDHaBULw9kCG"
+      },
+      "artists": [
+        {
+          "name": "Trap Capos",
+          "url": "https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "De las 2 (feat. Bad Bunny & Arc\u00e1ngel)",
+      "url": "https://open.spotify.com/track/4DS7HoqrKq1dDjeYOKBlu9"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Solita",
         "url": "https://open.spotify.com/album/27Exjl2H0oI6X0WCzZd7Bk"
       },
@@ -203,34 +231,6 @@
       "duration_ms": 311726,
       "name": "Solita",
       "url": "https://open.spotify.com/track/7rwX0O3RlxqqIjQM8evm5E"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Trap Capos II",
-        "url": "https://open.spotify.com/album/0OQZL8ymQ9RDHaBULw9kCG"
-      },
-      "artists": [
-        {
-          "name": "Trap Capos",
-          "url": "https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "De las 2 (feat. Bad Bunny & Arc\u00e1ngel)",
-      "url": "https://open.spotify.com/track/4DS7HoqrKq1dDjeYOKBlu9"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -287,26 +287,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Me Acostumbre (feat. Bad Bunny)",
-        "url": "https://open.spotify.com/album/4yE7L5RhMkjX7KkweWjFYk"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 263288,
-      "name": "Me Acostumbre (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Amigos y Enemigos (Remix)",
         "url": "https://open.spotify.com/album/3pUkjrzOZhiaipOiANpLuF"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 295304,
       "name": "Amigos y Enemigos (feat. Bad Bunny & Almighty) - Remix",
       "url": "https://open.spotify.com/track/2sA4woGW5KgEgGXXxOKPAZ"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Me Acostumbre (feat. Bad Bunny)",
+        "url": "https://open.spotify.com/album/4yE7L5RhMkjX7KkweWjFYk"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 263288,
+      "name": "Me Acostumbre (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/2FIm6YsSGL5acOqSuJDh5s"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -407,6 +407,38 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Bubalu",
+        "url": "https://open.spotify.com/album/6JEvViJkAj8GjJbTeU5I7q"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 228493,
+      "name": "Bubalu",
+      "url": "https://open.spotify.com/track/7dNwJbsT0sg1le5kVugGJb"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Po' encima (feat. Bryant Myers)",
         "url": "https://open.spotify.com/album/2Z1xWYZFxCz2QNIVpAZ3xf"
       },
@@ -443,38 +475,6 @@
       "duration_ms": 276768,
       "name": "Vas a Querer Volver (feat. Ne\u00f1go Flow)",
       "url": "https://open.spotify.com/track/1WDDZngXuT5o8ePqXeNtvM"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Bubalu",
-        "url": "https://open.spotify.com/album/6JEvViJkAj8GjJbTeU5I7q"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        },
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 228493,
-      "name": "Bubalu",
-      "url": "https://open.spotify.com/track/7dNwJbsT0sg1le5kVugGJb"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Bando Boyz Free",
-        "url": "https://open.spotify.com/album/5WPXLBp8n4yrU9Zzrr4iq5"
-      },
-      "artists": [
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 179244,
-      "name": "Bando Boyz Free",
-      "url": "https://open.spotify.com/track/6xX1coEqiOl3EhKCjNgxvr"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Apaga el celular",
         "url": "https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 225942,
       "name": "Apaga el Celular",
       "url": "https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Bando Boyz Free",
+        "url": "https://open.spotify.com/album/5WPXLBp8n4yrU9Zzrr4iq5"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 179244,
+      "name": "Bando Boyz Free",
+      "url": "https://open.spotify.com/track/6xX1coEqiOl3EhKCjNgxvr"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -2155,30 +2155,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Haters (Remix)",
-        "url": "https://open.spotify.com/album/7eh4EPAHsOFpon6iG7q75Q"
-      },
-      "artists": [
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-        }
-      ],
-      "duration_ms": 328706,
-      "name": "Haters - Remix",
-      "url": "https://open.spotify.com/track/1XuH3RXp7sCFPNof6xvFlm"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Scarface",
         "url": "https://open.spotify.com/album/0zoPlDSldE5qdPaoOzSqvn"
       },
@@ -2199,6 +2175,30 @@
       "duration_ms": 225230,
       "name": "Scarface",
       "url": "https://open.spotify.com/track/0NMfbBpDkMp4WnAOnRFoiw"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Haters (Remix)",
+        "url": "https://open.spotify.com/album/7eh4EPAHsOFpon6iG7q75Q"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        }
+      ],
+      "duration_ms": 328706,
+      "name": "Haters - Remix",
+      "url": "https://open.spotify.com/track/1XuH3RXp7sCFPNof6xvFlm"
     },
     {
       "added_at": "2024-03-08 16:14:30",

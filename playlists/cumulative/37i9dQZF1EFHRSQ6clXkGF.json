@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/7C0o4kiZosGwLdgsdHKmtU"
+      },
+      "artists": [
+        {
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160893,
+      "name": "Alchemy",
+      "url": "https://open.spotify.com/track/2xoH0GxWAq8AxivBQdg4SY"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
       },

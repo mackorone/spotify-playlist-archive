@@ -4,7 +4,7 @@
 
 > When my mouth has no words, let my spirit sing
 
-89 songs - 12 hr 39 min
+90 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Alignment Chant \- EP](https://open.spotify.com/track/0t7faQrQwjAZYxQyODCj6z) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [Alignment Chant](https://open.spotify.com/album/1aDMbqtd24f2gedKY5D17e) | 13:30 | 2025-02-14 |  |
 | [At All Cost](https://open.spotify.com/track/6GwE4OioGK8oOaC8nKJffy) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 8:56 | 2024-07-26 |  |
 | [Awake](https://open.spotify.com/track/70GaF6ifYZpt4i2IQNfw2y) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 6:20 | 2024-07-26 |  |
-| [Breathe on Me](https://open.spotify.com/track/47AuDsrAwLlkaKZMtthqX9) | [Elijah Oyelade](https://open.spotify.com/artist/2oRaSHeT9xVpXFvon3U4ak) | [Spirit Pray](https://open.spotify.com/album/0fEuILLwD5b4EIKuXg40k4) | 7:21 | 2024-07-26 |  |
+| [Breathe on Me](https://open.spotify.com/track/47AuDsrAwLlkaKZMtthqX9) | [Elijah Oyelade](https://open.spotify.com/artist/2oRaSHeT9xVpXFvon3U4ak) | [Spirit Pray](https://open.spotify.com/album/0fEuILLwD5b4EIKuXg40k4) | 7:21 | 2024-07-26 | 2025-06-12 |
 | [Burning with the Holy Ghost](https://open.spotify.com/track/6etwAw9xwGZzr9Te2Mp9Dw) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 5:29 | 2024-07-26 |  |
 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 | 2024-07-26 |  |
 | [Captured My Heart](https://open.spotify.com/track/0mkiOUQl052rRacosA5fS4) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap) | 10:31 | 2024-07-26 |  |
@@ -96,6 +96,7 @@
 | [Worship Session \- Live](https://open.spotify.com/track/3Wl0zyeRCieaF2hBN3q5du) | [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Seun Dede](https://open.spotify.com/artist/2EbUQQwtbJqZMhiK23HMFw) | [Worship Session \(Live\)](https://open.spotify.com/album/3u4zypZmoYigbASxOGbYPJ) | 51:01 | 2024-07-26 |  |
 | [Yahweh \- Live](https://open.spotify.com/track/4IHbHNYL5qlk53XPvxg8kc) | [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW) | [The Declaration \(Live\)](https://open.spotify.com/album/61ORlXf6oUCesajS1E6FfQ) | 8:32 | 2024-07-26 | 2025-03-24 |
 | [Yeshua Hamashiach \(Overture\)](https://open.spotify.com/track/3hbjwNtFbsRjjPA08oeSLS) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [OYINKAN KOKU\-BAZUAYE](https://open.spotify.com/artist/4MsiVr0uduVTupBlpBs4D9) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 7:58 | 2024-07-26 |  |
+| [You And I](https://open.spotify.com/track/6HIyZBVcETC6ODKlNl87fl) | [Emon brill](https://open.spotify.com/artist/7h0bNvKAuQUJa1LhEMzjuO) | [You And I](https://open.spotify.com/album/5PdH8dt3ToFnm4BbCEteGR) | 7:33 | 2025-03-21 |  |
 | [You Cover Me](https://open.spotify.com/track/37JvyLbD2sZqJb0xVYE80U) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [You Cover Me](https://open.spotify.com/album/3MpNFst8nlIyBLSt17ErjT) | 17:58 | 2024-07-26 |  |
 
 \*This playlist was first scraped on 2025-02-03. Prior content cannot be recovered.

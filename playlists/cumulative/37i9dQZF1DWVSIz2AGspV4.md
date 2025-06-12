@@ -4,7 +4,7 @@
 
 > أحدث الاغاني العراقية\. غلاف: علي صابر
 
-321 songs - 18 hr 53 min
+322 songs - 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Bajer Jay](https://open.spotify.com/track/6OF9M3Z93gZ0mVqWir9lCB) | [b0\_3ateeej](https://open.spotify.com/artist/3u6nwCWGoZdg5fHJduQh0q) | [Bajer Jay \(باجر جاي\)](https://open.spotify.com/album/4yDWJwk3R6LCSZvdENDUII) | 3:44 | 2022-06-09 | 2023-02-09 |
 | [Bakeni](https://open.spotify.com/track/5b0xHD3oaK3CfnMuiZzSAi) | [Karar Salah](https://open.spotify.com/artist/7rIhO4AYbAaZlGQeMAAFg5) | [Bakeni](https://open.spotify.com/album/6pev4hGsRKRL86rTf4UTDx) | 2:58 | 2021-12-23 | 2022-01-21 |
 | [Baqy](https://open.spotify.com/track/1Z0uOrpc5n6YfiJMEYryFz) | [Mahfoud AlMaher](https://open.spotify.com/artist/4VYdwh1l1CyIp0T4LhOHNI) | [Baqy](https://open.spotify.com/album/5kWR9AVsfRWJxenTGSTYqm) | 3:42 | 2022-05-20 | 2022-11-21 |
-| [Bas Anti 7Elwah](https://open.spotify.com/track/2VJDUOnPYZpSV2Yyin0sww) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa), [Husam Al\-Majed](https://open.spotify.com/artist/49n1zV0bM3vt9WnCcu2CPC) | [Bas Anti 7Elwah](https://open.spotify.com/album/13AdTKBzFuRDMWiGKlbMJw) | 2:33 | 2023-12-26 |  |
+| [Bas Anti 7Elwah](https://open.spotify.com/track/2VJDUOnPYZpSV2Yyin0sww) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa), [Husam Al\-Majed](https://open.spotify.com/artist/49n1zV0bM3vt9WnCcu2CPC) | [Bas Anti 7Elwah](https://open.spotify.com/album/13AdTKBzFuRDMWiGKlbMJw) | 2:33 | 2023-12-26 | 2025-06-12 |
 | [Bas Hobak](https://open.spotify.com/track/1tfDBTvz8CoQe4l0qj95cI) | [Sattar Saad](https://open.spotify.com/artist/2XwGAWUjz9JYas4QTq0lQN) | [Bas Hobak](https://open.spotify.com/album/6edrNF0WigIK3MY3PCsfe3) | 4:13 | 2024-02-06 |  |
 | [Batalt Aetebhom](https://open.spotify.com/track/6vOwgQuNb1LTfaT6sm4ePO) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Batalt Aetebhom](https://open.spotify.com/album/6njjYy9ymLa3HufH4WYV1z) | 4:02 | 2022-11-18 | 2023-06-19 |
 | [Bent Qalbak](https://open.spotify.com/track/35jlqZFszcA1otazUjkzXL) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Bent Qalbak](https://open.spotify.com/album/0cPHtDdJjrWNFHIO4yJOMi) | 3:28 | 2023-03-16 | 2023-09-30 |
@@ -151,6 +151,7 @@
 | [Hasid Ruhi](https://open.spotify.com/track/4iAkXgXx62xHIxgLeUxQJl) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Hasid Ruhi](https://open.spotify.com/album/5pwWK0rAarPm3OBcg86Qzv) | 3:32 | 2022-11-12 | 2023-04-27 |
 | [Hatha Elshog](https://open.spotify.com/track/1lUCqzlZvfi2aFS5EZMwJb) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Hatha Elshog](https://open.spotify.com/album/26MNNiLNBmJ51vGRYuX9Df) | 3:38 | 2022-11-05 | 2023-06-13 |
 | [Hawel Taof](https://open.spotify.com/track/5NRRB0hTDQQo953KAQvs0m) | [Karar Mohamed](https://open.spotify.com/artist/6Hl4Hv6nzDifw6SogShouS) | [Hawel Taof](https://open.spotify.com/album/0jUrAi8X3csj7B7BRIaVU1) | 3:45 | 2022-03-03 | 2022-07-20 |
+| [Hazzi](https://open.spotify.com/track/6bxa1vWgj60E3TVV6vNMYM) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Hazzi](https://open.spotify.com/album/1RO4O80oZlfxCxZl9GuiM3) | 2:37 | 2025-06-11 |  |
 | [Helem Geffey](https://open.spotify.com/track/2F48MRUip6OrIEs2vJ0QVA) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Helem Geffey](https://open.spotify.com/album/1V23wqZu0pJmJ3TANpCycg) | 3:14 | 2024-05-02 | 2025-06-04 |
 | [Helo Hal Shuur](https://open.spotify.com/track/3uISh70Fop6BaAEQTpfUSW) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Helo Hal Shuur](https://open.spotify.com/album/7JHeEldInEzQ2mWDDYeCWv) | 4:34 | 2023-09-19 | 2024-11-24 |
 | [Helwah W Samra](https://open.spotify.com/track/4w7ckJ5kLxaGUo7UUFVXtj) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Helwah W Samra](https://open.spotify.com/album/5dpyo1HGF6vl99NDdGjdXH) | 3:21 | 2023-12-05 | 2025-05-24 |

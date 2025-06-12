@@ -12007,6 +12007,24 @@
     },
     {
       "album": {
+        "name": "GLOW",
+        "url": "https://open.spotify.com/album/5bN1rEaxjAkoIRRVk6R2iz"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130231,
+      "name": "Keep a Secret",
+      "url": "https://open.spotify.com/track/1ipDqVFgmVOAcboxe9Yiei"
+    },
+    {
+      "album": {
         "name": "Love or Loved, Pt. 1",
         "url": "https://open.spotify.com/album/3EQ7btJiTEaKDE8I1uScm4"
       },

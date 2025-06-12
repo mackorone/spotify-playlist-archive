@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: LE SSERAFIM
 
-1,485 songs - 3 day 7 hr 4 min
+1,486 songs - 3 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -645,6 +645,7 @@
 | [Just be yourself](https://open.spotify.com/track/6JQejkZXevMZeRBq8BpBFp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Just be yourself](https://open.spotify.com/album/580je4ls7G3Ul39rZzqXOC) | 3:20 | 2022-03-22 | 2022-06-29 |
 | [JUST BREATHE \- feat\. 3RACHA of Stray Kids](https://open.spotify.com/track/6PqDYUTmTGXnCfSDhm6AlJ) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [3RACHA of Stray Kids](https://open.spotify.com/artist/1GpgROLET8tI7DKTRz4EgO) | [JUST BREATHE \(feat\. 3RACHA of Stray Kids\)](https://open.spotify.com/album/4LYNdaRg79Yfj6nEPIB9L8) | 3:50 | 2022-02-22 | 2022-05-11 |
 | [Just for one day](https://open.spotify.com/track/6QTgxMjYeWbYTR9iTN6RPF) | [NiiiiiA](https://open.spotify.com/artist/0sINulttJuGzx4hGKDfuDC) | [NiiiiiA 1st Solo Mini Album '2Years'](https://open.spotify.com/album/3ohfZOqwSP5cI11MYJmElr) | 3:46 | 2022-08-03 | 2022-08-24 |
+| [Keep a Secret](https://open.spotify.com/track/1ipDqVFgmVOAcboxe9Yiei) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [GLOW](https://open.spotify.com/album/5bN1rEaxjAkoIRRVk6R2iz) | 2:10 | 2025-06-10 |  |
 | [Keep me up](https://open.spotify.com/track/1h3hfUrphvCzFNPCsglzp2) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Love or Loved, Pt\. 1](https://open.spotify.com/album/3EQ7btJiTEaKDE8I1uScm4) | 3:26 | 2022-11-17 | 2023-01-18 |
 | [Keep on Moving](https://open.spotify.com/track/4nS2rDbFUcvcrNoTEQFJJM) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe \(Japanese Ver.\) / Keep on Moving \-Special Edition\-](https://open.spotify.com/album/5tyosIYVnbP67FGL9o8Xx6) | 3:06 | 2024-08-20 | 2024-09-25 |
 | [Keep on Moving \(Korean Version\)](https://open.spotify.com/track/1yxwMcQCslhKvGHA4OnNaj) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Keep on Moving \(Korean Version\)](https://open.spotify.com/album/4q1Pmz0UWvz6LoiNF6q63r) | 3:06 | 2024-09-24 | 2024-10-24 |

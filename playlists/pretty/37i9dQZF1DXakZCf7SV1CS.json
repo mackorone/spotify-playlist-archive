@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 88612,
+  "num_followers": 88626,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/3b1HpQXYsbf9yY1l3O4yOS"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "duration_ms": 290061,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/0kFQVrQnp6FtvBTixDUfSd"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "Deadstream (Rostam Version)",
         "url": "https://open.spotify.com/album/1uRWSPrJvL0tS1BBuuFnvK"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 196493,
       "name": "Deadstream - Rostam Version",
       "url": "https://open.spotify.com/track/7ntAb3KnQscHU3beKUI012"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/3b1HpQXYsbf9yY1l3O4yOS"
-      },
-      "artists": [
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        }
-      ],
-      "duration_ms": 290061,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/0kFQVrQnp6FtvBTixDUfSd"
     },
     {
       "added_at": "2024-10-09 21:55:22",

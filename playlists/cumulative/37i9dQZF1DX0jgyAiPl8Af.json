@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "A Quiet Measure",
+        "url": "https://open.spotify.com/album/064FOaz6IDEc24eUjnhcfj"
+      },
+      "artists": [
+        {
+          "name": "Ned Regan",
+          "url": "https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169798,
+      "name": "A Quiet Measure",
+      "url": "https://open.spotify.com/track/5q67OyAvjtKpCcjt2WrWH4"
+    },
+    {
+      "album": {
         "name": "A Sarabande",
         "url": "https://open.spotify.com/album/1ZktLifDStzFBtykjoFzHb"
       },
@@ -2206,7 +2224,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 192416,
       "name": "Casting Shadows",
       "url": "https://open.spotify.com/track/2BOy2Kv6cEOv7SOl9XYDWW"
@@ -3038,6 +3056,24 @@
       "duration_ms": 146181,
       "name": "Davos",
       "url": "https://open.spotify.com/track/1HysgmozgWjfu83BAbEdtc"
+    },
+    {
+      "album": {
+        "name": "Day Break",
+        "url": "https://open.spotify.com/album/3CwJPDKz6DsLpG5Ll14u8W"
+      },
+      "artists": [
+        {
+          "name": "Riley Howe",
+          "url": "https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152362,
+      "name": "Day Break",
+      "url": "https://open.spotify.com/track/6TgJqQlvZ9jLrVGsPdbGXD"
     },
     {
       "album": {
@@ -4558,6 +4594,24 @@
       "duration_ms": 159250,
       "name": "Ferry",
       "url": "https://open.spotify.com/track/7lJRSS6MFE1xNIRpQ6rVDM"
+    },
+    {
+      "album": {
+        "name": "Field",
+        "url": "https://open.spotify.com/album/4diUNRlr7IBAx9TiL9EKjl"
+      },
+      "artists": [
+        {
+          "name": "David Sereno",
+          "url": "https://open.spotify.com/artist/25j4WPpCFt8QQUnb7TmREb"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137750,
+      "name": "Field",
+      "url": "https://open.spotify.com/track/4LrY7WhlwMyEl6dY03ckGP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-147 songs - 8 hr 22 min
+149 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Back Around](https://open.spotify.com/track/3m9uxUtp0P8dF3U0Uny0uY) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Believe Me Now?](https://open.spotify.com/album/70szmVYkj3Y8y1wh3bxkMR) | 2:36 | 2024-09-14 |  |
 | [Bang Bang \(feat\. Donna Missal\)](https://open.spotify.com/track/2nuQAULY22Sm8s4LsALj84) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 3:08 | 2024-06-13 |  |
 | [Black Light](https://open.spotify.com/track/6XsjMGPp015u8Ykod0KMUj) | [SJAY Music](https://open.spotify.com/artist/3EwtOLCqfnvcF2CY9b64gN), [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Black Light](https://open.spotify.com/album/6RL4nOMfiTDBjhzRnpiMas) | 2:55 | 2024-06-13 |  |
+| [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 | 2025-06-11 |  |
 | [Body Talk \(feat\. Clementine Douglas\)](https://open.spotify.com/track/7xn2WAbQfGjh8Xjs7zEWGf) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Body Talk \(feat\. Clementine Douglas\)](https://open.spotify.com/album/1wLLPmBzS0vlU6ZEqp7NRb) | 2:12 | 2024-12-17 |  |
 | [Call Out](https://open.spotify.com/track/3nONMKE40ClWSyT7zMqxdl) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Call Out](https://open.spotify.com/album/5MvloWk6nlyJ53zMcwLijk) | 4:10 | 2024-06-13 |  |
 | [Caught In Your Rhythm](https://open.spotify.com/track/2UjMBCiA9gdDoSguLxrbBP) | [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Caught In Your Rhythm](https://open.spotify.com/album/5DksuDz9GUGMV5vOmMBo7U) | 3:11 | 2024-06-13 |  |
@@ -94,6 +95,7 @@
 | [Night To Remember](https://open.spotify.com/track/2t0foGmnz3XeGyAT7qs6QR) | [Ku De Ta](https://open.spotify.com/artist/39oQK5CtIHrU6EuaWtJpnU), [Sylvia Mwenze](https://open.spotify.com/artist/0tlyRkMBhTczE7WwefhApo) | [Night To Remember](https://open.spotify.com/album/0SKTNZZUfr0iXAalJxhLce) | 2:55 | 2024-06-13 |  |
 | [No Hero](https://open.spotify.com/track/51KIZQHx2RX54HQQX35HbS) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [KBVOL.5](https://open.spotify.com/album/3zqfP3jTQPDNtCBknPV1MU) | 3:15 | 2024-06-13 |  |
 | [No One Else](https://open.spotify.com/track/2gWRWycfoK1CMbOWKy0bp2) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Cognition](https://open.spotify.com/album/6T8lsInCHvVedcVchEBS2l) | 4:13 | 2024-06-13 |  |
+| [Nobody Knows](https://open.spotify.com/track/3vF2wvLHg3QK1MwqeiUOUb) | [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Nobody Knows](https://open.spotify.com/album/59NaZf5szsgzHSG6tYLOAp) | 4:21 | 2025-06-11 |  |
 | [Options \(feat\. Lil Baby\)](https://open.spotify.com/track/0aQD4RI0U4pHWzNzQWTq9r) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [A Jaguar's Dream](https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP) | 2:32 | 2025-01-26 |  |
 | [Options \(feat\. Lil Baby\)](https://open.spotify.com/track/4oQ49ddwS8JEatZvzObZIy) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Options \(feat\. Lil Baby\)](https://open.spotify.com/album/4KKJBvUhEHZpW6vJPp3aKR) | 2:32 | 2024-12-17 | 2025-01-27 |
 | [Out My Mind](https://open.spotify.com/track/67x9A5uxv2QH7xnjUbIoCM) | [GW Harrison](https://open.spotify.com/artist/4SLEjYifqonlEHnZHLXnI4) | [Out My Mind](https://open.spotify.com/album/0WE5uN6u7HSF1tAS29gmP3) | 3:03 | 2024-06-13 |  |

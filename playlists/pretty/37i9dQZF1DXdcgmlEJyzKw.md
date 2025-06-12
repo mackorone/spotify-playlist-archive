@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcgmlEJyzKw.md) - [plain]
 
 > Early explorations with recorded sounds as instruments \-  the groundwork for sampling as we know it today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,812 likes - 63 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,837 likes - 63 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcgmlEJyzKw.md) - [plain]
 | 62 | [The 4 Beasts' Amen: Communion: Scala angelica](https://open.spotify.com/track/1ui3g44yhB54q49SJew7dT) | [Hans\-Ola Ericsson](https://open.spotify.com/artist/7hyDap4bASASc6FEB4AwGE), [Susanne Rydén](https://open.spotify.com/artist/0nOPGVvHRYzJW76c3OiWaX), [Tommy Bjork](https://open.spotify.com/artist/5J58YZbJGx52On04YhsyEo), [Anders Hannus](https://open.spotify.com/artist/73RsH4cR30T8nmEsxgLa3d) | [Ericsson: the Four Beasts' Amen / Melody To the Memory of Lost Friend Xiii](https://open.spotify.com/album/6b6VzFCC4rpMkkTaBMr9iZ) | 8:04 |
 | 63 | [Synchronisms No\. 6](https://open.spotify.com/track/3I0gtCsE6xQtyp0jgCPouV) | [Mario Davidovsky](https://open.spotify.com/artist/0RkeeCvii56vYCER2jY5IH), [Aleck Karis](https://open.spotify.com/artist/5infXBnDBbGBPoWNBslhRH) | [Secret Geometry](https://open.spotify.com/album/5ATviy3QWhI6OuzJiN9tr3) | 7:06 |
 
-Snapshot ID: `aC7sXAAAAABNdVFOL8vMi+bgyy2kp/tV`
+Snapshot ID: `AAAAAAluc6yZDm939HobrB5Jzv2fDvM1`

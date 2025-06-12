@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WdWXzlAP9E.md) - [plain]
 
 > Live recordings from the iconic 1969 Woodstock Music Festival
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,158 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,212 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WdWXzlAP9E.md) - [plain]
 | 49 | [Jingo \- Live at The Woodstock Music & Art Fair, August 16, 1969](https://open.spotify.com/track/5rkZeOyAJsJAtPISozG60l) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Woodstock Saturday August 16, 1969 \(Live\)](https://open.spotify.com/album/0sD74v39fruVV6LM9cP6G4) | 4:21 |
 | 50 | [Star Spangled Banner \- Live at The Woodstock Music & Art Fair, August 18, 1969](https://open.spotify.com/track/3lpa6fzS3rSAbRogEhWxu7) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Live at Woodstock](https://open.spotify.com/album/3ok1qnMfMHuJTjPo5G0sQc) | 3:43 |
 
-Snapshot ID: `AAAAAKcodceGH4lV8HWK2Sn8ENwtb6DK`
+Snapshot ID: `Zow7XwAAAADzf3u4XtiaE/ubBBstPWI2`

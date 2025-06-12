@@ -11757,6 +11757,28 @@
     },
     {
       "album": {
+        "name": "Sunset Boulevard",
+        "url": "https://open.spotify.com/album/2gP8X7vYXXLRRc1xc236Ji"
+      },
+      "artists": [
+        {
+          "name": "Tom Francis",
+          "url": "https://open.spotify.com/artist/1BmpFeWuQkyVbGLIzebnRD"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198160,
+      "name": "Sunset Boulevard",
+      "url": "https://open.spotify.com/track/4fVWMrGH0eBrfZtnbkN7RZ"
+    },
+    {
+      "album": {
         "name": "Symphonic Suites",
         "url": "https://open.spotify.com/album/703iWzddbLPDDRb1dOrd66"
       },

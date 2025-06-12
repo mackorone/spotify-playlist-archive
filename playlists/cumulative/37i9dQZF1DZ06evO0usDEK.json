@@ -1210,10 +1210,32 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 203733,
       "name": "You've Got a Friend",
       "url": "https://open.spotify.com/track/3zlLG1ZplOevRjsoUxChrs"
+    },
+    {
+      "album": {
+        "name": "Roberta Flack & Donny Hathaway",
+        "url": "https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203733,
+      "name": "You've Got a Friend",
+      "url": "https://open.spotify.com/track/5UHpNbocPg0TdGOkf6QX8Z"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0usDEK"

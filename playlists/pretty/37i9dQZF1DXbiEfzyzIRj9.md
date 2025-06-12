@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 ### [Altar JP](https://open.spotify.com/playlist/37i9dQZF1DXbiEfzyzIRj9)
 
-> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Stupid Kozo
+> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Stones Taro
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,156 likes - 99 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,159 likes - 99 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Risky Dice](https://open.spotify.com/track/2BlXpDoccN7pkGjMEgusVi) | [Tokyo Community Radio](https://open.spotify.com/artist/07CaXB3DGJ32RvPWqFsmig), [Stupid Kozo](https://open.spotify.com/artist/3f012UB1Piib4r7kKfixDF) | [SESSIONS COLLECTION VOL.3](https://open.spotify.com/album/0D7FhraZXPvUjXjv7BnZfd) | 4:27 |
+| 1 | [Daytime Smoke](https://open.spotify.com/track/6OIMWG1qlk1wzCcc91AcUT) | [Tokyo Community Radio](https://open.spotify.com/artist/07CaXB3DGJ32RvPWqFsmig), [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [SESSIONS COLLECTION VOL.3](https://open.spotify.com/album/0D7FhraZXPvUjXjv7BnZfd) | 4:59 |
 | 2 | [CYCLE’25](https://open.spotify.com/track/1S3z7vwxZ2eouwAnoKxq9W) | [Tokyo Community Radio](https://open.spotify.com/artist/07CaXB3DGJ32RvPWqFsmig), [Licaxxx](https://open.spotify.com/artist/2u7KzLObg2wxMYkxQ5OAhR) | [SESSIONS COLLECTION VOL.3](https://open.spotify.com/album/0D7FhraZXPvUjXjv7BnZfd) | 4:54 |
-| 3 | [Daytime Smoke](https://open.spotify.com/track/6OIMWG1qlk1wzCcc91AcUT) | [Tokyo Community Radio](https://open.spotify.com/artist/07CaXB3DGJ32RvPWqFsmig), [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [SESSIONS COLLECTION VOL.3](https://open.spotify.com/album/0D7FhraZXPvUjXjv7BnZfd) | 4:59 |
-| 4 | [About To Begin](https://open.spotify.com/track/5bF7tpXlhyfA7EwQ5sdOZh) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [About To Begin / Cars Pass By Like Childhood Sweethearts](https://open.spotify.com/album/0SQV9DefT0wIBz9aCYehmu) | 3:30 |
-| 5 | [Like I Like It](https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Too Big For B\-Side](https://open.spotify.com/album/5jtv44Kb5NZmbRDfpCTIWE) | 3:44 |
-| 6 | [Don't Stop](https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Don't Stop](https://open.spotify.com/album/0rSgVoJE8fncqD9bJU0Ltq) | 2:27 |
+| 3 | [About To Begin](https://open.spotify.com/track/5bF7tpXlhyfA7EwQ5sdOZh) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [About To Begin / Cars Pass By Like Childhood Sweethearts](https://open.spotify.com/album/0SQV9DefT0wIBz9aCYehmu) | 3:30 |
+| 4 | [Like I Like It](https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Too Big For B\-Side](https://open.spotify.com/album/5jtv44Kb5NZmbRDfpCTIWE) | 3:44 |
+| 5 | [Don't Stop](https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Don't Stop](https://open.spotify.com/album/0rSgVoJE8fncqD9bJU0Ltq) | 2:27 |
+| 6 | [Risky Dice](https://open.spotify.com/track/2BlXpDoccN7pkGjMEgusVi) | [Tokyo Community Radio](https://open.spotify.com/artist/07CaXB3DGJ32RvPWqFsmig), [Stupid Kozo](https://open.spotify.com/artist/3f012UB1Piib4r7kKfixDF) | [SESSIONS COLLECTION VOL.3](https://open.spotify.com/album/0D7FhraZXPvUjXjv7BnZfd) | 4:27 |
 | 7 | [So High](https://open.spotify.com/track/7sz9ZV2IVfUv3hD0MUpxG2) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [So High](https://open.spotify.com/album/5UL4c4jq7vWAI2u3g7SBAA) | 5:39 |
 | 8 | [El House](https://open.spotify.com/track/1DSzKpOXZjYjLal49RcvRx) | [Hector Couto](https://open.spotify.com/artist/4TeakFq7Xbpo0ihpTQrekM), [Alejandro Paz](https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL) | [Hot Stuff EP](https://open.spotify.com/album/5rHlxsdDjx9wxDnMw7rozh) | 5:11 |
 | 9 | [Can't Decide](https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa) | [Can't Decide](https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD) | 2:55 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 98 | [Get Loose](https://open.spotify.com/track/16DBKyIHIPdKnQbQZkNdKG) | [Cheetah](https://open.spotify.com/artist/57VZ8RtFU9P9iZr9LHg4OD), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Get Loose](https://open.spotify.com/album/2j2BNY5MwsZAv3g6UzIkMq) | 2:36 |
 | 99 | [Weekend](https://open.spotify.com/track/1oRGVcXV3iiVAkGDQy1zF5) | [QPLO](https://open.spotify.com/artist/5mJwgdNPd9Qqn1eA2uU0LH) | [Weekend](https://open.spotify.com/album/30r8Ed5TkC6n0m1XyKIhCc) | 3:08 |
 
-Snapshot ID: `aEb3DAAAAABt4f+8uZjNDLQ5rO5SP/hE`
+Snapshot ID: `AAAAAG28KCQmeJ1Ppo890hPaOgztYqB6`

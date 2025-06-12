@@ -1,6 +1,6 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Gloria Estefan",
-  "num_followers": 1909614,
+  "num_followers": 1909494,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-05-23 04:00:46",
       "album": {
-        "name": "Exitos de Victor Manuelle",
-        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 303133,
-      "name": "He Tratado",
-      "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
-    },
-    {
-      "added_at": "2025-05-23 04:00:46",
-      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 262079,
       "name": "Entre La Espada y La Pared",
       "url": "https://open.spotify.com/track/2UpoA15YFW9ItA8BjXUOJg"
+    },
+    {
+      "added_at": "2025-05-23 04:00:46",
+      "album": {
+        "name": "Exitos de Victor Manuelle",
+        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 303133,
+      "name": "He Tratado",
+      "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
     },
     {
       "added_at": "2025-05-23 04:00:46",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-05-23 04:00:46",
       "album": {
-        "name": "Si T\u00fa Me Besas",
-        "url": "https://open.spotify.com/album/0XPcr71KlShDJMJBJdde2b"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 260920,
-      "name": "Si T\u00fa Me Besas",
-      "url": "https://open.spotify.com/track/4RCzKrRP5OrB4bvINizTGf"
-    },
-    {
-      "added_at": "2025-05-23 04:00:46",
-      "album": {
         "name": "GRIS",
         "url": "https://open.spotify.com/album/7gQT5v5aHRnoHJ7Py2h25f"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 239106,
       "name": "C\u00f3mo Se Compara",
       "url": "https://open.spotify.com/track/0NsJ0CkYwNzgKXKWv8ErKd"
+    },
+    {
+      "added_at": "2025-05-23 04:00:46",
+      "album": {
+        "name": "Si T\u00fa Me Besas",
+        "url": "https://open.spotify.com/album/0XPcr71KlShDJMJBJdde2b"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 260920,
+      "name": "Si T\u00fa Me Besas",
+      "url": "https://open.spotify.com/track/4RCzKrRP5OrB4bvINizTGf"
     },
     {
       "added_at": "2025-05-23 04:00:46",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-05-23 04:00:46",
       "album": {
-        "name": "La-33",
-        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
-      },
-      "artists": [
-        {
-          "name": "La-33",
-          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
-        }
-      ],
-      "duration_ms": 374840,
-      "name": "La Pantera Mambo",
-      "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
-    },
-    {
-      "added_at": "2025-05-23 04:00:46",
-      "album": {
         "name": "M\u00e1s Que Un Beso",
         "url": "https://open.spotify.com/album/5mbratbbD9yQhmza0RSEvc"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 216760,
       "name": "M\u00e1s Que Un Beso",
       "url": "https://open.spotify.com/track/6Khxj8BjukKHwAnmRLaRUT"
+    },
+    {
+      "added_at": "2025-05-23 04:00:46",
+      "album": {
+        "name": "La-33",
+        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
+      },
+      "artists": [
+        {
+          "name": "La-33",
+          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
+        }
+      ],
+      "duration_ms": 374840,
+      "name": "La Pantera Mambo",
+      "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
     },
     {
       "added_at": "2025-05-23 04:00:46",
@@ -991,26 +991,6 @@
     {
       "added_at": "2025-05-23 04:00:46",
       "album": {
-        "name": "La Noche",
-        "url": "https://open.spotify.com/album/4BfxN7T83kFNWVzgxDaXJb"
-      },
-      "artists": [
-        {
-          "name": "Ronald Borjas",
-          "url": "https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 200599,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/4719W4pIdmaH0tawsJBeNf"
-    },
-    {
-      "added_at": "2025-05-23 04:00:46",
-      "album": {
         "name": "Soy",
         "url": "https://open.spotify.com/album/4w7xwOg3peVXmzVheSpDDL"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 263631,
       "name": "Soy",
       "url": "https://open.spotify.com/track/45tE8X8kZn7OXT0gqF8oUC"
+    },
+    {
+      "added_at": "2025-05-23 04:00:46",
+      "album": {
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/4BfxN7T83kFNWVzgxDaXJb"
+      },
+      "artists": [
+        {
+          "name": "Ronald Borjas",
+          "url": "https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 200599,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/4719W4pIdmaH0tawsJBeNf"
     },
     {
       "added_at": "2025-05-23 04:00:46",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-05-23 04:00:46",
       "album": {
-        "name": "Bueno y M\u00e1s",
-        "url": "https://open.spotify.com/album/5YYL0N32bGmdz3b2kmsQpC"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 270863,
-      "name": "Carro de Fuego",
-      "url": "https://open.spotify.com/track/4guUX2YppY1kPGpjDaenhQ"
-    },
-    {
-      "added_at": "2025-05-23 04:00:46",
-      "album": {
         "name": "Historia De Un Sonero",
         "url": "https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 266173,
       "name": "Tengo Ganas",
       "url": "https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC"
+    },
+    {
+      "added_at": "2025-05-23 04:00:46",
+      "album": {
+        "name": "Bueno y M\u00e1s",
+        "url": "https://open.spotify.com/album/5YYL0N32bGmdz3b2kmsQpC"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 270863,
+      "name": "Carro de Fuego",
+      "url": "https://open.spotify.com/track/4guUX2YppY1kPGpjDaenhQ"
     },
     {
       "added_at": "2025-05-23 04:00:46",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-05-23 04:00:46",
       "album": {
-        "name": "Cali Pachanguero 40 A\u00f1os",
-        "url": "https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 287093,
-      "name": "Cali Pachanguero 40 A\u00f1os",
-      "url": "https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl"
-    },
-    {
-      "added_at": "2025-05-23 04:00:46",
-      "album": {
         "name": "V\u00edctimas las Dos",
         "url": "https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 257614,
       "name": "V\u00edctimas las Dos",
       "url": "https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH"
+    },
+    {
+      "added_at": "2025-05-23 04:00:46",
+      "album": {
+        "name": "Cali Pachanguero 40 A\u00f1os",
+        "url": "https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 287093,
+      "name": "Cali Pachanguero 40 A\u00f1os",
+      "url": "https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl"
     },
     {
       "added_at": "2025-05-23 04:00:46",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-05-23 04:00:46",
       "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/6pK55Oxs97bSeKxt0eGuIH"
-      },
-      "artists": [
-        {
-          "name": "Hansel Y Raul",
-          "url": "https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g"
-        }
-      ],
-      "duration_ms": 286453,
-      "name": "Maria Teresa y Danilo",
-      "url": "https://open.spotify.com/track/1IwIFav8Pfr5oijgcRQ7O9"
-    },
-    {
-      "added_at": "2025-05-23 04:00:46",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 384800,
       "name": "Tu No Sabes Querer",
       "url": "https://open.spotify.com/track/6GRFXhOIdiZmkZiNeGZ9Sm"
+    },
+    {
+      "added_at": "2025-05-23 04:00:46",
+      "album": {
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/6pK55Oxs97bSeKxt0eGuIH"
+      },
+      "artists": [
+        {
+          "name": "Hansel Y Raul",
+          "url": "https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g"
+        }
+      ],
+      "duration_ms": 286453,
+      "name": "Maria Teresa y Danilo",
+      "url": "https://open.spotify.com/track/1IwIFav8Pfr5oijgcRQ7O9"
     },
     {
       "added_at": "2025-05-23 04:00:46",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2025-05-23 04:00:46",
       "album": {
+        "name": "Empezando Otra Vez",
+        "url": "https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 248325,
+      "name": "Te Equivocaste Conmigo",
+      "url": "https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5"
+    },
+    {
+      "added_at": "2025-05-23 04:00:46",
+      "album": {
         "name": "Vamo' Echando",
         "url": "https://open.spotify.com/album/2X5V5p3CvFpPyzLtHrONFl"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 168000,
       "name": "Vamo' Echando",
       "url": "https://open.spotify.com/track/3jR02GFa7bbuhEvYc3pDwL"
-    },
-    {
-      "added_at": "2025-05-23 04:00:46",
-      "album": {
-        "name": "Empezando Otra Vez",
-        "url": "https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 248325,
-      "name": "Te Equivocaste Conmigo",
-      "url": "https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5"
     },
     {
       "added_at": "2025-05-23 04:00:46",

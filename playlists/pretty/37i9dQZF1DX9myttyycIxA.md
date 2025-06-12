@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Water From Your Eyes
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,743 likes - 105 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,741 likes - 105 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

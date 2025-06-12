@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 
 > Best of South Asian diaspora\. Cover: Akshara
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,964 likes - 89 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,994 likes - 89 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 | 88 | [DhinDhinDha](https://open.spotify.com/track/7r6hQkgYOnzyzsDwXcL0Xb) | [BombayMami](https://open.spotify.com/artist/6GssnSoFCEFhN0sdsaDbzT) | [DhinDhinDha](https://open.spotify.com/album/2VgY3yDRc05WbXNw5vyYKl) | 3:15 |
 | 89 | [Wild One \- Jai Wolf Club Babu Remix](https://open.spotify.com/track/2PITIYqQKjiFMDDasXuYgd) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Wild One \(Jai Wolf Club Babu Remix\)](https://open.spotify.com/album/32HMPGIwpx49uQr5dtt9KG) | 3:03 |
 
-Snapshot ID: `aD76LAAAAAD/H28qWPwpbvKeO2PAOQTN`
+Snapshot ID: `AAAAAPkUjBy71sgizBHkw/isDhqrpgmG`

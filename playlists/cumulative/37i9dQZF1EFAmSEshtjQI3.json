@@ -309,6 +309,28 @@
     },
     {
       "album": {
+        "name": "cuando coincidimos",
+        "url": "https://open.spotify.com/album/2Rys1A1mragEl9rHsYGmcp"
+      },
+      "artists": [
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147400,
+      "name": "MACARRONES CON QUESO",
+      "url": "https://open.spotify.com/track/39F3bIJTkLNX1wswMq9PMC"
+    },
+    {
+      "album": {
         "name": "Lullaby Versions of Aitana",
         "url": "https://open.spotify.com/album/36LMY34MvQVWfJbOuAVYQK"
       },
@@ -638,6 +660,24 @@
       "duration_ms": 233738,
       "name": "Trepando Paredes",
       "url": "https://open.spotify.com/track/2fTIBjzXEUeE6E4TwfPYrS"
+    },
+    {
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/4bPksqNkTRThMVUpD1bl5u"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182022,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5iRYgPCd8JyI0EiBxYKUyN"
     },
     {
       "album": {

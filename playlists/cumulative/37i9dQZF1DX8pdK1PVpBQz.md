@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Drifting Clouds
 
-4,063 songs - 9 day 7 hr 31 min
+4,064 songs - 9 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3002,6 +3002,7 @@
 | [Sad Without You](https://open.spotify.com/track/7ibYEP8xyUow6qUQD1zwgV) | [Jorja B](https://open.spotify.com/artist/3drksdg9WsEaMejM8XCY00) | [Sad Without You](https://open.spotify.com/album/3D3kUFifl0Z1p6097jRDha) | 4:06 | 2022-09-28 | 2022-11-17 |
 | [SADEH](https://open.spotify.com/track/2ZoILnftCn6K3MVj1EhdpN) | [FendiAlone](https://open.spotify.com/artist/6SJTZ859a50PtoQ7C9wh8n), [Femi Jaye](https://open.spotify.com/artist/1sPoLDrEpjqiVca2lTWqVj) | [SADEH](https://open.spotify.com/album/7D3vGaepneZi0n8AP8HlN8) | 2:57 | 2022-04-27 | 2022-05-12 |
 | [SAFARI](https://open.spotify.com/track/6z5Sfw01Sevy7rlMXLjWLz) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [SRIRACHI SAFARI](https://open.spotify.com/album/4pIZcdXXxe130ZzrcnS4kw) | 3:13 | 2023-11-08 | 2023-11-30 |
+| [Safe For Another Day](https://open.spotify.com/track/6hMIlCVxfh93G65HTthxwQ) | [Surely Shirley](https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB) | [Safe For Another Day](https://open.spotify.com/album/5lFIiWu2PSgEIETJ77dBJ7) | 3:06 | 2025-06-10 |  |
 | [Safe in Body](https://open.spotify.com/track/1zVKzqW9W4VTjGyM674Nhn) | [Mim Jensen](https://open.spotify.com/artist/7L4lg0Xa7QyV1isN000LEg) | [Safe In Body](https://open.spotify.com/album/6DQNi6muyTvrJCsguUFrit) | 3:19 | 2025-03-11 | 2025-04-16 |
 | [Safety](https://open.spotify.com/track/47np60RHvdUsQmsuxJNxQ3) | [Kat Edwards](https://open.spotify.com/artist/08i7j3DXn5p7I5PrdVd5bV) | [Safety](https://open.spotify.com/album/3W9xTi2DtHXWeNTkmRB5gK) | 4:32 | 2022-08-16 | 2022-09-09 |
 | [Safety in Numbers](https://open.spotify.com/track/3S9rCy3GPigiWty12V5QOJ) | [Laura.](https://open.spotify.com/artist/2tVEWXgLiYbMAyzl7zltmF) | [Safety in Numbers](https://open.spotify.com/album/7JUMPbhJD1udtSqO7zxWal) | 3:10 | 2022-04-27 | 2023-01-13 |

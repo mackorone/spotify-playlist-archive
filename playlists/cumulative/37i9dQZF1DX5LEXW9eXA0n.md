@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: 조째즈\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,495 songs - 4 day 0 hr 52 min
+1,496 songs - 4 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [By My Side](https://open.spotify.com/track/7gnX5DpYwAguO3sfF4b7fY) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [By My Side](https://open.spotify.com/album/202mC12o8Px1mbBaGdQyku) | 3:43 | 2025-04-08 |  |
 | [By your side](https://open.spotify.com/track/4GQMxRSsNLW4abwsEjWflv) | [415](https://open.spotify.com/artist/4ZAakh9PB0owkUsmGcYXKh) | [By your side \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.7](https://open.spotify.com/album/35KfS2ZS6PitvgGRbatNxo) | 4:06 | 2022-07-07 | 2022-08-13 |
 | [By your side](https://open.spotify.com/track/0fJUrrGavib2kyGF7RY1Iv) | [Joo Hyung Jin](https://open.spotify.com/artist/6UvEfwKbmtK2NEUaKhhXD0) | [By your side](https://open.spotify.com/album/4PysUWj8vK3fX1K0My6XHR) | 3:37 | 2022-07-07 | 2022-07-23 |
-| [By your side](https://open.spotify.com/track/2OAbhTVIWlwoGkhqMuqBEt) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [Melo Movie \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5PlWD3jtXFnEGFm00Y6End) | 4:08 | 2025-02-14 |  |
+| [By your side](https://open.spotify.com/track/2OAbhTVIWlwoGkhqMuqBEt) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [Melo Movie \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5PlWD3jtXFnEGFm00Y6End) | 4:08 | 2025-02-14 | 2025-06-12 |
 | [By Your Side](https://open.spotify.com/track/3beMVL4X8krvydjvUToFTm) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [Poong, the Joseon Psychiatrist OST Part.1](https://open.spotify.com/album/6bAozPhiVsKID6HBJG2AQI) | 3:52 | 2022-08-12 | 2022-11-17 |
 | [By Your Side](https://open.spotify.com/track/1V8VsGD0Wa2wuA8mNouZl3) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [The Witch's Diner \(Original Television Soundtrack\) Pt.5](https://open.spotify.com/album/3vuUquAhs86GTkRlVbmNUN) | 3:44 | 2022-01-17 | 2022-04-15 |
 | [bye bye i finally disappear from your life](https://open.spotify.com/track/7yDkk7GZ9GemJcAG0JD0G9) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [bye bye i finally disappear from your life](https://open.spotify.com/album/32vU9jUYjAYzyESFDDrJNs) | 3:27 | 2022-01-27 | 2022-04-21 |
@@ -1194,6 +1194,7 @@
 | [The garden of adverbs \(feat\. Lee Hi\)](https://open.spotify.com/track/6wP9dxp1ZYIe9qrcpJhzko) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Tales of Sensuality](https://open.spotify.com/album/59wYUBRXUJBC5NxFXqFYLh) | 3:52 | 2024-04-26 | 2024-08-11 |
 | [The Homework of Goodbye](https://open.spotify.com/track/04btnsdOITgvLcdOIHOcGr) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [The Homework of Goodbye](https://open.spotify.com/album/4kTO5C4sjdAa9BRoej39hY) | 3:33 | 2025-06-02 |  |
 | [The Island](https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir) | [88\-Keys](https://open.spotify.com/artist/1GnO4Ck1wmhQ7KRiHcTpvE) | [YUMI's Cells 2, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE) | 4:00 | 2022-08-01 | 2022-11-02 |
+| [The Look In Your Eyes](https://open.spotify.com/track/0Cg4pZkNpOYNUXxmEYzuAd) | [Yoo Hwe Seung](https://open.spotify.com/artist/5ENwCCr5vpgcwr4HgTmWGs) | [Spring of Youth \(Original Soundtrack\) Part.7](https://open.spotify.com/album/5mAsdROsHGDlu1FK9sdOkM) | 3:45 | 2025-06-11 |  |
 | [The Man](https://open.spotify.com/track/6lDWYtXTFgHUjMybqYc88U) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [The Man](https://open.spotify.com/album/4i2vNNCgU467jng2k7EGi2) | 5:04 | 2023-09-18 | 2023-11-14 |
 | [The Memory of Star](https://open.spotify.com/track/29XPPKL4f4X9BqyiKyKyvY) | [You Chae Hoon](https://open.spotify.com/artist/5wkkqpuCF4BTuTJ3TKQl1n) | [Podium](https://open.spotify.com/album/5rS51gsMjupGnMSe4mYSOv) | 4:12 | 2022-07-07 | 2022-10-15 |
 | [The Memory of Wind](https://open.spotify.com/track/11YAu0s6aRVtilRhyE12h0) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Jinxed at First \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/2wjeSZdPvolhKnKQAtV4gd) | 4:03 | 2022-07-07 | 2022-08-20 |

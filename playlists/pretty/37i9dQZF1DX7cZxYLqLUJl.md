@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cZxYLqLUJl.md) - [plain]
 
 > Wake up at your own pace with gentle piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,883 likes - 75 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,889 likes - 75 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cZxYLqLUJl.md) - [plain]
 | 18 | [Nyugalma](https://open.spotify.com/track/4xoOoSUHhtuYISUeBPUaGQ) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Nyugalma](https://open.spotify.com/album/5Ck1a4PaH75OKPdrXpz67h) | 2:23 |
 | 19 | [Water Lilies](https://open.spotify.com/track/2aYkMhQCtzhfTtUfydibE3) | [Noah Hart](https://open.spotify.com/artist/774mkzUMjSY8lZyRwVJqen) | [Water Lilies](https://open.spotify.com/album/6PcpSQ8kNsSGVyXH0ZY9JJ) | 3:20 |
 | 20 | [WARMTH OF THE WIND](https://open.spotify.com/track/5yXFHymXahLnDErLk0wBun) | [GRACE UNDERWOOD](https://open.spotify.com/artist/3Q9WSdSKTYAVrqpyumgwqp) | [WARMTH OF THE WIND](https://open.spotify.com/album/61e0S11tCBQPOhemFKwiF4) | 2:51 |
-| 21 | [The Way](https://open.spotify.com/track/119mkkPrkKwH7hGxzHlQ78) | [Claudia Schumann](https://open.spotify.com/artist/2iwOpHlcFiksGX5PEJ1apz) | [The Way](https://open.spotify.com/album/3eME09xtnpzzdXw0PWbPFb) | 2:29 |
+| 21 | [The Way](https://open.spotify.com/track/119mkkPrkKwH7hGxzHlQ78) | [C\. Schumann](https://open.spotify.com/artist/6DCx3VYkpg9rqycY67aZCx) | [The Way](https://open.spotify.com/album/3eME09xtnpzzdXw0PWbPFb) | 2:29 |
 | 22 | [Hana Veil](https://open.spotify.com/track/4I3v3k70waiARoHw7Z1ATA) | [Anton Vega](https://open.spotify.com/artist/7H15xwuYNLQKF74GgsYfw7) | [Hana Veil](https://open.spotify.com/album/4oY8pMzsWyfqKcxxH6xk8D) | 2:24 |
 | 23 | [Silent Currents](https://open.spotify.com/track/14ef9hqfpbc1aLkDs9gnf8) | [Sine Hats](https://open.spotify.com/artist/3QotXq2Hkg6Shoivd6GP71) | [Silent Currents](https://open.spotify.com/album/1DX172AwlZMpWRtCrT9M7p) | 2:02 |
 | 24 | [Aguachile](https://open.spotify.com/track/79JWsSXbAW3gisGFrLXafU) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Aguachile](https://open.spotify.com/album/6ugXuZjPxb6eUacXvSiPXZ) | 2:06 |

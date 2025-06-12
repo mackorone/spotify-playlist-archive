@@ -1552,7 +1552,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 192853,
       "name": "AURORA",
       "url": "https://open.spotify.com/track/18m5dJOPB2geFwOymXNaWg"
@@ -6864,7 +6864,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 247840,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
@@ -10720,7 +10720,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 132573,
       "name": "Paraguay Tu Papa",
       "url": "https://open.spotify.com/track/2yb3lOShiJNnqTNc0yYkXB"
@@ -12330,7 +12330,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 191018,
       "name": "Qu\u00e9 Pasar\u00eda...",
       "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
@@ -13930,7 +13930,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 82813,
       "name": "Soy Albirrojo",
       "url": "https://open.spotify.com/track/5XtQMHRRNoJpEPGSamUQU3"
@@ -13952,6 +13952,24 @@
       "duration_ms": 82886,
       "name": "Soy Albirrojo",
       "url": "https://open.spotify.com/track/4u7NhDsz3XmCvXQOVk4hfY"
+    },
+    {
+      "album": {
+        "name": "Soy Albirrojo",
+        "url": "https://open.spotify.com/album/6xOg5mngT9s4UiGuN0OwCi"
+      },
+      "artists": [
+        {
+          "name": "Los Verduleros",
+          "url": "https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192078,
+      "name": "Soy Albirrojo",
+      "url": "https://open.spotify.com/track/3vMyng1aXtIT1r8Y0a6hjT"
     },
     {
       "album": {

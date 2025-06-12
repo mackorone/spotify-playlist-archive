@@ -1,13 +1,29 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: Elle Shimada. Artwork: Joy Yamusangie.",
-  "num_followers": 236912,
+  "num_followers": 237006,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDcpNAAAAACT9EdZNOLTyoS5u8HAZuGG",
+  "snapshot_id": "AAAAAJzmtpbvyMnbBmuSoQFeCAzU7NPW",
   "tracks": [
+    {
+      "added_at": "2025-06-11 12:45:58",
+      "album": {
+        "name": "Drive Z",
+        "url": "https://open.spotify.com/album/3SPIk7QWbbQ2WqG2kGr3Qb"
+      },
+      "artists": [
+        {
+          "name": "LOTUS GUITAR",
+          "url": "https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6"
+        }
+      ],
+      "duration_ms": 189993,
+      "name": "Drive Z",
+      "url": "https://open.spotify.com/track/1twVNq0Ndt6yb2BHQW7Y45"
+    },
     {
       "added_at": "2025-05-21 12:43:31",
       "album": {
@@ -23,6 +39,26 @@
       "duration_ms": 233467,
       "name": "ANSWERED PRAYERS",
       "url": "https://open.spotify.com/track/0jUabbc5ireqtwxilJWtBj"
+    },
+    {
+      "added_at": "2025-06-11 12:45:58",
+      "album": {
+        "name": "Baba",
+        "url": "https://open.spotify.com/album/3fyQsRwHWt4G4Tx8VTa3SN"
+      },
+      "artists": [
+        {
+          "name": "Ekath\u00e9",
+          "url": "https://open.spotify.com/artist/2QodtlX1l4FWXEETTWtLvz"
+        },
+        {
+          "name": "El Mundo Limon",
+          "url": "https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB"
+        }
+      ],
+      "duration_ms": 235836,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/3pvpIE1dcLrYhYex0CUKxA"
     },
     {
       "added_at": "2025-05-28 15:18:12",
@@ -43,6 +79,22 @@
       "duration_ms": 442113,
       "name": "3454 (thoughts)",
       "url": "https://open.spotify.com/track/5XL10wnNyzuWtlrCrX8wXg"
+    },
+    {
+      "added_at": "2025-06-11 12:45:58",
+      "album": {
+        "name": "Las tres heridas",
+        "url": "https://open.spotify.com/album/57LHdLtpWkFGXZALVAWT0s"
+      },
+      "artists": [
+        {
+          "name": "Pablo Torti",
+          "url": "https://open.spotify.com/artist/5zJQGYRQCy5hjXgRFP0OzN"
+        }
+      ],
+      "duration_ms": 219823,
+      "name": "la de la vida",
+      "url": "https://open.spotify.com/track/3UWVXjZL1XVBofQ7CC3ETD"
     },
     {
       "added_at": "2025-05-14 12:56:59",
@@ -661,22 +713,6 @@
       "url": "https://open.spotify.com/track/57BWfvRxyyRXjftCy4fzkV"
     },
     {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
-        "name": "Imperfect Me",
-        "url": "https://open.spotify.com/album/4Du59lDEB6pAv7B89QNtx4"
-      },
-      "artists": [
-        {
-          "name": "INDIA BLUE",
-          "url": "https://open.spotify.com/artist/5M91kIFBO3vwGoHceiMugI"
-        }
-      ],
-      "duration_ms": 234043,
-      "name": "Imperfect Me",
-      "url": "https://open.spotify.com/track/2C5M5oQOLjaTiBAInYxEty"
-    },
-    {
       "added_at": "2025-01-22 14:46:34",
       "album": {
         "name": "Communion",
@@ -759,30 +795,6 @@
       "duration_ms": 270326,
       "name": "Dig Deep (feat.Jairo\uff09",
       "url": "https://open.spotify.com/track/0Na5bpStCY4VVDshwfBjLm"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
-        "name": "End of the Night",
-        "url": "https://open.spotify.com/album/1qB5N68R51SyKhBM0YYeo9"
-      },
-      "artists": [
-        {
-          "name": "Suwon Yim",
-          "url": "https://open.spotify.com/artist/3RRrPqeIvcA2z56DKl0wku"
-        },
-        {
-          "name": "Rob Christian",
-          "url": "https://open.spotify.com/artist/5GmTnqtSTio7KExuVLfw4W"
-        },
-        {
-          "name": "Noam Guerrier Freud",
-          "url": "https://open.spotify.com/artist/4J8d02pVRo442FXueyMbsn"
-        }
-      ],
-      "duration_ms": 239142,
-      "name": "End of the Night",
-      "url": "https://open.spotify.com/track/5lwhzayX0WViHZhq4x3c49"
     },
     {
       "added_at": "2025-01-15 05:00:02",
@@ -939,26 +951,6 @@
       "duration_ms": 159769,
       "name": "YUMI",
       "url": "https://open.spotify.com/track/1ojz67o1bat1RRjYWIUrws"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
-        "name": "One Way Valet",
-        "url": "https://open.spotify.com/album/1Kipz6yvRad15LtPKjDeiI"
-      },
-      "artists": [
-        {
-          "name": "Low Poly Cactus",
-          "url": "https://open.spotify.com/artist/4JCLFRwINNq1g4Je8mRod2"
-        },
-        {
-          "name": "PRNDL",
-          "url": "https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU"
-        }
-      ],
-      "duration_ms": 373586,
-      "name": "One Way Valet",
-      "url": "https://open.spotify.com/track/49O3n997PT8zf289ByXchw"
     },
     {
       "added_at": "2025-01-15 05:00:02",

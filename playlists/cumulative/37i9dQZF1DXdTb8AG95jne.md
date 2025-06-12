@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: ZIN CHOI\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-963 songs - 2 day 10 hr 42 min
+964 songs - 2 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Aspirin Overdose](https://open.spotify.com/track/2k8uwXICRE6Bwy7TZZI2KA) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [Neap Paradise](https://open.spotify.com/album/7JSKsWO0xZw7JlQbV8AG9N) | 4:11 | 2022-12-13 | 2022-12-30 |
 | [at jongro](https://open.spotify.com/track/6r5Vy49fSeSNXUU3wiKfXu) | [Mew](https://open.spotify.com/artist/4Y74dNwvq5TMzDHMtlcmYI) | [at jongro](https://open.spotify.com/album/2Q7L1DKryOmry4pBX1WUoM) | 3:43 | 2024-05-08 | 2024-05-10 |
 | [At The End Of The Road](https://open.spotify.com/track/4tJhXh3K0KAkFTp0JERVGP) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [At The End Of The Road](https://open.spotify.com/album/5jykWS4qd667npScYkq59d) | 3:05 | 2022-03-31 | 2022-04-20 |
+| [ATS](https://open.spotify.com/track/4awYkzuPq6RjFvg1DdZrkh) | [Doorlesshouse](https://open.spotify.com/artist/0SxSWgWdwhijvB7pMMRdKy) | [ATS](https://open.spotify.com/album/2jM0XGWTsQAF6RKn4dQ5RN) | 3:29 | 2025-06-11 |  |
 | [BABEL](https://open.spotify.com/track/5uzR8Dr8tGWWasQbHKBOoC) | [Ahn Dayoung](https://open.spotify.com/artist/3YaTzrZaXXljeI8vpvzyBX) | [BABEL](https://open.spotify.com/album/3CApRJRL9vFGado5MZCExF) | 4:48 | 2022-12-30 | 2023-01-05 |
 | [Baby I Need You](https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Baby I Need You](https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf) | 3:35 | 2022-03-31 |  |
 | [Bad Person](https://open.spotify.com/track/3IAHKvtU56oGcp2dagV3pS) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Default](https://open.spotify.com/album/4P8nciEu4ohngeo77oex4u) | 3:16 | 2024-03-20 | 2024-05-10 |
@@ -619,7 +620,7 @@
 | [Photograph 사진첩](https://open.spotify.com/track/0NH2J0S8HK56jq5YUwVL22) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Photograph 사진첩](https://open.spotify.com/album/6zdxKx3yMTontzE3Mfg8oc) | 4:14 | 2021-12-21 | 2022-06-05 |
 | [Picture](https://open.spotify.com/track/56oE2VjbGEgGSiBk1keP5d) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Picture](https://open.spotify.com/album/7IIlgeMAaSxO2JwhetHFMf) | 4:11 | 2022-04-12 | 2022-04-19 |
 | [Piscis](https://open.spotify.com/track/3Mp0lsOnz9Srf6zW3EntnF) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [The Oddscape](https://open.spotify.com/album/7wfohCLnRXfhaZUXIOstum) | 4:05 | 2024-11-29 | 2025-01-31 |
-| [Pixels](https://open.spotify.com/track/5YBTucTtGmiXiRATFlW0Nz) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Pixels](https://open.spotify.com/album/3DiqMTkQMuCrjo9Cf8Oq9d) | 4:08 | 2025-05-28 |  |
+| [Pixels](https://open.spotify.com/track/5YBTucTtGmiXiRATFlW0Nz) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Pixels](https://open.spotify.com/album/3DiqMTkQMuCrjo9Cf8Oq9d) | 4:08 | 2025-05-28 | 2025-06-12 |
 | [Play With Me!](https://open.spotify.com/track/4CmF4iIoV7Wafddq0M0Ni7) | [Jisokury](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Play With Me!](https://open.spotify.com/album/1LAmZS4Qhapw80O54zH8Ib) | 3:55 | 2022-03-09 | 2022-04-03 |
 | [Playing Guitar 기타를 치며](https://open.spotify.com/track/2orUiubkXn0WUhosdNvKIr) | [Mineri](https://open.spotify.com/artist/248cYeF1SitJc42qGZ8QUi) | [Playing Guitar 기타를 치며](https://open.spotify.com/album/6YmxeaHHfdWGOeH64rW6zN) | 3:33 | 2022-03-31 | 2022-04-05 |
 | [PLAYLIST](https://open.spotify.com/track/12kMpvtjefa3ocd8BOj3k9) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [PLAYLIST](https://open.spotify.com/album/49v8k8cmufM9Lhz4TkrpcI) | 3:54 | 2022-07-08 | 2022-08-05 |

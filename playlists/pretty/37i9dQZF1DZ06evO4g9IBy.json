@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 168336,
+  "num_followers": 168349,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEYkAAAAAADQqHYcCCodZFY7vzjC9JpC",
+  "snapshot_id": "aEd1gAAAAABl2zdqijw1tvpADtGyoehR",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Street Angel",
-        "url": "https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 263813,
-      "name": "Blue Denim",
-      "url": "https://open.spotify.com/track/1MjyiWINFr2W13nxxqtHQt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bella Donna (2016 Remastered)",
         "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 322106,
       "name": "Bella Donna - 2016 Remaster",
       "url": "https://open.spotify.com/track/67oVj9wKv1T0effsUcny7A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Street Angel",
+        "url": "https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 263813,
+      "name": "Blue Denim",
+      "url": "https://open.spotify.com/track/1MjyiWINFr2W13nxxqtHQt"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live In Concert: The 24 Karat Gold Tour",
-        "url": "https://open.spotify.com/album/6RXy2mL8HlVhzHU0JOO9dq"
+        "name": "In Your Dreams",
+        "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 256546,
-      "name": "Gypsy (Live)",
-      "url": "https://open.spotify.com/track/3gsoMKVzc0FoKaxn2rdGUL"
+      "duration_ms": 334853,
+      "name": "New Orleans",
+      "url": "https://open.spotify.com/track/1HKApG1WCilb4B82fIUoje"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Your Dreams",
-        "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
+        "name": "Live In Concert: The 24 Karat Gold Tour",
+        "url": "https://open.spotify.com/album/6RXy2mL8HlVhzHU0JOO9dq"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 334853,
-      "name": "New Orleans",
-      "url": "https://open.spotify.com/track/1HKApG1WCilb4B82fIUoje"
+      "duration_ms": 256546,
+      "name": "Gypsy (Live)",
+      "url": "https://open.spotify.com/track/3gsoMKVzc0FoKaxn2rdGUL"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Street Angel",
-        "url": "https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 259066,
-      "name": "Maybe Love Will Change Your Mind",
-      "url": "https://open.spotify.com/track/3FmNXP5tWfjZAImUxzns74"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bella Donna (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 280626,
       "name": "Sleeping Angel (From Fast Times at Ridgemont High) - 2016 Remaster",
       "url": "https://open.spotify.com/track/35I5lX6yE00YSu7PEgES54"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Street Angel",
+        "url": "https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 259066,
+      "name": "Maybe Love Will Change Your Mind",
+      "url": "https://open.spotify.com/track/3FmNXP5tWfjZAImUxzns74"
     },
     {
       "added_at": null,

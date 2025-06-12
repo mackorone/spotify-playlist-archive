@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,684 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,711 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 23 | [Direção Paris](https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 4:02 |
 | 24 | [Fica](https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Fica](https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr) | 4:20 |
 | 25 | [Lembrei\-me](https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Mais Antigo](https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3) | 3:26 |
-| 26 | [Farda](https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Farda](https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs) | 3:09 |
-| 27 | [Solteiros](https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Solteiros](https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md) | 2:59 |
+| 26 | [Solteiros](https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Solteiros](https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md) | 2:59 |
+| 27 | [Farda](https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Farda](https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs) | 3:09 |
 | 28 | [Do You No Wrong](https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Lisboa](https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh) | 4:03 |
 | 29 | [Interestelar](https://open.spotify.com/track/0itv2Wy3TruEEZy4dRsu32) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Interestelar](https://open.spotify.com/album/02PsewjrcAwfmprEsadxBa) | 3:08 |
 | 30 | [Ultimamente](https://open.spotify.com/track/2OXcFFTAhcpElg1ZMAqLB7) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Afro Fado](https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI) | 3:42 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 67 | [Buquê](https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Buquê](https://open.spotify.com/album/39kMDoYl921jg7b6rtnHtX) | 3:31 |
 | 68 | [Rico](https://open.spotify.com/track/2v8HWzaIKCOlKuctXLZY7T) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX) | [Rico](https://open.spotify.com/album/4XaCt1n13B6VkhzqLzAgTu) | 2:33 |
 | 69 | [Só Pra Mim](https://open.spotify.com/track/086BFApQhJolDewBka9jit) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Só Pra Mim](https://open.spotify.com/album/4dc0uwZofhKRr0zfVHWXl4) | 3:06 |
-| 70 | [Saudade](https://open.spotify.com/track/2YVtDpRtyFb7rzu0m7Dg6S) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Morais](https://open.spotify.com/artist/4cEw0eZ9duWo7tuxQ78Obu) | [Saudade](https://open.spotify.com/album/6P2otgLvoiizkovS14Oiaz) | 3:38 |
+| 70 | [Não Te Devo Nada](https://open.spotify.com/track/0tmjXLdKG29vRtUOxTr2Su) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Não Te Devo Nada](https://open.spotify.com/album/1o0o6urQAdFwtmz2DVLXjC) | 4:09 |
 | 71 | [23:40](https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:02 |
-| 72 | [Não Te Devo Nada](https://open.spotify.com/track/0tmjXLdKG29vRtUOxTr2Su) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Não Te Devo Nada](https://open.spotify.com/album/1o0o6urQAdFwtmz2DVLXjC) | 4:09 |
+| 72 | [Saudade](https://open.spotify.com/track/2YVtDpRtyFb7rzu0m7Dg6S) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Morais](https://open.spotify.com/artist/4cEw0eZ9duWo7tuxQ78Obu) | [Saudade](https://open.spotify.com/album/6P2otgLvoiizkovS14Oiaz) | 3:38 |
 | 73 | [Sem Ti](https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Sem Ti](https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X) | 2:35 |
-| 74 | [O Tal](https://open.spotify.com/track/6yoxi6tqWQFJR45OAuIpLZ) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [O Tal](https://open.spotify.com/album/3FrmXjEhqHZiu7Ijmvge5Y) | 1:51 |
-| 75 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
+| 74 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
+| 75 | [O Tal](https://open.spotify.com/track/6yoxi6tqWQFJR45OAuIpLZ) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [O Tal](https://open.spotify.com/album/3FrmXjEhqHZiu7Ijmvge5Y) | 1:51 |
 
 Snapshot ID: `aEIhegAAAADkzLZt5EMF3eTLvwaYoTsW`

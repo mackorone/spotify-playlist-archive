@@ -4,7 +4,7 @@
 
 > This is Boards of Canada\. The essential tracks, all in one playlist.
 
-104 songs - 6 hr 20 min
+105 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 | 2022-05-29 | 2023-06-26 |
 | [Gemini](https://open.spotify.com/track/3FrhNWIcRxrPFFcqFernIp) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 2:56 | 2022-05-29 | 2023-02-14 |
 | [Gemini](https://open.spotify.com/track/47Iu8veHUAGjZkZRtVmqfo) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 2:56 | 2023-02-17 | 2023-09-19 |
+| [Gyroscope](https://open.spotify.com/track/2KS7b9EbL3sPGswRf3seAZ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 3:34 | 2025-06-12 |  |
 | [Heard From Telegraph Lines](https://open.spotify.com/track/6RvZ4phSKCNjBwhwd7iTp4) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Trans Canada Highway](https://open.spotify.com/album/7DcHbfXY5HpmU2ltqCxc8c) | 1:09 | 2023-02-17 |  |
 | [Heard From Telegraph Lines](https://open.spotify.com/track/72fa7xnZfwJdH1bbMzeRvx) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Trans Canada Highway](https://open.spotify.com/album/41Vzs4ftEXSYYfqYyD5I3y) | 1:09 | 2022-06-16 | 2023-02-18 |
 | [Hey Saturday Sun](https://open.spotify.com/track/5D7jl5qqynjNZZEiy4KQ2b) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 4:56 | 2022-05-30 | 2022-09-23 |
@@ -98,7 +99,7 @@
 | [The Beach At Redpoint](https://open.spotify.com/track/7IFLsGyxJUX4cCWauaWG6U) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 4:18 | 2022-05-29 | 2022-10-13 |
 | [The Color Of The Fire](https://open.spotify.com/track/0sgzC3F93Dh76Yfj5gNUkT) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 1:45 | 2024-04-19 | 2025-01-27 |
 | [The Smallest Weird Number](https://open.spotify.com/track/193DxvYZR8xMzt0AujMrDU) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 1:17 | 2022-10-12 | 2023-02-17 |
-| [The Smallest Weird Number](https://open.spotify.com/track/4EI8Hj2EeAUdvNMnY52PMj) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 1:17 | 2023-02-16 |  |
+| [The Smallest Weird Number](https://open.spotify.com/track/4EI8Hj2EeAUdvNMnY52PMj) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 1:17 | 2023-02-16 | 2025-06-12 |
 | [Transmisiones Ferox](https://open.spotify.com/track/4CjUEILQ2oxJKFGDbavYBU) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 2:18 | 2023-04-29 | 2024-07-06 |
 | [Transmisiones Ferox](https://open.spotify.com/track/7cUwH8Pb0gVTn2CrE2rXwH) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 2:18 | 2022-10-21 | 2023-01-24 |
 | [Treat Em Right \- Boards of Canada Remix Instrumental](https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG) | [Nevermen](https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq), [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Treat Em Right \(Boards Of Canada Remix\)](https://open.spotify.com/album/3biP5TpmbP1eQBjnMVo2cm) | 4:29 | 2024-01-13 |  |

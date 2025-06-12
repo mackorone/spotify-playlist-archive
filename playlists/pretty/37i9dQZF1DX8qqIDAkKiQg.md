@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qqIDAkKiQg.md) - [plain]
 
 > The essential works of Wolfgang Amadeus Mozart, featuring relaxing piano, soulful strings, a few magical operas, and plenty of legendary melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,114,883 likes - 76 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,114,955 likes - 76 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qqIDAkKiQg.md) - [plain]
 | 75 | [Don Giovanni, ossia Il dissoluto punito, K.527 / Act 2: "Don Giovanni, a cenar teco m'invitasti"](https://open.spotify.com/track/4uxvvTbmuTKJky7w2LVXTW) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Vitalij Kowaljow](https://open.spotify.com/artist/5s86IVNzOoYurZX5EFONon), [Ildebrando D'Arcangelo](https://open.spotify.com/artist/2T65T3cd7YFAATkLldKXN1), [Luca Pisaroni](https://open.spotify.com/artist/7cAXX8dPKysphjUm4sN0Ru), [Mahler Chamber Orchestra](https://open.spotify.com/artist/5g44FyRrB0AUEdQbqW4jAo), [Yannick Nézet\-Séguin](https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5), [Vocalensemble Rastatt](https://open.spotify.com/artist/2zuDR3L9VihllaLfvt56KU) | [Mozart: Don Giovanni](https://open.spotify.com/album/76QlGXk8t4CHgsFgwkyxHd) | 6:31 |
 | 76 | [Divertimento in D Major, K\. 136 "Salzburg Symphony No\. 1": I\. Allegro](https://open.spotify.com/track/1GUa8Gk0WKVubtJp8c6QWK) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Munich Radio Orchestra](https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX), [Ulf Schirmer](https://open.spotify.com/artist/44I8beF9aAODtLP7mH7ImA) | [Doderer, J.: Mon Cher Cousin / Stamitz, C.: Cello Concerto No\. 1 / Mozart, W.A.: Divertimento, "Salzburg Symphony No\. 1"](https://open.spotify.com/album/4Xvz8I3ZY6HfSAVE3kmpKp) | 4:10 |
 
-Snapshot ID: `Z91vugAAAACNJgU2uH/vk2dP/czB2CmW`
+Snapshot ID: `Z91vugAAAACWR8rD7bD02Wz7gWGe1KbZ`

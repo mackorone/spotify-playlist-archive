@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, keep it real\. Cover: Shubh
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,350 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,394 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 4 | [Score](https://open.spotify.com/track/4FKLi2H8nNxLWwVk9nvzwy) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:39 |
 | 5 | [Gandasa](https://open.spotify.com/track/6GG4lSyFgj1i2OO9AVgsd7) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [Gandasa](https://open.spotify.com/album/0KWSoiZauWkXFzIyikODKF) | 2:28 |
 | 6 | [Banda Bamb](https://open.spotify.com/track/4VzONhg2UBxyzcmOi1NFHJ) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [FYI \(For Your Information\)](https://open.spotify.com/album/5vIvwhpEXU5SeIFhNM9phf) | 2:54 |
-| 7 | [Gustakhiyan 2](https://open.spotify.com/track/4MpGiWSCNz1WJ0ICCfAdYl) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0) | [Bangers](https://open.spotify.com/album/498Rnyy18ac5qqgoFv8HZz) | 2:44 |
-| 8 | [Semi \- Auto](https://open.spotify.com/track/4nRfFpzbqjGvxe9CrrbJ4O) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Bhindder Burj](https://open.spotify.com/artist/4j4SDkxwy0Z68dIh5Vr7fh) | [Semi \- Auto](https://open.spotify.com/album/40lMqYNL5NFoFg4X6gCvsS) | 2:24 |
+| 7 | [Neal](https://open.spotify.com/track/15a12ZgdElt3S3z9YzXFpz) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [MXRCI](https://open.spotify.com/artist/1q3BbdB30BZGt6SQNetoWJ) | [Moose Print](https://open.spotify.com/album/2MuQAMXZxuEkx6bHDl439k) | 3:20 |
+| 8 | [Gustakhiyan 2](https://open.spotify.com/track/4MpGiWSCNz1WJ0ICCfAdYl) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0) | [Bangers](https://open.spotify.com/album/498Rnyy18ac5qqgoFv8HZz) | 2:44 |
 | 9 | [STFU](https://open.spotify.com/track/1JioaCninhpfY1filFEIZi) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [OKAY STFU](https://open.spotify.com/album/3ga4cpxM6htVEMHBnzxqpF) | 2:54 |
 | 10 | [No Link Up](https://open.spotify.com/track/3TMtRuNbUcQDz4ZJ9wIj0q) | [Sunny Randhawa](https://open.spotify.com/artist/3h87sa2W1TI6kn30DMwz15) | [No Link Up](https://open.spotify.com/album/3RtZ2O8pcP69Byub2oFelr) | 2:30 |
 | 11 | [Why](https://open.spotify.com/track/72JiXf0Y6uEr7YXzfLBGmD) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Why](https://open.spotify.com/album/5A1pNBVIsVCFTFtSSaX3cC) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 99 | [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 |
 | 100 | [Tora Fera](https://open.spotify.com/track/6YTXVqQbVWDJf5udXWuH9c) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [Tora Fera](https://open.spotify.com/album/4FsDWdB6xfeMgL6rzR7E5F) | 2:55 |
 
-Snapshot ID: `aEf3nQAAAAAdJ4Ml+jEYVuc/7I2l6fSO`
+Snapshot ID: `aEnAVwAAAABcVMCRaeUvTUXZWbSGSxHk`

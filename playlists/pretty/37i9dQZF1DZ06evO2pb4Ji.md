@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,675 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,656 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 49 | [Worlds Collide](https://open.spotify.com/track/6KMgPewrVRxzeFzRwkFa0M) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Nicki Taylor](https://open.spotify.com/artist/40eCNuH12cyxEcIVObqFrG) | [Worlds Collide](https://open.spotify.com/album/3UNDTCRbmguMxaPzcNpbSn) | 3:36 |
 | 50 | [Piercing Light](https://open.spotify.com/track/0163ud7I4Vb0ID5K7WBkq9) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Warsongs](https://open.spotify.com/album/25iitzpEYGoW3AxyWL6Zb8) | 4:51 |
 
-Snapshot ID: `aEYkAAAAAACHW+kFRRkrseAddaOAtd/Y`
+Snapshot ID: `aEd1gAAAAACkdRmuHlVX+56wM5MA+skO`

@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 921064,
+  "num_followers": 921133,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEYkAAAAAACeOjvSB/aTCWBluZtmcQB5",
+  "snapshot_id": "aEd1gAAAAADZpZPOUmIWoR57pdKF8Off",
   "tracks": [
     {
       "added_at": null,
@@ -771,6 +771,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Snow On Tha Bluff",
+        "url": "https://open.spotify.com/album/0MXpE6m0mEK0r3TuERb9Yd"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 235480,
+      "name": "Snow On Tha Bluff",
+      "url": "https://open.spotify.com/track/1oOEkBNp4zWnkD7nWjJdog"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4 Your Eyez Only",
+        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 209080,
+      "name": "She's Mine Pt. 1",
+      "url": "https://open.spotify.com/track/0HtOJj7Kl74s1Ngf3MWeif"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revenge Of The Dreamers III",
         "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
       },
@@ -799,38 +831,6 @@
       "duration_ms": 382306,
       "name": "Sacrifices (with EARTHGANG & J. Cole feat. Smino & Saba)",
       "url": "https://open.spotify.com/track/7wTA0NKIm6T7nP2kaymU2a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "4 Your Eyez Only",
-        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 209080,
-      "name": "She's Mine Pt. 1",
-      "url": "https://open.spotify.com/track/0HtOJj7Kl74s1Ngf3MWeif"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Snow On Tha Bluff",
-        "url": "https://open.spotify.com/album/0MXpE6m0mEK0r3TuERb9Yd"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 235480,
-      "name": "Snow On Tha Bluff",
-      "url": "https://open.spotify.com/track/1oOEkBNp4zWnkD7nWjJdog"
     },
     {
       "added_at": null,

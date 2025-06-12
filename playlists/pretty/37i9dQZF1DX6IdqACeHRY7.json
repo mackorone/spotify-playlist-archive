@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 155920,
+  "num_followers": 155924,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2025-05-23 11:03:50",
       "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 376169,
+      "name": "I Drink Wine",
+      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
+    },
+    {
+      "added_at": "2025-05-23 11:03:50",
+      "album": {
         "name": "AW",
         "url": "https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 212471,
       "name": "Stolt (feat. Lamin)",
       "url": "https://open.spotify.com/track/1klqiFFmUA44dKHWCX0V5l"
-    },
-    {
-      "added_at": "2025-05-23 11:03:50",
-      "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 376169,
-      "name": "I Drink Wine",
-      "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
     },
     {
       "added_at": "2025-05-23 11:03:50",
@@ -271,26 +271,6 @@
     {
       "added_at": "2025-05-23 11:03:50",
       "album": {
-        "name": "July (feat. Leon Bridges)",
-        "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 152280,
-      "name": "July (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
-    },
-    {
-      "added_at": "2025-05-23 11:03:50",
-      "album": {
         "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
         "url": "https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 259550,
       "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI"
+    },
+    {
+      "added_at": "2025-05-23 11:03:50",
+      "album": {
+        "name": "July (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 152280,
+      "name": "July (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
     },
     {
       "added_at": "2025-05-23 11:03:50",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-05-23 11:03:50",
       "album": {
-        "name": "Songs I Cry 2",
-        "url": "https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY"
-      },
-      "artists": [
-        {
-          "name": "Saint clara",
-          "url": "https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS"
-        }
-      ],
-      "duration_ms": 192818,
-      "name": "How I Love You",
-      "url": "https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS"
-    },
-    {
-      "added_at": "2025-05-23 11:03:50",
-      "album": {
         "name": "Rockabye (Acoustic)",
         "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 157466,
       "name": "Rockabye - Acoustic Version",
       "url": "https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn"
+    },
+    {
+      "added_at": "2025-05-23 11:03:50",
+      "album": {
+        "name": "Songs I Cry 2",
+        "url": "https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY"
+      },
+      "artists": [
+        {
+          "name": "Saint clara",
+          "url": "https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS"
+        }
+      ],
+      "duration_ms": 192818,
+      "name": "How I Love You",
+      "url": "https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS"
     },
     {
       "added_at": "2025-05-23 11:03:50",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-05-23 11:03:50",
       "album": {
-        "name": "Hey Honey (fra filmen Honey)",
-        "url": "https://open.spotify.com/album/2SZVaS11dDhRK8aDHShYA7"
-      },
-      "artists": [
-        {
-          "name": "Selma Sol \u00cd Dali Pape",
-          "url": "https://open.spotify.com/artist/0FD7P40OJQBG6RrjI7IKnL"
-        }
-      ],
-      "duration_ms": 182708,
-      "name": "Hey Honey (fra filmen Honey)",
-      "url": "https://open.spotify.com/track/0e1p08mJJyCQU7DRQu7VWK"
-    },
-    {
-      "added_at": "2025-05-23 11:03:50",
-      "album": {
         "name": "Flux",
         "url": "https://open.spotify.com/album/1BhppSJet8I7mHzvacPpZD"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 229783,
       "name": "Flux",
       "url": "https://open.spotify.com/track/4zb3kFL9fXrrfTwIY4CcDy"
+    },
+    {
+      "added_at": "2025-05-23 11:03:50",
+      "album": {
+        "name": "Hey Honey (fra filmen Honey)",
+        "url": "https://open.spotify.com/album/2SZVaS11dDhRK8aDHShYA7"
+      },
+      "artists": [
+        {
+          "name": "Selma Sol \u00cd Dali Pape",
+          "url": "https://open.spotify.com/artist/0FD7P40OJQBG6RrjI7IKnL"
+        }
+      ],
+      "duration_ms": 182708,
+      "name": "Hey Honey (fra filmen Honey)",
+      "url": "https://open.spotify.com/track/0e1p08mJJyCQU7DRQu7VWK"
     },
     {
       "added_at": "2025-05-23 11:03:50",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-05-23 11:03:50",
       "album": {
-        "name": "1975",
-        "url": "https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ"
-      },
-      "artists": [
-        {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        }
-      ],
-      "duration_ms": 197839,
-      "name": "Until The Hurting Is Gone",
-      "url": "https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc"
-    },
-    {
-      "added_at": "2025-05-23 11:03:50",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 189557,
       "name": "I'm Done",
       "url": "https://open.spotify.com/track/5kMa3mm5zoM9SWTAZOBDDB"
+    },
+    {
+      "added_at": "2025-05-23 11:03:50",
+      "album": {
+        "name": "1975",
+        "url": "https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "duration_ms": 197839,
+      "name": "Until The Hurting Is Gone",
+      "url": "https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc"
     },
     {
       "added_at": "2025-05-23 11:03:50",

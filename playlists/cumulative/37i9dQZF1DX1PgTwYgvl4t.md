@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso?si=NuTJ7\-ipTYCwsypXy3z40A>Victoria Orenze</a>
 
-202 songs - 1 day 0 hr 11 min
+203 songs - 1 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [In the Room \(Rendition\)](https://open.spotify.com/track/1BtLSpIErQW4pyXxSHJabn) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [In the Room \(Rendition\)](https://open.spotify.com/album/5Kfd8a8myhiGOEUePTCwaA) | 6:11 | 2024-12-20 |  |
 | [In You](https://open.spotify.com/track/6bsrCda8VgcBLtI5c3HCyn) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [In You](https://open.spotify.com/album/4sKh0lvHz8RmO3BOpETpZS) | 2:39 | 2024-05-17 | 2024-06-07 |
 | [In You Oh Lord I Put My Trust](https://open.spotify.com/track/4RvV5rgSP7MH5MeR8vr2Mi) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [In You Oh Lord I Put My Trust](https://open.spotify.com/album/3Z0hoVuTRobV8NT0a9jNdO) | 4:08 | 2025-05-30 |  |
-| [Intimacy](https://open.spotify.com/track/3kvQ1aWiP1OHawDszvNEeO) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Intimacy](https://open.spotify.com/album/4msg6xi048k2ZrXiw3plqA) | 7:19 | 2025-03-07 |  |
+| [Intimacy](https://open.spotify.com/track/3kvQ1aWiP1OHawDszvNEeO) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Intimacy](https://open.spotify.com/album/4msg6xi048k2ZrXiw3plqA) | 7:19 | 2025-03-07 | 2025-06-12 |
 | [Izurukeme \- Live](https://open.spotify.com/track/5K0wzd1xT77UkkTHHEtrxt) | [Grace Akakam](https://open.spotify.com/artist/6RxBaERGqQUh8s7IW6ebDV), [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Izurukeme \(Live\)](https://open.spotify.com/album/7jl1P747R49lZOXW9nfFsO) | 5:38 | 2025-02-28 | 2025-04-11 |
 | [Jesu Doh \(Revisitation\)](https://open.spotify.com/track/2ff0oDG7KHh5G6Sn4Tn6KH) | [Onome Ovwori](https://open.spotify.com/artist/3BVYzOXEHmFZGLy9jHiXIy), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Jesu Doh \(Revisitation\)](https://open.spotify.com/album/3EuYKNMSaFJjncOA1yZktn) | 5:23 | 2024-12-27 | 2025-06-06 |
 | [Jesus](https://open.spotify.com/track/5tsBzcAXwo3UGRSPT4TbXV) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Lion of Judah](https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy) | 7:34 | 2024-05-09 | 2024-06-14 |
@@ -164,6 +164,7 @@
 | [Rescue The Perishing](https://open.spotify.com/track/4s3qSbjkrTX48tz50UYHA7) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Rescue The Perishing](https://open.spotify.com/album/3SdyZkiUe9YG86xFsIXQYC) | 3:44 | 2024-05-24 | 2024-08-16 |
 | [Revival Is Here](https://open.spotify.com/track/3MevbiyEBTpNq6RXcH99cG) | [Henry praise](https://open.spotify.com/artist/1X0clNkDAFGRPTC9F2buZo), [Minister Afam](https://open.spotify.com/artist/2OuwAasMkYHQXewbtvrIMK), [Minister Frank Evidence](https://open.spotify.com/artist/5jlvKSadfgHMwW1Qd5xcLH) | [Revival Is Here](https://open.spotify.com/album/2CXxrqiubmUgRq2kU0Obge) | 9:16 | 2025-03-21 | 2025-05-23 |
 | [Shekinah](https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Shekinah](https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj) | 7:00 | 2024-10-25 |  |
+| [Sleeping Giant](https://open.spotify.com/track/1nukUJZ8DeBCekANEmSy1g) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL) | [Sleeping Giant](https://open.spotify.com/album/3dXNiiRGJkDlzQFl2ei2Dd) | 7:27 | 2025-06-12 |  |
 | [Song of Angels \(The Call\)](https://open.spotify.com/track/11r7LKpoZzMQByA9gC9cgf) | [Tobi Walker](https://open.spotify.com/artist/5lWnHXLsUJDZ9gfcvovpxW), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM), [Gwen Samuel](https://open.spotify.com/artist/3MKVPEAKVqjOWppgRRqIfK) | [Song of Angels \(The Call\)](https://open.spotify.com/album/758w7ppEQYjtKeLn0E9n4p) | 6:09 | 2024-08-23 |  |
 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 | 2024-05-09 |  |
 | [Spontaneous Endless Worship](https://open.spotify.com/track/1wxbaC0dbPDrgdnlQp1rlg) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Spontaneous Endless Worship](https://open.spotify.com/album/634VScodKaUDFqUDwCiLzN) | 5:35 | 2024-05-09 |  |

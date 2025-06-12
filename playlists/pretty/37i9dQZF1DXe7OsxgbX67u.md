@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7OsxgbX67u.md) - [plain]
 
 > Listen to the music from Invincible, streaming only on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,387 likes - 73 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,571 likes - 73 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7OsxgbX67u.md) - [plain]
 | 72 | [Invincible](https://open.spotify.com/track/6WQJBaBfM1Ow66RIlc43SK) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz) | [Invincible: Vol\. 1 \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/2YqLtiozpeFoScLa7vMCRy) | 4:55 |
 | 73 | [Second Strongest Viltrumite](https://open.spotify.com/track/3yK5GeQQu7crbX38UPw6kn) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz) | [Invincible: Vol\. 1 \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/2YqLtiozpeFoScLa7vMCRy) | 4:04 |
 
-Snapshot ID: `Z9zobQAAAABAzZcBMFO0rga7jTUbeZNq`
+Snapshot ID: `Z9zobQAAAADAA4Dq3PsL13yfdI5rKauM`

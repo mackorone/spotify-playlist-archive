@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Bresh, Tananai, Sabrina Carpenter, Rhove, Baby Gang, Ed Sheeran, Levante, Emma Nolde e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,877 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,886 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 45 | [Alprazolam](https://open.spotify.com/track/7aKHveUd0dkGknIPtSM0bw) | [Lito](https://open.spotify.com/artist/3Es16vmqYL43ifHZR4YjbO) | [Alprazolam](https://open.spotify.com/album/4AhqXVJjd4XIbFkMAcCjzN) | 2:18 |
 | 46 | [Superrich](https://open.spotify.com/track/7C9Bcp8XgBqdetAyvp5Vms) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f), [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Superrich](https://open.spotify.com/album/5baLyRD1usxYKmLQjGG6Qh) | 2:59 |
 | 47 | [Save My Love \(with Ellie Goulding & AVAION\)](https://open.spotify.com/track/4w3Uy4n1hfj1mx6ag7bII5) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Save My Love \(with Ellie Goulding & AVAION\)](https://open.spotify.com/album/3KFX6b8uxX8cORnXbSiC18) | 3:35 |
-| 48 | [PRINCESSA \(feat\. Jul\)](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [PRINCESSA \(feat\. Jul\)](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 |
+| 48 | [PRINCESSA](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [PRINCESSA](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 |
 | 49 | [I Get a Rush](https://open.spotify.com/track/3sTM6y43NZDfOHLhM4Jyx8) | [Planet Funk](https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4) | [I Get a Rush](https://open.spotify.com/album/1smG2n3wqJ1Z3I9HUo1NoD) | 2:55 |
 | 50 | [Il Sogno È Sempre](https://open.spotify.com/track/7y7SnRRqMaOD8FGMEwr1kT) | [Claudio Baglioni](https://open.spotify.com/artist/5zBAb4P2NoTps0shbgZvgj) | [La Vita È Adesso\_Il Sogno È Sempre](https://open.spotify.com/album/04JLJaVj4cOIeZro3nKnSW) | 4:59 |
 | 51 | [Ratatan](https://open.spotify.com/track/2V33uqn4dGYyyyW3N4Q9Si) | [Patty Pravo](https://open.spotify.com/artist/2Yi5fknmHBqqKjHF6cXQyh) | [Ratatan](https://open.spotify.com/album/6susDC1zfaeakkpTW4IWmJ) | 3:06 |

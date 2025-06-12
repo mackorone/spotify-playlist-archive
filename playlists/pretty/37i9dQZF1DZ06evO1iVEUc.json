@@ -1,12 +1,12 @@
 {
   "description": "This is Angie Stone. The essential tracks, all in one playlist.",
-  "num_followers": 25454,
+  "num_followers": 25455,
   "original_name": "This Is Angie Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEYkAAAAAACSKkcIPOPVfBHLtEq1H2m4",
+  "snapshot_id": "aEd1gAAAAAC4e/keXJLFuIt6ahcr6Zgq",
   "tracks": [
     {
       "added_at": null,
@@ -323,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Wanna Thank Ya",
-        "url": "https://open.spotify.com/album/1Ec9ZPtER6ZbZ6uiJdwdEF"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 227133,
-      "name": "I Wanna Thank Ya (feat. Snoop Dogg) - Radio Edit",
-      "url": "https://open.spotify.com/track/1vWvdcZZRzNXYSw8c4HOY9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stone Love",
         "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 241466,
       "name": "Stay For A While (feat. Anthony Hamilton)",
       "url": "https://open.spotify.com/track/5R7wbaxRvAhsSN6d1PxrEm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Wanna Thank Ya",
+        "url": "https://open.spotify.com/album/1Ec9ZPtER6ZbZ6uiJdwdEF"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 227133,
+      "name": "I Wanna Thank Ya (feat. Snoop Dogg) - Radio Edit",
+      "url": "https://open.spotify.com/track/1vWvdcZZRzNXYSw8c4HOY9"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Language",
-        "url": "https://open.spotify.com/album/3SjkXnXu8tjg9Xg9bXPOuM"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 227293,
-      "name": "High",
-      "url": "https://open.spotify.com/track/7nwy7u1NxzbUEOmpzo6KWT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stone Love",
         "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 290093,
       "name": "Baby",
       "url": "https://open.spotify.com/track/6pdcpkWpFFy41HqvUiMofI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/3SjkXnXu8tjg9Xg9bXPOuM"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 227293,
+      "name": "High",
+      "url": "https://open.spotify.com/track/7nwy7u1NxzbUEOmpzo6KWT"
     },
     {
       "added_at": null,
@@ -647,18 +647,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stone Love",
-        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
+        "name": "Worldwide Underground",
+        "url": "https://open.spotify.com/album/1oJIFrDoyKF1aV8sq0rBAQ"
       },
       "artists": [
         {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "Queen Latifah",
+          "url": "https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt"
+        },
+        {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Bahamadia",
+          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
         }
       ],
-      "duration_ms": 35293,
-      "name": "Stoned Love (Intro)",
-      "url": "https://open.spotify.com/track/64d9VM45lpwAv5ihZHEDbm"
+      "duration_ms": 326226,
+      "name": "Love Of My Life Worldwide",
+      "url": "https://open.spotify.com/track/7sfv48GFGTACbipv2osobB"
     },
     {
       "added_at": null,
@@ -695,34 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worldwide Underground",
-        "url": "https://open.spotify.com/album/1oJIFrDoyKF1aV8sq0rBAQ"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        },
-        {
-          "name": "Queen Latifah",
-          "url": "https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt"
-        },
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Bahamadia",
-          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
-        }
-      ],
-      "duration_ms": 326226,
-      "name": "Love Of My Life Worldwide",
-      "url": "https://open.spotify.com/track/7sfv48GFGTACbipv2osobB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stone Love",
         "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
       },
@@ -732,9 +716,29 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 235773,
-      "name": "U-Haul",
-      "url": "https://open.spotify.com/track/2iENV2zVh4k4JH3gV9SBk7"
+      "duration_ms": 236506,
+      "name": "Come Home (Live With Me)",
+      "url": "https://open.spotify.com/track/0BwlXwD01OVIMnhKQVlocV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/6KhoIz4SDYW5zEnl0O9bRB"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Jaheim",
+          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
+        }
+      ],
+      "duration_ms": 238220,
+      "name": "Gonna Have to Be You",
+      "url": "https://open.spotify.com/track/0yKtPIRrUjoATLNNXmJcbq"
     },
     {
       "added_at": null,
@@ -771,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/6KhoIz4SDYW5zEnl0O9bRB"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Jaheim",
-          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
-        }
-      ],
-      "duration_ms": 238220,
-      "name": "Gonna Have to Be You",
-      "url": "https://open.spotify.com/track/0yKtPIRrUjoATLNNXmJcbq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stone Love",
         "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
       },
@@ -800,9 +784,29 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 236506,
-      "name": "Come Home (Live With Me)",
-      "url": "https://open.spotify.com/track/0BwlXwD01OVIMnhKQVlocV"
+      "duration_ms": 35293,
+      "name": "Stoned Love (Intro)",
+      "url": "https://open.spotify.com/track/64d9VM45lpwAv5ihZHEDbm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duets - Love & Soul",
+        "url": "https://open.spotify.com/album/69XGRDK4bcb0pSEgIV05tC"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        },
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 289271,
+      "name": "Love TKO",
+      "url": "https://open.spotify.com/track/37ap6nCrkAew8dPVsGj1QD"
     },
     {
       "added_at": null,
@@ -839,22 +843,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets - Love & Soul",
-        "url": "https://open.spotify.com/album/69XGRDK4bcb0pSEgIV05tC"
+        "name": "Stone Love",
+        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
       },
       "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        },
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 289271,
-      "name": "Love TKO",
-      "url": "https://open.spotify.com/track/37ap6nCrkAew8dPVsGj1QD"
+      "duration_ms": 235773,
+      "name": "U-Haul",
+      "url": "https://open.spotify.com/track/2iENV2zVh4k4JH3gV9SBk7"
     },
     {
       "added_at": null,

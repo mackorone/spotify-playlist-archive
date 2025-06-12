@@ -60,7 +60,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 169394,
       "name": "70 Calaveras - En Vivo",
       "url": "https://open.spotify.com/track/0j4NhEUEQiiBtktxF7nEC4"
@@ -1175,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "Redenci\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190431,
+      "name": "Frecuencia",
+      "url": "https://open.spotify.com/track/56bPsRfOKla3bGGmVz1uk4"
+    },
+    {
+      "album": {
         "name": "Fue Un Placer",
         "url": "https://open.spotify.com/album/39dU0zdn3mhDzE8O3mhzqZ"
       },
@@ -1754,7 +1772,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 171469,
       "name": "Maracuy\u00e1",
       "url": "https://open.spotify.com/track/2YGRNMT1It2e10udkU1GLM"
@@ -2236,7 +2254,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 189240,
       "name": "Que Te Entregues Hoy",
       "url": "https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo"

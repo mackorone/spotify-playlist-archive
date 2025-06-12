@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: HANA\*👉 <a href="https://spice.eplus.jp/articles/338296">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: HANA\*👉 <a href="https://spice.eplus.jp/articles/338483">連動記事</a>をSPICEでチェック!
 
-10,828 songs - 28 day 4 hr 23 min
+10,830 songs - 28 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3233,6 +3233,7 @@
 | [KAWASAKI \(with Big Sean\)](https://open.spotify.com/track/3m9iJprY6untx4hbbgs4R5) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [KAWASAKI \(with Big Sean\)](https://open.spotify.com/album/4RKxFOuzNLV1wOXJsVOT6H) | 2:06 | 2024-12-11 | 2024-12-18 |
 | [Kazemachi Toppu Club](https://open.spotify.com/track/7gzdOT4yQVmoTLpaQ7JOEj) | [Bye\-Bye\-Handの方程式](https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf) | [Kazemachi Toppu Club\-EP](https://open.spotify.com/album/7yr0HcSzr5QYJ57Z9FuUJU) | 2:16 | 2023-03-15 | 2023-03-22 |
 | [Kazenidakarete](https://open.spotify.com/track/28FsaeOb2QZBp2sVdzPzZw) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [Kazenidakarete](https://open.spotify.com/album/0dSxGg9f74wTok1Ar4kMUn) | 4:31 | 2023-05-24 | 2023-05-31 |
+| [Keep a Secret](https://open.spotify.com/track/1ipDqVFgmVOAcboxe9Yiei) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [GLOW](https://open.spotify.com/album/5bN1rEaxjAkoIRRVk6R2iz) | 2:10 | 2025-06-11 |  |
 | [Keep it up!!](https://open.spotify.com/track/7cBHue07eSmzKprZVEJmlR) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Keep it up!!](https://open.spotify.com/album/4b4WrgDh26svVTWtv1gUVR) | 3:39 | 2025-02-19 | 2025-02-26 |
 | [KEEP ON](https://open.spotify.com/track/580Xf1iNx9ueEgv0mLq5Et) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [KEEP ON](https://open.spotify.com/album/3Pm03MjH3iy4qdIV5AF5YK) | 4:14 | 2024-09-24 | 2024-10-02 |
 | [Keep on Dancing](https://open.spotify.com/track/5SmqlwtHZIorcK3DzaE9qX) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [FULL COURSE](https://open.spotify.com/album/2WT0YsmrCgIsH8ZJxeuMqh) | 3:17 | 2023-03-14 | 2023-03-16 |
@@ -8117,6 +8118,7 @@
 | [ゴウスト](https://open.spotify.com/track/0WhtZQxZXkBJnqW4qVV0ML) | [Kuhakugokko](https://open.spotify.com/artist/1t2jU16aGbeRc63vVMf1Zn) | [マイナスゼロ](https://open.spotify.com/album/4N4TKInRqblIr0Vr9PddPj) | 3:22 | 2023-11-07 | 2023-11-09 |
 | [ゴミ人間、俺](https://open.spotify.com/track/2VU59VkXEBNX4ZZf7SmGAy) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:49 | 2023-03-14 | 2023-03-16 |
 | [ゴロワーズを吸ったことがあるかい](https://open.spotify.com/track/5mdS8Jv9vVN4w3HS57wclr) | [Ryoko Moriyama](https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP) | [ゴロワーズを吸ったことがあるかい](https://open.spotify.com/album/0DMijnapj0cykRUPX5jZCQ) | 5:46 | 2023-07-18 | 2023-07-26 |
+| [ゴーゴースチーム](https://open.spotify.com/track/0uxDEcLsiLUzBCrh2EUdO3) | [betcover!!](https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3) | [勇気](https://open.spotify.com/album/1XNE6xQzrlW6qce2rWC14z) | 5:59 | 2025-06-11 |  |
 | [ゴースト](https://open.spotify.com/track/75Dv13MlhuD5zVeupmIpDa) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [ゴースト](https://open.spotify.com/album/2TpBEh1ws3G929qObZ7jCB) | 6:35 | 2025-04-08 | 2025-04-16 |
 | [ゴースト](https://open.spotify.com/track/0aBb5sdeZyojEd5cVD9UKb) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [Mix Wave](https://open.spotify.com/album/02IbI9D14DVwwU7ZXJz0vd) | 3:47 | 2023-05-09 | 2023-05-17 |
 | [ゴースト feat\. 新藤晴一\(from ポルノグラフィティ\)](https://open.spotify.com/track/5LDerMceXCJ1gqkeeyKkWS) | [Bimi](https://open.spotify.com/artist/5iwvrALwQlyajHU3vcwAIf), [新藤晴一\(from ポルノグラフィティ\)](https://open.spotify.com/artist/0W88nS83Z7xiw0XuTPZwQ6) | [ゴースト feat\. 新藤晴一\(from ポルノグラフィティ\)](https://open.spotify.com/album/4mOUNCuHEd6fnjEP6vWTnu) | 4:20 | 2025-03-19 | 2025-03-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,515 likes - 50 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,519 likes - 50 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 5 | [It Is Well \(Live\)](https://open.spotify.com/track/7E3YInQ8ZQuZgQhu2Sfito) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm) | 6:25 |
 | 6 | [All Hail King Jesus \(Live\)](https://open.spotify.com/track/0dr0OZdQlpGhQizJSm0gMr) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 5:36 |
 | 7 | [Holy Forever](https://open.spotify.com/track/7FufqShqWlNP606lT9iNr1) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Come Up Here](https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN) | 5:24 |
-| 8 | [King of My Heart \(Live\)](https://open.spotify.com/track/4XMy9Gv7Q7SWwIU4RdzdSG) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Starlight \(Live\)](https://open.spotify.com/album/6FQt2yjB8m4548YBYLTqZZ) | 4:59 |
-| 9 | [Jesus We Love You](https://open.spotify.com/track/1OMwaR5rsyfT2wB48Dm5aK) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz) | [We Will Not Be Shaken](https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux) | 6:55 |
+| 8 | [Jesus We Love You](https://open.spotify.com/track/1OMwaR5rsyfT2wB48Dm5aK) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz) | [We Will Not Be Shaken](https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux) | 6:55 |
+| 9 | [King of My Heart \(Live\)](https://open.spotify.com/track/4XMy9Gv7Q7SWwIU4RdzdSG) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Starlight \(Live\)](https://open.spotify.com/album/6FQt2yjB8m4548YBYLTqZZ) | 4:59 |
 | 10 | [Raise a Hallelujah \(Live\)](https://open.spotify.com/track/2NLjbOQWD20oy0WpZJByap) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Victory \(Live\)](https://open.spotify.com/album/06EbhB1VVdMre8BVfEpkOz) | 7:50 |
 | 11 | [Back To Life \(Live\)](https://open.spotify.com/track/44aTdoCcquVC4xvX0YgZLn) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 6:35 |
 | 12 | [Stand In Your Love \(Radio Version\)](https://open.spotify.com/track/4d6i3I2AgCx8CD54Tjr5pF) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Stand In Your Love \(Radio Version\)](https://open.spotify.com/album/2Hj6wZap379k7FpV2totRj) | 3:41 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 47 | [You're Worthy of My Praise/As The Deer \- Live](https://open.spotify.com/track/0z3CNIaZ6g6Pw5v4OocpFQ) | [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [I Want Jesus \(Live\)](https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0) | 2:26 |
 | 48 | [Glory to Glory \(Live\)](https://open.spotify.com/track/4ITWue8Tu2ihipYvhoOo8g) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [William Matthews](https://open.spotify.com/artist/6xzvt1VigDuN3Qt39YozYA) | [Have It All \(Live\)](https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS) | 5:24 |
 | 49 | [Graves into Gardens](https://open.spotify.com/track/6mYn13stuc74Bd5EHbeqKj) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 7:33 |
-| 50 | [Touch of Heaven / Alabaster Heart \(Live\)](https://open.spotify.com/track/5YlH7CeaNAoRKsaSzTXojM) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Touch of Heaven / Alabaster Heart \(Live\)](https://open.spotify.com/album/1ugdTIc8PRDPPUBtv7ECzd) | 10:30 |
+| 50 | [Promises Never Fail \(Live\)](https://open.spotify.com/track/2Lj58fGWpmUHbL8RuNbku3) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Emmy Rose](https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo) | [Victory \(Live\)](https://open.spotify.com/album/06EbhB1VVdMre8BVfEpkOz) | 4:57 |
 
-Snapshot ID: `aEYkAAAAAAAVFiyl9xxJwa7vKZd/Absj`
+Snapshot ID: `aEd1gAAAAADlWLX/NN5qiUf7Ta1bLvGF`

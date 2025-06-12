@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,138,228 likes - 100 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,144,263 likes - 100 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 71 | [BRUXO FANTASMA](https://open.spotify.com/track/0KCRlnAviErdAu6JcjKZJs) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3) | [BRUXO FANTASMA](https://open.spotify.com/album/09xRsRc7pX399wCGElOfMT) | 1:28 |
 | 72 | [Montagem Solar Atmosfera](https://open.spotify.com/track/1tBsFgHlgn9oCUXxlXlTaw) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR), [TOKYOPHILE](https://open.spotify.com/artist/5WqZHtRzOmKc1hWYfNoo8n), [MC MN](https://open.spotify.com/artist/4hV3aU0WKvFaiX5ugXP5hp) | [Montagem Solar Atmosfera](https://open.spotify.com/album/3Iz4fcwWN3Uf5KESTQwrsY) | 2:13 |
 | 73 | [Scopin](https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Scopin](https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1) | 1:41 |
-| 74 | [VISION](https://open.spotify.com/track/4gkFITdBI8imDCSrukDT6p) | [UdieNnx](https://open.spotify.com/artist/6ESoeEazu57neU7UM6KRuC), [HXVSAGE](https://open.spotify.com/artist/6iokCqd4ghi6IqTEJKT12q) | [UDISTRUCT](https://open.spotify.com/album/50i96D7O8CCFwS0VAiuC5o) | 1:49 |
+| 74 | [VISION](https://open.spotify.com/track/4gkFITdBI8imDCSrukDT6p) | [UdieNnx](https://open.spotify.com/artist/6ESoeEazu57neU7UM6KRuC), [HXVSAGE](https://open.spotify.com/artist/6iokCqd4ghi6IqTEJKT12q), [Duduzinho](https://open.spotify.com/artist/5lneW4gwuALhTWZSDdz1rY) | [UDISTRUCT](https://open.spotify.com/album/50i96D7O8CCFwS0VAiuC5o) | 1:49 |
 | 75 | [Faz de Chicote](https://open.spotify.com/track/19xg284tQrdnm4zZGnajs0) | [Lyu](https://open.spotify.com/artist/56zHTpLLVZ6otn4eInVwJf), [ITALO SENA](https://open.spotify.com/artist/1YVpgYKow2RgW5ZDLmApGf), [DJ PBeats](https://open.spotify.com/artist/6tQDQivRhULyEMBCneS7f9), [VYRUS](https://open.spotify.com/artist/3uG4rH6Nn0tEvNorkxEs1f) | [Faz de Chicote](https://open.spotify.com/album/2cuIEt1nONL2bu9HnSXjVT) | 2:30 |
 | 76 | [FRESH](https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ) | [NXVAMANE](https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh) | [FRESH](https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si) | 1:08 |
 | 77 | [NUNCA MUDA?](https://open.spotify.com/track/3VFySvZMSn4z4X4YDDQb0H) | [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX), [NXGHT!](https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL) | [NUNCA MUDA?](https://open.spotify.com/album/6JN8NKdUyRGqT2xc4qhIQ2) | 1:21 |

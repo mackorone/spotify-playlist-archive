@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Sabrina Carpenter, Ed Sheeran, DYSTINCT & Jul au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,472 likes - 98 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,451 likes - 98 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
 | 2 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 |
-| 3 | [PRINCESSA \(feat\. Jul\)](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [PRINCESSA \(feat\. Jul\)](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 |
+| 3 | [PRINCESSA](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [PRINCESSA](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 |
 | 4 | [LA JANAZA D'UN FRÈRE](https://open.spotify.com/track/0YgQ1MTVUXVmYzot73I7OX) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [KINTSUGI](https://open.spotify.com/album/48Ug7WapqR8ZQVnGqcjY1m) | 3:01 |
 | 5 | [Aje \(feat\. Tayc\)](https://open.spotify.com/track/2Nmq1A64nO4LCgyQNhrRLq) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Aje \(feat\. Tayc\)](https://open.spotify.com/album/2dqNGRTr6rw6WqvDyovSwX) | 2:33 |
 | 6 | [Patience \(with Amadou & Mariam\)](https://open.spotify.com/track/0aDif6YXwDWGPWiDrREe4K) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Patience \(with Amadou & Mariam\)](https://open.spotify.com/album/25nwZXV9npGbu4CFqvDCb0) | 3:05 |

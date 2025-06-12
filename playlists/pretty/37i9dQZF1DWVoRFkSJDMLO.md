@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > From the continent to the islands\. Cover: Burna Boy 🇳🇬  & Travis Scott 🇺🇸
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,254 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,283 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 74 | [Wind Down](https://open.spotify.com/track/4VC8irZzshw2UZMwk6CzXP) | [SNOWCHILD EDGE](https://open.spotify.com/artist/6EcRwLyGejwOzwB5ZCkhPG), [Teon Gibbs](https://open.spotify.com/artist/6C526McCewIs40ZHQLrmZm) | [Wind Down](https://open.spotify.com/album/6MhxRzW8qD6R2ilrxBgYXQ) | 2:24 |
 | 75 | [Hmm \(feat\. Popcaan\)](https://open.spotify.com/track/6NlCxCDyNBtjwXw2sa9gkU) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Hmm \(feat\. Popcaan\)](https://open.spotify.com/album/4srn3PA7GARSVBnOZ9lM1c) | 2:43 |
 
-Snapshot ID: `aEJx0AAAAAAKtq+g8ksorTIW2OrGloab`
+Snapshot ID: `AAAAADAAFz3zEcxjpt8jhYq/ikM02Hde`

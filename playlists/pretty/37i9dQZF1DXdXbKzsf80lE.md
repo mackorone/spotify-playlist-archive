@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,297 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,363 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 17 | [Tapão Na Raba](https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Som No Talo](https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2) | 2:55 |
 | 18 | [Se Joga no Passinho](https://open.spotify.com/track/41pFFOnh1glVNIlrWOpBjb) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk), [Thiago Jhonathan \(TJ\)](https://open.spotify.com/artist/0cZ0hBu2JZFT99wDzEfS89) | [Se Joga no Passinho](https://open.spotify.com/album/53gP1xGYGu9DHjiJB4Jo7t) | 3:20 |
 | 19 | [Romance Desapegado](https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Romance Desapegado](https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud) | 3:04 |
-| 20 | [Como É Que Fala Não \- Ao Vivo em Fortaleza](https://open.spotify.com/track/7nGa1g2h11waps42jwfQPa) | [Manim Vaqueiro](https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt), [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [SENTIMENTO \(Ao Vivo Em Fortaleza\)](https://open.spotify.com/album/78AGsXwaEeeldx45IYQwD7) | 2:27 |
-| 21 | [Investe Em Mim](https://open.spotify.com/track/15k1TDabqSEmyXOwMq9RM7) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Investe Em Mim](https://open.spotify.com/album/7HkadvWYCa91hUKnBqBFJu) | 3:06 |
+| 20 | [Investe Em Mim](https://open.spotify.com/track/15k1TDabqSEmyXOwMq9RM7) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Investe Em Mim](https://open.spotify.com/album/7HkadvWYCa91hUKnBqBFJu) | 3:06 |
+| 21 | [Como É Que Fala Não \- Ao Vivo em Fortaleza](https://open.spotify.com/track/7nGa1g2h11waps42jwfQPa) | [Manim Vaqueiro](https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt), [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [SENTIMENTO \(Ao Vivo Em Fortaleza\)](https://open.spotify.com/album/78AGsXwaEeeldx45IYQwD7) | 2:27 |
 | 22 | [Bebe e Vem Me Procurar](https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Bebe e Vem Me Procurar](https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz) | 2:34 |
 | 23 | [Volta Vai \- Ao Vivo](https://open.spotify.com/track/0jeFHISVpw1dgBOdM63SB3) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Bar Das Coleguinhas \(Ao Vivo\)](https://open.spotify.com/album/3yiHl6ciNPllk5qKMPkqtw) | 4:36 |
 | 24 | [Letícia](https://open.spotify.com/track/1Qzse4pBfaUXY6wWOqYoRH) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [O Original](https://open.spotify.com/album/2v3K3T2LkhnYNlPhFI0yAZ) | 2:47 |

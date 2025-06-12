@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 🏆 with Jon Casey & TroyBoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,297 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,312 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,10 +79,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 69 | [Zurna](https://open.spotify.com/track/7CGB43FkEomSXAtnTNLC9n) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Zurna](https://open.spotify.com/album/4TwsNgwtGn7cU8mz6lXnyH) | 2:39 |
 | 70 | [attention!](https://open.spotify.com/track/1bVAPf0uwhql8DyOpcpRxd) | [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [attention!](https://open.spotify.com/album/5sc5wbXbU5gPMnJ4nAKC8i) | 2:43 |
 | 71 | [Forcefield](https://open.spotify.com/track/6KxayQc9tOaUAQQyThB5Tl) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ) | [Darkstar](https://open.spotify.com/album/1BFdYawImsAcojUrL3I9Km) | 3:52 |
-| 72 | [Blue Mile](https://open.spotify.com/track/5EIyuLTiZwAmmlsqxdLJC0) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [Barclay Crenshaw](https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3) | [Blue Mile](https://open.spotify.com/album/77I9ebOxX1nxDk8vlJNUH9) | 3:32 |
+| 72 | [Diamond](https://open.spotify.com/track/3G3oGZa8nfjofmhXokFbtU) | [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4) | [Diamond](https://open.spotify.com/album/2gpllHbaGDQFUQZTo69O9j) | 2:42 |
 | 73 | [Ambrosia \- Rival Remix](https://open.spotify.com/track/2StQdgJrt31eK1iFalj9p0) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD), [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz) | [Ambrosia \(Rival Remix\)](https://open.spotify.com/album/0YF9mrX7hWAiIxk7r496tY) | 4:05 |
-| 74 | [JUMP OUT](https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [JUMP OUT](https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ) | 2:25 |
-| 75 | [Diamond](https://open.spotify.com/track/3G3oGZa8nfjofmhXokFbtU) | [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4) | [Diamond](https://open.spotify.com/album/2gpllHbaGDQFUQZTo69O9j) | 2:42 |
+| 74 | [Blue Mile](https://open.spotify.com/track/5EIyuLTiZwAmmlsqxdLJC0) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [Barclay Crenshaw](https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3) | [Blue Mile](https://open.spotify.com/album/77I9ebOxX1nxDk8vlJNUH9) | 3:32 |
+| 75 | [JUMP OUT](https://open.spotify.com/track/5U0uFS6xvx7UCskac6yUF0) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [JUMP OUT](https://open.spotify.com/album/6mpYRkvCqbmNkmYlEBOMhQ) | 2:25 |
 | 76 | [Light Up](https://open.spotify.com/track/7oouv30MA1XJGi0PvCosE7) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Light Up](https://open.spotify.com/album/0ob9yvDuBLAEhfX2RDKkUC) | 3:10 |
 | 77 | [DNA \(Loving You\) \[feat\. Hannah Boleyn\] \[Levity Remix\]](https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [DNA \(Loving You\) \[feat\. Hannah Boleyn\] \[Levity Remix\]](https://open.spotify.com/album/4dKYCpl0dDy01Lw2msVJBU) | 2:56 |
 | 78 | [HACKING THE GATE](https://open.spotify.com/track/3PwruJbrJXpeDCLJ2hiid9) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [ADRENOCHROME](https://open.spotify.com/album/4H2abOEiBXEQpNibmwu4Li) | 2:53 |

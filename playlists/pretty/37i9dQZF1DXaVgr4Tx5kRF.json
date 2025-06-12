@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 658887,
+  "num_followers": 658893,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "Best of Babybird",
+        "url": "https://open.spotify.com/album/7AHO6a0Xt8U95Rsf5CVXM3"
+      },
+      "artists": [
+        {
+          "name": "Babybird",
+          "url": "https://open.spotify.com/artist/1QCANeffsBIHjzhMqUIxBh"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "You're Gorgeous",
+      "url": "https://open.spotify.com/track/44OnyhrKWViHX8aHnMk0PU"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Ace A's + Killer B's",
         "url": "https://open.spotify.com/album/1mkXcNQ9jiQmyHDugV7vGf"
       },
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "This Is How It Feels",
-        "url": "https://open.spotify.com/album/3ucH3ja1FUFk9sNwp4DP54"
-      },
-      "artists": [
-        {
-          "name": "Inspiral Carpets",
-          "url": "https://open.spotify.com/artist/66GWpx9iLxrvvfhDsG9STP"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "This Is How It Feels - Radio Mix",
-      "url": "https://open.spotify.com/track/0LEiOVuG6xjdsjhVNTavfb"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Definitely Maybe (Remastered) [Deluxe Edition Remastered]",
         "url": "https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg"
       },
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Attack of the Grey Lantern",
-        "url": "https://open.spotify.com/album/76kwuhhXHxnimY5aiKdvZJ"
+        "name": "This Is How It Feels",
+        "url": "https://open.spotify.com/album/3ucH3ja1FUFk9sNwp4DP54"
       },
       "artists": [
         {
-          "name": "Mansun",
-          "url": "https://open.spotify.com/artist/7rqRuB0wgUaStDN73PlV4U"
+          "name": "Inspiral Carpets",
+          "url": "https://open.spotify.com/artist/66GWpx9iLxrvvfhDsG9STP"
         }
       ],
-      "duration_ms": 271106,
-      "name": "Wide Open Space",
-      "url": "https://open.spotify.com/track/6qDcBy0eHAJW3xoezLs9Ik"
+      "duration_ms": 194000,
+      "name": "This Is How It Feels - Radio Mix",
+      "url": "https://open.spotify.com/track/0LEiOVuG6xjdsjhVNTavfb"
     }
   ],
   "unique_name": "Britpop, Etc.",

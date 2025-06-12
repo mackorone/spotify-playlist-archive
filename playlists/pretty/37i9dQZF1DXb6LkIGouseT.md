@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 
 > Honor our native communities\. Listen to the sounds of acclaimed artists' Native American flute music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,596 likes - 70 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,636 likes - 70 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 | 69 | [Brother Wolf](https://open.spotify.com/track/57kOtzCpHthVIepprNw5Wi) | [Music Body and Spirit](https://open.spotify.com/artist/4fQId7SvZ1T10dAmQ7ozxo) | [Native American Music](https://open.spotify.com/album/5G1mttC8wtVbOtLK8sJBw4) | 3:15 |
 | 70 | [Healer's Melody](https://open.spotify.com/track/7hjxUyGVA2SYbmgJbZpr6T) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Native Flute Ensemble](https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK) | [\(Indian\) Native Flute Ensemble: Spirit Wind \- Native American Flute](https://open.spotify.com/album/3R5UUf6XOznRyhtj7QsKjQ) | 3:14 |
 
-Snapshot ID: `ZohQRQAAAACwpCzcut8GBD+x7OQS/Zul`
+Snapshot ID: `AAAAAJ8g8gNdQX/2VfPuWGgSUrXFkJDX`

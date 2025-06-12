@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 
 > Chill, beachy tunes to soundtrack your summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188 likes - 96 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 210 likes - 96 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 | 95 | [Flip\-Flop](https://open.spotify.com/track/4qR9r8NuaxvQvHf2AQ2jy8) | [Corey Smith](https://open.spotify.com/artist/2Da6v0shOpKrOG07ZxonXo) | [While The Gettin' Is Good](https://open.spotify.com/album/1GYdmYeRu7YWfBjM4rc5qD) | 3:18 |
 | 96 | [Tan Lines](https://open.spotify.com/track/1LD1mDNjdlDjaybBOypZ15) | [Love and Theft](https://open.spotify.com/artist/03a5eVjzFyQlR4XyVSwt4t) | [Whiskey On My Breath](https://open.spotify.com/album/2uKhKJaynZmZ6CpFkzyp9B) | 2:46 |
 
-Snapshot ID: `aEBg1AAAAAD9EqWLbBl1/DVNmbPqHqA8`
+Snapshot ID: `aEBg1AAAAAAhR29uu5VECOgIOenOK5d/`

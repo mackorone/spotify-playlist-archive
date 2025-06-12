@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-801 songs - 1 day 10 hr 9 min
+804 songs - 1 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A place to go](https://open.spotify.com/track/7oFm6C4wxkkVM1t1Via4mu) | [KORIBA](https://open.spotify.com/artist/0ttPJjx1cSyAn4CNVPNpEJ) | [Lonely Trip](https://open.spotify.com/album/2ezeL6Yi22qbpZnPgjU9nf) | 2:15 | 2023-03-31 | 2023-04-22 |
 | [A prima vista](https://open.spotify.com/track/26Hqojdj2i0hwaZNlpb2t5) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [A prima vista](https://open.spotify.com/album/44ua5J4fZK8cZ43etFdbSY) | 1:58 | 2023-04-21 | 2023-08-26 |
 | [A primeira vez](https://open.spotify.com/track/5dPjY3uVSuqscIdj71O3GR) | [Mélissa Blakesley](https://open.spotify.com/artist/6t8jy1xk9kQQOX5UIqy4sC) | [A primeira vez](https://open.spotify.com/album/3VSlAYGBf4pvTUAAhYXb6v) | 1:56 | 2023-04-21 | 2023-08-26 |
+| [A Quiet Measure](https://open.spotify.com/track/5q67OyAvjtKpCcjt2WrWH4) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [A Quiet Measure](https://open.spotify.com/album/064FOaz6IDEc24eUjnhcfj) | 2:49 | 2025-06-11 |  |
 | [A Sarabande](https://open.spotify.com/track/2BV3vnBo51Er5uO5xDxPk0) | [Douglas Ferdi](https://open.spotify.com/artist/6N5M807WEPYUZNYo40qhPw) | [A Sarabande](https://open.spotify.com/album/1ZktLifDStzFBtykjoFzHb) | 1:50 | 2023-04-21 | 2023-08-26 |
 | [A Shadow of Something Beautiful \(Classical Version\)](https://open.spotify.com/track/3JMYAwDpZsms3s9vVPnC7O) | [Knut Bjørnar Asphol](https://open.spotify.com/artist/3O0OUcf7693cHwTBJWKl5K), [KNUT](https://open.spotify.com/artist/6h3SYhsBfgz8N71ozZtHbD) | [A Shadow of Something Beautiful \(Classical Version\)](https://open.spotify.com/album/7bi2mS7BjIfI8F3SgqBJcS) | 2:54 | 2023-04-21 |  |
 | [A Short Walk To Open Fields](https://open.spotify.com/track/0AcpMokszr0bPJQ5eoTPvg) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [A Short Walk To Open Fields](https://open.spotify.com/album/4DB1OJk9eG0vSkybSmHSQ0) | 3:12 | 2024-02-02 |  |
@@ -36,6 +37,7 @@
 | [Albarracín](https://open.spotify.com/track/1Syf6EfG7o04qESj65mxOv) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Albarracín](https://open.spotify.com/album/3xlEDW390BcYtfFMesVcv8) | 1:42 | 2022-08-05 | 2023-04-22 |
 | [Alegría](https://open.spotify.com/track/4EknSwO7h0DapEHV5G2vys) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Alegría](https://open.spotify.com/album/2UUxdIpFuyKudZgrUNZA6U) | 2:34 | 2023-04-21 | 2024-06-11 |
 | [Alexandria](https://open.spotify.com/track/6VBcvDRVk9dPAVkA9Katq8) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Alexandria](https://open.spotify.com/album/40l2y3r9iYUVkxTrA5yYU1) | 2:38 | 2023-04-21 | 2023-06-03 |
+| [Algo Lento](https://open.spotify.com/track/7eDXi2Pu6Kx9Qxam7Rtn6V) | [Antonio Conti](https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk) | [Algo Lento](https://open.spotify.com/album/1zq6QFxR7OhZbgKLWUDtMs) | 2:17 | 2025-06-11 |  |
 | [All Because I Found You](https://open.spotify.com/track/7nMYvgw89GfmCixfIopY3J) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [All Because I Found You](https://open.spotify.com/album/1bAwPcodbxhx19GvgzYSsX) | 3:11 | 2023-05-12 | 2024-05-28 |
 | [Along The River Bed](https://open.spotify.com/track/1BM24Gn75oMaeHhhepw5s5) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [Along The River Bed](https://open.spotify.com/album/5SgOo5N1ol9tZM97orurK0) | 3:26 | 2023-04-21 | 2023-05-13 |
 | [Alpen Rose](https://open.spotify.com/track/4pSxsViyGEsfiKcj5BbpvY) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Alpen Rose](https://open.spotify.com/album/0d5G3HUH7LhGhaegh6k2YW) | 2:44 | 2022-12-16 | 2023-04-22 |
@@ -50,7 +52,7 @@
 | [Anavilhanas](https://open.spotify.com/track/0OIW12J6IfqyQLZBe2eJ3u) | [Diego de Frigiliana](https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7) | [Anavilhanas](https://open.spotify.com/album/7FDvqlWnyupmAGykA4IoGc) | 2:09 | 2023-04-21 |  |
 | [Andromeda Shimmer](https://open.spotify.com/track/6dDWBvom0X1VsTaH6k6Uml) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [Andromeda Shimmer](https://open.spotify.com/album/4lUIFJ7YZuwxqEYoMwWMQB) | 2:46 | 2022-07-15 | 2023-03-11 |
 | [Angel Falls](https://open.spotify.com/track/7e29VRvlas6fkZrstGcPry) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Angel Falls](https://open.spotify.com/album/5Tlrch0TT9BZ9texXaqc3E) | 2:24 | 2023-05-12 |  |
-| [Another Time](https://open.spotify.com/track/5B86TJA6dpcXzZ7sh8wQpq) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Another Time](https://open.spotify.com/album/2X3xWHXPfx2mUfPEwjBs3K) | 2:25 | 2024-04-19 |  |
+| [Another Time](https://open.spotify.com/track/5B86TJA6dpcXzZ7sh8wQpq) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Another Time](https://open.spotify.com/album/2X3xWHXPfx2mUfPEwjBs3K) | 2:25 | 2024-04-19 | 2025-06-12 |
 | [Antofagasta](https://open.spotify.com/track/5CuV4yJTY9gaMGBlq14afa) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Antofagasta](https://open.spotify.com/album/1Vght0beo7Xp1utA81XL2a) | 2:07 | 2022-07-15 | 2022-10-29 |
 | [Antoni](https://open.spotify.com/track/6zklaT8tid33upy12H9Tlk) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Antoni](https://open.spotify.com/album/3lXB92uIKsnBNy9XLFzDqO) | 2:46 | 2022-07-15 | 2023-04-22 |
 | [Ao Clarear](https://open.spotify.com/track/3ZBVScPb6BlEwHruAWdhtx) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Mare](https://open.spotify.com/album/5TUcF5QXLj6Ola0lbnCFiy) | 3:17 | 2023-04-21 |  |
@@ -126,7 +128,7 @@
 | [Carry Me](https://open.spotify.com/track/2kSUbTGxyd3wDngU35HzSP) | [Luca Tudela](https://open.spotify.com/artist/2gy6cul8rT4vjPjhSlbuo3) | [Carry Me](https://open.spotify.com/album/6i2lhyW1odbDEe3er0rur5) | 2:08 | 2023-04-21 | 2024-05-26 |
 | [Cartas da Infância](https://open.spotify.com/track/6oWxIZMs643Wtw2cuDh2b3) | [Willian Rosa](https://open.spotify.com/artist/7prsw90i6r3zf2WUsSajns) | [Cartas da Infância](https://open.spotify.com/album/0BhYFKgYBJydcaDQG6emhd) | 4:23 | 2022-07-15 | 2023-02-25 |
 | [Cast Away](https://open.spotify.com/track/6ELU3LmFt2QjMzLnTUyC5M) | [Andrei Smirnova](https://open.spotify.com/artist/6wLqG3xZFWS0M5pFimbbyr) | [Cast Away](https://open.spotify.com/album/5W2jvQiILAJNhun9k3jKg9) | 1:50 | 2023-04-21 | 2023-08-26 |
-| [Casting Shadows](https://open.spotify.com/track/2BOy2Kv6cEOv7SOl9XYDWW) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Casting Shadows](https://open.spotify.com/album/1taI73hX4GC0HzNJAWd9sg) | 3:12 | 2024-09-25 |  |
+| [Casting Shadows](https://open.spotify.com/track/2BOy2Kv6cEOv7SOl9XYDWW) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Casting Shadows](https://open.spotify.com/album/1taI73hX4GC0HzNJAWd9sg) | 3:12 | 2024-09-25 | 2025-06-12 |
 | [Castlewood](https://open.spotify.com/track/7y0jzOmOGjJa1x8UUCyEIu) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [Castlewood](https://open.spotify.com/album/5zzTVTdeVT4u5mE9hhPNNf) | 2:10 | 2024-10-01 |  |
 | [Catamount Mountain](https://open.spotify.com/track/0ESy5EctGe01Ko8Oy2JkIO) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [Catamount Mountain](https://open.spotify.com/album/4qkR8LyWFPQ2dnnu0VPYxm) | 2:27 | 2023-02-24 | 2023-04-22 |
 | [Catch a Moment in Time](https://open.spotify.com/track/5rBdcn0BUdKTMxkYdiAfts) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Catch a Moment in Time](https://open.spotify.com/album/4goQWEdTf595E0WISbjKyT) | 3:50 | 2022-07-15 | 2023-04-22 |
@@ -226,7 +228,7 @@
 | [En Mis Brazos](https://open.spotify.com/track/5IRsN77ZPXy0YmY3cvVFuX) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [En Mis Brazos](https://open.spotify.com/album/3wd6e9BvUxKEVZf0LCj56t) | 2:02 | 2022-11-25 | 2023-04-22 |
 | [Enchantment](https://open.spotify.com/track/10SYT1xYCFAZZg7muzeAxC) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Enchantment](https://open.spotify.com/album/1wUy2g9PMkkvA1gZZQU8CX) | 3:07 | 2023-04-21 |  |
 | [Encounters](https://open.spotify.com/track/01zpU0ewFP8tjG1J9We98x) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Encounters](https://open.spotify.com/album/3JNn40KWFz77KtMcs1R2Um) | 2:11 | 2023-10-27 |  |
-| [Endless Path](https://open.spotify.com/track/67Q6qfYO7qXJjsIXbzZeJ4) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Endless Path](https://open.spotify.com/album/2kx0113Z17cfo8Vwd6KPmF) | 2:19 | 2024-04-19 |  |
+| [Endless Path](https://open.spotify.com/track/67Q6qfYO7qXJjsIXbzZeJ4) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Endless Path](https://open.spotify.com/album/2kx0113Z17cfo8Vwd6KPmF) | 2:19 | 2024-04-19 | 2025-06-12 |
 | [Endless Sun](https://open.spotify.com/track/5rX1CjuBtcbgVG9wthzuKx) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Endless Sun](https://open.spotify.com/album/27256ie5J0EmEgh2U8eZlf) | 1:44 | 2023-04-21 | 2023-08-26 |
 | [Enrejado](https://open.spotify.com/track/30qtyIShVMKBJ2BzHdHOpz) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Enrejado](https://open.spotify.com/album/7qlWfiqgc8galnEyU9AFO1) | 3:37 | 2022-07-15 | 2022-10-07 |
 | [Epilogue](https://open.spotify.com/track/3Nt4wp8TBemJLhPkBlf01y) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Believe](https://open.spotify.com/album/0Iutlc6WCFQ64TZrdQUECo) | 2:49 | 2023-04-21 |  |
@@ -704,6 +706,7 @@
 | [The Game Changer](https://open.spotify.com/track/35CHmzwJtxFaX2jrTwxvSS) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [The Game Changer](https://open.spotify.com/album/1aRdcDtkN2qlomNDagQ85C) | 2:26 | 2024-10-23 |  |
 | [The Hidden Valley](https://open.spotify.com/track/4R7b5uuUvxvER6JksVLDWi) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [The Hidden Valley](https://open.spotify.com/album/3I5xEp9VFZkL52a0DbRKUs) | 2:37 | 2022-12-09 | 2023-04-22 |
 | [The Hourglass](https://open.spotify.com/track/4ZKXTmQ9vGQG4QJEZjhm8u) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [The Hourglass](https://open.spotify.com/album/2JgivIpjbESxpFGEBZrhtK) | 2:14 | 2023-04-21 |  |
+| [The King Of Time](https://open.spotify.com/track/1gx6KSTQ2z9eVLM59C8iYg) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [The King Of Time](https://open.spotify.com/album/1Zb0eZyeNYw3s6pEN7SrCw) | 2:22 | 2025-06-11 |  |
 | [The Lighthouse](https://open.spotify.com/track/4DzBcv4qWnW7RfkWJ8fz2M) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Lighthouse](https://open.spotify.com/album/08uz1pfSwbk4z58608njlQ) | 2:20 | 2023-04-21 | 2023-06-09 |
 | [The Longing](https://open.spotify.com/track/29C5rzt8Y8YiyXFUByk41c) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [The Longing](https://open.spotify.com/album/1THZEd8ksJ873IqMsCtTb2) | 2:56 | 2023-04-21 | 2024-04-26 |
 | [The Mural](https://open.spotify.com/track/5M9bPsknT89l9tVjCh8kSI) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Mural](https://open.spotify.com/album/0oCHjXHrYiPoVLjHYnum88) | 2:08 | 2024-06-07 | 2024-12-11 |

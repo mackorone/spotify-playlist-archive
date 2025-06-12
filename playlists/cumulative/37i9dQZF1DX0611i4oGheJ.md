@@ -4,7 +4,7 @@
 
 > Sweet gems to help you slow down and savor your day.
 
-395 songs - 1 day 0 hr 58 min
+396 songs - 1 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Month Or Two](https://open.spotify.com/track/5jZ58MSH3B5fEciHveMDx4) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [How Did It Seem To You?](https://open.spotify.com/album/7JJ4Iz9RUdXMzaakBCnlwA) | 3:11 | 2023-04-28 |  |
 | [A Running Start](https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [A Running Start](https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG) | 4:21 | 2024-07-05 |  |
 | [A Thread to Find](https://open.spotify.com/track/3YQP3UTH8mLBS5bpaZAsyE) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [A Thread to Find](https://open.spotify.com/album/4jxZ8wm6AfkNUVDPmmT6Ua) | 3:48 | 2021-10-22 | 2022-07-20 |
-| [Aaron](https://open.spotify.com/track/3eWUGMJtaAjA7nj8JDmbsT) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik), [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI), [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 3:27 | 2025-01-07 |  |
+| [Aaron](https://open.spotify.com/track/3eWUGMJtaAjA7nj8JDmbsT) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik), [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI), [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 3:27 | 2025-01-07 | 2025-06-12 |
 | [After Hours](https://open.spotify.com/track/3cPWXpjXPPW8LIs27Bxv5c) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [After Hours](https://open.spotify.com/album/6OyLz1K6f82RCgcbsQ6jwv) | 3:12 | 2024-08-26 | 2025-01-18 |
 | [All I Need](https://open.spotify.com/track/6zmGtaJ5If4EXZOijSHnx0) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:53 | 2021-10-22 | 2024-04-20 |
 | [All in Good Time](https://open.spotify.com/track/3K8csekmDMhYCh0BDzalmW) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Light Verse](https://open.spotify.com/album/0dZ4tHT2Ka2kScPqLK9x1Q) | 4:15 | 2024-07-05 |  |
@@ -94,6 +94,7 @@
 | [Evidence of Living](https://open.spotify.com/track/3vTw0hP6ksUfC6dQ9JnaG7) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | [A Beginner's Guide to Bravery](https://open.spotify.com/album/5zo0VhHzIPJJMEdhiV3DLo) | 6:48 | 2021-10-22 | 2025-04-02 |
 | [Faceplant](https://open.spotify.com/track/2VeHykq7LnldFv0ugSUN57) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Dying Star](https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU) | 3:41 | 2021-10-22 | 2024-04-20 |
 | [Fade Into You](https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Falling In](https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU) | 5:15 | 2021-10-22 |  |
+| [Fall in Love With Her](https://open.spotify.com/track/3qk0TOeA6WtKsLbwQC8I8J) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg), [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Fall In Love With Her](https://open.spotify.com/album/5FLWW34mtPlu7S691mEQQ9) | 4:05 | 2025-06-11 |  |
 | [Fallout](https://open.spotify.com/track/359hAVmBw0503I81ATOcaJ) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [Fallout](https://open.spotify.com/album/1moTvG9SmxZ59rYEpitQ64) | 3:51 | 2024-03-15 |  |
 | [Feel Better](https://open.spotify.com/track/0StzhtAAdEIAcAMwDWY0kV) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 4:23 | 2025-01-07 |  |
 | [Fever To The Form](https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:12 | 2021-10-22 |  |

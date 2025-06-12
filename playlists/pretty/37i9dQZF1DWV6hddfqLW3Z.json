@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 806471,
+  "num_followers": 806498,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-06-06 03:50:36",
       "album": {
-        "name": "N\u00e3o Sou Nenhum Roberto, Mas \u00e0s Vezes Chego Perto",
-        "url": "https://open.spotify.com/album/2pOKaRgRQWuCbYFX2UeYDh"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 211237,
-      "name": "De Tanto Amor",
-      "url": "https://open.spotify.com/track/1Se9OjFwgSh05eRyOmDjLl"
-    },
-    {
-      "added_at": "2025-06-06 03:50:36",
-      "album": {
         "name": "Beleza. Mas agora a gente faz o que com isso?",
         "url": "https://open.spotify.com/album/0cOW8fhryMaZZG4Mo0VuEf"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 158461,
       "name": "A Janela, Carolina",
       "url": "https://open.spotify.com/track/08ccPaMAsu7IYnbFDJxUoH"
+    },
+    {
+      "added_at": "2025-06-06 03:50:36",
+      "album": {
+        "name": "N\u00e3o Sou Nenhum Roberto, Mas \u00e0s Vezes Chego Perto",
+        "url": "https://open.spotify.com/album/2pOKaRgRQWuCbYFX2UeYDh"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 211237,
+      "name": "De Tanto Amor",
+      "url": "https://open.spotify.com/track/1Se9OjFwgSh05eRyOmDjLl"
     },
     {
       "added_at": "2025-06-06 03:50:36",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-06-06 03:50:36",
       "album": {
-        "name": "Samba",
-        "url": "https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 160238,
-      "name": "Samba",
-      "url": "https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3"
-    },
-    {
-      "added_at": "2025-06-06 03:50:36",
-      "album": {
         "name": "Um Mar Pra Cada Um,",
         "url": "https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 196771,
       "name": "Joia",
       "url": "https://open.spotify.com/track/5PJZbd8I7PrQDDDcehVU6M"
+    },
+    {
+      "added_at": "2025-06-06 03:50:36",
+      "album": {
+        "name": "Samba",
+        "url": "https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 160238,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3"
     },
     {
       "added_at": "2025-06-06 03:50:36",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2025-06-06 03:50:36",
       "album": {
-        "name": "Dia Branco",
-        "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
-      },
-      "artists": [
-        {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
-        },
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 147899,
-      "name": "Dia Branco",
-      "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
-    },
-    {
-      "added_at": "2025-06-06 03:50:36",
-      "album": {
         "name": "Minha Felicidade",
         "url": "https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 217384,
       "name": "Minha Felicidade",
       "url": "https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ"
+    },
+    {
+      "added_at": "2025-06-06 03:50:36",
+      "album": {
+        "name": "Dia Branco",
+        "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
+      },
+      "artists": [
+        {
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 147899,
+      "name": "Dia Branco",
+      "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
     },
     {
       "added_at": "2025-06-06 03:50:36",
@@ -1187,8 +1187,8 @@
     {
       "added_at": "2025-06-06 03:50:36",
       "album": {
-        "name": "Amuleto",
-        "url": "https://open.spotify.com/album/4HvVCCgm8aIdaDryqCjMCn"
+        "name": "iCollection",
+        "url": "https://open.spotify.com/album/5RmJn59FZ0cGwGM6MqcgGg"
       },
       "artists": [
         {
@@ -1196,9 +1196,25 @@
           "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
         }
       ],
-      "duration_ms": 207530,
-      "name": "Amuleto",
-      "url": "https://open.spotify.com/track/5JEVbp6mX3umfQePbnN3sE"
+      "duration_ms": 214426,
+      "name": "Mexeu comigo",
+      "url": "https://open.spotify.com/track/7A8N1poNHW8yHXWIbLD5rL"
+    },
+    {
+      "added_at": "2025-06-06 03:50:36",
+      "album": {
+        "name": "Ax\u00e9 Bab\u00e1",
+        "url": "https://open.spotify.com/album/5c7O2fNHtkRRFKLB6nrTgN"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Le\u00e3o",
+          "url": "https://open.spotify.com/artist/5CmKyE7NjtR9qBq8HilUd8"
+        }
+      ],
+      "duration_ms": 211253,
+      "name": "Vumbora Amar",
+      "url": "https://open.spotify.com/track/56qoy2jHvVhU9BVQn218dQ"
     },
     {
       "added_at": "2025-06-06 03:50:36",
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2025-06-06 03:50:36",
       "album": {
-        "name": "Ax\u00e9 Bab\u00e1",
-        "url": "https://open.spotify.com/album/5c7O2fNHtkRRFKLB6nrTgN"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Le\u00e3o",
-          "url": "https://open.spotify.com/artist/5CmKyE7NjtR9qBq8HilUd8"
-        }
-      ],
-      "duration_ms": 211253,
-      "name": "Vumbora Amar",
-      "url": "https://open.spotify.com/track/56qoy2jHvVhU9BVQn218dQ"
-    },
-    {
-      "added_at": "2025-06-06 03:50:36",
-      "album": {
         "name": "Voando (Nel Blu Dipinto Di Blu)",
         "url": "https://open.spotify.com/album/1QQkssDjcaEVl6pJhSOWIQ"
       },
@@ -1259,28 +1259,24 @@
     {
       "added_at": "2025-06-06 03:50:36",
       "album": {
-        "name": "Quase Um Segundo",
-        "url": "https://open.spotify.com/album/5W3Uj6xgFVyH1Z6oNk6Nc2"
+        "name": "Logo agora",
+        "url": "https://open.spotify.com/album/1vx3DEh9jcrKeQeHuTIhVC"
       },
       "artists": [
         {
-          "name": "X\u00eania Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
-        },
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
         }
       ],
-      "duration_ms": 252436,
-      "name": "Quase Um Segundo",
-      "url": "https://open.spotify.com/track/1L9980Y779SA7ZWer3JAUg"
+      "duration_ms": 187573,
+      "name": "Logo agora",
+      "url": "https://open.spotify.com/track/0QSDHO1XzAfnjv3Owv3PvG"
     },
     {
       "added_at": "2025-06-06 03:50:36",
       "album": {
-        "name": "iCollection",
-        "url": "https://open.spotify.com/album/5RmJn59FZ0cGwGM6MqcgGg"
+        "name": "Amuleto",
+        "url": "https://open.spotify.com/album/4HvVCCgm8aIdaDryqCjMCn"
       },
       "artists": [
         {
@@ -1288,9 +1284,9 @@
           "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
         }
       ],
-      "duration_ms": 214426,
-      "name": "Mexeu comigo",
-      "url": "https://open.spotify.com/track/7A8N1poNHW8yHXWIbLD5rL"
+      "duration_ms": 207530,
+      "name": "Amuleto",
+      "url": "https://open.spotify.com/track/5JEVbp6mX3umfQePbnN3sE"
     }
   ],
   "unique_name": "Cafezinho",

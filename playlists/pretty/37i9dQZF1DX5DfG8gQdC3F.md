@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Addison Rae, Mother Mother, Ethel Cain, Turnstile and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,904 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,920 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [+ Perra + Bitch](https://open.spotify.com/track/2Lncru2yyoYqC0RZfIm9gU) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 3:18 |
 | 100 | [Milk and Sugar](https://open.spotify.com/track/5iPCywl5F6YWIv9Hw0Ep0H) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Milk and Sugar](https://open.spotify.com/album/6rPasl9LpIQDyg802w4c8A) | 2:29 |
 
-Snapshot ID: `AAAAADN+qlKY50wORn4cgj8n1BZ2O7TA`
+Snapshot ID: `aEJn4gAAAADUFxK2xlP/50T/jslF6B5x`

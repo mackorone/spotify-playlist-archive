@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles. ¡Celebramos 10 años de Fresh Finds con Oreiana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,977 likes - 55 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,993 likes - 55 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 11 | [Madrid va a ser mi cárcel](https://open.spotify.com/track/3KUSM2n1C8a1cL77OCZjj0) | [Stormykid](https://open.spotify.com/artist/5h47EUJ6IZrCFO1paksFkb) | [Madrid va a ser mi cárcel](https://open.spotify.com/album/6cSIQ0HIECE3Rwoc5MP33m) | 2:45 |
 | 12 | [RISE](https://open.spotify.com/track/3riYVJerz2uVUDjklG4tmA) | [Galician Army](https://open.spotify.com/artist/1uryf2kVKqQP54Kb9EsN2x) | [VALURIA](https://open.spotify.com/album/5wylvZK4lYI6uvyxuhVIf0) | 2:54 |
 | 13 | [TOSSA](https://open.spotify.com/track/75MWEiPguoaPh6tigP3Gvd) | [Menend](https://open.spotify.com/artist/7s2SDZOabRitXKgUdoXmXC), [Blanca Vergara](https://open.spotify.com/artist/1x96drG6MuIhTlof4vmpWU) | [TOSSA](https://open.spotify.com/album/5c8TTHnXmWuDynsh3s2wdi) | 2:44 |
-| 14 | [TEPT](https://open.spotify.com/track/66ttpLo7GeZsxoL4Vq1G8Q) | [Nieto666](https://open.spotify.com/artist/33KBvXRNqHfcTPhBZC8Njp), [Jim Morrisound](https://open.spotify.com/artist/4TSeUlFyyuW7A492pf1Mzq), [Kaze](https://open.spotify.com/artist/0EQlzVtHGgq0jNf659egvQ) | [Renacer](https://open.spotify.com/album/2842gyBDIHQKit2mcex9D7) | 3:01 |
+| 14 | [TEPT](https://open.spotify.com/track/66ttpLo7GeZsxoL4Vq1G8Q) | [Nieto666](https://open.spotify.com/artist/33KBvXRNqHfcTPhBZC8Njp), [Kaze](https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg), [Jim Morrisound](https://open.spotify.com/artist/4TSeUlFyyuW7A492pf1Mzq) | [Renacer](https://open.spotify.com/album/2842gyBDIHQKit2mcex9D7) | 3:01 |
 | 15 | [X TU BOKITA](https://open.spotify.com/track/3nC9otb8mDaN0L6nAzuoaN) | [Kristina](https://open.spotify.com/artist/07Z7bvJe6gxi40UxVpuEL1) | [X TU BOKITA](https://open.spotify.com/album/3ZNcHIWgIuA3NexFMFtEcf) | 2:03 |
 | 16 | [uY](https://open.spotify.com/track/0QD6Gx1wmaF7OIJtp59VcA) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [uY](https://open.spotify.com/album/6lD3bXIy50ABkNfE7t9Tw4) | 3:25 |
 | 17 | [tu eres mi ego](https://open.spotify.com/track/1Lmrn6smYxy6YCsPtuvlKg) | [fuchi](https://open.spotify.com/artist/2RoM55NaaJktLPzgcPNGHE), [Gnry GLB](https://open.spotify.com/artist/1T5iyED4gWWpFgwAiXLQPZ), [Ranfish222](https://open.spotify.com/artist/4OdnUMQGfp7xyVqEm4XHy2) | [tu eres mi ego](https://open.spotify.com/album/5fIEd5Eo5FEHm0Vx7kl5Ae) | 2:01 |

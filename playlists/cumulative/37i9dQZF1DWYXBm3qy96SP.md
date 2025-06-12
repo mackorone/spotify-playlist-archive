@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: TURNSTILE
 
-1,600 songs - 3 day 20 hr 10 min
+1,601 songs - 3 day 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,7 +485,7 @@
 | [Faith](https://open.spotify.com/track/1PI1AYbn0QXlFSrfxHMoyK) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Songs of The Hazy Memories](https://open.spotify.com/album/4mlgz1lwErzQAyjgPa57t1) | 3:04 | 2025-01-23 |  |
 | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z) | 2:59 | 2023-09-15 | 2024-03-01 |
 | [Fake Ass Friends](https://open.spotify.com/track/5t3X72EbaFti38zPMlqeTC) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Fake Ass Friends](https://open.spotify.com/album/7H7jMWjWlDy75T59WbWYsv) | 2:18 | 2024-02-29 | 2025-04-04 |
-| [Falling \(feat\. Taka\)](https://open.spotify.com/track/7HaUkQ34NYlOXFFspHeoG6) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV), [Taka](https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B) | [Falling \(feat\. Taka\)](https://open.spotify.com/album/4W7cA18z4TfyRKgnrAD0Sm) | 2:58 | 2024-11-28 |  |
+| [Falling \(feat\. Taka\)](https://open.spotify.com/track/7HaUkQ34NYlOXFFspHeoG6) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV), [Taka](https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B) | [Falling \(feat\. Taka\)](https://open.spotify.com/album/4W7cA18z4TfyRKgnrAD0Sm) | 2:58 | 2024-11-28 | 2025-06-12 |
 | [Fallout](https://open.spotify.com/track/2RrDkTF6bgjgYsYN5HaaFB) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Paper Hearts](https://open.spotify.com/album/4di62gnBZPDefkKwMBLXPb) | 3:17 | 2023-09-28 | 2023-10-06 |
 | [Fallout \- Reimagined](https://open.spotify.com/track/5WRglege8fY78WiS4D5kym) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Fallout \(Reimagined\)](https://open.spotify.com/album/32RUVBrBxzhAMzLY5JgXl7) | 4:25 | 2024-02-08 | 2024-02-16 |
 | [Farewell For Now](https://open.spotify.com/track/6Uildyl4k0erIATWZw7mYb) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Farewell For Now](https://open.spotify.com/album/4SU4ZVuuQzHhf55mE7QRWP) | 4:28 | 2023-06-08 | 2023-06-23 |
@@ -1386,6 +1386,7 @@
 | [The only conscious being in the universe](https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Tw\*ts](https://open.spotify.com/album/5N3ROnE45uWHTrgf2XiiQy) | 3:18 | 2024-06-06 | 2024-07-19 |
 | [THE OUTSIDE](https://open.spotify.com/track/6y8p0dDbtPOfAPoTdNv2xi) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [THE OUTSIDE](https://open.spotify.com/album/6SjNzyDPzCXbCyerVUvQQN) | 4:04 | 2023-07-27 | 2023-08-04 |
 | [The Rabbi](https://open.spotify.com/track/6YokS9sLLeB1bLBq1Szcc9) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren \(Deluxe\)](https://open.spotify.com/album/7oIWsV8OxCtzp7LyJa23wg) | 2:43 | 2023-07-27 | 2023-08-04 |
+| [The Rope](https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [The Rope](https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId) | 3:10 | 2025-06-05 |  |
 | [The Serpent and the King](https://open.spotify.com/track/2n09w41gAdEsJFp6bD0sBT) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [The Serpent and the King](https://open.spotify.com/album/53T5pDi25DmqJiQgHdinBq) | 4:19 | 2024-02-22 | 2024-03-08 |
 | [the slab](https://open.spotify.com/track/5ZbDyFKoowe2Rwi5xjcNQp) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [the slab](https://open.spotify.com/album/1OheOBc8tPeAQRNoFAq6ve) | 5:10 | 2023-08-10 | 2023-08-18 |
 | [The Summoning](https://open.spotify.com/track/0S38Oso3I9vpDXcTb7kYt9) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 6:35 | 2023-06-22 | 2024-05-03 |

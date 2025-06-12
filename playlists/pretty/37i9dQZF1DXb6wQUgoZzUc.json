@@ -1,6 +1,6 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 1069527,
+  "num_followers": 1070066,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2025-05-23 06:00:33",
       "album": {
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/7haP1A1a1ssJKXBKskVLvG"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "duration_ms": 178407,
+      "name": "Singapur",
+      "url": "https://open.spotify.com/track/5q7icrT1Wn8PHaePIjYYyg"
+    },
+    {
+      "added_at": "2025-05-23 06:00:33",
+      "album": {
         "name": "UN TRIO",
         "url": "https://open.spotify.com/album/3zAkWZlz7sa6cuzUlAXCF8"
       },
@@ -1179,46 +1199,6 @@
     {
       "added_at": "2025-05-23 06:00:33",
       "album": {
-        "name": "El Androide",
-        "url": "https://open.spotify.com/album/7haP1A1a1ssJKXBKskVLvG"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
-        }
-      ],
-      "duration_ms": 178407,
-      "name": "Singapur",
-      "url": "https://open.spotify.com/track/5q7icrT1Wn8PHaePIjYYyg"
-    },
-    {
-      "added_at": "2025-05-23 06:00:33",
-      "album": {
-        "name": "TOA",
-        "url": "https://open.spotify.com/album/339pENtTr43vsQGyGZC0qC"
-      },
-      "artists": [
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 181991,
-      "name": "TOA",
-      "url": "https://open.spotify.com/track/7gdDVtwNZfpyymuUuNQBD8"
-    },
-    {
-      "added_at": "2025-05-23 06:00:33",
-      "album": {
         "name": "Chulo pt.2",
         "url": "https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 219333,
       "name": "Chulo pt.2",
       "url": "https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm"
+    },
+    {
+      "added_at": "2025-05-23 06:00:33",
+      "album": {
+        "name": "TOA",
+        "url": "https://open.spotify.com/album/339pENtTr43vsQGyGZC0qC"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 181991,
+      "name": "TOA",
+      "url": "https://open.spotify.com/track/7gdDVtwNZfpyymuUuNQBD8"
     },
     {
       "added_at": "2025-05-23 06:00:33",

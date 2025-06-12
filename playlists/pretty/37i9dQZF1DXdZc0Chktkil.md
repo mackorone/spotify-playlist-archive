@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdZc0Chktkil.md) - [plain]
 
 > Strength and honor! Listen to the music from Gladiator and Gladiator II.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,323 likes - 38 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,365 likes - 38 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdZc0Chktkil.md) - [plain]
 | 37 | [Elysium](https://open.spotify.com/track/20rmtxljOGVz4T3nSrtAV1) | [Klaus Badelt](https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ), [Lisa Gerrard](https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q), [The Lyndhurst Orchestra](https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF) | [Gladiator \- Music From The Motion Picture](https://open.spotify.com/album/0mN9E0N4bRBD7GKktlaRI0) | 2:41 |
 | 38 | [Honor Him](https://open.spotify.com/track/0p21vI2StdprWPtAGftM5c) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q), [The Lyndhurst Orchestra](https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF) | [Gladiator \- Music From The Motion Picture](https://open.spotify.com/album/0mN9E0N4bRBD7GKktlaRI0) | 1:19 |
 
-Snapshot ID: `Z0AP0AAAAAAJPjzzhmMr3FjQQg3gCUdc`
+Snapshot ID: `Z0AP0AAAAAC7BY2tHBEnUX4R/oSTv319`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 雷擎 \(L8ching\) x 阿橘 \(Ahh G\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,820 likes - 124 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,821 likes - 124 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

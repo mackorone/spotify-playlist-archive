@@ -1,6 +1,6 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1972499,
+  "num_followers": 1972088,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2025-05-30 18:23:54",
       "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
+    },
+    {
+      "added_at": "2025-05-30 18:23:54",
+      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 159344,
       "name": "Committed",
       "url": "https://open.spotify.com/track/7xdRj1wA4XzYnXynPmtmnq"
-    },
-    {
-      "added_at": "2025-05-30 18:23:54",
-      "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5"
     },
     {
       "added_at": "2025-05-30 18:23:54",
@@ -947,26 +947,6 @@
     {
       "added_at": "2025-05-30 18:23:54",
       "album": {
-        "name": "Euphoria (Standard US/Latin version)",
-        "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 200346,
-      "name": "Cuando Me Enamoro",
-      "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
-    },
-    {
-      "added_at": "2025-05-30 18:23:54",
-      "album": {
         "name": "Hasta Ese D\u00eda",
         "url": "https://open.spotify.com/album/6cO7pYatv2CewTgj1ejYPw"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 245062,
       "name": "Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/2chfSxiJbU8B8jpEHyuNm2"
+    },
+    {
+      "added_at": "2025-05-30 18:23:54",
+      "album": {
+        "name": "Euphoria (Standard US/Latin version)",
+        "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 200346,
+      "name": "Cuando Me Enamoro",
+      "url": "https://open.spotify.com/track/79gkHjNTSyGPXEyGkNQ8zH"
     },
     {
       "added_at": "2025-05-30 18:23:54",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-05-30 18:23:54",
       "album": {
-        "name": "al romper la burbuja",
-        "url": "https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 239645,
-      "name": "una foto de nosotros",
-      "url": "https://open.spotify.com/track/6W515xp3vRZshHQYP7fBMi"
-    },
-    {
-      "added_at": "2025-05-30 18:23:54",
-      "album": {
         "name": "Solo dime",
         "url": "https://open.spotify.com/album/73LJ6GfwGAdsICL1fjLiIX"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 164300,
       "name": "Solo dime",
       "url": "https://open.spotify.com/track/5KkzK5Q0yJaoDKWJ6ons7u"
+    },
+    {
+      "added_at": "2025-05-30 18:23:54",
+      "album": {
+        "name": "al romper la burbuja",
+        "url": "https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 239645,
+      "name": "una foto de nosotros",
+      "url": "https://open.spotify.com/track/6W515xp3vRZshHQYP7fBMi"
     },
     {
       "added_at": "2025-05-30 18:23:54",
@@ -1327,22 +1327,18 @@
     {
       "added_at": "2025-05-30 18:23:54",
       "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/1Uxqbryd9wcCJw0s38EuVU"
+        "name": "Ella Es",
+        "url": "https://open.spotify.com/album/4QPG0ciSRLDZ3990Ue3Qio"
       },
       "artists": [
         {
-          "name": "Bruno Romano",
-          "url": "https://open.spotify.com/artist/5X0LwOlzNqPulEOFm9hH1k"
-        },
-        {
-          "name": "Okills",
-          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
         }
       ],
-      "duration_ms": 214015,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/0k5uE9yV9IXNXrNkPcWCfW"
+      "duration_ms": 195600,
+      "name": "Ella Es",
+      "url": "https://open.spotify.com/track/7J2PcXNR6AUn5WreEtTjQS"
     }
   ],
   "unique_name": "Amor Amor",

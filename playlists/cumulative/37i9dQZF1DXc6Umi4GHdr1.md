@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-434 songs - 19 hr 15 min
+436 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [CLEVELAND, OH](https://open.spotify.com/track/7xAGtSGZCmzZ4gkJetmnoq) | [Brad Barr](https://open.spotify.com/artist/6FHxCoGlbKV6cvqO2AMaKv) | [THE WINTER MISSION](https://open.spotify.com/album/05dhqFgu0AVrq1qMjHhcfq) | 1:34 | 2022-05-13 | 2022-07-22 |
 | [Close By The Fire](https://open.spotify.com/track/5hOXnyfvjzAPaqMP9lpojq) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [Close By The Fire](https://open.spotify.com/album/5KzN2hat37o397IEZ25Zb7) | 3:25 | 2022-03-03 | 2022-07-22 |
 | [Clouded Reflection](https://open.spotify.com/track/0BTLhUHKgEi7Jx8uRjTAii) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Clouded Reflection](https://open.spotify.com/album/6KwQj931Z6T7Q6xg9Ldbge) | 2:03 | 2023-03-31 |  |
+| [Colourful Sky](https://open.spotify.com/track/5SWJzfELScwQIwKzg1ho1j) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [Colourful Sky](https://open.spotify.com/album/2AAhhCkSzV5pIgERXmBN4C) | 3:08 | 2025-06-11 |  |
 | [Comfort Me](https://open.spotify.com/track/3VR78tnaSa1owd7xP9hA2K) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [Comfort Me](https://open.spotify.com/album/1Ub90Zjn7J7amOBicYwUQ2) | 2:12 | 2024-02-02 |  |
 | [Compelling Voice](https://open.spotify.com/track/26aHSPwNdXTeFe3o9dOFgZ) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Compelling Voice](https://open.spotify.com/album/4Ieb0qbrj9v18DW9lHlNir) | 2:15 | 2024-02-02 | 2024-07-18 |
 | [Con Amore](https://open.spotify.com/track/3ddRRVM3eVeIAKUqF105Ch) | [Cristof Walters](https://open.spotify.com/artist/6njQrWP56vwgO6636iLPVa) | [Con Amore](https://open.spotify.com/album/6ePub6XVRKOYZBuZLCFCvE) | 2:54 | 2024-06-07 |  |
@@ -130,6 +131,7 @@
 | [Fallen Apples’ Scent](https://open.spotify.com/track/0kXnPmPo443VeP7XOi2Mai) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Fallen Apples’ Scent](https://open.spotify.com/album/7y4unim8M3o09r7QjegH8p) | 2:32 | 2023-03-10 | 2024-06-28 |
 | [Falling whisper](https://open.spotify.com/track/6iRoDo2n1mEzQxJ8dyapzI) | [Jesse Rostad](https://open.spotify.com/artist/1A4uhZo28pk8VoTEHrMQlg) | [Falling whisper](https://open.spotify.com/album/2fnkNpDjfaIlGgep0jsdPj) | 2:45 | 2025-03-25 | 2025-04-03 |
 | [Felicitas](https://open.spotify.com/track/4ODPCP6txgH3tMcgJIXTEl) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Felicitas](https://open.spotify.com/album/5u3kzaxNDz6eiuXAZCb1TT) | 2:45 | 2024-02-23 |  |
+| [Field](https://open.spotify.com/track/4LrY7WhlwMyEl6dY03ckGP) | [David Sereno](https://open.spotify.com/artist/25j4WPpCFt8QQUnb7TmREb) | [Field](https://open.spotify.com/album/4diUNRlr7IBAx9TiL9EKjl) | 2:17 | 2025-06-11 |  |
 | [Fjärilens vals](https://open.spotify.com/track/0c8qw1e6EKLoSP0ST7jByu) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Fjärilens vals](https://open.spotify.com/album/5uy8qV2Gc7M3bzfcOyrDBr) | 2:07 | 2022-07-01 | 2023-06-10 |
 | [Flickering](https://open.spotify.com/track/626xcRaDQa8wTLniVI14dY) | [Dan Lauften](https://open.spotify.com/artist/1nUr7Y05ABzaFcKpkg6l65) | [Flickering](https://open.spotify.com/album/4wSMizTu9VA7nDu1iZZGwx) | 1:41 | 2023-05-26 | 2023-06-16 |
 | [Floreio](https://open.spotify.com/track/5qse6XR40QbLoS8jRCwpXa) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Floreio](https://open.spotify.com/album/3BeHMO8k913Cci8qpbitgu) | 2:37 | 2023-10-27 | 2025-03-12 |

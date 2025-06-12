@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Arron Rebustes, JAO
 
-408 songs - 1 day 1 hr 37 min
+409 songs - 1 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [OTW](https://open.spotify.com/track/0mGAvPp4Vlmvl0nyLTxa5B) | [Kylu](https://open.spotify.com/artist/2zx8nVKyacp2vJXUX5S5t5), [Yamada](https://open.spotify.com/artist/6TvBl6ilNrLLzaF6t60pOI) | [OTW](https://open.spotify.com/album/1v3iD7TUq8F7PFCbIKunhw) | 3:12 | 2024-07-02 | 2024-09-07 |
 | [otw](https://open.spotify.com/track/3Wh9QrUzz5sEkiZAVUB9o1) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [otw](https://open.spotify.com/album/1yRluH890LAb0yIo1Ce2GV) | 3:32 | 2025-06-06 |  |
 | [OYAYI](https://open.spotify.com/track/5iXSkIei0VoKtw8tpsupg3) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Keene Leonor](https://open.spotify.com/artist/71B2UzHJV0hBcWOMY5kUOb) | [OYAYI](https://open.spotify.com/album/6Ds1JbP4vYQ69HmRYPvyBA) | 5:24 | 2024-10-18 | 2025-02-15 |
+| [O’ Kay Tamis](https://open.spotify.com/track/1s1nPYN5ryw0OHejNO0eAV) | [It All Started In May](https://open.spotify.com/artist/1qWLxocXl9bpeqejuQ8zJX) | [O’ Kay Tamis](https://open.spotify.com/album/5TKMkaDXaNA84CswvnKokE) | 3:03 | 2025-06-11 |  |
 | [Padama](https://open.spotify.com/track/3i7LbFROM0kQLM48OuoXev) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Padama](https://open.spotify.com/album/0hfGtoRMfbtf40Y2pBnw51) | 4:29 | 2025-01-31 | 2025-05-12 |
 | [Pag\-asa](https://open.spotify.com/track/6R7rgKajdeEl3SRL5sUCXo) | [Guddhist Gunatita](https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL), [LOIR](https://open.spotify.com/artist/2wNzD7tmG11cqjFBbzo7Qn) | [Pag\-asa](https://open.spotify.com/album/47DWeKvWujInh8xiR4MFWq) | 3:33 | 2024-11-08 | 2024-12-17 |
 | [Pag\-ibig Na Walang Hanggan](https://open.spotify.com/track/1RYRRz8IiuZdqw9EKCPr7j) | [EJ De Perio](https://open.spotify.com/artist/0EsbqfoNiHI0u1OaQUYDlI) | [Pag\-ibig Na Walang Hanggan](https://open.spotify.com/album/4jPtblOcE2uJrwvdCqKMit) | 3:54 | 2025-05-12 |  |

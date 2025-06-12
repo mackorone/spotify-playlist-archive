@@ -4,7 +4,7 @@
 
 > 🔥 A new mixtape drop every Thursday 🔥 Feid is bringing the heat this week!
 
-2,394 songs - 5 day 9 hr 44 min
+2,395 songs - 5 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1073,6 +1073,7 @@
 | [Kame Hame](https://open.spotify.com/track/7xh93gqqo5VBD6tGRp77qv) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Kame Hame](https://open.spotify.com/album/5mAMMqiX0sebEb7npoeBV8) | 2:47 | 2023-02-23 | 2023-03-03 |
 | [Karma](https://open.spotify.com/track/49l4Lh25VxAf5RQMaiRnoh) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Karma](https://open.spotify.com/album/711qEIa036lsAw3BRqk0jO) | 2:41 | 2024-02-28 | 2024-03-08 |
 | [Keii](https://open.spotify.com/track/5eEQCfq7MXQr6aHLNRUZLs) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Keii](https://open.spotify.com/album/30FZign4ARPElEZ23nU0ns) | 3:30 | 2022-06-03 | 2022-06-11 |
+| [KELOIDE](https://open.spotify.com/track/0Nd6eq8BzjMnyq9f37QuUW) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FERXXO VOL X: Sagrado](https://open.spotify.com/album/3PfMmFVUx9oJUFvnDf76Iz) | 2:59 | 2025-06-11 |  |
 | [Kemaropa](https://open.spotify.com/track/02PxKgpv2PcS8Af92r5yA8) | [Fuka](https://open.spotify.com/artist/5TyQ1yXiSsZxrJHrL5kFmZ), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Kemaropa](https://open.spotify.com/album/3SAMf0HeFcF0ryD1dZtTlm) | 2:28 | 2025-02-27 | 2025-03-07 |
 | [Kemba Walker](https://open.spotify.com/track/38kLHBjtWJaPXcyFhwRVtI) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Kemba Walker](https://open.spotify.com/album/0vHmXJNuSKs3Tbgt811AMe) | 2:32 | 2023-11-09 | 2023-11-17 |
 | [KI\-KI](https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [KI\-KI](https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1) | 2:21 | 2022-07-08 | 2022-07-16 |

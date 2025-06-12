@@ -4,7 +4,7 @@
 
 > Altijd frisse hits! Cover: Tino Martin
 
-985 songs - 2 day 0 hr 0 min
+987 songs - 2 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,6 +537,7 @@
 | [Lost Inside My Head](https://open.spotify.com/track/3yIcYpQTvfEnGjKxQjoa01) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Lost Inside My Head](https://open.spotify.com/album/7tOl1qi1qAGEWzKtgtM4QT) | 2:41 | 2023-06-08 | 2023-07-07 |
 | [Lost My Way](https://open.spotify.com/track/5jPFtwxkrKbpsqFgVE1czX) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Lost My Way](https://open.spotify.com/album/3jqAZ70Mmyq8arzZnSBiBX) | 2:22 | 2023-10-12 | 2024-01-16 |
 | [Lotje](https://open.spotify.com/track/7KJ021unkPr4E8Z8waQ5L7) | [Lustrum U.V.S.V./N.V.V.S.U.](https://open.spotify.com/artist/2VZGqt6DSeA7Z5103qtYRK), [ANNO ONS](https://open.spotify.com/artist/1mJoMjrpQm4HFytaAbts9r), [Jopke van Dobbenburgh](https://open.spotify.com/artist/2JA0qfHxIxKrjOj1YCuh9D), [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Lotje](https://open.spotify.com/album/2EZYI8AVfZxCzzKuRKCfS1) | 2:46 | 2025-04-03 | 2025-04-11 |
+| [Lotje \- Lil Kleine Remix](https://open.spotify.com/track/7ps3LdQn8lKdaa2sbIKFTR) | [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Lotje \(Lil Kleine Remix\)](https://open.spotify.com/album/3YQU2E8ipf8HVHgHvMupSU) | 2:26 | 2025-06-11 |  |
 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 | 2023-02-23 | 2023-04-13 |
 | [Love = Scary](https://open.spotify.com/track/39gFgXRPPZjv8HebmbT6rW) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Love = Scary](https://open.spotify.com/album/34mLUrlEQ8vjRYyDAXT4A8) | 2:27 | 2024-06-13 | 2024-07-23 |
 | [Love Again](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Love Again](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2023-02-23 | 2023-03-30 |
@@ -731,6 +732,7 @@
 | [Sabr](https://open.spotify.com/track/1qb1O5NZErBCccHoUTLfop) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Sabr](https://open.spotify.com/album/0zv0Zqgr17GO8SnYSUvW5G) | 3:01 | 2023-07-20 | 2023-08-01 |
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2024-09-26 | 2024-10-18 |
 | [Samen \(Niet Alleen\)](https://open.spotify.com/track/0lDTAuwGNLvOiavYF9GmFe) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l) | [Samen \(Niet Alleen\)](https://open.spotify.com/album/68hXkfVxsDWyBj7DDtz8Vg) | 2:25 | 2024-05-23 | 2024-06-21 |
+| [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 | 2025-06-11 |  |
 | [Satisfyer](https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Satisfyer](https://open.spotify.com/album/3Kg5fJ83azbIWDKrqAuh4c) | 2:01 | 2023-11-09 | 2023-12-14 |
 | [Saturday/Sunday](https://open.spotify.com/track/2tX3PY8eP3h9XaBcLXuRBa) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Saturday/Sunday](https://open.spotify.com/album/5mhEZOho91w4yYgkOTHdas) | 2:46 | 2023-02-23 | 2023-04-07 |
 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-02-29 | 2024-04-12 |

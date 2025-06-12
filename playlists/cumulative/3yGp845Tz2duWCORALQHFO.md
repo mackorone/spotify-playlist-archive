@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,098 songs - 7 day 0 hr 18 min
+3,099 songs - 7 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -776,6 +776,7 @@
 | [Enjoy the Night](https://open.spotify.com/track/5LRMIjcqMYaeRFyRCkrOme) | [D72](https://open.spotify.com/artist/6LwMT7S1AQrvSORZshZ9gt) | [Enjoy the Night](https://open.spotify.com/album/4V2JSNicC3ifIMIFQPb1Ie) | 2:50 | 2024-12-19 | 2025-01-04 |
 | [Enjoy the Silence](https://open.spotify.com/track/1s9xl5Nl6Ioo0oviSGww9e) | [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8), [Christian Burns](https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY) | [Enjoy the Silence](https://open.spotify.com/album/25RHfRq0MV0U23aDJkGSNs) | 3:29 | 2024-07-12 | 2024-07-19 |
 | [Enjoy Your Life](https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 3:34 | 2025-03-07 | 2025-03-15 |
+| [Enter Half Dead](https://open.spotify.com/track/0eLDIH7IRRJgr4K8Lx9ORG) | [Demien Sixx](https://open.spotify.com/artist/5D1fk08eJboaAHmo7WrZXT) | [Maximum Overdrive](https://open.spotify.com/album/1m0VV3OkRR6dzhsrJMpWvr) | 3:43 | 2025-06-11 |  |
 | [Enter The Portal](https://open.spotify.com/track/3g9RkurqYNtQkPRlJ0h9HO) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL) | [Enter The Portal](https://open.spotify.com/album/6r1uw773hRjdriOYL7fwPi) | 4:24 | 2025-02-13 | 2025-02-22 |
 | [Entropy](https://open.spotify.com/track/0RCyxsLTG6YJftMdcWg27A) | [Morggan](https://open.spotify.com/artist/0q2heBHFxWHgrWU3UMzH2n) | [Entropy](https://open.spotify.com/album/7CeF2G81sjnXUlNZ298GKC) | 3:22 | 2024-09-13 | 2024-09-21 |
 | [Erased](https://open.spotify.com/track/3ug5IXh3CC4keJp0zNEWrq) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd) | [Erased](https://open.spotify.com/album/0Pd0xUoBSx6MsRMNJmmKPs) | 3:02 | 2025-03-07 | 2025-03-15 |

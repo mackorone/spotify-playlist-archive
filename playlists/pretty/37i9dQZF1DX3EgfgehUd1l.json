@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 174216,
+  "num_followers": 174237,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Radio Gold - Cliff Richard And The Shadows",
-        "url": "https://open.spotify.com/album/57M65RmmlmYha7Q2J54IJ4"
-      },
-      "artists": [
-        {
-          "name": "Cliff Richard & The Shadows",
-          "url": "https://open.spotify.com/artist/4IdvJZeciaa37wYr2qBpjm"
-        }
-      ],
-      "duration_ms": 156793,
-      "name": "Living Doll",
-      "url": "https://open.spotify.com/track/2OqzR7I7GF19T2qPrbmYQC"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Born to Late",
         "url": "https://open.spotify.com/album/5TKfp7L2xIT6hRMaBlHM5y"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 139000,
       "name": "Born Too Late",
       "url": "https://open.spotify.com/track/3JebzygT2LJdcS24gfZ6ti"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Radio Gold - Cliff Richard And The Shadows",
+        "url": "https://open.spotify.com/album/57M65RmmlmYha7Q2J54IJ4"
+      },
+      "artists": [
+        {
+          "name": "Cliff Richard & The Shadows",
+          "url": "https://open.spotify.com/artist/4IdvJZeciaa37wYr2qBpjm"
+        }
+      ],
+      "duration_ms": 156793,
+      "name": "Living Doll",
+      "url": "https://open.spotify.com/track/2OqzR7I7GF19T2qPrbmYQC"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Guaglione",
-        "url": "https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc"
-      },
-      "artists": [
-        {
-          "name": "Marino Marini",
-          "url": "https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Come prima",
-      "url": "https://open.spotify.com/track/1PlV6IT8zWLrhJThiIozbv"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Just a little Love",
         "url": "https://open.spotify.com/album/4uI7l9lBNI3rzpW9V0OAif"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 158506,
       "name": "Outside of Heaven",
       "url": "https://open.spotify.com/track/5me6syYRQFgzMXGV3sK9Nr"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Guaglione",
+        "url": "https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc"
+      },
+      "artists": [
+        {
+          "name": "Marino Marini",
+          "url": "https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "Come prima",
+      "url": "https://open.spotify.com/track/1PlV6IT8zWLrhJThiIozbv"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1079,18 +1079,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Very Best Of Slim Whitman",
-        "url": "https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl"
+        "name": "Very Best Of",
+        "url": "https://open.spotify.com/album/4KB7NVgy3aKibqM1VqHd84"
       },
       "artists": [
         {
-          "name": "Slim Whitman",
-          "url": "https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0"
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        },
+        {
+          "name": "Henri Ren\u00e9 & His Orchestra and Chorus",
+          "url": "https://open.spotify.com/artist/6Sf3oBWXwLFaEDDprUAc4v"
         }
       ],
-      "duration_ms": 177493,
-      "name": "I'll Take You Home Again, Kathleen",
-      "url": "https://open.spotify.com/track/3rfvssyMQbY28825P2sztA"
+      "duration_ms": 185466,
+      "name": "Wanted (with Henri Ren\u00e9 & His Orchestra and Chorus)",
+      "url": "https://open.spotify.com/track/554BJuPGuQB8u1PKg4LBvB"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1127,6 +1131,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "The Very Best Of Slim Whitman",
+        "url": "https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl"
+      },
+      "artists": [
+        {
+          "name": "Slim Whitman",
+          "url": "https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "I'll Take You Home Again, Kathleen",
+      "url": "https://open.spotify.com/track/3rfvssyMQbY28825P2sztA"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "The EP Collection",
         "url": "https://open.spotify.com/album/4EwFjI32q5wL1cFie4lyPu"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 200826,
       "name": "Tom Dooley",
       "url": "https://open.spotify.com/track/3nFOQSVdAqr6vPpXA98RnP"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Very Best Of",
-        "url": "https://open.spotify.com/album/4KB7NVgy3aKibqM1VqHd84"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        },
-        {
-          "name": "Henri Ren\u00e9 & His Orchestra and Chorus",
-          "url": "https://open.spotify.com/artist/6Sf3oBWXwLFaEDDprUAc4v"
-        }
-      ],
-      "duration_ms": 185466,
-      "name": "Wanted (with Henri Ren\u00e9 & His Orchestra and Chorus)",
-      "url": "https://open.spotify.com/track/554BJuPGuQB8u1PKg4LBvB"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "All the Greatest Hits Ever Made, Vol. 2 (Remastered)",
-        "url": "https://open.spotify.com/album/5zQ5WRP0Fp7gVZrWTVl4gR"
-      },
-      "artists": [
-        {
-          "name": "Kay Starr",
-          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
-        }
-      ],
-      "duration_ms": 170343,
-      "name": "Changing Partners - Remastered",
-      "url": "https://open.spotify.com/track/6xtJ7cccbNbmCiwk3NzIpB"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Climb Every Mountain",
         "url": "https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq"
       },
@@ -1227,18 +1211,34 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Trying",
-        "url": "https://open.spotify.com/album/6wNlsCkqpdsIU4CGHUgWij"
+        "name": "All the Greatest Hits Ever Made, Vol. 2 (Remastered)",
+        "url": "https://open.spotify.com/album/5zQ5WRP0Fp7gVZrWTVl4gR"
       },
       "artists": [
         {
-          "name": "The Hilltoppers",
-          "url": "https://open.spotify.com/artist/6qcybypxBn4XlMcYJHhViw"
+          "name": "Kay Starr",
+          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
+        }
+      ],
+      "duration_ms": 170343,
+      "name": "Changing Partners - Remastered",
+      "url": "https://open.spotify.com/track/6xtJ7cccbNbmCiwk3NzIpB"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Call The Midwife",
+        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Vaughan",
+          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
         }
       ],
       "duration_ms": 165466,
-      "name": "Only You (and You Alone)",
-      "url": "https://open.spotify.com/track/6meUbywMo1j9kxiL58s6f1"
+      "name": "My Special\u00a0Angel",
+      "url": "https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Call The Midwife",
-        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
+        "name": "Trying",
+        "url": "https://open.spotify.com/album/6wNlsCkqpdsIU4CGHUgWij"
       },
       "artists": [
         {
-          "name": "Malcolm Vaughan",
-          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
+          "name": "The Hilltoppers",
+          "url": "https://open.spotify.com/artist/6qcybypxBn4XlMcYJHhViw"
         }
       ],
       "duration_ms": 165466,
-      "name": "My Special\u00a0Angel",
-      "url": "https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS"
+      "name": "Only You (and You Alone)",
+      "url": "https://open.spotify.com/track/6meUbywMo1j9kxiL58s6f1"
     },
     {
       "added_at": "2023-10-17 16:18:55",

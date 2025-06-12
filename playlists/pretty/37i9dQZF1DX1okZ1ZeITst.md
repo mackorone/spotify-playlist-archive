@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 
 > From the shower to the car, Disney songs that make you want to sing along, including songs from Disney's Lilo & Stitch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,091,576 likes - 161 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,091,783 likes - 161 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 | 70 | [It's On \- From "High School Musical: The Musical: The Series \(Season 3\)"/Camp Rock 2: The Final Jam](https://open.spotify.com/track/0cUUqEzIs5KfFMMoUMQuGO) | [Cast of High School Musical: The Musical: The Series](https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [It's On \[From "High School Musical: The Musical: The Series \(Season 3\)"/Camp Rock 2: The Final Jam\]](https://open.spotify.com/album/5aAT0At7qA2oH2CkVN1Iy9) | 3:02 |
 | 71 | [Poor Unfortunate Souls](https://open.spotify.com/track/7zsw78LtXUD7JfEwH64HK2) | [Pat Carroll](https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 4:51 |
 | 72 | [What Else Can I Do?](https://open.spotify.com/track/3XoYqtiWHhsk59frZupImG) | [Diane Guerrero](https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1), [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 2:59 |
-| 73 | [Hang In There Baby](https://open.spotify.com/track/4pHc3XmEBQ1wsQll68VsUj) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Make Your Mark: Ultimate Playlist](https://open.spotify.com/album/2IZ35W6krTeqEPjAKHh2hk) | 2:42 |
+| 73 | [Hang In There Baby \- From "Good Luck Charlie"](https://open.spotify.com/track/4pHc3XmEBQ1wsQll68VsUj) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Make Your Mark: Ultimate Playlist](https://open.spotify.com/album/2IZ35W6krTeqEPjAKHh2hk) | 2:42 |
 | 74 | [Some Things Never Change](https://open.spotify.com/track/4Xbotg4PCLJw9cDx2dtZLK) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB), [Cast of Frozen 2](https://open.spotify.com/artist/0PYSU1xJn8ay3ckZYsumdH) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:29 |
 | 75 | [Reflection \(2020\) \- From "Mulan"](https://open.spotify.com/track/437eNQXusBT4q9q3f34oW9) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Reflection \(2020\) \[From "Mulan"\]](https://open.spotify.com/album/7uuzR6IeZUaKzeExKYkk2Y) | 3:37 |
 | 76 | [Exceptional Zed](https://open.spotify.com/track/1hEYnDxgrg2zcITOZgaU3J) | [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES 3 \(Original Soundtrack\)](https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF) | 2:31 |

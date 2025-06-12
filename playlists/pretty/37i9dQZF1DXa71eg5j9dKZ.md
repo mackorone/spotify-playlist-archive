@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: BICEP
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,481 likes - 99 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,492 likes - 99 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 40 | [volc3 \(Jacques Greene remix\)](https://open.spotify.com/track/3oX4qTsGUm5nC8UNoxCnAR) | [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT), [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [volc3 \(Jacques Greene remix\)](https://open.spotify.com/album/5h3b38lm6iCSL3UiYmy1Ks) | 4:04 |
 | 41 | [Man Down](https://open.spotify.com/track/6pNcL961TXLN8wtpmlnnsY) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [Man Down](https://open.spotify.com/album/6hpP8LO620i29PHC3NQDSd) | 2:29 |
 | 42 | [Conversation](https://open.spotify.com/track/4sZQRHoJaVnjasanYulp3k) | [Me & George](https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv), [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [Conversation](https://open.spotify.com/album/1LlxLzT0EoizvFPhlC7Jiz) | 3:08 |
-| 43 | [Are U The One](https://open.spotify.com/track/1rOspz7NK5VCHqAFgtk1VA) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Are U The One](https://open.spotify.com/album/3I0MMEgVylA69wAef3lN0j) | 4:34 |
+| 43 | [Are You The One](https://open.spotify.com/track/1rOspz7NK5VCHqAFgtk1VA) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Are You The One](https://open.spotify.com/album/3I0MMEgVylA69wAef3lN0j) | 4:34 |
 | 44 | [picciriddu](https://open.spotify.com/track/2At1jjhWsAZpgpyvk21fhv) | [fenoaltea](https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L) | [ti fa ballari e ti fa chianciri](https://open.spotify.com/album/0kXbEky0dz2wjOM2RpFTWQ) | 4:04 |
 | 45 | [Can't Stand To Lose](https://open.spotify.com/track/7r4FAKAU499KcT5E83zEYs) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Can't Stand To Lose](https://open.spotify.com/album/53MctoRNyj3OmoUVFgZcab) | 4:52 |
 | 46 | [formula](https://open.spotify.com/track/14zLvFrfowL3oFxCPffGaR) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [formula](https://open.spotify.com/album/03riWV4ppiEsjo1oB45FsW) | 2:49 |

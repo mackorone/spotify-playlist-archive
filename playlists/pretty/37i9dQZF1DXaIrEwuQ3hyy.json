@@ -1,6 +1,6 @@
 {
   "description": "Klingt nach Sonne + Meer, egal wo du bist.",
-  "num_followers": 1069514,
+  "num_followers": 1069585,
   "original_name": "Sommer Chillout",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
+        "name": "Figa De Guin\u00e9",
+        "url": "https://open.spotify.com/album/42pGRNpFJumps5qcggM8Tj"
+      },
+      "artists": [
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "duration_ms": 140909,
+      "name": "Figa De Guin\u00e9",
+      "url": "https://open.spotify.com/track/6NHAz8a9j2yZkP2TP48yLK"
+    },
+    {
+      "added_at": "2025-06-02 12:19:12",
+      "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 304106,
       "name": "evermore (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/0AaV4MJrgmLV3XhoiWXjjb"
-    },
-    {
-      "added_at": "2025-06-02 12:19:12",
-      "album": {
-        "name": "Figa De Guin\u00e9",
-        "url": "https://open.spotify.com/album/42pGRNpFJumps5qcggM8Tj"
-      },
-      "artists": [
-        {
-          "name": "Mariana Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        }
-      ],
-      "duration_ms": 140909,
-      "name": "Figa De Guin\u00e9",
-      "url": "https://open.spotify.com/track/6NHAz8a9j2yZkP2TP48yLK"
     },
     {
       "added_at": "2025-06-02 12:19:12",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
-        "name": "Who are you?",
-        "url": "https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S"
-      },
-      "artists": [
-        {
-          "name": "Saga Faye",
-          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
-        }
-      ],
-      "duration_ms": 151979,
-      "name": "Who are you?",
-      "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
-    },
-    {
-      "added_at": "2025-06-02 12:19:12",
-      "album": {
         "name": "Sunshine After Rain",
         "url": "https://open.spotify.com/album/5hIgHXGkIP3DKqUoL2i9YF"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 215265,
       "name": "Ozean",
       "url": "https://open.spotify.com/track/7ED8m8m3QJvDCnYFOi6VXB"
+    },
+    {
+      "added_at": "2025-06-02 12:19:12",
+      "album": {
+        "name": "Who are you?",
+        "url": "https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S"
+      },
+      "artists": [
+        {
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+        }
+      ],
+      "duration_ms": 151979,
+      "name": "Who are you?",
+      "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
     },
     {
       "added_at": "2025-06-02 12:19:12",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
-        "name": "she goes",
-        "url": "https://open.spotify.com/album/0o8YSDMiDS6ecft4YS1122"
-      },
-      "artists": [
-        {
-          "name": "zeck",
-          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
-        }
-      ],
-      "duration_ms": 189706,
-      "name": "she goes",
-      "url": "https://open.spotify.com/track/0GLKC3ieDZFiR9URpN4D4m"
-    },
-    {
-      "added_at": "2025-06-02 12:19:12",
-      "album": {
         "name": "tonight",
         "url": "https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
+        "name": "she goes",
+        "url": "https://open.spotify.com/album/0o8YSDMiDS6ecft4YS1122"
       },
       "artists": [
         {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+          "name": "zeck",
+          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
         }
       ],
-      "duration_ms": 290616,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
+      "duration_ms": 189706,
+      "name": "she goes",
+      "url": "https://open.spotify.com/track/0GLKC3ieDZFiR9URpN4D4m"
     },
     {
       "added_at": "2025-06-02 12:19:12",
@@ -1135,6 +1119,22 @@
       "duration_ms": 195000,
       "name": "Bisschen wach",
       "url": "https://open.spotify.com/track/6boCFRIpvYlbv5HnTdgbyA"
+    },
+    {
+      "added_at": "2025-06-02 12:19:12",
+      "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 290616,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
     },
     {
       "added_at": "2025-06-02 12:19:12",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
-        "name": "Tokyo Lift (5am)",
-        "url": "https://open.spotify.com/album/5VOkDAIt6P6s1eNRhay1xE"
+        "name": "Versailles (Hold)",
+        "url": "https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15"
       },
       "artists": [
         {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
         }
       ],
-      "duration_ms": 144741,
-      "name": "Tokyo Lift (5am)",
-      "url": "https://open.spotify.com/track/3nNHdtE7GDHCBwt6mA1D4M"
+      "duration_ms": 218727,
+      "name": "Versailles (Hold) - Edit",
+      "url": "https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX"
     },
     {
       "added_at": "2025-06-02 12:19:12",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
-        "name": "Versailles (Hold)",
-        "url": "https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15"
+        "name": "Tokyo Lift (5am)",
+        "url": "https://open.spotify.com/album/5VOkDAIt6P6s1eNRhay1xE"
       },
       "artists": [
         {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
         }
       ],
-      "duration_ms": 218727,
-      "name": "Versailles (Hold) - Edit",
-      "url": "https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX"
+      "duration_ms": 144741,
+      "name": "Tokyo Lift (5am)",
+      "url": "https://open.spotify.com/track/3nNHdtE7GDHCBwt6mA1D4M"
     },
     {
       "added_at": "2025-06-02 12:19:12",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/239APOjX3uFCNEWFWfwYUZ"
-      },
-      "artists": [
-        {
-          "name": "CATT",
-          "url": "https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ"
-        }
-      ],
-      "duration_ms": 229787,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/4cqhGio3kbnB6J40eG9xNt"
-    },
-    {
-      "added_at": "2025-06-02 12:19:12",
-      "album": {
         "name": "wo bin ich",
         "url": "https://open.spotify.com/album/1EWDJG9bvcEwyEOPZtcLFc"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 123297,
       "name": "wo bin ich",
       "url": "https://open.spotify.com/track/5UXJVxwMKnWVKmaLAZtaDY"
+    },
+    {
+      "added_at": "2025-06-02 12:19:12",
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/239APOjX3uFCNEWFWfwYUZ"
+      },
+      "artists": [
+        {
+          "name": "CATT",
+          "url": "https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ"
+        }
+      ],
+      "duration_ms": 229787,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/4cqhGio3kbnB6J40eG9xNt"
     },
     {
       "added_at": "2025-06-02 12:19:12",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
-        "name": "Someone Special",
-        "url": "https://open.spotify.com/album/6lOpF4HDDS2n4KnIMrVAbj"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 256670,
-      "name": "Someone Special",
-      "url": "https://open.spotify.com/track/59JRqDcEQi6o3ZLZKvqo12"
-    },
-    {
-      "added_at": "2025-06-02 12:19:12",
-      "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 154106,
       "name": "UFO",
       "url": "https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV"
+    },
+    {
+      "added_at": "2025-06-02 12:19:12",
+      "album": {
+        "name": "Someone Special",
+        "url": "https://open.spotify.com/album/6lOpF4HDDS2n4KnIMrVAbj"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 256670,
+      "name": "Someone Special",
+      "url": "https://open.spotify.com/track/59JRqDcEQi6o3ZLZKvqo12"
     },
     {
       "added_at": "2025-06-02 12:19:12",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
-        "name": "getting used to",
-        "url": "https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y"
-      },
-      "artists": [
-        {
-          "name": "philine",
-          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
-        }
-      ],
-      "duration_ms": 227141,
-      "name": "getting used to",
-      "url": "https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ"
-    },
-    {
-      "added_at": "2025-06-02 12:19:12",
-      "album": {
         "name": "when words fail",
         "url": "https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 176495,
       "name": "when words fail",
       "url": "https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA"
+    },
+    {
+      "added_at": "2025-06-02 12:19:12",
+      "album": {
+        "name": "getting used to",
+        "url": "https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "duration_ms": 227141,
+      "name": "getting used to",
+      "url": "https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ"
     },
     {
       "added_at": "2025-06-02 12:19:12",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2025-06-02 12:19:12",
       "album": {
+        "name": "WORRY.",
+        "url": "https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 243282,
+      "name": "WORRY.",
+      "url": "https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf"
+    },
+    {
+      "added_at": "2025-06-02 12:19:12",
+      "album": {
         "name": "Barefoot",
         "url": "https://open.spotify.com/album/03XY58JRHWAShkdO6L4ic7"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 157440,
       "name": "For The Night",
       "url": "https://open.spotify.com/track/7kJvHYzLeRzerTJdsR8HPR"
-    },
-    {
-      "added_at": "2025-06-02 12:19:12",
-      "album": {
-        "name": "WORRY.",
-        "url": "https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 243282,
-      "name": "WORRY.",
-      "url": "https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf"
     },
     {
       "added_at": "2025-06-02 12:19:12",

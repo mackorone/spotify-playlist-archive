@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 2,150 likes - 69 songs - 4 hr 10 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 2,153 likes - 69 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 9 | [Discomania](https://open.spotify.com/track/56qyYPJZmKzyAxch3nG5ao) | [Calibro 35](https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi) | [Exploration](https://open.spotify.com/album/7B11zfl5c80xbidfBgoPfK) | 3:09 |
 | 10 | [Heaven Is No Feeling](https://open.spotify.com/track/0O2xM3g14PLmfp5xKoBnkA) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Heaven Is No Feeling](https://open.spotify.com/album/5fwq4wZ66Fh8ebZ5uduuwT) | 3:48 |
 | 11 | [The Hogg](https://open.spotify.com/track/1e59cbrJqBfFcAfyiq3xVi) | [CIVIC](https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe) | [Chrome Dipped](https://open.spotify.com/album/3fgmPOqcBF5UiR03rcB3XG) | 3:20 |
-| 12 | [Ace Trumpets](https://open.spotify.com/track/75VkDLK95JABOmPJdn7jGq) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [No Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Ace Trumpets](https://open.spotify.com/album/1HnkaVWzeyGyaZ6ja7cjbI) | 2:34 |
+| 12 | [Ace Trumpets](https://open.spotify.com/track/75VkDLK95JABOmPJdn7jGq) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Ace Trumpets](https://open.spotify.com/album/1HnkaVWzeyGyaZ6ja7cjbI) | 2:34 |
 | 13 | [Tempo al Tempo](https://open.spotify.com/track/5Xk1ys75a93R6PAKqxbFGN) | [Collettivo Immaginario](https://open.spotify.com/artist/2t5W9mdX4tCfJwUMgRLJaM), [Alberto Lincetto](https://open.spotify.com/artist/41WwoISWXs9IrlyQM2oM62), [Tommaso Cappellato](https://open.spotify.com/artist/5xu6nwws5Wrbd5TayescJ2), [Danilo Plessow](https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle), [Nicolò Masetto](https://open.spotify.com/artist/6RxoPk24rnMUwWvlFSnjiq) | [Oltreoceano](https://open.spotify.com/album/7B2ff0wIuXsdwfWuebmfo5) | 6:17 |
 | 14 | [Latitude](https://open.spotify.com/track/1Tt1YBKYh10UV4Sg5cntP2) | [Coral Grief](https://open.spotify.com/artist/0O5Q3XbLXsSkQ4sM42c66a) | [Latitude](https://open.spotify.com/album/5x95IXBXHzu3TflHFcNezY) | 4:11 |
 | 15 | [Some Day](https://open.spotify.com/track/2wr7kHHkaxT3aOREsk2j55) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Open](https://open.spotify.com/album/14LybCLgQLN86HTfDKK8rQ) | 3:26 |

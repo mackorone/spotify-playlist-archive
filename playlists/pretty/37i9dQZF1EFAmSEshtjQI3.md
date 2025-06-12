@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZY43VwD4Dvf0ZO9SwivN5">Valentina Rico</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212 likes - 38 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 212 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,22 +29,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 | 19 | [Trepando Paredes](https://open.spotify.com/track/2fTIBjzXEUeE6E4TwfPYrS) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Trepando Paredes](https://open.spotify.com/album/69GASdnczwa3sPHiTqYPVC) | 3:53 |
 | 20 | [Buffet](https://open.spotify.com/track/5LYXZwcmOvSus9nnO1vDPe) | [Andrés Koi](https://open.spotify.com/artist/52nf6FtXCWlUMJP1GVhiN2) | [AIJAG](https://open.spotify.com/album/1wmBXbc3FmuAswqvDwhycq) | 2:45 |
 | 21 | [Pegaíto](https://open.spotify.com/track/1RFWaEBbwIZV6ZcpuZzZC8) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo) | [Pegaíto](https://open.spotify.com/album/0HdmTSwkvLqGCXg7VQ2pPX) | 2:35 |
-| 22 | [Fuera De Servicio](https://open.spotify.com/track/6RkIowV2rsGJTcRohynZ5D) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7) | [Chino & Nacho Is Back](https://open.spotify.com/album/6NPRXeULsH66D8zshrpiDm) | 2:43 |
-| 23 | [Sagitario](https://open.spotify.com/track/1jvRSXvGCUXD545RQJ3FcR) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 3:21 |
-| 24 | [Miel](https://open.spotify.com/track/3wGbZ2074p60hhavjQMF6l) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 2:39 |
-| 25 | [Cualquiera](https://open.spotify.com/track/67wfqT0P3DtNieeQz1R3RJ) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 3:31 |
-| 26 | [Asi Esta la Cosa](https://open.spotify.com/track/2WdqnZOLjFtfunFv3SkLnY) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Asi Esta la Cosa](https://open.spotify.com/album/4AIaRa9LBZsHF4QRoOeDWR) | 3:03 |
-| 27 | [Recuerdo contigo </3](https://open.spotify.com/track/2Hcjj8iujMxNMvJu3Am3Zr) | [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [Sentimiento Adolescente](https://open.spotify.com/album/2Ch6jQyfaHvygL1HAUpLI0) | 3:08 |
-| 28 | [Mensajes Borrados](https://open.spotify.com/track/6LlGVA52RQPz3Pzr3QaXjQ) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 2:56 |
-| 29 | [Terminé Contigo](https://open.spotify.com/track/17gA2iojI2oeb7DCiMlHCo) | [Lamentablemente Flow](https://open.spotify.com/artist/5b6Hl206aXLFcGUPx7DLSk) | [Terminé Contigo](https://open.spotify.com/album/0yI1O48KJZVhmQV4mhXdf9) | 2:54 |
-| 30 | [Vaquero](https://open.spotify.com/track/3vsQUoMP10d67qWaKZvuNt) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 2:49 |
-| 31 | [ANTIBALAS](https://open.spotify.com/track/6KBYbkpGAyuHgOUvZcvsRx) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [¿por qué corres? ya estamos ahí](https://open.spotify.com/album/73ab54wJUkMBlbJNJVDyiE) | 3:17 |
-| 32 | [Archivados](https://open.spotify.com/track/67raYTvJGiDU1rX5qJMDrY) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 3:45 |
-| 33 | [Transparente](https://open.spotify.com/track/3F4B12TBnGu947FgeabHGP) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 3:19 |
-| 34 | [Volando Bajito](https://open.spotify.com/track/3W888aowJCl8Mwq9JMaJTc) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Volando Bajito](https://open.spotify.com/album/3nyLvPVZZJTumqzbGeVOhx) | 2:22 |
-| 35 | [Euforia](https://open.spotify.com/track/0Wx46C3NgydTkr0yJrQ9sI) | [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [TRIP](https://open.spotify.com/album/3nWqKWhGA2RhqakbVi1cRY) | 2:29 |
-| 36 | [Intro](https://open.spotify.com/track/2xS3eacJtsVF2mDRgqqk6R) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 0:30 |
-| 37 | [Vuela](https://open.spotify.com/track/5wRl3UsaZBwrMJWchs0YDj) | [Adri Torron](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Vuela](https://open.spotify.com/album/20mcvOF4SDa21I471OjUig) | 2:51 |
-| 38 | [Mas De Lo Que Aposte](https://open.spotify.com/track/4X2ezaWpxfNSCVEJ9yFB9h) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Aitana](https://open.spotify.com/album/6UiWhpHVN9pgySpp8DCdyQ) | 6:40 |
+| 22 | [MACARRONES CON QUESO](https://open.spotify.com/track/39F3bIJTkLNX1wswMq9PMC) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [cuando coincidimos](https://open.spotify.com/album/2Rys1A1mragEl9rHsYGmcp) | 2:27 |
+| 23 | [Fuera De Servicio](https://open.spotify.com/track/6RkIowV2rsGJTcRohynZ5D) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7) | [Chino & Nacho Is Back](https://open.spotify.com/album/6NPRXeULsH66D8zshrpiDm) | 2:43 |
+| 24 | [Sagitario](https://open.spotify.com/track/1jvRSXvGCUXD545RQJ3FcR) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 3:21 |
+| 25 | [Miel](https://open.spotify.com/track/3wGbZ2074p60hhavjQMF6l) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 2:39 |
+| 26 | [Cualquiera](https://open.spotify.com/track/67wfqT0P3DtNieeQz1R3RJ) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 3:31 |
+| 27 | [Asi Esta la Cosa](https://open.spotify.com/track/2WdqnZOLjFtfunFv3SkLnY) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Asi Esta la Cosa](https://open.spotify.com/album/4AIaRa9LBZsHF4QRoOeDWR) | 3:03 |
+| 28 | [Recuerdo contigo </3](https://open.spotify.com/track/2Hcjj8iujMxNMvJu3Am3Zr) | [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [Sentimiento Adolescente](https://open.spotify.com/album/2Ch6jQyfaHvygL1HAUpLI0) | 3:08 |
+| 29 | [Mensajes Borrados](https://open.spotify.com/track/6LlGVA52RQPz3Pzr3QaXjQ) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 2:56 |
+| 30 | [Terminé Contigo](https://open.spotify.com/track/17gA2iojI2oeb7DCiMlHCo) | [Lamentablemente Flow](https://open.spotify.com/artist/5b6Hl206aXLFcGUPx7DLSk) | [Terminé Contigo](https://open.spotify.com/album/0yI1O48KJZVhmQV4mhXdf9) | 2:54 |
+| 31 | [Vaquero](https://open.spotify.com/track/3vsQUoMP10d67qWaKZvuNt) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 2:49 |
+| 32 | [ANTIBALAS](https://open.spotify.com/track/6KBYbkpGAyuHgOUvZcvsRx) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [¿por qué corres? ya estamos ahí](https://open.spotify.com/album/73ab54wJUkMBlbJNJVDyiE) | 3:17 |
+| 33 | [Archivados](https://open.spotify.com/track/67raYTvJGiDU1rX5qJMDrY) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 3:45 |
+| 34 | [Transparente](https://open.spotify.com/track/3F4B12TBnGu947FgeabHGP) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 3:19 |
+| 35 | [Volando Bajito](https://open.spotify.com/track/3W888aowJCl8Mwq9JMaJTc) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Volando Bajito](https://open.spotify.com/album/3nyLvPVZZJTumqzbGeVOhx) | 2:22 |
+| 36 | [Euforia](https://open.spotify.com/track/0Wx46C3NgydTkr0yJrQ9sI) | [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [TRIP](https://open.spotify.com/album/3nWqKWhGA2RhqakbVi1cRY) | 2:29 |
+| 37 | [Intro](https://open.spotify.com/track/2xS3eacJtsVF2mDRgqqk6R) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 0:30 |
+| 38 | [Tsunami](https://open.spotify.com/track/5iRYgPCd8JyI0EiBxYKUyN) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Tsunami](https://open.spotify.com/album/4bPksqNkTRThMVUpD1bl5u) | 3:02 |
+| 39 | [Vuela](https://open.spotify.com/track/5wRl3UsaZBwrMJWchs0YDj) | [Adri Torron](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Vuela](https://open.spotify.com/album/20mcvOF4SDa21I471OjUig) | 2:51 |
+| 40 | [Mas De Lo Que Aposte](https://open.spotify.com/track/4X2ezaWpxfNSCVEJ9yFB9h) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Aitana](https://open.spotify.com/album/6UiWhpHVN9pgySpp8DCdyQ) | 6:40 |
 
-Snapshot ID: `Abzy4AAAAADS50V3mZKaaPhgDblMknRG`
+Snapshot ID: `Abz4ngAAAACaRHKOxSDMOR6XvwH50grg`

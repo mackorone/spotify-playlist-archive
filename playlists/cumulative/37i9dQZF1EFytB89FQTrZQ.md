@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-528 songs - 1 day 6 hr 8 min
+529 songs - 1 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [All In](https://open.spotify.com/track/6ud5FYBgnM8II9iOk5P8r5) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [All In](https://open.spotify.com/album/3uXj3tSSEZQCX3xuoUu3UF) | 3:20 | 2022-09-08 |  |
 | [Always \(feat\. Alana\) \- Route 94 Radio Edit](https://open.spotify.com/track/7CR3K77OWWfklWYkHtcxQt) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Alana](https://open.spotify.com/artist/6o0afeOTvBXVvX5LpMBP7u) | [Always \[feat\. Alana\] \(Route 94 Radio Edit\)](https://open.spotify.com/album/45ZxKD3AbXO2AgemEjaWld) | 3:01 | 2022-09-08 | 2025-02-09 |
 | [Always \- Route 94 Radio Edit](https://open.spotify.com/track/53xHlKNBZQSeZFfoV8d9v7) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Alana](https://open.spotify.com/artist/6o0afeOTvBXVvX5LpMBP7u) | [Always \[feat\. Alana\] \(Route 94 Radio Edit\)](https://open.spotify.com/album/4Kcs3dTM6kutcRMlAY2M5y) | 3:01 | 2025-02-08 |  |
-| [Another Friday Night](https://open.spotify.com/track/0TMrhVTC2uosTg09ZVkoLa) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Another Friday Night](https://open.spotify.com/album/7mtOGMtwr9QpnkYaS1UuTh) | 2:30 | 2023-12-13 |  |
+| [Another Friday Night](https://open.spotify.com/track/0TMrhVTC2uosTg09ZVkoLa) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Another Friday Night](https://open.spotify.com/album/7mtOGMtwr9QpnkYaS1UuTh) | 2:30 | 2023-12-13 | 2025-06-12 |
+| [Another Friday Night](https://open.spotify.com/track/3ABDDt13Vz527uwZaNWsZN) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Another Friday Night \(Extended\)](https://open.spotify.com/album/0ogJVBlwhWYjaeV6b6QyGo) | 2:30 | 2025-06-11 |  |
 | [At Night \(I Think About You\)](https://open.spotify.com/track/4lwthdbsRkAnZhFunjjgrs) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [At Night \(I Think About You\)](https://open.spotify.com/album/5v636i01urX364kKa6vtqw) | 3:35 | 2022-09-08 |  |
 | [Away From You](https://open.spotify.com/track/3iejIQUlBfS5J1SudBYPmu) | [Zach Campbell](https://open.spotify.com/artist/1xj1EJ5Ugunq3L3Ff3sdPe) | [Away From You](https://open.spotify.com/album/3ZnOiFVmxrDBUxMWIPoJXk) | 3:46 | 2022-09-08 |  |
 | [Baby \(feat\. MNEK & Sinéad Harnett\)](https://open.spotify.com/track/2TFbiAYJ7PhF2FTAFzIN1Z) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Home](https://open.spotify.com/album/2AOpbitJNMvKhSbsi2YD4F) | 4:00 | 2025-01-09 | 2025-04-12 |

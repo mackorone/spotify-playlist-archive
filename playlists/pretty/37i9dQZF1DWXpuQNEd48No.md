@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Best of Haryanvi Hip\-Hop! Cover: Sumit Parta
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,078 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,088 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 5 | [City Seized](https://open.spotify.com/track/1iIZKR036e1FtffuSydKHO) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [City Seized](https://open.spotify.com/album/459mJj5wBl29EAQqSq5J7q) | 2:48 |
 | 6 | [Desi](https://open.spotify.com/track/5lTHCIhhRvd43Pp54M6XCK) | [D Naveen](https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb), [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj) | [DN.1](https://open.spotify.com/album/2mUW6az4bpukrLsJt52fsP) | 2:04 |
 | 7 | [Fortuner](https://open.spotify.com/track/0m8o9TQBNFaaJmwFDfgw2y) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Skywar](https://open.spotify.com/artist/5GRF2OUN2zIW9MbSqrQETT) | [Fortuner](https://open.spotify.com/album/5pbhMShQNPV4FzJ7rVoMUA) | 2:08 |
-| 8 | [Bum Bum](https://open.spotify.com/track/1MUmEGwf1DjPYiB6KPFzAJ) | [RC Magnum](https://open.spotify.com/artist/6tOvJBGkAKjTULntyXRidT) | [Say Hi To The Bad Guy](https://open.spotify.com/album/5UMlg34i0hLvYtW552rN4p) | 2:30 |
+| 8 | [Bum Bum](https://open.spotify.com/track/1MUmEGwf1DjPYiB6KPFzAJ) | [RC Magnum](https://open.spotify.com/artist/6tOvJBGkAKjTULntyXRidT), [Manish Gaat](https://open.spotify.com/artist/3A7hpxFL3qpX50C1z15m6L) | [Say Hi To The Bad Guy](https://open.spotify.com/album/5UMlg34i0hLvYtW552rN4p) | 2:30 |
 | 9 | [Territory West UP Flow](https://open.spotify.com/track/0fJADIEhYx0wV4o4cHjmF6) | [Preet Sirohi](https://open.spotify.com/artist/6tP3YhgR5qSDE6wsJH0SAV) | [Territory West UP Flow](https://open.spotify.com/album/0k5I67l5odrQKDrNXFni0h) | 3:13 |
 | 10 | [Gaadi 150](https://open.spotify.com/track/0qNMptHdkQuZsWKxZ8rmW2) | [Vikram Sarkar](https://open.spotify.com/artist/4naSOUBsPQeISuibs56w6Y), [THOUGHT](https://open.spotify.com/artist/5GZklBtmZD8WZsLGVbHQqC) | [Gaadi 150](https://open.spotify.com/album/1Xp8PesszaBmk58MKYwgfy) | 2:34 |
 | 11 | [Maa Karke](https://open.spotify.com/track/1VveriWdvYX5MBzIC4nT8F) | [Old Sinners](https://open.spotify.com/artist/6uN0yKoOoelg1X2GnSj35s), [Shaitan](https://open.spotify.com/artist/3p486QTcZzNDrForILESQ3) | [Maa Karke](https://open.spotify.com/album/6f8cropeQjSDEVpEB5mihN) | 2:56 |

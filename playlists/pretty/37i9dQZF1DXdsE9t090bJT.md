@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 
 > Súbete a la troca ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,168 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,193 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 86 | [Tu Belleza](https://open.spotify.com/track/7J9QvKA6f5BhZtRbWnL7tI) | [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Tu Belleza](https://open.spotify.com/album/3wzeBIxedazMhG0oiSryZ8) | 3:20 |
 | 87 | [Ganas De Ti](https://open.spotify.com/track/6HmqcVpzZrbvec4Tdpn7LB) | [Ismael CM](https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Yahir Tarin](https://open.spotify.com/artist/2YUtlNyQTom6uTK0wV0HMQ) | [Ganas De Ti](https://open.spotify.com/album/3oOyMmhpVUQ0r8BdP1y5ox) | 3:11 |
 | 88 | [ME TODO](https://open.spotify.com/track/3txgvzWrRcSBSp70btzMmG) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [ME TODO](https://open.spotify.com/album/56HJIyM6FmOn1xEEDoJzz6) | 2:33 |
-| 89 | [Me Dejaron Como 100pre](https://open.spotify.com/track/3D3EWDeepkSSXs8zlAzIUk) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Me Dejaron Como 100pre](https://open.spotify.com/album/2dGhHOPafHRV5Pcba6FUsN) | 2:52 |
+| 89 | [No Soy Como Tu \(Remix\)](https://open.spotify.com/track/0vvpgtDt8kckk9v8NZ7d6U) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Los Caliz](https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz) | [No Soy Como Tu \(Remix\)](https://open.spotify.com/album/621GOUcHAH1mlNtrH0BFbs) | 3:09 |
 | 90 | [Subete A Mi Troca](https://open.spotify.com/track/31i2tCtppcIKZgEQx5qdHc) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 2:22 |
-| 91 | [No Soy Como Tu \(Remix\)](https://open.spotify.com/track/0vvpgtDt8kckk9v8NZ7d6U) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Los Caliz](https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz) | [No Soy Como Tu \(Remix\)](https://open.spotify.com/album/621GOUcHAH1mlNtrH0BFbs) | 3:09 |
+| 91 | [Me Dejaron Como 100pre](https://open.spotify.com/track/3D3EWDeepkSSXs8zlAzIUk) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Me Dejaron Como 100pre](https://open.spotify.com/album/2dGhHOPafHRV5Pcba6FUsN) | 2:52 |
 | 92 | [Me Dejaste Sin Saber](https://open.spotify.com/track/0OGNDibw65fpEaWaKE7lLv) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Me Dejaste Sin Saber](https://open.spotify.com/album/1uOq3hUUxrryq8vgUBIESQ) | 2:31 |
 | 93 | [CHULA](https://open.spotify.com/track/3X39TEP3dMfJzvYJrp18UH) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [CHULA](https://open.spotify.com/album/4KblreEPyinh0NwO6TjTSa) | 2:48 |
 | 94 | [No Está Funcionando](https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [No Está Funcionando](https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU) | 2:41 |

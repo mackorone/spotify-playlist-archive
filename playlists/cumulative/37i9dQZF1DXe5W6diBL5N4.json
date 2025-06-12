@@ -15065,6 +15065,24 @@
     },
     {
       "album": {
+        "name": "ATS",
+        "url": "https://open.spotify.com/album/2jM0XGWTsQAF6RKn4dQ5RN"
+      },
+      "artists": [
+        {
+          "name": "Doorlesshouse",
+          "url": "https://open.spotify.com/artist/0SxSWgWdwhijvB7pMMRdKy"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209057,
+      "name": "ATS",
+      "url": "https://open.spotify.com/track/4awYkzuPq6RjFvg1DdZrkh"
+    },
+    {
+      "album": {
         "name": "Shining Strike",
         "url": "https://open.spotify.com/album/5tW4fJ6vnt4J1itpLtqRgl"
       },
@@ -26130,7 +26148,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 295013,
       "name": "Bonvoyage",
       "url": "https://open.spotify.com/track/7qreGECwKa5YDEFbeFh1UV"
@@ -52494,7 +52512,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 206026,
       "name": "Dreamy walk (The Haunted Palace : Original Television Soundtrack)",
       "url": "https://open.spotify.com/track/7FYEfCXLgsWSbKd7BVsF4c"
@@ -70822,10 +70840,28 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 162968,
       "name": "Get da Faka",
       "url": "https://open.spotify.com/track/3ySAs1xJ3iSn1GwWsSkyxd"
+    },
+    {
+      "album": {
+        "name": "Paranoia // Nostalgia",
+        "url": "https://open.spotify.com/album/13MFBMKaP1OgkKYbLjcIsy"
+      },
+      "artists": [
+        {
+          "name": "MEMI",
+          "url": "https://open.spotify.com/artist/2IJQZNh2eIR9a21uq494UA"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162968,
+      "name": "Get da Faka",
+      "url": "https://open.spotify.com/track/42XgPZgiamGgIw9P5pMx4F"
     },
     {
       "album": {
@@ -95636,7 +95672,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 212400,
       "name": "I'm sending you away, the one I loved",
       "url": "https://open.spotify.com/track/3eRC0sGj2mdAO1I0SawCBW"
@@ -110868,7 +110904,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 188786,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/3owq8GxQEmM0VdX1tZaaz3"
@@ -117454,7 +117490,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 259000,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/4i1LAgQdsq1D28nPiFKPyh"
@@ -119244,6 +119280,28 @@
       "duration_ms": 232192,
       "name": "LOVE IS EVERYWHERE",
       "url": "https://open.spotify.com/track/5F9vxYEeX01Bz38SZJt7FZ"
+    },
+    {
+      "album": {
+        "name": "Love is Green\ud83d\udc9a",
+        "url": "https://open.spotify.com/album/46Njy9t7c8S53cr7ekYxx3"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Sonny Zero",
+          "url": "https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198769,
+      "name": "Love is Green\ud83d\udc9a (feat. Sonny Zero)",
+      "url": "https://open.spotify.com/track/6FcDVoqsZ4w0n7dRRFqPo9"
     },
     {
       "album": {
@@ -142136,7 +142194,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 175013,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/2fQs0LYtNRfgONYIVxXLgi"
@@ -143172,7 +143230,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 282053,
       "name": "O",
       "url": "https://open.spotify.com/track/3znyY1uJaVlB8DBypreIhP"
@@ -143284,7 +143342,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 312204,
       "name": "O.Y.S.T.E.R",
       "url": "https://open.spotify.com/track/6uIJf1K0s97Edqoy1p7NPG"
@@ -146616,6 +146674,24 @@
       "duration_ms": 241279,
       "name": "One Snowy Day",
       "url": "https://open.spotify.com/track/1AcdC37o1mxm5h9G9uYVv4"
+    },
+    {
+      "album": {
+        "name": "A.I. Chapter 1",
+        "url": "https://open.spotify.com/album/5UxO6nrKOKpF68vpPyhuRI"
+      },
+      "artists": [
+        {
+          "name": "Ja Mezz",
+          "url": "https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307500,
+      "name": "One Song",
+      "url": "https://open.spotify.com/track/3iYK72o4z2gfKycoxoomQG"
     },
     {
       "album": {
@@ -171593,6 +171669,24 @@
     },
     {
       "album": {
+        "name": "Swimming Baby (Deluxe)",
+        "url": "https://open.spotify.com/album/6tiahdYYfLpmm99fOVu9v8"
+      },
+      "artists": [
+        {
+          "name": "Ai Ninomiya",
+          "url": "https://open.spotify.com/artist/0OOnu30xEhyLoBZ3pPPVu8"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150684,
+      "name": "Seven Days a Week",
+      "url": "https://open.spotify.com/track/54kxgh8tra3as8U2QPnA98"
+    },
+    {
+      "album": {
         "name": "SEVEN SINS",
         "url": "https://open.spotify.com/album/4BUFd5miv3H0CmeQcKdHvg"
       },
@@ -191305,6 +191399,24 @@
     },
     {
       "album": {
+        "name": "Hospital",
+        "url": "https://open.spotify.com/album/3Nj0yXmZnHRu4MMP31sUVK"
+      },
+      "artists": [
+        {
+          "name": "Redoor",
+          "url": "https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263962,
+      "name": "Syringe",
+      "url": "https://open.spotify.com/track/1vZiEInBCBapB6wGhZX9YB"
+    },
+    {
+      "album": {
         "name": "System Error",
         "url": "https://open.spotify.com/album/1CszyO6eUiSOXJgQRwl8cf"
       },
@@ -197126,6 +197238,24 @@
       "duration_ms": 227746,
       "name": "The Look In Your Eyes",
       "url": "https://open.spotify.com/track/076VrUmpXj8ehHyxTtI67o"
+    },
+    {
+      "album": {
+        "name": "Spring of Youth (Original Soundtrack) Part.7",
+        "url": "https://open.spotify.com/album/5mAsdROsHGDlu1FK9sdOkM"
+      },
+      "artists": [
+        {
+          "name": "Yoo Hwe Seung",
+          "url": "https://open.spotify.com/artist/5ENwCCr5vpgcwr4HgTmWGs"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225360,
+      "name": "The Look In Your Eyes",
+      "url": "https://open.spotify.com/track/0Cg4pZkNpOYNUXxmEYzuAd"
     },
     {
       "album": {
@@ -218539,6 +218669,24 @@
     },
     {
       "album": {
+        "name": "When I Grow Up",
+        "url": "https://open.spotify.com/album/2SStjwoVUNatBX9BRKNQfi"
+      },
+      "artists": [
+        {
+          "name": "Giryeon",
+          "url": "https://open.spotify.com/artist/019xuaJPwSE0VLLJzcO8K6"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272704,
+      "name": "When I Grow Up",
+      "url": "https://open.spotify.com/track/6b2zhZI2r6rLLVct0I28pw"
+    },
+    {
+      "album": {
         "name": "When I look at you",
         "url": "https://open.spotify.com/album/1Lewh4YU2QMpV9dKtlnIys"
       },
@@ -223948,6 +224096,24 @@
       "duration_ms": 226240,
       "name": "With me",
       "url": "https://open.spotify.com/track/2MS6xZ1HG8Mur5AGrvuVUG"
+    },
+    {
+      "album": {
+        "name": "With me (Electrifying Confession X LUCY)",
+        "url": "https://open.spotify.com/album/4jb6RsjGnqX6rm8ii8v6mi"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234400,
+      "name": "With me (Electrifying Confession X LUCY)",
+      "url": "https://open.spotify.com/track/3jYSRhZxA4NnOxqwaC5HP9"
     },
     {
       "album": {

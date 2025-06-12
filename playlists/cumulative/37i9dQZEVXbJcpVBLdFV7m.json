@@ -2144,7 +2144,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 159493,
       "name": "Baller",
       "url": "https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD"
@@ -2860,7 +2860,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 190485,
       "name": "Bivshite kontakti",
       "url": "https://open.spotify.com/track/6NuDj0W3Rpa95jkQqGeiXO"
@@ -5802,7 +5802,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 84700,
       "name": "DIA DEL\u00cdCIA - Slowed",
       "url": "https://open.spotify.com/track/6T06bLv5OzJf3BuNa81XXD"
@@ -8112,7 +8112,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 99130,
       "name": "Figa",
       "url": "https://open.spotify.com/track/4acZFxefEvWVnrchaNFpX1"
@@ -8138,6 +8138,46 @@
       "duration_ms": 99130,
       "name": "Figa",
       "url": "https://open.spotify.com/track/6EkrsqZTNnOhlX3mys2VyR"
+    },
+    {
+      "album": {
+        "name": "Figa De Guin\u00e9",
+        "url": "https://open.spotify.com/album/42pGRNpFJumps5qcggM8Tj"
+      },
+      "artists": [
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140909,
+      "name": "Figa De Guin\u00e9",
+      "url": "https://open.spotify.com/track/6NHAz8a9j2yZkP2TP48yLK"
+    },
+    {
+      "album": {
+        "name": "FINA LANA",
+        "url": "https://open.spotify.com/album/35y8hd86FLFvT9qmRYwSGE"
+      },
+      "artists": [
+        {
+          "name": "6YNTHMANE",
+          "url": "https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5"
+        },
+        {
+          "name": "LXGHTXNG",
+          "url": "https://open.spotify.com/artist/3BWWoXb370tH2ElySp6rgm"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77206,
+      "name": "FINA LANA",
+      "url": "https://open.spotify.com/track/4qv2RLROjDDmnVTeVHVmpy"
     },
     {
       "album": {
@@ -9490,10 +9530,36 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 211408,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/2QenFYgqiJnSXUznQw1jfb"
+    },
+    {
+      "album": {
+        "name": "DONDA 2",
+        "url": "https://open.spotify.com/album/1ZkGNUz1un0b3Z7EsJl3ci"
+      },
+      "artists": [
+        {
+          "name": "DONDA",
+          "url": "https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211408,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/6BJRGULyx1DbFJLBj3fbx3"
     },
     {
       "album": {
@@ -11348,7 +11414,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 310226,
       "name": "Insatiable",
       "url": "https://open.spotify.com/track/4Q8yCpsxxJF0tRsjzu6Ytw"
@@ -12808,7 +12874,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 299560,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
@@ -14029,6 +14095,24 @@
     },
     {
       "album": {
+        "name": "Malele",
+        "url": "https://open.spotify.com/album/3H22KyqZ5mgsxIgQpwD3Tu"
+      },
+      "artists": [
+        {
+          "name": "Alex & Vladi",
+          "url": "https://open.spotify.com/artist/7jWNuWVbbbg9z1Er19DkGj"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Malele",
+      "url": "https://open.spotify.com/track/13ax2N3IHRf8Hs4aULuMr7"
+    },
+    {
+      "album": {
         "name": "DAYS BEFORE RODEO",
         "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
       },
@@ -14212,7 +14296,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 216764,
       "name": "Maski Dolu",
       "url": "https://open.spotify.com/track/32AtsqkEW14KWxixNgoiMZ"
@@ -17800,6 +17884,32 @@
     {
       "album": {
         "name": "DONDA 2",
+        "url": "https://open.spotify.com/album/1ZkGNUz1un0b3Z7EsJl3ci"
+      },
+      "artists": [
+        {
+          "name": "DONDA",
+          "url": "https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180857,
+      "name": "PABLO",
+      "url": "https://open.spotify.com/track/2CEoEzqeH4EVL75JX1jf9B"
+    },
+    {
+      "album": {
+        "name": "DONDA 2",
         "url": "https://open.spotify.com/album/1hyxD3HtzCTIUUAZl26f4b"
       },
       "artists": [
@@ -17818,7 +17928,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 180857,
       "name": "PABLO",
       "url": "https://open.spotify.com/track/5UN04bkPywJqFdDPLvYikP"
@@ -24905,6 +25015,32 @@
     },
     {
       "album": {
+        "name": "DONDA 2",
+        "url": "https://open.spotify.com/album/1ZkGNUz1un0b3Z7EsJl3ci"
+      },
+      "artists": [
+        {
+          "name": "DONDA",
+          "url": "https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137180,
+      "name": "TRUE LOVE",
+      "url": "https://open.spotify.com/track/3WbuQIjkR1mIKdwSNlgqpp"
+    },
+    {
+      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
@@ -30296,7 +30432,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-08",
+      "date_removed": null,
       "duration_ms": 164309,
       "name": "\u043d\u0435 \u0440\u0430\u0441\u0441\u043b\u0430\u0431\u043b\u044f\u0439\u0441\u044f",
       "url": "https://open.spotify.com/track/6KBc9W1riUD5zXv29eIVop"

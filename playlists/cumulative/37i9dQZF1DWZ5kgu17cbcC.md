@@ -2,7 +2,7 @@
 
 ### [Hulu Hits](https://open.spotify.com/playlist/37i9dQZF1DWZ5kgu17cbcC)
 
-> Music from shows and movies you love including Secret Lives of Mormon Wives, now streaming on Hulu.
+> Music from shows and movies you love including FX’s Adults, now streaming on Hulu.
 
 162 songs - 7 hr 52 min
 

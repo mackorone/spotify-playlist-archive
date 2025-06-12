@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-306 songs - 13 hr 5 min
+308 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Lullaby for My Love](https://open.spotify.com/track/6eixAHLUQZrcUblQ4xJ62L) | [Liona Boyd](https://open.spotify.com/artist/33lm6MIpEXiHzv06MUIUBu) | [Relaxing Guitar for Insomnia, Dreaming and Romance](https://open.spotify.com/album/720bY37FzXk2RHn7soZuPi) | 5:52 | 2021-12-09 | 2022-05-27 |
 | [Luz de la tarde](https://open.spotify.com/track/3DKBcKpkpmPpp9WUjvpPCn) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Luz de la tarde](https://open.spotify.com/album/3MEwyUjJPURTeJqL1RcEas) | 2:02 | 2022-03-29 |  |
 | [Magic Wind](https://open.spotify.com/track/77ekrhV3OHhwaTO4CNoFo5) | [Al McCain](https://open.spotify.com/artist/1oyb8StNAS9nsBNHOKlqpN) | [Moods](https://open.spotify.com/album/0RAExk1jIs0Q9CSso8uAR8) | 2:02 | 2021-12-09 | 2024-04-20 |
+| [Maybe another day](https://open.spotify.com/track/52zUIhEBKcD6dCPQnNnFzj) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Maybe another day](https://open.spotify.com/album/5hQJfjXirg04OUm96553l2) | 2:44 | 2025-06-11 |  |
 | [Meadowglen](https://open.spotify.com/track/0jP6sh3YOXoAZAjv6mmQxo) | [Nathaniel Hugh](https://open.spotify.com/artist/0N9JbcwE2w3f9Qn6M6F3UP) | [Meadowglen](https://open.spotify.com/album/2bbaplzjHNwIlLSy8ocWjd) | 2:54 | 2025-04-16 |  |
 | [Meadows](https://open.spotify.com/track/1808M1IEnm8OFn0FDQvJDm) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [Meadows](https://open.spotify.com/album/6HVfGn8vy3W6zFcpf3Oz2b) | 3:22 | 2024-04-19 |  |
 | [Melrose](https://open.spotify.com/track/5ngbgfC1bhMA7WMxzH9Cfe) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/6Z1EwaLJ7zU8SaGywp0pSj) | 2:04 | 2021-12-09 | 2022-07-29 |
@@ -264,6 +265,7 @@
 | [Svalbard](https://open.spotify.com/track/6vc1ie7orjBJYeJVR4yh8r) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Floating Hearts](https://open.spotify.com/album/1nRpZdYMCTU0QfiOF737WI) | 3:19 | 2021-12-09 | 2022-07-29 |
 | [Taormina](https://open.spotify.com/track/4mfOm2VcZyIEf2tKlEehWL) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Taormina](https://open.spotify.com/album/3C5EW6NTVdzuTf1vxRQTwc) | 2:13 | 2022-10-28 | 2024-06-08 |
 | [Tăcere](https://open.spotify.com/track/2GnLadPkZbhaTxoBlpyj1c) | [Simion Alexandrescu](https://open.spotify.com/artist/3pJo8CcTXL3ZPIG8r2XOxl) | [Tăcere](https://open.spotify.com/album/5ZW7vpNnSPtzo09pdS8UuG) | 2:47 | 2021-12-09 | 2024-04-20 |
+| [The Conjurer](https://open.spotify.com/track/0JedJNGmpwYxeNtLN0hPOj) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [The Conjurer](https://open.spotify.com/album/7bSOJbMphI7xdhCmTAzv2V) | 2:27 | 2025-06-11 |  |
 | [The Crossing](https://open.spotify.com/track/4eyQ0mKeAtbCW6aw7ukd07) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [The Crossing](https://open.spotify.com/album/5RVA2zv3ramQfUrXPd8FpX) | 3:15 | 2021-12-09 | 2024-04-20 |
 | [The Distance Between Us](https://open.spotify.com/track/10rJjLMJjQKlp13S3nKGn4) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [The Distance Between Us](https://open.spotify.com/album/3oaWXUwuoQoPAU5FzQC589) | 2:11 | 2023-01-06 |  |
 | [The Dust Settles](https://open.spotify.com/track/0EVXNRFGjdC9xap72VhV7C) | [Andrei Smirnova](https://open.spotify.com/artist/6wLqG3xZFWS0M5pFimbbyr) | [The Dust Settles](https://open.spotify.com/album/06u42yAuNFUuzO2CLrJWCh) | 2:27 | 2023-04-28 | 2023-12-15 |

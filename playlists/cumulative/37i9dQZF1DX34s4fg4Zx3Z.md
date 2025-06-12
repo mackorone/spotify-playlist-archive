@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Sing
+> Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: The Snagon
 
-2,098 songs - 5 day 2 hr 55 min
+2,099 songs - 5 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1651,6 +1651,7 @@
 | [To Xác](https://open.spotify.com/track/7gFPaknWxvimeh5aYEqSnz) | [An Ric](https://open.spotify.com/artist/39MEOQAMmqrwnwhL5rnYSn) | [To Xác](https://open.spotify.com/album/60dRxbToYIOWvxz2M9AFCN) | 2:21 | 2023-10-05 | 2023-11-17 |
 | [Top List](https://open.spotify.com/track/1pJDNrUdD2RUel6Errx3Wz) | [7bizz](https://open.spotify.com/artist/5g95n51OydueKR940xXqhG), [Nosiah](https://open.spotify.com/artist/5VEpMspmRc0eGPemWUqPJc) | [Top List](https://open.spotify.com/album/3kPFj4kpQp01MjvdHHEvyt) | 2:30 | 2023-11-02 | 2023-11-23 |
 | [TOURIST](https://open.spotify.com/track/3wdK1Ldkj6ju4JIvg94G24) | [B\-Wine](https://open.spotify.com/artist/68Vj5ArAHBx2K0osGDXK4K), [V\#](https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om) | [TOURIST](https://open.spotify.com/album/2x7cvo4mgRnx8ZVxyGcRNy) | 3:30 | 2022-01-06 | 2023-01-06 |
+| [Trao Cho Anh](https://open.spotify.com/track/0Icvw7SwShfJuhZNVZW1CX) | [Leo](https://open.spotify.com/artist/6nGEjLO7VDV0AhhLWUejK9), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Trao Cho Anh](https://open.spotify.com/album/3NnygS9U8IXYUSd40KFpQU) | 3:42 | 2025-06-11 |  |
 | [Trao Cả Đời Cho Anh](https://open.spotify.com/track/0AudNVX7cDNLoHPbTedEaU) | [Phạm Hoàng Anh](https://open.spotify.com/artist/5f3rkQ7xYUb9IxihQGyGYW), [Rum](https://open.spotify.com/artist/2FzQt1F2hU6M2h0w9AZ6kT), [DT Tập Rap](https://open.spotify.com/artist/56YvnYcOAPPIuSwoZ6uoBP) | [Trao Cả Đời Cho Anh](https://open.spotify.com/album/0eWupIfPDckWcZ6FGM2yax) | 2:58 | 2024-05-23 | 2024-11-01 |
 | [Trao Em Tình Yêu](https://open.spotify.com/track/0vgMjbZgwpcrkQXjRqSQwA) | [Vang](https://open.spotify.com/artist/6bvMoywdm3JM1bmVvMngrW), [Darki](https://open.spotify.com/artist/5Oe02XQcUF74wOofnIl9b2) | [Trao Em Tình Yêu](https://open.spotify.com/album/1E8YpWgwRWDXZDrkgTvm0M) | 3:07 | 2022-07-31 | 2024-02-22 |
 | [Trapstar](https://open.spotify.com/track/6RWov91Kfe7fpiIRNdtfIF) | [WoogieBoi](https://open.spotify.com/artist/6e96L3MFFvaPscjxZeyHVP), [Woodee](https://open.spotify.com/artist/26qzkcko4ciQhzBR0Ofmge) | [Trapstar](https://open.spotify.com/album/2349VuDc9A0LhMZWlweNOE) | 3:11 | 2022-08-23 | 2022-09-01 |

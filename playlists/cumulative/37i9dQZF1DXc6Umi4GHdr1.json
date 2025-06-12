@@ -1187,6 +1187,24 @@
     },
     {
       "album": {
+        "name": "Colourful Sky",
+        "url": "https://open.spotify.com/album/2AAhhCkSzV5pIgERXmBN4C"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Fischer",
+          "url": "https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188496,
+      "name": "Colourful Sky",
+      "url": "https://open.spotify.com/track/5SWJzfELScwQIwKzg1ho1j"
+    },
+    {
+      "album": {
         "name": "Comfort Me",
         "url": "https://open.spotify.com/album/1Ub90Zjn7J7amOBicYwUQ2"
       },
@@ -2210,6 +2228,24 @@
       "duration_ms": 165828,
       "name": "Felicitas",
       "url": "https://open.spotify.com/track/4ODPCP6txgH3tMcgJIXTEl"
+    },
+    {
+      "album": {
+        "name": "Field",
+        "url": "https://open.spotify.com/album/4diUNRlr7IBAx9TiL9EKjl"
+      },
+      "artists": [
+        {
+          "name": "David Sereno",
+          "url": "https://open.spotify.com/artist/25j4WPpCFt8QQUnb7TmREb"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137750,
+      "name": "Field",
+      "url": "https://open.spotify.com/track/4LrY7WhlwMyEl6dY03ckGP"
     },
     {
       "album": {

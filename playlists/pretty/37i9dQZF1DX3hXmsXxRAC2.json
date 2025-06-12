@@ -1,6 +1,6 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 348847,
+  "num_followers": 348908,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
@@ -995,26 +995,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Songbook 3 El Amor Es Vida",
-        "url": "https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Gravas",
-          "url": "https://open.spotify.com/artist/3jDJ5r0kU32EeVl2Dd5uYv"
-        },
-        {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
-        }
-      ],
-      "duration_ms": 360823,
-      "name": "Amor eterno",
-      "url": "https://open.spotify.com/track/2IWOOtvbLProMGmNfqujX4"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "Non-Stop: Mexico to Jamaica",
         "url": "https://open.spotify.com/album/2uvbuOxYzDgGI5oz6jvYE3"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 189666,
       "name": "El Noa Noa",
       "url": "https://open.spotify.com/track/7E4BLyz8vOpDh6TSKACBfP"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Songbook 3 El Amor Es Vida",
+        "url": "https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Gravas",
+          "url": "https://open.spotify.com/artist/3jDJ5r0kU32EeVl2Dd5uYv"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "duration_ms": 360823,
+      "name": "Amor eterno",
+      "url": "https://open.spotify.com/track/2IWOOtvbLProMGmNfqujX4"
     },
     {
       "added_at": "2024-07-02 23:46:15",

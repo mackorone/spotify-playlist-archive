@@ -1,6 +1,6 @@
 {
   "description": "All of the Celtic punk essentials.. Cover: Dropkick Murphys",
-  "num_followers": 474968,
+  "num_followers": 475016,
   "original_name": "Celtic Punk",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4"
-      },
-      "artists": [
-        {
-          "name": "Blaggards",
-          "url": "https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1"
-        }
-      ],
-      "duration_ms": 210786,
-      "name": "Botany Bay",
-      "url": "https://open.spotify.com/track/0EjrmUYfo0bo787mvveLLi"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
         "name": "Modem Operandi",
         "url": "https://open.spotify.com/album/0xdrPhrZW6zE7miVUMG9Qg"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 167440,
       "name": "Fight Song",
       "url": "https://open.spotify.com/track/35DtVain6n4J5hAb0wDNZz"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4"
+      },
+      "artists": [
+        {
+          "name": "Blaggards",
+          "url": "https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1"
+        }
+      ],
+      "duration_ms": 210786,
+      "name": "Botany Bay",
+      "url": "https://open.spotify.com/track/0EjrmUYfo0bo787mvveLLi"
     },
     {
       "added_at": "2022-03-18 14:59:31",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-02-06 19:54:12",
       "album": {
-        "name": "On the Rocks",
-        "url": "https://open.spotify.com/album/2aIBq4cJweU84E0PZuXa05"
-      },
-      "artists": [
-        {
-          "name": "Seamus Kennedy",
-          "url": "https://open.spotify.com/artist/0mOdLsbUeEcEy7ADN3Hhuf"
-        }
-      ],
-      "duration_ms": 114946,
-      "name": "The Beer Song",
-      "url": "https://open.spotify.com/track/6ei9tbLjSdYpZatWSQfzQd"
-    },
-    {
-      "added_at": "2024-02-06 19:54:12",
-      "album": {
         "name": "No Offence",
         "url": "https://open.spotify.com/album/1J6eEhYrbJeH4zqQ3AsJBD"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 226400,
       "name": "Danny Boy",
       "url": "https://open.spotify.com/track/57y4irrYnvb4ctHiP45ncX"
+    },
+    {
+      "added_at": "2024-02-06 19:54:12",
+      "album": {
+        "name": "On the Rocks",
+        "url": "https://open.spotify.com/album/2aIBq4cJweU84E0PZuXa05"
+      },
+      "artists": [
+        {
+          "name": "Seamus Kennedy",
+          "url": "https://open.spotify.com/artist/0mOdLsbUeEcEy7ADN3Hhuf"
+        }
+      ],
+      "duration_ms": 114946,
+      "name": "The Beer Song",
+      "url": "https://open.spotify.com/track/6ei9tbLjSdYpZatWSQfzQd"
     },
     {
       "added_at": "2024-02-06 19:54:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the talented songwriters behind your favorite country songs\. Cover: Lori McKenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,476 likes - 187 songs - 11 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,491 likes - 187 songs - 11 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 | 186 | [What Whiskey Does \(feat\. Hillary Lindsey\)](https://open.spotify.com/track/6Zz0GUgiyGrN0EUkkHU1JM) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Magnolia](https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg) | 3:46 |
 | 187 | [The Highwayman](https://open.spotify.com/track/5Uq2mhb7ZHCGlLLbVVIuAF) | [Jimmy Webb](https://open.spotify.com/artist/0YJUdunUDA1pTDxJ8AJlyB) | [Highwayman: The Greatest Hits](https://open.spotify.com/album/34u1HXTINbB3kfKUAj6PzV) | 3:50 |
 
-Snapshot ID: `Z9zkfAAAAADa5yyuQyIcP0XQklotsvsL`
+Snapshot ID: `AAAAAGoIcXZLwowvyT2AkxaUFY+GUC/N`

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/6uYPGiuDI0H0SFB9FbJxHk?si=ktnN6bzASs2ehgDXx3eGYw">Brokuod</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/0l8j0CSU0A1CHpY9ku48z9?si=6VIx7NO0RuqsMOrVYWI5pA">The SN Project</a>\. Artwork: Isu Kim.
 
-1,332 songs - 2 day 18 hr 35 min
+1,333 songs - 2 day 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Ajoke](https://open.spotify.com/track/6PM8LP6tFAaPHy7NsOEJDX) | [Shine Bm](https://open.spotify.com/artist/3D0aT4H2RqLXYzuWjcm2Wl) | [Ajoke](https://open.spotify.com/album/1vn2Ff4nccR4bmPiZZ6eS7) | 3:58 | 2025-03-05 | 2025-04-03 |
 | [Akatafoc](https://open.spotify.com/track/7jx82wdGMpdikLtSajhMb3) | [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Reggie](https://open.spotify.com/artist/0VuX86IpWGJBEv1PUCRgNP), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Akatafoc](https://open.spotify.com/album/41IfG6m1JTCyYcuMswd6Gi) | 4:17 | 2023-03-05 | 2023-03-10 |
 | [AKOHWIE PARTY](https://open.spotify.com/track/46tzntjf7g802oKFoJQNqJ) | [Braabenk](https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Bird's Eye View](https://open.spotify.com/album/5tjphbRqggABEV9wLw4fcW) | 3:08 | 2024-10-04 | 2024-11-07 |
-| [Alhaji](https://open.spotify.com/track/5XrgPJask6SnYkoPDQAHQy) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [Iliya Entertainment Music](https://open.spotify.com/artist/0NwtS6wE1fRewrOxxSCSKh) | [Alhaji](https://open.spotify.com/album/70vdKrzZ5W8XqRj4YcbWyr) | 2:01 | 2025-01-23 |  |
+| [Alhaji](https://open.spotify.com/track/5XrgPJask6SnYkoPDQAHQy) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [Iliya Entertainment Music](https://open.spotify.com/artist/0NwtS6wE1fRewrOxxSCSKh) | [Alhaji](https://open.spotify.com/album/70vdKrzZ5W8XqRj4YcbWyr) | 2:01 | 2025-01-23 | 2025-06-12 |
 | [Alive](https://open.spotify.com/track/7H7Er3DhVuujryPZpGI2gc) | [Lucky Boyy](https://open.spotify.com/artist/3U1ObYsXZrSPTafQqatJ6V), [Meeza](https://open.spotify.com/artist/0M8Q605RhroqG5TJWMBDuK) | [Alive](https://open.spotify.com/album/3zPK3yzvVS0zfwlZuGHMUQ) | 2:21 | 2024-07-03 | 2024-08-08 |
 | [Alive](https://open.spotify.com/track/0uh6nYYNadWJnos3Zg5aiM) | [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r), [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK) | [Freckles](https://open.spotify.com/album/6z5JNzljLRS4ZULgIrvv24) | 2:29 | 2023-09-27 | 2023-10-26 |
 | [All Along](https://open.spotify.com/track/1JxNg0lpb0wowP9spCmYV1) | [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y), [Benjamz](https://open.spotify.com/artist/1cvj5ldXP3hi7bQ3nAbd31) | [All Along](https://open.spotify.com/album/5mkDupkJkTybidftjeYeoZ) | 2:37 | 2024-08-07 | 2024-09-05 |
@@ -530,6 +530,7 @@
 | [I Decide](https://open.spotify.com/track/5ZHbW3KbAkz9JQ40u51r6k) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Like A Flower](https://open.spotify.com/album/3n5j84AVeaeRrQS17zXX7h) | 2:11 | 2024-08-07 | 2024-09-05 |
 | [I do not belong Here](https://open.spotify.com/track/7auwOWS23qjWn9RpCG3k5G) | [Tasha HendrixX](https://open.spotify.com/artist/65BTCme7F1DLvHuGtm8ewa) | [If I'm really being Honest](https://open.spotify.com/album/4hxyt6FoH0k3WmSFuu7JTO) | 2:52 | 2024-08-07 | 2024-09-05 |
 | [i don't reply](https://open.spotify.com/track/7J6k554GyPu49IPW8kT8uN) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [parasocial interaction](https://open.spotify.com/album/0JLDVJ6eOpEg5ToOaFxuO3) | 2:48 | 2023-02-22 | 2023-03-30 |
+| [I just wanna](https://open.spotify.com/track/3yh0rG35SAkXyCWKVBbttD) | [The SN Project](https://open.spotify.com/artist/0l8j0CSU0A1CHpY9ku48z9), [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [Pantomime, Vol\. 1](https://open.spotify.com/album/6d0Yja3Gzf5fVmjQmOhExI) | 4:11 | 2025-06-11 |  |
 | [I Might](https://open.spotify.com/track/0vUMCgfgcoblVHcz1Qopt9) | [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Might](https://open.spotify.com/album/0ZTLZgvrz0KhPTiPnS1O32) | 3:28 | 2024-03-06 | 2024-04-03 |
 | [I No Fit Die](https://open.spotify.com/track/1pyPBjAUwnmCu3cROJ6ROL) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2) | [I No Fit Die](https://open.spotify.com/album/1weqTKVEn5JeREhe6vFlv4) | 2:17 | 2025-01-23 | 2025-03-12 |
 | [I Regret](https://open.spotify.com/track/6LWzPiraT4yeHet4RvPICJ) | [Teswess](https://open.spotify.com/artist/5f3qHCq4P6DLiWOrdI6Xeq) | [I Regret](https://open.spotify.com/album/7yMBUhBFLWmcf58qL9b9SQ) | 2:45 | 2024-07-03 | 2024-08-08 |
@@ -915,7 +916,7 @@
 | [Our Favourite Songs](https://open.spotify.com/track/3gnF64qnJIwTXerrp6qnVU) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [Our Favourite Songs](https://open.spotify.com/album/2ZWiQbs6xhcg2stGixOQx1) | 3:34 | 2022-09-02 | 2022-10-01 |
 | [Out Of Love](https://open.spotify.com/track/3Bn3vX4QIC78AsDSImqTI6) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Out Of Love](https://open.spotify.com/album/19x4YjGY61sl8wqEnwKsT5) | 3:42 | 2025-04-23 | 2025-04-30 |
 | [Out Of Reach](https://open.spotify.com/track/6vxKYDcvlvVbFCfqNEtKoe) | [Txby](https://open.spotify.com/artist/0gHlO5VwVKWZ1jG3QMSiRc) | [Out Of Reach](https://open.spotify.com/album/4cQhJwcd3SiS9LxizM0XMn) | 3:10 | 2023-10-25 | 2023-11-30 |
-| [OUTGROWN](https://open.spotify.com/track/4Y5QYv3npGSmC3mPcaxDVx) | [Agum](https://open.spotify.com/artist/65clSGoG8QMqMDxmpkZPhw) | [OUTGROWN](https://open.spotify.com/album/30LAd0BP8dRmDty37j8o26) | 4:13 | 2025-03-11 |  |
+| [OUTGROWN](https://open.spotify.com/track/4Y5QYv3npGSmC3mPcaxDVx) | [Agum](https://open.spotify.com/artist/65clSGoG8QMqMDxmpkZPhw) | [OUTGROWN](https://open.spotify.com/album/30LAd0BP8dRmDty37j8o26) | 4:13 | 2025-03-11 | 2025-06-12 |
 | [Outside](https://open.spotify.com/track/5oWQfNGRqmeRQ2QnpQYT5u) | [Binta](https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR) | [Outside](https://open.spotify.com/album/6Jws1yCoDC7jninFkcAFId) | 2:23 | 2024-08-07 | 2024-09-05 |
 | [Over](https://open.spotify.com/track/1gMaklshAS3EUz2uhqfx8H) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [In Her Thoughts](https://open.spotify.com/album/7eXEtX7iQ1oJ9Ngs7xYMkx) | 3:13 | 2024-07-03 | 2024-08-08 |
 | [over the moon](https://open.spotify.com/track/1ot902nL9e1MEygtYbhtFk) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [over the moon](https://open.spotify.com/album/3o7pZLAun0iGVN42L43693) | 4:16 | 2022-09-02 | 2022-10-01 |

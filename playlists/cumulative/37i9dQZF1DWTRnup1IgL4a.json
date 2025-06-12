@@ -2871,6 +2871,24 @@
     },
     {
       "album": {
+        "name": "Maybe another day",
+        "url": "https://open.spotify.com/album/5hQJfjXirg04OUm96553l2"
+      },
+      "artists": [
+        {
+          "name": "Serilda Bell",
+          "url": "https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164333,
+      "name": "Maybe another day",
+      "url": "https://open.spotify.com/track/52zUIhEBKcD6dCPQnNnFzj"
+    },
+    {
+      "album": {
         "name": "Meadowglen",
         "url": "https://open.spotify.com/album/2bbaplzjHNwIlLSy8ocWjd"
       },
@@ -4618,6 +4636,24 @@
       "duration_ms": 167702,
       "name": "Ta\u0306cere",
       "url": "https://open.spotify.com/track/2GnLadPkZbhaTxoBlpyj1c"
+    },
+    {
+      "album": {
+        "name": "The Conjurer",
+        "url": "https://open.spotify.com/album/7bSOJbMphI7xdhCmTAzv2V"
+      },
+      "artists": [
+        {
+          "name": "Leon Arms",
+          "url": "https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "The Conjurer",
+      "url": "https://open.spotify.com/track/0JedJNGmpwYxeNtLN0hPOj"
     },
     {
       "album": {

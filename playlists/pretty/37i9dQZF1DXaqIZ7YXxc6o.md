@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Harry Hayes
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,580 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,583 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 37 | [Love Like You](https://open.spotify.com/track/2CXF9gb38FVXESYZFobnCQ) | [Upper90](https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz) | [Love Like You](https://open.spotify.com/album/0QhCSKqrVGCu5VLmn2Y1n2) | 3:29 |
 | 38 | [Moonlight](https://open.spotify.com/track/3XZTX8NBwXSMtzXDCL33I7) | [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [Moonlight](https://open.spotify.com/album/50P2GeqA9S2HcXMaZwAhQr) | 3:03 |
 | 39 | [Fuck My Computer](https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Fuck My Computer](https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy) | 3:10 |
-| 40 | [Are U The One](https://open.spotify.com/track/1rOspz7NK5VCHqAFgtk1VA) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Are U The One](https://open.spotify.com/album/3I0MMEgVylA69wAef3lN0j) | 4:34 |
+| 40 | [Are You The One](https://open.spotify.com/track/1rOspz7NK5VCHqAFgtk1VA) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Are You The One](https://open.spotify.com/album/3I0MMEgVylA69wAef3lN0j) | 4:34 |
 | 41 | [Frake](https://open.spotify.com/track/5phpSn3y1mjWu3pR35RbTf) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Frake](https://open.spotify.com/album/49fLLY675afFl4yqm0C7vS) | 3:17 |
 | 42 | [Staring Into The Sun](https://open.spotify.com/track/4ZyOjIxFyf6UWdERULkFKE) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Staring Into The Sun](https://open.spotify.com/album/32fHr60Vpx6iUdl6UovJWH) | 3:16 |
 | 43 | [Ruins](https://open.spotify.com/track/4jfB2EGWbtWzDoM696Ch6u) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Ruins](https://open.spotify.com/album/13xj625T4hyjosgTEZBRLH) | 2:40 |

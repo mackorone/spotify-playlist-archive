@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: We Came As Romans
 
-1,251 songs - 3 day 4 hr 45 min
+1,252 songs - 3 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Afterimage \(feat\. Ian Kenny, Karnivool\)](https://open.spotify.com/track/1MHCrrThxRZaWLNDo7bEjC) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Afterimage \(feat\. Ian Kenny, Karnivool\)](https://open.spotify.com/album/5DPtedtBLcjXS2skojck70) | 4:14 | 2024-03-08 | 2025-04-26 |
 | [Aira](https://open.spotify.com/track/3AQ9qXLY9FsXin9SpZ9H2c) | [Solitaris](https://open.spotify.com/artist/3FsxQTz4NBLf2ABqDIghzM) | [Aira](https://open.spotify.com/album/2o71ejnhNl0xXz0KTHuqZs) | 2:29 | 2024-11-22 | 2024-12-19 |
 | [Alien](https://open.spotify.com/track/68jpsRP9mKCcgCcf7j5wwF) | [Caliban](https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL) | [Dystopia](https://open.spotify.com/album/2PGnrN0ACDEByVDGj1wNHL) | 3:34 | 2022-04-22 | 2022-07-01 |
+| [Alien Skin](https://open.spotify.com/track/4St2IFIdSw38TsHKXFs9wX) | [Daedric](https://open.spotify.com/artist/7bPZIHM9End5CqPcCrOqBf) | [Alien Skin](https://open.spotify.com/album/3pWMkkZtYJDtJGD3ee92mS) | 3:36 | 2025-06-06 |  |
 | [Alive](https://open.spotify.com/track/6PiXGMP8INLluk86wUoGt2) | [Solitaris](https://open.spotify.com/artist/3FsxQTz4NBLf2ABqDIghzM) | [Alive](https://open.spotify.com/album/7imjw43mx7csgzKzNF0Bsa) | 2:52 | 2022-07-13 | 2022-07-19 |
 | [Alive or Only Burning](https://open.spotify.com/track/3OFbZftPhoSCFbxyNBzPF3) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Lifestyles of the Sick & Dangerous](https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb) | 3:09 | 2022-07-08 | 2022-12-17 |
 | [All For Nothing](https://open.spotify.com/track/4jVxw1PPpXYVtmZp6UQwmE) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [All For Nothing](https://open.spotify.com/album/7AD4sMaffGvpkWrBOQOEoq) | 4:08 | 2025-01-31 |  |
@@ -962,7 +963,7 @@
 | [Singularity](https://open.spotify.com/track/2O9RmVnPguPj8q7Vol3UZd) | [Never Back Down](https://open.spotify.com/artist/4qyWns3YuVTcRBu3tLfZyS), [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk) | [Never Back Down](https://open.spotify.com/album/5LBVHXZ46tgeOElr4Oe47b) | 3:08 | 2024-08-12 | 2024-08-26 |
 | [SIRENS](https://open.spotify.com/track/4JPndG4JDXqXEm6gQRYDby) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [SIRENS](https://open.spotify.com/album/6fxrclXOlgVWkNXBnsScoU) | 3:36 | 2023-07-14 | 2024-04-13 |
 | [Skin](https://open.spotify.com/track/4i19NWcezW6rXnwBJLY94E) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Hell Is Where The Heart Is, Pt\. I: Love](https://open.spotify.com/album/2MHhW9J9v9rWWBAsIswlB7) | 3:37 | 2022-01-14 | 2022-04-23 |
-| [Skin & Bones](https://open.spotify.com/track/00NMFm5GBfE64F6LyCIXNT) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Skin & Bones](https://open.spotify.com/album/5J5bCon0bHWLYFRGi7BZu2) | 3:09 | 2024-08-25 |  |
+| [Skin & Bones](https://open.spotify.com/track/00NMFm5GBfE64F6LyCIXNT) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Skin & Bones](https://open.spotify.com/album/5J5bCon0bHWLYFRGi7BZu2) | 3:09 | 2024-08-25 | 2025-06-12 |
 | [Skin Crawl \(feat\. Brian “Head” Welch of Korn, Dan Weyandt of Zao, Bruce Fitzhugh of Living Sacrifice\)](https://open.spotify.com/track/05ExgiMCSDdT15nwhMf8ow) | [Islander](https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w), [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Zao](https://open.spotify.com/artist/2vqfIznyoJDjhrbNAueQ6s), [Living Sacrifice](https://open.spotify.com/artist/0nxo4nAEYNbNpA8wwNvqXY) | [It’s Not Easy Being Human](https://open.spotify.com/album/1PQNS7uitlx8MAfVmHImtz) | 4:10 | 2022-04-01 | 2022-06-18 |
 | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/track/4DzJ41A6qR14hHtS1djvdX) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Bryan Garris](https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe), [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/album/4M8klblrnAmjVDHTMkxxqu) | 4:23 | 2022-05-13 | 2022-07-23 |
 | [Slaughterhouse 2 \(feat\. Chris Motionless\)](https://open.spotify.com/track/3IXBQaQJ5ljpWwndAVvixg) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Chris Motionless](https://open.spotify.com/artist/2bulKOP1y1iUYGE6FcMrHd) | [You Won't Go Before You're Supposed To](https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3) | 3:03 | 2024-05-10 |  |

@@ -1009,6 +1009,28 @@
     },
     {
       "album": {
+        "name": "Nothing to Lose",
+        "url": "https://open.spotify.com/album/4BHw8cY6lk2OTWjXRfyNXe"
+      },
+      "artists": [
+        {
+          "name": "Matenka",
+          "url": "https://open.spotify.com/artist/4EwYwO6WB7sNbcn9jf17PU"
+        },
+        {
+          "name": "Harina",
+          "url": "https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "Nothing to Lose",
+      "url": "https://open.spotify.com/track/1lxG5G2u81c1cwSvnAIYVZ"
+    },
+    {
+      "album": {
         "name": "OHNE DICH",
         "url": "https://open.spotify.com/album/1NzY7UOkZ6uP6oz9sP8AtZ"
       },

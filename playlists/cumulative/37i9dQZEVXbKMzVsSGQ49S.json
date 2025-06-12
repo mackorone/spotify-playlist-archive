@@ -216,7 +216,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 213573,
       "name": "10 fingur",
       "url": "https://open.spotify.com/track/6xUjDJr13mTwal8SEdS7AP"
@@ -3442,7 +3442,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -3974,7 +3974,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 159493,
       "name": "Baller",
       "url": "https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD"
@@ -4992,7 +4992,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -8141,6 +8141,24 @@
     },
     {
       "album": {
+        "name": "Come To Me, I\u00b4m A Man",
+        "url": "https://open.spotify.com/album/4zlQ5q7BWnUJ7aUFVrCFXU"
+      },
+      "artists": [
+        {
+          "name": "IurisEkero",
+          "url": "https://open.spotify.com/artist/4yh3pmJ514U9AfOrcPZyID"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183840,
+      "name": "Come To Me, I\u00b4m A Man",
+      "url": "https://open.spotify.com/track/4NffFOWuIi3WnWcsOIx7Cq"
+    },
+    {
+      "album": {
         "name": "Comfortable",
         "url": "https://open.spotify.com/album/7shxKOu9P3uVJNNq1e0AuQ"
       },
@@ -9568,7 +9586,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 203563,
       "name": "Desde Hoy",
       "url": "https://open.spotify.com/track/4ob6ms155NnDHo3NcNqeue"
@@ -12904,7 +12922,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -12922,7 +12940,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -20284,7 +20302,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 182400,
       "name": "Huglei\u00f0sla",
       "url": "https://open.spotify.com/track/4d521XcdrRCLV33A4YB0RZ"
@@ -41028,7 +41046,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 160288,
       "name": "Steik og Sushi",
       "url": "https://open.spotify.com/track/5xUMIgT1ANxPDJa3j7IBGv"
@@ -41166,7 +41184,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 178147,
       "name": "Still a Little Drunk",
       "url": "https://open.spotify.com/track/5bLuWXuqefnhxTp0go9wqF"
@@ -43494,6 +43512,28 @@
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
+    },
+    {
+      "album": {
+        "name": "TATE KIETA",
+        "url": "https://open.spotify.com/album/7wrVWCmIICYUS02KleuStz"
+      },
+      "artists": [
+        {
+          "name": "Frozo",
+          "url": "https://open.spotify.com/artist/6xdFlZBb3KO4mKyloZQU81"
+        },
+        {
+          "name": "Jupit3r",
+          "url": "https://open.spotify.com/artist/5lHYwvBd3Vs8cwJxiuJwKY"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "TATE KIETA",
+      "url": "https://open.spotify.com/track/1sM1EAWbJQBWX4zDCi1g9x"
     },
     {
       "album": {
@@ -47760,7 +47800,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 169870,
       "name": "Vitamin",
       "url": "https://open.spotify.com/track/2bk8MeKPbwWc9Iwv4qjz7U"
@@ -48454,7 +48494,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 164998,
       "name": "Wasted Love",
       "url": "https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB"

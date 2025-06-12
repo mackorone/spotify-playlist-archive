@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 518096,
+  "num_followers": 518133,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEYkAAAAAAAq4vQjV6R2WpIveG85sRLp",
+  "snapshot_id": "aEd1gAAAAADvxYVjoE2nhrMxr+kUh5/Y",
   "tracks": [
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RawayanaLand",
-        "url": "https://open.spotify.com/album/3Qxc69fEzxQpVni3yfu5UD"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 267200,
-      "name": "Mamita (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/4YU0xHroexMt4ohhPVbKla"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radio la Colifata Presenta: El Canto del Loco",
         "url": "https://open.spotify.com/album/6ILlAsXOF5S8OdIYyS1XZf"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 214853,
       "name": "Contigo (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/3StCElHKaN6ASLf7Pymdum"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RawayanaLand",
+        "url": "https://open.spotify.com/album/3Qxc69fEzxQpVni3yfu5UD"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 267200,
+      "name": "Mamita (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/4YU0xHroexMt4ohhPVbKla"
     },
     {
       "added_at": null,
@@ -875,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En el 2000",
+        "url": "https://open.spotify.com/album/5C2bUVAqDyZOm63TxgGsJU"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 245666,
+      "name": "Amarte Duele",
+      "url": "https://open.spotify.com/track/6MjhVHsInlmsPlEJ3KmfP6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como Quisiera Quererte",
         "url": "https://open.spotify.com/album/1zyxtpEhfxsb5QfpDzLReB"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 258036,
       "name": "Como Quisiera Quererte",
       "url": "https://open.spotify.com/track/4r6OwScTgTeq1ugHGeqsT4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En el 2000",
-        "url": "https://open.spotify.com/album/5C2bUVAqDyZOm63TxgGsJU"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 245666,
-      "name": "Amarte Duele",
-      "url": "https://open.spotify.com/track/6MjhVHsInlmsPlEJ3KmfP6"
     },
     {
       "added_at": null,

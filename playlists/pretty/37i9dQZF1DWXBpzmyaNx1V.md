@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > Nos vemos en el Primer Gran Festival de Bandemia, 2 de agosto del 2025 en la CDMX.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,746 likes - 52 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,765 likes - 52 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 51 | [Vampiro](https://open.spotify.com/track/11Jqdw6vMwgUZQF9w1wqzJ) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Zapandú](https://open.spotify.com/album/7peyVHwdincY9AkNJv0VY0) | 4:56 |
 | 52 | [Bisogno](https://open.spotify.com/track/2GfegL8IjHxB5MD4NtIYxV) | [ven y mira](https://open.spotify.com/artist/2nNsfA0j5LEbwx9zSv4ikp) | [Bisogno](https://open.spotify.com/album/43zkeB7wgiBv1XHYWOgmh8) | 2:01 |
 
-Snapshot ID: `aC4dKQAAAABKVfEcwrjjhEfsQZgsuSM2`
+Snapshot ID: `AAAAAEz8v8SnyOq1kHIT+HC+XeEvVPTw`

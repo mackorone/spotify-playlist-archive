@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/6uYPGiuDI0H0SFB9FbJxHk?si=ktnN6bzASs2ehgDXx3eGYw\">Brokuod</a>. Artwork: Isu Kim. ",
+  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/0l8j0CSU0A1CHpY9ku48z9?si=6VIx7NO0RuqsMOrVYWI5pA\">The SN Project</a>. Artwork: Isu Kim. ",
   "name": "Fresh Finds Africa",
   "tracks": [
     {
@@ -878,7 +878,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 121846,
       "name": "Alhaji",
       "url": "https://open.spotify.com/track/5XrgPJask6SnYkoPDQAHQy"
@@ -10341,6 +10341,28 @@
     },
     {
       "album": {
+        "name": "Pantomime, Vol. 1",
+        "url": "https://open.spotify.com/album/6d0Yja3Gzf5fVmjQmOhExI"
+      },
+      "artists": [
+        {
+          "name": "The SN Project",
+          "url": "https://open.spotify.com/artist/0l8j0CSU0A1CHpY9ku48z9"
+        },
+        {
+          "name": "Zo\u00eb Modiga",
+          "url": "https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251878,
+      "name": "I just wanna",
+      "url": "https://open.spotify.com/track/3yh0rG35SAkXyCWKVBbttD"
+    },
+    {
+      "album": {
         "name": "I Might",
         "url": "https://open.spotify.com/album/0ZTLZgvrz0KhPTiPnS1O32"
       },
@@ -17918,7 +17940,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 253913,
       "name": "OUTGROWN",
       "url": "https://open.spotify.com/track/4Y5QYv3npGSmC3mPcaxDVx"

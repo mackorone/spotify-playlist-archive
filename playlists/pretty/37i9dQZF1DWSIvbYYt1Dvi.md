@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > padrin pepito e coyote com AULAS chamando na relíquia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,171,115 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,171,019 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 14 | [MELHOR QUE ONTEM](https://open.spotify.com/track/7kwjhB3KqfvjVrQPBawEmq) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Los Hermanos](https://open.spotify.com/artist/7Brxri4l1ATShikyHXsEr6), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [Quanto Mais Eu Como, Mais Fome Eu Sinto !](https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG) | 3:30 |
 | 15 | [Enigma](https://open.spotify.com/track/1QD3t3zkwFUdEbMBTApeiZ) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [OPROPRIO](https://open.spotify.com/album/0b2iLDXb2gs0jRk4Vj7jlR) | 3:07 |
 | 16 | [vivo ou morto, um problema](https://open.spotify.com/track/34YInRrO9FD164VPFP3lb2) | [Link do Zap](https://open.spotify.com/artist/69HZc0P77aI7VUFx4GAdQm), [nabru](https://open.spotify.com/artist/3vL4zu2elGxz6DPPlOz2s3) | [vivo ou morto, um problema](https://open.spotify.com/album/25aHEO79rmhh7s99zceShL) | 3:43 |
-| 17 | [KIA](https://open.spotify.com/track/49mACJ1TtKpe5QKG80TwXx) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:19 |
+| 17 | [KIA](https://open.spotify.com/track/49mACJ1TtKpe5QKG80TwXx) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:19 |
 | 18 | [Latino Americano](https://open.spotify.com/track/5p02vl3X0p227XS6Lro9sI) | [Drinho Sp](https://open.spotify.com/artist/5WN4qyNrnrDosMqrczBxuo) | [Latino Americano](https://open.spotify.com/album/06bOKhOjYZe7OGjA5XK6tt) | 4:36 |
 | 19 | [Peso do Mundo](https://open.spotify.com/track/2wcv3BDS3izeQpJt7vyf03) | [Gorilla Concept Music](https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Peso do Mundo](https://open.spotify.com/album/3m2BryLnwL0MBAKx7PGQ7S) | 3:46 |
 | 20 | [GRÉCIA](https://open.spotify.com/track/66WeFkFXdWoDaKgk8SrnBs) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [MAIOR QUE O TEMPO](https://open.spotify.com/album/3Cjn6aliQrVp6MPiU4oAdw) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Sensação de Liberdade](https://open.spotify.com/track/5Mlq6dGC4QUk8p07HLxsMt) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Rocco](https://open.spotify.com/artist/06NDDonUGSC7qknse3ZpoP) | [Eu Ainda Tenho Coração](https://open.spotify.com/album/2BWuEcfvGCiIaqwb0HTqFm) | 2:58 |
 | 50 | [OUTRA REALIDADE](https://open.spotify.com/track/28DVvFIEB1NAYcxKL65oMl) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Cris SNJ](https://open.spotify.com/artist/69qkC8x2DGT4yjuwXNFQPf), [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Nega Gizza](https://open.spotify.com/artist/3oiQITN04AtBYNL1vRvAZy), [DJ Negrito](https://open.spotify.com/artist/7moCvonQ3XMZVzrlsTK4K1) | [OUTRA REALIDADE](https://open.spotify.com/album/0HmLrWoCZvc4d2Cz0cB4Jq) | 4:24 |
 
-Snapshot ID: `aEJaAwAAAACRSDzd9O/o/yYU+LJYyY08`
+Snapshot ID: `aEJaAwAAAACkRgGSTduExWKNtcTUfGFO`

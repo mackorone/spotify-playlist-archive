@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-477 songs - 1 day 9 hr 41 min
+478 songs - 1 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Lullaby](https://open.spotify.com/track/5by4rIWBDVMyTNzUcmBnMg) | [SeN](https://open.spotify.com/artist/55dIWAXagR1CvaSgATGUE1) | [Lullaby](https://open.spotify.com/album/0h51BaIs0hXuKreFaMXhkF) | 3:25 | 2022-11-08 | 2022-11-23 |
 | [Lullaby](https://open.spotify.com/track/0i5m8w14ZF8ACiecwfxTmi) | [高井息吹](https://open.spotify.com/artist/7zfwhvxWePJ4CqKqkbndML) | [PIANO](https://open.spotify.com/album/4p2OIw7cKIpewotLwrfECs) | 3:06 | 2023-02-07 | 2023-02-09 |
 | [Lullaby](https://open.spotify.com/track/236sSsbp1IOaLc93iEruO0) | [高井息吹](https://open.spotify.com/artist/7zfwhvxWePJ4CqKqkbndML) | [PIANO](https://open.spotify.com/album/5TY3WHsYYgXDa6RIrxOTWA) | 3:06 | 2023-02-07 | 2023-02-17 |
+| [Luminance](https://open.spotify.com/track/4c6yOy3ue1sYWKWxaedSev) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm), [井口理](https://open.spotify.com/artist/573aEcIHzIyX9guZtasykj) | [国宝　オリジナル・サウンドトラック](https://open.spotify.com/album/71zMCedoxuCj0m108ODrFL) | 4:39 | 2025-06-11 |  |
 | [Machibito](https://open.spotify.com/track/3JqO1F4xQ9t14M9nqs76RS) | [Oh Shu](https://open.spotify.com/artist/75XDEXxePvX7Hx4T3rUlVS) | [Town Dune](https://open.spotify.com/album/14RE1ViX83gMrVMCEHKLzZ) | 2:32 | 2024-09-27 |  |
 | [Mayumi](https://open.spotify.com/track/5uF7HExe9CmHQqx1BlMAHq) | [KAN](https://open.spotify.com/artist/0wVJakYe8YCkSjdmiHaVHY) | [la RINASCENTE](https://open.spotify.com/album/5lF6oP8XkIndSxM4ZsBWV3) | 3:58 | 2023-11-19 | 2024-01-31 |
 | [Mellow](https://open.spotify.com/track/1NI7SxSO3lRQJdMHxH6KJd) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [TWO MOON](https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa) | 4:00 | 2024-03-05 |  |
@@ -191,7 +192,7 @@
 | [Puffin](https://open.spotify.com/track/7MEuAI4uWTs32XuNJGHOJ9) | [Asami Tono](https://open.spotify.com/artist/5uyECggyaBp2soVsms3MNK) | [Puffin](https://open.spotify.com/album/7rWh3fUUb9Ri5OwJqZijWA) | 3:36 | 2022-10-20 | 2022-10-26 |
 | [Quai](https://open.spotify.com/track/7pAHrBXNISzLLFiquzlMpb) | [SADFRANK](https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW) | [Quai](https://open.spotify.com/album/6wq3R7atGikH6erhFOvAqm) | 6:50 | 2022-11-15 | 2023-01-06 |
 | [Quarantine Mood](https://open.spotify.com/track/0NZ2L0uKmzVAwgxWvwaPpw) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 2:08 | 2024-01-10 | 2025-01-19 |
-| [Rainforest \(feat\. Yoko Minamino\)](https://open.spotify.com/track/1XFewH8NQHRzBedkKhgKFD) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Yoko Minamino](https://open.spotify.com/artist/5Sk84Oai88Tdool4QpbHa5) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 2:49 | 2024-09-27 |  |
+| [Rainforest \(feat\. Yoko Minamino\)](https://open.spotify.com/track/1XFewH8NQHRzBedkKhgKFD) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Yoko Minamino](https://open.spotify.com/artist/5Sk84Oai88Tdool4QpbHa5) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 2:49 | 2024-09-27 | 2025-06-12 |
 | [Re\-魔法](https://open.spotify.com/track/2kHaJVeDjowAU73DnJBcQW) | [岡村匡紘](https://open.spotify.com/artist/5p3ewYLB0R0cbicCOyFFMR) | [Re\-魔法](https://open.spotify.com/album/1CdAvRqfAl2I8kPezmHyHo) | 4:38 | 2024-02-20 |  |
 | [reiji no machi](https://open.spotify.com/track/5hMGyNKCPjI0VFjS0YoozL) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [イノウエワラビ](https://open.spotify.com/artist/5DhlHgEyxSctLdzRoo5T44) | [Night Flow](https://open.spotify.com/album/6BUtooxe1o0S9rSLZbmZ24) | 4:09 | 2023-06-13 |  |
 | [Remember When](https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Remember When](https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U) | 3:12 | 2023-11-16 |  |

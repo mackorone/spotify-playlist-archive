@@ -132,7 +132,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 142750,
       "name": "Alta Gracia",
       "url": "https://open.spotify.com/track/010yj9FYqZdw3WfYSxD1xD"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 186691,
       "name": "Anita",
       "url": "https://open.spotify.com/track/2bFCZbUVSciR3EYIhx3phY"
@@ -302,7 +302,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 216545,
       "name": "Avocado",
       "url": "https://open.spotify.com/track/0w29VIM2dBI8yET88ZebmW"
@@ -836,7 +836,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 161250,
       "name": "De Tu Mano",
       "url": "https://open.spotify.com/track/0dDo9FPktLTFMxQ5h1JdIP"
@@ -1539,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/3B5cMshSNYP8IBHRYPGVBh"
+      },
+      "artists": [
+        {
+          "name": "Antonio Conti",
+          "url": "https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150458,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/5hfdZPZVQJBQeS8gI2nytO"
+    },
+    {
+      "album": {
         "name": "Guitarras Mexicanas",
         "url": "https://open.spotify.com/album/69KhYjVvtpMvTH0bf0rlPv"
       },
@@ -1688,6 +1706,24 @@
       "duration_ms": 192070,
       "name": "Longing For Some Sunshine",
       "url": "https://open.spotify.com/track/2th2s4TDymYISksJgJCyT4"
+    },
+    {
+      "album": {
+        "name": "Look What You've Done to Me",
+        "url": "https://open.spotify.com/album/45xkiwGVlPVp8RGq0RDUwZ"
+      },
+      "artists": [
+        {
+          "name": "Andreas Dalvik",
+          "url": "https://open.spotify.com/artist/1g7nSoa5dEBlJr2UD0CFB2"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186200,
+      "name": "Look What You've Done to Me",
+      "url": "https://open.spotify.com/track/6En4UOHRIceXLYOSuz9idc"
     },
     {
       "album": {
@@ -2168,7 +2204,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 178995,
       "name": "N\u00e3o quebre meu cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5tbaj51irlL5qMPt9aokTV"
@@ -3196,7 +3232,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 203745,
       "name": "Theme From Love Story",
       "url": "https://open.spotify.com/track/69u76zurQjRQHJT3RSqxqA"
@@ -3438,7 +3474,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 286500,
       "name": "Walking Around Santiago",
       "url": "https://open.spotify.com/track/547zA3UNGPouhvPF0LCpt7"

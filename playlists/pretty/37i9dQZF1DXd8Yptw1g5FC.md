@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Yaşlı Amca ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,466 likes - 89 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,459 likes - 89 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

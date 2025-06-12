@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93390,
+  "num_followers": 93386,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -27,18 +27,22 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "Lachryma",
-        "url": "https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev"
+        "name": "Rearrange My World / There\u2019s a Field (That's Only Yours)",
+        "url": "https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn"
       },
       "artists": [
         {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 276400,
-      "name": "Lachryma",
-      "url": "https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa"
+      "duration_ms": 124577,
+      "name": "There\u2019s a Field (That\u2019s Only Yours)",
+      "url": "https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -59,22 +63,18 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "Rearrange My World / There\u2019s a Field (That's Only Yours)",
-        "url": "https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn"
+        "name": "Lachryma",
+        "url": "https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 124577,
-      "name": "There\u2019s a Field (That\u2019s Only Yours)",
-      "url": "https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM"
+      "duration_ms": 276400,
+      "name": "Lachryma",
+      "url": "https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -251,6 +251,22 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
+        "name": "Sweethearts",
+        "url": "https://open.spotify.com/album/0K3N8ymk6GgL4lxLMPGEOB"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 283480,
+      "name": "Sweethearts",
+      "url": "https://open.spotify.com/track/46pBokNsBdfRifhtpWHkhC"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
         "name": "Who Believes In Angels?",
         "url": "https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 242946,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
-        "name": "Sweethearts",
-        "url": "https://open.spotify.com/album/0K3N8ymk6GgL4lxLMPGEOB"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 283480,
-      "name": "Sweethearts",
-      "url": "https://open.spotify.com/track/46pBokNsBdfRifhtpWHkhC"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -755,6 +755,58 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
+        "name": "Maja H\u00f6nstjuv",
+        "url": "https://open.spotify.com/album/12gQc5Gu8LolcsQzFvc7Sd"
+      },
+      "artists": [
+        {
+          "name": "Larz-Kristerz",
+          "url": "https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3"
+        },
+        {
+          "name": "Mariette",
+          "url": "https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns"
+        }
+      ],
+      "duration_ms": 204560,
+      "name": "Maja H\u00f6nstjuv",
+      "url": "https://open.spotify.com/track/7pntr5gKTnl51C3NV1fPBG"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
+        "name": "Dance Cry Laugh Smile",
+        "url": "https://open.spotify.com/album/3pAfBKkU6qQczBcS8X11MD"
+      },
+      "artists": [
+        {
+          "name": "John Lundvik",
+          "url": "https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW"
+        }
+      ],
+      "duration_ms": 162937,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/2jOLY3Sjp1DzsMxxvBS5l9"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
+        "name": "Stockholm",
+        "url": "https://open.spotify.com/album/1NXar6bRMnXksRvgKAM1GH"
+      },
+      "artists": [
+        {
+          "name": "Annika Wickihalder",
+          "url": "https://open.spotify.com/artist/6GmRbmLWorahORMpb3T7of"
+        }
+      ],
+      "duration_ms": 172333,
+      "name": "Stockholm",
+      "url": "https://open.spotify.com/track/4K6UHA21e8KDpp31rKixEV"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
         "name": "Lake Geneva",
         "url": "https://open.spotify.com/album/4LUkFSa4KMpoFyXbX06t0A"
       },
@@ -783,42 +835,6 @@
       "duration_ms": 242013,
       "name": "Swan Song",
       "url": "https://open.spotify.com/track/52wQ5yIHQ8UNBPMCmbD9PJ"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
-        "name": "Maja H\u00f6nstjuv",
-        "url": "https://open.spotify.com/album/12gQc5Gu8LolcsQzFvc7Sd"
-      },
-      "artists": [
-        {
-          "name": "Larz-Kristerz",
-          "url": "https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3"
-        },
-        {
-          "name": "Mariette",
-          "url": "https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns"
-        }
-      ],
-      "duration_ms": 204560,
-      "name": "Maja H\u00f6nstjuv",
-      "url": "https://open.spotify.com/track/7pntr5gKTnl51C3NV1fPBG"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
-        "name": "Stockholm",
-        "url": "https://open.spotify.com/album/1NXar6bRMnXksRvgKAM1GH"
-      },
-      "artists": [
-        {
-          "name": "Annika Wickihalder",
-          "url": "https://open.spotify.com/artist/6GmRbmLWorahORMpb3T7of"
-        }
-      ],
-      "duration_ms": 172333,
-      "name": "Stockholm",
-      "url": "https://open.spotify.com/track/4K6UHA21e8KDpp31rKixEV"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -867,22 +883,6 @@
       "duration_ms": 213774,
       "name": "Men bara om min \u00e4lskade v\u00e4ntar",
       "url": "https://open.spotify.com/track/2qXNwe6y98lazXUD8MhuKO"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
-        "name": "Dance Cry Laugh Smile",
-        "url": "https://open.spotify.com/album/3pAfBKkU6qQczBcS8X11MD"
-      },
-      "artists": [
-        {
-          "name": "John Lundvik",
-          "url": "https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW"
-        }
-      ],
-      "duration_ms": 162937,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/2jOLY3Sjp1DzsMxxvBS5l9"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -1319,30 +1319,6 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "Ansiktenas mystik",
-        "url": "https://open.spotify.com/album/16DxIxbhyfe0RygTvQX5zQ"
-      },
-      "artists": [
-        {
-          "name": "Teodor Wolgers",
-          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
-        },
-        {
-          "name": "Annika Norlin",
-          "url": "https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1"
-        },
-        {
-          "name": "Frostviksk\u00f6ren",
-          "url": "https://open.spotify.com/artist/4xh0IajLeytseF1pWs8TTA"
-        }
-      ],
-      "duration_ms": 200946,
-      "name": "Ansiktenas mystik",
-      "url": "https://open.spotify.com/track/3iQCly1ZItf5IzqENmXwLo"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
         "name": "Have I Told You Lately (feat. \u00c5sa Jinder)",
         "url": "https://open.spotify.com/album/7AhjmPkywXQujJM22JO9GB"
       },
@@ -1367,18 +1343,26 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
-        "name": "Country Tack Vare Er",
-        "url": "https://open.spotify.com/album/2sXz2Jq8DLIO07jujbXavD"
+        "name": "Ansiktenas mystik",
+        "url": "https://open.spotify.com/album/16DxIxbhyfe0RygTvQX5zQ"
       },
       "artists": [
         {
-          "name": "Erika Jonsson",
-          "url": "https://open.spotify.com/artist/3hmxqVdRQUfpPNDpV5VqLx"
+          "name": "Teodor Wolgers",
+          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
+        },
+        {
+          "name": "Annika Norlin",
+          "url": "https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1"
+        },
+        {
+          "name": "Frostviksk\u00f6ren",
+          "url": "https://open.spotify.com/artist/4xh0IajLeytseF1pWs8TTA"
         }
       ],
-      "duration_ms": 207184,
-      "name": "Country Tack Vare Er",
-      "url": "https://open.spotify.com/track/0WjdxPtgxzlHrOCil5b1DL"
+      "duration_ms": 200946,
+      "name": "Ansiktenas mystik",
+      "url": "https://open.spotify.com/track/3iQCly1ZItf5IzqENmXwLo"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -1395,6 +1379,22 @@
       "duration_ms": 181960,
       "name": "Om igen",
       "url": "https://open.spotify.com/track/6tx6iWDAZP2iZjnXxY07Tq"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
+        "name": "Country Tack Vare Er",
+        "url": "https://open.spotify.com/album/2sXz2Jq8DLIO07jujbXavD"
+      },
+      "artists": [
+        {
+          "name": "Erika Jonsson",
+          "url": "https://open.spotify.com/artist/3hmxqVdRQUfpPNDpV5VqLx"
+        }
+      ],
+      "duration_ms": 207184,
+      "name": "Country Tack Vare Er",
+      "url": "https://open.spotify.com/track/0WjdxPtgxzlHrOCil5b1DL"
     },
     {
       "added_at": "2025-06-05 22:00:40",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2025-06-05 22:00:40",
       "album": {
+        "name": "Jag v\u00e4nde aldrig om",
+        "url": "https://open.spotify.com/album/3859Rp7oMrd8bRJv1DYKuT"
+      },
+      "artists": [
+        {
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+        }
+      ],
+      "duration_ms": 216317,
+      "name": "Jag v\u00e4nde aldrig om",
+      "url": "https://open.spotify.com/track/5m3P3SMrHH3GW5O44H88Af"
+    },
+    {
+      "added_at": "2025-06-05 22:00:40",
+      "album": {
         "name": "Fait Accompli",
         "url": "https://open.spotify.com/album/4T8T9Kx1tC96ltSpDzeyYt"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 187137,
       "name": "A Sinner's Life",
       "url": "https://open.spotify.com/track/2FOIGSABwVK7UifUCusFPt"
-    },
-    {
-      "added_at": "2025-06-05 22:00:40",
-      "album": {
-        "name": "Jag v\u00e4nde aldrig om",
-        "url": "https://open.spotify.com/album/3859Rp7oMrd8bRJv1DYKuT"
-      },
-      "artists": [
-        {
-          "name": "Arvid Nero",
-          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
-        }
-      ],
-      "duration_ms": 216317,
-      "name": "Jag v\u00e4nde aldrig om",
-      "url": "https://open.spotify.com/track/5m3P3SMrHH3GW5O44H88Af"
     },
     {
       "added_at": "2025-06-05 22:00:40",

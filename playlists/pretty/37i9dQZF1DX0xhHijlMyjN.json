@@ -1,6 +1,6 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 338571,
+  "num_followers": 338524,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "The Final Countdown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 310333,
-      "name": "The Final Countdown",
-      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Ricky Martin",
         "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 243160,
       "name": "Livin' la Vida Loca",
       "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "The Final Countdown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 310333,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
-      },
-      "artists": [
-        {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
-        }
-      ],
-      "duration_ms": 246373,
-      "name": "Baila Morena - New Spanish Version",
-      "url": "https://open.spotify.com/track/0M2YkvoDWKgEvLaCmdH3Gv"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Global Warming",
         "url": "https://open.spotify.com/album/4aawyAB9vmqN3uQ7FjRGTy"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 196440,
       "name": "Echa Pa'lla (Manos Pa'rriba) (feat. Papayo)",
       "url": "https://open.spotify.com/track/0fjRYHFz9ealui1lfnN8it"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
+      },
+      "artists": [
+        {
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+        }
+      ],
+      "duration_ms": 246373,
+      "name": "Baila Morena - New Spanish Version",
+      "url": "https://open.spotify.com/track/0M2YkvoDWKgEvLaCmdH3Gv"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/4SPD09dxTSb1isoxVSNhAq"
-      },
-      "artists": [
-        {
-          "name": "Kate Ryan",
-          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
-        }
-      ],
-      "duration_ms": 184693,
-      "name": "Ella Elle L A",
-      "url": "https://open.spotify.com/track/2uWK6uBDfyg78xfiH1iiFP"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Atado a Tu Amor",
         "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 253133,
       "name": "Salom\u00e9",
       "url": "https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/4SPD09dxTSb1isoxVSNhAq"
+      },
+      "artists": [
+        {
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
+        }
+      ],
+      "duration_ms": 184693,
+      "name": "Ella Elle L A",
+      "url": "https://open.spotify.com/track/2uWK6uBDfyg78xfiH1iiFP"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "The Biggest Reggae Hits",
-        "url": "https://open.spotify.com/album/1GDBjjWoOsRzvmK4PRo92a"
-      },
-      "artists": [
-        {
-          "name": "Eddy Grant",
-          "url": "https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA"
-        }
-      ],
-      "duration_ms": 243695,
-      "name": "Gimme Hope Jo'anna",
-      "url": "https://open.spotify.com/track/6295Cr4SGdjJgnJ6DLtZFn"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "The Singles 83/87",
         "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 217327,
       "name": "Vamos a la Playa",
       "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "The Biggest Reggae Hits",
+        "url": "https://open.spotify.com/album/1GDBjjWoOsRzvmK4PRo92a"
+      },
+      "artists": [
+        {
+          "name": "Eddy Grant",
+          "url": "https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA"
+        }
+      ],
+      "duration_ms": 243695,
+      "name": "Gimme Hope Jo'anna",
+      "url": "https://open.spotify.com/track/6295Cr4SGdjJgnJ6DLtZFn"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -2255,6 +2255,22 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
+        "name": "Lo Mejor De Los Payos",
+        "url": "https://open.spotify.com/album/5tQa4jvBXDzlaB7ebZb0UG"
+      },
+      "artists": [
+        {
+          "name": "Los Payos",
+          "url": "https://open.spotify.com/artist/1ONcwA5aZxzgOelWDmQ51X"
+        }
+      ],
+      "duration_ms": 199466,
+      "name": "Mar\u00eda Isabel",
+      "url": "https://open.spotify.com/track/6y1b0YZufCb63Mnv3fnlBY"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
         "name": "Latin Fitness Dance 2012 - Workout Cardio Music - The Hits for Your Workout (Pop Kuduro, Cumbia, Latin House, Dembow, Merengue, Salsa, Bachata)",
         "url": "https://open.spotify.com/album/7KjAiKUf6oqUMqPa8VWni1"
       },
@@ -2271,22 +2287,6 @@
       "duration_ms": 249653,
       "name": "Mar\u00eda Caipirinha (with Dj Dero)",
       "url": "https://open.spotify.com/track/2X1P55Lrz0g5X2OQd8n4c9"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
-        "name": "Lo Mejor De Los Payos",
-        "url": "https://open.spotify.com/album/5tQa4jvBXDzlaB7ebZb0UG"
-      },
-      "artists": [
-        {
-          "name": "Los Payos",
-          "url": "https://open.spotify.com/artist/1ONcwA5aZxzgOelWDmQ51X"
-        }
-      ],
-      "duration_ms": 199466,
-      "name": "Mar\u00eda Isabel",
-      "url": "https://open.spotify.com/track/6y1b0YZufCb63Mnv3fnlBY"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Gloria!",
-        "url": "https://open.spotify.com/album/2JpDKOMTykF3Z1dbTCO6CK"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 279626,
-      "name": "Oye",
-      "url": "https://open.spotify.com/track/34js2TOQm9tf6xhefJ97HI"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Ni jaulas ni peceras",
         "url": "https://open.spotify.com/album/4YQKh4b18oo805c9LP89dw"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 191333,
       "name": "No me llames iluso",
       "url": "https://open.spotify.com/track/1xobZzJ5b478hISL3oKskp"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Gloria!",
+        "url": "https://open.spotify.com/album/2JpDKOMTykF3Z1dbTCO6CK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 279626,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/34js2TOQm9tf6xhefJ97HI"
     },
     {
       "added_at": "2024-06-18 12:57:48",

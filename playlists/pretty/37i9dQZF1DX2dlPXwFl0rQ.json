@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Angelina Victoria en portada.",
-  "num_followers": 119762,
+  "num_followers": 119798,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-05-16 06:00:18",
       "album": {
-        "name": "El Cigarrillo",
-        "url": "https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 219411,
-      "name": "El Cigarrillo",
-      "url": "https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI"
-    },
-    {
-      "added_at": "2025-05-16 06:00:18",
-      "album": {
         "name": "Mariachi Y Tequila",
         "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 180320,
       "name": "Cuando Hablo De Ti",
       "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
+    },
+    {
+      "added_at": "2025-05-16 06:00:18",
+      "album": {
+        "name": "El Cigarrillo",
+        "url": "https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 219411,
+      "name": "El Cigarrillo",
+      "url": "https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI"
     },
     {
       "added_at": "2025-05-16 06:00:18",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-05-16 06:00:18",
       "album": {
+        "name": "C\u00f3mo Le Hacen Los Dolidos",
+        "url": "https://open.spotify.com/album/0eLLMT6TGrsPZyyM8VBE9q"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 166280,
+      "name": "C\u00f3mo Le Hacen Los Dolidos",
+      "url": "https://open.spotify.com/track/3hACkfWTkqO9XYfScnGjXp"
+    },
+    {
+      "added_at": "2025-05-16 06:00:18",
+      "album": {
         "name": "Yo Te Extra\u00f1ar\u00e9",
         "url": "https://open.spotify.com/album/39CrI0ILTQ6Ia0zHaBNpda"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 290487,
       "name": "Yo Te Extra\u00f1ar\u00e9",
       "url": "https://open.spotify.com/track/5eaoQpGpFBQrMUjWk3lruo"
-    },
-    {
-      "added_at": "2025-05-16 06:00:18",
-      "album": {
-        "name": "C\u00f3mo Le Hacen Los Dolidos",
-        "url": "https://open.spotify.com/album/0eLLMT6TGrsPZyyM8VBE9q"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        }
-      ],
-      "duration_ms": 166280,
-      "name": "C\u00f3mo Le Hacen Los Dolidos",
-      "url": "https://open.spotify.com/track/3hACkfWTkqO9XYfScnGjXp"
     },
     {
       "added_at": "2025-05-16 06:00:18",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-05-16 06:00:18",
       "album": {
-        "name": "Inolvidable",
-        "url": "https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB"
-      },
-      "artists": [
-        {
-          "name": "DiDi R",
-          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
-        }
-      ],
-      "duration_ms": 153665,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx"
-    },
-    {
-      "added_at": "2025-05-16 06:00:18",
-      "album": {
         "name": "Cowboy Rockstar",
         "url": "https://open.spotify.com/album/6psrrgPReXbW0UTui5H8W0"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 165641,
       "name": "Cowboy Rockstar",
       "url": "https://open.spotify.com/track/7d5uMAljrHXbnubvVY7msG"
+    },
+    {
+      "added_at": "2025-05-16 06:00:18",
+      "album": {
+        "name": "Inolvidable",
+        "url": "https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB"
+      },
+      "artists": [
+        {
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        }
+      ],
+      "duration_ms": 153665,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx"
     },
     {
       "added_at": "2025-05-16 06:00:18",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-05-16 06:00:18",
       "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/2qrc0YH2PfVbdSQpwEWxl9"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/56kcxvEbwLaKpR6btCuE8q"
-    },
-    {
-      "added_at": "2025-05-16 06:00:18",
-      "album": {
         "name": "De Lo Que Me Salv\u00e9",
         "url": "https://open.spotify.com/album/4pqSQejVHrDuLaTdu3mmj0"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 211280,
       "name": "De Lo Que Me Salv\u00e9",
       "url": "https://open.spotify.com/track/3njGgBsNB4RnxqYKc1YDh2"
+    },
+    {
+      "added_at": "2025-05-16 06:00:18",
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/2qrc0YH2PfVbdSQpwEWxl9"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/56kcxvEbwLaKpR6btCuE8q"
     },
     {
       "added_at": "2025-05-16 06:00:18",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-05-16 06:00:18",
       "album": {
-        "name": "Yo No Creo En Los Hombres",
-        "url": "https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9"
-      },
-      "artists": [
-        {
-          "name": "Sherlyn S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
-        }
-      ],
-      "duration_ms": 215893,
-      "name": "Yo No Creo En Los Hombres",
-      "url": "https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J"
-    },
-    {
-      "added_at": "2025-05-16 06:00:18",
-      "album": {
         "name": "Me Llamaron Asesina",
         "url": "https://open.spotify.com/album/728sapsjppB98wPX2yckAC"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 185653,
       "name": "Me Llamaron Asesina",
       "url": "https://open.spotify.com/track/2LeFdSzcaRdk7Wqbs1tZGi"
+    },
+    {
+      "added_at": "2025-05-16 06:00:18",
+      "album": {
+        "name": "Yo No Creo En Los Hombres",
+        "url": "https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9"
+      },
+      "artists": [
+        {
+          "name": "Sherlyn S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
+        }
+      ],
+      "duration_ms": 215893,
+      "name": "Yo No Creo En Los Hombres",
+      "url": "https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J"
     },
     {
       "added_at": "2025-05-16 06:00:18",

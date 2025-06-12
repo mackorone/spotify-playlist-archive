@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek van Sabrina Carpenter, FLEMMING, Addison Rae,  Little Simz en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,639 likes - 96 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,625 likes - 96 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 7 | [Schaduw](https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Schaduw](https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR) | 3:36 |
 | 8 | [Toy Heart](https://open.spotify.com/track/0y9CKIUQGBPdeTU3Mjo389) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [Toy Heart](https://open.spotify.com/album/0af3f7ejJ7Y3nsLhVnvc9I) | 3:17 |
 | 9 | [Morning Dawns Again](https://open.spotify.com/track/7mWqW5NWE6ijQ2MSXKEwVZ) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Morning Dawns Again](https://open.spotify.com/album/4yQlOGtEMAj1aetMqrowWx) | 3:58 |
-| 10 | [PRINCESSA \(feat\. Jul\)](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [PRINCESSA \(feat\. Jul\)](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 |
+| 10 | [PRINCESSA](https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [PRINCESSA](https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp) | 2:50 |
 | 11 | [Mama Maria](https://open.spotify.com/track/114hEVloiFTiAffAsbSwox) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [Mama Maria](https://open.spotify.com/album/363XxSoRU849dr3HGjbkR1) | 2:38 |
 | 12 | [OMG! \(From F1® The Movie\)](https://open.spotify.com/track/2TuVErkUG3BdQR0dsbtakg) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [OMG! \(From F1® The Movie\)](https://open.spotify.com/album/1Tvjx0HSnZx85wmtnDXVsP) | 2:32 |
 | 13 | [Oh My Lord](https://open.spotify.com/track/0KdIvpscCOvSG7FmmR4Clg) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Oh My Lord](https://open.spotify.com/album/5n1f5e0bY7vt51HW63NOAg) | 2:22 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 95 | [Runaway](https://open.spotify.com/track/0QetioZPlXs7zuKDsnwmpg) | [Daniel Nolet](https://open.spotify.com/artist/33SYIABzuD0eDKr1jaQGfR) | [Runaway](https://open.spotify.com/album/4nx1NSZ0fI7HtaQKDdadcD) | 3:15 |
 | 96 | [Zonder Zonnebril](https://open.spotify.com/track/0rkK1hlMvsgRkiDD3r8dmA) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Zonder Zonnebril](https://open.spotify.com/album/6flL9XU2ePQTyQVoRYAoQQ) | 2:40 |
 
-Snapshot ID: `aELelgAAAACUI2hNeWQWFebQACXFKHl8`
+Snapshot ID: `AAAAAOnk2Ih8FUXppGcP5qDDwGy4Uv+L`

@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Damiano David
 
-1,333 songs - 3 day 8 hr 13 min
+1,335 songs - 3 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Amsterdam \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4muAGMNipTEtIoYfMa9QL0) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/774yLThHwXXqrrH2bgF912) | 3:13 | 2022-01-19 |  |
 | [Androgynous \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1moVuTTH3Kh1FLMAJoriAz) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Spotify Singles](https://open.spotify.com/album/4deTc6TA47HuQPM9xnZCsL) | 2:55 | 2022-01-19 |  |
 | [Angel \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/04LUiStvr9tzObQuyFEEaD) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Spotify Singles](https://open.spotify.com/album/6ouu5a6YOUWJ6FfsxnjxB2) | 4:57 | 2022-01-19 |  |
+| [Anxiety \- Spotify Singles](https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Spotify Singles](https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp) | 3:50 | 2025-06-11 |  |
 | [Any Ol' Barstool \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1ANqk7eCLJ5FqjHiL1ln9e) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Spotify Singles](https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm) | 3:20 | 2022-07-05 | 2023-11-18 |
 | [Any Ol' Barstool \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5fghXy9xCMweLOu6kQgAul) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Spotify Singles](https://open.spotify.com/album/4wEdL5MJYDGgytZqNN6p4e) | 3:20 | 2022-01-19 |  |
 | [Any Ol’ Barstool \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/3iZ7yYvQ1oxWgYvMMM23WH) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Spotify Singles](https://open.spotify.com/album/6IinmJcfap7cw0m1QVX4Nn) | 3:20 | 2023-10-02 | 2024-04-19 |
@@ -922,6 +923,7 @@
 | [Perfume \- Spotify Singles](https://open.spotify.com/track/2AXtrCg3aZaAKrL6ln5JmY) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Spotify Singles](https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio) | 4:35 | 2022-03-24 |  |
 | [Personal Jesus \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Spotify Singles](https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6) | 3:56 | 2022-01-19 |  |
 | [Pink Moon \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0EpLNXulQF0CcUZtV1jm8l) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Spotify Singles](https://open.spotify.com/album/2awjquCIUPcDdcWaBWcEnY) | 2:27 | 2022-01-19 |  |
+| [Piranha \- Spotify Singles](https://open.spotify.com/track/749eY2PXdJ96QdBAvqximN) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Spotify Singles](https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp) | 3:21 | 2025-06-11 |  |
 | [Pirâmide Social \- Spotify Singles](https://open.spotify.com/track/6yoEBvEehjyf8JHHrlqgOj) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Pirâmide Social \- Spotify Singles](https://open.spotify.com/album/15A0WaLUbAvVsZNpwUKvCF) | 3:18 | 2022-02-09 |  |
 | [Pistol \- Spotify Singles](https://open.spotify.com/track/4CzSEr6SjL2cRnWEPmG0QK) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Pistol \- Spotify Singles](https://open.spotify.com/album/4VuiBokNrif0KZFLNCNNAj) | 3:38 | 2025-02-13 |  |
 | [Plus tôt \(String Quartet Version\) \- Spotify Singles](https://open.spotify.com/track/6ZysJ6PE8La1gj5LXh6DJw) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Spotify Singles](https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI) | 3:53 | 2022-03-24 |  |

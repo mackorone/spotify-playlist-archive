@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Sudan Archives
 
-3,017 songs - 7 day 0 hr 46 min
+3,018 songs - 7 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -978,6 +978,7 @@
 | [Ford Cardinal](https://open.spotify.com/track/7Esrr3lXpwFDCc7SjKohB6) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [Ford Cardinal](https://open.spotify.com/album/4ejlypiTpImW5UjJTgW4Lk) | 3:42 | 2019-09-06 | 2020-01-10 |
 | [Foreigner](https://open.spotify.com/track/16WI1ZPGF23IV7GJQiBdLm) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Foreigner](https://open.spotify.com/album/6UGEKnNWgoKvDwIfqLfEYg) | 4:32 | 2023-12-01 | 2024-01-13 |
 | [Forever](https://open.spotify.com/track/2yxobiDeGo30ftKwde2d5F) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Forever](https://open.spotify.com/album/0sZTJtEOsqFoWexi2tUvtc) | 3:16 | 2023-08-25 | 2023-12-02 |
+| [Forever](https://open.spotify.com/track/5l5RdEPD51LhlbdkAiHIqs) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Forever](https://open.spotify.com/album/6MqhyvjF1TvTGQBl7sxIJo) | 3:17 | 2025-06-11 |  |
 | [Forever](https://open.spotify.com/track/0z7mJ4dACjuoBqH7RC3mbm) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Forever](https://open.spotify.com/album/4rubgFY3CcvXg0dqQd18LH) | 4:28 | 2022-06-24 | 2022-09-24 |
 | [Forever](https://open.spotify.com/track/3yZEoq8Rz599OSgIOwrU5z) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Forever](https://open.spotify.com/album/2CKEEhqgIAKmvG6pIdsKq7) | 5:36 | 2022-12-02 | 2023-02-18 |
 | [Forever Yung](https://open.spotify.com/track/2tUvuACq5JYZfvJ8KwAoAE) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Forever Yung](https://open.spotify.com/album/2UCX45uBhiJyucuXNNNxWr) | 3:20 | 2025-02-21 | 2025-04-19 |

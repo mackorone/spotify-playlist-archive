@@ -4,10 +4,11 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3bgocJUTFhXlCEOEZEBTBr">Cam</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-31 songs - 1 hr 45 min
+32 songs - 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Alchemy](https://open.spotify.com/track/2xoH0GxWAq8AxivBQdg4SY) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Alchemy](https://open.spotify.com/album/7C0o4kiZosGwLdgsdHKmtU) | 2:40 | 2025-06-11 |  |
 | [AMEN](https://open.spotify.com/track/5S8w0v3kqKckV8tyAZSkKO) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/2m1enA3YrMLVvR3q0MqLpL) | 2:25 | 2025-02-11 |  |
 | [AMERIICAN REQUIEM](https://open.spotify.com/track/6ocGUvvzNkvf4hAV9VFb4P) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/2m1enA3YrMLVvR3q0MqLpL) | 5:25 | 2025-02-11 |  |
 | [Believe](https://open.spotify.com/track/3GRrReIVJ4C71ajUvk7O1e) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Believe](https://open.spotify.com/album/0Wr6JfWQD7bzK7ipLyeiOD) | 3:19 | 2025-02-11 |  |

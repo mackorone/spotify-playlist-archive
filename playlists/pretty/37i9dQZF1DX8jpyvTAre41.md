@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Mother Mother
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,678 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,670 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 |
 | 100 | [Erase Me](https://open.spotify.com/track/0PcJ2m0cg6F00BB7mNnZva) | [Stuck On Planet Earth](https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS) | [Erase Me](https://open.spotify.com/album/6UlqctfJ9XGSKCV97wlPtz) | 3:00 |
 
-Snapshot ID: `aEJn3wAAAABi+i8DEAjJvpU2b8wKHElQ`
+Snapshot ID: `aEJn3wAAAADzM1vfZ4/q4IsCT+xAFqmK`

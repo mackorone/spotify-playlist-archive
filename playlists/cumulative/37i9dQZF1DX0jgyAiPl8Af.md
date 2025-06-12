@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-873 songs - 1 day 13 hr 40 min
+876 songs - 1 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Night In Toledo](https://open.spotify.com/track/7cYXSwHo30ebsnyGRMgwkh) | [Donatella Monza](https://open.spotify.com/artist/3jP7DTsE4kq5Gi0KRmO045) | [A Night In Toledo](https://open.spotify.com/album/2OMB3OKVRO05NQxwhqsfva) | 1:54 | 2022-10-07 | 2023-03-25 |
 | [A prima vista](https://open.spotify.com/track/26Hqojdj2i0hwaZNlpb2t5) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [A prima vista](https://open.spotify.com/album/44ua5J4fZK8cZ43etFdbSY) | 1:58 | 2022-10-28 | 2023-08-19 |
 | [A primeira vez](https://open.spotify.com/track/5dPjY3uVSuqscIdj71O3GR) | [Mélissa Blakesley](https://open.spotify.com/artist/6t8jy1xk9kQQOX5UIqy4sC) | [A primeira vez](https://open.spotify.com/album/3VSlAYGBf4pvTUAAhYXb6v) | 1:56 | 2023-01-06 | 2023-08-19 |
+| [A Quiet Measure](https://open.spotify.com/track/5q67OyAvjtKpCcjt2WrWH4) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [A Quiet Measure](https://open.spotify.com/album/064FOaz6IDEc24eUjnhcfj) | 2:49 | 2025-06-11 |  |
 | [A Sarabande](https://open.spotify.com/track/2BV3vnBo51Er5uO5xDxPk0) | [Douglas Ferdi](https://open.spotify.com/artist/6N5M807WEPYUZNYo40qhPw) | [A Sarabande](https://open.spotify.com/album/1ZktLifDStzFBtykjoFzHb) | 1:50 | 2023-04-21 | 2023-08-19 |
 | [A Shadow of Something Beautiful \(Classical Version\)](https://open.spotify.com/track/3JMYAwDpZsms3s9vVPnC7O) | [Knut Bjørnar Asphol](https://open.spotify.com/artist/3O0OUcf7693cHwTBJWKl5K), [KNUT](https://open.spotify.com/artist/6h3SYhsBfgz8N71ozZtHbD) | [A Shadow of Something Beautiful \(Classical Version\)](https://open.spotify.com/album/7bi2mS7BjIfI8F3SgqBJcS) | 2:54 | 2022-04-22 | 2023-06-23 |
 | [A Short Walk To Open Fields](https://open.spotify.com/track/0AcpMokszr0bPJQ5eoTPvg) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [A Short Walk To Open Fields](https://open.spotify.com/album/4DB1OJk9eG0vSkybSmHSQ0) | 3:12 | 2024-02-02 | 2024-06-01 |
@@ -129,7 +130,7 @@
 | [Carroll Gardens](https://open.spotify.com/track/3dgAbsq1H5NqLJscYPxurR) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Carroll Gardens](https://open.spotify.com/album/6UTtrPhsCgjxjG24Zfn6jq) | 2:44 | 2023-08-10 |  |
 | [Carry Me](https://open.spotify.com/track/2kSUbTGxyd3wDngU35HzSP) | [Luca Tudela](https://open.spotify.com/artist/2gy6cul8rT4vjPjhSlbuo3) | [Carry Me](https://open.spotify.com/album/6i2lhyW1odbDEe3er0rur5) | 2:08 | 2022-10-28 | 2024-04-20 |
 | [Cast Away](https://open.spotify.com/track/6ELU3LmFt2QjMzLnTUyC5M) | [Andrei Smirnova](https://open.spotify.com/artist/6wLqG3xZFWS0M5pFimbbyr) | [Cast Away](https://open.spotify.com/album/5W2jvQiILAJNhun9k3jKg9) | 1:50 | 2022-10-28 | 2023-08-19 |
-| [Casting Shadows](https://open.spotify.com/track/2BOy2Kv6cEOv7SOl9XYDWW) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Casting Shadows](https://open.spotify.com/album/1taI73hX4GC0HzNJAWd9sg) | 3:12 | 2024-09-25 |  |
+| [Casting Shadows](https://open.spotify.com/track/2BOy2Kv6cEOv7SOl9XYDWW) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Casting Shadows](https://open.spotify.com/album/1taI73hX4GC0HzNJAWd9sg) | 3:12 | 2024-09-25 | 2025-06-12 |
 | [Castlewood](https://open.spotify.com/track/7y0jzOmOGjJa1x8UUCyEIu) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [Castlewood](https://open.spotify.com/album/5zzTVTdeVT4u5mE9hhPNNf) | 2:10 | 2024-10-01 |  |
 | [Ce C'est Pas Assez Pour Moi](https://open.spotify.com/track/2bT6nZYVsS2kEiBtgqI5fg) | [Gabriel Sellier](https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ) | [Ce C'est Pas Assez Pour Moi](https://open.spotify.com/album/1OpDZbJmR90Ackx5g5btGp) | 3:51 | 2022-04-05 | 2022-11-26 |
 | [Celta](https://open.spotify.com/track/6uJGXTjYGFsQLItDTJVdLb) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Celta](https://open.spotify.com/album/6UXPdmRQ3KQlnUTX8Dmis8) | 2:48 | 2022-05-27 | 2022-09-09 |
@@ -176,6 +177,7 @@
 | [das einsame Waldhaus](https://open.spotify.com/track/4vZ4qi9FYdMdqKB8g0dzxo) | [Erling Kruger](https://open.spotify.com/artist/4yyGsrMPRSGVkD8eNDfIGB) | [das einsame Waldhaus](https://open.spotify.com/album/6qkwLbJ5GqcOaLRYysZ511) | 3:03 | 2021-12-08 | 2022-11-26 |
 | [Davinci](https://open.spotify.com/track/74xrzR2MKdzp7AT06enGvk) | [Novia Stella](https://open.spotify.com/artist/5FsD7fr9sKWu0x5XdJHrDA) | [Davinci](https://open.spotify.com/album/1vkIgRJj1wNbkmEyOl9aUa) | 2:07 | 2021-12-08 | 2024-04-05 |
 | [Davos](https://open.spotify.com/track/1HysgmozgWjfu83BAbEdtc) | [Salcao](https://open.spotify.com/artist/4eVKlYwBe7gA40wiemmlNb) | [City Lights](https://open.spotify.com/album/3pB85c4xe6G94NlxPsAALn) | 2:26 | 2021-12-08 | 2022-08-06 |
+| [Day Break](https://open.spotify.com/track/6TgJqQlvZ9jLrVGsPdbGXD) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Day Break](https://open.spotify.com/album/3CwJPDKz6DsLpG5Ll14u8W) | 2:32 | 2025-06-11 |  |
 | [Daydreaming](https://open.spotify.com/track/5bW0EnMVhOu1AXw7o2MCw0) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Daydreaming](https://open.spotify.com/album/07g5N8EwAM9vyme63uFUue) | 1:54 | 2022-08-12 | 2023-06-09 |
 | [Daylight](https://open.spotify.com/track/27JyPhZMT8qnYNlOyMZLgP) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Daylight](https://open.spotify.com/album/6m9A74ji0dI8rvQVSYyyf7) | 2:29 | 2022-12-09 | 2024-05-25 |
 | [De temps en temps](https://open.spotify.com/track/78wLZdPFQtcAccKza4LTlY) | [Thaisa Deboys](https://open.spotify.com/artist/1mIbAzEXDPLycJNcDcck5B) | [De temps en temps](https://open.spotify.com/album/7b44a6bx4AdAXbgW9rIiHy) | 2:17 | 2022-05-10 | 2023-05-26 |
@@ -260,6 +262,7 @@
 | [Fernweh](https://open.spotify.com/track/5EvFIyS4iMpdXCKFlKRsm4) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Fernweh](https://open.spotify.com/album/17EvasbAWye4fNnIGIkOCI) | 2:31 | 2022-06-17 |  |
 | [Fernweh](https://open.spotify.com/track/4jyZ8BAopVzHdBEfZvPsc1) | [Tyler Terrance](https://open.spotify.com/artist/0zlPwa6fDx2ICOMDWUzTA7) | [Fernweh](https://open.spotify.com/album/5j46p6AXYRKgYkgPvmStQR) | 3:32 | 2021-12-08 | 2023-02-11 |
 | [Ferry](https://open.spotify.com/track/7lJRSS6MFE1xNIRpQ6rVDM) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [Ferry](https://open.spotify.com/album/7uMck64d5mPtB3eOOgGf2J) | 2:39 | 2024-11-26 |  |
+| [Field](https://open.spotify.com/track/4LrY7WhlwMyEl6dY03ckGP) | [David Sereno](https://open.spotify.com/artist/25j4WPpCFt8QQUnb7TmREb) | [Field](https://open.spotify.com/album/4diUNRlr7IBAx9TiL9EKjl) | 2:17 | 2025-06-11 |  |
 | [Fields](https://open.spotify.com/track/5QY21npYCzGrIMkhBlRAbX) | [Mike Hense](https://open.spotify.com/artist/3NU4JVUYY3da2SyQjksPDh) | [Fields](https://open.spotify.com/album/41VAtxYHmGoChMv7ENrVeD) | 2:16 | 2024-07-18 |  |
 | [Fields of rice](https://open.spotify.com/track/1R8TCihTnLIbSjyUiGg2ZV) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Fields of rice](https://open.spotify.com/album/7ARJ8OGba5lnGWqDxUuC4w) | 1:47 | 2023-06-08 | 2023-08-19 |
 | [figurati](https://open.spotify.com/track/1YcdyFscXp5SH6yT0pbjO4) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [figurati](https://open.spotify.com/album/5CN8B0jAv9Ui2fN1apBrYJ) | 1:51 | 2022-05-27 | 2022-10-29 |

@@ -4,7 +4,7 @@
 
 > sweet and fresh emerging indie pop, featuring beaux 🍑
 
-271 songs - 14 hr 45 min
+272 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Forgive to Forget](https://open.spotify.com/track/1Z9kJcKVm7OLSpesWRwgTW) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [Forgive to Forget](https://open.spotify.com/album/1NHPGsNKeOL0MDHqIkomRt) | 4:15 | 2024-06-14 | 2024-09-21 |
 | [Found The 1](https://open.spotify.com/track/1VaaMp66mFlNF3vaMiZIZC) | [Richard Fairlie](https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb) | [HOKAGE \- THE MIXTAPE](https://open.spotify.com/album/6ZpbWiHfm0u6lmCzgE82GR) | 2:27 | 2024-06-14 | 2025-04-13 |
 | [Free Falling!](https://open.spotify.com/track/1JOSku8MbvyaxS9VwPG67B) | [Toni Sancho](https://open.spotify.com/artist/4SpaShKE14x1P5jTruqwIK) | [Free Falling!](https://open.spotify.com/album/5NgWpudcvDYzwsjdcxKyRl) | 3:47 | 2024-06-14 | 2024-08-22 |
+| [Friendly Fire](https://open.spotify.com/track/0EAGJu4mpoE4XsQFyyTmLN) | [Edie Bens](https://open.spotify.com/artist/0BdtAVeSQlKZkWcgcz7aLS) | [Friendly Fire](https://open.spotify.com/album/6lCg2ME7gkiB8IFZaCRuUL) | 2:51 | 2025-06-05 |  |
 | [friends](https://open.spotify.com/track/4SuzvlzpLFCZxsoI3W2NCr) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [friends](https://open.spotify.com/album/4AYWIcHcXqQ5fq4l08Bp1C) | 2:40 | 2025-01-24 | 2025-05-16 |
 | [From the Night](https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [From the Night](https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE) | 4:11 | 2024-06-14 | 2024-07-13 |
 | [front seat honey](https://open.spotify.com/track/1wFF00vMYhC5w53xm5NSC3) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [front seat honey](https://open.spotify.com/album/0OWpfv3K0BE5I7Ws9S2vA7) | 3:07 | 2025-02-14 | 2025-04-13 |
@@ -145,7 +146,7 @@
 | [in for the kill](https://open.spotify.com/track/3aTPG3soNZ7UImihfDABXx) | [Kayla Grace](https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T) | [in for the kill](https://open.spotify.com/album/2nVnNDYvKM2VbiorqJRw18) | 3:18 | 2025-01-24 | 2025-05-16 |
 | [In My Bed](https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [In My Bed](https://open.spotify.com/album/6TPAYp0gSJhRlAV7NXfxJT) | 2:42 | 2024-09-20 | 2025-04-13 |
 | [it's all good, kid](https://open.spotify.com/track/7aXRVnt0C9oRVbsUbyqpGA) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [it's all good, kid](https://open.spotify.com/album/1NUt7ECqlg5Zjmi5Unkmaq) | 2:54 | 2024-06-14 | 2025-04-13 |
-| [I’m sad and I’m angry and I’m scared that you hate me](https://open.spotify.com/track/2Il5seHCUssppn09Kg3xg3) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [Productive Pain](https://open.spotify.com/album/525ZS2Bwq3EgvyEtio5iHh) | 2:51 | 2025-04-12 |  |
+| [I’m sad and I’m angry and I’m scared that you hate me](https://open.spotify.com/track/2Il5seHCUssppn09Kg3xg3) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [Productive Pain](https://open.spotify.com/album/525ZS2Bwq3EgvyEtio5iHh) | 2:51 | 2025-04-12 | 2025-06-12 |
 | [June Baby](https://open.spotify.com/track/1Bi3VozG3TkmqO7D157n6A) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [June Baby](https://open.spotify.com/album/2zHSZ93YId2FctiSrTgY4j) | 3:02 | 2024-06-14 | 2025-05-02 |
 | [Just Because](https://open.spotify.com/track/1DwmNjO23qRsGsgmxfADfC) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Just Because](https://open.spotify.com/album/50Iqs6mIhEZTfRdfjzwgwx) | 2:49 | 2025-01-24 | 2025-05-02 |
 | [Keep It Up](https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Keep It Up](https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL) | 2:36 | 2024-06-14 | 2024-11-04 |

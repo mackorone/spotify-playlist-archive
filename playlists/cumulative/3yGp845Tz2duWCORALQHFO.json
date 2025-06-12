@@ -16397,6 +16397,24 @@
     },
     {
       "album": {
+        "name": "Maximum Overdrive",
+        "url": "https://open.spotify.com/album/1m0VV3OkRR6dzhsrJMpWvr"
+      },
+      "artists": [
+        {
+          "name": "Demien Sixx",
+          "url": "https://open.spotify.com/artist/5D1fk08eJboaAHmo7WrZXT"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223124,
+      "name": "Enter Half Dead",
+      "url": "https://open.spotify.com/track/0eLDIH7IRRJgr4K8Lx9ORG"
+    },
+    {
+      "album": {
         "name": "Enter The Portal",
         "url": "https://open.spotify.com/album/6r1uw773hRjdriOYL7fwPi"
       },

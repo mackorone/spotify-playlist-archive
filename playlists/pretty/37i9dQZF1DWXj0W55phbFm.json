@@ -1,6 +1,6 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 70888,
+  "num_followers": 70934,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,26 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
+        "name": "The Complete Louis Armstrong - Duke Ellington Sessions",
+        "url": "https://open.spotify.com/album/0tDaldQZb0L4jsIbEJnNhF"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 240040,
+      "name": "Mood Indigo",
+      "url": "https://open.spotify.com/track/1EzGtQRzHlP3xNvzNalgvZ"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
         "name": "Public Eye",
         "url": "https://open.spotify.com/album/1eihzffGTVuLqxngyKA4a5"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 450666,
       "name": "September in the Rain",
       "url": "https://open.spotify.com/track/2qnw6oYuN4NAkJtG6g8UdU"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
-        "name": "The Complete Louis Armstrong - Duke Ellington Sessions",
-        "url": "https://open.spotify.com/album/0tDaldQZb0L4jsIbEJnNhF"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 240040,
-      "name": "Mood Indigo",
-      "url": "https://open.spotify.com/track/1EzGtQRzHlP3xNvzNalgvZ"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Goin' Up",
-        "url": "https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 419600,
-      "name": "Blues For Brenda - 1997 Remastered",
-      "url": "https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Fats Navarro Memorial Album",
         "url": "https://open.spotify.com/album/3clL5Ml3ZB7v4T4AYwRprQ"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Daylight Express",
-        "url": "https://open.spotify.com/album/2tmWCWVCAbeS7KwbqTiMsN"
+        "name": "Goin' Up",
+        "url": "https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP"
       },
       "artists": [
         {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
         }
       ],
-      "duration_ms": 145040,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/3N4OSnqWmWyJzfDWMNMS3n"
+      "duration_ms": 419600,
+      "name": "Blues For Brenda - 1997 Remastered",
+      "url": "https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -823,6 +807,22 @@
       "duration_ms": 385733,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/7sCl2yfvZHChasvpuZ4muh"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Daylight Express",
+        "url": "https://open.spotify.com/album/2tmWCWVCAbeS7KwbqTiMsN"
+      },
+      "artists": [
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "duration_ms": 145040,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/3N4OSnqWmWyJzfDWMNMS3n"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1111,30 +1111,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Cat's in the Alley",
-        "url": "https://open.spotify.com/album/2s5MexPafZuOxmXJSJhsI0"
-      },
-      "artists": [
-        {
-          "name": "Cat Anderson & His Orchestra",
-          "url": "https://open.spotify.com/artist/4XurbHWJ8ybBqnz9dcYT2Z"
-        },
-        {
-          "name": "Jimmy Jones",
-          "url": "https://open.spotify.com/artist/0VKW7nrPpyh3PDmMUiZv9P"
-        },
-        {
-          "name": "Jimmy Cleveland",
-          "url": "https://open.spotify.com/artist/6O7VJ0WMXn3zPa5X59iimd"
-        }
-      ],
-      "duration_ms": 192626,
-      "name": "You're the Cream in My Coffee",
-      "url": "https://open.spotify.com/track/7qknVmDKIi9ml9qhyatq8g"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Clifford Brown And Max Roach At Basin Street (Expanded Edition)",
         "url": "https://open.spotify.com/album/6PuVuJwyxyBZXMz73teSoV"
       },
@@ -1175,6 +1151,30 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
+        "name": "Cat's in the Alley",
+        "url": "https://open.spotify.com/album/2s5MexPafZuOxmXJSJhsI0"
+      },
+      "artists": [
+        {
+          "name": "Cat Anderson & His Orchestra",
+          "url": "https://open.spotify.com/artist/4XurbHWJ8ybBqnz9dcYT2Z"
+        },
+        {
+          "name": "Jimmy Jones",
+          "url": "https://open.spotify.com/artist/0VKW7nrPpyh3PDmMUiZv9P"
+        },
+        {
+          "name": "Jimmy Cleveland",
+          "url": "https://open.spotify.com/artist/6O7VJ0WMXn3zPa5X59iimd"
+        }
+      ],
+      "duration_ms": 192626,
+      "name": "You're the Cream in My Coffee",
+      "url": "https://open.spotify.com/track/7qknVmDKIi9ml9qhyatq8g"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
         "name": "Volume 2 (Vol. 2)",
         "url": "https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv"
       },
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV"
-      },
-      "artists": [
-        {
-          "name": "Jon Faddis",
-          "url": "https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX"
-        }
-      ],
-      "duration_ms": 285800,
-      "name": "Instigator",
-      "url": "https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Into the Blue",
         "url": "https://open.spotify.com/album/3sKFT6DFw4kMA5DxvhmRjL"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 448386,
       "name": "Let It Ride",
       "url": "https://open.spotify.com/track/1iBzsbnJTL3RoWrv3zAXkE"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV"
+      },
+      "artists": [
+        {
+          "name": "Jon Faddis",
+          "url": "https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX"
+        }
+      ],
+      "duration_ms": 285800,
+      "name": "Instigator",
+      "url": "https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Howard McGhee: Volume 2 / Tal Farlow Quartet",
-        "url": "https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg"
-      },
-      "artists": [
-        {
-          "name": "Howard McGhee",
-          "url": "https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93"
-        }
-      ],
-      "duration_ms": 250173,
-      "name": "Tranquillity - Remastered 1998",
-      "url": "https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Thumpin' & Bumpin' - New York, Vol. 2",
         "url": "https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Wonder Why",
-        "url": "https://open.spotify.com/album/3A7xzxjHJeC3q51MpRpBvp"
+        "name": "Howard McGhee: Volume 2 / Tal Farlow Quartet",
+        "url": "https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg"
       },
       "artists": [
         {
-          "name": "Harry \"Sweets\" Edison",
-          "url": "https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN"
+          "name": "Howard McGhee",
+          "url": "https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93"
         }
       ],
-      "duration_ms": 412746,
-      "name": "You're Getting to Be a Habit with Me",
-      "url": "https://open.spotify.com/track/1whYRIGLVb0zN3QBEXKGQ7"
+      "duration_ms": 250173,
+      "name": "Tranquillity - Remastered 1998",
+      "url": "https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1379,6 +1363,22 @@
       "duration_ms": 479266,
       "name": "Jacob's Ladder",
       "url": "https://open.spotify.com/track/4sdEI4KEYvzon0FkfWvuYA"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Wonder Why",
+        "url": "https://open.spotify.com/album/3A7xzxjHJeC3q51MpRpBvp"
+      },
+      "artists": [
+        {
+          "name": "Harry \"Sweets\" Edison",
+          "url": "https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN"
+        }
+      ],
+      "duration_ms": 412746,
+      "name": "You're Getting to Be a Habit with Me",
+      "url": "https://open.spotify.com/track/1whYRIGLVb0zN3QBEXKGQ7"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1427,6 +1427,30 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
+        "name": "Hard Talk (Live)",
+        "url": "https://open.spotify.com/album/4ChlCGT8tJgkGPX1FNpoMb"
+      },
+      "artists": [
+        {
+          "name": "Mal Waldron",
+          "url": "https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3"
+        },
+        {
+          "name": "Manfred Schoof",
+          "url": "https://open.spotify.com/artist/4gBdaOEelc50MG1QmlACtu"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/1BEsuwAkTQMG50TeHB5qny"
+        }
+      ],
+      "duration_ms": 363360,
+      "name": "Russian Melody",
+      "url": "https://open.spotify.com/track/0tBaZxoxjql6D3LF0sOJ0r"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
         "name": "A Rift In Decorum: Live At The Village Vanguard",
         "url": "https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb"
       },
@@ -1463,30 +1487,6 @@
       "duration_ms": 320579,
       "name": "Stockholm Sweetnin'",
       "url": "https://open.spotify.com/track/2HTLAtih08iTty4hT6r8bj"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
-        "name": "Hard Talk (Live)",
-        "url": "https://open.spotify.com/album/4ChlCGT8tJgkGPX1FNpoMb"
-      },
-      "artists": [
-        {
-          "name": "Mal Waldron",
-          "url": "https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3"
-        },
-        {
-          "name": "Manfred Schoof",
-          "url": "https://open.spotify.com/artist/4gBdaOEelc50MG1QmlACtu"
-        },
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/1BEsuwAkTQMG50TeHB5qny"
-        }
-      ],
-      "duration_ms": 363360,
-      "name": "Russian Melody",
-      "url": "https://open.spotify.com/track/0tBaZxoxjql6D3LF0sOJ0r"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Selected Recordings",
-        "url": "https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg"
-      },
-      "artists": [
-        {
-          "name": "Tomasz Stanko Quartet",
-          "url": "https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP"
-        }
-      ],
-      "duration_ms": 552600,
-      "name": "Tales For A Girl, 12",
-      "url": "https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "From The Top (Digitally Remastered)",
         "url": "https://open.spotify.com/album/2ADJjB8xSx555Dr1lfA3mJ"
       },
@@ -1639,18 +1623,18 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Alone Together",
-        "url": "https://open.spotify.com/album/7tO6vuWCWq09T1znsipZsd"
+        "name": "Selected Recordings",
+        "url": "https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg"
       },
       "artists": [
         {
-          "name": "Tim Hagans",
-          "url": "https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr"
+          "name": "Tomasz Stanko Quartet",
+          "url": "https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP"
         }
       ],
-      "duration_ms": 418642,
-      "name": "Sweet Peach Tree",
-      "url": "https://open.spotify.com/track/3GuNFZcceWh90K9Fvj1SUT"
+      "duration_ms": 552600,
+      "name": "Tales For A Girl, 12",
+      "url": "https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1695,18 +1679,18 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Noir en rouge (Live in Paris)",
-        "url": "https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX"
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/7tO6vuWCWq09T1znsipZsd"
       },
       "artists": [
         {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+          "name": "Tim Hagans",
+          "url": "https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr"
         }
       ],
-      "duration_ms": 487946,
-      "name": "Re-invention - Live in Paris",
-      "url": "https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6"
+      "duration_ms": 418642,
+      "name": "Sweet Peach Tree",
+      "url": "https://open.spotify.com/track/3GuNFZcceWh90K9Fvj1SUT"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1727,22 +1711,18 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Hubsongs",
-        "url": "https://open.spotify.com/album/59pKnjWQvSgy4kImdZbWIB"
+        "name": "Noir en rouge (Live in Paris)",
+        "url": "https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX"
       },
       "artists": [
         {
-          "name": "Tim Hagans",
-          "url": "https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr"
-        },
-        {
-          "name": "Marcus Printup",
-          "url": "https://open.spotify.com/artist/5q38comXVCcw1tvCuJOeWf"
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
         }
       ],
-      "duration_ms": 265200,
-      "name": "Hub Cap",
-      "url": "https://open.spotify.com/track/2Re5a1uziT52AjVVpug18m"
+      "duration_ms": 487946,
+      "name": "Re-invention - Live in Paris",
+      "url": "https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1787,6 +1767,26 @@
       "duration_ms": 211693,
       "name": "Just in Time",
       "url": "https://open.spotify.com/track/3aHJmaeRrBhoNlXL079nc2"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Hubsongs",
+        "url": "https://open.spotify.com/album/59pKnjWQvSgy4kImdZbWIB"
+      },
+      "artists": [
+        {
+          "name": "Tim Hagans",
+          "url": "https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr"
+        },
+        {
+          "name": "Marcus Printup",
+          "url": "https://open.spotify.com/artist/5q38comXVCcw1tvCuJOeWf"
+        }
+      ],
+      "duration_ms": 265200,
+      "name": "Hub Cap",
+      "url": "https://open.spotify.com/track/2Re5a1uziT52AjVVpug18m"
     },
     {
       "added_at": "2024-11-08 10:26:51",

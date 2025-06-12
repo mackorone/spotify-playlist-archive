@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-833 songs - 1 day 12 hr 12 min
+835 songs - 1 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,6 +445,7 @@
 | [Mar Abierto](https://open.spotify.com/track/3iJPvAuAfJVWWnin355Tmk) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [Mar Abierto](https://open.spotify.com/album/3djqu4voBcHRSQOLgnfeW2) | 2:09 | 2022-10-07 | 2024-05-24 |
 | [Mareld](https://open.spotify.com/track/7njI830XuQtdheC4m9LCgm) | [Ron Melass](https://open.spotify.com/artist/61JpiETiqqg2JJIKbXO04g) | [Mareld](https://open.spotify.com/album/1BATEK1hhvNdASdRQR8euJ) | 1:57 | 2022-05-27 | 2022-07-08 |
 | [Matira](https://open.spotify.com/track/5DM2p6mxHBAXz9v9C7Or4o) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Matira](https://open.spotify.com/album/51Hi43BRLetzxLME54vxjN) | 2:20 | 2023-08-10 |  |
+| [Maybe another day](https://open.spotify.com/track/52zUIhEBKcD6dCPQnNnFzj) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Maybe another day](https://open.spotify.com/album/5hQJfjXirg04OUm96553l2) | 2:44 | 2025-06-11 |  |
 | [Maybe It's Not Too Late](https://open.spotify.com/track/2OPSOulWZFo8pu0cOwBEOE) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Maybe It's Not Too Late](https://open.spotify.com/album/0XNxtbuDlEXhIqAUYSpSwC) | 2:07 | 2022-11-25 | 2024-04-19 |
 | [Me And You](https://open.spotify.com/track/72mj6r1TJ5nVbhFp7l9Ss9) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Me And You](https://open.spotify.com/album/4IllAL0UmuPn1qGw2fqlBu) | 2:32 | 2023-06-02 | 2025-03-26 |
 | [Meet Me When I Come](https://open.spotify.com/track/6A4OZEbZdVXcWa79ZhanWN) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Meet Me When I Come](https://open.spotify.com/album/5n6VG1x2YR6D8xVDrpFGaL) | 3:11 | 2023-06-22 | 2024-04-05 |
@@ -472,7 +473,7 @@
 | [Moments to Unwind](https://open.spotify.com/track/3XWdpO1ugJ0wFHrod2eu8H) | [Timothy Hall](https://open.spotify.com/artist/5WQIOA7Nu5yv3EVY7a6ot2) | [Moments to Unwind](https://open.spotify.com/album/1ShfsVszarFDwGDUHPBx3m) | 2:14 | 2025-02-24 |  |
 | [Mondschein](https://open.spotify.com/track/7n1b2jjQSD5xNyo0Bs5dpM) | [Heinrich Schulmann](https://open.spotify.com/artist/6gOl6CDl4lz2DDYpdH8DJU) | [Mondschein](https://open.spotify.com/album/6MRZynP88zTclx9tOUoGrx) | 3:35 | 2021-12-08 | 2023-04-22 |
 | [Montes Claros](https://open.spotify.com/track/2DwZFuh7xnuEDvNwz4mAMi) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Montes Claros](https://open.spotify.com/album/4xouEO0NJWhJswiV2Qofy8) | 2:45 | 2023-10-13 |  |
-| [Moon Waltz](https://open.spotify.com/track/4Xezh0FxenrjYsqwEmwRG4) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Moon Waltz](https://open.spotify.com/album/66g2EHpUlzfj1Zy6ooDRh9) | 2:24 | 2025-04-16 |  |
+| [Moon Waltz](https://open.spotify.com/track/4Xezh0FxenrjYsqwEmwRG4) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Moon Waltz](https://open.spotify.com/album/66g2EHpUlzfj1Zy6ooDRh9) | 2:24 | 2025-04-16 | 2025-06-12 |
 | [More Human](https://open.spotify.com/track/4A0JgmSpjwZbN5plH0JDzg) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [More Human](https://open.spotify.com/album/445YVx7F9QnBhN21h8FNRl) | 3:03 | 2025-02-24 | 2025-05-29 |
 | [Morning After](https://open.spotify.com/track/4DfrrlI4CXgm2MxCpHMTYJ) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Alluring Nights](https://open.spotify.com/album/0WvJGkmpVKmaxNE0ymehsf) | 2:34 | 2021-12-08 | 2024-08-14 |
 | [Morning Dew](https://open.spotify.com/track/5MgDL4PZuc0lKdgpQCGjoX) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Morning Dew](https://open.spotify.com/album/3HXo20W8FF3Cmol4ZzeZFM) | 2:52 | 2021-12-08 | 2022-09-09 |
@@ -705,6 +706,7 @@
 | [Ten Eyck](https://open.spotify.com/track/2SVWtMKFeHoHbAidcGnD0L) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Ten Eyck](https://open.spotify.com/album/1xfdS5017HheV0A5Iz2t1J) | 2:20 | 2023-09-08 |  |
 | [The Airport](https://open.spotify.com/track/6clNGc6Zu3OZFdgWLOIxZG) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Airport](https://open.spotify.com/album/6LW69sYxSScS6gt5Kkqw9c) | 2:30 | 2023-03-10 | 2025-03-26 |
 | [The Bloomer Stars](https://open.spotify.com/track/4d4w8iA84Zvsf0TtyrDqpZ) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [The Bloomer Stars](https://open.spotify.com/album/6zdqiQXuoGXKt5FlJDowmq) | 2:39 | 2023-12-15 |  |
+| [The Conjurer](https://open.spotify.com/track/0JedJNGmpwYxeNtLN0hPOj) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [The Conjurer](https://open.spotify.com/album/7bSOJbMphI7xdhCmTAzv2V) | 2:27 | 2025-06-11 |  |
 | [The Discovery](https://open.spotify.com/track/2SBzLIgiQ7NOrfsdYvudwN) | [Max & Evelyn Levin](https://open.spotify.com/artist/1NfTYfe4S4R5doamPIfxlw) | [The Discovery](https://open.spotify.com/album/08gWXUilwiSrBuiStV7KfG) | 1:43 | 2021-12-08 | 2022-09-03 |
 | [The Dunes](https://open.spotify.com/track/0HRRkGGFpMQH1AMLUDYjc1) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [The Dunes](https://open.spotify.com/album/0zHcpVeaC1y6X1hYDKklKL) | 2:47 | 2022-05-13 | 2023-05-13 |
 | [The Dust Settles](https://open.spotify.com/track/0EVXNRFGjdC9xap72VhV7C) | [Andrei Smirnova](https://open.spotify.com/artist/6wLqG3xZFWS0M5pFimbbyr) | [The Dust Settles](https://open.spotify.com/album/06u42yAuNFUuzO2CLrJWCh) | 2:27 | 2023-04-21 |  |
@@ -714,7 +716,7 @@
 | [The Green isle](https://open.spotify.com/track/1BZoIJDJgTSJJdtIH6sh5t) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [The Green isle](https://open.spotify.com/album/5qrqkAAhSGc5SFMvBasqyH) | 2:06 | 2024-02-23 | 2024-12-11 |
 | [The Highland](https://open.spotify.com/track/34fmLyZjHRr1iQQacMd6hn) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [At The Break Of Dawn](https://open.spotify.com/album/54yCLINTA6eCrtuBbIze8Q) | 3:00 | 2021-12-08 | 2022-07-08 |
 | [The Knowing Of Being](https://open.spotify.com/track/2TxTHFS6q7R8FyiWyTtocs) | [Darcy Burke](https://open.spotify.com/artist/317AmUS3g0hGGM7bNCNXYw) | [The Knowing Of Being](https://open.spotify.com/album/05rR4u0vaHUJoBIw3tq8Nq) | 3:12 | 2022-10-07 | 2024-04-05 |
-| [The Last Exchange](https://open.spotify.com/track/7B9ltWsVCKXtKEj2xK6JPL) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [The Last Exchange](https://open.spotify.com/album/62KzOaKgRZeFoGOMoi9Nzd) | 2:04 | 2024-12-17 |  |
+| [The Last Exchange](https://open.spotify.com/track/7B9ltWsVCKXtKEj2xK6JPL) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [The Last Exchange](https://open.spotify.com/album/62KzOaKgRZeFoGOMoi9Nzd) | 2:04 | 2024-12-17 | 2025-06-12 |
 | [The last summer of Hannah](https://open.spotify.com/track/7ycwkF9eOxH3BW362HhDyv) | [Roy Zakai](https://open.spotify.com/artist/5OZEqhIBrwe88PuPZbgnsT) | [The last summer of Hannah](https://open.spotify.com/album/2cTiyCRuDI9LVPOCk6Axwt) | 2:10 | 2022-10-28 | 2023-02-25 |
 | [The Lights](https://open.spotify.com/track/2CIpfBZeHsuouUwJWUEsod) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [The Lights](https://open.spotify.com/album/7pnNgMZyKEPjGbJlQJ6LI1) | 1:46 | 2023-04-21 | 2023-08-19 |
 | [The Lone Wolf's Meadow](https://open.spotify.com/track/5085Fog6qVXvnsApSamQJl) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [The Lone Wolf's Meadow](https://open.spotify.com/album/33EnSk5EHcTVBMiycZ427c) | 2:07 | 2021-12-08 | 2022-04-06 |

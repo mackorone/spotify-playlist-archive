@@ -7903,6 +7903,24 @@
     },
     {
       "album": {
+        "name": "Maybe another day",
+        "url": "https://open.spotify.com/album/5hQJfjXirg04OUm96553l2"
+      },
+      "artists": [
+        {
+          "name": "Serilda Bell",
+          "url": "https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164333,
+      "name": "Maybe another day",
+      "url": "https://open.spotify.com/track/52zUIhEBKcD6dCPQnNnFzj"
+    },
+    {
+      "album": {
         "name": "Maybe It's Not Too Late",
         "url": "https://open.spotify.com/album/0XNxtbuDlEXhIqAUYSpSwC"
       },
@@ -8404,7 +8422,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 144841,
       "name": "Moon Waltz",
       "url": "https://open.spotify.com/track/4Xezh0FxenrjYsqwEmwRG4"
@@ -12587,6 +12605,24 @@
     },
     {
       "album": {
+        "name": "The Conjurer",
+        "url": "https://open.spotify.com/album/7bSOJbMphI7xdhCmTAzv2V"
+      },
+      "artists": [
+        {
+          "name": "Leon Arms",
+          "url": "https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "The Conjurer",
+      "url": "https://open.spotify.com/track/0JedJNGmpwYxeNtLN0hPOj"
+    },
+    {
+      "album": {
         "name": "The Discovery",
         "url": "https://open.spotify.com/album/08gWXUilwiSrBuiStV7KfG"
       },
@@ -12760,7 +12796,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 124393,
       "name": "The Last Exchange",
       "url": "https://open.spotify.com/track/7B9ltWsVCKXtKEj2xK6JPL"

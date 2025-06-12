@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-397 songs - 17 hr 52 min
+400 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Asian Delight](https://open.spotify.com/track/0EQOLN8bCteRj62De3MLSn) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [Asian Delight](https://open.spotify.com/album/3EhfE5X0ILlNI30Yt3trQ2) | 3:28 | 2022-05-13 | 2024-04-06 |
 | [At a Glance](https://open.spotify.com/track/0ohcThy8ktuaj2QoGfiROC) | [Jonas Björk](https://open.spotify.com/artist/6hSqPgf1kehZN3pifbGH62) | [At a Glance](https://open.spotify.com/album/10T5DllHUZDAkwudvT9QUV) | 2:28 | 2025-03-11 |  |
 | [At first dawn](https://open.spotify.com/track/7xWZgRtEfN2WYzomtNynes) | [Robert Blanke](https://open.spotify.com/artist/0nXlrKMk6YSm3vN04HaghF) | [At first dawn](https://open.spotify.com/album/2Cv6U6taQMno5m7KMZakLz) | 2:41 | 2022-05-13 | 2022-06-10 |
+| [Auburn to Green](https://open.spotify.com/track/5UN9mQlx5fr9SirISSSuVJ) | [Noah Lorne](https://open.spotify.com/artist/3mgtorvPIuOOqO0V5EwEqa) | [Auburn to Green](https://open.spotify.com/album/6bHo8s2CSu4tzCnTTPLE3n) | 2:40 | 2025-06-11 |  |
 | [Aurora Prelude](https://open.spotify.com/track/4zNrO0MmzxqlthrBhnV8d2) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Aurora Prelude](https://open.spotify.com/album/6fiETmJfgbxUs0Rx3zE7Vi) | 2:32 | 2024-03-29 |  |
 | [Autumn Coming](https://open.spotify.com/track/4FMe5WxTUYxd4U9jk0C4yl) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Autumn Coming](https://open.spotify.com/album/3Q6axAHOm4KVMFJlxFRvQF) | 2:21 | 2022-05-13 | 2022-10-07 |
 | [Autumn Dreams](https://open.spotify.com/track/7cWsIOBYEv1WomW8PSeX2s) | [Rua Do Sol](https://open.spotify.com/artist/6H6xSboY4n7uDxqgRaBBL4) | [Autumn Dreams](https://open.spotify.com/album/2TWUEmjaeo6RHBtOUBDwp5) | 3:43 | 2024-10-01 |  |
@@ -225,6 +226,7 @@
 | [Melrose](https://open.spotify.com/track/5ngbgfC1bhMA7WMxzH9Cfe) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/6Z1EwaLJ7zU8SaGywp0pSj) | 2:04 | 2022-05-13 | 2022-06-10 |
 | [Millstätter See](https://open.spotify.com/track/1f2ZxUgU6d5gp7pRyz35I0) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Millstätter See](https://open.spotify.com/album/6f5YB6Y0Ic0ixZ85lsibUG) | 2:37 | 2023-03-31 |  |
 | [Mindset](https://open.spotify.com/track/4KGyiKKDpKNGcn46Nbz5qj) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [Mindset](https://open.spotify.com/album/402gxdke8XzhCG8MKkXT4b) | 2:25 | 2024-10-01 |  |
+| [Moment Held](https://open.spotify.com/track/2QHs7x6qPQnhC2p1JILpuy) | [Ivan Pirman](https://open.spotify.com/artist/76BMzkMBbRiZ6WuWDOUPNg) | [Moment Held](https://open.spotify.com/album/7eSyVcWIf46avGw5FfLk2f) | 2:22 | 2025-06-11 |  |
 | [Moments](https://open.spotify.com/track/09ABPGLl5mD4XKrSzVhcZh) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Moments](https://open.spotify.com/album/3RWT8s0jYc1lO6J8mlP5CJ) | 2:23 | 2023-03-31 | 2023-06-10 |
 | [Moments](https://open.spotify.com/track/12zsDIcTZiDOhFFSI7UeD4) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Moments](https://open.spotify.com/album/4dOW4Qu0bwy54ArQWj9oga) | 2:23 | 2022-10-28 | 2023-04-13 |
 | [Moments](https://open.spotify.com/track/5nTHryNER0Teyaa4Y6XLa7) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Moments](https://open.spotify.com/album/1nVjd0D1TypRpB7Xjet07j) | 2:23 | 2022-07-22 | 2022-11-06 |
@@ -301,6 +303,7 @@
 | [Sky](https://open.spotify.com/track/4gYayVU0GTqHEIqbLXu3N7) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Sky](https://open.spotify.com/album/6fFjqvw0ZkLTOihz2voCU0) | 1:53 | 2022-07-01 | 2022-11-05 |
 | [Skyline](https://open.spotify.com/track/285lEr4h595zVTecy0u7Nf) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Skyline](https://open.spotify.com/album/7fcgX0jd8ZbfyuPDUKWabu) | 1:44 | 2023-06-09 | 2023-09-16 |
 | [Sleeping In](https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Sleeping In](https://open.spotify.com/album/74gHriyoqihLtwbA9LdyTG) | 3:00 | 2023-03-10 | 2024-02-23 |
+| [Slowed by Time](https://open.spotify.com/track/4jdOVJzC2JYKMwfgat1Rdh) | [Logan Connors](https://open.spotify.com/artist/5isnVGl3x963Fl8DCH1zsk) | [Slowed by Time](https://open.spotify.com/album/3sNV8v8XF2A15Ai4lFzBfX) | 2:18 | 2025-06-11 |  |
 | [Slowly Rising](https://open.spotify.com/track/6uQxV9Y845sCOJju5miIXy) | [Max Stewart](https://open.spotify.com/artist/3QVwxtN8aGF1GSyZqqcEow) | [Slowly Rising](https://open.spotify.com/album/23blTYLSSf3L1bGPNBVVnM) | 2:16 | 2025-02-19 |  |
 | [Soft Echoes](https://open.spotify.com/track/3pZt1uUb7bgSADqm3smoMo) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [Soft Echoes](https://open.spotify.com/album/0FcwvBp2L2pKv1pdgXbvyV) | 3:27 | 2023-01-20 | 2024-05-25 |
 | [Some Relief](https://open.spotify.com/track/6pa3sT6pQ7OmqTQDQrr9Qj) | [Leo Ek](https://open.spotify.com/artist/0X9FoBNRpQYrWqcDPVBtRm) | [Some Relief](https://open.spotify.com/album/5ZVDW1j5RqiwtBBuwGFgib) | 2:31 | 2024-09-03 |  |

@@ -674,7 +674,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 173871,
       "name": "2001",
       "url": "https://open.spotify.com/track/7fGQoAkUSG9aNmHQ5myETo"
@@ -1932,7 +1932,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 295880,
       "name": "AENE",
       "url": "https://open.spotify.com/track/0TavlW2wgiYIFucM8n5XEu"
@@ -16560,7 +16560,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-18",
+      "date_removed": null,
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -16578,7 +16578,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -22032,10 +22032,36 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 211408,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/2QenFYgqiJnSXUznQw1jfb"
+    },
+    {
+      "album": {
+        "name": "DONDA 2",
+        "url": "https://open.spotify.com/album/1ZkGNUz1un0b3Z7EsJl3ci"
+      },
+      "artists": [
+        {
+          "name": "DONDA",
+          "url": "https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211408,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/6BJRGULyx1DbFJLBj3fbx3"
     },
     {
       "album": {
@@ -22212,7 +22238,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 192005,
       "name": "Hate It or Love It",
       "url": "https://open.spotify.com/track/4RwOxifGEzFMm6p8DqC8Ny"
@@ -30592,7 +30618,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 172314,
       "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
       "url": "https://open.spotify.com/track/2UtuOyOQ0VxF2sNZU12H3y"
@@ -30618,7 +30644,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-24",
+      "date_removed": null,
       "duration_ms": 172314,
       "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
       "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
@@ -47623,6 +47649,32 @@
     },
     {
       "album": {
+        "name": "RITMO DE VERAO",
+        "url": "https://open.spotify.com/album/6Lpeo3sn3ublWcoL5DCpcc"
+      },
+      "artists": [
+        {
+          "name": "GXMZ",
+          "url": "https://open.spotify.com/artist/4y6dwT7Vzi6tFHJmr2TU02"
+        },
+        {
+          "name": "SEKIMANE",
+          "url": "https://open.spotify.com/artist/1yevH7mkPMXeSTnA9SwHvq"
+        },
+        {
+          "name": "Repsaj",
+          "url": "https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99194,
+      "name": "RITMO DE VERAO - SLOWED",
+      "url": "https://open.spotify.com/track/344ilORk7mOQH1BbiufL9w"
+    },
+    {
+      "album": {
         "name": "KDT",
         "url": "https://open.spotify.com/album/3oNmJ7bGRUMkzzBs2f37ix"
       },
@@ -47682,10 +47734,28 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
+    },
+    {
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
+        "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268840,
+      "name": "Rock That Body",
+      "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
     },
     {
       "album": {
@@ -54830,7 +54900,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 144203,
       "name": "S\u00d6T\u00c9T",
       "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
@@ -58235,6 +58305,32 @@
     },
     {
       "album": {
+        "name": "DONDA 2",
+        "url": "https://open.spotify.com/album/1ZkGNUz1un0b3Z7EsJl3ci"
+      },
+      "artists": [
+        {
+          "name": "DONDA",
+          "url": "https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137180,
+      "name": "TRUE LOVE",
+      "url": "https://open.spotify.com/track/3WbuQIjkR1mIKdwSNlgqpp"
+    },
+    {
+      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
       },
@@ -59794,7 +59890,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 124186,
       "name": "Vandr",
       "url": "https://open.spotify.com/track/1xw2t2f0nqbSjHmMSb6ipY"
@@ -64824,6 +64920,24 @@
       "duration_ms": 152405,
       "name": "\u010casy se m\u011bn\u00ed",
       "url": "https://open.spotify.com/track/4atsam3P3ITpW0gkb6ogX4"
+    },
+    {
+      "album": {
+        "name": "Skippy McDippy",
+        "url": "https://open.spotify.com/album/7ts6XxURUtS8MVgqRw57vY"
+      },
+      "artists": [
+        {
+          "name": "Skippy McDippy",
+          "url": "https://open.spotify.com/artist/3wJFxtAUW41wCsQi1xlxKH"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "\u010cerven\u00e1 vlajka",
+      "url": "https://open.spotify.com/track/5iLwEGC5dBe0uSXWT2YRDW"
     },
     {
       "album": {

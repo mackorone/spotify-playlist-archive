@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Little Simz
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,061 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,074 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 17 | [One Of Them](https://open.spotify.com/track/0I0P8FFXCndrwK1wBDo2bB) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [One Of Them](https://open.spotify.com/album/6TzgT7RMTJKpclQ7awIjru) | 2:51 |
 | 18 | [Cops & Robbers](https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Cops & Robbers](https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U) | 2:41 |
 | 19 | [Ramen](https://open.spotify.com/track/09Lc6NUGCTJ4ZhH8a2fmFT) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [Joe Moses](https://open.spotify.com/artist/54QA4zjZDOyaLN8bVthBjP), [Nice](https://open.spotify.com/artist/11X4lcw7F1Ej1PfL1XkvPc) | [Ramen](https://open.spotify.com/album/399N0mU6VE8XD813flt9ED) | 2:32 |
-| 20 | [Ace Trumpets](https://open.spotify.com/track/6gurRCQTLcBNkakApASMdi) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [No Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Ace Trumpets](https://open.spotify.com/album/5UpGXA1S5pwj2ZMC4sH97y) | 2:34 |
+| 20 | [Ace Trumpets](https://open.spotify.com/track/6gurRCQTLcBNkakApASMdi) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Ace Trumpets](https://open.spotify.com/album/5UpGXA1S5pwj2ZMC4sH97y) | 2:34 |
 | 21 | [Survivor’s Guilt \(feat\. G Herbo\)](https://open.spotify.com/track/6nCWE96dbCCeWig5TZu4jv) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor’s Guilt \(feat\. G Herbo\)](https://open.spotify.com/album/5LmyrJlTv5zRJm2CiyxHSS) | 3:03 |
 | 22 | [Burnaby Joe](https://open.spotify.com/track/0KnVEKc7BWO15UiSdmo4kB) | [Evil Ebenezer](https://open.spotify.com/artist/1E1u1P7Fse6SKnETGdo6XK) | [Burnaby Joe](https://open.spotify.com/album/1gZ5zpnxej525dCatbbzSn) | 2:22 |
 | 23 | [Dabble](https://open.spotify.com/track/2Sp9H1DOeQYCfHdFxo1aju) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [ICONIC](https://open.spotify.com/album/7DhG7Pwl4OremQ50PKSnYk) | 2:24 |

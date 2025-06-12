@@ -1,6 +1,6 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 421862,
+  "num_followers": 421850,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Faking My Own Death",
+        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
+      },
+      "artists": [
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 238829,
+      "name": "Faking My Own Death",
+      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "I Know You Know Me (With Matt Berninger)",
         "url": "https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 199123,
       "name": "I Know You Know Me (With Matt Berninger)",
       "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Faking My Own Death",
-        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
-      },
-      "artists": [
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 238829,
-      "name": "Faking My Own Death",
-      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -847,26 +847,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Weather Balloons [Feat. Frances Cone]",
-        "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        },
-        {
-          "name": "Frances Cone",
-          "url": "https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh"
-        }
-      ],
-      "duration_ms": 212502,
-      "name": "Weather Balloons [Feat. Frances Cone]",
-      "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "To Love",
         "url": "https://open.spotify.com/album/2FK4yXQGrYTLS1DjKavwoe"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 216189,
       "name": "Every Day's A Lesson In Humility",
       "url": "https://open.spotify.com/track/0rUHnNylp4QiqLOx3hL2EY"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Weather Balloons [Feat. Frances Cone]",
+        "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        },
+        {
+          "name": "Frances Cone",
+          "url": "https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh"
+        }
+      ],
+      "duration_ms": 212502,
+      "name": "Weather Balloons [Feat. Frances Cone]",
+      "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Cala",
-        "url": "https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW"
-      },
-      "artists": [
-        {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
-        }
-      ],
-      "duration_ms": 148773,
-      "name": "Collar of Fur",
-      "url": "https://open.spotify.com/track/7ytLP3YW58akAQyMTwW78l"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Human Emotion",
         "url": "https://open.spotify.com/album/5yld1EKD0F5Q442upp44Up"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 230000,
       "name": "Human Emotion",
       "url": "https://open.spotify.com/track/2RZikbqD9j1SRch0eh7Y97"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Cala",
+        "url": "https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "duration_ms": 148773,
+      "name": "Collar of Fur",
+      "url": "https://open.spotify.com/track/7ytLP3YW58akAQyMTwW78l"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Stranger Danger",
-        "url": "https://open.spotify.com/album/2bpaU06D3UgJvJiCWBnWNS"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 281880,
-      "name": "Stranger Danger",
-      "url": "https://open.spotify.com/track/6XXk2EZcBg3hbaX2HN8GyA"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Plan On You",
         "url": "https://open.spotify.com/album/4ZbYJnTiqmIBUrZy5S1fnT"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 170894,
       "name": "Redwood Tree",
       "url": "https://open.spotify.com/track/7tthtIvsXqBLHru3nJkQg3"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Stranger Danger",
+        "url": "https://open.spotify.com/album/2bpaU06D3UgJvJiCWBnWNS"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 281880,
+      "name": "Stranger Danger",
+      "url": "https://open.spotify.com/track/6XXk2EZcBg3hbaX2HN8GyA"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "We Watch The Stars",
+        "url": "https://open.spotify.com/album/7CDx9LMmJ9cbFlGRK7cmYY"
+      },
+      "artists": [
+        {
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+        }
+      ],
+      "duration_ms": 225076,
+      "name": "We Watch The Stars - Berlin Session",
+      "url": "https://open.spotify.com/track/4WhSZZcvtkC6Bn2992AacO"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Black Eyed Dog",
         "url": "https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 168779,
       "name": "Black Eyed Dog",
       "url": "https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "We Watch The Stars",
-        "url": "https://open.spotify.com/album/7CDx9LMmJ9cbFlGRK7cmYY"
-      },
-      "artists": [
-        {
-          "name": "Fink",
-          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
-        }
-      ],
-      "duration_ms": 225076,
-      "name": "We Watch The Stars - Berlin Session",
-      "url": "https://open.spotify.com/track/4WhSZZcvtkC6Bn2992AacO"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "First Time Feeling",
+        "url": "https://open.spotify.com/album/3qm2g5r2eWFVYiIGZVt4Ro"
+      },
+      "artists": [
+        {
+          "name": "Leah Blevins",
+          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
+        }
+      ],
+      "duration_ms": 186016,
+      "name": "First Time Feeling",
+      "url": "https://open.spotify.com/track/35q6uD5WsqzRPEblLjj5dw"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "I Want The Door To Open",
         "url": "https://open.spotify.com/album/6x6VGqTPJBK6r3qfuqe2Zl"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 198750,
       "name": "Raglan",
       "url": "https://open.spotify.com/track/2w2cEcgcSTkCE3TiHCmPxM"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "First Time Feeling",
-        "url": "https://open.spotify.com/album/3qm2g5r2eWFVYiIGZVt4Ro"
-      },
-      "artists": [
-        {
-          "name": "Leah Blevins",
-          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
-        }
-      ],
-      "duration_ms": 186016,
-      "name": "First Time Feeling",
-      "url": "https://open.spotify.com/track/35q6uD5WsqzRPEblLjj5dw"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Wilderness Within You",
-        "url": "https://open.spotify.com/album/0I0UeauEi5MwMKqlOMcFv2"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 230366,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/5NrIxkSt7Lmem0h7rK4Sgq"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "On A Beach",
         "url": "https://open.spotify.com/album/0DyVOB2dfSxlmomqQoh7t6"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 245656,
       "name": "On A Beach",
       "url": "https://open.spotify.com/track/6MdKxxCkNTmassiqorlX5Y"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Wilderness Within You",
+        "url": "https://open.spotify.com/album/0I0UeauEi5MwMKqlOMcFv2"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 230366,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/5NrIxkSt7Lmem0h7rK4Sgq"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Big Star (Alt)",
-        "url": "https://open.spotify.com/album/6auwNlcYoq8giw1sZkOYHW"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 244632,
-      "name": "Big Star - Alt",
-      "url": "https://open.spotify.com/track/6vChhCAS4y7anDfreIhOLW"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Growin' Down",
         "url": "https://open.spotify.com/album/5skKCz7lFau3mYIBFDdkw9"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 256000,
       "name": "Growin' Down",
       "url": "https://open.spotify.com/track/364HspDHZe7P1vNHDiO4ic"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Big Star (Alt)",
+        "url": "https://open.spotify.com/album/6auwNlcYoq8giw1sZkOYHW"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 244632,
+      "name": "Big Star - Alt",
+      "url": "https://open.spotify.com/track/6vChhCAS4y7anDfreIhOLW"
     },
     {
       "added_at": "2025-02-07 05:00:36",

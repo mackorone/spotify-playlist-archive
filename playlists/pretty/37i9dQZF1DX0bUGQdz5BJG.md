@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Lanie Gardner
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,332 likes - 220 songs - 11 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,376 likes - 220 songs - 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 219 | [Tomorrows Left](https://open.spotify.com/track/4GAvEtCD0kRDP6qhUIg9zP) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Tomorrows Left](https://open.spotify.com/album/38ZwLDDA9dy91nUYtv1znK) | 2:48 |
 | 220 | [Jumped Right In](https://open.spotify.com/track/63vJaPmTsrourYRhDIMsPi) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Jumped Right In](https://open.spotify.com/album/1K2s1YZGzJItvRyx4DU0NS) | 3:16 |
 
-Snapshot ID: `aEJn2AAAAACTssBvqf4JJIFQ6i3+Yw63`
+Snapshot ID: `aEJn2AAAAAAlDDtSekjZXvrIhnJW8sAz`

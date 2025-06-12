@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Rachel Reis e mais mulheres incríveis no volume máximo! co\-curada por Rachel Reis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,750 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,744 likes - 49 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 21 | [só dessa vez](https://open.spotify.com/track/5vf3QAfhpDhAGWvQQYFVHl) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [CÉU DA BOCA, a parte I](https://open.spotify.com/album/0l6qJ5iOm9jkYx6VEcRndN) | 2:54 |
 | 22 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
 | 23 | [Unilateral](https://open.spotify.com/track/4t05zORDqk0pMDgUqb3p0J) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Tudo é minha culpa](https://open.spotify.com/album/07c1m3BQBPWkh4ltXsXYjR) | 3:17 |
-| 24 | [Pelo Avesso](https://open.spotify.com/track/3NXSLd0Qio35C3xVLI30B5) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Megalomania](https://open.spotify.com/album/6HLqdB01LNcoa5TrtgEsR6) | 2:39 |
-| 25 | [Bahia Com H](https://open.spotify.com/track/3Wll6TfRJ1bzskJsZQe89P) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Bahia Com H](https://open.spotify.com/album/2UO7PFTEbd7DDwaUVSgVQR) | 4:24 |
+| 24 | [Bahia Com H](https://open.spotify.com/track/3Wll6TfRJ1bzskJsZQe89P) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Bahia Com H](https://open.spotify.com/album/2UO7PFTEbd7DDwaUVSgVQR) | 4:24 |
+| 25 | [Pelo Avesso](https://open.spotify.com/track/3NXSLd0Qio35C3xVLI30B5) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Megalomania](https://open.spotify.com/album/6HLqdB01LNcoa5TrtgEsR6) | 2:39 |
 | 26 | [Saudosismo](https://open.spotify.com/track/6rMp4peGqo1zaT8ErytHgd) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:10 |
 | 27 | [Alumiô](https://open.spotify.com/track/2nFx9WDf3Jk2ONvO0PUoQv) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW), [Bixiga 70](https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU) | [Alumiô](https://open.spotify.com/album/0Dg5HGop5JMQeRDHB63tz9) | 3:24 |
 | 28 | [Roupa Branca](https://open.spotify.com/track/519BqNSiUkeGvCifHU4S96) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi) | [Roupa Branca](https://open.spotify.com/album/1NoGlIcRHsvjKl9XtHCrmc) | 2:27 |
@@ -43,15 +43,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 33 | [Mana](https://open.spotify.com/track/7lKMqNkBECJiyJyQuw4j9X) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Navega](https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu) | 4:35 |
 | 34 | [GIGANTESCA](https://open.spotify.com/track/0FYOKGb3jeFC9rtQFZAGLA) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq) | [GIGANTESCA](https://open.spotify.com/album/75tSrVAnqly6IAHjh9asTR) | 3:33 |
 | 35 | [CHUVA DE VERÃO](https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [TRÓPICO 96 \(Edição de Verão\)](https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ) | 3:06 |
-| 36 | [Ensolarada](https://open.spotify.com/track/0LVKnNkJE3bL8ieVHps6Hd) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Ensolarada](https://open.spotify.com/album/1krAtwKNtJFqrwMUKREtS7) | 2:55 |
-| 37 | [Deságua](https://open.spotify.com/track/5WlyHAKCMb1adzdPG0e1xp) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5H0hV0QPHpbj1WQaz857Y7) | 3:34 |
+| 36 | [Deságua](https://open.spotify.com/track/5WlyHAKCMb1adzdPG0e1xp) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5H0hV0QPHpbj1WQaz857Y7) | 3:34 |
+| 37 | [Ensolarada](https://open.spotify.com/track/0LVKnNkJE3bL8ieVHps6Hd) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Ensolarada](https://open.spotify.com/album/1krAtwKNtJFqrwMUKREtS7) | 2:55 |
 | 38 | [Depois do Fim](https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Depois do Fim](https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc) | 2:04 |
 | 39 | [ARRASTO](https://open.spotify.com/track/2BZWJTYN9UmGMcX2DGRIbK) | [Rubia Divino](https://open.spotify.com/artist/6TSE9aXOA9TkDntWFrQPlz), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [ARRASTO](https://open.spotify.com/album/0RiUWDzIc1A00rAH5cOQS7) | 3:06 |
 | 40 | [Lenda](https://open.spotify.com/track/7AyUlE51WlFc2x8Z2ogCPP) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/2ZGuZwHna0GJ8ApFJWoE9M) | 4:19 |
 | 41 | [Furtacor](https://open.spotify.com/track/0xxFNQDRu4E79cgbbJCKrB) | [Luísa e os Alquimistas](https://open.spotify.com/artist/4MavQ0I0q9aAXj0mErfkqC) | [Jaguatirica Print](https://open.spotify.com/album/0JkLQKEz5jnRohRSLIEewl) | 3:59 |
 | 42 | [Deguste](https://open.spotify.com/track/08LR6HWU5CfaVOAxjOYs5q) | [Paula Lima](https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW) | [Deguste](https://open.spotify.com/album/5Nujjbnz1PSAtvyiqhXhoM) | 3:46 |
-| 43 | [SOU FERA](https://open.spotify.com/track/3l5Ys6krsdYhq49He7RLH2) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [SOU FERA](https://open.spotify.com/album/4gsuxE6hFZhwum1FG1cvvd) | 4:06 |
-| 44 | [Corredeiras](https://open.spotify.com/track/3eMNazRALdqUHufYfS5KKE) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Corredeiras / Sobre Nós](https://open.spotify.com/album/42VWZpDCjnFiEtZkLiNW4v) | 2:52 |
+| 43 | [Corredeiras](https://open.spotify.com/track/3eMNazRALdqUHufYfS5KKE) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Corredeiras / Sobre Nós](https://open.spotify.com/album/42VWZpDCjnFiEtZkLiNW4v) | 2:52 |
+| 44 | [SOU FERA](https://open.spotify.com/track/3l5Ys6krsdYhq49He7RLH2) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [SOU FERA](https://open.spotify.com/album/4gsuxE6hFZhwum1FG1cvvd) | 4:06 |
 | 45 | [Você Não Vai Passar](https://open.spotify.com/track/6hMk9ielnYmzA9ilTeAQMb) | [Ava Rocha](https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ) | [Ava Patrya Yndia Yracema](https://open.spotify.com/album/6ErOsUiDB90bpToGgnoSy7) | 2:35 |
 | 46 | [Às Vezes](https://open.spotify.com/track/4bQSysJ9VNUYHA4Y95i4zU) | [Mariana Mesquita](https://open.spotify.com/artist/4YvQlkQeV7wrUO2wrisqP5) | [Às Vezes](https://open.spotify.com/album/209J4N7rnKL3PqmIEw88F6) | 2:55 |
 | 47 | [Margarida Perfumada](https://open.spotify.com/track/2cemRxwcxmTbFjE0H1dZid) | [Nêssa](https://open.spotify.com/artist/2nBhcSkmkP34W4oWJc9pcr) | [Margarida Perfumada](https://open.spotify.com/album/2PscMuM1kzWxvUdyqa7519) | 2:28 |

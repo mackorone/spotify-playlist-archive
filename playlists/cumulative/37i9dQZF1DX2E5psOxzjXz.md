@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Marshall Ahmad
 
-361 songs - 20 hr 7 min
+363 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Laiyan](https://open.spotify.com/track/2l7Z6J3b0wpohKqmNfASdC) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Laiyan](https://open.spotify.com/album/7sunQsnhjmkVyPKQZsjJDy) | 3:13 | 2022-09-26 | 2022-11-24 |
 | [Lamha](https://open.spotify.com/track/2dCrvLPU36Iv8p7Tq1Vy6V) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7) | [Chaar Dinon Ka Khwaab](https://open.spotify.com/album/72qKpOx8VNdYxZriGFnBnz) | 4:48 | 2023-04-07 | 2024-08-17 |
 | [Lamha](https://open.spotify.com/track/3FI4xMdyLRTTEcmxl17cEn) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7) | [Chaar Dinon Ka Khwaab](https://open.spotify.com/album/6nV3b2qvy5aAk33JoVrvHu) | 4:48 | 2024-02-23 | 2024-04-19 |
+| [Learn Some Na](https://open.spotify.com/track/5IUUjz6LJQ4n6YzVvS1ZfZ) | [Eid Milan](https://open.spotify.com/artist/7BKTvq04dovtVmBCJN2jQj) | [LOLLYWOOD TAPES](https://open.spotify.com/album/57mBQ0Rbj7gyllup5448wy) | 1:23 | 2025-06-11 |  |
 | [LIGHTSPEED](https://open.spotify.com/track/7acZeCG01zFILBoZkpwUAg) | [Hashir](https://open.spotify.com/artist/3daREed4KlrtvohgJjSkJr) | [LIGHTSPEED](https://open.spotify.com/album/67qPextXnvkGy0kjEq14Uo) | 2:30 | 2021-12-06 | 2022-06-11 |
 | [Long time no see](https://open.spotify.com/track/6V4N3h4HYD1Ask9cUTxjjg) | [Taimour Baig](https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi), [Raffey Anwar](https://open.spotify.com/artist/7rEwKApsZMo8cXVxAndmvD), [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Long time no see](https://open.spotify.com/album/5qBulMP2DP48SEyNwsXY79) | 3:38 | 2023-11-29 |  |
 | [lost](https://open.spotify.com/track/0R7rIsxEpTq1V0vqniFXzr) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [lost](https://open.spotify.com/album/2HWfMyHEtgfQ0Aug0qFq5g) | 3:11 | 2021-12-06 | 2023-04-09 |
@@ -213,6 +214,7 @@
 | [Miracle feat\. Nimra Gilani](https://open.spotify.com/track/6bagTvFhOL39jrKdpyOJir) | [Natasha Humera Ejaz](https://open.spotify.com/artist/2NTRcxzXvgDtcSJJ2zraxp), [Nimra Gilani](https://open.spotify.com/artist/16YcBCxja71bOiP9BWktfD), [Rishabh Rajan](https://open.spotify.com/artist/3zpfHIe2T4vYtnB7MU7Q8z) | [Ordinary Miracle \| ہیرے موتی](https://open.spotify.com/album/17XSJDt998wsV2mrVN7LPr) | 2:34 | 2023-08-31 | 2023-09-16 |
 | [Mota Pait](https://open.spotify.com/track/2ESqU4QphbIcQIINFY172R) | [Bhaloo](https://open.spotify.com/artist/18va6InAyA0N64ZV2QM0Is), [Shahab Hussain](https://open.spotify.com/artist/7ymVr1v5z0MP6rcohSM5up), [Faraz Anwar](https://open.spotify.com/artist/4WFQS1bqSok87rLhlWb8Ep), [King Faludah](https://open.spotify.com/artist/1y4aLVzUqqD4dAHQQyEXYn), [Anas Alam Khan](https://open.spotify.com/artist/5jBNrNEJZsx9jAmNJtnPkd), [Aziz Kazi](https://open.spotify.com/artist/5fcwlFnNLnw4OSMy6oNdnG) | [Dil pe na lijo](https://open.spotify.com/album/1CUMClPwqWDy7VmqyQqsCb) | 4:08 | 2025-01-17 | 2025-02-27 |
 | [mouqa](https://open.spotify.com/track/5uy6jIeJcCAlkl4QwRFnGI) | [Zoha Zuberi](https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK), [Maria Unera](https://open.spotify.com/artist/4g0Hm55v0B1qMupOA2mvDW), [Zahra Paracha](https://open.spotify.com/artist/3g76TAx9tdF5YZpsSwqL0K) | [mouqa](https://open.spotify.com/album/744Dw76R031Qy100gOTnMe) | 4:08 | 2024-02-06 | 2024-02-17 |
+| [Mujh Se Duur](https://open.spotify.com/track/0wCtnWUf3RrjUWSWM4FhP8) | [Eid Milan](https://open.spotify.com/artist/7BKTvq04dovtVmBCJN2jQj) | [LOLLYWOOD TAPES](https://open.spotify.com/album/57mBQ0Rbj7gyllup5448wy) | 1:13 | 2025-06-11 |  |
 | [Mujhe Leh Chal](https://open.spotify.com/track/4odsSGg1pT5Qrpj3ZOqQx0) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Mujhe Le Chal \(From "Meryem"\)](https://open.spotify.com/album/7qNMiJoulUjrnisg5eQeEN) | 3:29 | 2022-11-30 | 2023-01-11 |
 | [Mute](https://open.spotify.com/track/1k4BN3YPqVYhkYSugUH0mK) | [Sameen Qasim](https://open.spotify.com/artist/1TuZ9m2yr7qMmiovlOVS9O), [Shorbanoor](https://open.spotify.com/artist/7DXkuP7zCFpe1beSL1LjjD) | [Mute](https://open.spotify.com/album/6EwgLUXMEaxzRDiqwHKn82) | 3:25 | 2022-03-15 | 2022-06-17 |
 | [Naakay](https://open.spotify.com/track/2mB3SEFZ883snaGO1lVGmA) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Naakay](https://open.spotify.com/album/2Ql9w0m7BgXs69T6yZrIDb) | 2:38 | 2023-03-01 | 2023-04-09 |

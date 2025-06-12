@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Paleface Swiss
 
-668 songs - 1 day 19 hr 14 min
+669 songs - 1 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Chimerical Reality](https://open.spotify.com/track/6sWKMPDGVA0sMS8ARy6OHL) | [And Hell Followed With](https://open.spotify.com/artist/7MnEOC6vXcGp5P8RiFrlCm) | [Chimerical Reality](https://open.spotify.com/album/06E6v6odTc637pyGiIHYAO) | 4:33 | 2021-12-17 | 2022-07-29 |
 | [Chin Check](https://open.spotify.com/track/5Jt2ErhCamGbwwuYyWCjxm) | [Filth](https://open.spotify.com/artist/4v3LXseeTJyL6GVDS2N8oY) | [Chin Check](https://open.spotify.com/album/0ueCnEnaRHDzvQkZqiUdDJ) | 2:40 | 2024-06-25 |  |
 | [Choky](https://open.spotify.com/track/5VIqmAis57fVSZ66761QHn) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Choky](https://open.spotify.com/album/0daRza8EZVJvUaTC9JYkVl) | 2:59 | 2023-04-14 | 2025-03-15 |
-| [Chrome Moon](https://open.spotify.com/track/0yi9eWYklFlWDySJuHCl6I) | [Darko US](https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K) | [Starfire](https://open.spotify.com/album/3IXsOde67YmhbBbt4Vknv0) | 4:04 | 2024-06-25 |  |
+| [Chrome Moon](https://open.spotify.com/track/0yi9eWYklFlWDySJuHCl6I) | [Darko US](https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K) | [Starfire](https://open.spotify.com/album/3IXsOde67YmhbBbt4Vknv0) | 4:04 | 2024-06-25 | 2025-06-12 |
 | [Cicada](https://open.spotify.com/track/09XcghmEqtPUmGsXHy1VA7) | [Reflections](https://open.spotify.com/artist/0DTH9zFyvRb24bb8XN0iEr) | [Cicada](https://open.spotify.com/album/1gJQH2yB80CLagucfP6sze) | 3:01 | 2021-12-17 | 2022-07-29 |
 | [Civic Assault](https://open.spotify.com/track/1XHcJ9I73gB6uwKtryfC9B) | [Waking the Cadaver](https://open.spotify.com/artist/0Y7lDsDZc8qYny9MTq8xG2) | [Authority Through Intimidation](https://open.spotify.com/album/4vfoJ5Ixw4Ae8zQrKIPWWW) | 3:19 | 2021-12-17 | 2022-07-24 |
 | [Claustrophobic](https://open.spotify.com/track/0RlDBgXlhYVqatgogKYo1F) | [Nylist](https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw), [Alan Grnja](https://open.spotify.com/artist/4t1QdDQKUZ6OHw0ChpfM8L) | [Claustrophobic](https://open.spotify.com/album/1AHEHHN7GwDnbAeU3pM5aJ) | 4:01 | 2022-04-08 | 2022-04-20 |
@@ -394,12 +394,13 @@
 | [Mask Ov Lies](https://open.spotify.com/track/6cg4PHVSKcZ2f2qTjU2wPF) | [Forgetting The Memories](https://open.spotify.com/artist/1ZHEmnVzqhKMdawJteyKp4) | [Mask Ov Lies](https://open.spotify.com/album/6kizf3u1vHU8iMzpim5NAI) | 5:12 | 2021-12-17 | 2022-07-27 |
 | [Mechanical Chaos](https://open.spotify.com/track/5Ooe9BRVaQfdc8o2WA7xO5) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Mechanical Chaos](https://open.spotify.com/album/1c1o969p0fOBkTcea31737) | 3:50 | 2025-06-06 |  |
 | [Mercury](https://open.spotify.com/track/1t08G2BpPU2Ti72oqSJpzO) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Mercury](https://open.spotify.com/album/1JIvBVblvE64QjDzPrPM5b) | 2:03 | 2024-03-29 |  |
-| [MEXICO OSCURO](https://open.spotify.com/track/6PJOwbGPV7vurWVGVy6Y6O) | [DEATHMASK](https://open.spotify.com/artist/5f9fzMhIdCspKGg0uKjYt0), [Immortal Disfigurement](https://open.spotify.com/artist/6PNtic19dP6daQcCppVb1e), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl) | [MEXICO OSCURO](https://open.spotify.com/album/5SWY7xnlu4Z7F23MlOQ8uJ) | 4:26 | 2025-06-06 |  |
+| [MEXICO OSCURO](https://open.spotify.com/track/6PJOwbGPV7vurWVGVy6Y6O) | [DEATHMASK](https://open.spotify.com/artist/5f9fzMhIdCspKGg0uKjYt0), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl), [Immortal Disfigurement](https://open.spotify.com/artist/6PNtic19dP6daQcCppVb1e) | [MEXICO OSCURO](https://open.spotify.com/album/5SWY7xnlu4Z7F23MlOQ8uJ) | 4:26 | 2025-06-06 |  |
 | [Mindless Omnipotent Master](https://open.spotify.com/track/69RKttZp5ubhotQ2ZmoqkQ) | [Fallujah](https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU) | [Empyrean](https://open.spotify.com/album/5vBUDHMCdEqNJglh1OKwMb) | 4:38 | 2022-09-09 |  |
 | [Mirrors](https://open.spotify.com/track/3a5xdf1nPYi8l0FsWBUtKz) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Mirrors](https://open.spotify.com/album/4h6GP84d0vn4JHFn9Dwb6V) | 4:22 | 2021-12-17 | 2022-07-29 |
 | [Mirrors](https://open.spotify.com/track/4mPAEFa14pYmlT9GDrAXoM) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [The Sea of Tragic Beasts](https://open.spotify.com/album/75layqZM0WaToNzpj3jiC9) | 4:22 | 2023-02-24 | 2023-04-29 |
 | [Miserable Summer](https://open.spotify.com/track/1TqxaBXzqepHJHcI2QAoRu) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [Miserable Summer](https://open.spotify.com/album/7cdW7W8dJBUoUoHuarLsb2) | 4:54 | 2021-12-17 | 2024-08-24 |
 | [Misery](https://open.spotify.com/track/104ZHaGgZBoI1flo5OLnZL) | [This Is Turin](https://open.spotify.com/artist/23skq5iXNl7VoLgyWFAJRB), [Cj Mcmahon](https://open.spotify.com/artist/29eyErawu3CCYTTUPqwrQw) | [Misery](https://open.spotify.com/album/3fJo3KyyaekctIrIursZqE) | 4:48 | 2022-01-28 | 2022-05-20 |
+| [Misery Eternal](https://open.spotify.com/track/6o58ghU9lr29HIojmWqoVF) | [Reminitions](https://open.spotify.com/artist/02Y2TRv2FeIzVieVOoaIRB), [Late 9](https://open.spotify.com/artist/07du8MUEUnqRsf0zjIDBup) | [Misery Eternal](https://open.spotify.com/album/5xfr42OlCFI8PaEs8YElqD) | 3:33 | 2025-06-06 |  |
 | [Mojave Repressions](https://open.spotify.com/track/5wnV8Xgk0EZvpObhpY4ukb) | [Merrow](https://open.spotify.com/artist/6lMwUV4nVScxzSAQYX4JNF) | [Mojave Repressions](https://open.spotify.com/album/0Lnn1lxdvapbmEEOHbCBan) | 6:13 | 2022-06-17 | 2022-07-25 |
 | [Mother's Repine](https://open.spotify.com/track/1IbQy1zPX2AWcroG1mpTJD) | [Jackson Rose](https://open.spotify.com/artist/0P1li4GURXaPNnFwVSZzHx), [HVLFERN](https://open.spotify.com/artist/2abgw2pdmr4wTmWTksYfkn), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs) | [Mother's Repine](https://open.spotify.com/album/3L1lsCwUm2rIXFhh36Tx5n) | 3:34 | 2022-05-13 | 2025-01-18 |
 | [Mournful Benediction \(feat\. Ben Duerr\)](https://open.spotify.com/track/6gij4IsYFTkgiNuDiMHjsl) | [A Wake in Providence](https://open.spotify.com/artist/60HAu8nsOGLPFtOOvar9wa), [Ben Duerr](https://open.spotify.com/artist/7a1cpOUMFElbFHwLsArfEp) | [Mournful Benediction \(feat\. Ben Duerr\)](https://open.spotify.com/album/5jwvhbhjLUy5wePrQCQDY1) | 6:20 | 2024-06-10 | 2025-01-18 |

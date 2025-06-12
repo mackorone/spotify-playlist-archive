@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchirPPLF8A7.md) - [plain]
 
 > Listen to the music from and inspired by Scott Pilgrim Takes Off, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,447 likes - 76 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,474 likes - 76 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

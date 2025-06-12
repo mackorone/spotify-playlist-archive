@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: Lisi
 
-1,209 songs - 2 day 8 hr 15 min
+1,210 songs - 2 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [DINERO](https://open.spotify.com/track/1XwgW1GlujLIr4VywyjyMo) | [Saitxero](https://open.spotify.com/artist/7eAziNg8S3NJiBsGCXjYbF) | [DINERO](https://open.spotify.com/album/5FUbjirtgcdkwLGqIONS4d) | 2:25 | 2022-09-08 | 2022-12-09 |
 | [DIRECTIONS](https://open.spotify.com/track/5i3HrRfp6MLIsWSUrPmPGI) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [DIRECTIONS](https://open.spotify.com/album/1iMQhjN7Jt8fhkf47pLYh3) | 3:02 | 2024-12-05 | 2025-05-02 |
 | [Dirty Money Aroma](https://open.spotify.com/track/1nWPzkSN4LjJsAsUVTA65A) | [That Kid Kearve](https://open.spotify.com/artist/6XBbh6vh6VvVIPlebmPPLR) | [Dirty Money Aroma](https://open.spotify.com/album/7k4J4JCrDQpk43voxV7rKH) | 3:11 | 2025-02-20 |  |
+| [Distant Strangers \(feat\. The Kid Laroi & Imogen Heap\)](https://open.spotify.com/track/7oa9VKcTKyWIYTnaz5V6xI) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Distant Strangers \(feat\. The Kid Laroi & Imogen Heap\)](https://open.spotify.com/album/1cwp5FEVGQaKoBV1WPbIdJ) | 2:45 | 2025-06-11 |  |
 | [Divinely Guided](https://open.spotify.com/track/0ywbc1relGaJpl43jX8ILg) | [Jaden Wakefield](https://open.spotify.com/artist/5qYON9aycMnuJ8FabAgoyf), [Busty](https://open.spotify.com/artist/3Qm7e7t9J4v9tRIQkcmuUZ) | [Divinely Guided](https://open.spotify.com/album/0S2qNiiDvTmrstbJZC6bft) | 2:43 | 2024-07-12 | 2024-11-08 |
 | [Djabuganydji Bama \- NERVE REMIX](https://open.spotify.com/track/6RGUXlSA1e2v0eep9UNpg9) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN), [KDA Crew](https://open.spotify.com/artist/5W70OHqfaGNzpLkCCSShFY), [Desert Pea Media](https://open.spotify.com/artist/4o0vFBJUhSlBthmrwnHMLN) | [Djabuganydji Bama \(NERVE REMIX\)](https://open.spotify.com/album/66BHY62FENAPwNe38pfFBh) | 3:28 | 2023-01-05 | 2023-03-10 |
 | [Do it up](https://open.spotify.com/track/4py6nUdXXfh4yLUKOE4Kq9) | [Lukan Raisey](https://open.spotify.com/artist/0bwxbNKufvEMi1wcb5dkMR) | [Do it up](https://open.spotify.com/album/4x0sb9xWRqniuqGA07xz7j) | 3:30 | 2024-02-15 | 2024-04-26 |

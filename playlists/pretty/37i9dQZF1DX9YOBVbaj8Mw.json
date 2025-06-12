@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 17662,
+  "num_followers": 17659,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -287,26 +287,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "W ZWI\u0104ZKU Z MUZYK\u0104",
-        "url": "https://open.spotify.com/album/2yVDUnBqTF1sQ0SmUqEezy"
-      },
-      "artists": [
-        {
-          "name": "Sobel",
-          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
-        },
-        {
-          "name": "Deemz",
-          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
-        }
-      ],
-      "duration_ms": 202054,
-      "name": "MAMA POWTARZA\u0141A",
-      "url": "https://open.spotify.com/track/5y0CCj9ENhM4G3gebGlnzb"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "TTHE GRIND",
         "url": "https://open.spotify.com/album/4Y8udVOO6op71DcUdwtMtP"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 156387,
       "name": "RAP",
       "url": "https://open.spotify.com/track/1F7O4MZUE2VZdJ9QbS0qB7"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "W ZWI\u0104ZKU Z MUZYK\u0104",
+        "url": "https://open.spotify.com/album/2yVDUnBqTF1sQ0SmUqEezy"
+      },
+      "artists": [
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        }
+      ],
+      "duration_ms": 202054,
+      "name": "MAMA POWTARZA\u0141A",
+      "url": "https://open.spotify.com/track/5y0CCj9ENhM4G3gebGlnzb"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -387,6 +387,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Ta druga",
+        "url": "https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM"
+      },
+      "artists": [
+        {
+          "name": "Ka\u015bka Sochacka",
+          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
+        }
+      ],
+      "duration_ms": 245223,
+      "name": "Madison",
+      "url": "https://open.spotify.com/track/2GT3IFON9fMLf0VFriNn9r"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "W ZWI\u0104ZKU Z MUZYK\u0104",
         "url": "https://open.spotify.com/album/2yVDUnBqTF1sQ0SmUqEezy"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 193547,
       "name": "SEXTAPE",
       "url": "https://open.spotify.com/track/6Gr7l8WMHK2d9t1yKOfqvM"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Ta druga",
-        "url": "https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM"
-      },
-      "artists": [
-        {
-          "name": "Ka\u015bka Sochacka",
-          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
-        }
-      ],
-      "duration_ms": 245223,
-      "name": "Madison",
-      "url": "https://open.spotify.com/track/2GT3IFON9fMLf0VFriNn9r"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -599,6 +599,26 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Recut",
+        "url": "https://open.spotify.com/album/5vJeXyvdrDhN91UZd1tmQ7"
+      },
+      "artists": [
+        {
+          "name": "Skalpel",
+          "url": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
+        },
+        {
+          "name": "Pejza\u017c",
+          "url": "https://open.spotify.com/artist/5PWnUGbA3SNGNE7U9YPnXH"
+        }
+      ],
+      "duration_ms": 250431,
+      "name": "Together - Pejza\u017c Remix",
+      "url": "https://open.spotify.com/track/6kVLk2VH5SxaOA3RRFrLt7"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "BIA\u0141E SZALE\u0143STWO",
         "url": "https://open.spotify.com/album/1lWO1MS6sDfQ8OcITjSCX9"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 154886,
       "name": "TYLE MAM",
       "url": "https://open.spotify.com/track/4vpLSrS5KA9okRlGfgukIv"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Recut",
-        "url": "https://open.spotify.com/album/5vJeXyvdrDhN91UZd1tmQ7"
-      },
-      "artists": [
-        {
-          "name": "Skalpel",
-          "url": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
-        },
-        {
-          "name": "Pejza\u017c",
-          "url": "https://open.spotify.com/artist/5PWnUGbA3SNGNE7U9YPnXH"
-        }
-      ],
-      "duration_ms": 250431,
-      "name": "Together - Pejza\u017c Remix",
-      "url": "https://open.spotify.com/track/6kVLk2VH5SxaOA3RRFrLt7"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Live 2021",
-        "url": "https://open.spotify.com/album/13kknTdU4y2kcRci2KApiN"
-      },
-      "artists": [
-        {
-          "name": "TSA",
-          "url": "https://open.spotify.com/artist/1lf4FrrTMK1QsbXa4wrqZV"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "Jestem g\u0142odny",
-      "url": "https://open.spotify.com/track/6qaBioF12imgy5o5uzfXMg"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Nie Ma Ziemi Nad Kujawy",
         "url": "https://open.spotify.com/album/3Yetr37XtgaMsCca678e0j"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 107826,
       "name": "Oberek Kujawski Ze Szwankowa",
       "url": "https://open.spotify.com/track/1dxEGtUNbugW6w4c1AXN1p"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Live 2021",
+        "url": "https://open.spotify.com/album/13kknTdU4y2kcRci2KApiN"
+      },
+      "artists": [
+        {
+          "name": "TSA",
+          "url": "https://open.spotify.com/artist/1lf4FrrTMK1QsbXa4wrqZV"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "Jestem g\u0142odny",
+      "url": "https://open.spotify.com/track/6qaBioF12imgy5o5uzfXMg"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Rugs / Carpets",
-        "url": "https://open.spotify.com/album/2lAkcayHkpOwdDzyVHrKxk"
-      },
-      "artists": [
-        {
-          "name": "Tymek Papior",
-          "url": "https://open.spotify.com/artist/4Md0g2WKat1VqfXvOjaIjt"
-        }
-      ],
-      "duration_ms": 312842,
-      "name": "Tear",
-      "url": "https://open.spotify.com/track/6zjdgDTLPzSCZdLwYQVIiF"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Come back...",
         "url": "https://open.spotify.com/album/6admD4ZvV7VDYrJZ6jNE7v"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 363312,
       "name": "Boozing",
       "url": "https://open.spotify.com/track/2NZeUYUdcNljussjj0rkvZ"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Rugs / Carpets",
+        "url": "https://open.spotify.com/album/2lAkcayHkpOwdDzyVHrKxk"
+      },
+      "artists": [
+        {
+          "name": "Tymek Papior",
+          "url": "https://open.spotify.com/artist/4Md0g2WKat1VqfXvOjaIjt"
+        }
+      ],
+      "duration_ms": 312842,
+      "name": "Tear",
+      "url": "https://open.spotify.com/track/6zjdgDTLPzSCZdLwYQVIiF"
     },
     {
       "added_at": "2025-04-06 08:27:45",

@@ -1,6 +1,6 @@
 {
   "description": "Entre estrellas pop y el auge del grunge, en Argentina, detr\u00e1s de Dynamo floreci\u00f3 el nuevo rock argentino. Sonido alternativo y vanguardista. Foto: <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz\">Babas\u00f3nicos</a>",
-  "num_followers": 17271,
+  "num_followers": 17274,
   "original_name": "Rock S\u00f3nico",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
-        "name": "Excursiones",
-        "url": "https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx"
-      },
-      "artists": [
-        {
-          "name": "Suarez",
-          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
-        }
-      ],
-      "duration_ms": 248706,
-      "name": "Tarde de Cansancio",
-      "url": "https://open.spotify.com/track/5KjdESqDmt86SLyergPpQX"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
         "name": "Emporio Bizarro",
         "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 169026,
       "name": "Desaparecedor",
       "url": "https://open.spotify.com/track/6ohy3zxxhD0G7Fcj7PGqjw"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
+        "name": "Excursiones",
+        "url": "https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx"
+      },
+      "artists": [
+        {
+          "name": "Suarez",
+          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
+        }
+      ],
+      "duration_ms": 248706,
+      "name": "Tarde de Cansancio",
+      "url": "https://open.spotify.com/track/5KjdESqDmt86SLyergPpQX"
     },
     {
       "added_at": "2024-03-25 13:44:27",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
+        "name": "Megaton",
+        "url": "https://open.spotify.com/album/6uunmDcnq6AuMnJuqA4Wgn"
+      },
+      "artists": [
+        {
+          "name": "Santos Inocentes",
+          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
+        }
+      ],
+      "duration_ms": 269240,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/3wcqKfSbekpAc0j3zUDb2c"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
         "name": "Dale Aborigen",
         "url": "https://open.spotify.com/album/6TAMJC8XUIxWIKaWBIgn8h"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 191000,
       "name": "Mate",
       "url": "https://open.spotify.com/track/38qMdBT2CM35RT35f5FOUE"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
-        "name": "Emporio Bizarro",
-        "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
-      },
-      "artists": [
-        {
-          "name": "Santos Inocentes",
-          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
-        }
-      ],
-      "duration_ms": 234613,
-      "name": "Microman",
-      "url": "https://open.spotify.com/track/4YPzD1BIdoPdblMUth4yzj"
     },
     {
       "added_at": "2024-03-25 13:44:27",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-03-25 13:44:27",
       "album": {
+        "name": "Emporio Bizarro",
+        "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
+      },
+      "artists": [
+        {
+          "name": "Santos Inocentes",
+          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
+        }
+      ],
+      "duration_ms": 234613,
+      "name": "Microman",
+      "url": "https://open.spotify.com/track/4YPzD1BIdoPdblMUth4yzj"
+    },
+    {
+      "added_at": "2024-03-25 13:44:27",
+      "album": {
         "name": "A Un Mill\u00f3n De A\u00f1os Blues",
         "url": "https://open.spotify.com/album/3MCGoXzDyQPl6rvbFwerHI"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 167133,
       "name": "Pr\u00edncipe Oscuro",
       "url": "https://open.spotify.com/track/42tVa3K9P6LrWxCStRlVXL"
-    },
-    {
-      "added_at": "2024-03-25 13:44:27",
-      "album": {
-        "name": "Megaton",
-        "url": "https://open.spotify.com/album/6uunmDcnq6AuMnJuqA4Wgn"
-      },
-      "artists": [
-        {
-          "name": "Santos Inocentes",
-          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
-        }
-      ],
-      "duration_ms": 269240,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/3wcqKfSbekpAc0j3zUDb2c"
     },
     {
       "added_at": "2024-03-25 13:44:27",

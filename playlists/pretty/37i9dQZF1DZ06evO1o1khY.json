@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 38429,
+  "num_followers": 38476,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEYkAAAAAADac502pk+Dwbz9/nhO1orT",
+  "snapshot_id": "aEd1gAAAAAC6x5ZWieMValjYd7DOVCet",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dlow Curry",
-        "url": "https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4"
+        "name": "Typa",
+        "url": "https://open.spotify.com/album/296t8NLKxtLZ8jBOa0eGSY"
       },
       "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 229745,
-      "name": "Shake Dat Ass (Twerk Song) (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/6s1O3pFjN8aDUnooppKDmP"
+      "duration_ms": 124137,
+      "name": "Typa",
+      "url": "https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1"
     },
     {
       "added_at": null,
@@ -207,6 +203,26 @@
       "duration_ms": 155200,
       "name": "LET HER COOK",
       "url": "https://open.spotify.com/track/1nF1SpkNfgPPozcXh2hvGU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dlow Curry",
+        "url": "https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 229745,
+      "name": "Shake Dat Ass (Twerk Song) (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/6s1O3pFjN8aDUnooppKDmP"
     },
     {
       "added_at": null,
@@ -251,22 +267,6 @@
       "duration_ms": 202285,
       "name": "BOP (feat. GloRilla)",
       "url": "https://open.spotify.com/track/0mpDXW1y4X7MlyPecWAlzJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Typa",
-        "url": "https://open.spotify.com/album/296t8NLKxtLZ8jBOa0eGSY"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 124137,
-      "name": "Typa",
-      "url": "https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1"
     },
     {
       "added_at": null,

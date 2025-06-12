@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=xhSC5\_ylRBGOp8h5jv25BQ">Joel Lwaga</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,127 likes - 100 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,157 likes - 100 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 99 | [Atafanya](https://open.spotify.com/track/6GVCASJsB3ly7jfatlcuUg) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Atafanya](https://open.spotify.com/album/4d2RvpianFuxJcnxLykgGJ) | 3:49 |
 | 100 | [Tumaini \(Marcus’ Song\)](https://open.spotify.com/track/0f5vsYCSrUx8Xwa0y2uVcZ) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz), [Living Room Music](https://open.spotify.com/artist/1TDqdNBjbB5PUcDijQwUrl), [Evans Simali](https://open.spotify.com/artist/7AxxItu1zQrLt7nHnMCfxJ) | [Tumaini \(Marcus’ Song\)](https://open.spotify.com/album/2mMuSGaLAtrZtpyzLkScOt) | 3:25 |
 
-Snapshot ID: `AAAAAM97vQcx7DOies9r/CywvlychJyE`
+Snapshot ID: `aERBqAAAAAAZ/IIyAvPEYmKKDWF/1RnU`

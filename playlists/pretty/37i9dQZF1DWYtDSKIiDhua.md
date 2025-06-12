@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: Jackson Wang
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,688 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,703 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 5 | [Accolade](https://open.spotify.com/track/08QfvEo1qUoLLczFK7VeU3) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Accolade](https://open.spotify.com/album/286mHJMHG1dAdc1Q9nXwAl) | 3:17 |
 | 6 | [PAST MISTAKES](https://open.spotify.com/track/2N9Zf42PKiNx1pcZEsnadd) | [antransax](https://open.spotify.com/artist/3E3VtUZsU5Ci439SjOdCd0) | [AGAIN](https://open.spotify.com/album/6FPLfO0fYB3dITCZCLIu7w) | 2:50 |
 | 7 | [Can't Fool Nobody](https://open.spotify.com/track/6BES4i6n1G4ajQch7vwojn) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Can't Fool Nobody](https://open.spotify.com/album/6sxIoXM9ckMXRBrAavJGWZ) | 2:34 |
-| 8 | [I Don't Want To Write A Long Song](https://open.spotify.com/track/2woNcJkXnaNwBe1ge6EiBY) | [Powloh](https://open.spotify.com/artist/1k6pzQFm9xjWETHy8Gv7OA) | [I Don't Want To Write A Long Song](https://open.spotify.com/album/2YzWVdFuM0jrmoLmR82iMg) | 3:36 |
+| 8 | [I Don't Want To Write A Love Song](https://open.spotify.com/track/2woNcJkXnaNwBe1ge6EiBY) | [Powloh](https://open.spotify.com/artist/1k6pzQFm9xjWETHy8Gv7OA) | [I Don't Want To Write A Love Song](https://open.spotify.com/album/2YzWVdFuM0jrmoLmR82iMg) | 3:36 |
 | 9 | [Mercy](https://open.spotify.com/track/0GsVREyX9rAYrCOFLv32G5) | [Shan Capri](https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr) | [Mercy](https://open.spotify.com/album/3sBod361N3F0oYF7wexyav) | 2:03 |
 | 10 | [intuition](https://open.spotify.com/track/0PYSOQ5lB21W59L5xQ8P1C) | [gels](https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf) | [intuition](https://open.spotify.com/album/2skKy8ko4caAopJQlqP6FV) | 3:02 |
 | 11 | [Chamomiles Away](https://open.spotify.com/track/0srzm5P2cYSYUE484Tn11J) | [Jasmine High](https://open.spotify.com/artist/2V64pi7zW8uQlK0ZQhpN9r) | [Chamomiles Away](https://open.spotify.com/album/54rWyI0cetaPKBpE6Ri7IB) | 3:28 |

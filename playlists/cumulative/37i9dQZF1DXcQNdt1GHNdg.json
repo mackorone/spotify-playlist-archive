@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Moose Print",
+        "url": "https://open.spotify.com/album/2MuQAMXZxuEkx6bHDl439k"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "Jenny Johal",
+          "url": "https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd"
+        },
+        {
+          "name": "The Kidd",
+          "url": "https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132334,
+      "name": "0008",
+      "url": "https://open.spotify.com/track/5C3caQlYqE3Z6jcyRTtfME"
+    },
+    {
+      "album": {
         "name": "10 Bande",
         "url": "https://open.spotify.com/album/5zpxoPuMHZIOYBoJjl1oO7"
       },
@@ -108,7 +134,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 141083,
       "name": "12 Bore",
       "url": "https://open.spotify.com/track/4spabAzmxykhdHZtRPdfiS"
@@ -2825,6 +2851,36 @@
     },
     {
       "album": {
+        "name": "Lala Lala (From \"Pendu Boyz\")",
+        "url": "https://open.spotify.com/album/5Yk0rRxEg5OZ6NdKzgJhoP"
+      },
+      "artists": [
+        {
+          "name": "Pendu Boyz",
+          "url": "https://open.spotify.com/artist/77gJmotGj52JsPMGuFuvBW"
+        },
+        {
+          "name": "Davi Singh",
+          "url": "https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0"
+        },
+        {
+          "name": "Jasmeen Akhtar",
+          "url": "https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C"
+        },
+        {
+          "name": "JAGDEEEP SANGALA",
+          "url": "https://open.spotify.com/artist/0uNWUtyWGwhQ2W13L27QW9"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186033,
+      "name": "Lala Lala (From \"Pendu Boyz\")",
+      "url": "https://open.spotify.com/track/653UZrrf8AVwDqxhvraES4"
+    },
+    {
+      "album": {
         "name": "Experimento",
         "url": "https://open.spotify.com/album/0wCgNMAaF9k3OUTRIIgcZY"
       },
@@ -3236,7 +3292,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 128274,
       "name": "Naam Jatt Da",
       "url": "https://open.spotify.com/track/6TjqQuqXmXOfHIsCcYvBaI"

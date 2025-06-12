@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEYkAAAAAAAbJy1upfzExRCKKERZZjUL",
+  "snapshot_id": "aEd1gAAAAADp0W4+tOeYLbx75ksqHViO",
   "tracks": [
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mind The Moon",
-        "url": "https://open.spotify.com/album/3msNbiI057b6ypzeOTjgxJ"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        },
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 231893,
-      "name": "Eden's House",
-      "url": "https://open.spotify.com/track/74nPMKhOnrBnFhYNfq3gDI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Listen",
         "url": "https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 238346,
       "name": "Lift Me Up (feat. Nico & Vinz, Ladysmith Black Mambazo)",
       "url": "https://open.spotify.com/track/2YgD8aDme4OP5kPIp7PCZy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mind The Moon",
+        "url": "https://open.spotify.com/album/3msNbiI057b6ypzeOTjgxJ"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 231893,
+      "name": "Eden's House",
+      "url": "https://open.spotify.com/track/74nPMKhOnrBnFhYNfq3gDI"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shaka Zulu",
+        "url": "https://open.spotify.com/album/6BqoNCQsupSaLBkl8u1uME"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "King of Kings",
+      "url": "https://open.spotify.com/track/24xmFCREF5JiqKBhLHqgKL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ezinkulu",
         "url": "https://open.spotify.com/album/5w7fCN6djX1UXL1rTG9Rnh"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 240160,
       "name": "Amagugu",
       "url": "https://open.spotify.com/track/4Yr0GLFCwZAyIV8WjYYXRk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shaka Zulu",
-        "url": "https://open.spotify.com/album/6BqoNCQsupSaLBkl8u1uME"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "King of Kings",
-      "url": "https://open.spotify.com/track/24xmFCREF5JiqKBhLHqgKL"
     },
     {
       "added_at": null,
@@ -731,30 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/6E6fumzB50Dwmzc7MUkXuC"
-      },
-      "artists": [
-        {
-          "name": "Josh Groban",
-          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
-        },
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        },
-        {
-          "name": "Vusi Mahlasela",
-          "url": "https://open.spotify.com/artist/7tUdxVCUWjTPf3Ic90eWDJ"
-        }
-      ],
-      "duration_ms": 284013,
-      "name": "Weeping (with Ladysmith Black Mambazo & Vusi Mahlasela)",
-      "url": "https://open.spotify.com/track/1nTIMFZ6rD8BRe2HvXZrph"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ezinkulu",
         "url": "https://open.spotify.com/album/5w7fCN6djX1UXL1rTG9Rnh"
       },
@@ -767,26 +743,6 @@
       "duration_ms": 291920,
       "name": "Bamnqobile",
       "url": "https://open.spotify.com/track/3FTyDZ9W072Lqq31ZM8zys"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Treasures",
-        "url": "https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 280333,
-      "name": "Peace Train/Isitimela Sokuthula",
-      "url": "https://open.spotify.com/track/6RNhExU4CmhSEaHPjIMls9"
     },
     {
       "added_at": null,
@@ -811,6 +767,50 @@
       "duration_ms": 235179,
       "name": "Awu Wemadoda - Club Mix",
       "url": "https://open.spotify.com/track/2GlEeBVT9pTy2Kqoeq48dP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/6E6fumzB50Dwmzc7MUkXuC"
+      },
+      "artists": [
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        },
+        {
+          "name": "Vusi Mahlasela",
+          "url": "https://open.spotify.com/artist/7tUdxVCUWjTPf3Ic90eWDJ"
+        }
+      ],
+      "duration_ms": 284013,
+      "name": "Weeping (with Ladysmith Black Mambazo & Vusi Mahlasela)",
+      "url": "https://open.spotify.com/track/1nTIMFZ6rD8BRe2HvXZrph"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Treasures",
+        "url": "https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 280333,
+      "name": "Peace Train/Isitimela Sokuthula",
+      "url": "https://open.spotify.com/track/6RNhExU4CmhSEaHPjIMls9"
     },
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Concert in Hyde Park",
-        "url": "https://open.spotify.com/album/1gC1DUPevviDhQ7hnmTZ89"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        },
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 389800,
-      "name": "Diamonds on the Soles of Her Shoes (with Ladysmith Black Mambazo) - Live at Hyde Park, London, UK - July 2012",
-      "url": "https://open.spotify.com/track/4XcXpnbNeYom3p24r29NLG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sesame Street: Jim Henson: A Sesame Street Celebration, Vol. 2",
         "url": "https://open.spotify.com/album/4WYTk7iadQtxiFryOKHM7W"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 113313,
       "name": "African Alphabet",
       "url": "https://open.spotify.com/track/3O5q4MvQzxYYzjRLchIOYi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Concert in Hyde Park",
+        "url": "https://open.spotify.com/album/1gC1DUPevviDhQ7hnmTZ89"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 389800,
+      "name": "Diamonds on the Soles of Her Shoes (with Ladysmith Black Mambazo) - Live at Hyde Park, London, UK - July 2012",
+      "url": "https://open.spotify.com/track/4XcXpnbNeYom3p24r29NLG"
     }
   ],
   "unique_name": "This Is Ladysmith Black Mambazo",

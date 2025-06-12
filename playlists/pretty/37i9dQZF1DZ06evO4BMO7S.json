@@ -1,13 +1,29 @@
 {
   "description": "This is Japanese Breakfast. The essential tracks, all in one playlist.",
-  "num_followers": 21607,
+  "num_followers": 21626,
   "original_name": "This Is Japanese Breakfast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEYkAAAAAACdz88mr1QQTOOqTwO0gtGc",
+  "snapshot_id": "aEd1gAAAAAAPj0k36uWeZvu9Bg2raAuq",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Baby (Got Nothing At All) (Materialists Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ykmfDC5Y89gnzQYE8oPIu"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "My Baby (Got Nothing At All) (Materialists Original Soundtrack)",
+      "url": "https://open.spotify.com/track/6P0bG1wDbLvs8kNJV4hQUt"
+    },
     {
       "added_at": null,
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: RADIOCRIMEN y Envidia Kotxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,183 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,178 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,19 +79,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 69 | [Borratxos y Orgullosos](https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc) | [Josetxu Piperrak & The Riber Rock Band](https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG) | [Borratxos y Orgullosos](https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE) | 3:43 |
 | 70 | [Yo Soy Aquel](https://open.spotify.com/track/17uv9rAMfpwfluvH7nDG9I) | [Engaño Manifiesto](https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c) | [Yo Soy Aquel](https://open.spotify.com/album/7LS6h2qgq2smyc3dVEiEMD) | 2:19 |
 | 71 | [Don de Gentes](https://open.spotify.com/track/5lAP82kfLoBEr2jwjFtWPI) | [Malos Vicios](https://open.spotify.com/artist/3CC52A7QKNPvnXnjykRo4x), [Ni por favor ni ostias](https://open.spotify.com/artist/3ECXcpeE3Hl981IZEszU0g) | [Don de Gentes](https://open.spotify.com/album/0lKo2r1xkSLic09lWCbY5H) | 3:17 |
-| 72 | [Preso](https://open.spotify.com/track/5Kwgfdhm7ZG4F1KrRIdHMu) | [En Vano](https://open.spotify.com/artist/6D7YCAhBO7dD77ld8CkbDc) | [Preso](https://open.spotify.com/album/6s0eUzUmgVhN4xkyUwk5F2) | 3:39 |
-| 73 | [La Gente Sale a Divertirse](https://open.spotify.com/track/5AptynwS8pv2wZP23Y8cUk) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX) | [La Gente Sale a Divertirse](https://open.spotify.com/album/7mY7oFu1Gf6lLuJbgO887K) | 2:09 |
-| 74 | [Si Te Coge Greta Thunberg](https://open.spotify.com/track/19pVQCrYaAOwQLFmshUrLH) | [Los Pelukeros de Punset](https://open.spotify.com/artist/6juxKdApXKZBmcsINhuCb5), [Catalina Grande Piñón Pequeño](https://open.spotify.com/artist/701mxW0iFERrJuhfNebtL3) | [Si Te Coge Greta Thunberg](https://open.spotify.com/album/74ErpDzlO2IjF78JLJbOpV) | 2:30 |
+| 72 | [Si Te Coge Greta Thunberg](https://open.spotify.com/track/19pVQCrYaAOwQLFmshUrLH) | [Los Pelukeros de Punset](https://open.spotify.com/artist/6juxKdApXKZBmcsINhuCb5), [Catalina Grande Piñón Pequeño](https://open.spotify.com/artist/701mxW0iFERrJuhfNebtL3) | [Si Te Coge Greta Thunberg](https://open.spotify.com/album/74ErpDzlO2IjF78JLJbOpV) | 2:30 |
+| 73 | [Preso](https://open.spotify.com/track/5Kwgfdhm7ZG4F1KrRIdHMu) | [En Vano](https://open.spotify.com/artist/6D7YCAhBO7dD77ld8CkbDc) | [Preso](https://open.spotify.com/album/6s0eUzUmgVhN4xkyUwk5F2) | 3:39 |
+| 74 | [La Gente Sale a Divertirse](https://open.spotify.com/track/5AptynwS8pv2wZP23Y8cUk) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX) | [La Gente Sale a Divertirse](https://open.spotify.com/album/7mY7oFu1Gf6lLuJbgO887K) | 2:09 |
 | 75 | [Nada es Suficiente](https://open.spotify.com/track/2rZmxb5wBFO7kxJ54IjqGL) | [Vómito](https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr) | [Nada es Suficiente](https://open.spotify.com/album/2NhOhtZPrHXlMrT38vMyvA) | 3:32 |
-| 76 | [Mundo de Cristal](https://open.spotify.com/track/6dPn0p47M5HxVaAZlXH3rg) | [Nervio](https://open.spotify.com/artist/1R2eVRmyJMD00TKq3uNMCz) | [Mundo de Cristal](https://open.spotify.com/album/1nAIRZ7iXX2RknnfSSswKf) | 2:38 |
-| 77 | [El Incendio](https://open.spotify.com/track/5hK1Fl7rgETlW6Xsop2ay0) | [El Flacotirador](https://open.spotify.com/artist/0iZeqWwJjhv5UN0LKxyfDq) | [El Incendio](https://open.spotify.com/album/67fdGZ8kyZ4py6tP8RoSuc) | 3:43 |
+| 76 | [El Incendio](https://open.spotify.com/track/5hK1Fl7rgETlW6Xsop2ay0) | [El Flacotirador](https://open.spotify.com/artist/0iZeqWwJjhv5UN0LKxyfDq) | [El Incendio](https://open.spotify.com/album/67fdGZ8kyZ4py6tP8RoSuc) | 3:43 |
+| 77 | [Mundo de Cristal](https://open.spotify.com/track/6dPn0p47M5HxVaAZlXH3rg) | [Nervio](https://open.spotify.com/artist/1R2eVRmyJMD00TKq3uNMCz) | [Mundo de Cristal](https://open.spotify.com/album/1nAIRZ7iXX2RknnfSSswKf) | 2:38 |
 | 78 | [Mi Primer Amor](https://open.spotify.com/track/2oRmhBSPhWNScSkwR7x8xi) | [Piperrak](https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou) | [Arde Ribera](https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s) | 2:50 |
 | 79 | [Y Tú No Estás \- En vivo](https://open.spotify.com/track/1SWereOUmD6DDH6Rtg6TDN) | [Dalevuelta](https://open.spotify.com/artist/5FPECJinU114WvHBDdFbCJ) | [Fuimos Lo Que Somos \(En vivo\)](https://open.spotify.com/album/5P9Onh8tFFqXdeEHiS2P3L) | 2:20 |
 | 80 | [Arguiñano Eta](https://open.spotify.com/track/2OMglONIz0gKFC0cKAiwmO) | [El Esfinter de la Britney](https://open.spotify.com/artist/40mgPMNVyvF9iyljXDqo2N) | [Arguiñano Eta](https://open.spotify.com/album/7wcSeTVttIdwtrRcH4tdAP) | 1:48 |
-| 81 | [Insolente](https://open.spotify.com/track/3kPfpAXC0jv4ygeEmGRvfG) | [Vómito](https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr) | [Insolente](https://open.spotify.com/album/6fknpxNtfzKeGqp5XGNHq8) | 3:52 |
-| 82 | [Carnets de Punk](https://open.spotify.com/track/4RxLQ2KJwc4wWzsqXrpls4) | [Crim](https://open.spotify.com/artist/2p7rRgVQsbzdA8zkpb83Q2) | [Carnets de Punk](https://open.spotify.com/album/4FjpSTt120gOFef0tQxn3y) | 2:31 |
-| 83 | [Salomé](https://open.spotify.com/track/582zJuJGv7vdEfG1lmmwZk) | [Afónica Naranjo](https://open.spotify.com/artist/31m17aNHvEGETXMWWKw1XC) | [Salomé](https://open.spotify.com/album/3Nto07Udigz5f1Dpv8dnco) | 3:05 |
-| 84 | [Bocanegra](https://open.spotify.com/track/1RoaUGeSpZek9yCUvtzCLk) | [Ojos Pochos](https://open.spotify.com/artist/6CV8tsJ44anEaCwVm7pWk8) | [Bocanegra](https://open.spotify.com/album/7vjwT72CwSFXted75UmD1h) | 2:31 |
+| 81 | [Bocanegra](https://open.spotify.com/track/1RoaUGeSpZek9yCUvtzCLk) | [Ojos Pochos](https://open.spotify.com/artist/6CV8tsJ44anEaCwVm7pWk8) | [Bocanegra](https://open.spotify.com/album/7vjwT72CwSFXted75UmD1h) | 2:31 |
+| 82 | [Insolente](https://open.spotify.com/track/3kPfpAXC0jv4ygeEmGRvfG) | [Vómito](https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr) | [Insolente](https://open.spotify.com/album/6fknpxNtfzKeGqp5XGNHq8) | 3:52 |
+| 83 | [Carnets de Punk](https://open.spotify.com/track/4RxLQ2KJwc4wWzsqXrpls4) | [Crim](https://open.spotify.com/artist/2p7rRgVQsbzdA8zkpb83Q2) | [Carnets de Punk](https://open.spotify.com/album/4FjpSTt120gOFef0tQxn3y) | 2:31 |
+| 84 | [Salomé](https://open.spotify.com/track/582zJuJGv7vdEfG1lmmwZk) | [Afónica Naranjo](https://open.spotify.com/artist/31m17aNHvEGETXMWWKw1XC) | [Salomé](https://open.spotify.com/album/3Nto07Udigz5f1Dpv8dnco) | 3:05 |
 | 85 | [DES0KUPA](https://open.spotify.com/track/5UyFdKSTKokWO4xtesk7D4) | [LUCY](https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso) | [DES0KUPA](https://open.spotify.com/album/2Q0d5XA1ZeJOG6NbfLhjKI) | 2:27 |
 | 86 | [Escupiré Jodidos](https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [A Cara de Perro](https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN) | 2:45 |
 | 87 | [La locura \- original](https://open.spotify.com/track/4qoiW7KuyMkiShQgZkRGc6) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [Hace falta…?](https://open.spotify.com/album/5t0HwnzCCMGcMmervnzQRY) | 3:53 |

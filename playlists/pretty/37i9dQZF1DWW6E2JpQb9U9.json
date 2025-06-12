@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: El Mat\u00f3 a un Polic\u00eda Motorizado.",
-  "num_followers": 122923,
+  "num_followers": 122937,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2025-05-02 03:00:40",
       "album": {
+        "name": "El Ultimo Concierto B (Remastered)",
+        "url": "https://open.spotify.com/album/0k9Oh11PrdeZ6ngoJGhWMk"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 291373,
+      "name": "De M\u00fasica Ligera - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/3lWvP5u93wOdPlqIydFW7g"
+    },
+    {
+      "added_at": "2025-05-02 03:00:40",
+      "album": {
         "name": "Spinetta y Las Bandas Eternas",
         "url": "https://open.spotify.com/album/3kuu5DGs4n815JjDI5dlNx"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 225906,
       "name": "Bajan (En Vivo Estadio V\u00e9lez Sarsfield) (feat. Gustavo Cerati)",
       "url": "https://open.spotify.com/track/06pjQCIybMiGrgtHODGa2m"
-    },
-    {
-      "added_at": "2025-05-02 03:00:40",
-      "album": {
-        "name": "El Ultimo Concierto B (Remastered)",
-        "url": "https://open.spotify.com/album/0k9Oh11PrdeZ6ngoJGhWMk"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 291373,
-      "name": "De M\u00fasica Ligera - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/3lWvP5u93wOdPlqIydFW7g"
     },
     {
       "added_at": "2025-05-02 03:00:40",
@@ -179,22 +179,18 @@
     {
       "added_at": "2025-05-02 03:00:40",
       "album": {
-        "name": "Spinetta y Las Bandas Eternas",
-        "url": "https://open.spotify.com/album/3kuu5DGs4n815JjDI5dlNx"
+        "name": "Comfort Y Musica Para Volar",
+        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
       },
       "artists": [
         {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        },
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 196453,
-      "name": "T\u00e9 para Tres (En Vivo Estadio V\u00e9lez Sarsfield) (feat. Gustavo Cerati)",
-      "url": "https://open.spotify.com/track/6hFvPLfbASRL6DsRGCercA"
+      "duration_ms": 364493,
+      "name": "Ella Uso Mi Cabeza Como Un Revolver - MTV Unplugged",
+      "url": "https://open.spotify.com/track/00TU7szqwBrxWTd9SO7ihK"
     },
     {
       "added_at": "2025-05-02 03:00:40",
@@ -219,18 +215,22 @@
     {
       "added_at": "2025-05-02 03:00:40",
       "album": {
-        "name": "Comfort Y Musica Para Volar",
-        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
+        "name": "Spinetta y Las Bandas Eternas",
+        "url": "https://open.spotify.com/album/3kuu5DGs4n815JjDI5dlNx"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        },
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 364493,
-      "name": "Ella Uso Mi Cabeza Como Un Revolver - MTV Unplugged",
-      "url": "https://open.spotify.com/track/00TU7szqwBrxWTd9SO7ihK"
+      "duration_ms": 196453,
+      "name": "T\u00e9 para Tres (En Vivo Estadio V\u00e9lez Sarsfield) (feat. Gustavo Cerati)",
+      "url": "https://open.spotify.com/track/6hFvPLfbASRL6DsRGCercA"
     },
     {
       "added_at": "2025-05-02 03:00:40",
@@ -271,22 +271,18 @@
     {
       "added_at": "2025-05-02 03:00:40",
       "album": {
-        "name": "3000 Vivos (En Vivo)",
-        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
+        "name": "Gira Me Ver\u00e1s Volver",
+        "url": "https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        },
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 296120,
-      "name": "Casi Nunca Lo Ves (En Vivo) (feat. Ciro y Los Persas)",
-      "url": "https://open.spotify.com/track/4EbfeFf88tna6YcInp1ugJ"
+      "duration_ms": 225120,
+      "name": "Te Hacen Falta Vitaminas - Me Ver\u00e1s Volver Gira 2007",
+      "url": "https://open.spotify.com/track/3YqOTz8YqRKfxS64GyGUTB"
     },
     {
       "added_at": "2025-05-02 03:00:40",
@@ -307,18 +303,22 @@
     {
       "added_at": "2025-05-02 03:00:40",
       "album": {
-        "name": "Gira Me Ver\u00e1s Volver",
-        "url": "https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC"
+        "name": "3000 Vivos (En Vivo)",
+        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        },
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
         }
       ],
-      "duration_ms": 225120,
-      "name": "Te Hacen Falta Vitaminas - Me Ver\u00e1s Volver Gira 2007",
-      "url": "https://open.spotify.com/track/3YqOTz8YqRKfxS64GyGUTB"
+      "duration_ms": 296120,
+      "name": "Casi Nunca Lo Ves (En Vivo) (feat. Ciro y Los Persas)",
+      "url": "https://open.spotify.com/track/4EbfeFf88tna6YcInp1ugJ"
     },
     {
       "added_at": "2025-05-02 03:00:40",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-05-02 03:00:40",
       "album": {
-        "name": "Ven Aqu\u00ed (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/5eWMfcwxg7jJrftdArP8xu"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 266519,
-      "name": "Ven Aqu\u00ed - MTV Unplugged",
-      "url": "https://open.spotify.com/track/2AUYlk6vKwvvIuzHJCh1v0"
-    },
-    {
-      "added_at": "2025-05-02 03:00:40",
-      "album": {
         "name": "Concierto Obras 30 y 31 Julio, Parte Uno (En Vivo)",
         "url": "https://open.spotify.com/album/7CiCajBytiFZ69hJUny0s4"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 267240,
       "name": "Una Nueva Noche Fria - Vivo - Mezclado y Masterizado 2017",
       "url": "https://open.spotify.com/track/4Fckaw7KFh4qXmwwVp6mDJ"
+    },
+    {
+      "added_at": "2025-05-02 03:00:40",
+      "album": {
+        "name": "Ven Aqu\u00ed (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/5eWMfcwxg7jJrftdArP8xu"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 266519,
+      "name": "Ven Aqu\u00ed - MTV Unplugged",
+      "url": "https://open.spotify.com/track/2AUYlk6vKwvvIuzHJCh1v0"
     },
     {
       "added_at": "2025-05-02 03:00:40",
@@ -815,18 +815,18 @@
     {
       "added_at": "2025-05-02 03:00:40",
       "album": {
-        "name": "El Rock De Mi Vida",
-        "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
+        "name": "Vivo A Contraluz (2004 - 2024)",
+        "url": "https://open.spotify.com/album/2H3UUvqkD0htBViquDV5P6"
       },
       "artists": [
         {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
         }
       ],
-      "duration_ms": 263573,
-      "name": "Reyes de la Noche",
-      "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
+      "duration_ms": 268173,
+      "name": "Zafar - Vivo A Contraluz",
+      "url": "https://open.spotify.com/track/4MdDmZOJv9NDy2oBk01vk2"
     },
     {
       "added_at": "2025-05-02 03:00:40",
@@ -851,18 +851,18 @@
     {
       "added_at": "2025-05-02 03:00:40",
       "album": {
-        "name": "Vivo A Contraluz (2004 - 2024)",
-        "url": "https://open.spotify.com/album/2H3UUvqkD0htBViquDV5P6"
+        "name": "El Rock De Mi Vida",
+        "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
       },
       "artists": [
         {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
         }
       ],
-      "duration_ms": 268173,
-      "name": "Zafar - Vivo A Contraluz",
-      "url": "https://open.spotify.com/track/4MdDmZOJv9NDy2oBk01vk2"
+      "duration_ms": 263573,
+      "name": "Reyes de la Noche",
+      "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
     },
     {
       "added_at": "2025-05-02 03:00:40",
@@ -903,6 +903,22 @@
     {
       "added_at": "2025-05-02 03:00:40",
       "album": {
+        "name": "Pepsi Music 2005",
+        "url": "https://open.spotify.com/album/3tXQQLWOJSgvCHqmGGCd1N"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "El Viejo (En Vivo)",
+      "url": "https://open.spotify.com/track/7dF2tY2XnIJCfAn5xEegm0"
+    },
+    {
+      "added_at": "2025-05-02 03:00:40",
+      "album": {
         "name": "Repuesto de Fe (En Vivo)",
         "url": "https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 311605,
       "name": "De la Guitarra - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/4vBsZW0vafVcFmlG0ooRc4"
-    },
-    {
-      "added_at": "2025-05-02 03:00:40",
-      "album": {
-        "name": "Pepsi Music 2005",
-        "url": "https://open.spotify.com/album/3tXQQLWOJSgvCHqmGGCd1N"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "El Viejo (En Vivo)",
-      "url": "https://open.spotify.com/track/7dF2tY2XnIJCfAn5xEegm0"
     },
     {
       "added_at": "2025-05-02 03:00:40",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-05-02 03:00:40",
       "album": {
-        "name": "Trascenlace (Vivo en Obras)",
-        "url": "https://open.spotify.com/album/3b9dOyIcbeR3847hEt9hVy"
-      },
-      "artists": [
-        {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
-        }
-      ],
-      "duration_ms": 317005,
-      "name": "El Riesgo - Vivo en Obras",
-      "url": "https://open.spotify.com/track/4Jk2hUyD31f1mty7EvWWmj"
-    },
-    {
-      "added_at": "2025-05-02 03:00:40",
-      "album": {
         "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
         "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 212106,
       "name": "Beatle - Ac\u00fastico en Vivo",
       "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
+    },
+    {
+      "added_at": "2025-05-02 03:00:40",
+      "album": {
+        "name": "Trascenlace (Vivo en Obras)",
+        "url": "https://open.spotify.com/album/3b9dOyIcbeR3847hEt9hVy"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "duration_ms": 317005,
+      "name": "El Riesgo - Vivo en Obras",
+      "url": "https://open.spotify.com/track/4Jk2hUyD31f1mty7EvWWmj"
     },
     {
       "added_at": "2025-05-02 03:00:40",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-05-02 03:00:40",
       "album": {
-        "name": "En Vivo en el Teatro \u00d3pera",
-        "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        }
-      ],
-      "duration_ms": 304386,
-      "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
-      "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
-    },
-    {
-      "added_at": "2025-05-02 03:00:40",
-      "album": {
         "name": "En Vivo-Vol.2",
         "url": "https://open.spotify.com/album/5qdC9gg5lgiYpPu9OWUAnw"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 201293,
       "name": "Me Puedo Programar (En Vivo",
       "url": "https://open.spotify.com/track/2R86XvRGehbGtBMJUJDYfC"
+    },
+    {
+      "added_at": "2025-05-02 03:00:40",
+      "album": {
+        "name": "En Vivo en el Teatro \u00d3pera",
+        "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "duration_ms": 304386,
+      "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
+      "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
     },
     {
       "added_at": "2025-05-02 03:00:40",

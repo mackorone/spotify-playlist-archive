@@ -2,7 +2,7 @@
 
 ### [ALL ACCESS DANCE](https://open.spotify.com/playlist/2p24KuIbwho6IKwVb2VYiC)
 
-> The best Dance and EDM tracks right now!
+> The best Dance and EDM tracks right now!  Cover: Martin Garrix &amp; Lauv
 
 329 songs - 17 hr 13 min
 

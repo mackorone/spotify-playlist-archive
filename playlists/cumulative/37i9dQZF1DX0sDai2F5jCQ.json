@@ -480,7 +480,7 @@
           "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
         },
         {
-          "name": "No Malice",
+          "name": "Malice",
           "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
         }
       ],
@@ -3078,6 +3078,32 @@
       "duration_ms": 191454,
       "name": "Dirty Money Aroma",
       "url": "https://open.spotify.com/track/1nWPzkSN4LjJsAsUVTA65A"
+    },
+    {
+      "album": {
+        "name": "Distant Strangers (feat. The Kid Laroi & Imogen Heap)",
+        "url": "https://open.spotify.com/album/1cwp5FEVGQaKoBV1WPbIdJ"
+      },
+      "artists": [
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Distant Strangers (feat. The Kid Laroi & Imogen Heap)",
+      "url": "https://open.spotify.com/track/7oa9VKcTKyWIYTnaz5V6xI"
     },
     {
       "album": {
@@ -8312,7 +8338,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 189281,
       "name": "Phone Call (feat. Mabel)",
       "url": "https://open.spotify.com/track/6W96fdY4F8f7E25vVJ4kMg"
@@ -9572,7 +9598,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 147692,
       "name": "Sleepless Nights",
       "url": "https://open.spotify.com/track/2mAxV39CZxPL2lsBdfXgvh"

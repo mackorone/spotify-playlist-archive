@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Los Jaivas",
+        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223586,
+      "name": "En Tus Horas",
+      "url": "https://open.spotify.com/track/6UVAam0rThCwT8mR30a5mV"
+    },
+    {
+      "album": {
         "name": "Alturas de Macchu Picchu",
         "url": "https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX"
       },
@@ -1304,7 +1322,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 798626,
       "name": "Tarka y Ocarina (Diablada-Trote-Kotaiki)",
       "url": "https://open.spotify.com/track/3sbeeC62ewTzE1ywXAx0WI"

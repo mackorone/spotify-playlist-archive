@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Local artists you need to watch, handpicked by our editors\. Cover: X CLUB.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,812 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,817 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 41 | [Cardio](https://open.spotify.com/track/4tT8aXyeAsrq8MA0VmsjfG) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Cardio](https://open.spotify.com/album/6LnEejBn1JJmNORVS7GPkT) | 2:37 |
 | 42 | [Get Knocked Down](https://open.spotify.com/track/4QCYGQb57NVQvDvG6RKpQV) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Get Knocked Down](https://open.spotify.com/album/366i7YVWV8vUqgciOQSyw4) | 3:40 |
 | 43 | [Share You](https://open.spotify.com/track/7ulE16PJt58DKhD1qRUKv1) | [Bean Magazine](https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152) | [Share You](https://open.spotify.com/album/0kwD3pMz5FwarKsOtHmAll) | 3:21 |
-| 44 | [Are U The One](https://open.spotify.com/track/1rOspz7NK5VCHqAFgtk1VA) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Are U The One](https://open.spotify.com/album/3I0MMEgVylA69wAef3lN0j) | 4:34 |
+| 44 | [Are You The One](https://open.spotify.com/track/1rOspz7NK5VCHqAFgtk1VA) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Are You The One](https://open.spotify.com/album/3I0MMEgVylA69wAef3lN0j) | 4:34 |
 | 45 | [TUNDRA](https://open.spotify.com/track/1kX24LMs0Q1DxFpb10n6qr) | [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX), [Hylander](https://open.spotify.com/artist/00JuW5c5vm2ztgv54DRqF4) | [Vol.1 Learning In Public](https://open.spotify.com/album/5GIiOmeOFqnAFT9SiOes6H) | 3:19 |
 | 46 | [Beheadal](https://open.spotify.com/track/5bUoBZ7LG0A2L9FOsTDjBe) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Beheadal](https://open.spotify.com/album/0q4DKYyoEF0mFREOkPsmbt) | 1:58 |
 | 47 | [look what you're doing to me](https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [look what you're doing to me](https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c) | 4:24 |

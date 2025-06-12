@@ -6,52 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACPDdNvu1or1BiAjtzBMX4L",
+  "snapshot_id": "AAAAAAAAAACF5a75BWE212vBFYVGjji7",
   "tracks": [
-    {
-      "added_at": "2025-06-06 04:00:00",
-      "album": {
-        "name": "Get Bread (Remix)",
-        "url": "https://open.spotify.com/album/2qacmM9RHmu2izUrYomeHb"
-      },
-      "artists": [
-        {
-          "name": "Poizion Flux",
-          "url": "https://open.spotify.com/artist/0vZd3mO4zxMRk8g87tbRYJ"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Mr.Goodbarz",
-          "url": "https://open.spotify.com/artist/6DJ21w0F9BJKbwkJp7llk6"
-        }
-      ],
-      "duration_ms": 158717,
-      "name": "Get Bread - Remix",
-      "url": "https://open.spotify.com/track/0NoIye0tSKX1VGbyhJNMBP"
-    },
-    {
-      "added_at": "2025-06-06 04:00:00",
-      "album": {
-        "name": "Word is Bond",
-        "url": "https://open.spotify.com/album/7bBPKudVUb3svyGVb1y9KF"
-      },
-      "artists": [
-        {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5y5vmzAuQfEEJ9cd62f1u0"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 120058,
-      "name": "Word is Bond",
-      "url": "https://open.spotify.com/track/3vnTlp2qXqtbbvoYAPpI4Y"
-    },
     {
       "added_at": "2025-06-06 04:00:00",
       "album": {
@@ -111,6 +67,50 @@
     {
       "added_at": "2025-06-06 04:00:00",
       "album": {
+        "name": "Get Bread (Remix)",
+        "url": "https://open.spotify.com/album/2qacmM9RHmu2izUrYomeHb"
+      },
+      "artists": [
+        {
+          "name": "Poizion Flux",
+          "url": "https://open.spotify.com/artist/0vZd3mO4zxMRk8g87tbRYJ"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Mr.Goodbarz",
+          "url": "https://open.spotify.com/artist/6DJ21w0F9BJKbwkJp7llk6"
+        }
+      ],
+      "duration_ms": 158717,
+      "name": "Get Bread - Remix",
+      "url": "https://open.spotify.com/track/0NoIye0tSKX1VGbyhJNMBP"
+    },
+    {
+      "added_at": "2025-06-06 04:00:00",
+      "album": {
+        "name": "Word is Bond",
+        "url": "https://open.spotify.com/album/7bBPKudVUb3svyGVb1y9KF"
+      },
+      "artists": [
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5y5vmzAuQfEEJ9cd62f1u0"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 120058,
+      "name": "Word is Bond",
+      "url": "https://open.spotify.com/track/3vnTlp2qXqtbbvoYAPpI4Y"
+    },
+    {
+      "added_at": "2025-06-06 04:00:00",
+      "album": {
         "name": "Saviors (\u00e9dition de luxe)",
         "url": "https://open.spotify.com/album/1igXRGGxaDbShzcMrfzRCp"
       },
@@ -127,6 +127,22 @@
       "duration_ms": 129895,
       "name": "Fuck Off - FIDLAR Alt Mix",
       "url": "https://open.spotify.com/track/65yJ2gJrgy5cCR6LAPhbac"
+    },
+    {
+      "added_at": "2025-06-06 04:00:00",
+      "album": {
+        "name": "Phineas and Ferb: Season 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0ilQNbh2SZzRzVTwz85gM4"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "duration_ms": 59669,
+      "name": "Phineas and Ferb Theme Song (2025)",
+      "url": "https://open.spotify.com/track/0vvPQamU9USGob5N4pP7Nm"
     },
     {
       "added_at": "2025-06-06 04:00:00",
@@ -171,30 +187,6 @@
       "duration_ms": 214320,
       "name": "9 Months",
       "url": "https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh"
-    },
-    {
-      "added_at": "2025-06-06 04:00:00",
-      "album": {
-        "name": "DONDA 2",
-        "url": "https://open.spotify.com/album/1ZkGNUz1un0b3Z7EsJl3ci"
-      },
-      "artists": [
-        {
-          "name": "DONDA",
-          "url": "https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
-        }
-      ],
-      "duration_ms": 138876,
-      "name": "SECURITY",
-      "url": "https://open.spotify.com/track/005Xv5eX9qBquZFVKvRt0E"
     },
     {
       "added_at": "2025-06-06 04:00:00",
@@ -323,6 +315,26 @@
     {
       "added_at": "2025-06-06 04:00:00",
       "album": {
+        "name": "Song 3",
+        "url": "https://open.spotify.com/album/3YL4R9J5QzAOOOl5MrmHqx"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Slaughter to Prevail",
+          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+        }
+      ],
+      "duration_ms": 214193,
+      "name": "Song 3",
+      "url": "https://open.spotify.com/track/17tFA9uTIBJzlGySKys04X"
+    },
+    {
+      "added_at": "2025-06-06 04:00:00",
+      "album": {
         "name": "Oh Lala",
         "url": "https://open.spotify.com/album/57oOFLMwpyDg74EkJ0odnW"
       },
@@ -367,26 +379,6 @@
     {
       "added_at": "2025-06-06 04:00:00",
       "album": {
-        "name": "Song 3",
-        "url": "https://open.spotify.com/album/3YL4R9J5QzAOOOl5MrmHqx"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        },
-        {
-          "name": "Slaughter to Prevail",
-          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
-        }
-      ],
-      "duration_ms": 214193,
-      "name": "Song 3",
-      "url": "https://open.spotify.com/track/17tFA9uTIBJzlGySKys04X"
-    },
-    {
-      "added_at": "2025-06-06 04:00:00",
-      "album": {
         "name": "Bruh Hello",
         "url": "https://open.spotify.com/album/7cECM1OL8ionrfhHABd9nF"
       },
@@ -403,22 +395,6 @@
       "duration_ms": 291758,
       "name": "Bruh Hello",
       "url": "https://open.spotify.com/track/7KJ3an94BV6xfoNdryTugk"
-    },
-    {
-      "added_at": "2025-06-06 04:00:00",
-      "album": {
-        "name": "Lifetime Achievement Award",
-        "url": "https://open.spotify.com/album/40H2tssCMzDiCaksvwlA5b"
-      },
-      "artists": [
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        }
-      ],
-      "duration_ms": 229893,
-      "name": "Lifetime Achievement Award",
-      "url": "https://open.spotify.com/track/41lmOKGWY85eU0nE1BLnCJ"
     },
     {
       "added_at": "2025-06-06 04:00:00",
@@ -447,6 +423,22 @@
     {
       "added_at": "2025-06-06 04:00:00",
       "album": {
+        "name": "Lifetime Achievement Award",
+        "url": "https://open.spotify.com/album/40H2tssCMzDiCaksvwlA5b"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        }
+      ],
+      "duration_ms": 254506,
+      "name": "Coast",
+      "url": "https://open.spotify.com/track/1UVYuk7MSJ2ZlVykR2RgXY"
+    },
+    {
+      "added_at": "2025-06-06 04:00:00",
+      "album": {
         "name": "Ordinary",
         "url": "https://open.spotify.com/album/2blyg2yoGcoST35w2IqkSf"
       },
@@ -459,22 +451,6 @@
       "duration_ms": 175932,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2qaVezWJLOr9F6qLiwnQhm"
-    },
-    {
-      "added_at": "2025-06-06 04:00:00",
-      "album": {
-        "name": "Like Crying: The Songs of Danny Kirwan",
-        "url": "https://open.spotify.com/album/0lSd1hZaG62VvH2XZSmWg6"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 340199,
-      "name": "Purple Dancer",
-      "url": "https://open.spotify.com/track/6n9jjdd240EImQHjiM4XDf"
     },
     {
       "added_at": "2025-06-06 04:00:00",
@@ -519,6 +495,22 @@
     {
       "added_at": "2025-06-06 04:00:00",
       "album": {
+        "name": "Like Crying: The Songs of Danny Kirwan",
+        "url": "https://open.spotify.com/album/0lSd1hZaG62VvH2XZSmWg6"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 340199,
+      "name": "Purple Dancer",
+      "url": "https://open.spotify.com/track/6n9jjdd240EImQHjiM4XDf"
+    },
+    {
+      "added_at": "2025-06-06 04:00:00",
+      "album": {
         "name": "Natural Blues",
         "url": "https://open.spotify.com/album/1Il6vUKaKu9dwdxWSvtoSC"
       },
@@ -539,22 +531,6 @@
       "duration_ms": 155476,
       "name": "Natural Blues",
       "url": "https://open.spotify.com/track/0YMP9iIN0kPO3kp7pnxZpB"
-    },
-    {
-      "added_at": "2025-06-06 04:00:00",
-      "album": {
-        "name": "ENOCH",
-        "url": "https://open.spotify.com/album/6iosJzmbhMPivxtY4Wd3bX"
-      },
-      "artists": [
-        {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
-        }
-      ],
-      "duration_ms": 184268,
-      "name": "I SEE",
-      "url": "https://open.spotify.com/track/0RvwkwsWCgXfEXNzEnXziq"
     },
     {
       "added_at": "2025-06-06 04:00:00",
@@ -587,18 +563,22 @@
     {
       "added_at": "2025-06-06 04:00:00",
       "album": {
-        "name": "PB 15",
-        "url": "https://open.spotify.com/album/38bYJdb0FvkgQN8LiCk4qi"
+        "name": "ENOCH",
+        "url": "https://open.spotify.com/album/6iosJzmbhMPivxtY4Wd3bX"
       },
       "artists": [
         {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        },
+        {
+          "name": "Matt McGhee",
+          "url": "https://open.spotify.com/artist/40Viqfc5ZdF69hIKjktCZN"
         }
       ],
-      "duration_ms": 191213,
-      "name": "PB 15",
-      "url": "https://open.spotify.com/track/48KFl2J5jgzYoLsbZWvjAe"
+      "duration_ms": 125263,
+      "name": "NEW BOO - feat. Matt McGhee",
+      "url": "https://open.spotify.com/track/3AbMv4JCKVq8Il0DwL8wgj"
     },
     {
       "added_at": "2025-06-06 04:00:00",
@@ -623,22 +603,18 @@
     {
       "added_at": "2025-06-06 04:00:00",
       "album": {
-        "name": "Philip Glass: Cinematix Vol.2 (Remixes by Kummerspeck)",
-        "url": "https://open.spotify.com/album/6mmKeksi5hYAYUHW4y1f0D"
+        "name": "PB 15",
+        "url": "https://open.spotify.com/album/38bYJdb0FvkgQN8LiCk4qi"
       },
       "artists": [
         {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Kummerspeck",
-          "url": "https://open.spotify.com/artist/7sKPIqlHiKAPJGzvRyfBL7"
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Koyaanisqatsi (Kummerspeck Remix)",
-      "url": "https://open.spotify.com/track/2Xo1ZZ226xIF6gOMYhgvIv"
+      "duration_ms": 191213,
+      "name": "PB 15",
+      "url": "https://open.spotify.com/track/48KFl2J5jgzYoLsbZWvjAe"
     },
     {
       "added_at": "2025-06-06 04:00:00",
@@ -659,6 +635,26 @@
       "duration_ms": 325893,
       "name": "Promesses",
       "url": "https://open.spotify.com/track/3p5UzHUDerrlYl7RtGhLML"
+    },
+    {
+      "added_at": "2025-06-06 04:00:00",
+      "album": {
+        "name": "Philip Glass: Cinematix Vol.2 (Remixes by Kummerspeck)",
+        "url": "https://open.spotify.com/album/6mmKeksi5hYAYUHW4y1f0D"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Kummerspeck",
+          "url": "https://open.spotify.com/artist/7sKPIqlHiKAPJGzvRyfBL7"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Koyaanisqatsi (Kummerspeck Remix)",
+      "url": "https://open.spotify.com/track/2Xo1ZZ226xIF6gOMYhgvIv"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

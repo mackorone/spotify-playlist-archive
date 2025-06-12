@@ -4,7 +4,7 @@
 
 > roots run deep
 
-384 songs - 22 hr 58 min
+385 songs - 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 | 2024-01-31 | 2024-05-25 |
 | [Save My Soul](https://open.spotify.com/track/41vuNGM0cYTgNS4Bc1CJTA) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [After Dark](https://open.spotify.com/album/6cmq4aPxeJBH9pCJMjIA4N) | 5:07 | 2024-06-03 |  |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-01-18 |  |
+| [Scornful Woman](https://open.spotify.com/track/5oEM9EDKL9y4XLTJzi0g96) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Scornful Woman](https://open.spotify.com/album/3Ueo8Ub5iBseNfSbHpCdEq) | 2:55 | 2025-06-11 |  |
 | [Seein' Straight](https://open.spotify.com/track/49mwxHq39VLr6fIoHN0e0t) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [We're Young, Alright](https://open.spotify.com/album/553gGSVuHart0wIB6lEC0n) | 3:53 | 2023-06-05 |  |
 | [Settling Things](https://open.spotify.com/track/0XDGhfW6CS8syWE7gh9ei4) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [The Heartbroken Record](https://open.spotify.com/album/5JGn3VCsHcB2xaqY5bdclK) | 2:52 | 2024-10-10 |  |
 | [Shake the Frost \(Live\)](https://open.spotify.com/track/19MkwMrRjO7773zpuGss1o) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Live on Red Barn Radio I & II](https://open.spotify.com/album/7lf0m3iNU59X4r8udCQcB6) | 2:55 | 2024-08-09 |  |

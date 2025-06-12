@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZY43VwD4Dvf0ZO9SwivN5">Valentina Rico</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-44 songs - 2 hr 16 min
+46 songs - 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Intro](https://open.spotify.com/track/2xS3eacJtsVF2mDRgqqk6R) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 0:30 | 2023-12-13 |  |
 | [La Mitad](https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [La Mitad](https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r) | 2:36 | 2023-12-13 | 2024-04-28 |
 | [La Mitad](https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:36 | 2024-04-27 |  |
+| [MACARRONES CON QUESO](https://open.spotify.com/track/39F3bIJTkLNX1wswMq9PMC) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [cuando coincidimos](https://open.spotify.com/album/2Rys1A1mragEl9rHsYGmcp) | 2:27 | 2025-06-11 |  |
 | [Mas De Lo Que Aposte](https://open.spotify.com/track/0ZixDqWw4qS7NcxUc9zhRa) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Aitana](https://open.spotify.com/album/36LMY34MvQVWfJbOuAVYQK) | 6:40 | 2023-12-13 | 2024-07-27 |
 | [Mas De Lo Que Aposte](https://open.spotify.com/track/4X2ezaWpxfNSCVEJ9yFB9h) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Aitana](https://open.spotify.com/album/6UiWhpHVN9pgySpp8DCdyQ) | 6:40 | 2024-07-30 |  |
 | [Mensajes Borrados](https://open.spotify.com/track/6LlGVA52RQPz3Pzr3QaXjQ) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 2:56 | 2023-12-13 |  |
@@ -42,6 +43,7 @@
 | [Toy Story](https://open.spotify.com/track/5NYWJiGd4Qnej6kvPnH1sR) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La Niña XXL](https://open.spotify.com/album/3EcUGvI4ePuIEzzBg1GUSC) | 2:59 | 2023-12-13 |  |
 | [Transparente](https://open.spotify.com/track/3F4B12TBnGu947FgeabHGP) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 3:19 | 2023-12-13 |  |
 | [Trepando Paredes](https://open.spotify.com/track/2fTIBjzXEUeE6E4TwfPYrS) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Trepando Paredes](https://open.spotify.com/album/69GASdnczwa3sPHiTqYPVC) | 3:53 | 2025-04-30 |  |
+| [Tsunami](https://open.spotify.com/track/5iRYgPCd8JyI0EiBxYKUyN) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Tsunami](https://open.spotify.com/album/4bPksqNkTRThMVUpD1bl5u) | 3:02 | 2025-06-11 |  |
 | [Tú Me Delatas](https://open.spotify.com/track/5SAED5EpG2omE0XIBLwKLi) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Tú Me Delatas](https://open.spotify.com/album/0xsTTmJKU8ii6x4pkTXtjT) | 3:17 | 2023-12-13 |  |
 | [Vaquero](https://open.spotify.com/track/3vsQUoMP10d67qWaKZvuNt) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 2:49 | 2023-12-13 |  |
 | [Volando Bajito](https://open.spotify.com/track/3W888aowJCl8Mwq9JMaJTc) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Volando Bajito](https://open.spotify.com/album/3nyLvPVZZJTumqzbGeVOhx) | 2:22 | 2023-12-13 |  |

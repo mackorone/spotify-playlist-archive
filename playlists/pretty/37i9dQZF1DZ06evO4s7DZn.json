@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
-  "num_followers": 8533,
+  "num_followers": 8541,
   "original_name": "This Is Banda Rafaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEYkAAAAAABcifwApEU7IFHMT9zHKDtY",
+  "snapshot_id": "aEd1gAAAAADrRZ8sGAVTbe96Oua6b5ak",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Todav\u00eda Hay Amor",
-        "url": "https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 157600,
-      "name": "Y Todav\u00eda Hay Amor",
-      "url": "https://open.spotify.com/track/066wvPX3h2s51ttZk6XOfA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Pares De Bailar Con...",
         "url": "https://open.spotify.com/album/32GtSnkO0D1YziU8TMHU7K"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 203103,
       "name": "La Guitarra de Lolo",
       "url": "https://open.spotify.com/track/0DaHUcy1iLD5aoOjYduqNk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y Todav\u00eda Hay Amor",
+        "url": "https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "Y Todav\u00eda Hay Amor",
+      "url": "https://open.spotify.com/track/066wvPX3h2s51ttZk6XOfA"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Todav\u00eda Hay Amor",
-        "url": "https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 137493,
-      "name": "De Que Me Sirve",
-      "url": "https://open.spotify.com/track/2QmqGGck3wh0vfKRFUpdP0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cari\u00f1o Donde Andaras",
         "url": "https://open.spotify.com/album/0B1b5XWLxUdAz54oCsG1VH"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 301578,
       "name": "Yo Te Amo",
       "url": "https://open.spotify.com/track/7wrkulb0HE7RTrXjfOxqwf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y Todav\u00eda Hay Amor",
+        "url": "https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 137493,
+      "name": "De Que Me Sirve",
+      "url": "https://open.spotify.com/track/2QmqGGck3wh0vfKRFUpdP0"
     },
     {
       "added_at": null,

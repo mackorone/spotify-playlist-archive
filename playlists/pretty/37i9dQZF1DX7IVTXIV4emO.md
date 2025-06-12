@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7IVTXIV4emO.md) - [plain]
 
 > manejando la tranquilidad 🏝  🥥  🏝
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,959 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,130 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7IVTXIV4emO.md) - [plain]
 | 59 | [Tu Con El](https://open.spotify.com/track/5ONnbTPRBGp25qlQutPCAd) | [Frankie Ruiz y Su Orquesta](https://open.spotify.com/artist/6W5KPtMeIS9zMqHCGxGwzh) | [Esta Cobardía](https://open.spotify.com/album/6fcH0RHemRnvokMVf2Ogjj) | 5:03 |
 | 60 | [El Efecto \- Remix](https://open.spotify.com/track/74j34STf8L6uADnTN69ohv) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [El Efecto \(Remix\)](https://open.spotify.com/album/18wfVLHQKF0yXimErnxAfo) | 4:49 |
 
-Snapshot ID: `Z1MpQQAAAAAtemtodQJxcTGWTnWK2FjX`
+Snapshot ID: `Z1MpQQAAAADrtEWlNHP2v5ftYUrjOJ5g`

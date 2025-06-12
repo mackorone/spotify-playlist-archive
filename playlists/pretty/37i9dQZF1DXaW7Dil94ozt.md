@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 
 > Enjoy the songs from the lineup appearing at Let's Rock Festival 2023! \(Let's Rock Festival 2023에 출연하는 라인업의 노래들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,913 likes - 120 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,919 likes - 120 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 | 96 | [It Doesn't Matter](https://open.spotify.com/track/2yujjkBN8aw0eJTBQTLD2P) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [It Doesn't Matter](https://open.spotify.com/album/5EvNDonhQsBFfZQCgAzU0d) | 3:34 |
 | 97 | [My Dear Love](https://open.spotify.com/track/0snDWpIDSGNZwVSzhheVAG) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Memoirs](https://open.spotify.com/album/58jJ1RTac6YEWx9xyJZjB0) | 4:14 |
 | 98 | [Saturday Night Fever](https://open.spotify.com/track/0TTxQr8bXlG43A2lHzKhKB) | [Romantic Punch](https://open.spotify.com/artist/5AwL954EM1Rkus1lsy8JmU) | [Midnight Cinderella](https://open.spotify.com/album/1GsitueEuLgKyoPftXpgFx) | 4:03 |
-| 99 | [Sleepwalk](https://open.spotify.com/track/1mRR4zN3C1mFIbfUMkJeQ6) | [Romantic Punch](https://open.spotify.com/artist/5AwL954EM1Rkus1lsy8JmU), [E HYUK](https://open.spotify.com/artist/2YhKoOmf0diUvydhEoreDa) | [Midnight Cinderella](https://open.spotify.com/album/1GsitueEuLgKyoPftXpgFx) | 3:39 |
+| 99 | [Sleepwalk \(feat\. 이혁\)](https://open.spotify.com/track/1mRR4zN3C1mFIbfUMkJeQ6) | [Romantic Punch](https://open.spotify.com/artist/5AwL954EM1Rkus1lsy8JmU), [이혁](https://open.spotify.com/artist/1dDSuJ3ibndHODiPMwZoOJ) | [Midnight Cinderella](https://open.spotify.com/album/1GsitueEuLgKyoPftXpgFx) | 3:39 |
 | 100 | [Da\-Jung Punk Generation](https://open.spotify.com/track/25AcAWIvAyR5RCRpDw3B5c) | [Romantic Punch](https://open.spotify.com/artist/5AwL954EM1Rkus1lsy8JmU) | [Da\-Jung Punk Generation](https://open.spotify.com/album/7AxPHqq6Lin4aQsVsNjiwv) | 3:48 |
 | 101 | [파이트 클럽](https://open.spotify.com/track/1BdEXKnVTQfReB1DZEbmsH) | [Romantic Punch](https://open.spotify.com/artist/5AwL954EM1Rkus1lsy8JmU) | [파이트 클럽](https://open.spotify.com/album/17NHwoDpaaNetHG36nx8JT) | 3:42 |
 | 102 | [Moonwalk In Kyoto](https://open.spotify.com/track/3UINfs6FQBFZcjtdHJhpL7) | [Romantic Punch](https://open.spotify.com/artist/5AwL954EM1Rkus1lsy8JmU) | [Moonwalk In Kyoto](https://open.spotify.com/album/5ZH8c0uu8EMSc3P7Z6UgkL) | 4:07 |

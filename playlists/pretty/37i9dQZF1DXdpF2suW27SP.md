@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > YeezYuri e Wet Bed Gang entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,745 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,747 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [O Tal](https://open.spotify.com/track/6yoxi6tqWQFJR45OAuIpLZ) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [O Tal](https://open.spotify.com/album/3FrmXjEhqHZiu7Ijmvge5Y) | 1:51 |
 | 70 | [ICY](https://open.spotify.com/track/0dGjxkqMZbLHLie9z3Q6iN) | [Nixon KBP](https://open.spotify.com/artist/4YuRpAo6rVovhoKzGBWkrW), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [ICY](https://open.spotify.com/album/0a4fH5ti7uPl1scrXMAJRl) | 2:33 |
 
-Snapshot ID: `aEIheQAAAAA6QVgONzS2l0egYErNpGjv`
+Snapshot ID: `aEIheQAAAAAYbqFIJ3RZWU1JnyvtCblQ`

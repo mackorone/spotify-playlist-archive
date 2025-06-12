@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : אסתר רדא
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,056 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,062 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 45 | [Caviar](https://open.spotify.com/track/5W4pVdJlm4Enww61yEldpa) | [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ) | [Caviar](https://open.spotify.com/album/6utxZbhB17fLbNaNBsqqiZ) | 4:06 |
 | 46 | [אייפון \- גרסה עברית](https://open.spotify.com/track/5RCZpcNIes8bLNfsHw7q3y) | [Riff Cohen](https://open.spotify.com/artist/3yKO4z2CeXv9sxD1zSw0Sg) | [אייפון \(גרסה עברית\)](https://open.spotify.com/album/42po7QHiTT56Vp0e2fMKKU) | 4:19 |
 | 47 | [מילים אהבה ויין](https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [מילים אהבה ויין](https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ) | 6:48 |
-| 48 | [שמש קטנה](https://open.spotify.com/track/5VXm7PRmaUziuU5s0u84qy) | [Aviv Guedj](https://open.spotify.com/artist/1ONVLNtv8t9Nr3TglnONrT) | [שמש קטנה](https://open.spotify.com/album/2FDyy5ubYs7J8wVXDKBvtt) | 4:23 |
-| 49 | [משהו לתת](https://open.spotify.com/track/4AhPbFtFCfAQfWYmGHOGFi) | [Anat Malamud](https://open.spotify.com/artist/34VgaC3eefsp2SoNFU4cZQ) | [יתגלה האור](https://open.spotify.com/album/31czfHaWu4Gt5MtOqECw9G) | 3:17 |
+| 48 | [משהו לתת](https://open.spotify.com/track/4AhPbFtFCfAQfWYmGHOGFi) | [Anat Malamud](https://open.spotify.com/artist/34VgaC3eefsp2SoNFU4cZQ) | [יתגלה האור](https://open.spotify.com/album/31czfHaWu4Gt5MtOqECw9G) | 3:17 |
+| 49 | [שמש קטנה](https://open.spotify.com/track/5VXm7PRmaUziuU5s0u84qy) | [Aviv Guedj](https://open.spotify.com/artist/1ONVLNtv8t9Nr3TglnONrT) | [שמש קטנה](https://open.spotify.com/album/2FDyy5ubYs7J8wVXDKBvtt) | 4:23 |
 | 50 | [הכי אוהב אותי](https://open.spotify.com/track/4C8fqtZdD1uvmO1JKMs0zy) | [קיקי מלינקי](https://open.spotify.com/artist/3IC3e7Xim7DpP5jBbzqdmo) | [הכי אוהב אותי](https://open.spotify.com/album/3eV2YgJCNNwGLFRRx6bC8C) | 2:30 |
 
 Snapshot ID: `aEIFZwAAAAAXDAeOot3OQPaRydLV4wrg`

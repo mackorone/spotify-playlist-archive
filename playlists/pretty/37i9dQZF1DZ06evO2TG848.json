@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
-  "num_followers": 22971,
+  "num_followers": 22976,
   "original_name": "This Is Gustavo Santaolalla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEYkAAAAAAC0XzI7k3k4km/CQNxTwGyO",
+  "snapshot_id": "aEd1gAAAAABBE+vQT/Tc10I7Ydx1CGkY",
   "tracks": [
     {
       "added_at": null,
@@ -231,18 +231,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brokeback Mountain Soundtrack",
-        "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
+        "name": "Magnetismo",
+        "url": "https://open.spotify.com/album/5h6es3HPWeIkaF5YALh3yp"
       },
       "artists": [
+        {
+          "name": "La Yegros",
+          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
+        },
         {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 112546,
-      "name": "The Wings",
-      "url": "https://open.spotify.com/track/3oQpVsTPxbMobnIjeogbJz"
+      "duration_ms": 185265,
+      "name": "Chicha Roja",
+      "url": "https://open.spotify.com/track/2DgzBlX9HecudC3rowLkXa"
     },
     {
       "added_at": null,
@@ -299,22 +303,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Magnetismo",
-        "url": "https://open.spotify.com/album/5h6es3HPWeIkaF5YALh3yp"
+        "name": "Brokeback Mountain Soundtrack",
+        "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
       },
       "artists": [
-        {
-          "name": "La Yegros",
-          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
-        },
         {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 185265,
-      "name": "Chicha Roja",
-      "url": "https://open.spotify.com/track/2DgzBlX9HecudC3rowLkXa"
+      "duration_ms": 112546,
+      "name": "The Wings",
+      "url": "https://open.spotify.com/track/3oQpVsTPxbMobnIjeogbJz"
     },
     {
       "added_at": null,
@@ -435,6 +435,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "duration_ms": 93791,
+      "name": "Haven",
+      "url": "https://open.spotify.com/track/1LT4QUpKPE9Y7oTD1uYT0A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last of Us Part II (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 139480,
+      "name": "It Can't Last",
+      "url": "https://open.spotify.com/track/5aWsp08r0De8hxXPKWbx0C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Book of Life (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7f0cdftcxwu61TCHkwVrs0"
       },
@@ -467,42 +503,6 @@
       "duration_ms": 115546,
       "name": "I Will Wait",
       "url": "https://open.spotify.com/track/5SLdZ5VyAGBrT4BbIeIEQO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Last of Us Part II (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 139480,
-      "name": "It Can't Last",
-      "url": "https://open.spotify.com/track/5aWsp08r0De8hxXPKWbx0C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
-          "name": "Juan Luqui",
-          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
-        }
-      ],
-      "duration_ms": 93791,
-      "name": "Haven",
-      "url": "https://open.spotify.com/track/1LT4QUpKPE9Y7oTD1uYT0A"
     },
     {
       "added_at": null,
@@ -707,90 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last of Us - Vol. 2 (Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/4NXjMFIEp6eJWM3ZRxWDoV"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 180306,
-      "name": "Fleeting",
-      "url": "https://open.spotify.com/track/78kwoqFcDxUyrNThLywZlp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
-          "name": "Juan Luqui",
-          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
-        }
-      ],
-      "duration_ms": 94877,
-      "name": "Invited",
-      "url": "https://open.spotify.com/track/1M9pbKaLoE8i1U5w4G2lHV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Motorcycle Diaries with additional Music",
-        "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
-          "name": "Don Markese",
-          "url": "https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1"
-        },
-        {
-          "name": "Braulio Barrera",
-          "url": "https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz"
-        },
-        {
-          "name": "Javier Casalla",
-          "url": "https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo"
-        },
-        {
-          "name": "Anibal Kerpel",
-          "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
-        }
-      ],
-      "duration_ms": 187426,
-      "name": "Leyendo en el Hospital",
-      "url": "https://open.spotify.com/track/3V0TY9qEn3nJUGvufkTOnY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Camino",
-        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 100933,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/5Uz25QNtRcdOKZhqkpATne"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Last of Us: Season 2 (Soundtrack from the HBO Original Series)",
         "url": "https://open.spotify.com/album/6Wxzdufl0XfxujiYcW0NOv"
       },
@@ -831,6 +747,90 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Last of Us - Vol. 2 (Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/4NXjMFIEp6eJWM3ZRxWDoV"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 180306,
+      "name": "Fleeting",
+      "url": "https://open.spotify.com/track/78kwoqFcDxUyrNThLywZlp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Camino",
+        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 100933,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/5Uz25QNtRcdOKZhqkpATne"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Motorcycle Diaries with additional Music",
+        "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Don Markese",
+          "url": "https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1"
+        },
+        {
+          "name": "Braulio Barrera",
+          "url": "https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz"
+        },
+        {
+          "name": "Javier Casalla",
+          "url": "https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo"
+        },
+        {
+          "name": "Anibal Kerpel",
+          "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
+        }
+      ],
+      "duration_ms": 187426,
+      "name": "Leyendo en el Hospital",
+      "url": "https://open.spotify.com/track/3V0TY9qEn3nJUGvufkTOnY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "duration_ms": 94877,
+      "name": "Invited",
+      "url": "https://open.spotify.com/track/1M9pbKaLoE8i1U5w4G2lHV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SUR",
         "url": "https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 170919,
       "name": "Yarar\u00e1",
       "url": "https://open.spotify.com/track/5yZF5BdTmtdQitz89YBMYL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brokeback Mountain Soundtrack",
+        "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 152760,
+      "name": "Brokeback Mountain 1",
+      "url": "https://open.spotify.com/track/2MMboiwtvpKYz1jyB0FUnK"
     },
     {
       "added_at": null,
@@ -883,22 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brokeback Mountain Soundtrack",
-        "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 152760,
-      "name": "Brokeback Mountain 1",
-      "url": "https://open.spotify.com/track/2MMboiwtvpKYz1jyB0FUnK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
         "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
       },
@@ -927,6 +927,26 @@
       "duration_ms": 224280,
       "name": "Seguir",
       "url": "https://open.spotify.com/track/3vBLmHQcr0z5D7ObTCqfVu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last of Us: Season 2 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/6Wxzdufl0XfxujiYcW0NOv"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "duration_ms": 67746,
+      "name": "Echoes of Yesterday",
+      "url": "https://open.spotify.com/track/3SdZRmDUioL8nqyq0Q7TSB"
     },
     {
       "added_at": null,
@@ -967,26 +987,6 @@
       "duration_ms": 91480,
       "name": "Opening",
       "url": "https://open.spotify.com/track/5uUkMMDpggRSQ4hRfI3lV7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Last of Us: Season 2 (Soundtrack from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/6Wxzdufl0XfxujiYcW0NOv"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
-          "name": "Juan Luqui",
-          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
-        }
-      ],
-      "duration_ms": 67746,
-      "name": "Echoes of Yesterday",
-      "url": "https://open.spotify.com/track/3SdZRmDUioL8nqyq0Q7TSB"
     }
   ],
   "unique_name": "This Is Gustavo Santaolalla",

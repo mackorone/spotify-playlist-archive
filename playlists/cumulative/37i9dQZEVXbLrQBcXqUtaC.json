@@ -2710,7 +2710,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-06",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Be My First One",
       "url": "https://open.spotify.com/track/4jQj2GzSDoaibN5qTrQh0c"
@@ -7494,7 +7494,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 251305,
       "name": "Enta Be Damy",
       "url": "https://open.spotify.com/track/35mpZGgYviI4KXOeBQj2qO"
@@ -9257,6 +9257,24 @@
     },
     {
       "album": {
+        "name": "Ghartk El Donyia",
+        "url": "https://open.spotify.com/album/3FRI4ZgYIMGkv1yh92Bvzu"
+      },
+      "artists": [
+        {
+          "name": "Farkd El Lourans",
+          "url": "https://open.spotify.com/artist/0jEOQyPsHBQD6YhFcNfLBk"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289413,
+      "name": "Ghartk El Donyia (2)",
+      "url": "https://open.spotify.com/track/0drVi1UxWlH70g2LkTrkUm"
+    },
+    {
+      "album": {
         "name": "Ghazal Ma Yensady",
         "url": "https://open.spotify.com/album/1llAZW89HSt3gIZ0UOcLHI"
       },
@@ -10214,7 +10232,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 201943,
       "name": "Hay El Zalayl",
       "url": "https://open.spotify.com/track/5gNAluu4a5nDClPI5pDAoV"
@@ -17854,7 +17872,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 81500,
       "name": "NUNCA MUDA?",
       "url": "https://open.spotify.com/track/5EIjpM1B1VsLoKvv2iwd0P"
@@ -26970,7 +26988,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -29008,7 +29026,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 321720,
       "name": "\u0628\u0627\u0639\u0646\u064a \u0648\u0631\u0627\u062d",
       "url": "https://open.spotify.com/track/2yiFdwIL1K2KR20wKZxxFM"
@@ -31186,7 +31204,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 340192,
       "name": "\u0645\u0627 \u062a\u0628\u062a",
       "url": "https://open.spotify.com/track/3dygbYXKwcqOQtqctzq9rs"

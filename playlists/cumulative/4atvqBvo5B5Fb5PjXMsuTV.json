@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 10 Jun 18:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 12 Jun 03:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -10187,7 +10187,7 @@
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 301865,
+      "duration_ms": 301871,
       "name": "Blocs",
       "url": "https://open.spotify.com/track/0LqLyfSJ3qmIifNbb8AvXi"
     },
@@ -15848,7 +15848,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 186932,
       "name": "Cigarettes 2",
       "url": "https://open.spotify.com/track/3PuR5DgEJP8QVrLnC6rBQS"
@@ -17434,7 +17434,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 155000,
       "name": "CONTROL",
       "url": "https://open.spotify.com/track/4PFlZpluDUhUpo2QH1a7ph"
@@ -18824,7 +18824,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 194491,
       "name": "Cutthroat",
       "url": "https://open.spotify.com/track/5cQmKBhv5Ui17M4hopt2TX"
@@ -29445,6 +29445,24 @@
     },
     {
       "album": {
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
+    },
+    {
+      "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/34O2W8EIX2LGMztjbj8HhY"
       },
@@ -33527,6 +33545,24 @@
     },
     {
       "album": {
+        "name": "GORDIAN",
+        "url": "https://open.spotify.com/album/1a8vPsLP2Fh8pf8j5wSZfT"
+      },
+      "artists": [
+        {
+          "name": "Gao the Arsonist",
+          "url": "https://open.spotify.com/artist/4ZonAe7RftZZ4ef3KGWsum"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "GORDIAN",
+      "url": "https://open.spotify.com/track/7iOkf8ccwac8DN8FD6N45M"
+    },
+    {
+      "album": {
         "name": "Gorgeous",
         "url": "https://open.spotify.com/album/4YU0evDGI9AvvEOP7QcFws"
       },
@@ -35916,7 +35952,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 228783,
       "name": "Heaven Is No Feeling",
       "url": "https://open.spotify.com/track/0O2xM3g14PLmfp5xKoBnkA"
@@ -37264,6 +37300,24 @@
       "duration_ms": 208935,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/1R9QqCwIjcEx7HBD9I914E"
+    },
+    {
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/3yZGdJW5lLePqAPE5z7OxT"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209226,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/5K1thEZHOgjE89mxwA01T9"
     },
     {
       "album": {
@@ -39376,6 +39430,24 @@
       "duration_ms": 165402,
       "name": "I KNOW.",
       "url": "https://open.spotify.com/track/5KkW5Z1lBA7QWP4wmbfUdk"
+    },
+    {
+      "album": {
+        "name": "I LIE",
+        "url": "https://open.spotify.com/album/0QN26woxii8wPVt4j5tBO2"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136346,
+      "name": "I LIE",
+      "url": "https://open.spotify.com/track/5LH189w5B5XeECfKbELs6H"
     },
     {
       "album": {
@@ -51791,6 +51863,24 @@
     },
     {
       "album": {
+        "name": "Mechanical Chaos",
+        "url": "https://open.spotify.com/album/1c1o969p0fOBkTcea31737"
+      },
+      "artists": [
+        {
+          "name": "Shadow of Intent",
+          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230517,
+      "name": "Mechanical Chaos",
+      "url": "https://open.spotify.com/track/5Ooe9BRVaQfdc8o2WA7xO5"
+    },
+    {
+      "album": {
         "name": "Meconopsis",
         "url": "https://open.spotify.com/album/5tes2Mmt5dXKnDCJYH9HFd"
       },
@@ -59671,6 +59761,24 @@
     },
     {
       "album": {
+        "name": "One Of Them",
+        "url": "https://open.spotify.com/album/6TzgT7RMTJKpclQ7awIjru"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171772,
+      "name": "One Of Them",
+      "url": "https://open.spotify.com/track/0I0P8FFXCndrwK1wBDo2bB"
+    },
+    {
+      "album": {
         "name": "One On One",
         "url": "https://open.spotify.com/album/5P4LHmJvYMQmBRuRIesoDr"
       },
@@ -61146,7 +61254,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 228488,
       "name": "Paper Dolls",
       "url": "https://open.spotify.com/track/0ve4nu1wEAk9wtcK80574F"
@@ -68586,6 +68694,24 @@
       "duration_ms": 183652,
       "name": "Sadgirl vs Slavgirl",
       "url": "https://open.spotify.com/track/64ipeHp2FREma2OjIXkkO0"
+    },
+    {
+      "album": {
+        "name": "SAFE",
+        "url": "https://open.spotify.com/album/1tIt6HVkpU0RROA95BnkZR"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165251,
+      "name": "SAFE",
+      "url": "https://open.spotify.com/track/6r9RMmzYjOr4sQOG1tQLDM"
     },
     {
       "album": {
@@ -81408,7 +81534,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 190574,
       "name": "The Rope",
       "url": "https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX"
@@ -89588,7 +89714,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 290618,
       "name": "Where To Look",
       "url": "https://open.spotify.com/track/6fp01DAoqsZNyTwZidZ74I"

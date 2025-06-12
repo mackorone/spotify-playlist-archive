@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vJksQf4im1.md) - [plain]
 
 > Mark實呢個歌單，就唔驚錯過香港hit 緊嘅Pop Songs 啦！Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,763 likes - 68 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,761 likes - 68 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

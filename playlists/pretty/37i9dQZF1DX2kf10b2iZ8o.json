@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 23868,
+  "num_followers": 23871,
   "original_name": "THE IDOLM@STER SideM",
   "owner": {
     "name": "Spotify",
@@ -291,18 +291,18 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
-        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 02",
-        "url": "https://open.spotify.com/album/7vKuKjUjsikdlFhOXbX4Ld"
+        "name": "THE IDOLM@STER SideM GROWING SIGN@L 04 Caf\u00e9 Parade",
+        "url": "https://open.spotify.com/album/3EteBuYZu6JQTPNRefCAHH"
       },
       "artists": [
         {
-          "name": "\u795e\u697d \u9e97 (CV.\u6c38\u91ce\u7531\u7950)",
-          "url": "https://open.spotify.com/artist/362D8P2T3DvFL9bU2Zs3jo"
+          "name": "Caf\u00e9 Parade",
+          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
         }
       ],
-      "duration_ms": 293360,
-      "name": "Echoes My Note",
-      "url": "https://open.spotify.com/track/0aAoE7GsF884YSSXAMEt23"
+      "duration_ms": 247786,
+      "name": "Pav\u00e9 \u00c9toiles",
+      "url": "https://open.spotify.com/track/41WZEMDkuXUG4fmJJRJ5XP"
     },
     {
       "added_at": "2025-01-14 15:56:57",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 02",
+        "url": "https://open.spotify.com/album/7vKuKjUjsikdlFhOXbX4Ld"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u697d \u9e97 (CV.\u6c38\u91ce\u7531\u7950)",
+          "url": "https://open.spotify.com/artist/362D8P2T3DvFL9bU2Zs3jo"
+        }
+      ],
+      "duration_ms": 293360,
+      "name": "Echoes My Note",
+      "url": "https://open.spotify.com/track/0aAoE7GsF884YSSXAMEt23"
+    },
+    {
+      "added_at": "2025-01-14 15:56:57",
+      "album": {
         "name": "THE IDOLM@STER SideM GROWING SIGN@L 16",
         "url": "https://open.spotify.com/album/7DfG2yYrf0EFW3sNkuNzpr"
       },
@@ -667,22 +683,6 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
-        "name": "THE IDOLM@STER SideM NEW STAGE EPISODE\uff1a01 \u3082\u3075\u3082\u3075\u3048\u3093",
-        "url": "https://open.spotify.com/album/4Muer0bl5qESen2hI4ibFw"
-      },
-      "artists": [
-        {
-          "name": "\u3082\u3075\u3082\u3075\u3048\u3093",
-          "url": "https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS"
-        }
-      ],
-      "duration_ms": 241720,
-      "name": "\u308f\u3093\u3060\u30fc \u307e\u30fc\u3061\u3093\u3050\uff01",
-      "url": "https://open.spotify.com/track/7dXMjLmVAPp88OHSm9yrFu"
-    },
-    {
-      "added_at": "2025-01-14 15:56:57",
-      "album": {
         "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 05",
         "url": "https://open.spotify.com/album/1xrAra2MLOndIDBAJlaGcQ"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 254546,
       "name": "\u6c38\u9060\u306a\u308b\u56db\u9283\u58eb",
       "url": "https://open.spotify.com/track/6VlBEK2mjUroFSCwzUHicF"
+    },
+    {
+      "added_at": "2025-01-14 15:56:57",
+      "album": {
+        "name": "THE IDOLM@STER SideM NEW STAGE EPISODE\uff1a01 \u3082\u3075\u3082\u3075\u3048\u3093",
+        "url": "https://open.spotify.com/album/4Muer0bl5qESen2hI4ibFw"
+      },
+      "artists": [
+        {
+          "name": "\u3082\u3075\u3082\u3075\u3048\u3093",
+          "url": "https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS"
+        }
+      ],
+      "duration_ms": 241720,
+      "name": "\u308f\u3093\u3060\u30fc \u307e\u30fc\u3061\u3093\u3050\uff01",
+      "url": "https://open.spotify.com/track/7dXMjLmVAPp88OHSm9yrFu"
     },
     {
       "added_at": "2025-01-14 15:56:57",
@@ -1303,30 +1319,6 @@
       "duration_ms": 247120,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/0DMWqErybyah6CoWS1H2q5"
-    },
-    {
-      "added_at": "2025-01-14 15:56:57",
-      "album": {
-        "name": "THE IDOLM@STER SideM ANIMATION PROJECT 01 Reason!!",
-        "url": "https://open.spotify.com/album/2dWuenMwbM25FIFG8K7ACG"
-      },
-      "artists": [
-        {
-          "name": "Beit",
-          "url": "https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah"
-        },
-        {
-          "name": "High Joker",
-          "url": "https://open.spotify.com/artist/3Lc97VS2398JpmflP7xblo"
-        },
-        {
-          "name": "W",
-          "url": "https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK"
-        }
-      ],
-      "duration_ms": 245786,
-      "name": "\u590f\u6642\u9593\u30b0\u30e9\u30d5\u30a3\u30c6\u30a3",
-      "url": "https://open.spotify.com/track/2fFyk58FJRGKL40fAa9R1A"
     }
   ],
   "unique_name": "THE IDOLM@STER SideM",

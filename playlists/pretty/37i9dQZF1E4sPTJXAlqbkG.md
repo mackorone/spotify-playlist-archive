@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4sPTJXAlqbkG.md) - [plain]
 
 ### [PARTYNEXTDOOR Radio](https://open.spotify.com/playlist/37i9dQZF1E4sPTJXAlqbkG)
 
-> With Sonder, Summer Walker, Jacquees and more
+> With Sonder, Summer Walker, Jhené Aiko and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,144 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,244 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4sPTJXAlqbkG.md) - [plain]
 | 49 | [TWENTY NIGHTS](https://open.spotify.com/track/2luxd3WEcEACrORUnXvITr) | [Nobu Woods](https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC) | [MIDNIGHT MOTIONS](https://open.spotify.com/album/7rbg49mWE6c7vMhi2Ar2qX) | 3:16 |
 | 50 | [Searchin](https://open.spotify.com/track/2WcPWXOjoDKDVouyyWV8Eq) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Into](https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H) | 4:24 |
 
-Snapshot ID: `aEjoHgAAAABe0IdiKcHasWPGWaRsoDa2`
+Snapshot ID: `aEpKcAAAAABQzKgoGG1ubGr5PeKZPENS`

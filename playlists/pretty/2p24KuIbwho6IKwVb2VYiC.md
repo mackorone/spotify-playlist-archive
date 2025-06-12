@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 ### [ALL ACCESS DANCE](https://open.spotify.com/playlist/2p24KuIbwho6IKwVb2VYiC)
 
-> The best Dance and EDM tracks right now!
+> The best Dance and EDM tracks right now!  Cover: Martin Garrix &amp; Lauv
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 21,413 likes - 136 songs - 7 hr 1 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 21,416 likes - 136 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Save My Love \(with Ellie Goulding & AVAION\)](https://open.spotify.com/track/4w3Uy4n1hfj1mx6ag7bII5) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Save My Love \(with Ellie Goulding & AVAION\)](https://open.spotify.com/album/3KFX6b8uxX8cORnXbSiC18) | 3:35 |
 | 2 | [Let's Ride Away \- MEDUZA For Tim Edit](https://open.spotify.com/track/5ajmGn2nwM4hwGcFop92FK) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Let's Ride Away \(MEDUZA For Tim Remix\)](https://open.spotify.com/album/3jhvkeBmvGhB3BPOz9qhKc) | 2:40 |
-| 3 | [MAD](https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [MAD](https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV) | 3:19 |
-| 4 | [Nostalgia](https://open.spotify.com/track/5D5uC8J6xBkGN66eLnqdvG) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Nostalgia](https://open.spotify.com/album/1CWPPkC70qyU1sf2PopYEf) | 3:30 |
+| 3 | [Nostalgia](https://open.spotify.com/track/5D5uC8J6xBkGN66eLnqdvG) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Nostalgia](https://open.spotify.com/album/1CWPPkC70qyU1sf2PopYEf) | 3:30 |
+| 4 | [MAD](https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [MAD](https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV) | 3:19 |
 | 5 | [Human Now \(feat\. Luke Steele\)](https://open.spotify.com/track/3Ta75DXRTpZ0XieWHuhjE4) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Luke Steele](https://open.spotify.com/artist/0CliOhi161ZCRIVw60prp0) | [The End Of Genesys](https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu) | 3:10 |
 | 6 | [Back In My Bed](https://open.spotify.com/track/5Ptt8Whisd1IwucwgXEyeT) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MEYY](https://open.spotify.com/artist/6ovTUUvyWpxSigzDhtfVs5), [Y2J!](https://open.spotify.com/artist/4j9xWaq0mEloOvk8GW6aNb) | [Back In My Bed](https://open.spotify.com/album/5oKNITqLnzMlc1B0733IKd) | 2:23 |
 | 7 | [Doing Nothin'](https://open.spotify.com/track/6PAt6xtbwjpRwG4V3zKWaK) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Doing Nothin'](https://open.spotify.com/album/5u2FuIwuJwnkLtDnlAk3gs) | 3:06 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 | 135 | [Got Me Started \- Bag Raiders Remix](https://open.spotify.com/track/3DDLRC6c693OtavNQlFHJg) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Got Me Started \(Bag Raiders Remix\)](https://open.spotify.com/album/3LSSfe6q1TZDAr4fYZt3jX) | 3:41 |
 | 136 | [Cruel Summer \- LP Giobbi Remix](https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [The Cruelest Summer](https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4) | 3:12 |
 
-Snapshot ID: `AAAgSu9g+yEWunHUm3FOkk5molFOJ6Fx`
+Snapshot ID: `AAAgTqhQzCELW8llNHcTZ/+Rx5dUQI+t`

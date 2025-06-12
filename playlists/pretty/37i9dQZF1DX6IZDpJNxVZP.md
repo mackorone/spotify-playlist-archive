@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,134 likes - 75 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,123 likes - 75 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,13 +64,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 54 | [It Must Be Halloween](https://open.spotify.com/track/1f1svbp3KN0QkxWh3Ecx7W) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T) | [It Must Be Halloween](https://open.spotify.com/album/5rbxNOnGkelOAzu5xHPNGG) | 2:29 |
 | 55 | [I Wanna Scare Myself](https://open.spotify.com/track/7pvlXWhbPUkGmhspCJ49Pn) | [Tigger](https://open.spotify.com/artist/2hblnfACzyljMfIZDwRZ7e) | [Songs and Story: Mickey's Spooky Night](https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr) | 1:12 |
 | 56 | [I Want Candy \(From A Really Haunted Loud House\)](https://open.spotify.com/track/1XCoPYpOwAIDffPzM7RNPP) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [I Want Candy \(From A Really Haunted Loud House\)](https://open.spotify.com/album/7CZTb3EvLKNDGxWwedSRj4) | 3:12 |
-| 57 | [The Werewolf Song](https://open.spotify.com/track/0QNPxITooj5C1rHCS525q4) | [Marco Marinangeli](https://open.spotify.com/artist/3zBZ1VgB4jgPW5KYDJIOL9) | [Songs and Story: Mickey's Spooky Night](https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr) | 2:22 |
-| 58 | [Halloween Train](https://open.spotify.com/track/2CWGQwGJdssqTsOqBtORE7) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Halloween Train](https://open.spotify.com/album/0Lf6axNL2EDZ1hTLKk0RAU) | 2:43 |
+| 57 | [Halloween Train](https://open.spotify.com/track/2CWGQwGJdssqTsOqBtORE7) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Halloween Train](https://open.spotify.com/album/0Lf6axNL2EDZ1hTLKk0RAU) | 2:43 |
+| 58 | [The Werewolf Song](https://open.spotify.com/track/0QNPxITooj5C1rHCS525q4) | [Marco Marinangeli](https://open.spotify.com/artist/3zBZ1VgB4jgPW5KYDJIOL9) | [Songs and Story: Mickey's Spooky Night](https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr) | 2:22 |
 | 59 | [A Haunted House on Halloween Night](https://open.spotify.com/track/2RAGtit059yqjKXWI7c0hh) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 8: Children's Sing Along Songs](https://open.spotify.com/album/1BurLHHyJ5fhOfjryFHiOs) | 2:22 |
 | 60 | [Halloween Costume Party](https://open.spotify.com/track/3swsatQ81Gp6ZNv7vDWIwU) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong & Hogi Halloween Sing Along](https://open.spotify.com/album/29VITVgfijNrLfpNHmZwzT) | 2:59 |
 | 61 | [Who Let The Ghosts Out](https://open.spotify.com/track/4bU4wo67tGtrDPaFv5pSk8) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [Kids Halloween Party Music](https://open.spotify.com/album/1DrwxkXuJRDomi1QtqvRAA) | 2:46 |
-| 62 | [Where's the Werewolf Pack?](https://open.spotify.com/track/6teAuLc042zZe8CXnxRRzH) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Monster Music! Kids Halloween Songs](https://open.spotify.com/album/3tHFVWLOo2nQSsxQEPgfCE) | 2:13 |
-| 63 | [I Picked One Pumpkin](https://open.spotify.com/track/0ZL9uSA7x450DFvKuG43Gu) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [I Picked One Pumpkin](https://open.spotify.com/album/0hbpyXdWi80fnPvI4TkyEQ) | 2:10 |
+| 62 | [I Picked One Pumpkin](https://open.spotify.com/track/0ZL9uSA7x450DFvKuG43Gu) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [I Picked One Pumpkin](https://open.spotify.com/album/0hbpyXdWi80fnPvI4TkyEQ) | 2:10 |
+| 63 | [Where's the Werewolf Pack?](https://open.spotify.com/track/6teAuLc042zZe8CXnxRRzH) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Monster Music! Kids Halloween Songs](https://open.spotify.com/album/3tHFVWLOo2nQSsxQEPgfCE) | 2:13 |
 | 64 | [Dem Bones \(The Skeleton Song\)](https://open.spotify.com/track/2CByDfanNXrPwv6KRihe83) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Dem Bones \(The Skeleton Song\)](https://open.spotify.com/album/1xwaYpB7sL80dl0WOoXZRi) | 2:20 |
 | 65 | [Halloween Boogie Dance](https://open.spotify.com/track/6lT87LGFdNZa33zHH1j7LY) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Party](https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt) | 2:05 |
 | 66 | [Skeleton Dance](https://open.spotify.com/track/24DMFHfbCmdGFKj06O2zpw) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Halloween Kids Party With Little Baby Bum](https://open.spotify.com/album/3w0ggqSNDMTURl4QUMOkbW) | 2:06 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 72 | [The Wheels on the Halloween Bus](https://open.spotify.com/track/0s1UgIZsNTIsaeuJ9ahVGa) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Spooky Sing\-Along Halloween Songs](https://open.spotify.com/album/3Pqck35IQqpzHjsDmIoz4B) | 1:43 |
 | 73 | [Day\-O \(The Banana Boat Song\)](https://open.spotify.com/track/4WdhK1qsW9lQ5ttqpRe1zC) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [The 50 Best Summer Songs](https://open.spotify.com/album/40legtNV5Qr6WDg9n4z5PJ) | 3:04 |
 | 74 | [Skeleton Shake](https://open.spotify.com/track/3dAqvO0MKcWsOYK6K6kShH) | [Bari Koral](https://open.spotify.com/artist/40GTTHyDAFn0HJ1vsk7CYZ) | [Skeleton Shake](https://open.spotify.com/album/2XSPmhwlCOWP77RNQHPomh) | 3:19 |
-| 75 | [Monster Mash](https://open.spotify.com/track/5VnJN193do97HJy4aSY92j) | [Kid Drew and the Kids](https://open.spotify.com/artist/0ZZEIFI5YjLqOo4qc5Awj3) | [Kid Drew and the Kids Present: Spooky Halloween Party Music](https://open.spotify.com/album/6ejSEMxGjq0F9aVPHK0y9a) | 3:13 |
+| 75 | [Halloween Is Finally Here](https://open.spotify.com/track/6HRKf0RUdc4tgz2mre0vNh) | [Bears and Lions](https://open.spotify.com/artist/55XGQSMgofzZFEtY4bDJPB) | [Halloween Is Finally Here](https://open.spotify.com/album/4Uuu1GmwbX8lfwHk6ODSD3) | 1:45 |
 
 Snapshot ID: `aBKKjQAAAAAMF2eHICzUu/ZXEqS//YN+`

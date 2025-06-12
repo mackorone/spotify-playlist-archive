@@ -1641,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "Amigos Nada Mas",
+        "url": "https://open.spotify.com/album/0MftVBXPwqNfBkTaa5IYjr"
+      },
+      "artists": [
+        {
+          "name": "Altafulla",
+          "url": "https://open.spotify.com/artist/0Tr6PMUYJ3MupljA0MS4Dy"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192386,
+      "name": "Amigos Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/1QzWzFuFvIw72noyDqU7i6"
+    },
+    {
+      "album": {
         "name": "AMISTA",
         "url": "https://open.spotify.com/album/12kivfRERofKpsDpcinrmE"
       },
@@ -3052,7 +3070,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "BOMBASTIK<3",
       "url": "https://open.spotify.com/track/2Kx9AfJPaJib9DwAdDYdB9"
@@ -3476,7 +3494,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 101899,
       "name": "Caferxxo",
       "url": "https://open.spotify.com/track/40r9iHqfn1npwJWYAB0EuM"
@@ -5690,7 +5708,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 150370,
       "name": "DALLAX",
       "url": "https://open.spotify.com/track/49d59eVjo5QZtjcbW34UBs"
@@ -6632,7 +6650,7 @@
           "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         },
         {
-          "name": "Arcangel",
+          "name": "Arc\u00e1ngel",
           "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
@@ -6650,7 +6668,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-27",
+      "date_removed": null,
       "duration_ms": 286040,
       "name": "Diles",
       "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
@@ -11528,7 +11546,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 196731,
       "name": "hypnotixx",
       "url": "https://open.spotify.com/track/04tkvLGmCwL3WmAVRYDm4H"
@@ -11600,7 +11618,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 229450,
       "name": "I MIXX U",
       "url": "https://open.spotify.com/track/55YBw0f9BWWKSTAh0oUADW"
@@ -12140,7 +12158,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 179727,
       "name": "KELOIDE",
       "url": "https://open.spotify.com/track/0Nd6eq8BzjMnyq9f37QuUW"
@@ -12180,7 +12198,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 206066,
       "name": "Kh\u00e9?",
       "url": "https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9"
@@ -12572,7 +12590,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -17590,7 +17608,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 162613,
       "name": "NO ME DEJO XXIMBIAR",
       "url": "https://open.spotify.com/track/7MyKjQ56jusvJ3cuAZEDcn"
@@ -24088,6 +24106,28 @@
     {
       "album": {
         "name": "Solcito",
+        "url": "https://open.spotify.com/album/3h702JwTzZ6WANZvaGVCOM"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bueno",
+          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Solcito",
+      "url": "https://open.spotify.com/track/0JY2QXSvlpA8DZwgaAYWlY"
+    },
+    {
+      "album": {
+        "name": "Solcito",
         "url": "https://open.spotify.com/album/3BzCHEyuOsxZrWq3M3CsR2"
       },
       "artists": [
@@ -24102,7 +24142,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 144000,
       "name": "Solcito",
       "url": "https://open.spotify.com/track/2BE1Q5N4Enl1eRrM82uzsu"
@@ -27124,7 +27164,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 172427,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"

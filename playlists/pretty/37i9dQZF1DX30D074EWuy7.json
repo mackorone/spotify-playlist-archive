@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Studio Murena",
-  "num_followers": 32810,
+  "num_followers": 32817,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
-        "name": "Notturno",
-        "url": "https://open.spotify.com/album/6yJ4cIfrOpoo4QukcFtCYw"
-      },
-      "artists": [
-        {
-          "name": "Studio Murena",
-          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "Another Day with Another Sun",
-      "url": "https://open.spotify.com/track/045b5tSZLnJMihVXfatkXF"
-    },
-    {
-      "added_at": "2025-05-16 08:06:21",
-      "album": {
         "name": "Prati Bagnati Del Monte Analogo",
         "url": "https://open.spotify.com/album/61B1GQvwCDsQMEP6yaySOB"
       },
@@ -955,22 +939,18 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
-        "name": "Quando le canzoni finiscono",
-        "url": "https://open.spotify.com/album/0pbaxeBm7EGjfBiiuD0LyE"
+        "name": "Notturno",
+        "url": "https://open.spotify.com/album/6yJ4cIfrOpoo4QukcFtCYw"
       },
       "artists": [
         {
-          "name": "Carlo Corallo",
-          "url": "https://open.spotify.com/artist/5qkSgK2UUXXa0DDBks4vqt"
-        },
-        {
-          "name": "Funk Shui Project",
-          "url": "https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E"
+          "name": "Studio Murena",
+          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
         }
       ],
-      "duration_ms": 238043,
-      "name": "Un giardino",
-      "url": "https://open.spotify.com/track/1xXKvZSKZGcBR4jNOvirl6"
+      "duration_ms": 197200,
+      "name": "Another Day with Another Sun",
+      "url": "https://open.spotify.com/track/045b5tSZLnJMihVXfatkXF"
     },
     {
       "added_at": "2025-05-16 08:06:21",
@@ -987,6 +967,26 @@
       "duration_ms": 175047,
       "name": "Stella del sud",
       "url": "https://open.spotify.com/track/4DkvQdCtKBSPJ8D9O6oP9p"
+    },
+    {
+      "added_at": "2025-05-16 08:06:21",
+      "album": {
+        "name": "Quando le canzoni finiscono",
+        "url": "https://open.spotify.com/album/0pbaxeBm7EGjfBiiuD0LyE"
+      },
+      "artists": [
+        {
+          "name": "Carlo Corallo",
+          "url": "https://open.spotify.com/artist/5qkSgK2UUXXa0DDBks4vqt"
+        },
+        {
+          "name": "Funk Shui Project",
+          "url": "https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E"
+        }
+      ],
+      "duration_ms": 238043,
+      "name": "Un giardino",
+      "url": "https://open.spotify.com/track/1xXKvZSKZGcBR4jNOvirl6"
     },
     {
       "added_at": "2025-05-16 08:06:21",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
+        "name": "Ora beat!",
+        "url": "https://open.spotify.com/album/3tkErn9EJIiHVtDJ2xOWbj"
+      },
+      "artists": [
+        {
+          "name": "Stefano Torossi",
+          "url": "https://open.spotify.com/artist/0gQMsmHT9YZJYIQxM1yJmM"
+        }
+      ],
+      "duration_ms": 125572,
+      "name": "Bighellonando",
+      "url": "https://open.spotify.com/track/45XyiT4BoN2BglFr5dbEsH"
+    },
+    {
+      "added_at": "2025-05-16 08:06:21",
+      "album": {
         "name": "Le mie donne",
         "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 164246,
       "name": "Amore a prima vista - Bossa & Jazz Version",
       "url": "https://open.spotify.com/track/0heptj0YkBIKMw2JC7spOO"
-    },
-    {
-      "added_at": "2025-05-16 08:06:21",
-      "album": {
-        "name": "Ora beat!",
-        "url": "https://open.spotify.com/album/3tkErn9EJIiHVtDJ2xOWbj"
-      },
-      "artists": [
-        {
-          "name": "Stefano Torossi",
-          "url": "https://open.spotify.com/artist/0gQMsmHT9YZJYIQxM1yJmM"
-        }
-      ],
-      "duration_ms": 125572,
-      "name": "Bighellonando",
-      "url": "https://open.spotify.com/track/45XyiT4BoN2BglFr5dbEsH"
     },
     {
       "added_at": "2025-05-16 08:06:21",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
+        "name": "Non mi resta che tacere",
+        "url": "https://open.spotify.com/album/5hmztkj3i2mGUjPFKdjjwA"
+      },
+      "artists": [
+        {
+          "name": "Marta Frigo",
+          "url": "https://open.spotify.com/artist/08Z3yD7mKBrpXTlrh0mGpj"
+        }
+      ],
+      "duration_ms": 275291,
+      "name": "Non mi resta che tacere",
+      "url": "https://open.spotify.com/track/78zfOvtwijnDEc03lJunsl"
+    },
+    {
+      "added_at": "2025-05-16 08:06:21",
+      "album": {
         "name": "Gigi",
         "url": "https://open.spotify.com/album/4GyNk8XoRGxRhPg85qpSAP"
       },
@@ -1531,18 +1547,18 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
-        "name": "Non mi resta che tacere",
-        "url": "https://open.spotify.com/album/5hmztkj3i2mGUjPFKdjjwA"
+        "name": "Jazz vs Corona Vol. 1",
+        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
       },
       "artists": [
         {
-          "name": "Marta Frigo",
-          "url": "https://open.spotify.com/artist/08Z3yD7mKBrpXTlrh0mGpj"
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
         }
       ],
-      "duration_ms": 275291,
-      "name": "Non mi resta che tacere",
-      "url": "https://open.spotify.com/track/78zfOvtwijnDEc03lJunsl"
+      "duration_ms": 209551,
+      "name": "Luna di mezzogiorno",
+      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
     },
     {
       "added_at": "2025-05-16 08:06:21",
@@ -1563,22 +1579,6 @@
       "duration_ms": 288616,
       "name": "Tuareg",
       "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
-    },
-    {
-      "added_at": "2025-05-16 08:06:21",
-      "album": {
-        "name": "Jazz vs Corona Vol. 1",
-        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
-      },
-      "artists": [
-        {
-          "name": "Bebo Ferra",
-          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
-        }
-      ],
-      "duration_ms": 209551,
-      "name": "Luna di mezzogiorno",
-      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
     },
     {
       "added_at": "2025-05-16 08:06:21",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
-        "name": "Chiara Civello 7752",
-        "url": "https://open.spotify.com/album/1YZkGzLfEIJDzLugOASTMa"
-      },
-      "artists": [
-        {
-          "name": "Chiara Civello",
-          "url": "https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk"
-        }
-      ],
-      "duration_ms": 322333,
-      "name": "Resta",
-      "url": "https://open.spotify.com/track/3eq4ncW2xC74TteeoSZ7Ec"
-    },
-    {
-      "added_at": "2025-05-16 08:06:21",
-      "album": {
         "name": "Sounds Like Freedom",
         "url": "https://open.spotify.com/album/6mlrg0FuPmj4hY1f6zUDjc"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 299787,
       "name": "Habibi Baby",
       "url": "https://open.spotify.com/track/0pCfYzmqBqZN9uRoVfErBF"
+    },
+    {
+      "added_at": "2025-05-16 08:06:21",
+      "album": {
+        "name": "Chiara Civello 7752",
+        "url": "https://open.spotify.com/album/1YZkGzLfEIJDzLugOASTMa"
+      },
+      "artists": [
+        {
+          "name": "Chiara Civello",
+          "url": "https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk"
+        }
+      ],
+      "duration_ms": 322333,
+      "name": "Resta",
+      "url": "https://open.spotify.com/track/3eq4ncW2xC74TteeoSZ7Ec"
     },
     {
       "added_at": "2025-05-16 08:06:21",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
+        "name": "The Tales Of Doctor 3",
+        "url": "https://open.spotify.com/album/4pZ8j1ZhDspPrC6LPDc7zI"
+      },
+      "artists": [
+        {
+          "name": "Doctor 3",
+          "url": "https://open.spotify.com/artist/65Ajl7IOuvOWs7CPUADD4Y"
+        }
+      ],
+      "duration_ms": 422573,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/3WtoXFfPhUpfz0CyG9FuZ3"
+    },
+    {
+      "added_at": "2025-05-16 08:06:21",
+      "album": {
         "name": "For Those I Never Knew",
         "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 184213,
       "name": "Looping",
       "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
-    },
-    {
-      "added_at": "2025-05-16 08:06:21",
-      "album": {
-        "name": "The Tales Of Doctor 3",
-        "url": "https://open.spotify.com/album/4pZ8j1ZhDspPrC6LPDc7zI"
-      },
-      "artists": [
-        {
-          "name": "Doctor 3",
-          "url": "https://open.spotify.com/artist/65Ajl7IOuvOWs7CPUADD4Y"
-        }
-      ],
-      "duration_ms": 422573,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/3WtoXFfPhUpfz0CyG9FuZ3"
     },
     {
       "added_at": "2025-05-16 08:06:21",
@@ -1983,26 +1983,18 @@
     {
       "added_at": "2025-05-16 08:06:21",
       "album": {
-        "name": "Racconti mediterranei",
-        "url": "https://open.spotify.com/album/4GWgCiFuTFmnoPgjMkiuO2"
+        "name": "Integra",
+        "url": "https://open.spotify.com/album/2nWPV4x5GdYmmqAyzCxQNz"
       },
       "artists": [
         {
-          "name": "Enrico Pieranunzi",
-          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
-        },
-        {
-          "name": "Marc Johnson",
-          "url": "https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH"
-        },
-        {
-          "name": "Gabriele Mirabassi",
-          "url": "https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE"
+          "name": "Ivan Segreto",
+          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
         }
       ],
-      "duration_ms": 454173,
-      "name": "Canzone di Nausicaa",
-      "url": "https://open.spotify.com/track/3NOKIQbCbTnl2808xd2V5B"
+      "duration_ms": 254773,
+      "name": "Vibrare",
+      "url": "https://open.spotify.com/track/1W6JKo8Tmp5sapSLCGq7xC"
     }
   ],
   "unique_name": "Jazz Italia",

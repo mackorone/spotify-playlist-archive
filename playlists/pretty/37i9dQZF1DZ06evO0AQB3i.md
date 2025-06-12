@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 
 > This is Alabama Shakes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,270 likes - 19 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,285 likes - 19 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 | 13 | [I Ain't The Same](https://open.spotify.com/track/3KovbvpV7cqIw4gg2CihPu) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 2:55 |
 | 14 | [Heavy Chevy](https://open.spotify.com/track/4QpoJRn7I1YZ20yo0ngnJ9) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Heavy Chevy](https://open.spotify.com/album/0ZNuNVOpsdhcHZlgVWwqHp) | 2:26 |
 | 15 | [Shoegaze](https://open.spotify.com/track/09nDcxFx9DAkpfxDjse4gZ) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 2:59 |
-| 16 | [You Ain't Alone](https://open.spotify.com/track/6ztmULOCCXDLtuixz29GYz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 4:44 |
+| 16 | [Be Mine](https://open.spotify.com/track/4nGil2gSvOVDRFGb1julsJ) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 4:14 |
 | 17 | [Gimme All Your Love](https://open.spotify.com/track/4kdqfbnSxyQdQwoyi3VwwD) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 4:03 |
-| 18 | [Be Mine](https://open.spotify.com/track/4nGil2gSvOVDRFGb1julsJ) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 4:14 |
+| 18 | [You Ain't Alone](https://open.spotify.com/track/6ztmULOCCXDLtuixz29GYz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 4:44 |
 | 19 | [Guess Who](https://open.spotify.com/track/45JLSLXRMQJabYtPtSuBmV) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:15 |
 
-Snapshot ID: `aEYkAAAAAAB5C6vyDiuuUHK9o7Xm0rxP`
+Snapshot ID: `aEd1gAAAAADqJheXwFEne6nA/WQnOHAk`

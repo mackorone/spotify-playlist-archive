@@ -1,6 +1,6 @@
 {
   "description": "Feeling like summer in 03'",
-  "num_followers": 6055,
+  "num_followers": 6076,
   "original_name": "Summer Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -306,15 +306,11 @@
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Static Major",
-          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
         }
       ],
-      "duration_ms": 299333,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/4P7VFiaZb3xrXoqGwZXC3J"
+      "duration_ms": 221840,
+      "name": "A Milli",
+      "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
     },
     {
       "added_at": "2023-06-19 01:52:12",
@@ -398,11 +394,15 @@
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Static Major",
+          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
         }
       ],
-      "duration_ms": 221840,
-      "name": "A Milli",
-      "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
+      "duration_ms": 299333,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/4P7VFiaZb3xrXoqGwZXC3J"
     },
     {
       "added_at": "2023-06-19 01:52:12",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-06-19 01:52:12",
       "album": {
+        "name": "All I Have",
+        "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
+      },
+      "artists": [
+        {
+          "name": "Amerie",
+          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
+        }
+      ],
+      "duration_ms": 159293,
+      "name": "Why Don't We Fall in Love",
+      "url": "https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO"
+    },
+    {
+      "added_at": "2023-06-19 01:52:12",
+      "album": {
         "name": "Come Home With Me",
         "url": "https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 204706,
       "name": "Oh Boy",
       "url": "https://open.spotify.com/track/4X1odWLrLSSahaK6Hi15AA"
-    },
-    {
-      "added_at": "2023-06-19 01:52:12",
-      "album": {
-        "name": "All I Have",
-        "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
-      },
-      "artists": [
-        {
-          "name": "Amerie",
-          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
-        }
-      ],
-      "duration_ms": 159293,
-      "name": "Why Don't We Fall in Love",
-      "url": "https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO"
     },
     {
       "added_at": "2023-06-19 01:52:12",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-06-19 01:52:12",
       "album": {
+        "name": "All I Have",
+        "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
+      },
+      "artists": [
+        {
+          "name": "Amerie",
+          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
+        }
+      ],
+      "duration_ms": 209560,
+      "name": "I Just Died",
+      "url": "https://open.spotify.com/track/54FAYoGATQPUBbxCIclHkG"
+    },
+    {
+      "added_at": "2023-06-19 01:52:12",
+      "album": {
         "name": "Art And Life",
         "url": "https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 257893,
       "name": "Girls Dem Sugar",
       "url": "https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ"
-    },
-    {
-      "added_at": "2023-06-19 01:52:12",
-      "album": {
-        "name": "All I Have",
-        "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
-      },
-      "artists": [
-        {
-          "name": "Amerie",
-          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
-        }
-      ],
-      "duration_ms": 209560,
-      "name": "I Just Died",
-      "url": "https://open.spotify.com/track/54FAYoGATQPUBbxCIclHkG"
     },
     {
       "added_at": "2023-06-19 01:52:12",

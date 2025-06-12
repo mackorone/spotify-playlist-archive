@@ -1641,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "Friendly Fire",
+        "url": "https://open.spotify.com/album/6lCg2ME7gkiB8IFZaCRuUL"
+      },
+      "artists": [
+        {
+          "name": "Edie Bens",
+          "url": "https://open.spotify.com/artist/0BdtAVeSQlKZkWcgcz7aLS"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171112,
+      "name": "Friendly Fire",
+      "url": "https://open.spotify.com/track/0EAGJu4mpoE4XsQFyyTmLN"
+    },
+    {
+      "album": {
         "name": "friends",
         "url": "https://open.spotify.com/album/4AYWIcHcXqQ5fq4l08Bp1C"
       },
@@ -2502,7 +2520,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 171650,
       "name": "I\u2019m sad and I\u2019m angry and I\u2019m scared that you hate me",
       "url": "https://open.spotify.com/track/2Il5seHCUssppn09Kg3xg3"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Benny The Butcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,589,049 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,589,031 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 41 | [OUTLANDER](https://open.spotify.com/track/0XYCmKYEqdtNE8mYIIaBg9) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [12](https://open.spotify.com/album/3LtZUOfccDjNs18684twS8) | 3:09 |
 | 42 | [I Been](https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [I Been](https://open.spotify.com/album/35A7fWLFHyE36KKAOazele) | 2:34 |
 | 43 | [Syrup Sandwiches \(feat\. Joey Bada$$\)](https://open.spotify.com/track/2BYffiV0F3ZGKVLuQjmjY2) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Syrup Sandwiches \(feat\. Joey Bada$$\)](https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i) | 2:53 |
-| 44 | [Born Alone](https://open.spotify.com/track/2neOh0UnFRntLK3tdUV7W0) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO) | [GOLLIWOG](https://open.spotify.com/album/6YjoANrjcsf17p1OmWESfo) | 2:56 |
-| 45 | [grindstone](https://open.spotify.com/track/7GS1fVRRvFXlCobWkLhgGu) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [shadowbox](https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ) | 2:08 |
+| 44 | [grindstone](https://open.spotify.com/track/7GS1fVRRvFXlCobWkLhgGu) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [shadowbox](https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ) | 2:08 |
+| 45 | [Born Alone](https://open.spotify.com/track/2neOh0UnFRntLK3tdUV7W0) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO) | [GOLLIWOG](https://open.spotify.com/album/6YjoANrjcsf17p1OmWESfo) | 2:56 |
 | 46 | [Acts 1.5](https://open.spotify.com/track/1eX082TmxuRRtteicQDtgv) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH) | [From The Private Collection of Saba and No ID](https://open.spotify.com/album/7ha6zD0XRzUxAxxfXDLYfq) | 1:58 |
 | 47 | [Bad Choices](https://open.spotify.com/track/7bFXjldFpiHnXqM38oSi50) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Bad Choices](https://open.spotify.com/album/4X6ifMiovznIkvjZ4Ti98g) | 3:04 |
 | 48 | [3:AM \(feat\. Erykah Badu\)](https://open.spotify.com/track/44BRidSOFkXcKH3oZzHKdR) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 3:33 |

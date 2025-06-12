@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3930846,
+  "num_followers": 3930809,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,26 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
+        "name": "Places",
+        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        }
+      ],
+      "duration_ms": 211278,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
+    },
+    {
+      "added_at": "2025-06-06 04:00:23",
+      "album": {
         "name": "Out Of Ten (Shingo Nakamura & before saudade Remix)",
         "url": "https://open.spotify.com/album/2muoiXwIB1Jw4JMXRFgrbz"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 153875,
       "name": "Out Of Ten - Shingo Nakamura & before saudade Remix",
       "url": "https://open.spotify.com/track/6EU7osUcQJSBc5dHiNTlPj"
-    },
-    {
-      "added_at": "2025-06-06 04:00:23",
-      "album": {
-        "name": "Places",
-        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        }
-      ],
-      "duration_ms": 211278,
-      "name": "Places",
-      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
     },
     {
       "added_at": "2025-06-06 04:00:23",
@@ -763,26 +763,6 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
-        "name": "Feel",
-        "url": "https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 219208,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi"
-    },
-    {
-      "added_at": "2025-06-06 04:00:23",
-      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/4S4VjEK6SsnM7kVDy4w5Yx"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 264614,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/5XJvzlRR2FnsObtoYy6qoy"
+    },
+    {
+      "added_at": "2025-06-06 04:00:23",
+      "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 219208,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi"
     },
     {
       "added_at": "2025-06-06 04:00:23",
@@ -951,26 +951,6 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
-        "name": "KYGO",
-        "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 258517,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/61UHYLpt5koa0wHhw3n6Uz"
-    },
-    {
-      "added_at": "2025-06-06 04:00:23",
-      "album": {
         "name": "From The Start",
         "url": "https://open.spotify.com/album/4egDJ1nzQU2SuFNkYaYMpe"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 199450,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/0dQc8ZTG7fPARbRJPXHs9P"
+    },
+    {
+      "added_at": "2025-06-06 04:00:23",
+      "album": {
+        "name": "KYGO",
+        "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 258517,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/61UHYLpt5koa0wHhw3n6Uz"
     },
     {
       "added_at": "2025-06-06 04:00:23",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
-        "name": "Trying To See U",
-        "url": "https://open.spotify.com/album/245bKseQZcRwdtFbyUtNlO"
-      },
-      "artists": [
-        {
-          "name": "heylucas",
-          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
-        }
-      ],
-      "duration_ms": 181550,
-      "name": "Trying To See U",
-      "url": "https://open.spotify.com/track/585wU2R0TPuS2cgDWTrP7L"
-    },
-    {
-      "added_at": "2025-06-06 04:00:23",
-      "album": {
         "name": "Breathing",
         "url": "https://open.spotify.com/album/1bMQCZWPYlLqZP7jiurMan"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 204419,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/4u53O1CMHzbuKjO9fGcGQV"
+    },
+    {
+      "added_at": "2025-06-06 04:00:23",
+      "album": {
+        "name": "Trying To See U",
+        "url": "https://open.spotify.com/album/245bKseQZcRwdtFbyUtNlO"
+      },
+      "artists": [
+        {
+          "name": "heylucas",
+          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
+        }
+      ],
+      "duration_ms": 181550,
+      "name": "Trying To See U",
+      "url": "https://open.spotify.com/track/585wU2R0TPuS2cgDWTrP7L"
     },
     {
       "added_at": "2025-06-06 04:00:23",
@@ -1139,46 +1139,6 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
-        "name": "Childish Remixes II",
-        "url": "https://open.spotify.com/album/5kpUhgI9Ry6t29cwdvrTk5"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Rinzen",
-          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
-        }
-      ],
-      "duration_ms": 355661,
-      "name": "Higher - Rinzen Remix",
-      "url": "https://open.spotify.com/track/33zxsZ9LzcTMspBVI5i3vY"
-    },
-    {
-      "added_at": "2025-06-06 04:00:23",
-      "album": {
-        "name": "Fall Apart",
-        "url": "https://open.spotify.com/album/5sNIvva0OBx8BPyb9OPfq2"
-      },
-      "artists": [
-        {
-          "name": "Ourson",
-          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
-        },
-        {
-          "name": "Benji Lewis",
-          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
-        }
-      ],
-      "duration_ms": 188454,
-      "name": "Fall Apart",
-      "url": "https://open.spotify.com/track/1A0yCVsRU1fqI2azbaoGSV"
-    },
-    {
-      "added_at": "2025-06-06 04:00:23",
-      "album": {
         "name": "can't hold the light",
         "url": "https://open.spotify.com/album/2MbcAJPVC3u2vlg8aa0xRn"
       },
@@ -1203,6 +1163,26 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
+        "name": "Fall Apart",
+        "url": "https://open.spotify.com/album/5sNIvva0OBx8BPyb9OPfq2"
+      },
+      "artists": [
+        {
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+        },
+        {
+          "name": "Benji Lewis",
+          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
+        }
+      ],
+      "duration_ms": 188454,
+      "name": "Fall Apart",
+      "url": "https://open.spotify.com/track/1A0yCVsRU1fqI2azbaoGSV"
+    },
+    {
+      "added_at": "2025-06-06 04:00:23",
+      "album": {
         "name": "Another Touch",
         "url": "https://open.spotify.com/album/2Wfg7CEgt00tX1SSwauvYR"
       },
@@ -1223,6 +1203,26 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
+        "name": "Childish Remixes II",
+        "url": "https://open.spotify.com/album/5kpUhgI9Ry6t29cwdvrTk5"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Rinzen",
+          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
+        }
+      ],
+      "duration_ms": 355661,
+      "name": "Higher - Rinzen Remix",
+      "url": "https://open.spotify.com/track/33zxsZ9LzcTMspBVI5i3vY"
+    },
+    {
+      "added_at": "2025-06-06 04:00:23",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5"
       },
@@ -1235,6 +1235,26 @@
       "duration_ms": 217617,
       "name": "Blue",
       "url": "https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy"
+    },
+    {
+      "added_at": "2025-06-06 04:00:23",
+      "album": {
+        "name": "fever",
+        "url": "https://open.spotify.com/album/44KLbHGEN8Oxwg3EwCgLZG"
+      },
+      "artists": [
+        {
+          "name": "puulse",
+          "url": "https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp"
+        },
+        {
+          "name": "maybealice",
+          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
+        }
+      ],
+      "duration_ms": 140952,
+      "name": "fever",
+      "url": "https://open.spotify.com/track/0qCzMwwsrHm56Wk0PPOndb"
     },
     {
       "added_at": "2025-06-06 04:00:23",
@@ -1271,26 +1291,6 @@
       "duration_ms": 194754,
       "name": "Stop the time",
       "url": "https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai"
-    },
-    {
-      "added_at": "2025-06-06 04:00:23",
-      "album": {
-        "name": "fever",
-        "url": "https://open.spotify.com/album/44KLbHGEN8Oxwg3EwCgLZG"
-      },
-      "artists": [
-        {
-          "name": "puulse",
-          "url": "https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp"
-        },
-        {
-          "name": "maybealice",
-          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
-        }
-      ],
-      "duration_ms": 140952,
-      "name": "fever",
-      "url": "https://open.spotify.com/track/0qCzMwwsrHm56Wk0PPOndb"
     },
     {
       "added_at": "2025-06-06 04:00:23",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/6FI3iFdhMbw1fwAsPH0Mz0"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 215435,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/6BiBQjBIl8ozwqRihm4hTV"
-    },
-    {
-      "added_at": "2025-06-06 04:00:23",
-      "album": {
         "name": "Maitri",
         "url": "https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 177391,
       "name": "Maitri",
       "url": "https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5"
+    },
+    {
+      "added_at": "2025-06-06 04:00:23",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6FI3iFdhMbw1fwAsPH0Mz0"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 215435,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/6BiBQjBIl8ozwqRihm4hTV"
     },
     {
       "added_at": "2025-06-06 04:00:23",
@@ -1519,6 +1519,26 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
+        "name": "Iajo",
+        "url": "https://open.spotify.com/album/00D70fYsAp00LqwJuh6214"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        },
+        {
+          "name": "Fejk\u00e1",
+          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
+        }
+      ],
+      "duration_ms": 278217,
+      "name": "Iajo",
+      "url": "https://open.spotify.com/track/6fWaPTrp9PnPwd9l3U3Keo"
+    },
+    {
+      "added_at": "2025-06-06 04:00:23",
+      "album": {
         "name": "I Just Needed This",
         "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
       },
@@ -1539,18 +1559,18 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
-        "name": "Habitat",
-        "url": "https://open.spotify.com/album/2H4DdaXHmBUwSKqUC3JfXF"
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST"
       },
       "artists": [
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
         }
       ],
-      "duration_ms": 210967,
-      "name": "Habitat",
-      "url": "https://open.spotify.com/track/2qYufpzsTI4WU4jzFfs83S"
+      "duration_ms": 244285,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq"
     },
     {
       "added_at": "2025-06-06 04:00:23",
@@ -1575,18 +1595,18 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST"
+        "name": "Habitat",
+        "url": "https://open.spotify.com/album/2H4DdaXHmBUwSKqUC3JfXF"
       },
       "artists": [
         {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 244285,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq"
+      "duration_ms": 210967,
+      "name": "Habitat",
+      "url": "https://open.spotify.com/track/2qYufpzsTI4WU4jzFfs83S"
     },
     {
       "added_at": "2025-06-06 04:00:23",
@@ -1699,26 +1719,6 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
-        "name": "Iajo",
-        "url": "https://open.spotify.com/album/00D70fYsAp00LqwJuh6214"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        },
-        {
-          "name": "Fejk\u00e1",
-          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
-        }
-      ],
-      "duration_ms": 278217,
-      "name": "Iajo",
-      "url": "https://open.spotify.com/track/6fWaPTrp9PnPwd9l3U3Keo"
-    },
-    {
-      "added_at": "2025-06-06 04:00:23",
-      "album": {
         "name": "Heal",
         "url": "https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB"
       },
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
-        "name": "My Reflection",
-        "url": "https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 257608,
-      "name": "My Reflection",
-      "url": "https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht"
-    },
-    {
-      "added_at": "2025-06-06 04:00:23",
-      "album": {
         "name": "Train of Thoughts",
         "url": "https://open.spotify.com/album/25ofOqJksQI5dd1ky79SBD"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 206097,
       "name": "Train of Thoughts",
       "url": "https://open.spotify.com/track/1OoJQao2C0rvcUpr2BqgaM"
+    },
+    {
+      "added_at": "2025-06-06 04:00:23",
+      "album": {
+        "name": "My Reflection",
+        "url": "https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 257608,
+      "name": "My Reflection",
+      "url": "https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht"
     },
     {
       "added_at": "2025-06-06 04:00:23",
@@ -1871,26 +1871,6 @@
     {
       "added_at": "2025-06-06 04:00:23",
       "album": {
-        "name": "See You In Dreams",
-        "url": "https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz"
-      },
-      "artists": [
-        {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
-        },
-        {
-          "name": "Be No Rain",
-          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
-        }
-      ],
-      "duration_ms": 271519,
-      "name": "See You In Dreams",
-      "url": "https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW"
-    },
-    {
-      "added_at": "2025-06-06 04:00:23",
-      "album": {
         "name": "Glad I Found You (feat. George FitzGerald) [Club Mix]",
         "url": "https://open.spotify.com/album/1HxflBDbLpn0KNKGehQZ6Y"
       },
@@ -1907,6 +1887,26 @@
       "duration_ms": 324911,
       "name": "Glad I Found You (feat. George FitzGerald) - Club Mix",
       "url": "https://open.spotify.com/track/1QFELwSMIxkz07RkZHq3Vl"
+    },
+    {
+      "added_at": "2025-06-06 04:00:23",
+      "album": {
+        "name": "See You In Dreams",
+        "url": "https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz"
+      },
+      "artists": [
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        },
+        {
+          "name": "Be No Rain",
+          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
+        }
+      ],
+      "duration_ms": 271519,
+      "name": "See You In Dreams",
+      "url": "https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW"
     },
     {
       "added_at": "2025-06-06 04:00:23",

@@ -4,7 +4,7 @@
 
 > This is Roberta Flack\. The essential tracks, all in one playlist.
 
-60 songs - 4 hr 30 min
+61 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [You Are the Love of My Life](https://open.spotify.com/track/50cZJ9FB4U0qDHd4hywCG0) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [20/20](https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW) | 2:52 | 2025-02-25 |  |
 | [You Make Me Feel Brand New](https://open.spotify.com/track/2vXcw6gXsvfmQezYVs9Las) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Set the Night to Music](https://open.spotify.com/album/4NH4c6JLgCJeFiVrC5jBez) | 5:01 | 2025-02-25 |  |
 | [You're Lookin' Like Love To Me](https://open.spotify.com/track/3ry3B05LnmDlL43M4UUl3S) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Born To Love](https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE) | 4:03 | 2025-02-25 |  |
-| [You've Got a Friend](https://open.spotify.com/track/3zlLG1ZplOevRjsoUxChrs) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 3:23 | 2025-02-25 |  |
+| [You've Got a Friend](https://open.spotify.com/track/3zlLG1ZplOevRjsoUxChrs) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 3:23 | 2025-02-25 | 2025-06-12 |
+| [You've Got a Friend](https://open.spotify.com/track/5UHpNbocPg0TdGOkf6QX8Z) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Roberta Flack & Donny Hathaway](https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp) | 3:23 | 2025-06-12 |  |
 
 \*This playlist was first scraped on 2025-02-25. Prior content cannot be recovered.

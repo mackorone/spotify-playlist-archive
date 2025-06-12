@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: Vapo\(허원혁\)\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: YANGHONGWON\(양홍원\)\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-769 songs - 1 day 17 hr 15 min
+770 songs - 1 day 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Latency](https://open.spotify.com/track/5Wk7aW0Ev88nRDU9Qhjqc3) | [CMBY](https://open.spotify.com/artist/7a3cKDQSaO1C3bIBXq3xA2), [Chanakorea](https://open.spotify.com/artist/7wCyFwjqvcUNzc0Iy7S5LU) | [Latency](https://open.spotify.com/album/7rwOleO1zSJ4790Da3pVkb) | 2:38 | 2022-04-01 | 2022-04-21 |
 | [Lay Back \(feat\. Nucksal & Layone\)](https://open.spotify.com/track/3X9zf06EBlvABBNvfeeydj) | [Hanhae](https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Lay Back](https://open.spotify.com/album/7muPnaAg1hNoEq0EaTSGwA) | 3:13 | 2022-05-05 | 2022-06-07 |
 | [Lazy afternoon \(feat\. Park Hyeon Jin\)](https://open.spotify.com/track/7m8tChVYPW9kop916iQJGM) | [Lil Bemo](https://open.spotify.com/artist/0EWqxzOofXr83TfJeA6ARZ), [Park Hyeon Jin](https://open.spotify.com/artist/4l7oDG5masdHj8IfySlVMK) | [THE ONE ABOUT ME](https://open.spotify.com/album/1SNABMmyAFQRmtUM0BAM61) | 3:44 | 2022-05-03 | 2022-07-11 |
+| [LEAN \(feat\. JIN\)](https://open.spotify.com/track/3yy15ttmCS6NcV0zSLL0Is) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Jin](https://open.spotify.com/artist/4UUCW8mTsouClJtN0wZDsi) | [LEAN](https://open.spotify.com/album/4LLAP4kRPh15D5LyMPGxK7) | 4:38 | 2025-06-12 |  |
 | [Left hand to Right hand](https://open.spotify.com/track/5vVy3QXO8voloErNAskb3e) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [VIOLINIST2](https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT) | 3:38 | 2022-04-01 | 2022-06-17 |
 | [Let's Look Away Like Stars :\(](https://open.spotify.com/track/6ej0Ujwfz8EQluyFoSyJT8) | [Tamiz](https://open.spotify.com/artist/2tbM2jTJQHly5lS3XUvZ3f) | [Youth Drama](https://open.spotify.com/album/2Tc8v6XW1y7WnJe7Qg668i) | 4:12 | 2022-04-01 | 2022-04-21 |
 | [LiAr](https://open.spotify.com/track/1vOvHNRKQs8sriDTok0TC5) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LUCKY MAN](https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e) | 3:57 | 2022-05-05 | 2022-05-22 |
@@ -469,7 +470,7 @@
 | [Nerdy Love](https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Nerdy Love](https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro) | 3:16 | 2022-07-24 | 2024-04-19 |
 | [Nerdy Love](https://open.spotify.com/track/2jBSyGuol2kWCdgSoclQ9C) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Nerdy Love](https://open.spotify.com/album/59wrpQm51Eng077uRTDv15) | 3:16 | 2022-04-01 | 2022-07-29 |
 | [Never Grind \(feat\. 100KGOLD & HOWLER\)](https://open.spotify.com/track/5lLnlx0BMPJCSXMB9GZHIR) | [Chillin Boi G](https://open.spotify.com/artist/48RuBUKIur5QpC6tvzuVh4), [100KGOLD](https://open.spotify.com/artist/5J9IHTqjLSVbckoTCnAtes), [HOWLER](https://open.spotify.com/artist/5IYAX4BtvKfgcdncdzZecC) | [Never Grind \(feat\. 100KGOLD & HOWLER\)](https://open.spotify.com/album/5SRcrxBK3wt2NR7eEKzi6k) | 3:26 | 2022-10-08 | 2022-10-15 |
-| [new new \(Feat\. B.I\)](https://open.spotify.com/track/5NGljHeqKqfKs1a5h3rFwv) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Voice tool tip.txt 2](https://open.spotify.com/album/2aJfdRcuY9vgr69p0K1nxd) | 2:38 | 2025-04-30 |  |
+| [new new \(Feat\. B.I\)](https://open.spotify.com/track/5NGljHeqKqfKs1a5h3rFwv) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [Voice tool tip.txt 2](https://open.spotify.com/album/2aJfdRcuY9vgr69p0K1nxd) | 2:38 | 2025-04-30 | 2025-06-12 |
 | [NG \(Feat\. pH\-1, Jay Park\)](https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [LOVE MAZE](https://open.spotify.com/album/7rOm15Kcboervh20RasQPp) | 3:47 | 2022-10-28 | 2025-03-03 |
 | [Night Drive \(Feat\. JAEHA, Ourealgoat\)](https://open.spotify.com/track/72dvx8MKBBkQ5VugbINOHG) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh), [아우릴고트 \(Ourealgoat\)](https://open.spotify.com/artist/16VvyJKSg4Wxl0tU7Td0FJ) | [Blended Noise](https://open.spotify.com/album/7EB0Fr3m45Il2lmxA4I87O) | 2:53 | 2022-04-01 | 2022-07-29 |
 | [No Bad Dogs \(feat\. YDG, Zion.T\) \(Prod\. Slom\)](https://open.spotify.com/track/1BVXVMH9da5wS4fe6vCVqS) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Show Me The Money 9 Semi Final](https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V) | 3:45 | 2022-04-01 | 2022-07-23 |

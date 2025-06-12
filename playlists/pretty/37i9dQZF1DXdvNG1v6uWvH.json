@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Ed Sheeran og m\u00f6rgum fleiri!",
-  "num_followers": 9273,
+  "num_followers": 9275,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-06-06 00:00:18",
       "album": {
-        "name": "Boy",
-        "url": "https://open.spotify.com/album/6haJhYWiaQebv4nZjpXB58"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/4ZbD7hoqAVz7y4LjKesosW"
-    },
-    {
-      "added_at": "2025-06-06 00:00:18",
-      "album": {
         "name": "Hordes of Khan",
         "url": "https://open.spotify.com/album/52Cnp3vBqtODAZlXD3p8jy"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 223000,
       "name": "Hordes of Khan",
       "url": "https://open.spotify.com/track/0iKl4lIShzrEV904iGjIfE"
+    },
+    {
+      "added_at": "2025-06-06 00:00:18",
+      "album": {
+        "name": "Boy",
+        "url": "https://open.spotify.com/album/6haJhYWiaQebv4nZjpXB58"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/4ZbD7hoqAVz7y4LjKesosW"
     },
     {
       "added_at": "2025-06-06 00:00:18",
@@ -427,38 +427,6 @@
     {
       "added_at": "2025-06-06 00:00:18",
       "album": {
-        "name": "Heat",
-        "url": "https://open.spotify.com/album/3fAes6kOJqF8H5IumD0aik"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 171026,
-      "name": "Heat",
-      "url": "https://open.spotify.com/track/7gn1dVwAYxmzpj5peCAOWt"
-    },
-    {
-      "added_at": "2025-06-06 00:00:18",
-      "album": {
-        "name": "I Forgive You",
-        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "Best For Me",
-      "url": "https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E"
-    },
-    {
-      "added_at": "2025-06-06 00:00:18",
-      "album": {
         "name": "Revelation",
         "url": "https://open.spotify.com/album/3My0taql4cY6yHpY1bZILJ"
       },
@@ -479,6 +447,22 @@
     {
       "added_at": "2025-06-06 00:00:18",
       "album": {
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/3fAes6kOJqF8H5IumD0aik"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/7gn1dVwAYxmzpj5peCAOWt"
+    },
+    {
+      "added_at": "2025-06-06 00:00:18",
+      "album": {
         "name": "Long Time",
         "url": "https://open.spotify.com/album/5WasWcm3Dhuk1YuyDwDBqB"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 114768,
       "name": "Long Time",
       "url": "https://open.spotify.com/track/3lWOHVuJFczaKbt3gDsbwU"
+    },
+    {
+      "added_at": "2025-06-06 00:00:18",
+      "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 207750,
+      "name": "Best For Me",
+      "url": "https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E"
     },
     {
       "added_at": "2025-06-06 00:00:18",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-06-06 00:00:18",
       "album": {
-        "name": "Nobody Gets Me",
-        "url": "https://open.spotify.com/album/3JDKvnr04WNWqqLqGlP0pl"
-      },
-      "artists": [
-        {
-          "name": "May",
-          "url": "https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE"
-        }
-      ],
-      "duration_ms": 163915,
-      "name": "Nobody Gets Me",
-      "url": "https://open.spotify.com/track/0PNB53urpkoZ7XJ05d1eOz"
-    },
-    {
-      "added_at": "2025-06-06 00:00:18",
-      "album": {
         "name": "Under Pressure",
         "url": "https://open.spotify.com/album/3ruBV7XJZB8NoJKmRspuSo"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 171959,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/2AVj1Q7wRZyKjQoHPMNilR"
+    },
+    {
+      "added_at": "2025-06-06 00:00:18",
+      "album": {
+        "name": "Nobody Gets Me",
+        "url": "https://open.spotify.com/album/3JDKvnr04WNWqqLqGlP0pl"
+      },
+      "artists": [
+        {
+          "name": "May",
+          "url": "https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE"
+        }
+      ],
+      "duration_ms": 163915,
+      "name": "Nobody Gets Me",
+      "url": "https://open.spotify.com/track/0PNB53urpkoZ7XJ05d1eOz"
     },
     {
       "added_at": "2025-06-06 00:00:18",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-06-06 00:00:18",
       "album": {
-        "name": "Sign on the Window",
-        "url": "https://open.spotify.com/album/4g6vDw5oX8bU9JWKilMYIx"
-      },
-      "artists": [
-        {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
-        }
-      ],
-      "duration_ms": 183946,
-      "name": "Sign on the Window",
-      "url": "https://open.spotify.com/track/6faCTa1oSQFuuyzvf4ZOIX"
-    },
-    {
-      "added_at": "2025-06-06 00:00:18",
-      "album": {
         "name": "Tip Toe",
         "url": "https://open.spotify.com/album/3PfFlGEEF9nhnMnfZQZfUp"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 193866,
       "name": "Ghosted",
       "url": "https://open.spotify.com/track/1jJIJqxbAEAIUa15BuJVxa"
+    },
+    {
+      "added_at": "2025-06-06 00:00:18",
+      "album": {
+        "name": "Sign on the Window",
+        "url": "https://open.spotify.com/album/4g6vDw5oX8bU9JWKilMYIx"
+      },
+      "artists": [
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "duration_ms": 183946,
+      "name": "Sign on the Window",
+      "url": "https://open.spotify.com/track/6faCTa1oSQFuuyzvf4ZOIX"
     },
     {
       "added_at": "2025-06-06 00:00:18",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-06-06 00:00:18",
       "album": {
-        "name": "Need Your Lovin'",
-        "url": "https://open.spotify.com/album/3YMgV3qoJPrZf1V8WgxuNh"
-      },
-      "artists": [
-        {
-          "name": "KUOKKA",
-          "url": "https://open.spotify.com/artist/6jFa0fLeBTANOdmD9171kE"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "Need Your Lovin'",
-      "url": "https://open.spotify.com/track/7gRbGI3VMnorevjTw0QHRt"
-    },
-    {
-      "added_at": "2025-06-06 00:00:18",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1SexZdOypXjwVCQXl0I8oV"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2025-06-06 00:00:18",
       "album": {
-        "name": "I have nothing to prove to you",
-        "url": "https://open.spotify.com/album/60Wm1lDBNomVGK9rPgd8w2"
+        "name": "Need Your Lovin'",
+        "url": "https://open.spotify.com/album/3YMgV3qoJPrZf1V8WgxuNh"
       },
       "artists": [
         {
-          "name": "AKA lisa",
-          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
+          "name": "KUOKKA",
+          "url": "https://open.spotify.com/artist/6jFa0fLeBTANOdmD9171kE"
         }
       ],
-      "duration_ms": 198266,
-      "name": "I have nothing to prove to you",
-      "url": "https://open.spotify.com/track/6VoCHZD0fvZxtihaLb03Ox"
+      "duration_ms": 131200,
+      "name": "Need Your Lovin'",
+      "url": "https://open.spotify.com/track/7gRbGI3VMnorevjTw0QHRt"
     },
     {
       "added_at": "2025-06-06 00:00:18",
@@ -999,18 +983,34 @@
     {
       "added_at": "2025-06-06 00:00:18",
       "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/1uOknY2ro4BCx9enXudDiH"
+        "name": "I have nothing to prove to you",
+        "url": "https://open.spotify.com/album/60Wm1lDBNomVGK9rPgd8w2"
       },
       "artists": [
         {
-          "name": "Prof. Stranger",
-          "url": "https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp"
+          "name": "AKA lisa",
+          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
         }
       ],
-      "duration_ms": 274292,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/2cWbWkRjDuDX3VhZCN50Do"
+      "duration_ms": 198266,
+      "name": "I have nothing to prove to you",
+      "url": "https://open.spotify.com/track/6VoCHZD0fvZxtihaLb03Ox"
+    },
+    {
+      "added_at": "2025-06-06 00:00:18",
+      "album": {
+        "name": "Stay Together",
+        "url": "https://open.spotify.com/album/5pHVRLTSBLtAJxULTEb1NB"
+      },
+      "artists": [
+        {
+          "name": "Club 8",
+          "url": "https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Stay Together",
+      "url": "https://open.spotify.com/track/5DcVfbtAxCtDzzWxNE0Be8"
     },
     {
       "added_at": "2025-06-06 00:00:18",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2025-06-06 00:00:18",
       "album": {
-        "name": "Stay Together",
-        "url": "https://open.spotify.com/album/5pHVRLTSBLtAJxULTEb1NB"
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/1uOknY2ro4BCx9enXudDiH"
       },
       "artists": [
         {
-          "name": "Club 8",
-          "url": "https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx"
+          "name": "Prof. Stranger",
+          "url": "https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp"
         }
       ],
-      "duration_ms": 135000,
-      "name": "Stay Together",
-      "url": "https://open.spotify.com/track/5DcVfbtAxCtDzzWxNE0Be8"
+      "duration_ms": 274292,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/2cWbWkRjDuDX3VhZCN50Do"
     },
     {
       "added_at": "2025-06-06 00:00:18",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-06-06 00:00:18",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/5OzDoyFTjHzlFk5lcTOXzz"
-      },
-      "artists": [
-        {
-          "name": "Thor Sigurdsson",
-          "url": "https://open.spotify.com/artist/1qcIxkK4rbJ5YhK9cYZdcH"
-        }
-      ],
-      "duration_ms": 216325,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/5vu14M9hnK6ltoSYUPk40z"
-    },
-    {
-      "added_at": "2025-06-06 00:00:18",
-      "album": {
         "name": "Nightingale Blue",
         "url": "https://open.spotify.com/album/4ILgVV3qd6BHE5Uq0u7m8B"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 223733,
       "name": "Nightingale Blue",
       "url": "https://open.spotify.com/track/0Zh0gd4vfavMDB1KfuQv4H"
+    },
+    {
+      "added_at": "2025-06-06 00:00:18",
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/5OzDoyFTjHzlFk5lcTOXzz"
+      },
+      "artists": [
+        {
+          "name": "Thor Sigurdsson",
+          "url": "https://open.spotify.com/artist/1qcIxkK4rbJ5YhK9cYZdcH"
+        }
+      ],
+      "duration_ms": 216325,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/5vu14M9hnK6ltoSYUPk40z"
     },
     {
       "added_at": "2025-06-06 00:00:18",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-06-06 00:00:18",
       "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/76zoFSv7yICfy6aHAqw3a5"
+      },
+      "artists": [
+        {
+          "name": "Emily Bowen",
+          "url": "https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc"
+        }
+      ],
+      "duration_ms": 162773,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/7MvfWJfnXqdYZFrkslgEW3"
+    },
+    {
+      "added_at": "2025-06-06 00:00:18",
+      "album": {
         "name": "Hit That",
         "url": "https://open.spotify.com/album/6295MhTxC9XbX1FGYVIhi9"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 214080,
       "name": "birdshit",
       "url": "https://open.spotify.com/track/4Hur32oVJJFM23dHNVyVMV"
-    },
-    {
-      "added_at": "2025-06-06 00:00:18",
-      "album": {
-        "name": "Last Time",
-        "url": "https://open.spotify.com/album/76zoFSv7yICfy6aHAqw3a5"
-      },
-      "artists": [
-        {
-          "name": "Emily Bowen",
-          "url": "https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc"
-        }
-      ],
-      "duration_ms": 162773,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/7MvfWJfnXqdYZFrkslgEW3"
     },
     {
       "added_at": "2025-06-06 00:00:18",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2025-06-06 00:00:18",
       "album": {
-        "name": "Dumb & Reckless",
-        "url": "https://open.spotify.com/album/6EhdvGKITwI4inak87Q0K5"
+        "name": "ONE",
+        "url": "https://open.spotify.com/album/4recarokMmiTS0EwrvzkUy"
       },
       "artists": [
         {
-          "name": "Luthersson",
-          "url": "https://open.spotify.com/artist/4HVMUm3pAcQ2Yf4WasP109"
+          "name": "KAR\u00cdTAS",
+          "url": "https://open.spotify.com/artist/04T85rA4a542j4ftX6DFYc"
         }
       ],
-      "duration_ms": 159560,
-      "name": "Dumb & Reckless",
-      "url": "https://open.spotify.com/track/3DFXgGF5YhO49g7f73wLOX"
+      "duration_ms": 241997,
+      "name": "ONE",
+      "url": "https://open.spotify.com/track/7aEJaQtMIyBlkp0JvT15Yl"
     },
     {
       "added_at": "2025-06-06 00:00:18",
@@ -1375,34 +1375,18 @@
     {
       "added_at": "2025-06-06 00:00:18",
       "album": {
-        "name": "ONE",
-        "url": "https://open.spotify.com/album/4recarokMmiTS0EwrvzkUy"
+        "name": "Dumb & Reckless",
+        "url": "https://open.spotify.com/album/6EhdvGKITwI4inak87Q0K5"
       },
       "artists": [
         {
-          "name": "KAR\u00cdTAS",
-          "url": "https://open.spotify.com/artist/04T85rA4a542j4ftX6DFYc"
+          "name": "Luthersson",
+          "url": "https://open.spotify.com/artist/4HVMUm3pAcQ2Yf4WasP109"
         }
       ],
-      "duration_ms": 241997,
-      "name": "ONE",
-      "url": "https://open.spotify.com/track/7aEJaQtMIyBlkp0JvT15Yl"
-    },
-    {
-      "added_at": "2025-06-06 00:00:18",
-      "album": {
-        "name": "\u00c1 Hverjum Degi",
-        "url": "https://open.spotify.com/album/3txHbFKV9AQ3dtt0ugQXh3"
-      },
-      "artists": [
-        {
-          "name": "Ari Baldursson",
-          "url": "https://open.spotify.com/artist/2mPZ08rmU2HaquqD4C8GfN"
-        }
-      ],
-      "duration_ms": 179773,
-      "name": "\u00c1 Hverjum Degi",
-      "url": "https://open.spotify.com/track/1bpjGIgPccsTfb2M4kTtcY"
+      "duration_ms": 159560,
+      "name": "Dumb & Reckless",
+      "url": "https://open.spotify.com/track/3DFXgGF5YhO49g7f73wLOX"
     },
     {
       "added_at": "2025-06-06 00:00:18",
@@ -1419,6 +1403,22 @@
       "duration_ms": 220487,
       "name": "Can't Get You Out",
       "url": "https://open.spotify.com/track/6a29rh8PdnAVqfs3e2gKzT"
+    },
+    {
+      "added_at": "2025-06-06 00:00:18",
+      "album": {
+        "name": "\u00c1 Hverjum Degi",
+        "url": "https://open.spotify.com/album/3txHbFKV9AQ3dtt0ugQXh3"
+      },
+      "artists": [
+        {
+          "name": "Ari Baldursson",
+          "url": "https://open.spotify.com/artist/2mPZ08rmU2HaquqD4C8GfN"
+        }
+      ],
+      "duration_ms": 179773,
+      "name": "\u00c1 Hverjum Degi",
+      "url": "https://open.spotify.com/track/1bpjGIgPccsTfb2M4kTtcY"
     },
     {
       "added_at": "2025-06-06 00:00:18",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2025-06-06 00:00:18",
       "album": {
+        "name": "It's gonna be alright",
+        "url": "https://open.spotify.com/album/3BPqQXcnHLXkZ6r98kHQNX"
+      },
+      "artists": [
+        {
+          "name": "Klaki",
+          "url": "https://open.spotify.com/artist/2CDFAsZHN7b95nRswT2wwG"
+        }
+      ],
+      "duration_ms": 232647,
+      "name": "It's gonna be alright",
+      "url": "https://open.spotify.com/track/6kle1aFXhItOPomqxeLeSU"
+    },
+    {
+      "added_at": "2025-06-06 00:00:18",
+      "album": {
         "name": "MINN HEIM",
         "url": "https://open.spotify.com/album/2OD2h16GZEbnS9YmZ3Znlg"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 213545,
       "name": "MINN HEIM",
       "url": "https://open.spotify.com/track/3105u62TytVwniYH9Mzcie"
-    },
-    {
-      "added_at": "2025-06-06 00:00:18",
-      "album": {
-        "name": "It's gonna be alright",
-        "url": "https://open.spotify.com/album/3BPqQXcnHLXkZ6r98kHQNX"
-      },
-      "artists": [
-        {
-          "name": "Klaki",
-          "url": "https://open.spotify.com/artist/2CDFAsZHN7b95nRswT2wwG"
-        }
-      ],
-      "duration_ms": 232647,
-      "name": "It's gonna be alright",
-      "url": "https://open.spotify.com/track/6kle1aFXhItOPomqxeLeSU"
     },
     {
       "added_at": "2025-06-06 00:00:18",

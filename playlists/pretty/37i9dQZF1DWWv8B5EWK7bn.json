@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 201705,
+  "num_followers": 201746,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -521,6 +521,22 @@
       "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
     },
     {
+      "added_at": "2022-07-15 05:42:04",
+      "album": {
+        "name": "Arkhon",
+        "url": "https://open.spotify.com/album/4fAgGEM3LIMho5Brx5Gio9"
+      },
+      "artists": [
+        {
+          "name": "Zola Jesus",
+          "url": "https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P"
+        }
+      ],
+      "duration_ms": 204262,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
+    },
+    {
       "added_at": "2023-10-22 04:22:10",
       "album": {
         "name": "Suono Assente",
@@ -547,22 +563,6 @@
       "duration_ms": 249798,
       "name": "Habadash",
       "url": "https://open.spotify.com/track/6yaL3ufWIdKC1HGJb4TQae"
-    },
-    {
-      "added_at": "2022-07-15 05:42:04",
-      "album": {
-        "name": "Arkhon",
-        "url": "https://open.spotify.com/album/4fAgGEM3LIMho5Brx5Gio9"
-      },
-      "artists": [
-        {
-          "name": "Zola Jesus",
-          "url": "https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P"
-        }
-      ],
-      "duration_ms": 204262,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
     },
     {
       "added_at": "2024-03-21 22:34:34",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/5DICKyBTFX6rzXTRrZH6iz"
     },
     {
-      "added_at": "2024-01-04 01:06:11",
-      "album": {
-        "name": "Dumb Guitar",
-        "url": "https://open.spotify.com/album/0oPbGSY87GRUH60Owh8Yql"
-      },
-      "artists": [
-        {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        }
-      ],
-      "duration_ms": 310865,
-      "name": "Dumb Guitar",
-      "url": "https://open.spotify.com/track/50UWt4jx8Y1t8EoV0ODKDL"
-    },
-    {
       "added_at": "2023-08-10 05:47:21",
       "album": {
         "name": "setar rock",
@@ -779,6 +763,22 @@
       "duration_ms": 159093,
       "name": "Open the Gates",
       "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
+    },
+    {
+      "added_at": "2024-01-04 01:06:11",
+      "album": {
+        "name": "Dumb Guitar",
+        "url": "https://open.spotify.com/album/0oPbGSY87GRUH60Owh8Yql"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        }
+      ],
+      "duration_ms": 310865,
+      "name": "Dumb Guitar",
+      "url": "https://open.spotify.com/track/50UWt4jx8Y1t8EoV0ODKDL"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1141,22 +1141,6 @@
       "url": "https://open.spotify.com/track/1ePTixXXx9O4GqH0laeKQi"
     },
     {
-      "added_at": "2024-01-03 18:45:56",
-      "album": {
-        "name": "Space Jumps",
-        "url": "https://open.spotify.com/album/25px9ivu1nlZUNk5LhKmeM"
-      },
-      "artists": [
-        {
-          "name": "Memory Of Jane",
-          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
-        }
-      ],
-      "duration_ms": 211386,
-      "name": "Space Jumps",
-      "url": "https://open.spotify.com/track/4o7FggT3N6nFRfks48BTGS"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "The Apple Drop",
@@ -1171,6 +1155,22 @@
       "duration_ms": 316413,
       "name": "Big Appetite",
       "url": "https://open.spotify.com/track/4XPlKxzm2My7efFgFbsomR"
+    },
+    {
+      "added_at": "2024-01-03 18:45:56",
+      "album": {
+        "name": "Space Jumps",
+        "url": "https://open.spotify.com/album/25px9ivu1nlZUNk5LhKmeM"
+      },
+      "artists": [
+        {
+          "name": "Memory Of Jane",
+          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
+        }
+      ],
+      "duration_ms": 211386,
+      "name": "Space Jumps",
+      "url": "https://open.spotify.com/track/4o7FggT3N6nFRfks48BTGS"
     },
     {
       "added_at": "2024-04-29 20:30:55",
@@ -1361,6 +1361,22 @@
       "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
     },
     {
+      "added_at": "2024-09-01 14:54:22",
+      "album": {
+        "name": "Always a Stranger",
+        "url": "https://open.spotify.com/album/08gxbHefdrUENqWpDZROlI"
+      },
+      "artists": [
+        {
+          "name": "Tindersticks",
+          "url": "https://open.spotify.com/artist/3dmSPhg0tdao8ePj4pySJ5"
+        }
+      ],
+      "duration_ms": 227704,
+      "name": "New World - Edit",
+      "url": "https://open.spotify.com/track/5HKUt7N1FUt4nF1mqFTF1o"
+    },
+    {
       "added_at": "2024-09-18 13:52:43",
       "album": {
         "name": "True Luck",
@@ -1377,20 +1393,20 @@
       "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
     },
     {
-      "added_at": "2024-09-01 14:54:22",
+      "added_at": "2024-08-16 20:06:32",
       "album": {
-        "name": "Always a Stranger",
-        "url": "https://open.spotify.com/album/08gxbHefdrUENqWpDZROlI"
+        "name": "Hay Veces",
+        "url": "https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7"
       },
       "artists": [
         {
-          "name": "Tindersticks",
-          "url": "https://open.spotify.com/artist/3dmSPhg0tdao8ePj4pySJ5"
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
         }
       ],
-      "duration_ms": 227704,
-      "name": "New World - Edit",
-      "url": "https://open.spotify.com/track/5HKUt7N1FUt4nF1mqFTF1o"
+      "duration_ms": 186445,
+      "name": "Hay Veces",
+      "url": "https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe"
     },
     {
       "added_at": "2024-03-05 06:00:54",
@@ -1409,20 +1425,20 @@
       "url": "https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ"
     },
     {
-      "added_at": "2024-08-16 20:06:32",
+      "added_at": "2023-01-03 23:48:36",
       "album": {
-        "name": "Hay Veces",
-        "url": "https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7"
+        "name": "Where To Put The Pain",
+        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
       },
       "artists": [
         {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+          "name": "Alice Boman",
+          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
         }
       ],
-      "duration_ms": 186445,
-      "name": "Hay Veces",
-      "url": "https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe"
+      "duration_ms": 234693,
+      "name": "Where To Put The Pain",
+      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1445,38 +1461,6 @@
       "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
     },
     {
-      "added_at": "2023-01-03 23:48:36",
-      "album": {
-        "name": "Where To Put The Pain",
-        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
-      },
-      "artists": [
-        {
-          "name": "Alice Boman",
-          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
-        }
-      ],
-      "duration_ms": 234693,
-      "name": "Where To Put The Pain",
-      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
-    },
-    {
-      "added_at": "2023-03-31 19:24:48",
-      "album": {
-        "name": "Counter Melodies",
-        "url": "https://open.spotify.com/album/0NXYRwTcPyqDiwBfNnnKcs"
-      },
-      "artists": [
-        {
-          "name": "Maps",
-          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
-        }
-      ],
-      "duration_ms": 318750,
-      "name": "Windows Open",
-      "url": "https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm"
-    },
-    {
       "added_at": "2023-10-23 19:41:11",
       "album": {
         "name": "Pearlies",
@@ -1493,20 +1477,20 @@
       "url": "https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2023-03-31 19:24:48",
       "album": {
-        "name": "Rivers That You Cannot See",
-        "url": "https://open.spotify.com/album/35iioCINJwSsujHf6csIMy"
+        "name": "Counter Melodies",
+        "url": "https://open.spotify.com/album/0NXYRwTcPyqDiwBfNnnKcs"
       },
       "artists": [
         {
-          "name": "North Americans",
-          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
+          "name": "Maps",
+          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
         }
       ],
-      "duration_ms": 235093,
-      "name": "Rivers That You Cannot See",
-      "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
+      "duration_ms": 318750,
+      "name": "Windows Open",
+      "url": "https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm"
     },
     {
       "added_at": "2022-08-19 01:53:48",
@@ -1527,6 +1511,22 @@
       "duration_ms": 335433,
       "name": "artclubdiscotheque",
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Rivers That You Cannot See",
+        "url": "https://open.spotify.com/album/35iioCINJwSsujHf6csIMy"
+      },
+      "artists": [
+        {
+          "name": "North Americans",
+          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
+        }
+      ],
+      "duration_ms": 235093,
+      "name": "Rivers That You Cannot See",
+      "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
     },
     {
       "added_at": "2023-08-24 03:26:17",
@@ -1561,6 +1561,22 @@
       "url": "https://open.spotify.com/track/1BHffF1YV6e1pMyjaujmvT"
     },
     {
+      "added_at": "2024-01-30 05:23:45",
+      "album": {
+        "name": "Life Drummer",
+        "url": "https://open.spotify.com/album/7FGTtUQdU299dKGgpHxDXQ"
+      },
+      "artists": [
+        {
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+        }
+      ],
+      "duration_ms": 158638,
+      "name": "Life Drummer",
+      "url": "https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD"
+    },
+    {
       "added_at": "2023-06-26 14:24:59",
       "album": {
         "name": "Island Family (Deluxe Edition)",
@@ -1581,20 +1597,20 @@
       "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
     },
     {
-      "added_at": "2024-01-30 05:23:45",
+      "added_at": "2024-08-16 20:06:32",
       "album": {
-        "name": "Life Drummer",
-        "url": "https://open.spotify.com/album/7FGTtUQdU299dKGgpHxDXQ"
+        "name": "Sur La Terre",
+        "url": "https://open.spotify.com/album/1jFrxgWjWDPXyPfWAc6Qbk"
       },
       "artists": [
         {
-          "name": "Vanishing Twin",
-          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
         }
       ],
-      "duration_ms": 158638,
-      "name": "Life Drummer",
-      "url": "https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD"
+      "duration_ms": 196331,
+      "name": "Sur la terre",
+      "url": "https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH"
     },
     {
       "added_at": "2023-03-24 15:38:14",
@@ -1619,22 +1635,6 @@
       "duration_ms": 438106,
       "name": "A Time To Blossom",
       "url": "https://open.spotify.com/track/4L0npYstL1PDKHV6BdMtIW"
-    },
-    {
-      "added_at": "2024-08-16 20:06:32",
-      "album": {
-        "name": "Sur La Terre",
-        "url": "https://open.spotify.com/album/1jFrxgWjWDPXyPfWAc6Qbk"
-      },
-      "artists": [
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 196331,
-      "name": "Sur la terre",
-      "url": "https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH"
     },
     {
       "added_at": "2024-03-05 06:00:54",
@@ -1669,22 +1669,6 @@
       "url": "https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "The Apple Drop",
-        "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
-      },
-      "artists": [
-        {
-          "name": "Liars",
-          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
-        }
-      ],
-      "duration_ms": 274626,
-      "name": "Sekwar",
-      "url": "https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd"
-    },
-    {
       "added_at": "2024-07-18 21:58:08",
       "album": {
         "name": "Taste The Air (Julia Holter Mix)",
@@ -1705,20 +1689,36 @@
       "url": "https://open.spotify.com/track/0cJwZNBbQwxzzrnWqqWbRU"
     },
     {
-      "added_at": "2024-01-03 18:37:44",
+      "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Dog's Life",
-        "url": "https://open.spotify.com/album/5gYTOwpIA1xyeS4olKWPPX"
+        "name": "The Apple Drop",
+        "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
       },
       "artists": [
         {
-          "name": "plantoid",
-          "url": "https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd"
+          "name": "Liars",
+          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
         }
       ],
-      "duration_ms": 237702,
-      "name": "Dog's Life",
-      "url": "https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY"
+      "duration_ms": 274626,
+      "name": "Sekwar",
+      "url": "https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Eleg\u00eda",
+        "url": "https://open.spotify.com/album/6EEkWd8f7a1zctFgoptqUj"
+      },
+      "artists": [
+        {
+          "name": "Siniestra Pandora",
+          "url": "https://open.spotify.com/artist/1cuq3b3taULpho8MTTZD2U"
+        }
+      ],
+      "duration_ms": 227178,
+      "name": "Pagano",
+      "url": "https://open.spotify.com/track/0K8fmZNZFG2bCxamePeiFE"
     }
   ],
   "unique_name": "Oblique",

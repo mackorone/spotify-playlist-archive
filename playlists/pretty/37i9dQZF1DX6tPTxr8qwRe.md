@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: Banshee
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,306 likes - 55 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,325 likes - 55 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

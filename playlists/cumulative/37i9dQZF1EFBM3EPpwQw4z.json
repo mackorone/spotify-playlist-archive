@@ -64,6 +64,24 @@
     {
       "album": {
         "name": "Air",
+        "url": "https://open.spotify.com/album/6aZrr0cg7NjjEukpda7GWJ"
+      },
+      "artists": [
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214524,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/0YTvDuHw4qzliDTF2iYBrQ"
+    },
+    {
+      "album": {
+        "name": "Air",
         "url": "https://open.spotify.com/album/7AVHl7lbFM1xvTEFTd5Zcq"
       },
       "artists": [

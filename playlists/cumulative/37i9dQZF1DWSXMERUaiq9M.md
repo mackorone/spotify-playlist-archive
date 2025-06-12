@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: DJ Gigola
 
-500 songs - 1 day 7 hr 27 min
+501 songs - 1 day 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [SOÑAR](https://open.spotify.com/track/0NzmTnOl9G3GMrUCNcmMgN) | [EARGASM GOD](https://open.spotify.com/artist/4Fry0sEjFRKflf45xpPUMp) | [SOÑAR](https://open.spotify.com/album/6e2n4qL9dNGUiqOzzgPq7w) | 5:37 | 2024-07-04 | 2024-07-27 |
 | [Space Invaders](https://open.spotify.com/track/4SKVcIaAP4JCr8HFRWtKqv) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [Space Invaders](https://open.spotify.com/album/7uJCaBM2wxgEvy2GWggNOY) | 4:17 | 2024-12-28 | 2025-01-07 |
 | [Space Train](https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Kevin D](https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3) | [Space Train](https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn) | 2:26 | 2023-07-12 |  |
+| [Spectral Bells](https://open.spotify.com/track/0Yfb937yM0d5f6os0W9IWc) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Spectral Bells](https://open.spotify.com/album/6FCFFeBXGGIDxeREDbDKJP) | 3:13 | 2025-06-09 |  |
 | [Speed It Up \- Dr\. Bounce Remix](https://open.spotify.com/track/5YvroUTBozNzShCKeKYJ4E) | [Club Caviar](https://open.spotify.com/artist/2EN1Wc5No2OeL4exPJDIMe), [Dr\. Bounce](https://open.spotify.com/artist/6NRGNESxIzWCPdGMndqtKD) | [Speed It Up](https://open.spotify.com/album/2bqWGEEx5y9LN8vB2gLNg0) | 7:32 | 2024-12-28 | 2025-01-07 |
 | [Spicey \- Original](https://open.spotify.com/track/4V8WSDvLpCtcmeXn5ZZLCd) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Spicey \(Original\)](https://open.spotify.com/album/25RnjGOl1DrXiXDlG6axld) | 2:31 | 2023-06-29 | 2023-07-13 |
 | [Staring Into The Sun](https://open.spotify.com/track/4ZyOjIxFyf6UWdERULkFKE) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Staring Into The Sun](https://open.spotify.com/album/32fHr60Vpx6iUdl6UovJWH) | 3:16 | 2025-05-22 |  |
@@ -422,7 +423,7 @@
 | [Sucker](https://open.spotify.com/track/04A0Rm6cMA5J1r9f2WlVPO) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Sucker](https://open.spotify.com/album/2kjJ97kUqeAbq3EI5TyYbS) | 2:03 | 2024-06-27 |  |
 | [Summer Groove](https://open.spotify.com/track/2OmBnJNU8POZJF7c1ljtXe) | [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ), [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O) | [Summer Groove](https://open.spotify.com/album/03MBgy8etYD59jnc8v2ltr) | 3:13 | 2024-12-28 | 2025-01-07 |
 | [Summer Smash](https://open.spotify.com/track/06MD7zuY2QQFK4kc3dFyOm) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Summer Smash](https://open.spotify.com/album/4LqssZFyT4TFUNjDjsc7PM) | 2:26 | 2024-12-28 | 2025-01-07 |
-| [Supa Dupa Fly](https://open.spotify.com/track/1BJrOKYwBquCz9qvd4NKbZ) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Supa Dupa Fly](https://open.spotify.com/album/0xJvuCJjbORj3zBklFUSuZ) | 2:04 | 2025-05-22 |  |
+| [Supa Dupa Fly](https://open.spotify.com/track/1BJrOKYwBquCz9qvd4NKbZ) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Supa Dupa Fly](https://open.spotify.com/album/0xJvuCJjbORj3zBklFUSuZ) | 2:04 | 2025-05-22 | 2025-06-12 |
 | [Supersonic](https://open.spotify.com/track/01jx3vXwUaw9cfFeBk8sJQ) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Supersonic / Hands Up In The Sky](https://open.spotify.com/album/0x72kHM5nCDu7qtoIJcnfT) | 3:08 | 2025-05-22 |  |
 | [Survive It](https://open.spotify.com/track/5iq8BZoCP05ihLpMVUB6VA) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Survive It](https://open.spotify.com/album/2zN2U5xYnIrWYx4vl4wW6Y) | 2:53 | 2024-08-12 | 2024-10-11 |
 | [SUV](https://open.spotify.com/track/0MuCieDCcqRjiIdwPtHsYM) | [NeuroBeatz](https://open.spotify.com/artist/3oVSD2qVvvT9HhWDlFk4Hv) | [SUV](https://open.spotify.com/album/3X319vPxofbppBTslLiPBX) | 2:15 | 2023-03-10 | 2023-03-22 |

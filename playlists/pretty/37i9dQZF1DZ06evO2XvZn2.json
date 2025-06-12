@@ -1,12 +1,12 @@
 {
   "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 15545,
+  "num_followers": 15546,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEYkAAAAAADNS3OKLWHTvgzFZtnRLNmQ",
+  "snapshot_id": "aEd1gAAAAAAkeqELbdbZefEL2WLRbcq8",
   "tracks": [
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cupido (feat. Sebasti\u00e1n Silva & Angela Rinc\u00f3n)",
-        "url": "https://open.spotify.com/album/3ERDaRUarbID5w8WgS1KDY"
+        "name": "Muchacha Solitaria",
+        "url": "https://open.spotify.com/album/4EevwBc81RN2RYqEKW4lpe"
       },
       "artists": [
         {
@@ -546,19 +546,11 @@
         {
           "name": "Club 57 Cast",
           "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Sebasti\u00e1n Silva",
-          "url": "https://open.spotify.com/artist/2y6RIOPS6ABYXhQ7kWugMu"
-        },
-        {
-          "name": "Angela Rinc\u00f3n",
-          "url": "https://open.spotify.com/artist/5qDiR6RleDUdHI2MQnHWBD"
         }
       ],
-      "duration_ms": 166140,
-      "name": "Cupido (feat. Sebasti\u00e1n Silva & Angela Rinc\u00f3n)",
-      "url": "https://open.spotify.com/track/58zDpy00YXfsLxKPOyrNIn"
+      "duration_ms": 221423,
+      "name": "Muchacha Solitaria",
+      "url": "https://open.spotify.com/track/6fzLYr1KgfXsPOEjSaEHj0"
     },
     {
       "added_at": null,
@@ -583,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muchacha Solitaria",
-        "url": "https://open.spotify.com/album/4EevwBc81RN2RYqEKW4lpe"
+        "name": "Cupido (feat. Sebasti\u00e1n Silva & Angela Rinc\u00f3n)",
+        "url": "https://open.spotify.com/album/3ERDaRUarbID5w8WgS1KDY"
       },
       "artists": [
         {
@@ -594,11 +586,19 @@
         {
           "name": "Club 57 Cast",
           "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Sebasti\u00e1n Silva",
+          "url": "https://open.spotify.com/artist/2y6RIOPS6ABYXhQ7kWugMu"
+        },
+        {
+          "name": "Angela Rinc\u00f3n",
+          "url": "https://open.spotify.com/artist/5qDiR6RleDUdHI2MQnHWBD"
         }
       ],
-      "duration_ms": 221423,
-      "name": "Muchacha Solitaria",
-      "url": "https://open.spotify.com/track/6fzLYr1KgfXsPOEjSaEHj0"
+      "duration_ms": 166140,
+      "name": "Cupido (feat. Sebasti\u00e1n Silva & Angela Rinc\u00f3n)",
+      "url": "https://open.spotify.com/track/58zDpy00YXfsLxKPOyrNIn"
     },
     {
       "added_at": null,

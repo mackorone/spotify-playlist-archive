@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 34066,
+  "num_followers": 34077,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEYkAAAAAACUtNl2O3oI1znQtS53HJhq",
+  "snapshot_id": "aEd1gAAAAABnyiE6LZ5BpH0O+1tLSuDX",
   "tracks": [
     {
       "added_at": null,
@@ -191,26 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Fly",
-        "url": "https://open.spotify.com/album/5bPJWz3z4NWjOaRYBRZBED"
-      },
-      "artists": [
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 184541,
-      "name": "Swerve (with G Herbo)",
-      "url": "https://open.spotify.com/track/6Pi7DDPcJuWoZnb5GFsTUQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stepping In Blood",
         "url": "https://open.spotify.com/album/6NMO2xSNS195esMlTJu3Mk"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 279573,
       "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
       "url": "https://open.spotify.com/track/7ACW7VpgoKmfM1sKo15UhX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Me Fly",
+        "url": "https://open.spotify.com/album/5bPJWz3z4NWjOaRYBRZBED"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 184541,
+      "name": "Swerve (with G Herbo)",
+      "url": "https://open.spotify.com/track/6Pi7DDPcJuWoZnb5GFsTUQ"
     },
     {
       "added_at": null,
@@ -867,6 +867,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peter Piper (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/032JQb782ZO6JgoyOMwbps"
+      },
+      "artists": [
+        {
+          "name": "Chicken P",
+          "url": "https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Peter Piper (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/1LtfT4iJrlISYbYc2yLkqT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PTSD (Deluxe)",
         "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 190511,
       "name": "U Know Dat (feat. G Herbo)",
       "url": "https://open.spotify.com/track/6iKSh4ElPgyGlA5DY7ljLk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peter Piper (feat. G Herbo)",
-        "url": "https://open.spotify.com/album/032JQb782ZO6JgoyOMwbps"
-      },
-      "artists": [
-        {
-          "name": "Chicken P",
-          "url": "https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Peter Piper (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/1LtfT4iJrlISYbYc2yLkqT"
     },
     {
       "added_at": null,

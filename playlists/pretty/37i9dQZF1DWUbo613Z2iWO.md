@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  Josh Levi
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,534 likes - 175 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,548 likes - 175 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off\. cover: tyde
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,994 likes - 165 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,216 likes - 165 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

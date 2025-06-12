@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,073 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,124 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 17 | [Saudade De Quem Eu Sou \- Ao Vivo](https://open.spotify.com/track/6id4TFeHJgvVtCzrJEysl0) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / EP4\)](https://open.spotify.com/album/5eeXmA5MzujMCU7OMy194q) | 2:33 |
 | 18 | [Amigo Da Minha Saudade \- Ao Vivo](https://open.spotify.com/track/07kLShG3HTeLXTqnFCqNAJ) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn) | 2:30 |
 | 19 | [Resumindo \- Ao Vivo](https://open.spotify.com/track/6vGZfODFI1FxMImSUbdJhz) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Magia das Estrelas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4ZFPMOKBs7Qv6dfUjrOqxc) | 2:25 |
-| 20 | [Encosta na Parede](https://open.spotify.com/track/4EVIYtNeI4O8h0lmE0wycC) | [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Teko Bolado](https://open.spotify.com/artist/0hl7gXAUNmCr3cyhoE5Yga), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [Encosta na Parede](https://open.spotify.com/album/4Lx2IrKx6HwDR1kEfXh2F0) | 2:11 |
+| 20 | [Encosta na Parede](https://open.spotify.com/track/4EVIYtNeI4O8h0lmE0wycC) | [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Teko Bolado](https://open.spotify.com/artist/0hl7gXAUNmCr3cyhoE5Yga), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Encosta na Parede](https://open.spotify.com/album/4Lx2IrKx6HwDR1kEfXh2F0) | 2:11 |
 | 21 | [NÃO ERA LOVE](https://open.spotify.com/track/6lrQgEPTuOKyvn4bQJuaRU) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [NÃO ERA LOVE](https://open.spotify.com/album/0OLFw0H2DJQcEap0j54ie0) | 2:24 |
 | 22 | [Cara da Serenata \- Live](https://open.spotify.com/track/3vpmGewnBcIfbm252E3Xx8) | [Luccas & Rodrigo](https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh), [Vitor e Luan](https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac) | [Cara da Serenata \(Live\)](https://open.spotify.com/album/1YqY9DLfFigKwnM8UCEoL9) | 2:14 |
 | 23 | [Saudade Burra \- Ao Vivo](https://open.spotify.com/track/3M4HJl7D77l86gL1QXGJHG) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Transcende \(Ao Vivo\)](https://open.spotify.com/album/7LgfD3r1bBvKvt3GFRlU6l) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Seja Ex \- Ao Vivo](https://open.spotify.com/track/5k7JSycp97vL45zSOoUsTE) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn) | 3:12 |
 | 50 | [Na Imaginação](https://open.spotify.com/track/1sWx8hqMdjT3Gc7F9BSbUY) | [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP) | [Na Imaginação](https://open.spotify.com/album/6AXA2rbQCaAJfCcqgYPHcE) | 1:54 |
 
-Snapshot ID: `L9uh+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L9zzeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

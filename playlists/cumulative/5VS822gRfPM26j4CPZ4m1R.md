@@ -4,7 +4,7 @@
 
 > Playlist
 
-594 songs - 1 day 11 hr 12 min
+595 songs - 1 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Go Away](https://open.spotify.com/track/27gnIhBJcp5Now3H2JCP2H) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Nature Machine](https://open.spotify.com/album/5aMAsRYLO0tdxQHGzbGkHS) | 2:41 | 2023-10-25 |  |
 | [Go Downtown](https://open.spotify.com/track/03HA3VjUvxG7BiYX146J0a) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Stay Around](https://open.spotify.com/album/4ucx366gQtYYZLU2XRGDXz) | 3:32 | 2023-10-25 |  |
 | [Go Go](https://open.spotify.com/track/42K5GCKfNNLp3II4ad671S) | [coop](https://open.spotify.com/artist/4P58Vq8C63PKXUilBNVLMq) | [Go Go](https://open.spotify.com/album/3X9RCDxmzMWsT4fNLseidq) | 2:37 | 2023-10-25 |  |
+| [Goes Like That](https://open.spotify.com/track/3gkYFDJ30jt3HwSJ6Fb5Q0) | [Cool Sounds](https://open.spotify.com/artist/0soSU9eC31tES3VthvCLtU) | [Party Punisher](https://open.spotify.com/album/6PgQxNm2PqhxVZ6lYW5A2h) | 2:44 | 2025-06-11 |  |
 | [Golden Reservoir](https://open.spotify.com/track/2W7ycn0G05Z78UnkMyJruW) | [Who Boy](https://open.spotify.com/artist/52FotRaJbM9Kepqe2mTNvR) | [Golden Reservoir](https://open.spotify.com/album/6Nr294VTEN7wnUZYymNp0N) | 4:16 | 2023-10-25 |  |
 | [Good News](https://open.spotify.com/track/7FrvrkGK0WbBPaX7HogFDj) | [Aaron Joseph Russo](https://open.spotify.com/artist/5TYkSC09ELxgz8OEgLRzOU) | [Sookie La La](https://open.spotify.com/album/52Grn9eJ0fhqG1WmnID5ol) | 3:37 | 2023-10-25 |  |
 | [Goodbye Everything](https://open.spotify.com/track/0dKUwbclUVKLzE6j2jBHgY) | [Robi Mitch](https://open.spotify.com/artist/109H49pnmkDGwypTSRjliM) | [Goodbye Everything](https://open.spotify.com/album/2JsH8I6ZTwHerwjEXPRYiC) | 6:01 | 2023-10-25 |  |

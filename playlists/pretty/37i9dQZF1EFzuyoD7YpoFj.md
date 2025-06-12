@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 427 likes - 413 songs - 22 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 428 likes - 413 songs - 22 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,8 +170,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 160 | [Don't Fence Me In / Strollin'](https://open.spotify.com/track/19OTt5vFfApZoRLmMjtgyk) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Plays Well With Others](https://open.spotify.com/album/1glJqGy1jDHQp6KjmV42Tv) | 3:55 |
 | 161 | [Ev'rything I Love](https://open.spotify.com/track/4F0TmsCSkvGjDjRRl4QHXR) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [How My Heart Sings! \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/5nb7M6Ymcrj5CfxuYUPhJP) | 4:16 |
 | 162 | [Little Cabin In The Wood](https://open.spotify.com/track/7oRMrcfMvsxIbL0gye0KIp) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Toddler Action Songs](https://open.spotify.com/album/4LOfihzuxh5L2NqaMN02yj) | 1:06 |
-| 163 | [Cake Walking Babies from Home](https://open.spotify.com/track/0Aw0WcbLPkl44e9lz4wRNU) | [Young Sidney Bechet](https://open.spotify.com/artist/4kbB6ZBrfZaNZqFkjmGAPF) | [Young Sidney Bechet 1923\-1925](https://open.spotify.com/album/73WPlXuZNWeDu49lSAoVke) | 2:57 |
-| 164 | [Finale and End Title March](https://open.spotify.com/track/7g3UgZVHeO3pG7npW6UUbl) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Superman: The Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Hlfql6zSPcQGyZZ6TY5jO) | 5:42 |
+| 163 | [Finale and End Title March](https://open.spotify.com/track/7g3UgZVHeO3pG7npW6UUbl) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Superman: The Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Hlfql6zSPcQGyZZ6TY5jO) | 5:42 |
+| 164 | [Cake Walking Babies from Home](https://open.spotify.com/track/0Aw0WcbLPkl44e9lz4wRNU) | [Young Sidney Bechet](https://open.spotify.com/artist/4kbB6ZBrfZaNZqFkjmGAPF) | [Young Sidney Bechet 1923\-1925](https://open.spotify.com/album/73WPlXuZNWeDu49lSAoVke) | 2:57 |
 | 165 | [When I Found You](https://open.spotify.com/track/5qnq72N43NXsWnQjsgtu8n) | [Jerry Reed](https://open.spotify.com/artist/3SCfmZvLIgItA9H6fZ13CI) | [You Make It, They Take It](https://open.spotify.com/album/3JeRiKPLJBtnLjpixqwimz) | 2:29 |
 | 166 | [To You](https://open.spotify.com/track/2PgNsFmKHk63j13lhm4WFf) | [Tomatow](https://open.spotify.com/artist/1FzBO5erQh8xC6qT6tY3tO), [Alex Hackett](https://open.spotify.com/artist/6Pl6blrLZuvByS5oXyOzYG), [Trap King](https://open.spotify.com/artist/6AQA8AHchvs0v84tGbetVR) | [To You](https://open.spotify.com/album/3Csgtkqqx4PgruS16l5kQO) | 2:43 |
 | 167 | [Tante Saar](https://open.spotify.com/track/0ceYUvpmZeUmvmsI01SLQj) | [Manke Nelis](https://open.spotify.com/artist/7jGonUtfSFZgtQ6hKbqyBr) | [Blijven Lachen In Het Leven](https://open.spotify.com/album/4shLcC3AtPlGvEaeYvomzN) | 2:59 |
@@ -422,4 +422,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 412 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 | 413 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 
-Snapshot ID: `Abzy6gAAAADaDakQ5cgHD+XAM1BtgbnD`
+Snapshot ID: `Abz4qAAAAAC5Yq3os7arpZeQgne4sBY/`

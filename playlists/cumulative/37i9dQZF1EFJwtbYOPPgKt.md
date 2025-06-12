@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4faXS5M3wmHrYeRCoMXyUg">Katharina Emendoerfer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-72 songs - 3 hr 4 min
+73 songs - 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Nobody But Me](https://open.spotify.com/track/4i9PcmhTevRokKqri21Bcz) | [AEROBIK](https://open.spotify.com/artist/6KvIFrZa8inF4QNJMLj51t) | [Nobody But Me](https://open.spotify.com/album/6PmrSyZkI96DNLj4dK0uZs) | 3:00 | 2024-02-10 |  |
 | [Not An Angel](https://open.spotify.com/track/7B1cghqpCew1n39hPOD1D6) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [Not An Angel](https://open.spotify.com/album/1h7yp7OCNneghWvfix73fP) | 2:20 | 2024-01-29 |  |
 | [Nothing](https://open.spotify.com/track/7zTFAlxrofO8AElz6XoRkR) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Nothing](https://open.spotify.com/album/5FqFsYje6EkS1JlrfYzHAK) | 3:02 | 2024-01-29 |  |
+| [Nothing to Lose](https://open.spotify.com/track/1lxG5G2u81c1cwSvnAIYVZ) | [Matenka](https://open.spotify.com/artist/4EwYwO6WB7sNbcn9jf17PU), [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Nothing to Lose](https://open.spotify.com/album/4BHw8cY6lk2OTWjXRfyNXe) | 2:53 | 2025-06-11 |  |
 | [OHNE DICH](https://open.spotify.com/track/71hdTxlg3hYTBomSwAG0mM) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [OHNE DICH](https://open.spotify.com/album/1NzY7UOkZ6uP6oz9sP8AtZ) | 2:54 | 2024-01-29 |  |
 | [OMG](https://open.spotify.com/track/1xAzz3m58ri8gYLwx4sTGc) | [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [OMG](https://open.spotify.com/album/71KATnAYEzdIEsFlXq0Ogy) | 2:16 | 2025-04-07 |  |
 | [One More Night To Go](https://open.spotify.com/track/4Q3l20SmjVi59yoKOG2asT) | [APHn](https://open.spotify.com/artist/3l4cCNbw1p2R7VD8CV82NJ) | [One More Night To Go](https://open.spotify.com/album/01octbPLjMYCYCPBts1kdx) | 2:43 | 2024-08-04 |  |

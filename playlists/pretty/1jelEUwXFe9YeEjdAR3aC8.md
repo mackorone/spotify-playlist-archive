@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 
 > Listen here for the best emerging British Acts across pop, alternative and more
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 100,299 likes - 80 songs - 4 hr 10 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 100,267 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 | 79 | [World At My Feet](https://open.spotify.com/track/1wvqFqy2sYYQN7Eyrnva2S) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I WILL.](https://open.spotify.com/album/2BYVPJNyBUltJDH4rrxvwl) | 2:51 |
 | 80 | [Who’s There To Love Without You?](https://open.spotify.com/track/4tBZyQzNxXMvRUdpwv9j95) | [Picture Parlour](https://open.spotify.com/artist/0lGEUAqbgX8yeEGIWjY9eV) | [Who’s There To Love Without You?](https://open.spotify.com/album/3ZqtUDdI0wz0DNBfE1iKLK) | 3:03 |
 
-Snapshot ID: `AAAiGJHAiViC/aj2iy8xCqqnp7o2aujb`
+Snapshot ID: `AAAiGTT1lz/aTHLCogOCJlrInMXg5ct+`

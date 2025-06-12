@@ -1051,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "don't hold me accountable",
+        "url": "https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB"
+      },
+      "artists": [
+        {
+          "name": "Cil",
+          "url": "https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133976,
+      "name": "forgot to be my lover",
+      "url": "https://open.spotify.com/track/3HMxNEaOXOjedAhKxYHZEy"
+    },
+    {
+      "album": {
         "name": "Mark Ronson Presents The Music Of \"Spies In Disguise\"",
         "url": "https://open.spotify.com/album/0EeETtjyIpQwsiqIQMHLtk"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 
 > Generations of blood have lead to this\. Listen to the music from Yellowstone, airing Sundays on Paramount Network.
 
-[Spotify](https://open.spotify.com/user/spotify) - 672,235 likes - 219 songs - 13 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 672,483 likes - 219 songs - 13 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 218 | [Valley of the Soul](https://open.spotify.com/track/6c5lwfjyf1DmhJny356juY) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 5:07 |
 | 219 | [Yellowstone Main Titles](https://open.spotify.com/track/2UJvq5v0tSh1UrtINtKhMn) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 1:09 |
 
-Snapshot ID: `Z8ISkgAAAAChpzzWT+sXdts6scaxmrvO`
+Snapshot ID: `Z8ISkgAAAAB89tBLBOEghyXVXjKj9ip1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Belinda
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,173 likes - 56 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,006 likes - 56 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 55 | [KILLAH](https://open.spotify.com/track/6q2q76hWee509heX24BwS5) | [Red 6xteen](https://open.spotify.com/artist/0CBib0Hd5BqqwNdwUzNPyk), [Carlos Trvp](https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy), [Swift Bundi](https://open.spotify.com/artist/1gOp1hbP1aExr1fzegim2T) | [KILLAH](https://open.spotify.com/album/43Gauz3MwLpEC5b7QJKYdD) | 2:12 |
 | 56 | [Ferra](https://open.spotify.com/track/2L8ZkWp3NqPgW6HaeoCnfQ) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Ferra](https://open.spotify.com/album/6cdhiCQF43NNlKhImwGQPn) | 3:00 |
 
-Snapshot ID: `aEhvpQAAAADERvRF0K/BE8dsuixxhYfL`
+Snapshot ID: `AAAAAGU7tl0NS9ZZNGqoR9CgUvzIdHVB`

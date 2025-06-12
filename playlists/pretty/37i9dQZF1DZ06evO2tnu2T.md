@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tnu2T.md) - [plain]
 
 > This is Absolutely\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96 likes - 12 songs - 35 min 46 sec
+[Spotify](https://open.spotify.com/user/spotify) - 105 likes - 12 songs - 35 min 46 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tnu2T.md) - [plain]
 | 7 | [333](https://open.spotify.com/track/6xCPeUPZFaQMI3l4GDaAwI) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [333](https://open.spotify.com/album/2VOHb02PHjs4bu5qPPy1Dy) | 3:01 |
 | 8 | [24 Hours](https://open.spotify.com/track/5nwSXC1tojEYcUPUfywdu3) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:27 |
 | 9 | [Glass](https://open.spotify.com/track/7mWB3oNV5SCMNxD0h0hjt2) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 3:18 |
-| 10 | [Arrivals](https://open.spotify.com/track/3s7j6rr4X9PcSRl6i0qtUb) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 3:05 |
-| 11 | [Symphony](https://open.spotify.com/track/5zcAYd9lajmg2DW8MMq5Jy) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 2:41 |
+| 10 | [Symphony](https://open.spotify.com/track/5zcAYd9lajmg2DW8MMq5Jy) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 2:41 |
+| 11 | [Arrivals](https://open.spotify.com/track/3s7j6rr4X9PcSRl6i0qtUb) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 3:05 |
 | 12 | [Close To You](https://open.spotify.com/track/6HuEuUruCrjWyt00zHqJUx) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 2:54 |
 
-Snapshot ID: `aEYkAAAAAAB/8jafFdH3+VPlVIJrOwHg`
+Snapshot ID: `aEd1gAAAAAAo8IIDdWSL8RR1N1cG0tB5`

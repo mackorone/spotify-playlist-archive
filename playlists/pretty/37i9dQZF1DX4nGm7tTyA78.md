@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 
 > Reggaeton pero al sabor de Cristo! Foto: Jay Kalyl
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,457 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,514 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 | 59 | [No Se Quita](https://open.spotify.com/track/71Uw8G2YIbZ7Rkoqo8CoNI) | [Simiente Incorruptible](https://open.spotify.com/artist/00lO9exwxYAnFcYeWhtotT) | [No Se Quita](https://open.spotify.com/album/5iQhx0NRljm9aaSbkDmC9L) | 3:02 |
 | 60 | [atención](https://open.spotify.com/track/4qtrpNqe3K70aeTHCnYTSm) | [Barajas](https://open.spotify.com/artist/0oaW8w858ZIyAnhDIskEqw), [Lexander](https://open.spotify.com/artist/330lBZpfC25aQtcN90n9Hy), [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [atención](https://open.spotify.com/album/1oKPLu1zqN8qsydyLhDw5K) | 3:10 |
 
-Snapshot ID: `aDANagAAAAAMOKf50N10SmttnmqqhEUT`
+Snapshot ID: `aDANagAAAADWiFH0/LNejFFDXuepTJwZ`

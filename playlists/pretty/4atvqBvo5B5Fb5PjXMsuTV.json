@@ -1,13 +1,93 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 10 Jun 18:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 12 Jun 03:03 UTC.",
   "num_followers": 93,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAASdQxL7zDxR4NnumoNjwGeGAkIN6xP",
+  "snapshot_id": "AAASf20YC+/bTrRnMqay9P7eXM83A20Y",
   "tracks": [
+    {
+      "added_at": "2025-06-11 13:04:06",
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/3yZGdJW5lLePqAPE5z7OxT"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 209226,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/5K1thEZHOgjE89mxwA01T9"
+    },
+    {
+      "added_at": "2025-06-11 22:03:48",
+      "album": {
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
+    },
+    {
+      "added_at": "2025-06-11 08:03:49",
+      "album": {
+        "name": "SAFE",
+        "url": "https://open.spotify.com/album/1tIt6HVkpU0RROA95BnkZR"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 165251,
+      "name": "SAFE",
+      "url": "https://open.spotify.com/track/6r9RMmzYjOr4sQOG1tQLDM"
+    },
+    {
+      "added_at": "2025-06-11 22:03:48",
+      "album": {
+        "name": "I LIE",
+        "url": "https://open.spotify.com/album/0QN26woxii8wPVt4j5tBO2"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "duration_ms": 136346,
+      "name": "I LIE",
+      "url": "https://open.spotify.com/track/5LH189w5B5XeECfKbELs6H"
+    },
+    {
+      "added_at": "2025-06-11 18:03:45",
+      "album": {
+        "name": "GORDIAN",
+        "url": "https://open.spotify.com/album/1a8vPsLP2Fh8pf8j5wSZfT"
+      },
+      "artists": [
+        {
+          "name": "Gao the Arsonist",
+          "url": "https://open.spotify.com/artist/4ZonAe7RftZZ4ef3KGWsum"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "GORDIAN",
+      "url": "https://open.spotify.com/track/7iOkf8ccwac8DN8FD6N45M"
+    },
     {
       "added_at": "2025-06-10 18:03:48",
       "album": {
@@ -264,7 +344,7 @@
           "url": "https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M"
         }
       ],
-      "duration_ms": 301865,
+      "duration_ms": 301871,
       "name": "Blocs",
       "url": "https://open.spotify.com/track/0LqLyfSJ3qmIifNbb8AvXi"
     },
@@ -315,6 +395,22 @@
       "duration_ms": 166984,
       "name": "Killing Spree",
       "url": "https://open.spotify.com/track/3tAk2w4j6Dd1MFrWmSfOZk"
+    },
+    {
+      "added_at": "2025-06-11 22:03:48",
+      "album": {
+        "name": "Mechanical Chaos",
+        "url": "https://open.spotify.com/album/1c1o969p0fOBkTcea31737"
+      },
+      "artists": [
+        {
+          "name": "Shadow of Intent",
+          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
+        }
+      ],
+      "duration_ms": 230517,
+      "name": "Mechanical Chaos",
+      "url": "https://open.spotify.com/track/5Ooe9BRVaQfdc8o2WA7xO5"
     },
     {
       "added_at": "2025-06-06 18:03:42",
@@ -419,6 +515,22 @@
       "duration_ms": 318853,
       "name": "Skin - The Collaboration Remix Edit",
       "url": "https://open.spotify.com/track/0zFNdU81Fj9EuYAOuqMQ2X"
+    },
+    {
+      "added_at": "2025-06-12 03:03:43",
+      "album": {
+        "name": "One Of Them",
+        "url": "https://open.spotify.com/album/6TzgT7RMTJKpclQ7awIjru"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "duration_ms": 171772,
+      "name": "One Of Them",
+      "url": "https://open.spotify.com/track/0I0P8FFXCndrwK1wBDo2bB"
     },
     {
       "added_at": "2025-06-07 13:03:15",
@@ -707,118 +819,6 @@
       "duration_ms": 248000,
       "name": "DEAD",
       "url": "https://open.spotify.com/track/6r2VHQDYBLFnuBqzE0V2Or"
-    },
-    {
-      "added_at": "2025-06-03 22:03:46",
-      "album": {
-        "name": "Where To Look",
-        "url": "https://open.spotify.com/album/4fwjQarLnKj466NhmGtlgc"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 290618,
-      "name": "Where To Look",
-      "url": "https://open.spotify.com/track/6fp01DAoqsZNyTwZidZ74I"
-    },
-    {
-      "added_at": "2025-06-03 13:03:40",
-      "album": {
-        "name": "Cutthroat",
-        "url": "https://open.spotify.com/album/6C4fHqAWoZdy7A4o07euoP"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 194491,
-      "name": "Cutthroat",
-      "url": "https://open.spotify.com/track/5cQmKBhv5Ui17M4hopt2TX"
-    },
-    {
-      "added_at": "2025-06-04 08:03:36",
-      "album": {
-        "name": "Heaven Is No Feeling",
-        "url": "https://open.spotify.com/album/5fwq4wZ66Fh8ebZ5uduuwT"
-      },
-      "artists": [
-        {
-          "name": "Cate Le Bon",
-          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
-        }
-      ],
-      "duration_ms": 228783,
-      "name": "Heaven Is No Feeling",
-      "url": "https://open.spotify.com/track/0O2xM3g14PLmfp5xKoBnkA"
-    },
-    {
-      "added_at": "2025-06-05 18:03:14",
-      "album": {
-        "name": "Paper Dolls",
-        "url": "https://open.spotify.com/album/6SRHoWDUIPF9p9X07r9AWX"
-      },
-      "artists": [
-        {
-          "name": "STOMACH BOOK",
-          "url": "https://open.spotify.com/artist/079cEjjSpv5dOLH5xsGdvN"
-        }
-      ],
-      "duration_ms": 228488,
-      "name": "Paper Dolls",
-      "url": "https://open.spotify.com/track/0ve4nu1wEAk9wtcK80574F"
-    },
-    {
-      "added_at": "2025-06-03 13:03:40",
-      "album": {
-        "name": "CONTROL",
-        "url": "https://open.spotify.com/album/3RY4HDEF0YABQgGyXeaOcI"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "CONTROL",
-      "url": "https://open.spotify.com/track/4PFlZpluDUhUpo2QH1a7ph"
-    },
-    {
-      "added_at": "2025-06-03 18:03:47",
-      "album": {
-        "name": "The Rope",
-        "url": "https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 190574,
-      "name": "The Rope",
-      "url": "https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX"
-    },
-    {
-      "added_at": "2025-06-04 08:03:36",
-      "album": {
-        "name": "Cigarettes 2",
-        "url": "https://open.spotify.com/album/16WAgU1NG76DTQ27QrnsGv"
-      },
-      "artists": [
-        {
-          "name": "Kill Bill: The Rapper",
-          "url": "https://open.spotify.com/artist/1t9KewtUvFMq6q7FRX1nHC"
-        }
-      ],
-      "duration_ms": 186932,
-      "name": "Cigarettes 2",
-      "url": "https://open.spotify.com/track/3PuR5DgEJP8QVrLnC6rBQS"
     }
   ],
   "unique_name": "New Singles Now",

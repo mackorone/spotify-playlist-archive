@@ -5352,6 +5352,24 @@
     {
       "album": {
         "name": "UNDER8ED",
+        "url": "https://open.spotify.com/album/3PDlbCUpbitsraP877GYTQ"
+      },
+      "artists": [
+        {
+          "name": "Pardison Fontaine",
+          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251400,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/46Hf77O2IyreVIS6G8BXIV"
+    },
+    {
+      "album": {
+        "name": "UNDER8ED",
         "url": "https://open.spotify.com/album/45x9T2H8aU4ckLPOYfGucD"
       },
       "artists": [
@@ -5362,7 +5380,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 251414,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/1XjfZl7mSPX1QSfARs0FM7"
@@ -5380,10 +5398,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 207011,
       "name": "Southside",
       "url": "https://open.spotify.com/track/7hzs2eAXBVFzags75j03hh"
+    },
+    {
+      "album": {
+        "name": "UNDER8ED",
+        "url": "https://open.spotify.com/album/3PDlbCUpbitsraP877GYTQ"
+      },
+      "artists": [
+        {
+          "name": "Pardison Fontaine",
+          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207013,
+      "name": "Southside",
+      "url": "https://open.spotify.com/track/7AUYitA3rADsfyYaWai7Wv"
     },
     {
       "album": {

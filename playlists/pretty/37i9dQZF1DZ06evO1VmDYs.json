@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 193238,
+  "num_followers": 193259,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEYkAAAAAACIh4bkADeLrrhs/6EP4cZU",
+  "snapshot_id": "aEd1gAAAAACKpB+kfV3JNQ+4u3d/qvML",
   "tracks": [
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pinkerton - Deluxe Edition",
-        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 118653,
-      "name": "You Gave Your Love To Me Softly",
-      "url": "https://open.spotify.com/track/6nfLKum9Lr2AuLkeDMoJ8e"
+      "duration_ms": 139093,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/4hA3OFMvHCFCK3TfJYdbif"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+        "name": "Pinkerton - Deluxe Edition",
+        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 139093,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/4hA3OFMvHCFCK3TfJYdbif"
+      "duration_ms": 118653,
+      "name": "You Gave Your Love To Me Softly",
+      "url": "https://open.spotify.com/track/6nfLKum9Lr2AuLkeDMoJ8e"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pinkerton - Deluxe Edition",
-        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 326293,
-      "name": "Tragic Girl",
-      "url": "https://open.spotify.com/track/2J4Q2WIx3572uZuTTNkCby"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everything Will Be Alright In The End",
         "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 193733,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pinkerton - Deluxe Edition",
+        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 326293,
+      "name": "Tragic Girl",
+      "url": "https://open.spotify.com/track/2J4Q2WIx3572uZuTTNkCby"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurley (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5bZmKHyVdaybEuqg5sJjNZ"
+        "name": "Pinkerton - Deluxe Edition",
+        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 194306,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/29BK3FAFBEfhO5w4ZlFrky"
+      "duration_ms": 191826,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/1tZeHEchoo62G0xpEcjbAj"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pinkerton - Deluxe Edition",
-        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 191826,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/1tZeHEchoo62G0xpEcjbAj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Weezer (White Album)",
         "url": "https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 207760,
       "name": "Do You Wanna Get High?",
       "url": "https://open.spotify.com/track/5IJ6rniX2mkT2ITklBSx6a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hurley (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5bZmKHyVdaybEuqg5sJjNZ"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/29BK3FAFBEfhO5w4ZlFrky"
     },
     {
       "added_at": null,

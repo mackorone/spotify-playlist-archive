@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Brazil.",
-  "num_followers": 226073,
+  "num_followers": 226124,
   "original_name": "Top Songs - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L9uh+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L9zzeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2025-06-06 19:30:36",
@@ -412,10 +412,6 @@
       },
       "artists": [
         {
-          "name": "Mc Danny",
-          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
-        },
-        {
           "name": "Mc Pedrinho",
           "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
         },
@@ -426,6 +422,10 @@
         {
           "name": "Rizzi Get Busy",
           "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
+        },
+        {
+          "name": "Tropa da W&S",
+          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
         }
       ],
       "duration_ms": 131822,

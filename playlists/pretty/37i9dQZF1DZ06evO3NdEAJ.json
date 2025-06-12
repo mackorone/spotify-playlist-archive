@@ -1,12 +1,12 @@
 {
   "description": "This is La Fiera de Ojinaga. The essential tracks, all in one playlist.",
-  "num_followers": 50566,
+  "num_followers": 50575,
   "original_name": "This Is La Fiera de Ojinaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEYkAAAAAAAaWIJQ4zy0A39XQW5WLWfu",
+  "snapshot_id": "aEd1gAAAAADCriEyGdwLliX6t/PQkvkS",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Directo Al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2MjM2y9U7GXuJAEeiaQRRF"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 172091,
-      "name": "Selfie",
-      "url": "https://open.spotify.com/track/0oBnWqf8EmbZv9q4Bo5OEk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Boca Les Callamos, Vol. 2",
         "url": "https://open.spotify.com/album/7EesU3azH6jPG5osiPex59"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 166272,
       "name": "Vac\u00edo",
       "url": "https://open.spotify.com/track/3fxKox0e8TPyrIOiOC5Hkf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Directo Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2MjM2y9U7GXuJAEeiaQRRF"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 172091,
+      "name": "Selfie",
+      "url": "https://open.spotify.com/track/0oBnWqf8EmbZv9q4Bo5OEk"
     },
     {
       "added_at": null,
@@ -379,38 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Otro Canal",
-        "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 228863,
-      "name": "A Decir Verdad",
-      "url": "https://open.spotify.com/track/6YYroAXcnuMR0PqfRkFTch"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Infinito",
-        "url": "https://open.spotify.com/album/7J6dh2qFQuRPYinWwVj2Q9"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Infinito",
-      "url": "https://open.spotify.com/track/7pFVbw3r0q4NEQ3RtpdG0A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Quiero Compartir",
         "url": "https://open.spotify.com/album/3D9xpDoODtzajKTq6oqV6k"
       },
@@ -431,6 +399,38 @@
       "duration_ms": 165700,
       "name": "No Quiero Compartir",
       "url": "https://open.spotify.com/track/7fzMXmWm7vONX6aRq7M1jI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/7J6dh2qFQuRPYinWwVj2Q9"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Infinito",
+      "url": "https://open.spotify.com/track/7pFVbw3r0q4NEQ3RtpdG0A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Otro Canal",
+        "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 228863,
+      "name": "A Decir Verdad",
+      "url": "https://open.spotify.com/track/6YYroAXcnuMR0PqfRkFTch"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Otro Canal",
-        "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 227196,
-      "name": "Lo Dejar\u00eda Todo",
-      "url": "https://open.spotify.com/track/2HgLertx97aKmtkVfNymvU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Hice Mal",
         "url": "https://open.spotify.com/album/6QSWl8pogGdQSB6kt6YjrS"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 196964,
       "name": "Te Hice Mal",
       "url": "https://open.spotify.com/track/16RpBbmgnsraKlaSngEwmq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Otro Canal",
+        "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 227196,
+      "name": "Lo Dejar\u00eda Todo",
+      "url": "https://open.spotify.com/track/2HgLertx97aKmtkVfNymvU"
     },
     {
       "added_at": null,

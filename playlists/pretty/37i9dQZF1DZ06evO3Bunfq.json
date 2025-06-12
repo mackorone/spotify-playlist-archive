@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 122733,
+  "num_followers": 122763,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEYkAAAAAAApQJPsM+0uKDheuRhBhZXc",
+  "snapshot_id": "aEd1gAAAAADOeUix8sSYHv7Evm2vnilq",
   "tracks": [
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recia",
-        "url": "https://open.spotify.com/album/2lCjZdvsSzI9W79U5nmp5p"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 237419,
-      "name": "Recia",
-      "url": "https://open.spotify.com/track/1BXba3d3aIzvM4wgn8hSVC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Vicio y la Fama",
         "url": "https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 165801,
       "name": "Borracho Gacho (feat. Dharius)",
       "url": "https://open.spotify.com/track/2f552XXwU9KIdxmXQQ4AqN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recia",
+        "url": "https://open.spotify.com/album/2lCjZdvsSzI9W79U5nmp5p"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 237419,
+      "name": "Recia",
+      "url": "https://open.spotify.com/track/1BXba3d3aIzvM4wgn8hSVC"
     },
     {
       "added_at": null,
@@ -879,42 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retumbando en la Ciudad",
-        "url": "https://open.spotify.com/album/5cufO6yyzjtoouiGKv1R7J"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 214736,
-      "name": "Retumbando en la Ciudad",
-      "url": "https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Diablo, La Muerte y Yo",
-        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 207679,
-      "name": "No tengo amigos",
-      "url": "https://open.spotify.com/track/5Kf28YdJzA9sd1BhpQ1UNr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Misi\u00f3n (Episodio 4)",
         "url": "https://open.spotify.com/album/5TzgFVuMKUDiyYPtMiX66e"
       },
@@ -935,6 +899,42 @@
       "duration_ms": 293325,
       "name": "La Misi\u00f3n (Episodio 4)",
       "url": "https://open.spotify.com/track/3TAzpSBGCZvFe3XuHevWoW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 207679,
+      "name": "No tengo amigos",
+      "url": "https://open.spotify.com/track/5Kf28YdJzA9sd1BhpQ1UNr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Retumbando en la Ciudad",
+        "url": "https://open.spotify.com/album/5cufO6yyzjtoouiGKv1R7J"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 214736,
+      "name": "Retumbando en la Ciudad",
+      "url": "https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa"
     },
     {
       "added_at": null,
@@ -999,6 +999,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oro en la Medalla",
+        "url": "https://open.spotify.com/album/7ldWaPET5zr62xHpJCVZWO"
+      },
+      "artists": [
+        {
+          "name": "Nash",
+          "url": "https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "AYWA",
+          "url": "https://open.spotify.com/artist/6GEVw5yA5Oe5UxuiN2YOIO"
+        }
+      ],
+      "duration_ms": 155700,
+      "name": "Oro en la Medalla",
+      "url": "https://open.spotify.com/track/2TYVh81Hg2FyNq8MRkTd5H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Da Street Album",
         "url": "https://open.spotify.com/album/19SohNpEp4BqtdZrRhcr5z"
       },
@@ -1023,30 +1047,6 @@
       "duration_ms": 140053,
       "name": "Todo El Barrio",
       "url": "https://open.spotify.com/track/2Q102D8aRguZjaq4m6NqpA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oro en la Medalla",
-        "url": "https://open.spotify.com/album/7ldWaPET5zr62xHpJCVZWO"
-      },
-      "artists": [
-        {
-          "name": "Nash",
-          "url": "https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "AYWA",
-          "url": "https://open.spotify.com/artist/6GEVw5yA5Oe5UxuiN2YOIO"
-        }
-      ],
-      "duration_ms": 155700,
-      "name": "Oro en la Medalla",
-      "url": "https://open.spotify.com/track/2TYVh81Hg2FyNq8MRkTd5H"
     },
     {
       "added_at": null,

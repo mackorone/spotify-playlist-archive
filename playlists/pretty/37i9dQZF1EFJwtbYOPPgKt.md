@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJwtbYOPPgKt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4faXS5M3wmHrYeRCoMXyUg">Katharina Emendoerfer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30 likes - 65 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 30 likes - 66 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,19 +59,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJwtbYOPPgKt.md) - [plain]
 | 49 | [Bump](https://open.spotify.com/track/1bzCUnAH3gLc0yCMBrkIBI) | [Rob Late](https://open.spotify.com/artist/6OmPUPxJmHooPogepW0elo), [Georgia Box](https://open.spotify.com/artist/0fipA58lCvlkdokbwpoZZi) | [Bump](https://open.spotify.com/album/1wKO2g0UNisVXedPTMAYbP) | 3:08 |
 | 50 | [Nothing](https://open.spotify.com/track/7zTFAlxrofO8AElz6XoRkR) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Nothing](https://open.spotify.com/album/5FqFsYje6EkS1JlrfYzHAK) | 3:02 |
 | 51 | [I'll Be Home](https://open.spotify.com/track/0swU3UEVigidoLc8k5dd7Y) | [YUNA](https://open.spotify.com/artist/7unfyHphLkqeFODqHAgvr2), [Martin van Lectro](https://open.spotify.com/artist/0goAkRbqjvGdCHsTN0ToOL), [Patrick Metzker](https://open.spotify.com/artist/33uhwUheWoyh63ggR3eZaL) | [I'll Be Home](https://open.spotify.com/album/0ETN9o5bXMk2RI75CHLNpx) | 2:02 |
-| 52 | [DONE WITH YOU](https://open.spotify.com/track/4jogIUuguYYQcggPlAAy2a) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG), [Danny Baldursson](https://open.spotify.com/artist/7DdOl2eNdIGAiHF74dFtYS) | [DONE WITH YOU](https://open.spotify.com/album/6mzgSAMmEMNbS93V92aLal) | 2:31 |
-| 53 | [Summer Sumwhere](https://open.spotify.com/track/2FU5HIB4iqKvxSlPAxzvft) | [JONI](https://open.spotify.com/artist/0Yg1QOck4SWkHWHTtlNGLS) | [Summer Sumwhere](https://open.spotify.com/album/7MabKKcRShWZLvtxBGuM3X) | 2:27 |
-| 54 | [ZURÜCK ZU DIR](https://open.spotify.com/track/0iAXtySs1LbwnCVCIeCL7h) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [ZURÜCK ZU DIR](https://open.spotify.com/album/6S2SfITnDPl4eDe4TunS9C) | 2:36 |
-| 55 | [Last Christmas](https://open.spotify.com/track/7EOgEy6NH28zV2q8i6apNN) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Last Christmas](https://open.spotify.com/album/0iEH4xMIHTSmrHXsoA0qT3) | 2:20 |
-| 56 | [Do It For Myself](https://open.spotify.com/track/4SXZdkt0vQl9Rxsj7yfICY) | [KAIN](https://open.spotify.com/artist/3hUzmwo4uCNNY5XS1h3GP0) | [Do It For Myself](https://open.spotify.com/album/2Ark73yV8CHbYh4ETAf0WD) | 2:24 |
-| 57 | [Talk To My Body](https://open.spotify.com/track/5NIRs5yzSHnD4lDiZhTyt1) | [J\-MOX](https://open.spotify.com/artist/0cFSCEnmtvNCdKNxPLSwP2), [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Talk To My Body](https://open.spotify.com/album/0lhCnHBthlbwEaQuvvhPWB) | 2:46 |
-| 58 | [Rock N Roll Style](https://open.spotify.com/track/21UzAA0Sq5Vgaf3OYcqxZ0) | [CALEIDESCOPE](https://open.spotify.com/artist/40Cha4Qon7sdhQIBkZwlQl), [WhiteCapMusic](https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB), [FSDW](https://open.spotify.com/artist/4RPg75BaMIfyBb94V8HqCw) | [Rock N Roll Style](https://open.spotify.com/album/3ZqaShirb0rDd77DIKiDmj) | 2:54 |
-| 59 | [OMG](https://open.spotify.com/track/1xAzz3m58ri8gYLwx4sTGc) | [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [OMG](https://open.spotify.com/album/71KATnAYEzdIEsFlXq0Ogy) | 2:16 |
-| 60 | [Insecurities](https://open.spotify.com/track/3Bv7K7WqHXa0u3tdUyEpNg) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Insecurities](https://open.spotify.com/album/3Q8o4LeEkVHn59LLmGBuuw) | 2:58 |
-| 61 | [One More Night To Go](https://open.spotify.com/track/4Q3l20SmjVi59yoKOG2asT) | [APHn](https://open.spotify.com/artist/3l4cCNbw1p2R7VD8CV82NJ) | [One More Night To Go](https://open.spotify.com/album/01octbPLjMYCYCPBts1kdx) | 2:43 |
-| 62 | [It's You](https://open.spotify.com/track/6pbAV8UDevvh8GaWtiylzA) | [Allenx](https://open.spotify.com/artist/6MRiy2aJOrZwKRcgdAZ2oH) | [It's You](https://open.spotify.com/album/6yNCLRluSrZPxK8f5PHWa6) | 2:25 |
-| 63 | [5/10](https://open.spotify.com/track/5rIYn6fgIIraBGl6kvY3g3) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Moody](https://open.spotify.com/album/3NeQAa6mtrJdgvbu2pEaAN) | 2:29 |
-| 64 | [Tonight I'm Gonna Dance](https://open.spotify.com/track/3kFcllup1aucn7AWLDKqA3) | [Sanzach](https://open.spotify.com/artist/62GsFBdGVenYYlclZgtXDD) | [Tonight I'm Gonna Dance](https://open.spotify.com/album/3vgkuOQieRHCrNkrloKZSW) | 2:56 |
-| 65 | [Nobody But Me](https://open.spotify.com/track/4i9PcmhTevRokKqri21Bcz) | [AEROBIK](https://open.spotify.com/artist/6KvIFrZa8inF4QNJMLj51t) | [Nobody But Me](https://open.spotify.com/album/6PmrSyZkI96DNLj4dK0uZs) | 3:00 |
+| 52 | [Nothing to Lose](https://open.spotify.com/track/1lxG5G2u81c1cwSvnAIYVZ) | [Matenka](https://open.spotify.com/artist/4EwYwO6WB7sNbcn9jf17PU), [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Nothing to Lose](https://open.spotify.com/album/4BHw8cY6lk2OTWjXRfyNXe) | 2:53 |
+| 53 | [DONE WITH YOU](https://open.spotify.com/track/4jogIUuguYYQcggPlAAy2a) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG), [Danny Baldursson](https://open.spotify.com/artist/7DdOl2eNdIGAiHF74dFtYS) | [DONE WITH YOU](https://open.spotify.com/album/6mzgSAMmEMNbS93V92aLal) | 2:31 |
+| 54 | [Summer Sumwhere](https://open.spotify.com/track/2FU5HIB4iqKvxSlPAxzvft) | [JONI](https://open.spotify.com/artist/0Yg1QOck4SWkHWHTtlNGLS) | [Summer Sumwhere](https://open.spotify.com/album/7MabKKcRShWZLvtxBGuM3X) | 2:27 |
+| 55 | [ZURÜCK ZU DIR](https://open.spotify.com/track/0iAXtySs1LbwnCVCIeCL7h) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [ZURÜCK ZU DIR](https://open.spotify.com/album/6S2SfITnDPl4eDe4TunS9C) | 2:36 |
+| 56 | [Last Christmas](https://open.spotify.com/track/7EOgEy6NH28zV2q8i6apNN) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Last Christmas](https://open.spotify.com/album/0iEH4xMIHTSmrHXsoA0qT3) | 2:20 |
+| 57 | [Do It For Myself](https://open.spotify.com/track/4SXZdkt0vQl9Rxsj7yfICY) | [KAIN](https://open.spotify.com/artist/3hUzmwo4uCNNY5XS1h3GP0) | [Do It For Myself](https://open.spotify.com/album/2Ark73yV8CHbYh4ETAf0WD) | 2:24 |
+| 58 | [Talk To My Body](https://open.spotify.com/track/5NIRs5yzSHnD4lDiZhTyt1) | [J\-MOX](https://open.spotify.com/artist/0cFSCEnmtvNCdKNxPLSwP2), [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Talk To My Body](https://open.spotify.com/album/0lhCnHBthlbwEaQuvvhPWB) | 2:46 |
+| 59 | [Rock N Roll Style](https://open.spotify.com/track/21UzAA0Sq5Vgaf3OYcqxZ0) | [CALEIDESCOPE](https://open.spotify.com/artist/40Cha4Qon7sdhQIBkZwlQl), [WhiteCapMusic](https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB), [FSDW](https://open.spotify.com/artist/4RPg75BaMIfyBb94V8HqCw) | [Rock N Roll Style](https://open.spotify.com/album/3ZqaShirb0rDd77DIKiDmj) | 2:54 |
+| 60 | [OMG](https://open.spotify.com/track/1xAzz3m58ri8gYLwx4sTGc) | [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [OMG](https://open.spotify.com/album/71KATnAYEzdIEsFlXq0Ogy) | 2:16 |
+| 61 | [Insecurities](https://open.spotify.com/track/3Bv7K7WqHXa0u3tdUyEpNg) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Insecurities](https://open.spotify.com/album/3Q8o4LeEkVHn59LLmGBuuw) | 2:58 |
+| 62 | [One More Night To Go](https://open.spotify.com/track/4Q3l20SmjVi59yoKOG2asT) | [APHn](https://open.spotify.com/artist/3l4cCNbw1p2R7VD8CV82NJ) | [One More Night To Go](https://open.spotify.com/album/01octbPLjMYCYCPBts1kdx) | 2:43 |
+| 63 | [It's You](https://open.spotify.com/track/6pbAV8UDevvh8GaWtiylzA) | [Allenx](https://open.spotify.com/artist/6MRiy2aJOrZwKRcgdAZ2oH) | [It's You](https://open.spotify.com/album/6yNCLRluSrZPxK8f5PHWa6) | 2:25 |
+| 64 | [5/10](https://open.spotify.com/track/5rIYn6fgIIraBGl6kvY3g3) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Moody](https://open.spotify.com/album/3NeQAa6mtrJdgvbu2pEaAN) | 2:29 |
+| 65 | [Tonight I'm Gonna Dance](https://open.spotify.com/track/3kFcllup1aucn7AWLDKqA3) | [Sanzach](https://open.spotify.com/artist/62GsFBdGVenYYlclZgtXDD) | [Tonight I'm Gonna Dance](https://open.spotify.com/album/3vgkuOQieRHCrNkrloKZSW) | 2:56 |
+| 66 | [Nobody But Me](https://open.spotify.com/track/4i9PcmhTevRokKqri21Bcz) | [AEROBIK](https://open.spotify.com/artist/6KvIFrZa8inF4QNJMLj51t) | [Nobody But Me](https://open.spotify.com/album/6PmrSyZkI96DNLj4dK0uZs) | 3:00 |
 
-Snapshot ID: `Abzy4AAAAABjrbcbbcCkNF1Ngf5WbjZj`
+Snapshot ID: `Abz4qAAAAACpSTXQMaSOTXSlPkpN6YRh`

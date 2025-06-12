@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Pastor Mike Jr\.  & Adia
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,374 likes - 100 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,389 likes - 100 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [Do It Anyway](https://open.spotify.com/track/2rF5K9wMGwaiwsTwVjDrDq) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Do It Anyway](https://open.spotify.com/album/6ovFuEIhGBZQS30IinCMNx) | 2:57 |
 | 100 | [Hosanna \(Blessed Be The Rock\) \- Live](https://open.spotify.com/track/6XtWJyxmugTdmrjGp7Rzof) | [Randy Weston](https://open.spotify.com/artist/6rBxU46le6jDmzkYLD3FVN), [Judah Band](https://open.spotify.com/artist/03gMZAPd2rlsXGVZDusedV) | [Testimony Service \(Live\)](https://open.spotify.com/album/3buwWGl7lXHzTBypWohXx0) | 4:09 |
 
-Snapshot ID: `aETBdgAAAAAk88L8EzaulQeyHnb0BQhT`
+Snapshot ID: `AAAAALlQPYiSbNwQgphdQ8EU+YjblbAK`

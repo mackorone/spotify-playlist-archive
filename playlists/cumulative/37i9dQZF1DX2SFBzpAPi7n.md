@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: The Rose\(더 로즈\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Redoor\) \(핫한 국내 록 음악을 만나보세요!\)
 
-965 songs - 2 day 10 hr 57 min
+967 songs - 2 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Gaia](https://open.spotify.com/track/4y7WDTY7z2GBAhSNkCbHH2) | [BØJEONG](https://open.spotify.com/artist/16kfFwTVflpU672fr6Z1cA) | [kin](https://open.spotify.com/album/6wFw220zFDwivl2i8sONE5) | 3:55 | 2024-11-06 | 2024-12-03 |
 | [GANGGANGSULLAE](https://open.spotify.com/track/3Vmlbu7l4vhZfpXZ8d10ad) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [GANGGANGSULLAE](https://open.spotify.com/album/0Kbpx8QDYQIEzzA05MlsCZ) | 3:26 | 2024-04-09 | 2024-05-10 |
 | [Gasoline](https://open.spotify.com/track/034saLwfjgOw6b1ZJoXcVF) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Gasoline](https://open.spotify.com/album/2dHJ1KKaHPxsn0N2snubdP) | 3:19 | 2024-06-28 | 2024-08-13 |
+| [Get da Faka](https://open.spotify.com/track/42XgPZgiamGgIw9P5pMx4F) | [MEMI](https://open.spotify.com/artist/2IJQZNh2eIR9a21uq494UA) | [Paranoia // Nostalgia](https://open.spotify.com/album/13MFBMKaP1OgkKYbLjcIsy) | 2:42 | 2025-06-11 |  |
 | [Ghost](https://open.spotify.com/track/4RKVOAMQBga2Ayh83Kz0C1) | [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [Ghost](https://open.spotify.com/album/7d3yY286DKbpEtlIKGfsKY) | 4:23 | 2024-07-30 | 2024-08-06 |
 | [Girls](https://open.spotify.com/track/0jRA23cPBShrFIXPGfegQC) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Seoul Check\-in OST Part 1](https://open.spotify.com/album/1lQLjWafvbyoQ9XUmAZI2L) | 4:36 | 2022-04-22 | 2022-07-09 |
 | [Glad you liked it](https://open.spotify.com/track/7ILyMlB2UVceqKAqfko1zo) | [Gila](https://open.spotify.com/artist/1DYmaars5bAW3OfddN9WjY) | [Glad you liked it](https://open.spotify.com/album/1VGfwHjQcjEozpi6o9hE2H) | 4:00 | 2024-05-17 | 2024-05-22 |
@@ -665,7 +666,7 @@
 | [ride](https://open.spotify.com/track/6k0YWt1KOckGRkFoKxElSN) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E) | 3:48 | 2023-04-05 | 2023-11-04 |
 | [Ride In](https://open.spotify.com/track/2UfV11bsS80uaESfesRWH4) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK) | [Ride In, 젊은 날의 꿈](https://open.spotify.com/album/3FbRUoycTSfRRu4V1USSeJ) | 2:41 | 2022-07-01 | 2022-07-06 |
 | [riders](https://open.spotify.com/track/6RZelm2ZVA6mPm4MfqRNea) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [Twenty Plenty](https://open.spotify.com/album/7pV5cvmIL7tGw06b2laSoH) | 4:23 | 2024-04-17 | 2024-05-10 |
-| [Right Through Me](https://open.spotify.com/track/2dVAFcKzQAXBbDPkjfNqRa) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ) | 3:37 | 2023-06-29 |  |
+| [Right Through Me](https://open.spotify.com/track/2dVAFcKzQAXBbDPkjfNqRa) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ) | 3:37 | 2023-06-29 | 2025-06-12 |
 | [Right Through Me](https://open.spotify.com/track/4cK8aSO2Ec4gmIjhtHfAKd) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/7HrZpKCxm1fqem02ALHn2D) | 3:37 | 2022-04-12 | 2023-06-07 |
 | [Ring on my Ears](https://open.spotify.com/track/7JvzA81nojfdhki4JFeerm) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2VTgzWVmPQRELLVPu4VLFK) | 3:45 | 2022-04-22 | 2022-07-18 |
 | [ROCK STAR](https://open.spotify.com/track/1NUT3jWF3J9rDfd7WHzOos) | [Kim Jae Joong](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [Beauty in Chaos](https://open.spotify.com/album/4LDlunHDfi9E2pIwMZmC1a) | 3:27 | 2025-05-20 | 2025-05-26 |
@@ -761,7 +762,7 @@
 | [STARLIGHT](https://open.spotify.com/track/5Sze0gwqDqO2BEEIQpxkDa) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [STARLIGHT](https://open.spotify.com/album/4N390LmaD2YwNebjT1Zmoa) | 3:24 | 2022-04-22 | 2022-07-27 |
 | [Starlight](https://open.spotify.com/track/24dSyqfPW6WNzdegehvuBw) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [Poong, the Joseon Psychiatrist OST Part.5](https://open.spotify.com/album/50DAxrpePNE16yJnYS7QT2) | 3:21 | 2022-09-05 | 2022-09-21 |
 | [Starry Night](https://open.spotify.com/track/4vSQmGcgOhsoK5lqmNOEz2) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 4:38 | 2022-04-12 | 2022-07-18 |
-| [STAY](https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ENTITY](https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E) | 2:53 | 2024-02-22 |  |
+| [STAY](https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ENTITY](https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E) | 2:53 | 2024-02-22 | 2025-06-12 |
 | [Still](https://open.spotify.com/track/2behhE9zykC6hWmBffdYP9) | [루아멜 \(LUAMEL\)](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [Still](https://open.spotify.com/album/38b0mzFmSaM5JozS7Lfte4) | 3:17 | 2022-06-20 | 2022-07-10 |
 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 | 2022-10-05 | 2022-11-13 |
 | [Still Life](https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Still Life](https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC) | 3:08 | 2022-04-12 |  |
@@ -781,6 +782,7 @@
 | [Sweet Serenade \(Feat\. Park Jiyoon\)](https://open.spotify.com/track/0tQy8qtHKnlCWcHHtGCkar) | [DEVSISTERS](https://open.spotify.com/artist/7cf0ByqyHXCghj6gC5axcX), [Park Ji Yoon](https://open.spotify.com/artist/1iF0bgDBIthP30VjBK3KUO) | [Cookie Run: Kingdom OST Summer Soda Rock Festa](https://open.spotify.com/album/5YDDSItmnh83Y7bTKHCOpG) | 4:02 | 2023-07-12 | 2023-07-29 |
 | [Swimming](https://open.spotify.com/track/7hRxZMsZhyz2Azs4A4t2sz) | [Dan](https://open.spotify.com/artist/4BMnAOwN9giwY67owHDYYB) | [Swimming](https://open.spotify.com/album/6MFF00PGZQTQq3Gq4xgHTt) | 4:38 | 2022-04-22 | 2022-05-08 |
 | [SWIMMING](https://open.spotify.com/track/6y8BCw8EyaGOcjGpgqOnMx) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [Piece of BTOB Vol.4](https://open.spotify.com/album/0maS5rDN2WBQElPQVR9GZW) | 4:20 | 2022-04-22 | 2022-05-01 |
+| [Syringe](https://open.spotify.com/track/1vZiEInBCBapB6wGhZX9YB) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Hospital](https://open.spotify.com/album/3Nj0yXmZnHRu4MMP31sUVK) | 4:23 | 2025-06-11 |  |
 | [System Error](https://open.spotify.com/track/3ugIDVprXVn0yoIeHjIgNm) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [System Error](https://open.spotify.com/album/1CszyO6eUiSOXJgQRwl8cf) | 3:22 | 2024-05-02 | 2024-05-10 |
 | [T.B.H](https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Mini Album 'MANITO'](https://open.spotify.com/album/58749dw7F011CU9lRmX0MO) | 2:55 | 2024-04-01 |  |
 | [Take me out, tonight \- 2022 Version](https://open.spotify.com/track/4G7gSxgKxFim71L7wlyHm0) | [The Vastards](https://open.spotify.com/artist/7lUtWxDBvmHPTBlcekHVjf) | [CARNIVAL](https://open.spotify.com/album/0bF5gUOVTNZZ4sHtrAPsB6) | 3:42 | 2022-06-18 | 2022-07-09 |

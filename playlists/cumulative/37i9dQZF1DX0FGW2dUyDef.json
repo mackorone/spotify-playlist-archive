@@ -393,7 +393,7 @@
       "artists": [
         {
           "name": "Motive",
-          "url": "https://open.spotify.com/artist/4p0KIMeZ6MnO367f3FWShf"
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
         }
       ],
       "date_added": "2025-05-26",
@@ -620,6 +620,24 @@
       "duration_ms": 143040,
       "name": "BRAPAP",
       "url": "https://open.spotify.com/track/7zTNMaXRLjiQwi8rRlvReb"
+    },
+    {
+      "album": {
+        "name": "Bu Yaz",
+        "url": "https://open.spotify.com/album/7fegHq2yToExda8Z6Ds37N"
+      },
+      "artists": [
+        {
+          "name": "Bahad\u0131r Tatl\u0131\u00f6z",
+          "url": "https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182253,
+      "name": "Bu Yaz",
+      "url": "https://open.spotify.com/track/5R4IMqppkpo0rBBHja7j7J"
     },
     {
       "album": {
@@ -2256,7 +2274,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 152967,
       "name": "RanDuman",
       "url": "https://open.spotify.com/track/49lLBkUqdjCFuLAlDIteRF"

@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 749878,
+  "num_followers": 749751,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
@@ -219,26 +219,6 @@
     {
       "added_at": "2025-05-28 09:00:00",
       "album": {
-        "name": "LET'S GO",
-        "url": "https://open.spotify.com/album/7sma9kYAXjPX6ABANXmCbe"
-      },
-      "artists": [
-        {
-          "name": "Jaden Bojsen",
-          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
-        },
-        {
-          "name": "Sami Brielle",
-          "url": "https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK"
-        }
-      ],
-      "duration_ms": 193091,
-      "name": "LET'S GO",
-      "url": "https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN"
-    },
-    {
-      "added_at": "2025-05-28 09:00:00",
-      "album": {
         "name": "10:35",
         "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
+    {
+      "added_at": "2025-05-28 09:00:00",
+      "album": {
+        "name": "LET'S GO",
+        "url": "https://open.spotify.com/album/7sma9kYAXjPX6ABANXmCbe"
+      },
+      "artists": [
+        {
+          "name": "Jaden Bojsen",
+          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
+        },
+        {
+          "name": "Sami Brielle",
+          "url": "https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK"
+        }
+      ],
+      "duration_ms": 193091,
+      "name": "LET'S GO",
+      "url": "https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN"
     },
     {
       "added_at": "2025-05-28 09:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-05-28 09:00:00",
       "album": {
+        "name": "REHAB",
+        "url": "https://open.spotify.com/album/7cWLfM1fEbvTA4x8FW4Eas"
+      },
+      "artists": [
+        {
+          "name": "Blair Muir",
+          "url": "https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT"
+        }
+      ],
+      "duration_ms": 195003,
+      "name": "REHAB",
+      "url": "https://open.spotify.com/track/5KWlttlxtvmcPigdrfpQnz"
+    },
+    {
+      "added_at": "2025-05-28 09:00:00",
+      "album": {
         "name": "Big City Life",
         "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 146711,
       "name": "Big City Life",
       "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
-    },
-    {
-      "added_at": "2025-05-28 09:00:00",
-      "album": {
-        "name": "REHAB",
-        "url": "https://open.spotify.com/album/7cWLfM1fEbvTA4x8FW4Eas"
-      },
-      "artists": [
-        {
-          "name": "Blair Muir",
-          "url": "https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT"
-        }
-      ],
-      "duration_ms": 195003,
-      "name": "REHAB",
-      "url": "https://open.spotify.com/track/5KWlttlxtvmcPigdrfpQnz"
     },
     {
       "added_at": "2025-05-28 09:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2025-05-28 09:00:00",
       "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 198805,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
+    },
+    {
+      "added_at": "2025-05-28 09:00:00",
+      "album": {
         "name": "Damager",
         "url": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 224591,
       "name": "Damager",
       "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
-    },
-    {
-      "added_at": "2025-05-28 09:00:00",
-      "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
     },
     {
       "added_at": "2025-05-28 09:00:00",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2025-05-28 09:00:00",
       "album": {
-        "name": "Fair",
-        "url": "https://open.spotify.com/album/0IbbybOy5vCGIbRHf8yHRO"
-      },
-      "artists": [
-        {
-          "name": "Billy Gillies",
-          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
-        },
-        {
-          "name": "Betsy",
-          "url": "https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp"
-        }
-      ],
-      "duration_ms": 208111,
-      "name": "Fair",
-      "url": "https://open.spotify.com/track/7f9fJAUu3EXbzzOmZA4QRC"
-    },
-    {
-      "added_at": "2025-05-28 09:00:00",
-      "album": {
         "name": "I See Colors",
         "url": "https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 192428,
       "name": "I See Colors",
       "url": "https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3"
+    },
+    {
+      "added_at": "2025-05-28 09:00:00",
+      "album": {
+        "name": "Fair",
+        "url": "https://open.spotify.com/album/0IbbybOy5vCGIbRHf8yHRO"
+      },
+      "artists": [
+        {
+          "name": "Billy Gillies",
+          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
+        },
+        {
+          "name": "Betsy",
+          "url": "https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp"
+        }
+      ],
+      "duration_ms": 208111,
+      "name": "Fair",
+      "url": "https://open.spotify.com/track/7f9fJAUu3EXbzzOmZA4QRC"
     },
     {
       "added_at": "2025-05-28 09:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Bald ist Sommer \u2600\ufe0f",
-  "num_followers": 1528403,
+  "num_followers": 1532705,
   "original_name": "Sommerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -207,26 +207,6 @@
     {
       "added_at": "2025-06-02 16:54:10",
       "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 169917,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
-    },
-    {
-      "added_at": "2025-06-02 16:54:10",
-      "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
+    },
+    {
+      "added_at": "2025-06-02 16:54:10",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
       "added_at": "2025-06-02 16:54:10",
@@ -887,46 +887,6 @@
     {
       "added_at": "2025-06-02 16:54:10",
       "album": {
-        "name": "Jiggy",
-        "url": "https://open.spotify.com/album/3z2D8SA7g9trHTh3pawZFl"
-      },
-      "artists": [
-        {
-          "name": "Filow",
-          "url": "https://open.spotify.com/artist/0BRUlYcw8Rr4MGHe8kRgTv"
-        },
-        {
-          "name": "Ikkimel",
-          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
-        },
-        {
-          "name": "Lucry & Suena",
-          "url": "https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY"
-        }
-      ],
-      "duration_ms": 131214,
-      "name": "Jiggy",
-      "url": "https://open.spotify.com/track/6xLoWndBgNvlylHAWxiqxw"
-    },
-    {
-      "added_at": "2025-06-02 16:54:10",
-      "album": {
-        "name": "Karibu",
-        "url": "https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj"
-      },
-      "artists": [
-        {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Karibu",
-      "url": "https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7"
-    },
-    {
-      "added_at": "2025-06-02 16:54:10",
-      "album": {
         "name": "Crazy For It",
         "url": "https://open.spotify.com/album/6M1Ll5Gwpeyvpc0xYmhTT1"
       },
@@ -959,6 +919,46 @@
       "duration_ms": 250578,
       "name": "Crazy For It",
       "url": "https://open.spotify.com/track/0nZUQdt97RJ429I0FuAO2r"
+    },
+    {
+      "added_at": "2025-06-02 16:54:10",
+      "album": {
+        "name": "Karibu",
+        "url": "https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Karibu",
+      "url": "https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7"
+    },
+    {
+      "added_at": "2025-06-02 16:54:10",
+      "album": {
+        "name": "Jiggy",
+        "url": "https://open.spotify.com/album/3z2D8SA7g9trHTh3pawZFl"
+      },
+      "artists": [
+        {
+          "name": "Filow",
+          "url": "https://open.spotify.com/artist/0BRUlYcw8Rr4MGHe8kRgTv"
+        },
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        },
+        {
+          "name": "Lucry & Suena",
+          "url": "https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY"
+        }
+      ],
+      "duration_ms": 131214,
+      "name": "Jiggy",
+      "url": "https://open.spotify.com/track/6xLoWndBgNvlylHAWxiqxw"
     },
     {
       "added_at": "2025-06-02 16:54:10",
@@ -1183,26 +1183,22 @@
     {
       "added_at": "2025-06-02 16:54:10",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/75Drjfbnb1hpElXpXy0MEZ"
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/0fhDL3ImX8l2gI0qpIG5Ql"
       },
       "artists": [
         {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
         },
         {
-          "name": "Graham Candy",
-          "url": "https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou"
-        },
-        {
-          "name": "Lahos",
-          "url": "https://open.spotify.com/artist/4Pamica4HJLZPQTKTCkG2w"
+          "name": "myne",
+          "url": "https://open.spotify.com/artist/34WPfL387QxZ5t8epiRnTL"
         }
       ],
-      "duration_ms": 153103,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/0UFJ0jzejbR2miKi7o7CQ2"
+      "duration_ms": 162521,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/03sfZuHY4SFlPaWoC5vLup"
     },
     {
       "added_at": "2025-06-02 16:54:10",
@@ -1223,22 +1219,26 @@
     {
       "added_at": "2025-06-02 16:54:10",
       "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/0fhDL3ImX8l2gI0qpIG5Ql"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/75Drjfbnb1hpElXpXy0MEZ"
       },
       "artists": [
         {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
         },
         {
-          "name": "myne",
-          "url": "https://open.spotify.com/artist/34WPfL387QxZ5t8epiRnTL"
+          "name": "Graham Candy",
+          "url": "https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou"
+        },
+        {
+          "name": "Lahos",
+          "url": "https://open.spotify.com/artist/4Pamica4HJLZPQTKTCkG2w"
         }
       ],
-      "duration_ms": 162521,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/03sfZuHY4SFlPaWoC5vLup"
+      "duration_ms": 153103,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/0UFJ0jzejbR2miKi7o7CQ2"
     },
     {
       "added_at": "2025-06-02 16:54:10",

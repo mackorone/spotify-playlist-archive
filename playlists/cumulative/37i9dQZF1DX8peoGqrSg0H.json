@@ -807,6 +807,24 @@
     },
     {
       "album": {
+        "name": "Colorcon Wink",
+        "url": "https://open.spotify.com/album/05tkWOkbo0Unm2veQiY7D6"
+      },
+      "artists": [
+        {
+          "name": "BNK48",
+          "url": "https://open.spotify.com/artist/0A7q0U0IEdNOHWnQpMRQdD"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299454,
+      "name": "Colorcon Wink",
+      "url": "https://open.spotify.com/track/3OU1ssBavzW8bUI7levAdI"
+    },
+    {
+      "album": {
         "name": "Complicated",
         "url": "https://open.spotify.com/album/1X4ePQhsh9fOOz3944bxuR"
       },
@@ -926,7 +944,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 272700,
       "name": "DAY ONE",
       "url": "https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC"

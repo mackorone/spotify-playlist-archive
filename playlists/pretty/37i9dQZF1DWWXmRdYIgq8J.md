@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,862 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,865 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 | 33 | [Naina Bandh](https://open.spotify.com/track/42oKkHNgUzqyTPR4yGwOrg) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [Sundar Popo Greatest Hits, Vol\. 2](https://open.spotify.com/album/4YnZLTUgthWyb5kxVHMNdH) | 5:23 |
 | 34 | [TOO MUCH PAIN](https://open.spotify.com/track/48Sk7Bq3mJwQvFCSZfi035) | [Kenneth Salick](https://open.spotify.com/artist/4LSkHL3aVB8OFKYbXOwi6r) | [TOO MUCH PAIN](https://open.spotify.com/album/0uyGcygVKupEkXxSniQ0fR) | 5:07 |
 | 35 | [Take Me Higher](https://open.spotify.com/track/5JGsCNlb8iYkbT7mowcbAe) | [Savita Singh](https://open.spotify.com/artist/41QsX79zGwzoMh8CnPG6Lp) | [Take Me Higher](https://open.spotify.com/album/3ii1WYdMsi8rgRAItvItAJ) | 3:05 |
-| 36 | [Pussur Pussur](https://open.spotify.com/track/4Z75gf4OJbcvIActA0F2vG) | [Anand Yankaran](https://open.spotify.com/artist/4gYBhFoqhQl4FJrfnNAFoy) | [Elements of Chutney](https://open.spotify.com/album/4AcRATTPdmUgLptdLfouO8) | 5:43 |
+| 36 | [I will never](https://open.spotify.com/track/1Z52ZHbHD6jFaDyMHdnXiH) | [Tony Cuttz](https://open.spotify.com/artist/1RKtqg73XAszkc4ueaWLKU) | [I will never](https://open.spotify.com/album/6D6iPF4XKRayqMGV4W5qrN) | 3:29 |
 | 37 | [This Gyal Claim](https://open.spotify.com/track/4tSEMmTIESmG5QmkvzIUlO) | [Shelly G](https://open.spotify.com/artist/64uXi7R2MSQU7FStLJ1VLq) | [Chutney](https://open.spotify.com/album/5uWew2QJ2sDJwssXruyPmS) | 3:31 |
 | 38 | [Chal Kechal](https://open.spotify.com/track/2vh3NvmYn1a6KSqpD05sLz) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [Sundar Popo Greatest Hits, Vol\. 2](https://open.spotify.com/album/4YnZLTUgthWyb5kxVHMNdH) | 3:56 |
-| 39 | [I will never](https://open.spotify.com/track/1Z52ZHbHD6jFaDyMHdnXiH) | [Tony Cuttz](https://open.spotify.com/artist/1RKtqg73XAszkc4ueaWLKU) | [I will never](https://open.spotify.com/album/6D6iPF4XKRayqMGV4W5qrN) | 3:29 |
+| 39 | [Pussur Pussur](https://open.spotify.com/track/4Z75gf4OJbcvIActA0F2vG) | [Anand Yankaran](https://open.spotify.com/artist/4gYBhFoqhQl4FJrfnNAFoy) | [Elements of Chutney](https://open.spotify.com/album/4AcRATTPdmUgLptdLfouO8) | 5:43 |
 | 40 | [Ghunghat Gira Ke](https://open.spotify.com/track/1rrMTRjIFM1WagI90xACXm) | [Kem Chanlall](https://open.spotify.com/artist/02DRaDXadgSH5g0Zq1ZuWy) | [Ghunghat Gira Ke](https://open.spotify.com/album/37w3vdaNrfevzGU2rDnh1f) | 5:54 |
 | 41 | [Loota La](https://open.spotify.com/track/1eVCGigGerjHtN7AWquWWV) | [Sonny Man](https://open.spotify.com/artist/2SbrAYu0L4qMgLntFj5oE6) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:02 |
 | 42 | [Balama](https://open.spotify.com/track/3Zw2VFaqvZAkn1uMKX9jKe) | [Drupatee](https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd) | [Dekho Lawa](https://open.spotify.com/album/0NhPsvgyL8J66KKggFU2KR) | 4:21 |

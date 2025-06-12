@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5eENjzQVV1Oe8jaF4lni0J">Evan Blair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-102 songs - 5 hr 17 min
+107 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Flyover State](https://open.spotify.com/track/2ZxUgGgTOUM1izQUSQ6Ui1) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Flyover State](https://open.spotify.com/album/03T3cRxwnKsDtOeHZ4K5EG) | 3:15 | 2025-03-07 |  |
 | [Follows You](https://open.spotify.com/track/5nStHzdHO2GQDRuscRxPJQ) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Follows You](https://open.spotify.com/album/2RSKFTL1S4XwxVxQP8eorN) | 3:26 | 2025-04-14 |  |
 | [forgive the world](https://open.spotify.com/track/7m059kV1WgO9czlih2hDrI) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:28 | 2024-09-17 |  |
+| [forgot to be my lover](https://open.spotify.com/track/3HMxNEaOXOjedAhKxYHZEy) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:13 | 2025-06-11 |  |
 | [gaslight](https://open.spotify.com/track/1w6EDue1Ze95AzYcjr8ED3) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 3:16 | 2024-09-17 |  |
 | [girl in new york](https://open.spotify.com/track/3eGIiMTMZduPDb4MN0NTqD) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [girl in new york](https://open.spotify.com/album/3nIb1RiW1bVXHPE1XthHcC) | 2:57 | 2024-09-17 |  |
 | [god's favorite](https://open.spotify.com/track/4jCdo6BWIpFBIo6nEOqljp) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever \(extended\)](https://open.spotify.com/album/7vXNMveRwef98O1M6I3Lrb) | 2:58 | 2024-09-17 |  |
@@ -51,6 +52,7 @@
 | [grave](https://open.spotify.com/track/7pjlSvtMtqybSo198LE0P6) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 2:27 | 2024-09-17 |  |
 | [GRUDGE](https://open.spotify.com/track/3F9lkDd91qdLnhkVtZxOGo) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 2:12 | 2024-09-17 |  |
 | [Happiest Girl](https://open.spotify.com/track/1MzUTezJeXRqFRWBpa3U9m) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [The Day We Met](https://open.spotify.com/album/7JHcvfslueH4YSOxIUTRDx) | 2:47 | 2024-09-17 |  |
+| [hot shit](https://open.spotify.com/track/0TCvlopfjeObjLxIsZ0Lvh) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:55 | 2025-06-11 |  |
 | [How You Love Me](https://open.spotify.com/track/0A1y3d5O3SDvXaQ8snkmOf) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [Bright Lights](https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou) | [How You Love Me](https://open.spotify.com/album/0aozeKEcFC8lP7KEuXUVho) | 3:30 | 2024-09-22 |  |
 | [How You Love Me](https://open.spotify.com/track/1nas007nDbzLwDGwvMdz79) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [Bright Lights](https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou) | [How You Love Me](https://open.spotify.com/album/0IsgaoqRfJAJ6wojxWDZ7C) | 3:30 | 2024-09-17 | 2024-09-23 |
 | [i hope i never fall in love](https://open.spotify.com/track/19v4Pp2J8bkpZYmVcFRvjA) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 3:36 | 2025-05-11 |  |
@@ -66,6 +68,7 @@
 | [Last Yr Rly Sucked](https://open.spotify.com/track/4jK6fPZa7ul8PSc0ekgsly) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83), [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [Last Yr Rly Sucked](https://open.spotify.com/album/3b5jgWe63pMvAM8CGQjsk1) | 2:47 | 2024-09-17 |  |
 | [lie](https://open.spotify.com/track/2GQqCyDCD0Z7BL2otJkFRh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [lie](https://open.spotify.com/album/6uy43Z8UWtPQS7tnddxU8G) | 3:34 | 2024-09-17 |  |
 | [Liquid Courage](https://open.spotify.com/track/0fuLYP5x6NvYjowORYssbs) | [Blair](https://open.spotify.com/artist/5dllmwFsq4JlN1YK0f41Sm) | [Liquid Courage](https://open.spotify.com/album/43vbxovedhrL0jriQY0tN7) | 3:25 | 2024-09-17 |  |
+| [loser](https://open.spotify.com/track/4k7tf8uhjXGJWxYAElWnRj) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [loser](https://open.spotify.com/album/2kDtsh8A4CTdgDOc35prCn) | 2:22 | 2025-06-11 |  |
 | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/album/04ePsbupvv5MPe8CamGhKZ) | 3:12 | 2025-02-02 | 2025-02-10 |
 | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/track/47uY2r2IzVg8moQyAwmm83) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE DELUXE](https://open.spotify.com/album/3r7rsxV6uS1OiOUirRwU53) | 3:12 | 2025-02-09 | 2025-04-12 |
 | [lovebomb](https://open.spotify.com/track/6g5ToBz8mGURaauPqfyYvU) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 3:09 | 2024-09-17 |  |
@@ -89,6 +92,7 @@
 | [Pretty Slowly](https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Pretty Slowly](https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX) | 4:21 | 2024-09-17 |  |
 | [pretty years](https://open.spotify.com/track/5TBkWxfdtylJzNmwXt9Gm9) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [pretty years](https://open.spotify.com/album/3Cc93a6n5rYgFDi7oTND03) | 2:59 | 2025-04-27 |  |
 | [Quiet](https://open.spotify.com/track/6aBdP1eyRPUM1HwM8Y1Adp) | [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Butterflies In My Head](https://open.spotify.com/album/1lO8SArbhIeGhr2MrnnLzy) | 3:02 | 2024-09-17 |  |
+| [rhythm of love](https://open.spotify.com/track/2Wbbwo15KF1eGPQKgCwDL6) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:58 | 2025-06-11 |  |
 | [SAD B!TCH](https://open.spotify.com/track/32HixkSfwNOCgSyDITowAw) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 2:12 | 2024-09-17 |  |
 | [scare myself](https://open.spotify.com/track/39gPWc1bp1eXuD1jHNKlmP) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 3:13 | 2024-09-17 |  |
 | [sincerely](https://open.spotify.com/track/00KfWWFFY3b6n9WU7a0nWy) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 1:08 | 2024-09-17 |  |
@@ -110,5 +114,6 @@
 | [Villain](https://open.spotify.com/track/6y0VIRo9CyIIHBdlPklTl0) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:25 | 2024-09-17 |  |
 | [Warp Speed Suzie](https://open.spotify.com/track/6uGTGFm1AchlydB9uW04P9) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Ultra Mango](https://open.spotify.com/album/0quCp4fi92StDM27DUSHS5) | 2:56 | 2024-09-17 |  |
 | [Woman Is King](https://open.spotify.com/track/1gxc1dIYLmSS2sxMm8BYNj) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Tell My Therapist I'm Fine \(Deluxe\)](https://open.spotify.com/album/6qPZrueXJiXtEe8qxGq49N) | 1:46 | 2025-03-09 |  |
+| [you're a liar \(you love me\)](https://open.spotify.com/track/1LI8rDhxrRe9iQLECjntwG) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [you're a liar \(you love me\)](https://open.spotify.com/album/3kpCZBJAjvZn4UihCRDdxi) | 2:54 | 2025-06-11 |  |
 
 \*This playlist was first scraped on 2024-09-18. Prior content cannot be recovered.

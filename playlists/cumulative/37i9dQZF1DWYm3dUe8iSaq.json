@@ -1299,6 +1299,24 @@
     },
     {
       "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/0w9WG8yegRQBXtG8y7gaun"
+      },
+      "artists": [
+        {
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193973,
+      "name": "Dolores",
+      "url": "https://open.spotify.com/track/4JeEx5S6eNMhGhmpSfbqkI"
+    },
+    {
+      "album": {
         "name": "Don't Cry, Put Your Head On My Shoulder",
         "url": "https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb"
       },
@@ -6214,7 +6232,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-12",
       "duration_ms": 188400,
       "name": "We Will Run",
       "url": "https://open.spotify.com/track/3FdL3BjbehixMentJ8L63u"

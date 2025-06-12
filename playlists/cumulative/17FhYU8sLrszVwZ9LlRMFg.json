@@ -439,6 +439,32 @@
     },
     {
       "album": {
+        "name": "SARAVIA FUNK",
+        "url": "https://open.spotify.com/album/276gm48gL8sSKBQGOo3pK4"
+      },
+      "artists": [
+        {
+          "name": "RD12",
+          "url": "https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q"
+        },
+        {
+          "name": "Dj Funks",
+          "url": "https://open.spotify.com/artist/4v2ai25nhHzTue4JhbCMCn"
+        },
+        {
+          "name": "DJ DYLANFK",
+          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144839,
+      "name": "SARAVIA FUNK - Ultra Slowed",
+      "url": "https://open.spotify.com/track/1XzGRimMhfS0mNppq862w9"
+    },
+    {
+      "album": {
         "name": "Shootout (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/6yRgFDV8SK8RfzAIwRcTPG"
       },

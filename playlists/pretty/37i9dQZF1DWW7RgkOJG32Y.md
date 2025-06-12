@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Top trending country tracks from the last few months\. Cover: Tucker Wetmore and Thomas Rhett
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,790 likes - 59 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,950 likes - 59 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 58 | [The Right One](https://open.spotify.com/track/4DZU897k6LLzfg1JOEjKjK) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Full Moon](https://open.spotify.com/album/3NccNTsZeAlGl7MFCJkHNt) | 3:01 |
 | 59 | [LOW ROAD \(feat\. Avery Anna\)](https://open.spotify.com/track/1pbWkKLJUUFyEBJ82Ha26S) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [LOW ROAD \(feat\. Avery Anna\)](https://open.spotify.com/album/6IGH3D37Bkrko7WBfW9VEY) | 2:57 |
 
-Snapshot ID: `AAAAACSWl8GhWuEYj8JEzPPlyQlf4HUi`
+Snapshot ID: `aEJn2wAAAABO6z9l+GKrlCBGxPAA7mpV`

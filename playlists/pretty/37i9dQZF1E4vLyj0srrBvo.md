@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 > With Pastel Ghost, Sky Ferreira, Mareux and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,417 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,444 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [Sims 2](https://open.spotify.com/track/6tmDStLldmvokhIyjdj7LI) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Graham](https://open.spotify.com/artist/2zobEO3AxWFrLey7NoPJET) | [Posh](https://open.spotify.com/album/4SuevIKss49yjYyhMAkeOb) | 3:14 |
 | 50 | [Bad Things](https://open.spotify.com/track/1caFMoQlQyF5JHvfPNe49E) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 3:38 |
 
-Snapshot ID: `aEjYNAAAAADjQU5uJErQWTF8uK8IA1NB`
+Snapshot ID: `aEo7BgAAAACrY9RskNo3Egx21UltJqV/`

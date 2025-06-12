@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-355 songs - 20 hr 44 min
+356 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-02-09 | 2024-04-19 |
 | [Derby's Dose](https://open.spotify.com/track/3XWtrpRAyfF6ZoHAsdlao1) | [Daudi Matsiko](https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL) | [Derby's Dose](https://open.spotify.com/album/62s4yMS26LGe6DFcWyWAdW) | 3:06 | 2024-01-19 | 2024-05-05 |
 | [Diamonds & Roses](https://open.spotify.com/track/5dQ1oSOiGzfPPbPpzWTT7Y) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Diamonds & Roses](https://open.spotify.com/album/6zWSQlnZvg7Tr8Koz3BMI6) | 2:45 | 2025-06-06 |  |
+| [Dolores](https://open.spotify.com/track/4JeEx5S6eNMhGhmpSfbqkI) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Dolores](https://open.spotify.com/album/0w9WG8yegRQBXtG8y7gaun) | 3:13 | 2025-06-06 |  |
 | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb) | 3:51 | 2025-06-06 |  |
 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 | 2024-02-09 |  |
 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 | 2022-04-08 | 2023-07-01 |
@@ -347,7 +348,7 @@
 | [Venus](https://open.spotify.com/track/4eXqmQuV9KVmTWIgSODV4R) | [Bekah Bossard](https://open.spotify.com/artist/76Xmq6oQ26hyBCPsZ6kNg4) | [Venus](https://open.spotify.com/album/3B9v1QLSiQIDxV9vcb7L1R) | 3:39 | 2023-06-30 | 2023-11-17 |
 | [Wandering Souls](https://open.spotify.com/track/2V3Ru7gXqHTskwvV281kzy) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [Wandering Souls](https://open.spotify.com/album/3ypI1dsbQu9TLlTaJHGYZ2) | 3:35 | 2024-02-06 | 2024-04-30 |
 | [Way Again](https://open.spotify.com/track/2bXHgXfMFF67xirAn2dsLA) | [Eloise Kate](https://open.spotify.com/artist/5o8uKmI1GJP1DVCnt73oKE) | [Each Memory and Every Fall](https://open.spotify.com/album/2YOx7Bj4WBtWPMw8JwGm4s) | 4:48 | 2022-04-08 | 2023-10-07 |
-| [We Will Run](https://open.spotify.com/track/3FdL3BjbehixMentJ8L63u) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [We Will Run](https://open.spotify.com/album/0aJGfIl4Patoo1cOn00Mwz) | 3:08 | 2025-06-06 |  |
+| [We Will Run](https://open.spotify.com/track/3FdL3BjbehixMentJ8L63u) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [We Will Run](https://open.spotify.com/album/0aJGfIl4Patoo1cOn00Mwz) | 3:08 | 2025-06-06 | 2025-06-12 |
 | [What Is Loving Anymore](https://open.spotify.com/track/7EDn43QGnpy5wTMeHUWnRu) | [Fiona Harte](https://open.spotify.com/artist/5MhqWAoMsPoYzCaFEf6mYs) | [What Is Loving Anymore](https://open.spotify.com/album/1Kgwc9tNKoFL8UkXE2ZEKV) | 2:59 | 2022-04-08 | 2022-07-02 |
 | [Whole Heart](https://open.spotify.com/track/0Vdkp4wpZjRGRrRXFdv50x) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Whole Heart](https://open.spotify.com/album/6DAN3bsYPQ18kT30KozGlJ) | 3:19 | 2022-04-08 | 2022-07-29 |
 | [Whole Heart](https://open.spotify.com/track/2sf9ZR3NgbcMG7izW5db8p) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Whole Heart](https://open.spotify.com/album/3BrID6twdD05At80AAVwYc) | 3:19 | 2022-07-01 | 2023-01-14 |

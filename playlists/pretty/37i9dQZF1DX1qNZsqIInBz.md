@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 
 > smooth drifting only
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,967 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,294 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [AURA](https://open.spotify.com/track/2TNv2GxMpIO8AyPiD7TLxj) | [Ogryzek](https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm) | [AURA](https://open.spotify.com/album/06a7H7nusNMvM7yL8m3fy1) | 1:55 |
 | 2 | [Montagem Lunar Diamante \- Slowed](https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr) | [DJ DYLANFK](https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee), [WXCHSXN](https://open.spotify.com/artist/3V9pMeaokZlFw0a80Cff3O), [MC SILLVEER](https://open.spotify.com/artist/6wAILWxcHaJocdPbGLPW3o) | [Montagem Lunar Diamante](https://open.spotify.com/album/0JYZjOll98BB5vPgl2xOLN) | 3:05 |
 | 3 | [Funk Da Montanha \- Super Slowed](https://open.spotify.com/track/4gjg9hB5q4xWjJ9EelppL2) | [chipbagov](https://open.spotify.com/artist/0sd6x399jllqi3BqxgBvlw), [SCARIONIX](https://open.spotify.com/artist/19lQadj43jplt3tzz36jLb), [IMMORTAL PLAYA](https://open.spotify.com/artist/0zVxxogKTboGS2y5aQ8EvU) | [Funk Da Montanha](https://open.spotify.com/album/1lIRnJM73zVgEWVE8oCxnb) | 1:47 |
-| 4 | [VISION](https://open.spotify.com/track/4gkFITdBI8imDCSrukDT6p) | [UdieNnx](https://open.spotify.com/artist/6ESoeEazu57neU7UM6KRuC), [HXVSAGE](https://open.spotify.com/artist/6iokCqd4ghi6IqTEJKT12q) | [UDISTRUCT](https://open.spotify.com/album/50i96D7O8CCFwS0VAiuC5o) | 1:49 |
+| 4 | [VISION](https://open.spotify.com/track/4gkFITdBI8imDCSrukDT6p) | [UdieNnx](https://open.spotify.com/artist/6ESoeEazu57neU7UM6KRuC), [HXVSAGE](https://open.spotify.com/artist/6iokCqd4ghi6IqTEJKT12q), [Duduzinho](https://open.spotify.com/artist/5lneW4gwuALhTWZSDdz1rY) | [UDISTRUCT](https://open.spotify.com/album/50i96D7O8CCFwS0VAiuC5o) | 1:49 |
 | 5 | [archangel \- Slowed](https://open.spotify.com/track/0ZYOD9MHcg51Z0ZJ4axhb5) | [DJ Anemia](https://open.spotify.com/artist/6vvNcm1On2wFwZNXB63a7B), [crier](https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl), [sixnite](https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk) | [archangel \(Slowed\)](https://open.spotify.com/album/5iARmzSSFYnDi5tnu5TCCN) | 3:06 |
 | 6 | [Fluxxwave](https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Fluxxwave](https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV) | 2:30 |
 | 7 | [Mortals Funk Remix](https://open.spotify.com/track/13vMIbppyQ6TKHeXQr9IVG) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr) | [Mortals Funk Remix](https://open.spotify.com/album/6Z5Wly0XcK7vMicO2QwsS6) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 99 | [South](https://open.spotify.com/track/4CtO2AMo76k5yAeD44EUPY) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [Eclipse](https://open.spotify.com/album/2oMbcfB4qteV4Wbu7sNVAM) | 3:12 |
 | 100 | [Chill Phonk](https://open.spotify.com/track/5E69AASuENCXbP1PHO74F5) | [Falxce](https://open.spotify.com/artist/61CMteqexg0qjBy8nhMtHk) | [Chill Phonk](https://open.spotify.com/album/4XIUu4JcbGI0z9BKSqYXxL) | 1:25 |
 
-Snapshot ID: `aAuWgQAAAABV9ME+UfHbB042sc0nlIKU`
+Snapshot ID: `AAAAAHp6U2lBo9w3mtK+NLZ23S86KKXc`

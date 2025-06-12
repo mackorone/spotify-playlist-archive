@@ -1,6 +1,6 @@
 {
   "description": "Para subir la temperatura. Foto: Lebr\u00f3n Brothers",
-  "num_followers": 104019,
+  "num_followers": 104054,
   "original_name": "Salsa Brava",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
+        "name": "Ernie's Conspiracy",
+        "url": "https://open.spotify.com/album/4ct08H1cKeyDlskmRyTHwi"
+      },
+      "artists": [
+        {
+          "name": "Orquesta La Conspiraci\u00f3n",
+          "url": "https://open.spotify.com/artist/7hsBFT561tLiwvZrylykQG"
+        }
+      ],
+      "duration_ms": 347066,
+      "name": "Magdalena",
+      "url": "https://open.spotify.com/track/6Sh5qYcUgtlj2OJ6UU8Au9"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
         "name": "Canciones Del Solar De Los Aburridos",
         "url": "https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 364160,
       "name": "Ligia Elena",
       "url": "https://open.spotify.com/track/38UKG3bIB4gT3EzQqE3eEm"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "Ernie's Conspiracy",
-        "url": "https://open.spotify.com/album/4ct08H1cKeyDlskmRyTHwi"
-      },
-      "artists": [
-        {
-          "name": "Orquesta La Conspiraci\u00f3n",
-          "url": "https://open.spotify.com/artist/7hsBFT561tLiwvZrylykQG"
-        }
-      ],
-      "duration_ms": 347066,
-      "name": "Magdalena",
-      "url": "https://open.spotify.com/track/6Sh5qYcUgtlj2OJ6UU8Au9"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
+        "name": "Soy Feliz",
+        "url": "https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 192240,
+      "name": "Soy Feliz",
+      "url": "https://open.spotify.com/track/5x0psqrizkI9QJzKTcrlJs"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
         "name": "The Last Fight",
         "url": "https://open.spotify.com/album/20JGWasfJLuT85SK6vNjzR"
       },
@@ -783,6 +799,22 @@
       "duration_ms": 513320,
       "name": "Yo Puedo Vivir Del Amor",
       "url": "https://open.spotify.com/track/0eAYoOWUKQXvuqhD8Ez7hF"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
+        "name": "Salsa",
+        "url": "https://open.spotify.com/album/5Q5kjxNsrkZ2ImkRUi7w3c"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Harlow",
+          "url": "https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W"
+        }
+      ],
+      "duration_ms": 314960,
+      "name": "El Paso De Encarnaci\u00f3n",
+      "url": "https://open.spotify.com/track/0BGDijO05WJ1kpqVLwUU5d"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -807,38 +839,6 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
-        "name": "Soy Feliz",
-        "url": "https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi"
-      },
-      "artists": [
-        {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
-        }
-      ],
-      "duration_ms": 192240,
-      "name": "Soy Feliz",
-      "url": "https://open.spotify.com/track/5x0psqrizkI9QJzKTcrlJs"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "Salsa",
-        "url": "https://open.spotify.com/album/5Q5kjxNsrkZ2ImkRUi7w3c"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Harlow",
-          "url": "https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W"
-        }
-      ],
-      "duration_ms": 314960,
-      "name": "El Paso De Encarnaci\u00f3n",
-      "url": "https://open.spotify.com/track/0BGDijO05WJ1kpqVLwUU5d"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
         "name": "Rey del Bajo",
         "url": "https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 346306,
       "name": "Mi Ritmo Es Bueno",
       "url": "https://open.spotify.com/track/5hSGXZRFbpKLbxyBXRKoye"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
+        "name": "Hot! Hot! Hot! Caliente De Vicio",
+        "url": "https://open.spotify.com/album/0gNgzhxvQzJAn4mKgr8kph"
+      },
+      "artists": [
+        {
+          "name": "Johnny Colon",
+          "url": "https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm"
+        }
+      ],
+      "duration_ms": 381172,
+      "name": "Merecumbe",
+      "url": "https://open.spotify.com/track/23MB2MkXV9IFn4S2rJPDWw"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -871,22 +887,6 @@
       "duration_ms": 382360,
       "name": "Agua De Clavelito",
       "url": "https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "Hot! Hot! Hot! Caliente De Vicio",
-        "url": "https://open.spotify.com/album/0gNgzhxvQzJAn4mKgr8kph"
-      },
-      "artists": [
-        {
-          "name": "Johnny Colon",
-          "url": "https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm"
-        }
-      ],
-      "duration_ms": 381172,
-      "name": "Merecumbe",
-      "url": "https://open.spotify.com/track/23MB2MkXV9IFn4S2rJPDWw"
     },
     {
       "added_at": "2024-06-24 22:23:31",

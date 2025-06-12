@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: PERSES
 
-705 songs - 1 day 17 hr 38 min
+706 songs - 1 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,13 +51,14 @@
 | [CHOP CHOP](https://open.spotify.com/track/6MddYU6NXdECFYsShs6q5L) | [VIIS \(วิส\)](https://open.spotify.com/artist/0PDZDpg6VsAznmLDVxP2au) | [CHOP CHOP \- Single](https://open.spotify.com/album/1Kfkj5kbTspOsC7iaBAK3o) | 3:18 | 2024-10-31 | 2024-11-08 |
 | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/track/6M8nx5vDof89UySjbL8KPM) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/album/5cG51iqdsWcuZ5BGmEumN5) | 2:58 | 2022-09-02 | 2022-09-16 |
 | [Closer \(Clothes Off\)](https://open.spotify.com/track/23siAc5fhlQ0CnWeXDTdI2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Closer \(Clothes Off\)](https://open.spotify.com/album/6GBRwdee7lE4S0OLAwary7) | 3:15 | 2023-05-02 | 2023-05-11 |
+| [Colorcon Wink](https://open.spotify.com/track/3OU1ssBavzW8bUI7levAdI) | [BNK48](https://open.spotify.com/artist/0A7q0U0IEdNOHWnQpMRQdD) | [Colorcon Wink](https://open.spotify.com/album/05tkWOkbo0Unm2veQiY7D6) | 4:59 | 2025-06-11 |  |
 | [Complicated](https://open.spotify.com/track/127yslRWWqtCGIYlkb9es2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Complicated](https://open.spotify.com/album/1X4ePQhsh9fOOz3944bxuR) | 3:01 | 2022-09-08 | 2022-09-16 |
 | [Congratulations \(ยินดีกับเธอ\)](https://open.spotify.com/track/5aMsKFD43XuYWH6rpzXV4C) | [GULFKANAWUT](https://open.spotify.com/artist/18rLnzDRgijQDrHurajXAS) | [Congratulations \(ยินดีกับเธอ\)](https://open.spotify.com/album/0iGonUyEYw1iEEvwsjAKeO) | 3:09 | 2024-02-15 | 2024-02-22 |
 | [Crush on Me!](https://open.spotify.com/track/67asd8I07UeZyeCpnfagFe) | [Wizzle](https://open.spotify.com/artist/2rHK5FSYTL0mwcSrh6NXBy) | [Crush on Me!](https://open.spotify.com/album/4wOHpwZntpunD9XKya6l6K) | 3:12 | 2024-05-10 | 2024-05-17 |
 | [Cry More Baby \(เสียใจกี่โมง\)](https://open.spotify.com/track/01apNRtuV8ZpTXRAUUZ43A) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Cry More Baby \(เสียใจกี่โมง\)](https://open.spotify.com/album/2zWNWxb534oSxvsfWA5LZB) | 2:50 | 2024-06-13 | 2024-06-28 |
 | [Daily Magic](https://open.spotify.com/track/21gpUjOF7vYrqMMjQgMI3g) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Daily Magic](https://open.spotify.com/album/5Rgqtmbcjo7yoK7a0s7TpR) | 4:12 | 2023-10-26 | 2023-12-08 |
 | [Dancing Queen](https://open.spotify.com/track/0kO4mdnP7JOXSmgjrZafac) | [Jackie Jackrin](https://open.spotify.com/artist/61wBtGF8ryUlEeb5lq4cnX) | [Dancing Queen](https://open.spotify.com/album/64lqUumFXW0jNntoXqqWQA) | 3:15 | 2024-11-14 | 2024-11-22 |
-| [DAY ONE](https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DAY ONE](https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi) | 4:32 | 2024-06-06 |  |
+| [DAY ONE](https://open.spotify.com/track/7syPkLWA4AjH2jto6FDjEC) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DAY ONE](https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi) | 4:32 | 2024-06-06 | 2025-06-12 |
 | [DEJAYOU](https://open.spotify.com/track/1bgLH9NEAFkwnMwDmD8ScN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DEJAYOU](https://open.spotify.com/album/6DYhEl80WKxsFyl9sTQMzi) | 3:27 | 2023-07-16 | 2024-09-13 |
 | [DON'T FALL IN LOVE \(feat\. PUN\)](https://open.spotify.com/track/7JrgdbofUWR1UBHHC5n6u0) | [AR3NA](https://open.spotify.com/artist/3Z1xhsM4bQE28mcnQhiOJA), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [DON'T FALL IN LOVE \(feat\. PUN\)](https://open.spotify.com/album/7qgt1dObqd1naGdDGX7sKH) | 2:37 | 2024-03-14 | 2024-03-29 |
 | [don't wanna miss you](https://open.spotify.com/track/4RfKwkEosc5ObAzKRMyU5b) | [bXd](https://open.spotify.com/artist/11R7WnedRjQv6G7ZGodm7Q) | [don't wanna miss you](https://open.spotify.com/album/48hRUZvo0w1yOgBZOAUEyf) | 4:17 | 2023-09-15 | 2023-09-26 |

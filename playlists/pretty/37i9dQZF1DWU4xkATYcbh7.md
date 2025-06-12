@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4xkATYcbh7.md) - [plain]
 
 > Get amped!  Listen to the official soundtrack for Tony Hawk’s Pro Skater 3+4.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,893 likes - 59 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,087 likes - 59 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4xkATYcbh7.md) - [plain]
 | 58 | [Roller](https://open.spotify.com/track/7bxXappWyav3ZDuSJ7Z1F7) | [The Saint Cecilia](https://open.spotify.com/artist/2e8gf6BOQ9GOm7nqsLoi3n) | [Roller](https://open.spotify.com/album/2UYpYOyTqFHDH38B9ZL6rb) | 3:35 |
 | 59 | [Kick, Push](https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:14 |
 
-Snapshot ID: `aEH7fgAAAADElMtvYpihn8AOe5pNTNo5`
+Snapshot ID: `aEH7fgAAAABBN6y8+E/iQQWAYrFsYf5i`

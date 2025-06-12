@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con NXNNI en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,708 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,712 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 49 | [SAMPLE](https://open.spotify.com/track/7BJnKDg5L76sozy9KPzJXN) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [SAMPLE](https://open.spotify.com/album/3O8Ne1bfLwW9ddFvltybCh) | 2:39 |
 | 50 | [me va a costar](https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [me va a costar](https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9) | 3:48 |
 
-Snapshot ID: `aEKD6QAAAACqKN43o8xkr8ICkQPpDurL`
+Snapshot ID: `AAAAAHPLPnkM1YNKoZiAmgFH3oGQIqfc`

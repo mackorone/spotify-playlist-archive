@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-93 songs - 4 hr 59 min
+96 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Honbob Song](https://open.spotify.com/track/7cgrqYqcpuVvkRUxoj1Dgw) | [JeongEun Seo](https://open.spotify.com/artist/5J8WUPow9twuYcVjpTCyPW) | [Honbob Song](https://open.spotify.com/album/5iszn5kAurpExmM5Ar8IgQ) | 2:50 | 2023-11-09 |  |
 | [Humdrum](https://open.spotify.com/track/6lm3YcWi2ELilyurp2cVie) | [Mustang Sally](https://open.spotify.com/artist/2I1EYHv6x6U7cjlqJ5QTC2) | [Sally’s Restaurant](https://open.spotify.com/album/3hcYWlow1oVOZNkl1TCVI8) | 4:32 | 2025-05-28 |  |
 | [I LUV IT](https://open.spotify.com/track/0sEWGO1ajAmgln6B4lkuKb) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY 8th 4X2=8](https://open.spotify.com/album/5AtBwO35tOSWvxS4nFWHAi) | 3:08 | 2023-11-09 | 2025-04-09 |
+| [I want to get off work as soon as I get to work](https://open.spotify.com/track/3cbqxbjlqh3o4yzXbKK0Tw) | [김재의](https://open.spotify.com/artist/4YNVJwy4cKtdbWsCsNPVsA) | [KIMJAE2](https://open.spotify.com/album/3ohElujOI9emKE8mSIMI03) | 2:39 | 2025-06-11 |  |
 | [i'm a machine](https://open.spotify.com/track/2aK5mnbEy79vILutso18YA) | [Deng.E](https://open.spotify.com/artist/4ockKZwqrNI9wO6LWtulK3) | [life like a machine, day like a shrimp, and daily life like a bus.](https://open.spotify.com/album/0BgdfoBbiczsx6hZf50sZ5) | 4:20 | 2023-11-09 |  |
 | [I'm not a hero](https://open.spotify.com/track/6obtEFIrdBl7W2keVl6oXv) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM) | 2:58 | 2023-11-09 | 2024-04-19 |
 | [I'm not a hero](https://open.spotify.com/track/6SI9wSxkc9mBoTUWileqsq) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 2:58 | 2024-04-17 |  |
@@ -71,11 +72,13 @@
 | [Ordinary Loneliness](https://open.spotify.com/track/5O4VdhbB1PY0P0t9VyB98G) | [MOVNING](https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn) | [Ordinary Loneliness](https://open.spotify.com/album/5b2HkRfL1LVo0ygJRg9XaN) | 3:04 | 2024-01-08 |  |
 | [People](https://open.spotify.com/track/0onFXxwLDxFtnnLRI5T1xc) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Hi, I am Deulre Jang](https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9) | 3:25 | 2023-11-09 |  |
 | [Plankton](https://open.spotify.com/track/6yYUxPzylZXum7WObTdwTr) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Plankton](https://open.spotify.com/album/7zaDEhd4utpgHZpLYzUPiK) | 2:59 | 2025-05-14 |  |
+| [Plz don't](https://open.spotify.com/track/1MCeesuJ9vvknVBxZXTLXu) | [HASOM](https://open.spotify.com/artist/7CJwkFWsM1aPOoEKRgeYMY) | [Plz don't](https://open.spotify.com/album/4f90vnu26mplyELCQdqOXE) | 3:06 | 2025-06-11 |  |
 | [Problems](https://open.spotify.com/track/66x69sbYKTKrQG5rVnbepA) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Show Me the Money 8 Episode 4](https://open.spotify.com/album/4NP4DI5Afz9qz1NyMnxHUp) | 3:48 | 2023-11-09 |  |
 | [Rainy n Bed](https://open.spotify.com/track/7dkkW6rmoC4IAtVDpaZNX1) | [sumgoyange](https://open.spotify.com/artist/7kUElOJQ6VHTmIGp57pAff) | [Rainy n Bed](https://open.spotify.com/album/50lNXjV17xNe38bsHJ3Jvr) | 2:36 | 2023-11-09 |  |
 | [Refresh](https://open.spotify.com/track/4z1XBGODhvrP73681Cmluj) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Refresh](https://open.spotify.com/album/4TWFoQslU8MtoWZWB9VlJk) | 3:36 | 2023-11-09 | 2025-05-08 |
 | [Shrimp with Mental Illness](https://open.spotify.com/track/6f9EvnVk5tMRCZUbttLxYo) | [Deng.E](https://open.spotify.com/artist/4ockKZwqrNI9wO6LWtulK3) | [life like a machine, day like a shrimp, and daily life like a bus.](https://open.spotify.com/album/0BgdfoBbiczsx6hZf50sZ5) | 3:10 | 2023-11-09 |  |
 | [SK8 KID \(feat\. JJANGYOU\)](https://open.spotify.com/track/7vaRmtGZHHRajza4oI5XxX) | [404](https://open.spotify.com/artist/6hJaJkkFyYCBaYr2THZvvH), [JJANGYOU](https://open.spotify.com/artist/3ViJGHHVOYothA6WMi2rYR) | [SK8 KID \(feat\. JJANGYOU\)](https://open.spotify.com/album/5HOSQMPqzkbtyLydTkGzxf) | 2:09 | 2023-11-09 |  |
+| [Soggy soggy \(feat\. JEONAIN\)](https://open.spotify.com/track/38t9a8VqpAJECDZxmw7811) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi), [JEONAIN](https://open.spotify.com/artist/1dvhwpnbP8XvRpgu9amuNm) | [Soggy soggy \(feat\. JEONAIN\)](https://open.spotify.com/album/37zHF0IjiuHCBZcwY8KSHj) | 2:50 | 2025-06-11 |  |
 | [Something Casual](https://open.spotify.com/track/1eqzWjF4C3upoquBmoLnwh) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Something Casual](https://open.spotify.com/album/28TW1djKaHKzXtrGeu4etl) | 3:20 | 2023-11-09 |  |
 | [Starfish on your head](https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 3:12 | 2024-07-02 |  |
 | [T T \(Feat\. Quokka of DNEIRF\)](https://open.spotify.com/track/49lrMwawOXBBi2zQGrPTlK) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [쿼카](https://open.spotify.com/artist/4n67uXDzfLiGEeaX0NAnJX) | [T T \(Feat\. Quokka of DNEIRF\)](https://open.spotify.com/album/6LXCbFfy30ywcpWyqwHzoB) | 3:25 | 2023-11-09 | 2025-05-08 |

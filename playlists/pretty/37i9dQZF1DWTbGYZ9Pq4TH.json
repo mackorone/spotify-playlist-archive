@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 181658,
+  "num_followers": 181680,
   "original_name": "Canzoni d'amore italiane",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,22 @@
     {
       "added_at": "2025-05-28 13:32:37",
       "album": {
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
+      },
+      "artists": [
+        {
+          "name": "Benji & Fede",
+          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
+        }
+      ],
+      "duration_ms": 190409,
+      "name": "Dove e quando",
+      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
+    },
+    {
+      "added_at": "2025-05-28 13:32:37",
+      "album": {
         "name": "Colpa Delle Favole",
         "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
       },
@@ -167,18 +183,22 @@
     {
       "added_at": "2025-05-28 13:32:37",
       "album": {
-        "name": "Good Vibes",
-        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
+        "name": "This Is Elodie",
+        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
       },
       "artists": [
         {
-          "name": "Benji & Fede",
-          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 190409,
-      "name": "Dove e quando",
-      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
+      "duration_ms": 177213,
+      "name": "Margarita (con Marracash)",
+      "url": "https://open.spotify.com/track/6KfwIpX0Xo0lelmuUOnyZV"
     },
     {
       "added_at": "2025-05-28 13:32:37",
@@ -215,26 +235,6 @@
       "duration_ms": 186213,
       "name": "IL CIELO NELLA STANZA (feat. NSTASIA)",
       "url": "https://open.spotify.com/track/2fkVZYFv9hOejIsLzZy8ad"
-    },
-    {
-      "added_at": "2025-05-28 13:32:37",
-      "album": {
-        "name": "This Is Elodie",
-        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
-      },
-      "artists": [
-        {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "Margarita (con Marracash)",
-      "url": "https://open.spotify.com/track/6KfwIpX0Xo0lelmuUOnyZV"
     },
     {
       "added_at": "2025-05-28 13:32:37",
@@ -323,18 +323,18 @@
     {
       "added_at": "2025-05-28 13:32:37",
       "album": {
-        "name": "Mainstream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
+        "name": "AHIA!",
+        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
       },
       "artists": [
         {
-          "name": "Calcutta ",
-          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
         }
       ],
-      "duration_ms": 169306,
-      "name": "Cosa mi manchi a fare",
-      "url": "https://open.spotify.com/track/7L8cIUKXToCr6PV9hFoX3Q"
+      "duration_ms": 214926,
+      "name": "Scrivile Scemo",
+      "url": "https://open.spotify.com/track/71r3UlkV7sWvUYjas5paqi"
     },
     {
       "added_at": "2025-05-28 13:32:37",
@@ -355,18 +355,18 @@
     {
       "added_at": "2025-05-28 13:32:37",
       "album": {
-        "name": "AHIA!",
-        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
+        "name": "Mainstream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
       },
       "artists": [
         {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+          "name": "Calcutta ",
+          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
         }
       ],
-      "duration_ms": 214926,
-      "name": "Scrivile Scemo",
-      "url": "https://open.spotify.com/track/71r3UlkV7sWvUYjas5paqi"
+      "duration_ms": 169306,
+      "name": "Cosa mi manchi a fare",
+      "url": "https://open.spotify.com/track/7L8cIUKXToCr6PV9hFoX3Q"
     },
     {
       "added_at": "2025-05-28 13:32:37",
@@ -403,6 +403,26 @@
     {
       "added_at": "2025-05-28 13:32:37",
       "album": {
+        "name": "Brividi",
+        "url": "https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7"
+      },
+      "artists": [
+        {
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+        },
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "duration_ms": 199146,
+      "name": "Brividi",
+      "url": "https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS"
+    },
+    {
+      "added_at": "2025-05-28 13:32:37",
+      "album": {
         "name": "OBE",
         "url": "https://open.spotify.com/album/64ZUYtdEVuy4OXk63R579s"
       },
@@ -427,26 +447,6 @@
     {
       "added_at": "2025-05-28 13:32:37",
       "album": {
-        "name": "Brividi",
-        "url": "https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7"
-      },
-      "artists": [
-        {
-          "name": "Mahmood",
-          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
-        },
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        }
-      ],
-      "duration_ms": 199146,
-      "name": "Brividi",
-      "url": "https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS"
-    },
-    {
-      "added_at": "2025-05-28 13:32:37",
-      "album": {
         "name": "Bagus",
         "url": "https://open.spotify.com/album/6WbUYB2fDctcuzTsQXWcF6"
       },
@@ -459,22 +459,6 @@
       "duration_ms": 253626,
       "name": "Vieni A Vedere Perch\u00e8",
       "url": "https://open.spotify.com/track/7LYUIppHHkuKeIyfWwUEvj"
-    },
-    {
-      "added_at": "2025-05-28 13:32:37",
-      "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 234250,
-      "name": "Ti dedico il silenzio",
-      "url": "https://open.spotify.com/track/6GLmGfALwjzCaOiHwgfU7g"
     },
     {
       "added_at": "2025-05-28 13:32:37",
@@ -495,18 +479,18 @@
     {
       "added_at": "2025-05-28 13:32:37",
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
       },
       "artists": [
         {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
         }
       ],
-      "duration_ms": 236586,
-      "name": "Un'emozione per sempre",
-      "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
+      "duration_ms": 234250,
+      "name": "Ti dedico il silenzio",
+      "url": "https://open.spotify.com/track/6GLmGfALwjzCaOiHwgfU7g"
     },
     {
       "added_at": "2025-05-28 13:32:37",
@@ -527,6 +511,22 @@
     {
       "added_at": "2025-05-28 13:32:37",
       "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 236586,
+      "name": "Un'emozione per sempre",
+      "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
+    },
+    {
+      "added_at": "2025-05-28 13:32:37",
+      "album": {
         "name": "Unica",
         "url": "https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-05-28 13:32:37",
       "album": {
-        "name": "Colpa Delle Favole",
-        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 240738,
-      "name": "Rondini Al Guinzaglio",
-      "url": "https://open.spotify.com/track/1jhHPnmgZepKU8qX4VhRZ0"
-    },
-    {
-      "added_at": "2025-05-28 13:32:37",
-      "album": {
         "name": "Fabio Concato",
         "url": "https://open.spotify.com/album/745henjeFTHTYiBy7P3Vra"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 233666,
       "name": "Fiore Di Maggio",
       "url": "https://open.spotify.com/track/2pWzPQ2lhuEE2sb3aPKMHX"
+    },
+    {
+      "added_at": "2025-05-28 13:32:37",
+      "album": {
+        "name": "Colpa Delle Favole",
+        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 240738,
+      "name": "Rondini Al Guinzaglio",
+      "url": "https://open.spotify.com/track/1jhHPnmgZepKU8qX4VhRZ0"
     },
     {
       "added_at": "2025-05-28 13:32:37",
@@ -607,18 +607,18 @@
     {
       "added_at": "2025-05-28 13:32:37",
       "album": {
-        "name": "Safari",
-        "url": "https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK"
+        "name": "MAX 20",
+        "url": "https://open.spotify.com/album/7iCLgEbIDDHWP6UWzbzNJ4"
       },
       "artists": [
         {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+          "name": "Max Pezzali",
+          "url": "https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9"
         }
       ],
-      "duration_ms": 264240,
-      "name": "A Te",
-      "url": "https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv"
+      "duration_ms": 253100,
+      "name": "L'universo tranne noi",
+      "url": "https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5"
     },
     {
       "added_at": "2025-05-28 13:32:37",
@@ -639,18 +639,50 @@
     {
       "added_at": "2025-05-28 13:32:37",
       "album": {
-        "name": "MAX 20",
-        "url": "https://open.spotify.com/album/7iCLgEbIDDHWP6UWzbzNJ4"
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK"
       },
       "artists": [
         {
-          "name": "Max Pezzali",
-          "url": "https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9"
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
         }
       ],
-      "duration_ms": 253100,
-      "name": "L'universo tranne noi",
-      "url": "https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5"
+      "duration_ms": 264240,
+      "name": "A Te",
+      "url": "https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv"
+    },
+    {
+      "added_at": "2025-05-28 13:32:37",
+      "album": {
+        "name": "Perdere l'amore",
+        "url": "https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX"
+      },
+      "artists": [
+        {
+          "name": "Massimo Ranieri",
+          "url": "https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d"
+        }
+      ],
+      "duration_ms": 251533,
+      "name": "Perdere l'amore",
+      "url": "https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J"
+    },
+    {
+      "added_at": "2025-05-28 13:32:37",
+      "album": {
+        "name": "Splende",
+        "url": "https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 211093,
+      "name": "Una finestra tra le stelle",
+      "url": "https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG"
     },
     {
       "added_at": "2025-05-28 13:32:37",
@@ -691,38 +723,6 @@
     {
       "added_at": "2025-05-28 13:32:37",
       "album": {
-        "name": "Splende",
-        "url": "https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX"
-      },
-      "artists": [
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 211093,
-      "name": "Una finestra tra le stelle",
-      "url": "https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG"
-    },
-    {
-      "added_at": "2025-05-28 13:32:37",
-      "album": {
-        "name": "Perdere l'amore",
-        "url": "https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX"
-      },
-      "artists": [
-        {
-          "name": "Massimo Ranieri",
-          "url": "https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Perdere l'amore",
-      "url": "https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J"
-    },
-    {
-      "added_at": "2025-05-28 13:32:37",
-      "album": {
         "name": "Cip!",
         "url": "https://open.spotify.com/album/7sYFig64Wpcv9PDq8QRGlV"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 230746,
       "name": "Per due che come noi",
       "url": "https://open.spotify.com/track/6JXlccLNpK7F2XFwHuMy23"
-    },
-    {
-      "added_at": "2025-05-28 13:32:37",
-      "album": {
-        "name": "La Donna Cannone",
-        "url": "https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2"
-      },
-      "artists": [
-        {
-          "name": "Francesco De Gregori",
-          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
-        }
-      ],
-      "duration_ms": 279706,
-      "name": "La donna cannone",
-      "url": "https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo"
     },
     {
       "added_at": "2025-05-28 13:32:37",
@@ -771,6 +755,22 @@
       "duration_ms": 196615,
       "name": "Stanza Singola (feat. Tommaso Paradiso)",
       "url": "https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO"
+    },
+    {
+      "added_at": "2025-05-28 13:32:37",
+      "album": {
+        "name": "La Donna Cannone",
+        "url": "https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2"
+      },
+      "artists": [
+        {
+          "name": "Francesco De Gregori",
+          "url": "https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul"
+        }
+      ],
+      "duration_ms": 279706,
+      "name": "La donna cannone",
+      "url": "https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo"
     },
     {
       "added_at": "2025-05-28 13:32:37",
@@ -903,6 +903,22 @@
     {
       "added_at": "2025-05-28 13:32:37",
       "album": {
+        "name": "Alla Mia Et\u00e0",
+        "url": "https://open.spotify.com/album/3N4MScsa0qCfg0ffZVl7wj"
+      },
+      "artists": [
+        {
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "Il Regalo Pi\u00f9 Grande",
+      "url": "https://open.spotify.com/track/35eRQZmxwjgn7mQrsmtA4f"
+    },
+    {
+      "added_at": "2025-05-28 13:32:37",
+      "album": {
         "name": "Notti Brave (After)",
         "url": "https://open.spotify.com/album/5igFxzbfH6oTb3vRFvNK5w"
       },
@@ -923,34 +939,18 @@
     {
       "added_at": "2025-05-28 13:32:37",
       "album": {
-        "name": "Alla Mia Et\u00e0",
-        "url": "https://open.spotify.com/album/3N4MScsa0qCfg0ffZVl7wj"
+        "name": "\u00c8 sempre bello",
+        "url": "https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T"
       },
       "artists": [
         {
-          "name": "Tiziano Ferro",
-          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
         }
       ],
-      "duration_ms": 228600,
-      "name": "Il Regalo Pi\u00f9 Grande",
-      "url": "https://open.spotify.com/track/35eRQZmxwjgn7mQrsmtA4f"
-    },
-    {
-      "added_at": "2025-05-28 13:32:37",
-      "album": {
-        "name": "Grazie",
-        "url": "https://open.spotify.com/album/2htq51kTRL2dwMxa2mBfJi"
-      },
-      "artists": [
-        {
-          "name": "Gianna Nannini",
-          "url": "https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX"
-        }
-      ],
-      "duration_ms": 270346,
-      "name": "Sei nell'anima",
-      "url": "https://open.spotify.com/track/6shzlUkm7OcnoO4guEiGJ8"
+      "duration_ms": 192040,
+      "name": "La tua canzone",
+      "url": "https://open.spotify.com/track/17ctLiAYSfZkL8ksjtSchO"
     },
     {
       "added_at": "2025-05-28 13:32:37",
@@ -971,34 +971,18 @@
     {
       "added_at": "2025-05-28 13:32:37",
       "album": {
-        "name": "it.pop",
-        "url": "https://open.spotify.com/album/5HCZg475b1R5XJvgmiAN7t"
+        "name": "Grazie",
+        "url": "https://open.spotify.com/album/2htq51kTRL2dwMxa2mBfJi"
       },
       "artists": [
         {
-          "name": "Alex Britti",
-          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
+          "name": "Gianna Nannini",
+          "url": "https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX"
         }
       ],
-      "duration_ms": 228986,
-      "name": "Oggi Sono Io",
-      "url": "https://open.spotify.com/track/4EsU1itX1LEPptKwjhGbVl"
-    },
-    {
-      "added_at": "2025-05-28 13:32:37",
-      "album": {
-        "name": "Anima",
-        "url": "https://open.spotify.com/album/2NNcni9mDROc7txSZzDRbb"
-      },
-      "artists": [
-        {
-          "name": "Riccardo Cocciante",
-          "url": "https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR"
-        }
-      ],
-      "duration_ms": 274973,
-      "name": "Bella senz'anima",
-      "url": "https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS"
+      "duration_ms": 270346,
+      "name": "Sei nell'anima",
+      "url": "https://open.spotify.com/track/6shzlUkm7OcnoO4guEiGJ8"
     },
     {
       "added_at": "2025-05-28 13:32:37",
@@ -1019,6 +1003,38 @@
     {
       "added_at": "2025-05-28 13:32:37",
       "album": {
+        "name": "Anima",
+        "url": "https://open.spotify.com/album/2NNcni9mDROc7txSZzDRbb"
+      },
+      "artists": [
+        {
+          "name": "Riccardo Cocciante",
+          "url": "https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR"
+        }
+      ],
+      "duration_ms": 274973,
+      "name": "Bella senz'anima",
+      "url": "https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS"
+    },
+    {
+      "added_at": "2025-05-28 13:32:37",
+      "album": {
+        "name": "it.pop",
+        "url": "https://open.spotify.com/album/5HCZg475b1R5XJvgmiAN7t"
+      },
+      "artists": [
+        {
+          "name": "Alex Britti",
+          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
+        }
+      ],
+      "duration_ms": 228986,
+      "name": "Oggi Sono Io",
+      "url": "https://open.spotify.com/track/4EsU1itX1LEPptKwjhGbVl"
+    },
+    {
+      "added_at": "2025-05-28 13:32:37",
+      "album": {
         "name": "Supereroe",
         "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 209179,
       "name": "Fuoco e benzina",
       "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
-    },
-    {
-      "added_at": "2025-05-28 13:32:37",
-      "album": {
-        "name": "\u00c8 sempre bello",
-        "url": "https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 192040,
-      "name": "La tua canzone",
-      "url": "https://open.spotify.com/track/17ctLiAYSfZkL8ksjtSchO"
     },
     {
       "added_at": "2025-05-28 13:32:37",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2025-05-28 13:32:37",
       "album": {
+        "name": "\u00c8 sempre bello",
+        "url": "https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 203880,
+      "name": "\u00c8 sempre bello",
+      "url": "https://open.spotify.com/track/4Wcrw9554hxM1Gk8Pl4Cyi"
+    },
+    {
+      "added_at": "2025-05-28 13:32:37",
+      "album": {
         "name": "Tutto Qui",
         "url": "https://open.spotify.com/album/7c4WZWTbWCodNxtex7owQN"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 226160,
       "name": "Cascare nei tuoi occhi",
       "url": "https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M"
-    },
-    {
-      "added_at": "2025-05-28 13:32:37",
-      "album": {
-        "name": "\u00c8 sempre bello",
-        "url": "https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 203880,
-      "name": "\u00c8 sempre bello",
-      "url": "https://open.spotify.com/track/4Wcrw9554hxM1Gk8Pl4Cyi"
     },
     {
       "added_at": "2025-05-28 13:32:37",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-05-28 13:32:37",
       "album": {
-        "name": "Come Thelma E Louise",
-        "url": "https://open.spotify.com/album/3TkPJ0VZJnHBQ5jWk8Y0lj"
-      },
-      "artists": [
-        {
-          "name": "Giorgia",
-          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
-        }
-      ],
-      "duration_ms": 300306,
-      "name": "Come saprei",
-      "url": "https://open.spotify.com/track/1mJQoOICr4UlV6nG3EI4NN"
-    },
-    {
-      "added_at": "2025-05-28 13:32:37",
-      "album": {
         "name": "Mainstream (Deluxe Edition)",
         "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 228480,
       "name": "Del verde",
       "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
+    },
+    {
+      "added_at": "2025-05-28 13:32:37",
+      "album": {
+        "name": "Come Thelma E Louise",
+        "url": "https://open.spotify.com/album/3TkPJ0VZJnHBQ5jWk8Y0lj"
+      },
+      "artists": [
+        {
+          "name": "Giorgia",
+          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
+        }
+      ],
+      "duration_ms": 300306,
+      "name": "Come saprei",
+      "url": "https://open.spotify.com/track/1mJQoOICr4UlV6nG3EI4NN"
     },
     {
       "added_at": "2025-05-28 13:32:37",
@@ -1291,6 +1291,22 @@
       "duration_ms": 241440,
       "name": "Vattene amore (feat. Amedeo Minghi)",
       "url": "https://open.spotify.com/track/3roodBW6Fdvl8R2cooFU7L"
+    },
+    {
+      "added_at": "2025-05-28 13:32:37",
+      "album": {
+        "name": "Il giorno in cui ho smesso di pensare",
+        "url": "https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq"
+      },
+      "artists": [
+        {
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
+        }
+      ],
+      "duration_ms": 200428,
+      "name": "Ovunque Sarai",
+      "url": "https://open.spotify.com/track/75mCCeBwjfoZtfAPE0SxwO"
     },
     {
       "added_at": "2025-05-28 13:32:37",
@@ -1331,22 +1347,6 @@
       "duration_ms": 221413,
       "name": "Fotografia (feat. Francesca Michielin & Fabri Fibra)",
       "url": "https://open.spotify.com/track/3fw3W15QK6a9UxJGgndtYu"
-    },
-    {
-      "added_at": "2025-05-28 13:32:37",
-      "album": {
-        "name": "Il giorno in cui ho smesso di pensare",
-        "url": "https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq"
-      },
-      "artists": [
-        {
-          "name": "Irama",
-          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
-        }
-      ],
-      "duration_ms": 200428,
-      "name": "Ovunque Sarai",
-      "url": "https://open.spotify.com/track/75mCCeBwjfoZtfAPE0SxwO"
     },
     {
       "added_at": "2025-05-28 13:32:37",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-05-28 13:32:37",
       "album": {
-        "name": "La Descrizione Di Un Attimo",
-        "url": "https://open.spotify.com/album/1LNHff1GCfPDzxoYpRpSHj"
-      },
-      "artists": [
-        {
-          "name": "Tiromancino",
-          "url": "https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5"
-        }
-      ],
-      "duration_ms": 269600,
-      "name": "La Descrizione Di Un Attimo",
-      "url": "https://open.spotify.com/track/1A4N8laeRTrrzmSJZdOoJL"
-    },
-    {
-      "added_at": "2025-05-28 13:32:37",
-      "album": {
         "name": "Il Primo Bacio Sulla Luna",
         "url": "https://open.spotify.com/album/1Xv9aoCKbnUD3S2OYAjbo8"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 284906,
       "name": "Le Sei E Ventisei",
       "url": "https://open.spotify.com/track/2dT5WyNVkCfBMvvffAiwoG"
+    },
+    {
+      "added_at": "2025-05-28 13:32:37",
+      "album": {
+        "name": "La Descrizione Di Un Attimo",
+        "url": "https://open.spotify.com/album/1LNHff1GCfPDzxoYpRpSHj"
+      },
+      "artists": [
+        {
+          "name": "Tiromancino",
+          "url": "https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5"
+        }
+      ],
+      "duration_ms": 269600,
+      "name": "La Descrizione Di Un Attimo",
+      "url": "https://open.spotify.com/track/1A4N8laeRTrrzmSJZdOoJL"
     },
     {
       "added_at": "2025-05-28 13:32:37",

@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Jackson Wang, Galantis, MK",
-  "num_followers": 47260,
+  "num_followers": 47258,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAIAvz5jAUBBLzlKG0NNMVb1rHYl/Yl",
+  "snapshot_id": "AAAIAxaYcxP/PHlkRQvdRP8sojTXItTP",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -1549,6 +1549,30 @@
       "url": "https://open.spotify.com/track/5zviMoAeuerK1Rd58qXASv"
     },
     {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "Crooked (VAANCE & Herrin Remix)",
+        "url": "https://open.spotify.com/album/0poUGk2wU0b2y1llEgp6Zc"
+      },
+      "artists": [
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        },
+        {
+          "name": "Vaance",
+          "url": "https://open.spotify.com/artist/3hY9SF90lW0iMZkT2qBFDu"
+        },
+        {
+          "name": "Herrin",
+          "url": "https://open.spotify.com/artist/1cOE2rCet7CGWid3OD5499"
+        }
+      ],
+      "duration_ms": 126655,
+      "name": "Crooked (VAANCE & Herrin Remix)",
+      "url": "https://open.spotify.com/track/3HcKOzkBdZaOnmOJCFZ0gv"
+    },
+    {
       "added_at": "2025-05-09 00:41:05",
       "album": {
         "name": "Comes Down",
@@ -1589,6 +1613,26 @@
       "url": "https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd"
     },
     {
+      "added_at": "2023-06-12 09:23:03",
+      "album": {
+        "name": "Ready For You (feat. Celeste)",
+        "url": "https://open.spotify.com/album/2AaQrVHf965fI2uPLXdGF4"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 268886,
+      "name": "Ready For You (feat. Celeste)",
+      "url": "https://open.spotify.com/track/3xJMfoI7ApSNE2XYEsJ9z9"
+    },
+    {
       "added_at": "2024-07-26 00:41:03",
       "album": {
         "name": "Another Day In Paradise",
@@ -1613,28 +1657,24 @@
       "url": "https://open.spotify.com/track/0HjogmklU56Soh2HNhbWer"
     },
     {
-      "added_at": "2023-06-13 09:44:03",
+      "added_at": "2023-06-12 09:23:03",
       "album": {
-        "name": "Crooked (VAANCE & Herrin Remix)",
-        "url": "https://open.spotify.com/album/0poUGk2wU0b2y1llEgp6Zc"
+        "name": "Into The Wild (feat. KiFi)",
+        "url": "https://open.spotify.com/album/5oUAZkXDIckQi939OEhbnv"
       },
       "artists": [
         {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
         },
         {
-          "name": "Vaance",
-          "url": "https://open.spotify.com/artist/3hY9SF90lW0iMZkT2qBFDu"
-        },
-        {
-          "name": "Herrin",
-          "url": "https://open.spotify.com/artist/1cOE2rCet7CGWid3OD5499"
+          "name": "KiFi",
+          "url": "https://open.spotify.com/artist/4C26PDH7q4oJazjcHlSekc"
         }
       ],
-      "duration_ms": 126655,
-      "name": "Crooked (VAANCE & Herrin Remix)",
-      "url": "https://open.spotify.com/track/3HcKOzkBdZaOnmOJCFZ0gv"
+      "duration_ms": 177600,
+      "name": "Into The Wild",
+      "url": "https://open.spotify.com/track/0WieTfhf6N0alEhBpSiOtd"
     },
     {
       "added_at": "2024-09-27 00:41:03",
@@ -1659,46 +1699,6 @@
       "duration_ms": 130500,
       "name": "Torn",
       "url": "https://open.spotify.com/track/6IrZcWFFvMF0UzUKyeUpwn"
-    },
-    {
-      "added_at": "2023-06-12 09:23:03",
-      "album": {
-        "name": "Ready For You (feat. Celeste)",
-        "url": "https://open.spotify.com/album/2AaQrVHf965fI2uPLXdGF4"
-      },
-      "artists": [
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 268886,
-      "name": "Ready For You (feat. Celeste)",
-      "url": "https://open.spotify.com/track/3xJMfoI7ApSNE2XYEsJ9z9"
-    },
-    {
-      "added_at": "2023-06-12 09:23:03",
-      "album": {
-        "name": "Into The Wild (feat. KiFi)",
-        "url": "https://open.spotify.com/album/5oUAZkXDIckQi939OEhbnv"
-      },
-      "artists": [
-        {
-          "name": "Wildstylez",
-          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
-        },
-        {
-          "name": "KiFi",
-          "url": "https://open.spotify.com/artist/4C26PDH7q4oJazjcHlSekc"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Into The Wild",
-      "url": "https://open.spotify.com/track/0WieTfhf6N0alEhBpSiOtd"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1781,26 +1781,6 @@
       "url": "https://open.spotify.com/track/2dh6Pnl5egc1FrQS6EsW4n"
     },
     {
-      "added_at": "2024-07-26 00:41:03",
-      "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/6mU3Tduq9a0Cd8ZIVXoeSg"
-      },
-      "artists": [
-        {
-          "name": "Dualh\u00ef",
-          "url": "https://open.spotify.com/artist/4HzQLZAdLvGvyqVhhJ5CW6"
-        },
-        {
-          "name": "JandB",
-          "url": "https://open.spotify.com/artist/4jN5GS2qlp50fhNUrrLrkA"
-        }
-      ],
-      "duration_ms": 150447,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/0DqooBsYdHc3QajIX0c6op"
-    },
-    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "KIDS",
@@ -1841,20 +1821,24 @@
       "url": "https://open.spotify.com/track/1KqKhJwTqCyTAv96ON05mL"
     },
     {
-      "added_at": "2025-03-21 00:41:04",
+      "added_at": "2024-07-26 00:41:03",
       "album": {
-        "name": "Be On Your Mind",
-        "url": "https://open.spotify.com/album/25nGGtZvIcDsOHllzw262i"
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/6mU3Tduq9a0Cd8ZIVXoeSg"
       },
       "artists": [
         {
-          "name": "Luis Elba",
-          "url": "https://open.spotify.com/artist/1DA4e1dx0O1N10b3bw18Le"
+          "name": "Dualh\u00ef",
+          "url": "https://open.spotify.com/artist/4HzQLZAdLvGvyqVhhJ5CW6"
+        },
+        {
+          "name": "JandB",
+          "url": "https://open.spotify.com/artist/4jN5GS2qlp50fhNUrrLrkA"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Be On Your Mind",
-      "url": "https://open.spotify.com/track/4cNbpYE2fBcU0ZaO7Xlfu3"
+      "duration_ms": 150447,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/0DqooBsYdHc3QajIX0c6op"
     },
     {
       "added_at": "2024-11-01 00:41:04",
@@ -1875,6 +1859,62 @@
       "duration_ms": 169458,
       "name": "Life Goes On (feat. Alex Hosking)",
       "url": "https://open.spotify.com/track/4toYTJxK1Q7uNkzeFzKJuu"
+    },
+    {
+      "added_at": "2024-11-08 00:41:04",
+      "album": {
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/5uJqpJth89JzqPFt6vEzwF"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+        }
+      ],
+      "duration_ms": 225813,
+      "name": "Roses (feat. ROZES)",
+      "url": "https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa"
+    },
+    {
+      "added_at": "2025-03-21 00:41:04",
+      "album": {
+        "name": "Be On Your Mind",
+        "url": "https://open.spotify.com/album/25nGGtZvIcDsOHllzw262i"
+      },
+      "artists": [
+        {
+          "name": "Luis Elba",
+          "url": "https://open.spotify.com/artist/1DA4e1dx0O1N10b3bw18Le"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Be On Your Mind",
+      "url": "https://open.spotify.com/track/4cNbpYE2fBcU0ZaO7Xlfu3"
+    },
+    {
+      "added_at": "2024-11-17 00:41:03",
+      "album": {
+        "name": "Heaven On My Mind (with Sigala)",
+        "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 192573,
+      "name": "Heaven On My Mind (with Sigala)",
+      "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
     },
     {
       "added_at": "2024-10-12 00:41:03",
@@ -1899,46 +1939,6 @@
       "duration_ms": 173610,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/3bSQhzEakXK108UasRWP4t"
-    },
-    {
-      "added_at": "2024-11-08 00:41:04",
-      "album": {
-        "name": "Bouquet",
-        "url": "https://open.spotify.com/album/5uJqpJth89JzqPFt6vEzwF"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "ROZES",
-          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
-        }
-      ],
-      "duration_ms": 225813,
-      "name": "Roses (feat. ROZES)",
-      "url": "https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa"
-    },
-    {
-      "added_at": "2024-11-17 00:41:03",
-      "album": {
-        "name": "Heaven On My Mind (with Sigala)",
-        "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 192573,
-      "name": "Heaven On My Mind (with Sigala)",
-      "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
     },
     {
       "added_at": "2024-11-20 00:41:04",
@@ -1985,26 +1985,6 @@
       "url": "https://open.spotify.com/track/25qhCdtNV7jCiAbcxFxZgx"
     },
     {
-      "added_at": "2024-05-31 00:41:04",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/4JwpOWvno7gw5ielxFne6P"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "Simon Ward",
-          "url": "https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/47ij2z59LpBuxx1ixMjcMW"
-    },
-    {
       "added_at": "2025-06-08 00:41:06",
       "album": {
         "name": "More Than Friends",
@@ -2043,6 +2023,26 @@
       "duration_ms": 176766,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
+    },
+    {
+      "added_at": "2024-05-31 00:41:04",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/4JwpOWvno7gw5ielxFne6P"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "Simon Ward",
+          "url": "https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP"
+        }
+      ],
+      "duration_ms": 129229,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/47ij2z59LpBuxx1ixMjcMW"
     }
   ],
   "unique_name": "EDM Top 100",

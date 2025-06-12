@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Zoë Më
 
-360 songs - 18 hr 33 min
+361 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Coo Ca Choo](https://open.spotify.com/track/3zoU5ulfZ9SKSnqPwS1LCZ) | [Lovebugs](https://open.spotify.com/artist/6piYZXXQCn1uniYcHcwS89) | [Coo Ca Choo](https://open.spotify.com/album/2xL4LTdktNIGrYRnYq5cHU) | 3:36 | 2024-12-20 | 2025-02-15 |
 | [copypaste](https://open.spotify.com/track/7m9WgSEUPIgSxT6f7wL3U0) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [copypaste](https://open.spotify.com/album/5nv4OeXH8BGqmAYMnsqROB) | 3:20 | 2024-08-09 | 2024-08-24 |
 | [Corpse Bride](https://open.spotify.com/track/0bARGmIFiwDIp05EM3PIYt) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Corpse Bride](https://open.spotify.com/album/4LHyzaPhcYIfyyRfmdhHrs) | 3:07 | 2024-09-13 | 2024-10-19 |
-| [Counting Days](https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Counting Days](https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2) | 2:44 | 2024-06-27 |  |
+| [Counting Days](https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Counting Days](https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2) | 2:44 | 2024-06-27 | 2025-06-12 |
 | [cry no more](https://open.spotify.com/track/26gpBk4cVSD8RrgR3cyqo7) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [cry no more](https://open.spotify.com/album/4IeTUCkFMlo2Dh0evzHFoh) | 3:16 | 2024-11-29 |  |
 | [Daredevil](https://open.spotify.com/track/1edoaqKUVDzWNs4flkvNPw) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Daredevil](https://open.spotify.com/album/1eLoAa0EpSIq1QhDUeEgaa) | 2:33 | 2024-06-27 | 2024-08-04 |
 | [Dein Herz](https://open.spotify.com/track/5odFCd8J95sMRZUuvY4nQM) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Dein Herz](https://open.spotify.com/album/6DqWKjXtC9zw3FM20jw9A5) | 2:48 | 2025-01-10 |  |
@@ -321,6 +321,7 @@
 | [THE LOVER](https://open.spotify.com/track/51IMjTw9T8BliGgPMSFqEr) | [Kae](https://open.spotify.com/artist/1fSG1RjY50eGpdvtHECCRm) | [XAOS](https://open.spotify.com/album/5GYm9Ud8aGdBB86V5PDU1g) | 2:20 | 2025-05-29 |  |
 | [The Right to Cry](https://open.spotify.com/track/5YzUTY6zW8TFGfGsknq9vQ) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [The Right to Cry](https://open.spotify.com/album/7rLRzdGMjn0kRQo6TRnMqc) | 3:09 | 2024-11-29 | 2025-03-08 |
 | [the way](https://open.spotify.com/track/5Qov55diS0eUnDwpU2AizD) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [i always remember all of my dreams](https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq) | 2:45 | 2025-04-17 | 2025-04-25 |
+| [The Wrong Cards](https://open.spotify.com/track/3rdSYchPn7ppUx9wQvsdxx) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [The Wrong Cards](https://open.spotify.com/album/16geXJeWAs3qlF4dgPRNkA) | 2:54 | 2025-06-05 |  |
 | [theremin](https://open.spotify.com/track/0qqtydxO4KMSnhww9PlrqQ) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [theremin](https://open.spotify.com/album/7pYNdcVuPsnHE6KzsG33a1) | 2:41 | 2024-11-01 | 2025-01-12 |
 | [TikTak](https://open.spotify.com/track/0XAowYuRYwsuEZUtNhBsA2) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [TikTak](https://open.spotify.com/album/4r7bzEFYlW0JelO4TOVCOk) | 2:43 | 2024-06-27 | 2024-09-28 |
 | [Time Lost](https://open.spotify.com/track/2Rw5ktfYbZvrqT2O0uMPA7) | [Junes](https://open.spotify.com/artist/5PiZjZsPnzVtfoF3m3L0uv) | [Of Love and Loss](https://open.spotify.com/album/7eJIpv68HMlBpqViTvCgxv) | 4:19 | 2025-06-05 |  |

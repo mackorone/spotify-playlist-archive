@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: Esteman
+> Songs from LGBTQIA+ artists\. Cover: soap
 
-1,537 songs - 3 day 11 hr 8 min
+1,538 songs - 3 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Big Boom](https://open.spotify.com/track/38zUB1OyaTn98q8caO1MWt) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Big Boom](https://open.spotify.com/album/6KBWwX5kdgbmGe5ElXQXfz) | 2:14 | 2023-06-02 | 2024-01-11 |
 | [BIG D\*\*\* ENERGY](https://open.spotify.com/track/2uwk9kkqbelVnL7RgNxhhw) | [Dana International](https://open.spotify.com/artist/03IVYRlAC972SOHPb86Usr), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [BIG D\*\*\* ENERGY](https://open.spotify.com/album/7dhgkpNhPbDQrSUw2PDPvf) | 3:53 | 2023-06-21 | 2023-08-09 |
 | [Big Girls Don't Cry](https://open.spotify.com/track/1kfAz9hp0Tlc9G1777jutL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Big Girls Don't Cry](https://open.spotify.com/album/3DgJwUnwxTutt0MIi7H9rd) | 2:49 | 2024-08-13 | 2024-10-09 |
+| [Big Ol' Hammer](https://open.spotify.com/track/0KC3gdNQmZcNmGUJg4iXEV) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Big Ol' Hammer](https://open.spotify.com/album/6tnp1KpDg5ZCAxkHnk3hhX) | 2:27 | 2025-06-12 |  |
 | [Big Time](https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:07 | 2022-04-29 | 2022-12-01 |
 | [biggest asshole in the room](https://open.spotify.com/track/5p6hhmsw3JMoDc4bxMR3zY) | [Mavi Phoenix](https://open.spotify.com/artist/0Lt05xaSe2ACmAiSkIdcSm) | [biggest asshole in the room](https://open.spotify.com/album/4CII79RgJo3ijYIgiX1xMI) | 2:31 | 2023-03-07 | 2023-04-01 |
 | [Birth Of A New Age](https://open.spotify.com/track/5GVMXVYBFyUeq1jz8IsGRq) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Birth Of A New Age](https://open.spotify.com/album/5vfSBA3TW0hrD6bWsB5rqC) | 2:53 | 2025-05-13 | 2025-05-20 |
@@ -1259,7 +1260,7 @@
 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 | 2022-11-30 | 2023-01-25 |
 | [Starkare](https://open.spotify.com/track/22WLD0thQ96SRCJ0azSCIX) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Starkare](https://open.spotify.com/album/2zCCebbYUHgSoOS0gxGw3r) | 2:25 | 2023-05-23 | 2023-06-02 |
 | [Stars On The Horizon](https://open.spotify.com/track/7vSk3T7LTAzwFubyuscXhV) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Stars On The Horizon](https://open.spotify.com/album/4If8XEpMfy7zFMOPhFtYqs) | 2:57 | 2024-01-10 | 2024-03-13 |
-| [Statue In The Square](https://open.spotify.com/track/6QF34NPhm7aNhhgf5HtNLE) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Statue In The Square](https://open.spotify.com/album/6h6UEEPRimAPINCMxsJ5Pw) | 2:54 | 2025-04-08 |  |
+| [Statue In The Square](https://open.spotify.com/track/6QF34NPhm7aNhhgf5HtNLE) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Statue In The Square](https://open.spotify.com/album/6h6UEEPRimAPINCMxsJ5Pw) | 2:54 | 2025-04-08 | 2025-06-12 |
 | [Stay](https://open.spotify.com/track/5HQMKE5LBF60BRjUSYc991) | [Tooji](https://open.spotify.com/artist/1czepF3cDe6w7pWOJQDSvL) | [Stay](https://open.spotify.com/album/1iR1yRpWDr1QILZo611ck5) | 2:59 | 2025-05-13 | 2025-05-20 |
 | [Sticky \(feat\. GloRilla, Sexyy Red & Lil Wayne\)](https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:15 | 2024-11-12 | 2024-12-05 |
 | [Still](https://open.spotify.com/track/6KR7buPOfUcd3o2SUpJUHr) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Risk](https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo) | 3:04 | 2023-08-08 | 2023-11-14 |

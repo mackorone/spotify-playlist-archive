@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM?si=6j4C8WSDTUy9023842Y1Sg>Abbey Ojomu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,910 likes - 149 songs - 13 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,923 likes - 149 songs - 13 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 | 24 | [Hallelujah](https://open.spotify.com/track/5edBgYe6nAPm24nNmitptV) | [Tamará](https://open.spotify.com/artist/5yWup2QHnXNBHR418cQl0m) | [Hallelujah](https://open.spotify.com/album/3yOxLm70FSd2aCA9MtO3NR) | 4:16 |
 | 25 | [KINGS AND PRIESTS \- Live](https://open.spotify.com/track/3V5B57fJImvhzpWuzrVyKi) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT), [Caleb David](https://open.spotify.com/artist/7C2oEPctxS2j9pXPODStKz) | [KINGS AND PRIESTS \(Live\)](https://open.spotify.com/album/4VVIg3orQVZqpGEg3imi6C) | 11:36 |
 | 26 | [Adonai](https://open.spotify.com/track/3TEHgvwiuZ2NsGfKohjOlF) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Adonai](https://open.spotify.com/album/124CGwgNr7JQ2ZRerZ8tba) | 2:07 |
-| 27 | [Know Jesus, Know Road](https://open.spotify.com/track/7ifOnQtBchzbIuA9DN8YLJ) | [Steve Williz](https://open.spotify.com/artist/6btXkqPkFD0w39C299Gz2K), [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Know Jesus, Know Road](https://open.spotify.com/album/2DvdNBFHbRq772GynhQJj8) | 4:12 |
+| 27 | [Know Jesus, Know Road \- Live](https://open.spotify.com/track/7ifOnQtBchzbIuA9DN8YLJ) | [Steve Williz](https://open.spotify.com/artist/6btXkqPkFD0w39C299Gz2K), [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Know Jesus, Know Road \(Live\)](https://open.spotify.com/album/2DvdNBFHbRq772GynhQJj8) | 4:12 |
 | 28 | ["To the Light"](https://open.spotify.com/track/23atRinqJqzLicqaD7QiHT) | [Peacestar](https://open.spotify.com/artist/7EEIMmHhi3ZtPU2OdqZHxO), [Logik Tha Pro](https://open.spotify.com/artist/6grOJlyvUhDYrgBKZMAa45), [Ayram](https://open.spotify.com/artist/0aT3e4q4BiLj1wbI0829i2), [Jezreel Nessie](https://open.spotify.com/artist/6iZJb7kspEDFENZGPFbOuG) | ["To the Light"](https://open.spotify.com/album/3fLeijW25Pi1YS5WpYRdF1) | 2:53 |
 | 29 | [Do to Me What You Want](https://open.spotify.com/track/4DubS31RXrubsxE486uBPi) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Do to Me What You Want](https://open.spotify.com/album/5HHnscBoj1SIt7FIDtSi6c) | 11:54 |
 | 30 | [Move](https://open.spotify.com/track/1o0vYv6GqhLIxORHLnm0zj) | [Nomza](https://open.spotify.com/artist/0ebNqGJ09joqyFiemZyLpx) | [Move](https://open.spotify.com/album/2N7u6Odm8DaxfsUVaowOQY) | 2:23 |

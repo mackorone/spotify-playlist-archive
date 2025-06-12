@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 29567,
+  "num_followers": 29575,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEYkAAAAAADAMj29JeMex9TofvBaoS4R",
+  "snapshot_id": "aEd1gAAAAAC78iibWMkIWrtHlLbogUr+",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "Cindy Don't Know",
-      "url": "https://open.spotify.com/track/4yeRSlUJb9QxXAbOKk0WPg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dias de Ayer",
         "url": "https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 206213,
       "name": "Dias de Ayer",
       "url": "https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "Cindy Don't Know",
+      "url": "https://open.spotify.com/track/4yeRSlUJb9QxXAbOKk0WPg"
     },
     {
       "added_at": null,
@@ -771,18 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contra El Tiempo (En Vivo)",
-        "url": "https://open.spotify.com/album/0wpA6OJp9b0PycfxfSqcBQ"
+        "name": "Ojal\u00e1 Te Animes (En Vivo)",
+        "url": "https://open.spotify.com/album/70WWJVjL1HfCied7kpwJwL"
       },
       "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 241560,
-      "name": "Contra El Tiempo - En Vivo",
-      "url": "https://open.spotify.com/track/4ngBpSBbgLDopT16rgOvOY"
+      "duration_ms": 181906,
+      "name": "Ojal\u00e1 Te Animes - En Vivo",
+      "url": "https://open.spotify.com/track/6Qw7aGWA26qKYSO8qNUpAD"
     },
     {
       "added_at": null,
@@ -819,22 +823,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ojal\u00e1 Te Animes (En Vivo)",
-        "url": "https://open.spotify.com/album/70WWJVjL1HfCied7kpwJwL"
+        "name": "Contra El Tiempo (En Vivo)",
+        "url": "https://open.spotify.com/album/0wpA6OJp9b0PycfxfSqcBQ"
       },
       "artists": [
-        {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 181906,
-      "name": "Ojal\u00e1 Te Animes - En Vivo",
-      "url": "https://open.spotify.com/track/6Qw7aGWA26qKYSO8qNUpAD"
+      "duration_ms": 241560,
+      "name": "Contra El Tiempo - En Vivo",
+      "url": "https://open.spotify.com/track/4ngBpSBbgLDopT16rgOvOY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bobby",
+        "url": "https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 189933,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/54xyPaG8wToKbFkjGMFKMm"
     },
     {
       "added_at": null,
@@ -867,22 +883,6 @@
       "duration_ms": 212893,
       "name": "La Plancha",
       "url": "https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bobby",
-        "url": "https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 189933,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/54xyPaG8wToKbFkjGMFKMm"
     },
     {
       "added_at": null,
@@ -923,22 +923,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Besos y Copas (En Vivo)",
-        "url": "https://open.spotify.com/album/3n0WJn6V2aE0HoUYgB0Rvd"
+        "name": "Bobby",
+        "url": "https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD"
       },
       "artists": [
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        },
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
         }
       ],
-      "duration_ms": 187066,
-      "name": "Besos y Copas - En Vivo",
-      "url": "https://open.spotify.com/track/3MAWsYmDfawjCo7oHOwFqB"
+      "duration_ms": 196040,
+      "name": "Cumbia Vallenata",
+      "url": "https://open.spotify.com/track/0Auf3tyYKtcf7tUX3K6kbH"
     }
   ],
   "unique_name": "This Is Bobby Pulido",

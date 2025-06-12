@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XFkp2ZtYHj.md) - [plain]
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,414 likes - 190 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,452 likes - 190 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XFkp2ZtYHj.md) - [plain]
 | 19 | [Floating down the river](https://open.spotify.com/track/5MNItTInmQ6ouf1Ap6kJbi) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Floating down the river](https://open.spotify.com/album/3Y12xyD08LirinmcqLC4gX) | 2:13 |
 | 20 | [Sanshi Sumei](https://open.spotify.com/track/4HMgsKppAisNBfX8oGmRma) | [Nazomi](https://open.spotify.com/artist/3yCSMqBC0KBXeNWetRYFzt) | [Sanshi Sumei](https://open.spotify.com/album/2LP2wUI2VMWYmOmhfDBHVu) | 2:05 |
 | 21 | [Three Sleeping Owls](https://open.spotify.com/track/0ZwtjxyinvQPJy8dZGMXwo) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Three Sleeping Owls](https://open.spotify.com/album/6t44MGK75YLB96QhqNEKCh) | 2:03 |
-| 22 | [The Way](https://open.spotify.com/track/119mkkPrkKwH7hGxzHlQ78) | [Claudia Schumann](https://open.spotify.com/artist/2iwOpHlcFiksGX5PEJ1apz) | [The Way](https://open.spotify.com/album/3eME09xtnpzzdXw0PWbPFb) | 2:29 |
+| 22 | [The Way](https://open.spotify.com/track/119mkkPrkKwH7hGxzHlQ78) | [C\. Schumann](https://open.spotify.com/artist/6DCx3VYkpg9rqycY67aZCx) | [The Way](https://open.spotify.com/album/3eME09xtnpzzdXw0PWbPFb) | 2:29 |
 | 23 | [Lifestyle](https://open.spotify.com/track/0yh3jz4zWk3N9nliAqFqEn) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Lifestyle](https://open.spotify.com/album/2Wg959wMUN5HG8N5WH17RY) | 3:13 |
 | 24 | [Hope Reborn](https://open.spotify.com/track/1m0QXCui2cddXERsmwOEjG) | [Nia Amara](https://open.spotify.com/artist/66zVxJqnaCuSkUimaB2WZS) | [Hope Reborn](https://open.spotify.com/album/3Nlkiki77PqTuE4oGi5vYD) | 2:19 |
 | 25 | [Full Of Hope](https://open.spotify.com/track/22MzUApfgFWn3loU2idcuC) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Full Of Hope](https://open.spotify.com/album/7A5lNSaEP8BjCHxHOgvbKD) | 2:12 |

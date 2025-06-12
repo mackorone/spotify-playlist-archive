@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PpnjmttPui.md) - [plain]
 
 > <a href="spotify:artist:3l0CmX0FuQjFxr8SK7Vqag">Clairo</a> shares the songs she finds charming ✨ Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,914 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,961 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PpnjmttPui.md) - [plain]
 | 49 | [Loving You](https://open.spotify.com/track/0fGEFHwz6lsM3kJZl4O1xE) | [Jennifer Lara](https://open.spotify.com/artist/5GgX23TgqGxu7hCm6qVDo4) | [Studio One Presents Jennifer Lara](https://open.spotify.com/album/3QE9DNEj6FFXEHfmhrdnon) | 3:00 |
 | 50 | [Don't Cry Little Tree](https://open.spotify.com/track/1yO5o9ugq4hreD41h91R6U) | [Trevor Dandy](https://open.spotify.com/artist/5c2Ex16nxDvgZqUPgOGCWA) | [Don't Cry Little Tree](https://open.spotify.com/album/6MqdYi01k9nWYtWGeDpsLo) | 3:10 |
 
-Snapshot ID: `ZsgJQAAAAADU5Yap3xDiYA/m96zttj88`
+Snapshot ID: `AAAAAMw8P9yVD2j+apamSKUDmw2Y6fas`

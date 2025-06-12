@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 171131,
+  "num_followers": 171161,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,18 @@
     {
       "added_at": "2025-04-11 04:00:33",
       "album": {
-        "name": "Friends Like That (feat. Jason Aldean - Stripped)",
-        "url": "https://open.spotify.com/album/62ildty4IOfNHeZbaYmt06"
+        "name": "Going, Going, Gone (Acoustic)",
+        "url": "https://open.spotify.com/album/5RX6HtG6iq8geKRFduycI8"
       },
       "artists": [
         {
-          "name": "John Morgan",
-          "url": "https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g"
-        },
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 180800,
-      "name": "Friends Like That - feat. Jason Aldean - Stripped",
-      "url": "https://open.spotify.com/track/5GlUmrVi6AgIFg2CDnblqs"
+      "duration_ms": 166101,
+      "name": "Going, Going, Gone - Acoustic",
+      "url": "https://open.spotify.com/track/261mlNfSZhoIZSFhRevAkE"
     },
     {
       "added_at": "2025-04-11 04:00:33",
@@ -239,22 +235,6 @@
     {
       "added_at": "2025-04-11 04:00:33",
       "album": {
-        "name": "Going, Going, Gone (Acoustic)",
-        "url": "https://open.spotify.com/album/5RX6HtG6iq8geKRFduycI8"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 166101,
-      "name": "Going, Going, Gone - Acoustic",
-      "url": "https://open.spotify.com/track/261mlNfSZhoIZSFhRevAkE"
-    },
-    {
-      "added_at": "2025-04-11 04:00:33",
-      "album": {
         "name": "The Cowboy In Me (Yellowstone Edition)",
         "url": "https://open.spotify.com/album/2SkLIzep8hDZKPE9j1wQyR"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 217676,
       "name": "The Cowboy In Me - Yellowstone Edition",
       "url": "https://open.spotify.com/track/1e7cEhr2dprxwtlRcSBfED"
+    },
+    {
+      "added_at": "2025-04-11 04:00:33",
+      "album": {
+        "name": "Friends Like That (feat. Jason Aldean - Stripped)",
+        "url": "https://open.spotify.com/album/62ildty4IOfNHeZbaYmt06"
+      },
+      "artists": [
+        {
+          "name": "John Morgan",
+          "url": "https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g"
+        },
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Friends Like That - feat. Jason Aldean - Stripped",
+      "url": "https://open.spotify.com/track/5GlUmrVi6AgIFg2CDnblqs"
     },
     {
       "added_at": "2025-04-11 04:00:33",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-04-11 04:00:33",
       "album": {
-        "name": "Slow Dance In A Parking Lot (Acoustic)",
-        "url": "https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Slow Dance In A Parking Lot - Acoustic",
-      "url": "https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw"
-    },
-    {
-      "added_at": "2025-04-11 04:00:33",
-      "album": {
         "name": "Half Of Me (Acoustic)",
         "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 175639,
       "name": "Half Of Me - Acoustic",
       "url": "https://open.spotify.com/track/4H7aZit0urnDJocqdGjxuZ"
+    },
+    {
+      "added_at": "2025-04-11 04:00:33",
+      "album": {
+        "name": "Slow Dance In A Parking Lot (Acoustic)",
+        "url": "https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Slow Dance In A Parking Lot - Acoustic",
+      "url": "https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw"
     },
     {
       "added_at": "2025-04-11 04:00:33",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-04-11 04:00:33",
       "album": {
-        "name": "Love Makes You Blind (Acoustic Version)",
-        "url": "https://open.spotify.com/album/528xcQWw4mL4gYTvHBBNwo"
-      },
-      "artists": [
-        {
-          "name": "Kaylee Rose",
-          "url": "https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH"
-        }
-      ],
-      "duration_ms": 160875,
-      "name": "Love Makes You Blind - Acoustic Version",
-      "url": "https://open.spotify.com/track/2tZxQEeCnDbFfRrquFa6il"
-    },
-    {
-      "added_at": "2025-04-11 04:00:33",
-      "album": {
         "name": "We Got History (Acoustic)",
         "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 216551,
       "name": "We Got History - Acoustic",
       "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
+    },
+    {
+      "added_at": "2025-04-11 04:00:33",
+      "album": {
+        "name": "Love Makes You Blind (Acoustic Version)",
+        "url": "https://open.spotify.com/album/528xcQWw4mL4gYTvHBBNwo"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Rose",
+          "url": "https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH"
+        }
+      ],
+      "duration_ms": 160875,
+      "name": "Love Makes You Blind - Acoustic Version",
+      "url": "https://open.spotify.com/track/2tZxQEeCnDbFfRrquFa6il"
     },
     {
       "added_at": "2025-04-11 04:00:33",
@@ -1055,22 +1055,18 @@
     {
       "added_at": "2025-04-11 04:00:33",
       "album": {
-        "name": "Honestly (Deluxe)",
-        "url": "https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY"
+        "name": "Neon Moon",
+        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
       },
       "artists": [
         {
-          "name": "Jillian Jacqueline",
-          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
-        },
-        {
-          "name": "Charlie Worsham",
-          "url": "https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq"
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
         }
       ],
-      "duration_ms": 212932,
-      "name": "The Ocean - Acoustic Live In Studio (feat. Charlie Worsham)",
-      "url": "https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR"
+      "duration_ms": 161052,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
     },
     {
       "added_at": "2025-04-11 04:00:33",
@@ -1091,18 +1087,22 @@
     {
       "added_at": "2025-04-11 04:00:33",
       "album": {
-        "name": "Neon Moon",
-        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
+        "name": "Honestly (Deluxe)",
+        "url": "https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY"
       },
       "artists": [
         {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+          "name": "Jillian Jacqueline",
+          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
+        },
+        {
+          "name": "Charlie Worsham",
+          "url": "https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq"
         }
       ],
-      "duration_ms": 161052,
-      "name": "Neon Moon",
-      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
+      "duration_ms": 212932,
+      "name": "The Ocean - Acoustic Live In Studio (feat. Charlie Worsham)",
+      "url": "https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR"
     },
     {
       "added_at": "2025-04-11 04:00:33",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2025-04-11 04:00:33",
       "album": {
+        "name": "Narcissist (Piano Version)",
+        "url": "https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "duration_ms": 153186,
+      "name": "Narcissist - Piano Version",
+      "url": "https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp"
+    },
+    {
+      "added_at": "2025-04-11 04:00:33",
+      "album": {
         "name": "Never Wanted To Be That Girl (Acoustic Version)",
         "url": "https://open.spotify.com/album/5MNdQpKMxTRTjQbJ14qtQC"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 211848,
       "name": "Never Wanted To Be That Girl - Acoustic Version",
       "url": "https://open.spotify.com/track/0CbnbBGQGXK3tXieapv9sk"
-    },
-    {
-      "added_at": "2025-04-11 04:00:33",
-      "album": {
-        "name": "Narcissist (Piano Version)",
-        "url": "https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR"
-      },
-      "artists": [
-        {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
-        }
-      ],
-      "duration_ms": 153186,
-      "name": "Narcissist - Piano Version",
-      "url": "https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp"
     },
     {
       "added_at": "2025-04-11 04:00:33",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2025-04-11 04:00:33",
       "album": {
-        "name": "Can't Nobody (Acoustic)",
-        "url": "https://open.spotify.com/album/6C3biWX9TVBevi1aA5ucsk"
+        "name": "As You Are",
+        "url": "https://open.spotify.com/album/0LCxYgE6QltpzkxhVXOPez"
       },
       "artists": [
         {
-          "name": "Mackenzie Carpenter",
-          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
         }
       ],
-      "duration_ms": 204358,
-      "name": "Can't Nobody - Acoustic",
-      "url": "https://open.spotify.com/track/2c12s9u80ml1VTZ7Y5tSj6"
+      "duration_ms": 246398,
+      "name": "As You Are",
+      "url": "https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC"
     },
     {
       "added_at": "2025-04-11 04:00:33",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2025-04-11 04:00:33",
       "album": {
+        "name": "Can't Nobody (Acoustic)",
+        "url": "https://open.spotify.com/album/6C3biWX9TVBevi1aA5ucsk"
+      },
+      "artists": [
+        {
+          "name": "Mackenzie Carpenter",
+          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
+        }
+      ],
+      "duration_ms": 204358,
+      "name": "Can't Nobody - Acoustic",
+      "url": "https://open.spotify.com/track/2c12s9u80ml1VTZ7Y5tSj6"
+    },
+    {
+      "added_at": "2025-04-11 04:00:33",
+      "album": {
         "name": "Heart Still Works (Stripped)",
         "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 197886,
       "name": "Heart Still Works - Stripped",
       "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
-    },
-    {
-      "added_at": "2025-04-11 04:00:33",
-      "album": {
-        "name": "As You Are",
-        "url": "https://open.spotify.com/album/0LCxYgE6QltpzkxhVXOPez"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 246398,
-      "name": "As You Are",
-      "url": "https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC"
     },
     {
       "added_at": "2025-04-11 04:00:33",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2025-04-11 04:00:33",
       "album": {
+        "name": "Creek Will Rise (Acoustic)",
+        "url": "https://open.spotify.com/album/1rTDhlSTMh1DCQtOqU119z"
+      },
+      "artists": [
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        }
+      ],
+      "duration_ms": 171320,
+      "name": "Creek Will Rise - Acoustic",
+      "url": "https://open.spotify.com/track/5ItavV1pcc92aYo56k0i6o"
+    },
+    {
+      "added_at": "2025-04-11 04:00:33",
+      "album": {
         "name": "Drive You Out Of My Mind (Dark Room Edition)",
         "url": "https://open.spotify.com/album/5jojUcRWK4ItxreTB2duTg"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 216866,
       "name": "Pretty Little Poison - Piano Version",
       "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
-    },
-    {
-      "added_at": "2025-04-11 04:00:33",
-      "album": {
-        "name": "Creek Will Rise (Acoustic)",
-        "url": "https://open.spotify.com/album/1rTDhlSTMh1DCQtOqU119z"
-      },
-      "artists": [
-        {
-          "name": "Conner Smith",
-          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
-        }
-      ],
-      "duration_ms": 171320,
-      "name": "Creek Will Rise - Acoustic",
-      "url": "https://open.spotify.com/track/5ItavV1pcc92aYo56k0i6o"
     },
     {
       "added_at": "2025-04-11 04:00:33",
