@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-406 songs - 23 hr 51 min
+407 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [就想和你在一起](https://open.spotify.com/track/2MOb7OFN5oT15Fq7gvA2Rw) | [Bo Wen](https://open.spotify.com/artist/3VrQh6QZDpQxT4FjeSC6pK), [蔡卓宜](https://open.spotify.com/artist/7BIwfYlgEqQDGaFufasqwi) | [我可否将人生比作一场竞技](https://open.spotify.com/album/4fNoLqoUAfMmo8CBfbUxzN) | 3:35 | 2022-06-20 | 2022-06-22 |
 | [就是愛妳](https://open.spotify.com/track/73eCSQ1DxQbaOnzy8PhKx3) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [太平盛世](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) | 4:21 | 2022-06-06 |  |
 | [屬於你 \- 電影《一周的朋友》插曲](https://open.spotify.com/track/6aAWv8sFAh1l1buBTUgTWo) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [屬於你 \(電影《一周的朋友》插曲\)](https://open.spotify.com/album/72UbhmRyjQB15aaSkfz6Td) | 2:57 | 2022-06-27 |  |
-| [左边](https://open.spotify.com/track/16nxkgxMYayeSct6XY4SmW) | [小包](https://open.spotify.com/artist/70GgkbQstBRQJLwJsKADnC) | [左边](https://open.spotify.com/album/3l0aC2xHOJaDF9EWLeJQpx) | 3:02 | 2022-10-04 |  |
+| [左边](https://open.spotify.com/track/16nxkgxMYayeSct6XY4SmW) | [小包](https://open.spotify.com/artist/70GgkbQstBRQJLwJsKADnC) | [左边](https://open.spotify.com/album/3l0aC2xHOJaDF9EWLeJQpx) | 3:02 | 2022-10-04 | 2025-06-13 |
 | [巴黎的十二點](https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [巴黎的十二點](https://open.spotify.com/album/0kxdozp8b7SxMfeiJ5Pxgz) | 3:41 | 2022-06-06 | 2025-01-14 |
 | [幸福摩天輪](https://open.spotify.com/track/5ayE9R8ctpX7UGOWXCRk14) | [ALL\-RANGE](https://open.spotify.com/artist/7aRvHV5UR0tqnuWfJQy4f8) | [初次見面](https://open.spotify.com/album/6FKYBWEpQgfNvmmTfses7q) | 4:06 | 2022-06-06 | 2022-06-10 |
 | [幸福是被你需要](https://open.spotify.com/track/0KNnNIaWABM2kum1ZdCYVO) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [慢慢懂](https://open.spotify.com/album/31K53QT3eo47WrUAVGzS6O) | 3:54 | 2022-06-13 | 2022-06-21 |
@@ -267,6 +267,7 @@
 | [我好喜歡你 \- 電視劇《我好喜歡你》片尾曲](https://open.spotify.com/track/0MjmEm3cEKW65S3E3gdiST) | [Jerry Yan](https://open.spotify.com/artist/2WkfI6UZfc7Ohpyba7d086), [沈月](https://open.spotify.com/artist/1CFB64CMCUZEEdKbEzugJy) | [我好喜歡你 \(電視劇《我好喜歡你》片尾曲\)](https://open.spotify.com/album/2IIse0JWuGOBh1xDhelIid) | 3:54 | 2022-06-27 | 2022-07-23 |
 | [我好想你](https://open.spotify.com/track/6f9mkalKXgL9ijaPgFyf8c) | [黃挺瑋](https://open.spotify.com/artist/7aLIDbD2Yg3eXMhYQcNCss) | [我好想你](https://open.spotify.com/album/0zP9QFtzJ6VBHYbANHCpsq) | 3:03 | 2025-04-03 |  |
 | [我是你的半截诗](https://open.spotify.com/track/33BvvsKlwLSy0RTjY2w1ZJ) | [陈雪凝](https://open.spotify.com/artist/7hhBMsiz3xH2GHj7tbRpgW) | [我是你的半截诗](https://open.spotify.com/album/2bViqUAwFprKKlkDLivFIs) | 4:33 | 2024-03-18 | 2024-05-07 |
+| [我是多麼想你](https://open.spotify.com/track/4gXB7CbEfpf966MTmNF4oT) | [Lai](https://open.spotify.com/artist/7tbfeiO8CyfySSll1zFmqB) | [我是多麼想你](https://open.spotify.com/album/1LD9AhwIhx2pL1b6s7KJrD) | 2:44 | 2025-06-12 |  |
 | [我會很愛你](https://open.spotify.com/track/7JWyo2NuGy34VrIlecg3QA) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [我會很愛你](https://open.spotify.com/album/4gfaVHCGoM4sl3Lnzqaafx) | 3:35 | 2023-10-08 |  |
 | [我會很愛妳](https://open.spotify.com/track/1zMfP7uJhoVAfgiaRfmXHT) | [Jerry Yan](https://open.spotify.com/artist/2WkfI6UZfc7Ohpyba7d086) | [多出來的自由](https://open.spotify.com/album/5ODtcfQN1zzG3KuvyQTbKg) | 3:33 | 2024-04-15 |  |
 | [我有你 \(I Have You\)](https://open.spotify.com/track/6uZDicq06NzupDreN3HIbc) | [Caryson 黃譽韶](https://open.spotify.com/artist/2wUxL6WmZ6wcbL2BcZtcyB) | [我有你 \(I Have You\)](https://open.spotify.com/album/7uCntuvSaifoUIb5yA51Aq) | 3:33 | 2024-05-16 | 2024-06-18 |

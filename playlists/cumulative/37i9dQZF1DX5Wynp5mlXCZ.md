@@ -2,9 +2,9 @@
 
 ### [ТОП ПОП 2025](https://open.spotify.com/playlist/37i9dQZF1DX5Wynp5mlXCZ)
 
-> Топові новинки української та світової поп\-музики\. Обкладинка: MAX BARSKIH
+> Топові новинки української та світової поп\-музики\. Обкладинка: MONATIK & KAZKA
 
-366 songs - 18 hr 18 min
+367 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Поклич мене на танці](https://open.spotify.com/track/0Obbm6u7fCtroYVl2BAGB5) | [Пан Парасоля](https://open.spotify.com/artist/5bWCxW18dUL0ll835T2sQq) | [Поклич мене на танці](https://open.spotify.com/album/15tNBE7EsXqJZCSIMd01kJ) | 3:07 | 2025-01-13 | 2025-05-02 |
 | [Порцелянові очі](https://open.spotify.com/track/2om62MQdBvGvrqjpCmVNcN) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [Порцелянові очі](https://open.spotify.com/album/5BZSzynV6Y6rKkGiWL9c1E) | 3:23 | 2024-06-27 | 2025-01-03 |
 | [Посилать](https://open.spotify.com/track/1n9Nd330aNzwwUi1p7tIF9) | [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [Посилать](https://open.spotify.com/album/1s6ntybnzHb68tXPNPScFn) | 2:56 | 2025-04-10 | 2025-06-10 |
+| [Про тебе](https://open.spotify.com/track/36rT5B4D5vV8i1MA7Y4vwu) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q), [KAZKA](https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw) | [Про тебе](https://open.spotify.com/album/5UVheNDo4qMpJu0lS7s0a0) | 3:29 | 2025-06-12 |  |
 | [психічне порушення](https://open.spotify.com/track/5bx2mZ2wNh8KDHeFXbWxk8) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [психічне порушення](https://open.spotify.com/album/3o11Lbt08TOqcHemdDz5ZP) | 2:45 | 2024-07-12 | 2024-08-17 |
 | [Під пледом](https://open.spotify.com/track/1ZEHCbqnpu2joFrKAiDE8t) | [KLER](https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui) | [Під пледом](https://open.spotify.com/album/7A7f2QyUidKk2TMiX17vOn) | 2:45 | 2024-10-31 | 2024-12-13 |
 | [Пінаколада](https://open.spotify.com/track/4PMQ591DnjhGRYZNLETsno) | [Vitaliy Kozlovskiy](https://open.spotify.com/artist/1xn58akm1S6uU3ZVbNNfSw) | [Пінаколада](https://open.spotify.com/album/112jvnaQDUj6eHextLkaaS) | 3:15 | 2025-05-15 |  |
@@ -332,7 +333,7 @@
 | [серенади](https://open.spotify.com/track/5MjTUX9i3mDWv22Ns2Ekj2) | [MOLODI](https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF) | [серенади](https://open.spotify.com/album/14B1PeFpAqmHhH5RnoeCOY) | 2:25 | 2024-07-19 | 2024-07-27 |
 | [СНІГ](https://open.spotify.com/track/7jsPtPItlDphgbk6eo7VUn) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [СНІГ](https://open.spotify.com/album/1fz1Cjx3zu6ehoF1Y8NNjs) | 3:26 | 2024-12-19 | 2025-03-06 |
 | [Сонечко](https://open.spotify.com/track/4LS4vk2KWllJXuOSxbL7OU) | [Кажанна](https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk) | [Сонечко](https://open.spotify.com/album/5UCLBrAKhU86wyF8gCrsNq) | 2:47 | 2024-11-28 | 2024-12-13 |
-| [Сонячні Сплетіння](https://open.spotify.com/track/6dBJnAM9ySNaE7GOa3xJmn) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Сонячні Сплетіння](https://open.spotify.com/album/7ljwaysQV6ykzrEgift9bF) | 2:26 | 2025-06-05 |  |
+| [Сонячні Сплетіння](https://open.spotify.com/track/6dBJnAM9ySNaE7GOa3xJmn) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Сонячні Сплетіння](https://open.spotify.com/album/7ljwaysQV6ykzrEgift9bF) | 2:26 | 2025-06-05 | 2025-06-13 |
 | [Спека](https://open.spotify.com/track/50ZMU8uaMUmSVpFNQ1MT8r) | [M1SHKA](https://open.spotify.com/artist/6x6LoUxvX9ScaOW5oP0P8i) | [Спека](https://open.spotify.com/album/35bttZaFnzu6suZsECy2Ay) | 2:19 | 2025-06-05 |  |
 | [Стрес \(I guess\)](https://open.spotify.com/track/1leGMeuGSZBAasqaIFZlrx) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Стрес \(I guess\)](https://open.spotify.com/album/0GKJpKYkrFdaljq6Q22VLB) | 4:18 | 2025-02-27 | 2025-03-07 |
 | [Сутінки](https://open.spotify.com/track/7v8DeFAYHbfdRZjnlZEv3n) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [Сонь, ти спиш?](https://open.spotify.com/album/5SOprLKOOiyW248WNOnf9d) | 3:36 | 2024-12-19 | 2024-12-29 |

@@ -2,9 +2,9 @@
 
 ### [Legends Only](https://open.spotify.com/playlist/37i9dQZF1DX5a39zUmS7Hn)
 
-> New music and timeless tracks from legends only\. Cover: Pulp
+> New music and timeless tracks from legends only\. Cover: David Byrne
 
-321 songs - 22 hr 55 min
+322 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Easy Now](https://open.spotify.com/track/3i3LMvWC04mFEdiFJfqPfH) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f) | 3:53 | 2023-06-08 | 2023-07-28 |
 | [Elevator Boots \- Single Edit](https://open.spotify.com/track/3jZ6v2I4mK5ugVYwht4Mfx) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Elevator Boots](https://open.spotify.com/album/7BqWW8M4L2IyA9Cl6CssD2) | 3:56 | 2022-04-08 | 2022-07-28 |
 | [Ever Fallen in Love \(With Someone You Shouldn't've?\) \- 1996 Remastered Version](https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Love Bites](https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg) | 2:43 | 2022-04-08 |  |
+| [Everybody Laughs](https://open.spotify.com/track/1gbFItwP8tng1ZeXoqh0eS) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [Everybody Laughs](https://open.spotify.com/album/07UWuNYU2qSx5QMSJsNtkL) | 3:48 | 2025-06-12 |  |
 | [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 | 2022-07-28 | 2022-09-11 |
 | [Face It Alone](https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju) | 4:07 | 2022-10-13 | 2022-11-21 |
 | [Faceless Angel](https://open.spotify.com/track/21qvNEIeOlSpnqn5Y61PxP) | [The Coral](https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt) | [Faceless Angel](https://open.spotify.com/album/5wcA2dosAi5696zU2or7A6) | 3:26 | 2022-06-06 | 2022-06-25 |
@@ -187,7 +188,7 @@
 | [Monkey Gone to Heaven](https://open.spotify.com/track/1lFC3sMgOcDrVzNh8zXRnl) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/6ymZBbRSmzAvoSGmwAFoxm) | 2:57 | 2022-04-08 | 2022-07-26 |
 | [Motorcycle Emptiness](https://open.spotify.com/track/5ibELGcXGqX5x9TWFeNPxY) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Forever Delayed](https://open.spotify.com/album/17n0hrkbvXosApi3q1ANiv) | 5:05 | 2022-04-08 | 2022-07-29 |
 | [Motorcycle Emptiness \- Remastered](https://open.spotify.com/track/73kW4XDVEv9Vuv7eVN7BdP) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Generation Terrorists \(Legacy Edition\) \[Remastered\]](https://open.spotify.com/album/5XV63qDoIC1z2Tb0EIMVua) | 6:08 | 2022-04-08 | 2022-07-29 |
-| [Movin' on Up](https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc) | 3:48 | 2022-04-08 |  |
+| [Movin' on Up](https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc) | 3:48 | 2022-04-08 | 2025-06-13 |
 | [Mr Haze](https://open.spotify.com/track/6Ae5MCW42CFSdWsHCm3ael) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [Mr Haze](https://open.spotify.com/album/3luzmuuF7nGPYL2AquVfYJ) | 3:39 | 2022-04-08 | 2022-07-28 |
 | [My Cosmos Is Mine](https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [My Cosmos Is Mine](https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv) | 5:16 | 2023-03-10 | 2023-04-09 |
 | [My Hero](https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:20 | 2022-04-08 |  |

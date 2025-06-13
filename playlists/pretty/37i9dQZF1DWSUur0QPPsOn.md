@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Auntie Nae
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,696 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,755 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 49 | [Someone To Call My Lover](https://open.spotify.com/track/43zr9kKkeiQrshvYuvNtfM) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [All For You](https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9) | 4:32 |
 | 50 | [Get Away](https://open.spotify.com/track/7fSZkkgU1i71pCO2zapzhd) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Cloud 19](https://open.spotify.com/album/0Z4zmV6ITJ6PUjCmAsHxdE) | 3:20 |
 
-Snapshot ID: `aEc2VgAAAADSCV9kht0LiP19AXpS2UJG`
+Snapshot ID: `aEc2VgAAAABox1fCBqMuckpse6U/slyx`

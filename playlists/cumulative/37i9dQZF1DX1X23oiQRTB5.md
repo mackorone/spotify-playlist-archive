@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Nono La Grinta au top de la première playlist de rap français.
+> Siaka au top de la première playlist de rap français.
 
 337 songs - 17 hr 16 min
 

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEpLpgAAAAAD3BOWWwcvEhZhcog/l55W",
+  "snapshot_id": "aEt0egAAAACAetVnTEQB8OANneqexLeU",
   "tracks": [
     {
       "added_at": null,
@@ -47,26 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "against my shell",
-        "url": "https://open.spotify.com/album/2FtFeGlFaJMY5KTDNGPu2Z"
-      },
-      "artists": [
-        {
-          "name": "Joshua Lanuarii",
-          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
-        },
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 154554,
-      "name": "against my shell",
-      "url": "https://open.spotify.com/track/6Or8ZOAIKbzhpYwatE2Ccw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "indecision (kittydog remix!!)",
         "url": "https://open.spotify.com/album/7dXjZJt3zJQWV0z8LWVVpq"
       },
@@ -87,18 +67,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "CAN'T STOP",
-        "url": "https://open.spotify.com/album/2FElMr0pH6TSfOt1g78IjT"
+        "name": "against my shell",
+        "url": "https://open.spotify.com/album/2FtFeGlFaJMY5KTDNGPu2Z"
       },
       "artists": [
         {
-          "name": "UrvTek",
-          "url": "https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh"
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        },
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 178238,
-      "name": "CAN'T STOP",
-      "url": "https://open.spotify.com/track/2TMC4JYz0pD8nJlm65IBKN"
+      "duration_ms": 154554,
+      "name": "against my shell",
+      "url": "https://open.spotify.com/track/6Or8ZOAIKbzhpYwatE2Ccw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
+        "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
+      },
+      "artists": [
+        {
+          "name": "STYXVII",
+          "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
+        }
+      ],
+      "duration_ms": 183124,
+      "name": "BE KIND 2 YOURSELF",
+      "url": "https://open.spotify.com/track/6Y9wr8rgb66dz6QAjMjPwM"
     },
     {
       "added_at": null,
@@ -119,18 +119,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
-        "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
+        "name": "CAN'T STOP",
+        "url": "https://open.spotify.com/album/2FElMr0pH6TSfOt1g78IjT"
       },
       "artists": [
         {
-          "name": "STYXVII",
-          "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
+          "name": "UrvTek",
+          "url": "https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh"
         }
       ],
-      "duration_ms": 183124,
-      "name": "BE KIND 2 YOURSELF",
-      "url": "https://open.spotify.com/track/6Y9wr8rgb66dz6QAjMjPwM"
+      "duration_ms": 178238,
+      "name": "CAN'T STOP",
+      "url": "https://open.spotify.com/track/2TMC4JYz0pD8nJlm65IBKN"
     },
     {
       "added_at": null,
@@ -159,6 +159,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "tired brain analysis",
+        "url": "https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        },
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "Tell me!!",
+      "url": "https://open.spotify.com/track/4JqNAoZkRgZZrZPgmQe2PI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DANCE DANCE BABY",
         "url": "https://open.spotify.com/album/0kNyvop4MS6vXZEgWM5RCt"
       },
@@ -183,38 +203,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "tired brain analysis",
-        "url": "https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj"
+        "name": "outcast (they all hate me)",
+        "url": "https://open.spotify.com/album/5rlkspTW5YrreKCQH1Sb62"
       },
       "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        },
         {
           "name": "Kittydog",
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 193103,
-      "name": "Tell me!!",
-      "url": "https://open.spotify.com/track/4JqNAoZkRgZZrZPgmQe2PI"
+      "duration_ms": 182624,
+      "name": "outcast",
+      "url": "https://open.spotify.com/track/7uIVNtueVeY9WjFzBmZB5J"
     },
     {
       "added_at": null,
       "album": {
-        "name": "LOSE LOSE LOSE",
-        "url": "https://open.spotify.com/album/4nT5Eq450S1xfQ37dpAGjP"
+        "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
+        "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
       },
       "artists": [
         {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+          "name": "STYXVII",
+          "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
         }
       ],
-      "duration_ms": 88000,
-      "name": "LOSE LOSE LOSE",
-      "url": "https://open.spotify.com/track/5pgw9c91m8MrdU2R7t0DAX"
+      "duration_ms": 128957,
+      "name": "ITS NOT ME ITS YOU",
+      "url": "https://open.spotify.com/track/1qoTwMDxMyj1c4RZEw2e5G"
     },
     {
       "added_at": null,
@@ -235,38 +251,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
-        "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
+        "name": "100 byaks and the Ultimate Swag",
+        "url": "https://open.spotify.com/album/4Sm0L8lvo7eiMmmaroAaHw"
       },
       "artists": [
         {
-          "name": "STYXVII",
-          "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
+          "name": "thquib",
+          "url": "https://open.spotify.com/artist/4GPqq6X7U4krVNpLUg4PTm"
         }
       ],
-      "duration_ms": 209958,
-      "name": "CATASTR0PHZ1NG ALL BY URSELF",
-      "url": "https://open.spotify.com/track/3OhN8qX8J6AP2aDWPiPIHa"
+      "duration_ms": 135529,
+      "name": "The Ultimate Swag",
+      "url": "https://open.spotify.com/track/3m5UPxagPp7T6hA7Kh7Iil"
     },
     {
       "added_at": null,
       "album": {
-        "name": "narcissist",
-        "url": "https://open.spotify.com/album/7iFOER2XQXI5iG3O0DRBBH"
+        "name": "STAY @ HOME SUMMER 2020",
+        "url": "https://open.spotify.com/album/6ELu8qZXh5UJRGJsbSBx5F"
       },
       "artists": [
         {
-          "name": "WoopDoo",
-          "url": "https://open.spotify.com/artist/6AQxB8licfD7NCm3tM5mwO"
-        },
-        {
-          "name": "forrest nelson",
-          "url": "https://open.spotify.com/artist/2Bjwut8ob5WOFP3VZSszeE"
+          "name": "MAILPUP",
+          "url": "https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk"
         }
       ],
-      "duration_ms": 170403,
-      "name": "narcissist",
-      "url": "https://open.spotify.com/track/15i2WzxsdAdmV5hGoFEJd3"
+      "duration_ms": 130769,
+      "name": "THIS ONE'S FOR THE 2000's FURRIES",
+      "url": "https://open.spotify.com/track/0RXYf3jDojoao1FiOh9QzT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOSE LOSE LOSE",
+        "url": "https://open.spotify.com/album/4nT5Eq450S1xfQ37dpAGjP"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 88000,
+      "name": "LOSE LOSE LOSE",
+      "url": "https://open.spotify.com/track/5pgw9c91m8MrdU2R7t0DAX"
     },
     {
       "added_at": null,
@@ -295,34 +323,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "no response",
-        "url": "https://open.spotify.com/album/3cgXBePYbhtd8qlpFGTGMm"
+        "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
+        "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
       },
       "artists": [
         {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+          "name": "STYXVII",
+          "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
         }
       ],
-      "duration_ms": 121874,
-      "name": "no response",
-      "url": "https://open.spotify.com/track/3H4LJY6nN7dkufYO6BbDBU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KNOT SONG",
-        "url": "https://open.spotify.com/album/2GBCGdEeAnLp5Iy7aVmclT"
-      },
-      "artists": [
-        {
-          "name": "Pent Up Pup",
-          "url": "https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "KNOT SONG",
-      "url": "https://open.spotify.com/track/1vxuF4XwRtYBkUgWa8Ukub"
+      "duration_ms": 174000,
+      "name": "HOW TO FORGET YOU (destroy you)",
+      "url": "https://open.spotify.com/track/0fSMq4iJJXWK65V1H5umyb"
     },
     {
       "added_at": null,
@@ -343,40 +355,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
-        "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
+        "name": "KNOT SONG",
+        "url": "https://open.spotify.com/album/2GBCGdEeAnLp5Iy7aVmclT"
       },
       "artists": [
         {
-          "name": "STYXVII",
-          "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
+          "name": "Pent Up Pup",
+          "url": "https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy"
         }
       ],
-      "duration_ms": 174000,
-      "name": "HOW TO FORGET YOU (destroy you)",
-      "url": "https://open.spotify.com/track/0fSMq4iJJXWK65V1H5umyb"
+      "duration_ms": 138000,
+      "name": "KNOT SONG",
+      "url": "https://open.spotify.com/track/1vxuF4XwRtYBkUgWa8Ukub"
     },
     {
       "added_at": null,
       "album": {
-        "name": "100 byaks and the Ultimate Swag",
-        "url": "https://open.spotify.com/album/4Sm0L8lvo7eiMmmaroAaHw"
-      },
-      "artists": [
-        {
-          "name": "thquib",
-          "url": "https://open.spotify.com/artist/4GPqq6X7U4krVNpLUg4PTm"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "The Ultimate Swag",
-      "url": "https://open.spotify.com/track/3m5UPxagPp7T6hA7Kh7Iil"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "outcast (they all hate me)",
-        "url": "https://open.spotify.com/album/5rlkspTW5YrreKCQH1Sb62"
+        "name": "no response",
+        "url": "https://open.spotify.com/album/3cgXBePYbhtd8qlpFGTGMm"
       },
       "artists": [
         {
@@ -384,9 +380,29 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 182624,
-      "name": "outcast",
-      "url": "https://open.spotify.com/track/7uIVNtueVeY9WjFzBmZB5J"
+      "duration_ms": 121874,
+      "name": "no response",
+      "url": "https://open.spotify.com/track/3H4LJY6nN7dkufYO6BbDBU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "narcissist",
+        "url": "https://open.spotify.com/album/7iFOER2XQXI5iG3O0DRBBH"
+      },
+      "artists": [
+        {
+          "name": "WoopDoo",
+          "url": "https://open.spotify.com/artist/6AQxB8licfD7NCm3tM5mwO"
+        },
+        {
+          "name": "forrest nelson",
+          "url": "https://open.spotify.com/artist/2Bjwut8ob5WOFP3VZSszeE"
+        }
+      ],
+      "duration_ms": 170403,
+      "name": "narcissist",
+      "url": "https://open.spotify.com/track/15i2WzxsdAdmV5hGoFEJd3"
     },
     {
       "added_at": null,
@@ -415,18 +431,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "IDK",
-        "url": "https://open.spotify.com/album/1A2J8rZmQaAHVFBWzW3I5v"
+        "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
+        "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
       },
       "artists": [
         {
-          "name": "little purr man",
-          "url": "https://open.spotify.com/artist/2EtVScBCzjWga2zZeg3IHn"
+          "name": "STYXVII",
+          "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
         }
       ],
-      "duration_ms": 99596,
-      "name": "IDK",
-      "url": "https://open.spotify.com/track/0SF9NvnC6FIxeePYEMD93k"
+      "duration_ms": 209958,
+      "name": "CATASTR0PHZ1NG ALL BY URSELF",
+      "url": "https://open.spotify.com/track/3OhN8qX8J6AP2aDWPiPIHa"
     },
     {
       "added_at": null,
@@ -451,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
-        "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
-      },
-      "artists": [
-        {
-          "name": "STYXVII",
-          "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
-        }
-      ],
-      "duration_ms": 128957,
-      "name": "ITS NOT ME ITS YOU",
-      "url": "https://open.spotify.com/track/1qoTwMDxMyj1c4RZEw2e5G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "superposition",
         "url": "https://open.spotify.com/album/2qNziZqBtpFgd9k2FSGgV2"
       },
@@ -479,58 +479,6 @@
       "duration_ms": 131378,
       "name": "superposition",
       "url": "https://open.spotify.com/track/0foq1CuScisKw9QXmktboo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pent Up Pup",
-        "url": "https://open.spotify.com/album/36MfMEJQjrCbWDNty7rBjJ"
-      },
-      "artists": [
-        {
-          "name": "Pent Up Pup",
-          "url": "https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy"
-        }
-      ],
-      "duration_ms": 97250,
-      "name": "PEG ME",
-      "url": "https://open.spotify.com/track/2gBwXk0yNuDfekC7YsILv7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AWAY FROM WHAT MATTERS",
-        "url": "https://open.spotify.com/album/4BFOVKidGy8yuH8JbM6iI2"
-      },
-      "artists": [
-        {
-          "name": "Joshua Lanuarii",
-          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
-        },
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "rose tints",
-      "url": "https://open.spotify.com/track/5PcC91JT46zbmpSXO4htwO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Digital Hell (KinitoPET Song)",
-        "url": "https://open.spotify.com/album/4ef1yvEjWXHxyAcx0dbtTu"
-      },
-      "artists": [
-        {
-          "name": "Natzaro",
-          "url": "https://open.spotify.com/artist/33CmSouaE4mAIuR7rGwFgm"
-        }
-      ],
-      "duration_ms": 175609,
-      "name": "Digital Hell (KinitoPET Song)",
-      "url": "https://open.spotify.com/track/2Ydn79hWyJuzElWRk0sO0Z"
     },
     {
       "added_at": null,
@@ -555,56 +503,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "freeze up",
-        "url": "https://open.spotify.com/album/2ksgqQFp3aogxxyfmhtYeN"
+        "name": "IDK",
+        "url": "https://open.spotify.com/album/1A2J8rZmQaAHVFBWzW3I5v"
       },
       "artists": [
         {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+          "name": "little purr man",
+          "url": "https://open.spotify.com/artist/2EtVScBCzjWga2zZeg3IHn"
         }
       ],
-      "duration_ms": 117408,
-      "name": "freeze up",
-      "url": "https://open.spotify.com/track/2AcVmJdkcBv6OWIiSyW35a"
+      "duration_ms": 99596,
+      "name": "IDK",
+      "url": "https://open.spotify.com/track/0SF9NvnC6FIxeePYEMD93k"
     },
     {
       "added_at": null,
       "album": {
-        "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
-        "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
-      },
-      "artists": [
-        {
-          "name": "STYXVII",
-          "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "VICTIMiZED",
-      "url": "https://open.spotify.com/track/6K8EAeBdTspjpkHwuIn7H9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FURFAG",
-        "url": "https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0"
-      },
-      "artists": [
-        {
-          "name": "Pent Up Pup",
-          "url": "https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy"
-        }
-      ],
-      "duration_ms": 284265,
-      "name": "FURFAG",
-      "url": "https://open.spotify.com/track/7G1vLoPNQrF6aV0pwnhTrF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart After Dark",
-        "url": "https://open.spotify.com/album/2I0VYlIm2Ilkojw3maV72G"
+        "name": "AWAY FROM WHAT MATTERS",
+        "url": "https://open.spotify.com/album/4BFOVKidGy8yuH8JbM6iI2"
       },
       "artists": [
         {
@@ -612,65 +528,13 @@
           "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
         },
         {
-          "name": "Peachii",
-          "url": "https://open.spotify.com/artist/3iB8jGXtuPgCJFk4vEA2Bn"
-        },
-        {
           "name": "Kittydog",
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 278700,
-      "name": "i'm down",
-      "url": "https://open.spotify.com/track/7uzi1qfd28lYxjJDxhiH5y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "STAY @ HOME SUMMER 2020",
-        "url": "https://open.spotify.com/album/6ELu8qZXh5UJRGJsbSBx5F"
-      },
-      "artists": [
-        {
-          "name": "MAILPUP",
-          "url": "https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk"
-        }
-      ],
-      "duration_ms": 130769,
-      "name": "THIS ONE'S FOR THE 2000's FURRIES",
-      "url": "https://open.spotify.com/track/0RXYf3jDojoao1FiOh9QzT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COPE",
-        "url": "https://open.spotify.com/album/4LXcS5EqD83HVx62DUDiSY"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 109557,
-      "name": "COPE",
-      "url": "https://open.spotify.com/track/5nZuC9gQvzHxPnbZWihQ0M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "100 byaks and the Ultimate Swag",
-        "url": "https://open.spotify.com/album/4Sm0L8lvo7eiMmmaroAaHw"
-      },
-      "artists": [
-        {
-          "name": "thquib",
-          "url": "https://open.spotify.com/artist/4GPqq6X7U4krVNpLUg4PTm"
-        }
-      ],
-      "duration_ms": 135335,
-      "name": "Birds Be Like",
-      "url": "https://open.spotify.com/track/4i81dqSMGtv3imzSC5hVLf"
+      "duration_ms": 194693,
+      "name": "rose tints",
+      "url": "https://open.spotify.com/track/5PcC91JT46zbmpSXO4htwO"
     },
     {
       "added_at": null,
@@ -684,25 +548,25 @@
           "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
         }
       ],
-      "duration_ms": 164500,
-      "name": "Who are you pretending to be?",
-      "url": "https://open.spotify.com/track/69A4Q06Iti2SBP2bOr9keD"
+      "duration_ms": 108500,
+      "name": "Remember when i was 14 that was so CRiNGE lol",
+      "url": "https://open.spotify.com/track/7JGpMaiyc5cksPJwHpUYWr"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Hello Kitty Scrapbook",
-        "url": "https://open.spotify.com/album/5xPATnz095EGUQlY41wYxj"
+        "name": "Bees in my head (remake)",
+        "url": "https://open.spotify.com/album/3koNIrMX6ETipw9PTF7P9l"
       },
       "artists": [
         {
-          "name": "Milk In The Microwave",
-          "url": "https://open.spotify.com/artist/2Gt30Dr76JrHbGnBf4K9e0"
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 123245,
-      "name": "One Day You'll Die (I do not like this)",
-      "url": "https://open.spotify.com/track/7wuwuepA7yWz9lKBUle8xE"
+      "duration_ms": 129417,
+      "name": "Bees in my head - Remake",
+      "url": "https://open.spotify.com/track/6x0klaEnNtoq4qOBXqgho7"
     },
     {
       "added_at": null,
@@ -731,8 +595,64 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bees in my head (remake)",
-        "url": "https://open.spotify.com/album/3koNIrMX6ETipw9PTF7P9l"
+        "name": "my teeth will free you",
+        "url": "https://open.spotify.com/album/2WZ83RZZpwYfz1JFWYOGKd"
+      },
+      "artists": [
+        {
+          "name": "sixwing",
+          "url": "https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "my teeth will free you",
+      "url": "https://open.spotify.com/track/5cCxIwMcjhYVWHGu5RLn5G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AlterHuman",
+        "url": "https://open.spotify.com/album/3d0H87jQp62ycZXhCzHlau"
+      },
+      "artists": [
+        {
+          "name": "Autumn J.",
+          "url": "https://open.spotify.com/artist/5F2rhyaflgXmVeW7NMUXAW"
+        }
+      ],
+      "duration_ms": 153575,
+      "name": "AlterHuman",
+      "url": "https://open.spotify.com/track/5iFc7qq3RJDAvyGSHFm27Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart After Dark",
+        "url": "https://open.spotify.com/album/2I0VYlIm2Ilkojw3maV72G"
+      },
+      "artists": [
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        },
+        {
+          "name": "Peachii",
+          "url": "https://open.spotify.com/artist/3iB8jGXtuPgCJFk4vEA2Bn"
+        },
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 278700,
+      "name": "i'm down",
+      "url": "https://open.spotify.com/track/7uzi1qfd28lYxjJDxhiH5y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "jus make it go boom remake",
+        "url": "https://open.spotify.com/album/6QewYZxJeZJT1kYQ74fQtV"
       },
       "artists": [
         {
@@ -740,25 +660,97 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 129417,
-      "name": "Bees in my head - Remake",
-      "url": "https://open.spotify.com/track/6x0klaEnNtoq4qOBXqgho7"
+      "duration_ms": 92322,
+      "name": "jus make it go boom remake",
+      "url": "https://open.spotify.com/track/5uvFhFuHy9sI9ZXf05mOn9"
     },
     {
       "added_at": null,
       "album": {
-        "name": "CLICK ME",
-        "url": "https://open.spotify.com/album/6kSWqgbttx4RccRt5lNWIf"
+        "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
+        "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
       },
       "artists": [
         {
-          "name": "KOKAYNA",
-          "url": "https://open.spotify.com/artist/4BHrZkg0EddxG2e7pGFmac"
+          "name": "STYXVII",
+          "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
         }
       ],
-      "duration_ms": 125201,
-      "name": "CLICK ME",
-      "url": "https://open.spotify.com/track/1ggoCXbokDXdPS4UkKWMjN"
+      "duration_ms": 148500,
+      "name": "VICTIMiZED",
+      "url": "https://open.spotify.com/track/6K8EAeBdTspjpkHwuIn7H9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bite",
+        "url": "https://open.spotify.com/album/5f3L1abNkfjlFBw3zv8ncu"
+      },
+      "artists": [
+        {
+          "name": "Daxbak",
+          "url": "https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv"
+        },
+        {
+          "name": "\u2665 GOJII \u2665",
+          "url": "https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY"
+        }
+      ],
+      "duration_ms": 265600,
+      "name": "Bite",
+      "url": "https://open.spotify.com/track/0dl4v6E1Afw5K41K2PukJA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "c.e.d. (manic)",
+        "url": "https://open.spotify.com/album/665k9OEF40QZt98Y2c2Z3a"
+      },
+      "artists": [
+        {
+          "name": "sixwing",
+          "url": "https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV"
+        }
+      ],
+      "duration_ms": 98482,
+      "name": "c.e.d. (manic)",
+      "url": "https://open.spotify.com/track/0Vji7774dqXL6TihvdLEEx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wish",
+        "url": "https://open.spotify.com/album/1S9ik9FsIIsR0Ayt8lSAWg"
+      },
+      "artists": [
+        {
+          "name": "Draffish",
+          "url": "https://open.spotify.com/artist/0q2jrVdnsi8XIYgr532dSP"
+        },
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 87719,
+      "name": "mango girl",
+      "url": "https://open.spotify.com/track/5ep9A7M2LHIQxMCngAO83H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COPE",
+        "url": "https://open.spotify.com/album/4LXcS5EqD83HVx62DUDiSY"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 109557,
+      "name": "COPE",
+      "url": "https://open.spotify.com/track/5nZuC9gQvzHxPnbZWihQ0M"
     },
     {
       "added_at": null,
@@ -788,41 +780,9 @@
           "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
         }
       ],
-      "duration_ms": 108500,
-      "name": "Remember when i was 14 that was so CRiNGE lol",
-      "url": "https://open.spotify.com/track/7JGpMaiyc5cksPJwHpUYWr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fox Paws",
-        "url": "https://open.spotify.com/album/0nsb8DM6Dhzb4LrHN5zC8g"
-      },
-      "artists": [
-        {
-          "name": "Autumn J.",
-          "url": "https://open.spotify.com/artist/5F2rhyaflgXmVeW7NMUXAW"
-        }
-      ],
-      "duration_ms": 177679,
-      "name": "Fox Paws",
-      "url": "https://open.spotify.com/track/7tiPt81dGVuX14yNVe8cvT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "plug me in",
-        "url": "https://open.spotify.com/album/66vy2eQCgPVxMWbf8XTZap"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 127246,
-      "name": "plug me in",
-      "url": "https://open.spotify.com/track/56lS40vp0sFpgFwvVle1I8"
+      "duration_ms": 153124,
+      "name": "IDOLiZER",
+      "url": "https://open.spotify.com/track/3ubsCWDJ0AJW9mb4NTgJS6"
     },
     {
       "added_at": null,
@@ -851,34 +811,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "JuiceBox",
-        "url": "https://open.spotify.com/album/7aVYiNPz1HtCitbhFBg5V2"
+        "name": "Animal Cannibal",
+        "url": "https://open.spotify.com/album/7eWStyA5n7CCooElZbEZaF"
       },
       "artists": [
         {
-          "name": "Daxbak",
-          "url": "https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv"
+          "name": "Avery Quest",
+          "url": "https://open.spotify.com/artist/0rAepzg4x8UgigiHl3ug9L"
         }
       ],
-      "duration_ms": 173333,
-      "name": "JuiceBox",
-      "url": "https://open.spotify.com/track/0yWm18CMc61svH5xM16X9z"
+      "duration_ms": 156032,
+      "name": "Animal Cannibal",
+      "url": "https://open.spotify.com/track/4TCzN3txa8LoRXGeV1JPVg"
     },
     {
       "added_at": null,
       "album": {
-        "name": "idaidaida",
-        "url": "https://open.spotify.com/album/2MH0snsDzFgboLpkp3eKyI"
+        "name": "freeze up",
+        "url": "https://open.spotify.com/album/2ksgqQFp3aogxxyfmhtYeN"
       },
       "artists": [
         {
-          "name": "Ida Deerz",
-          "url": "https://open.spotify.com/artist/5sfvNysQqGIyLAyd2CxHnO"
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 85500,
-      "name": "PUPPY TF",
-      "url": "https://open.spotify.com/track/7Mf4WiQGRUBhWhDjiYjbLt"
+      "duration_ms": 117408,
+      "name": "freeze up",
+      "url": "https://open.spotify.com/track/2AcVmJdkcBv6OWIiSyW35a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FURFAG",
+        "url": "https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0"
+      },
+      "artists": [
+        {
+          "name": "Pent Up Pup",
+          "url": "https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy"
+        }
+      ],
+      "duration_ms": 284265,
+      "name": "FURFAG",
+      "url": "https://open.spotify.com/track/7G1vLoPNQrF6aV0pwnhTrF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "lemonade",
+        "url": "https://open.spotify.com/album/3Fc5xsRixuQGYEinvfQBR3"
+      },
+      "artists": [
+        {
+          "name": "little purr man",
+          "url": "https://open.spotify.com/artist/2EtVScBCzjWga2zZeg3IHn"
+        }
+      ],
+      "duration_ms": 173947,
+      "name": "lemonade",
+      "url": "https://open.spotify.com/track/7uWPcxNE6mdtDzKR9hinlN"
     },
     {
       "added_at": null,
@@ -892,9 +884,25 @@
           "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
         }
       ],
-      "duration_ms": 153124,
-      "name": "IDOLiZER",
-      "url": "https://open.spotify.com/track/3ubsCWDJ0AJW9mb4NTgJS6"
+      "duration_ms": 164500,
+      "name": "Who are you pretending to be?",
+      "url": "https://open.spotify.com/track/69A4Q06Iti2SBP2bOr9keD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "100 byaks and the Ultimate Swag",
+        "url": "https://open.spotify.com/album/4Sm0L8lvo7eiMmmaroAaHw"
+      },
+      "artists": [
+        {
+          "name": "thquib",
+          "url": "https://open.spotify.com/artist/4GPqq6X7U4krVNpLUg4PTm"
+        }
+      ],
+      "duration_ms": 135335,
+      "name": "Birds Be Like",
+      "url": "https://open.spotify.com/track/4i81dqSMGtv3imzSC5hVLf"
     }
   ],
   "unique_name": "Kittydog Radio",

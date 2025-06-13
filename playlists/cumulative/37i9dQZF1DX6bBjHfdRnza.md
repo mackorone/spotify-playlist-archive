@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of the best new dance music by independent artists and labels, featuring Collect 200\. Artwork by Rewina Beshue.
 
-2,924 songs - 8 day 1 hr 44 min
+2,925 songs - 8 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1770,6 +1770,7 @@
 | [never let u](https://open.spotify.com/track/3zQCKVbt7gy4GvP4l5l3Jk) | [BOKI](https://open.spotify.com/artist/2xNNVFPSpFiz5ghriXRMjh) | [never let u](https://open.spotify.com/album/5tWIpA7QMT5ISbVP265wtq) | 4:07 | 2024-07-03 | 2024-08-10 |
 | [Never Look Back \- Radio Edit](https://open.spotify.com/track/4GQqyI6u6aTlLhi4XbYnpb) | [Jasper Fioole](https://open.spotify.com/artist/3yaOMhUsR9lNPlOg7bNzyS) | [Never Look Back EP](https://open.spotify.com/album/5LUY8078i75Ig2hExJVtdA) | 3:23 | 2025-02-26 | 2025-03-20 |
 | [Never Over](https://open.spotify.com/track/7y4nxTve03mmlUaNa304b9) | [Hannah Monica](https://open.spotify.com/artist/2VOcw45qKk1PIpLdwIuAID) | [Never Over](https://open.spotify.com/album/70YSmuhzvbAN3fTHmcG0Xe) | 6:43 | 2022-01-12 | 2022-02-24 |
+| [Never Wanted It To End](https://open.spotify.com/track/4QOVuL0aWA1FNKG85kRjpw) | [FULLCLIP](https://open.spotify.com/artist/1WEgIPUvIq0ruHxECA7tR9) | [Never Wanted It To End](https://open.spotify.com/album/6arrhLTMpCYwBiAWgh9K8g) | 3:32 | 2025-06-12 |  |
 | [New Kind of Soft \(feat\. Neon Priest\)](https://open.spotify.com/track/4gLmqdOZLGw81pgfHebFWE) | [Holdo](https://open.spotify.com/artist/6KGJwNmZhtZIIcDkMLAfDC), [Neon Priest](https://open.spotify.com/artist/2ABpmoGVflrSQ8thdBjyrU) | [≈](https://open.spotify.com/album/712cONt2604dDCMKesYLN6) | 2:57 | 2024-09-20 | 2024-12-05 |
 | [New Life Livin](https://open.spotify.com/track/5oUSwHrEKXPo8JoEUDWAvY) | [Kai Alcé](https://open.spotify.com/artist/28okccoDb505PNOF3LeMTi) | [New Life Livin](https://open.spotify.com/album/0RzCStjG3EleF3nBseRL5z) | 5:11 | 2023-08-09 | 2023-09-21 |
 | [New Religion](https://open.spotify.com/track/3MSaIajYgnM3pZf9uXA0K6) | [Artsea](https://open.spotify.com/artist/1byJENnR4rfRDs6AyFvSU9) | [New Religion / In Spirit](https://open.spotify.com/album/7GnELPDio4G6tF9m33cWdi) | 4:04 | 2022-06-08 | 2022-07-21 |
@@ -2458,7 +2459,7 @@
 | [Take You Back](https://open.spotify.com/track/0BvGRysvBiEOq6tcamIHyO) | [Pagan](https://open.spotify.com/artist/64DMGOuRN75gf19FY7eVme) | [Take You Back](https://open.spotify.com/album/5QC8Vbr0mCpxqCA0fIFFB7) | 3:39 | 2023-11-15 | 2023-11-30 |
 | [Take You High](https://open.spotify.com/track/0gOfgG4VQl5nsvQIQbO6MM) | [Gianni Keys](https://open.spotify.com/artist/64bY4jhUqYh1B0rdkZX6Yz) | [Take You High](https://open.spotify.com/album/1OHdcouDNkxLQ0r2jmbJbg) | 3:27 | 2022-06-15 | 2022-08-11 |
 | [Take You Higher](https://open.spotify.com/track/3gtBhvqccLeNmnHylfYF6m) | [Benjamin](https://open.spotify.com/artist/1gXHnuUhhoG0Oia1mJafPE) | [Take You Higher](https://open.spotify.com/album/7iA9Qb9uhKsT6uDgM0juHm) | 4:51 | 2025-06-06 |  |
-| [Take Your Pants Off](https://open.spotify.com/track/4nZ9EgYqbkInGTNTJZJRuB) | [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Take Your Pants Off](https://open.spotify.com/album/3O5rg3CGsGHRtXkY6IEleT) | 3:31 | 2025-05-07 |  |
+| [Take Your Pants Off](https://open.spotify.com/track/4nZ9EgYqbkInGTNTJZJRuB) | [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Take Your Pants Off](https://open.spotify.com/album/3O5rg3CGsGHRtXkY6IEleT) | 3:31 | 2025-05-07 | 2025-06-13 |
 | [TAKINAKI](https://open.spotify.com/track/1HrV3v5WFSI1r6vA1YWyKM) | [Tidis](https://open.spotify.com/artist/382RN83tXiZzt5v4hbvFN7) | [RESPIRANDO](https://open.spotify.com/album/2PxAGjevVAxTu0K0RyIEz1) | 4:47 | 2023-08-16 | 2023-09-21 |
 | [Talk](https://open.spotify.com/track/5nXaEHfxuPjjw4Ot9PT7DU) | [Gemi](https://open.spotify.com/artist/3KUQf69bdptSNDeotadJfm) | [Talk](https://open.spotify.com/album/2X96zSO5P01JjhZLxJspef) | 3:50 | 2021-12-01 | 2022-01-27 |
 | [talk](https://open.spotify.com/track/0ar3UqRjJEwYfx2SBlefnF) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [talk](https://open.spotify.com/album/6JtweGxznTHck5hZ4MIipF) | 3:10 | 2023-05-03 | 2023-06-01 |

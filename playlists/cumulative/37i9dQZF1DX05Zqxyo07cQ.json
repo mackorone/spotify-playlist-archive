@@ -322,7 +322,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 179324,
       "name": "Acknowledge",
       "url": "https://open.spotify.com/track/3b9FmqamhswFKthJpVEGHk"
@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 194433,
       "name": "Blanket",
       "url": "https://open.spotify.com/track/7xJebntmrp0BbrI3WHMgyS"
@@ -3332,7 +3332,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 165677,
       "name": "Doze",
       "url": "https://open.spotify.com/track/47SXoCdTY5ywuh7Fbf9Cjf"
@@ -3368,7 +3368,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 180750,
       "name": "Dream Prelude",
       "url": "https://open.spotify.com/track/16APbZysrMuvYvrfcvCZye"
@@ -3656,7 +3656,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 170454,
       "name": "Droplets",
       "url": "https://open.spotify.com/track/1LUljKZFZcHctU5OBMqFmG"
@@ -3926,7 +3926,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 153000,
       "name": "Ember Bloom",
       "url": "https://open.spotify.com/track/5XUlEvDmDgZk30q2siHADj"
@@ -3998,7 +3998,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-02",
+      "date_removed": null,
       "duration_ms": 214166,
       "name": "Enacted",
       "url": "https://open.spotify.com/track/1eQ8RtqtzkigYMsL1PtVWq"
@@ -6417,6 +6417,24 @@
     },
     {
       "album": {
+        "name": "Introspection",
+        "url": "https://open.spotify.com/album/4VQx4jQQp392KVR4bLIPYN"
+      },
+      "artists": [
+        {
+          "name": "Aveni\u00f3s",
+          "url": "https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159314,
+      "name": "Introspection",
+      "url": "https://open.spotify.com/track/4wtpJ0oLbPI5WAwXd7eZxD"
+    },
+    {
+      "album": {
         "name": "Invisible",
         "url": "https://open.spotify.com/album/2Wwk3drx26O3zV0B9rr7RK"
       },
@@ -7796,7 +7814,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 145920,
       "name": "Moments",
       "url": "https://open.spotify.com/track/09gam7W4R7EnINv1m1j3Pi"
@@ -8084,7 +8102,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 158700,
       "name": "Neptune",
       "url": "https://open.spotify.com/track/3Gk3htA0t07SKqHAE6Ky7b"
@@ -10759,6 +10777,24 @@
     },
     {
       "album": {
+        "name": "Skyfold",
+        "url": "https://open.spotify.com/album/2fPUmnWD9iXgRHsYBLOaAQ"
+      },
+      "artists": [
+        {
+          "name": "Ziraphine",
+          "url": "https://open.spotify.com/artist/11GUbolCBySYUL4wIUv1Ex"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Skyfold",
+      "url": "https://open.spotify.com/track/5482qIt2ZNCpnsxLiiRdob"
+    },
+    {
+      "album": {
         "name": "Sleep Infusion",
         "url": "https://open.spotify.com/album/4Frl4Lw6O4AFWWIiiQAuXW"
       },
@@ -12322,6 +12358,24 @@
       "duration_ms": 164500,
       "name": "Thoughts about the Past",
       "url": "https://open.spotify.com/track/3mT4rBTlHe90bcKv7Vq38T"
+    },
+    {
+      "album": {
+        "name": "Through Orion",
+        "url": "https://open.spotify.com/album/32lsmH7Pclo8SIcV0ibq6x"
+      },
+      "artists": [
+        {
+          "name": "Athyer Cane",
+          "url": "https://open.spotify.com/artist/2sTgqDWg3rChYprRvzRnoX"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169811,
+      "name": "Through Orion",
+      "url": "https://open.spotify.com/track/32YgG8zTpjCytaqP5hdiID"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI?si=xhSC5\_ylRBGOp8h5jv25BQ">Joel Lwaga</a>
 
-238 songs - 20 hr 51 min
+239 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Hakuna Wa Kufanana Na Yeye](https://open.spotify.com/track/5aBT3GfDCZP2GQZa3OqOF6) | [Sifaeli Mwabuka](https://open.spotify.com/artist/1o3pLofmtcArrMaoHPgrqq) | [Hakuna Wa Kufanana Na Yeye](https://open.spotify.com/album/5Sv5uFjTEmMzgMg0MXyg9c) | 7:16 | 2023-09-22 | 2024-05-24 |
 | [Hakuna Wakufanana](https://open.spotify.com/track/2iDJTL5XerzoErsduFYWVQ) | [Dan Em](https://open.spotify.com/artist/5UysAc77bsT1C6XJIZn1u1) | [Halleluya \(Worship 1\)](https://open.spotify.com/album/6iHWWsouuBWpKUzJlROoYr) | 5:06 | 2022-06-24 |  |
 | [Halal](https://open.spotify.com/track/4UdqbEzCQ7OqHqb8i8AlVF) | [Mathooko](https://open.spotify.com/artist/6JRgBJKwtMEnApK7bn1Svw) | [Halal](https://open.spotify.com/album/5Uqe1LZJyXpqBJuxZw2K90) | 2:18 | 2023-07-14 | 2023-11-25 |
+| [Halleluya](https://open.spotify.com/track/25ymsjbR025pCqSJjAL3W1) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Halleluya](https://open.spotify.com/album/2WqU7vDpaVwNvjRZ7ljIwb) | 3:00 | 2025-06-13 |  |
 | [Halleluyah](https://open.spotify.com/track/5PUw4w2gNG8ICTO5nPfwpz) | [Enkay Ogboruche](https://open.spotify.com/artist/3v1qozG4k1E878TKsLr6eX), [Evelyn Wanjiru](https://open.spotify.com/artist/7EWjYW7bIdaCPSa7XvUyQK) | [Halleluyah](https://open.spotify.com/album/6rqvnt4GNUTHEBMpjdyDSW) | 4:00 | 2024-12-06 | 2025-03-21 |
 | [Hararat](https://open.spotify.com/track/6sNaQRTxAwmFzC0Pe3zyNF) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Hararat](https://open.spotify.com/album/3Le8OrIOMXZvK2JnNR21hS) | 3:45 | 2023-04-07 | 2024-09-06 |
 | [Hatua Nyingine](https://open.spotify.com/track/3KxKo4HOHceQbD1wRQCtVU) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Hatua Nyingine](https://open.spotify.com/album/5tyFYjcZ8ZZuIEPupzmWph) | 3:01 | 2024-05-03 |  |
@@ -204,7 +205,7 @@
 | [TIGANA NA ADU](https://open.spotify.com/track/0qvETK86JRvJLnG6nWQJbM) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [TIGANA NA ADU](https://open.spotify.com/album/6IeejLFrwiVD4tiD81akz3) | 3:02 | 2024-05-17 | 2024-06-01 |
 | [Tosheka](https://open.spotify.com/track/7wMBdjdvTxLlkZxhvS2aZx) | [Ben Cyco](https://open.spotify.com/artist/357UDX6McIJEWiI0ttqWug) | [Tosheka](https://open.spotify.com/album/7ruFnl7nU40u9rvmyQXhDF) | 3:12 | 2023-11-24 |  |
 | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/track/5U4Ovjih4AkPzm6qKgRSHs) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/album/4rMQD6m79Z10fLzHwWUaKs) | 3:22 | 2024-03-08 | 2024-06-01 |
-| [Tumaini \(Marcus’ Song\)](https://open.spotify.com/track/0f5vsYCSrUx8Xwa0y2uVcZ) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz), [Living Room Music](https://open.spotify.com/artist/1TDqdNBjbB5PUcDijQwUrl), [Evans Simali](https://open.spotify.com/artist/7AxxItu1zQrLt7nHnMCfxJ) | [Tumaini \(Marcus’ Song\)](https://open.spotify.com/album/2mMuSGaLAtrZtpyzLkScOt) | 3:25 | 2025-05-02 |  |
+| [Tumaini \(Marcus’ Song\)](https://open.spotify.com/track/0f5vsYCSrUx8Xwa0y2uVcZ) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz), [Living Room Music](https://open.spotify.com/artist/1TDqdNBjbB5PUcDijQwUrl), [Evans Simali](https://open.spotify.com/artist/7AxxItu1zQrLt7nHnMCfxJ) | [Tumaini \(Marcus’ Song\)](https://open.spotify.com/album/2mMuSGaLAtrZtpyzLkScOt) | 3:25 | 2025-05-02 | 2025-06-13 |
 | [Ubatili](https://open.spotify.com/track/3421nmVXwNgUUOlHoE1ZQO) | [The Berean Gospel Ministers](https://open.spotify.com/artist/1XGt0taV8k9DMayKng4lNC) | [Ubatili](https://open.spotify.com/album/0eW4o0appJhd1hllgT8uAM) | 6:05 | 2023-07-21 | 2024-05-24 |
 | [ULINIJUA \- Radio Edit](https://open.spotify.com/track/314xMaImh9biPpmK0pnrs2) | [Saint Carlson](https://open.spotify.com/artist/2syF79LbREdIoJlDpBPdJf) | [ULINIJUA \(Radio Edit\)](https://open.spotify.com/album/6iloq9rUZqq3d7clUjBbXP) | 6:11 | 2023-08-25 | 2024-05-24 |
 | [Umejua Kunifurahisha](https://open.spotify.com/track/2PydoapfePzFzBc6CoVcru) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI), [Chris Shalom](https://open.spotify.com/artist/6yUXTmXtmFqVonxo7eRqBU) | [Umejua Kunifurahisha](https://open.spotify.com/album/0457zdsea1nLhcXW45GvLc) | 5:12 | 2022-06-24 | 2024-04-19 |

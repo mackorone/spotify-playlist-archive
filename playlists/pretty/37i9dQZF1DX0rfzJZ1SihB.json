@@ -1,12 +1,12 @@
 {
   "description": "\u4eca\u5e74\u7684\u91d1\u66f2\u734e\u8981\u4f86\u4e86\uff01Spotify \u7576\u7136\u5168\u529b\u652f\u6301\uff01\u706b\u901f\u5448\u737b\u7cbe\u91c7\u63d0\u540d\u4f5c\u54c1\uff01",
-  "num_followers": 53562,
+  "num_followers": 53580,
   "original_name": "2025 \u91d1\u66f2\u734e\u7cbe\u9078",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDE3OwAAAAAnR8vslWmKeeI52sc8f8c4",
+  "snapshot_id": "aEuPrQAAAACEpBPKajsIhqPfWJ9YhOKK",
   "tracks": [
     {
       "added_at": "2025-05-14 07:28:20",
@@ -153,10 +153,10 @@
       "url": "https://open.spotify.com/track/1sqHxuAC7b0bX1sXb5F1wY"
     },
     {
-      "added_at": "2025-05-14 07:28:20",
+      "added_at": "2025-06-13 02:40:45",
       "album": {
-        "name": "\u597d\u50cf\u88ab\u4e00\u652f\u7bad\u77e2\u8ddf\u8e64",
-        "url": "https://open.spotify.com/album/0yt04xb03kefA9W3E3HU3P"
+        "name": "\u5141\u8a31\u842c\u7269\u7834\u788e",
+        "url": "https://open.spotify.com/album/2McePly2UXoLik1dObrnPr"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ"
         }
       ],
-      "duration_ms": 236000,
-      "name": "\u597d\u50cf\u88ab\u4e00\u652f\u7bad\u77e2\u8ddf\u8e64",
-      "url": "https://open.spotify.com/track/3vrYQUnkL1hdQ2tGv0TVI8"
+      "duration_ms": 258911,
+      "name": "\u8db3\u5920\u7684\u5931\u843d",
+      "url": "https://open.spotify.com/track/3UbGYr5LCtLUNDpHjjvdg5"
     },
     {
       "added_at": "2025-05-14 07:28:20",
@@ -1391,6 +1391,22 @@
       "duration_ms": 263226,
       "name": "\u9b3c\u624d\u51fa\u9053 - \u96fb\u5f71\u300a\u9b3c\u624d\u4e4b\u9053\u300b\u4e2d\u6587\u7248\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/2SHQbzQN4jcMNvvOsLfIdk"
+    },
+    {
+      "added_at": "2025-06-13 02:40:45",
+      "album": {
+        "name": "\u5141\u8a31\u842c\u7269\u7834\u788e",
+        "url": "https://open.spotify.com/album/2McePly2UXoLik1dObrnPr"
+      },
+      "artists": [
+        {
+          "name": "\u67cf\u9716PoLin",
+          "url": "https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ"
+        }
+      ],
+      "duration_ms": 293079,
+      "name": "\u5141\u8a31\u842c\u7269\u7834\u788e",
+      "url": "https://open.spotify.com/track/3dtdwztzsoloSkKUDoA7ZH"
     },
     {
       "added_at": "2025-05-14 07:28:20",

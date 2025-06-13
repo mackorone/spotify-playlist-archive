@@ -139,6 +139,28 @@
     },
     {
       "album": {
+        "name": "AUYEM",
+        "url": "https://open.spotify.com/album/1VgKXjdcULZrawxxj63uGV"
+      },
+      "artists": [
+        {
+          "name": "kidsai",
+          "url": "https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ"
+        },
+        {
+          "name": "Benly",
+          "url": "https://open.spotify.com/artist/6KEi4a6Yw4sAHsdYZ3ZmKG"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210254,
+      "name": "AUYEM",
+      "url": "https://open.spotify.com/track/52LxbzBYYZ0Aoe3fAku2QP"
+    },
+    {
+      "album": {
         "name": "baby b\u00ean ngo\u00e0i l\u1ea1nh l\u1eafm",
         "url": "https://open.spotify.com/album/6txNspO1Mna3FI3LZO7Acb"
       },
@@ -512,7 +534,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 279000,
       "name": "chi\u1ec1u th\u1ee9 7",
       "url": "https://open.spotify.com/track/4Via6cJtYwTD95mrrwgRkw"

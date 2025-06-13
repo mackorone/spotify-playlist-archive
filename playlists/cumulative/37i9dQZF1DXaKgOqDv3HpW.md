@@ -4,7 +4,7 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-376 songs - 18 hr 10 min
+378 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Aberaeron](https://open.spotify.com/track/2jweXNn6DMD7w58CPssXwZ) | [Leah Day](https://open.spotify.com/artist/117FwIxp2OWDSWYr9X4j7o) | [Aberaeron](https://open.spotify.com/album/0421N3byRD3RgcdaOvRgtj) | 2:56 | 2022-09-13 |  |
 | [Acacia](https://open.spotify.com/track/2sNM2lnVgJmPJVQcxtktia) | [Abyssé](https://open.spotify.com/artist/4ZSC7QqnOxFeyGaAb2pKnQ) | [Acacia](https://open.spotify.com/album/7a4ED2FDeYHgEKMejdSCwy) | 3:30 | 2022-03-21 |  |
 | [Acceptance](https://open.spotify.com/track/5QeQFwJ4WN1CCtqalohl5y) | [Minnie Delarosa](https://open.spotify.com/artist/5abR6pakumxnpAm0OXTMJX) | [Acceptance](https://open.spotify.com/album/07D4Pc9dTzMWGdnZuXnP9m) | 3:07 | 2022-02-18 | 2023-02-04 |
+| [Across the Universe](https://open.spotify.com/track/6xt5700M0EDbE6X9PhBDPl) | [Xion Star](https://open.spotify.com/artist/5JOkHNCgllgCtpF85jWSiU) | [Across the Universe](https://open.spotify.com/album/36QCipr8da5UDGTZYWDXLG) | 2:17 | 2025-06-12 |  |
 | [Aften](https://open.spotify.com/track/0cipYhbiItpgZCvngDFwoQ) | [Greger Amundsen](https://open.spotify.com/artist/5IcUzhhyVe0zIftxL9eGS7) | [Aften](https://open.spotify.com/album/3SImClzt0t5gfomsktsmrB) | 2:59 | 2022-02-18 | 2024-12-03 |
 | [Ainda Ontem](https://open.spotify.com/track/5uig3Oq5R05OuOAERGKnlu) | [Leonidas Myaló](https://open.spotify.com/artist/6dumU4QYEB8C4dDdTPfRg3) | [Ainda Ontem](https://open.spotify.com/album/4fCDlV21vCQxgNa5D1wtEW) | 2:25 | 2022-02-18 | 2023-01-14 |
 | [Alba](https://open.spotify.com/track/6ENapwu75Tswvvf6QTJpOq) | [Albin Urías](https://open.spotify.com/artist/5phmOQdhQEBnfAev0uSbX6) | [Alba](https://open.spotify.com/album/2SBc0Uq0p0ACrRFVcMKhiy) | 2:48 | 2022-02-18 | 2025-01-30 |
@@ -110,7 +111,7 @@
 | [Drømme](https://open.spotify.com/track/2QjHg0IKNKgURtYuRaOSVh) | [Etheral Gust](https://open.spotify.com/artist/3SFHOYvNfR3lK8EskFk4PV) | [Drømme](https://open.spotify.com/album/3D9tYGhMOv7qrgs7lBAJQf) | 2:12 | 2022-02-18 | 2024-11-29 |
 | [Drži me](https://open.spotify.com/track/2y5P7MecKp333IMNuKeOP7) | [Judi Khan](https://open.spotify.com/artist/7f2S72fSfAb1fpowkNB4WK) | [Drži me](https://open.spotify.com/album/2E7YQeTIlZ9Zr5Fwq2fal8) | 3:26 | 2022-02-18 |  |
 | [Duende](https://open.spotify.com/track/3MbMFTSftlRSYJe58yqBDl) | [Kaua Correia](https://open.spotify.com/artist/6PE8Ppk9H0TScbZEoLD0z1) | [Duende](https://open.spotify.com/album/3u88cMLMZy9LWwdIHBOUJo) | 3:12 | 2022-02-18 | 2024-11-29 |
-| [Echoes](https://open.spotify.com/track/4TGVSsk5tV5rPA2eZ5QW2s) | [Leya Watson](https://open.spotify.com/artist/39UfixE7ExBBDvdxM832Wn) | [Leave It All Behind](https://open.spotify.com/album/4Z4cjLPjCrgIKC0NgYyMdt) | 3:29 | 2023-04-21 |  |
+| [Echoes](https://open.spotify.com/track/4TGVSsk5tV5rPA2eZ5QW2s) | [Leya Watson](https://open.spotify.com/artist/39UfixE7ExBBDvdxM832Wn) | [Leave It All Behind](https://open.spotify.com/album/4Z4cjLPjCrgIKC0NgYyMdt) | 3:29 | 2023-04-21 | 2025-06-13 |
 | [Ecos de Meditación](https://open.spotify.com/track/3SUcijcSGfwULQCHh0yEZK) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Renacer en Calma](https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW) | 2:40 | 2023-06-09 | 2024-11-29 |
 | [Ein neuer Tag](https://open.spotify.com/track/0m3sUxYwx3DRzB291geuJR) | [Lina Amsler](https://open.spotify.com/artist/5i7lSqtuk0e6UOc9prZ88q) | [Ein neuer Tag](https://open.spotify.com/album/3k8hFl0PUK58om8iGsTHaD) | 2:56 | 2022-02-18 | 2022-07-09 |
 | [Elemental Control](https://open.spotify.com/track/6JMQQ8Y7ALaPBJJguEETbX) | [Gates of Heaven](https://open.spotify.com/artist/2d1SOxC8HeERlKJmAcS14j) | [Sleep Odyssey](https://open.spotify.com/album/148nvIMcvVwONRTeWfp3R2) | 2:28 | 2022-02-18 |  |
@@ -131,6 +132,7 @@
 | [Evanescenza](https://open.spotify.com/track/28WP5mwpfzMw4oVSBXkWgu) | [André Calmaz](https://open.spotify.com/artist/6wMD854zzb5SpQuyjAQLht) | [Evanescenza](https://open.spotify.com/album/0YeEbaafXj7QU1rY5Rn2KK) | 3:55 | 2023-01-27 | 2025-01-08 |
 | [Evigheten](https://open.spotify.com/track/5NBh0ZsIFKFv0Gk1RHNtNC) | [Agnes Vidsjö](https://open.spotify.com/artist/41tdmj2pTCBWS8wXZfPZb5) | [Evigheten](https://open.spotify.com/album/1Q2X1ukGG0C21vHI4t2EyE) | 2:57 | 2025-01-29 |  |
 | [Expanse](https://open.spotify.com/track/5mK7VJDTa9KufmkYNB2g6a) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Expanse](https://open.spotify.com/album/6SiIxdtLqVtYxo9rZtAarK) | 2:36 | 2024-03-07 | 2024-09-04 |
+| [Expansion](https://open.spotify.com/track/5kb3YbGwrOyLIRVCPacxdS) | [node: project](https://open.spotify.com/artist/7JPL3e4Dihj4HqwMU1RIZH) | [Expansion](https://open.spotify.com/album/4CxEf4ZzyrctwCJI5JoUgK) | 4:14 | 2025-06-12 |  |
 | [Fall](https://open.spotify.com/track/7tTcD8wVyMvKRrzriY78zw) | [Danoa](https://open.spotify.com/artist/2VD5PP13OpMEyul7NfnLa2) | [Fall](https://open.spotify.com/album/0O67PdetBALfQ0K6EyQvuB) | 2:30 | 2022-09-13 | 2025-02-27 |
 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 | 2022-02-18 | 2023-02-04 |
 | [Feel The Zen](https://open.spotify.com/track/4qvfIAc3oz1wQYf8GbzaOX) | [Massive Foam](https://open.spotify.com/artist/7of7Q7two2tiZoRRC5Y8u8) | [Feel The Zen](https://open.spotify.com/album/13p3itqL005ij8fI6gmHug) | 2:19 | 2024-05-10 |  |
@@ -204,7 +206,7 @@
 | [Lux Mane](https://open.spotify.com/track/4k6GvMEtWF31ShIk24rLp3) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Mane Fluctus](https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15) | 2:38 | 2022-02-18 | 2024-11-29 |
 | [Meaningful Existence](https://open.spotify.com/track/2nVklUKcB3i8fixjU122ZI) | [The Endity](https://open.spotify.com/artist/5byrQ0NUcEyy0c3U5xPBdm) | [Meaningful Existence](https://open.spotify.com/album/2vfx3tT8Gv3a5BvRKksf8H) | 3:27 | 2024-07-26 |  |
 | [Mellow Light](https://open.spotify.com/track/4VF8MyyIyOQVGbKlEwPsPi) | [Hans Jacob](https://open.spotify.com/artist/6gT2Bu1wTc1uHC5NcJV0gQ) | [Mellow Light](https://open.spotify.com/album/5nXDRI3U7NyBnX9cNBvfBR) | 2:39 | 2025-05-15 |  |
-| [Mellowing](https://open.spotify.com/track/4bmEAG2pyu2h70Wu7ZamWn) | [Robin Laureli](https://open.spotify.com/artist/30nCX93T9DmENsEgm1tetr) | [Mellowing](https://open.spotify.com/album/5MeWH6c1ydvsTzSF1m63IM) | 2:52 | 2022-02-18 |  |
+| [Mellowing](https://open.spotify.com/track/4bmEAG2pyu2h70Wu7ZamWn) | [Robin Laureli](https://open.spotify.com/artist/30nCX93T9DmENsEgm1tetr) | [Mellowing](https://open.spotify.com/album/5MeWH6c1ydvsTzSF1m63IM) | 2:52 | 2022-02-18 | 2025-06-13 |
 | [Mindfulness](https://open.spotify.com/track/0flCZDZoSDZeKLvIDqYf9E) | [Iridaceae Fields](https://open.spotify.com/artist/6pmTFeAL5pQmrE3jZ3HMW1) | [Mindfulness](https://open.spotify.com/album/327NuLOFnlZTdMKdScvtiI) | 2:55 | 2023-05-19 | 2025-01-08 |
 | [Mindfulness](https://open.spotify.com/track/3y2vuPzdZrOVlWaZgMqjfT) | [Zen Rest](https://open.spotify.com/artist/44J133ErzlofUDbs26uCo4) | [Mindfulness](https://open.spotify.com/album/68aa1oOZu1aUOj4EGWj9W9) | 3:25 | 2024-06-10 |  |
 | [Mirach Dreams](https://open.spotify.com/track/5umpsNomhsOB2T9a0b2OCP) | [Endless Space](https://open.spotify.com/artist/7HHVt02XZTOf0FQ6YhZtG5) | [Mirach Dreams](https://open.spotify.com/album/6FaeqpfJfrut5YAf3vZImm) | 3:10 | 2025-02-14 |  |

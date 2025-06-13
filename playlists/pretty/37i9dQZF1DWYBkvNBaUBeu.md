@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 
 > Future hits in the Philippines! Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,202 likes - 81 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,219 likes - 81 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

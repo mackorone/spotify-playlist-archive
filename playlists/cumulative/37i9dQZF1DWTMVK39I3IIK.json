@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8   june",
+  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8   Lea Ey\u00f0bj\u00f8rg og \u00d8sten",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -338,6 +338,28 @@
       "duration_ms": 185500,
       "name": "Bind Mig",
       "url": "https://open.spotify.com/track/7cfDdSNtV5YcF3E3M0LWjB"
+    },
+    {
+      "album": {
+        "name": "bl\u00e5 n\u00e6tter",
+        "url": "https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS"
+      },
+      "artists": [
+        {
+          "name": "Lea Ey\u00f0bj\u00f8rg",
+          "url": "https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv"
+        },
+        {
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158708,
+      "name": "bl\u00e5 n\u00e6tter",
+      "url": "https://open.spotify.com/track/5QnW9XOkrkOF4l3KciQwOu"
     },
     {
       "album": {
@@ -1068,7 +1090,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 225059,
       "name": "Elsker Bagl\u00e6ns",
       "url": "https://open.spotify.com/track/3cAX47H0v2jJCxbCERnHWs"
@@ -1158,7 +1180,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-12",
+      "date_removed": null,
       "duration_ms": 148521,
       "name": "Et Sted p\u00e5 Vesterbro",
       "url": "https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ"
@@ -1594,7 +1616,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 165539,
       "name": "Heartbreak",
       "url": "https://open.spotify.com/track/1JdPraBOBKK9V2uTPP4jnJ"
@@ -1818,7 +1840,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 154000,
       "name": "Hvad Det Ku\u2019 Have Blevet Til",
       "url": "https://open.spotify.com/track/0aWxygBYOgRf6XmxlNCSVW"
@@ -1872,7 +1894,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 169959,
       "name": "Hvad Skulle Jeg G\u00f8re Uden Dig",
       "url": "https://open.spotify.com/track/4PejgbI6KITxcOV89OHRt3"
@@ -2382,7 +2404,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 200674,
       "name": "Kun for os",
       "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
@@ -2458,7 +2480,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 162773,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/7MvfWJfnXqdYZFrkslgEW3"
@@ -2700,6 +2722,24 @@
       "duration_ms": 177165,
       "name": "Minder Om Dig",
       "url": "https://open.spotify.com/track/1553ldzhZQvrhS5fgWWve5"
+    },
+    {
+      "album": {
+        "name": "Nak Og \u00c6d",
+        "url": "https://open.spotify.com/album/5CKWRghpo2RXMJegmbvQ7L"
+      },
+      "artists": [
+        {
+          "name": "Godt G\u00e5et Frej",
+          "url": "https://open.spotify.com/artist/2nPa8GSEhLI81oFZA06k7H"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186628,
+      "name": "Nak Og \u00c6d",
+      "url": "https://open.spotify.com/track/0niH1XyGXvtIxa77UvHO53"
     },
     {
       "album": {
@@ -3834,6 +3874,24 @@
       "duration_ms": 243312,
       "name": "T\u00e6t P\u00e5 Paradis",
       "url": "https://open.spotify.com/track/7dUd1GZ3DEbL2wyhzjpvoM"
+    },
+    {
+      "album": {
+        "name": "Ude Af Mig Selv",
+        "url": "https://open.spotify.com/album/0Iaw3BN8KTidkWVVoL7Sct"
+      },
+      "artists": [
+        {
+          "name": "YUMA",
+          "url": "https://open.spotify.com/artist/6hnXmNZ0vIfuzEL8xERJ5R"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156214,
+      "name": "Ude Af Mig Selv",
+      "url": "https://open.spotify.com/track/2lELpgEBDOtEaHmPSLZMPd"
     },
     {
       "album": {

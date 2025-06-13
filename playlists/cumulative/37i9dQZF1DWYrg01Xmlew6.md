@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. MV Killa in cover.
 
-473 songs - 21 hr 47 min
+476 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [A Storia Mì](https://open.spotify.com/track/56syCqfZDVTN3rHWDLnxwb) | [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [A Storia Mì](https://open.spotify.com/album/2iG6CfO4qfmEGAYjHzZyD5) | 3:11 | 2024-04-18 | 2024-05-17 |
 | [A VUO FRNÌ](https://open.spotify.com/track/0ZNZzAfNAqTi6zvHmfcIp9) | [Matteo Paolillo](https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J) | [A VUO FRNÌ](https://open.spotify.com/album/2uZtsCmnf5aG7N70iTnsji) | 2:59 | 2023-11-15 | 2023-12-08 |
 | [A' vita senz' e te \(Me fa paura\)](https://open.spotify.com/track/0aihKoR995mM6IO31vYd3I) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [A' vita senz' e te \(Me fa paura\)](https://open.spotify.com/album/0o862B9nqWJuGpEJwsQIsI) | 2:22 | 2022-11-10 | 2024-05-10 |
+| [Accussì](https://open.spotify.com/track/0wp7x2nM7ycrKacgPJgVWK) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96), [808MANUEL](https://open.spotify.com/artist/27wAttijfo2tMZAWZsl0qj) | [Accussì](https://open.spotify.com/album/2HSqakWuj1tB3v9PQ9MDqH) | 2:50 | 2025-06-12 |  |
 | [Accussì](https://open.spotify.com/track/5qvea4yzUYkFQGkUTQLjKy) | [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL), [LEO](https://open.spotify.com/artist/5AskeiOm2rZPjeMn7V26sp) | [Accussì](https://open.spotify.com/album/3k19bFL6YN6EEezYhA9ofi) | 3:09 | 2022-05-10 | 2022-05-13 |
 | [ADDIO](https://open.spotify.com/track/4IuhPS27Rf3lDqSYYmHqI0) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [ADDIO](https://open.spotify.com/album/7iFrtAfj9vQpE0EYTaIZBe) | 3:12 | 2024-06-20 | 2024-11-22 |
 | [Addo Staje](https://open.spotify.com/track/3AE8w0nzeosiLXfXRVQOXg) | [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [Addo Staje](https://open.spotify.com/album/1nAiRosddjANStcOVnGUxF) | 3:15 | 2023-05-04 | 2023-06-02 |
@@ -72,6 +73,7 @@
 | [CH CAGN?](https://open.spotify.com/track/4a7pPpkUpdM9HkGw72qWnH) | [ALTACARATURA](https://open.spotify.com/artist/4FBfE5lWE8eGkPuUTXzRNr) | [CH CAGN?](https://open.spotify.com/album/4PksCZU5Up3Cihdhjr8Kgg) | 3:34 | 2025-03-27 | 2025-04-11 |
 | [Chance](https://open.spotify.com/track/7qvI1RnRmIzQ52r5WN8TI5) | [Lil Tony](https://open.spotify.com/artist/5scZI5Lpqp6uijn5kCXCEZ) | [Chance](https://open.spotify.com/album/06iLcirNazg1Nb0hFzYDAd) | 3:19 | 2024-09-19 | 2024-10-04 |
 | [Chanel](https://open.spotify.com/track/7pDIFkymxnMAGzCdvICFb3) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [Chanel](https://open.spotify.com/album/69WeTXYxLFMrOKrCgYqTlR) | 3:06 | 2022-09-15 | 2022-10-14 |
+| [CHARME \(feat\. Christian Revo, Vale Lambo\)](https://open.spotify.com/track/1c6eHnBBBIV3isAHk2KO4X) | [Plug](https://open.spotify.com/artist/0PWa13NHPcTgfyBlIkjjBx), [Christian Revo](https://open.spotify.com/artist/0s3k3E7SlZqDN0rXnijV7F), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [CHARME \(feat\. Christian Revo, Vale Lambo\)](https://open.spotify.com/album/36I0lzxgz7mraZM0dP3GDt) | 2:52 | 2025-06-12 |  |
 | [CHE ME NE FÓ](https://open.spotify.com/track/0lk4E9MaC4mIRAo6smiQUS) | [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7), [Wiz Hard](https://open.spotify.com/artist/5OjSUnU9En0SbctPV5pd47) | [CHE ME NE FÓ](https://open.spotify.com/album/0bfXiQpr4NLnom25HshAkw) | 1:39 | 2024-07-04 | 2024-07-19 |
 | [Che Stai Dicenn \(feat\. Paky\)](https://open.spotify.com/track/1gwdAaUlJPkDso1qFgPrdm) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Che Stai Dicenn \(feat\. Paky\)](https://open.spotify.com/album/0cUj7puIeZuZwomUGrJkAY) | 3:07 | 2022-06-30 | 2023-05-10 |
 | [Chello Che Vuó \(feat\. Geolier\)](https://open.spotify.com/track/6sDPfKayq1ESoRhJpRHG77) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [AMBIZIONE](https://open.spotify.com/album/6eKnvAWCYNYJncvryqP8Ha) | 3:21 | 2022-05-10 | 2022-05-27 |
@@ -257,6 +259,7 @@
 | [Moonlight](https://open.spotify.com/track/2EgW76uFiq6unPzxtFTL24) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT) | [Moonlight](https://open.spotify.com/album/6fpNYikbqxnPdNpLnaNmY6) | 2:54 | 2024-12-05 | 2025-01-31 |
 | [Motorola](https://open.spotify.com/track/0FVgTO00uY8WyHPtfHp4Az) | [Joka](https://open.spotify.com/artist/7IENJBytwoka42rgzfLLyW) | [Motorola](https://open.spotify.com/album/3CB5vY8hjXg1NqehIhQvQS) | 2:39 | 2022-05-10 | 2022-06-03 |
 | [MVP](https://open.spotify.com/track/0Nojgk52ObYMvHlPQ4wq37) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP), [Milano Mobster](https://open.spotify.com/artist/4WAFo0IQmpG3O999VAYtJ7) | [MVP](https://open.spotify.com/album/0lJMVcHNpeGzKGTAytrCqP) | 2:10 | 2024-05-09 | 2024-08-02 |
+| [M’SENT L.YAMAL](https://open.spotify.com/track/0Z9tOeFWxdo2ZBKZ8LibiB) | [Bekkeria](https://open.spotify.com/artist/36d2YCS9iJeuNEMS5PLps7) | [M’SENT L.YAMAL](https://open.spotify.com/album/4huksNbMdkUK1jAWUMAMYU) | 2:54 | 2025-06-12 |  |
 | [NA CRIATURA](https://open.spotify.com/track/5T9tDWyGQCkhasjfGVZabC) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [NA CRIATURA](https://open.spotify.com/album/07DTjfY4CXGe01KxN1HdwE) | 2:54 | 2022-05-10 | 2022-05-27 |
 | [NA STORIA](https://open.spotify.com/track/4tMC0vUpZnlYLPPukjy9ud) | [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [LOVE SEASON](https://open.spotify.com/album/4TAh5dyRd4oTnQDuRzrDPz) | 2:30 | 2022-12-15 | 2023-01-20 |
 | [Naples](https://open.spotify.com/track/6hOndc2UrGv7jU12S6IvS0) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [Naples](https://open.spotify.com/album/2bpDU3tbbS3kvj17Ds34wC) | 3:16 | 2023-10-05 | 2024-06-28 |

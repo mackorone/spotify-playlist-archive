@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Celebrating 10 years of the best new folk music from independent artists\. Cover: e4444e
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,110 likes - 112 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,151 likes - 112 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 111 | [Your Head Spins](https://open.spotify.com/track/2XHlqyiyMQERdbrgAY3YFf) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Lookout, Look Out](https://open.spotify.com/album/6SDhwO08qlx2stTIdjQ3Cg) | 3:08 |
 | 112 | [How long](https://open.spotify.com/track/65dGvhhSg65PUUpTTJdwIb) | [Joel Sundkvist](https://open.spotify.com/artist/7uuTT33JCupBqe9tB9CZUM), [Arüna](https://open.spotify.com/artist/3wxpakEyvBC9NXree33C3Z) | [How long](https://open.spotify.com/album/1jwBRA70U1w5cGfZdajTfS) | 2:48 |
 
-Snapshot ID: `aEj/UQAAAAAxJdfWTJZzIJuH6so823ME`
+Snapshot ID: `AAAAADngoPcHdHyAGfAfAHWYF+lP4IJY`

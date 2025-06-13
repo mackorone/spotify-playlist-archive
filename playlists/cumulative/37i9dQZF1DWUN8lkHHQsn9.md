@@ -4,7 +4,7 @@
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+ wybranych przez <a href="spotify:artist:36rjKqx3uW0369RwfIbGj2">Marcina Maciejczaka</a>.
 
-346 songs - 19 hr 16 min
+347 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Ostatni Raz](https://open.spotify.com/track/4N8DLJ3VXaAARk9NHlCoAV) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Ostatni Raz](https://open.spotify.com/album/1E6gAMILB2zNkRXAbiCykZ) | 2:57 | 2025-05-12 |  |
 | [Ostatnia piosenka o tobie](https://open.spotify.com/track/4AKCYZw3cILC41qQmm8LiR) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Ostatnia piosenka o tobie](https://open.spotify.com/album/45qbG2EnDCUWNJ3Greaowm) | 4:09 | 2021-06-22 | 2022-06-01 |
 | [Palo Santo](https://open.spotify.com/track/4KPgzeIwciL6boNbMUfHwu) | [Lesbijski Groove](https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC) | [Palo Santo](https://open.spotify.com/album/0NGJx0HX2do5UEU3XhOsnP) | 2:59 | 2024-01-08 |  |
-| [Pani Baudelaire](https://open.spotify.com/track/7csGhaDyjxYEnyP2tgRqf8) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Pani Baudelaire](https://open.spotify.com/album/4DrgyKUeUcho4KbposE5V6) | 2:57 | 2024-09-09 |  |
+| [Pani Baudelaire](https://open.spotify.com/track/7csGhaDyjxYEnyP2tgRqf8) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Pani Baudelaire](https://open.spotify.com/album/4DrgyKUeUcho4KbposE5V6) | 2:57 | 2024-09-09 | 2025-06-13 |
 | [Parlez Vous Francais](https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32) | [Julia Bosski](https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2) | [Parlez Vous Francais](https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA) | 3:22 | 2022-06-01 | 2024-06-11 |
 | [Peccatum](https://open.spotify.com/track/2qA1SscwLeJPC6qz4toLxq) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [Peccatum](https://open.spotify.com/album/3sJ5DTKb39DwRXDqYu11EP) | 2:39 | 2024-04-08 |  |
 | [Pentimento](https://open.spotify.com/track/1NneZwSe4xqclhqptLE8pL) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a), [Juna Ara](https://open.spotify.com/artist/6QvQCarjaeuT9QNZvbEGXJ) | [Pentimento](https://open.spotify.com/album/3on2CIIc8sGo68Q2d5Ne79) | 2:36 | 2023-11-13 | 2024-05-10 |
@@ -315,6 +315,7 @@
 | [Udawajka](https://open.spotify.com/track/523UuuvEltKth5OWuvGeyD) | [Dureń](https://open.spotify.com/artist/2xFCNJxPF8BceY47fJ8DQC) | [Udawajka](https://open.spotify.com/album/169InjOfzsDyIc8FDnyWWV) | 4:30 | 2025-05-12 |  |
 | [Ulubione miejsce](https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Ulubione miejsce](https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf) | 2:55 | 2023-04-10 | 2025-03-25 |
 | [usa](https://open.spotify.com/track/5funIcHMQlkEU1U0IygYjN) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1), [nath](https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd) | [usa](https://open.spotify.com/album/5936AQNkhWX56AIuejoKQp) | 2:09 | 2024-06-10 |  |
+| [Uwaga \(Idę do ciebie\) feat\. Dorota Masłowska](https://open.spotify.com/track/1QGztlW0fCUuYAlt7qixKE) | [Baasch](https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga), [Dorota](https://open.spotify.com/artist/5MvwaSu7vwwce7vxHlH0PR) | [Uwaga \(Idę do ciebie\) feat\. Dorota Masłowska](https://open.spotify.com/album/3Bpru250I9f4Ivaiy7rwkO) | 3:07 | 2025-06-12 |  |
 | [VHS Cassette](https://open.spotify.com/track/5YGyXtmEy5IGFgPts5BEtE) | [Yulia](https://open.spotify.com/artist/7qDriwH0EP469oQTiTrWpl) | [VHS Cassette](https://open.spotify.com/album/6yKHf83RrCDa2NgyPcFZiG) | 3:28 | 2021-06-22 | 2022-06-01 |
 | [VITAY \- Avtomat Remix](https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Avtomat](https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj) | [VITAY \(Avtomat Remix\)](https://open.spotify.com/album/0RUK6e7Weucvg7AmeKYp6s) | 4:10 | 2022-06-01 | 2024-03-12 |
 | [W innym kolorze](https://open.spotify.com/track/1SKOsQeGx7heZSoylQfqzM) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df), [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [W innym kolorze](https://open.spotify.com/album/6QSIyBrOVK6poPpEebfPtn) | 3:22 | 2023-10-09 | 2023-11-14 |

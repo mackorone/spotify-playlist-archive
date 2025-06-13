@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Flaket kommer studsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,059 likes - 73 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,033 likes - 73 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 63 | [Alcohol](https://open.spotify.com/track/1iUXBxsHTHuByOXz2AX7ZK) | [Flamingoz](https://open.spotify.com/artist/4hwEhYAJJmsXyRkuhzQ0IL) | [Alcohol](https://open.spotify.com/album/6BhvNYJ2HaxIDrVIYyWKnn) | 2:45 |
 | 64 | [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 |
 | 65 | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP) | [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs) | 2:31 |
-| 66 | [PO PO PULL UP](https://open.spotify.com/track/6MBHUC8RKxwNa4iztDXeJp) | [Albin Myers](https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y), [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K) | [PO PO PULL UP](https://open.spotify.com/album/5ofmwqey2otEVLQdwb8I2Z) | 2:21 |
-| 67 | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo) | 2:26 |
+| 66 | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo) | 2:26 |
+| 67 | [PO PO PULL UP](https://open.spotify.com/track/6MBHUC8RKxwNa4iztDXeJp) | [Albin Myers](https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y), [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K) | [PO PO PULL UP](https://open.spotify.com/album/5ofmwqey2otEVLQdwb8I2Z) | 2:21 |
 | 68 | [Fest i våra länder](https://open.spotify.com/track/3LIVbFIzbWDgtkLt29Quhx) | [Pidde P](https://open.spotify.com/artist/4RejC27ZYVf1l48buiDkpS), [REMO](https://open.spotify.com/artist/7G3I6lu8k5Ph7MN5v9yEug), [Petter Northug Jr](https://open.spotify.com/artist/1cGAI8rl33xtRQW12YsnTq) | [Fest i våra länder](https://open.spotify.com/album/3NlgO6EYJpa6KKxFfb6TkG) | 2:42 |
 | 69 | [Om du var min](https://open.spotify.com/track/520OGfBzjjGqVLO52KPvvC) | [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9), [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu) | [Om du var min](https://open.spotify.com/album/5iaCqxVddsqcWvonadClWp) | 2:38 |
 | 70 | [Mwaki \- Timmy Trumpet Remix](https://open.spotify.com/track/7z50UJZ28IIBkmyLR1oKCd) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki \(Timmy Trumpet Remix\)](https://open.spotify.com/album/3lSaV7UGZKKTBxhZEluKDk) | 2:57 |

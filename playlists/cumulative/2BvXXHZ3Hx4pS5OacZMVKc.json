@@ -7391,6 +7391,28 @@
     },
     {
       "album": {
+        "name": "The Redeemer",
+        "url": "https://open.spotify.com/album/6v2ASAAYoG0Ee0G0e7KJua"
+      },
+      "artists": [
+        {
+          "name": "ANIZYZ",
+          "url": "https://open.spotify.com/artist/2MWaA6CZ9Rf8tDDuoMjZJq"
+        },
+        {
+          "name": "BVSSL7ON",
+          "url": "https://open.spotify.com/artist/68eoJvGNNchU2mUZaE8f3X"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93000,
+      "name": "The Redeemer",
+      "url": "https://open.spotify.com/track/0eFVCzAfOfbK053Kwy2qVO"
+    },
+    {
+      "album": {
         "name": "The Revolution (Remixed)",
         "url": "https://open.spotify.com/album/2GeQ0N4tJLvtpVKLLd2M3g"
       },

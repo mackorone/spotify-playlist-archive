@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-353 songs - 20 hr 40 min
+354 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,8 +149,9 @@
 | [In The Gateway Of The Temple Of Minerva](https://open.spotify.com/track/4KVj5KAJTKiJcbAnXq6hc5) | [Original Cast](https://open.spotify.com/artist/1SaAaqbo2pHpm2ovncyGFU) | [By Jupiter \(1967 Off\-Broadway Revival Cast Recording\)](https://open.spotify.com/album/0WEa9jCh3LQ9HCR5QhE2Xl) | 1:34 | 2024-07-26 |  |
 | [In Time](https://open.spotify.com/track/48REPh28xAVT5o6k69w58w) | [Penny Fuller](https://open.spotify.com/artist/42nRzPYRMbawP660nsynTK) | [Rex \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6z1H2CTrJBa4w1xBY7nccz) | 2:53 | 2024-07-26 |  |
 | [It Feels Good](https://open.spotify.com/track/7CaRG77e3nxoMixd5b4zbS) | [Lilli Cooper](https://open.spotify.com/artist/61Im27379GhfbMD5LVDmlp) | [R&H Goes Pop!](https://open.spotify.com/album/6zf0YjLPz8wY6hE6RrmwkI) | 3:18 | 2024-07-26 |  |
-| [It Might As Well Be Spring](https://open.spotify.com/track/6Xdd7X7d7U3NSvsPlmgpC6) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams](https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1) | 6:04 | 2025-06-05 |  |
+| [It Might As Well Be Spring](https://open.spotify.com/track/6Xdd7X7d7U3NSvsPlmgpC6) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams](https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1) | 6:04 | 2025-06-05 | 2025-06-13 |
 | [It Might As Well Be Spring](https://open.spotify.com/track/2ErJ9mgDw6dh8IOT1Ovd0a) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc) | 6:05 | 2024-07-26 | 2025-06-06 |
+| [It Might As Well Be Spring \- Remastered 2025](https://open.spotify.com/track/4qC5KUDETGZ4AuxZrpd5df) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams \(Remastered 2025\)](https://open.spotify.com/album/1qls3z8DYxSbFlJzvL8GFa) | 6:05 | 2025-06-12 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/6QlkHjQmo2YncQN5MQXgPZ) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Workin' With The Miles Davis Quintet](https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli) | 5:23 | 2024-07-26 |  |
 | [It's Got To Be Love](https://open.spotify.com/track/5J9OZfEsV36dvpTnta6UBE) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [The Rodgers & Hart Songbook](https://open.spotify.com/album/67YwQrGAJI0oAkp7Lq0oLh) | 2:24 | 2024-07-26 |  |
 | [Johnny One Note](https://open.spotify.com/track/6acWzOulmtyL9UT5EANEm0) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:12 | 2024-07-26 |  |

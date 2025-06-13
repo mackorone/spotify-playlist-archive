@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 54260,
+  "num_followers": 54298,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEd1gAAAAADKzsHswTjwJxsTh+9UWdHr",
+  "snapshot_id": "aEjHAAAAAACOH/vnCOrS8wRo26Zz0V1V",
   "tracks": [
     {
       "added_at": null,
@@ -626,11 +626,15 @@
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Hollyn",
+          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
         }
       ],
-      "duration_ms": 310240,
-      "name": "Christ Is Risen",
-      "url": "https://open.spotify.com/track/27NoSqxy4e3idBQMObWCjh"
+      "duration_ms": 231400,
+      "name": "Song In My Soul (feat. Hollyn)",
+      "url": "https://open.spotify.com/track/3T8WYztdZWL6mItjWc4F6v"
     },
     {
       "added_at": null,
@@ -667,42 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Children of God Acoustic Sessions",
-        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 239973,
-      "name": "At the Foot of the Cross - Acoustic",
-      "url": "https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Hollyn",
-          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "Song In My Soul (feat. Hollyn)",
-      "url": "https://open.spotify.com/track/3T8WYztdZWL6mItjWc4F6v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Worthy Of My Song",
         "url": "https://open.spotify.com/album/16fFn81XGGaucqyWowE7QS"
       },
@@ -715,6 +683,38 @@
       "duration_ms": 371640,
       "name": "Worthy Of My Song",
       "url": "https://open.spotify.com/track/5VYr4jdVKLv84Ekcv6tCiA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 310240,
+      "name": "Christ Is Risen",
+      "url": "https://open.spotify.com/track/27NoSqxy4e3idBQMObWCjh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Children of God Acoustic Sessions",
+        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 239973,
+      "name": "At the Foot of the Cross - Acoustic",
+      "url": "https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl"
     },
     {
       "added_at": null,

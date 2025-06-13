@@ -4,7 +4,7 @@
 
 > Mooi van eigen bodem 🇳🇱
 
-168 songs - 8 hr 43 min
+170 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Ik Zal Er Zijn](https://open.spotify.com/track/3U1y2yON7uEZqMSBWxjYYQ) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Ik Zal Er Zijn](https://open.spotify.com/album/4RmhGsZpq5TfSTwuQen0ES) | 3:16 | 2025-01-22 |  |
 | [Ik Zeg Niets](https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Ik Zeg Niets](https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM) | 3:07 | 2024-11-04 |  |
 | [It's You Or Me](https://open.spotify.com/track/4hq7e1IgOKKS3nmfUaEwaH) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [It's You Or Me](https://open.spotify.com/album/1arwfvhx4Ox7cl84QqHCUl) | 3:54 | 2024-06-24 | 2024-11-05 |
-| [Je bent de lente](https://open.spotify.com/track/7iFnSru1Fn45zNVQnWcLCL) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Ruimte](https://open.spotify.com/album/0ReBNgHoYi3Mh0lUzDJ5p8) | 2:44 | 2025-03-27 |  |
+| [Je bent de lente](https://open.spotify.com/track/7iFnSru1Fn45zNVQnWcLCL) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Ruimte](https://open.spotify.com/album/0ReBNgHoYi3Mh0lUzDJ5p8) | 2:44 | 2025-03-27 | 2025-06-13 |
 | [Je Draagt Het Niet Alleen](https://open.spotify.com/track/1sJ91H9pD2L0MXgyjJUZSo) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Beste Zangers 2024 \(Aflevering 3\- Matthijn Buwalda\)](https://open.spotify.com/album/08pHaYLv5D5f7uX86DtRXq) | 3:23 | 2025-01-08 |  |
 | [Je Weet Pas Wat Je Hebt](https://open.spotify.com/track/1vuxcc1UDLpbbNudLtgcbL) | [Elieve](https://open.spotify.com/artist/1baKapVwDaPTbQvH9kCUkf) | [Je Weet Pas Wat Je Hebt](https://open.spotify.com/album/4NdhuGDtL29qQoiKUePuER) | 2:35 | 2025-04-03 | 2025-04-30 |
 | [Jij Was Alles Voor Mij](https://open.spotify.com/track/4FvK8IX6o58SuLSvDWVLU7) | [Ray Benjamin](https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ) | [Jij Was Alles Voor Mij](https://open.spotify.com/album/5BWvQ5dsckUjysCBJnQZeX) | 3:01 | 2024-12-02 | 2025-03-13 |
@@ -87,6 +87,7 @@
 | [Kan Ik Iets Voor Je Doen?](https://open.spotify.com/track/6K1xfSVsfGLvvcCCQjFRMy) | [Dwight Dissels](https://open.spotify.com/artist/6mJqqz8Dra13cr75NGhC7f) | [Kan Ik Iets Voor Je Doen?](https://open.spotify.com/album/2G5idixK1zfPctvTeRtCfU) | 2:49 | 2024-09-19 | 2025-01-25 |
 | [Klaar Voor Wat Er Komt](https://open.spotify.com/track/74oGstwGCWwsxlM5cwz7ge) | [Guus Hulshof](https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl) | [Klaar Voor Wat Er Komt](https://open.spotify.com/album/3nDUUpZK89esI3MkJfxnM7) | 3:26 | 2024-12-02 | 2025-03-23 |
 | [Kleine Dingen](https://open.spotify.com/track/69eLavpmDiLevHD5CWZXSo) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Twee Stappen Voor](https://open.spotify.com/album/6HwoP7y1vS2gtH2bMPdfHK) | 2:26 | 2024-12-12 | 2025-03-02 |
+| [Kom Je Me Halen](https://open.spotify.com/track/66t9LXJ9dSziqLlnAukBn3) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ), [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Kom Je Me Halen](https://open.spotify.com/album/5KoWzJLpcVMGdasgczfUtS) | 3:11 | 2025-06-12 |  |
 | [Kom Met Me Dansen](https://open.spotify.com/track/3F6BHPhUkM5jKzpzJAxw90) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Kom Met Me Dansen](https://open.spotify.com/album/6kCO8tjI1Tzs9jWH9v66e3) | 4:00 | 2024-07-25 | 2024-11-16 |
 | [Kwattaweg](https://open.spotify.com/track/3m40Nh93jW2AVB85kwN4I5) | [ANDRO](https://open.spotify.com/artist/2VOCs6lYNw7KgXminnltr5) | [We Zijn Hier](https://open.spotify.com/album/1rsOJSZNmEwcqoHIBcjmMg) | 2:39 | 2024-09-05 | 2025-01-21 |
 | [La Pression](https://open.spotify.com/track/1JD59B3aSyEcI3yHYPZLIP) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [La Pression](https://open.spotify.com/album/1nkmjcR3wg4w4rbjoGbWiX) | 2:41 | 2025-03-12 |  |
@@ -95,6 +96,7 @@
 | [Levenslang](https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Levenslang](https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s) | 3:44 | 2025-03-13 |  |
 | [Lijn](https://open.spotify.com/track/0HOrDesxpndcI38kujDxei) | [Eric Corton](https://open.spotify.com/artist/0MBeoJ5pWZwyXWuEBmq9Qv), [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [Lijn](https://open.spotify.com/album/23nU1k5lNa9KG0Ifgzvnzf) | 2:38 | 2025-03-14 | 2025-04-17 |
 | [Little darling](https://open.spotify.com/track/091YZFlY55pe02VFuqmutv) | [Laura van Kaam](https://open.spotify.com/artist/4ywz66EHjNFUszU6lXLsXe) | [Little darling](https://open.spotify.com/album/4mh4TeD0yoM0aKIMiBpA4j) | 3:13 | 2024-06-24 | 2024-07-23 |
+| [Los in mij](https://open.spotify.com/track/1TBhCIH5POksa7gDXGPFw4) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Los in mij](https://open.spotify.com/album/0eQ36q9FJofZPpPpkMERwo) | 2:36 | 2025-06-12 |  |
 | [Los Van Angst](https://open.spotify.com/track/3HYnt1qY5NWg6SIOxlw0gJ) | [Ben Forte](https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7) | [Los Van Angst](https://open.spotify.com/album/5PizQPjxqmmDVn2m8w6Il0) | 2:48 | 2024-09-12 | 2024-10-25 |
 | [Louder](https://open.spotify.com/track/1F3tkkKZrYFxQJ9d8EKePh) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Louder](https://open.spotify.com/album/5sIGXhcUk3h0RyJVw0Mag3) | 3:49 | 2024-06-24 | 2024-08-30 |
 | [Love Song](https://open.spotify.com/track/3caukRr0UZRCvg2QCvbGeH) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Love Song](https://open.spotify.com/album/214tK7D0YvGWW2p7yJgtbP) | 3:04 | 2024-09-12 | 2024-12-13 |
@@ -116,7 +118,7 @@
 | [Numbers](https://open.spotify.com/track/7qoy1PDbdn85kXaMwtZT2U) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:15 | 2024-07-11 | 2024-10-25 |
 | [Omdat Je Me Ziet](https://open.spotify.com/track/5FgTrTxLgQcf4N2Nxgarkw) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Omdat Je Me Ziet](https://open.spotify.com/album/0nCjIQmD4gmIZrXSTcJ46x) | 2:48 | 2024-06-27 | 2025-01-09 |
 | [Omhoog](https://open.spotify.com/track/2UklSNaVRkMInzUTOEkmsM) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Omhoog](https://open.spotify.com/album/518wPXNPF0xHjX5TdgCQGm) | 2:48 | 2024-10-24 | 2024-11-08 |
-| [Ook Maar Een Mens](https://open.spotify.com/track/1ANI5lXz3XUycm6tTOxZ7Q) | [Thomas Berge](https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI), [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Ook Maar Een Mens](https://open.spotify.com/album/1PiffcQz64z5cW7A4PedKe) | 3:27 | 2025-03-20 |  |
+| [Ook Maar Een Mens](https://open.spotify.com/track/1ANI5lXz3XUycm6tTOxZ7Q) | [Thomas Berge](https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI), [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Ook Maar Een Mens](https://open.spotify.com/album/1PiffcQz64z5cW7A4PedKe) | 3:27 | 2025-03-20 | 2025-06-13 |
 | [Op Jou Heb Ik Gewacht](https://open.spotify.com/track/0uOc3SO3ZkrNeL5khr4GUn) | [De Poema's](https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh), [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Op Jou Heb Ik Gewacht](https://open.spotify.com/album/2FNg6ZrAoDT0KxI1sy97b2) | 2:55 | 2025-03-06 |  |
 | [Patronen](https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vrouw Van De Wereld](https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh) | 2:53 | 2024-08-29 |  |
 | [Perfect Voor Mij](https://open.spotify.com/track/5pkPQQaYEoHbSnVQoVbXs6) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Perfect Voor Mij](https://open.spotify.com/album/0jUWx66cMwXl4l7gDDgZIS) | 3:00 | 2025-03-13 | 2025-05-16 |

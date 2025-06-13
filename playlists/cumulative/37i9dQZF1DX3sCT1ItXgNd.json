@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Aitana",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Lola Indigo",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -8431,6 +8431,24 @@
     },
     {
       "album": {
+        "name": "NAVE DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144230,
+      "name": "MOJA1TA",
+      "url": "https://open.spotify.com/track/63rH77IJhmuQsNIxpCxaJ5"
+    },
+    {
+      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
       },
@@ -8878,7 +8896,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 200962,
       "name": "Ni demasiados, ni bastantes",
       "url": "https://open.spotify.com/track/4rxLXDOOLSR8oN8qv6vCdq"

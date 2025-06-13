@@ -4,7 +4,7 @@
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-90 songs - 5 hr 21 min
+91 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [No Puedo Olvidarte](https://open.spotify.com/track/1aShkzvbm20sYlMuwQBJ0R) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Puedo Olvidarte](https://open.spotify.com/album/7rmWaMyKeqUYxJuyCDfzzR) | 3:45 | 2023-07-22 |  |
 | [No quiero que amanezca](https://open.spotify.com/track/1ujwLJ7na5L4zjOShTTTXD) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Pipo Ti](https://open.spotify.com/artist/5IxU70PZhE8uqCBOGHZHgJ) | [ROMA](https://open.spotify.com/album/2a41sz8sMlWxR31PGTFLyW) | 3:48 | 2024-12-09 |  |
 | [No Soy Criminal](https://open.spotify.com/track/3VGWGVOAUcoCpiHqqdrxb3) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [No Soy Criminal](https://open.spotify.com/album/6SSxecieX6s6mTmCnm0Cno) | 3:37 | 2023-03-24 |  |
-| [No Vuelvas Mas A Mi](https://open.spotify.com/track/7j3IPzmBPPSf3DeyhVhGMn) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [No Vuelvas Mas A Mi](https://open.spotify.com/album/02hGe8QdVFk6c7TYgda7Ho) | 4:03 | 2023-03-24 |  |
+| [No Vuelvas Mas A Mi](https://open.spotify.com/track/7j3IPzmBPPSf3DeyhVhGMn) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [No Vuelvas Mas A Mi](https://open.spotify.com/album/02hGe8QdVFk6c7TYgda7Ho) | 4:03 | 2023-03-24 | 2025-06-13 |
+| [No Vuelvas Mas A Mi](https://open.spotify.com/track/2kLSw4e5Yn5SQl1zTsrl18) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [No Vuelvas Mas A Mi](https://open.spotify.com/album/69Ywb8h3qzqF9FdyoHkC0R) | 4:03 | 2025-06-13 |  |
 | [Nunca Supiste](https://open.spotify.com/track/0C7ydVc1JJyw3kkthMiGLg) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [Nunca Supiste](https://open.spotify.com/album/3bIRrdw5Hjvlb59eiT6Ldo) | 3:56 | 2023-05-15 | 2023-05-18 |
 | [OMG](https://open.spotify.com/track/5gjRYrS0Vp6xO7wwSU9fQv) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [OMG](https://open.spotify.com/album/4ss4Hp44BnnJxCQua0TuSk) | 3:07 | 2025-02-23 |  |
 | [Otra Oportunidad](https://open.spotify.com/track/7xqbjHEyrnjhyXRsVVVSvv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Otra Oportunidad](https://open.spotify.com/album/5RVInsxbaYiGU4NmPSUPCc) | 3:51 | 2023-03-24 |  |

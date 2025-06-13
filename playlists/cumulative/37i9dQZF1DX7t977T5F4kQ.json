@@ -983,6 +983,24 @@
     },
     {
       "album": {
+        "name": "Asikyire (Sugar)",
+        "url": "https://open.spotify.com/album/6f84SfO7ex6EsUpL4uaFrr"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195854,
+      "name": "Asikyire (Sugar)",
+      "url": "https://open.spotify.com/track/38847Svxy8cNXO49MHVdvQ"
+    },
+    {
+      "album": {
         "name": "Asor",
         "url": "https://open.spotify.com/album/6tyX6CWvTE1bVyYRERMGbi"
       },
@@ -6892,7 +6910,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 176770,
       "name": "Oh Ma Linda",
       "url": "https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6"

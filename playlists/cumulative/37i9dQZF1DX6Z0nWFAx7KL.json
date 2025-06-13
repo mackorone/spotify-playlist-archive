@@ -1980,7 +1980,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 193377,
       "name": "Elsewhere",
       "url": "https://open.spotify.com/track/1ERIJRdzYgFSkdUvCiVu75"
@@ -3868,6 +3868,28 @@
       "duration_ms": 178909,
       "name": "Madness",
       "url": "https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW"
+    },
+    {
+      "album": {
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/2GmPo1t1eRB47964nvvJAl"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        },
+        {
+          "name": "Belle Doron",
+          "url": "https://open.spotify.com/artist/0vG28tQeh1adA0xHmdUTVQ"
+        }
+      ],
+      "date_added": "2025-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182862,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4HEggPhcyKQGzHLsgfs9my"
     },
     {
       "album": {

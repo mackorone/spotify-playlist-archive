@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 11256,
+  "num_followers": 11262,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
+        "name": "\ube44\ub204",
+        "url": "https://open.spotify.com/album/6cffqSCtfQHUKJsf7iGZSs"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "\ube44\ub204",
+      "url": "https://open.spotify.com/track/0lSJQip2wVidbu1JfZ4IEQ"
+    },
+    {
+      "added_at": "2025-04-09 05:00:26",
+      "album": {
         "name": "TO DIE FOR",
         "url": "https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 175716,
       "name": "Dare to Love (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/6odZjB2Z1T2iJTf5bbqUIe"
-    },
-    {
-      "added_at": "2025-04-09 05:00:26",
-      "album": {
-        "name": "\ube44\ub204",
-        "url": "https://open.spotify.com/album/6cffqSCtfQHUKJsf7iGZSs"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "\ube44\ub204",
-      "url": "https://open.spotify.com/track/0lSJQip2wVidbu1JfZ4IEQ"
     },
     {
       "added_at": "2025-04-09 05:00:26",
@@ -679,26 +679,6 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "Action!",
-        "url": "https://open.spotify.com/album/4Hb8uCYS7SG7vJ7oHInaAw"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        },
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        }
-      ],
-      "duration_ms": 190812,
-      "name": "Action! (Feat. GRAY)",
-      "url": "https://open.spotify.com/track/3IW5rhsRBxstifAnjQyUI9"
-    },
-    {
-      "added_at": "2025-04-09 05:00:26",
-      "album": {
         "name": "RE:UP",
         "url": "https://open.spotify.com/album/7eLDu8gX4OteyGpDLvM99h"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 190813,
       "name": "Good Night (Feat. BE'O)",
       "url": "https://open.spotify.com/track/7uzmxEjFEAiadiCCXa0bhi"
+    },
+    {
+      "added_at": "2025-04-09 05:00:26",
+      "album": {
+        "name": "Action!",
+        "url": "https://open.spotify.com/album/4Hb8uCYS7SG7vJ7oHInaAw"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "duration_ms": 190812,
+      "name": "Action! (Feat. GRAY)",
+      "url": "https://open.spotify.com/track/3IW5rhsRBxstifAnjQyUI9"
     },
     {
       "added_at": "2025-04-09 05:00:26",
@@ -855,26 +855,6 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "Fix you",
-        "url": "https://open.spotify.com/album/0GltVnMpJLoHv1xjzqSqHv"
-      },
-      "artists": [
-        {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
-        },
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 176012,
-      "name": "if i die (Feat. ASH ISLAND)",
-      "url": "https://open.spotify.com/track/0DEoLBczhPmawtTrfnWp8F"
-    },
-    {
-      "added_at": "2025-04-09 05:00:26",
-      "album": {
         "name": "Show Me the Money 4 Episode 5",
         "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 249317,
       "name": "Fear",
       "url": "https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv"
+    },
+    {
+      "added_at": "2025-04-09 05:00:26",
+      "album": {
+        "name": "Fix you",
+        "url": "https://open.spotify.com/album/0GltVnMpJLoHv1xjzqSqHv"
+      },
+      "artists": [
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 176012,
+      "name": "if i die (Feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/0DEoLBczhPmawtTrfnWp8F"
     },
     {
       "added_at": "2025-04-09 05:00:26",
@@ -923,26 +923,6 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "Wish & Wind",
-        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
-      },
-      "artists": [
-        {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
-        }
-      ],
-      "duration_ms": 210158,
-      "name": "Jenga (feat. Gaeko)",
-      "url": "https://open.spotify.com/track/1dA1tlzwcJ3YDYsSul1m06"
-    },
-    {
-      "added_at": "2025-04-09 05:00:26",
-      "album": {
         "name": "Candy",
         "url": "https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 186019,
       "name": "Candy (Feat. Zion.T)",
       "url": "https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8"
+    },
+    {
+      "added_at": "2025-04-09 05:00:26",
+      "album": {
+        "name": "Wish & Wind",
+        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
+      },
+      "artists": [
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "duration_ms": 210158,
+      "name": "Jenga (feat. Gaeko)",
+      "url": "https://open.spotify.com/track/1dA1tlzwcJ3YDYsSul1m06"
     },
     {
       "added_at": "2025-04-09 05:00:26",
@@ -983,22 +983,26 @@
     {
       "added_at": "2025-04-09 05:00:26",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/4MolsOrmb3pU7jKghkFZyr"
+        "name": "Curtain Call",
+        "url": "https://open.spotify.com/album/02RwftMPUiJvxCTDOUSJWx"
       },
       "artists": [
         {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
         },
         {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
         }
       ],
-      "duration_ms": 195942,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/2LLkJ46RvmYlkqduRgK1Nn"
+      "duration_ms": 229575,
+      "name": "Time limit (Feat. Leellamarz, Loco)",
+      "url": "https://open.spotify.com/track/1jQg7ImfH2OVpp9lu9mOj0"
     }
   ],
   "unique_name": "\uac10\uc131\ud799\ud569",

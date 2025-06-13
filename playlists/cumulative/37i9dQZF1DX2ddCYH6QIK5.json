@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Celebrating 10 years of  the best new music by independent artists and labels, updated every Wednesday. Cover: linusjonathan, Artwork: Isu Kim",
+  "description": "Celebrating 10 years of  the best new music by independent artists and labels, updated every Wednesday. Cover: Lone Assembly, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -366,7 +366,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 212000,
       "name": "A Piece Of My Heart",
       "url": "https://open.spotify.com/track/64pomjhTqMjNFILGkPkC3N"
@@ -896,7 +896,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 159500,
       "name": "Alles L\u00fcgen",
       "url": "https://open.spotify.com/track/1dEv8UGoLqEibkymEN4Xhi"
@@ -1823,6 +1823,24 @@
     },
     {
       "album": {
+        "name": "bad decision",
+        "url": "https://open.spotify.com/album/6NGLIQm6LRqRP7gOJUllh5"
+      },
+      "artists": [
+        {
+          "name": "julnotjules",
+          "url": "https://open.spotify.com/artist/44NKrXjLYCkyIPKkbHaTMq"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129119,
+      "name": "bad decision",
+      "url": "https://open.spotify.com/track/60KtXzPKerK6MeU9q4k0Ql"
+    },
+    {
+      "album": {
         "name": "Bad Girls",
         "url": "https://open.spotify.com/album/7DOmk3H3YwxhYKLDPa0GZ9"
       },
@@ -2198,7 +2216,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 196744,
       "name": "besser wenn du gehst",
       "url": "https://open.spotify.com/track/2qCWjtUGmxaJ78mvf2mUlp"
@@ -3605,6 +3623,42 @@
     },
     {
       "album": {
+        "name": "C'est la vie",
+        "url": "https://open.spotify.com/album/7qnf0ARMfLGncwdPeILYNh"
+      },
+      "artists": [
+        {
+          "name": "KES",
+          "url": "https://open.spotify.com/artist/20phvvvfUi6FimnSzKelv7"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "C'est la vie",
+      "url": "https://open.spotify.com/track/5FZ5GtE6LKBKqAkkSsK7hC"
+    },
+    {
+      "album": {
+        "name": "Call It",
+        "url": "https://open.spotify.com/album/1j7UI9cv7TYz0JMK7SoL8G"
+      },
+      "artists": [
+        {
+          "name": "SOLEROY",
+          "url": "https://open.spotify.com/artist/31VejJFhcFbkEdKEag93nM"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173080,
+      "name": "Call It",
+      "url": "https://open.spotify.com/track/24pYjMBzUIpMrMirDjHCJb"
+    },
+    {
+      "album": {
         "name": "TEll A ViSiON",
         "url": "https://open.spotify.com/album/1WA1kM9ZEYsdz07hFCEot8"
       },
@@ -4054,6 +4108,24 @@
       "duration_ms": 212664,
       "name": "Cheerful Pessimist",
       "url": "https://open.spotify.com/track/1zRjEdR28LqVJDWYVYoTes"
+    },
+    {
+      "album": {
+        "name": "Cherry Blossom",
+        "url": "https://open.spotify.com/album/3FzKM5OSyhtpI1EkVGr4O8"
+      },
+      "artists": [
+        {
+          "name": "animat",
+          "url": "https://open.spotify.com/artist/5LcZJ5jDHXAKIrnz4CuVhb"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192820,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/1WzuSv5vdHtvA3hQNv0RJg"
     },
     {
       "album": {
@@ -5457,6 +5529,24 @@
     },
     {
       "album": {
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/36j28iZ2cSNJh5kTYaPS8j"
+      },
+      "artists": [
+        {
+          "name": "arthur the gang",
+          "url": "https://open.spotify.com/artist/6CVeQGlxp0gotdC6FYKRnc"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/7BbXpIIyz0I410Ifqzm03u"
+    },
+    {
+      "album": {
         "name": "Didn't Know Back Then",
         "url": "https://open.spotify.com/album/5J89o3t8KlqPTFMfs800P8"
       },
@@ -6178,7 +6268,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 205795,
       "name": "Dumbo",
       "url": "https://open.spotify.com/track/2W1AFZlcRJVkWvHcILJ723"
@@ -6754,6 +6844,24 @@
       "duration_ms": 191491,
       "name": "eistee",
       "url": "https://open.spotify.com/track/44asUX16487NOrnGNM38NK"
+    },
+    {
+      "album": {
+        "name": "Electrical",
+        "url": "https://open.spotify.com/album/0Nf3LG8UZ0Ko9rZo0DxiDz"
+      },
+      "artists": [
+        {
+          "name": "Midnight Sessions",
+          "url": "https://open.spotify.com/artist/523vkuF0QkA2jUgBQjNTMl"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375630,
+      "name": "Electrical",
+      "url": "https://open.spotify.com/track/2ObiO1VrgnR0SoYJ0r3B8c"
     },
     {
       "album": {
@@ -8288,7 +8396,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 182535,
       "name": "F\u00e4llt mir schwer",
       "url": "https://open.spotify.com/track/1d1QAQ1UwhBMnlLBKLFcyZ"
@@ -8884,6 +8992,24 @@
       "duration_ms": 204035,
       "name": "Go",
       "url": "https://open.spotify.com/track/2aCcdJXnEzuitdeHzP79Wz"
+    },
+    {
+      "album": {
+        "name": "Go Home",
+        "url": "https://open.spotify.com/album/4rqabGVYOX525M2kbuYK4r"
+      },
+      "artists": [
+        {
+          "name": "NEIBOUR",
+          "url": "https://open.spotify.com/artist/4FVuG4V1sSn89OUo7dmGe2"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Go Home",
+      "url": "https://open.spotify.com/track/4nuVHTscR2SkDWgD6gKZF0"
     },
     {
       "album": {
@@ -11641,6 +11767,24 @@
     },
     {
       "album": {
+        "name": "In the Open",
+        "url": "https://open.spotify.com/album/6Oj9bLMElyTFLjHk8kPDLw"
+      },
+      "artists": [
+        {
+          "name": "Lone Assembly",
+          "url": "https://open.spotify.com/artist/7rBex2w8oAVe36lTvkMss6"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "In the Open",
+      "url": "https://open.spotify.com/track/0nhOgDH7UflMceascUdKn9"
+    },
+    {
+      "album": {
         "name": "In Wien",
         "url": "https://open.spotify.com/album/23ZN8T8Z3Q4fDEkGeQmxJ0"
       },
@@ -11904,7 +12048,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 197334,
       "name": "It\u2019s Time",
       "url": "https://open.spotify.com/track/6xXJbCnmFvvHGg0L9fTUpD"
@@ -12747,6 +12891,24 @@
     },
     {
       "album": {
+        "name": "Kurt Vibe",
+        "url": "https://open.spotify.com/album/08DFTTBKQjFJycWgGK3lqE"
+      },
+      "artists": [
+        {
+          "name": "Cori Nora",
+          "url": "https://open.spotify.com/artist/0S4A04FqluuvEBf4XEfx7u"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212586,
+      "name": "Kurt Vibe",
+      "url": "https://open.spotify.com/track/4cJDg4qLHJcmimDkbmNTgg"
+    },
+    {
+      "album": {
         "name": "K\u00f6lle am Meer",
         "url": "https://open.spotify.com/album/4PK1mgSWTQE3wg1cnpOIgI"
       },
@@ -13530,7 +13692,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 224132,
       "name": "life is good - edit",
       "url": "https://open.spotify.com/track/0X3qqqrbSVnkZJkfHozQQJ"
@@ -13710,7 +13872,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 225202,
       "name": "Lonely Men",
       "url": "https://open.spotify.com/track/2LFTMx8lbbgNPd7kVha677"
@@ -17970,7 +18132,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 280845,
       "name": "Ragazzo",
       "url": "https://open.spotify.com/track/3SBwbbe0aVrXnchJ9MN69D"
@@ -24885,6 +25047,24 @@
     },
     {
       "album": {
+        "name": "Wie du heisst",
+        "url": "https://open.spotify.com/album/4ul085axzJj8CrkuDIhx04"
+      },
+      "artists": [
+        {
+          "name": "Berliner Doom",
+          "url": "https://open.spotify.com/artist/5MZO75DkdSmSmU3bx3f8FZ"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150967,
+      "name": "Wie du heisst",
+      "url": "https://open.spotify.com/track/6i6SIrNqx7z9lB305HBBSi"
+    },
+    {
+      "album": {
         "name": "Pelzwerk",
         "url": "https://open.spotify.com/album/1tRhxS7b9dZ0RJolbFzbzU"
       },
@@ -24896,7 +25076,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 225791,
       "name": "Wie geht der Tanz",
       "url": "https://open.spotify.com/track/4wrmxOKezwLIXDCxmGfPRA"

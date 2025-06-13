@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "In this house we celebrate Australian music. Cover: Vv Pete",
+  "description": "In this house we celebrate Australian music. Cover: ONEFOUR",
   "name": "Turn Up Aus",
   "tracks": [
     {
@@ -158,6 +158,24 @@
       "duration_ms": 211612,
       "name": "A.A.",
       "url": "https://open.spotify.com/track/0tnvYx9kZElB3wWkpSmDTp"
+    },
+    {
+      "album": {
+        "name": "Phantom Island",
+        "url": "https://open.spotify.com/album/3koVdFrXznL2PQ8WxTYjt7"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286764,
+      "name": "Aerodynamic",
+      "url": "https://open.spotify.com/track/3vPJI4YMeXCypIbDwka9gG"
     },
     {
       "album": {
@@ -341,6 +359,24 @@
     },
     {
       "album": {
+        "name": "ANGEL",
+        "url": "https://open.spotify.com/album/6OGMwoSKdKLbTfKfaAGkaV"
+      },
+      "artists": [
+        {
+          "name": "Gordon's Grandson",
+          "url": "https://open.spotify.com/artist/1Rz6zEO0rTdy208byosnx9"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160693,
+      "name": "ANGEL",
+      "url": "https://open.spotify.com/track/5Kk8AiJSxdhT5nflK8l4oE"
+    },
+    {
+      "album": {
         "name": "Archaeology",
         "url": "https://open.spotify.com/album/1CM763zbcbSqqnP0yNKDwM"
       },
@@ -472,7 +508,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 165228,
       "name": "Bangalang",
       "url": "https://open.spotify.com/track/27lrXtK8mDFsmQrcatZ71E"
@@ -551,6 +587,24 @@
     },
     {
       "album": {
+        "name": "Big Ol' Hammer",
+        "url": "https://open.spotify.com/album/6tnp1KpDg5ZCAxkHnk3hhX"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147571,
+      "name": "Big Ol' Hammer",
+      "url": "https://open.spotify.com/track/0KC3gdNQmZcNmGUJg4iXEV"
+    },
+    {
+      "album": {
         "name": "Promised Land",
         "url": "https://open.spotify.com/album/5AQJtssmlN9QQCHZNTLBXi"
       },
@@ -598,7 +652,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 202597,
       "name": "Blink Twice",
       "url": "https://open.spotify.com/track/7Eo9P9znoVf3kViiNz8NNq"
@@ -1283,6 +1337,32 @@
     },
     {
       "album": {
+        "name": "Distant Strangers (feat. The Kid LAROI & Imogen Heap)",
+        "url": "https://open.spotify.com/album/1cwp5FEVGQaKoBV1WPbIdJ"
+      },
+      "artists": [
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Distant Strangers (feat. The Kid LAROI & Imogen Heap)",
+      "url": "https://open.spotify.com/track/7oa9VKcTKyWIYTnaz5V6xI"
+    },
+    {
+      "album": {
         "name": "Do I Need To Know What Love Is? (feat. Josh Teskey)",
         "url": "https://open.spotify.com/album/71D9MrSKeTKlyEn8btYGlv"
       },
@@ -1342,6 +1422,28 @@
       "duration_ms": 182733,
       "name": "doing my best",
       "url": "https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr"
+    },
+    {
+      "album": {
+        "name": "Hotel Living",
+        "url": "https://open.spotify.com/album/679EGqfIi13IxNcGwbyVP0"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        },
+        {
+          "name": "cherry chola",
+          "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143825,
+      "name": "Dolly Destructiva",
+      "url": "https://open.spotify.com/track/7LSq6cn5rFWH1gQzG2rMgD"
     },
     {
       "album": {
@@ -1518,7 +1620,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 182746,
       "name": "Driving Me Wild",
       "url": "https://open.spotify.com/track/7uVfTZjuVxiQah7iDnUrgU"
@@ -1785,6 +1887,28 @@
     },
     {
       "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/3kichZUBPRawFSLkhPzFtB"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Sumner",
+          "url": "https://open.spotify.com/artist/3MkvptiOUwlGj7DyNbJfrY"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167530,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/3tYy5DX20Bd3SO4UABc3Xt"
+    },
+    {
+      "album": {
         "name": "Freaker",
         "url": "https://open.spotify.com/album/3TcAQVAFJxk7Bb1JDIPEvO"
       },
@@ -1886,7 +2010,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 171078,
       "name": "Get 'Em Up",
       "url": "https://open.spotify.com/track/3WJXMqyJTVUoZbe73wDjYw"
@@ -2090,6 +2214,24 @@
       "duration_ms": 232978,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/7CFflcTpnR5RGtxnSHlMPk"
+    },
+    {
+      "album": {
+        "name": "Got Them",
+        "url": "https://open.spotify.com/album/4lflircZajubqPESbeqEvJ"
+      },
+      "artists": [
+        {
+          "name": "Yung Maynie",
+          "url": "https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208571,
+      "name": "Got Them",
+      "url": "https://open.spotify.com/track/3GLV0BMXvc9S1yQsnnplm0"
     },
     {
       "album": {
@@ -2636,7 +2778,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 170126,
       "name": "Keep It Moving",
       "url": "https://open.spotify.com/track/1otNlqVX2CmlWyA98afSdr"
@@ -2926,6 +3068,24 @@
       "duration_ms": 215331,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe"
+    },
+    {
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/1YkV4jnkTLpj66ocfMuusm"
+      },
+      "artists": [
+        {
+          "name": "The Dreggs",
+          "url": "https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246392,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/3eGQh9vcLCsLfKTbFzgVFP"
     },
     {
       "album": {
@@ -3330,7 +3490,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 402133,
       "name": "Never Stop Loving You",
       "url": "https://open.spotify.com/track/47Je1AgGGoqiK1ERyARL5Y"
@@ -3432,7 +3592,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 232868,
       "name": "No Cure For Love",
       "url": "https://open.spotify.com/track/473PUp4n0CKUOpavKubWcV"
@@ -4344,7 +4504,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 194794,
       "name": "Scorching Heat",
       "url": "https://open.spotify.com/track/0VNlrimGojC31fEX3c7T78"
@@ -4482,7 +4642,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 169239,
       "name": "Shot Caller",
       "url": "https://open.spotify.com/track/7wCY9HLLNECM1DxO3Mz6CK"
@@ -4940,7 +5100,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 192619,
       "name": "Tacklebox",
       "url": "https://open.spotify.com/track/6eMWMTmsTwApiQCUeCFGpA"
@@ -5316,6 +5476,28 @@
       "duration_ms": 223455,
       "name": "things i want",
       "url": "https://open.spotify.com/track/06aqgaHt1M1ZRcEe04CvaN"
+    },
+    {
+      "album": {
+        "name": "Thought You'd Know By Now",
+        "url": "https://open.spotify.com/album/4GIXkFwJ7hhS1TaByKiQDQ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Atlantis",
+          "url": "https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO"
+        },
+        {
+          "name": "FRIDAY*",
+          "url": "https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177582,
+      "name": "Thought You'd Know By Now",
+      "url": "https://open.spotify.com/track/3r3Q5fZSk15DX2bJI12Mz6"
     },
     {
       "album": {
@@ -5833,6 +6015,24 @@
     },
     {
       "album": {
+        "name": "i want the light to swallow me whole",
+        "url": "https://open.spotify.com/album/6OZBrcIljhzV1VMfQLgVbh"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137878,
+      "name": "when my wings are cut off",
+      "url": "https://open.spotify.com/track/4FLzbyklBSxPgU1PW82UUj"
+    },
+    {
+      "album": {
         "name": "Where You Need To Be",
         "url": "https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz"
       },
@@ -5866,7 +6066,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 187113,
       "name": "WICKED (WOAH)",
       "url": "https://open.spotify.com/track/3ooEmXQnBUtR39lgXLYYCx"

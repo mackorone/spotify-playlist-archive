@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 
 > Our editors' top picks for the best Jazz songs of the year\. Cover: Keyon Harrold
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,640 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,656 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 49 | [The Beauty of Everyday Life](https://open.spotify.com/track/7mKR8BgOy8xDDlKTsRlvlX) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [Valencia](https://open.spotify.com/album/0lxIxueK2Lsq8nrFAYpK0k) | 6:19 |
 | 50 | [French Horns](https://open.spotify.com/track/6Lzn3ZdK23do19wydqPEnc) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [Complex Emotions](https://open.spotify.com/album/7212ghCjzCLery6ps0HSeG) | 3:50 |
 
-Snapshot ID: `AAAAAEDYF4SwbkcovyVR53SrOGlUCUW/`
+Snapshot ID: `Z1BIAAAAAAB6HN0nCDL38chaL2jR5VQS`

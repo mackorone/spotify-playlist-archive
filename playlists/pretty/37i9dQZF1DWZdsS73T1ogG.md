@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Kris R., Hades66, Almighty
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,154 likes - 158 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,129 likes - 158 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

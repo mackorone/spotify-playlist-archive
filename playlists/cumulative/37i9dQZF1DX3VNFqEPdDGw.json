@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "V8",
+        "url": "https://open.spotify.com/album/4yzyfXlckctM5u8I9Mslk2"
+      },
+      "artists": [
+        {
+          "name": "Jass Bajwa",
+          "url": "https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx"
+        },
+        {
+          "name": "Mandeep Maavi",
+          "url": "https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1"
+        }
+      ],
+      "date_added": "2025-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "25/26",
+      "url": "https://open.spotify.com/track/2eHjnrKW0jAJ0JwjBMW9Zv"
+    },
+    {
+      "album": {
         "name": "3 Peg",
         "url": "https://open.spotify.com/album/2onCNtkuhjk538U3dPusIy"
       },
@@ -6352,7 +6374,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 214000,
       "name": "Vaddi Galbaat",
       "url": "https://open.spotify.com/track/201pUEIPDVLtsmqf2O6QaR"

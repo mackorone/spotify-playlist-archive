@@ -791,6 +791,22 @@
     {
       "added_at": "2025-05-30 06:09:43",
       "album": {
+        "name": "MY RIDE",
+        "url": "https://open.spotify.com/album/2CeGbSrinsDbNzjsJU0fi2"
+      },
+      "artists": [
+        {
+          "name": "JASMINE",
+          "url": "https://open.spotify.com/artist/3zoeO3T9qt9Vt3sHmaT1UQ"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "MY RIDE",
+      "url": "https://open.spotify.com/track/0cpDaRIGcQOIOORtwQzQ50"
+    },
+    {
+      "added_at": "2025-05-30 06:09:43",
+      "album": {
         "name": "mojo",
         "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 151880,
       "name": "LSD (Feat. JUNNY)",
       "url": "https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s"
-    },
-    {
-      "added_at": "2025-05-30 06:09:43",
-      "album": {
-        "name": "MY RIDE",
-        "url": "https://open.spotify.com/album/2CeGbSrinsDbNzjsJU0fi2"
-      },
-      "artists": [
-        {
-          "name": "JASMINE",
-          "url": "https://open.spotify.com/artist/3zoeO3T9qt9Vt3sHmaT1UQ"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "MY RIDE",
-      "url": "https://open.spotify.com/track/0cpDaRIGcQOIOORtwQzQ50"
     },
     {
       "added_at": "2025-05-30 06:09:43",
@@ -1087,22 +1087,18 @@
     {
       "added_at": "2025-05-30 06:09:43",
       "album": {
-        "name": "One Bad Night",
-        "url": "https://open.spotify.com/album/0kIaHXgYSK2eE5Makr8vdK"
+        "name": "FRAME",
+        "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
       },
       "artists": [
         {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
-        },
-        {
-          "name": "GEMINI",
-          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+          "name": "Han Seungwoo",
+          "url": "https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl"
         }
       ],
-      "duration_ms": 212226,
-      "name": "Bedtime Story (feat. GEMINI)",
-      "url": "https://open.spotify.com/track/0dx3adSBZqWmGGcgNxxSiA"
+      "duration_ms": 184280,
+      "name": "Dive Into",
+      "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
     }
   ],
   "unique_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",

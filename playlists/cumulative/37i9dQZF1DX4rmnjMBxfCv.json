@@ -1753,6 +1753,32 @@
     },
     {
       "album": {
+        "name": "Enta Eih (&friends, Ikerfoxx Remake)",
+        "url": "https://open.spotify.com/album/7tqFSATtqqe6Ncih4Et4FZ"
+      },
+      "artists": [
+        {
+          "name": "Nancy Ajram",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+        },
+        {
+          "name": "&friends",
+          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
+        },
+        {
+          "name": "Ikerfoxx",
+          "url": "https://open.spotify.com/artist/7mTgGy6hZd2qLecu5VqxMe"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Enta Eih - &friends, Ikerfoxx Remake",
+      "url": "https://open.spotify.com/track/4hokmwSEPKz2OIycBanWUt"
+    },
+    {
+      "album": {
         "name": "Enta Eli Hweyt",
         "url": "https://open.spotify.com/album/2GZP4oD2TiwkzUxQGymvQy"
       },
@@ -4766,7 +4792,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 274925,
       "name": "stayinit",
       "url": "https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ"

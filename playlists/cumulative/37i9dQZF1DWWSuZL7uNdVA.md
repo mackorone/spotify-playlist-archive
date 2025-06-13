@@ -2,9 +2,9 @@
 
 ### [Top of the Rock](https://open.spotify.com/playlist/37i9dQZF1DWWSuZL7uNdVA)
 
-> Sleep Token au top des meilleurs morceaux rock du moment.
+> Turnstile au top des meilleurs morceaux rock du moment.
 
-385 songs - 21 hr 49 min
+387 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,10 +73,11 @@
 | [Calling Anybody](https://open.spotify.com/track/7aumNl1d0tmZBIEThfaldQ) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Calling Anybody](https://open.spotify.com/album/5kckhaBcrWNivJSFm7xKzd) | 3:23 | 2024-09-19 | 2024-11-08 |
 | [Can You Hear Me ?](https://open.spotify.com/track/71s7H5ny1NXXsOhpfRNhpI) | [Lowland Brothers](https://open.spotify.com/artist/2tykhoGTmI8NsNKKyAq8Ga) | [Over The Fence](https://open.spotify.com/album/6H0jdjpgWJT8exAQXOBqOv) | 3:55 | 2024-11-21 | 2025-01-17 |
 | [Can't Say No](https://open.spotify.com/track/2fzc6So1P2MYJ2YtokLgLU) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Can't Say No](https://open.spotify.com/album/0eXqzpHZp49CthfRA4ggtN) | 3:12 | 2025-01-30 |  |
-| [Caramel](https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Caramel](https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m) | 4:50 | 2025-04-10 |  |
+| [Caramel](https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Caramel](https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m) | 4:50 | 2025-04-10 | 2025-06-13 |
 | [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 | 2025-04-10 |  |
 | [Cheers](https://open.spotify.com/track/2bPm2KgdHwttB2ZRdL0jdZ) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Cheers](https://open.spotify.com/album/34r9RSSfxVG5pDXbfcuE8u) | 3:26 | 2025-04-03 |  |
 | [Chicago](https://open.spotify.com/track/4PLoLTmD04MXXRQU9T8ar8) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Chicago](https://open.spotify.com/album/520IybGxG4OXfXwmoe2L9K) | 3:58 | 2024-07-25 | 2024-08-09 |
+| [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 | 2025-06-12 |  |
 | [Cold World](https://open.spotify.com/track/4rUWdWtDbM3aYUHoFTzJdW) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/4OMrhNt4uDO7k44AlkqLJb) | 3:17 | 2024-02-08 | 2024-04-04 |
 | [Come On Outside](https://open.spotify.com/track/6My4sJdcXQoTY4ThZdDLZh) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Come On Outside](https://open.spotify.com/album/7nUn7PGh1RKgBbE59TGrT1) | 2:58 | 2024-10-10 | 2025-02-07 |
 | [Comme Toi](https://open.spotify.com/track/4HFus0VtxPA5GgN0ylCd2R) | [Pogo Car Crash Control](https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD) | [NEGATIVE SKILLS](https://open.spotify.com/album/6KwIxtTGMQIKnGkv97TgCW) | 2:47 | 2025-03-27 |  |
@@ -152,6 +153,7 @@
 | [HURT](https://open.spotify.com/track/0E0GPPvheTzleZgWckjef2) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [FISSION](https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA) | 3:33 | 2024-11-07 | 2024-12-20 |
 | [HURT \(feat\. The Warning\)](https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [HURT \(feat\. The Warning\)](https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3) | 3:33 | 2024-12-19 | 2025-04-18 |
 | [hurt myself](https://open.spotify.com/track/0hA21a7LBM161F57QDR2IH) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [hurt myself](https://open.spotify.com/album/5ki5byNlXNu1UtphMyQeym) | 2:26 | 2023-09-28 | 2023-10-20 |
+| [I CARE](https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:53 | 2025-06-12 |  |
 | [I Couldn't Miss You Much More](https://open.spotify.com/track/73t2JzLWQd8NREbzYRLjvd) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Meltdown](https://open.spotify.com/album/74U9neD1UIy0rz9SzZ4nLh) | 3:42 | 2024-10-10 | 2025-01-10 |
 | [I Don't Believe You](https://open.spotify.com/track/2UE7icsfsSdhqI5IEugp6y) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [I Don't Believe You](https://open.spotify.com/album/1PA7AiY07STmsCGVKCIutl) | 3:05 | 2024-11-07 | 2025-01-10 |
 | [I Got Heaven](https://open.spotify.com/track/4C6EPbxGiGSX95nJY3z9ZG) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 2:58 | 2024-03-14 | 2024-03-27 |
@@ -247,7 +249,7 @@
 | [Paws](https://open.spotify.com/track/73bLtrWnmMu15zgkwgxIft) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Paws](https://open.spotify.com/album/2WTsBo00ik6uknNsm09K9v) | 4:19 | 2025-05-01 |  |
 | [Peacefield \- Single Version](https://open.spotify.com/track/6j9GJGI7sogofbagE6za5E) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Peacefield](https://open.spotify.com/album/5vNvNASfnf2MVIrnoLr1OE) | 4:46 | 2025-05-15 |  |
 | [People Ruin Paintings](https://open.spotify.com/track/2CqvMjkMP1YXLVdK0zBLCQ) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [People Ruin Paintings](https://open.spotify.com/album/6F6Q9dnHcdjNFG2cfvo17P) | 4:22 | 2025-01-09 | 2025-05-30 |
-| [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 | 2025-01-09 |  |
+| [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 | 2025-01-09 | 2025-06-13 |
 | [pity](https://open.spotify.com/track/63PjD6QWNa5wqft8UIbQHV) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [pity](https://open.spotify.com/album/1MxwPm5Vv9aWl7J3wNI7Sk) | 2:59 | 2023-11-16 | 2023-12-01 |
 | [Plastic Boxes](https://open.spotify.com/track/3DqzYWmNEUosgfMlMXTNwi) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [As Above, So Below](https://open.spotify.com/album/3zvOwqqjuGh8CZYhx2hgaJ) | 4:07 | 2024-07-25 | 2024-08-16 |
 | [Plasticine](https://open.spotify.com/track/6OKWc4dJQ4qBNSdMf0Yzbm) | [Jekyll](https://open.spotify.com/artist/19Ak4FmJt4Re3V91wATVKK) | [Plasticine](https://open.spotify.com/album/7eE7nV62AkWNOtWBHnxeCM) | 3:22 | 2024-11-21 | 2025-01-10 |

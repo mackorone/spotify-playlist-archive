@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: <a href="https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6?si=gD4aiSLdQxONDTYraTL03A">  محمود الليثي </a>
 
-293 songs - 21 hr 12 min
+294 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [3amalna Ema](https://open.spotify.com/track/17JMZQiLWe3NxHGBv80ll3) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [3amalna Ema](https://open.spotify.com/album/3Udz2hgIlmKqxSW8c0mYJm) | 4:17 | 2023-09-01 | 2023-12-22 |
 | [6 Weshoosh](https://open.spotify.com/track/5jy51UBSAHKs94Uy6ephsB) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [6 Weshoosh \(feat\. Ahmed Sheba\)](https://open.spotify.com/album/76RxfK0IDe9GYTSLDfjZtm) | 4:56 | 2021-12-16 | 2022-12-21 |
 | [7ataly Rouge](https://open.spotify.com/track/7qykIGykxfY5LKvGlSfJXu) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz), [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [7ataly Rouge](https://open.spotify.com/album/1fGQcXBnD6Ew1Jw7fevXQ1) | 3:02 | 2021-12-16 | 2023-07-12 |
-| [Aal Doghrey](https://open.spotify.com/track/6WBEzul5kA06o2OR1pXqIt) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Aal Doghrey](https://open.spotify.com/album/41lOl3mkPOQnWVTibhOWFK) | 3:37 | 2021-12-16 |  |
+| [Aal Doghrey](https://open.spotify.com/track/6WBEzul5kA06o2OR1pXqIt) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Aal Doghrey](https://open.spotify.com/album/41lOl3mkPOQnWVTibhOWFK) | 3:37 | 2021-12-16 | 2025-06-13 |
 | [Aal Doghrey](https://open.spotify.com/track/0rGCXktltsDt5jmcFwjFm4) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Aal Doghrey](https://open.spotify.com/album/7zhW3zAi1lfGgNmSk9GiCY) | 4:43 | 2024-07-04 |  |
 | [Aalam Gharib](https://open.spotify.com/track/0ty8uZ1IjxJGvHgMGUrb18) | [Tarek El Sheikh](https://open.spotify.com/artist/0BNCbz1t4tnKmzLeHi5Dk6) | [Aalam Gharib](https://open.spotify.com/album/6WDkW3GMLhyfg3iTQnMyWI) | 5:30 | 2022-12-20 | 2023-05-12 |
 | [Aamel Mekhawy](https://open.spotify.com/track/6ljPFrvovokU3nhdcmoy7l) | [Tarek El Sheikh](https://open.spotify.com/artist/0BNCbz1t4tnKmzLeHi5Dk6) | [Aamel Mekhawy](https://open.spotify.com/album/1LepxF0GpNaMvMebBDRNsP) | 3:25 | 2021-12-16 | 2023-05-12 |
@@ -289,6 +289,7 @@
 | [ناس رخاص](https://open.spotify.com/track/1cx8SaH3qOkQy2xzXqwbwu) | [Ahmed Amer](https://open.spotify.com/artist/30rRZEkK9ZECZDSV8bIkV0) | [ناس رخاص](https://open.spotify.com/album/3i1LShxG8qpiWas7pAuya0) | 5:13 | 2021-12-16 |  |
 | [نص بنات بلدك](https://open.spotify.com/track/0wcdBkbUsOwZ7eK9vheI3w) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [نص بنات بلدك](https://open.spotify.com/album/0IG0hyjIdkYn10GVmmcfIi) | 2:08 | 2023-12-29 | 2024-01-26 |
 | [هجوم فجائي](https://open.spotify.com/track/6oJ8OTMckJHkMP96OmM20M) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [هجوم فجائي](https://open.spotify.com/album/7MVTw1BuTpyCh8kl8Ca5Ww) | 4:25 | 2023-01-03 | 2023-05-13 |
+| [هعافر](https://open.spotify.com/track/1UUBs82RVxRGhAOe9WqAcC) | [Wael El Fashny](https://open.spotify.com/artist/3HmBF9Z6hSXHWDMgLALAnD) | [هعافر](https://open.spotify.com/album/2A4hQ0OBW1n1av8IHatQ0m) | 4:02 | 2025-06-12 |  |
 | [هنخربها](https://open.spotify.com/track/46b56o9gUwcgJRXBhIDNTK) | [Amina](https://open.spotify.com/artist/5oqJdJiiqwYKUk1U4kFB2w), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [هنخربها](https://open.spotify.com/album/4FrsIKy8Zo8uXTc91brfIb) | 5:16 | 2024-08-13 |  |
 | [واحد بس](https://open.spotify.com/track/0BNmhMgicJEEbWXOi3JAES) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [واحد بس](https://open.spotify.com/album/2M4E9lvrpNSfmCgfVNpOC3) | 3:09 | 2023-08-30 |  |
 | [وقت المصلحة](https://open.spotify.com/track/1AJpQusk0FD6jPj9fjyMPC) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [وقت المصلحة](https://open.spotify.com/album/5gFFD93W7eXAX5AR6LZnQW) | 3:44 | 2021-12-16 | 2022-07-29 |

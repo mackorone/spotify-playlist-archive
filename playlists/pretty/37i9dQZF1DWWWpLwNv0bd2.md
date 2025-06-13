@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 
 ### [Latest Love Tamil](https://open.spotify.com/playlist/37i9dQZF1DWWWpLwNv0bd2)
 
-> Check out the Latest Romance Tracks.<br/>Cover : Veera Dheera Sooran
+> Check out the Latest Romance Tracks.<br/>Cover : Thalaivan Thalaivi
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,175 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,267 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Muththa Mazhai \(Reprise\)](https://open.spotify.com/track/0nrJ7jsUFR0pDHV6NvKJje) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Siva Ananth](https://open.spotify.com/artist/5fZe0ixZMgYwu5BLCNvMDC) | [Thug Life \(Tamil\)](https://open.spotify.com/album/1q6GzjsUS9kyQmEDH7D1Ak) | 4:00 |
-| 2 | [Kalloorum \- From "Veera Dheera Sooran"](https://open.spotify.com/track/1tsvjUpHeho8hX0ynlDwLO) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Kalloorum \(From "Veera Dheera Sooran"\)](https://open.spotify.com/album/0qTFfYaSPhXMZvMTqMGnGn) | 3:32 |
-| 3 | [Pottala Muttaye \- From "Thalaivan Thalaivii"](https://open.spotify.com/track/5uoFuhKbCzo5cET3kn3pSv) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Pottala Muttaye \(From "Thalaivan Thalaivii"\)](https://open.spotify.com/album/2nYkbP3CzuoC54BcSKUjak) | 3:46 |
+| 2 | [Pottala Muttaye \- From "Thalaivan Thalaivii"](https://open.spotify.com/track/5uoFuhKbCzo5cET3kn3pSv) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Pottala Muttaye \(From "Thalaivan Thalaivii"\)](https://open.spotify.com/album/2nYkbP3CzuoC54BcSKUjak) | 3:46 |
+| 3 | [Kalloorum \- From "Veera Dheera Sooran"](https://open.spotify.com/track/1tsvjUpHeho8hX0ynlDwLO) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Kalloorum \(From "Veera Dheera Sooran"\)](https://open.spotify.com/album/0qTFfYaSPhXMZvMTqMGnGn) | 3:32 |
 | 4 | [Vazhithunaiye \- From "Dragon"](https://open.spotify.com/track/3bTnREOf1CyY4Gz5jfHUiI) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Sanjana Kalmanje](https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ) | [Vazhithunaiye \(From "Dragon"\)](https://open.spotify.com/album/6LP4JZkaCBL5wmM1YsgipZ) | 3:38 |
 | 5 | [Yedi \(From "Nilavuku En Mel Ennadi Kobam"\)](https://open.spotify.com/track/5QWuignQQWDlbtQsjKX0Kq) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Nilavuku En Mel Ennadi Kobam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/40e0n7SpErizpJh4A4X0ME) | 3:21 |
 | 6 | [Vinveli Nayaga](https://open.spotify.com/track/6ioxBnY5yi9Ah8sdsxz1nc) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shruti Haasan](https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h), [A\. R\. Ameen](https://open.spotify.com/artist/0pO2eJn9QBtNRVdLxI1nrE), [Karthik Netha](https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55), [Prashanth Venkat](https://open.spotify.com/artist/0RR41Pd6GRRfVNRxYBMeG8) | [Thug Life \(Tamil\)](https://open.spotify.com/album/31TRIxu0k1xA4rn4JCwlMb) | 4:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 | 49 | [Kangal Edho](https://open.spotify.com/track/7CfNtzLIwNZ6ze4TXFD0bH) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Karthika Vaidyanathan](https://open.spotify.com/artist/6JU9Z6CZZFeOO4pqZUJ3TS) | [Chithha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4N2LYZUpZRdVq2344dCeGO) | 4:02 |
 | 50 | [Paavai](https://open.spotify.com/track/0Dy51XHPjIcOuVsCgFbtNF) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Sreekanth Hariharan](https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj), [Priyanka NK](https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K) | [Paavai](https://open.spotify.com/album/730TPIYVhOi5veCbw3yxc3) | 3:35 |
 
-Snapshot ID: `aEl+JQAAAABGr5vG2zvD6jVaK4jqZLVG`
+Snapshot ID: `aEqAegAAAAB3PJSokqliQp4k3JaRpZoM`

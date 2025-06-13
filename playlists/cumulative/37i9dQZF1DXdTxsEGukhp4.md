@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 紫 今
 
-509 songs - 1 day 5 hr 2 min
+511 songs - 1 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Now is the best!!!](https://open.spotify.com/track/4kjGAeGr3PPocjqhuIYbjf) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [Now is the best!!!](https://open.spotify.com/album/0tmM7aev0krqJLKlSyvej9) | 2:26 | 2023-05-25 | 2023-06-23 |
 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 | 2024-01-25 | 2024-11-15 |
 | [OMG](https://open.spotify.com/track/4mEA1iLTA7zEo5Uvv3UeS7) | [SUSHIBOYS](https://open.spotify.com/artist/7FFaFas6TD1PhMtJ1xel8J) | [NIGIRI](https://open.spotify.com/album/2Ph2gYYmPvh0pN9UUZ2TJe) | 3:04 | 2023-05-11 | 2023-11-11 |
-| [Omote](https://open.spotify.com/track/32yzfN13URHhpeq5tYbBNX) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [STAR](https://open.spotify.com/album/18MwbH9QVqszhUvrwLQ4s5) | 1:56 | 2025-03-27 |  |
+| [Omote](https://open.spotify.com/track/32yzfN13URHhpeq5tYbBNX) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [STAR](https://open.spotify.com/album/18MwbH9QVqszhUvrwLQ4s5) | 1:56 | 2025-03-27 | 2025-06-13 |
 | [One More Last Time](https://open.spotify.com/track/2EPQXOr3VLvDImQnoHOYO3) | [Henry Young](https://open.spotify.com/artist/7BFfb40nQrs3xKRMGK1GrC), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [One More Last Time](https://open.spotify.com/album/7duK1Gh3RZxf0G306zMree) | 2:09 | 2023-04-20 | 2023-12-14 |
 | [One verse](https://open.spotify.com/track/7atPg5O0DG0nQu9p1qGBCC) | [MANSION PARK](https://open.spotify.com/artist/5VejXt26cu0BRsdaBOcenJ) | [One verse](https://open.spotify.com/album/4MeMzX3Tev4AJ52B6QtoT9) | 3:22 | 2023-06-15 | 2023-11-11 |
 | [Oops \(feat\. Charlie Puth\)](https://open.spotify.com/track/7uU7UhUzfZJ5vEMoemdcIW) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:24 | 2023-03-17 | 2023-06-02 |
@@ -372,6 +372,7 @@
 | [カスタムラブドール](https://open.spotify.com/track/6ZIEoasvKFxGqF8u8n7VI2) | [悪魔のキッス\(戦慄かなの&かてぃ\)](https://open.spotify.com/artist/2pyHJ2Fb1gUbFERRaVpcHq) | [カスタムラブドール](https://open.spotify.com/album/41Uk2GvMrFbOEA8wA7YR0p) | 3:25 | 2024-04-18 | 2024-06-04 |
 | [カーテン](https://open.spotify.com/track/4CFKfOLJho0WBEdb5CG3JK) | [悠馬](https://open.spotify.com/artist/47kIb7z5wndfkWHdRN34kO) | [カーテン](https://open.spotify.com/album/00wLiXEu30HBl4chuWgO7o) | 3:21 | 2023-05-18 | 2023-07-14 |
 | [キタカゼ](https://open.spotify.com/track/2KiZEAlUsTNSDzihxCRnB6) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [キタカゼ](https://open.spotify.com/album/4necvS3oFQ2YyMxJrGvyjG) | 3:31 | 2023-09-01 | 2023-09-22 |
+| [キテル](https://open.spotify.com/track/6hCD2M9zRNsmFtVPjNnoKy) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [キテル](https://open.spotify.com/album/0I4nSg6CEHKzwsLBLUP5jP) | 1:45 | 2025-06-12 |  |
 | [キリエ・憐れみの讃歌](https://open.spotify.com/track/2lyFs3iMvfNi6bfHi3mJKj) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/3QsVm0REFvXjoxF87Qm4OE) | 5:18 | 2023-11-09 | 2023-12-14 |
 | [キリエ・憐れみの讃歌](https://open.spotify.com/track/7p2uXeTDH9a7Iat6oqY9Uq) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/16UD0fdKRMlLwVfCIviFyZ) | 5:18 | 2023-10-12 | 2023-11-11 |
 | [ケセラセラ](https://open.spotify.com/track/406ZlqOP9nLQxJFBY7d9S4) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ケセラセラ](https://open.spotify.com/album/2Qo9j2bmgZlGOkismqdPpN) | 4:32 | 2023-04-27 | 2023-06-16 |
@@ -399,7 +400,7 @@
 | [ハナウタ](https://open.spotify.com/track/0K8ckD0WIk7AzgEkXDPoVC) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [ハナウタ](https://open.spotify.com/album/3Lc1YBq6bx1Cu2SgLIho0N) | 3:49 | 2023-12-07 | 2024-01-05 |
 | [ハピチョコ](https://open.spotify.com/track/77iP0sExSNCUd6D33YLnXu) | [FRUITS ZIPPER](https://open.spotify.com/artist/4v5IVXt3oH0iNuxW9O36BV) | [ハピチョコ](https://open.spotify.com/album/6YuRTXMTLyw27w13yU9UPy) | 4:01 | 2023-02-09 | 2023-03-31 |
 | [バズ恋 \(BUZZ LOVE\)](https://open.spotify.com/track/1d7qKfnqojJoZ4W0xvH9AY) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : ME](https://open.spotify.com/album/3jqV1FFra3A2179rdtiNdo) | 3:11 | 2023-01-26 | 2023-02-02 |
-| [バナナボート \(feat\. Elle Teresa\)](https://open.spotify.com/track/4QixHRVeMuE10nZ42DyzPD) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [激アツ](https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl) | 2:42 | 2025-04-03 |  |
+| [バナナボート \(feat\. Elle Teresa\)](https://open.spotify.com/track/4QixHRVeMuE10nZ42DyzPD) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [激アツ](https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl) | 2:42 | 2025-04-03 | 2025-06-13 |
 | [バレンタイン決戦 \- Sped Up](https://open.spotify.com/track/2jAcF1P6jVhHo5ApALkoQC) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [バレンタイン決戦](https://open.spotify.com/album/7cIIvrxI6MPsrdzo2gB1S7) | 2:54 | 2025-02-20 |  |
 | [バービーギャル!!](https://open.spotify.com/track/74DQoWIJNeRqo42fj4JjNr) | [PAIN](https://open.spotify.com/artist/3KaeBQyUIIn9LWaAn9kkG0), [PIEC3 POPPO](https://open.spotify.com/artist/0MGvVcbeJWxtEdx1IxcO1X) | [バービーギャル!!](https://open.spotify.com/album/7gvsEKyLF7ekWeK0bmW5Wk) | 2:02 | 2024-09-19 | 2024-12-06 |
 | [パイパイ仮面でどうかしらん？](https://open.spotify.com/track/7iCS0o1iK0gs9PDRqIfVls) | [宝鐘マリン](https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk) | [パイパイ仮面でどうかしらん？](https://open.spotify.com/album/3bo99qytJ9NlbYNxRfVacG) | 4:51 | 2024-10-10 | 2025-02-14 |
@@ -509,6 +510,7 @@
 | [貴方の恋人になりたい](https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:54 | 2023-04-27 | 2023-11-11 |
 | [超最強](https://open.spotify.com/track/0bcZS6ifbiPHNFZNX71fiK) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [ときめきルールブック](https://open.spotify.com/album/33nAHJehmLBpYd7bbqPDNR) | 3:19 | 2025-06-05 |  |
 | [通り雨](https://open.spotify.com/track/380Ie5zoE1prroPeuNquXH) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [通り雨](https://open.spotify.com/album/6PS8k0M1Qlme23JTA1bhXE) | 3:01 | 2023-12-07 | 2024-05-01 |
+| [野良猫](https://open.spotify.com/track/208BzJ6J8QKcmvRt77hOtv) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [YUKAKO](https://open.spotify.com/album/6LOKVxFzL25htq0rK4z1oI) | 4:01 | 2025-06-12 |  |
 | [鎌倉STYLE](https://open.spotify.com/track/7uuGRrAHErHkzp51tFzcd7) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [鎌倉STYLE](https://open.spotify.com/album/0hJnHL8N0cRUKPSLeEWS6W) | 3:20 | 2024-08-01 | 2024-11-08 |
 | [閃光](https://open.spotify.com/track/6orDsQsMy7BaqGoRWw3fVN) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [閃光](https://open.spotify.com/album/1M0bv6o77rYRLeP0RYAcju) | 4:25 | 2023-01-26 | 2023-03-18 |
 | [電車の窓から](https://open.spotify.com/track/7eED5ZjvphcEaQjxkzsvBP) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [アンコール](https://open.spotify.com/album/4BciHYMbN5HlyO899tmMc9) | 4:52 | 2025-04-13 |  |

@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2454419,
+  "num_followers": 2454667,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -271,26 +271,6 @@
     {
       "added_at": "2025-05-28 05:07:54",
       "album": {
-        "name": "Senaryo",
-        "url": "https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k"
-      },
-      "artists": [
-        {
-          "name": "Adie",
-          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
-        },
-        {
-          "name": "Janine Berdin",
-          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
-        }
-      ],
-      "duration_ms": 201951,
-      "name": "Mahika",
-      "url": "https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi"
-    },
-    {
-      "added_at": "2025-05-28 05:07:54",
-      "album": {
         "name": "Sa Susunod Na Lang",
         "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 214606,
       "name": "Sa Susunod Na Lang",
       "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
+    },
+    {
+      "added_at": "2025-05-28 05:07:54",
+      "album": {
+        "name": "Senaryo",
+        "url": "https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k"
+      },
+      "artists": [
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        },
+        {
+          "name": "Janine Berdin",
+          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "Mahika",
+      "url": "https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi"
     },
     {
       "added_at": "2025-05-28 05:07:54",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-05-28 05:07:54",
       "album": {
-        "name": "Gusto Ko Sakin Ka Lang",
-        "url": "https://open.spotify.com/album/2CKTmUw2QrxtchdI1yVfQB"
-      },
-      "artists": [
-        {
-          "name": "Robledo Timido",
-          "url": "https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Gusto Ko Sakin Ka Lang",
-      "url": "https://open.spotify.com/track/52F5Y4EgcZ2RggVqpqSJBe"
-    },
-    {
-      "added_at": "2025-05-28 05:07:54",
-      "album": {
         "name": "Kitchie Nadal",
         "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 249080,
       "name": "Huwag Na Huwag Mong Sasabihin",
       "url": "https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN"
+    },
+    {
+      "added_at": "2025-05-28 05:07:54",
+      "album": {
+        "name": "Gusto Ko Sakin Ka Lang",
+        "url": "https://open.spotify.com/album/2CKTmUw2QrxtchdI1yVfQB"
+      },
+      "artists": [
+        {
+          "name": "Robledo Timido",
+          "url": "https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Gusto Ko Sakin Ka Lang",
+      "url": "https://open.spotify.com/track/52F5Y4EgcZ2RggVqpqSJBe"
     },
     {
       "added_at": "2025-05-28 05:07:54",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-05-28 05:07:54",
       "album": {
-        "name": "Sila",
-        "url": "https://open.spotify.com/album/0qwujayb77utSpftsXjdP3"
-      },
-      "artists": [
-        {
-          "name": "SUD",
-          "url": "https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Sila",
-      "url": "https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE"
-    },
-    {
-      "added_at": "2025-05-28 05:07:54",
-      "album": {
         "name": "Kitchie Nadal",
         "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 267680,
       "name": "Same Ground",
       "url": "https://open.spotify.com/track/5iNGxZ1waiyMFylg4QAHk6"
+    },
+    {
+      "added_at": "2025-05-28 05:07:54",
+      "album": {
+        "name": "Sila",
+        "url": "https://open.spotify.com/album/0qwujayb77utSpftsXjdP3"
+      },
+      "artists": [
+        {
+          "name": "SUD",
+          "url": "https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Sila",
+      "url": "https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE"
     },
     {
       "added_at": "2025-05-28 05:07:54",

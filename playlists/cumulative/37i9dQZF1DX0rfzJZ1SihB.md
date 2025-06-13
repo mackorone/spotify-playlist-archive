@@ -4,7 +4,7 @@
 
 > 今年的金曲獎要來了！Spotify 當然全力支持！火速呈獻精采提名作品！
 
-385 songs - 1 day 1 hr 57 min
+387 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [做一半的夢](https://open.spotify.com/track/4DF0vn03c0k24e2dr6cGqA) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [做一半的夢](https://open.spotify.com/album/37I6oZZMqyleclQQp6mPAa) | 3:24 | 2025-05-01 | 2025-05-15 |
 | [像帽子一樣](https://open.spotify.com/track/0EEuaY8GpZHuQXBZLe4mxw) | [孔亞明](https://open.spotify.com/artist/6wHlnN08SPdMYrB5RciiBi) | [像帽子一樣](https://open.spotify.com/album/3HlmYonKwNL2Jf9LmfBg8e) | 4:28 | 2025-05-14 |  |
 | [像我這款人](https://open.spotify.com/track/399WIZGuYQUawQzFu9L1iR) | [楊肅浩](https://open.spotify.com/artist/5kantIA1sW9wi3V00TUS6f) | [像咱這款人](https://open.spotify.com/album/3VHdE3hT9ByIauFOZCQMES) | 4:07 | 2025-05-01 |  |
+| [允許萬物破碎](https://open.spotify.com/track/3dtdwztzsoloSkKUDoA7ZH) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [允許萬物破碎](https://open.spotify.com/album/2McePly2UXoLik1dObrnPr) | 4:53 | 2025-06-13 |  |
 | [光陰副本](https://open.spotify.com/track/7KJ5U4QwsM1FHvSE3M7nLM) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [光陰副本](https://open.spotify.com/album/1mr50iAkmOj4P6BfLHwD9q) | 4:12 | 2025-05-01 | 2025-05-15 |
 | [入漿 Lip\-Tsiunn](https://open.spotify.com/track/54USsfWxVJ76D9BeGEeR78) | [巴奈](https://open.spotify.com/artist/2PbU3CmXZmV6dPfzLONLIA) | [夜婆 Iā\-Pô](https://open.spotify.com/album/0KwhiHtWKXHTXABsT9dYbV) | 5:17 | 2024-06-29 | 2025-05-02 |
 | [八方來財](https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT) | [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI) | [八方來財](https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg) | 2:53 | 2025-05-01 | 2025-05-15 |
@@ -197,7 +198,7 @@
 | [大雨](https://open.spotify.com/track/1dEz6J9ADmazhuoE1XT2nR) | [Wayne's so Sad](https://open.spotify.com/artist/3mgkHRW7Rgkbx2gJb5TPl7) | [無名氏敬上](https://open.spotify.com/album/3mJ7fOuXGDbo3F4FGyBna0) | 3:59 | 2024-09-19 | 2025-05-02 |
 | [天堂](https://open.spotify.com/track/0YntsAcGo1i46zgnpimsxN) | [無妄合作社](https://open.spotify.com/artist/6py5j29igdKEvG75sZpTbW) | [開往天堂的海盜船](https://open.spotify.com/album/4MeuCJLMPrbkEO8Q9alBtQ) | 6:13 | 2025-05-14 |  |
 | [她](https://open.spotify.com/track/4LkFQhhjWWzu2RaOTMxlhq) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [shhh, it's under my bed](https://open.spotify.com/album/58L0TIIk2t14KKVSxgjyB2) | 3:42 | 2025-05-01 | 2025-05-15 |
-| [好像被一支箭矢跟蹤](https://open.spotify.com/track/3vrYQUnkL1hdQ2tGv0TVI8) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [好像被一支箭矢跟蹤](https://open.spotify.com/album/0yt04xb03kefA9W3E3HU3P) | 3:56 | 2025-05-14 |  |
+| [好像被一支箭矢跟蹤](https://open.spotify.com/track/3vrYQUnkL1hdQ2tGv0TVI8) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [好像被一支箭矢跟蹤](https://open.spotify.com/album/0yt04xb03kefA9W3E3HU3P) | 3:56 | 2025-05-14 | 2025-06-13 |
 | [如何三天內成為饒舌歌手？](https://open.spotify.com/track/34Lkdentqb0npu9v4I6bO7) | [SmashRegz](https://open.spotify.com/artist/5a0J3Y8z0bQ3wxO0TzArDy), [TroutFresh](https://open.spotify.com/artist/78IEFKJN8gQgJM1WOvt2Tl), [張伍](https://open.spotify.com/artist/6Nw4dxS4O2ZFOXIi5338gm), [SJIN](https://open.spotify.com/artist/3Bcg8cxXx8mq3GpWYqsucH) | [三不管](https://open.spotify.com/album/3y6QsULLATxfxINEHdj3XG) | 2:54 | 2024-09-19 | 2025-05-02 |
 | [如果月亮會說話](https://open.spotify.com/track/6i6Lrq6Lkfsjw4WCLOr6zp) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [如果月亮會說話](https://open.spotify.com/album/14Obw8mKb6Ko18PDc9Tkaz) | 3:02 | 2025-05-01 | 2025-05-15 |
 | [存活 \(feat\. SOWUT & BR\)](https://open.spotify.com/track/6jHo4J0TtCLml2PwVL1Aja) | [Kumachan](https://open.spotify.com/artist/5DdhWWd83hbrWLXIVx129X), [SOWUT](https://open.spotify.com/artist/7moEUZ6Zu2o5F8XQxQphRn), [BR](https://open.spotify.com/artist/0joqe7twuxCbFs8VwBKs4K) | [存活 \(feat\. SOWUT & BR\)](https://open.spotify.com/album/6RhIeIKvIO8zUsRbxj05Q5) | 3:15 | 2024-06-29 | 2024-09-20 |
@@ -343,6 +344,7 @@
 | [起夢的人](https://open.spotify.com/track/0WHmJzUgB8fBARWLc7Qv2H) | [謝銘祐](https://open.spotify.com/artist/38kvukZeDwVBlhLnVVCKWw) | [偏南](https://open.spotify.com/album/0A4aZPUpNwHlMj6UsDnLos) | 4:03 | 2025-05-14 |  |
 | [趁雨下](https://open.spotify.com/track/0MMQdQYZ1njx8ZnciVobaI) | [鄒序](https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0) | [把水開著](https://open.spotify.com/album/37vIh6I03bNlWKlVMjGRK3) | 2:15 | 2024-06-29 | 2024-09-20 |
 | [趕路的蝴蝶](https://open.spotify.com/track/4s71TaD93ieBhmuTBscIWR) | [step.jad](https://open.spotify.com/artist/2jGquYVg6oxsetfzxYNgkD), [李佳隆](https://open.spotify.com/artist/2QK3cWfiTfJ8mpefEGeJwm) | [趕路的蝴蝶](https://open.spotify.com/album/0yXpzRkCFuyxcsxJajaNrf) | 3:48 | 2025-05-01 | 2025-05-15 |
+| [足夠的失落](https://open.spotify.com/track/3UbGYr5LCtLUNDpHjjvdg5) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [允許萬物破碎](https://open.spotify.com/album/2McePly2UXoLik1dObrnPr) | 4:18 | 2025-06-13 |  |
 | [足芳足芳](https://open.spotify.com/track/1sqHxuAC7b0bX1sXb5F1wY) | [李竺芯](https://open.spotify.com/artist/0qI7jcxX3CFiafnkAe7Rjp) | [Suí 水](https://open.spotify.com/album/4iS0XEUs3Gr8YbYpA7SuC3) | 3:34 | 2025-05-01 |  |
 | [跩](https://open.spotify.com/track/4YIrCevdBWrfm1jlCq0FCl) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y), [楊祐寧](https://open.spotify.com/artist/0SKcydy3Ol02XQv9oZAlRB) | [珍珠刑](https://open.spotify.com/album/6q1WgJJeGOllNgkJPJcjG9) | 3:43 | 2025-05-01 |  |
 | [踅神夢](https://open.spotify.com/track/5gI6vgJNsI4pbQdwW8qh69) | [Sorry Youth](https://open.spotify.com/artist/6c4IBMTcnFDhsKHXNSBBvp) | [噪音公寓](https://open.spotify.com/album/3CRT9RpZhzxWi5lk8Uc0cz) | 3:22 | 2024-09-19 | 2025-05-02 |

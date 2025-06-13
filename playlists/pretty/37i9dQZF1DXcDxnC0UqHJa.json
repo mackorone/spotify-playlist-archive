@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Timoth\u00e9e Chalamet in A Complete Unknown",
-  "num_followers": 462873,
+  "num_followers": 462826,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Square One",
-        "url": "https://open.spotify.com/album/5RxLtm4VMNQydJWFFXLqc8"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 186794,
-      "name": "Square One",
-      "url": "https://open.spotify.com/track/5taOnvtHJUxuaqaLdMNqFd"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "Pink Strat",
         "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 155240,
       "name": "Whole Wide World",
       "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "Square One",
+        "url": "https://open.spotify.com/album/5RxLtm4VMNQydJWFFXLqc8"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 186794,
+      "name": "Square One",
+      "url": "https://open.spotify.com/track/5taOnvtHJUxuaqaLdMNqFd"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -599,22 +599,18 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/38Ur6GR1sCE8tKzqLQ2l39"
+        "name": "Vignettes",
+        "url": "https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ"
       },
       "artists": [
         {
-          "name": "Kathleen Edwards",
-          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
-        },
-        {
-          "name": "Jason Isbell",
-          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
         }
       ],
-      "duration_ms": 291423,
-      "name": "Traveling Alone (feat. Jason Isbell)",
-      "url": "https://open.spotify.com/track/6ESuXCVIksTM4ojIbAWcud"
+      "duration_ms": 255675,
+      "name": "If It Makes You Happy",
+      "url": "https://open.spotify.com/track/4GQ9PStMvCHmF13SLz1zki"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -635,22 +631,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Vignettes",
-        "url": "https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ"
-      },
-      "artists": [
-        {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
-        }
-      ],
-      "duration_ms": 255675,
-      "name": "If It Makes You Happy",
-      "url": "https://open.spotify.com/track/4GQ9PStMvCHmF13SLz1zki"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/6hai0956WFUXCZ5GlDtvgW"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 223576,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/6gSez5Tx9i2vW5H5oHMEdM"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/38Ur6GR1sCE8tKzqLQ2l39"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Edwards",
+          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
+        },
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        }
+      ],
+      "duration_ms": 291423,
+      "name": "Traveling Alone (feat. Jason Isbell)",
+      "url": "https://open.spotify.com/track/6ESuXCVIksTM4ojIbAWcud"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Young Brigham",
-        "url": "https://open.spotify.com/album/4m1PEBRoanU0XSqZMBQ5yO"
-      },
-      "artists": [
-        {
-          "name": "Ramblin' Jack Elliott",
-          "url": "https://open.spotify.com/artist/6iuM8yp1x2N0l6SONhyq4b"
-        }
-      ],
-      "duration_ms": 304693,
-      "name": "If I Were A Carpenter",
-      "url": "https://open.spotify.com/track/07yhlDqS99totZZkdQEWBW"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "The Age Of Worry",
         "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 167186,
       "name": "The Age Of Worry",
       "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "Young Brigham",
+        "url": "https://open.spotify.com/album/4m1PEBRoanU0XSqZMBQ5yO"
+      },
+      "artists": [
+        {
+          "name": "Ramblin' Jack Elliott",
+          "url": "https://open.spotify.com/artist/6iuM8yp1x2N0l6SONhyq4b"
+        }
+      ],
+      "duration_ms": 304693,
+      "name": "If I Were A Carpenter",
+      "url": "https://open.spotify.com/track/07yhlDqS99totZZkdQEWBW"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1415,22 +1415,18 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Crooked Tree (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6"
+        "name": "A Long December",
+        "url": "https://open.spotify.com/album/4FSXo1nSy4io1w2NUfxMJt"
       },
       "artists": [
         {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
         }
       ],
-      "duration_ms": 212251,
-      "name": "Dire Wolf - Bonus Track",
-      "url": "https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi"
+      "duration_ms": 260812,
+      "name": "A Long December",
+      "url": "https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1455,18 +1451,22 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "A Long December",
-        "url": "https://open.spotify.com/album/4FSXo1nSy4io1w2NUfxMJt"
+        "name": "Crooked Tree (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6"
       },
       "artists": [
         {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
         }
       ],
-      "duration_ms": 260812,
-      "name": "A Long December",
-      "url": "https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR"
+      "duration_ms": 212251,
+      "name": "Dire Wolf - Bonus Track",
+      "url": "https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
+        "name": "American Pie",
+        "url": "https://open.spotify.com/album/4cmRLJRiZqkeOKZUE9iztd"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 254820,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/3Z92ubrhBZe72FKAiW5dhh"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
         "name": "Reason to Believe (feat. Courtney Barnett)",
         "url": "https://open.spotify.com/album/3XS1FYnvexIhkkkLEkaEMX"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 149445,
       "name": "Reason to Believe (feat. Courtney Barnett)",
       "url": "https://open.spotify.com/track/7aDf2PpDNfT5NbKEIZVKtW"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
-        "name": "American Pie",
-        "url": "https://open.spotify.com/album/4cmRLJRiZqkeOKZUE9iztd"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 254820,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/3Z92ubrhBZe72FKAiW5dhh"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "Concrete And Barbed Wire",
-        "url": "https://open.spotify.com/album/5WLiyVvHgcoxSy8hAwB77Z"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 193274,
-      "name": "Concrete And Barbed Wire",
-      "url": "https://open.spotify.com/track/40IUlFkad6oRItApO3TDG5"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 189799,
       "name": "The Partisan - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "Concrete And Barbed Wire",
+        "url": "https://open.spotify.com/album/5WLiyVvHgcoxSy8hAwB77Z"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 193274,
+      "name": "Concrete And Barbed Wire",
+      "url": "https://open.spotify.com/track/40IUlFkad6oRItApO3TDG5"
     },
     {
       "added_at": "2025-05-02 17:28:32",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2025-05-02 17:28:32",
       "album": {
-        "name": "everything i wanted",
-        "url": "https://open.spotify.com/album/6RrC9O5QDOnKRYoH6ANYZB"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 275880,
-      "name": "everything i wanted",
-      "url": "https://open.spotify.com/track/0Uc5kxNJyLYWldaSbZD8EX"
-    },
-    {
-      "added_at": "2025-05-02 17:28:32",
-      "album": {
         "name": "In Your Eyes",
         "url": "https://open.spotify.com/album/1nETVDmxFwKb4EFiiDD4jV"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 282715,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/2Zc0lXc8psW1wzLWVVCQdN"
+    },
+    {
+      "added_at": "2025-05-02 17:28:32",
+      "album": {
+        "name": "everything i wanted",
+        "url": "https://open.spotify.com/album/6RrC9O5QDOnKRYoH6ANYZB"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 275880,
+      "name": "everything i wanted",
+      "url": "https://open.spotify.com/track/0Uc5kxNJyLYWldaSbZD8EX"
     },
     {
       "added_at": "2025-05-02 17:28:32",

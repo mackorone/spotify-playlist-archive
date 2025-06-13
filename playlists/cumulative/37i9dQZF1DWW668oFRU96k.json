@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Alok",
+  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Cedric Gervais x David Guetta ",
   "name": "Electro Mix",
   "tracks": [
     {
@@ -485,6 +485,28 @@
     },
     {
       "album": {
+        "name": "A Place We Call Home",
+        "url": "https://open.spotify.com/album/7B0tRYaIA8TWZ8NSivsgyE"
+      },
+      "artists": [
+        {
+          "name": "Casepeat",
+          "url": "https://open.spotify.com/artist/3o2bp9iHoK1S2B13UjDnoG"
+        },
+        {
+          "name": "Lyd14",
+          "url": "https://open.spotify.com/artist/4ExXsMNYJjGYRV02EQnvKU"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238928,
+      "name": "A Place We Call Home",
+      "url": "https://open.spotify.com/track/2y5Ni2kE6h6sdmqgmGst1Q"
+    },
+    {
+      "album": {
         "name": "A Way Back Home",
         "url": "https://open.spotify.com/album/2dyrw3z5ynyjWWkoHxsWJA"
       },
@@ -662,7 +684,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 236250,
       "name": "Act of God (CamelPhat Remix)",
       "url": "https://open.spotify.com/track/0jeMKIHXINpsn6b7Ym9A9h"
@@ -4343,6 +4365,28 @@
     },
     {
       "album": {
+        "name": "Fake Everything",
+        "url": "https://open.spotify.com/album/1Wmp1Jzz6bBSD0BiHegFgr"
+      },
+      "artists": [
+        {
+          "name": "akiaura",
+          "url": "https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc"
+        },
+        {
+          "name": "LONOWN",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178009,
+      "name": "Black n White",
+      "url": "https://open.spotify.com/track/42PQUdnQyezHMVs9ypCrdd"
+    },
+    {
+      "album": {
         "name": "Blazin (feat. Enisa)",
         "url": "https://open.spotify.com/album/69rtLq7JppAFO3by5g1mNJ"
       },
@@ -4428,6 +4472,28 @@
       "duration_ms": 219650,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z"
+    },
+    {
+      "album": {
+        "name": "Blood Runs Blue",
+        "url": "https://open.spotify.com/album/3s1w5irBqqjXWkCyRZds8a"
+      },
+      "artists": [
+        {
+          "name": "mor\u2022a\u2022mor",
+          "url": "https://open.spotify.com/artist/6wUeDwFETrFhhC1GaKMC42"
+        },
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234360,
+      "name": "Blood Runs Blue",
+      "url": "https://open.spotify.com/track/6xSzHlcmZeHVMqIldonSXV"
     },
     {
       "album": {
@@ -5376,6 +5442,40 @@
       "duration_ms": 194587,
       "name": "Burning for You",
       "url": "https://open.spotify.com/track/5tQgATZBNXo0BABCfYqvIb"
+    },
+    {
+      "album": {
+        "name": "Butterflies (feat. Adalaide Adams)",
+        "url": "https://open.spotify.com/album/2Fgjxsd1sNSCvFhUbJlJdg"
+      },
+      "artists": [
+        {
+          "name": "Old Jim",
+          "url": "https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu"
+        },
+        {
+          "name": "Charles B",
+          "url": "https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO"
+        },
+        {
+          "name": "BIGMOO",
+          "url": "https://open.spotify.com/artist/6kibRmkPunppTddl6kgvNe"
+        },
+        {
+          "name": "Crazy Donkey",
+          "url": "https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi"
+        },
+        {
+          "name": "Adalaide Adams",
+          "url": "https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177700,
+      "name": "Butterflies (feat. Adalaide Adams)",
+      "url": "https://open.spotify.com/track/2aaQKzZwl38OWPXrCLlOEL"
     },
     {
       "album": {
@@ -15064,7 +15164,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 222187,
       "name": "Heart With Love - Radio Edit",
       "url": "https://open.spotify.com/track/5YqmfA0vPCv6OUIarju5zc"
@@ -17823,6 +17923,28 @@
     },
     {
       "album": {
+        "name": "If (A Better World)",
+        "url": "https://open.spotify.com/album/3hAcZ5awmnV1zc2P3WNSzr"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172606,
+      "name": "If (A Better World)",
+      "url": "https://open.spotify.com/track/7tCXmtYrYNFWMa7vyQfuAI"
+    },
+    {
+      "album": {
         "name": "If I Ever Lose My Faith (feat. Sting)",
         "url": "https://open.spotify.com/album/05m17c6ldJhw4q3RF0hjxb"
       },
@@ -17842,7 +17964,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 215000,
       "name": "If I Ever Lose My Faith (feat. Sting)",
       "url": "https://open.spotify.com/track/63hL1RoDqeB38wA7EgIatr"
@@ -18513,6 +18635,24 @@
     },
     {
       "album": {
+        "name": "Initial EP",
+        "url": "https://open.spotify.com/album/0sriBBP6xDU0lWK40GW59U"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220064,
+      "name": "Initial",
+      "url": "https://open.spotify.com/track/4sT1fCq5EGiqwYoYPh6J7u"
+    },
+    {
+      "album": {
         "name": "Inside Your Arms",
         "url": "https://open.spotify.com/album/2RJkFeHAeEPAPWh6QCSpr8"
       },
@@ -19159,6 +19299,28 @@
     },
     {
       "album": {
+        "name": "Jumping Machine\uff08\u8df3\u697c\u673a\uff09-WUKONG Remix",
+        "url": "https://open.spotify.com/album/6nTvaPmn3ZoM05z1Au54Vc"
+      },
+      "artists": [
+        {
+          "name": "LBI\u5229\u6bd4",
+          "url": "https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J"
+        },
+        {
+          "name": "WUKONG",
+          "url": "https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172965,
+      "name": "Jumping Machine\uff08\u8df3\u697c\u673a\uff09-WUKONG Remix",
+      "url": "https://open.spotify.com/track/5qsPW4Zcmp1Bk2qaEEPK3Q"
+    },
+    {
+      "album": {
         "name": "Junction 3",
         "url": "https://open.spotify.com/album/3orD0F22WOT0CmmEpCDRg3"
       },
@@ -19802,7 +19964,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 192173,
       "name": "Kurayami",
       "url": "https://open.spotify.com/track/6SS2iL98M4xqdX3Fo62I1q"
@@ -21499,6 +21661,28 @@
     },
     {
       "album": {
+        "name": "Long Lost Love",
+        "url": "https://open.spotify.com/album/4byDuF0aJADNIlAsaEwQxH"
+      },
+      "artists": [
+        {
+          "name": "Jaysugar",
+          "url": "https://open.spotify.com/artist/2nQ84v9FXuitcNV1ExYUIa"
+        },
+        {
+          "name": "Yoon K",
+          "url": "https://open.spotify.com/artist/0wrJb844IjH2AZhmpPry9u"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192187,
+      "name": "Long Lost Love",
+      "url": "https://open.spotify.com/track/7AQ0MePerQpk0ztRPm71aO"
+    },
+    {
+      "album": {
         "name": "2:M",
         "url": "https://open.spotify.com/album/7MLuUXFHdDcGHRshuBATOs"
       },
@@ -22882,7 +23066,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 193517,
       "name": "Malikan",
       "url": "https://open.spotify.com/track/1RNUW7puT3hGr9Gsy8lx4I"
@@ -25759,6 +25943,32 @@
     },
     {
       "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/4DxsVIzj7Fo52tiMngJkxO"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Amidy",
+          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/1BKcgZtASg2s8eV6um2DbS"
+    },
+    {
+      "album": {
         "name": "Nights Like This",
         "url": "https://open.spotify.com/album/1dCh75iEZxUHLrXH5TH8D5"
       },
@@ -26328,7 +26538,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 188399,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/6tWyf6iudtMeDk1JsAYvkM"
@@ -27771,6 +27981,28 @@
     },
     {
       "album": {
+        "name": "Operator",
+        "url": "https://open.spotify.com/album/0v1cjI2NqvI8Quiq2s2SS8"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111627,
+      "name": "Operator",
+      "url": "https://open.spotify.com/track/6CT5bIT2xJ776subCQoxwd"
+    },
+    {
+      "album": {
         "name": "Oral Music",
         "url": "https://open.spotify.com/album/52dKjD8ccelCMUiofFwmzN"
       },
@@ -28886,7 +29118,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 185076,
       "name": "pillowtalk (with yung bae)",
       "url": "https://open.spotify.com/track/0azGwVInzyPDUrOQ3qlq4B"
@@ -31929,6 +32161,32 @@
     },
     {
       "album": {
+        "name": "SET ME FREE",
+        "url": "https://open.spotify.com/album/380RlBJ0ehiieU00XcDOLu"
+      },
+      "artists": [
+        {
+          "name": "GROOVMNT",
+          "url": "https://open.spotify.com/artist/3cN7zzS0PooM0IpETmPUrR"
+        },
+        {
+          "name": "Let's Karpool",
+          "url": "https://open.spotify.com/artist/0Jor79NJK8vaiGAVAWcBM3"
+        },
+        {
+          "name": "Cougar Pit",
+          "url": "https://open.spotify.com/artist/3bb4ylOwHDDBkg43gjSqut"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188888,
+      "name": "SET ME FREE",
+      "url": "https://open.spotify.com/track/7B4jOkmWTz9miWKvekdf8o"
+    },
+    {
+      "album": {
         "name": "Settle For Less",
         "url": "https://open.spotify.com/album/2sp2DmqYC3CKn8XwInSqYU"
       },
@@ -32286,7 +32544,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 156000,
       "name": "Shine a Light",
       "url": "https://open.spotify.com/track/2md6DUpGKnssGG6LJ37PLw"
@@ -32794,6 +33052,32 @@
       "duration_ms": 245713,
       "name": "Sleepyhead 2025",
       "url": "https://open.spotify.com/track/4aSyYc1rWc2KhTknSfpx9H"
+    },
+    {
+      "album": {
+        "name": "Slide Away",
+        "url": "https://open.spotify.com/album/1lOXFpDfRnpr6MVkANJUs8"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "Slide Away",
+      "url": "https://open.spotify.com/track/0KNUBfQF5oGz8jjqM3u3FQ"
     },
     {
       "album": {
@@ -34098,7 +34382,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 230676,
       "name": "Story of a Bird",
       "url": "https://open.spotify.com/track/5nBOV8rbNUi6SQb4SOrdx0"
@@ -35488,7 +35772,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 199614,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/348saa2qEsATjN8ko5ic7l"
@@ -35800,6 +36084,28 @@
       "duration_ms": 143225,
       "name": "The One",
       "url": "https://open.spotify.com/track/2h5CVxnbUUM2g3VdcXjCuT"
+    },
+    {
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/66ZGu9lrlCFzVrz4J0bIqu"
+      },
+      "artists": [
+        {
+          "name": "TAOMIN",
+          "url": "https://open.spotify.com/artist/5KqwVjMKFOhQQrLKKU5ksp"
+        },
+        {
+          "name": "Newman",
+          "url": "https://open.spotify.com/artist/4swdtKXogbDlbqtLcmlwWy"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235781,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/6wZgGnz4DLGhvfqIhiFIvw"
     },
     {
       "album": {
@@ -36659,6 +36965,28 @@
     },
     {
       "album": {
+        "name": "Times (feat. MA55IVE THE RAMPAGE)",
+        "url": "https://open.spotify.com/album/6iQ0G0Lk3hfzzRlCKEglNG"
+      },
+      "artists": [
+        {
+          "name": "PKCZ(R)",
+          "url": "https://open.spotify.com/artist/1Pzt7WyaiqfngZpWFA5Lts"
+        },
+        {
+          "name": "MA55IVE THE RAMPAGE",
+          "url": "https://open.spotify.com/artist/4WrhFhuiPWwEkbsRzAjMBk"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159658,
+      "name": "Times - feat. MA55IVE THE RAMPAGE",
+      "url": "https://open.spotify.com/track/2xSd45avDY1e28EMtJsPIW"
+    },
+    {
+      "album": {
         "name": "TKM",
         "url": "https://open.spotify.com/album/6aGgkfccZ2TTNupxuOMGFf"
       },
@@ -36966,7 +37294,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 186190,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/24jHeEgAjMTjFLm12Tpk6m"
@@ -38498,7 +38826,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 212625,
       "name": "Waiting On This Day Forever",
       "url": "https://open.spotify.com/track/0C1NSDqt7Vr6OxfoiBprOS"
@@ -39602,6 +39930,24 @@
       "duration_ms": 140660,
       "name": "When I Grow Up (Young, Wild, & Free)",
       "url": "https://open.spotify.com/track/45eYAsl4BoGXERKu1NurjG"
+    },
+    {
+      "album": {
+        "name": "When I Grow Up (Late Night Edit)",
+        "url": "https://open.spotify.com/album/4usTMRjyov3p7xuedEE3cz"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127095,
+      "name": "When I Grow Up - Late Night Mix",
+      "url": "https://open.spotify.com/track/1m1mYutfX3rddGAYDS04R7"
     },
     {
       "album": {

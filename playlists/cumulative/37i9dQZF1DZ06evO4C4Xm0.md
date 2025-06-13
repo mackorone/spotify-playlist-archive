@@ -4,7 +4,7 @@
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-177 songs - 13 hr 42 min
+178 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Blonde](https://open.spotify.com/track/3y32oCGBAn9rYHMvcndmNf) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:10 | 2022-10-12 | 2022-10-17 |
 | [Bloom: Small World](https://open.spotify.com/track/6lbaoGKwwS0BZsihiJMkA6) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Peter Chilvers](https://open.spotify.com/artist/0auwXR5S4lEwKxpKqSZgbe) | [Bloom: Living World \- Single](https://open.spotify.com/album/5QcW7havC8qGEKfD2nBtJu) | 5:34 | 2025-02-02 | 2025-03-13 |
 | [Brave Are the Waves](https://open.spotify.com/track/6kKeHrBbkc3atBtbVHrIVq) | [The Leisure Society](https://open.spotify.com/artist/6SzmRtk9EnP5q1rqfqbfSW), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Brave Are the Waves](https://open.spotify.com/album/6upCEAEHiChDghpLuHXG0H) | 2:20 | 2023-07-20 | 2024-09-03 |
+| [Breath March](https://open.spotify.com/track/3gAZ0jJGj5vDuSg3esfSfY) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Beatie Wolfe](https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI) | [Luminal](https://open.spotify.com/album/2lyznXdVxmIMDzZIudZIsC) | 3:09 | 2025-06-13 |  |
 | [Burnt Umber](https://open.spotify.com/track/4cv26gwDWciRzeL7pzAXIV) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:15 | 2023-01-10 | 2023-01-18 |
 | [By This River \- 2004 Digital Remaster](https://open.spotify.com/track/13b87C9TNBFKJAi9YB4Rr8) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Before And After Science](https://open.spotify.com/album/6lU1MDxi3TqhKnYNQm555u) | 3:03 | 2022-05-29 |  |
 | [Celeste](https://open.spotify.com/track/3Lbh8U2HMWa1CD7GK5wEQf) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:22 | 2022-07-16 | 2023-03-22 |

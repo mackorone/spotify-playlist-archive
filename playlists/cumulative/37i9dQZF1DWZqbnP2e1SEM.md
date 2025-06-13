@@ -4,7 +4,7 @@
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-486 songs - 1 day 1 hr 49 min
+487 songs - 1 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Can You Hear Me? \(ayayaya\) \(feat\. Skepta, JME & Ms D\)](https://open.spotify.com/track/6i8w8Zdud22ehgJrrzqIVi) | [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [Ms D](https://open.spotify.com/artist/0vLuSGSqHYveeNnOt3HwWF), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [The Ascent](https://open.spotify.com/album/7G0kWbJcGHJYNt9rBfq0Wl) | 3:52 | 2021-07-09 | 2022-05-11 |
 | [Can't Decide](https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa) | [Can't Decide](https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD) | 2:55 | 2025-05-29 |  |
 | [Caroline](https://open.spotify.com/track/58VIZAfVytKR9Cxdd7f64z) | [Symmetrik](https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm) | [Caroline](https://open.spotify.com/album/3aPx500pSxncQWrB3xZcfp) | 3:36 | 2024-08-02 | 2025-05-09 |
-| [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN) | 2:34 | 2024-05-24 |  |
+| [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN) | 2:34 | 2024-05-24 | 2025-06-13 |
 | [Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc) | [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children \(Dance Vault Mixes\)](https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC) | 4:03 | 2025-05-08 |  |
 | [Closer \(feat\. Chenai\)](https://open.spotify.com/track/3LmVmt1ovT79qH36xY34VF) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ), [Chenai](https://open.spotify.com/artist/1OIiJfaxjDFfRRZG061t3w) | [Closer \(feat\. Chenai\)](https://open.spotify.com/album/4kRv6GStYkqpfZEmvVM9bk) | 3:54 | 2024-06-14 | 2025-05-09 |
 | [Closer To The Floor](https://open.spotify.com/track/4QJlAQMKDP2d3UZjSu5OYu) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [Closer To The Floor](https://open.spotify.com/album/323n1CA6aMpqOu8jfQMwi4) | 2:42 | 2025-05-08 |  |
@@ -106,6 +106,7 @@
 | [Didn't Know \- Tobtok Remix](https://open.spotify.com/track/0TgAsV5VoewfCIT9y6KQYR) | [Tom Zanetti](https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [Didn't Know \(Tobtok Remix\)](https://open.spotify.com/album/03G4hEf2EjJh6UY9ilPUF9) | 3:02 | 2021-07-09 | 2022-07-29 |
 | [Dilemma](https://open.spotify.com/track/03druhrRJ5f3MJYg38NF2c) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [Dilemma](https://open.spotify.com/album/00BfFTfksSFZD9HiWqfTFR) | 2:40 | 2021-07-09 | 2022-05-11 |
 | [Dinner Guest \(feat\. MoStack\)](https://open.spotify.com/track/5y0ekFHNfFbjKhZlguSzdf) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Dinner Guest \(feat\. MoStack\)](https://open.spotify.com/album/3x6KN8REz9x0Tu402VLxZG) | 3:18 | 2021-07-09 | 2022-05-11 |
+| [Dior \(feat\. Chrystal\)](https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(feat\. Chrystal\)](https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf) | 2:49 | 2025-06-12 |  |
 | [Dirty Cash \(Money Talks\)](https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [The Adventures Of Stevie V](https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2) | [Dirty Cash \(Money Talks\)](https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj) | 3:41 | 2025-05-08 |  |
 | [Divine](https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi) | [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT) | [Divine](https://open.spotify.com/album/7fWa9fmjRjDskIAgwYzyCI) | 2:43 | 2025-05-08 |  |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2022-05-10 | 2024-06-14 |

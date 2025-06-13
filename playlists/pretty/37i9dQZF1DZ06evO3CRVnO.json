@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 311065,
+  "num_followers": 311137,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEd1gAAAAAAfu4pND5FvkY6IHwSnolPz",
+  "snapshot_id": "aEjHAAAAAACE9/aGDijb5lTcDGUKwN3W",
   "tracks": [
     {
       "added_at": null,
@@ -426,15 +426,11 @@
         {
           "name": "Playboi Carti",
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         }
       ],
-      "duration_ms": 135275,
-      "name": "TOXIC (with Skepta)",
-      "url": "https://open.spotify.com/track/4evMMKc2HD6fV9slMfgkMx"
+      "duration_ms": 115600,
+      "name": "LIKE WEEZY",
+      "url": "https://open.spotify.com/track/4zK082ykqJzJGzC64NXjp1"
     },
     {
       "added_at": null,
@@ -455,6 +451,26 @@
       "duration_ms": 160306,
       "name": "BACKR00MS (with Travis Scott)",
       "url": "https://open.spotify.com/track/2cjhSZd6uZIrp4ddxvvBdn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trip At Knight",
+        "url": "https://open.spotify.com/album/6SpT5TOPIInmmwLyCcCAXX"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 236883,
+      "name": "Miss The Rage",
+      "url": "https://open.spotify.com/track/5n4FTCMefvyKUjeWumdaWv"
     },
     {
       "added_at": null,
@@ -483,26 +499,6 @@
       "duration_ms": 163155,
       "name": "FIELD TRIP",
       "url": "https://open.spotify.com/track/3lCb7ZYE3Fvie4JOPqpXfY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trip At Knight",
-        "url": "https://open.spotify.com/album/6SpT5TOPIInmmwLyCcCAXX"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 236883,
-      "name": "Miss The Rage",
-      "url": "https://open.spotify.com/track/5n4FTCMefvyKUjeWumdaWv"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > An ambient + rain playlist\. Blurred city lights, empty sidewalks, and windowpane reflections 🌧️
 
-69 songs - 3 hr 21 min
+72 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Deva](https://open.spotify.com/track/6pLKZpj6VVx5oNRFwBLYG7) | [Hollow Graham](https://open.spotify.com/artist/4yeImZMSwYrOxDHujAsfWz) | [Deva](https://open.spotify.com/album/60CVjQ2RulBtx6Ga5lXhBU) | 2:14 | 2025-05-20 |  |
 | [Directions](https://open.spotify.com/track/0j5pGHcHfaYMgCnKh46B75) | [Ari Einarsson](https://open.spotify.com/artist/4phG0P0DDFhm0ZORDBMaSk) | [Directions](https://open.spotify.com/album/0XPHpeVd1PncGvhfuTfXIo) | 2:28 | 2025-05-20 |  |
 | [Dream Phases](https://open.spotify.com/track/2RasknNLyt1a4LAirlaXUP) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Dream Phases](https://open.spotify.com/album/6BgqOSwerXXi8k83KFZV2h) | 3:06 | 2025-05-20 |  |
+| [dreamers together](https://open.spotify.com/track/4TjG0MHNOmTLStaMWKFVcx) | [Lost Fables](https://open.spotify.com/artist/1uTJ77nWT4cR9Ur5HtdHPo) | [dreamers together](https://open.spotify.com/album/0rhVJQDtAFvg0kt27A6mgU) | 1:58 | 2025-06-12 |  |
 | [Dreamweaver](https://open.spotify.com/track/2SoUkJsCScTQ9GTumON8YS) | [Eclectic Elements](https://open.spotify.com/artist/3xlagJKvA0REqZkIGa2sBr) | [Dreamweaver](https://open.spotify.com/album/2fqq9FrFEhCDJKCBG3oeiX) | 4:17 | 2025-05-28 |  |
 | [Drifteria](https://open.spotify.com/track/6F6KurVkboRJYQ1OjmEPzk) | [Primary Sense](https://open.spotify.com/artist/16CzPXUcmQbZA6Nq8LJuYV) | [Drifteria](https://open.spotify.com/album/1uAjiC6ZbYUEj8SrAg6GRd) | 2:52 | 2025-05-20 |  |
 | [Entering](https://open.spotify.com/track/12adZZBVeeSDKWp54wQVwr) | [Harbours & Oceans](https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX) | [Entering](https://open.spotify.com/album/3mxgspEMYHtoFtOEO6gSJi) | 2:17 | 2025-05-20 |  |
@@ -59,6 +60,7 @@
 | [Rain & Restore](https://open.spotify.com/track/3HXylAuH1rTDY0W30hrbvW) | [Noctambulists](https://open.spotify.com/artist/2qP9zaT98MB2v9WMsC39Ed) | [Rain & Restore](https://open.spotify.com/album/6z1jwXsfhoqZiNFaoRstP0) | 3:01 | 2025-05-20 |  |
 | [Rain Prayer](https://open.spotify.com/track/0KDGpRp7Zl1OEEmmwyxjbU) | [Alice Charkha](https://open.spotify.com/artist/1kXBV75CZ5gLH9WAry8OyX) | [Rain Prayer](https://open.spotify.com/album/3CRIJMs11ENdGlDDCIgZof) | 2:42 | 2025-05-20 |  |
 | [rainfall \(slowed & reverb\)](https://open.spotify.com/track/7DltIJiAn9mSabuT5crzFJ) | [julez](https://open.spotify.com/artist/72DZClrG6inu1xATuKl6lH), [Blu Velvet](https://open.spotify.com/artist/4GhQUESEKnWAUS4d9pcSS8) | [rainfall](https://open.spotify.com/album/0uP6srv1yoOUONPJAFWBIm) | 2:29 | 2025-05-20 |  |
+| [rainfall romance](https://open.spotify.com/track/23gnwVis55FifknVon0bw0) | [shelovesmytears](https://open.spotify.com/artist/04odGcXvlgFBaRDIIYzot3), [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM) | [rainfall romance](https://open.spotify.com/album/2V6KBsxIa50Inx3Eci90OH) | 2:17 | 2025-06-12 |  |
 | [Reaching Beyond](https://open.spotify.com/track/0WqWMpK8DVmCyXNzzA0d7R) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [Reaching Beyond](https://open.spotify.com/album/2yKjFEP2jW7T18RNefqFv5) | 2:09 | 2025-05-20 |  |
 | [Seldom Seen](https://open.spotify.com/track/7b3jxCnh97bvqeuHA5HV1h) | [BlunD](https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T) | [Seldom Seen](https://open.spotify.com/album/4oydjvFOfxrQQU6LuKxuwr) | 2:40 | 2025-05-27 |  |
 | [Serenity in Motion](https://open.spotify.com/track/6iYWXRp4igIlgtb3dn9HF2) | [Ella Elysium](https://open.spotify.com/artist/2n3JzcQyc7IwryKsZDGZey) | [Serenity in Motion](https://open.spotify.com/album/0wfewm3lAGrxMLUlpcKU6O) | 2:45 | 2025-05-20 |  |
@@ -73,6 +75,7 @@
 | [Tranquil Forest](https://open.spotify.com/track/4IQ5OvkJipRN3Uh3tIw1GE) | [Inner Calmness](https://open.spotify.com/artist/6z2B2eDqa7fRZM8Kvb2BXT) | [Tranquil Forest](https://open.spotify.com/album/75GCo7Nco3aTqvZ7O1DW4r) | 2:32 | 2025-05-20 |  |
 | [Trickle](https://open.spotify.com/track/0knBMLDbW8u4NjUdYsykne) | [NueBoo](https://open.spotify.com/artist/4m8Hq8mE0p2ajbjQBDOLDk) | [Trickle](https://open.spotify.com/album/5TApx42395CaS43ahjmgH0) | 3:15 | 2025-05-20 |  |
 | [what if](https://open.spotify.com/track/0bQresnZ8lWfJpANoJJRkw) | [abril 37](https://open.spotify.com/artist/5PwtM5realdQeKJRP9fVAp) | [what if](https://open.spotify.com/album/4Cjp7u20XaCmYllBoasGjd) | 3:12 | 2025-05-20 |  |
+| [Where Silence Blooms](https://open.spotify.com/track/7o6cF7ZuJ0NlBs0vE8KxDU) | [Quiet View](https://open.spotify.com/artist/1cWvA6evh57O2BWTdqeZXL) | [Where Silence Blooms](https://open.spotify.com/album/3kGMGnhI0KfcJ5SG3agXHB) | 2:23 | 2025-06-12 |  |
 | [Where The Sky Sleeps](https://open.spotify.com/track/2mNqIixaPXatfqQyC3fLBp) | [dreamveil](https://open.spotify.com/artist/0FKnupHwlwGAF9bhlRFMLP) | [Starshroud](https://open.spotify.com/album/6ha6t4uQQmmPGUZx8y4YaE) | 2:38 | 2025-05-20 |  |
 | [Whispers of Rain](https://open.spotify.com/track/5WgaR1qSKGfrO2NNuz6oZo) | [Thalia Serenade](https://open.spotify.com/artist/6YkjH01SsrvM7Tv8oZjWz7) | [Whispers of Rain](https://open.spotify.com/album/626X0FUcTf72WAo9LK7ViA) | 3:05 | 2025-05-20 |  |
 | [Wichita Mountains](https://open.spotify.com/track/67fVPmujVatZQlXCSWhtPG) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Wichita Mountains](https://open.spotify.com/album/3N4j0oJHO52kbWtY2pthj3) | 2:50 | 2025-05-27 |  |

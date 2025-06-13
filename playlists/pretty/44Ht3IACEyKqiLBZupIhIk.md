@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/44Ht3IACEyKqiLBZupIhIk.md) - [plain]
 
 > Sweet and slow, soft and soothing..\. a collection of beautiful bluegrass vocals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218 likes - 29 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 217 likes - 29 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

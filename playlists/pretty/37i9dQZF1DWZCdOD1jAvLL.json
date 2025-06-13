@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: NXSTY",
-  "num_followers": 262558,
+  "num_followers": 262605,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -931,26 +931,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Raving In The Studio",
-        "url": "https://open.spotify.com/album/46WNfH3xNv7P6m3WplO0mO"
-      },
-      "artists": [
-        {
-          "name": "Aitch",
-          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
-        },
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        }
-      ],
-      "duration_ms": 183771,
-      "name": "Raving In The Studio",
-      "url": "https://open.spotify.com/track/6TAbRIua9JOTmqGMjGWe4d"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "X-Rated",
         "url": "https://open.spotify.com/album/64a4S0L82vMJcOppgnYxmo"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 184620,
       "name": "X-Rated",
       "url": "https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Raving In The Studio",
+        "url": "https://open.spotify.com/album/46WNfH3xNv7P6m3WplO0mO"
+      },
+      "artists": [
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        },
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        }
+      ],
+      "duration_ms": 183771,
+      "name": "Raving In The Studio",
+      "url": "https://open.spotify.com/track/6TAbRIua9JOTmqGMjGWe4d"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
+        "name": "Gunfinger (Salute)",
+        "url": "https://open.spotify.com/album/1T0ZCkKD1tLyZ35AHnIL58"
+      },
+      "artists": [
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        },
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        }
+      ],
+      "duration_ms": 166896,
+      "name": "Gunfinger (Salute)",
+      "url": "https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
         "name": "Air (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/025rWUi7mzNNBbECHvCm0j"
       },
@@ -1195,26 +1215,6 @@
       "duration_ms": 160021,
       "name": "Air (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/7jc0ABEKe6svpZxSnBhQgx"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
-        "name": "Gunfinger (Salute)",
-        "url": "https://open.spotify.com/album/1T0ZCkKD1tLyZ35AHnIL58"
-      },
-      "artists": [
-        {
-          "name": "IRAH",
-          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
-        },
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        }
-      ],
-      "duration_ms": 166896,
-      "name": "Gunfinger (Salute)",
-      "url": "https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
+        "name": "Sweet Memories",
+        "url": "https://open.spotify.com/album/0s4PnIwk5HR5z4SWMsDqYO"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "duration_ms": 235688,
+      "name": "Sweet Memories",
+      "url": "https://open.spotify.com/track/0mNNVje5ZPtiP8p5VOnteb"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
         "name": "Telepathy",
         "url": "https://open.spotify.com/album/6BVtOKSegIgu4IweeVv5Np"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 224176,
       "name": "Telepathy",
       "url": "https://open.spotify.com/track/1QTva42stCxhbcRXc3TQVl"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
-        "name": "Sweet Memories",
-        "url": "https://open.spotify.com/album/0s4PnIwk5HR5z4SWMsDqYO"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        }
-      ],
-      "duration_ms": 235688,
-      "name": "Sweet Memories",
-      "url": "https://open.spotify.com/track/0mNNVje5ZPtiP8p5VOnteb"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1923,6 +1923,30 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
+        "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
+        "url": "https://open.spotify.com/album/3Q68tMQ7tRDuz6qIN1hODk"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/4QcfHUpGxGGKh7VIVs3LYI"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
         "name": "Talk To Me",
         "url": "https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7"
       },
@@ -1947,30 +1971,6 @@
       "duration_ms": 232984,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
-        "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
-        "url": "https://open.spotify.com/album/3Q68tMQ7tRDuz6qIN1hODk"
-      },
-      "artists": [
-        {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/4QcfHUpGxGGKh7VIVs3LYI"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -2095,30 +2095,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "I Like To Move It (Mu\u00e9velo) [with Daddy Yankee]",
-        "url": "https://open.spotify.com/album/6byZQxUaodWPfayqC66Uf7"
-      },
-      "artists": [
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        },
-        {
-          "name": "Still Loud",
-          "url": "https://open.spotify.com/artist/27u3mPTdeIukpaZcXivJOx"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "I Like To Move It (Mu\u00e9velo) [with Daddy Yankee]",
-      "url": "https://open.spotify.com/track/0W79CEgdGTwkWEb9clWDtO"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd"
       },
@@ -2179,6 +2155,30 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
+        "name": "I Like To Move It (Mu\u00e9velo) [with Daddy Yankee]",
+        "url": "https://open.spotify.com/album/6byZQxUaodWPfayqC66Uf7"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "Still Loud",
+          "url": "https://open.spotify.com/artist/27u3mPTdeIukpaZcXivJOx"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "I Like To Move It (Mu\u00e9velo) [with Daddy Yankee]",
+      "url": "https://open.spotify.com/track/0W79CEgdGTwkWEb9clWDtO"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/4JyaETaIsWXgsfTcRl2gCS"
       },
@@ -2235,26 +2235,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Flex",
-        "url": "https://open.spotify.com/album/2ufdXSRJm2ve5T0cBQjwkm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Oscar L",
-          "url": "https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm"
-        }
-      ],
-      "duration_ms": 212812,
-      "name": "Flex",
-      "url": "https://open.spotify.com/track/5xEkS8jl0DwBNMU7uBEm7e"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Pegao",
         "url": "https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB"
       },
@@ -2295,6 +2275,26 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/2ufdXSRJm2ve5T0cBQjwkm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Oscar L",
+          "url": "https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm"
+        }
+      ],
+      "duration_ms": 212812,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/5xEkS8jl0DwBNMU7uBEm7e"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
         "name": "Push Me",
         "url": "https://open.spotify.com/album/3m6uciqlh8hgjNHiX0NSXh"
       },
@@ -2307,26 +2307,6 @@
       "duration_ms": 150000,
       "name": "Push Me",
       "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
-        "name": "Black Ice",
-        "url": "https://open.spotify.com/album/24bVVflh1w44yZSCZBtMME"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        }
-      ],
-      "duration_ms": 260001,
-      "name": "Black Ice",
-      "url": "https://open.spotify.com/track/1oacAKa5ReNOfuqaJ1gdBJ"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -2347,6 +2327,26 @@
       "duration_ms": 162373,
       "name": "Shut Shit Down",
       "url": "https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Black Ice",
+        "url": "https://open.spotify.com/album/24bVVflh1w44yZSCZBtMME"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "duration_ms": 260001,
+      "name": "Black Ice",
+      "url": "https://open.spotify.com/track/1oacAKa5ReNOfuqaJ1gdBJ"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -2507,30 +2507,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Torch",
-        "url": "https://open.spotify.com/album/1MYRKX0bxL5FIXIqTakkNX"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        },
-        {
-          "name": "Bekon",
-          "url": "https://open.spotify.com/artist/4VWnuR2hpj6DZNfcpe4e3M"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "Torch",
-      "url": "https://open.spotify.com/track/7EvgoFkWT1kVtOIhqGwZUm"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Where You Are (Gorgon City Remix)",
         "url": "https://open.spotify.com/album/3fvyKp2tDksvqviYpujiOg"
       },
@@ -2571,6 +2547,30 @@
       "duration_ms": 131970,
       "name": "I Only Smoke When I Drink - Badger Remix",
       "url": "https://open.spotify.com/track/1NeKGzcnnQi6kD20pdBwU1"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Torch",
+        "url": "https://open.spotify.com/album/1MYRKX0bxL5FIXIqTakkNX"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Bekon",
+          "url": "https://open.spotify.com/artist/4VWnuR2hpj6DZNfcpe4e3M"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "Torch",
+      "url": "https://open.spotify.com/track/7EvgoFkWT1kVtOIhqGwZUm"
     },
     {
       "added_at": "2025-06-06 04:00:14",

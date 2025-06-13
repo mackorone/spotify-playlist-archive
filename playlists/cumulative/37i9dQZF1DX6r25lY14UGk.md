@@ -4,7 +4,7 @@
 
 > New releases for the kids\. Cover: Peppa Pig
 
-810 songs - 1 day 9 hr 44 min
+811 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Happy Together](https://open.spotify.com/track/2DdxnRvilAPgD0RGzd7FYs) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Happy Together](https://open.spotify.com/album/6c8yq8A5bpHkBtGQdAY2Xc) | 2:53 | 2024-02-16 | 2024-08-24 |
 | [Happy Whale \(Shake Your Tail\)](https://open.spotify.com/track/4PdUr73v2I1rLJIV9qEURu) | [Orange Splosh](https://open.spotify.com/artist/4VwmJfQjttfbV8RuPPPUe5) | [Happy Whale \(Shake Your Tail\)](https://open.spotify.com/album/11dBLNSaUvwal4ISFQRlD9) | 1:40 | 2024-02-16 | 2024-08-24 |
 | [Harmony](https://open.spotify.com/track/3KIQbhimKhUdiychQWegda) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Aura V](https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY) | [Harmony](https://open.spotify.com/album/6LGNhLhl9W6noLznBi2QA9) | 3:28 | 2024-10-11 | 2025-03-08 |
+| [Have a Good Time feat\. Charlie Wilson](https://open.spotify.com/track/5nYqe53a9DEkr2vrkTLPq2) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Have a Good Time feat\. Charlie Wilson](https://open.spotify.com/album/45IKvh11lgznevrIUftT6H) | 2:48 | 2025-02-21 |  |
 | [Head and Shoulders](https://open.spotify.com/track/1g1tWNjNV7qvclGI6OctNe) | [Nursery Rhymes and Kids Songs](https://open.spotify.com/artist/5q0OF8Ql4tW3OWFXftiUAO), [Twinkle Twinkle Little Star](https://open.spotify.com/artist/0ZsOdbAgZ60UYsgKCUzJKY), [Lullaby Babies](https://open.spotify.com/artist/695nGpWc1okscGp3hZklgP) | [Head and Shoulders](https://open.spotify.com/album/4RCZCenwG0KdG2pcxvCs45) | 1:29 | 2024-11-22 | 2025-03-08 |
 | [Heart Family](https://open.spotify.com/track/0idER1QATNUULVtm4CrAR2) | [Slumberkins](https://open.spotify.com/artist/5oC4IIutTVy3XmJbTFRfPi), [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Heart Family](https://open.spotify.com/album/79pXLUhGHVsf9fswJt40dB) | 3:46 | 2023-06-30 | 2024-01-05 |
 | [Hello Everybody](https://open.spotify.com/track/2n6ntNrlxYSxckBXwvGvnO) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [5 Green and Speckled Frogs and Other Circle Time Songs](https://open.spotify.com/album/1gINRi4CE7oF13FKKnosrO) | 1:59 | 2024-03-08 | 2024-04-19 |

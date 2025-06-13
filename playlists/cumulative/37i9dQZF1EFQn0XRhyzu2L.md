@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-575 songs - 1 day 7 hr 31 min
+576 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,9 +384,10 @@
 | [Only Time of Year](https://open.spotify.com/track/2SI7uQa7rugjxIrDM2czso) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Happiest Season \(Music from and Inspired by the Film\)](https://open.spotify.com/album/4FwF3viwUJiAzgSNohUI02) | 2:58 | 2024-02-27 |  |
 | [original me \(feat\. dan reynolds of imagine dragons\)](https://open.spotify.com/track/4KzOYxD4qIkUtZV9ZYakGu) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Dan Reynolds](https://open.spotify.com/artist/3k3gbUT7bF0jYmFmAKBQtU) | [original me \(feat\. dan reynolds of imagine dragons\)](https://open.spotify.com/album/6Qdnzl2AlEZDIeU3AaLnNM) | 3:25 | 2024-02-27 |  |
 | [Otro Level](https://open.spotify.com/track/0QTNqESiTNtNZpakyN1sek) | [clonakz](https://open.spotify.com/artist/0ou7NMwZ7JMtAUoV0uSF8k) | [Otro Level](https://open.spotify.com/album/5L3AEt8GfYwdQ6DYF4mYau) | 1:59 | 2024-07-13 | 2024-07-18 |
-| [Otro Level](https://open.spotify.com/track/6TcSDna60Q1Xonp2IvFmPd) | [Miguel Cross](https://open.spotify.com/artist/0xrSHgMkQzTDAKRVlrctpI) | [Otro Level](https://open.spotify.com/album/18m9Xjnf2M6JzK272547Tu) | 2:01 | 2024-11-09 |  |
+| [Otro Level](https://open.spotify.com/track/6TcSDna60Q1Xonp2IvFmPd) | [Miguel Cross](https://open.spotify.com/artist/0xrSHgMkQzTDAKRVlrctpI) | [Otro Level](https://open.spotify.com/album/18m9Xjnf2M6JzK272547Tu) | 2:01 | 2024-11-09 | 2025-06-13 |
 | [Otro Level](https://open.spotify.com/track/3da999B9jdR1aXbr3MkA5d) | [stuck in 98](https://open.spotify.com/artist/1AONy6lGpBqVE5dALEhBID), [Y si Ah](https://open.spotify.com/artist/1tBnZZW7w92XbA4rVYbblF) | [Otro Level](https://open.spotify.com/album/4RxTRvsmseN1LEUzvjaYSd) | 2:01 | 2024-11-01 | 2024-11-10 |
 | [Otro Level](https://open.spotify.com/track/30bos35PKdBqeSMgVFsia5) | [zxtyy](https://open.spotify.com/artist/5K2mfHnYfV0ONVRHRy2DSR), [reiiki](https://open.spotify.com/artist/5B68mBRgTMDaNza1wiz3cw) | [sYrup!](https://open.spotify.com/album/1IqtsopYsIEaj4dLgsSKxM) | 2:02 | 2024-05-19 | 2024-05-21 |
+| [Otro levvel](https://open.spotify.com/track/7vq3KdkCIPqcuJajMau32F) | [duketo](https://open.spotify.com/artist/5wzSFfo54upkzZ3uEhmYpE), [alejo](https://open.spotify.com/artist/64MWNhHSH276gQCfkaRu6N) | [Otro levvel](https://open.spotify.com/album/0W3vBwgTzuHtbd6IEKE7uA) | 2:00 | 2025-06-12 |  |
 | [Our Word](https://open.spotify.com/track/0uDB1q0UqgRFBl8hI4Qbf7) | [36 Questions](https://open.spotify.com/artist/1lZ55BBi0fylEBR9qOFk2x), [Jessie Shelton](https://open.spotify.com/artist/2fpFaqhr6d1JZ47hlYuIcs) | [36 Questions: The Deluxe Album](https://open.spotify.com/album/7aIu3t8kD1qCud2uMO2wd7) | 5:17 | 2024-02-27 |  |
 | [Outsiders](https://open.spotify.com/track/1iwQdUngDyaxhq0s2PqVUx) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Outsiders](https://open.spotify.com/album/29E3D3LWKCGqGanmEjeO5E) | 3:49 | 2024-02-27 |  |
 | [Paper Hearts](https://open.spotify.com/track/6PO0Csgktefy7BDb0zq8xU) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Night & Day \(Night Edition\)](https://open.spotify.com/album/69Pj3ce9XFZUi3XuQylLKf) | 3:29 | 2024-02-27 |  |

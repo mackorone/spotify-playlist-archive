@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 282033,
+  "num_followers": 282158,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEd1gAAAAADiAoUnSFTYE4wswn/JWoYo",
+  "snapshot_id": "aEjHAAAAAACIIw68iI1ItTURdrGYLvBs",
   "tracks": [
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mal Ejemplo, Vol. 3",
-        "url": "https://open.spotify.com/album/3mIsCeIbeXeicXk0QmSQRM"
+        "name": "De Nube en Nube",
+        "url": "https://open.spotify.com/album/0QL23W1P1RARwrX55ywxWt"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 302500,
-      "name": "Mal Ejemplo",
-      "url": "https://open.spotify.com/track/0HSBllfhckt9BhJAvNGLCN"
+      "duration_ms": 186710,
+      "name": "De Nube en Nube",
+      "url": "https://open.spotify.com/track/6uKxRqcYPJtBRZXfOJeSOZ"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Nube en Nube",
-        "url": "https://open.spotify.com/album/0QL23W1P1RARwrX55ywxWt"
+        "name": "Mal Ejemplo, Vol. 3",
+        "url": "https://open.spotify.com/album/3mIsCeIbeXeicXk0QmSQRM"
       },
       "artists": [
         {
@@ -376,25 +376,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 186710,
-      "name": "De Nube en Nube",
-      "url": "https://open.spotify.com/track/6uKxRqcYPJtBRZXfOJeSOZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hits Visuales, Vol. 4",
-        "url": "https://open.spotify.com/album/2biWpudc2pbS9UGGxjLgBM"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 186137,
-      "name": "Estamos al Aire",
-      "url": "https://open.spotify.com/track/6XagfTLSVgSx9lZFJ7q6Wy"
+      "duration_ms": 302500,
+      "name": "Mal Ejemplo",
+      "url": "https://open.spotify.com/track/0HSBllfhckt9BhJAvNGLCN"
     },
     {
       "added_at": null,
@@ -419,6 +403,22 @@
       "duration_ms": 213812,
       "name": "De Mexico Song",
       "url": "https://open.spotify.com/track/6xMZFpORmifhj8lbB5RGH9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hits Visuales, Vol. 4",
+        "url": "https://open.spotify.com/album/2biWpudc2pbS9UGGxjLgBM"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 186137,
+      "name": "Estamos al Aire",
+      "url": "https://open.spotify.com/track/6XagfTLSVgSx9lZFJ7q6Wy"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Mi Zona",
-        "url": "https://open.spotify.com/album/06lnEElRpfWIv4Tvf3wWg8"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Por Mi Zona",
-      "url": "https://open.spotify.com/track/0OSnalMNoPOjkMOFE7I4C3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No S\u00e9 Que Pas\u00f3",
         "url": "https://open.spotify.com/album/7xcIfZh7we4EvelWYPK0vH"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 216058,
       "name": "No S\u00e9 Que Pas\u00f3",
       "url": "https://open.spotify.com/track/3MVMTa6ZD3Ep4034dw7Q0A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Mi Zona",
+        "url": "https://open.spotify.com/album/06lnEElRpfWIv4Tvf3wWg8"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Por Mi Zona",
+      "url": "https://open.spotify.com/track/0OSnalMNoPOjkMOFE7I4C3"
     },
     {
       "added_at": null,

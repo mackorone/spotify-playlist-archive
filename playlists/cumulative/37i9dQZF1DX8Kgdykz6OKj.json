@@ -397,6 +397,28 @@
     },
     {
       "album": {
+        "name": "Allegedly",
+        "url": "https://open.spotify.com/album/4SVnC6tyMHfH09V2QX7WYu"
+      },
+      "artists": [
+        {
+          "name": "Tre Mission",
+          "url": "https://open.spotify.com/artist/0A1RqQ9c8SDENYZPp3XcPg"
+        },
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167217,
+      "name": "Allegedly",
+      "url": "https://open.spotify.com/track/04LykEZhcwFU2WBz8leiGZ"
+    },
+    {
+      "album": {
         "name": "almost got me",
         "url": "https://open.spotify.com/album/3CgByUDYSBxYmUdQfQDOLk"
       },

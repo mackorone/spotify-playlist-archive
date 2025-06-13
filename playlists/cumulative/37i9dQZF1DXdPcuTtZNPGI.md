@@ -4,7 +4,7 @@
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-158 songs - 10 hr 29 min
+159 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Shikabanese](https://open.spotify.com/track/4AwdxLIctXZhUnrTP9zGVy) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Shikabanese](https://open.spotify.com/album/6u4UgWp2FnrOGIlfmgKFhi) | 4:16 | 2022-10-09 | 2024-04-19 |
 | [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 | 2023-09-05 | 2024-02-09 |
 | [Show \- Jax Jones Remix](https://open.spotify.com/track/6dp3IPheUZdVbusysJ5CbW) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Show \(Jax Jones Remix\)](https://open.spotify.com/album/39RbmQuAmqNG6787RZ1Vqp) | 2:34 | 2023-12-31 | 2024-02-10 |
+| [Stay Gold \- from BEYBLADE X](https://open.spotify.com/track/65hfbURMDstZkt5FDt0Tbd) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Stay Gold \(from BEYBLADE X\)](https://open.spotify.com/album/5qyh3mcLstnqZhlmlY7njI) | 3:26 | 2025-06-12 |  |
 | [Stick Candy](https://open.spotify.com/track/4UxpuTRGpbqUouLUQ0G0jY) | [Nagumoyuuki](https://open.spotify.com/artist/4hZtlr9cA7XX5YSpnD5MWP), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Stick Candy](https://open.spotify.com/album/54qjvu2FrHsLXR1YIb6SUv) | 1:41 | 2022-10-09 | 2024-04-19 |
 | [Stick Candy \(feat\. Ado\)](https://open.spotify.com/track/078JVWjAyUkRfly410J2aN) | [南雲ゆうき](https://open.spotify.com/artist/4dYXHUOE8nJFuJvYtykTuk), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Stick Candy \(feat\. Ado\)](https://open.spotify.com/album/6VS4SEHRy0J5SCMEUQ3gqO) | 1:41 | 2024-02-22 |  |
 | [The World's Continuation](https://open.spotify.com/track/7k9Y8EXEvzKOH3zdMVXXo4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:47 | 2022-10-09 | 2024-04-19 |

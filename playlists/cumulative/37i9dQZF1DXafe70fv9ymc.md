@@ -4,7 +4,7 @@
 
 > sexy afrobeats
 
-138 songs - 7 hr 0 min
+139 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Pressure](https://open.spotify.com/track/40koVJVPscwPtadljPKMjq) | [nezsa](https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM) | [Soul Searching](https://open.spotify.com/album/4NspnWD3q3ji5ufaeTy7Lq) | 2:54 | 2024-04-19 | 2025-05-30 |
 | [project \- A COLORS SHOW](https://open.spotify.com/track/0ZgroOYQAUzfcQYS6wibf9) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [project \- A COLORS SHOW](https://open.spotify.com/album/5tHWyhdLYInrDivcSPWpnC) | 3:28 | 2024-02-09 | 2024-09-28 |
 | [Promise](https://open.spotify.com/track/0XiqUgSUvwPCyi6iyEES6N) | [A\-swxg](https://open.spotify.com/artist/4WLrRRtBJv9WV3A5KVClPg) | [Promise](https://open.spotify.com/album/6wdW7MEbcMGqrsFKDVB21x) | 2:47 | 2024-02-09 | 2024-10-19 |
-| [Pull up](https://open.spotify.com/track/1JvqN0vUrSfB01bQoGexLn) | [Naka](https://open.spotify.com/artist/52DXXortL8zEG5MqscRQmn) | [VIBEST4R EP](https://open.spotify.com/album/7rCXMRr1MrMVijZaUDuYjd) | 2:38 | 2025-05-16 |  |
+| [Pull up](https://open.spotify.com/track/1JvqN0vUrSfB01bQoGexLn) | [Naka](https://open.spotify.com/artist/52DXXortL8zEG5MqscRQmn) | [VIBEST4R EP](https://open.spotify.com/album/7rCXMRr1MrMVijZaUDuYjd) | 2:38 | 2025-05-16 | 2025-06-13 |
 | [R\-, Pt\. 2 \- Acoustic Version](https://open.spotify.com/track/2X8UWEViu7QZn7uRXAWKmV) | [OSO](https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2), [Amoit](https://open.spotify.com/artist/1EO9IOTaipIYiA0K8AnBuA), [Phoebe Thestor](https://open.spotify.com/artist/14Pns33TGKYoRZlxi2sN1I) | [R\-, Pt\. 2 \(Acoustic Version\)](https://open.spotify.com/album/4pjezrOHcAXQkBoe0rw0Zz) | 2:11 | 2024-02-09 | 2024-04-26 |
 | [REASON](https://open.spotify.com/track/1481IQC8BjqGLTer67cWbC) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd) | [REASON](https://open.spotify.com/album/3HsFIS5mJMqpisQXuwL0BN) | 3:41 | 2024-02-23 | 2024-08-02 |
 | [Rising](https://open.spotify.com/track/0RjIsyAX2Cjrhs22Dpfxyn) | [David Docade](https://open.spotify.com/artist/0lFRX34C3tyfJ1XtR1p6MF) | [Rising](https://open.spotify.com/album/7ilXy7MALlKATu0LlvrKQq) | 3:15 | 2024-03-15 | 2024-10-05 |
@@ -137,6 +137,7 @@
 | [Vowel Sounds](https://open.spotify.com/track/3wuWe3quRaU1rzd1lLQnN4) | [Legendary Suni](https://open.spotify.com/artist/0P8DZ3ltbouoBdElVotTtf) | [Hybrid](https://open.spotify.com/album/0J107ivNTNANPUakaqaYi4) | 3:00 | 2024-02-09 |  |
 | [Waiting On You](https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Waiting On You](https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK) | 2:43 | 2024-08-02 | 2024-10-05 |
 | [wap](https://open.spotify.com/track/0clDhQSahgP1U8vZUfblWS) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [wap](https://open.spotify.com/album/5Jbh653OLOZOtFazI7Hk7A) | 2:48 | 2024-05-17 |  |
+| [Water](https://open.spotify.com/track/2CzH2SQpEHxki6qN7eMddA) | [Dove Nicol](https://open.spotify.com/artist/4EivwNwx6JdqaTRF9yT89Q) | [Water](https://open.spotify.com/album/6dLJ1tn2cdxRl8vb5VseRz) | 2:45 | 2025-06-13 |  |
 | [Water](https://open.spotify.com/track/6J3rA77AWZ5POPCqAIWCrr) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Testament](https://open.spotify.com/album/06klV2isRMZbEofIvOunPM) | 2:45 | 2024-02-09 |  |
 | [weight](https://open.spotify.com/track/6Xs0BBQGIRCQxQwL0zt7lD) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Ashref](https://open.spotify.com/artist/5VlCWMebGynSUIx6dRxaPe) | [Dear Z](https://open.spotify.com/album/5yYCqkCxYnXFLqApA98Ltv) | 2:54 | 2024-11-22 |  |
 | [Wine](https://open.spotify.com/track/2qpCxK7imR1qbH4fbdgWLg) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:50 | 2024-02-09 | 2024-03-15 |

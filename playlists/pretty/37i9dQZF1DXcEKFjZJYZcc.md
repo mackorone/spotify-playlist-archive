@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 
 > Positive, uplifting piano to make you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,023 likes - 177 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,080 likes - 177 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 | 85 | [Corrente](https://open.spotify.com/track/6L8CQvpOSN43vjNmYwTatw) | [Scott Laudier](https://open.spotify.com/artist/51hN2Ma4SwEZOoxr0SIqQK) | [Corrente](https://open.spotify.com/album/2AgWcmJDGJ08wdzbbs6f4E) | 2:02 |
 | 86 | [Always Shining Bright](https://open.spotify.com/track/4s561TKv61mdyVq98FtbNk) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Always Shining Bright](https://open.spotify.com/album/6L94HMfRefYBQlrOTyRt5A) | 2:16 |
 | 87 | [Solace](https://open.spotify.com/track/2XpT1bngtM9pHoYEsfoYuu) | [Lucile Colbert](https://open.spotify.com/artist/2ztM0XfKnV9j8twCZI9qzK) | [Solace](https://open.spotify.com/album/5EUQ58DddJWsBvzcKnjewJ) | 2:04 |
-| 88 | [My Adored](https://open.spotify.com/track/2t14BxhdnmUQXsQ5ls74WR) | [Otis Son](https://open.spotify.com/artist/0ndzscLaWk1qlkOZ0nRPYE) | [My Adored](https://open.spotify.com/album/5AoqpA3d1et0eA51pv95lO) | 4:13 |
+| 88 | [My Adored](https://open.spotify.com/track/2t14BxhdnmUQXsQ5ls74WR) | [Otis Son](https://open.spotify.com/artist/5neBaCIWzBuLBFzsTAZMie) | [My Adored](https://open.spotify.com/album/5AoqpA3d1et0eA51pv95lO) | 4:13 |
 | 89 | [Secret Admirer](https://open.spotify.com/track/2lHQrHpOz29hr1HYMuYfO4) | [Carl Easterling](https://open.spotify.com/artist/1BpbMpMfqgyXdsZmUXsoIx) | [Secret Admirer](https://open.spotify.com/album/3Vzz6AtfJGbirjpPCnFnlq) | 2:07 |
 | 90 | [Thirst](https://open.spotify.com/track/6C1203q8GhYKuu2U6Qqpnp) | [Tales of Vibrations](https://open.spotify.com/artist/0Sxja6JbepbdS1Dw2nMDeG) | [Thirst](https://open.spotify.com/album/7KeiTF4P3CdFZyO13kfWSk) | 2:37 |
 | 91 | [A Picture Of Her](https://open.spotify.com/track/3W2VdvndrAvJdlqa2pn2Pc) | [Derick Carson](https://open.spotify.com/artist/0CaZ6x330PQergmF3mEpuY) | [A Picture Of Her](https://open.spotify.com/album/6tWUieCeCdwaimukWcmJdv) | 2:13 |

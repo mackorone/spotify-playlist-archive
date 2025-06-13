@@ -1,6 +1,6 @@
 {
   "description": "Explore the stellar corners of the genre's expansive and marvelous universe.",
-  "num_followers": 39438,
+  "num_followers": 39437,
   "original_name": "Cosmic Country",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "The Gilded Palace Of Sin",
-        "url": "https://open.spotify.com/album/6VWKy5o2OcdeWa7yolazjU"
-      },
-      "artists": [
-        {
-          "name": "The Flying Burrito Brothers",
-          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Hot Burrito #1",
-      "url": "https://open.spotify.com/track/0fRAGPWGKsntkIB2uZ9zkd"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Singing for My Supper",
         "url": "https://open.spotify.com/album/777Mw0hAnTtnE7YiVtJvBw"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 187725,
       "name": "Blue Pill Blues",
       "url": "https://open.spotify.com/track/6mFWXPietqhGexi0hkNH1B"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "The Gilded Palace Of Sin",
+        "url": "https://open.spotify.com/album/6VWKy5o2OcdeWa7yolazjU"
+      },
+      "artists": [
+        {
+          "name": "The Flying Burrito Brothers",
+          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Hot Burrito #1",
+      "url": "https://open.spotify.com/track/0fRAGPWGKsntkIB2uZ9zkd"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Grievous Angel",
+        "url": "https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN"
+      },
+      "artists": [
+        {
+          "name": "Gram Parsons",
+          "url": "https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd"
+        }
+      ],
+      "duration_ms": 232693,
+      "name": "Hearts on Fire - 2002 Remaster",
+      "url": "https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Oh, Sister [Feat. Courtney Marie Andrews]",
         "url": "https://open.spotify.com/album/3xXjZu3KT8TFfb9ObBmx9P"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 220699,
       "name": "Oh, Sister [Feat. Courtney Marie Andrews]",
       "url": "https://open.spotify.com/track/4DNWkjZlBuGgSmNnqOVBeN"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Grievous Angel",
-        "url": "https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN"
-      },
-      "artists": [
-        {
-          "name": "Gram Parsons",
-          "url": "https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd"
-        }
-      ],
-      "duration_ms": 232693,
-      "name": "Hearts on Fire - 2002 Remaster",
-      "url": "https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1231,18 +1231,26 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Hermosa Drive",
-        "url": "https://open.spotify.com/album/1W9chSfuRIMlDR9h1KLeO7"
+        "name": "Unchained Melody / You've Lost That Lovin' Feelin'",
+        "url": "https://open.spotify.com/album/2wuSSfY2acuozXaOth22B1"
       },
       "artists": [
         {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+          "name": "The Unrighteous Brothers",
+          "url": "https://open.spotify.com/artist/4Q1IDfpCe7ZRhPDfqeb5dd"
+        },
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        },
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
         }
       ],
-      "duration_ms": 234040,
-      "name": "Hermosa Drive",
-      "url": "https://open.spotify.com/track/6WysaBBSPIpoVPCbF4Rys4"
+      "duration_ms": 235617,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/2rhkDqUHN8qheTE1vZf7T9"
     }
   ],
   "unique_name": "Cosmic Country",

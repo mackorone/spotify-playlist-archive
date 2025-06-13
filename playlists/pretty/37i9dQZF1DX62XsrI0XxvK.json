@@ -1,13 +1,49 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Anjelia Dom",
-  "num_followers": 12832,
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Inara",
+  "num_followers": 12836,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEHOUgAAAAAjG5cIPiWqrV7+Id0h7zp3",
+  "snapshot_id": "aEtrEgAAAAARZVxfpwF+VB2K3KkSlfx8",
   "tracks": [
+    {
+      "added_at": "2025-06-12 18:01:31",
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/3WZjmog0USmx1kp1PmH5Nt"
+      },
+      "artists": [
+        {
+          "name": "Inara",
+          "url": "https://open.spotify.com/artist/1qcKOcPdWe0cxQn9ZXCefL"
+        },
+        {
+          "name": "Jordy Waelauruw",
+          "url": "https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H"
+        }
+      ],
+      "duration_ms": 186352,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/62LfjQE0DbXdcxTwHP5HaJ"
+    },
+    {
+      "added_at": "2025-06-12 18:01:31",
+      "album": {
+        "name": "Pelupa",
+        "url": "https://open.spotify.com/album/49VsFd3bLsFnppQt4bQPIH"
+      },
+      "artists": [
+        {
+          "name": "TERUNA",
+          "url": "https://open.spotify.com/artist/0YTMep6ABS7gI4txhB1DFL"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Pelupa",
+      "url": "https://open.spotify.com/track/1TaC3GhBKRo8wUHQ4jpCaM"
+    },
     {
       "added_at": "2025-06-05 17:05:22",
       "album": {
@@ -27,6 +63,54 @@
       "duration_ms": 192346,
       "name": "Satu Mimpiku",
       "url": "https://open.spotify.com/track/2qdaaqZLXjPbJLj6tfQTiN"
+    },
+    {
+      "added_at": "2025-06-12 18:01:31",
+      "album": {
+        "name": "CTRL+N",
+        "url": "https://open.spotify.com/album/7lds73q5sTxvsqVcOj1ZYc"
+      },
+      "artists": [
+        {
+          "name": "Lalu Carlos",
+          "url": "https://open.spotify.com/artist/44liq1Zx03XgOF3TwnkziS"
+        }
+      ],
+      "duration_ms": 189857,
+      "name": "My Bad",
+      "url": "https://open.spotify.com/track/3oDyCZweViCIWTm7z5ZO21"
+    },
+    {
+      "added_at": "2025-06-13 00:04:34",
+      "album": {
+        "name": "Here, I Said 'Thank You'",
+        "url": "https://open.spotify.com/album/0hQtQdnbzwAbgCWEKWxRRq"
+      },
+      "artists": [
+        {
+          "name": "Cosmoplaza",
+          "url": "https://open.spotify.com/artist/4dMVkCAtoW19LfuCvgQWpC"
+        }
+      ],
+      "duration_ms": 136888,
+      "name": "Here, I Said 'Thank You'",
+      "url": "https://open.spotify.com/track/5Cgy50FxnAM37H2PPrVfSi"
+    },
+    {
+      "added_at": "2025-06-12 18:01:31",
+      "album": {
+        "name": "Kembali",
+        "url": "https://open.spotify.com/album/3QlLunPGsRXTsgxJqtMiJ3"
+      },
+      "artists": [
+        {
+          "name": "Rezo Mesah",
+          "url": "https://open.spotify.com/artist/128s9ZuaXrvQ7DjwRn4kpU"
+        }
+      ],
+      "duration_ms": 130123,
+      "name": "Kembali",
+      "url": "https://open.spotify.com/track/6h2lCqV5ewEUZrZ0YrYlFO"
     },
     {
       "added_at": "2025-06-05 17:05:22",

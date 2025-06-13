@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 20094,
+  "num_followers": 20123,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEd1gAAAAADHrBfZEn962eWgw/SJzTug",
+  "snapshot_id": "aEjHAAAAAACuN23Uszk9trqX2jM2VFVW",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Survivor's Guilt",
-        "url": "https://open.spotify.com/album/3RX8lRbQ7rK9qcJ8WsQ6Y6"
+        "name": "Liability",
+        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
       },
       "artists": [
-        {
-          "name": "Merkules",
-          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
-        },
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         }
       ],
-      "duration_ms": 187406,
-      "name": "Bawse",
-      "url": "https://open.spotify.com/track/1aT46b6BWYFtmUFpQ8Anms"
+      "duration_ms": 257600,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/6hZwGfbZLn5i8VTPhw9nZw"
     },
     {
       "added_at": null,
@@ -515,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liability",
-        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 257600,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/6hZwGfbZLn5i8VTPhw9nZw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Treat You Right",
         "url": "https://open.spotify.com/album/2NJdKzl6B6Vu2TP4YYugue"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 204000,
       "name": "Treat You Right",
       "url": "https://open.spotify.com/track/1FFsglwdgas5NKXkGioEcF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Survivor's Guilt",
+        "url": "https://open.spotify.com/album/3RX8lRbQ7rK9qcJ8WsQ6Y6"
+      },
+      "artists": [
+        {
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+        },
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 187406,
+      "name": "Bawse",
+      "url": "https://open.spotify.com/track/1aT46b6BWYFtmUFpQ8Anms"
     },
     {
       "added_at": null,
@@ -599,22 +599,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Super Scary Monsters (feat. Prof)",
-        "url": "https://open.spotify.com/album/6bpPZjVaWmmodTGbu9adra"
+        "name": "Liability",
+        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
       },
       "artists": [
-        {
-          "name": "Grieves",
-          "url": "https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE"
-        },
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         }
       ],
-      "duration_ms": 148078,
-      "name": "Super Scary Monsters (feat. Prof)",
-      "url": "https://open.spotify.com/track/1IbqDQZm5jTt7wE6VcoPKC"
+      "duration_ms": 224000,
+      "name": "Standout",
+      "url": "https://open.spotify.com/track/08rc36f68zr2bZlZXpsBcN"
     },
     {
       "added_at": null,
@@ -639,18 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liability",
-        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
+        "name": "Super Scary Monsters (feat. Prof)",
+        "url": "https://open.spotify.com/album/6bpPZjVaWmmodTGbu9adra"
       },
       "artists": [
+        {
+          "name": "Grieves",
+          "url": "https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE"
+        },
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Standout",
-      "url": "https://open.spotify.com/track/08rc36f68zr2bZlZXpsBcN"
+      "duration_ms": 148078,
+      "name": "Super Scary Monsters (feat. Prof)",
+      "url": "https://open.spotify.com/track/1IbqDQZm5jTt7wE6VcoPKC"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "King Gampo",
+        "url": "https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/2P4otq5puB0C9ZqDJVveQt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Powderhorn Suites",
         "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 230906,
       "name": "Cousins",
       "url": "https://open.spotify.com/track/5GgieBASQgXvkaAJhk2XOi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "King Gampo",
-        "url": "https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "Whiskey",
-      "url": "https://open.spotify.com/track/2P4otq5puB0C9ZqDJVveQt"
     },
     {
       "added_at": null,

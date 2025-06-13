@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 137718,
+  "num_followers": 137738,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEd1gAAAAACr9SesG3E9IXe6wHFxw43t",
+  "snapshot_id": "aEjHAAAAAABmFJED39bG/2hYKYu7Wb1X",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pollinator",
-        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 275053,
-      "name": "Long Time",
-      "url": "https://open.spotify.com/track/2ugSAWatjCmL6dgvAKcZrn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blondie (Remastered 2001)",
         "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 194533,
       "name": "X Offender - Remastered 2001",
       "url": "https://open.spotify.com/track/2Yn7a6j6jWq9xzQFP2myDS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pollinator",
+        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 275053,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/2ugSAWatjCmL6dgvAKcZrn"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blondie 4(0)-Ever: Greatest Hits Deluxe Redux / Ghosts Of Download",
-        "url": "https://open.spotify.com/album/0BvoIfpCiKSobLiXF7QOvN"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 211541,
-      "name": "One Way Or Another - Rerecorded 2014 Version",
-      "url": "https://open.spotify.com/track/7e9rJISGUyZyAdqt1tPRIA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blondie (Remastered 2001)",
         "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 202826,
       "name": "Rip Her To Shreds - Remastered 2001",
       "url": "https://open.spotify.com/track/23yUwzz4CQ8yzQ65ATN6Ds"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blondie 4(0)-Ever: Greatest Hits Deluxe Redux / Ghosts Of Download",
+        "url": "https://open.spotify.com/album/0BvoIfpCiKSobLiXF7QOvN"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 211541,
+      "name": "One Way Or Another - Rerecorded 2014 Version",
+      "url": "https://open.spotify.com/track/7e9rJISGUyZyAdqt1tPRIA"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/7rCHbBbsUpCu2BX5lBKynt"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 244160,
-      "name": "The Tide Is High - Live",
-      "url": "https://open.spotify.com/track/5xzeWwkkSsKu8fDSQcEcOy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blondie (Remastered 2001)",
         "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 153133,
       "name": "In The Flesh - Remastered 2001",
       "url": "https://open.spotify.com/track/4D7ZvtLOG19HmtqKC8l0BI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/7rCHbBbsUpCu2BX5lBKynt"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 244160,
+      "name": "The Tide Is High - Live",
+      "url": "https://open.spotify.com/track/5xzeWwkkSsKu8fDSQcEcOy"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plastic Letters",
-        "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 148979,
-      "name": "Detroit 442 - Remastered",
-      "url": "https://open.spotify.com/track/169bqVVPKnu2TInM4qNCjG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blondie (Remastered 2001)",
         "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 159960,
       "name": "In The Sun - Remastered 2001",
       "url": "https://open.spotify.com/track/6RnnbW4qp7lCTDITqbkbK0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Plastic Letters",
+        "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 148979,
+      "name": "Detroit 442 - Remastered",
+      "url": "https://open.spotify.com/track/169bqVVPKnu2TInM4qNCjG"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Autoamerican (Remastered 2001)",
-        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "Here's Looking At You - Remastered 2001",
-      "url": "https://open.spotify.com/track/58GbxfoWngbf7Jj7BVnOGc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blondie (Remastered 2001)",
         "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 168360,
       "name": "Bermuda Triangle Blues - Remastered",
       "url": "https://open.spotify.com/track/4xF8RWpIgK8Axjeo28iXnu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Autoamerican (Remastered 2001)",
+        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "Here's Looking At You - Remastered 2001",
+      "url": "https://open.spotify.com/track/58GbxfoWngbf7Jj7BVnOGc"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Autoamerican (Remastered 2001)",
-        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "Do The Dark - Remastered 2001",
-      "url": "https://open.spotify.com/track/6MpYCxZDkkFLuHbXkLyxeo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plastic Letters",
         "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
       },
@@ -655,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blondie (Remastered 2001)",
-        "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
+        "name": "Autoamerican (Remastered 2001)",
+        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
       },
       "artists": [
         {
@@ -664,9 +648,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 127693,
-      "name": "Little Girl Lies - Remastered 2001",
-      "url": "https://open.spotify.com/track/7z1W9g9TXBoqFFqpj7jTvs"
+      "duration_ms": 231800,
+      "name": "Do The Dark - Remastered 2001",
+      "url": "https://open.spotify.com/track/6MpYCxZDkkFLuHbXkLyxeo"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
       "duration_ms": 259493,
       "name": "Fun",
       "url": "https://open.spotify.com/track/7sEVKrakaGrSvzHIQhWOTI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blondie (Remastered 2001)",
+        "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 127693,
+      "name": "Little Girl Lies - Remastered 2001",
+      "url": "https://open.spotify.com/track/7z1W9g9TXBoqFFqpj7jTvs"
     },
     {
       "added_at": null,

@@ -897,6 +897,28 @@
     },
     {
       "album": {
+        "name": "Beat Of The Drum",
+        "url": "https://open.spotify.com/album/2o0eytnIsDhifromTpINzS"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190285,
+      "name": "Beat Of The Drum",
+      "url": "https://open.spotify.com/track/3dyTWIExmi3UNPKhhAamlR"
+    },
+    {
+      "album": {
         "name": "Beautiful Disaster",
         "url": "https://open.spotify.com/album/7xafuOSJw67DzfhM2KlPHE"
       },

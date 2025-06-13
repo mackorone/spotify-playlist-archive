@@ -4,7 +4,7 @@
 
 > get into the groove with a selection of new underground deep house
 
-554 songs - 2 day 4 hr 15 min
+555 songs - 2 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [I Want Your Love](https://open.spotify.com/track/6KSGuwB6QKc5Ye7A5U7mPz) | [Franck Roger](https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL) | [I Want Your Love](https://open.spotify.com/album/2YKJQSyRe0oeoMPvUeRURp) | 6:32 | 2025-02-20 |  |
 | [I Warned You Baby](https://open.spotify.com/track/1GStTBknp7qomNM5uYMcVd) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Rave Baby EP](https://open.spotify.com/album/7db7NSBLfSihkpSgbkSLm9) | 6:52 | 2024-12-05 | 2025-02-15 |
 | [I'm Awake](https://open.spotify.com/track/5nK8Z0NQ2OfdufTGIkkO40) | [Exte C](https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23), [Soultouch Deeps](https://open.spotify.com/artist/3ip46JxKIbc7j4xor8PzRz) | [Timeless](https://open.spotify.com/album/1U6ie2QFI4jpAIXxRMnS6O) | 7:29 | 2025-02-08 |  |
-| [Idle Dancer](https://open.spotify.com/track/23z4b7G1clRr1Oop06zbz4) | [Frits Wentink](https://open.spotify.com/artist/6RU8a6xLRtKJckACb5wf5D) | [Together \- EP](https://open.spotify.com/album/3Zt6wborj7JR8FwpLto77Z) | 5:51 | 2024-10-23 |  |
+| [Idle Dancer](https://open.spotify.com/track/23z4b7G1clRr1Oop06zbz4) | [Frits Wentink](https://open.spotify.com/artist/6RU8a6xLRtKJckACb5wf5D) | [Together \- EP](https://open.spotify.com/album/3Zt6wborj7JR8FwpLto77Z) | 5:51 | 2024-10-23 | 2025-06-13 |
 | [If I Could](https://open.spotify.com/track/41iOaljQRzb0sQ20Yrqv2S) | [Paul Hawkins](https://open.spotify.com/artist/2yWzNcBbN6nFlT0WleVvSc), [Carl Price](https://open.spotify.com/artist/3QxkM0517OcqWykLkQaTw4) | [If I Could EP](https://open.spotify.com/album/6XxDhO6UM6x1pAI5NAC2qG) | 5:37 | 2025-05-11 |  |
 | [Impressions](https://open.spotify.com/track/4FuHaBjsIZ7zYWGQdy9ruS) | [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Treat You Right EP](https://open.spotify.com/album/1wwzsRk2UN3nErksPX440n) | 3:33 | 2024-08-01 | 2025-02-25 |
 | [In Awe of You](https://open.spotify.com/track/0ZqdBGJUST4pwHrR5HPfXP) | [Demuir](https://open.spotify.com/artist/57fp8oZ2P90tIcOpmAtZEi) | [BND Project Vol 5](https://open.spotify.com/album/0yRvGmvyj4i1wX32237WEy) | 6:53 | 2025-01-25 |  |
@@ -272,6 +272,7 @@
 | [Lonestar Retreat](https://open.spotify.com/track/1xChZ7WgwgbcTCi4Vb6tGq) | [Mosley Jr](https://open.spotify.com/artist/35esnnk9qnh5dte6Lqrzav) | [Lonestar Retreat](https://open.spotify.com/album/36T1wffFiQWf4MiCXyhygB) | 5:06 | 2023-05-25 | 2024-03-22 |
 | [Loosen Your Bones \- Instrumental Dub](https://open.spotify.com/track/7bWIgUCERJWbdj3g5xKHju) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Pinty](https://open.spotify.com/artist/0TUhwf3LG9K23fyL6oftFV) | [Loosen Your Bones](https://open.spotify.com/album/1EMXZIAURF4rnnElcrD8kf) | 5:05 | 2025-02-14 |  |
 | [Lose Yourself](https://open.spotify.com/track/0MSuNP3R7SziYnf8Ve4Hdl) | [Cellini](https://open.spotify.com/artist/5wFiSr66v5LC5Lt8MF06n3), [AMOS](https://open.spotify.com/artist/4YznhYq21QSUGqRPLhhrRW) | [Lose Yourself](https://open.spotify.com/album/3RG8gW5oohnm5MNlDxWvTN) | 3:10 | 2022-09-15 | 2023-07-08 |
+| [Lost in Loops](https://open.spotify.com/track/5yScrYlwTZFbs7vu6DHQF0) | [Beraber](https://open.spotify.com/artist/1cD9tbKLNxATeTNNBpDDAx) | [Gentle Actions](https://open.spotify.com/album/1c5zRd2dU1RKOkqEZFsvfs) | 5:04 | 2025-06-12 |  |
 | [Love Can Make It Happen \- Edit](https://open.spotify.com/track/3ZEertVkqoZQuqWyfbYphA) | [DJ Sneak](https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr) | [Love Can Make It Happen \(Edit\)](https://open.spotify.com/album/2ny81t6Z0wNGNfabGJU3eb) | 3:56 | 2024-01-31 | 2024-08-31 |
 | [Love is Enough \- Radio Edit](https://open.spotify.com/track/3BLfghwDpo7ky1g84DcTKE) | [Ross Couch](https://open.spotify.com/artist/6n9tw6ZtS39CELDQAKvanX) | [Love Is Enough](https://open.spotify.com/album/6HnlmljE8tI1RGQGWB85yR) | 4:29 | 2024-06-03 | 2025-02-14 |
 | [Love Supreme \(Danalogue Remix\)](https://open.spotify.com/track/7njlXCnRD5v3HEFqg7RAlA) | [LEFTO EARLY BIRD](https://open.spotify.com/artist/38qHUVZbVZfKq6NJxTU9oj), [Danalogue](https://open.spotify.com/artist/6lhPEH73wnzXY8agYbpdPu) | [Motherless Father: Club Versions](https://open.spotify.com/album/6OJdGCKfGh2J0hJMBsmvwP) | 6:37 | 2024-11-21 | 2025-04-17 |

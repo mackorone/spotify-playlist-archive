@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-256 songs - 12 hr 25 min
+260 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Fields Above](https://open.spotify.com/track/1OTu5THgajjpDIgtdgGbyn) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Fields Above](https://open.spotify.com/album/5W62C0F87hdnKM7GWIfuth) | 2:33 | 2025-04-11 |  |
 | [Fire Light](https://open.spotify.com/track/4FKjdm6uLmTiw8xYrliKAq) | [The Golden Peas](https://open.spotify.com/artist/2O29EK5hLrDu3Pr5K3r250) | [Fire Light](https://open.spotify.com/album/4EdKhnX4aWyP0AzSwnmVWd) | 2:55 | 2023-04-28 | 2025-05-22 |
 | [First And Foremost](https://open.spotify.com/track/7gZ40dl8LTUpm3cW8pjpZ2) | [Amaury Arceneaux](https://open.spotify.com/artist/5gBtN59LUe1KoY7cg5HBcp) | [First And Foremost](https://open.spotify.com/album/1CCpDBjJQFPzi2DmfoZpGZ) | 3:01 | 2024-06-03 | 2025-05-22 |
+| [Fjälldrömmar](https://open.spotify.com/track/6FFiYLvQAGVIwqsmVIZEgr) | [Center of Attention](https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs) | [Fjälldrömmar](https://open.spotify.com/album/1vdbvO1wkYJghGNq7WPxJA) | 2:35 | 2025-06-12 |  |
 | [Floating senses](https://open.spotify.com/track/3QeAlxO6Q3mRAdM56l0C2Q) | [Chakrasapiens](https://open.spotify.com/artist/0ifeddor0BLT2TaPLlzhjg) | [Floating senses](https://open.spotify.com/album/10eWaFvXO1b1uWhqMbctJR) | 2:35 | 2023-04-28 | 2025-05-22 |
 | [Floral Symmetry](https://open.spotify.com/track/4R6lRKk1vaYGlmKJUUIkov) | [Anna Nueva](https://open.spotify.com/artist/40EzXxZKfeMHctd8T22mlh) | [Floral Symmetry](https://open.spotify.com/album/3ajT7odbtLIXFpF6GOrjRU) | 2:22 | 2024-09-04 | 2024-10-13 |
 | [Flowing Calm](https://open.spotify.com/track/3FDcmnPJY1V39k54Fy6FxN) | [Joseph Rain](https://open.spotify.com/artist/1YHhB4lSX141uoyd58WoUc) | [Flowing Calm](https://open.spotify.com/album/4JoqWgNsmJ4NUE13A4FDKS) | 2:28 | 2023-08-25 |  |
@@ -178,6 +179,7 @@
 | [Peaceful Oasis](https://open.spotify.com/track/31DnMj7hs5zUQcT82WSfil) | [Harlow Moss](https://open.spotify.com/artist/1sVm3d1J0iADPftVNfTdBE) | [Peaceful Oasis](https://open.spotify.com/album/6iM47rcVv5oeECBmoqgjDP) | 2:57 | 2025-03-04 |  |
 | [Perennial Waterflow](https://open.spotify.com/track/1y5VTWasp7vgqUxjaKUK0B) | [D'Verti](https://open.spotify.com/artist/09rAM5GlzBVG3FODKTlrRu) | [Jillion](https://open.spotify.com/album/0Qi6IIzYtaFw3dr19FFPmr) | 4:01 | 2023-04-28 | 2025-05-22 |
 | [Photosynthesis](https://open.spotify.com/track/33K1CabCTz04Ht8G67PTPD) | [Endless Voyager](https://open.spotify.com/artist/15TXDkpu2tSyiy77G5ckRa) | [Photosynthesis](https://open.spotify.com/album/2n2FsaAK3UHnPdgYNbcGhx) | 2:42 | 2025-05-21 |  |
+| [Placid Drift](https://open.spotify.com/track/6yufy66mJGzYGcuCfz6BmY) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Placid Drift](https://open.spotify.com/album/6Yc8tnb5gxoPDoC76KAR86) | 3:00 | 2025-06-12 |  |
 | [Pompeiana Waters](https://open.spotify.com/track/3lwYGB4DxrEGE8uJ7JeKPx) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Pompeiana Waters](https://open.spotify.com/album/0Xtq908YcEyx3mMgpLpHdZ) | 2:54 | 2023-04-28 | 2025-01-01 |
 | [Portraits \(Sound Bath\)](https://open.spotify.com/track/0RyfmZbX3IIJcv6QE8lHmH) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Portraits \(Sound Bath\)](https://open.spotify.com/album/7Eh16NCTsAbz4jtNoRWqh7) | 3:14 | 2023-04-28 | 2025-05-22 |
 | [Prakrti](https://open.spotify.com/track/72WBF6dxJLFHsuyWnLYqja) | [Hashree](https://open.spotify.com/artist/15UsQSphJsVhQ89KBQ5i2G) | [Prakrti](https://open.spotify.com/album/0HlFC6UnZo6M0yZTC39sYM) | 2:57 | 2023-06-30 |  |
@@ -211,6 +213,7 @@
 | [Simplicity](https://open.spotify.com/track/5ABh3sfeg6DsCcm4uWRGNf) | [Wazuna](https://open.spotify.com/artist/0qu4t2NVwyPfQaxoVrmU3n) | [Simplicity](https://open.spotify.com/album/4IS0Gx9Z1Yi2grpkSeyW5p) | 3:12 | 2023-04-28 | 2024-10-02 |
 | [Slowly Stream](https://open.spotify.com/track/3K5TE2OlvFLnXbRLarLlBd) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Slowly](https://open.spotify.com/album/2zKxxUDZeLSpm6whXgcnGo) | 3:11 | 2023-11-24 |  |
 | [Slumber](https://open.spotify.com/track/4zE3EZNDuoLabKLlvWcuBw) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Slumber](https://open.spotify.com/album/6HwXGFUGqfDeaisYykNZGw) | 2:17 | 2024-08-23 |  |
+| [Soft Lights](https://open.spotify.com/track/5wCsBYlomdTdpCMYoguRCg) | [Astral Ocean](https://open.spotify.com/artist/3bV8AeagkRMuP7GwSrK4J6) | [Soft Lights](https://open.spotify.com/album/2Xj4CDF8lq5dYHZEPCsrUd) | 3:02 | 2025-06-12 |  |
 | [Solemn Echo](https://open.spotify.com/track/5NtSWnA98CIXpE6HloLurX) | [Stormfields](https://open.spotify.com/artist/1PlgaV9zKrbKabenfaMf0C) | [Solemn Echo](https://open.spotify.com/album/4b8EHzObZBqI6KXyU3DE2g) | 2:12 | 2023-04-28 | 2025-04-21 |
 | [Somos Tierra](https://open.spotify.com/track/7AVLKd5agjTZWrfjxBTMHX) | [Ancestral Beats](https://open.spotify.com/artist/5s5I6gLsXrfTFt91nIznYb) | [Somos Tierra](https://open.spotify.com/album/6xGYEZBKtcLC7KIKJOrXSM) | 2:54 | 2023-04-28 | 2023-05-27 |
 | [Song Of Nature](https://open.spotify.com/track/4LvTLzxeWPn6XUpCmE93iH) | [Ziwambe](https://open.spotify.com/artist/4C4pHnRWJY0ROkqEynVy7z) | [Song Of Nature](https://open.spotify.com/album/0nMiF2yBds8CV1LqnTHMsV) | 2:26 | 2023-09-22 |  |
@@ -264,5 +267,6 @@
 | [Yoga Nidra](https://open.spotify.com/track/0srGfXXqmeISaT3uSoaoXM) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [Yoga Nidra](https://open.spotify.com/album/5EazHq0TDPzE5zqFuW8QwJ) | 2:34 | 2023-04-28 | 2024-08-24 |
 | [Zen](https://open.spotify.com/track/25ONrgiTUfc6MaFNf7qxvm) | [Unreaa](https://open.spotify.com/artist/7em5iXXJfAo6rJKTpqKrQu), [和平](https://open.spotify.com/artist/3Bh9GDCbRLLBINIsgX0kxm) | [Zen](https://open.spotify.com/album/0eurRPjqSOprxhJpk5lPLQ) | 1:23 | 2023-04-28 | 2023-07-29 |
 | [Zonder Tijd](https://open.spotify.com/track/2WOugh5BKjaWCZSwWnlH86) | [Femke Edelijn](https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G) | [Zonder Tijd](https://open.spotify.com/album/0dG6E65OzDafhwiSvgsvxD) | 3:21 | 2023-04-28 | 2025-05-22 |
+| [Økker](https://open.spotify.com/track/5gO9mB7oOk2OelMdLC5Yrr) | [Ganlas](https://open.spotify.com/artist/0AmPU5zuAi7slA529gGago) | [Økker](https://open.spotify.com/album/3CEnXvB59omumr2LyFGMXm) | 3:02 | 2025-06-12 |  |
 
 \*This playlist was first scraped on 2023-05-02. Prior content cannot be recovered.

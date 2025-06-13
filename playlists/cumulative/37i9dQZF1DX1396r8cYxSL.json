@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 182117,
       "name": "AFFETMEM",
       "url": "https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV"
@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 149642,
       "name": "Aman G\u00fczel Yava\u015f Y\u00fcr\u00fc",
       "url": "https://open.spotify.com/track/2uZ7RwAWJiLQUkupslGAVZ"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 126834,
       "name": "behzat \u00e7",
       "url": "https://open.spotify.com/track/5OSGbpKvvi0iAJg6XHUois"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 223854,
       "name": "Ben Senin Delinim",
       "url": "https://open.spotify.com/track/055YVbBBnytDpM9K1ruqwx"
@@ -750,7 +750,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 118104,
       "name": "Dale Don Dale",
       "url": "https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 145573,
       "name": "Damlars\u0131n",
       "url": "https://open.spotify.com/track/0pFL8GjwSssk4uLBQafhAn"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 176142,
       "name": "DON JULIO",
       "url": "https://open.spotify.com/track/0WrQRd4FVPEXYnzU0JPyxy"
@@ -990,7 +990,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 142600,
       "name": "Elini Ver",
       "url": "https://open.spotify.com/track/4wwZyKI0OtpRfHmpxv6JdR"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 136039,
       "name": "ESC*BAR",
       "url": "https://open.spotify.com/track/6kWF1fWqA2ZuWn70TQvtmQ"
@@ -1966,7 +1966,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 190293,
       "name": "Renklensin",
       "url": "https://open.spotify.com/track/1d02igesB9DREknAVXRiBd"
@@ -2056,7 +2056,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 134049,
       "name": "Sa\u011flam Kal\u00e7a",
       "url": "https://open.spotify.com/track/1l9xKokVvCLP6QfzyTcThP"
@@ -2480,6 +2480,24 @@
       "duration_ms": 143437,
       "name": "Yan\u0131ba\u015f\u0131mda",
       "url": "https://open.spotify.com/track/3I69y3FlCsZ6UlOQinRs3l"
+    },
+    {
+      "album": {
+        "name": "Yara Band\u0131",
+        "url": "https://open.spotify.com/album/4XIc5Sdp4KLMfiSn2Kx52p"
+      },
+      "artists": [
+        {
+          "name": "Kendimden Hallice",
+          "url": "https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Yara Band\u0131",
+      "url": "https://open.spotify.com/track/0kqS5pI2INgjUXkj63Ddhn"
     },
     {
       "album": {

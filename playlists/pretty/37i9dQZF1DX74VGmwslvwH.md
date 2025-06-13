@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 
 > Energy flow from root to crown\. Balance your doshas with gentle sounds inspired by India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,730 likes - 119 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,831 likes - 119 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 | 86 | [River](https://open.spotify.com/track/5noFpnVfIGs7nLUkfNuEFu) | [Darma Waters](https://open.spotify.com/artist/4nN4oxcvDaWafW2VAmvf7Y) | [River](https://open.spotify.com/album/4Bn5tjd6zeja3ggftvOcf8) | 2:53 |
 | 87 | [The Tower of Embellion](https://open.spotify.com/track/76RktDCi1rVj63vpt9u5F0) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Winds of Haryana](https://open.spotify.com/album/1RR1WACNqmE89FmqtAUW07) | 2:56 |
 | 88 | [Rare Astra](https://open.spotify.com/track/5JqwjWauNVttvtXHDLn7E3) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Rare Astra](https://open.spotify.com/album/1XdZM894doi2XbdZsVCZZL) | 2:34 |
-| 89 | [Seasoned Traveler](https://open.spotify.com/track/5ILMMY0T5WbyOSn4XJIo04) | [Roksana Moi](https://open.spotify.com/artist/35oLmyk638FInZJx5hZD6j) | [Seasoned Traveler](https://open.spotify.com/album/3H154bZ3wxORhkRi1tk8on) | 2:56 |
+| 89 | [Seasoned Traveler](https://open.spotify.com/track/5ILMMY0T5WbyOSn4XJIo04) | [R\. Moi](https://open.spotify.com/artist/0My3xvWgfYJUpj85PHlgx3) | [Seasoned Traveler](https://open.spotify.com/album/3H154bZ3wxORhkRi1tk8on) | 2:56 |
 | 90 | [Who We Are](https://open.spotify.com/track/7o0fPw3ZlzfWREnTHBCCnU) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Who We Are](https://open.spotify.com/album/75mPPbdsfWEmFzMhZ9B6qU) | 4:31 |
 | 91 | [Mount Kailash](https://open.spotify.com/track/5T7JzSKY03KLxvWWSEug8r) | [Aural Waves](https://open.spotify.com/artist/0rqRKblaWE6B3flDy2r0x0) | [Mount Kailash](https://open.spotify.com/album/1KLmnLjZBOC0q3TXkK6t4e) | 4:23 |
 | 92 | [Raat Kee Khoj](https://open.spotify.com/track/6aRBPJ1TcZFPPcw07UUSd5) | [Daya Misra](https://open.spotify.com/artist/4ym3cVsniN8Zfiq6c2mKb2) | [Raat Kee Khoj](https://open.spotify.com/album/4fPb0HKS6TEJKuehkk2SG9) | 4:31 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 | 118 | [Distance](https://open.spotify.com/track/4cXRe000LxbchXggA2TlrU) | [Oceans Cry](https://open.spotify.com/artist/174Q4UvaXNdNt4KSRrglKi) | [Distance](https://open.spotify.com/album/6idMBEpMSoVX44nJb5jtIW) | 3:56 |
 | 119 | [Spiritual air](https://open.spotify.com/track/1vO99rnyMLcqu6CV7UjBWk) | [Adhara](https://open.spotify.com/artist/6bKoAOFeyeIPboiQcSfbwm) | [Spiritual air](https://open.spotify.com/album/7HYxw9PQJDZXIqiF4LboeU) | 3:38 |
 
-Snapshot ID: `aCc2cQAAAABAong4RmRTi/Iaef5EDDsg`
+Snapshot ID: `AAAAAKBPrZSAfuh+cVMf7dLGMO4bZ200`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: John Wilds
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,927 likes - 75 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,936 likes - 75 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 74 | [What Heaven Can't \- Live From VOUSCon](https://open.spotify.com/track/2HAAbyL9SkscxiehzOirdH) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [What Heaven Can't \(Live\)](https://open.spotify.com/album/4Tquepa8ljYAviI4EPyvKS) | 5:59 |
 | 75 | [Shalom](https://open.spotify.com/track/30mz7jGufwQ3YAvulUUi18) | [Bridge Worship](https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK), [Setnick Sene](https://open.spotify.com/artist/1GWPXgfWARCEHj1unNonAE) | [Shalom](https://open.spotify.com/album/0cudtQVYv29jw1Q4MOIUdU) | 5:22 |
 
-Snapshot ID: `aB3GKAAAAAB8V3dhFxm52JnIpmA6XIJb`
+Snapshot ID: `AAAAANpW5uRAR0mH5UIB9E/UxY/xGHQo`

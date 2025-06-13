@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 
 > muZikiiTa RaRa 100pre sÄd t oDiiO bye 👾 AKRILA en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,887 likes - 106 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,908 likes - 106 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

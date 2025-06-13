@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain]
 
 > The best and latest rock and alternative\. Cover: Volbeat
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 9,866 likes - 80 songs - 4 hr 53 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 9,864 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

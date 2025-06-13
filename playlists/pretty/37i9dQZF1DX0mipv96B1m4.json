@@ -383,26 +383,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Basheshe",
-        "url": "https://open.spotify.com/album/56rn1q7WdgSdLnxOQw21to"
-      },
-      "artists": [
-        {
-          "name": "Zagazillions",
-          "url": "https://open.spotify.com/artist/3JDY9JvgYHKbL8oSxjyLn6"
-        },
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 139188,
-      "name": "Basheshe",
-      "url": "https://open.spotify.com/track/494DKelh71AKorLmulm5C7"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "My Bed",
         "url": "https://open.spotify.com/album/7MoasxIIh6VkzbVYTuv8dO"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 214729,
       "name": "LIFIST",
       "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Basheshe",
+        "url": "https://open.spotify.com/album/56rn1q7WdgSdLnxOQw21to"
+      },
+      "artists": [
+        {
+          "name": "Zagazillions",
+          "url": "https://open.spotify.com/artist/3JDY9JvgYHKbL8oSxjyLn6"
+        },
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 139188,
+      "name": "Basheshe",
+      "url": "https://open.spotify.com/track/494DKelh71AKorLmulm5C7"
     },
     {
       "added_at": "2024-03-01 12:07:08",

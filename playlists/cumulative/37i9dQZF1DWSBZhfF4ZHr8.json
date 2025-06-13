@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo: Ulysse",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo: Amir",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -352,6 +352,28 @@
       "duration_ms": 172874,
       "name": "Bollywood",
       "url": "https://open.spotify.com/track/6YQuwMRXGbbBHGw54F1BPl"
+    },
+    {
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/3rOI7YmGY7hVB8m7YZ8HPY"
+      },
+      "artists": [
+        {
+          "name": "Superbus",
+          "url": "https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq"
+        },
+        {
+          "name": "RORI",
+          "url": "https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223493,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/4FsPvaASzHNVGs0vFXavBo"
     },
     {
       "album": {
@@ -756,7 +778,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 126777,
       "name": "Comment fait-on ?",
       "url": "https://open.spotify.com/track/7e7ITPw4Ap7YL5C3p0AkcJ"
@@ -1034,7 +1056,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 147509,
       "name": "Dis-moi",
       "url": "https://open.spotify.com/track/48J8yeiYwZZxxwWXa4zTXQ"
@@ -1338,6 +1360,24 @@
       "duration_ms": 163200,
       "name": "Eternel amoureux",
       "url": "https://open.spotify.com/track/35YvnXPvHe5O4Xh3WsNFQK"
+    },
+    {
+      "album": {
+        "name": "Les papillons dorment en hiver",
+        "url": "https://open.spotify.com/album/5KuhrDFckGPJZi0WCSDZv8"
+      },
+      "artists": [
+        {
+          "name": "Cenzo",
+          "url": "https://open.spotify.com/artist/7ChUrEb8MmLmLGloTbj9oL"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143234,
+      "name": "Excuse-moi",
+      "url": "https://open.spotify.com/track/5fi8cNrNlNOYHtgNzqFu1Q"
     },
     {
       "album": {
@@ -2112,6 +2152,24 @@
       "duration_ms": 152787,
       "name": "L'air de rien",
       "url": "https://open.spotify.com/track/64e47MxS86ySGBkJfNsT7u"
+    },
+    {
+      "album": {
+        "name": "L'amour",
+        "url": "https://open.spotify.com/album/7pgHenqjmqkUCWkvH7t5TZ"
+      },
+      "artists": [
+        {
+          "name": "Keen' V",
+          "url": "https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191320,
+      "name": "L'amour",
+      "url": "https://open.spotify.com/track/299EYCmARmvgjzcyP0AW5O"
     },
     {
       "album": {
@@ -3300,7 +3358,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 173453,
       "name": "Mute",
       "url": "https://open.spotify.com/track/0vhtPqWGlmXeKSInuoF8Yk"
@@ -3419,6 +3477,24 @@
     },
     {
       "album": {
+        "name": "Nous",
+        "url": "https://open.spotify.com/album/1is67cSsBtCg203117l5QH"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155290,
+      "name": "Nous",
+      "url": "https://open.spotify.com/track/4YTZaCj7GuS1s0IG56aPcq"
+    },
+    {
+      "album": {
         "name": "Nous on sait",
         "url": "https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx"
       },
@@ -3452,6 +3528,24 @@
       "duration_ms": 158520,
       "name": "Nouveau d\u00e9part",
       "url": "https://open.spotify.com/track/4Ty8Q0KsyuNHmBLlPK13fi"
+    },
+    {
+      "album": {
+        "name": "Nouveau jour",
+        "url": "https://open.spotify.com/album/0Ex2lKs81gEUxA9Xbe8S8p"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126146,
+      "name": "Nouveau jour",
+      "url": "https://open.spotify.com/track/7yRk1Wz8zcP3Oq8Y6osHHi"
     },
     {
       "album": {
@@ -3528,6 +3622,24 @@
       "duration_ms": 154543,
       "name": "Oser",
       "url": "https://open.spotify.com/track/2OwSd94EtSFh5dzrp4SFWY"
+    },
+    {
+      "album": {
+        "name": "page blanche",
+        "url": "https://open.spotify.com/album/1pKpHIgiVxXMSRzcxyYXo9"
+      },
+      "artists": [
+        {
+          "name": "Moy\u00e0",
+          "url": "https://open.spotify.com/artist/1Xvap7Au9MqLcUJUCPcJp1"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162246,
+      "name": "page blanche",
+      "url": "https://open.spotify.com/track/4Etuqcijo0qS68x7soXNof"
     },
     {
       "album": {
@@ -3676,7 +3788,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 160823,
       "name": "Pas d'amour",
       "url": "https://open.spotify.com/track/1iDb5lwBCf664RyzyxBi9X"
@@ -4662,7 +4774,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 167226,
       "name": "Tour du monde (feat. Ronisia)",
       "url": "https://open.spotify.com/track/5SuyFU4CGBodJOaAeGBI7J"
@@ -5174,7 +5286,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 145474,
       "name": "Weekend - 48H Radio Edit",
       "url": "https://open.spotify.com/track/2qgkmFTjDk13rrdJY7MIKE"

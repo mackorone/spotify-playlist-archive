@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 81331,
+  "num_followers": 81447,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2025-06-06 04:00:21",
       "album": {
+        "name": "El Beso (feat. Mathieu Ruz)",
+        "url": "https://open.spotify.com/album/5rCFh5wOLyHTfPicJom5eA"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "duration_ms": 211547,
+      "name": "El Beso (feat. Mathieu Ruz)",
+      "url": "https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx"
+    },
+    {
+      "added_at": "2025-06-06 04:00:21",
+      "album": {
         "name": "CARNET (Cloonee Remix)",
         "url": "https://open.spotify.com/album/5gaFlogR1ipqBuLBKlDw3E"
       },
@@ -1363,26 +1383,6 @@
       "duration_ms": 225587,
       "name": "CARNET - Cloonee Remix",
       "url": "https://open.spotify.com/track/5d1T4dmSTUoI5GR9R9CJYL"
-    },
-    {
-      "added_at": "2025-06-06 04:00:21",
-      "album": {
-        "name": "El Beso (feat. Mathieu Ruz)",
-        "url": "https://open.spotify.com/album/5rCFh5wOLyHTfPicJom5eA"
-      },
-      "artists": [
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        },
-        {
-          "name": "Crusy",
-          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
-        }
-      ],
-      "duration_ms": 211547,
-      "name": "El Beso (feat. Mathieu Ruz)",
-      "url": "https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx"
     },
     {
       "added_at": "2025-06-06 04:00:21",
@@ -1547,18 +1547,26 @@
     {
       "added_at": "2025-06-06 04:00:21",
       "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
+        "name": "Ta Sendo",
+        "url": "https://open.spotify.com/album/1U5VUUBn4JpuEIgUyfHYs8"
       },
       "artists": [
         {
           "name": "Tom Enzy",
           "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Mark Di Meo",
+          "url": "https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE"
+        },
+        {
+          "name": "MC K9",
+          "url": "https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag"
         }
       ],
-      "duration_ms": 197419,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
+      "duration_ms": 203809,
+      "name": "Ta Sendo",
+      "url": "https://open.spotify.com/track/4HkEvRh46mXU9ZTIW8uhvx"
     },
     {
       "added_at": "2025-06-06 04:00:21",
@@ -1663,26 +1671,18 @@
     {
       "added_at": "2025-06-06 04:00:21",
       "album": {
-        "name": "Ta Sendo",
-        "url": "https://open.spotify.com/album/1U5VUUBn4JpuEIgUyfHYs8"
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
       },
       "artists": [
         {
           "name": "Tom Enzy",
           "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Mark Di Meo",
-          "url": "https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE"
-        },
-        {
-          "name": "MC K9",
-          "url": "https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag"
         }
       ],
-      "duration_ms": 203809,
-      "name": "Ta Sendo",
-      "url": "https://open.spotify.com/track/4HkEvRh46mXU9ZTIW8uhvx"
+      "duration_ms": 197419,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
     },
     {
       "added_at": "2025-06-06 04:00:21",
@@ -1939,30 +1939,6 @@
     {
       "added_at": "2025-06-06 04:00:21",
       "album": {
-        "name": "P\u00e1rtelo",
-        "url": "https://open.spotify.com/album/6kzkm05qMFnY2W0fxHYGEC"
-      },
-      "artists": [
-        {
-          "name": "David Tort",
-          "url": "https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu"
-        },
-        {
-          "name": "Juany Bravo",
-          "url": "https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm"
-        },
-        {
-          "name": "Ghetto Flow",
-          "url": "https://open.spotify.com/artist/0ScfiVR0ZTtu9428PJS3LP"
-        }
-      ],
-      "duration_ms": 127926,
-      "name": "P\u00e1rtelo",
-      "url": "https://open.spotify.com/track/7pAZFQZylCaA138Gort875"
-    },
-    {
-      "added_at": "2025-06-06 04:00:21",
-      "album": {
         "name": "Cubierta",
         "url": "https://open.spotify.com/album/6702AywKlhGRzUHQgLrKFw"
       },
@@ -1983,6 +1959,30 @@
       "duration_ms": 184687,
       "name": "Cubierta",
       "url": "https://open.spotify.com/track/1mBHBMWxQsS0D2C5tQsHkd"
+    },
+    {
+      "added_at": "2025-06-06 04:00:21",
+      "album": {
+        "name": "P\u00e1rtelo",
+        "url": "https://open.spotify.com/album/6kzkm05qMFnY2W0fxHYGEC"
+      },
+      "artists": [
+        {
+          "name": "David Tort",
+          "url": "https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu"
+        },
+        {
+          "name": "Juany Bravo",
+          "url": "https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm"
+        },
+        {
+          "name": "Ghetto Flow",
+          "url": "https://open.spotify.com/artist/0ScfiVR0ZTtu9428PJS3LP"
+        }
+      ],
+      "duration_ms": 127926,
+      "name": "P\u00e1rtelo",
+      "url": "https://open.spotify.com/track/7pAZFQZylCaA138Gort875"
     },
     {
       "added_at": "2025-06-06 04:00:21",

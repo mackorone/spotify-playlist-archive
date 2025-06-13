@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  Aaron Cole",
-  "num_followers": 185922,
+  "num_followers": 185989,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANag7pOtHhEB/sRltDvXiqlJcYns",
+  "snapshot_id": "aEdQIAAAAADTRiz912BLDl9ums4BTo/v",
   "tracks": [
     {
       "added_at": "2025-06-09 21:20:32",
@@ -31,6 +31,30 @@
       "duration_ms": 158490,
       "name": "NOBODY BUT GOD (feat. Jon Keith)",
       "url": "https://open.spotify.com/track/0PgnIPWS1eQh1SbneVtFDB"
+    },
+    {
+      "added_at": "2025-06-09 21:20:32",
+      "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/3SHL8OJzYcVZxStR0NOH1c"
+      },
+      "artists": [
+        {
+          "name": "Trae Tha Truth",
+          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Baby Truth",
+          "url": "https://open.spotify.com/artist/3JSZUZkyZbG583ywTOr4tD"
+        }
+      ],
+      "duration_ms": 199399,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3yrhr8lDXzx83tfhwvp7wy"
     },
     {
       "added_at": "2025-06-09 21:20:32",

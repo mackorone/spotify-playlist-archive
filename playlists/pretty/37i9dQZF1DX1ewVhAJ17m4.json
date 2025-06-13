@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Avril Lavigne & Simple Plan",
-  "num_followers": 594754,
+  "num_followers": 594784,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-05-15 19:35:05",
       "album": {
+        "name": "WORLD vs PEACE",
+        "url": "https://open.spotify.com/album/02dBNsmY7XLUSFfWsUCjd6"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 178837,
+      "name": "WORLD vs PEACE",
+      "url": "https://open.spotify.com/track/6Ju4dvSRiStvwyirpkBuYx"
+    },
+    {
+      "added_at": "2025-05-15 19:35:05",
+      "album": {
         "name": "Lessons That We Swear to Keep",
         "url": "https://open.spotify.com/album/6xlDMMUoYLehP6ctcYnApt"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2025-05-15 19:35:05",
       "album": {
-        "name": "WORLD vs PEACE",
-        "url": "https://open.spotify.com/album/02dBNsmY7XLUSFfWsUCjd6"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 178837,
-      "name": "WORLD vs PEACE",
-      "url": "https://open.spotify.com/track/6Ju4dvSRiStvwyirpkBuYx"
-    },
-    {
-      "added_at": "2025-05-15 19:35:05",
-      "album": {
         "name": "GODDAMNITALL",
         "url": "https://open.spotify.com/album/70YBG1iQdOixvsqS2UVRPP"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-05-15 19:35:05",
       "album": {
-        "name": "Feedback",
-        "url": "https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 152963,
-      "name": "Feedback",
-      "url": "https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH"
-    },
-    {
-      "added_at": "2025-05-15 19:35:05",
-      "album": {
         "name": "MOTH KIDS",
         "url": "https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 219035,
       "name": "MOTH KIDS",
       "url": "https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU"
+    },
+    {
+      "added_at": "2025-05-15 19:35:05",
+      "album": {
+        "name": "Feedback",
+        "url": "https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 152963,
+      "name": "Feedback",
+      "url": "https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH"
     },
     {
       "added_at": "2025-05-15 19:35:05",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-05-15 19:35:05",
       "album": {
-        "name": "dyed (2008 - 2023)",
-        "url": "https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 180959,
-      "name": "don't light the match (dyed black 2010)",
-      "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
-    },
-    {
-      "added_at": "2025-05-15 19:35:05",
-      "album": {
         "name": "dayz gone / black lodge breakfast burrito (limited time only)",
         "url": "https://open.spotify.com/album/4RgMjUyuNFO9f1llm5UeMS"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 191066,
       "name": "dayz gone",
       "url": "https://open.spotify.com/track/7smNyoh7fzczIYUOAoM4uJ"
+    },
+    {
+      "added_at": "2025-05-15 19:35:05",
+      "album": {
+        "name": "dyed (2008 - 2023)",
+        "url": "https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 180959,
+      "name": "don't light the match (dyed black 2010)",
+      "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
     },
     {
       "added_at": "2025-05-15 19:35:05",
@@ -1227,58 +1227,6 @@
     {
       "added_at": "2025-05-15 19:35:05",
       "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/35ag9Wdq7LC3JyMZVVbxK1"
-      },
-      "artists": [
-        {
-          "name": "Nate VanDeusen",
-          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
-        },
-        {
-          "name": "The Ready Set",
-          "url": "https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC"
-        }
-      ],
-      "duration_ms": 153170,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/4s9FAw4DbvTZUdQsnU2ctB"
-    },
-    {
-      "added_at": "2025-05-15 19:35:05",
-      "album": {
-        "name": "Junebug",
-        "url": "https://open.spotify.com/album/7rkZzCrHPKUjVmjpBul358"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        }
-      ],
-      "duration_ms": 196394,
-      "name": "Junebug",
-      "url": "https://open.spotify.com/track/1WyzPXw5x8wdEssO2cS0aW"
-    },
-    {
-      "added_at": "2025-05-15 19:35:05",
-      "album": {
-        "name": "One Zero Zero",
-        "url": "https://open.spotify.com/album/3Axov8lonkei7AEE7Ww0rv"
-      },
-      "artists": [
-        {
-          "name": "MxPx",
-          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "One Zero Zero",
-      "url": "https://open.spotify.com/track/2NgTc6FOEMUyUvF07cVL7A"
-    },
-    {
-      "added_at": "2025-05-15 19:35:05",
-      "album": {
         "name": "diamonds on your dagger",
         "url": "https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ"
       },
@@ -1327,6 +1275,38 @@
     {
       "added_at": "2025-05-15 19:35:05",
       "album": {
+        "name": "One Zero Zero",
+        "url": "https://open.spotify.com/album/3Axov8lonkei7AEE7Ww0rv"
+      },
+      "artists": [
+        {
+          "name": "MxPx",
+          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+        }
+      ],
+      "duration_ms": 166800,
+      "name": "One Zero Zero",
+      "url": "https://open.spotify.com/track/2NgTc6FOEMUyUvF07cVL7A"
+    },
+    {
+      "added_at": "2025-05-15 19:35:05",
+      "album": {
+        "name": "Junebug",
+        "url": "https://open.spotify.com/album/7rkZzCrHPKUjVmjpBul358"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        }
+      ],
+      "duration_ms": 196394,
+      "name": "Junebug",
+      "url": "https://open.spotify.com/track/1WyzPXw5x8wdEssO2cS0aW"
+    },
+    {
+      "added_at": "2025-05-15 19:35:05",
+      "album": {
         "name": "BLINK AND YOU'LL MISS IT//",
         "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
       },
@@ -1347,22 +1327,42 @@
     {
       "added_at": "2025-05-15 19:35:05",
       "album": {
-        "name": "Greener (with Mitchell Tenpenny)",
-        "url": "https://open.spotify.com/album/2UdCM4OKs6455gkT1Gqc0f"
+        "name": "Welcome To My Life",
+        "url": "https://open.spotify.com/album/3Q3tSxN1bqomlhCz3CNPjT"
       },
       "artists": [
         {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+          "name": "STVW",
+          "url": "https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k"
         },
         {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
         }
       ],
-      "duration_ms": 175566,
-      "name": "Greener (with Mitchell Tenpenny)",
-      "url": "https://open.spotify.com/track/1YhiHwFFJ73j8nMnT1CkGt"
+      "duration_ms": 144705,
+      "name": "Welcome To My Life",
+      "url": "https://open.spotify.com/track/5quWKpomMVx0NofTzESmmG"
+    },
+    {
+      "added_at": "2025-05-15 19:35:05",
+      "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/35ag9Wdq7LC3JyMZVVbxK1"
+      },
+      "artists": [
+        {
+          "name": "Nate VanDeusen",
+          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
+        },
+        {
+          "name": "The Ready Set",
+          "url": "https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC"
+        }
+      ],
+      "duration_ms": 153170,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/4s9FAw4DbvTZUdQsnU2ctB"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

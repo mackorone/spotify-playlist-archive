@@ -915,7 +915,7 @@
     },
     {
       "album": {
-        "name": "WOWOW\u30aa\u30ea\u30b8\u30ca\u30eb\u30a2\u30cb\u30e1\u300c\u706b\u72e9\u308a\u306e\u738b\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de / TV\u30a2\u30cb\u30e1\u300cREVENGER\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de \u307e\u3060\u9060\u304f\u306b\u3044\u308b / un_mute",
+        "name": "WOWOW\u30aa\u30ea\u30b8\u30ca\u30eb\u30a2\u30cb\u30e1\u300c\u706b\u72e9\u308a\u306e\u738b\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de / TV\u30a2\u30cb\u30e1\u300cREVENGER\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u3000\u307e\u3060\u9060\u304f\u306b\u3044\u308b / un_mute",
         "url": "https://open.spotify.com/album/6gGM1wmwOjwXZyOjkFu43t"
       },
       "artists": [
@@ -926,7 +926,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 297293,
       "name": "un_mute",
       "url": "https://open.spotify.com/track/5eaP3rpHtO5HdhFSivEmuF"
@@ -1810,7 +1810,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 240200,
       "name": "\u30ec\u30d7\u30ea\u30ab",
       "url": "https://open.spotify.com/track/0XBq9Gk2ikiyDWJOuwNiP3"

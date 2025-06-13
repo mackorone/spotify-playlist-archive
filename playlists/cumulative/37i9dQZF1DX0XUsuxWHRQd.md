@@ -4,7 +4,7 @@
 
 > New music from Lil Wayne, GloRilla and Lil Yachty.
 
-2,395 songs - 5 day 4 hr 1 min
+2,396 songs - 5 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1493,6 +1493,7 @@
 | [Outside \(Better Days\)](https://open.spotify.com/track/26BMsCXJpD7eYtP7ufhApC) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Og Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2) | [Outside \(Better Days\)](https://open.spotify.com/album/1DJ4bBATfVNTZ3Y0JlX9oi) | 2:28 | 2021-06-26 | 2021-09-25 |
 | [Outta Here](https://open.spotify.com/track/0fyTxbBpOEBjh6be882tHu) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Outta Here](https://open.spotify.com/album/60LHNmZV4NxCVryFb4jhZy) | 2:46 | 2025-06-06 |  |
 | [Outta Time \(feat\. Drake\)](https://open.spotify.com/track/0LGtMvQJ37SsEYbkP6TcVJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [A N N I V E R S A R Y](https://open.spotify.com/album/4tLP29vbVVV4JaahjSmKjp) | 3:18 | 2020-10-02 | 2020-10-09 |
+| [Over](https://open.spotify.com/track/6BdgtqiV3oXNqBikezwdvC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 3:53 | 2025-06-12 |  |
 | [Over The Top \(feat\. Drake\)](https://open.spotify.com/track/3yaYgjEFkRw3PVjW9mV1TO) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Over The Top \(feat\. Drake\)](https://open.spotify.com/album/4ROMS3rcR9JepxAtDRpvc5) | 2:33 | 2021-07-24 | 2021-10-23 |
 | [Over Your Head](https://open.spotify.com/track/0Tcw8w9pvPrZoORgxsNASW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Over Your Head](https://open.spotify.com/album/2LLu6xqRlPgR80v0lg5WR1) | 3:06 | 2020-08-01 | 2020-09-04 |
 | [Overnight Celebrity](https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Kamikaze](https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb) | 3:53 | 2024-02-01 | 2024-02-03 |

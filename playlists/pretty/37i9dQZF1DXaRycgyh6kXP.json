@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 262550,
+  "num_followers": 262624,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2025-05-23 04:00:51",
       "album": {
+        "name": "Views/Octopus EP",
+        "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Aquarium",
+      "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
+    },
+    {
+      "added_at": "2025-05-23 04:00:51",
+      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/4OiAIm1kS30F3QOgmmfC3L"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 205333,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/1luDTOkUqKMQ8gQvB3U3gO"
-    },
-    {
-      "added_at": "2025-05-23 04:00:51",
-      "album": {
-        "name": "Views/Octopus EP",
-        "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
-      },
-      "artists": [
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Aquarium",
-      "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
     },
     {
       "added_at": "2025-05-23 04:00:51",

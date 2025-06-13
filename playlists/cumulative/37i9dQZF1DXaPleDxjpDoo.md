@@ -4,7 +4,7 @@
 
 > Bathe in forest sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-230 songs - 12 hr 1 min
+232 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Acceptance](https://open.spotify.com/track/4CzCijOLRG4mtfo1QiIKam) | [Tranquomo](https://open.spotify.com/artist/6z737VR1MbCOSfYhG1mzY3) | [Acceptance](https://open.spotify.com/album/28vHrbkAU4pKirExxyDoGz) | 3:11 | 2024-06-03 | 2025-04-02 |
 | [Alleviation \(Sound Bath\)](https://open.spotify.com/track/0NTIQy3ISe4CoWGoMTUOL8) | [Sia Moon](https://open.spotify.com/artist/438yZZcqMapAevM5nIBGTG) | [Alleviation \(Sound Bath\)](https://open.spotify.com/album/7nYnglb5XofsK3mTfvfZQk) | 3:32 | 2022-09-15 | 2024-09-07 |
 | [Alpha Sound Bath](https://open.spotify.com/track/1o2AMc7LXyell5edk3rpYG) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Chromabaths](https://open.spotify.com/album/3COfB16rn7vwZ49mNj6Puk) | 2:20 | 2022-09-30 | 2024-05-02 |
-| [Ambi Sant](https://open.spotify.com/track/6V8Nug0E9yzNkPVqwNhdXQ) | [Priy](https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer) | [Ambi Sant](https://open.spotify.com/album/4qHJC9flkExlbRs27mOEwy) | 3:37 | 2022-11-22 |  |
+| [Ambi Sant](https://open.spotify.com/track/6V8Nug0E9yzNkPVqwNhdXQ) | [Priy](https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer) | [Ambi Sant](https://open.spotify.com/album/4qHJC9flkExlbRs27mOEwy) | 3:37 | 2022-11-22 | 2025-06-13 |
 | [Ancient Rainforest](https://open.spotify.com/track/6MjrUU71pjTyp1khZr0ZVh) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Ancient Rainforest](https://open.spotify.com/album/00rkvNXq3KIytVhbEVWIpY) | 2:00 | 2022-09-15 | 2022-12-03 |
 | [Angelic Waves](https://open.spotify.com/track/3uj0rDeSdN9xWN3GXQ53DS) | [Aroshanti](https://open.spotify.com/artist/1y6jeiJ1L8vwgt7lHDqRKd) | [Angelic Waves](https://open.spotify.com/album/52fu5J6B5UztithHQhrcXY) | 4:17 | 2022-10-07 | 2024-06-04 |
 | [Arboreal Honor](https://open.spotify.com/track/0MRSyPSHOUjasV1PegUcZY) | [Andrea Forejtek](https://open.spotify.com/artist/7yITKvbdNPCTDbF5Uzd9NW) | [Arboreal Honor](https://open.spotify.com/album/5hW2eMTTdFCkXJWGC7VLjr) | 3:20 | 2024-05-01 | 2025-02-11 |
@@ -45,6 +45,7 @@
 | [Colline](https://open.spotify.com/track/40GXN1slZTEaXCoacjuocx) | [Elevated States](https://open.spotify.com/artist/7ylpJybZ4ixg9kzdnWBDQQ) | [Colline](https://open.spotify.com/album/5MwKZxkB3QLBsyhDa6eqJ8) | 3:06 | 2024-01-30 |  |
 | [Comfortable under the Surface](https://open.spotify.com/track/3W63szGlVtLFTkmrA8dgXJ) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Comfortable under the Surface](https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg) | 3:05 | 2022-09-15 |  |
 | [Contemplation](https://open.spotify.com/track/1QRCpFQK9RytODMp2mpdG3) | [Start Of Something Good](https://open.spotify.com/artist/37qYg33d5znCp06dghSGz4) | [Contemplation](https://open.spotify.com/album/4AZVOff7LIyViuLN7zctnI) | 3:13 | 2024-02-16 | 2024-05-02 |
+| [Cosmic Juno](https://open.spotify.com/track/4aWcphk3RNbFkzIBYH4DKi) | [Ella Elysium](https://open.spotify.com/artist/2n3JzcQyc7IwryKsZDGZey) | [Cosmic Juno](https://open.spotify.com/album/4Xr6Ux2UTgtHv8WcbnMQfP) | 3:04 | 2025-06-12 |  |
 | [Creekside](https://open.spotify.com/track/00gniJGV3T78LoCmTeSbKM) | [Cedarsound](https://open.spotify.com/artist/3zQf7bXB7xtlEjVmeT53GP) | [Creekside](https://open.spotify.com/album/1GlqsJCYxTMCqI9ZxKCo3n) | 2:32 | 2025-04-11 |  |
 | [Cyclical](https://open.spotify.com/track/7tsxqO0nfASxWTuWyiYFEp) | [Hwardo Ineso](https://open.spotify.com/artist/462RWWtGvZzX3dhgZmoXgg) | [Cyclical](https://open.spotify.com/album/6goW1gCFhhdxdp742gldnv) | 3:21 | 2025-05-21 |  |
 | [Daydream](https://open.spotify.com/track/1z2QFjVmDqQYyriK5q7DzS) | [Human Is Alive](https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7) | [Daydream](https://open.spotify.com/album/3RdB7JUZymsf7iWvonsUAo) | 4:07 | 2022-10-07 | 2024-05-02 |
@@ -66,6 +67,7 @@
 | [Eternal Forest \(417 Hz Healing Meditation\)](https://open.spotify.com/track/1lR9VEaW8mD2SXuAtr4d9w) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Eternal Forest](https://open.spotify.com/album/6FhvOH8TzkOWyvWRXFCk5A) | 4:01 | 2022-09-15 | 2024-06-04 |
 | [Ethereal Forest](https://open.spotify.com/track/0FMykEh5eCRUwfAWq7MTCZ) | [Adelina Somerset](https://open.spotify.com/artist/3dsMw7dDZ3c6CsdLsYBbLX) | [Ethereal Forest](https://open.spotify.com/album/4BhTyKanan6VmTQrj00r2E) | 2:07 | 2023-09-08 | 2024-08-24 |
 | [Ethereal Waves](https://open.spotify.com/track/2yeN8GlhSig74nUe3KFKOx) | [The Quiet Path](https://open.spotify.com/artist/2qaVQa8FpiSBGzWIsFwhkD), [The Slumbering One](https://open.spotify.com/artist/6zFp0HHOylks3A1Dv15j4e) | [Ethereal Waves](https://open.spotify.com/album/5fwzhmDCKPrdkDDQgidmqY) | 2:18 | 2022-10-14 |  |
+| [Euphormia](https://open.spotify.com/track/34IuQjnpXmRs7F0XhQ8NNg) | [Vast Oceans](https://open.spotify.com/artist/6fdtjgfW91E750yDKRFNk8) | [Euphormia](https://open.spotify.com/album/6JVJHo0rwmbo0ppTJKKTjB) | 2:44 | 2025-06-12 |  |
 | [Everwoods](https://open.spotify.com/track/0Ny6iToeNH1UGeYko2Hfmx) | [Peaceful Earth](https://open.spotify.com/artist/0VG3jBtRm8GbFcIU7M4M7m) | [Everwoods](https://open.spotify.com/album/4p4Kv6WhDa0ZgJsTGZX7RK) | 3:30 | 2022-09-15 |  |
 | [Exploration Guide](https://open.spotify.com/track/00fWaaNmh4tHZH5hgye2SR) | [Vemedis](https://open.spotify.com/artist/5X885hQ57e8PHe88pms7ZR) | [Exploration Guide](https://open.spotify.com/album/5a3mMRmMHJUBy3pNurZeqC) | 2:25 | 2025-04-11 |  |
 | [Fields](https://open.spotify.com/track/2acqbMn2Dwz66Np657k7ow) | [Sacred Orb](https://open.spotify.com/artist/3wo048mZLUY53Pp4KNXIQH) | [Fields](https://open.spotify.com/album/2YFxnKqI6KdM9jCCixC5O9) | 3:15 | 2024-03-05 |  |

@@ -619,22 +619,6 @@
     {
       "added_at": "2024-12-20 08:15:14",
       "album": {
-        "name": "God Rest Ye Merry Gentlemen",
-        "url": "https://open.spotify.com/album/4tuj6Cm5lyYS223SGEpgeC"
-      },
-      "artists": [
-        {
-          "name": "Glass Trio",
-          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
-        }
-      ],
-      "duration_ms": 175217,
-      "name": "Hard Candy Christmas",
-      "url": "https://open.spotify.com/track/3VHpv7iHs0PHfXns1ZfpNA"
-    },
-    {
-      "added_at": "2024-12-20 08:15:14",
-      "album": {
         "name": "Santa tell me",
         "url": "https://open.spotify.com/album/7Jtr3x70ZlCJ5Igqw1Zwhu"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 149940,
       "name": "I Heard the Bells on Christmas Day",
       "url": "https://open.spotify.com/track/5i5I6SXrI8No6aEHrGlzIx"
+    },
+    {
+      "added_at": "2024-12-20 08:15:14",
+      "album": {
+        "name": "God Rest Ye Merry Gentlemen",
+        "url": "https://open.spotify.com/album/4tuj6Cm5lyYS223SGEpgeC"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "duration_ms": 175217,
+      "name": "Hard Candy Christmas",
+      "url": "https://open.spotify.com/track/3VHpv7iHs0PHfXns1ZfpNA"
     },
     {
       "added_at": "2024-12-20 08:15:14",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-12-20 08:15:14",
       "album": {
-        "name": "I'll Be Home For Christmas",
-        "url": "https://open.spotify.com/album/3JFeZMiH5g3cXfrxpNkXtS"
-      },
-      "artists": [
-        {
-          "name": "Kyle Mendes Jazz Trio",
-          "url": "https://open.spotify.com/artist/0KZqPiOKt79SlPR6kzZUm2"
-        }
-      ],
-      "duration_ms": 201802,
-      "name": "Rockin' Around the Christmas Tree",
-      "url": "https://open.spotify.com/track/19liWJnMu8RapUGKR6Y8fx"
-    },
-    {
-      "added_at": "2024-12-20 08:15:14",
-      "album": {
         "name": "Go Tell It On The Mountain",
         "url": "https://open.spotify.com/album/7IbDqi94MtPmiq4eLlZf6i"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 150550,
       "name": "Go Tell It On The Mountain",
       "url": "https://open.spotify.com/track/2IHJbBiT7v4oR4WXt63yVZ"
+    },
+    {
+      "added_at": "2024-12-20 08:15:14",
+      "album": {
+        "name": "I'll Be Home For Christmas",
+        "url": "https://open.spotify.com/album/3JFeZMiH5g3cXfrxpNkXtS"
+      },
+      "artists": [
+        {
+          "name": "Kyle Mendes Jazz Trio",
+          "url": "https://open.spotify.com/artist/0KZqPiOKt79SlPR6kzZUm2"
+        }
+      ],
+      "duration_ms": 201802,
+      "name": "Rockin' Around the Christmas Tree",
+      "url": "https://open.spotify.com/track/19liWJnMu8RapUGKR6Y8fx"
     },
     {
       "added_at": "2024-12-20 08:15:14",

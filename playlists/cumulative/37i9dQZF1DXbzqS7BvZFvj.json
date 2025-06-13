@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: Little Simz",
+  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: Lil Tecca",
   "name": "Frontline -\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u6700\u524d\u7dda-",
   "tracks": [
     {
@@ -400,7 +400,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 208941,
       "name": "5 Star - feat. Gunna",
       "url": "https://open.spotify.com/track/00H3q5D7iXFIms4VYbsMP0"
@@ -1486,6 +1486,28 @@
       "duration_ms": 148517,
       "name": "ART",
       "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
+    },
+    {
+      "album": {
+        "name": "ART (feat. Latto)",
+        "url": "https://open.spotify.com/album/7L9Eju0apmugn3ThyzNiNc"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108800,
+      "name": "ART (feat. Latto)",
+      "url": "https://open.spotify.com/track/24fWOmkqeWMdAxiOiuXt0k"
     },
     {
       "album": {
@@ -2912,7 +2934,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 155000,
       "name": "Black List (feat. Deech)",
       "url": "https://open.spotify.com/track/7p1hE8CRGj0x2xzvZFthT5"
@@ -5654,7 +5676,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 160489,
       "name": "DILEMMA (feat. Central Cee)",
       "url": "https://open.spotify.com/track/1OrR5tTnYaryjbfZ8Jl2wT"
@@ -5698,6 +5720,32 @@
       "duration_ms": 123941,
       "name": "Dirty Revolver",
       "url": "https://open.spotify.com/track/4BQand4u69B5TWI4GOMhfO"
+    },
+    {
+      "album": {
+        "name": "Distant Strangers (feat. The Kid LAROI & Imogen Heap)",
+        "url": "https://open.spotify.com/album/1cwp5FEVGQaKoBV1WPbIdJ"
+      },
+      "artists": [
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Distant Strangers (feat. The Kid LAROI & Imogen Heap)",
+      "url": "https://open.spotify.com/track/7oa9VKcTKyWIYTnaz5V6xI"
     },
     {
       "album": {
@@ -5786,6 +5834,28 @@
       "duration_ms": 163735,
       "name": "DO YO SHIT",
       "url": "https://open.spotify.com/track/1hgON5RjrZGMwcIJNkuwzj"
+    },
+    {
+      "album": {
+        "name": "VICTORY",
+        "url": "https://open.spotify.com/album/5S7fMBF2TiKtLPKgVVAARB"
+      },
+      "artists": [
+        {
+          "name": "Slick Rick",
+          "url": "https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169050,
+      "name": "Documents",
+      "url": "https://open.spotify.com/track/2GZIuPFHBY7yanCa7pzxak"
     },
     {
       "album": {
@@ -8394,7 +8464,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 190373,
       "name": "GOOD CREDIT (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
@@ -8811,6 +8881,24 @@
     },
     {
       "album": {
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165937,
+      "name": "Half The Plot",
+      "url": "https://open.spotify.com/track/3zAWhIscp6ehzXv3KHorwb"
+    },
+    {
+      "album": {
         "name": "HANDLING BUSINESS (with Tory Lanez)",
         "url": "https://open.spotify.com/album/42VticDK80cuD3NDfZNGNV"
       },
@@ -8874,7 +8962,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 222101,
       "name": "HARD LIFE (feat. Carey Washington)",
       "url": "https://open.spotify.com/track/7yYYyYKELkxv4aLTTLWwSZ"
@@ -11356,7 +11444,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 172877,
       "name": "Just Us (feat. Doja Cat)",
       "url": "https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l"
@@ -12000,7 +12088,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 205920,
       "name": "LEAN ON MY BODY",
       "url": "https://open.spotify.com/track/5kN2mbOgVpwSskBzh8Cndz"
@@ -13639,6 +13727,32 @@
     },
     {
       "album": {
+        "name": "Matcha High",
+        "url": "https://open.spotify.com/album/16QVdeAvXQJQuoxUUoYqQk"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        },
+        {
+          "name": "Young Coco",
+          "url": "https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231013,
+      "name": "Matcha High (feat. TAICHU & Young Coco)",
+      "url": "https://open.spotify.com/track/3h5uTmefeQlkALqrXaHOir"
+    },
+    {
+      "album": {
         "name": "Maybach",
         "url": "https://open.spotify.com/album/2UsXysLvyNlrGvcvG6KtyB"
       },
@@ -14566,7 +14680,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 200760,
       "name": "Muchu",
       "url": "https://open.spotify.com/track/6P8VhUxHNgfFhUNdq7GsBL"
@@ -15080,7 +15194,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 199942,
       "name": "Never Really Mattered",
       "url": "https://open.spotify.com/track/2ZcimQZ0Kpv4gcU2HUyOms"
@@ -15906,6 +16020,28 @@
       "duration_ms": 163111,
       "name": "Not Much 2 Say",
       "url": "https://open.spotify.com/track/3dtB2Iiqp5BhrxBccUjxA5"
+    },
+    {
+      "album": {
+        "name": "NOT THE SAME (from the Short Film \"Red Clay\")",
+        "url": "https://open.spotify.com/album/0fhRq9JoZ8HCkQpgibTVio"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271840,
+      "name": "NOT THE SAME - from the Short Film \"Red Clay\"",
+      "url": "https://open.spotify.com/track/5YELnX75GMz61JEwW0uhTr"
     },
     {
       "album": {
@@ -16758,6 +16894,24 @@
       "duration_ms": 176959,
       "name": "OVERSEAS",
       "url": "https://open.spotify.com/track/0PA5eAWbvF8nQ5edXQoCaN"
+    },
+    {
+      "album": {
+        "name": "OWA OWA",
+        "url": "https://open.spotify.com/album/4Yhp37rgKSp0FZwEdwW0S7"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132380,
+      "name": "OWA OWA",
+      "url": "https://open.spotify.com/track/5E3XPRJVgYnxhMAFI7nZ7N"
     },
     {
       "album": {
@@ -17614,7 +17768,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 169641,
       "name": "PRE55URE (feat. JP THE WAVY, Awich, MFS)",
       "url": "https://open.spotify.com/track/2ByayvcJqWwJ9uPlnVCXm5"
@@ -17760,6 +17914,28 @@
       "duration_ms": 137907,
       "name": "Pretty Girl (with Rema)",
       "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
+    },
+    {
+      "album": {
+        "name": "Pretty Girls (feat. OBanga)",
+        "url": "https://open.spotify.com/album/4B0oxy79FBRc7BIgemo2bh"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        },
+        {
+          "name": "OBanga",
+          "url": "https://open.spotify.com/artist/4RtafAAxXiQtMI9yZs5DCv"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175935,
+      "name": "Pretty Girls (feat. OBanga)",
+      "url": "https://open.spotify.com/track/0M2ebVG7EV9I6ugFH6SBFc"
     },
     {
       "album": {
@@ -18382,7 +18558,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 142768,
       "name": "Ran Out",
       "url": "https://open.spotify.com/track/6gR9K14ED3UuhVIu4t9LTk"
@@ -18870,7 +19046,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 186271,
       "name": "Rings",
       "url": "https://open.spotify.com/track/2u40y0ISNXBL83qyMtlQhQ"
@@ -20162,6 +20338,28 @@
       "duration_ms": 143120,
       "name": "SHUT UP (feat. Big Sean)",
       "url": "https://open.spotify.com/track/3qfvE0wc0N6Rhu8pnW6Tss"
+    },
+    {
+      "album": {
+        "name": "Sick n Tired",
+        "url": "https://open.spotify.com/album/2BIkYef92NcLlPPhe4FLf7"
+      },
+      "artists": [
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        {
+          "name": "OnlyHeaven",
+          "url": "https://open.spotify.com/artist/0uaJXiIMrpbOV91Z9JxOL1"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243489,
+      "name": "Sick n Tired (with OnlyHeaven)",
+      "url": "https://open.spotify.com/track/3vaYPxBgL2w8TmP042tDIs"
     },
     {
       "album": {
@@ -23719,6 +23917,28 @@
     },
     {
       "album": {
+        "name": "Underdog (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/5eZ1Y9l73CbY1Q5eu92LvK"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142328,
+      "name": "Underdog (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/7KVT3NYXWguwJ0zzup1q1S"
+    },
+    {
+      "album": {
         "name": "Understand",
         "url": "https://open.spotify.com/album/1BBJ9k38MYZvpWPrTH1Ex7"
       },
@@ -23872,7 +24092,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 123154,
       "name": "Vanish Mode",
       "url": "https://open.spotify.com/track/7atWd7Y5eC3aE7fn90xl3y"
@@ -24196,6 +24416,28 @@
       "duration_ms": 133000,
       "name": "Wassam Baby (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/5ezBNotZ831KDvrtVtn1nI"
+    },
+    {
+      "album": {
+        "name": "WASSUP (feat. JPEGMAFIA)",
+        "url": "https://open.spotify.com/album/0D7SdJZbjFdPhDSH7EnFnx"
+      },
+      "artists": [
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        },
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180915,
+      "name": "WASSUP (feat. JPEGMAFIA)",
+      "url": "https://open.spotify.com/track/695BJdWZwhvuws1HSrvU4e"
     },
     {
       "album": {
@@ -25714,7 +25956,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 245199,
       "name": "\u307f\u305f\u3073\u4e0d\u5b9a\u8077\u8005 (feat. Jinmenusagi & ID)",
       "url": "https://open.spotify.com/track/5glcH8VY3Ilnvhtrthnems"
@@ -25778,7 +26020,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 186835,
       "name": "\u30d0\u30b0\u308a (feat. kZm, Awich, PETZ, MonyHorse & JNKMN)",
       "url": "https://open.spotify.com/track/3FdZ6MCqA9y0Hhlc8U9uSw"

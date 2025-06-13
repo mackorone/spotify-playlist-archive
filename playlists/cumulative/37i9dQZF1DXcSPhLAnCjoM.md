@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Un dimanche avec toi" de Vitaa est le Grand Hit de la semaine.
+> "M'envoler" de Jeck & Carla est le Grand Hit de la semaine.
 
 253 songs - 13 hr 0 min
 

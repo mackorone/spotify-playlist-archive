@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: Balu Brigada
 
-1,639 songs - 3 day 21 hr 23 min
+1,640 songs - 3 day 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,6 +538,7 @@
 | [Fuzz Jam](https://open.spotify.com/track/1HCryhiL05CN22G3YgWWlA) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Fuzz Jam](https://open.spotify.com/album/2HCsaRqXdUTlqOIt0MZs2j) | 4:26 | 2021-12-28 | 2021-12-31 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-10 | 2022-03-11 |
 | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/1ZpcR68PKaoz8DpQDRqFEE) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/album/2ZPgzxiWsWCmCaC9jzNumu) | 2:54 | 2022-02-24 | 2022-04-01 |
+| [Geezer](https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Geezer](https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO) | 2:49 | 2025-06-11 |  |
 | [GEMINI](https://open.spotify.com/track/5j99dfS5X643RxuJdyizt3) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Jackie Giroux](https://open.spotify.com/artist/5QX6gWlu1rdoTKPZ9FiwYh) | [1\-800 FANTASY](https://open.spotify.com/album/4Hc9kwSIRb2jgE441FOueK) | 2:37 | 2024-07-18 | 2025-03-14 |
 | [Gemini](https://open.spotify.com/track/0GPZVVuQ291PJKvKWpp9cF) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [LuckyMe Advent Calendar 21](https://open.spotify.com/album/6vFVVgCoPzP6YggRI7lPnO) | 3:31 | 2021-12-30 | 2022-03-02 |
 | [Genius of Love](https://open.spotify.com/track/0UMfconu33lpuioJ696nKv) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Genius of Love](https://open.spotify.com/album/7ATVtKtlDE1cxauGVsZvSv) | 3:25 | 2024-05-16 | 2024-06-28 |

@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-981 songs - 2 day 2 hr 10 min
+982 songs - 2 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [End Of The Beginning](https://open.spotify.com/track/2IJigwZlLAeBa16rlYrD1x) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [End Of The Beginning](https://open.spotify.com/album/4O46V5aJRyrYiINs18RI78) | 3:40 | 2023-12-08 | 2024-09-26 |
 | [Energy](https://open.spotify.com/track/1bOp53Hzj9SIrtB7r17L3V) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Energy](https://open.spotify.com/album/1H8CdJVjZ8qhGdBzC73bKb) | 3:02 | 2023-03-31 | 2023-04-15 |
 | [Entre Tu Y Yo](https://open.spotify.com/track/5FIfBuscza9UTc8WQowToi) | [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx), [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [Entre Tu Y Yo](https://open.spotify.com/album/6XjGiOvPTKXu55Z4x6vTlA) | 2:33 | 2023-08-25 | 2023-09-26 |
+| [Era](https://open.spotify.com/track/1eao1v2p0x5mckT9gMTOH6) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Era](https://open.spotify.com/album/4jm2U2sXJUJGBhKC1TJfsp) | 4:44 | 2025-06-12 |  |
 | [Eternity \(with Timmy Trumpet\) \[Club Mix\]](https://open.spotify.com/track/5rRO0glAM4AOwZny2WENEh) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Eternity \(with Timmy Trumpet\) \[Club Mix\]](https://open.spotify.com/album/139tE0AGe2onXyEQAJKvaw) | 2:24 | 2023-10-06 | 2024-09-26 |
 | [Ethos](https://open.spotify.com/track/61vtSOrJad1A4DIC1jhoXZ) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Ethos](https://open.spotify.com/album/4wjQEJULPMyZSlxtp53TGi) | 3:42 | 2024-12-05 | 2025-05-09 |
 | [Eu Que Sei](https://open.spotify.com/track/0eV42KLxvhEjA4XB1u4RvW) | [Dennis Cartier](https://open.spotify.com/artist/0Iyc9gAnfeZEwZntRBD4IS) | [Eu Que Sei](https://open.spotify.com/album/7KIy63d1JnPJjLQ51MTLL8) | 2:53 | 2023-08-25 | 2023-09-01 |

@@ -4,7 +4,7 @@
 
 > falling apart jk hahaha unless
 
-352 songs - 18 hr 58 min
+353 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [THEY DON'T LIKE ME](https://open.spotify.com/track/2bc7SqBhY9VaioLwZ2Jj8I) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [THEY DON'T LIKE ME](https://open.spotify.com/album/3A0uVETyD1PPrgOJ3sEaoM) | 2:48 | 2021-04-30 | 2022-06-06 |
 | [Throw Away](https://open.spotify.com/track/2ML7vSeIZEmOCOiLUmz7Sv) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Monster](https://open.spotify.com/album/6Q3VZtyPCZFMO4cPF4828q) | 5:16 | 2025-03-28 | 2025-06-11 |
 | [throw ur life away](https://open.spotify.com/track/78c55upqbKmJ1ZHFBW3WLZ) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv), [Endie](https://open.spotify.com/artist/3B7lDutNv1vGrqkujRx78O), [Roan](https://open.spotify.com/artist/5v93nEcTqLrRMP74UPwEU6), [recycleBin](https://open.spotify.com/artist/1qB8BJOcuJuNQw0cPy5RZ2) | [throw ur life away](https://open.spotify.com/album/09q8igzwBWFfUK0t3mo0SS) | 2:55 | 2022-01-28 | 2022-02-12 |
-| [Thru Your Phone](https://open.spotify.com/track/74cVJfmK18rhWnscIpGXjt) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:08 | 2025-03-28 |  |
+| [Thru Your Phone](https://open.spotify.com/track/74cVJfmK18rhWnscIpGXjt) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:08 | 2025-03-28 | 2025-06-13 |
 | [Thunder](https://open.spotify.com/track/0afGLa6wcYiLLXFZ48ZQpY) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [Cat Heaven](https://open.spotify.com/album/0Z9NeEvqeecaLCFUmI4uDw) | 5:13 | 2021-04-30 | 2025-03-29 |
 | [Tinder Song](https://open.spotify.com/track/1JHOy566xSKwNPqaB9AF2i) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [Tinder Song](https://open.spotify.com/album/5WiUuc6jcsA4oWvT1wLk3h) | 2:00 | 2021-04-30 | 2022-06-26 |
 | [Tinder Song](https://open.spotify.com/track/3D2uOOe6UC8UEpdx5jiwD3) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [Tinder Song](https://open.spotify.com/album/60Ra2BOHk1zWxqeBsixJ5B) | 2:00 | 2022-10-28 | 2022-12-06 |
@@ -360,5 +360,6 @@
 | [Your Guilty Pleasure](https://open.spotify.com/track/1FlH4OcYNclGCb2nIvKmld) | [Henry Verus](https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4) | [Your Guilty Pleasure](https://open.spotify.com/album/3x0OjWQt4BhiLZewP0NRkG) | 2:54 | 2021-04-30 | 2022-04-21 |
 | [Your Imagination \(feat\. Jaden\)](https://open.spotify.com/track/2EHQk2I0PFsu1zMa8eHeBB) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Your Imagination \(feat\. Jaden\)](https://open.spotify.com/album/3EyGeq2HBkz5LEm61NPuNo) | 3:17 | 2021-04-30 | 2022-07-08 |
 | [Your Internet Sucks](https://open.spotify.com/track/6W1r7ohhmFUKYGbiOsy58q) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Your Internet Sucks](https://open.spotify.com/album/4xmseo8B4OHl74HwkgdR4R) | 2:49 | 2023-01-20 | 2025-03-29 |
+| [Zombie](https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Zombie](https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv) | 4:06 | 2025-06-12 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Ndarboy Genk",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Vadesta",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -671,6 +671,28 @@
     },
     {
       "album": {
+        "name": "Ayang Ayang",
+        "url": "https://open.spotify.com/album/3ITWj22OvvjaxjfuXHNebz"
+      },
+      "artists": [
+        {
+          "name": "Fida AP",
+          "url": "https://open.spotify.com/artist/7zDNHkEE2pDK8qxM3DgjoK"
+        },
+        {
+          "name": "James AP",
+          "url": "https://open.spotify.com/artist/62nZapVtmkig653PBkIsq5"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303230,
+      "name": "Ayang Ayang",
+      "url": "https://open.spotify.com/track/5jRVe2W65pAU6BP2DprwuC"
+    },
+    {
+      "album": {
         "name": "Ayang Ayang (Live)",
         "url": "https://open.spotify.com/album/32Yxv4vAU9FSrNV4fSeMGY"
       },
@@ -1056,7 +1078,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 311261,
       "name": "BUBAR",
       "url": "https://open.spotify.com/track/2DncDLvbz8UxX8faINaShQ"
@@ -3565,6 +3587,24 @@
     },
     {
       "album": {
+        "name": "Koyo Mendung",
+        "url": "https://open.spotify.com/album/1wk1Kxt8R6xqrkDIUHgCUL"
+      },
+      "artists": [
+        {
+          "name": "Mala Agatha",
+          "url": "https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295418,
+      "name": "Koyo Mendung",
+      "url": "https://open.spotify.com/track/1wG2izJzmNGkacoFtvVYP4"
+    },
+    {
+      "album": {
         "name": "Kuatno Atimu",
         "url": "https://open.spotify.com/album/1QAOqCiyn6FoOrVyKrpUou"
       },
@@ -3761,6 +3801,24 @@
     },
     {
       "album": {
+        "name": "Lanang Tenan (Live)",
+        "url": "https://open.spotify.com/album/1X8TQHs1rvLs1N6mvv0cd7"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375600,
+      "name": "Lanang Tenan - Live",
+      "url": "https://open.spotify.com/track/2kbtyQrt1Pefa4JUwq23DM"
+    },
+    {
+      "album": {
         "name": "Langganan Kleru (Cover)",
         "url": "https://open.spotify.com/album/6Dt3EM50CpMHVVS8HVSxAU"
       },
@@ -3862,10 +3920,28 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 240381,
       "name": "LDR - Acoustic",
       "url": "https://open.spotify.com/track/7p6TgnqoZXExcao4JHwZfc"
+    },
+    {
+      "album": {
+        "name": "Leda Lede",
+        "url": "https://open.spotify.com/album/2w3tO7nqSw95b7KmMuH3tw"
+      },
+      "artists": [
+        {
+          "name": "Vadesta",
+          "url": "https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308000,
+      "name": "Leda Lede",
+      "url": "https://open.spotify.com/track/7puxab8SdP95QbxmzL1vgt"
     },
     {
       "album": {
@@ -5424,7 +5500,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 245218,
       "name": "Nresnani - Accoustic Version",
       "url": "https://open.spotify.com/track/2d5ge8cLWayiZ1QySSs9gC"
@@ -5928,7 +6004,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 347240,
       "name": "Pangarepan",
       "url": "https://open.spotify.com/track/3yto6d6wGziiz1f2GnkeU1"
@@ -7238,7 +7314,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 296434,
       "name": "SALAHKU",
       "url": "https://open.spotify.com/track/7i3W1HGWMhEJOUcLbSCasd"
@@ -7336,6 +7412,28 @@
       "duration_ms": 220040,
       "name": "Sambat",
       "url": "https://open.spotify.com/track/6beU0Phq5vUGvzYF4EtplM"
+    },
+    {
+      "album": {
+        "name": "Sampe Mbesok",
+        "url": "https://open.spotify.com/album/3Ee8O2c0EGYzmn93VXgUIX"
+      },
+      "artists": [
+        {
+          "name": "James AP",
+          "url": "https://open.spotify.com/artist/62nZapVtmkig653PBkIsq5"
+        },
+        {
+          "name": "Nanda Sayang",
+          "url": "https://open.spotify.com/artist/3UE7G0tW09cb4xPMaWiyHg"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339840,
+      "name": "Sampe Mbesok",
+      "url": "https://open.spotify.com/track/4GHtcnUSpjU70WsitZceOq"
     },
     {
       "album": {
@@ -7834,6 +7932,24 @@
       "duration_ms": 310654,
       "name": "senenge atiku",
       "url": "https://open.spotify.com/track/1Mi6HihzwGb9aUbjDls0up"
+    },
+    {
+      "album": {
+        "name": "POP Jawa I",
+        "url": "https://open.spotify.com/album/2wcFyejrfhYHvQoahNXo8s"
+      },
+      "artists": [
+        {
+          "name": "Pulung Agustanto",
+          "url": "https://open.spotify.com/artist/69CjecYi7l5Nd1JDFFFcTQ"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257454,
+      "name": "Senyummu Sayangku",
+      "url": "https://open.spotify.com/track/7FV9dsqcA47Vec6nFIMCXq"
     },
     {
       "album": {
@@ -8768,7 +8884,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 283000,
       "name": "Tresno Liyane 2",
       "url": "https://open.spotify.com/track/17NdRQTe0nD5QJ0WRZ4FS5"
@@ -8946,7 +9062,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 252118,
       "name": "Ubur Ubur Iwak Lele",
       "url": "https://open.spotify.com/track/3FJZNVYUFmCVsxJNUs9rNr"

@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: Mischa Ip
+> 感受女聲力量。Cover: 雷同二友
 
-505 songs - 1 day 6 hr 7 min
+508 songs - 1 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [13歲的天堂](https://open.spotify.com/track/5LcIqdmlb3K7Ae1P4vG7SP) | [JW](https://open.spotify.com/artist/5YsDFZYpkNgiIxfDW6rXlu) | [13歲的天堂](https://open.spotify.com/album/7HFUcLKSmLAp7ack1JRlqX) | 4:07 | 2024-06-27 |  |
 | [18部半](https://open.spotify.com/track/4goaMr1lJ3h7O9VxUHUcQK) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [18部半](https://open.spotify.com/album/4mhzfALTzIkDzYBgwtK0DN) | 3:01 | 2024-06-27 |  |
 | [a little bit closer](https://open.spotify.com/track/62zNBiQDxfnSr6lDxJaF97) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [a little bit closer](https://open.spotify.com/album/7xC1krRZsKfnbNqvfXRuF9) | 2:45 | 2024-06-27 |  |
+| [A.I.N.Y\. 愛你 \(G.E.M.重生版\)](https://open.spotify.com/track/4uGve3vqfumnGsUMtnGumr) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [I AM GLORIA](https://open.spotify.com/album/4WigYNEa3IVIYF4dRb6vNQ) | 3:47 | 2025-06-12 |  |
 | [A0.5](https://open.spotify.com/track/23LbINkNjfv4585fFHcmaE) | [XiX](https://open.spotify.com/artist/4GoZP54zjLUTt2HICmYOGU) | [A0.5](https://open.spotify.com/album/6TahHovloxqubDkN2aCTxV) | 3:33 | 2024-11-28 |  |
 | [AFK???](https://open.spotify.com/track/1OfUSTbVRxIUaisRxyoqCK) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [AFK???](https://open.spotify.com/album/4rCoxG3kObBdtUszHBpfKX) | 3:06 | 2024-11-07 |  |
 | [Afterglow](https://open.spotify.com/track/1lQRxn6whhD9GG5jaZcHvu) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Afterglow](https://open.spotify.com/album/1bCV8b4iui8QDDKylQOEBJ) | 2:08 | 2025-02-20 |  |
@@ -71,6 +72,7 @@
 | [Hell No](https://open.spotify.com/track/55LyKlGep64SR3BF5MBmaL) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Hell No](https://open.spotify.com/album/6E7p0YLnVYipbMj3h0mNbX) | 3:18 | 2024-06-27 |  |
 | [heng fa chuen.](https://open.spotify.com/track/5QuTmL5jwXsWmQ1EspO2rN) | [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx) | [heng fa chuen.](https://open.spotify.com/album/1nBxVB6eQbJv7KxUTXoIgI) | 3:21 | 2024-06-27 |  |
 | [Hey Darling Darling](https://open.spotify.com/track/3Youu6DpYa0DtPSyKIj6JA) | [GDJYB 雞蛋蒸肉餅](https://open.spotify.com/artist/06LP6816j1i658mANtPNVc) | [Hey Darling Darling](https://open.spotify.com/album/5uFueMQyVSmHDCP4HU8V2M) | 3:29 | 2024-12-12 |  |
+| [Honey Pancake](https://open.spotify.com/track/5Y68dgN0xOvUHIkMgRfGzc) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [Honey Pancake](https://open.spotify.com/album/1cQenGAtPW1jHCYHtiodU0) | 3:21 | 2025-06-12 |  |
 | [Hush](https://open.spotify.com/track/6J1YPcD1DNYgde4dyKfiU4) | [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [Blue Hour](https://open.spotify.com/album/0fruFp7UTDJ1sLZDs01CAG) | 3:32 | 2024-06-27 |  |
 | [I am All Alone](https://open.spotify.com/track/2Uw9M5MT2xXOxmPsXd8xvK) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [I am All Alone](https://open.spotify.com/album/5YMJ4zEgtRCyeUmDq6pSwS) | 4:04 | 2024-06-27 |  |
 | [I go to school by bus](https://open.spotify.com/track/3Os3BK6rPvh7Z7VKDBTtAa) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I go to school by bus](https://open.spotify.com/album/33B3jDSQXLMuuWt8dtjnWD) | 2:04 | 2024-09-05 |  |
@@ -379,6 +381,7 @@
 | [最難行的路](https://open.spotify.com/track/15Df9sWQ3zFhc5bsEM293n) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [最難行的路](https://open.spotify.com/album/5jJTEx6QbocPAFgiMx1MEJ) | 3:38 | 2024-06-27 |  |
 | [月色魔美](https://open.spotify.com/track/1g6UgjshVHThcHAZcs52tO) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [月色魔美](https://open.spotify.com/album/2ysOdvQRPLIJVdNf9klq8e) | 4:01 | 2024-06-27 |  |
 | [有些話要用英文說](https://open.spotify.com/track/2fSJhxoCQj6oMYpkM8Iun4) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [有些話要用英文說](https://open.spotify.com/album/6yNOO8WVRxbhJgsmEJAVpo) | 3:10 | 2024-06-27 |  |
+| [有你萬事屋](https://open.spotify.com/track/4hX2vMHvJ9gxLoUS5W8qur) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [有你萬事屋](https://open.spotify.com/album/55ZsM5ZiUu7viOyuhhNGhh) | 3:51 | 2025-06-12 |  |
 | [有奶辯士梁](https://open.spotify.com/track/1A3ODSZhO52uC79UmXrkoz) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [有奶辯士梁](https://open.spotify.com/album/4xft8kzvgbptDeBNNWUIf6) | 2:45 | 2025-03-06 |  |
 | [有心理準備](https://open.spotify.com/track/4NGRWpeviednr4XniRIlB8) | [Irene 林芊瑩](https://open.spotify.com/artist/1lwAAq6DtTJLWUdDK2quU0) | [有心理準備](https://open.spotify.com/album/6rXb1OfpeGPVOaypjOuLQu) | 3:17 | 2024-07-25 |  |
 | [望年月](https://open.spotify.com/track/3VQKp2htObuxfdbh0280j3) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [望年月](https://open.spotify.com/album/3o4ADKOHZ4Rrmnn9xqusV9) | 3:50 | 2024-06-27 |  |

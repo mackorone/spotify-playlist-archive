@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsq4e0rDzty.md) - [plain]
 
 > For an education in rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,750 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,004 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsq4e0rDzty.md) - [plain]
 | 99 | [And the Cradle Will Rock..\. \- 2015 Remaster](https://open.spotify.com/track/4MM0jT9z9m7VFiusFrGJ8C) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Women and Children First \(Remastered\)](https://open.spotify.com/album/7fRy246Xzz3gez6stjTgKk) | 3:33 |
 | 100 | [Roadrunner](https://open.spotify.com/track/5E5HYgxGMp3BPakHGfKfIB) | [The Modern Lovers](https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz) | [The Modern Lovers \(Expanded Version\)](https://open.spotify.com/album/5BPCP7WSGBG4br2o4WRmd8) | 4:06 |
 
-Snapshot ID: `ZuMExQAAAADXWBWDs/fhg0AhzVHE8ohG`
+Snapshot ID: `ZuMExQAAAABIaXWdjzHVV91dRezLkFcy`

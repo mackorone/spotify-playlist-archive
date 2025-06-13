@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1033563,
+  "num_followers": 1033744,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEd1gAAAAAASvyo3olzznR8T8nx1yEP5",
+  "snapshot_id": "aEjHAAAAAABRy2ODZcHjFDtFRsG9Hsqy",
   "tracks": [
     {
       "added_at": null,
@@ -523,18 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Con Labios Prestados",
-        "url": "https://open.spotify.com/album/6qbkITbtEKq6CfhurxWvLx"
+        "name": "Te quiero, te amo",
+        "url": "https://open.spotify.com/album/49Kkhe1jmqjWqGtP1lJCKd"
       },
       "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
         {
           "name": "Alfredo Olivas",
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 244253,
-      "name": "Ni Con Labios Prestados",
-      "url": "https://open.spotify.com/track/3IxbwKm0uWtoHJQ04K1YbA"
+      "duration_ms": 218000,
+      "name": "Te quiero, te amo",
+      "url": "https://open.spotify.com/track/2MyGz3SRpIRMyrOTpPQIRv"
     },
     {
       "added_at": null,
@@ -567,26 +571,6 @@
       "duration_ms": 188500,
       "name": "Noche De Enciclopedia",
       "url": "https://open.spotify.com/track/0lFfKSBQhjcbcDPFpicotx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te quiero, te amo",
-        "url": "https://open.spotify.com/album/49Kkhe1jmqjWqGtP1lJCKd"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Te quiero, te amo",
-      "url": "https://open.spotify.com/track/2MyGz3SRpIRMyrOTpPQIRv"
     },
     {
       "added_at": null,
@@ -659,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino",
-          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 251746,
-      "name": "Comando X (En Vivo)",
-      "url": "https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis 30 Aniversario (Vol. 3)",
         "url": "https://open.spotify.com/album/2W976ZGy9qa8cI9mvBn9RO"
       },
@@ -695,6 +659,26 @@
       "duration_ms": 201409,
       "name": "Ya Se Fue",
       "url": "https://open.spotify.com/track/78oFf7Z5Kn6tMacUEPHrhl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino",
+          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 251746,
+      "name": "Comando X (En Vivo)",
+      "url": "https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O"
     },
     {
       "added_at": null,
@@ -728,9 +712,9 @@
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 210267,
-      "name": "Borracha",
-      "url": "https://open.spotify.com/track/63gtXiQJ2c6YaDoi28k77N"
+      "duration_ms": 245088,
+      "name": "Asignatura Pendiente",
+      "url": "https://open.spotify.com/track/3ert62mMe5oHSnYCjOV8S0"
     },
     {
       "added_at": null,
@@ -792,9 +776,9 @@
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 245088,
-      "name": "Asignatura Pendiente",
-      "url": "https://open.spotify.com/track/3ert62mMe5oHSnYCjOV8S0"
+      "duration_ms": 210267,
+      "name": "Borracha",
+      "url": "https://open.spotify.com/track/63gtXiQJ2c6YaDoi28k77N"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [Latest Love Tamil](https://open.spotify.com/playlist/37i9dQZF1DWWWpLwNv0bd2)
 
-> Check out the Latest Romance Tracks.<br/>Cover : Veera Dheera Sooran
+> Check out the Latest Romance Tracks.<br/>Cover : Thalaivan Thalaivi
 
 301 songs - 19 hr 38 min
 

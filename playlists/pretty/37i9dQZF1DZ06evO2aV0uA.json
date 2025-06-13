@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 136380,
+  "num_followers": 136410,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEd1gAAAAAAxLGTVc6PQ4O8C8QvvSCt4",
+  "snapshot_id": "aEjHAAAAAAB0caSvXj0ysb5HkqNnOkA1",
   "tracks": [
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 236466,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/3A5zeEH2eLW3uMYXoBj9Tq"
+      "duration_ms": 221080,
+      "name": "Dead Seeds",
+      "url": "https://open.spotify.com/track/6pUIxt8QTqXrAr24oet0dW"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 221080,
-      "name": "Dead Seeds",
-      "url": "https://open.spotify.com/track/6pUIxt8QTqXrAr24oet0dW"
+      "duration_ms": 236466,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/3A5zeEH2eLW3uMYXoBj9Tq"
     },
     {
       "added_at": null,
@@ -755,22 +755,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "VII: Sturm Und Drang (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/01Lg3FKNxZ0We36Exz8Q9V"
+        "name": "Lamb of God",
+        "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
       },
       "artists": [
         {
           "name": "Lamb of God",
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        },
-        {
-          "name": "Chino Moreno",
-          "url": "https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9"
         }
       ],
-      "duration_ms": 296453,
-      "name": "Embers (feat. Chino Moreno)",
-      "url": "https://open.spotify.com/track/4vIKoOznt2p6YhGSHzrksC"
+      "duration_ms": 272483,
+      "name": "Reality Bath",
+      "url": "https://open.spotify.com/track/0GwyDNEcUavoLYdK0oDDSI"
     },
     {
       "added_at": null,
@@ -791,18 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lamb of God",
-        "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
+        "name": "VII: Sturm Und Drang (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/01Lg3FKNxZ0We36Exz8Q9V"
       },
       "artists": [
         {
           "name": "Lamb of God",
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        },
+        {
+          "name": "Chino Moreno",
+          "url": "https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9"
         }
       ],
-      "duration_ms": 272483,
-      "name": "Reality Bath",
-      "url": "https://open.spotify.com/track/0GwyDNEcUavoLYdK0oDDSI"
+      "duration_ms": 296453,
+      "name": "Embers (feat. Chino Moreno)",
+      "url": "https://open.spotify.com/track/4vIKoOznt2p6YhGSHzrksC"
     },
     {
       "added_at": null,

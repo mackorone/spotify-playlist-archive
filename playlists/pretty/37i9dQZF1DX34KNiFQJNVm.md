@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem LUDMILLA, Ferrugem, Sabrina Carpenter e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,097,772 likes - 83 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,097,770 likes - 83 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

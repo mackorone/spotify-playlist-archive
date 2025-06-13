@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: SPARKLING, Digitalism
 
-1,162 songs - 3 day 5 hr 2 min
+1,163 songs - 3 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -928,7 +928,7 @@
 | [Space Between Us](https://open.spotify.com/track/3KWwb2rZjI2P1hwuQ4gaqS) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Space Between Us](https://open.spotify.com/album/3TTsfkzNolXmaqPzFjc1U9) | 3:45 | 2025-01-23 | 2025-05-23 |
 | [Sports](https://open.spotify.com/track/4oYQsnDWE7JONr1yC9dmYM) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Sports](https://open.spotify.com/album/3O9r5PoJDRmhHHuH4NDsv6) | 3:01 | 2023-03-23 | 2023-06-16 |
 | [Sportscar](https://open.spotify.com/track/4je28GqKUxsbAY5Zksly7S) | [CRIMER](https://open.spotify.com/artist/6ALv0kb1WQfQbDOna5fLcX) | [Sportscar](https://open.spotify.com/album/1VPRIkUtID0NzohKhpWGo9) | 3:36 | 2024-11-28 | 2025-05-09 |
-| [Spy](https://open.spotify.com/track/1h9UCXHum5DqpFYysBXo75) | [UTO](https://open.spotify.com/artist/1qLSzTLKNBRu1byHN1eXoD) | [More heat to the fire part of fire](https://open.spotify.com/album/4Cc96Jq23WBposXUSK3EiF) | 3:14 | 2025-03-27 |  |
+| [Spy](https://open.spotify.com/track/1h9UCXHum5DqpFYysBXo75) | [UTO](https://open.spotify.com/artist/1qLSzTLKNBRu1byHN1eXoD) | [More heat to the fire part of fire](https://open.spotify.com/album/4Cc96Jq23WBposXUSK3EiF) | 3:14 | 2025-03-27 | 2025-06-13 |
 | [Square Pegs In Round Holes](https://open.spotify.com/track/5PMFasm2jY0zfp16iaWfAx) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Chewing The Fat](https://open.spotify.com/album/7K0aniOTtJV04v9lCqLODa) | 3:33 | 2025-03-06 | 2025-04-04 |
 | [Stand Up](https://open.spotify.com/track/4LcpxbumkUC8OBNiwBf616) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Stand Up](https://open.spotify.com/album/2830antyeEz07AIkDQpWhP) | 4:01 | 2023-07-20 | 2023-08-18 |
 | [Standing My Ground](https://open.spotify.com/track/6zNm2BIV6gbsRRG0jwQA2d) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Standing My Ground](https://open.spotify.com/album/0d8gBiY0neOTYJmbd8Muw6) | 2:49 | 2023-08-03 | 2023-09-22 |
@@ -1152,6 +1152,7 @@
 | [Yonder](https://open.spotify.com/track/4PIgYYjyLWSRxHXQotXfVo) | [Grandbrothers](https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY) | [Yonder](https://open.spotify.com/album/2TupW0ECz9yne6k2TC2yVO) | 4:54 | 2022-12-15 | 2023-01-20 |
 | [You & I](https://open.spotify.com/track/4FKuIlfFCIcvpg7M2HJhwx) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Intimate Fonk](https://open.spotify.com/album/2KMTKEk9FZccRGCWhehiKV) | 3:28 | 2023-01-05 | 2023-06-23 |
 | [You Ain't No Celebrity](https://open.spotify.com/track/32PKkiwexuMNEDqfH1p3IH) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Roots Manuva](https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:33 | 2023-08-10 | 2023-09-08 |
+| [You Are](https://open.spotify.com/track/7ivcxtK1L1Y1j50x9yUWIR) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [You Are](https://open.spotify.com/album/3Mlmg99htNwRiVf6yDAspJ) | 3:59 | 2025-06-12 |  |
 | [You Are Love](https://open.spotify.com/track/5VzFngamVe0VopupVkAcjK) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [You Are Love](https://open.spotify.com/album/4WfJt0rZdqb8X8HJR3iwSt) | 2:28 | 2023-01-12 | 2023-02-17 |
 | [You Belong To No\-One](https://open.spotify.com/track/4Zp4cKltb5SYVKnkKizfIG) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Kiss & Forget](https://open.spotify.com/album/0BmeDz35wEqY5CKOA8vah0) | 3:38 | 2024-09-12 | 2024-10-04 |
 | [You Knew \- Edit](https://open.spotify.com/track/72UXdc6vi8bgtJHpTuLjHl) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [You Knew](https://open.spotify.com/album/4n3meu86cgj7FIwe0xvYKc) | 2:55 | 2023-07-20 | 2023-09-15 |

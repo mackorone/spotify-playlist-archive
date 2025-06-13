@@ -284,7 +284,7 @@
 | [Slow Stream](https://open.spotify.com/track/43slau8Y2GhKBA3itVEvlz) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Slow Stream](https://open.spotify.com/album/3ZowFm97ZG9gFRpFxty9eQ) | 3:24 | 2025-04-01 |  |
 | [Slowly Stream](https://open.spotify.com/track/3K5TE2OlvFLnXbRLarLlBd) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Slowly](https://open.spotify.com/album/2zKxxUDZeLSpm6whXgcnGo) | 3:11 | 2023-12-18 |  |
 | [Sogno Illuminum](https://open.spotify.com/track/0xAvs3yyfYZOmzJorbPIwq) | [Enchanted Feel](https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX) | [Sogno Illuminum](https://open.spotify.com/album/51zrublZgSNFIMIrjM7Kjd) | 2:29 | 2023-04-06 |  |
-| [Solar Skies](https://open.spotify.com/track/1W3SYju3DvZHWgNSzb3N0S) | [Caelestis Nati](https://open.spotify.com/artist/5FYjMehrDmyDkbZqpYP1j8) | [Solar Skies](https://open.spotify.com/album/1cNfEsEpQg6o6Pw9z4EnZc) | 2:40 | 2025-04-29 |  |
+| [Solar Skies](https://open.spotify.com/track/1W3SYju3DvZHWgNSzb3N0S) | [Caelestis Nati](https://open.spotify.com/artist/5FYjMehrDmyDkbZqpYP1j8) | [Solar Skies](https://open.spotify.com/album/1cNfEsEpQg6o6Pw9z4EnZc) | 2:40 | 2025-04-29 | 2025-06-13 |
 | [Solitude](https://open.spotify.com/track/0PQpUqvsTITOfhkjD86swb) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Solitude](https://open.spotify.com/album/68GqXg8GI84Bc4lUmg0V7L) | 2:38 | 2023-05-19 | 2023-05-31 |
 | [Song from the meadow](https://open.spotify.com/track/74QU8h22gboUmVHpjZAPYg) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [From the meadow](https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG) | 2:15 | 2023-01-24 | 2023-07-29 |
 | [Song Of Nature](https://open.spotify.com/track/4LvTLzxeWPn6XUpCmE93iH) | [Ziwambe](https://open.spotify.com/artist/4C4pHnRWJY0ROkqEynVy7z) | [Song Of Nature](https://open.spotify.com/album/0nMiF2yBds8CV1LqnTHMsV) | 2:26 | 2023-09-28 |  |
@@ -338,6 +338,6 @@
 | [Whispering Stream](https://open.spotify.com/track/1pmvW9hcN5WngmDjEZIOb8) | [BlunD](https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T) | [Whispering Stream](https://open.spotify.com/album/7gTsoPZiP1jy2I3CWGKpkX) | 2:49 | 2024-12-12 |  |
 | [White Light](https://open.spotify.com/track/6oGtCltZ2qtAjguWpxEXRT) | [Heal Divisions](https://open.spotify.com/artist/0kAuGd32wX67fzHjIJtSWn) | [White Light](https://open.spotify.com/album/0H3vdaaoJS6l7E8TDn49jy) | 2:58 | 2024-01-30 |  |
 | [Willamette Falls](https://open.spotify.com/track/7ksLJPOQmbSdCsHOB7ND4y) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Willamette Falls](https://open.spotify.com/album/093ls5rr0CjLaUmW4unO8i) | 2:57 | 2023-10-26 |  |
-| [Worthy](https://open.spotify.com/track/4SF4bIKdN5ugfeOcwwT486) | [Peaceful Storm](https://open.spotify.com/artist/1F9BGQRXydW5pf28ukNEkm) | [Worthy](https://open.spotify.com/album/6NygaZ0pFTqrBj47zk63Qu) | 2:15 | 2025-05-16 | 2025-05-27 |
+| [Worthy](https://open.spotify.com/track/4SF4bIKdN5ugfeOcwwT486) | [Peaceful Storm](https://open.spotify.com/artist/1F9BGQRXydW5pf28ukNEkm) | [Worthy](https://open.spotify.com/album/6NygaZ0pFTqrBj47zk63Qu) | 2:15 | 2025-05-16 |  |
 
 \*This playlist was first scraped on 2023-02-09. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > świeże brzmienia na horyzoncie ✨ Cover: bartek turski
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,053 likes - 65 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,055 likes - 65 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 27 | [EDEN](https://open.spotify.com/track/1tm0wcb70ojuKjvFUo1Tsd) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [EDEN](https://open.spotify.com/album/0N9FSY1ZPYkkySGVQYcswA) | 3:22 |
 | 28 | [Running From Myself](https://open.spotify.com/track/2oWQin3JziO4aw4IrEkAmF) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Running From Myself](https://open.spotify.com/album/2UeR4nyka780fWnwgabZLe) | 2:36 |
 | 29 | [Deja Vu](https://open.spotify.com/track/2NB1gNSdFonXMllNMxiAmE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Deja Vu](https://open.spotify.com/album/0Xtj0v242nflooXf1FLutS) | 2:55 |
-| 30 | [Jest jak jest](https://open.spotify.com/track/2mFa5j7qkgBevlL3nvemWO) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Jest jak jest](https://open.spotify.com/album/4YFA93YNUERAacYRMkrEi7) | 2:48 |
-| 31 | [Escape](https://open.spotify.com/track/2Dlc3NKzeU8xybT6R8iQm0) | [zuziula](https://open.spotify.com/artist/4QlrRdWN1OxIPPK5tWWang), [Phatrax](https://open.spotify.com/artist/1EWSmJHrwXmAaXOxD4uHg7) | [Escape](https://open.spotify.com/album/2S1RHUOQRRqDPkVmxVSLHA) | 2:33 |
+| 30 | [Escape](https://open.spotify.com/track/2Dlc3NKzeU8xybT6R8iQm0) | [zuziula](https://open.spotify.com/artist/4QlrRdWN1OxIPPK5tWWang), [Phatrax](https://open.spotify.com/artist/1EWSmJHrwXmAaXOxD4uHg7) | [Escape](https://open.spotify.com/album/2S1RHUOQRRqDPkVmxVSLHA) | 2:33 |
+| 31 | [Jest jak jest](https://open.spotify.com/track/2mFa5j7qkgBevlL3nvemWO) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Jest jak jest](https://open.spotify.com/album/4YFA93YNUERAacYRMkrEi7) | 2:48 |
 | 32 | [Warszawa](https://open.spotify.com/track/0gHk4v0XswI91vsbb1mxCi) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Warszawa](https://open.spotify.com/album/0LPGGwbEOOduaKXN1doceo) | 3:54 |
 | 33 | [Psy](https://open.spotify.com/track/2EAjmK1F2Rb9afmzRUmdCB) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Psy](https://open.spotify.com/album/5JnhZB6ht5DA1YV9SbQxjB) | 3:20 |
 | 34 | [Róże](https://open.spotify.com/track/7KwoToBk5yZ3sDTOuFEI9F) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Róże](https://open.spotify.com/album/1OFjjOlwaioMt9YqGZHNRb) | 2:31 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 40 | [Na części pierwsze](https://open.spotify.com/track/3B63eSVNQC2AOYjWR5vWwV) | [Mateusz Gędek](https://open.spotify.com/artist/1cfpfsSRiNBDnteA7s1hQD) | [PO FAKCIE](https://open.spotify.com/album/4JecW1pAXfshamrTxIvlv6) | 3:06 |
 | 41 | [jeszcze raz](https://open.spotify.com/track/1zxUcEhaqPbgmryzP9Q6fu) | [DJ BLIK](https://open.spotify.com/artist/7xVjiA11JIFZzGlj9AEAgE), [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [jeszcze raz](https://open.spotify.com/album/0cxn6C6Yk2zEZlRn2EVHg5) | 3:40 |
 | 42 | [Kalifornia](https://open.spotify.com/track/2s33rfHUFAxiTh9AzSUloU) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7) | [Kalifornia](https://open.spotify.com/album/7kD8PQnZQ5WetSlvANmeQk) | 4:33 |
-| 43 | [Only Love](https://open.spotify.com/track/4fE3PQDHE50vrcqN8ElxDr) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Only Love](https://open.spotify.com/album/4WjiBXuiBrFqkRgIG9OCfr) | 4:19 |
-| 44 | [Ja Wciąż Ciebie Też](https://open.spotify.com/track/3m6l0Eb3aGWjXudwTj5lAW) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f) | [Ja Wciąż Ciebie Też](https://open.spotify.com/album/1g03Banzzmo1Cah8DPE6MG) | 2:31 |
-| 45 | [Čyrvone Nebo](https://open.spotify.com/track/3cGQ3b4enpPUGJsPLvcN7v) | [Sw@da](https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj), [Niczos](https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk) | [Čyrvone Nebo](https://open.spotify.com/album/5KuvlS6wxp4QK4sKWXpflb) | 3:06 |
+| 43 | [Ja Wciąż Ciebie Też](https://open.spotify.com/track/3m6l0Eb3aGWjXudwTj5lAW) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f) | [Ja Wciąż Ciebie Też](https://open.spotify.com/album/1g03Banzzmo1Cah8DPE6MG) | 2:31 |
+| 44 | [Čyrvone Nebo](https://open.spotify.com/track/3cGQ3b4enpPUGJsPLvcN7v) | [Sw@da](https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj), [Niczos](https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk) | [Čyrvone Nebo](https://open.spotify.com/album/5KuvlS6wxp4QK4sKWXpflb) | 3:06 |
+| 45 | [Only Love](https://open.spotify.com/track/4fE3PQDHE50vrcqN8ElxDr) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Only Love](https://open.spotify.com/album/4WjiBXuiBrFqkRgIG9OCfr) | 4:19 |
 | 46 | [Need 2](https://open.spotify.com/track/2XOTQLxng9rBeHw2jHNqDY) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU) | [Need 2](https://open.spotify.com/album/65LTuhV9Kiufno0XuD6OsN) | 2:40 |
 | 47 | [co ty na to?](https://open.spotify.com/track/2IC10VSx7soc9pPdEpmZ6A) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu), [Felivers](https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk) | [co ty na to?](https://open.spotify.com/album/646vsWAg8YLIZXHZJOZgvC) | 2:31 |
 | 48 | [Fotografie](https://open.spotify.com/track/7Hy0orWwbe8uUnxQEjp9T5) | [Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Fotografie](https://open.spotify.com/album/4Prxn72y9YA75P2T9aQ5CP) | 2:27 |
@@ -62,16 +62,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 52 | [Niewidzialna](https://open.spotify.com/track/3dDEMGZ8aVjym11Z0kNPm6) | [Zosia Wójcik](https://open.spotify.com/artist/6cfLNhvfa7katU5mLVu1Ye) | [Niewidzialna](https://open.spotify.com/album/13pzluNjYhNK0zPscDrRey) | 2:25 |
 | 53 | [Udawaj do rana](https://open.spotify.com/track/45cgD7UmeKuW1mhwSQ8we6) | [Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA) | [Udawaj do rana](https://open.spotify.com/album/4exck6h9MiotcqH2gtfZdT) | 3:18 |
 | 54 | [Nie tonę](https://open.spotify.com/track/4mr8qzhUJ7PVPRJdoROaEI) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Destroy Me, Today](https://open.spotify.com/album/3QUSazSeQvb4HsjkqIOtQ4) | 3:04 |
-| 55 | [U Want Me Anyway](https://open.spotify.com/track/2NZpYLv014p6rfl2CYxDX6) | [Dani Marchio](https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT) | [U Want Me Anyway](https://open.spotify.com/album/1voy9mRdneNwKnaBgIjLh4) | 3:20 |
-| 56 | [Hej, nie mówiłam ci](https://open.spotify.com/track/2pbslxgbSgTxQ9iHRhclHj) | [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Hej, nie mówiłam ci](https://open.spotify.com/album/1XskKbAIvIzKoIWNzI1nwT) | 3:26 |
-| 57 | [o tobie wers](https://open.spotify.com/track/4uN1jM22d2v3l2IRIJe1Af) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [o tobie wers](https://open.spotify.com/album/3nAZGqA6gK1p546TGFuL1E) | 2:45 |
+| 55 | [Hej, nie mówiłam ci](https://open.spotify.com/track/2pbslxgbSgTxQ9iHRhclHj) | [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Hej, nie mówiłam ci](https://open.spotify.com/album/1XskKbAIvIzKoIWNzI1nwT) | 3:26 |
+| 56 | [U Want Me Anyway](https://open.spotify.com/track/2NZpYLv014p6rfl2CYxDX6) | [Dani Marchio](https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT) | [U Want Me Anyway](https://open.spotify.com/album/1voy9mRdneNwKnaBgIjLh4) | 3:20 |
+| 57 | [Bez](https://open.spotify.com/track/4a6NXd5qrJv6AJrKlkZg04) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Bez](https://open.spotify.com/album/2GVXwKnRnPkdKdxCfrb3kG) | 3:52 |
 | 58 | [Pretty Woman](https://open.spotify.com/track/3lw7lnqS2cNgrMEZeEzQ7W) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Pretty Woman](https://open.spotify.com/album/53ycyfvHxlw27C0dmfi2PW) | 2:46 |
-| 59 | [Bez](https://open.spotify.com/track/4a6NXd5qrJv6AJrKlkZg04) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Bez](https://open.spotify.com/album/2GVXwKnRnPkdKdxCfrb3kG) | 3:52 |
-| 60 | [Życzenie](https://open.spotify.com/track/1fQHKxZhGY3uZRVlPqZelN) | [Ola Poskrop](https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy) | [Życzenie](https://open.spotify.com/album/3ac0IKoGhbTx4NlJgZvBAL) | 2:47 |
+| 59 | [o tobie wers](https://open.spotify.com/track/4uN1jM22d2v3l2IRIJe1Af) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [o tobie wers](https://open.spotify.com/album/3nAZGqA6gK1p546TGFuL1E) | 2:45 |
+| 60 | [ostatni raz](https://open.spotify.com/track/28tl2k7Oa2qN6KcwPVb6FW) | [Maks Łapiński](https://open.spotify.com/artist/3GtP61OWBcEBJTZvxmPbke) | [ostatni raz](https://open.spotify.com/album/5yupWsAkBkqaHmc2Rvv0QW) | 2:32 |
 | 61 | [zachody i wschody](https://open.spotify.com/track/4t3zMkgWZdmAcHqIr2coxU) | [.Bonaventura](https://open.spotify.com/artist/35Q5TQSaULwtlTkw44cokW) | [zachody i wschody](https://open.spotify.com/album/0N4hQMNPZtnctuGHgXr2zB) | 2:08 |
-| 62 | [ostatni raz](https://open.spotify.com/track/28tl2k7Oa2qN6KcwPVb6FW) | [Maks Łapiński](https://open.spotify.com/artist/3GtP61OWBcEBJTZvxmPbke) | [ostatni raz](https://open.spotify.com/album/5yupWsAkBkqaHmc2Rvv0QW) | 2:32 |
+| 62 | [Życzenie](https://open.spotify.com/track/1fQHKxZhGY3uZRVlPqZelN) | [Ola Poskrop](https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy) | [Życzenie](https://open.spotify.com/album/3ac0IKoGhbTx4NlJgZvBAL) | 2:47 |
 | 63 | [Koszta](https://open.spotify.com/track/64r6wuR8ltqW6T2GwYZxt0) | [René](https://open.spotify.com/artist/1ecSx6BZlYBQvDa8HvXzRz), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9), [Kize](https://open.spotify.com/artist/7I25Wrq7Jtg0uaqnnJ5W9S) | [Koszta](https://open.spotify.com/album/2P0Pu9V0kckJStlQsbPRM4) | 2:51 |
 | 64 | [Za późno](https://open.spotify.com/track/1Y2dOi6L9PGNzRTbX9HYtB) | [Ola Kędra](https://open.spotify.com/artist/50siyyCfKQBFMSprzxxS15) | [Za późno](https://open.spotify.com/album/17EBVVMzPBjUBBVj2KoX3T) | 2:53 |
-| 65 | [Zapomnij Mnie](https://open.spotify.com/track/4pjWbIByb1viHxrsKleGCF) | [Joulie Fox](https://open.spotify.com/artist/5hE1IPeVSiRpzsHBBBpzy4) | [Zapomnij Mnie](https://open.spotify.com/album/6r7P6UnFxFnmYlO7HK7EJi) | 2:58 |
+| 65 | [szczęście](https://open.spotify.com/track/5GAEmJzxcoKZTJgFU8Yeem) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [loki](https://open.spotify.com/album/7JwSGQN2SSTvzr36iZQpK4) | 2:53 |
 
 Snapshot ID: `aEITnwAAAAAdi+emghmfCQ1FDdycbJtS`

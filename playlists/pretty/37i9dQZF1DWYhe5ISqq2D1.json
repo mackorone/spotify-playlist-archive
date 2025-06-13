@@ -1,6 +1,6 @@
 {
   "description": "\u305f\u3063\u305f\u72ec\u308a\u3067\u30e1\u30ed\u30c7\u30a3\u30fc\u3068\u8a00\u8449\u3092\u7d21\u3050\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3002Cover: jo0ji",
-  "num_followers": 62514,
+  "num_followers": 62535,
   "original_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "owner": {
     "name": "Spotify",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2025-06-11 02:41:54",
       "album": {
+        "name": "DON'T FORGET MY NAME",
+        "url": "https://open.spotify.com/album/2fCJiH9OvWuVVz75C9A5UQ"
+      },
+      "artists": [
+        {
+          "name": "Shota Shimizu",
+          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
+        }
+      ],
+      "duration_ms": 201880,
+      "name": "DON'T FORGET MY NAME",
+      "url": "https://open.spotify.com/track/1q4yrx2dy6o11kkYgPfwKh"
+    },
+    {
+      "added_at": "2025-06-11 02:41:54",
+      "album": {
         "name": "\u30e9\u30b9\u30c8\u30c6\u30a3\u30fc\u30f3",
         "url": "https://open.spotify.com/album/4dqUl348QY8vyDhornJnAK"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 218800,
       "name": "\u30e9\u30b9\u30c8\u30c6\u30a3\u30fc\u30f3",
       "url": "https://open.spotify.com/track/16LZJJN61lQjFxtvNzhU9d"
-    },
-    {
-      "added_at": "2025-06-11 02:41:54",
-      "album": {
-        "name": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2 - Aimoraimo",
-        "url": "https://open.spotify.com/album/0G2Dn7aEZSIcWu9UxE7kLC"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2 - Aimoraimo",
-      "url": "https://open.spotify.com/track/5d0dz0ekefZ243cWDGiDJ1"
     },
     {
       "added_at": "2025-06-11 02:41:54",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2025-06-11 02:41:54",
       "album": {
+        "name": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2 - Aimoraimo",
+        "url": "https://open.spotify.com/album/0G2Dn7aEZSIcWu9UxE7kLC"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "\u30a2\u30a4\u30e2\u30e9\u30a4\u30e2 - Aimoraimo",
+      "url": "https://open.spotify.com/track/5d0dz0ekefZ243cWDGiDJ1"
+    },
+    {
+      "added_at": "2025-06-11 02:41:54",
+      "album": {
         "name": "\u30d9\u30eb\u30ac\u30e2\u30c3\u30c8",
         "url": "https://open.spotify.com/album/5YrdVkrc1xudPpVvSpFyhn"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 196900,
       "name": "\u30d9\u30eb\u30ac\u30e2\u30c3\u30c8",
       "url": "https://open.spotify.com/track/1b6pgyzY5v6O6yewSXd9ZI"
-    },
-    {
-      "added_at": "2025-06-11 02:41:54",
-      "album": {
-        "name": "DON'T FORGET MY NAME",
-        "url": "https://open.spotify.com/album/2fCJiH9OvWuVVz75C9A5UQ"
-      },
-      "artists": [
-        {
-          "name": "Shota Shimizu",
-          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
-        }
-      ],
-      "duration_ms": 201880,
-      "name": "DON'T FORGET MY NAME",
-      "url": "https://open.spotify.com/track/1q4yrx2dy6o11kkYgPfwKh"
     },
     {
       "added_at": "2025-06-11 02:41:54",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2025-06-11 02:41:54",
       "album": {
-        "name": "\u6de1\u8272\u306e\u5e78\u305b",
-        "url": "https://open.spotify.com/album/0s7qVBb38s7Hx9UFP4EAGG"
+        "name": "\u50d5\u304c\u305a\u3063\u3068\u6b32\u3057\u304b\u3063\u305f\u3082\u306e",
+        "url": "https://open.spotify.com/album/2IkFiW8Ch8T8dtNJvIBLmh"
       },
       "artists": [
         {
-          "name": "\u308c\u3093",
-          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
         }
       ],
-      "duration_ms": 185001,
-      "name": "\u6de1\u8272\u306e\u5e78\u305b",
-      "url": "https://open.spotify.com/track/5jSRMO6rx1Glgi1gGkmZb2"
+      "duration_ms": 194871,
+      "name": "\u50d5\u304c\u305a\u3063\u3068\u6b32\u3057\u304b\u3063\u305f\u3082\u306e",
+      "url": "https://open.spotify.com/track/4qffZjwVx88z1fBGaW5zr7"
     },
     {
       "added_at": "2025-06-11 02:41:54",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2025-06-11 02:41:54",
       "album": {
-        "name": "\u50d5\u304c\u305a\u3063\u3068\u6b32\u3057\u304b\u3063\u305f\u3082\u306e",
-        "url": "https://open.spotify.com/album/2IkFiW8Ch8T8dtNJvIBLmh"
+        "name": "\u6de1\u8272\u306e\u5e78\u305b",
+        "url": "https://open.spotify.com/album/0s7qVBb38s7Hx9UFP4EAGG"
       },
       "artists": [
         {
-          "name": "HIRAIDAI",
-          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+          "name": "\u308c\u3093",
+          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
         }
       ],
-      "duration_ms": 194871,
-      "name": "\u50d5\u304c\u305a\u3063\u3068\u6b32\u3057\u304b\u3063\u305f\u3082\u306e",
-      "url": "https://open.spotify.com/track/4qffZjwVx88z1fBGaW5zr7"
+      "duration_ms": 185001,
+      "name": "\u6de1\u8272\u306e\u5e78\u305b",
+      "url": "https://open.spotify.com/track/5jSRMO6rx1Glgi1gGkmZb2"
     },
     {
       "added_at": "2025-06-11 02:41:54",

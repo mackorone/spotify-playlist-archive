@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "Meet the popular webtoon OSTs now! (Cover: Return Your Soul (\uadc0\ud63c)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "description": "Meet the popular webtoon OSTs now! (Cover: \uc804\ub825\uace0\ubc31 (Electrifying Confession)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
   "name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OSTs)",
   "tracks": [
     {
@@ -250,7 +250,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 266829,
       "name": "An Old Love Story (2021) (Romance 101 X KCM)",
       "url": "https://open.spotify.com/track/3X9cumMpP7bPFiqYBcoSTZ"
@@ -3874,6 +3874,24 @@
       "duration_ms": 241029,
       "name": "Wings of Steel",
       "url": "https://open.spotify.com/track/6akkP5sOb3qALMCLuAnSTw"
+    },
+    {
+      "album": {
+        "name": "With me (Electrifying Confession X LUCY)",
+        "url": "https://open.spotify.com/album/4jb6RsjGnqX6rm8ii8v6mi"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234400,
+      "name": "With me (Electrifying Confession X LUCY)",
+      "url": "https://open.spotify.com/track/3jYSRhZxA4NnOxqwaC5HP9"
     },
     {
       "album": {

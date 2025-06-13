@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: 王和平
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Paula Au
 
-1,439 songs - 3 day 9 hr 7 min
+1,443 songs - 3 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Amidst the concrete](https://open.spotify.com/track/1kKO5dyVwCrvHUkrgTr8HG) | [Kiden](https://open.spotify.com/artist/3K6RzPx0eI1QD11un1Cm3U), [Loisey](https://open.spotify.com/artist/4mkRfl4lbz4A0O9jNlPnqN) | [Amidst the concrete](https://open.spotify.com/album/7sdeTiNHw3Zx3CeRF18fM9) | 2:57 | 2022-07-28 | 2022-09-09 |
 | [Among Us](https://open.spotify.com/track/3ocUbbOV84SoQ3SspSLvXn) | [Uchu Yurei](https://open.spotify.com/artist/12qOUG1SCqsMtXNPbng8rl) | [Among Us](https://open.spotify.com/album/5jO1w6shmYBeaTLOmPZ39J) | 4:55 | 2024-06-20 | 2024-11-15 |
 | [And The Darkness](https://open.spotify.com/track/1a4cJ6ElAAsZXc1UUsxsxv) | [Glen Alfred](https://open.spotify.com/artist/2zzLSCN9YTxzrMpmT28Lhx) | [And The Darkness](https://open.spotify.com/album/5DhVNlkZdtqugiJKArk3Qi) | 4:02 | 2024-08-22 | 2024-12-13 |
+| [Angel](https://open.spotify.com/track/5G2ZoEo1Iy6WtCL43VmGFE) | [Sake by the Water](https://open.spotify.com/artist/6bcndRRyytWLfkekq2XyKQ) | [Angel](https://open.spotify.com/album/7DI0cZNwszJlsuCxioJLXX) | 3:41 | 2025-06-12 |  |
 | [ANIMAL](https://open.spotify.com/track/622KzomkoRZAhj6aJ422y3) | [Rae Law](https://open.spotify.com/artist/3R82T1kwSMzxEH1UbkRqLV) | [ANIMAL](https://open.spotify.com/album/3NWp4o5sMQgelznuJkpvOF) | 2:13 | 2024-02-01 | 2024-05-10 |
 | [Another Life](https://open.spotify.com/track/6AaJtwlagk4mY5PQZMyiHt) | [SpotlessMind](https://open.spotify.com/artist/0VMR8op8diaqyoJjc7hBgf) | [Another Life](https://open.spotify.com/album/2XKZZcZQTfpKQf1g4KuSSn) | 2:22 | 2024-07-04 | 2024-11-15 |
 | [anxious](https://open.spotify.com/track/3TqRFOLubjHoe8Abc3IzHX) | [mue](https://open.spotify.com/artist/4nINHlTXP0sDUGWHmf4cLi) | [anxious](https://open.spotify.com/album/5dn2YPsJahpqLmyFzPF9ap) | 2:47 | 2024-11-14 | 2025-02-14 |
@@ -360,6 +361,7 @@
 | [HOMEBODY](https://open.spotify.com/track/4oEDQ1HvhZcLNsf1IYwLPB) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [ODDESSY](https://open.spotify.com/album/2YbralF8avxuxNeV8UhLwK) | 2:33 | 2023-05-18 | 2023-09-01 |
 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:57 | 2022-05-26 | 2022-06-10 |
 | [Honesty](https://open.spotify.com/track/3BcEUl0zF9LoJHCTq4Fw9F) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Honesty](https://open.spotify.com/album/4feyMOtrlVm1JuT2Vy6IEs) | 4:11 | 2024-08-08 | 2024-12-13 |
+| [Honey Pancake](https://open.spotify.com/track/5Y68dgN0xOvUHIkMgRfGzc) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [Honey Pancake](https://open.spotify.com/album/1cQenGAtPW1jHCYHtiodU0) | 3:21 | 2025-06-12 |  |
 | [Hopeless](https://open.spotify.com/track/5fXo4rlRxbgw8lE0TogTPf) | [niko rain](https://open.spotify.com/artist/3bIDVpODlxr80Gj7EAEXkV), [jøno](https://open.spotify.com/artist/3oWQ3rSeKMRuEmbud3qBI4) | [Hopeless](https://open.spotify.com/album/6RehbNgSMLkcf6k2ifnU9c) | 3:00 | 2024-01-11 | 2024-05-10 |
 | [Horizon](https://open.spotify.com/track/7vROJMPklHwGy39TIIXIDq) | [TL30](https://open.spotify.com/artist/5OJgCWA1KBzYsgD0ZdOusO), [Feel Better](https://open.spotify.com/artist/1N4by2ZqavHgzSyWyCgoKd) | [Horizon](https://open.spotify.com/album/0k2Ordg2lCvAQDMGPJA5ho) | 2:56 | 2023-06-08 | 2023-09-15 |
 | [Hot Chigga](https://open.spotify.com/track/3tWfz5RaeQwKP9kfkw5uDX) | [Lai Kei](https://open.spotify.com/artist/35T5iqhntCprz61MWcrgiB), [Zeca Frank](https://open.spotify.com/artist/2gz7q7ZpAXiREEokA8EA0p) | [Hot Chigga](https://open.spotify.com/album/6udXNawahdJjgNObzPuVlE) | 2:28 | 2024-02-01 | 2024-05-10 |
@@ -1005,6 +1007,7 @@
 | [中二宅急便](https://open.spotify.com/track/1gLKCI5Wks0K60xUNkHEtw) | [Helen So 蘇凱倫](https://open.spotify.com/artist/5xlDKh4xnSrMDM35VCGb11) | [中二宅急便](https://open.spotify.com/album/5pKSMfw4RZbfaqJuzoanEF) | 2:49 | 2023-08-24 | 2023-11-03 |
 | [二泊三日](https://open.spotify.com/track/1znnzG14xxoMvHYHvMyypO) | [N9](https://open.spotify.com/artist/3POd6Qa84pvklcv3bDWd0J) | [二泊三日](https://open.spotify.com/album/5ClMZZvNhlXfDSrBMXpiYR) | 3:12 | 2023-07-06 | 2023-09-15 |
 | [二話都說](https://open.spotify.com/track/6cpqG1kjoSbe9wgaSlvMEW) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [二話都說](https://open.spotify.com/album/4qzCwbSnrKcsJHfoPT6Lx1) | 4:44 | 2022-05-26 | 2022-06-10 |
+| [二都夜想曲](https://open.spotify.com/track/1nMnEUTOhfDUsLpyrmc1r2) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO), [wapiti](https://open.spotify.com/artist/0yWUMWzT5OnBurSaKi356m) | [二都夜想曲](https://open.spotify.com/album/19mx3ysGi9Xdd0HiyFXFL2) | 4:09 | 2025-06-12 |  |
 | [五人遊](https://open.spotify.com/track/3FHfnmRpoY9CTcHRDcvTJI) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [五人遊](https://open.spotify.com/album/1Jf1jF1TJBIU6KcEBRLWUU) | 3:32 | 2024-10-17 | 2025-02-14 |
 | [五時](https://open.spotify.com/track/4as7WlRzGLuWRJnl140n3s) | [及時雨](https://open.spotify.com/artist/6ohGilWzOogVjW2UDCX1xp), [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68) | [五時](https://open.spotify.com/album/2o2HbTE1WTnFenq0gqnU0y) | 4:00 | 2023-09-15 | 2023-11-24 |
 | [五月的天空](https://open.spotify.com/track/126sVSmiOqMTyCdjj5iAC6) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Trickie Bonnie](https://open.spotify.com/artist/1nfAcziGyKgEOo0pIw4pVy), [Vicky宣宣](https://open.spotify.com/artist/3wa6yoLKx9zqQR7WmkSyCN) | [五月的天空](https://open.spotify.com/album/1Z8BKI46tkQQmGOVVvwIRI) | 3:34 | 2025-05-01 |  |
@@ -1389,6 +1392,7 @@
 | [路人潛能100](https://open.spotify.com/track/1fy2ujSdEHyMbACQLT2VxV) | [SULIS](https://open.spotify.com/artist/341jDjLcWdN0Xt9TCkhsv3) | [路人潛能100](https://open.spotify.com/album/5OMsrBxs7UEK33wTrARqJR) | 3:41 | 2025-04-10 |  |
 | [蹺蹊](https://open.spotify.com/track/4o3T8OsWSj25ZBujlPapff) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva) | [蹺蹊](https://open.spotify.com/album/3IzhNtnRhc5SbBgLtCpmXJ) | 2:58 | 2022-05-26 | 2022-06-10 |
 | [輕不著地](https://open.spotify.com/track/2mun9hZy8ZOLEHNf0kgJwy) | [before the night ends](https://open.spotify.com/artist/4AGHDyw984Ss54AzrGeTgU) | [輕不著地](https://open.spotify.com/album/2Qp2UULxgZ99HMarRRctbn) | 4:58 | 2022-05-26 | 2022-07-29 |
+| [輪迴只為遇見你](https://open.spotify.com/track/190dqX46GYSpBONhAIplss) | [P.R.O.J.E.C.T\. 9](https://open.spotify.com/artist/5vXHFDWT0spUFXucafkyV7) | [輪迴只為遇見你](https://open.spotify.com/album/5bn7pnYTzJiNpOnnrwgPNj) | 3:49 | 2025-06-12 |  |
 | [輪迴德己立街](https://open.spotify.com/track/0GnS1rJNpc8PEfRhIifTO2) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [輪迴德己立街](https://open.spotify.com/album/1hEqBNDQAEZNmDm3y3tsIs) | 3:04 | 2024-11-08 | 2025-02-14 |
 | [轆轆 \- World Vision \- Let the Hungry Be Heard 原創歌曲](https://open.spotify.com/track/3Mhzxp8xj5dhRZUNqrl0Lw) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [轆轆 \(World Vision \- Let the Hungry Be Heard 原創歌曲\)](https://open.spotify.com/album/1MdzZQ2Ol5653dDLYxwE3A) | 2:01 | 2023-08-10 | 2023-12-01 |
 | [轉世音](https://open.spotify.com/track/4RGINsTVEOUC0IiHfpHIOh) | [Alexmalism](https://open.spotify.com/artist/2UwJTbVVDgt5KKRK5i94zD) | [轉世音](https://open.spotify.com/album/6Dzbm1npQSJ0PbprRD2Ime) | 4:08 | 2024-04-18 | 2024-11-15 |

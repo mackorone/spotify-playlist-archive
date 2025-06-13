@@ -1011,6 +1011,24 @@
     },
     {
       "album": {
+        "name": "NO MAP",
+        "url": "https://open.spotify.com/album/2nNjIRfBjGtZYPTCsH8wSa"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235600,
+      "name": "NO MAP",
+      "url": "https://open.spotify.com/track/6oMU3ANlpnEIKu8RtxWZkR"
+    },
+    {
+      "album": {
         "name": "NO.1",
         "url": "https://open.spotify.com/album/3tNT6nyzW65FKqjmOjp0ID"
       },
@@ -1530,7 +1548,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 208253,
       "name": "WINGS ever",
       "url": "https://open.spotify.com/track/0adiFWAZ8P8lG5JY0NzS4O"

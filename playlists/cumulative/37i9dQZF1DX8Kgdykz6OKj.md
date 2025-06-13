@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-456 songs - 1 day 1 hr 18 min
+457 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Air Born](https://open.spotify.com/track/1SrgOv6hJ7FmFNTDwC6yoF) | [The Kid Daytona](https://open.spotify.com/artist/1U77TS18o4qUO3bwq0pbcM), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Come Fly with Me](https://open.spotify.com/album/3r3Q0fWCOBOiBZFYw34TAm) | 4:44 | 2022-04-11 | 2022-04-15 |
 | [Albany](https://open.spotify.com/track/3axd6nS2OpTthBIv7Fv8LB) | [Kev Brown](https://open.spotify.com/artist/1Yi9MvKxq35HFHWl0nNelG) | [Always / Albany](https://open.spotify.com/album/350aqUY5tiF829qMI0QC6X) | 2:49 | 2021-12-16 | 2022-05-30 |
 | [Alchemy](https://open.spotify.com/track/02ck9tzXidQ4fTTMMGX43t) | [MANIK MC](https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Alchemy](https://open.spotify.com/album/137mUauJjgIwCPORvCsk5o) | 3:13 | 2021-12-16 | 2025-05-07 |
+| [Allegedly](https://open.spotify.com/track/04LykEZhcwFU2WBz8leiGZ) | [Tre Mission](https://open.spotify.com/artist/0A1RqQ9c8SDENYZPp3XcPg), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC) | [Allegedly](https://open.spotify.com/album/4SVnC6tyMHfH09V2QX7WYu) | 2:47 | 2025-06-11 |  |
 | [almost got me](https://open.spotify.com/track/7tYbDFqHeiNRMRwfk7PF5w) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [almost got me](https://open.spotify.com/album/3CgByUDYSBxYmUdQfQDOLk) | 3:03 | 2024-07-12 | 2024-10-11 |
 | [ALOPECIA](https://open.spotify.com/track/4logSUCXb5fUEfnxtJpsIJ) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav) | [ALOPECIA](https://open.spotify.com/album/3OYkrrgBRHLO01GYZSuQza) | 2:46 | 2025-01-17 | 2025-02-23 |
 | [Amnesia \- Slim\. Remix](https://open.spotify.com/track/7t5qW5nd52zSft927ByoHF) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z), [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Still Nothing Still \(Deluxe\)](https://open.spotify.com/album/47zLi5b1Xv8uwVzTWTDM6C) | 3:06 | 2024-07-18 | 2025-03-27 |

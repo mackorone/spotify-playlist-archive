@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: skantia
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,892 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,930 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 15 | [Immortal](https://open.spotify.com/track/65N1APSZgR83n1AP8SNj2v) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR), [Enei](https://open.spotify.com/artist/6X3QjCYg5HcTwO5FPVQj0J) | [Immortal](https://open.spotify.com/album/4O5lcsCUGhjRHsTtuAn3rX) | 3:17 |
 | 16 | [Nan Slapper](https://open.spotify.com/track/3119sJaLXEShGT5e8frnMj) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [Nan Slapper](https://open.spotify.com/album/0w3qxx32q76Rmx5UK58bEH) | 4:23 |
 | 17 | [Light It Up](https://open.spotify.com/track/6eWgNJspumvHtUmx8pQlFM) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Light It Up](https://open.spotify.com/album/5VR6J9N4EqZHOnzs6lvGgU) | 3:41 |
-| 18 | [Alarm \(feat\. MC ID\)](https://open.spotify.com/track/4lI38Kj91ahnFG48FwVSrS) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [MC ID](https://open.spotify.com/artist/71p78rJ0sEwTMlNjqln74R) | [Evolve](https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y) | 3:07 |
-| 19 | [Do U Feel It Now?](https://open.spotify.com/track/6y83sQah0y3Zgc6XyHCjma) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Do U Feel It Now?](https://open.spotify.com/album/7va8M0Y0BPQTDR93pJw5GL) | 3:51 |
+| 18 | [Do U Feel It Now?](https://open.spotify.com/track/6y83sQah0y3Zgc6XyHCjma) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Do U Feel It Now?](https://open.spotify.com/album/7va8M0Y0BPQTDR93pJw5GL) | 3:51 |
+| 19 | [Alarm \(feat\. MC ID\)](https://open.spotify.com/track/4lI38Kj91ahnFG48FwVSrS) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [MC ID](https://open.spotify.com/artist/71p78rJ0sEwTMlNjqln74R) | [Evolve](https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y) | 3:07 |
 | 20 | [Yapa Yapa \(Shut It Pls\) \- Serum Remix](https://open.spotify.com/track/2eUomHlhqjWsSEJiYS9dJk) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Big Shaq](https://open.spotify.com/artist/7mnAzEmgquhrVtGob81SmO), [Dr Ofori](https://open.spotify.com/artist/4jsOeCZLQG1ygXCF2pMqvp), [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m) | [Yapa Yapa \(Shut It Pls\) \[Serum Remix\]](https://open.spotify.com/album/3nxtYIeazKAFjJncFCPrAs) | 3:18 |
 | 21 | [Chant](https://open.spotify.com/track/65SsbtgsqPYv1p4Rq93fC9) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Chant](https://open.spotify.com/album/1W9a0pnDZti59LWh8e1Tiu) | 3:44 |
 | 22 | [Run \(Part 1\)](https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Sofia](https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb) | [Run \(Part 1\)](https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs) | 2:15 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 39 | [Take Me Up](https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Take Me Up](https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt) | 3:35 |
 | 40 | [Eat $hit](https://open.spotify.com/track/2RwD63NEvCaJPiNOM0knae) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [AIRGLO](https://open.spotify.com/artist/6J9iVHqjoo2ZCXq4kVgm4Z) | [Eat $hit](https://open.spotify.com/album/6vPFYzc1O68UsQVaM28k03) | 3:00 |
 | 41 | [Bad Boy Horns](https://open.spotify.com/track/3aAPSZ94zVWGPWcjDUjze8) | [Kelvin 373](https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD), [Waeys](https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9), [Selecta J\-Man](https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP) | [Bad Boy Horns](https://open.spotify.com/album/3W8GgxqEIZyiE4sOdGbCCt) | 4:12 |
-| 42 | [There In 10](https://open.spotify.com/track/37I6Fw5ZYnzfAXPBwITT3t) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [There In 10](https://open.spotify.com/album/5LMpeaTYk1hxd4lTFd0lEm) | 4:06 |
-| 43 | [Deserted](https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Hazmat / Deserted](https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6) | 3:21 |
+| 42 | [Deserted](https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Hazmat / Deserted](https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6) | 3:21 |
+| 43 | [There In 10](https://open.spotify.com/track/37I6Fw5ZYnzfAXPBwITT3t) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [There In 10](https://open.spotify.com/album/5LMpeaTYk1hxd4lTFd0lEm) | 4:06 |
 | 44 | [Out & About](https://open.spotify.com/track/7ugaJNi3rhiiK9zKLd6l4j) | [Amplify](https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Out & About](https://open.spotify.com/album/1OVIX9HjSovZ8Cmot4YrDR) | 2:33 |
 | 45 | [Dopamine Hits](https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ) | [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [Dopamine Hits](https://open.spotify.com/album/0repDZaNnjgoPqa38JDjST) | 3:09 |
 | 46 | [Mosh Pit](https://open.spotify.com/track/7ub3gsFkHrnkS38HOTyATJ) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Mosh Pit](https://open.spotify.com/album/6HmXSgT3vWune8Dy1yc66h) | 2:08 |

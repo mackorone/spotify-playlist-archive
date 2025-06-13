@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Braye
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,058 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,067 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 79 | [Another Mess I Make](https://open.spotify.com/track/27aqkdGNCiEt6o2BLRdbda) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nkatha Muthoni](https://open.spotify.com/artist/6GsjoCCj2BMdqDSjbl6B2P) | [Another Mess I Make](https://open.spotify.com/album/4MpHnTvay6SD8GPU0uCMQ8) | 4:17 |
 | 80 | [i think i love you 2](https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [i think i love you 2](https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9) | 2:44 |
 
-Snapshot ID: `aDmYWAAAAACiUCLD6wXpli9DBSYS0QSb`
+Snapshot ID: `aDmYWAAAAADfmxtHrloXkmcOLZnpKBn4`

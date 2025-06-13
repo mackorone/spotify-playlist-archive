@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-28",
-  "description": "Vieja escuela y de ahora \ud83d\udcf8 El Polaco & ECKO.",
+  "description": "Vieja escuela y de ahora \ud83d\udcf8 La Repandilla & Sound De Barrio.",
   "name": "Cumbia villera",
   "tracks": [
     {
@@ -264,6 +264,28 @@
       "duration_ms": 112223,
       "name": "Alma herida",
       "url": "https://open.spotify.com/track/49K0aG1Tcx0QyE0lru9OEd"
+    },
+    {
+      "album": {
+        "name": "Al\u00e9jate",
+        "url": "https://open.spotify.com/album/1J4XygZvMsEWsyQeIuhzcW"
+      },
+      "artists": [
+        {
+          "name": "La Repandilla",
+          "url": "https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub"
+        },
+        {
+          "name": "Sound De Barrio",
+          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248148,
+      "name": "Al\u00e9jate",
+      "url": "https://open.spotify.com/track/2AdiPGVDyUAtqYhhOBHFMV"
     },
     {
       "album": {
@@ -6490,7 +6512,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 173465,
       "name": "Vamos A Amanecer - Remix",
       "url": "https://open.spotify.com/track/0nk7pbLOJEGRlzSdN1erGe"

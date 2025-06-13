@@ -1,6 +1,6 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 477487,
+  "num_followers": 477548,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
+        "name": "Colorado",
+        "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 174347,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
+    },
+    {
+      "added_at": "2025-02-07 05:35:29",
+      "album": {
         "name": "Record Player (with AJR)",
         "url": "https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 149538,
       "name": "Record Player (with AJR)",
       "url": "https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM"
-    },
-    {
-      "added_at": "2025-02-07 05:35:29",
-      "album": {
-        "name": "Colorado",
-        "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 174347,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
     },
     {
       "added_at": "2025-02-07 05:35:29",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
-        "name": "Heartbeat Highway",
-        "url": "https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Heartbeat Highway",
-      "url": "https://open.spotify.com/track/2YbJ0qJ5uqOPfLGvqMLkaK"
-    },
-    {
-      "added_at": "2025-02-07 05:35:29",
-      "album": {
         "name": "Magpie",
         "url": "https://open.spotify.com/album/1LNCdy3xZoibzDh0WllxHY"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 254375,
       "name": "Am I Your Girl",
       "url": "https://open.spotify.com/track/6P3BLSxIWbcWF8cNkimmLy"
+    },
+    {
+      "added_at": "2025-02-07 05:35:29",
+      "album": {
+        "name": "Heartbeat Highway",
+        "url": "https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 221217,
+      "name": "Heartbeat Highway",
+      "url": "https://open.spotify.com/track/2YbJ0qJ5uqOPfLGvqMLkaK"
     },
     {
       "added_at": "2025-02-07 05:35:29",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
-        "name": "Part Of The Band",
-        "url": "https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 260148,
-      "name": "Part Of The Band",
-      "url": "https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq"
-    },
-    {
-      "added_at": "2025-02-07 05:35:29",
-      "album": {
         "name": "What Now",
         "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 226680,
       "name": "What Now",
       "url": "https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh"
+    },
+    {
+      "added_at": "2025-02-07 05:35:29",
+      "album": {
+        "name": "Part Of The Band",
+        "url": "https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 260148,
+      "name": "Part Of The Band",
+      "url": "https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq"
     },
     {
       "added_at": "2025-02-07 05:35:29",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz"
-      },
-      "artists": [
-        {
-          "name": "chokecherry",
-          "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs"
-    },
-    {
-      "added_at": "2025-02-07 05:35:29",
-      "album": {
         "name": "Nearer My God",
         "url": "https://open.spotify.com/album/6l3mTuQHtjeqoyYWkTxld8"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 215693,
       "name": "Nearer My God",
       "url": "https://open.spotify.com/track/1tSVf4MEdh8kVwKCmZw6uc"
+    },
+    {
+      "added_at": "2025-02-07 05:35:29",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz"
+      },
+      "artists": [
+        {
+          "name": "chokecherry",
+          "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs"
     },
     {
       "added_at": "2025-02-07 05:35:29",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/6nH1Skb7fmYGc27ZHMV4QE"
-      },
-      "artists": [
-        {
-          "name": "Petey USA",
-          "url": "https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr"
-        }
-      ],
-      "duration_ms": 284111,
-      "name": "The River",
-      "url": "https://open.spotify.com/track/0GGVP9FAOPRn528pafeFG9"
-    },
-    {
-      "added_at": "2025-02-07 05:35:29",
-      "album": {
         "name": "Death of Me",
         "url": "https://open.spotify.com/album/2UQJTykxd6XNynpRkWZtMP"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 214230,
       "name": "Death of Me",
       "url": "https://open.spotify.com/track/0GX4H5WP1u97oVCStRXYyi"
+    },
+    {
+      "added_at": "2025-02-07 05:35:29",
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/6nH1Skb7fmYGc27ZHMV4QE"
+      },
+      "artists": [
+        {
+          "name": "Petey USA",
+          "url": "https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr"
+        }
+      ],
+      "duration_ms": 284111,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/0GGVP9FAOPRn528pafeFG9"
     },
     {
       "added_at": "2025-02-07 05:35:29",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
-        "name": "Stay Out Of It",
-        "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 185317,
-      "name": "Stay Out Of It",
-      "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
-    },
-    {
-      "added_at": "2025-02-07 05:35:29",
-      "album": {
         "name": "Sea Star",
         "url": "https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 207786,
       "name": "Sea Star",
       "url": "https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp"
+    },
+    {
+      "added_at": "2025-02-07 05:35:29",
+      "album": {
+        "name": "Stay Out Of It",
+        "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 185317,
+      "name": "Stay Out Of It",
+      "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
     },
     {
       "added_at": "2025-02-07 05:35:29",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
-        "name": "Before the Waves",
-        "url": "https://open.spotify.com/album/1UBdVrk0aaya4VX1r0r3Un"
-      },
-      "artists": [
-        {
-          "name": "Magic Man",
-          "url": "https://open.spotify.com/artist/6ejhZKxWJr9apHAzj74DHv"
-        }
-      ],
-      "duration_ms": 223506,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/52h6tJhAz9MDyS8MSIDeIP"
-    },
-    {
-      "added_at": "2025-02-07 05:35:29",
-      "album": {
         "name": "Burn The Hard Drive (feat. Mura Masa)",
         "url": "https://open.spotify.com/album/2A7QGN8AFnIFthFrGXKKIi"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 192832,
       "name": "Burn The Hard Drive (feat. Mura Masa)",
       "url": "https://open.spotify.com/track/2YK4w5AUbAyjgdokQuCzoj"
+    },
+    {
+      "added_at": "2025-02-07 05:35:29",
+      "album": {
+        "name": "Before the Waves",
+        "url": "https://open.spotify.com/album/1UBdVrk0aaya4VX1r0r3Un"
+      },
+      "artists": [
+        {
+          "name": "Magic Man",
+          "url": "https://open.spotify.com/artist/6ejhZKxWJr9apHAzj74DHv"
+        }
+      ],
+      "duration_ms": 223506,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/52h6tJhAz9MDyS8MSIDeIP"
     },
     {
       "added_at": "2025-02-07 05:35:29",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 270053,
-      "name": "The World Ender",
-      "url": "https://open.spotify.com/track/3NNimGud58iHka1LHkda6D"
-    },
-    {
-      "added_at": "2025-02-07 05:35:29",
-      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/4UBSEvuaR4v2zJkC0aroby"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 206533,
       "name": "Fly",
       "url": "https://open.spotify.com/track/32sk0nAe4tnJxSjyGylWpj"
+    },
+    {
+      "added_at": "2025-02-07 05:35:29",
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 270053,
+      "name": "The World Ender",
+      "url": "https://open.spotify.com/track/3NNimGud58iHka1LHkda6D"
     },
     {
       "added_at": "2025-02-07 05:35:29",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
-        "name": "'93 or '94",
-        "url": "https://open.spotify.com/album/1FdGLYahtPLY8kU5YEvlhO"
-      },
-      "artists": [
-        {
-          "name": "Frances Cone",
-          "url": "https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh"
-        }
-      ],
-      "duration_ms": 197268,
-      "name": "'93 or '94",
-      "url": "https://open.spotify.com/track/5Xt4AWLrM8FRFZhGWf2UvN"
-    },
-    {
-      "added_at": "2025-02-07 05:35:29",
-      "album": {
         "name": "How It Ends",
         "url": "https://open.spotify.com/album/1moZ22n6w8zWMkWHdHyjSE"
       },
@@ -2299,18 +2283,18 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
-        "name": "Ain't Scared",
-        "url": "https://open.spotify.com/album/2YTCtKjAHW0Vefyv3KmGIw"
+        "name": "'93 or '94",
+        "url": "https://open.spotify.com/album/1FdGLYahtPLY8kU5YEvlhO"
       },
       "artists": [
         {
-          "name": "The Tragic Thrills",
-          "url": "https://open.spotify.com/artist/6Xk7kGyfSdpeuvIlMHx8ys"
+          "name": "Frances Cone",
+          "url": "https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh"
         }
       ],
-      "duration_ms": 260333,
-      "name": "Ain't Scared",
-      "url": "https://open.spotify.com/track/5HzEg0V4L0GKCke6xOBNwO"
+      "duration_ms": 197268,
+      "name": "'93 or '94",
+      "url": "https://open.spotify.com/track/5Xt4AWLrM8FRFZhGWf2UvN"
     },
     {
       "added_at": "2025-02-07 05:35:29",
@@ -2327,6 +2311,22 @@
       "duration_ms": 196040,
       "name": "Aeroplane",
       "url": "https://open.spotify.com/track/254t0ZC71gtdAGTinIGTwV"
+    },
+    {
+      "added_at": "2025-02-07 05:35:29",
+      "album": {
+        "name": "Ain't Scared",
+        "url": "https://open.spotify.com/album/2YTCtKjAHW0Vefyv3KmGIw"
+      },
+      "artists": [
+        {
+          "name": "The Tragic Thrills",
+          "url": "https://open.spotify.com/artist/6Xk7kGyfSdpeuvIlMHx8ys"
+        }
+      ],
+      "duration_ms": 260333,
+      "name": "Ain't Scared",
+      "url": "https://open.spotify.com/track/5HzEg0V4L0GKCke6xOBNwO"
     },
     {
       "added_at": "2025-02-07 05:35:29",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
-        "name": "Inside Your Mind",
-        "url": "https://open.spotify.com/album/69cUZMiLdowX4QgMjJCRI6"
-      },
-      "artists": [
-        {
-          "name": "GATC",
-          "url": "https://open.spotify.com/artist/54xBWCXYw0pydXBknIdiC6"
-        }
-      ],
-      "duration_ms": 225231,
-      "name": "Inside Your Mind",
-      "url": "https://open.spotify.com/track/5XwJIGnCtQqASIMdcbhbx1"
-    },
-    {
-      "added_at": "2025-02-07 05:35:29",
-      "album": {
         "name": "The Weakness",
         "url": "https://open.spotify.com/album/1jKvsyAQdJG05hNyiMwg8v"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 183693,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/16DgQG7hAb6S7Bb783rRro"
+    },
+    {
+      "added_at": "2025-02-07 05:35:29",
+      "album": {
+        "name": "Inside Your Mind",
+        "url": "https://open.spotify.com/album/69cUZMiLdowX4QgMjJCRI6"
+      },
+      "artists": [
+        {
+          "name": "GATC",
+          "url": "https://open.spotify.com/artist/54xBWCXYw0pydXBknIdiC6"
+        }
+      ],
+      "duration_ms": 225231,
+      "name": "Inside Your Mind",
+      "url": "https://open.spotify.com/track/5XwJIGnCtQqASIMdcbhbx1"
     },
     {
       "added_at": "2025-02-07 05:35:29",

@@ -1,12 +1,12 @@
 {
   "description": "This is Turnstile. The essential tracks, all in one playlist.",
-  "num_followers": 30275,
+  "num_followers": 30416,
   "original_name": "This Is Turnstile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEd1gAAAAAA6PTsqQI4GGwI90Yvx8EFV",
+  "snapshot_id": "aEjHAAAAAABRjbjHBcN+0/vn7L1p4KHU",
   "tracks": [
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY"
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 287159,
-      "name": "NEVER ENOUGH",
-      "url": "https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH"
+      "duration_ms": 116453,
+      "name": "Real Thing",
+      "url": "https://open.spotify.com/track/1Rz1CTinAymBA4dcMPGijY"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 116453,
-      "name": "Real Thing",
-      "url": "https://open.spotify.com/track/1Rz1CTinAymBA4dcMPGijY"
+      "duration_ms": 194520,
+      "name": "Generator",
+      "url": "https://open.spotify.com/track/04vAjpZ2ppNIFcxq9bqj39"
     },
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 194520,
-      "name": "Generator",
-      "url": "https://open.spotify.com/track/04vAjpZ2ppNIFcxq9bqj39"
+      "duration_ms": 124880,
+      "name": "I Don't Wanna Be Blind",
+      "url": "https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat"
     },
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 124880,
-      "name": "I Don't Wanna Be Blind",
-      "url": "https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat"
+      "duration_ms": 89840,
+      "name": "Big Smile",
+      "url": "https://open.spotify.com/track/0OK2cjonTMoF8PLRup3MAM"
     },
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 89840,
-      "name": "Big Smile",
-      "url": "https://open.spotify.com/track/0OK2cjonTMoF8PLRup3MAM"
+      "duration_ms": 111586,
+      "name": "(Lost Another) Piece of My World",
+      "url": "https://open.spotify.com/track/1afMorBjO1qEq8RCXz9RqV"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time & Space",
-        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 111586,
-      "name": "(Lost Another) Piece of My World",
-      "url": "https://open.spotify.com/track/1afMorBjO1qEq8RCXz9RqV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Step to Rhythm",
         "url": "https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 58752,
       "name": "Canned Heat",
       "url": "https://open.spotify.com/track/3FT12lBLjNgy1jTa4E1160"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 116840,
+      "name": "High Pressure",
+      "url": "https://open.spotify.com/track/6chFS0M9e67gNlHY11wnDm"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time & Space",
-        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 116840,
-      "name": "High Pressure",
-      "url": "https://open.spotify.com/track/6chFS0M9e67gNlHY11wnDm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Step to Rhythm",
         "url": "https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 97136,
       "name": "7",
       "url": "https://open.spotify.com/track/6VHhnEVCYvxlQQr5kbWd5i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Move Thru Me",
+        "url": "https://open.spotify.com/album/6UOOi8etpSCbXlWHtpDIgL"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 123237,
+      "name": "Come Back For More",
+      "url": "https://open.spotify.com/track/6mh7W1Ae8KS437otrDPkxU"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Move Thru Me",
-        "url": "https://open.spotify.com/album/6UOOi8etpSCbXlWHtpDIgL"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 123237,
-      "name": "Come Back For More",
-      "url": "https://open.spotify.com/track/6mh7W1Ae8KS437otrDPkxU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Step to Rhythm",
         "url": "https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 197433,
       "name": "Keep It Moving",
       "url": "https://open.spotify.com/track/4VVnprM3eR1hlac2ulGzjv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Move Thru Me",
+        "url": "https://open.spotify.com/album/6UOOi8etpSCbXlWHtpDIgL"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 64058,
+      "name": "Harder On You",
+      "url": "https://open.spotify.com/track/6EI3gG0eNw2Cniu6RZOUvU"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
       "duration_ms": 136716,
       "name": "Bad Wave",
       "url": "https://open.spotify.com/track/4ErXaLOxWqva7GsgQY3Kql"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Move Thru Me",
-        "url": "https://open.spotify.com/album/6UOOi8etpSCbXlWHtpDIgL"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 64058,
-      "name": "Harder On You",
-      "url": "https://open.spotify.com/track/6EI3gG0eNw2Cniu6RZOUvU"
     },
     {
       "added_at": null,

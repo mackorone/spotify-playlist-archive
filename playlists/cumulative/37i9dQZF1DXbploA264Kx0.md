@@ -2,9 +2,9 @@
 
 ### [The Sound of Formosa](https://open.spotify.com/playlist/37i9dQZF1DXbploA264Kx0)
 
-> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: RIKI
+> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: The Crane \(鶴\)
 
-440 songs - 1 day 2 hr 37 min
+442 songs - 1 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Finger](https://open.spotify.com/track/3Of8Z34kYIFKzm025HtkiH) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g) | [Balance](https://open.spotify.com/album/4DxdJ8pemzqSl38OjDcpF6) | 5:02 | 2024-02-29 | 2024-03-15 |
 | [fire on us](https://open.spotify.com/track/2EYYBns2FJHv0uYCbSVRDr) | [Dizparity](https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [Happy Together](https://open.spotify.com/album/5XVeSz6SBxlyYisDcCxBIK) | 2:48 | 2025-05-29 |  |
 | [FLAME \(feat\. MANDARK\)](https://open.spotify.com/track/3xk02Q61AHrcptZEAnKBAc) | [TYNT](https://open.spotify.com/artist/4HB5A4ssKVSg8JcTkqLx2p), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [FLAME \(feat\. MANDARK\)](https://open.spotify.com/album/0kzjxi4mX2pWh5WOJU29M7) | 3:40 | 2024-01-25 | 2024-10-18 |
+| [Floating Free](https://open.spotify.com/track/6Pp2aJc8lBve5AKfFqCwPu) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Floating Free](https://open.spotify.com/album/2dHRq1NhmisvltDBv94xef) | 3:24 | 2025-06-12 |  |
 | [For a Better Day \(feat\. 連炳發\) \- 影集《化外之醫》插曲](https://open.spotify.com/track/5DAcdDEm8Ngegfi6QIv4qx) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX), [Liên Bỉnh Phát](https://open.spotify.com/artist/1vrJLalQTydLmzJwe3Lw10) | [For a Better Day \(feat\. 連炳發\) \[影集《化外之醫》插曲\]](https://open.spotify.com/album/7AubzUnyNmztdMF1z0wvTR) | 3:37 | 2025-03-28 |  |
 | [For Me](https://open.spotify.com/track/2GVTS8oQaOE3luPlQLuzJd) | [柯智棠](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) | [For Me](https://open.spotify.com/album/3MR628PTur3huxnP2S6pJs) | 4:20 | 2024-10-10 | 2024-11-01 |
 | [Fortune Cookie](https://open.spotify.com/track/2DEcavRxaAOuEgVcgcNaJ0) | [June Pan](https://open.spotify.com/artist/0p5LfbnKvdqRqZ9u5Nk0S3) | [Fortune Cookie](https://open.spotify.com/album/67s3sGE3Z0kKvQBNuVv7J4) | 4:13 | 2024-05-23 | 2024-07-27 |
@@ -115,7 +116,7 @@
 | [Galaxy official](https://open.spotify.com/track/5Jwxp0LAi6SueBzoFZzFL5) | [Majin](https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl), [God Øne](https://open.spotify.com/artist/0WoCJqLme8Jz2NrGXXdwNL) | [Galaxy official](https://open.spotify.com/album/2ZF7aDkfknXIqRiaOMY14g) | 3:16 | 2024-02-29 | 2024-03-15 |
 | [GARDEN OF MINE](https://open.spotify.com/track/5isHPpvLRRDZ7sfXmLnCIL) | [Miao Miao Flow](https://open.spotify.com/artist/2r0ajtCNBtW94trsCQxyZr), [薛詒丹](https://open.spotify.com/artist/4sbZb3GwHmK7Ou1PVA4U5z) | [RUN, DON'T WALK](https://open.spotify.com/album/75BE0SxpA5kTgyQDgJa5eV) | 3:59 | 2024-05-30 | 2024-11-22 |
 | [General Suspicious](https://open.spotify.com/track/2vMUUnkFMShULt9nFneoqV) | [Bremen Entertainment Inc.](https://open.spotify.com/artist/7BmltYn52V9S204x88m0MA) | [The Great Bremen Show](https://open.spotify.com/album/18GGV74KlTQ1WOOUaTeqP2) | 2:55 | 2025-02-27 | 2025-03-07 |
-| [Ghost](https://open.spotify.com/track/2b2ck4wCQhwIlr6m7mCY7N) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX), [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [Ghost](https://open.spotify.com/album/2TYDqjnlad15lj4PT1CUib) | 5:27 | 2025-03-28 |  |
+| [Ghost](https://open.spotify.com/track/2b2ck4wCQhwIlr6m7mCY7N) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX), [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [Ghost](https://open.spotify.com/album/2TYDqjnlad15lj4PT1CUib) | 5:27 | 2025-03-28 | 2025-06-13 |
 | [Ghost Swing](https://open.spotify.com/track/5zChy32mThSjm3rUlzzCBu) | [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [Ghost Swing](https://open.spotify.com/album/6JlVTsRc9eY6T37RCGSOug) | 2:42 | 2025-02-27 | 2025-03-29 |
 | [Ghosts](https://open.spotify.com/track/1a8Krrol95IhEDLZtutEIB) | [潘PAN](https://open.spotify.com/artist/3gRbjzXPan9DOBEMmTjxVo) | [Ghosts](https://open.spotify.com/album/3KROcodSwLEuPTUWItvY98) | 3:08 | 2024-03-14 | 2024-04-05 |
 | [Glue](https://open.spotify.com/track/3KDIlOWvgtEJUqh7T0lWBF) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/2qNilyf3KvTDmGfDXnJx9y) | 4:20 | 2024-07-11 | 2024-08-30 |
@@ -208,7 +209,7 @@
 | [Nothing ever stops me](https://open.spotify.com/track/7IUwvUe5oa4nGu1aXgiyc6) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [Nothing ever stops me](https://open.spotify.com/album/7ucQfaR9dGgMgjztL3hOdN) | 4:00 | 2024-09-19 | 2024-10-18 |
 | [Nothing Shaped Hearts](https://open.spotify.com/track/4wEgu6sCB96TB1SSUNTFkh) | [Super Napkin](https://open.spotify.com/artist/5zqQabBzjxOyA0VkIRjPZw) | [Nothing is Diamond, Diamond is Wrong](https://open.spotify.com/album/3ny1FFWk6PQF98kodYn9WQ) | 3:48 | 2024-03-21 | 2024-04-12 |
 | [NOVA](https://open.spotify.com/track/46olTau19rKKQLQTzYLyOh) | [wannasleep](https://open.spotify.com/artist/1Qe4VNycDbzI2unKKDtQ0x), [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [BS](https://open.spotify.com/album/2QtQLczBDz2IiCDvzPf6XV) | 3:36 | 2024-02-29 | 2024-03-15 |
-| [Oh Bob](https://open.spotify.com/track/42esXDlrZgK4EMhwsLjBhd) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Way out](https://open.spotify.com/album/4ebUiIXxTDyS9LhtItkPRj) | 3:10 | 2024-09-12 |  |
+| [Oh Bob](https://open.spotify.com/track/42esXDlrZgK4EMhwsLjBhd) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Way out](https://open.spotify.com/album/4ebUiIXxTDyS9LhtItkPRj) | 3:10 | 2024-09-12 | 2025-06-13 |
 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 | 2024-02-29 | 2024-03-15 |
 | [Oh Why](https://open.spotify.com/track/6bNSDf3jZ7ThziVCbq0Mq2) | [The Fur.​](https://open.spotify.com/artist/0neVDcSdi4GMgFduUudWve) | [Serene Reminder](https://open.spotify.com/album/2TB1J2Q397wIpztQvyH5D1) | 3:36 | 2024-01-25 | 2024-08-09 |
 | [ok to be not ok](https://open.spotify.com/track/22ArmhlSvZq2pxTKb3dNjk) | [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5) | [ok to be not ok](https://open.spotify.com/album/4Op5st5g671g45uIqIunE0) | 3:36 | 2024-08-15 | 2025-04-04 |
@@ -313,6 +314,7 @@
 | [Untitled 9](https://open.spotify.com/track/67RSYTAmSaip7s8DMOUhC8) | [Bremen Entertainment Inc.](https://open.spotify.com/artist/7BmltYn52V9S204x88m0MA), [Mordecai](https://open.spotify.com/artist/5uHGu4IF2obMhivKyUzoq3) | [Taured](https://open.spotify.com/album/7dyN5oneMbQ4GhKvMkU0Ft) | 1:25 | 2025-03-06 | 2025-03-29 |
 | [Unwind](https://open.spotify.com/track/4cAVjrQKhvYrirCdD3u4Iu) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [Boomerang](https://open.spotify.com/album/2V2VAi4Rb2aDUWBtSvICMR) | 3:17 | 2024-01-25 | 2024-08-09 |
 | [Up In The Clouds](https://open.spotify.com/track/5g527cG5qz62qSrRrmZMfD) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [TALENT](https://open.spotify.com/album/58AtmygL5FdxGhuEUSnWwF) | 7:10 | 2024-06-13 | 2024-07-01 |
+| [VILLAIN](https://open.spotify.com/track/250HLl9eVRQABw1oIjOGkx) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [VILLAIN](https://open.spotify.com/album/1gdAhXMSsFtOCfW9T6f5el) | 3:26 | 2025-06-12 |  |
 | [Voltage](https://open.spotify.com/track/43ZhDs4iPKl44bfiPwQDLc) | [Drifter5](https://open.spotify.com/artist/4h0g2CXX0lQauuR7Vsk7TU), [Thoby](https://open.spotify.com/artist/55pTuQ8SbRVaZ2sFhPFX1x), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Voltage](https://open.spotify.com/album/1C0wDglggeLJIZdC9n5Soj) | 2:32 | 2024-12-05 | 2024-12-13 |
 | [Watch Your Back](https://open.spotify.com/track/1TWFLAtCNo2oRMIgDi4n2u) | [Toxic Wraith](https://open.spotify.com/artist/7IzlaNBh2EWdsR6xIOp9Bb), [Rizox](https://open.spotify.com/artist/37SbUm21d9h9AkDVAj3BD3) | [Watch Your Back](https://open.spotify.com/album/5qVfDqRIwW7gSvG8wk16OH) | 2:24 | 2025-04-10 | 2025-05-09 |
 | [We Don't Have To](https://open.spotify.com/track/5WXcIoVs1ucVbm25cDUqEp) | [Edelyn](https://open.spotify.com/artist/70Bc8yYTfXV3n8AtUH6xZG) | [We Don't Have To](https://open.spotify.com/album/2G8IIAv91WflCcadACtAbe) | 3:02 | 2024-03-14 | 2024-09-06 |

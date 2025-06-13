@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6PMQY9BFJY.md) - [plain]
 
 > Our editors' favorite Afro House tracks of 2024\. Cover: Keinemusik
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,073 likes - 75 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,208 likes - 75 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6PMQY9BFJY.md) - [plain]
 | 74 | [My Neck, My Back \(Lick It\)](https://open.spotify.com/track/0kTVwwt7g7OR5BAYmJvUue) | [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [My Neck, My Back \(Lick It\)](https://open.spotify.com/album/3vTbXNxh4aurW6b8WWSXOV) | 6:16 |
 | 75 | [Delakufa](https://open.spotify.com/track/6KUozwM4TNgRHIWGoqwl8g) | [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Delakufa](https://open.spotify.com/album/369KYFS91QZ4Vhu2ArRUOl) | 3:26 |
 
-Snapshot ID: `AAAAAMttwo4sFbhaOjOoTnMPgOLnasSO`
+Snapshot ID: `Z1BHxAAAAADIucHIbFtQd7RpHsNx5/n6`

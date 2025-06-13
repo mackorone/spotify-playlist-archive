@@ -2,15 +2,16 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's country crop\. Cover: Dylan Scott
+> The cream of today's country crop\. Cover: Kane Brown
 
-966 songs - 2 day 4 hr 45 min
+969 songs - 2 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$10 Cowboy](https://open.spotify.com/track/0wkAesjWf52ubUT4ZK8VN0) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/0wuHhJqV63y0KGQ2nNod2S) | 3:35 | 2024-01-25 | 2024-03-15 |
 | ['Til You Can't](https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:44 | 2022-01-21 | 2022-09-09 |
 | [\(Hot Damn\) It's Been a Minute](https://open.spotify.com/track/1GnZ6Z3Bu8QoyfgIaDtFgV) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd) | [\(Hot Damn\) It's Been A Minute](https://open.spotify.com/album/34FLjAmIfCbgqssH9Ac63X) | 3:27 | 2024-08-22 | 2024-11-01 |
+| [2 Pair](https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [2 Pair](https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi) | 2:31 | 2025-06-12 |  |
 | [23](https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [23](https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl) | 3:48 | 2023-11-09 | 2024-08-16 |
 | [23](https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [23](https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP) | 2:59 | 2021-12-30 | 2022-04-01 |
 | [27 Club](https://open.spotify.com/track/0Ikbwd2FModLCQrZGJlRUI) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Psychopath](https://open.spotify.com/album/2BXF8oLlDBkgTRAHyeZvuO) | 3:43 | 2023-08-24 | 2023-11-10 |
@@ -291,7 +292,7 @@
 | [Footsteps](https://open.spotify.com/track/5amIs6bmhvDwmviSJg5ySd) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Footsteps](https://open.spotify.com/album/2MTbZGbI0AJkD6OdPfkxii) | 2:58 | 2023-03-23 | 2023-05-26 |
 | [For What It’s Worth](https://open.spotify.com/track/1r2dzf8CUPxJWhmJQKbC8p) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 2:55 | 2022-09-08 | 2023-02-10 |
 | [For You](https://open.spotify.com/track/612Ys0YTvXm1I1FYqeVkFb) | [Emmagen Rain](https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg) | [For You](https://open.spotify.com/album/55LxFPmn7AbimJXSmetluH) | 3:03 | 2021-12-30 | 2022-01-22 |
-| [Forever Hold Your Gun](https://open.spotify.com/track/0W9QyjMi6GTqwjP35j5PX7) | [Y.O.G.A.](https://open.spotify.com/artist/0H2mWrAuc4RzRwr2SkpG2y), [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Forever Hold Your Gun](https://open.spotify.com/album/7F8WucKkZYEBWaP4JEzG3u) | 2:02 | 2025-03-27 |  |
+| [Forever Hold Your Gun](https://open.spotify.com/track/0W9QyjMi6GTqwjP35j5PX7) | [Y.O.G.A.](https://open.spotify.com/artist/0H2mWrAuc4RzRwr2SkpG2y), [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Forever Hold Your Gun](https://open.spotify.com/album/7F8WucKkZYEBWaP4JEzG3u) | 2:02 | 2025-03-27 | 2025-06-13 |
 | [Forget About It](https://open.spotify.com/track/2LAd01AkxYyB3GBYQdY8Jz) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Forget About It](https://open.spotify.com/album/4ofxqmy4qKEwhfwaNUH99W) | 2:25 | 2024-10-24 | 2025-02-14 |
 | [Friday Night](https://open.spotify.com/track/7dFiLc904b3L8LBElrZxZG) | [The Wet Whistles](https://open.spotify.com/artist/6Fvgm07RssXriVhFg3HTIj) | [Friday Night](https://open.spotify.com/album/3oYLnRbyaukgCed4Mf0Dkb) | 3:22 | 2024-11-21 | 2025-02-07 |
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-03-04 | 2022-05-20 |
@@ -311,7 +312,7 @@
 | [Ghost Story](https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ghost Story](https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc) | 3:01 | 2022-03-17 | 2022-06-10 |
 | [GHOSTED](https://open.spotify.com/track/3FJEkL4zxl9pNg3UAGcLT6) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [GHOSTED](https://open.spotify.com/album/5mVRTqoL3PSrmdSai5lqsK) | 3:23 | 2022-11-10 | 2023-03-10 |
 | [Ghosts In The Walls](https://open.spotify.com/track/6MyzmUBqzp5a4afjF66ILZ) | [Hudson Rose](https://open.spotify.com/artist/2OVd5jsVZnxyb1jI35yDEX) | [Ghosts In The Walls](https://open.spotify.com/album/5EEk1ttS5mcthLuLk0caVP) | 3:05 | 2024-05-16 | 2024-07-12 |
-| [Girl I Never Met](https://open.spotify.com/track/3e3ULne1BkdKR64AlZkw3x) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Girl I Never Met](https://open.spotify.com/album/00RBopMn0LvTbCOnoK15hu) | 2:57 | 2025-03-06 |  |
+| [Girl I Never Met](https://open.spotify.com/track/3e3ULne1BkdKR64AlZkw3x) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Girl I Never Met](https://open.spotify.com/album/00RBopMn0LvTbCOnoK15hu) | 2:57 | 2025-03-06 | 2025-06-13 |
 | [Girl In The Mirror](https://open.spotify.com/track/0EUG6aR5MMgsw5tJ89gson) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Girl In The Mirror](https://open.spotify.com/album/7MohXA18YgyFLQThDzZa7Z) | 3:48 | 2024-01-12 | 2024-01-20 |
 | [Give Her That](https://open.spotify.com/track/6Shb0psixdhEjdlDkyexeu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Give Her That](https://open.spotify.com/album/4JRl2IAzcpYlvjX6DnD4wb) | 3:21 | 2023-08-10 | 2023-11-10 |
 | [Glad It's Not Me](https://open.spotify.com/track/3zdL4Dghu09U3n6Wfv5UHu) | [Sabrina Durante](https://open.spotify.com/artist/5PesT0eGdPuhh1eljhtaX3) | [Glad It’s Not Me](https://open.spotify.com/album/2doK7K5fVjeTPl2unU6eyS) | 3:44 | 2022-03-24 | 2022-06-17 |
@@ -437,7 +438,7 @@
 | [I Wish You Would \(ft\. Midland\)](https://open.spotify.com/track/3wdvFJv9nXCmnBNzP2pMTo) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [I Wish You Would \(ft\. Midland\)](https://open.spotify.com/album/0MQvYrTBZn5k07K1gZhxf7) | 2:53 | 2025-02-06 | 2025-05-16 |
 | [I Wonder](https://open.spotify.com/track/19Sf2YrUN9ohsdBk8BWJTF) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [I Wonder](https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy) | 3:26 | 2022-11-03 | 2023-05-19 |
 | [I'd Be Delighted](https://open.spotify.com/track/6jS8b3W99Sa21l0WSl5poF) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [I'd Be Delighted](https://open.spotify.com/album/5g2DpCsAsxxgth6kcSmXQX) | 3:46 | 2025-02-20 | 2025-04-04 |
-| [I'm A Little Crazy](https://open.spotify.com/track/7igCS2ZsfV7bvxuhF4XgiQ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm A Little Crazy](https://open.spotify.com/album/2X9QdcBHMkoj4ekbZa3QId) | 3:19 | 2025-03-20 |  |
+| [I'm A Little Crazy](https://open.spotify.com/track/7igCS2ZsfV7bvxuhF4XgiQ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm A Little Crazy](https://open.spotify.com/album/2X9QdcBHMkoj4ekbZa3QId) | 3:19 | 2025-03-20 | 2025-06-13 |
 | [I'm Calling Shotgun](https://open.spotify.com/track/5k4aLoUB0H4suZKvISkAJz) | [Nathan Lamont](https://open.spotify.com/artist/6eEOnmBkhTlN4G8Ch16tU8) | [I'm Calling Shotgun](https://open.spotify.com/album/4LwlToxShKe2EhvvYcOCOn) | 3:21 | 2024-06-21 | 2024-10-25 |
 | [I'm Doing Well](https://open.spotify.com/track/1W8aqVf8iQOS8aT1wGeZ3u) | [Finnian Johnson](https://open.spotify.com/artist/4MNXrE9MKatoDYCexgnXVi) | [I'm Doing Well](https://open.spotify.com/album/0A5QSrPjmxMk97is7YT3zW) | 3:46 | 2024-01-19 | 2024-03-08 |
 | [I'm The Problem](https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm The Problem](https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD) | 2:57 | 2025-01-30 | 2025-04-18 |
@@ -595,6 +596,7 @@
 | [No Sad Song](https://open.spotify.com/track/72ecewEnJMkq1G2wN7LGdA) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [No Sad Song](https://open.spotify.com/album/2OauTa7johaqwMxDG9Qwrm) | 3:14 | 2024-12-05 | 2025-02-28 |
 | [Nobody Likes Your Girlfriend](https://open.spotify.com/track/3MAfSTarsPGtSxlmA6IBSS) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Nobody Likes Your Girlfriend](https://open.spotify.com/album/5e3nfGmreblIZTTUJOYR7f) | 3:01 | 2025-02-20 | 2025-05-23 |
 | [Nobody's More Country](https://open.spotify.com/track/3e9GzPcnquUu3vLZU3man4) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Nobody's More Country](https://open.spotify.com/album/6Ty3A6KMug1QL8CAXmdcz5) | 2:52 | 2021-12-30 | 2022-04-01 |
+| [Nose On The Grindstone](https://open.spotify.com/track/41qeQaiSa09dPsGzgechek) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Nose On The Grindstone](https://open.spotify.com/album/01KYIU27i4oQVxpdtG0Yt3) | 2:55 | 2025-06-12 |  |
 | [Not At This Party](https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Not At This Party](https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t) | 3:32 | 2025-02-27 | 2025-05-23 |
 | [Not In These Boots](https://open.spotify.com/track/7jImDCJbhVXW77Q43aY4je) | [Natalie Pearson](https://open.spotify.com/artist/5kDX9AsxeSUnU71dLYNesa) | [Not In These Boots](https://open.spotify.com/album/5POXSgpuVDdo7opEBFKISc) | 3:30 | 2023-04-13 | 2023-06-09 |
 | [Not Yet](https://open.spotify.com/track/0WVvn1HeAGVcnMnQcKPAQg) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Not Yet](https://open.spotify.com/album/5yhE9I7y2sfvB83vBkIRVJ) | 2:54 | 2021-12-30 | 2022-04-01 |
@@ -739,6 +741,7 @@
 | [Smile](https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Smile](https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX) | 3:44 | 2025-01-02 | 2025-03-21 |
 | [Smoke & Embers](https://open.spotify.com/track/5YAzhZWJfVWHsUmtCqwy1o) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol), [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Smoke & Embers](https://open.spotify.com/album/0snVijVc3VmrYU74Uytk78) | 3:47 | 2025-04-03 |  |
 | [Smooth](https://open.spotify.com/track/334YfRsUNPz8YXKmnOfGdR) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Born Lonely](https://open.spotify.com/album/7000MO2d4WELTAJZdokU3d) | 3:30 | 2024-06-06 | 2024-08-02 |
+| [Snakeskin](https://open.spotify.com/track/199g0lSljCpMXZEhNPeX0w) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Snakeskin](https://open.spotify.com/album/3ImHuxZRynM9tilae80YAr) | 2:43 | 2025-06-12 |  |
 | [Solitary Tracks](https://open.spotify.com/track/3E95KwP7L3CTEC42RS2Mws) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Solitary Tracks](https://open.spotify.com/album/6T3CK6Nzy6QTpT9jmVuWH7) | 3:59 | 2025-02-27 | 2025-05-23 |
 | [Some Days](https://open.spotify.com/track/1UGnoaLUkJfPFMgou67ER9) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Some Days](https://open.spotify.com/album/6GsrlSWBeldlms0eRrorc7) | 3:53 | 2024-05-03 | 2024-06-21 |
 | [Some Other Bar](https://open.spotify.com/track/1Y4smjUloaPcgZh99z0SGJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Some Other Bar](https://open.spotify.com/album/6hYRFzxWwKRLpasujAegzw) | 3:19 | 2022-03-17 | 2022-07-22 |

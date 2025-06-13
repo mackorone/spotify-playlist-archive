@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: UVERworld
 
-2,264 songs - 5 day 21 hr 55 min
+2,266 songs - 5 day 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -721,7 +721,7 @@
 | [OKASHi NA DEAi](https://open.spotify.com/track/1G0ZZ3vKImarwxWFwf9wHD) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [OKASHi NA DEAi](https://open.spotify.com/album/6XtHOEb6BZHR6WUnylSUQz) | 4:07 | 2023-04-18 | 2023-05-26 |
 | [OKワード](https://open.spotify.com/track/6wgpQueVkOyM1glLdtJkwE) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [OKワード](https://open.spotify.com/album/0xM29z2TTvicsVd4KE4vsB) | 3:45 | 2024-04-09 | 2024-04-24 |
 | [Old Fashioned](https://open.spotify.com/track/6ZWKRmmYetfk6LsEVbSIk6) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw), [Peatle](https://open.spotify.com/artist/0iIymgyAW3hH5oY7kRMVsp) | [Old Fashioned](https://open.spotify.com/album/3Rv9kwdTjYAdyUsVLz2gZh) | 3:19 | 2023-02-18 | 2023-04-14 |
-| [Old Love Bullet Gun \(BNZ2025ver.\)](https://open.spotify.com/track/1Z6HAFzNXkeX6Ak8ZIYmUf) | [Kenichi Asai](https://open.spotify.com/artist/5Gm55pqgmqzj8QbaHQTCFd) | [WHO IS BENZIE？](https://open.spotify.com/album/68bJUPufkOJgHhqXd1pHF0) | 3:45 | 2025-05-21 |  |
+| [Old Love Bullet Gun \(BNZ2025ver.\)](https://open.spotify.com/track/1Z6HAFzNXkeX6Ak8ZIYmUf) | [Kenichi Asai](https://open.spotify.com/artist/5Gm55pqgmqzj8QbaHQTCFd) | [WHO IS BENZIE？](https://open.spotify.com/album/68bJUPufkOJgHhqXd1pHF0) | 3:45 | 2025-05-21 | 2025-06-13 |
 | [Old Rookie](https://open.spotify.com/track/0Vx0LcKfmFdhwYES2OZb85) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Boku no Uta de Kimi ni Eien wo](https://open.spotify.com/album/1MMlfzh5fLDMyMt72ZwQkY) | 4:17 | 2023-01-24 | 2023-02-15 |
 | [OLDROSE](https://open.spotify.com/track/0093F6xxlANJgH5X9CAzHX) | [Aqua Timez](https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD) | [OLDROSE](https://open.spotify.com/album/1dbS6Qr8GKwYKLkfTmeEgN) | 4:35 | 2025-03-25 | 2025-04-16 |
 | [Omocha Teikoku](https://open.spotify.com/track/3WpKIipnEpE5hSDbjqTnne) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Omocha Teikoku](https://open.spotify.com/album/43wX4DrD0IYYtMhlfiYevx) | 3:02 | 2023-02-14 | 2023-04-26 |
@@ -1199,6 +1199,7 @@
 | [あるサンセット](https://open.spotify.com/track/6cBCrkEBMDigvkiUosyb66) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ハロー！グッドモーニング！](https://open.spotify.com/album/46qMP08f2cjRcfkqRLd5UH) | 4:05 | 2024-04-02 | 2024-05-22 |
 | [あんしん](https://open.spotify.com/track/02sTGST2qx3lMLkCmXWn6g) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [あんしん](https://open.spotify.com/album/0HA0iTP3cmhSfD2h9MztHO) | 3:24 | 2023-10-31 | 2023-11-02 |
 | [いけないfool logic](https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [いけないfool logic](https://open.spotify.com/album/2FGXwd9HF1RNw7C3XIQLW4) | 4:15 | 2023-10-03 | 2023-11-08 |
+| [いたい](https://open.spotify.com/track/6MSosUtVQ7O4uZBF9EPAZg) | [osage](https://open.spotify.com/artist/4PC4yqIacQxiKL43y2Ml5x) | [いたい](https://open.spotify.com/album/2DtTw78HZaP7aGhYsaJzhG) | 3:16 | 2025-06-12 |  |
 | [いっそこの心臓の音が君に聞こえたら](https://open.spotify.com/track/4I2ezm4guMBBKYN0Pe0j2P) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [いっそこの心臓の音が君に聞こえたら](https://open.spotify.com/album/3OTUz5G2RPdZ9V83VzCpQ1) | 5:43 | 2024-07-23 | 2024-10-02 |
 | [いつか渚へ](https://open.spotify.com/track/2ajVhqmpcTsPTK51UunVyu) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [いつか渚へ](https://open.spotify.com/album/3lGXCo8dfM3FnCPV93fCds) | 3:02 | 2023-07-25 | 2023-08-23 |
 | [いつだってHIGH！](https://open.spotify.com/track/0S65NmiWdRiC8VccYXjHeu) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [いつだってHIGH！](https://open.spotify.com/album/3lK8aLe2R4JAlW5z4Kehlf) | 3:30 | 2023-12-12 | 2024-01-24 |
@@ -1753,7 +1754,7 @@
 | [伝えたかったこと](https://open.spotify.com/track/5aKT0Vv8NPMdGrSxRTyYDD) | [yourness](https://open.spotify.com/artist/1u1NJZJgYCF6BVsjSYf2BM) | [伝えたかったこと](https://open.spotify.com/album/3MnWqyG29fPbeOy0jUkVjz) | 3:44 | 2023-03-14 | 2023-04-05 |
 | [何℃でも](https://open.spotify.com/track/2ikLDvw4nyhN7CDYrXoNRY) | [ammo](https://open.spotify.com/artist/3482dVicMV9A5tThd1ufSx) | [re:奏\-EP](https://open.spotify.com/album/2BU3gz6giXbNprtohG1N1U) | 3:57 | 2024-01-16 | 2024-02-14 |
 | [何年先も憶えててほしい](https://open.spotify.com/track/79OJr7RyMwOCupcDtZSX9Y) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [何年先も憶えててほしい](https://open.spotify.com/album/6si9mH4mbMYsLa8RBRLHCJ) | 4:02 | 2023-03-21 | 2023-04-14 |
-| [何者](https://open.spotify.com/track/27FUEKrI5GK1JlBdvYVPRO) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [AGAIN](https://open.spotify.com/album/6AEKlmz50QcOuLeIpPxuUE) | 3:26 | 2025-03-25 |  |
+| [何者](https://open.spotify.com/track/27FUEKrI5GK1JlBdvYVPRO) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [AGAIN](https://open.spotify.com/album/6AEKlmz50QcOuLeIpPxuUE) | 3:26 | 2025-03-25 | 2025-06-13 |
 | [余白](https://open.spotify.com/track/6r2e9rEBCmfIa7frPCjlrW) | [GOOD ON THE REEL](https://open.spotify.com/artist/5qnfrFRZ95ll1wX2c9Lfhg) | [ふれてみたいと思った。](https://open.spotify.com/album/3vByfB0W0v4dQC9xt3wztV) | 4:08 | 2024-11-13 | 2024-11-27 |
 | [修羅の巷](https://open.spotify.com/track/5wnmQXqaj5JOOHN4xGUJRy) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [修羅の巷](https://open.spotify.com/album/4uG1jBH6NEIvVur6Ioajsz) | 3:31 | 2023-04-28 | 2023-09-06 |
 | [修羅場](https://open.spotify.com/track/0DipDvTDtcJToTA8PfdmwS) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [修羅場](https://open.spotify.com/album/5kQGdoIPBfkByY09Dm8UJg) | 4:15 | 2024-07-02 | 2024-07-10 |
@@ -1766,6 +1767,7 @@
 | [僕たちは息をして](https://open.spotify.com/track/6KFJndpQASJefbnxiWgPaz) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [僕たちは息をして](https://open.spotify.com/album/7JTjkmIsemLcSkOCSnupCi) | 3:03 | 2024-08-27 | 2024-09-18 |
 | [僕と夜明け](https://open.spotify.com/track/063XznIkQsow0ViXjrpGwq) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [僕と夜明け](https://open.spotify.com/album/0jq9FpIl2IS4uMJVdEuuJO) | 2:17 | 2024-01-16 | 2024-01-24 |
 | [僕にはどうしてわかるんだろう](https://open.spotify.com/track/6l9uVfPEhdfE50mTPgnE0W) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [僕にはどうしてわかるんだろう](https://open.spotify.com/album/5EFBhxOKxYiZl5k5xQZGxl) | 4:19 | 2025-05-06 |  |
+| [僕のそばに](https://open.spotify.com/track/6VtxsPL1saMDWf2dzuJLKJ) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [僕のそばに](https://open.spotify.com/album/5mg81ijm6sM3Jg7hoRcNwJ) | 4:34 | 2025-06-12 |  |
 | [僕は頑張るよっ feat\. ano](https://open.spotify.com/track/6HTt0UBXjddAblVhEVT5Lj) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [僕は頑張るよっ feat\. ano](https://open.spotify.com/album/7eUAgP5PIKzqzHYquOpmfe) | 5:03 | 2023-09-26 | 2023-10-18 |
 | [僕らの行進曲](https://open.spotify.com/track/0U8htexvwrGW6rdG4BMr1E) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT! Ⅲ](https://open.spotify.com/album/4s9LtekCnehmTAAGV2Y8Ts) | 3:30 | 2025-05-27 |  |
 | [僕らはそれを愛と呼んだ](https://open.spotify.com/track/1m4yMmtlUxlmmT4gEzjGSh) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [僕らはそれを愛と呼んだ](https://open.spotify.com/album/6DyaCGI2tKENbFVyTziRcs) | 5:22 | 2023-06-01 | 2023-08-23 |

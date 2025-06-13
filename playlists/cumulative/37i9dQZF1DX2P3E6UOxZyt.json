@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2025 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8b49\u672a\u4f86\u5de8\u661f\uff01Cover: \u738bADEN",
+  "description": "2025 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8b49\u672a\u4f86\u5de8\u661f\uff01Cover: \u6797\u8283\u9038 (PPlin)",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -424,7 +424,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 168125,
       "name": "ASO",
       "url": "https://open.spotify.com/track/2lmEyHZNkQ9SzZIsg8mk4i"
@@ -478,7 +478,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 205687,
       "name": "Bad Bed Lover",
       "url": "https://open.spotify.com/track/6UBXxgvlXl8HVjNeplhvDX"
@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-30",
+      "date_removed": null,
       "duration_ms": 166560,
       "name": "DJV",
       "url": "https://open.spotify.com/track/7tuNmssymaXZDmyU0Waf60"
@@ -1204,6 +1204,24 @@
       "duration_ms": 189740,
       "name": "Do This My Way",
       "url": "https://open.spotify.com/track/7BEip5XMHKVAc3xtvh7QXC"
+    },
+    {
+      "album": {
+        "name": "shhh, it's under my bed",
+        "url": "https://open.spotify.com/album/58L0TIIk2t14KKVSxgjyB2"
+      },
+      "artists": [
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212893,
+      "name": "does your boyfriend know?",
+      "url": "https://open.spotify.com/track/2gUrqQu3FyITjkvqs3mmqd"
     },
     {
       "album": {
@@ -1540,7 +1558,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 140201,
       "name": "EXX",
       "url": "https://open.spotify.com/track/1uxpdBypxB44G4F6insgK3"
@@ -4267,6 +4285,28 @@
     },
     {
       "album": {
+        "name": "shhh, it's under my bed",
+        "url": "https://open.spotify.com/album/58L0TIIk2t14KKVSxgjyB2"
+      },
+      "artists": [
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        },
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218378,
+      "name": "Swapping Socks",
+      "url": "https://open.spotify.com/track/4gZvom1pzzbkoe6soKRYJL"
+    },
+    {
+      "album": {
         "name": "Swapping Socks",
         "url": "https://open.spotify.com/album/11vYgQBDU9DJnRlBJ6RuO5"
       },
@@ -4844,6 +4884,24 @@
       "duration_ms": 190400,
       "name": "Weirdo - Acoustic Version",
       "url": "https://open.spotify.com/track/3sgCFqA7PqmMae2zepUIh2"
+    },
+    {
+      "album": {
+        "name": "\u6797",
+        "url": "https://open.spotify.com/album/6rkMnXR21pzpwIlqa27uUV"
+      },
+      "artists": [
+        {
+          "name": "PPlin \u6797\u8283\u9038",
+          "url": "https://open.spotify.com/artist/6w4UFdB9juoTUzWhBJeOlw"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166404,
+      "name": "Went Blurry",
+      "url": "https://open.spotify.com/track/62oSWLXBHWTBhwiDZURQLm"
     },
     {
       "album": {
@@ -8548,7 +8606,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 292059,
       "name": "\u60f3\u518d\u554f\u4f60\u4e00\u6b21",
       "url": "https://open.spotify.com/track/0YqveraOFp5KXGWLpX1EdA"
@@ -10364,7 +10422,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 213320,
       "name": "\u6bdb\u7dda\u7403\u5c11\u5973 Yarn",
       "url": "https://open.spotify.com/track/3V8mZv6oG5a6KzU8KUS8rW"
@@ -10976,7 +11034,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 195874,
       "name": "\u7121\u7528\u7684\u4f9d\u8cf4\uff08\u5f71\u96c6\u300a\u5316\u5916\u4e4b\u91ab\u300b\u4e3b\u984c\u66f2\uff09",
       "url": "https://open.spotify.com/track/4WGZxeg3p2Y7ySmx08jVAO"
@@ -12165,6 +12223,24 @@
     },
     {
       "album": {
+        "name": "Netflix\u8ab0\u662f\u88ab\u5bb3\u8005\u5f71\u96c6\u6982\u5ff5\u539f\u8072\u5e36",
+        "url": "https://open.spotify.com/album/3Ok3cLAkQJgD9llylowrOn"
+      },
+      "artists": [
+        {
+          "name": "JUD \u9673\u6cf3\u5e0c",
+          "url": "https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238618,
+      "name": "\u84bc\u767d (Netflix \u5f71\u96c6\u300a\u8ab0\u662f\u88ab\u5bb3\u8005\uff1a\u7b2c2\u5b63\u300b\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/1yirex810MCm6C0pZn7EP1"
+    },
+    {
+      "album": {
         "name": "\u85af\u9905\u4e4b\u6b4c",
         "url": "https://open.spotify.com/album/7h5Kq4uCFCmLtbyRRdnll5"
       },
@@ -13042,7 +13118,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 229487,
       "name": "\u9084\u662f\u6211\u5df2\u5b78\u58de Good Girl Gone",
       "url": "https://open.spotify.com/track/5BM7ZHUn11XoawA5kH2gD5"
@@ -13282,7 +13358,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 237204,
       "name": "\u9577\u591c\u8cfd\u8dd1 Nights",
       "url": "https://open.spotify.com/track/0DTfdzLVkHO4Mjv8IiF7xs"
@@ -13304,6 +13380,24 @@
       "duration_ms": 218071,
       "name": "\u95dc\u65bc\u6211\u5931\u7720\u7684\u67d0\u4e09\u500b\u591c\u665a Sleepless Wander",
       "url": "https://open.spotify.com/track/4XdP6l8wIbHLIybMAajhfM"
+    },
+    {
+      "album": {
+        "name": "\u695a\u9580 Dream Sober",
+        "url": "https://open.spotify.com/album/7vxlr1fQ9xfkx5tkVuquNo"
+      },
+      "artists": [
+        {
+          "name": "Eileen Yo\u6e38\u5b87\u6f7c",
+          "url": "https://open.spotify.com/artist/4L2NMVuHynGLY9FXlQbogX"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218071,
+      "name": "\u95dc\u65bc\u6211\u5931\u7720\u7684\u67d0\u4e09\u500b\u591c\u665a Sleepless Wander",
+      "url": "https://open.spotify.com/track/4oPsoPQqD1yqCEakS7ibZo"
     },
     {
       "album": {

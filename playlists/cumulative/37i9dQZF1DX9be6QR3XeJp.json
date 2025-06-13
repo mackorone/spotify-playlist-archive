@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Victor Ray",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Crate Classics",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -1374,6 +1374,28 @@
       "duration_ms": 210490,
       "name": "Easy to Love",
       "url": "https://open.spotify.com/track/1VqDgFgaedJLSQa5dPI6pC"
+    },
+    {
+      "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/0NdWdBW0KWrKsqlEe5BQnO"
+      },
+      "artists": [
+        {
+          "name": "Crate Classics",
+          "url": "https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx"
+        },
+        {
+          "name": "FEMME",
+          "url": "https://open.spotify.com/artist/2lcT6qkYGkmQQ3KCU5BW9K"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/40WOqqydIlVzhbCHYsXejk"
     },
     {
       "album": {

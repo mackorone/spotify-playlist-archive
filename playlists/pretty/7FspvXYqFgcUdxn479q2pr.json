@@ -1,15 +1,87 @@
 {
-  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: Yves V",
-  "num_followers": 32401,
+  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: Jengi, JADED, Alex Mills",
+  "num_followers": 32397,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAsky+q+mA3XZozobNPJm1K3XK/KNkG",
+  "snapshot_id": "AAAsqEcM8UF7Zpa+ED6Cd8Fvhf8KY2i/",
   "tracks": [
     {
-      "added_at": "2025-06-06 06:53:58",
+      "added_at": "2025-06-12 11:49:06",
+      "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/7DVEkPiQhhhRHM6v8nX38N"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        },
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        },
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        }
+      ],
+      "duration_ms": 144024,
+      "name": "Burnin'",
+      "url": "https://open.spotify.com/track/4yWuOWkLEYAcdVjYc1QgKe"
+    },
+    {
+      "added_at": "2025-06-12 11:49:06",
+      "album": {
+        "name": "Grove St. Party (feat. Kebo Gotti) [Super Future Remix]",
+        "url": "https://open.spotify.com/album/5iug0UTgRwD5hb47domSF0"
+      },
+      "artists": [
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "name": "Kebo Gotti",
+          "url": "https://open.spotify.com/artist/00UOluVoYY4F2blO5DmgRj"
+        },
+        {
+          "name": "Super Future",
+          "url": "https://open.spotify.com/artist/6Xri2X6xp5SDLr08hva6Bb"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Grove St. Party (feat. Kebo Gotti) [Super Future Remix]",
+      "url": "https://open.spotify.com/track/0IaQfOsYjYWm48e792RlVV"
+    },
+    {
+      "added_at": "2025-06-12 11:49:06",
+      "album": {
+        "name": "El Agua Corri\u00f3",
+        "url": "https://open.spotify.com/album/2KlSM7eScLMfedpmmitNGa"
+      },
+      "artists": [
+        {
+          "name": "Orito Cantora y la Chalupa",
+          "url": "https://open.spotify.com/artist/5Sg47jJ9SH9t62IDWMahYR"
+        },
+        {
+          "name": "AfroSalto",
+          "url": "https://open.spotify.com/artist/09vJsJxTLHPwhzLyLAIKQ3"
+        },
+        {
+          "name": "Kieloh",
+          "url": "https://open.spotify.com/artist/33dffHQPA91Q0T0lkyG781"
+        }
+      ],
+      "duration_ms": 172008,
+      "name": "El Agua Corri\u00f3",
+      "url": "https://open.spotify.com/track/4quc8AEbsvRyd3QNdy2lMN"
+    },
+    {
+      "added_at": "2025-06-12 11:46:33",
       "album": {
         "name": "Flute (KNTRLVRLST Remix)",
         "url": "https://open.spotify.com/album/4AAypVDSpB05qmvIeArFso"
@@ -33,7 +105,7 @@
       "url": "https://open.spotify.com/track/1ezQNsp5el8von7KkY99py"
     },
     {
-      "added_at": "2025-06-06 06:53:58",
+      "added_at": "2025-06-12 11:46:33",
       "album": {
         "name": "All That Mattered (Love You Down)",
         "url": "https://open.spotify.com/album/63E7tYqaL1KJNGymN1prgq"
@@ -53,7 +125,7 @@
       "url": "https://open.spotify.com/track/6anCazkOiRskQMOvH1yy5V"
     },
     {
-      "added_at": "2025-06-06 06:53:58",
+      "added_at": "2025-06-12 11:46:33",
       "album": {
         "name": "La Vida EP",
         "url": "https://open.spotify.com/album/6Jsb3lrk8UEOaYJKlCMtgg"
@@ -81,23 +153,91 @@
       "url": "https://open.spotify.com/track/6DCNCcgxcMSTBoPdNXcei3"
     },
     {
-      "added_at": "2025-06-06 06:53:58",
+      "added_at": "2025-06-12 11:49:06",
       "album": {
-        "name": "EY",
-        "url": "https://open.spotify.com/album/7MxjwjDHBc4ybp9olRfiNs"
+        "name": "I Get Deep",
+        "url": "https://open.spotify.com/album/7sQoRPWjl24cA8OO9pMxiZ"
       },
       "artists": [
         {
-          "name": "Sama (US)",
-          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
         }
       ],
-      "duration_ms": 139073,
-      "name": "EY",
-      "url": "https://open.spotify.com/track/7LanjmmIXIvVW48eMFryXM"
+      "duration_ms": 191640,
+      "name": "I Get Deep",
+      "url": "https://open.spotify.com/track/1WiHZGPinn2TIcjej5PCVo"
     },
     {
-      "added_at": "2025-06-06 06:53:58",
+      "added_at": "2025-06-13 01:29:24",
+      "album": {
+        "name": "No Regrets (feat. Krewella) [YUSSI Remix]",
+        "url": "https://open.spotify.com/album/3dpwY24QK5adMTsTs6mmOI"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "YUSSI",
+          "url": "https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 237685,
+      "name": "No Regrets (feat. Krewella) [YUSSI Remix]",
+      "url": "https://open.spotify.com/track/6EH33BG9UhIYrezYC7v2Mx"
+    },
+    {
+      "added_at": "2025-06-12 11:49:06",
+      "album": {
+        "name": "Ziga",
+        "url": "https://open.spotify.com/album/4POTNdsb2vY5tvsWkXtsKK"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Zafrir",
+          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
+        },
+        {
+          "name": "Henrique Camacho",
+          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
+        }
+      ],
+      "duration_ms": 125647,
+      "name": "Ziga",
+      "url": "https://open.spotify.com/track/5aLjnqttZDNsdBqtVdHtzr"
+    },
+    {
+      "added_at": "2025-06-12 11:49:06",
+      "album": {
+        "name": "Era",
+        "url": "https://open.spotify.com/album/4jm2U2sXJUJGBhKC1TJfsp"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "duration_ms": 284301,
+      "name": "Era",
+      "url": "https://open.spotify.com/track/1eao1v2p0x5mckT9gMTOH6"
+    },
+    {
+      "added_at": "2025-06-12 11:46:33",
       "album": {
         "name": "A Gira (David Guetta Remix)",
         "url": "https://open.spotify.com/album/2AFJKP1Leyqf3hyxabUppZ"
@@ -117,7 +257,23 @@
       "url": "https://open.spotify.com/track/2AZVoftjLl883aKfk8wSJn"
     },
     {
-      "added_at": "2025-06-06 06:53:58",
+      "added_at": "2025-06-12 11:46:33",
+      "album": {
+        "name": "EY",
+        "url": "https://open.spotify.com/album/7MxjwjDHBc4ybp9olRfiNs"
+      },
+      "artists": [
+        {
+          "name": "Sama (US)",
+          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
+        }
+      ],
+      "duration_ms": 139073,
+      "name": "EY",
+      "url": "https://open.spotify.com/track/7LanjmmIXIvVW48eMFryXM"
+    },
+    {
+      "added_at": "2025-06-12 11:46:33",
       "album": {
         "name": "I Was Made For Lovin' You",
         "url": "https://open.spotify.com/album/7t18nOqd5TKdQ5iuPm0sTL"
@@ -131,346 +287,6 @@
       "duration_ms": 181431,
       "name": "I Was Made For Lovin' You",
       "url": "https://open.spotify.com/track/2YGQQjEteNKh2s90wDu9ns"
-    },
-    {
-      "added_at": "2025-06-06 06:53:58",
-      "album": {
-        "name": "Love\u2019s A Game",
-        "url": "https://open.spotify.com/album/0OuwtqtwwnHQRwwwJ2Kdcd"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        }
-      ],
-      "duration_ms": 206585,
-      "name": "Love\u2019s A Game",
-      "url": "https://open.spotify.com/track/0ytQmrJaRbb6Ogw1C55sV5"
-    },
-    {
-      "added_at": "2025-06-06 06:53:58",
-      "album": {
-        "name": "Hometown Hero (Remixes)",
-        "url": "https://open.spotify.com/album/2bQxvMlmvv4jclMcoKEAAm"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        },
-        {
-          "name": "Bj\u00f8rnskov",
-          "url": "https://open.spotify.com/artist/16EmDsIYHYtxgSNfjEYPf8"
-        },
-        {
-          "name": "Just\u0117",
-          "url": "https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key"
-        }
-      ],
-      "duration_ms": 169375,
-      "name": "Hometown Hero (Just\u0117 Remix)",
-      "url": "https://open.spotify.com/track/3fh6pToHUbW7w14JyBqsJc"
-    },
-    {
-      "added_at": "2025-06-06 06:53:58",
-      "album": {
-        "name": "Hypnotic",
-        "url": "https://open.spotify.com/album/4pwoQ3CAH2k3I3sU5fv3sO"
-      },
-      "artists": [
-        {
-          "name": "Antoine Delvig",
-          "url": "https://open.spotify.com/artist/5akjwT4cQGhi5DLknDb0Wl"
-        },
-        {
-          "name": "LUISDEMARK",
-          "url": "https://open.spotify.com/artist/6V8FJ4jrLkendobaeT99an"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "Hypnotic",
-      "url": "https://open.spotify.com/track/649ZGPOQ7cJfFpXrUavJis"
-    },
-    {
-      "added_at": "2025-06-06 06:53:58",
-      "album": {
-        "name": "Das Boom",
-        "url": "https://open.spotify.com/album/3hGP21qtBpVpZradJOEbgu"
-      },
-      "artists": [
-        {
-          "name": "Pickle",
-          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
-        }
-      ],
-      "duration_ms": 133714,
-      "name": "Das Boom",
-      "url": "https://open.spotify.com/track/0GI4jfqufRqXXkuatEMCsn"
-    },
-    {
-      "added_at": "2025-06-06 06:53:58",
-      "album": {
-        "name": "Life Is Simple (Move Your Body) [SCRIPT Remix]",
-        "url": "https://open.spotify.com/album/1thu54A2fcfVpceZt9yIUY"
-      },
-      "artists": [
-        {
-          "name": "Maesic",
-          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
-        },
-        {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
-        },
-        {
-          "name": "Salom\u00e9 Das",
-          "url": "https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77"
-        },
-        {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Life Is Simple (Move Your Body) - SCRIPT Remix",
-      "url": "https://open.spotify.com/track/0TuDFOWff6kcIv5JkN4T1S"
-    },
-    {
-      "added_at": "2025-06-06 06:53:58",
-      "album": {
-        "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
-        "url": "https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo"
-      },
-      "artists": [
-        {
-          "name": "Maesic",
-          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
-        },
-        {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
-        },
-        {
-          "name": "Salom\u00e9 Das",
-          "url": "https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77"
-        }
-      ],
-      "duration_ms": 172314,
-      "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
-      "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
-    },
-    {
-      "added_at": "2025-06-06 06:53:58",
-      "album": {
-        "name": "Oh My Lord",
-        "url": "https://open.spotify.com/album/5n1f5e0bY7vt51HW63NOAg"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "LAWRENT",
-          "url": "https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI"
-        },
-        {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
-        }
-      ],
-      "duration_ms": 142520,
-      "name": "Oh My Lord",
-      "url": "https://open.spotify.com/track/0KdIvpscCOvSG7FmmR4Clg"
-    },
-    {
-      "added_at": "2025-06-06 06:53:58",
-      "album": {
-        "name": "Last Forever",
-        "url": "https://open.spotify.com/album/16YAydZvzNFRVlGmtzZPX6"
-      },
-      "artists": [
-        {
-          "name": "Raaban",
-          "url": "https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc"
-        },
-        {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
-        },
-        {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
-        }
-      ],
-      "duration_ms": 176484,
-      "name": "Last Forever",
-      "url": "https://open.spotify.com/track/3fghHh3Md2fDNx03vvhOhJ"
-    },
-    {
-      "added_at": "2025-06-06 06:53:58",
-      "album": {
-        "name": "Seven Nation Army (feat. FADO)",
-        "url": "https://open.spotify.com/album/1mS8IQkwmnFzADx9ajSFqB"
-      },
-      "artists": [
-        {
-          "name": "Chris IDH",
-          "url": "https://open.spotify.com/artist/2z7bVSNugoW687HxM4eSa9"
-        },
-        {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
-        },
-        {
-          "name": "FADO",
-          "url": "https://open.spotify.com/artist/5cwu3pFICz2pHtGFimpmD1"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Seven Nation Army (feat. FADO)",
-      "url": "https://open.spotify.com/track/2uK43t1bUiXUzOwVs7syFQ"
-    },
-    {
-      "added_at": "2025-06-06 06:53:58",
-      "album": {
-        "name": "Get Shaky (GRMR Remix)",
-        "url": "https://open.spotify.com/album/0mwsye0vtpQbheFUC8Nnsk"
-      },
-      "artists": [
-        {
-          "name": "Ian Carey Project",
-          "url": "https://open.spotify.com/artist/5PbZIYWcDuRgEbMs7abSTH"
-        },
-        {
-          "name": "GRMR",
-          "url": "https://open.spotify.com/artist/6Qba7aqFkMOpKo8HMysGcG"
-        }
-      ],
-      "duration_ms": 150833,
-      "name": "Get Shaky (GRMR Remix)",
-      "url": "https://open.spotify.com/track/5FmSxAhREfhJVRx9NzZk4i"
-    },
-    {
-      "added_at": "2025-06-06 06:53:58",
-      "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/4wYadzlH6SU3SyOocAsPYo"
-      },
-      "artists": [
-        {
-          "name": "Maurya Sevak",
-          "url": "https://open.spotify.com/artist/0xdqRvO8mc7jwRjfo4gqCs"
-        }
-      ],
-      "duration_ms": 173260,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/1qlYxTujEOmfutweVURtNZ"
-    },
-    {
-      "added_at": "2025-06-06 06:53:58",
-      "album": {
-        "name": "The Power Of Love",
-        "url": "https://open.spotify.com/album/6ubj7wuCUQ2GQ7qLN4vMtZ"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        }
-      ],
-      "duration_ms": 139100,
-      "name": "The Power Of Love",
-      "url": "https://open.spotify.com/track/6XW6hJhSEqp9Jev6UbcLTk"
-    },
-    {
-      "added_at": "2025-06-06 06:53:58",
-      "album": {
-        "name": "Tears Dry Tonight (VIP Mix)",
-        "url": "https://open.spotify.com/album/35HrK32IJkm1Fo0e9mJ1Kj"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 176249,
-      "name": "Tears Dry Tonight (VIP Mix)",
-      "url": "https://open.spotify.com/track/3telbPQTLLNVBBE8Mw9CwG"
-    },
-    {
-      "added_at": "2025-06-06 06:53:58",
-      "album": {
-        "name": "Missing (feat. Mingue) [Samuele Sartini Remix]",
-        "url": "https://open.spotify.com/album/0Fu2mz4HLvhaC08tZMSnzh"
-      },
-      "artists": [
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        },
-        {
-          "name": "Mingue",
-          "url": "https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs"
-        },
-        {
-          "name": "Samuele Sartini",
-          "url": "https://open.spotify.com/artist/1mDmwVhkzWBBCC8WDpg7qh"
-        }
-      ],
-      "duration_ms": 170433,
-      "name": "Missing (feat. Mingue) [Samuele Sartini Remix]",
-      "url": "https://open.spotify.com/track/4Vf6nFrtDKNNzpVmON3q1N"
-    },
-    {
-      "added_at": "2025-06-06 06:53:58",
-      "album": {
-        "name": "HEARTSTRINGS",
-        "url": "https://open.spotify.com/album/3M4BDnaYzmeRD0HD3LPNiR"
-      },
-      "artists": [
-        {
-          "name": "Jude York",
-          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
-        }
-      ],
-      "duration_ms": 180692,
-      "name": "That's Just Love",
-      "url": "https://open.spotify.com/track/3axt8o9qCEM8EPjHHLn0mR"
-    },
-    {
-      "added_at": "2025-06-06 06:53:58",
-      "album": {
-        "name": "Into The Void (feat. Jordan Lindley)",
-        "url": "https://open.spotify.com/album/1mAVbja9AMFiLeduec3BLE"
-      },
-      "artists": [
-        {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
-        },
-        {
-          "name": "R\u00d8\u00d8TZ",
-          "url": "https://open.spotify.com/artist/4frpBL2krY6yQkxN9bN0ui"
-        },
-        {
-          "name": "Jordan Lindley",
-          "url": "https://open.spotify.com/artist/5lTAqA42dmnnSAcio6j3th"
-        }
-      ],
-      "duration_ms": 201923,
-      "name": "Into The Void (feat. Jordan Lindley)",
-      "url": "https://open.spotify.com/track/61kGJVuQJOqnpgnS2rzcCR"
     }
   ],
   "unique_name": "New Dance Music Friday",

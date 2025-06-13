@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's country crop. Cover: Dylan Scott",
+  "description": "The cream of today's country crop. Cover: Kane Brown",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 207061,
       "name": "(Hot Damn) It's Been a Minute",
       "url": "https://open.spotify.com/track/1GnZ6Z3Bu8QoyfgIaDtFgV"
+    },
+    {
+      "album": {
+        "name": "2 Pair",
+        "url": "https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151534,
+      "name": "2 Pair",
+      "url": "https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N"
     },
     {
       "album": {
@@ -5306,7 +5324,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 122679,
       "name": "Forever Hold Your Gun",
       "url": "https://open.spotify.com/track/0W9QyjMi6GTqwjP35j5PX7"
@@ -5678,7 +5696,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 177506,
       "name": "Girl I Never Met",
       "url": "https://open.spotify.com/track/3e3ULne1BkdKR64AlZkw3x"
@@ -8050,7 +8068,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 199060,
       "name": "I'm A Little Crazy",
       "url": "https://open.spotify.com/track/7igCS2ZsfV7bvxuhF4XgiQ"
@@ -10963,6 +10981,24 @@
     },
     {
       "album": {
+        "name": "Nose On The Grindstone",
+        "url": "https://open.spotify.com/album/01KYIU27i4oQVxpdtG0Yt3"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175973,
+      "name": "Nose On The Grindstone",
+      "url": "https://open.spotify.com/track/41qeQaiSa09dPsGzgechek"
+    },
+    {
+      "album": {
         "name": "Not At This Party",
         "url": "https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t"
       },
@@ -13668,6 +13704,24 @@
       "duration_ms": 210533,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/334YfRsUNPz8YXKmnOfGdR"
+    },
+    {
+      "album": {
+        "name": "Snakeskin",
+        "url": "https://open.spotify.com/album/3ImHuxZRynM9tilae80YAr"
+      },
+      "artists": [
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163444,
+      "name": "Snakeskin",
+      "url": "https://open.spotify.com/track/199g0lSljCpMXZEhNPeX0w"
     },
     {
       "album": {

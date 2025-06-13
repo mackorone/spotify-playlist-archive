@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-313 songs - 19 hr 54 min
+315 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [77 \- feat\. Avril Lavigne](https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [77 \(feat\. Avril Lavigne\)](https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt) | 2:53 | 2025-04-24 |  |
 | [A Banger A Day Keeps The Doctor Away](https://open.spotify.com/track/7AvALXbGFUPnevTLC41JYK) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [A Banger A Day Keeps The Doctor Away](https://open.spotify.com/album/44YwGDqhcIbzprf301vs2Q) | 3:36 | 2024-06-27 | 2024-09-27 |
 | [A Little Bit Off](https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:10 | 2024-06-27 | 2025-01-10 |
+| [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:07 | 2025-06-12 |  |
 | [A Million Suns](https://open.spotify.com/track/0RXtkfxtmUFb7kcDTXQfYk) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 3:45 | 2025-03-27 |  |
 | [A Sky Full of Stars](https://open.spotify.com/track/46ugCVn6XqZKNDE2lLQzOm) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [A Sky Full of Stars](https://open.spotify.com/album/6rVuS8geDXgoTCaPMMFSJS) | 3:22 | 2025-05-29 |  |
 | [A.F\. Day](https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [A.F\. Day](https://open.spotify.com/album/6U8F7vt0Ybgc27AVUD8KpO) | 3:47 | 2024-06-27 | 2024-09-07 |
@@ -72,7 +73,7 @@
 | [Darkness Always Wins](https://open.spotify.com/track/7wBKXbleeJQuQDnfKlOOGe) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Darkness Always Wins](https://open.spotify.com/album/6WWNTFaiCuC8rQvDRVIQWr) | 4:50 | 2025-04-24 |  |
 | [Dead Or Alive](https://open.spotify.com/track/122jYbqBkC5X3TO7AKpFgo) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Dead Or Alive](https://open.spotify.com/album/1XI9tZmvcoof83ZShzUwTL) | 3:43 | 2024-11-14 | 2025-01-04 |
 | [Dead Weight](https://open.spotify.com/track/29vy57r5gJtWrpUpFpbfiS) | [Blindside](https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr) | [Dead Weight](https://open.spotify.com/album/4xfDCq11r0Kka6CG1hhgp6) | 3:37 | 2025-03-20 |  |
-| [Demonic Depression](https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [God Of Angels Trust](https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC) | 3:58 | 2025-06-05 |  |
+| [Demonic Depression](https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [God Of Angels Trust](https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC) | 3:58 | 2025-06-05 | 2025-06-13 |
 | [Devilry of Ecstasy](https://open.spotify.com/track/719WQ11ocVYYq2Hd2FKcgJ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Devilry of Ecstasy](https://open.spotify.com/album/0I8tTyfyVf3DHw9xHu5zym) | 3:26 | 2024-08-08 | 2024-11-29 |
 | [Disaster](https://open.spotify.com/track/79pdnZdZDC7AAyio8d3KI2) | [H.E.A.T](https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd) | [Disaster](https://open.spotify.com/album/6Q8TEJkHFBDc3KQyoAv2va) | 3:45 | 2025-01-23 | 2025-03-07 |
 | [Disciple](https://open.spotify.com/track/7fPZwu2D14mqOoYjO995IW) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Disciple](https://open.spotify.com/album/0WtzjuX7m5DWs7JPr2mNdh) | 4:12 | 2024-06-27 | 2024-09-07 |
@@ -294,6 +295,7 @@
 | [Uno II](https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Uno II](https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg) | 2:15 | 2025-02-27 | 2025-03-28 |
 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 | 2025-03-27 |  |
 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 | 2024-11-07 | 2025-04-12 |
+| [Venus](https://open.spotify.com/track/5Q3Ak6PPL11xyWURXLwYUb) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [Venus](https://open.spotify.com/album/1YdRhdv1ZIbl021MJqH87j) | 3:08 | 2025-06-12 |  |
 | [Walk](https://open.spotify.com/track/3BID61NKkUQkX41pU5PtQG) | [AB/CD](https://open.spotify.com/artist/75IFS4w4dhyYMDGnTfzOAx) | [Walk](https://open.spotify.com/album/02kooDQ13rPXUwtcqQQH8u) | 3:10 | 2024-06-27 | 2024-09-20 |
 | [War With The World](https://open.spotify.com/track/6sfBDJFuHewjdxPk33IZyZ) | [DAMPF](https://open.spotify.com/artist/0S3PwQ8ImA3ORcNpYsG6my) | [War With The World](https://open.spotify.com/album/3BasJfXGxeCJqPQFNzoGej) | 3:41 | 2024-08-22 | 2025-04-12 |
 | [Wasted](https://open.spotify.com/track/6PA4LL6g9HxAa9lfBl1Ttp) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Wasted](https://open.spotify.com/album/2v4S2oaNDQ15PVNAkFRXqz) | 3:26 | 2024-06-27 | 2024-08-02 |

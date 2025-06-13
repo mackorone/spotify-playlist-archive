@@ -1949,6 +1949,28 @@
     },
     {
       "album": {
+        "name": "Corpus I",
+        "url": "https://open.spotify.com/album/3sR99ifBBjElpRmIGkstcm"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        },
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240044,
+      "name": "Spit",
+      "url": "https://open.spotify.com/track/6XydPDin3lvWsT1tJI4QdL"
+    },
+    {
+      "album": {
         "name": "Cool It Down",
         "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
       },

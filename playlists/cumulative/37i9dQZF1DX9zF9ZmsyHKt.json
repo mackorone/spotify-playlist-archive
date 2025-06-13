@@ -2209,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "Fica ou Sai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0XRhuNGN7G2OKsDvKRoIJx"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Lindsay",
+          "url": "https://open.spotify.com/artist/3yMbb5fw0spHqSkVZpsuGq"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141754,
+      "name": "Fica ou Sai - Ao Vivo",
+      "url": "https://open.spotify.com/track/7uFUgHj2oYSgnGQwnQbxpJ"
+    },
+    {
+      "album": {
         "name": "Dos Santos",
         "url": "https://open.spotify.com/album/6HhJcF7yFhjgc0uSuPPMVa"
       },
@@ -3690,7 +3708,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 232133,
       "name": "Objeto de Desejo",
       "url": "https://open.spotify.com/track/5TnTDW5cgW23CCRb7RPUdZ"

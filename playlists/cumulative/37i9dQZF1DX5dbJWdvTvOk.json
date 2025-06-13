@@ -542,7 +542,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 137035,
       "name": "Algo Lento",
       "url": "https://open.spotify.com/track/7eDXi2Pu6Kx9Qxam7Rtn6V"
@@ -2987,6 +2987,24 @@
     },
     {
       "album": {
+        "name": "Day Break",
+        "url": "https://open.spotify.com/album/3CwJPDKz6DsLpG5Ll14u8W"
+      },
+      "artists": [
+        {
+          "name": "Riley Howe",
+          "url": "https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152362,
+      "name": "Day Break",
+      "url": "https://open.spotify.com/track/6TgJqQlvZ9jLrVGsPdbGXD"
+    },
+    {
+      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/07g5N8EwAM9vyme63uFUue"
       },
@@ -4464,6 +4482,24 @@
       "duration_ms": 159250,
       "name": "Ferry",
       "url": "https://open.spotify.com/track/7lJRSS6MFE1xNIRpQ6rVDM"
+    },
+    {
+      "album": {
+        "name": "Field",
+        "url": "https://open.spotify.com/album/4diUNRlr7IBAx9TiL9EKjl"
+      },
+      "artists": [
+        {
+          "name": "David Sereno",
+          "url": "https://open.spotify.com/artist/25j4WPpCFt8QQUnb7TmREb"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137750,
+      "name": "Field",
+      "url": "https://open.spotify.com/track/4LrY7WhlwMyEl6dY03ckGP"
     },
     {
       "album": {
@@ -12620,7 +12656,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 142306,
       "name": "The King Of Time",
       "url": "https://open.spotify.com/track/1gx6KSTQ2z9eVLM59C8iYg"

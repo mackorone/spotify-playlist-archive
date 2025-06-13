@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana, featuring Vismay Patel, Iqlipse Nova and other exciting artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,319 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,396 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 11 | [Dil Behkaaye](https://open.spotify.com/track/4RluWOpOG1YBZEtUmEAExY) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [Rutvik Talashilkar](https://open.spotify.com/artist/778Z63WsGI3DGV83Ug92H4), [Harjot Kaur](https://open.spotify.com/artist/4xPHVHq5B7BX0h8XCOYWQw), [Shloke Lal](https://open.spotify.com/artist/5hICADiHIRxjNDx2qEhlXb) | [Dil Behkaaye](https://open.spotify.com/album/2WginyYdZBd5opfBW38Cy0) | 3:25 |
 | 12 | [Neend](https://open.spotify.com/track/1pdpAeTL7y48EbijYXEa4i) | [Aman Moroney](https://open.spotify.com/artist/2IEODkvsAXxCrYi308ictx), [Shaurya Saxena](https://open.spotify.com/artist/15YoAoQ9jr1YyDSgcTQXsf), [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ) | [Neend](https://open.spotify.com/album/7vKMHK89d10djKgor7oP1s) | 4:05 |
 | 13 | [Maan Jao](https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Maan Jao](https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF) | 2:34 |
-| 14 | [Naina](https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Naina](https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh) | 2:18 |
+| 14 | [Rozaana](https://open.spotify.com/track/38rA3DEpHuNYUaKhwBKLTp) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Rozaana](https://open.spotify.com/album/2BWeKSmzh8UNutqaHf37SH) | 3:08 |
 | 15 | [Dil Behra](https://open.spotify.com/track/6CNvkLUbOVTTwvtyAEPtmR) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Dil Behra](https://open.spotify.com/album/1MfW7hbD4ZQ4mgCwMoa9Eu) | 3:30 |
-| 16 | [Rozaana](https://open.spotify.com/track/38rA3DEpHuNYUaKhwBKLTp) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Rozaana](https://open.spotify.com/album/2BWeKSmzh8UNutqaHf37SH) | 3:08 |
+| 16 | [Naina](https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Naina](https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh) | 2:18 |
 | 17 | [Kya Kahein](https://open.spotify.com/track/1v6g0O3B9MmLPW8jNKPSQg) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Kya Kahein](https://open.spotify.com/album/1uMj48Dc1VRH70MzQWqZIk) | 3:07 |
 | 18 | [Jiya](https://open.spotify.com/track/0N0k2zsecxTf0Z2mRIFryQ) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Jiya](https://open.spotify.com/album/7f1k4Bhpsa8jyEcIuOwDVM) | 3:01 |
 | 19 | [Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aashiyan](https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq) | 2:54 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 34 | [Tera Zikr](https://open.spotify.com/track/6its6Ryep04lYSz6HUt4Q5) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1), [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK) | [Tera Zikr](https://open.spotify.com/album/65S76v3alkgK2msh40A2Yv) | 4:07 |
 | 35 | [Tujhi Mein](https://open.spotify.com/track/33dMUDcgnHuhRKFBv2dIWt) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Tujhi Mein](https://open.spotify.com/album/1o8mYmyDY6pvGOOeQwz4Ag) | 3:05 |
 | 36 | [Kehndi Hai](https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Kehndi Hai](https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN) | 2:29 |
-| 37 | [Seelan Ki Khushboo](https://open.spotify.com/track/4JVPOE1vSL9qAl4L0rW9TG) | [Mansa Jimmy](https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu) | [Seelan Ki Khushboo](https://open.spotify.com/album/1kJ15kEGmmzgzlZc2MvY6f) | 3:32 |
-| 38 | [Jaane Jaana](https://open.spotify.com/track/19r3RVBCyOUyNoTHZqbEHX) | [Abir](https://open.spotify.com/artist/0XHapa0VH6XHwA3wlqextO), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Jaane Jaana](https://open.spotify.com/album/1SZ92QLakvszzoWAZ4H6Xh) | 2:48 |
+| 37 | [Jaane Jaana](https://open.spotify.com/track/19r3RVBCyOUyNoTHZqbEHX) | [Abir](https://open.spotify.com/artist/0XHapa0VH6XHwA3wlqextO), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Jaane Jaana](https://open.spotify.com/album/1SZ92QLakvszzoWAZ4H6Xh) | 2:48 |
+| 38 | [Seelan Ki Khushboo](https://open.spotify.com/track/4JVPOE1vSL9qAl4L0rW9TG) | [Mansa Jimmy](https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu) | [Seelan Ki Khushboo](https://open.spotify.com/album/1kJ15kEGmmzgzlZc2MvY6f) | 3:32 |
 | 39 | [O Maaa](https://open.spotify.com/track/3dTLzaV6YGQn6gOZ2j9t0L) | [Vinit Katariya](https://open.spotify.com/artist/23uaAA0nW31ZgSWg7DhctP), [Samyak Prasana](https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY), [Sarthak Hichkad](https://open.spotify.com/artist/59GrJmVi5YwyLJQIV0Cabl) | [O Maaa](https://open.spotify.com/album/2GjCniVKKT8c15EIP4CfBQ) | 3:00 |
 | 40 | [The Lovey Dovey Song](https://open.spotify.com/track/5nqZmbB3xB0RO0RooubM4n) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [The Lovey Dovey Song](https://open.spotify.com/album/30SZowhZ6LpoAl0UyTbWYX) | 2:50 |
 | 41 | [Aahista](https://open.spotify.com/track/2zNh45mWOtcjqR7ngX5oTJ) | [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [Aahista](https://open.spotify.com/album/3veutYP2aHnBgmSbtI61t1) | 2:13 |

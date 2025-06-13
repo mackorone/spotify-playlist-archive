@@ -3696,8 +3696,8 @@
           "url": "https://open.spotify.com/artist/4b1Ua3aYPP6ppvnqZdOHjV"
         },
         {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/0eu0y7eJ5NMo07NEQEIq1V"
+          "name": "BL\u25bcCK",
+          "url": "https://open.spotify.com/artist/6MJL8Jz291Z4WpMxjgioY1"
         }
       ],
       "date_added": "2025-05-30",
@@ -6055,6 +6055,24 @@
     },
     {
       "album": {
+        "name": "Sick",
+        "url": "https://open.spotify.com/album/3PHA1aZSacKObHWf8EeFBK"
+      },
+      "artists": [
+        {
+          "name": "Fejo",
+          "url": "https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199687,
+      "name": "Sick",
+      "url": "https://open.spotify.com/track/5bZHyKP7mcpsNwkrf7kdf1"
+    },
+    {
+      "album": {
         "name": "Sky Blue",
         "url": "https://open.spotify.com/album/0ijivbXDDTxaaG04qXvHGG"
       },
@@ -7424,6 +7442,28 @@
       "duration_ms": 162857,
       "name": "Veri",
       "url": "https://open.spotify.com/track/1JpXGQStxGBkoYWy9GAvGK"
+    },
+    {
+      "album": {
+        "name": "Vetta",
+        "url": "https://open.spotify.com/album/34aim3BW6yoqPbrW6wKECB"
+      },
+      "artists": [
+        {
+          "name": "dh",
+          "url": "https://open.spotify.com/artist/6ecrtFDwuTveo5XZcrsY00"
+        },
+        {
+          "name": "AZWIN",
+          "url": "https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165633,
+      "name": "Vetta",
+      "url": "https://open.spotify.com/track/2arPkM4TUvhePWO16doH7t"
     },
     {
       "album": {

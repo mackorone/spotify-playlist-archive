@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/72OyC97gX3XH2NtUk9BgiV">Oscar Hammerstein II \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-135 songs - 7 hr 22 min
+136 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,8 +65,9 @@
 | [Impossible Things](https://open.spotify.com/track/2gxwyopbW6ii6tDa15BKdx) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Impossible Things](https://open.spotify.com/album/2fDgMOIPVpUsIJZyw8xaJm) | 3:02 | 2024-07-26 |  |
 | [Indian Love Call](https://open.spotify.com/track/1StLytLkQVRq3q1PtfclE3) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [EMI Country Masters: 50 Originals](https://open.spotify.com/album/7JzqaIlXUcX5ncpe3iIqhU) | 3:09 | 2024-07-26 |  |
 | [It Feels Good](https://open.spotify.com/track/7CaRG77e3nxoMixd5b4zbS) | [Lilli Cooper](https://open.spotify.com/artist/61Im27379GhfbMD5LVDmlp) | [R&H Goes Pop!](https://open.spotify.com/album/6zf0YjLPz8wY6hE6RrmwkI) | 3:18 | 2024-07-26 |  |
-| [It Might As Well Be Spring](https://open.spotify.com/track/6Xdd7X7d7U3NSvsPlmgpC6) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams](https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1) | 6:04 | 2025-06-05 |  |
+| [It Might As Well Be Spring](https://open.spotify.com/track/6Xdd7X7d7U3NSvsPlmgpC6) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams](https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1) | 6:04 | 2025-06-05 | 2025-06-13 |
 | [It Might As Well Be Spring](https://open.spotify.com/track/2ErJ9mgDw6dh8IOT1Ovd0a) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc) | 6:05 | 2024-07-26 | 2025-06-06 |
+| [It Might As Well Be Spring \- Remastered 2025](https://open.spotify.com/track/4qC5KUDETGZ4AuxZrpd5df) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams \(Remastered 2025\)](https://open.spotify.com/album/1qls3z8DYxSbFlJzvL8GFa) | 6:05 | 2025-06-12 |  |
 | [June Is Bustin' Out All Over](https://open.spotify.com/track/35v2Do9CxST0n70iCTsCg9) | [Renée Fleming](https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8), ['Carousel' 2018 Broadway Cast](https://open.spotify.com/artist/44fYxkNmeiCghL4JfwfWJt) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 6:45 | 2024-07-26 |  |
 | [Kansas City](https://open.spotify.com/track/6gnfJ5EetG7MtU7Ra4Q9aM) | [Charlotte Greenwood](https://open.spotify.com/artist/1D67yo8KRNdrSM6GN7Ldev), [Gene Nelson](https://open.spotify.com/artist/76oAGFmD7Qs2MT3iqxiKN5), [Darcy M\. Proper](https://open.spotify.com/artist/2LaIJDDpfnZ333bEuONwtJ) | [Oklahoma! \(Expanded Edition/Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Wg4qjJy5oNbhJ2p5JC3P8) | 2:30 | 2024-07-26 |  |
 | [Lonely Room](https://open.spotify.com/track/5vtzs0BHkPsNSkVMtuOWm9) | [Patrick Vaill](https://open.spotify.com/artist/1cWKS6fpFeWUjlskPfZm1x) | [Oklahoma! \(2019 Broadway Cast Recording\)](https://open.spotify.com/album/3JctweW8WZzHbU8gw0J8NP) | 2:56 | 2024-07-26 |  |

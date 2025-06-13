@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 227361,
+  "num_followers": 227410,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -439,18 +439,18 @@
     {
       "added_at": "2025-05-09 06:00:08",
       "album": {
-        "name": "Pacas De Billetes",
-        "url": "https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG"
+        "name": "Voy Enfierrado",
+        "url": "https://open.spotify.com/album/6gFwSuvC9NfquGCjxAC5UB"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
         }
       ],
-      "duration_ms": 188074,
-      "name": "Pacas De Billetes",
-      "url": "https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1"
+      "duration_ms": 147500,
+      "name": "Voy Enfierrado",
+      "url": "https://open.spotify.com/track/39uJGraTSq4lC6UGfCLGm2"
     },
     {
       "added_at": "2025-05-09 06:00:08",
@@ -475,18 +475,18 @@
     {
       "added_at": "2025-05-09 06:00:08",
       "album": {
-        "name": "Voy Enfierrado",
-        "url": "https://open.spotify.com/album/6gFwSuvC9NfquGCjxAC5UB"
+        "name": "Pacas De Billetes",
+        "url": "https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG"
       },
       "artists": [
         {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 147500,
-      "name": "Voy Enfierrado",
-      "url": "https://open.spotify.com/track/39uJGraTSq4lC6UGfCLGm2"
+      "duration_ms": 188074,
+      "name": "Pacas De Billetes",
+      "url": "https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1"
     },
     {
       "added_at": "2025-05-09 06:00:08",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-05-09 06:00:08",
       "album": {
-        "name": "Vaya Vaya",
-        "url": "https://open.spotify.com/album/26r1WFenx1zV0HT28AwLaE"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 185236,
-      "name": "Vaya Vaya",
-      "url": "https://open.spotify.com/track/2kTYr1MEn7lzybRudQpmWx"
-    },
-    {
-      "added_at": "2025-05-09 06:00:08",
-      "album": {
         "name": "Cypher",
         "url": "https://open.spotify.com/album/74MnBAt8ADj9XZjmUiro9f"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 482926,
       "name": "Cypher",
       "url": "https://open.spotify.com/track/0M8HCM6ztBgsF150J7oCBt"
+    },
+    {
+      "added_at": "2025-05-09 06:00:08",
+      "album": {
+        "name": "Vaya Vaya",
+        "url": "https://open.spotify.com/album/26r1WFenx1zV0HT28AwLaE"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 185236,
+      "name": "Vaya Vaya",
+      "url": "https://open.spotify.com/track/2kTYr1MEn7lzybRudQpmWx"
     },
     {
       "added_at": "2025-05-09 06:00:08",
@@ -1099,6 +1099,30 @@
     {
       "added_at": "2025-05-09 06:00:08",
       "album": {
+        "name": "El Gabacho",
+        "url": "https://open.spotify.com/album/0LKe7YF4Yozxq5Z75jhAsq"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 162617,
+      "name": "El Gabacho",
+      "url": "https://open.spotify.com/track/6jhSG6DQqih3islx9pQCB5"
+    },
+    {
+      "added_at": "2025-05-09 06:00:08",
+      "album": {
         "name": "TUY",
         "url": "https://open.spotify.com/album/0NDnj55CvMmYgEAA2ei3JA"
       },
@@ -1123,30 +1147,6 @@
       "duration_ms": 270575,
       "name": "TUY",
       "url": "https://open.spotify.com/track/7IQB5Jkkf8bKW6BDdEu97N"
-    },
-    {
-      "added_at": "2025-05-09 06:00:08",
-      "album": {
-        "name": "El Gabacho",
-        "url": "https://open.spotify.com/album/0LKe7YF4Yozxq5Z75jhAsq"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 162617,
-      "name": "El Gabacho",
-      "url": "https://open.spotify.com/track/6jhSG6DQqih3islx9pQCB5"
     },
     {
       "added_at": "2025-05-09 06:00:08",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2025-05-09 06:00:08",
       "album": {
+        "name": "Viaje Sin Equipaje",
+        "url": "https://open.spotify.com/album/1hMgjMW8QVjaonxMQvyeVw"
+      },
+      "artists": [
+        {
+          "name": "Mr. Yosie Locote",
+          "url": "https://open.spotify.com/artist/0Dek2t04zGDa5wisG7oYrR"
+        }
+      ],
+      "duration_ms": 255843,
+      "name": "Entrada Sin Salida",
+      "url": "https://open.spotify.com/track/41ODYgrsIOEW21A3RqB5ZK"
+    },
+    {
+      "added_at": "2025-05-09 06:00:08",
+      "album": {
         "name": "Babidibu",
         "url": "https://open.spotify.com/album/0X9zpkXM3M3O6eiUiiHjbB"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 187500,
       "name": "Babidibu",
       "url": "https://open.spotify.com/track/6LnmSU2dxwrPLtCL2EWxka"
-    },
-    {
-      "added_at": "2025-05-09 06:00:08",
-      "album": {
-        "name": "Viaje Sin Equipaje",
-        "url": "https://open.spotify.com/album/1hMgjMW8QVjaonxMQvyeVw"
-      },
-      "artists": [
-        {
-          "name": "Mr. Yosie Locote",
-          "url": "https://open.spotify.com/artist/0Dek2t04zGDa5wisG7oYrR"
-        }
-      ],
-      "duration_ms": 255843,
-      "name": "Entrada Sin Salida",
-      "url": "https://open.spotify.com/track/41ODYgrsIOEW21A3RqB5ZK"
     },
     {
       "added_at": "2025-05-09 06:00:08",
@@ -1687,6 +1687,26 @@
     {
       "added_at": "2025-05-09 06:00:08",
       "album": {
+        "name": "A la puta orden",
+        "url": "https://open.spotify.com/album/2LjM09NO3Y96chQjYDgGP6"
+      },
+      "artists": [
+        {
+          "name": "Capotes",
+          "url": "https://open.spotify.com/artist/5UO8LWE2yyh4f6Xp1hUmev"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        }
+      ],
+      "duration_ms": 156721,
+      "name": "A la puta orden",
+      "url": "https://open.spotify.com/track/7EcW65aV9P6IVNCH9OM4ad"
+    },
+    {
+      "added_at": "2025-05-09 06:00:08",
+      "album": {
         "name": "El 3",
         "url": "https://open.spotify.com/album/6gtATD4kCcrjfnYSchrG0M"
       },
@@ -1727,22 +1747,18 @@
     {
       "added_at": "2025-05-09 06:00:08",
       "album": {
-        "name": "A la puta orden",
-        "url": "https://open.spotify.com/album/2LjM09NO3Y96chQjYDgGP6"
+        "name": "ONDEADO$",
+        "url": "https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK"
       },
       "artists": [
         {
-          "name": "Capotes",
-          "url": "https://open.spotify.com/artist/5UO8LWE2yyh4f6Xp1hUmev"
-        },
-        {
-          "name": "Joel De La P",
-          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 156721,
-      "name": "A la puta orden",
-      "url": "https://open.spotify.com/track/7EcW65aV9P6IVNCH9OM4ad"
+      "duration_ms": 149318,
+      "name": "TOTO",
+      "url": "https://open.spotify.com/track/4x9Uk4DzCGMUyfiKOw42bC"
     },
     {
       "added_at": "2025-05-09 06:00:08",
@@ -1767,38 +1783,6 @@
     {
       "added_at": "2025-05-09 06:00:08",
       "album": {
-        "name": "ONDEADO$",
-        "url": "https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 149318,
-      "name": "TOTO",
-      "url": "https://open.spotify.com/track/4x9Uk4DzCGMUyfiKOw42bC"
-    },
-    {
-      "added_at": "2025-05-09 06:00:08",
-      "album": {
-        "name": "El Plumas",
-        "url": "https://open.spotify.com/album/6zPgYlO6CbiU3WgfBFPVRu"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "El Plumas",
-      "url": "https://open.spotify.com/track/2eXZHfhHse8aPv5G6pIL7t"
-    },
-    {
-      "added_at": "2025-05-09 06:00:08",
-      "album": {
         "name": "Se Rumora",
         "url": "https://open.spotify.com/album/7pYSDOHmFBIwXSD8fjgElh"
       },
@@ -1815,18 +1799,18 @@
     {
       "added_at": "2025-05-09 06:00:08",
       "album": {
-        "name": "Cementerio De Raperos",
-        "url": "https://open.spotify.com/album/1YsMsdZg7RB9eYHhW8fi3h"
+        "name": "El Plumas",
+        "url": "https://open.spotify.com/album/6zPgYlO6CbiU3WgfBFPVRu"
       },
       "artists": [
         {
-          "name": "TREN LOKOTE",
-          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
         }
       ],
-      "duration_ms": 238210,
-      "name": "Corren Con Suerte",
-      "url": "https://open.spotify.com/track/68q0aAYzOkB3q3ahb11cYx"
+      "duration_ms": 161684,
+      "name": "El Plumas",
+      "url": "https://open.spotify.com/track/2eXZHfhHse8aPv5G6pIL7t"
     },
     {
       "added_at": "2025-05-09 06:00:08",
@@ -1851,6 +1835,22 @@
     {
       "added_at": "2025-05-09 06:00:08",
       "album": {
+        "name": "Cementerio De Raperos",
+        "url": "https://open.spotify.com/album/1YsMsdZg7RB9eYHhW8fi3h"
+      },
+      "artists": [
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        }
+      ],
+      "duration_ms": 238210,
+      "name": "Corren Con Suerte",
+      "url": "https://open.spotify.com/track/68q0aAYzOkB3q3ahb11cYx"
+    },
+    {
+      "added_at": "2025-05-09 06:00:08",
+      "album": {
         "name": "El De La Letra B (Remix)",
         "url": "https://open.spotify.com/album/6zlhI5c5nNI1T7RxRIj7rd"
       },
@@ -1867,6 +1867,22 @@
       "duration_ms": 191400,
       "name": "El De La Letra B (Remix)",
       "url": "https://open.spotify.com/track/1PLXWZh44pL4f3hQ7YO4g4"
+    },
+    {
+      "added_at": "2025-05-09 06:00:08",
+      "album": {
+        "name": "Fe",
+        "url": "https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Fe",
+      "url": "https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1"
     },
     {
       "added_at": "2025-05-09 06:00:08",
@@ -1895,22 +1911,6 @@
       "duration_ms": 289913,
       "name": "So High",
       "url": "https://open.spotify.com/track/07V6yFnZ8a6N35IzuIsUGl"
-    },
-    {
-      "added_at": "2025-05-09 06:00:08",
-      "album": {
-        "name": "Fe",
-        "url": "https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Fe",
-      "url": "https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1"
     },
     {
       "added_at": "2025-05-09 06:00:08",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2025-05-09 06:00:08",
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/4AcTenx2Op3VL7XJ4zRLjl"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 206645,
+      "name": "7",
+      "url": "https://open.spotify.com/track/4xrsV0Sy36rxEYoyDoz11a"
+    },
+    {
+      "added_at": "2025-05-09 06:00:08",
+      "album": {
         "name": "Tenis Jordan",
         "url": "https://open.spotify.com/album/2dJbpugovzlI5ITCPdF9GJ"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 149962,
       "name": "Tenis Jordan",
       "url": "https://open.spotify.com/track/3vwq2eAsQFDyhwJvlVtC09"
-    },
-    {
-      "added_at": "2025-05-09 06:00:08",
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/4AcTenx2Op3VL7XJ4zRLjl"
-      },
-      "artists": [
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 206645,
-      "name": "7",
-      "url": "https://open.spotify.com/track/4xrsV0Sy36rxEYoyDoz11a"
     },
     {
       "added_at": "2025-05-09 06:00:08",

@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 559279,
+  "num_followers": 559306,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "Melukis Senja",
-        "url": "https://open.spotify.com/album/0jLBLt7jIjOz5n3jDiL2zn"
-      },
-      "artists": [
-        {
-          "name": "Budi Doremi",
-          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
-        }
-      ],
-      "duration_ms": 251119,
-      "name": "Melukis Senja",
-      "url": "https://open.spotify.com/track/0ZEYRVISCaqz5yamWZWzaA"
-    },
-    {
-      "added_at": "2025-05-05 23:09:10",
-      "album": {
         "name": "Asmalibrasi",
         "url": "https://open.spotify.com/album/1geFjIWLQNCKO0Y7uB2Xlw"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 254862,
       "name": "Asmalibrasi",
       "url": "https://open.spotify.com/track/3TFdXrYIubXABQh0CxIiSs"
+    },
+    {
+      "added_at": "2025-05-05 23:09:10",
+      "album": {
+        "name": "Melukis Senja",
+        "url": "https://open.spotify.com/album/0jLBLt7jIjOz5n3jDiL2zn"
+      },
+      "artists": [
+        {
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+        }
+      ],
+      "duration_ms": 251119,
+      "name": "Melukis Senja",
+      "url": "https://open.spotify.com/track/0ZEYRVISCaqz5yamWZWzaA"
     },
     {
       "added_at": "2025-05-05 23:09:10",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "Sedang Sayang Sayangnya",
-        "url": "https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9"
-      },
-      "artists": [
-        {
-          "name": "Mawar de Jongh",
-          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
-        }
-      ],
-      "duration_ms": 261030,
-      "name": "Sedang Sayang Sayangnya",
-      "url": "https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm"
-    },
-    {
-      "added_at": "2025-05-05 23:09:10",
-      "album": {
         "name": "Ada Apa Dengan Cinta? (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0CXcKhEEmqlMXPS5iPErte"
       },
@@ -1147,34 +1131,18 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "semua, semua.",
-        "url": "https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49"
+        "name": "Sedang Sayang Sayangnya",
+        "url": "https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9"
       },
       "artists": [
         {
-          "name": "Teddy Adhitya",
-          "url": "https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY"
+          "name": "Mawar de Jongh",
+          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
         }
       ],
-      "duration_ms": 201479,
-      "name": "Kembalikanku",
-      "url": "https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5"
-    },
-    {
-      "added_at": "2025-05-05 23:09:10",
-      "album": {
-        "name": "Gajah",
-        "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 239466,
-      "name": "Gajah",
-      "url": "https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf"
+      "duration_ms": 261030,
+      "name": "Sedang Sayang Sayangnya",
+      "url": "https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm"
     },
     {
       "added_at": "2025-05-05 23:09:10",
@@ -1195,6 +1163,22 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
+        "name": "Gajah",
+        "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 239466,
+      "name": "Gajah",
+      "url": "https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf"
+    },
+    {
+      "added_at": "2025-05-05 23:09:10",
+      "album": {
         "name": "DIA",
         "url": "https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 207490,
       "name": "Dia - Hits Single",
       "url": "https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg"
+    },
+    {
+      "added_at": "2025-05-05 23:09:10",
+      "album": {
+        "name": "semua, semua.",
+        "url": "https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49"
+      },
+      "artists": [
+        {
+          "name": "Teddy Adhitya",
+          "url": "https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY"
+        }
+      ],
+      "duration_ms": 201479,
+      "name": "Kembalikanku",
+      "url": "https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5"
     },
     {
       "added_at": "2025-05-05 23:09:10",

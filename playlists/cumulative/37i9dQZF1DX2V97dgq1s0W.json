@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "The best voices in R&B. Cover: Shae Universe",
+  "description": "The best voices in R&B. Cover: Kehlani",
   "name": "Riffs & Runs",
   "tracks": [
     {
@@ -1641,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "Deus Deus",
+        "url": "https://open.spotify.com/album/24nI20pGu764BE49WzxMqn"
+      },
+      "artists": [
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243232,
+      "name": "Deus Deus",
+      "url": "https://open.spotify.com/track/3EYBLxkleuaZO5Q24Lhm8b"
+    },
+    {
+      "album": {
         "name": "Different Ways",
         "url": "https://open.spotify.com/album/42Y8CqoFNq9mVyzGIVjb0Z"
       },
@@ -2336,6 +2354,24 @@
       "duration_ms": 157606,
       "name": "Fold",
       "url": "https://open.spotify.com/track/5PeH63iIPRhJ8PH1NYU7VP"
+    },
+    {
+      "album": {
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
     },
     {
       "album": {
@@ -3844,7 +3880,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 254500,
       "name": "je t'aime",
       "url": "https://open.spotify.com/track/6ece0xc9lHmLC7C0nEcbql"
@@ -4629,6 +4665,24 @@
     },
     {
       "album": {
+        "name": "Luvhiii",
+        "url": "https://open.spotify.com/album/7Kz00oH0yPQZ4IlYaBH3te"
+      },
+      "artists": [
+        {
+          "name": "CARI",
+          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183908,
+      "name": "Luvhiii",
+      "url": "https://open.spotify.com/track/1eR3CaVELn0OBPQnUTAS99"
+    },
+    {
+      "album": {
         "name": "Mad At Fire",
         "url": "https://open.spotify.com/album/42wSOecTzWrjEUke9JPLYz"
       },
@@ -4826,6 +4880,24 @@
       "duration_ms": 160941,
       "name": "MET YOU AT A BAR",
       "url": "https://open.spotify.com/track/1tqDKxcXd2dlni26L3BGQ3"
+    },
+    {
+      "album": {
+        "name": "Midnight Calls",
+        "url": "https://open.spotify.com/album/0JogIhJJds1bQ7T5D4Ck3p"
+      },
+      "artists": [
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165133,
+      "name": "Midnight Calls",
+      "url": "https://open.spotify.com/track/6AFBfuZXOzSfwcMx3ZhBYt"
     },
     {
       "album": {
@@ -5244,7 +5316,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 173445,
       "name": "NIGHT OFF",
       "url": "https://open.spotify.com/track/7c3YkPGBLWhqhLwbUHSInq"
@@ -7486,7 +7558,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 185340,
       "name": "Straight Outta Heaven",
       "url": "https://open.spotify.com/track/0T3mL97rtfvJq89UtWwVUC"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,395 likes - 115 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,385 likes - 115 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 114 | [Oddly Enough](https://open.spotify.com/track/0wTRA4l4kRHoG7qR29vvXi) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s), [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [Oddly Enough](https://open.spotify.com/album/2mwK3K2XDwk1U0umEjtS9b) | 2:45 |
 | 115 | [king of loathing](https://open.spotify.com/track/0615nSzOQDbLH9FvlYm5NI) | [Jonah Zed](https://open.spotify.com/artist/4mPkv3XVHp9mMeSXp5Ix3D) | [king of loathing](https://open.spotify.com/album/2kTnPqYQxVZpF3Y2UQEPQr) | 2:45 |
 
-Snapshot ID: `aEJn3QAAAACfensyhOn++7P1bysdnfGR`
+Snapshot ID: `aEJn3QAAAACPssHSW7WVfLEZ7I3ARmGT`

@@ -2,9 +2,9 @@
 
 ### [Tantalizers](https://open.spotify.com/playlist/37i9dQZF1DWU4DdJqbjPl5)
 
-> Sweet R&B straight out of Africa\. Cover: Odeal
+> Sweet R&B straight out of Africa\. Cover: Ckay
 
-445 songs - 23 hr 35 min
+448 songs - 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Bom Bom](https://open.spotify.com/track/3urVvgxwqxKq8u3W7BRv2V) | [Batida](https://open.spotify.com/artist/5rILRopfIgqH4Cg6Ean6AJ), [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Bom Bom](https://open.spotify.com/album/0dBepsBCGwswPMvZHM6G68) | 3:32 | 2022-04-21 | 2022-05-06 |
 | [Borderline](https://open.spotify.com/track/1ETbyYXz3tUyFj9VRMGsEQ) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [All Things Considered](https://open.spotify.com/album/3dXzrmCSb1CHRz8HgyWvyP) | 2:50 | 2023-11-17 | 2024-11-16 |
 | [Bounce](https://open.spotify.com/track/3mUr3rVSJMJxceAjxjSx0v) | [Bu$h](https://open.spotify.com/artist/0ERc2vuRyMs0kb3NYeDddB), [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Bounce](https://open.spotify.com/album/3pD7Y7svoHpLchyLhRQpTm) | 2:39 | 2023-07-28 | 2023-08-19 |
+| [Break](https://open.spotify.com/track/1LtKgnc7y3jW4bkkYozDDc) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Break](https://open.spotify.com/album/701nJOG1dAwQ0VYSGk3zbt) | 2:10 | 2025-06-13 |  |
 | [Break Up](https://open.spotify.com/track/2HC8oDukA9GvcWG5MuGYde) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [IN CASE I NEVER LOVE AGAIN \( ICINLA\)](https://open.spotify.com/album/0xJWHpLQZOiOKoDzqquHfY) | 3:02 | 2023-09-08 | 2024-05-17 |
 | [Brother](https://open.spotify.com/track/73TXPbn1vLdwrrNQWk3fNv) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [Brother](https://open.spotify.com/album/4DXnR0oW1CDZvCPeWFMyZp) | 2:07 | 2023-02-03 | 2023-02-17 |
 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 | 2024-06-07 | 2025-02-27 |
@@ -139,6 +140,7 @@
 | [For Instance](https://open.spotify.com/track/6XDYFPMwh47JiW3kw2bRPJ) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Afro Love](https://open.spotify.com/album/47yVcEG8F7rWJa27vuwKK7) | 3:24 | 2023-12-08 | 2024-02-23 |
 | [For Keeps \- A COLORS SHOW](https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [For Keeps \- A COLORS SHOW](https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3) | 4:14 | 2023-10-20 | 2024-03-22 |
 | [Forever](https://open.spotify.com/track/5pGbQzcWqT5HarQDNpgVfa) | [Andi K](https://open.spotify.com/artist/2kB03CmhDTWP3asDmD2iYB), [Shizzi](https://open.spotify.com/artist/1247AZNYLxb33DmPibFLZZ), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Forever](https://open.spotify.com/album/2JuPCMHU5tQwYVTjOWCeLF) | 2:52 | 2022-05-19 | 2023-03-04 |
+| [forever](https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:48 | 2025-06-13 |  |
 | [Forever](https://open.spotify.com/track/2EgxDtfxpFZ8hZnbahDSET) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed](https://open.spotify.com/album/75jkFBsbmjHIWGUUNbyDEG) | 3:16 | 2021-02-02 | 2022-07-29 |
 | [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 | 2022-06-08 | 2022-12-10 |
 | [Forgiveness](https://open.spotify.com/track/07OJogL5UIkQJSMsrheV8S) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Forgiveness](https://open.spotify.com/album/0M6PAfVvTAVT9uUtYDiOd9) | 3:20 | 2024-10-18 |  |
@@ -203,6 +205,7 @@
 | [Jeje de Whine](https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:56 | 2021-02-12 | 2023-05-26 |
 | [Jioni](https://open.spotify.com/track/5QSs2eM32gab8J9yjp2O8w) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm), [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn) | [Jioni](https://open.spotify.com/album/2KLjotalInooY3FMPxYnFD) | 3:54 | 2023-10-30 | 2023-11-08 |
 | [Jolene](https://open.spotify.com/track/4GWR0LR2akpQlE8HnxvSIO) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Growing Pains \(Deluxe\)](https://open.spotify.com/album/47EX0L1oFrF9x13M3VhuxG) | 3:02 | 2024-05-16 |  |
+| [June 10th](https://open.spotify.com/track/35U4EeFkCLtMa1X2fYQeOa) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [June 10th](https://open.spotify.com/album/4m2ponq6PJcf9EbDefBuSi) | 5:11 | 2025-06-13 |  |
 | [Just The Start](https://open.spotify.com/track/683EhjBwGmcv23ezqCM22h) | [Tshego](https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY) | [Just The Start](https://open.spotify.com/album/6CPhshx8dpeoUO3BZXImCx) | 2:04 | 2023-07-28 | 2023-10-13 |
 | [Ke Shy](https://open.spotify.com/track/71X7xhERhWY7k4I2ST3A1F) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [LuuDaDeejay](https://open.spotify.com/artist/1XoIF7wcOtFdQdB6vJQumb), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Piano Republik](https://open.spotify.com/album/5ggKabvYHoNLEyl3x5K4iZ) | 3:19 | 2023-03-24 | 2023-06-03 |
 | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/10e10z7qzDZsbYZmpYEjSk) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/album/1GA9gJhtTUzphoApmbgjPR) | 2:22 | 2023-10-27 | 2023-10-29 |

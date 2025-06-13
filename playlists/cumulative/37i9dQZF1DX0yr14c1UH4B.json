@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Songwriters and storytellers. Cover: dodie",
+  "description": "Songwriters and storytellers. Cover: Henry Moodie",
   "name": "Common Thread",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 209352,
       "name": "A Wonder Day",
       "url": "https://open.spotify.com/track/4vu2cZ7d1Etx43jmQJWyO2"
@@ -979,6 +979,24 @@
     },
     {
       "album": {
+        "name": "comedown",
+        "url": "https://open.spotify.com/album/4r6XmJdluBTzkNjYtR3ABh"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192684,
+      "name": "comedown",
+      "url": "https://open.spotify.com/track/0WP2mSrYIXEy2poZkAWlNZ"
+    },
+    {
+      "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd"
       },
@@ -1269,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "Different Kind Of Love",
+        "url": "https://open.spotify.com/album/3lGbBlPUeNyxU52Nm5gpdz"
+      },
+      "artists": [
+        {
+          "name": "Tom Gregory",
+          "url": "https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172501,
+      "name": "Different Kind Of Love",
+      "url": "https://open.spotify.com/track/24OSstaojKavFMAad7CHBb"
+    },
+    {
+      "album": {
         "name": "Disease",
         "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
       },
@@ -1539,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "Faithless / Zombie",
+        "url": "https://open.spotify.com/album/6OkJDLKDLH070r4A5DMprA"
+      },
+      "artists": [
+        {
+          "name": "Lewis Fitzgerald",
+          "url": "https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148636,
+      "name": "Faithless",
+      "url": "https://open.spotify.com/track/768a7GSLHgCj4DxvT830mT"
+    },
+    {
+      "album": {
         "name": "Fall on Me",
         "url": "https://open.spotify.com/album/3WFSscg1CmMws760Eir9Ot"
       },
@@ -1684,6 +1738,24 @@
       "duration_ms": 237803,
       "name": "feelslikeimfallinginlove",
       "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
+    },
+    {
+      "album": {
+        "name": "Fight Another Day",
+        "url": "https://open.spotify.com/album/1yxHJXbOkOHEjYDbICbzte"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217106,
+      "name": "Fight Another Day",
+      "url": "https://open.spotify.com/track/6l9q6QHzBIoB9MXfKoUdSB"
     },
     {
       "album": {
@@ -1872,7 +1944,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 186279,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/6IKCMumLb0Cnx7hGv3YEHV"
@@ -2546,7 +2618,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 183360,
       "name": "Hurting You",
       "url": "https://open.spotify.com/track/09G3T3EqlxcgLC7l0UN8qR"
@@ -2640,7 +2712,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 155348,
       "name": "I Need Your Love",
       "url": "https://open.spotify.com/track/37CUEej3GEv0U8wkx8wP5h"
@@ -2886,7 +2958,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 237800,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/3WmIuCSpJT6oBeHOYqGlIB"
@@ -2944,6 +3016,32 @@
       "duration_ms": 190705,
       "name": "James",
       "url": "https://open.spotify.com/track/6NPiQiMsP3aJoVHO9eYXfv"
+    },
+    {
+      "album": {
+        "name": "Jesus and John Wayne",
+        "url": "https://open.spotify.com/album/6cL8bwrPovKoz1omsUCwKd"
+      },
+      "artists": [
+        {
+          "name": "googly eyes",
+          "url": "https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242625,
+      "name": "Jesus and John Wayne",
+      "url": "https://open.spotify.com/track/6okV8XV4EFSxpVnP0zM2vF"
     },
     {
       "album": {
@@ -3250,7 +3348,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 223624,
       "name": "Likeable",
       "url": "https://open.spotify.com/track/6FZDnWB0T4D8it98dfhOkO"
@@ -4250,6 +4348,24 @@
       "duration_ms": 256236,
       "name": "People Help the People",
       "url": "https://open.spotify.com/track/0ia0JAsndEIZ268L3phuUa"
+    },
+    {
+      "album": {
+        "name": "People, Places and Things",
+        "url": "https://open.spotify.com/album/59t5ZqnKCDq2kD6T7SL3zp"
+      },
+      "artists": [
+        {
+          "name": "Sonny Tennet",
+          "url": "https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204431,
+      "name": "People, Places and Things",
+      "url": "https://open.spotify.com/track/0I34I6v9Va1L4cLFaUc8we"
     },
     {
       "album": {
@@ -5870,7 +5986,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 262092,
       "name": "There's Got To Be A Loser Babe",
       "url": "https://open.spotify.com/track/6qdB5pR2ycNZYLPnmzxfA0"

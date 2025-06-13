@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 202107,
+  "num_followers": 202139,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEd1gAAAAAD6lQiv5JDf2wzrbAF4jSIX",
+  "snapshot_id": "aEjHAAAAAACfBApKagrznQwjne7TaxsC",
   "tracks": [
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shit Masiva",
-        "url": "https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78"
-      },
-      "artists": [
-        {
-          "name": "Sauceda SM",
-          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 336065,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/14DnBCbmd2ANhAfUDWL9LM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Jale Vale",
         "url": "https://open.spotify.com/album/6yhtC7PRmrYg3idBB7I3sx"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 174708,
       "name": "Mi Jale Vale",
       "url": "https://open.spotify.com/track/1iDBvtahnuXFaLit47gZ3h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shit Masiva",
+        "url": "https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78"
+      },
+      "artists": [
+        {
+          "name": "Sauceda SM",
+          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 336065,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/14DnBCbmd2ANhAfUDWL9LM"
     },
     {
       "added_at": null,
@@ -959,6 +959,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soy Cholo",
+        "url": "https://open.spotify.com/album/4RgybiJMrJuEW8hHVQPiym"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Mr. Capone-E",
+          "url": "https://open.spotify.com/artist/3BG9cpTxZQzQChcsp7ss9a"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Soy Cholo",
+      "url": "https://open.spotify.com/track/68AHNHGRvvVPkhATYlSwrY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Click Clack",
         "url": "https://open.spotify.com/album/5rHtSYUHWTm6Jr76MVeGAE"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 178461,
       "name": "Click Clack",
       "url": "https://open.spotify.com/track/0YCWXhQ8rSi03cHRD4UTm6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soy Cholo",
-        "url": "https://open.spotify.com/album/4RgybiJMrJuEW8hHVQPiym"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Mr. Capone-E",
-          "url": "https://open.spotify.com/artist/3BG9cpTxZQzQChcsp7ss9a"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Soy Cholo",
-      "url": "https://open.spotify.com/track/68AHNHGRvvVPkhATYlSwrY"
     }
   ],
   "unique_name": "This Is Lefty Sm",

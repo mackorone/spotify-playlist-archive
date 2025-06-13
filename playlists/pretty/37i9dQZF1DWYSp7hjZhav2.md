@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,108 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,128 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 49 | [Day 'N' Night](https://open.spotify.com/track/1zwRpZQb4XA0ARgodmAGL2) | [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [Day 'N' Night](https://open.spotify.com/album/4d0wAKNT8j7yA81BxRHQXm) | 3:36 |
 | 50 | [So Good \(GENESI Remix\)](https://open.spotify.com/track/6Vmw2zW2cchWRSySsljAUo) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [So Good \(GENESI Remix\)](https://open.spotify.com/album/7viGWiOQfiq8KXYlKgGQtu) | 3:02 |
 
-Snapshot ID: `aDm68QAAAABnRuFa5JrSuWntPOWaDCTB`
+Snapshot ID: `aDm68QAAAABbM5A8rQnKEfadAKrMVblm`

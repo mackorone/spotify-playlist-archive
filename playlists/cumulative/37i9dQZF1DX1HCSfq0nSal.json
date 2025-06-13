@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Quevedo, Myke Towers",
+  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Saiko, Omar Courtz",
   "name": "PEGAO",
   "tracks": [
     {
@@ -794,7 +794,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 161311,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/3FKwkGb7Cd96TiXgv69dNc"
@@ -5995,6 +5995,32 @@
     },
     {
       "album": {
+        "name": "Forni",
+        "url": "https://open.spotify.com/album/6vhQ99LYb0p4wNzGYSL7nj"
+      },
+      "artists": [
+        {
+          "name": "Los Ballers",
+          "url": "https://open.spotify.com/artist/5P6cHh4NtlZIaRKDHji2fY"
+        },
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203265,
+      "name": "Forni",
+      "url": "https://open.spotify.com/track/5gQETwG8CDF63RZx91nO2Z"
+    },
+    {
+      "album": {
         "name": "Ya Casi Vienen",
         "url": "https://open.spotify.com/album/1yENOcHrdeylQ4Mjy1DQJX"
       },
@@ -6953,6 +6979,24 @@
     },
     {
       "album": {
+        "name": "FERXXO VOL X: Sagrado",
+        "url": "https://open.spotify.com/album/3PfMmFVUx9oJUFvnDf76Iz"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229450,
+      "name": "I MIXX U",
+      "url": "https://open.spotify.com/track/55YBw0f9BWWKSTAh0oUADW"
+    },
+    {
+      "album": {
         "name": "IA",
         "url": "https://open.spotify.com/album/3DXj5cbdAXHzjG9Yy2rDn3"
       },
@@ -7386,7 +7430,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 179727,
       "name": "KELOIDE",
       "url": "https://open.spotify.com/track/0Nd6eq8BzjMnyq9f37QuUW"
@@ -8740,6 +8784,28 @@
       "duration_ms": 199148,
       "name": "Loco Por Perrearte - Remix",
       "url": "https://open.spotify.com/track/0vHfVsEe6Ps0d8cZ9PGzSw"
+    },
+    {
+      "album": {
+        "name": "LOKENECESITAS",
+        "url": "https://open.spotify.com/album/4m9XAqcQFEEmZM9F3ePRhM"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200606,
+      "name": "LOKENECESITAS",
+      "url": "https://open.spotify.com/track/58DGexVv1NdVbkiudUNi1Z"
     },
     {
       "album": {
@@ -10534,7 +10600,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 283200,
       "name": "Natural - Remix",
       "url": "https://open.spotify.com/track/5kYYpK0UaX925YBm6wKjV1"

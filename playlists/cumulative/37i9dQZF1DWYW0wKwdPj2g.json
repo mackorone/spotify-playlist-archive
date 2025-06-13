@@ -3881,6 +3881,28 @@
     },
     {
       "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/2VeoT5lhd5WAE2YYri6ZqL"
+      },
+      "artists": [
+        {
+          "name": "Oncemore Six",
+          "url": "https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd"
+        },
+        {
+          "name": "The Remnant",
+          "url": "https://open.spotify.com/artist/1hpPyofpQgZVXFftbcehka"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 678253,
+      "name": "The Reason - Live",
+      "url": "https://open.spotify.com/track/6lWEDYrm4CXpfMCHYQOu9n"
+    },
+    {
+      "album": {
         "name": "The River of God (Spontaneous Worship)",
         "url": "https://open.spotify.com/album/5zIhyUluaJE2VEOTW95ofy"
       },
@@ -4614,7 +4636,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 912311,
       "name": "You Are Good (Ulungile)",
       "url": "https://open.spotify.com/track/0xZUjAyA70MKOGSfmvpFJV"

@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Marioo
 
-553 songs - 1 day 7 hr 37 min
+554 songs - 1 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,7 @@
 | [Nisha Mpenda](https://open.spotify.com/track/1UQfdQIYiu4Ogj7SOWBTJf) | [Swallah Boy](https://open.spotify.com/artist/28zsrbRGqavxYLzkVF03cX) | [Nisha Mpenda](https://open.spotify.com/album/0OzmP1AOTb9zZPHsr4mvm8) | 3:27 | 2022-08-26 | 2023-03-25 |
 | [Nishazama](https://open.spotify.com/track/3fG8h0OYj0mcPr1pY4a3xm) | [Marry G](https://open.spotify.com/artist/4a2pfrraFdyyLThW3OECWb) | [Nishazama](https://open.spotify.com/album/0aN6E9LOov8eZ6daNph6Sc) | 2:28 | 2022-07-14 | 2022-10-08 |
 | [Nisiulizwe](https://open.spotify.com/track/0CLSneXYlfGvzuzDQeCiao) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Nisiulizwe](https://open.spotify.com/album/0hM3BzYlQs3FyZQxwZdhpv) | 3:09 | 2024-02-29 | 2025-05-23 |
-| [Nitadumu Nae](https://open.spotify.com/track/0BP9o03jFihRWj5aDrBYE2) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Nitadumu Nae](https://open.spotify.com/album/3t9HBzFxZqDGqRMX26xp02) | 3:33 | 2024-09-13 |  |
+| [Nitadumu Nae](https://open.spotify.com/track/0BP9o03jFihRWj5aDrBYE2) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Nitadumu Nae](https://open.spotify.com/album/3t9HBzFxZqDGqRMX26xp02) | 3:33 | 2024-09-13 | 2025-06-13 |
 | [Nitakupa](https://open.spotify.com/track/79ilLvcinGIqD9CeSUUYm1) | [Ommy Dimpoz](https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6), [JayMelody](https://open.spotify.com/artist/2T6mipUPubjCouqrtAaUBG) | [Nitakupa](https://open.spotify.com/album/2CeQlFXOovISRavFS0Nkuc) | 3:08 | 2024-09-27 | 2025-05-30 |
 | [Nitalia](https://open.spotify.com/track/0qLJfBbQLvgCBPSW4uGHfB) | [macb](https://open.spotify.com/artist/2OLLh3zh1ps2uj4ZbLLUQS), [Moni Centrozone](https://open.spotify.com/artist/4J9pax1Vo3sb2nhlA1B5wZ) | [Nitalia](https://open.spotify.com/album/7kqrfkGS4YtIhjhImKhBBK) | 2:47 | 2023-07-27 | 2023-11-03 |
 | [Nitambe](https://open.spotify.com/track/2jRdiYR17iX28FOumqhCxl) | [Dayoo](https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Nitambe](https://open.spotify.com/album/6HAEhqWqMwSDTbTfgelysi) | 3:38 | 2024-06-07 | 2024-10-11 |
@@ -383,6 +383,7 @@
 | [Papapu](https://open.spotify.com/track/6kEvmo6uQopt9H1qacjSTx) | [Chino Kidd](https://open.spotify.com/artist/2EuodBUTVs5DBUkauhlsnm), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Papapu](https://open.spotify.com/album/5vdqcmLs5OOvJzv0vilk09) | 4:36 | 2022-07-21 | 2023-03-11 |
 | [Party](https://open.spotify.com/track/7a2B83pFQkhzybYiCvrRRp) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Party](https://open.spotify.com/album/54xivw4zmylA1uKdmCDAMf) | 3:10 | 2021-11-25 | 2022-09-02 |
 | [Patner](https://open.spotify.com/track/6ixAPbmYQlLFCoAPmP2B7V) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Patner](https://open.spotify.com/album/4UAtnHrk1pGKChx5NDsSGe) | 3:25 | 2024-06-20 | 2024-08-16 |
+| [Pawa](https://open.spotify.com/track/51TVoZ4d09tedi9Z8iSX5r) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Room Number 3](https://open.spotify.com/album/17L4x88dKSyBVnvYpgMzVY) | 3:46 | 2025-06-12 |  |
 | [Pele Pele](https://open.spotify.com/track/3jlFv5sxExswhKsgOKVay0) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Luana Vjollca](https://open.spotify.com/artist/2pF2CPS9lzI3U0ABZk6ZBy) | [Pele Pele](https://open.spotify.com/album/0spgH5Pa0eR3hBH9zotjek) | 2:27 | 2022-07-22 | 2023-02-10 |
 | [Pepetua](https://open.spotify.com/track/3Z95wyyd0RAwqWpHKG5dS3) | [Nedy Music](https://open.spotify.com/artist/0EFCi7pCSlHLW8dVn020hD) | [Pepetua](https://open.spotify.com/album/4e6v5aqrFS5f3XYRzBK87i) | 2:49 | 2022-03-10 | 2022-09-30 |
 | [Peponi](https://open.spotify.com/track/20nvhAl8VMKIXueZTdoPZP) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Dj Davizo](https://open.spotify.com/artist/7DVRKx78pFflFtD9fwozOU) | [Peponi](https://open.spotify.com/album/0It1W5H9bF9BLRvikjmGfq) | 3:20 | 2024-10-03 | 2025-01-24 |

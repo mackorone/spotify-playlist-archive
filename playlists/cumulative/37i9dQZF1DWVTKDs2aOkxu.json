@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best indie music of the moment. Cover: Ethel Cain",
+  "description": "The best indie music of the moment. Cover: Alex G",
   "name": "The Indie List",
   "tracks": [
     {
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 208000,
       "name": "Chrysalis",
       "url": "https://open.spotify.com/track/4j9tHe6pw1ljHc30IivKYT"
@@ -1940,7 +1940,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 232866,
       "name": "Clean Heart",
       "url": "https://open.spotify.com/track/1tO3ZKiyVPOnEIwYTfD7PS"
@@ -2636,7 +2636,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 249120,
       "name": "Down to be wrong",
       "url": "https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP"
@@ -4456,7 +4456,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 156824,
       "name": "Jetplane",
       "url": "https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA"
@@ -7629,6 +7629,24 @@
     },
     {
       "album": {
+        "name": "Summer Sun",
+        "url": "https://open.spotify.com/album/6o820NjMLQpqa07FVHCabG"
+      },
+      "artists": [
+        {
+          "name": "ERNIE",
+          "url": "https://open.spotify.com/artist/3nXSj676JUEKFxfACHmC9J"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189374,
+      "name": "Summer Sun",
+      "url": "https://open.spotify.com/track/1mNk9RnzlfdVEVLLluiMZm"
+    },
+    {
+      "album": {
         "name": "Earthstar Mountain",
         "url": "https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF"
       },
@@ -7972,7 +7990,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 279051,
       "name": "Tell me I never knew that",
       "url": "https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f"
@@ -8298,6 +8316,24 @@
       "duration_ms": 177000,
       "name": "The Milkman",
       "url": "https://open.spotify.com/track/6N5s2LdgDrUNH0y7jfNXg7"
+    },
+    {
+      "album": {
+        "name": "The Money Song",
+        "url": "https://open.spotify.com/album/4s7ThuP73QvrGYxNVTMOlj"
+      },
+      "artists": [
+        {
+          "name": "DellaXOZ",
+          "url": "https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125186,
+      "name": "The Money Song",
+      "url": "https://open.spotify.com/track/4ttS3N5CJaCObiwmJqMmF7"
     },
     {
       "album": {
@@ -8896,7 +8932,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 223706,
       "name": "Truth",
       "url": "https://open.spotify.com/track/6f7duf2up9giRj5V0XtFKW"

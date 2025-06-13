@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Real Lies
 
-317 songs - 19 hr 52 min
+318 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Feeling Alive](https://open.spotify.com/track/3wuKHGGrJ4DFXpd7Hrptrl) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Feeling Alive](https://open.spotify.com/album/6Ct7dWb2QX1snxHC2zcJKt) | 3:49 | 2024-08-15 | 2025-02-14 |
 | [Finding Money](https://open.spotify.com/track/0bpA5JIBVexaQFIVPq0kgm) | [Real Lies](https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu), [Jessica Barden](https://open.spotify.com/artist/6iJSrJ7PuMv7aOuHX1eP7j) | [Finding Money](https://open.spotify.com/album/4j0ANvwaysKFyohHAoJw17) | 5:40 | 2025-03-28 | 2025-04-18 |
 | [Fire Of Mercy \- yunè pinku remix](https://open.spotify.com/track/6ITWROA9slWos6GjdlryE5) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Fire Of Mercy \(yunè pinku remix\)](https://open.spotify.com/album/5ZmBR9NMbuBycE92C5b0Wy) | 4:14 | 2024-02-23 | 2024-09-20 |
-| [Frake](https://open.spotify.com/track/5phpSn3y1mjWu3pR35RbTf) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Frake](https://open.spotify.com/album/49fLLY675afFl4yqm0C7vS) | 3:17 | 2025-05-29 |  |
+| [Frake](https://open.spotify.com/track/5phpSn3y1mjWu3pR35RbTf) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Frake](https://open.spotify.com/album/49fLLY675afFl4yqm0C7vS) | 3:17 | 2025-05-29 | 2025-06-13 |
 | [From The Stars](https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [The Rah Band](https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH) | [From The Stars EP](https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK) | 4:20 | 2025-02-21 |  |
 | [Fun](https://open.spotify.com/track/7gsYaYvQHjW7x4UzLpCrVo) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fun](https://open.spotify.com/album/1kZhU7o65hxykIDQlYaysm) | 3:08 | 2025-05-08 |  |
 | [Galbi](https://open.spotify.com/track/2Kwl0LDsG7m8Z8r9Q03Mdy) | [Dar Disku](https://open.spotify.com/artist/70XpwqZmbGHH9TnDuvPhGR), [Aymen Attia](https://open.spotify.com/artist/0JGgJH2rCNNIjvM2aCtyR4) | [Galbi](https://open.spotify.com/album/2tq3bgdtFrfrUJRiHumSd6) | 4:15 | 2024-08-15 | 2025-02-14 |
@@ -125,6 +125,7 @@
 | [Habla Con Ella](https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f) | 3:24 | 2024-03-01 | 2025-01-17 |
 | [Halo Flip](https://open.spotify.com/track/59SaaebqvxHSui4LbocJYI) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [Halo Flip](https://open.spotify.com/album/7KChHwaCKJLa1DxvXVHjzz) | 6:55 | 2024-03-22 | 2025-02-14 |
 | [Hannah \(the sun\)](https://open.spotify.com/track/3KffMs30iYfPNYI8epNj5a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Hannah \(the sun\)](https://open.spotify.com/album/6eep2wtSbpdoAgJcRyublA) | 3:16 | 2021-10-28 | 2024-07-27 |
+| [Happy Days \- Edit](https://open.spotify.com/track/0lPnmGoJ4iSDIflLs1Vchl) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Happy Tears](https://open.spotify.com/album/4MHelmVR9cbC7kkbmJHJAc) | 1:54 | 2025-06-12 |  |
 | [Heartfalls \(feat\. Khazali\)](https://open.spotify.com/track/6AlTHpfu0unvKz7uc3PFVv) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr), [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Heartfalls \(feat\. Khazali\)](https://open.spotify.com/album/0pav2XJdIIb7cswufb8ZwF) | 3:22 | 2025-03-21 |  |
 | [Her Eyes](https://open.spotify.com/track/2140Txb63i5WGqFZX52gag) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/7L9r0s6fR9PNZg6KC6cSfx) | 3:35 | 2024-10-24 | 2025-02-14 |
 | [Hey Baby](https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Hey Baby](https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q) | 3:56 | 2024-05-24 | 2025-03-07 |

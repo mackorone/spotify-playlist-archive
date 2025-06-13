@@ -2,9 +2,9 @@
 
 ### [Pop con Ñ](https://open.spotify.com/playlist/37i9dQZF1DX3sCT1ItXgNd)
 
-> Lo mejor del pop en español\. Foto: Aitana
+> Lo mejor del pop en español\. Foto: Lola Indigo
 
-731 songs - 1 day 12 hr 40 min
+732 songs - 1 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,6 +429,7 @@
 | [Milagros](https://open.spotify.com/track/1B1maIpcMpPDZ8GT0WHT0V) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Milagros](https://open.spotify.com/album/3k0FgbH2hF3R59J1Fwzd66) | 3:55 | 2025-05-12 |  |
 | [miprimeravez](https://open.spotify.com/track/6Dd4ZCRgGZAYioA2wv7HuS) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [miprimeravez](https://open.spotify.com/album/31JvVqtQB081E6WIhsfCz9) | 2:30 | 2023-04-17 | 2023-05-04 |
 | [Misión Imposible](https://open.spotify.com/track/6Lj2ZtFODa5p3fCXp2FfIl) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [tres](https://open.spotify.com/album/6vWanV9XtF0CQR0z48B5Nd) | 2:34 | 2024-05-13 | 2024-05-21 |
+| [MOJA1TA](https://open.spotify.com/track/63rH77IJhmuQsNIxpCxaJ5) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ) | 2:24 | 2025-06-12 |  |
 | [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 | 2023-07-04 | 2023-07-11 |
 | [Morenita del sur](https://open.spotify.com/track/4pKhyJRka0RvlDKGi9RJCv) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Morenita del sur](https://open.spotify.com/album/53VfRv0BRcEb5d9XG1keWJ) | 3:44 | 2024-07-26 | 2024-12-10 |
 | [Morfina \(feat\. Paloma Mami\)](https://open.spotify.com/track/4PFTO7EacpZMyuTa5dZGml) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Morfina \(feat\. Paloma Mami\)](https://open.spotify.com/album/4ebIgeih3hq832lPORpKtp) | 3:49 | 2024-02-15 | 2024-03-23 |
@@ -451,7 +452,7 @@
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-19 | 2024-08-27 |
 | [NEXO 04\. Tu cuerpo en braille](https://open.spotify.com/track/06qH2muOjme474WL3YKcBe) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [NEXO 04\. Tu cuerpo en braille](https://open.spotify.com/album/3Cg5hWe6pcktHNM7BSqzEd) | 2:45 | 2025-05-13 |  |
 | [Ni 1 Complejo](https://open.spotify.com/track/7qP5BoRHR5d9qxGmk8ruY1) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Ni 1 Complejo](https://open.spotify.com/album/0gzD0rupIe407RHRQY9GPk) | 2:54 | 2024-02-01 | 2024-02-13 |
-| [Ni demasiados, ni bastantes](https://open.spotify.com/track/4rxLXDOOLSR8oN8qv6vCdq) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3) | [Ni demasiados, ni bastantes](https://open.spotify.com/album/3GfpgBioG2DGZyNTlDI0Mn) | 3:20 | 2025-06-09 |  |
+| [Ni demasiados, ni bastantes](https://open.spotify.com/track/4rxLXDOOLSR8oN8qv6vCdq) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3) | [Ni demasiados, ni bastantes](https://open.spotify.com/album/3GfpgBioG2DGZyNTlDI0Mn) | 3:20 | 2025-06-09 | 2025-06-13 |
 | [Ni la mitad](https://open.spotify.com/track/7ohvuOobZ8dA6lGLlPBp7Q) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Ni la mitad](https://open.spotify.com/album/3uGM9ztZYoni87Jy8Bq2QZ) | 2:40 | 2023-05-30 | 2023-06-21 |
 | [ni regalao](https://open.spotify.com/track/0ySzud3GsHz4U7HVQmbHVM) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [ni regalao](https://open.spotify.com/album/4hlDcUzlW1igkBjKmt90Ln) | 2:18 | 2024-09-09 | 2024-10-05 |
 | [no estabamos juntos](https://open.spotify.com/track/0PKcD189tAiUNJO35oQK9L) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [no estabamos juntos](https://open.spotify.com/album/68DhLXSXLqPHXKB2roWS33) | 3:18 | 2025-03-10 | 2025-05-27 |

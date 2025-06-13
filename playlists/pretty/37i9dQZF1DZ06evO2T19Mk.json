@@ -1,12 +1,12 @@
 {
   "description": "This is Fall Out Boy. The essential tracks, all in one playlist.",
-  "num_followers": 586329,
+  "num_followers": 586380,
   "original_name": "This Is Fall Out Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEd1gAAAAACFMA6oEfBBdJ/mff3cSORg",
+  "snapshot_id": "aEjHAAAAAAB1yf8JXTqwvFchY7tHmER7",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 213586,
+      "name": "\"The Take Over, The Breaks Over\"",
+      "url": "https://open.spotify.com/track/3rG8ZkmKHb4Ms6CsSzEITv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Speak Now (Taylor's Version)",
         "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 266466,
       "name": "Electric Touch (feat. Fall Out Boy) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/4e3ZNTAV6PCrdYMUrUlMpQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Infinity On High",
-        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 213586,
-      "name": "\"The Take Over, The Breaks Over\"",
-      "url": "https://open.spotify.com/track/3rG8ZkmKHb4Ms6CsSzEITv"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 211826,
-      "name": "Church",
-      "url": "https://open.spotify.com/track/0OUQhRKgGSb0PPrLUuEQka"
+      "duration_ms": 192533,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/1DRUwJSt2YOUUEz965OJ66"
     },
     {
       "added_at": null,
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 192533,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/1DRUwJSt2YOUUEz965OJ66"
+      "duration_ms": 211826,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/0OUQhRKgGSb0PPrLUuEQka"
     },
     {
       "added_at": null,

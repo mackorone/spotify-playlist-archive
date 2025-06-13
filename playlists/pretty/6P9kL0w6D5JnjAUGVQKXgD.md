@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,258 likes - 100 songs - 5 hr 6 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 47,254 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 75 | [Stamina \- Krystal Roxx Remix](https://open.spotify.com/track/6pCXsuImno3nrSrop3BPMd) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq), [Krystal Roxx](https://open.spotify.com/artist/79Znj8lVVpXXJ4KHDfCVk0) | [Stamina \(Krystal Roxx Remix\)](https://open.spotify.com/album/13bIzhWwPhqDB2ufUlxXxh) | 3:09 |
 | 76 | [All That Really Matters](https://open.spotify.com/track/5zviMoAeuerK1Rd58qXASv) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [All That Really Matters](https://open.spotify.com/album/2OW7PzcHkPrB2fY0fLvx4Q) | 4:04 |
 | 77 | [Crooked \(VAANCE & Herrin Remix\)](https://open.spotify.com/track/3HcKOzkBdZaOnmOJCFZ0gv) | [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt), [Vaance](https://open.spotify.com/artist/3hY9SF90lW0iMZkT2qBFDu), [Herrin](https://open.spotify.com/artist/1cOE2rCet7CGWid3OD5499) | [Crooked \(VAANCE & Herrin Remix\)](https://open.spotify.com/album/0poUGk2wU0b2y1llEgp6Zc) | 2:06 |
-| 78 | [Comes Down](https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd) | [Avondzy](https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Comes Down](https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP) | 2:21 |
+| 78 | [Ready For You \(feat\. Celeste\)](https://open.spotify.com/track/3xJMfoI7ApSNE2XYEsJ9z9) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Ready For You \(feat\. Celeste\)](https://open.spotify.com/album/2AaQrVHf965fI2uPLXdGF4) | 4:28 |
 | 79 | [Comes Down](https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd) | [Avondzy](https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Comes Down](https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP) | 2:21 |
-| 80 | [Ready For You \(feat\. Celeste\)](https://open.spotify.com/track/3xJMfoI7ApSNE2XYEsJ9z9) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Ready For You \(feat\. Celeste\)](https://open.spotify.com/album/2AaQrVHf965fI2uPLXdGF4) | 4:28 |
+| 80 | [Comes Down](https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd) | [Avondzy](https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u), [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9) | [Comes Down](https://open.spotify.com/album/207g5xOP3R7qaSVBERdXqP) | 2:21 |
 | 81 | [Another Day In Paradise](https://open.spotify.com/track/0HjogmklU56Soh2HNhbWer) | [House Arrest](https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6), [Bikini Bandits](https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr), [Lumin8](https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp) | [Another Day In Paradise](https://open.spotify.com/album/46qdwgGcHUVjHFvGuq9Ld8) | 2:07 |
 | 82 | [Into The Wild](https://open.spotify.com/track/0WieTfhf6N0alEhBpSiOtd) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [KiFi](https://open.spotify.com/artist/4C26PDH7q4oJazjcHlSekc) | [Into The Wild \(feat\. KiFi\)](https://open.spotify.com/album/5oUAZkXDIckQi939OEhbnv) | 2:57 |
 | 83 | [Torn](https://open.spotify.com/track/6IrZcWFFvMF0UzUKyeUpwn) | [Bikini Bandits](https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr), [Lumin8](https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp), [Evan Cole](https://open.spotify.com/artist/1xmWaOWc9DJRJYZvWPG6vO) | [Torn](https://open.spotify.com/album/6ufrnLeCiplvdCyV5oNLxl) | 2:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 99 | [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 |
 | 100 | [Kaleidoscope](https://open.spotify.com/track/47ij2z59LpBuxx1ixMjcMW) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Simon Ward](https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP) | [Kaleidoscope](https://open.spotify.com/album/4JwpOWvno7gw5ielxFne6P) | 2:09 |
 
-Snapshot ID: `AAAIAxaYcxP/PHlkRQvdRP8sojTXItTP`
+Snapshot ID: `AAAIBERVdu7ZcOa850dW2tiniREzaO8w`

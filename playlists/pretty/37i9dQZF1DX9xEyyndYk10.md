@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xEyyndYk10.md) - [plain]
 
 > Bienvenidos a Aerolinas CuatroVeinte estamos listos para despegar 💨
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,007 likes - 67 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,012 likes - 67 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

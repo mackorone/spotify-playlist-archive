@@ -1,12 +1,12 @@
 {
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 128746,
+  "num_followers": 128752,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEd1gAAAAAD9hl+43/pOvya+VCoOhOQK",
+  "snapshot_id": "aEjHAAAAAAAA4SHjIgBYPRa74qdSOHgW",
   "tracks": [
     {
       "added_at": null,
@@ -855,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 171520,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0o0eubjweqWRrZ4PuW8s3n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Piti",
         "url": "https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 183680,
       "name": "No Pasa Nada",
       "url": "https://open.spotify.com/track/3Y8xqiwesgj5ytOPpHo6Nx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baila",
-        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 171520,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/0o0eubjweqWRrZ4PuW8s3n"
     },
     {
       "added_at": null,
@@ -927,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Error",
-        "url": "https://open.spotify.com/album/7eRvVezqELiJfp1vSrDx0u"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "Error",
-      "url": "https://open.spotify.com/track/7eOs4mwrf7rp7lGEF2tjGu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baila",
         "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
       },
@@ -959,22 +943,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ant\u00eddoto",
-        "url": "https://open.spotify.com/album/7opSNZjW07MRTKLYzrlhQd"
+        "name": "Error",
+        "url": "https://open.spotify.com/album/7eRvVezqELiJfp1vSrDx0u"
       },
       "artists": [
-        {
-          "name": "Antonio Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
-        },
         {
           "name": "Greeicy",
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 206666,
-      "name": "Ant\u00eddoto",
-      "url": "https://open.spotify.com/track/1n1HgKJ9TFplBuhbdBbYZK"
+      "duration_ms": 209361,
+      "name": "Error",
+      "url": "https://open.spotify.com/track/7eOs4mwrf7rp7lGEF2tjGu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YELIANA",
+        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "De a poco",
+      "url": "https://open.spotify.com/track/2mgtIhE33xF9llZ49xoqck"
     }
   ],
   "unique_name": "This Is Greeicy",

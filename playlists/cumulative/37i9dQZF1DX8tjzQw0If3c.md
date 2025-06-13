@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Listen to the future\. Cover: empty page.
+> Listen to the future\. Cover: Firdaus Rahmat
 
-187 songs - 10 hr 10 min
+189 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [All Night Long \(feat\. 唐仲彣\)](https://open.spotify.com/track/16dEsck7g3sl9GBgjNi9lj) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx), [唐仲彣](https://open.spotify.com/artist/2AXIg0cc8pzzVcNnE3sSI6) | [All Night Long \(feat\. 唐仲彣\)](https://open.spotify.com/album/2FohZt2GfxsBBJwkHsrXps) | 2:29 | 2024-06-27 | 2025-04-16 |
 | [Angau](https://open.spotify.com/track/2JVm4VDnZzIFoVjdVXOyCP) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Angau](https://open.spotify.com/album/0ScMd2xOV2o6OC6ldq59bL) | 2:40 | 2025-04-15 |  |
 | [Apocalypse!!!](https://open.spotify.com/track/01eeBhcadGcWdKT6pPvsRQ) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Apocalypse!!!](https://open.spotify.com/album/1Q3SaKJkTur2f8gNYieufg) | 2:45 | 2025-04-17 |  |
+| [Arus & Arah](https://open.spotify.com/track/65oQyasDR8yC76NLeVQ5Fi) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Arus & Arah](https://open.spotify.com/album/5Vva6ynjE5EkmvgnxmLpvi) | 3:30 | 2025-06-12 |  |
 | [As Long As We Stay](https://open.spotify.com/track/34uhrPCTuIez9sRuuuYkBm) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy), [Heidi Moru](https://open.spotify.com/artist/5ejbmmyWwnQys0g72tuems) | [As Long As We Stay](https://open.spotify.com/album/4MVcR1fEQjV3kfhQRznExk) | 3:48 | 2024-06-27 | 2025-04-16 |
 | [bagaimana jika aku tiada \(dunia akan terus berputar\)](https://open.spotify.com/track/08HOY8QUhN1xvVJfywDmAO) | [empty page.](https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh) | [bagaimana jika aku tiada \(dunia akan terus berputar\)](https://open.spotify.com/album/4aYD28N6iyvIdjWH2f8tic) | 3:20 | 2025-04-15 |  |
 | [Bangau](https://open.spotify.com/track/5dcKftVBvvmMnudHDvV8qm) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Bangau](https://open.spotify.com/album/284SbvuKUwHnWLBigpPSkM) | 3:26 | 2025-04-15 |  |
@@ -121,6 +122,7 @@
 | [Mindset](https://open.spotify.com/track/5XJm3lWxrPPYI6NrjYik5G) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Mindset](https://open.spotify.com/album/1jyQeLQXGX3RI1WRMKUhMR) | 3:10 | 2024-11-07 | 2024-12-05 |
 | [Mona](https://open.spotify.com/track/3MG4Cq0ER6iuJoyJQALWIc) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL), [Rebel Asia](https://open.spotify.com/artist/01APErOuxifTzQrdN8kOYn) | [Mona](https://open.spotify.com/album/07AWA7DMdxtvzIpu9Eet89) | 3:02 | 2024-06-27 | 2024-12-05 |
 | [Moon & The Sun](https://open.spotify.com/track/1YHnNk5C8MNLnzNLT7C3Ql) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy), [Bil Musa](https://open.spotify.com/artist/6tWZW3i1byYPxPNW7EZmr9) | [Moon & The Sun](https://open.spotify.com/album/0KaHXAtLJtHWAv4skCm7zT) | 3:24 | 2024-06-27 | 2024-12-05 |
+| [Morocco V2](https://open.spotify.com/track/4CYlXiGBIjVitwpkWwSAGQ) | [Aditya Ojha](https://open.spotify.com/artist/1As4gXpkB3Vkwox0WRlbzT), [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8), [Kalou](https://open.spotify.com/artist/2votViQhLfXxz7JT97jhZu) | [Morocco V2](https://open.spotify.com/album/1mjStipnzdgHCe7XYAbHCQ) | 4:27 | 2025-06-12 |  |
 | [ms\. heartbreak](https://open.spotify.com/track/59Xe9wXvnvUTAIkxOshLbS) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [Road to the Hills](https://open.spotify.com/album/6Up4Igg6cDQkb1MyUzFsy1) | 3:01 | 2025-06-04 |  |
 | [Musnah](https://open.spotify.com/track/3rznXO6e3t8WgvsR2ZOmKK) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Musnah](https://open.spotify.com/album/0vfyJDfiIfk9X4lhKob7w2) | 3:59 | 2025-04-15 |  |
 | [My Baby](https://open.spotify.com/track/1pNPH4azbjxxfGvBiDq6W9) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [My Baby](https://open.spotify.com/album/7vAY2GYdCPYFWE5h1QJD4k) | 2:48 | 2025-02-20 | 2025-04-16 |

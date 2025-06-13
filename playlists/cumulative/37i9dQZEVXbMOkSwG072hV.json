@@ -29143,6 +29143,24 @@
     },
     {
       "album": {
+        "name": "Addison",
+        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240308,
+      "name": "Headphones On",
+      "url": "https://open.spotify.com/track/3H6xZgwRZx8McVUJzmMxWe"
+    },
+    {
+      "album": {
         "name": "Here Comes The Cowboy",
         "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
       },
@@ -37888,6 +37906,28 @@
     {
       "album": {
         "name": "Marra de Bandido",
+        "url": "https://open.spotify.com/album/2ZbLB7VW1Rxxzbs4BIXyvM"
+      },
+      "artists": [
+        {
+          "name": "Ellen Nery",
+          "url": "https://open.spotify.com/artist/4LBVNF15h6yFNBVjjYjr6O"
+        },
+        {
+          "name": "\u00c9aBest",
+          "url": "https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95108,
+      "name": "Marra de Bandido",
+      "url": "https://open.spotify.com/track/1s2nR9gBz50NE7TC3HYotD"
+    },
+    {
+      "album": {
+        "name": "Marra de Bandido",
         "url": "https://open.spotify.com/album/0Md9VHHlzr0mk6vqmH5YJj"
       },
       "artists": [
@@ -37902,7 +37942,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 95108,
       "name": "Marra de Bandido",
       "url": "https://open.spotify.com/track/2dUINTgCCItLLJBvqg56tK"
@@ -49770,7 +49810,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 199680,
       "name": "Orgulho",
       "url": "https://open.spotify.com/track/2rPZa9bLDL6lpbf2SErmIZ"

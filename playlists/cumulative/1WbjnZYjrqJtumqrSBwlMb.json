@@ -5937,6 +5937,24 @@
     },
     {
       "album": {
+        "name": "FORGONE",
+        "url": "https://open.spotify.com/album/4z5LoF2II3rbRUo1cCHZaD"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474662,
+      "name": "FORGONE",
+      "url": "https://open.spotify.com/track/6LfLoYQHYaj6E7jlNj0SlN"
+    },
+    {
+      "album": {
         "name": "Scaled And Icy",
         "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
       },
@@ -8442,7 +8460,7 @@
           "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
         },
         {
-          "name": "No Malice",
+          "name": "Malice",
           "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
         },
         {
@@ -17482,6 +17500,24 @@
       "duration_ms": 159146,
       "name": "The Chamber",
       "url": "https://open.spotify.com/track/1WCPVw8VEZNIBlldlcI6dU"
+    },
+    {
+      "album": {
+        "name": "The Contract",
+        "url": "https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "The Contract",
+      "url": "https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG"
     },
     {
       "album": {

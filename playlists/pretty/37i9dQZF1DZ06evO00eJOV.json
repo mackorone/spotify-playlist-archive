@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 36756,
+  "num_followers": 36758,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEd1gAAAAADnEAP7HaCwD+vetNtBbR1N",
+  "snapshot_id": "aEjHAAAAAACsYsNvz6rev4GOda5v7PqI",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nomakanjani",
-        "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
+        "name": "Myekeleni",
+        "url": "https://open.spotify.com/album/7chQEP3pHqRHTnm3egstPL"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 275493,
-      "name": "Mpundulu",
-      "url": "https://open.spotify.com/track/0UqdpKfjQXx242CoKQMVqr"
+      "duration_ms": 263093,
+      "name": "Mama I'm Sorry",
+      "url": "https://open.spotify.com/track/1Tuh0lfagSr2ggyZXyWofx"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Myekeleni",
-        "url": "https://open.spotify.com/album/7chQEP3pHqRHTnm3egstPL"
+        "name": "Nomakanjani",
+        "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 263093,
-      "name": "Mama I'm Sorry",
-      "url": "https://open.spotify.com/track/1Tuh0lfagSr2ggyZXyWofx"
+      "duration_ms": 275493,
+      "name": "Mpundulu",
+      "url": "https://open.spotify.com/track/0UqdpKfjQXx242CoKQMVqr"
     },
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mali",
-        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 300013,
-      "name": "Ngwanona",
-      "url": "https://open.spotify.com/track/1FSZuMu3FlBjVqyqtoDA3e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mina Nawe",
         "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 229240,
       "name": "Vuma",
       "url": "https://open.spotify.com/track/6mWsjfFrRkdIr03LBN0Zpa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mali",
+        "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 300013,
+      "name": "Ngwanona",
+      "url": "https://open.spotify.com/track/1FSZuMu3FlBjVqyqtoDA3e"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/3gMIm1DzHL4BFdfzarGX42"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 270133,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/1pLVv5izG6cj2GiQdsEreq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mina Nawe",
         "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 276080,
       "name": "Life Is Going On",
       "url": "https://open.spotify.com/track/1YeFEB5XaozlnCwXs6I9rp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/3gMIm1DzHL4BFdfzarGX42"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 270133,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/1pLVv5izG6cj2GiQdsEreq"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ag Shame Lovey",
-        "url": "https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 245973,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/6qhfrCJkCrQsyhqt1tpRIG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mina Nawe",
         "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 288213,
       "name": "Wewe (African Wedding)",
       "url": "https://open.spotify.com/track/26vfNVp3EkjxMZv9ix1vXw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ag Shame Lovey",
+        "url": "https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 245973,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/6qhfrCJkCrQsyhqt1tpRIG"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits 1964-2004",
-        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Zola Budd",
-      "url": "https://open.spotify.com/track/2YAaOJ86NNPFq70QrMNc4g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Refe Matla",
         "url": "https://open.spotify.com/album/3GaxO1raa0cySNEF0ZnCC8"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 296733,
       "name": "Dikonyana",
       "url": "https://open.spotify.com/track/2v3m71lnJIB8GPeMdnjVlx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits 1964-2004",
+        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "Zola Budd",
+      "url": "https://open.spotify.com/track/2YAaOJ86NNPFq70QrMNc4g"
     },
     {
       "added_at": null,

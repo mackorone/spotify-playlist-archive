@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmSg58uBxin.md) - [plain]
 
 > Soothing piano and strings to help you concentrate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,425 likes - 143 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,461 likes - 143 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmSg58uBxin.md) - [plain]
 | 108 | [Secret Admirer](https://open.spotify.com/track/2lHQrHpOz29hr1HYMuYfO4) | [Carl Easterling](https://open.spotify.com/artist/1BpbMpMfqgyXdsZmUXsoIx) | [Secret Admirer](https://open.spotify.com/album/3Vzz6AtfJGbirjpPCnFnlq) | 2:07 |
 | 109 | [Dormendi](https://open.spotify.com/track/2fhJokmG2tWLEIspaOyWzL) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Dormendi](https://open.spotify.com/album/1IKp4YnhKuAaIZDAbzkCc9) | 2:26 |
 | 110 | [One Last Question](https://open.spotify.com/track/3PZcDjUs3yjBML8sDDvF8f) | [Vilma Holík](https://open.spotify.com/artist/4qhrLBBH9zCUWTNDLh5dJu) | [One Last Question](https://open.spotify.com/album/4flpCPlSP0b8EMrhwjakvF) | 2:11 |
-| 111 | [My Adored](https://open.spotify.com/track/2t14BxhdnmUQXsQ5ls74WR) | [Otis Son](https://open.spotify.com/artist/0ndzscLaWk1qlkOZ0nRPYE) | [My Adored](https://open.spotify.com/album/5AoqpA3d1et0eA51pv95lO) | 4:13 |
+| 111 | [My Adored](https://open.spotify.com/track/2t14BxhdnmUQXsQ5ls74WR) | [Otis Son](https://open.spotify.com/artist/5neBaCIWzBuLBFzsTAZMie) | [My Adored](https://open.spotify.com/album/5AoqpA3d1et0eA51pv95lO) | 4:13 |
 | 112 | [Calm Skies](https://open.spotify.com/track/2FXFAi4sseuJfboDNpP9sQ) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Skies](https://open.spotify.com/album/4cXfofUmdPZ87JT6cixyAc) | 2:55 |
 | 113 | [Night Bird, Night Song](https://open.spotify.com/track/4oKLGQ5RhsIItD2zcOe7l3) | [Camilla Turgot](https://open.spotify.com/artist/4dMzIDrTnlZ42GJiWGxzB2) | [Night Bird, Night Song](https://open.spotify.com/album/7cUVIhZAj4cyjdateENnve) | 2:10 |
 | 114 | [waltz \- the greenhouse](https://open.spotify.com/track/7kfnzRb4vbJUJDtSFuvlHi) | [BARTH.](https://open.spotify.com/artist/6oM4pj0cViaM9uaplSkKAl) | [finding peace \- the greenhouse](https://open.spotify.com/album/3hcUmxsxfss5ehoxc3sBfm) | 3:12 |

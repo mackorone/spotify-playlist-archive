@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more.
 
-1,005 songs - 2 day 4 hr 48 min
+1,007 songs - 2 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [Fussy](https://open.spotify.com/track/5Z7SapaZCnLexMPTR3OFbS) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Fussy](https://open.spotify.com/album/6uK1DkQIXyvnQaataGOUAJ) | 2:54 | 2023-12-08 | 2024-03-15 |
 | [Games We Play](https://open.spotify.com/track/4GwYK4VERjY7j6cljmfA0a) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Games We Play](https://open.spotify.com/album/7pkuYqsPgn4zfmWerQvyFC) | 2:25 | 2021-07-23 | 2021-09-11 |
 | [Get in Trouble \(So What\) \- Timmy Trumpet Remix](https://open.spotify.com/track/3PMpFfU2bGnhwotprL9ylW) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Get in Trouble \(So What\) \[Timmy Trumpet Remix\]](https://open.spotify.com/album/3Wx7YFIseIAZPGXgFIX6l8) | 2:29 | 2021-02-06 | 2021-02-19 |
+| [Get Right](https://open.spotify.com/track/6eKJ2f4krilnklIXlVs2vK) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Get Right](https://open.spotify.com/album/4GX4TjznT6VPHHXhZepZZd) | 2:56 | 2025-06-13 |  |
 | [Get Shaky](https://open.spotify.com/track/4SpNPuNZ1wXN8tixk1Jgc4) | [B.O.M](https://open.spotify.com/artist/3obWOc3Iq15TgW0pTDY2RK) | [Get Shaky](https://open.spotify.com/album/4t3Vyk87itkLUKJyFHxdbN) | 2:30 | 2023-07-28 | 2023-12-14 |
 | [Get Shaky \- Radio Edit](https://open.spotify.com/track/76juDmdOF5jly6YlTcmSnJ) | [Ian Carey Project](https://open.spotify.com/artist/5PbZIYWcDuRgEbMs7abSTH) | [Get Shaky](https://open.spotify.com/album/0hlWRccmVY0WHtrHF3vxxD) | 3:24 | 2024-07-19 | 2024-09-13 |
 | [GET UP BITCH! shake ya ass \(with Anitta\)](https://open.spotify.com/track/5sa4fcGgP4dsC6jeRffUSF) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [GET UP BITCH! shake ya ass \(with Anitta\)](https://open.spotify.com/album/4FgihUumJ9tM4f5wNUiUeV) | 3:33 | 2024-08-29 | 2024-12-06 |
@@ -567,6 +568,7 @@
 | [Mexico](https://open.spotify.com/track/6yTaG6eJDi6T0VSawfMTQy) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Mexico](https://open.spotify.com/album/6dn1PltXAnQZB5i5jJoeN6) | 2:33 | 2023-03-03 | 2023-06-16 |
 | [Mi Amor \(with JVKE & Anitta\)](https://open.spotify.com/track/5u2EjRHBYRLFvfMXpBAewy) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Mi Amor \(with JVKE & Anitta\)](https://open.spotify.com/album/5cSRo7t8wqzwSiEc5hBDUz) | 2:19 | 2024-06-17 | 2024-07-19 |
 | [Midnight Cowboy](https://open.spotify.com/track/7tDTUhuVLAmc9L8Lrs85tm) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Midnight Cowboy](https://open.spotify.com/album/3MzeTpOA8fYyon4Zs5Cral) | 3:31 | 2024-09-27 | 2024-10-18 |
+| [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 | 2025-06-13 |  |
 | [Million Pieces](https://open.spotify.com/track/3RM0KcyPjdT8byRe64LivC) | [Jolyon Petch](https://open.spotify.com/artist/00Ja3YjvU4DYCHWt6cPs42) | [Million Pieces](https://open.spotify.com/album/092XspFGXs1u4jPlogGFDV) | 2:43 | 2023-05-29 | 2023-08-03 |
 | [Million Pieces \- Random Soul Remix](https://open.spotify.com/track/0leOdCkBlQCbtsAaLfhgaJ) | [Jolyon Petch](https://open.spotify.com/artist/00Ja3YjvU4DYCHWt6cPs42), [Random Soul](https://open.spotify.com/artist/7CDm8EfbpNlHa4HmvFo0bm) | [Million Pieces \(Remixes Pt\. 1\)](https://open.spotify.com/album/0l8znPkX7HjdFLRGF0Wjou) | 3:24 | 2023-07-14 | 2023-12-14 |
 | [Mind Control](https://open.spotify.com/track/3P5mrJ1KloJZG9GKD5daC8) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Mind Control](https://open.spotify.com/album/2SlVkukL15MzfVj0qFivWx) | 2:14 | 2023-12-08 | 2024-03-15 |

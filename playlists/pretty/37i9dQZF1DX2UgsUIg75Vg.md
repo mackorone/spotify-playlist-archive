@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,380,777 likes - 186 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,380,579 likes - 186 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 185 | [Reason](https://open.spotify.com/track/4QpPk76nOhX3Xe4DebeZYS) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:00 |
 | 186 | [Love Is](https://open.spotify.com/track/5N1JIOm3fDwEb06XVNb4GD) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [ARTchives: The Gallery](https://open.spotify.com/album/7feiQ1G1IwHzUgipvWbGHh) | 2:42 |
 
-Snapshot ID: `AAAAANsSEpjlTW6yPB0L98QLG/jT/QFa`
+Snapshot ID: `aEJ0rwAAAAA3fBRqjC7CU3BmkKhfrNkt`

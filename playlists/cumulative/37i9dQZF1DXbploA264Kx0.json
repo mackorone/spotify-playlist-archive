@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: RIKI",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: The Crane (\u9db4)",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -1863,6 +1863,28 @@
     },
     {
       "album": {
+        "name": "Floating Free",
+        "url": "https://open.spotify.com/album/2dHRq1NhmisvltDBv94xef"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+        },
+        {
+          "name": "9m88",
+          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204026,
+      "name": "Floating Free",
+      "url": "https://open.spotify.com/track/6Pp2aJc8lBve5AKfFqCwPu"
+    },
+    {
+      "album": {
         "name": "For a Better Day (feat. \u9023\u70b3\u767c) [\u5f71\u96c6\u300a\u5316\u5916\u4e4b\u91ab\u300b\u63d2\u66f2]",
         "url": "https://open.spotify.com/album/7AubzUnyNmztdMF1z0wvTR"
       },
@@ -2082,7 +2104,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 327066,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/2b2ck4wCQhwIlr6m7mCY7N"
@@ -3944,7 +3966,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 190898,
       "name": "Oh Bob",
       "url": "https://open.spotify.com/track/42esXDlrZgK4EMhwsLjBhd"
@@ -6088,6 +6110,24 @@
       "duration_ms": 430202,
       "name": "Up In The Clouds",
       "url": "https://open.spotify.com/track/5g527cG5qz62qSrRrmZMfD"
+    },
+    {
+      "album": {
+        "name": "VILLAIN",
+        "url": "https://open.spotify.com/album/1gdAhXMSsFtOCfW9T6f5el"
+      },
+      "artists": [
+        {
+          "name": "The Crane",
+          "url": "https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206097,
+      "name": "VILLAIN",
+      "url": "https://open.spotify.com/track/250HLl9eVRQABw1oIjOGkx"
     },
     {
       "album": {

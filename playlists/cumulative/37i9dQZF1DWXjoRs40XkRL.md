@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-373 songs - 1 day 10 hr 57 min
+374 songs - 1 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [MITWA](https://open.spotify.com/track/3JYUtN0G6gTxOO6P0dzBPG) | [Rashid Khan](https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv), [Anuradha Juju](https://open.spotify.com/artist/6BhqYI7FqiLWOCgkMtdxXY) | [MITWA](https://open.spotify.com/album/1gw8F1qxpfV0wkcxZDIukP) | 4:02 | 2024-02-26 | 2024-03-21 |
 | [Mohanam](https://open.spotify.com/track/3QZfNbGGwSoh6dEcJyhXAs) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Mohanam](https://open.spotify.com/album/1piZvuK9Rmli3wiCk3VETp) | 5:59 | 2023-01-20 |  |
 | [Moko Kahan](https://open.spotify.com/track/2i6hWZ4s93bxWrrag2fcLI) | [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B), [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK) | [Moko Kahan](https://open.spotify.com/album/3TKDcIp43A2db9vnK263xP) | 7:06 | 2025-05-23 |  |
-| [Mora Akhiyaan](https://open.spotify.com/track/6VS6r1lw6XQg1JwE3a6zhK) | [Prayas Pandey](https://open.spotify.com/artist/6zrMaYTtn7Ll4L9nHL9DOS) | [Mora Akhiyaan](https://open.spotify.com/album/0c7dOlWQ6Wa3TkFo7JJ4i8) | 3:43 | 2025-05-23 |  |
+| [Mora Akhiyaan](https://open.spotify.com/track/6VS6r1lw6XQg1JwE3a6zhK) | [Prayas Pandey](https://open.spotify.com/artist/6zrMaYTtn7Ll4L9nHL9DOS) | [Mora Akhiyaan](https://open.spotify.com/album/0c7dOlWQ6Wa3TkFo7JJ4i8) | 3:43 | 2025-05-23 | 2025-06-13 |
 | [More Piya](https://open.spotify.com/track/4ezMFxUzwg5BDTBWZdZvMu) | [Devdutta Manisha Baji](https://open.spotify.com/artist/2JWAqfpZpVmQ5nfYHVFn76), [Aanandi Joshi](https://open.spotify.com/artist/7qj8b5tuzeSkb4ff01h5rJ), [Asad Khan](https://open.spotify.com/artist/39AzrdG8LxPfPzS6DtFD8Q) | [More Piya](https://open.spotify.com/album/5mILpkQZVdrUhtLFFj6gsU) | 4:18 | 2022-05-17 | 2023-09-15 |
 | [More Piya](https://open.spotify.com/track/26BbW2LGSJpGcI2uwUWf8j) | [Yugm](https://open.spotify.com/artist/43uEANXUn0eOJrYKfjq2DL) | [More Piya](https://open.spotify.com/album/6Ii2FMwdKqzhrFEONfC8w1) | 5:34 | 2023-03-22 |  |
 | [More Sajan](https://open.spotify.com/track/4ebzARJSxxzlvR7O5vtJ3S) | [Arjuna Harjai](https://open.spotify.com/artist/6EwLfbS1MI8kZXTIwkGfHN), [Surabhi Dashputra](https://open.spotify.com/artist/5OAB0WGU0xp8UY2lihPD3F) | [More Sajan](https://open.spotify.com/album/11rRmLH3wgpHbHrYK17PVN) | 2:04 | 2024-02-16 |  |
@@ -359,6 +359,7 @@
 | [Taras Gaye](https://open.spotify.com/track/6y2FPmJ5XTov5ObxFKdk5X) | [Chitralekha Sen](https://open.spotify.com/artist/2tlmHkQ7X88wSU0flHNy6w), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Taras Gaye](https://open.spotify.com/album/6Bo0us2VfJoZv8DWpRyKZF) | 2:51 | 2025-03-12 |  |
 | [Tarfe](https://open.spotify.com/track/3VvdqoYyBa6zssV8kNj0bM) | [Samarth Janve](https://open.spotify.com/artist/6aD59tcg6klEh7d51b6JuQ) | [Tarfe](https://open.spotify.com/album/4jkjW6EwGjiZO10LD2DTfx) | 3:18 | 2023-03-01 | 2023-07-22 |
 | [Tera Junoon](https://open.spotify.com/track/0dwrjtyiGDQe10u9VZkkUn) | [Madhav Mahajan](https://open.spotify.com/artist/2o3BjrezOtEh2AfODNjLXX) | [Tera Junoon](https://open.spotify.com/album/5foF2jYpEh28PxsAgdFP7G) | 4:55 | 2024-07-17 | 2025-02-28 |
+| [Tere Bina Saawan](https://open.spotify.com/track/6nbFBtyQdR9azBu10D4Pjs) | [Himani Kapoor](https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur) | [Raagraanis](https://open.spotify.com/album/0iERkUtXHqCAt5pShswsKM) | 2:32 | 2025-06-12 |  |
 | [The Deepest Of Sorrow](https://open.spotify.com/track/5TrqCiv8CSLHbSbvk0XDLo) | [Pathiena](https://open.spotify.com/artist/0gFioxhm0NLtIrUKSLkmUW) | [The Deepest Of Sorrow](https://open.spotify.com/album/7x43if6epaRgG3Mlj3dtwQ) | 3:32 | 2022-05-17 | 2023-02-22 |
 | [The Search](https://open.spotify.com/track/6voH23DtEAO7RPtSm3JRTm) | [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Is That So?](https://open.spotify.com/album/3ylCRdrUcCGJo47CkPtCDm) | 10:49 | 2022-05-17 | 2023-08-31 |
 | [The Silence that Remains \- Mokshamu Galada](https://open.spotify.com/track/6zJ7JlxYLHOkVMa6F8GO5J) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G), [Harish Sivaramakrishnan](https://open.spotify.com/artist/3B3pVT24J4ROpfNDEqmEt2), [Swamy Seetharaman](https://open.spotify.com/artist/0DxQDGhWMFBkmwl6LhEGKV), [TPK](https://open.spotify.com/artist/3gr9e0aJYg5ECDr4z8XtEM) | [The Silence that Remains \- Mokshamu Galada](https://open.spotify.com/album/7JsNRuUrFagC5G31RWY2Lj) | 8:26 | 2025-05-29 |  |

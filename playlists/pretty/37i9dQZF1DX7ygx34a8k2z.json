@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 280178,
+  "num_followers": 280297,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 258466,
-      "name": "Bullet With Butterfly Wings - Remastered 2012",
-      "url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 159226,
       "name": "Buddy Holly",
       "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 258466,
+      "name": "Bullet With Butterfly Wings - Remastered 2012",
+      "url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
+        "name": "American Water",
+        "url": "https://open.spotify.com/album/2GbNeQEg5fLtuxjr5nlIpc"
+      },
+      "artists": [
+        {
+          "name": "Silver Jews",
+          "url": "https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "Random Rules",
+      "url": "https://open.spotify.com/track/6lquLzGE5CRoq2htyr2QGS"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
         "name": "It's A Wonderful Life",
         "url": "https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 163733,
       "name": "Piano Fire",
       "url": "https://open.spotify.com/track/0N3H8hAe6Lfu2iGSxGVdGQ"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
-        "name": "American Water",
-        "url": "https://open.spotify.com/album/2GbNeQEg5fLtuxjr5nlIpc"
-      },
-      "artists": [
-        {
-          "name": "Silver Jews",
-          "url": "https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "Random Rules",
-      "url": "https://open.spotify.com/track/6lquLzGE5CRoq2htyr2QGS"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Signals, Calls and Marches",
-        "url": "https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo"
+        "name": "Regretfully Yours",
+        "url": "https://open.spotify.com/album/6b2RjEtZ2jIYVlCkgCIW9C"
       },
       "artists": [
         {
-          "name": "Mission Of Burma",
-          "url": "https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6"
+          "name": "Superdrag",
+          "url": "https://open.spotify.com/artist/1UGwqiX4QA7R9hNBwzjavF"
         }
       ],
-      "duration_ms": 233573,
-      "name": "That's When I Reach for My Revolver",
-      "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
+      "duration_ms": 166800,
+      "name": "Sucked Out",
+      "url": "https://open.spotify.com/track/4YN94yxYWFfhk9YbmOIqR4"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Regretfully Yours",
-        "url": "https://open.spotify.com/album/6b2RjEtZ2jIYVlCkgCIW9C"
+        "name": "Signals, Calls and Marches",
+        "url": "https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo"
       },
       "artists": [
         {
-          "name": "Superdrag",
-          "url": "https://open.spotify.com/artist/1UGwqiX4QA7R9hNBwzjavF"
+          "name": "Mission Of Burma",
+          "url": "https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6"
         }
       ],
-      "duration_ms": 166800,
-      "name": "Sucked Out",
-      "url": "https://open.spotify.com/track/4YN94yxYWFfhk9YbmOIqR4"
+      "duration_ms": 233573,
+      "name": "That's When I Reach for My Revolver",
+      "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
     },
     {
       "added_at": "2025-01-15 04:11:50",

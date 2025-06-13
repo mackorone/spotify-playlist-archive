@@ -1,29 +1,13 @@
 {
   "description": "El Dembow que ta subiendo. Foto: Jey One",
-  "num_followers": 136308,
+  "num_followers": 136355,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEELaAAAAADXvWJWrEVzcg4WeLs5f2sk",
+  "snapshot_id": "aEpMEQAAAAB2T2+FvB0KE74n05WIMM8U",
   "tracks": [
-    {
-      "added_at": "2025-06-05 03:13:44",
-      "album": {
-        "name": "Todos Mienten",
-        "url": "https://open.spotify.com/album/6YBNmNZv7koXlUK5dboI6t"
-      },
-      "artists": [
-        {
-          "name": "Yailin la Mas Viral",
-          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
-        }
-      ],
-      "duration_ms": 127381,
-      "name": "Todos Mienten",
-      "url": "https://open.spotify.com/track/1MlSQHhUW399XdMINCu00X"
-    },
     {
       "added_at": "2025-03-13 03:09:12",
       "album": {
@@ -59,6 +43,22 @@
       "duration_ms": 153754,
       "name": "El Esqueleto",
       "url": "https://open.spotify.com/track/3omdjMeKzznlMu4YpZADSp"
+    },
+    {
+      "added_at": "2025-05-01 02:34:12",
+      "album": {
+        "name": "Una Chica Good",
+        "url": "https://open.spotify.com/album/4BSrwE9l7Ki3lL5kffKWV3"
+      },
+      "artists": [
+        {
+          "name": "Chaki Bley",
+          "url": "https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To"
+        }
+      ],
+      "duration_ms": 131081,
+      "name": "Una Chica Good",
+      "url": "https://open.spotify.com/track/1Zxlcq1l9SXZtGHzYuv0fs"
     },
     {
       "added_at": "2024-02-08 22:40:39",
@@ -105,40 +105,24 @@
       "url": "https://open.spotify.com/track/5qvsUlTyYaZ4ItlYcpwLhV"
     },
     {
-      "added_at": "2025-05-21 23:08:54",
+      "added_at": "2025-06-12 03:40:01",
       "album": {
-        "name": "De Chava",
-        "url": "https://open.spotify.com/album/44pDDIFsx4YTZkKPErlEtn"
+        "name": "Lo Que Te Killa",
+        "url": "https://open.spotify.com/album/7prP8vNLlq29kd1RhBYCAF"
       },
       "artists": [
         {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
         },
         {
-          "name": "Chris Tales",
-          "url": "https://open.spotify.com/artist/0kBSH5WbfzUM9GJYRALncq"
+          "name": "Breyco En Producidera",
+          "url": "https://open.spotify.com/artist/0paMWojkT2IhPuJOCLMiCp"
         }
       ],
-      "duration_ms": 153277,
-      "name": "Vi\u00f1a Mari",
-      "url": "https://open.spotify.com/track/2bt6YuysKAK3md7r4jiRym"
-    },
-    {
-      "added_at": "2025-05-01 02:34:12",
-      "album": {
-        "name": "Una Chica Good",
-        "url": "https://open.spotify.com/album/4BSrwE9l7Ki3lL5kffKWV3"
-      },
-      "artists": [
-        {
-          "name": "Chaki Bley",
-          "url": "https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To"
-        }
-      ],
-      "duration_ms": 131081,
-      "name": "Una Chica Good",
-      "url": "https://open.spotify.com/track/1Zxlcq1l9SXZtGHzYuv0fs"
+      "duration_ms": 140094,
+      "name": "Lo Que Te Killa",
+      "url": "https://open.spotify.com/track/1kbstdL5s52CsT0iSREnMU"
     },
     {
       "added_at": "2025-03-06 03:17:32",
@@ -281,6 +265,26 @@
       "url": "https://open.spotify.com/track/7Fh47rzf5GJ6obSOhmOOTb"
     },
     {
+      "added_at": "2025-06-12 03:40:01",
+      "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/6mfgPVUQt6jxyxlpKJK7RA"
+      },
+      "artists": [
+        {
+          "name": "El Mello 06",
+          "url": "https://open.spotify.com/artist/0TLBdmP7SIXHSdUEWhlGPo"
+        },
+        {
+          "name": "Yomal El Maestro",
+          "url": "https://open.spotify.com/artist/5NCc0eK7323Bk9mqx5IBNi"
+        }
+      ],
+      "duration_ms": 83715,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/0Q9V9QcfaqMtETVH7yZgOX"
+    },
+    {
       "added_at": "2024-04-25 20:33:26",
       "album": {
         "name": "Che Che",
@@ -323,30 +327,6 @@
       "duration_ms": 141217,
       "name": "Tu y Yo - Remix",
       "url": "https://open.spotify.com/track/6pLaVoMmaby5wIllvPZ79V"
-    },
-    {
-      "added_at": "2025-05-29 17:26:07",
-      "album": {
-        "name": "Vagamunda (Remix)",
-        "url": "https://open.spotify.com/album/6hVS9Y41sB8BNuUWnKW13W"
-      },
-      "artists": [
-        {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        },
-        {
-          "name": "La Perversa",
-          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
-        },
-        {
-          "name": "Leo RD",
-          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
-        }
-      ],
-      "duration_ms": 127850,
-      "name": "Vagamunda - Remix",
-      "url": "https://open.spotify.com/track/0LGlRNZpFCTno2lmkdUwQo"
     },
     {
       "added_at": "2024-08-29 16:56:43",
@@ -495,6 +475,34 @@
       "duration_ms": 109921,
       "name": "Putica",
       "url": "https://open.spotify.com/track/3GURwbBoSYWL9RaOTcy7Im"
+    },
+    {
+      "added_at": "2025-06-12 03:40:01",
+      "album": {
+        "name": "Chica Divertida (feat. Three Seven Music)",
+        "url": "https://open.spotify.com/album/1fdk0hzou3xC8eJVmhyAfx"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        },
+        {
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+        },
+        {
+          "name": "Three Seven Music",
+          "url": "https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb"
+        }
+      ],
+      "duration_ms": 153197,
+      "name": "Chica Divertida (feat. Three Seven Music)",
+      "url": "https://open.spotify.com/track/7vl6bXG7tUo2em15DB5uvR"
     },
     {
       "added_at": "2025-05-29 17:26:07",
@@ -689,6 +697,26 @@
       "url": "https://open.spotify.com/track/6QDuwTuYA3OsqyHB9l98YA"
     },
     {
+      "added_at": "2025-06-12 03:40:01",
+      "album": {
+        "name": "MANDAME",
+        "url": "https://open.spotify.com/album/0mQ3U0HGL9VaDy3Kun4T71"
+      },
+      "artists": [
+        {
+          "name": "Dowel King",
+          "url": "https://open.spotify.com/artist/3URdxPH9cqMtltHKf4aPcg"
+        },
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        }
+      ],
+      "duration_ms": 151508,
+      "name": "MANDAME",
+      "url": "https://open.spotify.com/track/75BuuDzpwCDU5RQsPn9eYb"
+    },
+    {
       "added_at": "2024-11-06 23:55:37",
       "album": {
         "name": "SI, ES AS\u00cd",
@@ -877,56 +905,24 @@
       "url": "https://open.spotify.com/track/0qklyeTyK2bs4T3wkPZPsE"
     },
     {
-      "added_at": "2025-05-29 17:26:07",
+      "added_at": "2025-06-12 03:40:01",
       "album": {
-        "name": "CHICA SAOCO",
-        "url": "https://open.spotify.com/album/3wPpvES8njzWUP5v9whGDU"
+        "name": "Dicen",
+        "url": "https://open.spotify.com/album/0CZQkSQeLI8NzOccg3Qalg"
       },
       "artists": [
         {
-          "name": "Papera",
-          "url": "https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW"
+          "name": "BeezyRD",
+          "url": "https://open.spotify.com/artist/4b3VZrCZqpNSVt9aO9nWll"
         },
-        {
-          "name": "Verbo Flow",
-          "url": "https://open.spotify.com/artist/0dxkgaBNqak7UBqLB1sZrQ"
-        },
-        {
-          "name": "Jayco 440",
-          "url": "https://open.spotify.com/artist/0WiDFWAwoFKDXA5BbNOVRT"
-        },
-        {
-          "name": "Malcom Produce",
-          "url": "https://open.spotify.com/artist/0zLv6N4yO8Eqn3MZQFpqit"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "CHICA SAOCO",
-      "url": "https://open.spotify.com/track/5j74AX7xasxc0CByataWff"
-    },
-    {
-      "added_at": "2025-04-03 03:03:15",
-      "album": {
-        "name": "Panikeo",
-        "url": "https://open.spotify.com/album/77g5hU3zCuDN2N50XUhxMY"
-      },
-      "artists": [
         {
           "name": "Bryant LR",
           "url": "https://open.spotify.com/artist/73uwZQQfha8JhNvBqVW1DL"
-        },
-        {
-          "name": "Manny 15",
-          "url": "https://open.spotify.com/artist/2fudOhsDL74IdzPs7HF0zZ"
-        },
-        {
-          "name": "Tato el X5",
-          "url": "https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8"
         }
       ],
-      "duration_ms": 98418,
-      "name": "Panikeo",
-      "url": "https://open.spotify.com/track/40qitcqYBYmJFBT8lLf0wr"
+      "duration_ms": 96395,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/2qGjGGDKfVqFLb2Hth3r1C"
     },
     {
       "added_at": "2024-08-08 13:47:32",
@@ -943,42 +939,6 @@
       "duration_ms": 111567,
       "name": "Pelota",
       "url": "https://open.spotify.com/track/1119zLl9XZ26Z1uNkdp16h"
-    },
-    {
-      "added_at": "2024-08-01 03:37:43",
-      "album": {
-        "name": "Dime",
-        "url": "https://open.spotify.com/album/5QcYGMoPVsy25dUnKYBA1j"
-      },
-      "artists": [
-        {
-          "name": "Tivi Gunz",
-          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
-        }
-      ],
-      "duration_ms": 138240,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/0SmEtr3Dd2EzinnfYHbdGa"
-    },
-    {
-      "added_at": "2025-04-09 21:28:29",
-      "album": {
-        "name": "GYM",
-        "url": "https://open.spotify.com/album/7klDWsn2GOngXFI2jdBAat"
-      },
-      "artists": [
-        {
-          "name": "Manny Snow",
-          "url": "https://open.spotify.com/artist/5NuOW7GuqjzRRQty9SHlRx"
-        },
-        {
-          "name": "Puyalo Pantera",
-          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
-        }
-      ],
-      "duration_ms": 126004,
-      "name": "GYM",
-      "url": "https://open.spotify.com/track/73v1mFiDwjN8HEyotgirKs"
     },
     {
       "added_at": "2025-05-15 17:27:56",
@@ -1031,26 +991,6 @@
       "duration_ms": 100287,
       "name": "Alocate",
       "url": "https://open.spotify.com/track/1wf6QI3eyEHA3YuAwoD3SX"
-    },
-    {
-      "added_at": "2025-04-24 19:49:04",
-      "album": {
-        "name": "Cueros",
-        "url": "https://open.spotify.com/album/50ydzUnwd8a7NziS0DtRIu"
-      },
-      "artists": [
-        {
-          "name": "Angelina Mvp",
-          "url": "https://open.spotify.com/artist/6YwVhxlzWmTYrvwYyjNAao"
-        },
-        {
-          "name": "Queen Parker",
-          "url": "https://open.spotify.com/artist/5NqWNYHuqvJl4qSXk9gI1b"
-        }
-      ],
-      "duration_ms": 144043,
-      "name": "Cueros",
-      "url": "https://open.spotify.com/track/2VgnomLiZ4cG6zS02ZUSZ8"
     },
     {
       "added_at": "2025-02-27 18:23:00",
@@ -1185,6 +1125,30 @@
       "url": "https://open.spotify.com/track/4angAYj4xbca44AWMVm6py"
     },
     {
+      "added_at": "2025-06-12 03:40:01",
+      "album": {
+        "name": "La 70",
+        "url": "https://open.spotify.com/album/10wCF4SpNBXIEks9vN8TnQ"
+      },
+      "artists": [
+        {
+          "name": "Montana 70",
+          "url": "https://open.spotify.com/artist/7MSEDh4Xt4nvRaEihrZ0ES"
+        },
+        {
+          "name": "El Sicokario",
+          "url": "https://open.spotify.com/artist/0Iyto0WtZfIQeSHF5k1hun"
+        },
+        {
+          "name": "Rony Alca",
+          "url": "https://open.spotify.com/artist/6f9dqXCJ5pB3tSOMnim6Qp"
+        }
+      ],
+      "duration_ms": 133388,
+      "name": "La 70",
+      "url": "https://open.spotify.com/track/6xHNtIdbz5WVnKuaXvxGcd"
+    },
+    {
       "added_at": "2025-03-20 03:45:22",
       "album": {
         "name": "La Doy Toa",
@@ -1283,6 +1247,26 @@
       "duration_ms": 143352,
       "name": "Dejame Date",
       "url": "https://open.spotify.com/track/6gsfKG1qmzESTgkibsjKX8"
+    },
+    {
+      "added_at": "2025-05-21 23:08:54",
+      "album": {
+        "name": "De Chava",
+        "url": "https://open.spotify.com/album/44pDDIFsx4YTZkKPErlEtn"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Chris Tales",
+          "url": "https://open.spotify.com/artist/0kBSH5WbfzUM9GJYRALncq"
+        }
+      ],
+      "duration_ms": 153277,
+      "name": "Vi\u00f1a Mari",
+      "url": "https://open.spotify.com/track/2bt6YuysKAK3md7r4jiRym"
     },
     {
       "added_at": "2024-06-26 18:02:32",
@@ -1567,6 +1551,22 @@
       "duration_ms": 148571,
       "name": "Quiere Calle",
       "url": "https://open.spotify.com/track/2zdJfWbjphrygV7CRJcLj4"
+    },
+    {
+      "added_at": "2025-06-05 03:13:44",
+      "album": {
+        "name": "Todos Mienten",
+        "url": "https://open.spotify.com/album/6YBNmNZv7koXlUK5dboI6t"
+      },
+      "artists": [
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        }
+      ],
+      "duration_ms": 127381,
+      "name": "Todos Mienten",
+      "url": "https://open.spotify.com/track/1MlSQHhUW399XdMINCu00X"
     },
     {
       "added_at": "2025-05-29 17:26:07",

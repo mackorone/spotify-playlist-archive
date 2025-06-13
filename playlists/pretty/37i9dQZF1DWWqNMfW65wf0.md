@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNMfW65wf0.md) - [plain]
 
 > can't sleep? listen to this  💤
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,978 likes - 136 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,066 likes - 136 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNMfW65wf0.md) - [plain]
 | 57 | [Sanatio](https://open.spotify.com/track/0UuWVIuiEWiGbwUyIqZn7I) | [Aion Dust](https://open.spotify.com/artist/1MeNlS0atOkuUVee7AeO3N) | [Sanatio](https://open.spotify.com/album/4nIsqZbeAeo5pL53ewlUvI) | 3:55 |
 | 58 | [Midsommar Lullaby](https://open.spotify.com/track/06OBsCF4QF4uTBBWNchv7t) | [tòna](https://open.spotify.com/artist/0KYrSXd1TGKtbF3Q2Xi2ib) | [Midsommar Lullaby](https://open.spotify.com/album/6G89DYbTiwPIxx3YSf8qjf) | 2:36 |
 | 59 | [Glacial](https://open.spotify.com/track/2Afa8d6BgHS2etZvE2mCz9) | [Lux Alba](https://open.spotify.com/artist/18NVPzP15IyNqKnkShIdVz) | [Glacial](https://open.spotify.com/album/4pmkwaTdZngv0pqRfEynKG) | 3:06 |
-| 60 | [Spirit Drone](https://open.spotify.com/track/7FxyHCVNAVPIIwXQa2XMCs) | [Cecilia Seffora](https://open.spotify.com/artist/1HOFlctcXFo28BYLx88Sz6) | [Spirit Drone](https://open.spotify.com/album/1u7z4vSmuU1x8ebJDHm8pb) | 4:00 |
+| 60 | [Spirit Drone](https://open.spotify.com/track/7FxyHCVNAVPIIwXQa2XMCs) | [C\. Seffora](https://open.spotify.com/artist/0QZTkU8lVulswGYzloetsp) | [Spirit Drone](https://open.spotify.com/album/1u7z4vSmuU1x8ebJDHm8pb) | 4:00 |
 | 61 | [Forever You](https://open.spotify.com/track/3kT6XRBozzK1Ej6nkyUGFL) | [Gentle States](https://open.spotify.com/artist/0BgcM7eignAv2PYIRlUTX0) | [Forever You](https://open.spotify.com/album/7451CmqIOVT42h4UqNBlqC) | 2:07 |
 | 62 | [fleeting moments](https://open.spotify.com/track/3UgcBjp1Rnis5JPmB5jRer) | [austice](https://open.spotify.com/artist/1iZ4k3yVszfq6m6vw1AQ5L) | [fleeting moments](https://open.spotify.com/album/3HYGkEnc2T8HRN9H6ciQZb) | 2:58 |
 | 63 | [Espacio Sagrado](https://open.spotify.com/track/2bVxRMmGrjNcuGChzWugK6) | [Ayla Nenura](https://open.spotify.com/artist/0xHbH4Lf2B7lHMjMMT1gRs) | [Espacio Sagrado](https://open.spotify.com/album/77G3sJ9ji3fwa57ng6rpFr) | 2:20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a Drop\. Cover: Pendulum \\m/
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,018 likes - 125 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,046 likes - 125 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 78 | [The Death of Peace of Mind](https://open.spotify.com/track/0RdjR5hi21VHLkbWCcs5Lb) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [The Death of Peace of Mind](https://open.spotify.com/album/270jnkgTvKVheWZo2tuwq9) | 4:01 |
 | 79 | [Rage](https://open.spotify.com/track/4efvHnBxgvaLqIUuMcnMCk) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [Darko US](https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K) | [Rage](https://open.spotify.com/album/3Bez7vjXWagRClOEWRkZYu) | 4:14 |
 | 80 | [Industrial Strain](https://open.spotify.com/track/3H1Er6tmf4akNcWW0iIRaj) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Higher Ground \(Part 1\)](https://open.spotify.com/album/0ZYsPQxRA80y5bEwlLQWmz) | 3:46 |
-| 81 | [Wouldn’t Change A Thing](https://open.spotify.com/track/1nxolqTzRn39brCPRk5f8v) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Wouldn’t Change A Thing](https://open.spotify.com/album/6G2HZJQGGtURKxrOdf3czb) | 3:07 |
-| 82 | [Welcome To My Life](https://open.spotify.com/track/5quWKpomMVx0NofTzESmmG) | [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k), [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [Welcome To My Life](https://open.spotify.com/album/3Q3tSxN1bqomlhCz3CNPjT) | 2:24 |
+| 81 | [Welcome To My Life](https://open.spotify.com/track/5quWKpomMVx0NofTzESmmG) | [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k), [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [Welcome To My Life](https://open.spotify.com/album/3Q3tSxN1bqomlhCz3CNPjT) | 2:24 |
+| 82 | [Wouldn’t Change A Thing](https://open.spotify.com/track/1nxolqTzRn39brCPRk5f8v) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Wouldn’t Change A Thing](https://open.spotify.com/album/6G2HZJQGGtURKxrOdf3czb) | 3:07 |
 | 83 | [Villain \(Take the Shot\)](https://open.spotify.com/track/77QKSu2wdtQE9ipgsPOOTI) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9), [ARB4](https://open.spotify.com/artist/7e2hk3B42soSKnZhzCkOD8), [Eytan Peled](https://open.spotify.com/artist/2l5HhbsV4oSidBDY8hrmoj) | [Villain \(Take the Shot\)](https://open.spotify.com/album/6LJxZqBmT4zPDvUch3AnoH) | 3:09 |
 | 84 | [Bass To The Dome](https://open.spotify.com/track/6nVyDjAhify9FGCF8TViJy) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Bass To The Dome](https://open.spotify.com/album/7wm9Wbf0GZ1wxTEyHQeMu0) | 3:23 |
 | 85 | [Obsolete \- Sullivan King Remix](https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Echo \(Deluxe Version\)](https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG) | 3:05 |
@@ -132,6 +132,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 122 | [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 |
 | 123 | [Straight To Heart](https://open.spotify.com/track/7GdF52qhqJGoNNmPl8Lx2A) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Straight To Heart](https://open.spotify.com/album/5IJXDexBNnOWpwOczOKYQe) | 2:54 |
 | 124 | [Already Dead](https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Already Dead](https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2) | 2:19 |
-| 125 | [Raindrops](https://open.spotify.com/track/2s7IP5vJzTJXRZ9vxVAuG5) | [PhaseOne](https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk), [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Raindrops](https://open.spotify.com/album/0r4obL0cot6rc2XIvcDoBD) | 3:19 |
+| 125 | [Happy](https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Happy](https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5) | 2:40 |
 
 Snapshot ID: `aDnpNgAAAADEEX3DEyOQGZ86ndHrOMLg`

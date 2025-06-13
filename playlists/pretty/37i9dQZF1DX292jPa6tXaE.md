@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop!  Cover: Kunwarr
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,092 likes - 49 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,102 likes - 49 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 17 | [Panjab X Panjeba](https://open.spotify.com/track/4J21bKWKNBOGQGxwU4PNbE) | [Sharan Sidhu](https://open.spotify.com/artist/5Q891U4M4R0EfmmE8shQw4), [Big Scene](https://open.spotify.com/artist/27W0GoT0fL5RqmkozZ7aLo) | [Loveology](https://open.spotify.com/album/2pa7Dh99V2PGdyYla6FyA9) | 3:10 |
 | 18 | [Nazare](https://open.spotify.com/track/4zjNls482xIM0msZhG94G6) | [Gur Inder](https://open.spotify.com/artist/77xL9jcxpqhctJrFGlms6l) | [Nazare](https://open.spotify.com/album/0eNQmeTr4ew3aHX3TnVlyx) | 2:50 |
 | 19 | [RECOMMEND](https://open.spotify.com/track/6DritQPJhlWshwrdrDohU0) | [Simran Veer](https://open.spotify.com/artist/7u5oYrUADeMQvMy37Y2Yi3) | [RECOMMEND](https://open.spotify.com/album/5ybV5EIKnfI9YMU50SwTnO) | 2:12 |
-| 20 | [Haak Maar Saddi Jatt Ne](https://open.spotify.com/track/57wgmIiyooq7XIHsAlEZQN) | [Arshaan Basaati](https://open.spotify.com/artist/4OmifCCVdHwdXh41OsQD9B), [Kulshaan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap), [Zora Ahluwalia](https://open.spotify.com/artist/3pqcaPl0sinm0yurXWf7E2) | [Haak Maar Saddi Jatt Ne](https://open.spotify.com/album/4FIng5FbD4rPrCt5tvzosl) | 2:59 |
+| 20 | [Haak Maar Saddi Jatt Ne](https://open.spotify.com/track/57wgmIiyooq7XIHsAlEZQN) | [Arshaan Basaati](https://open.spotify.com/artist/4OmifCCVdHwdXh41OsQD9B), [Kulshan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap), [Zora Ahluwalia](https://open.spotify.com/artist/3pqcaPl0sinm0yurXWf7E2) | [Haak Maar Saddi Jatt Ne](https://open.spotify.com/album/4FIng5FbD4rPrCt5tvzosl) | 2:59 |
 | 21 | [Prime Call](https://open.spotify.com/track/2eks9h0d4JOSjlxbEJDvqB) | [Gagandeep Thamber](https://open.spotify.com/artist/1jhApR7DwFXZNEXSy6Cq3E), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Prime Call](https://open.spotify.com/album/4oHm3n7HC9mDfOFoHanegN) | 2:39 |
 | 22 | [Baari](https://open.spotify.com/track/5NdUCRPTN3DFgKUJQ6Wu4i) | [Arssha Raikot](https://open.spotify.com/artist/20fVuCkvWDDekszp0JTM1J), [Mr Sadak](https://open.spotify.com/artist/140oebTYcxSTa4TSjasx6a) | [Baari](https://open.spotify.com/album/4BCAwakS9ed3yOoKp13rgb) | 2:49 |
 | 23 | [4 Peg](https://open.spotify.com/track/5oNUqBljB0cRNPXn9rioIs) | [Baaz Dhaliwal](https://open.spotify.com/artist/5W7gEJq6iQGu1GZofFOcQ5) | [4 Peg](https://open.spotify.com/album/2zT8qrj8Xuiv59GBYJn6Q6) | 2:51 |

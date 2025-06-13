@@ -4,7 +4,7 @@
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 김뮤즈 \(Kimmuse\)\) \(Celebrating 10 years of Fresh Finds! Meet the emerging talents of Korea!\)
 
-1,550 songs - 3 day 15 hr 11 min
+1,551 songs - 3 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,7 @@
 | [Count On Me](https://open.spotify.com/track/1FzglcHcXeAKKrj8jtTf5O) | [Kim Addict](https://open.spotify.com/artist/2egBIYU5zJpYuuLkTllux7) | [Lit Addict 2](https://open.spotify.com/album/6IwrDuCjs6pXlMdoAVGJoO) | 3:14 | 2022-11-30 | 2023-01-12 |
 | [Courage](https://open.spotify.com/track/2lxsoaZnBEskDsi6uReF4F) | [hoso](https://open.spotify.com/artist/6xxrfo1ZPg1VMEWcbJZMnm) | [Courage](https://open.spotify.com/album/4EEUifQIjK8oEnpHTR81jp) | 3:50 | 2022-04-07 | 2022-06-10 |
 | [crazy](https://open.spotify.com/track/0MBxvzlUueNHCDwtpwCR4X) | [yooji](https://open.spotify.com/artist/5Spf1uhWdc2CW3fWhZDegU) | [crazy](https://open.spotify.com/album/43QP0dljUrFHbFF3ashcZ0) | 2:38 | 2024-09-02 | 2025-02-04 |
-| [Creaminal \(feat\. Nah\)](https://open.spotify.com/track/258Np0aWF4TzwHRgh3y5Ki) | [OWALLOIL](https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2), [Nah](https://open.spotify.com/artist/7e5LW1fZXdujOwwKLIwn9Q) | [FRUTO](https://open.spotify.com/album/0Nm70H9uLXdftq0aqXZ2t3) | 3:00 | 2025-02-28 |  |
+| [Creaminal \(feat\. Nah\)](https://open.spotify.com/track/258Np0aWF4TzwHRgh3y5Ki) | [OWALLOIL](https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2), [Nah](https://open.spotify.com/artist/7e5LW1fZXdujOwwKLIwn9Q) | [FRUTO](https://open.spotify.com/album/0Nm70H9uLXdftq0aqXZ2t3) | 3:00 | 2025-02-28 | 2025-06-13 |
 | [Crossroad \(Prod\. TII\)](https://open.spotify.com/track/41kobftscgCdRBcMaa2DjG) | [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX), [INJAE](https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD) | [Monthly AP \- July, 2024](https://open.spotify.com/album/5BCngzkElUQIXCYhDT4qhY) | 3:21 | 2024-08-02 | 2025-02-04 |
 | [Crosswalk \(Feat\. Hyun Su Seo\)](https://open.spotify.com/track/3MKBK9XxTYJqPMjCewlhJt) | [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7), [Hyun Su Seo](https://open.spotify.com/artist/7njYoh6FLntRGHeTOcDdv8) | [Olive](https://open.spotify.com/album/6zFG2xmMmnDLr1MroJ3ue3) | 4:22 | 2021-12-02 | 2022-01-11 |
 | [Crush On You](https://open.spotify.com/track/63sCrgGEARzM9p4sW6AOHw) | [Rosmile](https://open.spotify.com/artist/4DvqmImfZ6X91aOtIeOTcg) | [Crush On You](https://open.spotify.com/album/4Qq6IFLtAnchs77YLIJ79j) | 3:22 | 2022-07-14 | 2022-09-06 |
@@ -1236,6 +1236,7 @@
 | [Swim](https://open.spotify.com/track/6HitvCQ2pMox22KVItCLuB) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [SWIM](https://open.spotify.com/album/3h31kw8EDPtUaihBzPIg54) | 2:53 | 2021-12-02 | 2022-01-11 |
 | [Swimming In Stars](https://open.spotify.com/track/04VNf8zCO7uj1mvGBIp0vu) | [BAMSOOSUNG](https://open.spotify.com/artist/2iijjkoVBe57TcHnsR3sOy) | [Swimming In Stars](https://open.spotify.com/album/7bhmu8wRFlltlaJTlDvfYJ) | 2:56 | 2022-09-29 | 2022-12-01 |
 | [Swirl \(feat\. Bona Zoe, JAEHA\)](https://open.spotify.com/track/4g41JYHfnqji25WwH4FwPD) | [Alive Funk](https://open.spotify.com/artist/0DyFGnh0tpbFK19DM7wvlI), [Bona Zoe](https://open.spotify.com/artist/1Y0vVGBkBNCcR0swcfXR1z), [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [Swirl \(feat\. Bona Zoe, JAEHA\)](https://open.spotify.com/album/5qG0MPq967wnm0el8iSAWn) | 2:43 | 2023-06-01 | 2023-07-27 |
+| [Syringe](https://open.spotify.com/track/1vZiEInBCBapB6wGhZX9YB) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Hospital](https://open.spotify.com/album/3Nj0yXmZnHRu4MMP31sUVK) | 4:23 | 2025-06-12 |  |
 | [System Error](https://open.spotify.com/track/3ugIDVprXVn0yoIeHjIgNm) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [System Error](https://open.spotify.com/album/1CszyO6eUiSOXJgQRwl8cf) | 3:22 | 2024-05-02 | 2025-01-21 |
 | [T](https://open.spotify.com/track/7oAyr599GDDg04H354KbvO) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [T](https://open.spotify.com/album/0igrh8PMna7LcjthTvJpu3) | 2:58 | 2023-03-31 | 2023-06-02 |
 | [T T \(Feat\. Quokka of DNEIRF\)](https://open.spotify.com/track/49lrMwawOXBBi2zQGrPTlK) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [쿼카](https://open.spotify.com/artist/4n67uXDzfLiGEeaX0NAnJX) | [T T \(Feat\. Quokka of DNEIRF\)](https://open.spotify.com/album/6LXCbFfy30ywcpWyqwHzoB) | 3:25 | 2022-07-04 | 2022-08-13 |

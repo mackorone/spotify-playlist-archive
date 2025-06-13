@@ -4,7 +4,7 @@
 
 > 센치한 감정을 노래하는 감성적인 곡들과 함께 물 멍에 잠겨보세요.
 
-140 songs - 8 hr 47 min
+143 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Because](https://open.spotify.com/track/6dc6iZ6Htwg0T1b2m9PO2L) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Because](https://open.spotify.com/album/2k5FNmZE4XTIf5h8W5sNsJ) | 3:28 | 2024-08-05 | 2025-04-02 |
 | [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 | 2024-08-05 | 2025-04-02 |
 | [Boots](https://open.spotify.com/track/7esGow9Wr88olbMx9gBwvh) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [LoveCop](https://open.spotify.com/album/57b10oox3EPeH5ErLg6aQZ) | 2:38 | 2024-08-05 | 2025-04-02 |
+| [Break My Heart Again](https://open.spotify.com/track/7zw6nQHTwml1mVuQDf5V6k) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony \(Deluxe\)](https://open.spotify.com/album/52Kcim8psSCfCJN2kktKDj) | 3:57 | 2025-06-12 |  |
 | [Breakfast](https://open.spotify.com/track/1vbL5qt2ngwEBHATWXb14U) | [off the menu](https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb) | [bright \#8](https://open.spotify.com/album/3x5JPubOZ28pGepd3EKmYW) | 2:58 | 2024-08-05 | 2025-04-02 |
 | [Breaking By](https://open.spotify.com/track/1A0LGwMocD470H5Pre6IkR) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [The Sweater Club](https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N) | 2:53 | 2024-08-05 | 2025-04-02 |
 | [Bruises](https://open.spotify.com/track/6XfXUVtNL2yxXZpiAdiLTE) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Bruises](https://open.spotify.com/album/1WbBP3rMhWfX441jq8wBQ9) | 3:27 | 2024-08-05 | 2025-05-02 |
@@ -61,7 +62,7 @@
 | [Kill Me](https://open.spotify.com/track/7LmfRICcwf2WMFUfeyo4xz) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [Kill Me](https://open.spotify.com/album/1hYpOYEGgSNcVAgJnW7eC7) | 4:02 | 2024-08-05 | 2025-04-02 |
 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 | 2024-08-05 | 2025-05-02 |
 | [L](https://open.spotify.com/track/08yMOmydumplen59qUD4zf) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [L](https://open.spotify.com/album/6m2BgbFl4IgJf7zJ48sxko) | 3:36 | 2024-08-05 | 2025-04-02 |
-| [light](https://open.spotify.com/track/4i2T7Nm4Q72sNnSlGADSm6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [light](https://open.spotify.com/album/1eSyRapMqJE70YPpjuzbvP) | 3:45 | 2024-08-05 |  |
+| [light](https://open.spotify.com/track/4i2T7Nm4Q72sNnSlGADSm6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [light](https://open.spotify.com/album/1eSyRapMqJE70YPpjuzbvP) | 3:45 | 2024-08-05 | 2025-06-13 |
 | [Lily of The Valley](https://open.spotify.com/track/4gAIUEY7VkeiKQOPwIYaYb) | [DANIEL](https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6) | [Flower](https://open.spotify.com/album/2M7Shx9AkhvDRs33JZR7wx) | 4:57 | 2025-04-17 |  |
 | [Listen to me](https://open.spotify.com/track/6LLmloLPHUbx9LoqzooTUF) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Listen to me](https://open.spotify.com/album/4Hza6L0yTT56WE9hAzLfXx) | 3:08 | 2025-05-30 |  |
 | [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 | 2024-08-05 |  |
@@ -107,7 +108,8 @@
 | [Save Yourself](https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:17 | 2024-08-05 |  |
 | [Scribble](https://open.spotify.com/track/7hJohqrezQ1FAj9MNJI7sh) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [Woo Scribbling Night](https://open.spotify.com/album/7LaiWs0SkWAK5YZGYbYehU) | 4:15 | 2025-03-14 | 2025-04-02 |
 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-08-05 |  |
-| [She](https://open.spotify.com/track/57rt6Jj7woE21ae3Ml2vw8) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [She](https://open.spotify.com/album/3LwTiul097ARDdI02bgKO9) | 3:14 | 2024-08-05 |  |
+| [Shadow of You](https://open.spotify.com/track/0dYn8RJrjXi5jh7pnhrcZi) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Hospital](https://open.spotify.com/album/3Nj0yXmZnHRu4MMP31sUVK) | 4:16 | 2025-06-12 |  |
+| [She](https://open.spotify.com/track/57rt6Jj7woE21ae3Ml2vw8) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [She](https://open.spotify.com/album/3LwTiul097ARDdI02bgKO9) | 3:14 | 2024-08-05 | 2025-06-13 |
 | [Shy Eyes](https://open.spotify.com/track/4nO1CkQRa3y8dgnv6D1AsA) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:12 | 2024-08-05 | 2025-04-02 |
 | [Six Feet Deep](https://open.spotify.com/track/0PYv39k6J2A85gCidgpn5u) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 2:59 | 2024-08-05 | 2025-04-18 |
 | [Snow](https://open.spotify.com/track/6tVKPxx1xz5Ve4yPS4sD5H) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Aren't You?](https://open.spotify.com/album/1pyBgBOQTAvZcIEcCluNj6) | 4:34 | 2024-08-05 | 2025-04-02 |
@@ -125,7 +127,7 @@
 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 | 2024-08-05 | 2025-04-23 |
 | [Tell 'em boys](https://open.spotify.com/track/0rZf7sBjvU2hj7TNBbn8qm) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:29 | 2024-08-05 | 2025-04-02 |
 | [The Craving \(Jenna's version\)](https://open.spotify.com/track/4hfqe20vqkuRv1RDsA1LbQ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 2:54 | 2024-08-05 |  |
-| [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-08-05 |  |
+| [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-08-05 | 2025-06-13 |
 | [The Lights Behind You](https://open.spotify.com/track/166iAk7X9kL8MflEfDm89P) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Aren't You?](https://open.spotify.com/album/1pyBgBOQTAvZcIEcCluNj6) | 5:12 | 2024-08-05 | 2025-04-02 |
 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2024-08-05 |  |
 | [The Most Beautiful Thing](https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:55 | 2025-03-14 |  |
@@ -134,6 +136,7 @@
 | [The Season of Orange](https://open.spotify.com/track/4P8yZ1tESCkgOXTbg6HMok) | [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [Garden](https://open.spotify.com/album/05bGRuY2yeknFCV4vzeOSU) | 5:09 | 2025-03-14 | 2025-04-02 |
 | [Then Tonight](https://open.spotify.com/track/4B9GdhLzBOhvSMeLXDZDxD) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [orientation](https://open.spotify.com/album/31AH4renaU1sIAQXijUY4Z) | 3:53 | 2025-03-14 | 2025-04-02 |
 | [This Is Nowhere](https://open.spotify.com/track/7aQx06Jx3iA9pRdixCUADJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 3:44 | 2024-08-05 | 2025-04-18 |
+| [velvet sunsets](https://open.spotify.com/track/08mSxxh6tQydW7nYICEp4R) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [velvet sunsets](https://open.spotify.com/album/1tSTvdGtPgTOsUlDRrOMsY) | 3:24 | 2025-06-12 |  |
 | [We Don't Wanna Talk](https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Nowhere](https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO) | 2:39 | 2024-08-05 |  |
 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 | 2025-03-14 |  |
 | [Wednesday Afternoon](https://open.spotify.com/track/71QuZsn6oeJz1hV8TOQQLJ) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Wednesday Afternoon](https://open.spotify.com/album/43xJu9O3OvpJsxfLerJhIZ) | 3:39 | 2024-08-05 | 2025-04-02 |

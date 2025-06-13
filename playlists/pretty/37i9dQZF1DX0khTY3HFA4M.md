@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,746 likes - 450 songs - 17 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,808 likes - 450 songs - 17 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -290,7 +290,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 280 | [Shoreditch](https://open.spotify.com/track/0CQq9NEFcGNi3FMxpMKwj4) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Shoreditch](https://open.spotify.com/album/0swV7ZNwhh78Q6bqHVKJRc) | 2:33 |
 | 281 | [summer let go](https://open.spotify.com/track/0MC6K4FCW4kDZsNXVn994T) | [LoDub](https://open.spotify.com/artist/0r8v9ej0fnnyLhdF8YYz36) | [summer let go](https://open.spotify.com/album/0ZT611XyEpAdfYaRgR7KB2) | 2:22 |
 | 282 | [Waking](https://open.spotify.com/track/4Z4tyBpfEFrSvE0UeDAnum) | [In\-No\-Scence](https://open.spotify.com/artist/5MOvmIpMThMyTNmvwdckcA), [Labbra\-Lofi](https://open.spotify.com/artist/0iz0wDAmK8xK3MTD4VUatq) | [Waking](https://open.spotify.com/album/6lLSBtjC6x5hY9j7LyPaI3) | 2:00 |
-| 283 | [Sloane](https://open.spotify.com/track/1fbANcHGIX2fCXtKev0pMA) | [Julia Groves](https://open.spotify.com/artist/2kobiVcFE5QbsUbkxkrFq3) | [Sloane](https://open.spotify.com/album/6MFvfBN3PKYApyt3Te04tv) | 2:13 |
+| 283 | [Sloane](https://open.spotify.com/track/1fbANcHGIX2fCXtKev0pMA) | [J\. Groves](https://open.spotify.com/artist/7jekqAvw0vS5aF7VnFGzLC) | [Sloane](https://open.spotify.com/album/6MFvfBN3PKYApyt3Te04tv) | 2:13 |
 | 284 | [Heart\-Shaped](https://open.spotify.com/track/35Y8cKrF1T4fvkWkfEXCZM) | [Lovely Rascals](https://open.spotify.com/artist/3vxzErr7ghDB5qnfFXnaw3) | [Heart\-Shaped](https://open.spotify.com/album/3QREKCZ4wBIIjZT9iLnXN8) | 2:48 |
 | 285 | [Oh way](https://open.spotify.com/track/33SmufLRFnQYqhrdVxQRCw) | [Choi](https://open.spotify.com/artist/0mCfY94zBDWy5URZg6cjq0) | [Oh way](https://open.spotify.com/album/08uaZ1l5vbhkoCLYrtN8FI) | 2:24 |
 | 286 | [1 Billion Secure](https://open.spotify.com/track/3uD0XZeL8mIONPE1e2CJAr) | [chilltrap](https://open.spotify.com/artist/33QpdTC6EssmdARvxTLOMm) | [StarChip](https://open.spotify.com/album/2NgzY6FunZrbKatogXOpKV) | 1:55 |
@@ -383,7 +383,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 373 | [Satisfying](https://open.spotify.com/track/4w63bAIhUhrwF8naOpBpzH) | [slvmdunk](https://open.spotify.com/artist/6xWPNNIPMMeXMqzJ8o0T3w) | [Satisfying](https://open.spotify.com/album/6DNw8LeOn3EfGByDmXOw8T) | 2:13 |
 | 374 | [båt](https://open.spotify.com/track/6luKHF0sjc8T416M6ngTtT) | [dLira](https://open.spotify.com/artist/62qH5lO3YpMpkVJJb7JuEv) | [båt](https://open.spotify.com/album/1Nvdh4tlHNlxSDjZNU4TgI) | 2:29 |
 | 375 | [Maybe Tomorrow](https://open.spotify.com/track/0m5yHDR4kne7o4ncHfaqKi) | [downstreamdream](https://open.spotify.com/artist/3C1jiA2XGYEbXdJtAUpmVO) | [Maybe Tomorrow](https://open.spotify.com/album/18fua0f7BAgN0WbqBHAZxn) | 2:34 |
-| 376 | [Such A Special Night](https://open.spotify.com/track/0tPR5nUl83pLreoVn2LYW5) | [Julia Groves](https://open.spotify.com/artist/2kobiVcFE5QbsUbkxkrFq3) | [Such A Special Night](https://open.spotify.com/album/7kkykoquf5CFzPrbXXPFxK) | 1:40 |
+| 376 | [Such A Special Night](https://open.spotify.com/track/0tPR5nUl83pLreoVn2LYW5) | [J\. Groves](https://open.spotify.com/artist/7jekqAvw0vS5aF7VnFGzLC) | [Such A Special Night](https://open.spotify.com/album/7kkykoquf5CFzPrbXXPFxK) | 1:40 |
 | 377 | [Fireside Chat](https://open.spotify.com/track/5FTYsFo0PtsnqGY2Bjsb79) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Fireside Chat](https://open.spotify.com/album/36pGiftpvnmsVt11JuAxHA) | 2:23 |
 | 378 | [Tube Socks](https://open.spotify.com/track/6KXEMSXIk5A1QeGy3MlEzt) | [Doubleclique](https://open.spotify.com/artist/4JjFrDwtpM9YKHOchNn8Rx) | [Whatever](https://open.spotify.com/album/54oAe1S61hQf4CcnlSkdw2) | 2:40 |
 | 379 | [Something To Sing About](https://open.spotify.com/track/42nEk1NmYLyftkrv1SNfWs) | [X84](https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4) | [Something To Sing About](https://open.spotify.com/album/6ZK7xjavf50MFK7iPg27iG) | 2:44 |

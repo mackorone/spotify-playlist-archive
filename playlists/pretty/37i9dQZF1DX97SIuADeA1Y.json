@@ -1,6 +1,6 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 342452,
+  "num_followers": 342458,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/5ik87NiTm8sIW95DZjJPUk"
-      },
-      "artists": [
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        }
-      ],
-      "duration_ms": 144677,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/2nCIE2AVFQ1adRVkocdGOp"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Boots",
         "url": "https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 161000,
       "name": "Boots",
       "url": "https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/5ik87NiTm8sIW95DZjJPUk"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        }
+      ],
+      "duration_ms": 144677,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/2nCIE2AVFQ1adRVkocdGOp"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "One In A Million",
-        "url": "https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f"
-      },
-      "artists": [
-        {
-          "name": "LANN\u00c9",
-          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
-        }
-      ],
-      "duration_ms": 128951,
-      "name": "One In A Million",
-      "url": "https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Baby Steps",
         "url": "https://open.spotify.com/album/3F3aPvdeNuZRr8HHj2N3UB"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 143906,
       "name": "Baby Steps",
       "url": "https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "One In A Million",
+        "url": "https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f"
+      },
+      "artists": [
+        {
+          "name": "LANN\u00c9",
+          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
+        }
+      ],
+      "duration_ms": 128951,
+      "name": "One In A Million",
+      "url": "https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -775,26 +775,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Everybody Cries",
-        "url": "https://open.spotify.com/album/22UkULGN9jMQruUx7wHBSu"
-      },
-      "artists": [
-        {
-          "name": "Cleez",
-          "url": "https://open.spotify.com/artist/5YPawz3wh4RMf032MsIJq8"
-        },
-        {
-          "name": "R.I.O.",
-          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
-        }
-      ],
-      "duration_ms": 170662,
-      "name": "Everybody Cries",
-      "url": "https://open.spotify.com/track/2loc1fUXmJr8urMqhZOKJ8"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Outta Love",
         "url": "https://open.spotify.com/album/59FlDwNsfaskGibimitsIm"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 164704,
       "name": "Outta Love",
       "url": "https://open.spotify.com/track/0oLBr0Knuo63yDvnq3f5U3"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "Everybody Cries",
+        "url": "https://open.spotify.com/album/22UkULGN9jMQruUx7wHBSu"
+      },
+      "artists": [
+        {
+          "name": "Cleez",
+          "url": "https://open.spotify.com/artist/5YPawz3wh4RMf032MsIJq8"
+        },
+        {
+          "name": "R.I.O.",
+          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
+        }
+      ],
+      "duration_ms": 170662,
+      "name": "Everybody Cries",
+      "url": "https://open.spotify.com/track/2loc1fUXmJr8urMqhZOKJ8"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -923,6 +923,26 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/2TSQFv7xX0IDqibKup1CyH"
+      },
+      "artists": [
+        {
+          "name": "Nora & Chris",
+          "url": "https://open.spotify.com/artist/0YFn3NxI5ooU7IhGvRB5Yg"
+        },
+        {
+          "name": "Alex Martin",
+          "url": "https://open.spotify.com/artist/04DZVy8gTWcLSGZOPqPp2c"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4YBjClI5wybymYzEs5jjlP"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "Darkroom",
         "url": "https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 156674,
       "name": "Darkroom",
       "url": "https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/2TSQFv7xX0IDqibKup1CyH"
-      },
-      "artists": [
-        {
-          "name": "Nora & Chris",
-          "url": "https://open.spotify.com/artist/0YFn3NxI5ooU7IhGvRB5Yg"
-        },
-        {
-          "name": "Alex Martin",
-          "url": "https://open.spotify.com/artist/04DZVy8gTWcLSGZOPqPp2c"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/4YBjClI5wybymYzEs5jjlP"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
+      },
+      "artists": [
+        {
+          "name": "MNI",
+          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "duration_ms": 167380,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "Talk Talk Talk",
         "url": "https://open.spotify.com/album/2P2GJ1cTTO7tWABUUMwrIE"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 148657,
       "name": "Talk Talk Talk",
       "url": "https://open.spotify.com/track/1ktSui7aiz9XceMdTDeCUF"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
-      },
-      "artists": [
-        {
-          "name": "MNI",
-          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
-        },
-        {
-          "name": "Jordan Shaw",
-          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
-        }
-      ],
-      "duration_ms": 167380,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
     },
     {
       "added_at": "2025-02-14 16:04:15",

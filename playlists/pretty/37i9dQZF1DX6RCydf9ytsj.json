@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating the 40th anniversary of The Judd's album \"Why Not Me\" on 80s Country!",
-  "num_followers": 685209,
+  "num_followers": 685351,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Friendship",
-        "url": "https://open.spotify.com/album/4tgLQ8VwHXVBkRi3beX95g"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 231026,
-      "name": "Seven Spanish Angels (with Ray Charles)",
-      "url": "https://open.spotify.com/track/51EKPuV1uAWryjNMqZLtgJ"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Won't Be Blue Anymore",
         "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 236626,
       "name": "Meet Me In Montana",
       "url": "https://open.spotify.com/track/0qXUwQbZHFnhAGCgqwz2lR"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Friendship",
+        "url": "https://open.spotify.com/album/4tgLQ8VwHXVBkRi3beX95g"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 231026,
+      "name": "Seven Spanish Angels (with Ray Charles)",
+      "url": "https://open.spotify.com/track/51EKPuV1uAWryjNMqZLtgJ"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "The Dukes Of Hazzard",
-        "url": "https://open.spotify.com/album/4CvOd5ePKV2kpxayVWGlnq"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
       },
       "artists": [
         {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
         }
       ],
-      "duration_ms": 126586,
-      "name": "Theme from \"The Dukes of Hazzard\" (Good Ol' Boys)",
-      "url": "https://open.spotify.com/track/7xRind9RPsvGHWR0qbGmfE"
+      "duration_ms": 220426,
+      "name": "I Loved 'Em Every One",
+      "url": "https://open.spotify.com/track/4td6tN1J2QlESZyUhlD77m"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
+        "name": "The Dukes Of Hazzard",
+        "url": "https://open.spotify.com/album/4CvOd5ePKV2kpxayVWGlnq"
       },
       "artists": [
         {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
         }
       ],
-      "duration_ms": 220426,
-      "name": "I Loved 'Em Every One",
-      "url": "https://open.spotify.com/track/4td6tN1J2QlESZyUhlD77m"
+      "duration_ms": 126586,
+      "name": "Theme from \"The Dukes of Hazzard\" (Good Ol' Boys)",
+      "url": "https://open.spotify.com/track/7xRind9RPsvGHWR0qbGmfE"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
+      },
+      "artists": [
+        {
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Only One You",
+      "url": "https://open.spotify.com/track/36V6Cb9DjnxlVNqqgD5piw"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
         "name": "Roll On",
         "url": "https://open.spotify.com/album/2wxMN8hgpUMTLpD8CilSPb"
       },
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
-      },
-      "artists": [
-        {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Only One You",
-      "url": "https://open.spotify.com/track/36V6Cb9DjnxlVNqqgD5piw"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Walk The Way The Wind Blows",
         "url": "https://open.spotify.com/album/5F5np5Tdq8eWV79SNf8HHv"
       },
@@ -1463,6 +1463,22 @@
       "duration_ms": 218293,
       "name": "Love At The Five & Dime",
       "url": "https://open.spotify.com/track/02WLZdGJfTX1ZgshVkj2aB"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
+      },
+      "artists": [
+        {
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+        }
+      ],
+      "duration_ms": 190733,
+      "name": "Do You Wanna Go to Heaven",
+      "url": "https://open.spotify.com/track/27QrAETf4eB2J533ktttTw"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1499,34 +1515,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Oak Ridge Boys Collection",
-        "url": "https://open.spotify.com/album/6aQEjw5vvwJaBxYY0w6HJI"
+        "name": "Wild And Blue",
+        "url": "https://open.spotify.com/album/6i9WCdKglXZgc4wblSBeSc"
       },
       "artists": [
         {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+          "name": "John Anderson",
+          "url": "https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv"
         }
       ],
-      "duration_ms": 159866,
-      "name": "American Made",
-      "url": "https://open.spotify.com/track/1wtcyTExLF8nZu9ZphHIl1"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
-      },
-      "artists": [
-        {
-          "name": "T.G. Sheppard",
-          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Do You Wanna Go to Heaven",
-      "url": "https://open.spotify.com/track/27QrAETf4eB2J533ktttTw"
+      "duration_ms": 183533,
+      "name": "Swingin'",
+      "url": "https://open.spotify.com/track/7x6z6qiA3eXSeKOH7hH2Mr"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Wild And Blue",
-        "url": "https://open.spotify.com/album/6i9WCdKglXZgc4wblSBeSc"
+        "name": "Oak Ridge Boys Collection",
+        "url": "https://open.spotify.com/album/6aQEjw5vvwJaBxYY0w6HJI"
       },
       "artists": [
         {
-          "name": "John Anderson",
-          "url": "https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv"
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
         }
       ],
-      "duration_ms": 183533,
-      "name": "Swingin'",
-      "url": "https://open.spotify.com/track/7x6z6qiA3eXSeKOH7hH2Mr"
+      "duration_ms": 159866,
+      "name": "American Made",
+      "url": "https://open.spotify.com/track/1wtcyTExLF8nZu9ZphHIl1"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Conway Twitty",
-        "url": "https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 170266,
-      "name": "Tight Fittin' Jeans",
-      "url": "https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Best Of Eddy Raven",
         "url": "https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 146466,
       "name": "I Got Mexico",
       "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Conway Twitty",
+        "url": "https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 170266,
+      "name": "Tight Fittin' Jeans",
+      "url": "https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/37h9Piw16ne1sxRopr8JD8"
-      },
-      "artists": [
-        {
-          "name": "T. Graham Brown",
-          "url": "https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "I Tell It Like It Used To Be",
-      "url": "https://open.spotify.com/track/5wsa5z6Vfq0gjaC32X4hAG"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "The Forester Sisters",
         "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
       },
@@ -1876,17 +1860,17 @@
       "added_at": "2024-10-14 21:15:40",
       "album": {
         "name": "Super Hits",
-        "url": "https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it"
+        "url": "https://open.spotify.com/album/37h9Piw16ne1sxRopr8JD8"
       },
       "artists": [
         {
-          "name": "Shenandoah",
-          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
+          "name": "T. Graham Brown",
+          "url": "https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik"
         }
       ],
-      "duration_ms": 241026,
-      "name": "Sunday In the South",
-      "url": "https://open.spotify.com/track/4txNtoBnQ3OgazfeTS8iGP"
+      "duration_ms": 180866,
+      "name": "I Tell It Like It Used To Be",
+      "url": "https://open.spotify.com/track/5wsa5z6Vfq0gjaC32X4hAG"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1907,6 +1891,22 @@
       "duration_ms": 230400,
       "name": "The Conversation (with Hank Williams Jr.)",
       "url": "https://open.spotify.com/track/1O2AIet2IjgK6A4vrJQPAK"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it"
+      },
+      "artists": [
+        {
+          "name": "Shenandoah",
+          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
+        }
+      ],
+      "duration_ms": 241026,
+      "name": "Sunday In the South",
+      "url": "https://open.spotify.com/track/4txNtoBnQ3OgazfeTS8iGP"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "Good Ole Boys Like Me - Single Version",
-      "url": "https://open.spotify.com/track/7fw6XQdMN9BszacQxoz4gZ"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Ultimate Waylon Jennings",
         "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 169600,
       "name": "Just to Satisfy You",
       "url": "https://open.spotify.com/track/7dwgvrv1SrryEYG2MMNuXN"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
+      },
+      "artists": [
+        {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "Good Ole Boys Like Me - Single Version",
+      "url": "https://open.spotify.com/track/7fw6XQdMN9BszacQxoz4gZ"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Oak Ridge Boys Greatest Hits",
-        "url": "https://open.spotify.com/album/3LeMf9unDBiy665fDBJWcN"
-      },
-      "artists": [
-        {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Leaving Louisiana In The Broad Daylight",
-      "url": "https://open.spotify.com/track/1ADDagtKH24eNO8eJ6II6j"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Cheat the Night",
         "url": "https://open.spotify.com/album/6ZMLxQUzTCjKYB1IVhAgLM"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 250120,
       "name": "Baby I Lied",
       "url": "https://open.spotify.com/track/5KqGrafc3paz7bNPju5Ne9"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Oak Ridge Boys Greatest Hits",
+        "url": "https://open.spotify.com/album/3LeMf9unDBiy665fDBJWcN"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Leaving Louisiana In The Broad Daylight",
+      "url": "https://open.spotify.com/track/1ADDagtKH24eNO8eJ6II6j"
     },
     {
       "added_at": "2024-10-14 21:15:40",

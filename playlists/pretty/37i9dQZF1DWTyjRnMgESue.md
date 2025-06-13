@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Drugdealer & Weyes Blood
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,270 likes - 109 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,289 likes - 109 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,983 songs - 1 day 16 hr 10 min
+1,984 songs - 1 day 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1652,6 +1652,7 @@
 | [Stories \- Cello Version](https://open.spotify.com/track/6eN1XXmSoUqj6tFPadXHWB) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Stories](https://open.spotify.com/album/79PTlHzCS2iyU1GJU6qE3b) | 1:00 | 2023-04-08 |  |
 | [Straying Some More](https://open.spotify.com/track/34p4TzFORs4CJAa5m3Vkqz) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Constant Glow](https://open.spotify.com/album/1GJvpTYe3wv4ZpjXwH1oUP) | 1:03 | 2024-02-09 | 2024-02-13 |
 | [Strength](https://open.spotify.com/track/5QSzfNxyrTYvsBtH0IW9IJ) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Strength](https://open.spotify.com/album/2ZtiBaN0OVUpGZEbMk50os) | 1:00 | 2024-07-02 |  |
+| [Summer](https://open.spotify.com/track/5SdZotpxYvXkhyzUaN7HZZ) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Summer](https://open.spotify.com/album/2PkIKzvoZxDGSHYnMdv5WQ) | 1:00 | 2025-06-12 |  |
 | [Summer Daydreaming](https://open.spotify.com/track/5V60Bnz1My2zIfWii6qrCg) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Hope Returns](https://open.spotify.com/album/2C0XsBRLNZ8vFdiy6XmqdC) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Summer Daydreams](https://open.spotify.com/track/1FiZJOfuceuv3KKFgbxM44) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Calming Piano Melodies](https://open.spotify.com/album/2AwrLqSXZuZna6B3SfsKHc) | 1:00 | 2023-05-14 | 2024-01-30 |
 | [Summer Eclipse](https://open.spotify.com/track/5BUrc7LkJcFBEqx3IKDESd) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Liminal Space](https://open.spotify.com/album/1tE3wozeYnHIJVPQeCURK3) | 1:03 | 2022-04-20 |  |

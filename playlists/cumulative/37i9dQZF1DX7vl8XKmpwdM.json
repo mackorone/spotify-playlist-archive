@@ -1511,6 +1511,24 @@
     },
     {
       "album": {
+        "name": "Feelingu Paatu (From \"DNA\")",
+        "url": "https://open.spotify.com/album/7c6f9E75DjKRrhGtkGGQ43"
+      },
+      "artists": [
+        {
+          "name": "Sahi Siva",
+          "url": "https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "Feelingu Paatu - From \"DNA\"",
+      "url": "https://open.spotify.com/track/2hiHv26XmD3xk5vK0yRi23"
+    },
+    {
+      "album": {
         "name": "Fire Song (From \"Kanguva\") (Tamil)",
         "url": "https://open.spotify.com/album/5Sai4cfSIDwEUxHg7apPdl"
       },
@@ -3592,7 +3610,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 247188,
       "name": "Peelings (From \"Pushpa 2 The Rule\") [TAMIL]",
       "url": "https://open.spotify.com/track/20OAzzMq5q3oM6ejboOW0Y"

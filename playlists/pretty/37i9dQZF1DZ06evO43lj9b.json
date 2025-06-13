@@ -1,12 +1,12 @@
 {
   "description": "This is Roy Ayers. The essential tracks, all in one playlist.",
-  "num_followers": 16243,
+  "num_followers": 16244,
   "original_name": "This Is Roy Ayers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEd1gAAAAAA6u755kdkvxmSSDhcujMYy",
+  "snapshot_id": "aEjHAAAAAACqbbUTf5mzrStCNJxTy3Yp",
   "tracks": [
     {
       "added_at": null,
@@ -139,18 +139,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/7hAg1MAB7TPe6IEDKk2SUD"
+        "name": "Instrumentals JID009",
+        "url": "https://open.spotify.com/album/6bQDhnnJqR0QZlYy2dMh09"
       },
       "artists": [
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        },
         {
           "name": "Roy Ayers",
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         }
       ],
-      "duration_ms": 361826,
-      "name": "Love Will Bring Us Back Together",
-      "url": "https://open.spotify.com/track/5yw2PVkZ9ttCVsBlDBIOb2"
+      "duration_ms": 181289,
+      "name": "Sunflowers - Instrumental",
+      "url": "https://open.spotify.com/track/4TavIXGtNkJTvHFvulvrC4"
     },
     {
       "added_at": null,
@@ -171,6 +179,22 @@
       "duration_ms": 253933,
       "name": "Mystic Voyage",
       "url": "https://open.spotify.com/track/6eGghCgGqV7xo7FrU0hjcB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/7hAg1MAB7TPe6IEDKk2SUD"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 361826,
+      "name": "Love Will Bring Us Back Together",
+      "url": "https://open.spotify.com/track/5yw2PVkZ9ttCVsBlDBIOb2"
     },
     {
       "added_at": null,
@@ -231,30 +255,6 @@
       "duration_ms": 222000,
       "name": "Mystic Voyage",
       "url": "https://open.spotify.com/track/7jFpUEw5rRjSfoUBC6kwWw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Instrumentals JID009",
-        "url": "https://open.spotify.com/album/6bQDhnnJqR0QZlYy2dMh09"
-      },
-      "artists": [
-        {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
-        },
-        {
-          "name": "Ali Shaheed Muhammad",
-          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
-        },
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 181289,
-      "name": "Sunflowers - Instrumental",
-      "url": "https://open.spotify.com/track/4TavIXGtNkJTvHFvulvrC4"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
         }
       ],
-      "duration_ms": 180549,
-      "name": "Soulful and Unique",
-      "url": "https://open.spotify.com/track/6eA9vRrNPGGPMszrBcOn3a"
+      "duration_ms": 142127,
+      "name": "Hey Lover",
+      "url": "https://open.spotify.com/track/0zE96LJrCv81I6N1zRaJSO"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
         }
       ],
-      "duration_ms": 142127,
-      "name": "Hey Lover",
-      "url": "https://open.spotify.com/track/0zE96LJrCv81I6N1zRaJSO"
+      "duration_ms": 180549,
+      "name": "Soulful and Unique",
+      "url": "https://open.spotify.com/track/6eA9vRrNPGGPMszrBcOn3a"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coffy",
-        "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Exotic Dance - From The \"Coffy\" Soundtrack",
-      "url": "https://open.spotify.com/track/7DGeZKtZkisHSnN2HMTWWW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Red, Black & Green",
         "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 219989,
       "name": "Shadows of The East",
       "url": "https://open.spotify.com/track/5lZKoCghq9BWOU2i0qX7wk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coffy",
+        "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Exotic Dance - From The \"Coffy\" Soundtrack",
+      "url": "https://open.spotify.com/track/7DGeZKtZkisHSnN2HMTWWW"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evolution: The Polydor Anthology",
-        "url": "https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 230733,
-      "name": "For Real",
-      "url": "https://open.spotify.com/track/5H18pyi8z7yBX7ZUgaqspB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roy Ayers JID002",
         "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 181756,
       "name": "Sunflowers",
       "url": "https://open.spotify.com/track/7ihSVr02gw15lcxPgpWClk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evolution: The Polydor Anthology",
+        "url": "https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 230733,
+      "name": "For Real",
+      "url": "https://open.spotify.com/track/5H18pyi8z7yBX7ZUgaqspB"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Virgin Ubiquity: Unreleased Recordings 1976 - 1981",
-        "url": "https://open.spotify.com/album/77xEWHwI4WAWyBszBTOQpU"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 292413,
-      "name": "Green and Gold",
-      "url": "https://open.spotify.com/track/4Y2c8eFEjpo5Su3PYFSZaQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Change Up The Groove",
         "url": "https://open.spotify.com/album/2odkikUoXGKyYYi5rcY79M"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Virgin Ubiquity: Unreleased Recordings 1976 - 1981",
+        "url": "https://open.spotify.com/album/77xEWHwI4WAWyBszBTOQpU"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 292413,
+      "name": "Green and Gold",
+      "url": "https://open.spotify.com/track/4Y2c8eFEjpo5Su3PYFSZaQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In The Dark (Expanded Edition)",
         "url": "https://open.spotify.com/album/7374P9KcnkgNpxAmNEu5VF"
       },
@@ -915,26 +915,6 @@
       "duration_ms": 390933,
       "name": "Poo Poo La La",
       "url": "https://open.spotify.com/track/2oadlkk3BsJyYhqcTU2NCz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Virgin Ubiquity: Unreleased Recordings 1976 - 1981",
-        "url": "https://open.spotify.com/album/77xEWHwI4WAWyBszBTOQpU"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "Merry Clayton",
-          "url": "https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy"
-        }
-      ],
-      "duration_ms": 231813,
-      "name": "Mystery of Love",
-      "url": "https://open.spotify.com/track/30SaZGpgPzSPrOvXb5ygYw"
     },
     {
       "added_at": null,
@@ -967,6 +947,26 @@
       "duration_ms": 138146,
       "name": "Escape - From The \"Coffy\" Soundtrack",
       "url": "https://open.spotify.com/track/4QiC3Z8hibUBRh1JrGxTk6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Virgin Ubiquity: Unreleased Recordings 1976 - 1981",
+        "url": "https://open.spotify.com/album/77xEWHwI4WAWyBszBTOQpU"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Merry Clayton",
+          "url": "https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "Mystery of Love",
+      "url": "https://open.spotify.com/track/30SaZGpgPzSPrOvXb5ygYw"
     },
     {
       "added_at": null,

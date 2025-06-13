@@ -4,7 +4,7 @@
 
 > Relax to some gentle percussion from all corners of the globe.
 
-145 songs - 8 hr 31 min
+148 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Conga Jog](https://open.spotify.com/track/5OHlCmavqq8SFwxmofUy9W) | [Al Gromer Khan](https://open.spotify.com/artist/7sGvSRxJMoJdO530qjic7H) | [Tantra Drums](https://open.spotify.com/album/3ryPNMqfISbRxlAlrSuWb4) | 4:24 | 2022-05-19 |  |
 | [Conga Jog](https://open.spotify.com/track/6CIaFiJeRNFlb5VkAnKayz) | [Al Gromer Khan](https://open.spotify.com/artist/7sGvSRxJMoJdO530qjic7H) | [Tantra Drums](https://open.spotify.com/album/0b6rrJHnrBBZkhm3VU1BqE) | 4:24 | 2022-06-29 | 2024-04-19 |
 | [Cosmic Wind](https://open.spotify.com/track/7M6Oo8FUfnOzmv9QlINuOb) | [Eon Weaver](https://open.spotify.com/artist/0HI0efkGlLzkrq0z3l2k2c) | [Cosmic Wind](https://open.spotify.com/album/7Ekok52CQNbNCsyU6LDdUq) | 2:31 | 2025-03-18 |  |
+| [Damgham Serenity](https://open.spotify.com/track/0VWsScnCcsKWiR8zGb7Yq4) | [Above Neon](https://open.spotify.com/artist/5c1cJaN0HDFVtzxD5yY85E) | [Damgham Serenity](https://open.spotify.com/album/4faHfi54IhiBMf6KrFPWHK) | 2:26 | 2025-06-12 |  |
 | [Dancing Stardust](https://open.spotify.com/track/04lgDJZG1wsGpgugqOP5zD) | [Michael Charles Smith](https://open.spotify.com/artist/3ZxT32TOg4CyHgKJjRoWfH) | [Repose](https://open.spotify.com/album/25NmMYVeGecGa4pPlN1soa) | 2:50 | 2022-05-19 |  |
 | [Darma Karma](https://open.spotify.com/track/6ztM1Tfblptt8WPceaYzX7) | [Darma Waters](https://open.spotify.com/artist/4nN4oxcvDaWafW2VAmvf7Y) | [Darma Karma](https://open.spotify.com/album/3MSb27LzvO7txXUL0qu9Xk) | 2:56 | 2024-08-22 |  |
 | [Day Dream](https://open.spotify.com/track/4ySaCVsJqGuiMDinbNf4tU) | [HandpanSolo](https://open.spotify.com/artist/2pOoggox0xym6qeDd6QStQ) | [Day Dream](https://open.spotify.com/album/5bQ31vPL6DlRcQ3Y8BHE3z) | 3:47 | 2023-03-24 |  |
@@ -81,10 +82,11 @@
 | [Ionian](https://open.spotify.com/track/0It1fCg1NbOdCtSd1quACn) | [Elysian Heart](https://open.spotify.com/artist/1x3oP4wJPV3fUtTV6KQIvD) | [Ionian](https://open.spotify.com/album/7rXOkTKkNCldFNkEzItbw8) | 2:42 | 2025-05-16 |  |
 | [Kaishi](https://open.spotify.com/track/4SBgaMZ0D8zfzE4y4LPuqS) | [Handpanmusic Collective](https://open.spotify.com/artist/044UnoyLTrw05IeHgZE0sa), [Jascha](https://open.spotify.com/artist/03yMPz7wEIn6nk7ZzRKBff) | [the wine cellar tapes part one](https://open.spotify.com/album/0vZFg2R7Ghd1U5vAu5fAwN) | 4:43 | 2023-08-10 |  |
 | [Kaleidoscope: II\. Cafe without Sugar](https://open.spotify.com/track/2XiYlVBHtJTbpr9rYsEeYH) | [Chin Cheng Lin](https://open.spotify.com/artist/69M2aODb7k10CQ3eN3CRXt) | [Lin: Star Splendours](https://open.spotify.com/album/10CGn8DyIsIu3Q45Xt85MY) | 3:12 | 2022-05-19 | 2025-04-30 |
-| [Lafa](https://open.spotify.com/track/1yZRu9xNjGNztXRV7wHWg7) | [David Charrier](https://open.spotify.com/artist/52qbMkeZq79cVYB6RqLQ98) | [Ephemeral](https://open.spotify.com/album/5dcZgL9TVeOcyZ0HcafHNU) | 4:55 | 2022-05-19 |  |
+| [Lafa](https://open.spotify.com/track/1yZRu9xNjGNztXRV7wHWg7) | [David Charrier](https://open.spotify.com/artist/52qbMkeZq79cVYB6RqLQ98) | [Ephemeral](https://open.spotify.com/album/5dcZgL9TVeOcyZ0HcafHNU) | 4:55 | 2022-05-19 | 2025-06-13 |
 | [Lam Vibration](https://open.spotify.com/track/4sPUIital6e6OrxlKUTOgI) | [J\. Cartwright](https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC) | [Lam Vibration](https://open.spotify.com/album/0PNbcu3I16RScv0tSFh3ee) | 2:31 | 2024-07-18 |  |
 | [Las Campanas](https://open.spotify.com/track/1sPL3D9CRdGjLEy3JEW2Wh) | [Wolfgang Ohmer](https://open.spotify.com/artist/5WqbDL1I1busS5YanO5z0k) | [Sonic Blue \- Ambient Hang Music](https://open.spotify.com/album/45tHjwSf9ctXXrLFdnK4X5) | 6:15 | 2022-05-19 | 2024-03-06 |
 | [Lost Treasures](https://open.spotify.com/track/1rV4lmkwXPVJl5styxffBR) | [Serenity Music Zone](https://open.spotify.com/artist/5vvexjQ7ylXNyh3wLp5FvA) | [World of African Drumming \(Ancient Egypt Atmosphere, New Age Sound of the Far Orient, Tribal African Drums, Relaxation Music Oasis\)](https://open.spotify.com/album/445O0l2wZuOGXomPVmUOPg) | 4:42 | 2022-05-19 |  |
+| [Madehvah](https://open.spotify.com/track/5SulQBco8pEkIXrN3owQLm) | [Amberware](https://open.spotify.com/artist/3PpMuouibfHDiqfOFfefxf) | [Madehvah](https://open.spotify.com/album/3Fgq3xyDICuFmRqxyJkWok) | 3:11 | 2025-06-12 |  |
 | [Marari Vibes](https://open.spotify.com/track/7FGXxtTLhPXusdPJox3q8R) | [The Surrealers](https://open.spotify.com/artist/6G9OIA19uLnfd7PNELBJI9) | [Marari Vibes](https://open.spotify.com/album/7El5vb5cGWoy9shvwiZYBT) | 2:57 | 2024-03-05 |  |
 | [Marimba Lullaby](https://open.spotify.com/track/1HZmRFqDEYJ8ZqkuuOUsjv) | [Relaxing Music For You](https://open.spotify.com/artist/2fP54afZ3OtygUaN5gMqfj) | [Music for Yoga, Peacefull Sleep & Meditation](https://open.spotify.com/album/4Fr5gABEOtExJANRud9T0N) | 3:12 | 2022-05-19 |  |
 | [Matin](https://open.spotify.com/track/6Pb1BFXQDLryvNw7KHSSxI) | [Raphael Hofmann](https://open.spotify.com/artist/4wW9Lr1qEfAnQXHRKoXkrk) | [balafon](https://open.spotify.com/album/1zqb2G2MpRkCdrQc4PYFEH) | 3:57 | 2022-05-19 | 2023-07-15 |
@@ -119,9 +121,10 @@
 | [River at Dawn](https://open.spotify.com/track/2OEUrK1H4m4e9R0eqsDESE) | [Kate Stone](https://open.spotify.com/artist/1uuTWnnSPHQMX8ZHi1XTN9) | [Urban](https://open.spotify.com/album/1GzQVBKiSGTmgRRp07Kcy1) | 3:06 | 2022-05-19 |  |
 | [River Hymn](https://open.spotify.com/track/0G6qOjR6sbdx3f812Jf6m3) | [Melatonement](https://open.spotify.com/artist/1ZlMvBVYhelNe23PPk4mBN) | [River Hymn](https://open.spotify.com/album/1JeUE7z5MzGdlRVSeWcMLv) | 2:56 | 2024-03-05 |  |
 | [Rooh](https://open.spotify.com/track/6yJkuiFAhItI6yv5IcJjr7) | [Varanasi Sky](https://open.spotify.com/artist/1MQ4VvCRaJvrPq9wSUAEP9) | [Rooh](https://open.spotify.com/album/1yqqOf2RFe7N7iudspYJWu) | 2:47 | 2024-03-05 | 2025-02-19 |
-| [Rotation 4](https://open.spotify.com/track/1vGqaAyqv40nLOynEdNvwM) | [Svet Stoyanov](https://open.spotify.com/artist/5rhkJDapJojVLUICCMUq0e) | [Percussive Counterpoint](https://open.spotify.com/album/2ouOC24z4c8Fnyj5pymylB) | 2:24 | 2022-05-19 |  |
+| [Rotation 4](https://open.spotify.com/track/1vGqaAyqv40nLOynEdNvwM) | [Svet Stoyanov](https://open.spotify.com/artist/5rhkJDapJojVLUICCMUq0e) | [Percussive Counterpoint](https://open.spotify.com/album/2ouOC24z4c8Fnyj5pymylB) | 2:24 | 2022-05-19 | 2025-06-13 |
 | [Ruby's Dance](https://open.spotify.com/track/0NXGeUwHAHttzLNhbv4oHB) | [Rah Moon](https://open.spotify.com/artist/2ZTWRQ0L4s7UuB55QBxOfN) | [Ruby's Dance](https://open.spotify.com/album/6fc6QjKd0j2ZkMp3wdbJPK) | 2:39 | 2024-01-31 |  |
 | [Sacred Ground \(Percussion Only\)](https://open.spotify.com/track/5M8BTt6WQjBfUORnHDQ7FT) | [Native Spirit](https://open.spotify.com/artist/2OE9yjoQB6ctlwY1uznBb9) | [Sacred Ground: Traditional Native American Flute & Drums](https://open.spotify.com/album/2BGeocG4BEHp52QHZhtPb3) | 1:59 | 2022-05-19 | 2023-10-06 |
+| [Samagaun](https://open.spotify.com/track/5k1lmsZdV7nQDqRgedivXx) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Samagaun](https://open.spotify.com/album/1XJhLEsXd5Zo5Mny0DWUI9) | 3:23 | 2025-06-12 |  |
 | [Searching for Peace](https://open.spotify.com/track/4WLAeLXFIHruJmILpl3HCw) | [Mohimbra](https://open.spotify.com/artist/79wtlzo4TgrC8pTPzHhHfF) | [Searching for Peace](https://open.spotify.com/album/65ydsi47kJYpMJn6DrRVtp) | 3:19 | 2024-10-25 |  |
 | [Shamanic Journeywork](https://open.spotify.com/track/76grNKEDQdFpMIftWZP3BY) | [Shamanic Journey Drumming](https://open.spotify.com/artist/10eDAAmRvolRXSFsGAT8Ht) | [Shamanic Journey Drumming](https://open.spotify.com/album/1C3dY4h7p3auKgPknDmq9v) | 3:54 | 2022-08-12 |  |
 | [Shamanic Taiko](https://open.spotify.com/track/6XR02DiusEaXXtOJ89iqGT) | [Deep Meditation](https://open.spotify.com/artist/2fqkqEsGgtIToaqV8snUV6) | [Deep Meditation](https://open.spotify.com/album/6E9qV9HvDHkmSEgx5pqUEO) | 2:04 | 2022-05-19 | 2024-03-06 |
@@ -151,7 +154,7 @@
 | [Winds of Change \(feat\. myndstream\)](https://open.spotify.com/track/3bIDLdalTypKnBGYK7wsrG) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Malte Marten](https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj), [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Yellow](https://open.spotify.com/album/1oL6jSjfCVu2ugtzFK7dYp) | 3:03 | 2025-01-09 |  |
 | [With You](https://open.spotify.com/track/4taZntAqRIdQN8qVjGWwhL) | [African Tribal Drums](https://open.spotify.com/artist/3cSnpfpHB2vhGNOL72D9BK) | [African Drums of Passion: Tribal Chants, Drumming and Celebration Music](https://open.spotify.com/album/37V6pH05tvsHXwJRlpue8P) | 5:33 | 2022-05-19 | 2025-05-17 |
 | [Yoga Dedication](https://open.spotify.com/track/26WbeejSj0noAKz9vdn9lr) | [Corrid](https://open.spotify.com/artist/14g5wTyk0UJsn5aB0zT8Gy) | [Yoga Dedication](https://open.spotify.com/album/7FvPfS5ebwgdEfj5SqACpU) | 2:33 | 2022-05-19 |  |
-| [Yuki Jizoh](https://open.spotify.com/track/2mWZbWG2RtVOTARduC8j7v) | [Joji Hirota Taiko Drummers](https://open.spotify.com/artist/7EzRoc3LJEwVuJmuBOeecj) | [Joji Hirota and the Taiko Drummers: Japanese Taiko](https://open.spotify.com/album/1EKqHSTRR55iW4MR7saSnb) | 5:10 | 2022-05-19 |  |
+| [Yuki Jizoh](https://open.spotify.com/track/2mWZbWG2RtVOTARduC8j7v) | [Joji Hirota Taiko Drummers](https://open.spotify.com/artist/7EzRoc3LJEwVuJmuBOeecj) | [Joji Hirota and the Taiko Drummers: Japanese Taiko](https://open.spotify.com/album/1EKqHSTRR55iW4MR7saSnb) | 5:10 | 2022-05-19 | 2025-06-13 |
 | [Zen Awakening](https://open.spotify.com/track/530GBwxUhpe27TbnY7dVAm) | [The Sky](https://open.spotify.com/artist/0vOYkwa573vQ2BHbYGri2m) | [Zen Awakening](https://open.spotify.com/album/6QargaQ60JL5icC11UYce1) | 2:30 | 2024-03-05 | 2025-05-17 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

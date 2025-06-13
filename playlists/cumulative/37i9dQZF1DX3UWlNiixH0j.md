@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: ゆうらん船
 
-2,458 songs - 6 day 9 hr 22 min
+2,459 songs - 6 day 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1695,7 +1695,7 @@
 | [ときめき](https://open.spotify.com/track/6YfFksjNc28hZfcz2xst8k) | [YOU IRIE](https://open.spotify.com/artist/5E9UHQpY8cvh5wAqURO3lA) | [恋愛](https://open.spotify.com/album/4a4n3o292xrmAzsEPauPQO) | 3:14 | 2024-02-13 | 2024-02-21 |
 | [ときめきを教えて](https://open.spotify.com/track/2e9Xouw2euVfmRuehC6QM6) | [℃\-want you!](https://open.spotify.com/artist/1oePCCijpoxaCwJSzNahwa) | [ときめきを教えて](https://open.spotify.com/album/64mQ3crgXIy4yEHFaJlzei) | 4:19 | 2023-08-13 | 2023-08-23 |
 | [とりあえず](https://open.spotify.com/track/7k2kKPLzxIa4OmDeoiWfYD) | [Mikan Hayashi](https://open.spotify.com/artist/1VPFnxE9Nu4PM4JoCU4RUt), [多多 x 以捷](https://open.spotify.com/artist/25vtw3bkiKz9nbo7vl6qqY) | [とりあえず](https://open.spotify.com/album/6Fg4RusObKTcshoLDWv05K) | 4:37 | 2023-05-02 | 2023-05-31 |
-| [とわの祭り](https://open.spotify.com/track/1VSG9RkIORqUX2oXKNL37E) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [とわの祭り](https://open.spotify.com/album/3nOa9wMmXNvDjtsgcabTkP) | 4:51 | 2025-05-27 |  |
+| [とわの祭り](https://open.spotify.com/track/1VSG9RkIORqUX2oXKNL37E) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [とわの祭り](https://open.spotify.com/album/3nOa9wMmXNvDjtsgcabTkP) | 4:51 | 2025-05-27 | 2025-06-13 |
 | [どうして髭を？](https://open.spotify.com/track/41QfKjANF6fiDll3MN6yxS) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN), [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [どうして髭を？](https://open.spotify.com/album/5fkSBMSaT3TGGdQohMGaX2) | 3:18 | 2024-02-27 | 2024-04-07 |
 | [どく](https://open.spotify.com/track/71kriPfeYO4Oq0DDbHJ0Cp) | [mukeikaku](https://open.spotify.com/artist/13EKu7UHAU6sAqlIoRFQJw) | [konami](https://open.spotify.com/album/2AdasEVsCUNsE0ZTzWcb5a) | 2:26 | 2023-12-12 | 2023-12-14 |
 | [どこへも行かないで](https://open.spotify.com/track/0QctNmKMvT5Hw4aWO1HJI7) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [どこへも行かないで](https://open.spotify.com/album/5uzQHJQVfnPR9sZXxG6PlJ) | 2:44 | 2023-04-18 | 2023-07-26 |
@@ -1817,6 +1817,7 @@
 | [コロネ気流](https://open.spotify.com/track/66M7oadAQbYXj1KQQipcLd) | [KISS THE GAMBLER](https://open.spotify.com/artist/2b7i2PuYkVMs9fAbKpLlCZ) | [コロネ気流](https://open.spotify.com/album/1MuCLcj073eV0Cu4vXP0IT) | 2:29 | 2023-09-05 | 2023-09-13 |
 | [コンボ!!!!!!!!!!](https://open.spotify.com/track/0DtBevWgmFRemjCbcxXQqa) | [シャッポ](https://open.spotify.com/artist/0gcK8vIyzGRwvNeHkCZgFz) | [a one & a two](https://open.spotify.com/album/58qldNaTWsi5aPdR7LW5gN) | 6:08 | 2025-04-22 | 2025-04-30 |
 | [ゴッホと花束 \-Band Ver.\-](https://open.spotify.com/track/6RERAH6RJ1nHVkAQbnrVHX) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq) | [ゴッホと花束 \-Band Ver.\-](https://open.spotify.com/album/1eIKlszS0W6AreRwjr5lxG) | 3:44 | 2024-02-27 | 2024-03-06 |
+| [ゴーゴースチーム](https://open.spotify.com/track/0uxDEcLsiLUzBCrh2EUdO3) | [betcover!!](https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3) | [勇気](https://open.spotify.com/album/1XNE6xQzrlW6qce2rWC14z) | 5:59 | 2025-06-11 |  |
 | [ゴースト](https://open.spotify.com/track/0aBb5sdeZyojEd5cVD9UKb) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [Mix Wave](https://open.spotify.com/album/02IbI9D14DVwwU7ZXJz0vd) | 3:47 | 2023-05-09 | 2023-06-22 |
 | [サイダーのように言葉が湧き上がる](https://open.spotify.com/track/70rIBnhQtO2ON2RX9GGd6H) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [サイダーのように言葉が湧き上がる](https://open.spotify.com/album/6Hjzg5YyqGatZ3M4sCWKRx) | 3:26 | 2023-03-28 | 2023-09-06 |
 | [サイハテアイニ](https://open.spotify.com/track/0kwdFqT4A7qpOxODrUDfl1) | [AVYSS](https://open.spotify.com/artist/1MEnxfHdi3YHVkfOKjEUaC), [Uztama](https://open.spotify.com/artist/1fRn6oIX62BWttqHfNRhEE), [kaza](https://open.spotify.com/artist/3FgHWvLCuvzP2j85oiXdHs) | [i.e](https://open.spotify.com/album/7oyAVf0N2iBeAhzQ8RzL3t) | 3:45 | 2025-03-04 | 2025-03-12 |

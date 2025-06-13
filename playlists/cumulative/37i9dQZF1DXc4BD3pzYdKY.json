@@ -1157,6 +1157,32 @@
     },
     {
       "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/3SHL8OJzYcVZxStR0NOH1c"
+      },
+      "artists": [
+        {
+          "name": "Trae Tha Truth",
+          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Baby Truth",
+          "url": "https://open.spotify.com/artist/3JSZUZkyZbG583ywTOr4tD"
+        }
+      ],
+      "date_added": "2025-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199399,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3yrhr8lDXzx83tfhwvp7wy"
+    },
+    {
+      "album": {
         "name": "Altar (Remix)",
         "url": "https://open.spotify.com/album/7bv2SZNlD9fLlc0oaExzra"
       },

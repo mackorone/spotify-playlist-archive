@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Florence Road
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,554 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,565 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 99 | [Nina](https://open.spotify.com/track/7b69iiHJHiZG3xebISnGlt) | [Cold Court](https://open.spotify.com/artist/0p2iWhKSNA2FX3ZaB0IoM0) | [Nina](https://open.spotify.com/album/0penmfV4ouDqWZSJh7I16x) | 3:27 |
 | 100 | [Take Your Aim](https://open.spotify.com/track/0rDq4W12BQzwKYYuYP0EIj) | [Rocket](https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO) | [Take Your Aim](https://open.spotify.com/album/3ZYRmGFXWmTHDu08QRPuM0) | 3:20 |
 
-Snapshot ID: `aEJnyQAAAAATR+PxiJ2fw7VZrNzVm7Ho`
+Snapshot ID: `aEJnyQAAAAAC3zi8DU0Jgo+c/0hJ8kyk`

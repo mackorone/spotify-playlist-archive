@@ -821,6 +821,24 @@
     },
     {
       "album": {
+        "name": "Kapaim",
+        "url": "https://open.spotify.com/album/6yvXRQJm8ls2asdTHEC28L"
+      },
+      "artists": [
+        {
+          "name": "Ouzo Bazooka",
+          "url": "https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199600,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5EkfwBUGWooi05NJeSIpyg"
+    },
+    {
+      "album": {
         "name": "I Never Land",
         "url": "https://open.spotify.com/album/0jYlxuuRcYQydLzceR0ZLu"
       },
@@ -1427,6 +1445,28 @@
     },
     {
       "album": {
+        "name": "Self Loathing",
+        "url": "https://open.spotify.com/album/7hpjE6dOuMDq8d0eZgizLu"
+      },
+      "artists": [
+        {
+          "name": "flatmate sessions",
+          "url": "https://open.spotify.com/artist/1ofSz6R42TbG7u3ZOAlaCW"
+        },
+        {
+          "name": "BOKO",
+          "url": "https://open.spotify.com/artist/4ccK523M0baFThxBDJwPWV"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103000,
+      "name": "Self Loathing",
+      "url": "https://open.spotify.com/track/1Or7HsjgdOMhXGPM2Bvehc"
+    },
+    {
+      "album": {
         "name": "Sghayiroun - \u0635\u063a\u064a\u0631\u0648\u0646",
         "url": "https://open.spotify.com/album/44ufEMkuR5HgVvrobv7ys5"
       },
@@ -1442,7 +1482,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 202333,
       "name": "Sghayiroun - \u0635\u063a\u064a\u0631\u0648\u0646",
       "url": "https://open.spotify.com/track/4cS8LIFz9LHWj0MwjxRhgj"
@@ -1898,6 +1938,24 @@
       "duration_ms": 197100,
       "name": "\u05d0\u05e4\u05d5\u05e7\u05dc\u05d9\u05e4\u05e1\u05d4",
       "url": "https://open.spotify.com/track/2F3vpzuGutSHZNDtCulFtA"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05e4\u05e8\u05d9\u05dc",
+        "url": "https://open.spotify.com/album/49yXdVs72GtN97p8drkDT4"
+      },
+      "artists": [
+        {
+          "name": "Yael Selinger",
+          "url": "https://open.spotify.com/artist/29XbTsg9MEdJf1gHJhqO5l"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224937,
+      "name": "\u05d0\u05e4\u05e8\u05d9\u05dc",
+      "url": "https://open.spotify.com/track/2JSfnWdQ40jK6kc6HSZW7v"
     },
     {
       "album": {
@@ -2386,7 +2444,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 150829,
       "name": "\u05d4\u05db\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05d9",
       "url": "https://open.spotify.com/track/4C8fqtZdD1uvmO1JKMs0zy"
@@ -3590,7 +3648,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 185841,
       "name": "\u05dc\u05dc\u05db\u05ea \u05dc\u05d0\u05d9\u05d1\u05d5\u05d3",
       "url": "https://open.spotify.com/track/5BWlHelOYuc6qgxpYRDsWs"

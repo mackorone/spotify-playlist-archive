@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,072 likes - 35 songs - 2 hr 6 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,071 likes - 44 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,5 +43,14 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 33 | [Up Is a Nice Place to Be](https://open.spotify.com/track/39EfXbtmuJBuiVBOF7VdY0) | [Rosalie Sorrels](https://open.spotify.com/artist/4n3F5413y5LjhB9aWgB9Wh) | [If I Could Be the Rain](https://open.spotify.com/album/2ZoLgxIOfcBemgF2zR5bqb) | 2:50 |
 | 34 | [Falling Down a Dam of Mashed Potatoes](https://open.spotify.com/track/5y69U1bw1dBixUL1nViDXr) | [Lawrence](https://open.spotify.com/artist/0P42vB5p3jd1P4ScFQg2YI) | [Childish Music](https://open.spotify.com/album/6LABtUVPmwMWuRoQ8vg1Gp) | 3:43 |
 | 35 | [Afterlife](https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Afterlife](https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i) | 3:30 |
+| 36 | [It'll All Be Over](https://open.spotify.com/track/6DtOcQmTziBJ3L7zfLzR5g) | [Supreme Jubilees](https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw) | [Good God! Apocryphal Hymns](https://open.spotify.com/album/1u5bwvQM5TFRWHTkWBCeVq) | 3:03 |
+| 37 | [Midnight on the Bay \- 2016 Remaster](https://open.spotify.com/track/5pTfwxnRNxDjt2HyMXUF3H) | [The Stills\-Young Band](https://open.spotify.com/artist/58xrQ9IjbkyzdulTlm9cqM) | [Long May You Run](https://open.spotify.com/album/0Qt4WzqeT687yz0pwsxgcu) | 4:00 |
+| 38 | [Holdin’ On](https://open.spotify.com/track/6vaAU6LArPqrOslsFXHQ64) | [The Clean](https://open.spotify.com/artist/6LRmgzRManplPQghd2BMqz) | [Getaway \(Deluxe 2016 Remaster\)](https://open.spotify.com/album/04dY16TGKjm8gvgKwcQI0C) | 2:42 |
+| 39 | [Guided Beam](https://open.spotify.com/track/4z1YabjDCOGQuv2E4ymKyi) | [Scientist](https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w) | [Scientist Meets The Space Invaders](https://open.spotify.com/album/5MNl47ou2VjYKXUHlcKuZT) | 3:16 |
+| 40 | [News from Verona](https://open.spotify.com/track/3x0QNpUibTxG8ImfedZkZ3) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Knee\-Deep In the North Sea](https://open.spotify.com/album/2A8c5znvmslp2I77dTBV1K) | 4:21 |
+| 41 | [Bonbon sucre](https://open.spotify.com/track/7LisFV8edSWfOvm9XKJjA9) | [Grand Kallé](https://open.spotify.com/artist/72y2BmOygi88StwtMuQfEQ), [L'African Jazz](https://open.spotify.com/artist/0mHnv5jdaehGzv9zujVlXW) | [Merveilles du passé, Vol\. 1 \(1958 / 1959 / 1960\)](https://open.spotify.com/album/6LGIjTarpggj13sgOa0G1h) | 2:44 |
+| 42 | [Yo Chavez](https://open.spotify.com/track/7bufLy1mTp5ckluqJdDptX) | [Yussef Kamaal](https://open.spotify.com/artist/710FHFQeXKC6dZGCxt7kQh) | [Black Focus](https://open.spotify.com/album/6pDAh84nyNU7x3xje9G03I) | 3:59 |
+| 43 | [Ma mère l'Oye, M\. 60: III\. Laideronnette, impératrice des pagodes \- Mouvement de Marche](https://open.spotify.com/track/2lHztmZYCiWdhReHnRnmYN) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Louis Lortie](https://open.spotify.com/artist/2uLLmndNOXyB4XqMH3auYK), [Hélène Mercier](https://open.spotify.com/artist/2bjMZJv3PurMW5EIbn5t2T) | [Ravel: Piano Music For 4 Hands](https://open.spotify.com/album/5L2fRGuiRXNj195pPZdX4P) | 3:07 |
+| 44 | [It's A Grand Night For Swinging](https://open.spotify.com/track/5yDCIkowVpSagtZ3sxgpX7) | [Rahsaan Roland Kirk](https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV) | [Now Please Don't You Cry, Beautiful Edith](https://open.spotify.com/album/6slc6K1xjI49vqZL0dnXMp) | 3:09 |
 
-Snapshot ID: `AAAMhllXf5vnxuRrJ+DB0tu3PEgFWemT`
+Snapshot ID: `AAAMj7YTqENJFe8KOfASgdhsjSeC/7yn`

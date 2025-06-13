@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Killswitch Engage
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,768 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,834 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 34 | [Slower Forms Of Suicide](https://open.spotify.com/track/4ZP9tW7urCcMzR3N2OOTfB) | [Kaonashi](https://open.spotify.com/artist/60Zpxsk0QxhPEyyvWfSv0I) | [I Want To Go Home.](https://open.spotify.com/album/34WpGLtjKNhBSNzO7rg3oq) | 5:08 |
 | 35 | [Evil Eyes](https://open.spotify.com/track/2vVKwYChQpBxmabokUSbke) | [dying in designer](https://open.spotify.com/artist/3QZxOYl5zlZtfigtXOZsfT) | [Evil Eyes](https://open.spotify.com/album/4U84qpT79s2wa4OH5C6RDw) | 2:46 |
 | 36 | [High](https://open.spotify.com/track/6H170b9fOoyTyCONVKmS8H) | [Cherie Amour](https://open.spotify.com/artist/1AEA7WXbSHrGKKD7P0Jj52) | [Chrome Hearts](https://open.spotify.com/album/7hPtBYJBGQ4uXjsZsy8Fn6) | 2:45 |
-| 37 | [MEXICO OSCURO](https://open.spotify.com/track/6PJOwbGPV7vurWVGVy6Y6O) | [DEATHMASK](https://open.spotify.com/artist/5f9fzMhIdCspKGg0uKjYt0), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl), [Immortal Disfigurement](https://open.spotify.com/artist/6PNtic19dP6daQcCppVb1e) | [MEXICO OSCURO](https://open.spotify.com/album/5SWY7xnlu4Z7F23MlOQ8uJ) | 4:26 |
+| 37 | [MEXICO OSCURO](https://open.spotify.com/track/6PJOwbGPV7vurWVGVy6Y6O) | [DEATHMASK](https://open.spotify.com/artist/5f9fzMhIdCspKGg0uKjYt0), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl), [Immortal Disfigurement](https://open.spotify.com/artist/7qkUuynmt0X6RkPgvF5ttK) | [MEXICO OSCURO](https://open.spotify.com/album/5SWY7xnlu4Z7F23MlOQ8uJ) | 4:26 |
 | 38 | [Bitter Seeds](https://open.spotify.com/track/7MOoiJGuFT3EDpWzClCVXJ) | [LASTELLE](https://open.spotify.com/artist/2BB6OyMcGIRSwJQfsmpjKJ) | [Bitter Seeds](https://open.spotify.com/album/32K5uCnkgj4RGRNo5mDOkB) | 4:31 |
 | 39 | [Bring Me To Life](https://open.spotify.com/track/1e8P8HGR1bzDCvu9BIVFlf) | [Reyjuliand](https://open.spotify.com/artist/3Wahvwcq4juokVKXi7E1Jn), [Amy Wallace](https://open.spotify.com/artist/5nr3deotqqkX0oe3neo3w9), [Theo](https://open.spotify.com/artist/2KWYmgihGfFnxD1jcedTEK) | [Bring Me To Life](https://open.spotify.com/album/1wf9cFwrG421DDI2Og6inC) | 4:07 |
 | 40 | [Dance Like That](https://open.spotify.com/track/70on5Sny2nNwrvJ1I3824A) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [Dance Like That](https://open.spotify.com/album/1TWalW3g3PTHXcn1A1EFMZ) | 3:14 |

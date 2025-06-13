@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3gWAZPuNWpELIhKNbnpfwk.md) - [plain]
 
 > Best Synth wave music with dark retrowave, chillwave, cyberpunk and outrun songs \| シンセウェイヴ \| ретровейв
 
-[Pascale](https://open.spotify.com/user/b6ppyzdoa7f3pfe8tusgo66kz) - 161,192 likes - 130 songs - 9 hr 31 min
+[Pascale](https://open.spotify.com/user/b6ppyzdoa7f3pfe8tusgo66kz) - 161,195 likes - 130 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/3gWAZPuNWpELIhKNbnpfwk.md) - [plain]
 | 95 | [CRT Days](https://open.spotify.com/track/4Svx0pOTJg9VVwkp8qX6Tr) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [CRT Days](https://open.spotify.com/album/2Jj0uMFVjXFf3qfrfFpLDk) | 3:51 |
 | 96 | [Space Echo](https://open.spotify.com/track/4bifyKEdxnuGU4gvdZWEMS) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Space Station](https://open.spotify.com/album/24cI6L7et5TX9XkVCD2mGb) | 3:35 |
 | 97 | [Dust](https://open.spotify.com/track/5UFXAE1QXIGnmALcrQ4DgZ) | [M\|O\|O\|N](https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT) | [Particles](https://open.spotify.com/album/3RxVWDJQBliYc65AFr9IIq) | 5:02 |
-| 98 | [Diamond Veins \(feat\. Sarah Rebecca\)](https://open.spotify.com/track/5G0oVoL309pqsvGDzhMOwx) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e), [Sarah Rebecca](https://open.spotify.com/artist/58obmxGKVKCenZAkACSMgJ) | [Olympic](https://open.spotify.com/album/6rkKOTP3oBns0nR6mfHOsH) | 4:00 |
+| 98 | [Diamond Veins](https://open.spotify.com/track/5G0oVoL309pqsvGDzhMOwx) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e), [Sarah Rebecca](https://open.spotify.com/artist/58obmxGKVKCenZAkACSMgJ) | [Olympic](https://open.spotify.com/album/6rkKOTP3oBns0nR6mfHOsH) | 4:00 |
 | 99 | [Landing On 51](https://open.spotify.com/track/7CI5MHtF2gY6gYml0jqrXe) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [The Electronic Magic of Tangerine Dream \- the Anthology](https://open.spotify.com/album/7JKzFpsGCnTDYJCzZDxA6o) | 7:57 |
 | 100 | [The Cross](https://open.spotify.com/track/1crqEnkmbA7Rt3A1dA386e) | [Makeup And Vanity Set](https://open.spotify.com/artist/5iJnzz8Lfh1U3XQpBw95J3) | [88:88](https://open.spotify.com/album/2j4ro7dtXWPrSjjE7mdKqY) | 4:12 |
 | 101 | [Drift](https://open.spotify.com/track/5FqMFN6enobvl6ojiTt98J) | [DEADLIFE](https://open.spotify.com/artist/6YAOorJSNGWyH8m9N7cDeX) | [Drift](https://open.spotify.com/album/6KqNzVNnKYzhkHYVnFxirn) | 5:07 |

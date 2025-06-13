@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-279 songs - 17 hr 40 min
+280 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Aos Pés da Cruz](https://open.spotify.com/track/5JpzCoU3507wF3znYcQbFA) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilbertos Samba](https://open.spotify.com/album/5aTQQVvZkNcSi0K5R4glLO) | 3:15 | 2022-05-13 | 2022-07-29 |
 | [Aquela Bossa Axé](https://open.spotify.com/track/5G4VEEZXyBTEBw9RCj0L8S) | [Affonsinho](https://open.spotify.com/artist/5WhavPZYFVB6roWZubZMLZ) | [Belê](https://open.spotify.com/album/46rjYly7NZYyQRxgOJULGx) | 4:29 | 2022-05-13 |  |
 | [Aquele Frevo Axé](https://open.spotify.com/track/0Fd5qH2K7UsQh4MU3MB17m) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Aquele Frevo Axé](https://open.spotify.com/album/5jhcmxv1YOORIADhphS2SE) | 3:52 | 2022-05-13 | 2025-04-26 |
-| [As Asas De Uma Borboleta](https://open.spotify.com/track/2BFQyNo5voPcHcSeb9XEdg) | [Sara Santos](https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr) | [As Asas De Uma Borboleta](https://open.spotify.com/album/2qfq1FGinvjAJFpmmkMMJO) | 3:30 | 2025-05-09 |  |
+| [As Asas De Uma Borboleta](https://open.spotify.com/track/2BFQyNo5voPcHcSeb9XEdg) | [Sara Santos](https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr) | [As Asas De Uma Borboleta](https://open.spotify.com/album/2qfq1FGinvjAJFpmmkMMJO) | 3:30 | 2025-05-09 | 2025-06-13 |
 | [As Irrational As Love](https://open.spotify.com/track/4KFTPKOpnL7GoGrXArHANm) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [As Irrational As Love](https://open.spotify.com/album/2QUZjdU2k2Y48BDOocNf7v) | 3:44 | 2024-01-17 |  |
 | [Astra](https://open.spotify.com/track/2Qo0025pMUTB00Hqm9KVRZ) | [Paulo Lucas](https://open.spotify.com/artist/6ojxO4yKau2YGdnIZOBwzV) | [Astra](https://open.spotify.com/album/4SgCRjI9SLeqLopiibQiVM) | 4:23 | 2024-11-05 |  |
 | [Baubles, Bangles and Beads](https://open.spotify.com/track/7oEGoBAzmD8fvAnJKOW8Cq) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY) | 5:00 | 2022-05-13 |  |
@@ -220,6 +220,7 @@
 | [Scintilla](https://open.spotify.com/track/4IvwFo7d9K78CdN4OmnGnw) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Scintilla](https://open.spotify.com/album/5NOen6G8sot5tYOayw7UbP) | 2:34 | 2023-06-13 |  |
 | [Seu Sorriso](https://open.spotify.com/track/4tQ8S7exeZTiZ1DAYWgchp) | [Eric Merlino](https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q) | [Seu Sorriso](https://open.spotify.com/album/7t8vEsRo1BMzxObmka9RKs) | 3:06 | 2023-12-08 |  |
 | [Small Bossa](https://open.spotify.com/track/4UHOmvAehYOtvoc5ULXLb2) | [Matt Rollings](https://open.spotify.com/artist/0L0kGJvVnSHBXrmT22xEnu) | [The Valentine Sessions](https://open.spotify.com/album/1znhnVIkzgtJyiPrnWCP0c) | 3:19 | 2023-09-22 | 2025-06-11 |
+| [So I Guess That I'm In Love](https://open.spotify.com/track/3zvD3eQkdJfIbvxOIQXbra) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [So I Guess That I'm In Love](https://open.spotify.com/album/1uWDSogiN5yHmUMRLR7cne) | 2:29 | 2025-05-09 |  |
 | [So In Love](https://open.spotify.com/track/2su3D4cHfobQLqFUdYc3xs) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Every Time We Say Goodbye](https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0) | 3:33 | 2023-06-13 |  |
 | [So Nice](https://open.spotify.com/track/1L0DDeREckUNqcKyveuyH0) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Quiet Nights](https://open.spotify.com/album/1zTw5dv57Nd7qQNYO1qcmd) | 3:50 | 2022-05-13 |  |
 | [So Nice](https://open.spotify.com/track/383io5N8jcS6SVycxhZdub) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Quiet Nights](https://open.spotify.com/album/30i0HL1NsQ2xcMhgmQ7rvi) | 3:50 | 2022-06-28 | 2024-04-19 |

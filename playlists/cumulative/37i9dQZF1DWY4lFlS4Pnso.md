@@ -2,7 +2,7 @@
 
 ### [Hot Hits UK](https://open.spotify.com/playlist/37i9dQZF1DWY4lFlS4Pnso)
 
-> The UK's biggest playlist\. Cover: Ed Sheeran
+> The UK's biggest playlist\. Cover: Sabrina Carpenter
 
 327 songs - 17 hr 21 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: \uc774\ubb34\uc9c4) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 376606,
+  "num_followers": 376592,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-05-27 09:11:31",
       "album": {
-        "name": "Bluebird",
-        "url": "https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 179871,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM"
-    },
-    {
-      "added_at": "2025-05-27 09:11:31",
-      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 191220,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
+    },
+    {
+      "added_at": "2025-05-27 09:11:31",
+      "album": {
+        "name": "Bluebird",
+        "url": "https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 179871,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM"
     },
     {
       "added_at": "2025-05-27 09:11:31",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-05-27 09:11:31",
       "album": {
-        "name": "Through the Night",
-        "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Through the Night",
-      "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
-    },
-    {
-      "added_at": "2025-05-27 09:11:31",
-      "album": {
         "name": "LOVE.",
         "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 203269,
       "name": "SUNSET WITH YOU",
       "url": "https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i"
+    },
+    {
+      "added_at": "2025-05-27 09:11:31",
+      "album": {
+        "name": "Through the Night",
+        "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
     },
     {
       "added_at": "2025-05-27 09:11:31",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-05-27 09:11:31",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM"
-      },
-      "artists": [
-        {
-          "name": "DOYOUNG",
-          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
-        }
-      ],
-      "duration_ms": 170533,
-      "name": "17",
-      "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
-    },
-    {
-      "added_at": "2025-05-27 09:11:31",
-      "album": {
         "name": "Purpose - The 2nd Album",
         "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 239499,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
+    },
+    {
+      "added_at": "2025-05-27 09:11:31",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "duration_ms": 170533,
+      "name": "17",
+      "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
     },
     {
       "added_at": "2025-05-27 09:11:31",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-05-27 09:11:31",
       "album": {
-        "name": "Like Yesterday",
-        "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Like Yesterday",
-      "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
-    },
-    {
-      "added_at": "2025-05-27 09:11:31",
-      "album": {
         "name": "one summer",
         "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
       },
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2025-05-27 09:11:31",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/4HEYF3e5FR2nVhlGQ7XQLO"
+        "name": "Like Yesterday",
+        "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
       },
       "artists": [
         {
-          "name": "Lee Seung Gi",
-          "url": "https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi"
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
         }
       ],
-      "duration_ms": 218546,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/79pnJjoMNfFYAdW90Yd8Fr"
+      "duration_ms": 236000,
+      "name": "Like Yesterday",
+      "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
     },
     {
       "added_at": "2025-05-27 09:11:31",
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2025-05-27 09:11:31",
       "album": {
-        "name": "It\u2032s You",
-        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/4HEYF3e5FR2nVhlGQ7XQLO"
       },
       "artists": [
         {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+          "name": "Lee Seung Gi",
+          "url": "https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi"
         }
       ],
-      "duration_ms": 193000,
-      "name": "It\u2032s You",
-      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
+      "duration_ms": 218546,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/79pnJjoMNfFYAdW90Yd8Fr"
     },
     {
       "added_at": "2025-05-27 09:11:31",
@@ -1371,6 +1355,22 @@
       "duration_ms": 273292,
       "name": "Days without you",
       "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
+    },
+    {
+      "added_at": "2025-05-27 09:11:31",
+      "album": {
+        "name": "It\u2032s You",
+        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "It\u2032s You",
+      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
     },
     {
       "added_at": "2025-05-27 09:11:31",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-05-27 09:11:31",
       "album": {
-        "name": "SOUL FOOD",
-        "url": "https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q"
-      },
-      "artists": [
-        {
-          "name": "BMK",
-          "url": "https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O"
-        }
-      ],
-      "duration_ms": 284106,
-      "name": "When flowering spring comes",
-      "url": "https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW"
-    },
-    {
-      "added_at": "2025-05-27 09:11:31",
-      "album": {
         "name": "Even for a moment",
         "url": "https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2"
       },
@@ -1431,22 +1415,18 @@
     {
       "added_at": "2025-05-27 09:11:31",
       "album": {
-        "name": "Way - SM STATION",
-        "url": "https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y"
+        "name": "SOUL FOOD",
+        "url": "https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q"
       },
       "artists": [
         {
-          "name": "ONEW",
-          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
-        },
-        {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+          "name": "BMK",
+          "url": "https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O"
         }
       ],
-      "duration_ms": 238853,
-      "name": "Way",
-      "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
+      "duration_ms": 284106,
+      "name": "When flowering spring comes",
+      "url": "https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW"
     },
     {
       "added_at": "2025-05-27 09:11:31",
@@ -1467,6 +1447,26 @@
       "duration_ms": 199133,
       "name": "HANGANG (Feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
+    },
+    {
+      "added_at": "2025-05-27 09:11:31",
+      "album": {
+        "name": "Way - SM STATION",
+        "url": "https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "duration_ms": 238853,
+      "name": "Way",
+      "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
     },
     {
       "added_at": "2025-05-27 09:11:31",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-05-27 09:11:31",
       "album": {
-        "name": "Coward",
-        "url": "https://open.spotify.com/album/4OYhJBKIM6yZGkEpTEOVe1"
-      },
-      "artists": [
-        {
-          "name": "LEECHANGSUB",
-          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
-        }
-      ],
-      "duration_ms": 258440,
-      "name": "Coward",
-      "url": "https://open.spotify.com/track/2U9yHgZ9voJUFjcHinsspT"
-    },
-    {
-      "added_at": "2025-05-27 09:11:31",
-      "album": {
         "name": "I Will",
         "url": "https://open.spotify.com/album/71sCwkDMfhICitl4Rt5JCt"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 233813,
       "name": "I Will",
       "url": "https://open.spotify.com/track/1FkEJePjsSTZNJbrxd2BhI"
+    },
+    {
+      "added_at": "2025-05-27 09:11:31",
+      "album": {
+        "name": "Coward",
+        "url": "https://open.spotify.com/album/4OYhJBKIM6yZGkEpTEOVe1"
+      },
+      "artists": [
+        {
+          "name": "LEECHANGSUB",
+          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
+        }
+      ],
+      "duration_ms": 258440,
+      "name": "Coward",
+      "url": "https://open.spotify.com/track/2U9yHgZ9voJUFjcHinsspT"
     },
     {
       "added_at": "2025-05-27 09:11:31",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-05-27 09:11:31",
       "album": {
-        "name": "my life",
-        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
-      },
-      "artists": [
-        {
-          "name": "Mark Tuan",
-          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
-        }
-      ],
-      "duration_ms": 174990,
-      "name": "my life",
-      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
-    },
-    {
-      "added_at": "2025-05-27 09:11:31",
-      "album": {
         "name": "Trip: Tape #01",
         "url": "https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM"
       },
@@ -1635,18 +1619,18 @@
     {
       "added_at": "2025-05-27 09:11:31",
       "album": {
-        "name": "My Liberation Notes OST Part 1",
-        "url": "https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ"
+        "name": "my life",
+        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
       },
       "artists": [
         {
-          "name": "HEN",
-          "url": "https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC"
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
         }
       ],
-      "duration_ms": 218621,
-      "name": "Deeply",
-      "url": "https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG"
+      "duration_ms": 174990,
+      "name": "my life",
+      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
     },
     {
       "added_at": "2025-05-27 09:11:31",
@@ -1663,6 +1647,22 @@
       "duration_ms": 241640,
       "name": "Looking For Love (Man Ver.)",
       "url": "https://open.spotify.com/track/0sN3z4fwRL8HmO96rCOm3A"
+    },
+    {
+      "added_at": "2025-05-27 09:11:31",
+      "album": {
+        "name": "My Liberation Notes OST Part 1",
+        "url": "https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ"
+      },
+      "artists": [
+        {
+          "name": "HEN",
+          "url": "https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC"
+        }
+      ],
+      "duration_ms": 218621,
+      "name": "Deeply",
+      "url": "https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG"
     },
     {
       "added_at": "2025-05-27 09:11:31",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HpYqrfrj7c.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,691 likes - 92 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,745 likes - 92 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HpYqrfrj7c.md) - [plain]
 | 91 | [Blind Bat](https://open.spotify.com/track/4ZiN3nmZEfWQhGdKWYZjhn) | [K\-DEF](https://open.spotify.com/artist/16FH3fjfgWVv3JbLs8zUA7) | [One Man Band](https://open.spotify.com/album/0w9EYiEPKzjrX0WQ48yUy2) | 1:13 |
 | 92 | [Tonights Da Night \- Instrumental](https://open.spotify.com/track/60hLJXYdOCpciq4I1Fce26) | [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ) | [The Funk Lord Instrumentals](https://open.spotify.com/album/3k2ZKHGhbrrlU7PVVTlRr0) | 3:02 |
 
-Snapshot ID: `AAAAAPFbEIEagXjpCy15QzTCy956DgOY`
+Snapshot ID: `aEMCBAAAAABd8EagLdAC2h/ADyiAzfuI`

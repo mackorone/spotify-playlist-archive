@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "DONDA 2",
+        "url": "https://open.spotify.com/album/1ZkGNUz1un0b3Z7EsJl3ci"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/2CEoEzqeH4EVL75JX1jf9B"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/25E7mK5NcKtLTWj8Qs5q1N"
       },
@@ -20,6 +38,24 @@
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/3bZQDQyabVOAwKNO8YyxRd"
+    },
+    {
+      "album": {
+        "name": "DONDA 2",
+        "url": "https://open.spotify.com/album/1ZkGNUz1un0b3Z7EsJl3ci"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/6BJRGULyx1DbFJLBj3fbx3"
     },
     {
       "album": {
@@ -1194,7 +1230,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 222562,
       "name": "Again And Again",
       "url": "https://open.spotify.com/track/0jhgOpwjx6TgKmiUkuV3ba"
@@ -5596,7 +5632,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 132948,
       "name": "Chicken Banana",
       "url": "https://open.spotify.com/track/2DW0Mowto3hrXkFBQt0nye"
@@ -11135,32 +11171,6 @@
     },
     {
       "album": {
-        "name": "DONDA 2",
-        "url": "https://open.spotify.com/album/1ZkGNUz1un0b3Z7EsJl3ci"
-      },
-      "artists": [
-        {
-          "name": "DONDA",
-          "url": "https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
-        }
-      ],
-      "date_added": "2025-06-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 211408,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/6BJRGULyx1DbFJLBj3fbx3"
-    },
-    {
-      "album": {
         "name": "Happy Ever After You",
         "url": "https://open.spotify.com/album/0CVVcusljbMQIa71biQm4v"
       },
@@ -11308,7 +11318,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 192005,
       "name": "Hate It or Love It",
       "url": "https://open.spotify.com/track/4RwOxifGEzFMm6p8DqC8Ny"
@@ -12298,7 +12308,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-12",
+      "date_removed": null,
       "duration_ms": 161982,
       "name": "HIGHJACK (right back)",
       "url": "https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ"
@@ -19914,10 +19924,28 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 212045,
       "name": "Never Wanted It To End",
       "url": "https://open.spotify.com/track/4QOVuL0aWA1FNKG85kRjpw"
+    },
+    {
+      "album": {
+        "name": "Never Wanted It To End",
+        "url": "https://open.spotify.com/album/6vjy7pIjsC04HwlYTGe3qL"
+      },
+      "artists": [
+        {
+          "name": "FULLCLIP",
+          "url": "https://open.spotify.com/artist/1WEgIPUvIq0ruHxECA7tR9"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212054,
+      "name": "Never Wanted It To End",
+      "url": "https://open.spotify.com/track/6dLX2lvpGsO4RBeYtvg2Js"
     },
     {
       "album": {
@@ -21466,6 +21494,24 @@
     {
       "album": {
         "name": "pack up ya bags",
+        "url": "https://open.spotify.com/album/0og4mtbbCk4n0oYcqFI3vC"
+      },
+      "artists": [
+        {
+          "name": "KTmelodies",
+          "url": "https://open.spotify.com/artist/10IVkptwI3f1wi8XYDl2hd"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "pack up ya bags",
+      "url": "https://open.spotify.com/track/7w5jefRiOIEs0M5udJxyhd"
+    },
+    {
+      "album": {
+        "name": "pack up ya bags",
         "url": "https://open.spotify.com/album/2X9r5rZCvZv2wdQuwZGjem"
       },
       "artists": [
@@ -21476,7 +21522,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 132015,
       "name": "pack up ya bags",
       "url": "https://open.spotify.com/track/6FLVCvvq8ObdTODMBVwgrz"
@@ -28472,7 +28518,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 206067,
       "name": "The Doll People",
       "url": "https://open.spotify.com/track/0UueyZtX0ogyXQWhg6Xkpz"

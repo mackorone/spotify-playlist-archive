@@ -2,9 +2,9 @@
 
 ### [The Rock List](https://open.spotify.com/playlist/37i9dQZF1DX4DZAVUAwHMT)
 
-> The UK's biggest rock playlist\. Cover: Turnstile
+> The UK's biggest rock playlist\. Cover: Biffy Clyro
 
-979 songs - 2 day 6 hr 24 min
+982 songs - 2 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [a girl is a gun](https://open.spotify.com/track/1DizkiqT4coHh4lNMyEPtU) | [OC Saint](https://open.spotify.com/artist/1W80xMiJWGfGsymfrjCCLa) | [re:start](https://open.spotify.com/album/4mHuGNBWQFa1G7xdOsGYon) | 3:20 | 2023-08-24 | 2023-10-27 |
 | [A Kiss for the Whole World x](https://open.spotify.com/track/1LAuVHMWdVkdbNmSVXWw2K) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Kiss for the Whole World](https://open.spotify.com/album/5bTSXCOLlIH6gsOvuI3PCI) | 3:31 | 2023-04-20 | 2023-07-28 |
 | [A Kiss for the Whole World x](https://open.spotify.com/track/28kdCguOw9S30DVMRhL3uh) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Kiss for the Whole World](https://open.spotify.com/album/54ueM4SD9fr9VTYeXJc8xp) | 3:31 | 2023-04-20 | 2023-04-22 |
+| [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:07 | 2025-06-12 |  |
 | [A Question of You](https://open.spotify.com/track/007IZ9te1tqJND9XdC8wGE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [A Question of You](https://open.spotify.com/album/7xWVXuNOomkvJLNM1lI15l) | 3:42 | 2025-01-17 | 2025-04-04 |
 | [abcdefu \(angrier\)](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(angrier\)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 | 2023-03-08 | 2023-03-09 |
 | [Absolute Bloom](https://open.spotify.com/track/2J2NIgMvtnIStg1ZfCiEjm) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT) | [Absolute Bloom](https://open.spotify.com/album/5b6msyAHAio8tzWXOaYQsW) | 3:25 | 2024-02-09 | 2024-04-26 |
@@ -81,6 +82,7 @@
 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 | 2023-09-07 | 2023-10-27 |
 | [ANIMAL](https://open.spotify.com/track/5dpOtj3sd3nnXEudsgMozs) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [ANIMAL / ANYWHERE BUT HERE](https://open.spotify.com/album/008TrvgQaIGW6XpAdPgZt7) | 2:51 | 2023-01-13 | 2023-02-03 |
 | [Another Boy](https://open.spotify.com/track/1Qp8rEHhxtjhk4VixcKLlg) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Another Boy](https://open.spotify.com/album/6mUBGBSDQ9Re1XaLlVBBqH) | 2:57 | 2025-03-13 | 2025-05-09 |
+| [Anxiety \- Spotify Singles](https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Spotify Singles](https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp) | 3:50 | 2025-06-12 |  |
 | [Anxious State of Mind](https://open.spotify.com/track/7uV2jXPIfxEXTDcGSwAgIZ) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Anxious State of Mind](https://open.spotify.com/album/0veEsBw8e77FDY5OwDwYvh) | 4:06 | 2023-12-08 | 2024-01-09 |
 | [Are You Ready Now?](https://open.spotify.com/track/5IEQUM87X2zSFfsFJ9vir7) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Are You Ready Now?](https://open.spotify.com/album/6xbmpgRs0VTklRRVHIpmrn) | 3:35 | 2024-09-12 | 2024-10-11 |
 | [Ariel](https://open.spotify.com/track/0n1lGgQqkx54zXlqd3Mxir) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [Ariel](https://open.spotify.com/album/4v6ChdlO0j6hhBSr321FpE) | 5:22 | 2025-02-21 | 2025-03-21 |
@@ -561,7 +563,7 @@
 | [Modern Love](https://open.spotify.com/track/4Qjv4VFulw2xS9P5EVLvOp) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Modern Love](https://open.spotify.com/album/4q5GY0DRqSNEOb3n3JCigy) | 3:14 | 2023-02-17 | 2023-04-14 |
 | [Modern Love](https://open.spotify.com/track/0c1TvU8YThmexkEfFUt9wV) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Modern Love](https://open.spotify.com/album/2EuA14LzLXFRWWFkSvBnU6) | 3:28 | 2023-10-13 | 2023-10-27 |
 | [Money](https://open.spotify.com/track/5rlfh1uoDFgbycSkX0Dms5) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Money](https://open.spotify.com/album/3WSZtZRBRJVoAljZAaip2m) | 2:54 | 2023-07-27 | 2023-09-22 |
-| [Money Mullet](https://open.spotify.com/track/386QHAiPVLCFLfukpIECJP) | [The Pill](https://open.spotify.com/artist/4XtMirRxOoonxsbLRJvlwO) | [Money Mullet](https://open.spotify.com/album/3Ab3IkmXiMUF2ESg9GSsI7) | 2:40 | 2025-03-07 |  |
+| [Money Mullet](https://open.spotify.com/track/386QHAiPVLCFLfukpIECJP) | [The Pill](https://open.spotify.com/artist/4XtMirRxOoonxsbLRJvlwO) | [Money Mullet](https://open.spotify.com/album/3Ab3IkmXiMUF2ESg9GSsI7) | 2:40 | 2025-03-07 | 2025-06-13 |
 | [Monsters](https://open.spotify.com/track/1SRg5WImDS1LbjbWR24Ln4) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Monsters](https://open.spotify.com/album/2NSBVVafbPaqtcTKP5QTqI) | 3:31 | 2025-01-24 | 2025-03-21 |
 | [Mood Swings \- Spotify Singles](https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Spotify Singles](https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn) | 2:33 | 2024-06-12 | 2024-09-06 |
 | [More Than Life](https://open.spotify.com/track/4MDDmR04IUFyHS1VEVhvQW) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [More than Life](https://open.spotify.com/album/0LSpjM0q2oTaH0pnaQSsO7) | 5:33 | 2025-01-17 | 2025-02-21 |
@@ -672,7 +674,7 @@
 | [Playing With Fire](https://open.spotify.com/track/6Du6wbMKta7bWKuFeT2dVi) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Playing With Fire / ELF](https://open.spotify.com/album/5S0CnSM5Ni9l7W7xhdhhqF) | 3:23 | 2023-10-13 | 2023-10-27 |
 | [PLEASE](https://open.spotify.com/track/7oIy5tbk0oUTnuZ2jeJ7Xo) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [PLEASE](https://open.spotify.com/album/7rEQ82f79p2pl05LQ0WQ3K) | 3:27 | 2025-01-24 | 2025-05-09 |
 | [Plucked](https://open.spotify.com/track/7bkTXTJgFgGvAeLw4Tateh) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Plucked](https://open.spotify.com/album/2DIAuUtBOj0fmoxbLUMHKZ) | 3:11 | 2024-03-15 | 2024-07-05 |
-| [Pop Out](https://open.spotify.com/track/4tJP37H4IBwmajRzyzLiNc) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Pop Out](https://open.spotify.com/album/30MkCiLrhvOpfSMaVuZIqn) | 2:29 | 2025-03-07 |  |
+| [Pop Out](https://open.spotify.com/track/4tJP37H4IBwmajRzyzLiNc) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Pop Out](https://open.spotify.com/album/30MkCiLrhvOpfSMaVuZIqn) | 2:29 | 2025-03-07 | 2025-06-13 |
 | [POP POP POP](https://open.spotify.com/track/228SlXXnL6q20pOGSW4tFl) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6JBHYSMp3KYqiTTjmn26BU) | 4:16 | 2024-02-16 | 2024-06-07 |
 | [POP POP POP](https://open.spotify.com/track/7f4azWcTVEDHZ7DSc5eh5a) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p) | 4:16 | 2024-02-16 | 2024-04-19 |
 | [POP POP POP \(feat\. Danny Brown\)](https://open.spotify.com/track/5gGHRgEQ2wfgjKRyPaOG2P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [POP POP POP \(feat\. Danny Brown\)](https://open.spotify.com/album/3GAHv86Yo9P3KCPmxYP8IO) | 3:20 | 2024-12-20 | 2025-04-04 |
@@ -722,7 +724,7 @@
 | [SABOTAGE//](https://open.spotify.com/track/4Wkk6Soil0Oq5HZkbx73rd) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SABOTAGE//](https://open.spotify.com/album/6jcWmC5b2IRM8RL04bGe4e) | 3:20 | 2023-06-15 | 2023-10-06 |
 | [Sacred The Thread](https://open.spotify.com/track/1euMlU3weroX6ERo4vEfQl) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Sacred The Thread](https://open.spotify.com/album/4dimPGtC8aTFM0jCf739TN) | 5:21 | 2023-05-18 | 2023-07-07 |
 | [safeword](https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [safeword](https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu) | 2:13 | 2025-02-28 | 2025-05-30 |
-| [Satanized](https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2) | 3:56 | 2025-03-07 |  |
+| [Satanized](https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2) | 3:56 | 2025-03-07 | 2025-06-13 |
 | [Save Me](https://open.spotify.com/track/0tY6cjuSG8vLZBfO7NSdKG) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Save Me](https://open.spotify.com/album/74ru0U9zgqGD7p6zQEW5Vh) | 3:34 | 2024-05-23 | 2024-06-14 |
 | [Save The Cat](https://open.spotify.com/track/0L0DVRuUZ0lJIyq8oNQtF9) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Save The Cat](https://open.spotify.com/album/3lF11dYBA2aml6FwhXBh5k) | 2:52 | 2025-05-29 |  |
 | [Save Yourself](https://open.spotify.com/track/6WzCxOM8cWenEYQBP6uBXs) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Fear Life For A Lifetime](https://open.spotify.com/album/0HifEAI3ySV5P2O8LhAkzy) | 3:24 | 2024-07-12 | 2024-10-18 |
@@ -807,6 +809,7 @@
 | [SUBURBIA CALLING](https://open.spotify.com/track/0sRMZbWkH1G5XVFt3NZbE1) | [RAT BOY](https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC) | [SUBURBIA CALLING](https://open.spotify.com/album/5GEpjub1ldAz72kvL6kyVh) | 2:49 | 2024-04-25 | 2024-06-01 |
 | [Suck The Cherry](https://open.spotify.com/track/5A0h8ERfGBpChu89c2x6gi) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Suck The Cherry](https://open.spotify.com/album/6HoHlAFjY9X2xpPudaclQk) | 3:03 | 2024-11-15 | 2024-11-22 |
 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 | 2025-02-07 | 2025-05-16 |
+| [SUCKERPUNCH](https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [SUCKERPUNCH](https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ) | 2:52 | 2025-06-12 |  |
 | [Suffer](https://open.spotify.com/track/3RHMaRzMWlxDTdQXuZJ3rT) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Suffer](https://open.spotify.com/album/6Cc95ql1nixjAuvOGfRPYi) | 3:31 | 2023-11-10 | 2024-01-26 |
 | [Sugar Like That](https://open.spotify.com/track/2GZga87kUDmNkFtOq49sEr) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Sugar Like That](https://open.spotify.com/album/6NOHZlMBXG95ldNB72ORJx) | 3:13 | 2023-11-10 | 2024-01-05 |
 | [Sugar Sandwich](https://open.spotify.com/track/0YjWw115kqMWebWvXKC7is) | [Buzzard Buzzard Buzzard](https://open.spotify.com/artist/69ilUSFj31FA2iLHtegRwi) | [Skinwalker](https://open.spotify.com/album/0NrTb5PevrUBFnL3DXOyFG) | 2:25 | 2024-04-11 | 2024-05-03 |

@@ -4,7 +4,7 @@
 
 > Gentle Ambient piano to help you fall asleep.
 
-1,441 songs - 2 day 23 hr 17 min
+1,446 songs - 2 day 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Curves](https://open.spotify.com/track/50dqV0dmuAMzLtEbt09SCp) | [Norrona](https://open.spotify.com/artist/0A4UAFw5R9u5z9doUYX0WM) | [Curves](https://open.spotify.com/album/3hWEeTtdq80mcLvCt73koZ) | 3:14 | 2020-12-22 | 2021-03-14 |
 | [Cwsg](https://open.spotify.com/track/7kabmQdunJ6Jk5PAeTSwtL) | [Ymlacio](https://open.spotify.com/artist/3Tye8bBNb5g7QNBcpoFQRo) | [Cwsg](https://open.spotify.com/album/5Xxs41FovLilC30h61mOcS) | 2:48 | 2023-09-22 | 2024-07-16 |
 | [Cycles](https://open.spotify.com/track/4ULNG1akkcpMrHrjIUXsfZ) | [Jamie Troy](https://open.spotify.com/artist/6NJWSp0xcJQQPzR375b8B3) | [Cycles](https://open.spotify.com/album/04kIZM3pPCOgFxdXIPbPNR) | 2:24 | 2020-10-20\* | 2021-05-04 |
+| [Cynosure](https://open.spotify.com/track/7lIKaNo2Pgd4vl7HhPHEji) | [Elio Moreno](https://open.spotify.com/artist/1EXbdr1s2LkGffmFbmPAC1) | [Cynosure](https://open.spotify.com/album/4O0gCkddeyolsrAetSBx0d) | 2:36 | 2025-06-12 |  |
 | [Daffodilian Dreams](https://open.spotify.com/track/4xEChYDVoW5ZW21kuwUwSD) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Daffodilian Dreams](https://open.spotify.com/album/1LRYvwhy94JRhYc6yY9ovf) | 2:27 | 2024-05-20 | 2025-04-24 |
 | [Dans Le Maintenant](https://open.spotify.com/track/0tw6S8qTrvkqASUMxtqP3h) | [Michael Szonja](https://open.spotify.com/artist/3gnRflW7ax20AhBEKnfrhF) | [Dans Le Maintenant](https://open.spotify.com/album/6vYvqxYs7rgxRypV8NhoMi) | 2:52 | 2022-10-07 | 2024-02-08 |
 | [Dans le noir](https://open.spotify.com/track/6oL6yOWVL8zJfwg2mlkMag) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [Dans le noir](https://open.spotify.com/album/3xz6IHjv56jfGLIVTsgS1p) | 2:58 | 2022-01-21 | 2024-02-08 |
@@ -442,6 +443,7 @@
 | [Ephemara](https://open.spotify.com/track/6MJP8z8GbPYyS69TvlrEL8) | [Admira Mara](https://open.spotify.com/artist/1Pmc0APexvMU8usc0gixhv) | [Ephemara](https://open.spotify.com/album/1iPCFWvutN5Vrp8cpcBfTg) | 2:48 | 2024-02-26 | 2024-04-06 |
 | [Epica](https://open.spotify.com/track/1SlPCpAID4a7arQNHlMQR6) | [Ella Watson](https://open.spotify.com/artist/6JWxnRLmLn5kIc1IDLMaja) | [Epica](https://open.spotify.com/album/4TfFxhoAs2ksWIeHTUAyX4) | 3:09 | 2023-11-24 | 2024-04-06 |
 | [Epiphany](https://open.spotify.com/track/7etqolbqNqTmybDTIN77pt) | [Aari Kumar](https://open.spotify.com/artist/5u8vwlOeUEwxaklbfP6cnG) | [Epiphany](https://open.spotify.com/album/3QhvbpLgFT2pHsxdirqLW7) | 2:52 | 2022-01-21 | 2023-03-10 |
+| [Equanimity](https://open.spotify.com/track/1AY8reOYV2AmYUFzSSYuFg) | [Prophétique](https://open.spotify.com/artist/4uhsb1EuCyjawRUy9RXt6v) | [Equanimity](https://open.spotify.com/album/5y763GFYJu5ytjrNyjKlAE) | 2:55 | 2025-06-12 |  |
 | [Erice](https://open.spotify.com/track/4ecPC4L51JVR6WqJZWkeAi) | [Amos Stovall](https://open.spotify.com/artist/2rCj2TSCYy40ehzMZ0F5lS) | [Erice](https://open.spotify.com/album/5MJ7tUbfRkHSg5lKYqUM8M) | 2:54 | 2025-05-07 |  |
 | [Erinnerungen](https://open.spotify.com/track/3oSnjjDlGybELlBa9by38Y) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Erinnerungen](https://open.spotify.com/album/64Cah8smmxb3ypiPR1MtQl) | 3:12 | 2024-02-07 |  |
 | [Escapism](https://open.spotify.com/track/6aEP08m5WYICO4WofcP0pn) | [Vista Hierro](https://open.spotify.com/artist/0CALPbZtkitbpbqDjU6Ddp) | [Escapism](https://open.spotify.com/album/7i4BCH82oZU3vWcTTXnOVH) | 3:44 | 2024-02-26 | 2024-03-21 |
@@ -591,6 +593,7 @@
 | [Harmless 417 Hz](https://open.spotify.com/track/2bH8j0OZJMudcwpxqlmFyF) | [Inner Peace Champions](https://open.spotify.com/artist/5bSKwZCrNCkL4EWOkxvkHK) | [Harmless 417 Hz](https://open.spotify.com/album/1HYpP4M5rRaJPDBbhfDnuy) | 2:55 | 2024-01-17 | 2024-05-05 |
 | [Harmonia](https://open.spotify.com/track/01DCyee4FdK6k5Y91lznQK) | [Celestial Aura](https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV) | [Harmonia](https://open.spotify.com/album/2kzg2EH0FJtsLDnIsOATIr) | 2:49 | 2025-05-27 |  |
 | [Harmonic Clouds](https://open.spotify.com/track/5umtWFlo2kVPO8kxt0XhBI) | [Clunieux](https://open.spotify.com/artist/7xBhOeyWNHk7r0Fl3I9d1k) | [Harmonic Clouds](https://open.spotify.com/album/3XfKO4bOiGszE5U4nByU2Q) | 2:41 | 2024-01-17 | 2024-07-16 |
+| [Harmonic Haze](https://open.spotify.com/track/3FGFNoIyjM3mij5XOcSK8K) | [Somniare](https://open.spotify.com/artist/2upTpHOyJdpbwlQABrjhQn) | [Harmonic Haze](https://open.spotify.com/album/5ofxhR5PP2k1zX1CbxfV4J) | 2:22 | 2025-06-12 |  |
 | [Harvest Moon](https://open.spotify.com/track/1rJg3BtPS7AuK2oKJKS0Ds) | [Ursae Minoris](https://open.spotify.com/artist/6AaoxXuj5Iwi9Tm1BATmFo) | [Harvest Moon](https://open.spotify.com/album/0QU5tC1BhoRXa9vbe88QQd) | 3:08 | 2024-08-02 |  |
 | [Haven](https://open.spotify.com/track/5DhPUg2oGoQkEbIJcQiSmG) | [Alexander Sterling](https://open.spotify.com/artist/7jCHPpIZYNW9xezoE6m6Ez) | [Haven](https://open.spotify.com/album/0FY3phJDQ9r1uPmy2OMjXL) | 2:22 | 2025-03-05 | 2025-04-10 |
 | [Haverzh](https://open.spotify.com/track/0GocVBngN9RHyWlfQnS4Th) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [Haverzh](https://open.spotify.com/album/6Ecv6UjUXqs3fTQ5kPqGM3) | 3:07 | 2023-09-15 | 2024-02-27 |
@@ -910,7 +913,7 @@
 | [Opaline Haze](https://open.spotify.com/track/2emLNgm2fFXz9IEKysjoAg) | [Les Coralines](https://open.spotify.com/artist/595oUO0bgLQxuQ28hBcPSm) | [Opaline Haze](https://open.spotify.com/album/6PKJmrjzGMaitz6Nc68m2S) | 3:09 | 2024-12-03 |  |
 | [Optometry](https://open.spotify.com/track/2pfEixutjM3M37Z1xolMCV) | [Elijah Edwards](https://open.spotify.com/artist/33e4XNrceV0ftUpzWWJWqS) | [Optometry](https://open.spotify.com/album/5RiD7U8g3ROWc3RALqlyUW) | 2:44 | 2025-04-23 |  |
 | [Orbit](https://open.spotify.com/track/0k2baNK3JldkN4gBfIJUOo) | [Epic Centre](https://open.spotify.com/artist/1LKqgLACkIlBWmt3nbm7iX) | [Orbit](https://open.spotify.com/album/3l95szTHiJot7IHB5luSS8) | 2:04 | 2020-10-20\* | 2021-02-06 |
-| [Orbital](https://open.spotify.com/track/5dx4dhqbkLFKYPyWSJvu2N) | [Luna Ombro](https://open.spotify.com/artist/772pb8YX7Q28YXDan6bi7M) | [Orbital](https://open.spotify.com/album/5FolWCHTlIbxFi4Q8dPPVu) | 3:02 | 2024-02-26 |  |
+| [Orbital](https://open.spotify.com/track/5dx4dhqbkLFKYPyWSJvu2N) | [Luna Ombro](https://open.spotify.com/artist/772pb8YX7Q28YXDan6bi7M) | [Orbital](https://open.spotify.com/album/5FolWCHTlIbxFi4Q8dPPVu) | 3:02 | 2024-02-26 | 2025-06-13 |
 | [Orbiting Solitude](https://open.spotify.com/track/5cjqCGTY2O4ealKtCSeoda) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Orbiting Solitude](https://open.spotify.com/album/2ljkYFpk8HeHtqP494zXOq) | 2:24 | 2025-02-14 |  |
 | [Origami Age](https://open.spotify.com/track/121YyIOmTlu4Da9HgkZrJU) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Origami Age](https://open.spotify.com/album/61UXpwigZp7NAAle6sNyLw) | 2:50 | 2021-06-16 | 2023-06-03 |
 | [Orison](https://open.spotify.com/track/3GJyYi78wUaUZgbrwipcpG) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Orison](https://open.spotify.com/album/3iaTv0CK057m9PxroFoi8g) | 3:02 | 2020-10-20\* | 2021-06-16 |
@@ -1259,6 +1262,7 @@
 | [Sutileza](https://open.spotify.com/track/1Vi8gkIwXkHu20uZLebHRM) | [Adrian Eden](https://open.spotify.com/artist/6cUUY5PB9iNclJ8YeFKKiN) | [Sutileza](https://open.spotify.com/album/7BhBK2Lrf2twjmiLa0iuSR) | 3:26 | 2025-03-27 |  |
 | [Swallows at Dawn](https://open.spotify.com/track/1kBCGoGY3CSDCECitxm8an) | [Tiko Lapé](https://open.spotify.com/artist/4AU0q36eFVeu6YMkFiY6UG) | [Swallows at Dawn](https://open.spotify.com/album/7yYHaRkdy78NVOXkDV276M) | 2:48 | 2021-07-07 | 2023-02-10 |
 | [Sweven](https://open.spotify.com/track/4prgJBJailmHXaefkOyK9e) | [Corbin Tellier](https://open.spotify.com/artist/3hg9opvN3lCbZsoG6T0gpn) | [Sweven](https://open.spotify.com/album/6aPBOmzFKenNESeDVjOn9k) | 3:03 | 2023-09-29 | 2024-12-31 |
+| [Sympa](https://open.spotify.com/track/4tsoU0ExMe36q2iwSITO5M) | [Drift State](https://open.spotify.com/artist/4SfF4brNdtcM85Lp1pAOCX) | [Sympa](https://open.spotify.com/album/1PpMPDDydNSamGvbb8GULJ) | 2:21 | 2025-06-12 |  |
 | [Systems Ecology](https://open.spotify.com/track/1zkpJ5ZMfZNnen2vgw1T5T) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Systems Ecology](https://open.spotify.com/album/7EE2OQNArrxzRELIloRjyZ) | 2:46 | 2025-01-22 |  |
 | [Sólestur](https://open.spotify.com/track/7F6aZaOPixAPSwEWUgUlwH) | [Elsa Gudmundsdottir](https://open.spotify.com/artist/5zgSiZmivqPWPZICFTKarK) | [Sólestur](https://open.spotify.com/album/4Symuw8H6FtmbDWqRRGsbN) | 2:09 | 2022-08-15 | 2024-02-08 |
 | [Sömn](https://open.spotify.com/track/0RVsJTnSwdLQ6F8ruukszk) | [Sanja Göransson](https://open.spotify.com/artist/1bMBJo82A2IeRahsh3JsQn) | [Sömn](https://open.spotify.com/album/6f6D9XxUpFpCbBmeTpzKRL) | 2:48 | 2020-10-20\* | 2023-02-25 |
@@ -1276,6 +1280,7 @@
 | [Tenebrosity](https://open.spotify.com/track/6Lm0g6IMfnjpWQb3TddwyZ) | [Ambient Renaissance](https://open.spotify.com/artist/0QrVCAg5EvbIo1KfsKH25y) | [Tenebrosity](https://open.spotify.com/album/1o7rR5YfL1DKQvpawLpRHj) | 2:24 | 2024-01-17 | 2024-03-21 |
 | [Terra Nova](https://open.spotify.com/track/7aPjlboH22kTdOj6iu4Uhd) | [David Bengloff](https://open.spotify.com/artist/68dr8j57cUoepznTIrbHcm) | [Terra Nova](https://open.spotify.com/album/1Kn4YVvS8pafeyOFK0kiqX) | 2:44 | 2024-02-26 | 2025-02-05 |
 | [Tertium](https://open.spotify.com/track/3EbG2DLC2KkApapSiYypt7) | [Dynamic Dimension](https://open.spotify.com/artist/2PWrvQ39kze8AxXW31eP69) | [Tertium](https://open.spotify.com/album/1pOSfadC7GwW6tk0CpSMn1) | 3:20 | 2024-01-17 | 2024-03-21 |
+| [Textures](https://open.spotify.com/track/5Z9FEOYBnrYPThpIuvgi5P) | [Moontonic](https://open.spotify.com/artist/2aQ11bG4kZ5Tf45FpsvrwO) | [Textures](https://open.spotify.com/album/5KJVBVLLzcsPVmUAufJZaK) | 2:20 | 2025-06-12 |  |
 | [Thankful](https://open.spotify.com/track/3lg0FcUIHr382sEe5fWuZw) | [Nathaniel Rembrandt](https://open.spotify.com/artist/42o9XvYCWagpauD2sbHOPY) | [Thankful](https://open.spotify.com/album/30JXAmmvqLOTxPSafb9l1V) | 2:41 | 2025-02-04 |  |
 | [The Arco](https://open.spotify.com/track/1Gv5jmYpcXBAKhiCaDjHNW) | [Quadrant Beta](https://open.spotify.com/artist/7c1VTKyjBDzeUERgDiz46f) | [The Arco](https://open.spotify.com/album/5JE4Xl3HU0o5Zgr1iurkdJ) | 3:23 | 2021-09-22 | 2021-10-06 |
 | [The Butterfly Effect](https://open.spotify.com/track/1WLZuGNHUN8H8ylUbJNO1q) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [The Butterfly Effect](https://open.spotify.com/album/4HRdyd69XKgZgoNbWZoJOo) | 2:55 | 2020-10-20\* | 2020-12-12 |

@@ -1,6 +1,6 @@
 {
   "description": "Necessities from LGBTQIA+ artists. Cover: Mandidextrous",
-  "num_followers": 33019,
+  "num_followers": 33022,
   "original_name": "GLOW UK & Ireland ",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2025-06-09 23:00:23",
       "album": {
+        "name": "if i was ur boy",
+        "url": "https://open.spotify.com/album/7pEiX5BexOW7z19LHKUy1R"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9yyess",
+          "url": "https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK"
+        }
+      ],
+      "duration_ms": 195940,
+      "name": "if i was ur boy",
+      "url": "https://open.spotify.com/track/0VGLIZj88s96enxD4u0U5o"
+    },
+    {
+      "added_at": "2025-06-09 23:00:23",
+      "album": {
         "name": "WEEDKILLER",
         "url": "https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0"
       },
@@ -423,22 +439,6 @@
     {
       "added_at": "2025-06-09 23:00:23",
       "album": {
-        "name": "Right Here",
-        "url": "https://open.spotify.com/album/2xPEnym1OM5cJjW5xZeqTU"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 179015,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO"
-    },
-    {
-      "added_at": "2025-06-09 23:00:23",
-      "album": {
         "name": "Lighthouse",
         "url": "https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S"
       },
@@ -455,18 +455,18 @@
     {
       "added_at": "2025-06-09 23:00:23",
       "album": {
-        "name": "if i was ur boy",
-        "url": "https://open.spotify.com/album/7pEiX5BexOW7z19LHKUy1R"
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/2xPEnym1OM5cJjW5xZeqTU"
       },
       "artists": [
         {
-          "name": "D\u00e9yyess",
-          "url": "https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         }
       ],
-      "duration_ms": 195940,
-      "name": "if i was ur boy",
-      "url": "https://open.spotify.com/track/0VGLIZj88s96enxD4u0U5o"
+      "duration_ms": 179015,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO"
     },
     {
       "added_at": "2025-06-09 23:00:23",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-06-09 23:00:23",
       "album": {
-        "name": "Worms",
-        "url": "https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI"
-      },
-      "artists": [
-        {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        }
-      ],
-      "duration_ms": 148690,
-      "name": "Worms",
-      "url": "https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq"
-    },
-    {
-      "added_at": "2025-06-09 23:00:23",
-      "album": {
         "name": "Guts",
         "url": "https://open.spotify.com/album/5EbGb97EmI0PrYWH7rNFhi"
       },
@@ -583,26 +567,6 @@
     {
       "added_at": "2025-06-09 23:00:23",
       "album": {
-        "name": "Never Be Alone",
-        "url": "https://open.spotify.com/album/1sYaWj31p76yMZhspz73yM"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        }
-      ],
-      "duration_ms": 189087,
-      "name": "Never Be Alone",
-      "url": "https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe"
-    },
-    {
-      "added_at": "2025-06-09 23:00:23",
-      "album": {
         "name": "Disturbing U",
         "url": "https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc"
       },
@@ -623,6 +587,22 @@
     {
       "added_at": "2025-06-09 23:00:23",
       "album": {
+        "name": "Worms",
+        "url": "https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "duration_ms": 148690,
+      "name": "Worms",
+      "url": "https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq"
+    },
+    {
+      "added_at": "2025-06-09 23:00:23",
+      "album": {
         "name": "I Got Too Sad For My Friends",
         "url": "https://open.spotify.com/album/2PTF4EW8kJIeib3cQ87lJk"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 183480,
       "name": "I Wanna Be Loved By You",
       "url": "https://open.spotify.com/track/18gnbzwrQjunR6kpaTJp6F"
+    },
+    {
+      "added_at": "2025-06-09 23:00:23",
+      "album": {
+        "name": "Never Be Alone",
+        "url": "https://open.spotify.com/album/1sYaWj31p76yMZhspz73yM"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        }
+      ],
+      "duration_ms": 189087,
+      "name": "Never Be Alone",
+      "url": "https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe"
     },
     {
       "added_at": "2025-06-09 23:00:23",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2025-06-09 23:00:23",
       "album": {
-        "name": "Never Too Late (From The Film \u201cElton John: Never Too Late\")",
-        "url": "https://open.spotify.com/album/37x06uOcZyKmalh6ZsDoJH"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 216596,
-      "name": "Never Too Late - From The Film \u201cElton John: Never Too Late\u201d",
-      "url": "https://open.spotify.com/track/6AzQ8MNzUOh5vpMUMGlBtQ"
-    },
-    {
-      "added_at": "2025-06-09 23:00:23",
-      "album": {
         "name": "Carnal",
         "url": "https://open.spotify.com/album/4wUzF46CYbhDC1IqSYgdUz"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 214308,
       "name": "Carnal",
       "url": "https://open.spotify.com/track/2wnnMeISG1gM0vXhsSQGeR"
+    },
+    {
+      "added_at": "2025-06-09 23:00:23",
+      "album": {
+        "name": "Never Too Late (From The Film \u201cElton John: Never Too Late\")",
+        "url": "https://open.spotify.com/album/37x06uOcZyKmalh6ZsDoJH"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 216596,
+      "name": "Never Too Late - From The Film \u201cElton John: Never Too Late\u201d",
+      "url": "https://open.spotify.com/track/6AzQ8MNzUOh5vpMUMGlBtQ"
     },
     {
       "added_at": "2025-06-09 23:00:23",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2025-06-09 23:00:23",
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/42EYV7glkIuaDiFoFDKD4T"
+      },
+      "artists": [
+        {
+          "name": "Paige Eliza",
+          "url": "https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey"
+        }
+      ],
+      "duration_ms": 183839,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP"
+    },
+    {
+      "added_at": "2025-06-09 23:00:23",
+      "album": {
         "name": "Nonetheless",
         "url": "https://open.spotify.com/album/4kRlRxwCZ0SeRxvjGgVVaj"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 180962,
       "name": "It\u2019s not my fault (it\u2019s yours)",
       "url": "https://open.spotify.com/track/4crVaiFCJJjgDl4E4E6PmW"
-    },
-    {
-      "added_at": "2025-06-09 23:00:23",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/42EYV7glkIuaDiFoFDKD4T"
-      },
-      "artists": [
-        {
-          "name": "Paige Eliza",
-          "url": "https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey"
-        }
-      ],
-      "duration_ms": 183839,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP"
     },
     {
       "added_at": "2025-06-09 23:00:23",
@@ -1415,38 +1415,6 @@
     {
       "added_at": "2025-06-09 23:00:23",
       "album": {
-        "name": "Cupid's Bow",
-        "url": "https://open.spotify.com/album/1QsGUSZq8PgCkRlPswZSKZ"
-      },
-      "artists": [
-        {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 171367,
-      "name": "Cupid's Bow",
-      "url": "https://open.spotify.com/track/2TGZSBugyuUOHFjsXYBKkD"
-    },
-    {
-      "added_at": "2025-06-09 23:00:23",
-      "album": {
-        "name": "Favourite Toy",
-        "url": "https://open.spotify.com/album/6BkAzEqhZ7E9R6QfBJnjha"
-      },
-      "artists": [
-        {
-          "name": "Jazmin Bean",
-          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
-        }
-      ],
-      "duration_ms": 181847,
-      "name": "Favourite Toy",
-      "url": "https://open.spotify.com/track/7LwtKDNVK0s08ZoNkqlCzP"
-    },
-    {
-      "added_at": "2025-06-09 23:00:23",
-      "album": {
         "name": "Prism of Pleasure",
         "url": "https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er"
       },
@@ -1467,22 +1435,34 @@
     {
       "added_at": "2025-06-09 23:00:23",
       "album": {
-        "name": "Better ft. Cuco",
-        "url": "https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx"
+        "name": "Favourite Toy",
+        "url": "https://open.spotify.com/album/6BkAzEqhZ7E9R6QfBJnjha"
       },
       "artists": [
         {
-          "name": "Lava La Rue",
-          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
         }
       ],
-      "duration_ms": 177250,
-      "name": "Better ft. Cuco",
-      "url": "https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX"
+      "duration_ms": 181847,
+      "name": "Favourite Toy",
+      "url": "https://open.spotify.com/track/7LwtKDNVK0s08ZoNkqlCzP"
+    },
+    {
+      "added_at": "2025-06-09 23:00:23",
+      "album": {
+        "name": "Cupid's Bow",
+        "url": "https://open.spotify.com/album/1QsGUSZq8PgCkRlPswZSKZ"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 171367,
+      "name": "Cupid's Bow",
+      "url": "https://open.spotify.com/track/2TGZSBugyuUOHFjsXYBKkD"
     },
     {
       "added_at": "2025-06-09 23:00:23",
@@ -1499,6 +1479,26 @@
       "duration_ms": 206023,
       "name": "Babyface",
       "url": "https://open.spotify.com/track/4P8Ae6g3wIStGa9em4PbMs"
+    },
+    {
+      "added_at": "2025-06-09 23:00:23",
+      "album": {
+        "name": "Better ft. Cuco",
+        "url": "https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 177250,
+      "name": "Better ft. Cuco",
+      "url": "https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX"
     },
     {
       "added_at": "2025-06-09 23:00:23",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-06-09 23:00:23",
       "album": {
-        "name": "69",
-        "url": "https://open.spotify.com/album/65AGTpy6jBYVi8KH4oVugq"
-      },
-      "artists": [
-        {
-          "name": "Self Esteem",
-          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
-        }
-      ],
-      "duration_ms": 209417,
-      "name": "69",
-      "url": "https://open.spotify.com/track/7HThqZsl1l1YshgeZaoBRD"
-    },
-    {
-      "added_at": "2025-06-09 23:00:23",
-      "album": {
         "name": "Hot Mess",
         "url": "https://open.spotify.com/album/6yvRliUS1i3Dxro7UckrHO"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 202435,
       "name": "Got Weird",
       "url": "https://open.spotify.com/track/3sTZqO3R6OT1SSScoaL1U6"
+    },
+    {
+      "added_at": "2025-06-09 23:00:23",
+      "album": {
+        "name": "69",
+        "url": "https://open.spotify.com/album/65AGTpy6jBYVi8KH4oVugq"
+      },
+      "artists": [
+        {
+          "name": "Self Esteem",
+          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
+        }
+      ],
+      "duration_ms": 209417,
+      "name": "69",
+      "url": "https://open.spotify.com/track/7HThqZsl1l1YshgeZaoBRD"
     },
     {
       "added_at": "2025-06-09 23:00:23",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2025-06-09 23:00:23",
       "album": {
-        "name": "Mountain out of a Molehill",
-        "url": "https://open.spotify.com/album/5dEd9QjQeedQGdwmZcjQ0j"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 205330,
-      "name": "Mountain out of a Molehill",
-      "url": "https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb"
-    },
-    {
-      "added_at": "2025-06-09 23:00:23",
-      "album": {
         "name": "SUGAR RUSH",
         "url": "https://open.spotify.com/album/1VpU4vyGJzRIHMYZj3Ax6L"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 182053,
       "name": "SUGAR RUSH",
       "url": "https://open.spotify.com/track/5nsUidvKeOy9JLzQI2QYVt"
+    },
+    {
+      "added_at": "2025-06-09 23:00:23",
+      "album": {
+        "name": "Mountain out of a Molehill",
+        "url": "https://open.spotify.com/album/5dEd9QjQeedQGdwmZcjQ0j"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 205330,
+      "name": "Mountain out of a Molehill",
+      "url": "https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb"
     }
   ],
   "unique_name": "GLOW UK & Ireland ",

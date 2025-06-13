@@ -547,6 +547,24 @@
     },
     {
       "album": {
+        "name": "Damgham Serenity",
+        "url": "https://open.spotify.com/album/4faHfi54IhiBMf6KrFPWHK"
+      },
+      "artists": [
+        {
+          "name": "Above Neon",
+          "url": "https://open.spotify.com/artist/5c1cJaN0HDFVtzxD5yY85E"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146509,
+      "name": "Damgham Serenity",
+      "url": "https://open.spotify.com/track/0VWsScnCcsKWiR8zGb7Yq4"
+    },
+    {
+      "album": {
         "name": "Repose",
         "url": "https://open.spotify.com/album/25NmMYVeGecGa4pPlN1soa"
       },
@@ -1378,7 +1396,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 295161,
       "name": "Lafa",
       "url": "https://open.spotify.com/track/1yZRu9xNjGNztXRV7wHWg7"
@@ -1436,6 +1454,24 @@
       "duration_ms": 282000,
       "name": "Lost Treasures",
       "url": "https://open.spotify.com/track/1rV4lmkwXPVJl5styxffBR"
+    },
+    {
+      "album": {
+        "name": "Madehvah",
+        "url": "https://open.spotify.com/album/3Fgq3xyDICuFmRqxyJkWok"
+      },
+      "artists": [
+        {
+          "name": "Amberware",
+          "url": "https://open.spotify.com/artist/3PpMuouibfHDiqfOFfefxf"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191464,
+      "name": "Madehvah",
+      "url": "https://open.spotify.com/track/5SulQBco8pEkIXrN3owQLm"
     },
     {
       "album": {
@@ -2070,7 +2106,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 144506,
       "name": "Rotation 4",
       "url": "https://open.spotify.com/track/1vGqaAyqv40nLOynEdNvwM"
@@ -2110,6 +2146,24 @@
       "duration_ms": 119514,
       "name": "Sacred Ground (Percussion Only)",
       "url": "https://open.spotify.com/track/5M8BTt6WQjBfUORnHDQ7FT"
+    },
+    {
+      "album": {
+        "name": "Samagaun",
+        "url": "https://open.spotify.com/album/1XJhLEsXd5Zo5Mny0DWUI9"
+      },
+      "artists": [
+        {
+          "name": "DEX 1200",
+          "url": "https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203875,
+      "name": "Samagaun",
+      "url": "https://open.spotify.com/track/5k1lmsZdV7nQDqRgedivXx"
     },
     {
       "album": {
@@ -2662,7 +2716,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 310893,
       "name": "Yuki Jizoh",
       "url": "https://open.spotify.com/track/2mWZbWG2RtVOTARduC8j7v"

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Sweden.",
-  "num_followers": 621102,
+  "num_followers": 621149,
   "original_name": "Top 50 - Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "L9zzeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "L95E+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
         "name": "Tusen sp\u00e4nn",
         "url": "https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
         "name": "Svagare \u00e4n jag",
         "url": "https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
         "name": "Sommarkatt",
         "url": "https://open.spotify.com/album/17jcApM4Eibe8do5pJTNCD"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/57AHVmaxTYWoBBB5CFr9Ts"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
         "name": "Sauna Collection",
         "url": "https://open.spotify.com/album/4CWJY1YRrC5U8SCBScB4SX"
@@ -77,7 +77,23 @@
       "url": "https://open.spotify.com/track/6eIzQCYExfnNeM7KOlE3lE"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
+      "album": {
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+    },
+    {
+      "added_at": "2025-06-12 13:05:26",
       "album": {
         "name": "Somna med Humlan Djojj",
         "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
@@ -97,23 +113,7 @@
       "url": "https://open.spotify.com/track/0j2JcSeuF8ElJTrC8g6493"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
-      "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
-    },
-    {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
         "name": "Espresso Macchiato",
         "url": "https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
         "name": "Lys p\u00e5 mig",
         "url": "https://open.spotify.com/album/3WzL7EQg84unvvF8q3Cq5M"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/3kbNesyQPnUreP6bD7aADS"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
         "name": "H\u00e5ller Mig Sj\u00e4lv",
         "url": "https://open.spotify.com/album/5ZhHuLXnFFM7jOTZ73lvez"
@@ -169,55 +169,7 @@
       "url": "https://open.spotify.com/track/48zbg3rmtLckXVdKracwzq"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
-      "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 213645,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
-    },
-    {
-      "added_at": "2025-06-11 13:45:00",
-      "album": {
-        "name": "Ny\u00e5rsfest",
-        "url": "https://open.spotify.com/album/0ta1G1js5DAxfFJ2PFpvvu"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 267106,
-      "name": "Det kommer aldrig va \u00f6ver f\u00f6r mig",
-      "url": "https://open.spotify.com/track/3JMDzxsIAxgfEMvmjOgpRr"
-    },
-    {
-      "added_at": "2025-06-11 13:45:00",
-      "album": {
-        "name": "BASSIANI",
-        "url": "https://open.spotify.com/album/5cQhCSdeEC5i17xtdD973E"
-      },
-      "artists": [
-        {
-          "name": "Soppgirobygget",
-          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "BASSIANI",
-      "url": "https://open.spotify.com/track/2BtcfopAsabwKFovwFyvFk"
-    },
-    {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
         "name": "Om",
         "url": "https://open.spotify.com/album/7gvTJrFo67qu7HrwRVYcLM"
@@ -233,55 +185,55 @@
       "url": "https://open.spotify.com/track/3tgDP0BTRP10i4HkLlAER3"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
-        "name": "2CB",
-        "url": "https://open.spotify.com/album/0x9hyJIBVJewDqzPnWQApB"
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
       },
       "artists": [
         {
-          "name": "Hov1",
-          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 187200,
-      "name": "2CB",
-      "url": "https://open.spotify.com/track/4v4544m9rPttWudGucbzAc"
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
-        "name": "Mitt hj\u00e4rta av guld",
-        "url": "https://open.spotify.com/album/0q9XvbSVVLkA8F14Oqaz0i"
+        "name": "BASSIANI",
+        "url": "https://open.spotify.com/album/5cQhCSdeEC5i17xtdD973E"
       },
       "artists": [
         {
-          "name": "Lia Lindst\u00e9n",
-          "url": "https://open.spotify.com/artist/4GnwFUXajKqpZ9cOnIIUnM"
+          "name": "Soppgirobygget",
+          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
         }
       ],
-      "duration_ms": 170918,
-      "name": "Mitt hj\u00e4rta av guld",
-      "url": "https://open.spotify.com/track/7Ma4xWMBilJP90yLC5H3ZY"
+      "duration_ms": 163200,
+      "name": "BASSIANI",
+      "url": "https://open.spotify.com/track/2BtcfopAsabwKFovwFyvFk"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
-        "name": "Upp och ner och hit och dit med Babblarna",
-        "url": "https://open.spotify.com/album/6P4rV3154g0xVp9vrOyYH1"
+        "name": "Ny\u00e5rsfest",
+        "url": "https://open.spotify.com/album/0ta1G1js5DAxfFJ2PFpvvu"
       },
       "artists": [
         {
-          "name": "Babblarna",
-          "url": "https://open.spotify.com/artist/1aA5OGASCVhznQYm71BMYg"
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
         }
       ],
-      "duration_ms": 334053,
-      "name": "Babblarnas vaggvisa",
-      "url": "https://open.spotify.com/track/3GygspQIcYy5OnRiw245Qh"
+      "duration_ms": 267106,
+      "name": "Det kommer aldrig va \u00f6ver f\u00f6r mig",
+      "url": "https://open.spotify.com/track/3JMDzxsIAxgfEMvmjOgpRr"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
         "name": "Azizam",
         "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
@@ -297,7 +249,55 @@
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
+      "album": {
+        "name": "Mitt hj\u00e4rta av guld",
+        "url": "https://open.spotify.com/album/0q9XvbSVVLkA8F14Oqaz0i"
+      },
+      "artists": [
+        {
+          "name": "Lia Lindst\u00e9n",
+          "url": "https://open.spotify.com/artist/4GnwFUXajKqpZ9cOnIIUnM"
+        }
+      ],
+      "duration_ms": 170918,
+      "name": "Mitt hj\u00e4rta av guld",
+      "url": "https://open.spotify.com/track/7Ma4xWMBilJP90yLC5H3ZY"
+    },
+    {
+      "added_at": "2025-06-12 13:05:26",
+      "album": {
+        "name": "Upp och ner och hit och dit med Babblarna",
+        "url": "https://open.spotify.com/album/6P4rV3154g0xVp9vrOyYH1"
+      },
+      "artists": [
+        {
+          "name": "Babblarna",
+          "url": "https://open.spotify.com/artist/1aA5OGASCVhznQYm71BMYg"
+        }
+      ],
+      "duration_ms": 334053,
+      "name": "Babblarnas vaggvisa",
+      "url": "https://open.spotify.com/track/3GygspQIcYy5OnRiw245Qh"
+    },
+    {
+      "added_at": "2025-06-12 13:05:26",
+      "album": {
+        "name": "2CB",
+        "url": "https://open.spotify.com/album/0x9hyJIBVJewDqzPnWQApB"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "2CB",
+      "url": "https://open.spotify.com/track/4v4544m9rPttWudGucbzAc"
+    },
+    {
+      "added_at": "2025-06-12 13:05:26",
       "album": {
         "name": "TRIBE",
         "url": "https://open.spotify.com/album/6bnoFxa1viWWld2TlNKagJ"
@@ -313,23 +313,7 @@
       "url": "https://open.spotify.com/track/1h6bh1BOjKahFpWiKbFopa"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
-      "album": {
-        "name": "undressed",
-        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
-    },
-    {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
         "name": "Satan i gatan (Bonus Version)",
         "url": "https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH"
@@ -345,23 +329,23 @@
       "url": "https://open.spotify.com/track/5MEuFY2DxrozPEgGpR8Fji"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
-        "name": "Handen i fickan fast jag bryr mig",
-        "url": "https://open.spotify.com/album/6FDDd5kzWGXVm1qbKRGqEg"
+        "name": "undressed",
+        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
       },
       "artists": [
         {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 189680,
-      "name": "Tr\u00e4dg\u00e5rden en fredag",
-      "url": "https://open.spotify.com/track/1oFoY6INRnHIpHY6ssPxBm"
+      "duration_ms": 182088,
+      "name": "undressed",
+      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
         "name": "Bender",
         "url": "https://open.spotify.com/album/3ifaviRvCs4EvVTAneLnYn"
@@ -377,7 +361,23 @@
       "url": "https://open.spotify.com/track/0IstZK4ERxONEDvE5wxwHS"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
+      "album": {
+        "name": "Handen i fickan fast jag bryr mig",
+        "url": "https://open.spotify.com/album/6FDDd5kzWGXVm1qbKRGqEg"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 189680,
+      "name": "Tr\u00e4dg\u00e5rden en fredag",
+      "url": "https://open.spotify.com/track/1oFoY6INRnHIpHY6ssPxBm"
+    },
+    {
+      "added_at": "2025-06-12 13:05:26",
       "album": {
         "name": "Somna med Humlan Djojj",
         "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
@@ -397,99 +397,7 @@
       "url": "https://open.spotify.com/track/401N7rbd6MSziVSDVTaQr7"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
-      "album": {
-        "name": "Somna med Humlan Djojj",
-        "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
-      },
-      "artists": [
-        {
-          "name": "Humlan Djojj",
-          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
-        },
-        {
-          "name": "Josefine G\u00f6testam",
-          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
-        }
-      ],
-      "duration_ms": 166216,
-      "name": "Stj\u00e4rnorna",
-      "url": "https://open.spotify.com/track/5jlAu4lHHVzheutRcbDklk"
-    },
-    {
-      "added_at": "2025-06-11 13:45:00",
-      "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
-    },
-    {
-      "added_at": "2025-06-11 13:45:00",
-      "album": {
-        "name": "Just Keep Watching (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
-        }
-      ],
-      "duration_ms": 142550,
-      "name": "Just Keep Watching (From F1\u00ae The Movie)",
-      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
-    },
-    {
-      "added_at": "2025-06-11 13:45:00",
-      "album": {
-        "name": "Din tid kommer (Otto Knows Remix)",
-        "url": "https://open.spotify.com/album/1L25xMsuDCuBcb0rJnggWr"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        },
-        {
-          "name": "Otto Knows",
-          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
-        }
-      ],
-      "duration_ms": 286875,
-      "name": "Din tid kommer - Otto Knows Remix",
-      "url": "https://open.spotify.com/track/04LHuPqOMSpnHFaziPq1qO"
-    },
-    {
-      "added_at": "2025-06-11 13:45:00",
-      "album": {
-        "name": "Kan Inte G\u00e5",
-        "url": "https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC"
-      },
-      "artists": [
-        {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
-        }
-      ],
-      "duration_ms": 146718,
-      "name": "Kan Inte G\u00e5",
-      "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
-    },
-    {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
         "name": "Handen i fickan fast jag bryr mig",
         "url": "https://open.spotify.com/album/6FDDd5kzWGXVm1qbKRGqEg"
@@ -509,7 +417,7 @@
       "url": "https://open.spotify.com/track/71CFZjdSm2WSh5S6TPd69A"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
         "name": "Och vinnaren \u00e4r...",
         "url": "https://open.spotify.com/album/7K3z58HrZ2RJR2j82xWbsc"
@@ -525,55 +433,7 @@
       "url": "https://open.spotify.com/track/7MzmBmyI9KkyQJaPNLdtUi"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
-      "album": {
-        "name": "Gudarna p\u00e5 V\u00e4sterbron",
-        "url": "https://open.spotify.com/album/6VRCXuC1b2MGjiat5QZ0Ql"
-      },
-      "artists": [
-        {
-          "name": "Hov1",
-          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
-        }
-      ],
-      "duration_ms": 248893,
-      "name": "Hon dansar vidare i livet",
-      "url": "https://open.spotify.com/track/1aEU7mcRDTYBB4ASpqbjYE"
-    },
-    {
-      "added_at": "2025-06-11 13:45:00",
-      "album": {
-        "name": "Tandtr\u00e5d",
-        "url": "https://open.spotify.com/album/3kJ38NKMZpSKvCTyAdmppm"
-      },
-      "artists": [
-        {
-          "name": "Tjuvjakt",
-          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
-        }
-      ],
-      "duration_ms": 242320,
-      "name": "Tandtr\u00e5d",
-      "url": "https://open.spotify.com/track/1K2a8QcaPTDTZ1e4M0s8gQ"
-    },
-    {
-      "added_at": "2025-06-11 13:45:00",
-      "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
-    },
-    {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
         "name": "Alla v\u00e5ra l\u00e5tar",
         "url": "https://open.spotify.com/album/5b5XejIUMfXNmUc19qSQa7"
@@ -589,7 +449,163 @@
       "url": "https://open.spotify.com/track/1Vo4peT3VmtdLVtw1s65Cm"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+    },
+    {
+      "added_at": "2025-06-12 13:05:26",
+      "album": {
+        "name": "Din tid kommer (Otto Knows Remix)",
+        "url": "https://open.spotify.com/album/1L25xMsuDCuBcb0rJnggWr"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        },
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        }
+      ],
+      "duration_ms": 286875,
+      "name": "Din tid kommer - Otto Knows Remix",
+      "url": "https://open.spotify.com/track/04LHuPqOMSpnHFaziPq1qO"
+    },
+    {
+      "added_at": "2025-06-12 13:05:26",
+      "album": {
+        "name": "Tandtr\u00e5d",
+        "url": "https://open.spotify.com/album/3kJ38NKMZpSKvCTyAdmppm"
+      },
+      "artists": [
+        {
+          "name": "Tjuvjakt",
+          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
+        }
+      ],
+      "duration_ms": 242320,
+      "name": "Tandtr\u00e5d",
+      "url": "https://open.spotify.com/track/1K2a8QcaPTDTZ1e4M0s8gQ"
+    },
+    {
+      "added_at": "2025-06-12 13:05:26",
+      "album": {
+        "name": "Somna med Humlan Djojj",
+        "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
+      },
+      "artists": [
+        {
+          "name": "Humlan Djojj",
+          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
+        },
+        {
+          "name": "Josefine G\u00f6testam",
+          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
+        }
+      ],
+      "duration_ms": 166216,
+      "name": "Stj\u00e4rnorna",
+      "url": "https://open.spotify.com/track/5jlAu4lHHVzheutRcbDklk"
+    },
+    {
+      "added_at": "2025-06-12 13:05:26",
+      "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
+    {
+      "added_at": "2025-06-12 13:05:26",
+      "album": {
+        "name": "Just Keep Watching (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "duration_ms": 142550,
+      "name": "Just Keep Watching (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
+    },
+    {
+      "added_at": "2025-06-12 13:05:26",
+      "album": {
+        "name": "Gudarna p\u00e5 V\u00e4sterbron",
+        "url": "https://open.spotify.com/album/6VRCXuC1b2MGjiat5QZ0Ql"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "duration_ms": 248893,
+      "name": "Hon dansar vidare i livet",
+      "url": "https://open.spotify.com/track/1aEU7mcRDTYBB4ASpqbjYE"
+    },
+    {
+      "added_at": "2025-06-12 13:05:26",
+      "album": {
+        "name": "R\u00e4ddare i n\u00f6den",
+        "url": "https://open.spotify.com/album/4yY4PIqnPv3UYRvIaJU0X7"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "duration_ms": 241180,
+      "name": "R\u00e4ddare i n\u00f6den",
+      "url": "https://open.spotify.com/track/3QR9CKSgMGMq27gnSl5pft"
+    },
+    {
+      "added_at": "2025-06-12 13:05:26",
+      "album": {
+        "name": "Mimosa",
+        "url": "https://open.spotify.com/album/3RdhNTewFtkvWj5z2gxZpp"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "duration_ms": 192575,
+      "name": "Mimosa",
+      "url": "https://open.spotify.com/track/00oneQN4fZEl3tbhiNMExE"
+    },
+    {
+      "added_at": "2025-06-12 13:05:26",
       "album": {
         "name": "Viva La Vida",
         "url": "https://open.spotify.com/album/1L8q23sIBg9hklgZwbHyVX"
@@ -605,23 +621,7 @@
       "url": "https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
-      "album": {
-        "name": "Love Songs 2021",
-        "url": "https://open.spotify.com/album/6XgVBqUVSDb1a1JxyqIONf"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Valborg",
-      "url": "https://open.spotify.com/track/4vYSe7JHoQ1Y1nFSXwlqQ8"
-    },
-    {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
         "name": "Konfetti",
         "url": "https://open.spotify.com/album/4aWHBRPvgHpM39DUrvCMTR"
@@ -641,42 +641,10 @@
       "url": "https://open.spotify.com/track/57ilwMdNXbsbVaP8GtfEIB"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
-        "name": "Mimosa",
-        "url": "https://open.spotify.com/album/3RdhNTewFtkvWj5z2gxZpp"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
-        }
-      ],
-      "duration_ms": 192575,
-      "name": "Mimosa",
-      "url": "https://open.spotify.com/track/00oneQN4fZEl3tbhiNMExE"
-    },
-    {
-      "added_at": "2025-06-11 13:45:00",
-      "album": {
-        "name": "R\u00e4ddare i n\u00f6den",
-        "url": "https://open.spotify.com/album/4yY4PIqnPv3UYRvIaJU0X7"
-      },
-      "artists": [
-        {
-          "name": "Hov1",
-          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
-        }
-      ],
-      "duration_ms": 241180,
-      "name": "R\u00e4ddare i n\u00f6den",
-      "url": "https://open.spotify.com/track/3QR9CKSgMGMq27gnSl5pft"
-    },
-    {
-      "added_at": "2025-06-11 13:45:00",
-      "album": {
-        "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
-        "url": "https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE"
+        "name": "Love Songs 2021",
+        "url": "https://open.spotify.com/album/6XgVBqUVSDb1a1JxyqIONf"
       },
       "artists": [
         {
@@ -684,52 +652,44 @@
           "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
         }
       ],
-      "duration_ms": 228893,
-      "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
-      "url": "https://open.spotify.com/track/2yz5IaQLnO8WBCIWMXoRBS"
+      "duration_ms": 198173,
+      "name": "Valborg",
+      "url": "https://open.spotify.com/track/4vYSe7JHoQ1Y1nFSXwlqQ8"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
-        "name": "Somna med Humlan Djojj",
-        "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
+        "name": "Drugs N Love",
+        "url": "https://open.spotify.com/album/7BA0yBsgnoyTmGQXRZJVgU"
       },
       "artists": [
         {
-          "name": "Humlan Djojj",
-          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
-        },
-        {
-          "name": "Josefine G\u00f6testam",
-          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
         }
       ],
-      "duration_ms": 161481,
-      "name": "Nu s\u00e4ger vi godnatt",
-      "url": "https://open.spotify.com/track/7qLwjBWh3M2JLFlEokIjUP"
+      "duration_ms": 138187,
+      "name": "Drugs N Love",
+      "url": "https://open.spotify.com/track/5bpNC61pnAqXWJg8CLoxhP"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
+        "name": "Kan Inte G\u00e5",
+        "url": "https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC"
       },
       "artists": [
         {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        },
-        {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
         }
       ],
-      "duration_ms": 176965,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
+      "duration_ms": 146718,
+      "name": "Kan Inte G\u00e5",
+      "url": "https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
         "name": "Bloodline (with Jelly Roll)",
         "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
@@ -749,59 +709,27 @@
       "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
-        "name": "Drugs N Love",
-        "url": "https://open.spotify.com/album/7BA0yBsgnoyTmGQXRZJVgU"
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
       },
       "artists": [
         {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        }
-      ],
-      "duration_ms": 138187,
-      "name": "Drugs N Love",
-      "url": "https://open.spotify.com/track/5bpNC61pnAqXWJg8CLoxhP"
-    },
-    {
-      "added_at": "2025-06-11 13:45:00",
-      "album": {
-        "name": "Sunnanvind",
-        "url": "https://open.spotify.com/album/11zMh9VPccELGpM5FgJIx9"
-      },
-      "artists": [
-        {
-          "name": "Mares",
-          "url": "https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC"
-        }
-      ],
-      "duration_ms": 202409,
-      "name": "Sunnanvind",
-      "url": "https://open.spotify.com/track/4GK4mydvnsodLEHWb4zJV4"
-    },
-    {
-      "added_at": "2025-06-11 13:45:00",
-      "album": {
-        "name": "Sov med Humlan Djojj",
-        "url": "https://open.spotify.com/album/6K3aPGyRCE1EgmcTyftjxu"
-      },
-      "artists": [
-        {
-          "name": "Humlan Djojj",
-          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
         },
         {
-          "name": "Josefine G\u00f6testam",
-          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
         }
       ],
-      "duration_ms": 114124,
-      "name": "Humlehum",
-      "url": "https://open.spotify.com/track/6F0EAXG5D1iFZU57wfa0Ys"
+      "duration_ms": 176965,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
         "name": "Ikv\u00e4ll Igen",
         "url": "https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32"
@@ -817,7 +745,59 @@
       "url": "https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
+      "album": {
+        "name": "Vilja Bli",
+        "url": "https://open.spotify.com/album/2jCYbQBRefZrTeMXIMIsNp"
+      },
+      "artists": [
+        {
+          "name": "Oskar Linnros",
+          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
+        }
+      ],
+      "duration_ms": 193360,
+      "name": "Fr\u00e5n och med Du",
+      "url": "https://open.spotify.com/track/6sjGsKuInpaK3uoaWGe22W"
+    },
+    {
+      "added_at": "2025-06-12 13:05:26",
+      "album": {
+        "name": "Somna med Humlan Djojj",
+        "url": "https://open.spotify.com/album/4WNif9l3tnCtgdyLO3hTaG"
+      },
+      "artists": [
+        {
+          "name": "Humlan Djojj",
+          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
+        },
+        {
+          "name": "Josefine G\u00f6testam",
+          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
+        }
+      ],
+      "duration_ms": 161481,
+      "name": "Nu s\u00e4ger vi godnatt",
+      "url": "https://open.spotify.com/track/7qLwjBWh3M2JLFlEokIjUP"
+    },
+    {
+      "added_at": "2025-06-12 13:05:26",
+      "album": {
+        "name": "Sunnanvind",
+        "url": "https://open.spotify.com/album/11zMh9VPccELGpM5FgJIx9"
+      },
+      "artists": [
+        {
+          "name": "Mares",
+          "url": "https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC"
+        }
+      ],
+      "duration_ms": 202409,
+      "name": "Sunnanvind",
+      "url": "https://open.spotify.com/track/4GK4mydvnsodLEHWb4zJV4"
+    },
+    {
+      "added_at": "2025-06-12 13:05:26",
       "album": {
         "name": "Birra",
         "url": "https://open.spotify.com/album/6ET2zhZ1JD8Zge03jYUnyT"
@@ -837,36 +817,56 @@
       "url": "https://open.spotify.com/track/2IdIiiNX7SpQO9WW77aZPx"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
-        "name": "Hur m\u00e5nga mil",
-        "url": "https://open.spotify.com/album/0Vslua8p3vs0fJrqqAzQHc"
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t"
       },
       "artists": [
         {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 147800,
-      "name": "Hur m\u00e5nga mil",
-      "url": "https://open.spotify.com/track/1Vvsi25b3d1FzEnbaCoYLm"
+      "duration_ms": 179082,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
     },
     {
-      "added_at": "2025-06-11 13:45:00",
+      "added_at": "2025-06-12 13:05:26",
       "album": {
-        "name": "Vilja Bli",
-        "url": "https://open.spotify.com/album/2jCYbQBRefZrTeMXIMIsNp"
+        "name": "Moderna Tider",
+        "url": "https://open.spotify.com/album/7lbMjjnuHPSgU4wZolWdQ1"
       },
       "artists": [
         {
-          "name": "Oskar Linnros",
-          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
+          "name": "Gyllene Tider",
+          "url": "https://open.spotify.com/artist/0FINyNBXqnTlRC4dvpSeSb"
         }
       ],
-      "duration_ms": 193360,
-      "name": "Fr\u00e5n och med Du",
-      "url": "https://open.spotify.com/track/6sjGsKuInpaK3uoaWGe22W"
+      "duration_ms": 188466,
+      "name": "N\u00e4r vi tv\u00e5 blir en",
+      "url": "https://open.spotify.com/track/2EKzS2s2VKnbQ7jxyk2WHi"
+    },
+    {
+      "added_at": "2025-06-12 13:05:26",
+      "album": {
+        "name": "Sov med Humlan Djojj",
+        "url": "https://open.spotify.com/album/6K3aPGyRCE1EgmcTyftjxu"
+      },
+      "artists": [
+        {
+          "name": "Humlan Djojj",
+          "url": "https://open.spotify.com/artist/73nQT8Arf05XV666SlvrVQ"
+        },
+        {
+          "name": "Josefine G\u00f6testam",
+          "url": "https://open.spotify.com/artist/42OtrLDsfIE3pD915uvaju"
+        }
+      ],
+      "duration_ms": 114124,
+      "name": "Humlehum",
+      "url": "https://open.spotify.com/track/6F0EAXG5D1iFZU57wfa0Ys"
     }
   ],
   "unique_name": "Top 50 - Sweden",

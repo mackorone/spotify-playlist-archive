@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sWdTksRl5C.md) - [plain]
 
 > Don't play the odds, play the man\. Listen to the music from Suits & NBC's Suits LA, streaming on Peacock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,445 likes - 56 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,450 likes - 56 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sWdTksRl5C.md) - [plain]
 | 55 | [Into The Wild](https://open.spotify.com/track/4g2T3FUjXH6XuboKw60hHX) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Sideways](https://open.spotify.com/album/5XsAy9Iqc4HVotx800ojMA) | 3:30 |
 | 56 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 |
 
-Snapshot ID: `Z89AFQAAAADo8QT1jA2BHI9kN0R3w8O2`
+Snapshot ID: `AAAAALUV4jDfSh6o2HaYTwaougPxktVH`

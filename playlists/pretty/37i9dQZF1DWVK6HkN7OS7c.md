@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVK6HkN7OS7c.md) - [plain]
 
 > Songs that make Paul Mescal feel something, including some from his new film All Of Us Strangers\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,892 likes - 48 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,919 likes - 48 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVK6HkN7OS7c.md) - [plain]
 | 47 | [Trucker Speed](https://open.spotify.com/track/46odp6vkKYlv0fPdRhdk1Y) | [Fred Eaglesmith](https://open.spotify.com/artist/0yv1W9HeASlBRyWrzRMhWh) | [6Volts](https://open.spotify.com/album/0N78nEVS8VFiJXdVxGOBB5) | 5:11 |
 | 48 | [For You](https://open.spotify.com/track/4439aAX3jNkNKx1ygUr9WC) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:57 |
 
-Snapshot ID: `Zg7Y4QAAAAAJgxbPGldJIW7WcpA89U7N`
+Snapshot ID: `Zg7Y4QAAAAA5DsSCrpySkLalWZhxDXgx`

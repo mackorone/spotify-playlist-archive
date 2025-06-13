@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 
 > The best songs from the new shows and the buzziest hits\. Cover: BOOP!
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,751 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,766 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 | 49 | [Building Momentum](https://open.spotify.com/track/3lU3XxNcxJcDpu8nDnNi7n) | [Liam Pearce](https://open.spotify.com/artist/5WIJIo9K2PlyrqMWkCSCd1) | [How to Dance in Ohio \(Original Broadway Cast Recording\)](https://open.spotify.com/album/4XCEusht2rfxuNKx5IQ4t2) | 2:48 |
 | 50 | [The March \(We Demand Equality\) \[from the Broadway musical “Suffs”\]](https://open.spotify.com/track/1ODYl4yWYox1r2UsHFjIpD) | [Hannah Cruz](https://open.spotify.com/artist/4Okl6bPzDlvptmDBdFwLJw), [Nikki M\. James](https://open.spotify.com/artist/5HHdJNyLkf5ZmTcxId47jT), [Original Broadway Cast of Suffs](https://open.spotify.com/artist/1kskwE0A7A0TRvLjUGR5br) | [The March \(We Demand Equality\) \[from the Broadway musical “Suffs”\]](https://open.spotify.com/album/0t1TWC07YlrRIMq8B2Ryg4) | 3:24 |
 
-Snapshot ID: `aEZE/wAAAAAG8Ky+MDVb45zYQKe6AJLn`
+Snapshot ID: `AAAAAAvasvxLGO80cg0rMIPvT06YWPEo`

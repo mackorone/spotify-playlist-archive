@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-279 songs - 16 hr 7 min
+280 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Afterthought](https://open.spotify.com/track/0BzXYvt2u33TaSbDxHdfFI) | [Coast Arcade](https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC) | [Afterthought](https://open.spotify.com/album/5HGaHnQ16xG7Xd0pyefVf2) | 3:24 | 2024-12-12 | 2025-02-01 |
 | [Ain't Just Dreaming](https://open.spotify.com/track/5Oj6jg9NrV8dYlXDNB6Uu5) | [TOI](https://open.spotify.com/artist/6AdX4TgEt0fYWoRqvHi81A), [The NZ Team](https://open.spotify.com/artist/7rI9VYVp3JYh32FbZME6ip), [Ellesse Andrews](https://open.spotify.com/artist/1mDua6s6MkNJ7WZc9xBFaP), [Max Brown](https://open.spotify.com/artist/7zV7e9gbkoifHMZYxW3Bh6) | [Ain't Just Dreaming](https://open.spotify.com/album/7wU7TF5kEnSJnobM4HcB1m) | 3:21 | 2024-05-20 | 2024-11-08 |
 | [AKL Girls](https://open.spotify.com/track/3zXTz0y8aF3FM0xnoYNG5f) | [Church & AP](https://open.spotify.com/artist/0RUqlEJMEe0g9g1tNOro7Z) | [AKL Girls](https://open.spotify.com/album/2TAiv9A69DgSKHCEUTat6l) | 4:19 | 2024-09-26 | 2025-01-31 |
+| [ALL MINE](https://open.spotify.com/track/0Yg2JX24pCRIcqZRC5aJU8) | [whatsaheart](https://open.spotify.com/artist/1Ry6DudE0QFcXoUdXsCQfV) | [ALL MINE](https://open.spotify.com/album/2HfQH6Lgw5niuKPPSPJ9RD) | 2:38 | 2025-06-12 |  |
 | [All Night](https://open.spotify.com/track/5koR0ccU16Uknn5Rvm93g2) | [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [All Night](https://open.spotify.com/album/296ZqgLJupUJJsoCnYCN8X) | 3:40 | 2025-02-06 |  |
 | [Alone With You](https://open.spotify.com/track/4twZYaycgkHGouSHWd6coG) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Slow Crush](https://open.spotify.com/album/0g0bAZkZDREcGkAo5jzuYU) | 3:30 | 2025-04-03 |  |
 | [Antidote](https://open.spotify.com/track/4f2rXgV35Y91zwHSXtr6RK) | [Lepani](https://open.spotify.com/artist/2BP4XXvv9754tQZ0Pumcml), [Tamillia](https://open.spotify.com/artist/5yjlPxR2NMOjm2JiHtJR3Q) | [Antidote](https://open.spotify.com/album/1xvBPLRzILitJ2BWzZOtTK) | 2:33 | 2024-05-20 | 2024-11-08 |
@@ -130,7 +131,7 @@
 | [Icarus](https://open.spotify.com/track/7n428mAFxpfChekp39tLFT) | [O & The Mo](https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX) | [Make Way For The Sun](https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ) | 3:34 | 2025-01-30 |  |
 | [In Light of Everything](https://open.spotify.com/track/4Tut8Avf3TvUrvkxjorHO2) | [Tiny Ruins](https://open.spotify.com/artist/4G4W57CTe85hPEGZ6hJ0Du) | [Ceremony](https://open.spotify.com/album/5weOtEa4giqwaGzrqVASTW) | 3:02 | 2024-05-20 | 2024-11-08 |
 | [It's You](https://open.spotify.com/track/4lTgTn4FTzk3IJWy7icNLL) | [STNDRD](https://open.spotify.com/artist/5LMAyDoKihkMcAGUhMqUYf), [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [It's You](https://open.spotify.com/album/72Lzi9kZu2JrXBSkvw367X) | 3:41 | 2024-05-20 | 2025-02-21 |
-| [It's You \- Remix](https://open.spotify.com/track/0zH0pGgXTM0pqiQXWOJ1sE) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [STNDRD](https://open.spotify.com/artist/5LMAyDoKihkMcAGUhMqUYf), [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [It's You \(Remix\)](https://open.spotify.com/album/1R64RCl0nW49PHsOaCpbC6) | 2:55 | 2024-05-20 |  |
+| [It's You \- Remix](https://open.spotify.com/track/0zH0pGgXTM0pqiQXWOJ1sE) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [STNDRD](https://open.spotify.com/artist/5LMAyDoKihkMcAGUhMqUYf), [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [It's You \(Remix\)](https://open.spotify.com/album/1R64RCl0nW49PHsOaCpbC6) | 2:55 | 2024-05-20 | 2025-06-13 |
 | [Jeremy](https://open.spotify.com/track/1uISXy3URFhS0yu5WXanT8) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [Jeremy](https://open.spotify.com/album/3quHOAYylf3eOrnwPr5UoW) | 3:18 | 2024-05-20 | 2024-11-08 |
 | [juliet & juliet](https://open.spotify.com/track/1NUsYYGE0O3SI8CxZrNhCm) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [juliet & juliet](https://open.spotify.com/album/60bkLTXrxVVqiR5G9YtcnQ) | 3:56 | 2025-03-20 |  |
 | [Just Don't Know](https://open.spotify.com/track/67CX9hiqAJtGjDIyhOPoEf) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Just Don't Know](https://open.spotify.com/album/1zzwqgeeOuzSIjzoFVRQrc) | 3:07 | 2024-11-28 | 2025-01-21 |

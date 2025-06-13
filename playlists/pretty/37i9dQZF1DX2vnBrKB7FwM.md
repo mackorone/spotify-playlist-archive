@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Penyair
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,049 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,071 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 57 | [La Típica \(2.018\)](https://open.spotify.com/track/2sM2CvBHegavYx0LUCWZrx) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/1n2cyFuubJtLlIyQWjtNEi) | 2:51 |
 | 58 | [La Vida Es Solo Una](https://open.spotify.com/track/5CwIPEZLQWwYB8tKruccJm) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [La Vida Es Solo Una](https://open.spotify.com/album/6nMhlrzDLRGETUIxjpqXiU) | 3:04 |
 | 59 | [Hienas](https://open.spotify.com/track/0fMUUugJLn2IZX5EedPRj2) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k) | [Hienas](https://open.spotify.com/album/6PBGi7sW0jYuDgVlkAkjA2) | 2:55 |
-| 60 | [Receso Solo 1](https://open.spotify.com/track/1pLGlJF5gf5YDEKFzLg9Fz) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [Receso Solo 1](https://open.spotify.com/album/0LhuysoUDHLhiV6BKkwk4m) | 3:33 |
+| 60 | [Receso Solo 1](https://open.spotify.com/track/1pLGlJF5gf5YDEKFzLg9Fz) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k) | [Receso Solo 1](https://open.spotify.com/album/0LhuysoUDHLhiV6BKkwk4m) | 3:33 |
 | 61 | [Tararea](https://open.spotify.com/track/0Go1Z1pGPbCGv1dADfSbLn) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/6PpSdpOYFAsR81W6X3SrbT) | 3:19 |
 | 62 | [Nrs In Da Area](https://open.spotify.com/track/2nwyBoKRKAemGvgRhHELg0) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv) | [Nrs In Da Area](https://open.spotify.com/album/29HcQVOLpnwwmaI7Qlv665) | 3:31 |
 | 63 | [Arde Roma](https://open.spotify.com/track/1iDcAvaddk5uOJbp2Al0Iz) | [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB), [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N), [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ) | [El Armador del Sol](https://open.spotify.com/album/224wnpTxgYLu50oxEZFoh6) | 3:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 74 | [Deja](https://open.spotify.com/track/3rFQdyT9s0sg1zEaYQmJ45) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mestizo](https://open.spotify.com/album/0eDsjuoAukMeT8fy9RDG9f) | 3:31 |
 | 75 | [Horas Extras](https://open.spotify.com/track/5oFX4zn4CIDN0l2RCVuObT) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53), [DJ Dmoe](https://open.spotify.com/artist/0UO7aldjXU5OjHiYKXUwrK) | [Todos Tienen Que Comer](https://open.spotify.com/album/6vPnYHNVtdT9V76xUy3e2d) | 3:52 |
 
-Snapshot ID: `Z+9oyQAAAADlvU71jRvg22szvlXtjy9G`
+Snapshot ID: `Z+9oyQAAAAATbh1kcbRkL/c05nRz6FJF`

@@ -4,7 +4,7 @@
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: Kyle Sturrock
 
-501 songs - 1 day 3 hr 4 min
+503 songs - 1 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [hummingbird](https://open.spotify.com/track/5HAff5WrHbF6Z5OQ87xMYY) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [hummingbird](https://open.spotify.com/album/7uWRQGtSciziEDFxqcWNkS) | 4:27 | 2024-07-05 | 2024-10-05 |
 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 | 2025-05-01 |  |
 | [I am the King](https://open.spotify.com/track/5BD2sRwZBmAcS649vipoAq) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [I am the King](https://open.spotify.com/album/0MmY7xbuJNiyICbIgJaDrO) | 3:03 | 2024-06-07 | 2024-07-06 |
+| [I Am Who I Am \(Re\-mastered\)](https://open.spotify.com/track/5tq73HT5XCaTb39Wop9b5f) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [I Am Who I Am \(Re\-mastered\)](https://open.spotify.com/album/6vVLNrQDUFeF26MgZUGLT4) | 4:34 | 2025-06-04 |  |
 | [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 | 2024-10-04 | 2024-12-07 |
 | [I Don't Care](https://open.spotify.com/track/59hOaDEcmGb1ILfHJG5zOw) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [I Don't Care](https://open.spotify.com/album/2XLiR0W0Nj4nnO3yuDYU4d) | 3:26 | 2024-08-28 | 2024-10-05 |
 | [i don't need your help](https://open.spotify.com/track/3OEaNqH4yA9gGTSQUdVXpf) | [Ghostryder](https://open.spotify.com/artist/6mNtYUHVwuFUmiTYPiRKFw) | [i don't need your help](https://open.spotify.com/album/1aFzLZSRKP1n90t9Ueav1N) | 2:44 | 2024-07-05 | 2024-08-29 |
@@ -388,6 +389,7 @@
 | [Sick To My Stomach](https://open.spotify.com/track/4KB58JqZXzjyIurknDDeR6) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Sick To My Stomach](https://open.spotify.com/album/3QL8nTb3M34sU2Yb03z7kM) | 2:11 | 2024-10-04 | 2024-12-07 |
 | [Simple Like 17](https://open.spotify.com/track/3g2DiSLHv42SUxpbE9jkRz) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17](https://open.spotify.com/album/7kER2cVpZWvqXlds3fJzmU) | 3:19 | 2024-01-22 | 2024-03-01 |
 | [Sinking Foxes](https://open.spotify.com/track/6CccVzT8sALX3YJPCd91SU) | [Ann Liu Cannon](https://open.spotify.com/artist/0nrNlzYHLslWdAw8tYLf5Y) | [Sinking Foxes / Lord of the Dance](https://open.spotify.com/album/3k0XSRdfyndh6IFdQk9Y5z) | 4:25 | 2024-10-04 | 2024-12-07 |
+| [Skincare Riddim ft\. AntsLive & Erick the Architect](https://open.spotify.com/track/4Gu68yR7HMgDBE9fQgiAvM) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Skincare Riddim ft\. AntsLive & Erick the Architect](https://open.spotify.com/album/4MeZwR2WeDpL4cjjJSR045) | 2:35 | 2025-06-04 |  |
 | [Skip Ahead](https://open.spotify.com/track/4rUYfqtZas6N69XdRL3PDP) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Skip Ahead](https://open.spotify.com/album/2n1Q9ud2SVdBjy67cc7CBC) | 3:37 | 2025-02-07 | 2025-04-05 |
 | [SKYSCRAPER \- Piano Diaries](https://open.spotify.com/track/3g1U61yNCVUlEKnKSFALME) | [Toby Gad](https://open.spotify.com/artist/2v4e16xkId2E5YbYEWgPP8), [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [SKYSCRAPER](https://open.spotify.com/album/1x0o3TVQyk2KIvP9TNlxG7) | 3:24 | 2024-01-22 | 2024-03-01 |
 | [Slow Dancing](https://open.spotify.com/track/3p8rcrb4coHHA6889lfQTC) | [Stuck On Planet Earth](https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS) | [Slow Dancing](https://open.spotify.com/album/4XmDVuOYl1nrdV2SifuKRr) | 3:11 | 2024-11-12 | 2024-12-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 
 > Music from the gaming series "Yakuza: Like a Dragon" \-「龍が如く8」発売記念！シリーズ歴代テーマソング、サントラ楽曲を網羅した公式プレイリストが登場
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,787 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,799 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 | 49 | [夢見た姿へ \- Full Spec Edition](https://open.spotify.com/track/0iAuMGZXdibcXPMbTgDhfj) | [春日一番\(中谷一博\)](https://open.spotify.com/artist/2STZnJDjAUm8VoELOCW7HS) | [龍が如く7 カラオケ新曲コレクション\(龍が如く7 光と闇の行方\)](https://open.spotify.com/album/2jshSvMBzHKtD5mjrqp0Nb) | 3:44 |
 | 50 | [ばかみたい \- Taxi Driver Edition](https://open.spotify.com/track/6z3Yfhf2btFUDBuG2s2yhW) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [桐生一馬 カラオケ定番曲コレクション\(龍が如く7 光と闇の行方\)](https://open.spotify.com/album/4ynD53oRoOMXqcUM0TlzVD) | 4:51 |
 
-Snapshot ID: `Z8EliwAAAABePM9Qf1GKazqv1jSkfmc4`
+Snapshot ID: `aEpH6wAAAAAQqp2U6l4MV7jJ0/Oxqafx`

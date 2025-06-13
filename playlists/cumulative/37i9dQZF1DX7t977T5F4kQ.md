@@ -4,7 +4,7 @@
 
 > The hottest and recent Ghana party starters\. Cover: Quamina MP
 
-509 songs - 1 day 2 hr 25 min
+510 songs - 1 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [asem](https://open.spotify.com/track/0G2fnj3aEvWLBfte6LkUyp) | [Kojo Manuel](https://open.spotify.com/artist/25ybMiGzi0JBQhRKg7VEO6), [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [asem](https://open.spotify.com/album/3eWqe3ZDHqK3ssXTwtOp2e) | 2:12 | 2024-11-22 | 2024-12-07 |
 | [Ashawo](https://open.spotify.com/track/25VXqB7xRiulkQAvL819Yb) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [Ashawo](https://open.spotify.com/album/56jazw4lgbAn1rEyperIPa) | 3:01 | 2023-05-19 | 2024-06-28 |
 | [Asikyire](https://open.spotify.com/track/1Z7mMnCRKLeXb3qpWXmswA) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Lighthouse](https://open.spotify.com/album/1wBVNcu4xaAntWt8vUgGnL) | 4:46 | 2023-11-24 | 2024-01-13 |
+| [Asikyire \(Sugar\)](https://open.spotify.com/track/38847Svxy8cNXO49MHVdvQ) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Asikyire \(Sugar\)](https://open.spotify.com/album/6f84SfO7ex6EsUpL4uaFrr) | 3:15 | 2025-06-13 |  |
 | [Asor](https://open.spotify.com/track/1au4kwJno8TJB5tR4ocQnZ) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ) | [Asor](https://open.spotify.com/album/6tyX6CWvTE1bVyYRERMGbi) | 3:06 | 2025-05-30 |  |
 | [Asylum](https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 3:02 | 2024-03-01 |  |
 | [Atele](https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Atele](https://open.spotify.com/album/5RZ1JeQvf9rTr772dR2Xa1) | 2:46 | 2022-11-04 | 2024-03-22 |
@@ -340,7 +341,7 @@
 | [Odo Nkoaa](https://open.spotify.com/track/1bBpce38RogIi9HneIooXP) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9), [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Odo Nkoaa](https://open.spotify.com/album/6do5C86UDDZnyq41YqDIsO) | 3:31 | 2023-05-12 | 2023-08-11 |
 | [Off My Mind](https://open.spotify.com/track/67UP0bBhejSEwTqBbkzDc3) | [Sablar](https://open.spotify.com/artist/0do4yoWrGKWLS0qNjKG2uV) | [Off My Mind](https://open.spotify.com/album/6n2JT6VH6foqIR9hLJ9hwm) | 2:30 | 2023-06-09 | 2023-07-01 |
 | [Oh Ma Linda](https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Most High](https://open.spotify.com/album/505XBFuhnlK4GBsGq7old5) | 2:56 | 2023-07-14 | 2024-04-19 |
-| [Oh Ma Linda](https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Oh Ma Linda](https://open.spotify.com/album/7lsm82NrdAoXBWoOEucvMg) | 2:56 | 2023-04-14 |  |
+| [Oh Ma Linda](https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Oh Ma Linda](https://open.spotify.com/album/7lsm82NrdAoXBWoOEucvMg) | 2:56 | 2023-04-14 | 2025-06-13 |
 | [Ohemaa](https://open.spotify.com/track/1u2K82uk2yeeWhYUieIa5b) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ), [Lord Paper](https://open.spotify.com/artist/0PYZYiwCRGI69v56iyfzgb) | [Ohemaa](https://open.spotify.com/album/6GSPOyYbPYTkR74gQMPus0) | 3:33 | 2023-02-09 | 2023-02-24 |
 | [Old Flame](https://open.spotify.com/track/42iVBafiggSXxcdY2g02iA) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Old Flame](https://open.spotify.com/album/3turvCSKi4z5OtNiYRQeor) | 3:02 | 2024-12-20 | 2025-01-15 |
 | [Olivia](https://open.spotify.com/track/1mUPiWUDXCQvkiNpzNa0yk) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Olivia](https://open.spotify.com/album/71LNcbKRpuxYZ3rfG8zZhm) | 3:05 | 2025-03-07 |  |

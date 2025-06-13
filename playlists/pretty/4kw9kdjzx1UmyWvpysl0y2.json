@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125263,
+  "num_followers": 125261,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAULnWtu00KV4P5PdE9LgwSRzMsMcZS",
+  "snapshot_id": "AAAUMex4ujjXQV5vvbDN5g2vS9ckmWvC",
   "tracks": [
+    {
+      "added_at": "2025-06-12 15:22:59",
+      "album": {
+        "name": "Connected",
+        "url": "https://open.spotify.com/album/3KDFcNu9Ghk8k51e8Y4aTB"
+      },
+      "artists": [
+        {
+          "name": "Bad Computer",
+          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
+        },
+        {
+          "name": "Gold",
+          "url": "https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H"
+        }
+      ],
+      "duration_ms": 147187,
+      "name": "Connected",
+      "url": "https://open.spotify.com/track/45hfGclwBL1fQzjO2rrdgf"
+    },
     {
       "added_at": "2025-06-11 15:14:08",
       "album": {
@@ -1151,130 +1171,6 @@
       "duration_ms": 255743,
       "name": "Blood in the Water",
       "url": "https://open.spotify.com/track/64LJtrzSzV08fQ9R1CgRak"
-    },
-    {
-      "added_at": "2025-03-21 14:49:39",
-      "album": {
-        "name": "The High We Seek",
-        "url": "https://open.spotify.com/album/0l1tbGmzd9Z8uCv6j4WPew"
-      },
-      "artists": [
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "The High We Seek",
-      "url": "https://open.spotify.com/track/4KqsO8DraAibjxNgRqG8Oq"
-    },
-    {
-      "added_at": "2025-03-20 14:47:00",
-      "album": {
-        "name": "drunk on u",
-        "url": "https://open.spotify.com/album/3uZkt4BhHKIkVlgUz0mQfB"
-      },
-      "artists": [
-        {
-          "name": "The Duchess",
-          "url": "https://open.spotify.com/artist/5WxiAl23gqBkSToRgKsG8B"
-        },
-        {
-          "name": "Dyson",
-          "url": "https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67"
-        }
-      ],
-      "duration_ms": 132071,
-      "name": "drunk on u",
-      "url": "https://open.spotify.com/track/64KSyt7Jn8jC5lNEB15xjX"
-    },
-    {
-      "added_at": "2025-03-19 13:50:56",
-      "album": {
-        "name": "LOCK N LOAD",
-        "url": "https://open.spotify.com/album/50muUlnq0cgOylPOJYEppo"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
-        }
-      ],
-      "duration_ms": 176800,
-      "name": "LOCK N LOAD",
-      "url": "https://open.spotify.com/track/3OA8WRnghM0VmLXFMTSKnr"
-    },
-    {
-      "added_at": "2025-03-18 15:00:38",
-      "album": {
-        "name": "Cycles",
-        "url": "https://open.spotify.com/album/56Z8kjqUaZ5qfq7sW9h9CJ"
-      },
-      "artists": [
-        {
-          "name": "rshand",
-          "url": "https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16"
-        },
-        {
-          "name": "Lewyn",
-          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/6m5nyZ7HsnNJ5C1XvkY6Ga"
-    },
-    {
-      "added_at": "2025-03-17 15:12:03",
-      "album": {
-        "name": "RUSH",
-        "url": "https://open.spotify.com/album/3GttPaPelfvJFskKNHlVkS"
-      },
-      "artists": [
-        {
-          "name": "ROSSY",
-          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "RUSH",
-      "url": "https://open.spotify.com/track/0XzKj2ATe07KA0eJfrdNjL"
-    },
-    {
-      "added_at": "2025-03-14 14:28:10",
-      "album": {
-        "name": "Back 2 The Rave",
-        "url": "https://open.spotify.com/album/3Uf3ZTYmR2zZaf4pYCxnwi"
-      },
-      "artists": [
-        {
-          "name": "MUST DIE!",
-          "url": "https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb"
-        },
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        }
-      ],
-      "duration_ms": 239586,
-      "name": "Back 2 The Rave",
-      "url": "https://open.spotify.com/track/1SXRoogCywl9bDdRQL2BHd"
-    },
-    {
-      "added_at": "2025-03-13 14:38:49",
-      "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/7I7CPbDYjhgk6wuecUzxwJ"
-      },
-      "artists": [
-        {
-          "name": "k?d",
-          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
-        }
-      ],
-      "duration_ms": 221720,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/6WBUjjJfJfCuAw2QKrduFv"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBHo5sKcpSI.md) - [plain]
 
 > Check out the set list of Ado THE FIRST WORLD TOUR “Wish” in USA + special voice messages from Ado /初世界ツアーのセットリストをチェック
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,432 likes - 31 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,431 likes - 31 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBHo5sKcpSI.md) - [plain]
 | 30 | [踊](https://open.spotify.com/track/7z6qHGEKxRtwtYym2epV7l) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [踊](https://open.spotify.com/album/6jfXGkieuNnsFxi5pS3vJ2) | 3:28 |
 | 31 | [Thank You New York, Chicago, Los Angeles and Austin](https://open.spotify.com/track/1O63EsxTBEw0QmTRAhsjUS) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [THE FIRST WORLD TOUR “Wish” Message from Ado](https://open.spotify.com/album/0axRd5jZXn7HxTcMJTr96q) | 1:07 |
 
-Snapshot ID: `ZguAaAAAAABwbxTiBj1/Fz6H/SaMH53q`
+Snapshot ID: `AAAAADmP4hc5y2vwgMe5EcddafTESHzH`

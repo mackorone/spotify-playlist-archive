@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Yelitza Cintron
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,042 likes - 70 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,148 likes - 70 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

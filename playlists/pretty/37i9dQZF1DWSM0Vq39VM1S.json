@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 197757,
+  "num_followers": 197770,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,26 @@
     {
       "added_at": "2025-06-06 16:43:11",
       "album": {
+        "name": "Anticipate",
+        "url": "https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 189284,
+      "name": "Anticipate",
+      "url": "https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16"
+    },
+    {
+      "added_at": "2025-06-06 16:43:11",
+      "album": {
         "name": "SABLE, fABLE",
         "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
       },
@@ -139,26 +159,6 @@
       "duration_ms": 212483,
       "name": "Red Moon",
       "url": "https://open.spotify.com/track/44tb4TdFVliafU17EQg28J"
-    },
-    {
-      "added_at": "2025-06-06 16:43:11",
-      "album": {
-        "name": "Anticipate",
-        "url": "https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1"
-      },
-      "artists": [
-        {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 189284,
-      "name": "Anticipate",
-      "url": "https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16"
     },
     {
       "added_at": "2025-06-06 16:43:11",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-06-06 16:43:11",
       "album": {
-        "name": "Where'd It Go Wrong?",
-        "url": "https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 251294,
-      "name": "Where'd It Go Wrong?",
-      "url": "https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0"
-    },
-    {
-      "added_at": "2025-06-06 16:43:11",
-      "album": {
         "name": "toothache",
         "url": "https://open.spotify.com/album/3rjjYmNxsyWkmrDLEKtXF4"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 208271,
       "name": "toothache",
       "url": "https://open.spotify.com/track/6vca0aMELa1kc6mIs6w39c"
+    },
+    {
+      "added_at": "2025-06-06 16:43:11",
+      "album": {
+        "name": "Where'd It Go Wrong?",
+        "url": "https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 251294,
+      "name": "Where'd It Go Wrong?",
+      "url": "https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0"
     },
     {
       "added_at": "2025-06-06 16:43:11",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-06-06 16:43:11",
       "album": {
-        "name": "You Might Need Somebody",
-        "url": "https://open.spotify.com/album/73sppbd5vjMj9FkogKQN6r"
-      },
-      "artists": [
-        {
-          "name": "Shola Ama",
-          "url": "https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6"
-        }
-      ],
-      "duration_ms": 292626,
-      "name": "You Might Need Somebody",
-      "url": "https://open.spotify.com/track/5lijIZgEqHF35VSG6WtYCC"
-    },
-    {
-      "added_at": "2025-06-06 16:43:11",
-      "album": {
         "name": "postcard season",
         "url": "https://open.spotify.com/album/1jrrjvl5djCDh5fBN8ZE0q"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 172300,
       "name": "sunflower \u201824",
       "url": "https://open.spotify.com/track/4B5bFK1CWLg3MHo56HNizi"
+    },
+    {
+      "added_at": "2025-06-06 16:43:11",
+      "album": {
+        "name": "You Might Need Somebody",
+        "url": "https://open.spotify.com/album/73sppbd5vjMj9FkogKQN6r"
+      },
+      "artists": [
+        {
+          "name": "Shola Ama",
+          "url": "https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6"
+        }
+      ],
+      "duration_ms": 292626,
+      "name": "You Might Need Somebody",
+      "url": "https://open.spotify.com/track/5lijIZgEqHF35VSG6WtYCC"
     },
     {
       "added_at": "2025-06-06 16:43:11",

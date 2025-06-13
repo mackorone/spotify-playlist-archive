@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 148969,
+  "num_followers": 148978,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
+        "name": "can we start over?",
+        "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 187596,
+      "name": "spite",
+      "url": "https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
         "name": "Cobra (Rock Remix) [feat. Spiritbox]",
         "url": "https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 186521,
       "name": "Cobra (Rock Remix) [feat. Spiritbox]",
       "url": "https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
-        "name": "can we start over?",
-        "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 187596,
-      "name": "spite",
-      "url": "https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Want Me",
-        "url": "https://open.spotify.com/album/26fVz5K8XbNM0fNcQnaO3s"
-      },
-      "artists": [
-        {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
-        }
-      ],
-      "duration_ms": 163391,
-      "name": "Want Me",
-      "url": "https://open.spotify.com/track/5Czd9hqOj4uvwpieRmVlTw"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "This World Fucking Sucks",
         "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "The Watchers",
-        "url": "https://open.spotify.com/album/3p2Cyk0nyayrEaM97mhMde"
+        "name": "Want Me",
+        "url": "https://open.spotify.com/album/26fVz5K8XbNM0fNcQnaO3s"
       },
       "artists": [
         {
-          "name": "Jagwar Twin",
-          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
         }
       ],
-      "duration_ms": 140363,
-      "name": "The Watchers",
-      "url": "https://open.spotify.com/track/5oItzo1j9q9aDRBUsiGmj9"
+      "duration_ms": 163391,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/5Czd9hqOj4uvwpieRmVlTw"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "JUMP!",
-        "url": "https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD"
+        "name": "The Watchers",
+        "url": "https://open.spotify.com/album/3p2Cyk0nyayrEaM97mhMde"
       },
       "artists": [
         {
-          "name": "Only The Poets",
-          "url": "https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t"
+          "name": "Jagwar Twin",
+          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
         }
       ],
-      "duration_ms": 194928,
-      "name": "JUMP!",
-      "url": "https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim"
+      "duration_ms": 140363,
+      "name": "The Watchers",
+      "url": "https://open.spotify.com/track/5oItzo1j9q9aDRBUsiGmj9"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1295,6 +1279,22 @@
       "duration_ms": 182792,
       "name": "dead inside",
       "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "JUMP!",
+        "url": "https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD"
+      },
+      "artists": [
+        {
+          "name": "Only The Poets",
+          "url": "https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t"
+        }
+      ],
+      "duration_ms": 194928,
+      "name": "JUMP!",
+      "url": "https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Over You",
-        "url": "https://open.spotify.com/album/2R5WaXG1YcFHhRdFNoS4U4"
-      },
-      "artists": [
-        {
-          "name": "Landon Barker",
-          "url": "https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF"
-        }
-      ],
-      "duration_ms": 170266,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/2ANcnQVK8L23fpyvwd021a"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "lightweight",
         "url": "https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 227000,
       "name": "lightweight",
       "url": "https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/2R5WaXG1YcFHhRdFNoS4U4"
+      },
+      "artists": [
+        {
+          "name": "Landon Barker",
+          "url": "https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF"
+        }
+      ],
+      "duration_ms": 170266,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/2ANcnQVK8L23fpyvwd021a"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1461,6 +1461,22 @@
       "url": "https://open.spotify.com/track/5i8v4dQ9Lfo0CmG7PU64Z2"
     },
     {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Kissing Death",
+        "url": "https://open.spotify.com/album/06BiMFYYLl0cQnJDRSXmtD"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "duration_ms": 168488,
+      "name": "Another High",
+      "url": "https://open.spotify.com/track/2q5ByXv4sljfsPL3XvglUm"
+    },
+    {
       "added_at": "2025-05-30 22:19:14",
       "album": {
         "name": "Say That You Love Me",
@@ -1479,18 +1495,18 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Kissing Death",
-        "url": "https://open.spotify.com/album/06BiMFYYLl0cQnJDRSXmtD"
+        "name": "diamonds on your dagger",
+        "url": "https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ"
       },
       "artists": [
         {
-          "name": "MOTHICA",
-          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
         }
       ],
-      "duration_ms": 168488,
-      "name": "Another High",
-      "url": "https://open.spotify.com/track/2q5ByXv4sljfsPL3XvglUm"
+      "duration_ms": 201710,
+      "name": "diamonds on your dagger",
+      "url": "https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1511,22 +1527,6 @@
       "duration_ms": 197387,
       "name": "Year 3000 2.0",
       "url": "https://open.spotify.com/track/6GQER7cmMJ3goZa1U6VgPs"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
-        "name": "diamonds on your dagger",
-        "url": "https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ"
-      },
-      "artists": [
-        {
-          "name": "senses",
-          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
-        }
-      ],
-      "duration_ms": 201710,
-      "name": "diamonds on your dagger",
-      "url": "https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Greener",
-        "url": "https://open.spotify.com/album/4AFI5zpN06NhzwmRJ8bczT"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 175566,
-      "name": "Greener",
-      "url": "https://open.spotify.com/track/3XlMdG6jijNmW6NHsRUztE"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/0FC1kJead46CsxnGGjmwA4"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 191554,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0Y5fBC703Co6hAYrM9uX5J"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Greener",
+        "url": "https://open.spotify.com/album/4AFI5zpN06NhzwmRJ8bczT"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 175566,
+      "name": "Greener",
+      "url": "https://open.spotify.com/track/3XlMdG6jijNmW6NHsRUztE"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1763,26 +1763,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Final Nail (with Charlotte Sands)",
-        "url": "https://open.spotify.com/album/41yGbbLZbhBJqjSBuoOoG4"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        },
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 150404,
-      "name": "Final Nail (with Charlotte Sands)",
-      "url": "https://open.spotify.com/track/6kG3qEXGFZCC4OfGCRBW15"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "ALL CAPS (feat. John the Ghost)",
         "url": "https://open.spotify.com/album/0IZ7BqP4lOHnDM7VUsCE8C"
       },
@@ -1851,22 +1831,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Basement",
-        "url": "https://open.spotify.com/album/0hWOLHDlMwS0hDhf1ITHVz"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 204147,
-      "name": "Basement",
-      "url": "https://open.spotify.com/track/2acM5LqZRO1Tsv2PFKOXKy"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "STRANGERS",
         "url": "https://open.spotify.com/album/5YiMAwQ6ecR1mDk4E9MNmF"
       },
@@ -1883,6 +1847,26 @@
       "duration_ms": 223176,
       "name": "STRANGERS",
       "url": "https://open.spotify.com/track/2eeLM9CVHETMWIdDGtW39i"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Final Nail (with Charlotte Sands)",
+        "url": "https://open.spotify.com/album/41yGbbLZbhBJqjSBuoOoG4"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 150404,
+      "name": "Final Nail (with Charlotte Sands)",
+      "url": "https://open.spotify.com/track/6kG3qEXGFZCC4OfGCRBW15"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -1919,22 +1903,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Crazy Again",
-        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 197877,
-      "name": "Crazy Again",
-      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "Liquor and Kerosene (feat. The Maine)",
         "url": "https://open.spotify.com/album/2Hz30mmJGwlVXhbffxDM8j"
       },
@@ -1947,6 +1915,22 @@
       "duration_ms": 214024,
       "name": "Liquor and Kerosene (feat. The Maine)",
       "url": "https://open.spotify.com/track/7k0OJud8YsBKbncUPa46TY"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Crazy Again",
+        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 197877,
+      "name": "Crazy Again",
+      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2015,6 +1999,22 @@
       "duration_ms": 149142,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Basement",
+        "url": "https://open.spotify.com/album/0hWOLHDlMwS0hDhf1ITHVz"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 204147,
+      "name": "Basement",
+      "url": "https://open.spotify.com/track/2acM5LqZRO1Tsv2PFKOXKy"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Dead To Me",
-        "url": "https://open.spotify.com/album/1mwyZwRToR8k5V7ADCT31H"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 157504,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/1cEml7iH5h7cqd8Dn4HzdF"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
         "name": "Maybe You Saved Me",
         "url": "https://open.spotify.com/album/1T4ojqgTOhuLDEeMPvz3BY"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 204632,
       "name": "Maybe You Saved Me",
       "url": "https://open.spotify.com/track/6pJsukg4tYbHfE01yU40Qr"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/1mwyZwRToR8k5V7ADCT31H"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 157504,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/1cEml7iH5h7cqd8Dn4HzdF"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2387,6 +2387,26 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
+        "name": "Ultimatum",
+        "url": "https://open.spotify.com/album/0YjaDupGt0URWOJKzc9bSP"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        },
+        {
+          "name": "We The Kings",
+          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
+        }
+      ],
+      "duration_ms": 206040,
+      "name": "Ultimatum",
+      "url": "https://open.spotify.com/track/53oGdQkeoXpAtu9HLlsycx"
+    },
+    {
+      "added_at": "2025-02-14 18:48:51",
+      "album": {
         "name": "First To Go",
         "url": "https://open.spotify.com/album/3PLVbHQDtLfU70Nji5erZl"
       },
@@ -2419,22 +2439,18 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Ultimatum",
-        "url": "https://open.spotify.com/album/0YjaDupGt0URWOJKzc9bSP"
+        "name": "Bad Bones",
+        "url": "https://open.spotify.com/album/2Mp0vOi797F1mAgaXdLcDy"
       },
       "artists": [
         {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
-        },
-        {
-          "name": "We The Kings",
-          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
+          "name": "SAINT PHNX",
+          "url": "https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk"
         }
       ],
-      "duration_ms": 206040,
-      "name": "Ultimatum",
-      "url": "https://open.spotify.com/track/53oGdQkeoXpAtu9HLlsycx"
+      "duration_ms": 203578,
+      "name": "Bad Bones",
+      "url": "https://open.spotify.com/track/6hNaDPBmCwcANj9ZYwnSrl"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2455,18 +2471,18 @@
     {
       "added_at": "2025-02-14 18:48:51",
       "album": {
-        "name": "Bad Bones",
-        "url": "https://open.spotify.com/album/2Mp0vOi797F1mAgaXdLcDy"
+        "name": "VOICES",
+        "url": "https://open.spotify.com/album/0rsYd1AOtCS0sdEou7kYVh"
       },
       "artists": [
         {
-          "name": "SAINT PHNX",
-          "url": "https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk"
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
         }
       ],
-      "duration_ms": 203578,
-      "name": "Bad Bones",
-      "url": "https://open.spotify.com/track/6hNaDPBmCwcANj9ZYwnSrl"
+      "duration_ms": 163262,
+      "name": "VOICES",
+      "url": "https://open.spotify.com/track/0IeHMHKG0yZ5iu3hgwms8f"
     },
     {
       "added_at": "2025-02-14 18:48:51",
@@ -2483,22 +2499,6 @@
       "duration_ms": 158788,
       "name": "Drive Home",
       "url": "https://open.spotify.com/track/4TvsoR6qwflieOInwYeXki"
-    },
-    {
-      "added_at": "2025-02-14 18:48:51",
-      "album": {
-        "name": "VOICES",
-        "url": "https://open.spotify.com/album/0rsYd1AOtCS0sdEou7kYVh"
-      },
-      "artists": [
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        }
-      ],
-      "duration_ms": 163262,
-      "name": "VOICES",
-      "url": "https://open.spotify.com/track/0IeHMHKG0yZ5iu3hgwms8f"
     },
     {
       "added_at": "2025-02-14 18:48:51",

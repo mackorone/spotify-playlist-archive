@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm?si=IELbCB0XQZW2Uuc3hkJzZw"> Mawelele</a>
+> Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8?si=hZhE\_qlDTQeAoJ1z\-wpWew">Vusi Nova</a>
 
-682 songs - 2 day 0 hr 53 min
+683 songs - 2 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [ICE BOY](https://open.spotify.com/track/5WitY5GhqNFpbw85MRlTJc) | [Prince Benza](https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [CK the Dj](https://open.spotify.com/artist/4IPk1SN4U0wmDksDGcvGVP), [Leon Lee](https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD) | [ICE BOY](https://open.spotify.com/album/5coGZmI44wlfeivpxWBPIJ) | 5:28 | 2023-02-23 | 2023-03-18 |
 | [Idliso](https://open.spotify.com/track/19nYxv4eoMwEjxgruXqOSK) | [Nozi](https://open.spotify.com/artist/30kJwhrtiIFDPOa7og862Y) | [Idliso](https://open.spotify.com/album/6Gw7TPI2X8j9VLfWzG6qVK) | 5:05 | 2022-11-17 | 2023-06-30 |
 | [Igama Lami](https://open.spotify.com/track/1LQGJzyBHAuF2wNG1nrSWo) | [Zakwethu](https://open.spotify.com/artist/0ftrdf0KoMHqUtAOPNCshS) | [Igama Lami](https://open.spotify.com/album/60Bu0kgH5kkA6vvHZtiyP1) | 3:01 | 2024-05-31 |  |
-| [Ikhandlela \(Acoustic\)](https://open.spotify.com/track/1VRCgqvsnw7kBBQZ5sAaei) | [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v) | [Ikhandlela \(Acoustic\)](https://open.spotify.com/album/19vwRiP3ofuDGIqRGuXQ07) | 5:40 | 2025-04-18 |  |
+| [Ikhandlela \(Acoustic\)](https://open.spotify.com/track/1VRCgqvsnw7kBBQZ5sAaei) | [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v) | [Ikhandlela \(Acoustic\)](https://open.spotify.com/album/19vwRiP3ofuDGIqRGuXQ07) | 5:40 | 2025-04-18 | 2025-06-13 |
 | [Ikherubhi](https://open.spotify.com/track/2n8tN67x4dBNUjf5qCGa5r) | [Mpumi Mzobe](https://open.spotify.com/artist/28HsboP2nvlkVyNemAvs3l), [Villager SA](https://open.spotify.com/artist/3IV8hNUqZuET32bq0ttUoj) | [Ikherubhi](https://open.spotify.com/album/2DHztJwxjSs9vdvZcDIIcv) | 5:38 | 2022-10-28 | 2022-11-15 |
 | [Ilanga](https://open.spotify.com/track/2HmBIq2pmNSjCmNNeZMJjM) | [Buhlebendalo](https://open.spotify.com/artist/1Nu3lDd06uk8y73zM6r6MW), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Deeply Rooted](https://open.spotify.com/album/4lOWybiZPn6y3T47b6b8JZ) | 3:45 | 2021-12-28 | 2022-02-18 |
 | [Ilanga](https://open.spotify.com/track/71ljcc2HUJFIvZlTpSjzyN) | [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu) | [Ilanga](https://open.spotify.com/album/70iUftbnlvEs0GhQMQxWxJ) | 3:52 | 2023-12-08 | 2024-11-15 |
@@ -477,6 +477,7 @@
 | [Phakade](https://open.spotify.com/track/3uDw8M8eTBDC7npvLy9ELS) | [Paige](https://open.spotify.com/artist/1UiuIk36C3ZI4Jqat38Q5L), [SeeZus Beats](https://open.spotify.com/artist/2IRgHENUusLqlDaj5hRmoi) | [Phakade](https://open.spotify.com/album/0lGgjqIGQb21QuAU55jpdQ) | 5:07 | 2022-06-23 | 2023-08-04 |
 | [Phakade Lami](https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Phakade Lami](https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9) | 4:21 | 2021-10-07 | 2023-06-30 |
 | [Pharadise \(feat\. Young Stunna\)](https://open.spotify.com/track/2t66w9rIC1SQBYDlgQv7rS) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Pharadise](https://open.spotify.com/album/1jdo2X5GsN9bVFd41g6nNN) | 4:02 | 2025-04-24 |  |
+| [Phendula](https://open.spotify.com/track/1j1nOZttWVaZG8A7WdK9Jw) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Phendula](https://open.spotify.com/album/1sR2TBRnQgPrjkMPqdQHBP) | 3:16 | 2025-06-12 |  |
 | [Piki Piki](https://open.spotify.com/track/3RzB4tFNyg0fKchMDtNHCY) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Piki Piki](https://open.spotify.com/album/75OUwhwR6nfevKLXUHBwvQ) | 3:01 | 2024-10-10 |  |
 | [Please Stay](https://open.spotify.com/track/3etMtEdaEBPD4NKfCUj0HJ) | [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7), [Osaze](https://open.spotify.com/artist/6ZWL7h66dJRqstIFa3OO0E), [Bucie](https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG) | [Please Stay](https://open.spotify.com/album/1mky1KbxL1dRlFuvJyqA16) | 6:14 | 2023-08-17 | 2023-09-01 |
 | [Pretender](https://open.spotify.com/track/20hoZcmu5L51NhHi7JAr9f) | [Mukololo](https://open.spotify.com/artist/3PjUsqUK9807lMGiWKIQoT), [Jon Delinger](https://open.spotify.com/artist/6N08SlULviNvUJhmDgevsF) | [Pretender](https://open.spotify.com/album/2ltrUjRCMRNOIyoQ1R1hTS) | 5:04 | 2025-04-14 | 2025-04-18 |

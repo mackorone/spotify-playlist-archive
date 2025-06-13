@@ -4,7 +4,7 @@
 
 > La scène francophone branchée sur courant alternatif\. Photo : Feu! Chatterton
 
-309 songs - 16 hr 33 min
+312 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [COUP DE FOUDRE](https://open.spotify.com/track/0lBnsgQTZyeLnwKnQ7GIxs) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [COUP DE FOUDRE](https://open.spotify.com/album/428jPxdZh194ALGPIBaeM8) | 3:20 | 2023-09-28 | 2023-11-17 |
 | [Coups de soleil](https://open.spotify.com/track/7z4oEyhuIL5jB45mL4bKLX) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Coups de soleil](https://open.spotify.com/album/1P9eGJfPY8ZYPdVZOndFcm) | 2:27 | 2025-04-24 |  |
 | [Cours dans la forêt](https://open.spotify.com/track/1cAeZkMEGQz8xU5PPecMUx) | [No Sex Last Night](https://open.spotify.com/artist/4OwWT91x4jWdIGWqKnUH6z) | [Cours dans la forêt](https://open.spotify.com/album/7HKEwSTgjQyccEX7T2j42e) | 3:20 | 2024-10-24 | 2025-03-21 |
-| [Cramé](https://open.spotify.com/track/6eIdxemCVuPhGNemzooQxK) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI), [Chahu](https://open.spotify.com/artist/0tCiiQ7rCWK6IRfO6mWUoy) | [Cramé](https://open.spotify.com/album/6bOJkZkJYHaXHecRgyuv1B) | 3:00 | 2025-02-13 |  |
+| [Cramé](https://open.spotify.com/track/6eIdxemCVuPhGNemzooQxK) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI), [Chahu](https://open.spotify.com/artist/0tCiiQ7rCWK6IRfO6mWUoy) | [Cramé](https://open.spotify.com/album/6bOJkZkJYHaXHecRgyuv1B) | 3:00 | 2025-02-13 | 2025-06-13 |
+| [Dania](https://open.spotify.com/track/4PjbnxON54kfrRtur51R8L) | [Sans Lactose](https://open.spotify.com/artist/5o9bgsy6gISpQ7FJszf34L) | [Dania](https://open.spotify.com/album/5zBWA42QHQwCuroHrhwCCB) | 2:15 | 2025-06-12 |  |
 | [Dannazione](https://open.spotify.com/track/3bgPcv0jVe1OSPwNe4VLzR) | [MaMaMa](https://open.spotify.com/artist/4cyoA6TEaCkcI6ue37dJpw) | [Dannazione](https://open.spotify.com/album/77MBshYT8ncsvdWfOff8uq) | 2:53 | 2024-01-26 | 2024-10-11 |
 | [Dans quelques années](https://open.spotify.com/track/7iTKzfE7lcUMPfqNyeKQcE) | [Arca M](https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg) | [Dans quelques années](https://open.spotify.com/album/4XYeMFN1EkDkn3BMDrZACn) | 3:19 | 2025-05-15 |  |
 | [DANS SES YEUX](https://open.spotify.com/track/20SeuXMY4OisUyQSFcCdL8) | [Moyà](https://open.spotify.com/artist/1Xvap7Au9MqLcUJUCPcJp1) | [DANS SES YEUX](https://open.spotify.com/album/4lakbu7ear8AfSjl9VZf3w) | 2:09 | 2024-06-06 | 2024-11-08 |
@@ -132,7 +133,7 @@
 | [Jamais Je Ne Viens](https://open.spotify.com/track/5dSLiCcetFe3LGrnhbh9fZ) | [Ottis Cœur](https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR) | [Léon](https://open.spotify.com/album/48OOvBs7jVOAWitbHAQ9Ll) | 2:28 | 2023-09-28 | 2023-10-06 |
 | [Je cours](https://open.spotify.com/track/51Gt7yGGiV4wEH9C8YgwBd) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Je cours](https://open.spotify.com/album/4mjbfmCjIffHSLbZRqNWNf) | 2:57 | 2023-09-28 | 2023-11-03 |
 | [Je Pense Après](https://open.spotify.com/track/2of8itFR9aQFO8krOG0XsH) | [PHELTO](https://open.spotify.com/artist/1degQXhxGRPsmT7I0Vgalc) | [Je Pense Après](https://open.spotify.com/album/7H6zgd1vM1nGyLHVZJfHbz) | 2:52 | 2024-10-24 | 2025-03-21 |
-| [Je t'emmènerai](https://open.spotify.com/track/2Mv1tPuwMAHQHA2CalxQi5) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Je t'emmènerai](https://open.spotify.com/album/3YhrhemEcuxGllGaet7vJB) | 2:55 | 2024-03-14 |  |
+| [Je t'emmènerai](https://open.spotify.com/track/2Mv1tPuwMAHQHA2CalxQi5) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Je t'emmènerai](https://open.spotify.com/album/3YhrhemEcuxGllGaet7vJB) | 2:55 | 2024-03-14 | 2025-06-13 |
 | [Je Voulais](https://open.spotify.com/track/26LEDUBccqiAj28QDjzOod) | [Ladaniva](https://open.spotify.com/artist/6nt7tWnBx4NqnXKO6vEByU) | [Je Voulais](https://open.spotify.com/album/6v0EOkmlVsamzKicsn8m2R) | 3:02 | 2023-09-28 | 2023-12-01 |
 | [Johnny Cash](https://open.spotify.com/track/5Dpm1jgO5VobfRs8Ub13Uf) | [Julius On The Wave](https://open.spotify.com/artist/3u8hEmcHdXJhkI0d6pHNId) | [Johnny Cash](https://open.spotify.com/album/7MuRvKMSoV3vvVUtz2XT9r) | 2:47 | 2024-04-19 | 2024-06-14 |
 | [Jour vert](https://open.spotify.com/track/5nacc9dNvHHUCzYZJxQnME) | [Barbet](https://open.spotify.com/artist/7rN8I3x8rAW7gGFYLCK03E), [Cesar](https://open.spotify.com/artist/20m6HbvQBjsXKPC0S5WVKS) | [Sous l'orage](https://open.spotify.com/album/6p52nGu2VCACb7n45Ry0Y0) | 3:24 | 2025-06-05 |  |
@@ -165,6 +166,7 @@
 | [Le soleil](https://open.spotify.com/track/2lktF3thBYKCdaaTmGbwHu) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Le soleil](https://open.spotify.com/album/6YLBbcCJyHaH8XhQOYr3R8) | 4:07 | 2023-09-28 | 2023-12-01 |
 | [Le syndrome de Peter Pan](https://open.spotify.com/track/0h1Eh9xzNefZFj7lpbdxt7) | [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX) | [Le syndrome de Peter Pan](https://open.spotify.com/album/4L3x0WjVx8d6WDdLRRkpU7) | 2:37 | 2025-04-24 | 2025-06-06 |
 | [Le téléphone](https://open.spotify.com/track/3NAx8hW6fdM9Tyt8RqplNM) | [Jim Bauer](https://open.spotify.com/artist/77kjYcXMhJX87ZjtrlxbLo) | [Le téléphone](https://open.spotify.com/album/7xlJo76BopfAUd4rwiwDPv) | 2:42 | 2023-11-23 | 2023-12-01 |
+| [Les Chevaux Blancs](https://open.spotify.com/track/6y0yMswC3BLtp5VQ41lxJD) | [Mon cher Guy](https://open.spotify.com/artist/6KwKwfx3DSMOYDfHo1GcK2), [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Cowboy Circus](https://open.spotify.com/album/0LeNAzIxVwsSVrvUq28HPD) | 2:38 | 2025-06-12 |  |
 | [Les garçons](https://open.spotify.com/track/5XGju7r47HMtg660vdkBSd) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Les garçons](https://open.spotify.com/album/6Yy55S5ELrJMIbGcdQ7qQK) | 3:40 | 2023-11-16 | 2024-09-13 |
 | [Les garçons](https://open.spotify.com/track/3Ff2iqsPtk3vtl0LPbTZx6) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Rêve parti](https://open.spotify.com/album/3cTYOxcJrFZjoTClbbceI9) | 3:41 | 2024-03-28 | 2024-04-19 |
 | [Les Gens Qui Dansent \(j'adore\)](https://open.spotify.com/track/0kgZ7YqklQkVLV8SoEi5Us) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Les Gens Qui Dansent \(j'adore\)](https://open.spotify.com/album/3ATPhog7ZvQNERcWSvbQnQ) | 3:36 | 2025-02-27 |  |
@@ -297,9 +299,10 @@
 | [Un Autre Nom](https://open.spotify.com/track/2Sftxg76IUpWf3aSH7prbl) | [Allo Christine](https://open.spotify.com/artist/0ycuoXwPh9pQpDebMV5Wg3) | [Un Autre Nom](https://open.spotify.com/album/1SIurxrtkXjXzxfuj2awk8) | 3:51 | 2024-09-05 | 2024-11-29 |
 | [Une dernière fois](https://open.spotify.com/track/3FWo0LZdY98cNzlJ3vkBPO) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [Bella Vita](https://open.spotify.com/album/1CUDj03p5bIJMthHyrqpYZ) | 3:07 | 2023-09-28 | 2023-10-20 |
 | [Vampire](https://open.spotify.com/track/1NXaC1bu1eufFLpkqog2zw) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Le cœur qui cogne](https://open.spotify.com/album/4yQrejKybw0gsJ7W6k0Vmw) | 3:33 | 2023-09-28 | 2023-10-20 |
-| [Vampire \(version alternative\)](https://open.spotify.com/track/03KlGOuPtRvIl9bktXpg90) | [Louise XIV](https://open.spotify.com/artist/0JScgHZQDr0hurXOyUrK6V) | [Vampire \(version alternative\)](https://open.spotify.com/album/6jM27O29EOWcgO7yFRZXZ8) | 2:28 | 2025-03-06 |  |
+| [Vampire \(version alternative\)](https://open.spotify.com/track/03KlGOuPtRvIl9bktXpg90) | [Louise XIV](https://open.spotify.com/artist/0JScgHZQDr0hurXOyUrK6V) | [Vampire \(version alternative\)](https://open.spotify.com/album/6jM27O29EOWcgO7yFRZXZ8) | 2:28 | 2025-03-06 | 2025-06-13 |
 | [Vert Colère](https://open.spotify.com/track/25rbcw7r1mKCMLME1yrA1R) | [Order89](https://open.spotify.com/artist/6ayzB6RMcaJM7POpMjRtTW) | [Brûle](https://open.spotify.com/album/3Rt5jXlFYs8MNa7TfEGTLD) | 3:22 | 2023-11-16 | 2024-01-12 |
 | [VHS](https://open.spotify.com/track/18L4W0H4hNw3KODrldn1iS) | [Akira & le Sabbat](https://open.spotify.com/artist/1beqcw5P0wds8IzLuuAxZp) | [Poudrière](https://open.spotify.com/album/0fPpc3P9BOMJNdrQXYeArA) | 2:43 | 2024-04-25 | 2024-11-29 |
+| [Vie de rêve](https://open.spotify.com/track/5hiomyDdmSY5uITlR75LmK) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI), [Zenzile](https://open.spotify.com/artist/3W9EL2Dp6yptDXJUCrd68X) | [Vie de rêve](https://open.spotify.com/album/225dAvG6EOybII03gUtrOJ) | 4:09 | 2025-06-12 |  |
 | [Vieille meuf](https://open.spotify.com/track/6s1IyWxMYJ1QDKX4xNmlGw) | [Louisadonna](https://open.spotify.com/artist/6KeEXdNCF2wHQ1kT3seHO1) | [Vieille meuf](https://open.spotify.com/album/1YhDSshOmKGlqx9inijlvu) | 2:57 | 2025-03-27 |  |
 | [Vivre soit 2](https://open.spotify.com/track/3HQUQjYxybimuqzIdebnr9) | [Astéréotypie](https://open.spotify.com/artist/1bPIphq90zexFcnUA7qILm) | [Aucun mec ne ressemble à Brad Pitt dans la Drôme](https://open.spotify.com/album/1POjEAquHo8mTJZDuanBeF) | 2:51 | 2023-09-28 | 2023-11-24 |
 | [Vous !](https://open.spotify.com/track/2nHe5UGcgaKpNue5w9ddXa) | [Moussa](https://open.spotify.com/artist/5szBKM0Zc5bKmQvkiO1NDS) | [Vous !](https://open.spotify.com/album/1R6fcOqHQGp02MpUY4DSBN) | 2:16 | 2025-04-17 |  |

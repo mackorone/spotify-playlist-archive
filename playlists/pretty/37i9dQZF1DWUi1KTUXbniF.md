@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUi1KTUXbniF.md) - [plain](/playlists/plain/37i9dQZF1DWUi1KTUXbniF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUi1KTUXbniF)
 
-### [Crunchyroll Anime Awards Winners](https://open.spotify.com/playlist/37i9dQZF1DWUi1KTUXbniF)
+### [Crunchyroll Anime Awards Winners \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWUi1KTUXbniF)
 
 > The best of anime, honored\. Listen to the music behind previous Anime Award winners, from 2017\-2024.
 

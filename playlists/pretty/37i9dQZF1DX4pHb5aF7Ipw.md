@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by  Krish Rao, Mankirat Kang, Emiway Bantai and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,433 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,451 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 6 | [Roughneck](https://open.spotify.com/track/74z41eiWYzIwo9VIzmMtcx) | [Kahlon](https://open.spotify.com/artist/6rHyVOJFRsLEOo1aOd2zQG), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Bloodline](https://open.spotify.com/album/08QuCXacVOTXeUYoS1lW3l) | 2:58 |
 | 7 | [Mid Air Freeverse](https://open.spotify.com/track/3o3yhsCSbmN4o2njLOc6MN) | [SunSunnykhez](https://open.spotify.com/artist/6zLSo3MNjbMw7aGr5LhJXJ), [UpsideDown](https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu), [ICONYK](https://open.spotify.com/artist/53jFDJeDG6WGvjeiuw8RAE) | [Mid Air Freeverse](https://open.spotify.com/album/2pDTneUfk2Tl6TuIKlBA83) | 3:28 |
 | 8 | [Supercharged](https://open.spotify.com/track/5S8thAcMoQstRKEoInlCaA) | [Bhalwaan](https://open.spotify.com/artist/0B6Y4zlto5DbCaU6eNLvXi), [Manna Music](https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT) | [Legendary](https://open.spotify.com/album/4GZzTZcFZnlzW3fN4bfX0U) | 2:30 |
-| 9 | [Pass The Baton](https://open.spotify.com/track/5U4mkkNo6xOvgT3uzigq7n) | [KANDA](https://open.spotify.com/artist/4ZkbzkKZp4QtUBEExZL9id), [Apache Indian](https://open.spotify.com/artist/4sLklwvfOYr12fMGwrnlc7) | [Pass The Baton](https://open.spotify.com/album/4phEvKcOtjeT9Zg4YBn7Eq) | 3:18 |
+| 9 | [Pass The Baton](https://open.spotify.com/track/5U4mkkNo6xOvgT3uzigq7n) | [KANDA](https://open.spotify.com/artist/4ZkbzkKZp4QtUBEExZL9id), [Apache Indian](https://open.spotify.com/artist/4sLklwvfOYr12fMGwrnlc7), [Devinder J](https://open.spotify.com/artist/2VwnJftX1qhBgbzSsW0gdi) | [Pass The Baton](https://open.spotify.com/album/4phEvKcOtjeT9Zg4YBn7Eq) | 3:18 |
 | 10 | [Tribute To Sidhu Moosewala](https://open.spotify.com/track/5prDD6avsuqYIvhzGEK3Wd) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Tribute To Sidhu Moosewala](https://open.spotify.com/album/3cpUCRRlJzuOavueaCbLYk) | 2:32 |
 | 11 | [KAARA](https://open.spotify.com/track/5QlBJcXVhM72MdhNulVnES) | [Tej Sarao](https://open.spotify.com/artist/71W54NaYnkWgJCTi2aKh6A), [SUKHA](https://open.spotify.com/artist/4JvidOgqFUQWbqKidH39NI) | [KAARA](https://open.spotify.com/album/0d3JDR2Ebw5AsMu6KgkVQS) | 3:06 |
 | 12 | [Downky](https://open.spotify.com/track/2XgrdUzlkjz9OXoJV08G6K) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [4TheWorld](https://open.spotify.com/artist/1NmxtNejR6ZXZUFcEyrBm1) | [Downky](https://open.spotify.com/album/58AXDoWhFSQvzgw9LDhwjG) | 2:52 |

@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 120174,
       "name": "00:42",
       "url": "https://open.spotify.com/track/2UAPfh7Iwcz2a8P5qmXxpn"
@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 176842,
       "name": "Bad Bunny",
       "url": "https://open.spotify.com/track/5MssSbOHsF0nGCj9tttufS"
@@ -2830,7 +2830,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 192593,
       "name": "Carpe Diem",
       "url": "https://open.spotify.com/track/1LJFTgkr5UeYU2vUX4MAvp"
@@ -5980,7 +5980,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 110720,
       "name": "F\u00f6rst\u00e5 mig",
       "url": "https://open.spotify.com/track/3j0HI048DJuzpG7oTugkBF"
@@ -8716,6 +8716,28 @@
       "duration_ms": 198214,
       "name": "Jag \u00f6nskar jag brydde mig mer",
       "url": "https://open.spotify.com/track/6jKS9VFA67W04l9YkDSUFf"
+    },
+    {
+      "album": {
+        "name": "The World Is Yours",
+        "url": "https://open.spotify.com/album/49PNgwc80ySfgoXZy0mpil"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        },
+        {
+          "name": "Sarettii",
+          "url": "https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161762,
+      "name": "Jetpack",
+      "url": "https://open.spotify.com/track/5mTMpmUrqXihcRa1TrsHLv"
     },
     {
       "album": {
@@ -15635,6 +15657,28 @@
     },
     {
       "album": {
+        "name": "Ta Mig Aldrig H\u00e4rifr\u00e5n",
+        "url": "https://open.spotify.com/album/1gW17dHNYR0aDviEo3krRQ"
+      },
+      "artists": [
+        {
+          "name": "De Vet Du",
+          "url": "https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u"
+        },
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187842,
+      "name": "Ta Mig Aldrig H\u00e4rifr\u00e5n",
+      "url": "https://open.spotify.com/track/63FjDlco0BQXJuPZeQ70CZ"
+    },
+    {
+      "album": {
         "name": "Tack mitt (X)",
         "url": "https://open.spotify.com/album/5o3QsdYt30N7vEC2O31kUE"
       },
@@ -16501,6 +16545,32 @@
     },
     {
       "album": {
+        "name": "Trending",
+        "url": "https://open.spotify.com/album/7y9tdy1bzfZR7R87pcZg8B"
+      },
+      "artists": [
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "Greekazo",
+          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
+        },
+        {
+          "name": "NBLNATION",
+          "url": "https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "Trending",
+      "url": "https://open.spotify.com/track/4MqORzpXRRURPAKTlbc8Rb"
+    },
+    {
+      "album": {
         "name": "Triple A (feat. NLE Choppa)",
         "url": "https://open.spotify.com/album/4pmJH9gH9yZxuPOMU0swI9"
       },
@@ -16520,6 +16590,24 @@
       "duration_ms": 158896,
       "name": "Triple A (feat. NLE Choppa)",
       "url": "https://open.spotify.com/track/7JKIP5eWwPfpijXDU5EmZf"
+    },
+    {
+      "album": {
+        "name": "Strawberry Blonde",
+        "url": "https://open.spotify.com/album/4PIjW5Rjso48AHzoRsZ5Qk"
+      },
+      "artists": [
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190965,
+      "name": "Trophy",
+      "url": "https://open.spotify.com/track/2JHpFobSp0WktxCod6MEIy"
     },
     {
       "album": {

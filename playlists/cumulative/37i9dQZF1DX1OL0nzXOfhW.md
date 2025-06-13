@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2025 RADAR登場！持續發掘香港未來新聲！Cover:  risy
+> 2025 RADAR登場！持續發掘香港未來新聲！Cover:  Michael C
 
-261 songs - 15 hr 11 min
+262 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [係咁先啦](https://open.spotify.com/track/6BZaPX5NnjIIasH6EO0P63) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj), [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [係咁先啦](https://open.spotify.com/album/0dIldrE3LEHIaSzPHUb1bm) | 3:29 | 2022-07-28 | 2023-04-14 |
 | [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/track/4I2nZnEp1JZoHO4RB27VTR) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/album/2D3q1OIBnzdntbEsYvF8Of) | 3:29 | 2022-05-26 | 2022-07-29 |
 | [借夢](https://open.spotify.com/track/2OypHetAmUaCOzqHwSUGGn) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [借夢](https://open.spotify.com/album/217H0K4lcncewRCzm1AXME) | 4:44 | 2022-11-17 | 2024-03-29 |
+| [做好戀愛的覺悟](https://open.spotify.com/track/6Yu7H37OlomGNei9IyY9qN) | [力臻 Lagchun](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k), [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [做好戀愛的覺悟](https://open.spotify.com/album/2ZGwyUtV2Z6AOZWMMEsi50) | 3:33 | 2025-06-12 |  |
 | [備忘錄No.164](https://open.spotify.com/track/0uHJGfr7UjilFALl8OblXq) | [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM) | [備忘錄No.164](https://open.spotify.com/album/0ECU32yqFn4yIASDRlSWmM) | 2:23 | 2023-04-13 | 2024-03-29 |
 | [光](https://open.spotify.com/track/1FaWHaqHzNag0AGkM2lPXO) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Callous Room](https://open.spotify.com/album/6f7w2CEVF64paCqtEtXsOe) | 2:45 | 2023-04-13 | 2024-03-29 |
 | [兜圈圈](https://open.spotify.com/track/6sGefs5VLUwdWGEoIynhl4) | [CotaBoii](https://open.spotify.com/artist/2yUScYyzi0WG8ldMEFximW) | [兜圈圈](https://open.spotify.com/album/3bByRiBS1GAOIxQ14ZeCHK) | 3:15 | 2024-06-20 | 2025-03-28 |

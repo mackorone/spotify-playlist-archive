@@ -4,7 +4,7 @@
 
 > Suomen suurin ja paras rock\-soittolista\. Kannessa uuden albumin julkaissut Volbeat.
 
-256 songs - 16 hr 43 min
+257 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [DArkSide](https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DArkSide](https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq) | 2:44 | 2024-09-11 | 2025-02-07 |
 | [Dead Or Alive](https://open.spotify.com/track/122jYbqBkC5X3TO7AKpFgo) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Dead Or Alive](https://open.spotify.com/album/1XI9tZmvcoof83ZShzUwTL) | 3:43 | 2024-11-14 | 2025-01-17 |
 | [Dead People Scare Me \(But The Living Make Me Sick\)](https://open.spotify.com/track/6VcbQTlKbE4bt85Rx6qXnV) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [Dead People Scare Me \(But The Living Make Me Sick\)](https://open.spotify.com/album/5KDDpUroWEDc7HXH0Dqouc) | 3:32 | 2025-05-22 |  |
-| [Demonic Depression](https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [God Of Angels Trust](https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC) | 3:58 | 2025-06-05 |  |
+| [Demonic Depression](https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [God Of Angels Trust](https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC) | 3:58 | 2025-06-05 | 2025-06-13 |
 | [Deutschland](https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 5:22 | 2024-09-11 | 2024-12-20 |
 | [Devilry of Ecstasy](https://open.spotify.com/track/719WQ11ocVYYq2Hd2FKcgJ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Devilry of Ecstasy](https://open.spotify.com/album/0I8tTyfyVf3DHw9xHu5zym) | 3:26 | 2024-09-11 | 2025-01-10 |
 | [Die By The Blade](https://open.spotify.com/track/53h1ZSLWi8hVWF9DWKNXVh) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:14 | 2025-02-13 | 2025-05-02 |
@@ -87,6 +87,7 @@
 | [Fight For Your Right](https://open.spotify.com/track/1zmIyaChZZ6vv1wMkiJbo6) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Fight For Your Right](https://open.spotify.com/album/5DQZ2qsWxYZoDBfYflRn8X) | 3:26 | 2024-09-11 | 2024-10-04 |
 | [Fight Like A Girl \(feat\. K.Flay\)](https://open.spotify.com/track/74G6GBqKuZcMGZ4xllPwfC) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Fight Like A Girl \(feat\. K.Flay\)](https://open.spotify.com/album/52PeeLLB6DgLKb01NCXueF) | 3:06 | 2025-06-05 |  |
 | [Fire to Fight](https://open.spotify.com/track/2C3xLv8AjBRH0AiVg5rwLP) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Game of Faces](https://open.spotify.com/album/08AMSf5EM3u6mALyDL1vYU) | 3:49 | 2025-02-13 |  |
+| [Flowers](https://open.spotify.com/track/29DQXFGt78vmZFixJelxJq) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Flowers](https://open.spotify.com/album/155Q3i44LObyZ2sx2WgQyW) | 2:58 | 2025-06-12 |  |
 | [Frankenstein's Wife](https://open.spotify.com/track/268MELe1R45Gqhz8RYkxuU) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Frankenstein's Wife](https://open.spotify.com/album/5XQRzumlwkrrVlbl7yGMae) | 5:25 | 2024-09-11 | 2024-11-08 |
 | [From An Empire To A Fall](https://open.spotify.com/track/3OVOD34O2bzQGDabjnJvFQ) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA) | [From An Empire To A Fall](https://open.spotify.com/album/1WFxhjTthikWB5m20GCgPK) | 4:08 | 2024-11-01 | 2025-01-17 |
 | [From Hell With Love](https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:55 | 2024-11-07 | 2024-12-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,708 likes - 60 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,717 likes - 60 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 21 | [Are You Gonna Bang Doe? \- Radio Edit](https://open.spotify.com/track/4W7pSezkbbWWQIiRsiNxoW) | [Funky Dee](https://open.spotify.com/artist/4hzlCYExpUNcY6r0jFG3Pv) | [Street Nation](https://open.spotify.com/album/04geSaCj6lElctYUC0gFTd) | 2:43 |
 | 22 | [Tribal Skank \- Radio Mix](https://open.spotify.com/track/1o8waXzOEeUIAlsApWyLEp) | [Fr3e](https://open.spotify.com/artist/6sezwfsYnNgPPKvmv9FmoF) | [Tribal Skank](https://open.spotify.com/album/2waOIVyj1rWWRyBssmfAbt) | 3:44 |
 | 23 | [Lighter VIP](https://open.spotify.com/track/58mlFUs5fy2d6B7bGA06iV) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Lighter EP](https://open.spotify.com/album/1aMv0600AWsjglH7gdeOuL) | 4:33 |
-| 24 | [Devil in a Blue Dress](https://open.spotify.com/track/6mXvnvgtkVjXlg8bjzN71g) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 4:40 |
-| 25 | [Frontline](https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH) | [Princess Nyah](https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh) | [Diary of a Princess](https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe) | 3:55 |
+| 24 | [Frontline](https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH) | [Princess Nyah](https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh) | [Diary of a Princess](https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe) | 3:55 |
+| 25 | [Devil in a Blue Dress](https://open.spotify.com/track/6mXvnvgtkVjXlg8bjzN71g) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 4:40 |
 | 26 | [Im Right Here \(Naughty Mix\)](https://open.spotify.com/track/5aVCzF8Df9wnnkskNK3ZDs) | [DJ MA1](https://open.spotify.com/artist/2QJVs1SDIWbAIqLSavHBQi) | [Im Right Here](https://open.spotify.com/album/4xJgP8lZ2v1F7SqSTScyvr) | 8:12 |
 | 27 | [BLU Magic](https://open.spotify.com/track/7jXF5MEo0MBRjdf5Uy7j1t) | [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw) | [The BLU Magic Project Remix EP](https://open.spotify.com/album/1p8R2BA13zfBxEO5fMlImp) | 4:32 |
 | 28 | [Daydreaming \- Radio Edit](https://open.spotify.com/track/51JHr7mOf85cBREWpKlVLK) | [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Calista](https://open.spotify.com/artist/6A2nY049pOVi16IhBf5Ui2) | [Daydreaming \(Radio Edit\)](https://open.spotify.com/album/3eIj8Z11UWvxinKSUe8qUt) | 3:13 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 44 | [Love Dub](https://open.spotify.com/track/2T4eUTOuEXnUWsQVyPzdGf) | [Cooly G](https://open.spotify.com/artist/0XfcR8jVPEm77dOJEN9tvq) | [Narst / Love Dub](https://open.spotify.com/album/14AlAp96M3GOiLoGSdeAYu) | 3:35 |
 | 45 | [Galiium](https://open.spotify.com/track/4yCJxYCe7tIw0lCx68yQq0) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Gallium](https://open.spotify.com/album/4sq8Tr818HVyApngtRX6nP) | 7:36 |
 | 46 | [Chantes](https://open.spotify.com/track/5B4mII2vIgWjlZAOxOdrt1) | [Apple](https://open.spotify.com/artist/0cLE7Rf26nPEpDrm20OrHf) | [Appocolipto](https://open.spotify.com/album/2hKShqGKTrmyKECCD6VX5G) | 3:57 |
-| 47 | [Quicktime \- Roska Remix](https://open.spotify.com/track/1FDicxg7GVUtCqhF4xgdcI) | [DJ Naughty](https://open.spotify.com/artist/5SThGnsHuNHE99IzvbfKgo) | [Firepower EP](https://open.spotify.com/album/4o2FL2jtRxupHPOGX7Af5U) | 7:19 |
-| 48 | [Work Out](https://open.spotify.com/track/2njzmMIjznNhysCSKwRZVa) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Work Out](https://open.spotify.com/album/3UCiLwvnSvW38fgxPAMZtY) | 3:03 |
+| 47 | [Work Out](https://open.spotify.com/track/2njzmMIjznNhysCSKwRZVa) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Work Out](https://open.spotify.com/album/3UCiLwvnSvW38fgxPAMZtY) | 3:03 |
+| 48 | [Quicktime \- Roska Remix](https://open.spotify.com/track/1FDicxg7GVUtCqhF4xgdcI) | [DJ Naughty](https://open.spotify.com/artist/5SThGnsHuNHE99IzvbfKgo) | [Firepower EP](https://open.spotify.com/album/4o2FL2jtRxupHPOGX7Af5U) | 7:19 |
 | 49 | [Bayeke \- Prace Remix](https://open.spotify.com/track/3K648LEPGPtfd0CSC36wkx) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT), [Prace](https://open.spotify.com/artist/2K5oIzqUzZKO738h7GT3iv) | [Bayeke \(Prace Remix\)](https://open.spotify.com/album/6nLaRTMNGiPyhszXePW6NP) | 5:54 |
 | 50 | [Half On A Baby \- Funkystepz Remix](https://open.spotify.com/track/2H2eqLx9IWWBsu4Guak86x) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [FunkyStepz](https://open.spotify.com/artist/1sMcpUeV5yIQw4F4SvFqcb) | [Half On A Baby \(Remixes\)](https://open.spotify.com/album/5rnCcJ7o7HRCxXlzZ6Dbq8) | 4:33 |
 | 51 | [Mr DJ \- Radio Edit](https://open.spotify.com/track/20JUVEhi7NW3AfQw0tbJUg) | [Charlean Dance](https://open.spotify.com/artist/4sMEQ2Ni1rErxnvw3g7tWN) | [Mr DJ](https://open.spotify.com/album/0pLC7ser2YhXbiPBY3TnVd) | 5:33 |

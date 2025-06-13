@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Wekelijkse update met Hollands en volks. Cover: Jan Smit",
+  "description": "Wekelijkse update met Hollands en volks. Cover: Ammar",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "100 Keer Naar Jou Gekeken",
+        "url": "https://open.spotify.com/album/1LYCWtL9yZxM40lxvMI5jr"
+      },
+      "artists": [
+        {
+          "name": "Bob Offenberg",
+          "url": "https://open.spotify.com/artist/3IGnL1mAn5yUoRsk3k3ZvO"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168084,
+      "name": "100 Keer Naar Jou Gekeken",
+      "url": "https://open.spotify.com/track/0thpQIkg8W57kWBzcpxBB4"
+    },
+    {
+      "album": {
         "name": "100%",
         "url": "https://open.spotify.com/album/77lwOPIULad3xw9beebzJj"
       },
@@ -60,7 +78,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 151493,
       "name": "100%",
       "url": "https://open.spotify.com/track/1lzzSzBejW6m8UN2PdRsDv"
@@ -647,6 +665,24 @@
     },
     {
       "album": {
+        "name": "Blijf altijd bij mij",
+        "url": "https://open.spotify.com/album/4xi6PBkcfFTA8Xhgf19Jgl"
+      },
+      "artists": [
+        {
+          "name": "Jaman",
+          "url": "https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156948,
+      "name": "Blijf altijd bij mij",
+      "url": "https://open.spotify.com/track/1Kfd6LtG1zLGkcNBeYNK9U"
+    },
+    {
+      "album": {
         "name": "Blijf Bij Mij",
         "url": "https://open.spotify.com/album/3pipl4FxxkmuTJdZYYlwI8"
       },
@@ -1190,7 +1226,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 167343,
       "name": "Dichtbij Me (M'n Desire)",
       "url": "https://open.spotify.com/track/70gBIf8EkbC8ZctAPOa7hZ"
@@ -1410,7 +1446,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 152659,
       "name": "Echte Liefde Is Te Koop",
       "url": "https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4"
@@ -1482,7 +1518,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 163548,
       "name": "Eeuwige Vrijgezel",
       "url": "https://open.spotify.com/track/7zOd09BFkqClE1ExyMBAli"
@@ -2124,6 +2160,28 @@
       "duration_ms": 174609,
       "name": "Ik Ben Een Dromer",
       "url": "https://open.spotify.com/track/2kBWWPFDTJ1lmFBYVfdjht"
+    },
+    {
+      "album": {
+        "name": "Ik Drink Alles",
+        "url": "https://open.spotify.com/album/2CshvLL1eDGpQKckxDhnaK"
+      },
+      "artists": [
+        {
+          "name": "Rene Karst",
+          "url": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
+        },
+        {
+          "name": "Thomas Karst",
+          "url": "https://open.spotify.com/artist/4V2vsaargbtYx4VVEr4SoL"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166492,
+      "name": "Ik Drink Alles",
+      "url": "https://open.spotify.com/track/4RudiZ01tqNyda8c3T3Xcg"
     },
     {
       "album": {
@@ -3438,7 +3496,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 162291,
       "name": "Lang Leve de Liefde",
       "url": "https://open.spotify.com/track/0vjzdXCPEiHI2X90yQNZ6i"
@@ -3618,7 +3676,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 143571,
       "name": "Liever Alleen",
       "url": "https://open.spotify.com/track/29kNwlLZHf8iKfxJS0O29s"
@@ -3890,6 +3948,24 @@
       "duration_ms": 222268,
       "name": "Mijn Vader",
       "url": "https://open.spotify.com/track/47i9ElelaZpAmtxvl8rUDr"
+    },
+    {
+      "album": {
+        "name": "Mirjana 2.0",
+        "url": "https://open.spotify.com/album/1STsKNbEvKXPSIJWEPF02R"
+      },
+      "artists": [
+        {
+          "name": "Martin Sifoy",
+          "url": "https://open.spotify.com/artist/2pMQc3rQHljavN9dUHj4Xa"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176247,
+      "name": "Mirjana 2.0",
+      "url": "https://open.spotify.com/track/70Enwp7Oajrq6OhHbsAp3G"
     },
     {
       "album": {
@@ -5430,7 +5506,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 212857,
       "name": "Waar Ga Jij Zo Laat Naar Toe?",
       "url": "https://open.spotify.com/track/1h7NnmLh0prY3A1aipbKK7"
@@ -5542,6 +5618,24 @@
       "duration_ms": 194576,
       "name": "Wat Heb Je Mij Toch Aangedaan",
       "url": "https://open.spotify.com/track/6Tx3dSaqnkcXES4WYlWXkL"
+    },
+    {
+      "album": {
+        "name": "IK",
+        "url": "https://open.spotify.com/album/7Mb79TcTVswCowAorjNWZu"
+      },
+      "artists": [
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128679,
+      "name": "Wat Ik Doe met Jou",
+      "url": "https://open.spotify.com/track/2PyRjrxG8T8jG8KlnMCz3n"
     },
     {
       "album": {
@@ -5865,6 +5959,24 @@
     },
     {
       "album": {
+        "name": "Wie Is De Mol",
+        "url": "https://open.spotify.com/album/1ypTCxANIb4Lo0SSg1dw93"
+      },
+      "artists": [
+        {
+          "name": "Ammar",
+          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167124,
+      "name": "Wie Is De Mol",
+      "url": "https://open.spotify.com/track/62SrmfifnwvjVnSbViCvYM"
+    },
+    {
+      "album": {
         "name": "Wil Jij Met Mij",
         "url": "https://open.spotify.com/album/4VTw1x4eC8wWEKdqP8pgaN"
       },
@@ -5934,6 +6046,32 @@
       "duration_ms": 170507,
       "name": "Zaterdagavond",
       "url": "https://open.spotify.com/track/6e9KR7tB8z7yexkKgIMyLg"
+    },
+    {
+      "album": {
+        "name": "Ze Komt Uit Amsterdam",
+        "url": "https://open.spotify.com/album/5YXzV37JGcqHOMlg3SFM1F"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Andr\u00e9 Hazes Jr.",
+          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
+        },
+        {
+          "name": "Tabitha",
+          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Ze Komt Uit Amsterdam",
+      "url": "https://open.spotify.com/track/3JzuluW7MzrmMkNpfZwtyp"
     },
     {
       "album": {

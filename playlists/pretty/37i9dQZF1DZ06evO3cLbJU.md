@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3cLbJU.md) - [plain]
 
 > This is El Mató a un Policía Motorizado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,295 likes - 43 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,339 likes - 43 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3cLbJU.md) - [plain]
 | 28 | [Tormenta Roja \- Sesión 20° Aniversario En Vivo](https://open.spotify.com/track/0ydhEMvXNvWXOuHivcnWaa) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado \(Sesión 20° Aniversario En Vivo\)](https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2) | 2:36 |
 | 29 | [Espacio Vacío](https://open.spotify.com/track/7yA5MAd2vRuEnSH9LMGoqO) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Espacio Vacío](https://open.spotify.com/album/2kcjb9G2ME8sF1b8j0DEXp) | 3:53 |
 | 30 | [El Día del Huracán \- Versión 2021](https://open.spotify.com/track/2x0prtVhSBk4fESMpqrTdg) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 4:25 |
-| 31 | [Sábado](https://open.spotify.com/track/7r9zYfVUtLFacrkVyB0Ov2) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado](https://open.spotify.com/album/4SytbRWPunDiwa1oLCuiEP) | 3:08 |
+| 31 | [Chica Rutera](https://open.spotify.com/track/4R8l3l5PNUzPn3aS2ROOnI) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Un Millón de Euros](https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L) | 3:58 |
 | 32 | [Doctora Muerte \- Sesión 20° Aniversario En Vivo](https://open.spotify.com/track/4pM3DNnhGqjL9YOZ5ftaBr) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado \(Sesión 20° Aniversario En Vivo\)](https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2) | 2:32 |
-| 33 | [Chica Rutera](https://open.spotify.com/track/4R8l3l5PNUzPn3aS2ROOnI) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Un Millón de Euros](https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L) | 3:58 |
+| 33 | [Sábado](https://open.spotify.com/track/7r9zYfVUtLFacrkVyB0Ov2) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado](https://open.spotify.com/album/4SytbRWPunDiwa1oLCuiEP) | 3:08 |
 | 34 | [Día de los Muertos \- Versión 2021](https://open.spotify.com/track/0LseNPvS1vJGmNsmdf4fQd) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 4:33 |
 | 35 | [Violencia](https://open.spotify.com/track/5yd0LDuANSZTnOGMozk2g1) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Violencia](https://open.spotify.com/album/7ftczSg5sH9GfOxdGrhDzC) | 3:27 |
 | 36 | [Terrorismo en la Copa del Mundo \- Sesión 20° Aniversario En Vivo](https://open.spotify.com/track/05OoVaem9vngEmCW2rsZcd) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB), [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [El Mató a un Policía Motorizado \(Sesión 20° Aniversario En Vivo\)](https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2) | 4:14 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3cLbJU.md) - [plain]
 | 42 | [El Último Sereno](https://open.spotify.com/track/4zKSmgRp3lKV8jVmWJNNUH) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Día de los Muertos](https://open.spotify.com/album/5xPRYNMTOZ4f65iYm4MNHM) | 4:25 |
 | 43 | [Rey del Terror \- Versión 2021](https://open.spotify.com/track/0qlDZcp4EnX3sLqrkzbDnM) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 5:42 |
 
-Snapshot ID: `aEd1gAAAAADqzp1Ed3DG+YsQ04LYgZYE`
+Snapshot ID: `aEjHAAAAAADxBmFpOQXasBqw+B/dLmpI`

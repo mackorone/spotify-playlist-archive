@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-507 songs - 1 day 5 hr 44 min
+509 songs - 1 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Hunger in Your Haunt](https://open.spotify.com/track/6fO5kCic9UU6AFPet7jFBn) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Hunger In Your Haunt](https://open.spotify.com/album/6KbmzvqXq3IxqjhJOFEKPh) | 3:49 | 2021-09-24 | 2025-05-28 |
 | [A Kiss for the Whole World x](https://open.spotify.com/track/5Yw6IZe2YzStFAo2LZDRTr) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Kiss for the Whole World](https://open.spotify.com/album/5eNmAU8XFNiuqhTe9Nq1LJ) | 3:31 | 2023-04-21 | 2025-06-04 |
 | [A Little Bit of Love](https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [A Little Bit of Love](https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge) | 2:44 | 2022-03-18 | 2025-06-04 |
+| [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:07 | 2025-06-12 |  |
 | [Acid Eyes](https://open.spotify.com/track/4YUcYIRBcVqQ93MnNhtU5F) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Acid Eyes / Petrified In Love](https://open.spotify.com/album/6BuzpB9fGMfmOeQVYcq1lF) | 4:33 | 2022-06-23 | 2025-06-04 |
 | [All My Favorite Songs](https://open.spotify.com/track/6zVhXpiYbJhLJWmLGV9k1r) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [OK Human](https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl) | 3:22 | 2021-02-25 | 2022-03-18 |
 | [All My Friends](https://open.spotify.com/track/4dubRkWBWpYKviADvMYgv1) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [All My Friends](https://open.spotify.com/album/423eX0ukaU4IirW8RTQB2V) | 4:42 | 2020-10-10\* | 2021-05-13 |
@@ -430,6 +431,7 @@
 | [The American Dream Is Killing Me](https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [The American Dream Is Killing Me](https://open.spotify.com/album/12VEQ6qRfhz9epkYVPE2nC) | 3:06 | 2023-10-27 | 2025-06-04 |
 | [The Big Come Down](https://open.spotify.com/track/3cl42VFcRop14wAduvSeaH) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Fragile](https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8) | 4:12 | 2020-10-10\* | 2021-02-25 |
 | [The Burden of Belief](https://open.spotify.com/track/4lyWDEzPsyJtmQmLRkCUC1) | [Times Of Grace](https://open.spotify.com/artist/0CfztphU9FWmAhGocFrrYC) | [The Burden of Belief](https://open.spotify.com/album/6Nt3lAffezruA8VjFQsymZ) | 5:39 | 2021-05-22 | 2022-03-18 |
+| [The Contract](https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Contract](https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J) | 3:48 | 2025-06-12 |  |
 | [The Drummer](https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Return of the Dream Canteen](https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1) | 3:22 | 2022-10-14 | 2025-06-04 |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-06 | 2025-06-04 |
 | [The Garden of Eden](https://open.spotify.com/track/2iDnZkKM40F9u9b44Y6Zc7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Spring](https://open.spotify.com/album/5dpaxVXET01VAgivwwUac6) | 3:15 | 2022-03-25 | 2025-06-04 |

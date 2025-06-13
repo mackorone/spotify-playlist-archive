@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: Lexxx Torres ",
-  "num_followers": 79750,
+  "num_followers": 79755,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,30 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
+        "name": "Mi Fanatica",
+        "url": "https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "duration_ms": 223283,
+      "name": "Mi Fanatica",
+      "url": "https://open.spotify.com/track/4M3UPGNere257tK0Qguga2"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
         "name": "Un Viaje",
         "url": "https://open.spotify.com/album/2Hi8ff429tSHmxPK3CzV36"
       },
@@ -599,30 +623,6 @@
       "duration_ms": 285746,
       "name": "Un Viaje",
       "url": "https://open.spotify.com/track/3huLeBRjZPOzkePH7ph91y"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
-        "name": "Mi Fanatica",
-        "url": "https://open.spotify.com/album/5w21QO36y3jDzjy0QkhduY"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Bayriton",
-          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
-        },
-        {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
-        }
-      ],
-      "duration_ms": 223283,
-      "name": "Mi Fanatica",
-      "url": "https://open.spotify.com/track/4M3UPGNere257tK0Qguga2"
     },
     {
       "added_at": "2025-02-07 06:00:17",

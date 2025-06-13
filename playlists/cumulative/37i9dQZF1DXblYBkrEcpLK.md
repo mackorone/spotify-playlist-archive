@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: ASCA
 
-755 songs - 2 day 2 hr 2 min
+756 songs - 2 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Startear](https://open.spotify.com/track/38V08pHESW17gjuCPLyDrj) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [Candy Lips](https://open.spotify.com/album/15urkuwuHAyODCoizByCf2) | 5:02 | 2022-07-07 | 2022-07-10 |
 | [STAR☆T☆RAIN \- New Arrange Ver.](https://open.spotify.com/track/5eP8pfVfJoVCR1b9mo1Fck) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [TVアニメ「【推しの子】」キャラクターソングCD \(Vol.2\)](https://open.spotify.com/album/7k2DaKVQBwobd0rhDZhlpR) | 3:52 | 2023-07-04 | 2023-07-06 |
 | [STAR☆T☆RAIN \- NEW ARRANGE VER.](https://open.spotify.com/track/6bV75xSoY9WPjjvd88cQnQ) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [TV SERIES ”【OSHI NO KO】 ” \(Vol.2\)](https://open.spotify.com/album/4MLXH5rVUsSl0nbmuljoVv) | 3:52 | 2023-07-04 | 2024-01-24 |
+| [Stay Gold \- from BEYBLADE X](https://open.spotify.com/track/65hfbURMDstZkt5FDt0Tbd) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Stay Gold \(from BEYBLADE X\)](https://open.spotify.com/album/5qyh3mcLstnqZhlmlY7njI) | 3:26 | 2025-06-12 |  |
 | [STONE OCEAN](https://open.spotify.com/track/0H6YIWFAP26G4b5Zj0lhAE) | [ichigo from 岸田教団&THE明星ロケッツ](https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm) | [STONE OCEAN](https://open.spotify.com/album/1EUSG4zCNKJqDH8t7OKw4x) | 3:29 | 2022-07-28 | 2023-10-04 |
 | [StrangeX](https://open.spotify.com/track/1qwPJiw1QCZHdDtkUxXtm3) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [StrangeX](https://open.spotify.com/album/5Ra9EsYjAtlh7TfzLrhO7L) | 3:32 | 2023-06-29 | 2023-07-05 |
 | [Strobe Memory](https://open.spotify.com/track/67w7LRacfJu0OcQsZb7HK5) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Hikari](https://open.spotify.com/album/7B4RA5lKKIbw5sTj9Sce3B) | 4:44 | 2022-06-12 | 2022-07-24 |
@@ -457,7 +458,7 @@
 | [ゆずれない](https://open.spotify.com/track/64qoBPI0CpORq70mlVrXWr) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [ゆずれない](https://open.spotify.com/album/5O8k3vgpZj8lABvvMKQJRd) | 3:58 | 2022-06-12 | 2022-07-22 |
 | [らぶじゅてーむ](https://open.spotify.com/track/2NSp2dpqGXBJYTuYccld5G) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [らぶじゅてーむ](https://open.spotify.com/album/2TsUpJ4YDzsX9hBLllwMCa) | 3:15 | 2024-02-13 | 2025-01-09 |
 | [アイカナデテ](https://open.spotify.com/track/2q4zHd9yWO8vC4bhmvz3zD) | [Emiri Kato](https://open.spotify.com/artist/65hDc9PNOizEJym4qYBqHH) | [vivid](https://open.spotify.com/album/26JskhfRwejJkH7w7vByLj) | 4:06 | 2022-06-21 | 2022-06-23 |
-| [アイコトバ](https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [アイコトバ](https://open.spotify.com/album/6HlF6mu7x9hT21LdjIhgG4) | 4:44 | 2023-11-07 |  |
+| [アイコトバ](https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [アイコトバ](https://open.spotify.com/album/6HlF6mu7x9hT21LdjIhgG4) | 4:44 | 2023-11-07 | 2025-06-13 |
 | [アイデンティティ](https://open.spotify.com/track/71QTJO9rk8eoYJr0hAXCEw) | [Mada Mitakoto no Nai Sekai](https://open.spotify.com/artist/0p1pmY1X6Waf3rd4K5vY5y) | [アイデンティティ](https://open.spotify.com/album/13J9iXtAdVT6a9lFBwqLYb) | 2:34 | 2023-10-17 | 2023-11-02 |
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-04-11 |  |
 | [アイビーダンス](https://open.spotify.com/track/0p4Pbn4ktbFCAbIWyJL3XO) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [アイビーダンス](https://open.spotify.com/album/5j3Ow8uwPk8wHVpdmndKXi) | 3:25 | 2022-06-09 | 2022-07-24 |

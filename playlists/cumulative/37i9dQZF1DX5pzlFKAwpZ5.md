@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. Kenichiro Isoda on cover.
 
-316 songs - 23 hr 30 min
+318 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,9 @@
 | [At Day's End](https://open.spotify.com/track/3Jt5IZqpG4VeV2LpFRhj5O) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [At Day's End/Small Hours](https://open.spotify.com/album/1lfOwDCvWL6rorNWNbtfoY) | 2:09 | 2022-10-10 | 2023-08-19 |
 | [Atrium](https://open.spotify.com/track/7CV8NzeND4AZIdKRRVAYW4) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Une Collection Des Chainons II](https://open.spotify.com/album/2ssf5BQOB4BjSlSM1OfRzk) | 8:25 | 2022-12-30 | 2024-08-09 |
 | [Bananatron](https://open.spotify.com/track/03CbUuPxmE1hvo5fuCs86N) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [Commissions: 1977\-2000](https://open.spotify.com/album/7cJG9ELM7LsyAD5kQOmoMq) | 7:40 | 2022-12-30 | 2023-08-19 |
+| [barely](https://open.spotify.com/track/45HvQappqMA3ekJzhBxhfP) | [Keigo Tatsumi](https://open.spotify.com/artist/0CdfyGSPzkbOuhlsltYr8M) | [AT US](https://open.spotify.com/album/0Gvs95sa3jXOZA7w7YcZbk) | 4:00 | 2025-06-12 |  |
 | [Bayou](https://open.spotify.com/track/4pmkk5jUvi46uAgnuA7D9c) | [Kaiteki](https://open.spotify.com/artist/4nUBYLhgaW3B3EuWJgfhma) | [Canadian Love Letters](https://open.spotify.com/album/5MqeWE0BF5TkOjr4YHRRcr) | 4:35 | 2022-03-25 |  |
+| [Beauty in Imperfection](https://open.spotify.com/track/1C4xtnNBK4Lau7iEkdYNVw) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Beauty in Imperfection](https://open.spotify.com/album/5WPvDzaQpEDkJNZ4zP0mRd) | 4:56 | 2025-06-12 |  |
 | [Billowing](https://open.spotify.com/track/46WN9q8fQXjq9yftbCxxTk) | [Hiro Ama](https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ), [Keeley Forsyth](https://open.spotify.com/artist/3b0YRaadaoMwK4STNVeHGF) | [Music for Peace and Harmony](https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW) | 4:35 | 2025-03-06 |  |
 | [Bin](https://open.spotify.com/track/3glw2vbGfpq3aDJ575ZT6n) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Bin](https://open.spotify.com/album/2b2Ld9mFZHvl4iyEpJlXkP) | 2:24 | 2025-05-02 |  |
 | [Bird Ambience](https://open.spotify.com/track/5Ni3isgTBDXTr0lUXmoER1) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Bird Ambience](https://open.spotify.com/album/7ac3h9hdZZlxUa0uCxMTAS) | 7:28 | 2022-01-07 | 2025-02-11 |
@@ -49,7 +51,7 @@
 | [Breeze from Mt\. Rokko](https://open.spotify.com/track/20lMLALJMUe3dwwtjqVq30) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [Minamo](https://open.spotify.com/album/5PxpE5M4KNm4pl1EKbsCjc) | 5:34 | 2023-10-13 | 2024-04-19 |
 | [Breeze from Mt\. Rokko](https://open.spotify.com/track/6j6ARhxCVB9r0cSbfccTon) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [Minamo](https://open.spotify.com/album/0lOOVHHIPOxHfOPdD9dRKJ) | 5:34 | 2023-07-06 | 2025-01-25 |
 | [Brilliant 2.0](https://open.spotify.com/track/59HdINjnHVrnyUPoPzfgzP) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Brilliant 2.0](https://open.spotify.com/album/2d0UpDlqEib3e93cQF4l7R) | 2:40 | 2023-04-21 |  |
-| [Brook](https://open.spotify.com/track/3QiwoxBNSq5Cpn0pgCCq2H) | [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj), [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [잔물결 \(janmulgyeol\)](https://open.spotify.com/album/1jIKfpjeGejpLvmkQFId1i) | 3:14 | 2022-10-15 |  |
+| [Brook](https://open.spotify.com/track/3QiwoxBNSq5Cpn0pgCCq2H) | [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj), [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [잔물결 \(janmulgyeol\)](https://open.spotify.com/album/1jIKfpjeGejpLvmkQFId1i) | 3:14 | 2022-10-15 | 2025-06-13 |
 | [Byakudan Rework](https://open.spotify.com/track/5f3MAWb9wPn5doAeeMhedd) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Byakudan Rework](https://open.spotify.com/album/7gKKb1hDCBX16LzNGjwt83) | 2:54 | 2022-01-07 | 2023-04-22 |
 | [CAHAYA](https://open.spotify.com/track/2YBJlOWBi9Ktw4t6BNyroK) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [CAHAYA](https://open.spotify.com/album/3Klm6zTWoWWAxpG1HfKImk) | 2:50 | 2024-07-26 | 2024-09-06 |
 | [calling \(slowed + reverb\)](https://open.spotify.com/track/2B8HW5IGRVSDz1kUuANbSJ) | [widx.](https://open.spotify.com/artist/0coIXI6j3BgwYiTxbhu5Un) | [calling \(slowed + reverb\)](https://open.spotify.com/album/4vFKA0J6HRON1Bl3SMKppg) | 2:29 | 2023-09-22 |  |
@@ -74,7 +76,7 @@
 | [Deep Slope](https://open.spotify.com/track/3vnxDCohhQne2ae9RYbTZ6) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO) | [Deep Slope](https://open.spotify.com/album/6Odd0pQof21z3lkmu1ncZz) | 6:43 | 2022-08-19 | 2025-01-25 |
 | [Deep Slope](https://open.spotify.com/track/7eMuRAkos8JufYmNwjxshE) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO) | [Deep Slope](https://open.spotify.com/album/5iAC5AAza3lS6gUIpCuz6N) | 6:43 | 2023-01-06 | 2024-04-19 |
 | [Ear Dreamin'](https://open.spotify.com/track/2b7h7hMkxj5hDorhGfTGoU) | [Yoshiaki Ochi](https://open.spotify.com/artist/13mbePwXckXt3I7My0oypo) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 4:45 | 2022-12-30 | 2025-03-07 |
-| [Early Morning](https://open.spotify.com/track/4QMTjiyxQZyHkJkd5kOVjo) | [Yuki Ishii](https://open.spotify.com/artist/7uNHU1YLG5NsxBgwkx60SR) | [REFLECTION](https://open.spotify.com/album/2X2kWxa1i0mMX07XFgmgW2) | 1:32 | 2022-01-07 |  |
+| [Early Morning](https://open.spotify.com/track/4QMTjiyxQZyHkJkd5kOVjo) | [Yuki Ishii](https://open.spotify.com/artist/7uNHU1YLG5NsxBgwkx60SR) | [REFLECTION](https://open.spotify.com/album/2X2kWxa1i0mMX07XFgmgW2) | 1:32 | 2022-01-07 | 2025-06-13 |
 | [ease](https://open.spotify.com/track/06pU69J6u4taE4LK9ku2vb) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0) | [ease](https://open.spotify.com/album/2SIYEfjIPKkJ2NnfJg8ARL) | 2:50 | 2024-03-07 |  |
 | [EAST](https://open.spotify.com/track/6Ygtiz9F4HhhJaO7EHwiMj) | [Nami Sato](https://open.spotify.com/artist/6e9uRUfWhvz2P3fI8EZGOb) | [World Sketch Monologue](https://open.spotify.com/album/70FS8K29lXeAiX6ovQaHwo) | 6:14 | 2022-01-07 | 2022-10-01 |
 | [Ecliptic Drift](https://open.spotify.com/track/0Etrh1T0HeWk2C7vXODxm8) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Mono Spectrum](https://open.spotify.com/album/0MArGYb9frtOAfhjhk64WL) | 2:26 | 2023-10-02 | 2025-05-03 |

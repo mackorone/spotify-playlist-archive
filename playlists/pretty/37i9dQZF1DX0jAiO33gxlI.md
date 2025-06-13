@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Jotapê
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,411 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,421 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 16 | [FIM](https://open.spotify.com/track/3V5Ncz7wV7ZJxTYgYdIn34) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG) | [FIM](https://open.spotify.com/album/2enQUF1RBxtNBgfi2cthyV) | 3:08 |
 | 17 | [Assaltos e Batidas](https://open.spotify.com/track/5rmZvDdnuxDUq2OPoDN2sA) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [DJ Cost](https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL) | [ASSALTOS E BATIDAS](https://open.spotify.com/album/5ZCEu4tVlxt0PR0J4NJ0Ex) | 2:20 |
 | 18 | [O Despertar](https://open.spotify.com/track/33wlhom1u9DpjP28vbjj1u) | [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Flor de Maio](https://open.spotify.com/album/18jhTVeRNyNOTkM1YeOYZt) | 2:34 |
-| 19 | [KIA](https://open.spotify.com/track/49mACJ1TtKpe5QKG80TwXx) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:19 |
+| 19 | [KIA](https://open.spotify.com/track/49mACJ1TtKpe5QKG80TwXx) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:19 |
 | 20 | [A Cosmologia Corporativista do Senhor Arthur Jansen](https://open.spotify.com/track/1U2Qs78upU9VjYRjJBmmM0) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [ASSALTOS E BATIDAS](https://open.spotify.com/album/5ZCEu4tVlxt0PR0J4NJ0Ex) | 4:50 |
 | 21 | [Papel de Parede](https://open.spotify.com/track/5cxRsPiltsPPuD1TWeKvIM) | [Pedro Qualy](https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH) | [Papel de Parede](https://open.spotify.com/album/6QIOkiXTwXxuTmwwE8ryBB) | 3:09 |
 | 22 | [Monstro](https://open.spotify.com/track/3vWpbyVS74IcOPH54L24b0) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89) | [Dinheiro](https://open.spotify.com/album/0d6h65qdwZYVDlhaBvYzBV) | 3:38 |

@@ -4,7 +4,7 @@
 
 > brutal breakdowns and riffs to amp you up.
 
-345 songs - 23 hr 26 min
+346 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Meet Your Maker](https://open.spotify.com/track/5qZMqZspIglsy4SJxtJt0S) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone](https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3) | 3:57 | 2023-04-10 |  |
 | [Memento Mori](https://open.spotify.com/track/1flcnqrtVKsluQXLEPfGJW) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/7FEBQOq6SXl4CsqR6wTTGy) | 5:48 | 2022-06-21 | 2023-12-14 |
 | [Memento Mori](https://open.spotify.com/track/6V1tb8rFw1nPeOXX4sccTC) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Memento Mori](https://open.spotify.com/album/7jBx6OxyVMHSmAzLHxchIh) | 5:48 | 2022-06-21 | 2022-07-29 |
-| [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL) | 4:18 | 2024-01-29 |  |
+| [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/track/03jUMnAF30sYJ2EsPB2JtG) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Miasma \(feat\. Winston McCall\)](https://open.spotify.com/album/3p1wPGFa4pJji35FDnMkmL) | 4:18 | 2024-01-29 | 2025-06-13 |
 | [Middle Fingers Up](https://open.spotify.com/track/14ZX4MpuG9XW1MaZY5drY0) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP) | [About That Life](https://open.spotify.com/album/3926CVdjmoTObtSVsKG2YY) | 2:37 | 2021-12-17 | 2022-01-07 |
 | [Monochrome](https://open.spotify.com/track/73SsGfqjQv6oUxDaC9w8es) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:57 | 2023-12-13 |  |
 | [Moth Into Flame](https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7) | 5:50 | 2021-12-17 | 2022-07-29 |
@@ -229,6 +229,7 @@
 | [On My Teeth](https://open.spotify.com/track/11kXjnwkLFOCGZJoRmlBHe) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Erase Me](https://open.spotify.com/album/7431Bc80pipMjt6v3qm0UL) | 3:10 | 2021-12-17 | 2022-05-14 |
 | [on the verge](https://open.spotify.com/track/75dS4i4yFu4R4WBrneLXIC) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [on the verge](https://open.spotify.com/album/4jrVOK9sQX5PmGeASmN230) | 2:14 | 2023-12-13 |  |
 | [One Finger and a Fist](https://open.spotify.com/track/6PdEKf8CyyZfrFAGFi37gb) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Resilience \(Deluxe\)](https://open.spotify.com/album/46NkCKf9l9TVHryLpDSkr2) | 3:06 | 2021-12-17 | 2023-09-05 |
+| [One Less Body \(feat\. Brann Dailor\)](https://open.spotify.com/track/1WvG5IDuQlnGaVkK98cwCT) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP), [Brann Dailor](https://open.spotify.com/artist/6VaynR6YaIKy3mS57FAmKK) | [A Door Left Open](https://open.spotify.com/album/7blYE5dWcNhCfnKB8OH0ff) | 2:58 | 2025-06-06 |  |
 | [One Man Army](https://open.spotify.com/track/0abHvyyQu4s82Vzq4z5vLI) | [Ensiferum](https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH) | [One Man Army](https://open.spotify.com/album/5Gifsqd4VLBFcV8E4RoJHl) | 4:25 | 2021-12-17 | 2022-07-27 |
 | [One Of Us](https://open.spotify.com/track/2Os6Vp6QlErl2E5hwfdrUh) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Hard Reset](https://open.spotify.com/album/17cbasTWOvRFtMoHb7aiHm) | 3:43 | 2024-02-09 | 2024-04-19 |
 | [One Of Us](https://open.spotify.com/track/33jSdWZrZmhQt2MYQBJgm9) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Hard Reset](https://open.spotify.com/album/5H49CClHBLpUgyKN8ZCour) | 3:43 | 2023-12-13 | 2025-01-18 |

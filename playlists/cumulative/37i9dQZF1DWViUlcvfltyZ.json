@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Scumma Do Mar in cover ",
+  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 MILLE in cover ",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -1548,7 +1548,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 194052,
       "name": "anomalocaris",
       "url": "https://open.spotify.com/track/4BG99Q9sJ9YuUmuIS93X9q"
@@ -1638,7 +1638,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 145294,
       "name": "Apnea",
       "url": "https://open.spotify.com/track/1lzsq3wQcUr9qVwmASv6JY"
@@ -2110,7 +2110,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 147583,
       "name": "BAD DECISIONS",
       "url": "https://open.spotify.com/track/1MbjRmRLPYmjiXB5GbtIBl"
@@ -3296,7 +3296,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 152790,
       "name": "Bulma",
       "url": "https://open.spotify.com/track/3Zo1U4KNLUIIP3OlgZApPc"
@@ -4446,7 +4446,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 151578,
       "name": "Che mi \u00e8 preso?",
       "url": "https://open.spotify.com/track/1GD098KBNN1uQhQasNYicL"
@@ -5511,6 +5511,24 @@
     },
     {
       "album": {
+        "name": "WHY",
+        "url": "https://open.spotify.com/album/4Kzwyz2NPwpzwPsJBpvSdo"
+      },
+      "artists": [
+        {
+          "name": "Previtz",
+          "url": "https://open.spotify.com/artist/0Vl1G9xLXfBlwlQi06KHjh"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176594,
+      "name": "COSA MI DICI",
+      "url": "https://open.spotify.com/track/0en9EBO5RbbVZBvDSTorEp"
+    },
+    {
+      "album": {
         "name": "COSA VA IN ME?",
         "url": "https://open.spotify.com/album/15qyqPXK3K5Z1KJvVoGVV1"
       },
@@ -6100,7 +6118,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 215133,
       "name": "Dead Tired",
       "url": "https://open.spotify.com/track/2dz2XCdd1DVIJAV2KRgDB7"
@@ -8008,7 +8026,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 215553,
       "name": "f.c.f.t.",
       "url": "https://open.spotify.com/track/10PLh20efmu3leGcpdOFhG"
@@ -8614,7 +8632,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 201266,
       "name": "Filosofia di Moana",
       "url": "https://open.spotify.com/track/0faZu5l7sz1z8URnLNzJmI"
@@ -9401,6 +9419,28 @@
     },
     {
       "album": {
+        "name": "Funeral Party",
+        "url": "https://open.spotify.com/album/4Zi2HTRXKR0i8P59KNzYZy"
+      },
+      "artists": [
+        {
+          "name": "WEL",
+          "url": "https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v"
+        },
+        {
+          "name": "Why Everyone Left",
+          "url": "https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148771,
+      "name": "Funeral Party",
+      "url": "https://open.spotify.com/track/4tKNVGIBsrdREhP1hMD8gm"
+    },
+    {
+      "album": {
         "name": "Funeral Rave Party (Radio Edit)",
         "url": "https://open.spotify.com/album/7ai4EzJ3U5dnFWGrG3ZRkx"
       },
@@ -9802,7 +9842,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 141323,
       "name": "GET ROWDY",
       "url": "https://open.spotify.com/track/0wgmtqKdAKnOAFtR4b1mGB"
@@ -11628,7 +11668,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 221449,
       "name": "Il tuo verde preferito",
       "url": "https://open.spotify.com/track/5shFVhkEqYuM3eMACr0sfy"
@@ -11826,7 +11866,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 170575,
       "name": "INCONSOLABILE",
       "url": "https://open.spotify.com/track/0zNGVlfR3s3KfpKjJKt9ex"
@@ -11960,6 +12000,24 @@
       "duration_ms": 173259,
       "name": "Intanto",
       "url": "https://open.spotify.com/track/15TePy6cQan8RcDpg3abxX"
+    },
+    {
+      "album": {
+        "name": "internet",
+        "url": "https://open.spotify.com/album/0BGLdFyz2VQn1AnkaBRj3m"
+      },
+      "artists": [
+        {
+          "name": "Nostalgia/Futuro",
+          "url": "https://open.spotify.com/artist/2EZCeDSNYLij8SVtTsji3n"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211812,
+      "name": "internet",
+      "url": "https://open.spotify.com/track/47P4QKts8mrxY6OlVUjCu6"
     },
     {
       "album": {
@@ -13193,6 +13251,24 @@
     },
     {
       "album": {
+        "name": "La lingua",
+        "url": "https://open.spotify.com/album/2n8ji6vJ1Lty6wFNpRjNLp"
+      },
+      "artists": [
+        {
+          "name": "Generic Animal",
+          "url": "https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216199,
+      "name": "La lingua",
+      "url": "https://open.spotify.com/track/0oW0RBQBrbieVNtdiofpf5"
+    },
+    {
+      "album": {
         "name": "Animali (in prima e terza persona)",
         "url": "https://open.spotify.com/album/6gvO4PplDL6bQ5v33CvoAE"
       },
@@ -13868,6 +13944,24 @@
       "duration_ms": 129826,
       "name": "leave my bum alone",
       "url": "https://open.spotify.com/track/32CFLndmYhb1E4P6tW9kd7"
+    },
+    {
+      "album": {
+        "name": "Modern World Survivors II",
+        "url": "https://open.spotify.com/album/59mkM7v3n1Sj8k3jrF7ByG"
+      },
+      "artists": [
+        {
+          "name": "PEAKS!",
+          "url": "https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165017,
+      "name": "Leecher",
+      "url": "https://open.spotify.com/track/6RI4sFYYHNfQ5wmkjLKfZe"
     },
     {
       "album": {
@@ -14834,7 +14928,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 182728,
       "name": "Madre",
       "url": "https://open.spotify.com/track/30ovfrjnCz0KYkZZjMGOwA"
@@ -16853,6 +16947,28 @@
     },
     {
       "album": {
+        "name": "NIENTE DI PI\u00d9",
+        "url": "https://open.spotify.com/album/4nWJHfPHC1GWOYOnzBBvyv"
+      },
+      "artists": [
+        {
+          "name": "Captain Quentin",
+          "url": "https://open.spotify.com/artist/7IMh6BewwMs6j7dYkkTjFm"
+        },
+        {
+          "name": "Brunori Sas",
+          "url": "https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236520,
+      "name": "NIENTE DI PI\u00d9",
+      "url": "https://open.spotify.com/track/7hk1QBJkEKTf6AqQPEc6Rl"
+    },
+    {
+      "album": {
         "name": "Niente Panico",
         "url": "https://open.spotify.com/album/14pTWNiZDSkCmLI68q3pXx"
       },
@@ -17978,7 +18094,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 243000,
       "name": "Oh Feel You",
       "url": "https://open.spotify.com/track/5vYQisDox6lmvSXzHEoIZE"
@@ -24053,6 +24169,24 @@
     },
     {
       "album": {
+        "name": "Supermacchina",
+        "url": "https://open.spotify.com/album/7I79MmdJveGZLGMykU97t1"
+      },
+      "artists": [
+        {
+          "name": "GIOVED\u00cc",
+          "url": "https://open.spotify.com/artist/7ntiuDl6S9MhcbvF1Q0YU5"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143097,
+      "name": "Supermacchina",
+      "url": "https://open.spotify.com/track/7LQLKIFdVFkThQDOO8nufo"
+    },
+    {
+      "album": {
         "name": "SUPERMERCATI (su Marte)",
         "url": "https://open.spotify.com/album/47ugwI6mmMU2WaxDmPoPS2"
       },
@@ -26290,6 +26424,28 @@
       "duration_ms": 208101,
       "name": "Una festa",
       "url": "https://open.spotify.com/track/25aCtC19xMjjLdejTxJ0z3"
+    },
+    {
+      "album": {
+        "name": "Radici",
+        "url": "https://open.spotify.com/album/5qAGbmMM6CQGNDWGB1IAkr"
+      },
+      "artists": [
+        {
+          "name": "Katana Koala Kiwi",
+          "url": "https://open.spotify.com/artist/75lvQnFxY6S4TLI9ljEbm2"
+        },
+        {
+          "name": "Macadamia",
+          "url": "https://open.spotify.com/artist/4ctoRm4PSfS4v7YdoHgIen"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252096,
+      "name": "Una festa che spesso mi perdo / Radici (Macadamia Remix)",
+      "url": "https://open.spotify.com/track/0G3Urz7y8izQQkYj8tJRlL"
     },
     {
       "album": {

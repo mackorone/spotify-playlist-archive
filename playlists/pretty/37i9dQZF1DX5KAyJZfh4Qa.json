@@ -1,6 +1,6 @@
 {
   "description": "it's just one of those days w/ Michael Cera Palin",
-  "num_followers": 69111,
+  "num_followers": 69191,
   "original_name": "emo right now",
   "owner": {
     "name": "Spotify",
@@ -75,18 +75,18 @@
     {
       "added_at": "2025-03-28 16:04:45",
       "album": {
-        "name": "Afraid To Die",
-        "url": "https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ"
+        "name": "Starchild",
+        "url": "https://open.spotify.com/album/3XLHijG8ZJaE8wyD9cIcCb"
       },
       "artists": [
         {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
         }
       ],
-      "duration_ms": 182216,
-      "name": "Afraid To Die",
-      "url": "https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi"
+      "duration_ms": 229555,
+      "name": "Starchild",
+      "url": "https://open.spotify.com/track/4mU5lCYnFfvBngGywNqQgo"
     },
     {
       "added_at": "2025-03-28 16:04:45",
@@ -231,22 +231,6 @@
     {
       "added_at": "2025-03-28 16:04:45",
       "album": {
-        "name": "Starchild",
-        "url": "https://open.spotify.com/album/3XLHijG8ZJaE8wyD9cIcCb"
-      },
-      "artists": [
-        {
-          "name": "Sweet Pill",
-          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
-        }
-      ],
-      "duration_ms": 229555,
-      "name": "Starchild",
-      "url": "https://open.spotify.com/track/4mU5lCYnFfvBngGywNqQgo"
-    },
-    {
-      "added_at": "2025-03-28 16:04:45",
-      "album": {
         "name": "You Ominously End",
         "url": "https://open.spotify.com/album/1IyGQCrMLsshcFmjPxtLg7"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 213933,
       "name": "You Ominously End",
       "url": "https://open.spotify.com/track/6aFhWmqi9SlGa2Qflui6DN"
+    },
+    {
+      "added_at": "2025-03-28 16:04:45",
+      "album": {
+        "name": "Afraid To Die",
+        "url": "https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 182216,
+      "name": "Afraid To Die",
+      "url": "https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi"
     },
     {
       "added_at": "2025-03-28 16:04:45",
@@ -295,26 +295,18 @@
     {
       "added_at": "2025-03-28 16:04:45",
       "album": {
-        "name": "I Don't Like Who I Was Then (feat. Ryland Heagy of Origami Angel)",
-        "url": "https://open.spotify.com/album/7HU1L8d9pNdEC95LjjJUDP"
+        "name": "World Apart",
+        "url": "https://open.spotify.com/album/4m29SVaQToxqTXt8r2qNUd"
       },
       "artists": [
         {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        },
-        {
-          "name": "Origami Angel",
-          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
-        },
-        {
-          "name": "Little Kruta",
-          "url": "https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe"
+          "name": "Bike Routes",
+          "url": "https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA"
         }
       ],
-      "duration_ms": 233040,
-      "name": "I Don't Like Who I Was Then (feat. Ryland Heagy of Origami Angel)",
-      "url": "https://open.spotify.com/track/0tsDCPVmJHLFvai2blxIwv"
+      "duration_ms": 180840,
+      "name": "World Apart",
+      "url": "https://open.spotify.com/track/6tAIL5bzj3hE7eWlRE2Ru6"
     },
     {
       "added_at": "2025-03-28 16:04:45",
@@ -351,18 +343,26 @@
     {
       "added_at": "2025-03-28 16:04:45",
       "album": {
-        "name": "World Apart",
-        "url": "https://open.spotify.com/album/4m29SVaQToxqTXt8r2qNUd"
+        "name": "I Don't Like Who I Was Then (feat. Ryland Heagy of Origami Angel)",
+        "url": "https://open.spotify.com/album/7HU1L8d9pNdEC95LjjJUDP"
       },
       "artists": [
         {
-          "name": "Bike Routes",
-          "url": "https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA"
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        },
+        {
+          "name": "Origami Angel",
+          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
+        },
+        {
+          "name": "Little Kruta",
+          "url": "https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe"
         }
       ],
-      "duration_ms": 180840,
-      "name": "World Apart",
-      "url": "https://open.spotify.com/track/6tAIL5bzj3hE7eWlRE2Ru6"
+      "duration_ms": 233040,
+      "name": "I Don't Like Who I Was Then (feat. Ryland Heagy of Origami Angel)",
+      "url": "https://open.spotify.com/track/0tsDCPVmJHLFvai2blxIwv"
     },
     {
       "added_at": "2025-03-28 16:04:45",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-03-28 16:04:45",
       "album": {
-        "name": "I really am feeling better",
-        "url": "https://open.spotify.com/album/1C6nIy0zYyRMnEOMBRmh7C"
-      },
-      "artists": [
-        {
-          "name": "TRSH",
-          "url": "https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9"
-        }
-      ],
-      "duration_ms": 124416,
-      "name": "I really am feeling better",
-      "url": "https://open.spotify.com/track/2EmYu5EQnSpb2I0nW6hIlw"
-    },
-    {
-      "added_at": "2025-03-28 16:04:45",
-      "album": {
         "name": "Cheap Grills",
         "url": "https://open.spotify.com/album/3OicTD14V4nO5N1lLvcKRz"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 192013,
       "name": "Fireplace",
       "url": "https://open.spotify.com/track/1mSJOi7nlvNPAKrveLxWPv"
+    },
+    {
+      "added_at": "2025-03-28 16:04:45",
+      "album": {
+        "name": "I really am feeling better",
+        "url": "https://open.spotify.com/album/1C6nIy0zYyRMnEOMBRmh7C"
+      },
+      "artists": [
+        {
+          "name": "TRSH",
+          "url": "https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9"
+        }
+      ],
+      "duration_ms": 124416,
+      "name": "I really am feeling better",
+      "url": "https://open.spotify.com/track/2EmYu5EQnSpb2I0nW6hIlw"
     },
     {
       "added_at": "2025-03-28 16:04:45",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2025-03-28 16:04:45",
       "album": {
-        "name": "If You're Lonely",
-        "url": "https://open.spotify.com/album/4SkQufb5RDhqYDAglH45fz"
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ"
       },
       "artists": [
         {
-          "name": "Citizen",
-          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
+          "name": "Mirrortalk",
+          "url": "https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D"
         }
       ],
-      "duration_ms": 244875,
-      "name": "If You're Lonely",
-      "url": "https://open.spotify.com/track/6920SXezNpgmwSifVJkOXM"
+      "duration_ms": 187482,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD"
     },
     {
       "added_at": "2025-03-28 16:04:45",
@@ -1055,22 +1055,6 @@
       "duration_ms": 191997,
       "name": "C.A.S.E.Y",
       "url": "https://open.spotify.com/track/4ntOjUIBQDpFURoAv7FSPR"
-    },
-    {
-      "added_at": "2025-03-28 16:04:45",
-      "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ"
-      },
-      "artists": [
-        {
-          "name": "Mirrortalk",
-          "url": "https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D"
-        }
-      ],
-      "duration_ms": 187482,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD"
     },
     {
       "added_at": "2025-03-28 16:04:45",
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2025-03-28 16:04:45",
       "album": {
+        "name": "If You're Lonely",
+        "url": "https://open.spotify.com/album/4SkQufb5RDhqYDAglH45fz"
+      },
+      "artists": [
+        {
+          "name": "Citizen",
+          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
+        }
+      ],
+      "duration_ms": 244875,
+      "name": "If You're Lonely",
+      "url": "https://open.spotify.com/track/6920SXezNpgmwSifVJkOXM"
+    },
+    {
+      "added_at": "2025-03-28 16:04:45",
+      "album": {
         "name": "Drought",
         "url": "https://open.spotify.com/album/3OeQC3qI4aHJSb9acJvniZ"
       },
@@ -1135,22 +1135,6 @@
       "duration_ms": 145602,
       "name": "Pyramid",
       "url": "https://open.spotify.com/track/3EeM9ImuhVIkPMfKofSENY"
-    },
-    {
-      "added_at": "2025-03-28 16:04:45",
-      "album": {
-        "name": "Anthem",
-        "url": "https://open.spotify.com/album/3I9WiU9Hjgnkq8LUCxlt8q"
-      },
-      "artists": [
-        {
-          "name": "Koyo",
-          "url": "https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9"
-        }
-      ],
-      "duration_ms": 102258,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/7BRMqN8HBnF73RPDpFwHzI"
     },
     {
       "added_at": "2025-03-28 16:04:45",
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2025-03-28 16:04:45",
       "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/3I9WiU9Hjgnkq8LUCxlt8q"
+      },
+      "artists": [
+        {
+          "name": "Koyo",
+          "url": "https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9"
+        }
+      ],
+      "duration_ms": 102258,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/7BRMqN8HBnF73RPDpFwHzI"
+    },
+    {
+      "added_at": "2025-03-28 16:04:45",
+      "album": {
         "name": "I'm Here And This Is Real",
         "url": "https://open.spotify.com/album/3qU6M8uIKGKrmiWooVy4Pk"
       },
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-03-28 16:04:45",
       "album": {
-        "name": "Counting Sheep",
-        "url": "https://open.spotify.com/album/6SsMMHu3EjoHGLseSwMLyC"
-      },
-      "artists": [
-        {
-          "name": "Anxious",
-          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
-        }
-      ],
-      "duration_ms": 246231,
-      "name": "Counting Sheep",
-      "url": "https://open.spotify.com/track/60uyVKK6KRhYK6ceJEbdjN"
-    },
-    {
-      "added_at": "2025-03-28 16:04:45",
-      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/3ZvWNjZk7kFwvM4EF5fiGf"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 168353,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/2pNlprM4EeUDywzOcbIE2q"
+    },
+    {
+      "added_at": "2025-03-28 16:04:45",
+      "album": {
+        "name": "Counting Sheep",
+        "url": "https://open.spotify.com/album/6SsMMHu3EjoHGLseSwMLyC"
+      },
+      "artists": [
+        {
+          "name": "Anxious",
+          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+        }
+      ],
+      "duration_ms": 246231,
+      "name": "Counting Sheep",
+      "url": "https://open.spotify.com/track/60uyVKK6KRhYK6ceJEbdjN"
     },
     {
       "added_at": "2025-03-28 16:04:45",

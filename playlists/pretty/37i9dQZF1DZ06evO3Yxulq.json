@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEd1gAAAAAAO9Clnc6A4bCazQTzN8zHQ",
+  "snapshot_id": "aEjHAAAAAAAXuHkR4eaqj7BQ6vUzT6eE",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Vuelta al Jardin",
+        "url": "https://open.spotify.com/album/3Wqr5yNRTsQJQg1buZDYmZ"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 299600,
+      "name": "Como Dijiste",
+      "url": "https://open.spotify.com/track/7BY5JRklkQUu4e0tlZDBy7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Operaci\u00f3n Mundial",
         "url": "https://open.spotify.com/album/0dWYBm4QsccUGjlhEtfbkK"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 270186,
       "name": "El Nombre De Jes\u00fas",
       "url": "https://open.spotify.com/track/1T2Q9IzgGK3eyPUWFD4C1U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Vuelta al Jardin",
-        "url": "https://open.spotify.com/album/3Wqr5yNRTsQJQg1buZDYmZ"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 299600,
-      "name": "Como Dijiste",
-      "url": "https://open.spotify.com/track/7BY5JRklkQUu4e0tlZDBy7"
     },
     {
       "added_at": null,
@@ -103,6 +103,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Vuelta al Jardin",
+        "url": "https://open.spotify.com/album/3Wqr5yNRTsQJQg1buZDYmZ"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 300186,
+      "name": "Gloria en Lo Alto",
+      "url": "https://open.spotify.com/track/7x6tBBMlzv6OkHfYTYu3FO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eterno (Live)",
         "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 445906,
       "name": "Que Se Abra el Cielo",
       "url": "https://open.spotify.com/track/795ipT8LPC3Zlbro5Umykx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Vuelta al Jardin",
-        "url": "https://open.spotify.com/album/3Wqr5yNRTsQJQg1buZDYmZ"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 300186,
-      "name": "Gloria en Lo Alto",
-      "url": "https://open.spotify.com/track/7x6tBBMlzv6OkHfYTYu3FO"
     },
     {
       "added_at": null,
@@ -519,22 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
       },
       "artists": [
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Edward Rivera",
-          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
         }
       ],
-      "duration_ms": 339673,
-      "name": "Incontrolable Amor",
-      "url": "https://open.spotify.com/track/6gC1f3S8JdxFHcOTlz1sLC"
+      "duration_ms": 308533,
+      "name": "Magnifico",
+      "url": "https://open.spotify.com/track/28rwizC0dHCb2iHf5NdIOE"
     },
     {
       "added_at": null,
@@ -579,18 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
       },
       "artists": [
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Edward Rivera",
+          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
         }
       ],
-      "duration_ms": 308533,
-      "name": "Magnifico",
-      "url": "https://open.spotify.com/track/28rwizC0dHCb2iHf5NdIOE"
+      "duration_ms": 339673,
+      "name": "Incontrolable Amor",
+      "url": "https://open.spotify.com/track/6gC1f3S8JdxFHcOTlz1sLC"
     },
     {
       "added_at": null,
@@ -815,22 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus People",
-        "url": "https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5"
+        "name": "Ancla",
+        "url": "https://open.spotify.com/album/63ai3W2Gr4izvGLuz8un6A"
       },
       "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        },
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 245621,
-      "name": "Cristo Es Necesario",
-      "url": "https://open.spotify.com/track/3Fms9XnObl83AVbVuxbgYm"
+      "duration_ms": 499411,
+      "name": "Ancla",
+      "url": "https://open.spotify.com/track/0ZGRXbaZcphuVXHTYFNURv"
     },
     {
       "added_at": null,
@@ -851,18 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ancla",
-        "url": "https://open.spotify.com/album/63ai3W2Gr4izvGLuz8un6A"
+        "name": "Jesus People",
+        "url": "https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5"
       },
       "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        },
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 499411,
-      "name": "Ancla",
-      "url": "https://open.spotify.com/track/0ZGRXbaZcphuVXHTYFNURv"
+      "duration_ms": 245621,
+      "name": "Cristo Es Necesario",
+      "url": "https://open.spotify.com/track/3Fms9XnObl83AVbVuxbgYm"
     },
     {
       "added_at": null,
@@ -883,22 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Novia",
-        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 270404,
-      "name": "Hermoso",
-      "url": "https://open.spotify.com/track/3B1OuiH9xGmZAcbPLphSJb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adoraci\u00f3n Vol. 1",
         "url": "https://open.spotify.com/album/4GuJtiXSnLq5tHFCWRNCF8"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 351542,
       "name": "Yo Te Busco",
       "url": "https://open.spotify.com/track/0uYyXqF4CdeQFDEx73sc64"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Novia",
+        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 270404,
+      "name": "Hermoso",
+      "url": "https://open.spotify.com/track/3B1OuiH9xGmZAcbPLphSJb"
     },
     {
       "added_at": null,

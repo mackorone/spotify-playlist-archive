@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Across the Universe",
+        "url": "https://open.spotify.com/album/36QCipr8da5UDGTZYWDXLG"
+      },
+      "artists": [
+        {
+          "name": "Xion Star",
+          "url": "https://open.spotify.com/artist/5JOkHNCgllgCtpF85jWSiU"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137435,
+      "name": "Across the Universe",
+      "url": "https://open.spotify.com/track/6xt5700M0EDbE6X9PhBDPl"
+    },
+    {
+      "album": {
         "name": "Aften",
         "url": "https://open.spotify.com/album/3SImClzt0t5gfomsktsmrB"
       },
@@ -1852,7 +1870,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 209250,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/4TGVSsk5tV5rPA2eZ5QW2s"
@@ -2220,6 +2238,24 @@
       "duration_ms": 156166,
       "name": "Expanse",
       "url": "https://open.spotify.com/track/5mK7VJDTa9KufmkYNB2g6a"
+    },
+    {
+      "album": {
+        "name": "Expansion",
+        "url": "https://open.spotify.com/album/4CxEf4ZzyrctwCJI5JoUgK"
+      },
+      "artists": [
+        {
+          "name": "node: project",
+          "url": "https://open.spotify.com/artist/7JPL3e4Dihj4HqwMU1RIZH"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254749,
+      "name": "Expansion",
+      "url": "https://open.spotify.com/track/5kb3YbGwrOyLIRVCPacxdS"
     },
     {
       "album": {
@@ -3548,7 +3584,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 172500,
       "name": "Mellowing",
       "url": "https://open.spotify.com/track/4bmEAG2pyu2h70Wu7ZamWn"

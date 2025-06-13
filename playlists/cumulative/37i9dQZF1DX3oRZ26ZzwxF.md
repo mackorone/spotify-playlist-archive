@@ -2,9 +2,9 @@
 
 ### [Afro Rap](https://open.spotify.com/playlist/37i9dQZF1DX3oRZ26ZzwxF)
 
-> Le meilleur du rap africain francophone\. Photo : Didi B
+> Le meilleur du rap africain francophone\. Photo : Himra
 
-57 songs - 2 hr 42 min
+59 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,16 +33,18 @@
 | [ENTRE NOUS DEUX](https://open.spotify.com/track/5SHsGJXQGrlQWO3IUbGXDU) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Doupi Papillon](https://open.spotify.com/artist/4oBgTIQASlIZHyKNkXZWoO) | [DIYILEM & BAZARHOFF : GENIUS](https://open.spotify.com/album/0XRYwM7Fb1oAhjCaKSoSfp) | 2:53 | 2025-06-05 |  |
 | [Faut Bouai !](https://open.spotify.com/track/5UFVfnSCRM3bEN4j5IMRTp) | [NÔJ](https://open.spotify.com/artist/2rCPBjAnHwMR274CLbtl5O) | [Faut Bouai !](https://open.spotify.com/album/0hGuTqxGWFnhB5f6yndwYr) | 1:52 | 2025-06-05 |  |
 | [FOCUS](https://open.spotify.com/track/3Q9vnBSGMkGvwQwwdUqnnq) | [Paki Chenzu](https://open.spotify.com/artist/7CaZ0PyALKhFyvSLhnkpvB) | [FOCUS](https://open.spotify.com/album/0WDQa8MTkWqE2xRQw7QIL6) | 3:11 | 2025-05-29 |  |
+| [Freestyle Drill Ivoire 5](https://open.spotify.com/track/7s4CozYm2NWqEq9EctW7wR) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [Freestyle Drill Ivoire 5](https://open.spotify.com/album/2mwgUrBvH7hEWlQkTxX9i2) | 2:58 | 2025-06-12 |  |
 | [GAMME 2 BOSS](https://open.spotify.com/track/0fltveHa24SP15AsxbUdOh) | [Lil Jay Bingerack](https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu), [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U) | [GAMME 2 BOSS](https://open.spotify.com/album/7FNEycoTOLPCJdat5EoIGs) | 2:26 | 2025-05-29 |  |
 | [Garçon](https://open.spotify.com/track/6zPiqz4xy1ExPMviMZ3APi) | [Devone](https://open.spotify.com/artist/42n26sVrqcTkYhNLFQ4UFF), [Kadja](https://open.spotify.com/artist/18r6Mec5ndlllp5BAoGNek) | [Garçon](https://open.spotify.com/album/7DmIq6xQeYUVCWgM4DiDc1) | 3:09 | 2025-05-29 | 2025-06-06 |
 | [GOD BLESS](https://open.spotify.com/track/3vYAjy2MQ1D4sZnvOoLvuh) | [Tripa Gninnin](https://open.spotify.com/artist/1942Gu3Pj3kVg8SmX8T5lJ) | [GNINNIN TRAFIC](https://open.spotify.com/album/1DMDXPhs3b0yGGntCKAiQ2) | 2:09 | 2025-05-29 |  |
 | [Hala Madrid \- 2025 Edition](https://open.spotify.com/track/2CWotPY8sl5ASLKJ5SqgcE) | [BAD NOVA](https://open.spotify.com/artist/2gFUXTtTNFzZ6f5cYwijXp) | [Hala Madrid \(2025 Edition\)](https://open.spotify.com/album/6FZSmGG9sv5BA4lcJG2YjZ) | 4:00 | 2025-05-29 |  |
 | [Holiday Season](https://open.spotify.com/track/7zEnFfGPhNdyjsNuxvNs9s) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Holiday Season](https://open.spotify.com/album/2Gu2CtESKqSaFuxcc5vawa) | 2:47 | 2025-05-29 |  |
-| [I BORI LA \(feat\. Enfant Noir\)](https://open.spotify.com/track/4IRjUlhjOlWkVaRpeHLsGt) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Enfant Noir](https://open.spotify.com/artist/7BqDusrRXSExxrSXsfxjtu) | [BIG AKA 4 AKA KAI](https://open.spotify.com/album/2Sp3t61MrPQUPn71nv6QZm) | 3:35 | 2025-05-29 |  |
+| [I BORI LA \(feat\. Enfant Noir\)](https://open.spotify.com/track/4IRjUlhjOlWkVaRpeHLsGt) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Enfant Noir](https://open.spotify.com/artist/7BqDusrRXSExxrSXsfxjtu) | [BIG AKA 4 AKA KAI](https://open.spotify.com/album/2Sp3t61MrPQUPn71nv6QZm) | 3:35 | 2025-05-29 | 2025-06-13 |
 | [John wick](https://open.spotify.com/track/3lYhS2MnoQzTJ9s6SePZIz) | [Dopeboy DMG](https://open.spotify.com/artist/045cLSz5eLY329gTdSiCKH) | [Invictus](https://open.spotify.com/album/5Stk1SFLqNGuZJnLGMaF3X) | 2:57 | 2025-06-05 |  |
 | [KATI\-K](https://open.spotify.com/track/49L6HSlrQ8DOrAOAmHathK) | [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U) | [KATI\-K](https://open.spotify.com/album/572IgrZPGEt7PxkovVXqib) | 2:26 | 2025-05-29 |  |
 | [LOYAL](https://open.spotify.com/track/3tkq4CO4N4iDwzqTyNZhvs) | [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs) | [WHO IS DØPE?](https://open.spotify.com/album/5TFVCkQCXepNzPd6ziGJfo) | 2:41 | 2025-05-29 |  |
 | [L’Apogée](https://open.spotify.com/track/0CiRTOXewnaJbkxogCotoK) | [Lucasdu237](https://open.spotify.com/artist/69Lfohj1CqaLTxqFVEWMcl), [Willy Wallas](https://open.spotify.com/artist/5Y2ZxwT6skaSDBUyteBCL1) | [Réalité](https://open.spotify.com/album/4kxk8YXWjQDvqKjdR7VgZb) | 2:39 | 2025-05-29 |  |
+| [Ma girlfriend \(feat\. Chrystel\)](https://open.spotify.com/track/5Mc8d3wBc1hvCDnf3fhaVQ) | [Widgunz](https://open.spotify.com/artist/3sIJ8AYWsQmlgIcLxwiFkt), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0) | [Ma girlfriend \(feat\. Chrystel\)](https://open.spotify.com/album/6hywxYL7qefkTGWLT5KML3) | 3:12 | 2025-06-12 |  |
 | [Meduse](https://open.spotify.com/track/78fbQsmcz8z1yCaEwd8PdY) | [Dopeboy DMG](https://open.spotify.com/artist/045cLSz5eLY329gTdSiCKH) | [Invictus](https://open.spotify.com/album/5Stk1SFLqNGuZJnLGMaF3X) | 2:42 | 2025-05-29 | 2025-06-06 |
 | [META, Vol\. 2](https://open.spotify.com/track/3TpXq67aLh6x6yInImxe5E) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9) | [META, Vol\. 2](https://open.spotify.com/album/0hKfYKDdugoKUzpFq8nc7A) | 2:27 | 2025-05-29 | 2025-06-06 |
 | [MONA LISA](https://open.spotify.com/track/6K8yvIAG0B4k1p02oCBa0r) | [CJ Tell'm](https://open.spotify.com/artist/2fAo6honVWkCul5xO8y97T) | [MONA LISA](https://open.spotify.com/album/39DwulUHKfSGZiPo5uoGEs) | 3:26 | 2025-05-29 |  |
@@ -62,7 +64,7 @@
 | [Tous les jours](https://open.spotify.com/track/0ArHTnG4N8IOUeI1A7XfvT) | [Shapat](https://open.spotify.com/artist/3cO0IAr6lPRQYMkYXO6STP), [Mink's](https://open.spotify.com/artist/3R5HSF8rhNgBBgeOo0slI9) | [Tous les jours](https://open.spotify.com/album/33ldjb3AqSv3FP6ZHBBtey) | 3:21 | 2025-05-29 |  |
 | [Tu Dis Quoi](https://open.spotify.com/track/1QVOd9Pf0lPfiNmSmCYjCX) | [Kadja](https://open.spotify.com/artist/18r6Mec5ndlllp5BAoGNek) | [Tu Dis Quoi](https://open.spotify.com/album/2EjcQseS1rmGY13yLi94dF) | 2:53 | 2025-05-29 |  |
 | [UNDER THE SUN](https://open.spotify.com/track/5ccP5He1bggKx0xBKPy1Zx) | [Jeune Lion](https://open.spotify.com/artist/4tTvRdLVGAsJyk9lEEx3Xb) | [UNDER THE SUN](https://open.spotify.com/album/6qxe7qF6qRLjGLIRWhNIO8) | 3:00 | 2025-06-05 |  |
-| [Vieux Menthos](https://open.spotify.com/track/3wyvqqmtDte3VjI0qNtvqi) | [AKIM PAPICHULO](https://open.spotify.com/artist/4YoNTFyTQlpPs0y603bBS6), [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [LOVE CONTENT \(Pt\. 1\)](https://open.spotify.com/album/708N6j6rRage0rjl7p0qC4) | 2:17 | 2025-05-29 |  |
+| [Vieux Menthos](https://open.spotify.com/track/3wyvqqmtDte3VjI0qNtvqi) | [AKIM PAPICHULO](https://open.spotify.com/artist/4YoNTFyTQlpPs0y603bBS6), [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [LOVE CONTENT \(Pt\. 1\)](https://open.spotify.com/album/708N6j6rRage0rjl7p0qC4) | 2:17 | 2025-05-29 | 2025-06-13 |
 | [Voilà moi, Afro Beats Ivoire 3](https://open.spotify.com/track/3R39pWOhoMLNY77jxRcSt6) | [Dorty](https://open.spotify.com/artist/2ww5ZoS9JZPY1vGokWGKnV) | [Voilà moi, Afro Beats Ivoire 3](https://open.spotify.com/album/3HbNc91YB8eqb1QJJaijzH) | 3:21 | 2025-05-29 |  |
 | [Yako](https://open.spotify.com/track/6G43nkxTAkhPDTema2kixZ) | [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Yako](https://open.spotify.com/album/3KWBg8J1bmuwDKg3gzCs4G) | 2:52 | 2025-05-29 |  |
 

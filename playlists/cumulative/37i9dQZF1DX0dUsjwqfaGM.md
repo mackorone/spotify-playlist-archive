@@ -4,7 +4,7 @@
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Ánh Sáng AZA
 
-179 songs - 10 hr 21 min
+180 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Anh Bờ Vai](https://open.spotify.com/track/5fSjfwTHjzQovSM0VlMVD2) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 3:39 | 2025-03-27 |  |
 | [anh chưa quên được em \(2AM Freestyle\)](https://open.spotify.com/track/2wKRXynEFTZRAbCzxaLv6F) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Larria.](https://open.spotify.com/artist/1qdb7jDQjPd8WWpayCRh5V) | [anh chưa quên được em \(2AM Freestyle\)](https://open.spotify.com/album/6IotTHyZ9lQvylBqTEvhFY) | 2:32 | 2024-05-02 |  |
 | [Anh Nói Hay Em Nói \- TCO Remake](https://open.spotify.com/track/14xXTLUrseZwhq8nRGW44I) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc), [Fu liu](https://open.spotify.com/artist/37uExtaLxB5MyITRZaVXF7) | [Anh Nói Hay Em Nói \(TCO Remake\)](https://open.spotify.com/album/7ynVqpnNPuQtBOSCARjYnf) | 2:51 | 2025-03-27 |  |
+| [AUYEM](https://open.spotify.com/track/52LxbzBYYZ0Aoe3fAku2QP) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [Benly](https://open.spotify.com/artist/6KEi4a6Yw4sAHsdYZ3ZmKG) | [AUYEM](https://open.spotify.com/album/1VgKXjdcULZrawxxj63uGV) | 3:30 | 2025-06-12 |  |
 | [baby bên ngoài lạnh lắm](https://open.spotify.com/track/51OTmsWRlrHHKssnx5AZj6) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [Young Draco](https://open.spotify.com/artist/601J3nke3wUjbOx0hWY9uA), [Blunt](https://open.spotify.com/artist/3wQDIUs8dMGv8fmHMpTLm7) | [baby bên ngoài lạnh lắm](https://open.spotify.com/album/6txNspO1Mna3FI3LZO7Acb) | 3:12 | 2023-09-14 | 2023-11-22 |
 | [Bad Performance](https://open.spotify.com/track/3zama7xcVNrWj6nLCw9a2x) | [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt) | [Bad Performance](https://open.spotify.com/album/2CKrFtn7APctaOCi10UZ4S) | 3:42 | 2023-04-13 | 2024-12-05 |
 | [Benz ft\. V\# \(prod\. Larria.\)](https://open.spotify.com/track/1uVpjVKIJrNtN71I5IkwmO) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [V\#](https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om), [Larria.](https://open.spotify.com/artist/1qdb7jDQjPd8WWpayCRh5V) | [Siêu Trộm Kid \- The EP](https://open.spotify.com/album/6usk9OKVtyVMq6yd16tM8v) | 3:17 | 2024-12-04 |  |
@@ -32,7 +33,7 @@
 | [chanh tuyết](https://open.spotify.com/track/0i3kkjdLLumFcDIPwIY8b4) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay) | [chanh tuyết](https://open.spotify.com/album/0pJIWUfipTVXuJ4ivTe8xy) | 2:40 | 2024-12-04 |  |
 | [Chanh Tuyết \- Live At Home](https://open.spotify.com/track/3PzJrG7RJsoYDKc9t4r5KY) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [The Banisterz](https://open.spotify.com/artist/00qMj1gYwwMHPNqPDZRxQV) | [Chanh Tuyết \(Live At Home\)](https://open.spotify.com/album/7HWCx7oZgPhwuN943ZLIuj) | 3:22 | 2024-04-02 | 2025-03-28 |
 | [Checkmate: The Fame](https://open.spotify.com/track/7GoKGI2T3RjhWlIHOil4ui) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Anna Da Kiddo](https://open.spotify.com/artist/54bTSaYNNPxjF9LN9gu4E4) | [Checkmate: The Fame](https://open.spotify.com/album/2MR7O6gZm3gJLqA5ycclcd) | 2:59 | 2024-12-04 | 2025-03-28 |
-| [chiều thứ 7](https://open.spotify.com/track/4Via6cJtYwTD95mrrwgRkw) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Daisy Le Garçon](https://open.spotify.com/artist/5J3aJu1LxotI5WXEtTPiHo) | [chiều thứ 7](https://open.spotify.com/album/4U8Krj8WzLaBEwlSYle5Rk) | 4:39 | 2024-12-04 |  |
+| [chiều thứ 7](https://open.spotify.com/track/4Via6cJtYwTD95mrrwgRkw) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Daisy Le Garçon](https://open.spotify.com/artist/5J3aJu1LxotI5WXEtTPiHo) | [chiều thứ 7](https://open.spotify.com/album/4U8Krj8WzLaBEwlSYle5Rk) | 4:39 | 2024-12-04 | 2025-06-13 |
 | [Cho phép tôi mời anh một ly](https://open.spotify.com/track/4XP59vzJsW9CRptktJqEwA) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 2:58 | 2025-03-27 |  |
 | [Chú Lật Đật](https://open.spotify.com/track/39uULsf4hx4pVyLgmLuab7) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Chú Lật Đật](https://open.spotify.com/album/2ycmmF2YPuQ53trzA3JcLN) | 4:10 | 2024-12-04 | 2025-03-28 |
 | [chúc mừng em \(prod\. MINHPHAM\)](https://open.spotify.com/track/6UxDAqS5403KlBDk6rsHVh) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [MINH PHAM](https://open.spotify.com/artist/1SflDdL03vqz3MLTh65lPq) | [Siêu Trộm Kid \- The EP](https://open.spotify.com/album/6usk9OKVtyVMq6yd16tM8v) | 3:50 | 2024-12-04 | 2025-03-28 |

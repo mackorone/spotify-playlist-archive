@@ -4,7 +4,7 @@
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요\. \(Enjoy hip\-hop music with a soft, luxurious jazz flavor.\)
 
-190 songs - 10 hr 49 min
+191 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Jazztext](https://open.spotify.com/track/770OKFkhuymVE3g2l9Ci3F) | [IKYO](https://open.spotify.com/artist/0pI8Vy1QRwQPVFFDVjuT49) | [Jazztext](https://open.spotify.com/album/32ljwHV48VSWXQq6uJjMj0) | 4:03 | 2022-05-11 | 2022-07-13 |
 | [Jean Jacket \(Feat\. Geegooin\)](https://open.spotify.com/track/6eUPB3noow0nUIwJ69rND9) | [ZIZO](https://open.spotify.com/artist/3hEJREUS7yu89cUN0D13Sx), [Geegooin](https://open.spotify.com/artist/6i47wcSLvsZ9M01UO7zsua) | [CAMPFIRE](https://open.spotify.com/album/3n4CuFapVKZHPaOJy9QOVp) | 3:09 | 2022-07-22 | 2022-07-29 |
 | [Journey](https://open.spotify.com/track/0ecHDdv7sgeV7KNIUwwR4R) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 3:53 | 2022-05-11 |  |
-| [Ladidadi!](https://open.spotify.com/track/5CF0DkZosBF1XC0dNJX5NR) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [Ladidadi](https://open.spotify.com/album/1NblktVkuE0ZF9XU4vEiXM) | 2:03 | 2024-05-14 |  |
+| [Ladidadi!](https://open.spotify.com/track/5CF0DkZosBF1XC0dNJX5NR) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [Ladidadi](https://open.spotify.com/album/1NblktVkuE0ZF9XU4vEiXM) | 2:03 | 2024-05-14 | 2025-06-13 |
 | [Leica](https://open.spotify.com/track/5HGb06uR7zYFCADrkZ6ech) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/2JpqKpgXmTleERI7oGihIl) | 2:38 | 2022-05-11 | 2022-07-29 |
 | [Leica \(Feat\. KIM SAWOL\)](https://open.spotify.com/track/2gatbbWP4sb3ASVCQH2nPN) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Epik High Is Here 上 \(Part 1\)](https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu) | 2:38 | 2022-07-22 | 2024-04-19 |
 | [Let's Not Love Each Other](https://open.spotify.com/track/6MPAgclYe1F9LSYXxOuoBC) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Like A Film : 4 Songs](https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp) | 4:02 | 2022-05-11 |  |
@@ -158,6 +158,7 @@
 | [SUMMER '21](https://open.spotify.com/track/2Rw5QLA8JRa8JyBGrjcyev) | [Donutman](https://open.spotify.com/artist/2xH4dYFMVhdOGIhgIWonbc) | [SUMMER '21](https://open.spotify.com/album/1Jr0pbkeWWmsjgEmh1LWCy) | 3:02 | 2022-05-11 | 2022-07-28 |
 | [Sunday](https://open.spotify.com/track/79slMuiNDsDAUkyaECBcoc) | [BEAT SOMEONE](https://open.spotify.com/artist/5RYJ7hcKqMGA7bPLXN7ouY), [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd) | [Sunday](https://open.spotify.com/album/3SizZnd3U3JAWvgiCiK7ny) | 3:16 | 2022-12-26 | 2024-06-02 |
 | [Sunflower Dance \(Feat\. Kebee\) \(Prod\. 216project\)](https://open.spotify.com/track/526ORYv4twK8QIP18Z5156) | [Gun](https://open.spotify.com/artist/5X2qBbPoIF30jC9XZU2QU6) | [Sunflower Dance \(Feat\. Kebee\)](https://open.spotify.com/album/18ee1z3u6oWWVH5eRyUUfT) | 3:30 | 2022-05-11 | 2022-07-28 |
+| [sWing](https://open.spotify.com/track/0rxdQrVLojZ9xR88Q8E28v) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [Breathe 4](https://open.spotify.com/album/4mH2hi1Tjysb8bTCJpYYCU) | 2:36 | 2025-06-13 |  |
 | [tears](https://open.spotify.com/track/3VJGO89ULwVFAe6q0sKn6R) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [tears](https://open.spotify.com/album/4NCgay1BBCiIn6kl3F1S0P) | 2:07 | 2024-07-01 |  |
 | [Thank You](https://open.spotify.com/track/3tUs4ckhlaxd5oBjfziABQ) | [Keebomb](https://open.spotify.com/artist/5DUmtdaAb44NZFu0sv0DP7) | [Good Morning](https://open.spotify.com/album/6b4wJXGf9d8tyncSEeRG06) | 2:52 | 2022-05-11 | 2022-07-17 |
 | [the best](https://open.spotify.com/track/14hv5oFtKi8YjyBFWEYb0f) | [Won Jang](https://open.spotify.com/artist/0qygfMwBnBWSto1ty1FmXS) | [The Best](https://open.spotify.com/album/7IcrCpUgjSuVCougQxZWO0) | 3:59 | 2022-05-11 | 2022-07-20 |

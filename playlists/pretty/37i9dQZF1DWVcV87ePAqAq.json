@@ -1,6 +1,6 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 356059,
+  "num_followers": 356033,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "B\u00e6rum Bitches (Mannschaft)",
+        "url": "https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8te og Rare Gutter",
+          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "B\u00e6rum Bitches (Mannschaft)",
+      "url": "https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "PO PO PULL UP",
         "url": "https://open.spotify.com/album/5ofmwqey2otEVLQdwb8I2Z"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 141411,
       "name": "PO PO PULL UP",
       "url": "https://open.spotify.com/track/6MBHUC8RKxwNa4iztDXeJp"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "B\u00e6rum Bitches (Mannschaft)",
-        "url": "https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8te og Rare Gutter",
-          "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "B\u00e6rum Bitches (Mannschaft)",
-      "url": "https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC"
     },
     {
       "added_at": "2024-06-13 22:00:00",

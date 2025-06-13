@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Ty Dolla $ign",
+  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Kehlani",
   "name": "Groovin' R&B",
   "tracks": [
     {
@@ -560,6 +560,24 @@
       "duration_ms": 268056,
       "name": "Ain't Easy",
       "url": "https://open.spotify.com/track/7oRtVcdlys2I6s8fGhC6u0"
+    },
+    {
+      "album": {
+        "name": "Ain't I Good For You",
+        "url": "https://open.spotify.com/album/5xljYFeXxR6vWQwHhyESSb"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161805,
+      "name": "Ain't I Good For You",
+      "url": "https://open.spotify.com/track/77WEFz4sR98WRO01patyZm"
     },
     {
       "album": {
@@ -1398,7 +1416,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 196213,
       "name": "Been So Long",
       "url": "https://open.spotify.com/track/2VNxBDZwqkEjUhik7ADY1g"
@@ -2944,7 +2962,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 197769,
       "name": "CONTRAST",
       "url": "https://open.spotify.com/track/3VSu7JS5sAP62eiAxqrXGR"
@@ -4619,6 +4637,24 @@
     },
     {
       "album": {
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
+    },
+    {
+      "album": {
         "name": "For Granted (feat. Arin Ray & 9th Wonder)",
         "url": "https://open.spotify.com/album/5l1oWPwn5OqgbbBLyCrU05"
       },
@@ -4753,6 +4789,24 @@
     },
     {
       "album": {
+        "name": "CKay The Second",
+        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168461,
+      "name": "forever",
+      "url": "https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj"
+    },
+    {
+      "album": {
         "name": "Found A Light (Beale Street)",
         "url": "https://open.spotify.com/album/3bryfCCYVWa9IpMyObn3PN"
       },
@@ -4794,6 +4848,32 @@
       "duration_ms": 192936,
       "name": "FourSixty - Feat. Aaron Taylor",
       "url": "https://open.spotify.com/track/4tUALmirGtgnBfkyHQbCp6"
+    },
+    {
+      "album": {
+        "name": "Fragility (feat. Sala \uff06 ZIN)",
+        "url": "https://open.spotify.com/album/6FCnhVvjYx52OEMuHr8MmB"
+      },
+      "artists": [
+        {
+          "name": "Sam is Ohm",
+          "url": "https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW"
+        },
+        {
+          "name": "ZIN",
+          "url": "https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223179,
+      "name": "Fragility (feat. Sala \uff06 ZIN)",
+      "url": "https://open.spotify.com/track/1ENeYswoLMQGO4lJf5nTxr"
     },
     {
       "album": {
@@ -5020,7 +5100,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 205097,
       "name": "fuck, marry, kill",
       "url": "https://open.spotify.com/track/6Y5y54rLwNr54ohaVnrouY"
@@ -5761,6 +5841,24 @@
     },
     {
       "album": {
+        "name": "Head Over Heels",
+        "url": "https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228842,
+      "name": "Head Over Heels",
+      "url": "https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g"
+    },
+    {
+      "album": {
         "name": "Heart Ain't Empty",
         "url": "https://open.spotify.com/album/7s00wxQvavyaVWYPJjL9gr"
       },
@@ -6158,6 +6256,24 @@
       "duration_ms": 159100,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7"
+    },
+    {
+      "album": {
+        "name": "Holy Blindfold",
+        "url": "https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Holy Blindfold",
+      "url": "https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9"
     },
     {
       "album": {
@@ -8063,6 +8179,28 @@
     },
     {
       "album": {
+        "name": "like i never",
+        "url": "https://open.spotify.com/album/3GPx9RTEm6PYo67petWpFO"
+      },
+      "artists": [
+        {
+          "name": "Ethan Low",
+          "url": "https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS"
+        },
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149680,
+      "name": "like i never",
+      "url": "https://open.spotify.com/track/2yn4VxCSbNggOeQLFSMpMf"
+    },
+    {
+      "album": {
         "name": "Like Me",
         "url": "https://open.spotify.com/album/7tNL7ALKbrG7vJviGnFlPR"
       },
@@ -9386,7 +9524,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 154500,
       "name": "MIRROR BALL DANCING",
       "url": "https://open.spotify.com/track/0TBgEVg66OZd7NPgWEg7t8"
@@ -10633,6 +10771,32 @@
     },
     {
       "album": {
+        "name": "Off Road",
+        "url": "https://open.spotify.com/album/0cL9jk0ehDObDqYa4AEzuC"
+      },
+      "artists": [
+        {
+          "name": "Rory",
+          "url": "https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Off Road",
+      "url": "https://open.spotify.com/track/7tp8Tga51irOeJLX6JVT9P"
+    },
+    {
+      "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
@@ -11190,7 +11354,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 116791,
       "name": "Parano (feat. DDB)",
       "url": "https://open.spotify.com/track/2McvcH3pdgPVklNTGRhODP"
@@ -11208,7 +11372,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 249136,
       "name": "PARAPARA",
       "url": "https://open.spotify.com/track/6fLXJrzTWka1nXjU6IHcN2"
@@ -11842,7 +12006,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 178069,
       "name": "Private - Remix",
       "url": "https://open.spotify.com/track/0mau1gwrttKfQT2Se0l7gf"
@@ -13620,7 +13784,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 236903,
       "name": "So Lucky",
       "url": "https://open.spotify.com/track/5lhKGYoFp8DCGVz1Ngg4Yn"
@@ -14244,7 +14408,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 175314,
       "name": "Stay (feat. Roy Woods)",
       "url": "https://open.spotify.com/track/2SkYAIrEkCn09z0IwtK37w"
@@ -14656,6 +14820,28 @@
       "duration_ms": 150117,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/4juj2vcoKlRyW2toW951Wg"
+    },
+    {
+      "album": {
+        "name": "Suzanne",
+        "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235328,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
     },
     {
       "album": {
@@ -15734,7 +15920,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 144741,
       "name": "Tokyo Lift (5am)",
       "url": "https://open.spotify.com/track/3nNHdtE7GDHCBwt6mA1D4M"
@@ -17016,6 +17202,28 @@
       "duration_ms": 268401,
       "name": "When He\u2019s Not There (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/79C5R15cOiFYUvWG4gDL10"
+    },
+    {
+      "album": {
+        "name": "When I Get Home (feat. Wale)",
+        "url": "https://open.spotify.com/album/3DyjN8kxWFNmox9bVR7F4t"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198716,
+      "name": "When I Get Home (feat. Wale)",
+      "url": "https://open.spotify.com/track/2qoFm2Bu2dBuN9yf8Fzf6m"
     },
     {
       "album": {

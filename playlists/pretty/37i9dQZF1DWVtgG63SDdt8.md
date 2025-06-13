@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Rend Collective
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,322 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,342 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Inhabit \- Live](https://open.spotify.com/track/7uV23diPvoJDAtiCUehgdn) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Austin Johnson](https://open.spotify.com/artist/2BPfjNofqF1uBvxJ3kUTbO), [Kory Miller](https://open.spotify.com/artist/0QCjdltvL9ZrRhayylw97h), [Hannah Waters](https://open.spotify.com/artist/4ikD0yzW2w4xoY6xBla98L) | [Inhabit \(Live\)](https://open.spotify.com/album/7JKsu4MIWFQd1SSakrv41q) | 9:37 |
 | 100 | [Dwell](https://open.spotify.com/track/33G7XMjL3uKBJwlaamaUsa) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Sydney James](https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ) | [Dwell](https://open.spotify.com/album/2KqpntXs36LLr188Bo31Tc) | 5:47 |
 
-Snapshot ID: `aELKNwAAAAAlXcDckKCtNkr/sz/1S5Fz`
+Snapshot ID: `AAAAADL0xhxEYKCFjqOYzKSKCkJ4mhXj`

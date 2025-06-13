@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: YANGHONGWON\(양홍원\)\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-770 songs - 1 day 17 hr 19 min
+771 songs - 1 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Dot](https://open.spotify.com/track/7eUJiN9ehnq6ew9wYRIP4z) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [CHI](https://open.spotify.com/album/4r5Qsn2R5CG2BMaUP0spyu) | 2:46 | 2025-03-14 | 2025-04-10 |
 | [Drama](https://open.spotify.com/track/4VcBAwrzcjKJO6MjbxBJec) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [BLOO IN WONDERLAND 2](https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J) | 2:50 | 2022-07-24 | 2024-04-19 |
 | [Drama](https://open.spotify.com/track/6oOiMv4zMPPDDTd7TUFPE1) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [Drama](https://open.spotify.com/album/3qCn2BNhIGDpyCLxc06LAH) | 2:50 | 2022-04-01 | 2022-07-28 |
+| [drama](https://open.spotify.com/track/7qzKImwqCrSGssJaJexZNj) | [Noducksoon](https://open.spotify.com/artist/5edtUlKuXuqzKiwlzADBT8) | [drama](https://open.spotify.com/album/1tBA1lILC3UdSFwUYrueC5) | 2:00 | 2025-06-12 |  |
 | [DRAMA \(feat\. FR:EDEN\)](https://open.spotify.com/track/2vHRtmzDZPBPa40Sc5VvJZ) | [Komah Jay](https://open.spotify.com/artist/5CBVMQylJ4lBChrO4HgO1K), [FR:EDEN](https://open.spotify.com/artist/6psIuXSnGPGKY93Wcj1qeW) | [DRAMA](https://open.spotify.com/album/10GZ3uTbFaAFiXVLRVNrtU) | 3:12 | 2022-06-09 | 2022-07-07 |
 | [Drama \(Feat\. Skinny Brown, SINCE, Ahn Byeong Woong\)](https://open.spotify.com/track/4t4fQSspr66XPjriR6ggOG) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [안병웅](https://open.spotify.com/artist/3FScEX9wp1jRH14yr96HsP) | [Drama \(Feat\. Skinny Brown, SINCE, Ahn Byeong Woong\)](https://open.spotify.com/album/4CzRnd5Us0Gnf5rF9uvOdB) | 3:10 | 2022-04-21 | 2022-07-20 |
 | [Dream](https://open.spotify.com/track/6gVtv8uLQgzSEu5pRu3jNP) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Dream](https://open.spotify.com/album/1phlVVm4LeVx4K6HKJ6BLk) | 2:20 | 2022-08-15 | 2022-10-09 |
@@ -771,7 +772,7 @@
 | [달탈출 \(prod\. Eric Godlow\)](https://open.spotify.com/track/5tHZeai2kCe9wIiMhnUjfn) | [윤해찬](https://open.spotify.com/artist/4egBOzXgXYoswwOvmxrmJ1) | [Escape From The Moon](https://open.spotify.com/album/4ZYJasF7PL3F3ZRUVnKxao) | 4:10 | 2022-06-27 | 2022-06-30 |
 | [담아](https://open.spotify.com/track/5OH5VvM5qIZDiJC1JVWLfe) | [M1NU](https://open.spotify.com/artist/2JDfkwLPoHoH1EKw6Og6uH), [Wiz World](https://open.spotify.com/artist/64uYVs5XasE9xxAItdyPCn), [래원](https://open.spotify.com/artist/5wrj3tbmQ8cvjcA80MtZP9), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [M1NUWORLD](https://open.spotify.com/album/6TxDYynoC6vnuC3vKlBb9h) | 3:31 | 2023-01-25 | 2023-02-16 |
 | [무너져 \(Art\. VEAN\)](https://open.spotify.com/track/6VVIJyheSpW8hM4CTr9xXR) | [Anonymous Artists](https://open.spotify.com/artist/6U6zWkFtgM3UU5c1hBlGCD) | [ARTIST\. VEAN](https://open.spotify.com/album/58ke1EMXzfH9T6NgmSsXOd) | 2:52 | 2022-05-11 | 2022-05-21 |
-| [미워미워](https://open.spotify.com/track/3Qrk2n9heBxrDNRThqg1Sh) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ) | [미워미워](https://open.spotify.com/album/3Z8nre7uQyLXZPieySyjYP) | 2:17 | 2025-06-06 |  |
+| [미워미워](https://open.spotify.com/track/3Qrk2n9heBxrDNRThqg1Sh) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ) | [미워미워](https://open.spotify.com/album/3Z8nre7uQyLXZPieySyjYP) | 2:17 | 2025-06-06 | 2025-06-13 |
 | [미쳐버리겠다 \(MAD\)](https://open.spotify.com/track/7n1yuwnzs5jTEitJ7eecS8) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [미쳐버리겠다 \(MAD\)](https://open.spotify.com/album/1CdiLd2ENEFje7ux0G23KT) | 3:17 | 2023-11-28 | 2025-01-16 |
 | [밤새](https://open.spotify.com/track/6ounBpJVh2WXum1HEiMWan) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Affection](https://open.spotify.com/album/7CH227zOs9JlxNtQ8Z6EK4) | 3:20 | 2024-04-24 | 2024-07-18 |
 | [빙그레](https://open.spotify.com/track/1gtabUo4ov467fUjf2514i) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [빙그레](https://open.spotify.com/album/6B9m5Qnxof67GWuBYBROxU) | 3:04 | 2022-08-17 | 2022-09-01 |

@@ -2075,6 +2075,28 @@
     },
     {
       "album": {
+        "name": "COQUETA",
+        "url": "https://open.spotify.com/album/4Rs0gyENJHnyeVjEh6OhuM"
+      },
+      "artists": [
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        },
+        {
+          "name": "Dj Rocka",
+          "url": "https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159440,
+      "name": "COQUETA",
+      "url": "https://open.spotify.com/track/0ZeObZ4dRDyJluQhHow90a"
+    },
+    {
+      "album": {
         "name": "Cora Roto",
         "url": "https://open.spotify.com/album/0kuwC399JZDrmSjbGa6nCl"
       },
@@ -2658,7 +2680,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -5240,7 +5262,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 227383,
       "name": "Madrid",
       "url": "https://open.spotify.com/track/2DqglvFMls6hZUumCCl8xq"
@@ -6170,6 +6192,28 @@
       "duration_ms": 259437,
       "name": "Misionar",
       "url": "https://open.spotify.com/track/0MTZm8KRFCeBlE4UHar3lg"
+    },
+    {
+      "album": {
+        "name": "Missing",
+        "url": "https://open.spotify.com/album/6UzGSfJroStQGBJq0tFV6b"
+      },
+      "artists": [
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201818,
+      "name": "Missing",
+      "url": "https://open.spotify.com/track/5XBdsOe2SVDbVqz6tCfAJD"
     },
     {
       "album": {

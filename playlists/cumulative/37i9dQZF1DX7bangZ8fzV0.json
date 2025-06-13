@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: Irene-Louise Van Wyk",
+  "description": "Net die beste Afrikaanse musiek! Omslag: Jay",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -908,6 +908,24 @@
       "duration_ms": 191466,
       "name": "Dagdrome in Suburbia",
       "url": "https://open.spotify.com/track/1K9B9JRjtUe6bVVOv8Bw1X"
+    },
+    {
+      "album": {
+        "name": "Dans Die Vlamme Dood",
+        "url": "https://open.spotify.com/album/5ZrGwrSdrxN36ySRx5ye76"
+      },
+      "artists": [
+        {
+          "name": "Jay",
+          "url": "https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Dans Die Vlamme Dood",
+      "url": "https://open.spotify.com/track/1rw7TMwVcioAaSbrHXPQjl"
     },
     {
       "album": {
@@ -1938,6 +1956,28 @@
       "duration_ms": 198000,
       "name": "Help 'n Bietjie",
       "url": "https://open.spotify.com/track/7ITFyeRy9nJZQPqKtJvAN4"
+    },
+    {
+      "album": {
+        "name": "Het Jy Iemand",
+        "url": "https://open.spotify.com/album/0bVTa1xvnoVMRABEvcBPW2"
+      },
+      "artists": [
+        {
+          "name": "Ollyvans",
+          "url": "https://open.spotify.com/artist/5mUamRbK8IVMSh1fr8OzWq"
+        },
+        {
+          "name": "Tasch\u00e9",
+          "url": "https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167851,
+      "name": "Het Jy Iemand",
+      "url": "https://open.spotify.com/track/6nxrtUmq5aNJlLef0zwKOP"
     },
     {
       "album": {
@@ -3268,7 +3308,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 183043,
       "name": "Lisensie",
       "url": "https://open.spotify.com/track/3YOQCRy81k35J5XMDovyyH"
@@ -5266,7 +5306,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 205237,
       "name": "Vlam In Die Wind",
       "url": "https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj"

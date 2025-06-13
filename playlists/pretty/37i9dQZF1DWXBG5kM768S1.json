@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 79015,
+  "num_followers": 79017,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-04-10 22:00:11",
       "album": {
+        "name": "Ringdans",
+        "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        }
+      ],
+      "duration_ms": 212258,
+      "name": "Ringdans",
+      "url": "https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt"
+    },
+    {
+      "added_at": "2025-04-10 22:00:11",
+      "album": {
         "name": "Badebussen",
         "url": "https://open.spotify.com/album/3EmJ7JUoTy85Ah0ITqQ7UX"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 178160,
       "name": "Badebussen",
       "url": "https://open.spotify.com/track/1Ajp5nOYezdcpx3e8CfzMl"
-    },
-    {
-      "added_at": "2025-04-10 22:00:11",
-      "album": {
-        "name": "Ringdans",
-        "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        }
-      ],
-      "duration_ms": 212258,
-      "name": "Ringdans",
-      "url": "https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt"
     },
     {
       "added_at": "2025-04-10 22:00:11",
@@ -407,6 +407,22 @@
     {
       "added_at": "2025-04-10 22:00:11",
       "album": {
+        "name": "Mosaikk (16 Biter)",
+        "url": "https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO"
+      },
+      "artists": [
+        {
+          "name": "Anne Grete Preus",
+          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
+        }
+      ],
+      "duration_ms": 233291,
+      "name": "N\u00e5r himmelen faller ned",
+      "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
+    },
+    {
+      "added_at": "2025-04-10 22:00:11",
+      "album": {
         "name": "Spor i sn\u00f8",
         "url": "https://open.spotify.com/album/5ALVZSAv6BgrsAJNLvkfbV"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": "2025-04-10 22:00:11",
       "album": {
-        "name": "Mosaikk (16 Biter)",
-        "url": "https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO"
-      },
-      "artists": [
-        {
-          "name": "Anne Grete Preus",
-          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
-        }
-      ],
-      "duration_ms": 233291,
-      "name": "N\u00e5r himmelen faller ned",
-      "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
-    },
-    {
-      "added_at": "2025-04-10 22:00:11",
-      "album": {
         "name": "Bru over m\u00f8rke b\u00f8lger",
         "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
       },
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-04-10 22:00:11",
       "album": {
-        "name": "Paus synger Paus",
-        "url": "https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts"
-      },
-      "artists": [
-        {
-          "name": "Ole Paus",
-          "url": "https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Mitt lille land",
-      "url": "https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01"
-    },
-    {
-      "added_at": "2025-04-10 22:00:11",
-      "album": {
         "name": "Ta Meg Med",
         "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 194506,
       "name": "Vi Vandrar Saman (Eg F\u00f8lgjer Der Du G\u00e5r)",
       "url": "https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV"
+    },
+    {
+      "added_at": "2025-04-10 22:00:11",
+      "album": {
+        "name": "Paus synger Paus",
+        "url": "https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts"
+      },
+      "artists": [
+        {
+          "name": "Ole Paus",
+          "url": "https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Mitt lille land",
+      "url": "https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01"
     },
     {
       "added_at": "2025-04-10 22:00:11",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-04-10 22:00:11",
       "album": {
-        "name": "Annen som du",
-        "url": "https://open.spotify.com/album/1WxHEl0KfSA2h25BcoNFGS"
-      },
-      "artists": [
-        {
-          "name": "Trang F\u00f8dsel",
-          "url": "https://open.spotify.com/artist/3pOEfaqokP940PuLUoho3l"
-        }
-      ],
-      "duration_ms": 217703,
-      "name": "Annen som du",
-      "url": "https://open.spotify.com/track/4DMSneArB5W5BTAz8A2ij4"
-    },
-    {
-      "added_at": "2025-04-10 22:00:11",
-      "album": {
         "name": "De N\u00e6re Ting",
         "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 138412,
       "name": "De N\u00e6re Ting",
       "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
+    },
+    {
+      "added_at": "2025-04-10 22:00:11",
+      "album": {
+        "name": "Annen som du",
+        "url": "https://open.spotify.com/album/1WxHEl0KfSA2h25BcoNFGS"
+      },
+      "artists": [
+        {
+          "name": "Trang F\u00f8dsel",
+          "url": "https://open.spotify.com/artist/3pOEfaqokP940PuLUoho3l"
+        }
+      ],
+      "duration_ms": 217703,
+      "name": "Annen som du",
+      "url": "https://open.spotify.com/track/4DMSneArB5W5BTAz8A2ij4"
     },
     {
       "added_at": "2025-04-10 22:00:11",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-04-10 22:00:11",
       "album": {
-        "name": "Det jeg vil ha (fra deg)",
-        "url": "https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i"
-      },
-      "artists": [
-        {
-          "name": "Frida \u00c5nnevik",
-          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
-        }
-      ],
-      "duration_ms": 203263,
-      "name": "Det jeg vil ha (fra deg)",
-      "url": "https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9"
-    },
-    {
-      "added_at": "2025-04-10 22:00:11",
-      "album": {
         "name": "Aldri i livet",
         "url": "https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 188796,
       "name": "Aldri i livet",
       "url": "https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F"
+    },
+    {
+      "added_at": "2025-04-10 22:00:11",
+      "album": {
+        "name": "Det jeg vil ha (fra deg)",
+        "url": "https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i"
+      },
+      "artists": [
+        {
+          "name": "Frida \u00c5nnevik",
+          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
+        }
+      ],
+      "duration_ms": 203263,
+      "name": "Det jeg vil ha (fra deg)",
+      "url": "https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9"
     },
     {
       "added_at": "2025-04-10 22:00:11",
@@ -835,26 +835,18 @@
     {
       "added_at": "2025-04-10 22:00:11",
       "album": {
-        "name": "Eg Glemmer Deg Aldri",
-        "url": "https://open.spotify.com/album/01u1QpBhHmNTWp1UhhCKHQ"
+        "name": "Heile veien ned",
+        "url": "https://open.spotify.com/album/1bPeKBeiPxL33kcyI4GdzE"
       },
       "artists": [
         {
-          "name": "Karoline Kr\u00fcger",
-          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
-        },
-        {
-          "name": "Aslag Haugen",
-          "url": "https://open.spotify.com/artist/0Rr2EFrjG1MklON3zLBXOc"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+          "name": "Inge Bremnes",
+          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
         }
       ],
-      "duration_ms": 178116,
-      "name": "Eg glemmer deg aldri",
-      "url": "https://open.spotify.com/track/5uIf5trHyNF4uvsmCr1NHc"
+      "duration_ms": 264693,
+      "name": "Heile veien ned",
+      "url": "https://open.spotify.com/track/37BdNAd2PInnfRCVeq6HOi"
     }
   ],
   "unique_name": "Norske viser",

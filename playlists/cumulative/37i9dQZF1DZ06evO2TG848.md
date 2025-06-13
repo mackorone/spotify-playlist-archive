@@ -4,7 +4,7 @@
 
 > This is Gustavo Santaolalla\. The essential tracks, all in one playlist.
 
-100 songs - 4 hr 4 min
+101 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Unbound](https://open.spotify.com/track/5DgYdvipuyu3YWmo2MDWDu) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us Part II \(Original Soundtrack\)](https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC) | 1:57 | 2023-08-31 | 2025-02-28 |
 | [Unbroken](https://open.spotify.com/track/6KAf1Y6OHR34qdmgUFO5zf) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us Part II \(Original Soundtrack\)](https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC) | 4:38 | 2023-08-31 |  |
 | [Vanishing Grace](https://open.spotify.com/track/5TBJdXataXjsbjcXsCtUeP) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 2:06 | 2023-08-31 | 2025-05-28 |
+| [Wounds from the Past](https://open.spotify.com/track/79azKtUs7fCQhgAjKFtU0D) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 2 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/6Wxzdufl0XfxujiYcW0NOv) | 1:01 | 2025-06-13 |  |
 | [Yarará](https://open.spotify.com/track/5yZF5BdTmtdQitz89YBMYL) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [SUR](https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA) | 2:50 | 2023-12-13 |  |
 | [Zenda \- 2024 Remaster](https://open.spotify.com/track/2b1YIeZgof9nVmPwdDi4mP) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco \(2024 Remaster\)](https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB) | 3:23 | 2024-06-21 | 2024-10-23 |
 | [¿Qué Ves?](https://open.spotify.com/track/2yJMtBIyGkFmzvYj9vW4lf) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo) | [Divididos en Vélez \- Agradecer y Seguir](https://open.spotify.com/album/2TrRaAq10CSLmQV03lmQQy) | 9:31 | 2024-01-28 | 2024-02-14 |

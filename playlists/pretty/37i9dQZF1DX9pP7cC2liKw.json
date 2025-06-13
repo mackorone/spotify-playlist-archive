@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 343257,
+  "num_followers": 343698,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Claude Fontaine",
+        "url": "https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7"
+      },
+      "artists": [
+        {
+          "name": "Claude Fontaine",
+          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
+        }
+      ],
+      "duration_ms": 246386,
+      "name": "Play by Play",
+      "url": "https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Dubamerica",
         "url": "https://open.spotify.com/album/3h1PIJmSLnR5vJXTfFDPZX"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 336373,
       "name": "Chichera",
       "url": "https://open.spotify.com/track/1Vba1fnOgXyknfjvp94ZVA"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Lo Bueno Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/5R5CPGWYyfFJNaGPZ32v8i"
-      },
-      "artists": [
-        {
-          "name": "Contento",
-          "url": "https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h"
-        }
-      ],
-      "duration_ms": 262996,
-      "name": "Lo Bueno Est\u00e1 Aqu\u00ed",
-      "url": "https://open.spotify.com/track/3VZszH38QS6BWiKEWeZIw8"
     }
   ],
   "unique_name": "Tulum Vibes",

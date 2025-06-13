@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday 🔥 Feid is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,931,765 likes - 20 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,931,808 likes - 20 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 19 | [REINA](https://open.spotify.com/track/2qAu0Xt6h8WT3D8T5qCGVd) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [REINA](https://open.spotify.com/album/0y6lOcsYAu8u6Rdpe1e7ZU) | 2:39 |
 | 20 | [Comernos](https://open.spotify.com/track/29twJUQo66aqSd3lxoeswV) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Comernos](https://open.spotify.com/album/0GMA4LtsdymEbIuMfEoVWY) | 3:41 |
 
-Snapshot ID: `aEmpXwAAAAABveibSky+ZMRJ6H/+9jTt`
+Snapshot ID: `aEmpXwAAAAAoqmMqmT2e5sd8T58lBfqi`

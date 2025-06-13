@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Celebrating 10 years of the best new rock & alternative music from independent artists\. Cover: xiao xiao
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,898 likes - 102 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,895 likes - 102 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 101 | [PS](https://open.spotify.com/track/0NzGtxHKcnMIdtxyq2LrE4) | [Fib](https://open.spotify.com/artist/3LHTXIlBaP5EBhqKMpcr7L) | [PS](https://open.spotify.com/album/6S06Bqr1AlxVxiBOBtYgMa) | 2:13 |
 | 102 | [Death By Entertainment](https://open.spotify.com/track/11SsEHy37Pd0JGTcitWakJ) | [Sam Akpro](https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2) | [Evenfall](https://open.spotify.com/album/69uVEeoptmNxZJnPUdAeKb) | 3:31 |
 
-Snapshot ID: `aEj/UQAAAACbbddidawAa78zds1qRTy9`
+Snapshot ID: `aEj/UQAAAABJbsrYoqaQqV4a8y3d7eaI`

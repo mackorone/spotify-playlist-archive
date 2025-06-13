@@ -1,6 +1,6 @@
 {
   "description": "\u0417\u0430\u0442\u0438\u0448\u043d\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0434\u043b\u044f \u0442\u0435\u043f\u043b\u0438\u0445 \u0434\u043d\u0456\u0432 \ud83c\udf3b\u2600\ufe0f\ud83c\udfd5\ufe0f",
-  "num_followers": 36154,
+  "num_followers": 36164,
   "original_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "\u0422\u043e\u0439 \u0434\u0435\u043d\u044c",
-        "url": "https://open.spotify.com/album/2oGVobQJgAXMDJ5pl79iuo"
-      },
-      "artists": [
-        {
-          "name": "Okean Elzy",
-          "url": "https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS"
-        }
-      ],
-      "duration_ms": 270119,
-      "name": "\u042f\u043a \u043d\u0456\u043a\u043e\u043b\u0438",
-      "url": "https://open.spotify.com/track/7Bz3CO5CyU4GAPke4UNPhc"
-    },
-    {
-      "added_at": "2025-06-03 09:56:43",
-      "album": {
         "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
         "url": "https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 189000,
       "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
       "url": "https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9"
+    },
+    {
+      "added_at": "2025-06-03 09:56:43",
+      "album": {
+        "name": "\u0422\u043e\u0439 \u0434\u0435\u043d\u044c",
+        "url": "https://open.spotify.com/album/2oGVobQJgAXMDJ5pl79iuo"
+      },
+      "artists": [
+        {
+          "name": "Okean Elzy",
+          "url": "https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS"
+        }
+      ],
+      "duration_ms": 270119,
+      "name": "\u042f\u043a \u043d\u0456\u043a\u043e\u043b\u0438",
+      "url": "https://open.spotify.com/track/7Bz3CO5CyU4GAPke4UNPhc"
     },
     {
       "added_at": "2025-06-03 09:56:43",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "Bird of Pray (Acoustic)",
-        "url": "https://open.spotify.com/album/7JeNalQlSmsNltVHoUl5TN"
-      },
-      "artists": [
-        {
-          "name": "Ziferblat",
-          "url": "https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR"
-        }
-      ],
-      "duration_ms": 191932,
-      "name": "Bird of Pray - Acoustic Version",
-      "url": "https://open.spotify.com/track/0MLGNvz1nG6HHjl18ipisV"
-    },
-    {
-      "added_at": "2025-06-03 09:56:43",
-      "album": {
         "name": "\u041a\u041b\u0418\u0427\u0423",
         "url": "https://open.spotify.com/album/0KrgSWn6t4DMm96YlP7Atv"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 190615,
       "name": "\u041a\u041b\u0418\u0427\u0423",
       "url": "https://open.spotify.com/track/3RGUgIjRIdT3bhxl7DFjqc"
+    },
+    {
+      "added_at": "2025-06-03 09:56:43",
+      "album": {
+        "name": "Bird of Pray (Acoustic)",
+        "url": "https://open.spotify.com/album/7JeNalQlSmsNltVHoUl5TN"
+      },
+      "artists": [
+        {
+          "name": "Ziferblat",
+          "url": "https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR"
+        }
+      ],
+      "duration_ms": 191932,
+      "name": "Bird of Pray - Acoustic Version",
+      "url": "https://open.spotify.com/track/0MLGNvz1nG6HHjl18ipisV"
     },
     {
       "added_at": "2025-06-03 09:56:43",
@@ -835,6 +835,22 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
+        "name": "\u0414\u0456\u0442\u0438",
+        "url": "https://open.spotify.com/album/7i9VX5UVn6oRKLCowh3rlZ"
+      },
+      "artists": [
+        {
+          "name": "\u0421\u0430\u043b\u044c\u0442\u043e \u041d\u0430\u0437\u0430\u0434",
+          "url": "https://open.spotify.com/artist/51y4QBUQpFncG7cY6HMsIW"
+        }
+      ],
+      "duration_ms": 238672,
+      "name": "\u0421\u043e\u043d\u044f\u0447\u043d\u0430",
+      "url": "https://open.spotify.com/track/5DyqWpCHHVfB6BO3Uucdxg"
+    },
+    {
+      "added_at": "2025-06-03 09:56:43",
+      "album": {
         "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
         "url": "https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8"
       },
@@ -867,22 +883,6 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "\u0414\u0456\u0442\u0438",
-        "url": "https://open.spotify.com/album/7i9VX5UVn6oRKLCowh3rlZ"
-      },
-      "artists": [
-        {
-          "name": "\u0421\u0430\u043b\u044c\u0442\u043e \u041d\u0430\u0437\u0430\u0434",
-          "url": "https://open.spotify.com/artist/51y4QBUQpFncG7cY6HMsIW"
-        }
-      ],
-      "duration_ms": 238672,
-      "name": "\u0421\u043e\u043d\u044f\u0447\u043d\u0430",
-      "url": "https://open.spotify.com/track/5DyqWpCHHVfB6BO3Uucdxg"
-    },
-    {
-      "added_at": "2025-06-03 09:56:43",
-      "album": {
         "name": "\u041f\u0456\u0434 \u043a\u0440\u0438\u043b\u043e\u043c",
         "url": "https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "\u043e\u0431\u0435\u0440\u0435\u0436\u043d\u043e! \u0440\u043e\u0437\u0431\u0438\u0442\u0435!",
-        "url": "https://open.spotify.com/album/7zH9MCmyBWI9P03w3mn34i"
-      },
-      "artists": [
-        {
-          "name": "The Soul Delusion",
-          "url": "https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "\u043e\u0431\u0435\u0440\u0435\u0436\u043d\u043e! \u0440\u043e\u0437\u0431\u0438\u0442\u0435!",
-      "url": "https://open.spotify.com/track/23os5lle4XZzaOQmMTKaPM"
-    },
-    {
-      "added_at": "2025-06-03 09:56:43",
-      "album": {
         "name": "\u041c\u0456\u0441\u0442\u043e",
         "url": "https://open.spotify.com/album/2WYvnOaNKWahvHvgYqgDbl"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 138045,
       "name": "\u041c\u0456\u0441\u0442\u043e",
       "url": "https://open.spotify.com/track/7bF2K3W2oBO7WHlWHwDJ7h"
+    },
+    {
+      "added_at": "2025-06-03 09:56:43",
+      "album": {
+        "name": "\u043e\u0431\u0435\u0440\u0435\u0436\u043d\u043e! \u0440\u043e\u0437\u0431\u0438\u0442\u0435!",
+        "url": "https://open.spotify.com/album/7zH9MCmyBWI9P03w3mn34i"
+      },
+      "artists": [
+        {
+          "name": "The Soul Delusion",
+          "url": "https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "\u043e\u0431\u0435\u0440\u0435\u0436\u043d\u043e! \u0440\u043e\u0437\u0431\u0438\u0442\u0435!",
+      "url": "https://open.spotify.com/track/23os5lle4XZzaOQmMTKaPM"
     },
     {
       "added_at": "2025-06-03 09:56:43",
@@ -983,26 +983,6 @@
     {
       "added_at": "2025-06-03 09:56:43",
       "album": {
-        "name": "One-night Stand",
-        "url": "https://open.spotify.com/album/3k4SJ6gFyDdBudFiywKgEK"
-      },
-      "artists": [
-        {
-          "name": "The Maneken",
-          "url": "https://open.spotify.com/artist/21XreEXwXo1TNn2QMkwPzm"
-        },
-        {
-          "name": "Nathan Daisy",
-          "url": "https://open.spotify.com/artist/2CtFUBZT6hZPF8fF4XDRGf"
-        }
-      ],
-      "duration_ms": 234344,
-      "name": "One-night Stand",
-      "url": "https://open.spotify.com/track/1VkvQ1JiaMWO3n62QHyclg"
-    },
-    {
-      "added_at": "2025-06-03 09:56:43",
-      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o"
       },
@@ -1015,6 +995,22 @@
       "duration_ms": 203324,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi"
+    },
+    {
+      "added_at": "2025-06-03 09:56:43",
+      "album": {
+        "name": "In Limerence",
+        "url": "https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "duration_ms": 247360,
+      "name": "Zathura",
+      "url": "https://open.spotify.com/track/6Islqc8DcHVE9adCyoV3e4"
     }
   ],
   "unique_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",

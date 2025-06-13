@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 12 Jun 03:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 13 Jun 03:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -1770,6 +1770,24 @@
       "duration_ms": 235443,
       "name": "A Line in the Dust",
       "url": "https://open.spotify.com/track/1WPijMCbMHyodBdwBQj12P"
+    },
+    {
+      "album": {
+        "name": "A Little Love",
+        "url": "https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187958,
+      "name": "A Little Love",
+      "url": "https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci"
     },
     {
       "album": {
@@ -4646,7 +4664,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 173791,
       "name": "And a Big Load",
       "url": "https://open.spotify.com/track/5mxDaiHCQ4btY3slwG5l5b"
@@ -11958,7 +11976,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 193993,
       "name": "Breakaway",
       "url": "https://open.spotify.com/track/4l4ZcaqSRHe0gq10eIPFzJ"
@@ -18460,7 +18478,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 195394,
       "name": "Crying Over Nothing",
       "url": "https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx"
@@ -20030,7 +20048,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 248000,
       "name": "DEAD",
       "url": "https://open.spotify.com/track/6r2VHQDYBLFnuBqzE0V2Or"
@@ -25371,6 +25389,24 @@
     },
     {
       "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/0c0rEkRnhINRrpxGc9cOEe"
+      },
+      "artists": [
+        {
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 521517,
+      "name": "Environmental Catastrophe Film",
+      "url": "https://open.spotify.com/track/2obTmxuKn1149c80PC5LDb"
+    },
+    {
+      "album": {
         "name": "Enything",
         "url": "https://open.spotify.com/album/5dOyFR717iZJDNeOoWtHQj"
       },
@@ -29830,6 +29866,24 @@
       "duration_ms": 160687,
       "name": "Forgiving",
       "url": "https://open.spotify.com/track/4Suzf2e7cS5K1aj3tLiwGv"
+    },
+    {
+      "album": {
+        "name": "FORGONE",
+        "url": "https://open.spotify.com/album/4z5LoF2II3rbRUo1cCHZaD"
+      },
+      "artists": [
+        {
+          "name": "Quadeca",
+          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474662,
+      "name": "FORGONE",
+      "url": "https://open.spotify.com/track/6LfLoYQHYaj6E7jlNj0SlN"
     },
     {
       "album": {
@@ -42076,7 +42130,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 233307,
       "name": "Incomprehensible",
       "url": "https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v"
@@ -46176,6 +46230,24 @@
       "duration_ms": 249560,
       "name": "Lately",
       "url": "https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K"
+    },
+    {
+      "album": {
+        "name": "Latency",
+        "url": "https://open.spotify.com/album/1klo3EP0w6QR8MhD27AWG0"
+      },
+      "artists": [
+        {
+          "name": "Lexa Gates",
+          "url": "https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145464,
+      "name": "Latency",
+      "url": "https://open.spotify.com/track/4dj9ZNAgq4Vfll0sG2e993"
     },
     {
       "album": {
@@ -50558,7 +50630,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 161553,
       "name": "Magic, Alive!",
       "url": "https://open.spotify.com/track/4TYMwYxRfhcqWfxe7zbThu"
@@ -80117,6 +80189,24 @@
     },
     {
       "album": {
+        "name": "The Contract",
+        "url": "https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "The Contract",
+      "url": "https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG"
+    },
+    {
+      "album": {
         "name": "The Dance (Edit)",
         "url": "https://open.spotify.com/album/1L9zaCXBuMIVhaoAmbsCup"
       },
@@ -82382,6 +82472,24 @@
       "duration_ms": 199720,
       "name": "Thick Of It All",
       "url": "https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w"
+    },
+    {
+      "album": {
+        "name": "Things We Tell Ourselves in the Dark",
+        "url": "https://open.spotify.com/album/0J1TitAZbF26QIUOph9g0a"
+      },
+      "artists": [
+        {
+          "name": "Between The Buried And Me",
+          "url": "https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479040,
+      "name": "Things We Tell Ourselves in the Dark",
+      "url": "https://open.spotify.com/track/11vfybG0WzUXPwLYZXN8b6"
     },
     {
       "album": {

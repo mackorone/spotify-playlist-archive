@@ -2,9 +2,9 @@
 
 ### [Indie Update](https://open.spotify.com/playlist/37i9dQZF1DXbBKF9yWSvWR)
 
-> Weekly update for Indie releases\. Cover: <a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a>\-artist Hiqpy
+> Weekly update for Indie releases\. Cover: Sylvie Kreusch
 
-463 songs - 1 day 2 hr 53 min
+464 songs - 1 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Clams Casino](https://open.spotify.com/track/552CHpr378s87EoEt92aYv) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [My Light, My Destroyer](https://open.spotify.com/album/5Px8e7X2ohQr0Tf3a73oLJ) | 3:26 | 2024-07-26 | 2024-10-24 |
 | [Clean Heart](https://open.spotify.com/track/1tO3ZKiyVPOnEIwYTfD7PS) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Clean Heart](https://open.spotify.com/album/4PBjg8iIHZH283BSRNIszV) | 3:52 | 2025-03-28 | 2025-06-06 |
 | [Closing Time \(feat\. Cape Sleep\)](https://open.spotify.com/track/7rKMKQJEibx6CID2EJ8gtk) | [Remy Van Kesteren](https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE), [Cape Sleep](https://open.spotify.com/artist/59p3YuZWUKjBcwSpeAB9x4) | [Closing Time \(feat\. Cape Sleep\)](https://open.spotify.com/album/0pzHtPZa5bwWLBeTqDLoxm) | 3:04 | 2024-10-23 | 2025-01-10 |
+| [Cloud 9](https://open.spotify.com/track/7j8cb81XleLLI0EgZrC8IY) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Cloud 9](https://open.spotify.com/album/5TeElTBJp322uhxfCCKayC) | 4:47 | 2025-06-12 |  |
 | [Comet](https://open.spotify.com/track/55PRSh89wEGEg28BtkeEnh) | [Marta Arpini](https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8) | [Comet](https://open.spotify.com/album/5uDionvu3zPHU1zrNhXLXx) | 3:50 | 2025-01-23 | 2025-04-05 |
 | [confused](https://open.spotify.com/track/5mVD6EqHjznlT9vjOQV2bA) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [confused](https://open.spotify.com/album/3BBLwN3zv6PHbJiSTosUog) | 3:25 | 2024-08-30 | 2024-12-03 |
 | [Confused Kids](https://open.spotify.com/track/78QoSOKOC9p5iJgxLq3203) | [Future Husband](https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI) | [Confused Kids](https://open.spotify.com/album/6xn3au00GLnkJw3zYjHcG9) | 3:39 | 2025-05-01 |  |

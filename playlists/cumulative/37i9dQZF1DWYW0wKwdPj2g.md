@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Minister GUC
 
-237 songs - 1 day 7 hr 29 min
+238 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [The Birthing \- Live](https://open.spotify.com/track/43WCDcOYP52dUGtbivUhZa) | [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN) | [The Birthing \(Live\)](https://open.spotify.com/album/0BKj2PB1oyXMqTY0LyP7fK) | 6:08 | 2024-06-21 | 2024-11-15 |
 | [The Greater One \- Live](https://open.spotify.com/track/4flFxEhEkewMqbCGSA3BFE) | [Promise Benson](https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28), [Ema Onyx](https://open.spotify.com/artist/6Cnb464ggB0K5HuPfeci5F) | [The Greater One \(Live\)](https://open.spotify.com/album/5vf9ZhUKJgaUM4QmOalVdg) | 5:43 | 2025-04-11 | 2025-05-09 |
 | [The Promise \- Live](https://open.spotify.com/track/0YR3pGDBoLNUvGoMaIy7Gd) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN), [David & Nicole Binion](https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Promise \(Live\)](https://open.spotify.com/album/3hXqMc5jD5B9P6RnZpG5Vz) | 10:50 | 2024-02-23 | 2024-11-22 |
+| [The Reason \- Live](https://open.spotify.com/track/6lWEDYrm4CXpfMCHYQOu9n) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd), [The Remnant](https://open.spotify.com/artist/1hpPyofpQgZVXFftbcehka) | [The Reason](https://open.spotify.com/album/2VeoT5lhd5WAE2YYri6ZqL) | 11:18 | 2025-06-13 |  |
 | [The River of God \(Spontaneous Worship\)](https://open.spotify.com/track/6Su3RQXSE6EM0Y7yjP2ZdB) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d), [Favour oke](https://open.spotify.com/artist/0qf4ZwhKZa94xhVHi1n1RJ), [Divine Dambo](https://open.spotify.com/artist/1O08svmPNmRwqRTwD6SBD1) | [The River of God \(Spontaneous Worship\)](https://open.spotify.com/album/5zIhyUluaJE2VEOTW95ofy) | 4:14 | 2024-08-23 | 2024-11-22 |
 | [The Whole Earth Will See \(A.K.A\. America Will See\) \- Live](https://open.spotify.com/track/5K5MC4N7ssLISfrZxsR77c) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Revival Today Worship](https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1) | [The Whole Earth Will See \(A.K.A\. America Will See\) \[Live\]](https://open.spotify.com/album/5KQVYUBgdMMJHinwxwN9h2) | 5:48 | 2024-07-26 | 2024-11-15 |
 | [There Is No One Like You \- Live](https://open.spotify.com/track/7F8lQye04abqZZGij3meR6) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [There Is No One Like You \(Live\)](https://open.spotify.com/album/6AyUiJe2Lac5IV8Q9hpanp) | 9:07 | 2024-12-27 | 2025-02-28 |
@@ -235,7 +236,7 @@
 | [Yeshua \- Live from London](https://open.spotify.com/track/1cZFDOXK1aEEsUeagFnlRC) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Yeshua \(Live from London\)](https://open.spotify.com/album/6ZHUF2m9rL5rVTKwSykbbI) | 4:11 | 2025-04-11 | 2025-05-16 |
 | [Yesu Wena UnguMhlobo \- Live](https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 23 \- Live at the CTICC Cape Town](https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj) | 5:49 | 2024-02-23 |  |
 | [You Are Good \(Live\)](https://open.spotify.com/track/0QxBzysFWqcmyIZtJM2B3s) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [You Are Good \(Live\)](https://open.spotify.com/album/0eOUqWmOTdPZ8fxnhedGhP) | 4:34 | 2024-05-31 | 2024-11-01 |
-| [You Are Good \(Ulungile\)](https://open.spotify.com/track/0xZUjAyA70MKOGSfmvpFJV) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [You Are Good \(Ulungile\)](https://open.spotify.com/album/4coB6IecMPaHUaVGfkNp2E) | 15:12 | 2025-05-30 |  |
+| [You Are Good \(Ulungile\)](https://open.spotify.com/track/0xZUjAyA70MKOGSfmvpFJV) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [You Are Good \(Ulungile\)](https://open.spotify.com/album/4coB6IecMPaHUaVGfkNp2E) | 15:12 | 2025-05-30 | 2025-06-13 |
 | [You Are Good \- Live](https://open.spotify.com/track/03NNHDxp1STE3X6NOSro29) | [Jestero Music](https://open.spotify.com/artist/01KQSXIeFMuUxN2JXwjTXj) | [You Are Good \(Live\)](https://open.spotify.com/album/7ILFjqq8imdHe8kFNrGjjF) | 8:13 | 2024-12-20 | 2025-01-31 |
 | [You Are Here \- Live](https://open.spotify.com/track/0O5gv3GXR0CACUU2RMPQBu) | [FIDEL E\. William](https://open.spotify.com/artist/3ZtLx9dt1d6OMirAEMMToe) | [You Are Here \(Live\)](https://open.spotify.com/album/4ohxMX3C1PR5OkO5vVsEbf) | 5:08 | 2024-09-13 | 2024-11-15 |
 | [You Are Worthy](https://open.spotify.com/track/3agNg2Dsn2LpHO9i0M112R) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Yes And Amen](https://open.spotify.com/album/31Zvl6ebdEQwBfqju54Ji0) | 6:45 | 2024-02-23 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 
 > Laid\-back beats for an easygoing morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,357 likes - 265 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,474 likes - 265 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 30 | [Paper Kites](https://open.spotify.com/track/6OVR1eAheHHPaiQVka10Mg) | [Loose Principles](https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk) | [Paper Kites](https://open.spotify.com/album/2aw3cgdHzSrknrSdyYqhHp) | 2:18 |
 | 31 | [Soft Shadows](https://open.spotify.com/track/7DXIGDvTUP2JO1NEh02f2h) | [Jesse Houghton](https://open.spotify.com/artist/7LuufjFkjNN1Qwol9eOBvq) | [Soft Shadows](https://open.spotify.com/album/1p1bSDLIrNgYETMjggQqzf) | 2:35 |
 | 32 | [Hazy Horizon](https://open.spotify.com/track/6hce4cL0T2E4eY7S0a0lxT) | [Name Goes Here](https://open.spotify.com/artist/2A9l28mcw3mO8SSrusXyLs) | [Hazy Horizon](https://open.spotify.com/album/7t4Y0poeFjRvK7Ty3A987z) | 2:29 |
-| 33 | [Hotel Alone](https://open.spotify.com/track/7CcQusLaSL89fV4kpYZRGn) | [Anastasia Kai](https://open.spotify.com/artist/67le5cHO1LTvFvZgloqUj2) | [Hotel Alone](https://open.spotify.com/album/14NtO2jCEibHC40do69GG5) | 2:19 |
+| 33 | [Hotel Alone](https://open.spotify.com/track/7CcQusLaSL89fV4kpYZRGn) | [A\. Kai](https://open.spotify.com/artist/3TJ4tfMVUnp8Gi252wHE4e) | [Hotel Alone](https://open.spotify.com/album/14NtO2jCEibHC40do69GG5) | 2:19 |
 | 34 | [benice](https://open.spotify.com/track/0n5px9dEnPHgNMEJk8F2MH) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [benice](https://open.spotify.com/album/0orBbi62RzgLybgEdzxZm8) | 2:22 |
 | 35 | [shanghai tower](https://open.spotify.com/track/0BBtNOB7ofrOJ9PLM74EQn) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [shanghai tower](https://open.spotify.com/album/4ds0B84aCLuJkq15R8iT3O) | 2:17 |
 | 36 | [Let’s back that up](https://open.spotify.com/track/6qB6Tf93CQyItAywIUfusl) | [Ryu Riders](https://open.spotify.com/artist/6fFCaxTslIKjpEj3pGB4B8) | [Let’s back that up](https://open.spotify.com/album/3lD0APreTYsNXr0qli3Qdq) | 2:06 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 70 | [Days to Come](https://open.spotify.com/track/7CJ5MPvYa6Hcuz050BDW9F) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Days to Come](https://open.spotify.com/album/37mH8rqJLln47F6qdDssfW) | 2:27 |
 | 71 | [Night Reading](https://open.spotify.com/track/1VvsKJlG5hRwRIxnh4dlZw) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr), [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Night Reading](https://open.spotify.com/album/3vqnIwMbUNn9kmSJcXxt7n) | 2:24 |
 | 72 | [marzipan shuffle](https://open.spotify.com/track/5wdv54IxFDvxTjln9p9P17) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [marzipan shuffle](https://open.spotify.com/album/0uBNw4DJM0MPKqwg8EcYCF) | 2:36 |
-| 73 | [Green Coco](https://open.spotify.com/track/5lQhlSIPhc0x7VQ2cPLe6P) | [Alana Coello](https://open.spotify.com/artist/2el9nQDcHdJ1kFvoMPz1KT) | [Green Coco](https://open.spotify.com/album/5Jz1CJwWTof9wJnC1a7Usq) | 2:53 |
+| 73 | [Green Coco](https://open.spotify.com/track/5lQhlSIPhc0x7VQ2cPLe6P) | [A\. Coello](https://open.spotify.com/artist/325vdBiVSBe3JBw893z9Eg) | [Green Coco](https://open.spotify.com/album/5Jz1CJwWTof9wJnC1a7Usq) | 2:53 |
 | 74 | [Now](https://open.spotify.com/track/4VixPNMZMDJ9qV0KUUuxBf) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [Now](https://open.spotify.com/album/3mSLe7fzKHHVpGxfy4Z4oG) | 2:07 |
 | 75 | [Lost in the Mail](https://open.spotify.com/track/0AcP7ZjBbHvZoIrk9SJPvP) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Lost in the Mail](https://open.spotify.com/album/4hhkf43EaxjUsYO9pF9OgV) | 2:22 |
 | 76 | [Sunbeams](https://open.spotify.com/track/2Ocxcmy2bNgQDZGdeXHoWK) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif) | [Memories Fade](https://open.spotify.com/album/6xy1UZaJLQx3TugF3i0AUU) | 1:54 |

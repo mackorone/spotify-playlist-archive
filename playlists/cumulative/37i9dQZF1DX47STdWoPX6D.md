@@ -4,7 +4,7 @@
 
 > The latest and the greatest of CHH!  Cover: Childlike CiCi
 
-642 songs - 1 day 5 hr 25 min
+643 songs - 1 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [All Of Me](https://open.spotify.com/track/0J9zGbLSeAZGT4tSLQR0A6) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [2 pack](https://open.spotify.com/album/2UUPuGl71vicFykzZ75r3h) | 3:09 | 2025-05-09 |  |
 | [All We Do Is Win](https://open.spotify.com/track/5mAkhECaD84xyV7xrakEeY) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [All We Do Is Win](https://open.spotify.com/album/5PyfHm6Xco7fpljbk3Xh5j) | 3:00 | 2024-10-18 | 2025-01-18 |
 | [Already Won](https://open.spotify.com/track/0lNQ252bzMhPYqbgk7PVp5) | [C4 Crotona](https://open.spotify.com/artist/1WlJORCWCG2F0TBI4sReri), [Datin](https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4), [Reece Lache’](https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe) | [Already Won](https://open.spotify.com/album/6hh0icjQ17hVcPqqRXH6hD) | 2:31 | 2025-06-09 |  |
+| [Alright](https://open.spotify.com/track/3yrhr8lDXzx83tfhwvp7wy) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Baby Truth](https://open.spotify.com/artist/3JSZUZkyZbG583ywTOr4tD) | [Alright](https://open.spotify.com/album/3SHL8OJzYcVZxStR0NOH1c) | 3:19 | 2025-06-09 |  |
 | [Alright Alright](https://open.spotify.com/track/2ozNKR7utR3wKfa2thOPXX) | [King Chav](https://open.spotify.com/artist/1e5ZIHiMERAHN9fsK3sdGt) | [Alright Alright](https://open.spotify.com/album/0bJtgkkFTMNQdCO196S08v) | 2:12 | 2025-02-21 |  |
 | [Amazing](https://open.spotify.com/track/4mPdrJA4h0txHWUYQqozw7) | [Nashbi](https://open.spotify.com/artist/73mUf7Xm41sGYVWOMSt9qZ), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Amazing](https://open.spotify.com/album/0aXpeLU03p6F9X1L6k7FVU) | 3:06 | 2025-01-11 | 2025-02-01 |
 | [Amazing Grace](https://open.spotify.com/track/2tPNIBuvukYxrWvfGNw8Rw) | [TKE3](https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci) | [Autumn Archives](https://open.spotify.com/album/4HaWXGWhO2ETId0Cz9l4eD) | 2:04 | 2024-10-25 | 2025-01-18 |

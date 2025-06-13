@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs8I62NcHks.md) - [plain]
 
 > All of your Disney Favorites in one playlist, including new music from Disney's Lilo & Stitch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,071,554 likes - 128 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,071,555 likes - 128 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

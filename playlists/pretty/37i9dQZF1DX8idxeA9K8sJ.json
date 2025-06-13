@@ -1,6 +1,6 @@
 {
   "description": "Recuerda los \u00e9xitos ochenteros que sonaron en la radio mexicana. Flans en portada.",
-  "num_followers": 999916,
+  "num_followers": 1000139,
   "original_name": "Los 80 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "\"Miguel\"",
-        "url": "https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 251226,
-      "name": "Morir de Amor",
-      "url": "https://open.spotify.com/track/6RWXqBgjdLyAVFnJbyPCR8"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Personalidad",
         "url": "https://open.spotify.com/album/7KvMyEYFd70S7ywbxhzleY"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 188106,
       "name": "A Esa",
       "url": "https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "\"Miguel\"",
+        "url": "https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 251226,
+      "name": "Morir de Amor",
+      "url": "https://open.spotify.com/track/6RWXqBgjdLyAVFnJbyPCR8"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD"
-      },
-      "artists": [
-        {
-          "name": "Miguel Mateos - Zas",
-          "url": "https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Atado a un Sentimiento",
-      "url": "https://open.spotify.com/track/3saHmHGSuye9ysBOlv3Pkx"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Rocio Durcal Canta A Juan Gabriel",
         "url": "https://open.spotify.com/album/21Ju1SwSaCZHkWtZh1dEyX"
       },
@@ -1151,18 +1135,34 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Puro Rock",
-        "url": "https://open.spotify.com/album/2HXxumPCyqtjOaw7G3bACs"
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD"
       },
       "artists": [
         {
-          "name": "Kenny y los El\u00e9ctricos",
-          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
+          "name": "Miguel Mateos - Zas",
+          "url": "https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6"
         }
       ],
-      "duration_ms": 227066,
-      "name": "No Huyas De Mi",
-      "url": "https://open.spotify.com/track/6UBl1NDlUjc4vU3tXr3oQz"
+      "duration_ms": 197000,
+      "name": "Atado a un Sentimiento",
+      "url": "https://open.spotify.com/track/3saHmHGSuye9ysBOlv3Pkx"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Daniela Romo",
+        "url": "https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153"
+      },
+      "artists": [
+        {
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+        }
+      ],
+      "duration_ms": 161026,
+      "name": "Celos",
+      "url": "https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Daniela Romo",
-        "url": "https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153"
+        "name": "Puro Rock",
+        "url": "https://open.spotify.com/album/2HXxumPCyqtjOaw7G3bACs"
       },
       "artists": [
         {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+          "name": "Kenny y los El\u00e9ctricos",
+          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
         }
       ],
-      "duration_ms": 161026,
-      "name": "Celos",
-      "url": "https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG"
+      "duration_ms": 227066,
+      "name": "No Huyas De Mi",
+      "url": "https://open.spotify.com/track/6UBl1NDlUjc4vU3tXr3oQz"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
+        "name": "Un Hombre Discreto",
+        "url": "https://open.spotify.com/album/7MASmAxzjt1vBQqMcwrjtM"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 208333,
+      "name": "Para Amarnos M\u00e1s",
+      "url": "https://open.spotify.com/track/4bkP33ihkdl6CQVpzAYD5L"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
         "name": "Duri Duri",
         "url": "https://open.spotify.com/album/1OzXRIl2GY8sB0o8peOXg5"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 294870,
       "name": "Duri Duri (Baila Baila)",
       "url": "https://open.spotify.com/track/7ft4Kl0QcL5no8eTGtod39"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "La Ley Del Desierto",
-        "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
-      },
-      "artists": [
-        {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "Escuela de Calor",
-      "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
+        "name": "La Ley Del Desierto",
+        "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
+      },
+      "artists": [
+        {
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "Escuela de Calor",
+      "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
         "name": "Rock En Espanol - Lo Mejor De Los Amantes De Lola",
         "url": "https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 263506,
       "name": "Yo No Me Llamo Javier",
       "url": "https://open.spotify.com/track/4bus2q9CQeh0c4qboNWJTz"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
-        "name": "Un Hombre Discreto",
-        "url": "https://open.spotify.com/album/7MASmAxzjt1vBQqMcwrjtM"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 208333,
-      "name": "Para Amarnos M\u00e1s",
-      "url": "https://open.spotify.com/track/4bkP33ihkdl6CQVpzAYD5L"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n (CD2)",
-        "url": "https://open.spotify.com/album/33Ng6NDvjCn5FfWN14Z3F5"
-      },
-      "artists": [
-        {
-          "name": "Laureano Brizuela",
-          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
-        }
-      ],
-      "duration_ms": 242693,
-      "name": "Enamorandonos (Just Like Starting Over)",
-      "url": "https://open.spotify.com/track/1hbk34GiyNamnyGtKLe44U"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Chayanne",
         "url": "https://open.spotify.com/album/5aabwyD2EqwA17390Og3Ff"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 224733,
       "name": "Fiesta En Am\u00e9rica",
       "url": "https://open.spotify.com/track/5x6K9Bz1StBFAWTNMRAwmn"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n (CD2)",
+        "url": "https://open.spotify.com/album/33Ng6NDvjCn5FfWN14Z3F5"
+      },
+      "artists": [
+        {
+          "name": "Laureano Brizuela",
+          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
+        }
+      ],
+      "duration_ms": 242693,
+      "name": "Enamorandonos (Just Like Starting Over)",
+      "url": "https://open.spotify.com/track/1hbk34GiyNamnyGtKLe44U"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/20jzOl6wKNK5KB7Kj1WU58"
-      },
-      "artists": [
-        {
-          "name": "Laureano Brizuela",
-          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
-        }
-      ],
-      "duration_ms": 234546,
-      "name": "Amandote",
-      "url": "https://open.spotify.com/track/4FNzQAFYz8A2a7k5cyn3E2"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Siempre Karina",
         "url": "https://open.spotify.com/album/0vE7XNJLZOIl43AVxNDlT6"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 235760,
       "name": "A Quien",
       "url": "https://open.spotify.com/track/3mhByMk8Y2JtD6Vl1WfWKa"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/20jzOl6wKNK5KB7Kj1WU58"
+      },
+      "artists": [
+        {
+          "name": "Laureano Brizuela",
+          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
+        }
+      ],
+      "duration_ms": 234546,
+      "name": "Amandote",
+      "url": "https://open.spotify.com/track/4FNzQAFYz8A2a7k5cyn3E2"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Serie 3X4 (Yuri, Pandora, Daniela Roma)",
-        "url": "https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV"
-      },
-      "artists": [
-        {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
-        }
-      ],
-      "duration_ms": 183946,
-      "name": "Qu\u00e9 Te Pasa",
-      "url": "https://open.spotify.com/track/7nSgNsvgl5BtjDyysdlWEB"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Bye Mam\u00e1",
         "url": "https://open.spotify.com/album/4MCRdtCfDBVTTvre7X9gl0"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 257933,
       "name": "Bye Mam\u00e1",
       "url": "https://open.spotify.com/track/6qm9NgyyFpgOUT0wbZYRoZ"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Serie 3X4 (Yuri, Pandora, Daniela Roma)",
+        "url": "https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV"
+      },
+      "artists": [
+        {
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        }
+      ],
+      "duration_ms": 183946,
+      "name": "Qu\u00e9 Te Pasa",
+      "url": "https://open.spotify.com/track/7nSgNsvgl5BtjDyysdlWEB"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/6K9mQMZejVTCBsXs6wtizd"
+        "name": "Rocio Banquells",
+        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
       },
       "artists": [
         {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+          "name": "Rocio Banquells",
+          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
         }
       ],
-      "duration_ms": 225466,
-      "name": "Solo \u00c9l Y Yo",
-      "url": "https://open.spotify.com/track/0G8zH9qCj0eXD55BAsNhTa"
+      "duration_ms": 251306,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/1SGYSOwGX3PPkJc5ihY2zp"
     }
   ],
   "unique_name": "Los 80 M\u00e9xico",

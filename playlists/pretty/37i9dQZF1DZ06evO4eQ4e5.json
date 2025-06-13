@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 84277,
+  "num_followers": 84287,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEd1gAAAAAB7CIhdekpZxUc2buU6R67N",
+  "snapshot_id": "aEjHAAAAAABVrlLazuvEBePO4GNZdCYV",
   "tracks": [
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Procuro Olvidarte",
-      "url": "https://open.spotify.com/track/3WEKXA7d90ycQpnFk2NaUH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Caricias del Cielo",
         "url": "https://open.spotify.com/album/2JdIUwPnMsr8ARYSsPrjnD"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 248026,
       "name": "Acost\u00fambrame al cielo",
       "url": "https://open.spotify.com/track/1SuRXVqyizsGWkb8Jm2DZu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Procuro Olvidarte",
+      "url": "https://open.spotify.com/track/3WEKXA7d90ycQpnFk2NaUH"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Costumbres",
-        "url": "https://open.spotify.com/album/3bIJ5PRH3frAvwjgRKVCTT"
+        "name": "Frente a ti",
+        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 259144,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/625ReH2UV67Qc466BptoAI"
+      "duration_ms": 239906,
+      "name": "Ya que voy a estar sin ti",
+      "url": "https://open.spotify.com/track/4iEqwsKkCYq2UGo0qCiG0P"
     },
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frente a ti",
-        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
+        "name": "Costumbres",
+        "url": "https://open.spotify.com/album/3bIJ5PRH3frAvwjgRKVCTT"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 239906,
-      "name": "Ya que voy a estar sin ti",
-      "url": "https://open.spotify.com/track/4iEqwsKkCYq2UGo0qCiG0P"
+      "duration_ms": 259144,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/625ReH2UV67Qc466BptoAI"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 229011,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/5tF9R2PKJHHpQJLZZDi9qm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emociones II",
         "url": "https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE"
       },
@@ -807,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Yo Quiera Has De Volver",
-        "url": "https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw"
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ"
       },
       "artists": [
         {
@@ -816,9 +800,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 212126,
-      "name": "Cuando Yo Quiera Has De Volver",
-      "url": "https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu"
+      "duration_ms": 229011,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/5tF9R2PKJHHpQJLZZDi9qm"
     },
     {
       "added_at": null,
@@ -839,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones de Amor y Sentimiento",
-        "url": "https://open.spotify.com/album/39mbS15BDr9xgth9egyADB"
+        "name": "Cuando Yo Quiera Has De Volver",
+        "url": "https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw"
       },
       "artists": [
         {
@@ -848,9 +832,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 218920,
-      "name": "El primero, el \u00fanico, el \u00faltimo",
-      "url": "https://open.spotify.com/track/5GjqiHdSs9wWcFsd9Vddeg"
+      "duration_ms": 212126,
+      "name": "Cuando Yo Quiera Has De Volver",
+      "url": "https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu"
     },
     {
       "added_at": null,
@@ -867,6 +851,22 @@
       "duration_ms": 254053,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/6kD9AsQ2mdGUu5DWM7l48u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones de Amor y Sentimiento",
+        "url": "https://open.spotify.com/album/39mbS15BDr9xgth9egyADB"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "El primero, el \u00fanico, el \u00faltimo",
+      "url": "https://open.spotify.com/track/5GjqiHdSs9wWcFsd9Vddeg"
     },
     {
       "added_at": null,

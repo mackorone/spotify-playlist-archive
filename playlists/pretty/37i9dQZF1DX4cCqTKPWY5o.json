@@ -1,6 +1,6 @@
 {
   "description": "Move it and groove it to these great tunes!",
-  "num_followers": 186463,
+  "num_followers": 186473,
   "original_name": "Family Dance Party",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-01-27 22:34:05",
       "album": {
+        "name": "Shinin' On (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Z0J6OrdQQjFXtqBW0XXsA"
+      },
+      "artists": [
+        {
+          "name": "Grand Funk Railroad",
+          "url": "https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "The Loco-Motion - Remastered 2002",
+      "url": "https://open.spotify.com/track/0PxYWaGiwWtcuL1VIMiEW4"
+    },
+    {
+      "added_at": "2025-01-27 22:34:05",
+      "album": {
         "name": "Sing (Original Motion Picture Soundtrack / Deluxe)",
         "url": "https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 162720,
       "name": "Faith - From \"Sing\" Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/1Ol9VB4eBkSuM9sghD4lgP"
-    },
-    {
-      "added_at": "2025-01-27 22:34:05",
-      "album": {
-        "name": "Shinin' On (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Z0J6OrdQQjFXtqBW0XXsA"
-      },
-      "artists": [
-        {
-          "name": "Grand Funk Railroad",
-          "url": "https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI"
-        }
-      ],
-      "duration_ms": 165800,
-      "name": "The Loco-Motion - Remastered 2002",
-      "url": "https://open.spotify.com/track/0PxYWaGiwWtcuL1VIMiEW4"
     },
     {
       "added_at": "2025-01-27 22:34:05",

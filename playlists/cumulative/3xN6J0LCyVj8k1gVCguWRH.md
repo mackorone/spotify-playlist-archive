@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist.
 
-5,017 songs - 11 day 16 hr 52 min
+5,019 songs - 11 day 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1333,7 +1333,7 @@
 | [Española Way](https://open.spotify.com/track/1b1CowCegHe8N4vIMstOMQ) | [Samantha Leon](https://open.spotify.com/artist/2aRTIBInENSS7XoxsqyWmk) | [Mystic Lady](https://open.spotify.com/album/2TG3Ki0MTGyy2uGVGJsEU6) | 5:00 | 2022-07-15 | 2022-07-31 |
 | [Espera](https://open.spotify.com/track/7qEKZP3nOqWpEQlANPccOx) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Esperanza](https://open.spotify.com/album/7188JsHTl3rladofF7CVvW) | 4:38 | 2019-09-29\* | 2021-11-19 |
 | [Esperame](https://open.spotify.com/track/56tGBItLjlYxAmuKiPhdfN) | [GEO92](https://open.spotify.com/artist/2wgTTFPnWD42jJrfFIbByF), [JV Demon](https://open.spotify.com/artist/2mpnUYU2jKwMLphoLO5GJz) | [Entre el Amor y el Engaño](https://open.spotify.com/album/6Q7IQRrw7vAfNjFGdt3hMj) | 3:33 | 2025-04-30 | 2025-05-12 |
-| [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-29 |  |
+| [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-29 | 2025-06-13 |
 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 | 2021-07-12 | 2021-11-19 |
 | [Ethereal Mood](https://open.spotify.com/track/7fzMyMFoOtewaSSYYK7J8g) | [ERLY](https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I) | [Ethereal Mood](https://open.spotify.com/album/0Tnth2UeLvTchfO9z7cVCR) | 3:28 | 2024-06-16 | 2024-06-28 |
 | [Euphoria](https://open.spotify.com/track/5nYrALRnMuqCeqXl2oK2qh) | [Elephant Castle](https://open.spotify.com/artist/1B2xz3ZP0Vuezwk4gGhbkD) | [Euphoria](https://open.spotify.com/album/1VpTGuftlixn7vMVyfFTFU) | 2:48 | 2020-09-20 | 2020-10-08 |
@@ -1846,6 +1846,7 @@
 | [HATE ME TOO](https://open.spotify.com/track/5X98EHVzrOvOMnG735vATY) | [Ben Provencial](https://open.spotify.com/artist/5weUjhew3mKsYMtwxB2a0h) | [HATE ME TOO](https://open.spotify.com/album/55g6cMWkViVYMVfQUJmbCs) | 3:00 | 2022-11-11 | 2022-12-05 |
 | [haunted](https://open.spotify.com/track/0iOHFtsdJ5PsLhccXBRCCt) | [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US) | [haunted](https://open.spotify.com/album/6JD4jR7BhWNbDAvQDFE62d) | 3:43 | 2021-05-24 | 2021-06-01 |
 | [Haunted By Your Eyes](https://open.spotify.com/track/3oJvK5MgZ7XaldnsXRv5a2) | [GzLz](https://open.spotify.com/artist/00vGsdNJGPZRIb1Nula5TT) | [Faded Lights](https://open.spotify.com/album/6PT5QJEbIbeeC1XKU6DwrW) | 3:23 | 2024-08-28 | 2024-09-07 |
+| [Hawkeye](https://open.spotify.com/track/3gIrYW6un1yhQQmxDdkTsR) | [Olie Beckett](https://open.spotify.com/artist/4AaJ2UbAKlFR9y0r4P3kRS) | [Hawkeye](https://open.spotify.com/album/0cPGfNMSxS75lls8aY9a2w) | 2:34 | 2025-06-12 |  |
 | [Hazel Frustration](https://open.spotify.com/track/4YBd9sfsb6TDmzUfc53SOU) | [Kindelan](https://open.spotify.com/artist/56dee3PrGYcLKrq1z4XEyY) | [Hazel Frustration](https://open.spotify.com/album/6PBhIFFG8nfDDz5lhnBuB0) | 3:08 | 2022-11-16 | 2022-12-07 |
 | [Hazme rico \- voz femenina](https://open.spotify.com/track/5ZoYv9Uw3JSsJBzRSUjVrD) | [Don Imperio](https://open.spotify.com/artist/7rHH7hFgIDWqKfYU6J2mvn) | [Pupusita Cumbia Mix](https://open.spotify.com/album/2DarS0vxDZMbmr54oRkGDW) | 3:11 | 2025-01-18 | 2025-01-30 |
 | [HAZY 66](https://open.spotify.com/track/6BBQZtvDuZmOWao7J3gyvr) | [RC Peters](https://open.spotify.com/artist/4HGlZuZIfrckC4On0xBwip) | [Furlough](https://open.spotify.com/album/2WvccFuISlu7oyHwywdSGV) | 2:59 | 2022-07-01 | 2022-07-19 |
@@ -2728,6 +2729,7 @@
 | [Man on the Moon](https://open.spotify.com/track/0YcVUmvgHn60fPLWYvpFUU) | [KUILL](https://open.spotify.com/artist/2o4gS9VpXUWAqYBIDDSw3r) | [Man on the Moon](https://open.spotify.com/album/66P4F4NYeE28AnvG2psj2N) | 3:24 | 2022-01-07 | 2022-01-23 |
 | [Man or the Monster](https://open.spotify.com/track/5YSZvF8O18K7spKWEjO2jl) | [Liza Jane](https://open.spotify.com/artist/6EzV5mGHnMPZHlpOf5MiuZ), [StoneBridge](https://open.spotify.com/artist/1jpQ5Xepnpx5YAqKQITP4A) | [Man or the Monster](https://open.spotify.com/album/6xUeQScfIEGSQwEG6pJC56) | 2:26 | 2024-03-02 | 2024-03-14 |
 | [Manage It](https://open.spotify.com/track/7KMOeGZFVtDvvBzwGQiImO) | [Dejour](https://open.spotify.com/artist/2qPE1cHelmMHiIqKHhQdK4), [DRE DAY](https://open.spotify.com/artist/2giWn6C9alX1vxpUyz0YAB), [Cymatic Audio](https://open.spotify.com/artist/4uEA51V5aoI3LESvg5aZjH) | [Manage It](https://open.spotify.com/album/50ZiEU9uqPmqJ4KKIWlFBd) | 2:34 | 2024-05-10 | 2024-05-22 |
+| [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-12 |  |
 | [Many Times](https://open.spotify.com/track/63EUqnpcphhZh8SbXagArw) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 2:06 | 2022-07-26 | 2024-04-30 |
 | [Mar y Sol](https://open.spotify.com/track/2CBJr7bY7kRqqouFjeH6Jb) | [Louie Rubio](https://open.spotify.com/artist/3vl3HfodbBg1UY2FYVMbGU) | [Mar y Sol](https://open.spotify.com/album/2yEzv8mhcwwJQqrbQaouA7) | 4:25 | 2023-05-26 | 2023-06-17 |
 | [Maracujá](https://open.spotify.com/track/5nNfDIbkqaXE8Gdv6r96um) | [Aramà](https://open.spotify.com/artist/2M2lDprCQRdjvgo0yDsdTD) | [Maracujá](https://open.spotify.com/album/7LnA8vbZg6PatV8CoMctQJ) | 2:44 | 2021-01-08 | 2021-01-23 |

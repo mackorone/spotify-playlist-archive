@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 428736,
+  "num_followers": 428762,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-06-07 09:14:04",
       "album": {
-        "name": "Naranja Para\u00edso",
-        "url": "https://open.spotify.com/album/60pnmUd6TxVl3cABofrNFI"
-      },
-      "artists": [
-        {
-          "name": "Blackpanda",
-          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
-        }
-      ],
-      "duration_ms": 258285,
-      "name": "Naranja Para\u00edso",
-      "url": "https://open.spotify.com/track/2IMlhZ6Sxse3z7ghzRO7qc"
-    },
-    {
-      "added_at": "2025-06-07 09:14:04",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2025-06-07 09:14:04",
       "album": {
-        "name": "Footprints I Found",
-        "url": "https://open.spotify.com/album/5bXx1ncSvWPtNAuecQgsHf"
+        "name": "Naranja Para\u00edso",
+        "url": "https://open.spotify.com/album/60pnmUd6TxVl3cABofrNFI"
       },
       "artists": [
         {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+          "name": "Blackpanda",
+          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
         }
       ],
-      "duration_ms": 179173,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/40dfo65kBJa1UgzkD652Gl"
+      "duration_ms": 258285,
+      "name": "Naranja Para\u00edso",
+      "url": "https://open.spotify.com/track/2IMlhZ6Sxse3z7ghzRO7qc"
     },
     {
       "added_at": "2025-06-07 09:14:04",
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2025-06-07 09:14:04",
       "album": {
+        "name": "Footprints I Found",
+        "url": "https://open.spotify.com/album/5bXx1ncSvWPtNAuecQgsHf"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 179173,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/40dfo65kBJa1UgzkD652Gl"
+    },
+    {
+      "added_at": "2025-06-07 09:14:04",
+      "album": {
         "name": "Casual",
         "url": "https://open.spotify.com/album/0znE3YZtxAkMXevh2LYkYC"
       },
@@ -1307,6 +1307,22 @@
       "duration_ms": 170773,
       "name": "Suspicious Minds",
       "url": "https://open.spotify.com/track/2OCgVQoRYmBAedBkUSQpjF"
+    },
+    {
+      "added_at": "2025-06-07 09:14:04",
+      "album": {
+        "name": "Hold Your Head Up High",
+        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "Hold Your Head Up High",
+      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
     },
     {
       "added_at": "2025-06-07 09:14:04",
@@ -1339,22 +1355,6 @@
       "duration_ms": 190754,
       "name": "Una y otra vez",
       "url": "https://open.spotify.com/track/7jBP3I3IuxxPEvbsBJypdZ"
-    },
-    {
-      "added_at": "2025-06-07 09:14:04",
-      "album": {
-        "name": "Hold Your Head Up High",
-        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "Hold Your Head Up High",
-      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
     },
     {
       "added_at": "2025-06-07 09:14:04",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2025-06-07 09:14:04",
       "album": {
+        "name": "Caf\u00e9 Acoustic Session (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2A1S0jZ4Xbmue6lq4GSLuW"
+      },
+      "artists": [
+        {
+          "name": "Vinyl Hotel",
+          "url": "https://open.spotify.com/artist/0cL5BDthYmHa4fUYkRNe6h"
+        }
+      ],
+      "duration_ms": 177854,
+      "name": "Renegades - Acoustic Version",
+      "url": "https://open.spotify.com/track/57BrLjdnIbUTnTVXBJIBAM"
+    },
+    {
+      "added_at": "2025-06-07 09:14:04",
+      "album": {
         "name": "La Pena Vuela (VMG)",
         "url": "https://open.spotify.com/album/2HBnc7C7JSw1H3PJR5iNcb"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 154842,
       "name": "La Pena Vuela (VMG)",
       "url": "https://open.spotify.com/track/65yD11M9keuQoajWuLMb9M"
-    },
-    {
-      "added_at": "2025-06-07 09:14:04",
-      "album": {
-        "name": "Caf\u00e9 Acoustic Session (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2A1S0jZ4Xbmue6lq4GSLuW"
-      },
-      "artists": [
-        {
-          "name": "Vinyl Hotel",
-          "url": "https://open.spotify.com/artist/0cL5BDthYmHa4fUYkRNe6h"
-        }
-      ],
-      "duration_ms": 177854,
-      "name": "Renegades - Acoustic Version",
-      "url": "https://open.spotify.com/track/57BrLjdnIbUTnTVXBJIBAM"
     },
     {
       "added_at": "2025-06-07 09:14:04",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-06-07 09:14:04",
       "album": {
-        "name": "M\u00e1ndame una se\u00f1al",
-        "url": "https://open.spotify.com/album/4x8icqp6ellxFGhDzSBC2r"
-      },
-      "artists": [
-        {
-          "name": "Rebe",
-          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
-        }
-      ],
-      "duration_ms": 260152,
-      "name": "M\u00e1ndame una se\u00f1al",
-      "url": "https://open.spotify.com/track/68eNGXDct8WTVLk9v0Oar8"
-    },
-    {
-      "added_at": "2025-06-07 09:14:04",
-      "album": {
         "name": "Fuegos Artificiales",
         "url": "https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 178434,
       "name": "Fuegos Artificiales",
       "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
+    },
+    {
+      "added_at": "2025-06-07 09:14:04",
+      "album": {
+        "name": "M\u00e1ndame una se\u00f1al",
+        "url": "https://open.spotify.com/album/4x8icqp6ellxFGhDzSBC2r"
+      },
+      "artists": [
+        {
+          "name": "Rebe",
+          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
+        }
+      ],
+      "duration_ms": 260152,
+      "name": "M\u00e1ndame una se\u00f1al",
+      "url": "https://open.spotify.com/track/68eNGXDct8WTVLk9v0Oar8"
     },
     {
       "added_at": "2025-06-07 09:14:04",

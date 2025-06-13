@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Molly Tuttle
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,051 likes - 124 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,068 likes - 124 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 | 123 | [Tombstone Territory](https://open.spotify.com/track/2XEqVIiZMQG89nW31cKECP) | [High Horse](https://open.spotify.com/artist/0zH641V9myT89mx8JBn3O5), [Jacob Jolliff](https://open.spotify.com/artist/65gpYGwwgux5q7nr9mcxtr) | [Tombstone Territory](https://open.spotify.com/album/69IYyJ1dBCD1Y0UMperxXK) | 7:10 |
 | 124 | [Where the Road Goes](https://open.spotify.com/track/4Slx9h6g9FM7UI88x7NwTH) | [Songs From The Road Band](https://open.spotify.com/artist/5moOZhZ7mnRmBMqCZft93N) | [Where the Road Goes](https://open.spotify.com/album/3URSN1m7RUYFVoXKjN7eKW) | 3:01 |
 
-Snapshot ID: `aEJnzwAAAADRtVM43XkTzfFdHJH6g8rt`
+Snapshot ID: `aEJnzwAAAACusKiZgWYicDIxOVpyTFJW`

@@ -245,6 +245,28 @@
     },
     {
       "album": {
+        "name": "de vluGtlaan",
+        "url": "https://open.spotify.com/album/78zhc4bB3FYASBaDlilWC4"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ"
+        },
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268333,
+      "name": "ALS IK WAKKER WORD",
+      "url": "https://open.spotify.com/track/4EprCUJCCMXk6MbncUj10a"
+    },
+    {
+      "album": {
         "name": "Als Je Me Loslaat",
         "url": "https://open.spotify.com/album/19zvB5ueqojjM90lILpZ9M"
       },
@@ -2632,7 +2654,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 139917,
       "name": "READY!",
       "url": "https://open.spotify.com/track/5oQi3yIhmG09qf9vAN09qJ"

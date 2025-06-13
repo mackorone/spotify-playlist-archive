@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tq7CPNyNEM.md) - [plain]
 
 > "Remember who we are." Music from and inspired by Black Panther and Black Panther: Wakanda Forever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,307 likes - 57 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,302 likes - 57 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tq7CPNyNEM.md) - [plain]
 | 18 | [Inframundo](https://open.spotify.com/track/7u2cPWo0974RudXZKDmdmT) | [Blue Rojo](https://open.spotify.com/artist/4x9zOt693Z5NGiuxjOgFFJ) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:11 |
 | 19 | [No Digas Mi Nombre](https://open.spotify.com/track/1p9R4HF2WGtZDISBxMwF3R) | [Calle x Vida](https://open.spotify.com/artist/4nnXe6ziB1bhuKtsRUPVoz), [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:42 |
 | 20 | [Mi Pueblo](https://open.spotify.com/track/3c1YCQvr720s61gHPgtkv8) | [Guadalupe de Jesús Chan Poot](https://open.spotify.com/artist/2RRmC4JQr7v3ejOAwxTwp5) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:40 |
-| 21 | [All The Stars \(with SZA\)](https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) | 3:52 |
+| 21 | [All The Stars \(with SZA\) \- From "Black Panther: The Album"](https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) | 3:52 |
 | 22 | [The Ways \(with Swae Lee\)](https://open.spotify.com/track/5jyyPsIGM2yqkZN9R3TmvN) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) | 3:58 |
 | 23 | [Paramedic!](https://open.spotify.com/track/2tPcTFiQF9MbVUyjZ3zDhA) | [SOB X RBE](https://open.spotify.com/artist/2TImI3DW7o5MdRXJs4D37h) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) | 3:39 |
 | 24 | [King's Dead \(with Kendrick Lamar, Future & James Blake\)](https://open.spotify.com/track/1eLSF6HfrRA0AsNmTkUlKx) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) | 3:45 |

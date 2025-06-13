@@ -4488,7 +4488,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 301538,
       "name": "Ch\u00fang Ta C\u1ee7a Hi\u1ec7n T\u1ea1i",
       "url": "https://open.spotify.com/track/1J3SmWwlYAG68LGKr86MVH"
@@ -6900,7 +6900,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 233263,
       "name": "D\u00f9 Cho T\u1eadn Th\u1ebf",
       "url": "https://open.spotify.com/track/0oSc7X1uRQGuEqNRtXEeQL"
@@ -13426,7 +13426,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 191834,
       "name": "MOIEM",
       "url": "https://open.spotify.com/track/265hQASPY3HFmUH38zZrSK"
@@ -15614,7 +15614,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 260117,
       "name": "N\u01a1i N\u00e0y C\u00f3 Anh",
       "url": "https://open.spotify.com/track/5rSAUmbOg4giDrM29vUyHe"
@@ -21172,7 +21172,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 269021,
       "name": "Th\u1ee9c Gi\u1ea5c",
       "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
@@ -22427,6 +22427,44 @@
     },
     {
       "album": {
+        "name": "EM XINH \"SAY HI\", T\u1eacP 2",
+        "url": "https://open.spotify.com/album/1YqGzD01yNEGyh4shQ5LAh"
+      },
+      "artists": [
+        {
+          "name": "EM XINH \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/1I5CkmtLVWLUygTT3cLr5X"
+        },
+        {
+          "name": "Lyly",
+          "url": "https://open.spotify.com/artist/4POahBr8YCPNKGErIiofyx"
+        },
+        {
+          "name": "L\u00e2m B\u1ea3o Ng\u1ecdc",
+          "url": "https://open.spotify.com/artist/3E0b68wCGYihuHBtlasfm9"
+        },
+        {
+          "name": "Liu Grace",
+          "url": "https://open.spotify.com/artist/5DTQVDm1qjLUoAGC8v85c3"
+        },
+        {
+          "name": "Han Sara",
+          "url": "https://open.spotify.com/artist/7sI2avJ3MyFstC9oKNM7py"
+        },
+        {
+          "name": "DANMY",
+          "url": "https://open.spotify.com/artist/5PmlctqlVDrRrF8WNLSgva"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264041,
+      "name": "T\u1eeaNG",
+      "url": "https://open.spotify.com/track/4qaIt8XGSKAJND4OXd4hPe"
+    },
+    {
+      "album": {
         "name": "T\u1eebng L\u00e0",
         "url": "https://open.spotify.com/album/65MihXBPwne3POZrzkrrYv"
       },
@@ -22438,7 +22476,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 252500,
       "name": "T\u1eebng L\u00e0",
       "url": "https://open.spotify.com/track/2xOhv7XudrBDtkID1jwsFE"
@@ -22700,7 +22738,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 170666,
       "name": "Vai Lan Don Dua",
       "url": "https://open.spotify.com/track/6hUpxEKFSjS8metuA1yxlf"

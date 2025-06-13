@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Mother Mother
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,309 likes - 126 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,326 likes - 126 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 125 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 |
 | 126 | [Return of Youth](https://open.spotify.com/track/1Up0lG6k9NsBKs7hjJulCw) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Return of Youth](https://open.spotify.com/album/0rBtZug6roUoHxRSVCpPWC) | 7:38 |
 
-Snapshot ID: `aENp4AAAAAAvBuDhFDYOKKRFGRFBxcx7`
+Snapshot ID: `aENp4AAAAADdL60Au2cwQaA5na8aSJ4p`

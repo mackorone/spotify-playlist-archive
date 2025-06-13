@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t?si=zEuIA1S6SgW8IOr8GD0HFA">George FitzGerald</a>
 
-1,381 songs - 3 day 22 hr 15 min
+1,382 songs - 3 day 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -801,6 +801,7 @@
 | [Mio](https://open.spotify.com/track/6cl3amT9HIxuSYxNZnPmlY) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Mio](https://open.spotify.com/album/03cZqgLuOhAhpuFBiDP2AL) | 4:13 | 2023-05-24 | 2023-07-06 |
 | [Miquelon](https://open.spotify.com/track/5JSqCpiltF0Hu3UdgLrAVf) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo), [Nick Launay](https://open.spotify.com/artist/4lG71rnC7sx25oeByeSEYe) | [Miquelon](https://open.spotify.com/album/6dzheUJaRJxrA9tkkmO1uG) | 3:01 | 2024-01-22 | 2024-03-07 |
 | [Miracles](https://open.spotify.com/track/6kjo1sI3Vc1Q47Ppm6FYRh) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Miracles](https://open.spotify.com/album/04p480lq0Oye2DUWRg0LHW) | 3:44 | 2022-09-08 | 2022-10-21 |
+| [Miraverahí](https://open.spotify.com/track/324vekjzibUPl88T1vR4Tb) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Miraverahí](https://open.spotify.com/album/4MYPElQx0iEEaYH7uVz1cr) | 3:14 | 2025-06-12 |  |
 | [Molehills](https://open.spotify.com/track/3sm6GfmHISsEjJrPExmxqz) | [Arab Strap](https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN) | [I'm totally fine with it 👍 don't give a fuck anymore 👍](https://open.spotify.com/album/10OAPWpR7qXlxUbJlRhSFi) | 4:11 | 2024-05-15 | 2024-06-27 |
 | [Moments Die](https://open.spotify.com/track/19DhgwtEahVgIKQmZNVs9Y) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Moments Die](https://open.spotify.com/album/4g3THqLL3e4LQjglICSQl1) | 4:06 | 2024-04-18 | 2024-06-01 |
 | [Moments Die \- 1\-800 GIRLS Remix](https://open.spotify.com/track/7z6IjceFAK4Zw1qkIC2rKB) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g), [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [Moments Die \(1\-800 GIRLS Remix\)](https://open.spotify.com/album/1neIt7DVsdahqpmr7FMTyT) | 4:37 | 2024-05-30 | 2024-07-11 |

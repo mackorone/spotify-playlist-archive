@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,986 songs - 5 day 3 hr 29 min
+1,987 songs - 5 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -739,7 +739,7 @@
 | [Perfect World](https://open.spotify.com/track/0wbjzPFuDHLWQs3Aw0vRIH) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Perfect World EP](https://open.spotify.com/album/2pEkFJTFkRgN9CkpJ8mRwJ) | 3:42 | 2023-10-03 | 2024-01-07 |
 | [Perfect World!!](https://open.spotify.com/track/0sPg8OXjci08r3DpXH763U) | [PathTLive](https://open.spotify.com/artist/5vKv9YNyQoWhxIhYFsRF8Y) | [Perfect World!!](https://open.spotify.com/album/4KzmdvoNIWaixDdspBndkf) | 3:31 | 2023-10-03 | 2023-10-11 |
 | [Piercing the dawn of time](https://open.spotify.com/track/0xcgxihAa7z24vM0W8YZab) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Piercing the dawn of time](https://open.spotify.com/album/2MOH4POoX7n28RsM4EPhcG) | 3:09 | 2023-09-26 | 2023-11-08 |
-| [pineapple tart](https://open.spotify.com/track/180rOAutEwHBPg760j7Kp3) | [音羽\-otoha\-](https://open.spotify.com/artist/0FWjVS3rnr70HEuhNl0JjR) | [pineapple tart](https://open.spotify.com/album/2ZSXZ3uQq96tFQW1lwRB0z) | 3:49 | 2025-04-01 |  |
+| [pineapple tart](https://open.spotify.com/track/180rOAutEwHBPg760j7Kp3) | [音羽\-otoha\-](https://open.spotify.com/artist/0FWjVS3rnr70HEuhNl0JjR) | [pineapple tart](https://open.spotify.com/album/2ZSXZ3uQq96tFQW1lwRB0z) | 3:49 | 2025-04-01 | 2025-06-13 |
 | [PIZZA SUSHI planet walking](https://open.spotify.com/track/5lJHS8EfRTYSgw46g3YmV6) | [江口拓也](https://open.spotify.com/artist/7M4999xcRPjRunHN5lu9Oj) | [PIZZA SUSHI planet walking](https://open.spotify.com/album/7aigCG5fTuzU3uLCestYbj) | 3:16 | 2023-05-09 | 2023-05-24 |
 | [plan](https://open.spotify.com/track/1vTx59PSh5jHw2WmEpTgWN) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [plan](https://open.spotify.com/album/1c7dUJR1HsiVLLLR901iMr) | 3:18 | 2023-07-11 | 2023-07-13 |
 | [plan](https://open.spotify.com/track/3LD7wvhxqh0Z8CWberSsBN) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [plan](https://open.spotify.com/album/6ZzOLipxchTFGwYeb0w6SS) | 3:18 | 2023-07-11 | 2023-08-09 |
@@ -918,6 +918,7 @@
 | [STAR☆T☆RAIN \- NEW ARRANGE VER.](https://open.spotify.com/track/6bV75xSoY9WPjjvd88cQnQ) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [TV SERIES ”【OSHI NO KO】 ” \(Vol.2\)](https://open.spotify.com/album/4MLXH5rVUsSl0nbmuljoVv) | 3:52 | 2023-07-04 | 2023-07-19 |
 | [Stay Alive](https://open.spotify.com/track/1xLq8njLE6uKoF20SXePaQ) | [KIHOW from MYTH & ROID](https://open.spotify.com/artist/7rneNORzFPIeGAKtLeOa10) | [TVアニメ「Re:ゼロから始める異世界生活」Remakeアルバム](https://open.spotify.com/album/61MwOSHm3B8UoUtRxhyZOn) | 4:25 | 2025-03-18 | 2025-04-16 |
 | [Stay Free](https://open.spotify.com/track/07eAQ4yUtJXlmajfLDL2fs) | [Machico](https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9) | [Stay Free \(Kono Subarashii Sekai Ni Bakuen Wo! Opening Theme\)](https://open.spotify.com/album/4AFGph0PQNYPqu4nYpdsQf) | 4:01 | 2023-04-25 | 2023-07-12 |
+| [Stay Gold \- from BEYBLADE X](https://open.spotify.com/track/65hfbURMDstZkt5FDt0Tbd) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Stay Gold \(from BEYBLADE X\)](https://open.spotify.com/album/5qyh3mcLstnqZhlmlY7njI) | 3:26 | 2025-06-12 |  |
 | [Stella](https://open.spotify.com/track/2y7ATz1NVe3aivQqtWqme7) | [立花日菜](https://open.spotify.com/artist/23wuLjb3fhVGMjeuWjmfrL) | [Stella](https://open.spotify.com/album/4UGAHmXN4wZMxKp2tkw2Ga) | 3:24 | 2025-01-11 | 2025-01-22 |
 | [Step Up](https://open.spotify.com/track/7y7FjuZlT5MHLRk0DtbUe8) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [Step Up](https://open.spotify.com/album/7f0deOUeip4S9DIaiCjlOt) | 3:50 | 2022-09-06 | 2022-10-19 |
 | [Stereo Sunset \- Prod\. AmPm \-TV size ver.](https://open.spotify.com/track/4gkkoaQSQa9JGBL6AdXvLD) | [Himika Akaneya](https://open.spotify.com/artist/4TDDISoY3TSX4gninvaW8h), [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf) | [Stereo Sunset \(Prod\. AmPm \-TV size ver.\)](https://open.spotify.com/album/1to3b7J3yUYWid6EVQPkk0) | 1:34 | 2023-10-03 | 2023-10-11 |

@@ -4,7 +4,7 @@
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-362 songs - 22 hr 18 min
+364 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Any Call \(Call Me Any Time\)](https://open.spotify.com/track/2pDBR4VKRNFmwUCj7zQmC8) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Any Call \(Call Me Any Time\)](https://open.spotify.com/album/2XuLnqS5yuSXq0tydgUD2u) | 3:28 | 2022-05-11 | 2022-07-26 |
 | [Apologize](https://open.spotify.com/track/5a8Cw8cj9j3lSIQ21i72p0) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [COSMOS](https://open.spotify.com/album/6z8ufyHFN5J1EKG6wiAMLu) | 4:12 | 2022-05-11 | 2022-07-29 |
 | [Aqua \(feat\. Muzie\)](https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp), [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 4:59 | 2022-05-11 |  |
+| [Asteroid](https://open.spotify.com/track/6mQ30ewPGJlJpex3sawe3h) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:35 | 2025-06-12 |  |
 | [Asteroid 소행성](https://open.spotify.com/track/4vODFC2HQEVCJABkba6eKM) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Asteroid 소행성](https://open.spotify.com/album/7ytsVClk3q5bbVFVM5hyBM) | 3:35 | 2022-05-11 | 2022-07-27 |
 | [Awake But Dreaming \(Feat\. KIMMUSEUM\)](https://open.spotify.com/track/0fWD1NsspeuahId2EktTBG) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [New Edition 27](https://open.spotify.com/album/7mE6Va4hXeo6UNPn01tu19) | 3:23 | 2022-05-11 | 2022-07-28 |
 | [Baby Don't Play](https://open.spotify.com/track/0fscOpcaHzivo321QxAfAo) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB) | 3:31 | 2023-07-13 | 2024-04-19 |
@@ -72,7 +73,7 @@
 | [Cherry Blossom](https://open.spotify.com/track/6chkvSijAsVW32AkSZKyza) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Cherry Blossom](https://open.spotify.com/album/03JBIkmy6FCwDRUX6ToxgB) | 3:39 | 2022-05-11 | 2022-07-29 |
 | [Cherry Pink](https://open.spotify.com/track/7afB8JJAPlRQxZOUcl8cqo) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:17 | 2024-08-01 |  |
 | [Chroma Drift](https://open.spotify.com/track/0BA3uoKlu9CsHgXIeAiXmJ) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.1](https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep) | 3:30 | 2025-02-14 |  |
-| [City](https://open.spotify.com/track/38qecpqjU5yzD7bFwU6GKL) | [정은재](https://open.spotify.com/artist/6hG6knn5PcWdv4hN0Yhvso) | [City](https://open.spotify.com/album/5tIUoIBCtGC1TYpuoZ2xIF) | 2:42 | 2022-07-04 |  |
+| [City](https://open.spotify.com/track/38qecpqjU5yzD7bFwU6GKL) | [정은재](https://open.spotify.com/artist/6hG6knn5PcWdv4hN0Yhvso) | [City](https://open.spotify.com/album/5tIUoIBCtGC1TYpuoZ2xIF) | 2:42 | 2022-07-04 | 2025-06-13 |
 | [City 1:00](https://open.spotify.com/track/0JsaFslY2aeK0gTWfASl9O) | [tang.erine](https://open.spotify.com/artist/3EYKQMtUKUH5LnfJVNjv7S) | [Late summer late night](https://open.spotify.com/album/4CQOPjJ7l5jHPJTEYfViZO) | 2:26 | 2022-05-11 | 2025-04-25 |
 | [City Breeze & Love Song](https://open.spotify.com/track/0GpGnPA4HhHclOTN81FPKZ) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb) | [City Breeze & Love Song](https://open.spotify.com/album/7y9Th3xuGgoqdulKiAiEZ4) | 3:40 | 2025-04-24 |  |
 | [City Drive](https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [City Drive](https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1) | 3:27 | 2022-05-11 | 2024-09-14 |
@@ -88,6 +89,7 @@
 | [Cream Dream](https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj) | [TrophyCat](https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK) | [Cream Dream](https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj) | 3:16 | 2022-05-11 |  |
 | [Cristal Love](https://open.spotify.com/track/056ve9qgYBqfAadX29x9ds) | [En Sokum](https://open.spotify.com/artist/3RjGXbgDR40y0ZzZhCACfF) | [Cristal Love](https://open.spotify.com/album/5sIhEUT8XBrUpdIsFkXkjK) | 3:37 | 2022-12-21 |  |
 | [Dance with me](https://open.spotify.com/track/5FjWYxObr9sutnoyn0zFg2) | [Yein](https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ) | [Dance with me](https://open.spotify.com/album/5Sc06S5Xx70hzYNyOlUT68) | 3:30 | 2024-09-11 |  |
+| [Dancing in the dark](https://open.spotify.com/track/4thTe1la1ryfo1aDqpg1xy) | [Yeo Jin](https://open.spotify.com/artist/6T1L8TS6LeXIDHYnDAMHFe) | [Dancing in the dark](https://open.spotify.com/album/1demoaTSF4LmwjuzgbMvzF) | 2:48 | 2025-06-12 |  |
 | [Dawn](https://open.spotify.com/track/7mE4LGndCfJwJLAzd6KU5M) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Dawn](https://open.spotify.com/album/3vFZZ2VReaSF8S1IaoyYZA) | 4:01 | 2022-07-04 | 2024-05-16 |
 | [DAYDREAM](https://open.spotify.com/track/19vNcjcAM9KC7ykx9V6eBy) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm) | 3:23 | 2022-07-22 | 2024-04-19 |
 | [DAYDREAM](https://open.spotify.com/track/4qj6sQ5Y3tY4MIEEzqGLhT) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [BLOOM\*IZ](https://open.spotify.com/album/4yAAAWwN4WaxefmncjDsMw) | 3:23 | 2022-05-11 | 2022-06-30 |
@@ -96,7 +98,7 @@
 | [Dive](https://open.spotify.com/track/0Ots0hGoPjgRw99GdQzJjc) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Dive](https://open.spotify.com/album/314Qk4Awu61HcBTSNJ7ypm) | 3:41 | 2022-07-22 | 2022-11-03 |
 | [Dive](https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Dive](https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7) | 3:41 | 2022-09-05 | 2024-04-19 |
 | [Dive](https://open.spotify.com/track/71YHNeT3TMUnV1165mgRbO) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Dive](https://open.spotify.com/album/4gn113ACCBiiIr6XtCV3Mc) | 3:41 | 2022-05-11 | 2022-07-29 |
-| [Dive in Love](https://open.spotify.com/track/0guaStWjhEAoYmvOi9sRLF) | [Taeha](https://open.spotify.com/artist/6iP9MWxKM8aS2xlBPKZXlw) | [Dive in Love](https://open.spotify.com/album/4ZColYa5QtrglVwxtz5NN7) | 3:39 | 2024-03-29 |  |
+| [Dive in Love](https://open.spotify.com/track/0guaStWjhEAoYmvOi9sRLF) | [Taeha](https://open.spotify.com/artist/6iP9MWxKM8aS2xlBPKZXlw) | [Dive in Love](https://open.spotify.com/album/4ZColYa5QtrglVwxtz5NN7) | 3:39 | 2024-03-29 | 2025-06-13 |
 | [Dive in Love](https://open.spotify.com/track/6oZpMV2ivI5vGVEi0DNvIo) | [Taeha](https://open.spotify.com/artist/6iP9MWxKM8aS2xlBPKZXlw) | [City Lights \(The Mini Album\)](https://open.spotify.com/album/3fCyde4soVFdmuQTMFTKkL) | 3:39 | 2024-08-01 | 2024-10-09 |
 | [Diver](https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [I ZIP](https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB) | 3:10 | 2023-05-05 | 2024-05-08 |
 | [Diver](https://open.spotify.com/track/4YWTrUVmmvULMJviDOzMg0) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [I ZIP](https://open.spotify.com/album/4wuAqejGxm4tQW952IKfHI) | 3:10 | 2024-03-29 | 2024-04-19 |
@@ -194,7 +196,7 @@
 | [Love Story](https://open.spotify.com/track/4BtcmECLsMxurQobTp932q) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [WINTER CITY](https://open.spotify.com/album/34684YNjQKgceU3s6D9bx9) | 4:01 | 2022-05-11 | 2022-07-14 |
 | [Love visible](https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl) | [Love visible](https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg) | 3:05 | 2023-07-13 |  |
 | [Loveholic](https://open.spotify.com/track/6ti3JvY3ZSdqvTA7PaSA1e) | [LIM JIMIN](https://open.spotify.com/artist/6MR6N2h4KSNmJ26OSrROYh) | [MINI](https://open.spotify.com/album/74DqQrYGTSS6NfqZY7Vml0) | 3:07 | 2022-05-11 |  |
-| [lovememore.](https://open.spotify.com/track/0P9XwjnnIPQFTwdqvu01Mf) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 3:51 | 2022-07-22 | 2024-04-19 |
+| [lovememore.](https://open.spotify.com/track/0P9XwjnnIPQFTwdqvu01Mf) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 3:51 | 2022-07-22 |  |
 | [lovememore.](https://open.spotify.com/track/7dwqDvzzXQhieo18mxOrAv) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/3sa814wrHO77FkSycZwhNf) | 3:51 | 2022-05-11 | 2022-07-29 |
 | [Loving you](https://open.spotify.com/track/0hra4xnIEuXUTF5B0efWNN) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Loving you](https://open.spotify.com/album/2XxhfupYZDZdZNkAkUJH7w) | 3:33 | 2022-05-11 | 2025-04-22 |
 | [MAGENTA](https://open.spotify.com/track/3WH4pZy0DBK3HzmQRny2Eq) | [JANE POP](https://open.spotify.com/artist/79IrVkcarWCAkfjuO17QVj) | [MAGENTA](https://open.spotify.com/album/76Vx0jlhzNLGSF3wftVdId) | 3:51 | 2022-05-11 | 2022-07-25 |
@@ -301,7 +303,7 @@
 | [SWEET SUMMER DAY](https://open.spotify.com/track/6UrML9LyuaBWgZV3nFLLGl) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:11 | 2022-05-11 |  |
 | [TALK](https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4) | [TIFFANY](https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4) | [I Just Wanna Dance \- The 1st Mini Album](https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU) | 3:34 | 2022-05-11 |  |
 | [TALK](https://open.spotify.com/track/2nuPFwWsyyMBMGwEdnYVqv) | [YOU DAYEON](https://open.spotify.com/artist/23xyNoanbbAB7M8LBiibyr) | [TALK](https://open.spotify.com/album/3X2z54NV6Y6L97SjphwulR) | 3:23 | 2025-04-09 |  |
-| [Tears of Joy](https://open.spotify.com/track/1N7rlhcvLORBithQsghpDH) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb) | [City Breeze & Love Song](https://open.spotify.com/album/7y9Th3xuGgoqdulKiAiEZ4) | 3:56 | 2025-04-24 |  |
+| [Tears of Joy](https://open.spotify.com/track/1N7rlhcvLORBithQsghpDH) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb) | [City Breeze & Love Song](https://open.spotify.com/album/7y9Th3xuGgoqdulKiAiEZ4) | 3:56 | 2025-04-24 | 2025-06-13 |
 | [Thanks to](https://open.spotify.com/track/0dGI1GRr0UAnkPKcWn7QbI) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing can tear us apart](https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq) | 4:17 | 2023-05-05 | 2024-04-19 |
 | [Thanks to](https://open.spotify.com/track/1KQrnUtKigVAtDZc6M7UsM) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [The Book of Us : Gluon \- Nothing Can Tear Us Apart](https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc) | 4:17 | 2022-05-11 | 2023-06-07 |
 | [The girl in my memories \(Digging club Seoul Ver.\)](https://open.spotify.com/track/72znGmipHo5wclQX7RKhpB) | [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [Onstage Digging Club Seoul THEME 04](https://open.spotify.com/album/3WREPmFd4M6Rfunvv5p1mF) | 3:18 | 2022-10-04 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GwUIoGGDbm.md) - [plain]
 
 > Music from "KAGUYA\-SAMA: LOVE IS WAR"\. ©赤坂アカ／集英社・かぐや様は告らせたい製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,473 likes - 80 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,492 likes - 80 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "We introduce exciting artists to you from the Benelux: <a href=\"spotify:artist:7Iff7uMHGSpOygBkCsdcHq\">Hiqpy</a> (cover)",
+  "description": "We introduce exciting artists to you from the Benelux: <a href=\"spotify:artist:3smrOozTm8zGvRfrcIyRg9\">Samuel Welten</a> (cover)",
   "name": "RADAR BNLX",
   "tracks": [
     {
@@ -1048,6 +1048,24 @@
       "duration_ms": 166767,
       "name": "Early Hours",
       "url": "https://open.spotify.com/track/3NWzA0reKxIRyXPZtBHTDB"
+    },
+    {
+      "album": {
+        "name": "Echte Liefde Is Te Koop",
+        "url": "https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR"
+      },
+      "artists": [
+        {
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152659,
+      "name": "Echte Liefde Is Te Koop",
+      "url": "https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4"
     },
     {
       "album": {

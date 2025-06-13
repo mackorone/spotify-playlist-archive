@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "C'\u00e8 un nuovo album di Golden Years ed \u00e8 100% Indie Italia \ud83c\udf3b",
+  "description": "Coez, Franchino e Tommaso Paradiso sulla stessa traccia non li avevi mai sentiti, vero? ",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -298,7 +298,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 152829,
       "name": "Al cuore gentile",
       "url": "https://open.spotify.com/track/2KdngEV1IO0FvXW7rliNTw"
@@ -730,7 +730,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 228885,
       "name": "Buianotte",
       "url": "https://open.spotify.com/track/1bqoLYddCR5bEglt5AV0hY"
@@ -1347,6 +1347,24 @@
     },
     {
       "album": {
+        "name": "1998",
+        "url": "https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155816,
+      "name": "Dentro al fumo",
+      "url": "https://open.spotify.com/track/52XbuKouJsjUpTzBiPXMQg"
+    },
+    {
+      "album": {
         "name": "Futuro Dirigibile",
         "url": "https://open.spotify.com/album/3KrlHusx87ZaCkNYuyK6Ay"
       },
@@ -1760,6 +1778,24 @@
       "duration_ms": 201266,
       "name": "Filosofia di Moana",
       "url": "https://open.spotify.com/track/0faZu5l7sz1z8URnLNzJmI"
+    },
+    {
+      "album": {
+        "name": "Uomo Donna",
+        "url": "https://open.spotify.com/album/24tYWl6w4vTjGfgH4Bn3ie"
+      },
+      "artists": [
+        {
+          "name": "Andrea Laszlo De Simone",
+          "url": "https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233733,
+      "name": "Fiore mio",
+      "url": "https://open.spotify.com/track/0pGMLMTqQJueMth6JgUSwE"
     },
     {
       "album": {
@@ -2404,7 +2440,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 169906,
       "name": "Io non ti conosco",
       "url": "https://open.spotify.com/track/3mPCkhtf1vMXaW66Ahh0lT"
@@ -3383,6 +3419,36 @@
     },
     {
       "album": {
+        "name": "Thruppi",
+        "url": "https://open.spotify.com/album/2IBBaHarj5oCI05K30hhEn"
+      },
+      "artists": [
+        {
+          "name": "Thruppi",
+          "url": "https://open.spotify.com/artist/3DJ294D2VS2W1sEwtBzbjS"
+        },
+        {
+          "name": "Giovanni Truppi",
+          "url": "https://open.spotify.com/artist/6qSYb2AiQlXlAoa50vLx5m"
+        },
+        {
+          "name": "Alice",
+          "url": "https://open.spotify.com/artist/3zNFrznlC0kv866J7Karl3"
+        },
+        {
+          "name": "SANO",
+          "url": "https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191815,
+      "name": "Nero",
+      "url": "https://open.spotify.com/track/5po9vnC8wnWAr6RRB6BIIe"
+    },
+    {
+      "album": {
         "name": "NERO MASCARA",
         "url": "https://open.spotify.com/album/4lv6ZOsKGlVGxEcSIJFhR0"
       },
@@ -4059,6 +4125,24 @@
     },
     {
       "album": {
+        "name": "Pessima idea",
+        "url": "https://open.spotify.com/album/3uqNVsVWGubzwr5HsKs1hF"
+      },
+      "artists": [
+        {
+          "name": "svegliaginevra",
+          "url": "https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183429,
+      "name": "Pessima idea",
+      "url": "https://open.spotify.com/track/30oTjdtoeNQij5M0jvwgjj"
+    },
+    {
+      "album": {
         "name": "Sammy, Cabiria, etc. etc.",
         "url": "https://open.spotify.com/album/65Wv5uZO75nHQM7dMAadZW"
       },
@@ -4379,6 +4463,24 @@
     },
     {
       "album": {
+        "name": "1998",
+        "url": "https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161432,
+      "name": "Qualcosa di grande",
+      "url": "https://open.spotify.com/track/7LHCJnWkQgmHGUhQyZeoW5"
+    },
+    {
+      "album": {
         "name": "QUANTO TI IMPORTA",
         "url": "https://open.spotify.com/album/0a5ak6iSa3EmoYcPqlxBhY"
       },
@@ -4474,6 +4576,32 @@
       "duration_ms": 169518,
       "name": "Riunione di condominio (feat. Assurdit\u00e8)",
       "url": "https://open.spotify.com/track/5EnzQ4P5HeIyJDG0p9SHEV"
+    },
+    {
+      "album": {
+        "name": "1998",
+        "url": "https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        },
+        {
+          "name": "Tommaso Paradiso",
+          "url": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201722,
+      "name": "Roma di notte",
+      "url": "https://open.spotify.com/track/4WwoOVG3xwCo6B14pCckm9"
     },
     {
       "album": {
@@ -5054,7 +5182,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 159197,
       "name": "Strappami il cuore",
       "url": "https://open.spotify.com/track/2DjIy92NOh2maqFIU23Olu"
@@ -5210,7 +5338,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 192034,
       "name": "Ti manca l\u2019aria",
       "url": "https://open.spotify.com/track/2x1AF8mR82VKEci1bSZ5gI"
@@ -5424,7 +5552,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 171786,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/0DBV5Pe201bmncX6xwsTkc"
@@ -5777,6 +5905,24 @@
     },
     {
       "album": {
+        "name": "INTERNET EXPLORER",
+        "url": "https://open.spotify.com/album/6kq0w1HINm0xj5bOeAxAWp"
+      },
+      "artists": [
+        {
+          "name": "Giuse The Lizia",
+          "url": "https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198295,
+      "name": "Vecchia scuola",
+      "url": "https://open.spotify.com/track/6uAHNlbU9YuQBIeRUspzfT"
+    },
+    {
+      "album": {
         "name": "Veleno",
         "url": "https://open.spotify.com/album/0kivI9DqD5PzKGeh26HycU"
       },
@@ -5860,7 +6006,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 200093,
       "name": "Vita",
       "url": "https://open.spotify.com/track/26iJUQYEsYN3P1y8Ze4c4T"

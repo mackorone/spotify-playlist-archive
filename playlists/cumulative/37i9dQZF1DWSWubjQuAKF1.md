@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: bartek turski
 
-480 songs - 23 hr 15 min
+481 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [Syriusz Black](https://open.spotify.com/track/40H7zSUClxjh5Wz3IXiy8J) | [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [Syriusz Black](https://open.spotify.com/album/6XSYlXmWtXDhuDzNYB0JfF) | 2:58 | 2024-07-11 | 2024-09-28 |
 | [Szach i mat](https://open.spotify.com/track/5QJD59lfNELT6Lgv9S4KvV) | [Natalia Zastępa](https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno) | [Szach i mat](https://open.spotify.com/album/2W1QxAsVDF9EHlJfNsYPRh) | 2:40 | 2024-07-18 | 2024-12-21 |
 | [szczeniak](https://open.spotify.com/track/5o2lw4fkXIqa7DAEVOhoZL) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu) | [szczeniak](https://open.spotify.com/album/68aDKhVBwIXsX48odWmoe4) | 2:33 | 2024-09-13 | 2024-11-08 |
+| [szczęście](https://open.spotify.com/track/5GAEmJzxcoKZTJgFU8Yeem) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [loki](https://open.spotify.com/album/7JwSGQN2SSTvzr36iZQpK4) | 2:53 | 2025-06-05 |  |
 | [szczęście](https://open.spotify.com/track/6PS4lie3LKue3O6qKolntj) | [zimny gulasz](https://open.spotify.com/artist/2Wuh8XkH0Z4eDztmZdMXT9), [nocotyania](https://open.spotify.com/artist/5Gld6PqiwJc9phNIDoddOl) | [szczęście](https://open.spotify.com/album/6MF1Fy27vAuQfit5jpflJe) | 2:45 | 2024-09-19 | 2024-11-08 |
 | [Szczęśliwa Wina](https://open.spotify.com/track/5mpaSyASd5ev6RMfSqW4cR) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Szczęśliwa Wina](https://open.spotify.com/album/00MIiun6wtpS1KScwHB7aV) | 2:33 | 2024-06-28 | 2024-10-26 |
 | [Sznurówki](https://open.spotify.com/track/6uvauiQGYGVkcC8E5IQRWR) | [Leo Natan](https://open.spotify.com/artist/53y2orCJp8NRmbw1V0FGTo) | [Sznurówki](https://open.spotify.com/album/2Pg3iONs9qmM365Vw9qqsn) | 1:37 | 2025-03-06 | 2025-03-14 |
@@ -472,7 +473,7 @@
 | [Zadzwoń do mnie](https://open.spotify.com/track/2ZYsPci35E3QVrUJatVKZE) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zadzwoń do mnie](https://open.spotify.com/album/3jT18pGJZSFp1PWRtl1QgE) | 2:16 | 2024-08-30 | 2024-11-08 |
 | [Zapomniana Twarz](https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zapomniana Twarz](https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3) | 3:03 | 2024-06-28 | 2024-10-12 |
 | [zapomniałem wydać w lipcu](https://open.spotify.com/track/3daeJPWGlUIJJPkefq7RZ0) | [Kacper Garncarz](https://open.spotify.com/artist/0mU3KNJmSgtwHH6D6UHs2V) | [zapomniałem wydać w lipcu](https://open.spotify.com/album/5iA0IoIFn6ysnwXq8APt64) | 2:53 | 2024-11-28 | 2025-01-24 |
-| [Zapomnij Mnie](https://open.spotify.com/track/4pjWbIByb1viHxrsKleGCF) | [Joulie Fox](https://open.spotify.com/artist/5hE1IPeVSiRpzsHBBBpzy4) | [Zapomnij Mnie](https://open.spotify.com/album/6r7P6UnFxFnmYlO7HK7EJi) | 2:58 | 2025-03-27 |  |
+| [Zapomnij Mnie](https://open.spotify.com/track/4pjWbIByb1viHxrsKleGCF) | [Joulie Fox](https://open.spotify.com/artist/5hE1IPeVSiRpzsHBBBpzy4) | [Zapomnij Mnie](https://open.spotify.com/album/6r7P6UnFxFnmYlO7HK7EJi) | 2:58 | 2025-03-27 | 2025-06-13 |
 | [Zaryzykuję](https://open.spotify.com/track/1ykxcLXLmkq4lliBqDbG4F) | [Jan Majewski](https://open.spotify.com/artist/22jvbmwhlcx0iogTUmMMyi) | [Zaryzykuję](https://open.spotify.com/album/1lqjH7MbV6C1lHvQimYxs3) | 2:39 | 2025-02-20 | 2025-02-22 |
 | [Zawsze](https://open.spotify.com/track/3OLUmPycj7LGskLHNLoQGd) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [Def Jam World Tour](https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16) | [Zawsze](https://open.spotify.com/album/3WQ2cHU59lxOpc9JVgT7qr) | 2:29 | 2025-02-20 | 2025-04-25 |
 | [zero dwa](https://open.spotify.com/track/5jKEhld4eJ5emfvC5fpeyA) | [pik pik](https://open.spotify.com/artist/2tg8M5no3GJwNf0XBq4tcY), [Marianna Matyja](https://open.spotify.com/artist/69C3K642BGqBEFR5au5t48) | [zero dwa](https://open.spotify.com/album/11VxtaKa4FqvRxw42414cv) | 4:08 | 2024-07-18 | 2024-09-20 |

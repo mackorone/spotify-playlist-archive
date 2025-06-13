@@ -2,7 +2,7 @@
 
 ### [Deep House Session](https://open.spotify.com/playlist/37i9dQZF1DWXRzAsbxGrBZ)
 
-> Get revived with some of the best Deep House South Africa has to offer.
+> Get revived with some of the best Deep House South Africa has to offer\. Cover: <a href="https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR?si=52s\_6ISSTwiFfkB\-bfk2kw">Artwork Sounds</a>
 
 295 songs - 1 day 10 hr 0 min
 
@@ -67,7 +67,7 @@
 | [Eternal Existence \- Original Mix](https://open.spotify.com/track/5wUEnoCp5mbXXTAeQjXlsU) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [New Beginning EP](https://open.spotify.com/album/6DiitXMyp0hYrOQLhAkUZ4) | 6:42 | 2022-09-14 | 2023-05-13 |
 | [Extinguish \(feat\. MacZito\)](https://open.spotify.com/track/1OgHt1gzk2oRDU3CffYKJo) | [Ntsakosoul](https://open.spotify.com/artist/5XEH0Z6myaNjuoCgkMQROb), [MacZito](https://open.spotify.com/artist/2thqWGNDvNBDTetSDqquhC) | [Retro Feeling](https://open.spotify.com/album/4zgfozHgvODELDnbICeQCO) | 6:52 | 2025-02-27 | 2025-03-28 |
 | [Eyesolation](https://open.spotify.com/track/0JF4uuEeEaAQYTVZ9jv2Zg) | [!Sooks](https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI) | [4 The Wolves](https://open.spotify.com/album/2L7bxv0WicWk3VD9UxzggR) | 8:41 | 2023-11-09 | 2025-02-28 |
-| [Falling outta love often \- Radio Edit](https://open.spotify.com/track/07mLfjYGWAYwDMQeV04tmo) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp) | [Falling outta love often](https://open.spotify.com/album/4l3iLDiiB0waGz07EAyPjP) | 4:21 | 2024-04-12 | 2025-06-11 |
+| [Falling outta love often \- Radio Edit](https://open.spotify.com/track/07mLfjYGWAYwDMQeV04tmo) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp) | [Falling outta love often](https://open.spotify.com/album/4l3iLDiiB0waGz07EAyPjP) | 4:21 | 2024-04-12 |  |
 | [False Facade](https://open.spotify.com/track/2JtWujMQf8l88eY7QMaFza) | [DRMZ](https://open.spotify.com/artist/0UJC0mzc3yjEUbUmqsPGYZ) | [False Facade](https://open.spotify.com/album/59Gcm4iMGayj6H09wpKhxs) | 6:56 | 2022-09-14 | 2023-03-18 |
 | [Far Away](https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq) | [DJ Odyccy](https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf) | [Far Away](https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d) | 6:59 | 2023-03-23 |  |
 | [Feel Good](https://open.spotify.com/track/5CorwaqtOJRLBaUocl7v5t) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [Feel Good EP](https://open.spotify.com/album/42QNc5GHCJuJEDuWRiPi9a) | 6:32 | 2024-01-11 | 2025-02-22 |
@@ -129,7 +129,7 @@
 | [King of Castles](https://open.spotify.com/track/5yK4SXGC0P5ak5kO4mj8cg) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [King of Castles](https://open.spotify.com/album/243FAgBWqvxnbuFEED8enP) | 5:13 | 2024-05-16 | 2024-11-01 |
 | [Kintsugi](https://open.spotify.com/track/43cbFFWsvH9ojZ0QaufdlH) | [!Sooks](https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI) | [Kintsugi](https://open.spotify.com/album/3XVyRiBQtZTxjrjtVL0Igx) | 8:40 | 2025-03-20 |  |
 | [Ko Mafifing](https://open.spotify.com/track/46iR1U52EKPyrakvl8IzeS) | [Slaga](https://open.spotify.com/artist/6TMHpHxtnjEsfpC0Psdsdw), [Spin Worx](https://open.spotify.com/artist/48CUBGlPLWYKfcChSbZ3Bj), [Tiyani](https://open.spotify.com/artist/3JoK4B3IcWXwzTw9GjdYO6) | [Dark Knight](https://open.spotify.com/album/6q1mQlsE1vy90DUeQlRKRq) | 6:31 | 2025-02-27 |  |
-| [Ksasenjalo \(Exte C Remix\)](https://open.spotify.com/track/1PnAtWScmc0YQn8UbJW1NN) | [Zano](https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq), [Exte C](https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23) | [Ksasenjalo \(Re\-Imagined\)](https://open.spotify.com/album/0oKKnnM9Glh0iHfiCwEUZZ) | 6:41 | 2024-02-15 |  |
+| [Ksasenjalo \(Exte C Remix\)](https://open.spotify.com/track/1PnAtWScmc0YQn8UbJW1NN) | [Zano](https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq), [Exte C](https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23) | [Ksasenjalo \(Re\-Imagined\)](https://open.spotify.com/album/0oKKnnM9Glh0iHfiCwEUZZ) | 6:41 | 2024-02-15 | 2025-06-13 |
 | [Lately I Found Myself](https://open.spotify.com/track/5ZfIMcsmsB5wVnkGh112Bn) | [HisKing](https://open.spotify.com/artist/0j01TxMt3NFKTOCy2ob4Qj), [The Poetic Manic](https://open.spotify.com/artist/56VBl9X48ovh8FBNieoYxF) | [Lately I Found Myself](https://open.spotify.com/album/0mB5VErDZoHjWvzBfqddGP) | 7:28 | 2023-03-23 | 2023-11-18 |
 | [Lesedi](https://open.spotify.com/track/41OIxpy4toVR6sDhYwANB8) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Fako](https://open.spotify.com/artist/4kRL8AsEKtSm09IPyM501J) | [Back To Front EP](https://open.spotify.com/album/1Lofpeh8jkquMGNs6xZyi0) | 8:14 | 2022-09-29 | 2024-07-19 |
 | [Let's Take A Ride](https://open.spotify.com/track/01vRu76nxT9REvKUVmbIoS) | [Nastic Groove](https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56) | [Stay True Sounds Vol.6](https://open.spotify.com/album/6J7rbAL6xB4S6pQIbRsoEr) | 6:38 | 2025-02-27 | 2025-03-03 |

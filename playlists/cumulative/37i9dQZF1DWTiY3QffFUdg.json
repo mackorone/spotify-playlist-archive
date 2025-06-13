@@ -3017,6 +3017,24 @@
     },
     {
       "album": {
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/5YGMtwLhbqumvZN8nqaEYc"
+      },
+      "artists": [
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/0Y8MXfSe2LcThivikQ9cEa"
+    },
+    {
+      "album": {
         "name": "Lollipop",
         "url": "https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl"
       },
@@ -5016,7 +5034,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 120827,
       "name": "Shake That",
       "url": "https://open.spotify.com/track/3t854jxXLppSGbOEYGQ3mI"

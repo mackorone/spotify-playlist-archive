@@ -4,7 +4,7 @@
 
 > easy breezy dance music
 
-317 songs - 15 hr 40 min
+318 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Echo \[Chaël Remix\]](https://open.spotify.com/track/0tYWJ4GvHzNvcbh9hLRFAX) | [MKJ](https://open.spotify.com/artist/2mdhxkqoWFBLtEC5FRkMD0), [YOTO](https://open.spotify.com/artist/1oFSLlpB3eM6V7Ka71a8Lx), [AVY X](https://open.spotify.com/artist/6CfEqFJScEOoO0meiW88px), [Chaël](https://open.spotify.com/artist/4qUDi25koBiqMb7uhHEOHk) | [Echo \[Chaël Remix\]](https://open.spotify.com/album/1QjzaTNqb5lC73XzhfG1Lv) | 2:33 | 2022-12-29 | 2023-03-18 |
 | [Electric](https://open.spotify.com/track/51FFmeDLNlJUkueFkjtzxY) | [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X), [chameleon](https://open.spotify.com/artist/5H61giTnrSTMQd1Pl0tKNB) | [Electric](https://open.spotify.com/album/2UNpZByJYcRTCNRSeUqst0) | 2:13 | 2025-04-24 |  |
 | [Elenore](https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Forever, Now](https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE) | 4:34 | 2023-02-16 | 2025-04-25 |
-| [Elsewhere](https://open.spotify.com/track/1ERIJRdzYgFSkdUvCiVu75) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Reconnect](https://open.spotify.com/album/4WDjEs3iuJ579yROdFXqpG) | 3:13 | 2024-03-19 |  |
+| [Elsewhere](https://open.spotify.com/track/1ERIJRdzYgFSkdUvCiVu75) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Reconnect](https://open.spotify.com/album/4WDjEs3iuJ579yROdFXqpG) | 3:13 | 2024-03-19 | 2025-06-13 |
 | [Escaping](https://open.spotify.com/track/4Wwks4OJMfW07eu4RQ6wOR) | [Bellestar](https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn), [Urban Love](https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7) | [Escaping](https://open.spotify.com/album/5slrIsKwwsPYUheEWRKQMn) | 2:44 | 2022-09-15 | 2024-08-31 |
 | [Even If You Don't](https://open.spotify.com/track/5XSjmXj79UdVdT5ndQHM2x) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh) | [Even If You Don't](https://open.spotify.com/album/21uycqDEGwq19UBzFrmqlh) | 2:36 | 2022-09-15 | 2022-09-30 |
 | [Everything Changes But Us](https://open.spotify.com/track/1ASSOK89dWkRbMNIbNgIT8) | [Lindja](https://open.spotify.com/artist/12FS78q2foxDejKiUm1BgD), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Everything Changes But Us](https://open.spotify.com/album/2l1U2LgHNCi1aVxE8HaKxw) | 3:52 | 2024-04-11 | 2025-03-02 |
@@ -187,6 +187,7 @@
 | [Mad World](https://open.spotify.com/track/7v976kIGJsqOaqmK54aZuJ) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Mad World](https://open.spotify.com/album/3wZDSM5YjFkW4rdT9VCvhT) | 3:24 | 2025-04-24 | 2025-04-28 |
 | [Mad World](https://open.spotify.com/track/2HdsjF5PGHPllVTSpjg4zJ) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Mad World](https://open.spotify.com/album/2BrS7f0enkfT2DhwiYwjpV) | 2:22 | 2025-03-28 |  |
 | [Madness](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 | 2022-09-15 | 2024-10-25 |
+| [Magnetic](https://open.spotify.com/track/4HEggPhcyKQGzHLsgfs9my) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp), [Belle Doron](https://open.spotify.com/artist/0vG28tQeh1adA0xHmdUTVQ) | [Magnetic](https://open.spotify.com/album/2GmPo1t1eRB47964nvvJAl) | 3:02 | 2025-06-05 |  |
 | [MAGNETS](https://open.spotify.com/track/1DARVvN0RpBRhZpVal39VL) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [Oscar Duke](https://open.spotify.com/artist/5umWPuWy08G1yEugAzTxvh) | [MAGNETS](https://open.spotify.com/album/57aR8JKeYr0zS1foTbAexP) | 2:26 | 2024-02-07 | 2024-11-15 |
 | [Marco Polo](https://open.spotify.com/track/50FNVTyZYrhryZk4R3F5pv) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [AMELY](https://open.spotify.com/artist/1hZHcJTY2MYNhTqlrfgobM) | [Marco Polo](https://open.spotify.com/album/71iSMPw4ij9TcH8YWIpTux) | 2:36 | 2022-09-15 | 2022-12-24 |
 | [Meant To Be](https://open.spotify.com/track/0oeKRF8BpMKRFUCeQMVypR) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r), [LZRZ](https://open.spotify.com/artist/02Y4AdQs7ofsz3OBWbE5Yl) | [Meant To Be](https://open.spotify.com/album/3Wme8puwxUmGdrwbSOOPUo) | 2:12 | 2024-06-27 | 2024-11-15 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 42332,
+  "num_followers": 42341,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEd1gAAAAAAlZJF/vk52FcXcWiUBEW/H",
+  "snapshot_id": "aEjHAAAAAAAW5LokMW1G39fxxhqhdo1u",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Healer",
-        "url": "https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 242306,
-      "name": "The Power of the Cross",
-      "url": "https://open.spotify.com/track/4B8RK4DDqNSch0gn9g0Dl4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Glorious Day: Hymns of Faith",
         "url": "https://open.spotify.com/album/3hB7IALT7uaNMC6Ol0elbo"
       },
@@ -499,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Next Thing",
-        "url": "https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S"
+        "name": "Healer",
+        "url": "https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw"
       },
       "artists": [
         {
@@ -508,9 +492,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 273146,
-      "name": "Loving My Jesus",
-      "url": "https://open.spotify.com/track/0qZXAGI1FPTn0IM7tvyqrJ"
+      "duration_ms": 242306,
+      "name": "The Power of the Cross",
+      "url": "https://open.spotify.com/track/4B8RK4DDqNSch0gn9g0Dl4"
     },
     {
       "added_at": null,
@@ -527,6 +511,22 @@
       "duration_ms": 268666,
       "name": "Does Anybody Hear Her",
       "url": "https://open.spotify.com/track/7pJB2CjZQUt4Ig1fdPQl5s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Next Thing",
+        "url": "https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 273146,
+      "name": "Loving My Jesus",
+      "url": "https://open.spotify.com/track/0qZXAGI1FPTn0IM7tvyqrJ"
     },
     {
       "added_at": null,

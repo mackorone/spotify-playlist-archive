@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: ZIN CHOI) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \uc548\ub2e4\uc601) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 209057,
       "name": "ATS",
       "url": "https://open.spotify.com/track/4awYkzuPq6RjFvg1DdZrkh"
@@ -1822,6 +1822,28 @@
       "duration_ms": 225882,
       "name": "Blinded",
       "url": "https://open.spotify.com/track/3k5xWgRecbkY5XzhpjIJ65"
+    },
+    {
+      "album": {
+        "name": "Blood (feat. Akane Lize)",
+        "url": "https://open.spotify.com/album/2KPXtbLys8I96RGCkrgE7i"
+      },
+      "artists": [
+        {
+          "name": "Miiro",
+          "url": "https://open.spotify.com/artist/4CadaJC2t5tnQg06HlXVnP"
+        },
+        {
+          "name": "Akane Lize",
+          "url": "https://open.spotify.com/artist/3lgpOwvhfE07WXOW6BTmmK"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267013,
+      "name": "Blood (feat. Akane Lize)",
+      "url": "https://open.spotify.com/track/5Svxqesi1CTPCfUiMeRb7f"
     },
     {
       "album": {
@@ -8956,7 +8978,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 285568,
       "name": "Love Is Ever",
       "url": "https://open.spotify.com/track/0tToYcQCuNtUDBCyf8H24I"
@@ -10834,7 +10856,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 348445,
       "name": "Okinawa",
       "url": "https://open.spotify.com/track/08Fo1zAY2piVFOD2Lv3n3z"
@@ -11286,7 +11308,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 165706,
       "name": "PARKING LOT ANTHEM",
       "url": "https://open.spotify.com/track/2u8wDmQ30E0RR0nJmQyOAR"
@@ -11488,7 +11510,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-12",
+      "date_removed": null,
       "duration_ms": 248013,
       "name": "Pixels",
       "url": "https://open.spotify.com/track/5YBTucTtGmiXiRATFlW0Nz"
@@ -14771,6 +14793,24 @@
     },
     {
       "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/3FA7dOkotA4MwbG5Kq2oUT"
+      },
+      "artists": [
+        {
+          "name": "IN A MINUTE",
+          "url": "https://open.spotify.com/artist/1dFT7PlmS2C1aKLWO8ZZDq"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152013,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/4R9YNnJ8RabbY0VslyR3XW"
+    },
+    {
+      "album": {
         "name": "Thanks and Thank you",
         "url": "https://open.spotify.com/album/0uPBWBnUkF07lorP1GZMbJ"
       },
@@ -17228,6 +17268,24 @@
       "duration_ms": 185759,
       "name": "You Are The Everything In My World",
       "url": "https://open.spotify.com/track/4e34XJ6MpVuj4TbMcLwgg7"
+    },
+    {
+      "album": {
+        "name": "WHERE IS MY FRIEND?",
+        "url": "https://open.spotify.com/album/4VH79jYzX2Zu93Ij9c0qIP"
+      },
+      "artists": [
+        {
+          "name": "Ahn Dayoung",
+          "url": "https://open.spotify.com/artist/3YaTzrZaXXljeI8vpvzyBX"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211776,
+      "name": "you can change nothing",
+      "url": "https://open.spotify.com/track/37yA9c4UejPh5gdpS36noH"
     },
     {
       "album": {

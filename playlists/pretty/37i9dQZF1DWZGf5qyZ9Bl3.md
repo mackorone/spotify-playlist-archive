@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGf5qyZ9Bl3.md) - [plain]
 
 > chill piano melodies and cozy lofi beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,282 likes - 100 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,303 likes - 100 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fallen Down](https://open.spotify.com/track/4qc5uJs4lah9YnvCoIyKMh) | [FMBLL](https://open.spotify.com/artist/2w6778RfoCOsdjVH2wNkC8) | [Fallen Down](https://open.spotify.com/album/5JeWglXjfrRjSzAIF3LnJA) | 2:13 |
 | 2 | [Sunset Boulevard](https://open.spotify.com/track/7uNB5da4RZLnfWIE8xIQZk) | [Phive O](https://open.spotify.com/artist/3BazVVHaz03CY1JFfedL9L) | [Sunset Boulevard](https://open.spotify.com/album/7nJJah1pdRhcGpQReeDOVb) | 2:15 |
 | 3 | [Thinking Of You](https://open.spotify.com/track/5lTR1HXtYNiOYkZUGJfW4T) | [asanatobi](https://open.spotify.com/artist/6LeJY3URhc2QOx8vPAB2Ou) | [Thinking Of You](https://open.spotify.com/album/49M4f8YLFk6hwcvZCL9NxV) | 2:16 |
-| 4 | [Hotel Alone](https://open.spotify.com/track/7CcQusLaSL89fV4kpYZRGn) | [Anastasia Kai](https://open.spotify.com/artist/67le5cHO1LTvFvZgloqUj2) | [Hotel Alone](https://open.spotify.com/album/14NtO2jCEibHC40do69GG5) | 2:19 |
+| 4 | [Hotel Alone](https://open.spotify.com/track/7CcQusLaSL89fV4kpYZRGn) | [A\. Kai](https://open.spotify.com/artist/3TJ4tfMVUnp8Gi252wHE4e) | [Hotel Alone](https://open.spotify.com/album/14NtO2jCEibHC40do69GG5) | 2:19 |
 | 5 | [Trust Spring](https://open.spotify.com/track/79SRBZJ8mQo6cxpqNRjfv3) | [ATONED](https://open.spotify.com/artist/0OjQN1YWUMKO2Kf3ALv1TM) | [Trust Spring](https://open.spotify.com/album/2I3IoVyZOTVuSGOr5SX9kK) | 2:13 |
 | 6 | [telescape](https://open.spotify.com/track/1x2ddqYnVN1GDJWz4MiL8F) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [telescape](https://open.spotify.com/album/7EUmRwjLF90VFKFbrUVtAW) | 1:56 |
 | 7 | [exhibit](https://open.spotify.com/track/1fpsnAclSI1pNpcujuFCgr) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [exhibit](https://open.spotify.com/album/3CydxB2cJBwnEn1eaUBXJp) | 2:29 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGf5qyZ9Bl3.md) - [plain]
 | 39 | [C\-note](https://open.spotify.com/track/3fjTtiwsrhpko7eTLiHGbb) | [hoodeeny](https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg) | [C\-note](https://open.spotify.com/album/2QBJSWKGeJIWWcH1WQRQkm) | 2:33 |
 | 40 | [square day](https://open.spotify.com/track/6Ay0SySLxHEBY8ju9khpVX) | [Jazzamass](https://open.spotify.com/artist/3gMOdlsYdkbCobRA1i8Bwb) | [square day](https://open.spotify.com/album/3NbMDI4m8ChBSWwfUl9VHO) | 1:42 |
 | 41 | [petal](https://open.spotify.com/track/3dkGPR1S8xKvV9RwmII3Mp) | [nikk.](https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH) | [petal](https://open.spotify.com/album/4n6F9v7ajeO9Fp6lmFeLnH) | 2:01 |
-| 42 | [Devoted to Violet](https://open.spotify.com/track/7Kn2u3i65LuebgyWqYuJoe) | [Julia Groves](https://open.spotify.com/artist/2kobiVcFE5QbsUbkxkrFq3) | [Devoted to Violet](https://open.spotify.com/album/1OVPJvZwcoKctLbBNfvJ4a) | 2:15 |
+| 42 | [Devoted to Violet](https://open.spotify.com/track/7Kn2u3i65LuebgyWqYuJoe) | [J\. Groves](https://open.spotify.com/artist/7jekqAvw0vS5aF7VnFGzLC) | [Devoted to Violet](https://open.spotify.com/album/1OVPJvZwcoKctLbBNfvJ4a) | 2:15 |
 | 43 | [Hello](https://open.spotify.com/track/5wowMR5xFYrXEP3Xc23btB) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Hello](https://open.spotify.com/album/75JoRWlKawBi4H6QMNulQU) | 2:48 |
 | 44 | [purple growth](https://open.spotify.com/track/2pWoOr9umRytPP9jfQUD4K) | [chilliance](https://open.spotify.com/artist/6C1x6L8cNFWEw8fbnocXZC) | [purple growth](https://open.spotify.com/album/62gXgpJMgOYFirMW4N6KvK) | 2:48 |
 | 45 | [Kofly](https://open.spotify.com/track/3EwuLwbkB22pnJWMbowZrq) | [Smedby](https://open.spotify.com/artist/4Vf7W33AdDciOydhx0BUzy), [Even Kicks](https://open.spotify.com/artist/1pRkemoK7sp7cGW4el9gJX) | [Kofly](https://open.spotify.com/album/4VlrUJJp5ls8IR87RpEx2E) | 2:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGf5qyZ9Bl3.md) - [plain]
 | 99 | [waltz up](https://open.spotify.com/track/2GmmbiHk0cTtEPI2cuhVx5) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [waltz up](https://open.spotify.com/album/1VYd7kvw4MMt9VxOYAeEBl) | 2:24 |
 | 100 | [night impressionism](https://open.spotify.com/track/6h0CAChkoKd7DiyDy0ApZy) | [MLTSMTHNG](https://open.spotify.com/artist/4qVhuxnsE1C2UrjYOPIRtL), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [night impressionism](https://open.spotify.com/album/0qwW7iPELLdDGTmYcTlk5C) | 2:11 |
 
-Snapshot ID: `AAAAAAxrKYTh0ktB7MmP4bbWoUU+8+gi`
+Snapshot ID: `Zz31WwAAAADl0jIq+CVIyXndEXdl+/Ie`

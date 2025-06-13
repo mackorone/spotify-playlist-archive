@@ -4,7 +4,7 @@
 
 > mostly rock
 
-913 songs - 2 day 10 hr 29 min
+914 songs - 2 day 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [greed \- Instrumental](https://open.spotify.com/track/7rIVAacGusNbgEhFPeLT9l) | [Ze](https://open.spotify.com/artist/4ESeNxZTeBCnVm0DyGz8yD) | [kachi mamire](https://open.spotify.com/album/5StoqTIha7huqbM0qM15MW) | 3:56 | 2024-12-05 |  |
 | [Greedy Survive](https://open.spotify.com/track/5B5tOVgCyxONGNMkI6QtIb) | [zenbukiminoseida.](https://open.spotify.com/artist/5gfATgktAUsKbaCwifP3h5) | [Arumumei](https://open.spotify.com/album/4ZBMWl0VYMwS36XV3KFuPb) | 3:07 | 2024-09-01 |  |
 | [Guide and Devote](https://open.spotify.com/track/6TBGoqXlsyvs7Mq7yWQQ1e) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [Guide and Devote](https://open.spotify.com/album/1p5iDrsIRRadjrIvk6dK7Q) | 3:21 | 2023-12-28 |  |
+| [Guilty](https://open.spotify.com/track/2xmupo1jbudKDN4hSSKpXM) | [d0tc0mmie](https://open.spotify.com/artist/6boy2t2W04GPkMipXjavCM), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [0401+](https://open.spotify.com/album/6g6IhKiigPjKmPOmxkc91S) | 2:11 | 2025-06-12 |  |
 | [hades in the dead of winter](https://open.spotify.com/track/3y3UinzynYb7JRWsvJH7Gu) | [my dead girlfriend](https://open.spotify.com/artist/0s4Ma1D3irgqrQCRBUhc73) | [hades \(the nine stages of change at the deceased remains\)](https://open.spotify.com/album/4hBL8N0YTn1d8P1c0AZdLw) | 5:31 | 2023-07-19 |  |
 | [HAKATOMO \(feat\. is\)](https://open.spotify.com/track/2aZhKCfz1nWm3aE1fqFeqW) | [Ze](https://open.spotify.com/artist/4ESeNxZTeBCnVm0DyGz8yD), [is](https://open.spotify.com/artist/7cuGt0mL09McYH6wVQTr1F) | [HAKATOMO](https://open.spotify.com/album/3K3LVQWWg9B1aVZnjyDI9s) | 3:09 | 2024-12-05 |  |
 | [hakuchumuha shiisainonai](https://open.spotify.com/track/5LusDHzggVu5HI1Gn8awRN) | [chouchou merged syrups.](https://open.spotify.com/artist/1rMlvq1rWmYdg0lzZcf7G0) | [clepsydra](https://open.spotify.com/album/5lIy1uUXZbNdEH4y05hdnd) | 3:37 | 2023-07-06 |  |

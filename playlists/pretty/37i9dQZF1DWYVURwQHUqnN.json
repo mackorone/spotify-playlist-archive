@@ -1,35 +1,67 @@
 {
-  "description": "Photo : DYSTINCT x Jul",
-  "num_followers": 1146315,
+  "description": "Photo : Nej x KeBlack",
+  "num_followers": 1146451,
   "original_name": "Best Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEIU+wAAAACVbpa9TIhOmfKc+6ZCEQLk",
+  "snapshot_id": "aEtOAgAAAACqa8C/z3XDCUxwfsRbasNa",
   "tracks": [
     {
-      "added_at": "2025-06-05 22:00:34",
+      "added_at": "2025-06-12 22:00:34",
       "album": {
-        "name": "PRINCESSA",
-        "url": "https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp"
+        "name": "La Var (feat. KeBlack)",
+        "url": "https://open.spotify.com/album/5DWtCV4A2qf4MxfFh57rzq"
       },
       "artists": [
         {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
         },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "duration_ms": 163668,
+      "name": "La Var (feat. KeBlack)",
+      "url": "https://open.spotify.com/track/0Sjh3u69H5KwvqnWVMaOIc"
+    },
+    {
+      "added_at": "2025-06-12 22:00:34",
+      "album": {
+        "name": "Ph\u00e9nom\u00e9nal",
+        "url": "https://open.spotify.com/album/3p24DyUwj5gN245PmCHhnT"
+      },
+      "artists": [
         {
           "name": "Jul",
           "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
-      "duration_ms": 170895,
-      "name": "PRINCESSA",
-      "url": "https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd"
+      "duration_ms": 204973,
+      "name": "Ph\u00e9nom\u00e9nal",
+      "url": "https://open.spotify.com/track/4VayCkXPEDlKeAo4DfPk89"
     },
     {
-      "added_at": "2025-06-05 22:00:34",
+      "added_at": "2025-06-12 22:00:34",
+      "album": {
+        "name": "APPELLE TA COPINE",
+        "url": "https://open.spotify.com/album/09WsOdrH7Hzl6ZLg9Er6bq"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "APPELLE TA COPINE",
+      "url": "https://open.spotify.com/track/1i3eRYUhy28Nl0zwcQNOdZ"
+    },
+    {
+      "added_at": "2025-06-12 22:00:34",
       "album": {
         "name": "Focus Mentalit\u00e9",
         "url": "https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA"
@@ -49,55 +81,83 @@
       "url": "https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF"
     },
     {
-      "added_at": "2025-06-05 22:00:34",
+      "added_at": "2025-06-12 22:00:34",
       "album": {
-        "name": "APPELLE TA COPINE",
-        "url": "https://open.spotify.com/album/09WsOdrH7Hzl6ZLg9Er6bq"
+        "name": "B\u0112Y\u0100H",
+        "url": "https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV"
       },
       "artists": [
         {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        },
+        {
+          "name": "SARAH SEY",
+          "url": "https://open.spotify.com/artist/3PSGIWWzhs6TnocrDnG2qs"
         }
       ],
-      "duration_ms": 180923,
-      "name": "APPELLE TA COPINE",
-      "url": "https://open.spotify.com/track/1i3eRYUhy28Nl0zwcQNOdZ"
+      "duration_ms": 215813,
+      "name": "Pa Pa Paw",
+      "url": "https://open.spotify.com/track/7heoPFrtuH6JU6AcfzjWHp"
     },
     {
-      "added_at": "2025-06-05 22:00:34",
+      "added_at": "2025-06-12 22:00:34",
       "album": {
-        "name": "Ph\u00e9nom\u00e9nal",
-        "url": "https://open.spotify.com/album/3p24DyUwj5gN245PmCHhnT"
+        "name": "\u00c9TAT DES LIEUX",
+        "url": "https://open.spotify.com/album/14kmgUtxkJEi78a7F7TzxW"
       },
       "artists": [
+        {
+          "name": "La Fouine",
+          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "Etat des lieux - Part 1",
+      "url": "https://open.spotify.com/track/60oUKjWNuBEl0X0IaLuVHL"
+    },
+    {
+      "added_at": "2025-06-12 22:00:34",
+      "album": {
+        "name": "PRINCESSA",
+        "url": "https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
         {
           "name": "Jul",
           "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
-      "duration_ms": 204973,
-      "name": "Ph\u00e9nom\u00e9nal",
-      "url": "https://open.spotify.com/track/4VayCkXPEDlKeAo4DfPk89"
+      "duration_ms": 170895,
+      "name": "PRINCESSA",
+      "url": "https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd"
     },
     {
-      "added_at": "2025-06-05 22:00:34",
+      "added_at": "2025-06-12 22:00:34",
       "album": {
-        "name": "Beluga",
-        "url": "https://open.spotify.com/album/6pynvrRBHonKOcySil3MOL"
+        "name": "A TI",
+        "url": "https://open.spotify.com/album/1ag9N6fc6EmxG7EPlasQl2"
       },
       "artists": [
         {
-          "name": "Timal",
-          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
         }
       ],
-      "duration_ms": 158398,
-      "name": "Beluga",
-      "url": "https://open.spotify.com/track/4Ni26iRBfj5ATXjY3ICTcv"
+      "duration_ms": 162960,
+      "name": "A TI",
+      "url": "https://open.spotify.com/track/3GYowZ5IL7gnri8Zejti3t"
     },
     {
-      "added_at": "2025-06-05 22:00:34",
+      "added_at": "2025-06-12 22:00:34",
       "album": {
         "name": "LDC",
         "url": "https://open.spotify.com/album/0QvUH3eAOC3FCK0xXmlJIN"
@@ -121,43 +181,31 @@
       "url": "https://open.spotify.com/track/79GsCcSo4Fm4xVwFw7gkgs"
     },
     {
-      "added_at": "2025-06-05 22:00:34",
+      "added_at": "2025-06-12 22:00:34",
       "album": {
-        "name": "Piano",
-        "url": "https://open.spotify.com/album/1BQ2YrKLtRzIuQ7Zai76jJ"
+        "name": "Margiela",
+        "url": "https://open.spotify.com/album/7yWRuAb4BfIk1I9N1WUbQI"
       },
       "artists": [
         {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+          "name": "HOUZ",
+          "url": "https://open.spotify.com/artist/2P5XNsALI1wxi2eZfSPPC8"
         },
         {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 173538,
-      "name": "Piano",
-      "url": "https://open.spotify.com/track/6xOiC7SgWCFsipcM69jIDO"
-    },
-    {
-      "added_at": "2025-06-05 22:00:34",
-      "album": {
-        "name": "Fais pas \u00e7a (Bonus Track)",
-        "url": "https://open.spotify.com/album/6KWu4GcK7eotZp9RAgf3GT"
-      },
-      "artists": [
+          "name": "HDPRK",
+          "url": "https://open.spotify.com/artist/73s1HHCb3RQcuxhFgqgGG0"
+        },
         {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+          "name": "G29",
+          "url": "https://open.spotify.com/artist/33GoYRikyN9Ej7idDdY55g"
         }
       ],
-      "duration_ms": 147375,
-      "name": "Fais pas \u00e7a - Bonus Track",
-      "url": "https://open.spotify.com/track/6NPvUIMvVvIRkFiNzGni9N"
+      "duration_ms": 213750,
+      "name": "Margiela",
+      "url": "https://open.spotify.com/track/4i7Ck0jXJc0az9i8yOI9FJ"
     },
     {
-      "added_at": "2025-06-05 22:00:34",
+      "added_at": "2025-06-12 22:00:34",
       "album": {
         "name": "D&P \u00e0 vie",
         "url": "https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF"
@@ -173,27 +221,7 @@
       "url": "https://open.spotify.com/track/3iqcqAwtnurPNJAcvwVIyt"
     },
     {
-      "added_at": "2025-06-05 22:00:34",
-      "album": {
-        "name": "\u00c9TAT DES LIEUX",
-        "url": "https://open.spotify.com/album/14kmgUtxkJEi78a7F7TzxW"
-      },
-      "artists": [
-        {
-          "name": "La Fouine",
-          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "Etat des lieux - Part 1",
-      "url": "https://open.spotify.com/track/60oUKjWNuBEl0X0IaLuVHL"
-    },
-    {
-      "added_at": "2025-06-05 22:00:34",
+      "added_at": "2025-06-12 22:00:34",
       "album": {
         "name": "Meraki",
         "url": "https://open.spotify.com/album/0wl6FnaTJw4TXzjL1PT5G6"
@@ -213,139 +241,27 @@
       "url": "https://open.spotify.com/track/7C13bFjFdELL8ioTMtVbZ5"
     },
     {
-      "added_at": "2025-06-05 22:00:34",
+      "added_at": "2025-06-12 22:00:34",
       "album": {
-        "name": "Tout donner",
-        "url": "https://open.spotify.com/album/2JX4Z6eoaQWk0AizkGIPBC"
+        "name": "Au soleil",
+        "url": "https://open.spotify.com/album/4jddVwMMZONHYaFprJZnPS"
       },
       "artists": [
         {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+          "name": "L'Alg\u00e9rino",
+          "url": "https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui"
         },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 145512,
-      "name": "Tout donner",
-      "url": "https://open.spotify.com/track/3Xta6s5k5IwdTfjLwYMa7O"
-    },
-    {
-      "added_at": "2025-06-05 22:00:34",
-      "album": {
-        "name": "MEGA BBL",
-        "url": "https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p"
-      },
-      "artists": [
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 162041,
-      "name": "ZOU BISOU",
-      "url": "https://open.spotify.com/track/1LmeIVvg4CVTu6kicEVoAr"
-    },
-    {
-      "added_at": "2025-06-05 22:00:34",
-      "album": {
-        "name": "RS6",
-        "url": "https://open.spotify.com/album/3NOJ88r8w6wqRtNgQInvzi"
-      },
-      "artists": [
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 228017,
-      "name": "RS6",
-      "url": "https://open.spotify.com/track/6EqhAlO3OAirPbd1kwIbBX"
-    },
-    {
-      "added_at": "2025-06-05 22:00:34",
-      "album": {
-        "name": "Pichichi",
-        "url": "https://open.spotify.com/album/7fCO7PBtuTuGrFJs4V8Hd7"
-      },
-      "artists": [
         {
           "name": "Josas",
           "url": "https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU"
         }
       ],
-      "duration_ms": 178319,
-      "name": "Pichichi",
-      "url": "https://open.spotify.com/track/05iONcJNHLMyfXIecWpidj"
+      "duration_ms": 169093,
+      "name": "Au soleil",
+      "url": "https://open.spotify.com/track/6DPYjtaohmAGKLxVqXQ4DW"
     },
     {
-      "added_at": "2025-06-05 22:00:34",
-      "album": {
-        "name": "On va",
-        "url": "https://open.spotify.com/album/4jPE2GLs3aCmeY4C6RyuaW"
-      },
-      "artists": [
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        }
-      ],
-      "duration_ms": 144022,
-      "name": "On va",
-      "url": "https://open.spotify.com/track/4rnXUIUfYWCvjPZczSL0a9"
-    },
-    {
-      "added_at": "2025-06-05 22:00:34",
-      "album": {
-        "name": "B\u0112Y\u0100H",
-        "url": "https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV"
-      },
-      "artists": [
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        },
-        {
-          "name": "I.A.",
-          "url": "https://open.spotify.com/artist/1X3wBxJjbLALzN8QqaXIFZ"
-        }
-      ],
-      "duration_ms": 180360,
-      "name": "Magic (feat. I.A.)",
-      "url": "https://open.spotify.com/track/26AJYfDkqXUTOXLW7fYOZO"
-    },
-    {
-      "added_at": "2025-06-05 22:00:34",
-      "album": {
-        "name": "TIMINIK (feat. Yorssy)",
-        "url": "https://open.spotify.com/album/2uxe0f9IzJziDGgrTuZYjv"
-      },
-      "artists": [
-        {
-          "name": "R2",
-          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
-        },
-        {
-          "name": "Yorssy",
-          "url": "https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc"
-        }
-      ],
-      "duration_ms": 149930,
-      "name": "TIMINIK (feat. Yorssy)",
-      "url": "https://open.spotify.com/track/0KfTxvCXxZBfYN3pvzVG2W"
-    },
-    {
-      "added_at": "2025-06-05 22:00:34",
+      "added_at": "2025-06-12 22:00:34",
       "album": {
         "name": "Comment T'aimer Sans Diamants ?",
         "url": "https://open.spotify.com/album/29XRiLlkr4iLRbDz319jM7"
@@ -365,7 +281,219 @@
       "url": "https://open.spotify.com/track/5BII2RgPk98nXOajxZrODH"
     },
     {
-      "added_at": "2025-06-05 22:00:34",
+      "added_at": "2025-06-12 22:00:34",
+      "album": {
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/1BQ2YrKLtRzIuQ7Zai76jJ"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 173538,
+      "name": "Piano",
+      "url": "https://open.spotify.com/track/6xOiC7SgWCFsipcM69jIDO"
+    },
+    {
+      "added_at": "2025-06-12 22:00:34",
+      "album": {
+        "name": "BTRD",
+        "url": "https://open.spotify.com/album/3W3X5NelHHpoxgoGg8V9CB"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        }
+      ],
+      "duration_ms": 140487,
+      "name": "BTRD",
+      "url": "https://open.spotify.com/track/2hndzMd89P8nEG4jTRurPk"
+    },
+    {
+      "added_at": "2025-06-12 22:00:34",
+      "album": {
+        "name": "On va",
+        "url": "https://open.spotify.com/album/4jPE2GLs3aCmeY4C6RyuaW"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 144022,
+      "name": "On va",
+      "url": "https://open.spotify.com/track/4rnXUIUfYWCvjPZczSL0a9"
+    },
+    {
+      "added_at": "2025-06-12 22:00:34",
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/6j1vIDOEZpuiCr8OBU3Dly"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "duration_ms": 155133,
+      "name": "Marius",
+      "url": "https://open.spotify.com/track/1nCTokqcdpdZL8gY7vhrpJ"
+    },
+    {
+      "added_at": "2025-06-12 22:00:34",
+      "album": {
+        "name": "Beluga",
+        "url": "https://open.spotify.com/album/6pynvrRBHonKOcySil3MOL"
+      },
+      "artists": [
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        }
+      ],
+      "duration_ms": 158398,
+      "name": "Beluga",
+      "url": "https://open.spotify.com/track/4Ni26iRBfj5ATXjY3ICTcv"
+    },
+    {
+      "added_at": "2025-06-12 22:00:34",
+      "album": {
+        "name": "MEGA BBL",
+        "url": "https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 162041,
+      "name": "ZOU BISOU",
+      "url": "https://open.spotify.com/track/1LmeIVvg4CVTu6kicEVoAr"
+    },
+    {
+      "added_at": "2025-06-12 22:00:34",
+      "album": {
+        "name": "Sappe Italienne",
+        "url": "https://open.spotify.com/album/6aTcPXCNGhmUDN6ppoYXbC"
+      },
+      "artists": [
+        {
+          "name": "Bello&Dallas",
+          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
+        }
+      ],
+      "duration_ms": 149323,
+      "name": "Sappe Italienne",
+      "url": "https://open.spotify.com/track/3oSozamQiogiek001kUUUu"
+    },
+    {
+      "added_at": "2025-06-12 22:00:34",
+      "album": {
+        "name": "Pichichi",
+        "url": "https://open.spotify.com/album/7fCO7PBtuTuGrFJs4V8Hd7"
+      },
+      "artists": [
+        {
+          "name": "Josas",
+          "url": "https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU"
+        }
+      ],
+      "duration_ms": 178319,
+      "name": "Pichichi",
+      "url": "https://open.spotify.com/track/05iONcJNHLMyfXIecWpidj"
+    },
+    {
+      "added_at": "2025-06-12 22:00:34",
+      "album": {
+        "name": "Tout donner",
+        "url": "https://open.spotify.com/album/2JX4Z6eoaQWk0AizkGIPBC"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 145512,
+      "name": "Tout donner",
+      "url": "https://open.spotify.com/track/3Xta6s5k5IwdTfjLwYMa7O"
+    },
+    {
+      "added_at": "2025-06-12 22:00:34",
+      "album": {
+        "name": "B\u0112Y\u0100H",
+        "url": "https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        },
+        {
+          "name": "I.A.",
+          "url": "https://open.spotify.com/artist/1X3wBxJjbLALzN8QqaXIFZ"
+        }
+      ],
+      "duration_ms": 180360,
+      "name": "Magic (feat. I.A.)",
+      "url": "https://open.spotify.com/track/26AJYfDkqXUTOXLW7fYOZO"
+    },
+    {
+      "added_at": "2025-06-12 22:00:34",
+      "album": {
+        "name": "RS6",
+        "url": "https://open.spotify.com/album/3NOJ88r8w6wqRtNgQInvzi"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 228017,
+      "name": "RS6",
+      "url": "https://open.spotify.com/track/6EqhAlO3OAirPbd1kwIbBX"
+    },
+    {
+      "added_at": "2025-06-12 22:00:34",
+      "album": {
+        "name": "Fais pas \u00e7a (Bonus Track)",
+        "url": "https://open.spotify.com/album/6KWu4GcK7eotZp9RAgf3GT"
+      },
+      "artists": [
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "duration_ms": 147375,
+      "name": "Fais pas \u00e7a - Bonus Track",
+      "url": "https://open.spotify.com/track/6NPvUIMvVvIRkFiNzGni9N"
+    },
+    {
+      "added_at": "2025-06-12 22:00:34",
       "album": {
         "name": "TOUCH\u00c9",
         "url": "https://open.spotify.com/album/4iD6uPh3j7fPoPQrmhJIif"
@@ -385,7 +513,7 @@
       "url": "https://open.spotify.com/track/0hQqfUxxTVwYW172Ble1oD"
     },
     {
-      "added_at": "2025-06-05 22:00:34",
+      "added_at": "2025-06-12 22:00:34",
       "album": {
         "name": "PAY!",
         "url": "https://open.spotify.com/album/4V0w5wniprh3z99zFbMPnI"
@@ -405,95 +533,7 @@
       "url": "https://open.spotify.com/track/1qXKTMEUNkTuYBH6kauxW6"
     },
     {
-      "added_at": "2025-06-05 22:00:34",
-      "album": {
-        "name": "Des choses \u00e0 f\u00eater",
-        "url": "https://open.spotify.com/album/6ni7sjISV5G5ifVOJenZax"
-      },
-      "artists": [
-        {
-          "name": "DJ Bens",
-          "url": "https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV"
-        },
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "duration_ms": 151351,
-      "name": "Des choses \u00e0 f\u00eater",
-      "url": "https://open.spotify.com/track/3Hj1lj8KTZhykYOgl6DMfo"
-    },
-    {
-      "added_at": "2025-06-05 22:00:34",
-      "album": {
-        "name": "KINTSUGI",
-        "url": "https://open.spotify.com/album/7o1zpKWhdh1YCvDmPGQ1qt"
-      },
-      "artists": [
-        {
-          "name": "Dinos",
-          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "MISS LILY'S",
-      "url": "https://open.spotify.com/track/6lVMLEpSkWrJcLG6RYPmfr"
-    },
-    {
-      "added_at": "2025-06-05 22:00:34",
-      "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/2RWZ0btto5OuTlS1NCAdbc"
-      },
-      "artists": [
-        {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        }
-      ],
-      "duration_ms": 171537,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/6JFw2mbcNfoFXnrk6AxGK6"
-    },
-    {
-      "added_at": "2025-06-05 22:00:34",
-      "album": {
-        "name": "SANGOTE",
-        "url": "https://open.spotify.com/album/3RWSwTXwgyk9eFi90b8k67"
-      },
-      "artists": [
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        }
-      ],
-      "duration_ms": 133358,
-      "name": "SANGOTE",
-      "url": "https://open.spotify.com/track/5UiZkzHdC4MXZ3Sley68VU"
-    },
-    {
-      "added_at": "2025-06-05 22:00:34",
-      "album": {
-        "name": "Bottega",
-        "url": "https://open.spotify.com/album/7bhBG3c39CJvnXiDiHzvPt"
-      },
-      "artists": [
-        {
-          "name": "Bello&Dallas",
-          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
-        }
-      ],
-      "duration_ms": 179806,
-      "name": "Bottega",
-      "url": "https://open.spotify.com/track/4DNTHdu4F7eTNuhyLQvEzG"
-    },
-    {
-      "added_at": "2025-06-05 22:00:34",
+      "added_at": "2025-06-12 22:00:34",
       "album": {
         "name": "N\u00e9s Pour Briller : Book II",
         "url": "https://open.spotify.com/album/6wOtWRGN4pYSsLbVbLTWwh"
@@ -521,7 +561,39 @@
       "url": "https://open.spotify.com/track/6JqtSOUhtLysi29twfAigk"
     },
     {
-      "added_at": "2025-06-05 22:00:34",
+      "added_at": "2025-06-12 22:00:34",
+      "album": {
+        "name": "Bottega",
+        "url": "https://open.spotify.com/album/7bhBG3c39CJvnXiDiHzvPt"
+      },
+      "artists": [
+        {
+          "name": "Bello&Dallas",
+          "url": "https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo"
+        }
+      ],
+      "duration_ms": 179806,
+      "name": "Bottega",
+      "url": "https://open.spotify.com/track/4DNTHdu4F7eTNuhyLQvEzG"
+    },
+    {
+      "added_at": "2025-06-12 22:00:34",
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/2RWZ0btto5OuTlS1NCAdbc"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "duration_ms": 171537,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/6JFw2mbcNfoFXnrk6AxGK6"
+    },
+    {
+      "added_at": "2025-06-12 22:00:34",
       "album": {
         "name": "P\u00eache passion",
         "url": "https://open.spotify.com/album/4F2byFbowOMCRnzq0kP7u5"
@@ -537,39 +609,7 @@
       "url": "https://open.spotify.com/track/0DuK0nxqmds0pOjEMj8Ga9"
     },
     {
-      "added_at": "2025-06-05 22:00:34",
-      "album": {
-        "name": "L'ARGENT DES GENS",
-        "url": "https://open.spotify.com/album/26S1rKSuoIZxKfvIv7dM1W"
-      },
-      "artists": [
-        {
-          "name": "Iss",
-          "url": "https://open.spotify.com/artist/4BLLuraEiS8Sb3j5csO1jd"
-        }
-      ],
-      "duration_ms": 161951,
-      "name": "L'ARGENT DES GENS",
-      "url": "https://open.spotify.com/track/2g0Vv5r2SqpJfedRvhrb6r"
-    },
-    {
-      "added_at": "2025-06-05 22:00:34",
-      "album": {
-        "name": "NINAO",
-        "url": "https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 167813,
-      "name": "NINAO",
-      "url": "https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN"
-    },
-    {
-      "added_at": "2025-06-05 22:00:34",
+      "added_at": "2025-06-12 22:00:34",
       "album": {
         "name": "Et si j'\u00e9choue ?",
         "url": "https://open.spotify.com/album/2GdJaFHImgt0XXk8eIukxI"
@@ -585,7 +625,43 @@
       "url": "https://open.spotify.com/track/1reRAKrwnfUmbNCrTUGLdn"
     },
     {
-      "added_at": "2025-06-05 22:00:34",
+      "added_at": "2025-06-12 22:00:34",
+      "album": {
+        "name": "L'ARGENT DES GENS",
+        "url": "https://open.spotify.com/album/26S1rKSuoIZxKfvIv7dM1W"
+      },
+      "artists": [
+        {
+          "name": "Iss",
+          "url": "https://open.spotify.com/artist/4BLLuraEiS8Sb3j5csO1jd"
+        }
+      ],
+      "duration_ms": 161951,
+      "name": "L'ARGENT DES GENS",
+      "url": "https://open.spotify.com/track/2g0Vv5r2SqpJfedRvhrb6r"
+    },
+    {
+      "added_at": "2025-06-12 22:00:34",
+      "album": {
+        "name": "TIMINIK (feat. Yorssy)",
+        "url": "https://open.spotify.com/album/2uxe0f9IzJziDGgrTuZYjv"
+      },
+      "artists": [
+        {
+          "name": "R2",
+          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
+        },
+        {
+          "name": "Yorssy",
+          "url": "https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc"
+        }
+      ],
+      "duration_ms": 149930,
+      "name": "TIMINIK (feat. Yorssy)",
+      "url": "https://open.spotify.com/track/0KfTxvCXxZBfYN3pvzVG2W"
+    },
+    {
+      "added_at": "2025-06-12 22:00:34",
       "album": {
         "name": "P\u00e9lican",
         "url": "https://open.spotify.com/album/7tGOpS4UrTuzHTnnyHv8YS"
@@ -601,7 +677,23 @@
       "url": "https://open.spotify.com/track/3vE9tuRoHiyNPG5HJQLgNd"
     },
     {
-      "added_at": "2025-06-05 22:00:34",
+      "added_at": "2025-06-12 22:00:34",
+      "album": {
+        "name": "NINAO",
+        "url": "https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 167813,
+      "name": "NINAO",
+      "url": "https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN"
+    },
+    {
+      "added_at": "2025-06-12 22:00:34",
       "album": {
         "name": "En Attendant Paphos",
         "url": "https://open.spotify.com/album/04shx6Zxkh6JEoln4IX1Me"
@@ -621,43 +713,23 @@
       "url": "https://open.spotify.com/track/3Tl3NwVX0ndMY3jcPaFoVm"
     },
     {
-      "added_at": "2025-06-05 22:00:34",
+      "added_at": "2025-06-12 22:00:34",
       "album": {
-        "name": "Ballon d'or",
-        "url": "https://open.spotify.com/album/3WScTyJbc0q5X7xb9rei6O"
+        "name": "SANGOTE",
+        "url": "https://open.spotify.com/album/3RWSwTXwgyk9eFi90b8k67"
       },
       "artists": [
         {
-          "name": "SenSey'",
-          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
-        },
-        {
-          "name": "RK",
-          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
         }
       ],
-      "duration_ms": 131500,
-      "name": "Ballon d'or",
-      "url": "https://open.spotify.com/track/79VtonGgvoyENawzktwOrt"
+      "duration_ms": 133358,
+      "name": "SANGOTE",
+      "url": "https://open.spotify.com/track/5UiZkzHdC4MXZ3Sley68VU"
     },
     {
-      "added_at": "2025-06-05 22:00:34",
-      "album": {
-        "name": "Zone interdite",
-        "url": "https://open.spotify.com/album/7nzLub4KK8qTnlw28XCAIB"
-      },
-      "artists": [
-        {
-          "name": "Bianca Costa",
-          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
-        }
-      ],
-      "duration_ms": 140666,
-      "name": "Zone interdite",
-      "url": "https://open.spotify.com/track/0d0zzSo36NQBQgVen71PSw"
-    },
-    {
-      "added_at": "2025-06-05 22:00:34",
+      "added_at": "2025-06-12 22:00:34",
       "album": {
         "name": "MASTERCLASS",
         "url": "https://open.spotify.com/album/30a1XGrL7yszb4sGs7jFQF"
@@ -677,39 +749,27 @@
       "url": "https://open.spotify.com/track/3WTapDvfbfqiYoTFD4AEnE"
     },
     {
-      "added_at": "2025-06-05 22:00:34",
+      "added_at": "2025-06-12 22:00:34",
       "album": {
-        "name": "B\u00eatise",
-        "url": "https://open.spotify.com/album/7qa5bQNZ7lfxPJwRY82D0Y"
+        "name": "Ballon d'or",
+        "url": "https://open.spotify.com/album/3WScTyJbc0q5X7xb9rei6O"
       },
       "artists": [
         {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 165253,
-      "name": "B\u00eatise",
-      "url": "https://open.spotify.com/track/4s95iMSAxoMLN0PUpJ2I2L"
-    },
-    {
-      "added_at": "2025-06-05 22:00:34",
-      "album": {
-        "name": "En 4 temps (Part.4)",
-        "url": "https://open.spotify.com/album/2mNDwgUh77heNgLCta1JFG"
-      },
-      "artists": [
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        },
         {
-          "name": "Benab",
-          "url": "https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY"
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
         }
       ],
-      "duration_ms": 157617,
-      "name": "La danse des jaloux",
-      "url": "https://open.spotify.com/track/3b09nU4PXeO42XStlRl0wI"
+      "duration_ms": 131500,
+      "name": "Ballon d'or",
+      "url": "https://open.spotify.com/track/79VtonGgvoyENawzktwOrt"
     },
     {
-      "added_at": "2025-06-05 22:00:34",
+      "added_at": "2025-06-12 22:00:34",
       "album": {
         "name": "Piments",
         "url": "https://open.spotify.com/album/6UubJNujZ1SbEO9ESC5kBX"
@@ -729,28 +789,56 @@
       "url": "https://open.spotify.com/track/0b3us3PyUYV0pYGhgPBeXt"
     },
     {
-      "added_at": "2025-06-05 22:00:34",
+      "added_at": "2025-06-12 22:00:34",
       "album": {
-        "name": "Timinik (feat. Danyl)",
-        "url": "https://open.spotify.com/album/6GztoiCkHXsoR23kbQi59s"
+        "name": "En 4 temps (Part.4)",
+        "url": "https://open.spotify.com/album/2mNDwgUh77heNgLCta1JFG"
       },
       "artists": [
         {
-          "name": "Stony Stone",
-          "url": "https://open.spotify.com/artist/39eNWcMW3ts3zXEQQ34jgR"
-        },
-        {
-          "name": "Boumidjal X",
-          "url": "https://open.spotify.com/artist/3i2AdhSP4YeSYY1m5JoUnK"
-        },
-        {
-          "name": "Danyl",
-          "url": "https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab"
+          "name": "Benab",
+          "url": "https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY"
         }
       ],
-      "duration_ms": 161703,
-      "name": "Timinik (feat. Danyl)",
-      "url": "https://open.spotify.com/track/6tpns1A5tocb0bG2HzZAym"
+      "duration_ms": 157617,
+      "name": "La danse des jaloux",
+      "url": "https://open.spotify.com/track/3b09nU4PXeO42XStlRl0wI"
+    },
+    {
+      "added_at": "2025-06-12 22:00:34",
+      "album": {
+        "name": "Zone interdite",
+        "url": "https://open.spotify.com/album/7nzLub4KK8qTnlw28XCAIB"
+      },
+      "artists": [
+        {
+          "name": "Bianca Costa",
+          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
+        }
+      ],
+      "duration_ms": 140666,
+      "name": "Zone interdite",
+      "url": "https://open.spotify.com/track/0d0zzSo36NQBQgVen71PSw"
+    },
+    {
+      "added_at": "2025-06-12 22:00:34",
+      "album": {
+        "name": "Des choses \u00e0 f\u00eater",
+        "url": "https://open.spotify.com/album/6ni7sjISV5G5ifVOJenZax"
+      },
+      "artists": [
+        {
+          "name": "DJ Bens",
+          "url": "https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV"
+        },
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "duration_ms": 151351,
+      "name": "Des choses \u00e0 f\u00eater",
+      "url": "https://open.spotify.com/track/3Hj1lj8KTZhykYOgl6DMfo"
     }
   ],
   "unique_name": "Best Life",

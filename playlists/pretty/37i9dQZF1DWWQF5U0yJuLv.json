@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 43627,
+  "num_followers": 43675,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -565,22 +565,6 @@
       "url": "https://open.spotify.com/track/43eLl2gwEr0fgbFgS11uOh"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "3D Reworks 001",
-        "url": "https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle"
-      },
-      "artists": [
-        {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
-        }
-      ],
-      "duration_ms": 296250,
-      "name": "Resynthesis 3D (Binaural Version - Headphones Only)",
-      "url": "https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Theory of Colours",
@@ -595,6 +579,22 @@
       "duration_ms": 327576,
       "name": "Theory of Colours",
       "url": "https://open.spotify.com/track/7nT24kprAb4l7tI5FSd9zU"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "3D Reworks 001",
+        "url": "https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "duration_ms": 296250,
+      "name": "Resynthesis 3D (Binaural Version - Headphones Only)",
+      "url": "https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Time to Recover",
-        "url": "https://open.spotify.com/album/7wzFqOBxEWo6gmvFntCtSP"
-      },
-      "artists": [
-        {
-          "name": "Feiertag",
-          "url": "https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q"
-        }
-      ],
-      "duration_ms": 136383,
-      "name": "Stranger to One",
-      "url": "https://open.spotify.com/track/0NaOI7rSBynlCl5ss2R2Hj"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
         "name": "Illusion Of Time",
         "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 262373,
       "name": "Illusion Of Time",
       "url": "https://open.spotify.com/track/3Bt8RJQH4KGo1OjyXATkC9"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Time to Recover",
+        "url": "https://open.spotify.com/album/7wzFqOBxEWo6gmvFntCtSP"
+      },
+      "artists": [
+        {
+          "name": "Feiertag",
+          "url": "https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q"
+        }
+      ],
+      "duration_ms": 136383,
+      "name": "Stranger to One",
+      "url": "https://open.spotify.com/track/0NaOI7rSBynlCl5ss2R2Hj"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1081,22 +1081,6 @@
       "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
     },
     {
-      "added_at": "2023-03-03 04:01:23",
-      "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Dragonfly",
-      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Puzzlewood",
@@ -1111,6 +1095,22 @@
       "duration_ms": 150289,
       "name": "Years and Elements",
       "url": "https://open.spotify.com/track/7sLQ99cOLqGQ63xKIKPhz2"
+    },
+    {
+      "added_at": "2023-03-03 04:01:23",
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1145,22 +1145,6 @@
       "url": "https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Sorry I Make You Lush",
-        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
-      },
-      "artists": [
-        {
-          "name": "Wagon Christ",
-          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
-        }
-      ],
-      "duration_ms": 420066,
-      "name": "Sci-Fi Staircase",
-      "url": "https://open.spotify.com/track/1ilAKNVQwIZXaFna2q2dne"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Mahi Mahi",
@@ -1185,6 +1169,38 @@
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
     },
     {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Sorry I Make You Lush",
+        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
+      },
+      "artists": [
+        {
+          "name": "Wagon Christ",
+          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
+        }
+      ],
+      "duration_ms": 420066,
+      "name": "Sci-Fi Staircase",
+      "url": "https://open.spotify.com/track/1ilAKNVQwIZXaFna2q2dne"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Harmonic Frequencies",
+        "url": "https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 383899,
+      "name": "Music To Heal To",
+      "url": "https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R"
+    },
+    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Space Oddities: Studio Ganaro (1972-1982)",
@@ -1207,22 +1223,6 @@
       "duration_ms": 123973,
       "name": "Beyond the Clouds",
       "url": "https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Harmonic Frequencies",
-        "url": "https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        }
-      ],
-      "duration_ms": 383899,
-      "name": "Music To Heal To",
-      "url": "https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1309,6 +1309,22 @@
       "url": "https://open.spotify.com/track/3pF1nA7Yman56XhJrVx619"
     },
     {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Between Voids",
+        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
+      },
+      "artists": [
+        {
+          "name": "Oils",
+          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "The Psychedelic One",
+      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
+    },
+    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Tanz Mit Mir",
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Between Voids",
-        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
-      },
-      "artists": [
-        {
-          "name": "Oils",
-          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "The Psychedelic One",
-      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "Cambio Wechsel",
         "url": "https://open.spotify.com/album/2a5VqPCZr3SFu2aUdQseP2"
       },
@@ -1355,22 +1355,6 @@
       "duration_ms": 390986,
       "name": "After Gold",
       "url": "https://open.spotify.com/track/3Nr62FFbrwPRAAmKoLbR7a"
-    },
-    {
-      "added_at": "2024-08-14 16:50:39",
-      "album": {
-        "name": "An Everest Death Situation",
-        "url": "https://open.spotify.com/album/7yd8fkS9oPpQUxRXnRBy8x"
-      },
-      "artists": [
-        {
-          "name": "||||||||||||||||||||",
-          "url": "https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L"
-        }
-      ],
-      "duration_ms": 249411,
-      "name": "An Everest Death Situation",
-      "url": "https://open.spotify.com/track/72PjzX9gjNaKMMdiesyhvK"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1405,6 +1389,38 @@
       "url": "https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op"
     },
     {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Comfort Chain",
+        "url": "https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK"
+      },
+      "artists": [
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        }
+      ],
+      "duration_ms": 184363,
+      "name": "Comfort Chain",
+      "url": "https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA"
+    },
+    {
+      "added_at": "2024-08-14 16:50:39",
+      "album": {
+        "name": "An Everest Death Situation",
+        "url": "https://open.spotify.com/album/7yd8fkS9oPpQUxRXnRBy8x"
+      },
+      "artists": [
+        {
+          "name": "||||||||||||||||||||",
+          "url": "https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L"
+        }
+      ],
+      "duration_ms": 249411,
+      "name": "An Everest Death Situation",
+      "url": "https://open.spotify.com/track/72PjzX9gjNaKMMdiesyhvK"
+    },
+    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Elaenia",
@@ -1437,6 +1453,22 @@
       "url": "https://open.spotify.com/track/4xsuHsl6KbNrkFnCvNY3JG"
     },
     {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "L'illustration Musicale",
+        "url": "https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1"
+      },
+      "artists": [
+        {
+          "name": "King Of Woolworths",
+          "url": "https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd"
+        }
+      ],
+      "duration_ms": 370800,
+      "name": "Delia Derbyshire",
+      "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
+    },
+    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Sequenza",
@@ -1455,22 +1487,6 @@
       "duration_ms": 344120,
       "name": "Balani",
       "url": "https://open.spotify.com/track/56wgd67KYDVpw9yAjxBv69"
-    },
-    {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "L'illustration Musicale",
-        "url": "https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1"
-      },
-      "artists": [
-        {
-          "name": "King Of Woolworths",
-          "url": "https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd"
-        }
-      ],
-      "duration_ms": 370800,
-      "name": "Delia Derbyshire",
-      "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1551,22 +1567,6 @@
       "duration_ms": 361000,
       "name": "Fine Life",
       "url": "https://open.spotify.com/track/01ZnisNETzHvTe8xr2hWP4"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Comfort Chain",
-        "url": "https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK"
-      },
-      "artists": [
-        {
-          "name": "Instupendo",
-          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
-        }
-      ],
-      "duration_ms": 184363,
-      "name": "Comfort Chain",
-      "url": "https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Iaora Tahiti",
-        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
-      },
-      "artists": [
-        {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        }
-      ],
-      "duration_ms": 278493,
-      "name": "Stereomission",
-      "url": "https://open.spotify.com/track/2bEFcAISP2KpoWCiWI6Pzc"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "Yes! Come Parade With Us",
         "url": "https://open.spotify.com/album/0DGVDqsHo3NiZk59BnkMMz"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 400160,
       "name": "Doing The Beeston Bump",
       "url": "https://open.spotify.com/track/3RBhQ7D3w60wUdt98R7SUB"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Iaora Tahiti",
+        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 278493,
+      "name": "Stereomission",
+      "url": "https://open.spotify.com/track/2bEFcAISP2KpoWCiWI6Pzc"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1801,22 +1801,6 @@
       "url": "https://open.spotify.com/track/5sw0c6FmdTgXlUyfy7YSc4"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Autoditacker",
-        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
-      },
-      "artists": [
-        {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        }
-      ],
-      "duration_ms": 333240,
-      "name": "Tamagnocchi",
-      "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Body Riddle (Remastered)",
@@ -1831,6 +1815,22 @@
       "duration_ms": 174560,
       "name": "Ted",
       "url": "https://open.spotify.com/track/3IjaYRvTNhDP48KFGtBldN"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Autoditacker",
+        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 333240,
+      "name": "Tamagnocchi",
+      "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1985,22 +1985,6 @@
       "url": "https://open.spotify.com/track/7s7vBGH4EDmq2WUAQPOOM8"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Das Ist Ein Groovybeat, Ja",
-        "url": "https://open.spotify.com/album/01yJzz91YLSKPTGNO27WyS"
-      },
-      "artists": [
-        {
-          "name": "Jake Slazenger",
-          "url": "https://open.spotify.com/artist/7tDwkE4GtB5MKlmXfIEqMh"
-        }
-      ],
-      "duration_ms": 379266,
-      "name": "Nautilus",
-      "url": "https://open.spotify.com/track/3LAB79eJTC9M6B39E6GjJx"
-    },
-    {
       "added_at": "2024-02-02 05:58:22",
       "album": {
         "name": "Z",
@@ -2015,6 +1999,22 @@
       "duration_ms": 235140,
       "name": "Z",
       "url": "https://open.spotify.com/track/19G1b84wBvs8AB4mpkaLQb"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "Das Ist Ein Groovybeat, Ja",
+        "url": "https://open.spotify.com/album/01yJzz91YLSKPTGNO27WyS"
+      },
+      "artists": [
+        {
+          "name": "Jake Slazenger",
+          "url": "https://open.spotify.com/artist/7tDwkE4GtB5MKlmXfIEqMh"
+        }
+      ],
+      "duration_ms": 379266,
+      "name": "Nautilus",
+      "url": "https://open.spotify.com/track/3LAB79eJTC9M6B39E6GjJx"
     },
     {
       "added_at": "2023-02-17 01:53:11",

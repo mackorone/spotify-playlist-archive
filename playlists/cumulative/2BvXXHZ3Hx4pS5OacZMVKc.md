@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-392 songs - 20 hr 26 min
+393 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [The Rage](https://open.spotify.com/track/46rsDvRdmRS4gT0B3FjYtO) | [OMAS](https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK), [Awon](https://open.spotify.com/artist/3PHUMTV0xDmeztu4D3fhbz), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [The Rage](https://open.spotify.com/album/3BVuOvZv08198bgIlFe9u7) | 2:46 | 2023-08-10 |  |
 | [The Rave](https://open.spotify.com/track/7cB1JVWbvr1xCuPtKierCZ) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to) | [The Rave](https://open.spotify.com/album/7ejaovPspMQwffUKEc7zwp) | 2:56 | 2023-08-10 |  |
 | [The Raven](https://open.spotify.com/track/2w2iMR6n4qVqshzSqRvxb8) | [ATSMXN](https://open.spotify.com/artist/0SfWpeYPEYKn732iefQThW), [XTOM](https://open.spotify.com/artist/4zB6ahEJIuTVI5AgzqYrH5) | [The Raven](https://open.spotify.com/album/6RWjPQmoIP50S14aLXBS8E) | 1:55 | 2023-04-14 |  |
+| [The Redeemer](https://open.spotify.com/track/0eFVCzAfOfbK053Kwy2qVO) | [ANIZYZ](https://open.spotify.com/artist/2MWaA6CZ9Rf8tDDuoMjZJq), [BVSSL7ON](https://open.spotify.com/artist/68eoJvGNNchU2mUZaE8f3X) | [The Redeemer](https://open.spotify.com/album/6v2ASAAYoG0Ee0G0e7KJua) | 1:33 | 2025-06-12 |  |
 | [The Revolution \- Arc North Remix](https://open.spotify.com/track/4tjxa3WaYdgVVfVGzkMWAN) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH) | [The Revolution \(Remixed\)](https://open.spotify.com/album/2GeQ0N4tJLvtpVKLLd2M3g) | 3:10 | 2022-02-03 | 2023-08-11 |
 | [The Time](https://open.spotify.com/track/4BBZYc1dqFnjg7Q0FBifkE) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP) | [The Time](https://open.spotify.com/album/5c4WYL7FNA1Q5CtkWURneS) | 3:30 | 2023-08-10 | 2024-11-20 |
 | [There's Nobody Else](https://open.spotify.com/track/3VssPt5F9RG40fyiz56bqo) | [Chris Later](https://open.spotify.com/artist/7kOhsEdKbT5rsDVAShrpmq), [Dany Yeager](https://open.spotify.com/artist/6eNcrRzNwtMcyuW0cfYe5u) | [There's Nobody Else](https://open.spotify.com/album/5cm7dJUDOmP6OfAeQxAGbL) | 2:41 | 2022-02-15 | 2023-08-11 |

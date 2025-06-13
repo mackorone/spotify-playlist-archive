@@ -23,6 +23,32 @@
     },
     {
       "album": {
+        "name": "Moose Print",
+        "url": "https://open.spotify.com/album/2MuQAMXZxuEkx6bHDl439k"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "Jenny Johal",
+          "url": "https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd"
+        },
+        {
+          "name": "The Kidd",
+          "url": "https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132334,
+      "name": "0008",
+      "url": "https://open.spotify.com/track/5C3caQlYqE3Z6jcyRTtfME"
+    },
+    {
+      "album": {
         "name": "2 Khatole",
         "url": "https://open.spotify.com/album/4kqHC4y4BtSLvpaeNBxQgK"
       },
@@ -8542,7 +8568,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 217894,
       "name": "Husn",
       "url": "https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY"
@@ -9916,7 +9942,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 236933,
       "name": "Jeene Laga Hoon",
       "url": "https://open.spotify.com/track/3t3wsY5IdLVzB9WidegJSU"
@@ -10264,7 +10290,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-12",
+      "date_removed": null,
       "duration_ms": 306173,
       "name": "Jo Tere Sang",
       "url": "https://open.spotify.com/track/0kYBzFJ5a2Jozi6cI4y9Bp"
@@ -16017,6 +16043,28 @@
     },
     {
       "album": {
+        "name": "Moose Print",
+        "url": "https://open.spotify.com/album/2MuQAMXZxuEkx6bHDl439k"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "MXRCI",
+          "url": "https://open.spotify.com/artist/1q3BbdB30BZGt6SQNetoWJ"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200139,
+      "name": "Neal",
+      "url": "https://open.spotify.com/track/15a12ZgdElt3S3z9YzXFpz"
+    },
+    {
+      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -16582,7 +16630,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 159222,
       "name": "One Love",
       "url": "https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t"
@@ -20346,7 +20394,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 586075,
       "name": "Shree Hanuman Chalisa",
       "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"
@@ -21389,6 +21437,28 @@
     },
     {
       "album": {
+        "name": "Moose Print",
+        "url": "https://open.spotify.com/album/2MuQAMXZxuEkx6bHDl439k"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "Jay B",
+          "url": "https://open.spotify.com/artist/6gER61ovSvDU9T4y5CJQ6N"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Take Notes",
+      "url": "https://open.spotify.com/track/4qSvRa46syIXbOwN1LCLMF"
+    },
+    {
+      "album": {
         "name": "Take Two",
         "url": "https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k"
       },
@@ -21722,7 +21792,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-12",
+      "date_removed": null,
       "duration_ms": 309640,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/37j9F77SglsxJruWdGUxIY"
@@ -21752,7 +21822,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 309640,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/4FeczSomVWVyU4FW7xDeAI"
@@ -23044,7 +23114,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 341933,
       "name": "Tu Jaane Na",
       "url": "https://open.spotify.com/track/5vGiuYFSGekGLgbxhV1rD5"
@@ -24894,7 +24964,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 227441,
       "name": "Winning Speech",
       "url": "https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ"

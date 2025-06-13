@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBcxmKiZ0B8.md) - [plain]
 
 > 周杰倫是華語樂壇千禧以來最重要的名字，被稱為「亞洲流行音樂新天王」。
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,898 likes - 101 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,933 likes - 101 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBcxmKiZ0B8.md) - [plain]
 | 100 | [雙截棍](https://open.spotify.com/track/7x3jTWvd3MrRvkzyHhT8lk) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [范特西](https://open.spotify.com/album/2Fqnupm2XuhY25Wa3yjnvY) | 3:21 |
 | 101 | [牛仔很忙](https://open.spotify.com/track/4eIxdrVN54RZOJYkmyklUT) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [我很忙](https://open.spotify.com/album/39PHyEjzFKafPr9EM7vQVk) | 2:48 |
 
-Snapshot ID: `AAAAAEigaA/ojQNNpAz2T0JhYFlcAPnU`
+Snapshot ID: `aEHBSwAAAABgIH1dc6qL6PI7Lz+AFrPk`

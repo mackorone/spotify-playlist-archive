@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,065 likes - 149 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,086 likes - 149 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [El Mayor](https://open.spotify.com/track/0zCXkQqiVItDnClHPSyNd1) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [El Mayor](https://open.spotify.com/album/15WDSMS14fdqlntiw5SwLF) | 2:09 |
 | 2 | [Peekskills](https://open.spotify.com/track/0Qk32yAxmSsyHmvILqfsdT) | [Em Monet](https://open.spotify.com/artist/2hzlSHfKcUQMB1B3wTwOd0) | [Peekskills](https://open.spotify.com/album/0o3eEFDa3NqHEuiS8G3WjI) | 2:15 |
 | 3 | [Remembering](https://open.spotify.com/track/2KbLzZgHUCGNifpbDlQVur) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Remembering](https://open.spotify.com/album/0jzL2BPcDgMmVFnzhXKYRr) | 2:18 |
-| 4 | [Despegue](https://open.spotify.com/track/2AC6EchHotWs5LgJKZgH5B) | [Nuria Polanka](https://open.spotify.com/artist/2kq2VvWZunlZU33VuP144d) | [Despegue](https://open.spotify.com/album/6HmMiJUll7sgw4L40sWZEA) | 2:16 |
+| 4 | [Despegue](https://open.spotify.com/track/2AC6EchHotWs5LgJKZgH5B) | [N\. Polanka](https://open.spotify.com/artist/0CRAXi7CXKjGQvBbqAN53Q) | [Despegue](https://open.spotify.com/album/6HmMiJUll7sgw4L40sWZEA) | 2:16 |
 | 5 | [Close To Home](https://open.spotify.com/track/1yKZOimGS312NRcpwjhsXd) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [Close To Home](https://open.spotify.com/album/5dhdPcBxiWEroTeOjsdgQ4) | 2:33 |
 | 6 | [Presence](https://open.spotify.com/track/65PwJhpGEDq3T9ifVlSM4r) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Presence](https://open.spotify.com/album/7spT1eTyS8gj0L8MHBX69x) | 2:27 |
 | 7 | [Steps ahead](https://open.spotify.com/track/38HxNjQa0seDx02w8fEhLM) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Steps ahead](https://open.spotify.com/album/0XJK0qLoz7yt1v6CskH7E0) | 2:49 |

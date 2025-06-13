@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-804 songs - 1 day 10 hr 16 min
+806 songs - 1 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Albarracín](https://open.spotify.com/track/1Syf6EfG7o04qESj65mxOv) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Albarracín](https://open.spotify.com/album/3xlEDW390BcYtfFMesVcv8) | 1:42 | 2022-08-05 | 2023-04-22 |
 | [Alegría](https://open.spotify.com/track/4EknSwO7h0DapEHV5G2vys) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Alegría](https://open.spotify.com/album/2UUxdIpFuyKudZgrUNZA6U) | 2:34 | 2023-04-21 | 2024-06-11 |
 | [Alexandria](https://open.spotify.com/track/6VBcvDRVk9dPAVkA9Katq8) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Alexandria](https://open.spotify.com/album/40l2y3r9iYUVkxTrA5yYU1) | 2:38 | 2023-04-21 | 2023-06-03 |
-| [Algo Lento](https://open.spotify.com/track/7eDXi2Pu6Kx9Qxam7Rtn6V) | [Antonio Conti](https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk) | [Algo Lento](https://open.spotify.com/album/1zq6QFxR7OhZbgKLWUDtMs) | 2:17 | 2025-06-11 |  |
+| [Algo Lento](https://open.spotify.com/track/7eDXi2Pu6Kx9Qxam7Rtn6V) | [Antonio Conti](https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk) | [Algo Lento](https://open.spotify.com/album/1zq6QFxR7OhZbgKLWUDtMs) | 2:17 | 2025-06-11 | 2025-06-13 |
 | [All Because I Found You](https://open.spotify.com/track/7nMYvgw89GfmCixfIopY3J) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [All Because I Found You](https://open.spotify.com/album/1bAwPcodbxhx19GvgzYSsX) | 3:11 | 2023-05-12 | 2024-05-28 |
 | [Along The River Bed](https://open.spotify.com/track/1BM24Gn75oMaeHhhepw5s5) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [Along The River Bed](https://open.spotify.com/album/5SgOo5N1ol9tZM97orurK0) | 3:26 | 2023-04-21 | 2023-05-13 |
 | [Alpen Rose](https://open.spotify.com/track/4pSxsViyGEsfiKcj5BbpvY) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Alpen Rose](https://open.spotify.com/album/0d5G3HUH7LhGhaegh6k2YW) | 2:44 | 2022-12-16 | 2023-04-22 |
@@ -173,6 +173,7 @@
 | [das einsame Waldhaus](https://open.spotify.com/track/4vZ4qi9FYdMdqKB8g0dzxo) | [Erling Kruger](https://open.spotify.com/artist/4yyGsrMPRSGVkD8eNDfIGB) | [das einsame Waldhaus](https://open.spotify.com/album/6qkwLbJ5GqcOaLRYysZ511) | 3:03 | 2022-07-15 | 2023-04-22 |
 | [Davinci](https://open.spotify.com/track/74xrzR2MKdzp7AT06enGvk) | [Novia Stella](https://open.spotify.com/artist/5FsD7fr9sKWu0x5XdJHrDA) | [Davinci](https://open.spotify.com/album/1vkIgRJj1wNbkmEyOl9aUa) | 2:07 | 2022-07-15 | 2024-04-06 |
 | [Davos](https://open.spotify.com/track/1HysgmozgWjfu83BAbEdtc) | [Salcao](https://open.spotify.com/artist/4eVKlYwBe7gA40wiemmlNb) | [City Lights](https://open.spotify.com/album/3pB85c4xe6G94NlxPsAALn) | 2:26 | 2022-07-15 | 2023-04-22 |
+| [Day Break](https://open.spotify.com/track/6TgJqQlvZ9jLrVGsPdbGXD) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Day Break](https://open.spotify.com/album/3CwJPDKz6DsLpG5Ll14u8W) | 2:32 | 2025-06-11 |  |
 | [Daydreaming](https://open.spotify.com/track/5bW0EnMVhOu1AXw7o2MCw0) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Daydreaming](https://open.spotify.com/album/07g5N8EwAM9vyme63uFUue) | 1:54 | 2023-04-21 | 2023-06-09 |
 | [Daylight](https://open.spotify.com/track/27JyPhZMT8qnYNlOyMZLgP) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Daylight](https://open.spotify.com/album/6m9A74ji0dI8rvQVSYyyf7) | 2:29 | 2023-04-21 |  |
 | [De temps en temps](https://open.spotify.com/track/78wLZdPFQtcAccKza4LTlY) | [Thaisa Deboys](https://open.spotify.com/artist/1mIbAzEXDPLycJNcDcck5B) | [De temps en temps](https://open.spotify.com/album/7b44a6bx4AdAXbgW9rIiHy) | 2:17 | 2023-04-21 | 2023-06-03 |
@@ -255,6 +256,7 @@
 | [Felicitas](https://open.spotify.com/track/4ODPCP6txgH3tMcgJIXTEl) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Felicitas](https://open.spotify.com/album/5u3kzaxNDz6eiuXAZCb1TT) | 2:45 | 2024-02-23 |  |
 | [Fernweh](https://open.spotify.com/track/5EvFIyS4iMpdXCKFlKRsm4) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Fernweh](https://open.spotify.com/album/17EvasbAWye4fNnIGIkOCI) | 2:31 | 2023-04-21 |  |
 | [Ferry](https://open.spotify.com/track/7lJRSS6MFE1xNIRpQ6rVDM) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [Ferry](https://open.spotify.com/album/7uMck64d5mPtB3eOOgGf2J) | 2:39 | 2024-11-26 |  |
+| [Field](https://open.spotify.com/track/4LrY7WhlwMyEl6dY03ckGP) | [David Sereno](https://open.spotify.com/artist/25j4WPpCFt8QQUnb7TmREb) | [Field](https://open.spotify.com/album/4diUNRlr7IBAx9TiL9EKjl) | 2:17 | 2025-06-11 |  |
 | [Fields of rice](https://open.spotify.com/track/1R8TCihTnLIbSjyUiGg2ZV) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Fields of rice](https://open.spotify.com/album/7ARJ8OGba5lnGWqDxUuC4w) | 1:47 | 2023-06-08 | 2023-08-26 |
 | [figurati](https://open.spotify.com/track/1YcdyFscXp5SH6yT0pbjO4) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [figurati](https://open.spotify.com/album/5CN8B0jAv9Ui2fN1apBrYJ) | 1:51 | 2022-07-15 | 2023-04-22 |
 | [Finally Home](https://open.spotify.com/track/3pnosLGt9HFkwCCSrP3SvV) | [Matteo Palmer](https://open.spotify.com/artist/4eOsxaC4lj75U7Qtcbxwn8) | [Finally Home](https://open.spotify.com/album/7p32mbdnUWUY50DzktIjzw) | 1:51 | 2023-04-21 | 2023-06-09 |
@@ -706,7 +708,7 @@
 | [The Game Changer](https://open.spotify.com/track/35CHmzwJtxFaX2jrTwxvSS) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [The Game Changer](https://open.spotify.com/album/1aRdcDtkN2qlomNDagQ85C) | 2:26 | 2024-10-23 |  |
 | [The Hidden Valley](https://open.spotify.com/track/4R7b5uuUvxvER6JksVLDWi) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [The Hidden Valley](https://open.spotify.com/album/3I5xEp9VFZkL52a0DbRKUs) | 2:37 | 2022-12-09 | 2023-04-22 |
 | [The Hourglass](https://open.spotify.com/track/4ZKXTmQ9vGQG4QJEZjhm8u) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [The Hourglass](https://open.spotify.com/album/2JgivIpjbESxpFGEBZrhtK) | 2:14 | 2023-04-21 |  |
-| [The King Of Time](https://open.spotify.com/track/1gx6KSTQ2z9eVLM59C8iYg) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [The King Of Time](https://open.spotify.com/album/1Zb0eZyeNYw3s6pEN7SrCw) | 2:22 | 2025-06-11 |  |
+| [The King Of Time](https://open.spotify.com/track/1gx6KSTQ2z9eVLM59C8iYg) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [The King Of Time](https://open.spotify.com/album/1Zb0eZyeNYw3s6pEN7SrCw) | 2:22 | 2025-06-11 | 2025-06-13 |
 | [The Lighthouse](https://open.spotify.com/track/4DzBcv4qWnW7RfkWJ8fz2M) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Lighthouse](https://open.spotify.com/album/08uz1pfSwbk4z58608njlQ) | 2:20 | 2023-04-21 | 2023-06-09 |
 | [The Longing](https://open.spotify.com/track/29C5rzt8Y8YiyXFUByk41c) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [The Longing](https://open.spotify.com/album/1THZEd8ksJ873IqMsCtTb2) | 2:56 | 2023-04-21 | 2024-04-26 |
 | [The Mural](https://open.spotify.com/track/5M9bPsknT89l9tVjCh8kSI) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Mural](https://open.spotify.com/album/0oCHjXHrYiPoVLjHYnum88) | 2:08 | 2024-06-07 | 2024-12-11 |

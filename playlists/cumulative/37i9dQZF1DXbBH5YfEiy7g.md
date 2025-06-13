@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2?si=uGuuK6QzQtSEFeMF2uASxQ">Benjamin Dube</a>
 
-141 songs - 15 hr 1 min
+142 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Angesabi Lutho \- Live At The Octagon / 2024](https://open.spotify.com/track/7gFKwcRcvDAnE8CP1VtwGJ) | [Musa Yende](https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd) | [Angesabi Lutho \(Live At The Octagon / 2024\)](https://open.spotify.com/album/601cTavoVncT3R8MamZrZj) | 4:55 | 2025-04-11 | 2025-05-16 |
 | [Asikho Isikhali \(Live\)](https://open.spotify.com/track/2b35KuJzUmtfroem1tRM8R) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Asikho Isikhali \(Live\)](https://open.spotify.com/album/141EOfzwPAMzBYjuPimZly) | 12:24 | 2024-10-04 |  |
 | [Awudeli Kimi \- Live At The Octagon / 2024](https://open.spotify.com/track/16SHtnLYIh8YXJE6d8BN30) | [Musa Yende](https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd) | [Sustained By Grace](https://open.spotify.com/album/5RWsRd2bGY4sjXWC25emKV) | 8:46 | 2025-05-16 |  |
+| [Bala Izibusiso \(feat\. Blaq Diamond & Khaya Mthethwa\)](https://open.spotify.com/track/0dIqlIkRzf6oMnPbCnEXqh) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [The GAP](https://open.spotify.com/album/1xFLWxPqiYL71QWH9WRZqm) | 4:05 | 2025-06-13 |  |
 | [Bamba Mzalwane \(Live\)](https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG), [Pastor M Tshabalala](https://open.spotify.com/artist/4y1C1Os7WSQmz4c25ulZQQ) | [Spirit Of Praise, Vol\. 9 \(Live\)](https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv) | 9:16 | 2024-10-04 |  |
 | [Banaka Nako Ea Me E Haufi](https://open.spotify.com/track/3rtv6UeFWYOAbegjRrrGCB) | [Solly Moholo](https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z) | [Motlhang Ke Kolobetswa 'Die Poppe Sal Dans'](https://open.spotify.com/album/6OIg6NwgtsE7kfcPH3PL23) | 5:28 | 2024-10-04 |  |
 | [Bayazibuza](https://open.spotify.com/track/33pRs7b2nBdqG7mCOHQuqh) | [Nduduzo Matse](https://open.spotify.com/artist/6pLZutxrnCCiFIcxy7drQK) | [New Sounds of Glory](https://open.spotify.com/album/1p9jZMfZfbpxRUbel7Ph07) | 5:00 | 2024-10-04 |  |
@@ -42,7 +43,7 @@
 | [He Still Can](https://open.spotify.com/track/01sYriRDv878NT0GrCjPNn) | [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG) | [He Still Can](https://open.spotify.com/album/4i6Flpm2PMEYdPzebXvKGy) | 7:20 | 2025-04-04 |  |
 | [HOLD ON](https://open.spotify.com/track/1THM0TKba1CraCZVHCvpvF) | [DENGA.](https://open.spotify.com/artist/4u0pYkWzdp9ez45JF51x00), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [HOLD ON](https://open.spotify.com/album/4ea005A4r8WqKflyDr5liE) | 4:30 | 2024-10-25 | 2024-11-15 |
 | [I Beat \- Live](https://open.spotify.com/track/4clVVI4aSX59wlc3JfRTkh) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 16 \(Live at Carnival City, 2012\)](https://open.spotify.com/album/1Todx56OeEZLka6ovR7prO) | 6:10 | 2024-10-11 |  |
-| [Icebo Lami](https://open.spotify.com/track/3ZJK0p0svv1nahMZg2bVD4) | [Londiwe Sphe Nxumalo](https://open.spotify.com/artist/0T1PttE74glDfZNF0LA8yi) | [Sizovumelana Worship Encounter](https://open.spotify.com/album/6YUqBdgl5izBkNhwEkqQF9) | 4:58 | 2025-04-11 |  |
+| [Icebo Lami](https://open.spotify.com/track/3ZJK0p0svv1nahMZg2bVD4) | [Londiwe Sphe Nxumalo](https://open.spotify.com/artist/0T1PttE74glDfZNF0LA8yi) | [Sizovumelana Worship Encounter](https://open.spotify.com/album/6YUqBdgl5izBkNhwEkqQF9) | 4:58 | 2025-04-11 | 2025-06-13 |
 | [Igama Lakho \- Live](https://open.spotify.com/track/0rpD7PM4FoyHNFp86OHOK4) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [HEART OF WORSHIP VOL 1](https://open.spotify.com/album/0hSYjCkIgebDmVuuTKzoDg) | 5:55 | 2025-05-02 |  |
 | [In This Place \- Live At Carnival City, 2024](https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [In This Place/Liyabasebenzela \(Live At Carnival City, 2024\)](https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD) | 6:33 | 2025-03-07 |  |
 | [Inceba \- Live](https://open.spotify.com/track/0gY3XhFFRVJpNbd4z0J7wa) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Kept by Grace \(Live\)](https://open.spotify.com/album/1B6aBvOv8EE3oXhj5CpTqX) | 8:21 | 2024-11-16 |  |

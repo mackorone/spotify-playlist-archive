@@ -628,7 +628,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 221720,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/6WBUjjJfJfCuAw2QKrduFv"
@@ -1576,7 +1576,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 239586,
       "name": "Back 2 The Rave",
       "url": "https://open.spotify.com/track/1SXRoogCywl9bDdRQL2BHd"
@@ -3607,6 +3607,28 @@
     },
     {
       "album": {
+        "name": "Connected",
+        "url": "https://open.spotify.com/album/3KDFcNu9Ghk8k51e8Y4aTB"
+      },
+      "artists": [
+        {
+          "name": "Bad Computer",
+          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
+        },
+        {
+          "name": "Gold",
+          "url": "https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147187,
+      "name": "Connected",
+      "url": "https://open.spotify.com/track/45hfGclwBL1fQzjO2rrdgf"
+    },
+    {
+      "album": {
         "name": "Crashing",
         "url": "https://open.spotify.com/album/7fvqYjrOm2leglqnKmBtTC"
       },
@@ -3808,7 +3830,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 194000,
       "name": "Cycles",
       "url": "https://open.spotify.com/track/6m5nyZ7HsnNJ5C1XvkY6Ga"
@@ -4846,7 +4868,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 132071,
       "name": "drunk on u",
       "url": "https://open.spotify.com/track/64KSyt7Jn8jC5lNEB15xjX"
@@ -10264,7 +10286,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 176800,
       "name": "LOCK N LOAD",
       "url": "https://open.spotify.com/track/3OA8WRnghM0VmLXFMTSKnr"
@@ -15180,7 +15202,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 173600,
       "name": "RUSH",
       "url": "https://open.spotify.com/track/0XzKj2ATe07KA0eJfrdNjL"
@@ -17940,7 +17962,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 230000,
       "name": "The High We Seek",
       "url": "https://open.spotify.com/track/4KqsO8DraAibjxNgRqG8Oq"

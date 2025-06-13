@@ -1955,6 +1955,24 @@
     },
     {
       "album": {
+        "name": "Break",
+        "url": "https://open.spotify.com/album/701nJOG1dAwQ0VYSGk3zbt"
+      },
+      "artists": [
+        {
+          "name": "Thando Zide",
+          "url": "https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130565,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/1LtKgnc7y3jW4bkkYozDDc"
+    },
+    {
+      "album": {
         "name": "IN CASE I NEVER LOVE AGAIN ( ICINLA)",
         "url": "https://open.spotify.com/album/0xJWHpLQZOiOKoDzqquHfY"
       },
@@ -2944,6 +2962,28 @@
       "duration_ms": 197520,
       "name": "DFMU",
       "url": "https://open.spotify.com/track/1bdm32mVmoGcek5bVKxQKd"
+    },
+    {
+      "album": {
+        "name": "Still The Mayor",
+        "url": "https://open.spotify.com/album/0Ev8VZe0x9bTzf55gVQNeR"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Diamonds (feat. Fireboy DML)",
+      "url": "https://open.spotify.com/track/09JFIHQ8IPDKrbaDxTICxY"
     },
     {
       "album": {
@@ -5362,7 +5402,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 158069,
       "name": "Hold You Down",
       "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
@@ -8670,7 +8710,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 175200,
       "name": "Mr Heartbreaker",
       "url": "https://open.spotify.com/track/5cBjxlthH8KxsfrXlal3Vv"
@@ -9392,7 +9432,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 186616,
       "name": "Nufftime",
       "url": "https://open.spotify.com/track/0pMwoHmBn1QG6vsbTP2Ipa"
@@ -13436,6 +13476,28 @@
       "duration_ms": 150000,
       "name": "Tears",
       "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
+    },
+    {
+      "album": {
+        "name": "tears water my garden",
+        "url": "https://open.spotify.com/album/4XV75WSejdJE5vyeeUugl6"
+      },
+      "artists": [
+        {
+          "name": "nostalgiclegend",
+          "url": "https://open.spotify.com/artist/3uFHqCG2upcBFspDduHuRx"
+        },
+        {
+          "name": "OrahDae",
+          "url": "https://open.spotify.com/artist/24h2OlaHJVuoEZ7naH8Xc7"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183652,
+      "name": "tears water my garden",
+      "url": "https://open.spotify.com/track/37cnPtuVrmQiWzJWhXQ1t7"
     },
     {
       "album": {

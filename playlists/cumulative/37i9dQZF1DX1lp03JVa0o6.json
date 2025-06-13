@@ -830,7 +830,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 153043,
       "name": "all i ever wanted",
       "url": "https://open.spotify.com/track/7vPV3Eo1hjIxkPthWwVpHT"
@@ -5607,6 +5607,28 @@
     },
     {
       "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/3kichZUBPRawFSLkhPzFtB"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Sumner",
+          "url": "https://open.spotify.com/artist/3MkvptiOUwlGj7DyNbJfrY"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167530,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/3tYy5DX20Bd3SO4UABc3Xt"
+    },
+    {
+      "album": {
         "name": "Follow Me (Nobody Listens To Techno)",
         "url": "https://open.spotify.com/album/1dB8M1580MSrjCRQDWIQ8m"
       },
@@ -6030,7 +6052,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 179200,
       "name": "Generation Love",
       "url": "https://open.spotify.com/track/3e5BNbnIsuGQrAIz0yL5wt"
@@ -10942,6 +10964,28 @@
       "duration_ms": 150620,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/6UORRBZMfhTpqQRQy9TBwP"
+    },
+    {
+      "album": {
+        "name": "No Broke Boys",
+        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163994,
+      "name": "No Broke Boys",
+      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
     },
     {
       "album": {

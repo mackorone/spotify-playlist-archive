@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Arron Rebustes, JAO
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,731 likes - 102 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,807 likes - 102 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

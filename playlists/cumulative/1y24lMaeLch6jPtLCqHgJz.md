@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-409 songs - 20 hr 41 min
+410 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Be Better](https://open.spotify.com/track/0uVBiWEyBsnMvdpkU8LgkM) | [Raven & Kreyn](https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Be Better](https://open.spotify.com/album/6UTSEM42sSiteieJFcb896) | 2:40 | 2022-07-29 | 2023-03-18 |
 | [Be Free](https://open.spotify.com/track/74qL4Hr4I8papcKrpTVAw5) | [Roc Dubloc](https://open.spotify.com/artist/2hjZ90rim3E4OjQh6oG2QV) | [Be Free](https://open.spotify.com/album/24flI70Ab8EV3KEOAfYFHT) | 3:49 | 2023-07-10 |  |
 | [Be With You](https://open.spotify.com/track/6nrxoCBatTLJ8GGXDB92vV) | [Marcus Rush](https://open.spotify.com/artist/19a5uNRf1LcUfKtl0C5tL8), [Mad Jester](https://open.spotify.com/artist/6xYAts9ORCoyg9Eeonriav), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Be With You](https://open.spotify.com/album/0WBJ1yTjcIsJ9KHW0RzEpM) | 2:57 | 2023-03-17 | 2024-07-06 |
+| [Beat Of The Drum](https://open.spotify.com/track/3dyTWIExmi3UNPKhhAamlR) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Beat Of The Drum](https://open.spotify.com/album/2o0eytnIsDhifromTpINzS) | 3:10 | 2025-06-12 |  |
 | [Beautiful Disaster](https://open.spotify.com/track/2hqRbIBbF7rNqT9q5Zmqsq) | [Van Snyder](https://open.spotify.com/artist/3hxJ7exqIsY8CkbNh26b4P), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Beautiful Disaster](https://open.spotify.com/album/7xafuOSJw67DzfhM2KlPHE) | 3:07 | 2022-08-11 | 2023-08-11 |
 | [Beauty of Silence \- VIP Mix](https://open.spotify.com/track/3liSV859pCLM7WN1ZPqCOq) | [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU), [Svenson & Gielen](https://open.spotify.com/artist/0u3QU5dRkT3Xeioo16EUtV), [Johan Gielen](https://open.spotify.com/artist/2eSSc4YqhlEw0e11E9oQhP) | [Beauty of Silence \(VIP Mix\)](https://open.spotify.com/album/74qJBuViaaymDTFxi0LfkH) | 3:15 | 2023-12-14 | 2025-03-29 |
 | [Beauty Of The Rave](https://open.spotify.com/track/3xK1m14J42fNwNN6dBk7us) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [Moji](https://open.spotify.com/artist/6xVsW7h4SzGxh6iIgaJQm7) | [Beauty Of The Rave](https://open.spotify.com/album/4RfarIOhg1WEPdnjSJvz1Y) | 2:53 | 2024-08-01 | 2024-11-30 |

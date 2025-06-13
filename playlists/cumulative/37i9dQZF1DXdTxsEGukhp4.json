@@ -4088,7 +4088,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 116567,
       "name": "Omote",
       "url": "https://open.spotify.com/track/32yzfN13URHhpeq5tYbBNX"
@@ -7081,6 +7081,24 @@
     },
     {
       "album": {
+        "name": "\u30ad\u30c6\u30eb",
+        "url": "https://open.spotify.com/album/0I4nSg6CEHKzwsLBLUP5jP"
+      },
+      "artists": [
+        {
+          "name": "NENE",
+          "url": "https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105658,
+      "name": "\u30ad\u30c6\u30eb",
+      "url": "https://open.spotify.com/track/6hCD2M9zRNsmFtVPjNnoKy"
+    },
+    {
+      "album": {
         "name": "DEBUT",
         "url": "https://open.spotify.com/album/3QsVm0REFvXjoxF87Qm4OE"
       },
@@ -7590,7 +7608,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 162025,
       "name": "\u30d0\u30ca\u30ca\u30dc\u30fc\u30c8 (feat. Elle Teresa)",
       "url": "https://open.spotify.com/track/4QixHRVeMuE10nZ42DyzPD"
@@ -9612,6 +9630,24 @@
       "duration_ms": 181392,
       "name": "\u901a\u308a\u96e8",
       "url": "https://open.spotify.com/track/380Ie5zoE1prroPeuNquXH"
+    },
+    {
+      "album": {
+        "name": "YUKAKO",
+        "url": "https://open.spotify.com/album/6LOKVxFzL25htq0rK4z1oI"
+      },
+      "artists": [
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241199,
+      "name": "\u91ce\u826f\u732b",
+      "url": "https://open.spotify.com/track/208BzJ6J8QKcmvRt77hOtv"
     },
     {
       "album": {

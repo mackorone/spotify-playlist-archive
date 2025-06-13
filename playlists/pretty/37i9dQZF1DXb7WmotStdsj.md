@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les hits Raï du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,269 likes - 60 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,376 likes - 60 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hala Rani Fiha](https://open.spotify.com/track/5906V9Gvt3VJzJReUsR8cG) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2), [Raouf Samourai](https://open.spotify.com/artist/68sGJdtxTd8GgSc9oVcaIK) | [Hala Rani Fiha](https://open.spotify.com/album/4aMCboAxYhNkypniSCeZLZ) | 4:50 |
 | 2 | [Nti T9alchi وانا نخلص كلشي](https://open.spotify.com/track/4iJG6cWUusjhEAE25AmMwu) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Nti T9alchi وانا نخلص كلشي](https://open.spotify.com/album/3vjvWe3TFqoAoKYdVoq5m6) | 5:49 |
-| 3 | [Smouni Nrodek](https://open.spotify.com/track/4JcwZAIkdqDWrvFlXjt1bU) | [Cherifi Akram](https://open.spotify.com/artist/1GT5LwzTtwW3Ka716vm4c4) | [Smouni Nrodek](https://open.spotify.com/album/1TAo3CzMQO3mM7zrfcgJ5s) | 4:36 |
-| 4 | [Rani out](https://open.spotify.com/track/1teqXEof0gFqC8tye8xOc6) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2), [Raouf Samourai](https://open.spotify.com/artist/68sGJdtxTd8GgSc9oVcaIK) | [Rani out](https://open.spotify.com/album/0lPxOlFubIMhcCK4CTEBiy) | 4:32 |
-| 5 | [Khatra Trouh Khatra Tji](https://open.spotify.com/track/5Q9jPMLj8BVPQwhqjyHsnx) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt), [Yousri Oscar](https://open.spotify.com/artist/5zANHpMauAK5zIFJFOycE2) | [Khatra Trouh Khatra Tji](https://open.spotify.com/album/7A4BBjY47n9sFWvxNczrhU) | 5:34 |
-| 6 | [Atiteha l'amour عطيتها](https://open.spotify.com/track/0iQYnonGw7XG8m7N1tQdDz) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Atiteha l'amour عطيتها](https://open.spotify.com/album/3F7MCxGdT3r1guFLD8fddV) | 2:55 |
+| 3 | [Atiteha l'amour عطيتها](https://open.spotify.com/track/0iQYnonGw7XG8m7N1tQdDz) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Atiteha l'amour عطيتها](https://open.spotify.com/album/3F7MCxGdT3r1guFLD8fddV) | 2:55 |
+| 4 | [Smouni Nrodek](https://open.spotify.com/track/4JcwZAIkdqDWrvFlXjt1bU) | [Cherifi Akram](https://open.spotify.com/artist/1GT5LwzTtwW3Ka716vm4c4) | [Smouni Nrodek](https://open.spotify.com/album/1TAo3CzMQO3mM7zrfcgJ5s) | 4:36 |
+| 5 | [Rani out](https://open.spotify.com/track/1teqXEof0gFqC8tye8xOc6) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2), [Raouf Samourai](https://open.spotify.com/artist/68sGJdtxTd8GgSc9oVcaIK) | [Rani out](https://open.spotify.com/album/0lPxOlFubIMhcCK4CTEBiy) | 4:32 |
+| 6 | [Khatra Trouh Khatra Tji](https://open.spotify.com/track/5Q9jPMLj8BVPQwhqjyHsnx) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt), [Yousri Oscar](https://open.spotify.com/artist/5zANHpMauAK5zIFJFOycE2) | [Khatra Trouh Khatra Tji](https://open.spotify.com/album/7A4BBjY47n9sFWvxNczrhU) | 5:34 |
 | 7 | [Ma msagma ma cheba ma Hnina](https://open.spotify.com/track/11HB3Toz6I1l7zXQ0RQpuL) | [Djamel Milano](https://open.spotify.com/artist/7AYCOTouVoJVDngBBo37We), [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [Ma msagma ma cheba ma Hnina](https://open.spotify.com/album/2AXP0Z8CA36mMmff32VoGK) | 4:55 |
 | 8 | [Neti Tbghini wana nbghik](https://open.spotify.com/track/0VKSQKJiB6x9KB5tPxjuM5) | [Houari Djazira](https://open.spotify.com/artist/1tSjYFjDNkjUMAgWrhsC3o) | [Neti Tbghini wana nbghik](https://open.spotify.com/album/3jcuNJID5VmFP73WtNF0fT) | 7:44 |
 | 9 | [Malki Haka Weliti](https://open.spotify.com/track/7evwM5uPSZ6WwzICh552Ik) | [Cheb Zaki](https://open.spotify.com/artist/4cDLgPzIec1iULfQjFBBcV) | [Malki Haka Weliti](https://open.spotify.com/album/3bLu6R5DWGi3JX0SyPpeH3) | 4:33 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [Ya Glbi](https://open.spotify.com/track/4iR1FL0ou2i5N9fMv4UZ2M) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Ya Glbi](https://open.spotify.com/album/3Ia5JNFiTOKD1JKsjoyJHq) | 7:08 |
 | 60 | [Fal Moujtama3 Ghir Dahiya](https://open.spotify.com/track/0ASqhlxw7xAYrYu5XPNuQ4) | [Abderrahmane Piti](https://open.spotify.com/artist/0hcxeVxZkWcHMlt0oJw9qY), [Kader Tirigou](https://open.spotify.com/artist/3n2PbnGk8kxle7jy3CPzHs) | [Fal Moujtama3 Ghir Dahiya](https://open.spotify.com/album/6GSFQJUp2IvC2z2aMQoDlz) | 4:35 |
 
-Snapshot ID: `aEVn+QAAAAAkZrJ9lUeIObT4+wOCW3eP`
+Snapshot ID: `aEqn+wAAAADFIBXvJss0r7h2PEcQIpfV`

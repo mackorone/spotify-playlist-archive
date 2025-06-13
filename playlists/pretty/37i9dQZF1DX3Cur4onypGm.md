@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cur4onypGm.md) - [plain]
 
 > Music from "Yuki Yuna is a Hero"/アニメ「結城友奈は勇者である」シリーズの音楽をプレイリストで！©️2021 Project 2H
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,651 likes - 57 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,658 likes - 57 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [HOTPOP](https://open.spotify.com/playlist/37i9dQZF1DXcklpCH5705e)
 
-> Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: JOLIN
+> Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: G.E.M\. 鄧紫棋
 
-200 songs - 13 hr 13 min
+207 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [30/90](https://open.spotify.com/track/55MIRLbZzpYSmMlRt9ZDWM) | [Andrew Garfield](https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72), [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE), [Robin de Jesus](https://open.spotify.com/artist/6mXcTwoata1hkaDMbkzw32), [Alexandra Shipp](https://open.spotify.com/artist/6RKS67sIPOW16NcGWkgdzF), [MJ Rodriguez](https://open.spotify.com/artist/5jMxsWwmiQl6lRo01xHMmG) | [tick, tick..\. BOOM! \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ) | 4:22 | 2022-03-10 | 2023-02-03 |
 | [A Strange Love Song](https://open.spotify.com/track/5SxVJ2qGPoP13ZTZz4yntH) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [A Strange Love Song](https://open.spotify.com/album/202bVHXH17QwF6DnINXZnK) | 4:11 | 2025-05-15 |  |
 | [A.I.N.Y\. \(愛你\)](https://open.spotify.com/track/13l9dTRexqjXmzPESkaHU9) | [Mag Lam](https://open.spotify.com/artist/2fTmvcWWFIP66KlIvWlnlL) | [Neway Music Live X 林欣彤音樂會](https://open.spotify.com/album/5ppZ6CAbt2jAf4HgH3Ov7K) | 2:50 | 2023-02-02 | 2025-04-04 |
+| [A.I.N.Y\. 愛你 \(G.E.M.重生版\)](https://open.spotify.com/track/4uGve3vqfumnGsUMtnGumr) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [I AM GLORIA](https://open.spotify.com/album/4WigYNEa3IVIYF4dRb6vNQ) | 3:47 | 2025-06-12 |  |
 | [BAD SIGN](https://open.spotify.com/track/2QZfiES4z1qGLWREmTqUKu) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [BAD SIGN](https://open.spotify.com/album/6JcbSMJhx8O29eKxgwDeUi) | 3:07 | 2025-04-03 |  |
 | [Crazy for you](https://open.spotify.com/track/4PKWGR4LoNll7GXII66Cjn) | [sino R fine](https://open.spotify.com/artist/7sMfrVvoWbVIeLKkn9cxoO) | [Crazy for you](https://open.spotify.com/album/4ZwDbtFEE7G6zcowuWTBzx) | 3:50 | 2022-03-10 | 2023-02-03 |
 | [Destiny](https://open.spotify.com/track/4JB289q4SM1ZypASnGvg75) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [Jirisan \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/2y71iGGq3MxDcshtswRaWY) | 3:37 | 2022-03-10 | 2022-07-29 |
@@ -53,6 +54,7 @@
 | [Yours](https://open.spotify.com/track/66sBTYlkaiyBwf4fhbIHlZ) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/145FYiluHlYCPGO2MOLhU4) | 4:24 | 2022-03-10 | 2023-02-03 |
 | [คั่นกู \- เพลงประกอบซีรีส์ เพราะเราคู่กัน](https://open.spotify.com/track/2ZGgIXaoierTsnkrDzuBzY) | [BRIGHT](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt) | [เพลงประกอบซีรีส์ เพราะเราคู่กัน](https://open.spotify.com/album/2KhI6iPy0XxzzRvXQnmwsb) | 4:03 | 2022-03-10 | 2023-02-03 |
 | [下一世遇見](https://open.spotify.com/track/0BvSDFthkPOVWfNdIs2BGM) | [Calvert Tay](https://open.spotify.com/artist/3ZYC5DuefIg4HuAAU5YBU4) | [下一世遇見](https://open.spotify.com/album/2JDuShaImrZIYITFQJ2Lba) | 4:25 | 2025-05-01 |  |
+| [两难](https://open.spotify.com/track/7oQku6a7j4laDq3zTI6CRf) | [加木](https://open.spotify.com/artist/45aOa6C5ieGIXh7yExsvVl) | [两难](https://open.spotify.com/album/6HQyq2KNTILRZzwrzKVKsK) | 2:50 | 2025-06-12 |  |
 | [人醒著不過一萬多天](https://open.spotify.com/track/2M3RZZVaDI606gFCf8mQ00) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [人醒著不過一萬多天](https://open.spotify.com/album/6ElA3UsQyvUYOWYycmtAGq) | 4:33 | 2025-04-03 |  |
 | [任性 \(電視劇《難哄》主題曲\)](https://open.spotify.com/track/0kFTS4OH2t44gsLN0a8Khr) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [任性](https://open.spotify.com/album/09rCpK2WyMHP7ymESozHgI) | 4:25 | 2025-04-03 |  |
 | [但願人長久](https://open.spotify.com/track/0K9JlgBeEtcx5I2OgX9hlg) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [晴歌集](https://open.spotify.com/album/2NkOW9aVr1Ov261a9upeH1) | 4:19 | 2023-02-02 | 2025-04-04 |
@@ -142,6 +144,7 @@
 | [最後的信仰 \- Snug In My Arms Live](https://open.spotify.com/track/3XGVrj8xSClxddeiKbbA3C) | [Pong Nan](https://open.spotify.com/artist/6G7bdG4rBz6OQgKudNjoGL) | [Snug In My Arms Live](https://open.spotify.com/album/0lefvBKopUG6Ip0jvqeVCx) | 4:48 | 2024-04-04 | 2025-04-04 |
 | [最後的歌](https://open.spotify.com/track/2cSNM2l9koIzxoKoOkPE9m) | [陳輝陽 x 女聲合唱](https://open.spotify.com/artist/6t1LRAgmnIc4a1hnjhSDHU) | [最後的歌](https://open.spotify.com/album/6obk6R6XuJmp0VFjCGaypj) | 3:30 | 2024-04-04 | 2025-04-04 |
 | [月亮代表我的心 \(《華燈初上》主題曲\)](https://open.spotify.com/track/0Q02NWqQL5m4m8jkp3zsSy) | [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [月亮代表我的心](https://open.spotify.com/album/5EpcaGPuWiDZ2zmqOy5JaJ) | 3:47 | 2022-03-10 | 2023-02-03 |
+| [有一种遗憾叫我们](https://open.spotify.com/track/2lJKw8pv3MhggQ0bkpYlDj) | [田园](https://open.spotify.com/artist/0jM3y35HaOX5szIGplr77U) | [有一种遗憾叫我们](https://open.spotify.com/album/1Ufvo7twAsHynXZpxf92er) | 3:30 | 2025-06-12 |  |
 | [有些](https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [失眠症候群](https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN) | 3:49 | 2025-04-03 |  |
 | [有誰共鳴](https://open.spotify.com/track/6WeK60Z3tB1VdEONdBWfmq) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [有誰共鳴](https://open.spotify.com/album/6p1lJXhCHRZDygLpQORcVK) | 3:12 | 2023-03-16 | 2025-04-04 |
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2022-03-10 | 2023-02-03 |
@@ -165,11 +168,14 @@
 | [白銀](https://open.spotify.com/track/2N1pcj1jkiRtDjpMwo0k4H) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星 / 白銀](https://open.spotify.com/album/0Tucjk9hYUvIDUtsLw5DeV) | 4:24 | 2022-03-10 | 2023-02-03 |
 | [盡力呼吸 \(ViuTV 身後事務所主題曲\)](https://open.spotify.com/track/1KoK7b4MeItuE19jbNpsaT) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [盡力呼吸 \(ViuTV 身後事務所主題曲\)](https://open.spotify.com/album/4OwQFCRUeZROVQ2XjRILfg) | 3:56 | 2022-03-10 | 2023-02-03 |
 | [相信自己相信自己相信自己](https://open.spotify.com/track/7vYOhhgIK5KNPXVcoM1jUP) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [相信自己相信自己相信自己](https://open.spotify.com/album/4CIdGWnaU5tsdbptNCIUIV) | 4:20 | 2025-05-09 |  |
+| [看着我的眼睛说](https://open.spotify.com/track/5cOXSOo4olhVLVSpQBvQaP) | [张远](https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18) | [看着我的眼睛说](https://open.spotify.com/album/1QNyyhTWQ72AGuv88AJqOj) | 4:20 | 2025-06-12 |  |
 | [真不懂為啥又emo了](https://open.spotify.com/track/0U2xVv5i8JddIPobKNuaev) | [8lak](https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w) | [真不懂為啥又emo了](https://open.spotify.com/album/3VZvrik2kpghuw4aoeltXQ) | 2:29 | 2025-05-09 |  |
+| [祝你幸福](https://open.spotify.com/track/4EwkxMSoUkxxGF6jSm3J7R) | [蔡恩雨 Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [祝你幸福](https://open.spotify.com/album/14FTYLF72jDjU18KzMNHpA) | 4:53 | 2025-06-12 |  |
 | [祝君好](https://open.spotify.com/track/5bSF9Tlr0RM7buiMbCoamZ) | [Justin Lo](https://open.spotify.com/artist/3lva01D3HtmlEKjuxAZ7bC) | [金牌醇音樂](https://open.spotify.com/album/6jPQJnhNyqO49dcyJGBHcR) | 4:00 | 2023-02-02 | 2025-04-04 |
 | [禁色](https://open.spotify.com/track/1wx0DU53rprgVs1EfwinIo) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [梁祝下世傳奇 \(2nd Version\)](https://open.spotify.com/album/26NCYcvfFhRwQeyJTK4iOG) | 4:01 | 2023-02-02 | 2025-04-04 |
 | [禁色](https://open.spotify.com/track/3upZiipbPQ6ewvm0PDyarH) | [Pong Nan](https://open.spotify.com/artist/6G7bdG4rBz6OQgKudNjoGL) | [達明一代](https://open.spotify.com/album/512ilWYaatApFMRpBoohXl) | 3:54 | 2024-04-04 | 2025-04-04 |
 | [突如其來的心跳感覺 \(ViuTv 劇集 \[大叔的愛\] 主題曲\)](https://open.spotify.com/track/596MqWmYLojkoFvgygAteu) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7), [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [突如其來的心跳感覺 \(ViuTv 劇集 \[大叔的愛\] 主題曲\)](https://open.spotify.com/album/1GtTUDJrBUbRACKrBmmVTC) | 3:17 | 2022-03-10 | 2023-02-03 |
+| [第57次取消发送](https://open.spotify.com/track/2xYrGeWUjwGvB0KMAfUFSd) | [菲菲公主](https://open.spotify.com/artist/64kT1WWPbIyJcOfNrR2RPD) | [第57次取消发送](https://open.spotify.com/album/56rVxwVN8ymIembS2chjI9) | 3:00 | 2025-06-12 |  |
 | [等](https://open.spotify.com/track/27BDiVBs8rcbGZm6UTIBnU) | [Yatfung](https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48) | [一期一會](https://open.spotify.com/album/5CzYuHAN4K1nxoiiq8U36X) | 3:33 | 2023-02-02 | 2025-04-04 |
 | [約定](https://open.spotify.com/track/55clCVll09oHjttrkShr8x) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [Eason Chan Duo Concert 2010](https://open.spotify.com/album/07fbAm4G10mTHjzWk8pz62) | 5:36 | 2024-04-04 | 2025-04-04 |
 | [紅豆](https://open.spotify.com/track/5TkQbhQm9BXONk2agDo4w9) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [Timeless](https://open.spotify.com/album/2rntSWCLxmhuB25LlnzkbK) | 3:56 | 2023-02-02 | 2025-04-04 |
@@ -207,6 +213,7 @@
 | [飛女正傳](https://open.spotify.com/track/5sj0UfCx4Wjs0epsmL45ZQ) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE) | [金牌醇音樂](https://open.spotify.com/album/6jPQJnhNyqO49dcyJGBHcR) | 4:16 | 2023-02-02 | 2025-04-04 |
 | [馬上去](https://open.spotify.com/track/6qL5U6ljhHZnh7TrnJXliC) | [Energy](https://open.spotify.com/artist/6GUGvmk5XZesTWRQdkp69u) | [馬上去](https://open.spotify.com/album/5p9SGkQyOkGCnyyYhC3REe) | 2:34 | 2025-05-29 |  |
 | [馬路天使](https://open.spotify.com/track/2qZx8ZAB4E24KX4bXXo86e) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [達明一代](https://open.spotify.com/album/512ilWYaatApFMRpBoohXl) | 3:31 | 2023-02-02 | 2025-04-04 |
+| [鬼屋](https://open.spotify.com/track/4Kwkce6MVjcuvtW5eROz0K) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [鬼屋](https://open.spotify.com/album/1ViCDoeqfN8kdi6XYvtVvx) | 3:12 | 2025-06-12 |  |
 | [黑暗中漫舞 \(音樂永續作品\)](https://open.spotify.com/track/1Wste23dWh4oBK7MDV60EQ) | [Candy Lo](https://open.spotify.com/artist/51ZbCFgOspWvhBjd1DUYEV) | [黑暗中漫舞 \(音樂永續作品\)](https://open.spotify.com/album/7MA3Eu4JGjc9Ho1vee5xvg) | 4:01 | 2023-02-02 | 2025-04-04 |
 
 \*This playlist was first scraped on 2022-06-09. Prior content cannot be recovered.

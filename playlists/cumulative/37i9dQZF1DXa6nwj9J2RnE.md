@@ -4,7 +4,7 @@
 
 > edgy en met karakter\. cover: Zwangere Guy
 
-202 songs - 10 hr 36 min
+203 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Alles Op Z’n Tijd](https://open.spotify.com/track/7p7Qa1A4x2oMzlw9fGj8T8) | [NAVARONE COLE](https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb) | [Alles Op Z’n Tijd](https://open.spotify.com/album/5u5VMoyy1nlfuX2Ku1G5gr) | 2:59 | 2025-03-12 |  |
 | [Alles Weggegeven](https://open.spotify.com/track/25J6xA9QCLjqN2QdTlOGD1) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Alles Weggegeven](https://open.spotify.com/album/1Rt0CA8bfzHQbGYGUMplwp) | 4:05 | 2023-08-21 | 2023-09-23 |
 | [ALotOnMyMind](https://open.spotify.com/track/0F80wAISZKUUnPSPi2N037) | [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [OPEN, BLOOT 'N PARANOÏDE](https://open.spotify.com/album/3A3X4wF8mPeP4rZylYawXz) | 2:12 | 2023-02-23 | 2023-06-09 |
+| [ALS IK WAKKER WORD](https://open.spotify.com/track/4EprCUJCCMXk6MbncUj10a) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [de vluGtlaan](https://open.spotify.com/album/78zhc4bB3FYASBaDlilWC4) | 4:28 | 2025-06-12 |  |
 | [Als Je Me Loslaat](https://open.spotify.com/track/1Tml6FZEX7iOYZAn6Qc3Wl) | [Puck](https://open.spotify.com/artist/25Z7oVgSb38ts7pl4c8O4V) | [Als Je Me Loslaat](https://open.spotify.com/album/19zvB5ueqojjM90lILpZ9M) | 2:50 | 2023-02-23 | 2024-05-10 |
 | [Als Water](https://open.spotify.com/track/6Crw1yc2A4W6L5LgOPnolS) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Spuug van God](https://open.spotify.com/album/1aAim07lpl5ARWVls0wKqM) | 2:34 | 2024-03-07 | 2024-06-14 |
 | [Amélie](https://open.spotify.com/track/5pzoOun3VFVoLalf1g3K51) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 3](https://open.spotify.com/album/778dqDSQrBMxfBiGjiiLfE) | 3:48 | 2023-02-23 | 2023-06-09 |
@@ -136,7 +137,7 @@
 | [Piramide](https://open.spotify.com/track/0vUfd8TGyDlK8lTa9mxywv) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Nachtblind](https://open.spotify.com/album/24DodGp1X7O17mu0kiKInY) | 2:51 | 2024-11-14 |  |
 | [PRADA STELEN](https://open.spotify.com/track/3KRNIDpr9CVCJ3ai2OGUlG) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [IJSLAND](https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW) | [IJSLAND](https://open.spotify.com/album/3Rqpc58WsgqBIDG3KVMiNB) | 3:11 | 2024-06-21 | 2024-09-10 |
 | [Rattenvangers \(feat\. Narco Polo\)](https://open.spotify.com/track/63Um882mx8VU63sIPSUnaQ) | [NAVARONE COLE](https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb), [Narco Polo](https://open.spotify.com/artist/2ch88eaD8zZvaiC3aGqJGW) | [Rattenvangers \(feat\. Narco Polo\)](https://open.spotify.com/album/56Bs2R9n1BtUYsgyD0Up9E) | 2:46 | 2025-04-03 |  |
-| [READY!](https://open.spotify.com/track/5oQi3yIhmG09qf9vAN09qJ) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ) | [de vluGtlaan](https://open.spotify.com/album/78zhc4bB3FYASBaDlilWC4) | 2:19 | 2025-02-28 |  |
+| [READY!](https://open.spotify.com/track/5oQi3yIhmG09qf9vAN09qJ) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ) | [de vluGtlaan](https://open.spotify.com/album/78zhc4bB3FYASBaDlilWC4) | 2:19 | 2025-02-28 | 2025-06-13 |
 | [round and round](https://open.spotify.com/track/4trRNTD2vikuHOb0mJPWXe) | [DEHAZE](https://open.spotify.com/artist/3lFS8jJTgqYqETcnc8rpF4) | [round and round](https://open.spotify.com/album/0jkKfyJLmkKmCGYoo4GA7c) | 3:22 | 2024-03-28 | 2024-10-25 |
 | [Safari](https://open.spotify.com/track/63m0FSZlrlvZsw4NqC2ZJA) | [YVES](https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ), [SHY](https://open.spotify.com/artist/6XPCiOK0ZzG8WJhUsnyU7T) | [Safari](https://open.spotify.com/album/6Ls71z8Zwbzw6zMwxWkv2a) | 3:06 | 2024-09-12 |  |
 | [Same Room](https://open.spotify.com/track/50tVoG8Nxgm306HKSiwYZV) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [UI](https://open.spotify.com/album/27cG0rL8gIm1yQekB8ibjL) | 3:22 | 2023-02-23 | 2024-02-03 |

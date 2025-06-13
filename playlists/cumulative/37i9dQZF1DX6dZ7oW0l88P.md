@@ -4,7 +4,7 @@
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-213 songs - 10 hr 45 min
+216 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [about a flower](https://open.spotify.com/track/7CYLeiX2QNGzDIt9LMXBvz) | [Ezra Santos](https://open.spotify.com/artist/3sTuSeAY6N4wIUeV4zVmbX) | [about a flower](https://open.spotify.com/album/5ji1JFiWgGmvxK8jg2rOvT) | 2:58 | 2024-07-16 | 2024-08-30 |
 | [Aeolian Echoes](https://open.spotify.com/track/6eDW0LQieSmvyUBCm9X4Ne) | [August Deware](https://open.spotify.com/artist/4JkwQIDvHhzRTVVs6JcxjZ) | [Aeolian Echoes](https://open.spotify.com/album/1K5aPVNeOqduH6HOjgoJqy) | 3:03 | 2023-09-20 |  |
 | [Air](https://open.spotify.com/track/010Fakb9MSuX7JKJXpYdMn) | [Yvon Brosseau](https://open.spotify.com/artist/3HhJCAu0uQ95w9eHjxNBt8) | [Air](https://open.spotify.com/album/2ncIJGdJ3qP4sus8MJRZDE) | 3:03 | 2023-10-04 | 2024-08-30 |
+| [Alami Calma](https://open.spotify.com/track/38M52H0WHEnyySoxLObqGy) | [Space Case Travel Inc.](https://open.spotify.com/artist/1mncFR44LStEXPFNplCyrC) | [Alami Calma](https://open.spotify.com/album/2epmnJevgjT3B70SISwT0t) | 2:45 | 2025-06-12 |  |
 | [All of Me \(Instrumental Version\)](https://open.spotify.com/track/3Zc7KXq9O7sWHePYMcKauY) | [Ivy Ravenwood](https://open.spotify.com/artist/4sch5lw4B8tfy0uWtQ4lfn) | [Covers of Popular Love Songs on Harp](https://open.spotify.com/album/2bliklpSIhmoyXBcIpEVF3) | 4:06 | 2022-05-11 | 2024-09-05 |
 | [All Will Be Well](https://open.spotify.com/track/6iowz3YABCssMEveogLct9) | [Zen of Harp](https://open.spotify.com/artist/55AxE4yhhIf9nr1EtXi7Ti) | [The Passage of Time](https://open.spotify.com/album/2n0k9lBkDrqHBQXGZq9169) | 3:00 | 2022-05-11 | 2025-05-07 |
 | [All your dreams](https://open.spotify.com/track/0M3V23JVlV6YtaOigHn8xV) | [Tibby Andrewson](https://open.spotify.com/artist/74Pwf4cFdOvPBXYqSO1LMe) | [All your dreams](https://open.spotify.com/album/7tCWLOhBLZkSbpM6Nalanh) | 1:26 | 2022-05-11 | 2023-10-05 |
@@ -49,6 +50,7 @@
 | [Cromadas](https://open.spotify.com/track/4MTq07Grf8fchP63ZtbKg9) | [Yoga Sonique](https://open.spotify.com/artist/0j9m2Hyt0u5GlBxHna1SO0) | [Cromadas](https://open.spotify.com/album/3DY5sYvApWQFgsmRSb0xEl) | 2:38 | 2023-07-11 |  |
 | [Crystal Lullaby](https://open.spotify.com/track/132vCWF4lyI0gYDH1cTbei) | [Parting Clouds](https://open.spotify.com/artist/1l20ZEjuxcNE41jVZ5uy8Q) | [Crystal Lullaby](https://open.spotify.com/album/5igBC35UybcxjaSe0FAeBG) | 2:26 | 2024-08-29 |  |
 | [Cuando Duermes](https://open.spotify.com/track/22QBOozZLzuYSshTOefP4Q) | [Ivanna Alvear](https://open.spotify.com/artist/7pvajAY2nsMXGyrJ07Vzp3) | [Cuando Duermes](https://open.spotify.com/album/2HoB1MOxFmSMiQZ5N7OQyN) | 1:23 | 2022-05-11 | 2023-10-05 |
+| [Curios Contemplation](https://open.spotify.com/track/3tOuvwLMFVw0qalfb3sB2U) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Curious Contemplation](https://open.spotify.com/album/5xNRLbZgo2ULUSFE0DZZnp) | 2:17 | 2025-06-12 |  |
 | [Dawn](https://open.spotify.com/track/4cJWM1OlvfIH40FdDvRbqZ) | [Ivy Ravenwood](https://open.spotify.com/artist/4sch5lw4B8tfy0uWtQ4lfn) | [Dream the Day Away \- Beautiful Harp Music](https://open.spotify.com/album/7l2FWpV3ev698tW6VjCkw7) | 3:19 | 2022-05-11 | 2024-07-17 |
 | [Daydream](https://open.spotify.com/track/61en4Qpk67pYS8N8odt8qM) | [Ivy Ravenwood](https://open.spotify.com/artist/4sch5lw4B8tfy0uWtQ4lfn) | [Dream the Day Away \- Beautiful Harp Music](https://open.spotify.com/album/7l2FWpV3ev698tW6VjCkw7) | 3:30 | 2022-05-11 |  |
 | [Dharmachakra / Wheel of Dharma](https://open.spotify.com/track/1C4OjtdybVfym3Zr5IZZAE) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Wheel of Dharma](https://open.spotify.com/album/0Serh6qslduvkUBcwpBSLT) | 3:30 | 2023-07-11 |  |
@@ -208,6 +210,7 @@
 | [True Companion](https://open.spotify.com/track/0Sszkjpyl6nkeZVzepg0aH) | [The Harp on the Hill](https://open.spotify.com/artist/2YJfV8rDuyZd1BNmWcPezU) | [The Joy of Faith](https://open.spotify.com/album/6UMZP25HOmSQMSJVhyGUMo) | 3:02 | 2022-05-11 |  |
 | [Two Thumbs Up](https://open.spotify.com/track/4ZMewuctVgUDOar3FNNgjC) | [Leo Fosbrook](https://open.spotify.com/artist/3KWH7rrwTcMZJd9ni15iZW) | [The Ice Cream King](https://open.spotify.com/album/1tGzbOO4dXF4Eh2v7mMJ8p) | 1:31 | 2022-05-11 | 2023-10-05 |
 | [Under the Milky Way](https://open.spotify.com/track/4c35Nwjx5YnGwleLeSLfMR) | [Musiqueen](https://open.spotify.com/artist/53LWRWYSJT3jIvKc0ioBd4) | [Slow Flow](https://open.spotify.com/album/0fP6Ms0JdL2J4frDP5RU8A) | 7:19 | 2023-07-11 | 2023-10-05 |
+| [Unraveling](https://open.spotify.com/track/2gjyHy0uqz6DinTiDPbEM9) | [tonin](https://open.spotify.com/artist/6vh92pGd0glJjM8j9xgQZG) | [Unraveling](https://open.spotify.com/album/6tRka7E5jktC8ugq97fGQA) | 3:06 | 2025-06-12 |  |
 | [Vent](https://open.spotify.com/track/5ILgooP7x12Gl8NBfzRgEP) | [Sanguinus](https://open.spotify.com/artist/0qf4Rq4omzrxX03ZttRH3P) | [Vent](https://open.spotify.com/album/5iLPFFFKwQlFmWevEn3E3S) | 2:51 | 2023-10-04 |  |
 | [Waves Drifting](https://open.spotify.com/track/2wkbVkzzAFlg22f0ZKqFlr) | [Elysian Heart](https://open.spotify.com/artist/1x3oP4wJPV3fUtTV6KQIvD) | [Waves Drifting](https://open.spotify.com/album/7H5hbr3Q8w64p5wt0us5b7) | 3:35 | 2024-12-20 | 2025-05-07 |
 | [We Wave From Our Boats](https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces: 2015\-2020](https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP) | 3:50 | 2023-02-10 | 2023-11-25 |

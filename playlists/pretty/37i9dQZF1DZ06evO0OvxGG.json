@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 7713,
+  "num_followers": 7714,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEd1gAAAAADuc1oX0Q8KWCBoxD96Ml/2",
+  "snapshot_id": "aEjHAAAAAAB5lgCxyHK3lYjKt6muAHxE",
   "tracks": [
     {
       "added_at": null,
@@ -415,34 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slipmami On The Radar Freestyle",
-        "url": "https://open.spotify.com/album/6frAHNzX2l0rZuiq9HG3Lz"
-      },
-      "artists": [
-        {
-          "name": "On The Radar",
-          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Vhulto",
-          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
-        },
-        {
-          "name": "OG Bahia",
-          "url": "https://open.spotify.com/artist/5sWSh5DCUgwN223DmJ1He1"
-        }
-      ],
-      "duration_ms": 76363,
-      "name": "Slipmami On The Radar Freestyle",
-      "url": "https://open.spotify.com/track/5nKndDZkMVKB5lSAHRX1mz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SALA VERMELHA #31 - Slipmami",
         "url": "https://open.spotify.com/album/5MKkPTLOt6yR0NGj328ToX"
       },
@@ -467,6 +439,34 @@
       "duration_ms": 119225,
       "name": "SALA VERMELHA #31 - Slipmami",
       "url": "https://open.spotify.com/track/6BfldmhgnMCt8PHM8xHY7n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slipmami On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/6frAHNzX2l0rZuiq9HG3Lz"
+      },
+      "artists": [
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Vhulto",
+          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
+        },
+        {
+          "name": "OG Bahia",
+          "url": "https://open.spotify.com/artist/5sWSh5DCUgwN223DmJ1He1"
+        }
+      ],
+      "duration_ms": 76363,
+      "name": "Slipmami On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/5nKndDZkMVKB5lSAHRX1mz"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > African dance party music from the continent to Paris\. Photo : Dydy Yeman
 
-240 songs - 13 hr 20 min
+241 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Caprices de Grossesse](https://open.spotify.com/track/6BgeBCh0vWweiQOvYVVKIc) | [Rocky Gold](https://open.spotify.com/artist/0pagPxNrVGh9Qxjh7gn5t7) | [Caprices de Grossesse](https://open.spotify.com/album/20hqf8Bugd8BuK0AkHGHuG) | 4:00 | 2022-02-18 | 2022-06-10 |
 | [Chauffer le moteur](https://open.spotify.com/track/3S6HETWwfANztUu4Bn5mk9) | [Le D](https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX), [Elow'n](https://open.spotify.com/artist/0Gzh0CiahP7loDQP9cn8wt) | [Chauffer le moteur](https://open.spotify.com/album/57EyQk4TpucFXj8yeMdCX3) | 2:47 | 2023-05-18 | 2023-11-24 |
 | [Chebaba](https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Chebaba](https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74) | 3:22 | 2023-01-12 |  |
-| [Chicoter pour fracasser](https://open.spotify.com/track/5a0YN4NfIbOhatuIiQ4aaa) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [Chicoter pour fracasser](https://open.spotify.com/album/0tycWd8QCUDH8rnQkt7Gxa) | 2:40 | 2025-04-10 |  |
+| [Chicoter pour fracasser](https://open.spotify.com/track/5a0YN4NfIbOhatuIiQ4aaa) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [Chicoter pour fracasser](https://open.spotify.com/album/0tycWd8QCUDH8rnQkt7Gxa) | 2:40 | 2025-04-10 | 2025-06-13 |
 | [CHINOISERIE](https://open.spotify.com/track/5kH3FDNKaeiABMm8lUlIWq) | [Tiss Wayne](https://open.spotify.com/artist/43Y4Pvwr65cBA0lQAXpm8i), [Shibing](https://open.spotify.com/artist/3rCAxoz1sVyzTxlJThlnWH), [Mr Behi](https://open.spotify.com/artist/74aXWkfWy1V2b5BGiyH9ZF) | [CHINOISERIE](https://open.spotify.com/album/79ss8yAYY3VfYKJn3Nm8wD) | 2:38 | 2023-05-18 | 2024-03-29 |
 | [Commando](https://open.spotify.com/track/1FKK9VxAHmqPBXW6WRun5S) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [Commando](https://open.spotify.com/album/34fhvumHC8dqlDhZBaWSXd) | 2:52 | 2023-01-26 | 2023-07-07 |
 | [Copa](https://open.spotify.com/track/6DHB4gzkkIAtV4X5TruqoG) | [Kiko](https://open.spotify.com/artist/4P2zZ1OLqeeKDLXc34Yfsv) | [Agama](https://open.spotify.com/album/7JFbI2Bgh9U5QPN3NuuA4l) | 2:22 | 2023-07-06 | 2023-09-29 |
@@ -230,6 +230,7 @@
 | [TOUJOURS GNAN \- Remix](https://open.spotify.com/track/0BwKs1SMsguiJiHTGf4fi0) | [Nyerky](https://open.spotify.com/artist/5U4o1zywerDRWMxteldGoC), [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [TOUJOURS GNAN \(Remix\)](https://open.spotify.com/album/7GRtAtq7ou6dhO1cCghrdS) | 2:50 | 2025-04-17 |  |
 | [Tous des traîtres](https://open.spotify.com/track/0MMDVLU6OYcTs6xCRng6XE) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8), [Ali le code](https://open.spotify.com/artist/518yrkCaPdKEvMi8vK3H9d), [Abomé léléfant](https://open.spotify.com/artist/7AUVEvmiJ2N8xH2ECTylBg) | [Tous des traîtres](https://open.spotify.com/album/3bhE5PPsIznSHjka6Di4cY) | 3:01 | 2022-08-04 | 2022-09-30 |
 | [Tout laisse](https://open.spotify.com/track/0E31gL6KLFjHgZg42hShwl) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Vibration Universelle](https://open.spotify.com/album/1UP7xxA9T9vu9GHGgInKne) | 2:56 | 2024-05-30 |  |
+| [Tu as créé quoi encore !](https://open.spotify.com/track/70p1D6Rf95l5oPb9oYdXRA) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [Tu as créé quoi encore !](https://open.spotify.com/album/5fJdI5nd8LCFiDD3J0Z4vL) | 2:54 | 2025-06-12 |  |
 | [Tu peux lover](https://open.spotify.com/track/7tcJT6VP0YpmNeWfk7pig6) | [Dj Mulukuku](https://open.spotify.com/artist/6DpPYplFUGHXaSbPsQaeMn) | [Tu peux lover](https://open.spotify.com/album/5QJJYo2YbdKDG1dDeHIJTz) | 3:32 | 2022-06-02 | 2022-09-16 |
 | [Tu Te Maries Quand? \(Part\. I\)](https://open.spotify.com/track/2sPOOhcWLuLFpERiIkJqLw) | [Shado Chris](https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg) | [Tu Te Maries Quand?](https://open.spotify.com/album/2tAkEGDMzJygFFyfYIXVGD) | 2:43 | 2024-07-18 | 2024-08-30 |
 | [Ventripotent](https://open.spotify.com/track/5zbEHbA8QzH4R3aHfOuEqm) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Renaissance](https://open.spotify.com/album/6c0kX3fNWwvnWCttIpJsg8) | 3:16 | 2021-12-20 | 2022-02-19 |

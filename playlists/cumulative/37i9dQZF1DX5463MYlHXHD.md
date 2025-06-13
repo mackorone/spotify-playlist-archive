@@ -2,9 +2,9 @@
 
 ### [Cumbia villera](https://open.spotify.com/playlist/37i9dQZF1DX5463MYlHXHD)
 
-> Vieja escuela y de ahora 📸 El Polaco & ECKO.
+> Vieja escuela y de ahora 📸 La Repandilla & Sound De Barrio.
 
-331 songs - 18 hr 31 min
+332 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [AL RITMO \| E2](https://open.spotify.com/track/1CPH4SeQjS6xIFYdDpPABA) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [AL RITMO \| E2](https://open.spotify.com/album/6LteX3gEtSFKhpiVBuHep7) | 2:56 | 2023-05-26 | 2024-03-06 |
 | [Alma Blanca](https://open.spotify.com/track/7fP1GwN7MokxTLoMPxeN9p) | [Meta Guacha](https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL) | [Supermerk2 & Meta Guacha: 2x1](https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y) | 4:10 | 2024-04-19 | 2024-12-24 |
 | [Alma herida](https://open.spotify.com/track/49K0aG1Tcx0QyE0lru9OEd) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [LOS QUE TE DAN SED](https://open.spotify.com/album/10vWlJc7dYXBJpBVFXfuKs) | 1:52 | 2025-01-17 | 2025-03-29 |
+| [Aléjate](https://open.spotify.com/track/2AdiPGVDyUAtqYhhOBHFMV) | [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub), [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Aléjate](https://open.spotify.com/album/1J4XygZvMsEWsyQeIuhzcW) | 4:08 | 2025-06-13 |  |
 | [Amigos en la Distancia](https://open.spotify.com/track/5l6mbeyJZ9duDg73T7pxFp) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/0XbjIvrClo1jg5G1W3DFMN) | 2:47 | 2024-03-05 | 2024-06-17 |
 | [Amor de Chat](https://open.spotify.com/track/0bMqpzZyG55EGV6v1DdTQr) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [Sin Rivales](https://open.spotify.com/album/0XgMEPTCRNXvdlFtmJIFVP) | 3:58 | 2024-03-05 | 2024-04-19 |
 | [Amor De Chat \- Remix](https://open.spotify.com/track/3XfKWVuM7egYc2cMdCOyNX) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Amor De Chat \(Remix\)](https://open.spotify.com/album/5c9pBkdi15fKAfcw7D0cTe) | 3:05 | 2024-12-13 |  |
@@ -315,7 +316,7 @@
 | [Una Vela](https://open.spotify.com/track/7xv4O7ppdYg4kFyqLxNP0i) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Una Vela](https://open.spotify.com/album/5WGq0agfHJFFBGPQpIY9B1) | 2:04 | 2023-05-26 | 2023-09-08 |
 | [Una Wacha Piola](https://open.spotify.com/track/4alXoLhVbPKGMXoToEqdye) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4) | 2:35 | 2023-05-26 | 2024-04-19 |
 | [Una Wacha Piola \- REMIX](https://open.spotify.com/track/76GhnOdyvGQdD00x1qKasL) | [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [Una Wacha Piola \(REMIX\)](https://open.spotify.com/album/66oj0a0F2sSc3mnHJfnEZW) | 3:19 | 2024-12-20 | 2025-05-03 |
-| [Vamos A Amanecer \- Remix](https://open.spotify.com/track/0nk7pbLOJEGRlzSdN1erGe) | [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ) | [Vamos A Amanecer \(Remix\)](https://open.spotify.com/album/5xcEXfGJCm9aqLqUGqh8bs) | 2:53 | 2023-05-26 |  |
+| [Vamos A Amanecer \- Remix](https://open.spotify.com/track/0nk7pbLOJEGRlzSdN1erGe) | [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ) | [Vamos A Amanecer \(Remix\)](https://open.spotify.com/album/5xcEXfGJCm9aqLqUGqh8bs) | 2:53 | 2023-05-26 | 2025-06-13 |
 | [Vamos A Bailar](https://open.spotify.com/track/657aFPrDGW4f57rkoCG4lS) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Corriendo La Coneja](https://open.spotify.com/album/1F5Q8ICEMk5MeAfDbyLM5m) | 4:27 | 2023-05-26 | 2024-04-19 |
 | [VAS A VOLVER](https://open.spotify.com/track/2GI51zBcXdoEFW0mOg1pkZ) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P) | [VAS A VOLVER](https://open.spotify.com/album/0UkOCzJaNwtVwF0T1Txfh9) | 2:24 | 2024-01-12 | 2024-10-26 |
 | [Vengo de la casa de ella](https://open.spotify.com/track/3wyLQdYYslrohkFNitbtgD) | [Escucha!](https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp) | [Triste Palomita](https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7) | 3:55 | 2024-03-05 |  |

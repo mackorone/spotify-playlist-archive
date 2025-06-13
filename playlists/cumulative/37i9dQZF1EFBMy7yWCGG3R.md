@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-354 songs - 19 hr 32 min
+355 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,10 +239,11 @@
 | [opposite](https://open.spotify.com/track/27Jko74ZSVY1kwt0vMY6Pu) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 2:48 | 2023-12-30 | 2024-01-11 |
 | [Orange Magic](https://open.spotify.com/track/08Ov5PSmldmPxZDGufK6Pj) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 2:53 | 2023-12-30 |  |
 | [Otro Level](https://open.spotify.com/track/0QTNqESiTNtNZpakyN1sek) | [clonakz](https://open.spotify.com/artist/0ou7NMwZ7JMtAUoV0uSF8k) | [Otro Level](https://open.spotify.com/album/5L3AEt8GfYwdQ6DYF4mYau) | 1:59 | 2024-07-13 | 2024-07-18 |
-| [Otro Level](https://open.spotify.com/track/6TcSDna60Q1Xonp2IvFmPd) | [Miguel Cross](https://open.spotify.com/artist/0xrSHgMkQzTDAKRVlrctpI) | [Otro Level](https://open.spotify.com/album/18m9Xjnf2M6JzK272547Tu) | 2:01 | 2024-11-09 |  |
+| [Otro Level](https://open.spotify.com/track/6TcSDna60Q1Xonp2IvFmPd) | [Miguel Cross](https://open.spotify.com/artist/0xrSHgMkQzTDAKRVlrctpI) | [Otro Level](https://open.spotify.com/album/18m9Xjnf2M6JzK272547Tu) | 2:01 | 2024-11-09 | 2025-06-13 |
 | [Otro Level](https://open.spotify.com/track/3da999B9jdR1aXbr3MkA5d) | [stuck in 98](https://open.spotify.com/artist/1AONy6lGpBqVE5dALEhBID), [Y si Ah](https://open.spotify.com/artist/1tBnZZW7w92XbA4rVYbblF) | [Otro Level](https://open.spotify.com/album/4RxTRvsmseN1LEUzvjaYSd) | 2:01 | 2024-11-01 | 2024-11-10 |
 | [Otro Level](https://open.spotify.com/track/43bfyPggtSHsrVqQWntlUr) | [Zeuss 是](https://open.spotify.com/artist/4YnGucTisf2YIULDATbKKu) | [Otro Level](https://open.spotify.com/album/5xnBLla5mfupVLWo4bG1RQ) | 2:02 | 2023-12-30 | 2024-02-16 |
 | [Otro Level](https://open.spotify.com/track/30bos35PKdBqeSMgVFsia5) | [zxtyy](https://open.spotify.com/artist/5K2mfHnYfV0ONVRHRy2DSR), [reiiki](https://open.spotify.com/artist/5B68mBRgTMDaNza1wiz3cw) | [sYrup!](https://open.spotify.com/album/1IqtsopYsIEaj4dLgsSKxM) | 2:02 | 2024-05-19 | 2024-05-21 |
+| [Otro levvel](https://open.spotify.com/track/7vq3KdkCIPqcuJajMau32F) | [duketo](https://open.spotify.com/artist/5wzSFfo54upkzZ3uEhmYpE), [alejo](https://open.spotify.com/artist/64MWNhHSH276gQCfkaRu6N) | [Otro levvel](https://open.spotify.com/album/0W3vBwgTzuHtbd6IEKE7uA) | 2:00 | 2025-06-12 |  |
 | [Papercut](https://open.spotify.com/track/62hWYjPL57rbUd5rhvI3Of) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [True Colors](https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT) | 7:23 | 2023-12-30 |  |
 | [Parallel Line](https://open.spotify.com/track/567gPvGfxxKoZxDKqM9tEl) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 4:13 | 2023-12-30 |  |
 | [Party's Over](https://open.spotify.com/track/3ZFL2jSpWXhfPPxfaSGv05) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Party's Over](https://open.spotify.com/album/1uE07nFdvljzaUyNmRIvSj) | 3:17 | 2025-01-09 | 2025-04-12 |

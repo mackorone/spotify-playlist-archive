@@ -2676,7 +2676,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 292338,
       "name": "\u5167\u50b7",
       "url": "https://open.spotify.com/track/6tIaVtOWhsJhOYT81hioxk"
@@ -3614,7 +3614,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-12",
+      "date_removed": null,
       "duration_ms": 266342,
       "name": "\u540d\u5b57",
       "url": "https://open.spotify.com/track/2xP7OHLvsj2XJgVb5qbFUK"
@@ -4844,7 +4844,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 264650,
       "name": "\u5b87\u5b99\u7684\u7b11\u8bdd (feat. \u5468\u7b14\u7545)",
       "url": "https://open.spotify.com/track/5QXo8gXuYkCroIiM5UHZyn"
@@ -5450,7 +5450,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 199333,
       "name": "\u5fae\u5149",
       "url": "https://open.spotify.com/track/2lj9IOmO1jZw2G6jl99xI7"
@@ -5912,7 +5912,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 240685,
       "name": "\u611b\u4e86",
       "url": "https://open.spotify.com/track/7AMKmzAOQlulJxEh5lcklH"
@@ -8078,7 +8078,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 215466,
       "name": "\u672a\u53d1\u9001",
       "url": "https://open.spotify.com/track/0IKt70sonEjlSzcMEjdFYo"
@@ -8298,7 +8298,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 205005,
       "name": "\u6bd2\u85e5",
       "url": "https://open.spotify.com/track/34YwC7hZlGeIyIZGir8WHE"
@@ -8316,7 +8316,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 235654,
       "name": "\u6bd4\u5bc2\u5bde\u66f4\u5bc2\u5bde",
       "url": "https://open.spotify.com/track/3V8BlbC8buCxHJWklH3XTP"
@@ -8540,7 +8540,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 271018,
       "name": "\u6eab\u67d4 #MaydayBlue20th - feat.\u5b6b\u71d5\u59ff",
       "url": "https://open.spotify.com/track/40fcXSuSb80MekMZM1ei2J"
@@ -9214,7 +9214,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 350800,
       "name": "\u77b3\u5b54",
       "url": "https://open.spotify.com/track/05PEWABgseM6vVQu6w08QW"
@@ -10625,6 +10625,24 @@
     },
     {
       "album": {
+        "name": "\u5141\u8a31\u842c\u7269\u7834\u788e",
+        "url": "https://open.spotify.com/album/2McePly2UXoLik1dObrnPr"
+      },
+      "artists": [
+        {
+          "name": "\u67cf\u9716PoLin",
+          "url": "https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258911,
+      "name": "\u8db3\u5920\u7684\u5931\u843d",
+      "url": "https://open.spotify.com/track/3UbGYr5LCtLUNDpHjjvdg5"
+    },
+    {
+      "album": {
         "name": "\u8ddf\u81ea\u5df1\u8aaa\u518d\u898b",
         "url": "https://open.spotify.com/album/2bs1NveSsLwZi6HwiqX0zO"
       },
@@ -11216,7 +11234,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-13",
       "duration_ms": 234095,
       "name": "\u90a3\u4e48\u4e45\u4e86",
       "url": "https://open.spotify.com/track/46mIi9XuN1xqYPaLwHF2jl"

@@ -2,9 +2,9 @@
 
 ### [K\-Webtoon/Anime OST \(K\-웹툰/애니메이션 OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DWZgZGWDUJK7v)
 
-> Meet the popular webtoon OSTs now! \(Cover: Return Your Soul \(귀혼\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
+> Meet the popular webtoon OSTs now! \(Cover: 전력고백 \(Electrifying Confession\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-245 songs - 14 hr 47 min
+246 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Again, Goodbye](https://open.spotify.com/track/3z3bLtpy3MYFEChJ4HmA8i) | [Choe Yeong Jun](https://open.spotify.com/artist/4eh2KdcEPuclJXPn0eJmmX) | [The Holy Idol \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/4xeGSyUIJISiEF5jdD3rix) | 3:25 | 2023-01-26 | 2024-08-11 |
 | [All I have left is separation](https://open.spotify.com/track/0E7W0Vxym2L4FiXRlsBmym) | [Panini Brunch](https://open.spotify.com/artist/2TMsQv3NaxJYcid3natcij) | [죽이고 싶은 나의 전복 왕자님 OST Part.13 \(Soundtrack\)](https://open.spotify.com/album/4R2AwCEtMKFcx479JbgGPb) | 4:29 | 2024-06-24 | 2024-08-11 |
 | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm) | 3:19 | 2024-08-10 |  |
-| [An Old Love Story \(2021\) \(Romance 101 X KCM\)](https://open.spotify.com/track/3X9cumMpP7bPFiqYBcoSTZ) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [An Old Love Story \(2021\) \(Romance 101 X KCM\)](https://open.spotify.com/album/0QxfahBU97uktmdLCLr6xG) | 4:26 | 2022-05-09 |  |
+| [An Old Love Story \(2021\) \(Romance 101 X KCM\)](https://open.spotify.com/track/3X9cumMpP7bPFiqYBcoSTZ) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [An Old Love Story \(2021\) \(Romance 101 X KCM\)](https://open.spotify.com/album/0QxfahBU97uktmdLCLr6xG) | 4:26 | 2022-05-09 | 2025-06-13 |
 | [Anymore](https://open.spotify.com/track/3vKX4347uUOuEECpHJwITb) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [Anymore \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/2A6nEYKyCf7nF5uGlR24Ds) | 2:47 | 2022-05-09 | 2024-08-11 |
 | [As if nothing had happened](https://open.spotify.com/track/1R5QflmLVc3SvSTLRS0Nc2) | [The Daisy](https://open.spotify.com/artist/1bBlVhflmrgcdtHXZzyktI) | [Café Anchorage OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/5Qoe81SSf2cpo4QpYV0NU4) | 3:35 | 2023-03-31 | 2024-06-25 |
 | [As You Know](https://open.spotify.com/track/0i28ygiBZomLVQHG2OgB4F) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Love Revolution \(Original Webtoon Soundtrack\), Pt\. 2](https://open.spotify.com/album/6VlqnZEXPCAqiL1IfEKX6c) | 4:00 | 2024-08-10 |  |
@@ -218,6 +218,7 @@
 | [Wiege \(VIVINOS \- ALNST Original Soundtrack Part.9\)](https://open.spotify.com/track/0WWLnzomFb6SJyEPBRzqAZ) | [BL8M](https://open.spotify.com/artist/3oOA09qR93zgp61ALkHIJJ), [6FU;](https://open.spotify.com/artist/09lAeB3r5B5J5RyN68XiPt) | [Wiege \(VIVINOS \- ALNST Original Soundtrack Part.9\)](https://open.spotify.com/album/0hoVEJzSBYvXxQil61ozVb) | 3:55 | 2025-03-28 |  |
 | [Windflower \(The Forbidden Marriage X Shin Ye\-Young\)](https://open.spotify.com/track/7wlip8qEudClSmF4GmUlis) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Windflower \(The Forbidden Marriage X Shin Ye\-Young\)](https://open.spotify.com/album/5yqtkANmdpmA8nzGalFjb5) | 4:20 | 2022-05-09 |  |
 | [Wings of Steel](https://open.spotify.com/track/6akkP5sOb3qALMCLuAnSTw) | [SIYEON](https://open.spotify.com/artist/5iKOmg1wFizVwajKeiyzvf) | [Elsword : Wings of Steel \(Original Game Soundtrack\)](https://open.spotify.com/album/2N6VlilQkKMEuf68ILPIMc) | 4:01 | 2025-03-28 | 2025-03-31 |
+| [With me \(Electrifying Confession X LUCY\)](https://open.spotify.com/track/3jYSRhZxA4NnOxqwaC5HP9) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [With me \(Electrifying Confession X LUCY\)](https://open.spotify.com/album/4jb6RsjGnqX6rm8ii8v6mi) | 3:54 | 2025-06-12 |  |
 | [With You](https://open.spotify.com/track/6PdMx183cnLH6iqar2XzJv) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [With You \(No Office Romance! X Young K \(DAY6\)\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/0JYfYKPZdxjwJRl6Fwngjv) | 3:57 | 2023-09-21 |  |
 | [Write about you \(Romance 101 X Lyn\)](https://open.spotify.com/track/340ukejhWUMEDKdHCCpJm4) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Write about you \(Romance 101 X Lyn\)](https://open.spotify.com/album/6sD8MQDSyDX4CYQeOG5rWo) | 3:27 | 2022-05-09 | 2025-03-29 |
 | [You](https://open.spotify.com/track/6sVOlXQGNOtnZE2M2goGv4) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Love Revolution, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5H5wo1sieOcUhWgseVo8BA) | 3:55 | 2024-08-10 |  |

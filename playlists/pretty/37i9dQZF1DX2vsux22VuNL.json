@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Big Up",
-  "num_followers": 292646,
+  "num_followers": 292648,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,26 @@
     {
       "added_at": "2025-05-30 17:34:09",
       "album": {
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/6a7qx2yATYvt8hhkGLFPtY"
+      },
+      "artists": [
+        {
+          "name": "Tupi",
+          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
+        },
+        {
+          "name": "Yago Oproprio",
+          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
+        }
+      ],
+      "duration_ms": 202343,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/1R4c8rWEBECx89CoafK6B9"
+    },
+    {
+      "added_at": "2025-05-30 17:34:09",
+      "album": {
         "name": "Quanto Mais Eu Como, Mais Fome Eu Sinto !",
         "url": "https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG"
       },
@@ -191,26 +211,6 @@
       "duration_ms": 198844,
       "name": "TE ESPERO L\u00c1",
       "url": "https://open.spotify.com/track/0luE9Y33ZxuwUqVQ05ViHQ"
-    },
-    {
-      "added_at": "2025-05-30 17:34:09",
-      "album": {
-        "name": "Farol",
-        "url": "https://open.spotify.com/album/6a7qx2yATYvt8hhkGLFPtY"
-      },
-      "artists": [
-        {
-          "name": "Tupi",
-          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
-        },
-        {
-          "name": "Yago Oproprio",
-          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
-        }
-      ],
-      "duration_ms": 202343,
-      "name": "Farol",
-      "url": "https://open.spotify.com/track/1R4c8rWEBECx89CoafK6B9"
     },
     {
       "added_at": "2025-05-30 17:34:09",
@@ -775,6 +775,30 @@
     {
       "added_at": "2025-05-30 17:34:09",
       "album": {
+        "name": "Pensando Em N\u00f3s",
+        "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
+      },
+      "artists": [
+        {
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+        },
+        {
+          "name": "CALIFFA",
+          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Pensando Em N\u00f3s",
+      "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
+    },
+    {
+      "added_at": "2025-05-30 17:34:09",
+      "album": {
         "name": "Sempre Que Me V\u00ea",
         "url": "https://open.spotify.com/album/0gjyJm3JIFWXueTBg318dI"
       },
@@ -811,30 +835,6 @@
       "duration_ms": 211764,
       "name": "Sempre Que Me V\u00ea",
       "url": "https://open.spotify.com/track/486dXyOiD0WKfEtSzUEWuj"
-    },
-    {
-      "added_at": "2025-05-30 17:34:09",
-      "album": {
-        "name": "Pensando Em N\u00f3s",
-        "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
-      },
-      "artists": [
-        {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
-        },
-        {
-          "name": "CALIFFA",
-          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Pensando Em N\u00f3s",
-      "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
     },
     {
       "added_at": "2025-05-30 17:34:09",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-05-30 17:34:09",
       "album": {
-        "name": "Mundo Gira",
-        "url": "https://open.spotify.com/album/5aSep1XPJCD03R2DHgSVpt"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        }
-      ],
-      "duration_ms": 171913,
-      "name": "\u00cdm\u00e3",
-      "url": "https://open.spotify.com/track/51fIvSXRy2dObhEOFlEl9O"
-    },
-    {
-      "added_at": "2025-05-30 17:34:09",
-      "album": {
         "name": "Pra Casar",
         "url": "https://open.spotify.com/album/7cfvZDgOLYNt2z0CA64LFZ"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 162780,
       "name": "Pra Casar",
       "url": "https://open.spotify.com/track/2nr1chZZvtSFMHoOydWFfI"
+    },
+    {
+      "added_at": "2025-05-30 17:34:09",
+      "album": {
+        "name": "Mundo Gira",
+        "url": "https://open.spotify.com/album/5aSep1XPJCD03R2DHgSVpt"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "duration_ms": 171913,
+      "name": "\u00cdm\u00e3",
+      "url": "https://open.spotify.com/track/51fIvSXRy2dObhEOFlEl9O"
     },
     {
       "added_at": "2025-05-30 17:34:09",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-05-30 17:34:09",
       "album": {
-        "name": "Casal de Uma Noite S\u00f3",
-        "url": "https://open.spotify.com/album/3qlz4NTsWKeLn7ANFw7RYL"
-      },
-      "artists": [
-        {
-          "name": "Zero Pacceli",
-          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
-        }
-      ],
-      "duration_ms": 149474,
-      "name": "Casal de Uma Noite S\u00f3",
-      "url": "https://open.spotify.com/track/4Rh6HLtGAHDaLTWLBH2W3n"
-    },
-    {
-      "added_at": "2025-05-30 17:34:09",
-      "album": {
         "name": "Aquelas Coisas",
         "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 196363,
       "name": "Aquelas Coisas",
       "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
+    },
+    {
+      "added_at": "2025-05-30 17:34:09",
+      "album": {
+        "name": "Casal de Uma Noite S\u00f3",
+        "url": "https://open.spotify.com/album/3qlz4NTsWKeLn7ANFw7RYL"
+      },
+      "artists": [
+        {
+          "name": "Zero Pacceli",
+          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
+        }
+      ],
+      "duration_ms": 149474,
+      "name": "Casal de Uma Noite S\u00f3",
+      "url": "https://open.spotify.com/track/4Rh6HLtGAHDaLTWLBH2W3n"
     },
     {
       "added_at": "2025-05-30 17:34:09",

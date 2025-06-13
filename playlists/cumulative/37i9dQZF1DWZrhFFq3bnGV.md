@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Rara Sudirman
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Littlefingers
 
-242 songs - 16 hr 59 min
+244 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Dream Lulubye](https://open.spotify.com/track/14BlgC34sdKKTEvcuhMPOv) | [Adi Darmawan](https://open.spotify.com/artist/4tf4XhhTlovrEj01je6ozX), [Agam Hamzah](https://open.spotify.com/artist/0Q93JEJbQhqMkTZOvC764M) | [Dream Lulubye](https://open.spotify.com/album/1i43dJTiD4TFpcQ5p35J6g) | 6:30 | 2023-03-24 | 2024-08-02 |
 | [Entah](https://open.spotify.com/track/5c8tb3bS3KtR0H56OnDKwj) | [Sisasa](https://open.spotify.com/artist/3xC683HyOA5mFKwuCyJDc1) | [Sisi Lain](https://open.spotify.com/album/49VL4XUeqZHjzOiWOxzi8R) | 4:36 | 2023-03-09 |  |
 | [Enter The Forest](https://open.spotify.com/track/1igx6zG9HrUur1v0Xm8Bn2) | [Achi Hardjakusumah](https://open.spotify.com/artist/4DHHEVXeggPQInQQCa7OJW), [Ammir Gita](https://open.spotify.com/artist/1Tibn3fgyF89en7LbMX7No), [Vito Jr.](https://open.spotify.com/artist/0RXxMFheFjksSYzqJlSoqe), [Viandebas](https://open.spotify.com/artist/61G4WS8ioqfVTCktOQNvJF), [Kabul Oktavianus](https://open.spotify.com/artist/3JB0ctZ30YXBaFp475FxMr), [Housman Pranoto](https://open.spotify.com/artist/2cWhXmXb82NiU5ZJgeyMBf) | [Enter The Forest](https://open.spotify.com/album/37E5B9MPot8YmWWw8JyQ6c) | 4:42 | 2024-07-08 | 2025-05-30 |
+| [Essence](https://open.spotify.com/track/43P2BUpH7mWjOx9nLZpC8C) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU), [Emma Volard](https://open.spotify.com/artist/2dNnJIEECfh07bv1jwmfTL) | [Snakes & Ladders](https://open.spotify.com/album/3YZtiYIwDMveS0c7M4zWSO) | 4:18 | 2025-06-12 |  |
 | [Euphoria](https://open.spotify.com/track/1G9BVTcFvYDVihnGZ6DoEU) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU), [Imelda Lizal](https://open.spotify.com/artist/72gtPHfqhqo0xm9QKZnrIL) | [EUPHORIA](https://open.spotify.com/album/4j91PSb0jkfbXVr6RAPL3X) | 4:02 | 2022-09-02 | 2024-08-16 |
 | [Even Rain](https://open.spotify.com/track/5pBoKlrqqOqi3jMwa29jfD) | [Adi Darmawan](https://open.spotify.com/artist/4tf4XhhTlovrEj01je6ozX), [Teguh Sukarelawanto](https://open.spotify.com/artist/4J8wGo6gMLJq73e3qdLMhX) | [Perspektif](https://open.spotify.com/album/57LCW4mUge5Y4YWMsOjOXz) | 2:36 | 2023-06-08 | 2024-12-07 |
 | [evening in senayan](https://open.spotify.com/track/4PMfPiUMzOTahCjnHDKIkA) | [Michael Aldi](https://open.spotify.com/artist/2Ib1uh2Zl7LI4JjFqP81v4) | [evening in senayan](https://open.spotify.com/album/4jJ1dbHf4jPhKSblVGVRrg) | 3:00 | 2024-11-29 |  |
@@ -97,6 +98,7 @@
 | [Gagal Diet](https://open.spotify.com/track/4zno3HyakA9YSSEH4pON1w) | [ArumtaLa](https://open.spotify.com/artist/59efzixYcOYbnNEAZ50zev) | [Gagal Diet](https://open.spotify.com/album/3mcLJfwHU5VR1N9pwSNCeO) | 3:08 | 2025-01-16 |  |
 | [Gandrung Sewu](https://open.spotify.com/track/6Q1TzwYURf4BlagM63vekn) | [Bintang Indrianto](https://open.spotify.com/artist/0iy4a8OhW1qCOG2uBlzmJC) | [Bintang Indrianto's Blue Fire Project](https://open.spotify.com/album/1Zz4IFEQmDFAqn3ThEWKCy) | 3:21 | 2023-02-24 | 2023-03-03 |
 | [Gettin' Ready](https://open.spotify.com/track/7qd9LgrI7TZD3IzcVIbeIC) | [Kartabaya](https://open.spotify.com/artist/3h5c2KMmCXBbMQxKBURcc8), [Alfado Jacob](https://open.spotify.com/artist/5SYx8g5qg29QfBZHj455XT), [Kevin Pieter](https://open.spotify.com/artist/0J2MN40uqe4aIe5PwMIuc7), [Elnoe Budiman](https://open.spotify.com/artist/7JEINMviq3x3y0aauyFpxn) | [Gettin' Ready](https://open.spotify.com/album/73wv1cdVOoI58v5EEDeCRA) | 4:50 | 2023-06-08 | 2024-11-30 |
+| [Getting Older](https://open.spotify.com/track/3arqZWgyEm5qj9afyIkTla) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn) | [Getting Older](https://open.spotify.com/album/7wdXN4tIfaq36RIfGRjpYu) | 3:38 | 2025-06-12 |  |
 | [Gotchu](https://open.spotify.com/track/7hDjNCo0CR3EHFjOapZCym) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Matthew Sayersz](https://open.spotify.com/artist/3Qq1nogMjTqDwH8x7MP6qv) | [Gotchu](https://open.spotify.com/album/57MP6GrkfvcHAJrSwTGM0Z) | 3:02 | 2024-08-01 |  |
 | [Goyang Berdendang](https://open.spotify.com/track/2jXATlKZ8YTj1ohVxYNafK) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [Goyang Berdendang](https://open.spotify.com/album/2kFbzEY9Ex4lGWNClq9RLO) | 3:54 | 2024-07-08 |  |
 | [Gratitude](https://open.spotify.com/track/68sQC8sj18Ty36mbreDHot) | [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN) | [Gratitude](https://open.spotify.com/album/5d1ORdMsk0WXPZkViftyNs) | 5:03 | 2022-09-02 | 2023-08-18 |

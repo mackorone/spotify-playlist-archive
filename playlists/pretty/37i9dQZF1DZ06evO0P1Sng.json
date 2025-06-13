@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEd1gAAAAAB8JWUd5yvJ4nYsldpmQA4C",
+  "snapshot_id": "aEjHAAAAAAC4VtnK/1otCCh7itGeaGpd",
   "tracks": [
     {
       "added_at": null,
@@ -683,26 +683,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Intenso",
-        "url": "https://open.spotify.com/album/5WJvrQgYVkSaMkdrFpJuJe"
+        "name": "Reverse",
+        "url": "https://open.spotify.com/album/7AeteQXJoHcRyOyB4du59D"
       },
       "artists": [
         {
-          "name": "MC Zaquin",
-          "url": "https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4"
-        },
-        {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Kelwin Lopes",
-          "url": "https://open.spotify.com/artist/0s7XyRPQrAAfi9I7OOrHEP"
         }
       ],
-      "duration_ms": 136022,
-      "name": "Amor Intenso",
-      "url": "https://open.spotify.com/track/35uDP9LyfJ790dEx9h5TBd"
+      "duration_ms": 133193,
+      "name": "Reverse",
+      "url": "https://open.spotify.com/track/2EMDPzYHzlRHggmbsJMtbo"
     },
     {
       "added_at": null,
@@ -727,18 +719,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reverse",
-        "url": "https://open.spotify.com/album/7AeteQXJoHcRyOyB4du59D"
+        "name": "Amor Intenso",
+        "url": "https://open.spotify.com/album/5WJvrQgYVkSaMkdrFpJuJe"
       },
       "artists": [
         {
+          "name": "MC Zaquin",
+          "url": "https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4"
+        },
+        {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Kelwin Lopes",
+          "url": "https://open.spotify.com/artist/0s7XyRPQrAAfi9I7OOrHEP"
         }
       ],
-      "duration_ms": 133193,
-      "name": "Reverse",
-      "url": "https://open.spotify.com/track/2EMDPzYHzlRHggmbsJMtbo"
+      "duration_ms": 136022,
+      "name": "Amor Intenso",
+      "url": "https://open.spotify.com/track/35uDP9LyfJ790dEx9h5TBd"
     },
     {
       "added_at": null,
@@ -971,6 +971,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "INEF\u00c1VEL",
+        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
+      },
+      "artists": [
+        {
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Romano",
+          "url": "https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6"
+        }
+      ],
+      "duration_ms": 136750,
+      "name": "Dolce",
+      "url": "https://open.spotify.com/track/5pzkXOVH7FgEDu6RuqngQL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2 Minutos",
         "url": "https://open.spotify.com/album/5DPRUTrk79KG5HMKmsl6XQ"
       },
@@ -999,30 +1023,6 @@
       "duration_ms": 215520,
       "name": "2 Minutos",
       "url": "https://open.spotify.com/track/3bZZd8qlz5WhRkxXfKxsw2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "INEF\u00c1VEL",
-        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
-      },
-      "artists": [
-        {
-          "name": "Long beatz",
-          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Romano",
-          "url": "https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6"
-        }
-      ],
-      "duration_ms": 136750,
-      "name": "Dolce",
-      "url": "https://open.spotify.com/track/5pzkXOVH7FgEDu6RuqngQL"
     },
     {
       "added_at": null,
@@ -1175,6 +1175,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jogo da Vida",
+        "url": "https://open.spotify.com/album/2ZcjMx3IEjStin63pGb7u2"
+      },
+      "artists": [
+        {
+          "name": "Vis\u00e3o Records",
+          "url": "https://open.spotify.com/artist/51jC7VpvzmZ6gN6LHrJNy5"
+        },
+        {
+          "name": "A.LBeats",
+          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 120560,
+      "name": "Jogo da Vida",
+      "url": "https://open.spotify.com/track/6jK8DJfC4wVPyfEc7SEgfe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "V\u00cdBORA",
         "url": "https://open.spotify.com/album/07ZvorgEhaclWT0lAbUucU"
       },
@@ -1199,30 +1223,6 @@
       "duration_ms": 205717,
       "name": "V\u00cdBORA",
       "url": "https://open.spotify.com/track/7JHzRVeIdtiCkLu91ZQ2IK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jogo da Vida",
-        "url": "https://open.spotify.com/album/2ZcjMx3IEjStin63pGb7u2"
-      },
-      "artists": [
-        {
-          "name": "Vis\u00e3o Records",
-          "url": "https://open.spotify.com/artist/51jC7VpvzmZ6gN6LHrJNy5"
-        },
-        {
-          "name": "A.LBeats",
-          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 120560,
-      "name": "Jogo da Vida",
-      "url": "https://open.spotify.com/track/6jK8DJfC4wVPyfEc7SEgfe"
     },
     {
       "added_at": null,
@@ -1311,30 +1311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRIP SEQUEL",
-        "url": "https://open.spotify.com/album/7DRET0080oX5T7l4vYguwd"
-      },
-      "artists": [
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 133208,
-      "name": "DAMN GLOVES - BAILE FUNK REMIX",
-      "url": "https://open.spotify.com/track/18AkbqlH8nBkpkqAzaCIDZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arquivos",
         "url": "https://open.spotify.com/album/0CtmDIpvYbwoOt7iMcVJw9"
       },
@@ -1355,6 +1331,30 @@
       "duration_ms": 135000,
       "name": "Arquivos",
       "url": "https://open.spotify.com/track/5oQaUfLbBhR4yVla3O7jLS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GRIP SEQUEL",
+        "url": "https://open.spotify.com/album/7DRET0080oX5T7l4vYguwd"
+      },
+      "artists": [
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 133208,
+      "name": "DAMN GLOVES - BAILE FUNK REMIX",
+      "url": "https://open.spotify.com/track/18AkbqlH8nBkpkqAzaCIDZ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 
 > mostly rock
 
-[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 901 songs - 2 day 9 hr 39 min
+[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 902 songs - 2 day 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -909,5 +909,6 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 | 899 | [ALICE IN REITOUKO \- HarukazeEsola Cover Ver.](https://open.spotify.com/track/43Syc7zO4HGiruees6LXoo) | [HarukazeEsola](https://open.spotify.com/artist/3GruG8JsBBSAp5HovtCxME) | [ALICE IN REITOUKO \(HarukazeEsola Cover Ver.\)](https://open.spotify.com/album/51krK0sCgb8ne2T4QcIwi7) | 5:40 |
 | 900 | [Alice in 冷凍庫](https://open.spotify.com/track/7y1vLPTfjdYgRVgowFsJTW) | [MARY](https://open.spotify.com/artist/08EO45FsrKqyDaVHocLjug) | [彼はきっと魔法を使う。](https://open.spotify.com/album/0qcgUHCCNHbkv1Ej6yySyt) | 5:42 |
 | 901 | [渇愛論II \- 梓川版](https://open.spotify.com/track/7fd2BJup0dPcWZ0EJiH87C) | [平田義久](https://open.spotify.com/artist/2WovLuHff62YLJEGlqqP0L), [梓川](https://open.spotify.com/artist/2iydjGtDnXejF2L1pgsBB8) | [渇愛論II](https://open.spotify.com/album/4R3TBBkEZGM3NTsCQ2AZRu) | 2:57 |
+| 902 | [Guilty](https://open.spotify.com/track/2xmupo1jbudKDN4hSSKpXM) | [d0tc0mmie](https://open.spotify.com/artist/6boy2t2W04GPkMipXjavCM), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [0401+](https://open.spotify.com/album/6g6IhKiigPjKmPOmxkc91S) | 2:11 |
 
-Snapshot ID: `AAAFNdfENmlbPBqXrAU+VqaQcnYgWaZB`
+Snapshot ID: `AAAFNsy5D/DAtrlOiKW1KYhg4XgjeOnA`

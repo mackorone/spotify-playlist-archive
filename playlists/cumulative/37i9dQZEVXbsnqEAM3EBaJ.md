@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,603 songs - 7 day 8 hr 41 min
+2,604 songs - 7 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1636,7 +1636,7 @@
 | [Peace & Abundance](https://open.spotify.com/track/7o4CCMMBngZ6e6EvPrR2HV) | [Nico.X3](https://open.spotify.com/artist/6DN74L20gxGSBONvIWuMD2) | [Peace & Abundance](https://open.spotify.com/album/6e1AxhsPcfPYhAkYeOpb24) | 2:22 | 2023-09-22 | 2023-10-15 |
 | [Peace \- Justus Köhncke Extended Disco Club Vocal](https://open.spotify.com/track/15jMustVSA7BeMY5stIadi) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Sounds Of The Universe \| The 12" Singles](https://open.spotify.com/album/5f75ihytzLQhJNqurE6NlF) | 6:23 | 2023-08-04 | 2023-08-12 |
 | [Peaches \(From "The Super Mario Movie"\) \- Live](https://open.spotify.com/track/07zIbmMQxXoQji7w1k6nZL) | [Jazztick](https://open.spotify.com/artist/34kgkhl0iDrJbTFTqWO0O5), [Iris \~Pamela Calvo\~](https://open.spotify.com/artist/6qWXcGYNEAmUxFWLA5uFwM) | [Super Mario Concert \(Live\)](https://open.spotify.com/album/1vytWdjploH44Kp0mSlPm1) | 6:10 | 2025-05-30 | 2025-06-01 |
-| [Pegasus Fantasy](https://open.spotify.com/track/6SVKRJwRMNZvAV8CnYhF1T) | [The Covers Duo](https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G), [Mauren Mendo](https://open.spotify.com/artist/594GGGOkiQFC3lHLc0E1hC) | [Pegasus Fantasy](https://open.spotify.com/album/5FJgDwlPVyUA31yeXmwyXj) | 3:34 | 2025-06-06 |  |
+| [Pegasus Fantasy](https://open.spotify.com/track/6SVKRJwRMNZvAV8CnYhF1T) | [The Covers Duo](https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G), [Mauren Mendo](https://open.spotify.com/artist/594GGGOkiQFC3lHLc0E1hC) | [Pegasus Fantasy](https://open.spotify.com/album/5FJgDwlPVyUA31yeXmwyXj) | 3:34 | 2025-06-06 | 2025-06-13 |
 | [Pela Hao](https://open.spotify.com/track/7o8qGYW9QYQXZaPpKNL0gm) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Pela Hao](https://open.spotify.com/album/7GZ1nADYMVs587sGMWxV5S) | 4:41 | 2025-05-09 | 2025-05-28 |
 | [Pena Feliz](https://open.spotify.com/track/0UrKSEW63OgB0b5CHfddvC) | [Estudios Cordillera](https://open.spotify.com/artist/6Mx9gBFNVvNCLJas5K6aVb), [PelySayon](https://open.spotify.com/artist/5bjc7tpB5IoqzWVy3ZV93T) | [Pena Feliz](https://open.spotify.com/album/0pFQlvwcK2l8JD4vjaGydQ) | 4:53 | 2024-03-01 | 2024-03-09 |
 | [Pennies from Heaven](https://open.spotify.com/track/57tzaQqnUsQMqZGwNkeOKH) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Pennies from Heaven](https://open.spotify.com/album/1i6vhg06WXON1YfBE9gOHj) | 2:58 | 2024-02-16 | 2024-02-24 |
@@ -1828,6 +1828,7 @@
 | [Sad Song \- Mauldeth Road West Demo, Nov' 92](https://open.spotify.com/track/0dABTXRfWoMmWD43T66KZI) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Sad Song \- Mauldeth Road West Demo, Nov' 92](https://open.spotify.com/album/4t3hIBsq1eZB5FVVw1Ti9W) | 4:34 | 2024-08-16 | 2024-08-31 |
 | [Sahara](https://open.spotify.com/track/5hDQhCL9BrZPsBdhCcZqRc) | [Pota en la Sopa](https://open.spotify.com/artist/4fOyA8pQ1Td1iE1kCPKCOO), [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [Sahara](https://open.spotify.com/album/27b6R1rArOqNMAKmNuXMBG) | 2:48 | 2024-06-28 | 2024-07-13 |
 | [Sail with the Dead \- Orchestral Version](https://open.spotify.com/track/5XVxbwNbYzDU4hhmQm7LJC) | [Leaves' Eyes](https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ) | [Sail with the Dead \(Orchestral Version\)](https://open.spotify.com/album/7JvvaFsJjCnmEr4OdjEd5v) | 4:42 | 2024-12-20 | 2025-01-18 |
+| [Sakura \(Yo Te Atrapo, Tú Me Atrapas\)](https://open.spotify.com/track/2wmYl2e1jC2s85ajemzGi1) | [The Covers Duo](https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G), [Cristina Hernández](https://open.spotify.com/artist/3dIas19OkS23WA7DRnG1SO) | [Sakura \(Yo Te Atrapo, Tú Me Atrapas\)](https://open.spotify.com/album/05edtJFqJY8ZxW3ivSfvwt) | 1:18 | 2025-06-06 |  |
 | [Salt \(feat\. Dayseeker\)](https://open.spotify.com/track/4giP4hSHWfO7LfvlG50Z44) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Salt \(feat\. Dayseeker\)](https://open.spotify.com/album/3aniEhGPueequKj0nUJzfP) | 3:27 | 2023-08-25 | 2023-09-13 |
 | [Salt \- Acoustic](https://open.spotify.com/track/1iwu5kAyMMY8QAuITmsItP) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Color Decay \(Deluxe\)](https://open.spotify.com/album/4ivtHYEdInBvOFptjVmEYf) | 3:25 | 2023-05-05 | 2023-06-04 |
 | [Salvation \- Early Mix](https://open.spotify.com/track/2FEwKIUAJxqEUYkCAakvJx) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed \(Deluxe Edition\)](https://open.spotify.com/album/0cg6OTD0VxMSAzQghLeecH) | 2:45 | 2023-09-15 | 2023-09-19 |

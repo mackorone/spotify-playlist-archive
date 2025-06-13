@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OjqpsBZy3r.md) - [plain]
 
 > The trending country songs and viral hits you need to know\. Cover: Elizabeth Nichols
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,725 likes - 88 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,724 likes - 88 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras?si=4\-y6kClNQsGZtoTCIiUuNw">MashBeatz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,504 likes - 84 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,544 likes - 84 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
