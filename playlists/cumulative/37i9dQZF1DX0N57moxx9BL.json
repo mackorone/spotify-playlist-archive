@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to the recent hits of Christian Rock.  Cover:  Seventh Day Slumber",
+  "description": "Listen to the recent hits of Christian Rock.  Cover:  Demon Hunter",
   "name": "Top Christian Rock",
   "tracks": [
     {
@@ -698,7 +698,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 245500,
       "name": "Collapse - Rerecorded",
       "url": "https://open.spotify.com/track/4mjJixfaegDHN8VVUcHocq"
@@ -1262,6 +1262,28 @@
       "duration_ms": 243699,
       "name": "Erase",
       "url": "https://open.spotify.com/track/5ZCEWXE5I4l6x76GZA2Xby"
+    },
+    {
+      "album": {
+        "name": "Eternal (15th Anniversary Rerecorded Version)",
+        "url": "https://open.spotify.com/album/68S2PQxK7RFnGbWFVOMBxY"
+      },
+      "artists": [
+        {
+          "name": "War Of Ages",
+          "url": "https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx"
+        },
+        {
+          "name": "Sonny Sandoval",
+          "url": "https://open.spotify.com/artist/0aKUHdp1gJhQ6mpZcJLd4L"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210618,
+      "name": "Eternal - Rerecorded",
+      "url": "https://open.spotify.com/track/51MiPUN7frWF7aobcZU6BP"
     },
     {
       "album": {
@@ -2318,6 +2340,24 @@
       "duration_ms": 231972,
       "name": "Lies Of My Brothers",
       "url": "https://open.spotify.com/track/30jNVrgwZWwiNIDJpg2g8u"
+    },
+    {
+      "album": {
+        "name": "Light Bends",
+        "url": "https://open.spotify.com/album/1m1gffySpyrPY5v184rxkW"
+      },
+      "artists": [
+        {
+          "name": "Demon Hunter",
+          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251906,
+      "name": "Light Bends",
+      "url": "https://open.spotify.com/track/4N4CZbbn3lXfVmCck3zcqp"
     },
     {
       "album": {
@@ -4476,7 +4516,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 268235,
       "name": "Worlds Apart",
       "url": "https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO"

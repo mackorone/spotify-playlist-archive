@@ -1,12 +1,12 @@
 {
   "description": "Celebrating 10 years of the best new music by independent artists and labels. Cover: Jahnah Camille",
-  "num_followers": 1223743,
+  "num_followers": 1223736,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEmdUQAAAABp0x3uaTJj4+zloqSi7uJ8",
+  "snapshot_id": "aEuicgAAAACIosWAuzYj2yzTrL5eLLsh",
   "tracks": [
     {
       "added_at": "2025-06-11 15:02:46",
@@ -45,20 +45,20 @@
       "url": "https://open.spotify.com/track/3r3Q5fZSk15DX2bJI12Mz6"
     },
     {
-      "added_at": "2025-06-11 15:02:46",
+      "added_at": "2025-06-13 04:00:50",
       "album": {
-        "name": "The Texas Primadonna",
-        "url": "https://open.spotify.com/album/3DjEEt7A58vpSuUemigZzB"
+        "name": "My sunny oath!",
+        "url": "https://open.spotify.com/album/5e51HsMClL4Gz6hn4ItN4K"
       },
       "artists": [
         {
-          "name": "Tiffany Stringer",
-          "url": "https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u"
+          "name": "Jahnah Camille",
+          "url": "https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS"
         }
       ],
-      "duration_ms": 133000,
-      "name": "Texas Primadonna",
-      "url": "https://open.spotify.com/track/03eZNwdLPrikoKzdO2LlqO"
+      "duration_ms": 151280,
+      "name": "rocket",
+      "url": "https://open.spotify.com/track/3BA0pgBBU4MzXwnOUFwIOB"
     },
     {
       "added_at": "2025-06-11 15:02:46",
@@ -99,18 +99,18 @@
     {
       "added_at": "2025-06-11 15:02:46",
       "album": {
-        "name": "sit with you (pain)",
-        "url": "https://open.spotify.com/album/6ibXSghXvbjtGG95JEsdqm"
+        "name": "After the Fact",
+        "url": "https://open.spotify.com/album/6EvzRn0Y2h4ZJswOUuZrpK"
       },
       "artists": [
         {
-          "name": "Jahnah Camille",
-          "url": "https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS"
+          "name": "Syd Taylor",
+          "url": "https://open.spotify.com/artist/3dZ1fTizrmY5jfkf0jrvav"
         }
       ],
-      "duration_ms": 195680,
-      "name": "sit with you (pain)",
-      "url": "https://open.spotify.com/track/1QBeq423x9hTeJI6IGLPl4"
+      "duration_ms": 208398,
+      "name": "After the Fact",
+      "url": "https://open.spotify.com/track/62eY7NxeO2pjWLchkqqdtL"
     },
     {
       "added_at": "2025-06-11 15:02:46",
@@ -127,6 +127,38 @@
       "duration_ms": 192500,
       "name": "Metanoia (p.179)",
       "url": "https://open.spotify.com/track/1qcpPLLM4y1bGfwPS5DHDI"
+    },
+    {
+      "added_at": "2025-06-11 15:02:46",
+      "album": {
+        "name": "Choke Chain",
+        "url": "https://open.spotify.com/album/5jdSxkXwsDq4gwSOOASXau"
+      },
+      "artists": [
+        {
+          "name": "Angelsaur",
+          "url": "https://open.spotify.com/artist/1GfyE51MdTYnvRvPAuDUXb"
+        }
+      ],
+      "duration_ms": 137253,
+      "name": "Choke Chain",
+      "url": "https://open.spotify.com/track/6L0iKLGrWW53jAopkwopzy"
+    },
+    {
+      "added_at": "2025-06-11 15:14:25",
+      "album": {
+        "name": "Feel / Tranan",
+        "url": "https://open.spotify.com/album/0KephHxdf5wEaPUv77i2uq"
+      },
+      "artists": [
+        {
+          "name": "Sunnan",
+          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
+        }
+      ],
+      "duration_ms": 266023,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/2Y0JncmzHZWCsdvLoeEssP"
     },
     {
       "added_at": "2025-06-11 15:02:46",
@@ -167,18 +199,18 @@
     {
       "added_at": "2025-06-11 15:02:46",
       "album": {
-        "name": "After the Fact",
-        "url": "https://open.spotify.com/album/6EvzRn0Y2h4ZJswOUuZrpK"
+        "name": "The Texas Primadonna",
+        "url": "https://open.spotify.com/album/3DjEEt7A58vpSuUemigZzB"
       },
       "artists": [
         {
-          "name": "Syd Taylor",
-          "url": "https://open.spotify.com/artist/3dZ1fTizrmY5jfkf0jrvav"
+          "name": "Tiffany Stringer",
+          "url": "https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u"
         }
       ],
-      "duration_ms": 208398,
-      "name": "After the Fact",
-      "url": "https://open.spotify.com/track/62eY7NxeO2pjWLchkqqdtL"
+      "duration_ms": 133000,
+      "name": "Texas Primadonna",
+      "url": "https://open.spotify.com/track/03eZNwdLPrikoKzdO2LlqO"
     },
     {
       "added_at": "2025-06-11 15:14:25",
@@ -195,38 +227,6 @@
       "duration_ms": 181370,
       "name": "To Kill Me",
       "url": "https://open.spotify.com/track/5vWo5yZtL7G1txIHmCQ5o4"
-    },
-    {
-      "added_at": "2025-06-11 15:02:46",
-      "album": {
-        "name": "Choke Chain",
-        "url": "https://open.spotify.com/album/5jdSxkXwsDq4gwSOOASXau"
-      },
-      "artists": [
-        {
-          "name": "Angelsaur",
-          "url": "https://open.spotify.com/artist/1GfyE51MdTYnvRvPAuDUXb"
-        }
-      ],
-      "duration_ms": 137253,
-      "name": "Choke Chain",
-      "url": "https://open.spotify.com/track/6L0iKLGrWW53jAopkwopzy"
-    },
-    {
-      "added_at": "2025-06-11 15:14:25",
-      "album": {
-        "name": "Feel / Tranan",
-        "url": "https://open.spotify.com/album/0KephHxdf5wEaPUv77i2uq"
-      },
-      "artists": [
-        {
-          "name": "Sunnan",
-          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
-        }
-      ],
-      "duration_ms": 266023,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/2Y0JncmzHZWCsdvLoeEssP"
     },
     {
       "added_at": "2025-06-11 15:02:46",

@@ -6,7 +6,7 @@
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAIBERVdu7ZcOa850dW2tiniREzaO8w",
+  "snapshot_id": "AAAIBVICUt+Z7U04AXhLze075QAohFFE",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -1593,6 +1593,26 @@
       "url": "https://open.spotify.com/track/3xJMfoI7ApSNE2XYEsJ9z9"
     },
     {
+      "added_at": "2023-06-12 09:23:03",
+      "album": {
+        "name": "Into The Wild (feat. KiFi)",
+        "url": "https://open.spotify.com/album/5oUAZkXDIckQi939OEhbnv"
+      },
+      "artists": [
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "KiFi",
+          "url": "https://open.spotify.com/artist/4C26PDH7q4oJazjcHlSekc"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Into The Wild",
+      "url": "https://open.spotify.com/track/0WieTfhf6N0alEhBpSiOtd"
+    },
+    {
       "added_at": "2025-05-09 00:41:05",
       "album": {
         "name": "Comes Down",
@@ -1633,6 +1653,26 @@
       "url": "https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd"
     },
     {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "Easier (feat. LOWES) [Radio Edit]",
+        "url": "https://open.spotify.com/album/1OsuxoklYDFBNDtGXcFQui"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "LOWES",
+          "url": "https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g"
+        }
+      ],
+      "duration_ms": 214687,
+      "name": "Easier (feat. LOWES) - Radio Edit",
+      "url": "https://open.spotify.com/track/133YafRPaKLYCR28FSbN4M"
+    },
+    {
       "added_at": "2024-07-26 00:41:03",
       "album": {
         "name": "Another Day In Paradise",
@@ -1657,24 +1697,24 @@
       "url": "https://open.spotify.com/track/0HjogmklU56Soh2HNhbWer"
     },
     {
-      "added_at": "2023-06-12 09:23:03",
+      "added_at": "2023-06-13 09:44:03",
       "album": {
-        "name": "Into The Wild (feat. KiFi)",
-        "url": "https://open.spotify.com/album/5oUAZkXDIckQi939OEhbnv"
+        "name": "Stay the Night",
+        "url": "https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ"
       },
       "artists": [
         {
-          "name": "Wildstylez",
-          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         },
         {
-          "name": "KiFi",
-          "url": "https://open.spotify.com/artist/4C26PDH7q4oJazjcHlSekc"
+          "name": "Talia Mar",
+          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Into The Wild",
-      "url": "https://open.spotify.com/track/0WieTfhf6N0alEhBpSiOtd"
+      "duration_ms": 171954,
+      "name": "Stay the Night",
+      "url": "https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR"
     },
     {
       "added_at": "2024-09-27 00:41:03",
@@ -1699,46 +1739,6 @@
       "duration_ms": 130500,
       "name": "Torn",
       "url": "https://open.spotify.com/track/6IrZcWFFvMF0UzUKyeUpwn"
-    },
-    {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
-        "name": "Easier (feat. LOWES) [Radio Edit]",
-        "url": "https://open.spotify.com/album/1OsuxoklYDFBNDtGXcFQui"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "LOWES",
-          "url": "https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g"
-        }
-      ],
-      "duration_ms": 214687,
-      "name": "Easier (feat. LOWES) - Radio Edit",
-      "url": "https://open.spotify.com/track/133YafRPaKLYCR28FSbN4M"
-    },
-    {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
-        "name": "Stay the Night",
-        "url": "https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Talia Mar",
-          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
-        }
-      ],
-      "duration_ms": 171954,
-      "name": "Stay the Night",
-      "url": "https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1821,26 +1821,6 @@
       "url": "https://open.spotify.com/track/1KqKhJwTqCyTAv96ON05mL"
     },
     {
-      "added_at": "2024-07-26 00:41:03",
-      "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/6mU3Tduq9a0Cd8ZIVXoeSg"
-      },
-      "artists": [
-        {
-          "name": "Dualh\u00ef",
-          "url": "https://open.spotify.com/artist/4HzQLZAdLvGvyqVhhJ5CW6"
-        },
-        {
-          "name": "JandB",
-          "url": "https://open.spotify.com/artist/4jN5GS2qlp50fhNUrrLrkA"
-        }
-      ],
-      "duration_ms": 150447,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/0DqooBsYdHc3QajIX0c6op"
-    },
-    {
       "added_at": "2024-11-01 00:41:04",
       "album": {
         "name": "Life Goes On (feat. Alex Hosking)",
@@ -1881,20 +1861,24 @@
       "url": "https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa"
     },
     {
-      "added_at": "2025-03-21 00:41:04",
+      "added_at": "2024-07-26 00:41:03",
       "album": {
-        "name": "Be On Your Mind",
-        "url": "https://open.spotify.com/album/25nGGtZvIcDsOHllzw262i"
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/6mU3Tduq9a0Cd8ZIVXoeSg"
       },
       "artists": [
         {
-          "name": "Luis Elba",
-          "url": "https://open.spotify.com/artist/1DA4e1dx0O1N10b3bw18Le"
+          "name": "Dualh\u00ef",
+          "url": "https://open.spotify.com/artist/4HzQLZAdLvGvyqVhhJ5CW6"
+        },
+        {
+          "name": "JandB",
+          "url": "https://open.spotify.com/artist/4jN5GS2qlp50fhNUrrLrkA"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Be On Your Mind",
-      "url": "https://open.spotify.com/track/4cNbpYE2fBcU0ZaO7Xlfu3"
+      "duration_ms": 150447,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/0DqooBsYdHc3QajIX0c6op"
     },
     {
       "added_at": "2024-11-17 00:41:03",
@@ -1917,30 +1901,6 @@
       "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
     },
     {
-      "added_at": "2024-10-12 00:41:03",
-      "album": {
-        "name": "Forever Young",
-        "url": "https://open.spotify.com/album/6qDfGJiAVOqKaOJ8HIssmy"
-      },
-      "artists": [
-        {
-          "name": "Coral Reef",
-          "url": "https://open.spotify.com/artist/2Ia6l1oSkQazPGlu5AF8CT"
-        },
-        {
-          "name": "Emily Dawn",
-          "url": "https://open.spotify.com/artist/3szjlSC8nI6mZ5wOdeNmwc"
-        },
-        {
-          "name": "Alex Grey",
-          "url": "https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf"
-        }
-      ],
-      "duration_ms": 173610,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/3bSQhzEakXK108UasRWP4t"
-    },
-    {
       "added_at": "2024-11-20 00:41:04",
       "album": {
         "name": "All My Friends (Eden Prince Remix)",
@@ -1959,6 +1919,22 @@
       "duration_ms": 173548,
       "name": "All My Friends - Eden Prince Remix",
       "url": "https://open.spotify.com/track/5WaXMQMlQpq8pwIdaFP43L"
+    },
+    {
+      "added_at": "2025-03-21 00:41:04",
+      "album": {
+        "name": "Be On Your Mind",
+        "url": "https://open.spotify.com/album/25nGGtZvIcDsOHllzw262i"
+      },
+      "artists": [
+        {
+          "name": "Luis Elba",
+          "url": "https://open.spotify.com/artist/1DA4e1dx0O1N10b3bw18Le"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Be On Your Mind",
+      "url": "https://open.spotify.com/track/4cNbpYE2fBcU0ZaO7Xlfu3"
     },
     {
       "added_at": "2024-11-25 00:44:03",
@@ -1983,6 +1959,30 @@
       "duration_ms": 170510,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/25qhCdtNV7jCiAbcxFxZgx"
+    },
+    {
+      "added_at": "2024-10-12 00:41:03",
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/6qDfGJiAVOqKaOJ8HIssmy"
+      },
+      "artists": [
+        {
+          "name": "Coral Reef",
+          "url": "https://open.spotify.com/artist/2Ia6l1oSkQazPGlu5AF8CT"
+        },
+        {
+          "name": "Emily Dawn",
+          "url": "https://open.spotify.com/artist/3szjlSC8nI6mZ5wOdeNmwc"
+        },
+        {
+          "name": "Alex Grey",
+          "url": "https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf"
+        }
+      ],
+      "duration_ms": 173610,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/3bSQhzEakXK108UasRWP4t"
     },
     {
       "added_at": "2025-06-08 00:41:06",
@@ -2025,24 +2025,24 @@
       "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
     },
     {
-      "added_at": "2024-05-31 00:41:04",
+      "added_at": "2025-06-14 00:41:05",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/4JwpOWvno7gw5ielxFne6P"
+        "name": "To Die For (Madism Remix)",
+        "url": "https://open.spotify.com/album/3xJHO62lLfAXbOu4t1z14c"
       },
       "artists": [
         {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         },
         {
-          "name": "Simon Ward",
-          "url": "https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP"
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
         }
       ],
-      "duration_ms": 129229,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/47ij2z59LpBuxx1ixMjcMW"
+      "duration_ms": 161538,
+      "name": "To Die For - Madism Remix",
+      "url": "https://open.spotify.com/track/0lV1nrpDhrDtCQNsnjIr3v"
     }
   ],
   "unique_name": "EDM Top 100",

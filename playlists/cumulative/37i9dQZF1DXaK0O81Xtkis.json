@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a little indie, a little pop.  Cover: Kacy Hill ",
+  "description": "a little indie, a little pop.  Cover: Henry Moodie",
   "name": "soda",
   "tracks": [
     {
@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 151442,
       "name": "Are You Okay?",
       "url": "https://open.spotify.com/track/3uKwNNEG54PcTNPxPlI4PG"
@@ -4483,6 +4483,24 @@
     },
     {
       "album": {
+        "name": "comedown",
+        "url": "https://open.spotify.com/album/4r6XmJdluBTzkNjYtR3ABh"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192684,
+      "name": "comedown",
+      "url": "https://open.spotify.com/track/0WP2mSrYIXEy2poZkAWlNZ"
+    },
+    {
+      "album": {
         "name": "COMING WITH GUNS",
         "url": "https://open.spotify.com/album/5vZLZlzIIYLoFRTRKHVCod"
       },
@@ -4638,7 +4656,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 163533,
       "name": "cool",
       "url": "https://open.spotify.com/track/7BicWDX4TJX09ps0XhNmrS"
@@ -5996,7 +6014,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 217400,
       "name": "Don't Forget You Love Me",
       "url": "https://open.spotify.com/track/3PCpcXOeOFSkJORnFuBF4B"
@@ -7763,6 +7781,24 @@
     },
     {
       "album": {
+        "name": "Freaking Out",
+        "url": "https://open.spotify.com/album/0BftWUaqnKTTvxP1dclKZb"
+      },
+      "artists": [
+        {
+          "name": "PARKWILD",
+          "url": "https://open.spotify.com/artist/37pbVQWclfUKj4ZKb049zA"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203230,
+      "name": "Freaking Out",
+      "url": "https://open.spotify.com/track/1RPnV2B4YAzpu8SIqAI7dO"
+    },
+    {
+      "album": {
         "name": "Free Love",
         "url": "https://open.spotify.com/album/6XJGZ5RmmHVvOJEDFPL8f3"
       },
@@ -8056,6 +8092,24 @@
       "duration_ms": 147381,
       "name": "Girls In Line for the Bathroom",
       "url": "https://open.spotify.com/track/4jcM7Z6rKqsjEWpSTVfjmm"
+    },
+    {
+      "album": {
+        "name": "Girls Just Wanna Be Famous",
+        "url": "https://open.spotify.com/album/3dTj9QX5l2YQl1qbyxnnZt"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161060,
+      "name": "Girls Just Wanna Be Famous",
+      "url": "https://open.spotify.com/track/6K57TO1Y8uSQWNYdOXmSRE"
     },
     {
       "album": {
@@ -8868,7 +8922,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 167981,
       "name": "Happier",
       "url": "https://open.spotify.com/track/2K7joY7tfceQ5GRhibXpN2"
@@ -9716,6 +9770,24 @@
       "duration_ms": 135529,
       "name": "HIGHWITCHA",
       "url": "https://open.spotify.com/track/7B63qxsALIx0CgOIZK2KZy"
+    },
+    {
+      "album": {
+        "name": "His LA Girl",
+        "url": "https://open.spotify.com/album/5ZmQqhcyWuVecfOSqpf5rY"
+      },
+      "artists": [
+        {
+          "name": "Ren Martinez",
+          "url": "https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "His LA Girl",
+      "url": "https://open.spotify.com/track/5wA2hUAniDVKkcyhnY1IKs"
     },
     {
       "album": {
@@ -12520,7 +12592,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 236954,
       "name": "L.O.V.E.",
       "url": "https://open.spotify.com/track/5qwr6y7se6RKHijm7FXnUe"
@@ -16304,7 +16376,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 192047,
       "name": "othello",
       "url": "https://open.spotify.com/track/06ss61sRVXC2DuYh2GcoVt"
@@ -17722,7 +17794,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 136779,
       "name": "ring my bell",
       "url": "https://open.spotify.com/track/5pX5ZWRsPdzJPL22dajuIP"
@@ -20447,6 +20519,24 @@
     },
     {
       "album": {
+        "name": "Summer Love",
+        "url": "https://open.spotify.com/album/0IcVjhrvZWzKehC88IZQgs"
+      },
+      "artists": [
+        {
+          "name": "Good Boy Daisy",
+          "url": "https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191050,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/0gNf2MHNWlktWxVRHfGhFb"
+    },
+    {
+      "album": {
         "name": "Summer Secret",
         "url": "https://open.spotify.com/album/3NCCbCcz7x2hQPgE5CkPmX"
       },
@@ -21071,6 +21161,24 @@
     },
     {
       "album": {
+        "name": "CYCLES",
+        "url": "https://open.spotify.com/album/1T1eS3I0K7NC7BmnHQ7PL4"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118690,
+      "name": "TATTOOS & U",
+      "url": "https://open.spotify.com/track/7EYLUgc5aIc5r5sfzjJd2E"
+    },
+    {
+      "album": {
         "name": "Tears in the Moonlight",
         "url": "https://open.spotify.com/album/5VMt4kmFV2RghvnTx9DCyu"
       },
@@ -21385,6 +21493,24 @@
     },
     {
       "album": {
+        "name": "The Beginning of Us",
+        "url": "https://open.spotify.com/album/4MeY1nCrurVL8oCRNWCBzm"
+      },
+      "artists": [
+        {
+          "name": "Jordy Searcy",
+          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138600,
+      "name": "The Beginning of Us",
+      "url": "https://open.spotify.com/track/2qnNiVC07rM5gxzL9f0mgE"
+    },
+    {
+      "album": {
         "name": "Modern Romance",
         "url": "https://open.spotify.com/album/0j2JD5n3SLhPgisWlam9lD"
       },
@@ -21504,7 +21630,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 248562,
       "name": "The First and Last of the Perfect Parties",
       "url": "https://open.spotify.com/track/2fyyltBHLMwFRKgpOpLLCs"

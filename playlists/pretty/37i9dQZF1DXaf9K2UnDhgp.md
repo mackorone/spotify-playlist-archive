@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 
 > Riffing around the Christmas tree.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,229 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,212 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 99 | [The Lights and Buzz \- 2015 Remastered](https://open.spotify.com/track/7pw7YBfcX0F3e0Pm4vkO0F) | [Jack's Mannequin](https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD) | [Everything In Transit \(10th Anniversary Edition\)](https://open.spotify.com/album/2tiKjIoifWlFXTlJJSB6kv) | 3:36 |
 | 100 | [Christmas With The Devil](https://open.spotify.com/track/7dfdlrPQu0IBUnvdcLgnYt) | [Spinal Tap](https://open.spotify.com/artist/65X3sG8LVBQN5033RqB6qn) | [Break Like The Wind](https://open.spotify.com/album/14xey59x8BvxPeTLoztAyV) | 4:33 |
 
-Snapshot ID: `ZymsWwAAAAChmnyHBflPjPuZccf3DwUT`
+Snapshot ID: `ZymsWwAAAACtj8jg5IDlAsatMPWPs8iP`

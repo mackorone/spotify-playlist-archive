@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-2,646 songs - 5 day 19 hr 13 min
+2,647 songs - 5 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -499,8 +499,8 @@
 | [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 | 2022-12-08 | 2023-02-01 |
 | [Espresso](https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:55 | 2024-12-06 | 2025-01-09 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-24 | 2024-09-17 |
-| [Espresso Macchiato](https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns) | 2:53 | 2025-05-15 | 2025-06-12 |
-| [Espresso Macchiato](https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj) | 2:53 | 2025-05-22 |  |
+| [Espresso Macchiato](https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns) | 2:53 | 2025-05-15 |  |
+| [Espresso Macchiato](https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj) | 2:53 | 2025-05-22 | 2025-06-14 |
 | [Esson baariin](https://open.spotify.com/track/2SNZVqgDiiuOUe2qPOW1m1) | [Poju](https://open.spotify.com/artist/5z9Z1vlOXGvDLBgKfzdswn) | [Esson baariin](https://open.spotify.com/album/42fygvvgLvfoqUmMmzTiXS) | 3:27 | 2021-06-26 | 2022-06-28 |
 | [Eteisvalssi](https://open.spotify.com/track/628LprEZ2tP24jrT3cAdvq) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Hyvikset ja pahikset](https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0) | 3:04 | 2023-04-01 | 2023-04-09 |
 | [Ethän tarkoittanut sitä](https://open.spotify.com/track/0p2BEjIUTCL2Zke7mxTTFE) | [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Merkittävät erot](https://open.spotify.com/album/4NJkTWOSCA5b4I7HwgNuwK) | 3:20 | 2023-09-23 | 2023-10-01 |
@@ -1198,7 +1198,7 @@
 | [Light Switch](https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch \(Instrumental\)](https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs) | 3:05 | 2022-02-05 | 2022-02-13 |
 | [Lighter](https://open.spotify.com/track/0AMoopn68aGAAaJ9qFXPnX) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [Lighter](https://open.spotify.com/album/3wo1epa3NLBGPr1rTeJror) | 2:55 | 2025-05-15 | 2025-06-06 |
 | [Lightskinboy \(feat\. Sexmane\)](https://open.spotify.com/track/1PUwncTlHx89aP8nIfObSO) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Lightskinboy \(feat\. Sexmane\)](https://open.spotify.com/album/3ZtPi15BOXrYLDSrRH1eIv) | 2:26 | 2024-05-25 | 2024-09-22 |
-| [Lightskinboy \(feat\. Sexmane\)](https://open.spotify.com/track/73kBsYMLlAQFcGym49f74g) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [ROADMAN](https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m) | 2:26 | 2024-09-21 |  |
+| [Lightskinboy \(feat\. Sexmane\)](https://open.spotify.com/track/73kBsYMLlAQFcGym49f74g) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [ROADMAN](https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m) | 2:26 | 2024-09-21 | 2025-06-14 |
 | [Liian lähel aurinkoo](https://open.spotify.com/track/3g11Jm4Im7mEOUGJfsgay1) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [Liian lähel aurinkoo](https://open.spotify.com/album/2bLwEBPZKGkZyM0mAZZa7m) | 2:39 | 2024-07-13 | 2024-07-19 |
 | [Liian moni \(feat\. VJ\)](https://open.spotify.com/track/3QUpgNvOU1AQsxVrdUby1H) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [euro musik](https://open.spotify.com/album/5RAmd82hWPvFBmUs73B5gO) | 2:21 | 2023-10-21 | 2023-12-10 |
 | [Liikaa kysymyksii](https://open.spotify.com/track/2oKkj0slLbjVhv8nf9ovKv) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Coast to Costi](https://open.spotify.com/album/6zHXNwzHQr0m3RewWIa2Uv) | 3:02 | 2023-11-18 | 2023-11-20 |
@@ -1346,6 +1346,7 @@
 | [meikä matadori](https://open.spotify.com/track/5vZzyiI06Hy9abWonKVJBy) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [LIMBO](https://open.spotify.com/album/35eRCbiaVPNOpSvleCo6JZ) | 3:05 | 2022-12-10 | 2023-01-07 |
 | [Meille käy hyvin](https://open.spotify.com/track/16mkUOA1z4WuJthRwgfFAY) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Meille käy hyvin](https://open.spotify.com/album/34KV0GrvNeofNZM5t5KiZj) | 3:06 | 2021-05-23 | 2021-07-08 |
 | [Meine Tränen](https://open.spotify.com/track/0qGZkkxnyfGrUBLflKwBQG) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:57 | 2022-04-30 | 2022-05-02 |
+| [MEININKI](https://open.spotify.com/track/4zH8TU2iPWc6cu4gwGoEZ7) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [WILLEM](https://open.spotify.com/artist/2u66MppjHvqRsfLMYfn0Sv) | [DENIM](https://open.spotify.com/album/59K4XTz4XemdL5XqDr2ZEa) | 3:21 | 2025-06-13 |  |
 | [Meininkii mä metsästän](https://open.spotify.com/track/3IV2Pi5gQ1jxNiVmaRb8m4) | [Ramses II](https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC) | [Meininkii mä metsästän](https://open.spotify.com/album/1VYh9dVMFdihX30sMIrjz8) | 2:46 | 2023-05-13 | 2023-05-15 |
 | [Meistä jää jälki](https://open.spotify.com/track/6JixlZ0ArxQjJ2bEUyT9tb) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Meistä jää jälki](https://open.spotify.com/album/24141qHrvAfIdIOmb40LJ5) | 3:54 | 2023-09-02 | 2023-09-07 |
 | [Meit ei oo](https://open.spotify.com/track/6gC4zm1oONWkl0zvo4Cwg6) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Meit ei oo](https://open.spotify.com/album/4Yb8i9q3s9NQr0Fljwx5GL) | 2:54 | 2023-04-01 | 2024-01-20 |

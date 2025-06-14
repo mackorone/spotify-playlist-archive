@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Khuphuka lapho\u2026 seku-late! Cover:  <a href=\"https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs?si=QjLWevRtR1CtFV87y37SlQ\">Khuzani</a>",
+  "description": "Khuphuka lapho\u2026 seku-late! Cover:  <a href=\"https://open.spotify.com/artist/7wayRI97YKruzv8kyy3zok?si=90ny7O9HT2yus-8jRz3M-g\">Mbuzeni</a>",
   "name": "Bhinca Nation",
   "tracks": [
+    {
+      "album": {
+        "name": "Ababizi Bengoma",
+        "url": "https://open.spotify.com/album/0oWdPXu4fsyQ5d8SPiN4Ox"
+      },
+      "artists": [
+        {
+          "name": "Mbuzeni",
+          "url": "https://open.spotify.com/artist/7wayRI97YKruzv8kyy3zok"
+        },
+        {
+          "name": "Mthandeni SK",
+          "url": "https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242764,
+      "name": "Ababizi Bengoma",
+      "url": "https://open.spotify.com/track/38gjrwh5FkYKYL0ix2Xhsu"
+    },
     {
       "album": {
         "name": "I Mathematics",
@@ -1166,7 +1188,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 260303,
       "name": "iAttention (feat. Inkos'yamagcokama & Ashantiey)",
       "url": "https://open.spotify.com/track/4zb5lmp4fKXkB6fENFp2h5"

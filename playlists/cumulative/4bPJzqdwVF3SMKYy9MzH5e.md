@@ -4,7 +4,7 @@
 
 > 
 
-2,165 songs - 4 day 20 hr 19 min
+2,170 songs - 4 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun](https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 2:13 | 2024-04-01 |  |
 | [A Loving Feeling](https://open.spotify.com/track/5usQET86kxSpLdk7iCP1pw) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 1:32 | 2022-10-17 |  |
 | [A Match Into Water](https://open.spotify.com/track/54MXF9I8s3DuiQo3g0gZ5k) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:32 | 2021-08-05 |  |
+| [A New Kind Of Love \- Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz), [Guy Sigsworth](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) | [A New Kind Of Love \(Demo\)](https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb) | 4:19 | 2025-06-14 |  |
 | [A Palé](https://open.spotify.com/track/23zJcKwLf5CeaKVbFhrWgF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [A Palé](https://open.spotify.com/album/6B2RRiDJFXHojfPxKja5Mx) | 2:23 | 2021-08-05 |  |
 | [A Piece Of My Mind](https://open.spotify.com/track/3L25RzggVb72wZOUCG7Vn4) | [Downhill2k01](https://open.spotify.com/artist/0xBBjvYwXtW0k90kDx9JLs) | [A Piece Of My Mind](https://open.spotify.com/album/5Ubw9Dnn999MCF3xR2Lguh) | 1:14 | 2022-12-25 |  |
 | [A Quick One Before the Eternal Worm Devours Connecticut](https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 7:52 | 2022-04-03 |  |
@@ -354,6 +355,7 @@
 | [Calm Your Fears](https://open.spotify.com/track/17Eoc1g0HaieE1xwZ1tGfD) | [Imbroco](https://open.spotify.com/artist/0HFEfCCOPwDSc5aCm7IMW9) | [Are You My Lionkiller?](https://open.spotify.com/album/5kCw6P05LFARfcXXaoAHz3) | 5:21 | 2023-06-25 | 2023-07-01 |
 | [cambridge](https://open.spotify.com/track/1XX0ITPAP64hzV5DrioXdC) | [swimcoach](https://open.spotify.com/artist/55kM6YHZNtzPFa6veTc2Zf) | [Swimbot](https://open.spotify.com/album/2wY6mKS39Go29qYvN9WyDr) | 2:05 | 2021-08-05 |  |
 | [Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:48 | 2021-08-05 |  |
+| [Candy](https://open.spotify.com/track/5MYPciceOHMd7Vl7ntELEq) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2c3UCT6duZO82Fk1QZ9D7G) | 3:27 | 2025-06-14 |  |
 | [Capable of love](https://open.spotify.com/track/52qxHBgcQGVV2JrMwPhYJl) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 3:43 | 2023-11-16 |  |
 | [Caraphernelia](https://open.spotify.com/track/2G8PweZBBwTpyP8vpNQJK2) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines](https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q) | 4:28 | 2023-02-22 |  |
 | [Care For You](https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Care For You](https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk) | 2:36 | 2021-08-05 |  |
@@ -1134,6 +1136,7 @@
 | [Look](https://open.spotify.com/track/42y1R39jgfNb8tNtNNoYMZ) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Look](https://open.spotify.com/album/1I35zlzXcHo0RNRYAsH9eF) | 2:48 | 2021-09-15 |  |
 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 | 2021-08-05 |  |
 | [Looming.Sorrow.Descent](https://open.spotify.com/track/66ttdhLCg7CXzJmfDFVLnM) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [Skitzofrenia Simulation](https://open.spotify.com/album/1xPlkO690CiBEwodg1HaN7) | 5:18 | 2021-08-24 |  |
+| [Loose Cannon](https://open.spotify.com/track/1FxmJ9hQ0nVrOI19SChpi8) | [Puzzle](https://open.spotify.com/artist/3JDZy6EWo6V8yABANunf6V) | [X Hail](https://open.spotify.com/album/5EeK2ioXWQelWsAvtr7EUL) | 2:57 | 2025-06-14 |  |
 | [Los Borrachos \(I Don't Have Any Hope Left, But The Weather Is Nice\)](https://open.spotify.com/track/63iXoeDbf5zNz5NbHkGNuU) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Monomania](https://open.spotify.com/album/5PRS4JgeX1vv4YHyENFKw0) | 6:06 | 2021-08-05 |  |
 | [Losing My Religion](https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 4:28 | 2022-06-17 |  |
 | [Losing You](https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 3:06 | 2021-08-05 |  |
@@ -1300,6 +1303,7 @@
 | [Médicale](https://open.spotify.com/track/54G0ejE3XPmykywsbIJAHG) | [Mangojefe](https://open.spotify.com/artist/5oelOSYaGjn9dD92JEYxTi), [TaeminTekken](https://open.spotify.com/artist/1m3lS4PkpYY3ZE7IE0FFGq) | [Pronoïa](https://open.spotify.com/album/7s7dhqu7YfdV8VQTQTb3yd) | 2:12 | 2021-08-05 |  |
 | [N.M.E.](https://open.spotify.com/track/6CDsD8Y2HEWkMYycnpV1aw) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Duality](https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt) | 3:28 | 2022-02-04 |  |
 | [Nails, Hair, Hips, Heels](https://open.spotify.com/track/60nXduun3ybrHhtDOUmGmV) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 1](https://open.spotify.com/album/18cAitZNvQLJBlNhDeSH2L) | 3:56 | 2021-08-05 |  |
+| [nanana](https://open.spotify.com/track/4fSUKZkNYgEFFFbzT8o7Uj) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [nanana](https://open.spotify.com/album/5yPh8kBP139pDobFcpumCP) | 2:02 | 2025-06-14 |  |
 | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/23bkmqAXxuId9FaUJvrP29) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/3OCnOKuifIlUkYkCaqlHfd) | 1:50 | 2023-05-30 |  |
 | [NASA](https://open.spotify.com/track/4uTvPEr01pjTbZgl7jcKBD) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:02 | 2021-08-05 |  |
 | [Nasty](https://open.spotify.com/track/7KDAYYWQ3lqaakRare0tTv) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Nasty](https://open.spotify.com/album/0rCeCuGUolDcG1Ah0sdxAX) | 1:34 | 2021-08-05 |  |
@@ -1526,6 +1530,7 @@
 | [Put Your Records On](https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7) | 3:30 | 2021-08-05 |  |
 | [Putrid Pride](https://open.spotify.com/track/4CwA4CdTQqNv18QSAW3Srk) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [STOP STARING AT THE SHADOWS](https://open.spotify.com/album/6lH2MWwv4aBA2OK7uuYy0n) | 1:46 | 2022-12-25 |  |
 | [Pynk \(feat\. Grimes\)](https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 4:00 | 2022-02-18 |  |
+| [Q\-Lo Bendecio](https://open.spotify.com/track/2CadwUJncU5t75YykMmDiu) | [CRRDR](https://open.spotify.com/artist/5K3Cj0EgqQKp4apSdW2D6I) | [DAMNBOW](https://open.spotify.com/album/0f963eZbpaHhVoBQ8K2SWq) | 2:48 | 2025-06-14 |  |
 | [QUEEN OF THE FREAKS](https://open.spotify.com/track/1B3jrw2Wis7EgeGfixMfXX) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [QUEEN OF THE FREAKS](https://open.spotify.com/album/4tMZzGfRtcoBYz6kVU2ZX6) | 3:34 | 2021-11-14 |  |
 | [Quer Fuder Com os Sem Amor Vs Beat Risada](https://open.spotify.com/track/256rhfOQpQvN24CFJEWxQ8) | [Lgzin e cabelinho](https://open.spotify.com/artist/1UbZJGwemZf22EigTv1hH5), [Mc Grigo 22](https://open.spotify.com/artist/3FPXlDlvOoKaDRrqQcFH8l), [DJ LG O ÚNICO](https://open.spotify.com/artist/6vXefTObujjgjmVoazbBXz) | [Quer Fuder Com os Sem Amor Vs Beat Risada](https://open.spotify.com/album/6TYSu96eVsKo1RrVXf8deB) | 2:16 | 2023-12-22 |  |
 | [Qué Pasaría...](https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:11 | 2024-12-13 |  |

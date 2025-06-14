@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Homegrown talent feat\. Greta Isaac as Dolly Zoom 🏁
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,479 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,489 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SOFT SCOOP TALKING DOG](https://open.spotify.com/track/3g0PEy13O7biKs5QbO6JuI) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [SOFT SCOOP TALKING DOG](https://open.spotify.com/album/3nrLoVydKklCtyxQXskO5V) | 2:03 |
 | 2 | [Aftersun](https://open.spotify.com/track/4TW1Ht5J4rpAzaC9XxCfSL) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [Aftersun](https://open.spotify.com/album/4Rft8esEjEWBI6DLENOnFA) | 3:00 |
-| 3 | [Pretty Soon](https://open.spotify.com/track/2bIQZ7OD0a4WFQJqI1qbZ9) | [Mudi Sama](https://open.spotify.com/artist/4OFlR9OFN1PRLww3MSVF7W) | [Pretty Soon](https://open.spotify.com/album/56sGAdK8bzLhUQeGiBBGyb) | 2:31 |
+| 3 | [Body On Me](https://open.spotify.com/track/6MglZeuPDQwHzZTxrRZfCW) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [I Promise No One's Watching](https://open.spotify.com/album/5IVW9XdJ8w9MFB6VO66AXZ) | 2:33 |
 | 4 | [In My Head](https://open.spotify.com/track/29QaOkFHNTo6ftbcEGGrwe) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [In My Head](https://open.spotify.com/album/2BGFa1PbKBnzJ4ondyeVH8) | 2:22 |
-| 5 | [Plasticine](https://open.spotify.com/track/18L1aGbJenvVoDsXyv85NO) | [James Marriott](https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL) | [Don't Tell The Dog](https://open.spotify.com/album/2da40GDH3ygPRRoJc8n7WG) | 3:02 |
-| 6 | [Different Kind Of Love](https://open.spotify.com/track/24OSstaojKavFMAad7CHBb) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Different Kind Of Love](https://open.spotify.com/album/3lGbBlPUeNyxU52Nm5gpdz) | 2:52 |
+| 5 | [Different Kind Of Love](https://open.spotify.com/track/24OSstaojKavFMAad7CHBb) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Different Kind Of Love](https://open.spotify.com/album/3lGbBlPUeNyxU52Nm5gpdz) | 2:52 |
+| 6 | [Pretty Soon](https://open.spotify.com/track/2bIQZ7OD0a4WFQJqI1qbZ9) | [Mudi Sama](https://open.spotify.com/artist/4OFlR9OFN1PRLww3MSVF7W) | [Pretty Soon](https://open.spotify.com/album/56sGAdK8bzLhUQeGiBBGyb) | 2:31 |
 | 7 | [burna](https://open.spotify.com/track/0kTySUGoZCotqHZEMMzgdP) | [Jessy Blakemore](https://open.spotify.com/artist/6Z2SXdkJgWDEMm6NANPVDu) | [burna](https://open.spotify.com/album/0v3K7kgN0glEIer3v2PQom) | 2:56 |
 | 8 | [Buttercup](https://open.spotify.com/track/2tyG8HDeoOQpN5XHwB0e96) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Buttercup](https://open.spotify.com/album/24u8S8yWPezu70hemgvdp0) | 4:30 |
 | 9 | [TV Show](https://open.spotify.com/track/1z7bP3RDABUmcONZNAnxN3) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [TV Show](https://open.spotify.com/album/758tMDw0wXQKLlhmbTErqI) | 3:17 |
 | 10 | [Sound & Light](https://open.spotify.com/track/4qzm5ib6WlsEoUZK77IOZt) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Sound & Light](https://open.spotify.com/album/4J9mjNuFkJacjvwORMce86) | 3:18 |
 | 11 | [Miscalculations](https://open.spotify.com/track/1LOAhDFL61ZOYcXeMS0LLM) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Tales of a Knight](https://open.spotify.com/album/6IH5H7UkprcZ3DA8vyrepk) | 3:13 |
 | 12 | [Dangerous Moves](https://open.spotify.com/track/7n8uvPkQblFtvxPGcWVWwK) | [HIRA](https://open.spotify.com/artist/2rxiXXKdtR1e3ByeaGs7tv) | [Dangerous Moves](https://open.spotify.com/album/1JnoZM0rVSyx9X7ZJxfsk2) | 4:37 |
-| 13 | [Body On Me](https://open.spotify.com/track/6MglZeuPDQwHzZTxrRZfCW) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [I Promise No One's Watching](https://open.spotify.com/album/5IVW9XdJ8w9MFB6VO66AXZ) | 2:33 |
+| 13 | [Plasticine](https://open.spotify.com/track/18L1aGbJenvVoDsXyv85NO) | [James Marriott](https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL) | [Don't Tell The Dog](https://open.spotify.com/album/2da40GDH3ygPRRoJc8n7WG) | 3:02 |
 | 14 | [Kintsugi](https://open.spotify.com/track/3x6gA8SG2NB2XQ9gmgggT9) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Kintsugi](https://open.spotify.com/album/4EWfIhYmj4618XFcsFG6UW) | 3:27 |
 | 15 | [naked](https://open.spotify.com/track/4WV5x9dXa0jRCdzYhN5VyA) | [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [naked](https://open.spotify.com/album/2yGNwA8lOIOV9SSxA9f5GC) | 3:07 |
 | 16 | [People, Places and Things](https://open.spotify.com/track/0I34I6v9Va1L4cLFaUc8we) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [People, Places and Things](https://open.spotify.com/album/59t5ZqnKCDq2kD6T7SL3zp) | 3:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 74 | [Romeo](https://open.spotify.com/track/7hA1dHwJfz754XQokziAEg) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Romeo](https://open.spotify.com/album/7A86Rr46eRrgkqHIFDG9xv) | 3:26 |
 | 75 | [Dancing With You \(Baby\)](https://open.spotify.com/track/6jH8n4BtHW0TWal4oj07Hp) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Dancing With You \(Baby\)](https://open.spotify.com/album/7eRzTv8yMwzmXNX345i8qi) | 3:28 |
 
-Snapshot ID: `aEtb/QAAAADuRpJJMXzTCAwLLzUTKyr1`
+Snapshot ID: `aEwXLQAAAACxQcaUFo1YMk5gPoFvhGeT`

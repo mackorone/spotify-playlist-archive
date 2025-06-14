@@ -121,6 +121,28 @@
     },
     {
       "album": {
+        "name": "Mixes Of A Lost World",
+        "url": "https://open.spotify.com/album/2OlRb9ISy8xZku7ImTV9n8"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399140,
+      "name": "All I Ever Am - Mura Masa Remix",
+      "url": "https://open.spotify.com/track/36H5mG7pK0cGhldOuqDIk5"
+    },
+    {
+      "album": {
         "name": "Enema Of The State",
         "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
       },

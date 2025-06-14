@@ -394,7 +394,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 202826,
       "name": "Back to your Place",
       "url": "https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9"
@@ -3999,6 +3999,24 @@
     },
     {
       "album": {
+        "name": "It's Been Too Long (Since I've Loved Someone)",
+        "url": "https://open.spotify.com/album/08VCMe5xh0XERXQrtqFhnv"
+      },
+      "artists": [
+        {
+          "name": "Bird and Byron",
+          "url": "https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178081,
+      "name": "It's Been Too Long (Since I've Loved Someone)",
+      "url": "https://open.spotify.com/track/25Mf214vqBqOxgTgXevqZp"
+    },
+    {
+      "album": {
         "name": "It's Gonna Be Alright",
         "url": "https://open.spotify.com/album/5A9rqHvuJE8xJlWgzmWTHP"
       },
@@ -7048,7 +7066,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 312653,
       "name": "See Me Cry",
       "url": "https://open.spotify.com/track/5XGbzLYiMX7Fo9IhZKWZVZ"
@@ -7168,6 +7186,24 @@
       "duration_ms": 178440,
       "name": "Sharpen Your Shovel",
       "url": "https://open.spotify.com/track/0PI0V4qRgLpWG5IBASbpdk"
+    },
+    {
+      "album": {
+        "name": "Shine Delight",
+        "url": "https://open.spotify.com/album/7wkzxGmvYjTwe1IVNSwU4X"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218271,
+      "name": "Shine Delight",
+      "url": "https://open.spotify.com/track/50WXXxu0bmhZiZFnLjMVy6"
     },
     {
       "album": {

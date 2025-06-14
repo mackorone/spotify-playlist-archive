@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtTK5Bo0anL.md) - [plain]
 
 > <a href="spotify:artist:144HzhpLjcR9k37w5Ico9B">Deborah De Luca</a>'s favorite tracks\. Updated regularly\. Curated by Deborah De Luca\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,372 likes - 55 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,389 likes - 55 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtTK5Bo0anL.md) - [plain]
 | 54 | [What I Can't Get](https://open.spotify.com/track/7qZn6L03Br1pwag6Jj4NMV) | [Kaori](https://open.spotify.com/artist/5ALdinS18piQUMxF2M3d63) | [What I Can't Get](https://open.spotify.com/album/17bM89QgFVBme1HjISYUtr) | 7:04 |
 | 55 | [Doesn't Matter \- Superstrobe Remix](https://open.spotify.com/track/21wa2RNbfqJxy6zNzvGIAE) | [F\-Rontal](https://open.spotify.com/artist/7xcEuNcEPzlYUuAKyqfJMS), [Superstrobe](https://open.spotify.com/artist/7rbWK7Usi7mOfrigaWHD6d) | [Doesn't Matter](https://open.spotify.com/album/0JFGHdiqichONYBqSkbrAv) | 5:45 |
 
-Snapshot ID: `Z23uRQAAAACjeZA4fnbvCoFJlobfORNI`
+Snapshot ID: `Z23uRQAAAABN5YPC4ejXxAOf0L6TtPss`

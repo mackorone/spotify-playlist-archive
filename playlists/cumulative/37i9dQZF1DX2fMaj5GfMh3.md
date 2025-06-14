@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: Zara Larsson
 
-1,003 songs - 2 day 3 hr 1 min
+1,004 songs - 2 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -883,6 +883,7 @@
 | [That's What You Get](https://open.spotify.com/track/6NOF67FYntYIfPvQmSwicE) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [If You're Looking For A Reason To Key Your Ex's Car](https://open.spotify.com/album/4EpdkyMD0kkJEuqr8leDOc) | 3:07 | 2025-04-17 |  |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-10-22 | 2025-01-10 |
 | [The Alibi](https://open.spotify.com/track/4JyS3WGxalmpzgEbVyTycL) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [The Alibi](https://open.spotify.com/album/3P6qBjL0wCjcMsKWAAvQ3x) | 3:15 | 2024-02-08 | 2024-04-05 |
+| [The Better Paul](https://open.spotify.com/track/7HI3S7b9VDAfTpRO0PzTEV) | [Paul Morris](https://open.spotify.com/artist/59A8nPXaYDmbLzaFQxug8F) | [The Better Paul](https://open.spotify.com/album/4LKpcZLt9macBsXIIpqYj1) | 2:38 | 2025-06-13 |  |
 | [the devil's advocate](https://open.spotify.com/track/6EQxQwc56xRBxjQQMHPFkn) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [the devil's advocate](https://open.spotify.com/album/3AQLKzmHD6t3R4MTE90E4P) | 2:59 | 2025-02-27 | 2025-05-09 |
 | [The Fall](https://open.spotify.com/track/0v5ONlukgdvGPYs9k6oRg4) | [TEUN](https://open.spotify.com/artist/2HYKtKJ5ZbUaz3BoDpRSYv) | [The Fall](https://open.spotify.com/album/3FXPxeOBN8uVH4t7S0wyqq) | 3:32 | 2024-10-24 | 2025-01-17 |
 | [The Feeling of Letting Go](https://open.spotify.com/track/3HG9CPmjjXtuOgq2xY8i2w) | [Moxy The Band](https://open.spotify.com/artist/3dBOwPj9GaClkPMJXIruFP) | [The Feeling of Letting Go](https://open.spotify.com/album/3E878reFrILfVxZifIlTwr) | 3:45 | 2023-02-24 | 2023-03-18 |

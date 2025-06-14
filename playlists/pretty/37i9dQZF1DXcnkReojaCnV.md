@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 
 > <a href="spotify:artist:1aTDTChWWyiJH3SEnYrdVp">Taj Mahal</a> and <a href="spotify:artist:6iDaoPZVgxrTkndDCisX8F">Keb' Mo'</a> are taking over to share their blues favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,415 likes - 29 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,463 likes - 29 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 | 28 | [You Can't Get That Stuff No More](https://open.spotify.com/track/15co8gy9duJ3D0bRgVqddi) | [Tampa Red](https://open.spotify.com/artist/0XFbUk3QnKwp0vl9sIQtIg) | [Presenting Tampa Red](https://open.spotify.com/album/0rkgubKMe8PInoXKK5NWcU) | 2:52 |
 | 29 | [Statesboro Blues](https://open.spotify.com/track/05Fqtv0hpBriJj803R6x8i) | [Blind Willie McTell](https://open.spotify.com/artist/3l4HdjB4azgGjltvL9ov5Y) | [Blind Willie McTell \-Statesboro Blues \- The Early Years 1927\-1935](https://open.spotify.com/album/1Q2F3ap707VLHoqmMq3DGp) | 2:32 |
 
-Snapshot ID: `aDB1UAAAAACQF5OAAdlP1MCGGsTJ1t/l`
+Snapshot ID: `aDB1UAAAAAD1RVjRa0Uq4z2+dr7PmKHy`

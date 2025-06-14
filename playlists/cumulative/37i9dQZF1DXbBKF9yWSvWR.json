@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "An Hour Per Day",
+        "url": "https://open.spotify.com/album/32QlWfeGQTrlE5JFR3Teav"
+      },
+      "artists": [
+        {
+          "name": "Robin Kester",
+          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217646,
+      "name": "An Hour Per Day",
+      "url": "https://open.spotify.com/track/7rBwAUy2w1CPrrIan7r2Rd"
+    },
+    {
+      "album": {
         "name": "Animaru",
         "url": "https://open.spotify.com/album/6giorr9WTWilWHmD0Ox4ow"
       },
@@ -748,7 +766,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 214800,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ"
@@ -3256,7 +3274,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 177188,
       "name": "Hopin'",
       "url": "https://open.spotify.com/track/5TseGZ14KbHMJ4qLSgOPPx"
@@ -4274,7 +4292,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 137600,
       "name": "Livin' A Lie",
       "url": "https://open.spotify.com/track/3LQ6SMJFHl6iVldWFqnPKf"
@@ -7135,6 +7153,24 @@
     },
     {
       "album": {
+        "name": "Sweet Treat",
+        "url": "https://open.spotify.com/album/56KS9MFQv0sfNeg6s9y0ji"
+      },
+      "artists": [
+        {
+          "name": "Cherry Blur",
+          "url": "https://open.spotify.com/artist/4cImWiKGMbzPtr74hjdHcW"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208875,
+      "name": "Sweet Treat",
+      "url": "https://open.spotify.com/track/5aI2ombbMUUrkEsmOn3rMc"
+    },
+    {
+      "album": {
         "name": "Swimming",
         "url": "https://open.spotify.com/album/2AmsdFE6K0JljNeAB2EqrD"
       },
@@ -7500,6 +7536,24 @@
       "duration_ms": 168520,
       "name": "The Barber",
       "url": "https://open.spotify.com/track/7FGCJOLUjZalIyBp33vMks"
+    },
+    {
+      "album": {
+        "name": "Memoir of a Sparklemuffin (Deluxe)",
+        "url": "https://open.spotify.com/album/0GE0uLMG3dAOrvPGcJtvKz"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208008,
+      "name": "The Bellboy (One Last Crush)",
+      "url": "https://open.spotify.com/track/3zP0fq3Hv4DyEaLGBpQuln"
     },
     {
       "album": {
@@ -8332,7 +8386,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 136800,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/78JKRllxZnh1UmEZHk9qDp"

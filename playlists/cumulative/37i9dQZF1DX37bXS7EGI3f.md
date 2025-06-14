@@ -4,7 +4,7 @@
 
 > Symphonic and power metal at its most epic\. Cover: Sabaton
 
-650 songs - 2 day 1 hr 33 min
+651 songs - 2 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [Harrison Fjord](https://open.spotify.com/track/3aRe8uVqmzHwl8HPjCCPZ0) | [Haunted Shores](https://open.spotify.com/artist/6Zebs0nwJt4EUs36wgFisx) | [Viscera](https://open.spotify.com/album/59Fq8dLUNKKcXOjCiiqn8O) | 5:11 | 2022-07-13 | 2022-07-30 |
 | [Harrison Fjord](https://open.spotify.com/track/4RbdMjzGnjCnm0WiM2s85c) | [Haunted Shores](https://open.spotify.com/artist/6Zebs0nwJt4EUs36wgFisx) | [Viscera](https://open.spotify.com/album/42PSnrdzgGTCJcHOgyrInX) | 5:11 | 2022-07-13 | 2022-07-29 |
 | [Hazard](https://open.spotify.com/track/10KlXJAkq44AjU3Tj8LKwl) | [Long Distance Calling](https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6) | [Hazard](https://open.spotify.com/album/4iCjBIOD626agMphqSZo0q) | 6:08 | 2022-07-13 | 2022-07-29 |
-| [Hear My Voice](https://open.spotify.com/track/6A9dQfqxtX9R4eBQ2DODW5) | [Alterium](https://open.spotify.com/artist/5oh1CpxnZIlp8WvW9769nV) | [Hear My Voice](https://open.spotify.com/album/4Npj8uxMIwwdrIUe5k91qV) | 3:18 | 2024-06-24 |  |
+| [Hear My Voice](https://open.spotify.com/track/6A9dQfqxtX9R4eBQ2DODW5) | [Alterium](https://open.spotify.com/artist/5oh1CpxnZIlp8WvW9769nV) | [Hear My Voice](https://open.spotify.com/album/4Npj8uxMIwwdrIUe5k91qV) | 3:18 | 2024-06-24 | 2025-06-14 |
 | [Heart of Steel](https://open.spotify.com/track/3MyANWSUWkYyEUqMSZl3jO) | [Nekonomicon](https://open.spotify.com/artist/0LRsDKh8RR88ZyqNDw52hB), [Craig Cairns](https://open.spotify.com/artist/6iMoj5iPi4sUkBspHLJ4wK) | [Heart of Steel](https://open.spotify.com/album/4pVcx7JLwNVQL6TstlF4W8) | 4:52 | 2021-09-04 | 2022-04-29 |
 | [Heart of the Android](https://open.spotify.com/track/5b6x7e0p8HqA4CZ4eQEoiE) | [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [Heart of the Android](https://open.spotify.com/album/6wDrfnlSydT3ZPcBjClH0l) | 4:31 | 2020-12-04 | 2021-02-19 |
 | [Heavy Feather \- Instrumental](https://open.spotify.com/track/76x5nwldCeYU31phA3LkUB) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Epicenter \(Instrumental\)](https://open.spotify.com/album/0TJAjBZ7U52aZvfeyPMl4W) | 4:31 | 2022-07-13 | 2022-07-15 |
@@ -575,6 +575,7 @@
 | [The Widow Maker \- feat\. Gunship](https://open.spotify.com/track/2wEefjLWT91c7AyTuiStmi) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP), [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [The Widow Maker](https://open.spotify.com/album/2ivXd8Ca3ECnX7ILZoNpbP) | 3:55 | 2022-03-18 | 2025-05-31 |
 | [Then To Hell With You](https://open.spotify.com/track/1rrh2Aqj7390GGeGIcDuel) | [Liquorworks](https://open.spotify.com/artist/5N0HHSj9VyFK76Q22rU3FJ) | [Psycho Soundwaves](https://open.spotify.com/album/264qJqO8tNxzqU473ghu6O) | 7:22 | 2022-07-13 | 2022-07-30 |
 | [This God is Dead](https://open.spotify.com/track/458kbmGS0DVDs1OMb7V0WC) | [Seven Spires](https://open.spotify.com/artist/2lP1T5oI2BjkLq9axMhG2o), [Roy Khan](https://open.spotify.com/artist/4hEwWtHVjJSCHpsimklGoe) | [This God is Dead](https://open.spotify.com/album/3X9qoDSRongWIaNG8pN60y) | 10:37 | 2021-06-04 | 2021-08-14 |
+| [This Is Tokyo](https://open.spotify.com/track/6H2ljCuDqwNPiRKPqUVSme) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [This Is Tokyo](https://open.spotify.com/album/3hnMTZ7aOt3i3sLIZCON1T) | 4:13 | 2025-06-13 |  |
 | [Three Kings](https://open.spotify.com/track/0d40sFweIfsIqQSeIzLvHH) | [Genus Ordinis Dei](https://open.spotify.com/artist/4PorUDN5C5JRpJtinoVyTD) | [Three Kings](https://open.spotify.com/album/6jKXhTly2KwOXwO7ojA8oM) | 4:36 | 2024-06-24 | 2024-07-10 |
 | [Time Machine \(feat\. Kai Hansen & Piet Sielck\)](https://open.spotify.com/track/14hdSZI7inU3zrfhRutzDA) | [Heavenly](https://open.spotify.com/artist/7j3etSXgd9ZLYIUW7KWnpd), [Kai Hansen](https://open.spotify.com/artist/1jpvVuIxURdWfijigYFTch), [Piet Sielck](https://open.spotify.com/artist/1JCBpIh7DHq66ljTJ9E2uu) | [Coming from the Sky](https://open.spotify.com/album/6tjLmagYorlDipMtYT1bay) | 7:06 | 2023-05-19 | 2024-02-24 |
 | [Time Machine \(feat\. Kai Hansen & Piet Sielck\)](https://open.spotify.com/track/2XxNP9FEnrytdaIElFsWoY) | [Heavenly](https://open.spotify.com/artist/7j3etSXgd9ZLYIUW7KWnpd), [Kai Hansen](https://open.spotify.com/artist/1jpvVuIxURdWfijigYFTch), [Piet Sielck](https://open.spotify.com/artist/1JCBpIh7DHq66ljTJ9E2uu) | [Coming from the Sky](https://open.spotify.com/album/4h1Gmx1wfgbqHZBOjP8kQc) | 7:06 | 2021-12-11 | 2023-11-05 |

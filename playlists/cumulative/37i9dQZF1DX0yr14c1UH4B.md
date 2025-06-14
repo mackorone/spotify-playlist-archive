@@ -4,7 +4,7 @@
 
 > Songwriters and storytellers\. Cover: Henry Moodie
 
-377 songs - 21 hr 8 min
+378 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,8 +102,8 @@
 | [Feeling It All](https://open.spotify.com/track/3lMVLVBnxl7EifZcFBEzyC) | [Nadia Kadek](https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw) | [Feeling It All](https://open.spotify.com/album/0AfG7zqUpJSJV1VjvZqO28) | 3:20 | 2025-05-29 |  |
 | [Feels Like](https://open.spotify.com/track/7DFBpytUpFRUhvfmAvRRdZ) | [Finn Forster](https://open.spotify.com/artist/5wNzkW6AOF8pl4tCuPdVZh) | [Feels Like](https://open.spotify.com/album/4h2PklVAsQrELRvacCoeag) | 2:56 | 2025-03-07 | 2025-04-04 |
 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-07-26 | 2024-09-21 |
-| [Fight Another Day](https://open.spotify.com/track/6l9q6QHzBIoB9MXfKoUdSB) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Fight Another Day](https://open.spotify.com/album/1yxHJXbOkOHEjYDbICbzte) | 3:37 | 2025-06-12 |  |
 | [Fight Another Day](https://open.spotify.com/track/5Yz5uJTvZtYcblSvTgzhBG) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Fight Another Day](https://open.spotify.com/album/3cMI3AA8VJ0kpooAY6v4ga) | 3:51 | 2025-05-29 |  |
+| [Fight Another Day \- Edit](https://open.spotify.com/track/6l9q6QHzBIoB9MXfKoUdSB) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Fight Another Day](https://open.spotify.com/album/1yxHJXbOkOHEjYDbICbzte) | 3:37 | 2025-06-12 |  |
 | [Filthy Rich](https://open.spotify.com/track/6InkM0NaTWi7PJ3utfUzlM) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Filthy Rich](https://open.spotify.com/album/4EZKTohECt4rz0GL4LShK2) | 2:52 | 2024-10-04 | 2025-03-21 |
 | [Fire](https://open.spotify.com/track/0iLEfYSsM1FZQRaqXdX0dq) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Joi](https://open.spotify.com/artist/0ulZIID59tvIwcfTkiYLy5) | [Fire](https://open.spotify.com/album/0cKY8LCsrsNJbfPmLzQtSm) | 3:43 | 2024-10-25 | 2025-02-28 |
 | [First Love](https://open.spotify.com/track/3NjRL5odT7eVY7zod4PROD) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [First Love](https://open.spotify.com/album/24Rm6uAR7zdpsgAlhjn7my) | 2:48 | 2025-03-14 | 2025-04-11 |
@@ -117,7 +117,7 @@
 | [Friday](https://open.spotify.com/track/5ZZgCoy0Bvg6HUA1PaWzcA) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Friday](https://open.spotify.com/album/6DGrI713EXcK6yTZkjIEQt) | 2:37 | 2024-05-31 | 2024-07-27 |
 | [Friend Like You](https://open.spotify.com/track/3dCj7QrhestztA4yop8xus) | [CHEAPE](https://open.spotify.com/artist/6XvZAMKpQEWPNmAV2DXkFC) | [Friend Like You](https://open.spotify.com/album/3y0ZZ1p8vzZPGL041sa6mr) | 3:11 | 2025-05-15 | 2025-05-30 |
 | [Future Emma](https://open.spotify.com/track/2v8pOMgEEvFjAFSJXBRwhQ) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Future Emma](https://open.spotify.com/album/6fCdybjQTL2stzYvev2hPk) | 4:19 | 2025-04-10 | 2025-05-03 |
-| [Gloria](https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Gloria](https://open.spotify.com/album/3JHsuuNJM52oePgcXvbdhw) | 3:36 | 2025-05-15 |  |
+| [Gloria](https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Gloria](https://open.spotify.com/album/3JHsuuNJM52oePgcXvbdhw) | 3:37 | 2025-05-15 |  |
 | [Go Where You're Wanted](https://open.spotify.com/track/31I91A2vqfBKo6z4YknN0F) | [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [Go Where You're Wanted](https://open.spotify.com/album/7pecq9XGFdE0map0YCD5Ne) | 2:54 | 2025-06-05 |  |
 | [God Knows](https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [God Knows](https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i) | 2:50 | 2025-04-03 | 2025-04-25 |
 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-05 |  |
@@ -320,6 +320,7 @@
 | [Talk](https://open.spotify.com/track/2g3c43AWIKXT8hFHV9UlF6) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Talk](https://open.spotify.com/album/6kX0IaoVlOu3my3g9Zzi36) | 3:17 | 2025-03-14 | 2025-03-28 |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:53 | 2024-05-31 | 2025-02-28 |
 | [That's What You Get](https://open.spotify.com/track/6NOF67FYntYIfPvQmSwicE) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [If You're Looking For A Reason To Key Your Ex's Car](https://open.spotify.com/album/4EpdkyMD0kkJEuqr8leDOc) | 3:07 | 2025-04-10 | 2025-05-03 |
+| [The Bellboy \(One Last Crush\)](https://open.spotify.com/track/3zP0fq3Hv4DyEaLGBpQuln) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin \(Deluxe\)](https://open.spotify.com/album/0GE0uLMG3dAOrvPGcJtvKz) | 3:28 | 2025-06-12 |  |
 | [The Deep Blue Okay](https://open.spotify.com/track/5hojXeDbIX1Q3USfoqyQ2Y) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [A Complicated Woman](https://open.spotify.com/album/3dJJU7f7Ab81xAmUvCT0o9) | 5:32 | 2025-04-24 |  |
 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 | 2024-05-31 | 2024-09-14 |
 | [The Feeling You Get](https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ask That God](https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m) | 4:16 | 2024-07-26 | 2024-10-26 |

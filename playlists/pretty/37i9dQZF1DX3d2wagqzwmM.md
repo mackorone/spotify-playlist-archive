@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,909 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,059 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 24 | [Beethoven's Aria Für Elise](https://open.spotify.com/track/3auOQTnNNJZaKJl2nlDtGv) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Beethoven's Aria Für Elise](https://open.spotify.com/album/60arWJQ36tblu7ootxVhAJ) | 2:29 |
 | 25 | [Candy](https://open.spotify.com/track/1aPzuS8Aw7XJbQG2hT2X3J) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE) | [Candy](https://open.spotify.com/album/4GiMsN7yVRvaKAjbe0hlU2) | 2:04 |
 | 26 | [Sound of You](https://open.spotify.com/track/4nOwB6BoAJ5YRyxKBu30fD) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [Sound of You](https://open.spotify.com/album/5LGCpxJBGfy6j8bFdZ5WRX) | 3:09 |
-| 27 | [We Own The Night \(feat\. Chandan Shetty\) \[RCB Anthem\]](https://open.spotify.com/track/2XdU173I0vnlcgT8LAEBy7) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk) | [We Own The Night \(feat\. Chandan Shetty\) \[RCB Anthem\]](https://open.spotify.com/album/5QAqZusJWVUs4EVadWu1Oc) | 2:25 |
+| 27 | [We Own The Night \(feat\. Chandan Shetty\)](https://open.spotify.com/track/2XdU173I0vnlcgT8LAEBy7) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk) | [We Own The Night \(feat\. Chandan Shetty\)](https://open.spotify.com/album/5QAqZusJWVUs4EVadWu1Oc) | 2:25 |
 | 28 | [Come On Baddie Let's Go Party](https://open.spotify.com/track/5xC5CWiHAlUyVmkVfhMhQ5) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [Come On Baddie Let's Go Party](https://open.spotify.com/album/7dKJsT8XflsEX5hlz32hU2) | 2:33 |
 | 29 | [Wake The F Up](https://open.spotify.com/track/36eWeCqpNGHTiZfTSbScIY) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Wake The F Up](https://open.spotify.com/album/3qCJzQQ7aRlZrpwwrdZVIj) | 2:20 |
 | 30 | [Sound of the Underground](https://open.spotify.com/track/6izkirLr49VxNFpHJvi37a) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Sound of the Underground](https://open.spotify.com/album/6BPNER5Jea0HNq4tqqGWXt) | 3:06 |

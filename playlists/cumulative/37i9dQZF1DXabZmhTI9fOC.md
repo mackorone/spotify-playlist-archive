@@ -4,7 +4,7 @@
 
 > Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2406spotifypkerndwbjny446&utm\_campaign=2406spotify&utm\_source=sptfy\_na&utm\_medium=ernd\_wbjny\_acq\_deslnk&utm\_term=spotifyusers&utm\_content=nooffer&voucher\[\]=XXXXXXXXXXXXXX">Peacock</a>.
 
-798 songs - 1 day 19 hr 15 min
+799 songs - 1 day 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Dancing My Way](https://open.spotify.com/track/2t8bKoVLWfyPVAybGJqc8u) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ) | [Black Is Golden](https://open.spotify.com/album/6jjBFckHG6PiKlHNGjvNQK) | 3:04 | 2022-08-12 | 2025-06-12 |
 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 | 2024-06-28 | 2025-06-03 |
 | [Dancing With The Devil](https://open.spotify.com/track/0XqQxKtAdYbOC8OVIjWLZD) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over](https://open.spotify.com/album/7LEb5SYZrXiB8NDj2oYvOd) | 4:03 | 2024-07-09 | 2025-06-12 |
+| [Dangerous](https://open.spotify.com/track/7Bs9onITp3O0nDdvqNzAGs) | [Laney Lynx](https://open.spotify.com/artist/3ZH4Uq7nAfSPPrugE53oMW) | [Dangerous](https://open.spotify.com/album/3h2FDrUrR8vnvodZJytGOT) | 3:01 | 2025-06-13 |  |
 | [Dangerous \(feat\. Joywave\) \- Oliver Remix](https://open.spotify.com/track/3PVukkbEGmJGoyJG2lfBPP) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m), [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K) | [1.6 \(feat\. Joywave\)](https://open.spotify.com/album/4Sl5PqIX7DpX39AiCNnYQh) | 4:37 | 2022-07-29 | 2023-01-13 |
 | [Dangerous \- Oliver Remix](https://open.spotify.com/track/2BWtYgxamGttE2d0xRVAIC) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m), [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K) | [1.6](https://open.spotify.com/album/6hO9Rx1gtqgPPWMQdkjaZV) | 4:37 | 2022-07-29 | 2023-07-19 |
 | [Dangerous Games](https://open.spotify.com/track/08mCkFieXfv6ZKnIW67CeE) | [FJØRA](https://open.spotify.com/artist/0NnlfSS9TzEUlffzx7KwBk) | [Onyx](https://open.spotify.com/album/1NrcFzSPgDWP2DuOzSYa5Y) | 2:49 | 2024-07-16 | 2025-06-12 |

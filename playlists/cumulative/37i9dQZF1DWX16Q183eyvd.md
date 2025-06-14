@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-175 songs - 8 hr 1 min
+176 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Chicken Noodle Soup](https://open.spotify.com/track/749wOMJv0SwOcBcvVUwPdv) | [Kids Rap'n The Hits](https://open.spotify.com/artist/2BrDz1Swv1kqola1AYzjGI) | [Kids Rap'n The Hits Vol\. 3](https://open.spotify.com/album/64WmCTDYlflVG7D1HOpSWx) | 3:02 | 2021-11-19 | 2023-04-09 |
 | [Clap Your Hands](https://open.spotify.com/track/17rsWinx1UqahD9ntGdkyA) | [The Magic Jones](https://open.spotify.com/artist/68k1fAn7fhJnsujFNEscyA) | [Adventures Of The Music Box](https://open.spotify.com/album/1GwhMxPANknpYACqJCQU6C) | 2:19 | 2024-01-30 |  |
 | [Clap Your Hands Everybody \- Groove Remix](https://open.spotify.com/track/0SZ47HNnI88FHhOGzVUC5s) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn) | [Nick Jr\. Mix It Up! Vol\. 13: Move To The Groove \(The Remixes\)](https://open.spotify.com/album/2s7pcrZt1MjlDJTvPaFmNW) | 2:19 | 2024-07-26 |  |
-| [Clean Hands](https://open.spotify.com/track/1ZuvOiuq9oVin3wwd4GhR2) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Let's Learn](https://open.spotify.com/album/6QQ6JXOnrIfLWdbCVkO1Mk) | 2:09 | 2025-04-18 |  |
+| [Clean Hands](https://open.spotify.com/track/1ZuvOiuq9oVin3wwd4GhR2) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Let's Learn](https://open.spotify.com/album/6QQ6JXOnrIfLWdbCVkO1Mk) | 2:09 | 2025-04-18 | 2025-06-14 |
 | [CONFIDENT](https://open.spotify.com/track/4Q2ellywUb76X5n08rn8TE) | [Zindzi & The Zillionaires](https://open.spotify.com/artist/3riGtCwTMATcx6oiLkIdxB) | [CONFIDENT](https://open.spotify.com/album/45pqzyFPMnLw0KN9Qe2Ous) | 1:52 | 2023-10-10 | 2024-01-31 |
 | [Contradict \- Hip Hop Remix](https://open.spotify.com/track/0EgmP7D9aaMjUbzc7fHHli) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn), [Darryl "DMC" McDaniels](https://open.spotify.com/artist/6a8v4haj3oDEJiDMVrAJAn) | [Nick Jr\. Mix It Up! Vol\. 10: Hip Hop Playground \(The Remixes\)](https://open.spotify.com/album/1o8i8X0PNEAXU3PkGKWTKx) | 2:03 | 2024-04-26 | 2024-07-27 |
 | [Cookie Jar](https://open.spotify.com/track/01rRqiFCeG17apx187OJjo) | [Jools TV](https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN) | [Cookie Jar](https://open.spotify.com/album/65HIKw74shHz5R6zAQqqIL) | 2:52 | 2024-02-23 |  |
@@ -99,6 +99,7 @@
 | [Just Be Brave](https://open.spotify.com/track/77qcquRxiKXVyZGA2ev6gu) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Just Be Brave](https://open.spotify.com/album/3kg2E3Mgy7n3TjuVnvF0Kx) | 2:34 | 2024-01-30 | 2024-06-01 |
 | [Just When You Think \- Kidz Version](https://open.spotify.com/track/1KDmjtkUAtTKomtKnGEp9j) | [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI), [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04), [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Ready Set Go!](https://open.spotify.com/album/4jOCINfRZTbcSiblJcrqyu) | 2:16 | 2021-11-19 | 2024-01-31 |
 | [Kids That Rock](https://open.spotify.com/track/3MZmpfcmRK73emDMcqNpbe) | [Kids Rap Radio](https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x) | [Kids Rap Radio, Vol\. 7](https://open.spotify.com/album/33KsrRSRtZkSaemIaFC6U6) | 3:30 | 2021-11-19 | 2024-01-31 |
+| [Koala](https://open.spotify.com/track/4ePcUtcqfml4OjjA9zHJZS) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Koala](https://open.spotify.com/album/3tYTzaB6iZN4SsxQAhKnRF) | 2:15 | 2025-06-13 |  |
 | [Kool Kids](https://open.spotify.com/track/2b9sTGqIWVTFVu7AUMQn7h) | [Kids Rap Radio](https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x) | [Kids Rap Radio, Vol\. 4 \(Kids on Da Track\)](https://open.spotify.com/album/1LbNXfKTY8F2FpfdUXw60g) | 2:09 | 2021-11-19 | 2024-01-26 |
 | [Learn Your State Capitols](https://open.spotify.com/track/5GBH7uQ6hX7umS4Bl9RZ8J) | [Kids Rap Radio](https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x) | [Kids Rap Radio, Vol\. 7](https://open.spotify.com/album/33KsrRSRtZkSaemIaFC6U6) | 4:38 | 2021-11-19 | 2023-04-09 |
 | [LOL LAUGH OUT LOUD](https://open.spotify.com/track/1qhtoRTnYx6icGiwcKiT4j) | [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI), [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Carrie Clark](https://open.spotify.com/artist/3J1fapB3gyP3uAmKuqavh8) | [LOL LAUGH OUT LOUD](https://open.spotify.com/album/4glq20l2Wimpfi4Ac3KHXL) | 2:25 | 2024-01-30 | 2024-06-22 |

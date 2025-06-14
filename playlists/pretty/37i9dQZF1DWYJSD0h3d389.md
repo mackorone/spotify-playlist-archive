@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYJSD0h3d389.md) - [plain]
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6?si=ebf55f99cddb44b9">St\. Vincent's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=b348e88a39a74578">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,588 likes - 29 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,609 likes - 29 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYJSD0h3d389.md) - [plain]
 | 28 | [Percolator](https://open.spotify.com/track/2jb4UXfvv5wtPGvNcG5o6L) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Emperor Tomato Ketchup \(Expanded Edition\)](https://open.spotify.com/album/2AJqzRQltkneduxKsqmgYJ) | 4:14 |
 | 29 | [Broken Man](https://open.spotify.com/track/7ClwnN5j16cc6i5MqWFgHK) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Broken Man](https://open.spotify.com/album/1iuhWWfLoy82yR2AgJyQry) | 3:21 |
 
-Snapshot ID: `ZjRhQAAAAACkupiAHhlTr+TrS2aUbb5C`
+Snapshot ID: `ZjRhQAAAAAAMqEx94sO+BFVPuEYhpmYf`

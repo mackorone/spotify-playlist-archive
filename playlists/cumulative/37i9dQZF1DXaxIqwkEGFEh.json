@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 154066,
       "name": "Ace Trumpets",
       "url": "https://open.spotify.com/track/6gurRCQTLcBNkakApASMdi"
@@ -6924,7 +6924,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 152112,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/0OUJusExWi6PM06g3cpwbV"
@@ -9854,7 +9854,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 125217,
       "name": "F.M.C",
       "url": "https://open.spotify.com/track/4fXhuXCugkZHJik91VsjJi"
@@ -11334,6 +11334,24 @@
       "duration_ms": 118230,
       "name": "FTO Crazy",
       "url": "https://open.spotify.com/track/0l8UCTwD27stsBhnxEHZHT"
+    },
+    {
+      "album": {
+        "name": "FTW",
+        "url": "https://open.spotify.com/album/1Hcsfo7fXngzO2OnTO4cbO"
+      },
+      "artists": [
+        {
+          "name": "YFG FATSO",
+          "url": "https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257706,
+      "name": "FTW",
+      "url": "https://open.spotify.com/track/7vjwwgE9JPutUwYQh0v5S6"
     },
     {
       "album": {
@@ -12911,6 +12929,24 @@
     },
     {
       "album": {
+        "name": "Goodbyerz",
+        "url": "https://open.spotify.com/album/2UKRnonUsJUg6BTFzVHyGl"
+      },
+      "artists": [
+        {
+          "name": "Raq baby",
+          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148645,
+      "name": "Goodbyerz",
+      "url": "https://open.spotify.com/track/5zAe5imvLmuNBhumRTK5PT"
+    },
+    {
+      "album": {
         "name": "Google Maps",
         "url": "https://open.spotify.com/album/1DmSyJlANj7mzbwjpJhK3Y"
       },
@@ -14226,7 +14262,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 175378,
       "name": "Hit (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/0tIaLYi74Aw4ayWMW97rhS"
@@ -14434,6 +14470,28 @@
       "duration_ms": 163291,
       "name": "HOMICIDE",
       "url": "https://open.spotify.com/track/47xzsCqltvufOz3Z3iGbQh"
+    },
+    {
+      "album": {
+        "name": "Hood Cry",
+        "url": "https://open.spotify.com/album/7nA9R4BnhumlEE68gO461G"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205483,
+      "name": "Hood Cry",
+      "url": "https://open.spotify.com/track/04hszpzZPMijTmaknHOyL4"
     },
     {
       "album": {
@@ -16468,7 +16526,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 129060,
       "name": "I\u2019m Him",
       "url": "https://open.spotify.com/track/7rl19AU11goQPV6bOD14Lt"
@@ -24291,6 +24349,28 @@
     },
     {
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139903,
+      "name": "PABLO FINAL GOTTI version (feat. Yo Gotti)",
+      "url": "https://open.spotify.com/track/1FD9lN6jrnQ5Rp8yuft8fU"
+    },
+    {
+      "album": {
         "name": "Let Me Fly",
         "url": "https://open.spotify.com/album/5bPJWz3z4NWjOaRYBRZBED"
       },
@@ -25290,7 +25370,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 128571,
       "name": "Plug Motivation",
       "url": "https://open.spotify.com/track/2JyZgWvvjshiSiK21gOBvT"
@@ -28963,6 +29043,28 @@
     },
     {
       "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/1xZkfphab61c5kqctCexP7"
+      },
+      "artists": [
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/3VgFxRLEvav1ewTx5IaROh"
+    },
+    {
+      "album": {
         "name": "Never Broke Again Presents: Green Flag Activity",
         "url": "https://open.spotify.com/album/6p45iXHeIoALPPd3UPrdJO"
       },
@@ -31008,7 +31110,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 108832,
       "name": "Stash-house in Dearborn",
       "url": "https://open.spotify.com/track/666q7QhLYIjiTziKEA0CaN"
@@ -33653,6 +33755,24 @@
     },
     {
       "album": {
+        "name": "Time To Heal",
+        "url": "https://open.spotify.com/album/36Uk0uuYY6SAGc6i3QqWdO"
+      },
+      "artists": [
+        {
+          "name": "Kocky Ka",
+          "url": "https://open.spotify.com/artist/3XQ18LnZPy6tiOElsC93dU"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149374,
+      "name": "Time To Heal",
+      "url": "https://open.spotify.com/track/65zPESBI4Z3CoIKrrtrWly"
+    },
+    {
+      "album": {
         "name": "HEATHENISM",
         "url": "https://open.spotify.com/album/10OuYNhsZyIip13lZe6dzG"
       },
@@ -36288,7 +36408,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 134759,
       "name": "Weighed It",
       "url": "https://open.spotify.com/track/47WReKBHKORDjsbglomYRj"
@@ -36422,6 +36542,24 @@
       "duration_ms": 210468,
       "name": "What Happened (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/6aIwv3sqrvXlW49dUhzN5Z"
+    },
+    {
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223428,
+      "name": "What Im On Now v1 oct15",
+      "url": "https://open.spotify.com/track/0wAiy4PRzYJiytL3kYrzhG"
     },
     {
       "album": {
@@ -36930,6 +37068,24 @@
       "duration_ms": 151428,
       "name": "WHO WANT WAR",
       "url": "https://open.spotify.com/track/5GfmtcJTOKYXHiINoJpwtm"
+    },
+    {
+      "album": {
+        "name": "Time Will Tell",
+        "url": "https://open.spotify.com/album/0eRnPgxYIFjAAmf163fGPe"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199709,
+      "name": "Whole 100",
+      "url": "https://open.spotify.com/track/37VoWZZL66Y7Q47Df963BD"
     },
     {
       "album": {

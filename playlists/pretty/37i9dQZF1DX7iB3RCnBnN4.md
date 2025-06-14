@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > All the songs with more than 1 Billion streams on Spotify\. Cover: Demi Lovato
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,491 likes - 965 songs - 2 day 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,962 likes - 965 songs - 2 day 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

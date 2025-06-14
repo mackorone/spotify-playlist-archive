@@ -113013,6 +113013,24 @@
     },
     {
       "album": {
+        "name": "My sunny oath!",
+        "url": "https://open.spotify.com/album/5e51HsMClL4Gz6hn4ItN4K"
+      },
+      "artists": [
+        {
+          "name": "Jahnah Camille",
+          "url": "https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151280,
+      "name": "rocket",
+      "url": "https://open.spotify.com/track/3BA0pgBBU4MzXwnOUFwIOB"
+    },
+    {
+      "album": {
         "name": "Rocket Science",
         "url": "https://open.spotify.com/album/6MWK0X2Bn7xIpKIt3YNYhc"
       },
@@ -120764,7 +120782,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 195680,
       "name": "sit with you (pain)",
       "url": "https://open.spotify.com/track/1QBeq423x9hTeJI6IGLPl4"

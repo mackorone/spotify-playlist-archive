@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > Celebrating 10 years of the best new hip\-hop music from new, independent artists\.  Cover: <a href="spotify:artist:6557ikOFsjiDmV7gjHYuiD">Bankroll Ni<br/></a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,981 likes - 100 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,043 likes - 100 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 99 | [Fine](https://open.spotify.com/track/7yk7hhiCxNEJgGzmZPGdrM) | [Big Yba](https://open.spotify.com/artist/1RI955NtytmC8WSVGGva9p), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Way 2 Playa](https://open.spotify.com/album/6HJWVTQRNVBrPlO7qugm2O) | 2:55 |
 | 100 | [it is what it is](https://open.spotify.com/track/1EkM7SToZWGLkJp572Y7Ab) | [Swapa](https://open.spotify.com/artist/37v7VwiEJ4ImKCmCrA2Z6a) | [it is what it is](https://open.spotify.com/album/6Q5w9pBeKPyXvOJavQpju0) | 2:23 |
 
-Snapshot ID: `AAAAAAnFFj7WA5/eHvXJgKOijSCVBqcv`
+Snapshot ID: `aEnYwQAAAADZHpup/GMoEK7LwYze/z1U`

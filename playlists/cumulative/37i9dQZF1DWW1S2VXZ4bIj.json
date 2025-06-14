@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Daou Pittaya",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Three Man Down",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -546,6 +546,28 @@
       "duration_ms": 181753,
       "name": "Boys Love Girls",
       "url": "https://open.spotify.com/track/4BDS6sNKdmTsxJdw6BwRE5"
+    },
+    {
+      "album": {
+        "name": "Bus Stop",
+        "url": "https://open.spotify.com/album/5wDfbJdF78dErFzMzFWnlJ"
+      },
+      "artists": [
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        },
+        {
+          "name": "Maiyarap",
+          "url": "https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283727,
+      "name": "Bus Stop",
+      "url": "https://open.spotify.com/track/70czjI8Z88yCw54iXfte1F"
     },
     {
       "album": {
@@ -1107,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "Hachik\u014d",
+        "url": "https://open.spotify.com/album/0qxIGHOXFdqiJEOqbUv5DR"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270497,
+      "name": "Hachik\u014d",
+      "url": "https://open.spotify.com/track/4WhHNXBgRglnkjy7TMzgdh"
+    },
+    {
+      "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
       },
@@ -1408,6 +1448,24 @@
       "duration_ms": 258206,
       "name": "Just For You",
       "url": "https://open.spotify.com/track/1rHCpL5fzMrHwhFA5rk6wO"
+    },
+    {
+      "album": {
+        "name": "GLOW",
+        "url": "https://open.spotify.com/album/5bN1rEaxjAkoIRRVk6R2iz"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130231,
+      "name": "Keep a Secret",
+      "url": "https://open.spotify.com/track/1ipDqVFgmVOAcboxe9Yiei"
     },
     {
       "album": {
@@ -2071,6 +2129,28 @@
     },
     {
       "album": {
+        "name": "Part Time",
+        "url": "https://open.spotify.com/album/271Ko0ejX2nmcpcfqyqUtb"
+      },
+      "artists": [
+        {
+          "name": "Cxpy",
+          "url": "https://open.spotify.com/artist/5I9ZPKvAY2tRPF8353PrZ1"
+        },
+        {
+          "name": "APE FREDDA",
+          "url": "https://open.spotify.com/artist/3441oNU7Ok92QFaOwvg5P8"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188950,
+      "name": "Part Time",
+      "url": "https://open.spotify.com/track/0dlZBJfbNGMfAKYV5SHskT"
+    },
+    {
+      "album": {
         "name": "MOON",
         "url": "https://open.spotify.com/album/7L1uvhFWWXCGi5szX5fAah"
       },
@@ -2722,7 +2802,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
@@ -2982,7 +3062,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 198320,
       "name": "twilight zone",
       "url": "https://open.spotify.com/track/1YRbAonLvmuUILvQso0gUM"
@@ -3884,7 +3964,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 257280,
       "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07...\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27",
       "url": "https://open.spotify.com/track/1IoICIb3DNqATl48Ud2NfX"
@@ -4716,7 +4796,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 245753,
       "name": "\u0e16\u0e49\u0e32\u0e27\u0e31\u0e19\u0e19\u0e31\u0e49\u0e19(IF I)",
       "url": "https://open.spotify.com/track/7naq7gYikvPN8RTsLhyUNM"
@@ -5230,6 +5310,24 @@
       "duration_ms": 200769,
       "name": "\u0e1c\u0e39\u0e01\u0e1e\u0e31\u0e19\u0e15\u0e49\u0e2d\u0e07\u0e25\u0e32",
       "url": "https://open.spotify.com/track/2HC3jRQilGWyFlvICAqCaP"
+    },
+    {
+      "album": {
+        "name": "\u0e1d\u0e31\u0e07\u0e23\u0e48\u0e32\u0e07\u0e02\u0e49\u0e32\u0e07\u0e46\u0e01\u0e31\u0e19",
+        "url": "https://open.spotify.com/album/7dx5MW8O3RAfPNMln79BYd"
+      },
+      "artists": [
+        {
+          "name": "\u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
+          "url": "https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313350,
+      "name": "\u0e1d\u0e31\u0e07\u0e23\u0e48\u0e32\u0e07\u0e02\u0e49\u0e32\u0e07\u0e46\u0e01\u0e31\u0e19",
+      "url": "https://open.spotify.com/track/2ozaRIqgJ3P0F0IDUeCGx2"
     },
     {
       "album": {
@@ -5940,7 +6038,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 177230,
       "name": "\u0e23\u0e31\u0e01\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Close Friend)",
       "url": "https://open.spotify.com/track/3wCdrlyRJ2zuBIZRbmDVZW"
@@ -6270,6 +6368,28 @@
       "duration_ms": 248048,
       "name": "\u0e2a\u0e32\u0e23\u0e34\u0e01\u0e32\u0e25\u0e34\u0e49\u0e19\u0e17\u0e2d\u0e07 (Smooth-talker)",
       "url": "https://open.spotify.com/track/4UyEA5UP6ducMaV9NiggTr"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e34\u0e48\u0e07\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e17\u0e34\u0e49\u0e07\u0e07\u0e48\u0e32\u0e22\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14",
+        "url": "https://open.spotify.com/album/7B2nBELFv0kCW3zUZcBKuA"
+      },
+      "artists": [
+        {
+          "name": "guncharlie",
+          "url": "https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG"
+        },
+        {
+          "name": "JAO YENTED",
+          "url": "https://open.spotify.com/artist/7lycdBzDpGzmlQ2glOwa4K"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206088,
+      "name": "\u0e2a\u0e34\u0e48\u0e07\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e17\u0e34\u0e49\u0e07\u0e07\u0e48\u0e32\u0e22\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14",
+      "url": "https://open.spotify.com/track/75Jyk0TvMndNJ3IMl4YRSe"
     },
     {
       "album": {
@@ -7228,7 +7348,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 226000,
       "name": "\u0e40\u0e21\u0e49\u0e19\u0e2b\u0e22\u0e2d\u0e01\u0e46 (Comment)",
       "url": "https://open.spotify.com/track/7soLL3HJ0wmOtIC6Sxse5a"

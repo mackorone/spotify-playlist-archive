@@ -204,7 +204,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 166881,
       "name": "a bygone age",
       "url": "https://open.spotify.com/track/5lWIm1T4TY7Q0IDAtevowB"
@@ -1345,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "big moon",
+        "url": "https://open.spotify.com/album/2tRQCvATPAbzjclkU3p5gj"
+      },
+      "artists": [
+        {
+          "name": "wuy-wuy",
+          "url": "https://open.spotify.com/artist/3qJVo0hjr6qiCkTI3LCA4h"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144125,
+      "name": "big moon",
+      "url": "https://open.spotify.com/track/43c4jZwIpQvSMfLzcn02Fc"
+    },
+    {
+      "album": {
         "name": "Blanket",
         "url": "https://open.spotify.com/album/7upEQocfRg69LCyh1DeIMs"
       },
@@ -2300,7 +2318,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 120000,
       "name": "Colours of Morning",
       "url": "https://open.spotify.com/track/0VCX4S2oVF0xTQ4RlIYZO9"
@@ -2442,7 +2460,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 136800,
       "name": "cosy home",
       "url": "https://open.spotify.com/track/6BdGSp6VwWh7Z6QzunfXQa"
@@ -4268,10 +4286,32 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 146000,
       "name": "ethereal",
       "url": "https://open.spotify.com/track/4fC9s3NtmRHeK1B3xJC45M"
+    },
+    {
+      "album": {
+        "name": "eucalyptus",
+        "url": "https://open.spotify.com/album/675dbKnHezghpqJzWA4cRc"
+      },
+      "artists": [
+        {
+          "name": "Kainbeats",
+          "url": "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
+        },
+        {
+          "name": "after noon",
+          "url": "https://open.spotify.com/artist/23ZyvK3IS7xXY1COP8KiRW"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139285,
+      "name": "eucalyptus",
+      "url": "https://open.spotify.com/track/0Yk04FB7jMAznhfuDf84eP"
     },
     {
       "album": {
@@ -4330,6 +4370,24 @@
       "duration_ms": 149610,
       "name": "Evening Glow",
       "url": "https://open.spotify.com/track/5YmgGYuvTRawhddL0tesXV"
+    },
+    {
+      "album": {
+        "name": "Eventually Asleep",
+        "url": "https://open.spotify.com/album/7x6trJSwc1lpQ1PJvaTDRc"
+      },
+      "artists": [
+        {
+          "name": "moonrivver",
+          "url": "https://open.spotify.com/artist/7yFa9rKIngFvDParfoi7en"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156486,
+      "name": "Eventually Asleep",
+      "url": "https://open.spotify.com/track/3DPtOroOy1CARcjkBCKQMB"
     },
     {
       "album": {
@@ -7104,7 +7162,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 150000,
       "name": "Large Space",
       "url": "https://open.spotify.com/track/25ZDOwJzvJzkWW1uDwec1Q"
@@ -8128,6 +8186,24 @@
       "duration_ms": 125714,
       "name": "lulling",
       "url": "https://open.spotify.com/track/3yY1F3ztumz6eZTVc7kuiz"
+    },
+    {
+      "album": {
+        "name": "Lumie",
+        "url": "https://open.spotify.com/album/0rXOxqnH86VbihPM9hAq7c"
+      },
+      "artists": [
+        {
+          "name": "idylla",
+          "url": "https://open.spotify.com/artist/3D7OiZlCToIsRybYCEDvIL"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148846,
+      "name": "Lumie",
+      "url": "https://open.spotify.com/track/5S6QvSxqCMnylZUBiqojp7"
     },
     {
       "album": {
@@ -10681,6 +10757,28 @@
     },
     {
       "album": {
+        "name": "petals",
+        "url": "https://open.spotify.com/album/5eFPaBMUn85RjLYsVUi8Ij"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        },
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121200,
+      "name": "petals",
+      "url": "https://open.spotify.com/track/7yPepUk5PPE3Yus1G3qsvV"
+    },
+    {
+      "album": {
         "name": "quiet moon",
         "url": "https://open.spotify.com/album/4U7UMoGjZ8dkl1eEZWowjF"
       },
@@ -11558,7 +11656,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 156398,
       "name": "sacred",
       "url": "https://open.spotify.com/track/7CsZbcZ5flFfyWC9qQkZAU"
@@ -12655,6 +12753,24 @@
     },
     {
       "album": {
+        "name": "Snooze",
+        "url": "https://open.spotify.com/album/4qoh0j8b3ZsulMspTrxnTT"
+      },
+      "artists": [
+        {
+          "name": "Slowheal",
+          "url": "https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136470,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/64DCoBbOIFWFdtDRmE9L2O"
+    },
+    {
+      "album": {
         "name": "So Delightful",
         "url": "https://open.spotify.com/album/6JN2nu4e3qHtUC7vK9Ouhi"
       },
@@ -12710,6 +12826,24 @@
       "duration_ms": 118027,
       "name": "Soft As Snow",
       "url": "https://open.spotify.com/track/0wqfY3YTz0VS0motqaCZZ0"
+    },
+    {
+      "album": {
+        "name": "Soft Eyes",
+        "url": "https://open.spotify.com/album/7nigZiiDfkmq57qAyWTRRG"
+      },
+      "artists": [
+        {
+          "name": "Corse Cane",
+          "url": "https://open.spotify.com/artist/1kAJeRSyH7gjg1HM2UW4oT"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133432,
+      "name": "Soft Eyes",
+      "url": "https://open.spotify.com/track/5XbfkVugx0XCh10boUolxn"
     },
     {
       "album": {
@@ -14425,6 +14559,28 @@
     },
     {
       "album": {
+        "name": "tonight",
+        "url": "https://open.spotify.com/album/131L5UJ3E5gXgfkAgBFJHX"
+      },
+      "artists": [
+        {
+          "name": "Laffey",
+          "url": "https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7"
+        },
+        {
+          "name": "Lenny Loops",
+          "url": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143110,
+      "name": "tonight",
+      "url": "https://open.spotify.com/track/4gVAH4ySy5mNMLAY5W88dl"
+    },
+    {
+      "album": {
         "name": "Tonight's The Night",
         "url": "https://open.spotify.com/album/6fFkOuRfjQmI3tre3dJPRV"
       },
@@ -15030,7 +15186,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 136666,
       "name": "vision",
       "url": "https://open.spotify.com/track/6lKuDS6wWeWfqtjzWAbsIh"
@@ -15048,7 +15204,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 134400,
       "name": "Voyage Through Time",
       "url": "https://open.spotify.com/track/0u1pc4iEw0EaLUnpaa9efY"

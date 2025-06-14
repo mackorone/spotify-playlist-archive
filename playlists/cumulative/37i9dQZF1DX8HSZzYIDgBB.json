@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Frente Cumbiero en portada.",
+  "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Buscabulla en portada.",
   "name": "tropic.alt",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 208351,
       "name": "11:11",
       "url": "https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq"
@@ -989,6 +989,32 @@
     },
     {
       "album": {
+        "name": "LINEAS MUSUQ",
+        "url": "https://open.spotify.com/album/0unpp4AsITGdB9tmFfcgXb"
+      },
+      "artists": [
+        {
+          "name": "A.CHAL",
+          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
+        },
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        },
+        {
+          "name": "Kayfex",
+          "url": "https://open.spotify.com/artist/1q5Pr05duW9ClrbnBlu4Jb"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196750,
+      "name": "CHUCO",
+      "url": "https://open.spotify.com/track/0v2KAWDZNHl9O7mAuZfhdQ"
+    },
+    {
+      "album": {
         "name": "Caldero",
         "url": "https://open.spotify.com/album/6K0FP8olOJO2Po8RVFkUhA"
       },
@@ -1130,7 +1156,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 212821,
       "name": "Comadre",
       "url": "https://open.spotify.com/track/3Dw2wGorKeviZOLkJrI4Fm"
@@ -1813,6 +1839,28 @@
     },
     {
       "album": {
+        "name": "LO MISMO DE SIEMPRE",
+        "url": "https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222626,
+      "name": "DROGA",
+      "url": "https://open.spotify.com/track/1cmfXbOvNJt7iDrnJy5BRE"
+    },
+    {
+      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
       },
@@ -1850,7 +1898,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 323916,
       "name": "D\u00e9jame Decirte (feat. Eddie Palmieri)",
       "url": "https://open.spotify.com/track/5SozdAWTO5qVG2evZxYoe5"
@@ -2036,7 +2084,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 220480,
       "name": "El Muchacho De Los Ojos Tristes",
       "url": "https://open.spotify.com/track/7KiiGywtmd0l1fQTWfN5yM"
@@ -2445,6 +2493,28 @@
     },
     {
       "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/0osuEwyAv9oMzYBRz1Q08o"
+      },
+      "artists": [
+        {
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214970,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1M5WInf2LuwXXKU2U8Oa5u"
+    },
+    {
+      "album": {
         "name": "Mala Crianza",
         "url": "https://open.spotify.com/album/2szxWyRwu1MyzrRaJsDehS"
       },
@@ -2536,6 +2606,24 @@
       "duration_ms": 288519,
       "name": "Futuro Incierto",
       "url": "https://open.spotify.com/track/4Rz2h33CcrSLpQ4EScZmPJ"
+    },
+    {
+      "album": {
+        "name": "Machete",
+        "url": "https://open.spotify.com/album/2elafEvK3yD3nWm29E5oVK"
+      },
+      "artists": [
+        {
+          "name": "Bejuco",
+          "url": "https://open.spotify.com/artist/4zlSN95eTYn6VD5wtWFkTk"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219086,
+      "name": "F\u00e1tima",
+      "url": "https://open.spotify.com/track/4Q3K5GVBUPJNBJDznA5ewT"
     },
     {
       "album": {
@@ -3409,6 +3497,28 @@
     },
     {
       "album": {
+        "name": "Malegr\u00eda en la Oscuridad",
+        "url": "https://open.spotify.com/album/2vY6E4oQ0PBKTdRFK97CBw"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        },
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175671,
+      "name": "Lo Siento - Lido Pimienta Edit",
+      "url": "https://open.spotify.com/track/3CEfOIudqBR0tLXoHIQAkg"
+    },
+    {
+      "album": {
         "name": "Loco Playa",
         "url": "https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7"
       },
@@ -3536,6 +3646,28 @@
       "duration_ms": 159677,
       "name": "LOTTO",
       "url": "https://open.spotify.com/track/3oPY56zo69GPDwsidb4kLC"
+    },
+    {
+      "album": {
+        "name": "Lovers' Holiday",
+        "url": "https://open.spotify.com/album/5K1exgNYjlugtrUPutVgBM"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205666,
+      "name": "Lovers' Holiday",
+      "url": "https://open.spotify.com/track/6yGBX0IefuwQfBRYaaXpcV"
     },
     {
       "album": {
@@ -3998,7 +4130,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 288624,
       "name": "Mi vida en llamas (feat. Buscabulla)",
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
@@ -4093,6 +4225,24 @@
     },
     {
       "album": {
+        "name": "Se Amaba As\u00ed",
+        "url": "https://open.spotify.com/album/6oH9zF3t0iy2WhxLXwHrZK"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194973,
+      "name": "Miraverah\u00ed",
+      "url": "https://open.spotify.com/track/1SAXS6YuktTyNF39cADeU9"
+    },
+    {
+      "album": {
         "name": "Miro al Cielo",
         "url": "https://open.spotify.com/album/0sSWc831h2haK2fbeODND7"
       },
@@ -4108,7 +4258,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 242000,
       "name": "Miro al Cielo",
       "url": "https://open.spotify.com/track/3gj66jp2SOOAO132gY7cDf"
@@ -4541,6 +4691,54 @@
     },
     {
       "album": {
+        "name": "No Parar\u00e1",
+        "url": "https://open.spotify.com/album/0IoVpR3PF5uOUfbGJ5KAOe"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Timpana",
+          "url": "https://open.spotify.com/artist/1nYg4Ok9KOudPQHXD6NmE0"
+        },
+        {
+          "name": "Biomigrant",
+          "url": "https://open.spotify.com/artist/5H59BW8KCUmuwDMGVvuatk"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203582,
+      "name": "No Parar\u00e1",
+      "url": "https://open.spotify.com/track/5gnsv6OSaOHo0Si19gU5PR"
+    },
+    {
+      "album": {
+        "name": "NO S\u00c9 QUI\u00c9N SOS",
+        "url": "https://open.spotify.com/album/79X2IHIzg5pNlc7K4Ag6Vy"
+      },
+      "artists": [
+        {
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183708,
+      "name": "NO S\u00c9 QUI\u00c9N SOS",
+      "url": "https://open.spotify.com/track/4nq6FkC0jH2fgfVSziGMmZ"
+    },
+    {
+      "album": {
         "name": "Safe Passage",
         "url": "https://open.spotify.com/album/6vV2zYfImg0HdmJ21FVIzp"
       },
@@ -4704,7 +4902,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 276013,
       "name": "Oigo voces",
       "url": "https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6"
@@ -4980,7 +5178,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 205500,
       "name": "Paranavigar",
       "url": "https://open.spotify.com/track/77Nq3oiFKPbT3rYEBKSlYA"
@@ -6198,7 +6396,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 182470,
       "name": "Te Olvidaste",
       "url": "https://open.spotify.com/track/5bRBvpq9Am8Wvwvk9AggFi"
@@ -6611,6 +6809,32 @@
     },
     {
       "album": {
+        "name": "Vamos a la Selva",
+        "url": "https://open.spotify.com/album/37zWPq6xfpaPkAKk30fAy8"
+      },
+      "artists": [
+        {
+          "name": "Bial Hclap",
+          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
+        },
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        },
+        {
+          "name": "Gio Chamba",
+          "url": "https://open.spotify.com/artist/67BjZlXJIoPb5WvIQOFBgw"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171868,
+      "name": "Vamos a la Selva",
+      "url": "https://open.spotify.com/track/1Lkqvx3dZyy2q74UMKVqlC"
+    },
+    {
+      "album": {
         "name": "Vayay\u00f3 (Jiony Remix)",
         "url": "https://open.spotify.com/album/4sr9L7lfsAJsnuQXgBcrgl"
       },
@@ -6724,7 +6948,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 158780,
       "name": "Volver\u00e1s a Llamar",
       "url": "https://open.spotify.com/track/5EAASyevtYMrgegzHmfuG5"

@@ -4,7 +4,7 @@
 
 > Inspiring the explorer in everyone\. Cover: Secrets of the Penguins, now streaming on Hulu.
 
-96 songs - 4 hr 50 min
+97 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [The Happiest Girl in the World](https://open.spotify.com/track/6v1w4DVsL4Ggj510FXcJvK) | [Ariel Marx](https://open.spotify.com/artist/1Legop6AbLacZwD00LIEgq) | [A Small Light \(Original Score\)](https://open.spotify.com/album/7dZSwYrevd2nVASKUe4vi5) | 2:48 | 2023-12-15 | 2024-05-25 |
 | [The Hostile Planet](https://open.spotify.com/track/0sH0ZIWtSgocov0IK8omTU) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Hostile Planet: Volume 1 \(Original Series Score\)](https://open.spotify.com/album/50DqHVvtqcr74kbJDVLrlQ) | 2:07 | 2023-12-15 |  |
 | [The Northern Reaches](https://open.spotify.com/track/1h2LmFZz0xyuKSPeqx1rgJ) | [Austin Fray](https://open.spotify.com/artist/6uQUVNwgLKs0M1GxBzZSAd) | [Symphony for Our World \(Original Soundtrack\)](https://open.spotify.com/album/1WxYte18feXBnDWIdUcwiS) | 2:32 | 2023-12-15 |  |
+| [The Underdogs](https://open.spotify.com/track/5rvGJptet9ZFd3cqyyslXk) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW), [National Geographic](https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz) | [Underdogs \(Original Series Soundtrack\)](https://open.spotify.com/album/3Uqj3mgzYfpWI2Al79KYqy) | 1:45 | 2025-06-13 |  |
 | [Through the Dark](https://open.spotify.com/track/6DL5Wc5rwmITnKOi4tpt6N) | [Vanbur](https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj) | [Human](https://open.spotify.com/album/45VK2yNRU1GPKcfaeN2aLP) | 3:15 | 2024-03-01 | 2024-03-28 |
 | [Thunderstorm in Everglades National Park](https://open.spotify.com/track/7ISvDbtyWCGeskXQ1rX0DZ) | [National Geographic](https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz) | [National Geographic Soundscapes: National Parks USA](https://open.spotify.com/album/56ErqWtN6HQKLTCpneIDjN) | 3:39 | 2024-10-10 |  |
 | [Titles \- LA 92 \(Original Soundtrack Album\)](https://open.spotify.com/track/7C2Y6UiQG8fttWPoCldYHM) | [Danny Bensi and Saunder Jurriaans](https://open.spotify.com/artist/7fO0iCzJh7IvVEFiFYfOC2) | [LA 92 \(Original Soundtrack Album\)](https://open.spotify.com/album/2o8yuykY3WBWSlNRkGvSIu) | 2:30 | 2023-12-15 |  |

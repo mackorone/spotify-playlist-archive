@@ -4,7 +4,7 @@
 
 > This is Black Eyed Peas\. The essential tracks, all in one playlist.
 
-83 songs - 5 hr 36 min
+84 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Boom Boom Guetta \- David Guetta's Electro Hop Remix](https://open.spotify.com/track/4jpQfNAq0qrCVMsswFbES4) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [I Gotta Feeling \(International Version\)](https://open.spotify.com/album/3AZ8syx3I7qwH8yCSZXhou) | 4:01 | 2023-11-10 | 2024-02-21 |
 | [Boom Boom Pow](https://open.spotify.com/track/3oDFtOhcN08qeDPAK6MEQG) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:11 | 2023-07-28 |  |
 | [Boom Boom Pow \- Radio Edit](https://open.spotify.com/track/19o5hmeKzaX5PauBO3lTHh) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [NOW That's What I Call Music 31 \(20 track Dell Bundle\)](https://open.spotify.com/album/70DTiFYxkFuou42yT6cSK2) | 3:36 | 2023-07-28 | 2025-05-25 |
+| [Boom Boom Pow \- Radio Edit](https://open.spotify.com/track/6B0KmTDlqR44Qv6XwMz1si) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Boom Boom Beats: Kids Mix](https://open.spotify.com/album/5I3jxZBcD0iSfTsjBHM1MD) | 3:38 | 2025-06-14 |  |
 | [CELEBRATE](https://open.spotify.com/track/4MV3y1rxojIWLDLMqf6D5d) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:39 | 2024-05-25 | 2024-07-24 |
 | [Don't Lie](https://open.spotify.com/track/6tp27J7xy18DQiQXut3GsF) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Monkey Business](https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0) | 3:39 | 2023-07-28 |  |
 | [Don't Phunk With My Heart](https://open.spotify.com/track/5MzjQ95rdB2xt9DNa2IzaC) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Monkey Business](https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0) | 3:59 | 2023-07-28 |  |
@@ -86,7 +87,7 @@
 | [VIDA LOCA](https://open.spotify.com/track/6c6Pr4ALb2SD7j7UnS5YDE) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:54 | 2023-07-28 |  |
 | [Weekends](https://open.spotify.com/track/444PDY0AH99Pgnq6B9T4pZ) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Esthero](https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH) | [Bridging The Gap](https://open.spotify.com/album/2haqnus2tl9nBATTVyXvCW) | 4:47 | 2024-05-11 | 2024-11-08 |
 | [What It Is](https://open.spotify.com/track/04kCHvYGff879MKxH6BYP8) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Behind The Front](https://open.spotify.com/album/4nxUuXwV9awZCltuoXhCSt) | 4:45 | 2024-09-10 | 2024-09-16 |
-| [What It Is](https://open.spotify.com/track/2EnZWnNgMD6cJYi6aY08Cm) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Behind The Front](https://open.spotify.com/album/6bwBeiWNQu2g3yaa3yNpgz) | 4:45 | 2025-05-15 |  |
+| [What It Is](https://open.spotify.com/track/2EnZWnNgMD6cJYi6aY08Cm) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Behind The Front](https://open.spotify.com/album/6bwBeiWNQu2g3yaa3yNpgz) | 4:45 | 2025-05-15 | 2025-06-14 |
 | [What's Goin Down](https://open.spotify.com/track/47ZX5vx2zIzOTsOf93lFSB) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk \(Expanded Edition\)](https://open.spotify.com/album/78CmZBgMOz93zoQwqxqZSy) | 2:41 | 2024-05-15 | 2024-05-19 |
 | [Whenever](https://open.spotify.com/track/1ffXDBEcyHv2CZcHDrFAMU) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [The Beginning](https://open.spotify.com/album/3IpexNXiKbezuY526S4Jvy) | 3:15 | 2024-06-01 | 2024-06-23 |
 | [Where Is The Love?](https://open.spotify.com/track/0xmjwnQ3FNE6HuWCt2nHdZ) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 4:32 | 2023-07-28 |  |

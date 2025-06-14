@@ -4,13 +4,14 @@
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania
 
-143 songs - 9 hr 39 min
+144 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Afande](https://open.spotify.com/track/3hn0RXmU65ko4Z0nHbpTTl) | [Dogo Paten](https://open.spotify.com/artist/0IVlD4qNndd1mcbVLILBQ9), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Afande](https://open.spotify.com/album/4iSOmAXNWk8IrQDpUeeZ5z) | 3:41 | 2025-05-01 |  |
 | [Aibu](https://open.spotify.com/track/0P4QaVn9k71jQrDw1CNNbe) | [Zorah](https://open.spotify.com/artist/5ZMZFpOzT2Jaby0ntKL6HL) | [Aibu](https://open.spotify.com/album/4ACMsTaPduorUYcmMrWa0c) | 3:01 | 2024-10-04 | 2025-04-06 |
 | [Amechukua Nani](https://open.spotify.com/track/4fY5kvyrxM1yHEjrol2MWC) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T), [Stizo](https://open.spotify.com/artist/0G6C6U8Eu6L2gj3AcJJh7J) | [Amechukua Nani](https://open.spotify.com/album/7bDMjf2l5DJBGNxxfzlRB4) | 3:46 | 2024-06-28 | 2024-09-24 |
+| [Asumani](https://open.spotify.com/track/40aTArIn6vLBSZZvVN2oP7) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Room Number 3](https://open.spotify.com/album/17L4x88dKSyBVnvYpgMzVY) | 4:26 | 2025-06-13 |  |
 | [Baby Mpya](https://open.spotify.com/track/2xGY29EZ31aTDvlDEd1Gt9) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Baby Mpya](https://open.spotify.com/album/52HY5Otj0tCwRFBPlulaAh) | 3:53 | 2025-06-05 |  |
 | [Bado Hujasema](https://open.spotify.com/track/3mAReE4IMN0uYohwvxEtwk) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Bado Hujasema](https://open.spotify.com/album/0EXOj7hO5yeL7dce4OhYoL) | 2:33 | 2024-01-26 | 2024-02-17 |
 | [Bambia](https://open.spotify.com/track/7vOENBJoWOGIeDs4VLRMMA) | [Mczo Morfan \(Big\)](https://open.spotify.com/artist/53pqgeMu3dAbraZsgnmdq2) | [Real Life](https://open.spotify.com/album/5gKUYTxKDcw08D6maJRRNa) | 4:00 | 2025-05-16 |  |
@@ -94,7 +95,7 @@
 | [Nimejipata](https://open.spotify.com/track/2WKTNo9OCQi87dmFs4CJfq) | [Tamimu](https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k) | [Nimejipata](https://open.spotify.com/album/3llT7bD0ZmJ0GmGJ213gCH) | 4:51 | 2023-09-14 | 2025-02-28 |
 | [Nimekuona Wewe](https://open.spotify.com/track/5PBSEww6tZGRO2rw4pxIJI) | [Tamimu](https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k) | [Nimekuona Wewe](https://open.spotify.com/album/5I6OqXRV878FRPHrVcWJho) | 4:46 | 2023-12-08 | 2025-06-11 |
 | [Nimempost \- Remix](https://open.spotify.com/track/65bXqAf2Vz6NUK19RkBmZ1) | [Kidene Fighter](https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA), [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Nimempost \(Remix\)](https://open.spotify.com/album/2V5WxJD56nKXtyZWLwue2T) | 3:59 | 2024-01-11 | 2025-05-14 |
-| [Nimwagilie](https://open.spotify.com/track/6NHGWDy1HFYyVchnQE03vQ) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Bailando](https://open.spotify.com/album/36WhjtxwyBS4iBCnS91bKo) | 3:58 | 2025-05-16 |  |
+| [Nimwagilie](https://open.spotify.com/track/6NHGWDy1HFYyVchnQE03vQ) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Bailando](https://open.spotify.com/album/36WhjtxwyBS4iBCnS91bKo) | 3:58 | 2025-05-16 | 2025-06-14 |
 | [NINAASILA](https://open.spotify.com/track/6EyFCSjskAxCdtUartv446) | [Duke](https://open.spotify.com/artist/6DnyyK1TL0Lbfrvwz9zeLc), [Kibo Travella](https://open.spotify.com/artist/0LWlOhbVzbmoHTTi4sot50), [Mczo](https://open.spotify.com/artist/1zJfEzj4ITRmpkkAa208Su) | [Pamoja V Sisso \(Singeli Sound\)](https://open.spotify.com/album/0Owu6KAD2puOplJsCeRoSk) | 3:54 | 2022-11-07 | 2025-05-16 |
 | [Nipe Yote](https://open.spotify.com/track/66tSHosgzvekiYWSoeXHQb) | [Navolee](https://open.spotify.com/artist/1W9LBS4eawmmTE7ruqPQqk), [DEELUCK](https://open.spotify.com/artist/5odFUtD7qO3YVNtxxpMuEr) | [Nipe Yote](https://open.spotify.com/album/1Gp6jBoZ1JogtoSSVWUVQt) | 3:26 | 2024-02-23 | 2025-02-18 |
 | [Nitafanyaje](https://open.spotify.com/track/0hmYcBy4sTrmlU7CqVWN8I) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Nitafanyaje](https://open.spotify.com/album/28EHJ9YuzNdVF7D8EeIpaK) | 4:43 | 2025-01-30 |  |

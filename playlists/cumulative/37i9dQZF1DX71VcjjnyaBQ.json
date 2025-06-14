@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-23",
+      "date_removed": null,
       "duration_ms": 258906,
       "name": "A.M. Hours",
       "url": "https://open.spotify.com/track/4pQaJHrYyFIWNxpNyU9BXW"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 392146,
       "name": "An Ever Changing View",
       "url": "https://open.spotify.com/track/7oOdeQyktbC4mCnuSYTFDk"
@@ -238,7 +238,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 414760,
       "name": "As if We Were Just Friends",
       "url": "https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1"
@@ -332,7 +332,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 235360,
       "name": "Ballad for K",
       "url": "https://open.spotify.com/track/5wwitdgVIIUfzLVrPzUKTD"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 324696,
       "name": "Dardanella",
       "url": "https://open.spotify.com/track/6ASQ9b6KAHrwKcfgBIeTQw"
@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 288059,
       "name": "Dreamsville",
       "url": "https://open.spotify.com/track/6h0XWn2JOHv0FDSgKQhUXk"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 318464,
       "name": "Fan\u00f8lyng",
       "url": "https://open.spotify.com/track/738PEBfX2XWfUG0ceTKQvT"
@@ -1619,6 +1619,36 @@
     },
     {
       "album": {
+        "name": "High Falls",
+        "url": "https://open.spotify.com/album/5faqJBw7J049fWvDqTcf0c"
+      },
+      "artists": [
+        {
+          "name": "Jerome Sabbagh",
+          "url": "https://open.spotify.com/artist/5QyGCDcadoRovdmVqEu8JT"
+        },
+        {
+          "name": "Ben Monder",
+          "url": "https://open.spotify.com/artist/2CH9bD5RtnDcm9O23JByN7"
+        },
+        {
+          "name": "Joe Martin",
+          "url": "https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW"
+        },
+        {
+          "name": "Nasheet Waits",
+          "url": "https://open.spotify.com/artist/5fhkjcgOAjl6gQGsQOcP46"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357380,
+      "name": "High Falls",
+      "url": "https://open.spotify.com/track/6hDUg71r8K79MszcoK5DUo"
+    },
+    {
+      "album": {
         "name": "Brightlight",
         "url": "https://open.spotify.com/album/1ekjhKwkURkXmbPCWr8rSk"
       },
@@ -1746,7 +1776,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 279520,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/4m7MH411WVmBWq0bagAuTC"
@@ -1866,7 +1896,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 244218,
       "name": "Indian Summer",
       "url": "https://open.spotify.com/track/0gb4iUX1t4GJTE1ljMacEI"
@@ -2594,7 +2624,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 360769,
       "name": "Oh, Jaco!",
       "url": "https://open.spotify.com/track/33FJyAQRTd8GKjku7DvYun"
@@ -2948,7 +2978,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 233781,
       "name": "Raindrops Keep Fallin' on My Head",
       "url": "https://open.spotify.com/track/3CHb5zmYRBgdnrUd3m4NKK"
@@ -3158,7 +3188,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 323520,
       "name": "Saving All My Love for You",
       "url": "https://open.spotify.com/track/67gegBlOgrRPHhfLfb3CEj"
@@ -3520,7 +3550,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 215200,
       "name": "Spring of Life",
       "url": "https://open.spotify.com/track/3nUUfXsd26KdFoBmw8swNW"
@@ -4138,7 +4168,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 407333,
       "name": "Trouble Maker",
       "url": "https://open.spotify.com/track/6saSpp7UZUXltPD6OYGn9u"
@@ -4200,7 +4230,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 163946,
       "name": "Velvet Gloves & Spit",
       "url": "https://open.spotify.com/track/28nqRn3qpWokvnhGfXwbEf"
@@ -4430,7 +4460,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 329000,
       "name": "Winter",
       "url": "https://open.spotify.com/track/0TY99mhZgjAT1Nv3b2fnZr"

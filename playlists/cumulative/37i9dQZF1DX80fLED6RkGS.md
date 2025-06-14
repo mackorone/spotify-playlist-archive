@@ -4,7 +4,7 @@
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: TheLuchi
 
-447 songs - 23 hr 56 min
+449 songs - 1 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Dance Mpyai](https://open.spotify.com/track/3HuwUpN46jbDoiQirZexKC) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy), [Zendiambo](https://open.spotify.com/artist/66lsHhoCuJeZ0wf3Uq8Sqh) | [Dance Mpyai](https://open.spotify.com/album/0o748wq7XA9mmxXnGXlJae) | 3:25 | 2024-05-09 |  |
 | [DANCEHALLING](https://open.spotify.com/track/1HDXvQAavbE3GsTOIQWkKi) | [Uncojingjong](https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo) | [DANCEHALLING](https://open.spotify.com/album/0S3d65JRsHsULOLi4BTkyc) | 2:24 | 2022-08-18 | 2024-08-23 |
 | [Danshie](https://open.spotify.com/track/2cy5jKcaRg831XEwEyxSR8) | [Ethic Entertainment](https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G), [Kappy](https://open.spotify.com/artist/3PIoXwvrGzymznU310leDR), [Mazi Mzii](https://open.spotify.com/artist/3OOlhIXNjmTzWRR5fAe9Ae), [Seska](https://open.spotify.com/artist/6Aaa7yDYK3riykCOqG0WrA) | [Danshie](https://open.spotify.com/album/7AxKRbpMpnRaJ1Dtt1XcKc) | 3:17 | 2022-07-14 | 2023-09-08 |
+| [Datway](https://open.spotify.com/track/1YQ00pcrihUSYad8l5I9RN) | [Ochungulo Family](https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b), [PAPA NYOSTO](https://open.spotify.com/artist/685HeepW7iuhrAT0QJqmdY) | [Datway](https://open.spotify.com/album/2NNzSnG7z35vXqWELtfPjA) | 3:37 | 2025-06-13 |  |
 | [Dedi Dedilee](https://open.spotify.com/track/2TyeNaKpRKsQzQYP5D5i9i) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy) | [Dedi Dedilee](https://open.spotify.com/album/1KnlYboasv4DR1BsksHBv3) | 3:09 | 2024-04-18 |  |
 | [Dem Mauru](https://open.spotify.com/track/60wD5VNwJuJo4osZ2JLPlM) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Dem Mauru](https://open.spotify.com/album/5a9bIZ0OOkkm3QBjjEhnXj) | 2:42 | 2023-11-24 | 2024-09-27 |
 | [Denda](https://open.spotify.com/track/6S7JsMpwiTEdO1RWA1uISr) | [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl) | [Denda](https://open.spotify.com/album/4uxjTwgBRl3wZ3O6vHT6qs) | 2:58 | 2025-02-21 |  |
@@ -339,6 +340,7 @@
 | [Rich Rich Man](https://open.spotify.com/track/3P4DNpkmokl9jNpOhnYooK) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Rich Rich Man](https://open.spotify.com/album/2UvG2EZ0Bj9IbX7KcjBHWV) | 2:29 | 2022-11-04 | 2023-09-15 |
 | [Sababisha](https://open.spotify.com/track/1ssSnP005VDeNK5PKePpRR) | [Rico Gang](https://open.spotify.com/artist/0h07tyuXINVc3kGjHGCZRx), [Benzema](https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK), [Willis Raburu](https://open.spotify.com/artist/356iHuAuOvmjqp1N2gvw7P), [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO) | [Sababisha](https://open.spotify.com/album/4yaSzj4uwT6wakoKiI8dXP) | 3:02 | 2022-07-07 | 2022-10-13 |
 | [Sababisha](https://open.spotify.com/track/79ehgTGJELENL8THLo8nt2) | [Rico Gang](https://open.spotify.com/artist/0h07tyuXINVc3kGjHGCZRx), [Willis Raburu](https://open.spotify.com/artist/356iHuAuOvmjqp1N2gvw7P), [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO), [Benzema](https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK) | [Sababisha](https://open.spotify.com/album/3jN1KdqjRgVa8yyWA0975q) | 3:02 | 2022-07-07 | 2023-02-25 |
+| [Sabina Joy](https://open.spotify.com/track/7HyTAiaQ0qNr0U1oZt0wp8) | [Joefes](https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318) | [Sabina Joy](https://open.spotify.com/album/2Kprp7TweFDesJJfvb8Rl0) | 3:16 | 2025-06-13 |  |
 | [Sabina Joy](https://open.spotify.com/track/5GLmxxF2hS6iQJWXslh14r) | [Movaz Warombosaji Nation](https://open.spotify.com/artist/3PD9R9ASKty0YJxFh1MMQb), [Voltage](https://open.spotify.com/artist/6nqyNpXD7YcMS02hL6LP0c) | [Sabina Joy](https://open.spotify.com/album/2yUjXD4RWeLHEcNlZuYEke) | 2:42 | 2024-07-18 | 2024-12-20 |
 | [Sam C](https://open.spotify.com/track/4G25B9mTnR1d8iModqREIs) | [Bobo Nyosto](https://open.spotify.com/artist/5520Pd7tpASXN6tyXlWJUc), [Seska](https://open.spotify.com/artist/0I1qRE43DtaywX3NxLk8WZ), [Ethic Entertainment](https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G) | [Sam C](https://open.spotify.com/album/5DwRtZXNI08ZpfiBntPJDB) | 4:13 | 2022-03-31 | 2022-06-24 |
 | [Sandakalawe \(feat\. Busiswa\) \- Remix](https://open.spotify.com/track/0x4yMBppNialHdBk0qTAYo) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7) | [High School](https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu) | 3:38 | 2022-01-20 | 2022-01-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYnfT1sbdZv.md) - [plain]
 
 > Music from "THE IDOLM@STER CINDERELLA GIRLS"\.  THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,200 likes - 75 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,204 likes - 75 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYnfT1sbdZv.md) - [plain]
 | 4 | [熱情エナモラル \- GAME VERSION](https://open.spotify.com/track/3VVZvjRobEmm85tHvHCaWd) | [依田芳乃 \(CV: 高田憂希\)](https://open.spotify.com/artist/1v57vcDx5v6kdDbCRfuuVE), [村上巴 \(CV: 花井美春\)](https://open.spotify.com/artist/1Ym4js5RcCE2JUcYBg4Vyk), [佐藤心 \(CV: 花守ゆみり\)](https://open.spotify.com/artist/74oOpO97XkXnYtjYoArPvw), [夢見りあむ \(CV: 星希成奏\)](https://open.spotify.com/artist/5ttibiLVXZsUju8g0uTS1N), [久川凪 \(CV: 立花日菜\)](https://open.spotify.com/artist/5bRDdpgHNnVRyU35y6pCbc) | [熱情エナモラル \(GAME VERSION\)](https://open.spotify.com/album/2zLGAMyECb1Jvz04loWII6) | 2:16 |
 | 5 | [イーリャンサンキュー \- GAME VERSION](https://open.spotify.com/track/6NJHBNR1V3e15vWNmkINOP) | [中野有香 \(CV: 下地紫野\)](https://open.spotify.com/artist/3R4edW1OhvP3HjwUtYm5FB), [三村かな子 \(CV: 大坪由佳\)](https://open.spotify.com/artist/7hOq8g7b9GR4Q7JSBTcTVa), [大和亜季 \(CV: 村中 知\)](https://open.spotify.com/artist/4K3G2y8FE3nLU9YrYhOSAr), [前川みく \(CV: 高森奈津美\)](https://open.spotify.com/artist/7bqnF8SmpYjwOxUnoePXdc), [久川凪 \(CV: 立花日菜\)](https://open.spotify.com/artist/5bRDdpgHNnVRyU35y6pCbc) | [イーリャンサンキュー \(GAME VERSION\)](https://open.spotify.com/album/5LCXWw7zunIbjIXyEYVWUH) | 2:19 |
 | 6 | [モラトリアム \- GAME VERSION](https://open.spotify.com/track/76O0fR69vTZFt3OBMfgv1Z) | [双葉杏 \(CV: 五十嵐裕美\)](https://open.spotify.com/artist/18Ng7wUeKNww3UPx7EF9eF), [夢見りあむ \(CV: 星希成奏\)](https://open.spotify.com/artist/5ttibiLVXZsUju8g0uTS1N) | [モラトリアム \(GAME VERSION\)](https://open.spotify.com/album/7d2633yhudTHQf8Ax2Kn6j) | 2:07 |
-| 7 | [Fin\[e\]〜美しき終焉〜 \- GAME VERSION](https://open.spotify.com/track/20COLUYAzDDdY7BOAX2ry5) | [一ノ瀬志希 \(CV: 藍原ことみ\)](https://open.spotify.com/artist/0sOgeERzXpjSo6C9XVdXAW), [黒埼ちとせ \(CV: 佐倉 薫\)](https://open.spotify.com/artist/25Al94jgxdwmOLuDZ0jMzA) | [Fin\[e\]〜美しき終焉〜 \(GAME VERSION\)](https://open.spotify.com/album/0TOB2eaM9fzRWgcNXKhYoD) | 1:53 |
-| 8 | [ステップ！ \- GAME VERSION](https://open.spotify.com/track/3yK6TQgWUvWpzZACUtmhuu) | [本田未央 \(CV: 原 紗友里\)](https://open.spotify.com/artist/538dyGDEo6Ns0SuFRl47w3) | [THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER SERIES GAME VERSION SONG COLLECTION Vol.1](https://open.spotify.com/album/0dX5bHw1IkAyS827s1XcY8) | 2:10 |
+| 7 | [ステップ！ \- GAME VERSION](https://open.spotify.com/track/3yK6TQgWUvWpzZACUtmhuu) | [本田未央 \(CV: 原 紗友里\)](https://open.spotify.com/artist/538dyGDEo6Ns0SuFRl47w3) | [THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER SERIES GAME VERSION SONG COLLECTION Vol.1](https://open.spotify.com/album/0dX5bHw1IkAyS827s1XcY8) | 2:10 |
+| 8 | [Fin\[e\]〜美しき終焉〜 \- GAME VERSION](https://open.spotify.com/track/20COLUYAzDDdY7BOAX2ry5) | [一ノ瀬志希 \(CV: 藍原ことみ\)](https://open.spotify.com/artist/0sOgeERzXpjSo6C9XVdXAW), [黒埼ちとせ \(CV: 佐倉 薫\)](https://open.spotify.com/artist/25Al94jgxdwmOLuDZ0jMzA) | [Fin\[e\]〜美しき終焉〜 \(GAME VERSION\)](https://open.spotify.com/album/0TOB2eaM9fzRWgcNXKhYoD) | 1:53 |
 | 9 | [みちづれ](https://open.spotify.com/track/3I2oKpGXj0uK0NdMCE6Dzg) | [黒埼ちとせ \(CV: 佐倉 薫\)](https://open.spotify.com/artist/25Al94jgxdwmOLuDZ0jMzA) | [みちづれ](https://open.spotify.com/album/6CcBJ6egiaczpnGPcgphg8) | 3:14 |
 | 10 | [Enishi \- GAME VERSION](https://open.spotify.com/track/1dmaUadIiyLWQK6BdlfEF0) | [小早川紗枝 \(CV: 立花理香\)](https://open.spotify.com/artist/3AoEunCr5bSKfT0ACHGQnE), [塩見周子 \(CV: ルゥティン\)](https://open.spotify.com/artist/4ZS0gYvIaAggAQJaLfecMp) | [Enishi \(GAME VERSION\)](https://open.spotify.com/album/7jVVZFDYydwx4houLirma4) | 2:02 |
 | 11 | [とくとく…… とく…… \- GAME VERSION](https://open.spotify.com/track/1YeflPnVzGiTLMNmvLC1bu) | [佐城雪美 \(CV: 中澤ミナ\)](https://open.spotify.com/artist/7ht9WWmfd14EdZf386GwUJ) | [THE IDOLM@STER CINDERELLA GIRLS U149 ANIMATION MASTER 07 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7nbLX6jv04xWs5jAlIA89l) | 2:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYnfT1sbdZv.md) - [plain]
 | 74 | [凸凹スピードスター \- GAME VERSION](https://open.spotify.com/track/07V6TltekjZudqZEXQkf2V) | [安部菜々 \(CV: 三宅麻理恵\)](https://open.spotify.com/artist/0EeF7ArEo2Xv1Qg6XoJ1Ua), [佐藤心 \(CV: 花守ゆみり\)](https://open.spotify.com/artist/74oOpO97XkXnYtjYoArPvw) | [THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 21〜30 GAME VERSION](https://open.spotify.com/album/1U7f3KJ4Xu4UwFNFlmXXMf) | 2:08 |
 | 75 | [しゅがーはぁと☆レボリューション \- GAME VERSION](https://open.spotify.com/track/6EbWME2XkDLiDXLiSJgdAv) | [佐藤心 \(CV: 花守ゆみり\)](https://open.spotify.com/artist/74oOpO97XkXnYtjYoArPvw) | [THE IDOLM@STER CINDERELLA MASTER 051〜060 GAME VERSION](https://open.spotify.com/album/4saezRuC7h6LzQhP43aY30) | 2:08 |
 
-Snapshot ID: `Z9mKnQAAAADtf2BiGu4441uiRLEyvKSN`
+Snapshot ID: `aExTxAAAAACU/lPfAr8RDh+YKaff+xZy`

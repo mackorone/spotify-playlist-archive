@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1cAHI20k456593GCBNqzw6.md) - [plain]
 
 > An eclectic mix of new and old music frequently updated  by Danger Mouse.
 
-[Danger Mouse](https://open.spotify.com/user/dangermouse_official) - 80,808 likes - 50 songs - 3 hr 9 min
+[Danger Mouse](https://open.spotify.com/user/dangermouse_official) - 80,816 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/1cAHI20k456593GCBNqzw6.md) - [plain]
 | 6 | [Attention](https://open.spotify.com/track/0JNDnRCcuuGJ1ghgOKujb4) | [Terri Terri](https://open.spotify.com/artist/2kOQNTNpYFhAuV2ZQozT3D) | [Terri Terri](https://open.spotify.com/album/5Zad1xTkpmBPuyAK1xoLdr) | 3:31 |
 | 7 | [Driving Seat](https://open.spotify.com/track/6Fw9Y3n7xbsVdvHL5joZl8) | [Matt Berry](https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto) | [Driving Seat](https://open.spotify.com/album/7GaFRWqHAGQPOh2lmmFyXO) | 2:28 |
 | 8 | [Win Or Lose](https://open.spotify.com/track/3rbkg8h6onwZLP0QJXt6oI) | [Sam Dees](https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX) | [Second to None](https://open.spotify.com/album/4oREyJ5IyyNwPjbv8p6BlH) | 2:54 |
-| 9 | [This Is The Lost Generation](https://open.spotify.com/track/2kLALLtckvLqjGD50PGNNy) | [The Lost Generation](https://open.spotify.com/artist/3GyivO62GLk3C8DqfawQwV) | [Young, Tough And Terrible](https://open.spotify.com/album/4B1BWIoETGx6guwhJVp8zP) | 3:34 |
+| 9 | [This Is The Lost Generation](https://open.spotify.com/track/2kLALLtckvLqjGD50PGNNy) | [Lost Generation](https://open.spotify.com/artist/0iRyTutyovKc6yX0QXsYsx) | [Young, Tough And Terrible](https://open.spotify.com/album/4B1BWIoETGx6guwhJVp8zP) | 3:34 |
 | 10 | [Do You](https://open.spotify.com/track/651Qux6MhMkhXHUvD0HEAC) | [GHOSTWOMAN](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Ghost Woman](https://open.spotify.com/album/3czqc1XrxY4pT1kXzoRY4i) | 3:04 |
 | 11 | [Femme Fatale](https://open.spotify.com/track/0uxPtKV8UUFRafTBEcUSOX) | [Dolly Mixture](https://open.spotify.com/artist/46mHImQWI9FD9f6QFH6whv) | [Other Music](https://open.spotify.com/album/0yy1zI58b41lIbcICxNTbE) | 3:04 |
 | 12 | [Time For Love](https://open.spotify.com/track/3W2JgZDlv52fZILGNxqshp) | [The People’s Pleasure Grounds](https://open.spotify.com/artist/3tianpEdtTauCBIiZ624MX) | [The People's Pleasure Grounds](https://open.spotify.com/album/2oRjHNrpWW1hzEhHeUTg9b) | 4:02 |

@@ -1594,10 +1594,28 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 225826,
       "name": "Y Que",
       "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
+    },
+    {
+      "album": {
+        "name": "Y Que (Sonando Desde El Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/0iINWhJNgdSGpWUnwxlEv5"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269600,
+      "name": "Y Que - Sonando desde el Auditorio Nacional",
+      "url": "https://open.spotify.com/track/2pt8iu0FMMIEya8OiSOM1U"
     },
     {
       "album": {

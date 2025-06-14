@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: The Lantis
 
-515 songs - 1 day 9 hr 51 min
+516 songs - 1 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Cinta Telah Usai](https://open.spotify.com/track/0PY8w6wMuS4vbSctfQNRZu) | [SAGARA](https://open.spotify.com/artist/4jNgtIpdEFi39M9NL21Rj4) | [Cinta Telah Usai](https://open.spotify.com/album/5CphNJezqgKjn5ajz01z1x) | 3:49 | 2024-09-19 | 2024-11-29 |
 | [CINTA TERSAKITI](https://open.spotify.com/track/2uuc5Q5lFDAlXryHcFQ21h) | [Tri Suaka](https://open.spotify.com/artist/4rLkBI8sdayXhNaGmfW3nC) | [CINTA TERSAKITI](https://open.spotify.com/album/0WnG6bvjd3Wmj9ce7PVqNK) | 3:29 | 2024-07-11 | 2024-09-13 |
 | [Cintaku Runtuh](https://open.spotify.com/track/09iB7snkdDtnCU8XLsaqpj) | [Alma Margana](https://open.spotify.com/artist/2usCYwX6DO6vOeZXjgQQU6) | [Cintaku Runtuh](https://open.spotify.com/album/1QOcuqPOSeVLiQJVUXfAFt) | 4:32 | 2024-11-28 | 2025-02-14 |
+| [Cintaku Tak Ada Yang Punya](https://open.spotify.com/track/0YiKq2B5EcBfzYTM23WtZa) | [Ferdy Tahier](https://open.spotify.com/artist/5gR9tN4sfmVLDGGGYMk9Hd) | [Cintaku Tak Ada Yang Punya](https://open.spotify.com/album/5IgIGwjcUd0rBFiXyPQ9Pj) | 3:46 | 2025-06-13 |  |
 | [Coba Jadi Aku](https://open.spotify.com/track/1Hmvsp6Uh5hvV8WwMMNrBa) | [Prinsa Mandagie](https://open.spotify.com/artist/2a5iLHTui2soMRrOQf2Dsr) | [Coba Jadi Aku](https://open.spotify.com/album/0I683koVMUXDXkRwyxoa9q) | 3:42 | 2024-11-14 | 2024-12-13 |
 | [Coba Waras](https://open.spotify.com/track/344ViraxBQJZBYOmq8G0wt) | [Clara Riva](https://open.spotify.com/artist/7Gtq2mxSjXQuZx4rtc1L1J) | [Coba Waras](https://open.spotify.com/album/3rdJ2teHAmYFJBb8HbgYGn) | 3:42 | 2024-08-29 | 2024-11-22 |
 | [CURAHKAN HIDAYAHMU](https://open.spotify.com/track/1ZL1sOZI1MrbgHKggVea9i) | [Ihsan Tarore](https://open.spotify.com/artist/21rZZMlJPMBJx2w3ohzGqN) | [CURAHKAN HIDAYAHMU](https://open.spotify.com/album/0Gt2aidGb7r9UnkDh2lFej) | 4:54 | 2025-02-27 | 2025-03-21 |

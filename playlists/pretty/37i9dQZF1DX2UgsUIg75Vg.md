@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,380,579 likes - 186 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,380,411 likes - 186 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

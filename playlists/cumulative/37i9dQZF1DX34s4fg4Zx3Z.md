@@ -4,7 +4,7 @@
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: The Snagon
 
-2,108 songs - 5 day 3 hr 29 min
+2,110 songs - 5 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Chàng Nhạc Công](https://open.spotify.com/track/2EdQ7iPfXye4CzZ6W652DM) | [Ânknown](https://open.spotify.com/artist/4qG6V2lQFsqDEUlbVMtnU2) | [Chàng Nhạc Công](https://open.spotify.com/album/2K0eg15sbXRYWwFdDjTBnX) | 4:08 | 2024-07-23 | 2024-08-16 |
 | [Chàng Trai Bất Tử](https://open.spotify.com/track/18iADruKMXIloyA9vCJXFE) | [An Vũ](https://open.spotify.com/artist/0IBUlucigx80io4qV5fQ34), [Sino](https://open.spotify.com/artist/4GxnBu03QfkLI9By82WNmh) | [Chàng Trai Bất Tử](https://open.spotify.com/album/5lFQA0FkLiuI3aCvvaRLN6) | 3:52 | 2024-01-16 | 2024-01-25 |
 | [Chàng Trai Bắc](https://open.spotify.com/track/3H6wmdWIwI9RcCnHb7RoEb) | [SOBE](https://open.spotify.com/artist/5T4IWkR0vFyMKGJQaZGHnI) | [Chàng Trai Bắc](https://open.spotify.com/album/60h8Tgz7glUe2o0R3ciP7j) | 3:03 | 2025-03-14 | 2025-05-01 |
+| [Chàng Trai Như Anh](https://open.spotify.com/track/5Tq3ol9MQSMCO9E2aJbCVm) | [Hoàng Khang](https://open.spotify.com/artist/59D4XcBo4jqyxaHhN9vUmB), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Chàng Trai Như Anh](https://open.spotify.com/album/54StilMY1qud6bLJKpm7AR) | 4:54 | 2025-06-12 |  |
 | [Chào 04](https://open.spotify.com/track/1MRPnIH8CA39OVC0xqR8tw) | [SouLH](https://open.spotify.com/artist/1Uea5mxQzPTXigqZKed16O), [quanhat5am](https://open.spotify.com/artist/2lRwff4hwG9WEKKlMPqfo1) | [Chào 04](https://open.spotify.com/album/3TjmHyjZF3bycamaXEsA2r) | 4:40 | 2022-07-31 | 2022-08-19 |
 | [Chào buổi sáng](https://open.spotify.com/track/5cawhr5FgDitCCFljl4rWd) | [Cá](https://open.spotify.com/artist/7lSXh2OcT979sBQI72ILdI), [Chengy](https://open.spotify.com/artist/3g8nrYr9cxuKcrx34bry90) | [Chào buổi sáng](https://open.spotify.com/album/4H2I8iFL9WW3a9WQFofsJH) | 3:10 | 2024-04-24 | 2024-05-03 |
 | [Chào Buổi Sáng](https://open.spotify.com/track/2Kd3Rb1o6WRWDUYTca3Hr1) | [Madelynn](https://open.spotify.com/artist/2BnEmodoAAWN5O9Jumg8Lm) | [Chào Buổi Sáng](https://open.spotify.com/album/2N2IXBvK8Cuc4sD2tAHky8) | 2:20 | 2025-05-08 | 2025-06-13 |
@@ -1106,6 +1107,7 @@
 | [Mê Cung](https://open.spotify.com/track/4LSkLESUXvxMSZHK17JP9V) | [Kiey](https://open.spotify.com/artist/5EUXxplcFbismt2ccPQNHd) | [Mê Cung](https://open.spotify.com/album/5WhJI04qlX3j2AUVFbnVEc) | 4:12 | 2023-09-08 | 2023-09-19 |
 | [Mê Cung Tình Yêu \(prod\. RIO\)](https://open.spotify.com/track/57NB3UNDK1VPTRH0N1pqe7) | [52Hz](https://open.spotify.com/artist/1y28JlO6rDMUB5rkcA4RAh) | [Mê Cung Tình Yêu \(prod\. RIO\)](https://open.spotify.com/album/45bGCkUeHNspinhIXAm5Oh) | 3:39 | 2024-05-26 | 2024-08-07 |
 | [Mê Em Vãi](https://open.spotify.com/track/7GwM1D2PEHBVsduu3bf6Fz) | [Twin](https://open.spotify.com/artist/5mdVRhtaMs2xma4KzhYBZ9), [Loser](https://open.spotify.com/artist/0rUVyVvZDdtdRo2jFsEor6) | [Mê Em Vãi](https://open.spotify.com/album/1jVgiOFbjcVuFGCBYUbJLG) | 3:10 | 2024-09-12 | 2024-11-22 |
+| [món quà \(feat\. TATUDA\)](https://open.spotify.com/track/39sYZsQc4cQ8T2Ce7OEvvV) | [V\#](https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om), [TATUDA](https://open.spotify.com/artist/1tsvQ6YDIsBe8J7PnaTKO1) | [Món quà](https://open.spotify.com/album/23jXlTuMuUw0kPukbBxk3Y) | 2:19 | 2025-06-12 |  |
 | [Mùa hoa 29](https://open.spotify.com/track/137D1WTFllGa2MkPnVZYxq) | [Minstu](https://open.spotify.com/artist/56oxFM7GQ14Z02IwpAx1lw), [GRabbiX](https://open.spotify.com/artist/5DN3u3a6gUV3KdNbxUmZcU) | [Mùa hoa 29](https://open.spotify.com/album/7r0ppD5OiMbc5bqC9VbKAw) | 2:46 | 2024-06-27 | 2024-10-18 |
 | [Mùa hè ký ức](https://open.spotify.com/track/3iv4TApPljiIpKbri19bvM) | [Hoàng Mai](https://open.spotify.com/artist/42NyKc5Q2Qhcod9HLa880T), [Hoàng Thống](https://open.spotify.com/artist/3fM2WF0qY1Ip9ffVvOzhjo) | [Mùa hè ký ức](https://open.spotify.com/album/5xRH8vw7TLTTWVWXvoNnn6) | 3:54 | 2023-07-26 | 2023-09-15 |
 | [Mùa Hạ Cuối Cùng](https://open.spotify.com/track/64VNylH4th3QJs9VutCT6Y) | [Jaysonlei](https://open.spotify.com/artist/5BQgZQPuGImYR5xgbytUKg), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90) | [Mùa Hạ Cuối Cùng](https://open.spotify.com/album/0HQp5mZG8lqDnkbSX9vdWC) | 3:34 | 2024-08-29 | 2024-11-22 |

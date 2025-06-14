@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 20735,
+  "num_followers": 20739,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEjHAAAAAABr6GRVjl4oC+0TxgqRryrB",
+  "snapshot_id": "aEoYgAAAAACW0mWI+BlkCNm5s/dlfglt",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Adentro Hacia Afuera",
-        "url": "https://open.spotify.com/album/0GFxgsVUk6MzDh4BPXSeEE"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 307173,
-      "name": "De Adentro Hacia Afuera",
-      "url": "https://open.spotify.com/track/4NnUFTaoZOQBOyB3wG4S5g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Julia Vit\u00f3ria - Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 296053,
       "name": "Jesus At The Center (Bonus Track) - Acoustic",
       "url": "https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Adentro Hacia Afuera",
+        "url": "https://open.spotify.com/album/0GFxgsVUk6MzDh4BPXSeEE"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 307173,
+      "name": "De Adentro Hacia Afuera",
+      "url": "https://open.spotify.com/track/4NnUFTaoZOQBOyB3wG4S5g"
     },
     {
       "added_at": null,
@@ -488,25 +488,9 @@
           "url": "https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo"
         }
       ],
-      "duration_ms": 254253,
-      "name": "Me Atraiu - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3Jo1orSzj5tJHRrUGFed11"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outra Vez",
-        "url": "https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 304400,
-      "name": "Outra Vez",
-      "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
+      "duration_ms": 201933,
+      "name": "Cantarei Teu Amor (I Could Sing of Your Love Forever) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0LUl6SZTKvgSzb7GxdVgmG"
     },
     {
       "added_at": null,
@@ -523,6 +507,22 @@
       "duration_ms": 320186,
       "name": "Tua Presen\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 304400,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo"
         }
       ],
-      "duration_ms": 201933,
-      "name": "Cantarei Teu Amor (I Could Sing of Your Love Forever) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0LUl6SZTKvgSzb7GxdVgmG"
+      "duration_ms": 254253,
+      "name": "Me Atraiu - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3Jo1orSzj5tJHRrUGFed11"
     },
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bruna Karla - Louvorz\u00e3o 2022 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/165BlFcLxau1hJTHHxHc1S"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 330940,
-      "name": "Sou Humano (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3Nncb8DnbdvGvfHoT6FejH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Meu Pai \u00c9 Bom (Ao Vivo)",
         "url": "https://open.spotify.com/album/2fCwHzbPlz7WSywTzroQO5"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 532577,
       "name": "O Meu Pai \u00c9 Bom - Ao Vivo",
       "url": "https://open.spotify.com/track/1EZ8LejBperuDSPr004cpU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bruna Karla - Louvorz\u00e3o 2022 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/165BlFcLxau1hJTHHxHc1S"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 330940,
+      "name": "Sou Humano (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3Nncb8DnbdvGvfHoT6FejH"
     },
     {
       "added_at": null,

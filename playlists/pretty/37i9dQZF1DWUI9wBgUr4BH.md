@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,851 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,265 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 39 | [Baila Morena \- R3HAB Remix](https://open.spotify.com/track/4nQt8jf7YtvFFNoTI2uE2Y) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Baila Morena \(R3HAB Remix\)](https://open.spotify.com/album/2OgaEdrn242dNwscn4cGzv) | 2:24 |
 | 40 | [Friend Of Mine \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Friend Of Mine \(from the Smurfs Movie Soundtrack\)](https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y) | 3:25 |
 
-Snapshot ID: `aEtOBgAAAABK8y7cms+ZhoZHOdub/O7j`
+Snapshot ID: `AAAAAGpYpYYGthpBcllHK2Avj3rruaC4`

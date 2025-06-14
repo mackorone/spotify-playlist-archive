@@ -1,13 +1,29 @@
 {
   "description": "The best in blues right now. Cover: Robert Randolph",
-  "num_followers": 139712,
+  "num_followers": 139715,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEKH5wAAAAC+Pslek8zzeXYZTg5okkU3",
+  "snapshot_id": "aEuiYAAAAADwgUUPdZxjY0bRVXnjo3qY",
   "tracks": [
+    {
+      "added_at": "2025-06-13 04:00:32",
+      "album": {
+        "name": "Heartbreak City",
+        "url": "https://open.spotify.com/album/6069Q408vtPl0pcne5egPX"
+      },
+      "artists": [
+        {
+          "name": "Larry McCray",
+          "url": "https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc"
+        }
+      ],
+      "duration_ms": 443586,
+      "name": "Heartbreak City",
+      "url": "https://open.spotify.com/track/5EXQSCQgwPjMKYB9aG5AQm"
+    },
     {
       "added_at": "2025-05-30 04:00:19",
       "album": {
@@ -27,6 +43,62 @@
       "duration_ms": 343146,
       "name": "When Will The Love Rain Down",
       "url": "https://open.spotify.com/track/5RZC6hR11cilAHjsNMu1gI"
+    },
+    {
+      "added_at": "2025-06-13 04:00:32",
+      "album": {
+        "name": "RIDE ON",
+        "url": "https://open.spotify.com/album/3whEM45qq1h0nLeGCww42y"
+      },
+      "artists": [
+        {
+          "name": "C.S. Armstrong",
+          "url": "https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO"
+        }
+      ],
+      "duration_ms": 176065,
+      "name": "RIDE ON",
+      "url": "https://open.spotify.com/track/6VIMlbWz5wV2gkSzCrDVek"
+    },
+    {
+      "added_at": "2025-06-13 04:00:32",
+      "album": {
+        "name": "Ain't It Hell",
+        "url": "https://open.spotify.com/album/0Dw54nLwDIGDiVJ1nxZqOt"
+      },
+      "artists": [
+        {
+          "name": "Patrick Sweany",
+          "url": "https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5"
+        }
+      ],
+      "duration_ms": 319127,
+      "name": "Ain't It Hell",
+      "url": "https://open.spotify.com/track/7wK2n5iRdQL53EboRMgp2y"
+    },
+    {
+      "added_at": "2025-06-13 04:00:32",
+      "album": {
+        "name": "Kathleen",
+        "url": "https://open.spotify.com/album/1o0gqB1ldEORbKpXKAbEWR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Dayton",
+          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
+        },
+        {
+          "name": "Ian Moore",
+          "url": "https://open.spotify.com/artist/5XZzCqzWFTBV6jgSAOtxTz"
+        },
+        {
+          "name": "Johnny Moeller",
+          "url": "https://open.spotify.com/artist/565TA9CcZBr2UA6mWiL3qk"
+        }
+      ],
+      "duration_ms": 257989,
+      "name": "Kathleen",
+      "url": "https://open.spotify.com/track/1wd8LmiJpY9t5OsGqPOCyY"
     },
     {
       "added_at": "2025-05-23 04:00:36",
@@ -123,22 +195,6 @@
       "duration_ms": 271542,
       "name": "Crossroads",
       "url": "https://open.spotify.com/track/1rLcJO2vaUNPEW8ByunN0o"
-    },
-    {
-      "added_at": "2025-05-16 04:00:08",
-      "album": {
-        "name": "Bright Side",
-        "url": "https://open.spotify.com/album/6fMHg8HaBULw3F6dgaLxVv"
-      },
-      "artists": [
-        {
-          "name": "Larry McCray",
-          "url": "https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc"
-        }
-      ],
-      "duration_ms": 337360,
-      "name": "Bright Side",
-      "url": "https://open.spotify.com/track/5oHGHrJmppz7Ds15ryz3Qt"
     },
     {
       "added_at": "2025-05-16 04:00:08",
@@ -1743,42 +1799,6 @@
       "duration_ms": 203338,
       "name": "Unhinged",
       "url": "https://open.spotify.com/track/41N74tDfqzG242pQe16lSE"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Daughter Of Zion [Feat. Joe Walsh]",
-        "url": "https://open.spotify.com/album/73hDokQXIjjMe6AqzG5PuI"
-      },
-      "artists": [
-        {
-          "name": "Glenn Schwartz",
-          "url": "https://open.spotify.com/artist/5LZLhHjT5eCyy2kMaFPSqc"
-        },
-        {
-          "name": "Joe Walsh",
-          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
-        }
-      ],
-      "duration_ms": 276264,
-      "name": "Daughter Of Zion [Feat. Joe Walsh]",
-      "url": "https://open.spotify.com/track/27S3ILmMMln0kQjmxLghjA"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Soft Spot (Deluxe)",
-        "url": "https://open.spotify.com/album/2smg61fQVg6eoY05xZLDu5"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "The Squirrel Juice Blues",
-      "url": "https://open.spotify.com/track/221lZ6bk3a8w3JyAztN0KW"
     }
   ],
   "unique_name": "Got Blues",

@@ -197,6 +197,32 @@
     },
     {
       "album": {
+        "name": "Akhri Raat",
+        "url": "https://open.spotify.com/album/7BchUV4Xjjw6qbmeYotZws"
+      },
+      "artists": [
+        {
+          "name": "Sickflip",
+          "url": "https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ"
+        },
+        {
+          "name": "Indo Warehouse",
+          "url": "https://open.spotify.com/artist/0NSnLQRiWg2ZgnfrXaQ9P2"
+        },
+        {
+          "name": "Arul Seth",
+          "url": "https://open.spotify.com/artist/2GHxhIZLapwD1R5nltITFL"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373333,
+      "name": "Akhri Raat",
+      "url": "https://open.spotify.com/track/3m5s3CNvrg5nX6C60eRfD3"
+    },
+    {
+      "album": {
         "name": "Bollywood Super Hits!",
         "url": "https://open.spotify.com/album/4E8Z8tAqCxz884FxZX8xsY"
       },

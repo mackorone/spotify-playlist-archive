@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,006 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,023 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Baby Mpya](https://open.spotify.com/track/2xGY29EZ31aTDvlDEd1Gt9) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Baby Mpya](https://open.spotify.com/album/52HY5Otj0tCwRFBPlulaAh) | 3:53 |
-| 2 | [Nimwagilie](https://open.spotify.com/track/6NHGWDy1HFYyVchnQE03vQ) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Bailando](https://open.spotify.com/album/36WhjtxwyBS4iBCnS91bKo) | 3:58 |
+| 2 | [Asumani](https://open.spotify.com/track/40aTArIn6vLBSZZvVN2oP7) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Room Number 3](https://open.spotify.com/album/17L4x88dKSyBVnvYpgMzVY) | 4:26 |
 | 3 | [Afande](https://open.spotify.com/track/3hn0RXmU65ko4Z0nHbpTTl) | [Dogo Paten](https://open.spotify.com/artist/0IVlD4qNndd1mcbVLILBQ9), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Afande](https://open.spotify.com/album/4iSOmAXNWk8IrQDpUeeZ5z) | 3:41 |
 | 4 | [EX WA NANI](https://open.spotify.com/track/20RY7KkpJUxhhH4glf4Tzt) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [A DAY TO REMEMBER](https://open.spotify.com/album/5dclc98AKoG0OmQBLndQFJ) | 4:04 |
 | 5 | [Kijumbe](https://open.spotify.com/track/1MGBGAtm8wgYaRPBkhnRKq) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8) | [Kijumbe](https://open.spotify.com/album/6NeSkmP1ZnyKfREKffX2GG) | 3:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 74 | [Pisi](https://open.spotify.com/track/1tb1zxPaAkmFtvH1YFLKDH) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls) | [Pisi](https://open.spotify.com/album/3JPjYrhhQPdx30W3bgvAFq) | 3:40 |
 | 75 | [Chura Wangu](https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Chura Wangu](https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR) | 3:07 |
 
-Snapshot ID: `aEIvagAAAAAMuCh8Dk1d/zQt2T0zUTna`
+Snapshot ID: `aEvExAAAAAA9zv1PflVeN56eMYG4R5+l`

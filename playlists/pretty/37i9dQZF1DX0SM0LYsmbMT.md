@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,227,803 likes - 299 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,227,890 likes - 300 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -304,8 +304,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 294 | [Illvibe](https://open.spotify.com/track/3xxNwh5HZxB0qyzBiVoZbW) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Illvibe](https://open.spotify.com/album/127mSzu1Br8ch4nJuEJ31u) | 2:40 |
 | 295 | [Sakura](https://open.spotify.com/track/2r26Lz065fusSQ80STF956) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [Sakura](https://open.spotify.com/album/1mRUvZ2MtJtGscdGiWHwJq) | 2:23 |
 | 296 | [Farlands](https://open.spotify.com/track/5q3OHXJX1lX5wNJmrm93GD) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Farlands](https://open.spotify.com/album/7wr0LYZiFh5SQ86PzRIHIP) | 1:33 |
-| 297 | [Outlines](https://open.spotify.com/track/4kPeJwqxGDX7DJYFuOCQAF) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Sketches](https://open.spotify.com/album/0EPvscUymb7sapGPnzcA0T) | 2:08 |
-| 298 | [Nonobody](https://open.spotify.com/track/5WZMjTa13So2h5OGcEB42m) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Asphalt Oasis](https://open.spotify.com/album/5sXx0DiHHz643FboZdwu2v) | 2:24 |
-| 299 | [way home](https://open.spotify.com/track/3qFu1A9mh9eG8xIGhYjOmR) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [way home](https://open.spotify.com/album/4wt7dpPKyWzgNcLIwEgvFS) | 2:01 |
+| 297 | [Showtime](https://open.spotify.com/track/5u95NsXeEC3yt1O2BbdFJ9) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Showtime](https://open.spotify.com/album/0fvdSCouB8h89JTmAr7rm4) | 2:00 |
+| 298 | [Quiet Flow](https://open.spotify.com/track/6nDt9rapmxvZr0QJ8vwtj8) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Quiet Flow](https://open.spotify.com/album/1lxu0uG0IqvGe88dE24weH) | 2:04 |
+| 299 | [tuesday evenings](https://open.spotify.com/track/1Rl4Qph0hXgF6cadGi4qcd) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [wielandwieland](https://open.spotify.com/artist/5Lz8NfVK4TCVMmRTfaak6n) | [moments](https://open.spotify.com/album/4JNzCvA37BbzSpNWVDIDqi) | 1:53 |
+| 300 | [way home](https://open.spotify.com/track/3qFu1A9mh9eG8xIGhYjOmR) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [way home](https://open.spotify.com/album/4wt7dpPKyWzgNcLIwEgvFS) | 2:01 |
 
-Snapshot ID: `aEJnzQAAAAA+O4oiuL0fGliUznVPHiMk`
+Snapshot ID: `aEvm5AAAAAAxGbsOjbvjQu7jSNJeiCub`

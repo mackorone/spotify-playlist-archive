@@ -1744,7 +1744,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 161852,
       "name": "Angel",
       "url": "https://open.spotify.com/track/5yHyfnRuZSwzeyOiKiYUSv"
@@ -4326,7 +4326,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 202285,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B"
@@ -7614,7 +7614,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 84700,
       "name": "DIA DEL\u00cdCIA - Slowed",
       "url": "https://open.spotify.com/track/6T06bLv5OzJf3BuNa81XXD"
@@ -10024,7 +10024,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 133615,
       "name": "Fica De Quat\u00e3o",
       "url": "https://open.spotify.com/track/7KTYk6K4TSK56iNecGe2R2"
@@ -15623,7 +15623,7 @@
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 209361,
+      "duration_ms": 208125,
       "name": "Mambinho Brasile\u00f1o",
       "url": "https://open.spotify.com/track/0c27qjzqEgMLMnWTl5bCU8"
     },
@@ -17274,11 +17274,15 @@
         {
           "name": "Rushex",
           "url": "https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti"
+        },
+        {
+          "name": "mc pl alves",
+          "url": "https://open.spotify.com/artist/47wsfaEWJwhWd9bs04Oc1g"
         }
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 170650,
       "name": "MONTAGEM ALUCINANTE",
       "url": "https://open.spotify.com/track/62JWbd7wXwfHTVOA8lSoSF"
@@ -17308,6 +17312,28 @@
       "duration_ms": 103727,
       "name": "MONTAGEM BAIL\u00c3O",
       "url": "https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh"
+    },
+    {
+      "album": {
+        "name": "Montagem Bandido",
+        "url": "https://open.spotify.com/album/6uB5gLHk5SnUN9oDP0ADBy"
+      },
+      "artists": [
+        {
+          "name": "Jmilton",
+          "url": "https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz"
+        },
+        {
+          "name": "Itamar Mc",
+          "url": "https://open.spotify.com/artist/6guLZyE3by1cVU1ydAAKpJ"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86953,
+      "name": "Montagem Bandido",
+      "url": "https://open.spotify.com/track/5s9JKS0P0exKgwLe4yCjAK"
     },
     {
       "album": {

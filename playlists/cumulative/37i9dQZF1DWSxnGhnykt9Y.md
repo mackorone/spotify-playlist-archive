@@ -4,7 +4,7 @@
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Bloody Civilian
 
-129 songs - 6 hr 11 min
+133 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,8 +27,10 @@
 | [Commas](https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Commas](https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA) | 2:37 | 2024-11-29 | 2025-05-30 |
 | [Complicated](https://open.spotify.com/track/140cW0PtrfiVaOrIUlZ5Dq) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Dutty Love](https://open.spotify.com/album/175r8elKWemcX0GM1CbOQy) | 2:36 | 2024-11-29 |  |
 | [Coucou](https://open.spotify.com/track/2SihVopuJ1Bs5gPKuFfvkg) | [LA MAIN SUR LE COEUR](https://open.spotify.com/artist/1FDWrio927Urs33O7dkhef), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Coucou](https://open.spotify.com/album/6RWZB3cgbF3OEQvPd4K4rj) | 2:13 | 2024-11-29 | 2025-02-14 |
+| [Crash Out](https://open.spotify.com/track/40EchY6PKUPrt14nEdmKXA) | [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4), [Zaituni Wambui](https://open.spotify.com/artist/70MvDj2d6WZpoIyRBHnXna) | [Crash Out](https://open.spotify.com/album/1AEOnjNRJMursjuMQ4o28C) | 3:39 | 2025-06-13 |  |
 | [Dang Girlfriend](https://open.spotify.com/track/3KIfPrupoQfUDcxC1VVI86) | [Rojenka](https://open.spotify.com/artist/1kGs99ec8kAIL7Li8oSTLW) | [Dang Girlfriend](https://open.spotify.com/album/5WLO8WawfZ91ZuiHbf6gEI) | 3:27 | 2024-11-29 | 2024-12-07 |
 | [December](https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [December](https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX) | 2:35 | 2024-11-29 |  |
+| [Denial](https://open.spotify.com/track/1LoWT5n1jJ8sHsMFKEugmV) | [Thandi Marie](https://open.spotify.com/artist/2Q85aPuDzcZP8QSSH9tykf), [DaMi](https://open.spotify.com/artist/7MCnxZ9EOSA8TngGAdMDnH) | [Lost Without Me](https://open.spotify.com/album/2v2sTVaswcQPa6NAJfiBdL) | 2:27 | 2025-06-13 |  |
 | [Different Sides \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1cSitFlpZlhS0KAnoH6a69) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Island 54](https://open.spotify.com/album/07n3iriTEHGIDuJtYysdtB) | 2:52 | 2024-11-29 |  |
 | [Drop](https://open.spotify.com/track/5N4LYi3DEp5dbrJMeQ9ulF) | [Chayuta](https://open.spotify.com/artist/4nXhFLBJ3zVZ9MAyUMbV6r) | [Drop](https://open.spotify.com/album/4nXVQgtBoO0eqLtxRkmHlu) | 2:46 | 2024-11-29 | 2025-05-30 |
 | [Everyday \(I Dey Pray\)](https://open.spotify.com/track/2lOvnEOUtbHlU461mlEfM4) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8), [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2) | [no PITY](https://open.spotify.com/album/6hkdE1QM4zUBloZsI9RxKi) | 2:57 | 2024-11-29 | 2025-05-30 |
@@ -52,6 +54,7 @@
 | [I No Fit Die](https://open.spotify.com/track/1pyPBjAUwnmCu3cROJ6ROL) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2) | [I No Fit Die](https://open.spotify.com/album/1weqTKVEn5JeREhe6vFlv4) | 2:17 | 2024-11-29 |  |
 | [i think i love you 2](https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [i think i love you 2](https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9) | 2:44 | 2025-03-14 |  |
 | [Ifineme](https://open.spotify.com/track/6U6usyI67RBLnGxL2MWGKC) | [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV) | [Ifineme X Upstandin](https://open.spotify.com/album/1lyDMxu8Hr76pVQveFi3Yk) | 2:59 | 2024-11-29 |  |
+| [iSizwe](https://open.spotify.com/track/75JT334u8Lx25FOMrJWDfQ) | [Thalie MaMbooica](https://open.spotify.com/artist/4QDUrDd9oDGPYb7Rgl8fy7) | [Ntinga Ntaka](https://open.spotify.com/album/6LGuH784qLJaTf03VPcj9s) | 2:30 | 2025-06-13 |  |
 | [JEWO](https://open.spotify.com/track/4jO0ZoVUDh79c9fg7eFI52) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [JEWO](https://open.spotify.com/album/1NaKzEKHBXGC62MHBTgmOW) | 3:05 | 2024-12-16 |  |
 | [Journey](https://open.spotify.com/track/5ReWZfDl0ZaFdhUi617FVp) | [PholaPreye](https://open.spotify.com/artist/1SrQsw28qIWqVzZc3G2EkE) | [Journey](https://open.spotify.com/album/20r4mfuM8UzBn25OnbIogd) | 3:14 | 2025-05-16 |  |
 | [Joy](https://open.spotify.com/track/3fy1cZJ5BwRXJ44Quz9Sum) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Joy](https://open.spotify.com/album/6DyLH9VXRUxCJYoMAOhQ3V) | 2:50 | 2024-11-29 |  |
@@ -104,6 +107,7 @@
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2024-11-29 |  |
 | [Pepper Demm](https://open.spotify.com/track/0GrjQoD0G2nbpjvBa64EPK) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [Pepper Demm](https://open.spotify.com/album/6bZNNrCzbcozLN1ZSCIfS3) | 2:34 | 2025-02-28 |  |
 | [Pressure](https://open.spotify.com/track/6sXhKl8JUaO9g8Q2O1kQtg) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Pressure](https://open.spotify.com/album/4kPmfne7JilXehb88OknDC) | 2:16 | 2025-02-28 | 2025-03-15 |
+| [Pretty Girl](https://open.spotify.com/track/3mbZFN6ZynKRwKt7EDccI1) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Pretty Girl](https://open.spotify.com/album/528NVpD6jexhQKgUnxrFkg) | 3:12 | 2025-06-13 |  |
 | [Pretty Girl Bop](https://open.spotify.com/track/0SAsey25lSxwPdAaGkKZqA) | [Aramide](https://open.spotify.com/artist/3MnR60ldjXYo42lHIZEPvo) | [Hear Me Out](https://open.spotify.com/album/32SYdv9QzscXqSV4tQc1qC) | 2:18 | 2024-11-29 | 2025-03-15 |
 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2024-11-29 |  |
 | [RADAR](https://open.spotify.com/track/3SfQLCyyinfDtOWuHPdkQF) | [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [RADAR](https://open.spotify.com/album/5qCg9cTmTSk3emuSUQGqJb) | 2:52 | 2025-02-28 | 2025-03-29 |

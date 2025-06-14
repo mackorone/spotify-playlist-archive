@@ -4,7 +4,7 @@
 
 > This is Engel Montaz\. The essential tracks, all in one playlist.
 
-105 songs - 5 hr 31 min
+106 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Sense](https://open.spotify.com/track/0KSAb3z3myt8mElbIsRAow) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec) | 2:36 | 2025-05-24 |  |
 | [Sense](https://open.spotify.com/track/62wrOBZ9EBSiLZCIG5buXj) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 2:36 | 2024-07-12 | 2025-05-22 |
 | [Si estoy contigo](https://open.spotify.com/track/0NXbFGO2dDZoarxny3GE1h) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Si estoy contigo](https://open.spotify.com/album/3h5wlOLNHcI3K2FYMJFxXx) | 3:11 | 2024-06-19 | 2024-07-17 |
-| [Si Estoy Contigo \- Bachata](https://open.spotify.com/track/0cyZvSOWFTyE80QXNNraTy) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/0KSoZkdQ8u9uGe6GTFSjDz) | 3:32 | 2025-05-31 |  |
+| [Si Estoy Contigo \- Bachata](https://open.spotify.com/track/2wYbPVYt2C7GKSTDCCKnHm) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec) | 3:32 | 2025-06-14 |  |
+| [Si Estoy Contigo \- Bachata](https://open.spotify.com/track/0cyZvSOWFTyE80QXNNraTy) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/0KSoZkdQ8u9uGe6GTFSjDz) | 3:32 | 2025-05-31 | 2025-06-14 |
 | [Si Estoy Contigo \- Bachata](https://open.spotify.com/track/2MwztolEt0vNsp8tbnNbRs) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 3:36 | 2024-07-17 | 2025-05-31 |
 | [Sin Panty \- Remix](https://open.spotify.com/track/41FYsZQxbBO0hETmJmVIJJ) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [El Bloonel](https://open.spotify.com/artist/78CU7fjwAyxSX6DJFT2khV), [El Fother](https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug), [Montana 70](https://open.spotify.com/artist/7MSEDh4Xt4nvRaEihrZ0ES), [Lyon La Diferencia](https://open.spotify.com/artist/7ssGLdyYoVhq3TrM6dUfGe) | [Sin Panty \(Remix\)](https://open.spotify.com/album/65d8uCZ0dGTOVhsBT6KA4C) | 3:25 | 2024-06-19 | 2024-10-19 |
 | [Soledad](https://open.spotify.com/track/0jzKk6dyyPXCddoXEuKVYM) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Freko](https://open.spotify.com/artist/7paxv0UNX1PYfdn3ZfZFWt), [Koko](https://open.spotify.com/artist/2D1sHU8nG2WKvlMoHFwzg0) | [Soledad](https://open.spotify.com/album/2BO0CNO8lEMKB5tW6MN2Bg) | 3:15 | 2024-06-19 | 2024-10-07 |

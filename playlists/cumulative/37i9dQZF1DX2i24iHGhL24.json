@@ -477,6 +477,24 @@
     },
     {
       "album": {
+        "name": "Always Remember Us This Way",
+        "url": "https://open.spotify.com/album/1f7YYa32O6pDWNOkUUW6Z5"
+      },
+      "artists": [
+        {
+          "name": "Jada Facer",
+          "url": "https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164418,
+      "name": "Always Remember Us This Way",
+      "url": "https://open.spotify.com/track/16PeBkyJ6hq6ZQ5iOaE7nY"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO"
       },
@@ -4340,7 +4358,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 194595,
       "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
       "url": "https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi"

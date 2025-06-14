@@ -4,7 +4,7 @@
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-177 songs - 11 hr 24 min
+178 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Aja Sawariya](https://open.spotify.com/track/1YiwARhwbWkDELenG8Toi6) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Aja Sawariya](https://open.spotify.com/album/3DW4dwDoi4pGl5f55YqsKK) | 2:52 | 2023-08-18 | 2025-03-21 |
 | [Aja Sawariya \- Remix](https://open.spotify.com/track/2c8olBjlarZbL6nUKn0vGM) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [The Spindoctor](https://open.spotify.com/artist/2bUONMhpskrzUmRkpZUVu3) | [Aja Sawariya \(Remix\)](https://open.spotify.com/album/0EfCp9ysBs6OCmckczM2lf) | 2:56 | 2023-09-08 |  |
 | [Akhiyan](https://open.spotify.com/track/3wyfqsbIar6tON17FWVOMC) | [Kahani](https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb), [Shrii](https://open.spotify.com/artist/0kJnDYDVqQebEko4J5Gboo) | [Akhiyan](https://open.spotify.com/album/5Jg99GPnRLymnmYmkfVFwT) | 5:25 | 2024-01-19 |  |
+| [Akhri Raat](https://open.spotify.com/track/3m5s3CNvrg5nX6C60eRfD3) | [Sickflip](https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ), [Indo Warehouse](https://open.spotify.com/artist/0NSnLQRiWg2ZgnfrXaQ9P2), [Arul Seth](https://open.spotify.com/artist/2GHxhIZLapwD1R5nltITFL) | [Akhri Raat](https://open.spotify.com/album/7BchUV4Xjjw6qbmeYotZws) | 6:13 | 2025-06-13 |  |
 | [Ananda](https://open.spotify.com/track/5phLY2ryjCK62989S1HeEc) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Bollywood Super Hits!](https://open.spotify.com/album/4E8Z8tAqCxz884FxZX8xsY) | 3:34 | 2025-02-05 |  |
 | [ASA](https://open.spotify.com/track/5CBTFqctj3Pcepk96hM0vF) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [ASA](https://open.spotify.com/album/2luwSaYCJk1SRCYkhkZs88) | 3:48 | 2023-12-01 | 2024-04-20 |
 | [Asha](https://open.spotify.com/track/5n5Uh4ONedlOFb6kQzfe2k) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Bollywood Super Hits!](https://open.spotify.com/album/4E8Z8tAqCxz884FxZX8xsY) | 3:50 | 2025-02-05 |  |

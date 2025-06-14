@@ -362,7 +362,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 132863,
       "name": "BETTER THAN THAT",
       "url": "https://open.spotify.com/track/5g0eR1a8APtcRfU8CkHBfj"
@@ -546,7 +546,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 227227,
       "name": "CAKE ROULETTE",
       "url": "https://open.spotify.com/track/3OornFGFIJ8TjSXFnLIlNt"
@@ -1949,6 +1949,24 @@
     },
     {
       "album": {
+        "name": "GLOW",
+        "url": "https://open.spotify.com/album/5bN1rEaxjAkoIRRVk6R2iz"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130231,
+      "name": "Keep a Secret",
+      "url": "https://open.spotify.com/track/1ipDqVFgmVOAcboxe9Yiei"
+    },
+    {
+      "album": {
         "name": "Keep It Cool (\u0e19\u0e34\u0e48\u0e07\u0e44\u0e27\u0e49\u0e01\u0e48\u0e2d\u0e19)",
         "url": "https://open.spotify.com/album/3TF6iWQYQ4hR1hF89ErJQy"
       },
@@ -2270,6 +2288,24 @@
       "duration_ms": 245636,
       "name": "Love is so Unreal",
       "url": "https://open.spotify.com/track/6way0VicE5Og0xQDtKG5tl"
+    },
+    {
+      "album": {
+        "name": "WHAT EVE?",
+        "url": "https://open.spotify.com/album/50OcggcChWHTfRhymbu3vO"
+      },
+      "artists": [
+        {
+          "name": "LANDOKMAI",
+          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232279,
+      "name": "Love me still",
+      "url": "https://open.spotify.com/track/2v8iem31YAuBu79aXdwe5s"
     },
     {
       "album": {

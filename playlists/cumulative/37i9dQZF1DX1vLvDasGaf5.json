@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 259433,
       "name": "Step",
       "url": "https://open.spotify.com/track/1WKnB6PMVXX1sDM7LbMmEA"
@@ -844,6 +844,28 @@
       "duration_ms": 191040,
       "name": "\u5c11\u5e74\u671f",
       "url": "https://open.spotify.com/track/1ReCdmB1c7TCxTcaxYK8Z7"
+    },
+    {
+      "album": {
+        "name": "\u85e4\u5b50\u4e0d\u4e8c\u96c4(A) \u751f\u8a9590\u5468\u5e74\u8a18\u5ff5 \u85e4\u5b50\u4e0d\u4e8c\u96c4(A) \u5927\u5168\u96c6",
+        "url": "https://open.spotify.com/album/6JZoh9vOv8lkVaeZPHqPOI"
+      },
+      "artists": [
+        {
+          "name": "\u5800\u7d62\u5b50",
+          "url": "https://open.spotify.com/artist/4EikNVc59jqZySIQocC6ke"
+        },
+        {
+          "name": "\u30b3\u30ed\u30e0\u30d3\u30a2\u3086\u308a\u304b\u3054\u4f1a",
+          "url": "https://open.spotify.com/artist/4oS9xbsyYsTNOiNat3dvpa"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129813,
+      "name": "\u5fcd\u8005\u30cf\u30c3\u30c8\u30ea\u304f\u3093",
+      "url": "https://open.spotify.com/track/00PlRV5QvD3WsE6dHJ8wax"
     },
     {
       "album": {

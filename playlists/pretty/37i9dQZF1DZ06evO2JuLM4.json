@@ -1,12 +1,12 @@
 {
   "description": "This is The White Stripes. The essential tracks, all in one playlist.",
-  "num_followers": 118999,
+  "num_followers": 119011,
   "original_name": "This Is The White Stripes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEjHAAAAAACTtAAzO6Mwb3Bp2VQmq5iM",
+  "snapshot_id": "aEoYgAAAAAAqykqf4C9UcvSdhmHcxr5C",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Nation Army",
-        "url": "https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 126413,
-      "name": "Good To Me",
-      "url": "https://open.spotify.com/track/46An5rnGjzodq0IJltXAuU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hand Springs",
         "url": "https://open.spotify.com/album/5V5XxYMoaaMR7M0Pty3dPa"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 176045,
       "name": "Hand Springs",
       "url": "https://open.spotify.com/track/65oZNFPOkwjLQmYze98niK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seven Nation Army",
+        "url": "https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 126413,
+      "name": "Good To Me",
+      "url": "https://open.spotify.com/track/46An5rnGjzodq0IJltXAuU"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Nation Army",
-        "url": "https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 306453,
-      "name": "Black Jack Davey",
-      "url": "https://open.spotify.com/track/2efxKDJEqUD0Psqdo2qATs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lafayette Blues",
         "url": "https://open.spotify.com/album/4jIUncSLmyr6N6ywGIdkRA"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 135800,
       "name": "Lafayette Blues",
       "url": "https://open.spotify.com/track/0r0CvMR0c7qruSek8agaf0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seven Nation Army",
+        "url": "https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 306453,
+      "name": "Black Jack Davey",
+      "url": "https://open.spotify.com/track/2efxKDJEqUD0Psqdo2qATs"
     },
     {
       "added_at": null,

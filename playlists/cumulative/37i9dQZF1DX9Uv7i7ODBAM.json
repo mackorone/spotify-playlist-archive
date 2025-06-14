@@ -2385,6 +2385,28 @@
     },
     {
       "album": {
+        "name": "\u30de\u30eb\u30ab\u30cd\u767e\u8ca8\u5e97\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/2wHkMOVhhbwgJDfQhBv8qu"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "\u30de\u30eb\u30ab\u30cd\u30ad\u30c3\u30ba",
+          "url": "https://open.spotify.com/artist/1KuRBxi1hTfuWnbx6I0NpL"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47813,
+      "name": "\u30de\u30eb\u30ab\u30cd\u767e\u8ca8\u5e97\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/5kDKh8yFSyrgdw0HrAz2NW"
+    },
+    {
+      "album": {
         "name": "Long Hope Philia",
         "url": "https://open.spotify.com/album/5qaSxvu2mB0lkuvQmeDJdw"
       },

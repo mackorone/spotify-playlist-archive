@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,072 likes - 150 songs - 15 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,115 likes - 150 songs - 15 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 83 | [You Know I Care \- Remastered 2004/Rudy Van Gelder Edition](https://open.spotify.com/track/7eHpseL2CAKKtZmM56SiGV) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Inner Urge \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI) | 7:22 |
 | 84 | [The Blessing](https://open.spotify.com/track/09AXI44IaJq2aeIFpfueAF) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [Something Else!!!!: The Music Of Ornette Coleman \(Original Jazz Classics Remasters\)](https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7) | 4:46 |
 | 85 | [Refuge](https://open.spotify.com/track/0pH6I6QkzMteLP5hN4jBNW) | [Bruce Barth](https://open.spotify.com/artist/5gncn8f4S1TH6B25s2Scq7), [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ), [Mark Hodgson](https://open.spotify.com/artist/4ToDmqGzmiL8Jh4sNyBGjt), [Stephen Keogh](https://open.spotify.com/artist/4QKgrUdq1rBVXYojWp7qAR) | [Sunday](https://open.spotify.com/album/0KFZ6Ao2cF2fAoOdD0hEsf) | 6:41 |
-| 86 | [A Sack Full Of Soul](https://open.spotify.com/track/0J35LZeovLDsokAl3oiu35) | [Rahsaan Roland Kirk](https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV), [Richard Wyands](https://open.spotify.com/artist/7so0lCBJJAfPXVFSvsCYiJ), [Art Davis](https://open.spotify.com/artist/77Cyky7bVlWY7RxhTK0yo6) | [We Free Kings](https://open.spotify.com/album/4ayNl8wrfXJXABMk0L4eRW) | 4:40 |
+| 86 | [A Sack Full Of Soul](https://open.spotify.com/track/0J35LZeovLDsokAl3oiu35) | [Rahsaan Roland Kirk](https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV) | [We Free Kings](https://open.spotify.com/album/4ayNl8wrfXJXABMk0L4eRW) | 4:40 |
 | 87 | [Don't Cry, Just Sigh](https://open.spotify.com/track/0Q9ueLELd8chcwhOT1moRp) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Third Season](https://open.spotify.com/album/5I0pKphkhgnP2wG4eRyMIu) | 6:54 |
 | 88 | [Almost Like Being In Love](https://open.spotify.com/track/5T7Yd8dDaNLeFhv4dRfrkA) | [Jutta Hipp](https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Jutta Hipp With Zoot Sims \(Expanded Edition\)](https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2) | 6:16 |
 | 89 | [Dukes Place](https://open.spotify.com/track/5CPy7jJup06T0xfzYK7xwr) | [Paul Gonsalves](https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4) | [Tell It The Way It Is](https://open.spotify.com/album/22Nw7i0lxcEYho6G5kWPLi) | 5:28 |

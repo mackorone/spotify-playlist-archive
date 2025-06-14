@@ -1,13 +1,49 @@
 {
   "description": "Featuring that new vintage. Cover: grentperez",
-  "num_followers": 417948,
+  "num_followers": 417914,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEJn0wAAAADj1TOZJ2jRID2dBGBC9h95",
+  "snapshot_id": "AAAAAGkBBdJ5IXf46wBdAY+odoEfim6m",
   "tracks": [
+    {
+      "added_at": "2025-06-13 16:00:28",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 197116,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
+    },
+    {
+      "added_at": "2025-06-13 16:00:28",
+      "album": {
+        "name": "Suzanne",
+        "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 235328,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
+    },
     {
       "added_at": "2025-06-06 04:00:19",
       "album": {
@@ -239,22 +275,6 @@
       "duration_ms": 153147,
       "name": "Gloves Off",
       "url": "https://open.spotify.com/track/5nQ2G1VANbt39RrsLAPU5k"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Leon",
-        "url": "https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Panther City",
-      "url": "https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1319,22 +1339,6 @@
       "duration_ms": 191012,
       "name": "When You Lose Someone (Acoustic)",
       "url": "https://open.spotify.com/track/6eqWfdpYkmPZYX9iW5PRBZ"
-    },
-    {
-      "added_at": "2022-05-17 14:55:58",
-      "album": {
-        "name": "Freedom (Johnny's Song)",
-        "url": "https://open.spotify.com/album/3tokyVoifEsiREY3QVVsIw"
-      },
-      "artists": [
-        {
-          "name": "Gavin DeGraw",
-          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
-        }
-      ],
-      "duration_ms": 252026,
-      "name": "Freedom (Johnny's Song)",
-      "url": "https://open.spotify.com/track/6t5GWZG3EtEwjGdHSnZPJq"
     },
     {
       "added_at": "2022-06-17 04:02:00",

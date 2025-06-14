@@ -2760,7 +2760,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 152144,
       "name": "Arunca-ma La Lei",
       "url": "https://open.spotify.com/track/7ey9WXRJsnb9Bgsg7U41xb"
@@ -7538,7 +7538,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 169697,
       "name": "Ciocolata",
       "url": "https://open.spotify.com/track/1CbI1EWcf3KFg4QJsKa3aT"
@@ -19538,7 +19538,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 149848,
       "name": "KAD!LAC",
       "url": "https://open.spotify.com/track/7kgl0bzkbUW5hFWtDyx5PZ"
@@ -21860,7 +21860,7 @@
       ],
       "date_added": "2025-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 135000,
       "name": "Lumea toat\u0103",
       "url": "https://open.spotify.com/track/58O3BIz0uZFNojhXOH7Llk"
@@ -27661,6 +27661,44 @@
     },
     {
       "album": {
+        "name": "Panic\u0103",
+        "url": "https://open.spotify.com/album/0t7cT4W1flonj3PDTgHmwu"
+      },
+      "artists": [
+        {
+          "name": "ZERO$OMN",
+          "url": "https://open.spotify.com/artist/4s0fHxjTSCuPHCuWtjtSjj"
+        },
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        },
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        },
+        {
+          "name": "Tussin",
+          "url": "https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb"
+        },
+        {
+          "name": "candyboii",
+          "url": "https://open.spotify.com/artist/3E7XNzGG6qqnjwV9nOCxQM"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235826,
+      "name": "Panic\u0103",
+      "url": "https://open.spotify.com/track/01tBcq5AY8j9ZjpZPlwxhx"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
       },
@@ -30638,7 +30676,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 157040,
       "name": "Regele Junglei",
       "url": "https://open.spotify.com/track/67783GIuCTbUfHg7NrL2Tl"
@@ -32690,7 +32728,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 159011,
       "name": "SELFWASH",
       "url": "https://open.spotify.com/track/61GJk5rl09EB2I0emL23Op"
@@ -34332,7 +34370,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 159194,
       "name": "Spania",
       "url": "https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ"
@@ -36754,7 +36792,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 174246,
       "name": "TE CAUT",
       "url": "https://open.spotify.com/track/0pn15mDMGCOICIyWZFH7LD"
@@ -40304,7 +40342,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 180393,
       "name": "Vino s\u0103 te f",
       "url": "https://open.spotify.com/track/2AKfAnct7MFEglIueZ7ROM"

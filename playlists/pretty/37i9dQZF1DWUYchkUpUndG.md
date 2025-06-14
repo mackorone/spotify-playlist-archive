@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: S.O.N Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,272 likes - 98 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,362 likes - 98 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 40 | [Hallelujah Chant \- Orchestral](https://open.spotify.com/track/02rAEEHi4VtLUorhyPioYx) | [Noble G](https://open.spotify.com/artist/5QMR3QbX1ufqYCWPsphyUm) | [Hallelujah Chant \(Orchestral\)](https://open.spotify.com/album/5qrIZZWPupHpGRxq687qQb) | 2:14 |
 | 41 | [DO IT LORD \- Worship](https://open.spotify.com/track/1BGimMnsJJOQhlslHYGwdy) | [Update Music Gang](https://open.spotify.com/artist/0gAJAc2QFcEvE3JhbGPXcc) | [BEAUTIFUL GOD](https://open.spotify.com/album/5NVVBKMramM9mwRrY8fClt) | 5:13 |
 | 42 | [Wake Us Up](https://open.spotify.com/track/5Da7RICQW8CMTDUw9bMClb) | [Salt & Grace](https://open.spotify.com/artist/2yaom9TYZfkhHXgk3Zr3sy) | [Wake Us Up](https://open.spotify.com/album/1cjYTIgFPwsGzsBV9dn8Lc) | 4:24 |
-| 43 | [YESU](https://open.spotify.com/track/7r3jWS2kmgeA04uIgiv0OL) | [Kdfromthepack](https://open.spotify.com/artist/4okNmvwnCdNJhRQGPxUi4R), [Jayy Brown](https://open.spotify.com/artist/2fxgXM6gZJD4XlRl2Dg4hE), [GodBrothers](https://open.spotify.com/artist/4Q7GTkhjuSjH3KJ3jaJwUh) | [GodBrothers](https://open.spotify.com/album/4yJlOvFK8auJQIxOKOwsoX) | 2:33 |
+| 43 | [YESU](https://open.spotify.com/track/7r3jWS2kmgeA04uIgiv0OL) | [Kdfromthepack](https://open.spotify.com/artist/4okNmvwnCdNJhRQGPxUi4R), [Jayy Brown](https://open.spotify.com/artist/2fxgXM6gZJD4XlRl2Dg4hE), [GodBrothers](https://open.spotify.com/artist/2p12W94UFWEY2EnlsaTMfr) | [GodBrothers](https://open.spotify.com/album/4yJlOvFK8auJQIxOKOwsoX) | 2:33 |
 | 44 | [Give Thanks](https://open.spotify.com/track/6YDrN7qdCDZQUfzAZx2YGo) | [ECHO EDGE](https://open.spotify.com/artist/1hlvpNS7MoN7MlfxcxxQ8j), [Zic Music](https://open.spotify.com/artist/4Lhk9QRuOkcVzs140NrOyu), [Ayokunle](https://open.spotify.com/artist/3YIAAueeWTrjMcuQjGewkG) | [Give Thanks](https://open.spotify.com/album/6GGCuid7YpD79wire3QMx1) | 2:36 |
 | 45 | [Higher Higher](https://open.spotify.com/track/6cbVOzZwlhElWQBe7eQANW) | [DJ Samtop](https://open.spotify.com/artist/1QO8Ftp8j6Tlo9PJiB73Mi), [Liyia](https://open.spotify.com/artist/2PNfnkkF3KCEGfJQ2JbyEa), [Awesome](https://open.spotify.com/artist/3h7uOXHRKM8RdmzRQ0LoSa) | [Higher Higher](https://open.spotify.com/album/2t2scdYh8IiDf64JtAjd8N) | 2:25 |
 | 46 | [No Other God](https://open.spotify.com/track/6LAjADuoWAnsCxAfkykrZC) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [No Other God](https://open.spotify.com/album/4howwQVotDdx6M06PKHnzo) | 1:59 |

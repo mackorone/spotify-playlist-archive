@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,267,921 likes - 230 songs - 12 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,267,793 likes - 230 songs - 12 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 229 | [Hold On To Me](https://open.spotify.com/track/2X3MLtAHDPfwYyg6wfSaiY) | [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94), [Koko LaRoo](https://open.spotify.com/artist/4ldIyz6hptVfXelMQcdae2) | [Hold On To Me](https://open.spotify.com/album/0sSxQyiUkhe42OFtBk0ygo) | 2:48 |
 | 230 | [Say My Name](https://open.spotify.com/track/2fbgpGt8u8ErxMT2cruio8) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Say My Name](https://open.spotify.com/album/6RA60E1Fm7C2Up4aKRDLcV) | 2:17 |
 
-Snapshot ID: `aEJn1gAAAADECVW2dcjymJkVh2Rofq1b`
+Snapshot ID: `aEuibgAAAACd7N2HoJtr1/cnbzjQ9CAm`

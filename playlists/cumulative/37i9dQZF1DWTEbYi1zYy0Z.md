@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-513 songs - 1 day 12 hr 15 min
+515 songs - 1 day 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Be Here](https://open.spotify.com/track/4yGsW0sP0jcyxxxohnc6Y4) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [Solid](https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F) | 3:33 | 2020-10-30 | 2022-03-18 |
 | [Because of Who You Are \(Instrumental\)](https://open.spotify.com/track/7mBype4FhRTYuF4u9rdmdc) | [Uriel Vega](https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg) | [Because of Who You Are \(Instrumental\)](https://open.spotify.com/album/7CCKQMYC2LEy4or4Wq0Il6) | 4:26 | 2024-06-14 |  |
 | [Believe](https://open.spotify.com/track/27Ip6QauFp1x7uU5UZd1Ze) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Believe](https://open.spotify.com/album/32c0L5aOhKRswoVsOhvqwu) | 4:13 | 2022-04-01 | 2023-04-22 |
+| [Believe It](https://open.spotify.com/track/1BnlPJ1k8IDsTTYOhqjBcM) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [The Chill](https://open.spotify.com/album/2aZzTYQNtIw7vn9daBAqi8) | 4:24 | 2025-06-13 |  |
 | [Beso Del Sol](https://open.spotify.com/track/41vto3mbPg7SSOgjKkqAuA) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Beso Del Sol](https://open.spotify.com/album/3SQwtaq5q0kv1nsHCtnnNH) | 4:46 | 2025-03-21 | 2025-04-05 |
 | [Better Days Ahead](https://open.spotify.com/track/6CqeUptmJGIeNdUp12wNOB) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G\-Stream](https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS) | 4:51 | 2021-02-05 | 2022-03-17 |
 | [Beyond Forever](https://open.spotify.com/track/0jvBqqyD6vQ4qbc1YyDDAy) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [ELEVATE](https://open.spotify.com/album/11KKKkOWkA985ntArrJTbF) | 4:57 | 2020-10-30 | 2021-12-30 |
@@ -164,7 +165,7 @@
 | [Float](https://open.spotify.com/track/4zVo95cjwpGFBFtyODKJcc) | [Blair Bryant](https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq) | [Float](https://open.spotify.com/album/2e8uLf2PwWsjqf4NFMN2Xh) | 4:19 | 2024-02-16 |  |
 | [Floating World](https://open.spotify.com/track/0N6m07WovyMuXdNLgZLQhf) | [Bluey](https://open.spotify.com/artist/3JYDa2gsS6juqnzBT9wdm9) | [Heading Wes](https://open.spotify.com/album/66s83mgb3o3pu8Y8KXyMPS) | 3:21 | 2020-10-30 | 2022-02-03 |
 | [Floating World](https://open.spotify.com/track/0ZUeaIWcAtNikrncaYwjHl) | [Bluey](https://open.spotify.com/artist/3JYDa2gsS6juqnzBT9wdm9) | [Heart To Heart](https://open.spotify.com/album/1gEIjtUpPwXR0VtbNONThq) | 3:21 | 2021-01-22 | 2022-03-09 |
-| [Flow](https://open.spotify.com/track/36tUynQfikBMxs8CzHUWJ7) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg), [Mike "Big Mike" Hart](https://open.spotify.com/artist/0w8zYoQhaEgTicuoFKpCYV) | [Flow](https://open.spotify.com/album/4L2cWfX8037pnNrUsPzCnk) | 3:06 | 2025-05-09 |  |
+| [Flow](https://open.spotify.com/track/36tUynQfikBMxs8CzHUWJ7) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg), [Mike "Big Mike" Hart](https://open.spotify.com/artist/0w8zYoQhaEgTicuoFKpCYV) | [Flow](https://open.spotify.com/album/4L2cWfX8037pnNrUsPzCnk) | 3:06 | 2025-05-09 | 2025-06-14 |
 | [Fluid](https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [Fluid](https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH) | 4:25 | 2021-01-22 | 2022-03-18 |
 | [Fly By](https://open.spotify.com/track/0oNPCOuuS2RzBgFgJX8kdt) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Unstoppable](https://open.spotify.com/album/3yzAabPvqBDSnN1vBe3RQY) | 4:15 | 2024-03-22 |  |
 | [Foolish Heart](https://open.spotify.com/track/2GYcLZuDL2u26oqwYILFTk) | [Johnny "Dr\. J" James](https://open.spotify.com/artist/7bZOiRuWfaU6RMAxz1XqsR), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Foolish Heart](https://open.spotify.com/album/5cUUrej4rYW0RjDH6zNsxO) | 3:37 | 2022-03-04 | 2022-07-29 |
@@ -337,7 +338,7 @@
 | [Ocean Of Love](https://open.spotify.com/track/53i32tmdLAdHRFreWJUfsJ) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5), [Adam Holzman](https://open.spotify.com/artist/1Q4wpwTWP02Nxfa4oTJDlO) | [Ocean Of Love](https://open.spotify.com/album/3PAQowcQirHSZhyyrLtyoY) | 4:08 | 2021-05-07 | 2022-03-09 |
 | [Off the Cuff](https://open.spotify.com/track/5Rfe42z4hAZae1jrQaogem) | [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [Off the Cuff](https://open.spotify.com/album/52X8pH95UmbAMg9OnVjUMF) | 4:07 | 2021-05-28 | 2022-03-18 |
 | [Off The Top \- radio single](https://open.spotify.com/track/6kp0EMPhVaxY4HSo9vjSVV) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Off The Top](https://open.spotify.com/album/5BjKIGb4H5EVxaIhLgaR4a) | 4:19 | 2022-09-23 | 2023-07-22 |
-| [On Cue](https://open.spotify.com/track/7h6eJosC9GG9AfsnGFJWMc) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [On Cue](https://open.spotify.com/album/79jVgrYIs5r3IaSSW6k1uI) | 3:49 | 2023-05-05 |  |
+| [On Cue](https://open.spotify.com/track/7h6eJosC9GG9AfsnGFJWMc) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [On Cue](https://open.spotify.com/album/79jVgrYIs5r3IaSSW6k1uI) | 3:49 | 2023-05-05 | 2025-06-14 |
 | [On the Money](https://open.spotify.com/track/2afEubhliVkGKvfwFcXDsA) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Smoke and Mirrors](https://open.spotify.com/album/5lSBlPnPALAylceUuFyI4z) | 3:51 | 2021-06-18 | 2022-07-28 |
 | [On The Move](https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [On The Move](https://open.spotify.com/album/4pBNj3JonyIgHr9VBzjUUS) | 4:10 | 2021-08-13 | 2022-09-17 |
 | [On the Up and Up](https://open.spotify.com/track/2VGeV6n8YqmOoOY0zhOBeB) | [Michael Manson](https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v) | [On the Up and Up](https://open.spotify.com/album/0fendbHIfxrBOViSQahezC) | 4:08 | 2023-10-13 |  |
@@ -462,6 +463,7 @@
 | [The Sailor](https://open.spotify.com/track/6bGtyIx8T1Ju65CTrcawwl) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5), [Ed Roth](https://open.spotify.com/artist/7EBeeH2oJR0OXd0mPSv6PD) | [The Sailor](https://open.spotify.com/album/1N3Y4lr7CBNDDfjLLLmHA0) | 4:33 | 2021-06-18 | 2022-09-17 |
 | [The Thing Is...](https://open.spotify.com/track/74TMwWbbqCMNtie5jGo7rL) | [Dee Brown](https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7) | [The Thing Is...](https://open.spotify.com/album/7sQfXibE5MKsDrEgZLMC9K) | 3:58 | 2023-08-18 | 2025-03-29 |
 | [The Thrill of Rain](https://open.spotify.com/track/24dR9CKoNg8zZ5SMhedZB3) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Twice As Nice](https://open.spotify.com/album/5qhN4XroM8EXopUNSmq4Vi) | 3:59 | 2021-04-23 | 2022-03-18 |
+| [The Way That You Love Me](https://open.spotify.com/track/1bht7qxKmEkxfCbCfGvrCO) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4), [Delisha Thomas](https://open.spotify.com/artist/4AHHoqfQUiQVJhzECOtzHr) | [Based On A True Story](https://open.spotify.com/album/37O5Fu09HB8zQcrYnV2bsF) | 3:50 | 2025-06-13 |  |
 | [The Way You Sway \- radio single](https://open.spotify.com/track/2mUhN5Vj8cstLX50BAnDpq) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [The Way You Sway](https://open.spotify.com/album/0UFcEb8TeFUf08KlyxNyWX) | 4:18 | 2024-06-28 | 2025-01-04 |
 | [The Weekend](https://open.spotify.com/track/4ZRJKcvq2NKpw1wHP5MwqS) | [Nicholas Cole](https://open.spotify.com/artist/2dhHHEVRMiRwYPzogPfmco) | [The Weekend](https://open.spotify.com/album/1AuE8kvj5qqMFcV53Um7tw) | 3:59 | 2020-10-30 | 2022-03-18 |
 | [The Winds of Change](https://open.spotify.com/track/4BwFSH3jSwvqx5SOP9Fxhr) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5), [Fahir Atakoglu](https://open.spotify.com/artist/4zbXSXn32mW4u8p3sDFYc4) | [The Winds of Change](https://open.spotify.com/album/4PTqWXV53JV7KXwrqdIrzf) | 3:35 | 2021-05-21 | 2022-03-07 |

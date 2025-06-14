@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With Laureline, The Wild Wind, Rhineland and more
+> With Laureline, The Wild Wind, LAVE and more
 
 1,421 songs - 3 day 19 hr 9 min
 
@@ -174,7 +174,7 @@
 | [Blow My Cover](https://open.spotify.com/track/4NIUFVZMIbJ7D7XffrH45W) | [Ed Patrick](https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx) | [Barcelona](https://open.spotify.com/album/0WzGrncoxuIaszd8cQ0afe) | 2:48 | 2022-06-24 | 2024-02-18 |
 | [Blue Eyes](https://open.spotify.com/track/17gfRTJU567pkXrZOVyvv6) | [John Kim](https://open.spotify.com/artist/7Bav1xOmJ2XxpnrTFCPaDl) | [Blue Eyes](https://open.spotify.com/album/4LWrXM3zrQpgoHCcXu6n6r) | 3:43 | 2022-03-09 | 2022-03-17 |
 | [Blue Eyes](https://open.spotify.com/track/3TTCQYeJxcDnFLLSxymClQ) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Blue Eyes](https://open.spotify.com/album/2kKU6f7kd8Pmt0554rz1iN) | 4:21 | 2022-05-27 | 2024-04-25 |
-| [Blue Eyes](https://open.spotify.com/track/6e6jrSoJq75MYe3jgCpY0C) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Late Night Radio](https://open.spotify.com/album/0vaf3vF3Y0yKj7EnBVlAYQ) | 4:21 | 2024-05-05 | 2025-06-13 |
+| [Blue Eyes](https://open.spotify.com/track/6e6jrSoJq75MYe3jgCpY0C) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Late Night Radio](https://open.spotify.com/album/0vaf3vF3Y0yKj7EnBVlAYQ) | 4:21 | 2024-05-05 |  |
 | [Blue Sky](https://open.spotify.com/track/4VnossxljgHBkVub5pVvGy) | [Hardcastle](https://open.spotify.com/artist/6L95H90mXRQPcFar4Q7tAm) | [Blue Sky](https://open.spotify.com/album/5ztqskMF3x7fKKWktXUDH7) | 2:39 | 2023-12-24 | 2024-01-02 |
 | [Blue Sky](https://open.spotify.com/track/5zhBI8cHr21Rq7tKfJz6C2) | [Hardcastle](https://open.spotify.com/artist/6L95H90mXRQPcFar4Q7tAm) | [Blue Sky](https://open.spotify.com/album/6lULHmHpYcAj8X8z1CS0lB) | 2:39 | 2022-10-15 | 2022-10-16 |
 | [Bluebird](https://open.spotify.com/track/3G1Zpxk5suXASMAYITJHXJ) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Safety](https://open.spotify.com/album/6tgbjRYSkt8AHTBwG4lP3u) | 4:52 | 2022-02-03 | 2022-02-04 |
@@ -202,7 +202,7 @@
 | [Brooklyn](https://open.spotify.com/track/1Mk77ZCLBBMquaupM9kndp) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Monsters](https://open.spotify.com/album/1WKMbxcldmwnXaCIGgEpUW) | 4:14 | 2022-10-15 | 2024-09-03 |
 | [Bulletproof](https://open.spotify.com/track/16gv4yjLpmotSJKxxEjabN) | [Boundary Run](https://open.spotify.com/artist/1hJO0ngj5eZT0uNzuZpXi8) | [Bulletproof](https://open.spotify.com/album/5LV9CVV4GP1Jvncl8XGFqj) | 3:18 | 2022-04-30 | 2023-08-26 |
 | [Bulletproof](https://open.spotify.com/track/79TtJqrG3cGAu3H7StbLo8) | [Boundary Run](https://open.spotify.com/artist/1hJO0ngj5eZT0uNzuZpXi8) | [Ruminations](https://open.spotify.com/album/3ywsSe0AcPuKJQCVxEmX8P) | 3:18 | 2024-04-01 | 2024-04-02 |
-| [Burn](https://open.spotify.com/track/0yN6WW3Icvw3847Xab21zt) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Dreams You Don't Forget](https://open.spotify.com/album/1SIZ2zghRyCAvozSaMrA7Q) | 3:37 | 2024-04-28 |  |
+| [Burn](https://open.spotify.com/track/0yN6WW3Icvw3847Xab21zt) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Dreams You Don't Forget](https://open.spotify.com/album/1SIZ2zghRyCAvozSaMrA7Q) | 3:37 | 2024-04-28 | 2025-06-14 |
 | [Burn](https://open.spotify.com/track/4glRuGLzYN6uT7NC56tQ18) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Dreams You Don't Forget](https://open.spotify.com/album/3PJe5CI9HcvQaQtDvCZmS4) | 3:37 | 2021-12-05 | 2024-04-25 |
 | [Burn \(Native\)](https://open.spotify.com/track/45sQD75tuYOlv27LzhKbYL) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Native Nights](https://open.spotify.com/album/3CHr0cDbrokEXlIXer8zZv) | 3:43 | 2024-04-23 | 2025-05-30 |
 | [Burn \(Native\)](https://open.spotify.com/track/5irLadDUugNUfoE0oLPnu4) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Native Nights](https://open.spotify.com/album/0xvQ7L5n8hrtos7jelV5h5) | 3:43 | 2022-03-09 | 2023-12-20 |
@@ -483,7 +483,7 @@
 | [Get You Out](https://open.spotify.com/track/3fdSUF8i5E6rWIqBjNqJ6F) | [Antigon](https://open.spotify.com/artist/3YPPVZi2rGfFGvd0YS5nwA) | [Get You Out](https://open.spotify.com/album/4pCLAH44OAcqoMC0Pq26N4) | 3:12 | 2022-04-13 | 2022-04-14 |
 | [Ghost](https://open.spotify.com/track/1VYXQ5Zi9M9bhDOi91hcAu) | [By The Coast](https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm) | [Ghost](https://open.spotify.com/album/3d8K4PoodSlqGcQxq21s2x) | 4:10 | 2022-05-03 | 2022-05-04 |
 | [Ghost Hotel](https://open.spotify.com/track/2K3GO3EUiNtMEgvbBlU9MU) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Night Traveler, Vol\. 1](https://open.spotify.com/album/3vUaX4cWihJEy1WxjLMQL6) | 3:39 | 2021-12-01\* | 2024-04-26 |
-| [Ghost Hotel](https://open.spotify.com/track/6Bgy71MzE99kjyqWRKWpKh) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Night Traveler, Vol\. 1](https://open.spotify.com/album/1PqJtKKARY9XSoR9527Teu) | 3:39 | 2024-04-27 |  |
+| [Ghost Hotel](https://open.spotify.com/track/6Bgy71MzE99kjyqWRKWpKh) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Night Traveler, Vol\. 1](https://open.spotify.com/album/1PqJtKKARY9XSoR9527Teu) | 3:39 | 2024-04-27 | 2025-06-14 |
 | [Ghosts of my Hometown](https://open.spotify.com/track/0pKYQ2U4RnhIKS2gz2KFi3) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [Faint of Heart](https://open.spotify.com/album/3Sm362TyQy9CmZ1DVhmlYF) | 3:33 | 2021-12-07 | 2022-03-02 |
 | [Girl, Say](https://open.spotify.com/track/2YMVlnf2RsgVrQpi2g6KWI) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Girl, Say](https://open.spotify.com/album/56xuqlRm2ssGeFIwrsHCJY) | 4:02 | 2022-04-30 | 2024-04-15 |
 | [Girl, Say](https://open.spotify.com/track/4inpAv8q2lf5PNyUcGEgxf) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Girl, Say](https://open.spotify.com/album/6OULq1kw253Md9qTBy2f4W) | 4:02 | 2022-04-16 | 2022-04-17 |
@@ -828,7 +828,7 @@
 | [Midnight in Miami](https://open.spotify.com/track/6mvrtlUzQYSvZQaWvvzqvZ) | [Heart Of Gold](https://open.spotify.com/artist/4hqo1pdNrZHfPmSmTtMvUZ) | [Midnight in Miami](https://open.spotify.com/album/6aAV39pK8V2hFp6jjgB9pK) | 3:59 | 2022-03-26 | 2022-03-27 |
 | [Midnight in NM](https://open.spotify.com/track/6FeH7h36FVmXWTBlZwxURA) | [Scott Ruth](https://open.spotify.com/artist/4pOiomYw0DRSNFPMLmKESa) | [Telephone EP](https://open.spotify.com/album/6CTHz8m8msKXxF2WC4ccB8) | 4:21 | 2024-11-30 | 2024-12-01 |
 | [Miles Ahead](https://open.spotify.com/track/2MKJD3HJ8CaHL9c2c46i93) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [Miles Ahead](https://open.spotify.com/album/0eSTwqBo56JOxuT2QLz8pV) | 4:05 | 2021-12-02 | 2022-03-08 |
-| [Miles Ahead](https://open.spotify.com/track/4YTY53IsP2suUTVilL4Vex) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [The Lost Years](https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e) | 4:05 | 2022-11-07 |  |
+| [Miles Ahead](https://open.spotify.com/track/4YTY53IsP2suUTVilL4Vex) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [The Lost Years](https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e) | 4:05 | 2022-11-07 | 2025-06-14 |
 | [Miles Ahead](https://open.spotify.com/track/5OLFxOWe0DifvjtNaYlR4w) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [Miles Ahead](https://open.spotify.com/album/5lCCPoqOoD2LHc9ofICCqo) | 4:05 | 2022-08-23 | 2022-10-11 |
 | [Mindreader](https://open.spotify.com/track/55oEOALXYVNkp1t9o3Dvxv) | [Yueku](https://open.spotify.com/artist/2aIlWzhu6bf22kYohuabVj) | [Mindreader](https://open.spotify.com/album/7wd57O0aWpoEQaTwBoQ381) | 3:34 | 2022-07-18 | 2022-09-12 |
 | [Mine!](https://open.spotify.com/track/1jXwFfEcr5B03cwn6YGYd2) | [Adam Ragsdale](https://open.spotify.com/artist/2aKWtObj45bDkX1f2E4Eom) | [Moon, Part One](https://open.spotify.com/album/1FnUAG453E4de7qG5LZOMO) | 4:00 | 2022-10-14 | 2022-10-15 |
@@ -1320,11 +1320,11 @@
 | [Warm with You](https://open.spotify.com/track/0Pj6KjqwmJNdIOttPShZC9) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Warm With You](https://open.spotify.com/album/6Y3aUcxeYhAbv6CBgKXZ0R) | 4:07 | 2022-06-01 | 2023-08-22 |
 | [Wash](https://open.spotify.com/track/28eTBuDrB4pGDPL8VtutVL) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Wash](https://open.spotify.com/album/13PivTjVtAlNX45TRXKqB4) | 4:46 | 2022-10-11 | 2022-10-12 |
 | [Wash](https://open.spotify.com/track/5geOnnY2JELFAlYORpvCEW) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Wash](https://open.spotify.com/album/3X4oLQ5APFlwryQnOeNtYJ) | 4:46 | 2022-04-09 | 2022-08-16 |
-| [Washed Wine](https://open.spotify.com/track/6ZEdXD3Eeh34PPNXcF0Tdz) | [LAVE](https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp) | [Washed Wine](https://open.spotify.com/album/6cPnpY4PBuarcZVCOkddjA) | 3:39 | 2021-12-08 | 2025-06-13 |
+| [Washed Wine](https://open.spotify.com/track/6ZEdXD3Eeh34PPNXcF0Tdz) | [LAVE](https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp) | [Washed Wine](https://open.spotify.com/album/6cPnpY4PBuarcZVCOkddjA) | 3:39 | 2021-12-08 |  |
 | [Wasted](https://open.spotify.com/track/5p2Kha8AAJJUwfkYwCQoWk) | [Lonas](https://open.spotify.com/artist/4IK8Q9friPfYKvX4n83vYL) | [YOUTH II](https://open.spotify.com/album/5vnD9JpLH7r8RMxmywFRgR) | 3:41 | 2024-01-20 | 2024-01-25 |
 | [Wasted Nights](https://open.spotify.com/track/374EbBaIwl1iq65j7rlGQ8) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [Nowhere Land](https://open.spotify.com/album/0VK286bf0SBVyB4NjdJwcz) | 3:10 | 2022-03-22 | 2022-03-23 |
 | [Wastelanders Paradise](https://open.spotify.com/track/0WRWaMxWH6UENygl1MjrNV) | [Zack Hall](https://open.spotify.com/artist/3phKKoGwK35CYmLZ3EmLay) | [Wastelanders Paradise](https://open.spotify.com/album/2s03AxNA7sBfBUQY1IBzYY) | 3:33 | 2023-12-14 | 2023-12-18 |
-| [Watching You](https://open.spotify.com/track/0FFtIOqGVcjRdEpMxZVIRV) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Dreams You Don't Forget](https://open.spotify.com/album/1SIZ2zghRyCAvozSaMrA7Q) | 4:27 | 2024-05-07 | 2025-06-13 |
+| [Watching You](https://open.spotify.com/track/0FFtIOqGVcjRdEpMxZVIRV) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Dreams You Don't Forget](https://open.spotify.com/album/1SIZ2zghRyCAvozSaMrA7Q) | 4:27 | 2024-05-07 |  |
 | [Watching You](https://open.spotify.com/track/2eqmaS8xZHhXKntSa3b6YT) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Dreams You Don't Forget](https://open.spotify.com/album/3PJe5CI9HcvQaQtDvCZmS4) | 4:27 | 2021-12-01\* | 2024-04-24 |
 | [Waterfalls](https://open.spotify.com/track/4RbWj6oavC4ZFW1QCyKutM) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [New, 2016](https://open.spotify.com/album/0IiH1yJ7KOs42ZDZTsMeyc) | 4:29 | 2022-03-16 | 2022-10-16 |
 | [Waterfalls](https://open.spotify.com/track/7qFYP1wFF32BGhQpbTniVT) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [New, 2016](https://open.spotify.com/album/6HmSj9GtX1o1rYb6NrB1TE) | 4:29 | 2023-05-09 | 2023-05-30 |

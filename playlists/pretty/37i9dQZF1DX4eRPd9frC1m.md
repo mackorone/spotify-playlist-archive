@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,591,027 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,590,976 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 74 | [fw me \(dirty\)](https://open.spotify.com/track/23bMrDNmqXJYfe8cY6Sw49) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [nolimit](https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv) | 2:50 |
 | 75 | [Protocol](https://open.spotify.com/track/2JqvYABtzlyJ7XI2KOW0QV) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC) | [OMEN](https://open.spotify.com/album/08l9hwOKLZT7J3UazDDgzc) | 2:18 |
 
-Snapshot ID: `aEMQiQAAAAAwiODPWSpI5AJYPaLe3lJr`
+Snapshot ID: `aEw0rAAAAABXXrZYKSC5Uoju7ip3yT5B`

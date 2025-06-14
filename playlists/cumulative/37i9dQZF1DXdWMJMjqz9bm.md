@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap, a little bit of country? Cover: Lil Tecca
 
-728 songs - 1 day 9 hr 14 min
+729 songs - 1 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Don't Trip](https://open.spotify.com/track/4kYzEV2PbBVUzrU5G6AScl) | [B00sted](https://open.spotify.com/artist/4euUANc6f6VpwUfymwi1Ju) | [Don't Trip](https://open.spotify.com/album/6Om2bXRbFBpO6Lttp7Iqcb) | 2:17 | 2025-03-24 | 2025-04-30 |
 | [Don't Wanna Fall In Love](https://open.spotify.com/track/1YakuHfzKxjnseCEeVQtrY) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Smyle \(Extended\)](https://open.spotify.com/album/7ramtTKrOVLzbPjzGbSJgr) | 3:52 | 2022-04-04 | 2022-07-09 |
 | [Don’t HMU](https://open.spotify.com/track/7cwaJRJ77yHcRizUtNGIUv) | [Anella](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Season 3: I Made You](https://open.spotify.com/album/1WQdI2ZpWk0VMHassJD0U8) | 1:38 | 2024-10-18 | 2025-05-17 |
+| [Don’t Rush](https://open.spotify.com/track/5PhLPmHezPl0ZmcsTRnSqC) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:24 | 2025-06-13 |  |
 | [Doses](https://open.spotify.com/track/7BuzrXNz1be3Ko6r77fGJK) | [TheHxliday](https://open.spotify.com/artist/2e3LzbZx1VP4wBNFCaxZVD) | [Doses](https://open.spotify.com/album/0g8Vpwny9zWPCbZehp2OJn) | 3:12 | 2021-11-16 | 2022-02-19 |
 | [dreamerboi](https://open.spotify.com/track/0LDYevJeLyC0gXiohSvcoi) | [Alan Fiore](https://open.spotify.com/artist/7n0LV0swUfy2RXrZByeNxI) | [dreamerboi](https://open.spotify.com/album/0CfVqR4YYQMWEQuKkcTGcy) | 2:17 | 2022-08-26 | 2022-10-15 |
 | [Drives](https://open.spotify.com/track/4MOjkGH2sVPELfgpZ5AvwK) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Drives](https://open.spotify.com/album/7fe0FHC1dSAzgBI6hix4zQ) | 2:53 | 2024-02-02 | 2024-06-01 |
@@ -234,7 +235,7 @@
 | [Flip](https://open.spotify.com/track/1WKq2z9qobfyQs3VMnAF9h) | [Delawou](https://open.spotify.com/artist/09ncWvqVNRg92iWAnzn3Gt), [Kennyon Brown](https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5) | [Flip](https://open.spotify.com/album/6MK0vzutpi0ekxM63AJ3Ur) | 3:29 | 2023-01-13 | 2023-03-18 |
 | [Float](https://open.spotify.com/track/7B2bBV0UHQwjuumnpr461D) | [Justin Starling](https://open.spotify.com/artist/6W1bAsrekT64MxjeN9UCg0) | [Float](https://open.spotify.com/album/2BF22IRfGkJhNsdDYxVE7r) | 1:33 | 2022-04-01 | 2022-06-11 |
 | [Floats My Boat](https://open.spotify.com/track/2xH94bp1TPSMPPPnnSwIGL) | [Aer](https://open.spotify.com/artist/25hbSOMmbhgqvonjC876UJ) | [The Bright Side](https://open.spotify.com/album/3p6L2cN8kt6nOVL1TUtPWZ) | 3:26 | 2022-04-14 | 2023-07-15 |
-| [FLY](https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [FLY](https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX) | 2:37 | 2025-04-15 |  |
+| [FLY](https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [FLY](https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX) | 2:37 | 2025-04-15 | 2025-06-14 |
 | [For A Minute](https://open.spotify.com/track/2zAKwUD7TVTt8qTxa9bnQJ) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [For A Minute](https://open.spotify.com/album/2751qfhddwsCitLsJwhbvS) | 1:48 | 2022-04-04 | 2022-06-18 |
 | [For The Squadron](https://open.spotify.com/track/1Am6QnI4dZi0bkXeJXwW6P) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [For The Squadron](https://open.spotify.com/album/5G34PSaRGTFhZZWuznAXGI) | 3:08 | 2022-02-18 | 2022-03-26 |
 | [forget about you](https://open.spotify.com/track/348bpHZqS0Nac9k7ILPjQ7) | [Jude Barclay](https://open.spotify.com/artist/03gPmlSKhjsCK5eMUCTowW) | [forget about you](https://open.spotify.com/album/5RpbigRzWwue3Xg4cdSKRo) | 2:13 | 2023-06-16 | 2023-06-24 |

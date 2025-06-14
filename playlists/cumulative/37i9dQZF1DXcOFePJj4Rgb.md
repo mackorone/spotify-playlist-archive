@@ -2,7 +2,7 @@
 
 ### [Pop Favourites](https://open.spotify.com/playlist/37i9dQZF1DXcOFePJj4Rgb)
 
-> The pop hits you just can't get enough of\. Cover: Tate McRae
+> The pop hits you just can't get enough of\. Cover: Lola Young
 
 200 songs - 10 hr 38 min
 

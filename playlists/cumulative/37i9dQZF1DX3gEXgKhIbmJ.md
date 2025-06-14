@@ -4,7 +4,7 @@
 
 > pra entrar e ficar na onda
 
-268 songs - 10 hr 53 min
+269 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Feiticeira](https://open.spotify.com/track/7hKxP5dRvcaOUvQd9Prawq) | [Atlas](https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [MeLodee](https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj) | [Feiticeira](https://open.spotify.com/album/1EgymkpyNeHr7yZC167uMi) | 3:53 | 2024-04-26 | 2024-04-30 |
 | [Fetiche](https://open.spotify.com/track/1aUbuYDmfyhv9UMpk1YfUB) | [Oliveira](https://open.spotify.com/artist/65ZE0dYy4XIHtFBAGMKHhI), [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB), [Mandark](https://open.spotify.com/artist/5zvgzd56jcRvu40O5mdyGB) | [Fetiche](https://open.spotify.com/album/4sdM594d5xY8P0JU1j5BgT) | 3:08 | 2023-11-10 | 2024-02-03 |
 | [Flores](https://open.spotify.com/track/35ZQhvGer4YLCx4ri4CzQ8) | [TROPA](https://open.spotify.com/artist/1nlGQts3gmftixL86sQVq8), [Tshawtty](https://open.spotify.com/artist/7aCVM3RVhiKY8OtbueWlLR), [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [NABRU](https://open.spotify.com/artist/6a4IWOVhX5VTq92mPQKoWh), [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Lola](https://open.spotify.com/artist/1bkNzmvF9a7dfInKGMhsBw), [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv) | [TROPA](https://open.spotify.com/album/6FZ218TQm3MCkNPUy5HwaS) | 3:02 | 2024-07-12 | 2024-11-30 |
+| [Flow e Sauce](https://open.spotify.com/track/4wFCRGrHyIplJVAq2NXOwi) | [Allan Drak](https://open.spotify.com/artist/36f48QAiFHeWCv2YS8qeyh), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [Flow e Sauce](https://open.spotify.com/album/3wQJdSuavL2yh8f9lcbLDt) | 2:42 | 2025-06-13 |  |
 | [Flow Maradona](https://open.spotify.com/track/1wc1GzUQD8X4AlJOR08mkC) | [Jovem Caio](https://open.spotify.com/artist/5uPdlHNs7tCxONifNy5AqV), [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu) | [Flow Maradona](https://open.spotify.com/album/25ufJSpx6FbiNk02wUUSX6) | 1:55 | 2023-11-17 | 2024-01-20 |
 | [Fogo Na Inveja](https://open.spotify.com/track/6sZGRS7umreVJsKV11Pis6) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0) | [Medo É Só Ilusão](https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu) | 1:38 | 2023-11-17 | 2024-06-29 |
 | [Frango é Frango! Travesti é Travesti!](https://open.spotify.com/track/6I1rsNRIdyuqVq4JirGDyp) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Frango é Frango! Travesti é Travesti!](https://open.spotify.com/album/0iM2ePdVPIqqhZRB4wxkDO) | 3:03 | 2023-11-24 | 2023-12-23 |

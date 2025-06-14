@@ -4,7 +4,7 @@
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-169 songs - 8 hr 38 min
+170 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Abre Los Ojos](https://open.spotify.com/track/06H5BeXjWXqjslelYiLuB7) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:16 | 2022-01-07 |  |
 | [Aladdin's Second Wish](https://open.spotify.com/track/4MzHU4LNdG2dmfNo5gytip) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 2:08 | 2021-10-07 | 2022-07-16 |
 | [Almost There \- From "Princess and the Frog"](https://open.spotify.com/track/6x1pCJudgIS8Gak9ONrg82) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Disney Goes Classical](https://open.spotify.com/album/3HXbORoFcvwasbK11FdfKg) | 2:26 | 2021-10-07 |  |
+| [Ariel Left Behind \- Remastered 2014](https://open.spotify.com/track/3d2wBgJ5UDk1U5k0xC2CVz) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Walt Disney Records The Legacy Collection: The Little Mermaid](https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst) | 4:09 | 2025-06-13 |  |
 | [Ariel's Goodbye](https://open.spotify.com/track/270OUjwWypMvDPuMX0nTb8) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [The Little Mermaid \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk) | 1:22 | 2023-09-01 |  |
 | [Be Our Guest \- Piano Version](https://open.spotify.com/track/5XHxKg7OF1GHFP4BsOviP3) | [The Chillest](https://open.spotify.com/artist/2qlvTZS8OkFRZi30S0D9E7) | [The Chillest Disney, Vol\. 4](https://open.spotify.com/album/3Tb24yt0hEn1mFfJEZe4EZ) | 3:32 | 2024-11-08 |  |
 | [Beauty and the Beast](https://open.spotify.com/track/04EsYVwU9nPltV3A3rxCgJ) | [Mr & Mrs Cello](https://open.spotify.com/artist/4jz8YHLI2bBgGBhZ2LRgF7) | [Beauty and the Beast](https://open.spotify.com/album/5XyIT5QzqCKcXCVhjUKxSF) | 4:32 | 2025-02-21 |  |

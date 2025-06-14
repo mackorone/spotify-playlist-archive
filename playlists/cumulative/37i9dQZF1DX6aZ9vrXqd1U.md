@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-366 songs - 1 day 0 hr 58 min
+370 songs - 1 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,8 +166,10 @@
 | [Next 2 U \-eUC\-](https://open.spotify.com/track/4Jhe1n8G2obpW4NWMifSrB) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [ななみ](https://open.spotify.com/artist/7CORvdMKsZAngZc3kK2GaR) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 4:04 | 2022-10-01 | 2024-04-19 |
 | [Next 2 U \-eUC\-](https://open.spotify.com/track/1auy1PkfwF6yCplcdhd8NK) | [SawanoHiroyuki\[nZk\]:naNami](https://open.spotify.com/artist/2EAfowJhmEii7OUOa44fAk) | [Into the Sky EP](https://open.spotify.com/album/6OThyKSLIsY2fVSBjQfSZU) | 4:04 | 2022-07-27 |  |
 | [Nicol's Piano "Namida no Theme"](https://open.spotify.com/track/7AoVUFRPh55tomedeRhPCI) | [Shinji Kakishima](https://open.spotify.com/artist/5Xu32cKlfD7MkxbrAdz3Vv) | [Mobile Suit Gundam Seed Suit Vol.4 Miguel Ayman × Nicol Amarfi](https://open.spotify.com/album/3en46C6DR535LT0Q7NG6RI) | 2:55 | 2024-01-11 | 2024-04-19 |
+| [Night Walk \(I\_018A\)](https://open.spotify.com/track/0liCIZL83Tl8yjHP0nGBgN) | [Masayuki Hasuo](https://open.spotify.com/artist/2ccZMBisir5eUwa5sWiVFQ) | ["Mobile Suit Gundam GQuuuuuuX" Original Motion Picture Soundtrack \(Advance Release Version2\)](https://open.spotify.com/album/3qEeb32OZUrOBfIm94YKYI) | 1:45 | 2025-06-13 |  |
 | [NO LIMITS ∞](https://open.spotify.com/track/35iykIkD4aX3MpYPpZ0MAm) | [Taja](https://open.spotify.com/artist/5PFmo5RBNN2sekKu6velaE) | [NO LIMITS ∞](https://open.spotify.com/album/0fxlluOSZtzjNUo7EcUtyF) | 4:33 | 2022-07-27 | 2023-06-09 |
 | [NO LIMITS ∞](https://open.spotify.com/track/5iukXVcXeOBDFYska0fmSw) | [Taja](https://open.spotify.com/artist/5PFmo5RBNN2sekKu6velaE) | [NO LIMITS ∞](https://open.spotify.com/album/26ZLH7uvfw1Cs8sHtfdsoD) | 4:33 | 2023-04-21 | 2024-01-12 |
+| [over peek \(I\_004B\)](https://open.spotify.com/track/2BRbpyCl4GiFlKOkl4HApG) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | ["Mobile Suit Gundam GQuuuuuuX" Original Motion Picture Soundtrack \(Advance Release Version2\)](https://open.spotify.com/album/3qEeb32OZUrOBfIm94YKYI) | 3:19 | 2025-06-13 |  |
 | [Overture](https://open.spotify.com/track/2V3nr1R7lCicETfrBbHfr9) | [Ryota Nozaki](https://open.spotify.com/artist/4dFNO8mIQosWKc3W8Ntme6) | [機動戦士ガンダム U.C\. ENGAGE Original Soundtrack 2](https://open.spotify.com/album/0gLaa3R9ux0d32ap9D6cS1) | 3:14 | 2024-01-27 |  |
 | [Overture](https://open.spotify.com/track/6lO0AqVVEssuoRioBi4dYt) | [Ryota Nozaki](https://open.spotify.com/artist/4dFNO8mIQosWKc3W8Ntme6) | [Mobile Suit Gundam U.C\. Engage Original Motion Picture Soundtrack 2](https://open.spotify.com/album/00pVzhIlsu7gs6ZvtVhyFv) | 3:14 | 2023-03-21 | 2024-04-19 |
 | [Planet Zone](https://open.spotify.com/track/1AzDqUGSBTzexgNzzZjg0t) | [Risa Yuki](https://open.spotify.com/artist/4dE7mnDgdYAsXY4X9jfoPA) | [Planet Zone](https://open.spotify.com/album/3Km6CvcGjkq6BybVypKQGB) | 4:04 | 2022-07-27 |  |
@@ -225,6 +227,7 @@
 | [STEEL \-鉄血の絆\-](https://open.spotify.com/track/20VdkamdRMOeJWJygL2bHh) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Around the TRUE](https://open.spotify.com/album/15uHffJGg720NSYqceFyMG) | 5:21 | 2022-07-27 |  |
 | [STRIKE Syutsugeki](https://open.spotify.com/track/728JtqbOrl6aCwc4GSAW6v) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [MOBILE SUIT GUNDAM SEED Original Motion Picture Soundtrack 2](https://open.spotify.com/album/4wNiXmTGxZ4RcWKesDupIy) | 3:49 | 2024-01-11 | 2024-04-19 |
 | [STRIKE出撃](https://open.spotify.com/track/3cb1MdR6o62zIqzPlUMC4G) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [機動戦士ガンダムSEED Original Soundtrack 2](https://open.spotify.com/album/38eCcmzqetsVf76XJ4SYkf) | 3:49 | 2024-01-27 |  |
+| [Suiscout \(I\_044\)](https://open.spotify.com/track/5AVFy9Bju0WhV76CTeUzMZ) | [Masayuki Hasuo](https://open.spotify.com/artist/2ccZMBisir5eUwa5sWiVFQ) | ["Mobile Suit Gundam GQuuuuuuX" Original Motion Picture Soundtrack \(Advance Release Version2\)](https://open.spotify.com/album/3qEeb32OZUrOBfIm94YKYI) | 2:18 | 2025-06-13 |  |
 | [Survivor](https://open.spotify.com/track/3lkE110ALuqH3ciBGf7d1R) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [THE END](https://open.spotify.com/album/0FNINkrhIgTtEUQyaf9MB7) | 3:40 | 2022-07-27 |  |
 | [Survivor](https://open.spotify.com/track/76X16LOhkwkDXPEMQzkLFV) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [THE END](https://open.spotify.com/album/6woCFdjeO1ayr14tKGL1vI) | 3:40 | 2022-07-27 | 2024-04-19 |
 | [Survivor](https://open.spotify.com/track/6657eyVs4JxsaQlLVW7Fwu) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [POLARIS \(World Edition\)](https://open.spotify.com/album/7J1E36Fw6eyLUtdg58a4QU) | 3:42 | 2022-10-17 | 2022-11-13 |
@@ -266,6 +269,7 @@
 | [WINNERS FOREVER \~Shorisha\-yo\~](https://open.spotify.com/track/10Ut2frwiawvm9PviuikNi) | [infix](https://open.spotify.com/artist/4VPp8N09a28R2ssRz8FQne) | [WINNERS FOREVER \~Shorisha\-yo\~](https://open.spotify.com/album/0aFfO1ufGHdqu8cLD063lA) | 3:44 | 2023-04-21 | 2024-04-19 |
 | [WINNERS FOREVER ～勝利者よ～](https://open.spotify.com/track/04wlalTBq1NVUKShbyNGnw) | [infix](https://open.spotify.com/artist/4VPp8N09a28R2ssRz8FQne) | [WINNERS FOREVER ～勝利者よ～](https://open.spotify.com/album/73ED2FQiqPDkIl1poyGUCu) | 3:44 | 2022-07-27 |  |
 | [Z Toki wo Koete](https://open.spotify.com/track/41XtgJqrZQHJdK2dB1kKPT) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Z Toki wo Koete](https://open.spotify.com/album/0olODiVVYbRhP4hJXxDJOL) | 3:36 | 2023-04-21 | 2024-04-19 |
+| [Zeknova \(I\_056\)](https://open.spotify.com/track/63m68FhGkYGXh5B7qHrGri) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | ["Mobile Suit Gundam GQuuuuuuX" Original Motion Picture Soundtrack \(Advance Release Version2\)](https://open.spotify.com/album/3qEeb32OZUrOBfIm94YKYI) | 2:04 | 2025-06-13 |  |
 | [Z・刻をこえて](https://open.spotify.com/track/7znA9tujaS1ztnhqxcLCWj) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Z・刻をこえて](https://open.spotify.com/album/4hxaMl94hMWKfqhTq4r5U5) | 3:36 | 2022-07-27 | 2023-06-10 |
 | [Z･刻をこえて](https://open.spotify.com/track/4uO8B6pZbB1eXAOZsiD5KZ) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Reply～Mami Ayukawa 25th Anniversary Best Album～](https://open.spotify.com/album/1zkooNcXkwSRYkM2e7blvM) | 3:35 | 2022-07-27 |  |
 | [あんなに一緒だったのに](https://open.spotify.com/track/6r4JvaYpB4EGRxInCZMQYJ) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [「機動戦士ガンダムSEED」エンディングテーマ あんなに一緒だったのに](https://open.spotify.com/album/597IyGd8Q3Do1qZiXrRZVB) | 4:45 | 2022-07-27 | 2022-07-29 |

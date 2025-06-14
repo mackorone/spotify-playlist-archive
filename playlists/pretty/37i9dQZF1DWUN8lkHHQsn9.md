@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+ wybranych przez <a href="spotify:artist:36rjKqx3uW0369RwfIbGj2">Marcina Maciejczaka</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,816 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,840 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 6 | [Harvest](https://open.spotify.com/track/3HQeUn8KcfKgPOl2NSrdf7) | [Agata Karczewska](https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2) | [Not My First Rodeo](https://open.spotify.com/album/6n2TMDdMpqnCONCEh1qALd) | 5:07 |
 | 7 | [dotkliwie](https://open.spotify.com/track/3i8HGoWPINUw33Ig9Cu8eS) | [color blue](https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd) | [nie powód do płaczu](https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE) | 3:29 |
 | 8 | [Wody odeszły](https://open.spotify.com/track/6vRtXj4gYSY96X5MPUES4J) | [IKARVS](https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg) | [Wody odeszły](https://open.spotify.com/album/1MfHtnGP5xjQ6GemJLvKIK) | 4:28 |
-| 9 | [Uwaga \(Idę do ciebie\) feat\. Dorota Masłowska](https://open.spotify.com/track/1QGztlW0fCUuYAlt7qixKE) | [Baasch](https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga), [Dorota](https://open.spotify.com/artist/5MvwaSu7vwwce7vxHlH0PR) | [Uwaga \(Idę do ciebie\) feat\. Dorota Masłowska](https://open.spotify.com/album/3Bpru250I9f4Ivaiy7rwkO) | 3:07 |
+| 9 | [Uwaga \(Idę do ciebie\) feat\. DOROTA](https://open.spotify.com/track/1QGztlW0fCUuYAlt7qixKE) | [Baasch](https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga), [Dorota](https://open.spotify.com/artist/5MvwaSu7vwwce7vxHlH0PR) | [Uwaga \(Idę do ciebie\) feat\. DOROTA](https://open.spotify.com/album/3Bpru250I9f4Ivaiy7rwkO) | 3:07 |
 | 10 | [Drogie Ciuchy](https://open.spotify.com/track/2ID6W7vsOptcxlmZLzTsML) | [Bella Ćwir](https://open.spotify.com/artist/6OvHhxtifb9FdKtKlsgJUz) | [Lady Popular](https://open.spotify.com/album/7fcDhdjJKUS25To6O7o871) | 3:32 |
 | 11 | [Nie poddawaj się](https://open.spotify.com/track/52sbeI7ovmABIVaTs8DLhR) | [Justyna Steczkowska](https://open.spotify.com/artist/4MoS5osilxUivShOUtUoZP), [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Nie poddawaj się](https://open.spotify.com/album/0lfT36Y6CDSNsbdXfJsXg0) | 4:12 |
 | 12 | [Jak Chanel \(RESORT 2024\)](https://open.spotify.com/track/7xw7CevooeCNKndAojJkMW) | [Andrzej Mrozek](https://open.spotify.com/artist/2bxgybC74rbB1a2j5b4hK3), [RAF](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Jak Chanel \(RESORT 2024\)](https://open.spotify.com/album/0V26xyLWeXPcCDrCh1JPBI) | 3:03 |

@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2024-08-30",
-  "description": "A melting pot of Caribbean culture.  Cover: <a href=\"spotify:artist:2v6V75NbousiJwy2HV44VL\">450</a> ",
+  "description": "A melting pot of Caribbean culture.  Cover: <a href=\"spotify:artist:7c0XG5cIJTrrAgEC3ULPiq\">Ty Dolla $ign</a> ",
   "name": "Fever",
   "tracks": [
+    {
+      "album": {
+        "name": "4 Kamp\u00e9 II",
+        "url": "https://open.spotify.com/album/15TFuzRGsXwFuW1HzwoQNk"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211304,
+      "name": "4 Kamp\u00e9 II",
+      "url": "https://open.spotify.com/track/2fhVsI54lSCFyW7sw5WPfR"
+    },
     {
       "album": {
         "name": "DUSTY PARK LANE",
@@ -2004,7 +2026,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 169846,
       "name": "Life From Kingston",
       "url": "https://open.spotify.com/track/5BcE6Qrh3tnkP6VfmhqGKL"
@@ -2105,6 +2127,24 @@
     },
     {
       "album": {
+        "name": "Marching",
+        "url": "https://open.spotify.com/album/76XQ6TzMmAFtsinWFPL2j7"
+      },
+      "artists": [
+        {
+          "name": "Zion Marley",
+          "url": "https://open.spotify.com/artist/3NfvGqN0IZIAKcpuxVhOsx"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204946,
+      "name": "Marching",
+      "url": "https://open.spotify.com/track/5xaxWpHoX9vs72pnpiIcpK"
+    },
+    {
+      "album": {
         "name": "Where We Come From",
         "url": "https://open.spotify.com/album/15CGM23XyqTGaY1iUhDnDr"
       },
@@ -2194,6 +2234,28 @@
       "duration_ms": 98400,
       "name": "MEK EH Bounce",
       "url": "https://open.spotify.com/track/3NC2g7xZ9dRn2LUQWJTq0O"
+    },
+    {
+      "album": {
+        "name": "Midnight Calls",
+        "url": "https://open.spotify.com/album/1vtFz0wCx0SFYDQdY7wQ7E"
+      },
+      "artists": [
+        {
+          "name": "IQ",
+          "url": "https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv"
+        },
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Midnight Calls",
+      "url": "https://open.spotify.com/track/4lPMcQjIX701F1kwBerOC4"
     },
     {
       "album": {
@@ -2740,7 +2802,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 153361,
       "name": "Phenomenal",
       "url": "https://open.spotify.com/track/5Cn79tSWcSk7qykH5khwCU"
@@ -3090,7 +3152,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 155919,
       "name": "Rum Behavior",
       "url": "https://open.spotify.com/track/6kOCPyMbcQ5Xp3jSWUvTCP"
@@ -3171,6 +3233,28 @@
     },
     {
       "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/3wG3K37cJxmEei9dhW7UCG"
+      },
+      "artists": [
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145742,
+      "name": "SHATTAZ",
+      "url": "https://open.spotify.com/track/0hYj0PVgn1gRi7k5wPtSU6"
+    },
+    {
+      "album": {
         "name": "Shek It",
         "url": "https://open.spotify.com/album/05R7cxvbV86cQ0xEfuUW8i"
       },
@@ -3240,7 +3324,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 151722,
       "name": "Show Me a Sign",
       "url": "https://open.spotify.com/track/4mWJwHPN86ZrmQMQGIQ9v0"

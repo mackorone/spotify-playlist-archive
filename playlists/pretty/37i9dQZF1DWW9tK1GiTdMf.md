@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per stare così ༼ ༎ຶ ෴ ༎ຶ༽ Plant e Sally Cruz in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,488 likes - 118 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,505 likes - 118 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

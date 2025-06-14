@@ -4,7 +4,7 @@
 
 > Your favorite artists, recorded live \- just like you were there! Cover: HARDY
 
-203 songs - 14 hr 6 min
+204 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Dust on the Bottle \(with David Lee Murphy\) \- Live](https://open.spotify.com/track/3oKY5smJilXhPZ3ewVanYI) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [David Lee Murphy](https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5) | [Live in No Shoes Nation](https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY) | 3:41 | 2021-07-22 | 2022-03-26 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-08-18 | 2023-08-21 |
 | [Fast Car \- Live](https://open.spotify.com/track/7AQjb9B8CJ9Hb07ma21zoy) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fast Car \(Live\)](https://open.spotify.com/album/77UPYl23MLMV81NslkxgUe) | 4:27 | 2023-08-20 |  |
-| [Fast Cars And Freedom \- Live In Concert](https://open.spotify.com/track/3FS8K3u8fGeiGz0FybRIeP) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [The Vault](https://open.spotify.com/album/4LCKLiSDG78CCZf7BGYC7V) | 4:51 | 2021-07-22 |  |
+| [Fast Cars And Freedom \- Live In Concert](https://open.spotify.com/track/3FS8K3u8fGeiGz0FybRIeP) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [The Vault](https://open.spotify.com/album/4LCKLiSDG78CCZf7BGYC7V) | 4:51 | 2021-07-22 | 2025-06-14 |
 | [Fishin' In The Dark \- Live At The Red Deer Fine Arts Center, Canada/1991](https://open.spotify.com/track/1EzLOOiaWCQGIQVQeBKngv) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Best Of](https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG) | 3:26 | 2021-07-22 |  |
 | [FISHIN' IN THE DARK \- Live from the Road](https://open.spotify.com/track/2K7vNpvZO2QkGZVoG263im) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [FISHIN' IN THE DARK \(Live from the Road\)](https://open.spotify.com/album/5zBeDeoGCCBq8OYdtYQcKl) | 3:22 | 2024-06-14 |  |
 | [Folsom Prison Blues \- Live at Folsom State Prison, Folsom, CA \- January 1968](https://open.spotify.com/track/55vr0rSNotM3KY1OB7H4zf) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Country Music \- A Film by Ken Burns \(The Soundtrack\) \[Deluxe\]](https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC) | 2:43 | 2024-05-04 |  |
@@ -153,6 +153,7 @@
 | [She Thinks My Tractor's Sexy \- Live](https://open.spotify.com/track/2NePleuMNN4kNLihiFxaSn) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Kenny Chesney Live](https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9) | 6:02 | 2021-07-22 | 2024-05-05 |
 | [She's Got You \- Live](https://open.spotify.com/track/6Gp7e0mLOFSI0AmV30E8fw) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [On The Air: Her Best TV Performances](https://open.spotify.com/album/5iKpYBmAMsyGD5iTD3VjVf) | 2:46 | 2024-05-04 | 2024-11-03 |
 | [She's in Love With the Boy \(Live\)](https://open.spotify.com/track/6ww19WNCddWn5QExASiph2) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Big Bang Concert Series: Trisha Yearwood \(Live\)](https://open.spotify.com/album/5nCzwPWbcXh561sRFqMndk) | 4:55 | 2021-07-22 | 2024-05-05 |
+| [Simple Man \- Live](https://open.spotify.com/track/0cASCmwoKomXJVSb7XSGrp) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0), [Brent Smith](https://open.spotify.com/artist/72WcGKyczmErhVnMOUi0aR) | [Simple Man \(Live\)](https://open.spotify.com/album/6ISYrJtuC4lFObXlXw4lm1) | 7:03 | 2025-06-13 |  |
 | [Slow Dancing In A Burning Room \(Circle Sessions\)](https://open.spotify.com/track/5lc6hhwOvfNJjZy5EyrbxG) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [ERNEST & The Fellas Unplugged](https://open.spotify.com/album/0lxxrZlnRP8K7gIqspSDjU) | 3:54 | 2023-09-29 | 2023-10-06 |
 | [Small Town USA \- Live at the Ryman](https://open.spotify.com/track/3IlNQTAmA6HPbAmXQkjdhi) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Small Town USA \(Live at the Ryman\)](https://open.spotify.com/album/54i0bNcUszicenkyRY293M) | 4:07 | 2021-07-22 | 2024-05-05 |
 | [Small Town USA \- Live at the Ryman](https://open.spotify.com/track/78XFo6H6HLkHRZ6DtKeuMz) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Live at the Ryman](https://open.spotify.com/album/2whvNZuhYac09csrAN05CI) | 4:07 | 2022-07-22 | 2024-04-19 |

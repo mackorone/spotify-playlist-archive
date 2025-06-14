@@ -4998,7 +4998,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 137316,
       "name": "Gnarly",
       "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
@@ -5878,7 +5878,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 211330,
       "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
       "url": "https://open.spotify.com/track/5doooVlMVRZztQbySqARMI"
@@ -9908,7 +9908,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -14499,6 +14499,24 @@
     },
     {
       "album": {
+        "name": "I AM GLORIA",
+        "url": "https://open.spotify.com/album/4WigYNEa3IVIYF4dRb6vNQ"
+      },
+      "artists": [
+        {
+          "name": "G.E.M.",
+          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234198,
+      "name": "Where Did U Go (G.E.M.\u91cd\u751f\u7248)",
+      "url": "https://open.spotify.com/track/6shWOAXvUxU69rwg3Q8Rbi"
+    },
+    {
+      "album": {
         "name": "wherever u r (ft. V of BTS)",
         "url": "https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN"
       },
@@ -16254,7 +16272,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-03",
+      "date_removed": null,
       "duration_ms": 188962,
       "name": "\u4f60\u90fd\u4e0d\u77e5\u9053 \u81ea\u5df1\u6709\u591a\u597d",
       "url": "https://open.spotify.com/track/37Kfx2XMj4lPteclYtrEnU"
@@ -16662,7 +16680,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-14",
+      "date_removed": null,
       "duration_ms": 199547,
       "name": "\u52c1\u6d6a\u6f2b \u8d85\u6eab\u99a8",
       "url": "https://open.spotify.com/track/2YF2QvEFNGbIgNQaUzLk4Q"
@@ -16824,7 +16842,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 228819,
       "name": "\u53cd\u5c0d\u7121\u6548",
       "url": "https://open.spotify.com/track/2P5Eeh29qJrYa1T27cdL3B"
@@ -17444,6 +17462,24 @@
       "duration_ms": 293941,
       "name": "\u5929\u5929\u90fd\u662f\u611a\u4eba\u7bc0",
       "url": "https://open.spotify.com/track/5HqkQEUOOXoMmmbcndy5IU"
+    },
+    {
+      "album": {
+        "name": "I AM GLORIA",
+        "url": "https://open.spotify.com/album/4WigYNEa3IVIYF4dRb6vNQ"
+      },
+      "artists": [
+        {
+          "name": "G.E.M.",
+          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279029,
+      "name": "\u5929\u7a7a\u6ca1\u6709\u6975\u9650 (\u7ca4)",
+      "url": "https://open.spotify.com/track/7kaJddBTRyWtfMsCkoEhcr"
     },
     {
       "album": {

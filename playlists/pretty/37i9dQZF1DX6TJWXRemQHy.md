@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TJWXRemQHy.md) - [plain]
 
 > An ambient + rain playlist\. Blurred city lights, empty sidewalks, and windowpane reflections 🌧️
 
-[Spotify](https://open.spotify.com/user/spotify) - 490 likes - 72 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 520 likes - 72 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TJWXRemQHy.md) - [plain]
 | 71 | [Knoxville Rain E Delta Sinus 80\-84hz](https://open.spotify.com/track/5bknO2Ufk8FPQxNymqeprO) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Knoxville Rain](https://open.spotify.com/album/5XR87XXlBHgnLB6SJRVljT) | 2:36 |
 | 72 | [New Force](https://open.spotify.com/track/6kVYw6szdMMK7jcZKhQzQd) | [Ashami Mantras](https://open.spotify.com/artist/2GRKiHcYCBni3lSujepe79) | [New Force](https://open.spotify.com/album/0lwbr5oIOR3CFgSC8lt4Fm) | 2:51 |
 
-Snapshot ID: `AAAAAAYpE8U8wpjFnvvaQsKU6qwI7UI5`
+Snapshot ID: `aErA0QAAAAB/lyM3wERrK4irkk/PDMwy`

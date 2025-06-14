@@ -2,9 +2,9 @@
 
 ### [Indie Covers](https://open.spotify.com/playlist/37i9dQZF1DXb67OkZ6150Z)
 
-> Songs you love with an indie spin on it\. Cover: Beach Fossils
+> Songs you love with an indie spin on it\. Cover: Blondshell
 
-479 songs - 1 day 5 hr 19 min
+480 songs - 1 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Darlin’](https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Darlin'](https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI) | 2:58 | 2022-05-20 | 2022-07-27 |
 | [Dearly Departed](https://open.spotify.com/track/7ciFh1cZjyZE2gVhjvhsmD) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Dearly Departed](https://open.spotify.com/album/1T2kgbzp4R7p4Gm06jjfFh) | 5:11 | 2021-07-21 | 2022-04-20 |
 | [del mar county fair 2008](https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [del mar county fair 2008](https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9) | 2:54 | 2023-03-17 |  |
-| [Desperado](https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Desperado / Born on a Train](https://open.spotify.com/album/49GxzbR4cjgBH5JAeYF9mz) | 3:40 | 2022-02-25 |  |
+| [Desperado](https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Desperado / Born on a Train](https://open.spotify.com/album/49GxzbR4cjgBH5JAeYF9mz) | 3:40 | 2022-02-25 | 2025-06-14 |
+| [Diet Pepsi \(Live at Sirius XMU\)](https://open.spotify.com/track/06vnM67RcfQcc7oPQRA9tP) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Diet Pepsi \(Live at Sirius XMU\)](https://open.spotify.com/album/5sXraFFxIpNrj01MoAESTO) | 2:45 | 2025-06-13 |  |
 | [Different Now](https://open.spotify.com/track/1J0aTXvZG634UfviOVGMi5) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y), [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [Different Now](https://open.spotify.com/album/7AKbVhsHqz4enFZBTsJe4n) | 4:25 | 2023-08-08 |  |
 | [Do I Wanna Know? \- BBC Live Lounge](https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH) | 4:17 | 2025-01-28 |  |
 | [Don't Be Cruel](https://open.spotify.com/track/4IYTQwLYh1lVHhCC2jBi9S) | [Lo\-Fang](https://open.spotify.com/artist/5EDkJDlRNcMs3ewliB24QA) | [Don't Be Cruel](https://open.spotify.com/album/50mcyygO5E1QoALtPm2ZXH) | 7:06 | 2021-03-12 | 2022-04-20 |

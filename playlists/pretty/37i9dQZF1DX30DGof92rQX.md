@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Aashir Wajahat
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,023 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,053 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 18 | [Sanu Ek Pal](https://open.spotify.com/track/1WkCKxdIsWlB4CxBN31Zrx) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Velo Sound Station](https://open.spotify.com/artist/36R4BjMUZw5ivfFomI7WGd), [Sarmad Ghafoor](https://open.spotify.com/artist/0iCylEkXPwoFL8ii0D8nUl) | [Sanu Ek Pal](https://open.spotify.com/album/6xgH9jA22Aw5MTdcgGfAD6) | 6:34 |
 | 19 | [Banjara](https://open.spotify.com/track/7xYwMGWfauROSzpcTM2qJn) | [Yashal Shahid](https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53), [Saad Sultan](https://open.spotify.com/artist/1OBBbn5fM7Lj0zhlChlgi3) | [Banjara](https://open.spotify.com/album/4GCPAtCAK3A7hvkmj83JRK) | 3:37 |
 | 20 | [Karay Karay](https://open.spotify.com/track/5fLmMh0GIsSjz858dmmt8x) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ), [Salman Paras](https://open.spotify.com/artist/6JC7bSuSttgAd92jKVQcbI) | [Karay Karay](https://open.spotify.com/album/5tJPMgyfibTiCgaqmXWLlP) | 3:13 |
-| 21 | [Memories](https://open.spotify.com/track/2O0sJTtjLKvMhd7cWyNdbe) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Justin Bibis](https://open.spotify.com/artist/3KYrINL7nZTQEVAu83bHw5), [Shehryar Khan](https://open.spotify.com/artist/4vdNZHa1VmnLgFObceAzAi) | [Memories](https://open.spotify.com/album/1I8YUsgEIWFfVJXqngPBoL) | 2:38 |
+| 21 | [Memories](https://open.spotify.com/track/2O0sJTtjLKvMhd7cWyNdbe) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Justin Bibis](https://open.spotify.com/artist/3KYrINL7nZTQEVAu83bHw5), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp) | [Memories](https://open.spotify.com/album/1I8YUsgEIWFfVJXqngPBoL) | 2:38 |
 | 22 | [Hum Adhooray](https://open.spotify.com/track/2720FG3rJlddmhKMpPcOFK) | [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc), [Natasha Baig](https://open.spotify.com/artist/2R8t8JuhekewFBqE8OhBq8), [Adnan Dhool Productions](https://open.spotify.com/artist/6cLOQ3WC7p4JIJbDbNJSkl) | [Hum Adhooray](https://open.spotify.com/album/5570l6Ou1mkSWrWOvEXkTN) | 2:52 |
 | 23 | [Maya](https://open.spotify.com/track/5rHWhxm3YyMx6spEekNdN4) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Maya](https://open.spotify.com/album/7pL7JEymCYU7mCjcn2n0RT) | 4:42 |
 | 24 | [Dil Ruba](https://open.spotify.com/track/1VVCIQHFamc5Q7uDsqDkfN) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Velo Sound Station](https://open.spotify.com/artist/36R4BjMUZw5ivfFomI7WGd) | [Dil Ruba](https://open.spotify.com/album/0KD9Ddk52NSmYdzW8QcgFY) | 4:20 |

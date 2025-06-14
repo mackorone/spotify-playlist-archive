@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Wentzel, Nicola Dreyer,  CHARLIZE BERG, Loufi, Glaskas, en meer!
 
-1,788 songs - 4 day 3 hr 20 min
+1,789 songs - 4 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1533,6 +1533,7 @@
 | [Tekkies Brand](https://open.spotify.com/track/3bDZnbdUWy02rqFzb5Sooi) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Tekkies Brand](https://open.spotify.com/album/05uEJdtdKnM4SjNGpkEuOD) | 3:28 | 2022-12-27 | 2023-01-02 |
 | [Tekkies Brand \- Cre8tro Remix](https://open.spotify.com/track/60xg0myi1c2g3dBhnE77DO) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma), [Cre8tro](https://open.spotify.com/artist/59ht5rH8CKq06KBYaks85z) | [Tekkies Brand \(Cre8tro Remix\)](https://open.spotify.com/album/1nSbpOqMKbjca12K49xPFL) | 3:54 | 2023-04-06 | 2023-09-08 |
 | [Ten Minste Vir My](https://open.spotify.com/track/5NCWiX95u7QQzdRJJFJuhh) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Zonneblom](https://open.spotify.com/album/1IeU3vpv2NYysM1fHw4ZfL) | 3:22 | 2022-12-27 | 2023-01-02 |
+| [Ten Minste Vir My \- Zaan's Version](https://open.spotify.com/track/1Sob6aKzROv3oPSkMfnGqY) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Ten Minste Vir My \(Zaan's Version\)](https://open.spotify.com/album/5uKy9A6bh7W7k2xMvNdHDF) | 3:24 | 2025-06-13 |  |
 | [Tenk Vol Diesel Liefling](https://open.spotify.com/track/0J1uf7jZ3voWGlSeOTvV9h) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t) | [Tenk Vol Diesel Liefling](https://open.spotify.com/album/5tw5fHWnCjxNzAjrxkyofh) | 3:18 | 2024-08-29 | 2024-12-06 |
 | [Terapie Vir Nou](https://open.spotify.com/track/7K7JxiW7VcnJexqPaAY9Bd) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Terapie Vir Nou](https://open.spotify.com/album/2s7XUTruquG0eOrNIyqMQN) | 3:38 | 2023-11-23 | 2023-12-15 |
 | [Terug In Tyd](https://open.spotify.com/track/6p5cS6M9DSYee45WcXMi3l) | [Legkaart](https://open.spotify.com/artist/6q148JlUofOrUfcf7Dmac6) | [Terug In Tyd](https://open.spotify.com/album/3EXtRvuiaCMkuC47sz3ADI) | 3:12 | 2022-10-20 | 2022-11-25 |

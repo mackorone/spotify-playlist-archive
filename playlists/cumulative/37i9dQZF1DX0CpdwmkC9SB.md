@@ -4,7 +4,7 @@
 
 > The biggest festival of the year\. The official playlist for Glastonbury 2025.
 
-684 songs - 1 day 22 hr 44 min
+685 songs - 1 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 | 2025-03-06 |  |
 | [Angels in Tibet](https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:22 | 2025-03-06 |  |
 | [Another Minute with You](https://open.spotify.com/track/1sqixLUSTJKPHCSBc42egp) | [Ryan McMullan](https://open.spotify.com/artist/4tqPTKknmeQK1uDEFVfX4G) | [The "Debut" Mix Tape](https://open.spotify.com/album/1VE5Uk8DePg4HcYTlT3Tvt) | 2:44 | 2024-05-31 | 2025-03-07 |
+| [Anxiety \- Spotify Singles](https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Spotify Singles](https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp) | 3:50 | 2025-06-13 |  |
 | [Approachable](https://open.spotify.com/track/6wWmhXZFZe39QGyXRHZ1NR) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Come And See](https://open.spotify.com/album/4DHXkFCDz154lGUlAWvLPE) | 4:00 | 2025-04-27 | 2025-06-07 |
 | [Archie, Marry Me](https://open.spotify.com/track/5GAB1X0AJq2EZjxXP9zMFt) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1j3pIPXjLIFkp84OfVUsNT) | 3:16 | 2024-05-31 | 2025-03-07 |
 | [Asking](https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Asking](https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ) | 3:11 | 2025-05-16 |  |
@@ -70,7 +71,7 @@
 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 | 2024-05-31 | 2025-03-07 |
 | [Baianá](https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Baianá](https://open.spotify.com/album/4fnmyznELge41MnyNpUp78) | 2:32 | 2024-05-31 | 2025-03-07 |
 | [Baile Bump](https://open.spotify.com/track/76gzlxH6uIh6cQFosrdbpm) | [REA](https://open.spotify.com/artist/1nhQOYji5l5jrGliSvMvc6) | [World Foods](https://open.spotify.com/album/6iruPpAWXhSOhanUdY1Z7u) | 3:54 | 2025-04-04 | 2025-06-07 |
-| [BAKWA LAH](https://open.spotify.com/track/5fSBPtedqX65IaJlyGHbK0) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Nvcho](https://open.spotify.com/artist/3W0DeGwe5EHJwydiL6ECaC), [Mathandos](https://open.spotify.com/artist/4ie8G7LI4tNKHAXln6mhiK), [C4 DJs](https://open.spotify.com/artist/4WJQEAwZjONMhNaVuMlHSo) | [Outside](https://open.spotify.com/album/4GSO0sVELc1GIiJQjzqt8E) | 6:30 | 2025-04-04 |  |
+| [BAKWA LAH](https://open.spotify.com/track/5fSBPtedqX65IaJlyGHbK0) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Nvcho](https://open.spotify.com/artist/3W0DeGwe5EHJwydiL6ECaC), [Mathandos](https://open.spotify.com/artist/4ie8G7LI4tNKHAXln6mhiK), [C4 DJs](https://open.spotify.com/artist/4WJQEAwZjONMhNaVuMlHSo) | [Outside](https://open.spotify.com/album/4GSO0sVELc1GIiJQjzqt8E) | 6:30 | 2025-04-04 | 2025-06-14 |
 | [Bamboléo](https://open.spotify.com/track/3iB8eciGU9vZkaDYkz7Ir9) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Gipsy Kings](https://open.spotify.com/album/43uh4QoHA259dOUkXte7dl) | 3:23 | 2024-05-31 | 2025-03-07 |
 | [Banquet](https://open.spotify.com/track/4juzduULFJiZVIcrC1tkxE) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/1VpqO2dBJdAS3YAimXlhEM) | 3:21 | 2024-05-31 | 2025-03-07 |
 | [Bashed Out](https://open.spotify.com/track/7HT6TuyQsBNGghhYYzInsU) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Bashed Out](https://open.spotify.com/album/6mNf6jxeTcRNi6uQLisaXS) | 3:41 | 2024-05-31 | 2025-03-07 |

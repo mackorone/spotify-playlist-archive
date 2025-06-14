@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-129 songs - 7 hr 13 min
+130 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Muse \- A COLORS SHOW](https://open.spotify.com/track/4JmYe83UEo0u79arY6Zbn2) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Muse \- A COLORS SHOW](https://open.spotify.com/album/4bMaXHiewgIcNRmKzRWnkJ) | 5:03 | 2023-12-08 | 2024-06-01 |
 | [Mwanga We Wajua](https://open.spotify.com/track/7K6kgMnTPLqR8p04M6dG8H) | [Hope Hajir](https://open.spotify.com/artist/1pK84UqJKAOW6uOWmpR5cN) | [Mwanga We Wajua](https://open.spotify.com/album/34iOJa2njy5Ym74bpxLeVl) | 1:23 | 2023-06-30 | 2024-04-27 |
 | [My Light](https://open.spotify.com/track/0ODhQkKwD6Sg3nIFK7GD7R) | [Webi](https://open.spotify.com/artist/4LaQmo86osci1uCq11mcIH) | [Let The Light In EP](https://open.spotify.com/album/3KcggRmGrhbU47A71dJ4HH) | 6:01 | 2023-06-30 | 2023-10-24 |
+| [Narcissus](https://open.spotify.com/track/3VOiBodB2ZqAhaA1kbtmuM) | [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP) | [Narcissus](https://open.spotify.com/album/5rmgacCroc3SaJKLI6Gvbc) | 2:11 | 2025-06-13 |  |
 | [Njia Moja](https://open.spotify.com/track/0G1vjYaNDUtntJF0hCq5YL) | [Rafiiki](https://open.spotify.com/artist/3RQugbKSKDSg8oHS1MdMXn) | [Njia Moja](https://open.spotify.com/album/0DhkCfovACaJcz26OjNtwp) | 3:32 | 2023-06-30 | 2024-05-04 |
 | [Not My Own](https://open.spotify.com/track/4LJCnfBCGR7k1cWMbZ6OxQ) | [ro](https://open.spotify.com/artist/1m4s5VPSqT6GcF5fm9qKXB), [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE) | [Not My Own](https://open.spotify.com/album/2MnS88RNdCYeYP12wnxp2D) | 2:16 | 2023-06-30 |  |
 | [NYDFRYSTL](https://open.spotify.com/track/5wVqh6vqoztvzWUf7x5Vmm) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [NYDFRYSTL](https://open.spotify.com/album/6bOHLndOBTAl9lfmTPWR4I) | 1:48 | 2023-12-15 | 2024-06-14 |
@@ -129,7 +130,7 @@
 | [Twista](https://open.spotify.com/track/4q4GgG1AzEziL1rBAEFYWK) | [Senté](https://open.spotify.com/artist/32m0wHk6SnWDu626fxJnO8) | [Twista](https://open.spotify.com/album/6Tx9EbWNn0SfkgEHKtX8W4) | 3:26 | 2025-03-14 |  |
 | [UCHUMI NI MBAYA](https://open.spotify.com/track/6DXRuErErntN421fotfSY4) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [UCHUMI NI MBAYA](https://open.spotify.com/album/5tqDC86E1wrPERlqZMO2Rn) | 2:33 | 2023-06-30 | 2024-08-02 |
 | [Unga](https://open.spotify.com/track/31wcbX1ryS3piaC3FN4oZI) | [Michelle Gatuiku](https://open.spotify.com/artist/04KS7CODE7DDZ3VvgRrbiT) | [Unga](https://open.spotify.com/album/5ZzEvegnSkHHKseHWJBk1G) | 3:34 | 2023-06-30 | 2024-03-23 |
-| [Uwanja wa Mchezo \(Pieces of Me\)](https://open.spotify.com/track/5Z8CRMyENwmwn82JXS7Ffj) | [Le'Laika](https://open.spotify.com/artist/21wMFiTF8hZHW1ZM2XE6Ul), [Steph Kapela](https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl) | [Uwanja wa Mchezo \(Pieces of Me\)](https://open.spotify.com/album/1uSU3Vj8y76b2KnbYg9Rw5) | 2:57 | 2024-02-08 |  |
+| [Uwanja wa Mchezo \(Pieces of Me\)](https://open.spotify.com/track/5Z8CRMyENwmwn82JXS7Ffj) | [Le'Laika](https://open.spotify.com/artist/21wMFiTF8hZHW1ZM2XE6Ul), [Steph Kapela](https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl) | [Uwanja wa Mchezo \(Pieces of Me\)](https://open.spotify.com/album/1uSU3Vj8y76b2KnbYg9Rw5) | 2:57 | 2024-02-08 | 2025-06-14 |
 | [Wanting You](https://open.spotify.com/track/7hmU5Fney0C23kqklkXeHt) | [Ondi](https://open.spotify.com/artist/0Kmrssj2JXxBoJ6W2MlW63) | [Tangawizi](https://open.spotify.com/album/5P2OgT54MbjstTwfl6nw27) | 4:59 | 2023-06-30 | 2024-02-09 |
 | [We're Changing](https://open.spotify.com/track/6wrzXoMKu9bZ5cbUXVckqH) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Things I Should've Said](https://open.spotify.com/album/4yvOcGMKAl1zsU2laXyvNM) | 2:44 | 2024-08-23 |  |
 | [what about us](https://open.spotify.com/track/2fNDML0aFVVowxSRcEv7FV) | [Donado Stone](https://open.spotify.com/artist/6JnP9a6TJjhR0yexwK0MrK) | [Deno](https://open.spotify.com/album/1TS7cLIg70rJCzxNRYk83t) | 2:37 | 2024-10-17 |  |

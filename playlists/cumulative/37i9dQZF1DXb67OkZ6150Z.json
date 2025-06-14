@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Songs you love with an indie spin on it. Cover: Beach Fossils",
+  "description": "Songs you love with an indie spin on it. Cover: Blondshell",
   "name": "Indie Covers",
   "tracks": [
     {
@@ -1830,10 +1830,28 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 220500,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS"
+    },
+    {
+      "album": {
+        "name": "Diet Pepsi (Live at Sirius XMU)",
+        "url": "https://open.spotify.com/album/5sXraFFxIpNrj01MoAESTO"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165933,
+      "name": "Diet Pepsi (Live at Sirius XMU)",
+      "url": "https://open.spotify.com/track/06vnM67RcfQcc7oPQRA9tP"
     },
     {
       "album": {

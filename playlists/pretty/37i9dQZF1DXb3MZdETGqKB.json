@@ -1,13 +1,29 @@
 {
   "description": "All new, all blues. Cover: Sonny Gullage",
-  "num_followers": 154560,
+  "num_followers": 154566,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDktUgAAAAAbYO68neNVYpskUn4Dg+F3",
+  "snapshot_id": "aEuieQAAAABNiMCO+4dI40iBrzGaz/XX",
   "tracks": [
+    {
+      "added_at": "2025-06-13 04:00:57",
+      "album": {
+        "name": "The Man",
+        "url": "https://open.spotify.com/album/6VB4Y6ntegogaFfzBFgBGI"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 183709,
+      "name": "The Man",
+      "url": "https://open.spotify.com/track/7zH1G8gZtSFYtL8ThQ1hv6"
+    },
     {
       "added_at": "2025-05-30 04:00:18",
       "album": {
@@ -1579,26 +1595,6 @@
       "duration_ms": 257377,
       "name": "Bad to the Bone - Extended Version",
       "url": "https://open.spotify.com/track/4k49bcOGJ0zyROWdJXzCqa"
-    },
-    {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Another Life Goes By (Mississippi Mix)",
-        "url": "https://open.spotify.com/album/50ULdmZdXqCCMtxAQ2cnBH"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        },
-        {
-          "name": "Big K.R.I.T.",
-          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
-        }
-      ],
-      "duration_ms": 228986,
-      "name": "Another Life Goes By - Mississippi Mix",
-      "url": "https://open.spotify.com/track/3RjffU019GOzRzDsTmazDA"
     },
     {
       "added_at": "2023-03-03 05:01:00",

@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Sonny Gullage
 
-339 songs - 19 hr 55 min
+340 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Almighty $$](https://open.spotify.com/track/7EWfX1yhJpk8oEBuXEzx4Q) | [Wolfgang Valbrun](https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5) | [Almighty $$](https://open.spotify.com/album/5UlZYtKhBjVPcV1DjiQC6P) | 3:15 | 2024-02-16 |  |
 | [Alone](https://open.spotify.com/track/3LGHAzSDMm9KDxSrJlWIqV) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [The Love Anthology](https://open.spotify.com/album/1Przkz0IqwGmtFQ4Va2wxM) | 3:45 | 2025-01-31 |  |
 | [Angels](https://open.spotify.com/track/3aZpkDDCKbu9WqvnyuNGyn) | [Félix Rabin](https://open.spotify.com/artist/0xzQonoJ1bGbnjLLk26Xgu) | [Pogboy](https://open.spotify.com/album/0iqAkwpiPwem6AXPAAvGev) | 3:26 | 2021-02-05 | 2022-03-26 |
-| [Another Life Goes By \- Mississippi Mix](https://open.spotify.com/track/3RjffU019GOzRzDsTmazDA) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Another Life Goes By \(Mississippi Mix\)](https://open.spotify.com/album/50ULdmZdXqCCMtxAQ2cnBH) | 3:48 | 2022-10-14 |  |
+| [Another Life Goes By \- Mississippi Mix](https://open.spotify.com/track/3RjffU019GOzRzDsTmazDA) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Another Life Goes By \(Mississippi Mix\)](https://open.spotify.com/album/50ULdmZdXqCCMtxAQ2cnBH) | 3:48 | 2022-10-14 | 2025-06-14 |
 | [Bad Habit](https://open.spotify.com/track/2aoIgKX0dPG0vHpxGlH8EM) | [Josh Mosier](https://open.spotify.com/artist/3Wk1FUVzXO95KgllUaGwK7) | [Bad Habit](https://open.spotify.com/album/246eXjbl54SNgcRACS4Ezb) | 2:44 | 2022-04-01 | 2022-06-19 |
 | [Bad to the Bone \(Extended Version\)](https://open.spotify.com/track/6jjI3nWijwLRr2PTabrxRu) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Bri Bryant](https://open.spotify.com/artist/3Ex7pM0HrUKWMuGoOJ0AnR) | [Bad to the Bone \(Extended Version\)](https://open.spotify.com/album/03d3mtpRJpkT6Nh4YIjFGM) | 4:17 | 2022-12-16 | 2024-04-19 |
 | [Bad to the Bone \- Extended Version](https://open.spotify.com/track/4k49bcOGJ0zyROWdJXzCqa) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Bri Bryant](https://open.spotify.com/artist/3Ex7pM0HrUKWMuGoOJ0AnR) | [Bad to the Bone \(Extended Version\)](https://open.spotify.com/album/4RyOqiwnfCkobUmfwAyqnU) | 4:17 | 2022-12-16 |  |
@@ -298,6 +298,7 @@
 | [The Louvre](https://open.spotify.com/track/68cELCHZ8sdfkAHoLtm3OO) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [The Louvre](https://open.spotify.com/album/1cZ17se5zLFdbZKhedKnio) | 2:59 | 2023-08-18 |  |
 | [The Lows](https://open.spotify.com/track/33bBjkRiZIkHdoAZlBb9KR) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [The Lows](https://open.spotify.com/album/1Ifw6B8pNgYmYgB67wx93t) | 2:55 | 2022-10-21 |  |
 | [The Lows](https://open.spotify.com/track/7h0bST38vPZD0kC2Tw8byH) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 2:55 | 2022-10-21 | 2024-04-19 |
+| [The Man](https://open.spotify.com/track/7zH1G8gZtSFYtL8ThQ1hv6) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [The Man](https://open.spotify.com/album/6VB4Y6ntegogaFfzBFgBGI) | 3:03 | 2025-06-13 |  |
 | [The Man Was Burning](https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [The Man Was Burning](https://open.spotify.com/album/0OhzvTKOvapdOk4KY5Zjly) | 2:35 | 2022-02-25 | 2023-11-18 |
 | [The Mess I Made](https://open.spotify.com/track/0jgysibe0XfoEO4QF4txxo) | [Kezia Gill](https://open.spotify.com/artist/38gOBONmMcD1Cp45Lhf2Vc), [Sarah Jory](https://open.spotify.com/artist/3vIXE7wvyCjfLhVU4PPs3a) | [The Mess I Made](https://open.spotify.com/album/09N5XzPUjGF2C88j0QWJPc) | 3:02 | 2021-04-16 | 2022-05-07 |
 | [The Message](https://open.spotify.com/track/6Qid5XSXyMiePb3XJruQ7w) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH), [Black Violin](https://open.spotify.com/artist/4zeHJ3kiJyjYXlIOcG4MA7) | [The Message](https://open.spotify.com/album/36YVwk07KjYWZqtGLHkl0K) | 4:04 | 2022-09-09 | 2024-12-14 |

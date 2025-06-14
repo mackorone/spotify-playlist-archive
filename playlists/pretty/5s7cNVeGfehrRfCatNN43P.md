@@ -4,22 +4,29 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,891 likes - 13 songs - 40 min 43 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,890 likes - 20 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Frozen](https://open.spotify.com/track/5t9ZL1dY817WwVDezOSNzl) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Frozen](https://open.spotify.com/album/78bEsLWRUvjE6rh24Y0hpV) | 3:21 |
-| 2 | [Love Language](https://open.spotify.com/track/1GRwEsNUPJ8iTUyeYy0YQM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Love Language](https://open.spotify.com/album/4sh3Yk0ITqd0brs7mmFL1T) | 2:57 |
-| 3 | [Friday Night](https://open.spotify.com/track/12txrzwhdCu0DhlEMrKBxw) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Revelation](https://open.spotify.com/album/3My0taql4cY6yHpY1bZILJ) | 3:18 |
-| 4 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
-| 5 | [Sting](https://open.spotify.com/track/0yTsDX19kbGdXgTI9sfVRy) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Sting](https://open.spotify.com/album/6mI21c8ZfezXuLcR1Mc0fr) | 2:47 |
-| 6 | [METALLIC STALLION](https://open.spotify.com/track/0STDJOqslyxhEj5iJMQDL6) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [PRINCESS OF POWER](https://open.spotify.com/album/2rjfRdmVDBMFT5mamSsVeU) | 4:15 |
-| 7 | [Dreams](https://open.spotify.com/track/1vIaGytGpR3V9QVCVxJObE) | [Honey.](https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN) | [Dreams](https://open.spotify.com/album/0X25tZlCCHAofXorBcuty3) | 3:38 |
-| 8 | [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 |
-| 9 | [Heat](https://open.spotify.com/track/7gn1dVwAYxmzpj5peCAOWt) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Heat](https://open.spotify.com/album/3fAes6kOJqF8H5IumD0aik) | 2:51 |
-| 10 | [James Bay's Hat](https://open.spotify.com/track/7pBHLxLuo0epUw53Wij0Pq) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Primordial Slot Machine](https://open.spotify.com/album/0SfAfwswZrrbQuSBNHfMgU) | 2:06 |
-| 11 | [RIP KP](https://open.spotify.com/track/79ntb6PIEy0xSr0DZgIZer) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [RIP KP](https://open.spotify.com/album/3AgWdgUIlQJVHdsdieSHdl) | 2:18 |
-| 12 | [Alle tårer uten grunn](https://open.spotify.com/track/1YBcKo256J2pGDirRygps7) | [Bendik](https://open.spotify.com/artist/4krYRNHjKcETSEY2Ghf9Mo) | [Alle tårer uten grunn](https://open.spotify.com/album/673o8jCPzWRRkMGWTm3pz5) | 2:51 |
-| 13 | [Spring Rush \(a hot platonic subatomic crush\)](https://open.spotify.com/track/19luLEZUisg9MQtfLz489o) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Spring Rush \(a hot platonic subatomic crush\)](https://open.spotify.com/album/38giCJV9UkDE9U3059Ev4e) | 2:49 |
+| 1 | [the villain](https://open.spotify.com/track/0NrCGhwPCMu1QvYruiht1s) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [unfinished business](https://open.spotify.com/album/4LONzVNoi4l1w6sVTXkKt4) | 3:20 |
+| 2 | [LAST MAN STANDING](https://open.spotify.com/track/1EWQItYxD9C6dicju78MWC) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [LAST MAN STANDING](https://open.spotify.com/album/2ZdaLdroDh69cI4FqsRo19) | 3:23 |
+| 3 | [My Love](https://open.spotify.com/track/4XM4c3zMS0orMhblnrZwnS) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [My Love](https://open.spotify.com/album/4Flne5uLAm16EoUCf2DgDt) | 2:44 |
+| 4 | [Stay Gold \- from BEYBLADE X](https://open.spotify.com/track/65hfbURMDstZkt5FDt0Tbd) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Stay Gold \(from BEYBLADE X\)](https://open.spotify.com/album/5qyh3mcLstnqZhlmlY7njI) | 3:26 |
+| 5 | [Sound & Light](https://open.spotify.com/track/4qzm5ib6WlsEoUZK77IOZt) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Sound & Light](https://open.spotify.com/album/4J9mjNuFkJacjvwORMce86) | 3:18 |
+| 6 | [In My Head](https://open.spotify.com/track/29QaOkFHNTo6ftbcEGGrwe) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [In My Head](https://open.spotify.com/album/2BGFa1PbKBnzJ4ondyeVH8) | 2:22 |
+| 7 | [TASTE](https://open.spotify.com/track/6j5daRP4raZlvPly6NI8gL) | [Sophie Stray](https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X), [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [TASTE](https://open.spotify.com/album/7bwPPhz5Pm7pbXrK86l5hw) | 2:58 |
+| 8 | [Call me when you need me](https://open.spotify.com/track/5sJ7YLGwsOP7pmwGTz2Osu) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Call me when you need me](https://open.spotify.com/album/5DgDuWTZ8cFgfUsymQvD9P) | 3:14 |
+| 9 | [when my wings are cut off](https://open.spotify.com/track/4FLzbyklBSxPgU1PW82UUj) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [i want the light to swallow me whole](https://open.spotify.com/album/6OZBrcIljhzV1VMfQLgVbh) | 2:17 |
+| 10 | [Ghost Town \(feat\. Retrosonix\)](https://open.spotify.com/track/0nhzNdW0JATIGNAYNMqLOS) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Retrosonix](https://open.spotify.com/artist/7ozZtCyuxy8HQjCW7RYdEx) | [Ghost Town \(feat\. Retrosonix\)](https://open.spotify.com/album/6WvJMCdN8BN7DgrtEeupwh) | 3:47 |
+| 11 | [SOFT SCOOP TALKING DOG](https://open.spotify.com/track/3g0PEy13O7biKs5QbO6JuI) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [SOFT SCOOP TALKING DOG](https://open.spotify.com/album/3nrLoVydKklCtyxQXskO5V) | 2:03 |
+| 12 | [Seven Up](https://open.spotify.com/track/3OGgNGn5kvdnsApo73p1fI) | [PureGrand](https://open.spotify.com/artist/11hBv6UufZMGP8EKbZ63MH) | [Seven Up](https://open.spotify.com/album/44pqM9EGnXSbfgv23dYKLl) | 4:46 |
+| 13 | [Lipsync](https://open.spotify.com/track/0KBBHOGtufMl66CpoUlZsc) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [Lipsync](https://open.spotify.com/album/6aaxvD1ddFiPcwvN8BkXbD) | 2:43 |
+| 14 | [Miscalculations](https://open.spotify.com/track/1LOAhDFL61ZOYcXeMS0LLM) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Tales of a Knight](https://open.spotify.com/album/6IH5H7UkprcZ3DA8vyrepk) | 3:13 |
+| 15 | [Body On Me](https://open.spotify.com/track/6MglZeuPDQwHzZTxrRZfCW) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [I Promise No One's Watching](https://open.spotify.com/album/5IVW9XdJ8w9MFB6VO66AXZ) | 2:33 |
+| 16 | [Galactical Love](https://open.spotify.com/track/6UiGhlQTe31XsVB83wBWNt) | [Donkeyboy](https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO) | [Galactical Love](https://open.spotify.com/album/0WEI0pMBet6W86Q7YKCMHM) | 2:54 |
+| 17 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
+| 18 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 |
+| 19 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |
+| 20 | [Jeg vil ha deg](https://open.spotify.com/track/0IJpT6YUFaqZH0wf7hCDCo) | [Synne Sørgjerd](https://open.spotify.com/artist/5Ai4yHtSLrIhQD7AmTs9XF) | [Jeg vil ha deg](https://open.spotify.com/album/2hrP8uTPwuZEF3vlDofoq7) | 2:54 |
 
-Snapshot ID: `AAALTwQOZCFS/Gbe8MCc6ioX3iZLb7u3`
+Snapshot ID: `AAALVBLfa1La/nDRaY2QYpIIIIGCmiWi`

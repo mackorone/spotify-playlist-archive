@@ -4,7 +4,7 @@
 
 > All\-new performances by the cast and exclusive content\. How many wonders can one playlist hold?
 
-167 songs - 7 hr 0 min
+168 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Journey to Ursula](https://open.spotify.com/track/3cBoVj4t07W4PTNfJETQ6c) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [The Little Mermaid \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk) | 1:54 | 2023-05-26 |  |
 | [Kiss the Girl](https://open.spotify.com/track/6kkFjjMbO9EL1YxNt8BKm3) | [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 3:22 | 2023-10-20 |  |
 | [Kiss the Girl](https://open.spotify.com/track/77ltWp9xNbfhldXx3IEqVx) | [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL) | [Disneymania 5](https://open.spotify.com/album/4QUVJSHDCCMW1hxXvpMxMf) | 3:24 | 2023-10-20 | 2024-04-19 |
+| [Kiss the Girl](https://open.spotify.com/track/5b0Kdt6dGY8kZl4EoAkNU2) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [In the Key of Disney](https://open.spotify.com/album/2Xgc5F1OMlpdHjrz3xUlHF) | 3:53 | 2025-06-13 |  |
 | [Kiss the Girl](https://open.spotify.com/track/2f2F4z8BOi15hum9aEVDUP) | [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Awkwafina](https://open.spotify.com/artist/3SmyWs7ou3udD8gtM0Z6Vx), [Jacob Tremblay](https://open.spotify.com/artist/1RuyU38m8bFrOef3EeRHM8), [Ensemble \- The Little Mermaid](https://open.spotify.com/artist/3WoPXSBmNV9DJnxZgnU224), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP) | 3:16 | 2023-05-19 |  |
 | [Kiss the Girl](https://open.spotify.com/track/1NLYSmhjkWIkcsm94qNXwX) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Joy](https://open.spotify.com/album/11x60QHsoQa9rJVkIVFccW) | 3:12 | 2023-10-20 |  |
 | [Kiss the Girl](https://open.spotify.com/track/2huXICYr99NnodThC8me1m) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Chill](https://open.spotify.com/album/3NLf3vFNYqC2idExmdILPP) | 2:53 | 2023-10-20 |  |

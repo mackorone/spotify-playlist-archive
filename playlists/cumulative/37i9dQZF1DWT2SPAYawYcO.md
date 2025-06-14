@@ -4,7 +4,7 @@
 
 > Brand new music from King Gizzard & The Lizard Wizard, ONEFOUR, The Kid LAROI, Imogen Heap, Mark Ronson, Raye + more
 
-9,019 songs - 20 day 9 hr 8 min
+9,021 songs - 20 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7751,6 +7751,7 @@
 | [The Ballad Of Ruby Wednesday](https://open.spotify.com/track/2vWFHTrkEMLtKntgcSLAvb) | [Hayley Mary](https://open.spotify.com/artist/0jVHJ8I9hODEGcXruenrdH) | [The Ballad Of Ruby Wednesday](https://open.spotify.com/album/4ve3VVFfrieX9GA0E16AhI) | 4:17 | 2024-06-06 | 2024-06-14 |
 | [The Beginning](https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Beginning](https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu) | 3:31 | 2024-05-31 | 2024-06-07 |
 | [The Beginning Of The End \(feat\. DMA'S\)](https://open.spotify.com/track/2H39sC1tPnvxNCFamU3m2N) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2), [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [The Beginning Of The End \(feat\. DMA'S\)](https://open.spotify.com/album/6Zx7KmsMOLDheCjXZAYaSE) | 3:41 | 2024-10-24 | 2024-11-01 |
+| [The Bellboy \(One Last Crush\)](https://open.spotify.com/track/3zP0fq3Hv4DyEaLGBpQuln) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin \(Deluxe\)](https://open.spotify.com/album/0GE0uLMG3dAOrvPGcJtvKz) | 3:28 | 2025-06-12 |  |
 | [The Bends](https://open.spotify.com/track/3Gy2aRqQkCY6VAgeYu1Qpf) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Glimmers](https://open.spotify.com/album/5OOD5eUlJc6N8shol45UIb) | 3:29 | 2025-05-01 | 2025-05-09 |
 | [The Best Part Of Breaking Up](https://open.spotify.com/track/31zrXu3wIdCEdDCi6TFQZz) | [Beks](https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW) | [The Best Part Of Breaking Up](https://open.spotify.com/album/0KUGJvfbUmt51au87OFErP) | 3:11 | 2024-01-18 | 2024-01-26 |
 | [The Big Reveal; Ou L’Hypocrite](https://open.spotify.com/track/7xdZOi1dclEsJmAYkwoKsc) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [The Big Reveal; Ou L’Hypocrite](https://open.spotify.com/album/2iJwtPUb5duuyNS5aWUs9k) | 3:26 | 2024-03-21 | 2024-03-29 |
@@ -8807,6 +8808,7 @@
 | [won't cry](https://open.spotify.com/track/73wMV0p5r0yaPJvBOoTmHH) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [won't cry](https://open.spotify.com/album/65uJLSRQEKhV8SoVovQtdr) | 3:40 | 2024-09-26 | 2024-10-04 |
 | [Won't Forget You](https://open.spotify.com/track/2fP9aII1LkmZZmzdAiuNVz) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Won't Forget You](https://open.spotify.com/album/2b2p2llc051aP6YlPG5AnK) | 2:33 | 2023-09-28 | 2023-10-06 |
 | [Won't Hold My Breath](https://open.spotify.com/track/5UK487suwwzt6dLCeSGlIa) | [Yasmin Hass](https://open.spotify.com/artist/1ngeTsUw6Wo2W4TTgTSCcC) | [Won't Hold My Breath](https://open.spotify.com/album/6ATPgYP2TcaHNDq2Od6WCs) | 2:46 | 2024-07-18 | 2024-07-27 |
+| [Won't Stop](https://open.spotify.com/track/4ugKUZExbqbkKXEmbTrTRW) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Won't Stop](https://open.spotify.com/album/1TRulQDa3GYTurukQ91HGB) | 3:01 | 2025-06-12 |  |
 | [Won't Stop \(feat\. Jessica Mauboy\)](https://open.spotify.com/track/2t8Gy9wUksUYw9AGJOaQPU) | [3%](https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg), [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Won't Stop](https://open.spotify.com/album/4urOV6FfIrPTOu9NfFmvTd) | 3:01 | 2024-07-04 | 2024-07-12 |
 | [Wonder](https://open.spotify.com/track/2rWiWnbQ7bJEgJBrWsL31I) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [Wonder](https://open.spotify.com/album/73enqBrZW2i5i3Ll2xWQ9r) | 3:22 | 2024-08-01 | 2024-08-09 |
 | [Wonder Horns](https://open.spotify.com/track/6YsOcemwALYTE5oqKeXr3z) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [Saint Sinner](https://open.spotify.com/album/6S32d9VMvOGlV9pjk7m300) | 4:31 | 2024-07-25 | 2024-08-02 |

@@ -1461,6 +1461,24 @@
     },
     {
       "album": {
+        "name": "Musicality",
+        "url": "https://open.spotify.com/album/59enWNqQlZKbTD1oQ74dtY"
+      },
+      "artists": [
+        {
+          "name": "haloplus+",
+          "url": "https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Musicality",
+      "url": "https://open.spotify.com/track/4KnN1qVhG1gccZe7cJxWn3"
+    },
+    {
+      "album": {
         "name": "Free Energy",
         "url": "https://open.spotify.com/album/65xYYnCJh3cuM2OWFlKrN3"
       },

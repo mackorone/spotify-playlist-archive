@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "A Better World",
+        "url": "https://open.spotify.com/album/3hAcZ5awmnV1zc2P3WNSzr"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172606,
+      "name": "A Better World",
+      "url": "https://open.spotify.com/track/7tCXmtYrYNFWMa7vyQfuAI"
+    },
+    {
+      "album": {
         "name": "A New Day",
         "url": "https://open.spotify.com/album/47OqE3Y9K0hDZLWBA0NUZG"
       },
@@ -1890,7 +1912,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 151384,
       "name": "Dance and Fall in Love",
       "url": "https://open.spotify.com/track/6bMzjurIUwP0ieEJcT8AFU"
@@ -1912,7 +1934,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 255293,
       "name": "Dance Dance Dance",
       "url": "https://open.spotify.com/track/348Xu2bbcdS0CB8xxX47K4"
@@ -3154,7 +3176,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 184687,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/3LIkT3OVUBUQPAhsqW0Ihx"
@@ -3677,6 +3699,28 @@
     },
     {
       "album": {
+        "name": "Get 2 Know Ya",
+        "url": "https://open.spotify.com/album/3xGQXdPTvIFeinoprJWzsu"
+      },
+      "artists": [
+        {
+          "name": "DJ burgerhead",
+          "url": "https://open.spotify.com/artist/7tkCO3Cc3NEhjZ3T3PM6ar"
+        },
+        {
+          "name": "FRASER",
+          "url": "https://open.spotify.com/artist/5BflqluOfNQb1hofbNsySr"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Get 2 Know Ya",
+      "url": "https://open.spotify.com/track/73gYSdbsGZDOIXpD72VTvZ"
+    },
+    {
+      "album": {
         "name": "Get Down",
         "url": "https://open.spotify.com/album/1txMhOhhxpc1qUTusPPU7P"
       },
@@ -3692,6 +3736,28 @@
       "duration_ms": 158729,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/34ipfQgRIZbhoj6cS1ALct"
+    },
+    {
+      "album": {
+        "name": "get down on it",
+        "url": "https://open.spotify.com/album/4BzuesRLAFoF9k0sHW3a3d"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207856,
+      "name": "get down on it",
+      "url": "https://open.spotify.com/track/5rbzoOu97UwrjgrGGr7NNI"
     },
     {
       "album": {
@@ -9302,7 +9368,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 243008,
       "name": "Relentless Love",
       "url": "https://open.spotify.com/track/0hzt5MB7hjMWDPkM5BLDLt"
@@ -10680,7 +10746,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 327926,
       "name": "Starlight Delight",
       "url": "https://open.spotify.com/track/5pYAjHgii18QfT9IOOCkIR"
@@ -11669,6 +11735,24 @@
     },
     {
       "album": {
+        "name": "U Know How Dis Go",
+        "url": "https://open.spotify.com/album/6OSei4LFBtRTlmXd7pmfOw"
+      },
+      "artists": [
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "U Know How Dis Go",
+      "url": "https://open.spotify.com/track/5LXYjNNJFg67NpNXbwJcx2"
+    },
+    {
+      "album": {
         "name": "U Want More",
         "url": "https://open.spotify.com/album/6Tssac3g5lLEJ08XIKqBQV"
       },
@@ -12188,6 +12272,24 @@
       "duration_ms": 198040,
       "name": "When It's Right",
       "url": "https://open.spotify.com/track/6tmyWKFIi8bZq5RlIxrIiu"
+    },
+    {
+      "album": {
+        "name": "Where Were U",
+        "url": "https://open.spotify.com/album/3dJSRA3E7I1f7x2KVSh014"
+      },
+      "artists": [
+        {
+          "name": "Goshfather",
+          "url": "https://open.spotify.com/artist/2g7WWQ12c4FLTtdk0z5mwI"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204053,
+      "name": "Where Were U",
+      "url": "https://open.spotify.com/track/6UgKYLV9XBpAD7WhOztjLQ"
     },
     {
       "album": {

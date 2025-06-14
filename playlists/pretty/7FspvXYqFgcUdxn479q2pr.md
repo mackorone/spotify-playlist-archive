@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Jengi, JADED, Alex Mills
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,397 likes - 13 songs - 40 min 55 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,392 likes - 17 songs - 51 min 25 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,12 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 8 | [No Regrets \(feat\. Krewella\) \[YUSSI Remix\]](https://open.spotify.com/track/6EH33BG9UhIYrezYC7v2Mx) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [YUSSI](https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [No Regrets \(feat\. Krewella\) \[YUSSI Remix\]](https://open.spotify.com/album/3dpwY24QK5adMTsTs6mmOI) | 3:57 |
 | 9 | [Ziga](https://open.spotify.com/track/5aLjnqttZDNsdBqtVdHtzr) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX), [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6) | [Ziga](https://open.spotify.com/album/4POTNdsb2vY5tvsWkXtsKK) | 2:05 |
 | 10 | [Era](https://open.spotify.com/track/1eao1v2p0x5mckT9gMTOH6) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Era](https://open.spotify.com/album/4jm2U2sXJUJGBhKC1TJfsp) | 4:44 |
-| 11 | [A Gira \(David Guetta Remix\)](https://open.spotify.com/track/2AZVoftjLl883aKfk8wSJn) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [A Gira \(David Guetta Remix\)](https://open.spotify.com/album/2AFJKP1Leyqf3hyxabUppZ) | 2:39 |
-| 12 | [EY](https://open.spotify.com/track/7LanjmmIXIvVW48eMFryXM) | [Sama \(US\)](https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm) | [EY](https://open.spotify.com/album/7MxjwjDHBc4ybp9olRfiNs) | 2:19 |
-| 13 | [I Was Made For Lovin' You](https://open.spotify.com/track/2YGQQjEteNKh2s90wDu9ns) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [I Was Made For Lovin' You](https://open.spotify.com/album/7t18nOqd5TKdQ5iuPm0sTL) | 3:01 |
+| 11 | [All Night](https://open.spotify.com/track/755gI3Nj4WAoXgqR5gEhlt) | [Brave](https://open.spotify.com/artist/4YtIBGgFkEZ2Sd91Hysx5f) | [All Night](https://open.spotify.com/album/70vzxSJvLOgDb3DBsYq2jA) | 2:35 |
+| 12 | [Dirty Talking](https://open.spotify.com/track/5vSyAO9uxNS6I2Cl7tnvcs) | [Titus1](https://open.spotify.com/artist/4dCWLsP4fsgMjs3zcNq3TU), [Ginsong](https://open.spotify.com/artist/5Fh3puYVgOVcGgYSu3x7qf) | [Dirty Talking](https://open.spotify.com/album/7ys2BggibxYHZaqBTOElw5) | 2:48 |
+| 13 | [A Gira \(David Guetta Remix\)](https://open.spotify.com/track/2AZVoftjLl883aKfk8wSJn) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [A Gira \(David Guetta Remix\)](https://open.spotify.com/album/2AFJKP1Leyqf3hyxabUppZ) | 2:39 |
+| 14 | [One World One Sound](https://open.spotify.com/track/2r9rw8x3OPwrb8qOQAoykf) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [LINIX](https://open.spotify.com/artist/2jm718HVWJwKHd8acPHX6g), [Gabriel Wittner](https://open.spotify.com/artist/6DitGfT7dcBLUsY5ETeuAj) | [One World One Sound](https://open.spotify.com/album/1lsRGuYANKJBbNmdeRIG92) | 2:13 |
+| 15 | [Grateful Heart](https://open.spotify.com/track/4VAtHn11412b6A3AwbJmQz) | [Daddy Plays Disco](https://open.spotify.com/artist/2B0wc5Evd3ULefDQiFIlGs) | [Grateful Heart](https://open.spotify.com/album/7jp9yapLn06gQv5PNnbHsh) | 2:52 |
+| 16 | [EY](https://open.spotify.com/track/7LanjmmIXIvVW48eMFryXM) | [Sama \(US\)](https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm) | [EY](https://open.spotify.com/album/7MxjwjDHBc4ybp9olRfiNs) | 2:19 |
+| 17 | [I Was Made For Lovin' You](https://open.spotify.com/track/2YGQQjEteNKh2s90wDu9ns) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [I Was Made For Lovin' You](https://open.spotify.com/album/7t18nOqd5TKdQ5iuPm0sTL) | 3:01 |
 
-Snapshot ID: `AAAsqEcM8UF7Zpa+ED6Cd8Fvhf8KY2i/`
+Snapshot ID: `AAAsrhUBJm44NbAfT02VowjRXt5AWgzx`

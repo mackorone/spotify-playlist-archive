@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 201819,
+  "num_followers": 201826,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEjHAAAAAAD0Vb6AcDzksI5CwEI8AgfY",
+  "snapshot_id": "aEoYgAAAAAAQ6ujDZxzRHyOqiyOfKwd9",
   "tracks": [
     {
       "added_at": null,
@@ -1275,26 +1275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faithfully (feat. Willie Nelson)",
-        "url": "https://open.spotify.com/album/3WUpUwDbCVQyeKq8YigINX"
-      },
-      "artists": [
-        {
-          "name": "Steve Perry",
-          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 262314,
-      "name": "Faithfully - feat. Willie Nelson",
-      "url": "https://open.spotify.com/track/1vnZeVXl71X1D7WHgGotLY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Viva Tu",
         "url": "https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 125379,
       "name": "Heaven's Bad Day",
       "url": "https://open.spotify.com/track/5LPo4MHNYtWdh8FWIIkixD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faithfully (feat. Willie Nelson)",
+        "url": "https://open.spotify.com/album/3WUpUwDbCVQyeKq8YigINX"
+      },
+      "artists": [
+        {
+          "name": "Steve Perry",
+          "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 262314,
+      "name": "Faithfully - feat. Willie Nelson",
+      "url": "https://open.spotify.com/track/1vnZeVXl71X1D7WHgGotLY"
     }
   ],
   "unique_name": "This Is Willie Nelson",

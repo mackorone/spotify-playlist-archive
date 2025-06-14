@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlr9ih12ddz.md) - [plain]
 
 > Get ready for Zombies 4: Dawn of the Vampires by listening to all your favorites music from the hit franchise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,031 likes - 46 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,033 likes - 46 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlr9ih12ddz.md) - [plain]
 | 45 | [You Do You](https://open.spotify.com/track/1Su2nWZSc9iszMFpB7g03s) | [Cast of ZOMBIES: Addison's Moonstone Mystery](https://open.spotify.com/artist/1A0Jf1TgQQUoWAoXFWhlQf) | [ZOMBIES: Addison's Moonstone Mystery](https://open.spotify.com/album/4yowQ8Wed8f51r7ahFIqgs) | 1:56 |
 | 46 | [Feelin' the Power](https://open.spotify.com/track/6pu6XNfVupA7ug6Ou8kZIA) | [Cast of ZOMBIES: Addison's Moonstone Mystery](https://open.spotify.com/artist/1A0Jf1TgQQUoWAoXFWhlQf) | [ZOMBIES: Addison's Moonstone Mystery](https://open.spotify.com/album/4yowQ8Wed8f51r7ahFIqgs) | 2:20 |
 
-Snapshot ID: `aBTB8AAAAABte79DKV0yr5UF/IdTckZp`
+Snapshot ID: `aEx9UAAAAABNNgt4l/9yD8+UG38Jts7T`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 
 > The USB essentials that defined our setlists this year\. Cover: PAWSA
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,726 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,725 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 | 74 | [Up To No Good](https://open.spotify.com/track/7qIhSG403BTteDB4PAxOyU) | [Joe Hunt](https://open.spotify.com/artist/6GZR8ecgFdUz69ADiMz1Yf) | [Up To No Good](https://open.spotify.com/album/1DDIpyjO0QyZQ7mkGvez9S) | 2:54 |
 | 75 | [Preach \(feat\. Ron Carroll\)](https://open.spotify.com/track/20BgyDeW88NmQIT6LZbbNr) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Preach \(feat\. Ron Carroll\)](https://open.spotify.com/album/0qEumhqsy2Q2W57kMcGItu) | 4:05 |
 
-Snapshot ID: `Z1BHxAAAAACODBl/AdEXOTCh0sWbLeg6`
+Snapshot ID: `Z1BHxAAAAACLfhUwpRcpqwnRdpMUw1HY`

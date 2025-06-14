@@ -124,7 +124,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 153425,
       "name": "3 AM",
       "url": "https://open.spotify.com/track/1Fc0apFTrqXZGqerg8EKeZ"
@@ -1579,6 +1579,24 @@
     },
     {
       "album": {
+        "name": "amber hour",
+        "url": "https://open.spotify.com/album/1LNMjVUBDyOuNPxFHvxuos"
+      },
+      "artists": [
+        {
+          "name": "sad notes",
+          "url": "https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "amber hour",
+      "url": "https://open.spotify.com/track/0M7o1CJXykcmyzizdCDV67"
+    },
+    {
+      "album": {
         "name": "Amnesia",
         "url": "https://open.spotify.com/album/0Veqr59WbWNYQYBrASjr67"
       },
@@ -2010,7 +2028,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 154383,
       "name": "Are We There Yet",
       "url": "https://open.spotify.com/track/48xZK2scMaeRz89MSQfrIV"
@@ -2876,7 +2894,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 120000,
       "name": "bastu",
       "url": "https://open.spotify.com/track/1SaULnbBkCYCSTmB6rIE7D"
@@ -8072,7 +8090,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 151562,
       "name": "Dealing Dreams",
       "url": "https://open.spotify.com/track/4MOdc0PTIlEQBhT9ExkqxN"
@@ -11186,7 +11204,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 134541,
       "name": "favour the brave",
       "url": "https://open.spotify.com/track/2TLObOpKa82LXdJwzEgP2M"
@@ -12034,6 +12052,24 @@
       "duration_ms": 114466,
       "name": "Floating",
       "url": "https://open.spotify.com/track/1u1QN8Jc0qeqbtFBqmjJVC"
+    },
+    {
+      "album": {
+        "name": "floating",
+        "url": "https://open.spotify.com/album/2TTZap4YsYmwtcPTLpEYkI"
+      },
+      "artists": [
+        {
+          "name": "rosewd",
+          "url": "https://open.spotify.com/artist/6cxHYwPWGSe7fv7nfQkpdg"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122250,
+      "name": "floating",
+      "url": "https://open.spotify.com/track/3r77irWcZKid8Ywf4hCWUt"
     },
     {
       "album": {
@@ -19114,7 +19150,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 119117,
       "name": "Lo-fi Love Letters",
       "url": "https://open.spotify.com/track/1vwVgDd0EHURAjoTb2glnM"
@@ -20222,7 +20258,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 140952,
       "name": "lucid dreams",
       "url": "https://open.spotify.com/track/10sshsVC3JPafby7pLdarc"
@@ -20258,7 +20294,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 138857,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/6QCmsoHH20lzWq6x2byw9Z"
@@ -23794,7 +23830,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 152658,
       "name": "Nightshade",
       "url": "https://open.spotify.com/track/3eC7K8UmwloTRJRom3huLr"
@@ -23902,7 +23938,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 141374,
       "name": "no stress",
       "url": "https://open.spotify.com/track/0lYQNQEUcPIIpiAo00x58l"
@@ -25334,7 +25370,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 140940,
       "name": "pattern master",
       "url": "https://open.spotify.com/track/3zex5kqxDPxcb1W9yVI62o"
@@ -26688,7 +26724,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 119117,
       "name": "Rainy Day Reverie",
       "url": "https://open.spotify.com/track/0YvTkRufBOCQbWGzbHh2Nn"
@@ -27720,7 +27756,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 90370,
       "name": "r\u00f6da bergen",
       "url": "https://open.spotify.com/track/5KjKJkxtWhfW6IdFUzBLvc"
@@ -30808,7 +30844,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 89454,
       "name": "spread out",
       "url": "https://open.spotify.com/track/2Wr3VVcV6WmB3JdGFMmqIr"
@@ -30974,7 +31010,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 129496,
       "name": "starry escape",
       "url": "https://open.spotify.com/track/6VyMUVUurdCasp3EVzpayW"
@@ -33414,7 +33450,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 116883,
       "name": "The Almost",
       "url": "https://open.spotify.com/track/1tqD3B9Al7Rf3t5yfbZYQ0"
@@ -37619,6 +37655,24 @@
     },
     {
       "album": {
+        "name": "window seat",
+        "url": "https://open.spotify.com/album/0dlRzrxJAu3gzKfg5VgkE5"
+      },
+      "artists": [
+        {
+          "name": "chill.farm",
+          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187657,
+      "name": "window seat",
+      "url": "https://open.spotify.com/track/4TrxWjFGGjmfqcLxdL8Wbb"
+    },
+    {
+      "album": {
         "name": "Windowsills & Green Falls",
         "url": "https://open.spotify.com/album/5eAKZzEsLhsiekgFbwONAW"
       },
@@ -37832,7 +37886,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 150447,
       "name": "Woollen Potato",
       "url": "https://open.spotify.com/track/5WSBqCeXfUE6A7siQZewYK"

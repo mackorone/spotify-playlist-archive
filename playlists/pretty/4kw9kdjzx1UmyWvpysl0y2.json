@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125261,
+  "num_followers": 125259,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUMex4ujjXQV5vvbDN5g2vS9ckmWvC",
+  "snapshot_id": "AAAUM5CygGhNGQRf+FpJl4wdymKDRzjm",
   "tracks": [
+    {
+      "added_at": "2025-06-13 18:01:27",
+      "album": {
+        "name": "BRING THE PAIN",
+        "url": "https://open.spotify.com/album/4qakMhyffJ12zn4qGHSrjR"
+      },
+      "artists": [
+        {
+          "name": "DJ DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "LAYZ",
+          "url": "https://open.spotify.com/artist/2ozQcs5XxFaj5fvA02zhwo"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        }
+      ],
+      "duration_ms": 152275,
+      "name": "BRING THE PAIN",
+      "url": "https://open.spotify.com/track/7nONHlO1Mb3lKv4DAouhxV"
+    },
     {
       "added_at": "2025-06-12 15:22:59",
       "album": {

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: DICE
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,783 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,808 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 |
 | 2 | [เม้นหยอกๆ \(Comment\)](https://open.spotify.com/track/7soLL3HJ0wmOtIC6Sxse5a) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [เม้นหยอกๆ \(Comment\)](https://open.spotify.com/album/6l408RTEZpuoijgcEgDlxF) | 3:46 |
-| 3 | [อยากแชร์เพลงรักทุกเพลงให้เธอ อยากแชร์เพลงรักให้เธอทุกวัน](https://open.spotify.com/track/2O2KeSSPM08QzPXMVJWe4L) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [อยากแชร์เพลงรักทุกเพลงให้เธอ อยากแชร์เพลงรักให้เธอทุกวัน](https://open.spotify.com/album/4NamkMWD2iNno2fyBqtEgz) | 3:39 |
+| 3 | [อยากแชร์เพลงรักทุกเพลงให้เธอ อยากแชร์เพลงรักให้เธอทุกวัน y\(our\) song](https://open.spotify.com/track/2O2KeSSPM08QzPXMVJWe4L) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [อยากแชร์เพลงรักทุกเพลงให้เธอ อยากแชร์เพลงรักให้เธอทุกวัน y\(our\) song](https://open.spotify.com/album/4NamkMWD2iNno2fyBqtEgz) | 3:39 |
 | 4 | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb) | 3:44 |
 | 5 | [นิราศรักเอย \(Farewell\)](https://open.spotify.com/track/2FrrpvhvuPfmbM4X958MvV) | [Daou Pittaya](https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf) | [นิราศรักเอย \(Farewell\)](https://open.spotify.com/album/0UYXu27MRbyudK3NNIByWo) | 3:06 |
 | 6 | [เธอ ๆ เพื่อนเราชอบ \(Guess Who?\)](https://open.spotify.com/track/3ATo1WsiP4luuboQYmuSUT) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [เธอ ๆ เพื่อนเราชอบ \(Guess Who?\)](https://open.spotify.com/album/2FOSJATFDIGtdPkUrbtWFP) | 3:05 |

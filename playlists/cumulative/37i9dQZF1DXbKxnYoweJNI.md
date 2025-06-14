@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 宋柏緯 \(Edisong\)
 
-2,358 songs - 5 day 17 hr 15 min
+2,361 songs - 5 day 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [HOW2DJ](https://open.spotify.com/track/2lwRZp4kUgZFF328cXp2h2) | [Yaka](https://open.spotify.com/artist/4fODbCHhX4Q2ro3O5CyrSA), [delphia!](https://open.spotify.com/artist/1HHpB7ZLNSGpOFHIxbGHuP) | [HOW2DJ](https://open.spotify.com/album/6IWk8O87FQuxB6IO9gKl2h) | 2:40 | 2024-08-01 | 2024-08-23 |
 | [how?](https://open.spotify.com/track/3WqyTyCyxnCV4sVtUmhi46) | [chillaxe](https://open.spotify.com/artist/09k70ynVzZKIfKODlnM37U), [Lena\-J](https://open.spotify.com/artist/5ORM7O0WPOpCDCA1gMVrRl) | [how?](https://open.spotify.com/album/5G1Z5B1VeX6QgtNJxg8AQD) | 3:24 | 2025-04-03 | 2025-04-11 |
 | [Hug Me](https://open.spotify.com/track/6vYSKq5nDJqI1PUnHojiE7) | [粗大Band](https://open.spotify.com/artist/3Y5AMY2fQMtIcI0oquKJWi) | [Hug Me](https://open.spotify.com/album/360xY0pYjNQg7YomLT8Om0) | 3:09 | 2024-11-28 | 2024-12-20 |
+| [Hypothesis](https://open.spotify.com/track/6GyaivBblCyb5Pzk5TjLtW) | [Wring Out Laura](https://open.spotify.com/artist/18vTML8rDnFF1JODSnWbKR), [周穆](https://open.spotify.com/artist/202yRHeornG5Evg1WxWCFd) | [Elixir](https://open.spotify.com/album/2BNrgIFoRkalGQT8DqtSYy) | 3:19 | 2025-06-12 |  |
 | [I AM THE PROBLEM](https://open.spotify.com/track/22RZhlgzKakZZJTObhCXuJ) | [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [I AM THE PROBLEM](https://open.spotify.com/album/2PmO7yIMkOL9Drf81KsV6E) | 3:22 | 2025-03-06 | 2025-04-11 |
 | [I Can't but I Want](https://open.spotify.com/track/47cmTItghyktS1nytwx2rI) | [蕨鳴子](https://open.spotify.com/artist/5Q3prVdBHmaOPiAT2xAUyL) | [I Can't but I Want](https://open.spotify.com/album/27L9WLATr7nmqOEhrKV7dI) | 5:08 | 2024-06-27 | 2024-07-05 |
 | [I Can't Deny](https://open.spotify.com/track/1fp3QF4UieOKUMQFToXG7e) | [張牧喬](https://open.spotify.com/artist/3PwhR9DEOjrmcRTaPvY2LZ) | [I Can't Deny](https://open.spotify.com/album/1W0D7IP4CLGpuNTHY4oxOB) | 2:49 | 2024-10-31 | 2024-11-29 |
@@ -1151,7 +1152,8 @@
 | [太陽天下雨天](https://open.spotify.com/track/3nG5dqMIVjX6e7HcvP2EQs) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [太陽天下雨天](https://open.spotify.com/album/6odoZIx0gztEJAVPflJvbe) | 2:27 | 2024-08-01 | 2024-08-23 |
 | [失去你100種方式](https://open.spotify.com/track/7mSKOZA5gsW4wi1m7lSDu8) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [失去你100種方式](https://open.spotify.com/album/0IGUORBjDVGgKaGtRkly6A) | 4:16 | 2024-08-29 | 2024-09-20 |
 | [失去做夢能力的人們 \(feat.知更\) \[影集《死了一個娛樂女記者之後》主題曲\]](https://open.spotify.com/track/5EGr2kweIRQ85ZTqjwJJDt) | [Tizzy Bac](https://open.spotify.com/artist/6Rv0ndBVPEQJ7KagPDtC5H), [知更](https://open.spotify.com/artist/5L84ifCEkzPSo2pE0FQ6KE) | [失去做夢能力的人們](https://open.spotify.com/album/3lGFv5VgutBraEzfVm2v91) | 5:32 | 2025-01-16 | 2025-02-14 |
-| [失恋November \- 伴奏](https://open.spotify.com/track/0w8Xf7aMo0tBVTkZhKdaYZ) | [Lambert凌](https://open.spotify.com/artist/61u8FEElPIrXoGWzVldLnC) | [失恋November](https://open.spotify.com/album/69dbZnvHBvv6lmSyyIpMCs) | 3:00 | 2025-06-12 |  |
+| [失恋November](https://open.spotify.com/track/1sEHkg0kqAqHlyUS4P4jch) | [Lambert凌](https://open.spotify.com/artist/61u8FEElPIrXoGWzVldLnC) | [失恋November](https://open.spotify.com/album/69dbZnvHBvv6lmSyyIpMCs) | 3:00 | 2025-06-13 |  |
+| [失恋November \- 伴奏](https://open.spotify.com/track/0w8Xf7aMo0tBVTkZhKdaYZ) | [Lambert凌](https://open.spotify.com/artist/61u8FEElPIrXoGWzVldLnC) | [失恋November](https://open.spotify.com/album/69dbZnvHBvv6lmSyyIpMCs) | 3:00 | 2025-06-12 | 2025-06-14 |
 | [失恋回溯 \(Rewind\)](https://open.spotify.com/track/1kwCPfjlWgA5R8Q6ex6F3t) | [寒冰Ice](https://open.spotify.com/artist/20tBfpj1303rEt1XBVcPth) | [失恋回溯 \(Rewind\)](https://open.spotify.com/album/1txWj3Jeab2WGPk04Sr2ur) | 2:44 | 2025-06-05 |  |
 | [失戀歌](https://open.spotify.com/track/50iLWqLXCgx7WQ9Ac6DwG1) | [百合花](https://open.spotify.com/artist/4JGHOtt9Kj0EKZFjF8cmeL) | [萬事美妙](https://open.spotify.com/album/7ocRdAq1K2hwU8PUS9YuQ3) | 4:30 | 2024-09-12 | 2024-10-04 |
 | [失戀的女子](https://open.spotify.com/track/6KUKW4EpYpViQlV8IARaJn) | [怡岑](https://open.spotify.com/artist/0xiB9v7UHzvEha6kov2RhK) | [要到你想逃](https://open.spotify.com/album/27tif97FukE4ZaxeoyU3vy) | 3:11 | 2025-03-20 | 2025-04-11 |
@@ -1245,6 +1247,7 @@
 | [就這樣跟我走](https://open.spotify.com/track/1FHycTQaZcHq8NWNncmsef) | [PG LIU](https://open.spotify.com/artist/7pWhfTv5RxJOwBk61w1HoK) | [就這樣跟我走](https://open.spotify.com/album/2ky0oxeA1CPj8NQAMz4dUm) | 2:57 | 2024-06-27 | 2024-07-05 |
 | [居禮夫人說](https://open.spotify.com/track/593AaYSdz4AIjhQcxjXaaN) | [YILE LIN 林以樂](https://open.spotify.com/artist/5Cl6jhwcV4OjIj3TgiegKQ) | [居禮夫人說](https://open.spotify.com/album/1XBqS2ZPcNb3vFqby4nWWn) | 4:08 | 2024-06-27 | 2024-07-12 |
 | [山谷](https://open.spotify.com/track/0dDLilUI7enonD9d0NErel) | [Sunken Boat沉舟乐队](https://open.spotify.com/artist/2RQAjFDfhTgaLoUkzPvKZp) | [山谷](https://open.spotify.com/album/3cgDxIkeptxaitnCWY1iX9) | 4:14 | 2025-05-15 | 2025-06-06 |
+| [山野里的太阳](https://open.spotify.com/track/1TaWmBp7v4lOhWcKhXbTwC) | [房東的貓](https://open.spotify.com/artist/6oxtUCWftDouZzeso3oXcF), [大凉山妞妞合唱团](https://open.spotify.com/artist/4WVajhvcBlHdkwknAjgum8) | [山野里的太阳](https://open.spotify.com/album/78HrJ0os5Wf2o5aTWMDHep) | 4:20 | 2025-06-12 |  |
 | [岸幽人](https://open.spotify.com/track/2Fzj96D7PxhylI4nz0KBFV) | [Insnowk](https://open.spotify.com/artist/5aeU78blusuYLltNCugrmg) | [岸幽人](https://open.spotify.com/album/1TVAXAD98JpIB0w5qja6MR) | 2:52 | 2025-04-17 | 2025-05-02 |
 | [島的對面](https://open.spotify.com/track/6XFEJgFLehGDLCr2wX1Qjm) | [無先生](https://open.spotify.com/artist/4FOONCzxfCMQ0RrLCdbEXp) | [島的對面](https://open.spotify.com/album/65gS9OnYlkGc5poLkn82j8) | 3:36 | 2024-12-26 | 2025-01-03 |
 | [左邊的人](https://open.spotify.com/track/1n6zzsU50f2nGCvCD7UMx6) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [左邊的人](https://open.spotify.com/album/4J9l1jwAMA1M6rQ1qb2MVq) | 3:36 | 2024-08-22 | 2024-09-13 |

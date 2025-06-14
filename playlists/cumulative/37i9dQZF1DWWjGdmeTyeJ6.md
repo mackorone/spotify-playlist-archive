@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of the best new music by independent artists and labels\. Cover: Jahnah Camille
 
-8,386 songs - 18 day 22 hr 20 min
+8,387 songs - 18 day 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6088,6 +6088,7 @@
 | [Rock Wit Proph](https://open.spotify.com/track/6c6WMifL0O4QXMTQOhbB9M) | [Prophet the Artist](https://open.spotify.com/artist/0vXtpskNA5slWYQBsjlaJU) | [Rock Wit Proph](https://open.spotify.com/album/2MzJhr9etdHt3IEGvCLZoN) | 2:45 | 2022-01-19 | 2022-01-27 |
 | [Rock With Me Freestyle](https://open.spotify.com/track/5P3o2iXD9sXu1CkP3In5IF) | [DL](https://open.spotify.com/artist/05NZsP0LiblQ48YXdl0xyM) | [Rock With Me Freestyle](https://open.spotify.com/album/7gt9uyokWf72bXupEPvGSn) | 2:00 | 2022-05-04 | 2022-05-12 |
 | [Rockabye](https://open.spotify.com/track/5PeQaXUiOaU5xN6SxQv6OX) | [Tia Tia](https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS) | [Rockabye](https://open.spotify.com/album/5z5y0rjhxu3ft3pEychFLQ) | 2:09 | 2023-03-01 | 2023-03-09 |
+| [rocket](https://open.spotify.com/track/3BA0pgBBU4MzXwnOUFwIOB) | [Jahnah Camille](https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS) | [My sunny oath!](https://open.spotify.com/album/5e51HsMClL4Gz6hn4ItN4K) | 2:31 | 2025-06-13 |  |
 | [Rocket Science](https://open.spotify.com/track/2o3pfn5RI5anPcKJ4LI7hA) | [Haley Gold](https://open.spotify.com/artist/6O9lZQoUyrZVY1dVJ0NlG9) | [Rocket Science](https://open.spotify.com/album/6MWK0X2Bn7xIpKIt3YNYhc) | 3:05 | 2022-05-25 | 2022-06-09 |
 | [Rocket Ship](https://open.spotify.com/track/7ul0qSFpZHXS8XncqBNIwS) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Rocket Ship](https://open.spotify.com/album/7av0cujFS6fXO1oQxUpm7m) | 1:29 | 2023-04-26 | 2023-05-04 |
 | [Rocket Woman](https://open.spotify.com/track/2PtZMicbDMbAYWpBzR8g3I) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Rocket Woman](https://open.spotify.com/album/3QF644FWqbPiCeDZMNMFwM) | 3:37 | 2024-06-12 | 2024-07-18 |
@@ -6508,7 +6509,7 @@
 | [Sisyphus](https://open.spotify.com/track/2EoxzI6ScQYeSx54Z1T78q) | [Vintz Desert](https://open.spotify.com/artist/2R4IKLdF2GmuTuuyu2y5mY) | [Sisyphus](https://open.spotify.com/album/1jejRlaAMdFoC87EYob3dN) | 3:00 | 2022-04-27 | 2022-05-05 |
 | [Sit Right](https://open.spotify.com/track/3d53nYqXuydZPnU4AjeE4W) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Sit Right](https://open.spotify.com/album/21A2eVciYbz82Cu6i8wyCi) | 3:21 | 2023-06-14 | 2023-06-29 |
 | [Sit Tight](https://open.spotify.com/track/3evBTe4meunj9tNXcR2vKu) | [Angelsaur](https://open.spotify.com/artist/1GfyE51MdTYnvRvPAuDUXb) | [Sit Tight](https://open.spotify.com/album/6hfHhbyDFgkknwlIHjPy5I) | 4:03 | 2023-08-16 | 2023-08-24 |
-| [sit with you \(pain\)](https://open.spotify.com/track/1QBeq423x9hTeJI6IGLPl4) | [Jahnah Camille](https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS) | [sit with you \(pain\)](https://open.spotify.com/album/6ibXSghXvbjtGG95JEsdqm) | 3:15 | 2025-06-11 |  |
+| [sit with you \(pain\)](https://open.spotify.com/track/1QBeq423x9hTeJI6IGLPl4) | [Jahnah Camille](https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS) | [sit with you \(pain\)](https://open.spotify.com/album/6ibXSghXvbjtGG95JEsdqm) | 3:15 | 2025-06-11 | 2025-06-14 |
 | [Sixteen](https://open.spotify.com/track/6wCowLIXN3MVgJcUwvr9Ph) | [Tess Clare](https://open.spotify.com/artist/0w3V7iEOBeQUDg8xm6NB6L) | [Sixteen](https://open.spotify.com/album/2OQTIknCPX400GUeWiwXrG) | 3:38 | 2022-03-16 | 2022-03-24 |
 | [Skateboard](https://open.spotify.com/track/4Vg3peP6paF5ryINcenQlq) | [Safiyah Hernandez](https://open.spotify.com/artist/7lxy3cv38d6mcGj1gRqsgK) | [Skateboard](https://open.spotify.com/album/2BQOPucIyzNEgmSviMa5fn) | 2:44 | 2022-09-14 | 2022-09-22 |
 | [SKB](https://open.spotify.com/track/6gXpd9hQ2nBKlfCFBDQHsF) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [SKB](https://open.spotify.com/album/45Y4FneTtW9gZYhd98Sunp) | 3:38 | 2023-08-02 | 2023-08-10 |

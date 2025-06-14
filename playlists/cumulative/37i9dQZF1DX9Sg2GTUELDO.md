@@ -4,7 +4,7 @@
 
 > 感受女聲力量。Cover: 雷同二友
 
-508 songs - 1 day 6 hr 18 min
+509 songs - 1 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,6 +471,7 @@
 | [被吃掉的靈魂](https://open.spotify.com/track/5C803SxLZnhe9e6FC0YiNW) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [被吃掉的靈魂](https://open.spotify.com/album/2I7CoLPIkTjR6R8mSXJwTB) | 3:31 | 2024-06-27 |  |
 | [複雜事情簡單化](https://open.spotify.com/track/1GIY9FlL3RVtNwrR0KwKtq) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [複雜事情簡單化](https://open.spotify.com/album/36LK1862cNLR937ixzfiDl) | 4:14 | 2024-06-27 |  |
 | [解咒說明書](https://open.spotify.com/track/7LJbnO4dGlntR0BuzI7mTV) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [解咒說明書](https://open.spotify.com/album/7hCvLsp8Tky2C61PEdJlMT) | 3:36 | 2024-08-01 |  |
+| [計劃書](https://open.spotify.com/track/06Ly3CaLBPDX9BYIDla9wG) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [計劃書](https://open.spotify.com/album/4RohGZKe8Zrr0TI6DY2naG) | 3:41 | 2025-06-13 |  |
 | [討好式戀愛](https://open.spotify.com/track/5bqnlcRLN5IudbbFbYfIWz) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [討好式戀愛](https://open.spotify.com/album/12YLTrOgEHGysZIYb5bpvl) | 3:44 | 2024-06-27 |  |
 | [說好的未來](https://open.spotify.com/track/3kDOAPunKnEPfFIFTlXVxA) | [Winka 陳泳伽](https://open.spotify.com/artist/1wmTLcYhwwD3GbNoI2Vwls) | [說好的未來](https://open.spotify.com/album/2C4T0p54qL3v5Tgojcleg7) | 3:41 | 2024-06-27 |  |
 | [說走就走](https://open.spotify.com/track/1KwWRZ8WwJ2odetEB5Lw2Q) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [說走就走](https://open.spotify.com/album/3KtFzTu5eLYskzCnYNkcOT) | 3:38 | 2024-06-27 |  |

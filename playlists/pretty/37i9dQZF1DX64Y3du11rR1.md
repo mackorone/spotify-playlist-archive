@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 
 > Acoustic covers of sad songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,675 likes - 104 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,687 likes - 104 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64Y3du11rR1.md) - [plain]
 | 74 | [Forget Me](https://open.spotify.com/track/35hEBYKKgxPP0wJHCtqPB2) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k) | [Forget Me](https://open.spotify.com/album/1EoabBUf3lsf4GzqWTr0Ue) | 3:19 |
 | 75 | [Wonderwall](https://open.spotify.com/track/3YFNoWIYjbSIsvUBWrCgqq) | [OSIS](https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea) | [Wonderwall](https://open.spotify.com/album/19mcR8eRojfUN67K8jF64h) | 2:24 |
 | 76 | [Kill Em With Kindness \- Acoustic](https://open.spotify.com/track/2zdWyXkUu9CowCZ4rVnBg2) | [Savella](https://open.spotify.com/artist/6SPMTzlnXVUvJqe1qkPswm), [Rachael Schroeder](https://open.spotify.com/artist/6Hyd8L8cnUxrMhN89nlgAb) | [The Best Covers Ever](https://open.spotify.com/album/0dCQghJmb45XZDALsB5XYo) | 3:32 |
-| 77 | [Ooh La La \- Live From My Bedroom\)](https://open.spotify.com/track/7t5ZovheDpNgWCQaqYO0rY) | [Louie Jacobs](https://open.spotify.com/artist/5qNxdsjjk6KXN5I8HFeKoh) | [Ooh La La \(Live From My Bedroom\)](https://open.spotify.com/album/2Zy2CiI0P2zgKe15LNscMK) | 3:24 |
+| 77 | [Ooh La La \- Live From My Bedroom\)](https://open.spotify.com/track/7t5ZovheDpNgWCQaqYO0rY) | [Margot Taylor](https://open.spotify.com/artist/6YVFLnfoubUBApXdJmCWJd) | [Ooh La La \(Live From My Bedroom\)](https://open.spotify.com/album/2Zy2CiI0P2zgKe15LNscMK) | 3:24 |
 | 78 | [Save Your Tears \- Acoustic](https://open.spotify.com/track/3bAgPylIvBpMqUgOwobpDf) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Save Your Tears \(Acoustic\)](https://open.spotify.com/album/5lOLlN4sRuQIRiEpVzN8Qe) | 2:57 |
 | 79 | [Heartbeats](https://open.spotify.com/track/0mMc1o5pBIL7jgnibS6VFP) | [John T](https://open.spotify.com/artist/4FSTubpEay1eorvJrQd2du) | [Heartbeats](https://open.spotify.com/album/58XP1ZmJEDRszYuoAc6uyA) | 2:42 |
 | 80 | [Speak Your Heart](https://open.spotify.com/track/3d4k38C0dO6BWOkPn62eey) | [Lilith Merlot](https://open.spotify.com/artist/1aj2btWZXYFQP5KhTKGO0s), [Serge Dusault](https://open.spotify.com/artist/2RV3XBg4xGArDfTzQ1apdz) | [Speak Your Heart](https://open.spotify.com/album/6XWyL2HcchIDLcTQCcE4Hy) | 3:47 |

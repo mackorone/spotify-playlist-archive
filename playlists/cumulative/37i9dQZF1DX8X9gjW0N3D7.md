@@ -2,9 +2,9 @@
 
 ### [Québécois Contemporain](https://open.spotify.com/playlist/37i9dQZF1DX8X9gjW0N3D7)
 
-> De la musique québécoise pour tous les goûts\. Photo: Gab Bouchard
+> De la musique québécoise pour tous les goûts\. Photo: Vincent Vallières
 
-164 songs - 8 hr 51 min
+165 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Autour du feu](https://open.spotify.com/track/1oKs2jNC0GZE2r7HEATSDS) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [King Melrose](https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt) | [Autour du feu](https://open.spotify.com/album/0arxZMYaFN7b7cmjCIfqbF) | 2:34 | 2025-04-18 |  |
 | [Baby \(Version française\)](https://open.spotify.com/track/0iaPZE774qhQg2I1OXpS7x) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Baby \(Version française\)](https://open.spotify.com/album/35xdutf5J4ypyLnZQl0LuZ) | 3:46 | 2025-01-24 |  |
 | [Balle Courbe](https://open.spotify.com/track/0HBQUemZHQZdW3npRpKREc) | [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Balle Courbe](https://open.spotify.com/album/3lIkAxv5KylJhSBoPXk5Dq) | 3:05 | 2024-06-28 | 2025-01-18 |
-| [Beaux](https://open.spotify.com/track/0VskpD8acEn3VPp0dGOBoa) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [L'écho des perles](https://open.spotify.com/album/0P2xHJhtnbVC90itxc3XDN) | 3:11 | 2024-06-28 |  |
+| [Beaux](https://open.spotify.com/track/0VskpD8acEn3VPp0dGOBoa) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [L'écho des perles](https://open.spotify.com/album/0P2xHJhtnbVC90itxc3XDN) | 3:11 | 2024-06-28 | 2025-06-14 |
 | [Besoin de bras](https://open.spotify.com/track/4VJxp5oheMQcURrcbWLKAA) | [Émile Proulx\-Cloutier](https://open.spotify.com/artist/2tcdf8FUEBD6SEiJgaVeAT) | [Ma main au feu \- ACTE I](https://open.spotify.com/album/5WY0VNlI4MDKXHskwjKR1q) | 5:07 | 2024-06-28 |  |
 | [Brille autant \- Deluxe](https://open.spotify.com/track/4DrahTpOqqMUGFA9EaPoLB) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Album bleu \(Deluxe\)](https://open.spotify.com/album/7iwEMAFJfPV69HC3bo4KNc) | 2:32 | 2025-05-16 |  |
 | [Béatrice](https://open.spotify.com/track/5w4TBVGa5PM9dWV9Xm7l8W) | [Major\-Moran](https://open.spotify.com/artist/1G9UzmqlFkUfFF7Fa4rVPh) | [Béatrice](https://open.spotify.com/album/3idJJWSIWD8dLHD4JpoGPQ) | 2:59 | 2025-01-17 | 2025-05-17 |
@@ -46,6 +46,7 @@
 | [Dis\-moi dis\-moi dis\-moi](https://open.spotify.com/track/6CUxtpfcHNJ3s06zxKeppu) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 5:09 | 2025-02-21 |  |
 | [Dormir debout](https://open.spotify.com/track/1A1vZMoDiY6ulyevbW1M9c) | [Matt Moln](https://open.spotify.com/artist/7ANHFWaXJtG963OePSX29C) | [Dormir debout](https://open.spotify.com/album/76H8rGTRDxbvgKYysZRMth) | 3:43 | 2024-08-23 |  |
 | [Drôle de temps](https://open.spotify.com/track/5jyVXKVgeXVhErGGIEFMyv) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Drôle de temps](https://open.spotify.com/album/0WsI0ksQOfwX73ZE4YpaJs) | 3:43 | 2025-05-16 |  |
+| [Eh Oh!](https://open.spotify.com/track/0IeLLHkiaLRzaoFsHkI7xE) | [Vilain Pingouin](https://open.spotify.com/artist/7lS2jO7gRXSOtMYlhfjtbi) | [Eh Oh!](https://open.spotify.com/album/0JbvP9UVGoKONhiPcZ9E4F) | 2:36 | 2025-06-13 |  |
 | [Encore](https://open.spotify.com/track/0fwqRA13Is4S1HCDW5NeuS) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Encore](https://open.spotify.com/album/6UtBF8mZYbiL0lhmHvl13u) | 3:43 | 2024-11-08 | 2025-01-25 |
 | [Ensemble \(feat\. Charlotte Cardin\)](https://open.spotify.com/track/49LdsRKerqExlBslaCA8qw) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/7zI1sbxIUXolMmJMRt37OZ) | 2:52 | 2024-11-08 |  |
 | [Ensemble \- Radio Edit](https://open.spotify.com/track/73G5Qtfwq7lSFR9MlpQDlj) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble \(Radio Edit\)](https://open.spotify.com/album/0KAc9578FWtoMFmv78oZKu) | 2:27 | 2024-06-28 | 2024-10-19 |

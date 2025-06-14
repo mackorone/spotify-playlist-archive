@@ -2,9 +2,9 @@
 
 ### [Pinas Vibes ](https://open.spotify.com/playlist/37i9dQZF1DWY90iCJMKual)
 
-> PH vibin' cover: Jess Connelly
+> PH vibin' cover: PLAYERTWO
 
-352 songs - 19 hr 26 min
+356 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Fallin](https://open.spotify.com/track/064sICng1UknPZvos5SLNs) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Fallin](https://open.spotify.com/album/5SeKMJeh7DFJAZhcuiFU21) | 2:51 | 2023-07-13 | 2023-10-14 |
 | [Fight or Flight](https://open.spotify.com/track/1JTjcIK0OOwopIWkWfKUw2) | [primo.io](https://open.spotify.com/artist/4sG37eH4v8Oi8nReR52YCB) | [Fight or Flight](https://open.spotify.com/album/1ZwAq8ymX6JaWcAWLEq7GT) | 3:30 | 2023-04-06 | 2023-09-16 |
 | [First Impressions \- Yuan Estrada x Dave Anonuevo Remix](https://open.spotify.com/track/2yzGqCVboYtsOUolarj6hd) | [Inigo Pascual](https://open.spotify.com/artist/0XOSmu9Qn1agQULUVe0dAK), [Yuan Estrada](https://open.spotify.com/artist/4lip0Iq4MmA7pHujoaMWlN), [Dave Anonuevo](https://open.spotify.com/artist/7buJRMVUhTO2JhsNekynv1) | [Options \(Deluxe\)](https://open.spotify.com/album/6BiJmwF8oi2ZZIWYXbdU5O) | 4:03 | 2022-10-12 | 2022-12-15 |
+| [Florita](https://open.spotify.com/track/2SaE6WhsNMqa6ElPINBYr8) | [KV](https://open.spotify.com/artist/4ZPvMY3YPMZbVZn5WIjzvB) | [Florita](https://open.spotify.com/album/74JjHdH1qHyLjymNdmVcb7) | 3:14 | 2025-06-13 |  |
 | [FLYYY](https://open.spotify.com/track/0PWBx43woMnsyUC72NC1Gl) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [FLYYY](https://open.spotify.com/album/5kilQF27XttjACkkQBz0jj) | 4:20 | 2024-01-26 | 2025-01-17 |
 | [Follow](https://open.spotify.com/track/6yT9DXOOdumPMkrV0gWfHy) | [Aud](https://open.spotify.com/artist/3NMhcW66XxBDyv3AH9T23w) | [Follow](https://open.spotify.com/album/1WM1m5U1JuoUG9c7Ur9o5K) | 2:50 | 2024-05-08 | 2024-08-08 |
 | [fool me twice](https://open.spotify.com/track/2pTiZDWLDQjucMaCqiJnTW) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN) | [fool's gold](https://open.spotify.com/album/3h3J8rBM1fJmZasYyT9U2U) | 3:02 | 2025-05-27 |  |
@@ -219,6 +220,7 @@
 | [May Nanalo Na](https://open.spotify.com/track/0sRiN6LTeSEUQZOSuCG8mr) | [Loonie](https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc), [Frizzle Anne](https://open.spotify.com/artist/0nFYwBSW3uQyPErFv96mr7) | [May Nanalo Na](https://open.spotify.com/album/2VAQoucUaHrBViTgDSyLMD) | 3:57 | 2025-05-27 |  |
 | [Megastar \- Interlude](https://open.spotify.com/track/0pG5wMHBJQjrORcSMv0TIb) | [KINDRED](https://open.spotify.com/artist/20bisCfPMhrXJH4Wv5lmh1), [Sharon Cuneta](https://open.spotify.com/artist/3I5ONm7nnP1LpvqsnA5dBG) | [Megastar \(Interlude\)](https://open.spotify.com/album/28YClUSxdivOubLAoIfDRc) | 2:45 | 2023-10-02 | 2023-11-11 |
 | [Mercy](https://open.spotify.com/track/0GsVREyX9rAYrCOFLv32G5) | [Shan Capri](https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr) | [Mercy](https://open.spotify.com/album/3sBod361N3F0oYF7wexyav) | 2:03 | 2025-06-06 |  |
+| [Mhine \(The Ending Story\) \(feat\. Ms\. Yumi\)](https://open.spotify.com/track/4PPSpz34aol6Xe5kWOcyKK) | [Repablikan](https://open.spotify.com/artist/2KQQZKs8W3hegtKyt5DFA5), [Jslim](https://open.spotify.com/artist/2d0kcx3WqzvmgAolZohbMy), [Ms\. Yumi](https://open.spotify.com/artist/5vgnCBkhcH7Omm2yvf86kN) | [Mhine \(The Ending Story\) \(feat\. Ms\. Yumi\)](https://open.spotify.com/album/18uhpx7yA8mTiA0Gew7Bde) | 3:21 | 2025-06-13 |  |
 | [MIDNYT SNACK](https://open.spotify.com/track/1abidRpQBY12rqiwIafnPZ) | [June Andreas](https://open.spotify.com/artist/7JQTgAQRFXE1eqB3AknKT0) | [MIDNYT SNACK](https://open.spotify.com/album/0hZ4QvaZHTWFkhomk9BZsc) | 3:00 | 2023-06-26 | 2023-10-14 |
 | [Mood Swings](https://open.spotify.com/track/5n40E9H40UX8b11g1y2D7o) | [Jnske](https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU) | [Mood Swings](https://open.spotify.com/album/3hTb5O25Vx6QZsBs7eILkD) | 3:22 | 2023-10-11 | 2024-02-10 |
 | [morenita](https://open.spotify.com/track/33uxA28bUvEG6LkA5DtbkT) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [morenita](https://open.spotify.com/album/3gFgsuVf4OXdH2CBRsggsO) | 2:42 | 2024-09-27 | 2025-05-28 |
@@ -239,6 +241,7 @@
 | [OBOB](https://open.spotify.com/track/1SHAy0cu2AY1glzvZtwFOG) | [Juan Caoile](https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [masyadong in\-love](https://open.spotify.com/album/2jVYMf1mVGvdImSTb3bJd3) | 3:37 | 2025-05-09 |  |
 | [On It](https://open.spotify.com/track/4Oa7hB0TLwbBOotG2Br45k) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9), [NER](https://open.spotify.com/artist/6QS2Yudp5FJMMVvrji5Rvs) | [On It](https://open.spotify.com/album/1Czy7pcqUGAfvtFYUIOnYt) | 3:32 | 2022-10-12 | 2023-07-29 |
 | [On&Off](https://open.spotify.com/track/4uh7kGhYyAzvABoNVUG50M) | [Vince Lucero](https://open.spotify.com/artist/4UXx2GO375uJJFcMk8FWwq), [knōwmaad](https://open.spotify.com/artist/1fLR67iN8Rm9atDIhgMbAU), [ONEFLOOR](https://open.spotify.com/artist/5mn4HsyvMQ1tluNNl2HXDQ) | [On&Off](https://open.spotify.com/album/0UzoVAS4sDTE46lmKDCyVT) | 3:41 | 2024-08-09 | 2025-03-22 |
+| [ONE NIGHT](https://open.spotify.com/track/25lCIVyiwksrf28v9hldGR) | [SJ Maglana](https://open.spotify.com/artist/28lD6fIj7acTZNQHr7UIqc) | [ONE NIGHT](https://open.spotify.com/album/1wk5qpEqmT1xW695nH7jAe) | 2:49 | 2025-06-13 |  |
 | [One Time](https://open.spotify.com/track/6Rg6eqYIQWJv8eBoUE3bz7) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [One Time](https://open.spotify.com/album/5B4Dvq61L0RzLDXFH9L0re) | 3:00 | 2025-05-27 |  |
 | [Only One](https://open.spotify.com/track/4mHusVLmGSUywXjhU2zUBM) | [Zeke Abella](https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn) | [Only One](https://open.spotify.com/album/6VMWV0ecrxgL7xCZeBKKZi) | 3:59 | 2023-04-06 | 2023-08-04 |
 | [Ooh Wee](https://open.spotify.com/track/3uDdNZ7k0tQjmCEvAiXHaJ) | [Ayres](https://open.spotify.com/artist/24JcRisRdXL6N08l1TG7ex) | [Ooh Wee](https://open.spotify.com/album/0WH53hhU3DSYXEnueLRWjU) | 3:29 | 2023-11-10 | 2024-02-07 |
@@ -272,6 +275,7 @@
 | [Project 4](https://open.spotify.com/track/0vzeoCC3jhrWsZMRUBCR4m) | [S3AN](https://open.spotify.com/artist/0aXgCtMMrQL8Ta1L1obEZ3) | [Project 4](https://open.spotify.com/album/10B0KRoGVm7Pufn2144epG) | 3:30 | 2024-03-29 | 2024-08-03 |
 | [Pulso](https://open.spotify.com/track/1CqkZpujqmMS55qlCLpSZ7) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ), [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf) | [Pulso](https://open.spotify.com/album/4FEuHvrAkV2mwgaqGNN2fv) | 3:08 | 2024-09-27 | 2025-05-28 |
 | [Puntirya](https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD) | [Puntirya](https://open.spotify.com/album/6jtq1fwv2xRUMWWIpA7hug) | 3:43 | 2024-07-08 | 2025-03-22 |
+| [QC Gurlz Remix \(feat\. Sassa Gurl\)](https://open.spotify.com/track/5174ISeCjlLkeoESkNHiGl) | [Stef Aranas](https://open.spotify.com/artist/741S9vc1M279OomvdEsFhg), [Sassa Gurl](https://open.spotify.com/artist/52D0Fi29GcObaFnweqsV6d) | [QC Gurlz Remix \(feat\. Sassa Gurl\)](https://open.spotify.com/album/7wuDE5gXpKntb23qRMXiLZ) | 3:18 | 2025-06-13 |  |
 | [Quality Time \(feat\. Mojia\)](https://open.spotify.com/track/3tCYXh7yjlu45fXgq85LmF) | [Swizzy Max](https://open.spotify.com/artist/7cDiSfjL2vCN5RHjDZocrt), [Mojia](https://open.spotify.com/artist/402vcacHfl5PtJLptZ2N8L) | [Quality Time \(feat\. Mojia\)](https://open.spotify.com/album/2JjEzLVaMzJxQkM8vslmYC) | 2:54 | 2022-10-12 | 2023-07-29 |
 | [r u mine?](https://open.spotify.com/track/5XORKi6kE3LoXyeuCTOZEr) | [Yoki](https://open.spotify.com/artist/2KSbfWcuuca3HqCgxzNR5c) | [zero sugar \(deluxe edition\)](https://open.spotify.com/album/03pff5qVfKj4f6vwmHZuX7) | 2:48 | 2025-01-17 |  |
 | [RAIN \(feat\. SIK4M1\)](https://open.spotify.com/track/1RyNTn3xMOxEEKBPPNv26Y) | [Shayne Carmel](https://open.spotify.com/artist/5ihyCQON8OCN3L7LtdvPJh), [Ruth Lee Resuello](https://open.spotify.com/artist/2t2lODOqTfxQh0CyN6Wx20), [Millennium PH](https://open.spotify.com/artist/0Rqq0FtfXdLCVTMi4iuM0o), [SIK4M1](https://open.spotify.com/artist/1djddcVQAVA3lJTLmzIj7e) | [RAIN \(feat\. SIK4M1\)](https://open.spotify.com/album/4RUoQYHy04Sm41QDwB9Tyz) | 3:31 | 2022-10-12 | 2023-07-29 |

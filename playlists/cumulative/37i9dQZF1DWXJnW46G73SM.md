@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: مصطفى حجاج & إسلام كابونجا
 
-1,486 songs - 3 day 11 hr 2 min
+1,487 songs - 3 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -984,6 +984,7 @@
 | [احنا في حتة تانية](https://open.spotify.com/track/2qf81ena3saXA1BHE9Kbxk) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [احنا في حتة تانية](https://open.spotify.com/album/3R4q4R8A2zdjMF1WavLYeS) | 3:18 | 2022-12-29 | 2023-01-13 |
 | [اختياراتي \- من فيلم مستر إكس](https://open.spotify.com/track/3ilp9U50Ak4CKkS7jdCY4L) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [اختياراتي \(من فيلم مستر إكس\)](https://open.spotify.com/album/1RJUtPJMzR9NYADVQwStNT) | 2:50 | 2023-06-20 | 2023-08-10 |
 | [اخر مرة قابلتك](https://open.spotify.com/track/7y7GL4KTpBlSpYtJNDqJdF) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [اخر مرة قابلتك](https://open.spotify.com/album/15TA8XyjrQrS16X6kbSx23) | 3:37 | 2024-02-23 | 2024-05-09 |
+| [ادي الايام](https://open.spotify.com/track/0LfqSLdayU8s012yBYILY5) | [Mohamed Raies](https://open.spotify.com/artist/1wbAAYYCMnTszCcwkQiHCQ) | [ادي الايام](https://open.spotify.com/album/6otvAKsCYxckhbe3bHJWpa) | 3:19 | 2025-06-13 |  |
 | [اذاني](https://open.spotify.com/track/2zVmt5sYC6CjiK9aV3APcU) | [سميه درويش](https://open.spotify.com/artist/2pqnxq3CUvSZC4bpftWrFQ) | [اذاني](https://open.spotify.com/album/7xEWMeVNR2sQhUuyTKiYK7) | 2:49 | 2024-02-16 | 2024-04-26 |
 | [استنى ليه بقى](https://open.spotify.com/track/5aePWn3QLCKxKq5HLViDEi) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [استنى ليه بقى](https://open.spotify.com/album/0oLm76ZSd5hNSDnUNYHevK) | 3:42 | 2021-12-23 | 2022-01-21 |
 | [اسقيني](https://open.spotify.com/track/3UvItzqBASEeNcv1SQpXf5) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [اسقيني](https://open.spotify.com/album/5b95RnfBRDGQqltiA61qDf) | 3:00 | 2023-12-12 | 2024-01-19 |

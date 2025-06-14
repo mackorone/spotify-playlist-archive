@@ -4,7 +4,7 @@
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 理想混蛋 \(Bestards\)
 
-526 songs - 1 day 10 hr 25 min
+527 songs - 1 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [就說你想說的 \(電影《為我辦一場西式的喪禮》主題曲\)](https://open.spotify.com/track/1b5dVCDgYYrf61U1Ff0tmC) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [就說你想說的](https://open.spotify.com/album/0FqW8002vT95qoJRrxqBWT) | 5:50 | 2024-10-17 | 2024-11-08 |
 | [山中森林 \- 電影【山中森林】主題曲](https://open.spotify.com/track/4QJrHDvuAiDhSgPvYtlWAq) | [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd), [李千那](https://open.spotify.com/artist/0rOFGXlFK59NmUCHga8oZM) | [山中森林 \(電影【山中森林】主題曲\)](https://open.spotify.com/album/1Ma7FMpQ3oWNscFyInAqum) | 4:27 | 2024-06-28 |  |
 | [山谷](https://open.spotify.com/track/0dDLilUI7enonD9d0NErel) | [Sunken Boat沉舟乐队](https://open.spotify.com/artist/2RQAjFDfhTgaLoUkzPvKZp) | [山谷](https://open.spotify.com/album/3cgDxIkeptxaitnCWY1iX9) | 4:14 | 2025-05-15 | 2025-06-13 |
+| [山野里的太阳](https://open.spotify.com/track/1TaWmBp7v4lOhWcKhXbTwC) | [房東的貓](https://open.spotify.com/artist/6oxtUCWftDouZzeso3oXcF), [大凉山妞妞合唱团](https://open.spotify.com/artist/4WVajhvcBlHdkwknAjgum8) | [山野里的太阳](https://open.spotify.com/album/78HrJ0os5Wf2o5aTWMDHep) | 4:20 | 2025-06-12 |  |
 | [山頂](https://open.spotify.com/track/0SzZ9egCeYwXHaqsSQ6cwv) | [滾動糯米](https://open.spotify.com/artist/1jLetP2ZjtSYT4IRgH2lHa), [縉 Jin](https://open.spotify.com/artist/6JfXcHzBOntsXu0MojxAXJ) | [山頂](https://open.spotify.com/album/2NpUoqBk7WVw9yEO7iwk5U) | 3:15 | 2024-06-28 | 2024-07-12 |
 | [島的對面](https://open.spotify.com/track/6XFEJgFLehGDLCr2wX1Qjm) | [無先生](https://open.spotify.com/artist/4FOONCzxfCMQ0RrLCdbEXp) | [島的對面](https://open.spotify.com/album/65gS9OnYlkGc5poLkn82j8) | 3:36 | 2024-12-26 | 2025-01-17 |
 | [布袋戲的故鄉](https://open.spotify.com/track/5AzSgHsnYMbOLTtFl348qz) | [董事長樂團](https://open.spotify.com/artist/5WR2etEYdApwPH0NNv8CTz) | [布袋戲的故鄉](https://open.spotify.com/album/3HdQUzCeMjqqCfxZMdRjlS) | 4:17 | 2024-10-17 | 2024-11-22 |

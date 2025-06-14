@@ -4,7 +4,7 @@
 
 > 📸 Alejo Isaak & El Turko.
 
-266 songs - 12 hr 15 min
+267 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [La Herramienta RKT](https://open.spotify.com/track/2lMeidnZtWrmvKr7wQufs4) | [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [La Herramienta RKT](https://open.spotify.com/album/0NNHnAyLvY9439OZonybGe) | 2:39 | 2024-06-07 | 2024-11-02 |
 | [La Jarra](https://open.spotify.com/track/5NvbkwL6r96Auhaa621dXW) | [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [La Jarra](https://open.spotify.com/album/0B8TLAqcDkiV1LsIXpmJhT) | 2:17 | 2023-12-15 | 2024-07-19 |
 | [LA MONEDA](https://open.spotify.com/track/7HBfy91fUKNz5ldpPcDczK) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv) | [LA MONEDA](https://open.spotify.com/album/1c21EJrWmkCGVaX0FKAutu) | 1:38 | 2023-12-15 | 2024-01-11 |
+| [LA PRE$iON 危 Vol • 1](https://open.spotify.com/track/6rurdBnoekyRMavGpweEkI) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [LA PRE$iON 危 Vol • 1](https://open.spotify.com/album/0Hg81h5apwPqv5QmOoPTiV) | 2:15 | 2025-06-13 |  |
 | [LALALÁ](https://open.spotify.com/track/1XGlvC36zhgG89NDih0IWk) | [El Turko](https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Mandale Flow](https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd) | [LALALÁ](https://open.spotify.com/album/37JeUPws94fpXAlCb3aBTF) | 2:46 | 2023-12-15 | 2024-07-13 |
 | [Le doy perreo](https://open.spotify.com/track/1DTmxMoV47mkuTrSY2xkyl) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Le doy perreo](https://open.spotify.com/album/0VJzJRpkszNHrVcPnkzSRn) | 2:18 | 2023-12-15 |  |
 | [Leche](https://open.spotify.com/track/5iA4WKK8PGFiQgiEJc7zuE) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [MAL APRENDIDA](https://open.spotify.com/album/2Zb3Aq1Z1eUkAEIvmaZknJ) | 2:26 | 2023-12-15 | 2024-01-27 |

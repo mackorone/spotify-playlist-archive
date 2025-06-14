@@ -2421,6 +2421,24 @@
     },
     {
       "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/34SPV2ljBQxMKPm4iCMWrN"
+      },
+      "artists": [
+        {
+          "name": "Irdens Exantus",
+          "url": "https://open.spotify.com/artist/4VjwwRk7cNv72B1okswQkz"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186857,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/4PKsZEAxcAPV6q6MeNaIGz"
+    },
+    {
+      "album": {
         "name": "Dans la foule",
         "url": "https://open.spotify.com/album/4Bcl7TLTBO7Q6Sbks59HRC"
       },
@@ -4310,6 +4328,24 @@
       "duration_ms": 171277,
       "name": "Honey",
       "url": "https://open.spotify.com/track/2b6X2rRfDU6CEyWHnLDeS6"
+    },
+    {
+      "album": {
+        "name": "Hoodie du Che",
+        "url": "https://open.spotify.com/album/52Y2nzPohbPOpbbMSW9q6n"
+      },
+      "artists": [
+        {
+          "name": "Adib Alkhalidey",
+          "url": "https://open.spotify.com/artist/1EwYqZHaDtS8o7lHNI172L"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220010,
+      "name": "Hoodie du Che",
+      "url": "https://open.spotify.com/track/1danqk02o34nZrUadi6Dw8"
     },
     {
       "album": {
@@ -9100,7 +9136,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 226000,
       "name": "Seul",
       "url": "https://open.spotify.com/track/2peGnmfed1wADMPsG05EGo"
@@ -10984,7 +11020,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 151218,
       "name": "why do we keep running away?",
       "url": "https://open.spotify.com/track/33hgcRs7ZzFLMoRHAqpdK3"

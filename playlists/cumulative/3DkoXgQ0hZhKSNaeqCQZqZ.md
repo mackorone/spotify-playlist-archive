@@ -4,7 +4,7 @@
 
 > All songs made for furs, by furs\.  Check top 25 @ spotify.furrest.net
 
-351 songs - 18 hr 31 min
+352 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [The General's Dogs](https://open.spotify.com/track/60Agi3R9ZYvncE1aNgOuAX) | [Exit Mouse](https://open.spotify.com/artist/3Ogz8kpK4hhGhHfSPVY7ER) | [The General's Dogs](https://open.spotify.com/album/6LfxDLa7ytzXxtGu9iaDp5) | 2:48 | 2023-06-14 |  |
 | [THE KILL](https://open.spotify.com/track/5UZgQsvQ9LVca5XqDRFbOb) | [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [THE KILL](https://open.spotify.com/album/14fINCadFpJCCbREk6JVLf) | 3:11 | 2024-08-15 |  |
 | [the largest boy \(ever\)](https://open.spotify.com/track/6pfzmolYBWEEGGCDuCo4Bi) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [Data Soup Demos](https://open.spotify.com/album/5CWYFxQJrUcIJGCCyLVszB) | 1:44 | 2024-11-18 |  |
+| [THE RINGMASTER](https://open.spotify.com/track/6j3GHqe8aOdXk2HjQ8BdOL) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [OodleZz](https://open.spotify.com/artist/2eCpXBK9mnqr6o9TydXu98) | [THE RINGMASTER](https://open.spotify.com/album/0GEWu5SM7yfdnUjqwA3Tu1) | 3:44 | 2025-06-13 |  |
 | [The Tail Song](https://open.spotify.com/track/6nijsxzA8n8oi9kq29Mvdb) | [OkayDonuts](https://open.spotify.com/artist/0Bhx3Xk2I9klcpopBSCcpc) | [The Tail Song](https://open.spotify.com/album/5s9BAlQaGBsonEJQ0B62Wi) | 1:36 | 2023-09-05 |  |
 | [thembo](https://open.spotify.com/track/5mbwsXdg5Bdd2tyqqceOvZ) | [Werewing](https://open.spotify.com/artist/6msaXg2oHJLtyWD4PoZpkE) | [thembo](https://open.spotify.com/album/4GKLqydauHPJFHm6pnDYEz) | 1:58 | 2024-11-18 |  |
 | [this thought](https://open.spotify.com/track/6EuzOgCmnKfAEflQf5oG4K) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6), [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [this thought](https://open.spotify.com/album/0fWgldWzuAozIR9fiz2A9W) | 3:18 | 2024-11-25 |  |

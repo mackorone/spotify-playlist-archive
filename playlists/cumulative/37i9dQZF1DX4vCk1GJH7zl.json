@@ -789,6 +789,36 @@
     },
     {
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/2BisEk7N65mjARu5LGS35W"
+      },
+      "artists": [
+        {
+          "name": "Twilight Aura",
+          "url": "https://open.spotify.com/artist/1xo1rupmkgRiqborQShT30"
+        },
+        {
+          "name": "Da\u00edsa Munhoz",
+          "url": "https://open.spotify.com/artist/4c9Fry8ueZr78paHWdEF0y"
+        },
+        {
+          "name": "Fabio Caldeira",
+          "url": "https://open.spotify.com/artist/4pyFz0gJQlmVrlpQyo1J3T"
+        },
+        {
+          "name": "Marcel Ribas",
+          "url": "https://open.spotify.com/artist/6z7ABRk5aFU97bOo9XuKCf"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243400,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/13kBXnr6HGyXQMA4pb7Q7T"
+    },
+    {
+      "album": {
         "name": "Ao Vivo Em Paranava\u00ed - Vol. 3",
         "url": "https://open.spotify.com/album/2BIit8ROWteatmlkMG0KEy"
       },
@@ -3030,7 +3060,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 303133,
       "name": "Stop Crying Your Heart Out",
       "url": "https://open.spotify.com/track/5YciOakY5dB5dULkiLdCaf"

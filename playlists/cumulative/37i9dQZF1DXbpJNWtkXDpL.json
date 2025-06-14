@@ -1309,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "tragaperras",
+        "url": "https://open.spotify.com/album/0SfLaf6FpAAvsgMUi8O1p6"
+      },
+      "artists": [
+        {
+          "name": "unperro andaluz",
+          "url": "https://open.spotify.com/artist/33lAD1kEfIjRuF6nt94u5k"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208634,
+      "name": "caratrapo",
+      "url": "https://open.spotify.com/track/6SE1BADGvQIrHOb87nqyPi"
+    },
+    {
+      "album": {
         "name": "Cartier en Mano",
         "url": "https://open.spotify.com/album/1nXeA6b9XN2vuMBHX4AdlL"
       },

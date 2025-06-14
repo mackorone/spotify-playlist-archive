@@ -4,7 +4,7 @@
 
 > All your favorite Disney songs wrapped up with love!
 
-139 songs - 7 hr 6 min
+140 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Can You Feel the Love Tonight](https://open.spotify.com/track/1jMKPk3A6ugsFLOFb21QSD) | [Joseph Williams](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui), [Sally Dworsky](https://open.spotify.com/artist/7vK6xoR5zT4DypEu0blUku), [Nathan Lane](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv), [Ernie Sabella](https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr), [Kristle Edwards](https://open.spotify.com/artist/4y5d67UxD0QON2vRZOjXZ6) | [Walt Disney Records The Legacy Collection: The Lion King](https://open.spotify.com/album/4VKvwKo7H66HIOeQpJ4FzN) | 2:52 | 2022-03-16 | 2022-07-29 |
 | [Can You Feel the Love Tonight \- From "The Lion King" / Soundtrack Version](https://open.spotify.com/track/2XQee7HP5QrDwUGHOl6GFf) | [Joseph Williams](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui), [Sally Dworsky](https://open.spotify.com/artist/7vK6xoR5zT4DypEu0blUku), [Nathan Lane](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv), [Ernie Sabella](https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr), [Kristle Edwards](https://open.spotify.com/artist/4y5d67UxD0QON2vRZOjXZ6) | [Disney Summer Songs](https://open.spotify.com/album/6qykGE5x584duyLVYcnojE) | 2:57 | 2022-07-07 |  |
 | [Can You Feel the Love Tonight \- From "The Lion King" / Soundtrack Version](https://open.spotify.com/track/1CQWhOlFQFn3je1Q05SDAm) | [Joseph Williams](https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui), [Sally Dworsky](https://open.spotify.com/artist/7vK6xoR5zT4DypEu0blUku), [Nathan Lane](https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv), [Ernie Sabella](https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr), [Kristle Edwards](https://open.spotify.com/artist/4y5d67UxD0QON2vRZOjXZ6) | [Disney's Greatest Vol\. 3](https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh) | 2:57 | 2022-09-15 | 2022-11-13 |
+| [Can You Feel the Love Tonight?](https://open.spotify.com/track/51AAdoEEsQ4oJrtyBOIi1r) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [In the Key of Disney](https://open.spotify.com/album/2Xgc5F1OMlpdHjrz3xUlHF) | 3:39 | 2025-06-13 |  |
 | [Candle On the Water \- From "Pete's Dragon" / Soundtrack Version](https://open.spotify.com/track/74UZSX03wVCDrZoQQ0d2ZV) | [Helen Reddy](https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO) | [Pete's Dragon](https://open.spotify.com/album/04X3K8C6QNxPM3BE3u2iV1) | 3:05 | 2025-02-14 |  |
 | [Carried Me With You](https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Onward \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst) | 3:33 | 2024-02-12 |  |
 | [Colors of the Wind](https://open.spotify.com/track/1OYOLWqKmhkFIx2KC9ek1a) | [Judy Kuhn](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) | [Pocahontas](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) | 3:34 | 2022-03-16 |  |

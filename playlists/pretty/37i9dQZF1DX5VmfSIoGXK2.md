@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 
 > Jazz house is our love language  🌳  with  Chaos In The CBD
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,516 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,579 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 | 99 | [No Bad Feelings Today](https://open.spotify.com/track/3obEXbTwHovSQtdjeW5b2w) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [No Bad Feelings Today](https://open.spotify.com/album/1vP6QlicXn0gTiqMAjxiI8) | 3:33 |
 | 100 | [Faux Départ](https://open.spotify.com/track/6he02h6WNseMS0VidRjBFT) | [DJ Psychiatre](https://open.spotify.com/artist/3roL1q2jZoQt3yZqbCb1DR) | [Faux Départ](https://open.spotify.com/album/2x3aYh9DTmqKvYjcHxl1o8) | 4:37 |
 
-Snapshot ID: `aEJn2wAAAABhdSL73d4wjuwUUdEeODXD`
+Snapshot ID: `aEuiegAAAACuLpfmbGIhgDk/OCTEd0PN`

@@ -2,7 +2,7 @@
 
 ### [A Perfect Day](https://open.spotify.com/playlist/37i9dQZF1DWSXBu5naYCM9)
 
-> A Spring afternoon in the sun
+> Sun\-kissed and interesting
 
 340 songs - 19 hr 30 min
 

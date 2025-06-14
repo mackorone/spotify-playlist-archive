@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-444 songs - 1 day 1 hr 36 min
+445 songs - 1 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Always Be My Baby \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Spotify Singles](https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie) | 4:14 | 2021-12-17 | 2023-10-17 |
 | [Always on My Mind \- 2003 Remaster](https://open.spotify.com/track/2SWn864dJI5RNyrp3F4Kp1) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [PopArt: The Hits](https://open.spotify.com/album/4wcFyCDvWuIAIIfemgtNUv) | 3:57 | 2022-12-29 | 2023-10-17 |
 | [Always on my mind \- 2023 Remaster](https://open.spotify.com/track/10umreSPAEw9G1cJIDV8ey) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [SMASH – The Singles 1985 – 2020 \(2023 Remaster\)](https://open.spotify.com/album/4FCjoPQe3bP2RmBE1SRCJj) | 4:04 | 2023-05-14 | 2023-07-02 |
+| [Always Remember Us This Way](https://open.spotify.com/track/16PeBkyJ6hq6ZQ5iOaE7nY) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Always Remember Us This Way](https://open.spotify.com/album/1f7YYa32O6pDWNOkUUW6Z5) | 2:44 | 2025-06-13 |  |
 | [American Boy \- Spotify Singles](https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Spotify Singles](https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO) | 3:19 | 2022-10-28 | 2023-10-17 |
 | [Anyone](https://open.spotify.com/track/0YhsOegsemgmT7ZHdWheUy) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Anyone](https://open.spotify.com/album/0KtdvlGTljVZ4D5Jarm4m8) | 2:52 | 2021-12-17 | 2022-09-30 |
 | [Anyone](https://open.spotify.com/track/2vK25Z3YBFJ44agZlDz9GG) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Wedding Songs](https://open.spotify.com/album/3e2GfHTpoxEbCUdCj5TRzl) | 3:51 | 2022-07-29 | 2022-12-30 |
@@ -240,7 +241,7 @@
 | [Jumper \- Acoustic](https://open.spotify.com/track/6rkrbJ7Ltdl7QnJFpSTw4F) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Jumper \(Acoustic\)](https://open.spotify.com/album/3KGecYEYv5uOMSaPU8hbvQ) | 3:04 | 2021-12-17 | 2022-05-02 |
 | [Just \(feat\. Phantom Planet\)](https://open.spotify.com/track/341zzm98KLs7O1GGjErHzO) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Phantom Planet](https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY) | [Version](https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR) | 5:19 | 2022-12-29 | 2023-10-17 |
 | [just the two of us](https://open.spotify.com/track/505CNjW6Y9GwvW5sVgvdK9) | [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [the quarantine covers](https://open.spotify.com/album/1UqChrYC7NGNDmf9nJx9xO) | 2:02 | 2021-12-17 | 2023-10-17 |
-| [Kids in America \(From the Netflix Film "Do Revenge"\)](https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Kids in America \(From the Netflix Film "Do Revenge"\)](https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT) | 3:14 | 2022-09-23 |  |
+| [Kids in America \(From the Netflix Film "Do Revenge"\)](https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Kids in America \(From the Netflix Film "Do Revenge"\)](https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT) | 3:14 | 2022-09-23 | 2025-06-14 |
 | [Killing Me Softly](https://open.spotify.com/track/2wEyNde0HsqvTpP6yphfQU) | [stories](https://open.spotify.com/artist/2TzZg302CB0oW5ZMeTW98p), [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Killing Me Softly](https://open.spotify.com/album/3dzUlxbwuGbnH0p1TOOTdZ) | 3:29 | 2022-05-27 | 2022-12-30 |
 | [Kiss Me](https://open.spotify.com/track/2UYNxBhod7KpjKEFlmHm2b) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Kiss Me](https://open.spotify.com/album/1RLqpCyfOigWVl2ufmXNGP) | 3:55 | 2024-06-14 |  |
 | [Kiss Me](https://open.spotify.com/track/1l3n3cIyHjEc7F78owErOa) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [AJ Salvatore](https://open.spotify.com/artist/5gLMXPUMc0uh9TedkRlng9), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Kiss Me](https://open.spotify.com/album/5Dgm7LEEwNIV2JkO7alcRs) | 2:26 | 2021-12-17 | 2022-07-29 |

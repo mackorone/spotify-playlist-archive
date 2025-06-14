@@ -2,9 +2,9 @@
 
 ### [Mood Ring ](https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3)
 
-> This is R&B in Canada\. Elevate your aura with Dylan Sinclair from Thornhill, ON.
+> This is R&B in Canada\. Elevate your aura with Avenoir from Edmonton, AB 🇨🇦 and Bryant Barnes from Cypress, TX\. 🇺🇸
 
-1,365 songs - 2 day 23 hr 8 min
+1,367 songs - 2 day 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Come With Me](https://open.spotify.com/track/26xDpdbYyHQtL1VigJRkhD) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Come With Me](https://open.spotify.com/album/1H9pgl0ykNBD3NeZsk6Eve) | 3:33 | 2022-06-24 | 2022-08-13 |
 | [Comfort](https://open.spotify.com/track/633bWqyVVdEFJl9xlVhTY4) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Comfort](https://open.spotify.com/album/1KZK8IfymPwrb8rspEMhhX) | 3:04 | 2023-03-31 | 2023-05-13 |
 | [Compassion \(feat\. Chiiild\)](https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 4:22 | 2022-03-25 | 2022-04-29 |
+| [Complicated](https://open.spotify.com/track/1TKCKbl1WfdVSZ214UwFeA) | [Jasmine Kiara](https://open.spotify.com/artist/2kGdlxpCZxXsqJ9d5BqD5f) | [Complicated](https://open.spotify.com/album/55zFVVEBk4S79p42UZDKKI) | 2:39 | 2025-06-13 |  |
 | [Complicated](https://open.spotify.com/track/3pQKpXKVx2VUpt62QIdTQZ) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:49 | 2024-05-24 | 2024-08-31 |
 | [Consume](https://open.spotify.com/track/1xfDL6kiwXdsbHyDCBImBr) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR), [Julles](https://open.spotify.com/artist/59RKDymdV7jSSYMk7kLdko) | [Consume](https://open.spotify.com/album/1kKjsmADxnPEjoY75Ye4lk) | 2:49 | 2024-03-22 | 2024-08-03 |
 | [Contraband](https://open.spotify.com/track/4sjM3d1n2pPJrPlhyC2FMX) | [The BLK LT$](https://open.spotify.com/artist/7GP4XKvNCPHXWJ2n8Nmdil) | [Contraband](https://open.spotify.com/album/0DBxNEtZisbJ4z11AN5lCq) | 3:30 | 2023-10-27 | 2024-03-16 |
@@ -478,6 +479,7 @@
 | [HBD](https://open.spotify.com/track/4pm4HsOqJFTvOSv5rhiNMD) | [ABBI WOODS](https://open.spotify.com/artist/44GFA4EspGPaCQo4VqLzTR) | [HBD](https://open.spotify.com/album/3DJwTnVsgiGRK4nCHGEuIz) | 2:27 | 2025-06-06 |  |
 | [Healing](https://open.spotify.com/track/7DH09N7VDPgCNP4CXn3QNp) | [Shann Aberdeen](https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O) | [Healing](https://open.spotify.com/album/7AgjKJQUmWxEcNH0v83tBz) | 1:47 | 2023-06-23 | 2023-09-09 |
 | [Heartbeat](https://open.spotify.com/track/0vdnJkU6Je0JkQs74RqhMi) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Heartbeat](https://open.spotify.com/album/4zoauodf0HkYb5RTQXB0OD) | 3:04 | 2022-02-25 | 2022-03-12 |
+| [Heaven](https://open.spotify.com/track/6YeBgabF5qNtrPVnrxD2d2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb), [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Heaven](https://open.spotify.com/album/0DHx1mktkaDnrMFmEf0iHV) | 3:02 | 2025-06-13 |  |
 | [Heaven Only Knows](https://open.spotify.com/track/3bYuS0r1krUv59094jVsom) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2) | [Heaven Only Knows](https://open.spotify.com/album/6ykC2AuC8qgBVro8l0Y4Zy) | 3:16 | 2023-06-16 | 2023-10-14 |
 | [Hello](https://open.spotify.com/track/1Sr7G1nLlnAFZ8AKT7PuGo) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Hello](https://open.spotify.com/album/3eBHvRyUhfarjwJH0YK7HK) | 3:15 | 2023-03-31 | 2024-01-13 |
 | [Hello](https://open.spotify.com/track/1YDrNRfnJKkyEuwCUId1vG) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [For the Better](https://open.spotify.com/album/6AlZ1GbJS3uLy8m23EhTfE) | 3:15 | 2023-11-17 | 2023-11-24 |
@@ -974,7 +976,7 @@
 | [Replay](https://open.spotify.com/track/1225xjUATJN7lZKxLBHGAk) | [John Concepcion](https://open.spotify.com/artist/5mqw4f8V3r2PBVKCKAkqiY) | [Replay](https://open.spotify.com/album/5eQBOtnmxFfItlGAyxtO3c) | 2:43 | 2023-08-04 | 2023-12-09 |
 | [Resist](https://open.spotify.com/track/4fZIIyvsVjges8sgivPak2) | [Kitt](https://open.spotify.com/artist/1hsAuVzLaC3fM5xk2PpdSy) | [Resist](https://open.spotify.com/album/1tiuEwjh0mTlDn9f3zMKo0) | 4:10 | 2022-04-22 | 2022-05-20 |
 | [RESPECT](https://open.spotify.com/track/0eZk3lHzNSjJ9I5YAs26VQ) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [The Sky Is Recording Me: 100 Years Later, Vol\. 2](https://open.spotify.com/album/4gxh0RuP5wCl7QzWuPRHQX) | 2:54 | 2024-11-22 | 2024-12-21 |
-| [RETRO](https://open.spotify.com/track/7qL0Z6HZKGjcWX6JiracpX) | [Moël](https://open.spotify.com/artist/4G0BLZEt6gxTlxB6fZsvTa), [Nasim Asgari](https://open.spotify.com/artist/3Ha4pQdxfE4l63EuZUrCDE) | [RETRO](https://open.spotify.com/album/45GDcZlo4VqOO4dS7rcuhE) | 3:22 | 2024-03-29 |  |
+| [RETRO](https://open.spotify.com/track/7qL0Z6HZKGjcWX6JiracpX) | [Moël](https://open.spotify.com/artist/4G0BLZEt6gxTlxB6fZsvTa), [Nasim Asgari](https://open.spotify.com/artist/3Ha4pQdxfE4l63EuZUrCDE) | [RETRO](https://open.spotify.com/album/45GDcZlo4VqOO4dS7rcuhE) | 3:22 | 2024-03-29 | 2025-06-14 |
 | [RHYAN'S HYMN](https://open.spotify.com/track/4xaD8rHYk3Fe51NH9HdDen) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [IN LOVING MEMORY+](https://open.spotify.com/album/50alsNS5T7VD1pcpt1NGhy) | 4:58 | 2024-12-06 | 2025-02-22 |
 | [Rich](https://open.spotify.com/track/69Fxo98uVzdxZn9ACnmyYZ) | [Yarah](https://open.spotify.com/artist/5DzbLrOUJEiT6kx68Dnqxr) | [Just for Now](https://open.spotify.com/album/7hxWom7mIwyfIM7ctziEqy) | 1:47 | 2022-03-25 | 2022-04-29 |
 | [Ride the Beat](https://open.spotify.com/track/07OWcMhNPLaRchvuHudbIo) | [Savannah Taylor](https://open.spotify.com/artist/1185H9iknMO4AAJQSkwlvu) | [Relaxin'](https://open.spotify.com/album/1nmI8mc9Iw66z1FmEkVMB1) | 3:33 | 2022-11-25 | 2023-01-06 |
@@ -989,7 +991,7 @@
 | [RN Interlude](https://open.spotify.com/track/2neaD0EL4EqsWyLCefrytF) | [July](https://open.spotify.com/artist/31gFvqSxh2pAlou6w8iOc5) | [RN Interlude](https://open.spotify.com/album/3j73yMjikMWvu49l6TuAKP) | 2:26 | 2022-07-08 | 2023-07-15 |
 | [Room](https://open.spotify.com/track/35wU3ihUZ1RnFPW1Q5NGvT) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [EGO](https://open.spotify.com/album/6s7rkUQ60j8BI4CGDgmxBZ) | 2:52 | 2022-11-11 | 2023-05-27 |
 | [ROOM SERVICE](https://open.spotify.com/track/7wedmrpvuQP7k15akC0cNk) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [Suite 96 \(Side A\)](https://open.spotify.com/album/5qC3HhQcxno1tkVDe9ttyg) | 3:02 | 2025-02-28 | 2025-03-29 |
-| [Rose](https://open.spotify.com/track/0Pfhf6a94kjWWyGjwlfwP1) | [Cameron James](https://open.spotify.com/artist/4L2lMQeDAR8VxA0ZiMR9hT), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [Rose](https://open.spotify.com/album/7GxpaSc32hOjFgoM3rTobI) | 2:35 | 2025-05-23 |  |
+| [Rose](https://open.spotify.com/track/0Pfhf6a94kjWWyGjwlfwP1) | [Cameron James](https://open.spotify.com/artist/4L2lMQeDAR8VxA0ZiMR9hT), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [Rose](https://open.spotify.com/album/7GxpaSc32hOjFgoM3rTobI) | 2:35 | 2025-05-23 | 2025-06-14 |
 | [roses](https://open.spotify.com/track/5axd9vjijmtAtlREaAGmbc) | [Divine Lightbody](https://open.spotify.com/artist/4b9YacVLF5QegzWwfz0vIJ) | [roses](https://open.spotify.com/album/4NRUnzMMyy94Xtv2MbgYOD) | 3:02 | 2025-05-30 |  |
 | [Rounds](https://open.spotify.com/track/0MpBG76Vk6k9zUvEi2lAzf) | [RIZ](https://open.spotify.com/artist/0jqnXN5T2fcibfVJOY1G3N) | [Rounds](https://open.spotify.com/album/5xn4T5fEYlezz3foZQ7NZT) | 2:28 | 2023-07-21 | 2023-10-21 |
 | [RUFF RIDE](https://open.spotify.com/track/0yxOhm9EgkEDjAbXLyoObO) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [RUFF RIDE](https://open.spotify.com/album/3uypo9hATbNvyhiYYpNWQ2) | 2:36 | 2024-12-06 | 2025-03-29 |

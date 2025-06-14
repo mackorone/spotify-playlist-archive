@@ -2,9 +2,9 @@
 
 ### [ERROR 404 ](https://open.spotify.com/playlist/37i9dQZF1DXbbEu9bFtnTl)
 
-> muZikiiTa RaRa 100pre sÄd t oDiiO bye 👾 AKRILA en portada
+> muZikiiTa RaRa 100pre sÄd t oDiiO bye 👾 Easykid en portada
 
-201 songs - 8 hr 16 min
+202 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [We Rise to the Light](https://open.spotify.com/track/4KaxlziGqIm7BmAz3RIZ3S) | [Emossana](https://open.spotify.com/artist/4zqwjIcqzUM70vWufe5ePJ) | [We Rise to the Light](https://open.spotify.com/album/2VdWN2FtCSuY8oIOZ4ytEc) | 2:53 | 2025-04-25 |  |
 | [without you](https://open.spotify.com/track/3rvXFheXdNFNMtqyRkoiPl) | [Conico](https://open.spotify.com/artist/585mUNJeJoLyRHXH0E7nX8) | [without you](https://open.spotify.com/album/3Mw09XymU9LZGx5OS5YU4I) | 1:23 | 2024-06-14 |  |
 | [WLTDO](https://open.spotify.com/track/5AUjvH4ACOQj5WxdVjy4W1) | [Cuauh](https://open.spotify.com/artist/3nVY2YFUkLFklG2qTfbPVc) | [WLTDO](https://open.spotify.com/album/0TCWMreTiJ3xLi7dECdUCY) | 1:37 | 2024-06-14 | 2025-02-01 |
+| [wtfff.](https://open.spotify.com/track/55n8zsZSV8VwwbVp2v8VgB) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:11 | 2025-06-13 |  |
 | [XX](https://open.spotify.com/track/0UM8QbDQaYJKVWLLFJLsV8) | [xHEIDIx](https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j) | [XX](https://open.spotify.com/album/7w8FldZ8H5n9b1724CCnsD) | 3:32 | 2024-08-02 |  |
 | [XXL](https://open.spotify.com/track/2I4Ahv4wzisiw3G7ZJshBD) | [KyozeH](https://open.spotify.com/artist/258O12vApWppL528cs0gQf) | [XXL](https://open.spotify.com/album/1zbbc3CrJ3yRbUCfEwbD1Q) | 2:13 | 2025-01-31 |  |
 | [ya no piensas en mi](https://open.spotify.com/track/2rq9pyG34CN0de1FdqQMx7) | [CRYMES](https://open.spotify.com/artist/2Js99jlxIiJItAAh69aZMM), [Sleezy O](https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n) | [ya no piensas en mi](https://open.spotify.com/album/71u6OOinammNCwTSGzqll0) | 4:18 | 2024-06-14 | 2025-02-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,786 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,804 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 59 | [Acalanto](https://open.spotify.com/track/1TkWCfVoxYqGY5umsKFT0n) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx) | [Acalanto](https://open.spotify.com/album/0vfEOSIgEL5tGirjQmpzQz) | 4:28 |
 | 60 | [20ver](https://open.spotify.com/track/7tiqfQ8TSYiRah8puEJ02l) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [20ver](https://open.spotify.com/album/4frgcxPlRSRLufWtPpjRUu) | 3:18 |
 
-Snapshot ID: `aEJlgwAAAAAbTdwsAN4TaK9V1i60ELhs`
+Snapshot ID: `aEvYnAAAAABZJr2vSHhfjh8pH997gGpX`

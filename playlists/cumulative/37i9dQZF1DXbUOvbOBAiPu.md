@@ -4,7 +4,7 @@
 
 > New music from Camille, DYSTINCT & J Balvin, Sylvie Kreusch and more...
 
-5,105 songs - 11 day 6 hr 21 min
+5,108 songs - 11 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2370,6 +2370,7 @@
 | [KiLELE](https://open.spotify.com/track/404Il8wdrtHc2Wgcl0rfjT) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [KiLELE](https://open.spotify.com/album/402gAvYew9C7igBTsZgPSz) | 2:38 | 2025-05-01 | 2025-05-09 |
 | [Kilimanjaro \(feat\. Oxlade\)](https://open.spotify.com/track/4nCECWieTv9JvVINUprF9U) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Young Kingz II](https://open.spotify.com/album/7Il92ktSZCVhB1LIyViwn4) | 3:22 | 2025-02-06 | 2025-02-14 |
 | [Kill The Vibe](https://open.spotify.com/track/4Mw1vqYfDWL2d8dJLWFYQp) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [Kill The Vibe](https://open.spotify.com/album/3RajPAonNivFPajGSnsh42) | 2:46 | 2024-05-31 | 2024-06-07 |
+| [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs) | 2:28 | 2025-06-12 |  |
 | [Kind Of Man](https://open.spotify.com/track/3JMc2rsrzFkhEyma8c56Xc) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Kind Of Man](https://open.spotify.com/album/7bSCE8LUTgZ8lEWLjDKcy4) | 4:15 | 2024-05-16 | 2024-05-24 |
 | [King Steps](https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [King Steps](https://open.spotify.com/album/4Rrl6Wyonv6ACxYSJvFogt) | 3:01 | 2024-11-28 | 2024-12-06 |
 | [Kings of the Night](https://open.spotify.com/track/632CF5Z7MtpbjBzS6yjqtZ) | [Scars on Louise](https://open.spotify.com/artist/6OLolKvyW09TJNGrvCdsSd) | [TRINITY x BODY](https://open.spotify.com/album/6tCgyb5wI79xBHD5LzEKOL) | 2:34 | 2024-10-24 | 2024-11-01 |
@@ -4345,6 +4346,7 @@
 | [The Barber](https://open.spotify.com/track/7FGCJOLUjZalIyBp33vMks) | [Dull Boy Johnny](https://open.spotify.com/artist/6R3zHNuwxcY427ahFNU2z0) | [The Move](https://open.spotify.com/album/5eI4Z9KHSjgO7P4aCRpiEw) | 2:48 | 2025-02-13 | 2025-02-21 |
 | [The Bed Unfold](https://open.spotify.com/track/2JaYsCEgBJyaPlKV2t91Jd) | [Penelope Antena](https://open.spotify.com/artist/78AWqSH5GCoOrI5zqNqHsH) | [Joy Will Find Its Way](https://open.spotify.com/album/1mkFngvOZTjjUkDBhtqFAc) | 3:20 | 2025-05-15 | 2025-05-23 |
 | [The Beginning](https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Beginning](https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu) | 3:31 | 2024-05-31 | 2024-06-07 |
+| [The Bellboy \(One Last Crush\)](https://open.spotify.com/track/3zP0fq3Hv4DyEaLGBpQuln) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin \(Deluxe\)](https://open.spotify.com/album/0GE0uLMG3dAOrvPGcJtvKz) | 3:28 | 2025-06-12 |  |
 | [The Best Is Yet To Come](https://open.spotify.com/track/4prLKphlMopZ86okzuRW81) | [abrahamblue](https://open.spotify.com/artist/2TzrsJxlKAgMqEY2dSPJ9g) | [The Best Is Yet To Come](https://open.spotify.com/album/4MWp6wVxc5fHrifX58mHHg) | 3:06 | 2024-09-19 | 2024-09-27 |
 | [The Bird Song](https://open.spotify.com/track/43aIA9Lq1rvYF2M0I3QqfU) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [The Bird Song](https://open.spotify.com/album/6rCQxSgAO0G5ZSRT0aNzsZ) | 2:52 | 2024-06-27 | 2024-07-05 |
 | [The Chase](https://open.spotify.com/track/4Y8PGabkHNMDRmlKSYh8qK) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [The Chase](https://open.spotify.com/album/5koPzfr85wkv99rVjVKTXX) | 2:27 | 2025-05-08 | 2025-05-16 |
@@ -4970,6 +4972,7 @@
 | [Woman](https://open.spotify.com/track/1wYBt2URytGTqxoscQV9Py) | [TEUN](https://open.spotify.com/artist/2HYKtKJ5ZbUaz3BoDpRSYv) | [Woman](https://open.spotify.com/album/3ZMy2swhlW6rVRfdiqxGjx) | 4:36 | 2025-02-13 | 2025-02-21 |
 | [Woman Is King](https://open.spotify.com/track/1gxc1dIYLmSS2sxMm8BYNj) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Tell My Therapist I'm Fine \(Deluxe\)](https://open.spotify.com/album/6qPZrueXJiXtEe8qxGq49N) | 1:46 | 2025-03-06 | 2025-03-14 |
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-11 | 2024-07-19 |
+| [Won't Stop](https://open.spotify.com/track/4ugKUZExbqbkKXEmbTrTRW) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Won't Stop](https://open.spotify.com/album/1TRulQDa3GYTurukQ91HGB) | 3:01 | 2025-06-12 |  |
 | [Wonderful](https://open.spotify.com/track/3Jm4XJix6nkGiY3IY8mPyu) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Wonderful](https://open.spotify.com/album/3BwgvjyD1pDNyj1VLW0dBw) | 3:46 | 2024-05-16 | 2024-05-24 |
 | [Wonderkind](https://open.spotify.com/track/4bcwafLCp4X5Usloxiyvcs) | [FULCO](https://open.spotify.com/artist/6KXC42r3VuasqhvMOFKxJt) | [Wonderkind](https://open.spotify.com/album/2JflmVKhoTaR30gDqZf4h5) | 3:27 | 2025-02-13 | 2025-02-21 |
 | [WONDERWaLL \- Spotify Singles](https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c) | 4:00 | 2025-01-30 | 2025-02-07 |

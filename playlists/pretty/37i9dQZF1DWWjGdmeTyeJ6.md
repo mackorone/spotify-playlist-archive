@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > Celebrating 10 years of the best new music by independent artists and labels\. Cover: Jahnah Camille
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,223,743 likes - 205 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,223,736 likes - 205 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jesse Jackson](https://open.spotify.com/track/3wF6BcBBdUOG1BMVl9zrWJ) | [Cyanca](https://open.spotify.com/artist/5wRYRfmB2dsgDnNvdoDxTO) | [Jesse Jackson](https://open.spotify.com/album/4dCgdgrAJn0Pzfm8zxDaLJ) | 3:05 |
 | 2 | [Thought You'd Know By Now](https://open.spotify.com/track/3r3Q5fZSk15DX2bJI12Mz6) | [Dylan Atlantis](https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO), [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [Thought You'd Know By Now](https://open.spotify.com/album/4GIXkFwJ7hhS1TaByKiQDQ) | 2:57 |
-| 3 | [Texas Primadonna](https://open.spotify.com/track/03eZNwdLPrikoKzdO2LlqO) | [Tiffany Stringer](https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u) | [The Texas Primadonna](https://open.spotify.com/album/3DjEEt7A58vpSuUemigZzB) | 2:13 |
+| 3 | [rocket](https://open.spotify.com/track/3BA0pgBBU4MzXwnOUFwIOB) | [Jahnah Camille](https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS) | [My sunny oath!](https://open.spotify.com/album/5e51HsMClL4Gz6hn4ItN4K) | 2:31 |
 | 4 | [Strange Ways](https://open.spotify.com/track/6cCr4322AW8708Af5VL60d) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [While The Iron Is Hot](https://open.spotify.com/album/0cFavtnkVxB3dpml8KpJEg) | 2:22 |
 | 5 | [You're on the Loose](https://open.spotify.com/track/77P729eyk6EgyXQJV22hpu) | [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [You're on the Loose](https://open.spotify.com/album/7An52a3iEFGZPKQE3NCDSy) | 4:37 |
-| 6 | [sit with you \(pain\)](https://open.spotify.com/track/1QBeq423x9hTeJI6IGLPl4) | [Jahnah Camille](https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS) | [sit with you \(pain\)](https://open.spotify.com/album/6ibXSghXvbjtGG95JEsdqm) | 3:15 |
+| 6 | [After the Fact](https://open.spotify.com/track/62eY7NxeO2pjWLchkqqdtL) | [Syd Taylor](https://open.spotify.com/artist/3dZ1fTizrmY5jfkf0jrvav) | [After the Fact](https://open.spotify.com/album/6EvzRn0Y2h4ZJswOUuZrpK) | 3:28 |
 | 7 | [Metanoia \(p.179\)](https://open.spotify.com/track/1qcpPLLM4y1bGfwPS5DHDI) | [Salty Licorice](https://open.spotify.com/artist/6ipya2KPF19iwpylWPCHZs) | [The Sunrise Cried](https://open.spotify.com/album/5RSwmoVHdPTkHeIQDyRxsN) | 3:12 |
-| 8 | [ROCKSTAR BABY](https://open.spotify.com/track/033qWC3y06qRnxnNdF66uX) | [skuzland](https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp) | [ROCKSTAR BABY](https://open.spotify.com/album/0Gec1yIvCKN6ASC1sQMPtf) | 2:55 |
-| 9 | [My Girls \(feat\. Sierra Sellers\)](https://open.spotify.com/track/2mdwJ2wy0OchwJSt09p2Cy) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ), [Sierra Sellers](https://open.spotify.com/artist/3CX8IWsvFSnxgb5x82sETO) | [My Girls \(feat\. Sierra Sellers\)](https://open.spotify.com/album/7c08Y9F0zNR3PrdiP13TCj) | 3:37 |
-| 10 | [After the Fact](https://open.spotify.com/track/62eY7NxeO2pjWLchkqqdtL) | [Syd Taylor](https://open.spotify.com/artist/3dZ1fTizrmY5jfkf0jrvav) | [After the Fact](https://open.spotify.com/album/6EvzRn0Y2h4ZJswOUuZrpK) | 3:28 |
-| 11 | [To Kill Me](https://open.spotify.com/track/5vWo5yZtL7G1txIHmCQ5o4) | [The Kentucky Gentlemen](https://open.spotify.com/artist/5Jyxuj6Ho7xmNPrDub1U86) | [Rhinestone Revolution](https://open.spotify.com/album/4YunEFZ0dr3c475kiwqEPn) | 3:01 |
-| 12 | [Choke Chain](https://open.spotify.com/track/6L0iKLGrWW53jAopkwopzy) | [Angelsaur](https://open.spotify.com/artist/1GfyE51MdTYnvRvPAuDUXb) | [Choke Chain](https://open.spotify.com/album/5jdSxkXwsDq4gwSOOASXau) | 2:17 |
-| 13 | [Feel](https://open.spotify.com/track/2Y0JncmzHZWCsdvLoeEssP) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Feel / Tranan](https://open.spotify.com/album/0KephHxdf5wEaPUv77i2uq) | 4:26 |
+| 8 | [Choke Chain](https://open.spotify.com/track/6L0iKLGrWW53jAopkwopzy) | [Angelsaur](https://open.spotify.com/artist/1GfyE51MdTYnvRvPAuDUXb) | [Choke Chain](https://open.spotify.com/album/5jdSxkXwsDq4gwSOOASXau) | 2:17 |
+| 9 | [Feel](https://open.spotify.com/track/2Y0JncmzHZWCsdvLoeEssP) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Feel / Tranan](https://open.spotify.com/album/0KephHxdf5wEaPUv77i2uq) | 4:26 |
+| 10 | [ROCKSTAR BABY](https://open.spotify.com/track/033qWC3y06qRnxnNdF66uX) | [skuzland](https://open.spotify.com/artist/5ns0Xn1DwaUW1O0EazjHnp) | [ROCKSTAR BABY](https://open.spotify.com/album/0Gec1yIvCKN6ASC1sQMPtf) | 2:55 |
+| 11 | [My Girls \(feat\. Sierra Sellers\)](https://open.spotify.com/track/2mdwJ2wy0OchwJSt09p2Cy) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ), [Sierra Sellers](https://open.spotify.com/artist/3CX8IWsvFSnxgb5x82sETO) | [My Girls \(feat\. Sierra Sellers\)](https://open.spotify.com/album/7c08Y9F0zNR3PrdiP13TCj) | 3:37 |
+| 12 | [Texas Primadonna](https://open.spotify.com/track/03eZNwdLPrikoKzdO2LlqO) | [Tiffany Stringer](https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u) | [The Texas Primadonna](https://open.spotify.com/album/3DjEEt7A58vpSuUemigZzB) | 2:13 |
+| 13 | [To Kill Me](https://open.spotify.com/track/5vWo5yZtL7G1txIHmCQ5o4) | [The Kentucky Gentlemen](https://open.spotify.com/artist/5Jyxuj6Ho7xmNPrDub1U86) | [Rhinestone Revolution](https://open.spotify.com/album/4YunEFZ0dr3c475kiwqEPn) | 3:01 |
 | 14 | [SEEK](https://open.spotify.com/track/1apkmCkiKMYizWGJLIHrF9) | [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [SEEK](https://open.spotify.com/album/3kOXgl4oYG8SdmijpfEAOp) | 2:41 |
 | 15 | [Witching Hour](https://open.spotify.com/track/778RTEmiCGTLObINbj4AyA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/5IMdA7l9lpOYGZxV06c53i) | 2:53 |
 | 16 | [dragon](https://open.spotify.com/track/6xt61599Nmh2XoNCtWz20m) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [dragon](https://open.spotify.com/album/2w4yFTDppmlXxs3DVzvU4y) | 2:55 |
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 204 | [Collect 200](https://open.spotify.com/track/5wMhlHcon8U2WNA05QMUb6) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Collect 200](https://open.spotify.com/album/3wgNFsGLpAFDFIKsce1EKe) | 2:50 |
 | 205 | [with u](https://open.spotify.com/track/5bQDapqPmoCukx6ZgO4T1b) | [2006WR](https://open.spotify.com/artist/5IpbIczge2iZZKQn50SQxE) | [with u](https://open.spotify.com/album/1e1d2t4jdgxB9LVqnc0ZWe) | 2:16 |
 
-Snapshot ID: `aEmdUQAAAABp0x3uaTJj4+zloqSi7uJ8`
+Snapshot ID: `aEuicgAAAACIosWAuzYj2yzTrL5eLLsh`

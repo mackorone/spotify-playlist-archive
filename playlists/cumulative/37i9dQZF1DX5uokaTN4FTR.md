@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: MK, Chrystal
+> The UK's biggest dance playlist! Cover: Max Dean, Luke Dean, Locky
 
 674 songs - 1 day 11 hr 4 min
 

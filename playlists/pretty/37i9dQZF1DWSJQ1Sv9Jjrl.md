@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJQ1Sv9Jjrl.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Be Who You Are](https://open.spotify.com/track/2Z7JAlG8RPvN277Y6bc6cM) | [Ava Michelle](https://open.spotify.com/artist/6euN0qAjCYkM3kcJYGMN2Z), [Jacaranda](https://open.spotify.com/artist/44inTD4saAbXecbkXmYYPr) | [Be Who You Are](https://open.spotify.com/album/2qbNPqksd5T8yjxuGUZsoc) | 2:35 |
+| 1 | [Be Who You Are](https://open.spotify.com/track/2Z7JAlG8RPvN277Y6bc6cM) | [Ava Michelle](https://open.spotify.com/artist/6euN0qAjCYkM3kcJYGMN2Z) | [Be Who You Are](https://open.spotify.com/album/2qbNPqksd5T8yjxuGUZsoc) | 2:35 |
 | 2 | [Figure You Out \(Remix\)](https://open.spotify.com/track/6Tsdf2lE4mFAa6sE052pEP) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Figure You Out \(Remix\)](https://open.spotify.com/album/2UHY1Y6eDdUf1zMPWnJWPH) | 3:12 |
 | 3 | [Kool](https://open.spotify.com/track/0hwwIaWzXWeRLtGJ458gHu) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Hey u x](https://open.spotify.com/album/1gvuirDIzJFcSqfrIn01Ld) | 2:48 |
 | 4 | [Slow Clap](https://open.spotify.com/track/2FD3oVMksB9tPIaowrx0zJ) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Slow Clap](https://open.spotify.com/album/6EE59zmOlHnpitmm52vkkm) | 2:30 |

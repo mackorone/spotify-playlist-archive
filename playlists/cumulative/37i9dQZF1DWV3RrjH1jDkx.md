@@ -4,7 +4,7 @@
 
 > Ny musikk fra Tobias Sten, Alessandra, SKAAR og mange flere!🎵
 
-6,086 songs - 13 day 2 hr 12 min
+6,089 songs - 13 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3036,6 +3036,7 @@
 | [Kill You Off](https://open.spotify.com/track/3Z66u0yqHKVX8NwZuWsg3B) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [PRESSURE](https://open.spotify.com/album/4vIzHHL3D8TacHTRQzYIYe) | 2:13 | 2025-05-22 | 2025-05-30 |
 | [KILLER](https://open.spotify.com/track/5c2q1fzu09pyuGuT7LOTsi) | [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [KILLER](https://open.spotify.com/album/6gIHqzntADUoSTbrC5OSHv) | 5:47 | 2025-03-27 | 2025-04-04 |
 | [KILLER!](https://open.spotify.com/track/62VMrTv6dQ4YCNP2GNPm8N) | [Karina Savage](https://open.spotify.com/artist/1Omhe6WyATIf4ZurfsumKr) | [KILLER!](https://open.spotify.com/album/2pmIzzuIMDDT1QoZl98eQU) | 3:25 | 2024-11-07 | 2024-11-15 |
+| [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs) | 2:28 | 2025-06-12 |  |
 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 | 2024-05-02 | 2024-05-10 |
 | [Kind Of Man](https://open.spotify.com/track/3JMc2rsrzFkhEyma8c56Xc) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Kind Of Man](https://open.spotify.com/album/7bSCE8LUTgZ8lEWLjDKcy4) | 4:15 | 2024-05-16 | 2024-05-24 |
 | [Kind to You](https://open.spotify.com/track/365hkQZvqYIDGhCGm8ZXwu) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91), [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Kind to You](https://open.spotify.com/album/63MKGs5hv3278XjoQblvf3) | 3:15 | 2024-08-29 | 2024-09-06 |
@@ -3559,7 +3560,7 @@
 | [Mayfair](https://open.spotify.com/track/4An0EFmob5c3wRAbhwTtIc) | [Clöben](https://open.spotify.com/artist/6SFJ1zh51RDH7rTfx036cW) | [Mayfair](https://open.spotify.com/album/7ML0OtZngDanAsLdzgXKf6) | 2:28 | 2025-03-20 | 2025-03-28 |
 | [Mayflowers](https://open.spotify.com/track/5RaVwbwzUBO09MkQV8tcMr) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Copium](https://open.spotify.com/album/3W4rMKjMNt7AfTPnkHoYGC) | 2:39 | 2024-05-31 | 2024-06-07 |
 | [Mazda 1985](https://open.spotify.com/track/3L8PECEhjLjYir9vsogIPB) | [Marie Klåpbakken](https://open.spotify.com/artist/2qHlT3DfJoJNI4I8IzQmky), [Sver](https://open.spotify.com/artist/7dQDM46xbOVp16wbN6SpiQ) | [Mazda 1985](https://open.spotify.com/album/5bHsXUOXMVZRbnRM5nJK3G) | 3:24 | 2024-06-13 | 2024-06-21 |
-| [Mazda 1985 vol 2](https://open.spotify.com/track/1aAmEgk3QipF7khW8GGVJE) | [Marie Klåpbakken](https://open.spotify.com/artist/2qHlT3DfJoJNI4I8IzQmky), [Jon Roaldsnes](https://open.spotify.com/artist/3qzx3e9u0DxYCI54OKpMIp) | [Mazda 1985 vol 2](https://open.spotify.com/album/1d46iFlfqs7DfyO9RuvecG) | 2:47 | 2025-06-12 |  |
+| [Mazda 1985 vol 2](https://open.spotify.com/track/1aAmEgk3QipF7khW8GGVJE) | [Marie Klåpbakken](https://open.spotify.com/artist/2qHlT3DfJoJNI4I8IzQmky) | [Mazda 1985 vol 2](https://open.spotify.com/album/1d46iFlfqs7DfyO9RuvecG) | 2:47 | 2025-06-12 |  |
 | [mañana sé](https://open.spotify.com/track/7pRXIIW2oV7ezYzt8tBa5r) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [mañana sé](https://open.spotify.com/album/0uzjqBVgiKeBEWM2Dn8GT4) | 3:37 | 2024-11-28 | 2024-12-06 |
 | [Me & Ms\. Ray](https://open.spotify.com/track/4ghAjJTWL5YGCMABrpRytI) | [New Ro](https://open.spotify.com/artist/2jiSoFLrMAKlWl6bAc2kfu) | [Me & Ms\. Ray](https://open.spotify.com/album/12jmAJW0N0P2jtei6F9S74) | 3:45 | 2024-04-26 | 2024-05-03 |
 | [Me Before You](https://open.spotify.com/track/1S4sLPFxkgMTOui1W4GN72) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Me Before You](https://open.spotify.com/album/4hElKzCyDVbddwxZe4f9jb) | 3:35 | 2024-06-13 | 2024-06-21 |
@@ -5276,6 +5277,7 @@
 | [The Basement](https://open.spotify.com/track/3Sv9eoZL7BD1UtcnMdeV7W) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [The Basement](https://open.spotify.com/album/5MkryrNraC1vGE3rI7ReVr) | 2:16 | 2024-11-14 | 2024-11-22 |
 | [The Bed, The Room, The Rain and You](https://open.spotify.com/track/73MkKDeELnYufTdyA3Xj5R) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [The Bed, The Room, The Rain and You](https://open.spotify.com/album/1TPWuITTFW8RdqRfrNVEO5) | 2:28 | 2024-08-15 | 2024-08-23 |
 | [The Beginning](https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Beginning](https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu) | 3:31 | 2024-05-31 | 2024-06-07 |
+| [The Bellboy \(One Last Crush\)](https://open.spotify.com/track/3zP0fq3Hv4DyEaLGBpQuln) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin \(Deluxe\)](https://open.spotify.com/album/0GE0uLMG3dAOrvPGcJtvKz) | 3:28 | 2025-06-12 |  |
 | [The Best Is Yet To Come](https://open.spotify.com/track/32K2VOO3MOH3IS5kDKQQFa) | [Thom Hell](https://open.spotify.com/artist/3KwfPMspVY0W2KRZLJqfWW) | [Candy](https://open.spotify.com/album/11x7CAXiBMH6ArANp7qsqI) | 3:41 | 2025-01-30 | 2025-02-07 |
 | [The Best Of Men](https://open.spotify.com/track/0PZxRuPaPAZ93Xy5iStNiA) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [The Best Of Men](https://open.spotify.com/album/3jQw3KlboCj36zjqMqe38K) | 3:01 | 2025-01-23 | 2025-01-31 |
 | [The Bird Song \(with Em Beihold\)](https://open.spotify.com/track/3IC7SjOoA1gt0xzUZBMww8) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [The Bird Song \(with Em Beihold\)](https://open.spotify.com/album/16aOYP4x2wHzjOZBUSvvg5) | 3:53 | 2024-12-13 | 2024-12-20 |
@@ -5978,6 +5980,7 @@
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-11 | 2024-07-19 |
 | [Won't Hold My Breath](https://open.spotify.com/track/5UK487suwwzt6dLCeSGlIa) | [Yasmin Hass](https://open.spotify.com/artist/1ngeTsUw6Wo2W4TTgTSCcC) | [Won't Hold My Breath](https://open.spotify.com/album/6ATPgYP2TcaHNDq2Od6WCs) | 2:46 | 2024-07-18 | 2024-07-27 |
 | [Won't Stop](https://open.spotify.com/track/0AEJwLCRxbdTK9msdH8Dsu) | [GiddyGang](https://open.spotify.com/artist/5hgceJkuyoeET8VNinxe4Q), [Vuyo](https://open.spotify.com/artist/6pWOGQubsgAiEZmzioIyDi) | [What You Need / Won't Stop](https://open.spotify.com/album/05EIjqC8ZIBV24S1cWXTAM) | 3:43 | 2024-04-26 | 2024-05-03 |
+| [Won't Stop](https://open.spotify.com/track/4ugKUZExbqbkKXEmbTrTRW) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Won't Stop](https://open.spotify.com/album/1TRulQDa3GYTurukQ91HGB) | 3:01 | 2025-06-12 |  |
 | [Wonder](https://open.spotify.com/track/483U0QATlToljk5Kb35RAM) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Wonder](https://open.spotify.com/album/1GDNevtXNRMvKs0NiYbU6O) | 2:23 | 2025-01-09 | 2025-01-17 |
 | [Wonder Women 2025 \(Hjemmesnekk\)](https://open.spotify.com/track/1K4bfmrIRY2nyRTEfwMljy) | [Sportsalleen](https://open.spotify.com/artist/7fOtaGYi9Mrft9xjRXqRAA), [G'sis](https://open.spotify.com/artist/3y7oo7lF9aYFn26NKfNOX4) | [Wonder Women 2025 \(Hjemmesnekk\)](https://open.spotify.com/album/18BlnbKtu2zXzBlHYkVny1) | 2:57 | 2024-06-20 | 2024-06-28 |
 | [Wonderful](https://open.spotify.com/track/3Jm4XJix6nkGiY3IY8mPyu) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Wonderful](https://open.spotify.com/album/3BwgvjyD1pDNyj1VLW0dBw) | 3:46 | 2024-05-16 | 2024-05-24 |

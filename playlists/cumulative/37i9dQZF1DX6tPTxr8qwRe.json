@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: Banshee",
+  "description": "Dark, hard hitting pop. Cover: Ari Abdul",
   "name": "SALT",
   "tracks": [
     {
@@ -428,6 +428,24 @@
       "duration_ms": 193275,
       "name": "Alien",
       "url": "https://open.spotify.com/track/2YdDd0WUsWLWZq0Puz0Ypo"
+    },
+    {
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/779GE2JiWs969fsRY5P04G"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240012,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1BolvPHesuoFdC8hSPp4IW"
     },
     {
       "album": {
@@ -1856,6 +1874,24 @@
       "duration_ms": 186666,
       "name": "BODY BAG",
       "url": "https://open.spotify.com/track/63f24av3B364sOS3oXoGL0"
+    },
+    {
+      "album": {
+        "name": "I Promise No One's Watching",
+        "url": "https://open.spotify.com/album/5IVW9XdJ8w9MFB6VO66AXZ"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153945,
+      "name": "Body On Me",
+      "url": "https://open.spotify.com/track/6MglZeuPDQwHzZTxrRZfCW"
     },
     {
       "album": {
@@ -6216,7 +6252,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 144636,
       "name": "hahaha",
       "url": "https://open.spotify.com/track/510v9v67yjxZVO9hMHmk29"
@@ -6630,7 +6666,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 178411,
       "name": "HELL ON ME",
       "url": "https://open.spotify.com/track/3QPxCTVBAHW1FV3xa4CS5U"
@@ -6904,7 +6940,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 122338,
       "name": "hot enough",
       "url": "https://open.spotify.com/track/1K4jen25Y9y8nUnZpwDg4n"
@@ -8090,7 +8126,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 152571,
       "name": "Jennifer's Body",
       "url": "https://open.spotify.com/track/64R0m9KpCEmQxumJU3ZlCj"
@@ -10092,7 +10128,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 147747,
       "name": "More!",
       "url": "https://open.spotify.com/track/1tFeGs7Tbzbgpgv1rf8eg1"
@@ -10110,7 +10146,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 119040,
       "name": "Mortal Kombat",
       "url": "https://open.spotify.com/track/0bJR1UNUVlYLfFRUrAqKFn"
@@ -12052,7 +12088,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 210853,
       "name": "RED LIPSTICK",
       "url": "https://open.spotify.com/track/4Q0WhPIQdLXdPuKn9JNLyw"
@@ -13291,6 +13327,24 @@
     },
     {
       "album": {
+        "name": "SLEEPING WITH KARMA",
+        "url": "https://open.spotify.com/album/0wb2E0nDn3qfxsgupyqqOx"
+      },
+      "artists": [
+        {
+          "name": "Ella Collier",
+          "url": "https://open.spotify.com/artist/7wMFyA2xgxiMiM2ev2DVfJ"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164610,
+      "name": "SLEEPING WITH KARMA",
+      "url": "https://open.spotify.com/track/3yJDEWDY4mj4fslXhVLcLx"
+    },
+    {
+      "album": {
         "name": "SLOW DOWN",
         "url": "https://open.spotify.com/album/5Ej7j1DuYx8vqML3Ewtxtx"
       },
@@ -13378,6 +13432,24 @@
       "duration_ms": 146823,
       "name": "sober",
       "url": "https://open.spotify.com/track/577ctFaEJqAL9gdo2Gx63x"
+    },
+    {
+      "album": {
+        "name": "SOFT SCOOP TALKING DOG",
+        "url": "https://open.spotify.com/album/3nrLoVydKklCtyxQXskO5V"
+      },
+      "artists": [
+        {
+          "name": "Greta Isaac",
+          "url": "https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "SOFT SCOOP TALKING DOG",
+      "url": "https://open.spotify.com/track/3g0PEy13O7biKs5QbO6JuI"
     },
     {
       "album": {
@@ -14972,7 +15044,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 163805,
       "name": "Tough Luck",
       "url": "https://open.spotify.com/track/7HOUb3yqu08VJHI81cq7xt"
@@ -15996,7 +16068,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 189485,
       "name": "WHAT THE HELL",
       "url": "https://open.spotify.com/track/0tN4gLJOjeTawNuylOZwYI"

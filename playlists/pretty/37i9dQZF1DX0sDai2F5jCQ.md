@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: ONEFOUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,704 likes - 85 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,678 likes - 85 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 84 | [FINGERTIPS](https://open.spotify.com/track/7bXsZsdN7cMvjnJiyUHk56) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [FINGERTIPS](https://open.spotify.com/album/46gWaeqUSADSwWwv9tQVeF) | 2:29 |
 | 85 | [Port Antonio](https://open.spotify.com/track/74QLfg69aVm4Afw3VGhDTY) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Port Antonio](https://open.spotify.com/album/5PsNxZIlqO0zVMxDF9zulW) | 5:16 |
 
-Snapshot ID: `AAAAALIILBHaK59yzmjDtKAom64Aa0cR`
+Snapshot ID: `aErdfgAAAACxBzyU+elrlcMbRi+kXzGO`

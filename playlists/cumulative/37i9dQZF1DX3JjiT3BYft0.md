@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series!
 
-450 songs - 1 day 8 hr 15 min
+451 songs - 1 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [A Distant Heartbeat](https://open.spotify.com/track/01hHmEBYk9oQClRa6A81HC) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [A Distant Heartbeat](https://open.spotify.com/album/1tZtuwJ2Onp8AnRWR2LQjR) | 4:00 | 2022-06-23 | 2022-10-02 |
 | [A Song No More](https://open.spotify.com/track/1uNjQwidSPSjPRAfh6JJBE) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Live Beyond!!](https://open.spotify.com/album/2z1EdXW0K0ZYY7W9Q3fsSS) | 4:37 | 2022-06-23 | 2022-08-31 |
 | [again \(Cover\)](https://open.spotify.com/track/1XcLPGyxMot60hADZtKBHf) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [again \(Cover\)](https://open.spotify.com/album/4xAd44IfzQo8QcAg7zc1Bo) | 4:10 | 2025-03-20 |  |
-| [Apocalypse](https://open.spotify.com/track/4kxnkGIfIpf6VzHehCDE0E) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Apocalypse](https://open.spotify.com/album/36omAKlaZpoqCw7P3aIe2d) | 4:12 | 2023-09-21 |  |
+| [Apocalypse](https://open.spotify.com/track/4kxnkGIfIpf6VzHehCDE0E) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Apocalypse](https://open.spotify.com/album/36omAKlaZpoqCw7P3aIe2d) | 4:12 | 2023-09-21 | 2025-06-14 |
 | [Avant\-garde HISTORY](https://open.spotify.com/track/5SXRtIcYo4kaDgRyD54mZP) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/6nk5SUZlraHzpwIPUFdI84) | 5:05 | 2022-05-17 | 2022-07-22 |
 | [B.O.F](https://open.spotify.com/track/132AFM2tn4rgQyGWplFpJf) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin'on!](https://open.spotify.com/album/7uZ57BtKr2QWlsxC4T7fyH) | 3:38 | 2022-05-17 | 2022-07-28 |
 | [Baby Sweet Berry Love](https://open.spotify.com/track/4kloLdsaoe8UQHf5n4Ex7F) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2) | 4:04 | 2022-05-17 | 2022-07-29 |
@@ -115,6 +115,7 @@
 | [Hey\-day狂騒曲\(カプリチオ\)](https://open.spotify.com/track/1Dqda7294YgfixgAZnmtnX) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6) | 3:53 | 2022-09-20 | 2024-04-19 |
 | [Hi\-Vision](https://open.spotify.com/track/0rNLITsnaH7Uanwqn4ZHqf) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [Hi\-Vision](https://open.spotify.com/album/7qOeisRofcVZijOX9dLQlJ) | 3:00 | 2025-04-29 |  |
 | [Home Street](https://open.spotify.com/track/67h29qIYN9QnBIPUiFw85z) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [キズナミュージック♪](https://open.spotify.com/album/4mYniR7vYFUoalkROKInK8) | 3:48 | 2022-06-23 | 2022-07-26 |
+| [HOWLING AMBITION](https://open.spotify.com/track/2NYWu8xDb8g6Q8d6MxdmQV) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [HOWLING AMBITION](https://open.spotify.com/album/6Wt3DPGwFBzlG4wjrn6eaw) | 4:18 | 2025-06-13 |  |
 | [I knew it!](https://open.spotify.com/track/5dRxTWfQ3stQEMgyDu92dF) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/2CXi2Ys7mgFksGB1vb2FOn) | 4:50 | 2022-05-17 | 2022-07-28 |
 | [I love your way!](https://open.spotify.com/track/3CHCUaI4DxBSZG6meYeDDV) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [Sasanqua](https://open.spotify.com/album/6MrfLW4ZY0jpEDsWLVGsQv) | 4:23 | 2022-06-23 | 2022-07-04 |
 | [I\-I Never Said Love!](https://open.spotify.com/track/6cB1HzM544iuFeXEIba8ug) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [I\-I Never Said Love!](https://open.spotify.com/album/47vhSZQmJN0WyMaig29Zls) | 3:55 | 2022-06-23 | 2022-10-02 |

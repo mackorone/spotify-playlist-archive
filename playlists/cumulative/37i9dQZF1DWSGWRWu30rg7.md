@@ -4,7 +4,7 @@
 
 > Merayakan 10 tahun Fresh Finds, temukan talenta segar dalam negeri\. Cover: RAPOT
 
-4,746 songs - 12 day 2 hr 55 min
+4,747 songs - 12 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4231,6 +4231,7 @@
 | [Terima Kasih Guruku \(Guruku Tersayang\)](https://open.spotify.com/track/4PLY3JB1sPhgWiSxQdovCG) | [Iren Glory](https://open.spotify.com/artist/7tkbfHtHXuuUvs0kWfSwa0) | [Terima Kasih Guruku \(Guruku Tersayang\)](https://open.spotify.com/album/02s0GD3LaQu62L9dgG9b4T) | 2:16 | 2024-08-01 | 2024-09-07 |
 | [Terima Kasih Tuhan Dia Begitu Indah](https://open.spotify.com/track/1zP0VR3g5FGAYfJqny4uAm) | [The Dramma](https://open.spotify.com/artist/6kRIeObyMjqaWUeff6uM0v) | [Terima Kasih Tuhan Dia Begitu Indah](https://open.spotify.com/album/3gp4crGqVADlS6CVuxnfhd) | 3:53 | 2024-11-21 | 2024-12-20 |
 | [Terima Saja](https://open.spotify.com/track/0NgcWkRfnyNRpXYD7OfiOV) | [Nina Tri Suci](https://open.spotify.com/artist/3Wkqbn2EuVIwwxar4ghwdI) | [Terima Saja](https://open.spotify.com/album/6HZGGSlvZTNRuO82BsLvpU) | 4:34 | 2022-03-04 | 2022-03-18 |
+| [Terimakasih](https://open.spotify.com/track/1K24w1WWEGGfmsgRBkG4sH) | [Polkadots](https://open.spotify.com/artist/6urdxcds65bHCHC3GbHKzn) | [Heartbreak Analogy](https://open.spotify.com/album/0GHTSRww5PPDFhf0wDajkJ) | 3:49 | 2025-06-12 |  |
 | [Terimakasih Ya Allah](https://open.spotify.com/track/7rbh7FqnNI8PfSSBcCvRsj) | [Mr\. Zaqilah](https://open.spotify.com/artist/1jDEIi3JCiXweo66jrrj6u) | [Terimakasih Ya Allah](https://open.spotify.com/album/1ShxASUVHWc4UcYdLtC8x3) | 3:56 | 2025-02-20 | 2025-03-14 |
 | [Terindah Bagiku](https://open.spotify.com/track/7M6X5lOGOu757W0VWEVRD8) | [MyOwnMusic](https://open.spotify.com/artist/7H69eV2Dzy6850Uk4hsRVv) | [Terindah Bagiku](https://open.spotify.com/album/7IZQGifhEfv0flRPYrs2yp) | 3:08 | 2025-02-07 | 2025-03-01 |
 | [Teringat](https://open.spotify.com/track/17OeBvdqlmE7KUtC3SaaZf) | [Sipa April](https://open.spotify.com/artist/7x3SooFwQF47JTaTAF8Cnc) | [Teringat](https://open.spotify.com/album/1pSG4g8fL7oIpFmSs6TLLR) | 3:34 | 2023-08-24 | 2023-09-08 |

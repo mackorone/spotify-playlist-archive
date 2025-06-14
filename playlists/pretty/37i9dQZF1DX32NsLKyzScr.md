@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,621,619 likes - 125 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,621,561 likes - 125 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 | 124 | [Sanctuary](https://open.spotify.com/track/4chU8mXKqVOgwtq5NWUL5r) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Sanctuary](https://open.spotify.com/album/1tXfc98LLrLiSVd4GRWgyr) | 3:36 |
 | 125 | [Worlds Apart](https://open.spotify.com/track/4tUX1aYiThsz8JBrq7Tfj5) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Worlds Apart](https://open.spotify.com/album/5NlYWL5uGUoCnoEwTIqSsa) | 2:46 |
 
-Snapshot ID: `aEJn0QAAAAAcUwXBeAfBTYw2ZALgvejI`
+Snapshot ID: `aEuibQAAAABq7Z2R8Ra95qfalillIko0`

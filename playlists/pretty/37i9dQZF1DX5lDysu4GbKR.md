@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Stripped back vibes\. Cover: Cynthia Erivo
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,778 likes - 134 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,786 likes - 134 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

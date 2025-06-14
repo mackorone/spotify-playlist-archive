@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Narivetta",
-  "num_followers": 469714,
+  "num_followers": 470380,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEiHtQAAAABImiF2ERVfzMKXXKDPtejz",
+  "snapshot_id": "aEvITQAAAAB8vW1hwoCCjeWFaB4fRr4P",
   "tracks": [
     {
       "added_at": "2025-05-07 08:53:45",
@@ -31,6 +31,54 @@
       "duration_ms": 299055,
       "name": "Minnalvala (From \"Narivetta\")",
       "url": "https://open.spotify.com/track/5yAfCVJwa3r9wAQSOfawqm"
+    },
+    {
+      "added_at": "2025-04-28 07:49:01",
+      "album": {
+        "name": "Kanmanipoove (From \"Thudarum\")",
+        "url": "https://open.spotify.com/album/35VA3fNZ0phKkGL4usVvz9"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "M. G. Sreekumar",
+          "url": "https://open.spotify.com/artist/3wjaprBWmoSJn4KP9tgkxt"
+        }
+      ],
+      "duration_ms": 354666,
+      "name": "Kanmanipoove (From \"Thudarum\")",
+      "url": "https://open.spotify.com/track/3AAJmTVOJS55CpYFiCnXVh"
+    },
+    {
+      "added_at": "2023-12-02 04:17:28",
+      "album": {
+        "name": "Ennile Punchiri (From \"Phoenix\")",
+        "url": "https://open.spotify.com/album/7zeAZmsGyQ0jhkKnKMwMax"
+      },
+      "artists": [
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Ennile Punchiri (From \"Phoenix\")",
+      "url": "https://open.spotify.com/track/30NOoFVrVgeqa6otE18Kza"
     },
     {
       "added_at": "2024-10-15 05:55:03",
@@ -87,26 +135,6 @@
       "duration_ms": 225865,
       "name": "Cheth Song (From \"Pravinkoodu Shappu\")",
       "url": "https://open.spotify.com/track/6zu3OZLSZqrHedlgvrdCPE"
-    },
-    {
-      "added_at": "2025-04-28 07:49:01",
-      "album": {
-        "name": "Kanmanipoove (From \"Thudarum\")",
-        "url": "https://open.spotify.com/album/35VA3fNZ0phKkGL4usVvz9"
-      },
-      "artists": [
-        {
-          "name": "Jakes Bejoy",
-          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
-        },
-        {
-          "name": "M. G. Sreekumar",
-          "url": "https://open.spotify.com/artist/3wjaprBWmoSJn4KP9tgkxt"
-        }
-      ],
-      "duration_ms": 354666,
-      "name": "Kanmanipoove (From \"Thudarum\")",
-      "url": "https://open.spotify.com/track/3AAJmTVOJS55CpYFiCnXVh"
     },
     {
       "added_at": "2025-06-10 19:29:57",
@@ -215,34 +243,6 @@
       "duration_ms": 197915,
       "name": "Heart Attack - From \"Painkili\"",
       "url": "https://open.spotify.com/track/0zKgFkG0MwdBt9iSVj1zmv"
-    },
-    {
-      "added_at": "2023-12-02 04:17:28",
-      "album": {
-        "name": "Ennile Punchiri (From \"Phoenix\")",
-        "url": "https://open.spotify.com/album/7zeAZmsGyQ0jhkKnKMwMax"
-      },
-      "artists": [
-        {
-          "name": "Sam C.S.",
-          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        },
-        {
-          "name": "K. S. Chithra",
-          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
-        },
-        {
-          "name": "Vinayak Sasikumar",
-          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Ennile Punchiri (From \"Phoenix\")",
-      "url": "https://open.spotify.com/track/30NOoFVrVgeqa6otE18Kza"
     },
     {
       "added_at": "2025-06-09 13:26:22",
@@ -1095,26 +1095,6 @@
       "duration_ms": 130018,
       "name": "Galatta - From \"Aavesham\"",
       "url": "https://open.spotify.com/track/6hA8stAJBcUFivvkhEEBeq"
-    },
-    {
-      "added_at": "2023-12-02 04:17:28",
-      "album": {
-        "name": "Koode Thullu",
-        "url": "https://open.spotify.com/album/1AVtNIwxSSo0pJrPwFuJq5"
-      },
-      "artists": [
-        {
-          "name": "Fejo",
-          "url": "https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3"
-        },
-        {
-          "name": "Jeffin Jestin",
-          "url": "https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Koode Thullu",
-      "url": "https://open.spotify.com/track/2GbsYQkwNsUufkGz5HK4Yz"
     },
     {
       "added_at": "2023-08-03 00:18:29",

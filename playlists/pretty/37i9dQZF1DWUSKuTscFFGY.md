@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 
 > Découvrez les meilleures nouveautés pop\. Photo : Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,125 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,228 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 49 | [Call Me Again](https://open.spotify.com/track/6cbKgMIbBiWhEbZPoKKNDi) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Call Me Again](https://open.spotify.com/album/5RtVq8KaOonfoWqRRLStkq) | 2:51 |
 | 50 | [BOY CRAZY.](https://open.spotify.com/track/5CiPDLxXmUG7Fk5yjlNy9n) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [BOY CRAZY.](https://open.spotify.com/album/5vbKk8Ki7HxcDUCYh5EUZc) | 2:28 |
 
-Snapshot ID: `aEtOAQAAAAADdpmpSuBMmk7o32UYkgaB`
+Snapshot ID: `AAAAAJXzIn9sNxPepHljD0nbXY3gVUgL`

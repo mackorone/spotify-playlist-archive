@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "ACTIVATE",
+        "url": "https://open.spotify.com/album/2v6Ae2mZgaWFyMtfSNpXee"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158581,
+      "name": "ACTIVATE",
+      "url": "https://open.spotify.com/track/1ROJBKCmBH1Quk9gN2qI0E"
+    },
+    {
+      "album": {
         "name": "Afraid / Count 10",
         "url": "https://open.spotify.com/album/1g0BjYAwI3B5PowHYTqISD"
       },
@@ -306,6 +324,24 @@
       "duration_ms": 206415,
       "name": "Ain't no time for hesitation",
       "url": "https://open.spotify.com/track/2gbRZlW7HUOaerKsGIwVol"
+    },
+    {
+      "album": {
+        "name": "Heat Death of the Universe",
+        "url": "https://open.spotify.com/album/150A7diobjuRH8obpCxwyH"
+      },
+      "artists": [
+        {
+          "name": "Murkury",
+          "url": "https://open.spotify.com/artist/6de3gCt7GOmcd8fylzCTgc"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199487,
+      "name": "Alchemy",
+      "url": "https://open.spotify.com/track/73py04vpalnu50NSBauCD2"
     },
     {
       "album": {
@@ -3563,6 +3599,24 @@
     },
     {
       "album": {
+        "name": "Dissonance",
+        "url": "https://open.spotify.com/album/6Yk3KbtEeXGSFEkSN7eXQj"
+      },
+      "artists": [
+        {
+          "name": "Reece Ros\u00e9",
+          "url": "https://open.spotify.com/artist/7e7AGt1EJqxXsb9xpaflJ5"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176590,
+      "name": "Dissonance - Radio Edit",
+      "url": "https://open.spotify.com/track/7LhyJPrs0IPtLitQNbrg2H"
+    },
+    {
+      "album": {
         "name": "Universal",
         "url": "https://open.spotify.com/album/2u24rPh4PG59tEqJy2qEaH"
       },
@@ -4368,7 +4422,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 142312,
       "name": "FADE",
       "url": "https://open.spotify.com/track/2CA7wogUOKn95vrcsKIbkJ"
@@ -5138,7 +5192,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 260571,
       "name": "Get Splashed",
       "url": "https://open.spotify.com/track/4QYG1jhCleikOw6NbBrr9t"
@@ -5734,6 +5788,28 @@
       "duration_ms": 298968,
       "name": "Gunman",
       "url": "https://open.spotify.com/track/1kVYhkie4SMzgaTJYOkwKI"
+    },
+    {
+      "album": {
+        "name": "Project X",
+        "url": "https://open.spotify.com/album/0F5FIqzaAWINdcgKQSXQbc"
+      },
+      "artists": [
+        {
+          "name": "Caspa",
+          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
+        },
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Gut Feeling",
+      "url": "https://open.spotify.com/track/4QaJ8qopyxWowl5C4nuGed"
     },
     {
       "album": {
@@ -7078,7 +7154,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 281146,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/7oMYFJMFqNi0ibkkvPsj0X"
@@ -7582,6 +7658,28 @@
       "duration_ms": 318535,
       "name": "LDNMSV",
       "url": "https://open.spotify.com/track/2t8obB67zK5UBCnq1vSMHr"
+    },
+    {
+      "album": {
+        "name": "Left Behind",
+        "url": "https://open.spotify.com/album/7vQ8vDJcIy4FEwjsQgA6bO"
+      },
+      "artists": [
+        {
+          "name": "STVSH",
+          "url": "https://open.spotify.com/artist/5nEtdd8cmhvf1zgNMFoQcI"
+        },
+        {
+          "name": "OkayJake",
+          "url": "https://open.spotify.com/artist/1inEarlQOFZ2KWNnQDHqo3"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168857,
+      "name": "Left Behind",
+      "url": "https://open.spotify.com/track/2sPBws9hoL5pSHfUnaQ9yl"
     },
     {
       "album": {
@@ -12554,7 +12652,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 227471,
       "name": "Special Delivery",
       "url": "https://open.spotify.com/track/1E0HUBvbaqQTaAfwUbj03e"
@@ -14952,7 +15050,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 252535,
       "name": "Wayfinder",
       "url": "https://open.spotify.com/track/0eF5ikLUTvBdk57XEHeN6d"

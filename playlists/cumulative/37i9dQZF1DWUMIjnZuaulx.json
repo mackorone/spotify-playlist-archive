@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Pastor Mike Jr.  & Adia",
+  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Kirk Franklin",
   "name": "Spread the Gospel",
   "tracks": [
     {
@@ -1087,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/5ynd96HmA6LQJpcmikv98l"
+      },
+      "artists": [
+        {
+          "name": "Isaac Carree",
+          "url": "https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240314,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/70IMwY7Hj050abt9WU1ehm"
+    },
+    {
+      "album": {
         "name": "Better (Live)",
         "url": "https://open.spotify.com/album/2VaYgbdDdID9R5rmgvXzNF"
       },
@@ -1098,7 +1116,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 313283,
       "name": "Better - Live",
       "url": "https://open.spotify.com/track/5Y8xU9hSO7loZYaP9UqSWe"
@@ -2436,6 +2454,28 @@
       "duration_ms": 238480,
       "name": "Down At The Cross - Live",
       "url": "https://open.spotify.com/track/6ajT3LyPHVRNwUc4KbG4Wx"
+    },
+    {
+      "album": {
+        "name": "EKWUEME",
+        "url": "https://open.spotify.com/album/6LMZJFPE2SwUEOFxYrDkPy"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Fearless Community",
+          "url": "https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 585548,
+      "name": "Ekwueme",
+      "url": "https://open.spotify.com/track/4C6PTGpwmwPxRC0pRBwp28"
     },
     {
       "album": {
@@ -3806,6 +3846,24 @@
       "duration_ms": 215384,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/2SSWjbTBtXnXJO39Ii0Tmm"
+    },
+    {
+      "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/6Fh8l7FYm4ao0tFYJ9X3R9"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334724,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/7eb7nSuU857g6I0BaTobzz"
     },
     {
       "album": {
@@ -6700,7 +6758,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 183066,
       "name": "Joy Comes in the Morning (Live)",
       "url": "https://open.spotify.com/track/340LrJkmeazuhjokvsevqv"
@@ -13282,7 +13340,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 200121,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/6JGqjW8KB1mNtife0Fmm0j"

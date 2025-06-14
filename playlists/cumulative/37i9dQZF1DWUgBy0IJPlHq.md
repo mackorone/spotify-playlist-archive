@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Hailey Whitters
+> A new shade of Country\. Cover: Tyler Childers
 
-628 songs - 1 day 14 hr 20 min
+629 songs - 1 day 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,6 +395,7 @@
 | [No Reservations](https://open.spotify.com/track/79AEKFhmY4nu5sdPYBWxMy) | [Alex Williams](https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl) | [No Reservations](https://open.spotify.com/album/62g1Wa2a6lKjl4wRvzTyqq) | 3:44 | 2022-08-05 | 2023-01-14 |
 | [Norfolk Blues](https://open.spotify.com/track/2Vcbe4OxUHnWZme46fcLgs) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [Norfolk Blues](https://open.spotify.com/album/52KKsBzwQkRk6V023B6agW) | 3:34 | 2023-01-13 | 2023-03-04 |
 | [Northwest](https://open.spotify.com/track/26XedTngu1tjJkwoHqQiC1) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Northwest](https://open.spotify.com/album/7sfdAh5oRQDPknCjqS3Eqt) | 4:45 | 2023-05-19 | 2024-11-16 |
+| [Nose On The Grindstone](https://open.spotify.com/track/41qeQaiSa09dPsGzgechek) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Nose On The Grindstone](https://open.spotify.com/album/01KYIU27i4oQVxpdtG0Yt3) | 2:55 | 2025-06-13 |  |
 | [Nothing You Can Take From Me \(Boot\-Stompin' Version\) \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/4ck5SWSXlSUVHhYjq9Cb8L) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3), [The Covey Band](https://open.spotify.com/artist/4qH48Bc0oZ12M7TdGB7QVi) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:13 | 2023-12-01 |  |
 | [Numbers](https://open.spotify.com/track/1IcMEQNw8ZuXZtfLGnrKcq) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Among Other Things](https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V) | 4:28 | 2023-04-21 | 2024-05-11 |
 | [O.D.](https://open.spotify.com/track/2E6HksJPriDYu6thbR6xrV) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Til The Sun Goes Down](https://open.spotify.com/album/4hGNvSjAbNPDni4TS22HIM) | 2:49 | 2024-11-15 | 2025-04-05 |

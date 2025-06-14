@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Paula Au
 
-1,443 songs - 3 day 9 hr 22 min
+1,444 songs - 3 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [I Want You To Know](https://open.spotify.com/track/04smOHus0tSrhdQG6O2M2M) | [lowkeylng](https://open.spotify.com/artist/2z5qEZpkm0pjA4EKEGnlZ9) | [Beauty Of What Could've Been](https://open.spotify.com/album/5m84S4n9M5h01aerTioAz2) | 3:12 | 2024-08-15 | 2024-12-13 |
 | [I Wish](https://open.spotify.com/track/1uGWXD2mnNRqWtxBz8bVmm) | [Oscar Yuan](https://open.spotify.com/artist/0zQfE7X3rNeKFPp7GvLeNv), [Emlo](https://open.spotify.com/artist/1BHivWEpmuwIT1rBtmI0fb) | [I Wish](https://open.spotify.com/album/3qntf8oitgKJp03AaMADp0) | 2:33 | 2024-08-08 | 2024-11-15 |
 | [i'll shine](https://open.spotify.com/track/5BVUabiHdhozWcy8DlgJDZ) | [Dizparity](https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [i'll shine](https://open.spotify.com/album/5mw25o5rZsomWFgr4UC8ys) | 3:56 | 2025-02-14 | 2025-05-30 |
+| [I'm fine](https://open.spotify.com/track/45i9AnKCsESmgxax2LUCO9) | [Drotoch](https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U) | [I'm fine](https://open.spotify.com/album/0kaRw8015M8LQEEkvM6mmL) | 2:34 | 2025-06-12 |  |
 | [I'm Fine](https://open.spotify.com/track/1fbuJWzh5RW09bUUUKmB8A) | [Eagle Chan](https://open.spotify.com/artist/6nrxFSRns03p3RTspJ6a5D) | [I'm Fine](https://open.spotify.com/album/3Uyt7xDVMAftgjNiZ9qVjP) | 3:15 | 2023-07-29 | 2023-11-03 |
 | [I'm Lovin' You](https://open.spotify.com/track/3xvoFtYuQp24sFoDkujaPD) | [kkisnotemo](https://open.spotify.com/artist/2aB7jLiCnCBpZyx897Vuls) | [I'm Lovin' You](https://open.spotify.com/album/6MCekR21H8RPtGaLafIIYc) | 3:14 | 2022-12-08 | 2023-02-03 |
 | [I'm not 18 or 22](https://open.spotify.com/track/0r7003wUZqwlkPvbkNaPVP) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [I'm not 18 or 22](https://open.spotify.com/album/0hdn5KwP8cucS0pc2IjUo5) | 2:37 | 2025-03-27 |  |

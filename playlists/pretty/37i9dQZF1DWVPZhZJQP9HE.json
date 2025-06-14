@@ -1,12 +1,12 @@
 {
   "description": "Tune into the finest of Tamil Indie music!\nCover : Sai Abhyankkar ",
-  "num_followers": 77456,
+  "num_followers": 77488,
   "original_name": "Tamil Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEJ3kwAAAAA11N86Bh3dFi+U+M8hrrdo",
+  "snapshot_id": "aExYegAAAADfxBZwA9NlhfA3CbSjz6Cv",
   "tracks": [
     {
       "added_at": "2025-01-31 14:54:10",
@@ -119,6 +119,30 @@
       "duration_ms": 157168,
       "name": "Trippila",
       "url": "https://open.spotify.com/track/6klow9MClqTn35kDLKqCn3"
+    },
+    {
+      "added_at": "2025-06-13 16:57:30",
+      "album": {
+        "name": "VETRIVEL",
+        "url": "https://open.spotify.com/album/6ZKcXGg8qUdA8oT9WaFixs"
+      },
+      "artists": [
+        {
+          "name": "ofRO",
+          "url": "https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts"
+        },
+        {
+          "name": "keli.thee",
+          "url": "https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg"
+        },
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        }
+      ],
+      "duration_ms": 147034,
+      "name": "VETRIVEL",
+      "url": "https://open.spotify.com/track/4LF2sbuK7vDvNj8QiMcBmM"
     },
     {
       "added_at": "2025-04-18 07:57:49",
@@ -1535,22 +1559,6 @@
       "duration_ms": 217485,
       "name": "Falling in Love",
       "url": "https://open.spotify.com/track/5ojSfxtUyEaEBqJOHICOfo"
-    },
-    {
-      "added_at": "2024-01-19 11:24:08",
-      "album": {
-        "name": "Manasukkul - Symphony of Emotions",
-        "url": "https://open.spotify.com/album/5ECiO7v795pQfdBqWI20nz"
-      },
-      "artists": [
-        {
-          "name": "Pavani Vasa",
-          "url": "https://open.spotify.com/artist/1D0MDMO4NBt3Fk2T3tCzbS"
-        }
-      ],
-      "duration_ms": 211199,
-      "name": "Manasukkul - Symphony of Emotions",
-      "url": "https://open.spotify.com/track/32wxNNLUIjD3o8IPqOt2zl"
     }
   ],
   "unique_name": "Tamil Indie",

@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: Inara
 
-1,264 songs - 2 day 19 hr 43 min
+1,265 songs - 2 day 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Baby \(Let Me Go\)](https://open.spotify.com/track/1SHu7U29GaqDQscph7k8Ha) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Latinka](https://open.spotify.com/artist/6ns8FM7VeO27uESowfbvx2), [Nael Larumunde](https://open.spotify.com/artist/4A5EugnDijRnEMmNYqpntT), [Niel Larumunde](https://open.spotify.com/artist/2amko2icNCRZtpNVx67D2O) | [Baby \(Let Me Go\)](https://open.spotify.com/album/3TqYCWuv8yVfBwzDE0xJ0H) | 4:08 | 2025-02-13 | 2025-05-02 |
 | [Baby Blue](https://open.spotify.com/track/5FZsJeAOphubEbGEzHATlq) | [Soong](https://open.spotify.com/artist/1hKtrBDlkEWMZuu6clRxKc) | [Baby Blue](https://open.spotify.com/album/7rFLaq2TZuwO3piSQXhHtr) | 3:16 | 2023-06-22 | 2023-07-08 |
 | [Baby I Know](https://open.spotify.com/track/6Qrz1XYQHe0yTVZw5r3KCs) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [WOOOF!](https://open.spotify.com/album/1y4t87ut2gkVbmGfNjaPyV) | 4:27 | 2023-11-16 | 2024-04-12 |
+| [baby, lmk](https://open.spotify.com/track/2xYtaFbnusB8RDW4lxkimy) | [Notkyle](https://open.spotify.com/artist/6NbOllM9XjgO44JQyhUv6D), [Lukey](https://open.spotify.com/artist/3do4yL5zwMViERQIwA6KYp) | [baby, lmk](https://open.spotify.com/album/0VzytjR0VnjonQrySdnocY) | 3:26 | 2025-06-12 |  |
 | [Back](https://open.spotify.com/track/0GEX3Viy33NfvCax4GUREd) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Back](https://open.spotify.com/album/26PeJZE5BuDDc95AM07vX5) | 2:18 | 2023-10-05 | 2024-02-09 |
 | [Back to School](https://open.spotify.com/track/4l9uDHFUyblAkFqPqegVHt) | [野巢 Nosu](https://open.spotify.com/artist/30pJXiYdUEUSVVbizHKjTs) | [Back to School](https://open.spotify.com/album/5YvmD7LY6l7lzYdwh1tl1p) | 3:30 | 2025-06-06 |  |
 | [back to you](https://open.spotify.com/track/4J3UeEeSNrMKYHCaaQy46a) | [angelana](https://open.spotify.com/artist/3BfinGyCz0cTmNSVzngSgf), [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [back to you](https://open.spotify.com/album/1wyZWBOKXgjiYxc7IR1Ajs) | 3:33 | 2024-05-16 | 2024-08-09 |

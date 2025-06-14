@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,397 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,498 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 99 | [bala e fogo](https://open.spotify.com/track/0uILfJuLX8Sgkrz9FfUswp) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [bala e fogo](https://open.spotify.com/album/2cGGAIsF311yH1tkQt5Qp1) | 3:47 |
 | 100 | [Tomara Que Caia](https://open.spotify.com/track/6OtsS0r3dPbZYr7wL7j9cI) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Por Você...](https://open.spotify.com/album/4OUZfWsgUkkdnz7EgmQhsK) | 2:05 |
 
-Snapshot ID: `aENctAAAAAAzmOzgxbj0ew5mlHFk+92Q`
+Snapshot ID: `aExI7QAAAAAWswCh7NJ+HMb2543XWsc9`

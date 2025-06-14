@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OHwEYdG9bL.md) - [plain]
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: ENHYPEN\(엔하이픈\)\) \(Enjoy a playlist of songs that support music video features!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,176 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,200 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `aEf6zwAAAAC595wg+UqbS9+n0nG0O0f8`
+Snapshot ID: `aEuiYAAAAACOxO4GF2yaoSAlBkC4b99d`

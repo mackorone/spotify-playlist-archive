@@ -109,6 +109,24 @@
     },
     {
       "album": {
+        "name": "A Sense of Place",
+        "url": "https://open.spotify.com/album/030MFeAMtyiGEMJMpKQQuv"
+      },
+      "artists": [
+        {
+          "name": "Sophie Hutchings",
+          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195051,
+      "name": "A Sense Of Place",
+      "url": "https://open.spotify.com/track/1NOHpPlvaq8IFTNJrUM5pM"
+    },
+    {
+      "album": {
         "name": "Orph\u00e9e",
         "url": "https://open.spotify.com/album/1ZPtIPAHcNHgLuL0K6BzJN"
       },

@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 239387,
       "name": "7 Am",
       "url": "https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 131315,
       "name": "Droga",
       "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
@@ -1829,6 +1829,32 @@
     },
     {
       "album": {
+        "name": "Miro donde miro",
+        "url": "https://open.spotify.com/album/1hmxgsxgH0yXncwFUGCEps"
+      },
+      "artists": [
+        {
+          "name": "Lautaro Veppo",
+          "url": "https://open.spotify.com/artist/39nFQtYZlQlxsPJBHZyHmB"
+        },
+        {
+          "name": "jjjuli\u00e1n",
+          "url": "https://open.spotify.com/artist/1QQyeUqjjqvo9CNTIkzTAE"
+        },
+        {
+          "name": "Evan Bitz",
+          "url": "https://open.spotify.com/artist/7H76VDfRSXbQrwlD3VCqKt"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175249,
+      "name": "Miro donde miro",
+      "url": "https://open.spotify.com/track/5f1p28relsH2D16FT3qXpQ"
+    },
+    {
+      "album": {
         "name": "Monte Fuji",
         "url": "https://open.spotify.com/album/6jkOVQCi7HQYf6ZnW7Zkrw"
       },
@@ -2280,6 +2306,32 @@
       "duration_ms": 184421,
       "name": "Que Me Pasa",
       "url": "https://open.spotify.com/track/0BvV03WShjAUdRJHkL33u2"
+    },
+    {
+      "album": {
+        "name": "Ready For Life",
+        "url": "https://open.spotify.com/album/4keYlLsfVhDqM1AQKPJVse"
+      },
+      "artists": [
+        {
+          "name": "Sonido Acido",
+          "url": "https://open.spotify.com/artist/6nquqVdlnGFPB43j5ugL48"
+        },
+        {
+          "name": "C-Funk",
+          "url": "https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO"
+        },
+        {
+          "name": "Andres Nusser",
+          "url": "https://open.spotify.com/artist/6uXBoIeHFP5FNkQQ9y7OfH"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227174,
+      "name": "Ready For Life",
+      "url": "https://open.spotify.com/track/6G1mOyHJowFBPwRM2CW9TI"
     },
     {
       "album": {

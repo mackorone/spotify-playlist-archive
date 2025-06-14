@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: Katatonia
 
-802 songs - 2 day 20 hr 46 min
+803 songs - 2 day 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,7 +531,7 @@
 | [Quite Alright](https://open.spotify.com/track/6DtSBuIaj8p9D05GJ0ZuJP) | [Conception](https://open.spotify.com/artist/25612xyhRN1JRqXVlmghpr) | [My Dark Symphony](https://open.spotify.com/album/5hZ7BqEXKqhOOSX5rH7T9N) | 4:33 | 2021-12-31 | 2022-05-10 |
 | [Radiant Ascension](https://open.spotify.com/track/5qpOR69C7uAEGy7uMJznrW) | [Fallujah](https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU) | [Radiant Ascension](https://open.spotify.com/album/5ov3mKBuN98nepwM13RFCa) | 4:03 | 2022-05-06 | 2025-02-08 |
 | [Rats Return](https://open.spotify.com/track/0bVYEas0fHQ1g63DtdcYoV) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [CLOSURE / CONTINUATION](https://open.spotify.com/album/7meXKEI99ccqzh9AtmeeAR) | 5:40 | 2022-07-08 | 2024-04-19 |
-| [Rats Return](https://open.spotify.com/track/5IeZFXMZx6h0334fcH1D6E) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [Rats Return](https://open.spotify.com/album/1FWKOif3vbMdb0imNHK5yz) | 5:40 | 2022-06-17 |  |
+| [Rats Return](https://open.spotify.com/track/5IeZFXMZx6h0334fcH1D6E) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [Rats Return](https://open.spotify.com/album/1FWKOif3vbMdb0imNHK5yz) | 5:40 | 2022-06-17 | 2025-06-14 |
 | [Ray Of Light](https://open.spotify.com/track/0O0m5K3FVvFNywYNt0dww4) | [Silver Lake by Esa Holopainen](https://open.spotify.com/artist/5snqVyyNcZNQPRkcTnFi4A) | [Silver Lake by Esa Holopainen](https://open.spotify.com/album/2zWSbMftaoejsLk66Rzsj4) | 3:31 | 2022-07-08 | 2023-01-21 |
 | [Ray of Light](https://open.spotify.com/track/1NQlXj1pg6LiZbOuIbOYLg) | [Silver Lake by Esa Holopainen](https://open.spotify.com/artist/5snqVyyNcZNQPRkcTnFi4A), [Einar Solberg](https://open.spotify.com/artist/20xK8nEhn71rTjjBNoR5nv) | [Ray of Light](https://open.spotify.com/album/6b4Q0HLy4dZotblQ1lmemW) | 3:31 | 2021-12-17 | 2022-07-28 |
 | [Reaching for the Sky](https://open.spotify.com/track/3qtdGRlnee4fQPXsiFz0Nk) | [Transatlantic](https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC) | [Reaching for the Sky](https://open.spotify.com/album/7MB6phnSBj1c7Bh1CIay2K) | 5:40 | 2021-12-31 | 2022-04-18 |
@@ -598,6 +598,7 @@
 | [Spaced Out \- alternative version](https://open.spotify.com/track/0DJCA40g0wlTfcnp8dcAx3) | [Arjen Anthony Lucassen's Star One](https://open.spotify.com/artist/1W5pfX7IGyw9wCmfARg1pi) | [Space Metal \(Re\-issue 2022\)](https://open.spotify.com/album/6jd9WnGmEEmZvBciRy387Y) | 4:55 | 2022-03-11 | 2024-07-24 |
 | [Spectre At The Feast](https://open.spotify.com/track/0w12uUjKKiSYhR1gKXpnHp) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Spectre At The Feast](https://open.spotify.com/album/1Px3a4tbFV1DUZJg6LfoML) | 4:18 | 2021-12-17 | 2022-09-03 |
 | [Spherical Horizon](https://open.spotify.com/track/6qGmditKb6K7nhhEtBtCwe) | [Confusing Paradise](https://open.spotify.com/artist/0oGmw2T01mqZSJbFQcigp0) | [Qualia](https://open.spotify.com/album/7IhpuuIj0guMsU6hiFNj3R) | 4:50 | 2021-12-17 | 2022-07-26 |
+| [Spirit Corrosion](https://open.spotify.com/track/7sQsJItB0PbQ5asT8PPYrk) | [Nailed to Obscurity](https://open.spotify.com/artist/3VKWvDnlwWaBI2uzMTjuSJ) | [Spirit Corrosion](https://open.spotify.com/album/738zzIsYYGg5lcbiApHYXR) | 5:17 | 2025-06-13 |  |
 | [Splitting the Soul \(feat\. Ihsahn\)](https://open.spotify.com/track/3HH1qLT6rCbk8BU9sCUgqd) | [Einar Solberg](https://open.spotify.com/artist/20xK8nEhn71rTjjBNoR5nv), [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [16](https://open.spotify.com/album/25jWll9IwvwbKSChqKmMdG) | 6:22 | 2023-12-06 |  |
 | [Springfield](https://open.spotify.com/track/614xdvVqOIRY6KFCkQlVOB) | [Anathema](https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX) | [The Optimist](https://open.spotify.com/album/2pmuzXGYLCNysBat1Txe3W) | 5:49 | 2021-12-17 | 2022-01-29 |
 | [Stacker](https://open.spotify.com/track/12teD9GUNV7r8FFuOocsa3) | [ENOX](https://open.spotify.com/artist/29giH6njkq3yqb6lIf4dou) | [Stacker](https://open.spotify.com/album/4wwaulDezmxr2zt4btOqYN) | 3:24 | 2022-07-13 | 2025-02-08 |

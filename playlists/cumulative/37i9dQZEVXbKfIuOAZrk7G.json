@@ -124,7 +124,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/2CEoEzqeH4EVL75JX1jf9B"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/6BJRGULyx1DbFJLBj3fbx3"
@@ -15757,6 +15757,24 @@
     },
     {
       "album": {
+        "name": "Day Late & A Buck Short (Acoustic)",
+        "url": "https://open.spotify.com/album/3iR4q1xqRwqAFpCjFyMJ6v"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153415,
+      "name": "Day Late & A Buck Short",
+      "url": "https://open.spotify.com/track/2DAtZjXO5QLM2WYQkjMUoa"
+    },
+    {
+      "album": {
         "name": "Day Late & A Buck Short",
         "url": "https://open.spotify.com/album/1FfgPDghlTyXLyqV1Vdnpj"
       },
@@ -30818,7 +30836,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 204963,
       "name": "I Got Better",
       "url": "https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob"
@@ -35580,7 +35598,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 196088,
       "name": "Just What I Said (Everything In Its Right Place)",
       "url": "https://open.spotify.com/track/2wGRIasMJFkp2NLAISSZov"
@@ -39558,7 +39576,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 193400,
       "name": "LOKADEM\u00c1S",
       "url": "https://open.spotify.com/track/57bUr20VyftxFTMCswp0tM"
@@ -43057,6 +43075,24 @@
     },
     {
       "album": {
+        "name": "Dark Country, Vol. 1",
+        "url": "https://open.spotify.com/album/4MKvDAkZBOTV75JBQ4xO7U"
+      },
+      "artists": [
+        {
+          "name": "Aventhis",
+          "url": "https://open.spotify.com/artist/0a97V3mDhGyNg93Dcf9Ahj"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239799,
+      "name": "Mercy on my Grave",
+      "url": "https://open.spotify.com/track/5EA88w5X3vkTOPRWUauJGD"
+    },
+    {
+      "album": {
         "name": "Meridian",
         "url": "https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU"
       },
@@ -44432,7 +44468,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 103727,
       "name": "MONTAGEM BAIL\u00c3O",
       "url": "https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh"
@@ -54344,6 +54380,28 @@
       "duration_ms": 169418,
       "name": "Que Vuelvas",
       "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
+    },
+    {
+      "album": {
+        "name": "QUEEN",
+        "url": "https://open.spotify.com/album/4mX6QaVHv4m9d6KCZ87jlq"
+      },
+      "artists": [
+        {
+          "name": "Armaan Gill",
+          "url": "https://open.spotify.com/artist/419l4iEymGkojTyDzVYA7j"
+        },
+        {
+          "name": "Arnaaz Gill",
+          "url": "https://open.spotify.com/artist/23NCKM83KhH4vEK4JHTGfx"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158299,
+      "name": "QUEEN",
+      "url": "https://open.spotify.com/track/42iSr82UHNW3l3BWocmr4v"
     },
     {
       "album": {
@@ -65658,7 +65716,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 186257,
       "name": "temperatura",
       "url": "https://open.spotify.com/track/28SynAAxPAigz5Xng3vsxy"

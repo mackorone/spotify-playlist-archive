@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras?si=4-y6kClNQsGZtoTCIiUuNw\">MashBeatz</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT?si=xL42VRg6QUaARo4QQGHRnw\">LaCabra</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -858,6 +858,28 @@
       "duration_ms": 225226,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/4ijh3sciORErcse7mAkCYT"
+    },
+    {
+      "album": {
+        "name": "Allez Tobina",
+        "url": "https://open.spotify.com/album/1qxHpIueABpUg2Hqm4r0JK"
+      },
+      "artists": [
+        {
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        },
+        {
+          "name": "Kvng Vinci",
+          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100285,
+      "name": "Allez Tobina",
+      "url": "https://open.spotify.com/track/47W4qjBTy2E7N7x0p6y2P9"
     },
     {
       "album": {
@@ -2310,6 +2332,28 @@
       "duration_ms": 128267,
       "name": "BIG DAWG",
       "url": "https://open.spotify.com/track/7pTBMsn72jgNhvpOCsJfST"
+    },
+    {
+      "album": {
+        "name": "BIG LAQHASHA UTHINI",
+        "url": "https://open.spotify.com/album/1TehiFUlLcPy7CGuwg4sdm"
+      },
+      "artists": [
+        {
+          "name": "LaCabra",
+          "url": "https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT"
+        },
+        {
+          "name": "BZM",
+          "url": "https://open.spotify.com/artist/4NW2EDTcov8exZpqkcSqsS"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128328,
+      "name": "BIG LAQHASHA UTHINI",
+      "url": "https://open.spotify.com/track/2NItBIGJeq2JeaWUSds5bB"
     },
     {
       "album": {
@@ -6394,7 +6438,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 179984,
       "name": "GA$",
       "url": "https://open.spotify.com/track/6ItTOHNjwYaXWsPiL0PONi"
@@ -12169,6 +12213,32 @@
     },
     {
       "album": {
+        "name": "NGCWELE (feat. K.Keed & Horid The Messiah)",
+        "url": "https://open.spotify.com/album/6e1SxKxDJMaYyZJm4AaONA"
+      },
+      "artists": [
+        {
+          "name": "Jepedoh",
+          "url": "https://open.spotify.com/artist/7dTIcdK3UCwuYaWlom4bjZ"
+        },
+        {
+          "name": "K.Keed",
+          "url": "https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e"
+        },
+        {
+          "name": "Horid The Messiah",
+          "url": "https://open.spotify.com/artist/527Bif2FIESnEMUJeRbeIQ"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "NGCWELE (feat. K.Keed & Horid The Messiah)",
+      "url": "https://open.spotify.com/track/7Ip4THS09pyHRTvrYgirjA"
+    },
+    {
+      "album": {
         "name": "Kwamashu To Ejozi",
         "url": "https://open.spotify.com/album/540rP4UbYPCPRDJ0x6Xg2k"
       },
@@ -12926,7 +12996,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 180812,
       "name": "O'krrr",
       "url": "https://open.spotify.com/track/2YGFoJloaCrfpMr5wjF7lV"

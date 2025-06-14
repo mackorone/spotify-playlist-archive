@@ -1,12 +1,12 @@
 {
   "description": "This is EGOIST. The essential tracks, all in one playlist.",
-  "num_followers": 40868,
+  "num_followers": 40869,
   "original_name": "This Is EGOIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEjHAAAAAAA84KEnDqYCAduVbeMOOPLe",
+  "snapshot_id": "aEoYgAAAAACn8uLjcsjBtMnHzXr1YxNZ",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit -",
-        "url": "https://open.spotify.com/album/6pYCnYN6J51Ky2doNPEKGl"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 102506,
-      "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit -",
-      "url": "https://open.spotify.com/track/71HUrLJqdnXi9w1Vvb5bPR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269",
         "url": "https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 257986,
       "name": "\u30ab\u30ca\u30c7\u30ca\u30eb",
       "url": "https://open.spotify.com/track/6JgfEzVw7KCWzLeE5rRfqC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit -",
+        "url": "https://open.spotify.com/album/6pYCnYN6J51Ky2doNPEKGl"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 102506,
+      "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit -",
+      "url": "https://open.spotify.com/track/71HUrLJqdnXi9w1Vvb5bPR"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
       "duration_ms": 350120,
       "name": "All Alone With You -Instrumental-",
       "url": "https://open.spotify.com/track/7elhr7ip89XjzWJS3XiwKk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Departures - Anata Ni Okuru Ai No Uta",
+        "url": "https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 95506,
+      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\uff08TV Edit\uff09-Instrumental-",
+      "url": "https://open.spotify.com/track/4TWjUF3wARx5I0gBMCZIJl"
     }
   ],
   "unique_name": "This Is EGOIST",

@@ -4,7 +4,7 @@
 
 > Music to see you through the tough times.
 
-101 songs - 6 hr 50 min
+102 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Goner](https://open.spotify.com/track/5P3yUXUC9rZPJPNmYGKEAz) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:56 | 2025-02-11 |  |
 | [Hallucinations](https://open.spotify.com/track/0UE0RhnRaEYsiYgXpyLoZc) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/0jLynoED1FbV2Ky7vU6Pjc) | 4:06 | 2025-02-11 |  |
 | [Hello](https://open.spotify.com/track/4sPmO7WMQUAf45kwMOtONw) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/0K4pIOOsfJ9lK8OjrZfXzd) | 4:55 | 2025-02-11 |  |
-| [How To Be Lonely](https://open.spotify.com/track/67vfr6KGup6W1x7PuuaaQh) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [How To Be Lonely](https://open.spotify.com/album/7CG4JXri1nz0CJNmfSjtmV) | 3:16 | 2025-04-18 |  |
+| [How To Be Lonely](https://open.spotify.com/track/67vfr6KGup6W1x7PuuaaQh) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [How To Be Lonely](https://open.spotify.com/album/7CG4JXri1nz0CJNmfSjtmV) | 3:16 | 2025-04-18 | 2025-06-14 |
 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 | 2025-02-11 |  |
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2025-02-11 |  |
 | [I'll Never Love Again \- Film Version](https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 4:41 | 2025-02-11 |  |
@@ -92,6 +92,7 @@
 | [The Night We Met](https://open.spotify.com/track/24MGEzm6xAO1nFgVVp37YI) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/1Dv4M04Akv9PWJ7VvT9T2C) | 3:28 | 2025-02-11 |  |
 | [The Only Thing](https://open.spotify.com/track/0eVYGqIPngJQUeRwGeVeXG) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/5MQPCHqfFR9wweKrLJyaSM) | 4:41 | 2025-02-11 |  |
 | [The Story Never Ends](https://open.spotify.com/track/5cDNs4utoHt0WNRZuziews) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [The Story Never Ends](https://open.spotify.com/album/2uHf3RF2YSkZZZ8T0uITCx) | 3:49 | 2025-02-11 |  |
+| [Thought It Was Love](https://open.spotify.com/track/4fVoX6BG2jFhPx6uHKevpF) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [The Select](https://open.spotify.com/album/4tE4n1E0qtAfJTh8IPT9TN) | 4:06 | 2025-06-13 |  |
 | [Tin Man](https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 4:19 | 2025-02-11 |  |
 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 | 2025-02-11 | 2025-04-19 |
 | [Unfair](https://open.spotify.com/track/18kybCq4cKsXjf3DugmMEl) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Love Renaissance \(LVRN\)](https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf) | [Unfair \(Full Version\) / Been A While](https://open.spotify.com/album/4j9EVqECBYHL0g9pUEOmIC) | 4:48 | 2025-02-11 |  |

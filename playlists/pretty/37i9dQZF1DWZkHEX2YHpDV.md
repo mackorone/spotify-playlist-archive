@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Mayday Parade
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,512 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,472 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 99 | [Something About You](https://open.spotify.com/track/352rVkzjhMmzhivUPghajg) | [Brooklane](https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW) | [Something About You](https://open.spotify.com/album/60IGbp8jEh7hiknYc9cCdu) | 2:37 |
 | 100 | [American Psycho](https://open.spotify.com/track/3oQkPjn9TE19bRxPPpWp08) | [Savings](https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb) | [American Psycho](https://open.spotify.com/album/2ILkMKiZC1vs6dtRKB3HvA) | 3:05 |
 
-Snapshot ID: `aEJnxQAAAADXKsxpEF0MoXn/lUC4Mej6`
+Snapshot ID: `aEw5jQAAAABVh07fL+6JfIXCTifdU+4Q`

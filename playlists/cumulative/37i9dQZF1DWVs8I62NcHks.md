@@ -4,7 +4,7 @@
 
 > All of your Disney Favorites in one playlist, including new music from Disney's Lilo & Stitch.
 
-214 songs - 11 hr 3 min
+215 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [The Ballad of Davy Crockett \- From "Frontierland"](https://open.spotify.com/track/5ZmGoux6Pu8rtfjBWtLR7w) | [The Mellomen](https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq) | [Disney Classics](https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0) | 1:41 | 2023-05-15 | 2023-07-28 |
 | [The Ballad of the Lonesome Cowboy](https://open.spotify.com/track/3a24rUSZ1Ui3xmPNnqpor8) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Toy Story 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6WjuMbjLJHdI0EwjJR9ChA) | 1:45 | 2021-11-19 | 2023-05-16 |
 | [The Bare Necessities](https://open.spotify.com/track/6fIKi0kU1gZwyNGMlE4Zl6) | [Bill Murray](https://open.spotify.com/artist/3wkZ8WTrs7WcfE13voUCK1), [Kermit Ruffins](https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk) | [The Jungle Book \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3aE3jpLLfDpmAb0mhxB5tm) | 3:00 | 2021-11-19 | 2023-05-16 |
+| [The Bare Necessities](https://open.spotify.com/track/45DOXY8dCFkAp2lXAxqmUC) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [In the Key of Disney](https://open.spotify.com/album/2Xgc5F1OMlpdHjrz3xUlHF) | 3:12 | 2025-06-13 |  |
 | [The Bare Necessities](https://open.spotify.com/track/7h5crXBSY5SSpXRIlklv74) | [Phil Harris](https://open.spotify.com/artist/2ISMfPtVzHc9jDDVPUEHDa), [Bruce Reitherman](https://open.spotify.com/artist/43HPW60tz4BMYMRnmXMagJ) | [The Jungle Book](https://open.spotify.com/album/7zdZNXoapFcOW663zgLdOE) | 4:51 | 2023-05-15 |  |
 | [The Best of Both Worlds \- From "Hannah Montana"/Soundtrack Version](https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 2:54 | 2023-05-15 |  |
 | [The Family Madrigal](https://open.spotify.com/track/4b1yxSdlumA8N4fEk4UOZp) | [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr), [Olga Merediz](https://open.spotify.com/artist/2Go6wC0GsnkVeRoVwh8rqX), [Encanto \- Cast](https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 4:17 | 2021-11-19 |  |

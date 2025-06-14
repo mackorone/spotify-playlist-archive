@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 
 > El lado electrónico del indie latino, featuring Juan Baro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,137 likes - 146 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,134 likes - 146 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

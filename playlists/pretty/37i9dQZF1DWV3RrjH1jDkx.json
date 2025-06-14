@@ -1,6 +1,6 @@
 {
   "description": "Ny musikk fra Tobias Sten, Alessandra, SKAAR og mange flere!\ud83c\udfb5",
-  "num_followers": 194481,
+  "num_followers": 194744,
   "original_name": "New Music Friday Norway",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,22 @@
     {
       "added_at": "2025-06-12 22:00:42",
       "album": {
+        "name": "Memoir of a Sparklemuffin (Deluxe)",
+        "url": "https://open.spotify.com/album/0GE0uLMG3dAOrvPGcJtvKz"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 208008,
+      "name": "The Bellboy (One Last Crush)",
+      "url": "https://open.spotify.com/track/3zP0fq3Hv4DyEaLGBpQuln"
+    },
+    {
+      "added_at": "2025-06-12 22:00:42",
+      "album": {
         "name": "ORDER chaos ORDER",
         "url": "https://open.spotify.com/album/0O0OCwx5K3WRMrfqwVMR2f"
       },
@@ -1011,6 +1027,22 @@
     {
       "added_at": "2025-06-12 22:00:42",
       "album": {
+        "name": "Won't Stop",
+        "url": "https://open.spotify.com/album/1TRulQDa3GYTurukQ91HGB"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Won't Stop",
+      "url": "https://open.spotify.com/track/4ugKUZExbqbkKXEmbTrTRW"
+    },
+    {
+      "added_at": "2025-06-12 22:00:42",
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/0wqpGat4T9V4RXBS6PZzYU"
       },
@@ -1075,6 +1107,26 @@
       "duration_ms": 180310,
       "name": "Aftersun",
       "url": "https://open.spotify.com/track/4TW1Ht5J4rpAzaC9XxCfSL"
+    },
+    {
+      "added_at": "2025-06-12 22:00:42",
+      "album": {
+        "name": "Killin' It Girl (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 148714,
+      "name": "Killin' It Girl (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
     },
     {
       "added_at": "2025-06-12 22:00:42",
@@ -1686,10 +1738,6 @@
         {
           "name": "Marie Kl\u00e5pbakken",
           "url": "https://open.spotify.com/artist/2qHlT3DfJoJNI4I8IzQmky"
-        },
-        {
-          "name": "Jon Roaldsnes",
-          "url": "https://open.spotify.com/artist/3qzx3e9u0DxYCI54OKpMIp"
         }
       ],
       "duration_ms": 167634,

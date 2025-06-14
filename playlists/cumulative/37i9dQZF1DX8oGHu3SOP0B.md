@@ -4,7 +4,7 @@
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: pami
 
-594 songs - 1 day 10 hr 35 min
+596 songs - 1 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Bababababy](https://open.spotify.com/track/66ltSUFE9eiyH0NiKMSfv4) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [Bababababy](https://open.spotify.com/album/6UYYhPbEjlwTtz0tPerDkg) | 2:51 | 2024-04-02 | 2024-05-01 |
 | [Baby Tee](https://open.spotify.com/track/0YRvcIlETPNLdasQYkJabY) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [Baby Tee](https://open.spotify.com/album/2AgNQHS5SSwt7JyJaH7YGj) | 3:48 | 2025-03-04 |  |
 | [BACK TO REALITY](https://open.spotify.com/track/6UPfwn6QfHpxwPrBY3nQnv) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [CALL ME DRAMATIC](https://open.spotify.com/album/4Sz1UUnYKvc9cndf10JPxs) | 3:52 | 2024-10-03 | 2025-01-08 |
-| [BETTER THAN THAT](https://open.spotify.com/track/5g0eR1a8APtcRfU8CkHBfj) | [Tsunari](https://open.spotify.com/artist/1jiktv8es5sE3GMGO4Ago6) | [BETTER THAN THAT](https://open.spotify.com/album/4sJxxp8qmv4J0w8tqrJfn1) | 2:12 | 2025-06-03 |  |
+| [BETTER THAN THAT](https://open.spotify.com/track/5g0eR1a8APtcRfU8CkHBfj) | [Tsunari](https://open.spotify.com/artist/1jiktv8es5sE3GMGO4Ago6) | [BETTER THAN THAT](https://open.spotify.com/album/4sJxxp8qmv4J0w8tqrJfn1) | 2:12 | 2025-06-03 | 2025-06-14 |
 | [Bla Bli Blu](https://open.spotify.com/track/4wsZKLLRZ2sjawvSuM39Wc) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [PLOY](https://open.spotify.com/album/7zN3jhCgtmlDTzsTvS7VHp) | 2:57 | 2023-05-02 | 2023-06-07 |
 | [Block U](https://open.spotify.com/track/6qsVnE5hNGYAhohP6jOuew) | [MiuMiu](https://open.spotify.com/artist/2L8QADYren5781HvE0ihhs) | [Block U](https://open.spotify.com/album/7jR9agC8do48NisrqX0bxW) | 3:49 | 2025-01-07 | 2025-06-04 |
 | [bloom](https://open.spotify.com/track/40dhAKaLDL1K5EwAJmhRab) | [PETITE](https://open.spotify.com/artist/5vWJurEtxoZLhVxk7IyUzF) | [bloom](https://open.spotify.com/album/53JYsTjyi67V8cJW6sPT12) | 3:52 | 2023-06-06 | 2023-07-05 |
@@ -37,7 +37,7 @@
 | [Break My Heart](https://open.spotify.com/track/5iNZW3ZE3qqXM2BFO4pg7G) | [D\-NA](https://open.spotify.com/artist/2F4giQjhpORkIsOPBDhR5I) | [Break My Heart](https://open.spotify.com/album/7f5HrxNoLNJBNTSOxyXxrE) | 3:45 | 2025-02-04 | 2025-04-02 |
 | [Breakup Never Felt So Good](https://open.spotify.com/track/50m4RCFL1hNROtgyiaZZh4) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Breakup Never Felt So Good](https://open.spotify.com/album/5rxzoj1VmwVReuZPEPc9aW) | 3:08 | 2023-11-29 | 2024-02-07 |
 | [Burning Man](https://open.spotify.com/track/5LO3noBBYuolWOdI8qSJn1) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [Burning Man](https://open.spotify.com/album/2xGhYtgqYeDLci3hcGupJV) | 2:40 | 2023-08-01 | 2023-09-07 |
-| [CAKE ROULETTE](https://open.spotify.com/track/3OornFGFIJ8TjSXFnLIlNt) | [QRRA](https://open.spotify.com/artist/2jZTg3Uabja37iBJCXd9Ia) | [CAKE ROULETTE](https://open.spotify.com/album/0rhLmVoNmqwF7bN8URHKjH) | 3:47 | 2025-06-03 |  |
+| [CAKE ROULETTE](https://open.spotify.com/track/3OornFGFIJ8TjSXFnLIlNt) | [QRRA](https://open.spotify.com/artist/2jZTg3Uabja37iBJCXd9Ia) | [CAKE ROULETTE](https://open.spotify.com/album/0rhLmVoNmqwF7bN8URHKjH) | 3:47 | 2025-06-03 | 2025-06-14 |
 | [Camomile](https://open.spotify.com/track/2nBgb4eY2vKe3sVDDx2kZC) | [Patty Panicha](https://open.spotify.com/artist/2xdIAAKxGmxbNuPBW6x7Ej) | [Camomile](https://open.spotify.com/album/5KMTqRC8EJG6HSBqv2z9Sz) | 3:30 | 2025-01-07 | 2025-03-05 |
 | [candydate](https://open.spotify.com/track/00WnnLRjGminWuABEJqyiK) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [candydate](https://open.spotify.com/album/5I3oK93RKCZ9KheELrmnfK) | 2:58 | 2025-06-03 |  |
 | [CATCH ME \(feat\. JUNGT BUS\)](https://open.spotify.com/track/4Fkd9BdBZaefTS9410hxs0) | [MINDY](https://open.spotify.com/artist/2a7WiIiQJcunh4cSWmp0Gi), [JUNGT BUS](https://open.spotify.com/artist/0R4RZew1uJin7PZj0XdAp1) | [CATCH ME \(feat\. JUNGT BUS\)](https://open.spotify.com/album/1E82fOQtjymDTJOkIeMoHc) | 3:32 | 2025-01-07 | 2025-02-05 |
@@ -114,6 +114,7 @@
 | [JELLO](https://open.spotify.com/track/5uzwwLPiCwkBNHRuMyIdVn) | [Sugar 'N Spice](https://open.spotify.com/artist/19QSRQEb3DVrOHPiExaZSl) | [JELLO](https://open.spotify.com/album/5hHX38Rnogq7fwLgScNCmi) | 3:39 | 2024-11-05 | 2024-12-11 |
 | [JUST DANCE](https://open.spotify.com/track/0yk8huYYGt1SHHxlI8hnGc) | [bXd](https://open.spotify.com/artist/11R7WnedRjQv6G7ZGodm7Q) | [JUST DANCE](https://open.spotify.com/album/6l64wDsFlpzZsQvtWjqDfs) | 3:32 | 2023-10-03 | 2023-11-08 |
 | [Just One Night](https://open.spotify.com/track/65JdN1RCUQAD2nhb275BUQ) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Just One Night](https://open.spotify.com/album/232UkzuiHVDNO71HTvQcxH) | 3:09 | 2023-07-04 | 2023-08-02 |
+| [Keep a Secret](https://open.spotify.com/track/1ipDqVFgmVOAcboxe9Yiei) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [GLOW](https://open.spotify.com/album/5bN1rEaxjAkoIRRVk6R2iz) | 2:10 | 2025-06-13 |  |
 | [Keep It Cool \(นิ่งไว้ก่อน\)](https://open.spotify.com/track/78RYLLnY61Y3u3kbidfgUH) | [พู่กัน กันฏ์ระพี](https://open.spotify.com/artist/3k7rqg9S2F8zpVETclVJyl) | [Keep It Cool \(นิ่งไว้ก่อน\)](https://open.spotify.com/album/3TF6iWQYQ4hR1hF89ErJQy) | 2:47 | 2024-02-06 | 2024-03-06 |
 | [kiss me blue](https://open.spotify.com/track/0At2oBBJxf4yAigXEpvUcI) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [kiss me blue](https://open.spotify.com/album/2dlzA5WYWI0VZRIuhFgEMY) | 3:08 | 2025-05-06 |  |
 | [Ladybug](https://open.spotify.com/track/4J7A5l3KlT1tyi6jfE5dSE) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Ladybug](https://open.spotify.com/album/43AUX3S660O7gGKeZqGUsk) | 3:40 | 2024-12-10 | 2025-05-07 |
@@ -132,6 +133,7 @@
 | [lost love](https://open.spotify.com/track/5uXAZfUUgjk0x5a9WoMYnE) | [VINI](https://open.spotify.com/artist/1QzHMnO2CsyqS7EgZ5fRoW) | [lost love](https://open.spotify.com/album/63Glu1UhzrFEHa4Y5qTCpE) | 3:22 | 2025-04-01 | 2025-05-07 |
 | [Love is so confusing](https://open.spotify.com/track/5BaEJjn5cUmGWZno5nTJiZ) | [TeyaTaye](https://open.spotify.com/artist/7xjxDKGA00Zt9f4zEHynEv) | [Love is so confusing](https://open.spotify.com/album/0kGuf8QZc3gPQ6hFsB7hbz) | 3:40 | 2025-03-04 | 2025-04-02 |
 | [Love is so Unreal](https://open.spotify.com/track/6way0VicE5Og0xQDtKG5tl) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Love is so Unreal](https://open.spotify.com/album/2Ky4TmcA2p4q1bJVaRL6Wa) | 4:05 | 2024-12-10 | 2025-01-08 |
+| [Love me still](https://open.spotify.com/track/2v8iem31YAuBu79aXdwe5s) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [WHAT EVE?](https://open.spotify.com/album/50OcggcChWHTfRhymbu3vO) | 3:52 | 2025-06-13 |  |
 | [Lowkeyy](https://open.spotify.com/track/6HDerDuffdSAnpQAQ1dMMD) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc) | [Lowkeyy](https://open.spotify.com/album/2ydmBsQxD6oMNwFqV6qg0o) | 4:01 | 2023-10-03 | 2024-08-07 |
 | [Make It Hot \(feat\. Pink Sweat$\)](https://open.spotify.com/track/7kJ4Q6YTfePxfKuVxVFRzT) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Make It Hot \(feat\. Pink Sweat$\)](https://open.spotify.com/album/3vXyaAkOtyBIYFsGdrJVkS) | 2:17 | 2024-04-30 | 2024-11-06 |
 | [Make Up](https://open.spotify.com/track/6m5nkhGZNfvuufgwqE48Ie) | [Arabelle](https://open.spotify.com/artist/7uU11RJKOt74chXI2s6eQf) | [Make Up](https://open.spotify.com/album/7kHxrdS25cuPm8SjR9MYuX) | 3:08 | 2025-06-03 |  |

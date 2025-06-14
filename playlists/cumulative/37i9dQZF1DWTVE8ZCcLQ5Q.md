@@ -4,7 +4,7 @@
 
 > Mago de Tarso e novos talentos do Brasil\. Dê play no futuro.
 
-413 songs - 20 hr 26 min
+414 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Mágica](https://open.spotify.com/track/3D7qSzc2oVRtVpGD3i1MQ9) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9) | [Mágica](https://open.spotify.com/album/5svBXdjq7ciG56ZzbaC7qp) | 3:05 | 2021-11-19 | 2022-02-12 |
 | [Na Mente](https://open.spotify.com/track/1cIye3qzGW8i3aLxjoZi5B) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Na Mente](https://open.spotify.com/album/36ujDhgXJAzhzKPeZ3pzBW) | 2:04 | 2023-04-24 | 2024-05-03 |
 | [Na Pressão / Coração Na Porta](https://open.spotify.com/track/2HZwILqL7J4EhVNYlIBr5S) | [MC Du Black](https://open.spotify.com/artist/6v4PBIzRAGaLp43LVureQc), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Na Pressão / Coração Na Porta](https://open.spotify.com/album/1dH7L5BxnanQjMWP3umq3y) | 3:31 | 2021-11-19 | 2022-02-10 |
+| [Nada](https://open.spotify.com/track/7Lum2Q2VG0Paq9adSxNTSi) | [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4), [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0) | [Nada](https://open.spotify.com/album/3jGBkZE4D2zbTYeWSny4RI) | 3:20 | 2025-06-13 |  |
 | [nada contra \(ciúme\)](https://open.spotify.com/track/76rt88JFYACGfrXvxGnyOB) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [nada contra \(ciúme\)](https://open.spotify.com/album/7xAdljACBfqiRlB8Iguoxn) | 2:22 | 2022-02-14 | 2022-06-16 |
 | [nada vale o preço](https://open.spotify.com/track/7DUbJL6jtQBCoCPm0hyQQk) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [nada vale o preço](https://open.spotify.com/album/0dAqZacB6swpyjHkBbqnwG) | 4:36 | 2021-11-19 | 2022-02-15 |
 | [Naipe Vagabundo](https://open.spotify.com/track/0gUYr9h0KIYEDW3yZpKDm9) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [Naipe Vagabundo](https://open.spotify.com/album/2EBo00f8mLpLWtZHdlaATT) | 2:16 | 2024-05-02 | 2025-04-16 |
@@ -392,7 +393,7 @@
 | [Todo Mundo Ama o Sol](https://open.spotify.com/track/30KnuGgwh6EtBCTFT3iGLe) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg) | [Todo Mundo Ama O Sol](https://open.spotify.com/album/4YfxPY16QwP1KTdtvkz5y3) | 2:40 | 2023-02-10 | 2023-04-25 |
 | [Toma](https://open.spotify.com/track/4jLBB4wljHaKsILN6Bs9ss) | [Afrocidade](https://open.spotify.com/artist/1kbDI5eg73ftGzwOf4OKZL) | [Vivão](https://open.spotify.com/album/5lbpIV9r76xxqSrj23f6LQ) | 3:34 | 2022-02-14 | 2022-07-29 |
 | [TOMA ESSE TAKE](https://open.spotify.com/track/1V38twDxmnyD15LgpsOACQ) | [Baby T](https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf), [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU), [IKNOWFELIPE](https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk), [Scytherkid](https://open.spotify.com/artist/2MJldGgebLfTUDAUYeuUIm) | [O MAIS GROOVY DA CIDADE](https://open.spotify.com/album/2ilarkjzT3wZL1Cka5rqAk) | 2:44 | 2025-04-15 |  |
-| [Traumas, Pt\. 2](https://open.spotify.com/track/1kmC1D65StdXts9xb7c7M2) | [Gyylo](https://open.spotify.com/artist/0SU90Y0GlSJKkS3zelkgbS) | [Traumas, Pt\. 2](https://open.spotify.com/album/6CdraDjsICk0LloTRtBOCc) | 2:36 | 2025-04-15 |  |
+| [Traumas, Pt\. 2](https://open.spotify.com/track/1kmC1D65StdXts9xb7c7M2) | [Gyylo](https://open.spotify.com/artist/0SU90Y0GlSJKkS3zelkgbS) | [Traumas, Pt\. 2](https://open.spotify.com/album/6CdraDjsICk0LloTRtBOCc) | 2:36 | 2025-04-15 | 2025-06-14 |
 | [Trem Bala](https://open.spotify.com/track/1IJvvl30UCU5pwqiQ6ESFL) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Eldorado Music](https://open.spotify.com/artist/1lwFarWDLOruW7UiLwhvv8) | [Trem Bala](https://open.spotify.com/album/6YZ5ViirT28npvybtFtx42) | 1:56 | 2023-04-24 | 2024-05-03 |
 | [Tu tem jeito de quem gosta](https://open.spotify.com/track/1xOpAC7Wv465c51iK4Tgkv) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Tu tem jeito de quem gosta](https://open.spotify.com/album/5vrKMwJ2laISjYY0nWzZ2o) | 2:37 | 2022-02-14 | 2023-10-04 |
 | [Tudo o Que Tem Você](https://open.spotify.com/track/3AC2TNQZ644AKANPHUW1UV) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Planos](https://open.spotify.com/album/6xPUrpsSm8ICSqCehzwhAA) | 4:13 | 2022-02-14 | 2022-05-02 |

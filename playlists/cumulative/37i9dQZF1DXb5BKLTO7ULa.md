@@ -2,9 +2,9 @@
 
 ### [New Music Friday NL](https://open.spotify.com/playlist/37i9dQZF1DXb5BKLTO7ULa)
 
-> Nieuwe muziek: Antoon, DYSTINCT & J Balvin, Mark Ronson & Raye en meer
+> Nieuwe muziek: Antoon, DYSTINCT & J Balvin, Mark Ronson & RAYE en meer
 
-11,420 songs - 24 day 20 hr 56 min
+11,422 songs - 24 day 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4384,7 +4384,7 @@
 | [Hold Me Like a Grudge](https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:35 | 2023-03-24 | 2023-03-31 |
 | [Hold Me Up \(Thank You\)](https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:49 | 2024-04-04 | 2024-04-12 |
 | [Hold My Hand](https://open.spotify.com/track/3tTdrfAf26i1px0iRSvpKq) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Hold My Hand](https://open.spotify.com/album/0T0yrlXZzVERl5UPClQweD) | 3:44 | 2025-01-30 | 2025-02-07 |
-| [Hold My Hand \- Edit](https://open.spotify.com/track/7jyJzdp00L6EDExqW8YOoR) | [SIM—OJ](https://open.spotify.com/artist/5iTVV4xiBCFr1hLJ1O98GQ) | [Hold My Hand](https://open.spotify.com/album/1KHYCEjDLcWI9j82oFXbbQ) | 2:47 | 2025-06-12 |  |
+| [Hold My Hand \- Edit](https://open.spotify.com/track/7jyJzdp00L6EDExqW8YOoR) | [SIM—OJ](https://open.spotify.com/artist/5iTVV4xiBCFr1hLJ1O98GQ), [SIROJ](https://open.spotify.com/artist/0SQOIur6PFpZ7ACj9BX2Tv), [Sim Fane](https://open.spotify.com/artist/2kSYc7wBDmCcqXkG0J8oa2), [CAMI](https://open.spotify.com/artist/5SL6jxq5lK5pfGISZydq1Z) | [Hold My Hand](https://open.spotify.com/album/1KHYCEjDLcWI9j82oFXbbQ) | 2:47 | 2025-06-12 |  |
 | [Hold On](https://open.spotify.com/track/2KSp8PdIUklpvIcpC688wT) | [Klyne](https://open.spotify.com/artist/3q4qbeWVDpN7LcwU6db2a7) | [Hold On](https://open.spotify.com/album/3ZG8qMgSzv43JppXxgfB26) | 1:56 | 2025-05-15 | 2025-05-23 |
 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 | 2025-06-12 |  |
 | [Hold On](https://open.spotify.com/track/6HfdQ7LPoLFZnOXEEJT7mM) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Heart And Soul](https://open.spotify.com/album/0jYHxt2bNfhOS5ZLh5iU1Q) | 3:13 | 2024-02-01 | 2024-02-09 |
@@ -5406,6 +5406,7 @@
 | [Kill The Itch](https://open.spotify.com/track/5LnuCLFbSthhuip0ytSJfi) | [Mickie](https://open.spotify.com/artist/1fhrWRji66FUx7jES5tMJX) | [Kill The Itch](https://open.spotify.com/album/2zJTTInYGeoD79lAKOZnWX) | 2:51 | 2024-05-09 | 2024-05-17 |
 | [Kill The Lonely](https://open.spotify.com/track/5U82QQpTtoSXO4YWPrWpee) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Kill The Lonely](https://open.spotify.com/album/1LGjhZbmLGoZLhkyPRgB7s) | 3:20 | 2024-03-14 | 2024-03-22 |
 | [Kill The Vibe](https://open.spotify.com/track/4Mw1vqYfDWL2d8dJLWFYQp) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [Kill The Vibe](https://open.spotify.com/album/3RajPAonNivFPajGSnsh42) | 2:46 | 2024-05-31 | 2024-06-07 |
+| [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs) | 2:28 | 2025-06-12 |  |
 | [Killing Me](https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Killing Me](https://open.spotify.com/album/5yeTnVxNU9I1rdfvVN26Fm) | 3:14 | 2023-03-17 | 2023-03-25 |
 | [Killing Me](https://open.spotify.com/track/2Lss5tezmIkgZA3GFfptI2) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Killing Me](https://open.spotify.com/album/7l01qix76t2pcJNPTEMA9E) | 3:24 | 2023-11-02 | 2023-11-10 |
 | [Killing Time](https://open.spotify.com/track/5faNmEw9yCofUMkLSkdB9t) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [Killing Time](https://open.spotify.com/album/3gck5lYZG61SN078f9d67Z) | 2:49 | 2025-04-24 | 2025-05-02 |
@@ -11093,6 +11094,7 @@
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-11 | 2024-07-19 |
 | [Won't Forget You](https://open.spotify.com/track/2fP9aII1LkmZZmzdAiuNVz) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Won't Forget You](https://open.spotify.com/album/2b2p2llc051aP6YlPG5AnK) | 2:33 | 2023-09-28 | 2023-10-06 |
 | [Won't Let Nobody In](https://open.spotify.com/track/7aFfpVPujRyE3T98Fq94FF) | [Jett Rebel](https://open.spotify.com/artist/1j8m5isW09lzbcz5kcUADT) | [Lives](https://open.spotify.com/album/0l350XUmw9Ru58kdLuUsn3) | 3:03 | 2023-08-17 | 2023-08-25 |
+| [Won't Stop](https://open.spotify.com/track/4ugKUZExbqbkKXEmbTrTRW) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Won't Stop](https://open.spotify.com/album/1TRulQDa3GYTurukQ91HGB) | 3:01 | 2025-06-12 |  |
 | [Won't Stop \(Don't\)](https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Won't Stop \(Don't\)](https://open.spotify.com/album/0wL4LsbLuwgFzqytJj97Lu) | 3:53 | 2024-11-21 | 2024-11-29 |
 | [Wonderful](https://open.spotify.com/track/3Jm4XJix6nkGiY3IY8mPyu) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Wonderful](https://open.spotify.com/album/3BwgvjyD1pDNyj1VLW0dBw) | 3:46 | 2024-05-16 | 2024-05-24 |
 | [Wonderful Days Reloaded](https://open.spotify.com/track/15CrTXlLEtKAtyNDVJeVzr) | [Charly Lownoise & Mental Theo](https://open.spotify.com/artist/5GLFbwgiU1YyAoQD8C4nvC), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Magro](https://open.spotify.com/artist/6pcRBddUXrkKkYn0bJs232) | [Wonderful Days Reloaded](https://open.spotify.com/album/1RqJBgZceR486K5x9OEQQC) | 2:58 | 2024-11-07 | 2024-11-15 |

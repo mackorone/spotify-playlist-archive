@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,429,769 likes - 150 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,430,028 likes - 150 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 | 149 | [Waste of Time](https://open.spotify.com/track/4lq3wubv9kXqwAOiO7jNON) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [David Frank](https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW) | [Waste of Time](https://open.spotify.com/album/5ukn5r63NkKwcYVouSYtGd) | 3:46 |
 | 150 | [You Know What I Need](https://open.spotify.com/track/3oyBjanJeqPz5cOMDedCyl) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [You Know What I Need](https://open.spotify.com/album/1lp2zvRCCMYOAxAgtVLFU2) | 2:50 |
 
-Snapshot ID: `aDktVgAAAAABNGhvvFTXmDQ9kjOH2GSR`
+Snapshot ID: `aEuiYQAAAAB+/PVlvka3UkCijmUhKiAN`

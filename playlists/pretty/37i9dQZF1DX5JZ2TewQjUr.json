@@ -79,6 +79,22 @@
     {
       "added_at": "2025-06-12 16:00:11",
       "album": {
+        "name": "I'm fine",
+        "url": "https://open.spotify.com/album/0kaRw8015M8LQEEkvM6mmL"
+      },
+      "artists": [
+        {
+          "name": "Drotoch",
+          "url": "https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U"
+        }
+      ],
+      "duration_ms": 154884,
+      "name": "I'm fine",
+      "url": "https://open.spotify.com/track/45i9AnKCsESmgxax2LUCO9"
+    },
+    {
+      "added_at": "2025-06-12 16:00:11",
+      "album": {
         "name": "\u6162\u689d\u65af\u7406\u72d7 chill doggo",
         "url": "https://open.spotify.com/album/6rBxxJ3ZF6ibh9os2MTY7i"
       },

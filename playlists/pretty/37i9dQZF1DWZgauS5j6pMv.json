@@ -1,13 +1,29 @@
 {
   "description": "The best of today's funk. Cover: MonoNeon",
-  "num_followers": 343722,
+  "num_followers": 343755,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEJnzwAAAAC1Y4yke6b5+jYYHp7E/8Mu",
+  "snapshot_id": "aEuibAAAAAA49yBa0Fqns02wxVNGqS9t",
   "tracks": [
+    {
+      "added_at": "2025-06-13 04:00:44",
+      "album": {
+        "name": "more than a Luva",
+        "url": "https://open.spotify.com/album/3qbXSocni3gE2JTOUGRcQ2"
+      },
+      "artists": [
+        {
+          "name": "Flozigg",
+          "url": "https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "more than a Luva",
+      "url": "https://open.spotify.com/track/3aJXEytbdB7YPYKnGD2io5"
+    },
     {
       "added_at": "2025-06-06 04:00:15",
       "album": {
@@ -1007,22 +1023,6 @@
       "duration_ms": 145003,
       "name": "I Can\u2019t Party",
       "url": "https://open.spotify.com/track/4JyfZTq6nOoAcW5sY4PurE"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Bullseye",
-        "url": "https://open.spotify.com/album/5Xl95STYauCnKb1qvbt1mm"
-      },
-      "artists": [
-        {
-          "name": "Fulton Lee",
-          "url": "https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Bullseye",
-      "url": "https://open.spotify.com/track/0nxkE2MFVrm7UpdzgQ0CJO"
     },
     {
       "added_at": "2024-05-10 04:01:00",

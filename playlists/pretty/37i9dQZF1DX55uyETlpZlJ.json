@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Rahul Dit-O",
-  "num_followers": 24749,
+  "num_followers": 24759,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEbRyQAAAAAZuEYqFtIZim7g27Zc0mIE",
+  "snapshot_id": "aEv9nAAAAAA33vZVe8q70BY4JgsvaGQ4",
   "tracks": [
     {
       "added_at": "2025-05-09 08:48:16",
@@ -79,6 +79,22 @@
       "duration_ms": 206331,
       "name": "Amanattu",
       "url": "https://open.spotify.com/track/1Bkaf0mflMvZRoUtKKrJrH"
+    },
+    {
+      "added_at": "2025-06-13 10:29:48",
+      "album": {
+        "name": "Kannale Kannale",
+        "url": "https://open.spotify.com/album/3LHwIXnFFhFrmMDXOGwAkC"
+      },
+      "artists": [
+        {
+          "name": "Pancham Jeeva",
+          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
+        }
+      ],
+      "duration_ms": 179580,
+      "name": "Kannale Kannale",
+      "url": "https://open.spotify.com/track/3mUmrWPnrpshZevuRfv3PN"
     },
     {
       "added_at": "2025-06-06 13:03:54",
@@ -1403,26 +1419,6 @@
       "duration_ms": 137571,
       "name": "First Love",
       "url": "https://open.spotify.com/track/2TANr2y6MZbHRSqHYZ0juI"
-    },
-    {
-      "added_at": "2025-01-06 04:59:04",
-      "album": {
-        "name": "Nee Siguva Thanaka",
-        "url": "https://open.spotify.com/album/0oG2g4b7uYekHZiMLKclDA"
-      },
-      "artists": [
-        {
-          "name": "Satvik C S",
-          "url": "https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR"
-        },
-        {
-          "name": "Asha Bhat",
-          "url": "https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96"
-        }
-      ],
-      "duration_ms": 268799,
-      "name": "Nee Siguva Thanaka",
-      "url": "https://open.spotify.com/track/36ya1X6uML6IGmzBpTFbFY"
     }
   ],
   "unique_name": "Kannada Indie",

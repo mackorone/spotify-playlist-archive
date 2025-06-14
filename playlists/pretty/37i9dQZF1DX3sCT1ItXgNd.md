@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Lola Indigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,051,269 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,051,077 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [Por Tu Calle](https://open.spotify.com/track/37drBlAs0CMPrDVLDxzYxa) | [Pepe y Vizio](https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz) | [Por Tu Calle](https://open.spotify.com/album/3XRmQinVSaE9C86BPfEGHT) | 3:44 |
 | 50 | [Una bala](https://open.spotify.com/track/2TVuktKJq3rUXjSkcGGNM3) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [Una bala](https://open.spotify.com/album/0Wd2FEfFs4JHA8h9RxznO4) | 2:15 |
 
-Snapshot ID: `aEtOOgAAAAD5TVjJyoos6G1Iq+ZkUZ7D`
+Snapshot ID: `AAAAANFFe53nMU1ruDnv7+cnA24GQMY4`

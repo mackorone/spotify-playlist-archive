@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,317 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,315 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 99 | [Frontin' Me](https://open.spotify.com/track/6HwA2kWbv4EAZPs8iLNJgP) | [Harry Nathan](https://open.spotify.com/artist/2Sr0UVpJdu6joEkH10koQ9) | [Frontin' Me](https://open.spotify.com/album/02yLoxWto2ItmAvBHg8ACV) | 3:29 |
 | 100 | [Berlin](https://open.spotify.com/track/05enoO7Z5prMUxbHEDJBt7) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/4wQwYHzJSgqbqU7YWioU1A) | 1:38 |
 
-Snapshot ID: `aEkCkAAAAAB58W1xDkIG77WpNqdvh3bG`
+Snapshot ID: `aEvYlQAAAAARcgTz35n+kITOQFtEOaRK`

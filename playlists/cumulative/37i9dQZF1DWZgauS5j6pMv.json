@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 137000,
       "name": "Bullseye",
       "url": "https://open.spotify.com/track/0nxkE2MFVrm7UpdzgQ0CJO"
@@ -6010,6 +6010,24 @@
       "duration_ms": 205429,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/43XQxLhbUFqqCtRYiKCdCx"
+    },
+    {
+      "album": {
+        "name": "more than a Luva",
+        "url": "https://open.spotify.com/album/3qbXSocni3gE2JTOUGRcQ2"
+      },
+      "artists": [
+        {
+          "name": "Flozigg",
+          "url": "https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "more than a Luva",
+      "url": "https://open.spotify.com/track/3aJXEytbdB7YPYKnGD2io5"
     },
     {
       "album": {

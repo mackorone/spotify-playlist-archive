@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Willi Carlisle
 
-501 songs - 1 day 6 hr 59 min
+503 songs - 1 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Evergreen \(feat\. Molly Tuttle\)](https://open.spotify.com/track/4yeP2L2pTnzdnNMtjtPoJi) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Evergreen \(feat\. Molly Tuttle\)](https://open.spotify.com/album/3yp9wAKNxOnvaeXk779TUf) | 3:11 | 2022-11-18 | 2024-05-11 |
 | [Everything Changed](https://open.spotify.com/track/2a69GIAmyBciRjmCquCDPZ) | [Lindsay Lou](https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ) | [Ionia](https://open.spotify.com/album/3e5lY3xDNMVrcoQTPR3Deg) | 4:05 | 2022-07-22 | 2024-02-24 |
 | [Everything Changed](https://open.spotify.com/track/75lG0mNxn3YH7MD4qcLkA6) | [Lindsay Lou & the Flatbellys](https://open.spotify.com/artist/5shNy8PK3d0GaOUEoygZB3) | [Ionia](https://open.spotify.com/album/2WozLvN6TyURivAK0kNoHZ) | 4:05 | 2021-10-01 | 2022-07-29 |
+| [Faeries](https://open.spotify.com/track/7vrvRfRl59esYrrL6Rg9Z8) | [Angela Autumn](https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ) | [I'm Not Around](https://open.spotify.com/album/542qwbhNepiJqh4gt4WzId) | 3:25 | 2025-06-13 |  |
 | [Fall, Fall, Fall](https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Fall, Fall, Fall](https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY) | 4:41 | 2021-10-01 | 2022-01-22 |
 | [Father Time](https://open.spotify.com/track/2BtUVOfF9KJdFoUfR7VIqb) | [Highland Reverie](https://open.spotify.com/artist/1xm0FYqJd14TSZdz5huwd2) | [Father Time](https://open.spotify.com/album/4hAgFDtiwPdjzIMxnbK7lJ) | 2:24 | 2022-01-21 | 2024-02-09 |
 | [Father Time](https://open.spotify.com/track/3RDkbfE2OJTGdYWqFAkELg) | [Highland Reverie](https://open.spotify.com/artist/1xm0FYqJd14TSZdz5huwd2) | [Highland Reverie](https://open.spotify.com/album/12vzpkWTObSLDmFcp2XUUS) | 2:24 | 2024-02-02 | 2024-03-23 |
@@ -334,6 +335,7 @@
 | [Red Rocking Chair](https://open.spotify.com/track/50KR2ahTgBpg5JjsTuz0ZC) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Working on a Building / Red Rocking Chair](https://open.spotify.com/album/2lc0guu7J0z5pHxALnVZOL) | 3:06 | 2024-04-12 | 2024-11-30 |
 | [Rhododendron](https://open.spotify.com/track/36hL1aF2Bxel9EOkHy3CuX) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron](https://open.spotify.com/album/1aY75uq0ccpS9E9SzgVbHP) | 4:46 | 2022-10-14 | 2023-06-10 |
 | [Rhododendron \- Alt Version](https://open.spotify.com/track/3BztjA6CxeX7vAAzQ92uLL) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron \(Alt Version\)](https://open.spotify.com/album/59EGA2TGxXHE6lVXFnybKp) | 5:22 | 2023-12-15 |  |
+| [Robin's Egg \(feat\. I'm With Her\)](https://open.spotify.com/track/3okAzQRzCJrwpYtImGTBgM) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Robin's Egg \(feat\. I'm With Her\)](https://open.spotify.com/album/1HmbJ0ViFu8FIzWEdi9b88) | 3:04 | 2025-06-13 |  |
 | [Run To Heaven](https://open.spotify.com/track/0OJAIweexqlZ1ec5aDFsV2) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ladies & Gentlemen](https://open.spotify.com/album/3FDQWdReKKAu4hgebNjI0N) | 3:10 | 2021-10-01 | 2022-07-29 |
 | [Run To Heaven](https://open.spotify.com/track/4l0US6aOMAODTa7kauy7df) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ladies & Gentlemen](https://open.spotify.com/album/1LHTfbFx2cCjgkDKVx7BIm) | 3:10 | 2022-07-22 | 2022-10-08 |
 | [Running Out Of Hope, Arkansas \- Acoustic](https://open.spotify.com/track/0W6gyNHsRDjj4EXfJM0u7o) | [Brennen Leigh](https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW) | [Running Out Of Hope, Arkansas \(Acoustic\)](https://open.spotify.com/album/7vpCqY8FyAhITBlvaOUhdC) | 2:03 | 2023-08-25 | 2025-02-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,918 likes - 104 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,961 likes - 104 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 | 103 | [Sorrow of the Wind](https://open.spotify.com/track/5pLqju9ZMDIGRqUuroG1He) | [Eduardo Tarilonte](https://open.spotify.com/artist/49fzCZLTuqOWwAGVcljy9p) | [Sorrow of the Wind](https://open.spotify.com/album/5t2XE6BxZyEHPLjDVgccFq) | 3:05 |
 | 104 | [Thoughts of Mindfulness](https://open.spotify.com/track/0WeP7hnaLn8dxh555MxEYx) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Thoughts of Mindfulness](https://open.spotify.com/album/7lkPnAPCI6X1aEqHPqFVll) | 2:46 |
 
-Snapshot ID: `aCdNIwAAAAByyBEjPlLKj/2Q4e4i9VLg`
+Snapshot ID: `AAAAAJzOvZJBg9kbZX0q46XTUhPRSFAL`

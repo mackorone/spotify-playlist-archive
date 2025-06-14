@@ -2881,6 +2881,24 @@
     },
     {
       "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/3h2FDrUrR8vnvodZJytGOT"
+      },
+      "artists": [
+        {
+          "name": "Laney Lynx",
+          "url": "https://open.spotify.com/artist/3ZH4Uq7nAfSPPrugE53oMW"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181406,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/7Bs9onITp3O0nDdvqNzAGs"
+    },
+    {
+      "album": {
         "name": "1.6 (feat. Joywave)",
         "url": "https://open.spotify.com/album/4Sl5PqIX7DpX39AiCNnYQh"
       },

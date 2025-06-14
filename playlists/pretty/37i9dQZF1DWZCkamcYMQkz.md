@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,867 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,062 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [Blues Vaccine](https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Blues Vaccine](https://open.spotify.com/album/05VATUBjvBZ5HpwvnX0Tqx) | 6:00 |
 | 100 | [Jay Bird](https://open.spotify.com/track/0VmsUOVB4o995oUmSaUB6Y) | [Robert Edwards](https://open.spotify.com/artist/5DmkuH4UiV7WesTUXh8itQ) | [JAYBIRD100](https://open.spotify.com/album/3ohHwGF0jcgBsVRtB56u3B) | 4:58 |
 
-Snapshot ID: `aEJnzQAAAADgtmhTJ4Pf2ut2LOIcW8Dc`
+Snapshot ID: `aEvlwQAAAAACx7Fw3o/hzrn4dClpqlRF`

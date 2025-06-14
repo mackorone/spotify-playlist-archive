@@ -1,13 +1,33 @@
 {
   "description": "New music from Marsha Milan, Kehlani, Chris Brown, Ismail Izzani, HxW, ITZY and more!",
-  "num_followers": 66959,
+  "num_followers": 67044,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEr5jAAAAADJP+X36SGnZ393K3ZHM749",
+  "snapshot_id": "aEuorgAAAAAMDyphBmOfRASiX38ALBxu",
   "tracks": [
+    {
+      "added_at": "2025-06-12 16:00:12",
+      "album": {
+        "name": "Killin' It Girl (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 148714,
+      "name": "Killin' It Girl (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
+    },
     {
       "added_at": "2025-06-12 16:00:12",
       "album": {
@@ -155,6 +175,38 @@
     {
       "added_at": "2025-06-12 16:00:12",
       "album": {
+        "name": "GOLDEN HOUR : Part.3",
+        "url": "https://open.spotify.com/album/2KEjfNac9Fmnq1elvjR6DA"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 179395,
+      "name": "Lemon Drop",
+      "url": "https://open.spotify.com/track/0mTBjqI2rG7Tv8nVzdj3gH"
+    },
+    {
+      "added_at": "2025-06-12 16:00:12",
+      "album": {
+        "name": "Hachik\u014d",
+        "url": "https://open.spotify.com/album/0qxIGHOXFdqiJEOqbUv5DR"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 270497,
+      "name": "Hachik\u014d",
+      "url": "https://open.spotify.com/track/4WhHNXBgRglnkjy7TMzgdh"
+    },
+    {
+      "added_at": "2025-06-12 16:00:12",
+      "album": {
         "name": "Renjana",
         "url": "https://open.spotify.com/album/3z5TtgHa7fp2tyZeBjOoEX"
       },
@@ -223,6 +275,22 @@
       "duration_ms": 179005,
       "name": "Pretty Candy",
       "url": "https://open.spotify.com/track/7bnwyq1e4CIeI4Az18SGh7"
+    },
+    {
+      "added_at": "2025-06-13 04:17:57",
+      "album": {
+        "name": "\u6211\u7684\u5348\u591c\u96fb\u53f0",
+        "url": "https://open.spotify.com/album/17Hzqbnh2UZZVYTlJu4Uwm"
+      },
+      "artists": [
+        {
+          "name": "JustJaewin",
+          "url": "https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6"
+        }
+      ],
+      "duration_ms": 128837,
+      "name": "\u552f\u4e00",
+      "url": "https://open.spotify.com/track/6kr2Wcg9dg2VPR5Felx7Iz"
     },
     {
       "added_at": "2025-06-12 16:00:12",
@@ -543,7 +611,7 @@
     {
       "added_at": "2025-06-12 16:00:12",
       "album": {
-        "name": "If (A Better World)",
+        "name": "A Better World",
         "url": "https://open.spotify.com/album/3hAcZ5awmnV1zc2P3WNSzr"
       },
       "artists": [
@@ -557,7 +625,7 @@
         }
       ],
       "duration_ms": 172606,
-      "name": "If (A Better World)",
+      "name": "A Better World",
       "url": "https://open.spotify.com/track/7tCXmtYrYNFWMa7vyQfuAI"
     },
     {
@@ -1075,6 +1143,22 @@
     {
       "added_at": "2025-06-12 16:00:12",
       "album": {
+        "name": "<Club Icarus>",
+        "url": "https://open.spotify.com/album/5h5Ort0gghTn9VgqsUzEvq"
+      },
+      "artists": [
+        {
+          "name": "ARTMS",
+          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
+        }
+      ],
+      "duration_ms": 173306,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/2l2pKMAYOnoc9KcHPwiUCk"
+    },
+    {
+      "added_at": "2025-06-12 16:00:12",
+      "album": {
         "name": "BEEP",
         "url": "https://open.spotify.com/album/29pYd9dV0UpmOmeoYGuj4e"
       },
@@ -1395,6 +1479,26 @@
       "duration_ms": 130285,
       "name": "U Know How Dis Go",
       "url": "https://open.spotify.com/track/5LXYjNNJFg67NpNXbwJcx2"
+    },
+    {
+      "added_at": "2025-06-12 16:00:12",
+      "album": {
+        "name": "Lil Sexy",
+        "url": "https://open.spotify.com/album/1iNGyxPArFfBTySJ8bbWSv"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        },
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "duration_ms": 199114,
+      "name": "Lil Sexy",
+      "url": "https://open.spotify.com/track/56MxbYXHEVqbCsjDN0kaSO"
     },
     {
       "added_at": "2025-06-12 16:00:12",
@@ -1819,6 +1923,26 @@
       "duration_ms": 255983,
       "name": "gbesoke",
       "url": "https://open.spotify.com/track/0VCnH45PSB8fIMG1w779gV"
+    },
+    {
+      "added_at": "2025-06-12 16:00:12",
+      "album": {
+        "name": "baby, lmk",
+        "url": "https://open.spotify.com/album/0VzytjR0VnjonQrySdnocY"
+      },
+      "artists": [
+        {
+          "name": "Notkyle",
+          "url": "https://open.spotify.com/artist/6NbOllM9XjgO44JQyhUv6D"
+        },
+        {
+          "name": "Lukey",
+          "url": "https://open.spotify.com/artist/3do4yL5zwMViERQIwA6KYp"
+        }
+      ],
+      "duration_ms": 206668,
+      "name": "baby, lmk",
+      "url": "https://open.spotify.com/track/2xYtaFbnusB8RDW4lxkimy"
     },
     {
       "added_at": "2025-06-12 16:00:12",

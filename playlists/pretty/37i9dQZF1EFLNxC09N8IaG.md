@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,665 likes - 191 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,667 likes - 191 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 31 | [Bang Bang Bang \(feat\. MNDR\)](https://open.spotify.com/track/44AL9Xok81qGEOZdPQpUnM) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [The Business Intl](https://open.spotify.com/artist/5D19FUPuoRUpCBtWoY14C4), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Record Collection](https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h) | 3:53 |
 | 32 | [Watch n' Learn](https://open.spotify.com/track/48LdAsqKHk5MQfql5eh6Fl) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk \(Deluxe Explicit\)](https://open.spotify.com/album/3oQebIVUPY0IPiROZSIQFl) | 3:31 |
 | 33 | [John Doe \(feat\. Priscilla\)](https://open.spotify.com/track/4znJLBeXcOzPUg2mm5LfZV) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Underground Luxury](https://open.spotify.com/album/3saKPeRS27JyiB3kIkEcDX) | 3:32 |
-| 34 | [A No No](https://open.spotify.com/track/2Q0JkTzFXrU2BbnQT7tzIR) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 3:07 |
-| 35 | [Respect Yourself \- Single Edit](https://open.spotify.com/track/7neZIzWa2nLzl1RFN636Ff) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Short Stax, Vol\. 7](https://open.spotify.com/album/3Bwk9OcKHF8x9SC5jRLyNn) | 3:31 |
+| 34 | [Respect Yourself \- Single Edit](https://open.spotify.com/track/7neZIzWa2nLzl1RFN636Ff) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Short Stax, Vol\. 7](https://open.spotify.com/album/3Bwk9OcKHF8x9SC5jRLyNn) | 3:31 |
+| 35 | [A No No](https://open.spotify.com/track/2Q0JkTzFXrU2BbnQT7tzIR) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 3:07 |
 | 36 | [Ruined Me](https://open.spotify.com/track/7J7dAsQVT4ya3V0U0jOzt2) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:16 |
 | 37 | [Going Nowhere](https://open.spotify.com/track/54e9Gne7D4R5sHBIF64Vhk) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 3:34 |
 | 38 | [Camionete Branca \- Ao Vivo](https://open.spotify.com/track/4oUGyiuh2XD4yoBRm9NFz6) | [Paulinho Mocelin](https://open.spotify.com/artist/58uaspCbAIXU506ewieNpc) | [Bailão do Mocelin ao Vivo em Araucária \(Ao Vivo\)](https://open.spotify.com/album/0BrR2XD1jHz7EqKBZfweP5) | 3:26 |
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 112 | [Butterfly Effect](https://open.spotify.com/track/0lmBL4iK4PpXF0YUlaopxs) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:39 |
 | 113 | [Conversation](https://open.spotify.com/track/5LmRRJ2MfXxhmZfwcsvLad) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:08 |
 | 114 | [Heart In My Hands](https://open.spotify.com/track/1MXQXOuNWUvupKWQeIg3ql) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS) | [Bluebird of Happiness](https://open.spotify.com/album/4M0TycrUWLue9pVcVvHAji) | 3:15 |
-| 115 | [Already Rich \(feat\. CeeLo Green\)](https://open.spotify.com/track/3D51UEumRbQZSjQbA3VTkj) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [TM104: The Legend of the Snowman](https://open.spotify.com/album/3eYmN6spICNGH3gmdPpDtm) | 3:10 |
-| 116 | [Wax](https://open.spotify.com/track/4sJxHl826ztgX6POnBFNW8) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Black Like This](https://open.spotify.com/album/1FRq94WhiBSXL1wBr6Nlfk) | 3:06 |
+| 115 | [Wax](https://open.spotify.com/track/4sJxHl826ztgX6POnBFNW8) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Black Like This](https://open.spotify.com/album/1FRq94WhiBSXL1wBr6Nlfk) | 3:06 |
+| 116 | [Already Rich \(feat\. CeeLo Green\)](https://open.spotify.com/track/3D51UEumRbQZSjQbA3VTkj) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [TM104: The Legend of the Snowman](https://open.spotify.com/album/3eYmN6spICNGH3gmdPpDtm) | 3:10 |
 | 117 | [Happy Hour](https://open.spotify.com/track/5wYWwEQ6hu58m2ALDC7Rih) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [3 Words](https://open.spotify.com/album/3ao7El5qj953dxb01PBhPG) | 4:06 |
 | 118 | [lovesick \(feat\. Punipuni Denki\)](https://open.spotify.com/track/52k1ag0HWVCKF6V29jlLBx) | [kamome sano](https://open.spotify.com/artist/0XraR5DqW6Vpp86omsB88K), [Punipuni Denki](https://open.spotify.com/artist/6ub48gO434947cXXjRnr8l) | [SPD GAR 002](https://open.spotify.com/album/60Uue4WTdLXjr9QL2BSymy) | 4:19 |
 | 119 | [Black Moses \(feat\. Priscilla Renea\)](https://open.spotify.com/track/04ylFi2OxZ1yrN3azXLMQn) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [The Birth of a Nation: The Inspired By Album](https://open.spotify.com/album/6miimmKAefrNxnErwCTGmj) | 4:03 |
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 190 | [Baby](https://open.spotify.com/track/12EWwkENdDeYKBKoSnrdHy) | [La Raza](https://open.spotify.com/artist/4R1yzQAL5bHx3W9lolczDX) | [Oye Mami](https://open.spotify.com/album/3Moh4BcMYZjhbX2Gp9FV4B) | 3:47 |
 | 191 | [My Story](https://open.spotify.com/track/2tTo9XjcHzHwdLJeDP6iu4) | [Larry Love Hamilton](https://open.spotify.com/artist/2fSyvGlnBJjq1I5MzuDAn5) | [American Music Down South](https://open.spotify.com/album/6ReRYWg5Suore6KvgmLyfc) | 4:50 |
 
-Snapshot ID: `Abz+SAAAAAAqj6uGbYYTtzXOE6qKNxKm`
+Snapshot ID: `Ab0D6AAAAAA3Jvudmjgyi+zQUvuou97Z`

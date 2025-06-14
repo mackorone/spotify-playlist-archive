@@ -1,13 +1,45 @@
 {
-  "description": "Dark, hard hitting pop. Cover: Banshee",
-  "num_followers": 426333,
+  "description": "Dark, hard hitting pop. Cover: Ari Abdul",
+  "num_followers": 426374,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEJn3wAAAAAIeLFfBBRZtTliKvIhIVOc",
+  "snapshot_id": "aEuiegAAAADwsEX13TI/+i2ICUfALaCO",
   "tracks": [
+    {
+      "added_at": "2025-06-13 04:00:58",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/779GE2JiWs969fsRY5P04G"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 240012,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1BolvPHesuoFdC8hSPp4IW"
+    },
+    {
+      "added_at": "2025-06-13 04:00:58",
+      "album": {
+        "name": "I Promise No One's Watching",
+        "url": "https://open.spotify.com/album/5IVW9XdJ8w9MFB6VO66AXZ"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "duration_ms": 153945,
+      "name": "Body On Me",
+      "url": "https://open.spotify.com/track/6MglZeuPDQwHzZTxrRZfCW"
+    },
     {
       "added_at": "2025-05-30 04:00:35",
       "album": {
@@ -27,6 +59,22 @@
     {
       "added_at": "2025-06-06 04:00:31",
       "album": {
+        "name": "HUSH",
+        "url": "https://open.spotify.com/album/6oDFuAJZf16fsLr6y26qsQ"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 142622,
+      "name": "HUSH",
+      "url": "https://open.spotify.com/track/2ZsCDEyhieI5fBgtHlIRGC"
+    },
+    {
+      "added_at": "2025-06-06 04:00:31",
+      "album": {
         "name": "KILL4ME",
         "url": "https://open.spotify.com/album/7vjtCYVgXACX4bZ3nAvepU"
       },
@@ -41,20 +89,20 @@
       "url": "https://open.spotify.com/track/0KxoMqgYkchnTZ0sRrlyqw"
     },
     {
-      "added_at": "2025-06-06 04:00:31",
+      "added_at": "2025-06-13 04:00:58",
       "album": {
-        "name": "HUSH",
-        "url": "https://open.spotify.com/album/6oDFuAJZf16fsLr6y26qsQ"
+        "name": "SLEEPING WITH KARMA",
+        "url": "https://open.spotify.com/album/0wb2E0nDn3qfxsgupyqqOx"
       },
       "artists": [
         {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+          "name": "Ella Collier",
+          "url": "https://open.spotify.com/artist/7wMFyA2xgxiMiM2ev2DVfJ"
         }
       ],
-      "duration_ms": 142622,
-      "name": "HUSH",
-      "url": "https://open.spotify.com/track/2ZsCDEyhieI5fBgtHlIRGC"
+      "duration_ms": 164610,
+      "name": "SLEEPING WITH KARMA",
+      "url": "https://open.spotify.com/track/3yJDEWDY4mj4fslXhVLcLx"
     },
     {
       "added_at": "2025-06-06 04:00:31",
@@ -87,6 +135,22 @@
       "duration_ms": 180000,
       "name": "trying to forget",
       "url": "https://open.spotify.com/track/1GHdmBcOxQSIVDJkqRuZIy"
+    },
+    {
+      "added_at": "2025-06-13 04:00:58",
+      "album": {
+        "name": "SOFT SCOOP TALKING DOG",
+        "url": "https://open.spotify.com/album/3nrLoVydKklCtyxQXskO5V"
+      },
+      "artists": [
+        {
+          "name": "Greta Isaac",
+          "url": "https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN"
+        }
+      ],
+      "duration_ms": 123870,
+      "name": "SOFT SCOOP TALKING DOG",
+      "url": "https://open.spotify.com/track/3g0PEy13O7biKs5QbO6JuI"
     },
     {
       "added_at": "2025-05-23 04:00:41",
@@ -317,22 +381,6 @@
       "url": "https://open.spotify.com/track/3UKFn5oN9irp3q27BwnfCK"
     },
     {
-      "added_at": "2025-05-16 04:00:11",
-      "album": {
-        "name": "WHAT THE HELL",
-        "url": "https://open.spotify.com/album/3yvoDuV0dYkCRj4IMeH8QV"
-      },
-      "artists": [
-        {
-          "name": "Ella Isaacson",
-          "url": "https://open.spotify.com/artist/69DKP6GuG0YiUc5K7tJ4an"
-        }
-      ],
-      "duration_ms": 189485,
-      "name": "WHAT THE HELL",
-      "url": "https://open.spotify.com/track/0tN4gLJOjeTawNuylOZwYI"
-    },
-    {
       "added_at": "2025-05-02 04:00:38",
       "album": {
         "name": "Boys",
@@ -379,22 +427,6 @@
       "duration_ms": 168000,
       "name": "if jesus saw what we did last night",
       "url": "https://open.spotify.com/track/4a65gfI09BeAqNaIcAgYmL"
-    },
-    {
-      "added_at": "2025-05-02 04:00:38",
-      "album": {
-        "name": "More!",
-        "url": "https://open.spotify.com/album/6ZsrUt5WHKhI2SU4klueuo"
-      },
-      "artists": [
-        {
-          "name": "Nxdia",
-          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
-        }
-      ],
-      "duration_ms": 147747,
-      "name": "More!",
-      "url": "https://open.spotify.com/track/1tFeGs7Tbzbgpgv1rf8eg1"
     },
     {
       "added_at": "2025-05-16 04:00:11",
@@ -639,22 +671,6 @@
     {
       "added_at": "2025-04-18 04:00:43",
       "album": {
-        "name": "hot enough",
-        "url": "https://open.spotify.com/album/2RTOYf36yaEk2cG98BTgqb"
-      },
-      "artists": [
-        {
-          "name": "Samantha Margret",
-          "url": "https://open.spotify.com/artist/6tyLi4JY6t4BEyZHaKwApN"
-        }
-      ],
-      "duration_ms": 122338,
-      "name": "hot enough",
-      "url": "https://open.spotify.com/track/1K4jen25Y9y8nUnZpwDg4n"
-    },
-    {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
         "name": "Hot and Stupid",
         "url": "https://open.spotify.com/album/1xmvvsuA22peyMbHyq9atz"
       },
@@ -795,102 +811,6 @@
       "duration_ms": 162000,
       "name": "Itty Bitty",
       "url": "https://open.spotify.com/track/6TxJ6ocfLpkKkY8152ttpM"
-    },
-    {
-      "added_at": "2025-04-11 04:00:29",
-      "album": {
-        "name": "RED LIPSTICK",
-        "url": "https://open.spotify.com/album/1DGbPWLPkBilIX4nCobzr4"
-      },
-      "artists": [
-        {
-          "name": "Madison Rose",
-          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
-        }
-      ],
-      "duration_ms": 210853,
-      "name": "RED LIPSTICK",
-      "url": "https://open.spotify.com/track/4Q0WhPIQdLXdPuKn9JNLyw"
-    },
-    {
-      "added_at": "2025-04-11 04:00:29",
-      "album": {
-        "name": "Jennifer's Body",
-        "url": "https://open.spotify.com/album/1mOHFGk4ujYJT06VRxWfvL"
-      },
-      "artists": [
-        {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "Jennifer's Body",
-      "url": "https://open.spotify.com/track/64R0m9KpCEmQxumJU3ZlCj"
-    },
-    {
-      "added_at": "2025-03-21 04:00:48",
-      "album": {
-        "name": "hahaha",
-        "url": "https://open.spotify.com/album/7rCtOsWYbpoYsZm3fzp1KQ"
-      },
-      "artists": [
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        }
-      ],
-      "duration_ms": 144636,
-      "name": "hahaha",
-      "url": "https://open.spotify.com/track/510v9v67yjxZVO9hMHmk29"
-    },
-    {
-      "added_at": "2025-03-07 05:00:40",
-      "album": {
-        "name": "Tough Luck",
-        "url": "https://open.spotify.com/album/2sLG38zmVGBx38pYtYTtbD"
-      },
-      "artists": [
-        {
-          "name": "Jolina Louise",
-          "url": "https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP"
-        }
-      ],
-      "duration_ms": 163805,
-      "name": "Tough Luck",
-      "url": "https://open.spotify.com/track/7HOUb3yqu08VJHI81cq7xt"
-    },
-    {
-      "added_at": "2025-01-10 05:00:16",
-      "album": {
-        "name": "HELL ON ME",
-        "url": "https://open.spotify.com/album/3nAubxHRrDZHrz4ZPF7bNg"
-      },
-      "artists": [
-        {
-          "name": "Johnny Huynh",
-          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
-        }
-      ],
-      "duration_ms": 178411,
-      "name": "HELL ON ME",
-      "url": "https://open.spotify.com/track/3QPxCTVBAHW1FV3xa4CS5U"
-    },
-    {
-      "added_at": "2025-03-07 18:10:52",
-      "album": {
-        "name": "Mortal Kombat",
-        "url": "https://open.spotify.com/album/7tYTD9ApMBnfvxcL8kMVdC"
-      },
-      "artists": [
-        {
-          "name": "SkyDxddy",
-          "url": "https://open.spotify.com/artist/2xe5FZM6bB4k1KhfTZBBSx"
-        }
-      ],
-      "duration_ms": 119040,
-      "name": "Mortal Kombat",
-      "url": "https://open.spotify.com/track/0bJR1UNUVlYLfFRUrAqKFn"
     }
   ],
   "unique_name": "SALT",

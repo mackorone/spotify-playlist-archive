@@ -1,13 +1,49 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 76076,
+  "num_followers": 76107,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aDktTgAAAACtirxUShME7dHC5fOaBwP1",
+  "snapshot_id": "aEuiXwAAAADN7F12jbMdqetUt3eJOVd7",
   "tracks": [
+    {
+      "added_at": "2025-06-13 04:00:31",
+      "album": {
+        "name": "The Chill",
+        "url": "https://open.spotify.com/album/2aZzTYQNtIw7vn9daBAqi8"
+      },
+      "artists": [
+        {
+          "name": "Lin Rountree",
+          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
+        }
+      ],
+      "duration_ms": 264040,
+      "name": "Believe It",
+      "url": "https://open.spotify.com/track/1BnlPJ1k8IDsTTYOhqjBcM"
+    },
+    {
+      "added_at": "2025-06-13 04:00:31",
+      "album": {
+        "name": "Based On A True Story",
+        "url": "https://open.spotify.com/album/37O5Fu09HB8zQcrYnV2bsF"
+      },
+      "artists": [
+        {
+          "name": "Mindi Abair",
+          "url": "https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4"
+        },
+        {
+          "name": "Delisha Thomas",
+          "url": "https://open.spotify.com/artist/4AHHoqfQUiQVJhzECOtzHr"
+        }
+      ],
+      "duration_ms": 230826,
+      "name": "The Way That You Love Me",
+      "url": "https://open.spotify.com/track/1bht7qxKmEkxfCbCfGvrCO"
+    },
     {
       "added_at": "2025-05-30 04:00:14",
       "album": {
@@ -59,26 +95,6 @@
       "duration_ms": 261930,
       "name": "Too Good 2 Let Go",
       "url": "https://open.spotify.com/track/0apPen3CrIuhaYscmJIxRj"
-    },
-    {
-      "added_at": "2025-05-09 04:00:26",
-      "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/4L2cWfX8037pnNrUsPzCnk"
-      },
-      "artists": [
-        {
-          "name": "Lin Rountree",
-          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
-        },
-        {
-          "name": "Mike \"Big Mike\" Hart",
-          "url": "https://open.spotify.com/artist/0w8zYoQhaEgTicuoFKpCYV"
-        }
-      ],
-      "duration_ms": 186693,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/36tUynQfikBMxs8CzHUWJ7"
     },
     {
       "added_at": "2025-04-25 04:00:41",
@@ -1747,26 +1763,6 @@
       "duration_ms": 293026,
       "name": "Undulation",
       "url": "https://open.spotify.com/track/5iIWIbNwJRudKJfAzAD7YH"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "On Cue",
-        "url": "https://open.spotify.com/album/79jVgrYIs5r3IaSSW6k1uI"
-      },
-      "artists": [
-        {
-          "name": "Rick Habana",
-          "url": "https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds"
-        },
-        {
-          "name": "Ragan Whiteside",
-          "url": "https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq"
-        }
-      ],
-      "duration_ms": 229612,
-      "name": "On Cue",
-      "url": "https://open.spotify.com/track/7h6eJosC9GG9AfsnGFJWMc"
     }
   ],
   "unique_name": "New Smooth Jazz",

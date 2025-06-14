@@ -1351,6 +1351,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230733,
+      "name": "Anxiety - Spotify Singles",
+      "url": "https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw"
+    },
+    {
+      "album": {
         "name": "CONCRETE JUNGLE [THE OST]",
         "url": "https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld"
       },
@@ -4182,6 +4200,24 @@
       "duration_ms": 177018,
       "name": "Crack In The Glass",
       "url": "https://open.spotify.com/track/1QGUDtsMHFg97XK533cotm"
+    },
+    {
+      "album": {
+        "name": "crash out compilation",
+        "url": "https://open.spotify.com/album/1TICNeF8i5MCMYrphiwNp7"
+      },
+      "artists": [
+        {
+          "name": "chasing luma",
+          "url": "https://open.spotify.com/artist/7gu7zV4EPRuD1gVQgFtsFH"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209090,
+      "name": "crash out compilation",
+      "url": "https://open.spotify.com/track/3LyNCg5a2WGMeq9lBM7UrI"
     },
     {
       "album": {
@@ -8298,7 +8334,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 206000,
       "name": "HEAT DEATH",
       "url": "https://open.spotify.com/track/15FAQnoGIlk7GQDWMKzUca"
@@ -14276,7 +14312,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 112165,
       "name": "Olive Garden",
       "url": "https://open.spotify.com/track/69zDL7sUAbceYWtOlb3ek7"
@@ -17874,7 +17910,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 133853,
       "name": "Soprano",
       "url": "https://open.spotify.com/track/3DNgrWGDoVefYTLdzUnLWX"
@@ -20574,6 +20610,24 @@
       "duration_ms": 128696,
       "name": "Touch",
       "url": "https://open.spotify.com/track/3m00PT6J1B5E0n7eJBRZPg"
+    },
+    {
+      "album": {
+        "name": "Trance State",
+        "url": "https://open.spotify.com/album/6jA72KxmV3zGZ54umCGzc6"
+      },
+      "artists": [
+        {
+          "name": "Suede",
+          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263016,
+      "name": "Trance State",
+      "url": "https://open.spotify.com/track/29gYlp6J0JdpainJfejuge"
     },
     {
       "album": {

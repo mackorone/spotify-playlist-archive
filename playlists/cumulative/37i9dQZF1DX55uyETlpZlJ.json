@@ -4667,6 +4667,24 @@
     },
     {
       "album": {
+        "name": "Kannale Kannale",
+        "url": "https://open.spotify.com/album/3LHwIXnFFhFrmMDXOGwAkC"
+      },
+      "artists": [
+        {
+          "name": "Pancham Jeeva",
+          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179580,
+      "name": "Kannale Kannale",
+      "url": "https://open.spotify.com/track/3mUmrWPnrpshZevuRfv3PN"
+    },
+    {
+      "album": {
         "name": "Kannalle",
         "url": "https://open.spotify.com/album/3w0f7cvKqi5sQ8wWxJJTAV"
       },
@@ -7074,7 +7092,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 268799,
       "name": "Nee Siguva Thanaka",
       "url": "https://open.spotify.com/track/36ya1X6uML6IGmzBpTFbFY"

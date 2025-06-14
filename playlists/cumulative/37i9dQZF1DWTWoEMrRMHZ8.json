@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Z\u00e9 Ibarra",
+  "description": "As belas novidades da MPB. Foto: Ney Matogrosso",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -424,7 +424,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 243333,
       "name": "A Melhor Sa\u00edda",
       "url": "https://open.spotify.com/track/6nnQ6idUNylK6LBckW9hyO"
@@ -1393,6 +1393,32 @@
     },
     {
       "album": {
+        "name": "Anjo (Live)",
+        "url": "https://open.spotify.com/album/1e4myDTWRU3Olsdyfq6W0J"
+      },
+      "artists": [
+        {
+          "name": "Dalto",
+          "url": "https://open.spotify.com/artist/5uHbOCvAcZY8u7C5PCs3dN"
+        },
+        {
+          "name": "Tico Santa Cruz",
+          "url": "https://open.spotify.com/artist/0P6MMwrT3gHj8oybdz6og7"
+        },
+        {
+          "name": "Milton Guedes",
+          "url": "https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240351,
+      "name": "Anjo - Live",
+      "url": "https://open.spotify.com/track/5qP66SnHUYhtrm7JxY7Cyv"
+    },
+    {
+      "album": {
         "name": "Ano Que Vem",
         "url": "https://open.spotify.com/album/0BTvwv5VtjV2a42EJm8SIl"
       },
@@ -1510,6 +1536,36 @@
       "duration_ms": 275333,
       "name": "Apesar de Voc\u00ea",
       "url": "https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh"
+    },
+    {
+      "album": {
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/4hPb35aku78HAdP73n2lBX"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Arthur Verocai",
+          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
+        },
+        {
+          "name": "Fejuca",
+          "url": "https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228072,
+      "name": "Apocalipse",
+      "url": "https://open.spotify.com/track/5ycVVsFuS5kGNOQ8hnIMD1"
     },
     {
       "album": {
@@ -2060,7 +2116,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 141881,
       "name": "Ave Maria no Morro",
       "url": "https://open.spotify.com/track/2hYkpOhLYQZtMhmVC7m48n"
@@ -2912,6 +2968,32 @@
       "duration_ms": 193500,
       "name": "Bom Parto",
       "url": "https://open.spotify.com/track/64SV10nZmjEkQ98orOPU2r"
+    },
+    {
+      "album": {
+        "name": "Bonjour",
+        "url": "https://open.spotify.com/album/6GdVpik1L7o0yYJNd1Yio2"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Rod Melim",
+          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190003,
+      "name": "Bonjour",
+      "url": "https://open.spotify.com/track/37Ch6tuxzDCV7ginZEYd1c"
     },
     {
       "album": {
@@ -3844,6 +3926,32 @@
       "duration_ms": 231716,
       "name": "Chuva de Prata",
       "url": "https://open.spotify.com/track/2wY28GceByLW5eqBeewYkV"
+    },
+    {
+      "album": {
+        "name": "Cicatriz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/41ULmPUcGmiD5cdGqqDHGF"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        },
+        {
+          "name": "Andr\u00e9 Whoong",
+          "url": "https://open.spotify.com/artist/1ZxKO0ur2O9gH35FV89coV"
+        },
+        {
+          "name": "Bona",
+          "url": "https://open.spotify.com/artist/3JcoeykZnLoV6Z1rSwsuMV"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245605,
+      "name": "Cicatriz - Ao Vivo",
+      "url": "https://open.spotify.com/track/42ZAJOfrht8ET5ap66n7rG"
     },
     {
       "album": {
@@ -5432,7 +5540,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 176725,
       "name": "Divina Demais",
       "url": "https://open.spotify.com/track/2QGsoCIM6Lkdh4UAVj56nG"
@@ -5970,10 +6078,36 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 218109,
       "name": "Emboscada",
       "url": "https://open.spotify.com/track/0wSFBhSmMipBAVtQz9GY2e"
+    },
+    {
+      "album": {
+        "name": "Encantaria",
+        "url": "https://open.spotify.com/album/7AUlD5j4WkKQkxt6kU3kdj"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bernardo",
+          "url": "https://open.spotify.com/artist/29g5s8mPByIGhpfpGN7VfN"
+        },
+        {
+          "name": "M\u00e3eana",
+          "url": "https://open.spotify.com/artist/4wMwIE7PB2nb4S6bI5ZlJE"
+        },
+        {
+          "name": "Mateus Aleluia Filho",
+          "url": "https://open.spotify.com/artist/0gK7zBaket7TReMSRJBf83"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231740,
+      "name": "Encantaria",
+      "url": "https://open.spotify.com/track/3NqdlQsT49DK5vSHkqzqqu"
     },
     {
       "album": {
@@ -6676,6 +6810,28 @@
       "duration_ms": 313038,
       "name": "Evid\u00eancias",
       "url": "https://open.spotify.com/track/1Ide6WO5z4akgcXx6MWKB3"
+    },
+    {
+      "album": {
+        "name": "Faltando Um Peda\u00e7o",
+        "url": "https://open.spotify.com/album/1pwgOhve84CrLFnLr1WN7t"
+      },
+      "artists": [
+        {
+          "name": "Flavio Venturini",
+          "url": "https://open.spotify.com/artist/6y7OyrOw8yA4yq4airggji"
+        },
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230718,
+      "name": "Faltando Um Peda\u00e7o",
+      "url": "https://open.spotify.com/track/5Yfrg3OFRagnGydac8xfqD"
     },
     {
       "album": {
@@ -11078,7 +11234,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 219770,
       "name": "N\u00e3o Mexe Comigo",
       "url": "https://open.spotify.com/track/39BatjiZgM7JTbzVaDqxJr"
@@ -11727,6 +11883,24 @@
     },
     {
       "album": {
+        "name": "O Mar \u00e9 Mulher",
+        "url": "https://open.spotify.com/album/4zFxbERJRqL0Ih799CV0BE"
+      },
+      "artists": [
+        {
+          "name": "Joyce Moreno",
+          "url": "https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202729,
+      "name": "O Mar \u00e9 Mulher",
+      "url": "https://open.spotify.com/track/4hlgw1Xy7eEOQdz56xkjil"
+    },
+    {
+      "album": {
         "name": "o mesmo dia",
         "url": "https://open.spotify.com/album/6rNYmmx6Jd5McewaZiyKjN"
       },
@@ -11858,6 +12032,24 @@
       "duration_ms": 262360,
       "name": "O SIL\u00caNCIO DAS ESTRELAS",
       "url": "https://open.spotify.com/track/2cnpnzGvxjBMJxuciIrXkJ"
+    },
+    {
+      "album": {
+        "name": "O Sino Da Igrejinha",
+        "url": "https://open.spotify.com/album/7D8JYnygEiz4KSEqtESWyU"
+      },
+      "artists": [
+        {
+          "name": "Ana Cacimba",
+          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155055,
+      "name": "O Sino Da Igrejinha",
+      "url": "https://open.spotify.com/track/5sPhCtEsMSFIw01ThGM1ps"
     },
     {
       "album": {
@@ -13188,7 +13380,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 105000,
       "name": "Ponto de Nan\u00e3",
       "url": "https://open.spotify.com/track/2ig89NtTkl5HJglRtCnnLb"
@@ -14162,6 +14354,24 @@
       "duration_ms": 263488,
       "name": "Purifica\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/53iCl146CrNjtMR06Dg5mn"
+    },
+    {
+      "album": {
+        "name": "P\u00e1ssaro Branco",
+        "url": "https://open.spotify.com/album/38s82515Wa3K6FpWilhkHB"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181212,
+      "name": "P\u00e1ssaro Branco",
+      "url": "https://open.spotify.com/track/61S9ohzM9Xq5sHBe0KCC63"
     },
     {
       "album": {
@@ -16964,7 +17174,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 235568,
       "name": "Tantas",
       "url": "https://open.spotify.com/track/4weVKBbQ23lv7oeGt63KXM"
@@ -17288,7 +17498,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 201358,
       "name": "Tempo de Amor",
       "url": "https://open.spotify.com/track/4hA380uZlMB01bC8Soyti3"
@@ -19400,7 +19610,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 185270,
       "name": "V\u00eanus",
       "url": "https://open.spotify.com/track/6oMIsyzuusCJJuTd1qrfiT"

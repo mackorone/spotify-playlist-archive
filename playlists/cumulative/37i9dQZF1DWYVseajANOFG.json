@@ -646,7 +646,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 240208,
       "name": "Apego Emocional",
       "url": "https://open.spotify.com/track/0Tk65JvbHQ1dKjjTA2drx4"
@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 223921,
       "name": "Bestie",
       "url": "https://open.spotify.com/track/5Nna0xnDWG3F6tV1DxwnG8"
@@ -2774,7 +2774,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 370599,
       "name": "El Tiki",
       "url": "https://open.spotify.com/track/2PzuqwjIF79wHI0jbVTPdG"
@@ -3276,7 +3276,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 159183,
       "name": "Expresiones",
       "url": "https://open.spotify.com/track/1o1eZ16zX8t1e9hUmwB5EV"
@@ -4616,7 +4616,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 272084,
       "name": "KuKI",
       "url": "https://open.spotify.com/track/6DF4anXdROTeymn2O87rLN"
@@ -5512,7 +5512,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 166706,
       "name": "Lv los Botines",
       "url": "https://open.spotify.com/track/1qE6wkqpuD1UClL9HvOEDd"
@@ -5716,7 +5716,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 179533,
       "name": "Mas Nah",
       "url": "https://open.spotify.com/track/4V8ICQvf7NnB5yRjVLIPIl"
@@ -5896,7 +5896,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 169707,
       "name": "Mecanica Perfecta",
       "url": "https://open.spotify.com/track/5rFACtcLKLKd1xhi4hRBeD"
@@ -6536,7 +6536,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 213333,
       "name": "Na ta bien",
       "url": "https://open.spotify.com/track/55svrzvSEBM3Gcb9K01xsu"
@@ -6584,6 +6584,24 @@
       "duration_ms": 243448,
       "name": "Netherlands",
       "url": "https://open.spotify.com/track/7bOVJ793CYfO6lkEYCfR0z"
+    },
+    {
+      "album": {
+        "name": "Newyork",
+        "url": "https://open.spotify.com/album/3YXb0aCOxfbDrkAKt2A638"
+      },
+      "artists": [
+        {
+          "name": "Bvlgarich",
+          "url": "https://open.spotify.com/artist/72QhPechMGu0gtwqNBMZ0R"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160731,
+      "name": "Newyork",
+      "url": "https://open.spotify.com/track/2ily6IyV3ctxR2qNj1cteH"
     },
     {
       "album": {
@@ -7346,7 +7364,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 176037,
       "name": "One Shot",
       "url": "https://open.spotify.com/track/67P2nOgoLlRQGEuKiEWS2t"
@@ -7695,6 +7713,28 @@
     },
     {
       "album": {
+        "name": "PASAME LA UBI",
+        "url": "https://open.spotify.com/album/2HP0ujTPvlVCt2431cfJFF"
+      },
+      "artists": [
+        {
+          "name": "El Yeyo PP",
+          "url": "https://open.spotify.com/artist/3r0UTZrNnAhbXmmfF91TD2"
+        },
+        {
+          "name": "Aldair Productions",
+          "url": "https://open.spotify.com/artist/6WFulj4XIc6vkUDXGaDvbN"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136045,
+      "name": "PASAME LA UBI",
+      "url": "https://open.spotify.com/track/7sZx7cNdeHy4d3Ye5xXzqj"
+    },
+    {
+      "album": {
         "name": "Pase Lo Que Pase",
         "url": "https://open.spotify.com/album/0xZEnws967dqNnWQ7YjqqY"
       },
@@ -7784,6 +7824,24 @@
       "duration_ms": 200388,
       "name": "Pensamientos Locos",
       "url": "https://open.spotify.com/track/3SWjj9CTzRHxsTboc23gQS"
+    },
+    {
+      "album": {
+        "name": "PERLA",
+        "url": "https://open.spotify.com/album/2ZvvHh6aq1f77i7z0BUaOq"
+      },
+      "artists": [
+        {
+          "name": "Lemarco",
+          "url": "https://open.spotify.com/artist/0ePWnMq8h4RIvaul7mMLcb"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138053,
+      "name": "PERLA",
+      "url": "https://open.spotify.com/track/3Bf5NXjkgiPlR0HHTig7NM"
     },
     {
       "album": {
@@ -8126,7 +8184,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 195956,
       "name": "Podcast",
       "url": "https://open.spotify.com/track/2uehV2xr6wLMlXXOwajrPO"
@@ -9820,7 +9878,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 260999,
       "name": "Swagga",
       "url": "https://open.spotify.com/track/37aVT8RliZvFXm2sm8zlq2"
@@ -9896,7 +9954,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 185852,
       "name": "Te Amarrar\u00e9",
       "url": "https://open.spotify.com/track/2BcOyXfnv946rYTd3oXMRr"

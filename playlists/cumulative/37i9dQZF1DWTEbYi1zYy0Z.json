@@ -879,6 +879,24 @@
     },
     {
       "album": {
+        "name": "The Chill",
+        "url": "https://open.spotify.com/album/2aZzTYQNtIw7vn9daBAqi8"
+      },
+      "artists": [
+        {
+          "name": "Lin Rountree",
+          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264040,
+      "name": "Believe It",
+      "url": "https://open.spotify.com/track/1BnlPJ1k8IDsTTYOhqjBcM"
+    },
+    {
+      "album": {
         "name": "Beso Del Sol",
         "url": "https://open.spotify.com/album/3SQwtaq5q0kv1nsHCtnnNH"
       },
@@ -3056,7 +3074,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 186693,
       "name": "Flow",
       "url": "https://open.spotify.com/track/36tUynQfikBMxs8CzHUWJ7"
@@ -6538,7 +6556,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 229612,
       "name": "On Cue",
       "url": "https://open.spotify.com/track/7h6eJosC9GG9AfsnGFJWMc"
@@ -8954,6 +8972,28 @@
       "duration_ms": 239253,
       "name": "The Thrill of Rain",
       "url": "https://open.spotify.com/track/24dR9CKoNg8zZ5SMhedZB3"
+    },
+    {
+      "album": {
+        "name": "Based On A True Story",
+        "url": "https://open.spotify.com/album/37O5Fu09HB8zQcrYnV2bsF"
+      },
+      "artists": [
+        {
+          "name": "Mindi Abair",
+          "url": "https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4"
+        },
+        {
+          "name": "Delisha Thomas",
+          "url": "https://open.spotify.com/artist/4AHHoqfQUiQVJhzECOtzHr"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230826,
+      "name": "The Way That You Love Me",
+      "url": "https://open.spotify.com/track/1bht7qxKmEkxfCbCfGvrCO"
     },
     {
       "album": {

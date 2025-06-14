@@ -17301,6 +17301,24 @@
     },
     {
       "album": {
+        "name": "schwerelos",
+        "url": "https://open.spotify.com/album/4Vrt92Pk03lHUqG3spK7Pp"
+      },
+      "artists": [
+        {
+          "name": "taal",
+          "url": "https://open.spotify.com/artist/7njUAoCB1JJsEGHc7UoHKs"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150361,
+      "name": "schwerelos",
+      "url": "https://open.spotify.com/track/6CCyFCFmXLuPms82BeZJUB"
+    },
+    {
+      "album": {
         "name": "Schwerkraft",
         "url": "https://open.spotify.com/album/1N61M4kkQw7z2ZlpA2ExgY"
       },

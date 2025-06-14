@@ -1,13 +1,33 @@
 {
   "description": "All of your favourites, new favourites, live favourites and unearthed soon to be favourites.  <a href=\"https://www.umusic.ca/collections/rediscover\">here</a>",
-  "num_followers": 3641,
+  "num_followers": 3642,
   "original_name": "UMUSIC Rediscover",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAACxT7d+1jNPaRT8q0og2D/iykUxMUb",
+  "snapshot_id": "AAACx3Mke1kWVyuuCEw2JhRCmoOPOypi",
   "tracks": [
+    {
+      "added_at": "2025-06-13 19:52:46",
+      "album": {
+        "name": "Mixes Of A Lost World",
+        "url": "https://open.spotify.com/album/2OlRb9ISy8xZku7ImTV9n8"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "duration_ms": 399140,
+      "name": "All I Ever Am - Mura Masa Remix",
+      "url": "https://open.spotify.com/track/36H5mG7pK0cGhldOuqDIk5"
+    },
     {
       "added_at": "2025-06-06 14:17:21",
       "album": {

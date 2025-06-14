@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWREb3EdeDeP.md) - [plain]
 
 > If you’re willing to take the risk, the galaxy is full of opportunity\. Listen to the music from Star Wars Outlaw, available now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,798 likes - 69 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,803 likes - 69 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWREb3EdeDeP.md) - [plain]
 | 68 | [Nightmares and Daydreams](https://open.spotify.com/track/3SeY3QP4iglZTiCHXlXKjl) | [Cody Matthew Johnson](https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41), [Shukko](https://open.spotify.com/artist/6tDsesKXZjfBUmYjsJojcm) | [Songs from the Underworld \(Original Music from Star Wars Outlaws\)](https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F) | 3:08 |
 | 69 | [The Prowl](https://open.spotify.com/track/2BzlbFehaCw2UIn581HeoD) | [Cody Matthew Johnson](https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41), [The Ice Brethren](https://open.spotify.com/artist/1mVZKIDcus7mmX5ET577WJ) | [Songs from the Underworld \(Original Music from Star Wars Outlaws\)](https://open.spotify.com/album/7GnlR508T9YAhWJWMV1n7F) | 2:36 |
 
-Snapshot ID: `ZtW20AAAAADphi5BGzC/sf0nPPtoshGZ`
+Snapshot ID: `ZtW20AAAAACCyT+9FfyU16XibwzKRWUc`

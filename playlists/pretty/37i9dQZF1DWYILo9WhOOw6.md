@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 
 > Use Delta frequencies for the best night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,243 likes - 146 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,567 likes - 146 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 | 145 | [Delta eighteen](https://open.spotify.com/track/4yb6tuuebir6C8ws94X2PK) | [Mantramind](https://open.spotify.com/artist/7iLU5lFV76z645FwaUmEGy) | [Delta Dreams 3Hz](https://open.spotify.com/album/2jEDSdjpSonUFvoOgZ4uKH) | 2:20 |
 | 146 | [Deep Sleep 3 Hz Drone](https://open.spotify.com/track/279WfshbvRdtkSeHG69GMm) | [Dronal](https://open.spotify.com/artist/5JdRe38yBQW84oz1rjPvLL) | [Binaural Delta Sinus](https://open.spotify.com/album/5Nilmc6apWTsMi8cqBVjU9) | 3:45 |
 
-Snapshot ID: `aEA8/gAAAAAxq8blQAREu3r9CSMXRBt8`
+Snapshot ID: `aEA8/gAAAACjWeV32fb0nOUYXaKwQI7Q`

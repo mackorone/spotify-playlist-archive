@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  SILK
 
-1,455 songs - 3 day 5 hr 41 min
+1,456 songs - 3 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1264,6 +1264,7 @@
 | [The Orange Theme](https://open.spotify.com/track/6qUoVjPN8Ys5NfnTgJrkBT) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [The Orange Theme](https://open.spotify.com/album/5NZSTlwgjkrpFBp6WEOW0e) | 3:23 | 2024-04-26 | 2024-10-19 |
 | [The Records](https://open.spotify.com/track/18fApEcxDOp88JN8tgYzBL) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Sola Summer of Rave 2021](https://open.spotify.com/album/5aiSoy7io8mTjRXdlGRukI) | 3:28 | 2024-05-07 | 2024-05-10 |
 | [The Records](https://open.spotify.com/track/3yeJpI0m4HAbMVbZspMFgo) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [The Records](https://open.spotify.com/album/6enQqqHf1TgwVe1Zu7Krq1) | 3:28 | 2024-01-12 | 2024-01-19 |
+| [The Rhythm of the Night \- Athenica Remix](https://open.spotify.com/track/35PuLtj8bIGVxivenJUDlL) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl), [Athenica](https://open.spotify.com/artist/6P8u7jHjhsQSi2b55HrItV) | [The Rhythm of the Night \(Athenica Remix\)](https://open.spotify.com/album/5X11VADB9U0ZfUbyCCPLke) | 3:32 | 2025-06-13 |  |
 | [The Robot Test](https://open.spotify.com/track/4iSV9BcfUYPdVj3oe1voOQ) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z), [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5) | [The Robot Test](https://open.spotify.com/album/1uKkbVAofqf4jbnXj46JJh) | 4:42 | 2025-01-09 | 2025-04-11 |
 | [The Shore](https://open.spotify.com/track/04vOso5z0l0XlgqcpTbjkt) | [SOLR](https://open.spotify.com/artist/11XEv1va5mCLuFxuKMaOUh), [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [The Shore](https://open.spotify.com/album/50bBiJ5yS0rQBdl3rN1JtI) | 3:41 | 2023-01-12 | 2023-02-17 |
 | [The Sound Of E \- A\*S\*Y\*S Remix](https://open.spotify.com/track/2SrKGgNPzDW39x8EXj1jSZ) | [Ultra Shock](https://open.spotify.com/artist/6z9TyoqQk6mnSaF5qRBoyF), [A\*S\*Y\*S](https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq) | [Armada Music \- 20 Years \(Remixed\)](https://open.spotify.com/album/4OD3z2wuOlBanqCItlGtsb) | 3:50 | 2023-12-07 | 2024-04-12 |

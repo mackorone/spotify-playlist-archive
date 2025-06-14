@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC?si=XBKe9CxIR\_\-DOdXmVyb3oA">Sykes</a>, <a href="https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO?si=D\-ekzJ3LQ8KeHkPAnW7nlw">DJ Lag</a>, <a href="https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY?si=Mc91edoLS2eugpsN3sphHA">Sir Trill</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,948 likes - 60 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,027 likes - 60 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

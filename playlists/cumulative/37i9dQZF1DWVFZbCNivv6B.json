@@ -1687,6 +1687,24 @@
     },
     {
       "album": {
+        "name": "Batall\u00f3n 2-4",
+        "url": "https://open.spotify.com/album/0wezmjeSeWyo4FqmWs8vt7"
+      },
+      "artists": [
+        {
+          "name": "Uriel Gaxiola",
+          "url": "https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125161,
+      "name": "Batall\u00f3n 2-4",
+      "url": "https://open.spotify.com/track/7qm88EbyBRDEkPURrqrv3m"
+    },
+    {
+      "album": {
         "name": "KEVIN P\u00d3RTATE BIEN",
         "url": "https://open.spotify.com/album/78MQL4LdKOTHCyCoElZQhN"
       },
@@ -3252,7 +3270,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 113831,
       "name": "Copy Paste",
       "url": "https://open.spotify.com/track/58hKIvZUyPfMSgmLcn88Bu"
@@ -5518,7 +5536,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 177272,
       "name": "Exceso y Travesuras",
       "url": "https://open.spotify.com/track/1tEujCD2RmP3k7UVJvi0q9"
@@ -8308,7 +8326,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 226813,
       "name": "Los de la A",
       "url": "https://open.spotify.com/track/1ihehm2g1nnca5wn5eZsaf"
@@ -11924,7 +11942,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 143529,
       "name": "PU\u00d1OS PULSERAS Y PALETAS",
       "url": "https://open.spotify.com/track/3ZSVSvD86WfSiKD6ubOygJ"
@@ -15566,6 +15584,54 @@
       "duration_ms": 154285,
       "name": "X Los M\u00edos",
       "url": "https://open.spotify.com/track/1RJbtDbi12olHteu5D6r3W"
+    },
+    {
+      "album": {
+        "name": "XClusive",
+        "url": "https://open.spotify.com/album/4I0e6Oe4UIc6GpcTcHityz"
+      },
+      "artists": [
+        {
+          "name": "Kid Pistola",
+          "url": "https://open.spotify.com/artist/3Y2qwY5R2OqefGohE3tMLU"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        },
+        {
+          "name": "La Corea\u00f1era",
+          "url": "https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149700,
+      "name": "XClusive",
+      "url": "https://open.spotify.com/track/46defqRhyto8kFovVjc36n"
+    },
+    {
+      "album": {
+        "name": "Xolombia",
+        "url": "https://open.spotify.com/album/3LA8o8octGluOby15SSpqz"
+      },
+      "artists": [
+        {
+          "name": "Joes Yawar Cru",
+          "url": "https://open.spotify.com/artist/1g3olTTEwu0Dn2kVBpZ6oK"
+        },
+        {
+          "name": "Emiliano Aguilar",
+          "url": "https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Xolombia",
+      "url": "https://open.spotify.com/track/6bm4r4ujFDVEQL6N9K9nlY"
     },
     {
       "album": {

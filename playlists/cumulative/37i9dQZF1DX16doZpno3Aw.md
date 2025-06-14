@@ -2,9 +2,9 @@
 
 ### [trending moods](https://open.spotify.com/playlist/37i9dQZF1DX16doZpno3Aw)
 
-> All the best instrumentals & sounds from the internet gathered in one perfect chill out playlist 🫀
+> Almost forgot that this was the whole point ∼ all the best instrumentals & sounds from the internet 🫀
 
-131 songs - 6 hr 37 min
+132 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Agony \- Instrumental](https://open.spotify.com/track/6HPmLVvM08mqGfYuUyjcOF) | [Scammacist](https://open.spotify.com/artist/6cMsaDvwIUXtHGQPDbqHvn) | [Agony \(Instrumental\)](https://open.spotify.com/album/6mt70ysyrbOAdJBEDjqfHM) | 5:01 | 2025-05-19 |  |
 | [Alice](https://open.spotify.com/track/6h4yONyGIFXYhrvEX6jVeb) | [Pogo](https://open.spotify.com/artist/1ng3xz2dyz57Z1WpnzM2G7) | [Wonderland](https://open.spotify.com/album/5FwNan9THWocf69tJEsXUv) | 2:44 | 2025-03-14 |  |
 | [All For Nothing](https://open.spotify.com/track/5kJxKUYzq6I0WvOo9qfDu2) | [Zachariehs](https://open.spotify.com/artist/6JZdMvVGWKv32akuhUIgzF) | [All For Nothing](https://open.spotify.com/album/3zumuyxMLfLaNkE1QBkKF3) | 3:28 | 2025-02-27 |  |
+| [Almost forgot that this was the whole point \- Take my Hand Instrumental](https://open.spotify.com/track/5WyeHnhVm4vIRxo6R7yghd) | [AntonioVivald](https://open.spotify.com/artist/7qFqo0wbAJSGPiP115Z0lT) | [Almost forgot that this was the whole point \(Take my Hand Instrumental\)](https://open.spotify.com/album/7xsS2To8lfCppMpdZ6xSCa) | 1:31 | 2025-06-13 |  |
 | [American Beauty](https://open.spotify.com/track/6XJGpirOP4Bgurcvkdanxb) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [American Beauty \(Original Motion Picture Score\)](https://open.spotify.com/album/11y3Dzg44npGsTWKtmuzTW) | 3:06 | 2025-03-21 |  |
 | [Another Year](https://open.spotify.com/track/1yNM4fnj0ixfRn6EIPJi9F) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Another Year](https://open.spotify.com/album/6O6RtPJPOFiQvYeGXFJzBN) | 2:07 | 2025-02-27 |  |
 | [aquatic ambience](https://open.spotify.com/track/1AeAJE0BNsq9jyssQDsUZ9) | [Scizzie](https://open.spotify.com/artist/53msUMObYuyAsfh4IUsO9P) | [aquatic ambience](https://open.spotify.com/album/37TyoGJBPVUWVCILvLQ3rj) | 2:03 | 2025-02-27 |  |

@@ -1297,6 +1297,28 @@
     },
     {
       "album": {
+        "name": "El Rat\u00f3n",
+        "url": "https://open.spotify.com/album/422fse4XEC5doHsowf8z7s"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        },
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273335,
+      "name": "El Rat\u00f3n",
+      "url": "https://open.spotify.com/track/1buolvlF8R0jk4j8HORtmN"
+    },
+    {
+      "album": {
         "name": "!!Puro Macanazo!!",
         "url": "https://open.spotify.com/album/7prNWKOtBQ7Bd7yc5mKjVQ"
       },
@@ -1308,7 +1330,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 271733,
       "name": "El Recuento de los Da\u00f1os",
       "url": "https://open.spotify.com/track/44agmNQypTCFKc2dpVonDy"
@@ -3522,7 +3544,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 217978,
       "name": "No Piensa En Ti - Sonando Desde El Auditorio Nacional",
       "url": "https://open.spotify.com/track/5ZY4KPgjOVBMAzZXdUIGyH"
@@ -4090,6 +4112,46 @@
       "duration_ms": 209250,
       "name": "Que fue lo que Pas\u00f3",
       "url": "https://open.spotify.com/track/6e705fkOBUYIBAe7MVczDD"
+    },
+    {
+      "album": {
+        "name": "Que volando",
+        "url": "https://open.spotify.com/album/4h4zUp6GUR60OozjlLhKPD"
+      },
+      "artists": [
+        {
+          "name": "Cuca",
+          "url": "https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Que volando",
+      "url": "https://open.spotify.com/track/7cZXkN5ady9JQtkt2Nn1Kg"
+    },
+    {
+      "album": {
+        "name": "Que yo no",
+        "url": "https://open.spotify.com/album/60TfBnKJGcP8Kn8j6dgElK"
+      },
+      "artists": [
+        {
+          "name": "Triciclo Circus Band",
+          "url": "https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt"
+        },
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206054,
+      "name": "Que yo no",
+      "url": "https://open.spotify.com/track/5Wam3t0efIUGT3LVhlLL3D"
     },
     {
       "album": {
@@ -5420,7 +5482,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 140604,
       "name": "Tsunami Mami",
       "url": "https://open.spotify.com/track/0LRlR9AxUqKb0xvBrIqFC1"

@@ -16311,6 +16311,24 @@
     },
     {
       "album": {
+        "name": "The Better Paul",
+        "url": "https://open.spotify.com/album/4LKpcZLt9macBsXIIpqYj1"
+      },
+      "artists": [
+        {
+          "name": "Paul Morris",
+          "url": "https://open.spotify.com/artist/59A8nPXaYDmbLzaFQxug8F"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158392,
+      "name": "The Better Paul",
+      "url": "https://open.spotify.com/track/7HI3S7b9VDAfTpRO0PzTEV"
+    },
+    {
+      "album": {
         "name": "the devil's advocate",
         "url": "https://open.spotify.com/album/3AQLKzmHD6t3R4MTE90E4P"
       },

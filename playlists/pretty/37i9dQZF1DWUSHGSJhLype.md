@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Grupo Menos É Mais, Simone Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,698 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,960 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 | 74 | [Fantasma](https://open.spotify.com/track/4TC99eEKSC6U1F3Q9ODqXa) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Fantasma](https://open.spotify.com/album/3Ga42Ov3RdmE5ZOHS8XQmE) | 2:46 |
 | 75 | [Surto Coletivo \- Ao Vivo](https://open.spotify.com/track/4BJnnK4LPHhNK2TqwC6s99) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Tem paGGodeiro aí? \(\#sónostalgia\) \[Ao Vivo\]](https://open.spotify.com/album/12rouM3CKMKqJAorMwbaxO) | 3:10 |
 
-Snapshot ID: `aEst8QAAAADDBPhHA+MInUs5PhZFYoN9`
+Snapshot ID: `aEuURAAAAAAk92gLQ2qijgEh7kEysYic`

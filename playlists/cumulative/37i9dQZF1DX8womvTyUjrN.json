@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Paloma Morphy",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Alleh & Yorghaki",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -1667,6 +1667,24 @@
     },
     {
       "album": {
+        "name": "Bajo Control",
+        "url": "https://open.spotify.com/album/5sQWD9mh4z7im5PWl1xpaz"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216011,
+      "name": "Bajo Control",
+      "url": "https://open.spotify.com/track/2BV0Fa4MS4w6Oush2CdNvV"
+    },
+    {
+      "album": {
         "name": "En Honor Al Que Ama",
         "url": "https://open.spotify.com/album/5Fto1VFi4UvBlM5GJcdHYy"
       },
@@ -1696,7 +1714,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 136708,
       "name": "Bandidos",
       "url": "https://open.spotify.com/track/6JyC9lTy8Yk6pEuO57dSPn"
@@ -2813,6 +2831,24 @@
     },
     {
       "album": {
+        "name": "Memorias",
+        "url": "https://open.spotify.com/album/0iEtckH6V1VShlCShedffb"
+      },
+      "artists": [
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Carrusel",
+      "url": "https://open.spotify.com/track/1tvWECjmuySSYt1Z8Qdg66"
+    },
+    {
+      "album": {
         "name": "carta a una fan",
         "url": "https://open.spotify.com/album/5d4pBNfOVwKe9MFVfO5BVD"
       },
@@ -2850,7 +2886,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 187119,
       "name": "Carteras Chinas",
       "url": "https://open.spotify.com/track/40V77QgNlrEn4V03E13zxh"
@@ -7667,6 +7703,28 @@
     },
     {
       "album": {
+        "name": "IMPOSIBLE",
+        "url": "https://open.spotify.com/album/1rahrfsDeqESpYVqjyLPEg"
+      },
+      "artists": [
+        {
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+        },
+        {
+          "name": "Argenis Ruiz",
+          "url": "https://open.spotify.com/artist/5RE7YMfqaXY9YV1VpaiCUW"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208548,
+      "name": "IMPOSIBLE",
+      "url": "https://open.spotify.com/track/3vHn11WvOcv3vYG0ZpQd3I"
+    },
+    {
+      "album": {
         "name": "Inevitable",
         "url": "https://open.spotify.com/album/2c8xgsmbLIgMm1x6lLKBd4"
       },
@@ -8084,7 +8142,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 198000,
       "name": "LA CASA",
       "url": "https://open.spotify.com/track/2n1E7SJqifjfTd6RIhAZ0y"
@@ -8124,6 +8182,28 @@
       "duration_ms": 154628,
       "name": "La Copa",
       "url": "https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI"
+    },
+    {
+      "album": {
+        "name": "la culpa (track 11)",
+        "url": "https://open.spotify.com/album/0nxtwpyUOHlbtQUee9oFaP"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "la culpa (track 11)",
+      "url": "https://open.spotify.com/track/70LTdbe3zYvsY5c1Gw9Gxv"
     },
     {
       "album": {
@@ -10536,7 +10616,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 163186,
       "name": "Miguel",
       "url": "https://open.spotify.com/track/3TMewqIJrTRNXCnDbN8gmW"
@@ -12232,7 +12312,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 141575,
       "name": "Ojitos Chinos",
       "url": "https://open.spotify.com/track/2HixgseTWGGRlziKcE1Cyh"
@@ -12639,6 +12719,24 @@
     },
     {
       "album": {
+        "name": "He Sanado Varias Cosas",
+        "url": "https://open.spotify.com/album/0TfFSRWoSprnPN4kZy0IOa"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161447,
+      "name": "PARA qu\u00e9",
+      "url": "https://open.spotify.com/track/24RmZhWIThecUEtzidKutf"
+    },
+    {
+      "album": {
         "name": "Paracaidas",
         "url": "https://open.spotify.com/album/4S7eZjHadhLkjm5Rg34CeZ"
       },
@@ -12690,7 +12788,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 175384,
       "name": "paranormal",
       "url": "https://open.spotify.com/track/5sNJ4okiWlOOYP4I66Qhuv"
@@ -15538,7 +15636,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 179069,
       "name": "Solo T\u00fa",
       "url": "https://open.spotify.com/track/3miNzZTCBg3xXqPKLSv7hH"
@@ -17851,6 +17949,24 @@
     },
     {
       "album": {
+        "name": "VEN",
+        "url": "https://open.spotify.com/album/4u70tnidSR0T5L5I4qdb8e"
+      },
+      "artists": [
+        {
+          "name": "Melanie Santiler",
+          "url": "https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161273,
+      "name": "VEN",
+      "url": "https://open.spotify.com/track/2HOyTAN9AzYSDrDLJtWjg1"
+    },
+    {
+      "album": {
         "name": "Verano",
         "url": "https://open.spotify.com/album/3fAhHCHL12IjUVUMmImIUs"
       },
@@ -17986,6 +18102,28 @@
       "duration_ms": 190000,
       "name": "viernes 13 iv",
       "url": "https://open.spotify.com/track/2qaI5v34tf7eLeboINCCon"
+    },
+    {
+      "album": {
+        "name": "Viernes 13 IX (x que apenas sobrevivo)",
+        "url": "https://open.spotify.com/album/5AAZBoO6Aml6VFvhZxQw9T"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197457,
+      "name": "Viernes 13 IX (x que apenas sobrevivo)",
+      "url": "https://open.spotify.com/track/4fV0MH0D4faXUdwaa9rlB7"
     },
     {
       "album": {

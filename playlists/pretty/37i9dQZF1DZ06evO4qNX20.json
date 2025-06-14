@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 328955,
+  "num_followers": 329022,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEjHAAAAAAB7IRzRSgbXpOOqbYq+MLSE",
+  "snapshot_id": "aEoYgAAAAAB3Z4m6DDKK0fhFaIKkzTVW",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chalino S\u00e1nchez Canta Corridos Al Estilo Culiac\u00e1n",
-        "url": "https://open.spotify.com/album/23yzFm7WENzQArdhWNGoQK"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 161343,
-      "name": "Corrido De Rosalino",
-      "url": "https://open.spotify.com/track/10TR4FENX2vDT599CGc8ls"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adi\u00f3s A Chalino",
         "url": "https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF"
       },
@@ -551,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puros \u00c9xitos de Colecci\u00f3n!",
-        "url": "https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3"
+        "name": "Chalino S\u00e1nchez Canta Corridos Al Estilo Culiac\u00e1n",
+        "url": "https://open.spotify.com/album/23yzFm7WENzQArdhWNGoQK"
       },
       "artists": [
         {
@@ -560,25 +544,9 @@
           "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         }
       ],
-      "duration_ms": 190706,
-      "name": "Las Uvas",
-      "url": "https://open.spotify.com/track/0yKP2J1zimhQ6VfWnEvCCF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Pela Vacas",
-        "url": "https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 205635,
-      "name": "El Dos Dedos",
-      "url": "https://open.spotify.com/track/5HPNKShAEtHcnKAaFmtsmR"
+      "duration_ms": 161343,
+      "name": "Corrido De Rosalino",
+      "url": "https://open.spotify.com/track/10TR4FENX2vDT599CGc8ls"
     },
     {
       "added_at": null,
@@ -599,6 +567,38 @@
       "duration_ms": 242439,
       "name": "Mario Portillo",
       "url": "https://open.spotify.com/track/0HXYmIG0cO3y0ASrZiezJx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Pela Vacas",
+        "url": "https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 205635,
+      "name": "El Dos Dedos",
+      "url": "https://open.spotify.com/track/5HPNKShAEtHcnKAaFmtsmR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puros \u00c9xitos de Colecci\u00f3n!",
+        "url": "https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "Las Uvas",
+      "url": "https://open.spotify.com/track/0yKP2J1zimhQ6VfWnEvCCF"
     },
     {
       "added_at": null,

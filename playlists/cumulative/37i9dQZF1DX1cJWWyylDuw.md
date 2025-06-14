@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Paleface Swiss
 
-669 songs - 1 day 19 hr 17 min
+670 songs - 1 day 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Chimerical Reality](https://open.spotify.com/track/6sWKMPDGVA0sMS8ARy6OHL) | [And Hell Followed With](https://open.spotify.com/artist/7MnEOC6vXcGp5P8RiFrlCm) | [Chimerical Reality](https://open.spotify.com/album/06E6v6odTc637pyGiIHYAO) | 4:33 | 2021-12-17 | 2022-07-29 |
 | [Chin Check](https://open.spotify.com/track/5Jt2ErhCamGbwwuYyWCjxm) | [Filth](https://open.spotify.com/artist/4v3LXseeTJyL6GVDS2N8oY) | [Chin Check](https://open.spotify.com/album/0ueCnEnaRHDzvQkZqiUdDJ) | 2:40 | 2024-06-25 |  |
 | [Choky](https://open.spotify.com/track/5VIqmAis57fVSZ66761QHn) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Choky](https://open.spotify.com/album/0daRza8EZVJvUaTC9JYkVl) | 2:59 | 2023-04-14 | 2025-03-15 |
-| [Chrome Moon](https://open.spotify.com/track/0yi9eWYklFlWDySJuHCl6I) | [Darko US](https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K) | [Starfire](https://open.spotify.com/album/3IXsOde67YmhbBbt4Vknv0) | 4:04 | 2024-06-25 |  |
+| [Chrome Moon](https://open.spotify.com/track/0yi9eWYklFlWDySJuHCl6I) | [Darko US](https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K) | [Starfire](https://open.spotify.com/album/3IXsOde67YmhbBbt4Vknv0) | 4:04 | 2024-06-25 | 2025-06-14 |
 | [Cicada](https://open.spotify.com/track/09XcghmEqtPUmGsXHy1VA7) | [Reflections](https://open.spotify.com/artist/0DTH9zFyvRb24bb8XN0iEr) | [Cicada](https://open.spotify.com/album/1gJQH2yB80CLagucfP6sze) | 3:01 | 2021-12-17 | 2022-07-29 |
 | [Civic Assault](https://open.spotify.com/track/1XHcJ9I73gB6uwKtryfC9B) | [Waking the Cadaver](https://open.spotify.com/artist/0Y7lDsDZc8qYny9MTq8xG2) | [Authority Through Intimidation](https://open.spotify.com/album/4vfoJ5Ixw4Ae8zQrKIPWWW) | 3:19 | 2021-12-17 | 2022-07-24 |
 | [Claustrophobic](https://open.spotify.com/track/0RlDBgXlhYVqatgogKYo1F) | [Nylist](https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw), [Alan Grnja](https://open.spotify.com/artist/4t1QdDQKUZ6OHw0ChpfM8L) | [Claustrophobic](https://open.spotify.com/album/1AHEHHN7GwDnbAeU3pM5aJ) | 4:01 | 2022-04-08 | 2022-04-20 |
@@ -153,6 +153,7 @@
 | [Dancing on a Pin](https://open.spotify.com/track/3SFYfWiTxhj9l1Erllc64i) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB) | [Dancing on a Pin](https://open.spotify.com/album/4l84ZA07jEaYL2c1yxnyNV) | 2:21 | 2023-01-13 | 2023-02-26 |
 | [Darkbloom](https://open.spotify.com/track/5eqB8FjyujwxBGfdibWEuL) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Darkbloom](https://open.spotify.com/album/5HiOzuBPohbCkMl7vidboI) | 3:44 | 2022-04-22 |  |
 | [Dead End Utopia](https://open.spotify.com/track/6YYSmZKkvXeo90u6kHrYoT) | [Walking Dead On Broadway](https://open.spotify.com/artist/3kpSjBJ7SSuQ4rzdieCWSb) | [Dead End Utopia](https://open.spotify.com/album/45PMDZU0rB2jKNs7X8jV34) | 4:06 | 2021-12-17 | 2022-07-13 |
+| [Dead Eyes Replete](https://open.spotify.com/track/1Y3fQd3tAsN6Hmkmo7zi05) | [Cryptopsy](https://open.spotify.com/artist/29PgYwTelpNl6370XLqFtN) | [Dead Eyes Replete](https://open.spotify.com/album/012HSJB7jyoUnKmj59UsD7) | 3:57 | 2025-06-13 |  |
 | [Dead Man's Diary](https://open.spotify.com/track/0W6JBOQRxYwwr4IDwfmdQg) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A), [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Dead Man's Diary](https://open.spotify.com/album/1gvLe7lqcMsNmiiggAqDbn) | 4:39 | 2021-12-17 | 2025-06-07 |
 | [Dead Message](https://open.spotify.com/track/3CGRgtPsC3t5z4Wp28U0YQ) | [As Paradise Falls](https://open.spotify.com/artist/7BXFOz3QxY07FGTsI4er8J) | [Digital Ritual](https://open.spotify.com/album/4qENlJAWof4eiV9G0Iuaj4) | 3:20 | 2022-01-21 | 2022-01-26 |
 | [Dead Pacifist](https://open.spotify.com/track/6XQwdcU1l90Q57jPbOMyhb) | [Tactosa](https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI) | [Exit Wounds](https://open.spotify.com/album/39q3NuRHTAQmPTBZRRhoRB) | 3:11 | 2023-01-20 |  |

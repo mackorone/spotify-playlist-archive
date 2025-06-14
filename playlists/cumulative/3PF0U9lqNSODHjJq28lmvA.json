@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 154666,
       "name": "ABUELA!",
       "url": "https://open.spotify.com/track/57hxGL6nE0xmzymbWpilZW"
@@ -1464,7 +1464,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 167446,
       "name": "AKADEMIKER demo v37.mp3",
       "url": "https://open.spotify.com/track/6CG5K577haXKJg0chp9tte"
@@ -5780,7 +5780,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 205829,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/0RQvJXKEmaAQgEYkaXeEwu"
@@ -6406,7 +6406,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 227368,
       "name": "Bury The Misery",
       "url": "https://open.spotify.com/track/6N4SvCkFzUoCnD3BBwDn4f"
@@ -7024,6 +7024,28 @@
       "duration_ms": 152205,
       "name": "Capture The Flag",
       "url": "https://open.spotify.com/track/47sQEDotR05snFEnnxpE0i"
+    },
+    {
+      "album": {
+        "name": "Carina",
+        "url": "https://open.spotify.com/album/3nP9VHuIWKXt7JgmlF7Jfv"
+      },
+      "artists": [
+        {
+          "name": "Per Svalin",
+          "url": "https://open.spotify.com/artist/4dAryQRHqisF854KZ75uYG"
+        },
+        {
+          "name": "El Pello",
+          "url": "https://open.spotify.com/artist/1riFTQO1LLwm8uu8P3zMdv"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166221,
+      "name": "Carina",
+      "url": "https://open.spotify.com/track/78B7LHFoBWgmL7tT3J9zUY"
     },
     {
       "album": {
@@ -8814,7 +8836,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 182933,
       "name": "Costa Del Sol",
       "url": "https://open.spotify.com/track/1GMq0ICq892sKih1Ud8ZWj"
@@ -12605,6 +12627,24 @@
     },
     {
       "album": {
+        "name": "Som dom skrevs, s\u00e5ngerna - Del 1",
+        "url": "https://open.spotify.com/album/4FGHbXLFL3ooCcBXXfDV03"
+      },
+      "artists": [
+        {
+          "name": "R\u00e4vnatt",
+          "url": "https://open.spotify.com/artist/6NVSDTEVPFfskryD1WGmt1"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142235,
+      "name": "D\u00e4r inuti - Minimalistisk",
+      "url": "https://open.spotify.com/track/5KaA3VvG3l6NT3GKQqk0Ut"
+    },
+    {
+      "album": {
         "name": "D\u00e4r vinden vajar ekarna",
         "url": "https://open.spotify.com/album/1t9bNKadiFw5b7sSSrpqZ2"
       },
@@ -14248,7 +14288,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 211255,
       "name": "Estonian Love",
       "url": "https://open.spotify.com/track/39D4Qx25nB90oAxA5qsPVm"
@@ -14494,7 +14534,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 162687,
       "name": "Ever Since",
       "url": "https://open.spotify.com/track/6zJuwtJMkOzqpFSsAPP97c"
@@ -16268,7 +16308,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 350754,
       "name": "Fluvial Surge - Save Your Atoll Remix",
       "url": "https://open.spotify.com/track/5DiuBddlfybMKtL8AbmGaL"
@@ -20529,6 +20569,24 @@
     },
     {
       "album": {
+        "name": "Here and Now",
+        "url": "https://open.spotify.com/album/2xl8nU4XvBpFjyBWZEMfiV"
+      },
+      "artists": [
+        {
+          "name": "Local Sweetheart",
+          "url": "https://open.spotify.com/artist/720GxkyV5L1mevKUEcsFZP"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265002,
+      "name": "Here and Now",
+      "url": "https://open.spotify.com/track/3kLX4zZebi8LfttnYuLvGk"
+    },
+    {
+      "album": {
         "name": "Here We Go Again",
         "url": "https://open.spotify.com/album/7h1V6xGqNvBv7aB0RErpUJ"
       },
@@ -20584,7 +20642,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 286760,
       "name": "Heroine",
       "url": "https://open.spotify.com/track/1jmZx6qSToasSWCPo7ISzY"
@@ -23124,7 +23182,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 177784,
       "name": "Ice cold beer and a country song",
       "url": "https://open.spotify.com/track/1M7qpl5cwv9ZxjJWawkhIR"
@@ -23898,6 +23956,24 @@
       "duration_ms": 222145,
       "name": "Incubo",
       "url": "https://open.spotify.com/track/6c93X1d25TRml1gH6lAkF1"
+    },
+    {
+      "album": {
+        "name": "Indecisive",
+        "url": "https://open.spotify.com/album/27LWBeGuYw4WaEgsIVCp6F"
+      },
+      "artists": [
+        {
+          "name": "Karli Fairbanks",
+          "url": "https://open.spotify.com/artist/7cV1y6DM9FSgduqtR5q9x5"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157151,
+      "name": "Indecisive",
+      "url": "https://open.spotify.com/track/13QhhPeF7d9hF4M0cX02WH"
     },
     {
       "album": {
@@ -25882,7 +25958,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 309410,
       "name": "King of Diamonds",
       "url": "https://open.spotify.com/track/7KDs8pLzc23IT84GveQxj1"
@@ -27039,6 +27115,24 @@
     },
     {
       "album": {
+        "name": "Late night Lights",
+        "url": "https://open.spotify.com/album/4sbsEwp7bRB8NMstIknqzb"
+      },
+      "artists": [
+        {
+          "name": "Steel Scales",
+          "url": "https://open.spotify.com/artist/1Xh6dxpCLceznSoqMmMviU"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199464,
+      "name": "Late night Lights",
+      "url": "https://open.spotify.com/track/09761WdkJoOXC2BAygNXqp"
+    },
+    {
+      "album": {
         "name": "lauf",
         "url": "https://open.spotify.com/album/1qDmUa2RSnoaqZa1yIY6JP"
       },
@@ -27288,7 +27382,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 257704,
       "name": "Left Right",
       "url": "https://open.spotify.com/track/4T7f9CPFQxTJes3P0bY3pP"
@@ -29529,6 +29623,24 @@
     },
     {
       "album": {
+        "name": "Ma Bansak",
+        "url": "https://open.spotify.com/album/6UnxFSQ3EVqNCjC9wx2KXK"
+      },
+      "artists": [
+        {
+          "name": "Omar Kurdi",
+          "url": "https://open.spotify.com/artist/2JvR54awYtFyhvV6Y3CMjh"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253589,
+      "name": "Ma Bansak",
+      "url": "https://open.spotify.com/track/6NxewaTXu5mVa1vsyn2zVQ"
+    },
+    {
+      "album": {
         "name": "Ma boh\u00e8me",
         "url": "https://open.spotify.com/album/3Dqrxvukq4AI6LLpfBhYe3"
       },
@@ -29876,6 +29988,24 @@
       "duration_ms": 153620,
       "name": "Maid",
       "url": "https://open.spotify.com/track/3VXMh8XPEIvGa5iuZH3p23"
+    },
+    {
+      "album": {
+        "name": "Baldur's Gate III - Piano Album",
+        "url": "https://open.spotify.com/album/3JxhMpgwlSfGSzpvITRnnS"
+      },
+      "artists": [
+        {
+          "name": "Delldongo",
+          "url": "https://open.spotify.com/artist/17w9Ep8TUtG2H6CU1d2KqT"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157627,
+      "name": "Main Theme, Pt. II",
+      "url": "https://open.spotify.com/track/0pWX4E88yOFEfgu71H03Jp"
     },
     {
       "album": {
@@ -39544,7 +39674,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 175500,
       "name": "Rennen door de Tijd",
       "url": "https://open.spotify.com/track/6rWcWX6une6PWOSojYl58n"
@@ -41742,7 +41872,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 143808,
       "name": "SET\u00c4SESSARIT",
       "url": "https://open.spotify.com/track/3afi9a26gPHfO4JxeOC5Wl"
@@ -43751,6 +43881,24 @@
     },
     {
       "album": {
+        "name": "Rendezvouz om natten",
+        "url": "https://open.spotify.com/album/0gJvYQjK44pvqYb7Gz8ok8"
+      },
+      "artists": [
+        {
+          "name": "Magnus och Lugnet",
+          "url": "https://open.spotify.com/artist/3fik07EmU1MzDsel7tWg88"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263988,
+      "name": "Som en zombie",
+      "url": "https://open.spotify.com/track/5DG6zhKXjLHmRlaCT4HFCn"
+    },
+    {
+      "album": {
         "name": "Some",
         "url": "https://open.spotify.com/album/5O1xUrrprg2Tu1AZ0Us5Ts"
       },
@@ -45074,7 +45222,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 305587,
       "name": "Still",
       "url": "https://open.spotify.com/track/4O1VzTMeulDA9vlrDDjLzG"
@@ -47419,6 +47567,24 @@
     },
     {
       "album": {
+        "name": "The City Is Right",
+        "url": "https://open.spotify.com/album/1gDSFVvpY1Lik69t4X5wZD"
+      },
+      "artists": [
+        {
+          "name": "Living Set",
+          "url": "https://open.spotify.com/artist/64pUpr3QZjz4aMFO7PKXH4"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322000,
+      "name": "The City Is Right",
+      "url": "https://open.spotify.com/track/0vKuj1up14bsuKFnvb9ybR"
+    },
+    {
+      "album": {
         "name": "The City, The Valley, The Lake",
         "url": "https://open.spotify.com/album/6KTKAKLiwgTbobxieXcUkX"
       },
@@ -47802,7 +47968,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 286800,
       "name": "The Hunter",
       "url": "https://open.spotify.com/track/2NnI6KlYrIAWVjlDK0UcR8"
@@ -51600,7 +51766,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 188571,
       "name": "Vago",
       "url": "https://open.spotify.com/track/0WYK1RveRq7QjmIwkNHYqH"
@@ -52164,7 +52330,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 185132,
       "name": "Viek\u00e4\u00e4 Mut Kotiin",
       "url": "https://open.spotify.com/track/6XUxSgiHUja8SNMwNiBJAy"
@@ -52344,7 +52510,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 142439,
       "name": "Vinnare",
       "url": "https://open.spotify.com/track/0GjYIXrLhmaL6EURzCFLFz"
@@ -53600,6 +53766,32 @@
       "duration_ms": 242800,
       "name": "Weight Of Time",
       "url": "https://open.spotify.com/track/62FSGtWD0mHWKa7v7bV9Ss"
+    },
+    {
+      "album": {
+        "name": "Western Blues",
+        "url": "https://open.spotify.com/album/4f4BeDbzRVrmV6fP9OO4Mx"
+      },
+      "artists": [
+        {
+          "name": "Itef",
+          "url": "https://open.spotify.com/artist/5RfE01K2bzybYCJUrg9GkZ"
+        },
+        {
+          "name": "Marco Lecaro",
+          "url": "https://open.spotify.com/artist/5tIdz1CJD86Dso8V00myrP"
+        },
+        {
+          "name": "Adri\u00e1n el Necio",
+          "url": "https://open.spotify.com/artist/1fpkrIMmstjJS9LGNvW4e3"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247416,
+      "name": "Western Blues",
+      "url": "https://open.spotify.com/track/05MCUOvz34vLcODZWWcNdH"
     },
     {
       "album": {
@@ -54971,6 +55163,24 @@
     },
     {
       "album": {
+        "name": "Yksi hetki liikaa",
+        "url": "https://open.spotify.com/album/3XrIyy5UWalynpIuRHKcmX"
+      },
+      "artists": [
+        {
+          "name": "Ou\u00b4touhka",
+          "url": "https://open.spotify.com/artist/3HbsNsxsqE7YrO7vIInr58"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Yksi hetki liikaa",
+      "url": "https://open.spotify.com/track/1FoN59jwnmNg5lXeG0jvHy"
+    },
+    {
+      "album": {
         "name": "Palaan Aina Takaisin",
         "url": "https://open.spotify.com/album/52h11HHh96VNLpC0KbejQK"
       },
@@ -56075,6 +56285,24 @@
     },
     {
       "album": {
+        "name": "\u00c4nglarna",
+        "url": "https://open.spotify.com/album/2bvKtQhdbGmkUJwSvj1Lfe"
+      },
+      "artists": [
+        {
+          "name": "Jonas Tilly",
+          "url": "https://open.spotify.com/artist/4Xb58LELv57OvVpO0b04Pm"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144656,
+      "name": "\u00c4nglarna",
+      "url": "https://open.spotify.com/track/6bu63ddQaN2QitD3jnHTPw"
+    },
+    {
+      "album": {
         "name": "\u00c4ta kakan",
         "url": "https://open.spotify.com/album/7mEdUkmJtD98VsHR9H0dIe"
       },
@@ -56220,7 +56448,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 205644,
       "name": "\u00d8ygarden - Akustisk",
       "url": "https://open.spotify.com/track/0scQ9f1IEU7HBf3V0HIahw"

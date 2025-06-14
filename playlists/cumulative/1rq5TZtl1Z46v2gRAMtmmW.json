@@ -3293,6 +3293,24 @@
     },
     {
       "album": {
+        "name": "Happy Tears",
+        "url": "https://open.spotify.com/album/4MHelmVR9cbC7kkbmJHJAc"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227447,
+      "name": "Happy Days",
+      "url": "https://open.spotify.com/track/5bjpTPQnLh73Tw5AoME0KL"
+    },
+    {
+      "album": {
         "name": "Heather Park",
         "url": "https://open.spotify.com/album/1VKmlsq627xxebmf53jHME"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Songwriters and storytellers. Cover: Henry Moodie",
-  "num_followers": 56893,
+  "num_followers": 56894,
   "original_name": "Common Thread",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2025-06-12 23:00:12",
       "album": {
+        "name": "Memoir of a Sparklemuffin (Deluxe)",
+        "url": "https://open.spotify.com/album/0GE0uLMG3dAOrvPGcJtvKz"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 208008,
+      "name": "The Bellboy (One Last Crush)",
+      "url": "https://open.spotify.com/track/3zP0fq3Hv4DyEaLGBpQuln"
+    },
+    {
+      "added_at": "2025-06-12 23:00:12",
+      "album": {
         "name": "Sing Like Madonna",
         "url": "https://open.spotify.com/album/2DqmwinrAEOEPYoS1p63qu"
       },
@@ -364,7 +380,7 @@
           "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
         }
       ],
-      "duration_ms": 216000,
+      "duration_ms": 217000,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4"
     },
@@ -413,7 +429,7 @@
         }
       ],
       "duration_ms": 217106,
-      "name": "Fight Another Day",
+      "name": "Fight Another Day - Edit",
       "url": "https://open.spotify.com/track/6l9q6QHzBIoB9MXfKoUdSB"
     },
     {

@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro de Am\u00e9rica. The essential tracks, all in one playlist.",
-  "num_followers": 61529,
+  "num_followers": 61535,
   "original_name": "This Is Binomio de Oro de Am\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEjHAAAAAADeIdTHrRdLkFPK52VvN6ZQ",
+  "snapshot_id": "aEoYgAAAAABrC9wNsDLSMLZuZVDCOrAh",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Impredecible",
-        "url": "https://open.spotify.com/album/2SDcMM27B25Z4ZHfkcVqA0"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 281332,
-      "name": "Impredecible",
-      "url": "https://open.spotify.com/track/0cNy83OqUpNDJ0OfHcoodK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Haciendo Historia",
         "url": "https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 260545,
       "name": "Todo Se Acaba",
       "url": "https://open.spotify.com/track/7yRdBOPaGYhvHFMXbVJCPj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Impredecible",
+        "url": "https://open.spotify.com/album/2SDcMM27B25Z4ZHfkcVqA0"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 281332,
+      "name": "Impredecible",
+      "url": "https://open.spotify.com/track/0cNy83OqUpNDJ0OfHcoodK"
     },
     {
       "added_at": null,
@@ -803,30 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Combinacion Vallenata Vol. 3",
-        "url": "https://open.spotify.com/album/3YvmSceIoFKWBoUPb2VciJ"
-      },
-      "artists": [
-        {
-          "name": "La Combinaci\u00f3n Vallenata",
-          "url": "https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya"
-        },
-        {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
-        },
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 316826,
-      "name": "Sigue Tu Camino",
-      "url": "https://open.spotify.com/track/1Ku8R7GC0hwdtzLiMyxLv8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De La Mano Con El Pueblo",
         "url": "https://open.spotify.com/album/5nCKUZvev5ocWCIICjFvO8"
       },
@@ -839,6 +815,22 @@
       "duration_ms": 319826,
       "name": "Celos",
       "url": "https://open.spotify.com/track/0ZrddFVnZp5galGScp8NK5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Nuestro",
+        "url": "https://open.spotify.com/album/3jUFTOiJjPAVAgCdz2NipN"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 295450,
+      "name": "El Forastero",
+      "url": "https://open.spotify.com/track/6uz1ZeeLDnuadYCDXi83aH"
     }
   ],
   "unique_name": "This Is Binomio de Oro de Am\u00e9rica",

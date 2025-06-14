@@ -2844,7 +2844,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 401663,
       "name": "Deer Stomps Its Hooves In Warning",
       "url": "https://open.spotify.com/track/5vEMvjevsUpvHHIwWJveiN"
@@ -3172,7 +3172,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 303157,
       "name": "Drive West On Sunset - Ambient",
       "url": "https://open.spotify.com/track/5EQEPfClSpuXVh6o6N78FF"
@@ -4369,6 +4369,24 @@
     },
     {
       "album": {
+        "name": "Corrosiv",
+        "url": "https://open.spotify.com/album/6AnnV6HvAH3UEaNrt5DP62"
+      },
+      "artists": [
+        {
+          "name": "Orchestroll",
+          "url": "https://open.spotify.com/artist/3fOsjG8YJ9MRntC4hcNybb"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Here Used To Be A Star",
+      "url": "https://open.spotify.com/track/2EKY34UonlN4JKcj2AfeWh"
+    },
+    {
+      "album": {
         "name": "Spring Snow",
         "url": "https://open.spotify.com/album/3l3DeVnMAOtSLZKSjLzJay"
       },
@@ -4728,7 +4746,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 275560,
       "name": "In the Distance",
       "url": "https://open.spotify.com/track/0CUp66lnTBhJmSvK89a6Qy"
@@ -9603,6 +9621,24 @@
     },
     {
       "album": {
+        "name": "Warum",
+        "url": "https://open.spotify.com/album/0Qduf9WfxkpXbKBZZJVQMA"
+      },
+      "artists": [
+        {
+          "name": "Felsmann + Tiley",
+          "url": "https://open.spotify.com/artist/01OXxPlQj4h9zfK5qjU96P"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168835,
+      "name": "Warum",
+      "url": "https://open.spotify.com/track/4Np6EkBbXylpzSxgUPVv8U"
+    },
+    {
+      "album": {
         "name": "Mango Feedback",
         "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
       },
@@ -10044,6 +10080,32 @@
       "duration_ms": 212626,
       "name": "Yellowed Leaves Drift Down",
       "url": "https://open.spotify.com/track/1Thn7RyLmtnZilAzLg1U56"
+    },
+    {
+      "album": {
+        "name": "Apofanie",
+        "url": "https://open.spotify.com/album/6mDeROE5QTMtx2tmmBSDfX"
+      },
+      "artists": [
+        {
+          "name": "Hior Chronik",
+          "url": "https://open.spotify.com/artist/0WwDqOLT2m5PuAsFGkEybC"
+        },
+        {
+          "name": "Natalia Tsupryk",
+          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
+        },
+        {
+          "name": "Asia Dojnikowska",
+          "url": "https://open.spotify.com/artist/6s2GQPcn5JLSy16vXmix1b"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212626,
+      "name": "Yellowed Leaves Drift Down",
+      "url": "https://open.spotify.com/track/4Hjvdc6ikX3vqok41B30cB"
     },
     {
       "album": {

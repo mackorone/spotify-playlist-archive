@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's country crop\. Cover: Kane Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,694 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,742 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 49 | [Southern Man](https://open.spotify.com/track/0VJYIAaQ3ZIGXKaBorG5RT) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Southern Man](https://open.spotify.com/album/5zHojVp7gn4ROaLWuLNSYu) | 4:02 |
 | 50 | [Same Moon](https://open.spotify.com/track/66FK7N6myc7RJ4WgB5QW70) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Same Moon](https://open.spotify.com/album/3RLCkCsMPZZ8WFDXrnbjNV) | 2:54 |
 
-Snapshot ID: `aErdfgAAAADW7wowiI8J/f7y2EeLRmuB`
+Snapshot ID: `AAAAAHX5MxFN2K0XS4mpT+v+DfbT9+Hp`

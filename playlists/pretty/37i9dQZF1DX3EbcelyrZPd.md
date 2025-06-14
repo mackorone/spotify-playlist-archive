@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Marioo
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,080 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,143 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 20 | [Moyo](https://open.spotify.com/track/1YArqyMSdTD0Mimmk75MDq) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Moyo](https://open.spotify.com/album/5aK1AgHlTRh8yBEzubHXLB) | 2:55 |
 | 21 | [GOD DESIGN](https://open.spotify.com/track/4Su04rfy8UL4yDkIT6gFgG) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [GOD DESIGN](https://open.spotify.com/album/0CCDzLrKHUXqYls1J7mlRp) | 3:35 |
 | 22 | [Je T'aime](https://open.spotify.com/track/1coRX2zZAIPWsrTgF9LHkz) | [Flory Redpen](https://open.spotify.com/artist/5al3dSz2QxFZVZCcy5Akbh), [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Je T'aime](https://open.spotify.com/album/0IiyEbjTpPOVhRHQw2G0EI) | 3:17 |
-| 23 | [Umashonisa](https://open.spotify.com/track/3C5yyZPpSJ2hXcHyCeWBcg) | [DJ Jukk](https://open.spotify.com/artist/32nFfq390c9vyz1ZqDGpZl), [Gerkey](https://open.spotify.com/artist/5gJ2m3Zq4EakSYiULoLBqD), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5) | [Umashonisa](https://open.spotify.com/album/0bIORtLrbcwx8pZqd6IPqE) | 5:53 |
+| 23 | [Umashonisa](https://open.spotify.com/track/3C5yyZPpSJ2hXcHyCeWBcg) | [DJ Jukk](https://open.spotify.com/artist/32nFfq390c9vyz1ZqDGpZl), [Gerkey Rsa](https://open.spotify.com/artist/5UhNvlj87U204yUCZ9UVBT), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5) | [Umashonisa](https://open.spotify.com/album/0bIORtLrbcwx8pZqd6IPqE) | 5:53 |
 | 24 | [No Stress](https://open.spotify.com/track/1qwAufkn1HNoDTLNAxItdv) | [Nandy](https://open.spotify.com/artist/4BAqXsmyKo72kZuG4tkv4m) | [No Stress](https://open.spotify.com/album/4Jx3PlbkvB1Rs25h36gELZ) | 2:36 |
 | 25 | [Down For You \(feat\. Bien\)](https://open.spotify.com/track/71cVgHpn6iahD2oylViK6w) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Take Away The Pain](https://open.spotify.com/album/0CE8TePq8l9R9VppXR9KVo) | 2:58 |
 | 26 | [Bombshell \(Cheza\) \(feat\. DJ Exit\)](https://open.spotify.com/track/0GzpqRtw9ff6x65wewCuLQ) | [Skyla Tylaa](https://open.spotify.com/artist/65nasTOHBmMP0qoo6Xa245), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp), [DJ Exit](https://open.spotify.com/artist/15sAWkoV7fE9oMkllDie9u) | [Bombshell \(Cheza\) \(feat\. DJ Exit\) \[Radio Edit\]](https://open.spotify.com/album/4cr9j5k8jOgdTpSJqRVi3n) | 5:31 |

@@ -4,7 +4,7 @@
 
 > this and golden hour, apéritif, cozy time, beach wind\-down \-  jazzy vibes & relaxed house beats🍹
 
-84 songs - 4 hr 40 min
+90 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Blue Velocity](https://open.spotify.com/track/7xOgWonAlkYsvDJ9AnSQ3T) | [Unwind Project](https://open.spotify.com/artist/1pKbeFgKBZ7fk5UVIxo6mf) | [Blue Velocity](https://open.spotify.com/album/73TZklRtwcc2Y4W4oQbhHC) | 2:14 | 2025-04-28 |  |
 | [Bungalow](https://open.spotify.com/track/09ipJgU2qrFphh9I3udSiN) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Bungalow](https://open.spotify.com/album/6TnYHvCgw120FlshN6K5lH) | 3:04 | 2025-04-28 |  |
 | [Café cigarette](https://open.spotify.com/track/2FJ2ukpPWwKu9JzR4Ymx2x) | [Yambow](https://open.spotify.com/artist/5sNyTakkzqmmMTA8GgiCRS) | [Café cigarette](https://open.spotify.com/album/2FiOmnJxoQRdAmnmfUTxpX) | 2:44 | 2025-04-28 |  |
+| [Café Della Sport](https://open.spotify.com/track/0oRRc8WSStFW91pj7VEAtV) | [Flower City](https://open.spotify.com/artist/5ODtSBWuOOQ3MtSWuXe2Yp) | [Café Della Sport](https://open.spotify.com/album/48Icd400f9SaEypgb9xcaS) | 1:56 | 2025-06-13 |  |
 | [Cantaloupe Island](https://open.spotify.com/track/7x6toehzj37oHiL2w3TTfl) | [Angelo Ferreri](https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ), [Moon Rocket](https://open.spotify.com/artist/1kSsrlTgiil1smkT4Brc6P) | [Cantaloupe Island](https://open.spotify.com/album/2VOHzvUHit0myEEMEPHlUF) | 4:52 | 2025-04-28 |  |
 | [Cap Roux](https://open.spotify.com/track/6jwVPKu3cvhxqtDDoGZI42) | [Apothec](https://open.spotify.com/artist/3DvsqBR04BLwIV09F2j9m7) | [Cap Roux](https://open.spotify.com/album/2ugPFysqvUfbe3VVC1HLab) | 2:14 | 2025-04-28 |  |
 | [Chase The Sun](https://open.spotify.com/track/2ewzyarkq3DBmCcnkbepKB) | [Siberia](https://open.spotify.com/artist/1cOSMLE3UQFPSBW0cOX0eb), [chromas](https://open.spotify.com/artist/6KSMToVgzy0p4UfBC4amxC) | [Chase The Sun](https://open.spotify.com/album/1rrT5Aql2C8YfmTXJOi6pk) | 2:16 | 2025-04-28 |  |
@@ -36,9 +37,11 @@
 | [Fascination](https://open.spotify.com/track/47WewSqip6G4BSSi8V8O8N) | [Gaston](https://open.spotify.com/artist/5PV5HJ0ndL74ZdqKA1PqAr) | [Fascination](https://open.spotify.com/album/5v5R3JtW0bvAqJWAcJRpnR) | 2:39 | 2025-04-28 |  |
 | [Feet On The Controls](https://open.spotify.com/track/7p7x09xh9F0Y0GO9qnR0qD) | [Tonbe](https://open.spotify.com/artist/02eo2dtMKsqNfonTOhQ7fH) | [Tough Times Ep](https://open.spotify.com/album/1xjKNCF3zf2oSGcEwlocVc) | 6:36 | 2025-04-28 |  |
 | [Fork In The Road](https://open.spotify.com/track/76gYQp3Y5nDRh8IhwjtA46) | [Yavuz Grill](https://open.spotify.com/artist/48rhQRNzTD4ypCTn4qQmaA) | [Fork In The Road](https://open.spotify.com/album/3mj2fvDOR4pEgGLsXeZGpK) | 2:07 | 2025-04-28 |  |
+| [Free Refills](https://open.spotify.com/track/2sYW3QRltmeHiZRVhCsNJQ) | [Cafe Juno](https://open.spotify.com/artist/4YNKtLMm2rIchOD9vhevJc) | [Free Refills](https://open.spotify.com/album/7eXyltg9Gdm50FBvMCwFiw) | 2:32 | 2025-06-13 |  |
 | [gamay](https://open.spotify.com/track/4TJ2oOXgCDlyQzICFn1yNR) | [the wine is ok](https://open.spotify.com/artist/5Ojm75z0EwHqk2e4W90bak) | [gamay](https://open.spotify.com/album/3pX0MTsSuyJgTbZYYuAV44) | 1:39 | 2025-04-28 |  |
 | [Get Down](https://open.spotify.com/track/3jO4c2efUMnWeZVfJfmb4t) | [Flower City](https://open.spotify.com/artist/5ODtSBWuOOQ3MtSWuXe2Yp) | [Get Down](https://open.spotify.com/album/2uEREUXRhoegj3yLh2VbRj) | 2:02 | 2025-05-15 |  |
 | [Gettin Started](https://open.spotify.com/track/715fosVt2qqIze1oDJ4C7Y) | [Nebulae Waves](https://open.spotify.com/artist/1b3LQfWsgZxMeJOiuUriP2), [Moryla](https://open.spotify.com/artist/679Cu2GnI3RBdkgaPxAsY0) | [Gettin Started](https://open.spotify.com/album/103v4OJOb5py4u7awyQcfp) | 2:43 | 2025-04-28 |  |
+| [Gone](https://open.spotify.com/track/2IqmeyoyM1Do3tm5amPBQU) | [Astrovox](https://open.spotify.com/artist/1zDQ4Lyy4QK1MKFaysBLqx) | [Gone](https://open.spotify.com/album/2bcpErha58tO1MWwnP8RQg) | 2:10 | 2025-06-13 |  |
 | [Got It](https://open.spotify.com/track/2WEFQ6Kzv5xYESusk6ep6U) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Got It](https://open.spotify.com/album/5TgsDWAcxaDr8cMBJGdtFE) | 2:47 | 2025-04-28 |  |
 | [Heaven](https://open.spotify.com/track/5sDlKM21xZl44uULQRadnX) | [Jordan Moon](https://open.spotify.com/artist/7qNnvj3xqAs7FHjOPOeBQ1) | [Heaven](https://open.spotify.com/album/6lkBEX7Ti4Qxs2BOuYO2U2) | 1:55 | 2025-04-28 |  |
 | [Highway \- Teuteu Remix](https://open.spotify.com/track/6roW4lfkqGDImLNcDyeVLC) | [Michael Benedikt](https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL), [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9) | [Highway \(Teuteu Remix\)](https://open.spotify.com/album/3P4NlDbWunICUGKBvDVzlJ) | 2:33 | 2025-05-15 |  |
@@ -62,6 +65,7 @@
 | [Neo Noir](https://open.spotify.com/track/3decquRexcvvZLEPKtWhjE) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Neo Noir](https://open.spotify.com/album/51Y0ZmCNP4vqEKWACcsiWr) | 3:41 | 2025-04-28 |  |
 | [Now I See](https://open.spotify.com/track/0DBRTvXViJcg76r9EQ6ngu) | [Redeyes](https://open.spotify.com/artist/6bFVG82TmMLbnFFBqG9LYa) | [Now I See](https://open.spotify.com/album/6wn5623NAokok2nuscutZK) | 3:46 | 2025-05-15 |  |
 | [On My Mind](https://open.spotify.com/track/4lVyKOiNZzMaDLrTIuBueR) | [Berner Sen](https://open.spotify.com/artist/78ChEYEGQx7KzLDQJRMpdX) | [On My Mind](https://open.spotify.com/album/11JTZnQI2LHUKY7R8IGkF9) | 2:32 | 2025-04-28 |  |
+| [On My Own](https://open.spotify.com/track/6TpLC7ywTcj6z8hqlkhZm5) | [Jajoi](https://open.spotify.com/artist/0Z6mxb1MO8OcangtXO3RSh) | [On My Own](https://open.spotify.com/album/3RylGkmKHFebiktl4JKv6V) | 2:01 | 2025-06-13 |  |
 | [One Day](https://open.spotify.com/track/0dxvLgMHkYyA50mq1WXgjX) | [King Bøb](https://open.spotify.com/artist/41zvJbIz0wTbdM8KBB6vRy) | [One Day](https://open.spotify.com/album/1GM1uQbmpVBLCzuKLQ6KzF) | 2:41 | 2025-04-28 |  |
 | [orange juice](https://open.spotify.com/track/7GvpILTCIzaAwpvFteGOG0) | [Bæthtubs](https://open.spotify.com/artist/4jGqSzQirwi7cFUCzZoI1S) | [orange juice](https://open.spotify.com/album/1l5W5RuywK6dNxscYAEF79) | 3:06 | 2025-05-30 |  |
 | [Orange Wine](https://open.spotify.com/track/0ZjN7NMj0wh5fPWwfVUM71) | [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Orange Wine](https://open.spotify.com/album/54Xy9z3AkO9mrgU3II6TwN) | 4:45 | 2025-04-28 |  |
@@ -69,6 +73,7 @@
 | [Phases](https://open.spotify.com/track/2yIhzbIcSxJF2CCgqU0Ay2) | [Astrovox](https://open.spotify.com/artist/1zDQ4Lyy4QK1MKFaysBLqx) | [Phases](https://open.spotify.com/album/49tS1lTdOd6KS2X5iOgNxD) | 2:02 | 2025-05-30 |  |
 | [RIBBIT JAM](https://open.spotify.com/track/4n3MaEbcQnGEuy7noSMX1O) | [ELWD](https://open.spotify.com/artist/3UIr0NbZyET0Dt7ErPmPGd) | [RIBBIT JAM](https://open.spotify.com/album/4CyqVmM9OVeBhzwRNf4UHn) | 3:47 | 2025-04-28 |  |
 | [Right Away](https://open.spotify.com/track/5HgPdfkNwsFLYDUZRHCBbt) | [Brous One](https://open.spotify.com/artist/1B8h9tQRqagUQ7XcHRvh3k), [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Right Away / One For Those That Paved The Way](https://open.spotify.com/album/5SoPqz3ERKRFAyVm4VfNKu) | 5:51 | 2025-04-28 |  |
+| [Sangiovese](https://open.spotify.com/track/2N5e3ligAHu95KISY5OUIn) | [rigii](https://open.spotify.com/artist/7mKI3t5igUWeoSgBNCdQIU) | [Sangiovese](https://open.spotify.com/album/7ucPaIdoxL5sPtVT1usR6G) | 2:46 | 2025-06-13 |  |
 | [Saturday](https://open.spotify.com/track/2CW7PQ240Jwp3xzUoF8TR1) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t) | [Saturday](https://open.spotify.com/album/39787Ss6lhqhsclgqz7p2Y) | 4:18 | 2025-04-28 |  |
 | [Seconds](https://open.spotify.com/track/3kiqy3JvYaOYIfqtkIraYL) | [Rayo del Sol](https://open.spotify.com/artist/5tiQHiU8wfer1sBZAR0sPe) | [Seconds](https://open.spotify.com/album/1ByJxSH5aEYtk8zaE2SE4m) | 2:14 | 2025-05-30 |  |
 | [Sleeping Norboo \- Moods Remix](https://open.spotify.com/track/3Fgpy0rBMZNP4vvJM4ZYEs) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S), [ALEXANDER](https://open.spotify.com/artist/62sf9c1XbjW0Jv8ON57xor), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Sleeping Norboo \(Moods Remix\)](https://open.spotify.com/album/0UU34hknNlE4KRogR8aVda) | 3:50 | 2025-04-28 |  |
@@ -85,6 +90,7 @@
 | [Velvet Sun](https://open.spotify.com/track/6cIz2hfxI34qyal5qAd3Hy) | [Dr\. Stu](https://open.spotify.com/artist/5GlVlEMBULr4iUAjL4cT1R) | [Velvet Sun](https://open.spotify.com/album/0UGnxNyOzY6vdbtr6OaKAA) | 2:22 | 2025-05-15 |  |
 | [Velvety](https://open.spotify.com/track/4duiRZYrTr4oqINndygEv8) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Velvety](https://open.spotify.com/album/7L86gkKUDut2yAeqOHNram) | 3:16 | 2025-04-28 |  |
 | [Warming Up](https://open.spotify.com/track/7mkGyBb7Bhftg5St3Aka5K) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information \(Redacted\)](https://open.spotify.com/album/12gAB26MYzHb34WYOxjM3W) | 3:36 | 2025-04-28 |  |
+| [Warmth](https://open.spotify.com/track/3wdGJeNafMXhgDk7BlIsbm) | [Francois Lé](https://open.spotify.com/artist/7b8S7uo3rDxdm0W1fJv7BX) | [Warmth](https://open.spotify.com/album/5uX9SWJJiqioJ8nekradCi) | 2:23 | 2025-06-13 |  |
 | [What Comes After And Before](https://open.spotify.com/track/7zm6vwr5C6nxyC3NeplTHo) | [NightRec](https://open.spotify.com/artist/0uuO3yNBCz7UaUJ8RG4XUI) | [What Comes After And Before](https://open.spotify.com/album/6LI9xhudOPCgQ2nZwYExUr) | 2:01 | 2025-05-15 |  |
 | [what i remember of san francisco](https://open.spotify.com/track/5JZdNv77o69pV7MjezdYN5) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [what i remember of san francisco](https://open.spotify.com/album/4Qgi5LS94jWVJBh4uIC5Nq) | 2:58 | 2025-04-28 |  |
 | [Wind](https://open.spotify.com/track/1N9LqPAyzDNi4mQaoMOLNf) | [Bootie Grove](https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3) | [Wind](https://open.spotify.com/album/1aFKfwrPp5rjpXDUiJpih7) | 2:40 | 2025-04-28 |  |

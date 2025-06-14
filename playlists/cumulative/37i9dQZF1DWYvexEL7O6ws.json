@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-30",
-  "description": "The label's essential tracks by PARTYNEXTDOOR, Drake, Naomi Sharon and more.",
+  "description": "The label's essential tracks by PARTYNEXTDOOR, Drake, Smiley, Naomi Sharon and more.",
   "name": "This Is OVO Sound",
   "tracks": [
     {
@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "Don't Box Me In",
+        "url": "https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191907,
+      "name": "2 Mazza (feat. Drake)",
+      "url": "https://open.spotify.com/track/2rKNlxKBZvpSpuIChBdHts"
+    },
+    {
+      "album": {
         "name": "Buy or Bye 2",
         "url": "https://open.spotify.com/album/2ioMOjxtndeNFrssEFnIjF"
       },
@@ -89,6 +111,24 @@
     },
     {
       "album": {
+        "name": "Don't Box Me In",
+        "url": "https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140240,
+      "name": "6ixSideKids",
+      "url": "https://open.spotify.com/track/1e2D3Ud8k1WiedF5j6JTze"
+    },
+    {
+      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -100,7 +140,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 259846,
       "name": "7969 Santa",
       "url": "https://open.spotify.com/track/1GpWY5RiInhezB8wGWs6oN"
@@ -136,7 +176,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 173097,
       "name": "A Keeper",
       "url": "https://open.spotify.com/track/0nAZGkBGKQCXyaoSJfRhC1"
@@ -180,7 +220,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 231338,
       "name": "act ii: date @ 8 (feat. Drake) - remix",
       "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
@@ -312,7 +352,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 303068,
       "name": "Another Life - Marten Lou Remix",
       "url": "https://open.spotify.com/track/5EtqS2ue330CHHO1b9AHYS"
@@ -400,6 +440,24 @@
       "duration_ms": 222655,
       "name": "Balance (feat. dvsn & PnB Rock)",
       "url": "https://open.spotify.com/track/6qL6Pj04xtBpT6GNWoEn3P"
+    },
+    {
+      "album": {
+        "name": "Top Boy (A Selection of Music Inspired by the Series)",
+        "url": "https://open.spotify.com/album/6YcgXckAm81gT3yKinvKEo"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163120,
+      "name": "Behind Barz (Bonus)",
+      "url": "https://open.spotify.com/track/1mkAe8D2CY1C7ShL28fQmG"
     },
     {
       "album": {
@@ -560,6 +618,28 @@
       "duration_ms": 183750,
       "name": "Between Us (feat. Snoh Aalegra)",
       "url": "https://open.spotify.com/track/759KqKQyDmTWJape4odo21"
+    },
+    {
+      "album": {
+        "name": "Don't Box Me In",
+        "url": "https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        {
+          "name": "Baka Not Nice",
+          "url": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145841,
+      "name": "Big Dog (feat. Baka Not Nice)",
+      "url": "https://open.spotify.com/track/3FS71jpTrmy9QQF30BJlKv"
     },
     {
       "album": {
@@ -761,6 +841,24 @@
     },
     {
       "album": {
+        "name": "Don't Box Me In",
+        "url": "https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91924,
+      "name": "Budge",
+      "url": "https://open.spotify.com/track/2FmWy3Qm7mtLv88yUYWsZY"
+    },
+    {
+      "album": {
         "name": "Money Feen (feat. Icewear Vezzo)",
         "url": "https://open.spotify.com/album/5Iw8hmPOgFw9rzI9510FKQ"
       },
@@ -772,7 +870,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 91924,
       "name": "Budge",
       "url": "https://open.spotify.com/track/60uhuz5NvEnNHb0gJJPhYc"
@@ -790,7 +888,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 234075,
       "name": "C h e e r s",
       "url": "https://open.spotify.com/track/6OyOjq2nMELgQX7GspwXlR"
@@ -986,7 +1084,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-19",
+      "date_removed": null,
       "duration_ms": 171858,
       "name": "Chill Pad Deluxe",
       "url": "https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM"
@@ -1048,7 +1146,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 241889,
       "name": "CN TOWER",
       "url": "https://open.spotify.com/track/4u43I0LP2Xf85OAS85eG0R"
@@ -1696,7 +1794,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 272836,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/0l0UDr9M10FQAMkq8jcIf8"
@@ -1884,7 +1982,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 182080,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/2WP8G2pdddDmnh1xbfKBOI"
@@ -2084,7 +2182,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 226632,
       "name": "Get You Good",
       "url": "https://open.spotify.com/track/0Hy7GwC7e4FZBWsWnOcuqP"
@@ -2266,7 +2364,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 386165,
       "name": "GREEDY",
       "url": "https://open.spotify.com/track/2MjQmsRAUArE2GDwjsVew3"
@@ -2508,7 +2606,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 216630,
       "name": "Her Way",
       "url": "https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb"
@@ -2562,7 +2660,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 216226,
       "name": "Holding In Place",
       "url": "https://open.spotify.com/track/54FQDHiQIe1KcVAgFakQhe"
@@ -2762,7 +2860,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 174311,
       "name": "Instinct (feat. MadeinTYO)",
       "url": "https://open.spotify.com/track/49VzL5oBsUICN7U34T98b9"
@@ -2832,7 +2930,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
@@ -2897,6 +2995,24 @@
     },
     {
       "album": {
+        "name": "Don't Box Me In",
+        "url": "https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "Kept Snowin",
+      "url": "https://open.spotify.com/track/36Ufni16red6w9M384XIDI"
+    },
+    {
+      "album": {
         "name": "If You're Reading This It's Too Late",
         "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
       },
@@ -2926,7 +3042,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 183990,
       "name": "L o s e M y M i n d",
       "url": "https://open.spotify.com/track/7mrFGO24hccC48c2hQzyEC"
@@ -2966,7 +3082,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 198692,
       "name": "LASERS",
       "url": "https://open.spotify.com/track/2vjFTjmvpFjFM01cNdG2ik"
@@ -3079,6 +3195,24 @@
     },
     {
       "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237932,
+      "name": "Liability",
+      "url": "https://open.spotify.com/track/2vy9Ry1TNjCD85TiCbTz0r"
+    },
+    {
+      "album": {
         "name": "Life 2",
         "url": "https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e"
       },
@@ -3108,7 +3242,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 243286,
       "name": "Like You",
       "url": "https://open.spotify.com/track/56OC6MFn9eAK9xvN8T255M"
@@ -3232,7 +3366,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 281119,
       "name": "LOYAL (feat. Drake and Bad Bunny) - Remix",
       "url": "https://open.spotify.com/track/6WGTfHSQtUcEx5vgpxTLCs"
@@ -3352,7 +3486,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 271058,
       "name": "MEET YOUR PADRE",
       "url": "https://open.spotify.com/track/0o5p5zzRN84q6qVbOVONPM"
@@ -3447,6 +3581,28 @@
     },
     {
       "album": {
+        "name": "MIA (feat. Drake)",
+        "url": "https://open.spotify.com/album/2xqopbc18kE4p2lIUzoO0G"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210367,
+      "name": "MIA (feat. Drake)",
+      "url": "https://open.spotify.com/track/3Ueq2zboxwAbsvHrOjdEqz"
+    },
+    {
+      "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
       },
@@ -3465,6 +3621,28 @@
     },
     {
       "album": {
+        "name": "Don't Box Me In",
+        "url": "https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139805,
+      "name": "Money Feen (feat. Icewear Vezzo)",
+      "url": "https://open.spotify.com/track/2owx0WV512gbyCcB4mqkrY"
+    },
+    {
+      "album": {
         "name": "Money Feen (feat. Icewear Vezzo)",
         "url": "https://open.spotify.com/album/5Iw8hmPOgFw9rzI9510FKQ"
       },
@@ -3480,7 +3658,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 139805,
       "name": "Money Feen (feat. Icewear Vezzo)",
       "url": "https://open.spotify.com/track/7I6XbdkDL1YLbRFeJFGJZT"
@@ -3520,7 +3698,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 212629,
       "name": "MOTH BALLS",
       "url": "https://open.spotify.com/track/7DL2F2bueQycqYjqsjHYjG"
@@ -3590,6 +3768,28 @@
       "duration_ms": 198676,
       "name": "My Town (feat. Giggs)",
       "url": "https://open.spotify.com/track/02aZqt8SqHScHM7A7zYOh0"
+    },
+    {
+      "album": {
+        "name": "Top Boy (A Selection of Music Inspired by the Series)",
+        "url": "https://open.spotify.com/album/6YcgXckAm81gT3yKinvKEo"
+      },
+      "artists": [
+        {
+          "name": "Baka Not Nice",
+          "url": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198676,
+      "name": "My Town (feat. Giggs)",
+      "url": "https://open.spotify.com/track/0nZFkAQMd5humNE9KykWxf"
     },
     {
       "album": {
@@ -3782,7 +3982,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 203715,
       "name": "Nobody Else (feat. 03 Greedo)",
       "url": "https://open.spotify.com/track/4QHmDvXqScj71oQzv4VOqo"
@@ -3894,7 +4094,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 265386,
       "name": "Nothing Sweeter",
       "url": "https://open.spotify.com/track/0qHmMD9S3v1fZA0ArFVwCJ"
@@ -4036,7 +4236,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 107731,
       "name": "One Deep",
       "url": "https://open.spotify.com/track/570ba7DIYECiVT5jFAxZwH"
@@ -4080,7 +4280,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-26",
+      "date_removed": null,
       "duration_ms": 212546,
       "name": "One I Want (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/6RD9GItAGZ3gbUbx14okHF"
@@ -4098,7 +4298,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 159681,
       "name": "Outside",
       "url": "https://open.spotify.com/track/48XtpVof8KIkkuFDg2TUhY"
@@ -4302,7 +4502,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 236973,
       "name": "Preach",
       "url": "https://open.spotify.com/track/1OHoBC4icbuNhpSxP400sv"
@@ -4328,6 +4528,24 @@
       "duration_ms": 160821,
       "name": "Privileged Rappers",
       "url": "https://open.spotify.com/track/6pQr9mnsAjBlBBdFLvsgY5"
+    },
+    {
+      "album": {
+        "name": "Top Boy (A Selection of Music Inspired by the Series)",
+        "url": "https://open.spotify.com/album/6YcgXckAm81gT3yKinvKEo"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217704,
+      "name": "Professor X",
+      "url": "https://open.spotify.com/track/7Bm8SMdPjrc1qMm9m6Z50u"
     },
     {
       "album": {
@@ -4654,7 +4872,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 189257,
       "name": "Regardless",
       "url": "https://open.spotify.com/track/2SQQ2cRIydKNeyXEq5uupd"
@@ -4720,7 +4938,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 207508,
       "name": "Rockstar Baby",
       "url": "https://open.spotify.com/track/7xEtfFuoiWOPIKS5xb91PL"
@@ -4908,7 +5126,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 224073,
       "name": "She Don't Care Bout My Name",
       "url": "https://open.spotify.com/track/0nxGbmcQ4XFQtm6wOjlSd3"
@@ -5090,7 +5308,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 148509,
       "name": "SMALL TOWN FAME",
       "url": "https://open.spotify.com/track/1YHQQFtKqFSFrqL4cNvstU"
@@ -5108,7 +5326,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 174000,
       "name": "So Obvious",
       "url": "https://open.spotify.com/track/7KgVm8AZ3HRcdwI7EG9Nt1"
@@ -5217,6 +5435,24 @@
     },
     {
       "album": {
+        "name": "Don't Box Me In",
+        "url": "https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155999,
+      "name": "Spill The Tea",
+      "url": "https://open.spotify.com/track/0VechlorA2cOX21OknJ2ol"
+    },
+    {
+      "album": {
         "name": "Spill The Tea",
         "url": "https://open.spotify.com/album/6vnz3Rk20X8evaJJuVl5AO"
       },
@@ -5246,7 +5482,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 155999,
       "name": "Spill The Tea",
       "url": "https://open.spotify.com/track/2mQUS2F7FJmxXe2tGWdrDy"
@@ -5568,7 +5804,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 219263,
       "name": "Tell Me What I'm Living For",
       "url": "https://open.spotify.com/track/3uuSxhtZfvIpS0u6SZKyW9"
@@ -5864,7 +6100,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 200223,
       "name": "Too Deep",
       "url": "https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x"
@@ -5961,6 +6197,28 @@
     },
     {
       "album": {
+        "name": "Don't Box Me In",
+        "url": "https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        {
+          "name": "Why G",
+          "url": "https://open.spotify.com/artist/3QoFljZxcB1DQuP3WmYVJB"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142163,
+      "name": "Trapman (feat. Why G)",
+      "url": "https://open.spotify.com/track/5KpSdtlXXZzavW4sL4y5LU"
+    },
+    {
+      "album": {
         "name": "Care Package",
         "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
       },
@@ -6024,7 +6282,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 259651,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
@@ -6068,7 +6326,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 156666,
       "name": "Understand",
       "url": "https://open.spotify.com/track/5L32IjZD1VIyuF7Rw9Xmio"
@@ -6253,6 +6511,28 @@
     },
     {
       "album": {
+        "name": "Wanna Know Remix (feat. Drake)",
+        "url": "https://open.spotify.com/album/4rL5hr03vh6g69Ce0rwStB"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199019,
+      "name": "Wanna Know Remix (feat. Drake)",
+      "url": "https://open.spotify.com/track/7wNpJcBDJlIVWCX8NYBKQj"
+    },
+    {
+      "album": {
         "name": "roses are red, tears are blue \u2014 A Fountain Baby Extended Play",
         "url": "https://open.spotify.com/album/7zgIcnbeNavZHeaTuVd6Po"
       },
@@ -6319,6 +6599,24 @@
     },
     {
       "album": {
+        "name": "Don't Box Me In",
+        "url": "https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156750,
+      "name": "Wave The Flag",
+      "url": "https://open.spotify.com/track/7gVZ34xBXiZ51mvIm6aB4t"
+    },
+    {
+      "album": {
         "name": "Waves of Blue",
         "url": "https://open.spotify.com/album/4NQRZlgmo5Sz9pSNkTOiM0"
       },
@@ -6378,7 +6676,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 245240,
       "name": "We Caa Done (feat. Drake)",
       "url": "https://open.spotify.com/track/06Autwbs6Qlj7Ydq6i0Xss"
@@ -6476,7 +6774,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-14",
+      "date_removed": null,
       "duration_ms": 196883,
       "name": "Whatchu Mean",
       "url": "https://open.spotify.com/track/6vgRACWQuPdrXMegR27fwZ"

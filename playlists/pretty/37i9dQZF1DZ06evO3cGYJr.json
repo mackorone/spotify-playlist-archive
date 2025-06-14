@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEjHAAAAAACRlA9SwqGtJZgXw3fqXtVF",
+  "snapshot_id": "aEoYgAAAAABS5DRt/xEzWL0SHyJxKLo0",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N0_L4T3NCY: HALCYON PT. IV",
+        "url": "https://open.spotify.com/album/3KaqUY0r1T4V9FZdc9TmDm"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "1DK",
+      "url": "https://open.spotify.com/track/5slQ0xVsXGcQyEMvvZofpv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "maybe i need to know myself",
         "url": "https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y"
       },
@@ -220,9 +236,29 @@
           "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
         }
       ],
-      "duration_ms": 162420,
-      "name": "NOT_ALIVE//NOT_DEAD",
-      "url": "https://open.spotify.com/track/6lFdELrYB1fLkVCAXJSMwU"
+      "duration_ms": 219130,
+      "name": "Racing",
+      "url": "https://open.spotify.com/track/4NUrUFTFvLZj0BmsdAp4d2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "tired brain analysis",
+        "url": "https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        },
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Stay true",
+      "url": "https://open.spotify.com/track/2lS3JK9ZgW47cMsxYbGV0x"
     },
     {
       "added_at": null,
@@ -236,9 +272,41 @@
           "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
         }
       ],
-      "duration_ms": 180000,
-      "name": "1DK",
-      "url": "https://open.spotify.com/track/5slQ0xVsXGcQyEMvvZofpv"
+      "duration_ms": 197973,
+      "name": "I spend too much time on the internet to care about the small things",
+      "url": "https://open.spotify.com/track/1QLdKicibmGNy7FFYWQ4qK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Xernia (2021 Version)",
+        "url": "https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 146860,
+      "name": "Re:Start - 2021 Version",
+      "url": "https://open.spotify.com/track/3TJ2wxqp3kShbKczbVc2D0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "maybe i need to know myself",
+        "url": "https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Filter",
+      "url": "https://open.spotify.com/track/2RsKdzQe6crT8oOYrl9X6S"
     },
     {
       "added_at": null,
@@ -263,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "maybe i need to know myself",
-        "url": "https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Filter",
-      "url": "https://open.spotify.com/track/2RsKdzQe6crT8oOYrl9X6S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NEVER CATCH THE LIGHT",
         "url": "https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO"
       },
@@ -299,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "N0_L4T3NCY: HALCYON PT. IV",
-        "url": "https://open.spotify.com/album/3KaqUY0r1T4V9FZdc9TmDm"
+        "name": "HALCYON",
+        "url": "https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI"
       },
       "artists": [
         {
@@ -308,25 +360,9 @@
           "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
         }
       ],
-      "duration_ms": 197973,
-      "name": "I spend too much time on the internet to care about the small things",
-      "url": "https://open.spotify.com/track/1QLdKicibmGNy7FFYWQ4qK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "tired brain analysis",
-        "url": "https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Secrets_album_ver.wav!",
-      "url": "https://open.spotify.com/track/6r3WYwbRitpY1OrBUYTKZy"
+      "duration_ms": 162420,
+      "name": "NOT_ALIVE//NOT_DEAD",
+      "url": "https://open.spotify.com/track/6lFdELrYB1fLkVCAXJSMwU"
     },
     {
       "added_at": null,
@@ -347,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "tired brain analysis",
+        "url": "https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Secrets_album_ver.wav!",
+      "url": "https://open.spotify.com/track/6r3WYwbRitpY1OrBUYTKZy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "i don't think you understand what i mean",
         "url": "https://open.spotify.com/album/2TZUpntFcvdMEdYKOvmIc2"
       },
@@ -363,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Xernia (2021 Version)",
-        "url": "https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy"
+        "name": "HALCYON",
+        "url": "https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI"
       },
       "artists": [
         {
@@ -372,9 +424,9 @@
           "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
         }
       ],
-      "duration_ms": 146860,
-      "name": "Re:Start - 2021 Version",
-      "url": "https://open.spotify.com/track/3TJ2wxqp3kShbKczbVc2D0"
+      "duration_ms": 212093,
+      "name": "A Finale",
+      "url": "https://open.spotify.com/track/7CZ4Op8aFxBGwEFkcFmGor"
     },
     {
       "added_at": null,
@@ -391,22 +443,6 @@
       "duration_ms": 194738,
       "name": "Cleaved",
       "url": "https://open.spotify.com/track/7rE3RYWNKCOpqMJrQGcTBC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HALCYON",
-        "url": "https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "A Finale",
-      "url": "https://open.spotify.com/track/7CZ4Op8aFxBGwEFkcFmGor"
     },
     {
       "added_at": null,
@@ -443,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell me!! with Need to know (interlude)",
-        "url": "https://open.spotify.com/album/6sNO1w7Zpng9whJLeSiHQs"
+        "name": "N0_L4T3NCY: HALCYON PT. IV",
+        "url": "https://open.spotify.com/album/3KaqUY0r1T4V9FZdc9TmDm"
       },
       "artists": [
         {
@@ -452,9 +488,9 @@
           "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
         }
       ],
-      "duration_ms": 137931,
-      "name": "Need to know (interlude)",
-      "url": "https://open.spotify.com/track/4pQghLNZWaZGGRYjd9z0Fq"
+      "duration_ms": 124586,
+      "name": "CONFUS1NG",
+      "url": "https://open.spotify.com/track/4xZdfb97GXnH8ZlWNYNkcq"
     },
     {
       "added_at": null,
@@ -507,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tell me!! with Need to know (interlude)",
+        "url": "https://open.spotify.com/album/6sNO1w7Zpng9whJLeSiHQs"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 137931,
+      "name": "Need to know (interlude)",
+      "url": "https://open.spotify.com/track/4pQghLNZWaZGGRYjd9z0Fq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "secrets!",
         "url": "https://open.spotify.com/album/12Oo1CMGp3enOS4eO39orM"
       },
@@ -519,22 +571,6 @@
       "duration_ms": 229213,
       "name": "secrets - natural accent version",
       "url": "https://open.spotify.com/track/0n0NOHtckswKyJWlP3r7aj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "tired brain analysis",
-        "url": "https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 150843,
-      "name": "Daggers",
-      "url": "https://open.spotify.com/track/2eqtvTWMQ6W091bV7wGa3I"
     },
     {
       "added_at": null,
@@ -575,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N0_L4T3NCY: HALCYON PT. IV",
-        "url": "https://open.spotify.com/album/3KaqUY0r1T4V9FZdc9TmDm"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 124586,
-      "name": "CONFUS1NG",
-      "url": "https://open.spotify.com/track/4xZdfb97GXnH8ZlWNYNkcq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Xernia (2021 Version)",
         "url": "https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy"
       },
@@ -603,38 +623,6 @@
       "duration_ms": 77185,
       "name": "Darkness (Xaiyne's Interlude) - 2021 Version",
       "url": "https://open.spotify.com/track/6cLOt6zFnx40frQxekiDE8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HALCYON",
-        "url": "https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "Racing",
-      "url": "https://open.spotify.com/track/4NUrUFTFvLZj0BmsdAp4d2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "i don't think you understand what i mean",
-        "url": "https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 171210,
-      "name": "Feel Alive",
-      "url": "https://open.spotify.com/track/12eTcYkNENioNzywUrPE5u"
     },
     {
       "added_at": null,
@@ -655,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N0_L4T3NCY: HALCYON PT. IV",
-        "url": "https://open.spotify.com/album/3KaqUY0r1T4V9FZdc9TmDm"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 166332,
-      "name": "D1FFERENT (INTRO)",
-      "url": "https://open.spotify.com/track/43pus1gZHRnJ73PvkX2orL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HALCYON",
         "url": "https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI"
       },
@@ -683,6 +655,22 @@
       "duration_ms": 174000,
       "name": "Display",
       "url": "https://open.spotify.com/track/11AI9ADONUaBJRxDA9ZSfG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i don't think you understand what i mean",
+        "url": "https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 171210,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/12eTcYkNENioNzywUrPE5u"
     },
     {
       "added_at": null,
@@ -710,27 +698,15 @@
         {
           "name": "Learke",
           "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 130369,
-      "name": "Memory of a Different World - 2021 Version",
-      "url": "https://open.spotify.com/track/6YRMabYzzHeU3OBPjLbjrD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "POP!: HALCYON PT. III",
-        "url": "https://open.spotify.com/album/4tSUFyOFdccu73OdTCu9Q8"
-      },
-      "artists": [
+        },
         {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+          "name": "w.hateverm",
+          "url": "https://open.spotify.com/artist/1uREPVdK2MvzaV52XCD40R"
         }
       ],
-      "duration_ms": 120000,
-      "name": "This Far",
-      "url": "https://open.spotify.com/track/6J1SC7P1ZlPdkS6df0VMuW"
+      "duration_ms": 181775,
+      "name": "Fool - 2021 Version",
+      "url": "https://open.spotify.com/track/3WQ94WkALajwI5HDkwkZaj"
     },
     {
       "added_at": null,
@@ -751,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GARAGE MEMORY: HALCYON PT. II",
-        "url": "https://open.spotify.com/album/7GuKGRqJFUiLCKREzcq9av"
+        "name": "N0_L4T3NCY: HALCYON PT. IV",
+        "url": "https://open.spotify.com/album/3KaqUY0r1T4V9FZdc9TmDm"
       },
       "artists": [
         {
@@ -760,9 +736,57 @@
           "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
         }
       ],
-      "duration_ms": 183938,
-      "name": "Miscommunication",
-      "url": "https://open.spotify.com/track/5O1QstjYywxQAA23hbkQ6p"
+      "duration_ms": 166332,
+      "name": "D1FFERENT (INTRO)",
+      "url": "https://open.spotify.com/track/43pus1gZHRnJ73PvkX2orL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "POP!: HALCYON PT. III",
+        "url": "https://open.spotify.com/album/4tSUFyOFdccu73OdTCu9Q8"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "This Far",
+      "url": "https://open.spotify.com/track/6J1SC7P1ZlPdkS6df0VMuW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Xernia (2021 Version)",
+        "url": "https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 130369,
+      "name": "Memory of a Different World - 2021 Version",
+      "url": "https://open.spotify.com/track/6YRMabYzzHeU3OBPjLbjrD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "better than i was",
+        "url": "https://open.spotify.com/album/35FKhwMBDOty1ocIqwfU1y"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "better than i was",
+      "url": "https://open.spotify.com/track/0JQkCncxcmSROtUx48oEPb"
     },
     {
       "added_at": null,
@@ -783,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GARAGE MEMORY: HALCYON PT. II",
-        "url": "https://open.spotify.com/album/7GuKGRqJFUiLCKREzcq9av"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 332149,
-      "name": "The End of the World As We Know",
-      "url": "https://open.spotify.com/track/3NQr6KHpxUEpT4OKQccgfM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Xernia (2021 Version)",
         "url": "https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy"
       },
@@ -811,26 +819,6 @@
       "duration_ms": 219769,
       "name": "U_KNOWN - 2021 Version",
       "url": "https://open.spotify.com/track/2FrS1ydBBI5gPeFSQOL1HN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Xernia (2021 Version)",
-        "url": "https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        },
-        {
-          "name": "w.hateverm",
-          "url": "https://open.spotify.com/artist/1uREPVdK2MvzaV52XCD40R"
-        }
-      ],
-      "duration_ms": 181775,
-      "name": "Fool - 2021 Version",
-      "url": "https://open.spotify.com/track/3WQ94WkALajwI5HDkwkZaj"
     }
   ],
   "unique_name": "This Is Learke",

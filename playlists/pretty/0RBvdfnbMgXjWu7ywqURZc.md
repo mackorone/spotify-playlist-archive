@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0RBvdfnbMgXjWu7ywqURZc.md) - [plain]
 
 > All the best hits from Shawn Mendes, Taylor Swift and more!
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 1,611 likes - 66 songs - 3 hr 37 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 1,611 likes - 67 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,5 +74,6 @@ pretty - [cumulative](/playlists/cumulative/0RBvdfnbMgXjWu7ywqURZc.md) - [plain]
 | 64 | [Fallin' All In You](https://open.spotify.com/track/5EYBryPOgIEPB7r5QIy6eG) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 3:55 |
 | 65 | [I Think I'm OKAY \(with YUNGBLUD & Travis Barker\)](https://open.spotify.com/track/6bWBLZLBRQEJ5KsLicouNB) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [I Think I'm OKAY \(with YUNGBLUD & Travis Barker\)](https://open.spotify.com/album/6iGIjsBt4RJQFYlBBiNk39) | 2:50 |
 | 66 | [Lonely](https://open.spotify.com/track/4hxQsbgMpcp4Y0YSfIVdtx) | [Jada](https://open.spotify.com/artist/2pobDPwk9fuzujz5YKKAVB) | [Lonely](https://open.spotify.com/album/4f8culL0XOvUgHtXqJVE2j) | 3:49 |
+| 67 | [Hachikō](https://open.spotify.com/track/4WhHNXBgRglnkjy7TMzgdh) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hachikō](https://open.spotify.com/album/0qxIGHOXFdqiJEOqbUv5DR) | 4:30 |
 
-Snapshot ID: `AAAAcTpPgcPYPgJ/pAwMaSHcylg5VbJu`
+Snapshot ID: `AAAAcnitXITt/3UuvEEMttLMQlrKpq++`

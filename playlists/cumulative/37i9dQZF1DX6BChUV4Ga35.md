@@ -4,7 +4,7 @@
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-138 songs - 4 hr 47 min
+139 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Imagination Animals](https://open.spotify.com/track/299qNT5sm2V78qPltuXZgr) | [Fisher\-Price](https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Fisher\-Price Record Player \- Pop](https://open.spotify.com/album/666IUzXuGmiUtwlq6qqxWo) | 1:28 | 2025-02-07 |  |
 | [Jellyfish Jones](https://open.spotify.com/track/32GZOJVBjAyJem2WVIqYhW) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Away We Go!](https://open.spotify.com/album/6gXAuYlj9SA4b0APIF1CGS) | 2:29 | 2023-11-08 |  |
 | [Jungle Boogie](https://open.spotify.com/track/1pwkwI43EaA79HlDWNSEok) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Animal Songs](https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO) | 1:40 | 2022-02-01 |  |
+| [Koala](https://open.spotify.com/track/4ePcUtcqfml4OjjA9zHJZS) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Koala](https://open.spotify.com/album/3tYTzaB6iZN4SsxQAhKnRF) | 2:15 | 2025-06-13 |  |
 | [Leapfrog](https://open.spotify.com/track/4QMVkanQKAjI3tOPsmFD3H) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Leapfrog](https://open.spotify.com/album/0BnVf9zQwzGPsSAzhDKXgY) | 3:40 | 2025-03-14 |  |
 | [Lil' red Rooster](https://open.spotify.com/track/2kqx7Js7xvJNFHABI75LRS) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [A Potluck](https://open.spotify.com/album/4uBGyDlwFP7tlfLma1DDJk) | 2:49 | 2022-02-01 |  |
 | [Little Sharks](https://open.spotify.com/track/4CXd8asKpF6SGH3qImlZfa) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Dance Party!](https://open.spotify.com/album/304rgWamJDyKqMD8wDkgUf) | 2:44 | 2022-02-01 |  |

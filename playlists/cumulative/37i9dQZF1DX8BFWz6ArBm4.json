@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u2600\ufe0f \u0393\u03b9\u03b1\u03c4\u03af \u03b4\u03b5\u03bd \u03bd\u03bf\u03b5\u03af\u03c4\u03b1\u03b9 \u03ba\u03b1\u03bb\u03bf\u03ba\u03b1\u03af\u03c1\u03b9 \u03c7\u03c9\u03c1\u03af\u03c2 \u03c4\u03b9\u03c2 \u03b1\u03b3\u03b1\u03c0\u03b7\u03bc\u03ad\u03bd\u03b5\u03c2 \u03c3\u03bf\u03c5 \u03bb\u03b1\u0399\u03ba\u03ad\u03c2 \u03c6\u03c9\u03bd\u03ad\u03c2 \u2600\ufe0f\u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Andromache",
+  "description": "\u2600\ufe0f \u0393\u03b9\u03b1\u03c4\u03af \u03b4\u03b5\u03bd \u03bd\u03bf\u03b5\u03af\u03c4\u03b1\u03b9 \u03ba\u03b1\u03bb\u03bf\u03ba\u03b1\u03af\u03c1\u03b9 \u03c7\u03c9\u03c1\u03af\u03c2 \u03c4\u03b9\u03c2 \u03b1\u03b3\u03b1\u03c0\u03b7\u03bc\u03ad\u03bd\u03b5\u03c2 \u03c3\u03bf\u03c5 \u03bb\u03b1\u0399\u03ba\u03ad\u03c2 \u03c6\u03c9\u03bd\u03ad\u03c2 \u2600\ufe0f\u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Lena Zevgara",
   "name": "K\u03b1\u03bb\u03bf\u03ba\u03b1\u03b9\u03c1\u03b9\u03bd\u03ac \u039b\u03b1\u03ca\u03ba\u03ac ",
   "tracks": [
     {
@@ -206,7 +206,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 170595,
       "name": "Amartiste",
       "url": "https://open.spotify.com/track/55ep0yZZ26g4utQDKsRRMy"
@@ -840,7 +840,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 267480,
       "name": "Epitelous",
       "url": "https://open.spotify.com/track/3Qsq7EWfKRmYLzmY2wWvE2"
@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 189300,
       "name": "Kapou Kapou",
       "url": "https://open.spotify.com/track/7trPl1kIywvCq1o78uIE6O"
@@ -1820,6 +1820,24 @@
       "duration_ms": 166105,
       "name": "Na Giriseis Pou",
       "url": "https://open.spotify.com/track/12yBDRdAFphLSeubaMO4Cc"
+    },
+    {
+      "album": {
+        "name": "Na Peite Sto Paidi",
+        "url": "https://open.spotify.com/album/6hEqjqDmKi7e661j514OFl"
+      },
+      "artists": [
+        {
+          "name": "Lena Zevgara",
+          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227598,
+      "name": "Na Peite Sto Paidi",
+      "url": "https://open.spotify.com/track/1Ui7JB0ca3dbnylnJyHVEK"
     },
     {
       "album": {
@@ -2286,7 +2304,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 212744,
       "name": "Porni Outopia",
       "url": "https://open.spotify.com/track/5pgYW8yaeXiIemY9nOBKZI"
@@ -2626,7 +2644,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 252415,
       "name": "Sta Logia Meiname",
       "url": "https://open.spotify.com/track/2hXyNWr0wVh7qoraVXOrB1"
@@ -2644,7 +2662,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 178000,
       "name": "Ta Ehoume Pei",
       "url": "https://open.spotify.com/track/3IpLlJfYV1qrJO2BvvN8lV"
@@ -2792,6 +2810,24 @@
       "duration_ms": 192499,
       "name": "Tetoia Ora Tetoia Logia",
       "url": "https://open.spotify.com/track/54nRNSRJJXH1XIJZY4H5Xm"
+    },
+    {
+      "album": {
+        "name": "Tha Grapsoume Istoria",
+        "url": "https://open.spotify.com/album/25BZDyu2Ui8GqEzWCB6EMa"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Livanis",
+          "url": "https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186442,
+      "name": "Tha Grapsoume Istoria",
+      "url": "https://open.spotify.com/track/01Yi1adIapW3den379xnF4"
     },
     {
       "album": {

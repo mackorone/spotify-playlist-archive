@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Aaron
 
-1,248 songs - 2 day 10 hr 57 min
+1,249 songs - 2 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -924,6 +924,7 @@
 | [schwarze SUVs](https://open.spotify.com/track/5hYfbAxovSsKWYRSelsAhz) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [kleine Feuer](https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa) | 2:50 | 2025-02-13 | 2025-02-15 |
 | [schwarzes wasser](https://open.spotify.com/track/4deX0Genki7bcPoxU8rNj6) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [schwarzes wasser](https://open.spotify.com/album/7FVEhgLcyFLQ9PpsFJSGZe) | 2:37 | 2023-08-17 | 2023-09-15 |
 | [schweigen uns an\_v3](https://open.spotify.com/track/3kmlBigDU4d3y9AgYghh70) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [schweigen uns an\_v3](https://open.spotify.com/album/58AmJ7bYjpsTZD0JqI0vvc) | 2:21 | 2024-09-12 | 2024-10-18 |
+| [schwerelos](https://open.spotify.com/track/6CCyFCFmXLuPms82BeZJUB) | [taal](https://open.spotify.com/artist/7njUAoCB1JJsEGHc7UoHKs) | [schwerelos](https://open.spotify.com/album/4Vrt92Pk03lHUqG3spK7Pp) | 2:30 | 2025-06-13 |  |
 | [Schwerkraft](https://open.spotify.com/track/3TltWI1lSnko4Iv1z39NRT) | [Yukno](https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl), [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [Schwerkraft](https://open.spotify.com/album/1N61M4kkQw7z2ZlpA2ExgY) | 3:10 | 2023-02-16 | 2023-03-03 |
 | [schwimmen](https://open.spotify.com/track/7CiDxMIqpDYsfH1hmmzzcy) | [Sant](https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u) | [schwimmen](https://open.spotify.com/album/2SsGlmFmLcYeSeivguZRfb) | 2:01 | 2024-02-13 | 2024-02-16 |
 | [Schäme mich](https://open.spotify.com/track/3Fn0gSvkvevwgmkPWg7pIh) | [JUDI&COCHO](https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya) | [Schäme mich](https://open.spotify.com/album/7MOrMurp6kaOOrSqvtwftP) | 3:16 | 2024-02-29 | 2024-04-26 |

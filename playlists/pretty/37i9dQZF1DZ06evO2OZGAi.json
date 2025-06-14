@@ -1,12 +1,12 @@
 {
   "description": "This is Am\u00e9n. The essential tracks, all in one playlist.",
-  "num_followers": 6804,
+  "num_followers": 6805,
   "original_name": "This Is Am\u00e9n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEjHAAAAAAC6dEUDD+pHjcNR+q8O+0oc",
+  "snapshot_id": "aEoYgAAAAADN2FYdupMT9P3e7mWFMtU2",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 184640,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/22voq3jOhXWab1TZWQmXu2"
+      "duration_ms": 177613,
+      "name": "Tal Vez Buscando",
+      "url": "https://open.spotify.com/track/2qynrrgZ6U5zxeRSoZTVSB"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 177613,
-      "name": "Tal Vez Buscando",
-      "url": "https://open.spotify.com/track/2qynrrgZ6U5zxeRSoZTVSB"
+      "duration_ms": 184640,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/22voq3jOhXWab1TZWQmXu2"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No S\u00e9 Por qu\u00e9",
-        "url": "https://open.spotify.com/album/4LygStmlXDOzwD9M4lmYzY"
+        "name": "Tiempos de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 136081,
-      "name": "No S\u00e9 Por qu\u00e9",
-      "url": "https://open.spotify.com/track/0RHl6QdPxbUASBZmNl3I1z"
+      "duration_ms": 216500,
+      "name": "Love N' Shit",
+      "url": "https://open.spotify.com/track/0kZKUPXsNPNIBd7LtVGif5"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos de Resurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
+        "name": "No S\u00e9 Por qu\u00e9",
+        "url": "https://open.spotify.com/album/4LygStmlXDOzwD9M4lmYzY"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 216500,
-      "name": "Love N' Shit",
-      "url": "https://open.spotify.com/track/0kZKUPXsNPNIBd7LtVGif5"
+      "duration_ms": 136081,
+      "name": "No S\u00e9 Por qu\u00e9",
+      "url": "https://open.spotify.com/track/0RHl6QdPxbUASBZmNl3I1z"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 193834,
-      "name": "A Nadie Le Importa",
-      "url": "https://open.spotify.com/track/3AgEcKmM0cBb2T7NYciSB4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Vida",
         "url": "https://open.spotify.com/album/79hgjBwG8Vh3r7x8FGdA9h"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 138337,
       "name": "La Vida",
       "url": "https://open.spotify.com/track/1Q69O1mL0bDyC2aA4OPDsh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2020",
+        "url": "https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 193834,
+      "name": "A Nadie Le Importa",
+      "url": "https://open.spotify.com/track/3AgEcKmM0cBb2T7NYciSB4"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Your frequency for today's pop tracks, via the south of Africa\. Cover: <a href="https://open.spotify.com/artist/2GL4xifkoDW8sxMHNbbeX7?si=eBJLnUQYTPm4YMPeLdRaaA">Mikhaela Faye</a>
 
-479 songs - 1 day 1 hr 44 min
+480 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Butterflies](https://open.spotify.com/track/69r3khPb7nN14L9j3l2CKn) | [J'Something](https://open.spotify.com/artist/2KzocSxdQrnheOMFyaCljG) | [Butterflies](https://open.spotify.com/album/0eyQoDfT4P6a7bCNXZkb1e) | 5:09 | 2025-01-23 | 2025-01-31 |
 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 | 2025-02-20 | 2025-03-21 |
 | [Cape Town](https://open.spotify.com/track/6v5Kr094kUO8lJw6y7gmv5) | [DUUV](https://open.spotify.com/artist/2Q9r0RwWrbGJEt7gEoG4tJ), [Porcelain Moon](https://open.spotify.com/artist/6bs5zCX9gJQ5nhxZ1Xu549) | [Cape Town](https://open.spotify.com/album/3gu6nt9LLSy3PjdjRpICvz) | 4:20 | 2025-01-23 | 2025-02-21 |
+| [Chameleon](https://open.spotify.com/track/1EcXdrJ3qgbgHiPR2wZyRe) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Chameleon](https://open.spotify.com/album/5ME2rABxMciklKhCnrWYaY) | 2:26 | 2025-06-13 |  |
 | [Chandelier](https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 3:36 | 2025-04-04 | 2025-05-23 |
 | [Changes](https://open.spotify.com/track/164shfHNWZWrtvi3dvVzUX) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa) | [Changes](https://open.spotify.com/album/6Sx0kUchJIpm5eh5J1HXu7) | 2:11 | 2025-04-04 | 2025-04-18 |
 | [Check](https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Check](https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW) | 2:45 | 2024-11-07 | 2024-11-16 |
@@ -250,7 +251,7 @@
 | [Love Again](https://open.spotify.com/track/4BXqE1uq1flkyYuKelC3Nd) | [Tyler SA](https://open.spotify.com/artist/0pLUgqtnFq4YiCav8LzPuy) | [Love Again](https://open.spotify.com/album/4kyzclmi2N1ng3WjSCvNlp) | 2:54 | 2024-11-28 | 2025-01-24 |
 | [Love in Real Life](https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Love in Real Life](https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ) | 2:34 | 2025-02-28 | 2025-03-21 |
 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 | 2024-06-27 | 2024-07-12 |
-| [Love You For The Last Time](https://open.spotify.com/track/7xeY0WXLWcebchy7pb6IJW) | [Craig Lucas](https://open.spotify.com/artist/7y1jmIY6xeYivxNTNbyrZJ) | [Love You For The Last Time](https://open.spotify.com/album/10UESJ67El3w6g3eH53f7L) | 3:05 | 2025-04-24 |  |
+| [Love You For The Last Time](https://open.spotify.com/track/7xeY0WXLWcebchy7pb6IJW) | [Craig Lucas](https://open.spotify.com/artist/7y1jmIY6xeYivxNTNbyrZJ) | [Love You For The Last Time](https://open.spotify.com/album/10UESJ67El3w6g3eH53f7L) | 3:05 | 2025-04-24 | 2025-06-14 |
 | [Loveblood](https://open.spotify.com/track/4qjKjPZfxf4Q92aZOCcMRh) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [Loveblood](https://open.spotify.com/album/5rf7gkVuKOBk052oJKoF9p) | 3:49 | 2024-11-15 | 2025-01-24 |
 | [lovely \(with Khalid\)](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [lovely \(with Khalid\)](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) | 3:20 | 2025-02-06 | 2025-03-14 |
 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 | 2025-03-20 | 2025-04-04 |

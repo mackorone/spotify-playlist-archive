@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 47271,
+  "num_followers": 47310,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEjHAAAAAAC+DYT/B/HR+CDpP/Z/15pf",
+  "snapshot_id": "aEoYgAAAAADkW9kzsPS8ZrzUiTtAdkLL",
   "tracks": [
     {
       "added_at": null,
@@ -487,18 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home State",
-        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
+        "name": "Life Is A Highway: Refueled Duets",
+        "url": "https://open.spotify.com/album/7w0pDDXQFZSULKDhzuH46M"
       },
       "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        },
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 210687,
-      "name": "Leaving New Orleans",
-      "url": "https://open.spotify.com/track/4CZ0nzD7AsWeSEElxKodqq"
+      "duration_ms": 199733,
+      "name": "Yours If You Want It",
+      "url": "https://open.spotify.com/track/3dhOpqqd9x7Rl0aL0eDzqW"
     },
     {
       "added_at": null,
@@ -515,6 +519,22 @@
       "duration_ms": 169346,
       "name": "Short Fuse",
       "url": "https://open.spotify.com/track/5CIliLPf7eZTas08EoDXoU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home State",
+        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 210687,
+      "name": "Leaving New Orleans",
+      "url": "https://open.spotify.com/track/4CZ0nzD7AsWeSEElxKodqq"
     },
     {
       "added_at": null,
@@ -551,26 +571,6 @@
       "duration_ms": 203432,
       "name": "Good News Sold",
       "url": "https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life Is A Highway: Refueled Duets",
-        "url": "https://open.spotify.com/album/7w0pDDXQFZSULKDhzuH46M"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        },
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "Yours If You Want It",
-      "url": "https://open.spotify.com/track/3dhOpqqd9x7Rl0aL0eDzqW"
     },
     {
       "added_at": null,

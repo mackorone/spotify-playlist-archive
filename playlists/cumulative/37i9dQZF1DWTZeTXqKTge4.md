@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: White\-B
+> Le meilleur du hip\-hop québécois\. Photo: Fléau Dicaprio
 
-809 songs - 1 day 17 hr 12 min
+810 songs - 1 day 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [BIG BUSINESS](https://open.spotify.com/track/6hul4BXqmAW1YLde5XT37t) | [Remastered](https://open.spotify.com/artist/6uvSVi5xnoa5UyD4E5Ik7r), [Baby Neelou](https://open.spotify.com/artist/5bpO0XTVIGNUnClzfHHQUz), [Rosalvo](https://open.spotify.com/artist/6AWsl1xDv2sVXnWjBPgR7q) | [BIG BUSINESS](https://open.spotify.com/album/3ruYrP0e2e5ePa88Yy980D) | 2:24 | 2024-11-08 | 2024-11-16 |
 | [Big Fax](https://open.spotify.com/track/2NWg71pvlmO2Md4NGNiY1p) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX) | [Vulgaire démonstration d'ignorance](https://open.spotify.com/album/4mCOFo6pAAnmNnPeILWhd0) | 3:59 | 2022-01-07 | 2022-04-02 |
 | [Big Pharma](https://open.spotify.com/track/2HhKYAgFjRf63cXqSMMr5w) | [Yes\*](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS), [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj), [Prinzly](https://open.spotify.com/artist/6CecCbMlZKpr8sovW5ucq1) | [Club des Coeurs Solitaires](https://open.spotify.com/album/1D3Pv7udHK5UQ8OTj748qo) | 4:35 | 2023-11-24 | 2024-07-06 |
-| [Big Wop](https://open.spotify.com/track/3T5InY7wLZTcZi64wtQwrc) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Big Wop](https://open.spotify.com/album/5tIUGhDgouDAJzJCb2ZOVz) | 1:38 | 2025-05-30 |  |
+| [Big Wop](https://open.spotify.com/track/3T5InY7wLZTcZi64wtQwrc) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Big Wop](https://open.spotify.com/album/5tIUGhDgouDAJzJCb2ZOVz) | 1:38 | 2025-05-30 | 2025-06-14 |
 | [Billie](https://open.spotify.com/track/0AKpIDr4aCRTQY8ebSlbes) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Billie](https://open.spotify.com/album/2sorTEePV03yWplyfjgs8e) | 2:42 | 2022-12-23 | 2023-10-28 |
 | [Bisou Létal](https://open.spotify.com/track/2fuTXUbb2qC4j2Gzn5bNM0) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [CHROME](https://open.spotify.com/album/4MDZ6yaBI8zprg0toiVi2V) | 4:03 | 2023-11-03 | 2023-11-13 |
 | [Bisou Létal](https://open.spotify.com/track/6BEh9v8ZJlJKynsT79FWhP) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [Bisou Létal](https://open.spotify.com/album/58RPzzvZJu8GS6FKyrkvNm) | 4:03 | 2022-12-02 | 2023-02-25 |
@@ -494,6 +494,7 @@
 | [Moi Qu'on Regarde](https://open.spotify.com/track/17EdUU3rXnRKBl629gSiBy) | [Zach Scott](https://open.spotify.com/artist/0x1BXAAWrf873stnf7Iszw), [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Moi Qu'on Regarde](https://open.spotify.com/album/5JQbEbOZv82n0FH7kafJBU) | 2:30 | 2024-07-05 | 2024-07-19 |
 | [Moishes Riopelle](https://open.spotify.com/track/0YWWxtubocRe3nb4tXuDDw) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX) | [Moishes Riopelle](https://open.spotify.com/album/7j6awHL3LmU5vyS4xjSNsB) | 3:52 | 2024-04-12 | 2024-06-01 |
 | [Moitié plein](https://open.spotify.com/track/15tb8Of2C5NujvAYSWyXao) | [Mantisse](https://open.spotify.com/artist/20iPdUZMRpNULtRfv9mJP7) | [Colin\-Maillard](https://open.spotify.com/album/3ndgfqyim4BNv0ATiLLQ7b) | 3:15 | 2022-09-16 | 2022-11-12 |
+| [Momentum \(avec Souldia\)](https://open.spotify.com/track/0yPaNiYpfVSGwEQJy1bJxS) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Big Wop \- Mile\-End sur la map](https://open.spotify.com/album/6TQ4f72JT76m1WABOYTOZr) | 3:17 | 2025-06-13 |  |
 | [Mon barbier](https://open.spotify.com/track/4RgTeFUhjfpx1jdWkykmUY) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Mon barbier](https://open.spotify.com/album/6k5pHlGIzqimz199lXjrx1) | 3:06 | 2024-07-19 | 2024-09-07 |
 | [Mon Canon](https://open.spotify.com/track/5SKHYFOQXcLfuh2z1mc2Ck) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Mon Canon](https://open.spotify.com/album/04H677dyIFAcFLyTogZnmo) | 2:46 | 2022-07-08 | 2022-10-01 |
 | [Mon Chaw](https://open.spotify.com/track/5TOn3TDdaQhx9MAFJsw2dx) | [Doug & Jeff](https://open.spotify.com/artist/4emZH10SLlSZFIzVnot3q7) | [Mon Chaw](https://open.spotify.com/album/6LH15PDdq6yI8Mbfr2KlCl) | 2:29 | 2022-08-26 | 2023-01-21 |

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,003 songs - 2 day 8 hr 25 min
+1,004 songs - 2 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Brighter Days](https://open.spotify.com/track/6C78ngoYTzfrg3MTHsIj3V) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ), [Zack Martino](https://open.spotify.com/artist/2US2mjK9hW7QGSBNpprlbu) | [Brighter Days](https://open.spotify.com/album/56IRKHg9FgiNgYyrvIUjTS) | 3:14 | 2024-08-08 | 2024-11-01 |
 | [Bring It On](https://open.spotify.com/track/2PktA4OszTJ9OAy6YSZ3kn) | [Mr\. Bill](https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB), [COPYCATT](https://open.spotify.com/artist/5XmObiDv74Etc9tJFMRtC4), [Def3](https://open.spotify.com/artist/6kqN8RoL2VpRM8EgGwHiHG) | [Mechanomorphic](https://open.spotify.com/album/3YSCEubpM4QyBWIMc2fU0w) | 2:29 | 2024-04-12 | 2024-07-03 |
 | [Bring Me Back](https://open.spotify.com/track/6Bw3VVF2X0YmZWYPl8wE44) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Bring Me Back](https://open.spotify.com/album/2O9vrpCCTCKdgd6eMGjm8h) | 3:33 | 2022-11-28 | 2023-02-23 |
+| [BRING THE PAIN](https://open.spotify.com/track/7nONHlO1Mb3lKv4DAouhxV) | [DJ DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [LAYZ](https://open.spotify.com/artist/2ozQcs5XxFaj5fvA02zhwo), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [BRING THE PAIN](https://open.spotify.com/album/4qakMhyffJ12zn4qGHSrjR) | 2:32 | 2025-06-13 |  |
 | [bRuh](https://open.spotify.com/track/2f4ttDUMOkMFiIT94FVllM) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [bRuh](https://open.spotify.com/album/2nhPb5JkxfN832oqThgYDv) | 2:27 | 2025-04-04 |  |
 | [Brushes](https://open.spotify.com/track/7sYIVXdHSk466cayCTwAgt) | [Woven](https://open.spotify.com/artist/4NSmulp0hBy5rJyK0doyUO) | [Brushes](https://open.spotify.com/album/1VbJtajKClF79HRsb7O5Lv) | 3:53 | 2023-02-03 | 2023-04-25 |
 | [Buckshots](https://open.spotify.com/track/7cl3BbyjU0AdCbbsf1lIx8) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Buckshots](https://open.spotify.com/album/4ZsDomkJqxfKQcH25O0XyK) | 4:11 | 2023-09-14 | 2024-01-11 |

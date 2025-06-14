@@ -4,30 +4,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Benjamin Amaru, KANTEREIT
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,213 likes - 89 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,703 likes - 90 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [the fool](https://open.spotify.com/track/0BpWDZ3EcHhOvw89ANh6M9) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp), [KANTEREIT](https://open.spotify.com/artist/1esFaOBWejURSnt8DV8jms) | [the fool](https://open.spotify.com/album/64gKsWIFo3hQQJWxuKHzxI) | 2:52 |
-| 2 | [What You Want Is Gone](https://open.spotify.com/track/0Yt9WXcADgTM2Qgx97QN0X) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [What You Want Is Gone](https://open.spotify.com/album/56yse2T5EbrsRVs6KHK977) | 3:46 |
-| 3 | [Sea](https://open.spotify.com/track/0y6CjIO3KhNadtXv1s6RyM) | [When Saints Go Machine](https://open.spotify.com/artist/0E7PsXA3qAN3NCycrWDFaf) | [Sea](https://open.spotify.com/album/4YkJuW84JRdQ5jA9ehf8ic) | 3:32 |
-| 4 | [a man like me](https://open.spotify.com/track/0YwZFFUKDFPhd0ywGUzH7o) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [a man like me / bomb detonator](https://open.spotify.com/album/10q6MmQPi7gX1Ar53FQ2da) | 2:40 |
-| 5 | [Everybody Laughs](https://open.spotify.com/track/1gbFItwP8tng1ZeXoqh0eS) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [Everybody Laughs](https://open.spotify.com/album/07UWuNYU2qSx5QMSJsNtkL) | 3:48 |
-| 6 | [Letter To The Editor](https://open.spotify.com/track/3KuIF2KOosGKAcFMEhvpAc) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Letter To The Editor](https://open.spotify.com/album/57SkR3tCeZlq53f0zHlgIf) | 3:13 |
-| 7 | [Good Time Crew](https://open.spotify.com/track/7lPVBdfowmise7c0YD7j54) | [Kakkmaddafakka](https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9) | [Good Time Crew](https://open.spotify.com/album/0KVF5twq76VgJmZvzjaLXt) | 3:36 |
-| 8 | [Body Options](https://open.spotify.com/track/6rVDMIPACsAlkrFFZzOX3Q) | [Laura Lee & the Jettes](https://open.spotify.com/artist/4727cuqI1mSh8LKNSjG6xr) | [Body Options](https://open.spotify.com/album/0l27667k0iwQQsynf4PCJp) | 4:22 |
-| 9 | [The Last of England](https://open.spotify.com/track/3d3DUxwOmgV69k0vBVhEQK) | [Patrick Wolf](https://open.spotify.com/artist/6s92YZUPkTK1HL1WIGrPKE) | [The Last of England](https://open.spotify.com/album/7p0FbtxHuCyMWvJFclTsFy) | 4:09 |
-| 10 | [Let Me Take You](https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Let Me Take You](https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ) | 3:09 |
-| 11 | [My Baby \(Got Nothing At All\) \(Materialists Original Soundtrack\)](https://open.spotify.com/track/6P0bG1wDbLvs8kNJV4hQUt) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [My Baby \(Got Nothing At All\) \(Materialists Original Soundtrack\)](https://open.spotify.com/album/5ykmfDC5Y89gnzQYE8oPIu) | 4:02 |
-| 12 | [Cloud 9](https://open.spotify.com/track/7j8cb81XleLLI0EgZrC8IY) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Cloud 9](https://open.spotify.com/album/5TeElTBJp322uhxfCCKayC) | 4:47 |
-| 13 | [Father's Eyes](https://open.spotify.com/track/1V15tZkLdDesXoxWkQNuaq) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Camino](https://open.spotify.com/album/3J8AW6HEFHgkMiENHCLB6P) | 3:02 |
-| 14 | [My Love](https://open.spotify.com/track/4XM4c3zMS0orMhblnrZwnS) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [My Love](https://open.spotify.com/album/4Flne5uLAm16EoUCf2DgDt) | 2:44 |
-| 15 | [Your Power](https://open.spotify.com/track/205BaVO0CN1jbaJ4cYeOkg) | [MOREA](https://open.spotify.com/artist/71vEm5zDEAUJNjlShIT1sX) | [Your Power](https://open.spotify.com/album/7rgZ7ZEEzcnyCcRLy9XqA8) | 4:25 |
-| 16 | [Octopus](https://open.spotify.com/track/0pVpC76WeTc6QOygDlzNfg) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Octopus](https://open.spotify.com/album/0IofvQF6ujuHivy1FVA0aV) | 2:59 |
-| 17 | [Into My Arms](https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Covers](https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su) | 4:35 |
-| 18 | [West Hollywood](https://open.spotify.com/track/2J7Tqie80dSegL9QKdBsXI) | [Tristesse](https://open.spotify.com/artist/4Yqf56U0faf6GElLDbmodd) | [West Hollywood](https://open.spotify.com/album/7xzomWjvgqH6JqoWJBmUCA) | 2:30 |
-| 19 | [149](https://open.spotify.com/track/2IuIgcXrJoxcJwgOIA57cY) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [149](https://open.spotify.com/album/2i36YYbumEwDEY5jtmLUW6) | 2:30 |
-| 20 | [Wynona](https://open.spotify.com/track/42vfXblTpbucg82A9lRhjM) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [This One's On The House](https://open.spotify.com/album/71ilqLbb5gDqfinSIDDiyQ) | 3:18 |
+| 2 | [Sea](https://open.spotify.com/track/0y6CjIO3KhNadtXv1s6RyM) | [When Saints Go Machine](https://open.spotify.com/artist/0E7PsXA3qAN3NCycrWDFaf) | [Sea](https://open.spotify.com/album/4YkJuW84JRdQ5jA9ehf8ic) | 3:32 |
+| 3 | [a man like me](https://open.spotify.com/track/0YwZFFUKDFPhd0ywGUzH7o) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [a man like me / bomb detonator](https://open.spotify.com/album/10q6MmQPi7gX1Ar53FQ2da) | 2:40 |
+| 4 | [Everybody Laughs](https://open.spotify.com/track/1gbFItwP8tng1ZeXoqh0eS) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [Everybody Laughs](https://open.spotify.com/album/07UWuNYU2qSx5QMSJsNtkL) | 3:48 |
+| 5 | [Letter To The Editor](https://open.spotify.com/track/3KuIF2KOosGKAcFMEhvpAc) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Letter To The Editor](https://open.spotify.com/album/57SkR3tCeZlq53f0zHlgIf) | 3:13 |
+| 6 | [Good Time Crew](https://open.spotify.com/track/7lPVBdfowmise7c0YD7j54) | [Kakkmaddafakka](https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9) | [Good Time Crew](https://open.spotify.com/album/0KVF5twq76VgJmZvzjaLXt) | 3:36 |
+| 7 | [Body Options](https://open.spotify.com/track/6rVDMIPACsAlkrFFZzOX3Q) | [Laura Lee & the Jettes](https://open.spotify.com/artist/4727cuqI1mSh8LKNSjG6xr) | [Body Options](https://open.spotify.com/album/0l27667k0iwQQsynf4PCJp) | 4:22 |
+| 8 | [The Last of England](https://open.spotify.com/track/3d3DUxwOmgV69k0vBVhEQK) | [Patrick Wolf](https://open.spotify.com/artist/6s92YZUPkTK1HL1WIGrPKE) | [The Last of England](https://open.spotify.com/album/7p0FbtxHuCyMWvJFclTsFy) | 4:09 |
+| 9 | [Let Me Take You](https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Let Me Take You](https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ) | 3:09 |
+| 10 | [My Baby \(Got Nothing At All\) \(Materialists Original Soundtrack\)](https://open.spotify.com/track/6P0bG1wDbLvs8kNJV4hQUt) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [My Baby \(Got Nothing At All\) \(Materialists Original Soundtrack\)](https://open.spotify.com/album/5ykmfDC5Y89gnzQYE8oPIu) | 4:02 |
+| 11 | [Cloud 9](https://open.spotify.com/track/7j8cb81XleLLI0EgZrC8IY) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Cloud 9](https://open.spotify.com/album/5TeElTBJp322uhxfCCKayC) | 4:47 |
+| 12 | [Father's Eyes](https://open.spotify.com/track/1V15tZkLdDesXoxWkQNuaq) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Camino](https://open.spotify.com/album/3J8AW6HEFHgkMiENHCLB6P) | 3:02 |
+| 13 | [My Love](https://open.spotify.com/track/4XM4c3zMS0orMhblnrZwnS) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [My Love](https://open.spotify.com/album/4Flne5uLAm16EoUCf2DgDt) | 2:44 |
+| 14 | [Your Power](https://open.spotify.com/track/205BaVO0CN1jbaJ4cYeOkg) | [MOREA](https://open.spotify.com/artist/71vEm5zDEAUJNjlShIT1sX) | [Your Power](https://open.spotify.com/album/7rgZ7ZEEzcnyCcRLy9XqA8) | 4:25 |
+| 15 | [Octopus](https://open.spotify.com/track/0pVpC76WeTc6QOygDlzNfg) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Octopus](https://open.spotify.com/album/0IofvQF6ujuHivy1FVA0aV) | 2:59 |
+| 16 | [Into My Arms](https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Covers](https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su) | 4:35 |
+| 17 | [West Hollywood](https://open.spotify.com/track/2J7Tqie80dSegL9QKdBsXI) | [Tristesse](https://open.spotify.com/artist/4Yqf56U0faf6GElLDbmodd) | [West Hollywood](https://open.spotify.com/album/7xzomWjvgqH6JqoWJBmUCA) | 2:30 |
+| 18 | [149](https://open.spotify.com/track/2IuIgcXrJoxcJwgOIA57cY) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [149](https://open.spotify.com/album/2i36YYbumEwDEY5jtmLUW6) | 2:30 |
+| 19 | [Wynona](https://open.spotify.com/track/42vfXblTpbucg82A9lRhjM) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [This One's On The House](https://open.spotify.com/album/71ilqLbb5gDqfinSIDDiyQ) | 3:18 |
+| 20 | [Summer Sun](https://open.spotify.com/track/1mNk9RnzlfdVEVLLluiMZm) | [ERNIE](https://open.spotify.com/artist/3nXSj676JUEKFxfACHmC9J) | [Summer Sun](https://open.spotify.com/album/6o820NjMLQpqa07FVHCabG) | 3:09 |
 | 21 | [Clueless](https://open.spotify.com/track/2bsiDxQonfYNIcJ2faJe2m) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [Clueless](https://open.spotify.com/album/1VnIfFTk8ToPSxZ7m4MNho) | 2:56 |
 | 22 | [Makes Me Wanna Dance](https://open.spotify.com/track/0wLCc3EWV2CV6mb9Nz40hH) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Makes Me Wanna Dance](https://open.spotify.com/album/493Cvff5YSUUvYkYqdSj8g) | 2:41 |
 | 23 | [Silver Spoons](https://open.spotify.com/track/4TUuuk5ZIiUmQX6t97TfQU) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [uLu Selects Vol \#2](https://open.spotify.com/album/15n8xK2AZfb9S0X1M2IKcY) | 3:26 |
@@ -97,5 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 87 | [Half A World Away](https://open.spotify.com/track/38bhJA3cZk1SSTSYfokY5X) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Début](https://open.spotify.com/album/5GU3MLRne1jD18iKcoutfW) | 2:38 |
 | 88 | [JAZZ FLUTE](https://open.spotify.com/track/0DXNMyPVEUylRYrFJhSfEE) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [JAZZ FLUTE](https://open.spotify.com/album/3OqpNAnsSVuGyISQZoimtQ) | 2:27 |
 | 89 | [Wolf River](https://open.spotify.com/track/5XyN4ThYy7yLPol7FEGRty) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Wolf River](https://open.spotify.com/album/134mZBbvgtMVVdxG1BItmx) | 3:41 |
+| 90 | [Passion](https://open.spotify.com/track/6DD3DloL8AvZCI64707q5F) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Passion](https://open.spotify.com/album/49Lan6ZyZ9eqn7e9NV5hxK) | 3:07 |
 
-Snapshot ID: `aEtODgAAAABue4f++i15wrongN2FWwWv`
+Snapshot ID: `aEvINAAAAAC8ixFx5f+Eqv3tNl8Lb0XR`

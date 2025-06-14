@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Lil Tecca
 
-1,197 songs - 2 day 12 hr 21 min
+1,198 songs - 2 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1174,6 +1174,7 @@
 | [Woes of The World](https://open.spotify.com/track/28swS5VUlel9BLsOmgcuxj) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH) | [Woes of The World](https://open.spotify.com/album/43uK8F7gVuMUJLUUeP1hdR) | 3:31 | 2025-02-06 | 2025-02-14 |
 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 | 2024-05-28 | 2024-08-24 |
 | [WOKE UP REMIXX \[PROD BY JAKOPS\] \(FEAT\. Jay Park, OZworld, AKLO, Paloalto, VERBAL, Awich, Tak, Dok2\)](https://open.spotify.com/track/2x00igEgoS1m2sztmOfBgs) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [JAKOPS](https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [VERBAL](https://open.spotify.com/artist/15AoeHPWryzqVsycKzmsWA), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Tak](https://open.spotify.com/artist/2O3ohFsX5yEGY5FYJqp16q), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [WOKE UP REMIXX \(PROD BY JAKOPS\)](https://open.spotify.com/album/0eQOMLTDAun9s1Qd8mvQvB) | 6:19 | 2024-09-20 | 2024-12-07 |
+| [Won't Stop](https://open.spotify.com/track/4ugKUZExbqbkKXEmbTrTRW) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Won't Stop](https://open.spotify.com/album/1TRulQDa3GYTurukQ91HGB) | 3:01 | 2025-06-12 |  |
 | [WOO \[Feat\. PlayThatBoiZay, Chief Pound\]](https://open.spotify.com/track/4RjLOOdis03Tfu8rpcnUBu) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM), [Chief Pound](https://open.spotify.com/artist/6LaTLiY08GpquuOk8433Wb) | [SKED \[Feat\. Kenny Mason\]](https://open.spotify.com/album/3ECd3BfxdM6KTjoYpITN0R) | 3:01 | 2023-10-06 | 2023-11-11 |
 | [WORK OF ART \(feat\. Jaden\)](https://open.spotify.com/track/1c2qoYVi2LBQWDN2tp9v5S) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [WORK OF ART \(feat\. Jaden\)](https://open.spotify.com/album/7siF6s5KBVuJJUydAo7WgL) | 3:24 | 2024-07-25 | 2024-09-13 |
 | [WTF \(feat\. Nicki Minaj\)](https://open.spotify.com/track/35NkPKSmtu6lCht95nukpr) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [WTF \(feat\. Nicki Minaj\)](https://open.spotify.com/album/42wum3mrRoMbV9QoZqpIZK) | 2:40 | 2023-04-07 | 2023-06-23 |

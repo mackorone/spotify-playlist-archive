@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 안다영\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-967 songs - 2 day 10 hr 56 min
+968 songs - 2 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -621,7 +621,7 @@
 | [Photograph 사진첩](https://open.spotify.com/track/0NH2J0S8HK56jq5YUwVL22) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Photograph 사진첩](https://open.spotify.com/album/6zdxKx3yMTontzE3Mfg8oc) | 4:14 | 2021-12-21 | 2022-06-05 |
 | [Picture](https://open.spotify.com/track/56oE2VjbGEgGSiBk1keP5d) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Picture](https://open.spotify.com/album/7IIlgeMAaSxO2JwhetHFMf) | 4:11 | 2022-04-12 | 2022-04-19 |
 | [Piscis](https://open.spotify.com/track/3Mp0lsOnz9Srf6zW3EntnF) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [The Oddscape](https://open.spotify.com/album/7wfohCLnRXfhaZUXIOstum) | 4:05 | 2024-11-29 | 2025-01-31 |
-| [Pixels](https://open.spotify.com/track/5YBTucTtGmiXiRATFlW0Nz) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Pixels](https://open.spotify.com/album/3DiqMTkQMuCrjo9Cf8Oq9d) | 4:08 | 2025-05-28 |  |
+| [Pixels](https://open.spotify.com/track/5YBTucTtGmiXiRATFlW0Nz) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Pixels](https://open.spotify.com/album/3DiqMTkQMuCrjo9Cf8Oq9d) | 4:08 | 2025-05-28 | 2025-06-14 |
 | [Play With Me!](https://open.spotify.com/track/4CmF4iIoV7Wafddq0M0Ni7) | [Jisokury](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Play With Me!](https://open.spotify.com/album/1LAmZS4Qhapw80O54zH8Ib) | 3:55 | 2022-03-09 | 2022-04-03 |
 | [Playing Guitar 기타를 치며](https://open.spotify.com/track/2orUiubkXn0WUhosdNvKIr) | [Mineri](https://open.spotify.com/artist/248cYeF1SitJc42qGZ8QUi) | [Playing Guitar 기타를 치며](https://open.spotify.com/album/6YmxeaHHfdWGOeH64rW6zN) | 3:33 | 2022-03-31 | 2022-04-05 |
 | [PLAYLIST](https://open.spotify.com/track/12kMpvtjefa3ocd8BOj3k9) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [PLAYLIST](https://open.spotify.com/album/49v8k8cmufM9Lhz4TkrpcI) | 3:54 | 2022-07-08 | 2022-08-05 |
@@ -725,6 +725,7 @@
 | [snap snap snap \(\#001\_side a\)](https://open.spotify.com/track/0fDi32kFdHYXkdTgnPXS9U) | [DAMYE](https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR) | [snap snap snap \(\#001\_side a\)](https://open.spotify.com/album/2us6DVgvvpbxwvw3jBxBzk) | 2:37 | 2022-03-31 | 2022-05-26 |
 | [Snooze](https://open.spotify.com/track/6YBR8tsZZjbZRATuFPNPVu) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [co](https://open.spotify.com/album/48z6zKbAYLyrUjawzSnCwM) | 2:12 | 2021-12-12 | 2022-07-24 |
 | [Snow in Seoul](https://open.spotify.com/track/2k9Jahbon5h8gVHHgoetNI) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Benaddict](https://open.spotify.com/artist/3hg1nO3FOk4vcE4DeundPz) | [Snow in Seoul](https://open.spotify.com/album/1XbTgdcRQ4ss531LtZdXX7) | 4:29 | 2021-12-21 | 2022-07-28 |
+| [Snowborn](https://open.spotify.com/track/0ceFVr2rbxgwLvdJRD7MfE) | [Saebit](https://open.spotify.com/artist/3Ry1kQJLsbsMJi5W2p27IX) | [Snowborn](https://open.spotify.com/album/4YoqPeAfWSjXBqntTzoO6k) | 3:36 | 2025-06-13 |  |
 | [snowman](https://open.spotify.com/track/2lOZ5ha2t7YBf3tKRvd0aC) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [snowman](https://open.spotify.com/album/6QJktjy7f9BcLYVHIO1Mud) | 3:35 | 2024-11-20 | 2025-01-31 |
 | [So life goes on](https://open.spotify.com/track/046Gh1kXtPynYPaKep5M8E) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [So life goes on](https://open.spotify.com/album/3r8ikIUe63N5vhmqzqzi36) | 3:14 | 2024-07-01 |  |
 | [So long](https://open.spotify.com/track/5orCdrOWNdA0K8SIFZCKfw) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ) | [So long](https://open.spotify.com/album/7zHSAqsvCJw7uTWyPJbwCM) | 5:00 | 2024-04-30 | 2024-05-10 |

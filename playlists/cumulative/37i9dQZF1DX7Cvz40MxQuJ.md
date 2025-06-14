@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7Cvz40MxQuJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7Cvz40MxQuJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7Cvz40MxQuJ)
 
-### [castlecore](https://open.spotify.com/playlist/37i9dQZF1DX7Cvz40MxQuJ)
+### [reading in a castle](https://open.spotify.com/playlist/37i9dQZF1DX7Cvz40MxQuJ)
 
-> It’s giving lantern\-lit banquets, medieval courts and knights in shining armour✨
+> it’s giving medieval castlecore✨
 
-70 songs - 3 hr 41 min
+71 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Lisa Lân \(Arr\. Huws for Harp\)](https://open.spotify.com/track/53DrPPynaJwQyz4EZiI4aM) | [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S) | [Lisa Lân \(Arr\. Huws for Harp\)](https://open.spotify.com/album/1k8SsRwgXOxrH4W45eDpv9) | 2:02 | 2025-04-11 |  |
 | [Main Title](https://open.spotify.com/track/2q6fxAvSpqXR4jx9Ne7RGz) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 1:46 | 2025-01-10 |  |
 | [Methodical Sonata No\. 1 in G Minor, TWV 41:g3: III\. Grave \- Transposed up to C Minor for Alto Recorder](https://open.spotify.com/track/2HnKWdFLfvaBtNpKxRILFt) | [Georg Philipp Telemann](https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj), [João Francisco Távora](https://open.spotify.com/artist/69bISWBI0JqTMKD4DlrgjV), [Helder Sousa](https://open.spotify.com/artist/4CUbGA8jYxBXw46YtVVMJ0), [Xurxo Varela](https://open.spotify.com/artist/5tBQtgFIN1wQzHxq6xV2pq) | [Methodical Sonata No\. 1 in G Minor, TWV 41:g3: III\. Grave \(Transposed up to C Minor for Alto Recorder\)](https://open.spotify.com/album/2lqrJIon2HNHu52dKNFX0J) | 2:07 | 2025-03-21 |  |
+| [Minuet in G Minor, HWV 434/4 \(Arr\. for Harp & Piano by Jan\-Peter Klöpfel\)](https://open.spotify.com/track/6n1X3QiRDg8CAYvK5N2S9Q) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Xavier De Maistre](https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp), [Julien Quentin](https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR) | [Minuet in G Minor, HWV 434/4 \(Arr\. for Harp & Piano by Jan\-Peter Klöpfel\)](https://open.spotify.com/album/29pJy0Ug8Kpd14lqmnkDXm) | 2:43 | 2025-06-13 |  |
 | [Missa l'homme armé sexti toni: V\. Agnus Dei](https://open.spotify.com/track/72XXocG2Q2Vpsx8YCA8j3N) | [Josquin des Prez](https://open.spotify.com/artist/31f23hmZawdqgp0sECAzE8), [A Sei Voci](https://open.spotify.com/artist/1MLIqgEgZSgEMBsqMSTzCs), [Bernard Fabre\-Garrus](https://open.spotify.com/artist/1p7QjeVuQt2xGw6uNNb86J), [Maîtrise des Pays de Loire](https://open.spotify.com/artist/6YmWUXdLyVUuWNuhn8S1hl) | [Josquin Desprez, Vol\. 2](https://open.spotify.com/album/2yrXEuRmuZz83kt06pLJjN) | 7:00 | 2025-03-04 |  |
 | [Mister Dowland’s Midnight](https://open.spotify.com/track/6oyvwz9cXEDdaQYTrxLLiP) | [John Dowland](https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk), [Christoph Denoth](https://open.spotify.com/artist/4mROVpgaeFTNmKG7dpsg8B) | [Mister Dowland's Midnight](https://open.spotify.com/album/57ywLala59SjhhaFuqHiNd) | 2:26 | 2025-01-10 |  |
 | [Misty Mountains](https://open.spotify.com/track/4Ma4BH61aVbTpl0LMyArCy) | [Richard Armitage](https://open.spotify.com/artist/1gsIU8ayu6T5v7InWqYI2w), [The Dwarf Cast](https://open.spotify.com/artist/0jU1GFJFpeW29LAqraN7n5) | [The Hobbit: An Unexpected Journey \(Original Motion Picture Soundtrack\) \[Special Edition\]](https://open.spotify.com/album/6v6VCAaPl3G08OeNhuk6za) | 1:42 | 2025-01-13 |  |

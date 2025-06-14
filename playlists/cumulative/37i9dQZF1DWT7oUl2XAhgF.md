@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Curtis Harding
 
-515 songs - 1 day 7 hr 1 min
+517 songs - 1 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Atlas](https://open.spotify.com/track/7HDxQnqEJm7sAw6BiVH6q1) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI) | 3:47 | 2021-07-09 | 2022-07-30 |
 | [B\-Side](https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [B\-Side](https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo) | 4:34 | 2021-12-10 | 2024-07-19 |
 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 | 2021-12-10 | 2024-04-19 |
-| [Back to your Place](https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Back to your Place](https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3) | 3:22 | 2023-02-03 |  |
+| [Back to your Place](https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Back to your Place](https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3) | 3:22 | 2023-02-03 | 2025-06-14 |
 | [Bad Advice \- The Pool Sessions](https://open.spotify.com/track/7bUOeVzQrTBCE3ZMOGQz49) | [Kat Eaton](https://open.spotify.com/artist/72bPcEPylDgn0WHybYqI7P) | [Bad Advice \(The Pool Sessions\)](https://open.spotify.com/album/0XGFkBW7khe0G9uHcFLScZ) | 3:28 | 2024-09-13 |  |
 | [Baptist](https://open.spotify.com/track/44KmVlb7C8yGHkDtqOwUDT) | [Wolfgang Valbrun](https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5) | [Flawed by Design](https://open.spotify.com/album/0mTzaEzi97RqYK4VbwtQcT) | 5:02 | 2024-05-31 | 2025-01-18 |
 | [Be My Own Man](https://open.spotify.com/track/5wOthUe5Zx1FdIB9GSFvBd) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Be My Own Man](https://open.spotify.com/album/1Eboy7GftOfgKfFofBdW6O) | 3:45 | 2024-05-31 | 2025-04-26 |
@@ -217,6 +217,7 @@
 | [It Rains Love](https://open.spotify.com/track/2axJJQBO4KbFsx0Twvb8mn) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [It Rains Love](https://open.spotify.com/album/6sPPhqjKQHveRVqR6Ijf8s) | 3:55 | 2021-07-09 | 2023-01-28 |
 | [It Rains Love](https://open.spotify.com/track/2yAyJTsSnsOtbA3Qups4zV) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [It Rains Love](https://open.spotify.com/album/1iIcVvI4yb0weQpRyDo1IJ) | 3:55 | 2021-07-09 | 2022-07-29 |
 | [It's Alright \(But It Ain't The Same\)](https://open.spotify.com/track/2AdZYJjySsnRiaUTeqPfgu) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [It's Alright \(But It Ain't The Same\)](https://open.spotify.com/album/42BQQHzj4T1zSXPvzUvdPy) | 2:43 | 2024-05-24 | 2024-06-22 |
+| [It's Been Too Long \(Since I've Loved Someone\)](https://open.spotify.com/track/25Mf214vqBqOxgTgXevqZp) | [Bird and Byron](https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt) | [It's Been Too Long \(Since I've Loved Someone\)](https://open.spotify.com/album/08VCMe5xh0XERXQrtqFhnv) | 2:58 | 2025-06-13 |  |
 | [It's Gonna Be Alright](https://open.spotify.com/track/3Kjs1dtKH9D3SciHvX2zQR) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [It's Gonna Be Alright](https://open.spotify.com/album/5A9rqHvuJE8xJlWgzmWTHP) | 4:36 | 2022-07-01 | 2022-08-10 |
 | [It's Gonna Be Alright](https://open.spotify.com/track/74kOgrikSn2UQ8UptnRUxb) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [It's Gonna Be Alright](https://open.spotify.com/album/193sR0w8SGseTgMIEU6VKw) | 4:36 | 2022-07-29 | 2023-05-11 |
 | [It's Gonna Be Alright](https://open.spotify.com/track/1PmcWcWiC1qy3D4o7aZO3C) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [It’s Gonna Be Alright](https://open.spotify.com/album/4wDe4yF1Ij4lTBOsqLPxPA) | 4:37 | 2022-07-29 | 2023-05-20 |
@@ -378,13 +379,14 @@
 | [Seasons of Trouble](https://open.spotify.com/track/3zQ2VVEV6UQ9vCAaCQJDVY) | [Stereo League](https://open.spotify.com/artist/3iQV9SSzqnUEwlyqUTJLj6) | [Seasons of Trouble](https://open.spotify.com/album/3Aveciplay1UjQenjdI1HF) | 4:52 | 2022-09-09 | 2024-07-27 |
 | [Secret Place](https://open.spotify.com/track/20801Wp091hByDAPyq6pAZ) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Secret Place](https://open.spotify.com/album/0xzaHD5jiLywBetxvYyuOD) | 3:02 | 2024-01-19 |  |
 | [See It Through](https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 3:24 | 2023-05-05 | 2025-01-04 |
-| [See Me Cry](https://open.spotify.com/track/5XGbzLYiMX7Fo9IhZKWZVZ) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [See Me Cry](https://open.spotify.com/album/2CC09WRdIOsoPU0S3vCBxL) | 5:12 | 2024-06-21 |  |
+| [See Me Cry](https://open.spotify.com/track/5XGbzLYiMX7Fo9IhZKWZVZ) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [See Me Cry](https://open.spotify.com/album/2CC09WRdIOsoPU0S3vCBxL) | 5:12 | 2024-06-21 | 2025-06-14 |
 | [Self Revolution](https://open.spotify.com/track/6xq246xhPP6sxsXrMyB8en) | [Gary Beals](https://open.spotify.com/artist/5PXsenJUe92Lu12xrQfPes) | [The Melody Within](https://open.spotify.com/album/0lNVrrcLt81D6u8G6Jn3EV) | 3:14 | 2023-10-27 |  |
 | [Send It Back](https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Send It Back](https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6) | 2:53 | 2025-05-30 |  |
 | [Sentimental Fool](https://open.spotify.com/track/04JYB3xkI99dosFBeP6W5Z) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Sentimental Fool](https://open.spotify.com/album/1mvLDGAm4xagW3SX03mCNq) | 3:05 | 2022-08-19 | 2022-08-27 |
 | [Serena \- Feat\. Samm Henshaw](https://open.spotify.com/track/3M7CTl6EiNEeeoFl79GiAG) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Serena \(Feat\. Samm Henshaw\)](https://open.spotify.com/album/5L2yapDADu1ud53fW3OSti) | 3:46 | 2024-01-19 |  |
 | [Shake Shake](https://open.spotify.com/track/0RVIk3IbkIzOL9LcsMgMXs) | [LÒNIS](https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm), [Voli Contra](https://open.spotify.com/artist/6zEQ2TDkDYbJbFE4agNhFM) | [Shake Shake](https://open.spotify.com/album/7JjuXRPWiVUMZ7xudOro8B) | 2:25 | 2023-06-30 | 2023-08-26 |
 | [Sharpen Your Shovel](https://open.spotify.com/track/0PI0V4qRgLpWG5IBASbpdk) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Love Direction](https://open.spotify.com/album/6C8U1GaZoEocQR4CqvW9SK) | 2:58 | 2024-07-12 |  |
+| [Shine Delight](https://open.spotify.com/track/50WXXxu0bmhZiZFnLjMVy6) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Shine Delight](https://open.spotify.com/album/7wkzxGmvYjTwe1IVNSwU4X) | 3:38 | 2025-06-13 |  |
 | [Shinin'](https://open.spotify.com/track/7pyLO6s46ahQ7Mgl4krzU5) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Shinin'](https://open.spotify.com/album/3apdYMNCak4rL88AHYxbP4) | 2:57 | 2023-06-02 | 2024-09-07 |
 | [Show Me](https://open.spotify.com/track/78HIwSM6qwt31B17hISEDP) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Show Me](https://open.spotify.com/album/1ttykBBV3NnY9PK10pNHz4) | 3:33 | 2024-08-16 |  |
 | [Shy](https://open.spotify.com/track/407qAIie8sIEgquKD1AAd2) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:14 | 2021-07-09 | 2023-02-18 |

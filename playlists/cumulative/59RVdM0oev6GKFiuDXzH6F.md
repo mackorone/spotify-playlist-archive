@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-982 songs - 2 day 2 hr 14 min
+983 songs - 2 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Ain't No Sunshine \(feat\. Jasmine Pace\)](https://open.spotify.com/track/3jKE64Lzp4fn9ZD28Z1dBc) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Jasmine Pace](https://open.spotify.com/artist/2URbjDB65sEN3MPX3e5tCy) | [Ain't No Sunshine \(feat\. Jasmine Pace\)](https://open.spotify.com/album/6EoWcArWFprS0ORf4oixfd) | 2:47 | 2024-12-05 | 2025-03-14 |
 | [Al Perreo \- Mixed](https://open.spotify.com/track/0BN9P0UYB4PUWpRrAG9wXt) | [FNTZY](https://open.spotify.com/artist/6Tc25h7Kk6DfK9GarjiEd5) | [Al Perreo](https://open.spotify.com/album/7ylSGlus6NrY2nnKRY7kNt) | 2:31 | 2023-02-12 | 2023-08-02 |
 | [ALARMA!](https://open.spotify.com/track/1ZlSYhbijS0P7FpBJqaZRg) | [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [ALARMA!](https://open.spotify.com/album/1Bn6cmrDtGRN2Tq6hhnkvF) | 2:33 | 2023-06-16 | 2023-07-14 |
+| [Aliksir](https://open.spotify.com/track/6DBfPpflSkttJcvbBur132) | [MÜSA](https://open.spotify.com/artist/4V5dhfIbDgtoZDYVsN6mKI) | [Aliksir](https://open.spotify.com/album/2hGnnfpWjI7mMbebw2JcO8) | 2:30 | 2025-06-13 |  |
 | [Alive](https://open.spotify.com/track/4DvXwUnhmI4MuSPAEonPiL) | [Admixture](https://open.spotify.com/artist/5nqxeomhktbyJmotHLE2e1) | [Alive](https://open.spotify.com/album/7oqKGZU8HsenYTsZJQ4A3B) | 2:29 | 2024-04-22 | 2024-04-26 |
 | [All About U](https://open.spotify.com/track/1kqCF2ZDz4TLNE79MfmFVR) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3), [Marco Nobel](https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB) | [All About U](https://open.spotify.com/album/4G6sfkzJS5XDXQF2uAf2nh) | 2:24 | 2023-04-27 | 2023-05-24 |
 | [All I Want](https://open.spotify.com/track/7F5FUtBaCVY1nAaOZJtvrQ) | [MANIBA](https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx) | [All I Want](https://open.spotify.com/album/0X3adlRMme7SEyPiBa79KJ) | 2:50 | 2024-02-16 | 2024-09-26 |

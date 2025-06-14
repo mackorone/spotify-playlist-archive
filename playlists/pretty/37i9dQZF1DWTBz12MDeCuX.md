@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: BABYJOY
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,730 likes - 99 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,174 likes - 99 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 46 | [Taugenichts](https://open.spotify.com/track/2z1zvWsC4lC81bWKS5K3Vt) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [Taugenichts](https://open.spotify.com/album/4jDSGiTVA81oX1HpSDXPRl) | 2:22 |
 | 47 | [Isar](https://open.spotify.com/track/3GGRoEdpCINzqIGs9fSGZ8) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Isar](https://open.spotify.com/album/4NsVJ3lui5cPD1OGB2NBW6) | 2:30 |
 | 48 | [okaytanz](https://open.spotify.com/track/1nYkzv2l66SPWZtNXkphwr) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [okaytanz](https://open.spotify.com/album/63Tbczz1vcuNMwJhMisQKb) | 2:05 |
-| 49 | [GEH DUMM](https://open.spotify.com/track/2rNm49fhI7PY5o0d8OZA1i) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va) | [Wann Album? \(EP\)](https://open.spotify.com/album/0CpBnGRLRTfLMWdRQQMtOI) | 2:11 |
+| 49 | [GEH DUMM](https://open.spotify.com/track/2rNm49fhI7PY5o0d8OZA1i) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va), [snoid](https://open.spotify.com/artist/6UjcyqJVaoBpUlpbUjzMkT), [GX488](https://open.spotify.com/artist/2vejmZVbfJvdE4xepeUqVa) | [Wann Album? \(EP\)](https://open.spotify.com/album/0CpBnGRLRTfLMWdRQQMtOI) | 2:11 |
 | 50 | [Komm geh](https://open.spotify.com/track/28FjCSZHAII8ftoCGHcv1S) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [Therapiebericht](https://open.spotify.com/album/6HVaxkTk4BC0Izf0iSWTj3) | 3:07 |
 | 51 | [Divine](https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi) | [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT) | [Divine](https://open.spotify.com/album/7fWa9fmjRjDskIAgwYzyCI) | 2:43 |
 | 52 | [Distant Strangers \(feat\. The Kid LAROI & Imogen Heap\)](https://open.spotify.com/track/7oa9VKcTKyWIYTnaz5V6xI) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Distant Strangers \(feat\. The Kid LAROI & Imogen Heap\)](https://open.spotify.com/album/1cwp5FEVGQaKoBV1WPbIdJ) | 2:45 |

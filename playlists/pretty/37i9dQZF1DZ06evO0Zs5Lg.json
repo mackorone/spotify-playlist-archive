@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 20123,
+  "num_followers": 20144,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEjHAAAAAACuN23Uszk9trqX2jM2VFVW",
+  "snapshot_id": "aEoYgAAAAACbOmpkqdhcohJVy49ZVDDL",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pookie Baby",
-        "url": "https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 188813,
-      "name": "Andre The Giant",
-      "url": "https://open.spotify.com/track/6tiDGVC8HRYf6cdVVRCjox"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gone Fishin",
         "url": "https://open.spotify.com/album/10YR1HKDO5NoeiKgHjeDKH"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 117894,
       "name": "Gone Fishin",
       "url": "https://open.spotify.com/track/2dps4BWM4a4Tp8QNU3NWdQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pookie Baby",
+        "url": "https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "Andre The Giant",
+      "url": "https://open.spotify.com/track/6tiDGVC8HRYf6cdVVRCjox"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zoo",
-        "url": "https://open.spotify.com/album/3xgyaF318Csc2nu1xPjjlC"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 173068,
-      "name": "Zoo",
-      "url": "https://open.spotify.com/track/6GQXk4Du3qkiswJ6hUoGiW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Windows",
         "url": "https://open.spotify.com/album/7g16JXCVFnNqKH5VVOoRLK"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 213640,
       "name": "Windows",
       "url": "https://open.spotify.com/track/4ilUS5TveEEr0KFgWyYvyb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zoo",
+        "url": "https://open.spotify.com/album/3xgyaF318Csc2nu1xPjjlC"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 173068,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/6GQXk4Du3qkiswJ6hUoGiW"
     },
     {
       "added_at": null,
@@ -479,18 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liability",
-        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
+        "name": "Treat You Right",
+        "url": "https://open.spotify.com/album/2NJdKzl6B6Vu2TP4YYugue"
       },
       "artists": [
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Dizzy Wright",
+          "url": "https://open.spotify.com/artist/1LrWZc2qPhRCHyr6XtpBxq"
         }
       ],
-      "duration_ms": 257600,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/6hZwGfbZLn5i8VTPhw9nZw"
+      "duration_ms": 204000,
+      "name": "Treat You Right",
+      "url": "https://open.spotify.com/track/1FFsglwdgas5NKXkGioEcF"
     },
     {
       "added_at": null,
@@ -511,22 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Treat You Right",
-        "url": "https://open.spotify.com/album/2NJdKzl6B6Vu2TP4YYugue"
+        "name": "Liability",
+        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
       },
       "artists": [
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Dizzy Wright",
-          "url": "https://open.spotify.com/artist/1LrWZc2qPhRCHyr6XtpBxq"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Treat You Right",
-      "url": "https://open.spotify.com/track/1FFsglwdgas5NKXkGioEcF"
+      "duration_ms": 257600,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/6hZwGfbZLn5i8VTPhw9nZw"
     },
     {
       "added_at": null,
@@ -599,18 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liability",
-        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
+        "name": "Super Scary Monsters (feat. Prof)",
+        "url": "https://open.spotify.com/album/6bpPZjVaWmmodTGbu9adra"
       },
       "artists": [
+        {
+          "name": "Grieves",
+          "url": "https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE"
+        },
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Standout",
-      "url": "https://open.spotify.com/track/08rc36f68zr2bZlZXpsBcN"
+      "duration_ms": 148078,
+      "name": "Super Scary Monsters (feat. Prof)",
+      "url": "https://open.spotify.com/track/1IbqDQZm5jTt7wE6VcoPKC"
     },
     {
       "added_at": null,
@@ -635,22 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Super Scary Monsters (feat. Prof)",
-        "url": "https://open.spotify.com/album/6bpPZjVaWmmodTGbu9adra"
+        "name": "Liability",
+        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
       },
       "artists": [
-        {
-          "name": "Grieves",
-          "url": "https://open.spotify.com/artist/2ActkR0xU2ZiDhWYhijydE"
-        },
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
         }
       ],
-      "duration_ms": 148078,
-      "name": "Super Scary Monsters (feat. Prof)",
-      "url": "https://open.spotify.com/track/1IbqDQZm5jTt7wE6VcoPKC"
+      "duration_ms": 224000,
+      "name": "Standout",
+      "url": "https://open.spotify.com/track/08rc36f68zr2bZlZXpsBcN"
     },
     {
       "added_at": null,

@@ -4,11 +4,11 @@
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: Nightwish
 
-129 songs - 9 hr 41 min
+131 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [470 / 344](https://open.spotify.com/track/7qPW0GZCdyK7cKS8mIFQbi) | [Escabroso](https://open.spotify.com/artist/0kM5ZqiTCGVwxiKHAlXdDV), [isotopxs](https://open.spotify.com/artist/0jxttUCrFKmnUKaWkl9AVN) | [470 / 344](https://open.spotify.com/album/44vtwGrzny5Gu3a1uHQeuH) | 2:54 | 2024-08-30 |  |
+| [470 / 344](https://open.spotify.com/track/7qPW0GZCdyK7cKS8mIFQbi) | [Escabroso](https://open.spotify.com/artist/0kM5ZqiTCGVwxiKHAlXdDV), [isotopxs](https://open.spotify.com/artist/0jxttUCrFKmnUKaWkl9AVN) | [470 / 344](https://open.spotify.com/album/44vtwGrzny5Gu3a1uHQeuH) | 2:54 | 2024-08-30 | 2025-06-14 |
 | [A Ponte](https://open.spotify.com/track/6yg96cJGwxKU9GLmrGZsMF) | [Chuva Doce](https://open.spotify.com/artist/2Q4gXuyaPtaw7nXSrNslhf) | [A Ponte](https://open.spotify.com/album/1uRCT8pB7Gd2cndvPS4lNF) | 3:44 | 2024-08-30 |  |
 | [Abracadaver](https://open.spotify.com/track/3WstRXQ5lKNHPcjgEhaa71) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Abracadaver](https://open.spotify.com/album/3cjszEDTswcLj05wKb5iF4) | 3:41 | 2023-07-14 | 2024-08-31 |
 | [Amuleto](https://open.spotify.com/track/5p64Qzf21y0dwltwr54DIa) | [John Wayne](https://open.spotify.com/artist/0aUvfFnGgvc8ES3FrJ6Ify) | [Purgatório](https://open.spotify.com/album/3k3VAVgygl2j0hbSsppd0C) | 3:39 | 2023-07-14 |  |
@@ -18,9 +18,10 @@
 | [Born to Raise Hell \(Live at University of East Anglia, Norwich, 18th October 1998\)](https://open.spotify.com/track/7nHMMu5QIqvX783we02wIa) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Löst Tapes Vol\. 2 \(Live in Norwich, 1998\)](https://open.spotify.com/album/4PEh2b38J4LJCfc7FzhtlK) | 5:13 | 2023-11-03 | 2024-03-09 |
 | [Born to Raise Hell \- Live at University of East Anglia, Norwich, 18th October 1998](https://open.spotify.com/track/6UKz0a6V2ccLkAx8cB4ASR) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Löst Tapes, Vol\. 2 \(Live in Norwich, 1998\)](https://open.spotify.com/album/4Sp70MOzkvRxY0wdf7nsj1) | 5:13 | 2023-07-14 | 2023-11-04 |
 | [Bring It](https://open.spotify.com/track/7vEZUuh4pRvBBlXaKh8gn0) | [Hanislip](https://open.spotify.com/artist/7qK0Kc4CpKUB5biozdRI2F) | [Bring It](https://open.spotify.com/album/1QjcBrVZ4rbwS1JEehIiiM) | 4:06 | 2023-07-14 |  |
-| [BUSHIDO](https://open.spotify.com/track/5UsNUK4UJofzOp9TUewxuR) | [Bayside Kings](https://open.spotify.com/artist/1ixRGSR7pOSWqLTtbjL62p) | [\(R\)EVOLUÇÃO \#LIVREPARATODOS](https://open.spotify.com/album/34I6fic9CpfSs3wzL3MwJW) | 2:13 | 2024-10-04 |  |
+| [BUSHIDO](https://open.spotify.com/track/5UsNUK4UJofzOp9TUewxuR) | [Bayside Kings](https://open.spotify.com/artist/1ixRGSR7pOSWqLTtbjL62p) | [\(R\)EVOLUÇÃO \#LIVREPARATODOS](https://open.spotify.com/album/34I6fic9CpfSs3wzL3MwJW) | 2:13 | 2024-10-04 | 2025-06-14 |
 | [Can You Hear Me](https://open.spotify.com/track/5VXeawVov6ikGAaT0If8n9) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 2:52 | 2023-07-14 | 2024-04-19 |
 | [Can You Hear Me](https://open.spotify.com/track/77CCfbJgFZvKYpL2GY6XN9) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Can You Hear Me / Cold / You'll Never Find Me](https://open.spotify.com/album/2pV3LWeXJ6cMqNKvkzAXKf) | 2:52 | 2024-04-05 |  |
+| [Carry On \- Live](https://open.spotify.com/track/4lw6zKkbw22TkBGzZnOnTI) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y) | [Acoustic \- Live At Ópera De Arame](https://open.spotify.com/album/3twz1xikRrkechZdOIv2fF) | 5:18 | 2025-06-13 |  |
 | [Checkmate](https://open.spotify.com/track/3xu91T5DMRDq72pDQU2tfN) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/7FEBQOq6SXl4CsqR6wTTGy) | 4:30 | 2023-07-14 | 2024-04-19 |
 | [Checkmate](https://open.spotify.com/track/6q72OHGM81Zs5q5jx7YZLR) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Checkmate](https://open.spotify.com/album/21ZwUKZLdZd2RCphygzbg5) | 4:30 | 2024-04-05 |  |
 | [Cosmic Redemption \(Made in Russia\) \[Live\]](https://open.spotify.com/track/6zZgn4nETQso6sDRhk0Vo6) | [Noturnall](https://open.spotify.com/artist/7xRCuSBEiVCIJWCSIYQ7Ni) | [Cosmic Redemption \(Made in Russia\) \[Live\]](https://open.spotify.com/album/6EKAeHlIR89cddIjX336xR) | 4:22 | 2023-07-14 |  |
@@ -79,6 +80,7 @@
 | [Perfume Of The Timeless](https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Perfume Of The Timeless](https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt) | 8:12 | 2024-06-28 |  |
 | [Post Traumatic Blues](https://open.spotify.com/track/2MB80OIsIgVIQtQtXgzRNM) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [CMF2](https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt) | 5:43 | 2023-11-03 | 2024-04-19 |
 | [Post Traumatic Blues](https://open.spotify.com/track/5CC5bb5rrxisi8Mmb3prcL) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Post Traumatic Blues](https://open.spotify.com/album/1SUWFyxji7bVsbRYYi2Dni) | 5:43 | 2023-09-15 |  |
+| [Quinze Anos](https://open.spotify.com/track/1ZMptKVjYW5Jb5SVwbbADU) | [Viper](https://open.spotify.com/artist/6ywWIQgZrAOTcmA3XxGIk7) | [Quinze Anos](https://open.spotify.com/album/7r7oAGG6e08Kj6NeacfAfq) | 3:56 | 2025-06-13 |  |
 | [Repentless](https://open.spotify.com/track/65POu6kUQdR33JxwN92afX) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Repentless](https://open.spotify.com/album/4w99bkmWwryeYvw2zFYt9M) | 3:19 | 2024-04-05 |  |
 | [Repentless](https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Repentless](https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL) | 3:19 | 2023-07-14 | 2024-04-19 |
 | [Rock Believer](https://open.spotify.com/track/0CsORbIcXLBUVVlntpO7Q3) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer](https://open.spotify.com/album/1Wx6vTc4adeBbEJgQCbZV3) | 3:57 | 2023-07-14 |  |

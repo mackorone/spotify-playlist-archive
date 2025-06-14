@@ -2449,6 +2449,24 @@
     },
     {
       "album": {
+        "name": "Duas Vidas E Um Sonho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ns0ND3iEHNlmXSawzsSgz"
+      },
+      "artists": [
+        {
+          "name": "J\u00fanior e C\u00e9zar",
+          "url": "https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166826,
+      "name": "Das Duas Uma - Ao Vivo",
+      "url": "https://open.spotify.com/track/17VwiDmnGc6P1n6OqYh9TC"
+    },
+    {
+      "album": {
         "name": "Das Duas Uma (Ao Vivo)",
         "url": "https://open.spotify.com/album/2gkroX2qlcgQnOb4Z8IuF8"
       },
@@ -2460,7 +2478,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 166826,
       "name": "Das Duas Uma - Ao Vivo",
       "url": "https://open.spotify.com/track/60my4m9PH1RTxZL6UhfCsZ"
@@ -4142,10 +4160,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 174714,
       "name": "Imunidade Baixa - Ao Vivo",
       "url": "https://open.spotify.com/track/2D0qOIQrglsvrtkNKvZx48"
+    },
+    {
+      "album": {
+        "name": "Duas Vidas E Um Sonho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ns0ND3iEHNlmXSawzsSgz"
+      },
+      "artists": [
+        {
+          "name": "J\u00fanior e C\u00e9zar",
+          "url": "https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174714,
+      "name": "Imunidade Baixa - Ao Vivo",
+      "url": "https://open.spotify.com/track/77vUhk306lufu1uFaVOV5V"
     },
     {
       "album": {

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng thưởng thức và tôn vinh các tác phẩm của nữ nghệ sĩ Việt \. Ảnh bìa: Cầm
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,856 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,858 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sorry My Honey](https://open.spotify.com/track/0l1E1oeXx5G5sGfvrS2Lb8) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj), [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [SOI](https://open.spotify.com/artist/5k7DpHMuPd0D6DWKlZQGc7) | [Sorry My Honey](https://open.spotify.com/album/5wJJtnYBJRoVG20i8JLONk) | 3:33 |
+| 1 | [Sorry My Honey](https://open.spotify.com/track/0l1E1oeXx5G5sGfvrS2Lb8) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj), [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [SOI](https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P) | [Sorry My Honey](https://open.spotify.com/album/5wJJtnYBJRoVG20i8JLONk) | 3:33 |
 | 2 | [gentle, baby](https://open.spotify.com/track/6PW5zvbS8vBsEmDVqYyIfW) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [gentle, baby](https://open.spotify.com/album/3gRIUPt8tKYf3i64N8Ku73) | 3:31 |
 | 3 | [ALIVE NOW](https://open.spotify.com/track/4wnSCKdM9gaZqS9iVhM92j) | [antransax](https://open.spotify.com/artist/3E3VtUZsU5Ci439SjOdCd0), [tanny ng](https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei) | [ALIVE NOW](https://open.spotify.com/album/6ePx5HWVgxVEDcYrNW4K5m) | 3:41 |
 | 4 | [Đừng kết thúc hôm nay](https://open.spotify.com/track/3VkPKSc5HU1WPahoLOCRnj) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [Đừng kết thúc hôm nay](https://open.spotify.com/album/4h0hGD95lTVKwSjNZAvfp3) | 3:32 |

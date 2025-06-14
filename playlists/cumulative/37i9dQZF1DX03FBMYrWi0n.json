@@ -752,7 +752,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 237000,
       "name": "Chambre d'\u00e9cho",
       "url": "https://open.spotify.com/track/3K39UcTMhkLDzMJCWR1Fo5"
@@ -2358,6 +2358,24 @@
       "duration_ms": 232315,
       "name": "Liszt-o-mania",
       "url": "https://open.spotify.com/track/0LDmsCvLrGpfG9SAbowV48"
+    },
+    {
+      "album": {
+        "name": "longue nuit / grande maison",
+        "url": "https://open.spotify.com/album/36wJyDURMA22nGnkNy4Pg9"
+      },
+      "artists": [
+        {
+          "name": "h\u00f4te",
+          "url": "https://open.spotify.com/artist/2TN2ejUvw00uSbRc6GV6ev"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259842,
+      "name": "longue nuit / grande maison",
+      "url": "https://open.spotify.com/track/3FHuKUUy0hu791gD9cDnGE"
     },
     {
       "album": {

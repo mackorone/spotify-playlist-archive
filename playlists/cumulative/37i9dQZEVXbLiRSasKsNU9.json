@@ -214,7 +214,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/2CEoEzqeH4EVL75JX1jf9B"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/6BJRGULyx1DbFJLBj3fbx3"
@@ -25302,6 +25302,24 @@
     {
       "album": {
         "name": "G Luv",
+        "url": "https://open.spotify.com/album/0PwxRH2msj818T4uhl6o4E"
+      },
+      "artists": [
+        {
+          "name": "1550 Collective",
+          "url": "https://open.spotify.com/artist/6pFVpPXx3hu9oid9hLKWeI"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436480,
+      "name": "G Luv",
+      "url": "https://open.spotify.com/track/5Cuaqn1WeyOCwIaX2NS5mk"
+    },
+    {
+      "album": {
+        "name": "G Luv",
         "url": "https://open.spotify.com/album/3yKtXAlEVZ3xLz55XcWJUl"
       },
       "artists": [
@@ -25312,7 +25330,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 436498,
       "name": "G Luv",
       "url": "https://open.spotify.com/track/7rPCoHeFhATM6JiiNKw5fL"
@@ -41629,7 +41647,7 @@
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 209361,
+      "duration_ms": 208125,
       "name": "Mambinho Brasile\u00f1o",
       "url": "https://open.spotify.com/track/0c27qjzqEgMLMnWTl5bCU8"
     },
@@ -56670,7 +56688,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 176481,
       "name": "qu\u00e9date",
       "url": "https://open.spotify.com/track/6VfL3MEuYeJbDlD8m011HR"
@@ -72290,7 +72308,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"

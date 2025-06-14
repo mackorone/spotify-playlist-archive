@@ -629,6 +629,24 @@
     },
     {
       "album": {
+        "name": "A flower bookmark, Pt. 2",
+        "url": "https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233050,
+      "name": "Last Night Story",
+      "url": "https://open.spotify.com/track/0EOWckhigz9Fd2qS5Foiqh"
+    },
+    {
+      "album": {
         "name": "BE",
         "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
       },
@@ -1220,24 +1238,6 @@
       "duration_ms": 248373,
       "name": "\ubc24\uc774 \uae4a\uc5c8\ub124 Oh! What a Shiny Night",
       "url": "https://open.spotify.com/track/71yXrG7UY3myMhpn2QiMh4"
-    },
-    {
-      "album": {
-        "name": "A flower bookmark, Pt. 2",
-        "url": "https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "date_added": "2023-10-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 233050,
-      "name": "\uc5b4\uc82f\ubc24 \uc774\uc57c\uae30 [Eojetbam Iyagi] : Last night story",
-      "url": "https://open.spotify.com/track/0EOWckhigz9Fd2qS5Foiqh"
     },
     {
       "album": {

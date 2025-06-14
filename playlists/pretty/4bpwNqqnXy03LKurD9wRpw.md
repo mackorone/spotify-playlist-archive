@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bpwNqqnXy03LKurD9wRpw.md) - [plain]
 
 > a collation of music recommendations from at random.
 
-[Jess Green](https://open.spotify.com/user/1231146893) - 0 likes - 26 songs - 1 hr 23 min
+[Jess Green](https://open.spotify.com/user/1231146893) - 1 like - 27 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,5 +34,6 @@ pretty - [cumulative](/playlists/cumulative/4bpwNqqnXy03LKurD9wRpw.md) - [plain]
 | 24 | [Fame is a Gun](https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Fame is a Gun](https://open.spotify.com/album/3SbgH2k3eJ6dPqAhbTBFzm) | 3:03 |
 | 25 | [IDENTITY](https://open.spotify.com/track/2sMbNh0yhdzUi0f4Y9DGuV) | [BIG NOTER](https://open.spotify.com/artist/3wuLSOv0CPHw4s22TIIN0B) | [IDENTITY](https://open.spotify.com/album/5I5Z5PckRfqeq5A9zdvuQh) | 3:24 |
 | 26 | [Scream](https://open.spotify.com/track/4bGnmhNUVH1ebHAXYfJZs0) | [Forever Son](https://open.spotify.com/artist/55QKnoNsfzDt7Cz2N11zeX) | [Scream](https://open.spotify.com/album/6cqrnQFi37GADL1ynrVAGo) | 2:38 |
+| 27 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
 
-Snapshot ID: `AAAAIJ8r05drbCcASTx948HIA4J1CtKg`
+Snapshot ID: `AAAAIYQlWZsy2wyEEhRG4kSu5HxOzYAG`

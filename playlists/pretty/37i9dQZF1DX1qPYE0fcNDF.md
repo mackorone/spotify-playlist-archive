@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 
 > Hip\-Hop and Happy Holidays!
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,884 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,878 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 | 11 | [Silent Night](https://open.spotify.com/track/6XrD23vipgol0TqM0UUc0l) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Silent Night](https://open.spotify.com/album/6Qgr3aGOhi5KzjZedNIwSr) | 2:49 |
 | 12 | [St\. Brick Intro](https://open.spotify.com/track/1Et5dtjFVjgZeH6OC925hk) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [St\. Brick Intro](https://open.spotify.com/album/1CQpVdTTTL1SfOb0bAME0O) | 2:27 |
 | 13 | [X\-Mas Bag](https://open.spotify.com/track/6jCE3IU5xquABbZTh249Ed) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [X\-Mas Bag](https://open.spotify.com/album/50XapsDXRaOcluWVDWl8ES) | 2:21 |
-| 14 | [What You Want for Christmas](https://open.spotify.com/track/6pyn5n6bOUX0iqZxA88H34) | [Quad City DJ's, The 69 Boyz and K\-Nock](https://open.spotify.com/artist/1bRPz3I9pDLcEd8t5sncKe) | [All Star Christmas](https://open.spotify.com/album/4MmG5FXpME1mmMtX0k69bH) | 4:35 |
+| 14 | [What You Want for Christmas](https://open.spotify.com/track/6pyn5n6bOUX0iqZxA88H34) | [Quad City DJ's](https://open.spotify.com/artist/4mar1GMMEhvGyJdWagu6KS), [The 69 Boyz](https://open.spotify.com/artist/6edekRdqbU0eHDbEdRfPU4), [K\-Nock](https://open.spotify.com/artist/4Hp3lG7zGX5KE0sWx9lgJk) | [All Star Christmas](https://open.spotify.com/album/4MmG5FXpME1mmMtX0k69bH) | 4:35 |
 | 15 | [I Am the Grinch \(feat\. Fletcher Jones\)](https://open.spotify.com/track/5TVQdlY5H99BSAciKixBSt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Fletcher Jones](https://open.spotify.com/artist/1p0uWG26qtUg2nNxIIk10x) | [Dr\. Seuss' The Grinch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u40K47aUMjeNrPGmQrodQ) | 2:37 |
 | 16 | [A Christmas Fucking Miracle](https://open.spotify.com/track/59fKNCUMTncSMICMNqT2in) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Run the Jewels](https://open.spotify.com/album/0hVXUOlozgihW44G4Il0Gu) | 4:21 |
 | 17 | [All I Really Want For Christmas \(feat\. Kool\-Aid Man\)](https://open.spotify.com/track/5Tz3kCWr1LL2S7P02W55jw) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Kool\-Aid Man](https://open.spotify.com/artist/6DT3Q5s1oRIZZdOOmg0kVI) | [All I Really Want For Christmas \(feat\. Kool\-Aid Man\)](https://open.spotify.com/album/52w6ES71Bx3mSTKjVXoj3U) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 | 49 | [K For Christmas](https://open.spotify.com/track/3hK0tQgnfjXwaCd0oHV0u2) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [K For Christmas](https://open.spotify.com/album/4wlXOzNBZQ2AQMoYcQQDVh) | 1:42 |
 | 50 | [Christmas At Swae’s](https://open.spotify.com/track/2uIJmDr8yFuq27JgZGAw7l) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Ear Drummers](https://open.spotify.com/artist/16b0RUDQWdrU5HYFKuFW98) | [Christmas At Swae’s](https://open.spotify.com/album/6Qx4jA6F8xTrAypkeaVUSk) | 3:46 |
 
-Snapshot ID: `AAAAAAqDBK1oy9qojIX3F2kRrQBXIYPa`
+Snapshot ID: `Z2HQPwAAAABqnAkA/CwqFHNcfQvsjZ6e`

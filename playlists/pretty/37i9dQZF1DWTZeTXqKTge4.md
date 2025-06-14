@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: White\-B
+> Le meilleur du hip\-hop québécois\. Photo: Fléau Dicaprio
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,541 likes - 74 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,538 likes - 74 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [300](https://open.spotify.com/track/7LjEC618TnZIBPPFUYMgB2) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [300](https://open.spotify.com/album/4Oi4mTuE5Qg33JlN1gbgml) | 2:43 |
-| 2 | [Right Now](https://open.spotify.com/track/4vqwpFRN7mFFrJPUJgE5pj) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Right Now](https://open.spotify.com/album/4vzuP1SgLMNW1YKYGKGCTP) | 2:06 |
-| 3 | [Mode de vie](https://open.spotify.com/track/6Gwjo7UHixOJiCCe5Av7wT) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Mode de vie](https://open.spotify.com/album/56mNsqZxNamBAllH4zmMoL) | 2:25 |
-| 4 | [West Coast \(avec Statzz\)](https://open.spotify.com/track/7lInLjn8bphUQ03Ph8bxJ8) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [West Coast \(avec Statzz\)](https://open.spotify.com/album/4YW4oVjIfP8X3SmMm98bUi) | 2:39 |
-| 5 | [MAUVAIS](https://open.spotify.com/track/1gjVIjkmSNosvlTCBbzZOY) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [MAUVAIS](https://open.spotify.com/album/6RFOqZ6irOKhWOeKdnMLyl) | 3:25 |
-| 6 | [Trop Souvent](https://open.spotify.com/track/2kpXbATJiis2JCZrDed7Ff) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Trop Souvent](https://open.spotify.com/album/59TUFPL3ZlGMzR02iYTyFD) | 2:50 |
-| 7 | [CASAMIGOS 2X](https://open.spotify.com/track/2MQD2LqAPlmZShAxXtjAHl) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [ON FRAP II](https://open.spotify.com/album/6ZbWyoybaFIyffQYnvxQNZ) | 3:26 |
-| 8 | [Big Wop](https://open.spotify.com/track/3T5InY7wLZTcZi64wtQwrc) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Big Wop](https://open.spotify.com/album/5tIUGhDgouDAJzJCb2ZOVz) | 1:38 |
+| 1 | [Momentum \(avec Souldia\)](https://open.spotify.com/track/0yPaNiYpfVSGwEQJy1bJxS) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Big Wop \- Mile\-End sur la map](https://open.spotify.com/album/6TQ4f72JT76m1WABOYTOZr) | 3:17 |
+| 2 | [300](https://open.spotify.com/track/7LjEC618TnZIBPPFUYMgB2) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [300](https://open.spotify.com/album/4Oi4mTuE5Qg33JlN1gbgml) | 2:43 |
+| 3 | [Right Now](https://open.spotify.com/track/4vqwpFRN7mFFrJPUJgE5pj) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Right Now](https://open.spotify.com/album/4vzuP1SgLMNW1YKYGKGCTP) | 2:06 |
+| 4 | [Mode de vie](https://open.spotify.com/track/6Gwjo7UHixOJiCCe5Av7wT) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Mode de vie](https://open.spotify.com/album/56mNsqZxNamBAllH4zmMoL) | 2:25 |
+| 5 | [West Coast \(avec Statzz\)](https://open.spotify.com/track/7lInLjn8bphUQ03Ph8bxJ8) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [West Coast \(avec Statzz\)](https://open.spotify.com/album/4YW4oVjIfP8X3SmMm98bUi) | 2:39 |
+| 6 | [MAUVAIS](https://open.spotify.com/track/1gjVIjkmSNosvlTCBbzZOY) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [MAUVAIS](https://open.spotify.com/album/6RFOqZ6irOKhWOeKdnMLyl) | 3:25 |
+| 7 | [Trop Souvent](https://open.spotify.com/track/2kpXbATJiis2JCZrDed7Ff) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Trop Souvent](https://open.spotify.com/album/59TUFPL3ZlGMzR02iYTyFD) | 2:50 |
+| 8 | [CASAMIGOS 2X](https://open.spotify.com/track/2MQD2LqAPlmZShAxXtjAHl) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [ON FRAP II](https://open.spotify.com/album/6ZbWyoybaFIyffQYnvxQNZ) | 3:26 |
 | 9 | [Day N' Night](https://open.spotify.com/track/4mzORLfFFmQjIqPGLmLoFu) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Day N' Night](https://open.spotify.com/album/5Kcq71QCWLlk2PqKg9bzVW) | 3:11 |
 | 10 | [LomeLaval](https://open.spotify.com/track/2Q7CpbLeZhE8Rq8YPSiOhf) | [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Ateyaba](https://open.spotify.com/artist/281AuR0rWkBECMeaAB0pSA) | [LomeLaval](https://open.spotify.com/album/21pJeD4qusaQ9YsBwfdKOW) | 2:21 |
 | 11 | [En Demande](https://open.spotify.com/track/6yGdLOahF39Dvgf8Zvkrbz) | [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb) | [On Reste Actif](https://open.spotify.com/album/2S7jfIOKQccTaJxPEF7ifI) | 3:00 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 73 | [Froid](https://open.spotify.com/track/0qhivOTi3fwGBOdcw5kgXk) | [Tel Kel](https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM) | [Froid](https://open.spotify.com/album/4MY0Xa0AHpODwjKteoLqo6) | 2:47 |
 | 74 | [Dans mon délire](https://open.spotify.com/track/4XOdHX24KhXvttDZi0d8P0) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Dans mon délire](https://open.spotify.com/album/0F38HKeIBp1ipE4W6DPp57) | 2:47 |
 
-Snapshot ID: `aEJn3wAAAAD56Mjxu66JJfSUFbghpBV3`
+Snapshot ID: `aEuicgAAAACJY5dBonPhpNGT2BljEtAc`

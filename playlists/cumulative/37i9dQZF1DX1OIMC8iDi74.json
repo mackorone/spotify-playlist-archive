@@ -1856,7 +1856,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 182560,
       "name": "Can't Trust Anymore",
       "url": "https://open.spotify.com/track/57EmvNCvsALvq307XQ3GMQ"
@@ -5430,7 +5430,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 301095,
       "name": "HEART123",
       "url": "https://open.spotify.com/track/6SRDN6AyatafwXnJh6KI1n"
@@ -6200,7 +6200,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 194823,
       "name": "Iced Out",
       "url": "https://open.spotify.com/track/64PL3j3eRGz0HHzUWSSXeL"
@@ -7124,7 +7124,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 193714,
       "name": "leaving (dont tell me)",
       "url": "https://open.spotify.com/track/3mOtdUx4a4T3LAw6CwRc04"
@@ -8703,6 +8703,24 @@
     },
     {
       "album": {
+        "name": "Never Give Up",
+        "url": "https://open.spotify.com/album/2OuinlPAwNus6cfYBkp3CC"
+      },
+      "artists": [
+        {
+          "name": "AlienPark",
+          "url": "https://open.spotify.com/artist/7xtEdHtZ1CdyPAY4px5N3R"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217846,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/5LerwD91l7LeJ9UJOUa9i5"
+    },
+    {
+      "album": {
         "name": "Next Up",
         "url": "https://open.spotify.com/album/7K7u6MSUnadC8QJIWig5rF"
       },
@@ -9573,6 +9591,28 @@
     },
     {
       "album": {
+        "name": "POWER",
+        "url": "https://open.spotify.com/album/3mcCT5ge4xxobfw0bdeGNm"
+      },
+      "artists": [
+        {
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
+        },
+        {
+          "name": "Control Freak",
+          "url": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144545,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/0P5KTcGLQludTZtkKoUOjK"
+    },
+    {
+      "album": {
         "name": "PREY",
         "url": "https://open.spotify.com/album/4V1sFZ6ipjNyBLwDH71MJU"
       },
@@ -10200,6 +10240,24 @@
       "duration_ms": 196216,
       "name": "Root Cause",
       "url": "https://open.spotify.com/track/0ynMhP1uUAXZN2dsyBEpVa"
+    },
+    {
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/43ZmMxYp1GZryUDMMBUzRE"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/6L9jkip4WYoTK55kOY22au"
     },
     {
       "album": {
@@ -11422,7 +11480,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 183200,
       "name": "Starry Eyed",
       "url": "https://open.spotify.com/track/659s4NliEPs3yKGcLSUhe6"
@@ -11682,7 +11740,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 123981,
       "name": "Style",
       "url": "https://open.spotify.com/track/62KcN1Ea8Rjm4Nd3DcFw6t"
@@ -11725,6 +11783,32 @@
     },
     {
       "album": {
+        "name": "SURFACE",
+        "url": "https://open.spotify.com/album/4ujOWQN1rcL5cc3EPQ8wo7"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "Eliminate",
+          "url": "https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b"
+        },
+        {
+          "name": "Adalaide Adams",
+          "url": "https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "SURFACE",
+      "url": "https://open.spotify.com/track/00byVYVEufxOA9qwRwKdBN"
+    },
+    {
+      "album": {
         "name": "Swing King",
         "url": "https://open.spotify.com/album/1GXILMnLp8orFCcrPFu0eo"
       },
@@ -11762,7 +11846,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 256294,
       "name": "Switch",
       "url": "https://open.spotify.com/track/1DGmrSDuDEbpXYbsiYxrR7"
@@ -13448,6 +13532,24 @@
       "duration_ms": 296250,
       "name": "Voices in the Wall",
       "url": "https://open.spotify.com/track/3Jh5bcDIKfzGOngSzk0GEP"
+    },
+    {
+      "album": {
+        "name": "w0w!!",
+        "url": "https://open.spotify.com/album/1Y2Ccl37aTTYjkJZgXNFO3"
+      },
+      "artists": [
+        {
+          "name": "Zotti",
+          "url": "https://open.spotify.com/artist/5cFTAEOEXodWwGseo0BdBq"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "w0w!!",
+      "url": "https://open.spotify.com/track/2x6vQe3h1fHU5U8GBEEYCx"
     },
     {
       "album": {

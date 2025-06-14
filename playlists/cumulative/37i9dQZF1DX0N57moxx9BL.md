@@ -2,9 +2,9 @@
 
 ### [Top Christian Rock](https://open.spotify.com/playlist/37i9dQZF1DX0N57moxx9BL)
 
-> Listen to the recent hits of Christian Rock\.  Cover:  Seventh Day Slumber
+> Listen to the recent hits of Christian Rock\.  Cover:  Demon Hunter
 
-242 songs - 15 hr 33 min
+244 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Climb](https://open.spotify.com/track/2p3QgrvLUoEdeLNfjSZChe) | [Josh A](https://open.spotify.com/artist/2rWCIhENZyPVDAeFC0ESWN) | [Climb](https://open.spotify.com/album/0FL1HwCsQTNmOg9aoobuGR) | 2:19 | 2025-05-31 |  |
 | [Cold Winter Sun](https://open.spotify.com/track/3HUHIjnMOD22APRvYFlc6f) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Outlive](https://open.spotify.com/album/7kZFUYmtCKFdPvBIGzw6ow) | 3:25 | 2021-05-28 | 2022-07-29 |
 | [Cold Winter Sun](https://open.spotify.com/track/3x0jpqonkfTOPXtoVP4vmb) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Outlive](https://open.spotify.com/album/3qumSCBx2jU1GB8aIfXhrn) | 3:25 | 2022-03-11 | 2024-04-19 |
-| [Collapse \- Rerecorded](https://open.spotify.com/track/4mjJixfaegDHN8VVUcHocq) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx) | [Collapse \(Rerecorded\)](https://open.spotify.com/album/5Q1WooCVBgiGJmjLGKh9aV) | 4:05 | 2025-05-31 |  |
+| [Collapse \- Rerecorded](https://open.spotify.com/track/4mjJixfaegDHN8VVUcHocq) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx) | [Collapse \(Rerecorded\)](https://open.spotify.com/album/5Q1WooCVBgiGJmjLGKh9aV) | 4:05 | 2025-05-31 | 2025-06-14 |
 | [Coming Clean](https://open.spotify.com/track/6tXcD6XHOYyKgc1HmE0eE8) | [Attalus](https://open.spotify.com/artist/6qWfqxgw2jrwC3zBfm0QaQ) | [Into the Sea](https://open.spotify.com/album/2mk7BVUY7BkN7vyKitOTEr) | 4:05 | 2021-05-28 | 2025-05-10 |
 | [COUNT 'EM](https://open.spotify.com/track/5tgXL0bJKzjwC2hZSYJzgl) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Count 'Em](https://open.spotify.com/album/6lbqpHtIIM0pEC3zDoUYfd) | 3:47 | 2023-08-04 | 2024-06-29 |
 | [Counterfeit](https://open.spotify.com/track/02KS93L0i9PxtP17FAfDCN) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Eclipse](https://open.spotify.com/album/6L8gLKCluioceYP7WNmcol) | 2:52 | 2021-05-28 | 2022-03-12 |
@@ -76,6 +76,7 @@
 | [End of the World](https://open.spotify.com/track/23TxAMQmvHPLvu6tUbCfNG) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX), [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [End of the World \(feat\. Disciple\)](https://open.spotify.com/album/0Q1AFMxli6GteApY75WWGY) | 5:54 | 2023-02-17 | 2024-06-29 |
 | [Erase](https://open.spotify.com/track/2YqctNUthRfX4t1KvPXO00) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Long Live the Rebels](https://open.spotify.com/album/156WTxzjwwbhYeCVZkZq4W) | 4:03 | 2021-05-28 | 2024-11-02 |
 | [Erase](https://open.spotify.com/track/5ZCEWXE5I4l6x76GZA2Xby) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [Long Live the Rebels](https://open.spotify.com/album/15add9fux55wlIQygXNPz9) | 4:03 | 2022-03-11 | 2024-04-19 |
+| [Eternal \- Rerecorded](https://open.spotify.com/track/51MiPUN7frWF7aobcZU6BP) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx), [Sonny Sandoval](https://open.spotify.com/artist/0aKUHdp1gJhQ6mpZcJLd4L) | [Eternal \(15th Anniversary Rerecorded Version\)](https://open.spotify.com/album/68S2PQxK7RFnGbWFVOMBxY) | 3:30 | 2025-06-13 |  |
 | [Eyes](https://open.spotify.com/track/7GGSilkl7QJVN1Ovb6WpFm) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV), [4th Point](https://open.spotify.com/artist/1ne42u3qXGxhXOheXX9mQL) | [Eyes](https://open.spotify.com/album/3K6EYMi8bDzCPs7tk5MXUM) | 4:55 | 2021-05-28 | 2022-03-12 |
 | [Faith Over Fear](https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC) | [Aaron Michaels](https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd) | [Faith Over Fear](https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0) | 3:14 | 2023-07-28 |  |
 | [False Teacher](https://open.spotify.com/track/60mBBoz2oZPMaCyuhxVPSy) | [REFORMED](https://open.spotify.com/artist/1b36TEx0Pvv72Mn1WBwKfF) | [False Teacher](https://open.spotify.com/album/3PRPXE54dzg139VheNYLXN) | 4:20 | 2025-02-28 |  |
@@ -130,6 +131,7 @@
 | [Let Go](https://open.spotify.com/track/5lb9lMxW4p4Wm0Ecdv8W7f) | [Set for the Fall](https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr) | [Three Nails](https://open.spotify.com/album/544EtjtqYdmqkar16e8xtc) | 3:30 | 2022-03-11 | 2024-04-19 |
 | [Let It Consume Me](https://open.spotify.com/track/4GLccr575vgFPCLX0B6S7G) | [Confessions of a Traitor](https://open.spotify.com/artist/3XxTiLhFGMsWvVfpZ7KlF9), [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx) | [This Pain Will Serve You](https://open.spotify.com/album/0zFhgMSkt98VDHVEPqQeE6) | 3:29 | 2025-05-31 |  |
 | [Lies Of My Brothers](https://open.spotify.com/track/30jNVrgwZWwiNIDJpg2g8u) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Lies Of My Brothers](https://open.spotify.com/album/729EaVyGDpKJLVU93MInPS) | 3:51 | 2025-05-31 |  |
+| [Light Bends](https://open.spotify.com/track/4N4CZbbn3lXfVmCck3zcqp) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Light Bends](https://open.spotify.com/album/1m1gffySpyrPY5v184rxkW) | 4:11 | 2025-06-13 |  |
 | [Lighting up the Darkness \(feat\. LKD\)](https://open.spotify.com/track/5YPAJtV7lnCvw2gcKuX0ko) | [FEARLESS BND](https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP), [LKD](https://open.spotify.com/artist/0EpAIZ1nGDiev14xjKhseg) | [Lighting up the Darkness](https://open.spotify.com/album/78cPuJVdYTd5u1X5Z6XSit) | 3:27 | 2023-11-17 |  |
 | [LION](https://open.spotify.com/track/0VkbvqI6XzzXSL7fQKWBPA) | [Peyton Parrish](https://open.spotify.com/artist/62uiaKAdkbY94iXJnXyKzc) | [LION](https://open.spotify.com/album/1CqzOm3jFgTGK2qrMPYknL) | 5:43 | 2025-04-11 |  |
 | [Listen Friend](https://open.spotify.com/track/14AnfhjSiQyo0uNzsjG4bK) | [Above Only](https://open.spotify.com/artist/5xHX5hLVen1uvA6THTO7Tn) | [Listen Friend](https://open.spotify.com/album/5Thzd8nKXasMl4q0rTKo4M) | 4:32 | 2022-01-14 |  |
@@ -244,7 +246,7 @@
 | [WILL YOU SEE GOD?](https://open.spotify.com/track/4il1GBerEw51VHGNjYD84B) | [Impending Doom](https://open.spotify.com/artist/0sxW2BJTemkPy8tDeO1s0t) | [TOWARDS THE LIGHT](https://open.spotify.com/album/74PmqmD3b2Eo3rlHEihPz9) | 2:01 | 2025-02-07 |  |
 | [Win Build Send](https://open.spotify.com/track/16yLqDkD0GaBOWT8Vm9WFJ) | [The Rock Music](https://open.spotify.com/artist/0c8xYlEYETimOaLlGZcMVk), [Skyler Murray](https://open.spotify.com/artist/2GOIrJCT3ZzhSWeX6fxChI) | [Break Away the Stone](https://open.spotify.com/album/4KKycUXhpamAsV1eIMzWwz) | 4:02 | 2025-03-28 |  |
 | [Words of Fire](https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Words of Fire](https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H) | 4:11 | 2022-10-29 | 2024-06-29 |
-| [Worlds Apart](https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Worlds Apart](https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV) | 4:28 | 2024-06-28 |  |
+| [Worlds Apart](https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Worlds Apart](https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV) | 4:28 | 2024-06-28 | 2025-06-14 |
 | [You Are](https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY) | [Audacious Worship](https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe) | [You Are](https://open.spotify.com/album/6ASmnavwt4fCGYY8Zcnm51) | 3:31 | 2022-01-14 |  |
 | [Your Cross Is Everything](https://open.spotify.com/track/0ze66t6iOmallLyPADgeZ3) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [Your Cross Is Everything](https://open.spotify.com/album/6HWTO02Y2LAPsPQ8vuaVXR) | 3:55 | 2024-11-01 |  |
 | [Your Devil Is A Ghost](https://open.spotify.com/track/4zBVeBFp5MdOAFJPi2Tk31) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [Rated R](https://open.spotify.com/album/1SFJF2gfT4zm3NXG2rImYM) | 3:11 | 2024-06-28 |  |

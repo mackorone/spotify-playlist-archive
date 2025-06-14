@@ -2,9 +2,9 @@
 
 ### [노래방 인기가요 \(Karaoke K\-Pop Bests\)](https://open.spotify.com/playlist/37i9dQZF1DWXaehqeJpkro)
 
-> 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: WOODZ\)
+> 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: 마크툽 \(MAKTUB\)\)
 
-330 songs - 21 hr 33 min
+332 songs - 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Break up](https://open.spotify.com/track/3INPEyKw1nVft467ejF7dp) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [Break up](https://open.spotify.com/album/3UhXyglD4N7SLFGBIizoSI) | 3:42 | 2022-02-23 | 2023-11-16 |
 | [Breakup](https://open.spotify.com/track/3vI4KzSgKYtwRySos6zwCA) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [Breakup](https://open.spotify.com/album/3dQcKUGYbaXJ6LGdXyrz04) | 3:42 | 2022-02-17 | 2022-07-29 |
 | [BREATHE](https://open.spotify.com/track/4XbyRgWe6yU4wE6WShdTEs) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [B:COMPLETE](https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V) | 3:37 | 2021-03-11 | 2022-02-18 |
+| [Butter\-Fly](https://open.spotify.com/track/1bs1OYTUAMWgvZAFnrj8z8) | [전영호](https://open.spotify.com/artist/2uXRcB7giGiSdocd5vjHFE) | [Butter\-Fly \(디지몬 어드벤처\)](https://open.spotify.com/album/1doDQXzlOwT4dfznDIqMUS) | 4:36 | 2025-06-13 |  |
 | [CALL ME BABY](https://open.spotify.com/track/4jdiqVbH1eUwc4MzDV7GMu) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 2nd Album ‘EXODUS’](https://open.spotify.com/album/783a1YbiWvZkD6UVFn9mtH) | 3:31 | 2021-03-11 | 2022-02-18 |
 | [Call your name](https://open.spotify.com/track/1yf5jZIiXcdL1Qb9YVBZ5G) | [V.O.S](https://open.spotify.com/artist/2x8nGCQ6zMQYA8oAX6Ggk2) | [Call your name](https://open.spotify.com/album/11HbgXr5hvDAVbhfs5NqJc) | 3:51 | 2022-02-17 |  |
 | [can't sleep](https://open.spotify.com/track/638ZqDkW3jdwkla129O2MZ) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [can't sleep](https://open.spotify.com/album/246MVpH5qwEMIVkzGAafi0) | 4:35 | 2022-02-17 |  |
@@ -190,6 +191,7 @@
 | [My Name is Malguem](https://open.spotify.com/track/1lTBkwEm0wim9RsMXqtqWy) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [2nd Mini Album 'Algorithm's Blossom'](https://open.spotify.com/album/4i0rZXe1lgKDzJ8LkueifT) | 3:08 | 2024-11-29 |  |
 | [My regards](https://open.spotify.com/track/1E7lMFb6c4p60DEJ8te3Be) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [My regards](https://open.spotify.com/album/6cHha0CTnBym1jW7xhcRJl) | 3:51 | 2022-02-17 |  |
 | [My Way](https://open.spotify.com/track/4fOfwLHQJz49Q8T1jrz54I) | [Lee Soo](https://open.spotify.com/artist/0wJ9JgzAlq9nif4ye4WrAR) | [돈꽃 \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/3mZ0f6rcDBYhQAFfNMCNH3) | 4:38 | 2022-02-17 |  |
+| [Never Ending Story](https://open.spotify.com/track/0yamqkAFAmpdLNVcmJLSo8) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [새벽](https://open.spotify.com/album/4nc43iXhWaylkGhKdVsKyH) | 4:13 | 2025-06-13 |  |
 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2022-02-17 |  |
 | [No love, No Heartbreak](https://open.spotify.com/track/0zFmyYg4HuqFIj4DsNvmu8) | [Baek Z Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [No love, No Heartbreak](https://open.spotify.com/album/6NEkqFF70eFJD5aPheRBFu) | 3:30 | 2022-02-17 |  |
 | [No matter where](https://open.spotify.com/track/7oT5JOWwxnwcZRI6NLzhWs) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Pathos](https://open.spotify.com/album/42FCxz16YLTZ1nw5lVfpaR) | 5:31 | 2022-02-17 |  |

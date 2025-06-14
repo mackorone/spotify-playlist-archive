@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌞
 
-490 songs - 1 day 5 hr 13 min
+492 songs - 1 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Acapulco](https://open.spotify.com/track/1I0rpCvX2MyCp3KRM2kp70) | [Tomás Jensen](https://open.spotify.com/artist/6589fvi46EUYl0jInr8haq) | [Les rêves sont faits](https://open.spotify.com/album/05Ppnlutbe72LvBOawQxZJ) | 3:38 | 2021-01-03\* | 2021-01-30 |
 | [Acid Rain](https://open.spotify.com/track/2GlDzxxz0k9aUZdM7cGAJV) | [Mirabelle](https://open.spotify.com/artist/7ccDEQF3klS28iA5TI3b6m) | [Acid Rain](https://open.spotify.com/album/7n06K0Qu5z9cb7KMR7ufHF) | 3:35 | 2022-01-21 | 2022-07-29 |
 | [Aimer pour rien](https://open.spotify.com/track/17VMy2EpU7NqzxwJahfWJM) | [Foisy](https://open.spotify.com/artist/6iESQOGvGZKWF6bRd3hlRt) | [Aimer pour rien](https://open.spotify.com/album/3bOZljV3BFvLlKgmZFehgB) | 3:28 | 2021-04-10 | 2021-05-03 |
-| [Airbag](https://open.spotify.com/track/1rKci6yiF4rb4zrDlt5JEH) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Kinkead](https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o) | [Airbag](https://open.spotify.com/album/176ozys6mXiCvXfefvglGp) | 3:22 | 2022-05-13 |  |
+| [Airbag](https://open.spotify.com/track/1rKci6yiF4rb4zrDlt5JEH) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Kinkead](https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o) | [Airbag](https://open.spotify.com/album/176ozys6mXiCvXfefvglGp) | 3:22 | 2022-05-13 | 2025-06-14 |
 | [Alaska](https://open.spotify.com/track/4SsyIzSN2SLe65Kf14lXkV) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [Sitka](https://open.spotify.com/album/6xfRooWnbdEwXfD3dAU3dK) | 3:38 | 2021-01-29 | 2022-07-29 |
 | [Alaska](https://open.spotify.com/track/57LyBNzsBjIwVUxySZyF7N) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [Alaska](https://open.spotify.com/album/3PyvnNSpLNYAimDCfbzySU) | 3:38 | 2021-01-15 | 2021-01-29 |
 | [Alaska](https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [SITKA](https://open.spotify.com/album/7vCTMbGtUp6mIOQu1l03DP) | 3:38 | 2022-07-08 | 2023-10-24 |
@@ -173,6 +173,7 @@
 | [it takes 2](https://open.spotify.com/track/3g7id7Tc2ZENnRSd7g1UoM) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [it takes 2](https://open.spotify.com/album/2I2JlWbhLZkkJszoaXEhgn) | 3:40 | 2024-04-05 |  |
 | [Its A Winding Road](https://open.spotify.com/track/0NWBuu29pR2wjTOKT23auy) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Oh Brother](https://open.spotify.com/album/3CGoYwEwSQwmL5INCrH6e4) | 4:35 | 2023-06-30 |  |
 | [J'ai demandé à la lune](https://open.spotify.com/track/7ALLe4yro3cKzvMndHc5kX) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj), [Louis\-Étienne Santais](https://open.spotify.com/artist/0ZAl5PmCoUqY1PIuTYAghz) | [J'ai demandé à la lune](https://open.spotify.com/album/00oVQCf6moCjdGGiU2pIAg) | 3:25 | 2021-02-26 | 2021-05-03 |
+| [j'ai oublié mon nom](https://open.spotify.com/track/6MsGCYZ4ygiOVzOODgusMu) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [j'ai oublié mon nom](https://open.spotify.com/album/7cmAn9WKrzm8MfnhCUordH) | 2:40 | 2025-06-13 |  |
 | [J'ai tout oublié](https://open.spotify.com/track/2VdpK4sQBqAuE4W8BtUYAK) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Et si j'étais à des années\-lumière](https://open.spotify.com/album/7IqJ0Tf87Lpi18CaA5SeyO) | 3:54 | 2022-07-08 | 2024-04-19 |
 | [J'ai tout oublié](https://open.spotify.com/track/1k1WXy8A5NjSMaTB5ibcO3) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [J'ai tout oublié \- Single](https://open.spotify.com/album/2JqB5rOeHapD0TdnReqeTo) | 3:55 | 2021-01-15 | 2022-07-28 |
 | [J'aime trop la vie](https://open.spotify.com/track/5mGDcrzJlFgPdhKmSBQpki) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [L'amour](https://open.spotify.com/album/1hRUtnckwxQzqdwcmA9tKy) | 5:33 | 2021-08-21 | 2021-10-09 |
@@ -393,7 +394,7 @@
 | [Quatre nuages](https://open.spotify.com/track/06kiLCDL8nl4cbrBbz6ktz) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Sessions de mai](https://open.spotify.com/album/5gxIvKHzRZAYXR2UDVpUHQ) | 2:23 | 2021-01-03\* | 2021-12-18 |
 | [Quelque chose de beau](https://open.spotify.com/track/2SAAhzhAr2zntNxLIvD0wf) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD) | [Quelque chose de beau](https://open.spotify.com/album/2vlQb0SMJmwhSTDsRUKD18) | 3:28 | 2022-04-08 | 2022-07-25 |
 | [Questions](https://open.spotify.com/track/7GHms8hXY5JGws8Fq43pEl) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Questions](https://open.spotify.com/album/6yYAQwewuKRqopK7aLlSjU) | 4:25 | 2025-04-25 |  |
-| [Qui a mis le feu](https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Qui a mis le feu](https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W) | 2:51 | 2021-10-31 |  |
+| [Qui a mis le feu](https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Qui a mis le feu](https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W) | 2:51 | 2021-10-31 | 2025-06-14 |
 | [Qué vendrá](https://open.spotify.com/track/7vM9PYre666so0kS0IBEhJ) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Qué vendrá](https://open.spotify.com/album/5IoQT1ITAc60MPlgMLSjQh) | 2:57 | 2021-02-23 | 2021-05-28 |
 | [Radio bingo](https://open.spotify.com/track/0sGeklmSEIOvf71AJqsPvK) | [Québec Redneck Bluegrass Project](https://open.spotify.com/artist/6QafnqFGVO80DazTYj5fAz) | [J'ai Bu](https://open.spotify.com/album/36Nlk84bj3ZLeQNB8q2fmK) | 4:24 | 2021-01-03\* | 2021-10-02 |
 | [Ramenez\-moi](https://open.spotify.com/track/4rgkt06MGUEVbXxrYsnPTv) | [Belle Grand Fille](https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2) | [Ramenez\-moi](https://open.spotify.com/album/1m9GgPn0v6d9X0504FKYa5) | 3:13 | 2021-02-13 | 2022-02-12 |
@@ -461,6 +462,7 @@
 | [Tu reviendras](https://open.spotify.com/track/12gXcmZ9t34G00dJ7CpIOV) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Tu reviendras](https://open.spotify.com/album/4wbzD2Rwwpf98OLzBXrzgw) | 2:14 | 2024-09-27 |  |
 | [Tu trembleras encore](https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Tu ne mourras pas](https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1) | 3:21 | 2021-01-03\* |  |
 | [Un peu de magie](https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Les gens qu'on aime](https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9) | 3:02 | 2023-03-31 | 2023-10-11 |
+| [Un rêve](https://open.spotify.com/track/0y8j2uk4HhhbcQKHy6feeE) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Un rêve](https://open.spotify.com/album/5ZJuJVEBM397cCYUpRfcb8) | 3:11 | 2025-06-13 |  |
 | [Understand It](https://open.spotify.com/track/1j3RlvCYzUnWxWQozjEzTh) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev) | 3:40 | 2022-07-08 | 2024-04-19 |
 | [Understand It](https://open.spotify.com/track/2RubaaZsnVHTz8dcZVJq4z) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/5GKghelnfdwT1Xnzc4RF2O) | 3:40 | 2021-10-02 | 2022-07-29 |
 | [une minute](https://open.spotify.com/track/4SKr92Xfu1wUKoU9pC9FcP) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [les failles](https://open.spotify.com/album/3Iq43NGfIN8tc8AVJ9Konz) | 4:08 | 2021-01-03\* | 2022-01-29 |

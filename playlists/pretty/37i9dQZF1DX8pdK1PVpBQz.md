@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Drifting Clouds
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,015 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,024 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Piggies](https://open.spotify.com/track/1dVKmV9ErGw2ucGzEmWr7d) | [GAZAL](https://open.spotify.com/artist/6DJk0meRu8KvWmCngfBvDU) | [Piggies](https://open.spotify.com/album/2dK5bDdNVgopZB4VklZ7C9) | 2:34 |
 | 100 | [Run Me Dry](https://open.spotify.com/track/2plpOCTJB7NoYuyNPmq5Rh) | [KENZY](https://open.spotify.com/artist/0inFpswIgQhzGTW4WF1FOY) | [Run Me Dry](https://open.spotify.com/album/2DwTLlpvotFU9CEpOubcq8) | 3:31 |
 
-Snapshot ID: `aEg6dgAAAAAm1iWFYdgCxQNw/aW1S+kj`
+Snapshot ID: `aEg6dgAAAAAxL7BLbc+hkAVdgLKimwTQ`

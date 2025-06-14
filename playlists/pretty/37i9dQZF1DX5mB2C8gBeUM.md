@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Graham Barham
 
-[Spotify](https://open.spotify.com/user/spotify) - 911,520 likes - 153 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 911,317 likes - 153 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 152 | [Stupid](https://open.spotify.com/track/53ACLnePPOVA8wE8rWueSD) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Bored In The USA](https://open.spotify.com/album/6hbXCjnJv5b73GH1yyeprH) | 3:03 |
 | 153 | [Backroad](https://open.spotify.com/track/1ZUCZo5YNf1VEfvrr4vTk4) | [LECADE](https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt) | [Backroad](https://open.spotify.com/album/0k9LG65CwVXehlFulZu34v) | 2:37 |
 
-Snapshot ID: `aECQFQAAAAC3ex32CWtwPp/bWdwTrPAR`
+Snapshot ID: `AAAAAFYzyNc44yrRIwvabt2Cg3oX/Bkw`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Ultimate 101 Punjabi Hits with Guru Randhawa",
+  "description": "Ultimate 101 Punjabi Hits with Parmish Verma",
   "name": "Punjabi 101",
   "tracks": [
     {
@@ -1383,6 +1383,32 @@
     },
     {
       "album": {
+        "name": "FYI (For Your Information)",
+        "url": "https://open.spotify.com/album/5vIvwhpEXU5SeIFhNM9phf"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Big Things",
+      "url": "https://open.spotify.com/track/2aCK04kzCID5znbfYOaH9n"
+    },
+    {
+      "album": {
         "name": "Bijlee Bijlee",
         "url": "https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8"
       },
@@ -2028,7 +2054,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 195957,
       "name": "Check It Out",
       "url": "https://open.spotify.com/track/4VosVUajzm6nzGlSb6nP3L"
@@ -2406,7 +2432,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 182000,
       "name": "Dekhya Kite",
       "url": "https://open.spotify.com/track/07X7p4jFhHEECps5IBKQ3c"
@@ -6065,6 +6091,24 @@
     },
     {
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/3ypK4QMoFBgFrW2Z6PGqXm"
+      },
+      "artists": [
+        {
+          "name": "HUSTINDER",
+          "url": "https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252613,
+      "name": "Morniya\u2019n",
+      "url": "https://open.spotify.com/track/0hpjnu8OTuOb6Nru1tvphM"
+    },
+    {
+      "album": {
         "name": "Archives",
         "url": "https://open.spotify.com/album/6KmQIkfNTKlHizxBbXCxBq"
       },
@@ -9388,7 +9432,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 221357,
       "name": "The Finest",
       "url": "https://open.spotify.com/track/20NmNGHaPFHNWmNwsray0v"
@@ -9484,6 +9528,32 @@
       "duration_ms": 175206,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/4NRxECMVzn7WvxU8XJDxrc"
+    },
+    {
+      "album": {
+        "name": "Time Is Money",
+        "url": "https://open.spotify.com/album/6kJgtWHygct1bH5kGEJPFQ"
+      },
+      "artists": [
+        {
+          "name": "Parmish Verma",
+          "url": "https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE"
+        },
+        {
+          "name": "Laddi Chahal",
+          "url": "https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p"
+        },
+        {
+          "name": "Black Virus",
+          "url": "https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126060,
+      "name": "Time Is Money",
+      "url": "https://open.spotify.com/track/2qfgB5I2DCpnFLUIcNPTNR"
     },
     {
       "album": {

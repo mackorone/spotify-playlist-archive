@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rahul Dit\-O
 
-512 songs - 1 day 4 hr 46 min
+513 songs - 1 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Kanmaniye](https://open.spotify.com/track/3qm6n1CpNTb3OllQZpI2db) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ), [Chaithra Ganiga](https://open.spotify.com/artist/19MiECEeL27gGfhbyxRfEK) | [Kanmaniye](https://open.spotify.com/album/40I6bsgUWOe19iiJkNDlbL) | 4:29 | 2023-08-05 | 2024-02-01 |
 | [Kanna Muche Kaade Goode](https://open.spotify.com/track/4YAsBEAp5yV4AAtlKnsjXh) | [SIDWIN](https://open.spotify.com/artist/6rWRYMJoiSYkmRHxg9YWin) | [Kanna Muche Kaade Goode](https://open.spotify.com/album/3TF3D2bEEkwEl1Z5KQNUm6) | 3:22 | 2024-01-03 | 2024-06-11 |
 | [Kannada Balso](https://open.spotify.com/track/5XoGUpJ2Q7u2lBfpgznbxG) | [Vibe Guru](https://open.spotify.com/artist/7bd8H4hvMWUY8v6I54DCvi) | [Kannada Balso](https://open.spotify.com/album/1w3uXnjR5gDuVTNTdnqlsO) | 2:46 | 2023-10-26 | 2024-04-06 |
+| [Kannale Kannale](https://open.spotify.com/track/3mUmrWPnrpshZevuRfv3PN) | [Pancham Jeeva](https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s) | [Kannale Kannale](https://open.spotify.com/album/3LHwIXnFFhFrmMDXOGwAkC) | 2:59 | 2025-06-13 |  |
 | [Kannalle](https://open.spotify.com/track/4V8RNKh9RTAdGMnZOSlrpp) | [Pushpa Aradhya](https://open.spotify.com/artist/2hmTOugi5cKw9On1y6QZ3i) | [Kannalle](https://open.spotify.com/album/3w0f7cvKqi5sQ8wWxJJTAV) | 1:11 | 2023-09-04 | 2024-04-02 |
 | [Karedaaga Ninna](https://open.spotify.com/track/0pXdz1EvBsUGXSfF2KfZyj) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Karedaaga Ninna](https://open.spotify.com/album/7ec96HDzbEIgAuIMrq6a3G) | 2:09 | 2023-12-11 | 2024-06-29 |
 | [Karedaaga Ninna](https://open.spotify.com/track/1QsjxwZlmNea67Js4XAiNg) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Karedaaga Ninna](https://open.spotify.com/album/4xv9R4Z0Y3oMYhruPheWne) | 2:09 | 2023-12-11 | 2024-04-19 |
@@ -341,7 +342,7 @@
 | [Nee Nanna Kavithe](https://open.spotify.com/track/17Hl95mz7AWI9lFOLtbAEX) | [Kiran Manjunath](https://open.spotify.com/artist/0aeYsI55Nh78rT5xnI5Pxz), [Shreesh Gombi](https://open.spotify.com/artist/4hhkVfPFH7QhsFj1PpMypP) | [Nee Nanna Kavithe](https://open.spotify.com/album/4RNO4wCdd74AfUGVZqBKov) | 3:30 | 2023-11-06 | 2024-04-19 |
 | [Nee Nanna Kavithe](https://open.spotify.com/track/5F8gPMjRT1zjpaIlyjSBNw) | [Kiran Manjunath](https://open.spotify.com/artist/0aeYsI55Nh78rT5xnI5Pxz), [Shreesh Gombi](https://open.spotify.com/artist/4hhkVfPFH7QhsFj1PpMypP) | [Nee Nanna Kavithe](https://open.spotify.com/album/3Jml0aCC8w631pREfwGKe5) | 3:30 | 2023-11-06 | 2024-05-14 |
 | [Nee Saniha](https://open.spotify.com/track/53F1QXJzhN3mpHU0Q2JOnz) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Nee Saniha](https://open.spotify.com/album/5ZD61t4W97RsGNm1ds6nLr) | 4:26 | 2023-05-03 | 2023-09-05 |
-| [Nee Siguva Thanaka](https://open.spotify.com/track/36ya1X6uML6IGmzBpTFbFY) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR), [Asha Bhat](https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96) | [Nee Siguva Thanaka](https://open.spotify.com/album/0oG2g4b7uYekHZiMLKclDA) | 4:28 | 2024-08-09 |  |
+| [Nee Siguva Thanaka](https://open.spotify.com/track/36ya1X6uML6IGmzBpTFbFY) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR), [Asha Bhat](https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96) | [Nee Siguva Thanaka](https://open.spotify.com/album/0oG2g4b7uYekHZiMLKclDA) | 4:28 | 2024-08-09 | 2025-06-14 |
 | [Neeli Aakashadi](https://open.spotify.com/track/4YdjtkW8yelygVUp2I74C2) | [Keerthana Chandru](https://open.spotify.com/artist/4cSbty2ketEhsSrDHO4Txr), [N Raaj](https://open.spotify.com/artist/2ZWut9Ob2PPRPXafTWXf5P) | [Neeli Aakashadi](https://open.spotify.com/album/3DP3KuR3HTLstcUMvIfXyz) | 4:43 | 2024-09-03 | 2025-02-21 |
 | [Neeli Modagalu](https://open.spotify.com/track/2685mgG3FA17n55sR9p59k) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Neeli Modagalu](https://open.spotify.com/album/4WVkXb39DguSdjVxf8cotL) | 4:22 | 2023-08-09 | 2024-02-15 |
 | [Neene](https://open.spotify.com/track/2GF9LGqfyHNtzNBPpa2SO2) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Dr Nithin S](https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G) | [Neene](https://open.spotify.com/album/6DW7Ujcua7KFh4MAU7StZP) | 2:42 | 2023-09-14 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > Tu táta tu tatá..\. el beat funk de Brasil para el mundo\. Baile bonito con DENNIS, Luísa Sonza y Kenia Os
 
-218 songs - 9 hr 37 min
+219 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Milagrosa](https://open.spotify.com/track/4CVhywni3QwalKLZgwFi58) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Milagrosa](https://open.spotify.com/album/2Ri7SdWvj5PNtbVxrMDq3t) | 2:20 | 2024-04-05 |  |
 | [Milagrosa](https://open.spotify.com/track/7vFESQCFxuL38hNbTCtUDu) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Milagrosa](https://open.spotify.com/album/2TKYEbaAPl4mqTAyGiKFRS) | 2:20 | 2023-11-29 | 2024-04-19 |
 | [misteriosa \(xulinho\)](https://open.spotify.com/track/7BHPQrmBvbFpXWS1rIsraK) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [misteriosa \(xulinho\)](https://open.spotify.com/album/0o1Zk7vF0olUTbPDj6AXV1) | 3:15 | 2024-08-26 |  |
+| [MiuMiu](https://open.spotify.com/track/06P2zNCmRsB8aQBZo78D2o) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [MiuMiu](https://open.spotify.com/album/1fWk1CMAtVYbXJTUZKUohA) | 2:59 | 2025-06-13 |  |
 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB) | 1:01 | 2023-11-29 |  |
 | [MOTINHA 2.0 \(Mete Marcha\) \- Remix](https://open.spotify.com/track/2iDDnYmaz1HhedjI91fbmp) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [MOTINHA 2.0 \(Mete Marcha\) \- Remix](https://open.spotify.com/album/01b5HiUXkbiFUV3ogYrg0I) | 1:58 | 2025-05-02 |  |
 | [Muevelo](https://open.spotify.com/track/7kshz1Oyv3Mf83i8eEEBDJ) | [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB), [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [Diamante Ayala](https://open.spotify.com/artist/2a3t7z8U1cpR0PEq1WB68d) | [Muevelo](https://open.spotify.com/album/69UehLJc4mwcltDjolumh7) | 2:52 | 2024-10-04 | 2024-11-23 |
@@ -161,7 +162,7 @@
 | [Preciosa](https://open.spotify.com/track/1aeih1sP1g0ooHHkxrfA29) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Preciosa](https://open.spotify.com/album/0gq9bgTdNrmc9SlpuaZ0eD) | 2:53 | 2024-03-15 | 2024-04-27 |
 | [PRESIDENTE](https://open.spotify.com/track/1VaeZwjaf10EFRm7hssFr2) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [PRESIDENTE](https://open.spotify.com/album/77I5lp1UwURnhQzOalJrj8) | 2:26 | 2025-04-04 |  |
 | [Qlo](https://open.spotify.com/track/1X5PIQVtkegtLVpDP1tQFL) | [Dj Human Star](https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW), [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh), [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt) | [Qlo](https://open.spotify.com/album/5C2hwJYQm12YtwGjr6DwnX) | 1:15 | 2023-12-15 | 2023-12-23 |
-| [Quédate](https://open.spotify.com/track/31bfC9yt2DBhdi3q9tZ2Vj) | [Claudy\-O](https://open.spotify.com/artist/5ClLwuv0gGLjZVFGwuokKn), [EL PK2R](https://open.spotify.com/artist/0Rv7QO2XbD6fPubp1HA5yH), [Hank R.](https://open.spotify.com/artist/5sVqeMM8axrDtjMZUZbk5B) | [Quédate](https://open.spotify.com/album/3Q18pGIIoG1FGfpLF3Stue) | 2:32 | 2025-05-16 |  |
+| [Quédate](https://open.spotify.com/track/31bfC9yt2DBhdi3q9tZ2Vj) | [Claudy\-O](https://open.spotify.com/artist/5ClLwuv0gGLjZVFGwuokKn), [EL PK2R](https://open.spotify.com/artist/0Rv7QO2XbD6fPubp1HA5yH), [Hank R.](https://open.spotify.com/artist/5sVqeMM8axrDtjMZUZbk5B) | [Quédate](https://open.spotify.com/album/3Q18pGIIoG1FGfpLF3Stue) | 2:32 | 2025-05-16 | 2025-06-14 |
 | [Rara Vez](https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Rara Vez](https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF) | 2:08 | 2023-11-29 |  |
 | [Recreo](https://open.spotify.com/track/2mSUkuDPzK8XVRA3cyRBnu) | [MACO](https://open.spotify.com/artist/0XerM4yoGja0adi5ohB8Lm) | [Recreo](https://open.spotify.com/album/3ru5vyOdcoxVeTxVxxDpuw) | 3:17 | 2024-10-25 | 2025-02-01 |
 | [Romantique](https://open.spotify.com/track/6OB5LW24nU5Jdjj1FuOuQj) | [St\-Prince](https://open.spotify.com/artist/4l9XlDeGxPJgWnF7OoEpgC) | [Romantique & Propaganda](https://open.spotify.com/album/52NucKNQk0IF5OPwVbLZSJ) | 2:30 | 2024-04-26 | 2024-06-01 |

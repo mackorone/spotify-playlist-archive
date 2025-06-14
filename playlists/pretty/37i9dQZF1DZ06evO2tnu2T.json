@@ -1,12 +1,12 @@
 {
   "description": "This is Absolutely. The essential tracks, all in one playlist.",
-  "num_followers": 119,
+  "num_followers": 131,
   "original_name": "This Is Absolutely",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEjHAAAAAACo6yKguL56duMzC7do27vl",
+  "snapshot_id": "aEoYgAAAAABgW4+YXpEd4RtN4D8cilKo",
   "tracks": [
     {
       "added_at": null,
@@ -164,22 +164,6 @@
       "added_at": null,
       "album": {
         "name": "CEREBRUM",
-        "url": "https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ"
-      },
-      "artists": [
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 207660,
-      "name": "24 Hours",
-      "url": "https://open.spotify.com/track/5nwSXC1tojEYcUPUfywdu3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CEREBRUM",
         "url": "https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI"
       },
       "artists": [
@@ -212,6 +196,22 @@
       "added_at": null,
       "album": {
         "name": "CEREBRUM",
+        "url": "https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 207660,
+      "name": "24 Hours",
+      "url": "https://open.spotify.com/track/5nwSXC1tojEYcUPUfywdu3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CEREBRUM",
         "url": "https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI"
       },
       "artists": [
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 174973,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/6HuEuUruCrjWyt00zHqJUx"
+      "duration_ms": 211010,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/6P6RvzP7XmTIfiGrxT7nvb"
     }
   ],
   "unique_name": "This Is Absolutely",

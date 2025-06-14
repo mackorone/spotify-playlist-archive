@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 480 likes - 155 songs - 11 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 481 likes - 155 songs - 11 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 13 | [The Bones of You](https://open.spotify.com/track/6jbFN4H7mW6FK5kghNoWBQ) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [The Seldom Seen Kid](https://open.spotify.com/album/25KJ3Be6nm3mvFOOKZU2TE) | 4:49 |
 | 14 | [Lullaby for String Quartet](https://open.spotify.com/track/2bOqEAbpUbCNeZmkUDJQo2) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Alexander String Quartet](https://open.spotify.com/artist/2d1RMcATjG2ZpHdFxxKhKS) | [Gershwin & Kern](https://open.spotify.com/album/4GNR8G5ihQV4gwm1FNC4ch) | 7:11 |
 | 15 | [WISH \- Korean Ver.](https://open.spotify.com/track/7uRWaWF70gvKmLhpY3FuaJ) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISH](https://open.spotify.com/album/0BY5GFkY77dWu3AjengDay) | 3:05 |
-| 16 | [RING THE ALARM pt.1 pt.2 pt.3](https://open.spotify.com/track/1ssT0otwEbYRU2D0paC5gY) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [MASTERS OF THE SUN VOL\. 1](https://open.spotify.com/album/7er6jjv5446zSiCIo6E9Pr) | 5:58 |
+| 16 | [One Of These Mornings](https://open.spotify.com/track/2Mbo5NxUBF3dMsTLUxhSwO) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Return to the Spectrum of Intergalactic Happiness](https://open.spotify.com/album/7nD3FgLtAjNqWb953Hjigu) | 3:11 |
 | 17 | [For You](https://open.spotify.com/track/4xUnBhJLPGgwDFBiHnSaRE) | [NightCove\_thefox](https://open.spotify.com/artist/6yYJBwT8q1KYXucYLroowZ) | [For You](https://open.spotify.com/album/3yg9je9GS0BKhtP6Uc4eSy) | 3:00 |
-| 18 | [One Of These Mornings](https://open.spotify.com/track/2Mbo5NxUBF3dMsTLUxhSwO) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Return to the Spectrum of Intergalactic Happiness](https://open.spotify.com/album/7nD3FgLtAjNqWb953Hjigu) | 3:11 |
+| 18 | [RING THE ALARM pt.1 pt.2 pt.3](https://open.spotify.com/track/1ssT0otwEbYRU2D0paC5gY) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [MASTERS OF THE SUN VOL\. 1](https://open.spotify.com/album/7er6jjv5446zSiCIo6E9Pr) | 5:58 |
 | 19 | [I Got Rhythm](https://open.spotify.com/track/6si96IiZ4tkzR6F7uNPdLP) | [Ethel Waters](https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud) | [Down In My Soul](https://open.spotify.com/album/00NADdkMFDvEXbjsrYt6m3) | 3:06 |
 | 20 | [Bricks & Bags](https://open.spotify.com/track/3XhRkia2pZ0apnY1Yp2DfK) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Montega](https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9) | 3:42 |
 | 21 | [They All Laughed](https://open.spotify.com/track/5s44vQBcE1dK8VxRk3VMqr) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek \(Deluxe\)](https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu) | 1:48 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 80 | [Impromptu in Two Keys](https://open.spotify.com/track/1jvsvbfQfCwh6maXlLzsnV) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Public Domain](https://open.spotify.com/artist/4iFb0urZ0WBT8L4oWFeNvq), [Shai Wosner](https://open.spotify.com/artist/6gQUTKFY4X92FtgRfTqL2m) | [Impromptu](https://open.spotify.com/album/2UYasjewDpuyNVxO32ytnD) | 2:27 |
 | 81 | [Porgy and Bess, Act I: Summertime \(Arr\. for Brass Ensemble\)](https://open.spotify.com/track/74ZcW7JtXYb2qkG6o0VMdD) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [German Brass](https://open.spotify.com/artist/23OFuPJgFz1jGnHFW4WBiM) | [Porgy and Bess, Act I: Summertime \(Arr\. for Brass Ensemble\)](https://open.spotify.com/album/7urCvnR8XDmLV3o3wJofYF) | 3:25 |
 | 82 | [Rialto Ripples](https://open.spotify.com/track/1qIThzIpVP8GyTx8Y6lu5g) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [The Piano Rolls, Volume Two](https://open.spotify.com/album/5m3U1X9I0oltjme3PeFTlq) | 1:54 |
-| 83 | [Unidentified Piece for Banjo](https://open.spotify.com/track/7qwg41kYUkFQXhyl0jQ4b9) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU) | [Rhapsody in Blue \(grass\)](https://open.spotify.com/album/5XeyyuXub22TpOXd3B1RzB) | 3:19 |
-| 84 | [Nothing But Love](https://open.spotify.com/track/5h4VW490aww3I7ikwmNipF) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [Brian Wilson Reimagines Gershwin](https://open.spotify.com/album/5V2xLFiybTKxScEAFEqPTW) | 3:24 |
+| 83 | [Nothing But Love](https://open.spotify.com/track/5h4VW490aww3I7ikwmNipF) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [Brian Wilson Reimagines Gershwin](https://open.spotify.com/album/5V2xLFiybTKxScEAFEqPTW) | 3:24 |
+| 84 | [Unidentified Piece for Banjo](https://open.spotify.com/track/7qwg41kYUkFQXhyl0jQ4b9) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU) | [Rhapsody in Blue \(grass\)](https://open.spotify.com/album/5XeyyuXub22TpOXd3B1RzB) | 3:19 |
 | 85 | [Niet Voor Mij Alleen](https://open.spotify.com/track/33T3wNvINj0gHMu18bgeJN) | [Kommil Foo](https://open.spotify.com/artist/68X7EQtVYHuUAYoFilK3wE) | [Wolf](https://open.spotify.com/album/3304CAyy9hPpSlCDS1UWA9) | 4:37 |
 | 86 | [Promenade \(Walking The Dog\)](https://open.spotify.com/track/50ixhMuQBDlZcXFbOMW6Yq) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Ella Fitzgerald Sings The George And Ira Gershwin Song Book](https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw) | 2:32 |
 | 87 | [Oh Dey's So Fresh And Fine \(Strawberry Woman\)](https://open.spotify.com/track/4ngD285cJ9UXUQZ2FbyOJL) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Plays Porgy And Bess](https://open.spotify.com/album/083nSCiHBU3Ah6IUQKzjxL) | 0:52 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 154 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 | 155 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 
-Snapshot ID: `Abz+SAAAAACc5nZTWB5SPB6TpJjyXhy+`
+Snapshot ID: `Ab0D8gAAAABmM3QcyqUm3W1qG6qFTdE3`

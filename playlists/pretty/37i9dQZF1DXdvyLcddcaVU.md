@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 754,730 likes - 90 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,537 likes - 90 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 10 | [Un Poco](https://open.spotify.com/track/3MVTefqbeNX5yHFOmnHy3X) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 2.0](https://open.spotify.com/album/0hl8Hs6SM4NfS5TOrkOfRU) | 3:08 |
 | 11 | [Celibataire Polygame](https://open.spotify.com/track/3UR6F2UJP6yClNugKXPOXH) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa) | [Celibataire Polygame](https://open.spotify.com/album/7ywV7kOvweiKhg0ntcEB3i) | 2:14 |
 | 12 | [Bwo](https://open.spotify.com/track/4De1ry2yC79qVUR2So9to8) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Inspi d'ailleurs](https://open.spotify.com/album/4YuyQlJ6qQ3yBJgkj4RmvA) | 3:52 |
-| 13 | [ruiné](https://open.spotify.com/track/73QO4ZPYZOm2t3F1kTC62j) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [6TR9C9](https://open.spotify.com/album/0UE21vCQWLqiruKJmX4Ihg) | 2:07 |
+| 13 | [ruiné \(comme un dj\)](https://open.spotify.com/track/73QO4ZPYZOm2t3F1kTC62j) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [6TR9C9](https://open.spotify.com/album/0UE21vCQWLqiruKJmX4Ihg) | 2:07 |
 | 14 | [Melrose Place](https://open.spotify.com/track/0TYTQ9vAJM0q4qT1mzDeFq) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Melrose Place](https://open.spotify.com/album/0FAFFUdI9WV0PypgJLMkYP) | 2:36 |
-| 15 | [Matuidi Charo \(PSG\)](https://open.spotify.com/track/2CLe4twLMtjKwWzRYzGaIA) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Rako](https://open.spotify.com/artist/57UNBGWy1iDPVEgSLrBxko), [Brigi](https://open.spotify.com/artist/3Nmgu8A2HfCYSZiAVbTVpc), [Trafiquinte](https://open.spotify.com/artist/5HdWyNYybG0xZOdJOShrd6), [Madrane](https://open.spotify.com/artist/7M2ZGRhAsmh4On0JlVEyCX) | [Charo Life](https://open.spotify.com/album/0nO1lieZiO2JTY4dqABRQB) | 4:22 |
+| 15 | [Matuidi Charo \(PSG\)](https://open.spotify.com/track/2CLe4twLMtjKwWzRYzGaIA) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Rako](https://open.spotify.com/artist/49CwhZOsUu9PGvCZAQT5EM), [Brigi](https://open.spotify.com/artist/3Nmgu8A2HfCYSZiAVbTVpc), [Trafiquinte](https://open.spotify.com/artist/5HdWyNYybG0xZOdJOShrd6), [Madrane](https://open.spotify.com/artist/7M2ZGRhAsmh4On0JlVEyCX) | [Charo Life](https://open.spotify.com/album/0nO1lieZiO2JTY4dqABRQB) | 4:22 |
 | 16 | [Mood](https://open.spotify.com/track/2GJuXOJJEemxrTuKXyR23P) | [13 Block](https://open.spotify.com/artist/7rTPCNINGzMp3Hc8Xqht5Z) | [Mood](https://open.spotify.com/album/4mFUUjx1KljXBO00P6MDsN) | 3:43 |
 | 17 | [Mi Amor](https://open.spotify.com/track/0LbuSkJMsSFTKCvGSweQQ4) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [H\-24](https://open.spotify.com/album/4wnVFYd03IAZ8NhoSFFd0X) | 3:45 |
 | 18 | [Margiela](https://open.spotify.com/track/4i7Ck0jXJc0az9i8yOI9FJ) | [HOUZ](https://open.spotify.com/artist/2P5XNsALI1wxi2eZfSPPC8), [HDPRK](https://open.spotify.com/artist/73s1HHCb3RQcuxhFgqgGG0), [G29](https://open.spotify.com/artist/33GoYRikyN9Ej7idDdY55g) | [Margiela](https://open.spotify.com/album/7yWRuAb4BfIk1I9N1WUbQI) | 3:33 |

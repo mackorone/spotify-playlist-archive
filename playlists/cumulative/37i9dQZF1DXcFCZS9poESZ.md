@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 80s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-94 songs - 5 hr 56 min
+95 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [夢を信じて](https://open.spotify.com/track/0cgqntmosOzsF1Y3LACcC7) | [Hideaki Tokunaga](https://open.spotify.com/artist/2FTUpyPZ3hqBPLwmaEH14B) | [シングルコレクション<1986～1991>](https://open.spotify.com/album/2RflyhEsb4RlZH5NY4hogE) | 4:49 | 2021-10-07 |  |
 | [孤独の唄](https://open.spotify.com/track/0KFodTmf9SvZD2viwtO8uw) | [Tomio Umezawa](https://open.spotify.com/artist/5JlC66Cy8ozai9xAtbehGz) | [梅沢富美男ベスト ～夢芝居](https://open.spotify.com/album/70FlvmqqjmVeEL67k998fA) | 3:45 | 2021-10-07 |  |
 | [孤独の唄](https://open.spotify.com/track/3n1gQLCZ6TkshUJ1h1ez87) | [Tomio Umezawa](https://open.spotify.com/artist/5JlC66Cy8ozai9xAtbehGz) | [孤独の唄/ココロの唄](https://open.spotify.com/album/5jOlf9LpsChScfCs5pnxXA) | 3:45 | 2022-06-21 | 2024-04-19 |
+| [忍者ハットリくん](https://open.spotify.com/track/00PlRV5QvD3WsE6dHJ8wax) | [堀絢子](https://open.spotify.com/artist/4EikNVc59jqZySIQocC6ke), [コロムビアゆりかご会](https://open.spotify.com/artist/4oS9xbsyYsTNOiNat3dvpa) | [藤子不二雄\(A\) 生誕90周年記念 藤子不二雄\(A\) 大全集](https://open.spotify.com/album/6JZoh9vOv8lkVaeZPHqPOI) | 2:09 | 2025-06-13 |  |
 | [恋はくえすちょん](https://open.spotify.com/track/3QIqA4XilRURrB1Efvynmv) | [Onyanko Club](https://open.spotify.com/artist/5qahyxUWCUPR8C1vuGozmH) | [NON\-STOP おニャン子](https://open.spotify.com/album/2Yoyu0axwOIB9rGkxTewXJ) | 3:10 | 2021-10-07 |  |
 | [悲しみはBEATに変えて～Rise and Shine～](https://open.spotify.com/track/4jHquaG92Yq7rL8W6VuezN) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [陽あたり良好! オリジナル・ソング・ブック](https://open.spotify.com/album/0TXnjVzRuZPw1q9Dr7AqGU) | 5:00 | 2021-10-07 |  |
 | [悲しみよこんにちは](https://open.spotify.com/track/4PykuFIJt1YlG1mvyYr0kY) | [Yuki Saito](https://open.spotify.com/artist/3b1ILSjPEq1AXyfmZXkPGr) | [チャイム <リマスター盤>](https://open.spotify.com/album/0KowZMTAsk3v3X9b5LHUUI) | 4:00 | 2021-10-07 |  |

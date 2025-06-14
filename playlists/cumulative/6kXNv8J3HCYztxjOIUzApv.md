@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-294 songs - 18 hr 27 min
+295 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [The Violence](https://open.spotify.com/track/62ovcuwlrPHfLxueBGokp1) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Violence](https://open.spotify.com/album/5xvpam8ZQLu5xuwTg9LwwN) | 3:48 | 2021-08-20 |  |
 | [This Is Mongol](https://open.spotify.com/track/17Ps0qbxzIbNbg4tTMv6CU) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 3:44 | 2022-09-21 |  |
 | [This Is Mongol \(Warrior Souls\) \[feat\. William DuVall of Alice In Chains\]](https://open.spotify.com/track/7lRsKDo94Xy3y1uqash1Xv) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [William DuVall](https://open.spotify.com/artist/7i706LwoMxh1uYYnrMuQUR), [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [This Is Mongol \(Warrior Souls\) \[feat\. William DuVall of Alice In Chains\]](https://open.spotify.com/album/2Bf7EZvzpauSKhyUhBjUFK) | 3:41 | 2023-02-10 |  |
+| [This Is Mongol \[Warrior Souls\] \(feat\. William DuVall and Trevor McNevan\) \- Teerawk Remix](https://open.spotify.com/track/4OruiIHdTbT87xOOm9hIxu) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [William DuVall](https://open.spotify.com/artist/7i706LwoMxh1uYYnrMuQUR), [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr), [Trevor McNevan](https://open.spotify.com/artist/0RXO2ozd11vyo8ehxYGnZ6), [Teerawk](https://open.spotify.com/artist/1UfT3ZzOH5k7Wk4gYrtkzZ) | [Echos of Thunder](https://open.spotify.com/album/3rD7cHSRlai9MWh3R04sVL) | 3:58 | 2025-06-13 |  |
 | [This Is The Way \(feat\. DMX\)](https://open.spotify.com/track/2e0JD2w049iqr8Hoo2geu2) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [This Is The Way \(feat\. DMX\)](https://open.spotify.com/album/5v62vw7EFG1nCGFqVVSxkB) | 2:47 | 2024-04-09 |  |
 | [Thousand Lifetimes](https://open.spotify.com/track/3iSgwMXZtxE7fBMqK214JX) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Thousand Lifetimes](https://open.spotify.com/album/1AQe2iTO5cYZqmPDT52ti6) | 3:12 | 2022-08-26 |  |
 | [Thousand Lifetimes \(feat\. Corey Glover of Living Colour\)](https://open.spotify.com/track/0sRAH3UW1W7jUo3CZq0OAH) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS), [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Thousand Lifetimes \(feat\. Corey Glover of Living Colour\)](https://open.spotify.com/album/2lYajN3YIVlefdcwxG4jV3) | 3:10 | 2023-04-03 |  |

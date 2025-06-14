@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Kings Elliot
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,017 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,158 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 49 | [Moviestar](https://open.spotify.com/track/0ItVps4GAVBmOg8o9ZHEip) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Moviestar](https://open.spotify.com/album/13p5cFZs4kREuDaWysHci5) | 3:08 |
 | 50 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 |
 | 51 | [Cairo](https://open.spotify.com/track/1YqlvJsctMgHCQIQeQL4qd) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [My Heart Can't Take the Music](https://open.spotify.com/album/6HXA21x7DwmcMOvbYcRzir) | 3:00 |
-| 52 | [solar power](https://open.spotify.com/track/0YVvQVCBBXTB9yWZzW8sed) | [Eveline](https://open.spotify.com/artist/2QrM4CoNNTfbNZ7e8yvzR0) | [solar power](https://open.spotify.com/album/4mCJPw2TFfdVuJNlMfbhNU) | 3:37 |
+| 52 | [solar power](https://open.spotify.com/track/0YVvQVCBBXTB9yWZzW8sed) | [Eveline](https://open.spotify.com/artist/2QrM4CoNNTfbNZ7e8yvzR0) | [Solar Power](https://open.spotify.com/album/4mCJPw2TFfdVuJNlMfbhNU) | 3:37 |
 | 53 | [Talk](https://open.spotify.com/track/0CrrdcP4QLXeDylIfHqMaC) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Talk](https://open.spotify.com/album/25u5zS0KnYONzjB0uT6QyU) | 3:07 |
 | 54 | [Low Tide](https://open.spotify.com/track/44LdsGW3nKLfkp0WeInuEC) | [DANA](https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr) | [Low Tide](https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM) | 2:41 |
 | 55 | [Underdog](https://open.spotify.com/track/0Jj8nnHsctlKn3AzUsuuVw) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Underdog](https://open.spotify.com/album/1UBONtpt8gca1aWeOgzOma) | 2:48 |

@@ -4,7 +4,7 @@
 
 > 
 
-2,315 songs - 5 day 1 hr 38 min
+2,317 songs - 5 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -583,6 +583,7 @@
 | [Drop It](https://open.spotify.com/track/6YlC7u2ZzUHIdftwlKpp6N) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa), [Scarra](https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr) | [Bassline Breaker](https://open.spotify.com/album/45jLKb3skKjKw5XMKFxOHT) | 2:32 | 2023-05-25 |  |
 | [Drop It \- Original Mix](https://open.spotify.com/track/2YH2qTSiCGvVexz8Zv21HN) | [3 Steps Ahead](https://open.spotify.com/artist/2aSXpRYCcgBPTVCMX3qyjA) | [Drop It](https://open.spotify.com/album/5p1MzjdSFoxYvhv6OSvRni) | 4:21 | 2023-10-13 |  |
 | [Drop It Hard](https://open.spotify.com/track/1qDyPiqctcoZfHSlzIrAwY) | [Synapze](https://open.spotify.com/artist/1jW6LuIyqoqeVThJeuG8QK) | [Drop It Hard](https://open.spotify.com/album/0WEei61n72xzVUJhjOm3xa) | 2:22 | 2025-03-02 |  |
+| [Drop That Beat \(So W'Happy Festival 2025 Original Soundtrack\)](https://open.spotify.com/track/4ls9watcuFrLROeQnPvDEx) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Drop That Beat \(So W'Happy Festival 2025 Original Soundtrack\)](https://open.spotify.com/album/0ov43I5waVPTufH0FPStx4) | 2:21 | 2025-06-13 |  |
 | [Drop That Shit](https://open.spotify.com/track/5xbA9CEdLZabXdGilUNQZL) | [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4), [Dr Donk](https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu) | [PIEP vs ZAAG](https://open.spotify.com/album/0kWH8jodQkcUYvKWsdGY5H) | 3:04 | 2024-11-21 |  |
 | [Drop The Bass](https://open.spotify.com/track/4UNHfelpfXVebSFNu0kVYp) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Drop The Bass](https://open.spotify.com/album/04Q0lTXiPIEG7xV7WPROvF) | 2:59 | 2023-10-27 |  |
 | [DROP THE BASS](https://open.spotify.com/track/66jWBuhex9PX3CGAK5UlRG) | [X\-Pander](https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K) | [DROP THE BASS](https://open.spotify.com/album/3SYsMSPNdUObfj4OdAaw97) | 4:07 | 2024-10-20 |  |
@@ -1912,6 +1913,7 @@
 | [Super Nova](https://open.spotify.com/track/76mCCIqDCMZVAvkLB8QNNF) | [YUKIYANAGI](https://open.spotify.com/artist/5CxWZpW3bKbMiOC6jJ5r7i), [iMeiden](https://open.spotify.com/artist/7zWpS8VvVTkIb7oWP3scCQ) | [Bright Green](https://open.spotify.com/album/0G8zdiHMaxQRWJu1JzzS6N) | 3:13 | 2022-02-22 |  |
 | [Super Rotation](https://open.spotify.com/track/0r3iQH70BvsJbBqe5OmG5o) | [aran](https://open.spotify.com/artist/4FvSs32NRc6sS3V8ylZrzq) | [Super Rotation](https://open.spotify.com/album/6B0DiJwohbdaS9qJMcoEoH) | 3:12 | 2024-12-06 |  |
 | [Super Sonic](https://open.spotify.com/track/1nYUpqPuBOsDBWS3HIS6Tj) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Super Sonic](https://open.spotify.com/album/1AsBwCizFw0GPa4lvPhKw5) | 3:01 | 2025-01-25 |  |
+| [Superman](https://open.spotify.com/track/2a9gfRa6nFGHa7m5EtK6Ga) | [Udow](https://open.spotify.com/artist/0ks7tKbD7vxmutoXPuwxnB) | [Superman](https://open.spotify.com/album/2oxnPcGA80OAC3pD9v1ZQ6) | 2:30 | 2025-06-13 |  |
 | [SUPERNOVA](https://open.spotify.com/track/1ANR8cAwvUJkxHzvitdTD0) | [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC) | [SUPERNOVA](https://open.spotify.com/album/2x5KlpnX8nnBcWOmw5bqYM) | 2:45 | 2025-02-01 |  |
 | [Supersonic](https://open.spotify.com/track/01jx3vXwUaw9cfFeBk8sJQ) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Supersonic / Hands Up In The Sky](https://open.spotify.com/album/0x72kHM5nCDu7qtoIJcnfT) | 3:08 | 2025-05-26 |  |
 | [Supersonic](https://open.spotify.com/track/1Onaz9KWcA0eSjEOJjY7gt) | [Radium](https://open.spotify.com/artist/5YG7cC1VX7Nh7AjUOf6PcG), [Mass Destruct!on](https://open.spotify.com/artist/2GGFOZQrDYZAJEpfqWsTuA) | [I Am Frenchcore 15](https://open.spotify.com/album/2Qo3R8eLjTkMgWeXEcRCdA) | 3:54 | 2024-04-13 |  |

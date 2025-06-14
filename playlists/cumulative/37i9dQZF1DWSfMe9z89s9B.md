@@ -2,7 +2,7 @@
 
 ### [Vanguard](https://open.spotify.com/playlist/37i9dQZF1DWSfMe9z89s9B)
 
-> The new school \- Alternative R&B\. Cover: Khamari
+> The new school \- Alternative R&B\. Cover: Avenoir and Bryant Barnes
 
 1,431 songs - 3 day 3 hr 17 min
 
@@ -1380,7 +1380,7 @@
 | [WHITE CROCS \(with Ryan Trey\)](https://open.spotify.com/track/45uwA5e851qa3xWqKGYxGC) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [WHITE CROCS \(with Ryan Trey\)](https://open.spotify.com/album/7qSxPZiS8uO3QTELEUvFKB) | 2:27 | 2023-01-27 | 2023-07-22 |
 | [White Wine](https://open.spotify.com/track/4ysRlTFRuc1UUMPme4VdBa) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Hopeless Dreams](https://open.spotify.com/album/088yo1cqpkG6fO9ouTQ9R2) | 2:33 | 2025-02-14 | 2025-03-22 |
 | [Whiteclaw](https://open.spotify.com/track/6DpLbRHQLP3dJvz3khE3UE) | [The Last Artful, Dodgr](https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n) | [Hits Of Today](https://open.spotify.com/album/1jHO2EMilNQVl5JnMRtQU3) | 2:47 | 2022-08-19 | 2022-11-05 |
-| [WHITNEY](https://open.spotify.com/track/5bYCfnU4JbAANFkxpbAbhR) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [WHITNEY](https://open.spotify.com/album/36M4NAbKJBDPIJbzWcJHDw) | 2:44 | 2024-09-20 | 2025-06-04 |
+| [WHITNEY](https://open.spotify.com/track/5bYCfnU4JbAANFkxpbAbhR) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [WHITNEY](https://open.spotify.com/album/36M4NAbKJBDPIJbzWcJHDw) | 2:44 | 2024-09-20 |  |
 | [WHO ARE YOU ANYWAY? \(feat\. Leon Thomas\)](https://open.spotify.com/track/3qMj6GQYGayyJjubOZ5sm4) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [WHO ARE YOU ANYWAY? \(feat\. Leon Thomas\)](https://open.spotify.com/album/6bI8Tj8V4fjpMvnzHVEkPS) | 2:58 | 2025-02-07 |  |
 | [Who Are You, Pt\. II](https://open.spotify.com/track/6JjLSIKFdzaLcCwQ2vWqgv) | [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg) | [Who Are You, Pt\. II](https://open.spotify.com/album/2V8bi0LD8wtZAw0uz4drrh) | 3:07 | 2023-05-19 | 2023-05-27 |
 | [WHO DO U LUV](https://open.spotify.com/track/4K3c9V4rrzCHv4kHNXP0xE) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [WHO DO U LUV](https://open.spotify.com/album/0As7QlanAke4qQRSW4bEQr) | 4:08 | 2023-07-07 | 2023-10-07 |

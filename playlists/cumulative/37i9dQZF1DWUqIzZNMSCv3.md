@@ -4,7 +4,7 @@
 
 > The world's most iconic and relaxing classical piano.
 
-152 songs - 10 hr 2 min
+153 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Recueil de chants, Op\. 65: No\. 6, Barcarolle](https://open.spotify.com/track/3IrTLEtkdt8AOCZkxhXH3Q) | [Charles\-Valentin Alkan](https://open.spotify.com/artist/07OhqeLloDO7wu0yCaVO2D), [Bruce Liu](https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9) | [WAVES: Music by Rameau, Ravel, Alkan](https://open.spotify.com/album/5j5eLlvzM8KBh6vljwgbpz) | 3:36 | 2025-04-11 |  |
 | [Romance in E Minor, S.169/LW.A148](https://open.spotify.com/track/2O4mWHDsxd8Ca78NlvkPAt) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Gabriele Bagnati](https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj) | [Romance in E Minor, S.169/LW.A148](https://open.spotify.com/album/7p6k5kDAD14eA32PFOOBsY) | 3:00 | 2025-05-23 |  |
 | [Rêverie, CD 76](https://open.spotify.com/track/6HNUntao7jCtKR2cGKgqn0) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 5:29 | 2021-12-06 |  |
+| [Satie: Soupirs fanés: Barbouillage](https://open.spotify.com/track/01CXDCevphQulJtd6qSyFL) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Satie: Barbouillage](https://open.spotify.com/album/7oOdfo18DtT9COuALJvBlG) | 0:53 | 2025-06-13 |  |
 | [Scarlatti, D: Keyboard Sonata in F Minor, Kk\. 466](https://open.spotify.com/track/234LwPuKv0RLwbiWYUEeJT) | [Domenico Scarlatti](https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE), [Fazıl Say](https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N) | [Morning Piano \- Scarlatti: Keyboard Sonata K\. 466](https://open.spotify.com/album/2GCs7UuM83toYpS5mAhuwG) | 7:24 | 2022-07-08 |  |
 | [Schubert: Piano Sonata No\. 14 in A Minor, Op\. posth\. 143, D\. 784 "Grande Sonate": II\. Andante](https://open.spotify.com/track/0igQOjlKECAEjXsKM5Y8dl) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Eric Lu](https://open.spotify.com/artist/2v2GiBMOpS1N1HfAhSZOVC) | [Schubert: Piano Sonata No\. 14 in A Minor, Op\. posth\. 143, D\. 784, "Grande Sonate": II\. Andante](https://open.spotify.com/album/4ARneuJS2sfcd1eSjSarqS) | 4:44 | 2022-11-11 | 2025-05-03 |
 | [Schubert: Piano Sonata No\. 14 in A Minor, Op\. Posth\. 143, D\. 784 "Grande Sonate": II\. Andante](https://open.spotify.com/track/6HbZbPPi4uFNtb4iZYfzzP) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Eric Lu](https://open.spotify.com/artist/2v2GiBMOpS1N1HfAhSZOVC) | [Schubert: Piano Sonatas D\. 784 & 959](https://open.spotify.com/album/2HlQ2ZoUOJQCfiiI5brrkw) | 4:44 | 2023-01-09 | 2024-04-19 |

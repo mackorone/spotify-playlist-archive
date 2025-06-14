@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,144 songs - 4 day 18 hr 57 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,149 songs - 4 day 19 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2152,5 +2152,10 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2142 | [Club Bizarre](https://open.spotify.com/track/4fHug3zCanK33sdvticISi) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Club Bizarre](https://open.spotify.com/album/49CWPw9MGkEvc78gTjLnEe) | 5:00 |
 | 2143 | [You Know You Like It](https://open.spotify.com/track/57kR5SniQIbsbVoIjjOUDa) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [You Know You Like It](https://open.spotify.com/album/6mQGo1a9mXHNUSJYwXi9Wd) | 4:07 |
 | 2144 | [2021](https://open.spotify.com/track/7sy4upvDMtpz0jDCech44W) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [7G](https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB) | 1:56 |
+| 2145 | [Loose Cannon](https://open.spotify.com/track/1FxmJ9hQ0nVrOI19SChpi8) | [Puzzle](https://open.spotify.com/artist/3JDZy6EWo6V8yABANunf6V) | [X Hail](https://open.spotify.com/album/5EeK2ioXWQelWsAvtr7EUL) | 2:57 |
+| 2146 | [nanana](https://open.spotify.com/track/4fSUKZkNYgEFFFbzT8o7Uj) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [nanana](https://open.spotify.com/album/5yPh8kBP139pDobFcpumCP) | 2:02 |
+| 2147 | [Q\-Lo Bendecio](https://open.spotify.com/track/2CadwUJncU5t75YykMmDiu) | [CRRDR](https://open.spotify.com/artist/5K3Cj0EgqQKp4apSdW2D6I) | [DAMNBOW](https://open.spotify.com/album/0f963eZbpaHhVoBQ8K2SWq) | 2:48 |
+| 2148 | [Candy](https://open.spotify.com/track/5MYPciceOHMd7Vl7ntELEq) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2c3UCT6duZO82Fk1QZ9D7G) | 3:27 |
+| 2149 | [A New Kind Of Love \- Demo](https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz), [Guy Sigsworth](https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj) | [A New Kind Of Love \(Demo\)](https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb) | 4:19 |
 
-Snapshot ID: `AAAEPpc11gwiYLH9jI9/cb4foTt5LHaU`
+Snapshot ID: `AAAEQ+yxpCa2ix65VVN0qpzNyLa76Rdm`

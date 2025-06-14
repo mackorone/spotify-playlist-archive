@@ -1,13 +1,93 @@
 {
-  "description": "a little indie, a little pop.  Cover: Kacy Hill ",
-  "num_followers": 227442,
+  "description": "a little indie, a little pop.  Cover: Henry Moodie",
+  "num_followers": 227472,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEJn0wAAAADcTBuwca2eBOy+qc0xJ156",
+  "snapshot_id": "aEukyQAAAADfRdrnUYThT3d/BENFoH+t",
   "tracks": [
+    {
+      "added_at": "2025-06-13 04:00:59",
+      "album": {
+        "name": "comedown",
+        "url": "https://open.spotify.com/album/4r6XmJdluBTzkNjYtR3ABh"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 192684,
+      "name": "comedown",
+      "url": "https://open.spotify.com/track/0WP2mSrYIXEy2poZkAWlNZ"
+    },
+    {
+      "added_at": "2025-02-14 05:00:19",
+      "album": {
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 218660,
+      "name": "Sally, When The Wine Runs Out",
+      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
+    },
+    {
+      "added_at": "2025-06-13 04:00:59",
+      "album": {
+        "name": "His LA Girl",
+        "url": "https://open.spotify.com/album/5ZmQqhcyWuVecfOSqpf5rY"
+      },
+      "artists": [
+        {
+          "name": "Ren Martinez",
+          "url": "https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "His LA Girl",
+      "url": "https://open.spotify.com/track/5wA2hUAniDVKkcyhnY1IKs"
+    },
+    {
+      "added_at": "2025-06-13 04:00:59",
+      "album": {
+        "name": "The Beginning of Us",
+        "url": "https://open.spotify.com/album/4MeY1nCrurVL8oCRNWCBzm"
+      },
+      "artists": [
+        {
+          "name": "Jordy Searcy",
+          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "The Beginning of Us",
+      "url": "https://open.spotify.com/track/2qnNiVC07rM5gxzL9f0mgE"
+    },
+    {
+      "added_at": "2025-02-28 05:01:00",
+      "album": {
+        "name": "Talk Me Down",
+        "url": "https://open.spotify.com/album/0ksRUgPVLT45egqtYf0yeL"
+      },
+      "artists": [
+        {
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
+        }
+      ],
+      "duration_ms": 172854,
+      "name": "Talk Me Down",
+      "url": "https://open.spotify.com/track/5RfTkZXXAq7ofaPOBZAXvb"
+    },
     {
       "added_at": "2025-06-06 04:00:19",
       "album": {
@@ -25,6 +105,38 @@
       "url": "https://open.spotify.com/track/14KDMtRqZDwg7gJAYRRcuF"
     },
     {
+      "added_at": "2025-06-13 04:00:59",
+      "album": {
+        "name": "Girls Just Wanna Be Famous",
+        "url": "https://open.spotify.com/album/3dTj9QX5l2YQl1qbyxnnZt"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 161060,
+      "name": "Girls Just Wanna Be Famous",
+      "url": "https://open.spotify.com/track/6K57TO1Y8uSQWNYdOXmSRE"
+    },
+    {
+      "added_at": "2025-06-13 04:00:59",
+      "album": {
+        "name": "Summer Love",
+        "url": "https://open.spotify.com/album/0IcVjhrvZWzKehC88IZQgs"
+      },
+      "artists": [
+        {
+          "name": "Good Boy Daisy",
+          "url": "https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL"
+        }
+      ],
+      "duration_ms": 191050,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/0gNf2MHNWlktWxVRHfGhFb"
+    },
+    {
       "added_at": "2025-05-30 04:00:34",
       "album": {
         "name": "Marianne",
@@ -39,6 +151,38 @@
       "duration_ms": 190032,
       "name": "Marianne",
       "url": "https://open.spotify.com/track/0SE3l5jJOpGxqXqvT3fkhS"
+    },
+    {
+      "added_at": "2025-03-14 04:00:02",
+      "album": {
+        "name": "Relationships",
+        "url": "https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Relationships",
+      "url": "https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ"
+    },
+    {
+      "added_at": "2025-06-13 04:00:59",
+      "album": {
+        "name": "CYCLES",
+        "url": "https://open.spotify.com/album/1T1eS3I0K7NC7BmnHQ7PL4"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 118690,
+      "name": "TATTOOS & U",
+      "url": "https://open.spotify.com/track/7EYLUgc5aIc5r5sfzjJd2E"
     },
     {
       "added_at": "2025-06-06 04:00:19",
@@ -107,6 +251,22 @@
       "duration_ms": 156165,
       "name": "Same Mouth",
       "url": "https://open.spotify.com/track/3eVNwlFGyGwaLGIS71cS8a"
+    },
+    {
+      "added_at": "2025-06-13 04:00:59",
+      "album": {
+        "name": "Freaking Out",
+        "url": "https://open.spotify.com/album/0BftWUaqnKTTvxP1dclKZb"
+      },
+      "artists": [
+        {
+          "name": "PARKWILD",
+          "url": "https://open.spotify.com/artist/37pbVQWclfUKj4ZKb049zA"
+        }
+      ],
+      "duration_ms": 203230,
+      "name": "Freaking Out",
+      "url": "https://open.spotify.com/track/1RPnV2B4YAzpu8SIqAI7dO"
     },
     {
       "added_at": "2025-05-23 04:00:48",
@@ -531,58 +691,6 @@
     {
       "added_at": "2025-04-11 04:00:17",
       "album": {
-        "name": "Don't Forget You Love Me",
-        "url": "https://open.spotify.com/album/4ZyeSbYo2RNNTqLtuxahK1"
-      },
-      "artists": [
-        {
-          "name": "Calum Hood",
-          "url": "https://open.spotify.com/artist/663fZd6uEkPKLwBzPj50S3"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Don't Forget You Love Me",
-      "url": "https://open.spotify.com/track/3PCpcXOeOFSkJORnFuBF4B"
-    },
-    {
-      "added_at": "2025-05-09 04:00:12",
-      "album": {
-        "name": "ring my bell",
-        "url": "https://open.spotify.com/album/1io4H0laNnkC6jEsTdQdh4"
-      },
-      "artists": [
-        {
-          "name": "country girl",
-          "url": "https://open.spotify.com/artist/3CexosgwAdYgWww7AAHnXl"
-        },
-        {
-          "name": "Melody English",
-          "url": "https://open.spotify.com/artist/681ANzmKTyqMjgPffPiFPp"
-        }
-      ],
-      "duration_ms": 136779,
-      "name": "ring my bell",
-      "url": "https://open.spotify.com/track/5pX5ZWRsPdzJPL22dajuIP"
-    },
-    {
-      "added_at": "2025-04-18 04:05:00",
-      "album": {
-        "name": "The First and Last of the Perfect Parties",
-        "url": "https://open.spotify.com/album/4c08Ec8CktaVauOyAmiNZ2"
-      },
-      "artists": [
-        {
-          "name": "Ren Martinez",
-          "url": "https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf"
-        }
-      ],
-      "duration_ms": 248562,
-      "name": "The First and Last of the Perfect Parties",
-      "url": "https://open.spotify.com/track/2fyyltBHLMwFRKgpOpLLCs"
-    },
-    {
-      "added_at": "2025-04-11 04:00:17",
-      "album": {
         "name": "INSIDE :",
         "url": "https://open.spotify.com/album/7fRksONg2LUzGqXbIMd140"
       },
@@ -629,102 +737,6 @@
       "url": "https://open.spotify.com/track/4BiiGfe1QtSpsiZDvA4Pmd"
     },
     {
-      "added_at": "2025-04-04 04:00:31",
-      "album": {
-        "name": "cool",
-        "url": "https://open.spotify.com/album/1Ohj7SrdoUOqQ3zgAdClPv"
-      },
-      "artists": [
-        {
-          "name": "Michael Clifford",
-          "url": "https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0"
-        }
-      ],
-      "duration_ms": 163533,
-      "name": "cool",
-      "url": "https://open.spotify.com/track/7BicWDX4TJX09ps0XhNmrS"
-    },
-    {
-      "added_at": "2025-04-11 04:00:17",
-      "album": {
-        "name": "Happier",
-        "url": "https://open.spotify.com/album/38bpIfVbUtqyWLZPtNf5jY"
-      },
-      "artists": [
-        {
-          "name": "Fickle Friends",
-          "url": "https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1"
-        }
-      ],
-      "duration_ms": 167981,
-      "name": "Happier",
-      "url": "https://open.spotify.com/track/2K7joY7tfceQ5GRhibXpN2"
-    },
-    {
-      "added_at": "2025-02-14 05:00:19",
-      "album": {
-        "name": "Kansas Anymore (The Longest Goodbye)",
-        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 218660,
-      "name": "Sally, When The Wine Runs Out",
-      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
-    },
-    {
-      "added_at": "2025-04-04 04:00:31",
-      "album": {
-        "name": "Are You Okay?",
-        "url": "https://open.spotify.com/album/0uz7lFJCHjKKMYU9k1WGMI"
-      },
-      "artists": [
-        {
-          "name": "DOUBLECAMP",
-          "url": "https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy"
-        }
-      ],
-      "duration_ms": 151442,
-      "name": "Are You Okay?",
-      "url": "https://open.spotify.com/track/3uKwNNEG54PcTNPxPlI4PG"
-    },
-    {
-      "added_at": "2025-04-11 04:00:17",
-      "album": {
-        "name": "othello",
-        "url": "https://open.spotify.com/album/7C4tEL9g4Vb2Dsn9Q1H52h"
-      },
-      "artists": [
-        {
-          "name": "hard life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
-        }
-      ],
-      "duration_ms": 192047,
-      "name": "othello",
-      "url": "https://open.spotify.com/track/06ss61sRVXC2DuYh2GcoVt"
-    },
-    {
-      "added_at": "2025-03-14 04:00:02",
-      "album": {
-        "name": "Relationships",
-        "url": "https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Relationships",
-      "url": "https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ"
-    },
-    {
       "added_at": "2025-03-07 05:00:39",
       "album": {
         "name": "Second Wind",
@@ -759,22 +771,6 @@
     {
       "added_at": "2025-02-28 05:01:00",
       "album": {
-        "name": "Talk Me Down",
-        "url": "https://open.spotify.com/album/0ksRUgPVLT45egqtYf0yeL"
-      },
-      "artists": [
-        {
-          "name": "Moody Joody",
-          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
-        }
-      ],
-      "duration_ms": 172854,
-      "name": "Talk Me Down",
-      "url": "https://open.spotify.com/track/5RfTkZXXAq7ofaPOBZAXvb"
-    },
-    {
-      "added_at": "2025-02-28 05:01:00",
-      "album": {
         "name": "Sorry I'm Here For Someone Else",
         "url": "https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ"
       },
@@ -787,22 +783,6 @@
       "duration_ms": 156582,
       "name": "Sorry I'm Here For Someone Else",
       "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
-    },
-    {
-      "added_at": "2025-02-14 05:00:19",
-      "album": {
-        "name": "L.O.V.E.",
-        "url": "https://open.spotify.com/album/2XGWlzeYSdqAyyq2dJqZ8L"
-      },
-      "artists": [
-        {
-          "name": "Jessica Winter",
-          "url": "https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy"
-        }
-      ],
-      "duration_ms": 236954,
-      "name": "L.O.V.E.",
-      "url": "https://open.spotify.com/track/5qwr6y7se6RKHijm7FXnUe"
     },
     {
       "added_at": "2024-08-30 15:34:12",

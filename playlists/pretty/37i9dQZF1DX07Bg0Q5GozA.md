@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: SPARKLING, Digitalism
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,525 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,484 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 27 | [Solid](https://open.spotify.com/track/3bMb5IjD0tKWKn7A11ulwg) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [Solid](https://open.spotify.com/album/4eRtgOsveRqHt8wAZXQI1E) | 4:14 |
 | 28 | [Casualities \- GRIFE & Albuquerque Remix](https://open.spotify.com/track/4Fo16iRDm4KJBhJuffmPS5) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [GRIFE](https://open.spotify.com/artist/0peVkBhumiuUyxMqc9EGUR), [Albuquerque](https://open.spotify.com/artist/0oGbLQeo6eK2278pQf4atC), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Casualities \(GRIFE & Albuquerque Remix\)](https://open.spotify.com/album/77RGy3uVZVMouROkLAAa4A) | 7:20 |
 | 29 | [Maybe Late](https://open.spotify.com/track/0ltoUzrfEkfemkt5rYDleN) | [NNHMN](https://open.spotify.com/artist/3PFLYlaguMd2AXu1i3UAKt) | [Maybe Late](https://open.spotify.com/album/4CFv0Ne7B59prow2RWneMz) | 4:27 |
-| 30 | [Lose Yourself](https://open.spotify.com/track/5ROQZz09NH2V9uMA3nrTiK) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Lose Yourself](https://open.spotify.com/album/0IXM5PRVeRZEFC43V1FurB) | 2:54 |
-| 31 | [Two Hearts, Come Through](https://open.spotify.com/track/2JoyN7oOvqLGWHbbzNIcjk) | [BowAsWell](https://open.spotify.com/artist/6apmV6knOKD1iACyE9wRLe) | [Two Hearts, Come Through](https://open.spotify.com/album/3r2M2R0w1L4gF5VAajvzCQ) | 2:47 |
-| 32 | [Felt Bat](https://open.spotify.com/track/6Uc4kBXn3RiR9HK20s8J2U) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [seventy seven zero zero seventy seven](https://open.spotify.com/album/6njWHvo8CWRJ2avlbY2gfQ) | 5:13 |
-| 33 | [Bike in L.A\. \- Remix](https://open.spotify.com/track/7b0RdqkZKkSZZDSrnEVZRS) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Bike in L.A\. \(Remix\)](https://open.spotify.com/album/2lkzxdUkdfM6icTQcX0Ecv) | 3:23 |
-| 34 | [Mirror](https://open.spotify.com/track/1pIPpS2d4wjQG3qtjbq7GF) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Mirror](https://open.spotify.com/album/4hmXcfGg3N8YBZDLAB6wZz) | 3:12 |
+| 30 | [Two Hearts, Come Through](https://open.spotify.com/track/2JoyN7oOvqLGWHbbzNIcjk) | [BowAsWell](https://open.spotify.com/artist/6apmV6knOKD1iACyE9wRLe) | [Two Hearts, Come Through](https://open.spotify.com/album/3r2M2R0w1L4gF5VAajvzCQ) | 2:47 |
+| 31 | [Felt Bat](https://open.spotify.com/track/6Uc4kBXn3RiR9HK20s8J2U) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [seventy seven zero zero seventy seven](https://open.spotify.com/album/6njWHvo8CWRJ2avlbY2gfQ) | 5:13 |
+| 32 | [Bike in L.A\. \- Remix](https://open.spotify.com/track/7b0RdqkZKkSZZDSrnEVZRS) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Bike in L.A\. \(Remix\)](https://open.spotify.com/album/2lkzxdUkdfM6icTQcX0Ecv) | 3:23 |
+| 33 | [Mirror](https://open.spotify.com/track/1pIPpS2d4wjQG3qtjbq7GF) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Mirror](https://open.spotify.com/album/4hmXcfGg3N8YBZDLAB6wZz) | 3:12 |
+| 34 | [Lose Yourself](https://open.spotify.com/track/5ROQZz09NH2V9uMA3nrTiK) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Lose Yourself](https://open.spotify.com/album/0IXM5PRVeRZEFC43V1FurB) | 2:54 |
 | 35 | [Melody X \- 2025 Edit](https://open.spotify.com/track/7M6WA1x3hQzGyI8BpuJg89) | [Bonaparte](https://open.spotify.com/artist/2jwl8DJIsmnFbA5vPdGSCy), [Kid Simius](https://open.spotify.com/artist/36y7VzGBD47ymYb40a7JkE) | [Melody X / Too Much](https://open.spotify.com/album/1fZisbw7hZ6Fd4lZ6WK8Qh) | 2:49 |
 | 36 | [1 DAY 2 LATE](https://open.spotify.com/track/5akUW2aUdnNs3Y0Ohn560G) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [GEMINI](https://open.spotify.com/album/43s8J7Tru8j2shoOtFs0N8) | 3:37 |
 | 37 | [Waiting For The Punchline \(Swallertrip\)](https://open.spotify.com/track/740u0eelwwCQ6pfgQzg1Gy) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Waiting For The Punchline \(Swallertrip\)](https://open.spotify.com/album/1EnXmluTzfCoiEluGATRLp) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [I Can’t Escape Myself](https://open.spotify.com/track/729AUIPyZhlZsBiGj3598Y) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [I Can't Escape Myself](https://open.spotify.com/album/5nD3z2sa1qWbZM2EVE0nNJ) | 3:48 |
 | 75 | [PARAMOUNT](https://open.spotify.com/track/1moNN6nYfTaO8Inwz8yTX0) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [PARAMOUNT](https://open.spotify.com/album/2otoS3TfBiNHBvd9ljkS2R) | 2:58 |
 
-Snapshot ID: `aEtOCwAAAADtKDZY5s8OA7OTtfkVPby8`
+Snapshot ID: `aEvIlQAAAABQdutzu7l931gtKiDR8H8O`

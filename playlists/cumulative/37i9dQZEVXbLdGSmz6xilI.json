@@ -416,7 +416,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 258281,
       "name": "2AM",
       "url": "https://open.spotify.com/track/3DLtPObflLQBodZN8qGODT"
@@ -5732,6 +5732,44 @@
       "duration_ms": 177684,
       "name": "C\u1ea2M NH\u1eacN (feat. Seachains)",
       "url": "https://open.spotify.com/track/2sUJxpZyYIAtJjy4ptfTK2"
+    },
+    {
+      "album": {
+        "name": "EM XINH \"SAY HI\", T\u1eacP 2",
+        "url": "https://open.spotify.com/album/1YqGzD01yNEGyh4shQ5LAh"
+      },
+      "artists": [
+        {
+          "name": "EM XINH \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/1I5CkmtLVWLUygTT3cLr5X"
+        },
+        {
+          "name": "B\u00edch Ph\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge"
+        },
+        {
+          "name": "Ti\u00ean Ti\u00ean",
+          "url": "https://open.spotify.com/artist/5OvCh1Nin8AGw7OkxYinBe"
+        },
+        {
+          "name": "B\u1ea3o Anh",
+          "url": "https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J"
+        },
+        {
+          "name": "Ph\u01b0\u01a1ng M\u1ef9 Chi",
+          "url": "https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF"
+        },
+        {
+          "name": "LAMOON",
+          "url": "https://open.spotify.com/artist/5kT9ftAJylK1roRMcdcsw2"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226366,
+      "name": "C\u1ea6M K\u1ef2 THI HO\u1ea0",
+      "url": "https://open.spotify.com/track/6sH3hTKs0DcZvHASR7cQ6F"
     },
     {
       "album": {
@@ -13426,7 +13464,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 191834,
       "name": "MOIEM",
       "url": "https://open.spotify.com/track/265hQASPY3HFmUH38zZrSK"
@@ -15742,7 +15780,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 254304,
       "name": "N\u1eafng c\u00f3 mang em v\u1ec1",
       "url": "https://open.spotify.com/track/6kCU6i8iRrAAmJJ8Sj4JYC"
@@ -15902,7 +15940,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 263752,
       "name": "n\u1ebfu l\u00fac \u0111\u00f3",
       "url": "https://open.spotify.com/track/4exlWP8cokkWVCvyP3kg7c"
@@ -22738,7 +22776,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 170666,
       "name": "Vai Lan Don Dua",
       "url": "https://open.spotify.com/track/6hUpxEKFSjS8metuA1yxlf"

@@ -1,28 +1,28 @@
 {
-  "description": "50% techno, 50% house \u2694\ufe0f Tech house technicians, featuring HNTR",
-  "num_followers": 680713,
+  "description": "50% techno, 50% house \ud83d\udcb0\ud83d\udcb0 Tech house technicians, featuring Joshwa",
+  "num_followers": 680790,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEJn3AAAAABraKUB8vXS7HTcP+HD2n9b",
+  "snapshot_id": "aEuidgAAAADIfGNLQ809AdBUdz4vCsTY",
   "tracks": [
     {
-      "added_at": "2025-06-06 04:00:28",
+      "added_at": "2025-06-13 04:00:54",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/2JyHINnQMI90yaPLot64ME"
+        "name": "GDH",
+        "url": "https://open.spotify.com/album/0XuC5xsv6jj7zlrO2kUYz2"
       },
       "artists": [
         {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
         }
       ],
-      "duration_ms": 197407,
-      "name": "Victory",
-      "url": "https://open.spotify.com/track/0bQdZtYoKuUjVdbpsqbncn"
+      "duration_ms": 177327,
+      "name": "GDH",
+      "url": "https://open.spotify.com/track/2PhKn3tXUkx5vHlYM3P4Ob"
     },
     {
       "added_at": "2025-05-16 04:00:35",
@@ -39,38 +39,6 @@
       "duration_ms": 227272,
       "name": "Appetite",
       "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
-    },
-    {
-      "added_at": "2025-05-30 04:00:35",
-      "album": {
-        "name": "Raw Control",
-        "url": "https://open.spotify.com/album/1DwqsGfeJWh4P4cbd0AywD"
-      },
-      "artists": [
-        {
-          "name": "Discip",
-          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
-        }
-      ],
-      "duration_ms": 150988,
-      "name": "Raw Control",
-      "url": "https://open.spotify.com/track/0JrEm4vEEzpHsdcxHlRJop"
-    },
-    {
-      "added_at": "2025-05-23 04:00:51",
-      "album": {
-        "name": "Too Big For B-Side",
-        "url": "https://open.spotify.com/album/5jtv44Kb5NZmbRDfpCTIWE"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 224414,
-      "name": "Like I Like It",
-      "url": "https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm"
     },
     {
       "added_at": "2025-06-06 04:00:28",
@@ -97,24 +65,52 @@
       "url": "https://open.spotify.com/track/2b0VEdEQVIAPjxpGqh0MbB"
     },
     {
-      "added_at": "2025-05-23 04:00:51",
+      "added_at": "2025-06-13 04:00:54",
       "album": {
-        "name": "Ease My Mind (Odd Mob Remix)",
-        "url": "https://open.spotify.com/album/1Svch4OVQY2w077FIziTUu"
+        "name": "Dance MF",
+        "url": "https://open.spotify.com/album/5buBBOKuY6ebeyvCjjTwAZ"
       },
       "artists": [
         {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+          "name": "Seeing Double",
+          "url": "https://open.spotify.com/artist/0YwjcHEhy7FPPoFTQ1fEMj"
         }
       ],
-      "duration_ms": 230769,
-      "name": "Ease My Mind - Odd Mob Remix",
-      "url": "https://open.spotify.com/track/5kRzvJXEsODhLA3pB1DvHS"
+      "duration_ms": 168750,
+      "name": "Dance MF",
+      "url": "https://open.spotify.com/track/6Wik2cZy6xxB4FNURP6xqX"
+    },
+    {
+      "added_at": "2025-05-23 04:00:51",
+      "album": {
+        "name": "Too Big For B-Side",
+        "url": "https://open.spotify.com/album/5jtv44Kb5NZmbRDfpCTIWE"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 224414,
+      "name": "Like I Like It",
+      "url": "https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm"
+    },
+    {
+      "added_at": "2025-05-30 04:00:35",
+      "album": {
+        "name": "Raw Control",
+        "url": "https://open.spotify.com/album/1DwqsGfeJWh4P4cbd0AywD"
+      },
+      "artists": [
+        {
+          "name": "Discip",
+          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
+        }
+      ],
+      "duration_ms": 150988,
+      "name": "Raw Control",
+      "url": "https://open.spotify.com/track/0JrEm4vEEzpHsdcxHlRJop"
     },
     {
       "added_at": "2025-06-06 04:00:28",
@@ -137,36 +133,72 @@
       "url": "https://open.spotify.com/track/08zP4dU5N4LXjKUzl3XPBB"
     },
     {
-      "added_at": "2025-05-30 04:00:35",
+      "added_at": "2025-06-13 04:00:54",
       "album": {
-        "name": "Do U Like It?",
-        "url": "https://open.spotify.com/album/2ghSJRqd2QhOCu7wz16Bbz"
+        "name": "Space Buddies EP",
+        "url": "https://open.spotify.com/album/1GsFKNDSZKWf279LgqUQeB"
       },
       "artists": [
         {
-          "name": "DA$ON",
-          "url": "https://open.spotify.com/artist/3EsqI4Ji25nJea9qsLMAGQ"
+          "name": "NightFunk",
+          "url": "https://open.spotify.com/artist/1UgUBnYpGyrYfGIfkMp08O"
         }
       ],
-      "duration_ms": 238153,
-      "name": "Do U Like It?",
-      "url": "https://open.spotify.com/track/2Sl9NDr5tSLeand3FCvKSg"
+      "duration_ms": 302769,
+      "name": "Space Buddies",
+      "url": "https://open.spotify.com/track/7E9VosLEPsK1M1QQhJ8ib4"
     },
     {
-      "added_at": "2025-05-30 04:00:35",
+      "added_at": "2025-06-06 04:00:28",
       "album": {
-        "name": "Lil Freaky",
-        "url": "https://open.spotify.com/album/3zY5XU6jr6EIrUR7O7Uacg"
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/2JyHINnQMI90yaPLot64ME"
       },
       "artists": [
         {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
         }
       ],
-      "duration_ms": 210234,
-      "name": "Lil Freaky",
-      "url": "https://open.spotify.com/track/25Rk41lvT9FK9VEdqeUlC0"
+      "duration_ms": 197407,
+      "name": "Victory",
+      "url": "https://open.spotify.com/track/0bQdZtYoKuUjVdbpsqbncn"
+    },
+    {
+      "added_at": "2025-06-06 04:00:28",
+      "album": {
+        "name": "The Bass",
+        "url": "https://open.spotify.com/album/4rfTiL9lgmVD7nU0XuXudx"
+      },
+      "artists": [
+        {
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+        },
+        {
+          "name": "Draxx (ITA)",
+          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
+        }
+      ],
+      "duration_ms": 187680,
+      "name": "The Bass",
+      "url": "https://open.spotify.com/track/6XZtX8nmRPKEVVl0sZ9BWX"
+    },
+    {
+      "added_at": "2025-06-13 04:00:54",
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/5Dsn5j0TDdcOUFuWLOAZwP"
+      },
+      "artists": [
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        }
+      ],
+      "duration_ms": 151884,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/2rymzGONQ8oWXySPxQbE68"
     },
     {
       "added_at": "2025-05-09 04:00:21",
@@ -187,6 +219,182 @@
       "duration_ms": 166968,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/6M6lR8RBlwilhEjV0y5SeX"
+    },
+    {
+      "added_at": "2025-05-23 04:00:51",
+      "album": {
+        "name": "Ease My Mind (Odd Mob Remix)",
+        "url": "https://open.spotify.com/album/1Svch4OVQY2w077FIziTUu"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 230769,
+      "name": "Ease My Mind - Odd Mob Remix",
+      "url": "https://open.spotify.com/track/5kRzvJXEsODhLA3pB1DvHS"
+    },
+    {
+      "added_at": "2025-06-13 04:00:54",
+      "album": {
+        "name": "Wanna Jazz",
+        "url": "https://open.spotify.com/album/1lclwtD7ytQYUr5JJqflRm"
+      },
+      "artists": [
+        {
+          "name": "Havoc & Lawn",
+          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
+        },
+        {
+          "name": "GIANT",
+          "url": "https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Wanna Jazz",
+      "url": "https://open.spotify.com/track/5TmPQBwO8s4oGIWgVQ4MDr"
+    },
+    {
+      "added_at": "2025-05-16 04:00:35",
+      "album": {
+        "name": "X-Rated",
+        "url": "https://open.spotify.com/album/64a4S0L82vMJcOppgnYxmo"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Funkdoobiest",
+          "url": "https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN"
+        }
+      ],
+      "duration_ms": 184620,
+      "name": "X-Rated",
+      "url": "https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw"
+    },
+    {
+      "added_at": "2025-05-02 04:00:40",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1N7K3IIyDpWywAo7hrlHzc"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 181363,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/422u4065pibZQ0jUl1kJo0"
+    },
+    {
+      "added_at": "2025-05-30 04:00:35",
+      "album": {
+        "name": "Do U Like It?",
+        "url": "https://open.spotify.com/album/2ghSJRqd2QhOCu7wz16Bbz"
+      },
+      "artists": [
+        {
+          "name": "DA$ON",
+          "url": "https://open.spotify.com/artist/3EsqI4Ji25nJea9qsLMAGQ"
+        }
+      ],
+      "duration_ms": 238153,
+      "name": "Do U Like It?",
+      "url": "https://open.spotify.com/track/2Sl9NDr5tSLeand3FCvKSg"
+    },
+    {
+      "added_at": "2025-06-13 04:00:54",
+      "album": {
+        "name": "No Excuse",
+        "url": "https://open.spotify.com/album/0ba2fTgEHRr79W7kHiW5sI"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Gamuel Sori",
+          "url": "https://open.spotify.com/artist/4lNfGpoJrHMGdxV4KoRsoi"
+        }
+      ],
+      "duration_ms": 134119,
+      "name": "No Excuse",
+      "url": "https://open.spotify.com/track/2qNQiJ5j7yhWWqDBDV3uEC"
+    },
+    {
+      "added_at": "2025-05-30 04:00:35",
+      "album": {
+        "name": "Life Is Simple (Move Your Body) [SCRIPT Remix]",
+        "url": "https://open.spotify.com/album/1thu54A2fcfVpceZt9yIUY"
+      },
+      "artists": [
+        {
+          "name": "Maesic",
+          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
+        },
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "Salom\u00e9 Das",
+          "url": "https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77"
+        },
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Life Is Simple (Move Your Body) - SCRIPT Remix",
+      "url": "https://open.spotify.com/track/0TuDFOWff6kcIv5JkN4T1S"
+    },
+    {
+      "added_at": "2025-04-25 04:00:56",
+      "album": {
+        "name": "Your Mind",
+        "url": "https://open.spotify.com/album/0hDu4FwqRfw6SxrxlyTCkC"
+      },
+      "artists": [
+        {
+          "name": "Zaark",
+          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Your Mind",
+      "url": "https://open.spotify.com/track/0tmwSGLCjE6aHR80WOlfhe"
+    },
+    {
+      "added_at": "2025-06-13 04:00:54",
+      "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/2kNiIFSNAvmvA3QJezpbhs"
+      },
+      "artists": [
+        {
+          "name": "Dario Nunez",
+          "url": "https://open.spotify.com/artist/2xjAjRLHCAgqazA88wwDLh"
+        },
+        {
+          "name": "DGRACE",
+          "url": "https://open.spotify.com/artist/6numDh9YQSFMC8uVpj4DgJ"
+        }
+      ],
+      "duration_ms": 190527,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/65RxA2YDWFjKwnUxb5WAtn"
     },
     {
       "added_at": "2025-06-06 04:00:28",
@@ -225,60 +433,20 @@
       "url": "https://open.spotify.com/track/2bHmHTRSkjJyjlCFcuQTrG"
     },
     {
-      "added_at": "2025-05-16 04:00:35",
+      "added_at": "2025-06-13 04:00:54",
       "album": {
-        "name": "X-Rated",
-        "url": "https://open.spotify.com/album/64a4S0L82vMJcOppgnYxmo"
+        "name": "Queen Of The Crazy",
+        "url": "https://open.spotify.com/album/5w0Rvnu7ZpmbSgp05qqJEu"
       },
       "artists": [
         {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Funkdoobiest",
-          "url": "https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN"
+          "name": "Cole Knight",
+          "url": "https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb"
         }
       ],
-      "duration_ms": 184620,
-      "name": "X-Rated",
-      "url": "https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw"
-    },
-    {
-      "added_at": "2025-06-06 04:00:28",
-      "album": {
-        "name": "The Bass",
-        "url": "https://open.spotify.com/album/4rfTiL9lgmVD7nU0XuXudx"
-      },
-      "artists": [
-        {
-          "name": "Trace",
-          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
-        },
-        {
-          "name": "Draxx (ITA)",
-          "url": "https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73"
-        }
-      ],
-      "duration_ms": 187680,
-      "name": "The Bass",
-      "url": "https://open.spotify.com/track/6XZtX8nmRPKEVVl0sZ9BWX"
-    },
-    {
-      "added_at": "2025-05-02 04:00:40",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/1N7K3IIyDpWywAo7hrlHzc"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 181363,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/422u4065pibZQ0jUl1kJo0"
+      "duration_ms": 179479,
+      "name": "Queen Of The Crazy",
+      "url": "https://open.spotify.com/track/0ZxYCj3dTnQeeodOBm2fVh"
     },
     {
       "added_at": "2025-05-23 04:00:51",
@@ -301,34 +469,6 @@
       "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
     },
     {
-      "added_at": "2025-05-30 04:00:35",
-      "album": {
-        "name": "Life Is Simple (Move Your Body) [SCRIPT Remix]",
-        "url": "https://open.spotify.com/album/1thu54A2fcfVpceZt9yIUY"
-      },
-      "artists": [
-        {
-          "name": "Maesic",
-          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
-        },
-        {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
-        },
-        {
-          "name": "Salom\u00e9 Das",
-          "url": "https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77"
-        },
-        {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Life Is Simple (Move Your Body) - SCRIPT Remix",
-      "url": "https://open.spotify.com/track/0TuDFOWff6kcIv5JkN4T1S"
-    },
-    {
       "added_at": "2025-05-16 04:00:35",
       "album": {
         "name": "The Party / bodyonbody",
@@ -345,28 +485,20 @@
       "url": "https://open.spotify.com/track/6yXR8x2kz9CwJig3vCXVZl"
     },
     {
-      "added_at": "2025-06-06 04:00:28",
+      "added_at": "2025-05-30 04:00:35",
       "album": {
-        "name": "New Phone",
-        "url": "https://open.spotify.com/album/27mdSfyu1Xx8jI2QXO6mdJ"
+        "name": "Lil Freaky",
+        "url": "https://open.spotify.com/album/3zY5XU6jr6EIrUR7O7Uacg"
       },
       "artists": [
         {
-          "name": "DJ Sugarush",
-          "url": "https://open.spotify.com/artist/4RKrqMYX0HJQh03lplAUkX"
-        },
-        {
-          "name": "Jai Piccone",
-          "url": "https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC"
-        },
-        {
-          "name": "Hotel Rubio",
-          "url": "https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7"
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
         }
       ],
-      "duration_ms": 207273,
-      "name": "New Phone",
-      "url": "https://open.spotify.com/track/5dBHUnIinhOcuhIp6dXbRM"
+      "duration_ms": 210234,
+      "name": "Lil Freaky",
+      "url": "https://open.spotify.com/track/25Rk41lvT9FK9VEdqeUlC0"
     },
     {
       "added_at": "2025-05-23 04:00:51",
@@ -393,6 +525,42 @@
       "url": "https://open.spotify.com/track/6joxPzbbWMfNR4BhmrBy7y"
     },
     {
+      "added_at": "2025-05-30 04:00:35",
+      "album": {
+        "name": "Ayer EP",
+        "url": "https://open.spotify.com/album/3AqWeDsPhdtEVgQApbc7v8"
+      },
+      "artists": [
+        {
+          "name": "Daniel Stacks",
+          "url": "https://open.spotify.com/artist/1Eo31Sd4qwNYf3XbbtDo7h"
+        },
+        {
+          "name": "Jake Bleu",
+          "url": "https://open.spotify.com/artist/46yegH77IvTiL6hRD3TOEN"
+        }
+      ],
+      "duration_ms": 185267,
+      "name": "Ayer",
+      "url": "https://open.spotify.com/track/5ZGMwkZk3PVdt6UxLm6fAM"
+    },
+    {
+      "added_at": "2025-06-13 04:00:54",
+      "album": {
+        "name": "EY",
+        "url": "https://open.spotify.com/album/7MxjwjDHBc4ybp9olRfiNs"
+      },
+      "artists": [
+        {
+          "name": "Sama (US)",
+          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
+        }
+      ],
+      "duration_ms": 139073,
+      "name": "EY",
+      "url": "https://open.spotify.com/track/7LanjmmIXIvVW48eMFryXM"
+    },
+    {
       "added_at": "2025-06-06 04:00:28",
       "album": {
         "name": "Movin Disco",
@@ -407,6 +575,26 @@
       "duration_ms": 392997,
       "name": "Movin Disco",
       "url": "https://open.spotify.com/track/0142ZdM7MSGCoEMJvOJcbj"
+    },
+    {
+      "added_at": "2025-06-13 04:00:54",
+      "album": {
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/2SC0Dt4EZWr1ncaKRTEs6f"
+      },
+      "artists": [
+        {
+          "name": "Void",
+          "url": "https://open.spotify.com/artist/3giDsMv0eBesae30PimJpx"
+        },
+        {
+          "name": "Kieran San Jose",
+          "url": "https://open.spotify.com/artist/5dXI8u68DU1ANPlDlSsAli"
+        }
+      ],
+      "duration_ms": 209076,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/2zb5saBnxlDmD47NdlXtyv"
     },
     {
       "added_at": "2025-05-23 04:00:51",
@@ -443,26 +631,6 @@
       "duration_ms": 230839,
       "name": "Nine",
       "url": "https://open.spotify.com/track/40ke3SW7c7wKWes88tDy31"
-    },
-    {
-      "added_at": "2025-05-30 04:00:35",
-      "album": {
-        "name": "Ayer EP",
-        "url": "https://open.spotify.com/album/3AqWeDsPhdtEVgQApbc7v8"
-      },
-      "artists": [
-        {
-          "name": "Daniel Stacks",
-          "url": "https://open.spotify.com/artist/1Eo31Sd4qwNYf3XbbtDo7h"
-        },
-        {
-          "name": "Jake Bleu",
-          "url": "https://open.spotify.com/artist/46yegH77IvTiL6hRD3TOEN"
-        }
-      ],
-      "duration_ms": 185267,
-      "name": "Ayer",
-      "url": "https://open.spotify.com/track/5ZGMwkZk3PVdt6UxLm6fAM"
     },
     {
       "added_at": "2025-05-16 04:00:35",
@@ -513,6 +681,30 @@
       "url": "https://open.spotify.com/track/7J8ASGoc3pQ4FmYDNx4h2R"
     },
     {
+      "added_at": "2025-06-06 04:00:28",
+      "album": {
+        "name": "New Phone",
+        "url": "https://open.spotify.com/album/27mdSfyu1Xx8jI2QXO6mdJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Sugarush",
+          "url": "https://open.spotify.com/artist/4RKrqMYX0HJQh03lplAUkX"
+        },
+        {
+          "name": "Jai Piccone",
+          "url": "https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC"
+        },
+        {
+          "name": "Hotel Rubio",
+          "url": "https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7"
+        }
+      ],
+      "duration_ms": 207273,
+      "name": "New Phone",
+      "url": "https://open.spotify.com/track/5dBHUnIinhOcuhIp6dXbRM"
+    },
+    {
       "added_at": "2025-05-23 04:00:51",
       "album": {
         "name": "Shiny Disco Balls",
@@ -531,46 +723,6 @@
       "duration_ms": 180301,
       "name": "Shiny Disco Balls",
       "url": "https://open.spotify.com/track/64YbQpF1rTpXpvxbZNAXO9"
-    },
-    {
-      "added_at": "2025-06-06 04:00:28",
-      "album": {
-        "name": "Flute",
-        "url": "https://open.spotify.com/album/6C9gS8nRiKQitFZhHIaUjz"
-      },
-      "artists": [
-        {
-          "name": "Chico Rose",
-          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
-        },
-        {
-          "name": "Chico Rose (NL)",
-          "url": "https://open.spotify.com/artist/77dO0yIWjKSJeC4gOEo3NU"
-        }
-      ],
-      "duration_ms": 230624,
-      "name": "Flute",
-      "url": "https://open.spotify.com/track/7jVZjXYSo0XeEYPYq0QX8g"
-    },
-    {
-      "added_at": "2025-05-23 04:00:51",
-      "album": {
-        "name": "Everyone\u2019s Your Friend",
-        "url": "https://open.spotify.com/album/1CSIShfP9nNSJFXn84v1bz"
-      },
-      "artists": [
-        {
-          "name": "OMNOM",
-          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
-        },
-        {
-          "name": "Marco Strous",
-          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
-        }
-      ],
-      "duration_ms": 152686,
-      "name": "Everyone\u2019s Your Friend",
-      "url": "https://open.spotify.com/track/19jUiyqdFejIPFxyNHgMoy"
     },
     {
       "added_at": "2025-05-30 04:00:35",
@@ -603,22 +755,6 @@
       "duration_ms": 170570,
       "name": "No Type",
       "url": "https://open.spotify.com/track/2HahPbCTZnTIX5L5XVsP4f"
-    },
-    {
-      "added_at": "2025-04-25 04:00:56",
-      "album": {
-        "name": "Your Mind",
-        "url": "https://open.spotify.com/album/0hDu4FwqRfw6SxrxlyTCkC"
-      },
-      "artists": [
-        {
-          "name": "Zaark",
-          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Your Mind",
-      "url": "https://open.spotify.com/track/0tmwSGLCjE6aHR80WOlfhe"
     },
     {
       "added_at": "2025-04-11 04:00:29",
@@ -809,20 +945,24 @@
       "url": "https://open.spotify.com/track/64T5gkKTJegZHMnfrFoWkf"
     },
     {
-      "added_at": "2025-05-02 04:00:40",
+      "added_at": "2025-06-06 04:00:28",
       "album": {
-        "name": "Ring The Alarm",
-        "url": "https://open.spotify.com/album/3FY52a0rYChVIhVKmf8V6G"
+        "name": "Flute",
+        "url": "https://open.spotify.com/album/6C9gS8nRiKQitFZhHIaUjz"
       },
       "artists": [
         {
-          "name": "Seeing Double",
-          "url": "https://open.spotify.com/artist/0YwjcHEhy7FPPoFTQ1fEMj"
+          "name": "Chico Rose",
+          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+        },
+        {
+          "name": "Chico Rose (NL)",
+          "url": "https://open.spotify.com/artist/77dO0yIWjKSJeC4gOEo3NU"
         }
       ],
-      "duration_ms": 210461,
-      "name": "Ring The Alarm",
-      "url": "https://open.spotify.com/track/4bxvxI55sYO9ubEn8ywwGW"
+      "duration_ms": 230624,
+      "name": "Flute",
+      "url": "https://open.spotify.com/track/7jVZjXYSo0XeEYPYq0QX8g"
     },
     {
       "added_at": "2025-05-09 04:00:21",
@@ -879,22 +1019,6 @@
       "duration_ms": 162671,
       "name": "Classic",
       "url": "https://open.spotify.com/track/6k8oTM8OnMHrvMfdJ6Kjti"
-    },
-    {
-      "added_at": "2025-04-25 04:00:56",
-      "album": {
-        "name": "Move To The Rhythm",
-        "url": "https://open.spotify.com/album/0fmNR24lOaLIHt1eDPYv4y"
-      },
-      "artists": [
-        {
-          "name": "Jackie Hollander",
-          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
-        }
-      ],
-      "duration_ms": 161818,
-      "name": "Move To The Rhythm",
-      "url": "https://open.spotify.com/track/4LmRZIoDMoma0C5Xlirh8G"
     },
     {
       "added_at": "2025-05-16 04:00:35",
@@ -997,22 +1121,6 @@
       "url": "https://open.spotify.com/track/6jjrocWIjjUw4ar7RlguBQ"
     },
     {
-      "added_at": "2025-05-30 04:00:35",
-      "album": {
-        "name": "Dangerous Game",
-        "url": "https://open.spotify.com/album/6jsW5QDM0EIJhCIO2pCLx6"
-      },
-      "artists": [
-        {
-          "name": "Rob Stillekens",
-          "url": "https://open.spotify.com/artist/7x69Nz9Wi6fX7wwJZ9snI7"
-        }
-      ],
-      "duration_ms": 208875,
-      "name": "Dangerous Game",
-      "url": "https://open.spotify.com/track/5aRouG5WPGSo4ZOEh51upk"
-    },
-    {
       "added_at": "2025-05-23 04:00:51",
       "album": {
         "name": "Push Up",
@@ -1055,26 +1163,6 @@
       "duration_ms": 165923,
       "name": "Count On You",
       "url": "https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4"
-    },
-    {
-      "added_at": "2025-05-23 04:00:51",
-      "album": {
-        "name": "Hey You",
-        "url": "https://open.spotify.com/album/3y1vId2PKuBtWxsjloX56k"
-      },
-      "artists": [
-        {
-          "name": "Prok & Fitch",
-          "url": "https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys"
-        },
-        {
-          "name": "Kevin Knapp",
-          "url": "https://open.spotify.com/artist/1qhZdOpfyWk2RbhTCpbAkv"
-        }
-      ],
-      "duration_ms": 175309,
-      "name": "Hey You",
-      "url": "https://open.spotify.com/track/5BtOZObSYJhp02KlpkC3rU"
     },
     {
       "added_at": "2025-05-30 04:00:35",
@@ -1693,22 +1781,6 @@
       "url": "https://open.spotify.com/track/4EyIt50f46KvqdJphEPg8U"
     },
     {
-      "added_at": "2025-04-04 14:32:46",
-      "album": {
-        "name": "Blow Your Brain Cell",
-        "url": "https://open.spotify.com/album/4sO65jv0pGFWTfLhRKiuq2"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Blow Your Brain Cell",
-      "url": "https://open.spotify.com/track/4TNA9DSYCY3Dx5g9s2YgcW"
-    },
-    {
       "added_at": "2025-04-16 17:29:23",
       "album": {
         "name": "Pass Out",
@@ -1797,22 +1869,6 @@
       "url": "https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY"
     },
     {
-      "added_at": "2025-03-17 18:55:35",
-      "album": {
-        "name": "Ibiza Nights",
-        "url": "https://open.spotify.com/album/0rMVLBDIch0xgaVnCkX44D"
-      },
-      "artists": [
-        {
-          "name": "GREG (BR)",
-          "url": "https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79"
-        }
-      ],
-      "duration_ms": 202790,
-      "name": "Ibiza Nights",
-      "url": "https://open.spotify.com/track/74NA1K3QkfFSHVTBa9UW5A"
-    },
-    {
       "added_at": "2024-09-20 20:33:54",
       "album": {
         "name": "Smells Like Teen Spirit",
@@ -1887,42 +1943,6 @@
       "duration_ms": 175600,
       "name": "M\u00e9nage \u00c0 Trois",
       "url": "https://open.spotify.com/track/2H9SdFmXgiHM5MhwLOuBm3"
-    },
-    {
-      "added_at": "2025-02-07 05:01:09",
-      "album": {
-        "name": "Dreamin (feat. Daya)",
-        "url": "https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 171526,
-      "name": "Dreamin (feat. Daya)",
-      "url": "https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO"
-    },
-    {
-      "added_at": "2025-03-28 04:00:46",
-      "album": {
-        "name": "2C",
-        "url": "https://open.spotify.com/album/6E6XBmKQ04fG6u0w0ujwAq"
-      },
-      "artists": [
-        {
-          "name": "Apex Martin",
-          "url": "https://open.spotify.com/artist/6DcdyoaAmWtdusCIC3iJdR"
-        }
-      ],
-      "duration_ms": 236322,
-      "name": "2C",
-      "url": "https://open.spotify.com/track/2zuuyjhWrgVWCn0bXlBJ2P"
     },
     {
       "added_at": "2024-12-06 05:13:45",
@@ -2099,22 +2119,6 @@
       "duration_ms": 124830,
       "name": "Latinamerica (feat. Vika)",
       "url": "https://open.spotify.com/track/3b5hWg2x9MoVM7wjZ3qiY6"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "All My Friends Are Hot",
-        "url": "https://open.spotify.com/album/73VTNr5Sfek6XuuudiVaM0"
-      },
-      "artists": [
-        {
-          "name": "Jackie Hollander",
-          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "All My Friends Are Hot",
-      "url": "https://open.spotify.com/track/2bRM3rvHhI9cb2TCnnZIAR"
     },
     {
       "added_at": "2024-05-31 04:00:00",

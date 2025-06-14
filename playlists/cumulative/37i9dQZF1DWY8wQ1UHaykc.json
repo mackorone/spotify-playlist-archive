@@ -873,6 +873,24 @@
     },
     {
       "album": {
+        "name": "Perihal Besar",
+        "url": "https://open.spotify.com/album/1gZqKq1K0GzN6eFaEpDFcS"
+      },
+      "artists": [
+        {
+          "name": "SAMSONS",
+          "url": "https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233640,
+      "name": "Di Ujung Jalan",
+      "url": "https://open.spotify.com/track/70GUGyk1sJYFTqZpSJj2KM"
+    },
+    {
+      "album": {
         "name": "DIA",
         "url": "https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq"
       },

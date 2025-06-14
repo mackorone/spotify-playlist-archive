@@ -3324,7 +3324,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 190487,
       "name": "baggy",
       "url": "https://open.spotify.com/track/6fX6IbdrTsuqQzhBQnGDup"
@@ -7516,7 +7516,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 189295,
       "name": "Close",
       "url": "https://open.spotify.com/track/3JUNgjnP4GOjCJP3qzxPm3"
@@ -17036,7 +17036,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 143448,
       "name": "I Like Me Better",
       "url": "https://open.spotify.com/track/0PEg8tH697BYVgfkxIEWUa"
@@ -23746,7 +23746,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
@@ -26318,7 +26318,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 220502,
       "name": "Na O\u010diach Vyryt\u00e9",
       "url": "https://open.spotify.com/track/1Qzgt6gOMrwhMlmiBl3jbc"
@@ -34263,6 +34263,24 @@
     },
     {
       "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268840,
+      "name": "Rock That Body",
+      "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
+    },
+    {
+      "album": {
         "name": "Merry Christmas From Brenda Lee",
         "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
       },
@@ -35972,7 +35990,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 169014,
       "name": "SHOCK",
       "url": "https://open.spotify.com/track/3h5LtZstUJRyx1vXOPmEZt"
@@ -37492,6 +37510,28 @@
       "duration_ms": 152322,
       "name": "spinava lyzicka",
       "url": "https://open.spotify.com/track/6PnPYAx88QXtQiowYg9G7r"
+    },
+    {
+      "album": {
+        "name": "SOLDIERS",
+        "url": "https://open.spotify.com/album/5KMXapnfQKreblcNlOCs6g"
+      },
+      "artists": [
+        {
+          "name": "13K",
+          "url": "https://open.spotify.com/artist/0DXtbUJKCkHeaHPQPzFM9a"
+        },
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247317,
+      "name": "Spioniro Golubiro",
+      "url": "https://open.spotify.com/track/7Bh4gmWtWTjtqdOJNUhRuK"
     },
     {
       "album": {

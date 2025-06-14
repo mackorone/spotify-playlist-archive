@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: Cliffords
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,304 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,306 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 9 | [Pick a Cheek](https://open.spotify.com/track/3P5rCffH5bHysyS3TjoBiQ) | [Big Sleep](https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a) | [Pick a Cheek](https://open.spotify.com/album/2S26A9sg9dQOuaVplEPdEd) | 3:01 |
 | 10 | [Playground](https://open.spotify.com/track/4EVv0D7ShDlbU43FDNURFP) | [LARAbEL](https://open.spotify.com/artist/4NYyRftIFDSk9ZM975OoBM) | [Playground](https://open.spotify.com/album/1xlB4pdoiTU5CYGHBbmxMm) | 4:04 |
 | 11 | [Of The Sorrows](https://open.spotify.com/track/3liBzXCnXG0oserFPXFS8R) | [For Those I Love](https://open.spotify.com/artist/3X4mDEa1fff0zpbBp8wiOZ) | [Of The Sorrows](https://open.spotify.com/album/74FsSXffJtdMdsUHmn9NBY) | 5:33 |
-| 12 | [Gloria](https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Gloria](https://open.spotify.com/album/3JHsuuNJM52oePgcXvbdhw) | 3:36 |
+| 12 | [Gloria](https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Gloria](https://open.spotify.com/album/3JHsuuNJM52oePgcXvbdhw) | 3:37 |
 | 13 | [Can't Get Up](https://open.spotify.com/track/7wUqDJmsuX7BgELC957jCr) | [Isaac Jones](https://open.spotify.com/artist/07Otr2GoEFP3sRUUXpYMQN) | [Can't Get Up](https://open.spotify.com/album/2NS08z7O1TBHFYHPBTjCtT) | 3:00 |
 | 14 | [Schoolyard Days](https://open.spotify.com/track/5IEDBUuXMagCcYQZARFvrJ) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Reverie](https://open.spotify.com/album/16QA9SMR24G6Jf5GvJBJB8) | 3:09 |
 | 15 | [Father Brown's](https://open.spotify.com/track/6LYIGbuRodiM14X2jhvYsJ) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [Father Brown's](https://open.spotify.com/album/3gHQRNWfZC0pac0DTk53WO) | 4:59 |

@@ -456,7 +456,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 154180,
       "name": "Bestie",
       "url": "https://open.spotify.com/track/1TourCzIYFkCAkHqvslSor"
@@ -1016,7 +1016,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 229384,
       "name": "Crash Test Dummy",
       "url": "https://open.spotify.com/track/4yLQiDZk5bd51r99U1HRcX"
@@ -1711,6 +1711,28 @@
     },
     {
       "album": {
+        "name": "Give Me A Sign (feat. Caroline Kingsbury)",
+        "url": "https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc"
+      },
+      "artists": [
+        {
+          "name": "MARIS",
+          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
+        },
+        {
+          "name": "Caroline Kingsbury",
+          "url": "https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179166,
+      "name": "Give Me A Sign (feat. Caroline Kingsbury)",
+      "url": "https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ"
+    },
+    {
+      "album": {
         "name": "God Save The Queens",
         "url": "https://open.spotify.com/album/4OGSbnTYEyXYYQL7j0q10x"
       },
@@ -1834,6 +1856,24 @@
       "duration_ms": 190232,
       "name": "Guilty As Sin",
       "url": "https://open.spotify.com/track/1oQXzeBS7oGg7nK3S3Ovgs"
+    },
+    {
+      "album": {
+        "name": "gums",
+        "url": "https://open.spotify.com/album/5WIoze1Mah2RAPGwWefQOa"
+      },
+      "artists": [
+        {
+          "name": "Blue Mena",
+          "url": "https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218263,
+      "name": "Gums",
+      "url": "https://open.spotify.com/track/1SPkDEDUnOZqMfcRPPMYgu"
     },
     {
       "album": {
@@ -2900,7 +2940,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 180022,
       "name": "Mary + I",
       "url": "https://open.spotify.com/track/0GfCIDAZiehD1YmAYfgAZK"
@@ -4774,6 +4814,24 @@
       "duration_ms": 183626,
       "name": "We Live We Die",
       "url": "https://open.spotify.com/track/6q3wbYq1uMfgu4bpCVEkUK"
+    },
+    {
+      "album": {
+        "name": "Enjoy The Ride",
+        "url": "https://open.spotify.com/album/5nBLH7Rf0U7PjZqqK6NRUU"
+      },
+      "artists": [
+        {
+          "name": "Baby Osamaa",
+          "url": "https://open.spotify.com/artist/3HzHfusJQBmpNKkTzqqC2N"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113333,
+      "name": "What's The Word",
+      "url": "https://open.spotify.com/track/78oFHv15HePyuxbi5iP6B5"
     },
     {
       "album": {

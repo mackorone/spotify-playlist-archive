@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,752 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,715 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 99 | [Afterparty](https://open.spotify.com/track/1P8mmV6llhUuj8sz3By1q1) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/3EzveG4GtcBRVCdsIYmZgp) | 2:40 |
 | 100 | [On Repeat](https://open.spotify.com/track/7sBpjG2LLkn0gsJFrPgXne) | [Charmes](https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ), [ED\_PRJCT](https://open.spotify.com/artist/3pfE00p0ds0YdtRwWi4DtR) | [On Repeat](https://open.spotify.com/album/6diHtMekZwOe9u0yPsGGj9) | 2:18 |
 
-Snapshot ID: `aEJn1wAAAACOPOjq71JeDsYJTCvKcYDa`
+Snapshot ID: `aEuidwAAAAD4Xa7CEMs7W6H0qkWkrxme`

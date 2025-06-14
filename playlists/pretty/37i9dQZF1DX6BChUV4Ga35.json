@@ -1,13 +1,29 @@
 {
   "description": "Your family can visit all of the animals at the zoo with this fun playlist.",
-  "num_followers": 37073,
+  "num_followers": 37099,
   "original_name": "At The Zoo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z/iT1AAAAADP6n9Wa/A5rjpGXKQM4jcI",
+  "snapshot_id": "aExIUgAAAAC2GzFq0o5mN5NnFHVGxwS2",
   "tracks": [
+    {
+      "added_at": "2025-06-13 15:48:34",
+      "album": {
+        "name": "Koala",
+        "url": "https://open.spotify.com/album/3tYTzaB6iZN4SsxQAhKnRF"
+      },
+      "artists": [
+        {
+          "name": "Sumo's World",
+          "url": "https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq"
+        }
+      ],
+      "duration_ms": 135022,
+      "name": "Koala",
+      "url": "https://open.spotify.com/track/4ePcUtcqfml4OjjA9zHJZS"
+    },
     {
       "added_at": "2025-04-11 04:00:20",
       "album": {

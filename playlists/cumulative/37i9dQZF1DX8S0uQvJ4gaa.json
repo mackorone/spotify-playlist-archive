@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Waylon Wyatt",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Zach Top",
   "name": "New Boots",
   "tracks": [
     {
@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "2 Pair",
+        "url": "https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151534,
+      "name": "2 Pair",
+      "url": "https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N"
+    },
+    {
+      "album": {
         "name": "2 Weeks",
         "url": "https://open.spotify.com/album/2CxkIwSV32PCworHHNkuWy"
       },
@@ -238,6 +256,24 @@
       "duration_ms": 231603,
       "name": "2 Weeks",
       "url": "https://open.spotify.com/track/1tyF2O7E5nqUDhqVQ7qeAW"
+    },
+    {
+      "album": {
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160901,
+      "name": "20 Cigarettes",
+      "url": "https://open.spotify.com/track/0YsIYFRoxkmEvbKCwTp0Tg"
     },
     {
       "album": {
@@ -2871,6 +2907,24 @@
     },
     {
       "album": {
+        "name": "Bad Guy",
+        "url": "https://open.spotify.com/album/0NhdFw8Yzm87F0lnIQVvIB"
+      },
+      "artists": [
+        {
+          "name": "Blake Whiten",
+          "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222656,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/7vlpjaBWF5Rb7dr52OahOL"
+    },
+    {
+      "album": {
         "name": "PB2",
         "url": "https://open.spotify.com/album/7EcpFtgJ2UT0O7FSaKg6R1"
       },
@@ -5238,6 +5292,28 @@
       "duration_ms": 185023,
       "name": "Broken Up",
       "url": "https://open.spotify.com/track/1Jn0osXy1WcDyniHgs67jT"
+    },
+    {
+      "album": {
+        "name": "Broken Wing Bird",
+        "url": "https://open.spotify.com/album/6f58ejhE2dApWE5HRUnynV"
+      },
+      "artists": [
+        {
+          "name": "Kashus Culpepper",
+          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220002,
+      "name": "Broken Wing Bird (feat. Sierra Ferrell)",
+      "url": "https://open.spotify.com/track/3PJffkCcfVxEs4ciUHKo8R"
     },
     {
       "album": {
@@ -9483,6 +9559,24 @@
     },
     {
       "album": {
+        "name": "Do Si Do",
+        "url": "https://open.spotify.com/album/2XTjjROClK9usohuj94559"
+      },
+      "artists": [
+        {
+          "name": "Scott Wolverton",
+          "url": "https://open.spotify.com/artist/6oClxjKHw0mac570Gx7Tw3"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218424,
+      "name": "Do Si Do",
+      "url": "https://open.spotify.com/track/3x0KbXqp6L21yP526DX8VC"
+    },
+    {
+      "album": {
         "name": "Dodge a Bullet",
         "url": "https://open.spotify.com/album/0IhgFS7FRUgW7iKCNAUG7d"
       },
@@ -10736,7 +10830,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 115636,
       "name": "Dumb (Good Ol' Time)",
       "url": "https://open.spotify.com/track/6Vv1swjSxWPCDmvoMglwlJ"
@@ -14504,7 +14598,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 227116,
       "name": "Going Blonde",
       "url": "https://open.spotify.com/track/2kPgG5d0fKYhMzr7kt4ZBs"
@@ -15302,6 +15396,24 @@
       "duration_ms": 214720,
       "name": "GOOD TIME",
       "url": "https://open.spotify.com/track/5Kpg1A7BOHpBbaT3H3xqd3"
+    },
+    {
+      "album": {
+        "name": "Good Times & Tan Lines",
+        "url": "https://open.spotify.com/album/1DZO09ac5XmLpt0Utimknk"
+      },
+      "artists": [
+        {
+          "name": "Zach Top",
+          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160635,
+      "name": "Good Times & Tan Lines",
+      "url": "https://open.spotify.com/track/5ZBxXBh0h4QuwXb3tNj91d"
     },
     {
       "album": {
@@ -16643,6 +16755,24 @@
     },
     {
       "album": {
+        "name": "Heard It In A Country Song",
+        "url": "https://open.spotify.com/album/2aHEBlvJcTbJDhnwSFQi7y"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228702,
+      "name": "Heard It In A Country Song",
+      "url": "https://open.spotify.com/track/5RNcjfueJkUFpYivW3APhT"
+    },
+    {
+      "album": {
         "name": "CHASE",
         "url": "https://open.spotify.com/album/3WEYGQDPPAMYBCZHXh5vTH"
       },
@@ -17230,7 +17360,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 212940,
       "name": "Heaven Is A Honky Tonk",
       "url": "https://open.spotify.com/track/4b16ncTUyYZNC3ETGBTwND"
@@ -20130,7 +20260,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 204963,
       "name": "I Got Better",
       "url": "https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob"
@@ -20238,7 +20368,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 165333,
       "name": "I Hate Whiskey",
       "url": "https://open.spotify.com/track/30tE9El5bERNsT8Fkl1yLT"
@@ -22846,7 +22976,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 209066,
       "name": "Kid Myself",
       "url": "https://open.spotify.com/track/0WVDKBHgCHQ9dzzOUOOCX0"
@@ -24479,6 +24609,24 @@
     },
     {
       "album": {
+        "name": "Long Live Country",
+        "url": "https://open.spotify.com/album/1EVz2f3ICDCe5LKLsw6F3W"
+      },
+      "artists": [
+        {
+          "name": "Shane Profitt",
+          "url": "https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225266,
+      "name": "Long Live Country",
+      "url": "https://open.spotify.com/track/5cazx84JWJXHE8ASMXTCtE"
+    },
+    {
+      "album": {
         "name": "Long Live Cowgirls (with Cody Johnson)",
         "url": "https://open.spotify.com/album/5zxTZhMN5oGzbGnXtfrfCN"
       },
@@ -25814,7 +25962,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 242477,
       "name": "Man Of His Word",
       "url": "https://open.spotify.com/track/7Ea6jWtb0dC4rWySB39iqM"
@@ -27860,7 +28008,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 217330,
       "name": "Nancy Avenue",
       "url": "https://open.spotify.com/track/5Azh3Q23Fp52CPTuHTblfk"
@@ -29236,6 +29384,24 @@
       "duration_ms": 176280,
       "name": "Normal People",
       "url": "https://open.spotify.com/track/222nnG6IUxlTm3bRonSAk8"
+    },
+    {
+      "album": {
+        "name": "Nose On The Grindstone",
+        "url": "https://open.spotify.com/album/01KYIU27i4oQVxpdtG0Yt3"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175973,
+      "name": "Nose On The Grindstone",
+      "url": "https://open.spotify.com/track/41qeQaiSa09dPsGzgechek"
     },
     {
       "album": {
@@ -34103,6 +34269,24 @@
     },
     {
       "album": {
+        "name": "Scornful Woman",
+        "url": "https://open.spotify.com/album/3Ueo8Ub5iBseNfSbHpCdEq"
+      },
+      "artists": [
+        {
+          "name": "Oliver Anthony Music",
+          "url": "https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175070,
+      "name": "Scornful Woman",
+      "url": "https://open.spotify.com/track/5oEM9EDKL9y4XLTJzi0g96"
+    },
+    {
+      "album": {
         "name": "Seaside",
         "url": "https://open.spotify.com/album/4YD0A6DxqXubekaRwZRpl5"
       },
@@ -35553,6 +35737,24 @@
     },
     {
       "album": {
+        "name": "Snakeskin",
+        "url": "https://open.spotify.com/album/3ImHuxZRynM9tilae80YAr"
+      },
+      "artists": [
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163444,
+      "name": "Snakeskin",
+      "url": "https://open.spotify.com/track/199g0lSljCpMXZEhNPeX0w"
+    },
+    {
+      "album": {
         "name": "Snapshot",
         "url": "https://open.spotify.com/album/14HpBUhCd5cIrAXDVRaQ0a"
       },
@@ -35568,6 +35770,24 @@
       "duration_ms": 220974,
       "name": "Snapshot",
       "url": "https://open.spotify.com/track/3OGNxgX9pdG2mfWM9TEdqa"
+    },
+    {
+      "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/0q1qlhjNtHty7gOyyuJtTb"
+      },
+      "artists": [
+        {
+          "name": "Dalton Davis",
+          "url": "https://open.spotify.com/artist/6J9RN4Pef3aGhMaIPt4d6B"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178490,
+      "name": "So Far So Good",
+      "url": "https://open.spotify.com/track/3tDV5l64dIVPLIbkYflTJx"
     },
     {
       "album": {
@@ -37546,7 +37766,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 158906,
       "name": "Steal Your Thunder",
       "url": "https://open.spotify.com/track/5W95bfIRl7WKoXwbKrkU7z"
@@ -38346,7 +38566,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 179022,
       "name": "Sweet Lady",
       "url": "https://open.spotify.com/track/6DhE7v3FS4DlHHBHToieiC"
@@ -40606,7 +40826,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 225031,
       "name": "Thinking of Me",
       "url": "https://open.spotify.com/track/2kNzQfQkcJ2IPAsok8GhWu"
@@ -41404,7 +41624,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 160866,
       "name": "too good",
       "url": "https://open.spotify.com/track/3Pdfbfi7mePacClkhzLt8J"

@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 36585,
+  "num_followers": 36588,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEjHAAAAAAApPrRnqqG/ie64m/cKI4y1",
+  "snapshot_id": "aEoYgAAAAABtE0apzqFgv5+kktlDIFSH",
   "tracks": [
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Answer That And Stay Fashionable",
+        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 128106,
+      "name": "The Checkered Demon",
+      "url": "https://open.spotify.com/track/2R4UzHDZoMLnvHIFEvPCTC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trash Bat",
         "url": "https://open.spotify.com/album/0K3uis69NoWrhvqurTc8mp"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 127625,
       "name": "Trash Bat",
       "url": "https://open.spotify.com/track/5UCqBBx9IGx47H6ajPf1Dz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Very Proud of Ya",
-        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 117960,
-      "name": "Cult Status",
-      "url": "https://open.spotify.com/track/3ugwlbdItAHh49CJrIUZXY"
     }
   ],
   "unique_name": "This Is AFI",

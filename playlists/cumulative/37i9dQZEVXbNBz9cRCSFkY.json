@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 289226,
       "name": "Antukin",
       "url": "https://open.spotify.com/track/4jq5J39hJ28RmDhNp1QkYk"
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 175396,
       "name": "Babaero",
       "url": "https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP"
@@ -1792,7 +1792,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-12",
+      "date_removed": null,
       "duration_ms": 163571,
       "name": "Balisong - Transformed",
       "url": "https://open.spotify.com/track/2s9DQB5ftRcdIRpj3n3pDR"
@@ -2644,7 +2644,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 261426,
       "name": "Breakeven",
       "url": "https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk"
@@ -9470,7 +9470,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 123517,
       "name": "like JENNIE",
       "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
@@ -12557,6 +12557,28 @@
     },
     {
       "album": {
+        "name": "Middle-Aged Juvenile Novelty Pop Rockers",
+        "url": "https://open.spotify.com/album/0EAM9ux5yMNKsdjcAV5Lg0"
+      },
+      "artists": [
+        {
+          "name": "Parokya Ni Edgar",
+          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
+        },
+        {
+          "name": "Happee Sy",
+          "url": "https://open.spotify.com/artist/4OxMtvmCYCgJHjueLFwJHr"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194946,
+      "name": "Pangarap Lang Kita",
+      "url": "https://open.spotify.com/track/09WPbmLdcBhJPcJwEJc1Yv"
+    },
+    {
+      "album": {
         "name": "Paninindigan Kita",
         "url": "https://open.spotify.com/album/1hz1zGc3c7U5G7mIazQ2vW"
       },
@@ -14048,6 +14070,24 @@
       "duration_ms": 269011,
       "name": "Sakin ka",
       "url": "https://open.spotify.com/track/0kC2bP7qJ0plOW4nbjysZy"
+    },
+    {
+      "album": {
+        "name": "Saksi Ang Langit",
+        "url": "https://open.spotify.com/album/7CVVDg2G6mpYwH6B45SKuK"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259058,
+      "name": "Saksi Ang Langit",
+      "url": "https://open.spotify.com/track/6tPFZRJKj5JR7qO3qWxaVm"
     },
     {
       "album": {
@@ -17968,6 +18008,24 @@
       "duration_ms": 218000,
       "name": "Walang Kapalit (AM VER.)",
       "url": "https://open.spotify.com/track/4HxaLxk986KQdqNIyI4KUb"
+    },
+    {
+      "album": {
+        "name": "For Princesses, By Thieves (O Mga Awit ng Hiraya Para sa Guni-guning Sinta)",
+        "url": "https://open.spotify.com/album/3vnLVB3AJ8MMiSgGN01Dtd"
+      },
+      "artists": [
+        {
+          "name": "shirebound",
+          "url": "https://open.spotify.com/artist/5F6Eu8EFrLQXOqgEj5gbhJ"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337580,
+      "name": "Waltz of Four Left Feet",
+      "url": "https://open.spotify.com/track/29eiVZ3R6iJcXB01dOAl6H"
     },
     {
       "album": {

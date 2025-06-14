@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-475 songs - 1 day 2 hr 28 min
+476 songs - 1 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [All I Wanna Do](https://open.spotify.com/track/1uyxpsLuJAuXL1gOfRsZuw) | [Outasight](https://open.spotify.com/artist/1zuG3w1Zgeou53fb3Vu3bO) | [All I Wanna Do](https://open.spotify.com/album/5o5u0j8BHPApaOvALpmLnR) | 3:08 | 2024-02-16 |  |
 | [All Night](https://open.spotify.com/track/4IsjYlNEEsfPQGODzKyYRQ) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [All Night](https://open.spotify.com/album/1c3y5QNQHjn23qQ8t59qtT) | 3:48 | 2023-08-18 |  |
 | [All She Wanna Do \(with Saweetie\)](https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All She Wanna Do](https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M) | 3:15 | 2022-08-08 | 2025-04-26 |
-| [All That I Need](https://open.spotify.com/track/46FmoDcQxTdgJnqqTppblI) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn) | [All That I Need](https://open.spotify.com/album/4F5Furcx1SnH2PGX0YbKPM) | 3:20 | 2022-11-18 |  |
+| [All That I Need](https://open.spotify.com/track/46FmoDcQxTdgJnqqTppblI) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn) | [All That I Need](https://open.spotify.com/album/4F5Furcx1SnH2PGX0YbKPM) | 3:20 | 2022-11-18 | 2025-06-14 |
 | [All This Life](https://open.spotify.com/track/1hjcNJETMy5NYuQkRtsKpC) | [Three Star Revival](https://open.spotify.com/artist/3evSkyfftD6Q8mjTIeJSVg) | [Reset](https://open.spotify.com/album/55T6adDVIBHPel2i9Ei5to) | 2:39 | 2020-11-13 | 2022-03-17 |
 | [All Together Now](https://open.spotify.com/track/1BAG6lcuJip6wd0Kd9PRoY) | [Outasight](https://open.spotify.com/artist/1zuG3w1Zgeou53fb3Vu3bO) | [Jamz](https://open.spotify.com/album/0iXMyDCLh5QNIvZV36cO8C) | 2:42 | 2021-07-16 | 2022-07-29 |
 | [All Ur Luv](https://open.spotify.com/track/3K1RnBxBkrMwoBE8gC63eY) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [All Ur Luv](https://open.spotify.com/album/1KrS7daFwtHSyT5aPsI0so) | 2:41 | 2024-02-02 |  |
@@ -112,6 +112,7 @@
 | [Daydreams](https://open.spotify.com/track/7471rZWt1MAHHS54AUd0cy) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [Daydreams/Sunset](https://open.spotify.com/album/0SxqQkr5kB82oG93fRvtjE) | 4:02 | 2020-11-13 | 2022-03-26 |
 | [Design](https://open.spotify.com/track/1pX8oB4YvglQZEkLJBMkRv) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Design](https://open.spotify.com/album/5x1d3pzZkeUW3lDPgsbPHH) | 3:37 | 2021-05-14 | 2022-04-21 |
 | [Devotion \- Shakur Ahmad Remix](https://open.spotify.com/track/6wKmElTGYNVPTJ9AE9lqxe) | [Flara K](https://open.spotify.com/artist/6QX83NubxIwxQzoNzSATMu), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8), [Shakur Ahmad](https://open.spotify.com/artist/2AH7NRIWkddZkdpyiFuR8S) | [Devotion \(Shakur Ahmad Remix\)](https://open.spotify.com/album/5MLhPlELucdc3OdlACAXdC) | 3:20 | 2021-04-09 | 2022-08-09 |
+| [Diamonds And Gold](https://open.spotify.com/track/0dshv2LbNQWC63xhkifLjZ) | [Lew Apollo](https://open.spotify.com/artist/1iclNC8eAt6q968DYNCmTY) | [Diamonds And Gold](https://open.spotify.com/album/74sWJw4VQj8dbUlfheVXSJ) | 3:36 | 2025-06-13 |  |
 | [Distracted](https://open.spotify.com/track/1BWPQ3okXEbZTPI3sJ0Ywi) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Emily C\. Browning](https://open.spotify.com/artist/3mUNIibyzxNjokXOxLC9yg), [Why the Face](https://open.spotify.com/artist/6CaKWuwEWYsoFiPweD7Mir) | [Distracted](https://open.spotify.com/album/0nyRnJXQiTSTU9n60douBJ) | 4:53 | 2020-11-13 | 2022-02-09 |
 | [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 | 2023-07-07 |  |
 | [Do Me Right](https://open.spotify.com/track/3LrGfMjIgqI16WtPQawUSq) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Do Me Right](https://open.spotify.com/album/3acm84d09PzJGK9jXpJbk0) | 3:37 | 2021-09-21 | 2022-04-21 |

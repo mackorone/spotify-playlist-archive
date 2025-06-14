@@ -146,7 +146,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 312571,
       "name": "3 Sided",
       "url": "https://open.spotify.com/track/0QMv6RWTMqR2OqiUBke2mV"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 247488,
       "name": "4 Ya Kiss",
       "url": "https://open.spotify.com/track/1qjd5CoUbzA7CNnB06flYN"
@@ -2493,6 +2493,24 @@
     },
     {
       "album": {
+        "name": "Fena",
+        "url": "https://open.spotify.com/album/7dyMd5Q323re0dsPrbMldv"
+      },
+      "artists": [
+        {
+          "name": "Imp\u00e9rieux",
+          "url": "https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284800,
+      "name": "Fena",
+      "url": "https://open.spotify.com/track/6aO8Nz4Q4sY0LFoF19woBM"
+    },
+    {
+      "album": {
         "name": "LEGENDO",
         "url": "https://open.spotify.com/album/62N0giCXIgepaMQl864MIk"
       },
@@ -2812,7 +2830,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 246367,
       "name": "Grauer Sand",
       "url": "https://open.spotify.com/track/4AnG8JoP473H6TctCqtyhX"
@@ -3504,7 +3522,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 283200,
       "name": "l'empelt",
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
@@ -3540,7 +3558,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 244002,
       "name": "LADDE",
       "url": "https://open.spotify.com/track/1uescVu7fcevtmnW9vps7A"
@@ -5493,6 +5511,24 @@
     },
     {
       "album": {
+        "name": "The Grand Designer",
+        "url": "https://open.spotify.com/album/59gBsijmqHF1tP6UfiYbVl"
+      },
+      "artists": [
+        {
+          "name": "Adrian Sherwood",
+          "url": "https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210680,
+      "name": "Russian Oscillator",
+      "url": "https://open.spotify.com/track/4pA4anx90egS5Tc8zwfKwI"
+    },
+    {
+      "album": {
         "name": "Exclusion",
         "url": "https://open.spotify.com/album/0TuFV0X2zr2zwS6qoSp8h3"
       },
@@ -5682,7 +5718,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 182400,
       "name": "Second Love",
       "url": "https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl"
@@ -5931,6 +5967,28 @@
     },
     {
       "album": {
+        "name": "Softshell",
+        "url": "https://open.spotify.com/album/4rz3TgERKfqAKAX512CXFx"
+      },
+      "artists": [
+        {
+          "name": "Holly Waxwing",
+          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
+        },
+        {
+          "name": "Isleapple",
+          "url": "https://open.spotify.com/artist/5sE3wRYGHsk3OUBpPzvoJx"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324444,
+      "name": "Softshell",
+      "url": "https://open.spotify.com/track/6KDcm4WrFIqlQHbxBSObEC"
+    },
+    {
+      "album": {
         "name": "Some Way",
         "url": "https://open.spotify.com/album/439OHyChz5bHWMVzU2YnSv"
       },
@@ -5978,7 +6036,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 274625,
       "name": "Song of Singers",
       "url": "https://open.spotify.com/track/318053hJDlClbgtcdjnjWU"
@@ -6732,7 +6790,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 245901,
       "name": "track 2",
       "url": "https://open.spotify.com/track/152VJTzJh0a9XQbVivoOVI"

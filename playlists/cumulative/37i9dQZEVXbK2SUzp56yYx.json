@@ -3714,7 +3714,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-12",
+      "date_removed": null,
       "duration_ms": 283200,
       "name": "Dancing Nihilist - Slowed",
       "url": "https://open.spotify.com/track/6wka0A1jT3vifzR4V4gBXg"
@@ -4010,7 +4010,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 84700,
       "name": "DIA DEL\u00cdCIA - Slowed",
       "url": "https://open.spotify.com/track/6T06bLv5OzJf3BuNa81XXD"
@@ -5302,7 +5302,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -5320,7 +5320,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -6774,7 +6774,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 100942,
       "name": "Geo",
       "url": "https://open.spotify.com/track/21ssjREYYKsLYZQEvRmphw"
@@ -7106,7 +7106,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 154386,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/3GFeuIIJQDgCpVHjsLkEgw"
@@ -7124,7 +7124,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 154386,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/6d8DgvFxp6lbdfOw9BVkLS"
@@ -10236,7 +10236,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 124110,
       "name": "LUNA BALA - Slowed",
       "url": "https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj"
@@ -13001,6 +13001,24 @@
     },
     {
       "album": {
+        "name": "OCB \u0411\u0443\u043c\u0430\u0433\u0430 Swisher",
+        "url": "https://open.spotify.com/album/6u3q0bwahNAMJg8UWL6gBo"
+      },
+      "artists": [
+        {
+          "name": "euro91",
+          "url": "https://open.spotify.com/artist/5qhuD9IMqa8SzBbLnwsUhE"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131292,
+      "name": "OCB \u0411\u0443\u043c\u0430\u0433\u0430 Swisher",
+      "url": "https://open.spotify.com/track/2fH3e1hHuNDYmWy9ojpGon"
+    },
+    {
+      "album": {
         "name": "Ochame Kinou/Fukkireta (Jerk)",
         "url": "https://open.spotify.com/album/03rWxGtBX3di9B3ehFNfGG"
       },
@@ -14654,7 +14672,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -14672,7 +14690,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
@@ -31158,6 +31176,28 @@
       "duration_ms": 151714,
       "name": "\u0426\u0432\u0435\u0442\u0430\u0435\u0432\u0430",
       "url": "https://open.spotify.com/track/5ACebyVVWdxEpU8kpd12j9"
+    },
+    {
+      "album": {
+        "name": "\u0426\u0432\u0435\u0442\u044b",
+        "url": "https://open.spotify.com/album/6Bk5DZQsfoO2RZGsHQI0MU"
+      },
+      "artists": [
+        {
+          "name": "Mir\u00e8le",
+          "url": "https://open.spotify.com/artist/62Vu8AC36ARldmNIaJ7f7K"
+        },
+        {
+          "name": "\u0411\u043e\u043d\u0434 \u0441 \u043a\u043d\u043e\u043f\u043a\u043e\u0439",
+          "url": "https://open.spotify.com/artist/2JrtkA0Z0JxBfEmxL25cP6"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141223,
+      "name": "\u0426\u0432\u0435\u0442\u044b",
+      "url": "https://open.spotify.com/track/5R8d520kfjpbrBr0bRJJ5i"
     },
     {
       "album": {

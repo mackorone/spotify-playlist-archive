@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-18",
-  "description": "Catch the hottest Punjabi tracks. Cover - Talwiinder",
+  "description": "Catch the hottest Punjabi tracks. Cover - Shubh",
   "name": "Hot Hits Punjabi",
   "tracks": [
     {
@@ -86,7 +86,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 234893,
       "name": "410",
       "url": "https://open.spotify.com/track/0R1AZYXc34nfMaiengrkRc"
@@ -892,6 +892,28 @@
       "duration_ms": 181000,
       "name": "Chorni",
       "url": "https://open.spotify.com/track/3GEiVoaUXq468gfYs2EPfh"
+    },
+    {
+      "album": {
+        "name": "College",
+        "url": "https://open.spotify.com/album/7uy48d7v5soYF2JPeWmKEL"
+      },
+      "artists": [
+        {
+          "name": "Pardeep Sran",
+          "url": "https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC"
+        },
+        {
+          "name": "Sukh Lotey",
+          "url": "https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178520,
+      "name": "College",
+      "url": "https://open.spotify.com/track/5eQiBWXIPFSku2v1GXRRqX"
     },
     {
       "album": {

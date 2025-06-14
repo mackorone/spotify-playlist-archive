@@ -1447,6 +1447,24 @@
     },
     {
       "album": {
+        "name": "DomeShuffle",
+        "url": "https://open.spotify.com/album/1RFSKMg7He2HSE0v2B7ug3"
+      },
+      "artists": [
+        {
+          "name": "STMG DemGuyz",
+          "url": "https://open.spotify.com/artist/0jieytrsm8GJJGwTTCAkkq"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234020,
+      "name": "DomeShuffle",
+      "url": "https://open.spotify.com/track/4XJeQEgiZuUK41kOk4IwHO"
+    },
+    {
+      "album": {
         "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
         "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },

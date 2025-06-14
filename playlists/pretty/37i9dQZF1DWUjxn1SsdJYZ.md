@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Lisi
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,564 likes - 99 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,589 likes - 99 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 98 | [STALKER \(feat\. Ramirez\)](https://open.spotify.com/track/0DqMDEZk9dFM631sQOPVJh) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [STALKER \(feat\. Ramirez\)](https://open.spotify.com/album/4e9pi8Kqj9VWDEUa39o6mt) | 2:32 |
 | 99 | [Winter Luv](https://open.spotify.com/track/0I1HCa1TO4e1vpf7w7TqNB) | [ABOODIE](https://open.spotify.com/artist/0CA4T0asO8MAtWYsskbx9e) | [Winter Luv](https://open.spotify.com/album/227BBnMGogxzZGuAFkSykb) | 2:30 |
 
-Snapshot ID: `aErdfwAAAACFE938IDbXr0JX+HyhDik3`
+Snapshot ID: `AAAAANNw9ziS/AWsubPCSJB4IcZrZleS`

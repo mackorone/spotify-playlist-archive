@@ -5883,6 +5883,28 @@
     },
     {
       "album": {
+        "name": "Elixir",
+        "url": "https://open.spotify.com/album/2BNrgIFoRkalGQT8DqtSYy"
+      },
+      "artists": [
+        {
+          "name": "Wring Out Laura",
+          "url": "https://open.spotify.com/artist/18vTML8rDnFF1JODSnWbKR"
+        },
+        {
+          "name": "\u5468\u7a46",
+          "url": "https://open.spotify.com/artist/202yRHeornG5Evg1WxWCFd"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199411,
+      "name": "Hypothesis",
+      "url": "https://open.spotify.com/track/6GyaivBblCyb5Pzk5TjLtW"
+    },
+    {
+      "album": {
         "name": "I AM THE PROBLEM",
         "url": "https://open.spotify.com/album/2PmO7yIMkOL9Drf81KsV6E"
       },
@@ -22260,9 +22282,27 @@
           "url": "https://open.spotify.com/artist/61u8FEElPIrXoGWzVldLnC"
         }
       ],
-      "date_added": "2025-06-12",
+      "date_added": "2025-06-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 180000,
+      "name": "\u5931\u604bNovember",
+      "url": "https://open.spotify.com/track/1sEHkg0kqAqHlyUS4P4jch"
+    },
+    {
+      "album": {
+        "name": "\u5931\u604bNovember",
+        "url": "https://open.spotify.com/album/69dbZnvHBvv6lmSyyIpMCs"
+      },
+      "artists": [
+        {
+          "name": "Lambert\u51cc",
+          "url": "https://open.spotify.com/artist/61u8FEElPIrXoGWzVldLnC"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2025-06-14",
       "duration_ms": 180000,
       "name": "\u5931\u604bNovember - \u4f34\u594f",
       "url": "https://open.spotify.com/track/0w8Xf7aMo0tBVTkZhKdaYZ"
@@ -23992,6 +24032,28 @@
       "duration_ms": 254520,
       "name": "\u5c71\u8c37",
       "url": "https://open.spotify.com/track/0dDLilUI7enonD9d0NErel"
+    },
+    {
+      "album": {
+        "name": "\u5c71\u91ce\u91cc\u7684\u592a\u9633",
+        "url": "https://open.spotify.com/album/78HrJ0os5Wf2o5aTWMDHep"
+      },
+      "artists": [
+        {
+          "name": "\u623f\u6771\u7684\u8c93",
+          "url": "https://open.spotify.com/artist/6oxtUCWftDouZzeso3oXcF"
+        },
+        {
+          "name": "\u5927\u51c9\u5c71\u599e\u599e\u5408\u5531\u56e2",
+          "url": "https://open.spotify.com/artist/4WVajhvcBlHdkwknAjgum8"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260321,
+      "name": "\u5c71\u91ce\u91cc\u7684\u592a\u9633",
+      "url": "https://open.spotify.com/track/1TaWmBp7v4lOhWcKhXbTwC"
     },
     {
       "album": {

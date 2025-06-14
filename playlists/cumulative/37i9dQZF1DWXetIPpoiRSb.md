@@ -4,7 +4,7 @@
 
 > Heart\-racing, obsessive pop \~ Kesha on the cover
 
-1,804 songs - 3 day 18 hr 30 min
+1,805 songs - 3 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -648,6 +648,7 @@
 | [GUM](https://open.spotify.com/track/4fo0OT2CUmYuh1N6jpz1S2) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [GUM](https://open.spotify.com/album/1FowAd6rpHLlsbTYWAopjO) | 2:59 | 2025-04-03 |  |
 | [gutter](https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [gutter](https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2) | 2:07 | 2023-03-17 | 2023-06-17 |
 | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk) | 3:31 | 2024-10-18 | 2025-02-28 |
+| [Hachikō](https://open.spotify.com/track/4WhHNXBgRglnkjy7TMzgdh) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hachikō](https://open.spotify.com/album/0qxIGHOXFdqiJEOqbUv5DR) | 4:30 | 2025-06-12 |  |
 | [Haiku](https://open.spotify.com/track/52uaVOICJKsGh3jBM1EW6m) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Haiku](https://open.spotify.com/album/4cWC2yy4u4a1gYjyU2IL5i) | 3:32 | 2025-05-12 | 2025-06-06 |
 | [Hair Tie](https://open.spotify.com/track/1LZCl1U0lGTFxiEfzy62Oq) | [SKYLAR](https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA) | [Hair Tie](https://open.spotify.com/album/0LJtm57k5uVtcGRkPU6hLm) | 2:52 | 2021-12-17 | 2022-03-11 |
 | [Hallelujah](https://open.spotify.com/track/1nLZY9rmmi5l9TgYjv0mQm) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Hallelujah](https://open.spotify.com/album/4Ypr345ZDelmTzuoGDMgs5) | 3:09 | 2023-05-12 | 2023-09-29 |

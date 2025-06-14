@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>Owen\(오왼\)\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>j\-hope\)
 
-1,548 songs - 3 day 11 hr 34 min
+1,549 songs - 3 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -703,6 +703,7 @@
 | [khalifa \(feat\. Young B\)](https://open.spotify.com/track/5mx7sc6BpA9Laq011CirUX) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [Jazzy Moon](https://open.spotify.com/artist/3S9b8WTUFIMJy2nFgU6a3x), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [fxxk u](https://open.spotify.com/album/7LV5SIBe5THK0xdfYOvLYh) | 4:49 | 2022-10-03 | 2022-12-10 |
 | [KILL THEM ALL](https://open.spotify.com/track/0Hbvm4QqvfJfe6bzBkPpGm) | [Hippie Kunda](https://open.spotify.com/artist/1E6nM6pTyYrR4XmMnRKoZR), [Luci Gang](https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S) | [KILL THEM ALL](https://open.spotify.com/album/2Jnn0VClIgQq1qByPXtDbu) | 4:35 | 2024-12-17 | 2025-03-13 |
 | [Killawhale \(feat\. Keith Ape & JayAllday\)](https://open.spotify.com/track/1kSuvS3t4OaWkbVAz5mzPS) | [KG](https://open.spotify.com/artist/7zX4qBPeqfbRWtLdr1DXzG), [Keith Ape](https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI), [JayAllDay](https://open.spotify.com/artist/3tCFRVyQtXCCDS2em4V8wv) | [Hardhitters](https://open.spotify.com/album/4fElVO8jcZuvUQCqfatlIH) | 3:31 | 2024-06-20 | 2024-10-15 |
+| [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs) | 2:28 | 2025-06-13 |  |
 | [Kingpin](https://open.spotify.com/track/5Bcm2vFJTFpHBRl8pUHWaM) | [YUNGIN](https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [Kingpin](https://open.spotify.com/album/1bSjAfDaIUh4e4we2Lcdvd) | 4:22 | 2024-08-14 | 2025-01-25 |
 | [kiss kiss bang bang \(Feat\. twlv\)](https://open.spotify.com/track/6iFDPysdhEJTbwMKwoEXm6) | [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [kiss kiss bang bang](https://open.spotify.com/album/4dMTqGfto1b514039Q5O3M) | 3:21 | 2023-01-03 | 2023-01-11 |
 | [KISS ME](https://open.spotify.com/track/02K01fxmK5qQrwWSHGbb9d) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [IS ANYBODY OUT THERE?](https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p) | 4:38 | 2021-12-18 | 2022-07-07 |

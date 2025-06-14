@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: HANA\*👉 <a href="https://spice.eplus.jp/articles/338483">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,043 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,152 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 74 | [わかりたい](https://open.spotify.com/track/28XlYzvSYXloCUPVtiGoPf) | [THE DO DO DO's](https://open.spotify.com/artist/5yAxOqAbqowFFsPzxTB1U2) | [ボーイ・ミーツ・ガール](https://open.spotify.com/album/02IcL5b8oHOqJcWSfdlUy8) | 4:32 |
 | 75 | [チャンチャンコ～KANREKI60～](https://open.spotify.com/track/3wwmL1jNxHnZlJE3vaTbyW) | [PIKOTARO](https://open.spotify.com/artist/37GBT1Lhfc2sgq4jZIt6n2) | [チャンチャンコ～KANREKI60～](https://open.spotify.com/album/1gkXqPfzNXQcQA78McaSCd) | 2:19 |
 
-Snapshot ID: `aEl96wAAAAB/sxXcyTwuMQSo6m3/CbUv`
+Snapshot ID: `aEl96wAAAACHwWRFbW0AS2ZWuaM9uDrv`

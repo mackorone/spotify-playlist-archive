@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Burna Boy and music for your soul.",
+  "description": "Yazmin Lacey and music for your soul.",
   "name": "BUTTER",
   "tracks": [
+    {
+      "album": {
+        "name": "\"You hate Jazz?\"",
+        "url": "https://open.spotify.com/album/6JgmJqUrH4dlIHuwu2e6YF"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Jaleel Shaw",
+          "url": "https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "\"You hate Jazz?\"",
+      "url": "https://open.spotify.com/track/3tq1hLwEtiAJ7Cr9ghjshV"
+    },
     {
       "album": {
         "name": "BUBBA",
@@ -1008,6 +1030,24 @@
       "duration_ms": 192000,
       "name": "Ah Well",
       "url": "https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ"
+    },
+    {
+      "album": {
+        "name": "Ain't I Good For You",
+        "url": "https://open.spotify.com/album/5xljYFeXxR6vWQwHhyESSb"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161805,
+      "name": "Ain't I Good For You",
+      "url": "https://open.spotify.com/track/77WEFz4sR98WRO01patyZm"
     },
     {
       "album": {
@@ -4921,6 +4961,28 @@
     },
     {
       "album": {
+        "name": "Carolina Honey",
+        "url": "https://open.spotify.com/album/5iq5NAPyvNDUB6gdJD6LSb"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        },
+        {
+          "name": "The Marcus King Band",
+          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250192,
+      "name": "Carolina Honey",
+      "url": "https://open.spotify.com/track/7frjJZJQYBkL8gbs3udaew"
+    },
+    {
+      "album": {
         "name": "Caroline",
         "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
       },
@@ -5678,7 +5740,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 291664,
       "name": "Coltrane",
       "url": "https://open.spotify.com/track/5bkI4gJhfKheZ5WwgjvN5c"
@@ -12658,6 +12720,24 @@
       "duration_ms": 200596,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54"
+    },
+    {
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197116,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
     },
     {
       "album": {
@@ -20317,6 +20397,32 @@
     },
     {
       "album": {
+        "name": "Dream Manifest",
+        "url": "https://open.spotify.com/album/4NRmmJqFrnn3tM6aI5xwQq"
+      },
+      "artists": [
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "Kassa Overall",
+          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223102,
+      "name": "one pillow",
+      "url": "https://open.spotify.com/track/7tOLgvowU2OcA1gx44mpxz"
+    },
+    {
+      "album": {
         "name": "One Step at a Time",
         "url": "https://open.spotify.com/album/5M8qwElAbAHisdS1HgEeaB"
       },
@@ -22536,7 +22642,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 271826,
       "name": "Raisins Under the Sun (feat. Shabaka Hutchings)",
       "url": "https://open.spotify.com/track/6ToLDO9Mh5nV4UvAgIDo3W"
@@ -27072,7 +27178,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 265773,
       "name": "Tag Dag",
       "url": "https://open.spotify.com/track/0V57RK2iTJDMlGUTndzbhF"
@@ -29772,7 +29878,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 208900,
       "name": "VIBES DON'T LIE - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0QYyASnrRffKDevVzlrkV4"

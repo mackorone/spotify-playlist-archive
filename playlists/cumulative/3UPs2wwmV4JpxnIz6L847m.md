@@ -4,7 +4,7 @@
 
 > rap&\#x2F;hip hop, best to play on shuffle
 
-4,782 songs - 11 day 0 hr 24 min
+4,784 songs - 11 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1008,6 +1008,7 @@
 | [Dark Light](https://open.spotify.com/track/7Cye3UbCA6UNuDykdCf3AB) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Concept Vague](https://open.spotify.com/album/3Qu13eNn5FYNuFPwgBG6dO) | 3:26 | 2019-04-06 |  |
 | [Dark Queen](https://open.spotify.com/track/0cGPqSBtm0UJLo1HCziww9) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2 \(Deluxe\)](https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP) | 2:53 | 2020-02-05 |  |
 | [Dark Queen](https://open.spotify.com/track/2ZdCrBA52bb4pIG3tOOZiQ) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 2:53 | 2018-11-14 |  |
+| [Dark Thoughts](https://open.spotify.com/track/7lv4SU2ATVjQJp6Jia0x7N) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:16 | 2025-06-13 |  |
 | [Darkseid](https://open.spotify.com/track/4b9ruyWFMtREf1oatvwa5N) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 2:06 | 2021-08-03 |  |
 | [Darth Vader](https://open.spotify.com/track/7vg47qMIEdLfNdTE3WLf0T) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 3:48 | 2019-02-13 |  |
 | [Darth Vader](https://open.spotify.com/track/4gdxdAQZEyvej8sYTkkk4B) | [Anonymuz](https://open.spotify.com/artist/625BWS4LmjJe3a82OCSFsm) | [Darth Vader](https://open.spotify.com/album/2YQOQCObzll3c6s4CVqSLH) | 2:38 | 2022-06-16 |  |
@@ -3046,6 +3047,7 @@
 | [Over The Top \(feat\. Drake\)](https://open.spotify.com/track/3yaYgjEFkRw3PVjW9mV1TO) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Over The Top \(feat\. Drake\)](https://open.spotify.com/album/4ROMS3rcR9JepxAtDRpvc5) | 2:33 | 2021-07-23 |  |
 | [Overdue \(with Travis Scott\)](https://open.spotify.com/track/2mYDDUkBcgFNBqkWctyyuc) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [NOT ALL HEROES WEAR CAPES](https://open.spotify.com/album/1zNr37qd3iZJ899byrTkcj) | 2:46 | 2018-11-02 |  |
 | [Overtime](https://open.spotify.com/track/2gq9iG0maBxkuZI7yfGJuv) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 3:38 | 2019-12-27 |  |
+| [OWA OWA](https://open.spotify.com/track/1lfO0bqThTLimzHsvk3LrN) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:12 | 2025-06-13 |  |
 | [Own It](https://open.spotify.com/track/1dHUNRY8eVXvSo6kvyFyNx) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/5mz0mJxb80gqJIcRf9LGHJ) | 4:11 | 2020-04-03 |  |
 | [Own It](https://open.spotify.com/track/6V6yOvcRwniVN177utDxtT) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL) | 2:09 | 2022-04-17 |  |
 | [Oxygen](https://open.spotify.com/track/3MAfAtD9lKvugbWzaz21LS) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [NoRedeemingQualities](https://open.spotify.com/album/14UHDxQHc0vS7uSkByELdL) | 2:22 | 2018-07-10 |  |

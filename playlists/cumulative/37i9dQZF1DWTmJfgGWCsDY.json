@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "Room Number 3",
+        "url": "https://open.spotify.com/album/17L4x88dKSyBVnvYpgMzVY"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266272,
+      "name": "Asumani",
+      "url": "https://open.spotify.com/track/40aTArIn6vLBSZZvVN2oP7"
+    },
+    {
+      "album": {
         "name": "Baby Mpya",
         "url": "https://open.spotify.com/album/52HY5Otj0tCwRFBPlulaAh"
       },
@@ -1780,7 +1798,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-14",
       "duration_ms": 238184,
       "name": "Nimwagilie",
       "url": "https://open.spotify.com/track/6NHGWDy1HFYyVchnQE03vQ"

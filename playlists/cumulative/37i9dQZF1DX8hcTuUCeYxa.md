@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Benjamin Amaru, KANTEREIT
 
-1,522 songs - 3 day 15 hr 19 min
+1,523 songs - 3 day 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1015,7 +1015,7 @@
 | [Part of the Machine](https://open.spotify.com/track/0QGdJF3jBxzCxB8TbBVw33) | [Fran Vasilić](https://open.spotify.com/artist/08xR1XU2SWgC2K0yx6lEYm) | [Part of the Machine](https://open.spotify.com/album/3FGeumlBhKzoaz01Ekatn9) | 2:16 | 2025-01-16 | 2025-01-31 |
 | [PARTY](https://open.spotify.com/track/3CssDYkElNAvDMSfKrS6YE) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [PARTY](https://open.spotify.com/album/0JRDxilJ8Xgw0km4pqCQQH) | 3:02 | 2025-04-03 | 2025-04-25 |
 | [passenger side](https://open.spotify.com/track/2jpXlj0HRdK31Jm0ZjGLKU) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [liminal space](https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h) | 2:47 | 2024-10-31 | 2024-11-29 |
-| [Passion](https://open.spotify.com/track/6DD3DloL8AvZCI64707q5F) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Passion](https://open.spotify.com/album/49Lan6ZyZ9eqn7e9NV5hxK) | 3:07 | 2025-05-15 | 2025-06-13 |
+| [Passion](https://open.spotify.com/track/6DD3DloL8AvZCI64707q5F) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Passion](https://open.spotify.com/album/49Lan6ZyZ9eqn7e9NV5hxK) | 3:07 | 2025-05-15 |  |
 | [Past 25](https://open.spotify.com/track/7vm6QR1kQgbnxXjn4hbcUl) | [Mina Richman](https://open.spotify.com/artist/0xEoOgwjjJQ9uDS8y1GtEC) | [Past 25](https://open.spotify.com/album/0ECnMd9UomZS8D1Qa8oIqh) | 3:46 | 2025-03-27 | 2025-04-25 |
 | [Patterns](https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns](https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY) | 4:20 | 2024-07-11 | 2024-07-27 |
 | [Pavement](https://open.spotify.com/track/3SLpYifPLNbact2miciz7A) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Pavement](https://open.spotify.com/album/2MWSw8tBvNWIXURHKT6ai0) | 3:05 | 2025-01-16 | 2025-01-31 |
@@ -1248,6 +1248,7 @@
 | [Sugar On My Tongue](https://open.spotify.com/track/3hcfOGAO4beX79HIsBFlQL) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Sugar On My Tongue](https://open.spotify.com/album/6QyUCX1ARynlj8ovcFpcPu) | 2:32 | 2024-07-11 | 2024-08-09 |
 | [Sugarcat](https://open.spotify.com/track/18pICKHsEvVhiKB2zwW1ta) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Sugarcat](https://open.spotify.com/album/1Z8ssIYHiBTNsCTwUCpOHP) | 2:54 | 2025-03-27 | 2025-04-25 |
 | [Sugarcoated](https://open.spotify.com/track/3EdGkRv8PkxVAoqkFcJR9L) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Sugarcoated](https://open.spotify.com/album/4dv356EKWiXo9Z9HZ1BPGa) | 4:11 | 2024-06-28 | 2024-07-19 |
+| [Summer Sun](https://open.spotify.com/track/1mNk9RnzlfdVEVLLluiMZm) | [ERNIE](https://open.spotify.com/artist/3nXSj676JUEKFxfACHmC9J) | [Summer Sun](https://open.spotify.com/album/6o820NjMLQpqa07FVHCabG) | 3:09 | 2025-06-13 |  |
 | [summer1](https://open.spotify.com/track/0rJtuVlhDkwgyddZpkChKe) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [summer1](https://open.spotify.com/album/7G7sc7S8H489o4Mth2Rzdw) | 2:28 | 2025-05-22 | 2025-05-30 |
 | [Sunday Best](https://open.spotify.com/track/53KK2aIb7sqFWABjhqzy4g) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Vicious Creature](https://open.spotify.com/album/628Rp8jeGrMjWIexMY83Ip) | 4:18 | 2024-12-05 | 2025-01-17 |
 | [Sunday Stitches](https://open.spotify.com/track/3M176knH0qYJi7shSNFFBa) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Sunday Stitches](https://open.spotify.com/album/5y9kaAlRXK6rvPxLP6y7gK) | 3:03 | 2024-09-05 | 2024-10-04 |
@@ -1449,7 +1450,7 @@
 | [What My Heart Needs](https://open.spotify.com/track/0XYd2DMcwh4P2SDB6ahPNh) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Never Look Down](https://open.spotify.com/album/3FrIUKSAtIxvyVOiLRwbhm) | 2:53 | 2025-04-10 | 2025-05-09 |
 | [What Once Was](https://open.spotify.com/track/1ZZ9dE3z3krEpMNDRKFJ92) | [meka](https://open.spotify.com/artist/0yFzuguYUGT3JQ3jd8ZOoP) | [The Rabbit](https://open.spotify.com/album/2Rl2xaXG5j4qND6i6nOAVi) | 3:12 | 2025-05-22 | 2025-05-30 |
 | [What The Hell Do We Do Now?](https://open.spotify.com/track/5Q5H2cIUBZGcPkrFsdoSUR) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [What The Hell Do We Do Now?](https://open.spotify.com/album/10C5fd7CiEzJkqDsLseDu0) | 3:13 | 2025-01-30 | 2025-02-14 |
-| [What You Want Is Gone](https://open.spotify.com/track/0Yt9WXcADgTM2Qgx97QN0X) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [What You Want Is Gone](https://open.spotify.com/album/56yse2T5EbrsRVs6KHK977) | 3:46 | 2025-06-12 |  |
+| [What You Want Is Gone](https://open.spotify.com/track/0Yt9WXcADgTM2Qgx97QN0X) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [What You Want Is Gone](https://open.spotify.com/album/56yse2T5EbrsRVs6KHK977) | 3:46 | 2025-06-12 | 2025-06-14 |
 | [What's Fair](https://open.spotify.com/track/0Hn1hbGgYUltMyYGfDnJBL) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [What's Fair](https://open.spotify.com/album/5T7UoQG0DidvCaulre2lKU) | 3:56 | 2024-08-22 | 2024-09-20 |
 | [What's That?](https://open.spotify.com/track/4myn2EhAxn1VCwTmBJlBU3) | [Shybits](https://open.spotify.com/artist/3RpiuODlxLEzGTjoKa2qW7) | [What's That?](https://open.spotify.com/album/0MRqkegnCrTcQ8Q8aztW7k) | 3:21 | 2024-11-07 | 2024-12-06 |
 | [What3vr](https://open.spotify.com/track/5jqRZna4pjmgETTNo349Rk) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Evangelic Girl is a Gun](https://open.spotify.com/album/0YYPOxN7WrWD3ygAP5KB50) | 2:47 | 2025-05-29 | 2025-06-06 |

@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of fresh releases from your future favorite artists\. Cover: SJ Maglana Artwork: Isu Kim
 
-3,311 songs - 8 day 2 hr 8 min
+3,312 songs - 8 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -805,6 +805,7 @@
 | [Dulo](https://open.spotify.com/track/3QhM53UNmM3fKaYSvVhufK) | [A for A](https://open.spotify.com/artist/4BytLrttDvV1u8CTUNmBOp) | [Dulo](https://open.spotify.com/album/5xGpjTEIbM9QoJULPUO0PA) | 5:00 | 2023-09-28 | 2023-10-24 |
 | [DULO](https://open.spotify.com/track/1hEAOKHpasZAQdOcHCKdg2) | [enbi](https://open.spotify.com/artist/77SPiREka8o40HIsiPC00M) | [DULO](https://open.spotify.com/album/7fWgBALHmwMtz9QxtYv1An) | 3:43 | 2025-06-05 |  |
 | [Dulo](https://open.spotify.com/track/44C9zkIUWLQdRFs8OXcCHK) | [Jello](https://open.spotify.com/artist/1tJJVANSDBSWw2bNWLH3LJ) | [Dulo](https://open.spotify.com/album/2QvAqVIFRjoLZTHRQch9RV) | 4:21 | 2024-10-17 | 2025-01-31 |
+| [Dumampi](https://open.spotify.com/track/5oKDbz3Irah6jZlmJ2dtVU) | [Tamayak](https://open.spotify.com/artist/5us6uhWFasdqux65evdTVW) | [Dumampi](https://open.spotify.com/album/6HKKONhJkMg7A3aXk8ZS3D) | 2:50 | 2025-06-12 |  |
 | [Duwa Sa Panahon](https://open.spotify.com/track/72cK7j9jitvXIOcImMPA7c) | [AEVNDX](https://open.spotify.com/artist/0oAwy3Gzv8mIrizpatnuXq), [Julius Keith Balic](https://open.spotify.com/artist/4JXm2Fd6MU21fTxhekiZGx) | [Duwa Sa Panahon](https://open.spotify.com/album/5v5F5ZfaGUJJFocr3OnzSP) | 2:48 | 2025-06-12 |  |
 | [Dynamite](https://open.spotify.com/track/6OcSpQwGPsZTE38sCgUMZ4) | [Vrainy](https://open.spotify.com/artist/3ukdkvsqpDsMh2b0Td8f4r) | [Dynamite](https://open.spotify.com/album/5pWDjdLNZ437o3kAcmSV6k) | 3:36 | 2023-06-22 | 2024-01-12 |
 | [EARTH C\-137](https://open.spotify.com/track/05kmRqJnBBft8UmuUvUEeC) | [LuckyChan](https://open.spotify.com/artist/6wVI7vgz3JJKAHz6JJ3Vwi) | [EARTH C\-137](https://open.spotify.com/album/3VDWsEg2BLtXvgKMOeeiYu) | 3:03 | 2023-06-29 | 2023-07-14 |

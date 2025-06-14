@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: עדן גולן
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,579 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,591 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 8 | [מניפות](https://open.spotify.com/track/0qznNEs9s1HG5eZiI76TvS) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo), [מתן דינו](https://open.spotify.com/artist/5dg6DDe43hau7pXT54sDZM) | [מניפות](https://open.spotify.com/album/6xgy5aA6AT8U6eVJhSXfsV) | 2:25 |
 | 9 | [מלאך](https://open.spotify.com/track/4wBhdxlmwV8gta2zTUv24x) | [Benaia Barabi](https://open.spotify.com/artist/0WjQnf1rQ0tY84gGgjrQQ9) | [מלאך](https://open.spotify.com/album/5x63WjLomoR7ZfgQk2xpnr) | 3:09 |
 | 10 | [דארלינג](https://open.spotify.com/track/31X0Ta7Vzqfxidox5QLYQp) | [Yuval Gold](https://open.spotify.com/artist/6zc2lm9JeYFjjFE8VEGjlt) | [דארלינג](https://open.spotify.com/album/2gfBr3qkqlKH6EGM1U5NkP) | 2:25 |
-| 11 | [משהו בשמיים](https://open.spotify.com/track/3Pmgm0QepSOImJfW29Hxy2) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [משהו בשמיים](https://open.spotify.com/album/1xuSYsRfhKXKviqUZQtbM4) | 2:32 |
+| 11 | [משהו בשמיים](https://open.spotify.com/track/3Pmgm0QepSOImJfW29Hxy2) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [משהו בשמיים](https://open.spotify.com/album/1xuSYsRfhKXKviqUZQtbM4) | 2:25 |
 | 12 | [טייפשיט](https://open.spotify.com/track/1DTDZOMK5Xf4alnsC76ry0) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [טייפשיט](https://open.spotify.com/album/4VAYz4RbK2HBaKrip07Vzg) | 2:00 |
 | 13 | [בלעדיך](https://open.spotify.com/track/7xyANK3cSIWlP4PPdcq9wO) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Maya Buskila](https://open.spotify.com/artist/4UnEeDqvDJudbJcn6GYSlS) | [בלעדיך](https://open.spotify.com/album/0zG75x12uR6CIbmE6RL81r) | 3:17 |
 | 14 | [נישאר לישון](https://open.spotify.com/track/2gzmfXMiwcfAqLH8Hpxwxz) | [Liran Danino](https://open.spotify.com/artist/1DuDDXSYBMLr55q9lYmDEk) | [לירן דנינו חוזר](https://open.spotify.com/album/0PxZoMchX02SdWaauTupaG) | 3:28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3o9eExibzaT.md) - [plain]
 
 > It's a wonderful lie\. Listen to the music from and inspired by Big Little Lies, all episode streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,116 likes - 84 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,148 likes - 84 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3o9eExibzaT.md) - [plain]
 | 83 | [King Kong](https://open.spotify.com/track/0fguPfhM5cgGHeTGuJyyB5) | [Babe Ruth](https://open.spotify.com/artist/0U04xAocTetRnA7v3TYQ2i) | [Colors of Psychedelia](https://open.spotify.com/album/0wri6eeuRpiJAHJk4BItgC) | 6:46 |
 | 84 | [You Don't Love Me \(No, No, No\) \- Extended Mix](https://open.spotify.com/track/0INtJm8gCJKtNaAYQNVlpZ) | [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [No, No, No](https://open.spotify.com/album/7DLI0K5q6Gb1vgtlgKSgmU) | 4:37 |
 
-Snapshot ID: `AAAAADIG5dL3aVP11zA3Sp0yq3FmF4X7`
+Snapshot ID: `ZVQFfQAAAAAn9YJ+IQ2+tGzcWBX/rWVO`

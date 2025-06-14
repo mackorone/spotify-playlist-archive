@@ -4,7 +4,7 @@
 
 > Electrónica nacional\. Portada: Peces Raros.
 
-251 songs - 1 day 0 hr 49 min
+255 songs - 1 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Cicuta](https://open.spotify.com/track/49zmg7q7EMqJzOUf88Bz7C) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Dogma](https://open.spotify.com/album/20r4ZJsIcT2WDaV0o9jaZa) | 2:29 | 2024-05-24 |  |
 | [Ciudad de Cristal](https://open.spotify.com/track/29NkzAxOEY1BUU2HdWSb2V) | [Juan Baro](https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI) | [Ciudad de Cristal](https://open.spotify.com/album/4wZ6wu7JI91WBBWTw6hXDz) | 4:03 | 2024-02-02 | 2025-03-20 |
 | [Club Del Ocio \- Andrés Moris Remix](https://open.spotify.com/track/0rqfIHj0GdqQ5P9xI2pHMb) | [Madloch](https://open.spotify.com/artist/3iLQiB17qiXyeTKSD8sr2w), [Subnode](https://open.spotify.com/artist/3LLW1zLSHWxtqCLXOBGYD6), [Andrés Moris](https://open.spotify.com/artist/5xF3czoOZ49p8AvxtYLzYy) | [Club Del Ocio \(Andrés Moris Remix\)](https://open.spotify.com/album/2CMALeumdcEHx6QUrPc3Z4) | 7:56 | 2023-11-17 | 2025-03-20 |
+| [Communication](https://open.spotify.com/track/0bggrJP8JznNdTkB97U85F) | [Ubbah](https://open.spotify.com/artist/0gSdePQqsO1geT47TcEMal) | [Communication](https://open.spotify.com/album/34WT9PugI9PO5MySOqEWbq) | 3:50 | 2025-06-13 |  |
 | [Confidence](https://open.spotify.com/track/1DOHyT1tEtZYh8J9jvLGzq) | [Ktrina](https://open.spotify.com/artist/2NW4Gi5HSZrdLpv8MLxL1T), [Geronimo](https://open.spotify.com/artist/37m1wNFQCAtqHDbR30zrAw) | [Confidence](https://open.spotify.com/album/0I8YY90QY7xv31VmPKNJkN) | 5:12 | 2023-11-17 |  |
 | [COPENHAGUE](https://open.spotify.com/track/2EmVWDyNM4DJuyiEOuVCkx) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [ONIRIA](https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU) | [EL AFTER DEL AFTER](https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht) | 2:33 | 2023-11-17 | 2023-12-16 |
 | [CORBETA](https://open.spotify.com/track/7ftUOMEXNxMlttm4wBr0Es) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [Joaquin Catriel](https://open.spotify.com/artist/3DcweuVidzAfVGEo8EX8Lz) | [CORBETA HALCÓN](https://open.spotify.com/album/3vgvdOaQWfpwYvCfHzf2KZ) | 5:15 | 2024-07-26 |  |
@@ -195,6 +196,7 @@
 | [Ritual of Love](https://open.spotify.com/track/7mcixcEvf5YTyTtx541vuM) | [Niceshot](https://open.spotify.com/artist/5lYS0rvjMNATxRrk8Do5DE) | [Seasons \| Winter 2020](https://open.spotify.com/album/2fbePD3aAPGImmJxY4adPn) | 8:18 | 2020-09-04 | 2023-11-18 |
 | [Rival](https://open.spotify.com/track/7nTusO2SiV0C2elBhQuN0H) | [Paula OS](https://open.spotify.com/artist/117lqPm8EvEeZq1B33I6Nl) | [Rival](https://open.spotify.com/album/58HvylSzHi8JKkbX520wNc) | 6:55 | 2023-11-17 |  |
 | [Rotator \- Original Mix](https://open.spotify.com/track/7m7EJuQ8tF7TPdh036FwpI) | [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [Globular](https://open.spotify.com/album/5qTrZyXSG7VO5KojULMd7Q) | 7:56 | 2020-09-04 | 2023-11-18 |
+| [Royal Road](https://open.spotify.com/track/4MCv2tKMjZ9umshBDKVnPz) | [CAMILA \(AR\)](https://open.spotify.com/artist/4XpVMVxOWZuEu4rw7nusFC) | [Impetus](https://open.spotify.com/album/33HW8bU05fylO4Dgea6LQj) | 6:22 | 2025-06-13 |  |
 | [Salvation](https://open.spotify.com/track/4O5EJGMBjFFe0OihGvGpxt) | [Ignacio Arfeli](https://open.spotify.com/artist/53nQsmYO19z1chV4aSVzlp) | [Salvation](https://open.spotify.com/album/2Q2Ht874IgNK0pyxgoU5Wr) | 4:09 | 2024-02-02 |  |
 | [Sand Waves](https://open.spotify.com/track/19cecQlufpLqz369fFxfWv) | [Max & Nim](https://open.spotify.com/artist/2HWIznpGV3NYozQqochmbX) | [Sand Waves](https://open.spotify.com/album/6gAG0C3oSeH81sQWtbZMTn) | 3:06 | 2020-09-04 | 2023-11-18 |
 | [Second Life](https://open.spotify.com/track/3dsY4DI2jfvMR67FLlUvyG) | [Martín Dubiansky](https://open.spotify.com/artist/2G0Wxv6zcebQJXq1NFKU4M) | [Second Life](https://open.spotify.com/album/0nHlgpleL6OiRZXwa6ahiM) | 6:17 | 2024-03-08 |  |
@@ -219,6 +221,7 @@
 | [Stranded Mind \- Extended Mix](https://open.spotify.com/track/0Nno4cLqFzPgcMFbCpdDqE) | [Sebastian Sellares](https://open.spotify.com/artist/6ZEchPBO4Hl3X2H3gpP8T2) | [Stranded Mind](https://open.spotify.com/album/1PiycNuMNREvJyVPgt7pBN) | 8:57 | 2020-09-04 | 2023-11-18 |
 | [Stranded Mind \- Extended Mix](https://open.spotify.com/track/4NHeX2RTbtVCJtbbdHqBv6) | [Sebastian Sellares](https://open.spotify.com/artist/6ZEchPBO4Hl3X2H3gpP8T2) | [Stranded Mind](https://open.spotify.com/album/0Dgv6pJlmf2S1rb26Krobm) | 8:57 | 2020-09-04 | 2022-07-29 |
 | [Subterráneo](https://open.spotify.com/track/303LAlVcCjlKGh3Ew56cB8) | [Agustin Barbei](https://open.spotify.com/artist/7bgEDA7TeFF6seNd0EppXw) | [DCD](https://open.spotify.com/album/3IGg198tZhKXXeO1nxJkti) | 5:55 | 2025-03-20 |  |
+| [Supernova](https://open.spotify.com/track/1jtyBiXBUv4ynh0XInlzZE) | [Emi Galvan](https://open.spotify.com/artist/5A4rzeZ3KXx7VYvcna6awj) | [Supernova](https://open.spotify.com/album/5TzC2DFxBkbEpHwRh6hFkQ) | 4:11 | 2025-06-13 |  |
 | [Synchronic](https://open.spotify.com/track/3aMltk4mfSI1Deg7Egb2Nd) | [Pfirter](https://open.spotify.com/artist/6qavLbYvbSKWqwlz00CoBe) | [Synchronic](https://open.spotify.com/album/0QM8fHyNB03GGgyOGObL6T) | 4:55 | 2024-05-06 | 2024-06-29 |
 | [Tale of Life](https://open.spotify.com/track/7h1jNWVnLwIJ5bAsS3OC1V) | [Rocio Portillo](https://open.spotify.com/artist/0IWaN7iu4zEYq5u1jl1lib) | [Tale of Life](https://open.spotify.com/album/2udhThPU12ym91rQg4l5WG) | 7:12 | 2025-02-28 |  |
 | [Tantanbo \- Mauro Augugliaro Remix](https://open.spotify.com/track/0vPcPZjbwh7kUvaTTu23ir) | [Monojoke](https://open.spotify.com/artist/6WtncXp78N12hQFMe0e2fm), [Mauro Augugliaro](https://open.spotify.com/artist/3csrOIvyyUQ6oZCbeublbj) | [Tantanbo \(Mauro Augugliaro Remix\)](https://open.spotify.com/album/3eMuIBpHfCAHsE1NFcAyKt) | 7:38 | 2024-01-19 | 2025-03-20 |
@@ -231,6 +234,7 @@
 | [The Raveolution](https://open.spotify.com/track/0fTXTxCAk94ZUEjqoUvb1d) | [Erika Halliday](https://open.spotify.com/artist/5HlRz2Fo1ZBzTt4RJrFlzv) | [Lost at 9pm](https://open.spotify.com/album/5gqWklcCpjfqWzc9w4rJUf) | 6:14 | 2025-03-19 |  |
 | [The Realest](https://open.spotify.com/track/7pVOQ63wXi6ZBoJMLrIddW) | [Jay de Lys](https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M), [Kid Enigma](https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE) | [The Realest](https://open.spotify.com/album/1eIFDwfwiiMZHwU0N8fzoF) | 3:38 | 2025-03-19 |  |
 | [The Sound](https://open.spotify.com/track/73TCe3R7yzmuALhEM3RVwl) | [Nicolas Taboada](https://open.spotify.com/artist/6dcbo1dJld5wdwLeno5MBE) | [The Sound](https://open.spotify.com/album/59lIU5nm2ZSriRsSnepZcY) | 7:15 | 2025-03-19 |  |
+| [Ticket 2 Ride](https://open.spotify.com/track/52Iuf0tX0H45WejQHwC6HN) | [DJ JMP](https://open.spotify.com/artist/2geAfV62NcOizrpcKg01Pk) | [Ticket To Ride](https://open.spotify.com/album/4HIlXQlxMO5CUVJkRtgvln) | 6:55 | 2025-06-13 |  |
 | [Tiempo de Perdonar al Tiempo REMIX](https://open.spotify.com/track/7k1BD8Ae6G9owOKyWjYHrc) | [D.I.E.T.R.I.C.H.](https://open.spotify.com/artist/5WMhbQfLXEH6wEpsF0v2hv), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [Tiempo de Perdonar al Tiempo REMIX](https://open.spotify.com/album/1rrYsEJI5bSn7vtq8OjvvE) | 6:22 | 2024-05-31 | 2024-06-29 |
 | [Time Is An Illusion](https://open.spotify.com/track/0jj1tCb1DCGsKsYmf8zFNS) | [Ditian](https://open.spotify.com/artist/6JIvK1wvwFlrjpAWjETPLx) | [Time Is An Illusion EP](https://open.spotify.com/album/3Lhg5VoqZlOrFBzGqppqnj) | 7:29 | 2020-09-04 | 2023-11-18 |
 | [Time Slave \- Sasha Carassi Remix](https://open.spotify.com/track/3TtX778gdmSSx2wlgZcEIx) | [Brigado Crew](https://open.spotify.com/artist/4Oh4pMKSHRFuE8FbZdeh4j), [Crisstiano](https://open.spotify.com/artist/6HPScUP2O8h5Lwzu2V5rUH), [Sasha Carassi](https://open.spotify.com/artist/6UFFThDuFiQixrwog0FecB) | [Time Slave \(Sasha Carassi Remix\)](https://open.spotify.com/album/5K2YalUU0U49f0BoOeaqdV) | 5:46 | 2025-02-28 |  |

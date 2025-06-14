@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-545 songs - 1 day 0 hr 48 min
+546 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,7 @@
 | [Mollo](https://open.spotify.com/track/2zAW1pqECiIMWZ9CvqpdS2) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Galerie](https://open.spotify.com/album/1F7A1rsVd20Rpa4x8Hb5gJ) | 1:54 | 2023-08-22 | 2025-04-12 |
 | [Mont Kiara](https://open.spotify.com/track/2V5QRfFA9DdwfEf3pdNCle) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Mont Kiara](https://open.spotify.com/album/76D4vg3NOaJAL4vbl5KIxw) | 2:15 | 2024-12-13 |  |
 | [Montrose Forest featuring Nicholas Payton](https://open.spotify.com/track/5KDVm18IS8nave70ihVFqN) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Montrose Forest featuring Nicholas Payton](https://open.spotify.com/album/712rPLxjRtWqRjLgKOlMp8) | 4:04 | 2024-11-08 | 2025-01-25 |
-| [Moon Over The Sea](https://open.spotify.com/track/0CW2CierRaSZ1T4zB2VuvA) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Paxkalito](https://open.spotify.com/artist/3GzNXHI7uiWVe0TnkUvP0f) | [Moon Over The Sea](https://open.spotify.com/album/1OaRUJ0SYlGfOetqTsy3vg) | 2:14 | 2025-05-23 |  |
+| [Moon Over The Sea](https://open.spotify.com/track/0CW2CierRaSZ1T4zB2VuvA) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Paxkalito](https://open.spotify.com/artist/3GzNXHI7uiWVe0TnkUvP0f) | [Moon Over The Sea](https://open.spotify.com/album/1OaRUJ0SYlGfOetqTsy3vg) | 2:14 | 2025-05-23 | 2025-06-14 |
 | [Moonbath](https://open.spotify.com/track/4YJgokXX4mOOPgwMzbwpx0) | [Lvnt](https://open.spotify.com/artist/0lJBgFBswR7nf4TrKtwZQt) | [Moonbath](https://open.spotify.com/album/2w3wSYzcxUANJ3j25f8kK4) | 2:08 | 2025-04-18 | 2025-04-21 |
 | [Moonglade](https://open.spotify.com/track/4fmzTCgOgTj8dB3Cb3YwjE) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [Moonglade](https://open.spotify.com/album/2xQdVIZ7DksIupufbmHnq9) | 2:03 | 2025-03-14 | 2025-03-23 |
 | [Moonlight](https://open.spotify.com/track/6ich2rsYphd2p6Bp8mRpw8) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [Jones McJonsen](https://open.spotify.com/artist/7HOOvYURNE4ioNmIPclYhZ) | [Moonlight](https://open.spotify.com/album/521pzIYi6SV9enr8XXqzjE) | 1:51 | 2025-05-16 | 2025-06-07 |
@@ -361,6 +361,7 @@
 | [Perception](https://open.spotify.com/track/6I5ahEl9wBaSiruCxvpWCK) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v), [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Perception](https://open.spotify.com/album/5ux9uG1y42yFELCGh7VzvP) | 2:20 | 2025-01-10 |  |
 | [Picadilly](https://open.spotify.com/track/4GP63RpTwxOCnMq5ZVnKZR) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [flâneur](https://open.spotify.com/artist/1u1zs47JhYDIbDkFjamdzx), [Beto Braga](https://open.spotify.com/artist/3WTydG1gUdND4uShUQAB5h), [Raouf](https://open.spotify.com/artist/6nX2UIOy2F9Tt7uqp4wwvL) | [Picadilly](https://open.spotify.com/album/1aEsXse9pLtnHC0uJ9uONb) | 2:27 | 2024-06-04 | 2025-05-17 |
 | [Pinecone \(feat\. Joe Webb\)](https://open.spotify.com/track/4VGut8AX4LO2dWv4YbN6VS) | [Chris Hyson](https://open.spotify.com/artist/2joqhIRsfoh7YoUdtXrQjd), [Joe Webb](https://open.spotify.com/artist/1sOlO8Btmufez22Yf0Ofs6) | [Pinecone \(feat\. Joe Webb\)](https://open.spotify.com/album/1oaKO5r4jqYYlKcudsKegI) | 5:56 | 2023-08-22 | 2024-09-10 |
+| [Pink Rose](https://open.spotify.com/track/39uCLDvjy0KgJ3FHYmwkxt) | [Liphe](https://open.spotify.com/artist/371UxxrkcjjvlQUJxDKjfq) | [Pink Rose](https://open.spotify.com/album/3xdJ0Gki3cyN10NN6uflp0) | 2:35 | 2025-06-13 |  |
 | [Pipe Dream](https://open.spotify.com/track/2j55REbJcq6dgZ5FxWDaxE) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [KAZUMI KANEDA](https://open.spotify.com/artist/7mQtMaMaPMw2NTeYXfT53M), [David Lavoie](https://open.spotify.com/artist/6GEHfwj42nnWXXmfKZMPsa), [Javier Martinez Vallejos](https://open.spotify.com/artist/7A0Hqf5PHDLbxCDmYaz1xI) | [Trans Pacific](https://open.spotify.com/album/3gqv8ICfij6deG7ZpBWQXU) | 3:06 | 2023-08-22 | 2025-03-26 |
 | [Plage des Casernes](https://open.spotify.com/track/1Clcv7tRrcpxWVMdieibkd) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Plage des Casernes](https://open.spotify.com/album/3CbjF8Luwm8Xe7v33DwfdX) | 2:16 | 2023-08-22 | 2025-04-12 |
 | [Please](https://open.spotify.com/track/1hM5EdvlMXmBI6VbWZSC4T) | [Klode Chill](https://open.spotify.com/artist/4ykT0z2VYMH0yh9NoVfzEo) | [Please](https://open.spotify.com/album/60quyzuZ0KjFbbYj7e6h33) | 2:42 | 2024-11-08 |  |

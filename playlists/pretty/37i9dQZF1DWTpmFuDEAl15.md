@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 
 > Curated for the culture, built for the fairway\. <a href="https://www.instagram.com/swang/">Tap in</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,161 likes - 99 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,194 likes - 99 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 | 98 | [JHOLIDAY](https://open.spotify.com/track/0shLGCfcai77W6i896MY1P) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [2 SLIZZY 2 SEXY](https://open.spotify.com/album/6LTZvDHENUVTxeQrLLS28g) | 2:15 |
 | 99 | [Hills](https://open.spotify.com/track/68C9gWyluR2XVj9r2dppsC) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Obsidian](https://open.spotify.com/album/4545KLMxMvi6RBnNRe58t6) | 3:01 |
 
-Snapshot ID: `aB4sQwAAAAAtkTunw4rm4xBN6Jj0cvgo`
+Snapshot ID: `AAAAANEzimXNkHPOiAf8QidbskRadiBC`

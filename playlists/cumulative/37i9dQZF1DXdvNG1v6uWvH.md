@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist Mark Ronson, RAYE og mörgum fleiri!
 
-6,311 songs - 14 day 3 hr 43 min
+6,313 songs - 14 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [Baby I Won't](https://open.spotify.com/track/51Vml7D0MYqRaMAZbjXcf5) | [sleepy turtle](https://open.spotify.com/artist/0Izi9quSIBBUyjV3Ur0RCY) | [Baby I Won't](https://open.spotify.com/album/6gz5PcaRPZ018qC5eVj5fX) | 1:03 | 2024-09-06 | 2024-09-07 |
 | [Baby Leave With Me](https://open.spotify.com/track/0JdFYzlN4prxBmzvqPapdF) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ), [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA) | [Baby Leave With Me](https://open.spotify.com/album/5mlaFJ0SLdNCdnmlNnTZcZ) | 2:04 | 2024-05-03 | 2024-05-10 |
 | [Baby Steps](https://open.spotify.com/track/33nNr7ZB1HCN1fjdqPdomW) | [Matilda](https://open.spotify.com/artist/4F7wGFfIXuQUBFoxiZ9WFp) | [Baby Steps](https://open.spotify.com/album/4qZjF8ZITj8PzM3czk9xho) | 2:51 | 2024-06-07 | 2024-06-14 |
+| [baby, lmk](https://open.spotify.com/track/2xYtaFbnusB8RDW4lxkimy) | [Notkyle](https://open.spotify.com/artist/6NbOllM9XjgO44JQyhUv6D), [Lukey](https://open.spotify.com/artist/3do4yL5zwMViERQIwA6KYp) | [baby, lmk](https://open.spotify.com/album/0VzytjR0VnjonQrySdnocY) | 3:26 | 2025-06-13 |  |
 | [Babybaby](https://open.spotify.com/track/0zxfmU4GhMm85zGWcxPhK7) | [Viggo Dyst](https://open.spotify.com/artist/2ErTCR7vHeYoB6Z81O8WT2) | [Babybaby](https://open.spotify.com/album/4LUkeY7jtGuiYDeoVKeVJ4) | 4:00 | 2025-05-16 | 2025-05-18 |
 | [Babydoll](https://open.spotify.com/track/46YtvsW5mJyp3slPgOhBKD) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Babydoll](https://open.spotify.com/album/3Hdh9SVJcFwTxYNnkwsD3f) | 4:11 | 2024-11-15 | 2024-11-22 |
 | [Babyface Maniacs](https://open.spotify.com/track/5jAgJyYGFg75DpIyEGxomh) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Babyface Maniacs](https://open.spotify.com/album/4t9pNaVyoEp5W1eVLARj0x) | 3:41 | 2025-03-28 | 2025-04-04 |
@@ -2268,6 +2269,7 @@
 | [H&M](https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:26 | 2024-08-09 | 2024-08-16 |
 | [H.B.W](https://open.spotify.com/track/1juNl4l453G8WFCN27IA8K) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [H.B.W](https://open.spotify.com/album/6USYHqbYcz1QrGUjT8hbl4) | 4:52 | 2024-11-22 | 2024-11-29 |
 | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk) | 3:31 | 2024-10-11 | 2024-10-18 |
+| [Hachikō](https://open.spotify.com/track/4WhHNXBgRglnkjy7TMzgdh) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hachikō](https://open.spotify.com/album/0qxIGHOXFdqiJEOqbUv5DR) | 4:30 | 2025-06-13 |  |
 | [Hacker](https://open.spotify.com/track/7yokdvwHVF5Ejp5iqP4FhY) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Hacker](https://open.spotify.com/album/0S7e6QKCfYDmvIVujOC9S8) | 2:59 | 2024-11-01 | 2024-11-08 |
 | [Haflína](https://open.spotify.com/track/7im3VeSVIsSfwtTmsdlmOI) | [Marína Ósk](https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8) | [Haflína](https://open.spotify.com/album/4uxMPujF6iNVUayGmEmo0L) | 3:13 | 2025-02-07 | 2025-02-09 |
 | [hair down \(with CHUNG HA\)](https://open.spotify.com/track/0J6uaKir7FzzTvnQcpg0MJ) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [hair down \(with CHUNG HA\)](https://open.spotify.com/album/5pViClRtFnnMBoRwfGS2rh) | 3:29 | 2024-07-19 | 2024-07-27 |
@@ -4922,7 +4924,7 @@
 | [Sol \- Edit](https://open.spotify.com/track/4OoIVzIx7kKkTendqhkdfk) | [Volantis](https://open.spotify.com/artist/1UlvEcn0g52vZ4PawafthZ), [Matisa](https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9) | [Sol \(Edit\)](https://open.spotify.com/album/2H7Kv1CUVkl9u5WBJwo6ok) | 3:33 | 2024-04-26 | 2024-05-03 |
 | [Solar Eclipse](https://open.spotify.com/track/4wwq0jVZBx38GRlIj5Trwc) | [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Solar Eclipse](https://open.spotify.com/album/5HhLPEYDunCXhUD2VZ0n7S) | 2:54 | 2024-09-27 | 2024-10-04 |
 | [Solar Eclipse](https://open.spotify.com/track/5p2epvbn4OcDSZEeydZw8d) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Solar Eclipse](https://open.spotify.com/album/1W3HbyiNyXf9rUAVQ26zLj) | 3:47 | 2025-04-25 | 2025-05-02 |
-| [solar power](https://open.spotify.com/track/0YVvQVCBBXTB9yWZzW8sed) | [Eveline](https://open.spotify.com/artist/2QrM4CoNNTfbNZ7e8yvzR0) | [solar power](https://open.spotify.com/album/4mCJPw2TFfdVuJNlMfbhNU) | 3:37 | 2025-06-13 |  |
+| [solar power](https://open.spotify.com/track/0YVvQVCBBXTB9yWZzW8sed) | [Eveline](https://open.spotify.com/artist/2QrM4CoNNTfbNZ7e8yvzR0) | [Solar Power](https://open.spotify.com/album/4mCJPw2TFfdVuJNlMfbhNU) | 3:37 | 2025-06-13 |  |
 | [SOLD MY SOUL](https://open.spotify.com/track/2GxSge6HAH6nt64yT83zmA) | [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi) | [SOLD MY SOUL](https://open.spotify.com/album/61bHizZ5lcUniZrI15U7WW) | 3:19 | 2025-05-23 | 2025-05-30 |
 | [Solifaction](https://open.spotify.com/track/5uNFRBVvCDzzV6IML1spz1) | [Geislar](https://open.spotify.com/artist/1HKaR2LDzBKQNTpoJZ7UAq) | [Solifaction](https://open.spotify.com/album/6VrUjHuMFJxrbzrIy7Td3g) | 5:09 | 2025-06-06 | 2025-06-13 |
 | [Solitude](https://open.spotify.com/track/1WwMBpinWZpaXST7q3otPR) | [Sarah von Reis](https://open.spotify.com/artist/4jhicQyPhrE5OC1aHeGrMq) | [Solitude](https://open.spotify.com/album/6bAvcQE6BXnUnvFQ0hLn7p) | 3:24 | 2024-10-04 | 2024-10-07 |

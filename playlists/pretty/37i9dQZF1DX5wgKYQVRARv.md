@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > New and recent favorites of Prog Metal\. Cover: Katatonia
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,150 likes - 150 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,216 likes - 150 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,20 +143,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 133 | [Chasing Sunsets](https://open.spotify.com/track/5dIfFSUtKg2QOHf32iHyUh) | [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI) | [Chasing Sunsets](https://open.spotify.com/album/6fQCWaGRbfcxZWwKR4Psav) | 4:16 |
 | 134 | [Melatonin](https://open.spotify.com/track/1cMy9ngVh1qJcWaIZPMBU8) | [Sleep Waker](https://open.spotify.com/artist/4hizDhcij3xrH69kcQ4R3i) | [Melatonin](https://open.spotify.com/album/4ZZXNJGWnA54rn0izMoJFp) | 3:28 |
 | 135 | [Chauvinist](https://open.spotify.com/track/2znJImPhsEV8FhHI4Xzxoc) | [LEVELS](https://open.spotify.com/artist/2bpwFx2J3v4WxY4awDIPHd) | [Chauvinist](https://open.spotify.com/album/6hRnrYQSZOKd8msauQCChA) | 3:13 |
-| 136 | [Firefly](https://open.spotify.com/track/6X0kZUNcqKYvYBwxXpU417) | [Esoterica](https://open.spotify.com/artist/63l2JZ9H6olP7LjPwYXN21) | [Firefly](https://open.spotify.com/album/5gxa1RvQJDMc6l3snNeYGq) | 3:57 |
-| 137 | [Secrets \(feat\. Iggy Pop and Randy Blythe\)](https://open.spotify.com/track/0IWO0eDIpFbKUZ8qWch8Y4) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [Secrets \(feat\. Iggy Pop and Randy Blythe\)](https://open.spotify.com/album/6hgQD9yLIqccvdaMtbOiMk) | 4:47 |
-| 138 | [Post\-Truth \- Live ID.](https://open.spotify.com/track/1UHO6wM8WJUWUsm0gVD6sK) | [Riverside](https://open.spotify.com/artist/5yjbUO1Jocui7RKE30zfLT) | [Live ID.](https://open.spotify.com/album/42vf8uOyBQKkiizxC1RCDL) | 6:40 |
-| 139 | [Nous Sommes la Guerre](https://open.spotify.com/track/24B3NFMGpDkG952oyc2ALX) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Nous Sommes La Guerre](https://open.spotify.com/album/53kmVPU7XLxDgIZob1lAmA) | 6:53 |
-| 140 | [Rigel](https://open.spotify.com/track/2v94YzlQ7jNn2IHcGHw7L6) | [Thessa](https://open.spotify.com/artist/7AmcyOXvn35ZkuUWSIn8eu) | [Arcus](https://open.spotify.com/album/5pVn4oUe0UzrcS1p2irbax) | 4:43 |
-| 141 | [Isolation](https://open.spotify.com/track/5iTztoAvuVIYXByMIKbpAO) | [AVKRVST](https://open.spotify.com/artist/3TkSufoEFh458zHkM2VsvW) | [The Approbation](https://open.spotify.com/album/5LZWPBSDx7v6HPO2DdiLPs) | 5:40 |
-| 142 | [Innocence Was Long Forgotten](https://open.spotify.com/track/38xswHmNWqoAFznp81djgj) | [Swallow The Sun](https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ) | [Innocence Was Long Forgotten](https://open.spotify.com/album/59i8Qqzatwq6dKpHDsrjcU) | 4:20 |
-| 143 | [Lovebite](https://open.spotify.com/track/5eF04x4p4bLw6rpaNcMX8n) | [Haken](https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt) | [Lovebite](https://open.spotify.com/album/7l5C0M00szx06bZBiRfitX) | 3:49 |
-| 144 | [Curses](https://open.spotify.com/track/0Wjm38BazYve8BfoWX34Im) | [I Am Haunted](https://open.spotify.com/artist/5klz2h3DJuI09eh1BHg6nS) | [Curses](https://open.spotify.com/album/57CxAIvyxBKolsqkFuQjAH) | 3:28 |
-| 145 | [The Magician](https://open.spotify.com/track/57mFAT7bXcqM5ydcdMDSVX) | [Stellar Circuits](https://open.spotify.com/artist/1TBEqj7m690miuGi6HmkfV) | [Sight To Sound \(Deluxe Edition\)](https://open.spotify.com/album/3gBBbJWSdgp7yBWLpjTEzy) | 4:05 |
-| 146 | [Dinner](https://open.spotify.com/track/7xKShfvVUZKcECyFaqhA7z) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Dinner](https://open.spotify.com/album/3pl00ZxrKeLIog0Qi8Tm4R) | 4:28 |
-| 147 | [Picayune](https://open.spotify.com/track/5JPqKVQvEaSbYjDg56i8UX) | [Satyr](https://open.spotify.com/artist/5ktYe9ZQMyLivSJbjEEEXy) | [Picayune](https://open.spotify.com/album/2mb4WfrUOHJYu6qlFu0CRQ) | 3:51 |
-| 148 | [Red Letter](https://open.spotify.com/track/5t10PRTb216lrqwi1PPRMG) | [Arch Echo](https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh) | [Red Letter](https://open.spotify.com/album/1NCLqFsHz3CArDSzA3V2T1) | 4:50 |
-| 149 | [Into the Light](https://open.spotify.com/track/0i0XScjsRN92yj56FR2N7t) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Into the Light](https://open.spotify.com/album/2jnmtzzMUJhgPmcYD62WVV) | 4:55 |
-| 150 | [Rats Return](https://open.spotify.com/track/5IeZFXMZx6h0334fcH1D6E) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [Rats Return](https://open.spotify.com/album/1FWKOif3vbMdb0imNHK5yz) | 5:40 |
+| 136 | [Spirit Corrosion](https://open.spotify.com/track/7sQsJItB0PbQ5asT8PPYrk) | [Nailed to Obscurity](https://open.spotify.com/artist/3VKWvDnlwWaBI2uzMTjuSJ) | [Spirit Corrosion](https://open.spotify.com/album/738zzIsYYGg5lcbiApHYXR) | 5:17 |
+| 137 | [Firefly](https://open.spotify.com/track/6X0kZUNcqKYvYBwxXpU417) | [Esoterica](https://open.spotify.com/artist/63l2JZ9H6olP7LjPwYXN21) | [Firefly](https://open.spotify.com/album/5gxa1RvQJDMc6l3snNeYGq) | 3:57 |
+| 138 | [Secrets \(feat\. Iggy Pop and Randy Blythe\)](https://open.spotify.com/track/0IWO0eDIpFbKUZ8qWch8Y4) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [Secrets \(feat\. Iggy Pop and Randy Blythe\)](https://open.spotify.com/album/6hgQD9yLIqccvdaMtbOiMk) | 4:47 |
+| 139 | [Post\-Truth \- Live ID.](https://open.spotify.com/track/1UHO6wM8WJUWUsm0gVD6sK) | [Riverside](https://open.spotify.com/artist/5yjbUO1Jocui7RKE30zfLT) | [Live ID.](https://open.spotify.com/album/42vf8uOyBQKkiizxC1RCDL) | 6:40 |
+| 140 | [Nous Sommes la Guerre](https://open.spotify.com/track/24B3NFMGpDkG952oyc2ALX) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Nous Sommes La Guerre](https://open.spotify.com/album/53kmVPU7XLxDgIZob1lAmA) | 6:53 |
+| 141 | [Rigel](https://open.spotify.com/track/2v94YzlQ7jNn2IHcGHw7L6) | [Thessa](https://open.spotify.com/artist/7AmcyOXvn35ZkuUWSIn8eu) | [Arcus](https://open.spotify.com/album/5pVn4oUe0UzrcS1p2irbax) | 4:43 |
+| 142 | [Isolation](https://open.spotify.com/track/5iTztoAvuVIYXByMIKbpAO) | [AVKRVST](https://open.spotify.com/artist/3TkSufoEFh458zHkM2VsvW) | [The Approbation](https://open.spotify.com/album/5LZWPBSDx7v6HPO2DdiLPs) | 5:40 |
+| 143 | [Innocence Was Long Forgotten](https://open.spotify.com/track/38xswHmNWqoAFznp81djgj) | [Swallow The Sun](https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ) | [Innocence Was Long Forgotten](https://open.spotify.com/album/59i8Qqzatwq6dKpHDsrjcU) | 4:20 |
+| 144 | [Lovebite](https://open.spotify.com/track/5eF04x4p4bLw6rpaNcMX8n) | [Haken](https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt) | [Lovebite](https://open.spotify.com/album/7l5C0M00szx06bZBiRfitX) | 3:49 |
+| 145 | [Curses](https://open.spotify.com/track/0Wjm38BazYve8BfoWX34Im) | [I Am Haunted](https://open.spotify.com/artist/5klz2h3DJuI09eh1BHg6nS) | [Curses](https://open.spotify.com/album/57CxAIvyxBKolsqkFuQjAH) | 3:28 |
+| 146 | [The Magician](https://open.spotify.com/track/57mFAT7bXcqM5ydcdMDSVX) | [Stellar Circuits](https://open.spotify.com/artist/1TBEqj7m690miuGi6HmkfV) | [Sight To Sound \(Deluxe Edition\)](https://open.spotify.com/album/3gBBbJWSdgp7yBWLpjTEzy) | 4:05 |
+| 147 | [Dinner](https://open.spotify.com/track/7xKShfvVUZKcECyFaqhA7z) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Dinner](https://open.spotify.com/album/3pl00ZxrKeLIog0Qi8Tm4R) | 4:28 |
+| 148 | [Picayune](https://open.spotify.com/track/5JPqKVQvEaSbYjDg56i8UX) | [Satyr](https://open.spotify.com/artist/5ktYe9ZQMyLivSJbjEEEXy) | [Picayune](https://open.spotify.com/album/2mb4WfrUOHJYu6qlFu0CRQ) | 3:51 |
+| 149 | [Red Letter](https://open.spotify.com/track/5t10PRTb216lrqwi1PPRMG) | [Arch Echo](https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh) | [Red Letter](https://open.spotify.com/album/1NCLqFsHz3CArDSzA3V2T1) | 4:50 |
+| 150 | [Into the Light](https://open.spotify.com/track/0i0XScjsRN92yj56FR2N7t) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Into the Light](https://open.spotify.com/album/2jnmtzzMUJhgPmcYD62WVV) | 4:55 |
 
-Snapshot ID: `aEJn0gAAAAA6baSNTrE8aL/nGIp+lWtX`
+Snapshot ID: `aEuiZgAAAAA/ziFfgW5ocLSMoAcUHOEa`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Cedric Gervais x David Guetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,014 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,273 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [If \(A Better World\)](https://open.spotify.com/track/7tCXmtYrYNFWMa7vyQfuAI) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [If \(A Better World\)](https://open.spotify.com/album/3hAcZ5awmnV1zc2P3WNSzr) | 2:52 |
-| 2 | [When I Grow Up \- Late Night Mix](https://open.spotify.com/track/1m1mYutfX3rddGAYDS04R7) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [When I Grow Up \(Late Night Edit\)](https://open.spotify.com/album/4usTMRjyov3p7xuedEE3cz) | 2:07 |
+| 1 | [A Better World](https://open.spotify.com/track/7tCXmtYrYNFWMa7vyQfuAI) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [A Better World](https://open.spotify.com/album/3hAcZ5awmnV1zc2P3WNSzr) | 2:52 |
+| 2 | [When I Grow Up \- Late Night Mix](https://open.spotify.com/track/1m1mYutfX3rddGAYDS04R7) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Ändre](https://open.spotify.com/artist/375Oz7ctiRyqGqJpflUgiF) | [When I Grow Up \(Late Night Edit\)](https://open.spotify.com/album/4usTMRjyov3p7xuedEE3cz) | 2:07 |
 | 3 | [STORM](https://open.spotify.com/track/7dArQ6yXi7u6MRQaIgR8qN) | [Have a Nice Day!](https://open.spotify.com/artist/3OQMlq2KOx38J3D9v6aw93) | [STORM](https://open.spotify.com/album/23qL8OS7r0fXEP3eJngs6U) | 8:13 |
 | 4 | [Save My Love \(with Ellie Goulding & AVAION\)](https://open.spotify.com/track/4w3Uy4n1hfj1mx6ag7bII5) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Save My Love \(with Ellie Goulding & AVAION\)](https://open.spotify.com/album/3KFX6b8uxX8cORnXbSiC18) | 3:35 |
 | 5 | [Jumping Machine（跳楼机）\-WUKONG Remix](https://open.spotify.com/track/5qsPW4Zcmp1Bk2qaEEPK3Q) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J), [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T) | [Jumping Machine（跳楼机）\-WUKONG Remix](https://open.spotify.com/album/6nTvaPmn3ZoM05z1Au54Vc) | 2:52 |

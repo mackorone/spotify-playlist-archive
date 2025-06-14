@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Celebrating 10 years of the best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Olivia Ridgely, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,893 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,915 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 49 | [Ma blonde \(au cycle des saisons\)](https://open.spotify.com/track/1E4KQN08UwhFXVRH4DUpKY) | [Olivier Couture](https://open.spotify.com/artist/5whPaL8m91IdIvF7f7qqJq) | [Au cycle des saisons](https://open.spotify.com/album/4TOX6o47NxMgVksUHkt8C0) | 2:48 |
 | 50 | [AYO](https://open.spotify.com/track/6U7fvsPCPFURd6B40tR7Lg) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [AYO](https://open.spotify.com/album/0gDwxmB3QCHBj6CFxvm3bG) | 2:40 |
 
-Snapshot ID: `AAAAAGtVowRDo9QFmVgaGSE4LQ4xLu51`
+Snapshot ID: `aEnr0wAAAACECh4ibspJ6XOKffQue6ck`

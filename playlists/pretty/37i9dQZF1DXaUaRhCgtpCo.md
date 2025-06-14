@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,445 likes - 154 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,480 likes - 154 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 | 153 | [The Ninth Jedi \- Prologue](https://open.spotify.com/track/2Vu0gB2LQJsHd9jdquA9Wu) | [Nobuko Toda](https://open.spotify.com/artist/57JOhTMAdbqeE4hVOrsOqJ), [Kazuma Jinnouchi](https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i) | [Star Wars: Visions \- The Ninth Jedi \(Original Soundtrack\)](https://open.spotify.com/album/4KJ9vQBPgLLjgerzp8oPbg) | 2:07 |
 | 154 | [Kara and Father](https://open.spotify.com/track/5diAxn9AwjFu4xLe8YDXT3) | [Nobuko Toda](https://open.spotify.com/artist/57JOhTMAdbqeE4hVOrsOqJ), [Kazuma Jinnouchi](https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i) | [Star Wars: Visions \- The Ninth Jedi \(Original Soundtrack\)](https://open.spotify.com/album/4KJ9vQBPgLLjgerzp8oPbg) | 3:47 |
 
-Snapshot ID: `aEeTxQAAAABqZoPzsoUFaOilvubeMyhm`
+Snapshot ID: `aEeTxQAAAAC1VecoZajrkVeIxnKfMhUs`
