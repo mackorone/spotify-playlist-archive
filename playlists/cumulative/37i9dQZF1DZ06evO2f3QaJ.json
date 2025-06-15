@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 162684,
       "name": "PSLS",
       "url": "https://open.spotify.com/track/4wsfiMI70QpNwZoI8qWoIS"
@@ -1317,6 +1317,28 @@
     },
     {
       "album": {
+        "name": "Antes Que a Terra Acabe",
+        "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208805,
+      "name": "Requinte",
+      "url": "https://open.spotify.com/track/3wmU3X3Ez2yVisabfX6O4k"
+    },
+    {
+      "album": {
         "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
         "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
       },
@@ -1398,7 +1420,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 248213,
       "name": "SALVE",
       "url": "https://open.spotify.com/track/4eFnrRaXfjiPLIIKvlmQE2"
@@ -1526,7 +1548,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Sex Tape",
       "url": "https://open.spotify.com/track/30jS03B59bVieShQSx4qIN"

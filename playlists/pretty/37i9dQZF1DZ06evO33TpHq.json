@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 54319,
+  "num_followers": 54349,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAACdGQc8rTATNCRA0NDNOxmu",
+  "snapshot_id": "aEtqAAAAAAAxF6gV7WkZsEOqFY4xeZO+",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 344200,
-      "name": "1,000 Names",
-      "url": "https://open.spotify.com/track/3R5BU2DhDoAo1vzI2poV6R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Then Christ Came (feat. Phil Wickham)",
         "url": "https://open.spotify.com/album/5kqEy21YLNAV9Oyy9x2gNJ"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 235921,
       "name": "Then Christ Came (feat. Phil Wickham)",
       "url": "https://open.spotify.com/track/2lyhmdzDdJuXyKprsxCQ07"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 344200,
+      "name": "1,000 Names",
+      "url": "https://open.spotify.com/track/3R5BU2DhDoAo1vzI2poV6R"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
-        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 236206,
-      "name": "THE JESUS WAY \u2022 HOMETOWN VERSION",
-      "url": "https://open.spotify.com/track/1Yt9v9tZJG9KtKraxcu5yd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Phil Wickham",
         "url": "https://open.spotify.com/album/6CXyOL41BnuvHMMhF8O9wv"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 298026,
       "name": "Divine Romance",
       "url": "https://open.spotify.com/track/7xUbUfwaCfaAlYxfkIIZnc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
+        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 236206,
+      "name": "THE JESUS WAY \u2022 HOMETOWN VERSION",
+      "url": "https://open.spotify.com/track/1Yt9v9tZJG9KtKraxcu5yd"
     },
     {
       "added_at": null,

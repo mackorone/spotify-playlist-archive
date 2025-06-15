@@ -1,12 +1,12 @@
 {
   "description": "This is James Newton Howard. The essential tracks, all in one playlist.",
-  "num_followers": 14627,
+  "num_followers": 14631,
   "original_name": "This Is James Newton Howard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAAaQFYiTcWbK9q4aRuK73s7",
+  "snapshot_id": "aEtqAAAAAAD6+8VLnEcfCMI99FW9XPjc",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Diamond (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2YwDj8TchnUvnxekoIcQ0X"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 158613,
-      "name": "London",
-      "url": "https://open.spotify.com/track/7hS3i9y9gi81OOFT1rCfSU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
       },
@@ -155,6 +139,38 @@
       "duration_ms": 86906,
       "name": "Nothing Else Matters - Jungle Cruise Version Part 1",
       "url": "https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood Diamond (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2YwDj8TchnUvnxekoIcQ0X"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 158613,
+      "name": "London",
+      "url": "https://open.spotify.com/track/7hS3i9y9gi81OOFT1rCfSU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds and Snakes (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/6L0YVSVuw4BD3UX3fhl8et"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 141066,
+      "name": "Mercy - from \"The Hunger Games: The Ballad of Songbirds and Snakes\" Score",
+      "url": "https://open.spotify.com/track/3oMawK9eqpd5Ln59b8tr4E"
     },
     {
       "added_at": null,
@@ -179,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunger Games: The Ballad of Songbirds and Snakes (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/6L0YVSVuw4BD3UX3fhl8et"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 141066,
-      "name": "Mercy - from \"The Hunger Games: The Ballad of Songbirds and Snakes\" Score",
-      "url": "https://open.spotify.com/track/3oMawK9eqpd5Ln59b8tr4E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Dark Knight (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX"
       },
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunger Games: Original Motion Picture Score",
-        "url": "https://open.spotify.com/album/6PH1qpo8wXTJnhZHnQi8YT"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 118413,
-      "name": "The Countdown",
-      "url": "https://open.spotify.com/track/3i3g2kJg5DMrp0rC5g98Ow"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fantastic Beasts: The Secrets of Dumbledore (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0wmxJxhdGo9awyHiM1jRtP"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 134813,
       "name": "I'm Expecting Someone",
       "url": "https://open.spotify.com/track/41ckIX2CdahZo5iqQvO1Qo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hunger Games: Original Motion Picture Score",
+        "url": "https://open.spotify.com/album/6PH1qpo8wXTJnhZHnQi8YT"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 118413,
+      "name": "The Countdown",
+      "url": "https://open.spotify.com/track/3i3g2kJg5DMrp0rC5g98Ow"
     },
     {
       "added_at": null,
@@ -520,7 +520,7 @@
       "added_at": null,
       "album": {
         "name": "The Hunger Games: Original Motion Picture Score",
-        "url": "https://open.spotify.com/album/6PH1qpo8wXTJnhZHnQi8YT"
+        "url": "https://open.spotify.com/album/5tF7RSw6Zke0WY4fPf6LR9"
       },
       "artists": [
         {
@@ -530,7 +530,7 @@
       ],
       "duration_ms": 184200,
       "name": "Healing Katniss",
-      "url": "https://open.spotify.com/track/3Kgycp43ACNRDY3X9KTd9j"
+      "url": "https://open.spotify.com/track/6ks7BlSGVDpvg8aizTOil2"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sixth Sense (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1Cdpyr3pRNtiErT7QRbOxI"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 55200,
-      "name": "Photographs",
-      "url": "https://open.spotify.com/track/78yA58Dk8ojS5CQyh2iLIZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hunger Games: Catching Fire (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/1ZjhC3CL1GLbPQbU6lKtow"
       },
@@ -655,22 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batman Begins (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5djDvf7OozECsKzEB04uYg"
+        "name": "The Sixth Sense (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Cdpyr3pRNtiErT7QRbOxI"
       },
       "artists": [
         {
           "name": "James Newton Howard",
           "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        },
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
         }
       ],
-      "duration_ms": 447480,
-      "name": "Lasiurus",
-      "url": "https://open.spotify.com/track/3fWlG9rDTtn1kxRJN4PYN3"
+      "duration_ms": 55200,
+      "name": "Photographs",
+      "url": "https://open.spotify.com/track/78yA58Dk8ojS5CQyh2iLIZ"
     },
     {
       "added_at": null,
@@ -691,6 +671,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Batman Begins (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5djDvf7OozECsKzEB04uYg"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "duration_ms": 447480,
+      "name": "Lasiurus",
+      "url": "https://open.spotify.com/track/3fWlG9rDTtn1kxRJN4PYN3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fantastic Beasts: The Crimes Of Grindelwald (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0x0bcLcDHfb8j93LslpznF"
       },
@@ -703,30 +703,6 @@
       "duration_ms": 152106,
       "name": "Newt and Leta",
       "url": "https://open.spotify.com/track/5LXNEJZVclEbFOFwEcgSlm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Hidden Life (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1JyFpFS3gUIS5F5NCZRsk7"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        },
-        {
-          "name": "James Ehnes",
-          "url": "https://open.spotify.com/artist/0b7df8SeNFCgnJj5Wjg5c8"
-        },
-        {
-          "name": "Andrew Armstrong",
-          "url": "https://open.spotify.com/artist/3pi9i7KYNops33AeHXFGMz"
-        }
-      ],
-      "duration_ms": 150440,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/0ByRFYqhIaKQqWXShfoOTw"
     },
     {
       "added_at": null,
@@ -755,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batman Begins (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5djDvf7OozECsKzEB04uYg"
+        "name": "A Hidden Life (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1JyFpFS3gUIS5F5NCZRsk7"
       },
       "artists": [
         {
@@ -764,13 +740,17 @@
           "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
         },
         {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+          "name": "James Ehnes",
+          "url": "https://open.spotify.com/artist/0b7df8SeNFCgnJj5Wjg5c8"
+        },
+        {
+          "name": "Andrew Armstrong",
+          "url": "https://open.spotify.com/artist/3pi9i7KYNops33AeHXFGMz"
         }
       ],
-      "duration_ms": 239133,
-      "name": "Antrozous",
-      "url": "https://open.spotify.com/track/6Bqj8kaRJrYGmE0tvf6PKe"
+      "duration_ms": 150440,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/0ByRFYqhIaKQqWXShfoOTw"
     },
     {
       "added_at": null,
@@ -831,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunger Games: Original Motion Picture Score",
-        "url": "https://open.spotify.com/album/6PH1qpo8wXTJnhZHnQi8YT"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 205053,
-      "name": "Tenuous Winners/Returning Home",
-      "url": "https://open.spotify.com/track/3j0anhPHIuTukHhyGlkwvp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atlantis: The Lost Empire",
         "url": "https://open.spotify.com/album/5mkMnwIpLibABWXO8hKYXq"
       },
@@ -863,6 +827,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Batman Begins (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5djDvf7OozECsKzEB04uYg"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Antrozous",
+      "url": "https://open.spotify.com/track/6Bqj8kaRJrYGmE0tvf6PKe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hunger Games: Original Motion Picture Score",
+        "url": "https://open.spotify.com/album/6PH1qpo8wXTJnhZHnQi8YT"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 205053,
+      "name": "Tenuous Winners/Returning Home",
+      "url": "https://open.spotify.com/track/3j0anhPHIuTukHhyGlkwvp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peter Pan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2zGkIyUeYV5NVS8z3MUGE8"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 164893,
+      "name": "I Do Believe In Fairies",
+      "url": "https://open.spotify.com/track/5uP6WHqBgeZwHZNY6p3zfs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Hunger Games: Mockingjay, Part 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3a0RwfCB9NRoS6RcNAU9eK"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 145506,
       "name": "Your Favorite Color is Green - From \"The Hunger Games: Mockingjay, Part 2\" Soundtrack",
       "url": "https://open.spotify.com/track/0eALlNRLWpbSmHllAhAW6x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fantastic Beasts and Where to Find Them (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 125469,
-      "name": "He's Listening to You Tina",
-      "url": "https://open.spotify.com/track/5p8Phi6zi7bm5Ar8Sk4OpT"
     }
   ],
   "unique_name": "This Is James Newton Howard",

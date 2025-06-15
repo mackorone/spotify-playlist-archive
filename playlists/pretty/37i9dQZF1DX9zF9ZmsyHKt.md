@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,646 likes - 65 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,726 likes - 65 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 17 | [Ultima Vez](https://open.spotify.com/track/40Frowu2ww9YAKKFLb7yS8) | [Billy Brasil](https://open.spotify.com/artist/5PXF4RydKIBSlMZC4JgShx), [Batidão do Melody](https://open.spotify.com/artist/1cxdUdATJCunpjaHM8e7d6) | [Ultima Vez](https://open.spotify.com/album/3A14Wp6OjW4cB6Bdkc7ZGn) | 3:39 |
 | 18 | [Pra Te Esquecer \- Ao Vivo](https://open.spotify.com/track/0YcOV4SbJCSO5xJpVsIw18) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Isso É Calypso na Amazônia \- Bloco 1 \(Ao Vivo\)](https://open.spotify.com/album/07DKQEQmK2bV9AoZrhDivn) | 4:19 |
 | 19 | [Disse Adeus](https://open.spotify.com/track/6naHDFlQZ1TvcPYN0Uasgm) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo na Amazônia](https://open.spotify.com/album/0NsBhK5b0iHGZFOMirfnla) | 4:10 |
-| 20 | [Vem Curtir Com Jackson](https://open.spotify.com/track/5irR7SwEE5M0YqKGL7XiW9) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq) | [Ao Som do Fruto, Vol\. 02](https://open.spotify.com/album/4t9z4MjfN7DeHCP6KlGuSs) | 3:49 |
-| 21 | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/track/5YDyubwvYmgXR0mWjL8dXF) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/album/2Xz4Xcm86sv57xDz8akLvj) | 3:03 |
+| 20 | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/track/5YDyubwvYmgXR0mWjL8dXF) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/album/2Xz4Xcm86sv57xDz8akLvj) | 3:03 |
+| 21 | [Vem Curtir Com Jackson](https://open.spotify.com/track/5irR7SwEE5M0YqKGL7XiW9) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq) | [Ao Som do Fruto, Vol\. 02](https://open.spotify.com/album/4t9z4MjfN7DeHCP6KlGuSs) | 3:49 |
 | 22 | [Imagem do Prazer](https://open.spotify.com/track/5lIRlJGqInAEInVxpqf9rg) | [Banda POP Show](https://open.spotify.com/artist/5mW39VdCIwXOmfW5Tdn6T7) | [Imagem do Prazer](https://open.spotify.com/album/40dHfK5l6u8abVgWN00Lks) | 3:40 |
 | 23 | [Lágrimas de Sangue \(Ao Vivo\)](https://open.spotify.com/track/7ihbN5GjWZpta9qSrCRUl5) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Isso É Calypso Tour Brasil \(Ao Vivo em São Paulo \- SP\) EP5](https://open.spotify.com/album/2Eu4pJipc7JR6TJBgQpkqH) | 2:32 |
 | 24 | [Pra Me Conquistar](https://open.spotify.com/track/11tQHWsy9QSi9Ml69ldeng) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [O Ritmo Que Conquistou o Brasil \- Vol.03](https://open.spotify.com/album/75BR3zxW4J4g4fnXsHKGY3) | 2:58 |
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 44 | [Já Me Vu](https://open.spotify.com/track/4AKclaAjh7jRK4zweDLwRm) | [AQNO](https://open.spotify.com/artist/5vHBIzRYLWzS2LnOjhV5yk) | [Latino Brega Love](https://open.spotify.com/album/07qxdlIfEezcNmVmHQMVPX) | 4:50 |
 | 45 | [São Amores](https://open.spotify.com/track/48qHCv2FnLa5uVCAcPveU1) | [Banda Quero Mais](https://open.spotify.com/artist/2qKQ4jiEt7kpYuLyTsNQqz) | [São Amores](https://open.spotify.com/album/55Rl0AQKQwbAKyI41H088s) | 3:19 |
 | 46 | [Búfalo do Marajó](https://open.spotify.com/track/76tnBMbH2D5HbvZ3g5ZRSI) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Allanzinho](https://open.spotify.com/artist/73qBqoOL5FnxUSdtTl5JQ0) | [Borogodó 2](https://open.spotify.com/album/19zfL8aj6RlLqajsgOwQKo) | 2:38 |
-| 47 | [Essa É a Ultima Vez](https://open.spotify.com/track/5MmDczW2YblO394A3dMG8I) | [Banda Batidão do Melody](https://open.spotify.com/artist/0UwSlqhvDCl7xANP1ANswD) | [Essa É a Ultima Vez](https://open.spotify.com/album/1s0VJLoLdhsMw4vlkmlLe7) | 3:31 |
+| 47 | [Não Tô Nada Bem](https://open.spotify.com/track/4knPMuSs0z1FVD1rvQ53FW) | [Banda msynck](https://open.spotify.com/artist/79iY9AWpx6WDFhWAko16rQ), [Marlon Branco](https://open.spotify.com/artist/5AfYpeoQZbqFmbs83tJRCp) | [Não Tô Nada Bem](https://open.spotify.com/album/1niDgt1eDHXt3nFsU2WM2Y) | 3:44 |
 | 48 | [Marmita](https://open.spotify.com/track/751q23G1cXJTihDzwWvHBN) | [Jurandy](https://open.spotify.com/artist/0nRGSif2rLZVTzZIfipqWs) | [O Rei Do Techno Brega](https://open.spotify.com/album/7n0sRItNvCvjAS8LlCdSAX) | 3:26 |
-| 49 | [Não Tô Nada Bem](https://open.spotify.com/track/4knPMuSs0z1FVD1rvQ53FW) | [Banda msynck](https://open.spotify.com/artist/79iY9AWpx6WDFhWAko16rQ), [Marlon Branco](https://open.spotify.com/artist/5AfYpeoQZbqFmbs83tJRCp) | [Não Tô Nada Bem](https://open.spotify.com/album/1niDgt1eDHXt3nFsU2WM2Y) | 3:44 |
-| 50 | [Sonhar](https://open.spotify.com/track/0vt6uNUoCqF8M7ObXFM635) | [Companhia do Tecno](https://open.spotify.com/artist/2VFFEFBfWpFcciWIwm5cuL) | [SET de Melody e Calypso \#2024](https://open.spotify.com/album/0gXBnZ1rcvn2AiZVaRXbWI) | 3:13 |
+| 49 | [Sonhar](https://open.spotify.com/track/0vt6uNUoCqF8M7ObXFM635) | [Companhia do Tecno](https://open.spotify.com/artist/2VFFEFBfWpFcciWIwm5cuL) | [SET de Melody e Calypso \#2024](https://open.spotify.com/album/0gXBnZ1rcvn2AiZVaRXbWI) | 3:13 |
+| 50 | [Essa É a Ultima Vez](https://open.spotify.com/track/5MmDczW2YblO394A3dMG8I) | [Banda Batidão do Melody](https://open.spotify.com/artist/0UwSlqhvDCl7xANP1ANswD) | [Essa É a Ultima Vez](https://open.spotify.com/album/1s0VJLoLdhsMw4vlkmlLe7) | 3:31 |
 | 51 | [Itamaraty](https://open.spotify.com/track/0jondRRyM7rj9nxjkMxORN) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq), [Valéria Paiva](https://open.spotify.com/artist/2j2TgiOSC2bsZlRiN5MFaS) | [Itamaraty](https://open.spotify.com/album/4tb6TVJ41Q80C7Zjat7uFP) | 2:43 |
 | 52 | [Meus Dias Felizes](https://open.spotify.com/track/2221klmWmQn2yLtuLGSz6R) | [Banda Halley](https://open.spotify.com/artist/5UgJvzYWsiYKJPnmLixmpt) | [Bregoso 4](https://open.spotify.com/album/2QbLKFf00rabPX0REmUeew) | 2:02 |
 | 53 | [Problema Seu](https://open.spotify.com/track/2pByJv32jG0dUwkyu6Gmth) | [Banda Floresta Nativa](https://open.spotify.com/artist/7BUo6flN4ZfDeWOafPAHeL) | [Raro Amor](https://open.spotify.com/album/0polX3dWngAwh9WSb92fmQ) | 4:13 |

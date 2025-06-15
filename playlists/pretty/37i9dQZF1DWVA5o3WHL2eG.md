@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Zsá Zsá
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,120 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,130 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 6 | [Glatteis](https://open.spotify.com/track/2hP1NjQ0P5B0B5yB2IMf6q) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Glas](https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6) | 3:22 |
 | 7 | [JETZT ERST RECHT](https://open.spotify.com/track/0hJKETb6BCjXfZYibKzS20) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl), [GX488](https://open.spotify.com/artist/2vejmZVbfJvdE4xepeUqVa) | [FOTZE](https://open.spotify.com/album/5rNQXvHYeexPQHtsz5OJWo) | 2:13 |
 | 8 | [Ärger](https://open.spotify.com/track/2ZpNVf05uVzubaPX6Sd2VK) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Ärger](https://open.spotify.com/album/0MJuSV0gjcCU5Cel4SziGO) | 1:43 |
-| 9 | [FSK \(ficken saufen kotzen\)](https://open.spotify.com/track/1DYnNZmmGbZ02Ok0QPM8ig) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va) | [FSK \(ficken saufen kotzen\)](https://open.spotify.com/album/6k2e9mpEoH2aA6JAQ6oY1g) | 2:05 |
+| 9 | [FSK \(ficken saufen kotzen\)](https://open.spotify.com/track/1DYnNZmmGbZ02Ok0QPM8ig) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va), [snoid](https://open.spotify.com/artist/6UjcyqJVaoBpUlpbUjzMkT) | [FSK \(ficken saufen kotzen\)](https://open.spotify.com/album/6k2e9mpEoH2aA6JAQ6oY1g) | 2:05 |
 | 10 | [ICH GEH MIT MIR](https://open.spotify.com/track/21dfwDOI57dqW8LLqV5Ypk) | [LORI](https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x) | [ICH GEH MIT MIR](https://open.spotify.com/album/5XVnX6GnATq2EgjfNlVjvb) | 3:07 |
 | 11 | [Schlimmster Mensch der Welt](https://open.spotify.com/track/5BSwfudT5otTmLorKncQdi) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Schlimmster Mensch der Welt](https://open.spotify.com/album/6BNJB42hjoBQaG3swmFuVt) | 2:37 |
 | 12 | [wenn's am schönsten ist](https://open.spotify.com/track/4fZYJSpK32o3CeWPByulUj) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [wenn's am schönsten ist](https://open.spotify.com/album/1O9pMaZ82BwU6cb7nCO9WG) | 2:16 |
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 14 | [hungerspiele](https://open.spotify.com/track/5EnJNlBSbircsRkFlpINQ0) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [hungerspiele](https://open.spotify.com/album/0XD2A1SUf0gl6LkWBNzQ2R) | 2:57 |
 | 15 | [Vespa](https://open.spotify.com/track/4cQXzeob93WskDrYumvoqn) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [Vespa](https://open.spotify.com/album/6pUSfO8PGUDlUFWh8SMZJQ) | 2:17 |
 | 16 | [Feuerkind](https://open.spotify.com/track/56ldjSVqZJ332ntiGLSPvW) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Feuerkind](https://open.spotify.com/album/5zwr0tXhxtJmfvgL1G8BK0) | 3:40 |
-| 17 | [Bitte sag](https://open.spotify.com/track/5rj7ExuHtdyVGtUMuprZqe) | [Paula Douglas](https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ) | [Bitte sag](https://open.spotify.com/album/7GV5MAj4vGJ6UBwpUcKmnX) | 2:11 |
-| 18 | [Knoppers](https://open.spotify.com/track/42nG2hVZIVNfPBQ8RiOCAj) | [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W), [Traya](https://open.spotify.com/artist/0bo1LMgTEg5qpicrIee54M) | [Knoppers](https://open.spotify.com/album/0RzlcFXkk0MJmcQhYxwcwR) | 2:06 |
+| 17 | [Knoppers](https://open.spotify.com/track/42nG2hVZIVNfPBQ8RiOCAj) | [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W), [Traya](https://open.spotify.com/artist/0bo1LMgTEg5qpicrIee54M) | [Knoppers](https://open.spotify.com/album/0RzlcFXkk0MJmcQhYxwcwR) | 2:06 |
+| 18 | [Bitte sag](https://open.spotify.com/track/5rj7ExuHtdyVGtUMuprZqe) | [Paula Douglas](https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ) | [Bitte sag](https://open.spotify.com/album/7GV5MAj4vGJ6UBwpUcKmnX) | 2:11 |
 | 19 | [Hey Chatty](https://open.spotify.com/track/5v1cAVbBR0v5Gev5NF1GZd) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Hey Chatty](https://open.spotify.com/album/0Bvd5BIjtgxoAvg3F7OTla) | 2:47 |
 | 20 | [Er kriegt mich nicht](https://open.spotify.com/track/3QlqPRUCScMH9SRdRSPhid) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Er kriegt mich nicht](https://open.spotify.com/album/32KQ2dKaKl0XXalzDj9b5U) | 1:29 |
 | 21 | [Daddy](https://open.spotify.com/track/5UEdzLdq8tICr6x0abO4gM) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Daddy](https://open.spotify.com/album/4sQdg2DCe4J2ZJbOEZ615l) | 2:34 |

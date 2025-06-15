@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 
 > This is Sufjan Stevens\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,662 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,694 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 | 20 | [The Predatory Wasp of the Palisades Is Out to Get Us!](https://open.spotify.com/track/4wFBbeR03fah9nwy0isyO8) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 5:23 |
 | 21 | [A Running Start](https://open.spotify.com/track/0VEjM4LYuOxPCtrtKuwbuq) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:21 |
 | 22 | [Drawn to the Blood](https://open.spotify.com/track/7tL59eSR3yM1iSr4PjmgyX) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 3:18 |
-| 23 | [The Dress Looks Nice on You](https://open.spotify.com/track/74DrpM6tAWvcMu6Uxko9xb) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 2:32 |
+| 23 | [For the Widows in Paradise, For the Fatherless in Ypsilanti](https://open.spotify.com/track/1dkHo0hS9KnzlsRSbIjZzi) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 3:57 |
 | 24 | [John Wayne Gacy, Jr.](https://open.spotify.com/track/2R3g9k14OAcUzZYwo90Tx6) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 3:19 |
-| 25 | [For the Widows in Paradise, For the Fatherless in Ypsilanti](https://open.spotify.com/track/1dkHo0hS9KnzlsRSbIjZzi) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Michigan](https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk) | 3:57 |
+| 25 | [The Dress Looks Nice on You](https://open.spotify.com/track/74DrpM6tAWvcMu6Uxko9xb) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 2:32 |
 | 26 | [So You Are Tired](https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:49 |
 | 27 | [Olympus](https://open.spotify.com/track/2eVWzZgYX87QQ7cS9MKnZI) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [A Beginner's Mind](https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9) | 3:07 |
 | 28 | [A short reprise for Mary Todd, who went insane, but for very good reasons](https://open.spotify.com/track/6hfxGStZ4L3IBvRaCqmPQc) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 0:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Od4Lm.md) - [plain]
 | 49 | [Shade I'll Never See](https://open.spotify.com/track/0jllpyj5FhtLgb7Txj7oxv) | [Denison Witmer](https://open.spotify.com/artist/2sJ5Iicthbc9d8Sl1dpeSB), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Anything At All](https://open.spotify.com/album/1pBsqSt6LWcEf9nIQHMWya) | 3:12 |
 | 50 | [L\-O\-V\-E \(feat\. Chrissy, Luna & Miles\)](https://open.spotify.com/track/1CoHxW1sHR4BKoBIz3B1Qb) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Chrissy](https://open.spotify.com/artist/0UkJmTvoKcOI4YnBc6jeYf), [Luna](https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw), [MILES](https://open.spotify.com/artist/2fHmvBw01MQs9FpEaBXglg) | [My Favorite Dream](https://open.spotify.com/album/2Na5BI4pks8yFrWNvEK6zW) | 2:32 |
 
-Snapshot ID: `aEoYgAAAAAA6o3n7dFreNNZECA1tBtI+`
+Snapshot ID: `aEtqAAAAAAAHl3HGOpOhKfdZ2NuZTB8P`

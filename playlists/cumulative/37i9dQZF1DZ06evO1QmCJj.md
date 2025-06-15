@@ -4,7 +4,7 @@
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-95 songs - 4 hr 53 min
+96 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Me Quedo](https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Spoiler](https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j) | 2:54 | 2023-11-10 |  |
 | [MI COLETA](https://open.spotify.com/track/7EJDBVATR8jdE5b9Y7QEU9) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/16QJNLv3LHn3sz5CfmYX8Z) | 3:07 | 2025-03-30 |  |
 | [MISSION005](https://open.spotify.com/track/0O3OFlXT0PrrjpTuCfLoz6) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/16QJNLv3LHn3sz5CfmYX8Z) | 3:09 | 2025-03-30 |  |
+| [MOJA1TA](https://open.spotify.com/track/5HPNYgjgYWdpB7x6rNDWCM) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [MOJA1TA](https://open.spotify.com/album/62inXmrayK1vAwbclJtp0D) | 2:24 | 2025-06-15 |  |
 | [Mujer Bruja](https://open.spotify.com/track/2o2PFz6MLkKXVDYlzDAVH7) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Akelarre](https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9) | 3:22 | 2023-11-10 |  |
 | [Nada A Nadie](https://open.spotify.com/track/1Izr80WaWR61ja0mdXTRVQ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 3:02 | 2023-11-10 | 2025-02-12 |
 | [No Se Toca](https://open.spotify.com/track/1JNWhyAuTvjgJvmi6Psct4) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Akelarre](https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9) | 2:32 | 2023-11-10 | 2024-05-26 |
@@ -97,7 +98,7 @@
 | [UNA BACHATA](https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:37 | 2024-03-01 |  |
 | [UNA BACHATA](https://open.spotify.com/track/7psTzxo3Gyo7ZoCysM8fjc) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [UNA BACHATA](https://open.spotify.com/album/2q1jdycseQd3319Y48b2Gh) | 2:37 | 2024-02-03 | 2024-03-02 |
 | [VERDE](https://open.spotify.com/track/3pw0tTPW8IJ89SxocA99Ac) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [VERDE](https://open.spotify.com/album/7xjkG9sYMkyufKXTXby3Er) | 2:05 | 2025-02-12 |  |
-| [Ya No Quiero Ná](https://open.spotify.com/track/2A2Q4CYBcVvBF2OqgJ3OWX) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Ya No Quiero Ná](https://open.spotify.com/album/0qvWm5gyv7jLuRwj4Ioaob) | 3:12 | 2023-11-10 |  |
+| [Ya No Quiero Ná](https://open.spotify.com/track/2A2Q4CYBcVvBF2OqgJ3OWX) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Ya No Quiero Ná](https://open.spotify.com/album/0qvWm5gyv7jLuRwj4Ioaob) | 3:12 | 2023-11-10 | 2025-06-15 |
 | [YO TE LLEVO](https://open.spotify.com/track/5bjMuYyKcIrF8dT7jdyzym) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/16QJNLv3LHn3sz5CfmYX8Z) | 3:12 | 2025-03-30 |  |
 | [YO TENGO UN NOVIO](https://open.spotify.com/track/2kT0UoxzIcAaD7SNiDGrFn) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [GRX](https://open.spotify.com/album/3N8WkOmiTx5YdCizQivQbX) | 2:24 | 2023-12-16 | 2024-02-09 |
 | [YO TENGO UN NOVIO](https://open.spotify.com/track/3iUHatOlJklHFQhRQjk27h) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [YO TENGO UN NOVIO](https://open.spotify.com/album/4qX93EQMuPQBxXsWhKyB1k) | 2:24 | 2024-01-04 | 2024-03-09 |

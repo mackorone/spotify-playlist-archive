@@ -4,7 +4,7 @@
 
 > R&B of the moment by the artists of the future\. Cover:  Psyrin
 
-1,312 songs - 2 day 18 hr 33 min
+1,313 songs - 2 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Bittersweet](https://open.spotify.com/track/6YIXb5R1nJ6DbSucyvAXYg) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [Bittersweet](https://open.spotify.com/album/3YPSBfBdzyeOoQU72r1RH8) | 3:20 | 2022-04-08 | 2022-05-21 |
 | [Bittersweet Goodbyes](https://open.spotify.com/track/1otiDJ357ZDfyaJpK4IvNQ) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Motive](https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr) | 3:07 | 2022-10-07 | 2023-01-21 |
 | [Black Heart Emoji](https://open.spotify.com/track/3hjNGfXk2O3LQI0954F320) | [The WRLDFMS Tony Williams](https://open.spotify.com/artist/6TTVdg5UOUHsyiYPHgxLaq), [Cure for Paranoia](https://open.spotify.com/artist/4YRwYMJHtjOnfqkDd8EJbk) | [Black Heart Emoji](https://open.spotify.com/album/0mGYrk3E3q9TLbczQHvOgt) | 3:52 | 2022-03-25 | 2022-04-16 |
-| [Bleeding](https://open.spotify.com/track/3ClOC6cr12jZ7smMCgviqe) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Bleeding](https://open.spotify.com/album/66PpY2pEIhQ1s3LPBpme4Z) | 2:53 | 2024-08-23 |  |
+| [Bleeding](https://open.spotify.com/track/3ClOC6cr12jZ7smMCgviqe) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Bleeding](https://open.spotify.com/album/66PpY2pEIhQ1s3LPBpme4Z) | 2:53 | 2024-08-23 | 2025-06-15 |
 | [Bleeding Me Dry](https://open.spotify.com/track/6ldJ3AUfPvRX2gCB4IMpBG) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Bleeding Me Dry](https://open.spotify.com/album/4jMPCb1lQSBO6rjgMDxoVi) | 3:27 | 2024-05-31 | 2024-10-26 |
 | [Blessings](https://open.spotify.com/track/1YYNCyIJG9p7QxfdEiBs7N) | [Rileyy Lanez](https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr) | [Blessings](https://open.spotify.com/album/6CJovhbfLAxjmPSj2aFROJ) | 3:01 | 2022-08-05 | 2022-08-27 |
 | [BLIND](https://open.spotify.com/track/2OmnzMLTn0mx6iXrp4VBjz) | [EJ Ross](https://open.spotify.com/artist/3yZJfp37SK7V6yHh3oAGoB), [Jay Versace](https://open.spotify.com/artist/0FBoLKOReQgeA0Oe2pcDF5) | [BLIND](https://open.spotify.com/album/5MBqQGtqtrh3Vrw1aVA4ZB) | 3:02 | 2025-04-18 |  |
@@ -1041,6 +1041,7 @@
 | [Sleepwalking](https://open.spotify.com/track/33AhUMkQqyaRGJi0U9hXxt) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Sleepwalking](https://open.spotify.com/album/0Bf1QKo9KdzPtpLY3pRPEO) | 2:42 | 2025-05-30 |  |
 | [Slide](https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Wish You Were Here](https://open.spotify.com/album/3KzXjaZ3bOVtC6RgFCkUTE) | 3:35 | 2024-03-01 | 2024-07-27 |
 | [SLO MO](https://open.spotify.com/track/3FYaHKp86M6wx5OnnqU4PO) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [FOR THE BOY IN ME](https://open.spotify.com/album/4ljESylaJog8Mc5VAWHEB3) | 4:07 | 2024-09-27 | 2024-10-19 |
+| [Slow](https://open.spotify.com/track/5i5Rt40zinWyID6QGp8gso) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Tether](https://open.spotify.com/album/3SBuk7ZuXQCJQ6IfrOPfyz) | 4:24 | 2025-06-14 |  |
 | [Slow Dancing](https://open.spotify.com/track/6F7OCdwLWwJWkNB4qCGDOr) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Kincy](https://open.spotify.com/artist/1GXcNIFheqCVINLrF8Is53) | [Slow Dancing](https://open.spotify.com/album/2mnONj1DFsjtCAFc3dJBlV) | 3:46 | 2023-03-31 | 2023-05-13 |
 | [Slow Dancing \- Remix](https://open.spotify.com/track/1n7PH7mid9qAtgrWQY8Ff9) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY), [Kincy](https://open.spotify.com/artist/1GXcNIFheqCVINLrF8Is53) | [Slow Dancing \(Remix\)](https://open.spotify.com/album/19BXqBoy3CeCMLB4d8GXU1) | 3:33 | 2023-05-12 | 2023-09-30 |
 | [Slow Down](https://open.spotify.com/track/4ZzW7vFJZXoPLNLBNSU00Y) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u), [J.O.N](https://open.spotify.com/artist/1HSwrrB82dJgvoiyK0rWjV) | [Slow Down](https://open.spotify.com/album/5knqr9yqUxsi9yaz6lxGVd) | 2:54 | 2025-04-18 |  |

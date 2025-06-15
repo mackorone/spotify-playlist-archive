@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 44095,
+  "num_followers": 44114,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2025-06-13 03:11:18",
       "album": {
+        "name": "Wrong Places",
+        "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Wrong Places",
+      "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
+    },
+    {
+      "added_at": "2025-06-13 03:11:18",
+      "album": {
         "name": "GOD DESIGN",
         "url": "https://open.spotify.com/album/0CCDzLrKHUXqYls1J7mlRp"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 215514,
       "name": "GOD DESIGN",
       "url": "https://open.spotify.com/track/4Su04rfy8UL4yDkIT6gFgG"
-    },
-    {
-      "added_at": "2025-06-13 03:11:18",
-      "album": {
-        "name": "Wrong Places",
-        "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Wrong Places",
-      "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
     },
     {
       "added_at": "2025-06-13 03:11:18",
@@ -615,22 +615,38 @@
     {
       "added_at": "2025-06-13 03:11:18",
       "album": {
-        "name": "BlownBoy RU",
-        "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
+        "name": "NUMBER ONE (feat. Minz)",
+        "url": "https://open.spotify.com/album/7qsbzgt7rxG82wr7qi0v6T"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
         },
         {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
         }
       ],
-      "duration_ms": 175200,
-      "name": "Dudu",
-      "url": "https://open.spotify.com/track/6b56cSwwp8JXDQiZ4dXkBf"
+      "duration_ms": 243744,
+      "name": "NUMBER ONE (feat. Minz)",
+      "url": "https://open.spotify.com/track/1uOd46FEiW7ritNBNgNdBK"
+    },
+    {
+      "added_at": "2025-06-13 03:11:18",
+      "album": {
+        "name": "Alhaji",
+        "url": "https://open.spotify.com/album/2x89WyCjViUviC7YjEZlxm"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 143414,
+      "name": "Alhaji",
+      "url": "https://open.spotify.com/track/1fl2s61uhH6Ob4bU6f8TMT"
     },
     {
       "added_at": "2025-06-13 03:11:18",
@@ -659,38 +675,22 @@
     {
       "added_at": "2025-06-13 03:11:18",
       "album": {
-        "name": "Alhaji",
-        "url": "https://open.spotify.com/album/2x89WyCjViUviC7YjEZlxm"
+        "name": "BlownBoy RU",
+        "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
       },
       "artists": [
         {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 143414,
-      "name": "Alhaji",
-      "url": "https://open.spotify.com/track/1fl2s61uhH6Ob4bU6f8TMT"
-    },
-    {
-      "added_at": "2025-06-13 03:11:18",
-      "album": {
-        "name": "NUMBER ONE (feat. Minz)",
-        "url": "https://open.spotify.com/album/7qsbzgt7rxG82wr7qi0v6T"
-      },
-      "artists": [
-        {
-          "name": "Himra",
-          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         },
         {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
         }
       ],
-      "duration_ms": 243744,
-      "name": "NUMBER ONE (feat. Minz)",
-      "url": "https://open.spotify.com/track/1uOd46FEiW7ritNBNgNdBK"
+      "duration_ms": 175200,
+      "name": "Dudu",
+      "url": "https://open.spotify.com/track/6b56cSwwp8JXDQiZ4dXkBf"
     },
     {
       "added_at": "2025-06-13 03:11:18",
@@ -707,22 +707,6 @@
       "duration_ms": 148672,
       "name": "FOR YOU",
       "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
-    },
-    {
-      "added_at": "2025-06-13 03:11:18",
-      "album": {
-        "name": "Arike",
-        "url": "https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 124286,
-      "name": "Arike",
-      "url": "https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb"
     },
     {
       "added_at": "2025-06-13 03:11:18",
@@ -747,6 +731,22 @@
     {
       "added_at": "2025-06-13 03:11:18",
       "album": {
+        "name": "Arike",
+        "url": "https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "duration_ms": 124286,
+      "name": "Arike",
+      "url": "https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb"
+    },
+    {
+      "added_at": "2025-06-13 03:11:18",
+      "album": {
         "name": "Sooner",
         "url": "https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q"
       },
@@ -759,22 +759,6 @@
       "duration_ms": 169811,
       "name": "Sooner",
       "url": "https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O"
-    },
-    {
-      "added_at": "2025-06-13 03:11:18",
-      "album": {
-        "name": "Darling - Focus",
-        "url": "https://open.spotify.com/album/7Ef8FXjbmBIq38AYmrdzCq"
-      },
-      "artists": [
-        {
-          "name": "Boi Chase",
-          "url": "https://open.spotify.com/artist/3oDfCf5QvkoeVhPr5ixgZb"
-        }
-      ],
-      "duration_ms": 112500,
-      "name": "Darling - Focus",
-      "url": "https://open.spotify.com/track/59klPCK4zRYws4adUXJkYg"
     },
     {
       "added_at": "2025-06-13 03:11:18",
@@ -795,6 +779,22 @@
       "duration_ms": 205238,
       "name": "Fall In Love (feat. Ayo Jay)",
       "url": "https://open.spotify.com/track/4GdnJEbOxXMJMSzdkql8X3"
+    },
+    {
+      "added_at": "2025-06-13 03:11:18",
+      "album": {
+        "name": "Darling - Focus",
+        "url": "https://open.spotify.com/album/7Ef8FXjbmBIq38AYmrdzCq"
+      },
+      "artists": [
+        {
+          "name": "Boi Chase",
+          "url": "https://open.spotify.com/artist/3oDfCf5QvkoeVhPr5ixgZb"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "Darling - Focus",
+      "url": "https://open.spotify.com/track/59klPCK4zRYws4adUXJkYg"
     },
     {
       "added_at": "2025-06-13 03:11:18",
@@ -931,6 +931,22 @@
     {
       "added_at": "2025-06-13 03:11:18",
       "album": {
+        "name": "Calculate",
+        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 180688,
+      "name": "Calculate",
+      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
+    },
+    {
+      "added_at": "2025-06-13 03:11:18",
+      "album": {
         "name": "Love & Hustle",
         "url": "https://open.spotify.com/album/1Ls0a3Dh4vKHKwL1Y3OuD7"
       },
@@ -943,26 +959,6 @@
       "duration_ms": 180612,
       "name": "Princess Treatment",
       "url": "https://open.spotify.com/track/1cKWbkAzK87PElmioUP01o"
-    },
-    {
-      "added_at": "2025-06-13 03:11:18",
-      "album": {
-        "name": "Relationship",
-        "url": "https://open.spotify.com/album/1ne39n4ZeEvoixru9RKcn8"
-      },
-      "artists": [
-        {
-          "name": "Berri-Tiga",
-          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
-        },
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Relationship",
-      "url": "https://open.spotify.com/track/4UDGX1loNNJkNOpJoyKmgT"
     },
     {
       "added_at": "2025-06-13 03:11:18",
@@ -983,18 +979,22 @@
     {
       "added_at": "2025-06-13 03:11:18",
       "album": {
-        "name": "Calculate",
-        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
+        "name": "Relationship",
+        "url": "https://open.spotify.com/album/1ne39n4ZeEvoixru9RKcn8"
       },
       "artists": [
         {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        },
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
         }
       ],
-      "duration_ms": 180688,
-      "name": "Calculate",
-      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
+      "duration_ms": 165517,
+      "name": "Relationship",
+      "url": "https://open.spotify.com/track/4UDGX1loNNJkNOpJoyKmgT"
     },
     {
       "added_at": "2025-06-13 03:11:18",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2025-06-13 03:11:18",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6DeUguXIRHGGUZYjCsq1b6"
-      },
-      "artists": [
-        {
-          "name": "Tmaro",
-          "url": "https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd"
-        },
-        {
-          "name": "Drexbeats",
-          "url": "https://open.spotify.com/artist/5Kw6tU4czzjX7sz2QYQBEu"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/68Aabutp5ZczYCmi51dPAG"
-    },
-    {
-      "added_at": "2025-06-13 03:11:18",
-      "album": {
         "name": "ROZEY",
         "url": "https://open.spotify.com/album/02boWZX3nExhtEQlXP0eA4"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 154174,
       "name": "Lockdown",
       "url": "https://open.spotify.com/track/4YjmENUNJrqYe7e8SjX11L"
+    },
+    {
+      "added_at": "2025-06-13 03:11:18",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6DeUguXIRHGGUZYjCsq1b6"
+      },
+      "artists": [
+        {
+          "name": "Tmaro",
+          "url": "https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd"
+        },
+        {
+          "name": "Drexbeats",
+          "url": "https://open.spotify.com/artist/5Kw6tU4czzjX7sz2QYQBEu"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/68Aabutp5ZczYCmi51dPAG"
     },
     {
       "added_at": "2025-06-13 03:11:18",

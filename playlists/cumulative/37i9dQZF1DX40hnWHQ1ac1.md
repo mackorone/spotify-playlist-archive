@@ -4,7 +4,7 @@
 
 > Enjoy the LIVE SET including the voices of them on stage! \(아티스트의 무대 멘트와 목소리가 포함된 콘서트 LIVE SET을 즐겨보세요!\)
 
-52 songs - 2 hr 41 min
+54 songs - 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [i wonder..\. \(with Jung Kook of BTS\)](https://open.spotify.com/track/3ajU531gR5fW71wqsw4tFX) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 2:43 | 2025-02-21 |  |
 | [Intro](https://open.spotify.com/track/0M7ai1yfYyb4OlyRgdmtTK) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 0:58 | 2025-02-21 | 2025-03-13 |
 | [Intro: Boy Meets Evil](https://open.spotify.com/track/1hlT8F0X27uf3fpOWawjbY) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 2:01 | 2025-02-21 | 2025-03-13 |
+| [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs) | 2:28 | 2025-06-14 |  |
 | [lock / unlock \(with benny blanco & Nile Rodgers\)](https://open.spotify.com/track/3aKXtIPNRoD73KLpsNnNoK) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:01 | 2025-02-21 |  |
 | [MAMA](https://open.spotify.com/track/51hIGgLnT8s6gEzjVqKlEF) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:32 | 2025-02-21 | 2025-03-13 |
 | [message from j\-hope 1](https://open.spotify.com/track/3cPPHC8D5RazZyDxCqACvt) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [j\-hope Tour HOPE ON THE STAGE](https://open.spotify.com/album/6JohtyCVRVua7StzpjqYWB) | 5:27 | 2025-03-12 |  |
@@ -36,6 +37,7 @@
 | [message from j\-hope 4](https://open.spotify.com/track/5hD6VGZn6Ez7eLhngrwx3P) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [j\-hope Tour HOPE ON THE STAGE](https://open.spotify.com/album/6JohtyCVRVua7StzpjqYWB) | 7:49 | 2025-03-12 |  |
 | [message from j\-hope 5](https://open.spotify.com/track/7FHoj8UQYH5RPzG9bBuqqH) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [j\-hope Tour HOPE ON THE STAGE](https://open.spotify.com/album/6JohtyCVRVua7StzpjqYWB) | 2:31 | 2025-03-12 |  |
 | [MIC Drop](https://open.spotify.com/track/6W8aFnrJGXUdPUoOcyrBho) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 承 'Her'](https://open.spotify.com/album/1OvAmvGLH3ngDeXktemYMx) | 3:58 | 2025-03-12 |  |
+| [MONA LISA](https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA](https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa) | 2:17 | 2025-06-14 |  |
 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2025-02-21 |  |
 | [Music Box : Reflection](https://open.spotify.com/track/0PJSXtjkdTjJzZAMyNus02) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 1:10 | 2025-02-21 | 2025-03-13 |
 | [NEURON \(with Gaeko & YOON MIRAE\)](https://open.spotify.com/track/11sirgYaEutV40tkvgpHN6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 4:33 | 2025-02-21 |  |
@@ -47,7 +49,7 @@
 | [Pandora's Box](https://open.spotify.com/track/2On611HXKQAbaYkuc4NQAm) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:36 | 2025-02-21 | 2025-03-13 |
 | [Pandora's Box](https://open.spotify.com/track/5OcucU4xdFb8nhoSS7Gj8f) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/1nxYO76Fk538Q1BmgsHp9k) | 2:36 | 2025-03-12 |  |
 | [Rush Hour \(Feat\. j\-hope of BTS\)](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Rush Hour](https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R) | 2:57 | 2025-02-21 | 2025-03-13 |
-| [Safety Zone](https://open.spotify.com/track/00I41xsW6SunZDJ5fB8KAd) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:45 | 2025-02-21 | 2025-03-13 |
+| [Safety Zone](https://open.spotify.com/track/00I41xsW6SunZDJ5fB8KAd) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:45 | 2025-02-21 |  |
 | [STOP](https://open.spotify.com/track/1XIIvx9S19CZVc7eow7EX7) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:02 | 2025-02-21 | 2025-03-13 |
 | [STOP \(Lollapalooza ver.\)](https://open.spotify.com/track/5m5te1JAMYvJmEa5XnGTWi) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box \(HOPE Edition\)](https://open.spotify.com/album/3XuUxVKw2mDLSIkZNYoaa6) | 2:15 | 2025-02-21 | 2025-03-13 |
 | [STOP \(세상에 나쁜 사람은 없다\)](https://open.spotify.com/track/6oh1ZPr1XSVoRq7F2zyDGv) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/1nxYO76Fk538Q1BmgsHp9k) | 2:02 | 2025-03-12 |  |

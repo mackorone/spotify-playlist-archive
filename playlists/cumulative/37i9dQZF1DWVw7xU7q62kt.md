@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-546 songs - 1 day 0 hr 51 min
+547 songs - 1 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Cortado](https://open.spotify.com/track/4vGjoOyEmmbPovNCjoF8eQ) | [beyond pluto](https://open.spotify.com/artist/6WShzu0391mQ6M2hJEwm49), [Beats alFredo](https://open.spotify.com/artist/1ECmTGh1rg6O4c57Phnsbr), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Cortado](https://open.spotify.com/album/2gsjSva38akWVkOHy1gB7C) | 2:22 | 2024-08-23 | 2025-05-17 |
 | [CPH](https://open.spotify.com/track/1p7OcSfDwx3kr4m4E23UPB) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [CPH](https://open.spotify.com/album/6HdAgTAOjWIZXSoWmVtG3T) | 2:05 | 2025-03-28 | 2025-05-24 |
 | [Croydon Smash](https://open.spotify.com/track/3ArFJR37rzbtmyqypgQN0m) | [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [James Maddren](https://open.spotify.com/artist/6ke4GTfhO9er0IPiwHW1Zw), [ENEMY](https://open.spotify.com/artist/4bl36sH2M86WGlzhX4TqaC) | [The Betrayal](https://open.spotify.com/album/77UysfbnlDD2AIoeFABimZ) | 1:57 | 2023-10-13 | 2024-09-14 |
+| [Cruising](https://open.spotify.com/track/11bQjIYHyRsmnYLb7VvfHZ) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r), [SMTHNGOOD](https://open.spotify.com/artist/6UwT4pDjGSlegunFtmCPcf) | [Cruising](https://open.spotify.com/album/7hHG6zYh72UExmjlXmVAHr) | 2:16 | 2025-06-13 |  |
 | [Cruize](https://open.spotify.com/track/00z49c0uNlNKolUw3ydft4) | [Neo.](https://open.spotify.com/artist/3Zymx551K3z6vUXnF5coV9) | [Cruize](https://open.spotify.com/album/2bew9784OB2atUJHZEfEZr) | 2:40 | 2023-08-22 | 2024-04-19 |
 | [Cruize](https://open.spotify.com/track/10Ijt9xLWRgYFdaTVRXSxR) | [Neo.](https://open.spotify.com/artist/3Zymx551K3z6vUXnF5coV9) | [Cruize](https://open.spotify.com/album/3bLAV4r4Gye5irDLho7p5y) | 2:40 | 2024-03-20 | 2024-08-25 |
 | [Cry Me A River](https://open.spotify.com/track/6mope13IMtg7yLe38WjZ0r) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0), [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Cry Me A River](https://open.spotify.com/album/4LTIT8vZ481M7BHqomt5Z4) | 2:31 | 2024-12-13 |  |
@@ -127,7 +128,7 @@
 | [Dripping Water](https://open.spotify.com/track/6SqPw9UGVTboNGLis5aj6J) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Dripping Water](https://open.spotify.com/album/5pTceUjUFCkkLPTLcQE50d) | 1:49 | 2025-04-18 | 2025-04-29 |
 | [Dunt Dunt](https://open.spotify.com/track/4DbTun4ivORsEpwLJ877qw) | [Graeme Gengras](https://open.spotify.com/artist/2Czbu25dJ8diFJ2ahMgcCq) | [Dunt Dunt](https://open.spotify.com/album/0d44FiJn8kD8I5rS87GCEp) | 4:29 | 2023-08-22 | 2024-09-09 |
 | [Dusk till Dawn](https://open.spotify.com/track/1kb6efbzTHHoatxufVUnaP) | [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn), [sig.beats](https://open.spotify.com/artist/2tulXMyNgLmiG9TG6F6tE9) | [Dusk till Dawn](https://open.spotify.com/album/1DAzJOHzTDBgEdj4Qepuwu) | 1:57 | 2025-04-11 |  |
-| [dust to dust](https://open.spotify.com/track/1OCJ2bc1RpuJJQMS2fHXkh) | [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin) | [dust to dust](https://open.spotify.com/album/676MUluvyjocKsfJNeD47g) | 1:56 | 2024-11-08 |  |
+| [dust to dust](https://open.spotify.com/track/1OCJ2bc1RpuJJQMS2fHXkh) | [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin) | [dust to dust](https://open.spotify.com/album/676MUluvyjocKsfJNeD47g) | 1:56 | 2024-11-08 | 2025-06-15 |
 | [Dusty](https://open.spotify.com/track/6mNXITyQm2fVWL0zc08YYD) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Dusty](https://open.spotify.com/album/5AuHEai8Ic7ZjJKCJDYVj9) | 3:11 | 2024-02-16 | 2025-05-17 |
 | [Déjà vu](https://open.spotify.com/track/0KJZkIvbHYRmZhP6NGsP6n) | [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Chameleon](https://open.spotify.com/album/2INZD6kTNVO54IqhcMHvIt) | 2:28 | 2025-04-18 |  |
 | [earthly things](https://open.spotify.com/track/7GZhgahlOC3GgZiTnQOHOL) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 5:04 | 2023-08-22 | 2023-09-22 |

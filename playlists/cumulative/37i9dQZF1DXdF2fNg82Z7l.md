@@ -2,9 +2,9 @@
 
 ### [Raw Silk ](https://open.spotify.com/playlist/37i9dQZF1DXdF2fNg82Z7l)
 
-> a strictly smooth mood...cover: Kehlani
+> a strictly smooth mood...cover:
 
-244 songs - 12 hr 50 min
+245 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Fires](https://open.spotify.com/track/7tuplUZWycOudn832iuQk3) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Fires](https://open.spotify.com/album/5Bcp5nraUtNgfvinzOwV0A) | 2:04 | 2024-07-29 | 2024-10-05 |
 | [Floating Parade](https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Floating Parade](https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED) | 3:49 | 2024-10-04 | 2024-12-26 |
 | [focus](https://open.spotify.com/track/0N6XGvW9Uc21VrmNF8lrvy) | [TELLER](https://open.spotify.com/artist/1BuBTzAIH0jzMOAFXGnMwA) | [focus](https://open.spotify.com/album/6wEthOm9iht4rMqs0oGnSW) | 3:05 | 2024-03-14 | 2024-10-05 |
+| [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 | 2025-06-15 |  |
 | [Forever & Again \(From Barbie The Album\)](https://open.spotify.com/track/6Ky8ROf2VWY5vwoGfMet7x) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Forever & Again \(From Barbie The Album\)](https://open.spotify.com/album/0PHUzNM9vbkW3EMUiKOxo7) | 2:19 | 2024-03-14 | 2024-10-05 |
 | [fuck, marry, kill](https://open.spotify.com/track/6Y5y54rLwNr54ohaVnrouY) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [fuck, marry, kill](https://open.spotify.com/album/7G4MDz3HzywU2oR24VBtHY) | 3:25 | 2025-04-29 | 2025-05-02 |
 | [Gen Z Luv](https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Gen Z Luv](https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI) | 2:33 | 2024-07-29 |  |
@@ -176,7 +177,7 @@
 | [Rolling Stone](https://open.spotify.com/track/4fzlbYTl8CWMigIqsd5gI6) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Rolling Stone](https://open.spotify.com/album/4HqdElx5myiCasQwHkh82T) | 1:56 | 2025-02-13 |  |
 | [Rome](https://open.spotify.com/track/3rhSiVVcD04GFBW0k6gkQC) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Rome](https://open.spotify.com/album/1U04RT9MW5HAD1R43qjBkR) | 2:28 | 2024-03-14 | 2024-10-05 |
 | [run & hide](https://open.spotify.com/track/6n1m6WaQYfXpiT4XHw31wo) | [Citizen Kay](https://open.spotify.com/artist/5Lk4v9lO1NoZATNftqFznj), [Keo](https://open.spotify.com/artist/4y8VK3yTqoXo5VJSrsv8TE) | [so, where are we?](https://open.spotify.com/album/19iVe4JbdgMsv6CXyD5M8o) | 3:23 | 2024-03-14 | 2024-10-05 |
-| [Run To The Sun](https://open.spotify.com/track/4Bjwyj8KM85xblkSt5A24j) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 4:51 | 2025-03-19 |  |
+| [Run To The Sun](https://open.spotify.com/track/4Bjwyj8KM85xblkSt5A24j) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 4:51 | 2025-03-19 | 2025-06-15 |
 | [Rush](https://open.spotify.com/track/5LJTKJyiy61luvtr0W6FAR) | [Brooke x Starce](https://open.spotify.com/artist/1Td0BYkjml67dZzC42d6wC) | [Rush](https://open.spotify.com/album/0JkE6IDWo8ppEei6A9djnj) | 2:36 | 2025-02-13 | 2025-03-19 |
 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC) | 3:24 | 2024-10-04 |  |
 | [Said It Freestyle](https://open.spotify.com/track/7BoCBEhYkyVHIsehWRvyM3) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Said It Freestyle](https://open.spotify.com/album/4QS4ozuXb01Z1hCEWZBaGQ) | 2:35 | 2024-03-14 | 2024-10-05 |

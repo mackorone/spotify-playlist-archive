@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Celebrating 10 years of the best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Olivia Ridgely, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,915 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,926 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 10 | [It Ain't Me](https://open.spotify.com/track/0mY7rgI1M45Sy0kM5sijmy) | [Emmett Jerome](https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN) | [It Ain't Me](https://open.spotify.com/album/5TLFFo2dA6ItVEz7wDmkKa) | 3:59 |
 | 11 | [This One's For Me](https://open.spotify.com/track/3wMJXZsHdcRRW5GuM0k4Rp) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [This One's For Me](https://open.spotify.com/album/4pWkaZGyFyeWLH1OGHmcj1) | 3:46 |
 | 12 | [Issues](https://open.spotify.com/track/0lWZk9KrUPf9TV9E1mnuy2) | [Danielle Ryan](https://open.spotify.com/artist/7lyU0zKn0p7RDoXFoL7opK) | [Issues](https://open.spotify.com/album/0pxs1IYZuNx6olT6kyP6vj) | 2:21 |
-| 13 | [Eye Of The Storm](https://open.spotify.com/track/3vpiDhjAVVZP9UmwVQEF6F) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Eye Of The Storm](https://open.spotify.com/album/0iHU8j6P0PAUUVadF52a1k) | 4:50 |
+| 13 | [Eye of the Storm](https://open.spotify.com/track/3vpiDhjAVVZP9UmwVQEF6F) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Eye of the Storm](https://open.spotify.com/album/0iHU8j6P0PAUUVadF52a1k) | 4:50 |
 | 14 | [Take Me Back](https://open.spotify.com/track/6ZKcQtlelP7A00qsWKy7JG) | [Late Night City](https://open.spotify.com/artist/74QpvPZRObKaSISsNef5J9), [G.B](https://open.spotify.com/artist/1jZcZh3QSylLn1Xz30E0x5), [Dori](https://open.spotify.com/artist/1gVBH27VxmZb171mcTaxaU) | [Take Me Back](https://open.spotify.com/album/31rsSqVte2MtLawmw5X3nk) | 3:02 |
 | 15 | [Some Fires](https://open.spotify.com/track/318D19yI7FGJpz1qIYPIdt) | [Blue Ridge Band](https://open.spotify.com/artist/2yE8COtZJKf4SgSNz3wW6u), [Trudy](https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS) | [Some Fires](https://open.spotify.com/album/4Y6W9jecZrfC5Rst1wL73L) | 3:57 |
 | 16 | [HBD](https://open.spotify.com/track/4pm4HsOqJFTvOSv5rhiNMD) | [ABBI WOODS](https://open.spotify.com/artist/44GFA4EspGPaCQo4VqLzTR) | [HBD](https://open.spotify.com/album/3DJwTnVsgiGRK4nCHGEuIz) | 2:27 |

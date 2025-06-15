@@ -4,13 +4,14 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrbW1sT98VZ2r7qMHy94q">ZEG P</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-82 songs - 4 hr 17 min
+83 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1992](https://open.spotify.com/track/0Hzgsewk4Rikq44haxwfTO) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 3:52 | 2024-06-07 |  |
 | [2014](https://open.spotify.com/track/7eIAX5Kkm0N3aQCAEa9QsV) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 2:57 | 2024-06-07 |  |
 | [A deux](https://open.spotify.com/track/2GGKEPBEKh4MclL7UOBAN5) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Glow Up](https://open.spotify.com/album/5lxGXboLgqONmIT50uLRO9) | 2:25 | 2024-06-07 |  |
+| [A QUOI TU JOUES](https://open.spotify.com/track/2fAymB6lhuXEQOhIrJZERU) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [MEC DE CITÉ SIMPLE](https://open.spotify.com/album/1VF9TOozMuDyuFU5maRA6M) | 3:03 | 2025-06-14 |  |
 | [A toi](https://open.spotify.com/track/6gCtEY1GPfxR6KVctYZT10) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Love Therapy](https://open.spotify.com/album/0DiFDp3MRVxcECcJFPWXU3) | 3:19 | 2024-06-07 |  |
 | [Adios](https://open.spotify.com/track/4z8pJ74Yw4B4G3SToTzCKL) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 3:02 | 2024-06-07 |  |
 | [AMF \- NOUVELLE ÉCOLE](https://open.spotify.com/track/21OiWAHVk1rIjDMzlWpdSS) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [LE SOLEIL NE S'ÉTEINT JAMAIS](https://open.spotify.com/album/3NUhwHq408l2Vm5quZyp06) | 3:00 | 2024-06-07 |  |

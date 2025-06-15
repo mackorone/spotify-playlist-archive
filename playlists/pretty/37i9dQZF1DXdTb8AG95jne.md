@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 안다영\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,856 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,950 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 23 | [Wonder](https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO) | 3:55 |
 | 24 | [Winter](https://open.spotify.com/track/3tqUaq6JjHcN34WZb70FyY) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Nonadaptation](https://open.spotify.com/album/6BS3zt0gQalEc1R6hVuFP6) | 3:52 |
 | 25 | [Sleepless in Seoul \(feat\. LEE SUHYUN\)](https://open.spotify.com/track/3OrmrZSVQJ8Kt017K51aF2) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(feat\. LEE SUHYUN\)](https://open.spotify.com/album/1aEMUc73KsSG53ysHl8x9f) | 4:17 |
-| 26 | [Let Me Love My Youth](https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Let Me Love My Youth](https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ) | 4:08 |
-| 27 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 |
+| 26 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 |
+| 27 | [Let Me Love My Youth](https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Let Me Love My Youth](https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ) | 4:08 |
 | 28 | [Hollywood](https://open.spotify.com/track/3XPD2voMhtskeDqtClsbaU) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Hollywood](https://open.spotify.com/album/0MY78gb6h0RWwO43g921z0) | 5:31 |
 | 29 | [MIMI](https://open.spotify.com/track/4RfVtka58I93lEnPsLlBEZ) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [GAUSSIAN](https://open.spotify.com/album/3fW9gKjP50cSIocjBT7qR0) | 3:27 |
 | 30 | [I Know Where The Rainbow has Fallen](https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [The Land of Fantasy](https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE) | 3:42 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 42 | [One](https://open.spotify.com/track/420CEW5diE4ulkdbUxtg2w) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [One](https://open.spotify.com/album/6JfMCmlRcKbd07cj3GDPEG) | 2:48 |
 | 43 | [Rawww](https://open.spotify.com/track/0d6PXcdf0OTlfF16uQ7fh6) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/46EtrYe0U9yYOKCOYD1zAi) | 2:40 |
 | 44 | [Fallin'](https://open.spotify.com/track/0TsPyXbNXGbCpbqy9MhvZ4) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [Fallin'](https://open.spotify.com/album/3SViR3CSpovgvtg4BAx4s8) | 3:16 |
-| 45 | [H O M E](https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:51 |
-| 46 | [CORPUS 0](https://open.spotify.com/track/0boGx65PACZNyIq7mv7trr) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [CORPUS 0](https://open.spotify.com/album/4NcOWtOHeayLunvnHBdQKx) | 4:50 |
-| 47 | [Thought of You](https://open.spotify.com/track/4As6SLkweWhpNGIA66b891) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [Thought of You](https://open.spotify.com/album/6wArEED6fUTnMHkrOoxaPK) | 3:33 |
+| 45 | [CORPUS 0](https://open.spotify.com/track/0boGx65PACZNyIq7mv7trr) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [CORPUS 0](https://open.spotify.com/album/4NcOWtOHeayLunvnHBdQKx) | 4:50 |
+| 46 | [H O M E](https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:51 |
+| 47 | [Blood \(feat\. Akane Lize\)](https://open.spotify.com/track/5Svxqesi1CTPCfUiMeRb7f) | [Miiro](https://open.spotify.com/artist/4CadaJC2t5tnQg06HlXVnP), [Akane Lize](https://open.spotify.com/artist/3lgpOwvhfE07WXOW6BTmmK) | [Blood \(feat\. Akane Lize\)](https://open.spotify.com/album/2KPXtbLys8I96RGCkrgE7i) | 4:27 |
 | 48 | [3108](https://open.spotify.com/track/4Pty5kAaFSjQk2a5cLLpqK) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [3108](https://open.spotify.com/album/4km6abn4iGxsbDnxuvFMrw) | 2:58 |
 | 49 | [In the Bed](https://open.spotify.com/track/5naUy3DInK9w6phVgZKoKk) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [In the Bed](https://open.spotify.com/album/6UCGxZpwzt7SYipIRa0CCo) | 4:25 |
-| 50 | [Blood \(feat\. Akane Lize\)](https://open.spotify.com/track/5Svxqesi1CTPCfUiMeRb7f) | [Miiro](https://open.spotify.com/artist/4CadaJC2t5tnQg06HlXVnP), [Akane Lize](https://open.spotify.com/artist/3lgpOwvhfE07WXOW6BTmmK) | [Blood \(feat\. Akane Lize\)](https://open.spotify.com/album/2KPXtbLys8I96RGCkrgE7i) | 4:27 |
+| 50 | [Thought of You](https://open.spotify.com/track/4As6SLkweWhpNGIA66b891) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [Thought of You](https://open.spotify.com/album/6wArEED6fUTnMHkrOoxaPK) | 3:33 |
 
 Snapshot ID: `aEvt2QAAAAADoUOlfVG9gfyNQCns1uOh`

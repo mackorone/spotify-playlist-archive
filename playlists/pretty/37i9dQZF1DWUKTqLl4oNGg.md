@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKTqLl4oNGg.md) - [plain]
 
 > A few of the influential songs that echoed from the hills of Laurel Canyon in the 60s & 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,157 likes - 53 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,212 likes - 53 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKTqLl4oNGg.md) - [plain]
 | 52 | [Sweet Baby James](https://open.spotify.com/track/47cdhtxTfp7WvUbDpDeYa2) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 2:51 |
 | 53 | [Desperados Under the Eaves](https://open.spotify.com/track/6PAGJfVrbxdIhIJmbsDLim) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [Warren Zevon](https://open.spotify.com/album/5wY8fZoi9eFh3WMjLcHFps) | 4:47 |
 
-Snapshot ID: `ZohPoQAAAABp9GaakDXuIRjvdJRKb4Ay`
+Snapshot ID: `ZohPoQAAAABkb9BCVeR4t3OTrO1ok+Z5`

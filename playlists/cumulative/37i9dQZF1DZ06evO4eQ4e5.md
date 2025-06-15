@@ -4,7 +4,7 @@
 
 > This is Edith Márquez\. The essential tracks, all in one playlist.
 
-66 songs - 4 hr 0 min
+67 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Llamarada](https://open.spotify.com/track/6qYWKAPbT2HLYEZ4UQDy3r) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 3:17 | 2023-12-18 | 2024-11-16 |
 | [Llamarada \(feat\. Edith Márquez\) \- En Vivo](https://open.spotify.com/track/6O64gFs1N5A4kkpdxpdHT2) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Celebrando a una Leyenda \(En Vivo\)](https://open.spotify.com/album/2G5k2DVNBs6pUnMUIPn76h) | 3:40 | 2023-12-18 |  |
 | [Me Gustas Mucho](https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Me Gustas Mucho](https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5) | 2:57 | 2025-02-23 |  |
+| [Me Nace Del Corazón](https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Me Nace Del Corazón](https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr) | 2:44 | 2025-06-15 |  |
 | [Mi Ciudad](https://open.spotify.com/track/0d9fwpIG5o356RkkqEwLOu) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Mi Ciudad](https://open.spotify.com/album/15Yk0xqTaQ6wI5DX2xpRn3) | 3:35 | 2023-12-31 | 2024-01-12 |
 | [Mi error, mi fantasía](https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a ti](https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk) | 3:48 | 2023-12-18 |  |
 | [Mi nombre](https://open.spotify.com/track/6OE87tPl4AIuvRlrtuwrea) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Extravíate](https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb) | 4:22 | 2023-12-18 |  |
@@ -64,7 +65,7 @@
 | [Sin Ti \(feat\. Edith Márquez\)](https://open.spotify.com/track/7dAa9LiVslrY0BNp1Yb4Hy) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Triología](https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL) | 3:02 | 2023-12-18 |  |
 | [Sin Él](https://open.spotify.com/track/7bdiuUevmV6VOoQl9A2CnU) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 3:34 | 2023-12-18 |  |
 | [Soñé Que Te Perdía](https://open.spotify.com/track/0I85ztkPq0B9qgGdLWtGy3) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Duele](https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ) | 3:43 | 2023-12-18 |  |
-| [Tengo todo excepto a ti](https://open.spotify.com/track/5qJbSTfXbnkzXnoFPNGCXG) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Las Mejores Baladas del Pop](https://open.spotify.com/album/7ypiEzpdXi5pktXBFnHUe0) | 4:18 | 2023-12-18 |  |
+| [Tengo todo excepto a ti](https://open.spotify.com/track/5qJbSTfXbnkzXnoFPNGCXG) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Las Mejores Baladas del Pop](https://open.spotify.com/album/7ypiEzpdXi5pktXBFnHUe0) | 4:18 | 2023-12-18 | 2025-06-15 |
 | [Todavía](https://open.spotify.com/track/6qhCzLPi0m17BpotgfSE2k) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 3:46 | 2024-11-16 |  |
 | [Tómame o déjame](https://open.spotify.com/track/247rGPlCUNTBTZ2dTNOL1a) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Exitos del corazón \(USA\)](https://open.spotify.com/album/6hixQLHfR41yzRQBCCdvNK) | 3:20 | 2023-12-18 |  |
 | [Tú Me Obligaste](https://open.spotify.com/track/2U5AymDbKKdUncaaGGi3Jt) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Contigo](https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X) | 2:59 | 2023-12-18 |  |

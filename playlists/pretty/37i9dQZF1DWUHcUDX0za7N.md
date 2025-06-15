@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Ladipoe
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,466 likes - 70 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,506 likes - 70 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 34 | [Look To You \(feat\. Llona\)](https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:00 |
 | 35 | [Birkin Baby](https://open.spotify.com/track/2v6IlFqm8pAa2s6Sqhib5u) | [Skinny Skater](https://open.spotify.com/artist/1GS3dN5V15qDZV5Qqi9Bm1) | [Birkin Baby](https://open.spotify.com/album/13M1N2mOP9KSLSCUOM4PyU) | 2:30 |
 | 36 | [Laho](https://open.spotify.com/track/37nExiid2iQtQzCJfUzohy) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Laho](https://open.spotify.com/album/5HelT4HN12za8jJhvi6azJ) | 2:24 |
-| 37 | [Amen](https://open.spotify.com/track/2dRFCprhcvQiGXSEqQ0ezN) | [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [Amen](https://open.spotify.com/album/4kooYg4oSlwBn24L37DVKJ) | 2:52 |
-| 38 | [Fire](https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Hat\-Trick](https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo) | 2:17 |
+| 37 | [Fire](https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Hat\-Trick](https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo) | 2:17 |
+| 38 | [Amen](https://open.spotify.com/track/2dRFCprhcvQiGXSEqQ0ezN) | [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [Amen](https://open.spotify.com/album/4kooYg4oSlwBn24L37DVKJ) | 2:52 |
 | 39 | [Conse \(feat\. Fatboy E & Smada\)](https://open.spotify.com/track/4ZQwSPLWF7usbRnYhWX8uV) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [May D](https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5), [Fatboy E](https://open.spotify.com/artist/7oQ6PiDrtScurCpBvMtf5b), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [Conse \(feat\. Fatboy E & Smada\)](https://open.spotify.com/album/4fzr9IqJLOds3VGTlFJdUC) | 2:49 |
 | 40 | [flavor.](https://open.spotify.com/track/3q51YwUa160xFufWZuPM78) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [Xistence.](https://open.spotify.com/album/36cl6vYPoDH3k2dtTsuBL5) | 1:38 |
-| 41 | [Space](https://open.spotify.com/track/00qWmyg2cpJuP7nLDBTdqN) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Space](https://open.spotify.com/album/2mJtN5UazYAF27M68FOjZN) | 3:06 |
-| 42 | [Compose](https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Compose](https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV) | 2:24 |
+| 41 | [Compose](https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Compose](https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV) | 2:24 |
+| 42 | [Space](https://open.spotify.com/track/00qWmyg2cpJuP7nLDBTdqN) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Space](https://open.spotify.com/album/2mJtN5UazYAF27M68FOjZN) | 3:06 |
 | 43 | [Hello Habibi](https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:16 |
 | 44 | [Alade Ade](https://open.spotify.com/track/5bh0oljgOyl3rN8ErhqKvx) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Alade Ade](https://open.spotify.com/album/7nd9lBSL5F2pKV583BDh1r) | 2:42 |
 | 45 | [THERAPY SESSION](https://open.spotify.com/track/6V25a6msBFeOLjIynVhWgx) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [G.O.A.T](https://open.spotify.com/album/6vNtI8WqFszCyAQhGlShtF) | 2:43 |

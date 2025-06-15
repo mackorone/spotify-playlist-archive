@@ -4,7 +4,7 @@
 
 > This is Dominic Fike\. The essential tracks, all in one playlist.
 
-44 songs - 1 hr 44 min
+45 songs - 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Elliot's Song \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Elliot's Song \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8) | 2:30 | 2023-12-18 |  |
 | [Falling Asleep](https://open.spotify.com/track/4Q09JEsHAZhHOIPTqDGeB2) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:48 | 2023-12-18 |  |
 | [Frisky](https://open.spotify.com/track/3my33XXLpYUzVEeLOyftV2) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 1:55 | 2023-12-18 |  |
+| [Geezer](https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Geezer](https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO) | 2:49 | 2025-06-15 |  |
 | [Hey Blondie](https://open.spotify.com/track/0hABacr1yTSleOlPKpIWBb) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 2:21 | 2023-12-18 |  |
 | [hi grace](https://open.spotify.com/track/0zikWa6k06uycAkRB8CsXA) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 2:41 | 2024-05-05 |  |
 | [How Much Is Weed?](https://open.spotify.com/track/44KWbTVZev3SWdv1t5UoYE) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:05 | 2023-12-18 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 68987,
+  "num_followers": 68993,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAAVjG4zk2pzvbqt6G9bM5jR",
+  "snapshot_id": "aEtqAAAAAABYMe/QrH16V+YUDlZUYgWL",
   "tracks": [
     {
       "added_at": null,
@@ -395,6 +395,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 231765,
+      "name": "VUD\u00da",
+      "url": "https://open.spotify.com/track/24YLHalbl2ePQbEXiKqKcP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sauce Boyz",
         "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
       },
@@ -419,30 +443,6 @@
       "duration_ms": 315862,
       "name": "Mi Error - Remix",
       "url": "https://open.spotify.com/track/5IjOqh4XLyjHINuOGolmAt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Ni\u00f1o",
-        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 231765,
-      "name": "VUD\u00da",
-      "url": "https://open.spotify.com/track/24YLHalbl2ePQbEXiKqKcP"
     },
     {
       "added_at": null,
@@ -631,30 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Condado",
-        "url": "https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 232813,
-      "name": "Condado",
-      "url": "https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prendemos",
         "url": "https://open.spotify.com/album/1X0vimVNeLVhLzIkLUxyWf"
       },
@@ -675,6 +651,30 @@
       "duration_ms": 217733,
       "name": "Prendemos",
       "url": "https://open.spotify.com/track/3YLbntjcsRoButdoVta3rq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Condado",
+        "url": "https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 232813,
+      "name": "Condado",
+      "url": "https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh"
     },
     {
       "added_at": null,
@@ -859,6 +859,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00c9pico",
+        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 190951,
+      "name": "Amigos Na' Mas",
+      "url": "https://open.spotify.com/track/1zuMoycNBmpN4p6X8sJeh5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Toque Mi Naik",
         "url": "https://open.spotify.com/album/2hdIFvSU7heSbsco9Mssbu"
       },
@@ -903,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9pico",
-        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 190951,
-      "name": "Amigos Na' Mas",
-      "url": "https://open.spotify.com/track/1zuMoycNBmpN4p6X8sJeh5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bandida",
         "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
       },
@@ -935,6 +935,26 @@
       "duration_ms": 174186,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9pico",
+        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 229955,
+      "name": "Mi Favorita",
+      "url": "https://open.spotify.com/track/439FqaiIK6wg9eIzm4HPgL"
     },
     {
       "added_at": null,
@@ -971,26 +991,6 @@
       "duration_ms": 138260,
       "name": "Gym",
       "url": "https://open.spotify.com/track/7kVBOWAEm4YG9I0GRxbxxg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c9pico",
-        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 229955,
-      "name": "Mi Favorita",
-      "url": "https://open.spotify.com/track/439FqaiIK6wg9eIzm4HPgL"
     },
     {
       "added_at": null,

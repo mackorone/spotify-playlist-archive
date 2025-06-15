@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[wyattzaboschuk](https://open.spotify.com/user/skillstreet) - 3 likes - 854 songs - 1 day 19 hr 36 min
+[wyattzaboschuk](https://open.spotify.com/user/skillstreet) - 3 likes - 853 songs - 1 day 19 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -858,9 +858,8 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 848 | [90mph](https://open.spotify.com/track/6uT2TsDrCrXue7ROEfNeGN) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq), [Sillage](https://open.spotify.com/artist/5tQCbzDeBy8NlI90GKQdf6) | [90mph](https://open.spotify.com/album/4rr80Csg3Qs10yRSDGuail) | 2:27 |
 | 849 | [Indecisive \- Is It A Crime](https://open.spotify.com/track/1f4NJhdLUzvAo13K7XTsh6) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Indecisive \(Is It A Crime\)](https://open.spotify.com/album/2F20qsTyxv3SqUsRghi2Bk) | 2:22 |
 | 850 | [LVL](https://open.spotify.com/track/787rCZF9i4L1cXGMkdyIk4) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J) | 3:40 |
-| 851 | [VALENTINO](https://open.spotify.com/track/6piAUJJQFD8oHDUr0b7l7q) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [DROPPED OUTTA COLLEGE](https://open.spotify.com/album/2eLpj5EDUhyAoTks8sxcKR) | 2:59 |
-| 852 | [Can't Have Everything](https://open.spotify.com/track/5f5r2N4Lp9WoULWPH9zp2W) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:48 |
-| 853 | [Won't Stop](https://open.spotify.com/track/4ugKUZExbqbkKXEmbTrTRW) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Won't Stop](https://open.spotify.com/album/1TRulQDa3GYTurukQ91HGB) | 3:01 |
-| 854 | [](https://open.spotify.com/track/6BJRGULyx1DbFJLBj3fbx3) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [DONDA 2](https://open.spotify.com/album/1ZkGNUz1un0b3Z7EsJl3ci) | 0:00 |
+| 851 | [Can't Have Everything](https://open.spotify.com/track/5f5r2N4Lp9WoULWPH9zp2W) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:48 |
+| 852 | [Won't Stop](https://open.spotify.com/track/4ugKUZExbqbkKXEmbTrTRW) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Won't Stop](https://open.spotify.com/album/1TRulQDa3GYTurukQ91HGB) | 3:01 |
+| 853 | [](https://open.spotify.com/track/6BJRGULyx1DbFJLBj3fbx3) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [DONDA 2](https://open.spotify.com/album/1ZkGNUz1un0b3Z7EsJl3ci) | 0:00 |
 
-Snapshot ID: `AAAEFxaZ0Tk+mH6WuizWN+NodCkzyqYD`
+Snapshot ID: `AAAEGAvTioFm2BNazGJy+xEXILrTk4zc`

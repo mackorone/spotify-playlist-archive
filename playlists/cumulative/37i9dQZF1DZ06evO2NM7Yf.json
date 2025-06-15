@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Girls Just Wanna Be Famous",
+        "url": "https://open.spotify.com/album/3dTj9QX5l2YQl1qbyxnnZt"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161060,
+      "name": "Girls Just Wanna Be Famous",
+      "url": "https://open.spotify.com/track/6K57TO1Y8uSQWNYdOXmSRE"
+    },
+    {
+      "album": {
         "name": "guitar center",
         "url": "https://open.spotify.com/album/1efqw25N4FvdLgJ2mduAz0"
       },

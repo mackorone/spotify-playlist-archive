@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 494970,
+  "num_followers": 495163,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "All I Have to Do Is Dream",
+      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "I'll Cry If I Want To",
         "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
       },
@@ -331,18 +347,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+        "name": "Shut Down, Vol. 2 (Remastered)",
+        "url": "https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1"
       },
       "artists": [
         {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
         }
       ],
-      "duration_ms": 143333,
-      "name": "All I Have to Do Is Dream",
-      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
+      "duration_ms": 169933,
+      "name": "Don't Worry Baby - Remastered 2001",
+      "url": "https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -395,22 +411,6 @@
       "duration_ms": 269106,
       "name": "Nights In White Satin - Single Version / Mono",
       "url": "https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Shut Down, Vol. 2 (Remastered)",
-        "url": "https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 169933,
-      "name": "Don't Worry Baby - Remastered 2001",
-      "url": "https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Going To A Go-Go",
-        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "Ooo Baby Baby",
-      "url": "https://open.spotify.com/track/3nsJGZ5RV2ZHkbKvD771gU"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Sings Lonely and Blue",
         "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
       },
@@ -511,6 +495,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "Going To A Go-Go",
+        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 164160,
+      "name": "Ooo Baby Baby",
+      "url": "https://open.spotify.com/track/3nsJGZ5RV2ZHkbKvD771gU"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "San Francisco",
         "url": "https://open.spotify.com/album/0JxUYNJnYnCeA9kwBRK4ez"
       },
@@ -523,6 +523,22 @@
       "duration_ms": 178506,
       "name": "San Francisco (Be Sure to Wear Flowers in Your Hair) - Single Version",
       "url": "https://open.spotify.com/track/6vcNJUWtUPB0hKC6VbZriY"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "God Only Knows - Mono",
+      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -573,22 +589,6 @@
       "url": "https://open.spotify.com/track/5BFWQXNGPYadZxNKxY1UfU"
     },
     {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "Pet Sounds (Original Mono & Stereo Mix)",
-        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 173040,
-      "name": "God Only Knows - Mono",
-      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
-    },
-    {
       "added_at": "2022-05-30 13:00:37",
       "album": {
         "name": "Platinum - A Life In Music",
@@ -603,22 +603,6 @@
       "duration_ms": 186666,
       "name": "Are You Lonesome Tonight?",
       "url": "https://open.spotify.com/track/4xUqqie4bBKufHtlMuZS3k"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 162533,
-      "name": "Bring It On Home to Me",
-      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -639,18 +623,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Parsley, Sage, Rosemary And Thyme",
-        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
       },
       "artists": [
         {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 190346,
-      "name": "Scarborough Fair / Canticle",
-      "url": "https://open.spotify.com/track/3g2fYZW5v2od8KIF7VktT0"
+      "duration_ms": 162533,
+      "name": "Bring It On Home to Me",
+      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -667,6 +651,22 @@
       "duration_ms": 273573,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/3NW1YMA8kfNVTzGJCGBS8m"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 190346,
+      "name": "Scarborough Fair / Canticle",
+      "url": "https://open.spotify.com/track/3g2fYZW5v2od8KIF7VktT0"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/1Kx5LdJPpqRXKUUHBu9CTe"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "For Your Sweet Love",
-        "url": "https://open.spotify.com/album/1eUQiKLKBdQIOnqb3lnbox"
-      },
-      "artists": [
-        {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
-        }
-      ],
-      "duration_ms": 146133,
-      "name": "I Will Follow You",
-      "url": "https://open.spotify.com/track/4Y6pdMS2PwGshq1MYcJ9fC"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Insight Out",
@@ -939,6 +923,22 @@
       "duration_ms": 187693,
       "name": "Never My Love - Remastered Version",
       "url": "https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "For Your Sweet Love",
+        "url": "https://open.spotify.com/album/1eUQiKLKBdQIOnqb3lnbox"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "duration_ms": 146133,
+      "name": "I Will Follow You",
+      "url": "https://open.spotify.com/track/4Y6pdMS2PwGshq1MYcJ9fC"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1721,6 +1721,22 @@
       "url": "https://open.spotify.com/track/2ht21Rlf8L6cPLBkYmhpcs"
     },
     {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 173933,
+      "name": "Caroline, No - Mono",
+      "url": "https://open.spotify.com/track/5RSQKtG1KNwrzFMEePpjt6"
+    },
+    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Doo Wop Classics Vol. 1",
@@ -1823,22 +1839,6 @@
       "duration_ms": 157333,
       "name": "Where The Boys Are",
       "url": "https://open.spotify.com/track/1plEmsH26pWSX0WzPchcz1"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Pet Sounds (Original Mono & Stereo Mix)",
-        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 173933,
-      "name": "Caroline, No - Mono",
-      "url": "https://open.spotify.com/track/5RSQKtG1KNwrzFMEePpjt6"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2097,22 +2097,6 @@
       "url": "https://open.spotify.com/track/78ZqE2tjAxbqEGGlvGnQfT"
     },
     {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "20 All-Time Greatest Hits!",
-        "url": "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 167066,
-      "name": "It's A Man's, Man's, Man's World",
-      "url": "https://open.spotify.com/track/6AIB4vBOGWM4FJ65yNWaXu"
-    },
-    {
       "added_at": "2022-05-30 13:00:37",
       "album": {
         "name": "Music From Big Pink (Expanded Edition)",
@@ -2127,6 +2111,22 @@
       "duration_ms": 278626,
       "name": "The Weight - Remastered",
       "url": "https://open.spotify.com/track/0sDqo9UPzPUtu9wEkI3zRB"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "20 All-Time Greatest Hits!",
+        "url": "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "It's A Man's, Man's, Man's World",
+      "url": "https://open.spotify.com/track/6AIB4vBOGWM4FJ65yNWaXu"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "30 Greatest Hits: Portrait of a Legend 1951-1964",
-        "url": "https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 158613,
-      "name": "Cupid",
-      "url": "https://open.spotify.com/track/6VqVieqjDEwS3mByMq4OzB"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "The Ultimate Bee Gees",
         "url": "https://open.spotify.com/album/6PM8QzSc6FXrL11UwDfdI1"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 197640,
       "name": "Words",
       "url": "https://open.spotify.com/track/6oEyQSER3TyW92IJm61Fzk"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "30 Greatest Hits: Portrait of a Legend 1951-1964",
+        "url": "https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 158613,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/6VqVieqjDEwS3mByMq4OzB"
     },
     {
       "added_at": "2022-05-30 13:00:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNMfW65wf0.md) - [plain]
 
 > can't sleep? listen to this  💤
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,128 likes - 136 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,190 likes - 136 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "safeword is out! \ud83d\udddd\ufe0f Foto: Halsey",
-  "num_followers": 111079,
+  "num_followers": 111083,
   "original_name": "do rockeeee",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-06-13 14:32:08",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "duration_ms": 230733,
+      "name": "Anxiety - Spotify Singles",
+      "url": "https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw"
+    },
+    {
+      "added_at": "2025-06-13 14:32:08",
+      "album": {
         "name": "The Only One",
         "url": "https://open.spotify.com/album/7gVP9m7T0I63aGAoDCEhws"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 137926,
       "name": "under (feat. phem)",
       "url": "https://open.spotify.com/track/3DJ0kDrc9nE4cy92xx0cxD"
-    },
-    {
-      "added_at": "2025-06-13 14:32:08",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp"
-      },
-      "artists": [
-        {
-          "name": "Nova Twins",
-          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
-        }
-      ],
-      "duration_ms": 230733,
-      "name": "Anxiety - Spotify Singles",
-      "url": "https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw"
     },
     {
       "added_at": "2025-06-13 14:32:08",

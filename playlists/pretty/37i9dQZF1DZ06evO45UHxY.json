@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAADqDbrQkc+mE/zkDRwHrdPh",
+  "snapshot_id": "aEtqAAAAAABy8rg9VHTN8lH3kOMGLxll",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Borracho Y Loco",
-        "url": "https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 197738,
-      "name": "Hasta El Fondo Del Abismo",
-      "url": "https://open.spotify.com/track/1cP65BrZnrflETwKMWSZZs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni tan chico, ni tan che",
         "url": "https://open.spotify.com/album/7itQZqCoAxhWtPqMG5lzhP"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 38666,
       "name": "Ya parar\u00e1",
       "url": "https://open.spotify.com/track/3xCVnLKHyNbdL0QBP0E8lo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Borracho Y Loco",
+        "url": "https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 197738,
+      "name": "Hasta El Fondo Del Abismo",
+      "url": "https://open.spotify.com/track/1cP65BrZnrflETwKMWSZZs"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Regreso Es Por Ti",
-        "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
+        "name": "Pal Bailador (Pasito Tun Tun)",
+        "url": "https://open.spotify.com/album/7dxxzJPwgFh9yqr6dcCWbz"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 190840,
-      "name": "Mujer Al Volante",
-      "url": "https://open.spotify.com/track/2jVI0WGvWnMTN90AMMq0Yz"
+      "duration_ms": 185233,
+      "name": "Pal Bailador (Pasito Tun Tun)",
+      "url": "https://open.spotify.com/track/1SGcApP6dz2XJDDH7FgUce"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pal Bailador (Pasito Tun Tun)",
-        "url": "https://open.spotify.com/album/7dxxzJPwgFh9yqr6dcCWbz"
+        "name": "Mi Regreso Es Por Ti",
+        "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
       },
       "artists": [
         {
@@ -564,25 +564,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 185233,
-      "name": "Pal Bailador (Pasito Tun Tun)",
-      "url": "https://open.spotify.com/track/1SGcApP6dz2XJDDH7FgUce"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revoluci\u00f3n Tecno 2021",
-        "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 165214,
-      "name": "El Taladro",
-      "url": "https://open.spotify.com/track/5m69NmFGChAVKttLI0ImEL"
+      "duration_ms": 190840,
+      "name": "Mujer Al Volante",
+      "url": "https://open.spotify.com/track/2jVI0WGvWnMTN90AMMq0Yz"
     },
     {
       "added_at": null,
@@ -599,6 +583,22 @@
       "duration_ms": 140960,
       "name": "No te fijes que soy t\u00edmido",
       "url": "https://open.spotify.com/track/4GGmLnWh7zB0QPS0zGwJaX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revoluci\u00f3n Tecno 2021",
+        "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 165214,
+      "name": "El Taladro",
+      "url": "https://open.spotify.com/track/5m69NmFGChAVKttLI0ImEL"
     },
     {
       "added_at": null,
@@ -639,58 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revoluci\u00f3n Tecno 2021",
-        "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 168677,
-      "name": "Zapatos Viejos",
-      "url": "https://open.spotify.com/track/2l6iFXyafbKbdp5pa6jXpj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dame Chamoy",
-        "url": "https://open.spotify.com/album/3OfE5kO16jV59JVJORdG4T"
-      },
-      "artists": [
-        {
-          "name": "Marea Musical",
-          "url": "https://open.spotify.com/artist/3artnpQ7f3G0xY70vl23TL"
-        },
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 146538,
-      "name": "Dame Chamoy",
-      "url": "https://open.spotify.com/track/6KbhwPBfXgZiF82XA03Fhf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Chispa",
-        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 179826,
-      "name": "Clases de baile",
-      "url": "https://open.spotify.com/track/5DjtOCqp7tDqT7Qv56Favq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni tan chico, ni tan che",
         "url": "https://open.spotify.com/album/7itQZqCoAxhWtPqMG5lzhP"
       },
@@ -716,9 +664,61 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 207642,
-      "name": "Gracias por Ser Mi Mujer",
-      "url": "https://open.spotify.com/track/1cYyS7rccvdPHzOgmVOCEf"
+      "duration_ms": 168677,
+      "name": "Zapatos Viejos",
+      "url": "https://open.spotify.com/track/2l6iFXyafbKbdp5pa6jXpj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Chispa",
+        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 179826,
+      "name": "Clases de baile",
+      "url": "https://open.spotify.com/track/5DjtOCqp7tDqT7Qv56Favq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dame Chamoy",
+        "url": "https://open.spotify.com/album/3OfE5kO16jV59JVJORdG4T"
+      },
+      "artists": [
+        {
+          "name": "Marea Musical",
+          "url": "https://open.spotify.com/artist/3artnpQ7f3G0xY70vl23TL"
+        },
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 146538,
+      "name": "Dame Chamoy",
+      "url": "https://open.spotify.com/track/6KbhwPBfXgZiF82XA03Fhf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni tan chico, ni tan che",
+        "url": "https://open.spotify.com/album/7itQZqCoAxhWtPqMG5lzhP"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 146333,
+      "name": "La piedrecita",
+      "url": "https://open.spotify.com/track/7JLmJk8qckJuCjR0NMpg9q"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revoluci\u00f3n Tecno 2021",
+        "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 207642,
+      "name": "Gracias por Ser Mi Mujer",
+      "url": "https://open.spotify.com/track/1cYyS7rccvdPHzOgmVOCEf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como un Tatuaje",
         "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
       },
@@ -748,9 +764,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 182320,
-      "name": "Como un Tatuaje",
-      "url": "https://open.spotify.com/track/5FiSHv18l1jms2YcV2Avpk"
+      "duration_ms": 211466,
+      "name": "El Zorro y el Sabueso",
+      "url": "https://open.spotify.com/track/79SlePX5ZXM6Ooldf7rcLy"
     },
     {
       "added_at": null,
@@ -799,22 +815,6 @@
       "duration_ms": 168746,
       "name": "El se\u00f1or de las canas",
       "url": "https://open.spotify.com/track/2N0gHRZb3TgOqssub2q8wm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como un Tatuaje",
-        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 211466,
-      "name": "El Zorro y el Sabueso",
-      "url": "https://open.spotify.com/track/79SlePX5ZXM6Ooldf7rcLy"
     }
   ],
   "unique_name": "This Is Banda Zeta",

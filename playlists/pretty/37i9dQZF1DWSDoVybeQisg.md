@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 
 > Expand your mind with these psychedelic rock treasures\. Cover: The Doors
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,717 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,863 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 41 | [I Walk on Guilded Splinters](https://open.spotify.com/track/0OSNN0ABo1HMgfGeMQ3pCr) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Gris Gris](https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs) | 7:46 |
 | 42 | [Incense And Peppermints](https://open.spotify.com/track/20MBLB1TCm3tQK3XZlHXTK) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Incense & Peppermints](https://open.spotify.com/album/5hGwwc1svsrzpCUlnP84F5) | 2:49 |
 | 43 | [Green Tambourine](https://open.spotify.com/track/70jnaGaj1rtpyABfUURpvr) | [The Lemon Pipers](https://open.spotify.com/artist/2rUmEpDSHKMhamwClclHs5) | [The Best of the Lemon Pipers](https://open.spotify.com/album/7xqsq9EdxlurNTjMSZTCDg) | 2:27 |
-| 44 | [8:05](https://open.spotify.com/track/58divL3uaZBaxs73jVHisg) | [Moby Grape](https://open.spotify.com/artist/0NHSh9S0VQiFfsEFbvhRXN) | [Moby Grape \(with Bonus Tracks\)](https://open.spotify.com/album/5MTUjDTUWFuyhWW7oRqqmi) | 2:20 |
-| 45 | [Rainbow Chaser](https://open.spotify.com/track/0BoypJFFJNUpFuJswxBCea) | [Nirvana](https://open.spotify.com/artist/7dIxU1XgxBIa3KJAWzaFAC) | [Rainbow Chaser: The 60s Recordings \(The Island Years\)](https://open.spotify.com/album/4oH8UkVVPrYZufkrUQY6iN) | 2:38 |
+| 44 | [Rainbow Chaser](https://open.spotify.com/track/0BoypJFFJNUpFuJswxBCea) | [Nirvana](https://open.spotify.com/artist/7dIxU1XgxBIa3KJAWzaFAC) | [Rainbow Chaser: The 60s Recordings \(The Island Years\)](https://open.spotify.com/album/4oH8UkVVPrYZufkrUQY6iN) | 2:38 |
+| 45 | [8:05](https://open.spotify.com/track/58divL3uaZBaxs73jVHisg) | [Moby Grape](https://open.spotify.com/artist/0NHSh9S0VQiFfsEFbvhRXN) | [Moby Grape \(with Bonus Tracks\)](https://open.spotify.com/album/5MTUjDTUWFuyhWW7oRqqmi) | 2:20 |
 | 46 | [Terrapin](https://open.spotify.com/track/07QZXkXxtkjlm1GPxfH4gt) | [Syd Barrett](https://open.spotify.com/artist/6Lt3HS8R2v8Q4G7ZkUWa8R) | [The Madcap Laughs](https://open.spotify.com/album/2sKUa8zDgmnn1pHzIou05r) | 5:02 |
 | 47 | [Child in Time](https://open.spotify.com/track/21cp8L9Pei4AgysZVihjSv) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deepest Purple: The Very Best of Deep Purple](https://open.spotify.com/album/2jm9Vixt3Nn2oE4VtOVUD8) | 10:19 |
 | 48 | [Sit With The Guru](https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Wake Up...It's Tomorrow](https://open.spotify.com/album/4DWojULyo8xC7cRB5QjKMm) | 3:02 |

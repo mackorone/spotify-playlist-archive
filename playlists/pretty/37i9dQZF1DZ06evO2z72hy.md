@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2z72hy.md) - [plain]
 
 > This is Gondwana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,565 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,580 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2z72hy.md) - [plain]
 | 6 | [Dime](https://open.spotify.com/track/6YjkpZPWoDnY2Xbvf9lSWn) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 4:16 |
 | 7 | [Verde, Amarillo Y Rojo](https://open.spotify.com/track/4Q0y0SOAJ84PvR2Uu6tGXv) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 4:06 |
 | 8 | [Mi Princesa](https://open.spotify.com/track/6qwIv4W6tUPxt2jLz84tlo) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 4:23 |
-| 9 | [Aire de Jah](https://open.spotify.com/track/5TXLP8oniNd1RvZOTnTDOB) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 3:57 |
-| 10 | [Do It Right](https://open.spotify.com/track/4uuWMM30p5K10k7amGqJXM) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Cali Roots Riddim 2023](https://open.spotify.com/album/2VV4AwkAHaWRJ3noJY6aWT) | 3:44 |
+| 9 | [Do It Right](https://open.spotify.com/track/4uuWMM30p5K10k7amGqJXM) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Cali Roots Riddim 2023](https://open.spotify.com/album/2VV4AwkAHaWRJ3noJY6aWT) | 3:44 |
+| 10 | [Aire de Jah](https://open.spotify.com/track/5TXLP8oniNd1RvZOTnTDOB) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Resiliente](https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo) | 3:57 |
 | 11 | [Dulce Amor \(Sólo Un Latido\)](https://open.spotify.com/track/23d6sogOKvZOx7XtSEeNVs) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 3:47 |
 | 12 | [Reggae Is Coming](https://open.spotify.com/track/1yYq0GX9AKLb6yiN5pmyEw) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana](https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw) | 4:12 |
 | 13 | [Nadie Como Tu](https://open.spotify.com/track/52sDXLOJz1y7Gjf3TJ5eWa) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 4:07 |
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2z72hy.md) - [plain]
 | 16 | [Chainga Langa](https://open.spotify.com/track/1akpbkKct2FsbSE71IKHZR) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana](https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw) | 3:16 |
 | 17 | [Nuestros Sueños](https://open.spotify.com/track/0xAwZZmo9w1Rl5gaMkQ2lx) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 4:35 |
 | 18 | [CAHUITA](https://open.spotify.com/track/732CZbCmAqOO7OkSTCyiNt) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [CAHUITA](https://open.spotify.com/album/6wZlcqCJd3bX4gDQjloUtQ) | 3:35 |
-| 19 | [Alabanza](https://open.spotify.com/track/1z7SPFBf9NlA4F2c6AvVQ7) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 4:21 |
+| 19 | [Keep The Faith](https://open.spotify.com/track/0pKP04PH5nXiPqAq7Ava5o) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Grandes Exitos](https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp) | 3:08 |
 | 20 | [Smile Souling](https://open.spotify.com/track/3asfbDhnzUpEvMuhPxWaXI) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana](https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw) | 4:33 |
 | 21 | [Ignorancia](https://open.spotify.com/track/0TzxVKHY0tpICeGNQQ2RLf) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 4:36 |
-| 22 | [Keep The Faith](https://open.spotify.com/track/0pKP04PH5nXiPqAq7Ava5o) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Grandes Exitos](https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp) | 3:08 |
+| 22 | [Alabanza](https://open.spotify.com/track/1z7SPFBf9NlA4F2c6AvVQ7) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 4:21 |
 | 23 | [Fluye](https://open.spotify.com/track/2crdEEBy8ja6mBGjPxfpxZ) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 5:54 |
 | 24 | [Guerra](https://open.spotify.com/track/6XkwfvohWsXv7B3GrDblaZ) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana](https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw) | 3:47 |
 | 25 | [Volver A Sentir](https://open.spotify.com/track/3KGbrHIDaY7KnLbx91QXY7) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2z72hy.md) - [plain]
 | 49 | [Divina verdad](https://open.spotify.com/track/6w9TXZ2DROwK2KUtA41D4N) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 5:25 |
 | 50 | [Regreso](https://open.spotify.com/track/4O5rHAUKMGT47CiZCN3wd2) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 4:16 |
 
-Snapshot ID: `aEoYgAAAAACyga5MhJ58/Zach0QAQsZe`
+Snapshot ID: `aEtqAAAAAADFDtQPflfy/iRsrq1sNOtv`

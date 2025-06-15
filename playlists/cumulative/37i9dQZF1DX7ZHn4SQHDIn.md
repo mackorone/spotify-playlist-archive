@@ -4,7 +4,7 @@
 
 > All in us! ITZY is back!
 
-178 songs - 9 hr 22 min
+187 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,11 @@
 | [Free Fall](https://open.spotify.com/track/3bW8vRr2qQwtmz46OEPZKk) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:59 | 2022-07-22 | 2024-04-19 |
 | [Gas Me Up](https://open.spotify.com/track/3RCMSJIlIZkvJP4LFGtOtu) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 2:29 | 2022-07-22 | 2024-04-19 |
 | [Gas Me Up](https://open.spotify.com/track/6UcfMqiOGeA3koBW01SsFs) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 2:29 | 2022-04-20 |  |
+| [Girls Will Be Girls](https://open.spotify.com/track/373C7aTyGRJw7sVT4UG6Fh) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/0bVAPVpPL25nIfko4O1G4J) | 2:48 | 2025-06-14 |  |
+| [Girls Will Be Girls \(EDM Remix\)](https://open.spotify.com/track/65Rzd5A0RrJuB9YfLtftLL) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls \(Remixes\)](https://open.spotify.com/album/3u58dlvmcrlJS3LycfocjK) | 2:35 | 2025-06-14 |  |
+| [Girls Will Be Girls \(English Ver.\)](https://open.spotify.com/track/1tg9NRakBBe7mMsNPwjIZK) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls \(Remixes\)](https://open.spotify.com/album/3u58dlvmcrlJS3LycfocjK) | 2:47 | 2025-06-14 |  |
+| [Girls Will Be Girls \(Rock Remix\)](https://open.spotify.com/track/4iKAWtEPSuXiVTPCzlemW2) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls \(Remixes\)](https://open.spotify.com/album/3u58dlvmcrlJS3LycfocjK) | 2:27 | 2025-06-14 |  |
+| [Girls Will Be Girls \(Tech House Remix\)](https://open.spotify.com/track/3moMYdAwr3Kd7gm9RUHf3R) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls \(Remixes\)](https://open.spotify.com/album/3u58dlvmcrlJS3LycfocjK) | 2:46 | 2025-06-14 |  |
 | [GOLD](https://open.spotify.com/track/1dqN2j0jL4qB72CNgCdQ09) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 3:07 | 2024-10-15 |  |
 | [I DON’T WANNA DANCE](https://open.spotify.com/track/427ztPo5YDc2TgebnaFtgW) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [It'z Me](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) | 3:09 | 2022-04-20 |  |
 | [I DON’T WANNA DANCE](https://open.spotify.com/track/4WzPXQ6z0JhJWyc43cAMMX) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:09 | 2022-07-22 | 2024-04-19 |
@@ -92,7 +97,9 @@
 | [KIDDING ME](https://open.spotify.com/track/74WtkDIkOXTtEVO4TatDMX) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) | 3:33 | 2022-07-22 | 2024-04-19 |
 | [Kill Shot](https://open.spotify.com/track/37q0dF9Ggj8ty2l9o5B9jk) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [KILL MY DOUBT](https://open.spotify.com/album/1q8taEnX2IOwf5PaTjXdN1) | 2:16 | 2024-01-08 |  |
 | [Kill Shot](https://open.spotify.com/track/3i7Z0CI7QIwnU4MVL0XJB9) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [KILL MY DOUBT](https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik) | 2:16 | 2023-07-31 | 2024-04-19 |
+| [Kiss & Tell](https://open.spotify.com/track/4VdEbMZUwvUqTK9ezuRwcc) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/0bVAPVpPL25nIfko4O1G4J) | 2:46 | 2025-06-14 |  |
 | [Like Magic](https://open.spotify.com/track/1bN4ejW5IMmL4CRVG6Fxfk) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Like Magic](https://open.spotify.com/album/5bp8pvBXLoluC3mXfTccfm) | 2:44 | 2024-02-20 |  |
+| [Locked N Loaded](https://open.spotify.com/track/6rNdRe4CtWqhz9ZYRnNJIC) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/0bVAPVpPL25nIfko4O1G4J) | 2:25 | 2025-06-14 |  |
 | [LOCO](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:11 | 2022-07-22 | 2024-04-19 |
 | [LOCO](https://open.spotify.com/track/5b8FtevTVz8xVF6E208xeV) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:11 | 2022-04-20 |  |
 | [LOCO \- English Ver.](https://open.spotify.com/track/01QhKtUc12FGw2wX7dMYvv) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:11 | 2022-04-20 |  |
@@ -121,6 +128,7 @@
 | [Not Shy \- Japanese ver.](https://open.spotify.com/track/0odXyiHUGaXGewarou0KV6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ITZY \(Japanese ver.\)](https://open.spotify.com/album/1VvOaePbpheLTFGUlOb2yE) | 2:57 | 2022-04-20 |  |
 | [One Hundred Love](https://open.spotify.com/track/4tyvvXI34H0YILQctQr0N6) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Romantic Doctor 3 OST Part.5](https://open.spotify.com/album/3tbF7tfZeQa9WnXmpclfiF) | 3:56 | 2023-05-28 |  |
 | [Playlist](https://open.spotify.com/track/0fDeofONl8z64x8zlrLgWR) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [RINGO](https://open.spotify.com/album/1kRAzoCTDLqwU6nX2I2Nmc) | 3:44 | 2023-10-17 |  |
+| [Promise](https://open.spotify.com/track/2EXtDGBkytLHRzAGYQp8uc) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/0bVAPVpPL25nIfko4O1G4J) | 3:44 | 2025-06-14 |  |
 | [Psychic Lover](https://open.spotify.com/track/4OrXIOLFXH5emUmvNpwCTe) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [KILL MY DOUBT](https://open.spotify.com/album/1q8taEnX2IOwf5PaTjXdN1) | 2:44 | 2024-01-08 |  |
 | [Psychic Lover](https://open.spotify.com/track/5Xik9Cid9UnaLMOyaDYO8F) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [KILL MY DOUBT](https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik) | 2:44 | 2023-07-31 | 2024-04-19 |
 | [RACER](https://open.spotify.com/track/5v15IF9D4nKZbto4US7Ar1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 3:12 | 2022-07-22 | 2024-04-19 |
@@ -166,6 +174,7 @@
 | [UNTOUCHABLE \(Final Ver.\)](https://open.spotify.com/track/1jtfWC6YrXQPmMfj4oKZNJ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 3:14 | 2024-10-15 |  |
 | [VAY \(Feat\. Changbin of Stray Kids\)](https://open.spotify.com/track/1V3Zn1TUGzYui1WCVa04ES) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [Changbin](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 2:41 | 2024-10-15 |  |
 | [Voltage](https://open.spotify.com/track/7e65OAe9L0xWPSHDiahjQe) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Voltage](https://open.spotify.com/album/3MXVqfk9VG3B757nLlow0D) | 3:41 | 2022-04-20 |  |
+| [Walk](https://open.spotify.com/track/5VQAX1A0GPpk686XwQmg5H) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/0bVAPVpPL25nIfko4O1G4J) | 2:55 | 2025-06-14 |  |
 | [WANNABE](https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:11 | 2022-07-22 | 2024-04-19 |
 | [WANNABE](https://open.spotify.com/track/6tCssnvTUREcperDOUTqvA) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [It'z Me](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) | 3:11 | 2022-04-20 |  |
 | [WANNABE \- English Ver.](https://open.spotify.com/track/2cnhL9Xb7jlTuUs4taxJSB) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy \(English Ver.\)](https://open.spotify.com/album/0hoNwSKuuOeT9eAxopgMdm) | 3:11 | 2022-07-22 | 2024-04-19 |

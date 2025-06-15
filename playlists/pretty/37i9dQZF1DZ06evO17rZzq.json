@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 4551,
+  "num_followers": 4555,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAAexD17Rsu1TvH9t5lLn8lg",
+  "snapshot_id": "aEtqAAAAAAClIX4erhxQi/YJEY15GYyZ",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 164702,
-      "name": "Do A Bitch",
-      "url": "https://open.spotify.com/track/3t7NM4j6pmzJqck5sQdyAF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Femme Fatale (feat. Coi Leray & Kaliii)",
         "url": "https://open.spotify.com/album/2S0pVYtrczvAfcw8d8BHUc"
       },
@@ -211,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 164702,
+      "name": "Do A Bitch",
+      "url": "https://open.spotify.com/track/3t7NM4j6pmzJqck5sQdyAF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big One (feat. Monaleo)",
         "url": "https://open.spotify.com/album/1DNP6WXtCNKaF6OFfHotiX"
       },
@@ -227,6 +227,26 @@
       "duration_ms": 156832,
       "name": "Big One (feat. Monaleo)",
       "url": "https://open.spotify.com/track/7vWU5bYJk7uHulIfbQrGZK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Just A Girl",
+        "url": "https://open.spotify.com/album/5zrhSvsc1mfyrNDVkFVgSH"
+      },
+      "artists": [
+        {
+          "name": "Lil Kayla",
+          "url": "https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 168148,
+      "name": "This",
+      "url": "https://open.spotify.com/track/7mhM28Oq3e56v6MJqPlNOR"
     },
     {
       "added_at": null,
@@ -271,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Touchin\u2019 (The Pack)",
-        "url": "https://open.spotify.com/album/5HfNizUWZsXJvHE2pMrzmw"
-      },
-      "artists": [
-        {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 214712,
-      "name": "Touchin' (feat. Kaliii)",
-      "url": "https://open.spotify.com/track/6y9XZjgz78wjamOPRi5031"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reasonable Woman",
         "url": "https://open.spotify.com/album/2JYsCq8rOuQXkwv9BtJEa8"
       },
@@ -319,22 +319,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Just A Girl",
-        "url": "https://open.spotify.com/album/5zrhSvsc1mfyrNDVkFVgSH"
+        "name": "Touchin\u2019 (The Pack)",
+        "url": "https://open.spotify.com/album/5HfNizUWZsXJvHE2pMrzmw"
       },
       "artists": [
         {
-          "name": "Lil Kayla",
-          "url": "https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp"
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
         },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 168148,
-      "name": "This",
-      "url": "https://open.spotify.com/track/7mhM28Oq3e56v6MJqPlNOR"
+      "duration_ms": 214712,
+      "name": "Touchin' (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/6y9XZjgz78wjamOPRi5031"
     },
     {
       "added_at": null,
@@ -767,18 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+        "name": "Keep It Playa",
+        "url": "https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS"
       },
       "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 154453,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa"
+      "duration_ms": 192592,
+      "name": "ill nana (feat. Kali)",
+      "url": "https://open.spotify.com/track/0Ve9hRPGD8xtQZfVpUNLSR"
     },
     {
       "added_at": null,
@@ -799,22 +803,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Keep It Playa",
-        "url": "https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS"
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
       },
       "artists": [
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
-        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 192592,
-      "name": "ill nana (feat. Kali)",
-      "url": "https://open.spotify.com/track/0Ve9hRPGD8xtQZfVpUNLSR"
+      "duration_ms": 154453,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa"
     },
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Results Take Time",
-        "url": "https://open.spotify.com/album/4pbph4ZWAanvsHlqztlFU9"
-      },
-      "artists": [
-        {
-          "name": "Symba",
-          "url": "https://open.spotify.com/artist/6qWkHLpJ0T1fQGbqN1HWtD"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 155476,
-      "name": "Street Nigga (feat. Kaliii)",
-      "url": "https://open.spotify.com/track/0enS3HzQvOcZcQARcPQdK2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not Yours (Remix)",
         "url": "https://open.spotify.com/album/58Qs8SIVW4lM8t9ma66Aw0"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 130295,
       "name": "Not Yours (Remix)",
       "url": "https://open.spotify.com/track/3wMUF96HtzkjviWxFRQUVn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Results Take Time",
+        "url": "https://open.spotify.com/album/4pbph4ZWAanvsHlqztlFU9"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/6qWkHLpJ0T1fQGbqN1HWtD"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 155476,
+      "name": "Street Nigga (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/0enS3HzQvOcZcQARcPQdK2"
     },
     {
       "added_at": null,

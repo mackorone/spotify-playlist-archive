@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72143,
+  "num_followers": 72142,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAD2d3oGJG1AzU+1fBNpJH3l",
+  "snapshot_id": "aEtqAAAAAACW8ckYNfuc3MrBo3CtWIpe",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love You for the Summer",
+        "url": "https://open.spotify.com/album/1Y0KcLD3LWkZYyvj2eTERW"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 172727,
+      "name": "Love You for the Summer",
+      "url": "https://open.spotify.com/track/6DYi7HljZ64OF6beOCgSMx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'll Follow You",
         "url": "https://open.spotify.com/album/6n8A62fT6vLTMrwuVDQAIp"
       },
@@ -475,34 +499,6 @@
       "duration_ms": 219374,
       "name": "I'll Follow You",
       "url": "https://open.spotify.com/track/3Ijf2SBZguZPkom811NZTd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love You for the Summer (Kohen Remix)",
-        "url": "https://open.spotify.com/album/6ufmXFf1GL3vWmyZVpC8yz"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        },
-        {
-          "name": "Kohen",
-          "url": "https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Love You for the Summer - Kohen Remix",
-      "url": "https://open.spotify.com/track/7y3oxdNRRc0moNrzYPNK1K"
     },
     {
       "added_at": null,
@@ -555,6 +551,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "Legacy - Radio Edit",
+      "url": "https://open.spotify.com/track/4IWLawtdMznqdOnbOR9cWW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Okay",
         "url": "https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE"
       },
@@ -579,46 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "Legacy - Radio Edit",
-      "url": "https://open.spotify.com/track/4IWLawtdMznqdOnbOR9cWW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
-        }
-      ],
-      "duration_ms": 200156,
-      "name": "Like Home - Radio Edit",
-      "url": "https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Need You To Know",
         "url": "https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt"
       },
@@ -639,6 +615,26 @@
       "duration_ms": 180000,
       "name": "I Need You To Know",
       "url": "https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        }
+      ],
+      "duration_ms": 200156,
+      "name": "Like Home - Radio Edit",
+      "url": "https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL"
     },
     {
       "added_at": null,
@@ -939,6 +935,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
       },
@@ -959,8 +975,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out Of Control",
-        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
+        "name": "Stay A Little Longer",
+        "url": "https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav"
       },
       "artists": [
         {
@@ -968,13 +984,17 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Philip Strand",
+          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
         }
       ],
-      "duration_ms": 168387,
-      "name": "Out Of Control",
-      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
+      "duration_ms": 211406,
+      "name": "Stay A Little Longer",
+      "url": "https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK"
     },
     {
       "added_at": null,
@@ -1015,30 +1035,6 @@
       "duration_ms": 184320,
       "name": "Bass Down Low",
       "url": "https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stay A Little Longer",
-        "url": "https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Philip Strand",
-          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
-        }
-      ],
-      "duration_ms": 211406,
-      "name": "Stay A Little Longer",
-      "url": "https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK"
     },
     {
       "added_at": null,

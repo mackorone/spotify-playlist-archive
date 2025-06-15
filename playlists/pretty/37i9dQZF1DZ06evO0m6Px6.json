@@ -1,12 +1,12 @@
 {
   "description": "This is Harrison. The essential tracks, all in one playlist.",
-  "num_followers": 308,
+  "num_followers": 310,
   "original_name": "This Is Harrison",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAADejempXkS9Foe+yTcvmdym",
+  "snapshot_id": "aEtqAAAAAACnalssHWB5L8j9kckFnoKj",
   "tracks": [
     {
       "added_at": null,
@@ -399,18 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/6upY303oACCGOxgkI3Ndtg"
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
       },
       "artists": [
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Maddee Ritter",
+          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
         }
       ],
-      "duration_ms": 120502,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/2zoNDCHS1jVpmoVU9z79Re"
+      "duration_ms": 252000,
+      "name": "You're Light (feat. Maddee)",
+      "url": "https://open.spotify.com/track/2QGCr7Oj6F1sgSLaMr64Ub"
     },
     {
       "added_at": null,
@@ -519,22 +523,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tasty Raps, Vol. 1",
-        "url": "https://open.spotify.com/album/3oCrDNEeYBryNGgQrSEYOn"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6upY303oACCGOxgkI3Ndtg"
       },
       "artists": [
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        },
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 152472,
-      "name": "New Harrison Again",
-      "url": "https://open.spotify.com/track/1NBLPRLVEjL2Euy35Rg5Mf"
+      "duration_ms": 120502,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/2zoNDCHS1jVpmoVU9z79Re"
     },
     {
       "added_at": null,
@@ -591,6 +591,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tasty Raps, Vol. 1",
+        "url": "https://open.spotify.com/album/3oCrDNEeYBryNGgQrSEYOn"
+      },
+      "artists": [
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 152472,
+      "name": "New Harrison Again",
+      "url": "https://open.spotify.com/track/1NBLPRLVEjL2Euy35Rg5Mf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ROLLERCOASTER",
         "url": "https://open.spotify.com/album/4oWbW5NLt8xodgis39xx1K"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 207238,
       "name": "tl;dr",
       "url": "https://open.spotify.com/track/48eqDFwHLzwlDVwpCa4t87"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Maddee Ritter",
-          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "You're Light (feat. Maddee)",
-      "url": "https://open.spotify.com/track/2QGCr7Oj6F1sgSLaMr64Ub"
     },
     {
       "added_at": null,

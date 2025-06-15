@@ -245,6 +245,24 @@
     },
     {
       "album": {
+        "name": "aguasanta",
+        "url": "https://open.spotify.com/album/4ZQiFsFnhbAE4nZ71W1rgT"
+      },
+      "artists": [
+        {
+          "name": "juliocesar",
+          "url": "https://open.spotify.com/artist/77dml5NtjT51Wrzcvang7o"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192525,
+      "name": "aguasanta",
+      "url": "https://open.spotify.com/track/0rtq7E0ExwP4GqDg4Mwzyc"
+    },
+    {
+      "album": {
         "name": "Aire (Versi\u00f3n D\u00eda)",
         "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
       },
@@ -2508,7 +2526,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 188176,
       "name": "La Puerta",
       "url": "https://open.spotify.com/track/3Ho9gVgoyi6CLS2vYqVtBt"
@@ -5718,7 +5736,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 139833,
       "name": "WADGYMAR",
       "url": "https://open.spotify.com/track/5EckFDDZ79K3PbEJBeVyLX"
@@ -5784,7 +5802,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-27",
+      "date_removed": null,
       "duration_ms": 150186,
       "name": "YNQNP",
       "url": "https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD"

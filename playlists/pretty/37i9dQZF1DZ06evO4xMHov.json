@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAADXrs8Uksob1xBOUdqhoWsh",
+  "snapshot_id": "aEtqAAAAAAC/qfAirNbRP7NG+Jk0gswP",
   "tracks": [
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grande \u00e9 o Senhor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5oqDl5IyyhOejgBcl2pDv9"
+        "name": "Sangue de Jesus",
+        "url": "https://open.spotify.com/album/62eXklHALW2DjHQSVVWiKe"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 413311,
-      "name": "Grande \u00e9 o Senhor - Ao Vivo",
-      "url": "https://open.spotify.com/track/2mYzwAhfjxNkUu6pJvZyCJ"
+      "duration_ms": 275260,
+      "name": "Sangue de Jesus",
+      "url": "https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sangue de Jesus",
-        "url": "https://open.spotify.com/album/62eXklHALW2DjHQSVVWiKe"
+        "name": "Grande \u00e9 o Senhor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5oqDl5IyyhOejgBcl2pDv9"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 275260,
-      "name": "Sangue de Jesus",
-      "url": "https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m"
+      "duration_ms": 413311,
+      "name": "Grande \u00e9 o Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/2mYzwAhfjxNkUu6pJvZyCJ"
     },
     {
       "added_at": null,
@@ -983,26 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3 Existe Um Lugar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/468Y9pHDkKf8u6oLHWrimN"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        }
-      ],
-      "duration_ms": 427917,
-      "name": "S\u00f3 Existe Um Lugar - Ao Vivo",
-      "url": "https://open.spotify.com/track/3oVtUUirowVa9DEtjazJVq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00fasica e Palavra (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1526KV4Bw2ehCYTuP6YZe4"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 267960,
       "name": "Meu Universo - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1z1VXBSMZzbQF4pvJwDjga"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00f3 Existe Um Lugar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/468Y9pHDkKf8u6oLHWrimN"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        }
+      ],
+      "duration_ms": 427917,
+      "name": "S\u00f3 Existe Um Lugar - Ao Vivo",
+      "url": "https://open.spotify.com/track/3oVtUUirowVa9DEtjazJVq"
     },
     {
       "added_at": null,

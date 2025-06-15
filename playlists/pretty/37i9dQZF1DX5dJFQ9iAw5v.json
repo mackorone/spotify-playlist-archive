@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 33102,
+  "num_followers": 33104,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,34 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "De Este Lado",
+        "url": "https://open.spotify.com/album/1jChxnoLvKbJcLkf9Oku8G"
+      },
+      "artists": [
+        {
+          "name": "Juan Cruz De Urquiza",
+          "url": "https://open.spotify.com/artist/0nRwYzrk9wrf5ZIsvPuxwl"
+        },
+        {
+          "name": "Miguel Tarzia",
+          "url": "https://open.spotify.com/artist/5l8QeZti5fdN56GFbFHjF0"
+        },
+        {
+          "name": "Mariano Otero",
+          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
+        },
+        {
+          "name": "Pipi Piazzolla",
+          "url": "https://open.spotify.com/artist/6vTHQ1JriYIqa3vWMFoI14"
+        }
+      ],
+      "duration_ms": 471146,
+      "name": "Promesas Sobre el Bidet",
+      "url": "https://open.spotify.com/track/10U3XS2qEsDX8YUErjgMeJ"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Camino",
         "url": "https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl"
       },
@@ -407,34 +435,6 @@
       "duration_ms": 114760,
       "name": "Entrada al Jard\u00edn de Ord\u00f3\u00f1ez",
       "url": "https://open.spotify.com/track/41DLK2Kl0UCoP9YvRohQ74"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "De Este Lado",
-        "url": "https://open.spotify.com/album/1jChxnoLvKbJcLkf9Oku8G"
-      },
-      "artists": [
-        {
-          "name": "Juan Cruz De Urquiza",
-          "url": "https://open.spotify.com/artist/0nRwYzrk9wrf5ZIsvPuxwl"
-        },
-        {
-          "name": "Miguel Tarzia",
-          "url": "https://open.spotify.com/artist/5l8QeZti5fdN56GFbFHjF0"
-        },
-        {
-          "name": "Mariano Otero",
-          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
-        },
-        {
-          "name": "Pipi Piazzolla",
-          "url": "https://open.spotify.com/artist/6vTHQ1JriYIqa3vWMFoI14"
-        }
-      ],
-      "duration_ms": 471146,
-      "name": "Promesas Sobre el Bidet",
-      "url": "https://open.spotify.com/track/10U3XS2qEsDX8YUErjgMeJ"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -575,26 +575,18 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Swing Summit",
-        "url": "https://open.spotify.com/album/1PXGn6AZXkN0wYsmzaX8Ed"
+        "name": "Danza",
+        "url": "https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN"
       },
       "artists": [
         {
-          "name": "Manuel Fraga",
-          "url": "https://open.spotify.com/artist/1AR4weKRSJg1NswV2HUjm8"
-        },
-        {
-          "name": "Oscar Giunta",
-          "url": "https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P"
-        },
-        {
-          "name": "Pablo Motta",
-          "url": "https://open.spotify.com/artist/0N4l2NjzDYy8061amZ1dv6"
+          "name": "Mariano Otero",
+          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
         }
       ],
-      "duration_ms": 273213,
-      "name": "Swing Summit",
-      "url": "https://open.spotify.com/track/3i6vzqXn09oXPDzSVCwmca"
+      "duration_ms": 280635,
+      "name": "Pop",
+      "url": "https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -615,18 +607,26 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Danza",
-        "url": "https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN"
+        "name": "Swing Summit",
+        "url": "https://open.spotify.com/album/1PXGn6AZXkN0wYsmzaX8Ed"
       },
       "artists": [
         {
-          "name": "Mariano Otero",
-          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
+          "name": "Manuel Fraga",
+          "url": "https://open.spotify.com/artist/1AR4weKRSJg1NswV2HUjm8"
+        },
+        {
+          "name": "Oscar Giunta",
+          "url": "https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P"
+        },
+        {
+          "name": "Pablo Motta",
+          "url": "https://open.spotify.com/artist/0N4l2NjzDYy8061amZ1dv6"
         }
       ],
-      "duration_ms": 280635,
-      "name": "Pop",
-      "url": "https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU"
+      "duration_ms": 273213,
+      "name": "Swing Summit",
+      "url": "https://open.spotify.com/track/3i6vzqXn09oXPDzSVCwmca"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -667,6 +667,34 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Pettinato Plays Garc\u00eda",
+        "url": "https://open.spotify.com/album/4gQalZNL9vDaIu2FkTjaiO"
+      },
+      "artists": [
+        {
+          "name": "Roberto Pettinato",
+          "url": "https://open.spotify.com/artist/1RhJ2fO0OeSKrLoYRGCrb5"
+        },
+        {
+          "name": "Andr\u00e9s Marino",
+          "url": "https://open.spotify.com/artist/0ZLoxnTo4vfJHdHBV93CnP"
+        },
+        {
+          "name": "Hern\u00e1n Cassibba",
+          "url": "https://open.spotify.com/artist/0Ot2klGEPr9a6SasU8SxP8"
+        },
+        {
+          "name": "Omar Menendez",
+          "url": "https://open.spotify.com/artist/6UvK0mGX8XoVtbYUImxvKK"
+        }
+      ],
+      "duration_ms": 339612,
+      "name": "Veinte Trajes Verdes",
+      "url": "https://open.spotify.com/track/1LVbxSyJpuep1OHKULZwa2"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
       },
@@ -699,34 +727,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Pettinato Plays Garc\u00eda",
-        "url": "https://open.spotify.com/album/4gQalZNL9vDaIu2FkTjaiO"
-      },
-      "artists": [
-        {
-          "name": "Roberto Pettinato",
-          "url": "https://open.spotify.com/artist/1RhJ2fO0OeSKrLoYRGCrb5"
-        },
-        {
-          "name": "Andr\u00e9s Marino",
-          "url": "https://open.spotify.com/artist/0ZLoxnTo4vfJHdHBV93CnP"
-        },
-        {
-          "name": "Hern\u00e1n Cassibba",
-          "url": "https://open.spotify.com/artist/0Ot2klGEPr9a6SasU8SxP8"
-        },
-        {
-          "name": "Omar Menendez",
-          "url": "https://open.spotify.com/artist/6UvK0mGX8XoVtbYUImxvKK"
-        }
-      ],
-      "duration_ms": 339612,
-      "name": "Veinte Trajes Verdes",
-      "url": "https://open.spotify.com/track/1LVbxSyJpuep1OHKULZwa2"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Mensajes Secretos",
         "url": "https://open.spotify.com/album/2FutkIdGZozf7lwp0PMk9g"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/593aZvfhvWuTuAtHrlOhbs"
-      },
-      "artists": [
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        }
-      ],
-      "duration_ms": 251376,
-      "name": "Arenales Blues",
-      "url": "https://open.spotify.com/track/5OoRI3CMMFFJOz619NVzXI"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Brilliant Corners",
         "url": "https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4"
       },
@@ -779,22 +763,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Viva Jujuy",
-        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
-      },
-      "artists": [
-        {
-          "name": "Arturo Puertas",
-          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
-        }
-      ],
-      "duration_ms": 361280,
-      "name": "Viva Jujuy",
-      "url": "https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
         "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
       },
@@ -807,6 +775,38 @@
       "duration_ms": 347200,
       "name": "Ord\u00f3\u00f1ez y Ernestina (o el Banquito de Ord\u00f3\u00f1ez)",
       "url": "https://open.spotify.com/track/0yFcvCGFCpZzmQP890rtSJ"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/593aZvfhvWuTuAtHrlOhbs"
+      },
+      "artists": [
+        {
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        }
+      ],
+      "duration_ms": 251376,
+      "name": "Arenales Blues",
+      "url": "https://open.spotify.com/track/5OoRI3CMMFFJOz619NVzXI"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Viva Jujuy",
+        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
+      },
+      "artists": [
+        {
+          "name": "Arturo Puertas",
+          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
+        }
+      ],
+      "duration_ms": 361280,
+      "name": "Viva Jujuy",
+      "url": "https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Flor de piel",
+        "url": "https://open.spotify.com/album/5PAtTXm3sZDzakXru1NHbu"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Alvez",
+          "url": "https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a"
+        },
+        {
+          "name": "Mocchi",
+          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
+        }
+      ],
+      "duration_ms": 155904,
+      "name": "Flor de piel",
+      "url": "https://open.spotify.com/track/2yl80UjeK76D1QE17hDDPv"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Bye Bye Blackbird",
         "url": "https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 396160,
       "name": "Nueva Luna, Mundo Arjo (feat. Pedro Aznar)",
       "url": "https://open.spotify.com/track/3Ybi19qv29GlOHkKoCTZ3P"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Flor de piel",
-        "url": "https://open.spotify.com/album/5PAtTXm3sZDzakXru1NHbu"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Alvez",
-          "url": "https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a"
-        },
-        {
-          "name": "Mocchi",
-          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
-        }
-      ],
-      "duration_ms": 155904,
-      "name": "Flor de piel",
-      "url": "https://open.spotify.com/track/2yl80UjeK76D1QE17hDDPv"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Viva Jujuy",
+        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
+      },
+      "artists": [
+        {
+          "name": "Arturo Puertas",
+          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
+        }
+      ],
+      "duration_ms": 403600,
+      "name": "Tour de Force",
+      "url": "https://open.spotify.com/track/2foU99quuAqqJTCn04P1cy"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "I Remember Clifford",
         "url": "https://open.spotify.com/album/19YMIWrZTWuSDYzxlzRIqY"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 192000,
       "name": "I Remember Clifford",
       "url": "https://open.spotify.com/track/71xGulRFIDEs2gqk6fSSz2"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Viva Jujuy",
-        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
-      },
-      "artists": [
-        {
-          "name": "Arturo Puertas",
-          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
-        }
-      ],
-      "duration_ms": 403600,
-      "name": "Tour de Force",
-      "url": "https://open.spotify.com/track/2foU99quuAqqJTCn04P1cy"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Here\u00b4s That Rainy Day",
-        "url": "https://open.spotify.com/album/69zOrvALBeCvCfnjyHfdxb"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Musso",
-          "url": "https://open.spotify.com/artist/4OyrnRvPB0hgGlAE0LGr0i"
-        },
-        {
-          "name": "Jose Reinoso",
-          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
-        }
-      ],
-      "duration_ms": 192615,
-      "name": "Here\u00b4s That Rainy Day",
-      "url": "https://open.spotify.com/track/3L9OGdoMZxnJuRiYHuNRRc"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Querido Bill : Tributo a Bill Evans",
         "url": "https://open.spotify.com/album/7hi7JxW5BDVbINzu79QVjQ"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 490280,
       "name": "Billie's Bounce",
       "url": "https://open.spotify.com/track/6DF9qquWlMN2bJGeXYOBDc"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Here\u00b4s That Rainy Day",
+        "url": "https://open.spotify.com/album/69zOrvALBeCvCfnjyHfdxb"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Musso",
+          "url": "https://open.spotify.com/artist/4OyrnRvPB0hgGlAE0LGr0i"
+        },
+        {
+          "name": "Jose Reinoso",
+          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+        }
+      ],
+      "duration_ms": 192615,
+      "name": "Here\u00b4s That Rainy Day",
+      "url": "https://open.spotify.com/track/3L9OGdoMZxnJuRiYHuNRRc"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "El Drag\u00f3n Blanco",
-        "url": "https://open.spotify.com/album/0F2TCMAdxijKLlbUWFbIzF"
-      },
-      "artists": [
-        {
-          "name": "Patricio Carpossi",
-          "url": "https://open.spotify.com/artist/0i4ii7RkdOXZRMpTm5cYxX"
-        }
-      ],
-      "duration_ms": 286373,
-      "name": "Titi",
-      "url": "https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Puertos: Music from International Waters",
         "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 405604,
       "name": "La Novena",
       "url": "https://open.spotify.com/track/0M8qsjYdr5qu2Z7TKGzTon"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "El Drag\u00f3n Blanco",
+        "url": "https://open.spotify.com/album/0F2TCMAdxijKLlbUWFbIzF"
+      },
+      "artists": [
+        {
+          "name": "Patricio Carpossi",
+          "url": "https://open.spotify.com/artist/0i4ii7RkdOXZRMpTm5cYxX"
+        }
+      ],
+      "duration_ms": 286373,
+      "name": "Titi",
+      "url": "https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne"
     },
     {
       "added_at": "2025-04-14 14:58:34",

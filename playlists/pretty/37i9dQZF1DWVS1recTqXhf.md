@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1recTqXhf.md) - [plain]
 
 > Guided meditations for a variety of needs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,099 likes - 93 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,200 likes - 93 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1recTqXhf.md) - [plain]
 | 92 | [Guided Sleep Meditation with Breath](https://open.spotify.com/track/1c6hZ7dPT9xs99GYwec0sT) | [Mindful Mental Meditations](https://open.spotify.com/artist/4NU4cgUddV7hJ2Rq4MNWMC) | [Guided Sleep Meditation with Breath](https://open.spotify.com/album/1HQMK7m6g84PdtvuPbAUHd) | 6:32 |
 | 93 | [Body Scan](https://open.spotify.com/track/3DOkD6eRjeX22pYW00ciYy) | [Derek Turesky](https://open.spotify.com/artist/1FB0Zrw29XdrVIjq59gKWh) | [Mindfulness Meditation and Stress Reduction for Beginners: The Garden of NOW \(Audio CD\)](https://open.spotify.com/album/4y474ve7wvRhi7RP5Jr54k) | 16:53 |
 
-Snapshot ID: `aCsdegAAAABJhgcEoGVE2ka4qC2Q4bf+`
+Snapshot ID: `aCsdegAAAACwIJ6ufl0DZKQOt+rLDyXl`

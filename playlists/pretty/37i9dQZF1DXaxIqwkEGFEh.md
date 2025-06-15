@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: PayGotti
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,236,245 likes - 101 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,236,360 likes - 101 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 22 | [40 Mo' Reasons](https://open.spotify.com/track/61siK7W8gG1ixD974Ethya) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7) | [40 Mo' Reasons](https://open.spotify.com/album/181sHe6StSRnFdcM8UUrXK) | 3:22 |
 | 23 | [Outfit \(with 21 Savage\)](https://open.spotify.com/track/7ffZyi3DyQr8Q2612gcqwr) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 2:57 |
 | 24 | [Money On Money \(feat\. Future\)](https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Money On Money \(feat\. Future\)](https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO) | 3:56 |
-| 25 | [Seventeen](https://open.spotify.com/track/3VgFxRLEvav1ewTx5IaROh) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Seventeen](https://open.spotify.com/album/1xZkfphab61c5kqctCexP7) | 3:14 |
+| 25 | [Seventeen](https://open.spotify.com/track/3VgFxRLEvav1ewTx5IaROh) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Seventeen](https://open.spotify.com/album/1xZkfphab61c5kqctCexP7) | 3:13 |
 | 26 | [How To Bip](https://open.spotify.com/track/64rP4gEgmxJ8Jg5nN3fzDo) | [Rockout Danny](https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [How To Bip](https://open.spotify.com/album/57xr0iFHq2QFiEjszdBZ8Z) | 2:34 |
 | 27 | [Boogieman](https://open.spotify.com/track/7Mg5CBO37Rifk2RyDJ8fzd) | [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX) | [Boogieman](https://open.spotify.com/album/75XYL9gBsRC8wWbmbtzQHh) | 2:11 |
 | 28 | [Hood Cry](https://open.spotify.com/track/04hszpzZPMijTmaknHOyL4) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Hood Cry](https://open.spotify.com/album/7nA9R4BnhumlEE68gO461G) | 3:25 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 100 | [STREETS AIN'T THE SAME](https://open.spotify.com/track/3hQdlo5L4ZM1YIuiIHU78W) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [UNDEFEATED \- EP](https://open.spotify.com/album/0CLVJq9JGSbGABvSbWR09Z) | 2:41 |
 | 101 | [AR \(feat\. BigXthaPlug\)](https://open.spotify.com/track/6LTPUmfdE0Jdm29yvVAKA6) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [AR \(feat\. BigXthaPlug\)](https://open.spotify.com/album/7BoZu4OGWTN1WfJiLczq3V) | 3:16 |
 
-Snapshot ID: `AAAAAGhMh9kh+gGFU4PRamVOmML+GGE6`
+Snapshot ID: `aEuidQAAAAB+ducczr1SHJY4KfBI07uK`

@@ -186,7 +186,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 202965,
       "name": "Bibimbap",
       "url": "https://open.spotify.com/track/4CO7oeYMJeu8DRqXJtl7LV"
@@ -810,7 +810,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-23",
+      "date_removed": null,
       "duration_ms": 223920,
       "name": "Eats The Tale",
       "url": "https://open.spotify.com/track/0FDK9Vl9rgWm6PO5TBamvT"
@@ -2893,6 +2893,32 @@
     },
     {
       "album": {
+        "name": "Eternal Reverie Remixes, Pt. 2",
+        "url": "https://open.spotify.com/album/4xuZ2yWGAvpFcSL66oCAmX"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        },
+        {
+          "name": "Effy",
+          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198373,
+      "name": "Switch It - Effy Remix",
+      "url": "https://open.spotify.com/track/4KTiCBy7tUqVIogjgQWL5A"
+    },
+    {
+      "album": {
         "name": "Eternal Reverie Remixes, Pt. 1",
         "url": "https://open.spotify.com/album/3hHRdXKMuR20N678VUe0Lf"
       },
@@ -2916,7 +2942,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 201261,
       "name": "Switch It - Kingdom Remix",
       "url": "https://open.spotify.com/track/48RgmkzRRZA7SIEK9jlgmn"

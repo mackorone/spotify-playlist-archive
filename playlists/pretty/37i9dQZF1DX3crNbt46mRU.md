@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Kings Elliot, Mark Ronson and RAYE, Apache 207, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,329 likes - 99 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,336 likes - 99 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 34 | [Limits](https://open.spotify.com/track/4lZy04COQZzUWwN4ZKXuVC) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Limits](https://open.spotify.com/album/1YyBANQKziol2tkaFCWsOp) | 2:42 |
 | 35 | [Center Shock](https://open.spotify.com/track/7h8apGrNG1JWVHYcsyab6E) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Anomalie Pt.1](https://open.spotify.com/album/6jpOKOWkrwEM8F5l018DpI) | 2:40 |
 | 36 | [Burger Sauce](https://open.spotify.com/track/5CpGtiOPli1CvSwmNr489L) | [BOY LOCO](https://open.spotify.com/artist/6VemVOal7ebbuYJZSSCPvX) | [Herons Hideout](https://open.spotify.com/album/4wgT8oLPgr0VSEcIwMupoP) | 3:23 |
-| 37 | [HIGHLIFE](https://open.spotify.com/track/0LpQ7hO3YcTeArumOhz3WH) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [HIGHLIFE](https://open.spotify.com/album/4A9h68y8sVTAQ3FQOIsxv6) | 2:08 |
+| 37 | [Highlife](https://open.spotify.com/track/0LpQ7hO3YcTeArumOhz3WH) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Highlife](https://open.spotify.com/album/4A9h68y8sVTAQ3FQOIsxv6) | 2:08 |
 | 38 | [Let Me Take You](https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Let Me Take You](https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ) | 3:09 |
 | 39 | [Tu meurs pour moi ?](https://open.spotify.com/track/7MlXXC7yj072fU7SkhVkQs) | [DVM](https://open.spotify.com/artist/6Tzkt668w24f7uHLTiq6tr), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Tu meurs pour moi ?](https://open.spotify.com/album/4Sb8jA50RPtuzcQzX1FGRm) | 3:23 |
 | 40 | [Sto bene al mare \(feat\. Sayf & Rkomi\)](https://open.spotify.com/track/7bozAK8PtroF5owUL01coy) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Sto bene al mare \(feat\. Sayf & Rkomi\)](https://open.spotify.com/album/4NQBEzQomU36U3oaXTgKj4) | 2:47 |

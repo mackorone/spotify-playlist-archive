@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 46 | [Peace of Mind](https://open.spotify.com/track/4K0d1T6SUO9Ji9vyXl657d) | [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Peace of Mind](https://open.spotify.com/album/2hrhHhcevl0g70FBgynmIh) | 2:57 |
 | 47 | [Selfmade](https://open.spotify.com/track/5gPFjvxjZwHcYNzVa3YZEx) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:21 |
 | 48 | [You Don't Know](https://open.spotify.com/track/1eeP92z3DuzoZhLOtKq8jt) | [Dan Port](https://open.spotify.com/artist/6KA3l8F3e3uI8jYBIDGVH5) | [You Don't Know](https://open.spotify.com/album/5DVrx39jp6knd54awdgBg0) | 2:43 |
-| 49 | [Energy](https://open.spotify.com/track/5YoLcp1bzRTN8sNWXuGvxu) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Energy](https://open.spotify.com/album/1GdqL2xW6eVsnBhTRQmTVc) | 4:01 |
-| 50 | [Midnight Special](https://open.spotify.com/track/4RTjYcyAhLmYGi0QkU56If) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 2:47 |
+| 49 | [Midnight Special](https://open.spotify.com/track/4RTjYcyAhLmYGi0QkU56If) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 2:47 |
+| 50 | [Energy](https://open.spotify.com/track/5YoLcp1bzRTN8sNWXuGvxu) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Energy](https://open.spotify.com/album/1GdqL2xW6eVsnBhTRQmTVc) | 4:01 |
 | 51 | [Sweet Dreams](https://open.spotify.com/track/37GXIxCvM0Tq6rwsDHdYO6) | [Naxxos](https://open.spotify.com/artist/2iG0HNCECG2DxXxSUcMhEX) | [Sweet Dreams](https://open.spotify.com/album/0hyddra5kXgkos48Tg3u50) | 3:19 |
 | 52 | [Baby Teeth](https://open.spotify.com/track/6EmpAm2TG5olS2OEdGRsy8) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Baby Teeth](https://open.spotify.com/album/7GVHPxSJrUJcb3sA7DhiDS) | 3:16 |
 | 53 | [Magic Still Exists](https://open.spotify.com/track/0udYwuCYpStSlVouEDS7EW) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:22 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 117 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 118 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `Ab0D3gAAAACNBHv5BHBgHB8iEL1Sp409`
+Snapshot ID: `Ab0JagAAAABbFGEjSfx6pYZ+sOt3rkiq`

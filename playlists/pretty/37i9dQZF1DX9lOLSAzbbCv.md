@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOLSAzbbCv.md) - [plain]
 
 > Хіти українського репу\. Обкладинка: Міша Правильний, Гоня
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,730 likes - 55 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,738 likes - 55 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

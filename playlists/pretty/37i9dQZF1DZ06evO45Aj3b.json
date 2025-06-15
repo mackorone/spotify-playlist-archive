@@ -1,13 +1,33 @@
 {
   "description": "This is Dominic Fike. The essential tracks, all in one playlist.",
-  "num_followers": 93193,
+  "num_followers": 93206,
   "original_name": "This Is Dominic Fike",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAACD2gnCCruvGEvjciM9ou/T",
+  "snapshot_id": "aEtqAAAAAAC97TN7+FgTuJaYmsOQorgJ",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Geezer",
+        "url": "https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 169776,
+      "name": "Geezer",
+      "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
+    },
     {
       "added_at": null,
       "album": {

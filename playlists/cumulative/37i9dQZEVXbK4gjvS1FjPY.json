@@ -30195,6 +30195,24 @@
     },
     {
       "album": {
+        "name": "\u518d\u9047\u89c1\u4f60",
+        "url": "https://open.spotify.com/album/1h3EqAmIsaQVaOuO7xC6bQ"
+      },
+      "artists": [
+        {
+          "name": "Daryl Lee",
+          "url": "https://open.spotify.com/artist/2uCvo7X6kJ2iBELAei9aNE"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220781,
+      "name": "\u518d\u9047\u89c1\u4f60",
+      "url": "https://open.spotify.com/track/2i2sfWt2zXZMHjoCuAJDe6"
+    },
+    {
+      "album": {
         "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein)",
         "url": "https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2"
       },
@@ -30390,7 +30408,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 261000,
       "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
       "url": "https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh"

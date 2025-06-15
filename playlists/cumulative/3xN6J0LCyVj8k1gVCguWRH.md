@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist.
 
-5,026 songs - 11 day 17 hr 25 min
+5,028 songs - 11 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1132,6 +1132,7 @@
 | [Disease](https://open.spotify.com/track/3d1W39Pd0yvRfnsUJf8IzV) | [Enrose](https://open.spotify.com/artist/7EqFDFVWkQEtzEwCVwtqcN) | [Disease](https://open.spotify.com/album/4gUlGewIWMgAu64UAbEPvA) | 3:20 | 2022-09-22 | 2022-10-09 |
 | [Disguise](https://open.spotify.com/track/7JFsWb7Hz7bqJS2BnM1FuC) | [K.K.](https://open.spotify.com/artist/3PQxqn5ALBERvhCNx8JSPw) | [Disguise](https://open.spotify.com/album/72u481IXlI8FbGI3omQeCx) | 2:55 | 2020-08-02 | 2020-08-20 |
 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 | 2021-07-12 | 2021-11-19 |
+| [Distant](https://open.spotify.com/track/6XLmbs1FhNAeUVTCgXFvaF) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Distant](https://open.spotify.com/album/2Fe9DVV8LX8MDj04jf8Jyi) | 2:56 | 2025-06-14 |  |
 | [Distraction](https://open.spotify.com/track/3sfOHs2uLif4Z1Lk4mNewQ) | [Carlton Garceleon](https://open.spotify.com/artist/2u3H0v6ocq44i6l3QVCoRA) | [Distraction](https://open.spotify.com/album/4Ccu4orBf3E20YBljH6bCr) | 4:07 | 2024-10-26 | 2024-11-07 |
 | [Distractions](https://open.spotify.com/track/3HXvfZz5jwVY1jMS4WjaQ6) | [Ms\. Jesso](https://open.spotify.com/artist/7Ilc61qxkIiL8JwuMxWBEA) | [Distractions](https://open.spotify.com/album/1NVEj4PpxuARqIOPFlvfhk) | 3:24 | 2024-02-29 | 2024-03-08 |
 | [Diva](https://open.spotify.com/track/2N4Fs1jeggmilxMi0cyrRu) | [Qasim](https://open.spotify.com/artist/611DiraGc9sy6b10CKFOIW) | [Diva](https://open.spotify.com/album/4yuj3HTE9wo6uq9TViyRWK) | 3:00 | 2021-11-25 | 2021-12-18 |
@@ -2273,7 +2274,7 @@
 | [Japan \(Cory Enemy Remix\)](https://open.spotify.com/track/0O7svJdqeBtBmx8hQLQrp8) | [Jordan Bolch](https://open.spotify.com/artist/5W50j5JKTlmNOMh6ndEUji), [Cory Enemy](https://open.spotify.com/artist/4dJlBSxhy0VNbtPt5qsFHO) | [Worldwide Remixes](https://open.spotify.com/album/0OPI7jp6zKwHR6TeHyOsKO) | 2:49 | 2020-07-21 | 2020-08-02 |
 | [Jaws Of The Jungle](https://open.spotify.com/track/4rIftODZqgJcr2QiobT3Ks) | [Luke Biscan](https://open.spotify.com/artist/0ecmjFQ7mFaYMfC0jQMbFd) | [Revivalist](https://open.spotify.com/album/5zwp50Ie1exYWLvgcvCzLQ) | 5:58 | 2021-05-21 | 2021-06-06 |
 | [Jaye Lo](https://open.spotify.com/track/4fpkZnuLnjvVrpScd0tyMn) | [Azeez Sanusi](https://open.spotify.com/artist/3u8xZzq1bVqVXhzQM6NbRi) | [Azeez](https://open.spotify.com/album/6TAMJJpeWUIh4eFhOdR3Ej) | 3:40 | 2024-04-02 | 2024-04-11 |
-| [JAZZ FLUTE](https://open.spotify.com/track/0DXNMyPVEUylRYrFJhSfEE) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [JAZZ FLUTE](https://open.spotify.com/album/3OqpNAnsSVuGyISQZoimtQ) | 2:27 | 2025-05-24 |  |
+| [JAZZ FLUTE](https://open.spotify.com/track/0DXNMyPVEUylRYrFJhSfEE) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [JAZZ FLUTE](https://open.spotify.com/album/3OqpNAnsSVuGyISQZoimtQ) | 2:27 | 2025-05-24 | 2025-06-15 |
 | [Jazzberry Jam](https://open.spotify.com/track/2TvQGlO5frG3XOOXf3WxRj) | [Woz Neptune](https://open.spotify.com/artist/6roTcWmRbLPGM7plVqNAIQ) | [Jazzberry Jam](https://open.spotify.com/album/4bakcRj1v0lARWIyqkVZWu) | 7:20 | 2023-08-18 | 2023-09-26 |
 | [Jealous](https://open.spotify.com/track/0TxFoC0nmk01L9DTYYfRtX) | [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w), [JOEY DJIA](https://open.spotify.com/artist/1AnMnH9dLWFjuQ1DU4gOGb) | [Jealous](https://open.spotify.com/album/3Cm0tyTWOMnQ0uVVa4fSSm) | 3:15 | 2021-02-06 | 2021-02-20 |
 | [Jealous Sun](https://open.spotify.com/track/3WZJyhSsYXDLGFkHQlef7U) | [Lost Leaders](https://open.spotify.com/artist/6AYs5B12k1aePGAUpkaZnv) | [Jealous Sun](https://open.spotify.com/album/3ZPNoBy9iccgiqLDITJrKb) | 3:08 | 2024-05-10 | 2024-05-22 |
@@ -3491,6 +3492,7 @@
 | [Quicksand](https://open.spotify.com/track/7hSOiPkJNpQt1iGXs54FBQ) | [Elephant Castle](https://open.spotify.com/artist/1B2xz3ZP0Vuezwk4gGhbkD) | [Quicksand](https://open.spotify.com/album/0eGLLiTjp3IPecAJxZs5RB) | 4:21 | 2022-01-07 | 2022-02-18 |
 | [Quien Eres](https://open.spotify.com/track/4SOhaYjo8hyhTx5UTSk19s) | [Judy Buendia](https://open.spotify.com/artist/21ujQ8j6gHJn9MoZXH5loj) | [Quien Eres](https://open.spotify.com/album/3NF8zAVmldN1oms4GcL0pm) | 2:04 | 2022-06-24 | 2022-07-16 |
 | [Quiero Ser Tu Mundo](https://open.spotify.com/track/7HQshlxmUqljkBZtHmadVa) | [Nieto](https://open.spotify.com/artist/5fPUdSdmaee3to3xMTKXmA) | [Quiero Ser Tu Mundo](https://open.spotify.com/album/4E4GnrgqAVoV0Va40yPXQF) | 3:41 | 2024-04-12 | 2024-04-24 |
+| [QUIET YOUR MIND!!!](https://open.spotify.com/track/7JAlDql3voe0zDCnlPfz18) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [QUIET YOUR MIND!!!](https://open.spotify.com/album/3YwfxBHcReVAidtRrgOhsU) | 2:43 | 2025-06-14 |  |
 | [Quiniela](https://open.spotify.com/track/1c37TNRJERzT5zZQEjLnjh) | [Martín de Alicia](https://open.spotify.com/artist/020DzJBnq8dApSJtT3xQsj) | [Aré Lo Que Pude](https://open.spotify.com/album/6rhoyLU1tZR4BnAlMQppsO) | 3:57 | 2023-03-29 | 2023-04-23 |
 | [QUIT IN BLISS](https://open.spotify.com/track/2J5foZKOdULAGWT1zoAU6l) | [Chucky Factory Land](https://open.spotify.com/artist/0Z7qDTkutsqgtcavcVPd6o) | [WHAT HAPPEN IS ODD](https://open.spotify.com/album/4QAE4NJOx6r0L037WCrvib) | 2:41 | 2022-09-29 | 2022-10-18 |
 | [Quite Like You](https://open.spotify.com/track/1p325mdt23SuYtZFF8crKh) | [Cee Blu](https://open.spotify.com/artist/6zLrjLq53IwQmvnGJTRUbB) | [Quite Like You](https://open.spotify.com/album/61Yock6lHmNMGyw7phJfat) | 2:24 | 2024-02-14 | 2024-02-26 |

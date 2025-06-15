@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: Norah Hendriks
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,573 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,574 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 24 | [Dansen met de dood](https://open.spotify.com/track/4l9mEd8BcksX3maLREZaX5) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Dansen met de dood](https://open.spotify.com/album/3iKTDcSlzjaUlLfYENtrW7) | 3:24 |
 | 25 | [h\-e\-l\-p](https://open.spotify.com/track/5oNlohQIizMEY8EbzJLpub) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [voor alles bang / h\-e\-l\-p](https://open.spotify.com/album/3yVBy9LeYgznW4mA0Q6bOW) | 3:07 |
 | 26 | [Ik heb je zo gemist](https://open.spotify.com/track/78xwr7xEmWHXmIwliLNyyS) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [drift](https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y) | 3:22 |
-| 27 | [Weer Verliefd](https://open.spotify.com/track/11xGbQB9tJX9qtM9HHCDMf) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Weer Verliefd](https://open.spotify.com/album/6Ip4bbABf0n2qieViUxktD) | 3:21 |
-| 28 | [Koortsdroom](https://open.spotify.com/track/1Cor9T7xkYxRBdVX3hbaPN) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [Koortsdroom](https://open.spotify.com/album/6CSACtHjdRc1cUXaqHnebL) | 2:36 |
+| 27 | [Koortsdroom](https://open.spotify.com/track/1Cor9T7xkYxRBdVX3hbaPN) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [Koortsdroom](https://open.spotify.com/album/6CSACtHjdRc1cUXaqHnebL) | 2:36 |
+| 28 | [Weer Verliefd](https://open.spotify.com/track/11xGbQB9tJX9qtM9HHCDMf) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Weer Verliefd](https://open.spotify.com/album/6Ip4bbABf0n2qieViUxktD) | 3:21 |
 | 29 | [De Tijd](https://open.spotify.com/track/3S4ag2mjZWA7rxrhWWc1D3) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [De Tijd](https://open.spotify.com/album/4HckpkaqP3McpKkcscRbcr) | 3:33 |
 | 30 | [Toxisch](https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Toxisch](https://open.spotify.com/album/38nHPtWUaI6m5E52I8CDFC) | 2:42 |
 | 31 | [Ik Heb Tijd](https://open.spotify.com/track/7qXpqAZIeaqKh1VA9XbQVh) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Ik Heb Tijd](https://open.spotify.com/album/0UmqecBUudgRkeagngDkd9) | 3:16 |

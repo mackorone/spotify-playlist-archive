@@ -1,13 +1,29 @@
 {
   "description": "This is Meg Smith. The essential tracks, all in one playlist.",
-  "num_followers": 391,
+  "num_followers": 392,
   "original_name": "This Is Meg Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAADIBt3VgOaKeserMP3dH7Rg",
+  "snapshot_id": "aEtqAAAAAAAPcsc3IW3dz354axxAtvM2",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girls Just Wanna Be Famous",
+        "url": "https://open.spotify.com/album/3dTj9QX5l2YQl1qbyxnnZt"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 161060,
+      "name": "Girls Just Wanna Be Famous",
+      "url": "https://open.spotify.com/track/6K57TO1Y8uSQWNYdOXmSRE"
+    },
     {
       "added_at": null,
       "album": {
@@ -127,6 +143,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All the Things You'd Ruin",
+        "url": "https://open.spotify.com/album/3TduRYFyJAvXcA2TdwMFbv"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 166046,
+      "name": "All the Things You'd Ruin",
+      "url": "https://open.spotify.com/track/2VFIq4o2PFqddHWsDQe50c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "...but i'd miss you too much!",
         "url": "https://open.spotify.com/album/3vQxQx8nuRYjqUsImHbDmZ"
       },
@@ -139,22 +171,6 @@
       "duration_ms": 178301,
       "name": "...but i'd miss you too much!",
       "url": "https://open.spotify.com/track/76T8rvbzcIj4vquvc8y9YI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Hit Wonder",
-        "url": "https://open.spotify.com/album/0gENvRT2jAQJonb6sC6W22"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 200345,
-      "name": "One Hit Wonder",
-      "url": "https://open.spotify.com/track/314tXKMiK9aOSezLoyiCSN"
     },
     {
       "added_at": null,
@@ -175,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All the Things You'd Ruin",
-        "url": "https://open.spotify.com/album/3TduRYFyJAvXcA2TdwMFbv"
+        "name": "One Hit Wonder",
+        "url": "https://open.spotify.com/album/0gENvRT2jAQJonb6sC6W22"
       },
       "artists": [
         {
@@ -184,9 +200,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 166046,
-      "name": "All the Things You'd Ruin",
-      "url": "https://open.spotify.com/track/2VFIq4o2PFqddHWsDQe50c"
+      "duration_ms": 200345,
+      "name": "One Hit Wonder",
+      "url": "https://open.spotify.com/track/314tXKMiK9aOSezLoyiCSN"
     },
     {
       "added_at": null,

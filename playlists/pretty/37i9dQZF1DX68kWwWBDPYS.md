@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 
 > morrxs chidxs haciendo música chida\. Ivan Ivengo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,661 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,660 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 | 49 | [Tropezar](https://open.spotify.com/track/1rUv7qNQOT6Ak0eCWPITNg) | [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Tropezar](https://open.spotify.com/album/5y39t1EugMgkZWHKJFqXvZ) | 2:44 |
 | 50 | [Voces en mi mente](https://open.spotify.com/track/2U97hS7kT1Cu1hatTcab8e) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Arly Tafoya](https://open.spotify.com/artist/54h5QicVrtMrBsr2tb43t9) | [Voces en mi mente](https://open.spotify.com/album/0OGWa3tlg1xPCSo68ZTczX) | 2:57 |
 
-Snapshot ID: `aDArFwAAAAAW2jo/SDM8Kj38DZGBUzSV`
+Snapshot ID: `aDArFwAAAABndhfv0JIZUeoQ5MzQZ2v1`

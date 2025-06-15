@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-1,041 songs - 2 day 13 hr 17 min
+1,042 songs - 2 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2021-03-27 | 2021-05-31 |
 | [Blue](https://open.spotify.com/track/2UU11hvjN1JIn4iihEodNT) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 2:29 | 2023-09-09 | 2023-09-11 |
 | [Body \(Remix\) \[feat\. ArrDee, E1 \(3x3\), ZT \(3x3\), Bugzy Malone, Buni, Fivio Foreign & Darkoo\]](https://open.spotify.com/track/6uvMKqNlrSvcC4NaKnrwjZ) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [E1 \(3x3\)](https://open.spotify.com/artist/63ebc5zUpJ36aoTDQJHa9B), [ZT \(3x3\)](https://open.spotify.com/artist/2uIRmVaCVpHQjaVgph5clS), [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [Buni](https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Body \(Remix\) \[feat\. ArrDee, E1 \(3x3\), ZT \(3x3\), Bugzy Malone, Buni, Fivio Foreign & Darkoo\]](https://open.spotify.com/album/3ucQ8ogD2Li2U0rwkrdwlx) | 4:38 | 2021-05-09 | 2021-05-26 |
-| [BONO](https://open.spotify.com/track/13bOmUNMnr4kkg5O1q2x60) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [EN7RAF](https://open.spotify.com/album/1fobYepbyOWSEbIJnyIrLF) | 1:53 | 2025-04-04 |  |
+| [BONO](https://open.spotify.com/track/13bOmUNMnr4kkg5O1q2x60) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [EN7RAF](https://open.spotify.com/album/1fobYepbyOWSEbIJnyIrLF) | 1:53 | 2025-04-04 | 2025-06-15 |
 | [BONO](https://open.spotify.com/track/2Jsw1sLDq7Kzb05xkNS6LP) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [BONO](https://open.spotify.com/album/1uqEXTzK7dGspcFeL97krg) | 1:53 | 2025-04-02 | 2025-04-05 |
 | [Born Singer](https://open.spotify.com/track/1IthE5GNiRzFN5CVaCa445) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:58 | 2022-06-11 | 2022-06-13 |
 | [BOSAKBER](https://open.spotify.com/track/7siYT41awYbWCqJb63Qgiq) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [الرجل الذي فقد قلبه](https://open.spotify.com/album/05d95d67XSA7hIaijdy6HZ) | 4:15 | 2025-05-07 | 2025-05-09 |
@@ -871,6 +871,7 @@
 | [حلوة منك \(من فيلم "فوي! فوي! فوي!"\)](https://open.spotify.com/track/0UDDU3BpxRA9tuXvXXp8hY) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [حلوة منك \(من فيلم "فوي! فوي! فوي!"\)](https://open.spotify.com/album/68OVb1DYVsSjAbAVCl03SW) | 3:30 | 2023-09-08 | 2023-09-13 |
 | [حمرا](https://open.spotify.com/track/0nkJCooURSEVpWFpeYOzeI) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [حمرا](https://open.spotify.com/album/0g8MIat372o8vp1Shk1sMe) | 3:38 | 2023-03-14 | 2023-07-07 |
 | [حمرا حمو الطيخا](https://open.spotify.com/track/0O31XAenULKHHAE5wQjhMs) | [Hr\-Muisc1](https://open.spotify.com/artist/2hmqMeLn6oIt4CJS0Wxr0W) | [حمرا حمو الطيخا](https://open.spotify.com/album/6pzMvIbmXlPYgxHCcni6py) | 3:38 | 2023-03-03 | 2023-03-15 |
+| [خابط نفسي بسلاح حامي](https://open.spotify.com/track/7FJ7Lnc06wTrNXkskAg0Ud) | [Magdy El Zahar](https://open.spotify.com/artist/5CSaIf8OAstAYE5oqQeS15) | [خابط نفسي بسلاح حامي](https://open.spotify.com/album/1wPsE8kvr3lfGVT2ivywMN) | 3:31 | 2025-06-14 |  |
 | [خد و هات](https://open.spotify.com/track/1AfioCIHFE3Ny3kTBppiP9) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [L5VAV](https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u) | [خد و هات](https://open.spotify.com/album/3DIpQbx2oJvHuZm37Gctpr) | 2:43 | 2021-06-04 | 2022-03-06 |
 | [خضره](https://open.spotify.com/track/2pBLZecKjIIHKnAxS6GfLN) | [amadio](https://open.spotify.com/artist/2s7SZA5iFk03lGBl1bGofj) | [خضره](https://open.spotify.com/album/0e1CeloR3wxlWPEZcPGkkJ) | 2:25 | 2023-03-08 | 2023-03-11 |
 | [خضره \- متي اشوفك](https://open.spotify.com/track/50VIdPGBGBsE9K4RyNf56A) | [amadio](https://open.spotify.com/artist/2s7SZA5iFk03lGBl1bGofj), [Khadra Mohamed Khedr](https://open.spotify.com/artist/4mhP8OWyNDZJbXJnnj7Cb8) | [خضره \(متي اشوفك\)](https://open.spotify.com/album/12oAamMej3DmmUzJXJEmSA) | 2:25 | 2023-03-20 | 2023-04-02 |

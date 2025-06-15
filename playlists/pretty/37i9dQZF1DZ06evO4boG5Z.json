@@ -1,12 +1,12 @@
 {
   "description": "This is Millencolin. The essential tracks, all in one playlist.",
-  "num_followers": 29161,
+  "num_followers": 29166,
   "original_name": "This Is Millencolin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAADdRfgC0jyR5L6KVzAI61bV",
+  "snapshot_id": "aEtqAAAAAAC43aNAad0q6Hoo507blne2",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 181113,
-      "name": "Reach You",
-      "url": "https://open.spotify.com/track/22zTKGC2eewB8ziExjvE1C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kingwood",
         "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
       },
@@ -571,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 181113,
+      "name": "Reach You",
+      "url": "https://open.spotify.com/track/22zTKGC2eewB8ziExjvE1C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For Monkeys",
         "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
       },
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Brew",
-        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 119946,
-      "name": "Autopilot Mode",
-      "url": "https://open.spotify.com/track/14ct5CdYOAHOeLqFRCWyCk"
+      "duration_ms": 170480,
+      "name": "Greener Grass",
+      "url": "https://open.spotify.com/track/4m2IM9lmxgXWOyKeWsACkU"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home From Home",
-        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 170480,
-      "name": "Greener Grass",
-      "url": "https://open.spotify.com/track/4m2IM9lmxgXWOyKeWsACkU"
+      "duration_ms": 119946,
+      "name": "Autopilot Mode",
+      "url": "https://open.spotify.com/track/14ct5CdYOAHOeLqFRCWyCk"
     },
     {
       "added_at": null,

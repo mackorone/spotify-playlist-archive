@@ -1,29 +1,13 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5609,
+  "num_followers": 5612,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAAOZN0Gn7uKyQ1pahnclC5+",
+  "snapshot_id": "aEtqAAAAAAAvseZikY135uyuQmsB5zsc",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Hook",
-        "url": "https://open.spotify.com/album/6OwJ9S4elSLEbD1KnB6J2Z"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 96421,
-      "name": "No Hook",
-      "url": "https://open.spotify.com/track/1i4ecQNz28w6NTWGxIg1xE"
-    },
     {
       "added_at": null,
       "album": {
@@ -363,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Hook",
+        "url": "https://open.spotify.com/album/6OwJ9S4elSLEbD1KnB6J2Z"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 96421,
+      "name": "No Hook",
+      "url": "https://open.spotify.com/track/1i4ecQNz28w6NTWGxIg1xE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAJORLY INDEPENDENT",
         "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
       },
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i hope u see this (deluxe)",
-        "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "inhibitions (feat. P-Lo)",
-      "url": "https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do It For The Bay",
         "url": "https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 118551,
       "name": "Do It For The Bay",
       "url": "https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i hope u see this (deluxe)",
+        "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "inhibitions (feat. P-Lo)",
+      "url": "https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz"
     },
     {
       "added_at": null,
@@ -695,30 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The Soil",
-        "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Karri",
-          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
-        },
-        {
-          "name": "Goapele",
-          "url": "https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq"
-        }
-      ],
-      "duration_ms": 217710,
-      "name": "Suede",
-      "url": "https://open.spotify.com/track/7rE63u9OUe86CJbBF0jdAN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Connected And Respected",
         "url": "https://open.spotify.com/album/2BThd0FFROidBahO46lH1y"
       },
@@ -739,6 +715,30 @@
       "duration_ms": 221287,
       "name": "Boy (feat. P-Lo)",
       "url": "https://open.spotify.com/track/2YjFfpWIEWu4F7BFxevDqv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For The Soil",
+        "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        },
+        {
+          "name": "Goapele",
+          "url": "https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq"
+        }
+      ],
+      "duration_ms": 217710,
+      "name": "Suede",
+      "url": "https://open.spotify.com/track/7rE63u9OUe86CJbBF0jdAN"
     },
     {
       "added_at": null,
@@ -827,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Going To Work - Single",
+        "url": "https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 197187,
+      "name": "Going To Work",
+      "url": "https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Moovie!",
         "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 218453,
       "name": "Mad",
       "url": "https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Going To Work - Single",
-        "url": "https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 197187,
-      "name": "Going To Work",
-      "url": "https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM"
     },
     {
       "added_at": null,
@@ -911,26 +911,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Wonderful, Horrible Life",
-        "url": "https://open.spotify.com/album/46U6rPJZ6KgSA0vxfk4LjR"
+        "name": "Make a Move",
+        "url": "https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX"
       },
       "artists": [
         {
-          "name": "Travis Thompson",
-          "url": "https://open.spotify.com/artist/6WZfEqqsYujHTUDuNd5Lbc"
-        },
-        {
-          "name": "Nima Skeemz",
-          "url": "https://open.spotify.com/artist/76eeQ1SvMw40dTDVx526Kw"
+          "name": "Jeff Bernat",
+          "url": "https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 168342,
-      "name": "Vomit",
-      "url": "https://open.spotify.com/track/1JV0Y3sDRssmKgWuCwL0qW"
+      "duration_ms": 144060,
+      "name": "Make a Move",
+      "url": "https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx"
     },
     {
       "added_at": null,
@@ -963,22 +959,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Make a Move",
-        "url": "https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX"
+        "name": "My Wonderful, Horrible Life",
+        "url": "https://open.spotify.com/album/46U6rPJZ6KgSA0vxfk4LjR"
       },
       "artists": [
         {
-          "name": "Jeff Bernat",
-          "url": "https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u"
+          "name": "Travis Thompson",
+          "url": "https://open.spotify.com/artist/6WZfEqqsYujHTUDuNd5Lbc"
+        },
+        {
+          "name": "Nima Skeemz",
+          "url": "https://open.spotify.com/artist/76eeQ1SvMw40dTDVx526Kw"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 144060,
-      "name": "Make a Move",
-      "url": "https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx"
+      "duration_ms": 168342,
+      "name": "Vomit",
+      "url": "https://open.spotify.com/track/1JV0Y3sDRssmKgWuCwL0qW"
     },
     {
       "added_at": null,
@@ -1023,26 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEMONADE FREESTYLE REMIX",
-        "url": "https://open.spotify.com/album/2mo4R7bNtsrvgpEgIj4BC4"
-      },
-      "artists": [
-        {
-          "name": "Darrell Medellin",
-          "url": "https://open.spotify.com/artist/1AaJ2wvoRTdxYhmGa4Akwl"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 142654,
-      "name": "LEMONADE FREESTYLE REMIX",
-      "url": "https://open.spotify.com/track/5dx8Qd8i1zCNHGh8O7QTkD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Extra",
         "url": "https://open.spotify.com/album/7iaqS5zgcPJsL5L0mLZ3uA"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 126896,
       "name": "Extra",
       "url": "https://open.spotify.com/track/3rkMh0mKXqyFbK2WtiizU5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEMONADE FREESTYLE REMIX",
+        "url": "https://open.spotify.com/album/2mo4R7bNtsrvgpEgIj4BC4"
+      },
+      "artists": [
+        {
+          "name": "Darrell Medellin",
+          "url": "https://open.spotify.com/artist/1AaJ2wvoRTdxYhmGa4Akwl"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 142654,
+      "name": "LEMONADE FREESTYLE REMIX",
+      "url": "https://open.spotify.com/track/5dx8Qd8i1zCNHGh8O7QTkD"
     },
     {
       "added_at": null,
@@ -1111,22 +1111,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "TICKET",
-        "url": "https://open.spotify.com/album/7rIXRUZbZHQiQJbagDCxN8"
+        "name": "STUNNA",
+        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
       },
       "artists": [
-        {
-          "name": "PRICE",
-          "url": "https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse"
-        },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 132998,
-      "name": "TICKET",
-      "url": "https://open.spotify.com/track/3ZlOoJ5H5uyFraYwAZQsA5"
+      "duration_ms": 158693,
+      "name": "Lightswitch",
+      "url": "https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR"
     }
   ],
   "unique_name": "This Is P-Lo",

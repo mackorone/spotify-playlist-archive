@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 49522,
+  "num_followers": 49542,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/27RB4wbSSei1uyDJfrsxT2"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 209240,
+      "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
+      "url": "https://open.spotify.com/track/0yE5Uqw60fj0pGpsvtDnDQ"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
         "name": "Lo Qu\u00e9 Pide La Gente",
         "url": "https://open.spotify.com/album/4Nw5le2E6AhNXU4GDFIGl0"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 193440,
       "name": "Pa'l 23",
       "url": "https://open.spotify.com/track/1mSdpVmDxvZKa80PykOlHZ"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/27RB4wbSSei1uyDJfrsxT2"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 209240,
-      "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
-      "url": "https://open.spotify.com/track/0yE5Uqw60fj0pGpsvtDnDQ"
     },
     {
       "added_at": "2024-09-24 21:05:36",

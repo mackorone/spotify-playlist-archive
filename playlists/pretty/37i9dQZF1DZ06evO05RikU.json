@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 43068,
+  "num_followers": 43065,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAABlmF1l/SQto1Zg7pnGFtdL",
+  "snapshot_id": "aEtqAAAAAACndqxqEaH+Lv8cOmu2L/a6",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,30 @@
       "duration_ms": 218800,
       "name": "Marte",
       "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MiuMiu",
+        "url": "https://open.spotify.com/album/1fWk1CMAtVYbXJTUZKUohA"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 179374,
+      "name": "MiuMiu",
+      "url": "https://open.spotify.com/track/06P2zNCmRsB8aQBZo78D2o"
     },
     {
       "added_at": null,
@@ -1043,30 +1067,6 @@
       "duration_ms": 170765,
       "name": "1, 2, 3 - Sped Up",
       "url": "https://open.spotify.com/track/2RJnhDvc6Z4xwMX6hhkeRX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Goofy, Pt. 2 (Remix)",
-        "url": "https://open.spotify.com/album/2azRGXriZ9DLXQ0JGrQBaC"
-      },
-      "artists": [
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "MishCatt",
-          "url": "https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 201061,
-      "name": "Goofy, Pt. 2 - Remix",
-      "url": "https://open.spotify.com/track/2wBp1MT7ivIUYcF7oVlM3n"
     }
   ],
   "unique_name": "This Is Sof\u00eda Reyes",

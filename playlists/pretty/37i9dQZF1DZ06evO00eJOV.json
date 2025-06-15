@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAAQZj53pVWDp6QQoSRCIHOP",
+  "snapshot_id": "aEtqAAAAAADTaM1by87qTNEpDJB9qgtd",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mina Nawe",
-        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 229240,
-      "name": "Vuma",
-      "url": "https://open.spotify.com/track/6mWsjfFrRkdIr03LBN0Zpa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano Republik",
         "url": "https://open.spotify.com/album/4EPyqparNEvWk2gbHgXPzO"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 236379,
       "name": "Mamgobhozi",
       "url": "https://open.spotify.com/track/4SJW5gKYzROFzzgsJlVFov"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mina Nawe",
+        "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 229240,
+      "name": "Vuma",
+      "url": "https://open.spotify.com/track/6mWsjfFrRkdIr03LBN0Zpa"
     },
     {
       "added_at": null,
@@ -327,6 +327,22 @@
       "duration_ms": 297840,
       "name": "Kenang Bohle",
       "url": "https://open.spotify.com/track/1ZarN2H9sexCr38Rlm06NU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amadlozi",
+        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 277680,
+      "name": "Nakupenda (I Love You)",
+      "url": "https://open.spotify.com/track/0blTOYXnFJ57BmSgXLU7NR"
     },
     {
       "added_at": null,
@@ -379,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amadlozi",
-        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
+        "name": "Ag Shame Lovey",
+        "url": "https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8"
       },
       "artists": [
         {
@@ -388,9 +404,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 277680,
-      "name": "Nakupenda (I Love You)",
-      "url": "https://open.spotify.com/track/0blTOYXnFJ57BmSgXLU7NR"
+      "duration_ms": 245973,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/6qhfrCJkCrQsyhqt1tpRIG"
     },
     {
       "added_at": null,
@@ -411,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ag Shame Lovey",
-        "url": "https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8"
+        "name": "Ag Shame Lovey (Live Remixed)",
+        "url": "https://open.spotify.com/album/0dGDWDL5KogcG3f5DGH744"
       },
       "artists": [
         {
@@ -420,9 +436,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 245973,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/6qhfrCJkCrQsyhqt1tpRIG"
+      "duration_ms": 319146,
+      "name": "Ag Shame Lovey",
+      "url": "https://open.spotify.com/track/2AHfwp6WJIYDVu2ZM4MlMS"
     },
     {
       "added_at": null,
@@ -439,22 +455,6 @@
       "duration_ms": 301986,
       "name": "Matshidiso",
       "url": "https://open.spotify.com/track/3rcrsKkRXu7EnVHLCdrUGF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ag Shame Lovey (Live Remixed)",
-        "url": "https://open.spotify.com/album/0dGDWDL5KogcG3f5DGH744"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 319146,
-      "name": "Ag Shame Lovey",
-      "url": "https://open.spotify.com/track/2AHfwp6WJIYDVu2ZM4MlMS"
     },
     {
       "added_at": null,

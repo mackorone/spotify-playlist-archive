@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-239 songs - 12 hr 18 min
+243 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Nonsense Christmas](https://open.spotify.com/track/7yogx3TwxGwSxO2QITsT2q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [A Nonsense Christmas](https://open.spotify.com/album/2D2boDrCPl6idtxpJF6r38) | 2:33 | 2024-06-07 |  |
 | [Ain't That What You Do](https://open.spotify.com/track/51OeNHCbd4CKd0UqUT2MsI) | [Jas Von](https://open.spotify.com/artist/3e8Hd1noAoVXhnoTgClAXr) | [Ain't That What You Do](https://open.spotify.com/album/0pnaRFsAq2j8VsDtOV3Xsp) | 2:30 | 2025-05-22 |  |
 | [All Hours](https://open.spotify.com/track/01opyHvH01jYVd8zWeQSgQ) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [All Hours](https://open.spotify.com/album/74ce7TvmnTieNsiQyZIHv5) | 3:01 | 2024-06-07 |  |
+| [All My Life](https://open.spotify.com/track/0Hb0Z2YDsu8WKZlj8jSfMw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:56 | 2025-06-14 |  |
 | [All or Nothing](https://open.spotify.com/track/0wD2zvN5F2PIHGSruEI7Z0) | [Juliet Simms](https://open.spotify.com/artist/1hlXIybvN1I8r3ooBEkYRh) | [All or Nothing](https://open.spotify.com/album/5GfHdio41TToJDpLe32E23) | 2:39 | 2024-06-07 |  |
 | [All That Matters](https://open.spotify.com/track/1t6vYFo0SKUwFlw61yqgzV) | [Nashville Cast](https://open.spotify.com/artist/2NvmDZar6FF2CICK1yBS4I), [Jenny Leigh](https://open.spotify.com/artist/7u5Rv5EbPxXwt5liLsO02O) | [Nashville, Season 6: Episode 16 \(Music from the Original TV Series\)](https://open.spotify.com/album/0cPbP2k3C4sagc9D0J9Zut) | 2:46 | 2024-06-07 |  |
 | [Almost Forgot](https://open.spotify.com/track/0htezQjIT0FNJQoZb6EJql) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Past Lives](https://open.spotify.com/album/2OmHMlPVPmSWV77JxiDaYA) | 3:28 | 2024-06-07 |  |
@@ -111,6 +112,7 @@
 | [History Repeats](https://open.spotify.com/track/0ucLZT4jED0aWgnIAiRbvn) | [Josh Gracin](https://open.spotify.com/artist/1456WwI15Lm9CktCzkLZvm) | [History Repeats](https://open.spotify.com/album/6ohj3dFAJb2R2HlEwQPtjH) | 3:46 | 2024-06-07 | 2025-05-20 |
 | [History Repeats](https://open.spotify.com/track/7dFsoGLprht6qoV6Y2Gnxr) | [Josh Gracin](https://open.spotify.com/artist/1456WwI15Lm9CktCzkLZvm) | [History Repeats](https://open.spotify.com/album/3Ysi1w1iJIABWUiIachiNv) | 3:46 | 2025-05-19 |  |
 | [hole in the bottle](https://open.spotify.com/track/2yySWxfeRN2QRZnFMnYMQl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 2:35 | 2024-06-07 |  |
+| [How Can I Ever Get Over You?](https://open.spotify.com/track/69xgSicH4XO1MqEUyHjGyp) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [How Can I Ever Get Over You?](https://open.spotify.com/album/2oi54SD01JIVD2Y6Ml0J5k) | 2:59 | 2025-06-14 |  |
 | [I Eat Boys](https://open.spotify.com/track/2DdBoqYiuaGWIHwSkiY3VR) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 2:42 | 2024-06-07 |  |
 | [I Feel Like Dancing](https://open.spotify.com/track/3d2J1W0Msqt6z0TkF0ywLk) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/4HCUsZGlWSq1GrpgA9167A) | 3:38 | 2024-06-07 |  |
 | [I Hope You Know](https://open.spotify.com/track/7gHVneUdwNT64NMOmoQPbj) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [I Hope You Know](https://open.spotify.com/album/7jWSCcIR5PEUKCIrkePSmo) | 3:19 | 2024-06-07 |  |
@@ -140,6 +142,7 @@
 | [Knock](https://open.spotify.com/track/2joLxoigsMO8cfWpjgbn0M) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Choosing You](https://open.spotify.com/album/3ic1j88D0kLfyBKotz1RFP) | 3:19 | 2024-06-07 |  |
 | [Kool](https://open.spotify.com/track/5j8B7LSCepVPnwUrNB4pXt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:11 | 2024-06-07 |  |
 | [L.O.V.E.](https://open.spotify.com/track/5v6Zl83YKRsNBu8DevZ8ow) | [MAYCE](https://open.spotify.com/artist/5MLjCi6tlmcBXNyklgRzaZ) | [Cry For Help](https://open.spotify.com/album/3kigMOOCboaYxSI3HedLdS) | 3:00 | 2024-06-07 |  |
+| [Leave Me Alone](https://open.spotify.com/track/1T38okUZknebljidMNSvfJ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Leave Me Alone](https://open.spotify.com/album/3BKy2tD6GZCsfYkmgWkdbq) | 2:21 | 2025-06-14 |  |
 | [Let Me Down Easy](https://open.spotify.com/track/07uMDONIdcNsmC6a5B9dhy) | [Jane XØ](https://open.spotify.com/artist/5keDbKEPwrbe36cPzRpzsK), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Let Me Down Easy](https://open.spotify.com/album/2cggd5i8TUskOfS2TdhgVS) | 3:12 | 2024-06-07 | 2025-04-29 |
 | [Let Me Down Easy](https://open.spotify.com/track/2azuks8nAnGfe3K9H0dKaJ) | [Jane XØ](https://open.spotify.com/artist/5keDbKEPwrbe36cPzRpzsK), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Let Me Down Easy](https://open.spotify.com/album/7swmVm1TlBGvcPiCKOuoxZ) | 3:12 | 2025-04-28 |  |
 | [Let Me Move You \- From the Netflix film "Work It"](https://open.spotify.com/track/0roOLcll6SSTYZwsQFmXqP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Let Me Move You \(From the Netflix film Work It\)](https://open.spotify.com/album/3Ytt3q5EhvSCbvCTrVkz11) | 2:27 | 2024-06-07 |  |
@@ -247,5 +250,6 @@
 | [wrong girl](https://open.spotify.com/track/5h5gQnX1FaFVYRhReyGQUV) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [heart theory](https://open.spotify.com/album/4aWrYo1HHAwk367y7PJzIm) | 2:36 | 2024-06-07 |  |
 | [WYA](https://open.spotify.com/track/4jLn0A5vbC3Nh7oaL4Cbgc) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Junk](https://open.spotify.com/album/7DfD1AIvTaHaj1HKTmGkQg) | 3:11 | 2024-06-07 |  |
 | [You're Cool](https://open.spotify.com/track/2bWIYp9KRcClACWoQtytU1) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Not Afraid to Say Goodbye](https://open.spotify.com/album/76ahXbGodPCqMpKrTHWCpe) | 2:28 | 2024-06-07 |  |
+| [YoYo](https://open.spotify.com/track/2Buz2pUvqM5xT28KuCGZJ7) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [Bodyology](https://open.spotify.com/album/5qok8IPBfEexiGz31oz3H6) | 3:08 | 2025-06-14 |  |
 
 \*This playlist was first scraped on 2024-06-08. Prior content cannot be recovered.

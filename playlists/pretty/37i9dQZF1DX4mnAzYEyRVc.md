@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Sondaschule
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,792 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,817 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 50 | [Maldita Soledad](https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:09 |
 | 51 | [Delfino](https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 5:02 |
 | 52 | [Cha\-Cha Love](https://open.spotify.com/track/5Wv7CUKoTdUOk1KwaBTHFW) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Cha\-Cha Love](https://open.spotify.com/album/40CNNWcq16RQiAIuY7HDue) | 3:34 |
-| 53 | [I Had Some Help](https://open.spotify.com/track/16vZqHIxTpNbsI7pNVPtmw) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM), [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [I Had Some Help](https://open.spotify.com/album/7KjCryDYEfzwFJNaL93Eb0) | 2:39 |
+| 53 | [Magam sem tudom](https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk) | [Bohemian Betyars](https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow) | [Magam sem tudom](https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r) | 3:10 |
 | 54 | [Wir kommen in Frieden](https://open.spotify.com/track/0V17DNUknI1TDWwQ4W0UN6) | [Feine Sahne Fischfilet](https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31) | [Wir kommen in Frieden](https://open.spotify.com/album/0lzS8AmVEYtiQ2kQDjwVjq) | 3:54 |
-| 55 | [Magam sem tudom](https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk) | [Bohemian Betyars](https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow) | [Magam sem tudom](https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r) | 3:10 |
+| 55 | [I Had Some Help](https://open.spotify.com/track/16vZqHIxTpNbsI7pNVPtmw) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM), [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [I Had Some Help](https://open.spotify.com/album/7KjCryDYEfzwFJNaL93Eb0) | 2:39 |
 | 56 | [Leven Het Groots](https://open.spotify.com/track/3WaWlhDgXD8ljeO3dqQd3q) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc), [Kenny B](https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP) | [Leven Het Groots](https://open.spotify.com/album/2a0OmGXhmN3U0GN8BKP6by) | 2:31 |
 | 57 | [My Commanding Wife](https://open.spotify.com/track/1Yioe436ryeIRmiEzsrzVv) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Rabanes](https://open.spotify.com/album/388hQ9HODVgaonBXDEznFh) | 3:04 |
 | 58 | [I Wanna Riot](https://open.spotify.com/track/3prgCqodybVT758HNY2SXW) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [All The Moon Stompers](https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot) | 3:11 |

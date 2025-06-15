@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-93 songs - 4 hr 44 min
+94 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Musica Italiana](https://open.spotify.com/track/3m2loz99NJ3z8UYEFcFdmS) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Musica Italiana](https://open.spotify.com/album/753BrMSZZPDcA4Ue5MdF6u) | 3:03 | 2024-04-16 |  |
 | [NERO GOTICO](https://open.spotify.com/track/1KZKtIn6ul3F68mY4YY0cg) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7u25F0vMvoStxcrqvzYGgp) | 3:04 | 2024-10-12 |  |
 | [NERO GOTICO](https://open.spotify.com/track/6KbUvkzreQlxHvqaCaBLRs) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [NERO GOTICO](https://open.spotify.com/album/0JiU4u8hx5PbwDgfEHYRmg) | 3:04 | 2024-09-26 | 2024-10-13 |
+| [NIENTE DI MALE](https://open.spotify.com/track/7CZZxHf4DZxiTnrVxeMqOt) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [NIENTE DI MALE](https://open.spotify.com/album/4uZZ29NchGBafGvRaRYVEI) | 3:37 | 2025-06-14 |  |
 | [Non cambia mai](https://open.spotify.com/track/6gmB182UrCJnMHZTrxqUNv) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Voglio la gonna](https://open.spotify.com/album/70SXCWuJY7sw8EIblrp3iq) | 3:10 | 2023-04-04 | 2024-10-10 |
 | [Nuvole di zanzare](https://open.spotify.com/track/5WGBPphxMAMtxEOIPGsqeJ) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [Alma](https://open.spotify.com/album/0py7R4xpnEanAfBHggX7ms) | 3:01 | 2022-09-16 |  |
 | [Occhi verdi](https://open.spotify.com/track/3J4gqixO14RACrX3ISIR4l) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Il cielo contromano su Giove](https://open.spotify.com/album/21gWOI8QKz6gRqEEyUJbdy) | 3:43 | 2022-09-16 |  |

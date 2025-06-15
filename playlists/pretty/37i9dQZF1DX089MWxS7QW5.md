@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: youz\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,442 likes - 49 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,461 likes - 49 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 48 | [heartache](https://open.spotify.com/track/2W3eDfdnFboHHilObGYmJm) | [SO HYUN](https://open.spotify.com/artist/5VLiLdWwqGX5eyXqog2le1) | [heartache](https://open.spotify.com/album/3K83Uwok7tqoyzwxuxE2ug) | 2:44 |
 | 49 | [frozen](https://open.spotify.com/track/15cVnQOz5SoIoNHbbvfSxD) | [wooseojun](https://open.spotify.com/artist/2InIBQmGiH1ueUh4gdJQ3b) | [4her](https://open.spotify.com/album/0s9ehc7NAUOTBDFuv1ISzG) | 3:43 |
 
-Snapshot ID: `aEDmXgAAAADTWWfTc3tQ8tDYOZKglH7Z`
+Snapshot ID: `aEDmXgAAAADfN7LfUGoVBwmpZ7/7c3qE`

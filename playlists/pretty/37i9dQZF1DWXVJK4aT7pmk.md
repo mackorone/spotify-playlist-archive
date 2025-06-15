@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 
 > Catch the hottest Punjabi tracks\. Cover \- Shubh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,309,889 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,310,662 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 | 49 | [O Shera \- Teer Te Taj \(Film Version\) \- From "Kesari Chapter 2"](https://open.spotify.com/track/0bEGXuQwXNF61JDXP47h9i) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Sangtar](https://open.spotify.com/artist/0DhoozKChWygwuEQKGagwl), [Manmohan Waris](https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5), [Kamal Heer](https://open.spotify.com/artist/2S3lVn4PcnGcbKKu7nsDL6), [Sukhwinder Amrit](https://open.spotify.com/artist/6Ok2Tk9CyqWrWOZFcnMG72) | [O Shera \- Teer Te Taj \(Film Version\) \[From "Kesari Chapter 2"\]](https://open.spotify.com/album/26sc7lMVSZk8jHnLDqdLjH) | 2:32 |
 | 50 | [Rhyme Ain’t Done](https://open.spotify.com/track/49aQ9RbGCOEu8oxkYr8Ous) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Bajwa](https://open.spotify.com/artist/235cIEn6QoaIkUtO2lLQzA) | [The Finest](https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy) | 3:01 |
 
-Snapshot ID: `AAAAAIWT6YKjNSyVD3VC3FL3X6rRfpuY`
+Snapshot ID: `aEwR9gAAAAD9y+tciM4S1dSC/hafgCOK`

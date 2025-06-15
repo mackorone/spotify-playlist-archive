@@ -2382,7 +2382,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 113142,
       "name": "BONO",
       "url": "https://open.spotify.com/track/13bOmUNMnr4kkg5O1q2x60"
@@ -16952,6 +16952,24 @@
       "duration_ms": 218435,
       "name": "\u062d\u0645\u0631\u0627 \u062d\u0645\u0648 \u0627\u0644\u0637\u064a\u062e\u0627",
       "url": "https://open.spotify.com/track/0O31XAenULKHHAE5wQjhMs"
+    },
+    {
+      "album": {
+        "name": "\u062e\u0627\u0628\u0637 \u0646\u0641\u0633\u064a \u0628\u0633\u0644\u0627\u062d \u062d\u0627\u0645\u064a",
+        "url": "https://open.spotify.com/album/1wPsE8kvr3lfGVT2ivywMN"
+      },
+      "artists": [
+        {
+          "name": "Magdy El Zahar",
+          "url": "https://open.spotify.com/artist/5CSaIf8OAstAYE5oqQeS15"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "\u062e\u0627\u0628\u0637 \u0646\u0641\u0633\u064a \u0628\u0633\u0644\u0627\u062d \u062d\u0627\u0645\u064a",
+      "url": "https://open.spotify.com/track/7FJ7Lnc06wTrNXkskAg0Ud"
     },
     {
       "album": {

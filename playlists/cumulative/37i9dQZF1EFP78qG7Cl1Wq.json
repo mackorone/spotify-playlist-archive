@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207750,
+      "name": "Best For Me",
+      "url": "https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E"
+    },
+    {
+      "album": {
         "name": "Higher Than Heaven (Deluxe)",
         "url": "https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq"
       },
@@ -3612,7 +3630,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 228040,
       "name": "Right Moves (feat. Keida & Shenseea)",
       "url": "https://open.spotify.com/track/10EdIGnkizaN7v1uYljTd7"

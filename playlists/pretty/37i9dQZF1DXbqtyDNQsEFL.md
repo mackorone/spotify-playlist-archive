@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Dr\. Prinz and Chizie
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,885 likes - 80 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,913 likes - 80 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 65 | [Grace Story](https://open.spotify.com/track/4ZWMGSggxHp87KTvRoyfFn) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ), [Ellie Scotte](https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM) | [Grace Story](https://open.spotify.com/album/5SnU87GPAGjPvYNMFsknCQ) | 7:03 |
 | 66 | [Praise The Lord](https://open.spotify.com/track/5HVAC7q0ZhOt2PWoXKiYqj) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Fearless Community](https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A), [Anderson Qozan](https://open.spotify.com/artist/4msmthFt2XFTVxINZhiaxN) | [Praise The Lord](https://open.spotify.com/album/0q2F3gGEsvczdPqHpC1SHt) | 2:56 |
 | 67 | [Yes Sir](https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Yes Sir](https://open.spotify.com/album/7IgNfEsxY4OxlNmPrJHoB4) | 4:48 |
-| 68 | [ÒGO](https://open.spotify.com/track/3bYQ5UKUC5wcSR3aEyAd9P) | [Sola Allyson](https://open.spotify.com/artist/3NRO4pLQaU0eXYX5SwYtAY) | [ÒGO](https://open.spotify.com/album/0Kz4rKvHzi6bWBZskRCmKW) | 6:24 |
-| 69 | [B'ola \(Live\)](https://open.spotify.com/track/6ooOrOuruo2lZdcOAl5tbe) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Sola Allyson](https://open.spotify.com/artist/3NRO4pLQaU0eXYX5SwYtAY) | [B'ola \(Live\)](https://open.spotify.com/album/6MOU4J2Bv7ABtMGrVkBd5E) | 10:50 |
+| 68 | [B'ola \(Live\)](https://open.spotify.com/track/6ooOrOuruo2lZdcOAl5tbe) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Sola Allyson](https://open.spotify.com/artist/3NRO4pLQaU0eXYX5SwYtAY) | [B'ola \(Live\)](https://open.spotify.com/album/6MOU4J2Bv7ABtMGrVkBd5E) | 10:50 |
+| 69 | [ÒGO](https://open.spotify.com/track/3bYQ5UKUC5wcSR3aEyAd9P) | [Sola Allyson](https://open.spotify.com/artist/3NRO4pLQaU0eXYX5SwYtAY) | [ÒGO](https://open.spotify.com/album/0Kz4rKvHzi6bWBZskRCmKW) | 6:24 |
 | 70 | [He Fights For Me](https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Grace Omosebi](https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:19 |
 | 71 | [Armour Of God \- Live](https://open.spotify.com/track/5SInR2Eowv5QAygBhBR2Um) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Armour Of God \(Live\)](https://open.spotify.com/album/0oa2rieSsmUvVXK29dSg8F) | 12:25 |
 | 72 | [Kama Si We](https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS) | [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [Pambio](https://open.spotify.com/artist/3EuZWendm4t9IRhkVCnrYs) | [Kama Si We](https://open.spotify.com/album/1q8AY8q98nPV8Rgkv5YSWw) | 4:07 |

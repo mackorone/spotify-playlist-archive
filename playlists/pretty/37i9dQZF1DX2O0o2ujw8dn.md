@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2O0o2ujw8dn.md) - [plain]
 
 > Listen to the soundtracks of the drama BXXCH x RICH\. \(드라마 청담국제고등학교의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(배우들이  직접 선정한 곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,861 likes - 60 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,874 likes - 60 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2O0o2ujw8dn.md) - [plain]
 | 59 | [Concealed](https://open.spotify.com/track/2nUWH1aKkYYfa4zZVKbrFn) | [Yoo jong ho](https://open.spotify.com/artist/6VTFiAQbcFMjOlKHiMaglz) | [Bitch X Rich \(Original Television Soundtrack\)](https://open.spotify.com/album/6BneV6D6HXc5BKY4uIMrTq) | 2:21 |
 | 60 | [The Liar](https://open.spotify.com/track/7aR8zCvJD63M7IHM0IZ0pJ) | [Chung Seung Hyun](https://open.spotify.com/artist/0lmEHjUNnlHaeFFeIOorpj), [NA HYUN JU](https://open.spotify.com/artist/0e4pvP9GZ9piejGy8CO1EV) | [Bitch X Rich \(Original Television Soundtrack\)](https://open.spotify.com/album/6BneV6D6HXc5BKY4uIMrTq) | 2:46 |
 
-Snapshot ID: `ZKy6KAAAAAC83pArw7eta0DcCBzlSoVK`
+Snapshot ID: `ZKy6KAAAAADH1i3Cyw+VZzSmBeTmvz7c`

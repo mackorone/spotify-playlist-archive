@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 492904,
+  "num_followers": 493223,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAAkkyFGooh4HaYXSCIGfesh",
+  "snapshot_id": "aEtqAAAAAABrMtOkoCf1DcnSbSlEliFw",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,26 @@
       "duration_ms": 248875,
       "name": "Me Retiro",
       "url": "https://open.spotify.com/track/0iWO3A7RCIFZvLvVfIOW4h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y Lo Que Viene",
+        "url": "https://open.spotify.com/album/5Rghy8jEh35uc0gDRcoydO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 184050,
+      "name": "La Del Proceso",
+      "url": "https://open.spotify.com/track/7FbMbTR9BXCq3zfywePLJV"
     },
     {
       "added_at": null,
@@ -847,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Te Arrepentiras",
-        "url": "https://open.spotify.com/album/0bpKm54QKivDK520VlRjpl"
+        "name": "JUGANDO A QUE NO PASA NADA",
+        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
       },
       "artists": [
         {
@@ -856,9 +876,9 @@
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 167019,
-      "name": "No Te Arrepentiras",
-      "url": "https://open.spotify.com/track/0R3MdJp3YRyR3qraSC8Jt9"
+      "duration_ms": 149538,
+      "name": "NO S\u00c9 QU\u00c9 PAS\u00d3",
+      "url": "https://open.spotify.com/track/1IFjnYZxC9JlXekzoCzGkK"
     },
     {
       "added_at": null,
@@ -879,8 +899,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "JUGANDO A QUE NO PASA NADA",
-        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
+        "name": "No Te Arrepentiras",
+        "url": "https://open.spotify.com/album/0bpKm54QKivDK520VlRjpl"
       },
       "artists": [
         {
@@ -888,9 +908,9 @@
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 149538,
-      "name": "NO S\u00c9 QU\u00c9 PAS\u00d3",
-      "url": "https://open.spotify.com/track/1IFjnYZxC9JlXekzoCzGkK"
+      "duration_ms": 167019,
+      "name": "No Te Arrepentiras",
+      "url": "https://open.spotify.com/track/0R3MdJp3YRyR3qraSC8Jt9"
     },
     {
       "added_at": null,
@@ -915,8 +935,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ex de Verdad",
-        "url": "https://open.spotify.com/album/4YZ591dkOPwDRuDtTrf9XZ"
+        "name": "JUGANDO A QUE NO PASA NADA",
+        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
       },
       "artists": [
         {
@@ -924,9 +944,9 @@
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 186081,
-      "name": "Ex de Verdad",
-      "url": "https://open.spotify.com/track/1fbhmkwQMs2tE0kasY1oq9"
+      "duration_ms": 186260,
+      "name": "ECH\u00c1NDOTE DE MENOS",
+      "url": "https://open.spotify.com/track/1WOkxgqXnHQRiVGLpnmluF"
     },
     {
       "added_at": null,
@@ -943,22 +963,6 @@
       "duration_ms": 186189,
       "name": "La Ladrona - En Vivo",
       "url": "https://open.spotify.com/track/4YKsiPP0QqHsANNaZJwQBT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JUGANDO A QUE NO PASA NADA",
-        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 186260,
-      "name": "ECH\u00c1NDOTE DE MENOS",
-      "url": "https://open.spotify.com/track/1WOkxgqXnHQRiVGLpnmluF"
     }
   ],
   "unique_name": "This Is Grupo Frontera",

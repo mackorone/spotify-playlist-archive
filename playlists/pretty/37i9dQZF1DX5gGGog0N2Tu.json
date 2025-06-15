@@ -1,6 +1,6 @@
 {
   "description": "hai gi\u00e0 fatto la playlist ma sei ancora in felpa ",
-  "num_followers": 113640,
+  "num_followers": 113710,
   "original_name": "pov: la tua estate sta per droppare",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2025-06-12 22:01:28",
       "album": {
+        "name": "One Thing",
+        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 208829,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
+    },
+    {
+      "added_at": "2025-06-12 22:01:28",
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 169697,
       "name": "Diet Pepsi",
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
-    },
-    {
-      "added_at": "2025-06-12 22:01:28",
-      "album": {
-        "name": "One Thing",
-        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 208829,
-      "name": "One Thing",
-      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
     },
     {
       "added_at": "2025-06-12 22:01:28",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-06-12 22:01:28",
       "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
-    },
-    {
-      "added_at": "2025-06-12 22:01:28",
-      "album": {
         "name": "FUNNY little FEARS",
         "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 218266,
       "name": "The First Time",
       "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
+    },
+    {
+      "added_at": "2025-06-12 22:01:28",
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
       "added_at": "2025-06-12 22:01:28",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-06-12 22:01:28",
       "album": {
-        "name": "Super",
-        "url": "https://open.spotify.com/album/4tPyjMTlhXtroKXgm67zT0"
-      },
-      "artists": [
-        {
-          "name": "Bb trickz",
-          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
-        }
-      ],
-      "duration_ms": 103520,
-      "name": "Super",
-      "url": "https://open.spotify.com/track/1rSf5hRY0WREuRfiDLETqZ"
-    },
-    {
-      "added_at": "2025-06-12 22:01:28",
-      "album": {
         "name": "EMDP (The Last Album)",
         "url": "https://open.spotify.com/album/2G4T745eynlKnJdhDj3bAB"
       },
@@ -1159,22 +1143,34 @@
     {
       "added_at": "2025-06-12 22:01:28",
       "album": {
-        "name": "These Words",
-        "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
+        "name": "Super",
+        "url": "https://open.spotify.com/album/4tPyjMTlhXtroKXgm67zT0"
       },
       "artists": [
         {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        },
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
         }
       ],
-      "duration_ms": 136580,
-      "name": "These Words",
-      "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
+      "duration_ms": 103520,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/1rSf5hRY0WREuRfiDLETqZ"
+    },
+    {
+      "added_at": "2025-06-12 22:01:28",
+      "album": {
+        "name": "The Ringmaster",
+        "url": "https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 180842,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/780be5fB7823aHG06mwTat"
     },
     {
       "added_at": "2025-06-12 22:01:28",
@@ -1195,18 +1191,22 @@
     {
       "added_at": "2025-06-12 22:01:28",
       "album": {
-        "name": "The Ringmaster",
-        "url": "https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W"
+        "name": "These Words",
+        "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
       },
       "artists": [
         {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
         }
       ],
-      "duration_ms": 180842,
-      "name": "Baian\u00e1",
-      "url": "https://open.spotify.com/track/780be5fB7823aHG06mwTat"
+      "duration_ms": 136580,
+      "name": "These Words",
+      "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
     },
     {
       "added_at": "2025-06-12 22:01:28",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2025-06-12 22:01:28",
       "album": {
+        "name": "Sweet Disposition (a moment, a love)",
+        "url": "https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 212209,
+      "name": "Sweet Disposition (a moment, a love)",
+      "url": "https://open.spotify.com/track/0D57lQnn110jGaup4NguSI"
+    },
+    {
+      "added_at": "2025-06-12 22:01:28",
+      "album": {
         "name": "Actual Life (April 14 - December 17 2020)",
         "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
       },
@@ -1395,26 +1415,6 @@
       "duration_ms": 295293,
       "name": "Pursuit Of Happiness (Nightmare)",
       "url": "https://open.spotify.com/track/4kTLpAbhuEGHAAdDjOIWaa"
-    },
-    {
-      "added_at": "2025-06-12 22:01:28",
-      "album": {
-        "name": "Sweet Disposition (a moment, a love)",
-        "url": "https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "duration_ms": 212209,
-      "name": "Sweet Disposition (a moment, a love)",
-      "url": "https://open.spotify.com/track/0D57lQnn110jGaup4NguSI"
     },
     {
       "added_at": "2025-06-12 22:01:28",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2025-06-12 22:01:28",
       "album": {
+        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
+        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
+      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
+    },
+    {
+      "added_at": "2025-06-12 22:01:28",
+      "album": {
         "name": "SEVENTEEN 12th Mini Album 'SPILL THE FEELS'",
         "url": "https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 186386,
       "name": "LOVE, MONEY, FAME (feat. DJ Khaled)",
       "url": "https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE"
-    },
-    {
-      "added_at": "2025-06-12 22:01:28",
-      "album": {
-        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
-        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
-      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
     },
     {
       "added_at": "2025-06-12 22:01:28",

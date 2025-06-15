@@ -4,7 +4,7 @@
 
 > This is All Time Low\. The essential tracks, all in one playlist.
 
-81 songs - 4 hr 26 min
+82 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Remembering Sunday](https://open.spotify.com/track/2qxXypNXOJZ5qUFdpzJ56n) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 4:16 | 2023-03-19 |  |
 | [Remembering Sunday \(feat\. Lindsey Stirling & Lisa Gaskarth\) \- ATL's Version](https://open.spotify.com/track/6N4QI1vJiQWVr3HVyKOGs2) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Lisa Gaskarth](https://open.spotify.com/artist/6an4Dzd8fNVjQxu4uJ7DsN) | [The Forever Sessions \- Vol\. 1](https://open.spotify.com/album/2qlSxSXbP9cTjTfxDqQXXE) | 4:16 | 2024-08-25 | 2024-09-22 |
 | [Runaways](https://open.spotify.com/track/60d8m5JYa6vHGg8hPFBZwQ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 3:34 | 2024-05-07 | 2024-07-07 |
-| [Say Something \- Live From Spotify UK](https://open.spotify.com/track/3JHuDEDfKiFDvRaIlyBM5h) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Spotify Sessions](https://open.spotify.com/album/2otrDlo0zpTrCqoSuorzWd) | 3:24 | 2023-03-29 |  |
+| [Say Something \- Live From Spotify UK](https://open.spotify.com/track/3JHuDEDfKiFDvRaIlyBM5h) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Spotify Sessions](https://open.spotify.com/album/2otrDlo0zpTrCqoSuorzWd) | 3:24 | 2023-03-29 | 2025-06-15 |
 | [Shameless](https://open.spotify.com/track/5pWqD58cZ9TNvL9WbNfcQ3) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:41 | 2024-05-25 | 2025-06-01 |
 | [Six Feet Under The Stars](https://open.spotify.com/track/3MfRql0HwuxEZzGpoIC832) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:36 | 2023-03-19 |  |
 | [Six Feet Under The Stars \- ATL's Version](https://open.spotify.com/track/09flzye7YhAnnuUBckfHob) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [The Forever Sessions \- Vol\. 1](https://open.spotify.com/album/2qlSxSXbP9cTjTfxDqQXXE) | 3:35 | 2024-08-30 | 2024-10-20 |
@@ -76,6 +76,7 @@
 | [Something's Gotta Give](https://open.spotify.com/track/1SeefzwSDiFCjRWaBslRIj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 3:09 | 2023-03-19 |  |
 | [Somewhere in Neverland](https://open.spotify.com/track/4RWAWUoPEcQk0QDj8JGmAz) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Don't Panic](https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0) | 3:45 | 2023-03-19 |  |
 | [Stella](https://open.spotify.com/track/6hmEzWnA6ny2rqVOpB5Hcb) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:24 | 2023-03-19 |  |
+| [SUCKERPUNCH](https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [SUCKERPUNCH](https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ) | 2:52 | 2025-06-15 |  |
 | [Tell Me I’m Alive](https://open.spotify.com/track/1H4BiYE8G4XuaKpVxvtJ4n) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 2:35 | 2023-04-15 |  |
 | [Tell Me I’m Alive](https://open.spotify.com/track/3Bzw0mcFyIcVgQbLfxbDGt) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I’m Alive](https://open.spotify.com/album/4QaPQwoYarzNUuus6wBhCu) | 2:35 | 2023-03-19 | 2023-04-02 |
 | [The Other Side](https://open.spotify.com/track/5G9gFoH731xDHl73LHlZ8o) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 2:47 | 2023-03-19 |  |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-267 songs - 15 hr 20 min
+268 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Right Here](https://open.spotify.com/track/2jHhED4R4Kwqdu1Ya9xeRW) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [FJ Law](https://open.spotify.com/artist/5aQanH4qoE1dG9qscoBjpj) | [London Safari II](https://open.spotify.com/album/40i9mNYIToCCPlKlKHXrZZ) | 2:03 | 2024-05-05 |  |
 | [Roll The Credits](https://open.spotify.com/track/03WIi0grexVN7XZ8zXz3L0) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave \(Deluxe\)](https://open.spotify.com/album/3vn3IDQmq7rbQ9UZdCYrpK) | 4:13 | 2024-05-01 |  |
 | [Rose Colored](https://open.spotify.com/track/7GygXkOwsYrl3IeQxMhwRO) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 5:01 | 2024-05-01 |  |
+| [Route 44](https://open.spotify.com/track/0udgP7co0NJeyUzr3F4har) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Route 44](https://open.spotify.com/album/3wjVnK6g4fFvxNUP4j4MmG) | 3:34 | 2025-06-14 |  |
 | [Run](https://open.spotify.com/track/6myniiyBGUHWAOaX5EZsMv) | [EPONINE](https://open.spotify.com/artist/7tk9eplTvEzG2Dsg0MUq8I) | [Run](https://open.spotify.com/album/5wovmSS3zYbMi1MgnXqHbq) | 3:26 | 2024-10-28 |  |
 | [Safe Space](https://open.spotify.com/track/1w0COwGOGeLdh00Ntiylvl) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:28 | 2024-05-01 |  |
 | [Say It's Fine](https://open.spotify.com/track/4jpd7IRKPndo9CqV2WTkdi) | [Kyle Lux](https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR) | [No Roof Access](https://open.spotify.com/album/1GJTZ0fSwgf4ZKXdhhCpkS) | 3:25 | 2024-05-01 |  |

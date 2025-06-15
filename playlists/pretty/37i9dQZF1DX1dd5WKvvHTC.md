@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: Kyle Sturrock
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,652 likes - 35 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,697 likes - 35 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 12 | [Run Baby Run](https://open.spotify.com/track/7BZ0VK1GFA7XvLFDyUKw33) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Run Baby Run](https://open.spotify.com/album/7vHgOwOci3tJDVRO2vV0As) | 3:01 |
 | 13 | [LOSE](https://open.spotify.com/track/5Pa7SJ7aMDV8UCBp8ILzbb) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [LOSE](https://open.spotify.com/album/35i1fiNgfmWAJmZXq5yNcR) | 3:04 |
 | 14 | [Beautiful People \- Miss Monique Remix](https://open.spotify.com/track/2xypJtZG2dblYWcD7NUau9) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Beautiful People \(Miss Monique Remix\)](https://open.spotify.com/album/6RbuWWX31va0m3FduVREQb) | 2:38 |
-| 15 | [I Am Who I Am \(Re\-mastered\)](https://open.spotify.com/track/5tq73HT5XCaTb39Wop9b5f) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [I Am Who I Am \(Re\-mastered\)](https://open.spotify.com/album/6vVLNrQDUFeF26MgZUGLT4) | 4:34 |
+| 15 | [I Am Who I Am \(Re\-mastered\)](https://open.spotify.com/track/5tq73HT5XCaTb39Wop9b5f) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [I Am Who I Am \(Re\-mastered\)](https://open.spotify.com/album/6vVLNrQDUFeF26MgZUGLT4) | 4:41 |
 | 16 | [Everlasting](https://open.spotify.com/track/7qHA7FDW9RSylorKfTWGrf) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Everlasting](https://open.spotify.com/album/7d1WYgKDcODb0Hp8tlmlat) | 5:00 |
 | 17 | [Race with no end](https://open.spotify.com/track/1YSUElaZZcD7n4Yzrnr2OC) | [Sarina](https://open.spotify.com/artist/4QetRFFnJpfUtu0sLRaQZy) | [Race with no end](https://open.spotify.com/album/7BmrlHelVOe6k0sz9h1fFC) | 3:21 |
 | 18 | [Only Happen](https://open.spotify.com/track/2zQt3vKJafeBV6JjZD7oSn) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Only Happen](https://open.spotify.com/album/4MEMDFaYFsHgCrTzwbufQR) | 3:28 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 34 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 |
 | 35 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 |
 
-Snapshot ID: `aEA/xwAAAAAomdbpzg11Cgw4M60FI0GB`
+Snapshot ID: `aEA/xwAAAACdYwxW3kJgqCxGoV5RQCZb`

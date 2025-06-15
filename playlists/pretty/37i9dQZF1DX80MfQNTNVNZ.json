@@ -1,6 +1,6 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 206085,
+  "num_followers": 206121,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,26 @@
     {
       "added_at": "2025-06-12 15:00:05",
       "album": {
+        "name": "brand new teeth",
+        "url": "https://open.spotify.com/album/2jxdO5piZh8yURPkJddghF"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "duration_ms": 267254,
+      "name": "brand new teeth",
+      "url": "https://open.spotify.com/track/52DB1pkUN9cyYjLK0vmI0s"
+    },
+    {
+      "added_at": "2025-06-12 15:00:05",
+      "album": {
         "name": "3 Boys",
         "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
       },
@@ -695,46 +715,6 @@
     {
       "added_at": "2025-06-12 15:00:05",
       "album": {
-        "name": "brand new teeth",
-        "url": "https://open.spotify.com/album/2jxdO5piZh8yURPkJddghF"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 267254,
-      "name": "brand new teeth",
-      "url": "https://open.spotify.com/track/52DB1pkUN9cyYjLK0vmI0s"
-    },
-    {
-      "added_at": "2025-06-12 15:00:05",
-      "album": {
-        "name": "So Beautiful",
-        "url": "https://open.spotify.com/album/1vXBs4AY9fjXsp8tivxXwb"
-      },
-      "artists": [
-        {
-          "name": "Johnny Venus",
-          "url": "https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 227649,
-      "name": "So Beautiful",
-      "url": "https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw"
-    },
-    {
-      "added_at": "2025-06-12 15:00:05",
-      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/3rsduxrdgM9tOXbdy3BByj"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 156302,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh"
+    },
+    {
+      "added_at": "2025-06-12 15:00:05",
+      "album": {
+        "name": "So Beautiful",
+        "url": "https://open.spotify.com/album/1vXBs4AY9fjXsp8tivxXwb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Venus",
+          "url": "https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 227649,
+      "name": "So Beautiful",
+      "url": "https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw"
     },
     {
       "added_at": "2025-06-12 15:00:05",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-06-12 15:00:05",
       "album": {
-        "name": "Tokyo",
-        "url": "https://open.spotify.com/album/3nh5xJdRaQTBqNRcyeXrMT"
-      },
-      "artists": [
-        {
-          "name": "WIM",
-          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
-        }
-      ],
-      "duration_ms": 152125,
-      "name": "Tokyo",
-      "url": "https://open.spotify.com/track/78scp8RmPk3Ove8b5qrhw2"
-    },
-    {
-      "added_at": "2025-06-12 15:00:05",
-      "album": {
         "name": "Remember Me?",
         "url": "https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2"
       },
@@ -859,18 +843,18 @@
     {
       "added_at": "2025-06-12 15:00:05",
       "album": {
-        "name": "April",
-        "url": "https://open.spotify.com/album/01vJILu1nYj93pSPcP5IUQ"
+        "name": "Tokyo",
+        "url": "https://open.spotify.com/album/3nh5xJdRaQTBqNRcyeXrMT"
       },
       "artists": [
         {
-          "name": "Jakob",
-          "url": "https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr"
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
         }
       ],
-      "duration_ms": 162153,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/2RjsAYVbdZPISqnsWd3Hup"
+      "duration_ms": 152125,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/78scp8RmPk3Ove8b5qrhw2"
     },
     {
       "added_at": "2025-06-12 15:00:05",
@@ -887,6 +871,22 @@
       "duration_ms": 206571,
       "name": "Trust",
       "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
+    },
+    {
+      "added_at": "2025-06-12 15:00:05",
+      "album": {
+        "name": "April",
+        "url": "https://open.spotify.com/album/01vJILu1nYj93pSPcP5IUQ"
+      },
+      "artists": [
+        {
+          "name": "Jakob",
+          "url": "https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr"
+        }
+      ],
+      "duration_ms": 162153,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2RjsAYVbdZPISqnsWd3Hup"
     },
     {
       "added_at": "2025-06-12 15:00:05",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-06-12 15:00:05",
       "album": {
-        "name": "Pined For You My Whole Life",
-        "url": "https://open.spotify.com/album/47CrI5tzjO4ULXAgf8irey"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 198186,
-      "name": "Pined For You My Whole Life",
-      "url": "https://open.spotify.com/track/45ACl4h73fWq3pAjGxyGNi"
-    },
-    {
-      "added_at": "2025-06-12 15:00:05",
-      "album": {
         "name": "Djesse Vol. 3",
         "url": "https://open.spotify.com/album/33cj3kzLqVOg9zvy69Wrc8"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2025-06-12 15:00:05",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/0iu2xltdgI77Bkryi5JTNe"
+        "name": "Pined For You My Whole Life",
+        "url": "https://open.spotify.com/album/47CrI5tzjO4ULXAgf8irey"
       },
       "artists": [
         {
-          "name": "Sunni Col\u00f3n",
-          "url": "https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2"
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
         }
       ],
-      "duration_ms": 141374,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/2fQo9apVAYggTBzaFPUh9B"
+      "duration_ms": 198186,
+      "name": "Pined For You My Whole Life",
+      "url": "https://open.spotify.com/track/45ACl4h73fWq3pAjGxyGNi"
     },
     {
       "added_at": "2025-06-12 15:00:05",
@@ -991,6 +975,22 @@
       "duration_ms": 191478,
       "name": "The Mission",
       "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
+    },
+    {
+      "added_at": "2025-06-12 15:00:05",
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0iu2xltdgI77Bkryi5JTNe"
+      },
+      "artists": [
+        {
+          "name": "Sunni Col\u00f3n",
+          "url": "https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2"
+        }
+      ],
+      "duration_ms": 141374,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/2fQo9apVAYggTBzaFPUh9B"
     },
     {
       "added_at": "2025-06-12 15:00:05",

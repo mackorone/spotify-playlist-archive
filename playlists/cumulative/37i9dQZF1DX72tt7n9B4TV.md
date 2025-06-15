@@ -4,7 +4,7 @@
 
 > TURNSTILE SUMMER
 
-401 songs - 21 hr 57 min
+402 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [2am](https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2am](https://open.spotify.com/album/04CKg4c7QsOXrlUxXbEZAe) | 3:44 | 2022-04-01 | 2025-05-02 |
 | [98.](https://open.spotify.com/track/06R6ozRwIKqXSRTPCF5QOB) | [TOWNS](https://open.spotify.com/artist/7zcfwEODRWt0H3XIneO9ZK) | [98.](https://open.spotify.com/album/6Cuk7bUyJRsqmr7RLb5iXg) | 2:59 | 2022-04-01 | 2022-07-28 |
 | [A Cowboy Song](https://open.spotify.com/track/3Hdku7zeAZSuEFysqkZpLk) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [A Cowboy Song](https://open.spotify.com/album/1IgP1X3hrG6GenTiZCuWc1) | 3:34 | 2025-05-01 |  |
+| [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:07 | 2025-06-13 |  |
 | [A Mess](https://open.spotify.com/track/2AzhIrLY8aoVVpzA1KvFcB) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [A Mess](https://open.spotify.com/album/2JfNvW8E5SFdRnPf0ysuSr) | 3:58 | 2022-06-17 | 2022-07-29 |
 | [All I Need](https://open.spotify.com/track/3aMyQSDW0DJ7LTOkrd29hU) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [All I Need](https://open.spotify.com/album/4ZXK260CRmgXgQ5tCs1hmk) | 3:36 | 2022-04-01 | 2024-06-01 |
 | [All In My Head](https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [All In My Head](https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX) | 3:21 | 2024-07-25 | 2024-12-06 |
@@ -314,7 +315,7 @@
 | [Smile](https://open.spotify.com/track/6HegTbeiZZ9iN6Dp3TLJhx) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Smile](https://open.spotify.com/album/58G23MFuYELVcqdaQYWmAM) | 3:16 | 2022-04-01 | 2022-07-29 |
 | [Snap Out Of It](https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:13 | 2023-05-25 | 2023-06-03 |
 | [Soldier In The Army of Love](https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [Soldier In The Army of Love](https://open.spotify.com/album/05gBPlkrFzoHDBtN4JseUS) | 2:58 | 2024-07-25 | 2024-10-28 |
-| [Soprano](https://open.spotify.com/track/3DNgrWGDoVefYTLdzUnLWX) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Soprano](https://open.spotify.com/album/70pGjy9mpZ3GFZKyFlHF1S) | 2:13 | 2025-05-01 |  |
+| [Soprano](https://open.spotify.com/track/3DNgrWGDoVefYTLdzUnLWX) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Soprano](https://open.spotify.com/album/70pGjy9mpZ3GFZKyFlHF1S) | 2:13 | 2025-05-01 | 2025-06-15 |
 | [Sorry](https://open.spotify.com/track/5qaCnFvjHw3P4qL02pFSlR) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Still Nervous](https://open.spotify.com/album/6PWrD6nfaFP8DEJNCvz9Eh) | 3:02 | 2024-05-31 | 2024-07-25 |
 | [SOS \(feat\. Travis Barker\)](https://open.spotify.com/track/38X7LavheHbSg0UwjRUNcf) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SOS \(feat\. Travis Barker\)](https://open.spotify.com/album/0n7Nnzxv7WBKDdpUdhL8C2) | 2:49 | 2022-04-01 | 2024-06-01 |
 | [Sour Patch](https://open.spotify.com/track/4I0XnxrpkwD7CvJuUm9DgB) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Sour Patch](https://open.spotify.com/album/6CLdVHeb9EBQU0pnHdcyMO) | 3:21 | 2024-07-25 | 2025-04-30 |

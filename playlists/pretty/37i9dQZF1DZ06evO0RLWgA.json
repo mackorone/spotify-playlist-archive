@@ -1,12 +1,12 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 50871,
+  "num_followers": 50877,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAABmEGjayTDpttB37DF+fmjh",
+  "snapshot_id": "aEtqAAAAAACedp9Ejb4xRMqIQTlyNsd0",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/6X76YOntJCyiiFvaIZgRdA"
+        "name": "LIVE IN HOUSTON 1979",
+        "url": "https://open.spotify.com/album/2KlhM7Pl2zOOW6v07qBG87"
       },
       "artists": [
-        {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
-        },
         {
           "name": "John Lee Hooker",
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 296986,
-      "name": "I Lay Down",
-      "url": "https://open.spotify.com/track/1ZNcJrNdX4HbO6NGj8tlaL"
+      "duration_ms": 230493,
+      "name": "Roll Your Daddy Right",
+      "url": "https://open.spotify.com/track/2E8ndUQK4EYrg3Kya1KlUc"
     },
     {
       "added_at": null,
@@ -543,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIVE IN HOUSTON 1979",
-        "url": "https://open.spotify.com/album/2KlhM7Pl2zOOW6v07qBG87"
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/6X76YOntJCyiiFvaIZgRdA"
       },
       "artists": [
+        {
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+        },
         {
           "name": "John Lee Hooker",
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 230493,
-      "name": "Roll Your Daddy Right",
-      "url": "https://open.spotify.com/track/2E8ndUQK4EYrg3Kya1KlUc"
+      "duration_ms": 296986,
+      "name": "I Lay Down",
+      "url": "https://open.spotify.com/track/1ZNcJrNdX4HbO6NGj8tlaL"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 319466,
+      "name": "I Put My Trust In You",
+      "url": "https://open.spotify.com/track/3de9QMMvkyDop04qy2w92t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 225906,
       "name": "Baby Lee (feat. Robert Cray)",
       "url": "https://open.spotify.com/track/0f9HBk7sdDtolNucZ2Scav"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 319466,
-      "name": "I Put My Trust In You",
-      "url": "https://open.spotify.com/track/3de9QMMvkyDop04qy2w92t"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Half A Stranger Vol 1",
-        "url": "https://open.spotify.com/album/1UKljueptyRlVnuHNYNJOe"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "Hobo Blues",
-      "url": "https://open.spotify.com/track/15u5oLagRuxJUNebO6mpgX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Urban Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 170506,
       "name": "Backbiters And Syndicaters",
       "url": "https://open.spotify.com/track/1Hp3DVGqIm7ydG7F5u6E0l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Half A Stranger Vol 1",
+        "url": "https://open.spotify.com/album/1UKljueptyRlVnuHNYNJOe"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "Hobo Blues",
+      "url": "https://open.spotify.com/track/15u5oLagRuxJUNebO6mpgX"
     },
     {
       "added_at": null,
@@ -727,26 +727,6 @@
       "duration_ms": 266533,
       "name": "I Got My Eyes On You",
       "url": "https://open.spotify.com/track/2AxC0hBTjAslD0sZAywCzU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Healer",
-        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Cuttin' Out (feat. Canned Heat)",
-      "url": "https://open.spotify.com/track/3wD8QPYFxygFaPHTb21xmr"
     },
     {
       "added_at": null,
@@ -779,6 +759,26 @@
       "duration_ms": 153293,
       "name": "My Own Blues",
       "url": "https://open.spotify.com/track/0GlMkhYvq1usAq45nFOh7o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Cuttin' Out (feat. Canned Heat)",
+      "url": "https://open.spotify.com/track/3wD8QPYFxygFaPHTb21xmr"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 167335,
-      "name": "Drug Store Woman",
-      "url": "https://open.spotify.com/track/6S75o3nKlPCfpdAFx0Rseo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Wanderings Of The Avener",
         "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 3250760,
       "name": "The Wanderings of The Avener - Continuous Mix",
       "url": "https://open.spotify.com/track/5FH2dK89RFAs293DDuV31z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 167335,
+      "name": "Drug Store Woman",
+      "url": "https://open.spotify.com/track/6S75o3nKlPCfpdAFx0Rseo"
     },
     {
       "added_at": null,

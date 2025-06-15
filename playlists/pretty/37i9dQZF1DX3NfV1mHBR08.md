@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,554 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,559 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 27 | [Slow](https://open.spotify.com/track/3bHE2Q0boauLBF8iJLUIga) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Slow](https://open.spotify.com/album/2RhEisiqycAq2YrXJcUL4r) | 4:01 |
 | 28 | [I will listen never alone](https://open.spotify.com/track/5Ny8dTK7mUgpL04RV07gee) | [Mirae Yoon](https://open.spotify.com/artist/7spkVN3BEcaQ4yWSzxPwra) | [Who Are You : School 2015 \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/5rbk6PfoQk7m9KB6iaC6eG) | 3:14 |
 | 29 | [Lullaby](https://open.spotify.com/track/7BUtoP9NXEe7MgWvIG2KGE) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) | 4:21 |
-| 30 | [Dream is Beautiful](https://open.spotify.com/track/2JfxzjkeipBe5eik3ExS40) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Dream is Beautiful](https://open.spotify.com/album/6D5YjTjMOZHf9WwVbhekiZ) | 2:14 |
-| 31 | [HUG \(Feat\. Zion.T, Wonstein\) \(Prod\. by Slom\)](https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:56 |
+| 30 | [HUG \(Feat\. Zion.T, Wonstein\) \(Prod\. by Slom\)](https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:56 |
+| 31 | [Dream is Beautiful](https://open.spotify.com/track/2JfxzjkeipBe5eik3ExS40) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Dream is Beautiful](https://open.spotify.com/album/6D5YjTjMOZHf9WwVbhekiZ) | 2:14 |
 | 32 | [Stars](https://open.spotify.com/track/5vMmRDWrRsogNA6xm916nq) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Stars](https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi) | 4:20 |
 | 33 | [Let Me Love My Youth](https://open.spotify.com/track/4qdBPJta3BVPXCS0wJZ6yO) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Let Me Love My Youth](https://open.spotify.com/album/3wRgzgnqcva5unpKKmgZ57) | 4:08 |
 | 34 | [Still the Same](https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Still the Same](https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu) | 2:28 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 46 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 |
 | 47 | [내가 니편이 되어 줄게 I Will Be on Your Side](https://open.spotify.com/track/15EEempFA9NjYGXhjxs9H7) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [세 번째 음악 로스팅 3rd Music Roasting](https://open.spotify.com/album/4mTjpPc2hkMI2cJ1dnMzle) | 5:57 |
 | 48 | [Brave](https://open.spotify.com/track/30g5E9MteFxeG9pDvRKJNl) | [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Extraordinary Attorney Woo \(Original Television SoundTrack\) Pt\. 1](https://open.spotify.com/album/1JNQlhazNG0N5gK1NoLAuK) | 4:22 |
-| 49 | [Fighting!](https://open.spotify.com/track/5F2Nrnc779a0ZADDG7v7u7) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Fighting!](https://open.spotify.com/album/2BEu1ulaGHvhNYmOcurP80) | 3:05 |
-| 50 | [For your happiness](https://open.spotify.com/track/2Crm9riNxOXtlTKHWrFaEN) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [Heavenly Ever After \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4JRlSHEOWm7NiSH0xyZFHZ) | 3:24 |
+| 49 | [For your happiness](https://open.spotify.com/track/2Crm9riNxOXtlTKHWrFaEN) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [Heavenly Ever After \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4JRlSHEOWm7NiSH0xyZFHZ) | 3:24 |
+| 50 | [Fighting!](https://open.spotify.com/track/5F2Nrnc779a0ZADDG7v7u7) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Fighting!](https://open.spotify.com/album/2BEu1ulaGHvhNYmOcurP80) | 3:05 |
 
 Snapshot ID: `aEYxdwAAAAB0LCEUpwo+XBHTPKwKb8dw`

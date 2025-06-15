@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 
 > Train insane with these Bollywood tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,716 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,815 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 47 | [Odhani \(From "Made in China"\)](https://open.spotify.com/track/2q0V50aNlI1RQXJyE5HDgD) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Odhani \(From "Made in China"\)](https://open.spotify.com/album/55vXKnwnYYVesz6sz6pOSR) | 3:15 |
 | 48 | [Kamariya](https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR) | [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Mitron \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df) | 4:11 |
 | 49 | [High Rated Gabru](https://open.spotify.com/track/4dJWik0ax9bRFXl0HqbFjT) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Nawabzaade](https://open.spotify.com/album/5cExHIssPauI1CN9fwxkOk) | 2:59 |
-| 50 | [Kissik \(From "Pushpa 2 The Rule"\) \[HINDI\]](https://open.spotify.com/track/3E2alxlOoe5EURfec217Uu) | [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Raqueeb Alam](https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h) | [Kissik \(From "Pushpa 2 The Rule"\) \[HINDI\]](https://open.spotify.com/album/7p2YC5HhcZ1wS2rUhikbEg) | 4:08 |
+| 50 | [Lakshya](https://open.spotify.com/track/7o1yzUVkQt2Gto5yYvzo2T) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Lakshya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2U02MTp5MJnqV54xsJOVIe) | 6:15 |
 
 Snapshot ID: `aBBibgAAAAD0eO0K15jR/wBLLPK4aK5x`

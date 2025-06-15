@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 47,653 likes - 110 songs - 5 hr 38 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 47,663 likes - 110 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 12 | [CRASH LANDING!](https://open.spotify.com/track/63dDz75MJZPw2spCPT0YST) | [trxvis](https://open.spotify.com/artist/1ytozhc77a6qMKUxWTpprm) | [CRASH LANDING!](https://open.spotify.com/album/5mmnJvb74weiD2XDXUiAxp) | 2:38 |
 | 13 | [Gaslighter](https://open.spotify.com/track/62WScdO2DPyc4zP291Ee5x) | [Mikhaela Faye](https://open.spotify.com/artist/2GL4xifkoDW8sxMHNbbeX7) | [Gaslighter](https://open.spotify.com/album/318aeunhiCPTjnWakVi9Ul) | 3:02 |
 | 14 | [Keep](https://open.spotify.com/track/5vGtOKsx95VMirsTGJZSqI) | [Toulouse](https://open.spotify.com/artist/4Vy0AbsAmU5l3ZWOxhilzr) | [Nobody's Coming To Save You](https://open.spotify.com/album/2f0TrBLcNnVCSB2irOL1nt) | 4:05 |
-| 15 | [Amapiano Madness](https://open.spotify.com/track/0UdQRHu4JmN1zaeikva7Sf) | [Bluenax](https://open.spotify.com/artist/4X1DmCmbbP3c7asjJzo0Id), [Chris Effect](https://open.spotify.com/artist/4cT8MU3qnBw8Sbma83aVKW) | [Amapiano Madness](https://open.spotify.com/album/0v2vZva6THsENOWeVkLprV) | 4:42 |
+| 15 | [Amapiano Madness](https://open.spotify.com/track/0UdQRHu4JmN1zaeikva7Sf) | [Bluenax](https://open.spotify.com/artist/4X1DmCmbbP3c7asjJzo0Id), [Chris effect](https://open.spotify.com/artist/37NwhpCQU8okmas3XR2CrU) | [Amapiano Madness](https://open.spotify.com/album/0v2vZva6THsENOWeVkLprV) | 4:42 |
 | 16 | [Skin Crawl](https://open.spotify.com/track/1GsSv9PSWfAyhctbad7BXS) | [FLIGHT CNCLLD](https://open.spotify.com/artist/6ZegnXQJNjT8q3U89j20WN) | [Skin Crawl](https://open.spotify.com/album/33RgAQGxFchmGPFthHhV2T) | 4:00 |
 | 17 | [Tôt l'matin](https://open.spotify.com/track/2IZIjLViLDjVG8QlgYFxKt) | [Navy](https://open.spotify.com/artist/4ZOdyemvyCLr2XYSr9ZzpM) | [Tôt l'matin](https://open.spotify.com/album/5kYIV464Za6DMrQpAWhQAA) | 1:43 |
 | 18 | [En mi cama](https://open.spotify.com/track/3OCFYCq9UyDIW5dwv7JQ3b) | [El Krtl](https://open.spotify.com/artist/1GlDnTZULQ96YYba4bq8Wg), [Cardin Oficial](https://open.spotify.com/artist/45tdXapRoJYAg53QkCXPwC), [Bandaga](https://open.spotify.com/artist/0fdh6BhOBgk3vqVn2XKQ0F) | [En mi cama](https://open.spotify.com/album/3Nqkylg3rBLCKot4XGfR5q) | 3:21 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 67 | [Get Loose](https://open.spotify.com/track/6wvvKgrDbLHjd8IGXCbK7N) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [Tha Pope](https://open.spotify.com/artist/5AXsbGVbdQSQIadVkPyatG) | [Get Loose](https://open.spotify.com/album/1frvoFSYOgvF3c0idi3M8n) | 2:38 |
 | 68 | [I am](https://open.spotify.com/track/72xMM997sfMk72PrcT5TDB) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg), [E.L](https://open.spotify.com/artist/3nA9YeHBS9lnP393QDdcZQ) | [I AM](https://open.spotify.com/album/7xT6FiDw3oQwfr78crcgy4) | 5:39 |
 | 69 | [chlorine](https://open.spotify.com/track/3NYp0NpzUu7084WJg9ZaTk) | [dayaway](https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX) | [chlorine](https://open.spotify.com/album/032YQ3Er4rGHHDpBOOJmEe) | 3:22 |
-| 70 | [Like They Used To](https://open.spotify.com/track/7g3hLpR07pzC9JfKT2KI9I) | [loyalties](https://open.spotify.com/artist/4bKUAe1VLjBB1W0SmfHjhG), [Mitchell Ferguson](https://open.spotify.com/artist/7Krmuuem34gdIKOXa4m9m2) | [Like They Used To](https://open.spotify.com/album/2o2yUc5zqWo2y52i9wVvGK) | 2:34 |
+| 70 | [Like They Used To](https://open.spotify.com/track/7g3hLpR07pzC9JfKT2KI9I) | [loyalties](https://open.spotify.com/artist/4bKUAe1VLjBB1W0SmfHjhG), [Mitchell Ferguson](https://open.spotify.com/artist/7Krmuuem34gdIKOXa4m9m2), [Stringer](https://open.spotify.com/artist/6DaF5M1QxZ84PIZqbr0zCA) | [Like They Used To](https://open.spotify.com/album/2o2yUc5zqWo2y52i9wVvGK) | 2:34 |
 | 71 | [Nebula](https://open.spotify.com/track/6Dpd3MetpKnbLZNHmlUxaU) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Nebula](https://open.spotify.com/album/2Px4REe1YRevUuRNLRj2ev) | 3:12 |
 | 72 | [Fires](https://open.spotify.com/track/7MHfke49kTTWQUEa1YfV28) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Fires](https://open.spotify.com/album/0QMBZLVKxBHERSTwpLycVV) | 2:55 |
 | 73 | [SAME TBH](https://open.spotify.com/track/1MZtpHji90QrnWzs0Zuhqa) | [King Roman](https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq) | [SAME TBH](https://open.spotify.com/album/25hY7EFhOJ2UYT4BXK9dAs) | 1:55 |

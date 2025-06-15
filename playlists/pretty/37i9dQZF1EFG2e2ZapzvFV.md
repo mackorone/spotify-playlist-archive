@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,561 likes - 173 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,560 likes - 173 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 87 | [Recovery](https://open.spotify.com/track/5Tzum6abyRqlGk0dElTwoL) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 3:58 |
 | 88 | [Pretty Thing](https://open.spotify.com/track/2akDcoPwGl4175JFmQdqGb) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Broods](https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8) | 3:16 |
 | 89 | [Make Me Feel](https://open.spotify.com/track/1xajUPr86m2Ge25UPxwJGA) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Almighty Jay](https://open.spotify.com/artist/2HWXxzgBIr0RMSZmvMZeJU) | [YBN: The Mixtape](https://open.spotify.com/album/6l4itLa2SkBAVBASZ2WKFv) | 3:09 |
-| 90 | [Aerial Love](https://open.spotify.com/track/5tA07aNEFIjJ5LLn29REZc) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Talk](https://open.spotify.com/album/4WEXLPtiftj1O4Sx03wPHb) | 3:34 |
-| 91 | [Too Proud](https://open.spotify.com/track/4AhMh0i9mBTXpfg35u1YQQ) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Don't Feed The Pop Monster](https://open.spotify.com/album/3KzbSN2H2bqf9b8NKiCIL0) | 3:09 |
+| 90 | [Too Proud](https://open.spotify.com/track/4AhMh0i9mBTXpfg35u1YQQ) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Don't Feed The Pop Monster](https://open.spotify.com/album/3KzbSN2H2bqf9b8NKiCIL0) | 3:09 |
+| 91 | [Aerial Love](https://open.spotify.com/track/5tA07aNEFIjJ5LLn29REZc) | [Daniel Johns](https://open.spotify.com/artist/52sbFniPptK6lNYHmuoPpz) | [Talk](https://open.spotify.com/album/4WEXLPtiftj1O4Sx03wPHb) | 3:34 |
 | 92 | [Killing You](https://open.spotify.com/track/7rOPsPvih0DakVEkHWC8ae) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 3:33 |
 | 93 | [Where Is Home \(feat\. Twin Shadow\)](https://open.spotify.com/track/7p5WNhM1wIyzW82a9KPfRe) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY), [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Living Life Golden](https://open.spotify.com/album/5w5V7Vi6RuRV40G4cM9pMP) | 3:20 |
 | 94 | [Sober](https://open.spotify.com/track/6UYVmlLGQ9MeObE5v7SnTu) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 4:02 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 172 | [Stay](https://open.spotify.com/track/7l8HiGTHMix5788jAiekrb) | [indi](https://open.spotify.com/artist/1m7azj0LWTDGWAPvgvGPGa) | [Stay](https://open.spotify.com/album/5j0FgJxARSQd91znRQrVkd) | 4:09 |
 | 173 | [The Way I Are \(Dance with Somebody\)](https://open.spotify.com/track/4JlnIhyQLH7733f8AH4OhZ) | [Layla Evans](https://open.spotify.com/artist/62f3DqAKO4ub6FtBchPUsI), [Mario Best](https://open.spotify.com/artist/1WycnPFicBoKKr7wWpDTns) | [Best of Pop Hits Today](https://open.spotify.com/album/1l629hKJwRUOlVP7MtqHDE) | 3:11 |
 
-Snapshot ID: `Ab0D6AAAAACihYe01Nmb1EEtG9j/DMzY`
+Snapshot ID: `Ab0JiAAAAAABGgFY4AnJOBiwwtgRebOp`

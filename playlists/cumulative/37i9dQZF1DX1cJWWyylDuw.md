@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Paleface Swiss
 
-670 songs - 1 day 19 hr 21 min
+671 songs - 1 day 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Blood and Teeth](https://open.spotify.com/track/763y47autx5wDMOwd9bMpZ) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Death: An Anthology](https://open.spotify.com/album/2JBNKkdKgCZ9mW2IZOuOHd) | 6:45 | 2024-02-09 | 2024-08-24 |
 | [Bloodguilt](https://open.spotify.com/track/24PhPzlNAOCsnHAP65GCeA) | [Depths of Hatred](https://open.spotify.com/artist/50uXDrPUyPgJOn4wmd6N7N) | [Bloodguilt](https://open.spotify.com/album/6vdb4SkMuWtLYqw4lHlOVW) | 4:55 | 2021-12-17 | 2022-04-09 |
 | [Bloodletting](https://open.spotify.com/track/7hE7akdK108sKoJcbMOp3b) | [Nylist](https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [Bloodletting](https://open.spotify.com/album/79IaUId4APE89L4Sj0vzH3) | 2:39 | 2025-04-25 |  |
-| [Bloodworm](https://open.spotify.com/track/5Pjh6ASGIGPUBPHUBVkx3V) | [Kingdom Of Giants](https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe) | [Bloodworm](https://open.spotify.com/album/3FhzcYTV0wpJjVlw7mf3D4) | 3:14 | 2024-08-23 |  |
+| [Bloodworm](https://open.spotify.com/track/5Pjh6ASGIGPUBPHUBVkx3V) | [Kingdom Of Giants](https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe) | [Bloodworm](https://open.spotify.com/album/3FhzcYTV0wpJjVlw7mf3D4) | 3:14 | 2024-08-23 | 2025-06-15 |
 | [BLUEPRINTS FOR IDOL GENOCIDE](https://open.spotify.com/track/1Jr9NlooITJqwUd8aJdmYB) | [PSYCHO\-FRAME](https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR) | [BLUEPRINTS FOR IDOL GENOCIDE](https://open.spotify.com/album/2YCZtOSfnNefFFun4RYwKO) | 3:40 | 2025-05-23 |  |
 | [BLUNT FORCE TRAUMA](https://open.spotify.com/track/1LX9OWc23Nskld1JxpSEBr) | [7xvn](https://open.spotify.com/artist/1B6XpURxZFBE9B2BT5JI7h) | [BLUNT FORCE TRAUMA](https://open.spotify.com/album/55FY4NTa8pjoEglAo1yqPF) | 2:41 | 2022-04-08 | 2022-12-13 |
 | [Bonebreaker](https://open.spotify.com/track/4TV4Hz8egoZ0x1S3h8kQ7G) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Kostolom](https://open.spotify.com/album/37XaKB6rpfLrR4572PBCSs) | 4:25 | 2022-10-27 | 2023-04-29 |
@@ -313,6 +313,7 @@
 | [Hostage](https://open.spotify.com/track/7qHbY5PvQVGYRiQKE2Qojx) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Hostage](https://open.spotify.com/album/31ABP3oxNXYvlIGdnzxf36) | 4:39 | 2024-08-23 | 2025-04-19 |
 | [Human Target](https://open.spotify.com/track/0mZtDWUNAMHAKntNZ4qtpG) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Human Target](https://open.spotify.com/album/45oaK6XdF8aZ9tIF6aPQCM) | 3:31 | 2022-07-08 | 2023-07-22 |
 | [Human Target](https://open.spotify.com/track/6lCCcsaT5jPPx0X5DMy38H) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Human Target](https://open.spotify.com/album/0cwpjjTsXmGa3D3F4G0BKX) | 3:31 | 2021-12-17 | 2022-07-28 |
+| [Hydra](https://open.spotify.com/track/3RQxQk5VKjxjewsgbq29vR) | [Dal Av](https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri), [Jackson Rose](https://open.spotify.com/artist/0P1li4GURXaPNnFwVSZzHx), [Scottay](https://open.spotify.com/artist/700RJw22QTOq899olvi2W2), [EVERGLADE](https://open.spotify.com/artist/2XYs78GUdQLh58o52f97vL) | [Hydra](https://open.spotify.com/album/2CcrbnhIrWhdiIkfTLKcQv) | 2:02 | 2025-06-13 |  |
 | [Hymns in Dissonance](https://open.spotify.com/track/4CuCHhr5zHzEwcflWD2jUT) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [Hymns in Dissonance](https://open.spotify.com/album/7lnkxd7w0YcE18CZ6COEJj) | 5:12 | 2025-05-16 |  |
 | [Hymns in Dissonance](https://open.spotify.com/track/6KukQLPGIVCyPYHSG9aiIU) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [Hymns in Dissonance](https://open.spotify.com/album/4vrdVbbpdzmw9WMzdr0lra) | 5:12 | 2025-01-17 | 2025-05-17 |
 | [I Am A Cursed One](https://open.spotify.com/track/7oxDYQjmntWkVkXWCUbd3R) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [CURSED \(The Complete Edition\)](https://open.spotify.com/album/4HvT7gjlwJ1q1Lt5Bm19dE) | 3:21 | 2025-06-06 |  |

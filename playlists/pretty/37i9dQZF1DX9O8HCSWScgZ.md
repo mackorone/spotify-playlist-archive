@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 
 > warm and cozy beats to watch the leaves fall, focus, study or chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,200 likes - 73 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,202 likes - 73 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 | 7 | [nightvision](https://open.spotify.com/track/574p3oZ9clAcRkM74jhj4d) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [nightvision](https://open.spotify.com/album/6F2olvguA8qhb9u3XJ7zP5) | 2:23 |
 | 8 | [Dream Drift](https://open.spotify.com/track/5yQXLsJZJBcQQV3mhuWDE4) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [Dream Drift](https://open.spotify.com/album/3tEO0ArWLOU1t0kNVIoTwi) | 2:04 |
 | 9 | [machine](https://open.spotify.com/track/3O7bHygR4AijQolwOY2nng) | [aroramo](https://open.spotify.com/artist/0WyQmbs3hiSSWf79amKfbr) | [machine](https://open.spotify.com/album/6AWQoLV6SxT0kYCnwtg7zz) | 2:08 |
-| 10 | [Airy Dream](https://open.spotify.com/track/0EO2YsUyTRDvXgET97TEsF) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Airy Dream](https://open.spotify.com/album/1WlSFbBa2pcFYD6fuMe8l3) | 2:09 |
-| 11 | [what´s my name](https://open.spotify.com/track/0tgX9pQ08mwF29RB89XH6P) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [what´s my name](https://open.spotify.com/album/0gUnjr4PLsev8CSxg7BbYG) | 1:52 |
+| 10 | [what´s my name](https://open.spotify.com/track/0tgX9pQ08mwF29RB89XH6P) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [what´s my name](https://open.spotify.com/album/0gUnjr4PLsev8CSxg7BbYG) | 1:52 |
+| 11 | [Airy Dream](https://open.spotify.com/track/0EO2YsUyTRDvXgET97TEsF) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Airy Dream](https://open.spotify.com/album/1WlSFbBa2pcFYD6fuMe8l3) | 2:09 |
 | 12 | [empty beach](https://open.spotify.com/track/0Hr5FDoIRS9jLQBSxvLWKB) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [empty beach](https://open.spotify.com/album/2P9oKSKr2LKlEhlYrCPlQx) | 2:33 |
 | 13 | [Days to Come](https://open.spotify.com/track/7CJ5MPvYa6Hcuz050BDW9F) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Days to Come](https://open.spotify.com/album/37mH8rqJLln47F6qdDssfW) | 2:27 |
 | 14 | [Paper Kites](https://open.spotify.com/track/6OVR1eAheHHPaiQVka10Mg) | [Loose Principles](https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk) | [Paper Kites](https://open.spotify.com/album/2aw3cgdHzSrknrSdyYqhHp) | 2:18 |
@@ -34,15 +34,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 | 24 | [midnight escape](https://open.spotify.com/track/1H1wSRhMTiGB6cgrNQO4gw) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [midnight escape](https://open.spotify.com/album/4soXZQhBjBXl0480o8cj5G) | 3:00 |
 | 25 | [Inconspicuous](https://open.spotify.com/track/2OnnVbgVtWHzLLSne6IXT8) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [Inconspicuous](https://open.spotify.com/album/7njxinH6A0xtEB5QPO3A6b) | 1:57 |
 | 26 | [Renaissance](https://open.spotify.com/track/6rjWO9LcpRRAovhVpJ93pr) | [SumPlusOne](https://open.spotify.com/artist/0cER211mwgbpBAMlqyXNi4) | [Renaissance](https://open.spotify.com/album/1j1RJtqUsyL4P9ATPCIf2x) | 2:08 |
-| 27 | [Eclipse](https://open.spotify.com/track/2HChh5IiMVMDD7BAJ2FCbZ) | [parrow](https://open.spotify.com/artist/4F2fKPyz3qE4HRlmT2avKI) | [Eclipse](https://open.spotify.com/album/6QSE30idLxJehzQjUyVIGf) | 2:24 |
-| 28 | [Open Doors](https://open.spotify.com/track/7GhpBmlLkehIvowAgeU7wU) | [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [At Ease](https://open.spotify.com/album/16qoJEqdBZ3s71UCX3GfaG) | 2:30 |
+| 27 | [Open Doors](https://open.spotify.com/track/7GhpBmlLkehIvowAgeU7wU) | [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [At Ease](https://open.spotify.com/album/16qoJEqdBZ3s71UCX3GfaG) | 2:30 |
+| 28 | [Eclipse](https://open.spotify.com/track/2HChh5IiMVMDD7BAJ2FCbZ) | [parrow](https://open.spotify.com/artist/4F2fKPyz3qE4HRlmT2avKI) | [Eclipse](https://open.spotify.com/album/6QSE30idLxJehzQjUyVIGf) | 2:24 |
 | 29 | [Amnesia](https://open.spotify.com/track/45jbQ3dPOPRXrUfUnRwnCN) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [Amnesia](https://open.spotify.com/album/0Veqr59WbWNYQYBrASjr67) | 2:25 |
-| 30 | [Make It](https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7) | [Berhanio](https://open.spotify.com/artist/3ZkP4NjIpKfyaTf2hTAmkW) | [Make It](https://open.spotify.com/album/4X9vWjNWlZ3qAtyDZ2ZhDj) | 1:58 |
-| 31 | [Hopefull Afterall](https://open.spotify.com/track/5SphZD6nqBV1BRkqH0hl10) | [sienna whisper](https://open.spotify.com/artist/6QXEwlJU7oOCVoSYTuoYk0) | [Hopefull Afterall](https://open.spotify.com/album/2EBAgVcsdxHA9eJkxmNTag) | 2:14 |
-| 32 | [First Things First](https://open.spotify.com/track/5jEGPAOALEaioHHHHeHesB) | [Red Cedar](https://open.spotify.com/artist/38yP6LHyPx5tNW9Il5ADFp) | [First Things First](https://open.spotify.com/album/26GxtM80uLUiS82C069HQm) | 2:06 |
-| 33 | [Our Feelings](https://open.spotify.com/track/6Afhf3If4W91Y1SaubBPQK) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Our Feelings](https://open.spotify.com/album/1Wl54blA680GecLnFfJoGS) | 2:20 |
-| 34 | [Gravity of Love](https://open.spotify.com/track/4waRcANfO8zeGwZLGGmK8a) | [Kadeen B](https://open.spotify.com/artist/5lK2qWZmdr8c6wUgCvZ9XV) | [Gravity of Love](https://open.spotify.com/album/7cL88M0zNEXKDWr7PQWFh8) | 2:51 |
-| 35 | [slow down time](https://open.spotify.com/track/5Aq3RQPH6qfrhuoTrRHhHN) | [yellow sofa](https://open.spotify.com/artist/00zktRPsRiNCP7GWXXi9Jc) | [slow down time](https://open.spotify.com/album/4dtVbTvZb6GVX40nnMlQFw) | 2:24 |
+| 30 | [First Things First](https://open.spotify.com/track/5jEGPAOALEaioHHHHeHesB) | [Red Cedar](https://open.spotify.com/artist/38yP6LHyPx5tNW9Il5ADFp) | [First Things First](https://open.spotify.com/album/26GxtM80uLUiS82C069HQm) | 2:06 |
+| 31 | [Make It](https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7) | [Berhanio](https://open.spotify.com/artist/3ZkP4NjIpKfyaTf2hTAmkW) | [Make It](https://open.spotify.com/album/4X9vWjNWlZ3qAtyDZ2ZhDj) | 1:58 |
+| 32 | [Our Feelings](https://open.spotify.com/track/6Afhf3If4W91Y1SaubBPQK) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Our Feelings](https://open.spotify.com/album/1Wl54blA680GecLnFfJoGS) | 2:20 |
+| 33 | [Hopefull Afterall](https://open.spotify.com/track/5SphZD6nqBV1BRkqH0hl10) | [sienna whisper](https://open.spotify.com/artist/6QXEwlJU7oOCVoSYTuoYk0) | [Hopefull Afterall](https://open.spotify.com/album/2EBAgVcsdxHA9eJkxmNTag) | 2:14 |
+| 34 | [slow down time](https://open.spotify.com/track/5Aq3RQPH6qfrhuoTrRHhHN) | [yellow sofa](https://open.spotify.com/artist/00zktRPsRiNCP7GWXXi9Jc) | [slow down time](https://open.spotify.com/album/4dtVbTvZb6GVX40nnMlQFw) | 2:24 |
+| 35 | [Gravity of Love](https://open.spotify.com/track/4waRcANfO8zeGwZLGGmK8a) | [Kadeen B](https://open.spotify.com/artist/5lK2qWZmdr8c6wUgCvZ9XV) | [Gravity of Love](https://open.spotify.com/album/7cL88M0zNEXKDWr7PQWFh8) | 2:51 |
 | 36 | [So Very Much](https://open.spotify.com/track/5dN8phxVcvz7BAIMuI4wqv) | [nora haze](https://open.spotify.com/artist/1pcopnUDTLC87zfDfV16es) | [So Very Much](https://open.spotify.com/album/3EhNEOMhyAweUU6beirfnQ) | 2:05 |
 | 37 | [Drizzle](https://open.spotify.com/track/5upFjPY4295n6g5AAr9LZq) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Drizzle](https://open.spotify.com/album/5pCz6ijkmoUi0SW8mN4seh) | 2:04 |
 | 38 | [Stacks](https://open.spotify.com/track/5ZaDdUug7zmuk17YGoXhzx) | [HYYPNOTIC](https://open.spotify.com/artist/7xYrUsHYH5J0hYgxHyx6PM) | [Stacks](https://open.spotify.com/album/2mVEfdt55X9RHZLELJhYtt) | 2:43 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 | 58 | [broth](https://open.spotify.com/track/1V07rv74k9FinkehDGR14N) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [broth](https://open.spotify.com/album/4r5vFtlHvYzp23Xn34Oj8Y) | 3:06 |
 | 59 | [raphael](https://open.spotify.com/track/5mLWt4ZwYYAWtnBE3v1xGT) | [vädur](https://open.spotify.com/artist/2Mbe5uXFqTeYC5exWeeQrQ) | [raphael](https://open.spotify.com/album/21oJkldyM7lbK0Ki87qnFA) | 2:34 |
 | 60 | [Eatme](https://open.spotify.com/track/6DnPJtIzURTDpvHts3tZaQ) | [astra division](https://open.spotify.com/artist/0yMwXDtoiRbZm4yn1JesCK) | [Eatme](https://open.spotify.com/album/48xcHcAqiNcaCdGlExb0jA) | 2:15 |
-| 61 | [Short of Breath](https://open.spotify.com/track/3nChuUgl4otmgu0u0ZueWj) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r) | [Short of Breath](https://open.spotify.com/album/1PntOd2Nr7y3CtOoPCFJnc) | 2:32 |
-| 62 | [routine](https://open.spotify.com/track/0HZsLTBHkIrtDC0qmCOAtg) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [routine](https://open.spotify.com/album/0z1s7c5kahemDRbOVe0YOP) | 2:02 |
+| 61 | [routine](https://open.spotify.com/track/0HZsLTBHkIrtDC0qmCOAtg) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [routine](https://open.spotify.com/album/0z1s7c5kahemDRbOVe0YOP) | 2:02 |
+| 62 | [Short of Breath](https://open.spotify.com/track/3nChuUgl4otmgu0u0ZueWj) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r) | [Short of Breath](https://open.spotify.com/album/1PntOd2Nr7y3CtOoPCFJnc) | 2:32 |
 | 63 | [flying on the clouds](https://open.spotify.com/track/4cwRE9jaIOcAsuuTpelpC4) | [Chapter IX](https://open.spotify.com/artist/6mKDo2EqkJiOtF3cs1CIZV) | [flying on the clouds](https://open.spotify.com/album/6ERlD8xNArGmJwqvzmWRQr) | 2:25 |
 | 64 | [The Tallest Mountain](https://open.spotify.com/track/14rZzlYzQ5emCMpb5FLeR5) | [Cyber Bloom](https://open.spotify.com/artist/3zeayfTUAD4ekNKbjFmRA7) | [The Tallest Mountain](https://open.spotify.com/album/38OaG5sdb67iy5IFNPpcwy) | 2:16 |
 | 65 | [Glowing Tears](https://open.spotify.com/track/32m44mzFzkX6id2ERis5qj) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Glowing Tears](https://open.spotify.com/album/4VEGzMvsvquNr4Mc3C9rBD) | 2:20 |

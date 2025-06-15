@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol 🌺☀️🌴🎶 Buscabulla en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,255 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,264 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,12 +67,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 57 | [Métele](https://open.spotify.com/track/7eQRFMGV6hPDQZiXlLwuYw) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [EP I](https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1) | 4:08 |
 | 58 | [La Número Uno](https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [La Número Uno](https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW) | 4:04 |
 | 59 | [Agujas en el pecho](https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Agujas en el pecho](https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt) | 5:20 |
-| 60 | [Puente del Papa](https://open.spotify.com/track/0UibzOFBUEJyihHiJ5fDjZ) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Inconcreto & Asociados](https://open.spotify.com/album/2igVN56nzK3hBmucjeZUsG) | 3:59 |
+| 60 | [Negro Santo](https://open.spotify.com/track/6OiuCieqfbEMBHQPZo0j3Q) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Melisa Castellanos](https://open.spotify.com/artist/7IuJScX96WercVvWQZNolC), [Monstruos del Mañana](https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V) | [Negro Santo](https://open.spotify.com/album/7gY74f6iO834wnj0Pf2wZW) | 4:27 |
 | 61 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 |
-| 62 | [Negro Santo](https://open.spotify.com/track/6OiuCieqfbEMBHQPZo0j3Q) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Melisa Castellanos](https://open.spotify.com/artist/7IuJScX96WercVvWQZNolC), [Monstruos del Mañana](https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V) | [Negro Santo](https://open.spotify.com/album/7gY74f6iO834wnj0Pf2wZW) | 4:27 |
-| 63 | [Perro Lobo](https://open.spotify.com/track/1V1apaDSstamRbQxpHykke) | [Alberto Y Roberto](https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8), [La Coreañera](https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7) | [Perro Lobo](https://open.spotify.com/album/6Sq4kHef4WRtDTWtQqHWE4) | 3:24 |
+| 62 | [Puente del Papa](https://open.spotify.com/track/0UibzOFBUEJyihHiJ5fDjZ) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Inconcreto & Asociados](https://open.spotify.com/album/2igVN56nzK3hBmucjeZUsG) | 3:59 |
+| 63 | [Canoas](https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Canoas](https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv) | 4:57 |
 | 64 | [Flores](https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR) | [Battle of Santiago](https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl) | [Flores](https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4) | 3:18 |
-| 65 | [Canoas](https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Canoas](https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv) | 4:57 |
+| 65 | [Perro Lobo](https://open.spotify.com/track/1V1apaDSstamRbQxpHykke) | [Alberto Y Roberto](https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8), [La Coreañera](https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7) | [Perro Lobo](https://open.spotify.com/album/6Sq4kHef4WRtDTWtQqHWE4) | 3:24 |
 | 66 | [Todo el Día en la Cama](https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:16 |
 | 67 | [Dibujos De Mi Alma](https://open.spotify.com/track/1GXm4Dv2NiM8QLui2l4Wls) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Lucha](https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib) | 4:12 |
 | 68 | [Mira Bien](https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mira Bien](https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU) | 3:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,788 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,807 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 19 | [VOY A LLeVARTE PA PR](https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 2:36 |
 | 20 | [Si No Es Muy Tarde \- Versión Cumbia](https://open.spotify.com/track/4KRlNVLHn2ZgGvpjnga31N) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Ezequiel Y La Clave](https://open.spotify.com/artist/74CIXR2mbIKC3gRYZQqKdY), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri) | [Si No Es Muy Tarde \- Versión Cumbia](https://open.spotify.com/album/1J9z1luYGjltxRgf8izM3C) | 3:16 |
 | 21 | [Resentia](https://open.spotify.com/track/2ANtIUI9cipWNI685VdlZb) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Los Gangsters Tambien Lloran](https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR) | 3:20 |
-| 22 | [Como Eran Las Cosas](https://open.spotify.com/track/0iwmZVScrpLcbbfHbdJGT0) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Lo + tranquilo](https://open.spotify.com/album/23IlFotb8j9WcbB4XKOfVq) | 4:02 |
+| 22 | [Como Eran Las Cosas](https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 4:00 |
 | 23 | [no tiene sentido](https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:38 |
 | 24 | [Tiene](https://open.spotify.com/track/1KfiYYMCZkP7no8DdkXFDl) | [Tobal Mj](https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Nacho G Flow](https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q) | [Tiene](https://open.spotify.com/album/2ZVvRVuoh9lnke6EO9zDdt) | 3:45 |
 | 25 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 34 | [Crimen](https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:52 |
 | 35 | [QUE CABRONA](https://open.spotify.com/track/2oZqk6nAy2CSAcmINCMi2N) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [QUE CABRONA](https://open.spotify.com/album/2RSVEhLOpYwQifGU7rxSAd) | 2:48 |
 | 36 | [Piel](https://open.spotify.com/track/6kPCcIAGoTeRrh8qrmKa90) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:22 |
-| 37 | [Puesto](https://open.spotify.com/track/6aLXs6USPTBlKrpqLRbUPh) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Recuerdos de Rock en Español](https://open.spotify.com/album/1hpB2ibi2q9g5DYmNnHC1o) | 3:26 |
+| 37 | [Puesto](https://open.spotify.com/track/5zpZUFF7YyPG90nkR88RYd) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Anoche](https://open.spotify.com/album/15eHesyZJpvolTrSUJgoDX) | 3:26 |
 | 38 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 |
 | 39 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 |
 | 40 | [secuestro](https://open.spotify.com/track/3I4YGWwJoqBdBGVnkRjnVw) | [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [dile no a las drogas](https://open.spotify.com/album/2kvzVR1bpkXKLmai4ZfMqS) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 49 | [MEJOR QUE VOS](https://open.spotify.com/track/36x1AGih4bK9cnPjbbChgG) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [NO VAYAS A ATENDER CUANDO EL DEMONIO LLAMA](https://open.spotify.com/album/56BPpEYgadIVVXYLabO5Je) | 2:46 |
 | 50 | [Me Rehúso](https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:25 |
 
-Snapshot ID: `L9+WeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L+DsqAAAAAAAAAAAAAAAAAAAAAAAAGVu`

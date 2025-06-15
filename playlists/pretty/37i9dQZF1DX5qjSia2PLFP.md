@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next and now\. Cover: <a href="spotify:artist:31xNxPD0tnYKr7Krg8dyPB">BunnaB</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,702 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,761 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 17 | [30 Deep \(feat\. 21 Savage\)](https://open.spotify.com/track/3d9VvVyziuFiLIIUJD0KkU) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Cry For Help](https://open.spotify.com/album/0ecyqAyhmOZFnKLPeGCzhQ) | 2:31 |
 | 18 | [Sevan](https://open.spotify.com/track/4W4hhnxvRE0rRUK1vaGlsk) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Five Forever](https://open.spotify.com/album/0zBzGId66SwQWCsPJgNLY1) | 2:41 |
 | 19 | [Fairy](https://open.spotify.com/track/735Ji1GzLR9nvteGdbqy8U) | [Myaap](https://open.spotify.com/artist/2QgCj5pd8aIys9jvr3A1GZ) | [Fairy](https://open.spotify.com/album/1RmNOVzmUpRHczpGYiUd10) | 2:22 |
-| 20 | [MOOD](https://open.spotify.com/track/4vEZaYfiAKzhh5thAQl31g) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ) | [Family Reunion](https://open.spotify.com/album/2UfKO8jHq78gO3v0GYmvAx) | 3:26 |
+| 20 | [MOOD](https://open.spotify.com/track/4vEZaYfiAKzhh5thAQl31g) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ) | [FAMILY REUNION](https://open.spotify.com/album/2UfKO8jHq78gO3v0GYmvAx) | 3:26 |
 | 21 | [Innit](https://open.spotify.com/track/5MfuImDGMP0PnjREYTIIfm) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [Innit](https://open.spotify.com/album/2UZnQIp5O5JaBpgBtQEvUN) | 2:47 |
 | 22 | [WHATCHU KNO ABOUT ME \(with Sexyy Red\)](https://open.spotify.com/track/4VI2Y5xg4gYynQqNQNQbTN) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [WHATCHU KNO ABOUT ME \(with Sexyy Red\)](https://open.spotify.com/album/2PzoiaGTcK3NfnMgHFd7QC) | 2:29 |
 | 23 | [The Largest](https://open.spotify.com/track/3neOwym9kfYsM1QWaR77C1) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:12 |

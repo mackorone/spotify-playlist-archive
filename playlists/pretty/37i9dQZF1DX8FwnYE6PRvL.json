@@ -1,6 +1,6 @@
 {
   "description": "The ultimate rock party playlist!",
-  "num_followers": 2695193,
+  "num_followers": 2695500,
   "original_name": "Rock Party",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 301920,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
         "name": "The Black Parade",
         "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 161920,
       "name": "Teenagers",
       "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 301920,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "All Along the Watchtower",
-      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 267306,
       "name": "Pour Some Sugar On Me - Remastered 2017",
       "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "All Along the Watchtower",
+      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "All That You Can't Leave Behind",
-        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
         "name": "Dressed To Kill",
         "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 168840,
       "name": "Rock And Roll All Nite",
       "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "All That You Can't Leave Behind",
+        "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
+        "name": "RUSH!",
+        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 164682,
+      "name": "BABY SAID",
+      "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
         "name": "Mellow Gold",
         "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 256946,
       "name": "Two Princes",
       "url": "https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
-        "name": "RUSH!",
-        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 164682,
-      "name": "BABY SAID",
-      "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "Atomic/Atomix",
-        "url": "https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 212600,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 214400,
       "name": "Friday I'm in Love",
       "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "Atomic/Atomix",
+        "url": "https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 212600,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY"
     },
     {
       "added_at": "2024-12-03 14:36:35",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-12-03 14:36:35",
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "Monkey Wrench",
-      "url": "https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR"
-    },
-    {
-      "added_at": "2024-12-03 14:36:35",
-      "album": {
         "name": "Holy Fire",
         "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 238853,
       "name": "My Number",
       "url": "https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud"
+    },
+    {
+      "added_at": "2024-12-03 14:36:35",
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 231480,
+      "name": "Monkey Wrench",
+      "url": "https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR"
     },
     {
       "added_at": "2024-12-03 14:36:35",

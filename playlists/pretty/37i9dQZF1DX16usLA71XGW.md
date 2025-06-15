@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 > Celebration of IWD with East Africa queens\. Cover: Fena
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,497 likes - 68 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,506 likes - 68 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

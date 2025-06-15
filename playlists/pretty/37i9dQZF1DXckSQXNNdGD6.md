@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto:  RUSLANA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,538 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,549 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 38 | [Vida Quemada](https://open.spotify.com/track/3VdYBYLvXzvyfFol1Fxz0h) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [Vida Quemada](https://open.spotify.com/album/42DTEPGjOaYsXlUtG0lYP9) | 3:01 |
 | 39 | [Cuando acabe el verano](https://open.spotify.com/track/6y4MFrp5vwd4uJAI9e3UQ7) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Cuando acabe el verano](https://open.spotify.com/album/2Y5z8prM08SNZYm8rqhHSW) | 2:47 |
 | 40 | [XXL](https://open.spotify.com/track/2VtCQgBsKrwpi22g8q5nWz) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [XXL](https://open.spotify.com/album/2xWGZx7WeIt5sVKAFWC51e) | 2:36 |
-| 41 | [qué bonito fue](https://open.spotify.com/track/2oRxGbzC6kMcgBXZoE5kkW) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [qué bonito fue](https://open.spotify.com/album/5ncvO397C5EBA0BJfzRfjA) | 2:38 |
+| 41 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 |
 | 42 | [Con Altura](https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Dame 10:36 Minutos](https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO) | 2:11 |
-| 43 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 |
+| 43 | [qué bonito fue](https://open.spotify.com/track/2oRxGbzC6kMcgBXZoE5kkW) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [qué bonito fue](https://open.spotify.com/album/5ncvO397C5EBA0BJfzRfjA) | 2:38 |
 | 44 | [NO PUDE SALVARNOS](https://open.spotify.com/track/292HLgM3QgJNZbfZFDu3BY) | [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [NO PUDE SALVARNOS](https://open.spotify.com/album/2iCBgzJqgwhsDysYWrjFXO) | 3:33 |
 | 45 | [A PLENO PULMÓN](https://open.spotify.com/track/5Vo2jF4Y4cCpLlOIwEt26v) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [entre cuatro paredes y una verdad](https://open.spotify.com/album/3Z7t8y8zwnplMYgQR8g0IV) | 2:49 |
 | 46 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |

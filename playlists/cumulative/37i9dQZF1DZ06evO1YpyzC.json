@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2 Pair",
+        "url": "https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151534,
+      "name": "2 Pair",
+      "url": "https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N"
+    },
+    {
+      "album": {
         "name": "The High Road",
         "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
       },
@@ -1050,7 +1068,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 214893,
       "name": "Leave You Alone",
       "url": "https://open.spotify.com/track/3J5UxKE5206of6TwawC4M8"

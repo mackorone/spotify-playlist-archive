@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 20799,
+  "num_followers": 20804,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Virginia Luque Interpreta a Disc\u00e9polo",
+        "url": "https://open.spotify.com/album/3fHmSlpFfyNaP33X9CKYZF"
+      },
+      "artists": [
+        {
+          "name": "Virginia Luque",
+          "url": "https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "Cafet\u00edn de Buenos Aires",
+      "url": "https://open.spotify.com/track/36NEktz9d2npV7RojXQJNU"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Buenos Aires",
         "url": "https://open.spotify.com/album/3QnnowQDhMZJiQUZaknba7"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 210613,
       "name": "Cafet\u00edn de Buenos Aires",
       "url": "https://open.spotify.com/track/6igePX7ujLa9bohLAXO34X"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Virginia Luque Interpreta a Disc\u00e9polo",
-        "url": "https://open.spotify.com/album/3fHmSlpFfyNaP33X9CKYZF"
-      },
-      "artists": [
-        {
-          "name": "Virginia Luque",
-          "url": "https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "Cafet\u00edn de Buenos Aires",
-      "url": "https://open.spotify.com/track/36NEktz9d2npV7RojXQJNU"
     },
     {
       "added_at": "2024-08-02 17:18:29",

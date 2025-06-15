@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,548 likes - 64 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,714 likes - 64 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 47 | [No Voy A Llorar / Me Enamoré](https://open.spotify.com/track/5nFG0wrCUFwv6EhoJAjjXK) | [Cumbia Club](https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x), [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [El Club de la Cumbia](https://open.spotify.com/artist/1WTE076oMv3AL15Ics0qnU) | [No Voy A Llorar / Me Enamoré](https://open.spotify.com/album/6aYYGeMtjjYPqwB44QkUqc) | 3:14 |
 | 48 | [Sin ti no se vivir](https://open.spotify.com/track/7L9YJpt99uvrMBHpSfAUEC) | [Carlos Montalvo](https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M) | [Grandes Éxitos](https://open.spotify.com/album/5P7VEteqUqUhaDje7L2UVf) | 2:28 |
 | 49 | [Entre el Cielo Vos y Yo \- En Vivo](https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [En Teatro del Huerto](https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL) | 4:20 |
-| 50 | [Y Tu Te Vas / Pídeme](https://open.spotify.com/track/1Ze4dVOuJq5SjjY98UjhSt) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT) | [Y Tu Te Vas / Pídeme](https://open.spotify.com/album/3HtRs4GRpIbMTT4qncwElQ) | 5:50 |
-| 51 | [Yo tomo licor \- En Vivo](https://open.spotify.com/track/4cJTVWpkGJa5G18egTwu2W) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [En Vivo Movistar Arena, Sesión 1](https://open.spotify.com/album/46VBUMLDQnPoR33QuXVJM7) | 2:25 |
-| 52 | [Ella Dijo / Mil Horas \- En Vivo](https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Ella Dijo / Mil Horas](https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f) | 3:19 |
+| 50 | [Ella Dijo / Mil Horas \- En Vivo](https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Ella Dijo / Mil Horas](https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f) | 3:19 |
+| 51 | [Y Tu Te Vas / Pídeme](https://open.spotify.com/track/1Ze4dVOuJq5SjjY98UjhSt) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT) | [Y Tu Te Vas / Pídeme](https://open.spotify.com/album/3HtRs4GRpIbMTT4qncwElQ) | 5:50 |
+| 52 | [Yo tomo licor \- En Vivo](https://open.spotify.com/track/4cJTVWpkGJa5G18egTwu2W) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [En Vivo Movistar Arena, Sesión 1](https://open.spotify.com/album/46VBUMLDQnPoR33QuXVJM7) | 2:25 |
 | 53 | [Amiga Traidora \- En Vivo](https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Amiga Traidora \(En Vivo\)](https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd) | 3:56 |
 | 54 | [Persiana Americana \- En Vivo](https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo](https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL) | 1:11 |
 | 55 | [El Que Siempre Te Espera](https://open.spotify.com/track/7DamHboUtPW1M1K6EkIg4c) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE) | [El Que Siempre Te Espera](https://open.spotify.com/album/05JrWs6dpHryCNWvcbTRwG) | 2:53 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:4uqHgaeBynLBQgfhMEIm1G">PLUTO</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,805,100 likes - 101 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,804,923 likes - 101 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 20 | [No Date](https://open.spotify.com/track/6UuG4xWBi4Qw74LwUzlhj1) | [MexikoDro](https://open.spotify.com/artist/6VTn4Wmhm4uD4UNFcEIkEP) | [No Date](https://open.spotify.com/album/4r8YnQJmCGURwZZlAApkUm) | 2:41 |
 | 21 | [PABLO FINAL GOTTI version \(feat\. Yo Gotti\)](https://open.spotify.com/track/1FD9lN6jrnQ5Rp8yuft8fU) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 2:19 |
 | 22 | [Pop Shii](https://open.spotify.com/track/4CMukSEsqFRKXuXXPWMxMY) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [Pop Shii](https://open.spotify.com/album/0yZVETaEQhgGxNT3h45gJF) | 2:16 |
-| 23 | [Seventeen](https://open.spotify.com/track/3VgFxRLEvav1ewTx5IaROh) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Seventeen](https://open.spotify.com/album/1xZkfphab61c5kqctCexP7) | 3:14 |
+| 23 | [Seventeen](https://open.spotify.com/track/3VgFxRLEvav1ewTx5IaROh) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Seventeen](https://open.spotify.com/album/1xZkfphab61c5kqctCexP7) | 3:13 |
 | 24 | [Kentucky Love](https://open.spotify.com/track/7v21UEJI0U8v99dggzZjQm) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF), [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw), [KrispyLife Kidd](https://open.spotify.com/artist/0nsO60VA1qoO308e9cYEPR) | [Kentucky Love](https://open.spotify.com/album/2kh30VwYJ7fwfoEszdMOg0) | 3:51 |
 | 25 | [The Viper](https://open.spotify.com/track/3yRCvXmJprvbscpKhKXMjR) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [ANIMALS ONLY \(ICE COLD\)](https://open.spotify.com/album/44YtWCi7ahAV8wvmreYKaO) | 2:30 |
 | 26 | [WHIM WHAMIEE \(feat\. Sexyy Red\) \[Remix\]](https://open.spotify.com/track/7pvrkNvlIQMY0hfGcdCr5m) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [WHIM WHAMIEE \(feat\. Sexyy Red\) \[Remix\]](https://open.spotify.com/album/1Du7xMoICzbJV9qYy1EUWB) | 2:27 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 100 | [Controversy 2 \(feat\. Tee Grizzley\)](https://open.spotify.com/track/3nPI8WzSQWAhF0WjH8cnrH) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Crack Music 3](https://open.spotify.com/album/7GgMU6eXAkAJ1IJ9WcPVIo) | 2:00 |
 | 101 | [act ii: date @ 8](https://open.spotify.com/track/5wzPDiNVgJ5Rvhjne9Uj3F) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [u made me a st4r](https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr) | 1:53 |
 
-Snapshot ID: `aEuiYwAAAACfnwqk81P9KgxMTu07V8vZ`
+Snapshot ID: `aEuiYwAAAABgUVUJIfgXQ/eM1SZPrOtk`

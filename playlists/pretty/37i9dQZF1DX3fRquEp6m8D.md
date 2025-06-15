@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fRquEp6m8D.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,345,798 likes - 55 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,346,024 likes - 55 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fRquEp6m8D.md) - [plain]
 | 54 | [Room for 2](https://open.spotify.com/track/4U1TYTYFoFXfhTEGwLlTH1) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Room For 2](https://open.spotify.com/album/7E3zgNBEK3ClgfBe7hDpJR) | 3:28 |
 | 55 | [I'd Rather Go Blind \- Live](https://open.spotify.com/track/5nMkd5cq4JPZqAoQTXv8Wm) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Live Acoustic EP](https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda) | 2:36 |
 
-Snapshot ID: `aCNCeAAAAACfsVgLsIVGyGDWB+6sarzb`
+Snapshot ID: `AAAAADXchzdlc7hsPfV3Rc5x3ZLRjhz9`

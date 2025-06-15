@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > A journey into the unknown, dark, and experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,924 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,960 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 42 | [Close](https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW) | [Johan Graden](https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak), [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [Close](https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u) | 5:20 |
 | 43 | [Evening Mood](https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Evening Mood](https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu) | 6:24 |
 | 44 | [Going Home \- IRCAM Version](https://open.spotify.com/track/5RC9SAPnBXj57ovnvUslvl) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Twin Color, Vol\. 1](https://open.spotify.com/album/1H8oLIUoU8Fq3yGBpZWp9Y) | 7:47 |
-| 45 | [Cloudbreath](https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 3:07 |
-| 46 | [Tectonic](https://open.spotify.com/track/2ghaHr9ExEOlqN3gOFzWUY) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Tectonic](https://open.spotify.com/album/3VZtu7girTT5vEWivWj3oC) | 4:37 |
+| 45 | [Tectonic](https://open.spotify.com/track/2ghaHr9ExEOlqN3gOFzWUY) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Tectonic](https://open.spotify.com/album/3VZtu7girTT5vEWivWj3oC) | 4:37 |
+| 46 | [Cloudbreath](https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 3:07 |
 | 47 | [ways of being](https://open.spotify.com/track/4Zl0FwwXFujfHVrTYyLNA0) | [Tristan Arp](https://open.spotify.com/artist/5PvxHyYKtHsyyI5XjdqnD9), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [a pool, a portal](https://open.spotify.com/album/4u4RJlUhvlenhfRpcmAXkQ) | 4:05 |
 | 48 | [Tunnel Lights](https://open.spotify.com/track/1PGLefFN78JJDg8bVM6Snv) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Tunnel Lights](https://open.spotify.com/album/6YDDMqrGMpgtOE8fJQV8jt) | 4:07 |
 | 49 | [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 52 | [II\. STAR \(Survival\)](https://open.spotify.com/track/43hzcER3XiDqK3ujFpW9WN) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I), [Nsámbu Za Suékama](https://open.spotify.com/artist/3CUr9pUdxmci3oH8JodF7f) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 2:55 |
 | 53 | [I'm A Man](https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [I'm A Man](https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4) | 4:31 |
 | 54 | [Noche](https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6) | [Fuensanta](https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD) | [Noche](https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph) | 3:57 |
-| 55 | [Deep Sea](https://open.spotify.com/track/4EqDAxDuFSsRFaxQRlpsCm) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 0:55 |
-| 56 | [The King](https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [The King](https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ) | 3:44 |
+| 55 | [The King](https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [The King](https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ) | 3:44 |
+| 56 | [Deep Sea](https://open.spotify.com/track/4EqDAxDuFSsRFaxQRlpsCm) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 0:55 |
 | 57 | [Spinning](https://open.spotify.com/track/0E2AcfdJAhmAZdLz85TQU3) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Spinning](https://open.spotify.com/album/5WcVopSnLSUMTFUuoeE1jA) | 6:14 |
 | 58 | [Drip Coda](https://open.spotify.com/track/7Bs1LvXNJsTuwNPkXfFq56) | [WTRGRL](https://open.spotify.com/artist/35uYLkqn6CkvexolH6j9O9), [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [Drïpsody](https://open.spotify.com/album/7LSo4s0mUDNSmHUrI0Batf) | 3:32 |
 | 59 | [thieves](https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [thieves](https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7) | 2:58 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 68 | [Drum Jump](https://open.spotify.com/track/0mCZfrseEMpeQlCLf99UyG) | [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [Lucha Libre](https://open.spotify.com/album/5AaVrBrxC3MQ18DGqU6XUA) | 4:12 |
 | 69 | [Selalu](https://open.spotify.com/track/5x5VcM4mz5bqBRjz9Mwg32) | [Tarawangsawelas](https://open.spotify.com/artist/4Wx6IGLGk4cI3HtL3114il) | [Wanci](https://open.spotify.com/album/4wjoTcychTa05MTJOCfDaS) | 5:44 |
 | 70 | [Hiding In My Room](https://open.spotify.com/track/3si20hOppfHPDiFCyEDkSM) | [Kraków Loves Adana](https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN) | [Hiding In My Room](https://open.spotify.com/album/5FB4hmcRa9sqImroII1pKX) | 4:16 |
-| 71 | [Ros Elavy](https://open.spotify.com/track/7G7ZseAC0yA2tmojHC92no) | [CLARAGUILAR](https://open.spotify.com/artist/1NZsUhjp15d6Vcm2vsLs6R) | [Figura](https://open.spotify.com/album/0MnDnjwq6oHY5eFnzz3OBa) | 5:39 |
-| 72 | [Makkuroi Mizu \(まっくろい水）](https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2) | 6:03 |
+| 71 | [Makkuroi Mizu \(まっくろい水）](https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2) | 6:03 |
+| 72 | [Ros Elavy](https://open.spotify.com/track/7G7ZseAC0yA2tmojHC92no) | [CLARAGUILAR](https://open.spotify.com/artist/1NZsUhjp15d6Vcm2vsLs6R) | [Figura](https://open.spotify.com/album/0MnDnjwq6oHY5eFnzz3OBa) | 5:39 |
 | 73 | [ANNA](https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [Pt\. I](https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK) | 4:01 |
 | 74 | [The Fountain](https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 3:16 |
 | 75 | [Travel Lite](https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7) | [Perera Elsewhere](https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ) | [Home](https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN) | 3:57 |

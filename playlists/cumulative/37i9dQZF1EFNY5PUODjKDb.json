@@ -3836,7 +3836,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 22426,
       "name": "Fanfare",
       "url": "https://open.spotify.com/track/6oTi6XIHGDKEstJxEEOcQo"
@@ -13436,10 +13436,36 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 115093,
       "name": "The Phone Call",
       "url": "https://open.spotify.com/track/5ZH7W8WIxfE7Pzl7BcP48Z"
+    },
+    {
+      "album": {
+        "name": "SUNSET BLVD: The Album",
+        "url": "https://open.spotify.com/album/4NatUeuL2oG0XN9c2KcE45"
+      },
+      "artists": [
+        {
+          "name": "Nicole Scherzinger",
+          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
+        },
+        {
+          "name": "Tom Francis",
+          "url": "https://open.spotify.com/artist/1BmpFeWuQkyVbGLIzebnRD"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235480,
+      "name": "The Phone Call",
+      "url": "https://open.spotify.com/track/6GURSShJNghfZQmmKUzMoy"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to women at full volume\. Cover \- Neeti Mohan
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,367 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,383 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 16 | [Nasha \(From "Raid 2"\)](https://open.spotify.com/track/67u2VDnIGjc9wYxSaUaUvt) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [White Noise Collectives](https://open.spotify.com/artist/73vvjIbxF9MP8VZG3tthUC), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Sumonto Mukherjee](https://open.spotify.com/artist/6g6hYV0STvnWlu1NPD6pDy) | [Nasha \(From "Raid 2"\)](https://open.spotify.com/album/1OwW24oDzqUSC0enuzl2dz) | 3:00 |
 | 17 | [Tere Bina Saawan](https://open.spotify.com/track/6nbFBtyQdR9azBu10D4Pjs) | [Himani Kapoor](https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur) | [Raagraanis](https://open.spotify.com/album/0iERkUtXHqCAt5pShswsKM) | 2:32 |
 | 18 | [Jiya](https://open.spotify.com/track/0N0k2zsecxTf0Z2mRIFryQ) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Jiya](https://open.spotify.com/album/7f1k4Bhpsa8jyEcIuOwDVM) | 3:01 |
-| 19 | [Theher Jaa](https://open.spotify.com/track/2rTQXTt0rLSGGBvK3zR9nj) | [Nupoor Khedkar](https://open.spotify.com/artist/0NU4RKzpRuMwTyQRlPxqvD) | [Theher Jaa](https://open.spotify.com/album/4mXdNC6lXoNvW0iz2oe6VH) | 3:29 |
+| 19 | [Theher Jaa](https://open.spotify.com/track/2rTQXTt0rLSGGBvK3zR9nj) | [Nupoor Khedkar](https://open.spotify.com/artist/0NU4RKzpRuMwTyQRlPxqvD), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG) | [Theher Jaa](https://open.spotify.com/album/4mXdNC6lXoNvW0iz2oe6VH) | 3:29 |
 | 20 | [Thaal \- From "His Story of Itihaas"](https://open.spotify.com/track/29W6Oyg13d2c3bQ0IWfcQq) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Manpreet Dhami](https://open.spotify.com/artist/0aNSzmd9nXADnVbtpT6SLT) | [Thaal \(From "His Story of Itihaas"\)](https://open.spotify.com/album/48UztMKXMbFqIP11OO2Kus) | 2:22 |
 | 21 | [Ranjheya](https://open.spotify.com/track/3EyFLvf2phMoveVeyHjYtl) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [REHAT](https://open.spotify.com/artist/4Zg2ou2uzzlXFhudJt7qpo) | [Ranjheya](https://open.spotify.com/album/6GEYYn428QWQmyfFXApn1s) | 2:38 |
 | 22 | [Pani Warga](https://open.spotify.com/track/5ERZYoEUzjLFf7h56b6IPH) | [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Pani Warga](https://open.spotify.com/album/4TtJCKtzGo1WtZREVo5odl) | 2:56 |

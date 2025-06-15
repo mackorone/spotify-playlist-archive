@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,707 likes - 75 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,748 likes - 75 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 40 | [Pressure](https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [Lost Album](https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv) | 9:36 |
 | 41 | [Yesterday's Entertainment](https://open.spotify.com/track/0C2aF4G83wcMUuxE7nuMC9) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Sleep Games](https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec) | 2:12 |
 | 42 | [Distant Solace](https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Distant Solace](https://open.spotify.com/album/7odaTvennSTNVuMLArV19i) | 2:33 |
-| 43 | [The First Wave \- Birth Of Venus](https://open.spotify.com/track/6wG4izwDQdTxkpBEB6CRlk) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Seven Waves](https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3) | 5:04 |
-| 44 | [Vision](https://open.spotify.com/track/2zVr2mii2iTDTag39yjf3b) | [Pyramid](https://open.spotify.com/artist/3aSTe6gzR3XChH1wcLfhmD) | [Atmosphere](https://open.spotify.com/album/1Qefhd4hwDiSjtooxAjdhM) | 3:10 |
+| 43 | [Vision](https://open.spotify.com/track/2zVr2mii2iTDTag39yjf3b) | [Pyramid](https://open.spotify.com/artist/3aSTe6gzR3XChH1wcLfhmD) | [Atmosphere](https://open.spotify.com/album/1Qefhd4hwDiSjtooxAjdhM) | 3:10 |
+| 44 | [The First Wave \- Birth Of Venus](https://open.spotify.com/track/6wG4izwDQdTxkpBEB6CRlk) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Seven Waves](https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3) | 5:04 |
 | 45 | [Movements Of A Visionary \- Remastered 2018](https://open.spotify.com/track/76lbYpKnn31T0nnRs5AZXs) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Phaedra \(Deluxe Version\)](https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n) | 7:57 |
 | 46 | [Deep End](https://open.spotify.com/track/2ZYfDaCu9vugaGAJDM3NHO) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Sleep Games](https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec) | 4:11 |
 | 47 | [Flatworm Meets Sea Slug](https://open.spotify.com/track/2SVKNL8UJ0s5r2VwTc81E2) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worm](https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0) | 3:18 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 52 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 |
 | 53 | [The Belldog](https://open.spotify.com/track/0d2HX14emol25j4C8yL7SP) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Moebius](https://open.spotify.com/artist/0ctLTKGS1coZsfRHZw48tC), [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [After the Heat](https://open.spotify.com/album/0KsjHH3K0VIMuNOuvRWMBR) | 6:19 |
 | 54 | [Pluto's First Popstar \(Outro\)](https://open.spotify.com/track/5MeaFcLEcsSkcud6tQ2q9L) | [Eli Raybon](https://open.spotify.com/artist/1P6Xty8gqi0gNcqwt2R8Vq) | [Supertoys](https://open.spotify.com/album/50DNnceylCFUrQv5pmjYxm) | 2:28 |
-| 55 | [Pomme Fritz \(Meat 'N Veg\)](https://open.spotify.com/track/7mPwTpwSfEOswUzsT1xsyC) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Pomme Fritz](https://open.spotify.com/album/6dRtPQENkx83CiyWdAazE1) | 9:02 |
-| 56 | [10°C](https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:22 |
+| 55 | [10°C](https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:22 |
+| 56 | [Pomme Fritz \(Meat 'N Veg\)](https://open.spotify.com/track/7mPwTpwSfEOswUzsT1xsyC) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Pomme Fritz](https://open.spotify.com/album/6dRtPQENkx83CiyWdAazE1) | 9:02 |
 | 57 | [Floe \(Remix\) \- Specially Mixed for Your Personal Cassette Player](https://open.spotify.com/track/4dcXDL3703XHNYdqbOxY1U) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Philip Glass Ensemble](https://open.spotify.com/artist/3d8ZNJ7en7Rf9cnI9U8gbp), [Michael Riesman](https://open.spotify.com/artist/1KPzLZHZrqvYILcVTEMCP1) | [Glassworks \- Specially Mixed for Your Personal Cassette Player](https://open.spotify.com/album/0AyAlM9IKZuvgADNBS3JJD) | 6:00 |
 | 58 | [The Black Mill Video Tape](https://open.spotify.com/track/4AAmFIGUbQ4xnht6tyCOVk) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Sleep Games](https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec) | 5:09 |
 | 59 | [Debris](https://open.spotify.com/track/0Q7rAIKYY7wM0bxBuFJwGb) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 4:24 |

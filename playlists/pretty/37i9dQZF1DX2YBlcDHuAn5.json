@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33359,
+  "num_followers": 33362,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-06-05 22:00:43",
       "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 198456,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
+    },
+    {
+      "added_at": "2025-06-05 22:00:43",
+      "album": {
         "name": "Midwest Kid",
         "url": "https://open.spotify.com/album/1TLaGao4Yqe6Qb2uRsXRXx"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 157333,
       "name": "Wish I Never Met You",
       "url": "https://open.spotify.com/track/3CAuBM6hYu7mJi8WZkZ8aO"
-    },
-    {
-      "added_at": "2025-06-05 22:00:43",
-      "album": {
-        "name": "Heartless",
-        "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 198456,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
     },
     {
       "added_at": "2025-06-05 22:00:43",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-06-05 22:00:43",
       "album": {
+        "name": "Good To Be Here",
+        "url": "https://open.spotify.com/album/3A4MXh4o3DG3B2do5UghrP"
+      },
+      "artists": [
+        {
+          "name": "Phillip-Michael Scales",
+          "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
+        }
+      ],
+      "duration_ms": 240468,
+      "name": "Something Bout You",
+      "url": "https://open.spotify.com/track/74H0ZAy5DdEYRVpM7uiAVv"
+    },
+    {
+      "added_at": "2025-06-05 22:00:43",
+      "album": {
         "name": "Bottom of a Bottle",
         "url": "https://open.spotify.com/album/4V5J6rRicjzvdoqQcgNdt6"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 236022,
       "name": "Bottom of a Bottle",
       "url": "https://open.spotify.com/track/07dTr0jqXwYbMiOoLjfHri"
-    },
-    {
-      "added_at": "2025-06-05 22:00:43",
-      "album": {
-        "name": "Good To Be Here",
-        "url": "https://open.spotify.com/album/3A4MXh4o3DG3B2do5UghrP"
-      },
-      "artists": [
-        {
-          "name": "Phillip-Michael Scales",
-          "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
-        }
-      ],
-      "duration_ms": 240468,
-      "name": "Something Bout You",
-      "url": "https://open.spotify.com/track/74H0ZAy5DdEYRVpM7uiAVv"
     },
     {
       "added_at": "2025-06-05 22:00:43",

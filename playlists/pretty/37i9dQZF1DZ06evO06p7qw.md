@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 
 > This is Manuel Medrano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,890 likes - 48 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,954 likes - 48 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 | 15 | [Cómo Haces](https://open.spotify.com/track/0nIUbQVpDSv8wQTY2qwW4u) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Elementales](https://open.spotify.com/album/1dydo5mIdwoV2cvacOzcWo) | 3:47 |
 | 16 | [Hay Una Luz Dentro De Ti](https://open.spotify.com/track/1SAYcTIjXstwVqmzfKOXjK) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:05 |
 | 17 | [Donde Nadie Pueda Ir](https://open.spotify.com/track/05xgON7xWm3yN1yarMHdBv) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 2:49 |
-| 18 | [Miel](https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:32 |
-| 19 | [Mariposas En El Pecho](https://open.spotify.com/track/02VWAshhgMhK8gEqwbOWyy) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Mariposas En El Pecho](https://open.spotify.com/album/4G7lZH7HqircGRaCDXwV0U) | 3:54 |
+| 18 | [Mariposas En El Pecho](https://open.spotify.com/track/02VWAshhgMhK8gEqwbOWyy) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Mariposas En El Pecho](https://open.spotify.com/album/4G7lZH7HqircGRaCDXwV0U) | 3:54 |
+| 19 | [Miel](https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:32 |
 | 20 | [Hace Tiempo](https://open.spotify.com/track/7Juu11Or4AfppFbtCNW11f) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 2:22 |
 | 21 | [Quédate](https://open.spotify.com/track/5XXxxfDWGvI6OaXPEniklV) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:03 |
 | 22 | [Cielo \(feat\. Nile Rodgers\)](https://open.spotify.com/track/5qH4I7qIkrhxir8UfLG0IY) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Cielo \(feat\. Nile Rodgers\)](https://open.spotify.com/album/7FZJlzMohMoU65vac6hydK) | 3:03 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 | 47 | [Polvo De Estrellas](https://open.spotify.com/track/7kNIFgiurMWE3dB93hbEPE) | [Alberto Plaza](https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Polvo De Estrellas](https://open.spotify.com/album/1yBh12xHy3FXpXvQvRwadu) | 3:47 |
 | 48 | [Intro + Miel \- En Vivo desde el Auditorio Nacional](https://open.spotify.com/track/4VcnsXca3wmorKKJPgZR0W) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano En Concierto 10 Años \(En Vivo desde el Auditorio Nacional\)](https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G) | 5:21 |
 
-Snapshot ID: `aEoYgAAAAACp5b1JfmQ86qqd6qMx2W0Q`
+Snapshot ID: `aEtqAAAAAABPjq52dnOF2+kj+5/TFkjp`

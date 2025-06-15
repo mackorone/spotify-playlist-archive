@@ -1,12 +1,12 @@
 {
   "description": "This is Gondwana. The essential tracks, all in one playlist.",
-  "num_followers": 87565,
+  "num_followers": 87580,
   "original_name": "This Is Gondwana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAACyga5MhJ58/Zach0QAQsZe",
+  "snapshot_id": "aEtqAAAAAADFDtQPflfy/iRsrq1sNOtv",
   "tracks": [
     {
       "added_at": null,
@@ -151,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resiliente",
-        "url": "https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 237880,
-      "name": "Aire de Jah",
-      "url": "https://open.spotify.com/track/5TXLP8oniNd1RvZOTnTDOB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cali Roots Riddim 2023",
         "url": "https://open.spotify.com/album/2VV4AwkAHaWRJ3noJY6aWT"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 224986,
       "name": "Do It Right",
       "url": "https://open.spotify.com/track/4uuWMM30p5K10k7amGqJXM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resiliente",
+        "url": "https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 237880,
+      "name": "Aire de Jah",
+      "url": "https://open.spotify.com/track/5TXLP8oniNd1RvZOTnTDOB"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alabanza",
-        "url": "https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 261493,
-      "name": "Alabanza",
-      "url": "https://open.spotify.com/track/1z7SPFBf9NlA4F2c6AvVQ7"
+      "duration_ms": 188080,
+      "name": "Keep The Faith",
+      "url": "https://open.spotify.com/track/0pKP04PH5nXiPqAq7Ava5o"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp"
+        "name": "Alabanza",
+        "url": "https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 188080,
-      "name": "Keep The Faith",
-      "url": "https://open.spotify.com/track/0pKP04PH5nXiPqAq7Ava5o"
+      "duration_ms": 261493,
+      "name": "Alabanza",
+      "url": "https://open.spotify.com/track/1z7SPFBf9NlA4F2c6AvVQ7"
     },
     {
       "added_at": null,

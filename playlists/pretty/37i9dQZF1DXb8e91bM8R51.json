@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 52722,
+  "num_followers": 52725,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -739,26 +739,6 @@
     {
       "added_at": "2025-06-13 15:34:46",
       "album": {
-        "name": "Thang For You (feat. No Cap)",
-        "url": "https://open.spotify.com/album/2gEXNftII7Pb0LLzc9MBM2"
-      },
-      "artists": [
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        },
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
-        }
-      ],
-      "duration_ms": 259545,
-      "name": "Thang For You (feat. No Cap)",
-      "url": "https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo"
-    },
-    {
-      "added_at": "2025-06-13 15:34:46",
-      "album": {
         "name": "King's Disease II",
         "url": "https://open.spotify.com/album/6CM5qhYBvpgYNek5kYwuOJ"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 282192,
       "name": "Nobody (feat. Ms. Lauryn Hill)",
       "url": "https://open.spotify.com/track/1W7gmQ7AgRMIUthrV0OD0h"
+    },
+    {
+      "added_at": "2025-06-13 15:34:46",
+      "album": {
+        "name": "Thang For You (feat. No Cap)",
+        "url": "https://open.spotify.com/album/2gEXNftII7Pb0LLzc9MBM2"
+      },
+      "artists": [
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        },
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "duration_ms": 259545,
+      "name": "Thang For You (feat. No Cap)",
+      "url": "https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo"
     },
     {
       "added_at": "2025-06-13 15:34:46",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2025-06-13 15:34:46",
       "album": {
+        "name": "Lei Keli ft. 47 / For Promotional Use Only",
+        "url": "https://open.spotify.com/album/2KACVAPmuBiD7GGcGwndKq"
+      },
+      "artists": [
+        {
+          "name": "Leikeli47",
+          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
+        }
+      ],
+      "duration_ms": 139920,
+      "name": "hnic",
+      "url": "https://open.spotify.com/track/4txLt5JH43Sa5mQiBoCYib"
+    },
+    {
+      "added_at": "2025-06-13 15:34:46",
+      "album": {
         "name": "Recognize My Car",
         "url": "https://open.spotify.com/album/3SKa2RTPY6cja3BecEyKeT"
       },
@@ -1963,34 +1979,6 @@
       "duration_ms": 240967,
       "name": "Torpedo",
       "url": "https://open.spotify.com/track/5R5UNKWsmMPpFq5JHK93Fw"
-    },
-    {
-      "added_at": "2025-06-13 15:34:46",
-      "album": {
-        "name": "College Park",
-        "url": "https://open.spotify.com/album/57T1flhMpfjP4T4yW38qW0"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        },
-        {
-          "name": "Statik Selektah",
-          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
-        }
-      ],
-      "duration_ms": 315102,
-      "name": "Self Medication (feat. Seth MacFarlane, Redman, & Statik Selektah)",
-      "url": "https://open.spotify.com/track/5E4mQ2mXblbeuI4tefnMZG"
     }
   ],
   "unique_name": "no corre",

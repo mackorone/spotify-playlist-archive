@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u5c0f\u5ba4\u97ff",
-  "num_followers": 44918,
+  "num_followers": 44933,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -263,26 +263,6 @@
     {
       "added_at": "2025-06-10 15:00:34",
       "album": {
-        "name": "EVERYDAY",
-        "url": "https://open.spotify.com/album/7MGQ30eNUS8DqLKQdH2zTi"
-      },
-      "artists": [
-        {
-          "name": "Takuya Kuroda",
-          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
-        },
-        {
-          "name": "Corey King",
-          "url": "https://open.spotify.com/artist/4QpFZwYNSqn212bHXtpDrc"
-        }
-      ],
-      "duration_ms": 223820,
-      "name": "Must Have Known",
-      "url": "https://open.spotify.com/track/3TlVcT7gmTbwB3607URmTL"
-    },
-    {
-      "added_at": "2025-06-10 15:00:34",
-      "album": {
         "name": "Exotic Rose",
         "url": "https://open.spotify.com/album/0JsFB9OZbY0lBEnTBxiGNf"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 290341,
       "name": "Exotic Rose",
       "url": "https://open.spotify.com/track/3uYuaFdOFuqJCPTwUy3K8K"
+    },
+    {
+      "added_at": "2025-06-10 15:00:34",
+      "album": {
+        "name": "EVERYDAY",
+        "url": "https://open.spotify.com/album/7MGQ30eNUS8DqLKQdH2zTi"
+      },
+      "artists": [
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        },
+        {
+          "name": "Corey King",
+          "url": "https://open.spotify.com/artist/4QpFZwYNSqn212bHXtpDrc"
+        }
+      ],
+      "duration_ms": 223820,
+      "name": "Must Have Known",
+      "url": "https://open.spotify.com/track/3TlVcT7gmTbwB3607URmTL"
     },
     {
       "added_at": "2025-06-10 15:00:34",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-06-10 15:00:34",
       "album": {
-        "name": "OTODOKENIAGARIMASHITA",
-        "url": "https://open.spotify.com/album/4EvClGWhfcynBZk3Rq9nDr"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "OTODOKENIAGARIMASHITA",
-      "url": "https://open.spotify.com/track/1K6I1EakDN2gEKUYc6FaX2"
-    },
-    {
-      "added_at": "2025-06-10 15:00:34",
-      "album": {
         "name": "MORAL",
         "url": "https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 201842,
       "name": "MORAL",
       "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
+    },
+    {
+      "added_at": "2025-06-10 15:00:34",
+      "album": {
+        "name": "OTODOKENIAGARIMASHITA",
+        "url": "https://open.spotify.com/album/4EvClGWhfcynBZk3Rq9nDr"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "OTODOKENIAGARIMASHITA",
+      "url": "https://open.spotify.com/track/1K6I1EakDN2gEKUYc6FaX2"
     },
     {
       "added_at": "2025-06-10 15:00:34",
@@ -399,22 +399,6 @@
       "duration_ms": 210933,
       "name": "This city is too jazzy to be in love",
       "url": "https://open.spotify.com/track/6ljyh0IT9VYGtBwFWRxq1U"
-    },
-    {
-      "added_at": "2025-06-10 15:00:34",
-      "album": {
-        "name": "The Toro",
-        "url": "https://open.spotify.com/album/77AWJqA0ENHe9WRW6g0tC5"
-      },
-      "artists": [
-        {
-          "name": "\u5e02\u5ddd\u7a7a",
-          "url": "https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ"
-        }
-      ],
-      "duration_ms": 403747,
-      "name": "The Toro",
-      "url": "https://open.spotify.com/track/5N2KR3R4mvvAst6J71Hv8S"
     },
     {
       "added_at": "2025-06-10 15:00:34",
@@ -451,6 +435,22 @@
       "duration_ms": 228966,
       "name": "New World feat.ELAIZA",
       "url": "https://open.spotify.com/track/2SH3irAb48lnPA4zzxtTwX"
+    },
+    {
+      "added_at": "2025-06-10 15:00:34",
+      "album": {
+        "name": "The Toro",
+        "url": "https://open.spotify.com/album/77AWJqA0ENHe9WRW6g0tC5"
+      },
+      "artists": [
+        {
+          "name": "\u5e02\u5ddd\u7a7a",
+          "url": "https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ"
+        }
+      ],
+      "duration_ms": 403747,
+      "name": "The Toro",
+      "url": "https://open.spotify.com/track/5N2KR3R4mvvAst6J71Hv8S"
     },
     {
       "added_at": "2025-06-10 15:00:34",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-06-10 15:00:34",
       "album": {
-        "name": "WE ARE",
-        "url": "https://open.spotify.com/album/4GJ0bfLP0k6oCJDRE3zMFr"
-      },
-      "artists": [
-        {
-          "name": "N.S. DANCEMBLE",
-          "url": "https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr"
-        }
-      ],
-      "duration_ms": 241904,
-      "name": "WE ARE",
-      "url": "https://open.spotify.com/track/5EnAjL9A92rIuBg5Uajikl"
-    },
-    {
-      "added_at": "2025-06-10 15:00:34",
-      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/5w2YF6mrbiUiywvTW0Wgvc"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 262311,
       "name": "Love Theme From Spartacus",
       "url": "https://open.spotify.com/track/7lhUU1b6OTUIxSYd4gmZwh"
+    },
+    {
+      "added_at": "2025-06-10 15:00:34",
+      "album": {
+        "name": "What hummingbirds teach us about flying",
+        "url": "https://open.spotify.com/album/2GdtjdIIi9Pa1plK5YkoQn"
+      },
+      "artists": [
+        {
+          "name": "\u6851\u539f\u3042\u3044",
+          "url": "https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR"
+        }
+      ],
+      "duration_ms": 327200,
+      "name": "What hummingbirds teach us about flying",
+      "url": "https://open.spotify.com/track/63A5iao38RysFoJepVv63Y"
     },
     {
       "added_at": "2025-06-10 15:00:34",
@@ -663,18 +663,18 @@
     {
       "added_at": "2025-06-10 15:00:34",
       "album": {
-        "name": "What hummingbirds teach us about flying",
-        "url": "https://open.spotify.com/album/2GdtjdIIi9Pa1plK5YkoQn"
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/4GJ0bfLP0k6oCJDRE3zMFr"
       },
       "artists": [
         {
-          "name": "\u6851\u539f\u3042\u3044",
-          "url": "https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR"
+          "name": "N.S. DANCEMBLE",
+          "url": "https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr"
         }
       ],
-      "duration_ms": 327200,
-      "name": "What hummingbirds teach us about flying",
-      "url": "https://open.spotify.com/track/63A5iao38RysFoJepVv63Y"
+      "duration_ms": 241904,
+      "name": "WE ARE",
+      "url": "https://open.spotify.com/track/5EnAjL9A92rIuBg5Uajikl"
     },
     {
       "added_at": "2025-06-10 15:00:34",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-06-10 15:00:34",
       "album": {
-        "name": "Night Flight",
-        "url": "https://open.spotify.com/album/6PI5RLr6s5U4nUmBhmyn0J"
-      },
-      "artists": [
-        {
-          "name": "PYRAMID",
-          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
-        }
-      ],
-      "duration_ms": 230057,
-      "name": "Night flight",
-      "url": "https://open.spotify.com/track/0C6V5RSz6pdfc2WE8NOsJk"
-    },
-    {
-      "added_at": "2025-06-10 15:00:34",
-      "album": {
         "name": "1-0",
         "url": "https://open.spotify.com/album/48aa23wkmx3JUSwWK2dTjQ"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 281914,
       "name": "1-0",
       "url": "https://open.spotify.com/track/6K6RV21WP5Kj0oelvC56kI"
+    },
+    {
+      "added_at": "2025-06-10 15:00:34",
+      "album": {
+        "name": "Night Flight",
+        "url": "https://open.spotify.com/album/6PI5RLr6s5U4nUmBhmyn0J"
+      },
+      "artists": [
+        {
+          "name": "PYRAMID",
+          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
+        }
+      ],
+      "duration_ms": 230057,
+      "name": "Night flight",
+      "url": "https://open.spotify.com/track/0C6V5RSz6pdfc2WE8NOsJk"
     },
     {
       "added_at": "2025-06-10 15:00:34",
@@ -783,6 +783,22 @@
     {
       "added_at": "2025-06-10 15:00:34",
       "album": {
+        "name": "Rhapsody in Summer",
+        "url": "https://open.spotify.com/album/0yBpvv6qLzwKglmzNs8iPw"
+      },
+      "artists": [
+        {
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
+        }
+      ],
+      "duration_ms": 258183,
+      "name": "Rhapsody in Summer",
+      "url": "https://open.spotify.com/track/23qk2CJ5m5Qw4X5xWAC3E6"
+    },
+    {
+      "added_at": "2025-06-10 15:00:34",
+      "album": {
         "name": "\u3064\u3064\u307f\u8fbc\u3080\u3088\u3046\u306b\u30fb\u30fb\u30fbfeat.\u6728\u6751\u30a4\u30aa\u30ea",
         "url": "https://open.spotify.com/album/246NTHn3VjUlum8XUYKdj2"
       },
@@ -803,22 +819,6 @@
     {
       "added_at": "2025-06-10 15:00:34",
       "album": {
-        "name": "Rhapsody in Summer",
-        "url": "https://open.spotify.com/album/0yBpvv6qLzwKglmzNs8iPw"
-      },
-      "artists": [
-        {
-          "name": "Schroeder-Headz",
-          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
-        }
-      ],
-      "duration_ms": 258183,
-      "name": "Rhapsody in Summer",
-      "url": "https://open.spotify.com/track/23qk2CJ5m5Qw4X5xWAC3E6"
-    },
-    {
-      "added_at": "2025-06-10 15:00:34",
-      "album": {
         "name": "HAGAKURE",
         "url": "https://open.spotify.com/album/2EQ9eVENJbi9FYY9VxTifC"
       },
@@ -831,6 +831,42 @@
       "duration_ms": 221494,
       "name": "HAGAKURE",
       "url": "https://open.spotify.com/track/1i7mphSVtYRYQq7udj2khv"
+    },
+    {
+      "added_at": "2025-06-10 15:00:34",
+      "album": {
+        "name": "STEPS OF THE BLUE",
+        "url": "https://open.spotify.com/album/0jWAhTG0ICulGMf3nc3GWz"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u4e95 \u79c0\u592a\u90ce",
+          "url": "https://open.spotify.com/artist/55DWXZw1Np3eYrtMMY0MTQ"
+        },
+        {
+          "name": "\u4e2d\u5ddd\u82f1\u4e8c\u90ce",
+          "url": "https://open.spotify.com/artist/3RDzAdDGSqwUDi28zZm28q"
+        },
+        {
+          "name": "\u4e2d\u6797\u4fca\u4e5f",
+          "url": "https://open.spotify.com/artist/4FPy6vfB5dk2J0yjVPeTnc"
+        },
+        {
+          "name": "Makoto Ozone",
+          "url": "https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged"
+        },
+        {
+          "name": "\u5c0f\u5ddd\u664b\u5e73",
+          "url": "https://open.spotify.com/artist/33jumhkSNkMnmiln5lqPE7"
+        },
+        {
+          "name": "\u5c0f\u7530\u6850\u548c\u5bdb",
+          "url": "https://open.spotify.com/artist/0hO0QqiB0B3Vh843MaMKTE"
+        }
+      ],
+      "duration_ms": 342146,
+      "name": "STEPS OF THE BLUE",
+      "url": "https://open.spotify.com/track/5gF1MiHJNecYAu3wQyGdne"
     },
     {
       "added_at": "2025-06-10 15:00:34",
@@ -887,42 +923,6 @@
       "duration_ms": 44077,
       "name": "Chapter 0",
       "url": "https://open.spotify.com/track/6rEFHgdmQha1VyCG7pYtEN"
-    },
-    {
-      "added_at": "2025-06-10 15:00:34",
-      "album": {
-        "name": "STEPS OF THE BLUE",
-        "url": "https://open.spotify.com/album/0jWAhTG0ICulGMf3nc3GWz"
-      },
-      "artists": [
-        {
-          "name": "\u677e\u4e95 \u79c0\u592a\u90ce",
-          "url": "https://open.spotify.com/artist/55DWXZw1Np3eYrtMMY0MTQ"
-        },
-        {
-          "name": "\u4e2d\u5ddd\u82f1\u4e8c\u90ce",
-          "url": "https://open.spotify.com/artist/3RDzAdDGSqwUDi28zZm28q"
-        },
-        {
-          "name": "\u4e2d\u6797\u4fca\u4e5f",
-          "url": "https://open.spotify.com/artist/4FPy6vfB5dk2J0yjVPeTnc"
-        },
-        {
-          "name": "Makoto Ozone",
-          "url": "https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged"
-        },
-        {
-          "name": "\u5c0f\u5ddd\u664b\u5e73",
-          "url": "https://open.spotify.com/artist/33jumhkSNkMnmiln5lqPE7"
-        },
-        {
-          "name": "\u5c0f\u7530\u6850\u548c\u5bdb",
-          "url": "https://open.spotify.com/artist/0hO0QqiB0B3Vh843MaMKTE"
-        }
-      ],
-      "duration_ms": 342146,
-      "name": "STEPS OF THE BLUE",
-      "url": "https://open.spotify.com/track/5gF1MiHJNecYAu3wQyGdne"
     },
     {
       "added_at": "2025-06-10 15:00:34",

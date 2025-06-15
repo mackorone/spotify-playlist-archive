@@ -4,7 +4,7 @@
 
 > Symphonic and power metal at its most epic\. Cover: Sabaton
 
-651 songs - 2 day 1 hr 37 min
+652 songs - 2 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Handmade Cities](https://open.spotify.com/track/257CrtLcfv4n9bBuDU4vgQ) | [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic) | [Handmade Cities](https://open.spotify.com/album/4cJ8qhE71x97swkaMQhGcr) | 4:45 | 2022-07-13 | 2022-07-30 |
 | [Hardcore](https://open.spotify.com/track/1kKzLv3w7I5NXzEtWkSzi4) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Dark Connection](https://open.spotify.com/album/30O1KkbyS9bbOniw7xtQux) | 3:34 | 2021-10-29 | 2022-06-12 |
 | [Harley](https://open.spotify.com/track/1jXQ5CNrKQXE1FGNQIvqCN) | [Volturian](https://open.spotify.com/artist/1kaSMA4dkMLk11AoMUQdoJ) | [Harley](https://open.spotify.com/album/2tlp9g5abFeOB1q1PTbljL) | 4:16 | 2022-04-01 | 2022-04-23 |
+| [Harpy](https://open.spotify.com/track/4NoNB7TLRZBXypJ7q7Bmgn) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Harpy](https://open.spotify.com/album/6lZ4H4VlRbZ9ZxnQXfFAnS) | 4:33 | 2025-06-13 |  |
 | [Harrison Fjord](https://open.spotify.com/track/3aRe8uVqmzHwl8HPjCCPZ0) | [Haunted Shores](https://open.spotify.com/artist/6Zebs0nwJt4EUs36wgFisx) | [Viscera](https://open.spotify.com/album/59Fq8dLUNKKcXOjCiiqn8O) | 5:11 | 2022-07-13 | 2022-07-30 |
 | [Harrison Fjord](https://open.spotify.com/track/4RbdMjzGnjCnm0WiM2s85c) | [Haunted Shores](https://open.spotify.com/artist/6Zebs0nwJt4EUs36wgFisx) | [Viscera](https://open.spotify.com/album/42PSnrdzgGTCJcHOgyrInX) | 5:11 | 2022-07-13 | 2022-07-29 |
 | [Hazard](https://open.spotify.com/track/10KlXJAkq44AjU3Tj8LKwl) | [Long Distance Calling](https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6) | [Hazard](https://open.spotify.com/album/4iCjBIOD626agMphqSZo0q) | 6:08 | 2022-07-13 | 2022-07-29 |
@@ -380,7 +381,7 @@
 | [Northwest Passage](https://open.spotify.com/track/774RZSeGULvRgbtMnYAvta) | [Unleash The Archers](https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU) | [Northwest Passage](https://open.spotify.com/album/7aKwMRfEricZ79KMU1kip9) | 4:35 | 2020-11-29\* | 2021-06-19 |
 | [Nostos](https://open.spotify.com/track/3W6Xik6Xxf06JuUoZSATlD) | [Orion's Reign](https://open.spotify.com/artist/3hRL14TJtJqr7i1IH3D1pU), [Minniva](https://open.spotify.com/artist/50KIyycosYOGrBHfLaI1Ju) | [Nostos](https://open.spotify.com/album/2ZNyqng4E2LUSI2iDA4o04) | 2:55 | 2020-11-29\* | 2021-02-19 |
 | [Not All Those Who Wander Are Lost](https://open.spotify.com/track/3BllrsBQnKlfb4rNDcllkt) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH), [Melissa Bonny](https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb) | [Not All Those Who Wander Are Lost](https://open.spotify.com/album/2Hdnxdxtbgbajj18nZcp65) | 4:46 | 2022-07-08 | 2024-08-03 |
-| [Now Is the Time](https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0) | [Power Quest](https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip) | [Now Is the Time](https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV) | 6:18 | 2022-01-21 |  |
+| [Now Is the Time](https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0) | [Power Quest](https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip) | [Now Is the Time](https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV) | 6:18 | 2022-01-21 | 2025-06-15 |
 | [Null Point](https://open.spotify.com/track/3HvKi9J9B5dTlnLuxAXdiH) | [Joel Lindfors](https://open.spotify.com/artist/0g2s7sIZ2SX168uQDs9NM2), [Sithu Aye](https://open.spotify.com/artist/6AOvXKqmqmZHxqdop7Kzoh) | [Shift](https://open.spotify.com/album/5hRzklorWry9M9L8xItiu0) | 3:59 | 2022-07-13 | 2022-07-30 |
 | [Null Point \(feat\. Sithu Aye\)](https://open.spotify.com/track/3VURA6hWcr7VBrdzOVZXfO) | [Joel Lindfors](https://open.spotify.com/artist/0g2s7sIZ2SX168uQDs9NM2), [Sithu Aye](https://open.spotify.com/artist/6AOvXKqmqmZHxqdop7Kzoh) | [Shift](https://open.spotify.com/album/0BMWkBjL37JS9telS0rApm) | 3:59 | 2022-07-13 | 2022-07-29 |
 | [Névé](https://open.spotify.com/track/1XBjS9Co5312nsBW0tUMo5) | [Chronologist](https://open.spotify.com/artist/0IaTDHWLYUE3yJvFtIfOF2) | [Equinox I](https://open.spotify.com/album/1CR1pNnx93KwhmSRs920Rj) | 4:20 | 2022-07-13 | 2022-07-30 |

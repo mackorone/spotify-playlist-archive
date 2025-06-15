@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 
 > The Latin soundtrack of the 60s! Cover: Armando Manzanero
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,333 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,347 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 17 | [De Mil Maneras](https://open.spotify.com/track/23SdQDuoyHarQwRC95Xo6c) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [La Gran Colección del 60 Aniversario CBS \- Sonora Santanera](https://open.spotify.com/album/6poi9pfnqjVUt5EZtWEUA4) | 2:43 |
 | 18 | [Tu Seras Mi Baby](https://open.spotify.com/track/4tko6GvGRI2Ege56DN9QNa) | [Les Surfs](https://open.spotify.com/artist/5ZKI9KiIkT1VRgDOfawSjx) | [Los Éxitos en Español y Francés](https://open.spotify.com/album/6wjhvF4EuYuZFcs5PpKzRn) | 2:26 |
 | 19 | [Palabra de Rey](https://open.spotify.com/track/0PNEOLOyCdZLTfbvajXJIa) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Palabra De Rey](https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW) | 2:28 |
-| 20 | [Agua Con Sal](https://open.spotify.com/track/1AlTQ6xBhe1qfEQ9zvUDth) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Cuidado](https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o) | 4:04 |
-| 21 | [Leroy](https://open.spotify.com/track/1kwc6ggb5M9EsyBKb0z0CU) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 2:23 |
+| 20 | [Leroy](https://open.spotify.com/track/1kwc6ggb5M9EsyBKb0z0CU) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 2:23 |
+| 21 | [Agua Con Sal](https://open.spotify.com/track/1AlTQ6xBhe1qfEQ9zvUDth) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Cuidado](https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o) | 4:04 |
 | 22 | [Amigo Organillero](https://open.spotify.com/track/6stFUUMMZvOtCkFBtztcX1) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Y Todavia Te Quiero](https://open.spotify.com/album/6CmoVG6x6B3jghBzs22KnG) | 3:11 |
 | 23 | [Adios Nonino](https://open.spotify.com/track/5Ue0yZP0pmesWTQMvZmqL1) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg) | [El Tango](https://open.spotify.com/album/6rbmGTxk35qKQFE3MAXrgF) | 4:58 |
 | 24 | [Suspenso Infernal](https://open.spotify.com/track/2HYCn0dxjHowhTpFGPGtm3) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [RCA 100 Años de Música](https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM) | 2:52 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 43 | [Locamente Te Amaré](https://open.spotify.com/track/4qH1UHtlwb8IRQOnu22lnJ) | [Los Cinco Latinos](https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX) | [Versiones Originales Vol.2](https://open.spotify.com/album/3dEUs2tF2pKjdIHIjD6IYK) | 2:39 |
 | 44 | [Somos Novios](https://open.spotify.com/track/5S768Vsh3sh6bMtDwVF9by) | [Armando Manzanero Y Su Piano](https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq) | [Armando Manzanero, Su Piano y Su Música](https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy) | 2:37 |
 | 45 | [Colores \- Remastered](https://open.spotify.com/track/068uocva293Tr77QgIZeIf) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Lo Mejor De \(Remastered\)](https://open.spotify.com/album/3SKhjtGcCYGzPKIDFH8Uom) | 2:12 |
-| 46 | [Shimmy Shimmy Ko Ko Bop](https://open.spotify.com/track/3Y6cwxZjctcQvtYtcQxKXr) | [Los Yetis](https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA) | [Historia Músical \- 40 Éxitos del Festival de Ancón](https://open.spotify.com/album/5Cm7sIZcZntOWP4HVp5Ki9) | 2:16 |
+| 46 | [Me Siento Loco](https://open.spotify.com/track/2brVDUF6cn2b8451RSEbVz) | [Los Yetis](https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA) | [Olvidate](https://open.spotify.com/album/7HmWSi8jOb40voxwoxranW) | 3:12 |
 | 47 | [Pensaba en Ti](https://open.spotify.com/track/5NM7BTvP4yr58JqwN3BYGm) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [Personalidad](https://open.spotify.com/album/4fVeZv12kCMzF72ve0HwWZ) | 3:22 |
 | 48 | [El día de los enamorados \(remastered\)](https://open.spotify.com/track/3CwGLO5ypNPGBYKP2qbn0m) | [Monna Bell](https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC) | [Monna Bell\. Sus Primeros EP's \(1959\-1961\)](https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3) | 2:06 |
 | 49 | [Bemba Colorá](https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Son con Guaguancó](https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J) | 3:31 |

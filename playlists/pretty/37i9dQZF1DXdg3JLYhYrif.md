@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,306 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,328 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 28 | [Pouca Pausa](https://open.spotify.com/track/2odzriVVZBwYOiYJEj30tm) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Cortesia Da Casa](https://open.spotify.com/artist/4DdazUhIad0cymOHGifQO6), [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [Pouca Pausa](https://open.spotify.com/album/4uvWaZXSz2eMn7YZXXXcS1) | 4:39 |
 | 29 | [Na Ponta Ela Fica](https://open.spotify.com/track/1OtZIaJBXo3Pe6nfaMsjKT) | [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Na Ponta Ela Fica](https://open.spotify.com/album/6gF531wpZQpmM84C9vaEjW) | 2:34 |
 | 30 | [Eu Quero Tchu Eu Quero Tcha](https://open.spotify.com/track/3xrYgdz1QEj2q3f5T1OGxb) | [João Lucas & Marcelo](https://open.spotify.com/artist/07qXCavgZGcwnfNHSvSPtG) | [Eu Quero Tchu Eu Quero Tcha \- Single](https://open.spotify.com/album/5YoSOrOY8x9bWnLheZ07vt) | 2:39 |
-| 31 | [Só Você](https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Só Você](https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de) | 2:41 |
+| 31 | [Envolvidão](https://open.spotify.com/track/51ps6uorlcN8Q7jVJqIkuB) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Diversoficando](https://open.spotify.com/album/2TjXXr70261KZWHACRWEtR) | 3:25 |
 | 32 | [Bang](https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Bang](https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK) | 3:10 |
-| 33 | [Envolvidão](https://open.spotify.com/track/51ps6uorlcN8Q7jVJqIkuB) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Diversoficando](https://open.spotify.com/album/2TjXXr70261KZWHACRWEtR) | 3:25 |
+| 33 | [Só Você](https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Só Você](https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de) | 2:41 |
 | 34 | [Passarinhos](https://open.spotify.com/track/0gGjX0aUg7OaUSAhi1CmDk) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE) | 3:41 |
 | 35 | [Pesadão](https://open.spotify.com/track/2nPYWC7Jtd3gsd1iMQT3Vs) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 3:19 |
 | 36 | [Indomável \(Participação especial de Belo\)](https://open.spotify.com/track/4YbZBChhX5SkLhNJcvvhuD) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Indomável \(Participação especial de Belo\)](https://open.spotify.com/album/7tWXS9xw3xY37qiORxOV6t) | 3:33 |

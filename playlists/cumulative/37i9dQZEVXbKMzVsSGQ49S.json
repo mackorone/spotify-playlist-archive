@@ -256,7 +256,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 163750,
       "name": "10 \u00de\u00daSUND",
       "url": "https://open.spotify.com/track/2DsrVTTYwaJcuv10mgKdzR"
@@ -3442,7 +3442,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -6522,7 +6522,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 123576,
       "name": "B\u00ed b\u00ed og blaka",
       "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
@@ -15498,7 +15498,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 125852,
       "name": "Frost er \u00fati fuglinn minn",
       "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
@@ -16362,7 +16362,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-21",
+      "date_removed": null,
       "duration_ms": 181695,
       "name": "Gemm\u00e9r Gemm\u00e9r",
       "url": "https://open.spotify.com/track/0q2TiBDwdGZ4B8g3M7dNuO"
@@ -17468,7 +17468,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 311360,
       "name": "Grafar\u00fe\u00f6gn",
       "url": "https://open.spotify.com/track/27aFRfKSWdO39jUPpqimkE"
@@ -20302,7 +20302,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 182400,
       "name": "Huglei\u00f0sla",
       "url": "https://open.spotify.com/track/4d521XcdrRCLV33A4YB0RZ"
@@ -27080,7 +27080,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 253472,
       "name": "LSML\u00cd (l\u00edfi\u00f0 sem mig langar \u00ed)",
       "url": "https://open.spotify.com/track/1Nsjktpk26QZqCMKgHV4Fl"
@@ -29126,7 +29126,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-23",
+      "date_removed": null,
       "duration_ms": 181293,
       "name": "MONN\u00cd",
       "url": "https://open.spotify.com/track/7stOLFwEqgpv7LiTiVcAmm"
@@ -30711,6 +30711,28 @@
     },
     {
       "album": {
+        "name": "New Rich",
+        "url": "https://open.spotify.com/album/4F8noKwSJ4tV52v729yT4s"
+      },
+      "artists": [
+        {
+          "name": "Frozo",
+          "url": "https://open.spotify.com/artist/6xdFlZBb3KO4mKyloZQU81"
+        },
+        {
+          "name": "Danny Chino",
+          "url": "https://open.spotify.com/artist/6shv2UYCPiyTj0hs52HdTE"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159822,
+      "name": "New Rich",
+      "url": "https://open.spotify.com/track/4ux2bABITiwQRrjVA1IQzb"
+    },
+    {
+      "album": {
         "name": "Next Life",
         "url": "https://open.spotify.com/album/70teaDdq23f5FjFOwYHWHx"
       },
@@ -31754,7 +31776,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 182090,
       "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
       "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
@@ -35766,6 +35788,24 @@
       "duration_ms": 188586,
       "name": "Raindrops (Insane) [with Travis Scott]",
       "url": "https://open.spotify.com/track/4qf2G3v1ychaRZ0glmrkES"
+    },
+    {
+      "album": {
+        "name": "Rained kissed love",
+        "url": "https://open.spotify.com/album/38gGgPVMsmztPK0rocSadL"
+      },
+      "artists": [
+        {
+          "name": "Ficas",
+          "url": "https://open.spotify.com/artist/5Dw1krn4PDvw9E3ioWyOiz"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190008,
+      "name": "Rained kissed love",
+      "url": "https://open.spotify.com/track/4QRS6i1mU9kY6evzEeSpl5"
     },
     {
       "album": {
@@ -41184,7 +41224,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 178147,
       "name": "Still a Little Drunk",
       "url": "https://open.spotify.com/track/5bLuWXuqefnhxTp0go9wqF"
@@ -41716,6 +41756,28 @@
       "duration_ms": 144453,
       "name": "ST\u00d3RIR STAFIR",
       "url": "https://open.spotify.com/track/5GBqJnZjsR4oX4Di1VbaUh"
+    },
+    {
+      "album": {
+        "name": "St\u00f3rir Str\u00e1kar",
+        "url": "https://open.spotify.com/album/63tO5mZENF526DHAbrrjoj"
+      },
+      "artists": [
+        {
+          "name": "Izleifur",
+          "url": "https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6"
+        },
+        {
+          "name": "Herra Hnetusmj\u00f6r",
+          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148855,
+      "name": "St\u00f3rir Str\u00e1kar",
+      "url": "https://open.spotify.com/track/7Lnklp5hNqusyupGsyBbaE"
     },
     {
       "album": {
@@ -43064,7 +43126,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -43530,7 +43592,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 144000,
       "name": "TATE KIETA",
       "url": "https://open.spotify.com/track/1sM1EAWbJQBWX4zDCi1g9x"
@@ -47822,7 +47884,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-12",
+      "date_removed": null,
       "duration_ms": 169870,
       "name": "Vitamin",
       "url": "https://open.spotify.com/track/2bk8MeKPbwWc9Iwv4qjz7U"
@@ -52700,7 +52762,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

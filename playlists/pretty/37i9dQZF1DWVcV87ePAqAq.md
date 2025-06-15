@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Flaket kommer studsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,018 likes - 73 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,009 likes - 73 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 29 | [Rockafeller Skank](https://open.spotify.com/track/2CeMzUrbykkE7QWA3qlXvx) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Rockafeller Skank](https://open.spotify.com/album/4VzJuJaV7gtjJhXMLEt9WD) | 2:25 |
 | 30 | [Shots & Squats](https://open.spotify.com/track/5nIrdpo8eXQU3YgZelEXkd) | [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds), [Tham Sway](https://open.spotify.com/artist/3sEqETeMb1urfCoVUhdjUv) | [Shots & Squats](https://open.spotify.com/album/2oww4CllHtrPPeMId1UUjA) | 2:51 |
 | 31 | [PATT \(Party All The Time\) \- Adam Beyer, Layton Giordani & Green Velvet Remix](https://open.spotify.com/track/6DFHSmlrZLDZnXV5kTTMF6) | [Sharam](https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [PATT \(Party All The Time\) \[Adam Beyer, Layton Giordani & Green Velvet Remix\]](https://open.spotify.com/album/5GqWIHTVjceZXGpzIc1a2J) | 3:03 |
-| 32 | [Hit The Road Jack](https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV) | [Bisken](https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf), [Millows](https://open.spotify.com/artist/5GQeYhFPfFWauYWJXMJ1BG) | [Hit The Road Jack](https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu) | 2:06 |
-| 33 | [Kung för en dag](https://open.spotify.com/track/58X2vGyNWT2ZPEaGUw1tAb) | [Magnus Uggla](https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq) | [Uggla Box](https://open.spotify.com/album/4NsccIPhTDWkCdBVXIHPfx) | 3:18 |
+| 32 | [Kung för en dag](https://open.spotify.com/track/58X2vGyNWT2ZPEaGUw1tAb) | [Magnus Uggla](https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq) | [Uggla Box](https://open.spotify.com/album/4NsccIPhTDWkCdBVXIHPfx) | 3:18 |
+| 33 | [Hit The Road Jack](https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV) | [Bisken](https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf), [Millows](https://open.spotify.com/artist/5GQeYhFPfFWauYWJXMJ1BG) | [Hit The Road Jack](https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu) | 2:06 |
 | 34 | [UNGA & FRIA](https://open.spotify.com/track/2ArX0SzCSHXytmAg36BIev) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [UNGA & FRIA](https://open.spotify.com/album/07w87eimESXFgxpCI191vp) | 3:02 |
 | 35 | [Gimme Gimme Gimme](https://open.spotify.com/track/1Uin0T7NJQiHA9VspYiMi8) | [FÄT TONY](https://open.spotify.com/artist/0GB4bpkY7X1MUCCD98huVK), [MEDUN](https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM) | [Gimme Gimme Gimme](https://open.spotify.com/album/0bQjEOaYhyJe2LZT3uU0b3) | 2:38 |
-| 36 | [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 |
-| 37 | [Animal](https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Animal \(with Jason Derulo\)](https://open.spotify.com/album/5FOUiGyszC4bwhccbSOXhU) | 2:20 |
+| 36 | [Animal](https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Animal \(with Jason Derulo\)](https://open.spotify.com/album/5FOUiGyszC4bwhccbSOXhU) | 2:20 |
+| 37 | [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 |
 | 38 | [Whatever \(with Ava Max\) \- Tiësto Remix](https://open.spotify.com/track/5uiQAY4i9oTGf79rgcf5jr) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Whatever \(with Ava Max\) \- Tiësto Remix](https://open.spotify.com/album/3vN2jv2disCD8vZEzZIv5Q) | 2:45 |
 | 39 | [FULLA](https://open.spotify.com/track/2elQQCpDbMJZyFntQB8jFM) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c), [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [FULLA](https://open.spotify.com/album/2yxZKoAqVmePN35Txs3L0n) | 2:21 |
 | 40 | [ALARMA!](https://open.spotify.com/track/5ezKbpPGtVHwUzKo3rdywi) | [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx \(Platinum Edition\)](https://open.spotify.com/album/2hziJmkRyETKw5sGzrmm0R) | 3:25 |

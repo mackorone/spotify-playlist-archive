@@ -4,7 +4,7 @@
 
 > This is Prof\. The essential tracks, all in one playlist.
 
-49 songs - 2 hr 39 min
+50 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Cousins](https://open.spotify.com/track/5GgieBASQgXvkaAJhk2XOi) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Cashinova](https://open.spotify.com/artist/7esS6SDpFk34861XWk17kn) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 3:50 | 2025-04-19 |  |
 | [Cutthroat](https://open.spotify.com/track/6jWg9ZeIlDOuwr62vpKfut) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Cutthroat](https://open.spotify.com/album/3RswC4TBK1oa5mEh9nHtKS) | 3:07 | 2025-04-19 |  |
 | [Dead Man Shuffle](https://open.spotify.com/track/0QlyrKrDwglwGmHih4Dj6F) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 2:35 | 2025-04-19 |  |
+| [Destiny \(with Sauce Walka\)](https://open.spotify.com/track/1jhoaWZ9Gi99zvMgSg4cKZ) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Destiny \(with Sauce Walka\)](https://open.spotify.com/album/3LxE9fvAr1ugZXfPhrkHdD) | 3:15 | 2025-06-15 |  |
 | [Devils Gate \(with Kevin Gates\)](https://open.spotify.com/track/334BlFXoVUhroNjxfzATJp) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:35 | 2025-04-19 |  |
 | [Dodo Birds](https://open.spotify.com/track/4ZitKfCGxhOcqrfQU6STgq) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Dodo Birds](https://open.spotify.com/album/6nM5ZjZp85PxVjbyszoOft) | 2:13 | 2025-04-19 |  |
 | [Dynamite](https://open.spotify.com/track/76N39WgN4xENapS5tnw7Of) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Ghosttown](https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf) | [Dynamite](https://open.spotify.com/album/7BYzMlE0anzovqdMe5bNSJ) | 2:40 | 2025-04-19 |  |

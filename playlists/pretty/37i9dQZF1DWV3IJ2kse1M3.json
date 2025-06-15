@@ -1,6 +1,6 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\u6211\u9084\u662f\u653e\u4e0d\u4e0b\u4f60 \u771f\u7684\u53ef\u60dc \u6211\u5728\u4e5f\u7121\u80fd\u70ba\u529b \u7e7c\u7e8c\u611b\u4f60\u3002",
-  "num_followers": 186294,
+  "num_followers": 186291,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
-        "name": "\u6211\u597d\u55ce? - \u592a\u967d\u5982\u5e38\u5347\u8d77",
-        "url": "https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM"
-      },
-      "artists": [
-        {
-          "name": "Fish Leong",
-          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
-        }
-      ],
-      "duration_ms": 289604,
-      "name": "\u6162\u51b7",
-      "url": "https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW"
-    },
-    {
-      "added_at": "2025-02-03 08:01:17",
-      "album": {
         "name": "\u60f3\u898b\u4f60\u60f3\u898b\u4f60\u60f3\u898b\u4f60(\u96fb\u8996\u5287\"\u60f3\u898b\u4f60\"\u7247\u5c3e\u66f2)",
         "url": "https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 239794,
       "name": "\u60f3\u898b\u4f60\u60f3\u898b\u4f60\u60f3\u898b\u4f60(\u96fb\u8996\u5287\"\u60f3\u898b\u4f60\"\u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa"
+    },
+    {
+      "added_at": "2025-02-03 08:01:17",
+      "album": {
+        "name": "\u6211\u597d\u55ce? - \u592a\u967d\u5982\u5e38\u5347\u8d77",
+        "url": "https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM"
+      },
+      "artists": [
+        {
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+        }
+      ],
+      "duration_ms": 289604,
+      "name": "\u6162\u51b7",
+      "url": "https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW"
     },
     {
       "added_at": "2025-02-03 08:01:17",
@@ -439,6 +439,26 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
+        "name": "\u771f\u5be6",
+        "url": "https://open.spotify.com/album/3hIxtGdXE0qPrSRGZwnPbw"
+      },
+      "artists": [
+        {
+          "name": "A-Mei Chang",
+          "url": "https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp"
+        },
+        {
+          "name": "Jerry Lin",
+          "url": "https://open.spotify.com/artist/1XmumGa6Cu6YPXpPFkLNMm"
+        }
+      ],
+      "duration_ms": 286239,
+      "name": "\u8a18\u5f97",
+      "url": "https://open.spotify.com/track/6bBs2Ws2YfdSlT3gNC2ZN0"
+    },
+    {
+      "added_at": "2025-02-03 08:01:17",
+      "album": {
         "name": "\u6211\u5011 (\u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/55Ro04UwGKHwUZ5nC3rr2r"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 282400,
       "name": "\u6211\u611b\u4ed6",
       "url": "https://open.spotify.com/track/2qOitAAyMgHOs0cMilqf8k"
-    },
-    {
-      "added_at": "2025-02-03 08:01:17",
-      "album": {
-        "name": "\u771f\u5be6",
-        "url": "https://open.spotify.com/album/3hIxtGdXE0qPrSRGZwnPbw"
-      },
-      "artists": [
-        {
-          "name": "A-Mei Chang",
-          "url": "https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp"
-        },
-        {
-          "name": "Jerry Lin",
-          "url": "https://open.spotify.com/artist/1XmumGa6Cu6YPXpPFkLNMm"
-        }
-      ],
-      "duration_ms": 286239,
-      "name": "\u8a18\u5f97",
-      "url": "https://open.spotify.com/track/6bBs2Ws2YfdSlT3gNC2ZN0"
     },
     {
       "added_at": "2025-02-03 08:01:17",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
-        "name": "\u62b1\u4e00\u62b1",
-        "url": "https://open.spotify.com/album/5URZXsixxj3GDGZPeDDaXg"
-      },
-      "artists": [
-        {
-          "name": "Jordan Chan",
-          "url": "https://open.spotify.com/artist/4EefQ1H6Qg9W5Gv7eVLC9U"
-        }
-      ],
-      "duration_ms": 266333,
-      "name": "\u6211\u611b\u7684\u4eba",
-      "url": "https://open.spotify.com/track/4OHaQq5eqpRgCqgVY3MpQY"
-    },
-    {
-      "added_at": "2025-02-03 08:01:17",
-      "album": {
         "name": "\u300a\u4e0d\u5920\u5584\u826f\u7684\u6211\u5011 : \u6232\u5287\u97f3\u6a02\u8a2d\u8a08\u5c08\u8f2f\u300b",
         "url": "https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 349541,
       "name": "\u82ac\u862d\u8ddd\u96e2",
       "url": "https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz"
+    },
+    {
+      "added_at": "2025-02-03 08:01:17",
+      "album": {
+        "name": "\u62b1\u4e00\u62b1",
+        "url": "https://open.spotify.com/album/5URZXsixxj3GDGZPeDDaXg"
+      },
+      "artists": [
+        {
+          "name": "Jordan Chan",
+          "url": "https://open.spotify.com/artist/4EefQ1H6Qg9W5Gv7eVLC9U"
+        }
+      ],
+      "duration_ms": 266333,
+      "name": "\u6211\u611b\u7684\u4eba",
+      "url": "https://open.spotify.com/track/4OHaQq5eqpRgCqgVY3MpQY"
     },
     {
       "added_at": "2025-02-03 08:01:17",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
-        "name": "\u611b\u7f3a",
-        "url": "https://open.spotify.com/album/6dTh0ChcWfqethdCqNuM4r"
-      },
-      "artists": [
-        {
-          "name": "\u9676\u6676\u7469",
-          "url": "https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT"
-        }
-      ],
-      "duration_ms": 291306,
-      "name": "\u592a\u59d4\u5c48",
-      "url": "https://open.spotify.com/track/6tMgRC6pDQOqEnKCnAL6pT"
-    },
-    {
-      "added_at": "2025-02-03 08:01:17",
-      "album": {
         "name": "\u5927\u5c0f\u8aaa\u5bb6",
         "url": "https://open.spotify.com/album/62r7dcrgRinOk2tTHYiOcl"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 307213,
       "name": "\u6d6a\u8cbb",
       "url": "https://open.spotify.com/track/6rvSliUoMf9GU9vxAR7nPH"
+    },
+    {
+      "added_at": "2025-02-03 08:01:17",
+      "album": {
+        "name": "\u611b\u7f3a",
+        "url": "https://open.spotify.com/album/6dTh0ChcWfqethdCqNuM4r"
+      },
+      "artists": [
+        {
+          "name": "\u9676\u6676\u7469",
+          "url": "https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT"
+        }
+      ],
+      "duration_ms": 291306,
+      "name": "\u592a\u59d4\u5c48",
+      "url": "https://open.spotify.com/track/6tMgRC6pDQOqEnKCnAL6pT"
     },
     {
       "added_at": "2025-02-03 08:01:17",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
-        "name": "\u6eab\u5f0f\u6548\u61c9",
-        "url": "https://open.spotify.com/album/33GHPmLtQLYOvocmn0iAZ7"
-      },
-      "artists": [
-        {
-          "name": "Landy Wen",
-          "url": "https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj"
-        }
-      ],
-      "duration_ms": 258573,
-      "name": "\u795d\u6211\u751f\u65e5\u5feb\u6a02",
-      "url": "https://open.spotify.com/track/34HdnP6vGMrIuOK7bcIW88"
-    },
-    {
-      "added_at": "2025-02-03 08:01:17",
-      "album": {
         "name": "\u4eca\u65e5\u71df\u696d\u4e2d",
         "url": "https://open.spotify.com/album/1mrrKAhUxCAIrTDLTYFGnA"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 330000,
       "name": "\u5929\u771f\u6709\u90aa",
       "url": "https://open.spotify.com/track/1MFmvIDW11eY3Y9nlFWS26"
+    },
+    {
+      "added_at": "2025-02-03 08:01:17",
+      "album": {
+        "name": "\u6eab\u5f0f\u6548\u61c9",
+        "url": "https://open.spotify.com/album/33GHPmLtQLYOvocmn0iAZ7"
+      },
+      "artists": [
+        {
+          "name": "Landy Wen",
+          "url": "https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj"
+        }
+      ],
+      "duration_ms": 258573,
+      "name": "\u795d\u6211\u751f\u65e5\u5feb\u6a02",
+      "url": "https://open.spotify.com/track/34HdnP6vGMrIuOK7bcIW88"
     },
     {
       "added_at": "2025-02-03 08:01:17",

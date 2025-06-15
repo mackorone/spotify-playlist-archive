@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 37860,
+  "num_followers": 37884,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Son Of Gunn!!",
-        "url": "https://open.spotify.com/album/0wIqfFb0f9BQTjdUt31Zlq"
-      },
-      "artists": [
-        {
-          "name": "Shelly Manne and His Men",
-          "url": "https://open.spotify.com/artist/0jiF8voCldfvNjfCEr6JDF"
-        }
-      ],
-      "duration_ms": 289360,
-      "name": "Blue Steel",
-      "url": "https://open.spotify.com/track/6A5n5BZfgR2IhzlV1GbGWf"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
         "name": "Take Me Along",
         "url": "https://open.spotify.com/album/24I15RTAgb3NtGfrTilzQI"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 304093,
       "name": "Sid, Ol' Kid",
       "url": "https://open.spotify.com/track/4ZdUYMQBvQe4o5qiIVGtzI"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
+        "name": "Son Of Gunn!!",
+        "url": "https://open.spotify.com/album/0wIqfFb0f9BQTjdUt31Zlq"
+      },
+      "artists": [
+        {
+          "name": "Shelly Manne and His Men",
+          "url": "https://open.spotify.com/artist/0jiF8voCldfvNjfCEr6JDF"
+        }
+      ],
+      "duration_ms": 289360,
+      "name": "Blue Steel",
+      "url": "https://open.spotify.com/track/6A5n5BZfgR2IhzlV1GbGWf"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -851,18 +851,18 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "The Quartet and the Quintet",
-        "url": "https://open.spotify.com/album/6p27kZ6ymuGGZoXNapHwt9"
+        "name": "Swingin' (Remastered)",
+        "url": "https://open.spotify.com/album/3BeRh2rV4kUxMwRFda9m2h"
       },
       "artists": [
         {
-          "name": "Jack Sheldon",
-          "url": "https://open.spotify.com/artist/0AP9ck0QA9iqnCWJ16G7qj"
+          "name": "Terry Gibbs",
+          "url": "https://open.spotify.com/artist/4vc7AQ05GYmIYTzly9xjbp"
         }
       ],
-      "duration_ms": 195546,
-      "name": "Ahmoore",
-      "url": "https://open.spotify.com/track/4lsys7hGDgypUoMZFvi9ke"
+      "duration_ms": 201213,
+      "name": "Happiness Is a Thing Called Joe",
+      "url": "https://open.spotify.com/track/0mOawytsrpaqfVMPkZopDA"
     }
   ],
   "unique_name": "West Coast Jazz",

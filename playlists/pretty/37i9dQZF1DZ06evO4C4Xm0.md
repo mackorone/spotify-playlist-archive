@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,659 likes - 46 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,668 likes - 46 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 | 24 | [Spinning Away](https://open.spotify.com/track/1aMJTyCRfxfp8luej4rjAC) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Wrong Way Up \[Expanded Edition\]](https://open.spotify.com/album/0oHoEmlhtwdFFWFJIoLNy0) | 5:27 |
 | 25 | [Wind On Wind](https://open.spotify.com/track/5Kp4uIt000uLfxYahTupG4) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V) | 3:13 |
 | 26 | [Among Fields Of Crystal \- Remastered 2004](https://open.spotify.com/track/1Z2OQ4XtLwrhQKGS9BA4wi) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 3:24 |
-| 27 | [The Big Ship \- 2004 Remaster](https://open.spotify.com/track/2d9KBVxb6bUfVCjjv1JAVe) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World \(2004 Remaster\)](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:01 |
-| 28 | [1/2 \- Remastered 2004](https://open.spotify.com/track/5z1E46RvhI34TTM2FDMPrp) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 12:07 |
+| 27 | [1/2 \- Remastered 2004](https://open.spotify.com/track/5z1E46RvhI34TTM2FDMPrp) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 12:07 |
+| 28 | [The Big Ship \- 2004 Remaster](https://open.spotify.com/track/2d9KBVxb6bUfVCjjv1JAVe) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World \(2004 Remaster\)](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:01 |
 | 29 | [Enough](https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:22 |
 | 30 | [Steal Away \- Remastered 2004](https://open.spotify.com/track/5tAb6fBqO5zgUKlhqMyxfr) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Eugene Bowen](https://open.spotify.com/artist/06MankK2DQyv2fsv6F2XYh), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 1:29 |
 | 31 | [Late October \- 2005 Digital Remaster](https://open.spotify.com/track/2Ef5Vgw0ShuKGoNfO6Nrof) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 4:44 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 | 42 | [Their Memories \- 2005 Digital Remaster](https://open.spotify.com/track/3FoozOVAViraoaiCQpjE2U) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 2:57 |
 | 43 | [My Lovely Days](https://open.spotify.com/track/3ZhoLmA5tCqe4UWxz2EMFi) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Beatie Wolfe](https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI) | [Luminal](https://open.spotify.com/album/2lyznXdVxmIMDzZIudZIsC) | 4:43 |
 | 44 | [Hopelessly At Ease](https://open.spotify.com/track/2ZHhcZSqLSzMtX2X30m5ej) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Beatie Wolfe](https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI) | [Luminal](https://open.spotify.com/album/2lyznXdVxmIMDzZIudZIsC) | 3:41 |
-| 45 | [And Live Again](https://open.spotify.com/track/0Lksxr2KaefDU4M8s3JIX7) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Beatie Wolfe](https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI) | [Luminal](https://open.spotify.com/album/2lyznXdVxmIMDzZIudZIsC) | 4:18 |
-| 46 | [Breath March](https://open.spotify.com/track/3gAZ0jJGj5vDuSg3esfSfY) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Beatie Wolfe](https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI) | [Luminal](https://open.spotify.com/album/2lyznXdVxmIMDzZIudZIsC) | 3:09 |
+| 45 | [Breath March](https://open.spotify.com/track/3gAZ0jJGj5vDuSg3esfSfY) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Beatie Wolfe](https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI) | [Luminal](https://open.spotify.com/album/2lyznXdVxmIMDzZIudZIsC) | 3:09 |
+| 46 | [And Live Again](https://open.spotify.com/track/0Lksxr2KaefDU4M8s3JIX7) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Beatie Wolfe](https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI) | [Luminal](https://open.spotify.com/album/2lyznXdVxmIMDzZIudZIsC) | 4:18 |
 
-Snapshot ID: `aEoYgAAAAABc+2r+bVst+g822OFkcVhu`
+Snapshot ID: `aEtqAAAAAABl5AnE4AEb5QvMb3ytnJaA`

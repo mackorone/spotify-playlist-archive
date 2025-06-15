@@ -1,12 +1,12 @@
 {
   "description": "This is EGOIST. The essential tracks, all in one playlist.",
-  "num_followers": 40869,
+  "num_followers": 40868,
   "original_name": "This Is EGOIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAACn8uLjcsjBtMnHzXr1YxNZ",
+  "snapshot_id": "aEtqAAAAAADwE3gFQM8qfsPn61eBr5nb",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u6700\u5f8c\u306e\u82b1\u5f01 (The meaning of love)",
-        "url": "https://open.spotify.com/album/13yUbPloFlPSQoQ3Ju8DR3"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 231169,
-      "name": "\u6700\u5f8c\u306e\u82b1\u5f01 (The meaning of love)",
-      "url": "https://open.spotify.com/track/6P0Nb6NCHckoZtZI54XS2l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u82f1\u96c4\u3000\u904b\u547d\u306e\u8a69",
         "url": "https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 284173,
       "name": "\u82f1\u96c4\u3000\u904b\u547d\u306e\u8a69",
       "url": "https://open.spotify.com/track/2NAWetxu8cigewSiBR6WhU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u6700\u5f8c\u306e\u82b1\u5f01 (The meaning of love)",
+        "url": "https://open.spotify.com/album/13yUbPloFlPSQoQ3Ju8DR3"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 231169,
+      "name": "\u6700\u5f8c\u306e\u82b1\u5f01 (The meaning of love)",
+      "url": "https://open.spotify.com/track/6P0Nb6NCHckoZtZI54XS2l"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KABANERI OF THE IRON FORTRESS",
-        "url": "https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 247586,
-      "name": "It's all about you",
-      "url": "https://open.spotify.com/track/3mJUvJ1gTQytrTdUh6yeVa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Alone With You",
         "url": "https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 250893,
       "name": "elbadaernU",
       "url": "https://open.spotify.com/track/7hWcW1U8ZUkjFYRo3sHEzT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KABANERI OF THE IRON FORTRESS",
+        "url": "https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 247586,
+      "name": "It's all about you",
+      "url": "https://open.spotify.com/track/3mJUvJ1gTQytrTdUh6yeVa"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
       "duration_ms": 350120,
       "name": "All Alone With You -Instrumental-",
       "url": "https://open.spotify.com/track/7elhr7ip89XjzWJS3XiwKk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Departures - Anata Ni Okuru Ai No Uta",
-        "url": "https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 95506,
-      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\uff08TV Edit\uff09-Instrumental-",
-      "url": "https://open.spotify.com/track/4TWjUF3wARx5I0gBMCZIJl"
     }
   ],
   "unique_name": "This Is EGOIST",

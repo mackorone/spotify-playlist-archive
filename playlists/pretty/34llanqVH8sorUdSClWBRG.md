@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/34llanqVH8sorUdSClWBRG.md) - [plain]
 
 > Mental illness
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 58 songs - 3 hr 13 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 59 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,5 +66,6 @@ pretty - [cumulative](/playlists/cumulative/34llanqVH8sorUdSClWBRG.md) - [plain]
 | 56 | [Sleep](https://open.spotify.com/track/6NK9g64i0EOGhXCfx27jTE) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 4:43 |
 | 57 | [Until I Am Whole](https://open.spotify.com/track/6Rg82S9vW3Q91ZZaRjwmen) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/1AOcKK0PoTQtuRZVhOgJlp) | 2:48 |
 | 58 | [A Little Bit Off](https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:10 |
+| 59 | [Inexplicable](https://open.spotify.com/track/3G05DblSK0kTRwE2SG7clZ) | [The Correspondents](https://open.spotify.com/artist/3VvmUsYPzFheK2wJGKcXxp) | [Inexpicable](https://open.spotify.com/album/3RICruUJtlqzGPiBZ6BQX4) | 4:15 |
 
-Snapshot ID: `AAAAPirsSLZNZilmk9DqdeHHgaArRiS7`
+Snapshot ID: `AAAAP2Wjg8OsKNjbPdPnlbSfBLwIUDKN`

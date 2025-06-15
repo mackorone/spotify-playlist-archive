@@ -23,6 +23,32 @@
     },
     {
       "album": {
+        "name": "1 WORK (Remix)",
+        "url": "https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls"
+      },
+      "artists": [
+        {
+          "name": "Zhus Jdo",
+          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+        },
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136693,
+      "name": "1 WORK - Remix",
+      "url": "https://open.spotify.com/track/5LDB1Cal2PnHN3Ioy84SdN"
+    },
+    {
+      "album": {
         "name": "Body, Soul & Spirit",
         "url": "https://open.spotify.com/album/1v9uFb7YRRXyex0XnASQOJ"
       },
@@ -10142,7 +10168,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 135652,
       "name": "Wavy",
       "url": "https://open.spotify.com/track/3tH6wzTJ1IdlBoMJh6oG8a"

@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 154101,
+  "num_followers": 154124,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAAOuadRsZLBVEH3RLkv3Y2U",
+  "snapshot_id": "aEtqAAAAAAA7iHLSceVBkPLDU1F0aIl8",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Fuerte Que Nunca",
-        "url": "https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 191494,
-      "name": "Yo Estaba Solo",
-      "url": "https://open.spotify.com/track/4XcPwUTY31I4atXFTVE6XB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luchar\u00e9 Por Ti",
         "url": "https://open.spotify.com/album/5ZhzGPdJ3ybEx9fK6LF5c7"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 210453,
       "name": "Luchar\u00e9 Por Ti",
       "url": "https://open.spotify.com/track/5I9SnEA84dwUgjbBLIdTSm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mas Fuerte Que Nunca",
+        "url": "https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 191494,
+      "name": "Yo Estaba Solo",
+      "url": "https://open.spotify.com/track/4XcPwUTY31I4atXFTVE6XB"
     },
     {
       "added_at": null,

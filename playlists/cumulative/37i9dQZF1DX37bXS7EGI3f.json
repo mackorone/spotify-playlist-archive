@@ -4347,6 +4347,24 @@
     },
     {
       "album": {
+        "name": "Harpy",
+        "url": "https://open.spotify.com/album/6lZ4H4VlRbZ9ZxnQXfFAnS"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273828,
+      "name": "Harpy",
+      "url": "https://open.spotify.com/track/4NoNB7TLRZBXypJ7q7Bmgn"
+    },
+    {
+      "album": {
         "name": "Viscera",
         "url": "https://open.spotify.com/album/59Fq8dLUNKKcXOjCiiqn8O"
       },
@@ -6992,7 +7010,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 378549,
       "name": "Now Is the Time",
       "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"

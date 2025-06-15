@@ -1,6 +1,6 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Vesica Piscis en portada.",
-  "num_followers": 34845,
+  "num_followers": 34850,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -79,6 +79,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "te odio",
+        "url": "https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "duration_ms": 170126,
+      "name": "te odio",
+      "url": "https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Vuelta en U",
         "url": "https://open.spotify.com/album/2XQUbze1bkSR86N8XbAOEy"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 182679,
       "name": "Vuelta en U",
       "url": "https://open.spotify.com/track/2uSQpyjWJpSaoxjc27VAZ3"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "te odio",
-        "url": "https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt"
-      },
-      "artists": [
-        {
-          "name": "te vi en un planetario",
-          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
-        }
-      ],
-      "duration_ms": 170126,
-      "name": "te odio",
-      "url": "https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Estrella Fugaz",
-        "url": "https://open.spotify.com/album/1zlpHqJLyYmfqzSOytAT5D"
-      },
-      "artists": [
-        {
-          "name": "Se\u00f1or Kino",
-          "url": "https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG"
-        }
-      ],
-      "duration_ms": 262955,
-      "name": "Estrella Fugaz",
-      "url": "https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "m\u00e1s tiempo",
         "url": "https://open.spotify.com/album/5ZLljWH8uDb0oJBYpXJKfX"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 207435,
       "name": "m\u00e1s tiempo",
       "url": "https://open.spotify.com/track/0Z0CnfVm3VSHD9jtiemuRe"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Estrella Fugaz",
+        "url": "https://open.spotify.com/album/1zlpHqJLyYmfqzSOytAT5D"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1or Kino",
+          "url": "https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG"
+        }
+      ],
+      "duration_ms": 262955,
+      "name": "Estrella Fugaz",
+      "url": "https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Todo Va a Estar Bien",
-        "url": "https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw"
-      },
-      "artists": [
-        {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
-        }
-      ],
-      "duration_ms": 195500,
-      "name": "Todo Va a Estar Bien",
-      "url": "https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Fuera de Lugar",
         "url": "https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 283000,
       "name": "Boni Nait\u00f3",
       "url": "https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Todo Va a Estar Bien",
+        "url": "https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw"
+      },
+      "artists": [
+        {
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+        }
+      ],
+      "duration_ms": 195500,
+      "name": "Todo Va a Estar Bien",
+      "url": "https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT"
     },
     {
       "added_at": "2024-09-27 06:00:00",

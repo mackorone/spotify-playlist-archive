@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 575702,
+  "num_followers": 575787,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -859,26 +859,6 @@
     {
       "added_at": "2025-06-13 04:00:42",
       "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/5BRloFEHPzJozlMlwV6HhB"
-      },
-      "artists": [
-        {
-          "name": "Sighter",
-          "url": "https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM"
-        },
-        {
-          "name": "Vegas (Brazil)",
-          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
-        }
-      ],
-      "duration_ms": 349014,
-      "name": "Flame",
-      "url": "https://open.spotify.com/track/5y8drYVT8SGRPxEQEEjSts"
-    },
-    {
-      "added_at": "2025-06-13 04:00:42",
-      "album": {
         "name": "Mind Is God - Single",
         "url": "https://open.spotify.com/album/14vUJhUnVc1lhx0fRTAiep"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 540000,
       "name": "Mind Is God - Original Mix",
       "url": "https://open.spotify.com/track/2a0MXNSukUC3ZfORJNmW6n"
+    },
+    {
+      "added_at": "2025-06-13 04:00:42",
+      "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/5BRloFEHPzJozlMlwV6HhB"
+      },
+      "artists": [
+        {
+          "name": "Sighter",
+          "url": "https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM"
+        },
+        {
+          "name": "Vegas (Brazil)",
+          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
+        }
+      ],
+      "duration_ms": 349014,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/5y8drYVT8SGRPxEQEEjSts"
     },
     {
       "added_at": "2025-06-13 04:00:42",
@@ -1103,26 +1103,22 @@
     {
       "added_at": "2025-06-13 04:00:42",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/18iRwd0XBweGAMUructZNZ"
+        "name": "The Oasis (Zyrus 7 Remix)",
+        "url": "https://open.spotify.com/album/7qIv7wlUoG6JKjD60hYK0U"
       },
       "artists": [
         {
-          "name": "Skazi",
-          "url": "https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3"
+          "name": "Talla 2XLC",
+          "url": "https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ"
         },
         {
-          "name": "TOX1C",
-          "url": "https://open.spotify.com/artist/6Z46xqyaiWM6DMQY3EblAp"
-        },
-        {
-          "name": "Eytan Peled",
-          "url": "https://open.spotify.com/artist/2l5HhbsV4oSidBDY8hrmoj"
+          "name": "Zyrus 7",
+          "url": "https://open.spotify.com/artist/7EMbA1QfJKIfeDOErntNqu"
         }
       ],
-      "duration_ms": 286956,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/4DDqRwhHMtI61P3eGmYlWk"
+      "duration_ms": 209673,
+      "name": "The Oasis (Zyrus 7 Remix) - Original Mix",
+      "url": "https://open.spotify.com/track/4b7linw8vhDRiIvxML8k8W"
     },
     {
       "added_at": "2025-06-13 04:00:42",
@@ -1143,22 +1139,26 @@
     {
       "added_at": "2025-06-13 04:00:42",
       "album": {
-        "name": "The Oasis (Zyrus 7 Remix)",
-        "url": "https://open.spotify.com/album/7qIv7wlUoG6JKjD60hYK0U"
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/18iRwd0XBweGAMUructZNZ"
       },
       "artists": [
         {
-          "name": "Talla 2XLC",
-          "url": "https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ"
+          "name": "Skazi",
+          "url": "https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3"
         },
         {
-          "name": "Zyrus 7",
-          "url": "https://open.spotify.com/artist/7EMbA1QfJKIfeDOErntNqu"
+          "name": "TOX1C",
+          "url": "https://open.spotify.com/artist/6Z46xqyaiWM6DMQY3EblAp"
+        },
+        {
+          "name": "Eytan Peled",
+          "url": "https://open.spotify.com/artist/2l5HhbsV4oSidBDY8hrmoj"
         }
       ],
-      "duration_ms": 209673,
-      "name": "The Oasis (Zyrus 7 Remix) - Original Mix",
-      "url": "https://open.spotify.com/track/4b7linw8vhDRiIvxML8k8W"
+      "duration_ms": 286956,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/4DDqRwhHMtI61P3eGmYlWk"
     },
     {
       "added_at": "2025-06-13 04:00:42",
@@ -1199,6 +1199,30 @@
       "duration_ms": 317746,
       "name": "Shingara",
       "url": "https://open.spotify.com/track/06uh05Zu2UpLjnH6NydLUL"
+    },
+    {
+      "added_at": "2025-06-13 04:00:42",
+      "album": {
+        "name": "Elsewhere",
+        "url": "https://open.spotify.com/album/3XpUhJ5qINVQxYS5OqnIUE"
+      },
+      "artists": [
+        {
+          "name": "Liquid Soul",
+          "url": "https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS"
+        },
+        {
+          "name": "Emok",
+          "url": "https://open.spotify.com/artist/0n7N0GtNzbN6xgx7J14pWg"
+        },
+        {
+          "name": "Martin Vice",
+          "url": "https://open.spotify.com/artist/3U9kaA6XFr26x70Va6y3Jv"
+        }
+      ],
+      "duration_ms": 417391,
+      "name": "Elsewhere - Original mix",
+      "url": "https://open.spotify.com/track/6rr9fNtCD6NJISKD3X6Q2u"
     },
     {
       "added_at": "2025-06-13 04:00:42",
@@ -1251,30 +1275,6 @@
     {
       "added_at": "2025-06-13 04:00:42",
       "album": {
-        "name": "Elsewhere",
-        "url": "https://open.spotify.com/album/3XpUhJ5qINVQxYS5OqnIUE"
-      },
-      "artists": [
-        {
-          "name": "Liquid Soul",
-          "url": "https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS"
-        },
-        {
-          "name": "Emok",
-          "url": "https://open.spotify.com/artist/0n7N0GtNzbN6xgx7J14pWg"
-        },
-        {
-          "name": "Martin Vice",
-          "url": "https://open.spotify.com/artist/3U9kaA6XFr26x70Va6y3Jv"
-        }
-      ],
-      "duration_ms": 417391,
-      "name": "Elsewhere - Original mix",
-      "url": "https://open.spotify.com/track/6rr9fNtCD6NJISKD3X6Q2u"
-    },
-    {
-      "added_at": "2025-06-13 04:00:42",
-      "album": {
         "name": "Carmen",
         "url": "https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF"
       },
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-06-13 04:00:42",
       "album": {
-        "name": "Gracias a la Vida",
-        "url": "https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV"
-      },
-      "artists": [
-        {
-          "name": "Tao Andra",
-          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
-        }
-      ],
-      "duration_ms": 348274,
-      "name": "Gracias a la Vida",
-      "url": "https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn"
-    },
-    {
-      "added_at": "2025-06-13 04:00:42",
-      "album": {
         "name": "Shroomeez",
         "url": "https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 390011,
       "name": "You Wanna Stay",
       "url": "https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh"
+    },
+    {
+      "added_at": "2025-06-13 04:00:42",
+      "album": {
+        "name": "Gracias a la Vida",
+        "url": "https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV"
+      },
+      "artists": [
+        {
+          "name": "Tao Andra",
+          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
+        }
+      ],
+      "duration_ms": 348274,
+      "name": "Gracias a la Vida",
+      "url": "https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn"
     },
     {
       "added_at": "2025-06-13 04:00:42",

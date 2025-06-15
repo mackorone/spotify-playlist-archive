@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Hamilton, Randy, Tokischa  and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,580 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,618 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 9 | [COMO TU](https://open.spotify.com/track/0IXL5SPeI849hcz7Cynpk4) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [BABABA WORLD](https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS) | 2:34 |
 | 10 | [Gohan y Goku](https://open.spotify.com/track/6tfaLKSTenQxuf3wM263wN) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Austin](https://open.spotify.com/artist/0XNd5IHY3dnjWwN3ApkfDo) | [Gohan y Goku](https://open.spotify.com/album/3zHjrzYFFrvxitf8e5sbX7) | 2:44 |
 | 11 | [CELOS](https://open.spotify.com/track/2QcaHpuw9wNCku4Wi5tVTb) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy) | [Track 4 + Track 14](https://open.spotify.com/album/6Q496E7ViJao8G4N4aDqbJ) | 2:45 |
-| 12 | [Hospeda](https://open.spotify.com/track/3rvzMt65ohYpqkXQ2LxzDX) | [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E), [Tutu](https://open.spotify.com/artist/4x0EcUYpeDMvgCgtNhgwSl) | [Hospeda](https://open.spotify.com/album/5DHNV0mhhIrULt79CQpxCf) | 2:42 |
+| 12 | [Hospeda](https://open.spotify.com/track/3rvzMt65ohYpqkXQ2LxzDX) | [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E), [Tutu](https://open.spotify.com/artist/2oJG42nDNigJngS1nlWm2W) | [Hospeda](https://open.spotify.com/album/5DHNV0mhhIrULt79CQpxCf) | 2:42 |
 | 13 | [MOJA1TA](https://open.spotify.com/track/63rH77IJhmuQsNIxpCxaJ5) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ) | 2:24 |
 | 14 | [MiuMiu](https://open.spotify.com/track/06P2zNCmRsB8aQBZo78D2o) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [MiuMiu](https://open.spotify.com/album/1fWk1CMAtVYbXJTUZKUohA) | 2:59 |
 | 15 | [Lo logre](https://open.spotify.com/track/5VCwxSMbHdXr22LxROFgyA) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [Lo logre](https://open.spotify.com/album/6YqUR5CZ41mFCMDQd2E3a4) | 3:14 |

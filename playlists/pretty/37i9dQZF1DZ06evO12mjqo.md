@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 
 > This is Ghost\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,276 likes - 49 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,369 likes - 49 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,24 +28,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 | 18 | [Umbra](https://open.spotify.com/track/0tnJnhssxtg6CpMysvbkX4) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX) | 5:31 |
 | 19 | [Griftwood](https://open.spotify.com/track/74gUN3LUQhqzfTLAP09ejk) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 5:16 |
 | 20 | [Ritual](https://open.spotify.com/track/4hxd9xX8SNH0R2XSrXRATW) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J) | 4:28 |
-| 21 | [He Is](https://open.spotify.com/track/6NFKy0jg3S6x380iuF47jX) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2) | 4:13 |
+| 21 | [Witch Image](https://open.spotify.com/track/0bog7rv4F6iffTSWcYQHeq) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 3:30 |
 | 22 | [Guiding Lights](https://open.spotify.com/track/314wHzW2tMlNIc4Wvguu8w) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX) | 3:24 |
 | 23 | [Kaisarion](https://open.spotify.com/track/452WW3sHSkt9AxuKS4cLX0) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 5:02 |
-| 24 | [Witch Image](https://open.spotify.com/track/0bog7rv4F6iffTSWcYQHeq) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 3:30 |
+| 24 | [He Is](https://open.spotify.com/track/6NFKy0jg3S6x380iuF47jX) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2) | 4:13 |
 | 25 | [Monstrance Clock](https://open.spotify.com/track/70dOLeFZQqrmIHdcJcazoT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 5:53 |
 | 26 | [If You Have Ghosts](https://open.spotify.com/track/1sNSlzvQ5jPir46X5X1TeH) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [If You Have Ghost](https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw) | 3:34 |
-| 27 | [From The Pinnacle To The Pit](https://open.spotify.com/track/68OVKwrzkwGqQZIm9MVwUK) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2) | 4:02 |
-| 28 | [Faith](https://open.spotify.com/track/4RmigACdwE02FV3yP5xXlP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 4:29 |
+| 27 | [Faith](https://open.spotify.com/track/4RmigACdwE02FV3yP5xXlP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 4:29 |
+| 28 | [From The Pinnacle To The Pit](https://open.spotify.com/track/68OVKwrzkwGqQZIm9MVwUK) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2) | 4:02 |
 | 29 | [Year Zero](https://open.spotify.com/track/3yiyZW5sYNg3VvIejh10sK) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 5:50 |
 | 30 | [Zenith](https://open.spotify.com/track/12OqhoWuHEzQ7AJMBS0WFJ) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [13 Commandments](https://open.spotify.com/album/1jIpMY1agd8Uvd9cc9woTH) | 6:04 |
 | 31 | [Stay \[Feat\. Patrick Wilson\]](https://open.spotify.com/track/5koxSCWVJInF4T6jj5SQ3H) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Patrick Wilson](https://open.spotify.com/artist/7JDIzsiYm1WS3zUpiTdW52) | [Stay \[Feat\. Patrick Wilson\]](https://open.spotify.com/album/0VwhjiLBA4WtDGIuAWaG5Z) | 3:54 |
 | 32 | [Crucified](https://open.spotify.com/track/0PSWSiRXsxsLAEdEhaJAId) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [If You Have Ghost](https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw) | 5:13 |
 | 33 | [Jigolo Har Megiddo](https://open.spotify.com/track/1nLPwEsvylaNyep39luNRw) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 3:58 |
-| 34 | [Majesty](https://open.spotify.com/track/3Q53KFHVdDhSE4XGA3xmH8) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2) | 5:24 |
+| 34 | [Mummy Dust](https://open.spotify.com/track/4tcin0H3ANvVUc6YjfcviJ) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2) | 4:07 |
 | 35 | [See The Light](https://open.spotify.com/track/7HbyELpx9fepfB4Flz20CG) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 4:05 |
 | 36 | [Con Clavi Con Dio](https://open.spotify.com/track/5XdFVvTBhr1JvtZfazo3fE) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J) | 3:33 |
 | 37 | [Infestissumam](https://open.spotify.com/track/7BwScOUaIcnABifoNlK9e9) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 1:42 |
-| 38 | [Mummy Dust](https://open.spotify.com/track/4tcin0H3ANvVUc6YjfcviJ) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2) | 4:07 |
+| 38 | [Majesty](https://open.spotify.com/track/3Q53KFHVdDhSE4XGA3xmH8) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2) | 5:24 |
 | 39 | [We Don’t Need Another Hero](https://open.spotify.com/track/14nGuPAynE1VnHC1mBf1R6) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Phantomime](https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR) | 4:10 |
 | 40 | [Elizabeth](https://open.spotify.com/track/5aFBJJDEPNFrZVCPUqeDe9) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J) | 4:01 |
 | 41 | [Per Aspera Ad Inferi](https://open.spotify.com/track/7H32Smt3EiKgjMAGzhFRHS) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 4:09 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 | 48 | [Ghuleh / Zombie Queen](https://open.spotify.com/track/4BcsD7X41Kb68V2SMZy6MH) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 7:29 |
 | 49 | [Satan Prayer](https://open.spotify.com/track/4bcAfqEb71izaLb8V4quqw) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J) | 4:38 |
 
-Snapshot ID: `aEoYgAAAAADqw8vSKxRLxscg/3zEw+Vc`
+Snapshot ID: `aEtqAAAAAAB1n557Nq0TsroNH7nlsKfv`

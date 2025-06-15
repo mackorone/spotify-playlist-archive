@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 
 > Let’s get it on....
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,502 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,590 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 21 | [All We Do](https://open.spotify.com/track/2yZKtBfdFdvcfjtAbSIsRb) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga Reloaded](https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW) | 4:27 |
 | 22 | [Focus](https://open.spotify.com/track/6KluBT5Zthyzk6sBwqAcso) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R\. Volume 1](https://open.spotify.com/album/6btE9k5ED8ydC8XY1K0kko) | 3:20 |
 | 23 | [Calling On You](https://open.spotify.com/track/7wYhcfgPUyML3FKfLwvBwk) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX) | [Pleasures U Like](https://open.spotify.com/album/1uVZharbta7UF0rqb1AU1F) | 4:40 |
-| 24 | [Bad Intentions](https://open.spotify.com/track/5W3UniuRMkHHIpaiQo1hAW) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [The Bedroom Tour Playlist](https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u) | 4:05 |
-| 25 | [Feels](https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 3:01 |
+| 24 | [Feels](https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 3:01 |
+| 25 | [Bad Intentions](https://open.spotify.com/track/5W3UniuRMkHHIpaiQo1hAW) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [The Bedroom Tour Playlist](https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u) | 4:05 |
 | 26 | [Stand Still](https://open.spotify.com/track/66H06L8hktjhduwRDWntDT) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [About Time](https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748) | 4:43 |
 | 27 | [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 |
 | 28 | [Neighbors Know My Name](https://open.spotify.com/track/5ol0jvC2yFKm3E1GcIgU2n) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Ready](https://open.spotify.com/album/1mSsccWmWvV5PWRGNdqjmZ) | 3:06 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 70 | [Lay Yo Head](https://open.spotify.com/track/31r9G4vYv3AprvPJM7AsX9) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [11](https://open.spotify.com/album/5Pp9dmBGExH4FNLlaLsLde) | 3:44 |
 | 71 | [Gallo Pinto](https://open.spotify.com/track/5Iwm1QINtdFzRjT9AQaqAe) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Gallo Pinto](https://open.spotify.com/album/5siyy5mV4vl9qwjd7mshAk) | 3:29 |
 | 72 | [Nov 12](https://open.spotify.com/track/1ZzbD3g1K6LY2S1w5cdowm) | [SoMo](https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs) | [Nov 12](https://open.spotify.com/album/6QCz4rp100thq8ax0CN2Ek) | 7:03 |
-| 73 | [Black & Blue](https://open.spotify.com/track/6GXpmbSdQsvn3qTJuQL4XI) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Black & Blue](https://open.spotify.com/album/1oX4HaDukcIu95wcTt6r8M) | 3:10 |
-| 74 | [Boundaries](https://open.spotify.com/track/0IaQTnE3gZvk6SjtCuFduu) | [southernwade](https://open.spotify.com/artist/4AhmVfS4VIU9vQzElhRu2R) | [Boundaries](https://open.spotify.com/album/6YB5sMHE89Ote6ddCoFxOH) | 2:53 |
+| 73 | [Boundaries](https://open.spotify.com/track/0IaQTnE3gZvk6SjtCuFduu) | [southernwade](https://open.spotify.com/artist/4AhmVfS4VIU9vQzElhRu2R) | [Boundaries](https://open.spotify.com/album/6YB5sMHE89Ote6ddCoFxOH) | 2:53 |
+| 74 | [Black & Blue](https://open.spotify.com/track/6GXpmbSdQsvn3qTJuQL4XI) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Black & Blue](https://open.spotify.com/album/1oX4HaDukcIu95wcTt6r8M) | 3:10 |
 | 75 | [All I See Is You](https://open.spotify.com/track/3iGCmdEr1Nja2gPhJAUsD3) | [Meaku](https://open.spotify.com/artist/2zD28cZO766exrIWQBDFEJ) | [All I See Is You](https://open.spotify.com/album/1MexXJHmamEttAaPeUsq7T) | 3:44 |
 | 76 | [Control Me](https://open.spotify.com/track/6ImX9KIEXSf3xEIOXoBTG6) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Control Me](https://open.spotify.com/album/4YNz9YitCxbSJawRhMkPbL) | 3:33 |
 | 77 | [Sexpectations](https://open.spotify.com/track/2k4m30eHE9biBFaez21JBG) | [JR Castro](https://open.spotify.com/artist/19xmzzjYSHNrV6s0DBzEi7) | [Sexpectations](https://open.spotify.com/album/7uLUbZc2ImAYcGnPYJ1e21) | 3:44 |

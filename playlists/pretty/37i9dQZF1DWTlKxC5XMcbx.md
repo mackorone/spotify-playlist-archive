@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,809 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,804 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 43 | [Lullaby Of The Leaves \- 1998 Digital Remaster](https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [The Original Quartet With Chet Baker](https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA) | 3:15 |
 | 44 | [Angel Eyes \- Studio](https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl) | [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Master Trio](https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4) | 5:49 |
 | 45 | [When It's Sleepy Time Down South](https://open.spotify.com/track/6AyUZf6QlPpOJLETzK9wkr) | [Howard Alden](https://open.spotify.com/artist/7sgBK9xjqtnAFTfm2SvWMR), [Helmut Nieberle](https://open.spotify.com/artist/7xDNjmM5Q34OUfblDBD1EO) | [Timelines](https://open.spotify.com/album/7rjsl9oej89UpkhFciGwFY) | 3:20 |
-| 46 | [Clouds](https://open.spotify.com/track/3XhKPQBEtY29ccTFzxXmxj) | [Nello Toscano](https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR), [Seby Burgio](https://open.spotify.com/artist/57XEzKBKlVq35JLLZ82wsf), [Alessandro Presti](https://open.spotify.com/artist/1L9dcenPN5mRCnw0cYX5yH), [Peppe Tringali](https://open.spotify.com/artist/5NThDCnSH9BfjMOD7EQ6lp) | [Inside](https://open.spotify.com/album/7ynHLBTikx5EcjemNNloIy) | 5:13 |
-| 47 | [Before It's Time to Say Goodbye](https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Songbook](https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3) | 5:17 |
+| 46 | [Before It's Time to Say Goodbye](https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Songbook](https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3) | 5:17 |
+| 47 | [Clouds](https://open.spotify.com/track/3XhKPQBEtY29ccTFzxXmxj) | [Nello Toscano](https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR), [Seby Burgio](https://open.spotify.com/artist/57XEzKBKlVq35JLLZ82wsf), [Alessandro Presti](https://open.spotify.com/artist/1L9dcenPN5mRCnw0cYX5yH), [Peppe Tringali](https://open.spotify.com/artist/5NThDCnSH9BfjMOD7EQ6lp) | [Inside](https://open.spotify.com/album/7ynHLBTikx5EcjemNNloIy) | 5:13 |
 | 48 | [Doubts 2](https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 4:54 |
 | 49 | [Send In The Clowns](https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY) | [Ted Greene](https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3) | [Solo Guitar](https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX) | 4:59 |
 | 50 | [And Suddenly There Was Love](https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH) | [Jonah Aardekker](https://open.spotify.com/artist/0uznEwAun1tXBVJWQASNns) | [And Suddenly There Was Love](https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4) | 4:27 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 55 | [Light Blue](https://open.spotify.com/track/1aScbLgIXdvopADfbla929) | [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP) | [All Blues \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/5nEZ3hlaqqiQ9MQ4lFl16c) | 6:44 |
 | 56 | [I'll Give You My Heartache](https://open.spotify.com/track/4tIfVGVF30szIEmcCYsvpq) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [I'll Give You My Heartache](https://open.spotify.com/album/4TQm9IHWhgw91qgRmxE5KE) | 3:47 |
 | 57 | [Good Morning Heartache](https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Remembering Billie](https://open.spotify.com/album/2gnDlzECePgE9e07pihbYd) | 5:22 |
-| 58 | [Blue Lake](https://open.spotify.com/track/0owIJBBWP1Q5FvnyoywK2E) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Blue Lake](https://open.spotify.com/album/199WEkdDKGEtOdKtheHjY0) | 3:35 |
-| 59 | [Lil Darlin'](https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4) | [Kai Winding](https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h) | [The Incredible Kai Winding Trombones](https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj) | 4:05 |
+| 58 | [Lil Darlin'](https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4) | [Kai Winding](https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h) | [The Incredible Kai Winding Trombones](https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj) | 4:05 |
+| 59 | [Blue Lake](https://open.spotify.com/track/0owIJBBWP1Q5FvnyoywK2E) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Blue Lake](https://open.spotify.com/album/199WEkdDKGEtOdKtheHjY0) | 3:35 |
 | 60 | [Reflections](https://open.spotify.com/track/7c7aRF6EJ96zCmep9BmewW) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Standards Trio: Reflections](https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn) | 9:15 |
 | 61 | [Everytime around](https://open.spotify.com/track/2aFgx18xSsCjzZo9vMtyTw) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Everytime around](https://open.spotify.com/album/0xz9q4sfWXzF0e0FSPcwJJ) | 5:25 |
 | 62 | [It Could Happen To You](https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Ellis In Wonderland](https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP) | 3:44 |

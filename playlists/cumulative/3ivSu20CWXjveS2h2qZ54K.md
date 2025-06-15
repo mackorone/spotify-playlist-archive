@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-4,344 songs - 10 day 0 hr 24 min
+4,346 songs - 10 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -595,6 +595,7 @@
 | [BUTTERFLY](https://open.spotify.com/track/6a8KhlDiDzF6Jr5Vkru8Gz) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [BUTTERFLY](https://open.spotify.com/album/2H5ewofU3ee5FjeUBJ6FQy) | 4:25 | 2025-02-21 | 2025-02-28 |
 | [BUTTERFLY KISSES](https://open.spotify.com/track/1KmKoRxR8R3vrTWLXeNnbY) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [BUTTERFLY KISSES](https://open.spotify.com/album/7nwFdtgRxzCJJZIzAVqwuM) | 2:02 | 2025-05-02 | 2025-05-10 |
 | [Butu Ezo Ya](https://open.spotify.com/track/2IeheAMDSo6SeGLw0Fiv4r) | [KOKOKO!](https://open.spotify.com/artist/4hkOCqpKuf6KFaQeTGfYNw) | [BUTU](https://open.spotify.com/album/35C8dWXbfHydmhsnD5bzax) | 4:05 | 2024-07-05 | 2024-07-13 |
+| [BYE BYE 25!](https://open.spotify.com/track/6gsKwHAwQPcXccDgRsvqBL) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [BYE BYE 25!](https://open.spotify.com/album/3sXujJiSVlcOSWXuCMLuTa) | 2:27 | 2025-06-14 |  |
 | [Bésame](https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Bésame](https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl) | 3:22 | 2025-05-23 | 2025-05-31 |
 | [Bésame](https://open.spotify.com/track/0KVFuNH7MYAV5HNt77yat5) | [Carla Frigo](https://open.spotify.com/artist/78KbCcXFz65Lzh0i3ngyPg) | [Bésame](https://open.spotify.com/album/48KXx40N2nC2tvyftU1Aq2) | 3:00 | 2024-12-20 | 2025-01-11 |
 | [C/ VIEJOS](https://open.spotify.com/track/4hhMoM1eaLHBosahwhNGkw) | [María Yfeu](https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B) | [C/ VIEJOS](https://open.spotify.com/album/4sncZPHkQoPYhBBSwnFi6a) | 3:00 | 2024-10-04 | 2024-10-12 |
@@ -2581,7 +2582,7 @@
 | [My Way](https://open.spotify.com/track/2LyLr6TJbfbsrjvQH34uYB) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [My Way / Cyan Blue](https://open.spotify.com/album/0Uq3D7kpSjpSesIRvKbySe) | 3:29 | 2024-05-03 | 2024-05-18 |
 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-04-25 | 2025-05-10 |
 | [màgia obscurA](https://open.spotify.com/track/7axaDotHgsdIrTF8DciUa6) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [màgia obscurA](https://open.spotify.com/album/07rhwvRF6PeBQuh3NanUxo) | 2:22 | 2024-12-13 | 2024-12-28 |
-| [Mágico](https://open.spotify.com/track/0U00dhdXk7icJfW3ngPaRY) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Mágico](https://open.spotify.com/album/4K2UL6467Xdg2plwSNMO6m) | 2:54 | 2025-06-13 |  |
+| [Mágico](https://open.spotify.com/track/0U00dhdXk7icJfW3ngPaRY) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [David Marley](https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA) | [Mágico](https://open.spotify.com/album/4K2UL6467Xdg2plwSNMO6m) | 2:54 | 2025-06-13 |  |
 | [Mándame una señal](https://open.spotify.com/track/68eNGXDct8WTVLk9v0Oar8) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [Mándame una señal](https://open.spotify.com/album/4x8icqp6ellxFGhDzSBC2r) | 4:20 | 2025-04-25 | 2025-05-10 |
 | [Más divertido](https://open.spotify.com/track/3Rn8fw5BDOfvilFGvkko2I) | [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Más divertido](https://open.spotify.com/album/1KwoDxTYk9HjELkVbRujsA) | 2:42 | 2024-05-10 | 2024-05-18 |
 | [más que eso](https://open.spotify.com/track/0M0q7YYdSsaZH4DzUWqLxs) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [más que eso](https://open.spotify.com/album/03yM5Am9k6INvtdhh76CtJ) | 3:07 | 2024-11-29 | 2024-12-07 |
@@ -2771,6 +2772,7 @@
 | [N¥](https://open.spotify.com/track/7wOxw6q02X2p2XcmtYlDRF) | [Bon Calso](https://open.spotify.com/artist/7ayZ0ZHp9SC1Bp6rzDd6gu), [mvrk](https://open.spotify.com/artist/6WCTfR8dIuTqWrFrzt2yl0) | [N¥](https://open.spotify.com/album/3p9ruFt0Kv5MiEFNcSE8gX) | 3:47 | 2025-01-31 | 2025-02-08 |
 | [O bruar das cantareiras](https://open.spotify.com/track/12Jfxknh7qIXqaCroI8Avc) | [Xosé Lois Romero](https://open.spotify.com/artist/4C8faVCWNf7FMjAVVdgAgo), [Aliboria](https://open.spotify.com/artist/7snXGTX2QLVH8buiuH8t2L) | [O bruar das cantareiras](https://open.spotify.com/album/3oubOFesJqJT7q2kuqfu4P) | 4:25 | 2025-05-15 | 2025-05-24 |
 | [OA!](https://open.spotify.com/track/5sKiTIZkO6sD9xURvUuQtn) | [Anixe](https://open.spotify.com/artist/43x9okbcMtqMiCocTI9rJe) | [Paranoia](https://open.spotify.com/album/1ZoGBJvHfDNdxBpVXC6S6H) | 1:55 | 2024-11-28 | 2024-12-07 |
+| [Obsession](https://open.spotify.com/track/4Bkirn5WWarUk8qdA52Pcp) | [Jehnny Beth](https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta) | [Obsession](https://open.spotify.com/album/21DPNL7TLRsNH8p1mXj8us) | 4:01 | 2025-06-14 |  |
 | [Obstáculo](https://open.spotify.com/track/10lVyE5ysDdxnJUtpRYMeL) | [Linda Mirada](https://open.spotify.com/artist/3HVwXZVVIC4IJgACkw3WEk) | [Obstáculo](https://open.spotify.com/album/3yVXHYmyYYtRcbEtgarFe3) | 4:35 | 2025-05-09 | 2025-05-17 |
 | [Ocio](https://open.spotify.com/track/5S2QxD6nMF2H83cDP9EiBg) | [balarrasa](https://open.spotify.com/artist/2TXqSE9FiKLU0ogIwlVSdY) | [Ocio](https://open.spotify.com/album/6eaUgoRUgqhEYGEMX9VIsy) | 3:15 | 2025-05-09 | 2025-05-17 |
 | [October Moon](https://open.spotify.com/track/3YsdzICwd73j0iZZB3l4z9) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [October Moon](https://open.spotify.com/album/330v2AkPhkpww8XyWcllyp) | 4:06 | 2024-10-11 | 2024-10-19 |

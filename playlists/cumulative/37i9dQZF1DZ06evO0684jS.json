@@ -814,7 +814,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 260233,
       "name": "IDOL",
       "url": "https://open.spotify.com/track/54azQnjuDYDFfImXimGFsA"
@@ -950,6 +950,28 @@
       "duration_ms": 230400,
       "name": "Love Me Enough (feat. Monica & Keyshia Cole)",
       "url": "https://open.spotify.com/track/64VYqDH3xyxIFZjrsgjLCZ"
+    },
+    {
+      "album": {
+        "name": "X (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189706,
+      "name": "Love More (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/2MDueMvPkUTpU6Xkmeinln"
     },
     {
       "album": {

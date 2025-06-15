@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con rusowsky.
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,922 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,919 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 57 | [DE NOTA EN NOTA](https://open.spotify.com/track/6zrY9YRsHZLtL4C1VSTnFt) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [DE NOTA EN NOTA](https://open.spotify.com/album/72aeyywHPQEBxaoWhrTnw5) | 3:32 |
 | 58 | [Alma Bendita](https://open.spotify.com/track/1whL85mReYAcv9xbpIST9p) | [Velaviee](https://open.spotify.com/artist/6yBqeacW7mGI4DkiNsYmaq) | [Alma Bendita](https://open.spotify.com/album/6KADxWkA1nPZo3g8t9iCHE) | 2:24 |
 | 59 | [PRISIONERO PERFECTO](https://open.spotify.com/track/6zqbssgW1Sz2eHwYN258DE) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [PRISIONERO PERFECTO](https://open.spotify.com/album/1iZUvTbyBqeHSX1L7X2rBf) | 3:24 |
-| 60 | [Au](https://open.spotify.com/track/5KSaFynbMoGkXfCQ6Fbp3f) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Au](https://open.spotify.com/album/0pUsa6Z0V47tmN6Hswy2vt) | 2:13 |
-| 61 | [El Show Debe Continuar](https://open.spotify.com/track/6iLSUEdHyRZmsWPzLJLBRj) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 4:14 |
+| 60 | [El Show Debe Continuar](https://open.spotify.com/track/6iLSUEdHyRZmsWPzLJLBRj) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 4:14 |
+| 61 | [Au](https://open.spotify.com/track/5KSaFynbMoGkXfCQ6Fbp3f) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Au](https://open.spotify.com/album/0pUsa6Z0V47tmN6Hswy2vt) | 2:13 |
 | 62 | [CONFUNDIDO](https://open.spotify.com/track/5235QfuvV4YSSuWQLxiXaD) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [nelick](https://open.spotify.com/artist/2W2NUrosOnwAI1hZIVbwit) | [SUKHA](https://open.spotify.com/album/1Xvw59wO0nV2rDMyJKaPUk) | 3:07 |
 | 63 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 |
 | 64 | [Destrucción \- Remix](https://open.spotify.com/track/40MuEd09WYnN6ogHFZSFB1) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Destrucción \(Remix\)](https://open.spotify.com/album/0qXAi0Z9RfLIwDADnQ9OUM) | 3:20 |

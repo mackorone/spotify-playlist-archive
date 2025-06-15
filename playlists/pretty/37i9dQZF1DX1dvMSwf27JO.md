@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > music to get fly to ft\. Erykah Badu
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,206 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,201 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 55 | [easy going down](https://open.spotify.com/track/3aSKxB6ahFfhYydO6bU2QE) | [lil hero](https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO) | [pawwwfect!](https://open.spotify.com/album/7EMoYQ7QghVnHSsdNLWv5P) | 2:26 |
 | 56 | [Are You In The Room](https://open.spotify.com/track/5d4njBTnGHcaSvjDnicA3N) | [CLUB INDGO](https://open.spotify.com/artist/7npM6EhPHmTWJCCPFZzhpC), [Sança](https://open.spotify.com/artist/1DSFf0RnfYrtNr0eKndzzc), [Ill Addicts](https://open.spotify.com/artist/0M4HBOoYoByb7ErrGMjM3z) | [Are You In The Room](https://open.spotify.com/album/4rxupkFO0No2CVYt77iBej) | 3:07 |
 | 57 | [THE BOTTOM](https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [HEATWAVE](https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26) | 3:39 |
-| 58 | [M79](https://open.spotify.com/track/3PYTEgSf4opLzuUiPecUqS) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 4:15 |
-| 59 | [Follow Me](https://open.spotify.com/track/3XVsJ2JMP3oBUqhXbFReQ3) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 3:41 |
+| 58 | [Follow Me](https://open.spotify.com/track/3XVsJ2JMP3oBUqhXbFReQ3) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 3:41 |
+| 59 | [M79](https://open.spotify.com/track/3PYTEgSf4opLzuUiPecUqS) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 4:15 |
 | 60 | [Pharaohs](https://open.spotify.com/track/3G9DXOdZHws7eFslJrJvKY) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [SBTRKT \(Deluxe Version\)](https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq) | 3:38 |
 | 61 | [Millionaire \(feat\. André 3000\)](https://open.spotify.com/track/1mVTQSGoFchL3VVrIa0MeH) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Tasty](https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go) | 3:44 |
 | 62 | [11:30](https://open.spotify.com/track/4wMdqBMvVKpNPpRFiBRiXO) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:01 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 64 | [Dance With The Devil](https://open.spotify.com/track/45wa8hJ0kmnoFHe3Q2b7wD) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Dance With The Devil](https://open.spotify.com/album/5G78ENtLhRyWmGjXL2CGTo) | 3:30 |
 | 65 | [NICE OUT](https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [NICE OUT](https://open.spotify.com/album/2UevF4zIN6rYNEk9I0l8zJ) | 4:06 |
 | 66 | [Indeed](https://open.spotify.com/track/1jASJWOio1y6HX9noE7FWi) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Dog Daze](https://open.spotify.com/album/0APqibgHREHUQyPXOqVzBa) | 2:28 |
-| 67 | [Wildin'](https://open.spotify.com/track/4LGg2NY9eHp0jF3L1WbCNl) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Wildin'](https://open.spotify.com/album/7kSFfhqYkwCiBYzYm8o61i) | 2:19 |
-| 68 | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep) | 4:04 |
+| 67 | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep) | 4:04 |
+| 68 | [Wildin'](https://open.spotify.com/track/4LGg2NY9eHp0jF3L1WbCNl) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Wildin'](https://open.spotify.com/album/7kSFfhqYkwCiBYzYm8o61i) | 2:19 |
 | 69 | [In My Head](https://open.spotify.com/track/5a5q1sFcpMoPRk5fRGWq2W) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Far Away](https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn) | 1:44 |
 | 70 | [Far Rockaway](https://open.spotify.com/track/2AcEZtXsn6en6Dh9CptAtQ) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [Far Rockaway](https://open.spotify.com/album/75lW5iDCy7Cr8IMRCHq7L0) | 2:22 |
 | 71 | [Be With U \(feat\. DETO BLACK\)](https://open.spotify.com/track/3AzfXSz7wBlTCHovkU8uCk) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Sexy](https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq) | 3:09 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 77 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 |
 | 78 | [Greatest Hits](https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [I Love You Jennifer B](https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8) | 4:27 |
 | 79 | [Star Girl](https://open.spotify.com/track/15iOxEc0Zvnn0wMbK2uhPc) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [Star Girl](https://open.spotify.com/album/3njJmSyA76HMuYzDRBOYYW) | 3:00 |
-| 80 | [Closure](https://open.spotify.com/track/5tir4dUwLnKYd1rr0zLiGR) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Rahrah Gabor](https://open.spotify.com/artist/0aXwPlkVGO3Cyn1nwiNq2g) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:29 |
-| 81 | [Family Tree](https://open.spotify.com/track/695L0B06tMVsy8RiwC7dHc) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 2:13 |
+| 80 | [Family Tree](https://open.spotify.com/track/695L0B06tMVsy8RiwC7dHc) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 2:13 |
+| 81 | [Closure](https://open.spotify.com/track/5tir4dUwLnKYd1rr0zLiGR) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Rahrah Gabor](https://open.spotify.com/artist/0aXwPlkVGO3Cyn1nwiNq2g) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:29 |
 | 82 | [Just Sayin' Shit](https://open.spotify.com/track/3bV45mBTw4x0O8XNr361KE) | [Flower in Bloom](https://open.spotify.com/artist/0Qo3BPiai9OuVq6zojWALA) | [Just Sayin' Shit](https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa) | 1:01 |
 | 83 | [Toronto Funhouse](https://open.spotify.com/track/2u1ioR9wjR4FqSPLPoeQvb) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Toronto Funhouse](https://open.spotify.com/album/4HFfB5ovi0fmCt4LrHRzAV) | 2:00 |
 | 84 | [Mr Valentine](https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Mr Valentine](https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0) | 2:37 |

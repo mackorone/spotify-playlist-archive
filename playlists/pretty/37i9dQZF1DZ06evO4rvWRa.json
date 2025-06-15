@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1642200,
+  "num_followers": 1642183,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAABipJHcLvJMfWbsJb38IhIS",
+  "snapshot_id": "aEtqAAAAAAA9MtMlJLZSm5VfQKpJC4so",
   "tracks": [
     {
       "added_at": null,
@@ -911,22 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 155409,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walkerverse Pt. I & II",
         "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 191098,
       "name": "Somebody Like U",
       "url": "https://open.spotify.com/track/5CkNcNcocnAWbshrLuCl2B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 155409,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr"
     },
     {
       "added_at": null,
@@ -987,26 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "sickly sweet (Alan Walker Remix)",
-        "url": "https://open.spotify.com/album/1tmHPiGes5UOMRpToZEGDM"
-      },
-      "artists": [
-        {
-          "name": "kenzie",
-          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 142909,
-      "name": "sickly sweet - Alan Walker Remix",
-      "url": "https://open.spotify.com/track/7xK4iii6HEQfcdJXOt8B5j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walkerverse Pt. I & II",
         "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 132954,
       "name": "Shut Up",
       "url": "https://open.spotify.com/track/1hf9Wu2l0XIgAcTZLSAUJe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "sickly sweet (Alan Walker Remix)",
+        "url": "https://open.spotify.com/album/1tmHPiGes5UOMRpToZEGDM"
+      },
+      "artists": [
+        {
+          "name": "kenzie",
+          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 142909,
+      "name": "sickly sweet - Alan Walker Remix",
+      "url": "https://open.spotify.com/track/7xK4iii6HEQfcdJXOt8B5j"
     },
     {
       "added_at": null,

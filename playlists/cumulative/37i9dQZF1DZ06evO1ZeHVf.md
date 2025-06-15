@@ -4,7 +4,7 @@
 
 > This is CeCe Winans\. The essential tracks, all in one playlist.
 
-101 songs - 7 hr 58 min
+102 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [How Great Thou Art!](https://open.spotify.com/track/0rJhS2Mw9ozyCnxzducYi4) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Throne Room \(Gold Edition\)](https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz) | 6:17 | 2022-09-14 |  |
 | [I Am](https://open.spotify.com/track/1EjiSDVT1YgLKO4W71NAmA) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Everlasting Love](https://open.spotify.com/album/3MHub5tyWVwztqFLoKQWjd) | 4:19 | 2022-09-14 | 2024-05-05 |
 | [I Don't Know Why \- Live](https://open.spotify.com/track/2l8cNakFazSIBJC49ztGpR) | [Gaither](https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY), [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [A Billy Graham Music Homecoming \(Vol\. 2 / Live\)](https://open.spotify.com/album/0Gn8LSdxzYGqXhTs91kWx8) | 1:05 | 2022-12-02 | 2025-01-18 |
+| [I Know A Name \(with Cece Winans\)](https://open.spotify.com/track/1r8WQfbxvLiyxBjY1jgKIW) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [King Of Hearts](https://open.spotify.com/album/39sqUPX1iGhkoubpTi9ORw) | 5:39 | 2025-06-15 |  |
 | [I Promise \(Wedding Song\)](https://open.spotify.com/track/3pTA6tD4Xv25EJrAeCjBp6) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Purified](https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8) | 4:59 | 2022-09-14 | 2022-10-13 |
 | [I Surrender All](https://open.spotify.com/track/61PM6e4ZKNyk0cliMB2oNv) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 5:29 | 2022-09-14 |  |
 | [I've Got Joy](https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It \(Deluxe Edition\)](https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw) | 3:38 | 2022-09-14 |  |
@@ -98,7 +99,7 @@
 | [Through It All \- Live](https://open.spotify.com/track/5zDIg5nO5TxvEnGUJBiw45) | [Gaither](https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY), [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [A Billy Graham Music Homecoming \(Vol\. 2 / Live\)](https://open.spotify.com/album/0Gn8LSdxzYGqXhTs91kWx8) | 4:03 | 2022-10-12 |  |
 | [Too Late To Lose](https://open.spotify.com/track/7tsiPgtkCIGXCXkdxml7OH) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw) | 6:33 | 2024-05-10 | 2024-05-27 |
 | [Waging War](https://open.spotify.com/track/1TKNkFNRWL5YcefJeIkfKz) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 5:20 | 2022-09-14 |  |
-| [We Welcome You \(Holy Father\)](https://open.spotify.com/track/5ZbYTCik99Yqk2CZRI6Xqk) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 4:57 | 2022-09-14 |  |
+| [We Welcome You \(Holy Father\)](https://open.spotify.com/track/5ZbYTCik99Yqk2CZRI6Xqk) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 4:57 | 2022-09-14 | 2025-06-15 |
 | [Well, Alright](https://open.spotify.com/track/22zZfNtNFd46tAAC4rsyRa) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Everlasting Love](https://open.spotify.com/album/3MHub5tyWVwztqFLoKQWjd) | 4:18 | 2022-09-14 | 2023-12-18 |
 | [What Are We Waiting For?](https://open.spotify.com/track/0Yf8qEi74w9JnGGSrPRXEX) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [What Are We Waiting For?](https://open.spotify.com/album/66VDNidp38ftTSZG2rGKx8) | 3:16 | 2023-12-13 | 2024-07-06 |
 | [When You Love \(feat\. CeCe Winans, Yolanda Adams & Mary Mary\)](https://open.spotify.com/track/7lCkz84Hd3LnRbEPhvIZOg) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [We All Are One \(Live In Detroit\)](https://open.spotify.com/album/0OsTWxuUeYBTQL3lftiMpk) | 4:26 | 2022-09-15 | 2024-05-05 |

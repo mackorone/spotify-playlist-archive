@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 
 > Ouça e conheça as revelações da música gospel\. Foto: Lu Quirino
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,646 likes - 60 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,654 likes - 60 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 15 | [Sou Humano \(Ao Vivo\)](https://open.spotify.com/track/5t402XIfTxPDIVQ8kC2iWg) | [Alice](https://open.spotify.com/artist/68jmwIsKnfYj0WJxduQnWZ), [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Sou Humano \(Ao Vivo\)](https://open.spotify.com/album/6vyzpWzy6GIqY7xHPiagqJ) | 4:33 |
 | 16 | [Graça](https://open.spotify.com/track/50pNAEvXwRMdqizML22vXa) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t) | [Graça](https://open.spotify.com/album/7HwGAK2cFTLCuwIcj2No47) | 5:41 |
 | 17 | [Incomparável](https://open.spotify.com/track/4C4cQJRtSAQFzJkr5fXHsh) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Incomparável](https://open.spotify.com/album/2RAxcqYvInUcuemO3ck1o0) | 5:00 |
-| 18 | [Ele Vem](https://open.spotify.com/track/5oznsuwB77V1VZHBN4PEe2) | [Samuel Miranda](https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS), [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Ele Vem](https://open.spotify.com/album/1cEYntMwveI3wIHUXyJXMT) | 5:59 |
-| 19 | [Ter Paz](https://open.spotify.com/track/2NZPRJTWKpzcZQ2sMIRNty) | [Geovanne Oliveira](https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR) | [Ter Paz](https://open.spotify.com/album/6rO8TZsIW5667kvsUQkpQW) | 4:45 |
+| 18 | [Ter Paz](https://open.spotify.com/track/2NZPRJTWKpzcZQ2sMIRNty) | [Geovanne Oliveira](https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR) | [Ter Paz](https://open.spotify.com/album/6rO8TZsIW5667kvsUQkpQW) | 4:45 |
+| 19 | [Ele Vem](https://open.spotify.com/track/5oznsuwB77V1VZHBN4PEe2) | [Samuel Miranda](https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS), [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Ele Vem](https://open.spotify.com/album/1cEYntMwveI3wIHUXyJXMT) | 5:59 |
 | 20 | [Raridade \(Releitura\)](https://open.spotify.com/track/7ChILVLENXtNdAGyavc9th) | [Bea Rodrigues](https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i) | [Raridade \(Releitura\)](https://open.spotify.com/album/2iVGtuWpmNtP5Az2SUXAcj) | 4:16 |
 | 21 | [Espírito, Enche a Minha Vida](https://open.spotify.com/track/6R1M5uAD1qsv5T8MIZVnFy) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Jessica Dias](https://open.spotify.com/artist/6nCdSWwlMM1cUfAWrHrnvD) | [Espírito, Enche a Minha Vida](https://open.spotify.com/album/4qhBI2wJM9qlIoMsGLAuJU) | 4:08 |
 | 22 | [Me Mostra Tua Face](https://open.spotify.com/track/3psQ9G2puOa5xPnQq4bJT2) | [RL Worship](https://open.spotify.com/artist/5su32zrgIryPMprkwVWmmU) | [Me Mostra Tua Face](https://open.spotify.com/album/2J6T1h7EXJyYwMTvpgbUCx) | 6:24 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 40 | [Minha canção](https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS) | [ThreeSis](https://open.spotify.com/artist/5iAuHGnqVA3BzRoNPiORPQ) | [Minha canção](https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO) | 4:33 |
 | 41 | [Tu Me Fascinas \- Ao Vivo](https://open.spotify.com/track/41NibAItjNsql9NScvLcon) | [Mariana Vieira](https://open.spotify.com/artist/2uUm1FW0PANuzL0hiSH9o2) | [Tu Me Fascinas \(Ao Vivo\)](https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7) | 4:43 |
 | 42 | [Quanto Amor](https://open.spotify.com/track/4Uc9lQEOm6KnNtES53jDfB) | [Gabriel Bulian](https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0) | [Quanto Amor](https://open.spotify.com/album/4K7OG0Y812Xl9UlpyNjJbj) | 3:44 |
-| 43 | [Vestígios](https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue) | [Jayana Moreira](https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH) | [Vestígios](https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh) | 4:51 |
-| 44 | [Te Queremos Mais](https://open.spotify.com/track/2b8G9oQzA0MUQvQfhLqZCf) | [Victoria Brandão](https://open.spotify.com/artist/5Z9Z5mJvghIG4GAPJ5lo7d) | [Te Queremos Mais](https://open.spotify.com/album/4Ih5eUaGedWzx0z82x7ISa) | 5:21 |
+| 43 | [Te Queremos Mais](https://open.spotify.com/track/2b8G9oQzA0MUQvQfhLqZCf) | [Victoria Brandão](https://open.spotify.com/artist/5Z9Z5mJvghIG4GAPJ5lo7d) | [Te Queremos Mais](https://open.spotify.com/album/4Ih5eUaGedWzx0z82x7ISa) | 5:21 |
+| 44 | [Vestígios](https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue) | [Jayana Moreira](https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH) | [Vestígios](https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh) | 4:51 |
 | 45 | [Eu Vou Mergulhar](https://open.spotify.com/track/75H1JdNy5JIndenoockhB3) | [Idma Brito](https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2) | [Eu Vou Mergulhar](https://open.spotify.com/album/6rOWiP8QX8iub0JIU0pSFO) | 4:51 |
 | 46 | [Em Nome de Jesus](https://open.spotify.com/track/6bruHygWw6BLa8hJpkvqLy) | [Matheus França](https://open.spotify.com/artist/1JuV0g5Q2wjlF6gXmk3pGh) | [Em Nome de Jesus](https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe) | 5:07 |
 | 47 | [Quem Disse? \- Ao Vivo](https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG) | [Julliana Silva](https://open.spotify.com/artist/3TMlmzPsCt9e16XSMctNgI) | [Quem Disse? \(Ao Vivo\)](https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO) | 5:30 |

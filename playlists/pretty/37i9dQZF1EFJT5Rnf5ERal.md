@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,584 likes - 286 songs - 13 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,585 likes - 286 songs - 13 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,8 +147,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 137 | [Sno Cone \(feat\. Quavo & Gucci Mane\)](https://open.spotify.com/track/3n1nexKECrkHZPyAJgUSmC) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Clark Street Baby](https://open.spotify.com/album/0IIx3duVO5PY0gdAelTann) | 3:10 |
 | 138 | [Lullaby](https://open.spotify.com/track/60wjsG8f8obJuJL24EkEhe) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 2:15 |
 | 139 | [Not Gang \(feat\. EST Gee\)](https://open.spotify.com/track/5FomOoKIQFmXKalg8ORKf0) | [OMB Bloodbath](https://open.spotify.com/artist/791JV2CttYVOeGa9F6Kdu3), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Blood Sample](https://open.spotify.com/album/1XTLPFNI7FRwXRytYL2ny3) | 3:09 |
-| 140 | [Bottom](https://open.spotify.com/track/0PcCC6A17tbBckIM4q5Q1L) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 3:25 |
-| 141 | [Right Now](https://open.spotify.com/track/6qzZLA8bDM3wsAzTK4PvSX) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 2:52 |
+| 140 | [Right Now](https://open.spotify.com/track/6qzZLA8bDM3wsAzTK4PvSX) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 2:52 |
+| 141 | [Bottom](https://open.spotify.com/track/0PcCC6A17tbBckIM4q5Q1L) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 3:25 |
 | 142 | [DUMB \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/2PQ8j691jAj6T4f7Ur4RiU) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [DUMB \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/3eYKjONrNl5fAsOTGogSNL) | 2:26 |
 | 143 | [It's My Birthday](https://open.spotify.com/track/5ZjSQmUdjvFhSVhLWpVPWQ) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:27 |
 | 144 | [Blow the Pickle \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/3e6FIuzEBiseLJIK0mB1T8) | [Ambjaay](https://open.spotify.com/artist/3BbPRvYQ0M9SFmhkHXozLm), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [It Cost To Live Like This Pt\. 2](https://open.spotify.com/album/6veRHR6PSNEVog2EBrmK4H) | 2:15 |
@@ -212,8 +212,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 202 | [Awesome Jawsome](https://open.spotify.com/track/0KYKfUcshuaEhIi6c5p1cJ) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:49 |
 | 203 | [Addiction \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/69I7iAPk11AOvLI0t7Uo01) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Bacc 2 Da Bloc](https://open.spotify.com/album/2ItyhC5YTQMXGLb6OmZljr) | 2:46 |
 | 204 | [Worked Hard](https://open.spotify.com/track/00V76gpjbXHTGQJKa2l6yC) | [Lxst](https://open.spotify.com/artist/2vxh38hZKAV0DlSpnv7cqT), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [KOV](https://open.spotify.com/album/3zHgwCgiBWNcXhOX9UrQME) | 2:18 |
-| 205 | [No Topic](https://open.spotify.com/track/6my0mF0NM1TDyWoWKvqgQV) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [The Purple M&M](https://open.spotify.com/album/0GNeGUkYXwXX6mRXSC3MwQ) | 3:01 |
-| 206 | [Car Flip](https://open.spotify.com/track/6G6eTSxkm5lzwPQRr4Ym4v) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [UNDERRATED](https://open.spotify.com/album/3jL7EW4fj5JoT8yqImgUBC) | 2:37 |
+| 205 | [Car Flip](https://open.spotify.com/track/6G6eTSxkm5lzwPQRr4Ym4v) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [UNDERRATED](https://open.spotify.com/album/3jL7EW4fj5JoT8yqImgUBC) | 2:37 |
+| 206 | [No Topic](https://open.spotify.com/track/6my0mF0NM1TDyWoWKvqgQV) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [The Purple M&M](https://open.spotify.com/album/0GNeGUkYXwXX6mRXSC3MwQ) | 3:01 |
 | 207 | [Quarter Milly \(with French Montana & Tay Keith\)](https://open.spotify.com/track/57fJVNmqX4u8xi3uWkd2gh) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [French Montana](https://open.spotify.com/artist/56hdoJ5Akq4837LNdmTKrQ), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [WLGS](https://open.spotify.com/album/3qbKnuefZWSTgmQxlvDKVb) | 2:11 |
 | 208 | [Transformer \(feat\. Lil Gnar\)](https://open.spotify.com/track/35T7XHCp4LD4IhEKXqypPv) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [Nasty](https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1) | 3:01 |
 | 209 | [Fraud](https://open.spotify.com/track/070RY72MRmoCVpGS7nuR0b) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 3:10 |
@@ -295,4 +295,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 285 | [Drill Back](https://open.spotify.com/track/3nHfvTt8iRbwnbIySfcfs9) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:12 |
 | 286 | [That's Him](https://open.spotify.com/track/4eQFDkbkOwMEMpxzby8vxg) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:45 |
 
-Snapshot ID: `Ab0D1AAAAAClUw/8UR42zz++BU7g46Me`
+Snapshot ID: `Ab0JkwAAAABFMBtvllYIB0tGMLu9oOjH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 
 > beber gin em casa, nada melhor
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,404 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,411 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 25 | [Make It Better \(feat\. Smokey Robinson\)](https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:39 |
 | 26 | [Dontcha](https://open.spotify.com/track/6dET51TwAJPrKV5wmA5Vhr) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Feel Good](https://open.spotify.com/album/4Bpt4fHYxxgqR2GjrxyR6D) | 3:21 |
 | 27 | [Love Song \(feat\. Glasses\)](https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Glasses](https://open.spotify.com/artist/1aZqKXeEfZFRR4QvKvqi1g) | [33 000 FT.](https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek) | 2:50 |
-| 28 | [Don't Forget About Us \- KAYTRANADA Remix](https://open.spotify.com/track/1NmC7qGL2jdqtFXzrrH3ui) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Don't Forget About Us \(KAYTRANADA Remix\)](https://open.spotify.com/album/5WOY8ePlLY1zOSekVvnyZy) | 4:03 |
-| 29 | [Taste](https://open.spotify.com/track/6GbWNeR3P9MTCmSyPVHgb1) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:45 |
+| 28 | [Taste](https://open.spotify.com/track/6GbWNeR3P9MTCmSyPVHgb1) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:45 |
+| 29 | [Don't Forget About Us \- KAYTRANADA Remix](https://open.spotify.com/track/1NmC7qGL2jdqtFXzrrH3ui) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Don't Forget About Us \(KAYTRANADA Remix\)](https://open.spotify.com/album/5WOY8ePlLY1zOSekVvnyZy) | 4:03 |
 | 30 | [Late Nights & Heartbreak](https://open.spotify.com/track/5JtgrxeDRTTcBsYwKoYb8v) | [Hannah Williams](https://open.spotify.com/artist/0unydCSm9ARiINdrNqugDg), [The Affirmations](https://open.spotify.com/artist/5TyLR1qi5Fbv5mlsy5329g) | [Late Nights & Heartbreak](https://open.spotify.com/album/6qItB9uDic8Yzsc84FxeJp) | 4:15 |
 | 31 | [PAPO DE EDREDOM](https://open.spotify.com/track/5v3dDDH14tXlNkgcKxhplo) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 3:12 |
 | 32 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 50 | [Hope](https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 4:30 |
 | 51 | [Dentro Ali](https://open.spotify.com/track/57rdTDz1qdo7Pfqx8jWB5e) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5) | [Um Mar Pra Cada Um,](https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh) | 5:18 |
 | 52 | [el sur](https://open.spotify.com/track/0XztUZe3YjkeHByWXKLlyM) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Tony Grox](https://open.spotify.com/artist/2JtSnG15nk4gxjlFG7aocD) | [el sur](https://open.spotify.com/album/0LBBkVKzKtzhX6WUoQZ3cH) | 2:40 |
-| 53 | [Blue Lights](https://open.spotify.com/track/1cfs0qXoMWheM0s8Rq7jf0) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Blue Lights](https://open.spotify.com/album/3AtIuMIhH7mWk5p2JwfJRJ) | 4:10 |
-| 54 | [Love Me Right](https://open.spotify.com/track/2xWVD6aecDSHroyPVVcPpa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 4:51 |
+| 53 | [Love Me Right](https://open.spotify.com/track/2xWVD6aecDSHroyPVVcPpa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 4:51 |
+| 54 | [Blue Lights](https://open.spotify.com/track/1cfs0qXoMWheM0s8Rq7jf0) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Blue Lights](https://open.spotify.com/album/3AtIuMIhH7mWk5p2JwfJRJ) | 4:10 |
 | 55 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 |
 | 56 | [Wake Up Love](https://open.spotify.com/track/2KkNkv6ciB6bt2hvHtOrin) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Iman.](https://open.spotify.com/artist/4snOTeLIxOa9anlWC3k5cC) | [Wake Up Love](https://open.spotify.com/album/4bIuE7S9tX7bZttvusd6QR) | 3:35 |
 | 57 | [Inside And Out](https://open.spotify.com/track/5YGJzSL1fYvjwsfy1f1iqJ) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/0peHQm7gEXWqmeXms8tQmO) | 4:17 |

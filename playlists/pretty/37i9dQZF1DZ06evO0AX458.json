@@ -1,12 +1,12 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 4333,
+  "num_followers": 4335,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAA3TlXJtbVFvvyVm9ThkNBb",
+  "snapshot_id": "aEtqAAAAAACzipvR54Gh8CD1/Jxk7caK",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "...To the Beat of a Dead Horse",
-        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 97429,
-      "name": "And Now It's Happening in Mine",
-      "url": "https://open.spotify.com/track/4i2ZnG3km6mvQ3zqcsEAio"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deflector",
         "url": "https://open.spotify.com/album/093ZXKn597MVIth3gvqcKh"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 182946,
       "name": "Green",
       "url": "https://open.spotify.com/track/7Elxs3hCKEiHfOv7rb6F70"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...To the Beat of a Dead Horse",
+        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 97429,
+      "name": "And Now It's Happening in Mine",
+      "url": "https://open.spotify.com/track/4i2ZnG3km6mvQ3zqcsEAio"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "...To the Beat of a Dead Horse",
-        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 44418,
-      "name": "Nine",
-      "url": "https://open.spotify.com/track/5GRro6xGJrZEwQykaaKXEk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Apollo Programme Was A Hoax",
         "url": "https://open.spotify.com/album/2VfpzHUHKc4Ni26qeaD70D"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 191400,
       "name": "The Apollo Programme Was A Hoax",
       "url": "https://open.spotify.com/track/0sXsOeBuEEPQPmJpPQhISe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...To the Beat of a Dead Horse",
+        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 44418,
+      "name": "Nine",
+      "url": "https://open.spotify.com/track/5GRro6xGJrZEwQykaaKXEk"
     },
     {
       "added_at": null,

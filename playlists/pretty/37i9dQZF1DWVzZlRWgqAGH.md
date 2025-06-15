@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Yazmin Lacey and music for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 823,031 likes - 101 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,113 likes - 101 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

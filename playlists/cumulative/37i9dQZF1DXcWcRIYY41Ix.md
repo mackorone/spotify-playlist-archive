@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Silvana Estrada.
 
-844 songs - 2 day 2 hr 14 min
+845 songs - 2 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,6 +488,7 @@
 | [Milaka Lore \- Miles de Flores](https://open.spotify.com/track/3cMG8a9pwc7ZK34hDLUT9X) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1), [SÜNE](https://open.spotify.com/artist/57e70Po12Ltmf2tg0cKYka), [GRETA CH'ASKA](https://open.spotify.com/artist/4n1sa8DtFCm0AZ67GBfxoh) | [Milaka Lore \- Miles de Flores](https://open.spotify.com/album/5dp5d1ANJoFfuV3lRUGN2X) | 2:40 | 2024-08-02 | 2024-10-05 |
 | [Milonga de Ojos Dorados \(Alfredo Zitarrosa\) \- Live on Pardelion Music](https://open.spotify.com/track/0fAmpdONIYsxiP27CwnzLJ) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Sebastián Prada](https://open.spotify.com/artist/3sKZkGBDzeqXtOzKGzMaS6) | [Milonga de Ojos Dorados \(Alfredo Zitarrosa\) \[Live on Pardelion Music\]](https://open.spotify.com/album/3ArBdhbnE1kVG9BpqUA6af) | 2:41 | 2021-12-24 | 2024-05-10 |
 | [Mirando el Mar \- Versión Palmera](https://open.spotify.com/track/6gu0EkZTYS1fomV6G3XBIH) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri), [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [Vuela Lejos \(Abriendo Latidos\)](https://open.spotify.com/album/7gMauUcw3rCV8hxRVbAruM) | 3:07 | 2022-06-10 | 2022-06-25 |
+| [Mirlo pardo](https://open.spotify.com/track/5Pio0OlA5NWk7GfPjdx8nd) | [Ede](https://open.spotify.com/artist/1O3NvmKUV1bKyER3apqx3Q) | [MIRLO PARDO · LA VEREDA](https://open.spotify.com/album/3pw1YIdUqTd2snkAG5boM3) | 3:23 | 2025-06-12 |  |
 | [Miña Rula / Non Teñas Medo](https://open.spotify.com/track/6t5rXtW76GQiCfdR4IWHQW) | [Santi Araújo](https://open.spotify.com/artist/4OhOLgx55siRiNJmSXoAMc), [Leonor Watling](https://open.spotify.com/artist/3Ugtds1yOqfTzTwP9iHFZ3) | [Miña Rula / Non Teñas Medo](https://open.spotify.com/album/68eQTK4Za02Ytl2IJ9qF1w) | 3:32 | 2022-02-04 | 2022-05-27 |
 | [Momentánea](https://open.spotify.com/track/1eLXjariIFQNSwzXoTNWBl) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Momentánea](https://open.spotify.com/album/2iX8rvlCGWePx3CYdg0P3a) | 4:00 | 2021-12-24 | 2023-02-18 |
 | [Monstruos](https://open.spotify.com/track/6JKgtcEqx0fxYmHnCzhBug) | [La Pena](https://open.spotify.com/artist/2N5vNzy9TV52uCwVpvs2eM) | [Monstruos](https://open.spotify.com/album/3AIcvZUdB3KPseBtHgWoJ0) | 3:51 | 2025-06-06 |  |
@@ -513,7 +514,7 @@
 | [Negro](https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5) | [Mayra Cárdenas](https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1) | [Negro](https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT) | 4:05 | 2022-08-19 | 2022-09-10 |
 | [Negro o Blanco](https://open.spotify.com/track/6fK7BYwuJyLR7EYSPnSCf7) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [Negro o Blanco](https://open.spotify.com/album/2dVfSIQ6V3seCzIbyjxypF) | 2:51 | 2022-07-22 | 2022-08-17 |
 | [Neurean / La Meva Llengua](https://open.spotify.com/track/5QtCgRuKALgORekWnqAv7U) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [IZARO](https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb) | [Neurean / La Meva Llengua](https://open.spotify.com/album/2YBY9WZYL2ruwII9G5xXVj) | 3:20 | 2024-10-25 | 2025-03-14 |
-| [Neve e luz](https://open.spotify.com/track/4rpE0HDsG9fTfa17rxWaGv) | [Lontras](https://open.spotify.com/artist/0j2x8ml2wI7AdqVPvbQ50X) | [Neve e luz](https://open.spotify.com/album/2g7CZBCBqYEO3PHGBShEv0) | 5:07 | 2025-06-12 |  |
+| [Neve e luz](https://open.spotify.com/track/4rpE0HDsG9fTfa17rxWaGv) | [Lontras](https://open.spotify.com/artist/0j2x8ml2wI7AdqVPvbQ50X) | [Neve e luz](https://open.spotify.com/album/2g7CZBCBqYEO3PHGBShEv0) | 5:07 | 2025-06-12 | 2025-06-15 |
 | [ni tú ni yo](https://open.spotify.com/track/0kH1Bp0VeWqBenyfzV0alC) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ni tú ni yo](https://open.spotify.com/album/54QpV1YNnLRak4dzeas1ZB) | 2:55 | 2024-03-08 | 2024-04-20 |
 | [Ni Una Cosa Ni la Otra](https://open.spotify.com/track/41qlbgS7KPPiuvJ29pRW6Y) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Ni Una Cosa Ni La Otra](https://open.spotify.com/album/6mRskuWBiKC2L4kHAdsqSX) | 4:31 | 2022-02-25 | 2022-03-13 |
 | [Nieve De Arrayán](https://open.spotify.com/track/7a7JZxPwTGxzawTrprrVkN) | [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [Nieve De Arrayán](https://open.spotify.com/album/5A8t6J9w1Pykdm5PLundCA) | 3:39 | 2021-12-24 | 2022-07-29 |

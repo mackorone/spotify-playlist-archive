@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Little Homie
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,473 likes - 168 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,458 likes - 168 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 10 | [MI REINA](https://open.spotify.com/track/5BITTj2JpsNu2PBONOlg27) | [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3) | [BABY LION](https://open.spotify.com/album/561w3uRRvWGdRJ1M5suSFp) | 2:23 |
 | 11 | [100pol35](https://open.spotify.com/track/17720TgdxMGIBuu11ymavE) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [100pol35](https://open.spotify.com/album/3nyHRWsU5NM4ncoJeoxrFY) | 3:29 |
 | 12 | [Kdelas](https://open.spotify.com/track/3pMjOkChWbnU7PYuKmHYUV) | [Alex Krack](https://open.spotify.com/artist/1YZcJWydWAbSpknMUKtD9m), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [Kdelas](https://open.spotify.com/album/1ZeuR6NPxEFpZyYyCzjQVp) | 2:37 |
-| 13 | [Hospeda](https://open.spotify.com/track/3rvzMt65ohYpqkXQ2LxzDX) | [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E), [Tutu](https://open.spotify.com/artist/4x0EcUYpeDMvgCgtNhgwSl) | [Hospeda](https://open.spotify.com/album/5DHNV0mhhIrULt79CQpxCf) | 2:42 |
+| 13 | [Hospeda](https://open.spotify.com/track/3rvzMt65ohYpqkXQ2LxzDX) | [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E), [Tutu](https://open.spotify.com/artist/2oJG42nDNigJngS1nlWm2W) | [Hospeda](https://open.spotify.com/album/5DHNV0mhhIrULt79CQpxCf) | 2:42 |
 | 14 | [Sandungueo](https://open.spotify.com/track/7K3TT2jA43Tr47ur82flxg) | [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg), [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH), [Mista Greenzz](https://open.spotify.com/artist/3ez0IrscepIifqnM1VuwqQ) | [Sandungueo](https://open.spotify.com/album/5m9GrGiFT4zCCUNlYqCImk) | 2:45 |
 | 15 | [Golfista](https://open.spotify.com/track/0mmWol32PnowJQf0rZx5ab) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Golfista](https://open.spotify.com/album/0lTUD8YJxWaETCcV5sLPJH) | 2:38 |
 | 16 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:28 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Angie Stone. The essential tracks, all in one playlist.",
-  "num_followers": 25454,
+  "num_followers": 25457,
   "original_name": "This Is Angie Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAASaTvccp6w2CekI4s3WPL7",
+  "snapshot_id": "aEtqAAAAAAA9nB512iFupw9N/GA3s6XX",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 248480,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/0FPwnqxQP6sdY77FFIcGh7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "London Ko",
         "url": "https://open.spotify.com/album/3FnZTIThL7sm42d5t7pZ1C"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 202409,
       "name": "Somaw",
       "url": "https://open.spotify.com/track/7j360rnoPfIwKlEW8qSx2g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 248480,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/0FPwnqxQP6sdY77FFIcGh7"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 212306,
-      "name": "Here We Go Again",
-      "url": "https://open.spotify.com/track/4v4ICmsY42M8sc0iI8w1I8"
+      "duration_ms": 230400,
+      "name": "Take Everything In",
+      "url": "https://open.spotify.com/track/0S9J927viE05YinAFLoUUi"
     },
     {
       "added_at": null,
@@ -610,15 +610,11 @@
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Pauletta Washington",
-          "url": "https://open.spotify.com/artist/1xPmfPmx5uMCXmTcB5aEiT"
         }
       ],
-      "duration_ms": 269373,
-      "name": "Happy Being Me",
-      "url": "https://open.spotify.com/track/7jIvDotIdiYG0Zv35xam8v"
+      "duration_ms": 212306,
+      "name": "Here We Go Again",
+      "url": "https://open.spotify.com/track/4v4ICmsY42M8sc0iI8w1I8"
     },
     {
       "added_at": null,
@@ -698,27 +694,15 @@
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Take Everything In",
-      "url": "https://open.spotify.com/track/0S9J927viE05YinAFLoUUi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stone Love",
-        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
-      },
-      "artists": [
+        },
         {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+          "name": "Pauletta Washington",
+          "url": "https://open.spotify.com/artist/1xPmfPmx5uMCXmTcB5aEiT"
         }
       ],
-      "duration_ms": 35293,
-      "name": "Stoned Love (Intro)",
-      "url": "https://open.spotify.com/track/64d9VM45lpwAv5ihZHEDbm"
+      "duration_ms": 269373,
+      "name": "Happy Being Me",
+      "url": "https://open.spotify.com/track/7jIvDotIdiYG0Zv35xam8v"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
       "duration_ms": 289271,
       "name": "Love TKO",
       "url": "https://open.spotify.com/track/37ap6nCrkAew8dPVsGj1QD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stone Love",
+        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 35293,
+      "name": "Stoned Love (Intro)",
+      "url": "https://open.spotify.com/track/64d9VM45lpwAv5ihZHEDbm"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stone Love",
-        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "U-Haul",
-      "url": "https://open.spotify.com/track/2iENV2zVh4k4JH3gV9SBk7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/6KhoIz4SDYW5zEnl0O9bRB"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 238220,
       "name": "Gonna Have to Be You",
       "url": "https://open.spotify.com/track/0yKtPIRrUjoATLNNXmJcbq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stone Love",
+        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "U-Haul",
+      "url": "https://open.spotify.com/track/2iENV2zVh4k4JH3gV9SBk7"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stone Love",
-        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 236506,
-      "name": "Come Home (Live With Me)",
-      "url": "https://open.spotify.com/track/0BwlXwD01OVIMnhKQVlocV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/3SjkXnXu8tjg9Xg9bXPOuM"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 199893,
       "name": "The Gym",
       "url": "https://open.spotify.com/track/5aCV1ShX2YWtYICZc1qBTK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stone Love",
+        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 236506,
+      "name": "Come Home (Live With Me)",
+      "url": "https://open.spotify.com/track/0BwlXwD01OVIMnhKQVlocV"
     },
     {
       "added_at": null,

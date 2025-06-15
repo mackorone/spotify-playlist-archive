@@ -1,6 +1,6 @@
 {
   "description": "Classic tunes served over easy for the perfect brunch soundtrack.",
-  "num_followers": 190310,
+  "num_followers": 190362,
   "original_name": "Sunday Brunch",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2025-02-14 05:00:49",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 264906,
+      "name": "Gypsy",
+      "url": "https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG"
+    },
+    {
+      "added_at": "2025-02-14 05:00:49",
+      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
-    },
-    {
-      "added_at": "2025-02-14 05:00:49",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 264906,
-      "name": "Gypsy",
-      "url": "https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG"
     },
     {
       "added_at": "2025-02-14 05:00:49",
@@ -391,22 +391,6 @@
     {
       "added_at": "2025-02-14 05:00:49",
       "album": {
-        "name": "Cold Little Heart (Radio Edit)",
-        "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 210299,
-      "name": "Cold Little Heart - Radio Edit",
-      "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
-    },
-    {
-      "added_at": "2025-02-14 05:00:49",
-      "album": {
         "name": "Dancing in the Moonlight",
         "url": "https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 181133,
       "name": "Dancing in the Moonlight",
       "url": "https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU"
+    },
+    {
+      "added_at": "2025-02-14 05:00:49",
+      "album": {
+        "name": "Cold Little Heart (Radio Edit)",
+        "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 210299,
+      "name": "Cold Little Heart - Radio Edit",
+      "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
     },
     {
       "added_at": "2025-02-14 05:00:49",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-02-14 05:00:49",
       "album": {
-        "name": "Transformer",
-        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 254173,
-      "name": "Walk On the Wild Side",
-      "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
-    },
-    {
-      "added_at": "2025-02-14 05:00:49",
-      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 233173,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
+    },
+    {
+      "added_at": "2025-02-14 05:00:49",
+      "album": {
+        "name": "Transformer",
+        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 254173,
+      "name": "Walk On the Wild Side",
+      "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
     },
     {
       "added_at": "2025-02-14 05:00:49",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-02-14 05:00:49",
       "album": {
-        "name": "Innervisions",
-        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 222600,
-      "name": "Higher Ground",
-      "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
-    },
-    {
-      "added_at": "2025-02-14 05:00:49",
-      "album": {
         "name": "If You Could Read My Mind",
         "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2025-02-14 05:00:49",
       "album": {
-        "name": "Mahogany Soul",
-        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
+        "name": "Innervisions",
+        "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8"
       },
       "artists": [
         {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 270893,
-      "name": "Wish I Didn't Miss You",
-      "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
+      "duration_ms": 222600,
+      "name": "Higher Ground",
+      "url": "https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu"
     },
     {
       "added_at": "2025-02-14 05:00:49",
@@ -675,6 +659,22 @@
       "duration_ms": 233506,
       "name": "It Never Rains in Southern California",
       "url": "https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw"
+    },
+    {
+      "added_at": "2025-02-14 05:00:49",
+      "album": {
+        "name": "Mahogany Soul",
+        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 270893,
+      "name": "Wish I Didn't Miss You",
+      "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
     },
     {
       "added_at": "2025-02-14 05:00:49",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-02-14 05:00:49",
       "album": {
-        "name": "Back Stabbers",
-        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "Love Train",
-      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
-    },
-    {
-      "added_at": "2025-02-14 05:00:49",
-      "album": {
         "name": "Look At Us",
         "url": "https://open.spotify.com/album/4VFnAIRrYMA3iEHpjNP5cH"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 190080,
       "name": "I Got You Babe",
       "url": "https://open.spotify.com/track/4SGBuq37Ol4HJr7pQqFMKa"
+    },
+    {
+      "added_at": "2025-02-14 05:00:49",
+      "album": {
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
     },
     {
       "added_at": "2025-02-14 05:00:49",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-02-14 05:00:49",
       "album": {
-        "name": "Right On Time",
-        "url": "https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Johnson",
-          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
-        }
-      ],
-      "duration_ms": 299066,
-      "name": "Strawberry Letter 23",
-      "url": "https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS"
-    },
-    {
-      "added_at": "2025-02-14 05:00:49",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 153866,
       "name": "Wouldn't It Be Nice",
       "url": "https://open.spotify.com/track/6VojZJpMyuKClbwyilWlQj"
+    },
+    {
+      "added_at": "2025-02-14 05:00:49",
+      "album": {
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Johnson",
+          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
+        }
+      ],
+      "duration_ms": 299066,
+      "name": "Strawberry Letter 23",
+      "url": "https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS"
     },
     {
       "added_at": "2025-02-14 05:00:49",

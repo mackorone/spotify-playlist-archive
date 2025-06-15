@@ -1,12 +1,12 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 244528,
+  "num_followers": 244664,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAD3ueiKcaHayL4/c8nrsfzc",
+  "snapshot_id": "aEtqAAAAAAD8ItHup98oLOdyPiAQMzNM",
   "tracks": [
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vestido Rojo",
-        "url": "https://open.spotify.com/album/0IVjdhsXZAeaBHaiZkkcMn"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 153868,
-      "name": "Vestido Rojo",
-      "url": "https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T\u00fa crees en m\u00ed?",
         "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 168508,
       "name": "intoxicao",
       "url": "https://open.spotify.com/track/67Wqby5IjOMMpIYwqmCYOG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vestido Rojo",
+        "url": "https://open.spotify.com/album/0IVjdhsXZAeaBHaiZkkcMn"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 153868,
+      "name": "Vestido Rojo",
+      "url": "https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00fa crees en m\u00ed?",
+        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 133894,
+      "name": "cuatro veinte",
+      "url": "https://open.spotify.com/track/3ushwCdjpWNdSnZgRFU6Oc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KUSTOM",
         "url": "https://open.spotify.com/album/4kXaM6fo4q2hK6b6Sra4qp"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 201509,
       "name": "DAMN GIRL",
       "url": "https://open.spotify.com/track/6WxhGNMIfCQBSWAYU4pupc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00fa crees en m\u00ed?",
-        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 133894,
-      "name": "cuatro veinte",
-      "url": "https://open.spotify.com/track/3ushwCdjpWNdSnZgRFU6Oc"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00fa crees en m\u00ed?",
+        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 169566,
+      "name": "cielo en la mente",
+      "url": "https://open.spotify.com/track/0Q1NGtkEts8tjIC4eSWiya"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "r\u00e1pido lento",
         "url": "https://open.spotify.com/album/7wrDNMoSx249yOV0xFdRzn"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 213000,
       "name": "r\u00e1pido lento",
       "url": "https://open.spotify.com/track/4xv2A022v5A8nyewDkYOkQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00fa crees en m\u00ed?",
-        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 169566,
-      "name": "cielo en la mente",
-      "url": "https://open.spotify.com/track/0Q1NGtkEts8tjIC4eSWiya"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Underground",
-        "url": "https://open.spotify.com/album/2npWGbycKmVVwOn4vo2xBr"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 149471,
-      "name": "Underground",
-      "url": "https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T\u00fa crees en m\u00ed?",
         "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 166714,
       "name": "mi otra mitad",
       "url": "https://open.spotify.com/track/2Cna21irIvinVSJdGda8Om"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/2npWGbycKmVVwOn4vo2xBr"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 149471,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00fa crees en m\u00ed?",
+        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 165959,
+      "name": "la balada",
+      "url": "https://open.spotify.com/track/5hgjF68xugLDOyLSjfe8QN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SUENA MYA!",
         "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 156325,
       "name": "BB",
       "url": "https://open.spotify.com/track/3sVuWmggRqfAK3qk7OIEAz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00fa crees en m\u00ed?",
-        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 165959,
-      "name": "la balada",
-      "url": "https://open.spotify.com/track/5hgjF68xugLDOyLSjfe8QN"
     },
     {
       "added_at": null,

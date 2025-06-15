@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 79051,
+  "num_followers": 79098,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAAlhyjCrBO4B4B6vb1neRPc",
+  "snapshot_id": "aEtqAAAAAADF4Q6/vCmWPDCjlGMVbdLw",
   "tracks": [
     {
       "added_at": null,
@@ -187,26 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody Likes Your Girlfriend",
-        "url": "https://open.spotify.com/album/5e3nfGmreblIZTTUJOYR7f"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 181870,
-      "name": "Nobody Likes Your Girlfriend",
-      "url": "https://open.spotify.com/track/3MAfSTarsPGtSxlmA6IBSS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 220479,
       "name": "Hide My Gun (Feat. HARDY)",
       "url": "https://open.spotify.com/track/6nf4oqFOsVKLwJPEliYVwT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nobody Likes Your Girlfriend",
+        "url": "https://open.spotify.com/album/5e3nfGmreblIZTTUJOYR7f"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 181870,
+      "name": "Nobody Likes Your Girlfriend",
+      "url": "https://open.spotify.com/track/3MAfSTarsPGtSxlmA6IBSS"
     },
     {
       "added_at": null,
@@ -359,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 235360,
+      "name": "UNAPOLOGETICALLY COUNTRY AS HELL",
+      "url": "https://open.spotify.com/track/7fkAb0kXW8636FD1Mwz4MY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Thing At A Time",
         "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 195326,
       "name": "In The Bible (feat. HARDY)",
       "url": "https://open.spotify.com/track/2aw1aEAxMe05MZIS5XiK8U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "UNAPOLOGETICALLY COUNTRY AS HELL",
-      "url": "https://open.spotify.com/track/7fkAb0kXW8636FD1Mwz4MY"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quit!!",
-        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 194341,
-      "name": "ROCKSTAR",
-      "url": "https://open.spotify.com/track/5NKPbcHaLSl4K3lJCo4pJr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A ROCK",
         "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 193901,
       "name": "BOOTS",
       "url": "https://open.spotify.com/track/0u9zevC5U0KfmXCJveb1WJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 194341,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/5NKPbcHaLSl4K3lJCo4pJr"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 218718,
+      "name": "TRUCK",
+      "url": "https://open.spotify.com/track/4e65NJs3JpNvrdjcNBL3s5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 199360,
       "name": "My Kinda Livin\u2019 (HARDY feat. Hunter Phelps, Jameson Rodgers)",
       "url": "https://open.spotify.com/track/0aAOaGw2wPv6X3mi5Wjeqy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 218718,
-      "name": "TRUCK",
-      "url": "https://open.spotify.com/track/4e65NJs3JpNvrdjcNBL3s5"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 202516,
+      "name": "AIN'T A BAD DAY",
+      "url": "https://open.spotify.com/track/6ylWoGhvbMInRjPnceGLpO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roads That Go Nowhere",
         "url": "https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 218860,
       "name": "Southern Rock",
       "url": "https://open.spotify.com/track/0UT58DMxUfSb8ECS85tgn3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 202516,
-      "name": "AIN'T A BAD DAY",
-      "url": "https://open.spotify.com/track/6ylWoGhvbMInRjPnceGLpO"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 220831,
+      "name": "A ROCK",
+      "url": "https://open.spotify.com/track/5w3h2BXf7Jvj8XgaQYVqfM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quit!!",
         "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 220831,
-      "name": "A ROCK",
-      "url": "https://open.spotify.com/track/5w3h2BXf7Jvj8XgaQYVqfM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHERE TO FIND ME",
         "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THIS OLE BOY",
-        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 222793,
-      "name": "4X4",
-      "url": "https://open.spotify.com/track/1WIeoKa9OpHSFSj0pwnRzE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gin & Juice (HARDY\u2019s Version)",
         "url": "https://open.spotify.com/album/780NNJ4wBv7iacbC51cEq9"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 240452,
       "name": "Gin & Juice - HARDY\u2019s Version",
       "url": "https://open.spotify.com/track/3RSKGpek3rN4jaj0yuhBRx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THIS OLE BOY",
+        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 222793,
+      "name": "4X4",
+      "url": "https://open.spotify.com/track/1WIeoKa9OpHSFSj0pwnRzE"
     },
     {
       "added_at": null,

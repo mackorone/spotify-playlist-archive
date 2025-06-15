@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 
 > This is Cynthia Erivo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,750 likes - 45 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,758 likes - 45 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 | 8 | [Save Me From You](https://open.spotify.com/track/7dfzkJizZp2oIOWfiRSs6w) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 4:35 |
 | 9 | [I'm Here](https://open.spotify.com/track/1w2k1OOCSy3ez40D3TQs7L) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 4:31 |
 | 10 | [The Wizard And I](https://open.spotify.com/track/4mxj6SQ7BxfQ90CBTbxcwH) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Michelle Yeoh](https://open.spotify.com/artist/5IaJcuBeBkVqhGAzxMciwu) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 5:36 |
-| 11 | [Replay](https://open.spotify.com/track/1udQp57vbo5jO2mlHzjayK) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Replay](https://open.spotify.com/album/4semmJ7mprNnU8m2MfucQc) | 3:40 |
+| 11 | [I Might Be In Love With You](https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:37 |
 | 12 | [I Want You \- Interlude](https://open.spotify.com/track/6Hur7QmuHJsPG59BNRw1pn) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 1:08 |
-| 13 | [I Might Be In Love With You](https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:37 |
+| 13 | [Replay](https://open.spotify.com/track/1udQp57vbo5jO2mlHzjayK) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Replay](https://open.spotify.com/album/4semmJ7mprNnU8m2MfucQc) | 3:40 |
 | 14 | [Dancing Through Life](https://open.spotify.com/track/6qo8v2y2MHUSPLs7VBc6cG) | [Jonathan Bailey](https://open.spotify.com/artist/2Je7IdIHe8UvZbLXdapQ26), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Ethan Slater](https://open.spotify.com/artist/0yF5IqIHlPDti2mfZtHe3K), [Marissa Bode](https://open.spotify.com/artist/6uGIoRQUqP4ncxyg6HksA1), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 9:47 |
 | 15 | [Goodbye Song](https://open.spotify.com/track/01CAnizAABR9udpxzOYKdG) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Harriet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5uIArfxMSlySubVayCGvaX) | 1:12 |
 | 16 | [She Said](https://open.spotify.com/track/2uJ8sLJW0otjZ33RjMfwuP) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 2:43 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 | 32 | [When You Believe](https://open.spotify.com/track/3j4uq0VAGJcrsouND9kSe4) | [Shoshana Bean](https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Stephen Schwartz](https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk) | [When You Believe](https://open.spotify.com/album/5GsYME9CdX571wxD1WgLvi) | 4:07 |
 | 33 | [Fly Before You Fall](https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Beyond The Lights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI) | 3:03 |
 | 34 | [The Color Purple \(Reprise\)](https://open.spotify.com/track/4v92TDdqX3VlFyeEA5sOfy) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Color Purple New Broadway Cast](https://open.spotify.com/artist/59nDI6cgkij2y6empWnaJE) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 3:54 |
-| 35 | [A Window](https://open.spotify.com/track/188okkDkaxhuwQyNOiqr07) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:40 |
+| 35 | [Day Off](https://open.spotify.com/track/6C9jl5IVnFSBL5fNdED0PP) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:20 |
 | 36 | [Hold On I'm Coming](https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Bad Times At The El Royale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f) | 2:47 |
 | 37 | [Anything Worth Holding On To](https://open.spotify.com/track/3SOIpvBhXfCeqSQti8mlj8) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Scott Alan](https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy) | [Cynthia Erivo and Oliver Tompsett Sing Scott Alan](https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt) | 4:44 |
 | 38 | [Somebody Gonna Love You](https://open.spotify.com/track/1dKsRmAjZ8HAvdVMZYEval) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 1:17 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 | 44 | [Si Pudiera Leer Tus Sueños](https://open.spotify.com/track/1ZPFEGzfCOQP8qaEhRVNKm) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Singing You Home \- Children's Songs for Family Reunification](https://open.spotify.com/album/4J65ICYdG58WI6HMlPVbyv) | 2:37 |
 | 45 | [Our Prayer](https://open.spotify.com/track/6BmnVvND7DHAZs5SgzRPF3) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Joaquina Kalukango](https://open.spotify.com/artist/0QcsX0a3SZO3F61Thbx1jb), [Isaiah Johnson](https://open.spotify.com/artist/7MYNM3h4lEjuKcOqiqNVhB), [Kevyn Morrow](https://open.spotify.com/artist/1MjW1SNPKPd5gyt7JpK7z3) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 4:38 |
 
-Snapshot ID: `aEoYgAAAAADq385+hf5WqziqLcZ9laEZ`
+Snapshot ID: `aEtqAAAAAAAhP0/Knk38TtKGDIg8zHrq`

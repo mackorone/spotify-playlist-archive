@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Celebrating 10 years of fresh releases from your future favorite artists\. Cover: SJ Maglana Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,398 likes - 150 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,408 likes - 150 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,18 +1,18 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 63460,
+  "num_followers": 63485,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAAlSckhVVGbaQmpFmGOIISF",
+  "snapshot_id": "aEtqAAAAAABeleKZI+t+fUgrDeITi1/H",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Despistando Al Enemigo",
-        "url": "https://open.spotify.com/album/1YE3fDpcdYzZ21cpZAPO9M"
+        "name": "No La Pienses Tanto",
+        "url": "https://open.spotify.com/album/73f4lsTsIF10Iqb6yneJYC"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 139458,
-      "name": "Despistando Al Enemigo",
-      "url": "https://open.spotify.com/track/4m3GHbPZTuFGwYRaIpdTYl"
+      "duration_ms": 183144,
+      "name": "No La Pienses Tanto",
+      "url": "https://open.spotify.com/track/14I2iCwuE8QeravNfu5Af0"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Eso o M\u00e1s",
-        "url": "https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 187871,
-      "name": "Es por Eso Que Te Quiero",
-      "url": "https://open.spotify.com/track/2tbICfpEZEsBewG3hW2sCq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rifare Mi Suerte",
         "url": "https://open.spotify.com/album/72Tvu1pJWr2HQ9lHYipwsf"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 181773,
       "name": "Tu Ultimo Verano",
       "url": "https://open.spotify.com/track/699jQV2HYGBnITdlgboFcL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Eso o M\u00e1s",
+        "url": "https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 187871,
+      "name": "Es por Eso Que Te Quiero",
+      "url": "https://open.spotify.com/track/2tbICfpEZEsBewG3hW2sCq"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Despistando Al Enemigo",
+        "url": "https://open.spotify.com/album/1YE3fDpcdYzZ21cpZAPO9M"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 139458,
+      "name": "Despistando Al Enemigo",
+      "url": "https://open.spotify.com/track/4m3GHbPZTuFGwYRaIpdTYl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "20 Exitos Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y"
       },
@@ -587,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Tus Manos",
-        "url": "https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Desde la Otra Mesa",
-      "url": "https://open.spotify.com/track/69Bh0aSF1LS2C7c0OyCKiI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entrega De Amor",
         "url": "https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 189426,
       "name": "Una Mujer Como T\u00fa",
       "url": "https://open.spotify.com/track/62zSWES4N5m1tr7ovTMWf3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Tus Manos",
+        "url": "https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Desde la Otra Mesa",
+      "url": "https://open.spotify.com/track/69Bh0aSF1LS2C7c0OyCKiI"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 222866,
       "name": "Aunque Mal Paguen Ellas",
       "url": "https://open.spotify.com/track/5mHjquTjfkoKkFdOiMUWHw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Las Rejas No Matan",
-      "url": "https://open.spotify.com/track/0wxflEn0aQ8VQ5fKZPJVjq"
     }
   ],
   "unique_name": "This Is Los Rieleros Del Norte",

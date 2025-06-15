@@ -1,6 +1,6 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 1070820,
+  "num_followers": 1071240,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-06-13 06:00:18",
       "album": {
+        "name": "Diva (Platinum Edition)",
+        "url": "https://open.spotify.com/album/2NyeKFNBTobGoEP2TPKgGf"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/5JLV62rg4jtnoElc4P9F6K"
+    },
+    {
+      "added_at": "2025-06-13 06:00:18",
+      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 232853,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
-    },
-    {
-      "added_at": "2025-06-13 06:00:18",
-      "album": {
-        "name": "Diva (Platinum Edition)",
-        "url": "https://open.spotify.com/album/2NyeKFNBTobGoEP2TPKgGf"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "Quiero Bailar",
-      "url": "https://open.spotify.com/track/5JLV62rg4jtnoElc4P9F6K"
     },
     {
       "added_at": "2025-06-13 06:00:18",
@@ -759,26 +759,6 @@
     {
       "added_at": "2025-06-13 06:00:18",
       "album": {
-        "name": "BANSHEE",
-        "url": "https://open.spotify.com/album/3Ory0Dd1Nrslodb0Po92AN"
-      },
-      "artists": [
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 187466,
-      "name": "BANSHEE",
-      "url": "https://open.spotify.com/track/2phA5dZJrWqOBrOHFAgrjQ"
-    },
-    {
-      "added_at": "2025-06-13 06:00:18",
-      "album": {
         "name": "Me Reclama",
         "url": "https://open.spotify.com/album/6KL1vHSZ0XfmL2NJF5iFE1"
       },
@@ -807,26 +787,22 @@
     {
       "added_at": "2025-06-13 06:00:18",
       "album": {
-        "name": "\u00d1ero Session 16",
-        "url": "https://open.spotify.com/album/0xi9kxStnEU6zWr9aC9eK1"
+        "name": "BANSHEE",
+        "url": "https://open.spotify.com/album/3Ory0Dd1Nrslodb0Po92AN"
       },
       "artists": [
         {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
         },
         {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "LOOJAN",
-          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 137406,
-      "name": "\u00d1ero Session 16",
-      "url": "https://open.spotify.com/track/2HBOtZ9ev6cNO9EnRO4JP3"
+      "duration_ms": 187466,
+      "name": "BANSHEE",
+      "url": "https://open.spotify.com/track/2phA5dZJrWqOBrOHFAgrjQ"
     },
     {
       "added_at": "2025-06-13 06:00:18",
@@ -855,6 +831,30 @@
     {
       "added_at": "2025-06-13 06:00:18",
       "album": {
+        "name": "\u00d1ero Session 16",
+        "url": "https://open.spotify.com/album/0xi9kxStnEU6zWr9aC9eK1"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        }
+      ],
+      "duration_ms": 137406,
+      "name": "\u00d1ero Session 16",
+      "url": "https://open.spotify.com/track/2HBOtZ9ev6cNO9EnRO4JP3"
+    },
+    {
+      "added_at": "2025-06-13 06:00:18",
+      "album": {
         "name": "Persia (Remix)",
         "url": "https://open.spotify.com/album/4ELBi3Egy3cub0EzlJAN4W"
       },
@@ -875,50 +875,6 @@
       "duration_ms": 250906,
       "name": "Persia - Remix",
       "url": "https://open.spotify.com/track/3SgybTfx3GWHAcjhK9iPmz"
-    },
-    {
-      "added_at": "2025-06-13 06:00:18",
-      "album": {
-        "name": "Minnie 2",
-        "url": "https://open.spotify.com/album/5e41lx6k8TLJWeLfFhiIhJ"
-      },
-      "artists": [
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 263030,
-      "name": "Minnie 2",
-      "url": "https://open.spotify.com/track/1tJWvlF0fawkIKrsiTGCUl"
-    },
-    {
-      "added_at": "2025-06-13 06:00:18",
-      "album": {
-        "name": "QUEMA",
-        "url": "https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
-        }
-      ],
-      "duration_ms": 150618,
-      "name": "QUEMA",
-      "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
     },
     {
       "added_at": "2025-06-13 06:00:18",
@@ -963,6 +919,50 @@
       "duration_ms": 216066,
       "name": "Quizas",
       "url": "https://open.spotify.com/track/5Id5B3dxJZhPcV9GzgYZZe"
+    },
+    {
+      "added_at": "2025-06-13 06:00:18",
+      "album": {
+        "name": "QUEMA",
+        "url": "https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "duration_ms": 150618,
+      "name": "QUEMA",
+      "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
+    },
+    {
+      "added_at": "2025-06-13 06:00:18",
+      "album": {
+        "name": "Minnie 2",
+        "url": "https://open.spotify.com/album/5e41lx6k8TLJWeLfFhiIhJ"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 263030,
+      "name": "Minnie 2",
+      "url": "https://open.spotify.com/track/1tJWvlF0fawkIKrsiTGCUl"
     },
     {
       "added_at": "2025-06-13 06:00:18",

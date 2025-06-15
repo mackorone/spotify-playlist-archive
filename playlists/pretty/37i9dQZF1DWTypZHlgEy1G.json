@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 536600,
+  "num_followers": 536587,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "The Aristocats Original Soundtrack",
-        "url": "https://open.spotify.com/album/4xP8YdX6dIi649dxAH2PXO"
-      },
-      "artists": [
-        {
-          "name": "Maurice Chevalier",
-          "url": "https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc"
-        }
-      ],
-      "duration_ms": 140853,
-      "name": "Les Aristochats",
-      "url": "https://open.spotify.com/track/2SDU9Ls1XkvkbmlUgzyx2x"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Thank You Ferre",
         "url": "https://open.spotify.com/album/1D8gi44m6PdLBbDGCGwXP6"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 158493,
       "name": "Jolie m\u00f4me",
       "url": "https://open.spotify.com/track/0nKRwRUAbGiqDj0jJMifzf"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "The Aristocats Original Soundtrack",
+        "url": "https://open.spotify.com/album/4xP8YdX6dIi649dxAH2PXO"
+      },
+      "artists": [
+        {
+          "name": "Maurice Chevalier",
+          "url": "https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc"
+        }
+      ],
+      "duration_ms": 140853,
+      "name": "Les Aristochats",
+      "url": "https://open.spotify.com/track/2SDU9Ls1XkvkbmlUgzyx2x"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Les Plus Belles Chansons De Fernandel (The Most Beautiful Songs Of Fernandel)",
-        "url": "https://open.spotify.com/album/2eS82B4l4mFIa08EBbVPxW"
-      },
-      "artists": [
-        {
-          "name": "Fernandel",
-          "url": "https://open.spotify.com/artist/0H7kQmHnDWX4a2AYOKb6rN"
-        }
-      ],
-      "duration_ms": 166240,
-      "name": "F\u00e9licie Aussi",
-      "url": "https://open.spotify.com/track/4Ye4ePmXmKemxPp1Cs0Mgw"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Du Caf' Conc' au Music Hall",
         "url": "https://open.spotify.com/album/0HDHNxKK6IUuF1QLnGYYHe"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 205133,
       "name": "Tout va tr\u00e8s bien madame la marquise",
       "url": "https://open.spotify.com/track/3CbCvxfRVk0Ba0Z761Ys12"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Les Plus Belles Chansons De Fernandel (The Most Beautiful Songs Of Fernandel)",
+        "url": "https://open.spotify.com/album/2eS82B4l4mFIa08EBbVPxW"
+      },
+      "artists": [
+        {
+          "name": "Fernandel",
+          "url": "https://open.spotify.com/artist/0H7kQmHnDWX4a2AYOKb6rN"
+        }
+      ],
+      "duration_ms": 166240,
+      "name": "F\u00e9licie Aussi",
+      "url": "https://open.spotify.com/track/4Ye4ePmXmKemxPp1Cs0Mgw"
     },
     {
       "added_at": "2024-07-25 13:22:22",

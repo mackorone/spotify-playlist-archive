@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 
 > This is Sum 41\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,536 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,550 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 | 49 | [Sleep Now In The Fire \- Spotify Singles](https://open.spotify.com/track/5mMjqL7JI1BQQWBVFevFsN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Spotify Singles](https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6) | 3:20 |
 | 50 | [Blood In My Eyes](https://open.spotify.com/track/6sfU2LwBKxjbukPZnUbGtt) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Screaming Bloody Murder](https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip) | 4:16 |
 
-Snapshot ID: `aEoYgAAAAACBDBC+99LGABJaL6AjKGQi`
+Snapshot ID: `aEtqAAAAAADB/Bn9kSbsZNB6pM8v12VT`

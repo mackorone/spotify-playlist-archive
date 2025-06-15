@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,160 songs - 7 day 3 hr 42 min
+3,162 songs - 7 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [A New Life](https://open.spotify.com/track/5sSrnpjBLa80ueypi8iioF) | [Will Rees](https://open.spotify.com/artist/1dlEz2w0VlP9NSzM6YA1Cm) | [A New Life](https://open.spotify.com/album/6ZBLQdf86jwOpZb1yuagEn) | 3:47 | 2024-06-16 | 2024-06-21 |
 | [A Place Beyond](https://open.spotify.com/track/4u8e0bREK0FujQVUascwNi) | [Daniel Wanrooy](https://open.spotify.com/artist/2eWC3Ckg8BA2MDV2NoHBWd) | [A Place Beyond](https://open.spotify.com/album/5NvbrPIuwQ7H5L85EvhwTr) | 3:05 | 2024-11-24 | 2024-11-30 |
 | [A Thousand Journeys](https://open.spotify.com/track/6UuKgGIXSfKNwpnojUsrka) | [JKult](https://open.spotify.com/artist/3v1KzYMlPD8sBT1T5lnoPk), [Daffie](https://open.spotify.com/artist/4gdjPfesv5zF0RdBtEZNvq) | [A Thousand Journeys](https://open.spotify.com/album/3I8p11QAODkyfWFKHaohPn) | 3:47 | 2025-04-08 | 2025-04-12 |
+| [A$$](https://open.spotify.com/track/5mKea9w9hGq8iwk6eyZjKX) | [Aftr Mrkt](https://open.spotify.com/artist/2ZJlZ4tvsIwbzebyJoMOOC) | [Somedays are pure noise](https://open.spotify.com/album/4UoEqo3NXRmXrZwGSNzts5) | 3:28 | 2025-06-14 |  |
 | [About To Lose It](https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [About To Lose It](https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY) | 3:15 | 2025-02-21 | 2025-03-01 |
 | [About You \- Edit](https://open.spotify.com/track/4MRwMvGU5KvvrQiOb5murq) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4), [Atroxx](https://open.spotify.com/artist/5xUFaih4LPL1He9jDdvqTw) | [About You](https://open.spotify.com/album/1Td7IyVhO6F2mTJREw44ix) | 3:42 | 2024-09-10 | 2024-09-14 |
 | [Above the Waves](https://open.spotify.com/track/3VhSebtAz6YmQusTQJO64B) | [Natalie Gioia](https://open.spotify.com/artist/7Im3RJDHc4svDzWNlSvoAO) | [Above the Waves](https://open.spotify.com/album/3hF3bqDuoz0DRF43CnvZTs) | 2:18 | 2024-11-08 | 2024-11-16 |
@@ -762,6 +763,7 @@
 | [El Matatan](https://open.spotify.com/track/7xpM4PDiSvw7Xurt6xrLrd) | [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [El Matatan](https://open.spotify.com/album/3DnleWV2TK0aQwbIyntnsj) | 2:11 | 2024-11-15 | 2024-11-23 |
 | [El Sonido](https://open.spotify.com/track/5nrVT79u12zFJiVMXY4bxm) | [HeyDoc!](https://open.spotify.com/artist/5EwW7fH1tpfaLhv54OgneB) | [El Sonido](https://open.spotify.com/album/18LMJ3BTr5SKE2ry2aEdro) | 3:06 | 2025-05-30 | 2025-06-07 |
 | [Electric](https://open.spotify.com/track/3AOg8WUD0UmlDZpHMuMCOZ) | [ATTICUS](https://open.spotify.com/artist/6HyXfF5iDIPmNNXbg6729J) | [Electric](https://open.spotify.com/album/3ENg11VuYHxIhsMLbHMajV) | 2:33 | 2024-07-19 | 2024-07-27 |
+| [Electric](https://open.spotify.com/track/6cdq0ZPAGtj3nkbxlZU3gf) | [Harryson](https://open.spotify.com/artist/1mOJGwKwSgGlFp7Kl6vCIS) | [Electric](https://open.spotify.com/album/1IFuN3j0nwVD4GCn2eUH2Q) | 3:22 | 2025-06-14 |  |
 | [Electric Lights](https://open.spotify.com/track/5lM1XLMAHMl8Xf04YvKvY4) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [PEARL](https://open.spotify.com/artist/6hZgNWpmI3Ti681I6IPEvW) | [Hopes & Fears](https://open.spotify.com/album/66ODhKZdsc1OGt8os34KUV) | 3:53 | 2025-02-21 | 2025-03-01 |
 | [Electric Night](https://open.spotify.com/track/7EAbDUdaBVEwKRJtobh8Fx) | [AFSHINAM](https://open.spotify.com/artist/15NZTkIsx6XlINSHeNfJO9) | [Electric Night](https://open.spotify.com/album/3nqxpyRGFMPBFvXFQwLL7g) | 2:52 | 2024-08-16 | 2024-08-24 |
 | [Electricity](https://open.spotify.com/track/2xPg0pFQD7W4Ds3queL5D9) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ) | [Electricity](https://open.spotify.com/album/6rDypUhYCZ0BVacAfSewuZ) | 2:50 | 2024-11-08 | 2024-11-16 |

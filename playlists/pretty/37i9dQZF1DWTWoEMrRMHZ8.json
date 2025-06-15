@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Ney Matogrosso",
-  "num_followers": 350045,
+  "num_followers": 350061,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -315,8 +315,8 @@
     {
       "added_at": "2025-06-13 07:50:15",
       "album": {
-        "name": "JV30 Tour Deluxe (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7tzWjnm1GsPT4xCpSOShKk"
+        "name": "JV30 Tour, Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5KQcO6fc7dtZT86wYs41eg"
       },
       "artists": [
         {
@@ -324,13 +324,33 @@
           "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
         },
         {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+          "name": "Timbalada",
+          "url": "https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ"
         }
       ],
-      "duration_ms": 342150,
-      "name": "Ela Une Todas as Coisas - Ao Vivo",
-      "url": "https://open.spotify.com/track/6U9PvzASkq37hBMZrDOzbE"
+      "duration_ms": 268364,
+      "name": "S\u00f3 Quem Ama - Ao Vivo",
+      "url": "https://open.spotify.com/track/6TQ1NW7GFhRMU2bU9SXVYf"
+    },
+    {
+      "added_at": "2025-06-13 07:50:15",
+      "album": {
+        "name": "Eterna Alegria (Special Edition) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/5Cl79Wr1ZukFvRGM2zgG7z"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "duration_ms": 205915,
+      "name": "Mutir\u00e3o de Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/0yL2NJPP19vdualPdOCWet"
     },
     {
       "added_at": "2025-06-13 07:50:15",
@@ -355,26 +375,6 @@
       "duration_ms": 140100,
       "name": "Todo carnaval tem seu fim",
       "url": "https://open.spotify.com/track/5ggN8QDm492S8wQpb451Ks"
-    },
-    {
-      "added_at": "2025-06-13 07:50:15",
-      "album": {
-        "name": "Eterna Alegria (Special Edition) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/5Cl79Wr1ZukFvRGM2zgG7z"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        },
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 205915,
-      "name": "Mutir\u00e3o de Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/0yL2NJPP19vdualPdOCWet"
     },
     {
       "added_at": "2025-06-13 07:50:15",
@@ -411,8 +411,8 @@
     {
       "added_at": "2025-06-13 07:50:15",
       "album": {
-        "name": "JV30 Tour, Parte 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5KQcO6fc7dtZT86wYs41eg"
+        "name": "JV30 Tour Deluxe (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7tzWjnm1GsPT4xCpSOShKk"
       },
       "artists": [
         {
@@ -420,29 +420,13 @@
           "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
         },
         {
-          "name": "Timbalada",
-          "url": "https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ"
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
         }
       ],
-      "duration_ms": 268364,
-      "name": "S\u00f3 Quem Ama - Ao Vivo",
-      "url": "https://open.spotify.com/track/6TQ1NW7GFhRMU2bU9SXVYf"
-    },
-    {
-      "added_at": "2025-06-13 07:50:15",
-      "album": {
-        "name": "Esperan\u00e7a",
-        "url": "https://open.spotify.com/album/2aJT8yD4FvkheQ2Xqhy51w"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        }
-      ],
-      "duration_ms": 265192,
-      "name": "Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/4uBh8aDIHrwxL1DCyU489T"
+      "duration_ms": 342150,
+      "name": "Ela Une Todas as Coisas - Ao Vivo",
+      "url": "https://open.spotify.com/track/6U9PvzASkq37hBMZrDOzbE"
     },
     {
       "added_at": "2025-06-13 07:50:15",
@@ -483,6 +467,22 @@
       "duration_ms": 299724,
       "name": "Disritmia / Ex-Amor",
       "url": "https://open.spotify.com/track/51CCN24j1CLClG3jDOe6yb"
+    },
+    {
+      "added_at": "2025-06-13 07:50:15",
+      "album": {
+        "name": "Esperan\u00e7a",
+        "url": "https://open.spotify.com/album/2aJT8yD4FvkheQ2Xqhy51w"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "duration_ms": 265192,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/4uBh8aDIHrwxL1DCyU489T"
     },
     {
       "added_at": "2025-06-13 07:50:15",
@@ -595,6 +595,34 @@
     {
       "added_at": "2025-06-13 07:50:15",
       "album": {
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/4hPb35aku78HAdP73n2lBX"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Arthur Verocai",
+          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
+        },
+        {
+          "name": "Fejuca",
+          "url": "https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj"
+        }
+      ],
+      "duration_ms": 228072,
+      "name": "Apocalipse",
+      "url": "https://open.spotify.com/track/5ycVVsFuS5kGNOQ8hnIMD1"
+    },
+    {
+      "added_at": "2025-06-13 07:50:15",
+      "album": {
         "name": "\u00c2mbar",
         "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
       },
@@ -691,22 +719,6 @@
     {
       "added_at": "2025-06-13 07:50:15",
       "album": {
-        "name": "Ana Canta C\u00e1ssia - Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0tko43L76jX04WzhfWeeyU"
-      },
-      "artists": [
-        {
-          "name": "Ana Carolina",
-          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
-        }
-      ],
-      "duration_ms": 192108,
-      "name": "All Star - Ao Vivo",
-      "url": "https://open.spotify.com/track/1wpgey8upO8HoGdFbEzGJd"
-    },
-    {
-      "added_at": "2025-06-13 07:50:15",
-      "album": {
         "name": "O amor me fala de voc\u00ea",
         "url": "https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz"
       },
@@ -719,6 +731,22 @@
       "duration_ms": 199308,
       "name": "O amor me fala de voc\u00ea",
       "url": "https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5"
+    },
+    {
+      "added_at": "2025-06-13 07:50:15",
+      "album": {
+        "name": "Ana Canta C\u00e1ssia - Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0tko43L76jX04WzhfWeeyU"
+      },
+      "artists": [
+        {
+          "name": "Ana Carolina",
+          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
+        }
+      ],
+      "duration_ms": 192108,
+      "name": "All Star - Ao Vivo",
+      "url": "https://open.spotify.com/track/1wpgey8upO8HoGdFbEzGJd"
     },
     {
       "added_at": "2025-06-13 07:50:15",
@@ -775,34 +803,6 @@
       "duration_ms": 219574,
       "name": "Passageiro",
       "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
-    },
-    {
-      "added_at": "2025-06-13 07:50:15",
-      "album": {
-        "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/4hPb35aku78HAdP73n2lBX"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Arthur Verocai",
-          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
-        },
-        {
-          "name": "Fejuca",
-          "url": "https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj"
-        }
-      ],
-      "duration_ms": 228072,
-      "name": "Apocalipse",
-      "url": "https://open.spotify.com/track/5ycVVsFuS5kGNOQ8hnIMD1"
     },
     {
       "added_at": "2025-06-13 07:50:15",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-06-13 07:50:15",
       "album": {
-        "name": "Transe",
-        "url": "https://open.spotify.com/album/6m8OjtHsUQhAHTP3kZXLTA"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
-        }
-      ],
-      "duration_ms": 190092,
-      "name": "Transe",
-      "url": "https://open.spotify.com/track/3Xo5YoWvXj6jEGQVHUJkXl"
-    },
-    {
-      "added_at": "2025-06-13 07:50:15",
-      "album": {
         "name": "Estrela",
         "url": "https://open.spotify.com/album/3t9mP6TVjZsG6UmvsFQpTI"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 246136,
       "name": "Estrela",
       "url": "https://open.spotify.com/track/0ksvjOeB4HMDAkLIPcVpra"
+    },
+    {
+      "added_at": "2025-06-13 07:50:15",
+      "album": {
+        "name": "Transe",
+        "url": "https://open.spotify.com/album/6m8OjtHsUQhAHTP3kZXLTA"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        }
+      ],
+      "duration_ms": 190092,
+      "name": "Transe",
+      "url": "https://open.spotify.com/track/3Xo5YoWvXj6jEGQVHUJkXl"
     },
     {
       "added_at": "2025-06-13 07:50:15",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-06-13 07:50:15",
       "album": {
-        "name": "Uma Estrela Misteriosa",
-        "url": "https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 426853,
-      "name": "Estrela Misteriosa",
-      "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
-    },
-    {
-      "added_at": "2025-06-13 07:50:15",
-      "album": {
         "name": "AFIM",
         "url": "https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 250000,
       "name": "Infinito em n\u00f3s",
       "url": "https://open.spotify.com/track/6k6PhENdLggOmmaXkmucTT"
+    },
+    {
+      "added_at": "2025-06-13 07:50:15",
+      "album": {
+        "name": "Uma Estrela Misteriosa",
+        "url": "https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 426853,
+      "name": "Estrela Misteriosa",
+      "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
     },
     {
       "added_at": "2025-06-13 07:50:15",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-06-13 07:50:15",
       "album": {
-        "name": "Uma Estrela Misteriosa Revelar\u00e1 o Segredo",
-        "url": "https://open.spotify.com/album/0GHZqCGxBtEO3Z4cCIpPJD"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 273139,
-      "name": "Depois de Amanh\u00e3",
-      "url": "https://open.spotify.com/track/5rqq2EhxqkJP77zD1o4FKl"
-    },
-    {
-      "added_at": "2025-06-13 07:50:15",
-      "album": {
         "name": "Baladas Sortidas",
         "url": "https://open.spotify.com/album/77nK246hgZj0r9YVlKHzvk"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 216315,
       "name": "Incapacidade de Amar",
       "url": "https://open.spotify.com/track/42IEzPyFXLkDocEFiXffR8"
+    },
+    {
+      "added_at": "2025-06-13 07:50:15",
+      "album": {
+        "name": "Uma Estrela Misteriosa Revelar\u00e1 o Segredo",
+        "url": "https://open.spotify.com/album/0GHZqCGxBtEO3Z4cCIpPJD"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 273139,
+      "name": "Depois de Amanh\u00e3",
+      "url": "https://open.spotify.com/track/5rqq2EhxqkJP77zD1o4FKl"
     },
     {
       "added_at": "2025-06-13 07:50:15",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-06-13 07:50:15",
       "album": {
-        "name": "E se tudo terminasse em amor?",
-        "url": "https://open.spotify.com/album/12lHao90jDYn5Ui7sWlglq"
-      },
-      "artists": [
-        {
-          "name": "Pedro Lu\u00eds",
-          "url": "https://open.spotify.com/artist/53I3ei5phGm4Z89ge81X4O"
-        }
-      ],
-      "duration_ms": 222313,
-      "name": "Abra\u00e7o dos Amantes",
-      "url": "https://open.spotify.com/track/0ZM4iAakviZSmFSC15frt6"
-    },
-    {
-      "added_at": "2025-06-13 07:50:15",
-      "album": {
         "name": "Jo\u00e3o Bosco: \"Cors\u00e1rio\" and guests Jaques Morelenbaum, Mestrinho e Vanessa Moreno (Live at Rio Montreux Jazz Festival)",
         "url": "https://open.spotify.com/album/4lRSnuu8YXHO6dFCPVQJF4"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 279549,
       "name": "O B\u00eabado e a Equilibrista - Live At Rio Montreux Jazz Festival",
       "url": "https://open.spotify.com/track/3cQX0fVeZfhgTDfYxEyJCm"
+    },
+    {
+      "added_at": "2025-06-13 07:50:15",
+      "album": {
+        "name": "E se tudo terminasse em amor?",
+        "url": "https://open.spotify.com/album/12lHao90jDYn5Ui7sWlglq"
+      },
+      "artists": [
+        {
+          "name": "Pedro Lu\u00eds",
+          "url": "https://open.spotify.com/artist/53I3ei5phGm4Z89ge81X4O"
+        }
+      ],
+      "duration_ms": 222313,
+      "name": "Abra\u00e7o dos Amantes",
+      "url": "https://open.spotify.com/track/0ZM4iAakviZSmFSC15frt6"
     },
     {
       "added_at": "2025-06-13 07:50:15",
@@ -1415,6 +1415,30 @@
     {
       "added_at": "2025-06-13 07:50:15",
       "album": {
+        "name": "Bonjour",
+        "url": "https://open.spotify.com/album/6GdVpik1L7o0yYJNd1Yio2"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Rod Melim",
+          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
+        }
+      ],
+      "duration_ms": 190003,
+      "name": "Bonjour",
+      "url": "https://open.spotify.com/track/37Ch6tuxzDCV7ginZEYd1c"
+    },
+    {
+      "added_at": "2025-06-13 07:50:15",
+      "album": {
         "name": "Anjo (Live)",
         "url": "https://open.spotify.com/album/1e4myDTWRU3Olsdyfq6W0J"
       },
@@ -1455,66 +1479,18 @@
     {
       "added_at": "2025-06-13 07:50:15",
       "album": {
-        "name": "Arco",
-        "url": "https://open.spotify.com/album/01M3hK5oyx0PnomcoeZXKh"
+        "name": "O Sino Da Igrejinha",
+        "url": "https://open.spotify.com/album/7D8JYnygEiz4KSEqtESWyU"
       },
       "artists": [
         {
-          "name": "Marcos Sacramento",
-          "url": "https://open.spotify.com/artist/5BVgOKodjXNSYX02BQ1zGQ"
-        },
-        {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+          "name": "Ana Cacimba",
+          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
         }
       ],
-      "duration_ms": 200164,
-      "name": "Todo o Amor Que Houver Nessa Vida",
-      "url": "https://open.spotify.com/track/57HsNsO2Up5WlLcoyugpcD"
-    },
-    {
-      "added_at": "2025-06-13 07:50:15",
-      "album": {
-        "name": "Bonjour",
-        "url": "https://open.spotify.com/album/6GdVpik1L7o0yYJNd1Yio2"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Rod Melim",
-          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
-        }
-      ],
-      "duration_ms": 190003,
-      "name": "Bonjour",
-      "url": "https://open.spotify.com/track/37Ch6tuxzDCV7ginZEYd1c"
-    },
-    {
-      "added_at": "2025-06-13 07:50:15",
-      "album": {
-        "name": "real cinema",
-        "url": "https://open.spotify.com/album/0eXvtucC2iXVmb3v3mQZgt"
-      },
-      "artists": [
-        {
-          "name": "LUIZGA",
-          "url": "https://open.spotify.com/artist/2805s9LKfRvmaFi6eK6L0f"
-        },
-        {
-          "name": "Jo\u00e3o Silva",
-          "url": "https://open.spotify.com/artist/48siV5cOPIH3efnBKvN8FS"
-        }
-      ],
-      "duration_ms": 203827,
-      "name": "aprender a perder",
-      "url": "https://open.spotify.com/track/0zkftqXT4ROiEWwKEOMs8b"
+      "duration_ms": 155055,
+      "name": "O Sino Da Igrejinha",
+      "url": "https://open.spotify.com/track/5sPhCtEsMSFIw01ThGM1ps"
     },
     {
       "added_at": "2025-06-13 07:50:15",
@@ -1563,22 +1539,6 @@
     {
       "added_at": "2025-06-13 07:50:15",
       "album": {
-        "name": "O Sino Da Igrejinha",
-        "url": "https://open.spotify.com/album/7D8JYnygEiz4KSEqtESWyU"
-      },
-      "artists": [
-        {
-          "name": "Ana Cacimba",
-          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
-        }
-      ],
-      "duration_ms": 155055,
-      "name": "O Sino Da Igrejinha",
-      "url": "https://open.spotify.com/track/5sPhCtEsMSFIw01ThGM1ps"
-    },
-    {
-      "added_at": "2025-06-13 07:50:15",
-      "album": {
         "name": "Encantaria",
         "url": "https://open.spotify.com/album/7AUlD5j4WkKQkxt6kU3kdj"
       },
@@ -1599,6 +1559,46 @@
       "duration_ms": 231740,
       "name": "Encantaria",
       "url": "https://open.spotify.com/track/3NqdlQsT49DK5vSHkqzqqu"
+    },
+    {
+      "added_at": "2025-06-13 07:50:15",
+      "album": {
+        "name": "Arco",
+        "url": "https://open.spotify.com/album/01M3hK5oyx0PnomcoeZXKh"
+      },
+      "artists": [
+        {
+          "name": "Marcos Sacramento",
+          "url": "https://open.spotify.com/artist/5BVgOKodjXNSYX02BQ1zGQ"
+        },
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        }
+      ],
+      "duration_ms": 200164,
+      "name": "Todo o Amor Que Houver Nessa Vida",
+      "url": "https://open.spotify.com/track/57HsNsO2Up5WlLcoyugpcD"
+    },
+    {
+      "added_at": "2025-06-13 07:50:15",
+      "album": {
+        "name": "real cinema",
+        "url": "https://open.spotify.com/album/0eXvtucC2iXVmb3v3mQZgt"
+      },
+      "artists": [
+        {
+          "name": "LUIZGA",
+          "url": "https://open.spotify.com/artist/2805s9LKfRvmaFi6eK6L0f"
+        },
+        {
+          "name": "Jo\u00e3o Silva",
+          "url": "https://open.spotify.com/artist/48siV5cOPIH3efnBKvN8FS"
+        }
+      ],
+      "duration_ms": 203827,
+      "name": "aprender a perder",
+      "url": "https://open.spotify.com/track/0zkftqXT4ROiEWwKEOMs8b"
     }
   ],
   "unique_name": "Divina MPB",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,862 likes - 70 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,897 likes - 70 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 69 | [Saudades Mil](https://open.spotify.com/track/79zU8jvVMf5GEvpFqBF1Ya) | [509\-E](https://open.spotify.com/artist/66F3yLuWFXacPEAmJNfRBi) | [Provérbios 13](https://open.spotify.com/album/57PrguDb7kufweSs0PyAwT) | 8:46 |
 | 70 | [O Clã da Vila](https://open.spotify.com/track/5nTbVPKyZKVmFSecCTOYQw) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Satiras](https://open.spotify.com/artist/7gDFnhMz0f2jqUeNVr9TdA), [HHC](https://open.spotify.com/artist/57vnpZ4v77hRjGNISaOKbK), [BNegão](https://open.spotify.com/artist/3wYrCJWf6iI5vuUDOnZdUw) | [O Clã da Vila](https://open.spotify.com/album/4JLOi2j58hErx1BMMaT2Kx) | 7:33 |
 
-Snapshot ID: `Zo6NrAAAAABhGJ2FC5pUSZ9fKiW+koIY`
+Snapshot ID: `AAAAACmoGWtO8AqClKjCPsdUphVSCci1`

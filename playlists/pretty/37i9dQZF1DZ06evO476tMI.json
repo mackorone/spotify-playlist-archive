@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 626337,
+  "num_followers": 626390,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAB9vorD+CQ0L5hKkV7tOnur",
+  "snapshot_id": "aEtqAAAAAADXy2mStki39nDSTGttoYL7",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Look To You",
-        "url": "https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 265613,
-      "name": "I Look to You",
-      "url": "https://open.spotify.com/track/1rAESNsSXvXpJh9hCjgHVX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Your Baby Tonight",
         "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 251426,
       "name": "All The Man That I Need",
       "url": "https://open.spotify.com/track/07M76e7IXxYdnC1BBiJxEX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Look To You",
+        "url": "https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 265613,
+      "name": "I Look to You",
+      "url": "https://open.spotify.com/track/1rAESNsSXvXpJh9hCjgHVX"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 276666,
-      "name": "So Emotional",
-      "url": "https://open.spotify.com/track/4l2Edgdj4vla02GCh7YyAv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Your Baby Tonight",
         "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 299426,
       "name": "I'm Your Baby Tonight",
       "url": "https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 276666,
+      "name": "So Emotional",
+      "url": "https://open.spotify.com/track/4l2Edgdj4vla02GCh7YyAv"
     },
     {
       "added_at": null,
@@ -535,22 +535,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting To Exhale",
-        "url": "https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM"
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
       "artists": [
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 266786,
-      "name": "Count On Me - from \"Waiting to Exhale\" - Original Soundtrack",
-      "url": "https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV"
+      "duration_ms": 188600,
+      "name": "Queen of the Night - Radio Edit",
+      "url": "https://open.spotify.com/track/7lARcL3Gu0wKcPcQ3t9xiF"
     },
     {
       "added_at": null,
@@ -571,18 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+        "name": "Waiting To Exhale",
+        "url": "https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM"
       },
       "artists": [
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 188600,
-      "name": "Queen of the Night - Radio Edit",
-      "url": "https://open.spotify.com/track/7lARcL3Gu0wKcPcQ3t9xiF"
+      "duration_ms": 266786,
+      "name": "Count On Me - from \"Waiting to Exhale\" - Original Soundtrack",
+      "url": "https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV"
     },
     {
       "added_at": null,

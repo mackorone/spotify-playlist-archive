@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Celebrating 10 years of the best new rock & alternative music from independent artists\. Cover: xiao xiao
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,898 likes - 102 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,895 likes - 102 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

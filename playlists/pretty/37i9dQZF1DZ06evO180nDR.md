@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,785 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,857 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 30 | [Tommy Vercetti](https://open.spotify.com/track/6Dqy6XTXUcjnUUxkGCmtOp) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Esau Ortiz](https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Redención \(Deluxe\)](https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl) | 2:22 |
 | 31 | [Alias Jabón](https://open.spotify.com/track/1bpNq8orXbDAn4NALBPFfT) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:03 |
 | 32 | [Yo Soy Iván](https://open.spotify.com/track/6q6b2yBPsEbitjEVeHvWCd) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Somos Leyenda](https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il) | 3:31 |
-| 33 | [Ducati](https://open.spotify.com/track/0tmP3JTNIPazZFYbznBwm7) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Ducati](https://open.spotify.com/album/2QmFMHMxWElDAfhdXjM7OM) | 2:28 |
+| 33 | [C ARMO](https://open.spotify.com/track/1jM2U517tfgPyoCrnRqa2m) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Esau Ortiz](https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ) | [C ARMO](https://open.spotify.com/album/5kzK7xsCCuNueER2C9Hc7g) | 3:02 |
 | 34 | [Jacob and Co.](https://open.spotify.com/track/2l8ZwBatbKXlVrSexA4Gbr) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Redención \(Deluxe\)](https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl) | 3:14 |
-| 35 | [C ARMO](https://open.spotify.com/track/1jM2U517tfgPyoCrnRqa2m) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Esau Ortiz](https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ) | [C ARMO](https://open.spotify.com/album/5kzK7xsCCuNueER2C9Hc7g) | 3:02 |
+| 35 | [Ducati](https://open.spotify.com/track/0tmP3JTNIPazZFYbznBwm7) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Ducati](https://open.spotify.com/album/2QmFMHMxWElDAfhdXjM7OM) | 2:28 |
 | 36 | [Te Vi Con Él](https://open.spotify.com/track/3pLvf1cD0QOQ6b8JaU6l4t) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Te Vi Con Él](https://open.spotify.com/album/54ZF7BXU10BXqefAZYaWUY) | 3:07 |
 | 37 | [Polvo Soy](https://open.spotify.com/track/7rzEV4j9gxblnC9DHN53iC) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Polvo Soy](https://open.spotify.com/album/3SWmKgWCz1IOYbkdPjqVc7) | 2:53 |
 | 38 | [Ando Surtiendo](https://open.spotify.com/track/6EZTK5PCM3hycubqgQjNka) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Redención \(Deluxe\)](https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 49 | [El Águila Real \(Nave 727\)](https://open.spotify.com/track/4PoXStxn4GkJUBykmK7WXK) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Águila Real](https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx) | 3:13 |
 | 50 | [Que Te Entregues Hoy](https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:09 |
 
-Snapshot ID: `aEoYgAAAAAAFBkLVZ398mfyJfqMQFnoZ`
+Snapshot ID: `aEtqAAAAAADnO7X5aXdg0hejDCMSmO8w`

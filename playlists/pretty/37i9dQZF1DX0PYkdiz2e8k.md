@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 
 > safeword is out! 🗝️ Foto: Halsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,079 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,083 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 | 35 | [everybody hates me](https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [everybody hates me](https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q) | 2:00 |
 | 36 | [My Head](https://open.spotify.com/track/0QLgyJ880z70YsOuOI3yrp) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [My Head](https://open.spotify.com/album/3DuD1V3fAM6Qr676GG6vVL) | 1:46 |
 | 37 | [Children In The Dark](https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Children In The Dark](https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI) | 2:58 |
-| 38 | [The Only One](https://open.spotify.com/track/3nnQSZbOE6VWBy5EpQp3ZH) | [Banda AL9](https://open.spotify.com/artist/1IbLVq7OjqcArp3TkgfaOX) | [The Only One](https://open.spotify.com/album/7gVP9m7T0I63aGAoDCEhws) | 3:25 |
-| 39 | [under \(feat\. phem\)](https://open.spotify.com/track/3DJ0kDrc9nE4cy92xx0cxD) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [under \(feat\. phem\)](https://open.spotify.com/album/2zt2K0CSSWvSRAwVod6nHM) | 2:17 |
-| 40 | [Anxiety \- Spotify Singles](https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Spotify Singles](https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp) | 3:50 |
+| 38 | [Anxiety \- Spotify Singles](https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Spotify Singles](https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp) | 3:50 |
+| 39 | [The Only One](https://open.spotify.com/track/3nnQSZbOE6VWBy5EpQp3ZH) | [Banda AL9](https://open.spotify.com/artist/1IbLVq7OjqcArp3TkgfaOX) | [The Only One](https://open.spotify.com/album/7gVP9m7T0I63aGAoDCEhws) | 3:25 |
+| 40 | [under \(feat\. phem\)](https://open.spotify.com/track/3DJ0kDrc9nE4cy92xx0cxD) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [under \(feat\. phem\)](https://open.spotify.com/album/2zt2K0CSSWvSRAwVod6nHM) | 2:17 |
 | 41 | [cold cold cold](https://open.spotify.com/track/0Fg6mZHrPM31PXBnHblOjX) | [EZI](https://open.spotify.com/artist/6JINIoM2HUR5ZNTJwoR9eC) | [isolation demos](https://open.spotify.com/album/1PJHCDU1CibYqQGeDN8Bvu) | 2:34 |
 | 42 | [SEXO TODO DIA](https://open.spotify.com/track/3wCK3cN0Ixha2Pw1RQuH3Y) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [HISTERIA AGRESSIVA 100% NEURÓTICA](https://open.spotify.com/album/3RJMSYftZBlhhC9zUnIT7H) | 2:51 |
 | 43 | [New York Transit Queen](https://open.spotify.com/track/6yJkO476ilaoawcOVa0JqD) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1) | 1:49 |

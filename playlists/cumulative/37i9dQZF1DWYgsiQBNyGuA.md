@@ -4,7 +4,7 @@
 
 > Soul to brighten up your day\. Cover: Kyle Dion
 
-220 songs - 14 hr 9 min
+221 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [B\-Side](https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [B\-Side](https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo) | 4:34 | 2024-03-08 | 2024-08-31 |
 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 | 2023-02-17 | 2024-04-19 |
 | [Bedroom Bully](https://open.spotify.com/track/3JPckFErTvmkEMwJsOzTOb) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Beautiful Pain](https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk) | 5:11 | 2024-08-30 |  |
-| [Best For Us](https://open.spotify.com/track/1ZExgSbVQ0Ku5gjryLeKpQ) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Best For Us](https://open.spotify.com/album/0VkuiyMbYzeSKuRmyWvRzk) | 3:40 | 2025-03-07 |  |
+| [Best For Us](https://open.spotify.com/track/1ZExgSbVQ0Ku5gjryLeKpQ) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Best For Us](https://open.spotify.com/album/0VkuiyMbYzeSKuRmyWvRzk) | 3:40 | 2025-03-07 | 2025-06-15 |
 | [Best of Me](https://open.spotify.com/track/1JkhKUXAoNivi87ipmV3rp) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Back To Love \(Deluxe Version\)](https://open.spotify.com/album/545a3sdz0JkH85iYFZPiR4) | 3:46 | 2022-01-05 |  |
 | [BLACCJACK THE MAC](https://open.spotify.com/track/6EVbdSYP4HHdUT06ZFi7Wk) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [BLACCJACK THE MAC](https://open.spotify.com/album/5oPnNNKhqzuQwH9EjDdNVM) | 2:17 | 2024-02-09 | 2025-01-23 |
 | [BLAST!](https://open.spotify.com/track/7xx3527Fl3pHphCZ74aK5e) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:23 | 2025-02-21 |  |
@@ -225,6 +225,7 @@
 | [Why Why Why Why Why](https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:58 | 2025-04-21 |  |
 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 | 2022-01-05 |  |
 | [Wishful Thinking](https://open.spotify.com/track/0edULMXqdv4qV7CcJ6Obvd) | [Vivian Green](https://open.spotify.com/artist/3t83f2J04dRWOpNBe9GTfs) | [A Love Story](https://open.spotify.com/album/2M5NsF6DS8Uemk6WcMewV4) | 4:04 | 2022-01-05 | 2025-04-06 |
+| [Work it Out](https://open.spotify.com/track/0prfGgEUQBSdeZCuhaOswM) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Work it Out](https://open.spotify.com/album/46XVvIZNMuXdfaFvuC9GGH) | 2:59 | 2025-06-14 |  |
 | [You Are the Best Thing](https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain](https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso) | 3:51 | 2022-01-05 | 2024-04-19 |
 | [You Are The Best Thing](https://open.spotify.com/track/1tdarjaWSw6cxpFdLNANuQ) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip in the Grain](https://open.spotify.com/album/65nO4vwWKTVaCIUD3vE7nj) | 3:51 | 2022-01-05 |  |
 | [You Are the Best Thing](https://open.spotify.com/track/5qJW9AClJQwt1vDWHg1PrH) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Loving You](https://open.spotify.com/album/3iupXYQtertEICrj8oG8ER) | 3:51 | 2022-01-05 | 2022-11-14 |

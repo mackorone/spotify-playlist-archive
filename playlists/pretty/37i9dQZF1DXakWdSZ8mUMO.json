@@ -1,6 +1,6 @@
 {
   "description": "Voc\u00ea n\u00e3o para quando est\u00e1 cansado, s\u00f3 quando terminar!",
-  "num_followers": 8011,
+  "num_followers": 8025,
   "original_name": "Pegando Pesado",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-09-02 13:40:17",
       "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "Last Nite",
-      "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
-    },
-    {
-      "added_at": "2024-09-02 13:40:17",
-      "album": {
         "name": "House of Gold & Bones, Part 1",
         "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2024-09-02 13:40:17",
       "album": {
-        "name": "Koi No Yokan",
-        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
       },
       "artists": [
         {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 164986,
-      "name": "Swerve City",
-      "url": "https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp"
+      "duration_ms": 193373,
+      "name": "Last Nite",
+      "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
     },
     {
       "added_at": "2024-09-02 13:40:17",
@@ -743,6 +727,22 @@
       "duration_ms": 252002,
       "name": "The Vengeful One",
       "url": "https://open.spotify.com/track/3jjU4Pky1ja5J1onU6ei4T"
+    },
+    {
+      "added_at": "2024-09-02 13:40:17",
+      "album": {
+        "name": "Koi No Yokan",
+        "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 164986,
+      "name": "Swerve City",
+      "url": "https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp"
     },
     {
       "added_at": "2024-09-02 13:40:17",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-09-02 13:40:17",
       "album": {
-        "name": "The Boy Who Died Wolf",
-        "url": "https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 258773,
-      "name": "My Name Is Human",
-      "url": "https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG"
-    },
-    {
-      "added_at": "2024-09-02 13:40:17",
-      "album": {
         "name": "The Battle Of Los Angeles",
         "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 210133,
       "name": "Testify",
       "url": "https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk"
+    },
+    {
+      "added_at": "2024-09-02 13:40:17",
+      "album": {
+        "name": "The Boy Who Died Wolf",
+        "url": "https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 258773,
+      "name": "My Name Is Human",
+      "url": "https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG"
     },
     {
       "added_at": "2024-09-02 13:40:17",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-09-02 13:40:17",
       "album": {
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
+      },
+      "artists": [
+        {
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/33AxY0QUitvte6JV6B6uLE"
+    },
+    {
+      "added_at": "2024-09-02 13:40:17",
+      "album": {
         "name": "Come Together",
         "url": "https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC"
       },
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2024-09-02 13:40:17",
       "album": {
-        "name": "Audioslave",
-        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
-      },
-      "artists": [
-        {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/33AxY0QUitvte6JV6B6uLE"
-    },
-    {
-      "added_at": "2024-09-02 13:40:17",
-      "album": {
         "name": "Unleashed",
         "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-09-02 13:40:17",
       "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "Rats",
-      "url": "https://open.spotify.com/track/1WjcX541kITk0ACPf5K6Bp"
-    },
-    {
-      "added_at": "2024-09-02 13:40:17",
-      "album": {
         "name": "Around the Fur",
         "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 372973,
       "name": "Headup",
       "url": "https://open.spotify.com/track/4dfvPFbLEa6JzZV4dZTWt7"
+    },
+    {
+      "added_at": "2024-09-02 13:40:17",
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "Rats",
+      "url": "https://open.spotify.com/track/1WjcX541kITk0ACPf5K6Bp"
     },
     {
       "added_at": "2024-09-02 13:40:17",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-09-02 13:40:17",
       "album": {
-        "name": "And Justice for None (Deluxe)",
-        "url": "https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 209703,
-      "name": "Sham Pain",
-      "url": "https://open.spotify.com/track/0nqIqABZcujg05mkixJV60"
-    },
-    {
-      "added_at": "2024-09-02 13:40:17",
-      "album": {
         "name": "Billy Talent III",
         "url": "https://open.spotify.com/album/58IwNbkCL527REhNX7emWv"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 229533,
       "name": "Devil on My Shoulder",
       "url": "https://open.spotify.com/track/6M2EVaf2a9qhnY04CVvO95"
+    },
+    {
+      "added_at": "2024-09-02 13:40:17",
+      "album": {
+        "name": "And Justice for None (Deluxe)",
+        "url": "https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 209703,
+      "name": "Sham Pain",
+      "url": "https://open.spotify.com/track/0nqIqABZcujg05mkixJV60"
     },
     {
       "added_at": "2024-09-02 13:40:17",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-09-02 13:40:17",
       "album": {
-        "name": "Sevendust (Definitive Edition)",
-        "url": "https://open.spotify.com/album/7tpMJufRsPz0EPv5hZSWs3"
-      },
-      "artists": [
-        {
-          "name": "Sevendust",
-          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
-        }
-      ],
-      "duration_ms": 248906,
-      "name": "Black",
-      "url": "https://open.spotify.com/track/5DoTRJlzMaGAMHPTDrfvfW"
-    },
-    {
-      "added_at": "2024-09-02 13:40:17",
-      "album": {
         "name": "The Path of Totality (Special Edition)",
         "url": "https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 222640,
       "name": "Get Up! (feat. Skrillex)",
       "url": "https://open.spotify.com/track/25EgA1A1OZBRw25Mjyw08g"
+    },
+    {
+      "added_at": "2024-09-02 13:40:17",
+      "album": {
+        "name": "Sevendust (Definitive Edition)",
+        "url": "https://open.spotify.com/album/7tpMJufRsPz0EPv5hZSWs3"
+      },
+      "artists": [
+        {
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+        }
+      ],
+      "duration_ms": 248906,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/5DoTRJlzMaGAMHPTDrfvfW"
     }
   ],
   "unique_name": "Pegando Pesado",

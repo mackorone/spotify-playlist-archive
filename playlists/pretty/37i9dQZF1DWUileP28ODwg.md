@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Tenth Avenue North
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,643 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,781 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 74 | [The Church](https://open.spotify.com/track/6r71GI3mbJzpoUFqbGTOC6) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Broken Home](https://open.spotify.com/album/31JnE8pI4B5Wjg7m6u7Ft9) | 3:39 |
 | 75 | [I FEEL HOME](https://open.spotify.com/track/0BFYrL6UGqLnQuNdnTb9at) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [I FEEL HOME](https://open.spotify.com/album/0VLOPfxc8lPX1d9zEzfDZM) | 3:23 |
 
-Snapshot ID: `AAAAAJvVfHRs87Lb/06xr8LKsT2g9abl`
+Snapshot ID: `aEv3NwAAAABD6XkjYIoNWkcHnxg7EPQQ`

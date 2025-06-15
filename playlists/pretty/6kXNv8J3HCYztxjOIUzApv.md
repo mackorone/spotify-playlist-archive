@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 
 > Rock out while you work out! Follow for updates!
 
-[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 61,787 likes - 188 songs - 11 hr 48 min
+[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 61,786 likes - 188 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Celebrating Juneteenth with new music from Smiley & Drake, Avenoir, ARDN, BAMBII, DEBBY FRIDAY and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,614 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,707 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

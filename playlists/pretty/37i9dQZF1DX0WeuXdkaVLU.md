@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0WeuXdkaVLU.md) - [plain]
 
 > Music from and inspired by The School for Good and Evil\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,213 likes - 26 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,215 likes - 26 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0WeuXdkaVLU.md) - [plain]
 | 25 | [Gregor's Third Fail](https://open.spotify.com/track/3JoPiSoaCuCnSoSUhCYaSn) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The School For Good And Evil \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5VKymcbaHhj39nyPGUWZNk) | 2:31 |
 | 26 | [True Love](https://open.spotify.com/track/59LlVNnNW1YV0MHtyziRfm) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The School For Good And Evil \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5VKymcbaHhj39nyPGUWZNk) | 2:59 |
 
-Snapshot ID: `AAAAAOc8s8JKJwDXu7Zs1MB+zOxIkEZA`
+Snapshot ID: `ZuzzQAAAAAB4V9uo1rSh/L+7ir8iY7DK`

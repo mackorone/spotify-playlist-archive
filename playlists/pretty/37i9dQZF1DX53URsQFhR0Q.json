@@ -1,6 +1,6 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 9074,
+  "num_followers": 9076,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "W'agye Me (He Has Saved Me)",
-        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
-      },
-      "artists": [
-        {
-          "name": "Obaapa Christy",
-          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
-        }
-      ],
-      "duration_ms": 252473,
-      "name": "W' agye Me",
-      "url": "https://open.spotify.com/track/4JQofHiIEY6EuWLXAxe7SG"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
         "name": "Hosanna",
         "url": "https://open.spotify.com/album/64p2ahUYDuum6CrFPSlmnV"
       },
@@ -75,18 +59,34 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "Onyame Boafuo",
-        "url": "https://open.spotify.com/album/3A9h6NBLzC7335Gfj26VXg"
+        "name": "W'agye Me (He Has Saved Me)",
+        "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
       },
       "artists": [
         {
-          "name": "Esther Smith",
-          "url": "https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8"
+          "name": "Obaapa Christy",
+          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
         }
       ],
-      "duration_ms": 316055,
-      "name": "Nipa",
-      "url": "https://open.spotify.com/track/0XJE7VhpUDo9i1bVi94Kgt"
+      "duration_ms": 252473,
+      "name": "W' agye Me",
+      "url": "https://open.spotify.com/track/4JQofHiIEY6EuWLXAxe7SG"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 269169,
+      "name": "Mo Ne Yo",
+      "url": "https://open.spotify.com/track/2dopQvR9fcAJwlR40o3yLD"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -123,18 +123,18 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv"
+        "name": "Onyame Boafuo",
+        "url": "https://open.spotify.com/album/3A9h6NBLzC7335Gfj26VXg"
       },
       "artists": [
         {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+          "name": "Esther Smith",
+          "url": "https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8"
         }
       ],
-      "duration_ms": 269169,
-      "name": "Mo Ne Yo",
-      "url": "https://open.spotify.com/track/2dopQvR9fcAJwlR40o3yLD"
+      "duration_ms": 316055,
+      "name": "Nipa",
+      "url": "https://open.spotify.com/track/0XJE7VhpUDo9i1bVi94Kgt"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "Onyame Wo Ho",
-        "url": "https://open.spotify.com/album/2DPjutXnhem2N3yTQfnFMo"
-      },
-      "artists": [
-        {
-          "name": "Esther Smith",
-          "url": "https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8"
-        }
-      ],
-      "duration_ms": 302628,
-      "name": "Me Da Wase",
-      "url": "https://open.spotify.com/track/0GWEgzFgCq4lHxQ1kRg5Om"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
         "name": "W'agye Me (He Has Saved Me)",
         "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 324440,
       "name": "W' asue Me",
       "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
+        "name": "Onyame Wo Ho",
+        "url": "https://open.spotify.com/album/2DPjutXnhem2N3yTQfnFMo"
+      },
+      "artists": [
+        {
+          "name": "Esther Smith",
+          "url": "https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8"
+        }
+      ],
+      "duration_ms": 302628,
+      "name": "Me Da Wase",
+      "url": "https://open.spotify.com/track/0GWEgzFgCq4lHxQ1kRg5Om"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "The Altar",
-        "url": "https://open.spotify.com/album/6aGS6hhyjFgwrO1voxYyk4"
-      },
-      "artists": [
-        {
-          "name": "No Tribe",
-          "url": "https://open.spotify.com/artist/6ocbT2YYie059c1m8axmG1"
-        }
-      ],
-      "duration_ms": 258821,
-      "name": "ADOM BI",
-      "url": "https://open.spotify.com/track/1265RZfD3yji9xZ123cFUL"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
         "name": "Sacrifice",
         "url": "https://open.spotify.com/album/2QMBRCMuXbK1J8gq9F1BGm"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 378666,
       "name": "Ayeyi Ndowm",
       "url": "https://open.spotify.com/track/1aiVyCnIAwKXX19mySlqu1"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
+        "name": "The Altar",
+        "url": "https://open.spotify.com/album/6aGS6hhyjFgwrO1voxYyk4"
+      },
+      "artists": [
+        {
+          "name": "No Tribe",
+          "url": "https://open.spotify.com/artist/6ocbT2YYie059c1m8axmG1"
+        }
+      ],
+      "duration_ms": 258821,
+      "name": "ADOM BI",
+      "url": "https://open.spotify.com/track/1265RZfD3yji9xZ123cFUL"
     },
     {
       "added_at": "2025-01-09 09:53:00",

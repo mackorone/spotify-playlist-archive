@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,792 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,801 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 19 | [Yee](https://open.spotify.com/track/4NfK4exuaNuABn75exD5Gq) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Yee](https://open.spotify.com/album/3Q3iGxmZDnQaeWKRmMoDPF) | 2:48 |
 | 20 | [Ushuaïa](https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Ushuaïa](https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU) | 2:58 |
 | 21 | [Si Tú No Estás Aquí \(feat\. LÚA\)](https://open.spotify.com/track/0a95aNz4gEBw9zqR0zZIIH) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [LÚA](https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 4:03 |
-| 22 | [Cooler Than Me](https://open.spotify.com/track/2o1ryWmt2wp521jtflMiYq) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Cooler Than Me](https://open.spotify.com/album/7LKF88fJJvIQIUVhTFXAl6) | 3:12 |
-| 23 | [Keep It Goin'](https://open.spotify.com/track/5QO36B9kCFQdxKRRjkIrQD) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Danny Avila](https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH) | [Keep It Goin'](https://open.spotify.com/album/1bwM69ypPPzjYJv1iVusi8) | 2:55 |
+| 22 | [Keep It Goin'](https://open.spotify.com/track/5QO36B9kCFQdxKRRjkIrQD) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Danny Avila](https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH) | [Keep It Goin'](https://open.spotify.com/album/1bwM69ypPPzjYJv1iVusi8) | 2:55 |
+| 23 | [Cooler Than Me](https://open.spotify.com/track/2o1ryWmt2wp521jtflMiYq) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Cooler Than Me](https://open.spotify.com/album/7LKF88fJJvIQIUVhTFXAl6) | 3:12 |
 | 24 | [Deli](https://open.spotify.com/track/2XQArGuHX03hf3IB4tQKxy) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Redención \(Deluxe\)](https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl) | 3:05 |
 | 25 | [LIV \- Spotify Singles](https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI) | [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [LIV \- Spotify Singles](https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM) | 2:45 |
 | 26 | [2 Da Floor](https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [J\. Cruze](https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V) | [2 Da Floor](https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 49 | [RBS](https://open.spotify.com/track/4EEXF3lBvayzmIOuDKwC9p) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [RBS](https://open.spotify.com/album/0mHTnOkXGzACUKonSwZSsP) | 2:53 |
 | 50 | [When The Funk Drops](https://open.spotify.com/track/6qPCcyAHEEvPp1QDCcMpPn) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Uberjack'd](https://open.spotify.com/artist/0UyHJ2JEmDdl7xpVnF0r3H), [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq) | [When The Funk Drops](https://open.spotify.com/album/6SQPmAwz5G7gXNBB0TXTLl) | 3:58 |
 
-Snapshot ID: `aEoYgAAAAADabIuJrDzWgF7UtF7HSVYp`
+Snapshot ID: `aEtqAAAAAADmS/hxTFQdCyMxaw8UAOLv`

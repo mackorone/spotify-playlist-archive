@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 
 > This is Gloria Groove\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,223 likes - 49 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,235 likes - 49 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 38 | [Suplicar](https://open.spotify.com/track/2HmwK2dChMGAOv3gd2HQiN) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Suplicar](https://open.spotify.com/album/1rbmSJSM5ie2j5zIH7Nf0X) | 3:06 |
 | 39 | [BRUXARIA 3000](https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Yure IDD](https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS), [Mc Alleff](https://open.spotify.com/artist/61G3rtsKx3Vj0bJVstqO3l), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:54 |
 | 40 | [LEILÃO](https://open.spotify.com/track/4k7mlEX9Nc3Ei0nFQ4cOE3) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 3:08 |
-| 41 | [Rolê](https://open.spotify.com/track/0qgqALtsDFdyTdXXNHyw5q) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 3:07 |
-| 42 | [Retrovisor](https://open.spotify.com/track/4HYZYfXAeETot63750cbxe) | [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [O Silêncio Que Grita](https://open.spotify.com/album/6dyzdn5KrBgmmQnznQI1PO) | 3:10 |
+| 41 | [Retrovisor](https://open.spotify.com/track/4HYZYfXAeETot63750cbxe) | [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [O Silêncio Que Grita](https://open.spotify.com/album/6dyzdn5KrBgmmQnznQI1PO) | 3:10 |
+| 42 | [Rolê](https://open.spotify.com/track/0qgqALtsDFdyTdXXNHyw5q) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 3:07 |
 | 43 | [Vício](https://open.spotify.com/track/2S7MWqh2o9JWO2iFwBTcW8) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Vício](https://open.spotify.com/album/1rbODKal1K9YMyz0PgtC82) | 2:55 |
 | 44 | [FOGO NO BARRACO](https://open.spotify.com/track/1GN6FB6MuUlB0Q1TuIAwiS) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [MC Tchelinho](https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:25 |
 | 45 | [Arrasta](https://open.spotify.com/track/4adh5CmoekBTxh75IVrDlU) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Arrasta](https://open.spotify.com/album/2Wr06hgVAVL20s9gVjpw78) | 2:32 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 48 | [Provocar](https://open.spotify.com/track/28SWsF1IQxfc9bP5yua35K) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Provocar](https://open.spotify.com/album/332UyyUgVxTrm29u44ZvtO) | 2:48 |
 | 49 | [AO SOM DO TUIM](https://open.spotify.com/track/4hpT0bP4YI71vGQN51ikMz) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Dj GBR](https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 3:03 |
 
-Snapshot ID: `aEoYgAAAAACoVaUAavKJ/wj012VUTkpD`
+Snapshot ID: `aEtqAAAAAACZOYesh9T4jFSeeUjbsrIy`

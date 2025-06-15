@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 32355,
+  "num_followers": 32361,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-06-13 11:45:49",
       "album": {
+        "name": "Sinestesia",
+        "url": "https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT"
+      },
+      "artists": [
+        {
+          "name": "Antes de Nacer",
+          "url": "https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo"
+        }
+      ],
+      "duration_ms": 267705,
+      "name": "Sinestesia",
+      "url": "https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a"
+    },
+    {
+      "added_at": "2025-06-13 11:45:49",
+      "album": {
         "name": "Volverte a Ver",
         "url": "https://open.spotify.com/album/0vryHuywlY0re96fmjap4c"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 173112,
       "name": "Volverte a Ver",
       "url": "https://open.spotify.com/track/5eFwMCx6eYjMxMKIv0wYXL"
-    },
-    {
-      "added_at": "2025-06-13 11:45:49",
-      "album": {
-        "name": "Sinestesia",
-        "url": "https://open.spotify.com/album/7nV7O5zQXQeCCFRLyXI5JT"
-      },
-      "artists": [
-        {
-          "name": "Antes de Nacer",
-          "url": "https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo"
-        }
-      ],
-      "duration_ms": 267705,
-      "name": "Sinestesia",
-      "url": "https://open.spotify.com/track/6zpSJygrnJU29m8caIL44a"
     },
     {
       "added_at": "2025-06-13 11:45:49",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-06-13 11:45:49",
       "album": {
-        "name": "en m\u00ed",
-        "url": "https://open.spotify.com/album/37vwRCD6CDp518j2giijxd"
-      },
-      "artists": [
-        {
-          "name": "Lola Sanchez",
-          "url": "https://open.spotify.com/artist/0KxltikyByuV300CJVM5xO"
-        }
-      ],
-      "duration_ms": 246910,
-      "name": "en m\u00ed",
-      "url": "https://open.spotify.com/track/2U6ANiDunDYjHwFw8SY1Ff"
-    },
-    {
-      "added_at": "2025-06-13 11:45:49",
-      "album": {
         "name": "Tony 70",
         "url": "https://open.spotify.com/album/6BKVskjcx78fG8bPWQ3Ypx"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 233373,
       "name": "Simon Freak",
       "url": "https://open.spotify.com/track/6mYRXQDxEpeVLMcDBi7zlr"
+    },
+    {
+      "added_at": "2025-06-13 11:45:49",
+      "album": {
+        "name": "en m\u00ed",
+        "url": "https://open.spotify.com/album/37vwRCD6CDp518j2giijxd"
+      },
+      "artists": [
+        {
+          "name": "Lola Sanchez",
+          "url": "https://open.spotify.com/artist/0KxltikyByuV300CJVM5xO"
+        }
+      ],
+      "duration_ms": 246910,
+      "name": "en m\u00ed",
+      "url": "https://open.spotify.com/track/2U6ANiDunDYjHwFw8SY1Ff"
     },
     {
       "added_at": "2025-06-13 11:45:49",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-06-13 11:45:49",
       "album": {
-        "name": "NUEVA SANGRE",
-        "url": "https://open.spotify.com/album/2T5tZZuvVcTpBIVFxFPplr"
-      },
-      "artists": [
-        {
-          "name": "Militantes del Climax",
-          "url": "https://open.spotify.com/artist/09BpCKSle4c7RbDtCuZXnv"
-        }
-      ],
-      "duration_ms": 196374,
-      "name": "CAFE NEGRO",
-      "url": "https://open.spotify.com/track/2tsyisOIKxVARnkZ4mMTjl"
-    },
-    {
-      "added_at": "2025-06-13 11:45:49",
-      "album": {
         "name": "Melod\u00edas",
         "url": "https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 224864,
       "name": "Back up in Flames",
       "url": "https://open.spotify.com/track/7c4BwXfR0CeJFWZ5NTW0er"
+    },
+    {
+      "added_at": "2025-06-13 11:45:49",
+      "album": {
+        "name": "NUEVA SANGRE",
+        "url": "https://open.spotify.com/album/2T5tZZuvVcTpBIVFxFPplr"
+      },
+      "artists": [
+        {
+          "name": "Militantes del Climax",
+          "url": "https://open.spotify.com/artist/09BpCKSle4c7RbDtCuZXnv"
+        }
+      ],
+      "duration_ms": 196374,
+      "name": "CAFE NEGRO",
+      "url": "https://open.spotify.com/track/2tsyisOIKxVARnkZ4mMTjl"
     },
     {
       "added_at": "2025-06-13 11:45:49",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-06-13 11:45:49",
       "album": {
-        "name": "Solo por Hoy",
-        "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
-      },
-      "artists": [
-        {
-          "name": "Flor Lovaglio",
-          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
-        }
-      ],
-      "duration_ms": 210566,
-      "name": "Solo por Hoy",
-      "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
-    },
-    {
-      "added_at": "2025-06-13 11:45:49",
-      "album": {
         "name": "Tangible",
         "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
       },
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2025-06-13 11:45:49",
       "album": {
+        "name": "Solo por Hoy",
+        "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
+      },
+      "artists": [
+        {
+          "name": "Flor Lovaglio",
+          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
+        }
+      ],
+      "duration_ms": 210566,
+      "name": "Solo por Hoy",
+      "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
+    },
+    {
+      "added_at": "2025-06-13 11:45:49",
+      "album": {
         "name": "Get Porn",
         "url": "https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh"
       },
@@ -1459,26 +1459,6 @@
       "duration_ms": 343362,
       "name": "Get Porn",
       "url": "https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D"
-    },
-    {
-      "added_at": "2025-06-13 11:45:49",
-      "album": {
-        "name": "Nada Ser\u00eda Igual",
-        "url": "https://open.spotify.com/album/7w5eoI6jwqmr4DfNM8B5zw"
-      },
-      "artists": [
-        {
-          "name": "La Hipocres\u00eda Mat\u00f3 al Gato",
-          "url": "https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe"
-        },
-        {
-          "name": "Motafonkas",
-          "url": "https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS"
-        }
-      ],
-      "duration_ms": 203056,
-      "name": "Nada Ser\u00eda Igual",
-      "url": "https://open.spotify.com/track/6w4rHYinnXDrI1lkFR7uy0"
     },
     {
       "added_at": "2025-06-13 11:45:49",
@@ -1507,18 +1487,22 @@
     {
       "added_at": "2025-06-13 11:45:49",
       "album": {
-        "name": "Sr. A",
-        "url": "https://open.spotify.com/album/4BmsB5lLUuAGWhFJbTKiok"
+        "name": "Nada Ser\u00eda Igual",
+        "url": "https://open.spotify.com/album/7w5eoI6jwqmr4DfNM8B5zw"
       },
       "artists": [
         {
-          "name": "Tapones de Punta",
-          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
+          "name": "La Hipocres\u00eda Mat\u00f3 al Gato",
+          "url": "https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe"
+        },
+        {
+          "name": "Motafonkas",
+          "url": "https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS"
         }
       ],
-      "duration_ms": 213267,
-      "name": "Sr. A",
-      "url": "https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr"
+      "duration_ms": 203056,
+      "name": "Nada Ser\u00eda Igual",
+      "url": "https://open.spotify.com/track/6w4rHYinnXDrI1lkFR7uy0"
     },
     {
       "added_at": "2025-06-13 11:45:49",
@@ -1535,6 +1519,22 @@
       "duration_ms": 230250,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/3PqP0GbtQpZy9cHvNFrhl9"
+    },
+    {
+      "added_at": "2025-06-13 11:45:49",
+      "album": {
+        "name": "Sr. A",
+        "url": "https://open.spotify.com/album/4BmsB5lLUuAGWhFJbTKiok"
+      },
+      "artists": [
+        {
+          "name": "Tapones de Punta",
+          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
+        }
+      ],
+      "duration_ms": 213267,
+      "name": "Sr. A",
+      "url": "https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr"
     },
     {
       "added_at": "2025-06-13 11:45:49",

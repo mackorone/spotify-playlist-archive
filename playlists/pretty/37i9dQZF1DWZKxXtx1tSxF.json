@@ -1,6 +1,6 @@
 {
   "description": "Un mix de reggae y buena vibra para ver caer el sol.",
-  "num_followers": 50913,
+  "num_followers": 50933,
   "original_name": "Atardecer en la playa",
   "owner": {
     "name": "Spotify",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
+        "name": "Somos Dos",
+        "url": "https://open.spotify.com/album/03CdYrBotxXdTIkDJq5IA7"
+      },
+      "artists": [
+        {
+          "name": "Pau Sotomayor",
+          "url": "https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN"
+        }
+      ],
+      "duration_ms": 217021,
+      "name": "Somos Dos",
+      "url": "https://open.spotify.com/track/1uWgQtByTaFLR5ld2SW3XY"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
         "name": "Caribe\u00f1a",
         "url": "https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 191141,
       "name": "Caribe\u00f1a",
       "url": "https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
-        "name": "Somos Dos",
-        "url": "https://open.spotify.com/album/03CdYrBotxXdTIkDJq5IA7"
-      },
-      "artists": [
-        {
-          "name": "Pau Sotomayor",
-          "url": "https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN"
-        }
-      ],
-      "duration_ms": 217021,
-      "name": "Somos Dos",
-      "url": "https://open.spotify.com/track/1uWgQtByTaFLR5ld2SW3XY"
     },
     {
       "added_at": "2024-06-12 21:02:48",

@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 588866,
+  "num_followers": 589913,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
@@ -633,22 +633,6 @@
       "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Poems, Prayers and Promises",
-        "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 190160,
-      "name": "Take Me Home, Country Roads - Original Version",
-      "url": "https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Take The Heat Off Me",
@@ -663,6 +647,22 @@
       "duration_ms": 208600,
       "name": "Daddy Cool",
       "url": "https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Poems, Prayers and Promises",
+        "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 190160,
+      "name": "Take Me Home, Country Roads - Original Version",
+      "url": "https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Can't Get Enough Of Your Love, Babe",
-      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Take The Heat Off Me",
         "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 242240,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Can't Get Enough Of Your Love, Babe",
+      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Sticky Fingers (Remastered)",
-        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 228666,
-      "name": "Brown Sugar - Remastered 2009",
-      "url": "https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Tom Jones Sings She's A Lady",
@@ -1207,6 +1191,22 @@
       "duration_ms": 174146,
       "name": "She's A Lady",
       "url": "https://open.spotify.com/track/5JnHzjo25FY1fMQMQVOawB"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Sticky Fingers (Remastered)",
+        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 228666,
+      "name": "Brown Sugar - Remastered 2009",
+      "url": "https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "The Kids & Me",
-        "url": "https://open.spotify.com/album/7LukcPnAOnV7MuJ6uIUe1s"
-      },
-      "artists": [
-        {
-          "name": "Billy Preston",
-          "url": "https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5"
-        }
-      ],
-      "duration_ms": 156200,
-      "name": "Nothing From Nothing",
-      "url": "https://open.spotify.com/track/72PoJMDfdaw9gGECgA9kTZ"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 180493,
       "name": "If You Want Me to Stay",
       "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "The Kids & Me",
+        "url": "https://open.spotify.com/album/7LukcPnAOnV7MuJ6uIUe1s"
+      },
+      "artists": [
+        {
+          "name": "Billy Preston",
+          "url": "https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5"
+        }
+      ],
+      "duration_ms": 156200,
+      "name": "Nothing From Nothing",
+      "url": "https://open.spotify.com/track/72PoJMDfdaw9gGECgA9kTZ"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Glitter",
-        "url": "https://open.spotify.com/album/6Ck7kqCXreu6gH9CgdsFLO"
+        "name": "The Singles 1974 - 76",
+        "url": "https://open.spotify.com/album/1Vmgke5bm1op8mUnbvd6wY"
       },
       "artists": [
         {
-          "name": "Gary Glitter",
-          "url": "https://open.spotify.com/artist/61zv3hX7l838ZyhaDyAx8S"
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
         }
       ],
-      "duration_ms": 193253,
-      "name": "Rock 'n' Roll (Part 2)",
-      "url": "https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d"
+      "duration_ms": 200053,
+      "name": "Rock Your Baby",
+      "url": "https://open.spotify.com/track/6pMHMzwTsWIxLigr54GGVm"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "The Singles 1974 - 76",
-        "url": "https://open.spotify.com/album/1Vmgke5bm1op8mUnbvd6wY"
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/6Ck7kqCXreu6gH9CgdsFLO"
       },
       "artists": [
         {
-          "name": "George McCrae",
-          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
+          "name": "Gary Glitter",
+          "url": "https://open.spotify.com/artist/61zv3hX7l838ZyhaDyAx8S"
         }
       ],
-      "duration_ms": 200053,
-      "name": "Rock Your Baby",
-      "url": "https://open.spotify.com/track/6pMHMzwTsWIxLigr54GGVm"
+      "duration_ms": 193253,
+      "name": "Rock 'n' Roll (Part 2)",
+      "url": "https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1741,6 +1741,22 @@
       "url": "https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE"
     },
     {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "C'est Chic (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 413586,
+      "name": "I Want Your Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
+    },
+    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Cosmo's Factory (Expanded Edition)",
@@ -1771,22 +1787,6 @@
       "duration_ms": 290160,
       "name": "Love Rollercoaster",
       "url": "https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "C'est Chic (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4a1EmaXGBiQ61Y4m6SNcYi"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 413586,
-      "name": "I Want Your Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "I've Got So Much To Give",
-        "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 431506,
-      "name": "I'm Gonna Love You Just A Little More Baby",
-      "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Back Stabbers",
         "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
       },
@@ -1935,18 +1919,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Siren",
-        "url": "https://open.spotify.com/album/5Tpor3YZBVEJ9tWD5L31mH"
+        "name": "I've Got So Much To Give",
+        "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
       },
       "artists": [
         {
-          "name": "Roxy Music",
-          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 251333,
-      "name": "Love Is The Drug",
-      "url": "https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ"
+      "duration_ms": 431506,
+      "name": "I'm Gonna Love You Just A Little More Baby",
+      "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1963,6 +1947,22 @@
       "duration_ms": 355173,
       "name": "I Feel Love",
       "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Siren",
+        "url": "https://open.spotify.com/album/5Tpor3YZBVEJ9tWD5L31mH"
+      },
+      "artists": [
+        {
+          "name": "Roxy Music",
+          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "Love Is The Drug",
+      "url": "https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Average White Band",
-        "url": "https://open.spotify.com/album/5SlfIp60F93VaOJjd88BXC"
-      },
-      "artists": [
-        {
-          "name": "Average White Band",
-          "url": "https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb"
-        }
-      ],
-      "duration_ms": 234586,
-      "name": "Pick up the Pieces",
-      "url": "https://open.spotify.com/track/2H5nsVLjDwWsxfyajm0lVS"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "On The Radio: Greatest Hits Volumes I & II",
         "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 296506,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/5fKTkCOpnyJko7jZqpbJnX"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Average White Band",
+        "url": "https://open.spotify.com/album/5SlfIp60F93VaOJjd88BXC"
+      },
+      "artists": [
+        {
+          "name": "Average White Band",
+          "url": "https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb"
+        }
+      ],
+      "duration_ms": 234586,
+      "name": "Pick up the Pieces",
+      "url": "https://open.spotify.com/track/2H5nsVLjDwWsxfyajm0lVS"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2221,22 +2221,6 @@
       "url": "https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 203866,
-      "name": "Sing a Song",
-      "url": "https://open.spotify.com/track/5W5FVsgGCe3T9nIMkiXqNo"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "A Taste Of Honey",
@@ -2251,6 +2235,22 @@
       "duration_ms": 338320,
       "name": "Boogie Oogie Oogie - Remastered 2004",
       "url": "https://open.spotify.com/track/07NrCEN3egNvw8td2LxqJO"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 203866,
+      "name": "Sing a Song",
+      "url": "https://open.spotify.com/track/5W5FVsgGCe3T9nIMkiXqNo"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2353,22 +2353,6 @@
       "url": "https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Who Loves You",
-        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "Who Loves You",
-      "url": "https://open.spotify.com/track/5MjwNUe4SSzAzsHoBjlPOm"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "Go West In the Navy",
@@ -2415,6 +2399,22 @@
       "duration_ms": 307573,
       "name": "Car Wash - Long Version",
       "url": "https://open.spotify.com/track/2pbWkjtGtjkzBdZ95GFINm"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Who Loves You",
+        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Who Loves You",
+      "url": "https://open.spotify.com/track/5MjwNUe4SSzAzsHoBjlPOm"
     },
     {
       "added_at": "2021-09-08 13:31:49",

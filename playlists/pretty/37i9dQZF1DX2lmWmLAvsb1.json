@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2019. Cover: Daddy Yankee",
-  "num_followers": 74114,
+  "num_followers": 74146,
   "original_name": "Latin Hits 2019",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-07-13 01:21:22",
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 184435,
+      "name": "HP",
+      "url": "https://open.spotify.com/track/1LIqNVhaIgxXUt2eVoIQJ3"
+    },
+    {
+      "added_at": "2024-07-13 01:21:22",
+      "album": {
         "name": "Indeciso",
         "url": "https://open.spotify.com/album/4qecT0ZJrf35thz2WaEm6P"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 217253,
       "name": "Indeciso",
       "url": "https://open.spotify.com/track/59s0s39NFWScuHDbHytI14"
-    },
-    {
-      "added_at": "2024-07-13 01:21:22",
-      "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 184435,
-      "name": "HP",
-      "url": "https://open.spotify.com/track/1LIqNVhaIgxXUt2eVoIQJ3"
     },
     {
       "added_at": "2024-07-13 01:21:22",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-07-13 01:21:22",
       "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 178534,
+      "name": "Por Eso Vine",
+      "url": "https://open.spotify.com/track/5qN1G8fSHq4Sv5FRoOkNGu"
+    },
+    {
+      "added_at": "2024-07-13 01:21:22",
+      "album": {
         "name": "Soltera (Remix)",
         "url": "https://open.spotify.com/album/2m9Vuc9Q19qhSm6RQmBgsR"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 266086,
       "name": "Soltera (Remix)",
       "url": "https://open.spotify.com/track/1c0hsvHLELX6y8qymnpLKL"
-    },
-    {
-      "added_at": "2024-07-13 01:21:22",
-      "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 178534,
-      "name": "Por Eso Vine",
-      "url": "https://open.spotify.com/track/5qN1G8fSHq4Sv5FRoOkNGu"
     },
     {
       "added_at": "2024-07-13 01:21:22",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2024-07-13 01:21:22",
       "album": {
-        "name": "Para Aventuras y Curiosidades",
-        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 206279,
-      "name": "La Boca",
-      "url": "https://open.spotify.com/track/0UQwlF2pRkr1lMN6kNNUj3"
-    },
-    {
-      "added_at": "2024-07-13 01:21:22",
-      "album": {
         "name": "105 F Remix",
         "url": "https://open.spotify.com/album/2801cwQRE2bAQ6pKTrI13w"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 464200,
       "name": "105 F Remix",
       "url": "https://open.spotify.com/track/1aUGxXCz9QimNkKeiJtzZ7"
+    },
+    {
+      "added_at": "2024-07-13 01:21:22",
+      "album": {
+        "name": "Para Aventuras y Curiosidades",
+        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 206279,
+      "name": "La Boca",
+      "url": "https://open.spotify.com/track/0UQwlF2pRkr1lMN6kNNUj3"
     },
     {
       "added_at": "2024-07-13 01:21:22",

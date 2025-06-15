@@ -824,7 +824,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 142615,
       "name": "30\u00baC",
       "url": "https://open.spotify.com/track/19DHPlTC2gx1j4jrFzNbwL"
@@ -3114,7 +3114,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 147587,
       "name": "Anche Se Ti Amo (con Frah Quintale, nayt & prima stanza a destra)",
       "url": "https://open.spotify.com/track/0yzZJ1wNec8GihbRZ5FGyL"
@@ -12186,7 +12186,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 200590,
       "name": "Dai che fai",
       "url": "https://open.spotify.com/track/21KdF0KGmSXmDBcif3XZd4"
@@ -12970,7 +12970,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 185503,
       "name": "Destri",
       "url": "https://open.spotify.com/track/7nRFsITVaSHko2Fw2Gcy59"
@@ -14173,6 +14173,36 @@
     },
     {
       "album": {
+        "name": "Too Clean",
+        "url": "https://open.spotify.com/album/6BOxaFOsnIFASRRH2JlBp5"
+      },
+      "artists": [
+        {
+          "name": "Slings",
+          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
+        },
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153139,
+      "name": "Don't Stop It (feat. Shiva & Gu\u00e8)",
+      "url": "https://open.spotify.com/track/2eJJMK4v39nVLSYd72Fuj9"
+    },
+    {
+      "album": {
         "name": "Don't You Worry",
         "url": "https://open.spotify.com/album/0mEexWITKhScRM40eqDEFi"
       },
@@ -14850,6 +14880,24 @@
       "duration_ms": 205090,
       "name": "D\u00c1KITI",
       "url": "https://open.spotify.com/track/4MzXwWMhyBbmu6hOcLVD49"
+    },
+    {
+      "album": {
+        "name": "D\u00c9SOL\u00c9E",
+        "url": "https://open.spotify.com/album/14aEL5lLrcr9ohOnpdIeVi"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "D\u00c9SOL\u00c9E",
+      "url": "https://open.spotify.com/track/2bT6QX29M7GLSuTDSirwaS"
     },
     {
       "album": {
@@ -21886,7 +21934,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 187403,
       "name": "il filo rosso",
       "url": "https://open.spotify.com/track/1QcmAp6Ev2HuYxKujUwnw0"
@@ -24866,7 +24914,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 215821,
       "name": "LA CURA PER ME",
       "url": "https://open.spotify.com/track/5tOBPD3zL9kWpeELqkzwJC"
@@ -33873,6 +33921,32 @@
     },
     {
       "album": {
+        "name": "Non Basta Mai (feat. Bresh & Tony Effe)",
+        "url": "https://open.spotify.com/album/0g0HzHNfjYXmikaB010XaJ"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144512,
+      "name": "Non Basta Mai (feat. Bresh & Tony Effe)",
+      "url": "https://open.spotify.com/track/6LImxPnj3U9EncraLOZ7j1"
+    },
+    {
+      "album": {
         "name": "FERITE",
         "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
       },
@@ -39851,6 +39925,24 @@
     },
     {
       "album": {
+        "name": "1998",
+        "url": "https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161432,
+      "name": "Qualcosa di grande",
+      "url": "https://open.spotify.com/track/7LHCJnWkQgmHGUhQyZeoW5"
+    },
+    {
+      "album": {
         "name": "Dove Volano Le Aquile",
         "url": "https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8"
       },
@@ -43696,7 +43788,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
@@ -43736,7 +43828,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
@@ -45833,6 +45925,32 @@
     },
     {
       "album": {
+        "name": "Sto bene al mare (feat. Sayf & Rkomi)",
+        "url": "https://open.spotify.com/album/4NQBEzQomU36U3oaXTgKj4"
+      },
+      "artists": [
+        {
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+        },
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167362,
+      "name": "Sto bene al mare (feat. Sayf & Rkomi)",
+      "url": "https://open.spotify.com/track/7bozAK8PtroF5owUL01coy"
+    },
+    {
+      "album": {
         "name": "Hustle Mixtape",
         "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
       },
@@ -46024,6 +46142,32 @@
       "duration_ms": 167080,
       "name": "Street Movie (feat. Jake La Furia & RollzRois)",
       "url": "https://open.spotify.com/track/56i2Lo76YMcsJt1daDxSbJ"
+    },
+    {
+      "album": {
+        "name": "Stupidi (feat. Papa V & Nerissima Serpe)",
+        "url": "https://open.spotify.com/album/7B4Wh6mQQ8jZs3FzP9n4l4"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185160,
+      "name": "Stupidi (feat. Papa V & Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/77bXJkBScCUlL4R8wgw4xL"
     },
     {
       "album": {

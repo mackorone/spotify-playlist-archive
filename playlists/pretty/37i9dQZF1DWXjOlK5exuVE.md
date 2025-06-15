@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjOlK5exuVE.md) - [plain]
 
 > Historias que hacen historia\. Voces del Rancho en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,967 likes - 125 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,048 likes - 125 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjOlK5exuVE.md) - [plain]
 | 124 | [Anastasio Pacheco](https://open.spotify.com/track/2U1ucjQui6SBjirCgqqcud) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Alma Enamorada](https://open.spotify.com/album/5zR6lVcijHUyA1l5NnUTxW) | 3:28 |
 | 125 | [Yo Ya Sabia Pa Donde Iba](https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Yo Ya Sabia Pa Donde Iba](https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R) | 3:01 |
 
-Snapshot ID: `Z+bmzgAAAACEGEhn912tRl+LcuDRQOX/`
+Snapshot ID: `Z+bmzgAAAABwOjeepss3OyUKjE0E1Ber`

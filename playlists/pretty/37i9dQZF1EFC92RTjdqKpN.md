@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037 likes - 185 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,036 likes - 185 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 62 | [No Good](https://open.spotify.com/track/7j2jFc1LlQLNPRwbjrgXuv) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [No Good](https://open.spotify.com/album/4roqYaI40M8uIbDJd69ZHj) | 3:11 |
 | 63 | [Better](https://open.spotify.com/track/1uANN3gRrtjSUd4qegchpK) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Cherry Blossom](https://open.spotify.com/album/3fshReYna7OJ7cl3Rn8h2W) | 2:25 |
 | 64 | [Overnight](https://open.spotify.com/track/3mVQUlrhWN5Z1i1HUhU8ZH) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Overnight](https://open.spotify.com/album/00lWTbQ4MQezqzl0S8M37D) | 3:37 |
-| 65 | [Try](https://open.spotify.com/track/2Q3uUxPpTKY4MjY5SRFSHK) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Try](https://open.spotify.com/album/6GPLPBLhIg3iluCRV84Pyj) | 3:05 |
-| 66 | [IT girl](https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [IT girl](https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG) | 2:33 |
+| 65 | [IT girl](https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [IT girl](https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG) | 2:33 |
+| 66 | [Try](https://open.spotify.com/track/2Q3uUxPpTKY4MjY5SRFSHK) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Try](https://open.spotify.com/album/6GPLPBLhIg3iluCRV84Pyj) | 3:05 |
 | 67 | [Change Your Mind](https://open.spotify.com/track/74age2cUBw5mdUhGGbAtiM) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga](https://open.spotify.com/album/6MUwfeWeo93ZO0WhDFmt6T) | 3:42 |
 | 68 | [Just Thought You Should Know](https://open.spotify.com/track/5wajXZbQJTcfU0DaMOViQ9) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/57YwDLyNeobBmbVfcOhLx4) | 3:23 |
 | 69 | [Revival](https://open.spotify.com/track/3y6R5ohBabcdmbvhr1P1xC) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:12 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 83 | [Angel Eyes](https://open.spotify.com/track/1JdYhrkBQViINQU3loztRr) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/4KTxUa5hNsGpT41XcdLicL) | 3:04 |
 | 84 | [Please](https://open.spotify.com/track/2mtjE61KBNeAeMFSm8O9Kp) | [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Please](https://open.spotify.com/album/41KVKULVd75hp1N3EVV3GA) | 3:00 |
 | 85 | [Taste](https://open.spotify.com/track/5CkKPWFVh0eTOXGYwmaqU2) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/57YwDLyNeobBmbVfcOhLx4) | 3:22 |
-| 86 | [Burn](https://open.spotify.com/track/1yvIUHWMU3UM8StH7I0Tlq) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Burn](https://open.spotify.com/album/6iAUobi1fcxy60buZZBiqK) | 2:19 |
-| 87 | [last night i dreamt i fell in love](https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [last night i dreamt i fell in love](https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA) | 2:06 |
+| 86 | [last night i dreamt i fell in love](https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [last night i dreamt i fell in love](https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA) | 2:06 |
+| 87 | [Burn](https://open.spotify.com/track/1yvIUHWMU3UM8StH7I0Tlq) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Burn](https://open.spotify.com/album/6iAUobi1fcxy60buZZBiqK) | 2:19 |
 | 88 | [Feel Right](https://open.spotify.com/track/5pyi5wDSHfdY3R5JQdngQ9) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK), [J Hart](https://open.spotify.com/artist/0CwAIKaq06Ep8gtTJ6zy0d) | [10 Ways to Steal Home Plate](https://open.spotify.com/album/2Pkt22VgdQpDrRroWw4AyA) | 3:15 |
 | 89 | [To The Wire](https://open.spotify.com/track/6n7iWKl8PTpHBFJkXz4LWV) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [To The Wire](https://open.spotify.com/album/02HMMz2rCvZK7wt53IpU6q) | 2:36 |
 | 90 | [Young \- From "Songland"](https://open.spotify.com/track/7nzxQacflIozCTLTiBl4JB) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Young \(From "Songland"\)](https://open.spotify.com/album/5gUfxcxbwFbKjXuz0Trknk) | 3:05 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 184 | [All My Life](https://open.spotify.com/track/15l0pOOpIL11xt2JoWKthY) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [With The Music I Die \(Deluxe\)](https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4) | 3:36 |
 | 185 | [Tonight](https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U) | 3:53 |
 
-Snapshot ID: `Ab0D8gAAAADtEnuCPs2MJpab1Ej8jI/L`
+Snapshot ID: `Ab0JkgAAAAAhCOvV7BSblH3mP4JFnb6t`

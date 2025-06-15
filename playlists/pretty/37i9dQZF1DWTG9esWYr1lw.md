@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG9esWYr1lw.md) - [plain]
 
 > Celebrate Ramadan with these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,830 likes - 39 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,833 likes - 39 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,6 +46,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG9esWYr1lw.md) - [plain]
 | 36 | [Ramadan](https://open.spotify.com/track/5wxOXYEcn0AZVvsHNH1OhM) | [Najwa Farouk](https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq) | [Ramadan](https://open.spotify.com/album/1bb3zUun6pqrtGwM738su4) | 3:27 |
 | 37 | [Alaao El Zeina](https://open.spotify.com/track/3x343iZggmgFa5RwuVyHAe) | [Mostafa Abo Rawash](https://open.spotify.com/artist/6KGdrIAxpV6UZ4Vp4yIVRl) | [Alaao El Zeina](https://open.spotify.com/album/0y3BAQ4UEf2xaOXYXKlSP9) | 4:22 |
 | 38 | [أهلًا رمضان](https://open.spotify.com/track/7nPBds7bQmLeC8CqSksHmF) | [احمد حسن الاقصري](https://open.spotify.com/artist/4sdjiZ9HCbk1FiQ8t28sjl) | [أهلًا رمضان](https://open.spotify.com/album/54rNuOoWBAJuMZybaNNBOm) | 4:40 |
-| 39 | [Ramadan](https://open.spotify.com/track/0K4qGuQZBDw31RhC5AMLyq) | [Mohamed Osama](https://open.spotify.com/artist/4NH8A2q0S9Pkx2t2J3a2Z7), [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [Ramadan](https://open.spotify.com/album/6nzjASwcyHuqrk8QA4gkJw) | 3:01 |
+| 39 | [رمضان يا رمضان](https://open.spotify.com/track/6JIQ7vzqjp13Jg4nMAAq56) | [ملاك فتحي](https://open.spotify.com/artist/6FPOKrx4O5blxUA1N0DFAX) | [رمضان يا رمضان](https://open.spotify.com/album/15pmMYAWBRP85J4oWMUpEq) | 2:40 |
 
 Snapshot ID: `Z8anWgAAAAA1jY03Gp75qw0fv3uVWobr`

@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 9030,
+  "num_followers": 9032,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAADEShkuylYWNxYFIhJdDtSU",
+  "snapshot_id": "aEtqAAAAAADTEilSN1m0dhXNb+FJj3g0",
   "tracks": [
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
         }
       ],
-      "duration_ms": 556525,
-      "name": "To Remain/To Return",
-      "url": "https://open.spotify.com/track/50gJubW06WlbN9zRqaSp6v"
+      "duration_ms": 879797,
+      "name": "Eyes Of The Endless",
+      "url": "https://open.spotify.com/track/0GZAb4y6jTKKdTIsRSvPKT"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
         }
       ],
-      "duration_ms": 879797,
-      "name": "Eyes Of The Endless",
-      "url": "https://open.spotify.com/track/0GZAb4y6jTKKdTIsRSvPKT"
+      "duration_ms": 556525,
+      "name": "To Remain/To Return",
+      "url": "https://open.spotify.com/track/50gJubW06WlbN9zRqaSp6v"
     },
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution (Remix)",
-        "url": "https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Qais Essar",
-          "url": "https://open.spotify.com/artist/15IBl7509ZIifHQ6IhYynD"
-        }
-      ],
-      "duration_ms": 635805,
-      "name": "Dil Jalaney Ki Baat",
-      "url": "https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Naja",
         "url": "https://open.spotify.com/album/7MpNznYeg3ZmWOphysV7BU"
       },
@@ -751,6 +731,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revolution (Remix)",
+        "url": "https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Qais Essar",
+          "url": "https://open.spotify.com/artist/15IBl7509ZIifHQ6IhYynD"
+        }
+      ],
+      "duration_ms": 635805,
+      "name": "Dil Jalaney Ki Baat",
+      "url": "https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tails Noir (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
       },
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 168565,
-      "name": "Coming Home, Pt. 2",
-      "url": "https://open.spotify.com/track/54c3SDfAFIhf5zYlFLH5iC"
+      "duration_ms": 245787,
+      "name": "Not Your Usual Night",
+      "url": "https://open.spotify.com/track/4GmOX4FuzC2lRAezV21V7G"
     },
     {
       "added_at": null,
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 245787,
-      "name": "Not Your Usual Night",
-      "url": "https://open.spotify.com/track/4GmOX4FuzC2lRAezV21V7G"
+      "duration_ms": 168565,
+      "name": "Coming Home, Pt. 2",
+      "url": "https://open.spotify.com/track/54c3SDfAFIhf5zYlFLH5iC"
     }
   ],
   "unique_name": "This Is Arooj Aftab",

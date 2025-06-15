@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,157,850 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,157,995 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 42 | [Time After Time](https://open.spotify.com/track/1ia5QkdJp7qGwpoaX9Hgmj) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [As Time Goes By...The Great American Songbook: Volume II](https://open.spotify.com/album/6YTypI5yRIIdixEV25ccgQ) | 2:59 |
 | 43 | [Squeeze Me](https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Only Trust Your Heart](https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC) | 5:37 |
 | 44 | [Something Cool \- Mono](https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Something Cool \(1955 Version\)](https://open.spotify.com/album/1GJeSeLhbyiOpsNNjndHLA) | 4:18 |
-| 45 | [Sweet Pea](https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc) | [The Hot Sardines](https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy) | [French Fries & Champagne](https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv) | 2:21 |
-| 46 | [I Belong to You](https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a) | [Emilia Mitiku](https://open.spotify.com/artist/65RLNrrTTS9ztKiuK0fZg2) | [I Belong To You](https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d) | 3:16 |
+| 45 | [I Belong to You](https://open.spotify.com/track/7FqvieB7KLTInMvfieRq5a) | [Emilia Mitiku](https://open.spotify.com/artist/65RLNrrTTS9ztKiuK0fZg2) | [I Belong To You](https://open.spotify.com/album/4abZmMGlhSgaf9SDL1m70d) | 3:16 |
+| 46 | [Sweet Pea](https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc) | [The Hot Sardines](https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy) | [French Fries & Champagne](https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv) | 2:21 |
 | 47 | [I've Got You Under My Skin](https://open.spotify.com/track/0uX23hwTV8jJYbb9Gejg9X) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Fly Me To The Moon...The Great American Songbook Volume V](https://open.spotify.com/album/1Qy7vORyImzsfU89puG4gV) | 3:50 |
 | 48 | [A Time For Love](https://open.spotify.com/track/6kkYQ0DI1ZMQyuqNGCcZ09) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Surrender](https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq) | 4:59 |
 | 49 | [Recipe For Love](https://open.spotify.com/track/1xe4IvNW94G8R4KCHrLUt6) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [We Are In Love](https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82) | 2:34 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 65 | [Luck Be A Lady](https://open.spotify.com/track/6WAoKqfh8CAqTbjiLkM4q1) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Standards](https://open.spotify.com/album/2Fd1KIL5aUNTl40H3OkOQi) | 4:35 |
 | 66 | [Someone To Watch Over Me](https://open.spotify.com/track/0pi49lNsPqbQJ814gCrxGt) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Best Of..\. The Great American Songbook \(Deluxe Edition\)](https://open.spotify.com/album/7sQ8DlLQXzBKX8Z9sZ3tNZ) | 3:32 |
 | 67 | [My Baby Just Cares for Me \- 2013 Remastered Version](https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 Remastered Version\)](https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7) | 3:35 |
-| 68 | [Perhaps](https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Big Band Classics](https://open.spotify.com/album/5eoOfLW71UCbeNNNzA9Pcm) | 2:29 |
-| 69 | [Turn Me On](https://open.spotify.com/track/6FjAGZp7c0Z2uaL3eHkXsx) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 2:34 |
+| 68 | [Turn Me On](https://open.spotify.com/track/6FjAGZp7c0Z2uaL3eHkXsx) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 2:34 |
+| 69 | [Perhaps](https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Big Band Classics](https://open.spotify.com/album/5eoOfLW71UCbeNNNzA9Pcm) | 2:29 |
 | 70 | [Baby I'm A Fool](https://open.spotify.com/track/7ilWEHob3AYG3lAJlKEpDR) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/0Qe8wdANNrf5PkP76qnXyN) | 3:31 |
 | 71 | [At Last \- Single Version](https://open.spotify.com/track/0CmIALzGn4vHIHJG4n3Q4z) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101) | 3:02 |
 | 72 | [A Kiss To Build A Dream On](https://open.spotify.com/track/5PLUw46m8RDInYpxf3ddID) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Best Of The Decca Years Volume One: The Singer](https://open.spotify.com/album/1Xa31VhfS5VtLsQ1LLa39k) | 3:02 |

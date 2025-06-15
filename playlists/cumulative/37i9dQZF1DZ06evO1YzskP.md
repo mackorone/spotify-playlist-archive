@@ -4,7 +4,7 @@
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-110 songs - 5 hr 23 min
+111 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Lo Que Hay X Aquí](https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Lo Que Hay X Aquí](https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN) | 2:38 | 2024-05-19 |  |
 | [Lo que hay x aquí](https://open.spotify.com/track/7zrsSimdPZxyPZ0D3nHIWz) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [La Receta, Jambao, G Sony \| Sin Miedo al Éxito \#2](https://open.spotify.com/album/7L1MfLpHzxgCAGUi0hgu6P) | 3:03 | 2025-05-10 |  |
 | [Los Ninis](https://open.spotify.com/track/0DUUXFwVBoM5oOx8MdJDia) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Pizza Está En El Horno](https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG) | 2:26 | 2024-02-29 | 2024-09-01 |
-| [Los Pasajes Del Sera](https://open.spotify.com/track/62FMTKHZSmPnTZrZJvPHMy) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr) | 2:43 | 2025-06-01 |  |
+| [Los Pasajes Del Sera](https://open.spotify.com/track/62FMTKHZSmPnTZrZJvPHMy) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr) | 2:43 | 2025-06-01 | 2025-06-15 |
 | [Los Pasajes Del Sera](https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:43 | 2024-01-29 | 2025-06-01 |
 | [Los Placeres De Archivaldo](https://open.spotify.com/track/27l55K6adgEeUssURt0FnS) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Pizza Está En El Horno](https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG) | 2:34 | 2024-01-29 | 2024-08-30 |
 | [Maclovio](https://open.spotify.com/track/4kEZP0nu8l78eoZhlkirfw) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Maclovio](https://open.spotify.com/album/2T6TgGuW2eYBaaaz1Zhgwa) | 3:37 | 2024-04-20 | 2024-05-13 |
@@ -90,6 +90,7 @@
 | [Mi más grande error](https://open.spotify.com/track/5g7ohfHLulYM39b6mkiURy) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Mi más grande error](https://open.spotify.com/album/5VavgMSlwoK93M5vSMJmDG) | 2:23 | 2025-03-16 |  |
 | [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/1SOpXCnJpfG7yO1cwX3OCt) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1) | 2:45 | 2025-05-31 |  |
 | [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/4ygqxH6686TXD7gcINcAFJ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp) | 2:45 | 2024-01-29 | 2025-05-31 |
+| [Mirar Que Te Vas](https://open.spotify.com/track/2VLNxTDw9navilDsX6nNhL) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Mirar Que Te Vas](https://open.spotify.com/album/5vGNBLsJMASajWHWu51RaN) | 4:07 | 2025-06-15 |  |
 | [Mónaco](https://open.spotify.com/track/3RNYklroWCjjHx2CjYRoEc) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp) | 3:03 | 2024-01-29 | 2024-03-31 |
 | [Nacimos Con Estrella](https://open.spotify.com/track/1r6wwBXpyDphJE8yXBJgOK) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Corridos Pa Mis Compas Y Rolitas Pa Mi Ex](https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU) | 3:46 | 2025-06-04 |  |
 | [Niña Bonita](https://open.spotify.com/track/6WtSS25sDT93CJsqENrgw4) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp) | 3:39 | 2024-01-29 | 2024-03-02 |

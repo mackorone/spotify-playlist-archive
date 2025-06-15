@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 
 > Tu banda sonora de este verano\. Foto: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,402 likes - 56 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,509 likes - 56 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 | 40 | [Da Me](https://open.spotify.com/track/4ppQIsBpwNRKjOPPBZTgd0) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Da Me](https://open.spotify.com/album/3G6VBoOpF7VtA6JwJxYdnv) | 2:25 |
 | 41 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 |
 | 42 | [SIN AUTOTUNE](https://open.spotify.com/track/2xkAMFdKwbFFfY5jMEhi42) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/16QJNLv3LHn3sz5CfmYX8Z) | 2:41 |
-| 43 | [KLK](https://open.spotify.com/track/3MJsu3EPgf2EFmzn4pVZYp) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [KLK](https://open.spotify.com/album/4imN7ZQVUp0Q5sZyV7mK23) | 3:19 |
-| 44 | [Korazong](https://open.spotify.com/track/43J20QsNeYhG23RcLHIGIn) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Korazong](https://open.spotify.com/album/1HVqPBOI5b3OTpbEqxvDUM) | 2:54 |
+| 43 | [Korazong](https://open.spotify.com/track/43J20QsNeYhG23RcLHIGIn) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Korazong](https://open.spotify.com/album/1HVqPBOI5b3OTpbEqxvDUM) | 2:54 |
+| 44 | [KLK](https://open.spotify.com/track/3MJsu3EPgf2EFmzn4pVZYp) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [KLK](https://open.spotify.com/album/4imN7ZQVUp0Q5sZyV7mK23) | 3:19 |
 | 45 | [La Historia](https://open.spotify.com/track/20RGQHWvqyyacpuxMBeLsZ) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [La Historia](https://open.spotify.com/album/4GFEbJYptlAq0R6GImm7oF) | 3:57 |
-| 46 | [noche de san juan](https://open.spotify.com/track/0OXUqgdMVTNGgV0LJ8irvP) | [Hey Kid](https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF) | [a nuevos lugares](https://open.spotify.com/album/62eRw5rCI0KwWWCiEX4tq4) | 2:41 |
-| 47 | [Sirenita](https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Sirenita](https://open.spotify.com/album/368kxIiTLbrhAzdIq48WnJ) | 2:49 |
+| 46 | [Sirenita](https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Sirenita](https://open.spotify.com/album/368kxIiTLbrhAzdIq48WnJ) | 2:49 |
+| 47 | [noche de san juan](https://open.spotify.com/track/0OXUqgdMVTNGgV0LJ8irvP) | [Hey Kid](https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF) | [a nuevos lugares](https://open.spotify.com/album/62eRw5rCI0KwWWCiEX4tq4) | 2:41 |
 | 48 | [Loco](https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Loco](https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI) | 3:51 |
 | 49 | [LA REINA](https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [LA REINA](https://open.spotify.com/album/2Fy0cyNtT6mpTVWtAAyfh4) | 2:30 |
 | 50 | [Latinamerica \(feat\. Vika\)](https://open.spotify.com/track/3b5hWg2x9MoVM7wjZ3qiY6) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl), [Jayie](https://open.spotify.com/artist/4yiUOYE4qfKINbGjeePqiG), [Vika](https://open.spotify.com/artist/4oJoVioxaLXaqrc9YTvKKu) | [Latinamerica \(feat\. Vika\)](https://open.spotify.com/album/2bHb66F60DMmKtFlmlkFJK) | 2:04 |

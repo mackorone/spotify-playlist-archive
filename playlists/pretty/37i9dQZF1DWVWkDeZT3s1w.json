@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 112106,
+  "num_followers": 112127,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Punchline City, Vol. 1",
-        "url": "https://open.spotify.com/album/4jUHNtwEvmKr4xjrJiMxSz"
-      },
-      "artists": [
-        {
-          "name": "Muelas De Gallo",
-          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
-        }
-      ],
-      "duration_ms": 76660,
-      "name": "NueveOnce",
-      "url": "https://open.spotify.com/track/091vECHhqk4LF0ztHw7fbt"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "La teor\u00eda de la evoluci\u00f3n",
         "url": "https://open.spotify.com/album/5vWUoxOP6KnDTYVENv4Kqy"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 173062,
       "name": "La teor\u00eda de la evoluci\u00f3n",
       "url": "https://open.spotify.com/track/23fBYz4RKFRmzvo2jnedTl"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Punchline City, Vol. 1",
+        "url": "https://open.spotify.com/album/4jUHNtwEvmKr4xjrJiMxSz"
+      },
+      "artists": [
+        {
+          "name": "Muelas De Gallo",
+          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
+        }
+      ],
+      "duration_ms": 76660,
+      "name": "NueveOnce",
+      "url": "https://open.spotify.com/track/091vECHhqk4LF0ztHw7fbt"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Relojito",
-        "url": "https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 144438,
-      "name": "Relojito",
-      "url": "https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "No Plastic",
         "url": "https://open.spotify.com/album/69j4gGoZImXXdjSp4jEAsL"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 225238,
       "name": "No Plastic",
       "url": "https://open.spotify.com/track/1uqCdusN5nAO9MXU01KuxO"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Relojito",
+        "url": "https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 144438,
+      "name": "Relojito",
+      "url": "https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1900,9 +1900,25 @@
           "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
         }
       ],
-      "duration_ms": 259578,
-      "name": "Cuando Vayas Conmigo",
-      "url": "https://open.spotify.com/track/1FPr4bsL5xaF4pRHoxvfJf"
+      "duration_ms": 199758,
+      "name": "Ma\u00f1ana Ser\u00e1 Otro D\u00eda",
+      "url": "https://open.spotify.com/track/0Ao7UyZ0IcKH9WQitKd0EL"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Dictamen",
+        "url": "https://open.spotify.com/album/4USKDqlbw79WXbr5KMbXEx"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        }
+      ],
+      "duration_ms": 194730,
+      "name": "Dictamen",
+      "url": "https://open.spotify.com/track/55J7TRa8LzJuW37RidTxJb"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1935,22 +1951,6 @@
       "duration_ms": 186044,
       "name": "Fe de Errata",
       "url": "https://open.spotify.com/track/5ABJNOBKeE7tNn5aOGXQ1R"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Dictamen",
-        "url": "https://open.spotify.com/album/4USKDqlbw79WXbr5KMbXEx"
-      },
-      "artists": [
-        {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
-        }
-      ],
-      "duration_ms": 194730,
-      "name": "Dictamen",
-      "url": "https://open.spotify.com/track/55J7TRa8LzJuW37RidTxJb"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -2012,9 +2012,9 @@
           "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
         }
       ],
-      "duration_ms": 199758,
-      "name": "Ma\u00f1ana Ser\u00e1 Otro D\u00eda",
-      "url": "https://open.spotify.com/track/0Ao7UyZ0IcKH9WQitKd0EL"
+      "duration_ms": 259578,
+      "name": "Cuando Vayas Conmigo",
+      "url": "https://open.spotify.com/track/1FPr4bsL5xaF4pRHoxvfJf"
     },
     {
       "added_at": "2025-05-23 06:00:30",

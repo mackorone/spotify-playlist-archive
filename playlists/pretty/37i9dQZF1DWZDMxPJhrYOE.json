@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105288,
+  "num_followers": 105292,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-06-12 22:00:49",
       "album": {
-        "name": "Headphones On",
-        "url": "https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 240308,
-      "name": "Headphones On",
-      "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
-    },
-    {
-      "added_at": "2025-06-12 22:00:49",
-      "album": {
         "name": "Man Of The Year",
         "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 180433,
       "name": "Man Of The Year",
       "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
+    },
+    {
+      "added_at": "2025-06-12 22:00:49",
+      "album": {
+        "name": "Fame is a Gun",
+        "url": "https://open.spotify.com/album/3SbgH2k3eJ6dPqAhbTBFzm"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 183237,
+      "name": "Fame is a Gun",
+      "url": "https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX"
     },
     {
       "added_at": "2025-06-12 22:00:49",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-06-12 22:00:49",
       "album": {
-        "name": "Fame is a Gun",
-        "url": "https://open.spotify.com/album/3SbgH2k3eJ6dPqAhbTBFzm"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 183237,
-      "name": "Fame is a Gun",
-      "url": "https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX"
-    },
-    {
-      "added_at": "2025-06-12 22:00:49",
-      "album": {
         "name": "Fancy That",
         "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 149666,
       "name": "Illegal",
       "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
+    },
+    {
+      "added_at": "2025-06-12 22:00:49",
+      "album": {
+        "name": "Headphones On",
+        "url": "https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 240308,
+      "name": "Headphones On",
+      "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
     },
     {
       "added_at": "2025-06-12 22:00:49",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-06-12 22:00:49",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 160111,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
-    },
-    {
-      "added_at": "2025-06-12 22:00:49",
-      "album": {
         "name": "TaTaTa (feat. Travis Scott)",
         "url": "https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5"
       },
@@ -663,6 +647,22 @@
     {
       "added_at": "2025-06-12 22:00:49",
       "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 160111,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
+    },
+    {
+      "added_at": "2025-06-12 22:00:49",
+      "album": {
         "name": "southbound / test drive",
         "url": "https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 137923,
       "name": "southbound",
       "url": "https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt"
+    },
+    {
+      "added_at": "2025-06-12 22:00:49",
+      "album": {
+        "name": "A Minute, A Moment...",
+        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
     },
     {
       "added_at": "2025-06-12 22:00:49",
@@ -695,18 +711,18 @@
     {
       "added_at": "2025-06-12 22:00:49",
       "album": {
-        "name": "A Minute, A Moment...",
-        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
+        "name": "Addison",
+        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
       },
       "artists": [
         {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
+      "duration_ms": 232597,
+      "name": "Times Like These",
+      "url": "https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB"
     },
     {
       "added_at": "2025-06-12 22:00:49",
@@ -767,18 +783,18 @@
     {
       "added_at": "2025-06-12 22:00:49",
       "album": {
-        "name": "Addison",
-        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
+        "name": "God Went Crazy",
+        "url": "https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls"
       },
       "artists": [
         {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 232597,
-      "name": "Times Like These",
-      "url": "https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB"
+      "duration_ms": 183034,
+      "name": "God Went Crazy",
+      "url": "https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr"
     },
     {
       "added_at": "2025-06-12 22:00:49",
@@ -871,22 +887,6 @@
     {
       "added_at": "2025-06-12 22:00:49",
       "album": {
-        "name": "God Went Crazy",
-        "url": "https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 183034,
-      "name": "God Went Crazy",
-      "url": "https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr"
-    },
-    {
-      "added_at": "2025-06-12 22:00:49",
-      "album": {
         "name": "Gucci Mane",
         "url": "https://open.spotify.com/album/6ixnfAvvM9Wdjb0hEPIUIW"
       },
@@ -899,22 +899,6 @@
       "duration_ms": 166955,
       "name": "Gucci Mane",
       "url": "https://open.spotify.com/track/4uK4BCS6H19pOAknY1qj0K"
-    },
-    {
-      "added_at": "2025-06-12 22:00:49",
-      "album": {
-        "name": "Bluebird",
-        "url": "https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 242584,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H"
     },
     {
       "added_at": "2025-06-12 22:00:49",
@@ -939,6 +923,22 @@
       "duration_ms": 215555,
       "name": "Save My Love (with Ellie Goulding & AVAION)",
       "url": "https://open.spotify.com/track/4w3Uy4n1hfj1mx6ag7bII5"
+    },
+    {
+      "added_at": "2025-06-12 22:00:49",
+      "album": {
+        "name": "Bluebird",
+        "url": "https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 242584,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H"
     },
     {
       "added_at": "2025-06-12 22:00:49",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-06-12 22:00:49",
       "album": {
-        "name": "En dr\u00f8m om et menneske",
-        "url": "https://open.spotify.com/album/5etPPW2saTnIg66emll6tp"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "En dr\u00f8m om et menneske",
-      "url": "https://open.spotify.com/track/2WwWecb8U1bvv0LiKXQUsF"
-    },
-    {
-      "added_at": "2025-06-12 22:00:49",
-      "album": {
         "name": "PRINCESS OF POWER",
         "url": "https://open.spotify.com/album/2rjfRdmVDBMFT5mamSsVeU"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 216356,
       "name": "I <3 YOU",
       "url": "https://open.spotify.com/track/7DNTmEFMARpxeSFY82wZiw"
+    },
+    {
+      "added_at": "2025-06-12 22:00:49",
+      "album": {
+        "name": "En dr\u00f8m om et menneske",
+        "url": "https://open.spotify.com/album/5etPPW2saTnIg66emll6tp"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "En dr\u00f8m om et menneske",
+      "url": "https://open.spotify.com/track/2WwWecb8U1bvv0LiKXQUsF"
     },
     {
       "added_at": "2025-06-12 22:00:49",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-06-12 22:00:49",
       "album": {
+        "name": "ALL IN",
+        "url": "https://open.spotify.com/album/193wg0lwoipCYBEneekEkv"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 136096,
+      "name": "ALL IN",
+      "url": "https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P"
+    },
+    {
+      "added_at": "2025-06-12 22:00:49",
+      "album": {
         "name": "Fools Gold",
         "url": "https://open.spotify.com/album/2jYLzXEZ5ki5itbFQhADAV"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 186843,
       "name": "kendt mig en uge",
       "url": "https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk"
-    },
-    {
-      "added_at": "2025-06-12 22:00:49",
-      "album": {
-        "name": "ALL IN",
-        "url": "https://open.spotify.com/album/193wg0lwoipCYBEneekEkv"
-      },
-      "artists": [
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 136096,
-      "name": "ALL IN",
-      "url": "https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P"
     },
     {
       "added_at": "2025-06-12 22:00:49",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2025-06-12 22:00:49",
       "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/4sh3Yk0ITqd0brs7mmFL1T"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 177543,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/1GRwEsNUPJ8iTUyeYy0YQM"
+    },
+    {
+      "added_at": "2025-06-12 22:00:49",
+      "album": {
         "name": "Rene Hjerter Vinder Altid",
         "url": "https://open.spotify.com/album/4MPDu8E05I0dsGCi8A73oM"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 184346,
       "name": "Ryggen Mod Muren",
       "url": "https://open.spotify.com/track/5kCbaKeAqsStnSE4QXsvTo"
-    },
-    {
-      "added_at": "2025-06-12 22:00:49",
-      "album": {
-        "name": "Love Language",
-        "url": "https://open.spotify.com/album/4sh3Yk0ITqd0brs7mmFL1T"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 177543,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/1GRwEsNUPJ8iTUyeYy0YQM"
     }
   ],
   "unique_name": "De nye",

@@ -1,6 +1,6 @@
 {
   "description": "Musica per sorridere, darti la carica e affrontare la giornata \u2728",
-  "num_followers": 332187,
+  "num_followers": 332199,
   "original_name": "Operazione Buonumore",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-05-09 08:11:46",
       "album": {
-        "name": "Follow You",
-        "url": "https://open.spotify.com/album/3xAcJuzZ9QQuMbuuViPOfE"
-      },
-      "artists": [
-        {
-          "name": "Noizy",
-          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
-        }
-      ],
-      "duration_ms": 164546,
-      "name": "Follow You",
-      "url": "https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc"
-    },
-    {
-      "added_at": "2025-05-09 08:11:46",
-      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 201173,
       "name": "Waiting On the World to Change",
       "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
+    },
+    {
+      "added_at": "2025-05-09 08:11:46",
+      "album": {
+        "name": "Follow You",
+        "url": "https://open.spotify.com/album/3xAcJuzZ9QQuMbuuViPOfE"
+      },
+      "artists": [
+        {
+          "name": "Noizy",
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
+        }
+      ],
+      "duration_ms": 164546,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc"
     },
     {
       "added_at": "2025-05-09 08:11:46",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-05-09 08:11:46",
       "album": {
-        "name": "Anyone",
-        "url": "https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 190779,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
-    },
-    {
-      "added_at": "2025-05-09 08:11:46",
-      "album": {
         "name": "Pet Sounds (Original Mono & Stereo Mix)",
         "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 153205,
       "name": "Wouldn't It Be Nice",
       "url": "https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK"
+    },
+    {
+      "added_at": "2025-05-09 08:11:46",
+      "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 190779,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
     },
     {
       "added_at": "2025-05-09 08:11:46",

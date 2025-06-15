@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: bartek turski
 
-481 songs - 23 hr 18 min
+482 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [MIAMI VICE](https://open.spotify.com/track/6cvLck4RJ9yABjPuSQrx6w) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [MIAMI VICE](https://open.spotify.com/album/5XBFcO4GD7rNxenfYE5ZoU) | 2:14 | 2024-06-28 | 2024-11-22 |
 | [Miałeś być](https://open.spotify.com/track/6VZZhPyAo9U7ZTBRXduWBH) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj), [PROJEKT WOW](https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms) | [Miałeś być](https://open.spotify.com/album/3CBHukc8YI5PSfaurN9JCS) | 2:57 | 2024-06-28 | 2024-09-14 |
 | [miejsce dla 2](https://open.spotify.com/track/5bOKRpuTYZDzXuTW2Vm8Yt) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [miejsce dla 2](https://open.spotify.com/album/7DuNGKkIAJLNx6tf6gxCJB) | 2:52 | 2025-05-29 | 2025-06-06 |
+| [milan](https://open.spotify.com/track/0Q3MUy24xMRgKQwWcVI7O7) | [zdunekk](https://open.spotify.com/artist/4HslOaTdnHIBXMAVlZQIOU), [Mercury](https://open.spotify.com/artist/65KzmKTmARM8EBVoxki2gn), [Kaki](https://open.spotify.com/artist/3wePHjo31t64qRMHBj7NnU), [Json](https://open.spotify.com/artist/5OTHI5apGJ4Zs2eloBI5Hz) | [milan](https://open.spotify.com/album/6rgLkElW01eehLuLRBmyXw) | 2:51 | 2025-06-05 |  |
 | [milczysz](https://open.spotify.com/track/2REKOuFQwvWRfycJB1Hfn1) | [Magda Drejka](https://open.spotify.com/artist/0pUTemal7XM7uGxiyphELo) | [milczysz](https://open.spotify.com/album/0q3TtiHKHnQvnDXhDRfRYI) | 2:17 | 2024-08-22 | 2025-01-24 |
 | [MILION](https://open.spotify.com/track/5F3tMkclVSZ3sYyhU9knBx) | [LIJA](https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5) | [MILION](https://open.spotify.com/album/2uMYW6xYTT6yQeCZorgoaD) | 2:57 | 2024-09-13 | 2025-01-24 |
 | [Miliony monet \(feat\. Wiktor Waligóra, Piotr Odoszewski & Kajetan Wolas\)](https://open.spotify.com/track/3u7NG0qKoxZPbdLiz2G6lp) | [PROJEKT WOW](https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms), [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj) | [Miliony monet \(feat\. Wiktor Waligóra, Piotr Odoszewski & Kajetan Wolas\)](https://open.spotify.com/album/3ZrD1SPVM3EUSqbUM9AgW0) | 2:52 | 2024-07-25 | 2024-11-08 |
@@ -393,7 +394,7 @@
 | [Syriusz Black](https://open.spotify.com/track/40H7zSUClxjh5Wz3IXiy8J) | [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [Syriusz Black](https://open.spotify.com/album/6XSYlXmWtXDhuDzNYB0JfF) | 2:58 | 2024-07-11 | 2024-09-28 |
 | [Szach i mat](https://open.spotify.com/track/5QJD59lfNELT6Lgv9S4KvV) | [Natalia Zastępa](https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno) | [Szach i mat](https://open.spotify.com/album/2W1QxAsVDF9EHlJfNsYPRh) | 2:40 | 2024-07-18 | 2024-12-21 |
 | [szczeniak](https://open.spotify.com/track/5o2lw4fkXIqa7DAEVOhoZL) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu) | [szczeniak](https://open.spotify.com/album/68aDKhVBwIXsX48odWmoe4) | 2:33 | 2024-09-13 | 2024-11-08 |
-| [szczęście](https://open.spotify.com/track/5GAEmJzxcoKZTJgFU8Yeem) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [loki](https://open.spotify.com/album/7JwSGQN2SSTvzr36iZQpK4) | 2:53 | 2025-06-05 |  |
+| [szczęście](https://open.spotify.com/track/5GAEmJzxcoKZTJgFU8Yeem) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [loki](https://open.spotify.com/album/7JwSGQN2SSTvzr36iZQpK4) | 2:53 | 2025-06-05 | 2025-06-15 |
 | [szczęście](https://open.spotify.com/track/6PS4lie3LKue3O6qKolntj) | [zimny gulasz](https://open.spotify.com/artist/2Wuh8XkH0Z4eDztmZdMXT9), [nocotyania](https://open.spotify.com/artist/5Gld6PqiwJc9phNIDoddOl) | [szczęście](https://open.spotify.com/album/6MF1Fy27vAuQfit5jpflJe) | 2:45 | 2024-09-19 | 2024-11-08 |
 | [Szczęśliwa Wina](https://open.spotify.com/track/5mpaSyASd5ev6RMfSqW4cR) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Szczęśliwa Wina](https://open.spotify.com/album/00MIiun6wtpS1KScwHB7aV) | 2:33 | 2024-06-28 | 2024-10-26 |
 | [Sznurówki](https://open.spotify.com/track/6uvauiQGYGVkcC8E5IQRWR) | [Leo Natan](https://open.spotify.com/artist/53y2orCJp8NRmbw1V0FGTo) | [Sznurówki](https://open.spotify.com/album/2Pg3iONs9qmM365Vw9qqsn) | 1:37 | 2025-03-06 | 2025-03-14 |

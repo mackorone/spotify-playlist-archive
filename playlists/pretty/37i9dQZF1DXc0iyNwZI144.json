@@ -1,6 +1,6 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1046078,
+  "num_followers": 1046038,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -323,26 +323,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Something Just Like This",
-        "url": "https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 247626,
-      "name": "Something Just Like This",
-      "url": "https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Tuesday (feat. Danelle Sandoval)",
         "url": "https://open.spotify.com/album/6TvNvQ8DNIFyOMMksmKVDB"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 241874,
       "name": "Tuesday (feat. Danelle Sandoval)",
       "url": "https://open.spotify.com/track/7EVk9tRb6beJLTHrg6AkY9"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Something Just Like This",
+        "url": "https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 247626,
+      "name": "Something Just Like This",
+      "url": "https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -659,22 +659,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Medley da Gaiola (DENNIS Remix)",
-        "url": "https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb"
+        "name": "S\u00f3 Voc\u00ea",
+        "url": "https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de"
       },
       "artists": [
         {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
           "name": "DENNIS",
           "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
         }
       ],
-      "duration_ms": 239999,
-      "name": "Medley da Gaiola - DENNIS Remix",
-      "url": "https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE"
+      "duration_ms": 161444,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -699,22 +699,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "S\u00f3 Voc\u00ea",
-        "url": "https://open.spotify.com/album/5HkCmKyKVNRpNspP9vM7de"
+        "name": "Medley da Gaiola (DENNIS Remix)",
+        "url": "https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb"
       },
       "artists": [
         {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
         },
         {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
         }
       ],
-      "duration_ms": 161444,
-      "name": "S\u00f3 Voc\u00ea",
-      "url": "https://open.spotify.com/track/4xc6RrWzEOdprPqYn9Cyen"
+      "duration_ms": 239999,
+      "name": "Medley da Gaiola - DENNIS Remix",
+      "url": "https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE"
     },
     {
       "added_at": "2024-11-15 03:00:00",

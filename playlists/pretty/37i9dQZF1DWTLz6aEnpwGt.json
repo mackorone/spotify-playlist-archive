@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 63394,
+  "num_followers": 63419,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
         }
       ],
-      "duration_ms": 236120,
-      "name": "Concerto No. 4 in A Major, BWV 1055: I. Allegro",
-      "url": "https://open.spotify.com/track/2N2x1MOKx4pYBU6GkNh1ks"
+      "duration_ms": 156760,
+      "name": "Concerto No. 3 in D Major, BWV 1054: III. Allegro",
+      "url": "https://open.spotify.com/track/0gjL01yP9onMlvU9yVeIOk"
     },
     {
       "added_at": "2025-01-24 04:00:20",
@@ -480,29 +480,9 @@
           "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
         }
       ],
-      "duration_ms": 156760,
-      "name": "Concerto No. 3 in D Major, BWV 1054: III. Allegro",
-      "url": "https://open.spotify.com/track/0gjL01yP9onMlvU9yVeIOk"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
-        "name": "Bach: French Suites, BWV 812-817",
-        "url": "https://open.spotify.com/album/0SGMw2I3lw6QosNHmq7UB2"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
-        }
-      ],
-      "duration_ms": 126602,
-      "name": "French Suite No. 3 in B minor, BWV 814: 6. Gigue",
-      "url": "https://open.spotify.com/track/40UUE6k3VzcLN9t5gtXO06"
+      "duration_ms": 236120,
+      "name": "Concerto No. 4 in A Major, BWV 1055: I. Allegro",
+      "url": "https://open.spotify.com/track/2N2x1MOKx4pYBU6GkNh1ks"
     },
     {
       "added_at": "2025-01-24 04:00:20",
@@ -531,6 +511,26 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
+        "name": "Bach: French Suites, BWV 812-817",
+        "url": "https://open.spotify.com/album/0SGMw2I3lw6QosNHmq7UB2"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "duration_ms": 126602,
+      "name": "French Suite No. 3 in B minor, BWV 814: 6. Gigue",
+      "url": "https://open.spotify.com/track/40UUE6k3VzcLN9t5gtXO06"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
         "name": "Bach: Choral \"Herr unser Herrscher\" from Johannes-Passion",
         "url": "https://open.spotify.com/album/0EsxGEFgKrnsvHwbzJWJ3G"
       },
@@ -547,26 +547,6 @@
       "duration_ms": 337666,
       "name": "Bach, JS: Johannes-Passion, BWV 245, Pt. 1: No. 1, Chor. \"Herr unser Herrscher\" (Transcr. Tharaud for Piano)",
       "url": "https://open.spotify.com/track/5ZVL5r6EqwWay1Rc2GlWOX"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
-        "name": "Bach: Goldberg Variations, BWV 988",
-        "url": "https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Beatrice Rana",
-          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
-        }
-      ],
-      "duration_ms": 143760,
-      "name": "Bach, JS: Goldberg Variations, BWV 988: Variation XXVIII",
-      "url": "https://open.spotify.com/track/5HnldeRy7Ki13Y3ybWcRsE"
     },
     {
       "added_at": "2025-01-24 04:00:20",
@@ -591,8 +571,8 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
-        "name": "Johann Sebastian Bach: The French Suites",
-        "url": "https://open.spotify.com/album/50Tp1V8zhhorvJmhWBVSY8"
+        "name": "Bach: Goldberg Variations, BWV 988",
+        "url": "https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb"
       },
       "artists": [
         {
@@ -600,13 +580,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Murray Perahia",
-          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+          "name": "Beatrice Rana",
+          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
         }
       ],
-      "duration_ms": 144280,
-      "name": "French Suite No. 4 in E-Flat Major, BWV 815: VII. Gigue",
-      "url": "https://open.spotify.com/track/6R0Snb8fZUpfmzX7jCvSfc"
+      "duration_ms": 143760,
+      "name": "Bach, JS: Goldberg Variations, BWV 988: Variation XXVIII",
+      "url": "https://open.spotify.com/track/5HnldeRy7Ki13Y3ybWcRsE"
     },
     {
       "added_at": "2025-01-24 04:00:20",
@@ -635,6 +615,26 @@
       "duration_ms": 184653,
       "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: I. \u2014",
       "url": "https://open.spotify.com/track/4AFBKPO6wT9zLHnSAQo4gf"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
+        "name": "Johann Sebastian Bach: The French Suites",
+        "url": "https://open.spotify.com/album/50Tp1V8zhhorvJmhWBVSY8"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "duration_ms": 144280,
+      "name": "French Suite No. 4 in E-Flat Major, BWV 815: VII. Gigue",
+      "url": "https://open.spotify.com/track/6R0Snb8fZUpfmzX7jCvSfc"
     },
     {
       "added_at": "2025-01-24 04:00:20",
@@ -747,26 +747,6 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
-        "name": "Bach, J.S.: Das Wohltemperierte Klavier I",
-        "url": "https://open.spotify.com/album/0FVPuKxHqRQ2jtmfdFHjI2"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Andr\u00e1s Schiff",
-          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "The Well-Tempered Clavier, Book 1: Prelude & Fugue No. 15 in G Major, BWV 860",
-      "url": "https://open.spotify.com/track/7GU7PgBdIvkPIhRGl4ghjp"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
         "name": "Bach: Keyboard Partitas Nos. 1-6",
         "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 679453,
       "name": "Partita No. 4 in D Major, BWV 828: II. Allemande",
       "url": "https://open.spotify.com/track/7yA4tm1x2ZqrxcARTUZjvA"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
+        "name": "Bach, J.S.: Das Wohltemperierte Klavier I",
+        "url": "https://open.spotify.com/album/0FVPuKxHqRQ2jtmfdFHjI2"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Andr\u00e1s Schiff",
+          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "The Well-Tempered Clavier, Book 1: Prelude & Fugue No. 15 in G Major, BWV 860",
+      "url": "https://open.spotify.com/track/7GU7PgBdIvkPIhRGl4ghjp"
     },
     {
       "added_at": "2025-01-24 04:00:20",

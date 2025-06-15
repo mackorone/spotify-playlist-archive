@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvCktKHpf5G.md) - [plain]
 
 > ¡Puro perreo intenso en la comodidad de tu habitación!
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,303 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,354 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,12 +57,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvCktKHpf5G.md) - [plain]
 | 47 | [MAMACITA](https://open.spotify.com/track/14wf185UxfNbSy8dwt4r4q) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [J\. Rey Soul](https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83) | [MAMACITA](https://open.spotify.com/album/39kXbkUjh0IIyoGBnlGX9V) | 4:09 |
 | 48 | [Ay, DiOs Mío!](https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Ay, DiOs Mío!](https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63) | 3:09 |
 | 49 | [Niña Bonita](https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Niña Bonita](https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB) | 3:07 |
-| 50 | [Fantasía](https://open.spotify.com/track/5PCIZcn6hKrMA8fmtRoX7Z) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Fantasía](https://open.spotify.com/album/2LbRBxToUXzFJjPMApnOAQ) | 2:29 |
-| 51 | [Reggaetonera](https://open.spotify.com/track/6yVkakCN460KOVol9ZazjH) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 3:32 |
-| 52 | [Tak Tiki Tak](https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Tak Tiki Tak](https://open.spotify.com/album/4wIHjb7IGSIwqvZbkZ8Fl8) | 3:32 |
-| 53 | [HABLAME CLARO](https://open.spotify.com/track/6ZCfGA0bPM50DPmcSlJKGY) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [HABLAME CLARO](https://open.spotify.com/album/2uAs0cfev3WKGaotTsREhI) | 2:34 |
-| 54 | [Panas](https://open.spotify.com/track/1ce0KvZOhRL0O6x1YYQPS8) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Panas](https://open.spotify.com/album/5HETiPl8SfoMxsQLRFoI1C) | 4:07 |
-| 55 | [Marte](https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:38 |
+| 50 | [Reggaetonera](https://open.spotify.com/track/6yVkakCN460KOVol9ZazjH) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 3:32 |
+| 51 | [Tak Tiki Tak](https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Tak Tiki Tak](https://open.spotify.com/album/4wIHjb7IGSIwqvZbkZ8Fl8) | 3:32 |
+| 52 | [HABLAME CLARO](https://open.spotify.com/track/6ZCfGA0bPM50DPmcSlJKGY) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [HABLAME CLARO](https://open.spotify.com/album/2uAs0cfev3WKGaotTsREhI) | 2:34 |
+| 53 | [Fantasía](https://open.spotify.com/track/5PCIZcn6hKrMA8fmtRoX7Z) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Fantasía](https://open.spotify.com/album/2LbRBxToUXzFJjPMApnOAQ) | 2:29 |
+| 54 | [Marte](https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:38 |
+| 55 | [Panas](https://open.spotify.com/track/1ce0KvZOhRL0O6x1YYQPS8) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Panas](https://open.spotify.com/album/5HETiPl8SfoMxsQLRFoI1C) | 4:07 |
 | 56 | [Caramelo](https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Caramelo](https://open.spotify.com/album/6HZe6aICWesZsze5OKlvMD) | 3:37 |
 | 57 | [Reloj](https://open.spotify.com/track/7r9ZhitdQBONTFOiJW5mr8) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Reloj](https://open.spotify.com/album/56vYUqyoaBCrokFauIuXIk) | 3:51 |
 | 58 | [La Tóxica](https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La Tóxica](https://open.spotify.com/album/1R0ocprmeDu8ZkZn29xYFx) | 3:00 |

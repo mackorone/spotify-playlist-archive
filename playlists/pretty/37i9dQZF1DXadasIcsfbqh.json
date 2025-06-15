@@ -1,6 +1,6 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Josh Ross and Akon",
-  "num_followers": 228110,
+  "num_followers": 228203,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-05-30 04:00:29",
       "album": {
-        "name": "Stop Draggin' Your Boots",
-        "url": "https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP"
-      },
-      "artists": [
-        {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
-        }
-      ],
-      "duration_ms": 164347,
-      "name": "Stop Draggin' Your Boots",
-      "url": "https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT"
-    },
-    {
-      "added_at": "2025-05-30 04:00:29",
-      "album": {
         "name": "Glad You Exist",
         "url": "https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 144533,
       "name": "Glad You Exist",
       "url": "https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY"
+    },
+    {
+      "added_at": "2025-05-30 04:00:29",
+      "album": {
+        "name": "Stop Draggin' Your Boots",
+        "url": "https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "duration_ms": 164347,
+      "name": "Stop Draggin' Your Boots",
+      "url": "https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT"
     },
     {
       "added_at": "2025-05-30 04:00:29",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2025-05-30 04:00:29",
       "album": {
-        "name": "I'm Movin' On",
-        "url": "https://open.spotify.com/album/7FQLBkD3mdfh2UiLzhvNnN"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        },
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "I\u2019m Movin\u2019 On",
-      "url": "https://open.spotify.com/track/53IX4MOIyOZQnKy6a3JnaX"
-    },
-    {
-      "added_at": "2025-05-30 04:00:29",
-      "album": {
         "name": "Want This Beer (Feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/1HM1VgJl9i35DVwlepdTd8"
       },
@@ -1503,22 +1483,22 @@
     {
       "added_at": "2025-05-30 04:00:29",
       "album": {
-        "name": "Hurt (with Jelly Roll)",
-        "url": "https://open.spotify.com/album/5osyX2S0SzifrsmFORqUY3"
+        "name": "I'm Movin' On",
+        "url": "https://open.spotify.com/album/7FQLBkD3mdfh2UiLzhvNnN"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
         },
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 156813,
-      "name": "Hurt (with Jelly Roll)",
-      "url": "https://open.spotify.com/track/1l0na60FJ6nH6tSajSQQs3"
+      "duration_ms": 224466,
+      "name": "I\u2019m Movin\u2019 On",
+      "url": "https://open.spotify.com/track/53IX4MOIyOZQnKy6a3JnaX"
     },
     {
       "added_at": "2025-05-30 04:00:29",
@@ -1559,22 +1539,22 @@
     {
       "added_at": "2025-05-30 04:00:29",
       "album": {
-        "name": "Good Beer",
-        "url": "https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q"
+        "name": "Hurt (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/5osyX2S0SzifrsmFORqUY3"
       },
       "artists": [
         {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         },
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 174111,
-      "name": "Good Beer",
-      "url": "https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct"
+      "duration_ms": 156813,
+      "name": "Hurt (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/1l0na60FJ6nH6tSajSQQs3"
     },
     {
       "added_at": "2025-05-30 04:00:29",
@@ -1591,6 +1571,26 @@
       "duration_ms": 177313,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d"
+    },
+    {
+      "added_at": "2025-05-30 04:00:29",
+      "album": {
+        "name": "Good Beer",
+        "url": "https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q"
+      },
+      "artists": [
+        {
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        },
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 174111,
+      "name": "Good Beer",
+      "url": "https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct"
     },
     {
       "added_at": "2025-05-30 04:00:29",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2025-05-30 04:00:29",
       "album": {
-        "name": "Play Responsibly",
-        "url": "https://open.spotify.com/album/5NZwNMoH9QxJr6g7f090Ia"
-      },
-      "artists": [
-        {
-          "name": "Ashley Kutcher",
-          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
-        }
-      ],
-      "duration_ms": 181688,
-      "name": "Plot Twist",
-      "url": "https://open.spotify.com/track/25fIiL4WV2XKkuADOot9sA"
-    },
-    {
-      "added_at": "2025-05-30 04:00:29",
-      "album": {
         "name": "Bigger Houses",
         "url": "https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 200346,
       "name": "Save Me The Trouble",
       "url": "https://open.spotify.com/track/1mbGClliIFnN06tuMdnkZn"
+    },
+    {
+      "added_at": "2025-05-30 04:00:29",
+      "album": {
+        "name": "Play Responsibly",
+        "url": "https://open.spotify.com/album/5NZwNMoH9QxJr6g7f090Ia"
+      },
+      "artists": [
+        {
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
+        }
+      ],
+      "duration_ms": 181688,
+      "name": "Plot Twist",
+      "url": "https://open.spotify.com/track/25fIiL4WV2XKkuADOot9sA"
     },
     {
       "added_at": "2025-05-30 04:00:29",

@@ -1,6 +1,6 @@
 {
   "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd?si=xTawaEKWRe-HwJGDcj_IRw\">Tommy W\u00c1</a>",
-  "num_followers": 12832,
+  "num_followers": 12835,
   "original_name": "Indie GO",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-06-12 22:00:47",
       "album": {
+        "name": "Send It Back",
+        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 173112,
+      "name": "Send It Back",
+      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
+    },
+    {
+      "added_at": "2025-06-12 22:00:47",
+      "album": {
         "name": "Learn To Let You Go",
         "url": "https://open.spotify.com/album/0nGDoN9CsbIWbvDxA1b9ew"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 191166,
       "name": "Learn To Let You Go",
       "url": "https://open.spotify.com/track/2NtP0dLpEhB6VVfMJuo9ib"
-    },
-    {
-      "added_at": "2025-06-12 22:00:47",
-      "album": {
-        "name": "Send It Back",
-        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 173112,
-      "name": "Send It Back",
-      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
     },
     {
       "added_at": "2025-06-12 22:00:47",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-06-12 22:00:47",
       "album": {
-        "name": "Tomorrow is Perfect",
-        "url": "https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq"
-      },
-      "artists": [
-        {
-          "name": "mark william lewis",
-          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
-        }
-      ],
-      "duration_ms": 381560,
-      "name": "Tomorrow is Perfect",
-      "url": "https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC"
-    },
-    {
-      "added_at": "2025-06-12 22:00:47",
-      "album": {
         "name": "Weight",
         "url": "https://open.spotify.com/album/378aYaLsxI1Dk1bb4RhbH6"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 191768,
       "name": "Weight",
       "url": "https://open.spotify.com/track/3li8bYr29vc2Md6QvKrmra"
+    },
+    {
+      "added_at": "2025-06-12 22:00:47",
+      "album": {
+        "name": "Tomorrow is Perfect",
+        "url": "https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "duration_ms": 381560,
+      "name": "Tomorrow is Perfect",
+      "url": "https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC"
     },
     {
       "added_at": "2025-06-12 22:00:47",

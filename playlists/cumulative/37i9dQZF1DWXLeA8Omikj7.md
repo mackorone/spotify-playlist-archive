@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,081 songs - 3 day 6 hr 5 min
+1,082 songs - 3 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -958,7 +958,7 @@
 | [The Secret Garden](https://open.spotify.com/track/0t2NFrMc8tN7ILhForVafb) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Mrs Jynx](https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q) | [The Secret Garden](https://open.spotify.com/album/5mihlvzwZlyOSyMN2dpqsl) | 4:41 | 2021-09-10 | 2022-06-19 |
 | [The Shimmering](https://open.spotify.com/track/5uKZdIleAR6OH7KNAnZNp4) | [Austeria](https://open.spotify.com/artist/6nImttseHjHeRnSY68rFBj) | [The Shimmering](https://open.spotify.com/album/406awJt91WNjFqcFDxQgwN) | 2:42 | 2019-07-25 | 2020-10-21 |
 | [The Sleepless Year](https://open.spotify.com/track/5t0jTvSNwQM0kfS1eO488I) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [The Sleepless Year](https://open.spotify.com/album/3hg6UzKtDTVWQBiqAKPyQV) | 3:55 | 2024-11-15 |  |
-| [The Truth \- Edit](https://open.spotify.com/track/4yonDFTtjygYjF0INMHhpc) | [Designer Music](https://open.spotify.com/artist/0WrAHb2ULSwmwPig9ZOg9v), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [The Truth \(Edit\)](https://open.spotify.com/album/1AckFqlTl0MrhfHsJrIYtm) | 5:27 | 2025-05-30 |  |
+| [The Truth \- Edit](https://open.spotify.com/track/4yonDFTtjygYjF0INMHhpc) | [Designer Music](https://open.spotify.com/artist/0WrAHb2ULSwmwPig9ZOg9v), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [The Truth \(Edit\)](https://open.spotify.com/album/1AckFqlTl0MrhfHsJrIYtm) | 5:27 | 2025-05-30 | 2025-06-15 |
 | [The Visitor](https://open.spotify.com/track/6cpOIIgk3nZ30imud87dGK) | [Mad Zach](https://open.spotify.com/artist/1RxjZjOSbva0JR7T2LsRve) | [The Visitor](https://open.spotify.com/album/6DRui3Vpj3UrFYAdwwxpma) | 5:21 | 2019-06-19\* | 2022-04-17 |
 | [The Warehouse](https://open.spotify.com/track/6cofOcVh37qyVEuBBVd6Wi) | [The M Machine](https://open.spotify.com/artist/62rW7FjQy7clhBDHuumg22) | [Glare](https://open.spotify.com/album/7sQt3KcCaK8Xky9F1oatJn) | 2:26 | 2019-05-26\* |  |
 | [The Wave \- Radio Edit](https://open.spotify.com/track/26psGKOS3wq1K4D1aqGLd3) | [Good Lee](https://open.spotify.com/artist/5yOhJjcBmxlZxXI4clQqPM) | [The Wave](https://open.spotify.com/album/0t8Eyq5An1RO8s2sveygQy) | 4:05 | 2021-05-09 | 2022-07-28 |
@@ -1018,6 +1018,7 @@
 | [Upside Down](https://open.spotify.com/track/7GXO38sbsOtZcL4C2HCEMa) | [Sickly](https://open.spotify.com/artist/3k24mdavtODXKeri9H3225) | [Upside Down](https://open.spotify.com/album/6vKbYd6hDaD4Zfbtc7dytA) | 2:48 | 2019-06-19\* | 2020-10-22 |
 | [Utica](https://open.spotify.com/track/59hbIFjDvlLvODQHpOFMr2) | [Heathered Pearls](https://open.spotify.com/artist/1o949goAYc4vD4IqN0zhVV) | [Cast](https://open.spotify.com/album/30sesh6c0bgrUUBlPxlS16) | 1:57 | 2020-11-13 | 2022-06-30 |
 | [Vanishing](https://open.spotify.com/track/00UgFIO4qgu7i6DSC8AWhf) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Progressions](https://open.spotify.com/album/0tDBNxkzpitmbuLemjpwdi) | 1:16 | 2020-08-26 |  |
+| [Variation Five](https://open.spotify.com/track/4dXPHKmHGOPuBuFkpxYCGi) | [Space Dimension Controller](https://open.spotify.com/artist/7rZjYMRC5pTV089WKn1Y4s) | [Six Beginnings](https://open.spotify.com/album/7b5SFbdLZVjRM2pqlhaI6I) | 4:50 | 2025-06-13 |  |
 | [Vast \- ANNA Remix](https://open.spotify.com/track/3rES34MzcM8hnKW9y2EzpH) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Vast \(ANNA Remix\)](https://open.spotify.com/album/0m4Z3Ku62Qd4NkQCvSeRiD) | 3:26 | 2023-07-28 |  |
 | [Velluto](https://open.spotify.com/track/0RQ0QSEuVZJkW4Sr48vW9p) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Magda](https://open.spotify.com/album/5VDhlo398SCiqC5XSoPUDl) | 8:42 | 2024-01-19 | 2024-04-19 |
 | [Vespa](https://open.spotify.com/track/7drMbzUHSJwsjdenHMDMrK) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 1:26 | 2019-06-19\* | 2020-08-26 |

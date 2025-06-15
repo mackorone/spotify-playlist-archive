@@ -4,7 +4,7 @@
 
 > Unwind and let the afternoon unfold.
 
-216 songs - 13 hr 43 min
+217 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Amsterdam \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4muAGMNipTEtIoYfMa9QL0) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/774yLThHwXXqrrH2bgF912) | 3:13 | 2021-09-02 | 2025-01-02 |
 | [Barbaro](https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg) | [Barbaro](https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq) | [Dressed in Roses](https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG) | 3:26 | 2021-09-02 |  |
 | [Belly of the Beast](https://open.spotify.com/track/4lPlgjFGA1VGdXJw5DlGzC) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK) | 4:11 | 2021-09-02 |  |
-| [Blind in the Fray](https://open.spotify.com/track/4sWnVeKwH6Aftzk5HZi4d1) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Blind in the Fray](https://open.spotify.com/album/0QuFRJgVH31Dw9lG3kOvv0) | 3:32 | 2021-09-02 |  |
+| [Blind in the Fray](https://open.spotify.com/track/4sWnVeKwH6Aftzk5HZi4d1) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Blind in the Fray](https://open.spotify.com/album/0QuFRJgVH31Dw9lG3kOvv0) | 3:32 | 2021-09-02 | 2025-06-15 |
 | [Blind in the Fray](https://open.spotify.com/track/6SjG7HZ8R5jnz6HOdxIFS0) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX) | 3:33 | 2021-09-02 | 2024-04-19 |
 | [Bloom \- Bonus Track](https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:30 | 2021-09-02 | 2024-04-19 |
 | [Bloom \- Bonus Track](https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:30 | 2021-09-02 |  |
@@ -77,7 +77,7 @@
 | [Hate the Way You Love Me](https://open.spotify.com/track/4SEgyVuHzincvWDvypjasT) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Beulah](https://open.spotify.com/album/30TiWcFsV6As1N6d6L8wJ0) | 4:03 | 2021-09-02 | 2025-06-04 |
 | [Heartbeats](https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imperial Recordings Best Of](https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV) | 2:40 | 2021-09-02 |  |
 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 | 2021-09-02 | 2024-04-19 |
-| [Hold On](https://open.spotify.com/track/6AtwUZAzqw6vHenJ5rCX4E) | [Wildwood Kin](https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B) | [Salt of the Earth](https://open.spotify.com/album/5wyNew5WajlEnFujeOJkvY) | 4:03 | 2023-06-30 | 2025-05-21 |
+| [Hold On](https://open.spotify.com/track/6AtwUZAzqw6vHenJ5rCX4E) | [Wildwood Kin](https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B) | [Salt of the Earth](https://open.spotify.com/album/5wyNew5WajlEnFujeOJkvY) | 4:03 | 2023-06-30 |  |
 | [Hold Your Head Up High](https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Hold Your Head Up High](https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J) | 3:37 | 2021-09-02 |  |
 | [Hometown](https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:00 | 2021-09-02 |  |
 | [I Forget Myself](https://open.spotify.com/track/75zcToiQTLgeIr0dGiRJXE) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Tourism](https://open.spotify.com/album/7G07UTNS6qqiu7c5cz7jcj) | 3:32 | 2021-09-02 | 2025-01-20 |
@@ -116,6 +116,7 @@
 | [Mess Is Mine](https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:43 | 2021-09-02 |  |
 | [Middle Of My Mind](https://open.spotify.com/track/5RSQUFoAIg75ZQKP5zyT8i) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [The Pleasant Trees \(Volume 2\)](https://open.spotify.com/album/7njexd4MXzmW0tXn0GK5EW) | 2:44 | 2021-09-02 | 2024-02-22 |
 | [Middle Of My Mind](https://open.spotify.com/track/6bhR3uY6YJEJhpC3Z05nde) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [The Pleasant Trees \(Volume 2\)](https://open.spotify.com/album/5TFHTDAe9WTaiZFHhDhnJd) | 2:44 | 2023-06-30 | 2024-04-19 |
+| [Middle Of My Mind](https://open.spotify.com/track/7i1pYqURiICjq6e19JZt2k) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [The Pleasant Trees \(Volume 2\)](https://open.spotify.com/album/0lVS09Yt50PcTQiT7uSJhy) | 2:44 | 2024-08-23 |  |
 | [Motel](https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:04 | 2021-09-02 |  |
 | [Mountain Falls for the Sea](https://open.spotify.com/track/0LMquqGldfJIP3GCCw3jxd) | [Findlay Brown](https://open.spotify.com/artist/5SxW5qi5l3VJnO0qzsI8Rs) | [Slow Light](https://open.spotify.com/album/6Sr6Py57eoZHhY4hYcJ67B) | 3:07 | 2021-09-02 | 2022-11-13 |
 | [Mountain Falls for the Sea](https://open.spotify.com/track/7oRtHBBKdsl4XLQBWjWDDW) | [Findlay Brown](https://open.spotify.com/artist/5SxW5qi5l3VJnO0qzsI8Rs) | [Slow Light](https://open.spotify.com/album/3p1LmtNY1xMmPqmNMdhly8) | 3:07 | 2021-09-02 | 2022-07-29 |
@@ -127,7 +128,7 @@
 | [Not a Number](https://open.spotify.com/track/3BZj98tFgveomZpZVboqRs) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Not a Number](https://open.spotify.com/album/0WGIz8CnFlGnFRgQU5c0xT) | 3:32 | 2021-09-02 |  |
 | [Nothing Arrived \- Live from Spotify London](https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Spotify Sessions](https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W) | 3:39 | 2021-09-02 | 2024-04-19 |
 | [Nothing Arrived \- Live from Spotify London](https://open.spotify.com/track/4JKHACLkotsxdKNF9vJYOS) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Spotify Sessions](https://open.spotify.com/album/378rFsWTa7DZ8nZVHSaA18) | 3:39 | 2021-09-02 |  |
-| [Nothing Else](https://open.spotify.com/track/33ZjZqqFuGRTPjNVqO0h8o) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/19KbCZVQpfC3eyD4Db3Vrq) | 4:24 | 2021-09-02 |  |
+| [Nothing Else](https://open.spotify.com/track/33ZjZqqFuGRTPjNVqO0h8o) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/19KbCZVQpfC3eyD4Db3Vrq) | 4:24 | 2021-09-02 | 2025-06-15 |
 | [Nothing Else](https://open.spotify.com/track/5NEitA75GDKDOET1k83LQw) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:24 | 2021-09-02 | 2024-04-19 |
 | [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 | 2021-09-02 |  |
 | [On the Frame \(Acoustic\)](https://open.spotify.com/track/2UyZLb4rxCgXaFI9wsxsGs) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of B\-Sides](https://open.spotify.com/album/4uENKN2umJ1TGfOZ4NIEVs) | 3:04 | 2021-09-02 | 2024-04-19 |

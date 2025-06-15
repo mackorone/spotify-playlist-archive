@@ -1775,6 +1775,28 @@
     },
     {
       "album": {
+        "name": "Cruising",
+        "url": "https://open.spotify.com/album/7hHG6zYh72UExmjlXmVAHr"
+      },
+      "artists": [
+        {
+          "name": "eun",
+          "url": "https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r"
+        },
+        {
+          "name": "SMTHNGOOD",
+          "url": "https://open.spotify.com/artist/6UwT4pDjGSlegunFtmCPcf"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Cruising",
+      "url": "https://open.spotify.com/track/11bQjIYHyRsmnYLb7VvfHZ"
+    },
+    {
+      "album": {
         "name": "Cruize",
         "url": "https://open.spotify.com/album/2bew9784OB2atUJHZEfEZr"
       },
@@ -2558,7 +2580,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 116470,
       "name": "dust to dust",
       "url": "https://open.spotify.com/track/1OCJ2bc1RpuJJQMS2fHXkh"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,526 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,637 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 31 | [Comunicação Falhou \- Ao Vivo](https://open.spotify.com/track/55L3RVujZtkR96JIEgTbQg) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Comunicação Falhou \(Ao Vivo\)](https://open.spotify.com/album/6Dlff39auFLb9esJgg5Fgm) | 3:00 |
 | 32 | [Me Usa \- Ao Vivo](https://open.spotify.com/track/6a382HNK01vxXOucIrXMZ3) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox), [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Me Usa \(Ao Vivo\)](https://open.spotify.com/album/6ojZbzLsAtBkFhRXdGslYl) | 2:46 |
 | 33 | [Cabeça Branca](https://open.spotify.com/track/5zswDNRhJSXuvhJXJGQTFK) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [O Pai Das Crianças \(Part\. 1\)](https://open.spotify.com/album/7Dv7PY99nacoKmLbNdVzJu) | 2:27 |
-| 34 | [Você Me Conquistou](https://open.spotify.com/track/00SFicbFKGIT0ONRRD79Uw) | [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH), [Ytalo Paulo](https://open.spotify.com/artist/1HBCU4PyKgKz6nFTuFyMbA), [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Você Me Conquistou](https://open.spotify.com/album/2A8fVvBedsIsoXtzdi3pfx) | 3:08 |
+| 34 | [Pisadinha \- Ao Vivo](https://open.spotify.com/track/36P6ptTyxOggYgR2aoZiAl) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Pisadinha \(Ao Vivo\)](https://open.spotify.com/album/2Ir3JLRBTe6UNagIu9CsYV) | 2:38 |
 | 35 | [Inquilina \- Ao Vivo](https://open.spotify.com/track/0XwpOHWnRid52uc7IHSAot) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Xperience Na Praia \(ao Vivo\)](https://open.spotify.com/album/04wtAfOnYEQvi7i6Iu9tA5) | 4:05 |
-| 36 | [Pisadinha \- Ao Vivo](https://open.spotify.com/track/36P6ptTyxOggYgR2aoZiAl) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Pisadinha \(Ao Vivo\)](https://open.spotify.com/album/2Ir3JLRBTe6UNagIu9CsYV) | 2:38 |
+| 36 | [Você Me Conquistou](https://open.spotify.com/track/00SFicbFKGIT0ONRRD79Uw) | [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH), [Ytalo Paulo](https://open.spotify.com/artist/1HBCU4PyKgKz6nFTuFyMbA), [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Você Me Conquistou](https://open.spotify.com/album/2A8fVvBedsIsoXtzdi3pfx) | 3:08 |
 | 37 | [Nem Vá](https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Nem Vá](https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9) | 2:39 |
 | 38 | [Storiezin](https://open.spotify.com/track/1h6a1gcgHa4hg09xEmue3V) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Storiezin](https://open.spotify.com/album/0JAqfnn7bGnuh6siVnog8t) | 2:18 |
 | 39 | [Quem Me Dera](https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Quem Me Dera](https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7) | 2:27 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 56 | [Cafézin de Vó \- Ao Vivo](https://open.spotify.com/track/1BCn0dTxjdd4IWDLBFIX6V) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Cafézin de Vó \(Ao Vivo\)](https://open.spotify.com/album/71WPmaIdErmdczERbxFDRp) | 2:43 |
 | 57 | [Mó Viagem](https://open.spotify.com/track/3PXgzJ6ixRKkjokWjVOnoR) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Mó Viagem](https://open.spotify.com/album/4VngkaHZ61v5wbjEsNAY3W) | 3:17 |
 | 58 | [Os Boys Amam O Ex Chora](https://open.spotify.com/track/2o8MYdtYZYidgpe9oIGIcy) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Os Boys Amam O Ex Chora](https://open.spotify.com/album/1yvxWiONM8RYM6sqxPGBrr) | 2:33 |
-| 59 | [Vem Me Amar](https://open.spotify.com/track/0UavwCicOnQwMuh67yaxM3) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Vem Me Amar](https://open.spotify.com/album/2NWNzo6YT0Z5FXQaFhTRuB) | 2:35 |
+| 59 | [Saudade de Mim](https://open.spotify.com/track/2ncNchvQqM2yCtQOq5rkyr) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Saudade de Mim](https://open.spotify.com/album/0Z8ecnJEt7Bv4DjVLUUmlr) | 3:01 |
 | 60 | [Um Degrau na Escada \- Ao Vivo](https://open.spotify.com/track/49h9lUseWMnzyU0W8E40mP) | [Calcinha Preta](https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [CP 25 Anos, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2aBcsCLnWCf002QuBJok53) | 4:11 |
 
 Snapshot ID: `Z+YuAgAAAABtEMXs1ZR3VN6wGLgi5Bdk`

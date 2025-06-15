@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 46595,
+  "num_followers": 46601,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "Ellis In Wonderland",
+        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
+      },
+      "artists": [
+        {
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+        }
+      ],
+      "duration_ms": 224320,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "Anita O'Day And The Three Sounds",
         "url": "https://open.spotify.com/album/7FocJoTkE5a9i9ngXe4xCX"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 176840,
       "name": "Whisper Not",
       "url": "https://open.spotify.com/track/79C7NxcxlBEJcyGHGy6ZMD"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Ellis In Wonderland",
-        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
-      },
-      "artists": [
-        {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
-        }
-      ],
-      "duration_ms": 224320,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -483,22 +483,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 154306,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/0mcL5G9Bf8SSzqpuQQm1bI"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Ellis In Wonderland",
         "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 395293,
       "name": "Las Vegas Tango",
       "url": "https://open.spotify.com/track/1IEbtXrHgN37lTQi9Byx6g"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 154306,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/0mcL5G9Bf8SSzqpuQQm1bI"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -605,22 +605,6 @@
       "url": "https://open.spotify.com/track/5Omijj1Iu3rbEADHsGSpKe"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Very Best Of Jeff Lorber",
-        "url": "https://open.spotify.com/album/1Dja6xdLXw5w6EjvEdKLDg"
-      },
-      "artists": [
-        {
-          "name": "Jeff Lorber",
-          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
-        }
-      ],
-      "duration_ms": 262146,
-      "name": "Reverend Green",
-      "url": "https://open.spotify.com/track/58u2WAEAtgOeWSTeTRAPIW"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "River: The Joni Letters (Expanded Edition)",
@@ -639,6 +623,22 @@
       "duration_ms": 324960,
       "name": "River",
       "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Very Best Of Jeff Lorber",
+        "url": "https://open.spotify.com/album/1Dja6xdLXw5w6EjvEdKLDg"
+      },
+      "artists": [
+        {
+          "name": "Jeff Lorber",
+          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
+        }
+      ],
+      "duration_ms": 262146,
+      "name": "Reverend Green",
+      "url": "https://open.spotify.com/track/58u2WAEAtgOeWSTeTRAPIW"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "The Complete Verve Studio Sessions",
-        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
-      },
-      "artists": [
-        {
-          "name": "Roy Eldridge",
-          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Somebody Loves Me",
-      "url": "https://open.spotify.com/track/30VONnonLwftL8WeCopyLt"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "The Lonely One",
         "url": "https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 280053,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/04ctxBgUXc3Tj6I4ufWPSZ"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Complete Verve Studio Sessions",
+        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
+      },
+      "artists": [
+        {
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Somebody Loves Me",
+      "url": "https://open.spotify.com/track/30VONnonLwftL8WeCopyLt"
     },
     {
       "added_at": "2019-10-04 16:01:14",

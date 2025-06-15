@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,471 likes - 178 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,470 likes - 178 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 122 | [Something Different](https://open.spotify.com/track/3mbkAtfG36iBb4HBf1qEb8) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 2:34 |
 | 123 | [Cyanide](https://open.spotify.com/track/2h4HvAKEVp9eehdkGb5Jpm) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 4:33 |
 | 124 | [Channel 1](https://open.spotify.com/track/4HEuDdg39xP8qgkJqop6CG) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:19 |
-| 125 | [Good Die Young](https://open.spotify.com/track/2qV4oFPfGjIH4bg9L8mjkJ) | [Molly Kate Kestner](https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf) | [Good Die Young](https://open.spotify.com/album/1Lcii5tFpuOZEco0rQiubv) | 3:28 |
-| 126 | [Testing](https://open.spotify.com/track/548pWs8FmBjkr3Qqm2TdPQ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:39 |
+| 125 | [Testing](https://open.spotify.com/track/548pWs8FmBjkr3Qqm2TdPQ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:39 |
+| 126 | [Good Die Young](https://open.spotify.com/track/2qV4oFPfGjIH4bg9L8mjkJ) | [Molly Kate Kestner](https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf) | [Good Die Young](https://open.spotify.com/album/1Lcii5tFpuOZEco0rQiubv) | 3:28 |
 | 127 | [If We Stay \(feat\. Ivy Adara\)](https://open.spotify.com/track/0D2UE6RcKeLQ390FjCJS14) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m), [Kayla Rae Haywood](https://open.spotify.com/artist/43G7qlx7v7OGJJrUTXIqLq) | [If We Stay \(feat\. Ivy Adara\)](https://open.spotify.com/album/6EaReZ5jYDd7Vn2fDiwfep) | 3:04 |
 | 128 | [Level Up](https://open.spotify.com/track/3o9ZhwPb3TrlgVBcMXffzj) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 2:17 |
 | 129 | [Hey Homie](https://open.spotify.com/track/187ncCMMqbzQg6UEyBAj9W) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:09 |
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 177 | [Like That](https://open.spotify.com/track/0jFF83NzwA74b6xmTkqT0U) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:17 |
 | 178 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 
-Snapshot ID: `Ab0D6AAAAAAAD54wmETdAAI7kQ6ZX1lT`
+Snapshot ID: `Ab0JkgAAAAC0v+M4Z1TPuL5AoxOEHH6v`

@@ -853,6 +853,32 @@
     },
     {
       "album": {
+        "name": "MiuMiu",
+        "url": "https://open.spotify.com/album/1fWk1CMAtVYbXJTUZKUohA"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179374,
+      "name": "MiuMiu",
+      "url": "https://open.spotify.com/track/06P2zNCmRsB8aQBZo78D2o"
+    },
+    {
+      "album": {
         "name": "DOCE 22",
         "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
       },

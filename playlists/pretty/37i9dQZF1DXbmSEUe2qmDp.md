@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Reddy Allor
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,230 likes - 69 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,225 likes - 69 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 68 | [Canseira](https://open.spotify.com/track/3FJBLmThtT7Kp9GFYTJrjB) | [William Couto e Adriano](https://open.spotify.com/artist/69s330fe8iNBuwivcPadWY) | [Canseira](https://open.spotify.com/album/5iJOs1zzOwHGgdGYilFaxS) | 2:38 |
 | 69 | [Fraquinho De Aparência \- Ao Vivo](https://open.spotify.com/track/0PkYUMQMDzb9ynyVKCuAYV) | [Júnior e Cézar](https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk) | [Simplesmente \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/4M57NG8CTLKFPgo6JpwLmi) | 2:40 |
 
-Snapshot ID: `aEyjUAAAAABNJIRinz47r+9bCYb8DSPN`
+Snapshot ID: `AAAAAM08aabJtOKQ9ZoOuhA1BbWh9Ere`

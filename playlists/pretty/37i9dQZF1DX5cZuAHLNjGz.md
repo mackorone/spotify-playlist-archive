@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Parmish Verma
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,362,163 likes - 101 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,362,317 likes - 101 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 100 | [Jindey](https://open.spotify.com/track/40juQYLIUfYq255dNZ2O9V) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Jindey](https://open.spotify.com/album/4jtRSf80wGf1Il3Vaeq6Lb) | 3:42 |
 | 101 | [O Shera \- Teer Te Taj \(Film Version\) \- From "Kesari Chapter 2"](https://open.spotify.com/track/0bEGXuQwXNF61JDXP47h9i) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Sangtar](https://open.spotify.com/artist/0DhoozKChWygwuEQKGagwl), [Manmohan Waris](https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5), [Kamal Heer](https://open.spotify.com/artist/2S3lVn4PcnGcbKKu7nsDL6), [Sukhwinder Amrit](https://open.spotify.com/artist/6Ok2Tk9CyqWrWOZFcnMG72) | [O Shera \- Teer Te Taj \(Film Version\) \[From "Kesari Chapter 2"\]](https://open.spotify.com/album/26sc7lMVSZk8jHnLDqdLjH) | 2:32 |
 
-Snapshot ID: `aEwFLAAAAAAOIua4uUjB0NNH9Ewuorc8`
+Snapshot ID: `aEwFLAAAAAD6BzegPN042IPU1ioEX0yU`

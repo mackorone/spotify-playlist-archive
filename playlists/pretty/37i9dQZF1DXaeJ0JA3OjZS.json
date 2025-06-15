@@ -1,6 +1,6 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 182562,
+  "num_followers": 182718,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-05-09 06:00:12",
       "album": {
+        "name": "El cantador (En vivo)",
+        "url": "https://open.spotify.com/album/214cTuturC6CHUNgH5P9E3"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 200093,
+      "name": "El cantador - En vivo",
+      "url": "https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr"
+    },
+    {
+      "added_at": "2025-05-09 06:00:12",
+      "album": {
         "name": "El Pulm\u00f3n",
         "url": "https://open.spotify.com/album/5elWI9k1RB0IJo1uWG1Ihu"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 212813,
       "name": "El Pulm\u00f2n",
       "url": "https://open.spotify.com/track/7pCq5BIgSQtbCeE4XwBHlR"
-    },
-    {
-      "added_at": "2025-05-09 06:00:12",
-      "album": {
-        "name": "El cantador (En vivo)",
-        "url": "https://open.spotify.com/album/214cTuturC6CHUNgH5P9E3"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 200093,
-      "name": "El cantador - En vivo",
-      "url": "https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr"
     },
     {
       "added_at": "2025-05-09 06:00:12",

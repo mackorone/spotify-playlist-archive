@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 
 > Para subir la temperatura\. Foto: Lebrón Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,129 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,174 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 | 32 | [Salsa Y Control](https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Salsa Y Control](https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I) | 3:47 |
 | 33 | [Oh Qué Será?](https://open.spotify.com/track/737IZvQey0ZKjtEe3pJzeK) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Anthology](https://open.spotify.com/album/1uvrsZTTwKbWGpaZGFAwoT) | 5:04 |
 | 34 | [En Barranquilla Me Quedo](https://open.spotify.com/track/5zghcVb5R77fbZPUj2jZTm) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Colección Éxitos Joe Arroyo \(Vol\. 2\)](https://open.spotify.com/album/0qGM0WX4GuaRaHWxzi73tX) | 5:11 |
-| 35 | [Indestructible](https://open.spotify.com/track/4HNXRwx9e6PV7JriRiEtdq) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Indestructible](https://open.spotify.com/album/5ColFlrN4x7WcxDuxMrBsC) | 4:12 |
-| 36 | [La juma de ayer](https://open.spotify.com/track/3pL77Aed5ZBnS5IRjPcGF4) | [Henry Fiol](https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB) | [Fe, Esperanza y Caridad](https://open.spotify.com/album/6vJ37s97d7zDUj9rvlJsII) | 7:49 |
+| 35 | [La juma de ayer](https://open.spotify.com/track/3pL77Aed5ZBnS5IRjPcGF4) | [Henry Fiol](https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB) | [Fe, Esperanza y Caridad](https://open.spotify.com/album/6vJ37s97d7zDUj9rvlJsII) | 7:49 |
+| 36 | [Indestructible](https://open.spotify.com/track/4HNXRwx9e6PV7JriRiEtdq) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Indestructible](https://open.spotify.com/album/5ColFlrN4x7WcxDuxMrBsC) | 4:12 |
 | 37 | [Acuyuye](https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Pacheco Y Su Charanga Vol\. 3: Que Suene La Flauta](https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy) | 2:33 |
 | 38 | [Magdalena](https://open.spotify.com/track/6Sh5qYcUgtlj2OJ6UU8Au9) | [Orquesta La Conspiración](https://open.spotify.com/artist/7hsBFT561tLiwvZrylykQG) | [Ernie's Conspiracy](https://open.spotify.com/album/4ct08H1cKeyDlskmRyTHwi) | 5:47 |
 | 39 | [Ligia Elena](https://open.spotify.com/track/38UKG3bIB4gT3EzQqE3eEm) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Canciones Del Solar De Los Aburridos](https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs) | 6:04 |

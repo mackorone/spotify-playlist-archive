@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 
 > Sit back and relax to the chillest pop\.  Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,842,647 likes - 99 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,842,614 likes - 99 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Silver Lining](https://open.spotify.com/track/0cgjvHVCoiafozhMk3Z7Sg) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/3TqBGTBmONLgkO3OxDipkg) | 3:17 |
 | 2 | [The Little Mess You Made](https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Little Mess You Made](https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH) | 3:21 |
 | 3 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
-| 4 | [Where Is My Mind? \- Pixies Cover](https://open.spotify.com/track/5EYltWMQRNYii6unCq02Hl) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Where Is My Mind? \(Pixies Cover\)](https://open.spotify.com/album/1trEKAk6KhUpUrWul8N1Ih) | 1:53 |
+| 4 | [Where Is My Mind? \- Cover Version](https://open.spotify.com/track/5EYltWMQRNYii6unCq02Hl) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Where Is My Mind? \(Cover Version\)](https://open.spotify.com/album/1trEKAk6KhUpUrWul8N1Ih) | 1:53 |
 | 5 | [comedown](https://open.spotify.com/track/0WP2mSrYIXEy2poZkAWlNZ) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [comedown](https://open.spotify.com/album/4r6XmJdluBTzkNjYtR3ABh) | 3:12 |
 | 6 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 |
 | 7 | [LIAR](https://open.spotify.com/track/7AdSqDJ0cEciEAGs3Tnnvn) | [Conor Matthews](https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq) | [LIAR](https://open.spotify.com/album/6Yd4B2RFsR4TTB3rgAgi3o) | 2:33 |

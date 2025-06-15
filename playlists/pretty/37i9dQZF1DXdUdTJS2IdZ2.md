@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: YAØ
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,044 likes - 101 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,045 likes - 101 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

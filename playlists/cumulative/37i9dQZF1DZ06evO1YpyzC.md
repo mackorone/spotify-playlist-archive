@@ -4,10 +4,11 @@
 
 > This is Kane Brown\. The essential tracks, all in one playlist.
 
-104 songs - 5 hr 38 min
+105 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2 Pair](https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [2 Pair](https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi) | 2:31 | 2025-06-15 |  |
 | [3](https://open.spotify.com/track/5Rvafz4zMbmVXvKbbCAeTi) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 3:00 | 2025-01-27 | 2025-02-22 |
 | [Ain't No Stopping Us Now](https://open.spotify.com/track/2I5ao7JannZZMlweLTz0hO) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 3:02 | 2022-09-08 | 2025-01-27 |
 | [Baby Come Back to Me](https://open.spotify.com/track/2Iov9mHNgKuL1oxePM2hZM) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 3:46 | 2023-09-02 | 2023-09-06 |
@@ -63,7 +64,7 @@
 | [Last Time I Say Sorry](https://open.spotify.com/track/3gAaDDoBipWZzGBMwK194e) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Last Time I Say Sorry](https://open.spotify.com/album/1nYnm2JXB13BYcsOnjGwGs) | 3:14 | 2022-09-08 | 2025-04-04 |
 | [Learning](https://open.spotify.com/track/4eGr7gXyHETJQ4pMcqzXgu) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 3:22 | 2022-09-08 | 2024-07-05 |
 | [Leave You Alone](https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Leave You Alone](https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx) | 3:34 | 2022-09-08 | 2025-01-28 |
-| [Leave You Alone](https://open.spotify.com/track/3J5UxKE5206of6TwawC4M8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 3:34 | 2025-05-26 |  |
+| [Leave You Alone](https://open.spotify.com/track/3J5UxKE5206of6TwawC4M8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 3:34 | 2025-05-26 | 2025-06-15 |
 | [Like a Rodeo](https://open.spotify.com/track/7z3dPHwGxeK4fD6fYFDwiS) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 3:21 | 2022-09-08 |  |
 | [Like I Love Country Music](https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Like I Love Country Music](https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg) | 3:54 | 2022-09-08 |  |
 | [Like I Love Country Music](https://open.spotify.com/track/5C9jQ8ikTOieveuORd8wlf) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 3:54 | 2023-12-15 | 2024-04-09 |

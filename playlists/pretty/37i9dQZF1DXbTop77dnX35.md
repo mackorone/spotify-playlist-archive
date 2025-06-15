@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from CKAY, Olamide, Gunna, Mayorkun and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,932 likes - 76 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,086 likes - 76 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 62 | [West Life](https://open.spotify.com/track/7c1VOpvkdr5aPqlv7huLlB) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Don't Die Before You're Dead](https://open.spotify.com/album/1P89eAvz1jjWXSL9wileVn) | 3:49 |
 | 63 | [Figures On The Wall](https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figures On The Wall](https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi) | 3:02 |
 | 64 | [Y por ahi me dicen y que](https://open.spotify.com/track/2rOS6hOkqDfOllGK9XY9V1) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Y por ahi me dicen y que](https://open.spotify.com/album/2OolB2SHuxKs1p0MgGSCc4) | 2:48 |
-| 65 | [Hospeda](https://open.spotify.com/track/3rvzMt65ohYpqkXQ2LxzDX) | [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E), [Tutu](https://open.spotify.com/artist/4x0EcUYpeDMvgCgtNhgwSl) | [Hospeda](https://open.spotify.com/album/5DHNV0mhhIrULt79CQpxCf) | 2:42 |
+| 65 | [Hospeda](https://open.spotify.com/track/3rvzMt65ohYpqkXQ2LxzDX) | [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E), [Tutu](https://open.spotify.com/artist/2oJG42nDNigJngS1nlWm2W) | [Hospeda](https://open.spotify.com/album/5DHNV0mhhIrULt79CQpxCf) | 2:42 |
 | 66 | [Daydreaming](https://open.spotify.com/track/0r0KzfIKpjMbNpzSOKtpeX) | [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Daydreaming](https://open.spotify.com/album/24yZMJlTfVYaaGuWW3CoZP) | 2:26 |
 | 67 | [Kumbaya](https://open.spotify.com/track/1OJoyja7tRJhNv5yMm7NN1) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Kumbaya](https://open.spotify.com/album/2bCbv1kgyyfGbHUDJbTzvO) | 3:42 |
 | 68 | [Bengicela \(feat\. Jazzworx\)](https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx) | [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [Jazzworx](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz) | [Bengicela \(feat\. Jazzworx\)](https://open.spotify.com/album/2hQeaUm6h4P4qgf45IToZ6) | 5:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Hannah Jadagu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,313,499 likes - 215 songs - 12 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,313,433 likes - 215 songs - 12 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 214 | [The Catastrophe \(Good Luck With That, Man\)](https://open.spotify.com/track/0yXlQbT5xqQDP2wij6XQpy) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [The Catastrophe \(Good Luck With That, Man\)](https://open.spotify.com/album/4iX0TASlBHTxQFWwL3ve7d) | 5:28 |
 | 215 | [baja bird](https://open.spotify.com/track/0AcUpGp76b2qggGvZX7alq) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [baja bird](https://open.spotify.com/album/5NDp4mlo4zDRP8bcuIeuR4) | 3:48 |
 
-Snapshot ID: `aEuicwAAAABTrbz6/kJ28ZCPXT8U7jSE`
+Snapshot ID: `aEuicwAAAADuNbcnoQyi3LnIoZtaSGIR`

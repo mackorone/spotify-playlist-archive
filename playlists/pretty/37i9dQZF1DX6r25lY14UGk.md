@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Peppa Pig
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,040 likes - 166 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,197 likes - 166 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 2 | [Friend Of Mine \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0epwO9Y9JZkLBRwadMSWYY) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Smurfs Movie Soundtrack \(Music From & Inspired By\)](https://open.spotify.com/album/1WWC30whzWg114IF0EEcRx) | 3:25 |
 | 3 | [The Burp Song](https://open.spotify.com/track/5SYt6orEzqP1qGXB0Dffcs) | [Gabby's Dollhouse](https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j) | [The Burp Song](https://open.spotify.com/album/6kSUSLxn7KifIFfAa1nIB8) | 1:39 |
 | 4 | [So Many Ways to Be Me](https://open.spotify.com/track/2aAUutpV0K47Nsv2BmDzOF) | [Niahm](https://open.spotify.com/artist/7rhcbmplE2k2M4rH2BKj57), [Sesame Street’s Tamir](https://open.spotify.com/artist/0mPoJFAaRIZhq9QkQEqXcn) | [So Many Ways to Be Me](https://open.spotify.com/album/2fqxLORpEJViGrvDYsmIo8) | 1:33 |
-| 5 | [Dino Stomp On The Playground](https://open.spotify.com/track/0mqELdcXsyZWY2lC57ASQ1) | [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I) | [Dino Stomp On The Playground](https://open.spotify.com/album/4BAMa0cX4MHt3TkC5suYP9) | 3:21 |
+| 5 | [Dino Stomp On The Playground](https://open.spotify.com/track/0mqELdcXsyZWY2lC57ASQ1) | [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I), [LongestSoloEver](https://open.spotify.com/artist/3wXWn4QQgUFF39bpLzlzca), [Dan E.T.](https://open.spotify.com/artist/5h1O6B6ycnrerdsrJKd5EV), [DrumboyAdvance](https://open.spotify.com/artist/2XH6ZNsBxE5b0YhIKAa5sS) | [Dino Stomp On The Playground](https://open.spotify.com/album/4BAMa0cX4MHt3TkC5suYP9) | 3:21 |
 | 6 | [Will it Sink or Will it Float?](https://open.spotify.com/track/5PeXeyKbUX3pqCZmffh1Cw) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Will it Sink or Will it Float?](https://open.spotify.com/album/5An8O49HcrjvQbj0npxHjA) | 2:26 |
 | 7 | [Here We Go 'Round the Pirate Ship](https://open.spotify.com/track/62sXIpqeDQ6a5SUdIZ0Mzy) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Here We Go 'Round the Pirate Ship](https://open.spotify.com/album/1YciOaRUg1P5Sy7BhgjzuG) | 1:43 |
 | 8 | [Powers](https://open.spotify.com/track/4CHmOhXvVg89RzifsrIATY) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [Powers](https://open.spotify.com/album/40iHe2RVYv4Om4AjCDdMEW) | 3:21 |

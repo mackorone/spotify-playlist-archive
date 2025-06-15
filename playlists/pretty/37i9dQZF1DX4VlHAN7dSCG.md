@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 理想混蛋 \(Bestards\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,223 likes - 81 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,227 likes - 81 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 55 | [其實我一點都不酷](https://open.spotify.com/track/5Fs9UnKEpvsj4rK60kEsuK) | [公館青少年 GGteens](https://open.spotify.com/artist/70tzNPv1y3Ft17QI4KLdSp) | [我其實一點都不酷](https://open.spotify.com/album/5nu65vQRCMjyc47yNLfFKa) | 4:35 |
 | 56 | [来电瑶](https://open.spotify.com/track/1VLC1aoLhShRNhKIulV3ut) | [法老](https://open.spotify.com/artist/429wOEd8ummnOTS4gw3WcQ), [BY2](https://open.spotify.com/artist/3DOs7Bsr9x4eJHqv6ViPvR) | [来电瑶](https://open.spotify.com/album/2KKACaGyExkF2oUruqFfCB) | 3:38 |
 | 57 | [這世界病了](https://open.spotify.com/track/0AjRwcG7WGpluC8UFnE8CQ) | [捲捲澡堂 Soul Bath](https://open.spotify.com/artist/22MLKWCiyDJoKDzOq9gYOJ) | [這世界病了](https://open.spotify.com/album/0Mlo78AAt630v0XOQlKyUq) | 4:30 |
-| 58 | [賓夕凡尼亞](https://open.spotify.com/track/4iRLjErREYy0hpKE10hXyz) | [午睡大熊](https://open.spotify.com/artist/2C7v6c9bAXJnPP3ijMGjcC) | [賓夕凡尼亞](https://open.spotify.com/album/5Hy2EbsK8MAQmo3GuRybPV) | 3:12 |
+| 58 | [賓夕凡尼亞](https://open.spotify.com/track/4iRLjErREYy0hpKE10hXyz) | [午睡大熊](https://open.spotify.com/artist/2C7v6c9bAXJnPP3ijMGjcC), [Ognam](https://open.spotify.com/artist/3rAhkIywGLdaIvt2TJi6Ha) | [賓夕凡尼亞](https://open.spotify.com/album/5Hy2EbsK8MAQmo3GuRybPV) | 3:12 |
 | 59 | [我是誰我是誰我是誰\(GX版\)](https://open.spotify.com/track/22VWtSne9Yhv7ifQ9J36ZZ) | [GX \(鼓鼓 呂思緯、蕭秉治\)](https://open.spotify.com/artist/288ePKcM3N0VLXFIGuv4LV) | [GX 1st MINI ALBUM](https://open.spotify.com/album/31ShII00nJmvfMcnx5ujR7) | 4:25 |
 | 60 | [Twinkle Twinkle](https://open.spotify.com/track/11WLbjvAwtbpy5JPR3IhJ1) | [Astro Bunny](https://open.spotify.com/artist/3PTsVPijj4pjIol9yML0rK) | [Twinkle Twinkle](https://open.spotify.com/album/73smwDtcnwKmZBtw6HomZ5) | 5:11 |
 | 61 | [Here We Are](https://open.spotify.com/track/7kK9cPXW9C6GGs8Dn7hVvM) | [頑童Mj116](https://open.spotify.com/artist/7aMQdNM05rPkcHS1ethHUx) | [Here We Are](https://open.spotify.com/album/6qGUpQ7YoIxLP7PO4rBXVe) | 5:05 |

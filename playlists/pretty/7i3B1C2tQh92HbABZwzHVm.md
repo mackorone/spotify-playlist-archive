@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7i3B1C2tQh92HbABZwzHVm.md) - [plain]
 
 > MAHLZEIT <a href="http://www.rammstein.com">RAMMSTEIN</a>
 
-[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 2,419 likes - 11 songs - 44 min 7 sec
+[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 2,418 likes - 11 songs - 44 min 7 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

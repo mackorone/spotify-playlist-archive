@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 
 > Your favorite Mexican anthems to get the party started!
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,262 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,400 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 57 | [La Del Moño Colorado](https://open.spotify.com/track/4fkCG6ZvZ4oFHnNJQmD0lE) | [Los Pedernales](https://open.spotify.com/artist/2t9iBcBG9KoBeOZHevRzsc) | [La Del Moño Colorado](https://open.spotify.com/album/6I8NtD0YFtJn6osq3YPadR) | 5:00 |
 | 58 | [La Dieta](https://open.spotify.com/track/4WIKeVqB17mcYrWE5NWWoN) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 2:44 |
 | 59 | [Un Puño De Tierra](https://open.spotify.com/track/466JLm2qQmjOzfbee0PIg6) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:46 |
-| 60 | [Nunca Es Suficiente](https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:26 |
+| 60 | [La Inconforme \- Sonidera](https://open.spotify.com/track/6sti0UCUQQzfmSfzCHHUXW) | [Grupo G](https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8) | [Estamos Locos](https://open.spotify.com/album/58vEBu5rvv8ct4Pk158A8L) | 3:11 |
 | 61 | [Se Menea](https://open.spotify.com/track/6uhEqYTqhEkSH6Rlf3ILpj) | [Los Karkik's](https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg) | [Se Menea Se Menea](https://open.spotify.com/album/2E8WzqhyEL9SqioQ5Fgg8D) | 2:31 |
-| 62 | [La Inconforme \- Sonidera](https://open.spotify.com/track/6sti0UCUQQzfmSfzCHHUXW) | [Grupo G](https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8) | [Estamos Locos](https://open.spotify.com/album/58vEBu5rvv8ct4Pk158A8L) | 3:11 |
+| 62 | [Nunca Es Suficiente](https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:26 |
 | 63 | [Dime Cómo Quieres](https://open.spotify.com/track/5fnbYKGq0zhFCCesNhiUE6) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Dime Cómo Quieres](https://open.spotify.com/album/627Wbeny1n8Wuu2zISsiiS) | 2:49 |
 | 64 | [Pena Tras Pena](https://open.spotify.com/track/17Atin09BMavpAvwc8qWph) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Tengo Una Illusión](https://open.spotify.com/album/3hbjT0ctHBW6BxZLcysm7m) | 2:50 |
 | 65 | [El Sonidito](https://open.spotify.com/track/5L5Ox4ze5TZaQNw5CvD6CL) | [Hechizeros Band](https://open.spotify.com/artist/4xqrGV8Uw2Jv3RLGnWFFqx) | [El Sonidito](https://open.spotify.com/album/7517072y7Mved9OzrsTB4E) | 3:19 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 91 | [Mi Mayor Anhelo](https://open.spotify.com/track/4QX1qy6wFOoCuQlmxciEQV) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Colección](https://open.spotify.com/album/6kJW6rPKdlwMl6taKSJn9Z) | 3:31 |
 | 92 | [La Quebradora](https://open.spotify.com/track/1KjOumAi1x92WucdWaDlqD) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [18 Grandes Exitos Bailables](https://open.spotify.com/album/1t4FvHx2Kv3232zHHmUueG) | 3:11 |
 | 93 | [Mi Trokita Cumbia](https://open.spotify.com/track/2UHhMxm2klYzrqcKMFvTzn) | [Obzesion](https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS) | [Mi Trokita Cumbia](https://open.spotify.com/album/7LYXdx1tTJHSdSilZOEhZq) | 2:14 |
-| 94 | [Bonita](https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [Bonita](https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu) | 3:21 |
-| 95 | [En Vida](https://open.spotify.com/track/7LNtyuekYHiZ99UxkrfCQR) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [En Vida](https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN) | 2:25 |
+| 94 | [En Vida](https://open.spotify.com/track/7LNtyuekYHiZ99UxkrfCQR) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [En Vida](https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN) | 2:25 |
+| 95 | [Bonita](https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [Bonita](https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu) | 3:21 |
 | 96 | [No Bailes De Caballito](https://open.spotify.com/track/3PTfu2zsB5IH0nTu9vP8iR) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Historia \- Mi Banda El Mexicano](https://open.spotify.com/album/7n5pvyK4eUJxmrcMYlBecR) | 4:01 |
 | 97 | [Un Sueño](https://open.spotify.com/track/3fbALzbCtA459yOAJ2FChx) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [Mi Colección](https://open.spotify.com/album/28iH8QQN9CbafK21M0BebE) | 3:45 |
 | 98 | [¿Por Qué Terminamos?](https://open.spotify.com/track/4cuti7K7IqIUm5f9pcCGjh) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/55JtRUC2kuIeXBnLmwiA18) | 3:00 |

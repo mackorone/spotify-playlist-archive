@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Zamir
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,370 likes - 85 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,393 likes - 85 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 84 | [myfavourite.mp3](https://open.spotify.com/track/6GWhGNVv8OveWv7WK0sd0l) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [the gift](https://open.spotify.com/album/7L2PvlXP8x4sGGmXDf46LV) | 2:31 |
 | 85 | [Odeshi](https://open.spotify.com/track/6D3uyxSdlOQpScbqlawnME) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Odeshi](https://open.spotify.com/album/6q9zanWSA5C5e8pCSUxjQ9) | 2:15 |
 
-Snapshot ID: `aEuQ9gAAAACE2fAG7mgV2TPyEvgEsK0v`
+Snapshot ID: `aEuQ9gAAAAAf6mrS+yy6i7/BNJ5YCix7`

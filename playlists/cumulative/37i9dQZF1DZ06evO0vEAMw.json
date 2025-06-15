@@ -573,6 +573,28 @@
     },
     {
       "album": {
+        "name": "Still The Mayor",
+        "url": "https://open.spotify.com/album/0Ev8VZe0x9bTzf55gVQNeR"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194754,
+      "name": "Blessings On Blessings (B.O.B) (feat. Davido)",
+      "url": "https://open.spotify.com/track/0mjYhFrdVxmcKGW96pW5zS"
+    },
+    {
+      "album": {
         "name": "Blessings REMIX (feat. French Montana & Davido)",
         "url": "https://open.spotify.com/album/3kxuAgeGxSrMLi9qu4F6x9"
       },
@@ -2488,7 +2510,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 217069,
       "name": "PrAy",
       "url": "https://open.spotify.com/track/2NLZskCPIYnG2vwiEBXLpC"

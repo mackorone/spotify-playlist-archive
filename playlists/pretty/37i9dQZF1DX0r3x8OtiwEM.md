@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 999,270 likes - 60 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 999,460 likes - 60 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 40 | [Light up my dark](https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Light up my dark](https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA) | 3:28 |
 | 41 | [Paradise \(Feat\. Jem Cooke\)](https://open.spotify.com/track/6IB7ACtFpfxFbUR06pA7Xc) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Life Through A Different Lens](https://open.spotify.com/album/4qkVLM1dHnydhcWUOg6U4A) | 3:36 |
 | 42 | [Let Me Come To Life](https://open.spotify.com/track/7gKFpRLqRsIu0s5Y7lbguY) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Let Me Come To Life](https://open.spotify.com/album/2Dvosx9vaLx885IGM9ncfY) | 5:35 |
-| 43 | [WONDER](https://open.spotify.com/track/5rEdvcGN1LKDAufgdw2K6s) | [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f) | [WONDER](https://open.spotify.com/album/5UDziBqXsCROej1kQLJVwf) | 2:39 |
-| 44 | [Breathe](https://open.spotify.com/track/4AdoSUS52frZjmzIaOz7j9) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Breathe](https://open.spotify.com/album/3Vf3vK3gpqH295FalVIbsX) | 4:49 |
+| 43 | [Breathe](https://open.spotify.com/track/4AdoSUS52frZjmzIaOz7j9) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Breathe](https://open.spotify.com/album/3Vf3vK3gpqH295FalVIbsX) | 4:49 |
+| 44 | [WONDER](https://open.spotify.com/track/5rEdvcGN1LKDAufgdw2K6s) | [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f) | [WONDER](https://open.spotify.com/album/5UDziBqXsCROej1kQLJVwf) | 2:39 |
 | 45 | [Memories](https://open.spotify.com/track/6BiBQjBIl8ozwqRihm4hTV) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Memories](https://open.spotify.com/album/6FI3iFdhMbw1fwAsPH0Mz0) | 3:35 |
 | 46 | [On My Knees \- Adriatique Remix](https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [On My Knees \(Adriatique Remix\)](https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr) | 7:32 |
-| 47 | [Space Base](https://open.spotify.com/track/5ZS2uH0kb2RhianAFwRydQ) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Frida Darko](https://open.spotify.com/artist/5nvhpnFpC7rsQ0mWDNx4bn) | [Space Base](https://open.spotify.com/album/0Ea1FYOikc2UY9XW9heM4q) | 5:27 |
-| 48 | [Before The Storm](https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Before The Storm](https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS) | 6:09 |
+| 47 | [Before The Storm](https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Before The Storm](https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS) | 6:09 |
+| 48 | [Space Base](https://open.spotify.com/track/5ZS2uH0kb2RhianAFwRydQ) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Frida Darko](https://open.spotify.com/artist/5nvhpnFpC7rsQ0mWDNx4bn) | [Space Base](https://open.spotify.com/album/0Ea1FYOikc2UY9XW9heM4q) | 5:27 |
 | 49 | [Ascension](https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Ascension](https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS) | 4:04 |
 | 50 | [Indulgence](https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Indulgence](https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou) | 4:29 |
 | 51 | [Remember](https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Remember](https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL) | 6:55 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 55 | [JAZZ IN THE AIR](https://open.spotify.com/track/0xBsZ8t2cgo2dSE2Xim3xO) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [JAZZ IN THE AIR](https://open.spotify.com/album/3hSDnCURfeICFh2Q1by74E) | 5:03 |
 | 56 | [Yes Baby](https://open.spotify.com/track/5VPo4yWk05Fb0AVhwTjniq) | [Chris Luno](https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq) | [Yes Baby](https://open.spotify.com/album/4F3MFTq2TiWlHQN7XXGag5) | 3:03 |
 | 57 | [Polar Lights](https://open.spotify.com/track/485Th9A00AaXGv6CJUEtfi) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Polar Lights](https://open.spotify.com/album/0fTi4Vl8KyHCLnfSfYowd2) | 3:10 |
-| 58 | [Darkness](https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Timelapse](https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy) | 7:58 |
-| 59 | [Avalanche \- Edit](https://open.spotify.com/track/3g0f1E9zlyauznccPZYaTn) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Avalanche](https://open.spotify.com/album/4iGkjP8sE9aRb50TeBtMMG) | 4:03 |
+| 58 | [Avalanche \- Edit](https://open.spotify.com/track/3g0f1E9zlyauznccPZYaTn) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Avalanche](https://open.spotify.com/album/4iGkjP8sE9aRb50TeBtMMG) | 4:03 |
+| 59 | [Darkness](https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Timelapse](https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy) | 7:58 |
 | 60 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 |
 
 Snapshot ID: `aEuibQAAAABaeoYENa7TBuawykI594xR`

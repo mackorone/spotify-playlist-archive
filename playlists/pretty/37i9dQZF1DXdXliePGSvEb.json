@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: Jamie xx",
-  "num_followers": 72676,
+  "num_followers": 72702,
   "original_name": "Editors' picks: Best Electronic Songs of 2024",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Over & Over",
+        "url": "https://open.spotify.com/album/3RleakVU3jm8cQbvsqMqKp"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "In The Shadow",
+      "url": "https://open.spotify.com/track/7ylweQjCPCtMvyM21Jqas1"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "ZOOM",
         "url": "https://open.spotify.com/album/1sh6E8cJ0BOG5aN4jQ1MiK"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 225693,
       "name": "ZOOM",
       "url": "https://open.spotify.com/track/5BrX72zkxJaowRZwgM8wyB"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Over & Over",
-        "url": "https://open.spotify.com/album/3RleakVU3jm8cQbvsqMqKp"
-      },
-      "artists": [
-        {
-          "name": "Jersey",
-          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "In The Shadow",
-      "url": "https://open.spotify.com/track/7ylweQjCPCtMvyM21Jqas1"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "1:M",
+        "url": "https://open.spotify.com/album/5i6vi1x6zXsRXjfd1IMA2n"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "duration_ms": 134734,
+      "name": "Open Up The Door",
+      "url": "https://open.spotify.com/track/6N5lfO0tYTFEaAAHvsRzZN"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Go Ghost",
         "url": "https://open.spotify.com/album/4VfduOex5EZQ75OrgUdlBm"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 288358,
       "name": "Buss It",
       "url": "https://open.spotify.com/track/26rXcfZulgs5227R79sOqu"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "1:M",
-        "url": "https://open.spotify.com/album/5i6vi1x6zXsRXjfd1IMA2n"
-      },
-      "artists": [
-        {
-          "name": "Megra",
-          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
-        }
-      ],
-      "duration_ms": 134734,
-      "name": "Open Up The Door",
-      "url": "https://open.spotify.com/track/6N5lfO0tYTFEaAAHvsRzZN"
     },
     {
       "added_at": "2024-12-04 12:15:00",

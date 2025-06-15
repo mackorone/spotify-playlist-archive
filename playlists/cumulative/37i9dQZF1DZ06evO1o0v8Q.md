@@ -4,7 +4,7 @@
 
 > This is Turnstile\. The essential tracks, all in one playlist.
 
-56 songs - 2 hr 26 min
+57 songs - 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Bad Wave](https://open.spotify.com/track/4ErXaLOxWqva7GsgQY3Kql) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Nonstop Feeling](https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6) | 2:16 | 2024-11-23 |  |
 | [Better Way](https://open.spotify.com/track/0AfcDu9FosOBh8HtoEVxHE) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 3:31 | 2022-11-17 |  |
 | [Big Smile](https://open.spotify.com/track/0OK2cjonTMoF8PLRup3MAM) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:29 | 2022-11-17 |  |
-| [BIRDS](https://open.spotify.com/track/0k9JIBszlCqCa4SpXI353F) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 2:26 | 2025-05-08 |  |
+| [BIRDS](https://open.spotify.com/track/0k9JIBszlCqCa4SpXI353F) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 2:26 | 2025-05-08 | 2025-06-15 |
+| [BIRDS](https://open.spotify.com/track/0kshHISCRGn9MwpkbqafG4) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 2:26 | 2025-06-15 |  |
 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 | 2022-11-17 |  |
 | [Blue by You](https://open.spotify.com/track/6hSIZc6GWa6uUTyzSPcwWT) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Nonstop Feeling](https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6) | 1:18 | 2022-11-17 |  |
 | [Can't Deny It](https://open.spotify.com/track/4W024pk8Dm0yjFn3ciaz2F) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Nonstop Feeling](https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6) | 2:44 | 2022-11-17 |  |
@@ -58,7 +59,7 @@
 | [SLOWDIVE](https://open.spotify.com/track/1wNspyFiI1E9YGhJzz3AoO) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:33 | 2025-06-08 |  |
 | [Snaked](https://open.spotify.com/track/0R046DVTvu15N3RpzitDY5) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 1:33 | 2022-11-17 |  |
 | [SOLE](https://open.spotify.com/track/6PaSOin7Y9GnXRZ5U5sMsv) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:25 | 2025-06-08 |  |
-| [SUNSHOWER](https://open.spotify.com/track/2QmmdEYfM6kEk5iz6E1Rs7) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:40 | 2025-06-08 |  |
+| [SUNSHOWER](https://open.spotify.com/track/2QmmdEYfM6kEk5iz6E1Rs7) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:40 | 2025-06-08 | 2025-06-15 |
 | [T.L.C\. \(TURNSTILE LOVE CONNECTION\)](https://open.spotify.com/track/3zQpWQCDm9QMDaAhe4ggoO) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 1:42 | 2025-03-14 |  |
 | [The Dream](https://open.spotify.com/track/04jmrsQI3WUHaUTZ6sZ6eM) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Pressure to Succeed](https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO) | 1:43 | 2022-11-17 |  |
 | [The Things You Do](https://open.spotify.com/track/7oSetY84ZklreUXX4eFdP0) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Pressure to Succeed](https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO) | 1:03 | 2022-11-17 |  |

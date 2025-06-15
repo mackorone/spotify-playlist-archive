@@ -4,7 +4,7 @@
 
 > This is Luísa Sonza\. The essential tracks, all in one playlist.
 
-76 songs - 4 hr 5 min
+77 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Medley Lud Session \- Tudo porque você mentiu / penhasco / De rolê / CAFÉ DA MANHÃ ;P / Doutora 3](https://open.spotify.com/track/3JFB72hbbt3zy30puJTc3q) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Medley Lud Session \- Tudo porque você mentiu / penhasco / De rolê / CAFÉ DA MANHÃ ;P / Doutora 3](https://open.spotify.com/album/4rQEAhGCxPJFlkJGymvmyz) | 9:39 | 2023-10-10 | 2023-12-14 |
 | [melhor sozinha :\-\)\-:](https://open.spotify.com/track/0gpZ8zy9OAE98nNBVIxWvi) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [melhor sozinha :\-\)\-:](https://open.spotify.com/album/2v9lUQunZBqGCZ6qUiWvuO) | 3:47 | 2023-10-10 |  |
 | [Memórias \- Ao Vivo](https://open.spotify.com/track/3yxcCxwMAeFWelpMKHZQab) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Virado No Pagode \(Ao Vivo\)](https://open.spotify.com/album/3xpPbpWSWlfwfrud3JIWeE) | 3:00 | 2024-04-08 |  |
+| [MiuMiu](https://open.spotify.com/track/06P2zNCmRsB8aQBZo78D2o) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [MiuMiu](https://open.spotify.com/album/1fWk1CMAtVYbXJTUZKUohA) | 2:59 | 2025-06-15 |  |
 | [MODO TURBO](https://open.spotify.com/track/2ip4hxYupn3CSsHjn4l2a8) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:30 | 2023-10-10 |  |
 | [MOTINHA 2.0 \(Mete Marcha\)](https://open.spotify.com/track/456hxgSVUAJVgPV0UncG68) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [MOTINHA 2.0 \(Mete Marcha\)](https://open.spotify.com/album/15PHJFLeNIt2dfJIHtMP9F) | 1:58 | 2025-02-02 | 2025-06-02 |
 | [MOTINHA 2.0 \(Mete Marcha\) \- Remix](https://open.spotify.com/track/2iDDnYmaz1HhedjI91fbmp) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [MOTINHA 2.0 \(Mete Marcha\) \- Remix](https://open.spotify.com/album/01b5HiUXkbiFUV3ogYrg0I) | 1:58 | 2025-04-27 |  |

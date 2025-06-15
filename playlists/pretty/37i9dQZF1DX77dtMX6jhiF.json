@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 15776,
+  "num_followers": 15783,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
+        "name": "ASTROWORLD",
+        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 338438,
+      "name": "STOP TRYING TO BE GOD",
+      "url": "https://open.spotify.com/track/1xYpVRspgaLxdJLOTQkTjg"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
         "name": "Potato Salad",
         "url": "https://open.spotify.com/album/02KFVEA5tnY0YnypmWY1tz"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 182493,
       "name": "Potato Salad",
       "url": "https://open.spotify.com/track/1jzIJcHCXneHw7ojC6LXiF"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 338438,
-      "name": "STOP TRYING TO BE GOD",
-      "url": "https://open.spotify.com/track/1xYpVRspgaLxdJLOTQkTjg"
     },
     {
       "added_at": "2022-10-01 16:57:49",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Liberian Girl - 2012 Remastered Version",
-      "url": "https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
         "name": "Chilombo (Deluxe)",
         "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 222600,
       "name": "On The Way (feat. Mila J)",
       "url": "https://open.spotify.com/track/423NhOTzoqgeaIJbrUzSoo"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Liberian Girl - 2012 Remastered Version",
+      "url": "https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE"
     },
     {
       "added_at": "2022-10-01 16:57:49",

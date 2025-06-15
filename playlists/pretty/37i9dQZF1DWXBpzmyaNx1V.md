@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > Nos vemos en el Primer Gran Festival de Bandemia, 2 de agosto del 2025 en la CDMX.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,787 likes - 52 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,790 likes - 52 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Gunna on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,511 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,661 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 33 | [2 Mazza \(feat\. Drake\)](https://open.spotify.com/track/2rKNlxKBZvpSpuIChBdHts) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Don't Box Me In](https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT) | 3:11 |
 | 34 | [Jetski](https://open.spotify.com/track/0M4FCnAqtMJUDwPEiK3hqz) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Jetski](https://open.spotify.com/album/4Dk1uW3ZKuBGVB7dzangr8) | 2:43 |
 | 35 | [Outside](https://open.spotify.com/track/0tcf7ob1miDTp6umJQyI0Y) | [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) | [Outside](https://open.spotify.com/album/0wqpGat4T9V4RXBS6PZzYU) | 2:19 |
-| 36 | [Hospeda](https://open.spotify.com/track/3rvzMt65ohYpqkXQ2LxzDX) | [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E), [Tutu](https://open.spotify.com/artist/4x0EcUYpeDMvgCgtNhgwSl) | [Hospeda](https://open.spotify.com/album/5DHNV0mhhIrULt79CQpxCf) | 2:42 |
+| 36 | [Hospeda](https://open.spotify.com/track/3rvzMt65ohYpqkXQ2LxzDX) | [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E), [Tutu](https://open.spotify.com/artist/2oJG42nDNigJngS1nlWm2W) | [Hospeda](https://open.spotify.com/album/5DHNV0mhhIrULt79CQpxCf) | 2:42 |
 | 37 | [TATTOOS & U](https://open.spotify.com/track/7EYLUgc5aIc5r5sfzjJd2E) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [CYCLES](https://open.spotify.com/album/1T1eS3I0K7NC7BmnHQ7PL4) | 1:58 |
 | 38 | [Broken Branches \(feat\. John Anderson, Riley Green\)](https://open.spotify.com/track/2lt1wErcai6RBy0VdO2NkZ) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [John Anderson](https://open.spotify.com/artist/5ZFCSzNuSiixgVlsEXG0gz), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Broken Branches](https://open.spotify.com/album/28VlYkYjNd6Bs8bIl69BW8) | 3:17 |
 | 39 | [Good Times & Tan Lines](https://open.spotify.com/track/5ZBxXBh0h4QuwXb3tNj91d) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Good Times & Tan Lines](https://open.spotify.com/album/1DZO09ac5XmLpt0Utimknk) | 2:40 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 67 | [Killin’ Me](https://open.spotify.com/track/6rznVDgylyz2uq9MxJNsnV) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Killin' Me](https://open.spotify.com/album/5ipnDefEcplOlPk0F9KV3Q) | 3:17 |
 | 68 | [Figures On The Wall](https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figures On The Wall](https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi) | 3:02 |
 | 69 | [rocket](https://open.spotify.com/track/3BA0pgBBU4MzXwnOUFwIOB) | [Jahnah Camille](https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS) | [My sunny oath!](https://open.spotify.com/album/5e51HsMClL4Gz6hn4ItN4K) | 2:31 |
-| 70 | [Seventeen](https://open.spotify.com/track/3VgFxRLEvav1ewTx5IaROh) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Seventeen](https://open.spotify.com/album/1xZkfphab61c5kqctCexP7) | 3:14 |
+| 70 | [Seventeen](https://open.spotify.com/track/3VgFxRLEvav1ewTx5IaROh) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Seventeen](https://open.spotify.com/album/1xZkfphab61c5kqctCexP7) | 3:13 |
 | 71 | [Hood Cry](https://open.spotify.com/track/04hszpzZPMijTmaknHOyL4) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Hood Cry](https://open.spotify.com/album/7nA9R4BnhumlEE68gO461G) | 3:25 |
 | 72 | [STACEY DASH](https://open.spotify.com/track/0J9YLQGnB9cFavyuUNeQED) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo), [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [KEEP YOUR EYE ON THE SPARROW](https://open.spotify.com/album/1Lpe2J6iS42mPh7yoQGr6o) | 3:06 |
 | 73 | [The Bellboy \(One Last Crush\)](https://open.spotify.com/track/3zP0fq3Hv4DyEaLGBpQuln) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin \(Deluxe\)](https://open.spotify.com/album/0GE0uLMG3dAOrvPGcJtvKz) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [One You](https://open.spotify.com/track/079uRy9uPL2zkBzIeyUdPA) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [One You](https://open.spotify.com/album/1ewkCMESWXafZayQNBsSiN) | 2:27 |
 | 100 | [Kamusale](https://open.spotify.com/track/5vQQI8prjjFvK5LN6Gelzc) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Kamusale](https://open.spotify.com/album/0doFE1DCIJIGNoNNxgzPLv) | 3:51 |
 
-Snapshot ID: `aEuicQAAAAAjH5Hu8i6BuyIx+Fp4DjMA`
+Snapshot ID: `aEuicQAAAAD6tuUgq09duy3b23nAvYVk`

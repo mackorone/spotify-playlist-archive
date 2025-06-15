@@ -4879,6 +4879,28 @@
     },
     {
       "album": {
+        "name": "SUNSET BLVD: The Album",
+        "url": "https://open.spotify.com/album/4NatUeuL2oG0XN9c2KcE45"
+      },
+      "artists": [
+        {
+          "name": "Nicole Scherzinger",
+          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360400,
+      "name": "As If We Never Said Goodbye",
+      "url": "https://open.spotify.com/track/2cwENimYctSV8AD1vxzlHF"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -23361,6 +23383,24 @@
     },
     {
       "album": {
+        "name": "Pet Sounds",
+        "url": "https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174906,
+      "name": "God Only Knows - Remastered 1996",
+      "url": "https://open.spotify.com/track/17QTsL4K9B9v4rI8CAIdfC"
+    },
+    {
+      "album": {
         "name": "Never Mind The Bollocks, Here\u2019s The Sex Pistols",
         "url": "https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv"
       },
@@ -32344,7 +32384,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-12",
+      "date_removed": null,
       "duration_ms": 124110,
       "name": "LUNA BALA - Slowed",
       "url": "https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj"
@@ -34512,7 +34552,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 193268,
       "name": "Me Recordar\u00e1s",
       "url": "https://open.spotify.com/track/5QXE209rpUlVD9VXOSm2ro"
@@ -44916,7 +44956,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 204204,
       "name": "Pl\u00e1tica Con Cupido",
       "url": "https://open.spotify.com/track/1AihfrCX3coaNBjfE2KGCg"
@@ -51186,7 +51226,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 189512,
       "name": "Si T\u00fa Me Vieras",
       "url": "https://open.spotify.com/track/46964wQT31RrX0XJ6ML62I"

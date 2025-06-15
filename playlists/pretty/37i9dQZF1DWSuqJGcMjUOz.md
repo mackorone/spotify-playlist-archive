@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > Découvrez les artistes à l'affiche de l’édition 2025 des Francos de Montréal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,450 likes - 89 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,517 likes - 89 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Woodstock](https://open.spotify.com/track/0oBxRhHoaLXn7pK2uaqhuN) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Toutes les rues sont silencieuses](https://open.spotify.com/album/0TiErnEo7n4RpcFM6tTTCa) | 2:58 |
-| 2 | [Dis\-moi dis\-moi dis\-moi](https://open.spotify.com/track/6CUxtpfcHNJ3s06zxKeppu) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 5:09 |
-| 3 | [Ej m'en fus](https://open.spotify.com/track/7Jvbv41yOSYRFPtwq4zBaA) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [P'tit Belliveau](https://open.spotify.com/album/5SZCCO2cJiLbQ5vUopQxh2) | 2:54 |
+| 1 | [Dis\-moi dis\-moi dis\-moi](https://open.spotify.com/track/6CUxtpfcHNJ3s06zxKeppu) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 5:09 |
+| 2 | [Woodstock](https://open.spotify.com/track/0oBxRhHoaLXn7pK2uaqhuN) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Toutes les rues sont silencieuses](https://open.spotify.com/album/0TiErnEo7n4RpcFM6tTTCa) | 2:58 |
+| 3 | [Cette vie](https://open.spotify.com/track/0Or2N5tmmDWWKxL9jTSwGa) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Mon sang](https://open.spotify.com/album/2Oikyyu7haPirWi37FN3cr) | 2:54 |
 | 4 | [Africain à Paris](https://open.spotify.com/track/1K3LOinFiIOTmFNmX3XJ3Y) | [Tiken Jah Fakoly](https://open.spotify.com/artist/3RhKSqhIE9U22yFEobw68e) | [L'Africain](https://open.spotify.com/album/3uPdbl5It4snYAz6JHDTIX) | 3:53 |
-| 5 | [Cette vie](https://open.spotify.com/track/0Or2N5tmmDWWKxL9jTSwGa) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Mon sang](https://open.spotify.com/album/2Oikyyu7haPirWi37FN3cr) | 2:54 |
-| 6 | [KONGOLESE SOUS BBL](https://open.spotify.com/track/7eqwODSSwRSniktCjCXZyW) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Jeez Suave](https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P) | [BAD BOY LOVESTORY](https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi) | 2:44 |
-| 7 | [Retiens les rêves](https://open.spotify.com/track/27sn3RfZzADwUpI2kbmrc6) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [PLUS DE REFLETS](https://open.spotify.com/album/673iiuWKaEWX6MqvvN0Cw6) | 3:39 |
+| 5 | [KONGOLESE SOUS BBL](https://open.spotify.com/track/7eqwODSSwRSniktCjCXZyW) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Jeez Suave](https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P) | [BAD BOY LOVESTORY](https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi) | 2:44 |
+| 6 | [PONT CHAMPLAIN](https://open.spotify.com/track/7B1PN0UWtQqoV1yk1gv06l) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [HÉRITAGE](https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K) | 3:30 |
+| 7 | [Ej m'en fus](https://open.spotify.com/track/7Jvbv41yOSYRFPtwq4zBaA) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [P'tit Belliveau](https://open.spotify.com/album/5SZCCO2cJiLbQ5vUopQxh2) | 2:54 |
 | 8 | [Good Lord](https://open.spotify.com/track/0HLZjlJQj7msam8bnAfDLn) | [Salebarbes](https://open.spotify.com/artist/2k67IAknAbf9ShxGNRU2wB) | [Gin à l'eau salée](https://open.spotify.com/album/0rlN4lEdijFYuWIbad6gx6) | 3:08 |
-| 9 | [Entre Matane et Baton Rouge](https://open.spotify.com/track/29GllYlkd8N03oDcNIxl6Z) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [De retour à la source](https://open.spotify.com/album/1LOh0d1tk5J3j2BOrdn5Qa) | 4:28 |
-| 10 | [PONT CHAMPLAIN](https://open.spotify.com/track/7B1PN0UWtQqoV1yk1gv06l) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [HÉRITAGE](https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K) | 3:30 |
-| 11 | [Toutes tes idoles](https://open.spotify.com/track/0381C5wLbJQk9tIHVV2SQ3) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Dix chansons démodées pour ceux qui ont le cœur abîmé](https://open.spotify.com/album/4pOakIeo0Z230TI2eY69i1) | 3:53 |
-| 12 | [Ensemble](https://open.spotify.com/track/55JGh2i5BWxm1vLwcyOEaC) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:02 |
-| 13 | [Dale Hawerchuk](https://open.spotify.com/track/25Yj66WWWgyXbPNJZNNXvS) | [Les Dales Hawerchuk](https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC) | [Les Dales Hawerchuk](https://open.spotify.com/album/5woV8wdB6mPBfgrVONkapY) | 2:12 |
-| 14 | [Honnêtement](https://open.spotify.com/track/4G1JPJckSCgksx4dsrwUAZ) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Honnêtement](https://open.spotify.com/album/4e06ndTo3GoQ2HzwkOiWMn) | 1:55 |
+| 9 | [Retiens les rêves](https://open.spotify.com/track/27sn3RfZzADwUpI2kbmrc6) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [PLUS DE REFLETS](https://open.spotify.com/album/673iiuWKaEWX6MqvvN0Cw6) | 3:39 |
+| 10 | [Entre Matane et Baton Rouge](https://open.spotify.com/track/29GllYlkd8N03oDcNIxl6Z) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [De retour à la source](https://open.spotify.com/album/1LOh0d1tk5J3j2BOrdn5Qa) | 4:28 |
+| 11 | [Honnêtement](https://open.spotify.com/track/4G1JPJckSCgksx4dsrwUAZ) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Honnêtement](https://open.spotify.com/album/4e06ndTo3GoQ2HzwkOiWMn) | 1:55 |
+| 12 | [Toutes tes idoles](https://open.spotify.com/track/0381C5wLbJQk9tIHVV2SQ3) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Dix chansons démodées pour ceux qui ont le cœur abîmé](https://open.spotify.com/album/4pOakIeo0Z230TI2eY69i1) | 3:53 |
+| 13 | [Ensemble](https://open.spotify.com/track/55JGh2i5BWxm1vLwcyOEaC) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:02 |
+| 14 | [Dale Hawerchuk](https://open.spotify.com/track/25Yj66WWWgyXbPNJZNNXvS) | [Les Dales Hawerchuk](https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC) | [Les Dales Hawerchuk](https://open.spotify.com/album/5woV8wdB6mPBfgrVONkapY) | 2:12 |
 | 15 | [Croire en rien](https://open.spotify.com/track/5SpEASywG04sydPc9QRZhz) | [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Quand la nuit tombe](https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo) | 4:05 |
 | 16 | [Ayoye](https://open.spotify.com/track/7rcVLk1UNYWULibdS4BtUY) | [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [Pleure pas ma Fille, sinon Maman va pleurer](https://open.spotify.com/album/3jUTNTAhTvFbKnMBc8yQPy) | 2:52 |
 | 17 | [Le spleen de Montreal](https://open.spotify.com/track/5PHgllaSkUbXuxLze8z37r) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [À demain peut\-être](https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW) | 2:14 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 88 | [Le vent est de ton bord](https://open.spotify.com/track/7wl5kuRvCqPHuyinZFbg1s) | [ALICE](https://open.spotify.com/artist/0GpP2UU9Uv9fulve6gp75x) | [Le vent est de ton bord](https://open.spotify.com/album/4B2wAnlYHd8oGN0GPii1tq) | 3:58 |
 | 89 | [Sans toi](https://open.spotify.com/track/0jcyPUPVS3ob8pD6mgWzFT) | [Passion Poire](https://open.spotify.com/artist/6O7S83SFDd2xDlCKQmad3l) | [Pression des poires](https://open.spotify.com/album/0NZqmS6CKeNSzTOfzjHZrQ) | 2:46 |
 
-Snapshot ID: `aEb7RAAAAAB5LjjMZrDy0ZAUQCGC7WCf`
+Snapshot ID: `aE3SNwAAAABW7sSePViY4PYKLvpWqt/Y`

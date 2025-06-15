@@ -1,6 +1,6 @@
 {
   "description": "\u56de\u5bb6\u7684\u8def\u4e0a\uff0c\u6709\u597d\u807d\u7684\u6b4c\u66f2\u966a\u4f34\uff0c\u6703\u8b93\u4eba\u66ab\u6642\u5fd8\u4e86\u75b2\u5026\u3002",
-  "num_followers": 88919,
+  "num_followers": 88951,
   "original_name": "\u8fd4\u5bb6\u8f15\u807d",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2025-06-12 16:00:09",
       "album": {
-        "name": "\u6211\u597d\u55ce? - \u592a\u967d\u5982\u5e38\u5347\u8d77",
-        "url": "https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM"
-      },
-      "artists": [
-        {
-          "name": "Fish Leong",
-          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
-        }
-      ],
-      "duration_ms": 289604,
-      "name": "\u6162\u51b7",
-      "url": "https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW"
-    },
-    {
-      "added_at": "2025-06-12 16:00:09",
-      "album": {
         "name": "\u60f3\u898b\u4f60\u60f3\u898b\u4f60\u60f3\u898b\u4f60(\u96fb\u8996\u5287\"\u60f3\u898b\u4f60\"\u7247\u5c3e\u66f2)",
         "url": "https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 239794,
       "name": "\u60f3\u898b\u4f60\u60f3\u898b\u4f60\u60f3\u898b\u4f60(\u96fb\u8996\u5287\"\u60f3\u898b\u4f60\"\u7247\u5c3e\u66f2)",
       "url": "https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa"
+    },
+    {
+      "added_at": "2025-06-12 16:00:09",
+      "album": {
+        "name": "\u6211\u597d\u55ce? - \u592a\u967d\u5982\u5e38\u5347\u8d77",
+        "url": "https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM"
+      },
+      "artists": [
+        {
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+        }
+      ],
+      "duration_ms": 289604,
+      "name": "\u6162\u51b7",
+      "url": "https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW"
     },
     {
       "added_at": "2025-06-12 16:00:09",
@@ -235,22 +235,6 @@
     {
       "added_at": "2025-06-12 16:00:09",
       "album": {
-        "name": "\u60f3\u8fc7\u4e0d\u6b62\u4e00\u767e\u904d",
-        "url": "https://open.spotify.com/album/5phB3l1NbFTgPGeYYpLEwW"
-      },
-      "artists": [
-        {
-          "name": "LBI\u5229\u6bd4",
-          "url": "https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J"
-        }
-      ],
-      "duration_ms": 195720,
-      "name": "\u60f3\u8fc7\u4e0d\u6b62\u4e00\u767e\u904d",
-      "url": "https://open.spotify.com/track/0Xld54ZC4WYqTahn8lWn6J"
-    },
-    {
-      "added_at": "2025-06-12 16:00:09",
-      "album": {
         "name": "\u65f6\u5149\u6d2a\u6d41",
         "url": "https://open.spotify.com/album/4BXBO9Tqn43erEulVz5rNz"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 251199,
       "name": "\u65f6\u5149\u6d2a\u6d41",
       "url": "https://open.spotify.com/track/05yDoVDvARdRQCzDNNd6a1"
+    },
+    {
+      "added_at": "2025-06-12 16:00:09",
+      "album": {
+        "name": "\u60f3\u8fc7\u4e0d\u6b62\u4e00\u767e\u904d",
+        "url": "https://open.spotify.com/album/5phB3l1NbFTgPGeYYpLEwW"
+      },
+      "artists": [
+        {
+          "name": "LBI\u5229\u6bd4",
+          "url": "https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J"
+        }
+      ],
+      "duration_ms": 195720,
+      "name": "\u60f3\u8fc7\u4e0d\u6b62\u4e00\u767e\u904d",
+      "url": "https://open.spotify.com/track/0Xld54ZC4WYqTahn8lWn6J"
     },
     {
       "added_at": "2025-06-12 16:00:09",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-06-12 16:00:09",
       "album": {
-        "name": "\u773c\u6dda\u8a18\u5f97\u4f60",
-        "url": "https://open.spotify.com/album/34b13gZHKmAMzg1uqviOxg"
-      },
-      "artists": [
-        {
-          "name": "Shi Shi",
-          "url": "https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi"
-        }
-      ],
-      "duration_ms": 244106,
-      "name": "\u773c\u6dda\u8a18\u5f97\u4f60 - \u96fb\u5f71\u300a\u60f3\u898b\u4f60\u300b\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/0USeB0Tykai3QZj5YAUclG"
-    },
-    {
-      "added_at": "2025-06-12 16:00:09",
-      "album": {
         "name": "\u4ee5\u670b\u53cb\u7684\u8eab\u4efd",
         "url": "https://open.spotify.com/album/6v0EqpVf6wDujILY6Ia7OQ"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 210882,
       "name": "\u4ee5\u670b\u53cb\u7684\u8eab\u4efd",
       "url": "https://open.spotify.com/track/7zYMWbC1ABibwQmJyESgc6"
+    },
+    {
+      "added_at": "2025-06-12 16:00:09",
+      "album": {
+        "name": "\u773c\u6dda\u8a18\u5f97\u4f60",
+        "url": "https://open.spotify.com/album/34b13gZHKmAMzg1uqviOxg"
+      },
+      "artists": [
+        {
+          "name": "Shi Shi",
+          "url": "https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi"
+        }
+      ],
+      "duration_ms": 244106,
+      "name": "\u773c\u6dda\u8a18\u5f97\u4f60 - \u96fb\u5f71\u300a\u60f3\u898b\u4f60\u300b\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/0USeB0Tykai3QZj5YAUclG"
     },
     {
       "added_at": "2025-06-12 16:00:09",
@@ -511,6 +511,22 @@
     {
       "added_at": "2025-06-12 16:00:09",
       "album": {
+        "name": "\u7bc0\u7d04\u7528\u611b",
+        "url": "https://open.spotify.com/album/1e19rU3OJ7pKuhLzIwSvuK"
+      },
+      "artists": [
+        {
+          "name": "DIOR \u5927\u7a4e",
+          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "\u7bc0\u7d04\u7528\u611b",
+      "url": "https://open.spotify.com/track/5ZOwYh8V6YIYeklb3TUPB2"
+    },
+    {
+      "added_at": "2025-06-12 16:00:09",
+      "album": {
         "name": "\u6211\u60f3\u5ff5",
         "url": "https://open.spotify.com/album/31JTgArhlChkvAHXYyDehs"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 248619,
       "name": "\u90fd\u662f\u6d6a\u6f2b\u5bb3\u7684",
       "url": "https://open.spotify.com/track/7lw5s901joNKsEZsRWXzu5"
-    },
-    {
-      "added_at": "2025-06-12 16:00:09",
-      "album": {
-        "name": "\u7bc0\u7d04\u7528\u611b",
-        "url": "https://open.spotify.com/album/1e19rU3OJ7pKuhLzIwSvuK"
-      },
-      "artists": [
-        {
-          "name": "DIOR \u5927\u7a4e",
-          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "\u7bc0\u7d04\u7528\u611b",
-      "url": "https://open.spotify.com/track/5ZOwYh8V6YIYeklb3TUPB2"
     },
     {
       "added_at": "2025-06-12 16:00:09",
@@ -607,26 +607,6 @@
     {
       "added_at": "2025-06-12 16:00:09",
       "album": {
-        "name": "\u7d50\u5c40\u5f88\u7626",
-        "url": "https://open.spotify.com/album/4rp1tnWuQl8fA685WTX5vq"
-      },
-      "artists": [
-        {
-          "name": "Nine Chen",
-          "url": "https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6"
-        },
-        {
-          "name": "\u5f35\u8a9e\u5665",
-          "url": "https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8"
-        }
-      ],
-      "duration_ms": 212112,
-      "name": "\u7d50\u5c40\u5f88\u7626",
-      "url": "https://open.spotify.com/track/4tBOMSTGOyNeAX83lyqru6"
-    },
-    {
-      "added_at": "2025-06-12 16:00:09",
-      "album": {
         "name": "\u559c\u6b61\u4f60\u6bd4\u8aaa\u559c\u6b61\u4f60\u66f4\u5bb9\u6613",
         "url": "https://open.spotify.com/album/6q3p7QtWtE260uTuw1UJqc"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 227000,
       "name": "\u6211\u5011\u5230\u5e95\u7b97\u4ec0\u9ebc",
       "url": "https://open.spotify.com/track/3SSUUro7FoNAWQEa01xtZY"
+    },
+    {
+      "added_at": "2025-06-12 16:00:09",
+      "album": {
+        "name": "\u7d50\u5c40\u5f88\u7626",
+        "url": "https://open.spotify.com/album/4rp1tnWuQl8fA685WTX5vq"
+      },
+      "artists": [
+        {
+          "name": "Nine Chen",
+          "url": "https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6"
+        },
+        {
+          "name": "\u5f35\u8a9e\u5665",
+          "url": "https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8"
+        }
+      ],
+      "duration_ms": 212112,
+      "name": "\u7d50\u5c40\u5f88\u7626",
+      "url": "https://open.spotify.com/track/4tBOMSTGOyNeAX83lyqru6"
     },
     {
       "added_at": "2025-06-12 16:00:09",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-06-12 16:00:09",
       "album": {
-        "name": "\u4f60\u7d66\u6211\u7684",
-        "url": "https://open.spotify.com/album/45jukUGQ4cRFGJPPc59JY0"
-      },
-      "artists": [
-        {
-          "name": "Jia Jia",
-          "url": "https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp"
-        }
-      ],
-      "duration_ms": 239956,
-      "name": "\u4f60\u7d66\u6211\u7684",
-      "url": "https://open.spotify.com/track/6vH3P9bJjfn8ybpeB68H5w"
-    },
-    {
-      "added_at": "2025-06-12 16:00:09",
-      "album": {
         "name": "\u9192\u4f86\u767c\u73fe\u4f60\u4e0d\u5728(\u96fb\u5f71\u300a\u5e73\u884c\u9752\u6625\u7684\u6211\u5011\u300b\u4e2d\u6587\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/430GKv9cMlBrv51jdPmqub"
       },
@@ -759,6 +743,22 @@
     {
       "added_at": "2025-06-12 16:00:09",
       "album": {
+        "name": "\u4f60\u7d66\u6211\u7684",
+        "url": "https://open.spotify.com/album/45jukUGQ4cRFGJPPc59JY0"
+      },
+      "artists": [
+        {
+          "name": "Jia Jia",
+          "url": "https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp"
+        }
+      ],
+      "duration_ms": 239956,
+      "name": "\u4f60\u7d66\u6211\u7684",
+      "url": "https://open.spotify.com/track/6vH3P9bJjfn8ybpeB68H5w"
+    },
+    {
+      "added_at": "2025-06-12 16:00:09",
+      "album": {
         "name": "\u5c0d\u7b49\u95dc\u4fc2 (feat. \u5f35\u60e0\u59b9)",
         "url": "https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2"
       },
@@ -775,6 +775,42 @@
       "duration_ms": 327228,
       "name": "\u5c0d\u7b49\u95dc\u4fc2 (feat. \u5f35\u60e0\u59b9)",
       "url": "https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc"
+    },
+    {
+      "added_at": "2025-06-12 16:00:09",
+      "album": {
+        "name": "\u6211\u662f\u771f\u7684\u76f8\u4fe1\u904e\u611b\u60c5",
+        "url": "https://open.spotify.com/album/7cpBnzeIAjRomRz6QFpUbK"
+      },
+      "artists": [
+        {
+          "name": "\u827e\u8587",
+          "url": "https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90"
+        }
+      ],
+      "duration_ms": 281493,
+      "name": "\u6211\u662f\u771f\u7684\u76f8\u4fe1\u904e\u611b\u60c5",
+      "url": "https://open.spotify.com/track/1jzf9hHC4ADMmQMWvKdhbg"
+    },
+    {
+      "added_at": "2025-06-12 16:00:09",
+      "album": {
+        "name": "\u4e00\u8d77\u5bc2\u5bde Lonely Duet",
+        "url": "https://open.spotify.com/album/4G3e7irPXOurk3SQHkq3a9"
+      },
+      "artists": [
+        {
+          "name": "Feng Ze",
+          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
+        },
+        {
+          "name": "\u827e\u8587",
+          "url": "https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90"
+        }
+      ],
+      "duration_ms": 221052,
+      "name": "\u4e00\u8d77\u5bc2\u5bde Lonely Duet",
+      "url": "https://open.spotify.com/track/4f62bZPnqVJycmFJQVsAA9"
     },
     {
       "added_at": "2025-06-12 16:00:09",
@@ -815,22 +851,6 @@
     {
       "added_at": "2025-06-12 16:00:09",
       "album": {
-        "name": "\u6211\u662f\u771f\u7684\u76f8\u4fe1\u904e\u611b\u60c5",
-        "url": "https://open.spotify.com/album/7cpBnzeIAjRomRz6QFpUbK"
-      },
-      "artists": [
-        {
-          "name": "\u827e\u8587",
-          "url": "https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90"
-        }
-      ],
-      "duration_ms": 281493,
-      "name": "\u6211\u662f\u771f\u7684\u76f8\u4fe1\u904e\u611b\u60c5",
-      "url": "https://open.spotify.com/track/1jzf9hHC4ADMmQMWvKdhbg"
-    },
-    {
-      "added_at": "2025-06-12 16:00:09",
-      "album": {
         "name": "\u60f3\u5ff5\u4f60\u60f3\u6211",
         "url": "https://open.spotify.com/album/7KonHhAjwbnVzzK9B2XCy0"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 248280,
       "name": "\u611b\u60c5\u600e\u9ebc\u4e86\u55ce",
       "url": "https://open.spotify.com/track/5ZaPc3ILOQT4Qc26AZe9od"
-    },
-    {
-      "added_at": "2025-06-12 16:00:09",
-      "album": {
-        "name": "\u4e00\u8d77\u5bc2\u5bde Lonely Duet",
-        "url": "https://open.spotify.com/album/4G3e7irPXOurk3SQHkq3a9"
-      },
-      "artists": [
-        {
-          "name": "Feng Ze",
-          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
-        },
-        {
-          "name": "\u827e\u8587",
-          "url": "https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90"
-        }
-      ],
-      "duration_ms": 221052,
-      "name": "\u4e00\u8d77\u5bc2\u5bde Lonely Duet",
-      "url": "https://open.spotify.com/track/4f62bZPnqVJycmFJQVsAA9"
     },
     {
       "added_at": "2025-06-12 16:00:09",
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-06-12 16:00:09",
       "album": {
+        "name": "\u6708\u4e0a\u6b4c (\u300a\u85cf\u6d77\u4f20\u300b\u7535\u89c6\u5267\u7a7a\u7075\u9a8a\u6b4c)",
+        "url": "https://open.spotify.com/album/5bcywx43Lx4xCYAagN5Gvd"
+      },
+      "artists": [
+        {
+          "name": "\u55ae\u4f9d\u7d14",
+          "url": "https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD"
+        }
+      ],
+      "duration_ms": 220536,
+      "name": "\u6708\u4e0a\u6b4c (\u300a\u85cf\u6d77\u4f20\u300b\u7535\u89c6\u5267\u7a7a\u7075\u9a8a\u6b4c)",
+      "url": "https://open.spotify.com/track/5cUZRDNyRuBzyHWOYol69K"
+    },
+    {
+      "added_at": "2025-06-12 16:00:09",
+      "album": {
         "name": "\u5c0f\u6642\u5019\u7684\u6211\u5011",
         "url": "https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 273818,
       "name": "\u8def\u908a\u7684\u91ce\u82b1",
       "url": "https://open.spotify.com/track/7GWZeRV0UdXItmS7MPZ348"
-    },
-    {
-      "added_at": "2025-06-12 16:00:09",
-      "album": {
-        "name": "\u6708\u4e0a\u6b4c (\u300a\u85cf\u6d77\u4f20\u300b\u7535\u89c6\u5267\u7a7a\u7075\u9a8a\u6b4c)",
-        "url": "https://open.spotify.com/album/5bcywx43Lx4xCYAagN5Gvd"
-      },
-      "artists": [
-        {
-          "name": "\u55ae\u4f9d\u7d14",
-          "url": "https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD"
-        }
-      ],
-      "duration_ms": 220536,
-      "name": "\u6708\u4e0a\u6b4c (\u300a\u85cf\u6d77\u4f20\u300b\u7535\u89c6\u5267\u7a7a\u7075\u9a8a\u6b4c)",
-      "url": "https://open.spotify.com/track/5cUZRDNyRuBzyHWOYol69K"
     },
     {
       "added_at": "2025-06-12 16:00:09",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-06-12 16:00:09",
       "album": {
-        "name": "\u542c\u4e0d\u89c1\u7684\u6b4c (\u7535\u5f71\u300a\u4e0d\u8bf4\u8bdd\u7684\u7231\u300b\u5ba3\u4f20\u66f2)",
-        "url": "https://open.spotify.com/album/1IDg7nTWRZBkAA3i7RsCRV"
-      },
-      "artists": [
-        {
-          "name": "LAY",
-          "url": "https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "\u542c\u4e0d\u89c1\u7684\u6b4c - \u7535\u5f71\u300a\u4e0d\u8bf4\u8bdd\u7684\u7231\u300b\u5ba3\u4f20\u66f2",
-      "url": "https://open.spotify.com/track/1RxBfINup60wJQw7xehLDI"
-    },
-    {
-      "added_at": "2025-06-12 16:00:09",
-      "album": {
         "name": "\u73ab\u7470\u6191\u8b492",
         "url": "https://open.spotify.com/album/017iTtfHd9gyexhcifiahe"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 226363,
       "name": "\u4e5d\u5f4e\u5341\u516b\u62d0",
       "url": "https://open.spotify.com/track/6d1URgz5bJSIsCPsVyvItQ"
+    },
+    {
+      "added_at": "2025-06-12 16:00:09",
+      "album": {
+        "name": "\u542c\u4e0d\u89c1\u7684\u6b4c (\u7535\u5f71\u300a\u4e0d\u8bf4\u8bdd\u7684\u7231\u300b\u5ba3\u4f20\u66f2)",
+        "url": "https://open.spotify.com/album/1IDg7nTWRZBkAA3i7RsCRV"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "\u542c\u4e0d\u89c1\u7684\u6b4c - \u7535\u5f71\u300a\u4e0d\u8bf4\u8bdd\u7684\u7231\u300b\u5ba3\u4f20\u66f2",
+      "url": "https://open.spotify.com/track/1RxBfINup60wJQw7xehLDI"
     },
     {
       "added_at": "2025-06-12 16:00:09",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-06-12 16:00:09",
       "album": {
-        "name": "\u8a18\u61b6\u5496\u5561",
-        "url": "https://open.spotify.com/album/0gdv3ZFByjyBHgyWjdvfV3"
-      },
-      "artists": [
-        {
-          "name": "Della",
-          "url": "https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf"
-        }
-      ],
-      "duration_ms": 243490,
-      "name": "\u8a18\u61b6\u5496\u5561 (\u6232\u5287\u300a\u6b61\u8fce\u5149\u81e8\u4e8c\u4ee3\u5496\u5561\u300b\u4e3b\u984c\u66f2)",
-      "url": "https://open.spotify.com/track/7hcmgiSVOlbAZuwkgJnrFm"
-    },
-    {
-      "added_at": "2025-06-12 16:00:09",
-      "album": {
         "name": "\u5fe0\u5b5d\u6771\u8def\u8d70\u4e5d\u904d",
         "url": "https://open.spotify.com/album/4QFQFIpq2drStUz2yPphHw"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 292133,
       "name": "\u5fe0\u5b5d\u6771\u8def\u8d70\u4e5d\u904d",
       "url": "https://open.spotify.com/track/5vdLbWLiR9dH7uWoFQH6cf"
+    },
+    {
+      "added_at": "2025-06-12 16:00:09",
+      "album": {
+        "name": "\u8a18\u61b6\u5496\u5561",
+        "url": "https://open.spotify.com/album/0gdv3ZFByjyBHgyWjdvfV3"
+      },
+      "artists": [
+        {
+          "name": "Della",
+          "url": "https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf"
+        }
+      ],
+      "duration_ms": 243490,
+      "name": "\u8a18\u61b6\u5496\u5561 (\u6232\u5287\u300a\u6b61\u8fce\u5149\u81e8\u4e8c\u4ee3\u5496\u5561\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/7hcmgiSVOlbAZuwkgJnrFm"
     },
     {
       "added_at": "2025-06-12 16:00:09",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2025-06-12 16:00:09",
       "album": {
+        "name": "\u5c01\u9396\u7dda - \u96fb\u5f71\u300a\u5c71\u5fcc\u9ec3\u8863\u5c0f\u98db\u4fe0\u300b\u7247\u5c3e\u66f2",
+        "url": "https://open.spotify.com/album/0FtgPWglWqnWIS9XalJZDK"
+      },
+      "artists": [
+        {
+          "name": "\u738bADEN",
+          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
+        }
+      ],
+      "duration_ms": 238235,
+      "name": "\u5c01\u9396\u7dda - \u96fb\u5f71\u300a\u5c71\u5fcc\u9ec3\u8863\u5c0f\u98db\u4fe0\u300b\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/19qfZRL0wSiEXLcttvg5pm"
+    },
+    {
+      "added_at": "2025-06-12 16:00:09",
+      "album": {
         "name": "\u540d\u5b57",
         "url": "https://open.spotify.com/album/57aoNt9kmpzov7sBNSmPNq"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 215466,
       "name": "\u672a\u53d1\u9001",
       "url": "https://open.spotify.com/track/0IKt70sonEjlSzcMEjdFYo"
-    },
-    {
-      "added_at": "2025-06-12 16:00:09",
-      "album": {
-        "name": "\u5c01\u9396\u7dda - \u96fb\u5f71\u300a\u5c71\u5fcc\u9ec3\u8863\u5c0f\u98db\u4fe0\u300b\u7247\u5c3e\u66f2",
-        "url": "https://open.spotify.com/album/0FtgPWglWqnWIS9XalJZDK"
-      },
-      "artists": [
-        {
-          "name": "\u738bADEN",
-          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
-        }
-      ],
-      "duration_ms": 238235,
-      "name": "\u5c01\u9396\u7dda - \u96fb\u5f71\u300a\u5c71\u5fcc\u9ec3\u8863\u5c0f\u98db\u4fe0\u300b\u7247\u5c3e\u66f2",
-      "url": "https://open.spotify.com/track/19qfZRL0wSiEXLcttvg5pm"
     },
     {
       "added_at": "2025-06-12 16:00:09",

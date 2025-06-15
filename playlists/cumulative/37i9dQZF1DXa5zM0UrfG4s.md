@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-402 songs - 18 hr 25 min
+403 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Oslo \- Takk, jeg er ferdig](https://open.spotify.com/track/1KRshP62zz9fFXfRzqHOD8) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Oslo \(Takk, jeg er ferdig\)](https://open.spotify.com/album/0YiF4FO522DbWOwzfCW1Fc) | 2:24 | 2021-12-16 | 2022-10-16 |
 | [Partyjoik](https://open.spotify.com/track/180k05Dn11ylHDEkIzvssR) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [Norge rundt med Staysman](https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3) | 2:34 | 2024-02-15 | 2025-03-09 |
 | [Partyjoik](https://open.spotify.com/track/74mJCN9Yr4aTxRM7AbS4FI) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [rOlfFa](https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM) | [Partyjoik](https://open.spotify.com/album/0y18OXhsVZFe0xVABQO1g1) | 2:34 | 2022-02-03 | 2022-08-05 |
+| [Pickup truck](https://open.spotify.com/track/2fEdh5vSdab16mxuTHsnsg) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Pickup truck](https://open.spotify.com/album/2rz9Gjby7rlkDJk3ERaFqx) | 3:30 | 2025-06-12 |  |
 | [PIGA & DRÄNG](https://open.spotify.com/track/3TqNrIB75lAx8rJBzyLNhX) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [PIGA & DRÄNG](https://open.spotify.com/album/2hv4vzbU53T6bjOSv0vpm0) | 2:28 | 2023-08-17 | 2023-10-11 |
 | [Polare](https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM) | [Prilla Generalen](https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak) | [Polare](https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr) | 3:25 | 2021-12-16 |  |
 | [Polisen](https://open.spotify.com/track/4wr2HgyYMvJourcfOMzPCb) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Polisen](https://open.spotify.com/album/4dVz4LIb33QKCJoxQPYyNL) | 2:34 | 2021-12-16 | 2024-02-09 |
@@ -396,7 +397,7 @@
 | [Volvo & Viagra \(feat\. Jaa9\)](https://open.spotify.com/track/0JDaabBuiKaBEpIvwLGXUO) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Jaa9](https://open.spotify.com/artist/6K2UrKcl0B8oxLrZUl4DA4) | [Volvo & Viagra \(feat\. Jaa9\)](https://open.spotify.com/album/4R3gv6RiRbxTxILW9t9U8D) | 2:42 | 2021-12-16 | 2022-07-06 |
 | [VÄRDELÖS](https://open.spotify.com/track/0nP2DjCKa5p1MzAZbRZYfB) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl) | [VÄRDELÖS](https://open.spotify.com/album/46CTCBtHEt05hgOPMf3gLB) | 2:05 | 2023-08-03 | 2023-08-11 |
 | [VÄRMLAND](https://open.spotify.com/track/2t6YJRoJu1xKIq45Nk7EX6) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [VÄRMLAND](https://open.spotify.com/album/0ekx3OiXJ0DZ68xa5eM0XR) | 2:26 | 2021-12-16 | 2022-11-16 |
-| [Vårrull](https://open.spotify.com/track/4tE2ySKkRFJtT36q5ie1fv) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Vårrull](https://open.spotify.com/album/3weP2oF0T3NhFCDJqXGIbx) | 2:17 | 2023-03-23 |  |
+| [Vårrull](https://open.spotify.com/track/4tE2ySKkRFJtT36q5ie1fv) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Vårrull](https://open.spotify.com/album/3weP2oF0T3NhFCDJqXGIbx) | 2:17 | 2023-03-23 | 2025-06-15 |
 | [Wellerman](https://open.spotify.com/track/4rFhv1bOt5M7rRa83KEY71) | [Cir.Cuz](https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E) | [Wellerman](https://open.spotify.com/album/6yNcSpbsvKajZWEOANv9NR) | 2:31 | 2021-12-16 | 2022-12-03 |
 | [Wellerman \- Sea Shanty / 220 KID x Billen Ted Remix](https://open.spotify.com/track/3iw6V4LH7yPj1ESORX9RIN) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Wellerman \(Sea Shanty / 220 KID x Billen Ted Remix\)](https://open.spotify.com/album/1zEBi4O4AaY5M55dUcUp3z) | 1:56 | 2022-10-13 | 2024-02-09 |
 | [Worth The Risk](https://open.spotify.com/track/7emllhbuaBXiFnal8ZOSft) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Worth The Risk](https://open.spotify.com/album/4xNCGf3ddwkMUGqo3IX65P) | 2:44 | 2022-04-07 | 2022-07-02 |

@@ -4,7 +4,7 @@
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-144 songs - 7 hr 8 min
+145 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Lose Control](https://open.spotify.com/track/5QhVuThB74lRLXOYUfyPjS) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Lose Control](https://open.spotify.com/album/0Uk9GsS4sbh7yvTECaMnti) | 3:10 | 2024-04-14 | 2024-07-01 |
 | [Love Again](https://open.spotify.com/track/4lqFiuMXlUwUgwDuvt4igC) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 3:11 | 2023-02-16 | 2023-06-10 |
 | [Made You Look](https://open.spotify.com/track/6gleJ9nGfCM0TljHXD2kfi) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 2:15 | 2023-09-15 | 2025-06-11 |
+| [Messy](https://open.spotify.com/track/5QVnZ3YuUSIPaOd4NXeQAb) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Messy](https://open.spotify.com/album/5SSL3rCkTFgJjrRIDogO2J) | 4:04 | 2025-06-15 |  |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/7HPYVH6m34l6XdA5nfSxJ9) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [MI EX TENÍA RAZÓN](https://open.spotify.com/album/2kS4RNfnbylHRU61Cg6NpO) | 2:19 | 2023-12-16 | 2024-01-19 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7K9PMuKlniCS0uHRX0FWlU) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [MILLION DOLLAR BABY](https://open.spotify.com/album/3fcpT9C5xaM6hBOuR13n2K) | 2:35 | 2024-08-25 | 2024-10-28 |
 | [Miracle](https://open.spotify.com/track/4Dz7EP3E3x6MNp6Vpa5qsb) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Miracle](https://open.spotify.com/album/1TBuzTYSJFTl5HXKDnHcZU) | 2:51 | 2023-11-10 | 2024-03-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Camille, DYSTINCT & J Balvin, Sylvie Kreusch and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,259 likes - 94 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,269 likes - 94 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

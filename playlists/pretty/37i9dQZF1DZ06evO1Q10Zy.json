@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 36988,
+  "num_followers": 36994,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAACIE9IS8PY8KTISovGSsFAW",
+  "snapshot_id": "aEtqAAAAAADDNPKiARIexD4sJcX6sK6o",
   "tracks": [
     {
       "added_at": null,
@@ -827,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tender Lover",
+        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 311533,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Partners (Deluxe)",
         "url": "https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG"
       },
@@ -847,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tender Lover",
-        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 311533,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Return Of The Tender Lover",
         "url": "https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw"
       },
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Closer Look",
-        "url": "https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 352866,
-      "name": "Two Occasions (Live) - Live Version",
-      "url": "https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grown & Sexy",
         "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 276560,
       "name": "The Loneliness",
       "url": "https://open.spotify.com/track/19i9vT76D5UCM5GyHe7FcW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Closer Look",
+        "url": "https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 352866,
+      "name": "Two Occasions (Live) - Live Version",
+      "url": "https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LGssahBoms.md) - [plain]
 
 > Le meilleur des années 70 en 70 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,202 likes - 70 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,231 likes - 70 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "A playlist to get you through your whole workday.",
-  "num_followers": 331506,
+  "num_followers": 331541,
   "original_name": "Music for a Workday",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -439,18 +423,18 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 196373,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
+      "duration_ms": 216773,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -467,6 +451,22 @@
       "duration_ms": 193120,
       "name": "Baby Can I Hold You",
       "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 199756,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Ronan",
         "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 256825,
       "name": "When You Say Nothing At All",
       "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 199756,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -637,6 +637,22 @@
       "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
     },
     {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
+    },
+    {
       "added_at": "2025-03-18 09:51:32",
       "album": {
         "name": "Call Me When You Break Up (with Gracie Abrams)",
@@ -659,22 +675,6 @@
       "duration_ms": 126831,
       "name": "Call Me When You Break Up (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231826,
-      "name": "Blank Space",
-      "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Footloose (15th Anniversary Collectors' Edition)",
-        "url": "https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC"
-      },
-      "artists": [
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        }
-      ],
-      "duration_ms": 226826,
-      "name": "Footloose - From \"Footloose\" Soundtrack",
-      "url": "https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "All Your Fault: Pt. 2",
         "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 163870,
       "name": "Meant to Be (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Footloose (15th Anniversary Collectors' Edition)",
+        "url": "https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "duration_ms": 226826,
+      "name": "Footloose - From \"Footloose\" Soundtrack",
+      "url": "https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
+      },
+      "artists": [
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "duration_ms": 253295,
+      "name": "Walking on Broken Glass",
+      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 219933,
       "name": "Forever (feat. Post Malone & Clever)",
       "url": "https://open.spotify.com/track/2ZlCGeK30BLRNSPC832pNZ"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
-      },
-      "artists": [
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        }
-      ],
-      "duration_ms": 253295,
-      "name": "Walking on Broken Glass",
-      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Dear April (Side A - Acoustic)",
-        "url": "https://open.spotify.com/album/4XPUXLAWXqM3uWMTucItjd"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 231040,
-      "name": "Dear April (Side A - Acoustic)",
-      "url": "https://open.spotify.com/track/62ljuuXo0zrcrtJnnOhfxT"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Please Don't Go",
         "url": "https://open.spotify.com/album/2SF8Wbc61u8hlQkZYGVCnx"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 210580,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/3cNjgVBKTJ1SvKhunrCdVy"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Dear April (Side A - Acoustic)",
+        "url": "https://open.spotify.com/album/4XPUXLAWXqM3uWMTucItjd"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 231040,
+      "name": "Dear April (Side A - Acoustic)",
+      "url": "https://open.spotify.com/track/62ljuuXo0zrcrtJnnOhfxT"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "Coming Around Again",
+        "url": "https://open.spotify.com/album/4e8tywT8lMIUakJnX6aFcc"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 218493,
+      "name": "Coming Around Again",
+      "url": "https://open.spotify.com/track/4YVjOnSTkv0ZVdgI6sS7Wb"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/1jcNHi5D96aaD0T5f1OjFY"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 163905,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "Coming Around Again",
-        "url": "https://open.spotify.com/album/4e8tywT8lMIUakJnX6aFcc"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "Coming Around Again",
-      "url": "https://open.spotify.com/track/4YVjOnSTkv0ZVdgI6sS7Wb"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Working Class Dog",
-        "url": "https://open.spotify.com/album/5MeeResNCJfmDmwmHX4w2D"
-      },
-      "artists": [
-        {
-          "name": "Rick Springfield",
-          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
-        }
-      ],
-      "duration_ms": 194266,
-      "name": "Jessie's Girl",
-      "url": "https://open.spotify.com/track/2F1fnE1a8zQCogM6jJifHH"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "In the Midnight Hour",
         "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 157160,
       "name": "In the Midnight Hour",
       "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Working Class Dog",
+        "url": "https://open.spotify.com/album/5MeeResNCJfmDmwmHX4w2D"
+      },
+      "artists": [
+        {
+          "name": "Rick Springfield",
+          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
+        }
+      ],
+      "duration_ms": 194266,
+      "name": "Jessie's Girl",
+      "url": "https://open.spotify.com/track/2F1fnE1a8zQCogM6jJifHH"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "To Die For",
-        "url": "https://open.spotify.com/album/2motAeq8jZvHkF4VpbWSHf"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 193795,
-      "name": "To Die For",
-      "url": "https://open.spotify.com/track/2ZTYlnhhV1UAReg7wIGolx"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "G.R.L.",
         "url": "https://open.spotify.com/album/3EnagjeTqe4GvpF3dgVPtF"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 198306,
       "name": "Ugly Heart",
       "url": "https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "To Die For",
+        "url": "https://open.spotify.com/album/2motAeq8jZvHkF4VpbWSHf"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 193795,
+      "name": "To Die For",
+      "url": "https://open.spotify.com/track/2ZTYlnhhV1UAReg7wIGolx"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "80s 100 Hits",
-        "url": "https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 248200,
-      "name": "Don't Stop Believin'",
-      "url": "https://open.spotify.com/track/3HRQtRUYnnuZY7fE900XtJ"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX"
       },
@@ -1859,6 +1843,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "80s 100 Hits",
+        "url": "https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Don't Stop Believin'",
+      "url": "https://open.spotify.com/track/3HRQtRUYnnuZY7fE900XtJ"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Feargal Sharkey",
         "url": "https://open.spotify.com/album/1fnuPLerUrbVfzcHyY6H5N"
       },
@@ -1871,6 +1871,22 @@
       "duration_ms": 281800,
       "name": "A Good Heart",
       "url": "https://open.spotify.com/track/4umQbcdBF3YVsNBvvnFLiX"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 243186,
+      "name": "Quite Miss Home",
+      "url": "https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1915,22 +1931,6 @@
       "duration_ms": 194416,
       "name": "Homesick (with Sam Fender)",
       "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 243186,
-      "name": "Quite Miss Home",
-      "url": "https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2457,6 +2457,22 @@
       "url": "https://open.spotify.com/track/0v3BMLcwUmAwyqJaf5997o"
     },
     {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Boys Like You (Acoustic)",
+        "url": "https://open.spotify.com/album/5vFQw6vOWYH9SaYVbSY9to"
+      },
+      "artists": [
+        {
+          "name": "Anna Clendening",
+          "url": "https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD"
+        }
+      ],
+      "duration_ms": 238576,
+      "name": "Boys Like You - Acoustic",
+      "url": "https://open.spotify.com/track/51xRMJFRBrW9C1RI1qW4S0"
+    },
+    {
       "added_at": "2024-05-28 07:30:45",
       "album": {
         "name": "Cozy",
@@ -2479,22 +2495,6 @@
       "duration_ms": 165339,
       "name": "Cozy",
       "url": "https://open.spotify.com/track/5mRFZlOAptPpimncCeBxoJ"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "Boys Like You (Acoustic)",
-        "url": "https://open.spotify.com/album/5vFQw6vOWYH9SaYVbSY9to"
-      },
-      "artists": [
-        {
-          "name": "Anna Clendening",
-          "url": "https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD"
-        }
-      ],
-      "duration_ms": 238576,
-      "name": "Boys Like You - Acoustic",
-      "url": "https://open.spotify.com/track/51xRMJFRBrW9C1RI1qW4S0"
     }
   ],
   "unique_name": "Music for a Workday",

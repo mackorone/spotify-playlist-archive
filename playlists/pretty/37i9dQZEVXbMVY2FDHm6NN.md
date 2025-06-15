@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,561 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,574 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 49 | [OGS](https://open.spotify.com/track/6KspA5I7eXMCcK4PgXmOPA) | [頑童Mj116](https://open.spotify.com/artist/7aMQdNM05rPkcHS1ethHUx) | [OGS](https://open.spotify.com/album/7D9rOL7WY5ZIJVpVAkhvs5) | 2:40 |
 | 50 | [閣愛妳一擺](https://open.spotify.com/track/4Zwn8WxD61diTwqv9hyTQA) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [閣愛妳一擺](https://open.spotify.com/album/1KaZUKYBcVHaxD3gd8N3M7) | 4:38 |
 
-Snapshot ID: `L9+WeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `L+DsqAAAAAAAAAAAAAAAAAAAAAAAAGVu`

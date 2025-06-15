@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gC5r0uG7De.md) - [plain]
 
 > These are the songs that shape <a href="https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x?si=mZUAo3dRQaGyttnHQTVj5g">Turnstile's'</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,233 likes - 34 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,237 likes - 34 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gC5r0uG7De.md) - [plain]
 | 33 | [Jesus Freak Lighter](https://open.spotify.com/track/69HzCwBpJw1oP53cJtKRUz) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Four Songs](https://open.spotify.com/album/4hsC2oeoSkJiULLob8zM98) | 2:32 |
 | 34 | [ENDLESS](https://open.spotify.com/track/6yzMX2L7bjFbklJPfBIO3o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 1:58 |
 
-Snapshot ID: `ZaDHUAAAAADhPHIh/dfcpvGyflMCsEQ0`
+Snapshot ID: `ZaDHUAAAAAB3Cb/2fUZkAltjY1iM/2nQ`

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 35019,
+  "num_followers": 35024,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAACRNkcg9BCzl4gsOGThR4rq",
+  "snapshot_id": "aEtqAAAAAAAaJ77hIB1pZbgXkBf8QuZk",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arrebol",
-        "url": "https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 408000,
-      "name": "Arrebol",
-      "url": "https://open.spotify.com/track/6jKbQFXeH2rzcR7t6wdOJ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serie De Oro",
         "url": "https://open.spotify.com/album/7A7yT68R727jeKLxPOAiRj"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 223266,
       "name": "Sue\u00f1o Del Inca",
       "url": "https://open.spotify.com/track/3y0BB4Af1j5F4AcE5BNCN0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arrebol",
+        "url": "https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 408000,
+      "name": "Arrebol",
+      "url": "https://open.spotify.com/track/6jKbQFXeH2rzcR7t6wdOJ4"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canci\u00f3n del Sur",
-        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 205680,
-      "name": "Canci\u00f3n para los P\u00e1jaros",
-      "url": "https://open.spotify.com/track/2zzg9kZeDPOv2QR7F4EE4C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Obras de Violeta Parra",
         "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 667266,
       "name": "Arauco Tiene una Pena",
       "url": "https://open.spotify.com/track/1YyXDlQOYt0JNyxEapmv0U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canci\u00f3n del Sur",
+        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "Canci\u00f3n para los P\u00e1jaros",
+      "url": "https://open.spotify.com/track/2zzg9kZeDPOv2QR7F4EE4C"
     },
     {
       "added_at": null,

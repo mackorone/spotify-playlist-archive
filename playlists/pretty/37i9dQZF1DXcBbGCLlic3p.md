@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 
 > Restorative piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,323 likes - 189 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,334 likes - 189 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 | 188 | [Wherever The Light Takes Me](https://open.spotify.com/track/0kQs60Eec9PnDAwvyS3iN1) | [Gual Levine](https://open.spotify.com/artist/1mhDm5AwhS5vAUIO91hHVU) | [Wherever The Light Takes Me](https://open.spotify.com/album/0EhwcIS4mOfZCech509hwA) | 2:51 |
 | 189 | [Blue Planet](https://open.spotify.com/track/29KXf3gbyfbtG5OWTxnssl) | [Sleep Cyclone](https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D) | [Down by the Ocean](https://open.spotify.com/album/0bTZu5D0Z4u6q6h1Rpz91b) | 3:05 |
 
-Snapshot ID: `aBDUtgAAAAAgB3sapToMgCSG6PUi4Rym`
+Snapshot ID: `aBDUtgAAAACm/6VjkAUIIMq5KwQ6EfWK`

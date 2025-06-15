@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,606 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,607 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 34 | [It Won't Be Anything Anyway \(with deulrejang\)](https://open.spotify.com/track/1A5xMM3UvEL1pldYBhfN2J) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg), [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Without Anyone Knowing](https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A) | 5:14 |
 | 35 | [Prayers of a Hedgehog](https://open.spotify.com/track/2mUleIbjQ4nuVn9Cro8J0C) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Adventure](https://open.spotify.com/album/4i6gtCu9JPnMSRGPmOLpF2) | 3:24 |
 | 36 | [Call me now](https://open.spotify.com/track/7AfXFqHlw1HVRPobCInpsU) | [JI JIN SEOK](https://open.spotify.com/artist/5iwc2ZJnuU9g4F6JaAY6Zw) | [Call me now](https://open.spotify.com/album/31a95WflUiSabbWq0RAchF) | 3:53 |
-| 37 | [A long goodbye \(with jangheewon\)](https://open.spotify.com/track/061Ux23ax9kBY7WnrwZJEi) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [A long goodbye \(with jangheewon\)](https://open.spotify.com/album/6CpMftwOS947ubCDQaTodv) | 3:28 |
-| 38 | [Letter](https://open.spotify.com/track/6IFltGdAUMosyFl0ZieEF7) | [615](https://open.spotify.com/artist/1R2KUW45CEHkpv8fAgPADp) | [1](https://open.spotify.com/album/6HhqELdvnGGbBQVYoTj239) | 3:28 |
+| 37 | [Letter](https://open.spotify.com/track/6IFltGdAUMosyFl0ZieEF7) | [615](https://open.spotify.com/artist/1R2KUW45CEHkpv8fAgPADp) | [1](https://open.spotify.com/album/6HhqELdvnGGbBQVYoTj239) | 3:28 |
+| 38 | [A long goodbye \(with jangheewon\)](https://open.spotify.com/track/061Ux23ax9kBY7WnrwZJEi) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [A long goodbye \(with jangheewon\)](https://open.spotify.com/album/6CpMftwOS947ubCDQaTodv) | 3:28 |
 | 39 | [Do You Know My Heart \(Feat\. NUITNUIT\)](https://open.spotify.com/track/5NmIcpSaKgwkmezmI8LQDC) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Do You Know My Heart](https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD) | 3:21 |
 | 40 | [Night you went away \(Korean Ver.\) \(Vocal\. Kim gyeol\)](https://open.spotify.com/track/23clB8BECFpgtKMCHtalKA) | [SUNGHWI](https://open.spotify.com/artist/7rlrjdWClWXnQ0flmhBMXR) | [Night you went away](https://open.spotify.com/album/7IyhdnLq6eepb1UlrC4ngp) | 3:38 |
 | 41 | [Dream](https://open.spotify.com/track/46eCeipMrAoRS5gTkmzgrK) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Dream](https://open.spotify.com/album/5sXb3IWnfelEvKB7zzW0nV) | 6:14 |

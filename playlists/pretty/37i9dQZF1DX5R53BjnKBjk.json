@@ -199,6 +199,22 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
+        "name": "\u00d3leo de Coco",
+        "url": "https://open.spotify.com/album/33oj13c8oLa1KVFK2f5jpr"
+      },
+      "artists": [
+        {
+          "name": "Guil\u00e9",
+          "url": "https://open.spotify.com/artist/3LcImgfMSyblXrPbb2FeZl"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "\u00d3leo de Coco",
+      "url": "https://open.spotify.com/track/5mF6dnj2rxGMVrGLbLXk5Z"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
         "name": "Sabotagem",
         "url": "https://open.spotify.com/album/0SbZxcv1ZTmPx3u5whGP3N"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 166927,
       "name": "Sabotagem",
       "url": "https://open.spotify.com/track/1oKeFnoD4jIQ9EiUyW4msF"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
-        "name": "\u00d3leo de Coco",
-        "url": "https://open.spotify.com/album/33oj13c8oLa1KVFK2f5jpr"
-      },
-      "artists": [
-        {
-          "name": "Guil\u00e9",
-          "url": "https://open.spotify.com/artist/3LcImgfMSyblXrPbb2FeZl"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "\u00d3leo de Coco",
-      "url": "https://open.spotify.com/track/5mF6dnj2rxGMVrGLbLXk5Z"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Do Meu Lado",
-        "url": "https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX"
-      },
-      "artists": [
-        {
-          "name": "Veni",
-          "url": "https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl"
-        }
-      ],
-      "duration_ms": 151187,
-      "name": "Do Meu Lado",
-      "url": "https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 230588,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Do Meu Lado",
+        "url": "https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX"
+      },
+      "artists": [
+        {
+          "name": "Veni",
+          "url": "https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl"
+        }
+      ],
+      "duration_ms": 151187,
+      "name": "Do Meu Lado",
+      "url": "https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "A Vida \u00e9 Uma Granada",
-        "url": "https://open.spotify.com/album/2mM0SEjQaE4PnR9zpPeIrO"
-      },
-      "artists": [
-        {
-          "name": "DINGO",
-          "url": "https://open.spotify.com/artist/2sUDjU3jdpKtqxUMn0GRc4"
-        }
-      ],
-      "duration_ms": 206484,
-      "name": "A Vida \u00e9 Uma Granada",
-      "url": "https://open.spotify.com/track/6MCrJunzD53N8RzvbuzkXm"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Pe\u00e7o Pra Voc\u00ea",
         "url": "https://open.spotify.com/album/2r1KTbIu4SQDhlYX2jKSwS"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 180440,
       "name": "Pe\u00e7o Pra Voc\u00ea",
       "url": "https://open.spotify.com/track/2gHdwywG9tXQrb06feK7NP"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "A Vida \u00e9 Uma Granada",
+        "url": "https://open.spotify.com/album/2mM0SEjQaE4PnR9zpPeIrO"
+      },
+      "artists": [
+        {
+          "name": "DINGO",
+          "url": "https://open.spotify.com/artist/2sUDjU3jdpKtqxUMn0GRc4"
+        }
+      ],
+      "duration_ms": 206484,
+      "name": "A Vida \u00e9 Uma Granada",
+      "url": "https://open.spotify.com/track/6MCrJunzD53N8RzvbuzkXm"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Fica Comigo",
-        "url": "https://open.spotify.com/album/6rLTqTd9CpYuWxbVZRGPwS"
-      },
-      "artists": [
-        {
-          "name": "Ana L\u00e9lia",
-          "url": "https://open.spotify.com/artist/450LxlI65tn8OqyNr3XmOm"
-        }
-      ],
-      "duration_ms": 218117,
-      "name": "Fica Comigo",
-      "url": "https://open.spotify.com/track/0ydIAs5h5yOkavyEf9Ewk0"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Como \u00c9 Que Faz",
         "url": "https://open.spotify.com/album/4MZVN5ztuGCDwsiwTScY1e"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 160747,
       "name": "Como \u00c9 Que Faz",
       "url": "https://open.spotify.com/track/4MSEDP06PEA2fcdTkxhYgx"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Fica Comigo",
+        "url": "https://open.spotify.com/album/6rLTqTd9CpYuWxbVZRGPwS"
+      },
+      "artists": [
+        {
+          "name": "Ana L\u00e9lia",
+          "url": "https://open.spotify.com/artist/450LxlI65tn8OqyNr3XmOm"
+        }
+      ],
+      "duration_ms": 218117,
+      "name": "Fica Comigo",
+      "url": "https://open.spotify.com/track/0ydIAs5h5yOkavyEf9Ewk0"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "YASSIQ",
-        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
+        "name": "Voraz",
+        "url": "https://open.spotify.com/album/2UB78K0EAmpgccF0WYRMMw"
       },
       "artists": [
         {
-          "name": "YASSIQ",
-          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
+          "name": "GAROU\u00c1",
+          "url": "https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN"
         }
       ],
-      "duration_ms": 128771,
-      "name": "AL\u00d4",
-      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
+      "duration_ms": 131123,
+      "name": "Voraz",
+      "url": "https://open.spotify.com/track/3VwZQVbPTpQjnmMk6naYXU"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -855,18 +855,18 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Voraz",
-        "url": "https://open.spotify.com/album/2UB78K0EAmpgccF0WYRMMw"
+        "name": "YASSIQ",
+        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
       },
       "artists": [
         {
-          "name": "GAROU\u00c1",
-          "url": "https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN"
+          "name": "YASSIQ",
+          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
         }
       ],
-      "duration_ms": 131123,
-      "name": "Voraz",
-      "url": "https://open.spotify.com/track/3VwZQVbPTpQjnmMk6naYXU"
+      "duration_ms": 128771,
+      "name": "AL\u00d4",
+      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Um Brinde",
-        "url": "https://open.spotify.com/album/1vOwSOaTYvQd8cqvpGcFX2"
-      },
-      "artists": [
-        {
-          "name": "Rick Agra",
-          "url": "https://open.spotify.com/artist/0Nt78ssG93jnXJjmJO3KnN"
-        }
-      ],
-      "duration_ms": 153634,
-      "name": "Um Brinde",
-      "url": "https://open.spotify.com/track/1rt90TEAfqAtnfHZlI3uyV"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Fora de S\u00e9rie",
         "url": "https://open.spotify.com/album/0VtGpgS7R3h1miGNzGap30"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 198250,
       "name": "Fora de S\u00e9rie",
       "url": "https://open.spotify.com/track/321nrfz5F0VEjBhgo2mB8R"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Um Brinde",
+        "url": "https://open.spotify.com/album/1vOwSOaTYvQd8cqvpGcFX2"
+      },
+      "artists": [
+        {
+          "name": "Rick Agra",
+          "url": "https://open.spotify.com/artist/0Nt78ssG93jnXJjmJO3KnN"
+        }
+      ],
+      "duration_ms": 153634,
+      "name": "Um Brinde",
+      "url": "https://open.spotify.com/track/1rt90TEAfqAtnfHZlI3uyV"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Por um Fio",
-        "url": "https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd"
-      },
-      "artists": [
-        {
-          "name": "Sulamericana",
-          "url": "https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ"
-        }
-      ],
-      "duration_ms": 189271,
-      "name": "Por um Fio",
-      "url": "https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "\u00d4 Lulu",
         "url": "https://open.spotify.com/album/55xxEtIfagPjZR5LcCMJbP"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 184646,
       "name": "\u00d4 Lulu",
       "url": "https://open.spotify.com/track/4zANO1rVIY1EeaDyyI3BN6"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Por um Fio",
+        "url": "https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd"
+      },
+      "artists": [
+        {
+          "name": "Sulamericana",
+          "url": "https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ"
+        }
+      ],
+      "duration_ms": 189271,
+      "name": "Por um Fio",
+      "url": "https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Esquece",
-        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
-      },
-      "artists": [
-        {
-          "name": "Jalma",
-          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
-        }
-      ],
-      "duration_ms": 178526,
-      "name": "Esquece",
-      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Disfar\u00e7a",
         "url": "https://open.spotify.com/album/19Z6YlIy7In820N5JN52EW"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 159736,
       "name": "Disfar\u00e7a",
       "url": "https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Esquece",
+        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
+      },
+      "artists": [
+        {
+          "name": "Jalma",
+          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
+        }
+      ],
+      "duration_ms": 178526,
+      "name": "Esquece",
+      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
     },
     {
       "added_at": "2024-05-22 08:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: 7 Hills Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,066 likes - 80 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,104 likes - 80 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 79 | [Slower I Go \- Studio](https://open.spotify.com/track/0T45uaLw5tJb1ZpiNbX0MA) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [Slower I Go \(Studio\)](https://open.spotify.com/album/6UWtzsqOckTOQWzlrq7Qvp) | 4:18 |
 | 80 | [We Bow Low \- Studio Version](https://open.spotify.com/track/5gb9Jqn1WZErWWD5yV2m68) | [MVMNT Music](https://open.spotify.com/artist/6hqd7tuxGE8xQkIH9GZY4z) | [Things Of Heaven](https://open.spotify.com/album/2773dqfopUODXvsX1T5N3J) | 4:32 |
 
-Snapshot ID: `AAAAAK2F4rgJUK1VSup1UHiyL0kJKZ1o`
+Snapshot ID: `aELXgQAAAACJSF8BYusPmTMuY+tsoplf`

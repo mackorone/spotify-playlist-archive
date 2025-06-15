@@ -1,6 +1,6 @@
 {
   "description": "I Clipse sono tornati, Pusha T e Malice \ud83d\udd25",
-  "num_followers": 207923,
+  "num_followers": 207919,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2025-05-29 22:01:18",
       "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 159586,
-      "name": "DENIAL IS A RIVER",
-      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
-    },
-    {
-      "added_at": "2025-05-29 22:01:18",
-      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 209680,
       "name": "RATHER LIE (with The Weeknd)",
       "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn"
+    },
+    {
+      "added_at": "2025-05-29 22:01:18",
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 159586,
+      "name": "DENIAL IS A RIVER",
+      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
     },
     {
       "added_at": "2025-05-29 22:01:18",
@@ -543,26 +543,6 @@
     {
       "added_at": "2025-05-29 22:01:18",
       "album": {
-        "name": "Money On Money (feat. Future)",
-        "url": "https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 236626,
-      "name": "Money On Money (feat. Future)",
-      "url": "https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m"
-    },
-    {
-      "added_at": "2025-05-29 22:01:18",
-      "album": {
         "name": "Cap\u00edtulo 1",
         "url": "https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 211456,
       "name": "Sigue",
       "url": "https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ"
+    },
+    {
+      "added_at": "2025-05-29 22:01:18",
+      "album": {
+        "name": "Money On Money (feat. Future)",
+        "url": "https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 236626,
+      "name": "Money On Money (feat. Future)",
+      "url": "https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m"
     },
     {
       "added_at": "2025-05-29 22:01:18",
@@ -867,18 +867,26 @@
     {
       "added_at": "2025-05-29 22:01:18",
       "album": {
-        "name": "Follow You",
-        "url": "https://open.spotify.com/album/3xAcJuzZ9QQuMbuuViPOfE"
+        "name": "SPINNIN (Segway Remix)",
+        "url": "https://open.spotify.com/album/30fTwlAHWOXQD3xjykulWu"
       },
       "artists": [
         {
-          "name": "Noizy",
-          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        },
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        },
+        {
+          "name": "Segway",
+          "url": "https://open.spotify.com/artist/7emE9DFe8qmCjk4Od7Ruak"
         }
       ],
-      "duration_ms": 164546,
-      "name": "Follow You",
-      "url": "https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc"
+      "duration_ms": 162253,
+      "name": "Spinnin (feat. Nemzzz) - Segway Remix",
+      "url": "https://open.spotify.com/track/5H7JrQsT47tMwNFiPLSnEi"
     },
     {
       "added_at": "2025-05-29 22:01:18",
@@ -907,26 +915,18 @@
     {
       "added_at": "2025-05-29 22:01:18",
       "album": {
-        "name": "SPINNIN (Segway Remix)",
-        "url": "https://open.spotify.com/album/30fTwlAHWOXQD3xjykulWu"
+        "name": "Follow You",
+        "url": "https://open.spotify.com/album/3xAcJuzZ9QQuMbuuViPOfE"
       },
       "artists": [
         {
-          "name": "ONEFOUR",
-          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
-        },
-        {
-          "name": "Nemzzz",
-          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
-        },
-        {
-          "name": "Segway",
-          "url": "https://open.spotify.com/artist/7emE9DFe8qmCjk4Od7Ruak"
+          "name": "Noizy",
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
         }
       ],
-      "duration_ms": 162253,
-      "name": "Spinnin (feat. Nemzzz) - Segway Remix",
-      "url": "https://open.spotify.com/track/5H7JrQsT47tMwNFiPLSnEi"
+      "duration_ms": 164546,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc"
     },
     {
       "added_at": "2025-05-29 22:01:18",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-05-29 22:01:18",
       "album": {
-        "name": "D&P \u00e0 vie",
-        "url": "https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 163173,
-      "name": "2 coups d'avance",
-      "url": "https://open.spotify.com/track/6d0lfsGYZP3zaoyscLS3Ah"
-    },
-    {
-      "added_at": "2025-05-29 22:01:18",
-      "album": {
         "name": "Tailor Swif",
         "url": "https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 155391,
       "name": "Tailor Swif",
       "url": "https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr"
+    },
+    {
+      "added_at": "2025-05-29 22:01:18",
+      "album": {
+        "name": "D&P \u00e0 vie",
+        "url": "https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 163173,
+      "name": "2 coups d'avance",
+      "url": "https://open.spotify.com/track/6d0lfsGYZP3zaoyscLS3Ah"
     },
     {
       "added_at": "2025-05-29 22:01:18",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2025-05-29 22:01:18",
       "album": {
-        "name": "Coco",
-        "url": "https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 148657,
-      "name": "Coco",
-      "url": "https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm"
-    },
-    {
-      "added_at": "2025-05-29 22:01:18",
-      "album": {
         "name": "Tobey (feat. Big Sean and BabyTron)",
         "url": "https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 284892,
       "name": "Tobey (feat. Big Sean and BabyTron)",
       "url": "https://open.spotify.com/track/4KWeGKChLKcnZsj3sIOSkW"
+    },
+    {
+      "added_at": "2025-05-29 22:01:18",
+      "album": {
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 148657,
+      "name": "Coco",
+      "url": "https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm"
     },
     {
       "added_at": "2025-05-29 22:01:18",
@@ -2171,6 +2171,22 @@
     {
       "added_at": "2025-05-29 22:01:18",
       "album": {
+        "name": "Lo Niego",
+        "url": "https://open.spotify.com/album/0bJDByZM5TEIPDwBQARs9X"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Lo Niego",
+      "url": "https://open.spotify.com/track/2PDsUiOH8ZcIOocvEhrZ7N"
+    },
+    {
+      "added_at": "2025-05-29 22:01:18",
+      "album": {
         "name": "Style Rare (with Gunna)",
         "url": "https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0"
       },
@@ -2191,22 +2207,6 @@
     {
       "added_at": "2025-05-29 22:01:18",
       "album": {
-        "name": "Lo Niego",
-        "url": "https://open.spotify.com/album/0bJDByZM5TEIPDwBQARs9X"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Lo Niego",
-      "url": "https://open.spotify.com/track/2PDsUiOH8ZcIOocvEhrZ7N"
-    },
-    {
-      "added_at": "2025-05-29 22:01:18",
-      "album": {
         "name": "Gas Me Up (Diligent)",
         "url": "https://open.spotify.com/album/1cqM7r4c9z3iVOa1EosiRn"
       },
@@ -2219,26 +2219,6 @@
       "duration_ms": 171000,
       "name": "Gas Me Up (Diligent)",
       "url": "https://open.spotify.com/track/18cocM7GNYj2Scj1ePOJYc"
-    },
-    {
-      "added_at": "2025-05-29 22:01:18",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Timeless (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
       "added_at": "2025-05-29 22:01:18",
@@ -2259,6 +2239,26 @@
       "duration_ms": 205263,
       "name": "Wave",
       "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
+    },
+    {
+      "added_at": "2025-05-29 22:01:18",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Timeless (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
       "added_at": "2025-05-29 22:01:18",

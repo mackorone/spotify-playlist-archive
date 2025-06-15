@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 484029,
+  "num_followers": 484008,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAACPHrQdG1BAEPAU+Ppt9tdB",
+  "snapshot_id": "aEtqAAAAAADhX2ZudTPSwnQ4npmrjOvO",
   "tracks": [
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lizzobangers",
-        "url": "https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 185659,
-      "name": "W.E.R.K. Pt. II",
-      "url": "https://open.spotify.com/track/5kiLPzjGbAb5CmE1xXSRZn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Basement Queens",
         "url": "https://open.spotify.com/album/4eu9RYtdnxNJJWr9cW84nV"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 183362,
       "name": "Basement Queens",
       "url": "https://open.spotify.com/track/6TbfAkoPe5RJztOFaAl4cG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lizzobangers",
+        "url": "https://open.spotify.com/album/79Dum9lX5ARC0FbqlWFi1v"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 185659,
+      "name": "W.E.R.K. Pt. II",
+      "url": "https://open.spotify.com/track/5kiLPzjGbAb5CmE1xXSRZn"
     },
     {
       "added_at": null,

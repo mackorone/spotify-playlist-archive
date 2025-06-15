@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo en música tropical 📸 La Nueva Escuela, Guaynaa, Valen, Frijo & URI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,242 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,271 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 99 | [Incomprendido](https://open.spotify.com/track/0HpIoHmnJ6c6D51N20mS50) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [Incomprendido](https://open.spotify.com/album/5xgG8h6JHmcKNkc658Z9Ai) | 2:58 |
 | 100 | [Swing de la Calle](https://open.spotify.com/track/70Fzvxli6Fwu4f5TN2yotE) | [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2) | [Swing de la Calle](https://open.spotify.com/album/1G9YgYhvdsnElfaLDMQ0DP) | 3:20 |
 
-Snapshot ID: `aExbzgAAAADBjaR/3xRh7Wn4Md3bxHf6`
+Snapshot ID: `aExbzgAAAACcUlC+s54AFSLs9O97KVMS`

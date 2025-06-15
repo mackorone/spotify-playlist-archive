@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,313 likes - 100 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,500 likes - 100 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,15 +90,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 80 | [Building Steam With A Grain Of Salt](https://open.spotify.com/track/4cucslsiEgezV2o900Ykg3) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l) | 6:39 |
 | 81 | [Porcelain](https://open.spotify.com/track/3cYgOAFB1HAUhC7b7U8viI) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: The B Sides](https://open.spotify.com/album/0t4ItMJbYMYLzvEO7tzt0B) | 4:01 |
 | 82 | [Just Chillin'](https://open.spotify.com/track/41YJJAO78aMWy1puye2sUH) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB1](https://open.spotify.com/album/1p1w828sU7QewePqhfZKwh) | 2:14 |
-| 83 | [Lonely Soul](https://open.spotify.com/track/2HHC3GxRY2SxqRn6v6TvXX) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC), [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Psyence Fiction](https://open.spotify.com/album/6Dxx0vxLQ83LK1PMZezlcY) | 8:53 |
+| 83 | [Flip Ya Lid](https://open.spotify.com/track/5ftamIDoDRpEvlZinDuNNW) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf) | 5:24 |
 | 84 | [Sweet Tides](https://open.spotify.com/track/5IapIlqooJJ0CmJmrEY8Ir) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Radio Retaliation](https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG) | 4:48 |
-| 85 | [I Don't Know What I Can Save You From \- Röyksopp Remix](https://open.spotify.com/track/4xEPVHiIpSVXrQYfMViux3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Versus](https://open.spotify.com/album/2KtW863zWF7TCoaSgRRNKX) | 4:12 |
-| 86 | [Flip Ya Lid](https://open.spotify.com/track/5ftamIDoDRpEvlZinDuNNW) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf) | 5:24 |
+| 85 | [Lonely Soul](https://open.spotify.com/track/2HHC3GxRY2SxqRn6v6TvXX) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC), [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Psyence Fiction](https://open.spotify.com/album/6Dxx0vxLQ83LK1PMZezlcY) | 8:53 |
+| 86 | [I Don't Know What I Can Save You From \- Röyksopp Remix](https://open.spotify.com/track/4xEPVHiIpSVXrQYfMViux3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Versus](https://open.spotify.com/album/2KtW863zWF7TCoaSgRRNKX) | 4:12 |
 | 87 | [Peacock Tail](https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 5:24 |
-| 88 | [Sunny Road](https://open.spotify.com/track/5dcfP0DYH5SDeizgbHZop6) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Fisherman's Woman](https://open.spotify.com/album/7kqYf6dpsDgxm61go96hwp) | 3:04 |
+| 88 | [Nights Introlude](https://open.spotify.com/track/3SpXpcG603AqfxhJ6l4uzk) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm) | 4:40 |
 | 89 | [Until The Morning](https://open.spotify.com/track/20F3FcES8KU4kffMCkFgNN) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [The Richest Man In Babylon](https://open.spotify.com/album/7qJaVqhgiBtPLb9MOzwmZA) | 3:56 |
-| 90 | [Utopia](https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902) | 4:18 |
-| 91 | [Nights Introlude](https://open.spotify.com/track/3SpXpcG603AqfxhJ6l4uzk) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm) | 4:40 |
+| 90 | [Sunny Road](https://open.spotify.com/track/5dcfP0DYH5SDeizgbHZop6) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Fisherman's Woman](https://open.spotify.com/album/7kqYf6dpsDgxm61go96hwp) | 3:04 |
+| 91 | [Utopia](https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902) | 4:18 |
 | 92 | [Angel Echoes](https://open.spotify.com/track/0Zuw3doXy3H4HCfyb9cMK3) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [There Is Love in You \(Expanded Edition\)](https://open.spotify.com/album/6XoxeeeyZgzqUMzUBUSDG9) | 3:59 |
 | 93 | [Simple Science \- 12" Version](https://open.spotify.com/track/1OQ3DVHPX1cXU4uUOvrKPH) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Danny Pratt](https://open.spotify.com/artist/4UpaWG799gLccPzyPozzpo) | [Simple Science EP](https://open.spotify.com/album/5DEFRRPdUj1kwNAq9RERHi) | 7:43 |
 | 94 | [Your Girl](https://open.spotify.com/track/6L90mFjGeLu3rsGddZpttR) | [Blue States](https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6) | [Nothing Changes Under The Sun](https://open.spotify.com/album/3Ubp7mzJGm58QtdJUWxlmc) | 5:04 |

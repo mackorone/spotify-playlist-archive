@@ -9923,6 +9923,24 @@
     },
     {
       "album": {
+        "name": "Hecho En La Costa",
+        "url": "https://open.spotify.com/album/2sxdTs4sDuaEmjyRD3lXLR"
+      },
+      "artists": [
+        {
+          "name": "Akos",
+          "url": "https://open.spotify.com/artist/0lpajtkKIMfafiNO4qVSAy"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148265,
+      "name": "Entonces Que",
+      "url": "https://open.spotify.com/track/4s0eofOBPmgBwF6yzVVY9g"
+    },
+    {
+      "album": {
         "name": "Entre Nosotros",
         "url": "https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR"
       },
@@ -19546,7 +19564,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 242306,
       "name": "M\u00c1S QUE ALGO",
       "url": "https://open.spotify.com/track/3Ob9NJaBlOGDvndnG6G2PW"

@@ -1,13 +1,37 @@
 {
-  "description": "Chill r&b. Cover: Leon Thomas",
-  "num_followers": 2380411,
+  "description": "Chill r&b. Cover: Ciara, Normani, and Teyana Taylor",
+  "num_followers": 2380235,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEJ0rwAAAAA3fBRqjC7CU3BmkKhfrNkt",
+  "snapshot_id": "AAAAALq93KnDze44BwTVBddFhrv0UylV",
   "tracks": [
+    {
+      "added_at": "2025-06-06 04:50:22",
+      "album": {
+        "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
+        "url": "https://open.spotify.com/album/305yIXU97c0Sa68bjQNSTz"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        },
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "duration_ms": 210071,
+      "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
+      "url": "https://open.spotify.com/track/23WBvFOEKE7KYae5H1usrA"
+    },
     {
       "added_at": "2025-05-30 04:00:37",
       "album": {
@@ -27,6 +51,42 @@
       "duration_ms": 219607,
       "name": "DIRT ON MY SHOES (feat. Kehlani)",
       "url": "https://open.spotify.com/track/2AA05NFvw5tPQ9pvj68fsY"
+    },
+    {
+      "added_at": "2025-05-02 04:00:36",
+      "album": {
+        "name": "Burning Blue",
+        "url": "https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 205724,
+      "name": "Burning Blue",
+      "url": "https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc"
+    },
+    {
+      "added_at": "2025-03-28 04:00:48",
+      "album": {
+        "name": "SEARCHING",
+        "url": "https://open.spotify.com/album/5Brn5xm94sbj03mp8tvSnX"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 150038,
+      "name": "SEARCHING",
+      "url": "https://open.spotify.com/track/4G0bpzDl8vZ8yzB6ePI38w"
     },
     {
       "added_at": "2025-05-23 04:40:36",
@@ -63,6 +123,22 @@
       "duration_ms": 212500,
       "name": "I'll Be Good",
       "url": "https://open.spotify.com/track/7rMIePH9SdYWmWNzuNg26p"
+    },
+    {
+      "added_at": "2025-06-14 14:32:39",
+      "album": {
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
     },
     {
       "added_at": "2025-06-06 04:50:22",
@@ -129,66 +205,6 @@
       "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
     },
     {
-      "added_at": "2025-05-02 04:00:36",
-      "album": {
-        "name": "Burning Blue",
-        "url": "https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg"
-      },
-      "artists": [
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 205724,
-      "name": "Burning Blue",
-      "url": "https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc"
-    },
-    {
-      "added_at": "2025-03-28 04:00:48",
-      "album": {
-        "name": "SEARCHING",
-        "url": "https://open.spotify.com/album/5Brn5xm94sbj03mp8tvSnX"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 150038,
-      "name": "SEARCHING",
-      "url": "https://open.spotify.com/track/4G0bpzDl8vZ8yzB6ePI38w"
-    },
-    {
-      "added_at": "2025-06-06 04:50:22",
-      "album": {
-        "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
-        "url": "https://open.spotify.com/album/305yIXU97c0Sa68bjQNSTz"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        },
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        }
-      ],
-      "duration_ms": 210071,
-      "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
-      "url": "https://open.spotify.com/track/23WBvFOEKE7KYae5H1usrA"
-    },
-    {
       "added_at": "2025-02-07 07:29:18",
       "album": {
         "name": "WONDERLOVE",
@@ -207,6 +223,22 @@
       "duration_ms": 257974,
       "name": "MHMM (with RIMON)",
       "url": "https://open.spotify.com/track/5MDbtupR6oy8loU6Njp8jf"
+    },
+    {
+      "added_at": "2025-01-31 10:12:57",
+      "album": {
+        "name": "don't text me back",
+        "url": "https://open.spotify.com/album/5rIZhiJ4oRq0y1tdC5gf0c"
+      },
+      "artists": [
+        {
+          "name": "Rowena Fysx",
+          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "all over u",
+      "url": "https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637"
     },
     {
       "added_at": "2025-04-11 04:37:28",
@@ -277,6 +309,30 @@
       "url": "https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw"
     },
     {
+      "added_at": "2025-06-14 14:32:39",
+      "album": {
+        "name": "Off Road",
+        "url": "https://open.spotify.com/album/0cL9jk0ehDObDqYa4AEzuC"
+      },
+      "artists": [
+        {
+          "name": "Rory",
+          "url": "https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Off Road",
+      "url": "https://open.spotify.com/track/7tp8Tga51irOeJLX6JVT9P"
+    },
+    {
       "added_at": "2025-06-06 04:50:22",
       "album": {
         "name": "Is This Love?",
@@ -297,20 +353,24 @@
       "url": "https://open.spotify.com/track/43Ha9dTAQLXaGF2aDeEzyH"
     },
     {
-      "added_at": "2025-04-25 06:19:53",
+      "added_at": "2025-06-14 14:32:39",
       "album": {
-        "name": "OpenYourEyes",
-        "url": "https://open.spotify.com/album/1ZHsJmm8PifUz9CTSRFsLT"
+        "name": "When I Get Home (feat. Wale)",
+        "url": "https://open.spotify.com/album/3DyjN8kxWFNmox9bVR7F4t"
       },
       "artists": [
         {
-          "name": "L\u00c9A THE LEOX",
-          "url": "https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O"
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 193246,
-      "name": "OpenYourEyes",
-      "url": "https://open.spotify.com/track/0wD1hxkixWeoJrQIO81yC6"
+      "duration_ms": 198716,
+      "name": "When I Get Home (feat. Wale)",
+      "url": "https://open.spotify.com/track/2qoFm2Bu2dBuN9yf8Fzf6m"
     },
     {
       "added_at": "2025-05-23 04:40:36",
@@ -365,38 +425,6 @@
       "url": "https://open.spotify.com/track/5kaJZ4avY5KwWsjTK8W0wZ"
     },
     {
-      "added_at": "2025-06-06 04:50:22",
-      "album": {
-        "name": "Type Dangerous",
-        "url": "https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 175788,
-      "name": "Type Dangerous",
-      "url": "https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3"
-    },
-    {
-      "added_at": "2025-05-02 04:00:36",
-      "album": {
-        "name": "HunnyMoon Mountain",
-        "url": "https://open.spotify.com/album/2rVpyULucip4FgLYR2rw26"
-      },
-      "artists": [
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 215474,
-      "name": "Take Her Love",
-      "url": "https://open.spotify.com/track/6Rbw6xdVOHZCdiforE08HE"
-    },
-    {
       "added_at": "2025-05-09 04:00:20",
       "album": {
         "name": "LVRS PARADISE (SIDE A)",
@@ -427,6 +455,70 @@
       "duration_ms": 170526,
       "name": "Go' Head",
       "url": "https://open.spotify.com/track/4xlJlOrT1vgRrL2xxGHcRG"
+    },
+    {
+      "added_at": "2025-05-02 04:00:36",
+      "album": {
+        "name": "HunnyMoon Mountain",
+        "url": "https://open.spotify.com/album/2rVpyULucip4FgLYR2rw26"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 215474,
+      "name": "Take Her Love",
+      "url": "https://open.spotify.com/track/6Rbw6xdVOHZCdiforE08HE"
+    },
+    {
+      "added_at": "2025-06-14 14:32:39",
+      "album": {
+        "name": "CKay The Second",
+        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 160429,
+      "name": "say no more",
+      "url": "https://open.spotify.com/track/6b6KwJ5Ig1SmOKM9cD3Bem"
+    },
+    {
+      "added_at": "2025-04-25 06:19:53",
+      "album": {
+        "name": "OpenYourEyes",
+        "url": "https://open.spotify.com/album/1ZHsJmm8PifUz9CTSRFsLT"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9A THE LEOX",
+          "url": "https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O"
+        }
+      ],
+      "duration_ms": 193246,
+      "name": "OpenYourEyes",
+      "url": "https://open.spotify.com/track/0wD1hxkixWeoJrQIO81yC6"
+    },
+    {
+      "added_at": "2025-06-14 14:32:39",
+      "album": {
+        "name": "All I'd Ever Know",
+        "url": "https://open.spotify.com/album/7DXzjhLGPLiNYqM3YhUgpt"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "All I'd Ever Know",
+      "url": "https://open.spotify.com/track/37M940BzP44UP3kbGeZCP5"
     },
     {
       "added_at": "2025-06-06 04:50:22",
@@ -461,20 +553,40 @@
       "url": "https://open.spotify.com/track/2VCdLZyAFGnQN3Esqu4kpT"
     },
     {
-      "added_at": "2025-01-31 10:12:57",
+      "added_at": "2025-06-14 14:32:39",
       "album": {
-        "name": "don't text me back",
-        "url": "https://open.spotify.com/album/5rIZhiJ4oRq0y1tdC5gf0c"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/0DHx1mktkaDnrMFmEf0iHV"
       },
       "artists": [
         {
-          "name": "Rowena Fysx",
-          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        },
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
         }
       ],
-      "duration_ms": 201000,
-      "name": "all over u",
-      "url": "https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637"
+      "duration_ms": 182906,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6YeBgabF5qNtrPVnrxD2d2"
+    },
+    {
+      "added_at": "2025-05-30 04:00:37",
+      "album": {
+        "name": "My Peace",
+        "url": "https://open.spotify.com/album/5bzABIv8KjHFep7Krio5Mq"
+      },
+      "artists": [
+        {
+          "name": "J.P.",
+          "url": "https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "My Peace",
+      "url": "https://open.spotify.com/track/3S6k9OO5fSSoqiTeFCnKZf"
     },
     {
       "added_at": "2025-05-09 04:00:20",
@@ -507,22 +619,6 @@
       "duration_ms": 148095,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/3DbAEsKYzGhSFwmxmMGBgT"
-    },
-    {
-      "added_at": "2025-05-30 04:00:37",
-      "album": {
-        "name": "My Peace",
-        "url": "https://open.spotify.com/album/5bzABIv8KjHFep7Krio5Mq"
-      },
-      "artists": [
-        {
-          "name": "J.P.",
-          "url": "https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "My Peace",
-      "url": "https://open.spotify.com/track/3S6k9OO5fSSoqiTeFCnKZf"
     },
     {
       "added_at": "2025-06-06 04:50:22",
@@ -629,20 +725,20 @@
       "url": "https://open.spotify.com/track/24N1fjXyypAWhj3RF8JJi0"
     },
     {
-      "added_at": "2025-05-02 04:00:36",
+      "added_at": "2025-06-06 04:50:22",
       "album": {
-        "name": "since yall say ion drop enough",
-        "url": "https://open.spotify.com/album/4qLTi34aG7nh2CkOZ5fhPU"
+        "name": "Type Dangerous",
+        "url": "https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ"
       },
       "artists": [
         {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 199401,
-      "name": "me u & pride",
-      "url": "https://open.spotify.com/track/0H0Zs9VdBSKqRIJGBpLbY4"
+      "duration_ms": 175788,
+      "name": "Type Dangerous",
+      "url": "https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3"
     },
     {
       "added_at": "2025-04-04 04:00:29",
@@ -821,20 +917,20 @@
       "url": "https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa"
     },
     {
-      "added_at": "2025-05-23 04:40:36",
+      "added_at": "2025-05-02 04:00:36",
       "album": {
-        "name": "Closer To Me",
-        "url": "https://open.spotify.com/album/0Ee564wJB77RPEtpur1p1C"
+        "name": "since yall say ion drop enough",
+        "url": "https://open.spotify.com/album/4qLTi34aG7nh2CkOZ5fhPU"
       },
       "artists": [
         {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
         }
       ],
-      "duration_ms": 222669,
-      "name": "Closer To Me - edit",
-      "url": "https://open.spotify.com/track/4E8hQ27gkecDsvl9sropEM"
+      "duration_ms": 199401,
+      "name": "me u & pride",
+      "url": "https://open.spotify.com/track/0H0Zs9VdBSKqRIJGBpLbY4"
     },
     {
       "added_at": "2025-04-25 06:19:53",
@@ -2029,22 +2125,6 @@
       "url": "https://open.spotify.com/track/4kCfyoPOYHqev60dmNPXzF"
     },
     {
-      "added_at": "2025-02-14 07:27:06",
-      "album": {
-        "name": "goodnight",
-        "url": "https://open.spotify.com/album/71EfAX8TWLWplD4kKAY6HK"
-      },
-      "artists": [
-        {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
-        }
-      ],
-      "duration_ms": 248812,
-      "name": "goodnight",
-      "url": "https://open.spotify.com/track/78vkxGOY3zrvFkGfaskQP3"
-    },
-    {
       "added_at": "2025-01-31 10:12:57",
       "album": {
         "name": "FOR THE BOY IN ME",
@@ -2263,22 +2343,6 @@
       "duration_ms": 203000,
       "name": "Flawless",
       "url": "https://open.spotify.com/track/7rCk0YGYPTgzdAUba5faP5"
-    },
-    {
-      "added_at": "2025-01-31 10:12:57",
-      "album": {
-        "name": "Acts of Faith",
-        "url": "https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 181813,
-      "name": "Someone to Love You",
-      "url": "https://open.spotify.com/track/029DgHoyQFzA8gGvNOha3U"
     },
     {
       "added_at": "2025-02-07 07:29:18",
@@ -2591,22 +2655,6 @@
     {
       "added_at": "2025-01-31 10:12:57",
       "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/4nAtrAfbl6wrPsOJWVurHI"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 269055,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/7gqM91bnZpu2hmylITqpFU"
-    },
-    {
-      "added_at": "2025-01-31 10:12:57",
-      "album": {
         "name": "i do this sh*t in my sleep",
         "url": "https://open.spotify.com/album/41WKxZBjXPuqwPVbSWEhIg"
       },
@@ -2623,22 +2671,6 @@
       "duration_ms": 123820,
       "name": "YOU DON\u2019T KNOW (feat. Alex Isley)",
       "url": "https://open.spotify.com/track/4WVarJWtCuMLNPsOgLMBOC"
-    },
-    {
-      "added_at": "2025-01-31 10:12:57",
-      "album": {
-        "name": "Finer Things",
-        "url": "https://open.spotify.com/album/2KoY8Zzf0mVM34MQrNasSC"
-      },
-      "artists": [
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        }
-      ],
-      "duration_ms": 235966,
-      "name": "Finer Things",
-      "url": "https://open.spotify.com/track/5ctfg8YxHUYbVFUPchrr8D"
     },
     {
       "added_at": "2025-01-31 10:12:57",
@@ -2799,22 +2831,6 @@
       "duration_ms": 220122,
       "name": "Passenger Princess (feat. Aqyila)",
       "url": "https://open.spotify.com/track/2dwRIUAoAaPlHIq8LUI99v"
-    },
-    {
-      "added_at": "2025-01-31 10:12:57",
-      "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/0WIyYFQocA0dNHDuABS3nl"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 183799,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/4CDIfDhXDeewj7x0U4AT4i"
     },
     {
       "added_at": "2025-01-31 10:12:57",

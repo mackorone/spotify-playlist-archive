@@ -1,12 +1,12 @@
 {
   "description": "This is Lee Kernaghan. The essential tracks, all in one playlist.",
-  "num_followers": 17412,
+  "num_followers": 17415,
   "original_name": "This Is Lee Kernaghan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAAPqRGShfH/xcEdjV7WgJGm",
+  "snapshot_id": "aEtqAAAAAADvjJMjGHzkFL02KTs8YnGD",
   "tracks": [
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirit of the Anzacs",
-        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
+        "name": "The 25th Anniversary Album",
+        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 203746,
-      "name": "We'll Take Beersheba",
-      "url": "https://open.spotify.com/track/3Dzycf2B2lD3sNoPGWs3to"
+      "duration_ms": 171704,
+      "name": "Drive On",
+      "url": "https://open.spotify.com/track/3dUBVVpng4p7RUKkIOo33g"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 25th Anniversary Album",
-        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
+        "name": "Beautiful Noise",
+        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 171704,
-      "name": "Drive On",
-      "url": "https://open.spotify.com/track/3dUBVVpng4p7RUKkIOo33g"
+      "duration_ms": 204746,
+      "name": "Beautiful Noise",
+      "url": "https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Noise",
-        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 204746,
-      "name": "Beautiful Noise",
-      "url": "https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backroad Nation",
         "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
       },
@@ -782,15 +766,11 @@
         {
           "name": "Lee Kernaghan",
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        },
-        {
-          "name": "John Schumann",
-          "url": "https://open.spotify.com/artist/1mTm3FTSxoHUl67wQ3s5xC"
         }
       ],
-      "duration_ms": 252920,
-      "name": "Kokoda - Only the Brave Ones",
-      "url": "https://open.spotify.com/track/7H6lhV6JviBRq46hhZoSDw"
+      "duration_ms": 203746,
+      "name": "We'll Take Beersheba",
+      "url": "https://open.spotify.com/track/3Dzycf2B2lD3sNoPGWs3to"
     },
     {
       "added_at": null,
@@ -839,6 +819,26 @@
       "duration_ms": 260426,
       "name": "Electric Rodeo - Remastered 2017",
       "url": "https://open.spotify.com/track/26bYKYw5htRK3kH7oF7MQS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spirit of the Anzacs",
+        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "John Schumann",
+          "url": "https://open.spotify.com/artist/1mTm3FTSxoHUl67wQ3s5xC"
+        }
+      ],
+      "duration_ms": 252920,
+      "name": "Kokoda - Only the Brave Ones",
+      "url": "https://open.spotify.com/track/7H6lhV6JviBRq46hhZoSDw"
     },
     {
       "added_at": null,

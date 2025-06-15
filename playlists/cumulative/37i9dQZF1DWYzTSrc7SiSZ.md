@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-299 songs - 16 hr 2 min
+300 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Abrázame Fuerte](https://open.spotify.com/track/4QLSlcu2gXe6ABcXDs6xl2) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [GIRASOLES](https://open.spotify.com/album/2mk78J70fArsjx0EG7Xi6R) | 3:28 | 2025-03-21 |  |
 | [Acércate](https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Acércate](https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl) | 2:47 | 2022-05-20 |  |
 | [ADMV \- Versión Urbana](https://open.spotify.com/track/3wBKCNw7BFIalnqe4VXzdK) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV \(Versión Urbana\)](https://open.spotify.com/album/2icmaSfpEsztZeSqmlOOtz) | 3:05 | 2022-05-20 | 2022-10-28 |
+| [aguasanta](https://open.spotify.com/track/0rtq7E0ExwP4GqDg4Mwzyc) | [juliocesar](https://open.spotify.com/artist/77dml5NtjT51Wrzcvang7o) | [aguasanta](https://open.spotify.com/album/4ZQiFsFnhbAE4nZ71W1rgT) | 3:12 | 2025-06-06 |  |
 | [Alguien Más](https://open.spotify.com/track/0xfmcMetmQwClfYRarKtyY) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Aire \(Versión Día\)](https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX) | 3:22 | 2022-05-20 | 2022-10-28 |
 | [Alguien Más](https://open.spotify.com/track/63Ai8RJSEpJyHlCQ6Tq77h) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Alguien Más](https://open.spotify.com/album/10J8pkAmNJplmwTO0PirzO) | 3:40 | 2022-05-20 | 2023-01-07 |
 | [Alguna Vez Allí Algo Ardió](https://open.spotify.com/track/1s0yEc9JnVtr23Ht8hlovv) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Alguna Vez Allí Algo Ardió](https://open.spotify.com/album/0Dh1uXVYiZ3TQs2KxmU3h3) | 4:32 | 2024-03-01 |  |
@@ -134,7 +135,7 @@
 | [La Difícil](https://open.spotify.com/track/6fNJm8sYmCBbmkKpKgTReA) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:38 | 2022-05-20 | 2022-10-28 |
 | [La Ducha](https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Ducha](https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp) | 3:29 | 2022-05-20 | 2024-05-11 |
 | [La Luna](https://open.spotify.com/track/3acgh01QCvLcLaXnIL3vyf) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [Renacer Pt\. 1](https://open.spotify.com/album/6XBrUVDrCm7LK0kFgPDvva) | 2:28 | 2022-05-20 |  |
-| [La Puerta](https://open.spotify.com/track/3Ho9gVgoyi6CLS2vYqVtBt) | [Chill Akiles](https://open.spotify.com/artist/7DWBR7jipfQ89DO1cUjuGL) | [La Puerta](https://open.spotify.com/album/0R02eSlXL3wZo5TceCaSoP) | 3:08 | 2024-05-10 |  |
+| [La Puerta](https://open.spotify.com/track/3Ho9gVgoyi6CLS2vYqVtBt) | [Chill Akiles](https://open.spotify.com/artist/7DWBR7jipfQ89DO1cUjuGL) | [La Puerta](https://open.spotify.com/album/0R02eSlXL3wZo5TceCaSoP) | 3:08 | 2024-05-10 | 2025-06-15 |
 | [La Vida en Rosa](https://open.spotify.com/track/2MBYMHjtOPxVtZxaKbQYxc) | [Pantera Blue](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [La Vida en Rosa](https://open.spotify.com/album/4UoTOkoxOm0DWB2fh3W65x) | 2:08 | 2022-05-20 | 2022-07-29 |
 | [La Vida en Rosa](https://open.spotify.com/track/2odlHl0cZ7Q1npc6RL07Ar) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [La Vida en Rosa](https://open.spotify.com/album/40vbtVpx6kZt8AgNixhVeP) | 2:08 | 2022-07-11 | 2024-04-19 |
 | [la vida viene y va](https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [la vida viene y va](https://open.spotify.com/album/1q1rdMR7YiHXBP4ccFfLIW) | 3:35 | 2022-05-20 |  |
@@ -299,10 +300,10 @@
 | [Volar](https://open.spotify.com/track/6JsI9FfeTLUFsK08WitciR) | [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [Vuelvo a Mí](https://open.spotify.com/album/6AL35H5gM4P2y6774XmQ5Y) | 4:49 | 2022-05-20 | 2023-01-07 |
 | [Volves](https://open.spotify.com/track/5uvobs7WJRW691LBLX3oxM) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Volves](https://open.spotify.com/album/4W0sH5fMAH2NYYGopA8pr9) | 4:02 | 2023-05-05 | 2023-10-19 |
 | [Volvés](https://open.spotify.com/track/2fsuYnBJXJBI8EDp1F68KW) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Dicen](https://open.spotify.com/album/61GgJ9H3X3kdJCQhbrNYQ6) | 4:02 | 2023-10-12 | 2024-04-19 |
-| [WADGYMAR](https://open.spotify.com/track/5EckFDDZ79K3PbEJBeVyLX) | [Oscar Plaza](https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U), [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [WADGYMAR](https://open.spotify.com/album/5DT4QkZPyAjo5s2f1Rtz4p) | 2:19 | 2024-09-13 |  |
+| [WADGYMAR](https://open.spotify.com/track/5EckFDDZ79K3PbEJBeVyLX) | [Oscar Plaza](https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U), [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [WADGYMAR](https://open.spotify.com/album/5DT4QkZPyAjo5s2f1Rtz4p) | 2:19 | 2024-09-13 | 2025-06-15 |
 | [Wu Wu](https://open.spotify.com/track/1RCTlsE4iiRwHHq1VE4XrG) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Wu Wu](https://open.spotify.com/album/7aDQ1gXdQHozrUv1EAkdj0) | 3:27 | 2022-05-20 | 2024-01-05 |
 | [Ya](https://open.spotify.com/track/3WcZfSkqdtVbNYVw9IwAAT) | [Flavio](https://open.spotify.com/artist/2PpQXJidwYjlmvUyyWqsxN), [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [Ya](https://open.spotify.com/album/1Kk33rOeAVRk4VP0PuLIpA) | 3:17 | 2022-05-20 |  |
-| [YNQNP](https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [YNQNP](https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa) | 2:30 | 2024-01-12 | 2025-04-27 |
+| [YNQNP](https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [YNQNP](https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa) | 2:30 | 2024-01-12 |  |
 | [Yours](https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yours](https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9) | 3:40 | 2022-05-20 | 2023-05-06 |
 | [¿DÓNDE COMIENZA TU AMOR?](https://open.spotify.com/track/1Bx8DbcW6mSJlRWhmOdpV3) | [CARMEN MARÍA](https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn) | [¿DÓNDE COMIENZA TU AMOR?](https://open.spotify.com/album/1bieD2ow8uJp6Zf1AAJZZo) | 3:01 | 2024-05-03 |  |
 | [¿PARA QUÉ VOLVER?](https://open.spotify.com/track/6JmbsVrw0u2Q4Qf4XLnD93) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 2:21 | 2025-06-05 |  |

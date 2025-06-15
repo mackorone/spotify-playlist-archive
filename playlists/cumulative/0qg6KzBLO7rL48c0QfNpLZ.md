@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,106 songs - 2 day 0 hr 55 min
+1,108 songs - 2 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1008,6 +1008,7 @@
 | [Toxic](https://open.spotify.com/track/0XvG3GtY8xFrddcYVgHC8C) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Toxic](https://open.spotify.com/album/0R1aq1YgsnJurqpwiaKuMp) | 3:06 | 2024-03-15 | 2024-04-15 |
 | [Tragedy](https://open.spotify.com/track/71hWRaMZm9hFIZQ5eJrsO9) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [Loumé](https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH) | [Tragedy](https://open.spotify.com/album/6qhSibXvlfMh8qLYWIVNtZ) | 2:15 | 2024-07-12 | 2024-08-10 |
 | [True](https://open.spotify.com/track/51SF5c50uwFbjCGo36A5NU) | [Polariz](https://open.spotify.com/artist/5iw2cqb1v4T3RXOfKKslbq) | [True](https://open.spotify.com/album/0EyVExJsO4aTO3VNeoGAdP) | 2:07 | 2025-04-17 | 2025-06-07 |
+| [U Remind Me \- LU2VYK Remix](https://open.spotify.com/track/3L8yTCrh0tSbTMkTCz53NO) | [MrRevillz](https://open.spotify.com/artist/5KhIhOD5xJP1dIzm8dpKvy), [LU2VYK](https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L) | [U Remind Me \(LU2VYK Remix\)](https://open.spotify.com/album/5gBiyp0cY1TA1q7QtXJu4B) | 2:10 | 2025-06-14 |  |
 | [Umbrella](https://open.spotify.com/track/0mR4GnrLuReuWkzfyyT6ee) | [Goodscandal](https://open.spotify.com/artist/3NCorVsEBFRYAMkhF0gwqR) | [Umbrella](https://open.spotify.com/album/0aXr7KaWiyGBrwar04icW6) | 2:39 | 2024-03-15 | 2024-04-15 |
 | [Unconditional](https://open.spotify.com/track/7AJcKrROEIlShwhdX5VnLc) | [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod) | [Unconditional](https://open.spotify.com/album/6NTtc97YHZzHGXRZKDMNCW) | 2:16 | 2023-12-15 | 2024-09-10 |
 | [Unconditional](https://open.spotify.com/track/1vo0pkI9NIbQY0UDvmUOxt) | [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3) | [Unconditional](https://open.spotify.com/album/40kw2Uywn6cDmA20qjQx2j) | 2:01 | 2024-04-05 | 2024-09-10 |
@@ -1076,6 +1077,7 @@
 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2022-07-25 | 2024-09-15 |
 | [Where Did You Go](https://open.spotify.com/track/3kLuuPQIuL7AunuU24y1Qt) | [Leo Chase](https://open.spotify.com/artist/72iXeoizXqiI2UK2Omdp4j) | [Where Did You Go](https://open.spotify.com/album/6sqwtHyW62AeqXBQvOuKVD) | 2:18 | 2024-07-12 | 2024-08-10 |
 | [Where Have You Been](https://open.spotify.com/track/0iLFKCWNxgjMHqeJbmePa7) | [BangLoud](https://open.spotify.com/artist/0s3esBhM7creiqjThiR77P), [blackbird](https://open.spotify.com/artist/6n05pHuHJGmIbBAB42bAAT) | [Where Have You Been](https://open.spotify.com/album/7k3LUBMenFGgR04kQklEEj) | 2:31 | 2024-05-17 | 2024-09-10 |
+| [Where Have You Gone](https://open.spotify.com/track/0kUNjcKRWz5ggvLo2lGXSR) | [C\-Ro](https://open.spotify.com/artist/6PAunVzpRKDn5xbMgkV1gh), [Don Bnnr](https://open.spotify.com/artist/0YD4K8mKJ4zeOnOpH8qdT5) | [Where Have You Gone](https://open.spotify.com/album/30jWaz9InpCGGAYVo1zqtW) | 2:22 | 2025-06-14 |  |
 | [Where I Belong](https://open.spotify.com/track/1iMDLTTnmTivGA4bJ80F85) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Where I Belong](https://open.spotify.com/album/1G0jW7eipMKCiiHml5Cwmq) | 2:37 | 2023-11-14 | 2024-09-15 |
 | [Where You Are](https://open.spotify.com/track/56roD4hdsjbp73Rzxit9Yc) | [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [mavzy grx](https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR) | [Where You Are](https://open.spotify.com/album/1av2sOPOB2hgau027Bb79D) | 2:41 | 2024-11-15 | 2025-03-14 |
 | [Where You Go](https://open.spotify.com/track/3ZrFPGpxyE1t5MLuLBHIrk) | [Neascape](https://open.spotify.com/artist/0mkR2PQg7ozJy4ntTGCPrT) | [Where You Go](https://open.spotify.com/album/3Gl9qRa0JC7fLGGFxa3Uae) | 2:37 | 2025-04-28 | 2025-06-07 |

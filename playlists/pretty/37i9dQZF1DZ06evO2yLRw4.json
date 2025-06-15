@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37452,
+  "num_followers": 37453,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAD3HhlK9BKcSniYqRbkXBpI",
+  "snapshot_id": "aEtqAAAAAABZ266ZcuA9DXNg3WpYQUxY",
   "tracks": [
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Material Girl (feat. Taylor Hanson of Hanson)",
-        "url": "https://open.spotify.com/album/5nfPvmgxIqQnGR8J9n8WUh"
+        "name": "My Echo, My Shadow, My Covers & Me",
+        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
       "artists": [
         {
@@ -536,13 +536,13 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         },
         {
-          "name": "Hanson",
-          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
         }
       ],
-      "duration_ms": 249240,
-      "name": "Material Girl (feat. Taylor Hanson of Hanson)",
-      "url": "https://open.spotify.com/track/7IyRPhyQIRoCSBnLNLbM36"
+      "duration_ms": 241499,
+      "name": "Take A Chance On Me (feat. Jewel)",
+      "url": "https://open.spotify.com/track/2QZpV3KZnDfqrvOfJNcvCY"
     },
     {
       "added_at": null,
@@ -583,6 +583,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Material Girl (feat. Taylor Hanson of Hanson)",
+        "url": "https://open.spotify.com/album/5nfPvmgxIqQnGR8J9n8WUh"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
+        }
+      ],
+      "duration_ms": 249240,
+      "name": "Material Girl (feat. Taylor Hanson of Hanson)",
+      "url": "https://open.spotify.com/track/7IyRPhyQIRoCSBnLNLbM36"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 217205,
       "name": "Windows",
       "url": "https://open.spotify.com/track/6eXfVpYZW6v0VhUaNAh3K9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Echo, My Shadow, My Covers & Me",
-        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Jewel",
-          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
-        }
-      ],
-      "duration_ms": 241499,
-      "name": "Take A Chance On Me (feat. Jewel)",
-      "url": "https://open.spotify.com/track/2QZpV3KZnDfqrvOfJNcvCY"
     },
     {
       "added_at": null,

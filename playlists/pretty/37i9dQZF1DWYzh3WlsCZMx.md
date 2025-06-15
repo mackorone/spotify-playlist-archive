@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36">HBO's Rap Sh!t</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,031 likes - 48 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,046 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 14 | [Itty Bitty Piggy](https://open.spotify.com/track/1uYxHHZBRliM9cNzCxq93g) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 4:06 |
 | 15 | [Said Sum \(feat\. City Girls & DaBaby\) \- Remix](https://open.spotify.com/track/13VXVxePp4NUiXwtmQ0viz) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Code Red](https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv) | 2:57 |
 | 16 | [Jumpin \(feat\. Polo G\)](https://open.spotify.com/track/1z7LV5wkExwW8YJk0IrPUA) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Jumpin \(feat\. Polo G\)](https://open.spotify.com/album/24t0q0pqu7y9udfr89qf42) | 3:01 |
-| 17 | [Hood Bitch](https://open.spotify.com/track/1QncxlVV6UqA10Dh7pCcj9) | [Fam0us.Twinsss](https://open.spotify.com/artist/5Nrl4fJ98iiMiTqhKjy8ZL) | [Hood Bitch](https://open.spotify.com/album/7wkI0tGOfXLdfP16Khkrvt) | 2:13 |
-| 18 | [PRESSURE](https://open.spotify.com/track/4VzhdfRpM2sQjhzwYWjd30) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [\- TRAGEDY +](https://open.spotify.com/album/4UNZOq7e8WjnfaYm2rkltE) | 2:17 |
+| 17 | [PRESSURE](https://open.spotify.com/track/4VzhdfRpM2sQjhzwYWjd30) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [\- TRAGEDY +](https://open.spotify.com/album/4UNZOq7e8WjnfaYm2rkltE) | 2:17 |
+| 18 | [Hood Bitch](https://open.spotify.com/track/1QncxlVV6UqA10Dh7pCcj9) | [Fam0us.Twinsss](https://open.spotify.com/artist/5Nrl4fJ98iiMiTqhKjy8ZL) | [Hood Bitch](https://open.spotify.com/album/7wkI0tGOfXLdfP16Khkrvt) | 2:13 |
 | 19 | [Nann Nigga](https://open.spotify.com/track/7d9I42jF759n5HuUeoulzR) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [www.thug.com](https://open.spotify.com/album/4HMN5pRuHF88SzZoXtJsHM) | 2:47 |
-| 20 | [Banana Klip](https://open.spotify.com/track/1MIlfxvF1shdd8g24DKwAu) | [Bali Baby](https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY) | [Banana Klip](https://open.spotify.com/album/1Md4iZ92jI13giuaNYezyL) | 1:57 |
-| 21 | [BIRDZ FEAT\. RICK ROSS](https://open.spotify.com/track/0pA0rcw7ci5X5XHrnBpkdn) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [ZUU](https://open.spotify.com/album/6PkSBdx19zarn4ae1D08gA) | 3:24 |
+| 20 | [BIRDZ FEAT\. RICK ROSS](https://open.spotify.com/track/0pA0rcw7ci5X5XHrnBpkdn) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [ZUU](https://open.spotify.com/album/6PkSBdx19zarn4ae1D08gA) | 3:24 |
+| 21 | [Banana Klip](https://open.spotify.com/track/1MIlfxvF1shdd8g24DKwAu) | [Bali Baby](https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY) | [Banana Klip](https://open.spotify.com/album/1Md4iZ92jI13giuaNYezyL) | 1:57 |
 | 22 | [Got Dem Racks](https://open.spotify.com/track/5bHuDZwLcuXTlFMj2XPk0S) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [January 10th](https://open.spotify.com/album/3pD5nHq65PfGJtd5aMNPUj) | 3:39 |
 | 23 | [Like a Million \(feat\. Kodak Black\)](https://open.spotify.com/track/1kA3DTGCwnnp8SUYkk6kuC) | [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Jackboy](https://open.spotify.com/album/7w0pvDj9Q5zVSlZsXKLQ0M) | 2:58 |
 | 24 | [Carry Anne](https://open.spotify.com/track/3gPxfcewMlw2h9n24uW4pm) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Shape Up](https://open.spotify.com/album/0sdLAra6HEkMJuxB7ZkXSi) | 3:33 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 29 | [Nunnadet Shit](https://open.spotify.com/track/0TResTtx98vH1rbuMMzqSh) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [Nunnadet Shit](https://open.spotify.com/album/5gEwrxdbRbjDUOE4EORN6W) | 3:34 |
 | 30 | [Walk](https://open.spotify.com/track/3YfrGk7UWFqxWeWfFp1sQE) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [It's a Vibe](https://open.spotify.com/album/00N7d8ASGThdtQWGu8V7Zl) | 2:23 |
 | 31 | [No Problem](https://open.spotify.com/track/5gasQQR5ZhOvrGpY0vULWL) | [Tokyo Jetz](https://open.spotify.com/artist/3KT0gxRAAb4WbAfOGMq4Lf) | [Bonafide](https://open.spotify.com/album/12yyugwE4MM1KkeIrmppjv) | 2:47 |
-| 32 | [Spend Sum Cash](https://open.spotify.com/track/0x8xbM5MEduFnFKlRqEmX0) | [LightSkinKeisha](https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM) | [Talk That Talk](https://open.spotify.com/album/5Ege4j1dUjJV2i0eHeBDbh) | 2:34 |
-| 33 | [Bad Bitch](https://open.spotify.com/track/0yjysU3MF1nQTomE08AzIk) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [Bad Bitch](https://open.spotify.com/album/2l8eQxgr9G7Eioo54WbJg3) | 2:15 |
+| 32 | [Bad Bitch](https://open.spotify.com/track/0yjysU3MF1nQTomE08AzIk) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [Bad Bitch](https://open.spotify.com/album/2l8eQxgr9G7Eioo54WbJg3) | 2:15 |
+| 33 | [Spend Sum Cash](https://open.spotify.com/track/0x8xbM5MEduFnFKlRqEmX0) | [LightSkinKeisha](https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM) | [Talk That Talk](https://open.spotify.com/album/5Ege4j1dUjJV2i0eHeBDbh) | 2:34 |
 | 34 | [Pop It 4 Pimp](https://open.spotify.com/track/09nAAaHatXLnc0SmhReYny) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [II Trill](https://open.spotify.com/album/726mitnLPJrg0pftxSne1O) | 3:50 |
 | 35 | [Dem Girlz \(feat\. BeatKing & Erica Banks\)](https://open.spotify.com/track/3YewQ5i0OfqgFo2zvVzasw) | [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Pressure](https://open.spotify.com/album/7ChOeB6OLdPZcNyBNMboB8) | 3:09 |
 | 36 | [Rap Shit](https://open.spotify.com/track/0m5UGpHzwWRlgky0dmhogh) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Lola Indigo, SAIKO con Omar Courtz, Ovy On The Drums con Quevedo y Beéle, Judeline y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,260 likes - 79 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,372 likes - 79 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 3 | [YO y TÚ](https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [YO y TÚ](https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM) | 3:18 |
 | 4 | [KELOIDE](https://open.spotify.com/track/0Nd6eq8BzjMnyq9f37QuUW) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FERXXO VOL X: Sagrado](https://open.spotify.com/album/3PfMmFVUx9oJUFvnDf76Iz) | 2:59 |
 | 5 | [Qué Pasó, Bebé?](https://open.spotify.com/track/6oC2OSbJeyfrQz4sIVvr6i) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [EL SOBREVIVIENTE WWW](https://open.spotify.com/album/1GczTJTAoJSPILp7gEMEfS) | 3:23 |
-| 6 | [Mágico](https://open.spotify.com/track/0U00dhdXk7icJfW3ngPaRY) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Mágico](https://open.spotify.com/album/4K2UL6467Xdg2plwSNMO6m) | 2:54 |
+| 6 | [Mágico](https://open.spotify.com/track/0U00dhdXk7icJfW3ngPaRY) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [David Marley](https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA) | [Mágico](https://open.spotify.com/album/4K2UL6467Xdg2plwSNMO6m) | 2:54 |
 | 7 | [Bajo Control](https://open.spotify.com/track/2BV0Fa4MS4w6Oush2CdNvV) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Bajo Control](https://open.spotify.com/album/5sQWD9mh4z7im5PWl1xpaz) | 3:36 |
 | 8 | [chica de cristal](https://open.spotify.com/track/2JHx88v5T0EU3CGRLyZxZb) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [chica de cristal](https://open.spotify.com/album/0Syqn4KONR5xOyvgVFEMsp) | 3:18 |
 | 9 | [la culpa \(track 11\)](https://open.spotify.com/track/70LTdbe3zYvsY5c1Gw9Gxv) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [la culpa \(track 11\)](https://open.spotify.com/album/0nxtwpyUOHlbtQUee9oFaP) | 2:45 |

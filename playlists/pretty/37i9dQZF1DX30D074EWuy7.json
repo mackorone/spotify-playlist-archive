@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Studio Murena",
-  "num_followers": 32835,
+  "num_followers": 32839,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -575,38 +575,6 @@
     {
       "added_at": "2025-06-12 22:01:31",
       "album": {
-        "name": "Reality And Fantasy (Special Edition)",
-        "url": "https://open.spotify.com/album/6zoX2yMQCCSCZaorNKgdsZ"
-      },
-      "artists": [
-        {
-          "name": "Raphael Gualazzi",
-          "url": "https://open.spotify.com/artist/6hu9cUsJDFg2kUkAAjOepA"
-        }
-      ],
-      "duration_ms": 214053,
-      "name": "Follia D'Amore",
-      "url": "https://open.spotify.com/track/5sFAmIIncDn9O1wcxQmAte"
-    },
-    {
-      "added_at": "2025-06-12 22:01:31",
-      "album": {
-        "name": "M\u0100Y\u0100",
-        "url": "https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg"
-      },
-      "artists": [
-        {
-          "name": "MACE",
-          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
-        }
-      ],
-      "duration_ms": 487573,
-      "name": "IL VELO DI M\u0100Y\u0100 \u109f",
-      "url": "https://open.spotify.com/track/5eOKasgnQVQzmEdhtArSn6"
-    },
-    {
-      "added_at": "2025-06-12 22:01:31",
-      "album": {
         "name": "Plexus Plexus",
         "url": "https://open.spotify.com/album/0Ft57BsIB0sN2BeIlUtXoV"
       },
@@ -627,18 +595,34 @@
     {
       "added_at": "2025-06-12 22:01:31",
       "album": {
-        "name": "Zenzero",
-        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
+        "name": "M\u0100Y\u0100",
+        "url": "https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg"
       },
       "artists": [
         {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
         }
       ],
-      "duration_ms": 250002,
-      "name": "Zenzero",
-      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
+      "duration_ms": 487573,
+      "name": "IL VELO DI M\u0100Y\u0100 \u109f",
+      "url": "https://open.spotify.com/track/5eOKasgnQVQzmEdhtArSn6"
+    },
+    {
+      "added_at": "2025-06-12 22:01:31",
+      "album": {
+        "name": "Reality And Fantasy (Special Edition)",
+        "url": "https://open.spotify.com/album/6zoX2yMQCCSCZaorNKgdsZ"
+      },
+      "artists": [
+        {
+          "name": "Raphael Gualazzi",
+          "url": "https://open.spotify.com/artist/6hu9cUsJDFg2kUkAAjOepA"
+        }
+      ],
+      "duration_ms": 214053,
+      "name": "Follia D'Amore",
+      "url": "https://open.spotify.com/track/5sFAmIIncDn9O1wcxQmAte"
     },
     {
       "added_at": "2025-06-12 22:01:31",
@@ -655,6 +639,22 @@
       "duration_ms": 167694,
       "name": "Omaca",
       "url": "https://open.spotify.com/track/3xqbdVPULGQjcxnNmWpTNd"
+    },
+    {
+      "added_at": "2025-06-12 22:01:31",
+      "album": {
+        "name": "Zenzero",
+        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "duration_ms": 250002,
+      "name": "Zenzero",
+      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
     },
     {
       "added_at": "2025-06-12 22:01:31",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-06-12 22:01:31",
       "album": {
-        "name": "Respiro",
-        "url": "https://open.spotify.com/album/0aI4EqaeC7USjpfB8qXoKO"
-      },
-      "artists": [
-        {
-          "name": "Joe Barbieri",
-          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
-        }
-      ],
-      "duration_ms": 244632,
-      "name": "Zenzero e cannella",
-      "url": "https://open.spotify.com/track/01R4j8moUGlLxkmhR9sA5t"
-    },
-    {
-      "added_at": "2025-06-12 22:01:31",
-      "album": {
         "name": "Petali",
         "url": "https://open.spotify.com/album/518L57Dsoghg11ivCZHLRp"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 217872,
       "name": "Lei balla sola",
       "url": "https://open.spotify.com/track/36KtplF9itOd0tFVN1HYuf"
+    },
+    {
+      "added_at": "2025-06-12 22:01:31",
+      "album": {
+        "name": "Respiro",
+        "url": "https://open.spotify.com/album/0aI4EqaeC7USjpfB8qXoKO"
+      },
+      "artists": [
+        {
+          "name": "Joe Barbieri",
+          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
+        }
+      ],
+      "duration_ms": 244632,
+      "name": "Zenzero e cannella",
+      "url": "https://open.spotify.com/track/01R4j8moUGlLxkmhR9sA5t"
     },
     {
       "added_at": "2025-06-12 22:01:31",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-06-12 22:01:31",
       "album": {
-        "name": "Rivelazioni di un maniaco sessuale a capo della squadra mobile (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2bu5QRAoFBgSryv8LQODxI"
-      },
-      "artists": [
-        {
-          "name": "Giorgio Gaslini",
-          "url": "https://open.spotify.com/artist/4Sqn2CbDsOLkRu20ALOnDF"
-        }
-      ],
-      "duration_ms": 176843,
-      "name": "Cio che e' scritto nel vento",
-      "url": "https://open.spotify.com/track/6wCsRchz3850j0GgfXYjrV"
-    },
-    {
-      "added_at": "2025-06-12 22:01:31",
-      "album": {
         "name": "Citt\u00e0 Futura",
         "url": "https://open.spotify.com/album/57VVdwvhb2E3hOp21U6Isw"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 284804,
       "name": "Citt\u00e0 Futura",
       "url": "https://open.spotify.com/track/6eKPdRjUepZxs8GyaSfuap"
+    },
+    {
+      "added_at": "2025-06-12 22:01:31",
+      "album": {
+        "name": "Rivelazioni di un maniaco sessuale a capo della squadra mobile (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2bu5QRAoFBgSryv8LQODxI"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Gaslini",
+          "url": "https://open.spotify.com/artist/4Sqn2CbDsOLkRu20ALOnDF"
+        }
+      ],
+      "duration_ms": 176843,
+      "name": "Cio che e' scritto nel vento",
+      "url": "https://open.spotify.com/track/6wCsRchz3850j0GgfXYjrV"
     },
     {
       "added_at": "2025-06-12 22:01:31",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2025-06-12 22:01:31",
       "album": {
+        "name": "Scenario",
+        "url": "https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu"
+      },
+      "artists": [
+        {
+          "name": "C'mon Tigre",
+          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "Kids are electric",
+      "url": "https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9"
+    },
+    {
+      "added_at": "2025-06-12 22:01:31",
+      "album": {
         "name": "Notturno",
         "url": "https://open.spotify.com/album/6yJ4cIfrOpoo4QukcFtCYw"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 238043,
       "name": "Un giardino",
       "url": "https://open.spotify.com/track/1xXKvZSKZGcBR4jNOvirl6"
-    },
-    {
-      "added_at": "2025-06-12 22:01:31",
-      "album": {
-        "name": "Scenario",
-        "url": "https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu"
-      },
-      "artists": [
-        {
-          "name": "C'mon Tigre",
-          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "Kids are electric",
-      "url": "https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9"
     },
     {
       "added_at": "2025-06-12 22:01:31",
@@ -1695,38 +1695,6 @@
     {
       "added_at": "2025-06-12 22:01:31",
       "album": {
-        "name": "New York Days",
-        "url": "https://open.spotify.com/album/5qIvcmHXW5Av8XQGCAmeIK"
-      },
-      "artists": [
-        {
-          "name": "Enrico Rava",
-          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
-        },
-        {
-          "name": "Stefano Bollani",
-          "url": "https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7"
-        },
-        {
-          "name": "Mark Turner",
-          "url": "https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP"
-        },
-        {
-          "name": "Larry Grenadier",
-          "url": "https://open.spotify.com/artist/4HGsz6HI7mw7t14Fb2irLV"
-        },
-        {
-          "name": "Paul Motian",
-          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
-        }
-      ],
-      "duration_ms": 653973,
-      "name": "Certi angoli segreti",
-      "url": "https://open.spotify.com/track/0TgOi4joOrp0spXM754Z8X"
-    },
-    {
-      "added_at": "2025-06-12 22:01:31",
-      "album": {
         "name": "Sfiorire",
         "url": "https://open.spotify.com/album/66nuFnF4fEJ1Vl5y34yltA"
       },
@@ -1775,6 +1743,38 @@
     {
       "added_at": "2025-06-12 22:01:31",
       "album": {
+        "name": "New York Days",
+        "url": "https://open.spotify.com/album/5qIvcmHXW5Av8XQGCAmeIK"
+      },
+      "artists": [
+        {
+          "name": "Enrico Rava",
+          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
+        },
+        {
+          "name": "Stefano Bollani",
+          "url": "https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7"
+        },
+        {
+          "name": "Mark Turner",
+          "url": "https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP"
+        },
+        {
+          "name": "Larry Grenadier",
+          "url": "https://open.spotify.com/artist/4HGsz6HI7mw7t14Fb2irLV"
+        },
+        {
+          "name": "Paul Motian",
+          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
+        }
+      ],
+      "duration_ms": 653973,
+      "name": "Certi angoli segreti",
+      "url": "https://open.spotify.com/track/0TgOi4joOrp0spXM754Z8X"
+    },
+    {
+      "added_at": "2025-06-12 22:01:31",
+      "album": {
         "name": "Sounds Like Freedom",
         "url": "https://open.spotify.com/album/6mlrg0FuPmj4hY1f6zUDjc"
       },
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2025-06-12 22:01:31",
       "album": {
-        "name": "Chiara Civello 7752",
-        "url": "https://open.spotify.com/album/1YZkGzLfEIJDzLugOASTMa"
-      },
-      "artists": [
-        {
-          "name": "Chiara Civello",
-          "url": "https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk"
-        }
-      ],
-      "duration_ms": 322333,
-      "name": "Resta",
-      "url": "https://open.spotify.com/track/3eq4ncW2xC74TteeoSZ7Ec"
-    },
-    {
-      "added_at": "2025-06-12 22:01:31",
-      "album": {
         "name": "NAXOS",
         "url": "https://open.spotify.com/album/6S9eVbnJNclJ09sCN3lB3Z"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 217280,
       "name": "Song for Django",
       "url": "https://open.spotify.com/track/6V6BOGQ5AjGyFnHyayO8aV"
+    },
+    {
+      "added_at": "2025-06-12 22:01:31",
+      "album": {
+        "name": "Chiara Civello 7752",
+        "url": "https://open.spotify.com/album/1YZkGzLfEIJDzLugOASTMa"
+      },
+      "artists": [
+        {
+          "name": "Chiara Civello",
+          "url": "https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk"
+        }
+      ],
+      "duration_ms": 322333,
+      "name": "Resta",
+      "url": "https://open.spotify.com/track/3eq4ncW2xC74TteeoSZ7Ec"
     },
     {
       "added_at": "2025-06-12 22:01:31",
@@ -1939,38 +1939,6 @@
     {
       "added_at": "2025-06-12 22:01:31",
       "album": {
-        "name": "The Tales Of Doctor 3",
-        "url": "https://open.spotify.com/album/4pZ8j1ZhDspPrC6LPDc7zI"
-      },
-      "artists": [
-        {
-          "name": "Doctor 3",
-          "url": "https://open.spotify.com/artist/65Ajl7IOuvOWs7CPUADD4Y"
-        }
-      ],
-      "duration_ms": 422573,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/3WtoXFfPhUpfz0CyG9FuZ3"
-    },
-    {
-      "added_at": "2025-06-12 22:01:31",
-      "album": {
-        "name": "For Those I Never Knew",
-        "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
-      },
-      "artists": [
-        {
-          "name": "Luca Flores",
-          "url": "https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O"
-        }
-      ],
-      "duration_ms": 269139,
-      "name": "How Far Can You Fly? (Ladder) - Original Version",
-      "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
-    },
-    {
-      "added_at": "2025-06-12 22:01:31",
-      "album": {
         "name": "Rushin'",
         "url": "https://open.spotify.com/album/4MMwzcfiGiwNwocLjnsEER"
       },
@@ -1999,6 +1967,38 @@
       "duration_ms": 290428,
       "name": "My Groove Your Moove",
       "url": "https://open.spotify.com/track/5jkYLolY6EqsKTyQ3S64p0"
+    },
+    {
+      "added_at": "2025-06-12 22:01:31",
+      "album": {
+        "name": "The Tales Of Doctor 3",
+        "url": "https://open.spotify.com/album/4pZ8j1ZhDspPrC6LPDc7zI"
+      },
+      "artists": [
+        {
+          "name": "Doctor 3",
+          "url": "https://open.spotify.com/artist/65Ajl7IOuvOWs7CPUADD4Y"
+        }
+      ],
+      "duration_ms": 422573,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/3WtoXFfPhUpfz0CyG9FuZ3"
+    },
+    {
+      "added_at": "2025-06-12 22:01:31",
+      "album": {
+        "name": "La Valle Dei Templi",
+        "url": "https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z"
+      },
+      "artists": [
+        {
+          "name": "Perigeo",
+          "url": "https://open.spotify.com/artist/0UB7tnXqRLUWF9dyktuA6e"
+        }
+      ],
+      "duration_ms": 184213,
+      "name": "Looping",
+      "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
     }
   ],
   "unique_name": "Jazz Italia",

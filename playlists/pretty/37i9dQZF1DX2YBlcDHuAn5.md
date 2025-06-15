@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,359 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,362 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,16 +40,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 30 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 |
 | 31 | [Like It Always Was](https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Like It Always Was](https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI) | 3:20 |
 | 32 | [Highway Queen \(feat\. Maren Morris\)](https://open.spotify.com/track/4KjOZ6Ny13zPbBFH7Od8bt) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Highway Queen \(feat\. Maren Morris\)](https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb) | 3:31 |
-| 33 | [Wish I Never Met You](https://open.spotify.com/track/3CAuBM6hYu7mJi8WZkZ8aO) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Midwest Kid](https://open.spotify.com/album/1TLaGao4Yqe6Qb2uRsXRXx) | 2:37 |
-| 34 | [Heartless](https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Heartless](https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm) | 3:18 |
+| 33 | [Heartless](https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Heartless](https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm) | 3:18 |
+| 34 | [Wish I Never Met You](https://open.spotify.com/track/3CAuBM6hYu7mJi8WZkZ8aO) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Midwest Kid](https://open.spotify.com/album/1TLaGao4Yqe6Qb2uRsXRXx) | 2:37 |
 | 35 | [Moondog](https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Moondog](https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK) | 5:05 |
 | 36 | [Sugar in the Tank](https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sugar in the Tank](https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar) | 3:42 |
 | 37 | [Back At Your Door](https://open.spotify.com/track/4JL5loZbBLCyLsLPgjLmEb) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Stampede](https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE) | 3:32 |
 | 38 | [What Makes A King](https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [What Makes A King](https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK) | 2:48 |
 | 39 | [One Deep River](https://open.spotify.com/track/3Ruhf6RwJbrCmP4LcLw0lZ) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [One Deep River](https://open.spotify.com/album/1VD0dpNJZjdQ0lelA5JTHv) | 4:17 |
 | 40 | [Southern Star](https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Southern Star](https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24) | 5:05 |
-| 41 | [Bottom of a Bottle](https://open.spotify.com/track/07dTr0jqXwYbMiOoLjfHri) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Bottom of a Bottle](https://open.spotify.com/album/4V5J6rRicjzvdoqQcgNdt6) | 3:56 |
-| 42 | [Something Bout You](https://open.spotify.com/track/74H0ZAy5DdEYRVpM7uiAVv) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Good To Be Here](https://open.spotify.com/album/3A4MXh4o3DG3B2do5UghrP) | 4:00 |
+| 41 | [Something Bout You](https://open.spotify.com/track/74H0ZAy5DdEYRVpM7uiAVv) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Good To Be Here](https://open.spotify.com/album/3A4MXh4o3DG3B2do5UghrP) | 4:00 |
+| 42 | [Bottom of a Bottle](https://open.spotify.com/track/07dTr0jqXwYbMiOoLjfHri) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Bottom of a Bottle](https://open.spotify.com/album/4V5J6rRicjzvdoqQcgNdt6) | 3:56 |
 | 43 | [Landslide](https://open.spotify.com/track/1GihL7MaWGtvJN5uuWzybj) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Landslide](https://open.spotify.com/album/3yNz1rdmZNGufkecBusKgs) | 3:33 |
 | 44 | [The Machine \- Radio Edit](https://open.spotify.com/track/3kGWfGkDJ11WFqOK2AkYRE) | [Jodymoon](https://open.spotify.com/artist/3SDwQlOp6Q8MWJusQhbga0) | [The Machine \(Radio Edit\)](https://open.spotify.com/album/2jiqkUjC2pa8roaYu71nd3) | 3:14 |
 | 45 | [Wanna Be Big Bad Johnny Cash](https://open.spotify.com/track/2y9M80NOexKa9iaNFvqlWq) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [You Still Got Me](https://open.spotify.com/album/3kP5jq5rPOdI8yStZ944Pa) | 3:21 |

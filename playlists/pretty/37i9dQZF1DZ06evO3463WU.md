@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,101 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,124 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 32 | [Mi Enemigo El Amor \- En Vivo](https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [En Vivo](https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It) | 3:54 |
 | 33 | [Con El Alma En La Mano](https://open.spotify.com/track/0aUeUXfdSkZp98jJ2XQ4CX) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1) | 3:40 |
 | 34 | [La Reyna De Mi Hogar](https://open.spotify.com/track/5XJRpYdbXxef7by5M4OcAm) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV) | 3:32 |
-| 35 | [Yo Estaba Solo](https://open.spotify.com/track/4XcPwUTY31I4atXFTVE6XB) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mas Fuerte Que Nunca](https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi) | 3:11 |
-| 36 | [Lucharé Por Ti](https://open.spotify.com/track/5I9SnEA84dwUgjbBLIdTSm) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Lucharé Por Ti](https://open.spotify.com/album/5ZhzGPdJ3ybEx9fK6LF5c7) | 3:30 |
+| 35 | [Lucharé Por Ti](https://open.spotify.com/track/5I9SnEA84dwUgjbBLIdTSm) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Lucharé Por Ti](https://open.spotify.com/album/5ZhzGPdJ3ybEx9fK6LF5c7) | 3:30 |
+| 36 | [Yo Estaba Solo](https://open.spotify.com/track/4XcPwUTY31I4atXFTVE6XB) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mas Fuerte Que Nunca](https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi) | 3:11 |
 | 37 | [Mi Gran Problema](https://open.spotify.com/track/4j5VHWOKzsdaWl4b31Aes4) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1) | 3:35 |
 | 38 | [De Frente Al Mar](https://open.spotify.com/track/4V73yEyOkURMlSPsXEDcGG) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs) | 3:05 |
 | 39 | [Y Las Mariposas](https://open.spotify.com/track/6Evs8xJsQ9Yw0z10XAOd6W) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Las Consentidas De Pancho Barraza](https://open.spotify.com/album/6Rr6eDqyasdzFBUKzSOAYZ) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 49 | [Siempre Te Voy A Recordar](https://open.spotify.com/track/03Ger3TJI5fd5KFDYvZQfP) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Te Amo Y Te Amaré](https://open.spotify.com/album/2Znp7ihFVi0PFm2Csq5wKS) | 3:46 |
 | 50 | [Invéntame Un Amor](https://open.spotify.com/track/0TsfSmAtQig4YnIlISqVmw) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Mariachi Santa María](https://open.spotify.com/artist/54oub6uzta6IHPRNCQlttQ) | [Invéntame Un Amor](https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J) | 4:01 |
 
-Snapshot ID: `aEoYgAAAAAAOuadRsZLBVEH3RLkv3Y2U`
+Snapshot ID: `aEtqAAAAAAA7iHLSceVBkPLDU1F0aIl8`

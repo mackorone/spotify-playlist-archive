@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,106 songs - 2 day 19 hr 54 min
+1,107 songs - 2 day 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,6 +340,7 @@
 | [FUCKING YOUNG / PERFECT \(feat\. Charlie Wilson, Chaz Bundick, Sydney Bennett & Kali Uchis\)](https://open.spotify.com/track/46CA1H0T1r7u5lDUtVveAh) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Chaz Bundick](https://open.spotify.com/artist/57ZTzIn5GLxNLzWgnTTcHj), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Cherry Bomb](https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In) | 6:41 | 2023-05-29 |  |
 | [Garbage Pale Kids](https://open.spotify.com/track/73pz1RTwUBpKO286c9zhzT) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq) | 2:48 | 2023-07-17 |  |
 | [Gasoline \- Live](https://open.spotify.com/track/2h3ZotklPN6aD7OuHz7bFZ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Live At SoFi Stadium](https://open.spotify.com/album/1OARrXe5sB0gyy3MhQ8h92) | 3:15 | 2023-03-10 |  |
+| [Geezer](https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Geezer](https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO) | 2:49 | 2025-06-14 |  |
 | [Get By](https://open.spotify.com/track/0HXiFFhg287d15ssjFaRZp) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [If This Isn’t Nice, I Don’t Know What Is](https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP) | 2:26 | 2021-08-16 |  |
 | [Get Down](https://open.spotify.com/track/4kcuzPfVaPlElWRv9jNGHi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Get Down](https://open.spotify.com/album/3LV5x9NJGzRMm7xraPqKlL) | 2:51 | 2021-07-16 |  |
 | [GET IT RIGHT](https://open.spotify.com/track/3opHXLp5teEhmdVdDA9MJ9) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 4:13 | 2025-06-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 
 > ¡Las canciones que ponían a bailar a todo México! Alberto Vázquez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,677 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,738 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 9 | [Al Ritmo De La Lluvia](https://open.spotify.com/track/5TmvmwxsHSfDfdW0RptHE4) | [Los Sleepers](https://open.spotify.com/artist/2cCeAySrR6BOPhRJWeoZBN) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:20 |
 | 10 | [Libre, Solterito y Sin Nadie](https://open.spotify.com/track/02olBmYmVrodR2C6xroOzO) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Libre, Solterito y Sin Nadie](https://open.spotify.com/album/0JVFs21ZIaGdDZQZ6TVFs9) | 2:20 |
 | 11 | [Muévanse todos \- Twist and Shout](https://open.spotify.com/track/1BaZlroFKDgIlNc7JQ5LOq) | [Vianey Valdez](https://open.spotify.com/artist/1y6MyiByAJqCEhl0VNg8qs) | [Peerless 80 Aniversario \- 24 Éxitos](https://open.spotify.com/album/40i47N3kz7CqKfBdZG5K2Q) | 2:25 |
-| 12 | [Historia De Tommy](https://open.spotify.com/track/6Uf7HlTnMIUzFpUpHikfl1) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Grandes Éxitos](https://open.spotify.com/album/5vvanUaOWBi9JYjsh3X2I7) | 2:38 |
-| 13 | [Chica Alborotada](https://open.spotify.com/track/3b9ICYLGk3brPCarHbih8a) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Los Grandes Éxitos Del Rock & Roll \(En Español\) Vol\. 2](https://open.spotify.com/album/0tM7TEe6JjVrrbEOLYXh7j) | 2:07 |
+| 12 | [Chica Alborotada](https://open.spotify.com/track/3b9ICYLGk3brPCarHbih8a) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Los Grandes Éxitos Del Rock & Roll \(En Español\) Vol\. 2](https://open.spotify.com/album/0tM7TEe6JjVrrbEOLYXh7j) | 2:07 |
+| 13 | [Historia De Tommy](https://open.spotify.com/track/6Uf7HlTnMIUzFpUpHikfl1) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Grandes Éxitos](https://open.spotify.com/album/5vvanUaOWBi9JYjsh3X2I7) | 2:38 |
 | 14 | [Chica ye yé](https://open.spotify.com/track/6d57N8nRzeGBW2bMinOEKr) | [Queta Garay](https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg) | [Peerless 80 Aniversario \- 24 Éxitos](https://open.spotify.com/album/52eGdmCUeEOIJFOM1rGJYX) | 2:13 |
 | 15 | [Tus Ojos](https://open.spotify.com/track/2ikdhRtBUIS1sBpN0j0ozp) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock \- Lo Mejor De Los Locos Del Ritmo \- Pioneros Del Rock En México](https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK) | 3:25 |
 | 16 | [Rosas en el Mar](https://open.spotify.com/track/3I88eZa7wG0HrbOQeVRKMM) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Cuentame](https://open.spotify.com/album/7pHfAknqhkk00kN1H5pBqs) | 3:44 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 46 | [Hava Naguila](https://open.spotify.com/track/1Bup946FiEFhuxFmj2Y5xE) | [Los Aragon](https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:06 |
 | 47 | [Tumbaloflesicodelicomicoso](https://open.spotify.com/track/1Ae5yrpad97frKpGWjRVVD) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:46 |
 | 48 | [Jerusalén](https://open.spotify.com/track/17yn43ogchDhAbdWkWJwSU) | [Beto Diaz](https://open.spotify.com/artist/0LBeJSgLxquJHj9Q976YRB) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 2:40 |
-| 49 | [El Rock Del Bebe](https://open.spotify.com/track/2ltEsQejGiTtpHLrasrkVd) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Mamacita Donde Esta Santa Claus](https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF) | 2:40 |
-| 50 | [Ciudad Hippie](https://open.spotify.com/track/7LhWtkCyEXgJCb2tednlR8) | [Rabbits And Carrots](https://open.spotify.com/artist/5FjZWiU4wLCmX0QBaMKhwQ) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 5:07 |
+| 49 | [Ciudad Hippie](https://open.spotify.com/track/7LhWtkCyEXgJCb2tednlR8) | [Rabbits And Carrots](https://open.spotify.com/artist/5FjZWiU4wLCmX0QBaMKhwQ) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 5:07 |
+| 50 | [El Rock Del Bebe](https://open.spotify.com/track/2ltEsQejGiTtpHLrasrkVd) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Mamacita Donde Esta Santa Claus](https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF) | 2:40 |
 
 Snapshot ID: `Z3dhuwAAAACfraIMej1tXcg7scLpQDkB`

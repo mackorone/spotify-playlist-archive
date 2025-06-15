@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 
 > ¿Qué es lo que está pasando? ¿Amor o Desamor?
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,419 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,462 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,16 +86,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 | 76 | [Solo Importas Tu](https://open.spotify.com/track/7mu0o0LnLZQxsl9x3ZuOyX) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Fantasia](https://open.spotify.com/album/1fhwcQfIUv8yeKny1kx2bn) | 3:36 |
 | 77 | [Cuando Se Va el Amor](https://open.spotify.com/track/5Kw7AEL0Hq69Ky7WxRFseh) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Kany García](https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO) | 4:08 |
 | 78 | [Te Hubieras Ido Antes](https://open.spotify.com/track/6OQlWTI5sHyahqP8WnQSnD) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ida y Vuelta](https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR) | 4:07 |
-| 79 | [Qué Voy a Hacer Con Mi Amor](https://open.spotify.com/track/2H2Tg24kqd1eA3F7BSQFSi) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:05 |
-| 80 | [Te Conozco](https://open.spotify.com/track/5nAiSK9L3OG1v3HEgZmnoz) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Sólo Para Mujeres](https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9) | 4:06 |
+| 79 | [Te Conozco](https://open.spotify.com/track/5nAiSK9L3OG1v3HEgZmnoz) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Sólo Para Mujeres](https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9) | 4:06 |
+| 80 | [Qué Voy a Hacer Con Mi Amor](https://open.spotify.com/track/2H2Tg24kqd1eA3F7BSQFSi) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:05 |
 | 81 | [Tu Respiración](https://open.spotify.com/track/5bVCHIQgZ4Jcr6DFmnYqRo) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [En Todo Estaré \(Deluxe Edition\)](https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2) | 4:10 |
 | 82 | [Antes](https://open.spotify.com/track/565MagsPGofHeTxiH678pW) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Solo Exitos](https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1) | 3:40 |
 | 83 | [Querido Tommy](https://open.spotify.com/track/2JCXcyMXlVywgDJT86wWZW) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [12 Historias](https://open.spotify.com/album/3EpLCnAGX2cSWEJ9WhL1G6) | 4:59 |
-| 84 | [Dime quien ama de verdad](https://open.spotify.com/track/0abQySNYXaj7H86yJVQ02B) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [CoverKM Recopilatorio](https://open.spotify.com/album/1ZBDFXm0iLRTOhg6SYUy5v) | 3:46 |
-| 85 | [Señora de las Cuatro Décadas](https://open.spotify.com/track/2JvYDGWN21QQOdtUlRdg7w) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Sólo Para Mujeres](https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9) | 5:01 |
+| 84 | [Señora de las Cuatro Décadas](https://open.spotify.com/track/2JvYDGWN21QQOdtUlRdg7w) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Sólo Para Mujeres](https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9) | 5:01 |
+| 85 | [Dime quien ama de verdad](https://open.spotify.com/track/0abQySNYXaj7H86yJVQ02B) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [CoverKM Recopilatorio](https://open.spotify.com/album/1ZBDFXm0iLRTOhg6SYUy5v) | 3:46 |
 | 86 | [Un Siglo Sin Ti](https://open.spotify.com/track/4SjWlauTM2FSmHfe62rDPW) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Desde Siempre](https://open.spotify.com/album/7GFpQchXpnoqDimteHViUX) | 4:38 |
-| 87 | [Solamente tú](https://open.spotify.com/track/7vd2YXwqxAG2BGuEUoMzGl) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Tanto \(Nueva edición\)](https://open.spotify.com/album/6mRiYnPpz8qdoY91s1c4H4) | 4:07 |
-| 88 | [Ella vive en mí](https://open.spotify.com/track/4HiJPtkFafo2IYx2kM0eDY) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Mentiras sinceras](https://open.spotify.com/album/4kycb8w5cgbdLcQ6uD6IyF) | 3:26 |
+| 87 | [Ella vive en mí](https://open.spotify.com/track/4HiJPtkFafo2IYx2kM0eDY) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Mentiras sinceras](https://open.spotify.com/album/4kycb8w5cgbdLcQ6uD6IyF) | 3:26 |
+| 88 | [Solamente tú](https://open.spotify.com/track/7vd2YXwqxAG2BGuEUoMzGl) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Tanto \(Nueva edición\)](https://open.spotify.com/album/6mRiYnPpz8qdoY91s1c4H4) | 4:07 |
 | 89 | [No Sé Olvidar](https://open.spotify.com/track/5GRw7thRUAl9hYx9V8jbPk) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:21 |
 | 90 | [El Rey Tiburón](https://open.spotify.com/track/1PYZtMbLD4vrpGYEVij0eS) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Amar es Combatir](https://open.spotify.com/album/6EuWSWRMKjUNJCKOXnbGga) | 4:52 |
 | 91 | [Bella \(She's All I Ever Had\)](https://open.spotify.com/track/5u1BrOqDnQdguBbgoeeEf1) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:54 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6yDPo14vsW.md) - [plain]
 | 96 | [Te Necesito \(Déjà Vu\)](https://open.spotify.com/track/7FiJDEUzVyXPZHtmq2B98U) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [3 A.M\. \(Deluxe\)](https://open.spotify.com/album/2zx3DYhlTX0ALhbEDUnbnA) | 3:32 |
 | 97 | [Mentira](https://open.spotify.com/track/3SmkowrAwAjGSf1SYl7cgV) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Solo Bolero](https://open.spotify.com/album/3nJmMv3vx8sLOUNiybShch) | 4:43 |
 | 98 | [Cuidarte el Alma](https://open.spotify.com/track/71nUOi1nLOt5KppAIeA8X4) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Sincero](https://open.spotify.com/album/03dnIimGspec4sucffQWLO) | 4:12 |
-| 99 | [JURO QUE ME DOLIO](https://open.spotify.com/track/79m3yH0VRc0dSrqg8lXot3) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [QUE SED](https://open.spotify.com/album/2q6PAdBBf4L2Xpxqc3jd8b) | 2:32 |
-| 100 | [Cóseme](https://open.spotify.com/track/3GZVmPWbACE4yvZbfEM70u) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [CoverKM Recopilatorio](https://open.spotify.com/album/1ZBDFXm0iLRTOhg6SYUy5v) | 4:00 |
+| 99 | [Cóseme](https://open.spotify.com/track/3GZVmPWbACE4yvZbfEM70u) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [CoverKM Recopilatorio](https://open.spotify.com/album/1ZBDFXm0iLRTOhg6SYUy5v) | 4:00 |
+| 100 | [JURO QUE ME DOLIO](https://open.spotify.com/track/79m3yH0VRc0dSrqg8lXot3) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [QUE SED](https://open.spotify.com/album/2q6PAdBBf4L2Xpxqc3jd8b) | 2:32 |
 
 Snapshot ID: `Z/iFuQAAAADHXErEkq2DbPGVkTs92Mm6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > new gen alt ⛓ ft\. EKKSTACY
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,733 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,711 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 79 | [Tunnel Vision](https://open.spotify.com/track/7iQNDl6b48HkG3riOcF5rm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Tunnel Vision](https://open.spotify.com/album/2DVKqtyckfMyE6ypDePXjM) | 2:43 |
 | 80 | [Love Drunk](https://open.spotify.com/track/0Hmr9yk4xHoRnI2Fv4IX7S) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [Songs For The Living // Songs For The Dead](https://open.spotify.com/album/77SLDoPCm31OSzQoWslqnF) | 3:15 |
 
-Snapshot ID: `AAAAAJUA/aVGPlqQbXaY6p2mgxwyaEKu`
+Snapshot ID: `aCa4XAAAAABmqPYvpIVQ8XUNj76EJIhN`

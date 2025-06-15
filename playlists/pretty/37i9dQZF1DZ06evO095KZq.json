@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 443449,
+  "num_followers": 443451,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAABwOvNRlf/iGupod6nC+MtW",
+  "snapshot_id": "aEtqAAAAAACegMkfTb3YYWH6LgwtGb8O",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agarra Tu Camino",
-        "url": "https://open.spotify.com/album/7d5gCEbYhn607U8FQuTQ3B"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 234895,
-      "name": "Agarra Tu Camino",
-      "url": "https://open.spotify.com/track/4HXIyu3N5yVTd4qHMbU7cK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carteles",
         "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 125818,
       "name": "El B\u00e9lico",
       "url": "https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Agarra Tu Camino",
+        "url": "https://open.spotify.com/album/7d5gCEbYhn607U8FQuTQ3B"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 234895,
+      "name": "Agarra Tu Camino",
+      "url": "https://open.spotify.com/track/4HXIyu3N5yVTd4qHMbU7cK"
     },
     {
       "added_at": null,
@@ -287,30 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Presente",
-        "url": "https://open.spotify.com/album/5mDRq6vrhdQotvLYSUrpc8"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 145101,
-      "name": "Presente",
-      "url": "https://open.spotify.com/track/1jjmhcu7bLoF5kbNpFASod"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre Hierba, Polvo y Plomo",
         "url": "https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q"
       },
@@ -331,6 +307,30 @@
       "duration_ms": 215594,
       "name": "Entre Hierba, Polvo y Plomo",
       "url": "https://open.spotify.com/track/0bgQuxSZZRVfivdXROLy1n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Presente",
+        "url": "https://open.spotify.com/album/5mDRq6vrhdQotvLYSUrpc8"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 145101,
+      "name": "Presente",
+      "url": "https://open.spotify.com/track/1jjmhcu7bLoF5kbNpFASod"
     },
     {
       "added_at": null,
@@ -435,6 +435,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Claro y Recio",
+        "url": "https://open.spotify.com/album/64kBABukozvsMCIJlr17BH"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "duration_ms": 165820,
+      "name": "\u2060Claro y Recio",
+      "url": "https://open.spotify.com/track/2dkH0M3yNXMws83joTlFxL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Ceja Levantada",
+        "url": "https://open.spotify.com/album/3N9aY6oiHHrSYmXO8ccJvr"
+      },
+      "artists": [
+        {
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 174742,
+      "name": "El Ceja Levantada",
+      "url": "https://open.spotify.com/track/6QdZj30JB1Va41Pn75Km1B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Zool\u00f3gico (En Vivo)",
         "url": "https://open.spotify.com/album/37RVFNtvyofJTE5Ui9YkFC"
       },
@@ -467,50 +511,6 @@
       "duration_ms": 176841,
       "name": "Gu\u00e1rdame Esta Noche",
       "url": "https://open.spotify.com/track/6a3Y5DF19Zcw1rpW5NXxks"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Ceja Levantada",
-        "url": "https://open.spotify.com/album/3N9aY6oiHHrSYmXO8ccJvr"
-      },
-      "artists": [
-        {
-          "name": "Alemi Bustos",
-          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 174742,
-      "name": "El Ceja Levantada",
-      "url": "https://open.spotify.com/track/6QdZj30JB1Va41Pn75Km1B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Claro y Recio",
-        "url": "https://open.spotify.com/album/64kBABukozvsMCIJlr17BH"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
-        }
-      ],
-      "duration_ms": 165820,
-      "name": "\u2060Claro y Recio",
-      "url": "https://open.spotify.com/track/2dkH0M3yNXMws83joTlFxL"
     },
     {
       "added_at": null,

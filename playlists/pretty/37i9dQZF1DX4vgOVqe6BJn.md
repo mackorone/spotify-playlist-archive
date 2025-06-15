@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,681 likes - 104 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,684 likes - 104 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 4 | [Rice](https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Rice](https://open.spotify.com/album/2ZoSfYlgiJWrGs1Uacr8hZ) | 2:39 |
 | 5 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 |
 | 6 | [Fils de joie](https://open.spotify.com/track/6w2jx3gzQAtoKP22czcANv) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:15 |
-| 7 | [Ahora y Siempre](https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora y Siempre](https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD) | 2:29 |
-| 8 | [You've Done Enough](https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 3:32 |
+| 7 | [You've Done Enough](https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 3:32 |
+| 8 | [Ahora y Siempre](https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora y Siempre](https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD) | 2:29 |
 | 9 | [forever&more](https://open.spotify.com/track/1BzYFQWjXHLZ0c7AGJtL1Z) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 2:56 |
 | 10 | [TIERRA ZANTA](https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 3:57 |
 | 11 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 69 | [Better](https://open.spotify.com/track/5zaDzuxKea73orX9RodvRU) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Better](https://open.spotify.com/album/55RZv5u9hsPT7QMwioGIvY) | 2:34 |
 | 70 | [Heritage](https://open.spotify.com/track/4XCjdGmSw6RqFB6W4uS764) | [Regents](https://open.spotify.com/artist/4BmXLF6dxW3qdkKPL8zthd), [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3) | [Shegry](https://open.spotify.com/album/52FuZ7LCpIb0ASm79pa51Z) | 4:13 |
 | 71 | [T.T.Y.N.](https://open.spotify.com/track/6qhrjDnGgfSsVOLaRBWn3v) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Diede](https://open.spotify.com/artist/2sNBakZRs72upiLJFzAQLZ) | [T.T.Y.N.](https://open.spotify.com/album/3uulBOCnvOz8ZhYyvx2cis) | 3:06 |
-| 72 | [Work It Out](https://open.spotify.com/track/2B4wDjhtKmbSJKwb209zEO) | [Curtis Richa](https://open.spotify.com/artist/7cjZxsK1vjYtIHDE7heJXJ), [WayBetta](https://open.spotify.com/artist/37EsvqkoP3x9MLTRCG5Qp6) | [Work It Out](https://open.spotify.com/album/2MFNQ5T9dbuT8cNbcIp2yX) | 2:38 |
-| 73 | [THE REAPERS](https://open.spotify.com/track/6nfYpjNjaIIuzzPoY3BEXZ) | [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve), [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0) | [THE REAPERS](https://open.spotify.com/album/4yQVQmxuobeUQWsJC69s9f) | 4:05 |
+| 72 | [THE REAPERS](https://open.spotify.com/track/6nfYpjNjaIIuzzPoY3BEXZ) | [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve), [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0) | [THE REAPERS](https://open.spotify.com/album/4yQVQmxuobeUQWsJC69s9f) | 4:05 |
+| 73 | [Work It Out](https://open.spotify.com/track/2B4wDjhtKmbSJKwb209zEO) | [Curtis Richa](https://open.spotify.com/artist/7cjZxsK1vjYtIHDE7heJXJ), [WayBetta](https://open.spotify.com/artist/37EsvqkoP3x9MLTRCG5Qp6) | [Work It Out](https://open.spotify.com/album/2MFNQ5T9dbuT8cNbcIp2yX) | 2:38 |
 | 74 | [Not Yours](https://open.spotify.com/track/0MiQUuAoPSSjipYHsl4lS1) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Not Yours](https://open.spotify.com/album/6MIn9ifpixHNbd7NnaclYa) | 4:51 |
 | 75 | [MAN NENNT MICH](https://open.spotify.com/track/4pnGmHL2PXPGfmgP61eoei) | [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [MAN NENNT MICH](https://open.spotify.com/album/3OmyEcFktiJqy3JHybl01e) | 2:15 |
 | 76 | [I'm Gon' Get You](https://open.spotify.com/track/3HcZq5T4OW6nSL0iUs4t9s) | [Tassia Zappia](https://open.spotify.com/artist/7bXqujdpOq3rBiEmUF6M5k) | [I'm Gon' Get You](https://open.spotify.com/album/4gGhnFi58lYP7rJyomWx1p) | 2:47 |

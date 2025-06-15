@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Rockout Danny and Nino Paid
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,679 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,653 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 8 | [Unlucky Lucky Kid](https://open.spotify.com/track/1byrbGZ2VfFgRZWhffSnAY) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Proud Of Myself](https://open.spotify.com/album/0wEkiIBzTdP3BWpq0YhUYP) | 2:24 |
 | 9 | [Chill Bae](https://open.spotify.com/track/4ppKM7xnkSAwSyKqD4QTY4) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake 2](https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0) | 2:18 |
 | 10 | [Me Again](https://open.spotify.com/track/7ajhnF9PY4D1LftlzVpO6G) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Me Again](https://open.spotify.com/album/0AZzBpP070CamsTm5Pqvgf) | 2:24 |
-| 11 | [Seventeen](https://open.spotify.com/track/3VgFxRLEvav1ewTx5IaROh) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Seventeen](https://open.spotify.com/album/1xZkfphab61c5kqctCexP7) | 3:14 |
+| 11 | [Seventeen](https://open.spotify.com/track/3VgFxRLEvav1ewTx5IaROh) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Seventeen](https://open.spotify.com/album/1xZkfphab61c5kqctCexP7) | 3:13 |
 | 12 | [Dark Thoughts](https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dark Thoughts](https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP) | 2:16 |
 | 13 | [WASSUP \(feat\. JPEGMAFIA\)](https://open.spotify.com/track/695BJdWZwhvuws1HSrvU4e) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [WASSUP \(feat\. JPEGMAFIA\)](https://open.spotify.com/album/0D7SdJZbjFdPhDSH7EnFnx) | 3:00 |
 | 14 | [TRIPPIN](https://open.spotify.com/track/7LRxsdzPgpbu4EYVbqo2A6) | [Sturdyyoungin](https://open.spotify.com/artist/2DnJs9S5S7DWOyE2zK2fNs), [Ohthatsmizz](https://open.spotify.com/artist/77zq5iaCosWolNf1IRdTjJ), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [TRIPPIN](https://open.spotify.com/album/5HcOiZtNwL6AMrMdw0qJ8Q) | 2:05 |

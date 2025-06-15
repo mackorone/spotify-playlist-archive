@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > All the indie gems from 2024 that may have flown under your radar! Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,500 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,525 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 16 | [Wild Horses](https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema](https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc) | 3:51 |
 | 17 | [Softly](https://open.spotify.com/track/4CoOQcN00jjCGpyN0KCPA9) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Sunday \(1994\) \[Deluxe\]](https://open.spotify.com/album/09pGoAwAEQdxuMitd6GqaJ) | 4:02 |
 | 18 | [Can't Get You Out Of My Mind](https://open.spotify.com/track/5YjID8xAeHRZFykP8QTb3q) | [Keep Dancing Inc](https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB) | [Can't Get You Out Of My Mind](https://open.spotify.com/album/7qMMVQqBCnOUK2Y5X3azca) | 4:16 |
-| 19 | [Anthems For A Seventeen Year\-Old Girl \- From "I Saw the TV Glow"](https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Anthems For A Seventeen Year\-Old Girl \(From "I Saw the TV Glow"\)](https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT) | 3:32 |
+| 19 | [Small Change](https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Small Change](https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp) | 2:45 |
 | 20 | [Plein Air](https://open.spotify.com/track/7d0x1E8uKCbIVIdInBqR5y) | [Starcleaner Reunion](https://open.spotify.com/artist/0aE0jIMsKSVBasU5D0e5zM) | [Plein Air](https://open.spotify.com/album/0KbFiJiGYIeX8ui5Gkmz1S) | 4:47 |
-| 21 | [Small Change](https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Small Change](https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp) | 2:45 |
+| 21 | [Anthems For A Seventeen Year\-Old Girl \- From "I Saw the TV Glow"](https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Anthems For A Seventeen Year\-Old Girl \(From "I Saw the TV Glow"\)](https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT) | 3:32 |
 | 22 | [See you soon](https://open.spotify.com/track/5TMGf0iNjOVLOgBf9vgq2O) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Pandora](https://open.spotify.com/album/47rlABSBChwZC7qxAKzOWw) | 3:40 |
 | 23 | [desire machine](https://open.spotify.com/track/0ggTHtuRYmdQxTEs8T32ny) | [spirit blue](https://open.spotify.com/artist/49JcjxYnQNsELWLqtzIycx) | [ps / dm](https://open.spotify.com/album/41iZzEDQEdv2RzY4o7yf4F) | 3:50 |
 | 24 | [Midas](https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Midas](https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R) | 2:18 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 60 | [Shudder](https://open.spotify.com/track/1w5m4J6icg6zmt0KuneqST) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [The Sweater Club](https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N) | 2:47 |
 | 61 | [Some Kind of Angel](https://open.spotify.com/track/20gvvUCHiGRbYmZMEE80Jb) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Split Lip](https://open.spotify.com/album/40B9Xk2WmXKJY9kNWH1yBk) | 4:34 |
 | 62 | [Feed My Release](https://open.spotify.com/track/06HsoB1J6BYNJtxOuvy2yN) | [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok) | [Below a Massive Dark Land](https://open.spotify.com/album/4FBlXgeZ4n0nwY0bXuZ8P2) | 5:16 |
-| 63 | [Confusion Song](https://open.spotify.com/track/3xYyoN7FZQlDUBoK8y3F3M) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings](https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw) | 2:41 |
+| 63 | [Golden Hour](https://open.spotify.com/track/7sxjOcfj6F1uaTL6rySXa5) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings](https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw) | 3:21 |
 | 64 | [wish u well](https://open.spotify.com/track/4TZOVk3IPsfYQTiCGyRauf) | [shower curtain](https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj) | [words from a wishing well](https://open.spotify.com/album/369tShTNrYrCMkXRepABx9) | 3:33 |
 | 65 | [Double](https://open.spotify.com/track/6VNvyzWcgWUKsV7MkINTQQ) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Double](https://open.spotify.com/album/6Rf1Ngu6OEeXdOE7nIBCgA) | 3:02 |
 | 66 | [Soft Spoken](https://open.spotify.com/track/2OXhBICwcarUIxQecaxUZW) | [Jeff Lamb](https://open.spotify.com/artist/4uGP4EfbZejQhXJo7z9Nzb) | [SlowMo](https://open.spotify.com/album/0hH7tpKEXHmjSujH9S4HFT) | 3:42 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 70 | [Kepko](https://open.spotify.com/track/2Ysvx9MvpgXpSxs57vW3Qg) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Dennis](https://open.spotify.com/album/40kTY3AQkWQuo6yA8SnT5s) | 3:12 |
 | 71 | [How Can I Love Her More?](https://open.spotify.com/track/5aR0Zrg6Oq0EulyTZPwAxG) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [A Dream Is All We Know](https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68) | 2:47 |
 | 72 | [Wish You Well](https://open.spotify.com/track/03TWR8Pj2dYpXiCbhuncQb) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Rose Main Reading Room](https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE) | 2:46 |
-| 73 | [Golden Hour](https://open.spotify.com/track/7sxjOcfj6F1uaTL6rySXa5) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings](https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw) | 3:21 |
+| 73 | [Confusion Song](https://open.spotify.com/track/3xYyoN7FZQlDUBoK8y3F3M) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings](https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw) | 2:41 |
 | 74 | [I'm So Serious](https://open.spotify.com/track/15EOCEksKtUd844TrW9Tjv) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Daryl Johns](https://open.spotify.com/album/1KcMm91Cfdgf60yhnhTbFj) | 3:42 |
 | 75 | [Devil Mode](https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Devil Mode](https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf) | 3:04 |
 

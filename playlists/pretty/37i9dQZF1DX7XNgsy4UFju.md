@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Kevin Abstract
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,703 likes - 99 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,710 likes - 99 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 12 | [Crying Over Nothing](https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Crying Over Nothing](https://open.spotify.com/album/1THXecpd4s8ahsnlWIxEOz) | 3:15 |
 | 13 | [In The Middle](https://open.spotify.com/track/3nmvNpobyMN4Ggw7tYcqSF) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Hope We Have Fun](https://open.spotify.com/album/3r5ik8QohUa56zacmEyAdb) | 2:59 |
 | 14 | [Tomorrow is Perfect](https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Tomorrow is Perfect](https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq) | 6:21 |
-| 15 | [Eye Of The Storm](https://open.spotify.com/track/3vpiDhjAVVZP9UmwVQEF6F) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Eye Of The Storm](https://open.spotify.com/album/0iHU8j6P0PAUUVadF52a1k) | 4:50 |
+| 15 | [Eye of the Storm](https://open.spotify.com/track/3vpiDhjAVVZP9UmwVQEF6F) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Eye of the Storm](https://open.spotify.com/album/0iHU8j6P0PAUUVadF52a1k) | 4:50 |
 | 16 | [Did I Say Too Much](https://open.spotify.com/track/4f8dJP5n2xlwMYLWVuLsfS) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Did I Say Too Much](https://open.spotify.com/album/2xn4IEQqM44vDqisznRvZn) | 3:08 |
 | 17 | [Lover's Spit](https://open.spotify.com/track/0H4lTSvGqOj2xTWe43Awhx) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Anthems: A Celebration Of Broken Social Scene's You Forgot It In People](https://open.spotify.com/album/4HdLA0xaCNM7H5FmwVo2FT) | 2:44 |
 | 18 | [Holy Mountain](https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81) | 2:29 |

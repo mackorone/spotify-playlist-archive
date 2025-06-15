@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 368102,
+  "num_followers": 368173,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-05-29 23:00:12",
       "album": {
+        "name": "If You Love Her",
+        "url": "https://open.spotify.com/album/7rMnIouqweD8JlFSw3LyIm"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "If You Love Her",
+      "url": "https://open.spotify.com/track/1MaDw1BQ797k8j7xXnH486"
+    },
+    {
+      "added_at": "2025-05-29 23:00:12",
+      "album": {
         "name": "Tom\u00e1s",
         "url": "https://open.spotify.com/album/19BB8M6tNxHMOUWKbxBL0c"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 182000,
       "name": "Tom\u00e1s",
       "url": "https://open.spotify.com/track/0DYtqHz0Rav6PyIWbS1gFa"
-    },
-    {
-      "added_at": "2025-05-29 23:00:12",
-      "album": {
-        "name": "If You Love Her",
-        "url": "https://open.spotify.com/album/7rMnIouqweD8JlFSw3LyIm"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "If You Love Her",
-      "url": "https://open.spotify.com/track/1MaDw1BQ797k8j7xXnH486"
     },
     {
       "added_at": "2025-05-29 23:00:12",
@@ -763,6 +763,26 @@
     {
       "added_at": "2025-05-29 23:00:12",
       "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 208375,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
+    },
+    {
+      "added_at": "2025-05-29 23:00:12",
+      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -787,26 +807,6 @@
     {
       "added_at": "2025-05-29 23:00:12",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 208375,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
-    },
-    {
-      "added_at": "2025-05-29 23:00:12",
-      "album": {
         "name": "Dancing While Falling",
         "url": "https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng"
       },
@@ -823,6 +823,46 @@
       "duration_ms": 211590,
       "name": "Morning Light (feat. Andreya Triana)",
       "url": "https://open.spotify.com/track/74BzzNL9WKXyUd7vzh2hz3"
+    },
+    {
+      "added_at": "2025-05-29 23:00:12",
+      "album": {
+        "name": "Heatwave",
+        "url": "https://open.spotify.com/album/3y5RpzFIsdyO5N9svU35Hv"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
+        },
+        {
+          "name": "Sa\u00efna",
+          "url": "https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9"
+        }
+      ],
+      "duration_ms": 154735,
+      "name": "Heatwave",
+      "url": "https://open.spotify.com/track/3CXnsjKzy287gQ7WPtp3fF"
+    },
+    {
+      "added_at": "2025-05-29 23:00:12",
+      "album": {
+        "name": "Skin to Skin",
+        "url": "https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        },
+        {
+          "name": "Kaisha",
+          "url": "https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe"
+        }
+      ],
+      "duration_ms": 225454,
+      "name": "Skin to Skin",
+      "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
     },
     {
       "added_at": "2025-05-29 23:00:12",
@@ -863,46 +903,6 @@
       "duration_ms": 287037,
       "name": "Summer In The Ends",
       "url": "https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm"
-    },
-    {
-      "added_at": "2025-05-29 23:00:12",
-      "album": {
-        "name": "Skin to Skin",
-        "url": "https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS"
-      },
-      "artists": [
-        {
-          "name": "Douvelle19",
-          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
-        },
-        {
-          "name": "Kaisha",
-          "url": "https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe"
-        }
-      ],
-      "duration_ms": 225454,
-      "name": "Skin to Skin",
-      "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
-    },
-    {
-      "added_at": "2025-05-29 23:00:12",
-      "album": {
-        "name": "Heatwave",
-        "url": "https://open.spotify.com/album/3y5RpzFIsdyO5N9svU35Hv"
-      },
-      "artists": [
-        {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
-        },
-        {
-          "name": "Sa\u00efna",
-          "url": "https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9"
-        }
-      ],
-      "duration_ms": 154735,
-      "name": "Heatwave",
-      "url": "https://open.spotify.com/track/3CXnsjKzy287gQ7WPtp3fF"
     },
     {
       "added_at": "2025-05-29 23:00:12",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2025-05-29 23:00:12",
       "album": {
-        "name": "High Notes",
-        "url": "https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        },
-        {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "High Notes",
-      "url": "https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO"
-    },
-    {
-      "added_at": "2025-05-29 23:00:12",
-      "album": {
         "name": "Deafened (feat. Family Habits)",
         "url": "https://open.spotify.com/album/6M7RWJ6fmwKh8AqoAb5SYy"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 201626,
       "name": "Deafened (feat. Family Habits)",
       "url": "https://open.spotify.com/track/1uQGRe4JpJqKqYvMRkeOtV"
+    },
+    {
+      "added_at": "2025-05-29 23:00:12",
+      "album": {
+        "name": "High Notes",
+        "url": "https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "High Notes",
+      "url": "https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO"
     },
     {
       "added_at": "2025-05-29 23:00:12",
@@ -1387,22 +1387,18 @@
     {
       "added_at": "2025-05-29 23:00:12",
       "album": {
-        "name": "4mysoul",
-        "url": "https://open.spotify.com/album/22IQuoj7FA21jKOdgU0xd3"
+        "name": "Change (Edit)",
+        "url": "https://open.spotify.com/album/4LZzcVZ5K0CNbnEypXeWVp"
       },
       "artists": [
         {
-          "name": "Joe Hertz",
-          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
-        },
-        {
-          "name": "Louis VI",
-          "url": "https://open.spotify.com/artist/7tQDfSGEfN1CJcCmnnN4FV"
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
         }
       ],
-      "duration_ms": 196510,
-      "name": "4mysoul",
-      "url": "https://open.spotify.com/track/65WJw3Poze7Lnf4U0R465p"
+      "duration_ms": 211620,
+      "name": "Change - Edit",
+      "url": "https://open.spotify.com/track/3tigqLQ5aJe2Ngl0OqbLVg"
     }
   ],
   "unique_name": "Soultronic",

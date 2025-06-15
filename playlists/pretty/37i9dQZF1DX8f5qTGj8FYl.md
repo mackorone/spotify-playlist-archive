@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is too funky for words to keep up\. Cover: Cory Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,666 likes - 150 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,680 likes - 150 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 149 | [Ethiopian Airlines](https://open.spotify.com/track/2RxQC6uIqDJanickJntvG9) | [Whatitdo Archive Group](https://open.spotify.com/artist/0unbh6hstakLyzQ09UezhO) | [The Black Stone Affair](https://open.spotify.com/album/5EFN2PLtgFkIuPPZBhKfuE) | 4:00 |
 | 150 | [Goliath](https://open.spotify.com/track/3xGsGKZtO9igxUGjC6SFcv) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Into The Infrasounds](https://open.spotify.com/album/73HHKGxaTm3f0GognR7hBv) | 5:03 |
 
-Snapshot ID: `aEJnxQAAAADAi4MA0boZ7mA7AuVTamsH`
+Snapshot ID: `aEJnxQAAAADIeqVlD+52NRY62dVpqoiR`

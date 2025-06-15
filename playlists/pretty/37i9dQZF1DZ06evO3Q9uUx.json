@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 15492,
+  "num_followers": 15494,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAAnART5TbYI6VQ1lWd5guOS",
+  "snapshot_id": "aEtqAAAAAAC2mCUHNqh2/9Gd7OdrRROa",
   "tracks": [
     {
       "added_at": null,
@@ -179,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WE ON GO",
+        "url": "https://open.spotify.com/album/6UMD37okfr1vtlDJ7JLitX"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 168533,
+      "name": "WE ON GO",
+      "url": "https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Isolation",
         "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 243864,
       "name": "Miami (feat. BIA)",
       "url": "https://open.spotify.com/track/5oJAaPRS2EzNIc8EWIbucE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WE ON GO",
-        "url": "https://open.spotify.com/album/6UMD37okfr1vtlDJ7JLitX"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 168533,
-      "name": "WE ON GO",
-      "url": "https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ"
     },
     {
       "added_at": null,
@@ -711,46 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "never worry",
-        "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 174476,
-      "name": "Solitude (with BIA & Lucky Daye)",
-      "url": "https://open.spotify.com/track/4F2WTcTsJGOnHKEl3iXm95"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FOR CERTAIN",
-        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 162779,
-      "name": "SKATE",
-      "url": "https://open.spotify.com/track/5eeNzRV0twsDptfHslE7XR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trampoline (feat. Missy Elliott, BIA and Doechii)",
         "url": "https://open.spotify.com/album/1bFphUB9uHCPapPwdAxCWI"
       },
@@ -779,6 +739,46 @@
       "duration_ms": 144796,
       "name": "Trampoline (feat. Missy Elliott, BIA and Doechii)",
       "url": "https://open.spotify.com/track/64Rn2oaQjAW6gIAjvukhWu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 162779,
+      "name": "SKATE",
+      "url": "https://open.spotify.com/track/5eeNzRV0twsDptfHslE7XR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "never worry",
+        "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 174476,
+      "name": "Solitude (with BIA & Lucky Daye)",
+      "url": "https://open.spotify.com/track/4F2WTcTsJGOnHKEl3iXm95"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is RENEE\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 31 min
+69 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Me Desenamoré](https://open.spotify.com/track/2wHPbYYfVrJHHHur6WETtY) | [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR), [Maena](https://open.spotify.com/artist/4I0Qc20Ta3CCnZRkTl5EgM), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Me Desenamoré](https://open.spotify.com/album/1kwxYhYVUoAqTS5IjBzxpw) | 3:28 | 2023-03-24 |  |
 | [Mechero](https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Mechero](https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK) | 2:35 | 2023-05-31 |  |
 | [Mientras La Ciudad Descansa](https://open.spotify.com/track/5Vj0xk5PiVmBOPVzubzPjn) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 2:14 | 2024-10-20 | 2025-04-25 |
+| [Mientras La Ciudad Descansa \- Re\-versión](https://open.spotify.com/track/4HDDaURdyjlURlWDlhcqaQ) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR), [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Mientras La Ciudad Descansa con Jacinto \(Re\-versión\)](https://open.spotify.com/album/5UHRl6swmNo1VhOB2CKQdr) | 2:14 | 2025-06-15 |  |
 | [mucho texto](https://open.spotify.com/track/52bveGvtg6PtlEVxtxH5T4) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 3:21 | 2023-03-24 |  |
 | [Mundo Cruel](https://open.spotify.com/track/4CnYTUUxEoP2NRkXPvrjiq) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:43 | 2023-03-24 |  |
 | [Más Allá](https://open.spotify.com/track/5y9EP5baygJB9zWQl8549b) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Más Allá](https://open.spotify.com/album/036nFxQ7ocbEdG3FjY88jO) | 3:04 | 2024-06-18 | 2025-03-03 |

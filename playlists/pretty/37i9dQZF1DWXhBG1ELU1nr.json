@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o de hits pra te acompanhar no home office.",
-  "num_followers": 236365,
+  "num_followers": 236360,
   "original_name": "Trabalhando de Casa",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
+        "name": "Angel Dust (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 186960,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 246492,
       "name": "Relic\u00e1rio - Ao Vivo",
       "url": "https://open.spotify.com/track/6HhXiy5XZ81Pyv3yCZMtj1"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
-        "name": "Angel Dust (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k"
-      },
-      "artists": [
-        {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
-        }
-      ],
-      "duration_ms": 186960,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Exagerado",
-        "url": "https://open.spotify.com/album/6WvN5lJoLYNXc8HYLuxjeX"
-      },
-      "artists": [
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 151306,
-      "name": "Codinome Beija-Flor",
-      "url": "https://open.spotify.com/track/5yFI0Vs3x4EbeIDerT0ck1"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Pet Sounds (Original Mono & Stereo Mix)",
         "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 173040,
       "name": "God Only Knows - Mono",
       "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Exagerado",
+        "url": "https://open.spotify.com/album/6WvN5lJoLYNXc8HYLuxjeX"
+      },
+      "artists": [
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 151306,
+      "name": "Codinome Beija-Flor",
+      "url": "https://open.spotify.com/track/5yFI0Vs3x4EbeIDerT0ck1"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Metallica",
-        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 388733,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 263000,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/7H8zey5My6uNdD2TxeCb9F"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 388733,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "Here Comes The Sun - Remastered",
+      "url": "https://open.spotify.com/track/45yEy5WJywhJ3sDI28ajTm"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
         "name": "G N' R Lies",
         "url": "https://open.spotify.com/album/1RCAG3LrDwYsNU5ZiUJlWi"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 289026,
       "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
       "url": "https://open.spotify.com/track/3BEZCNZSmVv30vsMNSOCri"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
-        "name": "Abbey Road (Remastered)",
-        "url": "https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "Here Comes The Sun - Remastered",
-      "url": "https://open.spotify.com/track/45yEy5WJywhJ3sDI28ajTm"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Hopes and Fears (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5QqVXRTiGpLgmo1YNoz9Bk"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 216520,
-      "name": "Everybody's Changing",
-      "url": "https://open.spotify.com/track/216S5ED9SNRWaHWVjSJGyX"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "M\u00fasica Popular Cai\u00e7ara (Ao Vivo)",
         "url": "https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 334743,
       "name": "Wish You Were Here - 2011 Remastered Version",
       "url": "https://open.spotify.com/track/5MVrZa7cDtnAoMvCgRAMqb"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Hopes and Fears (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5QqVXRTiGpLgmo1YNoz9Bk"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "Everybody's Changing",
+      "url": "https://open.spotify.com/track/216S5ED9SNRWaHWVjSJGyX"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Rhino Hi-Five: The Doobie Brothers [Vol. 2]",
-        "url": "https://open.spotify.com/album/0FxtDaOzgzLmOipDEyWSv3"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "Listen To The Music - Single Version",
-      "url": "https://open.spotify.com/track/7MkV5KSkh8ZZUl8KeDXAfi"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/7l3Yo2X2XX2A7AYyDESULC"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 181133,
       "name": "Our House",
       "url": "https://open.spotify.com/track/3UBJRltEU6MFv7DkLs13Z1"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Rhino Hi-Five: The Doobie Brothers [Vol. 2]",
+        "url": "https://open.spotify.com/album/0FxtDaOzgzLmOipDEyWSv3"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "Listen To The Music - Single Version",
+      "url": "https://open.spotify.com/track/7MkV5KSkh8ZZUl8KeDXAfi"
     },
     {
       "added_at": "2024-02-27 20:15:05",

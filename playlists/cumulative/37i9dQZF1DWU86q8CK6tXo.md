@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Brandee Younger
 
-1,898 songs - 4 day 6 hr 41 min
+1,899 songs - 4 day 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1269,6 +1269,7 @@
 | [Pain](https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:38 | 2022-06-01 | 2022-07-07 |
 | [Paint The Town Blue](https://open.spotify.com/track/0XgOhyJWH5UVWyV7farWDr) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Paint The Town Blue](https://open.spotify.com/album/0lifeDOx0hIOwqMUEwmcfZ) | 3:05 | 2023-11-08 | 2023-11-30 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2025-03-05 | 2025-03-19 |
+| [Pajamas](https://open.spotify.com/track/3svAabqImjfGaLARJDuFg0) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06) | [Pajamas](https://open.spotify.com/album/3KqPQgeeJyuWSl5naBFh1o) | 2:36 | 2025-06-04 |  |
 | [Palace](https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Palace](https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO) | 2:32 | 2023-04-05 | 2023-05-04 |
 | [PANIC ATTACK](https://open.spotify.com/track/7Gf6BvF5vHKq1ZABgdbMkx) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [PANIC ATTACK](https://open.spotify.com/album/49iWkiTVH0JxJM36bVT7ey) | 2:29 | 2021-12-01 | 2022-01-06 |
 | [Paper Bag](https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 3:39 | 2022-04-06 | 2022-05-05 |
@@ -1726,7 +1727,7 @@
 | [Turbulent Skies](https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:33 | 2023-11-08 | 2023-11-30 |
 | [Turn The Table](https://open.spotify.com/track/70HsIqEK1ATmos8ZAz4wHC) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Save Me](https://open.spotify.com/album/5jhFVn3MgAIVsTKv4YibYI) | 2:51 | 2022-07-06 | 2022-08-04 |
 | [TURNIN' HEADS](https://open.spotify.com/track/3MT8ekypV5xYBLstqFpDkV) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [TURNIN' HEADS](https://open.spotify.com/album/2vEstBvc73vJEJ39gFwE50) | 2:56 | 2023-05-03 | 2023-06-08 |
-| [Turquoise Cowboy](https://open.spotify.com/track/4LifLPjq01uBbFF0yKTrzU) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Turquoise Cowboy](https://open.spotify.com/album/1JMzzKhYbJcYNQ3VKC0lpw) | 3:16 | 2025-05-27 |  |
+| [Turquoise Cowboy](https://open.spotify.com/track/4LifLPjq01uBbFF0yKTrzU) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Turquoise Cowboy](https://open.spotify.com/album/1JMzzKhYbJcYNQ3VKC0lpw) | 3:16 | 2025-05-27 | 2025-06-15 |
 | [TuTuRu](https://open.spotify.com/track/1EogpG7fkDaEPRxSdAfyWe) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [TuTuRu](https://open.spotify.com/album/21nYU75PGArPV2CBoXw5jt) | 2:51 | 2022-03-08 | 2022-04-07 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-11-30 | 2023-01-05 |
 | [Twinkle Twinkle Little Me \(feat\. Sullivan Fortner\)](https://open.spotify.com/track/6tPOJ6YCaxdDN1VurFaou1) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5) | [A Joyful Holiday](https://open.spotify.com/album/2VEsXkmIycyL3VL2vvbneU) | 4:02 | 2023-11-29 | 2024-01-03 |

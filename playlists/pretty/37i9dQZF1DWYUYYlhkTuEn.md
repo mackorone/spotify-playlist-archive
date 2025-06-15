@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUYYlhkTuEn.md) - [plain]
 
 > Let's flow to the beats of downtempo deep house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,885 likes - 60 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,957 likes - 60 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

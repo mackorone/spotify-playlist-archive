@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Biffy Clyro
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,676 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,679 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [His & Hers \(with Loski\)](https://open.spotify.com/track/4pbf37Dttl8yLgpDSPTq6T) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn) | [His & Hers \(with Loski\)](https://open.spotify.com/album/5iDPT6RAETzQJ8PZxbS9Xh) | 3:26 |
 | 80 | [Hairclips](https://open.spotify.com/track/3PYNyyyvqbiLbjBj5SNzBI) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Hairclips](https://open.spotify.com/album/4YzrFnPfeFs63RrQXOThyx) | 3:04 |
 
-Snapshot ID: `AAAAAOiCt1fkGI/chIeMZNLPj5gLt2pt`
+Snapshot ID: `aEvjeQAAAADy/NF4mFvqNV0xHqSGHHTM`

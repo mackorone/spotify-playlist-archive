@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Last Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,601 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,624 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 17 | [Ding Dang Dong \(Ringing at Your Bell\)](https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [Variéty](https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL) | 3:39 |
 | 18 | [Comme elle vient](https://open.spotify.com/track/1Na29wiC0macG2Va6DXvJ5) | [Noir Désir](https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos) | [666.667 Club](https://open.spotify.com/album/1OIRFnpHDRBQHAmFOAxCWT) | 2:25 |
 | 19 | [Travel The World](https://open.spotify.com/track/4lGOkkE9PbBpz2lhBmm5Rn) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq) | [Wow](https://open.spotify.com/album/1Ihd1Ym29lWWA0XYAXpJMt) | 3:47 |
-| 20 | [Rimini](https://open.spotify.com/track/5xo1GjsebrOd1iUVoJ6SEK) | [Les Wampas](https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE) | [Rock'n'Roll Part 9](https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK) | 2:43 |
-| 21 | [Elle m'a dit](https://open.spotify.com/track/631aobaJggPYE0nIh3mo2t) | [Cali](https://open.spotify.com/artist/1ULXG4gd6YSvdjuFBJ6sAA) | [L'amour Parfait](https://open.spotify.com/album/1wDIEUmo5UDNuC7TkgCMCX) | 3:33 |
+| 20 | [Elle m'a dit](https://open.spotify.com/track/631aobaJggPYE0nIh3mo2t) | [Cali](https://open.spotify.com/artist/1ULXG4gd6YSvdjuFBJ6sAA) | [L'amour Parfait](https://open.spotify.com/album/1wDIEUmo5UDNuC7TkgCMCX) | 3:33 |
+| 21 | [Rimini](https://open.spotify.com/track/5xo1GjsebrOd1iUVoJ6SEK) | [Les Wampas](https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE) | [Rock'n'Roll Part 9](https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK) | 2:43 |
 | 22 | [Le retour à la terre](https://open.spotify.com/track/715zIQcEj658KTFby8MJYp) | [Les Fatals Picards](https://open.spotify.com/artist/3oaj9AlMadVi3FkChhwFAz) | [Coming Out \(Standard\)](https://open.spotify.com/album/7k8ONKDSNThARwHLKnm2Tm) | 3:52 |
 | 23 | [Matador](https://open.spotify.com/track/4eNR2akrNSKuDAJSJ8qLor) | [Mickey 3d](https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF) | [Matador](https://open.spotify.com/album/7ELKvakLxSb8aesWRLdYo7) | 3:06 |
 | 24 | [Jalouse](https://open.spotify.com/track/0z7ZXj10QgNhvoxGAVqdOT) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Ça me vexe](https://open.spotify.com/album/2uI9jvUZPBUFXiDbpwF9F0) | 3:46 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 46 | [Alice & June \- Mix 2020](https://open.spotify.com/track/7taoYAfDTtuI5dxSBeijUO) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Singles Collection \(2001 \- 2021\)](https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C) | 3:28 |
 | 47 | [Je me souviens, je me rappelle](https://open.spotify.com/track/3vgmRlBi986YeWV95UNgJ6) | [Daniel Darc](https://open.spotify.com/artist/7iMdjNroWSI5FqRxeu2G5t) | [Crèvecoeur \(2019 remastered\)](https://open.spotify.com/album/5brOhiGaSGy404g0CaY3Yf) | 3:19 |
 | 48 | [Anomalie](https://open.spotify.com/track/4lzxPainD9ovAzAAAeXoqs) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Anomalie](https://open.spotify.com/album/7BpAbYt9NzfXUOUlniH9Qf) | 3:09 |
-| 49 | [Droit Dans Le Soleil](https://open.spotify.com/track/4rpeOY4yFkKFcImfFxZqqu) | [Detroit](https://open.spotify.com/artist/4t5BWOtBj0BZwYlntlKKDj) | [Horizons](https://open.spotify.com/album/5NAlRXuJEAqDjuYlzuGewb) | 3:24 |
-| 50 | [Regarde\-moi](https://open.spotify.com/track/6Fo0iSM2LaVTCLS3WkTXgz) | [Astonvilla](https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7), [Jean Baptiste Mory](https://open.spotify.com/artist/1U8rYQJV2ZRLToXUNElojh), [Greg Baudrier](https://open.spotify.com/artist/7GuuhlWi6XzX44SqqS9hHR), [Emmanuel Baroux](https://open.spotify.com/artist/4GLhnY37gfDwczctnvppiB), [Franck Pilant](https://open.spotify.com/artist/6dVTsBmqhIN3K2lPOg11N5), [Frédéric Franchitti](https://open.spotify.com/artist/3CFp5YtgEajDtIcDUJ420F) | [De jour comme de nuit](https://open.spotify.com/album/2Qstn4PgalHk3b9w6YFJI0) | 4:00 |
+| 49 | [Regarde\-moi](https://open.spotify.com/track/6Fo0iSM2LaVTCLS3WkTXgz) | [Astonvilla](https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7), [Jean Baptiste Mory](https://open.spotify.com/artist/1U8rYQJV2ZRLToXUNElojh), [Greg Baudrier](https://open.spotify.com/artist/7GuuhlWi6XzX44SqqS9hHR), [Emmanuel Baroux](https://open.spotify.com/artist/4GLhnY37gfDwczctnvppiB), [Franck Pilant](https://open.spotify.com/artist/6dVTsBmqhIN3K2lPOg11N5), [Frédéric Franchitti](https://open.spotify.com/artist/3CFp5YtgEajDtIcDUJ420F) | [De jour comme de nuit](https://open.spotify.com/album/2Qstn4PgalHk3b9w6YFJI0) | 4:00 |
+| 50 | [Droit Dans Le Soleil](https://open.spotify.com/track/4rpeOY4yFkKFcImfFxZqqu) | [Detroit](https://open.spotify.com/artist/4t5BWOtBj0BZwYlntlKKDj) | [Horizons](https://open.spotify.com/album/5NAlRXuJEAqDjuYlzuGewb) | 3:24 |
 
 Snapshot ID: `ZnnPXwAAAABv4KO2+kCCFhslZxGrwfA0`

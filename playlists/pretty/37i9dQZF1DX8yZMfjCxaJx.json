@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Luis Mexia, El Rabbanito en portada.",
-  "num_followers": 213099,
+  "num_followers": 213219,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,26 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
+        "name": "Desde Topo Hasta La Sierra (En vivo)",
+        "url": "https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F"
+      },
+      "artists": [
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        },
+        {
+          "name": "Los Torrenciales de la Sierra",
+          "url": "https://open.spotify.com/artist/1AR0atiSk7fk8C18cEyYNn"
+        }
+      ],
+      "duration_ms": 218534,
+      "name": "Desde Topo Hasta La Sierra - En vivo",
+      "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
+    },
+    {
+      "added_at": "2025-03-28 18:15:05",
+      "album": {
         "name": "Lunetas",
         "url": "https://open.spotify.com/album/77PjwDAfnqkqKWm4yGlV93"
       },
@@ -855,22 +875,6 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
-        "name": "Contrato A La Vida",
-        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 186366,
-      "name": "Chambeando En Lo Verde",
-      "url": "https://open.spotify.com/track/7qfEXN9F6xhtgpsadxQu8m"
-    },
-    {
-      "added_at": "2025-03-28 18:15:05",
-      "album": {
         "name": "Qu\u00e9date Conmigo",
         "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
@@ -887,22 +891,18 @@
     {
       "added_at": "2025-03-28 18:15:05",
       "album": {
-        "name": "Desde Topo Hasta La Sierra (En vivo)",
-        "url": "https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F"
+        "name": "Contrato A La Vida",
+        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
       },
       "artists": [
         {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
-        },
-        {
-          "name": "Los Torrenciales de la Sierra",
-          "url": "https://open.spotify.com/artist/1AR0atiSk7fk8C18cEyYNn"
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
         }
       ],
-      "duration_ms": 218534,
-      "name": "Desde Topo Hasta La Sierra - En vivo",
-      "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
+      "duration_ms": 186366,
+      "name": "Chambeando En Lo Verde",
+      "url": "https://open.spotify.com/track/7qfEXN9F6xhtgpsadxQu8m"
     },
     {
       "added_at": "2025-03-28 18:15:05",

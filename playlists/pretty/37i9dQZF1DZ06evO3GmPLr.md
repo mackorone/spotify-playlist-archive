@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 
 > This is Little Simz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,571 likes - 46 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,620 likes - 46 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 | 9 | [Gorilla](https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 4:05 |
 | 10 | [Selfish](https://open.spotify.com/track/1b6fmULpHj08RMmHfARJ4e) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 3:46 |
 | 11 | [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 |
-| 12 | [Hollow](https://open.spotify.com/track/0BFG4mvQhFttosErqHmN2K) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 2:54 |
+| 12 | [Enough](https://open.spotify.com/track/1HmK8lrO7XCaMEn0CWbDWB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 3:02 |
 | 13 | [Hello, Hi](https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Hello, Hi](https://open.spotify.com/album/10HfbJ0arWU8m6YOg85Q9y) | 2:15 |
 | 14 | [Venom](https://open.spotify.com/track/2tHdQjwO5zN86MLF7ZtU1X) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 2:34 |
 | 15 | [Two Worlds Apart](https://open.spotify.com/track/34qvgmIagzNQdZTRL2poiv) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 2:58 |
-| 16 | [Enough](https://open.spotify.com/track/1HmK8lrO7XCaMEn0CWbDWB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 3:02 |
+| 16 | [Hollow](https://open.spotify.com/track/0BFG4mvQhFttosErqHmN2K) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 2:54 |
 | 17 | [Talk Olympics](https://open.spotify.com/track/77S6m6lDEpHOUPUG8j9zQj) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Paradise Now](https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81) | 2:41 |
 | 18 | [Heart on Fire](https://open.spotify.com/track/5OJUTZS9QE2qem6FDsEnOM) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 3:58 |
 | 19 | [I See You](https://open.spotify.com/track/4aAJQjtjZQXKFEHIpZEJCj) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:58 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 | 33 | [Power](https://open.spotify.com/track/3aynUU0UifcUPzOSssR1Pk) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 0:55 |
 | 34 | [X](https://open.spotify.com/track/0R4Po8nAlhZMmlA4TKH8Fy) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 6:04 |
 | 35 | [Flowers](https://open.spotify.com/track/5PrVJBp2pyJxKDKXVKDiGq) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 3:45 |
-| 36 | [Black and British \(feat\. Little Simz & Benjamin AD\)](https://open.spotify.com/track/2emMsRy56TTkzPY6MZ2YlG) | [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Benjamin A.D](https://open.spotify.com/artist/4UWmplYALfjUhWM6jZ8ftN) | [HOME?](https://open.spotify.com/album/4yCHmmmhJDMVgHO1nC9gZo) | 4:21 |
-| 37 | [Garage Palace \(feat\. Little Simz\)](https://open.spotify.com/track/5ZYBczat60p8a2Fnenour4) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Garage Palace \(feat\. Little Simz\)](https://open.spotify.com/album/5JR95SVj6hXkfA3QpfCFvU) | 2:31 |
+| 36 | [Garage Palace \(feat\. Little Simz\)](https://open.spotify.com/track/5ZYBczat60p8a2Fnenour4) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Garage Palace \(feat\. Little Simz\)](https://open.spotify.com/album/5JR95SVj6hXkfA3QpfCFvU) | 2:31 |
+| 37 | [Black and British \(feat\. Little Simz & Benjamin AD\)](https://open.spotify.com/track/2emMsRy56TTkzPY6MZ2YlG) | [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Benjamin A.D](https://open.spotify.com/artist/4UWmplYALfjUhWM6jZ8ftN) | [HOME?](https://open.spotify.com/album/4yCHmmmhJDMVgHO1nC9gZo) | 4:21 |
 | 38 | [Torch](https://open.spotify.com/track/676854Mu9sVS1vfoBqk7S2) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 2:11 |
 | 39 | [Boss](https://open.spotify.com/track/5JmWjnv4BG5E7y6ijLzEz5) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 3:05 |
 | 40 | [Proud of Me \(feat\. Little Simz\)](https://open.spotify.com/track/1s6peZNxETxrrfMrveNZW8) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Proud of Me \(feat\. Little Simz\)](https://open.spotify.com/album/13DiRRO8DTuLxsD6qqQlp4) | 3:35 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 | 45 | [Picture Perfect](https://open.spotify.com/track/1jGbBTbyopFlfh8b4pTcbU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness in Wonderland](https://open.spotify.com/album/5WIvREgNBScLryJbpNs9yN) | 3:03 |
 | 46 | [Far Away](https://open.spotify.com/track/7p6ru2D2smv8ga7f06JkTo) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 3:07 |
 
-Snapshot ID: `aEoYgAAAAAA22v0GiaV6FxeMXzH+eL17`
+Snapshot ID: `aEtqAAAAAAC3+M8SRsFMdR29pxSv3xeg`

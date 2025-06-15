@@ -8582,7 +8582,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-12",
+      "date_removed": null,
       "duration_ms": 118449,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/3RJqGQaU5C6olAtsaO7hjc"
@@ -8604,7 +8604,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 118449,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
@@ -12388,7 +12388,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 198786,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/6DXLO8LndZMVOHM0wNbpzg"
@@ -15352,7 +15352,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 135082,
       "name": "eehhhyyy",
       "url": "https://open.spotify.com/track/1cXo8i9dgutdqjhjz3Zwqq"
@@ -16344,7 +16344,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -16362,7 +16362,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-12",
+      "date_removed": null,
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -20234,7 +20234,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-09",
+      "date_removed": null,
       "duration_ms": 145241,
       "name": "Gianna - Harris & Ford x BIG TIM Remix",
       "url": "https://open.spotify.com/track/52lF2brp2QBZRcIlB0GJe4"
@@ -21365,6 +21365,24 @@
     },
     {
       "album": {
+        "name": "GWHF",
+        "url": "https://open.spotify.com/album/6Inm75nG55y057AcG6DjEw"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151427,
+      "name": "GWHF",
+      "url": "https://open.spotify.com/track/2Co26l5ypYisIadzB44Pcz"
+    },
+    {
+      "album": {
         "name": "G\u00f6nn Dir",
         "url": "https://open.spotify.com/album/7IKQk0vp8q7MCI8EVCF55N"
       },
@@ -22230,6 +22248,32 @@
       "duration_ms": 246433,
       "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
       "url": "https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H"
+    },
+    {
+      "album": {
+        "name": "HELLCAT",
+        "url": "https://open.spotify.com/album/6q9CyMopmFwwddt2b1thV2"
+      },
+      "artists": [
+        {
+          "name": "LX",
+          "url": "https://open.spotify.com/artist/10XY9PZCJKzUFzZOdtlQLU"
+        },
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Jambeatz",
+          "url": "https://open.spotify.com/artist/7vkxoOBEhcKUEQVc2KOUZw"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157991,
+      "name": "HELLCAT",
+      "url": "https://open.spotify.com/track/0oQ5ZIZw13bqT3P6zENzKx"
     },
     {
       "album": {
@@ -29382,6 +29426,24 @@
       "duration_ms": 122517,
       "name": "Living Life, In The Night",
       "url": "https://open.spotify.com/track/2kx5sQgmjYug0GiDh1a4sU"
+    },
+    {
+      "album": {
+        "name": "LKW",
+        "url": "https://open.spotify.com/album/0A17Qe3phlF9A3zUaZW0DT"
+      },
+      "artists": [
+        {
+          "name": "LACAZETTE",
+          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155533,
+      "name": "LKW",
+      "url": "https://open.spotify.com/track/3oASWpGnGZ5SxEIhnvcCu8"
     },
     {
       "album": {
@@ -41634,7 +41696,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -41764,7 +41826,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-12",
+      "date_removed": null,
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -41782,7 +41844,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
@@ -45992,7 +46054,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 165045,
       "name": "Sports car",
       "url": "https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S"
@@ -48773,6 +48835,24 @@
     },
     {
       "album": {
+        "name": "The Contract",
+        "url": "https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "The Contract",
+      "url": "https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG"
+    },
+    {
+      "album": {
         "name": "The Days (NOTION Remix)",
         "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
       },
@@ -49124,7 +49204,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 208226,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK"
@@ -50222,7 +50302,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 128297,
       "name": "Toronto",
       "url": "https://open.spotify.com/track/1gdLbE8nrxz1WUPNVns2A9"
@@ -53122,7 +53202,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 201325,
       "name": "Walzer",
       "url": "https://open.spotify.com/track/2wlqlfnyf7Hulg2b9E8Qhy"

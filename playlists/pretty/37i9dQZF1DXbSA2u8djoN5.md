@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Deliric
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,242 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,241 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 33 | [Vise La Plic](https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Vise La Plic](https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m) | 2:46 |
 | 34 | [Trebuie să vorbim](https://open.spotify.com/track/2umq0CclvwPu9IgfKFYGqf) | [Cojo](https://open.spotify.com/artist/4Rl9vpUbiQ7h02NfIaAma2), [Yasmin Petroșanu](https://open.spotify.com/artist/0JAK73jXbu6yF0BMfLZ7xB) | [Erupt](https://open.spotify.com/album/6Hl9jUlqriBim7hHWr09nf) | 3:36 |
 | 35 | [Grinch](https://open.spotify.com/track/0RCOFsv0uaHhIwjZXJJ5yk) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Grinch](https://open.spotify.com/album/2QN6om23DL5Gwek4PCTGx6) | 3:14 |
-| 36 | [Copiii Care Am Fost](https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Bastien](https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS) | [Copiii Care Am Fost](https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT) | 2:58 |
-| 37 | [Șapte](https://open.spotify.com/track/6n6PmjIRTLLcBuGSglnqKv) | [Spike](https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp) | [Șapte](https://open.spotify.com/album/3BYQDwElVXz9moBnWbZtwm) | 2:30 |
+| 36 | [Șapte](https://open.spotify.com/track/6n6PmjIRTLLcBuGSglnqKv) | [Spike](https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp) | [Șapte](https://open.spotify.com/album/3BYQDwElVXz9moBnWbZtwm) | 2:30 |
+| 37 | [Copiii Care Am Fost](https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Bastien](https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS) | [Copiii Care Am Fost](https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT) | 2:58 |
 | 38 | [Femei în Parlament](https://open.spotify.com/track/2xwMZvVmWGYV4rreWqE2z6) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Femei în Parlament](https://open.spotify.com/album/1uHW21qweyX6zr85irBPaD) | 2:50 |
 | 39 | [Liniște](https://open.spotify.com/track/5XukVaJajfZiNivEYWNOiv) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Liniște](https://open.spotify.com/album/0lARoFbtkq99Cadi5EOKKC) | 3:10 |
 | 40 | [Shot](https://open.spotify.com/track/7oRs530KPTYBT8NdSIh6Kx) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY), [BAZOOKA](https://open.spotify.com/artist/5VF7pRN0tgUIRWjsVmnpY1), [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR) | [Shot](https://open.spotify.com/album/3Mmx6Jw7tay29R7KQzE8KE) | 3:48 |

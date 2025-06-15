@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 19424,
+  "num_followers": 19428,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAABiuYYu2b3F1o2jSDX+P2cc",
+  "snapshot_id": "aEtqAAAAAABA3NYRSR7IU6IKqldnoDBo",
   "tracks": [
     {
       "added_at": null,
@@ -223,26 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gripper (feat. T-Pain)",
-        "url": "https://open.spotify.com/album/2k7JIjZOh96oTcKAgK3rlp"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 172592,
-      "name": "Gripper (feat. T-Pain)",
-      "url": "https://open.spotify.com/track/0OBXjsLYqftAOhCMEcAeAs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sunday Service (feat. Megan Thee Stallion & Flo Milli)",
         "url": "https://open.spotify.com/album/2IrJlw610VJwdfYPiSG8Ae"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 225906,
       "name": "Talk My Shit (feat. Amaarae & Flo Milli)",
       "url": "https://open.spotify.com/track/09imUl1oyaB2R86qBgEhCN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gripper (feat. T-Pain)",
+        "url": "https://open.spotify.com/album/2k7JIjZOh96oTcKAgK3rlp"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 172592,
+      "name": "Gripper (feat. T-Pain)",
+      "url": "https://open.spotify.com/track/0OBXjsLYqftAOhCMEcAeAs"
     },
     {
       "added_at": null,
@@ -412,7 +412,7 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 105360,
+      "duration_ms": 105605,
       "name": "oncam",
       "url": "https://open.spotify.com/track/5GkGInIqn2RFKkKWZHaWjR"
     },
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 168451,
+      "name": "Bed Time",
+      "url": "https://open.spotify.com/track/1WGIqE7rCmrsERtlIpCGyM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fine Ho, Stay",
         "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 176000,
       "name": "Edible (feat. Gunna)",
       "url": "https://open.spotify.com/track/0PloZ9T7XT9NSVwzf56u8f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Still Here, Ho ?",
-        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 168451,
-      "name": "Bed Time",
-      "url": "https://open.spotify.com/track/1WGIqE7rCmrsERtlIpCGyM"
     },
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fine Ho, Stay",
-        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
-        }
-      ],
-      "duration_ms": 157192,
-      "name": "Neva (feat. Monaleo)",
-      "url": "https://open.spotify.com/track/5mjAXptfZ8yCVHTRpelvos"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Still Here, Ho ?",
         "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 181417,
       "name": "Hottie (feat. BabyFace Ray)",
       "url": "https://open.spotify.com/track/14I77qsasVr6M6XxbxvcxJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fine Ho, Stay",
+        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "duration_ms": 157192,
+      "name": "Neva (feat. Monaleo)",
+      "url": "https://open.spotify.com/track/5mjAXptfZ8yCVHTRpelvos"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/2u3hKhl5ltq0gbFo8ivsbB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hey u x",
         "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 231898,
       "name": "Plain (feat. Lily Allen & Flo Milli)",
       "url": "https://open.spotify.com/track/4CwcIiZQvy4d9SxAUn5OaJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Still Here, Ho ?",
-        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 138240,
-      "name": "Pretty Girls",
-      "url": "https://open.spotify.com/track/2u3hKhl5ltq0gbFo8ivsbB"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 316482,
+  "num_followers": 316563,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAACKfNKOKIMtFmS5GPz7vMXh",
+  "snapshot_id": "aEtqAAAAAADBuLqx2HsXTQpQSYpdRNaj",
   "tracks": [
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Goes",
-        "url": "https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 179916,
-      "name": "My Oasis (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/1F2K8y7e7STRGCySkEpBtT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tshwala Bam (feat. S.N.E)",
         "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 212716,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Goes",
+        "url": "https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 179916,
+      "name": "My Oasis (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/1F2K8y7e7STRGCySkEpBtT"
     },
     {
       "added_at": null,
@@ -728,17 +728,21 @@
       "added_at": null,
       "album": {
         "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
       },
       "artists": [
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
         }
       ],
-      "duration_ms": 223390,
-      "name": "On Form",
-      "url": "https://open.spotify.com/track/2vocGs3C0oElZiVwZSQZPg"
+      "duration_ms": 176453,
+      "name": "Talibans II - Bonus Track",
+      "url": "https://open.spotify.com/track/1WsIk6g7dD8LZouywnzGUb"
     },
     {
       "added_at": null,
@@ -763,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 188178,
+      "name": "Wetin Man Go Do",
+      "url": "https://open.spotify.com/track/6NnJHQwkeU20eZ5GVbXxw4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Villain I Never Was",
         "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
       },
@@ -783,38 +803,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 188178,
-      "name": "Wetin Man Go Do",
-      "url": "https://open.spotify.com/track/6NnJHQwkeU20eZ5GVbXxw4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+        "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
       },
       "artists": [
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Byron Messia",
-          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
         }
       ],
-      "duration_ms": 176453,
-      "name": "Talibans II - Bonus Track",
-      "url": "https://open.spotify.com/track/1WsIk6g7dD8LZouywnzGUb"
+      "duration_ms": 223390,
+      "name": "On Form",
+      "url": "https://open.spotify.com/track/2vocGs3C0oElZiVwZSQZPg"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 40 Canadian artists to keep on your radar, according to our editors\. Cover: Chxrry
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,286 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,284 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 7 | [Issues](https://open.spotify.com/track/0lWZk9KrUPf9TV9E1mnuy2) | [Danielle Ryan](https://open.spotify.com/artist/7lyU0zKn0p7RDoXFoL7opK) | [Issues](https://open.spotify.com/album/0pxs1IYZuNx6olT6kyP6vj) | 2:21 |
 | 8 | [Eurotrash](https://open.spotify.com/track/7blJR0lR4Aw5sCYThag709) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Eurotrash](https://open.spotify.com/album/3Cf6v61HOj9H14xDNpQttQ) | 2:44 |
 | 9 | [RETRO](https://open.spotify.com/track/7qL0Z6HZKGjcWX6JiracpX) | [Moël](https://open.spotify.com/artist/4G0BLZEt6gxTlxB6fZsvTa), [Nasim Asgari](https://open.spotify.com/artist/3Ha4pQdxfE4l63EuZUrCDE) | [RETRO](https://open.spotify.com/album/45GDcZlo4VqOO4dS7rcuhE) | 3:22 |
-| 10 | [Eye Of The Storm](https://open.spotify.com/track/3vpiDhjAVVZP9UmwVQEF6F) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Eye Of The Storm](https://open.spotify.com/album/0iHU8j6P0PAUUVadF52a1k) | 4:50 |
+| 10 | [Eye of the Storm](https://open.spotify.com/track/3vpiDhjAVVZP9UmwVQEF6F) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Eye of the Storm](https://open.spotify.com/album/0iHU8j6P0PAUUVadF52a1k) | 4:50 |
 | 11 | [Nice Girl](https://open.spotify.com/track/2TylYUOGXjj0lXFqlNn6zK) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Nice Girl](https://open.spotify.com/album/4ZUYCh9U0NSUnsz3r3TRpv) | 2:40 |
 | 12 | [Dopamine](https://open.spotify.com/track/3TIMs6PfewA6xaZi5jF62N) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Dopamine](https://open.spotify.com/album/6UWWZvdmR3hkFGj7JDHaNe) | 2:51 |
 | 13 | [Western Wind](https://open.spotify.com/track/5FuDbCYf4LAn3BjMMN85Y1) | [Kalsey Kulyk](https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu) | [Western Wind](https://open.spotify.com/album/5zh5UmVMhLKwa1yJX8pSq7) | 2:52 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables de la Música Mexicana\. Angelina Victoria en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,895 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,935 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,13 +52,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 42 | [Cuando Yo Quiera Has De Volver](https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Cuando Yo Quiera Has De Volver](https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw) | 3:32 |
 | 43 | [Pudimos Ser](https://open.spotify.com/track/7fZtXjelhkJ1i5K8RzrriH) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Pudimos Ser](https://open.spotify.com/album/23G1zBduWHN7UJl7oBLlwY) | 3:09 |
 | 44 | [Es Cosa De El](https://open.spotify.com/track/0ftCOyTnNeeLhlIuMPR3op) | [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Promesas No](https://open.spotify.com/album/17cEzhYbgpZ3MBf6K9l0Y3) | 3:26 |
-| 45 | [Menos Mal Que Me Querías](https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Menos Mal Que Me Querías](https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW) | 2:37 |
-| 46 | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ) | 2:53 |
+| 45 | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ) | 2:53 |
+| 46 | [Menos Mal Que Me Querías](https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Menos Mal Que Me Querías](https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW) | 2:37 |
 | 47 | [Tu Orgullo](https://open.spotify.com/track/0dUoMXtgCcfZt2py8iXROK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Tu Orgullo](https://open.spotify.com/album/267SO0IVvJF735vzJNB5zV) | 3:32 |
 | 48 | [Se Cancela La Llorada](https://open.spotify.com/track/0Ny58e3o3Q2OtxidYpzAi1) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Se Cancela La Llorada](https://open.spotify.com/album/3MYlwwArC8cmf8ZpQcVaCv) | 3:00 |
 | 49 | [Cuando Hablo De Ti](https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila](https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu) | 3:00 |
-| 50 | [Pedazo De Carne](https://open.spotify.com/track/4hdRY3ZWM8EjRfPhT3qaS0) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Inolvidable](https://open.spotify.com/album/4ftGvsn2yNHdvBKhSTKuSq) | 2:51 |
-| 51 | [A Mi Me Respetas](https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [A Mi Me Respetas](https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS) | 2:30 |
+| 50 | [A Mi Me Respetas](https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [A Mi Me Respetas](https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS) | 2:30 |
+| 51 | [Pedazo De Carne](https://open.spotify.com/track/4hdRY3ZWM8EjRfPhT3qaS0) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Inolvidable](https://open.spotify.com/album/4ftGvsn2yNHdvBKhSTKuSq) | 2:51 |
 | 52 | [El Cigarrillo](https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [El Cigarrillo](https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl) | 3:39 |
 | 53 | [Aquí Lo Siento](https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Camila Fernández](https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq) | 3:41 |
 | 54 | [Gente Gacha](https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Gente Gacha](https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP) | 2:55 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 91 | [Me Llamaron Asesina](https://open.spotify.com/track/2LeFdSzcaRdk7Wqbs1tZGi) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Me Llamaron Asesina](https://open.spotify.com/album/728sapsjppB98wPX2yckAC) | 3:05 |
 | 92 | [Mi Culpa](https://open.spotify.com/track/35NsxRSqly73eUC9jOgATW) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [Mi Culpa](https://open.spotify.com/album/2IiwnQJQpBcaZnkvycvvT9) | 4:28 |
 | 93 | [Yo No Creo En Los Hombres](https://open.spotify.com/track/5YriRWHPeBz828opCQ6r0J) | [Sherlyn Sánchez](https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl) | [Yo No Creo En Los Hombres](https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9) | 3:35 |
-| 94 | [Me Voy](https://open.spotify.com/track/3SiScfgPP9I494Fbi5YFmf) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Íntimamente](https://open.spotify.com/album/3xgoENA5vtoM7wJ2kuPKHq) | 3:06 |
-| 95 | [Se Dice Facil](https://open.spotify.com/track/4fAKEzSjHCMWtlujiK9t0U) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Se Dice Facil](https://open.spotify.com/album/55Q2NhOeB74KHi5TPsvJMm) | 2:35 |
+| 94 | [Se Dice Facil](https://open.spotify.com/track/4fAKEzSjHCMWtlujiK9t0U) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Se Dice Facil](https://open.spotify.com/album/55Q2NhOeB74KHi5TPsvJMm) | 2:35 |
+| 95 | [Me Voy](https://open.spotify.com/track/3SiScfgPP9I494Fbi5YFmf) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Íntimamente](https://open.spotify.com/album/3xgoENA5vtoM7wJ2kuPKHq) | 3:06 |
 | 96 | [La Gitanilla](https://open.spotify.com/track/7jKkmzmUeVV4gbwALwp43w) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK), [Banda las Angelinas](https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp) | [La Gitanilla](https://open.spotify.com/album/63XjnfQ5amRVXAeEhIqJMA) | 3:54 |
 | 97 | [No Te Fui Suficiente](https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [No Te Fui Suficiente](https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh) | 4:38 |
 | 98 | [Mucha Mujer](https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2) | [Herly RG](https://open.spotify.com/artist/5lLFLifxnBH3MP5oZoLczt) | [Mucha Mujer](https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz) | 2:36 |

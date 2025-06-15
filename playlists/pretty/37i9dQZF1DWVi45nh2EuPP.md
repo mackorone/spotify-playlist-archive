@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVi45nh2EuPP.md) - [plain]
 
 > Curated by NewJeans, featuring their League of Legends Worlds Anthem: "GODS."
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,132 likes - 21 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,134 likes - 21 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVi45nh2EuPP.md) - [plain]
 | 20 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 |
 | 21 | [Get Up](https://open.spotify.com/track/1wUnuiXMMvhudmzvcCtlZP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 0:36 |
 
-Snapshot ID: `Zo2jYQAAAAD6lxbxvlqFCtYl01HclknT`
+Snapshot ID: `Zo2jYQAAAACjJeDySb0iNbqy5OFjc56J`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 
 > Playlist oficial del j\-hope \- Hope On The Stage POP UP Tour en CDMX 💜✨🫰🏽
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,586 likes - 41 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,600 likes - 41 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 33 | [Airplane](https://open.spotify.com/track/2jk6oBuLiCZJTDWhlJEzIw) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Hope World](https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7) | 3:17 |
 | 34 | [= \(Equal Sign\)](https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 1:54 |
 | 35 | [항상 \(HANGSANG\)](https://open.spotify.com/track/270k38FpoKhnvZLv50NlTr) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Supreme Boi](https://open.spotify.com/artist/6sBiS0iWcCyMMgiYrEOxbt) | [Hope World](https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7) | 3:49 |
-| 36 | [Hope World](https://open.spotify.com/track/5UMPPsXaGbR1qtzcnEtTpM) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Hope World](https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7) | 3:24 |
-| 37 | [on the street \(solo version\)](https://open.spotify.com/track/0Gxnj8yTGYxMYyWcR4wawW) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:11 |
+| 36 | [on the street \(solo version\)](https://open.spotify.com/track/0Gxnj8yTGYxMYyWcR4wawW) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:11 |
+| 37 | [Hope World](https://open.spotify.com/track/5UMPPsXaGbR1qtzcnEtTpM) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Hope World](https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7) | 3:24 |
 | 38 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 |
 | 39 | [Daydream \(백일몽\)](https://open.spotify.com/track/56sdcbPR74RxqmKVbQzJ8s) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Hope World](https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7) | 3:48 |
 | 40 | [i don't know \(with HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/track/0ObH6HhEWiI2kXBJ4tusbQ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:03 |

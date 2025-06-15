@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Gunna, Lil Tecca, 2 Chainz and more!
 
-7,734 songs - 14 day 20 hr 28 min
+7,734 songs - 14 day 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5928,7 +5928,7 @@
 | [Set You Free](https://open.spotify.com/track/12GSOzaNG6XYiHWFUez311) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Set You Free](https://open.spotify.com/album/3pVX1mGqZvF8VzweJm2DyY) | 2:13 | 2025-02-14 | 2025-02-22 |
 | [Settled \(feat\. Russ\)](https://open.spotify.com/track/46cBzfiGyZetFFC9P9LATk) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [The Blue Hour](https://open.spotify.com/album/4DTVVsFW3Jhi4Jw8flTAGR) | 3:41 | 2022-07-15 | 2022-07-23 |
 | [Seven Years](https://open.spotify.com/track/7BA7DeWLj4FNFgY22z4TXo) | [Lg Malique](https://open.spotify.com/artist/3AVhTymLXfDZtJ7EJybv4p), [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Seven Years](https://open.spotify.com/album/0iNNUarK9SKrnWbEst6DYv) | 2:36 | 2024-09-27 | 2024-10-05 |
-| [Seventeen](https://open.spotify.com/track/3VgFxRLEvav1ewTx5IaROh) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Seventeen](https://open.spotify.com/album/1xZkfphab61c5kqctCexP7) | 3:14 | 2025-06-13 |  |
+| [Seventeen](https://open.spotify.com/track/3VgFxRLEvav1ewTx5IaROh) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Seventeen](https://open.spotify.com/album/1xZkfphab61c5kqctCexP7) | 3:13 | 2025-06-13 |  |
 | [Seventeen](https://open.spotify.com/track/5hzrmJKIS2CHmvlUWkdlYy) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Seventeen](https://open.spotify.com/album/5arhOeNsH3P6LCD69z2rAo) | 3:25 | 2023-09-08 | 2023-09-23 |
 | [Sex cells](https://open.spotify.com/track/26Id12aC5I49lgOGUmgcZ8) | [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Experience \(Hosted by DJ Maino The Plug\)](https://open.spotify.com/album/5pvk3ndnDdNFYVtxTnXNVP) | 3:11 | 2023-09-15 | 2023-09-23 |
 | [Sex Symbol](https://open.spotify.com/track/5jDx8OLmJpnLKiDStY8US7) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [Sex Symbol](https://open.spotify.com/album/51XUjHEsoH2qrZs2D79gdC) | 2:10 | 2022-10-21 | 2022-10-29 |

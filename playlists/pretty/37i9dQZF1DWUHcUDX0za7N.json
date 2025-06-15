@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Ladipoe",
-  "num_followers": 65466,
+  "num_followers": 65506,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-06-13 03:00:39",
       "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/4kooYg4oSlwBn24L37DVKJ"
-      },
-      "artists": [
-        {
-          "name": "Ruhdee",
-          "url": "https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp"
-        }
-      ],
-      "duration_ms": 172588,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/2dRFCprhcvQiGXSEqQ0ezN"
-    },
-    {
-      "added_at": "2025-06-13 03:00:39",
-      "album": {
         "name": "Hat-Trick",
         "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 137892,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT"
+    },
+    {
+      "added_at": "2025-06-13 03:00:39",
+      "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/4kooYg4oSlwBn24L37DVKJ"
+      },
+      "artists": [
+        {
+          "name": "Ruhdee",
+          "url": "https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp"
+        }
+      ],
+      "duration_ms": 172588,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/2dRFCprhcvQiGXSEqQ0ezN"
     },
     {
       "added_at": "2025-06-13 03:00:39",
@@ -783,26 +783,6 @@
     {
       "added_at": "2025-06-13 03:00:39",
       "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/2mJtN5UazYAF27M68FOjZN"
-      },
-      "artists": [
-        {
-          "name": "Elestee",
-          "url": "https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7"
-        },
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 186352,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/00qWmyg2cpJuP7nLDBTdqN"
-    },
-    {
-      "added_at": "2025-06-13 03:00:39",
-      "album": {
         "name": "Compose",
         "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 144000,
       "name": "Compose",
       "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
+    },
+    {
+      "added_at": "2025-06-13 03:00:39",
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/2mJtN5UazYAF27M68FOjZN"
+      },
+      "artists": [
+        {
+          "name": "Elestee",
+          "url": "https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 186352,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/00qWmyg2cpJuP7nLDBTdqN"
     },
     {
       "added_at": "2025-06-13 03:00:39",

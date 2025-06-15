@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,454,929 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,455,246 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 6 | [Umaasa](https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs) | [Calein](https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y) | [Umaasa](https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW) | 5:35 |
 | 7 | [Pasilyo](https://open.spotify.com/track/0uZFcsx96wzbixsULmrg8o) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Pasilyo](https://open.spotify.com/album/4shoxv60vMxSDq40tp5cSK) | 4:30 |
 | 8 | [Dito Sa'kin](https://open.spotify.com/track/4g6QB9ktIdyEW5sIfcp71i) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Dito Sa'kin](https://open.spotify.com/album/23xK9zJT0znRZLwhIw3pEQ) | 5:30 |
-| 9 | [TAKE ALL THE LOVE](https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [TAKE ALL THE LOVE](https://open.spotify.com/album/4EJLfrjbTDyhhMU1AcYDPb) | 3:26 |
-| 10 | [Burnout](https://open.spotify.com/track/0ZCCbW4Aym7b5QdQUKfVdv) | [Sugarfree](https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy) | [Sa Wakas](https://open.spotify.com/album/5TgWcKNeogXr2cPNDcXZRb) | 3:30 |
+| 9 | [Burnout](https://open.spotify.com/track/0ZCCbW4Aym7b5QdQUKfVdv) | [Sugarfree](https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy) | [Sa Wakas](https://open.spotify.com/album/5TgWcKNeogXr2cPNDcXZRb) | 3:30 |
+| 10 | [TAKE ALL THE LOVE](https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [TAKE ALL THE LOVE](https://open.spotify.com/album/4EJLfrjbTDyhhMU1AcYDPb) | 3:26 |
 | 11 | [Musika](https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Musika](https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv) | 4:06 |
 | 12 | [Ikaw Lang Patutunguhan](https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Ikaw Lang Patutunguhan](https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG) | 5:26 |
 | 13 | [Aya](https://open.spotify.com/track/6iwojThk8NJYqaN9LUZSON) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Aya](https://open.spotify.com/album/3H0LADPurgxZ61MXge7EpR) | 3:50 |

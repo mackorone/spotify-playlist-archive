@@ -1,6 +1,6 @@
 {
   "description": "Hit the dance floor with your favorite bops!",
-  "num_followers": 549376,
+  "num_followers": 549558,
   "original_name": "Dance Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -703,26 +703,6 @@
     {
       "added_at": "2024-12-12 21:46:01",
       "album": {
-        "name": "Scared to Be Lonely",
-        "url": "https://open.spotify.com/album/2v9rQe4F8fVSh5v8bAq0jF"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 220883,
-      "name": "Scared to Be Lonely",
-      "url": "https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH"
-    },
-    {
-      "added_at": "2024-12-12 21:46:01",
-      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
+      "added_at": "2024-12-12 21:46:01",
+      "album": {
+        "name": "Scared to Be Lonely",
+        "url": "https://open.spotify.com/album/2v9rQe4F8fVSh5v8bAq0jF"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 220883,
+      "name": "Scared to Be Lonely",
+      "url": "https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH"
     },
     {
       "added_at": "2024-12-12 21:46:01",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2024-12-12 21:46:01",
       "album": {
-        "name": "Rather Be (feat. Jess Glynne)",
-        "url": "https://open.spotify.com/album/4UB0J5V3JsZZtNR360pZ6r"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 227833,
-      "name": "Rather Be (feat. Jess Glynne)",
-      "url": "https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6"
-    },
-    {
-      "added_at": "2024-12-12 21:46:01",
-      "album": {
         "name": "Intense",
         "url": "https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 204360,
       "name": "This Is What It Feels Like",
       "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9"
+    },
+    {
+      "added_at": "2024-12-12 21:46:01",
+      "album": {
+        "name": "Rather Be (feat. Jess Glynne)",
+        "url": "https://open.spotify.com/album/4UB0J5V3JsZZtNR360pZ6r"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 227833,
+      "name": "Rather Be (feat. Jess Glynne)",
+      "url": "https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6"
     },
     {
       "added_at": "2024-12-12 21:46:01",
@@ -1359,34 +1359,6 @@
     {
       "added_at": "2024-12-12 21:46:01",
       "album": {
-        "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
-        "url": "https://open.spotify.com/album/3ggBBGRhkDVAu7pQRXRPXO"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        },
-        {
-          "name": "WATT",
-          "url": "https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
-      "url": "https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p"
-    },
-    {
-      "added_at": "2024-12-12 21:46:01",
-      "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
       },
@@ -1415,26 +1387,6 @@
     {
       "added_at": "2024-12-12 21:46:01",
       "album": {
-        "name": "Nothing but the Beat 2.0",
-        "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 245040,
-      "name": "Titanium (feat. Sia)",
-      "url": "https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP"
-    },
-    {
-      "added_at": "2024-12-12 21:46:01",
-      "album": {
         "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
         "url": "https://open.spotify.com/album/0ZHyvPke0EcVt6rYA8Ins3"
       },
@@ -1459,6 +1411,54 @@
       "duration_ms": 212500,
       "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
       "url": "https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM"
+    },
+    {
+      "added_at": "2024-12-12 21:46:01",
+      "album": {
+        "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
+        "url": "https://open.spotify.com/album/3ggBBGRhkDVAu7pQRXRPXO"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        },
+        {
+          "name": "WATT",
+          "url": "https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
+      "url": "https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p"
+    },
+    {
+      "added_at": "2024-12-12 21:46:01",
+      "album": {
+        "name": "Nothing but the Beat 2.0",
+        "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 245040,
+      "name": "Titanium (feat. Sia)",
+      "url": "https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP"
     },
     {
       "added_at": "2024-12-12 21:46:01",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2024-12-12 21:46:01",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 160766,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
-    },
-    {
-      "added_at": "2024-12-12 21:46:01",
-      "album": {
         "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
         "url": "https://open.spotify.com/album/2hBfao8GWZwHlUGDB8HVQO"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 217466,
       "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
       "url": "https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF"
+    },
+    {
+      "added_at": "2024-12-12 21:46:01",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 160766,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
     },
     {
       "added_at": "2024-12-12 21:46:01",
@@ -2839,26 +2839,6 @@
     {
       "added_at": "2024-12-12 21:46:01",
       "album": {
-        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
-        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
-      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
-    },
-    {
-      "added_at": "2024-12-12 21:46:01",
-      "album": {
         "name": "Don't Start Now (Remixes)",
         "url": "https://open.spotify.com/album/4bFD3e4YDki1tu4EQCfSdt"
       },
@@ -2875,6 +2855,26 @@
       "duration_ms": 216774,
       "name": "Don't Start Now - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/2JzErxvclrRRG9bj9dEXR3"
+    },
+    {
+      "added_at": "2024-12-12 21:46:01",
+      "album": {
+        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
     },
     {
       "added_at": "2024-12-12 21:46:01",

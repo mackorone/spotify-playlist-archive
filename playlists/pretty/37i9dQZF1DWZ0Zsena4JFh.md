@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 
 > Un parque de diversiones para gustos inconformes y sofisticados\. David Byrne en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,783 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,763 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 41 | [Upstate](https://open.spotify.com/track/0Tg8POtTUlEH9xNobmoade) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 4:24 |
 | 42 | [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 |
 | 43 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 |
-| 44 | [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 |
+| 44 | [Tina](https://open.spotify.com/track/7uFif00qArtq2USCkQEGac) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [More](https://open.spotify.com/album/4et2xBFMKmsaWQPjlKTbG6) | 3:32 |
 | 45 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 |
-| 46 | [Tina](https://open.spotify.com/track/7uFif00qArtq2USCkQEGac) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [More](https://open.spotify.com/album/4et2xBFMKmsaWQPjlKTbG6) | 3:32 |
+| 46 | [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 |
 | 47 | [Hold Me Up \(Thank You\)](https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:49 |
-| 48 | [ON AND ON \(Song for Jasmin\)](https://open.spotify.com/track/2PBRGvWLBnC1qyvcdT0jwq) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Nostalgia](https://open.spotify.com/album/2BLiShYVFio23DH6oxG9wy) | 2:31 |
-| 49 | [Love Me Alive](https://open.spotify.com/track/0Upay8wgPd30hQPjeWXHOC) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Revelation](https://open.spotify.com/album/3My0taql4cY6yHpY1bZILJ) | 3:25 |
+| 48 | [Love Me Alive](https://open.spotify.com/track/0Upay8wgPd30hQPjeWXHOC) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Revelation](https://open.spotify.com/album/3My0taql4cY6yHpY1bZILJ) | 3:25 |
+| 49 | [ON AND ON \(Song for Jasmin\)](https://open.spotify.com/track/2PBRGvWLBnC1qyvcdT0jwq) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Nostalgia](https://open.spotify.com/album/2BLiShYVFio23DH6oxG9wy) | 2:31 |
 | 50 | [Kill You Off](https://open.spotify.com/track/3Z66u0yqHKVX8NwZuWsg3B) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [PRESSURE](https://open.spotify.com/album/4vIzHHL3D8TacHTRQzYIYe) | 2:13 |
 
 Snapshot ID: `aEu+dgAAAABGUqxiE7uUQcgqHhxbH2vc`

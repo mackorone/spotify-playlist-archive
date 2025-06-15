@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. El Harag\u00e1n y Compa\u00f1\u00eda en portada. ",
-  "num_followers": 999962,
+  "num_followers": 999873,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -491,18 +491,22 @@
     {
       "added_at": "2025-06-13 06:00:22",
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+        "name": "Fiesta Nacional (Mtv Unplugged)",
+        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
       "artists": [
         {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
         }
       ],
-      "duration_ms": 194200,
-      "name": "Pachuco",
-      "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
+      "duration_ms": 249306,
+      "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
+      "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
     },
     {
       "added_at": "2025-06-13 06:00:22",
@@ -523,22 +527,18 @@
     {
       "added_at": "2025-06-13 06:00:22",
       "album": {
-        "name": "Fiesta Nacional (Mtv Unplugged)",
-        "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Rub\u00e9n Albarr\u00e1n",
-          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
         }
       ],
-      "duration_ms": 249306,
-      "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
-      "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
+      "duration_ms": 194200,
+      "name": "Pachuco",
+      "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
     },
     {
       "added_at": "2025-06-13 06:00:22",
@@ -575,6 +575,26 @@
     {
       "added_at": "2025-06-13 06:00:22",
       "album": {
+        "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
+        "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 234985,
+      "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
+      "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
+    },
+    {
+      "added_at": "2025-06-13 06:00:22",
+      "album": {
         "name": "Apocalypshit",
         "url": "https://open.spotify.com/album/2Kd0lXsX8jlXwnoRrAnRiQ"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 237760,
       "name": "Monitor",
       "url": "https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv"
-    },
-    {
-      "added_at": "2025-06-13 06:00:22",
-      "album": {
-        "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
-        "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 234985,
-      "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
-      "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
     },
     {
       "added_at": "2025-06-13 06:00:22",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-06-13 06:00:22",
       "album": {
-        "name": "Dance And Dense Denso",
-        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 256386,
-      "name": "Hit Me",
-      "url": "https://open.spotify.com/track/5oYQ84f7jWY90pblm2XJAO"
-    },
-    {
-      "added_at": "2025-06-13 06:00:22",
-      "album": {
         "name": "A Casa",
         "url": "https://open.spotify.com/album/1435j1Cd1T8MJLSos4Arll"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 209440,
       "name": "Quisiera Saber (with Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg"
+    },
+    {
+      "added_at": "2025-06-13 06:00:22",
+      "album": {
+        "name": "Dance And Dense Denso",
+        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 256386,
+      "name": "Hit Me",
+      "url": "https://open.spotify.com/track/5oYQ84f7jWY90pblm2XJAO"
     },
     {
       "added_at": "2025-06-13 06:00:22",
@@ -743,26 +743,6 @@
     {
       "added_at": "2025-06-13 06:00:22",
       "album": {
-        "name": "Te quiero",
-        "url": "https://open.spotify.com/album/1c0oBLMD4sjDbBckO4Nqbe"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 214781,
-      "name": "Te quiero",
-      "url": "https://open.spotify.com/track/5IShqQgFFTRRpQVVubD52f"
-    },
-    {
-      "added_at": "2025-06-13 06:00:22",
-      "album": {
         "name": "Pasos Al Costado",
         "url": "https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 240703,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww"
+    },
+    {
+      "added_at": "2025-06-13 06:00:22",
+      "album": {
+        "name": "Te quiero",
+        "url": "https://open.spotify.com/album/1c0oBLMD4sjDbBckO4Nqbe"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 214781,
+      "name": "Te quiero",
+      "url": "https://open.spotify.com/track/5IShqQgFFTRRpQVVubD52f"
     },
     {
       "added_at": "2025-06-13 06:00:22",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-06-13 06:00:22",
       "album": {
-        "name": "A 30 A\u00f1os",
-        "url": "https://open.spotify.com/album/6N14CMYjjUcMFgWIsQqRgY"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 201293,
-      "name": "Lo Pasado, Pasado",
-      "url": "https://open.spotify.com/track/0loVgkJy6V4bK1RwN47eBl"
-    },
-    {
-      "added_at": "2025-06-13 06:00:22",
-      "album": {
         "name": "Alma En Fuego",
         "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 232253,
       "name": "Sin Rencor",
       "url": "https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c"
+    },
+    {
+      "added_at": "2025-06-13 06:00:22",
+      "album": {
+        "name": "A 30 A\u00f1os",
+        "url": "https://open.spotify.com/album/6N14CMYjjUcMFgWIsQqRgY"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "Lo Pasado, Pasado",
+      "url": "https://open.spotify.com/track/0loVgkJy6V4bK1RwN47eBl"
     },
     {
       "added_at": "2025-06-13 06:00:22",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-06-13 06:00:22",
       "album": {
-        "name": "Trinchera",
-        "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 220795,
-      "name": "La Izquierda de la Noche",
-      "url": "https://open.spotify.com/track/6Z1ljEyzvcjq3WcGrKXBIB"
-    },
-    {
-      "added_at": "2025-06-13 06:00:22",
-      "album": {
         "name": "Para llegar hasta aqu\u00ed",
         "url": "https://open.spotify.com/album/5NjQ9Or66LDDAg1UvBRXYV"
       },
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2025-06-13 06:00:22",
       "album": {
+        "name": "Trinchera",
+        "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 220795,
+      "name": "La Izquierda de la Noche",
+      "url": "https://open.spotify.com/track/6Z1ljEyzvcjq3WcGrKXBIB"
+    },
+    {
+      "added_at": "2025-06-13 06:00:22",
+      "album": {
         "name": "Secuaz (Noches de Sal\u00f3n)",
         "url": "https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD"
       },
@@ -1475,22 +1475,6 @@
       "duration_ms": 237324,
       "name": "Secuaz - Noches de Sal\u00f3n",
       "url": "https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR"
-    },
-    {
-      "added_at": "2025-06-13 06:00:22",
-      "album": {
-        "name": "Bier & Ska",
-        "url": "https://open.spotify.com/album/4pxMygdzZTAmzRSqmeb6sn"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 209334,
-      "name": "Bier & Ska",
-      "url": "https://open.spotify.com/track/5NWX0nMD2FjeQW06RRuj4h"
     },
     {
       "added_at": "2025-06-13 06:00:22",
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2025-06-13 06:00:22",
       "album": {
-        "name": "S\u00e3o Paulo Motoboy",
-        "url": "https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP"
+        "name": "Bier & Ska",
+        "url": "https://open.spotify.com/album/4pxMygdzZTAmzRSqmeb6sn"
       },
       "artists": [
         {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 148600,
-      "name": "S\u00e3o Paulo Motoboy",
-      "url": "https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf"
+      "duration_ms": 209334,
+      "name": "Bier & Ska",
+      "url": "https://open.spotify.com/track/5NWX0nMD2FjeQW06RRuj4h"
     },
     {
       "added_at": "2025-06-13 06:00:22",
@@ -1543,6 +1527,22 @@
       "duration_ms": 267258,
       "name": "Serpiente",
       "url": "https://open.spotify.com/track/663UMoGtYJxHXbfDhhojL7"
+    },
+    {
+      "added_at": "2025-06-13 06:00:22",
+      "album": {
+        "name": "S\u00e3o Paulo Motoboy",
+        "url": "https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 148600,
+      "name": "S\u00e3o Paulo Motoboy",
+      "url": "https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf"
     },
     {
       "added_at": "2025-06-13 06:00:22",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2025-06-13 06:00:22",
       "album": {
-        "name": "Contra Todo Pron\u00f3stico",
-        "url": "https://open.spotify.com/album/2asORa7yF9FCpjL1DRbPf4"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
-        }
-      ],
-      "duration_ms": 252006,
-      "name": "Contra Todo Pron\u00f3stico",
-      "url": "https://open.spotify.com/track/2jcBXpWt5lD1qsZZGZjMPO"
-    },
-    {
-      "added_at": "2025-06-13 06:00:22",
-      "album": {
         "name": "No Puede Parar De So\u00f1ar",
         "url": "https://open.spotify.com/album/5BmtSXjM8FVLNGVWGz63z8"
       },
@@ -1691,22 +1675,34 @@
     {
       "added_at": "2025-06-13 06:00:22",
       "album": {
-        "name": "La Kaguama",
-        "url": "https://open.spotify.com/album/2PszQA8qrNBYI1zt5MLzxV"
+        "name": "Contra Todo Pron\u00f3stico",
+        "url": "https://open.spotify.com/album/2asORa7yF9FCpjL1DRbPf4"
       },
       "artists": [
         {
-          "name": "Kchiporros",
-          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
-        },
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
         }
       ],
-      "duration_ms": 193170,
-      "name": "La Kaguama",
-      "url": "https://open.spotify.com/track/0dWskEqRk0CZH0hHsQXHBs"
+      "duration_ms": 252006,
+      "name": "Contra Todo Pron\u00f3stico",
+      "url": "https://open.spotify.com/track/2jcBXpWt5lD1qsZZGZjMPO"
+    },
+    {
+      "added_at": "2025-06-13 06:00:22",
+      "album": {
+        "name": "!!Puro Macanazo!!",
+        "url": "https://open.spotify.com/album/7prNWKOtBQ7Bd7yc5mKjVQ"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 271733,
+      "name": "El Recuento de los Da\u00f1os",
+      "url": "https://open.spotify.com/track/44agmNQypTCFKc2dpVonDy"
     }
   ],
   "unique_name": "La + Chingona",

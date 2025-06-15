@@ -4,7 +4,7 @@
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-125 songs - 9 hr 6 min
+126 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Hello Sunshine](https://open.spotify.com/track/5bpaHLJ08GNBKW35ZfCYJy) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Western Stars](https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte) | 3:54 | 2022-01-11 |  |
 | [History Books \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/0ORiGVGhQ3Mvb3F18DONlV) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [History Books](https://open.spotify.com/album/1GxcyEReAOxieTKZZcivlJ) | 3:53 | 2023-11-10 | 2024-07-02 |
 | [History Books \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/621bFmNYKldPwZQExIK3VU) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [History Books \(feat\. Bruce Springsteen\)](https://open.spotify.com/album/4WsKcrfETIMvKNJPnsl5KX) | 3:53 | 2023-07-23 | 2023-11-11 |
-| [House Of A Thousand Guitars](https://open.spotify.com/track/1SlatjHQbN3SO0JERD4Mwk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 4:30 | 2022-01-11 |  |
+| [House Of A Thousand Guitars](https://open.spotify.com/track/1SlatjHQbN3SO0JERD4Mwk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 4:30 | 2022-01-11 | 2025-06-15 |
 | [Human Touch](https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Human Touch](https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF) | 6:28 | 2022-01-11 |  |
 | [Hungry Heart](https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 3:19 | 2022-01-11 |  |
 | [I Wish I Were Blind \- Live at Van Andel Arena, Grand Rapids, MI \- 8/3/2005](https://open.spotify.com/track/6Y0e8tZkyR5dDxwpDMaPxf) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Live Series: Songs on Keys](https://open.spotify.com/album/6pqzdpIh3iUrsuYLehcDq3) | 3:55 | 2023-12-16 | 2023-12-27 |
@@ -105,6 +105,7 @@
 | [Soul Days \(feat\. Sam Moore\)](https://open.spotify.com/track/3a1AyWAQKRSClHI29mqemI) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT), [Sam Moore](https://open.spotify.com/artist/6B0FKbw7fqaxboRuNHi9r3) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 3:58 | 2022-11-13 | 2023-07-16 |
 | [Spirit in the Night](https://open.spotify.com/track/2D9YnxyNwj7qqA1JLyKYPR) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greetings from Asbury Park, N.J.](https://open.spotify.com/album/4hQ5RfHzq1SGJNfZWrpg7C) | 4:58 | 2024-07-11 | 2024-09-27 |
 | [Streets of Philadelphia \- Single Edit](https://open.spotify.com/track/3fbnbn6A5O5RNb08tlUEgd) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greatest Hits](https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG) | 3:15 | 2022-01-11 |  |
+| [Sunday Love](https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Sunday Love](https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD) | 5:16 | 2025-06-15 |  |
 | [Tenth Avenue Freeze\-Out](https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 3:10 | 2022-01-11 |  |
 | [Tenth Avenue Freeze\-Out \- Live at The Shrine, Los Angeles, CA \- 11/16/1990\- Set 2](https://open.spotify.com/track/4iMxpkGdGo2sRqYDgOUVHr) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Live Series: Songs on Keys](https://open.spotify.com/album/6pqzdpIh3iUrsuYLehcDq3) | 3:33 | 2023-12-13 | 2023-12-31 |
 | [The Ghost of Tom Joad](https://open.spotify.com/track/4RaxnzmTN4bojbbEYtvXjk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Ghost Of Tom Joad](https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl) | 4:23 | 2022-01-12 |  |

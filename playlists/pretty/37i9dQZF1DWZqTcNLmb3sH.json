@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Ekka",
-  "num_followers": 63078,
+  "num_followers": 63088,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEv9bwAAAAB283CpN/6gsAIrA3r7QaiX",
+  "snapshot_id": "aE0+GQAAAAB7HYnjJU44uWY3qvwGlcCY",
   "tracks": [
     {
       "added_at": "2025-06-09 12:18:40",
@@ -81,6 +81,30 @@
       "url": "https://open.spotify.com/track/3S0CufP3vElB2hz9hZ1CUB"
     },
     {
+      "added_at": "2025-06-14 09:14:54",
+      "album": {
+        "name": "Pippi Pippi Dum Dum Dum (From \"Kuberaa\")(Kannada)",
+        "url": "https://open.spotify.com/album/32i2WFyEZHWeLgmGdtaiNj"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Indravathi Chauhan",
+          "url": "https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM"
+        },
+        {
+          "name": "Chaitanya Pingali",
+          "url": "https://open.spotify.com/artist/6lG083fvhp7ForDDXyFj9E"
+        }
+      ],
+      "duration_ms": 208770,
+      "name": "Pippi Pippi Dum Dum Dum (From \"Kuberaa\")(Kannada)",
+      "url": "https://open.spotify.com/track/4v4FIF9w6wLqeAnzMdbQdV"
+    },
+    {
       "added_at": "2025-06-13 10:29:03",
       "album": {
         "name": "Agnyathavasi",
@@ -103,6 +127,26 @@
       "duration_ms": 190500,
       "name": "Naguvina Nesara",
       "url": "https://open.spotify.com/track/0hN5MIS7lkGJl7zeBCnjPh"
+    },
+    {
+      "added_at": "2025-06-14 09:17:13",
+      "album": {
+        "name": "Saniha (From\"Ee Saniha\")",
+        "url": "https://open.spotify.com/album/6TkA9eSuebMw2Zb1ydftv4"
+      },
+      "artists": [
+        {
+          "name": "GAGAN SHETTY",
+          "url": "https://open.spotify.com/artist/0n1SzKxWGbShoE1g2V8ivD"
+        },
+        {
+          "name": "Mahatejas",
+          "url": "https://open.spotify.com/artist/3GJtY38GINnUc5nJXPG59C"
+        }
+      ],
+      "duration_ms": 292768,
+      "name": "Saniha (From\"Ee Saniha\")",
+      "url": "https://open.spotify.com/track/4MPzgzMdkUCu0nWeDA7CkR"
     },
     {
       "added_at": "2025-04-22 09:29:03",
@@ -1077,30 +1121,6 @@
       "url": "https://open.spotify.com/track/7wtS54HSLufFmLhqLrnxTV"
     },
     {
-      "added_at": "2025-04-07 09:03:54",
-      "album": {
-        "name": "Azrael (From \"L2: Empuraan\") [Kannada Version]",
-        "url": "https://open.spotify.com/album/2HbyZzRw9xSmOPQyqn6u2J"
-      },
-      "artists": [
-        {
-          "name": "Deepak Dev",
-          "url": "https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3"
-        },
-        {
-          "name": "Usha Uthup",
-          "url": "https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa"
-        },
-        {
-          "name": "Hridaya Shiva",
-          "url": "https://open.spotify.com/artist/2XngmlAuc1ZpoMLCKU4Zjn"
-        }
-      ],
-      "duration_ms": 292413,
-      "name": "Azrael (From \"L2: Empuraan\") - Kannada Version",
-      "url": "https://open.spotify.com/track/7EGGUKt2NQXjhQvF1rkF7L"
-    },
-    {
       "added_at": "2025-04-07 09:06:19",
       "album": {
         "name": "Oh Thaare (From \"The Girlfriend\")",
@@ -1231,26 +1251,6 @@
       "duration_ms": 278042,
       "name": "Ee Life Alli (From \"Sankranthiki Vasthunam\")",
       "url": "https://open.spotify.com/track/2rAsboCFuO89gs7V9NRoUR"
-    },
-    {
-      "added_at": "2025-04-01 06:15:32",
-      "album": {
-        "name": "Mahayogi",
-        "url": "https://open.spotify.com/album/0ZfKjHqO0Ghdx8ILOhz5SC"
-      },
-      "artists": [
-        {
-          "name": "Vyshak",
-          "url": "https://open.spotify.com/artist/08ngTuL8lPF8S5t7HuV0fZ"
-        },
-        {
-          "name": "Chaithra Bhat",
-          "url": "https://open.spotify.com/artist/4qnPHnbFxeiFTMNPRREI3R"
-        }
-      ],
-      "duration_ms": 207999,
-      "name": "Mahayogi",
-      "url": "https://open.spotify.com/track/2aJm08knXnFnsfCthLFUhv"
     }
   ],
   "unique_name": "Latest Kannada",

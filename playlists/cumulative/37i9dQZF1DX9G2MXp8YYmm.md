@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Betül Demir
 
-281 songs - 14 hr 9 min
+282 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Kara Gözünün Hasretinden](https://open.spotify.com/track/3w180TEfTfsAKgA7oIPY0E) | [Nilüfer](https://open.spotify.com/artist/3iVIrcJmrV7GawrxVWsBUF) | [Kara Gözünün Hasretinden](https://open.spotify.com/album/47rcubW0w1EQLGy9bNEsE2) | 3:54 | 2024-06-27 | 2024-07-05 |
 | [Karalım](https://open.spotify.com/track/35VOiGpgQgPv2EJJYZaZ8H) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Karalım](https://open.spotify.com/album/6Dz4jZGoLAlUuSbVIqPAoe) | 3:26 | 2025-03-27 |  |
 | [Karıştırıcam O Uykularını](https://open.spotify.com/track/7uUtowgQK3CVBN4BFvWRJp) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Karıştırıcam O Uykularını](https://open.spotify.com/album/7mXPzLgQeTzUsw4c7RySNy) | 3:07 | 2024-06-27 | 2024-12-18 |
-| [Katilime Aşıktım](https://open.spotify.com/track/1Okel22j5wxQ08BJtdIXGm) | [Mehmet Elmas](https://open.spotify.com/artist/10BA29Asr9YbvkcBFJixDb) | [Katilime Aşıktım](https://open.spotify.com/album/3o1EIMxZ3Xaec4AqFRnadQ) | 2:15 | 2025-04-03 |  |
+| [Katilime Aşıktım](https://open.spotify.com/track/1Okel22j5wxQ08BJtdIXGm) | [Mehmet Elmas](https://open.spotify.com/artist/10BA29Asr9YbvkcBFJixDb) | [Katilime Aşıktım](https://open.spotify.com/album/3o1EIMxZ3Xaec4AqFRnadQ) | 2:15 | 2025-04-03 | 2025-06-15 |
 | [Kayboldum Masalında](https://open.spotify.com/track/1BpEKaFPwQY2KtoDQawpt2) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Kayboldum Masalında](https://open.spotify.com/album/7M2QsyKsuRE2We8pTa2oEc) | 4:15 | 2025-05-29 |  |
 | [Kaçak Göçek](https://open.spotify.com/track/4y0kg2hqDbEG04NevUqNPF) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Kaçak Göçek](https://open.spotify.com/album/5ckK7xIaAG6ZYxxdS6Emi5) | 3:43 | 2024-09-05 | 2025-05-13 |
 | [Kehribar](https://open.spotify.com/track/3wtOAcctakLBwmzbCkRSHR) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN) | [Kehribar](https://open.spotify.com/album/2vJqCgVaPM5YpMlp9laiEX) | 2:48 | 2024-06-27 |  |
@@ -173,6 +173,7 @@
 | [Kül Kedisi](https://open.spotify.com/track/7pL0k2S0xtCeIK8frnpogr) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6) | [Kül Kedisi](https://open.spotify.com/album/4K9UrtRb8BGdTHrXDZAxgk) | 3:03 | 2024-11-07 | 2025-02-21 |
 | [Küçük Şeyler](https://open.spotify.com/track/1YYCphYLs0EJVTKF2gWHGI) | [Hakan Kılınç](https://open.spotify.com/artist/5iq9EHglioaz4pVoNTZBey) | [Küçük Şeyler](https://open.spotify.com/album/5W3J11XI0SPnsc4ir0Zpuj) | 2:47 | 2024-09-05 | 2024-09-13 |
 | [Kızılca Şerbet](https://open.spotify.com/track/0aIrUkvAvcy36CtV5pXEme) | [Seda Sayan](https://open.spotify.com/artist/5hKNaXEXIxQ3dmZR7FoRr8), [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Kızılca Şerbet](https://open.spotify.com/album/746RjfRw4bAjdrGLcOQdys) | 3:00 | 2025-05-27 |  |
+| [Kış Kış](https://open.spotify.com/track/7dPt6dEmIr788BonzTIVJt) | [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Kış Kış](https://open.spotify.com/album/4FA7EWO0U9xGxBfvlbeeGg) | 3:13 | 2025-06-05 |  |
 | [Lakin](https://open.spotify.com/track/7AjPgrmEzCBVkQWUiOncM3) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Lakin](https://open.spotify.com/album/7u52LKZ2sJ0LnYxMol4Sxi) | 2:41 | 2024-06-27 | 2025-06-12 |
 | [Lan](https://open.spotify.com/track/1whKKdtCiFjN7MW7DrIRUH) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Lan](https://open.spotify.com/album/1LvnmkkATPS4wBrEPMec26) | 3:16 | 2024-06-27 | 2024-09-06 |
 | [Lovelandım](https://open.spotify.com/track/6g8g1XosNa18N4CqhfQcbw) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Halim](https://open.spotify.com/album/6tx8KRugMjbWQc7AlcKMXU) | 2:41 | 2025-05-15 |  |

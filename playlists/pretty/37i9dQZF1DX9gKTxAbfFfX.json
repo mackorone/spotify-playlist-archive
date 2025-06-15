@@ -1,6 +1,6 @@
 {
   "description": "Tu banda sonora de este verano. Foto: Bad Bunny",
-  "num_followers": 746402,
+  "num_followers": 746509,
   "original_name": "Verano 2025",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-06-09 18:47:44",
       "album": {
+        "name": "Korazong",
+        "url": "https://open.spotify.com/album/1HVqPBOI5b3OTpbEqxvDUM"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 174048,
+      "name": "Korazong",
+      "url": "https://open.spotify.com/track/43J20QsNeYhG23RcLHIGIn"
+    },
+    {
+      "added_at": "2025-06-09 18:47:44",
+      "album": {
         "name": "KLK",
         "url": "https://open.spotify.com/album/4imN7ZQVUp0Q5sZyV7mK23"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 199240,
       "name": "KLK",
       "url": "https://open.spotify.com/track/3MJsu3EPgf2EFmzn4pVZYp"
-    },
-    {
-      "added_at": "2025-06-09 18:47:44",
-      "album": {
-        "name": "Korazong",
-        "url": "https://open.spotify.com/album/1HVqPBOI5b3OTpbEqxvDUM"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 174048,
-      "name": "Korazong",
-      "url": "https://open.spotify.com/track/43J20QsNeYhG23RcLHIGIn"
     },
     {
       "added_at": "2025-06-09 18:47:44",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-06-09 18:47:44",
       "album": {
-        "name": "a nuevos lugares",
-        "url": "https://open.spotify.com/album/62eRw5rCI0KwWWCiEX4tq4"
-      },
-      "artists": [
-        {
-          "name": "Hey Kid",
-          "url": "https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF"
-        }
-      ],
-      "duration_ms": 161875,
-      "name": "noche de san juan",
-      "url": "https://open.spotify.com/track/0OXUqgdMVTNGgV0LJ8irvP"
-    },
-    {
-      "added_at": "2025-06-09 18:47:44",
-      "album": {
         "name": "Sirenita",
         "url": "https://open.spotify.com/album/368kxIiTLbrhAzdIq48WnJ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 169478,
       "name": "Sirenita",
       "url": "https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx"
+    },
+    {
+      "added_at": "2025-06-09 18:47:44",
+      "album": {
+        "name": "a nuevos lugares",
+        "url": "https://open.spotify.com/album/62eRw5rCI0KwWWCiEX4tq4"
+      },
+      "artists": [
+        {
+          "name": "Hey Kid",
+          "url": "https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF"
+        }
+      ],
+      "duration_ms": 161875,
+      "name": "noche de san juan",
+      "url": "https://open.spotify.com/track/0OXUqgdMVTNGgV0LJ8irvP"
     },
     {
       "added_at": "2025-06-09 18:47:44",

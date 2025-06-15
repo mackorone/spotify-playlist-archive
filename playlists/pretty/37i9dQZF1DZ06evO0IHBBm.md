@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 
 > This is Damares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,917 likes - 49 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,919 likes - 49 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 | 11 | [Apocalipse](https://open.spotify.com/track/58t8JPi9ITJU6w0uZBAjlV) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Apocalipse](https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI) | 6:42 |
 | 12 | [Sacrifício e Adoração](https://open.spotify.com/track/0oAksCragvUN6QRcAIMic9) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Diamante \(2010\)](https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R) | 5:45 |
 | 13 | [Tudo Isso Vai Passar \- Ao Vivo](https://open.spotify.com/track/5VW9A5WyBDcWcGIpggzuA6) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [A Igreja Canta \(Ao Vivo\)](https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq) | 4:38 |
-| 14 | [Sou Eu](https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 5:12 |
-| 15 | [Pode Ser Hoje](https://open.spotify.com/track/7LtVvoZ0XPO6KS2w3iFBEY) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 5:40 |
+| 14 | [Pode Ser Hoje](https://open.spotify.com/track/7LtVvoZ0XPO6KS2w3iFBEY) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 5:40 |
+| 15 | [Sou Eu](https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 5:12 |
 | 16 | [Quem Viver Verá](https://open.spotify.com/track/1V12zsH9LzszGEwxcPUhWo) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Diamante \(2010\)](https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R) | 4:44 |
 | 17 | [Eu Quero Ver o Seu Milagre](https://open.spotify.com/track/5nEqDoo9cdpDwmrdsJGC6i) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Superação](https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg) | 4:33 |
 | 18 | [A Tenda \(Ao Vivo\)](https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [A Tenda \(Ao Vivo\)](https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9) | 7:50 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 | 44 | [Obra Prima](https://open.spotify.com/track/3928bnwtme1mZo7NV0kYpf) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Obra Prima](https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5) | 5:34 |
 | 45 | [Pai, Preciso de Ti](https://open.spotify.com/track/324t5ZkCfdhBxP2t6708pD) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Superação](https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg) | 5:33 |
 | 46 | [Terceiro Céu](https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 6:28 |
-| 47 | [Página Virada \- Ao Vivo](https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Página Virada \(Ao Vivo\)](https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD) | 7:03 |
-| 48 | [Não pare \(Participação especial de Damares\)](https://open.spotify.com/track/1vZgOwVMWo33msljJa4h5t) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Cadê o vencedor?](https://open.spotify.com/album/07yxyLlox691nqPNZDyvNq) | 3:42 |
-| 49 | [Davi ou Mical](https://open.spotify.com/track/12NuD5khzig4zV0QGXxTtR) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Mega Hits \- Damares](https://open.spotify.com/album/4f79ee5SBaI30R1oyl6P9J) | 4:39 |
+| 47 | [Não pare \(Participação especial de Damares\)](https://open.spotify.com/track/1vZgOwVMWo33msljJa4h5t) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Cadê o vencedor?](https://open.spotify.com/album/07yxyLlox691nqPNZDyvNq) | 3:42 |
+| 48 | [Davi ou Mical](https://open.spotify.com/track/12NuD5khzig4zV0QGXxTtR) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Mega Hits \- Damares](https://open.spotify.com/album/4f79ee5SBaI30R1oyl6P9J) | 4:39 |
+| 49 | [Página Virada \- Ao Vivo](https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Página Virada \(Ao Vivo\)](https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD) | 7:03 |
 
-Snapshot ID: `aEoYgAAAAAChSOAtzXJLbj3DX82Lk4sb`
+Snapshot ID: `aEtqAAAAAADgblcqXvq6iKn8dFjQhEns`

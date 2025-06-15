@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 264217,
+  "num_followers": 264231,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAADUaOTXt6+zvL00T18Q+TGe",
+  "snapshot_id": "aEtqAAAAAADs6BwJnykN9U03FD2OPAGy",
   "tracks": [
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Experiment Extended",
+        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/30RZAuEkYeDXvy46Iv6l7E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boca Chueca, Vol. 1",
         "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 176800,
       "name": "The one (Pero no como yo)",
       "url": "https://open.spotify.com/track/03J82tGipvxwFZ14smkuVj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Experiment Extended",
-        "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Homesick",
-      "url": "https://open.spotify.com/track/30RZAuEkYeDXvy46Iv6l7E"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Mississippi",
-        "url": "https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 213718,
-      "name": "One Mississippi",
-      "url": "https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Experiment Extended",
         "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 192053,
       "name": "Good as You",
       "url": "https://open.spotify.com/track/19kUPdKTp85q9RZNwaXM15"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Mississippi",
+        "url": "https://open.spotify.com/album/3VCaKLIlIDrfKvurZcTmBl"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 213718,
+      "name": "One Mississippi",
+      "url": "https://open.spotify.com/track/4FdPnT2cFrpWCmWZd7GXc3"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different Man",
-        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Grand",
-      "url": "https://open.spotify.com/track/36ckQ6GqvcqeYeiWBnl6uz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Experiment Extended",
         "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 178986,
       "name": "Lose It",
       "url": "https://open.spotify.com/track/7epGknfpAlH1u33S71Ur1o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Grand",
+      "url": "https://open.spotify.com/track/36ckQ6GqvcqeYeiWBnl6uz"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kane Brown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 216240,
-      "name": "What's Mine Is Yours",
-      "url": "https://open.spotify.com/track/1cG3sQOVItzKsvHzkCzuke"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Experiment Extended",
         "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
       },
@@ -495,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "2 Pair",
+        "url": "https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 151534,
+      "name": "2 Pair",
+      "url": "https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The High Road",
         "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 172933,
       "name": "Fiddle in the Band",
       "url": "https://open.spotify.com/track/58dlqpb4p2Bvd8EmfHX9oO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kane Brown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 216240,
+      "name": "What's Mine Is Yours",
+      "url": "https://open.spotify.com/track/1cG3sQOVItzKsvHzkCzuke"
     },
     {
       "added_at": null,
@@ -547,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The High Road",
+        "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 249240,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/5OYu7glZ8Ks8N1fPEmrtOX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SCOOB! The Album",
         "url": "https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG"
       },
@@ -567,22 +599,6 @@
       "duration_ms": 164683,
       "name": "On Me (feat. Ava Max)",
       "url": "https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The High Road",
-        "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 249240,
-      "name": "I Am",
-      "url": "https://open.spotify.com/track/5OYu7glZ8Ks8N1fPEmrtOX"
     },
     {
       "added_at": null,
@@ -791,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kane Brown",
+        "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 164920,
+      "name": "Thunder in the Rain",
+      "url": "https://open.spotify.com/track/1A8s182NfOT6dOXjPsWfTn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nothing Compares To You (Feat. Kane Brown)",
         "url": "https://open.spotify.com/album/0BYlX788W98lKLXQ4RqKKG"
       },
@@ -807,22 +839,6 @@
       "duration_ms": 207800,
       "name": "Nothing Compares To You (Feat. Kane Brown)",
       "url": "https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kane Brown",
-        "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Thunder in the Rain",
-      "url": "https://open.spotify.com/track/1A8s182NfOT6dOXjPsWfTn"
     },
     {
       "added_at": null,
@@ -859,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whiskey Sour",
-        "url": "https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 209740,
-      "name": "Whiskey Sour",
-      "url": "https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kane Brown",
         "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
       },
@@ -887,6 +887,22 @@
       "duration_ms": 204066,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/2NqHZYzBWUHbbpDDgdGWJL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whiskey Sour",
+        "url": "https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 209740,
+      "name": "Whiskey Sour",
+      "url": "https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL"
     },
     {
       "added_at": null,
@@ -907,22 +923,6 @@
       "duration_ms": 225539,
       "name": "Never Be the Same (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Different Man",
-        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 214893,
-      "name": "Leave You Alone",
-      "url": "https://open.spotify.com/track/3J5UxKE5206of6TwawC4M8"
     }
   ],
   "unique_name": "This Is Kane Brown",

@@ -4,7 +4,7 @@
 
 > This is Gunna\. The essential tracks, all in one playlist.
 
-94 songs - 4 hr 37 min
+95 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [go crazy](https://open.spotify.com/track/6YD8EpsddOfEwAhaymGu0Q) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:53 | 2023-11-10 |  |
 | [GOT DAMN](https://open.spotify.com/track/21hxBpoPMPyZAfpby6uPK9) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/4FqRmhztQw60a8VYaHoA3r) | 2:36 | 2024-12-23 | 2025-01-19 |
 | [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 | 2024-12-22 |  |
-| [Gulfstream](https://open.spotify.com/track/18DHBHZtbMZO7Jw9EHUQat) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Diamant Noir](https://open.spotify.com/album/7LNFnwCFOuBNmlLwywpT3q) | 3:28 | 2025-04-15 |  |
+| [Gulfstream](https://open.spotify.com/track/18DHBHZtbMZO7Jw9EHUQat) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Diamant Noir](https://open.spotify.com/album/7LNFnwCFOuBNmlLwywpT3q) | 3:28 | 2025-04-15 | 2025-06-15 |
 | [hakuna matata](https://open.spotify.com/track/32TTewBmtmhUmYxS1ajqaJ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:07 | 2024-05-12 |  |
 | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf) | 2:54 | 2023-12-13 |  |
 | [Heat \(feat\. Gunna\)](https://open.spotify.com/track/1GIYmwtBbPSHrqcSaukZck) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 3:52 | 2023-11-10 |  |
@@ -101,6 +101,7 @@
 | [whatsapp \(wassam\)](https://open.spotify.com/track/4dBoAE3FBnVQa9zBqWLMjQ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [whatsapp \(wassam\)](https://open.spotify.com/album/3vHYdHlVHytSPLknBhdQuJ) | 2:28 | 2024-05-05 | 2024-05-19 |
 | [whatsapp \(wassam\)](https://open.spotify.com/track/6LAicOLiCrHw0bmaLBDbC8) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:28 | 2024-05-20 | 2024-07-22 |
 | [Who You Foolin](https://open.spotify.com/track/7KVPsVMOK3NL7subwJ0dZj) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip or Drown 2](https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj) | 2:31 | 2023-11-10 |  |
+| [Won't Stop](https://open.spotify.com/track/4ugKUZExbqbkKXEmbTrTRW) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Won't Stop](https://open.spotify.com/album/1TRulQDa3GYTurukQ91HGB) | 3:01 | 2025-06-15 |  |
 | [WUNNA](https://open.spotify.com/track/0y7Ao3CVJsyKFmqdjutiIF) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 2:38 | 2023-11-10 |  |
 
 \*This playlist was first scraped on 2023-11-11. Prior content cannot be recovered.

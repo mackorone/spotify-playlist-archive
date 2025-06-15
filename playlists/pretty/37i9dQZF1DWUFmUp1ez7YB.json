@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de la salsa de ayer y hoy en un s\u00f3lo lugar. ",
-  "num_followers": 869356,
+  "num_followers": 869769,
   "original_name": "Dame Salsa",
   "owner": {
     "name": "Spotify",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
+        "name": "Salsa",
+        "url": "https://open.spotify.com/album/5Q5kjxNsrkZ2ImkRUi7w3c"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Harlow",
+          "url": "https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W"
+        }
+      ],
+      "duration_ms": 314960,
+      "name": "El Paso De Encarnaci\u00f3n",
+      "url": "https://open.spotify.com/track/0BGDijO05WJ1kpqVLwUU5d"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
         "name": "Enam\u00f3rate Bailando",
         "url": "https://open.spotify.com/album/2uZqdPaPuXHLngIvPGprkV"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 267332,
       "name": "Enam\u00f3rate Bailando",
       "url": "https://open.spotify.com/track/02zyl88XvRAQdwbzLQui8y"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
-        "name": "Salsa",
-        "url": "https://open.spotify.com/album/5Q5kjxNsrkZ2ImkRUi7w3c"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Harlow",
-          "url": "https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W"
-        }
-      ],
-      "duration_ms": 314960,
-      "name": "El Paso De Encarnaci\u00f3n",
-      "url": "https://open.spotify.com/track/0BGDijO05WJ1kpqVLwUU5d"
     },
     {
       "added_at": "2024-06-21 20:58:37",

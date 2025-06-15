@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von RAYE und Mark Ronson, Apache 207, Lune und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 867,782 likes - 73 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 867,823 likes - 73 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 15 | [Wherever You Are](https://open.spotify.com/track/3BCFoto6dd5e5001q5YhqJ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Wherever You Are](https://open.spotify.com/album/1HgEAeacUjkt2NlLgOiSm9) | 4:10 |
 | 16 | [Different Kind Of Love](https://open.spotify.com/track/24OSstaojKavFMAad7CHBb) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Different Kind Of Love](https://open.spotify.com/album/3lGbBlPUeNyxU52Nm5gpdz) | 2:52 |
 | 17 | [forever](https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:48 |
-| 18 | [HIGHLIFE](https://open.spotify.com/track/0LpQ7hO3YcTeArumOhz3WH) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [HIGHLIFE](https://open.spotify.com/album/4A9h68y8sVTAQ3FQOIsxv6) | 2:08 |
+| 18 | [Highlife](https://open.spotify.com/track/0LpQ7hO3YcTeArumOhz3WH) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Highlife](https://open.spotify.com/album/4A9h68y8sVTAQ3FQOIsxv6) | 2:08 |
 | 19 | [The Promise](https://open.spotify.com/track/1kybBeFkZLhwkEDipwQWVL) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [The Promise](https://open.spotify.com/album/1vuq0WLHEMPZ1xRcMWJkiM) | 2:58 |
 | 20 | [Let Me Take You](https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Let Me Take You](https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ) | 3:09 |
 | 21 | [Get Lucky](https://open.spotify.com/track/7Lz4OQS5Pl2EhqxjeoWNk8) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Get Lucky](https://open.spotify.com/album/5JAbxTAXfq6GMYBJDPsrNc) | 2:14 |

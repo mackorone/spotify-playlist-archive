@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: BunnaB
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,244,307 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,244,690 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [Don Who Leo](https://open.spotify.com/track/1cyTVV6UFeoazuBGX3MXFw) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Don Who Leo](https://open.spotify.com/album/4DkigH1XDNwEBW3WHcdoEK) | 2:18 |
 | 50 | [Needa Gangsta](https://open.spotify.com/track/08CQDDOc3NifKyLa3hUSDI) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Needa Gangsta](https://open.spotify.com/album/4lSuzseuY8VL3JKc7j8ZKJ) | 3:12 |
 
-Snapshot ID: `aEuicAAAAAB8thEIPB3tb1ZpHB8sGFKC`
+Snapshot ID: `AAAAAH4s7t9O12sjancjX6rIhhOQ/VT8`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,006 likes - 186 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,015 likes - 186 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

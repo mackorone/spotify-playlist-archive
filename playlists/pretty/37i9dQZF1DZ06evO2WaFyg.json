@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 257865,
+  "num_followers": 257898,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAADmHFgYYsOZHEtXXV8fjNiz",
+  "snapshot_id": "aEtqAAAAAABrU8J5UzJI/F6bdmQyAVtr",
   "tracks": [
     {
       "added_at": null,
@@ -231,30 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
-        "url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 202794,
-      "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
-      "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHAM (Extended Version)",
         "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
       },
@@ -275,6 +251,30 @@
       "duration_ms": 227400,
       "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
       "url": "https://open.spotify.com/track/4IKvw1OdeTJIN3g4zWE38f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
+        "url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 202794,
+      "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
+      "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
     },
     {
       "added_at": null,
@@ -1075,26 +1075,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Die Lit",
-        "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "Choppa Won't Miss (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/5O9zs6G6RcB6yP1OKwnwiM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lightyears (with Young Thug)",
         "url": "https://open.spotify.com/album/5WAhisFRMfSACOZUyxuWsB"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 192130,
       "name": "Lightyears (with Young Thug)",
       "url": "https://open.spotify.com/track/6vVzKCUfA6LzEU9wH0xNUR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Die Lit",
+        "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "Choppa Won't Miss (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/5O9zs6G6RcB6yP1OKwnwiM"
     }
   ],
   "unique_name": "This Is Young Thug",

@@ -4,7 +4,7 @@
 
 > This is BK\. The essential tracks, all in one playlist.
 
-110 songs - 7 hr 9 min
+111 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Músicas de amor nunca mais](https://open.spotify.com/track/6RgXU5moRK2kNovhLQV0Yq) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:22 | 2023-09-18 |  |
 | [Nome nas ruas](https://open.spotify.com/track/4ujSlvkBI6rh0iRORsSD2Q) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:27 | 2023-09-18 | 2025-04-09 |
 | [Não Adianta Chorar](https://open.spotify.com/track/6upD8qnsJjNFj5bLwoN6aS) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Pretinho da Serrinha](https://open.spotify.com/artist/4qDFGliScFrzPiFS9caqnw), [Trio Mocoto](https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP) | [Diamantes, Lágrimas e Rostos para Esquecer](https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu) | 3:50 | 2025-01-30 |  |
+| [Não Me Abandona](https://open.spotify.com/track/1Mq3sx9w4o26tUt4ThimhY) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Skinny Beats](https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r), [MUC4](https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M) | [Eu Odeio o Dia dos Namorados](https://open.spotify.com/album/1Ij4W57fdHldgasZl7HYPu) | 3:23 | 2025-06-15 |  |
 | [Não Preciso Que Você Duvide](https://open.spotify.com/track/3Cx69RPbGwXtBYJeMwUkZc) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Cidade do Pecado](https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn) | 2:38 | 2023-09-18 | 2023-10-02 |
 | [Né Segredo](https://open.spotify.com/track/4Cjlg0MKu53vqeyLif4n44) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [IRRASTREÁVEL](https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG) | 3:02 | 2024-03-30 | 2024-11-23 |
 | [O Mundo é Nosso](https://open.spotify.com/track/2DCmiAMyZGPLiDh47Upi9Z) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Heresia](https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2) | 3:43 | 2023-09-18 |  |

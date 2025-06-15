@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Rahul Dit\-O
 
-513 songs - 1 day 4 hr 49 min
+514 songs - 1 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [ASHANA \- From Ashana](https://open.spotify.com/track/1GjvOhYzIJBr4pv7oZcfWP) | [Alva Kuuto](https://open.spotify.com/artist/2VxZ8TbLCCmfaDJGVyi5TA) | [ASHANA \(From Ashana\)](https://open.spotify.com/album/5ZTACQ9W17RnhzxsYPqO2O) | 3:19 | 2025-02-26 | 2025-04-29 |
 | [Avarisu \- SKODA Deccan Beats](https://open.spotify.com/track/3XBolYD5LpZ0ayiuRJPt1a) | [Neehar Kiran Dabade](https://open.spotify.com/artist/7HoTwBEDd1pZucJ0ntVVlQ), [Sunil Nakod](https://open.spotify.com/artist/5b6rKTAj1FD4aaerrJ8nay), [Nivas](https://open.spotify.com/artist/4xhaMczwBV4FBeTAxr6I7O) | [Avarisu \(SKODA Deccan Beats\)](https://open.spotify.com/album/1tHo4gHFxWE1ZjxCqXhhrd) | 3:42 | 2022-09-27 | 2023-06-21 |
 | [Baadal](https://open.spotify.com/track/5Qp2Ke3Khb0sEnbCHCOjfa) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Sunjuice](https://open.spotify.com/album/3PDKQGvu0U5ibKqVGIQmQq) | 4:14 | 2024-11-13 | 2025-04-02 |
-| [Baaninda Haniyu Jaari](https://open.spotify.com/track/0TtEHRXmitFsSIXVxXo48T) | [Vivek Jungly](https://open.spotify.com/artist/0jF1dL20DInnqwEEq5pfJK) | [Baaninda Haniyu Jaari](https://open.spotify.com/album/2mAiDNhQkfaGeKwPjcqJ7W) | 2:32 | 2025-01-15 |  |
+| [Baaninda Haniyu Jaari](https://open.spotify.com/track/0TtEHRXmitFsSIXVxXo48T) | [Vivek Jungly](https://open.spotify.com/artist/0jF1dL20DInnqwEEq5pfJK) | [Baaninda Haniyu Jaari](https://open.spotify.com/album/2mAiDNhQkfaGeKwPjcqJ7W) | 2:32 | 2025-01-15 | 2025-06-15 |
 | [Baare Banake](https://open.spotify.com/track/77YIyUafNBzKHEY8Mn5OAT) | [Sunitha Ananthaswamy](https://open.spotify.com/artist/08gkxhUNRG3oLI20fDL0ON), [Kalashree Dr.Jayashree Aravind](https://open.spotify.com/artist/597E5ncWmDZhEkPzePD5tJ), [Anitha Ananthaswamy](https://open.spotify.com/artist/45DEqOuTvLi5bEXHFwTyEv) | [Baare Banake](https://open.spotify.com/album/1PcxPwTbGTjdaBPcsfEYNJ) | 7:18 | 2023-07-25 | 2024-02-01 |
 | [Baby 500](https://open.spotify.com/track/0J6TGK3rC6VXRBefGo6OuD) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Baby 500](https://open.spotify.com/album/1eDjrpKdv75XHcLGG7zqwx) | 1:03 | 2024-04-01 | 2024-08-28 |
 | [Baby Girl](https://open.spotify.com/track/0opL1zxD6848uM3p2FTE3r) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Gagan SD](https://open.spotify.com/artist/56G6hPOGCql9tJB6DnuwuP) | [Baby Girl](https://open.spotify.com/album/0VXE7EcubunGAzkMQVTAQy) | 3:17 | 2023-03-13 | 2023-06-13 |
@@ -337,6 +337,7 @@
 | [Nannusire](https://open.spotify.com/track/6ASWvRVb8O7hSV26VGbech) | [Subhash Aras](https://open.spotify.com/artist/6jYzo3r1YFrtigzHUqwXQZ), [Sharath](https://open.spotify.com/artist/6ZEokyhrLMceIJsQnmAYup) | [Nannusire](https://open.spotify.com/album/5qLcmfn6W54grQN9mSHOWT) | 3:56 | 2023-01-04 | 2023-07-04 |
 | [Nanomme Ninnodane](https://open.spotify.com/track/1nXe2tZgYkFYAQiwYrc605) | [Vishwas Javali](https://open.spotify.com/artist/7GvOdsn4GlpJVT993RveVN), [Sakshi Hiremath](https://open.spotify.com/artist/2sKHLb9k9XLMegvuRA1AIU) | [Nanomme Ninnodane](https://open.spotify.com/album/62ytPu2CdgYgwBcXFpqdDW) | 4:09 | 2024-01-30 | 2024-07-06 |
 | [Nav Irodh Hinge](https://open.spotify.com/track/1DDxP3kzCvAAJpOPkdvjv5) | [Chirayu](https://open.spotify.com/artist/6ATwCoaGJH1ah0xWbhpaBZ), [dixit](https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy), [Jack Michael](https://open.spotify.com/artist/7eRsFT88i7QL8HAW10raWF) | [Nav Irodh Hinge](https://open.spotify.com/album/7jHQnws1IKppTlbm4INuPj) | 3:02 | 2023-07-14 | 2023-09-01 |
+| [Nee Hode Nannanu Maretu](https://open.spotify.com/track/6rL9rjk6Har0WkNdX0d3kO) | [Nb Melodies](https://open.spotify.com/artist/1lrbraKPelg1hJs2WFy8IC), [Sadwini Koppa](https://open.spotify.com/artist/2U4OMgHh4QWreQsizx9Jdn), [Sabik puttur](https://open.spotify.com/artist/7ENmeMjGxTxoXMrM4JTyrc) | [Nee Hode Nannanu Maretu](https://open.spotify.com/album/1lhyQi1KsyaBIgu5uBgCJD) | 3:39 | 2025-06-14 |  |
 | [Nee Horata Dariyali](https://open.spotify.com/track/2Iny0VWuD83vBXq1N2SwpL) | [Roystan Dias](https://open.spotify.com/artist/1QriZyzUpLMpTdKpte6o5p) | [Nee Horata Dariyali](https://open.spotify.com/album/3iH8D522P3IGa6TQuSnQ8C) | 4:44 | 2024-04-04 | 2024-09-14 |
 | [Nee Nanna Jeeva](https://open.spotify.com/track/4n4xk4fMDCz0Vam3261app) | [Naveen Hiremath](https://open.spotify.com/artist/000WyXOWRZlAYSCHOl6vbw) | [Nee Nanna Jeeva](https://open.spotify.com/album/4qVOsEyOFZZ281rQj3vkGU) | 4:38 | 2023-04-17 | 2023-09-01 |
 | [Nee Nanna Kavithe](https://open.spotify.com/track/17Hl95mz7AWI9lFOLtbAEX) | [Kiran Manjunath](https://open.spotify.com/artist/0aeYsI55Nh78rT5xnI5Pxz), [Shreesh Gombi](https://open.spotify.com/artist/4hhkVfPFH7QhsFj1PpMypP) | [Nee Nanna Kavithe](https://open.spotify.com/album/4RNO4wCdd74AfUGVZqBKov) | 3:30 | 2023-11-06 | 2024-04-19 |

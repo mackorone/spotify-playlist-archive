@@ -1,6 +1,6 @@
 {
   "description": "\u2600\ufe0fO teu ver\u00e3o alternativo chegou\u2600\ufe0f. Foto: Capital da Bulg\u00e1ria",
-  "num_followers": 35226,
+  "num_followers": 35225,
   "original_name": "Ver\u00e3o Indie",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-06-05 23:00:09",
       "album": {
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+    },
+    {
+      "added_at": "2025-06-05 23:00:09",
+      "album": {
         "name": "Bluebird",
         "url": "https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw"
       },
@@ -759,18 +775,26 @@
     {
       "added_at": "2025-06-05 23:00:09",
       "album": {
-        "name": "Black Friday",
-        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
+        "name": "The Little Mess You Made",
+        "url": "https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "The Favors",
+          "url": "https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI"
+        },
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        },
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
         }
       ],
-      "duration_ms": 221510,
-      "name": "Black Friday",
-      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+      "duration_ms": 201284,
+      "name": "The Little Mess You Made",
+      "url": "https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX"
     },
     {
       "added_at": "2025-06-05 23:00:09",
@@ -807,30 +831,6 @@
       "duration_ms": 237809,
       "name": "At The Beach, In Every Life",
       "url": "https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m"
-    },
-    {
-      "added_at": "2025-06-05 23:00:09",
-      "album": {
-        "name": "The Little Mess You Made",
-        "url": "https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH"
-      },
-      "artists": [
-        {
-          "name": "The Favors",
-          "url": "https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI"
-        },
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        },
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 201284,
-      "name": "The Little Mess You Made",
-      "url": "https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX"
     },
     {
       "added_at": "2025-06-05 23:00:09",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-06-05 23:00:09",
       "album": {
-        "name": "It's Amazing To Be Young",
-        "url": "https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 210803,
-      "name": "It's Amazing To Be Young",
-      "url": "https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf"
-    },
-    {
-      "added_at": "2025-06-05 23:00:09",
-      "album": {
         "name": "Arm's Length",
         "url": "https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 239600,
       "name": "Arm's Length",
       "url": "https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3"
+    },
+    {
+      "added_at": "2025-06-05 23:00:09",
+      "album": {
+        "name": "It's Amazing To Be Young",
+        "url": "https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 210803,
+      "name": "It's Amazing To Be Young",
+      "url": "https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf"
     },
     {
       "added_at": "2025-06-05 23:00:09",

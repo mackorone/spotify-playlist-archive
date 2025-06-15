@@ -4,7 +4,7 @@
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-441 songs - 1 day 0 hr 2 min
+442 songs - 1 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Like You](https://open.spotify.com/track/5o3r2FdUJQvGD5HwXzajuS) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Like You](https://open.spotify.com/album/7w167b8Zpa8I6dyhMC2viC) | 3:33 | 2022-03-23 | 2022-04-21 |
 | [LION](https://open.spotify.com/track/4TArUx34wOehwpnbXlKBQY) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Queendom < FINAL Comeback >](https://open.spotify.com/album/1x2QsojG3m0e0jkLzP1rGr) | 3:30 | 2022-03-23 | 2022-04-18 |
 | [LION](https://open.spotify.com/track/40OyiVO9NtBg9R2Gpwxs3u) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I trust](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) | 3:30 | 2022-07-04 | 2024-03-28 |
+| [Lips Hips Kiss](https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [224](https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR) | 3:09 | 2025-06-13 |  |
 | [Love 119](https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Love 119](https://open.spotify.com/album/5EkyygSUp3nVFEimo2ENdP) | 2:53 | 2024-03-27 | 2024-06-14 |
 | [Love Lee](https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Love Lee](https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF) | 2:59 | 2023-08-24 | 2025-05-08 |
 | [Love Note!](https://open.spotify.com/track/0NfXZxnw1e6HdEJzcoWVzF) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [Love Note!](https://open.spotify.com/album/01moeo0CfiDeWL7irbhlEq) | 3:14 | 2022-08-15 | 2022-08-25 |
@@ -268,7 +269,7 @@
 | [Numbers \(feat\. CHANGMO\)](https://open.spotify.com/track/79r5vi5H3sYvnRNpkNylXP) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Numbers \(feat\. CHANGMO\)](https://open.spotify.com/album/1u6pT9rNfRZrG0llsv8crN) | 2:56 | 2021-12-06 | 2022-06-16 |
 | [Oh, Wait](https://open.spotify.com/track/6gI80gaNBHirDcPukAA25M) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Oh, Wait](https://open.spotify.com/album/6D44NSk9skjR4cKykvvhPd) | 3:49 | 2022-03-23 | 2022-04-21 |
 | [OHIO](https://open.spotify.com/track/3fxIgoqvwprUbhV1XEHrG5) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [OHIO](https://open.spotify.com/album/2Ke29I5mu2kcbyPD9S9Q2M) | 3:14 | 2022-03-23 | 2022-04-18 |
-| [One and Only](https://open.spotify.com/track/7twsZBhfSJFeaDp2rFHP1d) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [WHO!](https://open.spotify.com/album/0wesgG3gMPRK5awyZFEPU2) | 2:47 | 2023-06-07 |  |
+| [One and Only](https://open.spotify.com/track/7twsZBhfSJFeaDp2rFHP1d) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [WHO!](https://open.spotify.com/album/0wesgG3gMPRK5awyZFEPU2) | 2:47 | 2023-06-07 | 2025-06-15 |
 | [One and Only](https://open.spotify.com/track/2Pbapko02EeCLCk4pfCdhk) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [Drunk on love \- The 2nd Mini Album](https://open.spotify.com/album/2UUx4fVD3UtiSSvZ4DN119) | 3:38 | 2022-03-23 | 2022-04-21 |
 | [One and Only \(Feat\. KURO\)](https://open.spotify.com/track/0GpK80YpKjNLA37FQ1JvDt) | [Soseo](https://open.spotify.com/artist/2WyFDTobi8Be5brYQS5aSf), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [One and Only \(Feat\. KURO\)](https://open.spotify.com/album/16LKnqi5TwNEidWTXxbHLA) | 2:31 | 2023-06-15 | 2023-08-25 |
 | [One Two Three](https://open.spotify.com/track/2X3mOHH1uGUV7XHl68ii0l) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [One Two Three](https://open.spotify.com/album/1cMv6L495aMx4wNrtDQ7qZ) | 3:04 | 2023-04-26 | 2023-05-24 |

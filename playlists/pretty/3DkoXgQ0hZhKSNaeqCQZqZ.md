@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 > All songs made for furs, by furs\.  Check top 25 @ spotify.furrest.net
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 592 likes - 347 songs - 18 hr 20 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 591 likes - 347 songs - 18 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

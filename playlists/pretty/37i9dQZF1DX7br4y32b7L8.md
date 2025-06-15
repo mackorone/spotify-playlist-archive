@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > songs voor je playlist! \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,777 likes - 76 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,788 likes - 76 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

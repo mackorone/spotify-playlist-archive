@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 
 > Timeless & classic Arabic songs\. Cover: Warda
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,090 likes - 90 songs - 14 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,200 likes - 90 songs - 14 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 38 | [Alayl Ya Layla](https://open.spotify.com/track/1SGE7yd8w2bm8zt32pxs9Y) | [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [Best of Wadih El Safi, Vol\. 1](https://open.spotify.com/album/297hr38v9aZGdsNgHoD9K2) | 6:11 |
 | 39 | [Law Fina](https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Law Fina](https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB) | 6:11 |
 | 40 | [Nwina Al Jazi Nwina](https://open.spotify.com/track/5mpZxwwqAxzuE5Br0Tzznv) | [Rabih El Khawli](https://open.spotify.com/artist/4EVDTHkfVtAUhPty544cQV) | [Nwina Al Jaze](https://open.spotify.com/album/6ooFb3kCRYgK0LxKbaq1mO) | 5:08 |
-| 41 | [Midri](https://open.spotify.com/track/1yOlhO1ejjlNSyV83ImGLW) | [Malek El Yaman](https://open.spotify.com/artist/10bHG6pbiXXIT63inPNyCI), [Carole Aoun](https://open.spotify.com/artist/5eo1Obe1OnCuklPbWBIMMM) | [Midri](https://open.spotify.com/album/5dkJWG1lsaGl03VaivzqIs) | 4:35 |
+| 41 | [Tal el\-sahar \- Remastered](https://open.spotify.com/track/0D5ymfVlEIhttb3P3lZYmP) | [Toni Hanna](https://open.spotify.com/artist/0xedaSQFHyTb4CqdnleQ1q) | [The Best Of](https://open.spotify.com/album/4kQoGwncuB0SinfYZh5sP0) | 3:23 |
 | 42 | [Al\-Hobbi Koullou](https://open.spotify.com/track/5ndZ0322fIgfW7eTgRr5Ly) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 6:29 |
-| 43 | [Tal el\-sahar \- Remastered](https://open.spotify.com/track/0D5ymfVlEIhttb3P3lZYmP) | [Toni Hanna](https://open.spotify.com/artist/0xedaSQFHyTb4CqdnleQ1q) | [The Best Of](https://open.spotify.com/album/4kQoGwncuB0SinfYZh5sP0) | 3:23 |
+| 43 | [Midri](https://open.spotify.com/track/1yOlhO1ejjlNSyV83ImGLW) | [Malek El Yaman](https://open.spotify.com/artist/10bHG6pbiXXIT63inPNyCI), [Carole Aoun](https://open.spotify.com/artist/5eo1Obe1OnCuklPbWBIMMM) | [Midri](https://open.spotify.com/album/5dkJWG1lsaGl03VaivzqIs) | 4:35 |
 | 44 | [Ana Moush Kafer \- 2008 Remastered](https://open.spotify.com/track/6BE0jeBho94oFSeF3a3nmP) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [Ana Moush Kafer](https://open.spotify.com/album/4A3pPnIVNk84KqJODnLu7N) | 5:03 |
 | 45 | [Ya Ahl El Hawa](https://open.spotify.com/track/1CoN7VnsENHvbSD7TuiIjg) | [Rabih El Khawli](https://open.spotify.com/artist/4EVDTHkfVtAUhPty544cQV) | [Nwina Al Jaze](https://open.spotify.com/album/6ooFb3kCRYgK0LxKbaq1mO) | 6:55 |
 | 46 | [Ma Zal Bhob Rbina](https://open.spotify.com/track/4yDyc4KLT5oxvObDqH2hom) | [Samir Hanna](https://open.spotify.com/artist/1wQLIAsJsjPiOCrK2onDFW) | [Samir Hanna Sings Elias Rahbani, Vol\. 1](https://open.spotify.com/album/5xpuYvYWnsl01vJic7hZaq) | 3:27 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 62 | [Ya Miyet Halla](https://open.spotify.com/track/3gJrHg4YpvfsaNkIlW1YMM) | [Salwa El Katrib](https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX) | [Best of Salwa El Katrib, Vol\. 1](https://open.spotify.com/album/7kMpg8lI54ZigyqKCxkvYQ) | 3:07 |
 | 63 | [Zakfe Ya Shabab](https://open.spotify.com/track/3mllE3vXvito7KG8K66w0Y) | [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Arabic Golden Oldies: Sabah \- Dahabiyat, Vol\. 2](https://open.spotify.com/album/3t2DQoQFV3TqWV5O9Grh5I) | 4:43 |
 | 64 | [Yess'idli Sabahou](https://open.spotify.com/track/6RI8xt9epvjxKNYhi2G9wX) | [Mohamed Jamal](https://open.spotify.com/artist/6DvyWbIhN6sQwsUs1RYfug) | [Best of Mohamed Jamal, Vol\. 1](https://open.spotify.com/album/2lRFOdkICZbdSiFgMaGD6a) | 4:25 |
-| 65 | [Ya Zarifa El Toul](https://open.spotify.com/track/00jI5pk3XkSjYdFyOnRLYe) | [Nasri Shamseddine](https://open.spotify.com/artist/1WST6nXZrdhBeSPO2yGYQT) | [Best Of Nasri Shamsedine](https://open.spotify.com/album/7KQav4kCbFKdschirLT49w) | 3:25 |
-| 66 | [Habibi](https://open.spotify.com/track/1VSLxZvSN0RAeION7bK8AL) | [Samir Yazbeck](https://open.spotify.com/artist/0Qhp1TqNwChWMV2nXHufeV) | [Habibi](https://open.spotify.com/album/1fcbJS5Ous4vC0Sdx0GrdK) | 5:27 |
+| 65 | [Habibi](https://open.spotify.com/track/1VSLxZvSN0RAeION7bK8AL) | [Samir Yazbeck](https://open.spotify.com/artist/0Qhp1TqNwChWMV2nXHufeV) | [Habibi](https://open.spotify.com/album/1fcbJS5Ous4vC0Sdx0GrdK) | 5:27 |
+| 66 | [Ya Zarifa El Toul](https://open.spotify.com/track/00jI5pk3XkSjYdFyOnRLYe) | [Nasri Shamseddine](https://open.spotify.com/artist/1WST6nXZrdhBeSPO2yGYQT) | [Best Of Nasri Shamsedine](https://open.spotify.com/album/7KQav4kCbFKdschirLT49w) | 3:25 |
 | 67 | [E’tazalt El Gharam](https://open.spotify.com/track/0EHJC0aoO4nFAe3e78wmCR) | [Majida El Roumi](https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS) | [E'tazalt El Gharam](https://open.spotify.com/album/2s0iZB9XjgR3ECqidQUX17) | 7:47 |
 | 68 | [Meen Habeebee Ana \(Duet Nawal Al Zoghbi\)](https://open.spotify.com/track/5Ht5pDYfnyxp8SuEndKDQF) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Kfoury Classic](https://open.spotify.com/album/1ICamuikY1Ye2nRiSUXN8x) | 5:42 |
 | 69 | [Ya Mersal El Marasil](https://open.spotify.com/track/6uWynf5XF8QU8e9Kt5GbWp) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Chante Philemon Wehbe Volume 1](https://open.spotify.com/album/6D8vPAEk4mcLfCuc9P7v3m) | 3:46 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BeS7oLnHFo.md) - [plain]
 
 > Kali\-B: قلي قلي كييييييف\. الغلاف
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,007 likes - 41 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,014 likes - 41 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

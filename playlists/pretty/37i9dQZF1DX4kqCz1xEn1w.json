@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
-        "name": "My King and My Defender",
-        "url": "https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1"
-      },
-      "artists": [
-        {
-          "name": "Nate Gardiner",
-          "url": "https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI"
-        }
-      ],
-      "duration_ms": 320981,
-      "name": "My King and My Defender",
-      "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
-    },
-    {
-      "added_at": "2025-04-11 04:00:15",
-      "album": {
         "name": "SPACE",
         "url": "https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 298640,
       "name": "Bless The One - Live",
       "url": "https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK"
+    },
+    {
+      "added_at": "2025-04-11 04:00:15",
+      "album": {
+        "name": "My King and My Defender",
+        "url": "https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1"
+      },
+      "artists": [
+        {
+          "name": "Nate Gardiner",
+          "url": "https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI"
+        }
+      ],
+      "duration_ms": 320981,
+      "name": "My King and My Defender",
+      "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
+        "name": "Savior Of The World",
+        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 284760,
+      "name": "Savior Of The World - Single Version",
+      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
+    },
+    {
+      "added_at": "2025-04-11 04:00:15",
+      "album": {
         "name": "Royalty: Live At The Ryman",
         "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 427389,
       "name": "God So Loved - Live",
       "url": "https://open.spotify.com/track/0f0BtT5yPDxiAwlO9JqJ6s"
-    },
-    {
-      "added_at": "2025-04-11 04:00:15",
-      "album": {
-        "name": "Savior Of The World",
-        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 284760,
-      "name": "Savior Of The World - Single Version",
-      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -1435,18 +1435,26 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
-        "name": "The Cup Was Not Removed",
-        "url": "https://open.spotify.com/album/7Ju8TGCc5suQkOzFZL8fpR"
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/4Yltydw2uop6lwRop9OSbP"
       },
       "artists": [
         {
-          "name": "Justin Tweito",
-          "url": "https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR"
+          "name": "Red Worship",
+          "url": "https://open.spotify.com/artist/0avkhg4DlPSxuCE9Ycy66w"
+        },
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        },
+        {
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
         }
       ],
-      "duration_ms": 236958,
-      "name": "The Cup Was Not Removed",
-      "url": "https://open.spotify.com/track/3AmTJw3COTclLJePfmAkMc"
+      "duration_ms": 481067,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/4QaZJfMFE8zA4qJlFJoPxh"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -1471,26 +1479,18 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
-        "name": "Come Alive",
-        "url": "https://open.spotify.com/album/4Yltydw2uop6lwRop9OSbP"
+        "name": "The Cup Was Not Removed",
+        "url": "https://open.spotify.com/album/7Ju8TGCc5suQkOzFZL8fpR"
       },
       "artists": [
         {
-          "name": "Red Worship",
-          "url": "https://open.spotify.com/artist/0avkhg4DlPSxuCE9Ycy66w"
-        },
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        },
-        {
-          "name": "Lizzie Morgan",
-          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
+          "name": "Justin Tweito",
+          "url": "https://open.spotify.com/artist/1M9vnVVffOjQGvJ3nSFVUR"
         }
       ],
-      "duration_ms": 481067,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/4QaZJfMFE8zA4qJlFJoPxh"
+      "duration_ms": 236958,
+      "name": "The Cup Was Not Removed",
+      "url": "https://open.spotify.com/track/3AmTJw3COTclLJePfmAkMc"
     },
     {
       "added_at": "2025-04-11 04:00:15",

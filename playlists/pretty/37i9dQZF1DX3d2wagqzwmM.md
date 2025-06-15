@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,059 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,244 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 60 | [Madness](https://open.spotify.com/track/1N0SMPZllogg6bH4ueBSw4) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A) | [Madness](https://open.spotify.com/album/2RxoQZVEWaNX5VLZIaBU73) | 2:38 |
 | 61 | [Germany & Techno \(feat\. Krys Tha Sis\)](https://open.spotify.com/track/7b5Eu8Mp5uB4MPjT3Kh3WF) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [Fabian Farell](https://open.spotify.com/artist/4IOhVReVZmK8yRqFgcxDvY), [Derb](https://open.spotify.com/artist/3mPVA7KPcWK2iKju5lLFc8), [Krys Tha Sis](https://open.spotify.com/artist/4FnvX9uPMfR9upQ4ByiBuO) | [Germany & Techno \(feat\. Krys Tha Sis\)](https://open.spotify.com/album/6sU8MVFcuQwitiDPKGFmwT) | 2:20 |
 | 62 | [HYPOMANIA](https://open.spotify.com/track/4rVmpjKfDSahUHEp97K34S) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd) | [HYPOMANIA](https://open.spotify.com/album/46vJOsJ5TqIX9SQTU7lMOh) | 3:17 |
-| 63 | [Bring Back The Techno](https://open.spotify.com/track/4eFSZCcdSnSSjdA72LoDbo) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm), [nilsix](https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I) | [Bring Back The Techno](https://open.spotify.com/album/1aZUgzRX0gM0H0UABM5wME) | 3:01 |
-| 64 | [Fast Moving](https://open.spotify.com/track/2lMCEetyocuK0NW4hwReV6) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Fast Moving](https://open.spotify.com/album/1u8jK15gShKb6U5oEJO2b9) | 4:21 |
+| 63 | [Fast Moving](https://open.spotify.com/track/2lMCEetyocuK0NW4hwReV6) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Fast Moving](https://open.spotify.com/album/1u8jK15gShKb6U5oEJO2b9) | 4:21 |
+| 64 | [Bring Back The Techno](https://open.spotify.com/track/4eFSZCcdSnSSjdA72LoDbo) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm), [nilsix](https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I) | [Bring Back The Techno](https://open.spotify.com/album/1aZUgzRX0gM0H0UABM5wME) | 3:01 |
 | 65 | [Feedback \- 3 Are Legend & Stephen Hurtley Remix](https://open.spotify.com/track/1lkF98jQYMcnk7PRbn7jOp) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Autoerotique](https://open.spotify.com/artist/3SvCpwSeoWCcjfo8zjPZKB), [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Stephen Hurtley](https://open.spotify.com/artist/1Sgx7PJConAh9YpghCxmy2) | [Feedback \(10 Year Anniversary Remixes\)](https://open.spotify.com/album/3O2qlWVfSPtoG9tM9nDpD6) | 2:26 |
 | 66 | [Out Of My Mind](https://open.spotify.com/track/2lHbjYorH8BIRB0ZmYQqix) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Out Of My Mind](https://open.spotify.com/album/6IKPeWYde8fISw5VixzNvU) | 2:29 |
 | 67 | [Renegade Master](https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Renegade Master](https://open.spotify.com/album/7jed62ZXmaqO0C04QO6OYe) | 2:50 |

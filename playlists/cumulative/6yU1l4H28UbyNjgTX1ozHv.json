@@ -287,6 +287,24 @@
     },
     {
       "album": {
+        "name": "As Long As You Love Me (Acoustic)",
+        "url": "https://open.spotify.com/album/4TOEnObzWo2hprdRapk6Jc"
+      },
+      "artists": [
+        {
+          "name": "Jae Hall",
+          "url": "https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158529,
+      "name": "As Long As You Love Me - Acoustic",
+      "url": "https://open.spotify.com/track/4MeIqmkDUpzCNh25g7PaYN"
+    },
+    {
+      "album": {
         "name": "Baby I'm Yours (Acoustic)",
         "url": "https://open.spotify.com/album/2yyCCIXv0Kl95gwmK6zZ7g"
       },
@@ -2902,7 +2920,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 180831,
       "name": "Mad World - Acoustic",
       "url": "https://open.spotify.com/track/2WZ1wOlucndS0RBIltQnQj"

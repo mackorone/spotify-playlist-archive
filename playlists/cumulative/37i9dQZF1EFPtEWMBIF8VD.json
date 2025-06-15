@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Jupiter",
+        "url": "https://open.spotify.com/album/66HcLnKvY2NUrUta3OduYH"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165038,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/1puuLNsoHPRSyrMGQjY0wI"
+    },
+    {
+      "album": {
         "name": "Amor Real (Holiday Song)",
         "url": "https://open.spotify.com/album/0X4nxSqynfCpG9LMJ9jK13"
       },

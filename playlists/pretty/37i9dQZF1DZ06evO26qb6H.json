@@ -1,12 +1,12 @@
 {
   "description": "This is Murda Beatz. The essential tracks, all in one playlist.",
-  "num_followers": 3217,
+  "num_followers": 3216,
   "original_name": "This Is Murda Beatz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAD8U6fK39zL8QxZ4z4RYfb+",
+  "snapshot_id": "aEtqAAAAAAB31Cu3w/BhH/ILKjY8dGNy",
   "tracks": [
     {
       "added_at": null,
@@ -611,30 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "420 in London",
-        "url": "https://open.spotify.com/album/1BMfByaGjaWoSraUSfCQQh"
-      },
-      "artists": [
-        {
-          "name": "Pressa",
-          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 219088,
-      "name": "420 in London",
-      "url": "https://open.spotify.com/track/1zDwQIp3BgbH9dSmYtPBDH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gangsta Grillz: Mvrda Gvng",
         "url": "https://open.spotify.com/album/6YkvB4DYktZrdQsawd0BXp"
       },
@@ -659,6 +635,30 @@
       "duration_ms": 231100,
       "name": "Milano Town (with DJ Drama, Shiva & Murda Beatz)",
       "url": "https://open.spotify.com/track/1KQ52QetE9tJ1ZABpt8hoo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "420 in London",
+        "url": "https://open.spotify.com/album/1BMfByaGjaWoSraUSfCQQh"
+      },
+      "artists": [
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 219088,
+      "name": "420 in London",
+      "url": "https://open.spotify.com/track/1zDwQIp3BgbH9dSmYtPBDH"
     },
     {
       "added_at": null,
@@ -707,30 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unfuckwitable (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6"
-      },
-      "artists": [
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        },
-        {
-          "name": "Peezy",
-          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 172623,
-      "name": "Touchdown (feat. Peezy & Murda Beatz)",
-      "url": "https://open.spotify.com/track/6EEh3VBH5a6ptEeTz1OYHv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
         "url": "https://open.spotify.com/album/00M4ecLNv6pzPmr5lheMPr"
       },
@@ -755,26 +731,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raining",
-        "url": "https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo"
+        "name": "Unfuckwitable (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6"
       },
       "artists": [
         {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
         },
         {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
         },
         {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 222740,
-      "name": "Raining (feat. Yung Bleu & Murda Beatz)",
-      "url": "https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn"
+      "duration_ms": 172623,
+      "name": "Touchdown (feat. Peezy & Murda Beatz)",
+      "url": "https://open.spotify.com/track/6EEh3VBH5a6ptEeTz1OYHv"
     },
     {
       "added_at": null,
@@ -803,6 +779,30 @@
       "duration_ms": 179084,
       "name": "Yeah Yeah (feat. 50 Cent and Murda Beatz)",
       "url": "https://open.spotify.com/track/6g2P7z0NPbiVF1orkYVtFr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Raining",
+        "url": "https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 222740,
+      "name": "Raining (feat. Yung Bleu & Murda Beatz)",
+      "url": "https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn"
     },
     {
       "added_at": null,

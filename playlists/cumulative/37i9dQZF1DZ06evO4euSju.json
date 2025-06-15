@@ -530,7 +530,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 206149,
       "name": "New Emotion",
       "url": "https://open.spotify.com/track/4fPaQVq5eklkLMduNY3Gnb"
@@ -1068,6 +1068,24 @@
       "duration_ms": 166943,
       "name": "Taste Of Gasoline",
       "url": "https://open.spotify.com/track/67kHOo0IxF8dcfN5SEvBRb"
+    },
+    {
+      "album": {
+        "name": "Earth Is A Black Hole",
+        "url": "https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220735,
+      "name": "Wasting Time",
+      "url": "https://open.spotify.com/track/7ikXq0pkuWH2hyHgOA82ej"
     },
     {
       "album": {

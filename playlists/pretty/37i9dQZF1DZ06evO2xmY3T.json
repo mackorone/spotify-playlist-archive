@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 681448,
+  "num_followers": 681463,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAD0CqZAV59tjKqcj/8jYyKK",
+  "snapshot_id": "aEtqAAAAAAAG60GVE+hgJT8ax/qAWdeL",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Enough (Miami)",
+        "url": "https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 158727,
+      "name": "Enough (Miami)",
+      "url": "https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Beautiful & Damned",
         "url": "https://open.spotify.com/album/1VAc77UvK5wj8ZSWCo3V2b"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 245386,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/2DQ1ITjI0YoLFzuADN1ZBW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Enough (Miami)",
-        "url": "https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 158727,
-      "name": "Enough (Miami)",
-      "url": "https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc"
     },
     {
       "added_at": null,
@@ -779,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Fly",
-        "url": "https://open.spotify.com/album/5bPJWz3z4NWjOaRYBRZBED"
-      },
-      "artists": [
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 151250,
-      "name": "On Dat Money (with Cardi B) - Bonus",
-      "url": "https://open.spotify.com/track/5RWKa0QLtlf3nZ8WLczt2W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
         "url": "https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 213750,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/22mQXNE0nCuWq4yOwcadIn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Me Fly",
+        "url": "https://open.spotify.com/album/5bPJWz3z4NWjOaRYBRZBED"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "On Dat Money (with Cardi B) - Bonus",
+      "url": "https://open.spotify.com/track/5RWKa0QLtlf3nZ8WLczt2W"
     },
     {
       "added_at": null,

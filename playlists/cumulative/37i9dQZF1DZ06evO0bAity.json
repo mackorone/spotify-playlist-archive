@@ -695,6 +695,28 @@
     },
     {
       "album": {
+        "name": "I felt all there is to feel",
+        "url": "https://open.spotify.com/album/3sRm6ZhRGz2P7826NhIcBt"
+      },
+      "artists": [
+        {
+          "name": "Pabst",
+          "url": "https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD"
+        },
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202077,
+      "name": "I felt all there is to feel",
+      "url": "https://open.spotify.com/track/4uYdwdPQQqgIdsWY43UV3o"
+    },
+    {
+      "album": {
         "name": "Positive Rising (Pt. 1)",
         "url": "https://open.spotify.com/album/40t8R9VOXLSxMzUjXbtDuN"
       },

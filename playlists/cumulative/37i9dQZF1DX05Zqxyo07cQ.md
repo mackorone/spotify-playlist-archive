@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-751 songs - 1 day 12 hr 33 min
+752 songs - 1 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Above Us](https://open.spotify.com/track/6bZHe7cY3zW5BQsujcbdku) | [Beloved More](https://open.spotify.com/artist/4MK9CnbT54N8i28jWYx4s8) | [Above Us](https://open.spotify.com/album/1KrLvsO5sD7EgAvjE9wxDP) | 2:58 | 2024-12-17 |  |
 | [abundance](https://open.spotify.com/track/2ql3MvEcsA946YC2Ob0sQc) | [Elvio Martín](https://open.spotify.com/artist/1rOPEkX83RQnXXOO55RJM7) | [abundance](https://open.spotify.com/album/4cjm7LC3n8iypOqeDO7yzO) | 2:44 | 2024-07-09 | 2025-01-19 |
 | [Abyss](https://open.spotify.com/track/01ROOZyL7yFfuVZsOmcxVJ) | [Liv Joy](https://open.spotify.com/artist/050mtzVtUlI66423bb1UKm) | [Abyss](https://open.spotify.com/album/5bsjxcIL5IExlkjUUT3LqN) | 2:54 | 2025-03-05 |  |
-| [Acknowledge](https://open.spotify.com/track/3b9FmqamhswFKthJpVEGHk) | [Latehours](https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM) | [Acknowledge](https://open.spotify.com/album/7qZbzUnRPRPSWGpgOYt2ud) | 2:59 | 2024-07-09 |  |
+| [Acknowledge](https://open.spotify.com/track/3b9FmqamhswFKthJpVEGHk) | [Latehours](https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM) | [Acknowledge](https://open.spotify.com/album/7qZbzUnRPRPSWGpgOYt2ud) | 2:59 | 2024-07-09 | 2025-06-15 |
 | [Across](https://open.spotify.com/track/03Se4kO33S5ohOqW2V9mr3) | [Matt Deep](https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm) | [Across](https://open.spotify.com/album/1rnbCqbgNfK9GmzyZIvZhl) | 2:55 | 2025-01-22 |  |
 | [Ad Astra](https://open.spotify.com/track/0v7I8fgIlTNg3MSk4osm1j) | [Volta Celeste](https://open.spotify.com/artist/6dQx2H9bZ0X8UdyjkNAmNI) | [Ad Astra](https://open.spotify.com/album/1LR1BYVE2XyzNqI2YMFjsQ) | 2:38 | 2024-11-05 | 2024-12-13 |
 | [Adagioria](https://open.spotify.com/track/0jZ3SFl1XOHBX7cppGE8YM) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Adagioria](https://open.spotify.com/album/7ACYrenALvAYakJjHWsSL5) | 3:09 | 2024-05-20 |  |
@@ -576,6 +576,7 @@
 | [Röd Himmel](https://open.spotify.com/track/76w0v1hDBWuijmwmvsGDQk) | [Aristides Okoro](https://open.spotify.com/artist/3R5bzljb2FdRwr7yo3W0nm) | [Röd Himmel](https://open.spotify.com/album/2CEBJal9nnIAb9bNjaBhIP) | 3:26 | 2023-03-23 | 2024-03-21 |
 | [Sapnis](https://open.spotify.com/track/0UmxO4xdWoH3hRUQwcqdqC) | [Pax Gene](https://open.spotify.com/artist/1IxEav5X3hEPqk0of4PY1I) | [Sapnis](https://open.spotify.com/album/4T8YxsVIllqkGfBz1RRUhW) | 3:37 | 2023-03-23 | 2024-03-21 |
 | [Sapphire](https://open.spotify.com/track/51Cpam4lnqxkLXtK269TrB) | [Placidous](https://open.spotify.com/artist/2Q0EISrSeMlAHRybVtpcF1) | [Sapphire](https://open.spotify.com/album/4l0y18K5CgfM8DlyUU4rCp) | 3:26 | 2025-04-09 |  |
+| [Satellites](https://open.spotify.com/track/0Q4BdsKplPy7fdG8WclLm0) | [William Edessa](https://open.spotify.com/artist/3APfshfvEFD5G5vkZGvObg) | [Satellites](https://open.spotify.com/album/32Yn5flUwapjx1aaweUsx4) | 2:54 | 2025-06-12 |  |
 | [Schlafmittel](https://open.spotify.com/track/6AYzbLak1YhYu5litfcTdV) | [Felix Hertzog](https://open.spotify.com/artist/4B72HNYsUpj9x0cOBi7CJ7) | [Schlafmittel](https://open.spotify.com/album/6a5r93Haq1Km80MiRHZdBx) | 2:48 | 2023-03-23 | 2024-01-18 |
 | [Seasons](https://open.spotify.com/track/74jdFBI7LmTV2FMdd5qTh3) | [Ghasel](https://open.spotify.com/artist/6ylMYNmAVRn0ROcAuIFgEC) | [Seasons](https://open.spotify.com/album/4q9CspBJjcPmfewtSY5tAg) | 2:49 | 2023-03-23 | 2024-05-21 |
 | [Secrets](https://open.spotify.com/track/77FxLSbbPmRet4It3IWRB9) | [Selma Ström](https://open.spotify.com/artist/62k2sifCiGij6HZx3Z7dTp) | [Secrets](https://open.spotify.com/album/4BAb9Ryg1CHhvVcCfqYbyX) | 2:48 | 2023-03-23 | 2024-01-18 |

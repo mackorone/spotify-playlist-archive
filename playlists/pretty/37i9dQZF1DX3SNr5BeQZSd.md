@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > the freshest trending lofi beats for chill, focus, or study vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,151 likes - 100 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,238 likes - 100 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 99 | [Stargazer](https://open.spotify.com/track/378bBrt98Nm3AWNIHL6sUD) | [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ), [Captian Waves](https://open.spotify.com/artist/2gc8YdTo14lfCKE45V9rQx) | [Stargazer](https://open.spotify.com/album/14NEE3Zg2Jq1pZhverGJxh) | 2:01 |
 | 100 | [everything will be alright](https://open.spotify.com/track/6Kt3hXL704ziL0p3vq9g8o) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [everything will be alright](https://open.spotify.com/album/2pzzZldtWC8h2JBHGrE9nO) | 1:43 |
 
-Snapshot ID: `AAAAAB7GeHfkPnkTkz33DBLEnm0RnRI7`
+Snapshot ID: `aEvNzAAAAADHvmWYh7GMSkoAxzGzuEeT`

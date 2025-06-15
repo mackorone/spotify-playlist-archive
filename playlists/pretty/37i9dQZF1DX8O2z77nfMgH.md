@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Alleh y Yorghaki
 
-[Spotify](https://open.spotify.com/user/spotify) - 887,884 likes - 52 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 887,761 likes - 52 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 51 | [COMO TU](https://open.spotify.com/track/0IXL5SPeI849hcz7Cynpk4) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [BABABA WORLD](https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS) | 2:34 |
 | 52 | [Nada](https://open.spotify.com/track/7Lum2Q2VG0Paq9adSxNTSi) | [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4), [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0) | [Nada](https://open.spotify.com/album/3jGBkZE4D2zbTYeWSny4RI) | 3:20 |
 
-Snapshot ID: `aEuibwAAAABKvkiMIMaVMAwL0pGzLjgS`
+Snapshot ID: `aEuibwAAAADhXpkNkdNWB6Fau46F7MsF`

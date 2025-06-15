@@ -1,6 +1,6 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 9856,
+  "num_followers": 9879,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "G&P3",
+        "url": "https://open.spotify.com/album/4O2bbARYjOpydvQppaTSpQ"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "duration_ms": 196271,
+      "name": "G&P3",
+      "url": "https://open.spotify.com/track/1SHk2Omw2oQGZkV14YYqdq"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "As\u00ed Como Suena",
         "url": "https://open.spotify.com/album/1wA87ErH7eEi2C0brE2rvE"
       },
@@ -1583,18 +1599,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "G&P3",
-        "url": "https://open.spotify.com/album/4O2bbARYjOpydvQppaTSpQ"
+        "name": "Adicto",
+        "url": "https://open.spotify.com/album/3hsVpi0akF0YplUrrwIId2"
       },
       "artists": [
         {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+          "name": "Zizzy",
+          "url": "https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS"
+        },
+        {
+          "name": "Adrian Be",
+          "url": "https://open.spotify.com/artist/1cvIlWofyBJLLrxQfX6ZtF"
         }
       ],
-      "duration_ms": 196271,
-      "name": "G&P3",
-      "url": "https://open.spotify.com/track/1SHk2Omw2oQGZkV14YYqdq"
+      "duration_ms": 180000,
+      "name": "Adicto",
+      "url": "https://open.spotify.com/track/44bbiqusWRVrq2SUasYvQe"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1619,26 +1639,6 @@
       "duration_ms": 267706,
       "name": "La Que Se Fue",
       "url": "https://open.spotify.com/track/52Kw3tA8uFocxbbw4Nbnjz"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Adicto",
-        "url": "https://open.spotify.com/album/3hsVpi0akF0YplUrrwIId2"
-      },
-      "artists": [
-        {
-          "name": "Zizzy",
-          "url": "https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS"
-        },
-        {
-          "name": "Adrian Be",
-          "url": "https://open.spotify.com/artist/1cvIlWofyBJLLrxQfX6ZtF"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Adicto",
-      "url": "https://open.spotify.com/track/44bbiqusWRVrq2SUasYvQe"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1955,26 +1955,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Nunca Me Amo",
-        "url": "https://open.spotify.com/album/68D3lrpkYBgh6RwxNqZ0l4"
+        "name": "Nena Maldicion (feat. Lenny Tavarez)",
+        "url": "https://open.spotify.com/album/1pxbRsIbgUi8eA5lUzFlyi"
       },
       "artists": [
         {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         },
         {
-          "name": "Baby Rasta",
-          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
-        },
-        {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         }
       ],
-      "duration_ms": 199641,
-      "name": "Nunca Me Amo",
-      "url": "https://open.spotify.com/track/1uihSnDxZidO3IMM2hmUBW"
+      "duration_ms": 228874,
+      "name": "Nena Maldicion (feat. Lenny Tavarez)",
+      "url": "https://open.spotify.com/track/3TnhQSRwT3AVMdXw5JPq0x"
     }
   ],
   "unique_name": "Trap Luv",

@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 94157,
+  "num_followers": 94175,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAB41GlUSQtZFjwmvT0gZe9G",
+  "snapshot_id": "aEtqAAAAAAAvkLybBjyxUsjWE4XLOTlK",
   "tracks": [
     {
       "added_at": null,
@@ -130,15 +130,11 @@
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 189071,
-      "name": "Offa Me (feat. Victoria Mon\u00e9t)",
-      "url": "https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA"
+      "duration_ms": 136755,
+      "name": "10 Kilo",
+      "url": "https://open.spotify.com/track/2IOMDdgUZfjlsPYXGeeoaH"
     },
     {
       "added_at": null,
@@ -214,11 +210,15 @@
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 136755,
-      "name": "10 Kilo",
-      "url": "https://open.spotify.com/track/2IOMDdgUZfjlsPYXGeeoaH"
+      "duration_ms": 189071,
+      "name": "Offa Me (feat. Victoria Mon\u00e9t)",
+      "url": "https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 182449,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/1eBS61fYNgOFTNdOVkyuJr"
+      "duration_ms": 195789,
+      "name": "Be There Still",
+      "url": "https://open.spotify.com/track/1FWqWaH781R6T32agyhpFQ"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 195789,
-      "name": "Be There Still",
-      "url": "https://open.spotify.com/track/1FWqWaH781R6T32agyhpFQ"
+      "duration_ms": 182449,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/1eBS61fYNgOFTNdOVkyuJr"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gobe",
-        "url": "https://open.spotify.com/album/6KjWnuW1bcexQkKuG8W4HK"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 229668,
-      "name": "Gobe",
-      "url": "https://open.spotify.com/track/3d1aboWNpT2UYajHpbRExQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like (feat. Kizz Daniel)",
         "url": "https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB"
       },
@@ -779,6 +763,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gobe",
+        "url": "https://open.spotify.com/album/6KjWnuW1bcexQkKuG8W4HK"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 229668,
+      "name": "Gobe",
+      "url": "https://open.spotify.com/track/3d1aboWNpT2UYajHpbRExQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still The Mayor",
+        "url": "https://open.spotify.com/album/0Ev8VZe0x9bTzf55gVQNeR"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "Blessings On Blessings (B.O.B) (feat. Davido)",
+      "url": "https://open.spotify.com/track/0mjYhFrdVxmcKGW96pW5zS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
@@ -788,13 +808,13 @@
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
         }
       ],
-      "duration_ms": 162285,
-      "name": "Holy Ground (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
+      "duration_ms": 171724,
+      "name": "The Best (feat. Mayorkun)",
+      "url": "https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ"
     },
     {
       "added_at": null,
@@ -860,33 +880,13 @@
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 171724,
-      "name": "The Best (feat. Mayorkun)",
-      "url": "https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doe",
-        "url": "https://open.spotify.com/album/61T8t21pCXXAwBb1b5UHJP"
-      },
-      "artists": [
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 242886,
-      "name": "Doe",
-      "url": "https://open.spotify.com/track/5BGDsaokGCwQ9OpeVy0MUs"
+      "duration_ms": 162285,
+      "name": "Holy Ground (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
     },
     {
       "added_at": null,
@@ -907,6 +907,26 @@
       "duration_ms": 172500,
       "name": "D & G (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doe",
+        "url": "https://open.spotify.com/album/61T8t21pCXXAwBb1b5UHJP"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 242886,
+      "name": "Doe",
+      "url": "https://open.spotify.com/track/5BGDsaokGCwQ9OpeVy0MUs"
     },
     {
       "added_at": null,
@@ -971,26 +991,6 @@
       "duration_ms": 208420,
       "name": "Maserati (Remix)",
       "url": "https://open.spotify.com/track/7glMaSseNC233Ntl6NhGC5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TESTIMONY.",
-        "url": "https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 217069,
-      "name": "PrAy",
-      "url": "https://open.spotify.com/track/2NLZskCPIYnG2vwiEBXLpC"
     }
   ],
   "unique_name": "This Is Davido",

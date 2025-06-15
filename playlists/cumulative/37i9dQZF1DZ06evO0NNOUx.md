@@ -4,7 +4,7 @@
 
 > This is Forrest Frank\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 4 min
+65 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [DIGGIN U](https://open.spotify.com/track/2oNudz3r9oFMt0FfREhFoM) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [California Cowboy](https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn) | 2:26 | 2025-04-09 | 2025-05-23 |
 | [DROP!](https://open.spotify.com/track/1fqXdCLVHi2o5nHoANQ8XF) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 3:54 | 2025-05-24 | 2025-05-25 |
 | [DROP!](https://open.spotify.com/track/4MgpHcDBkz2k84ao1BrBHK) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [DROP!](https://open.spotify.com/album/2sTP4Wk2ctDugKJ6SPnv8p) | 3:54 | 2025-04-09 | 2025-05-24 |
-| [FATHER'S HOUSE](https://open.spotify.com/track/7dXS2jInaNYJXQOG22SdWg) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 2:24 | 2025-05-13 |  |
+| [FATHER'S HOUSE](https://open.spotify.com/track/7dXS2jInaNYJXQOG22SdWg) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 2:24 | 2025-05-13 | 2025-06-15 |
 | [Fly Away](https://open.spotify.com/track/2tIHYnZsOOSP0mIGavVRRi) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 2:35 | 2025-04-09 |  |
 | [Go Tell It](https://open.spotify.com/track/5LPAojrmsT7chF8iu3HQBh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 2:43 | 2025-04-09 |  |
 | [GOD IS GOOD](https://open.spotify.com/track/4SPycPiDl1PeFmwp7QPXRc) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 3:27 | 2025-04-09 |  |
@@ -53,7 +53,8 @@
 | [NO LONGER BOUND](https://open.spotify.com/track/7anCH1IPfW8Jsjhw5ZViuN) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [California Cowboy](https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn) | 3:00 | 2025-04-09 |  |
 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 | 2025-04-09 |  |
 | [Nothing But The Blood](https://open.spotify.com/track/20GLjHVJkuK0m9DUqAzCTJ) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 3:08 | 2025-04-09 |  |
-| [NOTHING ELSE](https://open.spotify.com/track/7hfaKEkB7hZUtiDMQ99459) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [NOTHING ELSE](https://open.spotify.com/album/6pMp0bsoaZqGcFYAngdsJ3) | 1:58 | 2025-04-09 |  |
+| [NOTHING ELSE](https://open.spotify.com/track/10ngdDwCfjLTdFqDnkE2Jg) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 1:58 | 2025-06-15 |  |
+| [NOTHING ELSE](https://open.spotify.com/track/7hfaKEkB7hZUtiDMQ99459) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [NOTHING ELSE](https://open.spotify.com/album/6pMp0bsoaZqGcFYAngdsJ3) | 1:58 | 2025-04-09 | 2025-06-15 |
 | [Only Be You](https://open.spotify.com/track/6iXHlTPVvInzbn4IvSyODa) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [California Cowboy](https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn) | 3:42 | 2025-04-09 | 2025-05-17 |
 | [OUTSIDE](https://open.spotify.com/track/5qR5cY9vg2KH7vIPtQBB0L) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 2:16 | 2025-05-13 | 2025-05-23 |
 | [PARADISE](https://open.spotify.com/track/5Isz3cmGwWkKtnC56zR5SK) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 2:29 | 2025-05-13 | 2025-05-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Alaba al Seńor con estas canciones clásicas! Foto: Marcos Witt
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,936 likes - 125 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,066 likes - 125 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 48 | [No Hay Condenación](https://open.spotify.com/track/3ynl2B7FLTTFEz8o6ilNlR) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Rojo](https://open.spotify.com/album/6O8ZMuA6u7fcmLkAydmlmP) | 4:08 |
 | 49 | [Grito de Jubilo](https://open.spotify.com/track/6MWNjHcrwB14NeiHbdY2hO) | [Triple Seven](https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN) | [Tranz4mando el Universo \(Los Legendarios Presenta Triple Seven\)](https://open.spotify.com/album/5oHA1GyW3JXvVPmpY8sCXX) | 3:30 |
 | 50 | [La Historia De Cristo](https://open.spotify.com/track/2ubGStDma4Ag4lMo8xE8uY) | [Roberto Orellana](https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN) | [Pistas](https://open.spotify.com/album/5McyYIqcAn7Tn4lAspKwKs) | 5:04 |
-| 51 | [Eres Mi Dueno](https://open.spotify.com/track/4bxuC1eUgKJZ5N5OkPEXl1) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Si Tu No Estas](https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG) | 4:47 |
-| 52 | [Lo Peor de Mi](https://open.spotify.com/track/53E2uYu1w4yMbZyh1UD4Hs) | [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Lo Peor de Mi](https://open.spotify.com/album/5UFzpt6lNQaxCOI6tVkAsn) | 4:40 |
-| 53 | [Más Allá De Tu Ventana](https://open.spotify.com/track/2XZ1LwR4j9qlQxavgUGEyu) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [Todos Mis Mejores Amigos](https://open.spotify.com/album/60RcEQQMc77fR4x2vxo8pR) | 5:05 |
+| 51 | [Lo Peor de Mi](https://open.spotify.com/track/53E2uYu1w4yMbZyh1UD4Hs) | [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Lo Peor de Mi](https://open.spotify.com/album/5UFzpt6lNQaxCOI6tVkAsn) | 4:40 |
+| 52 | [Más Allá De Tu Ventana](https://open.spotify.com/track/2XZ1LwR4j9qlQxavgUGEyu) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [Todos Mis Mejores Amigos](https://open.spotify.com/album/60RcEQQMc77fR4x2vxo8pR) | 5:05 |
+| 53 | [Eres Mi Dueno](https://open.spotify.com/track/4bxuC1eUgKJZ5N5OkPEXl1) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Si Tu No Estas](https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG) | 4:47 |
 | 54 | [No Lo Has Visto Aún](https://open.spotify.com/track/4C7cPjGcerqjg0cy9hW33k) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [No Lo Has Visto Aún](https://open.spotify.com/album/30BsuKRAa8cxAsVkghAbFK) | 4:05 |
 | 55 | [Yo Confio](https://open.spotify.com/track/5W7aqluGNFolp7l8Mhank4) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Sígueme](https://open.spotify.com/album/2Y8L881nR2wnwSGsY2Hp3k) | 5:33 |
 | 56 | [Cara a Cara](https://open.spotify.com/track/2Z7IlhEqve1X8EvD7AIzWy) | [Veinte Veinte](https://open.spotify.com/artist/0Yu8Y1leAD10YLyRhWnqwf) | [Laberinto](https://open.spotify.com/album/14rxyyOhgm9hgYnxSk74eE) | 4:31 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 62 | [Vives en Mí](https://open.spotify.com/track/1X56o48bRC91kiEY4X4faS) | [Dorcas Cancel](https://open.spotify.com/artist/0N4rdCv0xy3ontQXyF3iRX), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Vives en Mí](https://open.spotify.com/album/7fEfG5MeVROYWby5dnAlI4) | 4:08 |
 | 63 | [Que Baje la Nube](https://open.spotify.com/track/2GmA6k2d3GtaymGaCt7Pt7) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Mujer Frente a la Cruz](https://open.spotify.com/album/5y5z8e3HEagRt9GjkIbs6d) | 6:07 |
 | 64 | [Volver a Ti](https://open.spotify.com/track/3VZsvgWzGJ7O72hcY0xMAa) | [Anagrace](https://open.spotify.com/artist/7DmgYRbHlVv86Kc48VeT2w) | [Volver a Ti](https://open.spotify.com/album/2vERRM9qaKZN3UB7lP29Mz) | 4:10 |
-| 65 | [Amor Real](https://open.spotify.com/track/69KmU0fC0eWkiWgvpw8B5q) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Amor Real](https://open.spotify.com/album/4OPPnlefSRGfeI0WkI8xCo) | 3:52 |
-| 66 | [Humano](https://open.spotify.com/track/0YoMzVYRo37ckKpn6pTdhV) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Humano](https://open.spotify.com/album/7FUlsDT6g65ZB1lAi1CTSx) | 3:00 |
+| 65 | [Humano](https://open.spotify.com/track/0YoMzVYRo37ckKpn6pTdhV) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Humano](https://open.spotify.com/album/7FUlsDT6g65ZB1lAi1CTSx) | 3:00 |
+| 66 | [Amor Real](https://open.spotify.com/track/69KmU0fC0eWkiWgvpw8B5q) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Amor Real](https://open.spotify.com/album/4OPPnlefSRGfeI0WkI8xCo) | 3:52 |
 | 67 | [Quien Soy Yo \(feat\. Redimi2\)](https://open.spotify.com/track/1W7X4EAT2DcqaISXA4X2q9) | [4 Trinity](https://open.spotify.com/artist/31nSv3P3QAEUk8dtkOJRWT), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [4t](https://open.spotify.com/album/0LjBIJORulBSIeciUhwykB) | 4:15 |
 | 68 | [Dios de Lo Imposible](https://open.spotify.com/track/39BnqwYj7f8hzrbVP7GZ5L) | [Victor Flores](https://open.spotify.com/artist/15N12HzS42h8HVhS1NiMAJ) | [Dios de Lo Imposible](https://open.spotify.com/album/56F3pXYyl8HDFvgfazVAFo) | 7:52 |
 | 69 | [Mas Profundo](https://open.spotify.com/track/2nr1nbjXz7w883AtODI9vU) | [Justin Michael](https://open.spotify.com/artist/1DPzzuw8dqxW47W3uGBzTl) | [Mas Profundo](https://open.spotify.com/album/1uLUQM3v3i9RXGoGSMn4Nu) | 5:59 |

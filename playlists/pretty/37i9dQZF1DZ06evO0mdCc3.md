@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 
 > This is Kittie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,919 likes - 44 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,924 likes - 44 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 | 37 | [Never Again \- Live](https://open.spotify.com/track/3TnEw9Xea9TMDKIhWvEv26) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Origins/Evolutions \(Live\)](https://open.spotify.com/album/2fZqRekprMG7mxjFP8Fm4Q) | 4:41 |
 | 38 | [Will To Live](https://open.spotify.com/track/2bVvEXfRYzpXAd8YKyVIXe) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Funeral For Yesterday](https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj) | 3:14 |
 | 39 | [Forgive And Forget](https://open.spotify.com/track/01GIdWkDvSRqSwoZe4VmtL) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [In The Black](https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC) | 3:44 |
-| 40 | [Ugly](https://open.spotify.com/track/6JFU3Ok65GvMFT2nXoDchJ) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 2:57 |
+| 40 | [Already Dead](https://open.spotify.com/track/3XcygjaRB9xT9xYQj0UPsO) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 2:51 |
 | 41 | [Around Your Heart](https://open.spotify.com/track/2LMK7i9K7mvr3T7M0TlIb7) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Funeral For Yesterday](https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj) | 2:56 |
 | 42 | [Sorrow I Know](https://open.spotify.com/track/3JBAtWrSOO0xPCZNlwMhcV) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [In The Black](https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC) | 3:30 |
-| 43 | [Already Dead](https://open.spotify.com/track/3XcygjaRB9xT9xYQj0UPsO) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 2:51 |
+| 43 | [Ugly](https://open.spotify.com/track/6JFU3Ok65GvMFT2nXoDchJ) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 2:57 |
 | 44 | [Whisper Of Death](https://open.spotify.com/track/7qQtIuKEQOZCOm4Gt3Mn9Q) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 4:18 |
 
-Snapshot ID: `aEoYgAAAAAAKzSFqGksbCxeuWKocJbNn`
+Snapshot ID: `aEtqAAAAAAANCaSMBhStDkp/7p2a1myy`

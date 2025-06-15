@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Jake Worthington",
-  "num_followers": 409299,
+  "num_followers": 409269,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -743,18 +743,22 @@
     {
       "added_at": "2025-06-13 04:00:57",
       "album": {
-        "name": "Start at the End",
-        "url": "https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1"
+        "name": "If You Were Mine",
+        "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
       },
       "artists": [
         {
-          "name": "Clayton Mullen",
-          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 208573,
-      "name": "Start at the End",
-      "url": "https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI"
+      "duration_ms": 219882,
+      "name": "If You Were Mine",
+      "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
     },
     {
       "added_at": "2025-06-13 04:00:57",
@@ -839,22 +843,18 @@
     {
       "added_at": "2025-06-13 04:00:57",
       "album": {
-        "name": "If You Were Mine",
-        "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
+        "name": "Start at the End",
+        "url": "https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Clayton Mullen",
+          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
         }
       ],
-      "duration_ms": 219882,
-      "name": "If You Were Mine",
-      "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
+      "duration_ms": 208573,
+      "name": "Start at the End",
+      "url": "https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI"
     },
     {
       "added_at": "2025-06-13 04:00:57",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-06-13 04:00:57",
       "album": {
-        "name": "Another Man",
-        "url": "https://open.spotify.com/album/65YJysIIuFqJN6irbIxJxv"
-      },
-      "artists": [
-        {
-          "name": "Caiden Wallace",
-          "url": "https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua"
-        }
-      ],
-      "duration_ms": 196970,
-      "name": "Another Man",
-      "url": "https://open.spotify.com/track/7uzj53gXpNtiQw82rE3h2g"
-    },
-    {
-      "added_at": "2025-06-13 04:00:57",
-      "album": {
         "name": "Old Tricks",
         "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 148778,
       "name": "Old Tricks",
       "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
+    },
+    {
+      "added_at": "2025-06-13 04:00:57",
+      "album": {
+        "name": "Another Man",
+        "url": "https://open.spotify.com/album/65YJysIIuFqJN6irbIxJxv"
+      },
+      "artists": [
+        {
+          "name": "Caiden Wallace",
+          "url": "https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua"
+        }
+      ],
+      "duration_ms": 196970,
+      "name": "Another Man",
+      "url": "https://open.spotify.com/track/7uzj53gXpNtiQw82rE3h2g"
     },
     {
       "added_at": "2025-06-13 04:00:57",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-06-13 04:00:57",
       "album": {
-        "name": "County Road 123",
-        "url": "https://open.spotify.com/album/77QZTXu1DoZcAZuJNi55Ft"
-      },
-      "artists": [
-        {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
-        }
-      ],
-      "duration_ms": 226917,
-      "name": "County Road 123",
-      "url": "https://open.spotify.com/track/0YzmIrYwxjhUCEzrRmhTH4"
-    },
-    {
-      "added_at": "2025-06-13 04:00:57",
-      "album": {
         "name": "Pancho and Lefty",
         "url": "https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 309510,
       "name": "Pancho and Lefty",
       "url": "https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg"
+    },
+    {
+      "added_at": "2025-06-13 04:00:57",
+      "album": {
+        "name": "County Road 123",
+        "url": "https://open.spotify.com/album/77QZTXu1DoZcAZuJNi55Ft"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "duration_ms": 226917,
+      "name": "County Road 123",
+      "url": "https://open.spotify.com/track/0YzmIrYwxjhUCEzrRmhTH4"
     },
     {
       "added_at": "2025-06-13 04:00:57",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-06-13 04:00:57",
       "album": {
-        "name": "Hit The Hay Runnin'",
-        "url": "https://open.spotify.com/album/4WRiI5GDDiVZyqgMklIqHN"
-      },
-      "artists": [
-        {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
-        }
-      ],
-      "duration_ms": 184271,
-      "name": "Hit The Hay Runnin'",
-      "url": "https://open.spotify.com/track/6jubVjNr6RcoZcDy6jeVQv"
-    },
-    {
-      "added_at": "2025-06-13 04:00:57",
-      "album": {
         "name": "What Else Can She Do",
         "url": "https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 234360,
       "name": "jackson",
       "url": "https://open.spotify.com/track/6zL3OSQ7hK93ZRHFaBHnQ4"
+    },
+    {
+      "added_at": "2025-06-13 04:00:57",
+      "album": {
+        "name": "Hit The Hay Runnin'",
+        "url": "https://open.spotify.com/album/4WRiI5GDDiVZyqgMklIqHN"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "duration_ms": 184271,
+      "name": "Hit The Hay Runnin'",
+      "url": "https://open.spotify.com/track/6jubVjNr6RcoZcDy6jeVQv"
     },
     {
       "added_at": "2025-06-13 04:00:57",

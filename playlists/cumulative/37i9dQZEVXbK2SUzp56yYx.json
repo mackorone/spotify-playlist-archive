@@ -713,6 +713,24 @@
     },
     {
       "album": {
+        "name": "ENEMY",
+        "url": "https://open.spotify.com/album/6Cou92zlMJIMHCInVfrVW4"
+      },
+      "artists": [
+        {
+          "name": "NEWLIGHTCHILD",
+          "url": "https://open.spotify.com/artist/6OYItdfhVXpz16ZvpFq7Uh"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102631,
+      "name": "AGENT-PROVOCATEUR",
+      "url": "https://open.spotify.com/track/7BgRKxGurY7Kds8X74mD88"
+    },
+    {
+      "album": {
         "name": "Air",
         "url": "https://open.spotify.com/album/4ILxYaUCwfA9EJ36wPwTWz"
       },
@@ -4634,7 +4652,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 186206,
       "name": "Dreamers - Embody Remix",
       "url": "https://open.spotify.com/track/5vfYmoD0Of4mxxg23HBb9Z"
@@ -5302,7 +5320,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
@@ -5320,7 +5338,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -7106,7 +7124,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 154386,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/3GFeuIIJQDgCpVHjsLkEgw"
@@ -7124,7 +7142,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 154386,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/6d8DgvFxp6lbdfOw9BVkLS"
@@ -10236,7 +10254,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 124110,
       "name": "LUNA BALA - Slowed",
       "url": "https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj"
@@ -14672,7 +14690,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -14690,7 +14708,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
@@ -16978,7 +16996,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 172800,
       "name": "Tavo akys",
       "url": "https://open.spotify.com/track/3mI5AOZ16uQg9plo9J4cC3"
@@ -19078,7 +19096,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 285533,
       "name": "Where's Your Head At",
       "url": "https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b"
@@ -32604,6 +32622,28 @@
       "duration_ms": 151111,
       "name": "\u56e0\u679c",
       "url": "https://open.spotify.com/track/2cUJ6wbyqH8hDZN8VWQ5oC"
+    },
+    {
+      "album": {
+        "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
+        "url": "https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg"
+      },
+      "artists": [
+        {
+          "name": "\u652c\u4f6cSKAI ISYOURGOD",
+          "url": "https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI"
+        },
+        {
+          "name": "AR\u5218\u592b\u9633",
+          "url": "https://open.spotify.com/artist/0Ayv7StVio9fi017JAgu45"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211677,
+      "name": "\u5927\u5c55\u9d3b\u5716(Blueprint Supreme)",
+      "url": "https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz"
     },
     {
       "album": {

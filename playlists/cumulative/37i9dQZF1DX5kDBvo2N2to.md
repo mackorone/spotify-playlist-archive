@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-340 songs - 18 hr 32 min
+341 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Flyga Fram](https://open.spotify.com/track/35buTrFZ00h0svO032k1m2) | [Abstract Crimewave](https://open.spotify.com/artist/3pTrxFmeadGx3bjSVur3m1), [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [Flyga Fram](https://open.spotify.com/album/77y6xFyrGqoFTnlqHoi6ay) | 3:02 | 2024-08-22 | 2024-11-01 |
 | [Flytta på dig](https://open.spotify.com/track/6eR2CClGsFqboQ61epslcx) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Flytta på dig](https://open.spotify.com/album/26CDINQwqeAb8xqceT0fxS) | 2:17 | 2025-03-27 | 2025-06-07 |
 | [Flyttat därifrån](https://open.spotify.com/track/2HC0Y27D9pGyMBMoivUcer) | [Dear Sara](https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S) | [Flyttat därifrån](https://open.spotify.com/album/5PDNp1F6qzCnMDp6Q9GSJp) | 2:57 | 2024-06-28 | 2024-09-27 |
+| [fooo00oool](https://open.spotify.com/track/14jB6NjGfnSjWzW9tVTMXq) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [fooo00oool](https://open.spotify.com/album/0PyiLqUiHUVpC2QqlH4kTs) | 3:08 | 2025-06-13 |  |
 | [Forget,](https://open.spotify.com/track/7cAqg391pJlB8XWcgEWH6W) | [Isac Halldin](https://open.spotify.com/artist/3DvEEc12DMy5peHWgSw2UF) | [Forget,](https://open.spotify.com/album/1CrkjivjCUyyotAissCcqN) | 2:58 | 2025-03-07 | 2025-03-21 |
 | [Fortfarande du](https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Fortfarande du / Tills vi dör \( Akustisk \)](https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am) | 2:39 | 2024-10-10 |  |
 | [Free](https://open.spotify.com/track/4QMovHbMTImVWqbkwVriSg) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Free](https://open.spotify.com/album/5fpqWfinoaiwFuw9XpIczL) | 2:29 | 2024-06-28 | 2024-10-03 |
@@ -271,7 +272,7 @@
 | [Side Effect](https://open.spotify.com/track/5Q6anRiSkE00pWfDlLiN58) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Side Effect](https://open.spotify.com/album/2JHwZDprkm6TLWrYdxaOCS) | 2:06 | 2025-06-12 |  |
 | [SIGHTS](https://open.spotify.com/track/2svUIV9N4rXk5V7cyA9jbS) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [SIGHTS](https://open.spotify.com/album/7fehq5D80Esh91dT8G87oe) | 3:06 | 2025-04-03 |  |
 | [SILUETT](https://open.spotify.com/track/6Fj6QAV3lWhqjsxvSJEDDK) | [EMILIA STRAND](https://open.spotify.com/artist/50YvgUtF9Yqr6Z0KI64Ls0) | [SILUETT](https://open.spotify.com/album/1nN3yZmAYIYgZgTVCpQr0U) | 3:10 | 2025-05-01 | 2025-05-30 |
-| [Sirens](https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Sirens](https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110) | 2:52 | 2025-01-16 |  |
+| [Sirens](https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Sirens](https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110) | 2:52 | 2025-01-16 | 2025-06-15 |
 | [Sista andetag](https://open.spotify.com/track/3Sdift3qjLtfOyXoKZFzcS) | [KarreV](https://open.spotify.com/artist/3U47KYSzkeq9AGPP5uYBuu) | [Sista andetag](https://open.spotify.com/album/35S5fdVvxyPYQm7Zs4LPd9) | 3:42 | 2025-05-15 | 2025-06-03 |
 | [Sjuk i Huvudet](https://open.spotify.com/track/74mqrObPeUlI7eOO1ZM9UE) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [Sjuk i Huvudet – Paul Gascoigne](https://open.spotify.com/album/1cBXxeObgl62kfqZOH8oDq) | 4:30 | 2024-08-22 | 2024-10-06 |
 | [Skin and Bones](https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Where Flowers Grow](https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm) | 3:18 | 2024-11-08 |  |

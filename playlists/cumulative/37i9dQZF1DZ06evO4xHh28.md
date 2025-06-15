@@ -4,7 +4,7 @@
 
 > This is My Chemical Romance\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 20 min
+56 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,11 +32,13 @@
 | [Heaven Help Us](https://open.spotify.com/track/7D50nnDRmIkn3D9xnmhCXk) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Welcome to the Black Parade](https://open.spotify.com/album/5tGLTaU1mDDxEfXo89iFKz) | 2:54 | 2022-10-25 |  |
 | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 | 2022-10-25 |  |
 | [Helena](https://open.spotify.com/track/3ZaS7Bcz9tpFIjfst63tSw) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [May Death Never Stop You](https://open.spotify.com/album/1SIpLwZu1R69coxKMH06kw) | 3:25 | 2024-06-16 | 2025-05-18 |
-| [Helena \- Live for BBC Radio 1's "The Lock Up", 2005](https://open.spotify.com/track/2zM0y9myTgpjie1asYen3g) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Helena \(Live for BBC Radio 1's "The Lock Up", 2005\)](https://open.spotify.com/album/1fQmTkk29UtTykTBaj2M98) | 3:21 | 2025-05-18 |  |
+| [Helena \- 2025 Mix](https://open.spotify.com/track/5Oi4bcuLV8D3YJ6w4FBEUz) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge \(Deluxe Edition\)](https://open.spotify.com/album/2UyMXfEjHvT4LlrVYqXGTM) | 3:22 | 2025-06-15 |  |
+| [Helena \- Live for BBC Radio 1's "The Lock Up", 2005](https://open.spotify.com/track/2zM0y9myTgpjie1asYen3g) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Helena \(Live for BBC Radio 1's "The Lock Up", 2005\)](https://open.spotify.com/album/1fQmTkk29UtTykTBaj2M98) | 3:21 | 2025-05-18 | 2025-06-15 |
 | [Honey, This Mirror Isn't Big Enough for the Two of Us](https://open.spotify.com/track/5gNVTfD1L6QrPgOf0wFo0q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 3:51 | 2022-10-25 |  |
 | [I Don't Love You](https://open.spotify.com/track/4RAOI1etsgbh5NP3T5R8rN) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 3:58 | 2022-10-25 |  |
 | [I'm Not Okay \(I Promise\)](https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:06 | 2022-10-25 |  |
 | [I'm Not Okay \(I Promise\) \- Live for BBC Radio 1's "The Lock Up", 2005](https://open.spotify.com/track/0NZA5EV3kEEXq5WPntld7j) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I'm Not Okay \(I Promise\) \[Live for BBC Radio 1's "The Lock Up", 2005\]](https://open.spotify.com/album/6y9Ufm9AntxdCmT4RbZfvi) | 3:19 | 2025-04-13 | 2025-05-10 |
+| [Interlude \- 2025 Mix](https://open.spotify.com/track/6as5J14cbRv6qPn7E1DPw7) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge \(Deluxe Edition\)](https://open.spotify.com/album/2UyMXfEjHvT4LlrVYqXGTM) | 0:57 | 2025-06-15 |  |
 | [Kill All Your Friends](https://open.spotify.com/track/65wICNTM2s1PwXSgKt8f0a) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Famous Last Words](https://open.spotify.com/album/2jFq1xVAnsoEV1zqgCbqU1) | 4:28 | 2022-10-25 |  |
 | [Kiss the Ring](https://open.spotify.com/track/2I4dgdRRupMhZCusqTsp8W) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number Four](https://open.spotify.com/album/4Sh91taOfVixkdMV4LiEih) | 3:08 | 2023-05-07 |  |
 | [Make Room!!!!](https://open.spotify.com/track/2Yi6aqwX2e0JQ9bTNUGfRT) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number Four](https://open.spotify.com/album/4Sh91taOfVixkdMV4LiEih) | 3:42 | 2022-10-25 | 2024-11-03 |

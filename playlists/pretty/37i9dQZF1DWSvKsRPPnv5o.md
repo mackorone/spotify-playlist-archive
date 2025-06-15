@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: EBK Jaaybo
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,489 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,573 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 10 | [Dirty Diana](https://open.spotify.com/track/4olniuiymbl0yZkCi10MXT) | [Younginsosleaze](https://open.spotify.com/artist/02M8bIxB70TDLqRZGS5g3o) | [Sleaze the World](https://open.spotify.com/album/6ygz1FAP0dI829mbYngmL5) | 3:15 |
 | 11 | [Go Bestfriend](https://open.spotify.com/track/3QaKunnZFIDbzLg6OsKAXA) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Go Bestfriend](https://open.spotify.com/album/0HPVkqp6Vkgoqf6vkOmLJ3) | 2:35 |
 | 12 | [Game Time](https://open.spotify.com/track/575IfhxdIBpiEsjVWzmuyN) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [Game Time](https://open.spotify.com/album/12W3973nhiFVbHaSi2LTE9) | 1:37 |
-| 13 | [GEEK'D UP \(LITERALLY\)](https://open.spotify.com/track/50RZnl0qd4zbJurpFfPwGm) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [BB](https://open.spotify.com/artist/28tk1PiLYWjkVr0fxlleKP), [Teaawhy](https://open.spotify.com/artist/7ikaWAiot7KxyQQx8LICbt), [Milly Mo](https://open.spotify.com/artist/1FbNRjYXMW1sZGjlxaOO9u), [Big I\-N\-D\-O](https://open.spotify.com/artist/06P96M68wB5ZW82bUJIt1T) | [Family Reunion](https://open.spotify.com/album/2UfKO8jHq78gO3v0GYmvAx) | 2:24 |
+| 13 | [GEEK'D UP \(LITERALLY\)](https://open.spotify.com/track/50RZnl0qd4zbJurpFfPwGm) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [BB](https://open.spotify.com/artist/28tk1PiLYWjkVr0fxlleKP), [Teaawhy](https://open.spotify.com/artist/7ikaWAiot7KxyQQx8LICbt), [Milly Mo](https://open.spotify.com/artist/1FbNRjYXMW1sZGjlxaOO9u), [Big I\-N\-D\-O](https://open.spotify.com/artist/06P96M68wB5ZW82bUJIt1T) | [FAMILY REUNION](https://open.spotify.com/album/2UfKO8jHq78gO3v0GYmvAx) | 2:24 |
 | 14 | [Ramen](https://open.spotify.com/track/09Lc6NUGCTJ4ZhH8a2fmFT) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [Joe Moses](https://open.spotify.com/artist/54QA4zjZDOyaLN8bVthBjP), [Nice](https://open.spotify.com/artist/11X4lcw7F1Ej1PfL1XkvPc) | [Ramen](https://open.spotify.com/album/399N0mU6VE8XD813flt9ED) | 2:32 |
 | 15 | [ain't done](https://open.spotify.com/track/5ND9aYmQ7i8Z17l06ugRSD) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [unreleased](https://open.spotify.com/album/6e81zuZl9JgP82NpGWCVpU) | 1:26 |
 | 16 | [So What](https://open.spotify.com/track/70qosWY9iEcX7mcW4aaJnw) | [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [So What](https://open.spotify.com/album/7DOGM89KaIvTKxyqWXr6rw) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 99 | [Truth Is \(feat\. Roddy Ricch\)](https://open.spotify.com/track/3vg3cG1nFVe8Gru8pvgUEZ) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Faith Of A Mustard Seed](https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R) | 2:31 |
 | 100 | [Leanin](https://open.spotify.com/track/6iPo21Q3Yw3k2kWuURTNGM) | [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [Class of 95](https://open.spotify.com/album/52xa6w4IdZ1rq5MklThOUO) | 3:12 |
 
-Snapshot ID: `AAAAANOOdwOvRZRHjHOyCgjy/c+LUW9p`
+Snapshot ID: `aEuiYgAAAAB997AmviA75Bhsqm8ywq7d`

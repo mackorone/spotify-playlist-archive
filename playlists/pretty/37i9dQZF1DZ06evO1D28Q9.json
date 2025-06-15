@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAACHNBju5lAtXn2IqA2e99pc",
+  "snapshot_id": "aEtqAAAAAAD8CF0Yz5RwKNLKBo66LHGz",
   "tracks": [
     {
       "added_at": null,
@@ -1007,26 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pau-de-d\u00e1-em-Doido Mixtape Vol. 01",
-        "url": "https://open.spotify.com/album/7qmVSFFpB6EYDxrnDXASQU"
-      },
-      "artists": [
-        {
-          "name": "DJ Nato_PK",
-          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 206524,
-      "name": "Minha Parte",
-      "url": "https://open.spotify.com/track/5u0H6FMEotfZ97ps5AFcQj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Na Atividade (feat. IZA)",
         "url": "https://open.spotify.com/album/4h1LY8YXe9xLXZl3wmU4gR"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 140444,
       "name": "Na Atividade (feat. IZA)",
       "url": "https://open.spotify.com/track/5QMXwNwtiPrHUBngQ1u3q8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pau-de-d\u00e1-em-Doido Mixtape Vol. 01",
+        "url": "https://open.spotify.com/album/7qmVSFFpB6EYDxrnDXASQU"
+      },
+      "artists": [
+        {
+          "name": "DJ Nato_PK",
+          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 206524,
+      "name": "Minha Parte",
+      "url": "https://open.spotify.com/track/5u0H6FMEotfZ97ps5AFcQj"
     },
     {
       "added_at": null,
@@ -1120,17 +1120,33 @@
           "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
         },
         {
-          "name": "Indee",
-          "url": "https://open.spotify.com/artist/0A0owYhwabaVE440FurVAg"
-        },
-        {
           "name": "Stefanie",
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "En\u00e9zimo",
+          "url": "https://open.spotify.com/artist/5zYUMGYILLHjpsQwBJa3Xu"
+        },
+        {
+          "name": "Eri Q.I.",
+          "url": "https://open.spotify.com/artist/1VCBqiaJjrdy4rXHtJoSkS"
+        },
+        {
+          "name": "Max Musicamente",
+          "url": "https://open.spotify.com/artist/0sSi17zwKrvUgQOZiiQZ5b"
+        },
+        {
+          "name": "Preto-R",
+          "url": "https://open.spotify.com/artist/1heNsKjqxFtnyaDLnXGASL"
+        },
+        {
+          "name": "Andr\u00e9 Sagat",
+          "url": "https://open.spotify.com/artist/754zM25AMHnld1i3GzvbUC"
         }
       ],
-      "duration_ms": 179426,
-      "name": "Ladies In tha House",
-      "url": "https://open.spotify.com/track/3EzALboYhTsi6r62EgyN4X"
+      "duration_ms": 187560,
+      "name": "Perigo",
+      "url": "https://open.spotify.com/track/4PmQCWdTqSIXEUtxxrCsoC"
     },
     {
       "added_at": null,
@@ -1188,33 +1204,17 @@
           "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
         },
         {
+          "name": "Indee",
+          "url": "https://open.spotify.com/artist/0A0owYhwabaVE440FurVAg"
+        },
+        {
           "name": "Stefanie",
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "En\u00e9zimo",
-          "url": "https://open.spotify.com/artist/5zYUMGYILLHjpsQwBJa3Xu"
-        },
-        {
-          "name": "Eri Q.I.",
-          "url": "https://open.spotify.com/artist/1VCBqiaJjrdy4rXHtJoSkS"
-        },
-        {
-          "name": "Max Musicamente",
-          "url": "https://open.spotify.com/artist/0sSi17zwKrvUgQOZiiQZ5b"
-        },
-        {
-          "name": "Preto-R",
-          "url": "https://open.spotify.com/artist/1heNsKjqxFtnyaDLnXGASL"
-        },
-        {
-          "name": "Andr\u00e9 Sagat",
-          "url": "https://open.spotify.com/artist/754zM25AMHnld1i3GzvbUC"
         }
       ],
-      "duration_ms": 187560,
-      "name": "Perigo",
-      "url": "https://open.spotify.com/track/4PmQCWdTqSIXEUtxxrCsoC"
+      "duration_ms": 179426,
+      "name": "Ladies In tha House",
+      "url": "https://open.spotify.com/track/3EzALboYhTsi6r62EgyN4X"
     },
     {
       "added_at": null,

@@ -1085,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "NIENTE DI MALE",
+        "url": "https://open.spotify.com/album/4uZZ29NchGBafGvRaRYVEI"
+      },
+      "artists": [
+        {
+          "name": "Giorgia",
+          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217846,
+      "name": "NIENTE DI MALE",
+      "url": "https://open.spotify.com/track/7CZZxHf4DZxiTnrVxeMqOt"
+    },
+    {
+      "album": {
         "name": "Voglio la gonna",
         "url": "https://open.spotify.com/album/70SXCWuJY7sw8EIblrp3iq"
       },

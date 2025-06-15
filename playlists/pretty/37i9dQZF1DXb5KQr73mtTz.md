@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,147 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,156 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 39 | [Here We Are](https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Liberation Notes OST Part 11](https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A) | 4:19 |
 | 40 | [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 |
 | 41 | [Lighthouse](https://open.spotify.com/track/7MtSbLLRwJQlPE3zRM6Fwy) | [YUN MIN SOO](https://open.spotify.com/artist/1chAxRqxKcAEVRmsMlXScd), [Lee Ye Joon](https://open.spotify.com/artist/0pi0UqDbdqphea7hTxQyby) | [Lighthouse](https://open.spotify.com/album/7HSDyvSeIpgDjU2FtFmCYj) | 4:10 |
-| 42 | [When I Close My Eyes](https://open.spotify.com/track/177RNC6mpCBnry2nF66rYT) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [When I Close My Eyes](https://open.spotify.com/album/4qCeoxwrJVyacT8irO3n4W) | 4:42 |
-| 43 | [Peach Tree](https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Captivating the King, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx) | 3:44 |
+| 42 | [Peach Tree](https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Captivating the King, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx) | 3:44 |
+| 43 | [When I Close My Eyes](https://open.spotify.com/track/177RNC6mpCBnry2nF66rYT) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [When I Close My Eyes](https://open.spotify.com/album/4qCeoxwrJVyacT8irO3n4W) | 4:42 |
 | 44 | [Without U](https://open.spotify.com/track/6uy6OjdR33a74DfkaJ8Ar1) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [O](https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus) | 3:37 |
-| 45 | [last night](https://open.spotify.com/track/3WVBb9WuUsHlfPSewks6oo) | [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [last night](https://open.spotify.com/album/19WqNz0etWx0WvHDD6zYRR) | 3:41 |
-| 46 | [가득 빈 마음에](https://open.spotify.com/track/5wfmGokIYWd3nanQiZhbUE) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [제30회 유재하 음악경연대회](https://open.spotify.com/album/3ZjVQ2syixv8QLunQXYvRO) | 2:57 |
+| 45 | [가득 빈 마음에](https://open.spotify.com/track/5wfmGokIYWd3nanQiZhbUE) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [제30회 유재하 음악경연대회](https://open.spotify.com/album/3ZjVQ2syixv8QLunQXYvRO) | 2:57 |
+| 46 | [last night](https://open.spotify.com/track/3WVBb9WuUsHlfPSewks6oo) | [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [last night](https://open.spotify.com/album/19WqNz0etWx0WvHDD6zYRR) | 3:41 |
 | 47 | [The Island](https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir) | [88\-Keys](https://open.spotify.com/artist/1GnO4Ck1wmhQ7KRiHcTpvE) | [YUMI's Cells 2, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE) | 4:00 |
-| 48 | [Couldn't Sleep](https://open.spotify.com/track/0v3sEZxO7KG6GUR9Sb7RYs) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Couldn't Sleep](https://open.spotify.com/album/4sZn1Pnu33dotSQkLxsDbN) | 3:08 |
-| 49 | [일기](https://open.spotify.com/track/6FPvHr4oLddJr6fpNqo6S0) | [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [일기](https://open.spotify.com/album/4xZ9zHI2Z36YEkbNeSFJHZ) | 5:03 |
-| 50 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 |
+| 48 | [일기](https://open.spotify.com/track/6FPvHr4oLddJr6fpNqo6S0) | [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [일기](https://open.spotify.com/album/4xZ9zHI2Z36YEkbNeSFJHZ) | 5:03 |
+| 49 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 |
+| 50 | [Couldn't Sleep](https://open.spotify.com/track/0v3sEZxO7KG6GUR9Sb7RYs) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Couldn't Sleep](https://open.spotify.com/album/4sZn1Pnu33dotSQkLxsDbN) | 3:08 |
 
 Snapshot ID: `aEZhwAAAAACyM8lJZ5ZRPhnU34pAi3b7`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 
 > focus modus is aan en leren maar
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,360 likes - 158 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,394 likes - 158 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 | 42 | [Supermarket Flowers](https://open.spotify.com/track/4VuS959DSpr82t3qBqCrWG) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:41 |
 | 43 | [Waves](https://open.spotify.com/track/6w8pFOKn42O418qwcQElZ3) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 4:00 |
 | 44 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ) | 3:28 |
-| 45 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 |
-| 46 | [God Needs The Devil](https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [God Needs The Devil](https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl) | 3:12 |
+| 45 | [God Needs The Devil](https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [God Needs The Devil](https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl) | 3:12 |
+| 46 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 |
 | 47 | [Rise Up](https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:13 |
 | 48 | [Remember That Night?](https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night?](https://open.spotify.com/album/239r63fqY8PyWX9WcgwNzP) | 3:47 |
 | 49 | [Not About Angels](https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Not About Angels](https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER) | 3:09 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 | 108 | [Don't Let Me Down](https://open.spotify.com/track/4ks6j7JsfJorc1tb4THJo8) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Covers](https://open.spotify.com/album/5jxXFBCxg9dCJhj1Ev8TNq) | 2:44 |
 | 109 | [ORIGAMI](https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SINK NOW, SWIM LATER](https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k) | 3:02 |
 | 110 | [It Aint me \- Acoustic](https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [It Aint me \(Acoustic\)](https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV) | 3:12 |
-| 111 | [Always](https://open.spotify.com/track/3MQMBm2m3UqpT23doEOZc2) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Always](https://open.spotify.com/album/0PKJ1GtB1639K7P0hbjvfM) | 4:07 |
-| 112 | [Kiss Me \- Acoustic](https://open.spotify.com/track/7xQUulzggtLVXbo8tLwpjc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Kiss Me](https://open.spotify.com/album/23A1VrlL0AyJkv6OpZofNy) | 4:00 |
+| 111 | [Kiss Me \- Acoustic](https://open.spotify.com/track/7xQUulzggtLVXbo8tLwpjc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Kiss Me](https://open.spotify.com/album/23A1VrlL0AyJkv6OpZofNy) | 4:00 |
+| 112 | [Always](https://open.spotify.com/track/3MQMBm2m3UqpT23doEOZc2) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Always](https://open.spotify.com/album/0PKJ1GtB1639K7P0hbjvfM) | 4:07 |
 | 113 | [LIE DOWN..](https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [LIE DOWN..](https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf) | 5:09 |
 | 114 | [Fortitude](https://open.spotify.com/track/7DVDhXLWkxtUVNHqXtJEpb) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/3O566wiW97oPoP3QzSYF7P) | 3:33 |
 | 115 | [Easy](https://open.spotify.com/track/4yZSlqXWEeZ7M2eUiGi7dQ) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes](https://open.spotify.com/album/5Rhr4ga3sBtnFcX7dVDh8Q) | 3:20 |
@@ -149,11 +149,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 | 139 | [Beneath Your Beautiful \(feat\. Emeli Sandé\)](https://open.spotify.com/track/1wVcLKdJ4AFKPhKucNvEpy) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Beneath Your Beautiful](https://open.spotify.com/album/3eXbGItoetZbAKx5gxKcq8) | 4:31 |
 | 140 | [You Let Me Walk Alone](https://open.spotify.com/track/2VE2Ys42iJr9q9rVucRJT4) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [You Let Me Walk Alone](https://open.spotify.com/album/2zxvzQeDY4lmXsJnS6Hxun) | 2:57 |
 | 141 | [I'm Not The Only One](https://open.spotify.com/track/5WLtenwEwifJHYTUw514RH) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV) | 3:59 |
-| 142 | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/track/61iyAeMVUNu7vIVqedsBFB) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Feline \(Deluxe\)](https://open.spotify.com/album/0AbUYFSGVNegJoajijrRvM) | 3:56 |
-| 143 | [Brick By Brick](https://open.spotify.com/track/1et21CEjWh8BO5nrdV4CNQ) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [All In Good Time](https://open.spotify.com/album/6buecvSq8FY2bRYSpBj4YE) | 3:45 |
-| 144 | [In My Head](https://open.spotify.com/track/3InxJ55D8l1e4ZER6DRqvP) | [Peter Manos](https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal) | [In My Head](https://open.spotify.com/album/5u9T6HcXTS04b6QYpA6hn1) | 3:34 |
-| 145 | [House of Cards](https://open.spotify.com/track/58GufL5ouunj41e6QV65bw) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [House of Cards](https://open.spotify.com/album/4ElbBl74bLrx5yu8RXqh9z) | 3:34 |
-| 146 | [Purpose](https://open.spotify.com/track/3jHCXrZNz8fQEEf4BpWCAj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a) | 3:30 |
+| 142 | [Purpose](https://open.spotify.com/track/3jHCXrZNz8fQEEf4BpWCAj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a) | 3:30 |
+| 143 | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/track/61iyAeMVUNu7vIVqedsBFB) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Feline \(Deluxe\)](https://open.spotify.com/album/0AbUYFSGVNegJoajijrRvM) | 3:56 |
+| 144 | [Brick By Brick](https://open.spotify.com/track/1et21CEjWh8BO5nrdV4CNQ) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [All In Good Time](https://open.spotify.com/album/6buecvSq8FY2bRYSpBj4YE) | 3:45 |
+| 145 | [In My Head](https://open.spotify.com/track/3InxJ55D8l1e4ZER6DRqvP) | [Peter Manos](https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal) | [In My Head](https://open.spotify.com/album/5u9T6HcXTS04b6QYpA6hn1) | 3:34 |
+| 146 | [House of Cards](https://open.spotify.com/track/58GufL5ouunj41e6QV65bw) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [House of Cards](https://open.spotify.com/album/4ElbBl74bLrx5yu8RXqh9z) | 3:34 |
 | 147 | [Let The River In](https://open.spotify.com/track/4iHgZ72mPU8XF1IsAatAj8) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers \(Special Edition\)](https://open.spotify.com/album/0HKGIx3r0cIl1cNZs5JMfV) | 3:07 |
 | 148 | [This Town](https://open.spotify.com/track/3UwT4FadEGWyMdaSwYcUBY) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/3QLB5s0MY7ERTwh4GpNMkf) | 3:52 |
 | 149 | [Catch & Release](https://open.spotify.com/track/3lsKY1alCeIrwkaYRI4sxV) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Catch & Release](https://open.spotify.com/album/1nOS6PITU27mls9l2TH4r4) | 4:00 |

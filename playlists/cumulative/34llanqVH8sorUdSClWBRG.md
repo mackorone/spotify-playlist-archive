@@ -4,7 +4,7 @@
 
 > Mental illness
 
-58 songs - 3 hr 13 min
+59 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [I'm Not Ok](https://open.spotify.com/track/17weS3aO2oaGYJ9Q9yM56X) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Kids In The Night](https://open.spotify.com/album/2Qq8f0QWdoBSxk2pxjEQmH) | 3:01 | 2024-02-19 |  |
 | [I'm Not Okay \(I Promise\)](https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:06 | 2024-10-27 |  |
 | [I\`m OK](https://open.spotify.com/track/6bkzn3e9gtiP0xJTJnQ2eM) | [Little Big](https://open.spotify.com/artist/0pnd3MP2rxAzljR9AqXUJB) | [I\`m OK](https://open.spotify.com/album/2WfSPgV1Bm4RWhP9cEG622) | 3:07 | 2024-10-09 |  |
+| [Inexplicable](https://open.spotify.com/track/3G05DblSK0kTRwE2SG7clZ) | [The Correspondents](https://open.spotify.com/artist/3VvmUsYPzFheK2wJGKcXxp) | [Inexpicable](https://open.spotify.com/album/3RICruUJtlqzGPiBZ6BQX4) | 4:15 | 2025-06-14 |  |
 | [Letter from Belgium](https://open.spotify.com/track/4ntR3OteArnBskcrUbYqkm) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [We Shall All Be Healed](https://open.spotify.com/album/45KMV5nuTYdfXBfH3RR98Z) | 3:11 | 2024-12-08 |  |
 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 | 2024-01-02 |  |
 | [Masher](https://open.spotify.com/track/5aqtEq5sJJlrVoPZTjI0Yj) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Full Force Galesburg](https://open.spotify.com/album/429c9crfLRTZDj6VQ7EXrM) | 3:21 | 2024-11-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Alex G
 
-[Spotify](https://open.spotify.com/user/spotify) - 721,877 likes - 79 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,821 likes - 79 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 78 | [No Love](https://open.spotify.com/track/35hdttiIfLS8MkZPZgRNMx) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Get Sunk](https://open.spotify.com/album/7a2Z3UzPx9HHbRgsJbytdz) | 3:55 |
 | 79 | [On This Love](https://open.spotify.com/track/25s2Q50d7ahhF7rMoGZkzF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [On This Love](https://open.spotify.com/album/4dGflZ7TPuYgPVrYOhiPjd) | 2:49 |
 
-Snapshot ID: `aEtb+gAAAAAr5MiYdHASml4lfZ1A5HDu`
+Snapshot ID: `aEtb+gAAAABfCQBTVRlEVJUGaGhcpLvZ`

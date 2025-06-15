@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Capo Plaza, Fabri Fibra, Slings e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,514 likes - 136 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,535 likes - 136 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 35 | [Mi Gira](https://open.spotify.com/track/2iY3JGcs3pBoQDQAJjWURb) | [Pippo Bravo](https://open.spotify.com/artist/793YpSClq4GMaFuJxhr5N0), [La traviesa malcría](https://open.spotify.com/artist/3OKlJrSBwCQSGnWZOQ2zeW), [Dimelo jey](https://open.spotify.com/artist/4jXnZDIoQc490sT8Z3FJyr) | [Mi Gira](https://open.spotify.com/album/4vMmgdApY34vlWnhZkeu88) | 1:42 |
 | 36 | [Blocchi Di Marmo](https://open.spotify.com/track/3vroWIW7Nr49JRnKSizPjd) | [Lanz Khan](https://open.spotify.com/artist/2AtGepWdw4TVBnE8cBszuL), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr), [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [Dj Double S](https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0) | [Blocchi Di Marmo](https://open.spotify.com/album/7CI8hDGW3FcTKoQujg7nQn) | 3:39 |
 | 37 | [AMOR DE CARTEL](https://open.spotify.com/track/0k4aZmrlDMI3pncVD2dZ0B) | [3dnan](https://open.spotify.com/artist/0sYwl6DQa61XcXmqaWQldz), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [AMOR DE CARTEL](https://open.spotify.com/album/7BJjYuVTFw5zKwcltYBztH) | 2:43 |
-| 38 | [Assassina](https://open.spotify.com/track/59BCaEOeY2I1zTgnxXwiFd) | [Ciro Zero](https://open.spotify.com/artist/1aLtB5Kl02MrY8tWAL5xeE) | [Assassina](https://open.spotify.com/album/5OWaSNnkxee6BCGmGnJsTj) | 2:05 |
+| 38 | [Assassina](https://open.spotify.com/track/59BCaEOeY2I1zTgnxXwiFd) | [Ciro Zero](https://open.spotify.com/artist/1aLtB5Kl02MrY8tWAL5xeE), [Haxia](https://open.spotify.com/artist/02ThCXGGC4HPDsaYVKfisx) | [Assassina](https://open.spotify.com/album/5OWaSNnkxee6BCGmGnJsTj) | 2:05 |
 | 39 | [Odio profondo \(feat\. Edoardo Tavassi\)](https://open.spotify.com/track/3cDPFTMqldga0nixjttgYO) | [Drojette](https://open.spotify.com/artist/7ilioqEIB98582y6xSR9ln), [Swann](https://open.spotify.com/artist/56uj5pVUXA8jELaj096IJX), [Edoardo Tavassi](https://open.spotify.com/artist/2fonxHK7ajdBTJoZTK6XUl) | [Via VAI D’AMORE D'ANSIA E DI ALTRE SCIOCCHEZZE](https://open.spotify.com/album/7705PylKtGkrjx8lJw5Iy1) | 2:26 |
 | 40 | [Borchie](https://open.spotify.com/track/5kIUE81Pe83OKH5u2srl3c) | [Bussø](https://open.spotify.com/artist/0E9ZZAfYoNvEO77tpnlHTi) | [Borchie](https://open.spotify.com/album/7aRIhRNbIN8diTue9VUM6k) | 1:40 |
 | 41 | [NIENTE DA PERDERE](https://open.spotify.com/track/2MfXdaIGDwxQeOYudiwJZN) | [Baby Sosa](https://open.spotify.com/artist/7jg5p3qrEEKY7fqNzgoJ9K), [Blackmill](https://open.spotify.com/artist/5SeYas0LiuReImA5tTojc0) | [NIENTE DA PERDERE](https://open.spotify.com/album/4NPF0PuXBl4tUkDJuHPjfO) | 2:40 |

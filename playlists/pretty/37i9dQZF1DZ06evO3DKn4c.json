@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 39320,
+  "num_followers": 39322,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAC2Nf22/ZMDgg0QPtq5XeK2",
+  "snapshot_id": "aEtqAAAAAAA9w0fxJLQrDzlRxeVzvYwT",
   "tracks": [
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pique Peaky Blinders",
-        "url": "https://open.spotify.com/album/5PYCa2wn42rxBgKKdg8HhD"
+        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
+        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 185604,
-      "name": "Pique Peaky Blinders",
-      "url": "https://open.spotify.com/track/3PbWQTnOxpbZCyGjZuWUhk"
+      "duration_ms": 244239,
+      "name": "Falando do Meu Bem",
+      "url": "https://open.spotify.com/track/2mAenBc4RyeokOVC19oqqa"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
+        "name": "Pique Peaky Blinders",
+        "url": "https://open.spotify.com/album/5PYCa2wn42rxBgKKdg8HhD"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 244239,
-      "name": "Falando do Meu Bem",
-      "url": "https://open.spotify.com/track/2mAenBc4RyeokOVC19oqqa"
+      "duration_ms": 185604,
+      "name": "Pique Peaky Blinders",
+      "url": "https://open.spotify.com/track/3PbWQTnOxpbZCyGjZuWUhk"
     },
     {
       "added_at": null,
@@ -763,42 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rael Convida: Black Alien (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 177746,
-      "name": "Sangue de Free - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/26iz49YLrEiZhBRfMpuX0e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 212725,
-      "name": "Homem de Fam\u00edlia",
-      "url": "https://open.spotify.com/track/34CKVzQJk6T6XsKwNh2cpN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Insolente",
         "url": "https://open.spotify.com/album/7mMAxGxVUdblaH1sLrvPXB"
       },
@@ -819,6 +783,42 @@
       "duration_ms": 214187,
       "name": "Black Belt (feat. Black Alien & Bi Ribeiro)",
       "url": "https://open.spotify.com/track/2UtZyVQIghFcIvm1MxpRd6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
+        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 212725,
+      "name": "Homem de Fam\u00edlia",
+      "url": "https://open.spotify.com/track/34CKVzQJk6T6XsKwNh2cpN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rael Convida: Black Alien (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 177746,
+      "name": "Sangue de Free - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/26iz49YLrEiZhBRfMpuX0e"
     },
     {
       "added_at": null,
@@ -859,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
+        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 67576,
+      "name": "1972 (Intro)",
+      "url": "https://open.spotify.com/track/3qh1kOwaAbSswJVgNlXaHP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rael Convida: Black Alien (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 241653,
       "name": "Terra - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2raY0UodsOKaKxV9pP8d5T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 67576,
-      "name": "1972 (Intro)",
-      "url": "https://open.spotify.com/track/3qh1kOwaAbSswJVgNlXaHP"
     }
   ],
   "unique_name": "This Is Black Alien",

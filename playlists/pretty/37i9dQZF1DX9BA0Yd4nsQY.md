@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BA0Yd4nsQY.md) - [plain]
 
 > You are the main character of your own story\. The fate of the world depends on you...and of course there are side quests.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,467 likes - 41 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,490 likes - 41 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BA0Yd4nsQY.md) - [plain]
 | 40 | [光の跡](https://open.spotify.com/track/4QOTrPksb0oe1d7iJ8VZ89) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 4:10 |
 | 41 | [Lifetime](https://open.spotify.com/track/0nAoRNtRXFX0CofMme9Rw4) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [THE MAGICAL TOUCH](https://open.spotify.com/album/6NbFZ5FRVocK8Re3pSJu4t) | 3:23 |
 
-Snapshot ID: `Z5oytQAAAAD5/uUMPxtWfedVKSqrCjTG`
+Snapshot ID: `AAAAAOA2QW4610nR06WRjS/g03XqXD1q`

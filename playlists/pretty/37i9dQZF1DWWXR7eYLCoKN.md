@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,408 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,428 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 42 | [Entretanto](https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Minha Cara](https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe) | 3:57 |
 | 43 | [Nervos de Aço \- Ao Vivo](https://open.spotify.com/track/0CmDA5WHBM2qk7pKkaao3V) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Loucura: Adriana Calcanhotto Canta Lupicínio Rodrigues \(Ao Vivo\)](https://open.spotify.com/album/11wB3oHSDq1chRBqegtLa2) | 2:00 |
 | 44 | [Alegria / o Sol Nascerá](https://open.spotify.com/track/0lI75kXFjBF9FCL7PGWTji) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Sambas & Bossas](https://open.spotify.com/album/3BmqqPiJw5xmmQBdpr8Q3S) | 4:09 |
-| 45 | [Tristeza Pé No Chão](https://open.spotify.com/track/2NqeDvrZpwUQLP0Uwcdw4L) | [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151) | [Canto Sagrado \- Uma Homenagem à Clara Nunes](https://open.spotify.com/album/2Ma8jKWBczZsqzZS4jeIzo) | 4:24 |
-| 46 | [Coisa de Louco](https://open.spotify.com/track/6XkGn0O46URevLIgKY7RV4) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Ninguém Proíbe o Amor](https://open.spotify.com/album/49MDngi8Qu6oQIFnRxuJmq) | 3:54 |
-| 47 | [LONGE LONGE DE MIM](https://open.spotify.com/track/6p69ERue7tvSXy4Eisa3jI) | [Ava Rocha](https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ) | [NEKTAR](https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg) | 3:26 |
+| 45 | [LONGE LONGE DE MIM](https://open.spotify.com/track/6p69ERue7tvSXy4Eisa3jI) | [Ava Rocha](https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ) | [NEKTAR](https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg) | 3:26 |
+| 46 | [Tristeza Pé No Chão](https://open.spotify.com/track/2NqeDvrZpwUQLP0Uwcdw4L) | [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151) | [Canto Sagrado \- Uma Homenagem à Clara Nunes](https://open.spotify.com/album/2Ma8jKWBczZsqzZS4jeIzo) | 4:24 |
+| 47 | [Coisa de Louco](https://open.spotify.com/track/6XkGn0O46URevLIgKY7RV4) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Ninguém Proíbe o Amor](https://open.spotify.com/album/49MDngi8Qu6oQIFnRxuJmq) | 3:54 |
 | 48 | [Samba de Amanda e Té](https://open.spotify.com/track/6xWOiauYbwhl7VgznlCAoc) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 3:16 |
 | 49 | [Histórias Pra Ninar Gente Grande](https://open.spotify.com/track/5thOB6WCgzFvmLzxz4sd5G) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Mangueira \- a Menina Dos Meus Olhos](https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC) | 2:37 |
 | 50 | [Santo Toque](https://open.spotify.com/track/1owJVm7Cbq3Fv68LPMON0v) | [Sambaiana](https://open.spotify.com/artist/5gGjpgad4tcVWMv4mlOw7a), [Marília Sodré](https://open.spotify.com/artist/4vFvo1osQ1NCjyKnFD6hVh), [Ju Moraes](https://open.spotify.com/artist/19P3N1zEBTIeW3I0cyVthZ), [Rayra Mayara](https://open.spotify.com/artist/2JxBztEP6d5277y39owSBb), [Lalá Evangelista](https://open.spotify.com/artist/5wTHY9NhwtH1Q84hJcwJHr), [Grace Profeta](https://open.spotify.com/artist/6UvvBk4jun0UH6IiMAZCko), [Marcinha BB](https://open.spotify.com/artist/4KGopYW2G8P41kyEXlYLU7) | [Santo Toque](https://open.spotify.com/album/3BeLqGYy2LVtNpE9KuhHuy) | 3:22 |

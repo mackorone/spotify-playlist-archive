@@ -499,26 +499,6 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "TRAP OR DIE",
-        "url": "https://open.spotify.com/album/1HU76pMBDYXhvPr8IwviVS"
-      },
-      "artists": [
-        {
-          "name": "bambi",
-          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
-        },
-        {
-          "name": "francis",
-          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
-        }
-      ],
-      "duration_ms": 159463,
-      "name": "MADONNA",
-      "url": "https://open.spotify.com/track/4fyuRAFi2Zigy7kgk5Sq4v"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
         "name": "V24",
         "url": "https://open.spotify.com/album/4joqm6ZEgf3TursOzJNxFW"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 187415,
       "name": "NAPALONE FANKI",
       "url": "https://open.spotify.com/track/4OWBn64RFLynn4o4KMwkF1"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
+        "name": "TRAP OR DIE",
+        "url": "https://open.spotify.com/album/1HU76pMBDYXhvPr8IwviVS"
+      },
+      "artists": [
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        },
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        }
+      ],
+      "duration_ms": 159463,
+      "name": "MADONNA",
+      "url": "https://open.spotify.com/track/4fyuRAFi2Zigy7kgk5Sq4v"
     },
     {
       "added_at": "2025-04-24 21:35:46",

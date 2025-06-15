@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Gunna, Lil Tecca, 2 Chainz and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,264 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,418 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 11 | [GEESKI mode 11am FINISHED](https://open.spotify.com/track/1fp4xsU0LSDh57s4RYeOPv) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 2:31 |
 | 12 | [Go Bestfriend](https://open.spotify.com/track/3QaKunnZFIDbzLg6OsKAXA) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Go Bestfriend](https://open.spotify.com/album/0HPVkqp6Vkgoqf6vkOmLJ3) | 2:35 |
 | 13 | [Distant Strangers \(feat\. The Kid LAROI & Imogen Heap\)](https://open.spotify.com/track/7oa9VKcTKyWIYTnaz5V6xI) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Distant Strangers \(feat\. The Kid LAROI & Imogen Heap\)](https://open.spotify.com/album/1cwp5FEVGQaKoBV1WPbIdJ) | 2:45 |
-| 14 | [Seventeen](https://open.spotify.com/track/3VgFxRLEvav1ewTx5IaROh) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Seventeen](https://open.spotify.com/album/1xZkfphab61c5kqctCexP7) | 3:14 |
+| 14 | [Seventeen](https://open.spotify.com/track/3VgFxRLEvav1ewTx5IaROh) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Seventeen](https://open.spotify.com/album/1xZkfphab61c5kqctCexP7) | 3:13 |
 | 15 | [Kill The Scene](https://open.spotify.com/track/09bHNnYV6Oj7lQKybEkLoz) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Kill The Scene](https://open.spotify.com/album/6WMjTyhEPS7oWMAPfsoIDW) | 2:27 |
 | 16 | [I LIE](https://open.spotify.com/track/5LH189w5B5XeECfKbELs6H) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [I LIE](https://open.spotify.com/album/0QN26woxii8wPVt4j5tBO2) | 2:16 |
 | 17 | [Hood Cry](https://open.spotify.com/track/04hszpzZPMijTmaknHOyL4) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Hood Cry](https://open.spotify.com/album/7nA9R4BnhumlEE68gO461G) | 3:25 |

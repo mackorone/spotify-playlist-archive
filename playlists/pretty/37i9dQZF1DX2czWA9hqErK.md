@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 
 > Make every day feel like Sunday
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,352,032 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,351,952 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 23 | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U) | 4:07 |
 | 24 | [Sleeping On It](https://open.spotify.com/track/0Phrnlx3qNUN1CIUxm6Ct4) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [Sleeping On It](https://open.spotify.com/album/33RAucopvQ0YK24w3KMiWU) | 3:42 |
 | 25 | [back 2 ya](https://open.spotify.com/track/53Th2VpumeGLqw5aZw1cIp) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [man oh man !](https://open.spotify.com/album/3ceQB5KZjY2EI7F2b9h1pQ) | 2:53 |
-| 26 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 |
-| 27 | [Stay For Something](https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 3:36 |
+| 26 | [Stay For Something](https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 3:36 |
+| 27 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 |
 | 28 | [Woman](https://open.spotify.com/track/2wgJQ9WRepYUtNNvq5a4pj) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 2:31 |
 | 29 | [Olive Tree](https://open.spotify.com/track/52vHgE4QfUoEyn8h3IqT7T) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Olive Tree](https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG) | 4:01 |
 | 30 | [Feeling](https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeling](https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq) | 3:20 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 37 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 |
 | 38 | [Daydreaming](https://open.spotify.com/track/68P2Y5cUBxwDfneL8cFJJ4) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [Daydreaming](https://open.spotify.com/album/42vQ4SVYUBt7MZN2j2ZB14) | 3:19 |
 | 39 | [I'd Have to Think About It](https://open.spotify.com/track/3MkEVGXroAZV4BAtBV9yOf) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/13NV9whHhEz1qhD2XqiawI) | 2:30 |
-| 40 | [Emily and Me](https://open.spotify.com/track/67cpAwhrwj0MQoidTigHVX) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Emily and Me](https://open.spotify.com/album/4WOMRf6IGT91cVl2wybIoY) | 4:12 |
-| 41 | [You Noticed](https://open.spotify.com/track/6Tgas0pOMx9sG8cRx5JaUX) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:30 |
+| 40 | [You Noticed](https://open.spotify.com/track/6Tgas0pOMx9sG8cRx5JaUX) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:30 |
+| 41 | [Emily and Me](https://open.spotify.com/track/67cpAwhrwj0MQoidTigHVX) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [Emily and Me](https://open.spotify.com/album/4WOMRf6IGT91cVl2wybIoY) | 4:12 |
 | 42 | [Frances](https://open.spotify.com/track/1aWgq6UfTHralw5xL1Drs0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:52 |
 | 43 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 |
 | 44 | [Old Man](https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Old Man](https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5) | 3:27 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 71 | [Paint My Bedroom Black](https://open.spotify.com/track/7cK2XNWfStvxYg6NOfFLoe) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 3:49 |
 | 72 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 |
 | 73 | [Beautiful That Way \- from The Last Showgirl Original Motion Picture Soundtrack](https://open.spotify.com/track/3KY6LuQngmpeNAl55Kxy1A) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [The Last Showgirl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NoC6ko2oJ7BnbTRBnNg7G) | 2:20 |
-| 74 | [Reach Out And Kiss Me](https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Reach Out And Kiss Me](https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX) | 3:30 |
-| 75 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 |
+| 74 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 |
+| 75 | [Reach Out And Kiss Me](https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Reach Out And Kiss Me](https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX) | 3:30 |
 | 76 | [guilty](https://open.spotify.com/track/3RKi7aE2RwbJAAx9SujV6L) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [guilty](https://open.spotify.com/album/0eCE4PH89sq8oZz0yWGqjd) | 2:48 |
 | 77 | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj) | 2:08 |
 | 78 | [Be Still](https://open.spotify.com/track/5iRAP5qArzW7EjLGyLpPza) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [Be Still](https://open.spotify.com/album/6CI0Mg4tlEUOFAVdZwmtDg) | 4:01 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 88 | [Fall on Me](https://open.spotify.com/track/10wIeKaNvOaUgvzUUfwu7L) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Fall on Me](https://open.spotify.com/album/3WFSscg1CmMws760Eir9Ot) | 3:36 |
 | 89 | [Fade Into A Dream](https://open.spotify.com/track/35iZzmaczlIzgSoThF3WdI) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Circles](https://open.spotify.com/album/1GuTKVeOdoJSNaMZadsL5c) | 2:51 |
 | 90 | [Save My Heart](https://open.spotify.com/track/1ffuj3LkTKRj20507nRwMl) | [Bradley Marshall](https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y) | [Save My Heart](https://open.spotify.com/album/6nfMJRyxIK6K3RtTmPXEsL) | 3:01 |
-| 91 | [I Don´t Feel](https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [I Don´t Feel](https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr) | 3:28 |
-| 92 | [To Be Loved](https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Beautifully Ordinary](https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8) | 5:04 |
+| 91 | [To Be Loved](https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Beautifully Ordinary](https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8) | 5:04 |
+| 92 | [I Don´t Feel](https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [I Don´t Feel](https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr) | 3:28 |
 | 93 | [Easy](https://open.spotify.com/track/4nK65ApbNqnfdvyaCdwMBY) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf) | [Easy](https://open.spotify.com/album/3kXDo4WE2zLtqBlyvEgqZK) | 2:49 |
 | 94 | [Miles](https://open.spotify.com/track/4eI0cTeYray8jcBxlFjl2z) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Miles](https://open.spotify.com/album/5NTwzn0gyfspqs0CgRXAnK) | 2:35 |
 | 95 | [Someone That's Better](https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Someone That's Better](https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8) | 2:13 |
 | 96 | [Over and Over](https://open.spotify.com/track/6vnPpO4fF6FvjGysp7yWNh) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Over and Over](https://open.spotify.com/album/31TTw2uKYx1sfvXTZe3WvJ) | 3:14 |
 | 97 | [Sweet Nothings](https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Sweet Nothings](https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh) | 2:53 |
-| 98 | [Don't Fall Asleep](https://open.spotify.com/track/3yWgZ1TZIKciCo1Za6GDFa) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Don't Fall Asleep](https://open.spotify.com/album/6VsPNDbUlGL0Ybdg5e7EQu) | 4:29 |
-| 99 | [A Wonder Day](https://open.spotify.com/track/4vu2cZ7d1Etx43jmQJWyO2) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [A Wonder Day](https://open.spotify.com/album/75id1mpGPHtg5jSEDGoC8Z) | 3:29 |
+| 98 | [A Wonder Day](https://open.spotify.com/track/4vu2cZ7d1Etx43jmQJWyO2) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [A Wonder Day](https://open.spotify.com/album/75id1mpGPHtg5jSEDGoC8Z) | 3:29 |
+| 99 | [Don't Fall Asleep](https://open.spotify.com/track/3yWgZ1TZIKciCo1Za6GDFa) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Don't Fall Asleep](https://open.spotify.com/album/6VsPNDbUlGL0Ybdg5e7EQu) | 4:29 |
 | 100 | [Scary Movie](https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Chloe Qisha](https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM) | 2:44 |
 
 Snapshot ID: `aC+sfAAAAAADY5x+KgIedhFAjlvxfYE4`

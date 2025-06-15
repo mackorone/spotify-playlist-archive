@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-600 songs - 1 day 12 hr 40 min
+601 songs - 1 day 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [GRIT](https://open.spotify.com/track/11FABIv3ns0K7lHEPi62LU) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [GRIT](https://open.spotify.com/album/0caAMH2CVBEEN3X1up9bKh) | 2:39 | 2025-05-27 | 2025-06-03 |
 | [GRIT](https://open.spotify.com/track/4bDFucME4JFCU9CD8Nhzer) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [GRIT](https://open.spotify.com/album/1pEXSSCCIJVFUZEu4Lpf6S) | 2:39 | 2025-06-02 | 2025-06-12 |
 | [Habit](https://open.spotify.com/track/2uMNMcjjUz8oNIxjIu20qE) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Habit](https://open.spotify.com/album/690rpRAbQW5LNPrbP27M9U) | 4:13 | 2022-05-12 | 2023-05-28 |
+| [Hachikō](https://open.spotify.com/track/4WhHNXBgRglnkjy7TMzgdh) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hachikō](https://open.spotify.com/album/0qxIGHOXFdqiJEOqbUv5DR) | 4:30 | 2025-06-14 |  |
 | [Hai Yorokonde](https://open.spotify.com/track/6woV8uWxn7rcLZxJKYruS1) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [Hai Yorokonde](https://open.spotify.com/album/1wz8OHzR2Z9DduiN8v86Tz) | 2:41 | 2024-07-12 | 2025-02-20 |
 | [Hana](https://open.spotify.com/track/02tNuntKQsoou5T4O8meyh) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hana](https://open.spotify.com/album/0v6vQ9tMopUTccn0wUvzQD) | 4:06 | 2023-10-14 | 2024-04-19 |
 | [HAPPY BIRTHDAY](https://open.spotify.com/track/4FMz2RFrbDGzJO7K4D0vS3) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [MAGIC](https://open.spotify.com/album/4dERKKPWhbvX7zxFTzNzNn) | 4:18 | 2024-04-18 | 2025-04-04 |
@@ -180,7 +181,7 @@
 | [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 | 2023-09-13 | 2023-12-05 |
 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 | 2023-08-26 | 2023-08-28 |
 | [Make you happy](https://open.spotify.com/track/1LnJVIG1BaHTRznuOgR0yc) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Make you happy](https://open.spotify.com/album/1wIIu2i7A56TlMD99CVNQD) | 3:04 | 2021-03-27\* | 2021-08-04 |
-| [Marigold](https://open.spotify.com/track/5NqGfELjcdvRIUuhgZJ34W) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Momentary Sixth Sense](https://open.spotify.com/album/2JzVi6d4gLdVFemJKJSPJf) | 5:06 | 2024-01-17 |  |
+| [Marigold](https://open.spotify.com/track/5NqGfELjcdvRIUuhgZJ34W) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Momentary Sixth Sense](https://open.spotify.com/album/2JzVi6d4gLdVFemJKJSPJf) | 5:06 | 2024-01-17 | 2025-06-15 |
 | [MASCARA](https://open.spotify.com/track/4OelNEcxPGoCOU29fchcsv) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MASCARA](https://open.spotify.com/album/6kg4TcS486fnIuS4Dml8uG) | 3:11 | 2022-07-13 | 2022-09-19 |
 | [masshiro \(pure white\)](https://open.spotify.com/track/00WTRpkXPTms4ah74VurQi) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [masshiro \(pure white\)](https://open.spotify.com/album/6YChKs8gVLOWqQhmUyybOg) | 4:54 | 2025-03-01 | 2025-05-11 |
 | [Masterplan](https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Masterplan](https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz) | 3:32 | 2024-04-24 | 2024-06-11 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Kali Uchis. The essential tracks, all in one playlist.",
-  "num_followers": 280214,
+  "num_followers": 280286,
   "original_name": "This Is Kali Uchis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAD9Yz3oyHSU1PNUw6gp385S",
+  "snapshot_id": "aEtqAAAAAACC/sXyr+73yzQxW2TNM+DF",
   "tracks": [
     {
       "added_at": null,
@@ -446,11 +446,15 @@
         {
           "name": "Kali Uchis",
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 129448,
-      "name": "Hasta Cuando",
-      "url": "https://open.spotify.com/track/4ipzXe2jmoeN7zm2VMb4eX"
+      "duration_ms": 178274,
+      "name": "Fantasy (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v"
     },
     {
       "added_at": null,
@@ -522,15 +526,11 @@
         {
           "name": "Kali Uchis",
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 178274,
-      "name": "Fantasy (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v"
+      "duration_ms": 129448,
+      "name": "Hasta Cuando",
+      "url": "https://open.spotify.com/track/4ipzXe2jmoeN7zm2VMb4eX"
     },
     {
       "added_at": null,

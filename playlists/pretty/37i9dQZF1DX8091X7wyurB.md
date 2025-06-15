@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,249 likes - 80 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,489 likes - 80 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 52 | [Messiah Majesty](https://open.spotify.com/track/3L4tDbttaZFWBECYiO5R7H) | [SONOJ ONOJA](https://open.spotify.com/artist/6zHRpFSVzYf53NzQ74UCpM) | [Messiah Majesty](https://open.spotify.com/album/5fcSCPpVAf4nkbl1SNXOMC) | 4:29 |
 | 53 | [YET \(feat\. Ashley Hess & the King will come\)](https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Ashley Hess](https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N), [the King will come](https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8) | [YET \(feat\. Ashley Hess & the King will come\)](https://open.spotify.com/album/5UrquVUYkl6qbyHkip4SNb) | 5:50 |
 | 54 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |
-| 55 | [Tare \(Live\)](https://open.spotify.com/track/4KtT8dN9QaCPNwxtJwhKmB) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Tare \(Live\)](https://open.spotify.com/album/1rlFzowjP2vHdilHAvSU7v) | 7:57 |
-| 56 | [Jesus](https://open.spotify.com/track/7q7Y5GnBKLlQONTERBPMzZ) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Jesus](https://open.spotify.com/album/3e599loTbI1Dslk0gz7Frb) | 4:00 |
+| 55 | [Jesus](https://open.spotify.com/track/7q7Y5GnBKLlQONTERBPMzZ) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Jesus](https://open.spotify.com/album/3e599loTbI1Dslk0gz7Frb) | 4:00 |
+| 56 | [Tare \(Live\)](https://open.spotify.com/track/4KtT8dN9QaCPNwxtJwhKmB) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Tare \(Live\)](https://open.spotify.com/album/1rlFzowjP2vHdilHAvSU7v) | 7:57 |
 | 57 | [MIRACLE CHILD](https://open.spotify.com/track/5v5njFL7J6kb2ncCsgXszl) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [COAT OF MANY COLORS](https://open.spotify.com/album/44dncCBiOODhAa9L0UCvoE) | 4:03 |
 | 58 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 |
 | 59 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 |
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 72 | [New Generation](https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [New Generation](https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0) | 10:48 |
 | 73 | [Chinedum](https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:40 |
 | 74 | [In Christ Alone](https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [In Christ Alone](https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V) | 4:39 |
-| 75 | [You are Yahweh](https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Faith is Rising](https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs) | 4:39 |
-| 76 | [Gonna Be Good](https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Gonna Be Good](https://open.spotify.com/album/6Y60vIyAVwhGLmC9CcAu1g) | 3:03 |
-| 77 | [These Are The Days](https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:50 |
+| 75 | [Gonna Be Good](https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Gonna Be Good](https://open.spotify.com/album/6Y60vIyAVwhGLmC9CcAu1g) | 3:03 |
+| 76 | [These Are The Days](https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:50 |
+| 77 | [You are Yahweh](https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Faith is Rising](https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs) | 4:39 |
 | 78 | [We Move](https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [We Move](https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc) | 4:47 |
 | 79 | [Holy Spirit](https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Holy Spirit](https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0) | 5:51 |
 | 80 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 |

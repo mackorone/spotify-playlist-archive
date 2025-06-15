@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAACpxgJ/SX7WAYBizrwy1sC1",
+  "snapshot_id": "aEtqAAAAAABMlRiMsZv7EFfS5Qpa5gXt",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,6 @@
       "duration_ms": 256106,
       "name": "Slipping Away",
       "url": "https://open.spotify.com/track/5YrcfV2qcH5cTw9LqvOF2s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quick The Word Sharp The Action",
-        "url": "https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 209093,
-      "name": "She Is Poison",
-      "url": "https://open.spotify.com/track/3omFnVaIxHHUgOGLpS6OHX"
     }
   ],
   "unique_name": "This Is Hundred Reasons",

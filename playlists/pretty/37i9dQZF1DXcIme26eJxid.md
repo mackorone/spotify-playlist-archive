@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 
 > The most known Afro\-pop classics, all in one place! Cover: Lijadu Sisters
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,311 likes - 40 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,355 likes - 40 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 17 | [Living Music](https://open.spotify.com/track/2e8OoF7KghSpQ1MdsX7sJd) | [Onyeka Onwenu](https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 6:04 |
 | 18 | [I Like Your Style](https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY) | [Tony Wilson](https://open.spotify.com/artist/0oe8eDAfRL99ncmLCQesif) | [I Like Your Style](https://open.spotify.com/album/3N9BeN0UCTwyHADo59PI0g) | 3:05 |
 | 19 | [Africa](https://open.spotify.com/track/3UiNahTo7xKY5qFY6Fgr0b) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | ["Folon".....The Past](https://open.spotify.com/album/1ban68aN7UrIS3MTKKp7SV) | 5:59 |
-| 20 | [Ma Jaiye Oni](https://open.spotify.com/track/47ZKAaOco4DebMlGRzcvUn) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Juju Music](https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs) | 5:07 |
-| 21 | [Invitation Highlife](https://open.spotify.com/track/2B6kXQao1fw0ZOevX5fOA2) | [Victor Olaiya](https://open.spotify.com/artist/4VKeh6oDfqhDLx0MME7R7f) | [Three Decades Of Highlife \- The Best Of...](https://open.spotify.com/album/0HBRw1nvPUbFgkwnjwU9cB) | 3:22 |
+| 20 | [Invitation Highlife](https://open.spotify.com/track/2B6kXQao1fw0ZOevX5fOA2) | [Victor Olaiya](https://open.spotify.com/artist/4VKeh6oDfqhDLx0MME7R7f) | [Three Decades Of Highlife \- The Best Of...](https://open.spotify.com/album/0HBRw1nvPUbFgkwnjwU9cB) | 3:22 |
+| 21 | [Ma Jaiye Oni](https://open.spotify.com/track/47ZKAaOco4DebMlGRzcvUn) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Juju Music](https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs) | 5:07 |
 | 22 | [Ohun Oju Ri Laye Medley, Pt\. 1](https://open.spotify.com/track/6gq9ZlCF97t0v9z3wH7Kez) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents Ohun Oju Ri Laye](https://open.spotify.com/album/03sTFyroMQHRK97zXQFgTL) | 17:06 |
 | 23 | [Sugar Cane Baby](https://open.spotify.com/track/5kFPItOjyYqGrNnqsROU42) | [Harry Mosco](https://open.spotify.com/artist/5xRUMq2gshg8BfuXR7QFWl) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 5:31 |
 | 24 | [Tire Ni Oluwa](https://open.spotify.com/track/5uHK9zXW1KGWnw9fRYLyq0) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [3rd World](https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE) | 8:21 |
-| 25 | [Baby Kilode](https://open.spotify.com/track/0PYDivZavH4ndRJB6E5iUu) | [Dizzy K Falola](https://open.spotify.com/artist/4QebwA96fgRFgzeXzx9dmj) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 4:25 |
-| 26 | [Say I Love You](https://open.spotify.com/track/6NkDS793oPRpIAjrAsKNAa) | [Eddy Grant](https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA) | [This Is Eddy Grant](https://open.spotify.com/album/1GDajHPyvYM4YEUgKNusNX) | 3:55 |
+| 25 | [Say I Love You](https://open.spotify.com/track/6NkDS793oPRpIAjrAsKNAa) | [Eddy Grant](https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA) | [This Is Eddy Grant](https://open.spotify.com/album/1GDajHPyvYM4YEUgKNusNX) | 3:55 |
+| 26 | [Baby Kilode](https://open.spotify.com/track/0PYDivZavH4ndRJB6E5iUu) | [Dizzy K Falola](https://open.spotify.com/artist/4QebwA96fgRFgzeXzx9dmj) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 4:25 |
 | 27 | [Juliana](https://open.spotify.com/track/7II6pBzmOKIwTWZA6EhHjH) | [Tony Okoroji](https://open.spotify.com/artist/3JFUA6La6HVGT8bYYsmucd) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 8:55 |
 | 28 | [I Need Someone](https://open.spotify.com/track/43nHMCR6U4gw8sC4Q6JtK0) | [Kris Okotie](https://open.spotify.com/artist/4XL2xwc93NNmU6YNa01WXa) | [I Need Someone](https://open.spotify.com/album/0TyyuXl68qBn3vm8JJheSR) | 4:31 |
 | 29 | [Wings Of A Dove](https://open.spotify.com/track/6pOE4vLnWvzdR6AJ4Gl2Nk) | [Yvonne Maha](https://open.spotify.com/artist/0OH5u9avSdfzxhk1TJAVD8) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 3:41 |
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 32 | [Water No Get Enemy \- Edit](https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Best of The Black President](https://open.spotify.com/album/7325GfKum2hDK231i3LqA7) | 9:51 |
 | 33 | [In Your Eyes](https://open.spotify.com/track/3MjmFVzp41XxLlKpkhfn4q) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Fatteliku \(Live in Athens 1987\)](https://open.spotify.com/album/2fGQaoN3YJJ2dU1YifNiqv) | 10:43 |
 | 34 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 |
-| 35 | [Pata Pata](https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r) | 3:02 |
-| 36 | [Disco Dancer](https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB) | 6:56 |
+| 35 | [Ndihamba Nawe](https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Sibongile](https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY) | 5:51 |
+| 36 | [Pata Pata](https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r) | 3:02 |
 | 37 | [Zombie](https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie](https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6) | 12:25 |
-| 38 | [Ndihamba Nawe](https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Sibongile](https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY) | 5:51 |
+| 38 | [Disco Dancer](https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB) | 6:56 |
 | 39 | [Greetings](https://open.spotify.com/track/7lSNZV9U8D7BnzwTIM8zlG) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/4Qdl3L0yx9NmcbupcyhdSf) | 6:13 |
 | 40 | [Special Star](https://open.spotify.com/track/1xMFHgilbKXS02lMSBlDvZ) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/5snC2QWALNCAMl7FW521yb) | 5:53 |
 

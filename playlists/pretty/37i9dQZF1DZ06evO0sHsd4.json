@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 14276,
+  "num_followers": 14302,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAABgGFUYvsnqflcRMQr+SbzB",
+  "snapshot_id": "aEtqAAAAAACLijt/+fyq72RlJb3APfju",
   "tracks": [
     {
       "added_at": null,
@@ -655,18 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Siento Nada",
-        "url": "https://open.spotify.com/album/0W1HlIPEsbTCVUZQSlKRT8"
+        "name": "Los Tiempos Cambian",
+        "url": "https://open.spotify.com/album/7L50E9jYNHmH7dfpVnrfQP"
       },
       "artists": [
+        {
+          "name": "Los Beltran",
+          "url": "https://open.spotify.com/artist/03imNtJdmHHxdnimuoxNVX"
+        },
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 146812,
-      "name": "Ya No Siento Nada",
-      "url": "https://open.spotify.com/track/7jCbMDq3hBIZo58uvsHLcH"
+      "duration_ms": 186983,
+      "name": "Escuela 4 Letras",
+      "url": "https://open.spotify.com/track/3CvGYnOdzYStHNggz95kuJ"
     },
     {
       "added_at": null,
@@ -687,22 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Tiempos Cambian",
-        "url": "https://open.spotify.com/album/7L50E9jYNHmH7dfpVnrfQP"
+        "name": "Ya No Siento Nada",
+        "url": "https://open.spotify.com/album/0W1HlIPEsbTCVUZQSlKRT8"
       },
       "artists": [
-        {
-          "name": "Los Beltran",
-          "url": "https://open.spotify.com/artist/03imNtJdmHHxdnimuoxNVX"
-        },
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 186983,
-      "name": "Escuela 4 Letras",
-      "url": "https://open.spotify.com/track/3CvGYnOdzYStHNggz95kuJ"
+      "duration_ms": 146812,
+      "name": "Ya No Siento Nada",
+      "url": "https://open.spotify.com/track/7jCbMDq3hBIZo58uvsHLcH"
     },
     {
       "added_at": null,

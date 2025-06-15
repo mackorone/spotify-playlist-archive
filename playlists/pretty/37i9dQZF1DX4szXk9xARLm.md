@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > Your essential Ramadan Series songs! Cover: Elissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,175 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,195 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 30 | [Tetr Mosalsal Layali AL Shemaisy](https://open.spotify.com/track/3ADHv3poD95cLwiQUbY2d7) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Tetr Mosalsal Layali AL Shemaisy](https://open.spotify.com/album/0xvlOd8fvLrWIp4hDM9PY1) | 3:58 |
 | 31 | [Titanic](https://open.spotify.com/track/4hmE5n6FXjXipmfTIIQP8c) | [Samad Officiel](https://open.spotify.com/artist/0PugkIpOnPjZTEEcrLO3PB) | [Titanic](https://open.spotify.com/album/62AOGBLuBhM3a47OFRQyRL) | 2:46 |
 | 32 | [Al Najdain \(النجدين\)](https://open.spotify.com/track/2wX6tRMGNryOFsc8vuqZ4B) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Al Najdain \(النجدين\)](https://open.spotify.com/album/54N1rRSxWZlAqkEnslrOf1) | 4:13 |
-| 33 | [متجوزين](https://open.spotify.com/track/6BZqaxQwlLqzJfF2ZlNmvp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [متجوزين](https://open.spotify.com/album/1PIUoeP4nwOencNnzJksee) | 2:46 |
-| 34 | [\(عيني على الشرف \(تتر مسلسل شباب إمرأة](https://open.spotify.com/track/16zRpjwFoTUXnIcX4GRwBG) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [\(عيني على الشرف \(تتر مسلسل شباب إمرأة](https://open.spotify.com/album/5eMq6ekk4nZ2YTemocOJqq) | 4:20 |
+| 33 | [\(عيني على الشرف \(تتر مسلسل شباب إمرأة](https://open.spotify.com/track/16zRpjwFoTUXnIcX4GRwBG) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [\(عيني على الشرف \(تتر مسلسل شباب إمرأة](https://open.spotify.com/album/5eMq6ekk4nZ2YTemocOJqq) | 4:20 |
+| 34 | [متجوزين](https://open.spotify.com/track/6BZqaxQwlLqzJfF2ZlNmvp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [متجوزين](https://open.spotify.com/album/1PIUoeP4nwOencNnzJksee) | 2:46 |
 | 35 | [بطل يا بطل](https://open.spotify.com/track/7LjE8S8nbujtiktd9pVur9) | [Mido Gad](https://open.spotify.com/artist/6ZcugQ1o2uf7lkFEage28f) | [بطل يا بطل](https://open.spotify.com/album/4KsZrkBA3ysOgaHULylQjf) | 3:10 |
 | 36 | [Mashyeen Be Elzak](https://open.spotify.com/track/7giK9ESAiO1gOgjNcuJjZu) | [Sabren Elnegily](https://open.spotify.com/artist/235oUgJq1DUHH7PXVmI7oJ) | [Mashyeen Be Elzak](https://open.spotify.com/album/7FWoWblYxaS8aey1Zubji9) | 3:20 |
 | 37 | [El ahd](https://open.spotify.com/track/0s5HhG8oEfNqkwOnIYIAEy) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [El ahd](https://open.spotify.com/album/4fv6qg0BGmI0gyrzRhV9Sq) | 4:59 |

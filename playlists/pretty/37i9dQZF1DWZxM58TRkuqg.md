@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Donne Maula
 
-[Spotify](https://open.spotify.com/user/spotify) - 786,173 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 785,692 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 99 | [Ingatkah?](https://open.spotify.com/track/0WtLOUvSWCb6F63ojSr2xH) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Ingatkah?](https://open.spotify.com/album/4RXz1bccwbZLdHaK0krhLb) | 4:23 |
 | 100 | [Frenemy \(feat\. VIDI\)](https://open.spotify.com/track/1PGt7c1YzOK5GiKjNp5IH1) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Frenemy](https://open.spotify.com/album/1ZZkhyBrbAmKlhyhFbC4hn) | 3:06 |
 
-Snapshot ID: `AAAAABsjLV5C6HWGAyiFMgT/0UpGdCHW`
+Snapshot ID: `aEtivgAAAAAiEyi5VrCc0bv5rsVwdRHU`

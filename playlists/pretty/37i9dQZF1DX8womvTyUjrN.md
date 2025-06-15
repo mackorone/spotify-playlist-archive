@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Alleh & Yorghaki
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,554 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,574 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [Luces de bengala](https://open.spotify.com/track/7F2wex0mYEbekHkmCuaUMy) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Luces de bengala](https://open.spotify.com/album/40mdyXPVKvGinpTommcy3h) | 2:45 |
 | 50 | [LULULEMON](https://open.spotify.com/track/2gumMEpxX66tQhwWRIdNiy) | [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra), [mariano](https://open.spotify.com/artist/7eotpUg41HqaEqJPKOm1L9) | [LULULEMON](https://open.spotify.com/album/0bEBToYF167mq3rV0oT5Kb) | 2:12 |
 
-Snapshot ID: `aEuicgAAAAD072/MabbQy3A1iYOGLej1`
+Snapshot ID: `AAAAAFL5rmMSz03/TX3ET1pKGyBQFqOW`

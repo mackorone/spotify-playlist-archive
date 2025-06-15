@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 41093,
+  "num_followers": 41094,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAALU0GFltCq2jp0vXML8Wc1",
+  "snapshot_id": "aEtqAAAAAADDXvm353E7XFRDnqfcxhiD",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambientes de Cuna",
-        "url": "https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu"
+        "name": "Loco Amor (Spanish Version)",
+        "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
       },
       "artists": [
-        {
-          "name": "Aliento Kids",
-          "url": "https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt"
-        },
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 452354,
-      "name": "Como Dijiste",
-      "url": "https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J"
+      "duration_ms": 303373,
+      "name": "Loco Amor - Spanish Version",
+      "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
     },
     {
       "added_at": null,
@@ -719,18 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loco Amor (Spanish Version)",
-        "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
+        "name": "Ambientes de Cuna",
+        "url": "https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu"
       },
       "artists": [
+        {
+          "name": "Aliento Kids",
+          "url": "https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt"
+        },
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 303373,
-      "name": "Loco Amor - Spanish Version",
-      "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
+      "duration_ms": 452354,
+      "name": "Como Dijiste",
+      "url": "https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,659 likes - 79 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,657 likes - 79 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 39 | [Kozak](https://open.spotify.com/track/2wFlYA0aXE6oVz9BWgmhLX) | [Błoto](https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv) | [Grzybnia](https://open.spotify.com/album/25Fegxpmg9CEEjCqTnbxg6) | 2:53 |
 | 40 | [Warszawa Wschodnia](https://open.spotify.com/track/6p5BVXBjh0JYPU955lWJX6) | [Tomasz Makowiecki](https://open.spotify.com/artist/5BndU3xioxu02gpARK3ssF) | [Bailando](https://open.spotify.com/album/3T2yJp99ZSAjzHZl4nxupe) | 4:43 |
 | 41 | [PRZYJEDŹ](https://open.spotify.com/track/4n2ENH767mh8hQv6Q83uHS) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [DOMINIKA DANIELA](https://open.spotify.com/album/1XDk6ptjiofedB6LTtRKOK) | 2:29 |
-| 42 | [Chłopcy](https://open.spotify.com/track/05crgQcMRFJtiDMkA1PIIl) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [WIECZORAMI CHŁOPCY WYCHODZĄ NA ULICE](https://open.spotify.com/album/4OErdxqjwIww9QbHzguIz4) | 5:21 |
-| 43 | [Zima](https://open.spotify.com/track/1lpDXgomCsKmXUl2yRRaLH) | [Bogdan Kondracki](https://open.spotify.com/artist/5A3i0bsXUJf3menS0aSKq0), [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Cudze rady psują mi życie](https://open.spotify.com/album/72gEeFKWNw8mqXxdiscM20) | 3:57 |
+| 42 | [Zima](https://open.spotify.com/track/1lpDXgomCsKmXUl2yRRaLH) | [Bogdan Kondracki](https://open.spotify.com/artist/5A3i0bsXUJf3menS0aSKq0), [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Cudze rady psują mi życie](https://open.spotify.com/album/72gEeFKWNw8mqXxdiscM20) | 3:57 |
+| 43 | [Chłopcy](https://open.spotify.com/track/05crgQcMRFJtiDMkA1PIIl) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [WIECZORAMI CHŁOPCY WYCHODZĄ NA ULICE](https://open.spotify.com/album/4OErdxqjwIww9QbHzguIz4) | 5:21 |
 | 44 | [Fearflood](https://open.spotify.com/track/4zhY8NiaTOr5FLN362ZcUJ) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [Instant Rewards](https://open.spotify.com/album/54n8MiXmukz3tjTs9294Bm) | 5:58 |
 | 45 | [Lata](https://open.spotify.com/track/1DNRoUTNpJrCQ8GubYLIT7) | [Bisz](https://open.spotify.com/artist/4PpHZwqxdYMMnLkYJ83vUJ), [KOSA](https://open.spotify.com/artist/3pTM3cYf2uOfZvlxW7zFY4) | [Lata](https://open.spotify.com/album/0ce2J8wUxDd8V4KsEhejwN) | 3:12 |
 | 46 | [Pamiętam Cię](https://open.spotify.com/track/2GmyBjFYiWaErfxzd3Uefl) | [KĘPIŃSKI KOWALONEK](https://open.spotify.com/artist/3z84Fsj4Ob6F940y1FwXnk), [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK), [Miro Kepinski](https://open.spotify.com/artist/4zM4iShKy7fOtcBQCJf3wG), [Michał Kowalonek](https://open.spotify.com/artist/3oIZFLMAjPpJjv74YpRl5O), [Prosta Sprawa](https://open.spotify.com/artist/3y9r1d2DF2zxxbC0eTBxdT) | [Prosta Sprawa \(Muzyka i piosenki z serialu\)](https://open.spotify.com/album/2aMLfHtrSlYr7SD8j2CBcr) | 3:16 |

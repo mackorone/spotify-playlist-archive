@@ -4,7 +4,7 @@
 
 > \(\-\) "Connection, Discovery, & Growth"
 
-124 songs - 5 hr 54 min
+125 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [CRIMINAL LOVE](https://open.spotify.com/track/0Eglu3fErlG196PtTwCUPM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [CRIMINAL LOVE](https://open.spotify.com/album/6S8BCiVrtzm5TEOnjyyCfJ) | 3:35 | 2023-10-04 |  |
 | [CRIMINAL LOVE](https://open.spotify.com/track/6PUTM7E4k9mSgy7KOClSZq) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK MOON SPECIAL ALBUM <MEMORABILIA>](https://open.spotify.com/album/0OhJwEzXbK9Km6GQSPdmPU) | 3:35 | 2024-05-17 |  |
 | [Daydream](https://open.spotify.com/track/4lwTKer57RtonkWsEi2pVn) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD \-daydream\-](https://open.spotify.com/album/380UbSJnNQ9SioALGRB0Cf) | 2:00 | 2024-12-19 |  |
+| [Demons](https://open.spotify.com/track/30oEeJE3bxNMODjscH9Scl) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Demons \[The Seasons: Cantabile of Park Bo Gum\]](https://open.spotify.com/album/5azuOkskQCiqXx7SYiHsMa) | 2:56 | 2025-06-14 |  |
 | [Drunk\-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 | 2022-05-12 |  |
 | [Drunk\-Dazed \- Japanese Ver.](https://open.spotify.com/track/2PE9H3nIrrQvHuWCbKglpe) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : 閃光](https://open.spotify.com/album/0hTSBwSbvXgDSUxtSLBYcw) | 3:13 | 2022-05-12 |  |
 | [Drunk\-Dazed \- Japanese Ver.](https://open.spotify.com/track/4BjPm0ZU2vq59sUoQkcAGn) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [定め](https://open.spotify.com/album/58Rn6sczqcudAs9bryXXBv) | 3:14 | 2023-10-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 
 > Love at its most dramatic\. Cover: Maybe Happy Ending
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,252 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,279 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 | 74 | [Without Love](https://open.spotify.com/track/2nYchL9d0SXuX2krMUSZOF) | [Matthew Morrison](https://open.spotify.com/artist/3Fx1vJHj530oWC2AxnZq5z), [Marissa Jaret Winokur](https://open.spotify.com/artist/4zdCODAJOsWFl6I9H7z1bX), [Corey Reynolds](https://open.spotify.com/artist/71aNC2tlIsDHJd5OBmlycC), [Kerry Butler](https://open.spotify.com/artist/4GDiwGz4YZDRaYzMJ3jPWi), [Hairspray Ensemble](https://open.spotify.com/artist/429JG9MlqrYJuazWbIN0ng), [Original Broadway Cast of Hairspray](https://open.spotify.com/artist/2fonmVretCT6oQ7woD6p4E) | [Hairspray \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3XPjEfpawBvohxBMDXwXXW) | 4:26 |
 | 75 | [All I've Ever Known](https://open.spotify.com/track/0DBF9dFpekB4AMCYiR2SSY) | [Eva Noblezada](https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn), [Reeve Carney](https://open.spotify.com/artist/7qDUWeBzKcDnh15yhYBf2U), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Hadestown Original Broadway Company](https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH) | [Hadestown \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP) | 4:03 |
 
-Snapshot ID: `aEY/bQAAAACSMV6KQ5M+tf9YnU6aAsy3`
+Snapshot ID: `aEY/bQAAAAA8OHFea6lfnCp7AWdW5ei1`

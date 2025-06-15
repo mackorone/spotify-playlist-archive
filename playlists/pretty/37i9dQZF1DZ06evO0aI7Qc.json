@@ -1,12 +1,12 @@
 {
   "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
-  "num_followers": 368722,
+  "num_followers": 368790,
   "original_name": "This Is Luis R Conriquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAABqSLM629IIYe82LBysF+px",
+  "snapshot_id": "aEtqAAAAAAAya0DFeCKMtfNMCTci2c0j",
   "tracks": [
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cholo 7",
-        "url": "https://open.spotify.com/album/2DqUzBO8R3Aw4q26PDjV1t"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Cholo 7",
-      "url": "https://open.spotify.com/track/06ONHS2cu9I7fvzTz3NQvq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 153269,
       "name": "GTA",
       "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cholo 7",
+        "url": "https://open.spotify.com/album/2DqUzBO8R3Aw4q26PDjV1t"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Cholo 7",
+      "url": "https://open.spotify.com/track/06ONHS2cu9I7fvzTz3NQvq"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mexicano Soy",
-        "url": "https://open.spotify.com/album/5GZMtgqovc3UrzjdjVOpQY"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 152562,
-      "name": "Mexicano Soy",
-      "url": "https://open.spotify.com/track/1do505QmrjLQUvQLbwMdId"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
@@ -475,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Martes 13",
-        "url": "https://open.spotify.com/album/4DERREe1IEROc2LTHlJrfq"
+        "name": "Mexicano Soy",
+        "url": "https://open.spotify.com/album/5GZMtgqovc3UrzjdjVOpQY"
       },
       "artists": [
         {
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 163341,
-      "name": "Martes 13",
-      "url": "https://open.spotify.com/track/3E9uSlxdkqijIBCu2rYQBj"
+      "duration_ms": 152562,
+      "name": "Mexicano Soy",
+      "url": "https://open.spotify.com/track/1do505QmrjLQUvQLbwMdId"
     },
     {
       "added_at": null,
@@ -507,6 +491,22 @@
       "duration_ms": 257846,
       "name": "Ahog\u00e1ndome en Alcohol",
       "url": "https://open.spotify.com/track/0T2SVUCPRmf2gUbGmgJXCT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Martes 13",
+        "url": "https://open.spotify.com/album/4DERREe1IEROc2LTHlJrfq"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 163341,
+      "name": "Martes 13",
+      "url": "https://open.spotify.com/track/3E9uSlxdkqijIBCu2rYQBj"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INC\u00d3MODO",
-        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 191320,
-      "name": "PAJUELAZO",
-      "url": "https://open.spotify.com/track/708Xn7MHNQZo3nMErlgXKI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Fresa y Coco",
         "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
       },
@@ -743,6 +723,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "INC\u00d3MODO",
+        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 191320,
+      "name": "PAJUELAZO",
+      "url": "https://open.spotify.com/track/708Xn7MHNQZo3nMErlgXKI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Buho",
         "url": "https://open.spotify.com/album/7mNGmzl36M6Cpm6SoNfbIL"
       },
@@ -755,30 +755,6 @@
       "duration_ms": 176703,
       "name": "El Buho",
       "url": "https://open.spotify.com/track/1LwuBjjFT9Wc8qJqQV5xia"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/4kAXXZpIKhMlmj62OBnj7g"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Jos\u00e9 Guicho",
-          "url": "https://open.spotify.com/artist/7IiCm7VkqzW7vN0MY9AzHe"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 152932,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/26ffMA2QIHjbQZpBlv6GmA"
     },
     {
       "added_at": null,
@@ -803,6 +779,30 @@
       "duration_ms": 143333,
       "name": "Fino Con Los Valentino",
       "url": "https://open.spotify.com/track/02Rk5y9SH6OtMgl3Etln3q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/4kAXXZpIKhMlmj62OBnj7g"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Jos\u00e9 Guicho",
+          "url": "https://open.spotify.com/artist/7IiCm7VkqzW7vN0MY9AzHe"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 152932,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/26ffMA2QIHjbQZpBlv6GmA"
     },
     {
       "added_at": null,

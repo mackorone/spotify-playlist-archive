@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BMO7S.md) - [plain]
 
 > This is Japanese Breakfast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,658 likes - 41 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,683 likes - 41 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BMO7S.md) - [plain]
 | 23 | [Leda](https://open.spotify.com/track/2k2XXmCGPc28NMnlpClzms) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [For Melancholy Brunettes \(& sad women\)](https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES) | 3:18 |
 | 24 | [Till Death](https://open.spotify.com/track/3wJVQr9ZfLZfcj19aIfjub) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Soft Sounds from Another Planet](https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua) | 2:57 |
 | 25 | [Heft](https://open.spotify.com/track/5j7CjG3iZzyfOSoLCEzIHx) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 3:37 |
-| 26 | [Campfires](https://open.spotify.com/track/3ArZqhHSQMPWyG1Nb3TAcV) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 1:06 |
-| 27 | [Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4sMJ05OSIYdmHdnxfosvfb) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/132C8QdLHNKEqAUrXiJFlk) | 4:39 |
+| 26 | [Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4sMJ05OSIYdmHdnxfosvfb) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/132C8QdLHNKEqAUrXiJFlk) | 4:39 |
+| 27 | [Campfires](https://open.spotify.com/track/3ArZqhHSQMPWyG1Nb3TAcV) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 1:06 |
 | 28 | [Skinny Love \- Spotify Singles](https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z) | 3:46 |
 | 29 | [In Heaven](https://open.spotify.com/track/33HK3AInjJCqMrCHN2Kg5g) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 3:50 |
 | 30 | [Nobody Sees Me Like You Do](https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Nobody Sees Me Like You Do](https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P) | 3:31 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BMO7S.md) - [plain]
 | 40 | [Exploration \(Ruins\)](https://open.spotify.com/track/6TWyBecuHVquzKm4kPN0Jw) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 4:10 |
 | 41 | [Main Menu](https://open.spotify.com/track/43193ICguBqjuTGEvIsXG9) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 1:04 |
 
-Snapshot ID: `aEoYgAAAAAAZpIQBCW3G21xalClWa/9J`
+Snapshot ID: `aEtqAAAAAAA4y7JnVXcnt7u8bLYkQhUh`

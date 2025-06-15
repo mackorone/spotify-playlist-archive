@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > Celebrating Juneteenth with new music from Gunna, Kehlani, Lil Tecca, Kevin Abstract & Dominic Fike, Tanner Adell, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,391,048 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,391,346 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 51 | [Hola Mami](https://open.spotify.com/track/5CERwLVEULPbAqskhP49CP) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Hola Mami](https://open.spotify.com/album/5v5Uo4oiX9jTHLhCAWXuiq) | 1:45 |
 | 52 | [Figures On The Wall](https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figures On The Wall](https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi) | 3:02 |
 | 53 | [rocket](https://open.spotify.com/track/3BA0pgBBU4MzXwnOUFwIOB) | [Jahnah Camille](https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS) | [My sunny oath!](https://open.spotify.com/album/5e51HsMClL4Gz6hn4ItN4K) | 2:31 |
-| 54 | [Seventeen](https://open.spotify.com/track/3VgFxRLEvav1ewTx5IaROh) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Seventeen](https://open.spotify.com/album/1xZkfphab61c5kqctCexP7) | 3:14 |
+| 54 | [Seventeen](https://open.spotify.com/track/3VgFxRLEvav1ewTx5IaROh) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Seventeen](https://open.spotify.com/album/1xZkfphab61c5kqctCexP7) | 3:13 |
 | 55 | [Hood Cry](https://open.spotify.com/track/04hszpzZPMijTmaknHOyL4) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Hood Cry](https://open.spotify.com/album/7nA9R4BnhumlEE68gO461G) | 3:25 |
 | 56 | [STACEY DASH](https://open.spotify.com/track/0J9YLQGnB9cFavyuUNeQED) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo), [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [KEEP YOUR EYE ON THE SPARROW](https://open.spotify.com/album/1Lpe2J6iS42mPh7yoQGr6o) | 3:06 |
 | 57 | [WONT FLY \(JESUS AT MY DOOR\)](https://open.spotify.com/track/4ijo9j5TRYehTkSUIeo9iU) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [WONT FLY \(JESUS AT MY DOOR\)](https://open.spotify.com/album/16SXq6XmbWgyKPPpgzYT6b) | 3:25 |

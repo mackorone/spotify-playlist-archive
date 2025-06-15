@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Lil Wayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,046 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,084 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 42 | [NO SLEEP $$$ \(feat\. Young Jonn\)](https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 3:07 |
 | 43 | [GANGSTA](https://open.spotify.com/track/5jeq1BKLWLG7RLIzAiM6j1) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [MUSE](https://open.spotify.com/album/2ZpWc0l8um4MjOYt7eKx3D) | 2:36 |
 | 44 | [Big Smile \(Pose For Me\) \[feat\. ODUMODUBLVCK\]](https://open.spotify.com/track/70kzTb35rANBc5TRvX2OH6) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Afrikan Alien](https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct) | 3:01 |
-| 45 | [ISAKABA MAN \(with Rondodasosa\)](https://open.spotify.com/track/0kYm6ZRybLfuybS4mQRBAN) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [THE MACHINE IS COMING](https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ) | 3:21 |
+| 45 | [Wrong Person \(with ODUMODUBLVCK\)](https://open.spotify.com/track/0upnuatnbGnFV7HJgCm9Xj) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:43 |
 | 46 | [Kilos Milos](https://open.spotify.com/track/4PPjesO0Xyf0unsdHAL4h8) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kilos Milos](https://open.spotify.com/album/2GWGoafnaAHShlzm6oICnL) | 2:37 |
-| 47 | [Wrong Person \(with ODUMODUBLVCK\)](https://open.spotify.com/track/0upnuatnbGnFV7HJgCm9Xj) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:43 |
+| 47 | [ISAKABA MAN \(with Rondodasosa\)](https://open.spotify.com/track/0kYm6ZRybLfuybS4mQRBAN) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [THE MACHINE IS COMING](https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ) | 3:21 |
 | 48 | [ROAD RUNNERS \(feat\. Black Sherif\)](https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:26 |
 | 49 | [All Eyes on Me \(feat\. Burna Boy, Da L.E.S\. & JR\)](https://open.spotify.com/track/6oAWlzrEbXFis7Z0kyeX0h) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Da Les](https://open.spotify.com/artist/4on53ORBym2GEnRhIptZwy), [JR](https://open.spotify.com/artist/1a0Wc4pzPAFe5ZFiL1glrr) | [Levels \(Explicit\)](https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe) | 4:18 |
 | 50 | [Maybach](https://open.spotify.com/track/67WsbWbEI02qt27s5YcXso) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Maybach](https://open.spotify.com/album/2UsXysLvyNlrGvcvG6KtyB) | 2:45 |

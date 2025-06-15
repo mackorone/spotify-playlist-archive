@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: Silvana Estrada.",
-  "num_followers": 130122,
+  "num_followers": 130142,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2025-06-12 22:00:44",
       "album": {
+        "name": "La Primera Luz",
+        "url": "https://open.spotify.com/album/2AxbnQKs5sRvx0xpYSBKNm"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 285853,
+      "name": "La Primera Luz",
+      "url": "https://open.spotify.com/track/3NiBKMMrU7gyWMtuuGivZN"
+    },
+    {
+      "added_at": "2025-06-12 22:00:44",
+      "album": {
         "name": "La Utop\u00eda en que Vivimos",
         "url": "https://open.spotify.com/album/1QCfbXagWcqyxSbOoszNQT"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 300383,
       "name": "Por qu\u00e9 Ser\u00e1 (feat. La Tania & Yerai Cort\u00e9s)",
       "url": "https://open.spotify.com/track/5KE2x4MVkDMbuH4grodfdb"
-    },
-    {
-      "added_at": "2025-06-12 22:00:44",
-      "album": {
-        "name": "La Primera Luz",
-        "url": "https://open.spotify.com/album/2AxbnQKs5sRvx0xpYSBKNm"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 285853,
-      "name": "La Primera Luz",
-      "url": "https://open.spotify.com/track/3NiBKMMrU7gyWMtuuGivZN"
     },
     {
       "added_at": "2025-06-12 22:00:44",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-06-12 22:00:44",
       "album": {
-        "name": "Qu\u00e9mame el coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5KRapi0NhVyb9vABL02T9Y"
-      },
-      "artists": [
-        {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
-        }
-      ],
-      "duration_ms": 193246,
-      "name": "Qu\u00e9mame el coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2xy0eR38Gt1UN1PM3IzYze"
-    },
-    {
-      "added_at": "2025-06-12 22:00:44",
-      "album": {
         "name": "Una carta con tu nombre",
         "url": "https://open.spotify.com/album/3IZWZ0sMl8VMLUwd9e8vBa"
       },
@@ -943,22 +927,6 @@
       "duration_ms": 235075,
       "name": "Una carta con tu nombre",
       "url": "https://open.spotify.com/track/5rgb2Vl3iWofqOURoCELoq"
-    },
-    {
-      "added_at": "2025-06-12 22:00:44",
-      "album": {
-        "name": "Se va",
-        "url": "https://open.spotify.com/album/2SFK93DB5qCxkfr4T8Z4RZ"
-      },
-      "artists": [
-        {
-          "name": "Marisa Valle Roso",
-          "url": "https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL"
-        }
-      ],
-      "duration_ms": 165546,
-      "name": "Se va",
-      "url": "https://open.spotify.com/track/0ASnHQcC2WH7cxzVuuyd3R"
     },
     {
       "added_at": "2025-06-12 22:00:44",
@@ -979,6 +947,38 @@
       "duration_ms": 217253,
       "name": "A volar (feat. Lido Pimienta)",
       "url": "https://open.spotify.com/track/5KnFKXycHFZhchoOjFASU1"
+    },
+    {
+      "added_at": "2025-06-12 22:00:44",
+      "album": {
+        "name": "Qu\u00e9mame el coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5KRapi0NhVyb9vABL02T9Y"
+      },
+      "artists": [
+        {
+          "name": "Ronroneo",
+          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+        }
+      ],
+      "duration_ms": 193246,
+      "name": "Qu\u00e9mame el coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2xy0eR38Gt1UN1PM3IzYze"
+    },
+    {
+      "added_at": "2025-06-12 22:00:44",
+      "album": {
+        "name": "Se va",
+        "url": "https://open.spotify.com/album/2SFK93DB5qCxkfr4T8Z4RZ"
+      },
+      "artists": [
+        {
+          "name": "Marisa Valle Roso",
+          "url": "https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL"
+        }
+      ],
+      "duration_ms": 165546,
+      "name": "Se va",
+      "url": "https://open.spotify.com/track/0ASnHQcC2WH7cxzVuuyd3R"
     },
     {
       "added_at": "2025-06-12 22:00:44",
@@ -1023,6 +1023,38 @@
     {
       "added_at": "2025-06-12 22:00:44",
       "album": {
+        "name": "Buenos Aires (Live Session)",
+        "url": "https://open.spotify.com/album/2V2b8pF4kKDzuXdD8xKHoH"
+      },
+      "artists": [
+        {
+          "name": "Marta G\u00f3mez",
+          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
+        }
+      ],
+      "duration_ms": 287691,
+      "name": "Basilio - Live Session",
+      "url": "https://open.spotify.com/track/4RaR66uoOJTnNS3bkW1RDf"
+    },
+    {
+      "added_at": "2025-06-12 22:00:44",
+      "album": {
+        "name": "Vidrieritas",
+        "url": "https://open.spotify.com/album/7coLrKNPKAPDZfgLotJ1VW"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda de la Flor",
+          "url": "https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3"
+        }
+      ],
+      "duration_ms": 215786,
+      "name": "Vidrieritas",
+      "url": "https://open.spotify.com/track/0iII2cRRg31qEKRmfKx545"
+    },
+    {
+      "added_at": "2025-06-12 22:00:44",
+      "album": {
         "name": "Traigo un canto guardado",
         "url": "https://open.spotify.com/album/79SImwqTgpYWmA2IZYR32F"
       },
@@ -1063,22 +1095,6 @@
     {
       "added_at": "2025-06-12 22:00:44",
       "album": {
-        "name": "Vidrieritas",
-        "url": "https://open.spotify.com/album/7coLrKNPKAPDZfgLotJ1VW"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda de la Flor",
-          "url": "https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3"
-        }
-      ],
-      "duration_ms": 215786,
-      "name": "Vidrieritas",
-      "url": "https://open.spotify.com/track/0iII2cRRg31qEKRmfKx545"
-    },
-    {
-      "added_at": "2025-06-12 22:00:44",
-      "album": {
         "name": "Tan delicada",
         "url": "https://open.spotify.com/album/3UICv1p8S7af4rylMAqBbu"
       },
@@ -1099,38 +1115,6 @@
     {
       "added_at": "2025-06-12 22:00:44",
       "album": {
-        "name": "Buenos Aires (Live Session)",
-        "url": "https://open.spotify.com/album/2V2b8pF4kKDzuXdD8xKHoH"
-      },
-      "artists": [
-        {
-          "name": "Marta G\u00f3mez",
-          "url": "https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY"
-        }
-      ],
-      "duration_ms": 287691,
-      "name": "Basilio - Live Session",
-      "url": "https://open.spotify.com/track/4RaR66uoOJTnNS3bkW1RDf"
-    },
-    {
-      "added_at": "2025-06-12 22:00:44",
-      "album": {
-        "name": "Casida de la Rosa",
-        "url": "https://open.spotify.com/album/0qrGsG3sUTVCgYtNQI8LHI"
-      },
-      "artists": [
-        {
-          "name": "Magal\u00ed Datzira",
-          "url": "https://open.spotify.com/artist/4Wwktb7LI1OtXAWRO6Hln4"
-        }
-      ],
-      "duration_ms": 331442,
-      "name": "Casida de la Rosa",
-      "url": "https://open.spotify.com/track/7Dpg9kyPOZDv5N5QWUW08J"
-    },
-    {
-      "added_at": "2025-06-12 22:00:44",
-      "album": {
         "name": "DUE\u00d1O DE TUS NOTICIAS",
         "url": "https://open.spotify.com/album/2zonbxSHo9ygRLWlskkZBz"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 272517,
       "name": "DUE\u00d1O DE TUS NOTICIAS",
       "url": "https://open.spotify.com/track/00f06mo8PDNJAIsYmzKfUT"
+    },
+    {
+      "added_at": "2025-06-12 22:00:44",
+      "album": {
+        "name": "Casida de la Rosa",
+        "url": "https://open.spotify.com/album/0qrGsG3sUTVCgYtNQI8LHI"
+      },
+      "artists": [
+        {
+          "name": "Magal\u00ed Datzira",
+          "url": "https://open.spotify.com/artist/4Wwktb7LI1OtXAWRO6Hln4"
+        }
+      ],
+      "duration_ms": 331442,
+      "name": "Casida de la Rosa",
+      "url": "https://open.spotify.com/track/7Dpg9kyPOZDv5N5QWUW08J"
     },
     {
       "added_at": "2025-06-12 22:00:44",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2025-06-12 22:00:44",
       "album": {
+        "name": "MIRLO PARDO \u00b7 LA VEREDA",
+        "url": "https://open.spotify.com/album/3pw1YIdUqTd2snkAG5boM3"
+      },
+      "artists": [
+        {
+          "name": "Ede",
+          "url": "https://open.spotify.com/artist/1O3NvmKUV1bKyER3apqx3Q"
+        }
+      ],
+      "duration_ms": 203244,
+      "name": "Mirlo pardo",
+      "url": "https://open.spotify.com/track/5Pio0OlA5NWk7GfPjdx8nd"
+    },
+    {
+      "added_at": "2025-06-12 22:00:44",
+      "album": {
         "name": "Ag\u00fcita del equilibrio",
         "url": "https://open.spotify.com/album/7ofJqkZR4YXfEB4guQ0YD5"
       },
@@ -1311,26 +1327,6 @@
     {
       "added_at": "2025-06-12 22:00:44",
       "album": {
-        "name": "Todas Las Banderas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3k4BeOYCwnx0Y843y0P3mF"
-      },
-      "artists": [
-        {
-          "name": "Carla Collado",
-          "url": "https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S"
-        },
-        {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
-        }
-      ],
-      "duration_ms": 180250,
-      "name": "Todas Las Banderas (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/0GE2jclS5RVs3SDV5MZJK3"
-    },
-    {
-      "added_at": "2025-06-12 22:00:44",
-      "album": {
         "name": "Kas Lim\u00f3n",
         "url": "https://open.spotify.com/album/355zeg7QQyAkEzuKYwFs05"
       },
@@ -1367,6 +1363,26 @@
     {
       "added_at": "2025-06-12 22:00:44",
       "album": {
+        "name": "Todas Las Banderas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3k4BeOYCwnx0Y843y0P3mF"
+      },
+      "artists": [
+        {
+          "name": "Carla Collado",
+          "url": "https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S"
+        },
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        }
+      ],
+      "duration_ms": 180250,
+      "name": "Todas Las Banderas (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/0GE2jclS5RVs3SDV5MZJK3"
+    },
+    {
+      "added_at": "2025-06-12 22:00:44",
+      "album": {
         "name": "Tananan\u00e1",
         "url": "https://open.spotify.com/album/1WktnsGN1LVZrei84VJXm2"
       },
@@ -1383,26 +1399,6 @@
       "duration_ms": 245172,
       "name": "Tananan\u00e1",
       "url": "https://open.spotify.com/track/35O39AR91OBFPMWIZfBzoo"
-    },
-    {
-      "added_at": "2025-06-12 22:00:44",
-      "album": {
-        "name": "Verdad Amarga",
-        "url": "https://open.spotify.com/album/49pwd1jZNm46A9cmnW6wJ6"
-      },
-      "artists": [
-        {
-          "name": "Elif Sanchez",
-          "url": "https://open.spotify.com/artist/74v3N39tiIzpUsDLpHGz2B"
-        },
-        {
-          "name": "Rycardo Moreno",
-          "url": "https://open.spotify.com/artist/4SVkLbzIYhXV74QmNUePl3"
-        }
-      ],
-      "duration_ms": 266842,
-      "name": "Verdad Amarga",
-      "url": "https://open.spotify.com/track/1K7h603LAp9yRbrFfU4ReO"
     },
     {
       "added_at": "2025-06-12 22:00:44",
@@ -1431,6 +1427,26 @@
       "duration_ms": 225000,
       "name": "El Estallido",
       "url": "https://open.spotify.com/track/0x1gvDz9CUoVHS8uoC3uxB"
+    },
+    {
+      "added_at": "2025-06-12 22:00:44",
+      "album": {
+        "name": "Verdad Amarga",
+        "url": "https://open.spotify.com/album/49pwd1jZNm46A9cmnW6wJ6"
+      },
+      "artists": [
+        {
+          "name": "Elif Sanchez",
+          "url": "https://open.spotify.com/artist/74v3N39tiIzpUsDLpHGz2B"
+        },
+        {
+          "name": "Rycardo Moreno",
+          "url": "https://open.spotify.com/artist/4SVkLbzIYhXV74QmNUePl3"
+        }
+      ],
+      "duration_ms": 266842,
+      "name": "Verdad Amarga",
+      "url": "https://open.spotify.com/track/1K7h603LAp9yRbrFfU4ReO"
     },
     {
       "added_at": "2025-06-12 22:00:44",
@@ -1531,6 +1547,22 @@
     {
       "added_at": "2025-06-12 22:00:44",
       "album": {
+        "name": "Tus Tetas",
+        "url": "https://open.spotify.com/album/6JgFYhuu3unjkrFHnVuyN6"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Vidanauta",
+          "url": "https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Tus Tetas",
+      "url": "https://open.spotify.com/track/2Ux7Ps15O6DvXTlYBS2Nr4"
+    },
+    {
+      "added_at": "2025-06-12 22:00:44",
+      "album": {
         "name": "La Fuerza",
         "url": "https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld"
       },
@@ -1579,18 +1611,18 @@
     {
       "added_at": "2025-06-12 22:00:44",
       "album": {
-        "name": "Tus Tetas",
-        "url": "https://open.spotify.com/album/6JgFYhuu3unjkrFHnVuyN6"
+        "name": "Al Aire",
+        "url": "https://open.spotify.com/album/3CsnUv0tRSJVxTk2UZ9HaO"
       },
       "artists": [
         {
-          "name": "Gabriel Vidanauta",
-          "url": "https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ"
+          "name": "Marina Paredes",
+          "url": "https://open.spotify.com/artist/0I03cTyLdD4WvlWsN6Xzvu"
         }
       ],
-      "duration_ms": 207500,
-      "name": "Tus Tetas",
-      "url": "https://open.spotify.com/track/2Ux7Ps15O6DvXTlYBS2Nr4"
+      "duration_ms": 252589,
+      "name": "Al Aire",
+      "url": "https://open.spotify.com/track/6QzZMwl7YJXou3kGBrMOBr"
     },
     {
       "added_at": "2025-06-12 22:00:44",
@@ -1607,22 +1639,6 @@
       "duration_ms": 230952,
       "name": "Me hace feliz, mam\u00e1",
       "url": "https://open.spotify.com/track/5H7RvxJ5Ivd96gT9VYzTlc"
-    },
-    {
-      "added_at": "2025-06-12 22:00:44",
-      "album": {
-        "name": "Al Aire",
-        "url": "https://open.spotify.com/album/3CsnUv0tRSJVxTk2UZ9HaO"
-      },
-      "artists": [
-        {
-          "name": "Marina Paredes",
-          "url": "https://open.spotify.com/artist/0I03cTyLdD4WvlWsN6Xzvu"
-        }
-      ],
-      "duration_ms": 252589,
-      "name": "Al Aire",
-      "url": "https://open.spotify.com/track/6QzZMwl7YJXou3kGBrMOBr"
     },
     {
       "added_at": "2025-06-12 22:00:44",
@@ -1679,6 +1695,22 @@
     {
       "added_at": "2025-06-12 22:00:44",
       "album": {
+        "name": "Ver o mar",
+        "url": "https://open.spotify.com/album/3byeOf8Va0wvjbUSFYsYxi"
+      },
+      "artists": [
+        {
+          "name": "Guadi Galego",
+          "url": "https://open.spotify.com/artist/4qiV7esJIt796GLcTRO0a4"
+        }
+      ],
+      "duration_ms": 202692,
+      "name": "Ver o mar",
+      "url": "https://open.spotify.com/track/3EOjiURZPpbXoYTE6EOBOn"
+    },
+    {
+      "added_at": "2025-06-12 22:00:44",
+      "album": {
         "name": "Odio despertar",
         "url": "https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS"
       },
@@ -1691,6 +1723,22 @@
       "duration_ms": 267941,
       "name": "Odio despertar",
       "url": "https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1"
+    },
+    {
+      "added_at": "2025-06-12 22:00:44",
+      "album": {
+        "name": "Crezco y no lo veo",
+        "url": "https://open.spotify.com/album/7xxxbjh0tmefVgDoqJjjvr"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "duration_ms": 190561,
+      "name": "Crezco y no lo veo",
+      "url": "https://open.spotify.com/track/42lBWRathPCNc7MX35eQg6"
     },
     {
       "added_at": "2025-06-12 22:00:44",
@@ -1715,18 +1763,18 @@
     {
       "added_at": "2025-06-12 22:00:44",
       "album": {
-        "name": "Crezco y no lo veo",
-        "url": "https://open.spotify.com/album/7xxxbjh0tmefVgDoqJjjvr"
+        "name": "Para Conquistarnos",
+        "url": "https://open.spotify.com/album/3U3Z7R8BOcNjWzjZ8MA81P"
       },
       "artists": [
         {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+          "name": "Faneka",
+          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
         }
       ],
-      "duration_ms": 190561,
-      "name": "Crezco y no lo veo",
-      "url": "https://open.spotify.com/track/42lBWRathPCNc7MX35eQg6"
+      "duration_ms": 207647,
+      "name": "Para Conquistarnos",
+      "url": "https://open.spotify.com/track/4M23bk18inOdFsmW9mRlXO"
     },
     {
       "added_at": "2025-06-12 22:00:44",
@@ -1747,18 +1795,18 @@
     {
       "added_at": "2025-06-12 22:00:44",
       "album": {
-        "name": "Para Conquistarnos",
-        "url": "https://open.spotify.com/album/3U3Z7R8BOcNjWzjZ8MA81P"
+        "name": "Monstruos",
+        "url": "https://open.spotify.com/album/3AIcvZUdB3KPseBtHgWoJ0"
       },
       "artists": [
         {
-          "name": "Faneka",
-          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
+          "name": "La Pena",
+          "url": "https://open.spotify.com/artist/2N5vNzy9TV52uCwVpvs2eM"
         }
       ],
-      "duration_ms": 207647,
-      "name": "Para Conquistarnos",
-      "url": "https://open.spotify.com/track/4M23bk18inOdFsmW9mRlXO"
+      "duration_ms": 231026,
+      "name": "Monstruos",
+      "url": "https://open.spotify.com/track/6JKgtcEqx0fxYmHnCzhBug"
     },
     {
       "added_at": "2025-06-12 22:00:44",
@@ -1779,38 +1827,6 @@
     {
       "added_at": "2025-06-12 22:00:44",
       "album": {
-        "name": "Monstruos",
-        "url": "https://open.spotify.com/album/3AIcvZUdB3KPseBtHgWoJ0"
-      },
-      "artists": [
-        {
-          "name": "La Pena",
-          "url": "https://open.spotify.com/artist/2N5vNzy9TV52uCwVpvs2eM"
-        }
-      ],
-      "duration_ms": 231026,
-      "name": "Monstruos",
-      "url": "https://open.spotify.com/track/6JKgtcEqx0fxYmHnCzhBug"
-    },
-    {
-      "added_at": "2025-06-12 22:00:44",
-      "album": {
-        "name": "Ver o mar",
-        "url": "https://open.spotify.com/album/3byeOf8Va0wvjbUSFYsYxi"
-      },
-      "artists": [
-        {
-          "name": "Guadi Galego",
-          "url": "https://open.spotify.com/artist/4qiV7esJIt796GLcTRO0a4"
-        }
-      ],
-      "duration_ms": 202692,
-      "name": "Ver o mar",
-      "url": "https://open.spotify.com/track/3EOjiURZPpbXoYTE6EOBOn"
-    },
-    {
-      "added_at": "2025-06-12 22:00:44",
-      "album": {
         "name": "Ahora que no estoy yo",
         "url": "https://open.spotify.com/album/7u64UARMdG0AGgzG1NPGhm"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 188201,
       "name": "Ahora que no estoy yo",
       "url": "https://open.spotify.com/track/0jIfperi4ijSe3FJocs9i4"
-    },
-    {
-      "added_at": "2025-06-12 22:00:44",
-      "album": {
-        "name": "Neve e luz",
-        "url": "https://open.spotify.com/album/2g7CZBCBqYEO3PHGBShEv0"
-      },
-      "artists": [
-        {
-          "name": "Lontras",
-          "url": "https://open.spotify.com/artist/0j2x8ml2wI7AdqVPvbQ50X"
-        }
-      ],
-      "duration_ms": 307813,
-      "name": "Neve e luz",
-      "url": "https://open.spotify.com/track/4rpE0HDsG9fTfa17rxWaGv"
     }
   ],
   "unique_name": "Cancionistas",

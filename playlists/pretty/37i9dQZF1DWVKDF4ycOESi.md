@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Coez, ANNA, Marco Mengoni, Fabri Fibra, Capo Plaza, Elisa, Alessandra Amoroso e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,651 likes - 89 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,706 likes - 89 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

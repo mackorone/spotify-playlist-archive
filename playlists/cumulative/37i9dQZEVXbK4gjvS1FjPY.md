@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Singapore.
 
-1,642 songs - 3 day 21 hr 55 min
+1,643 songs - 3 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1581,6 +1581,7 @@
 | [倒影](https://open.spotify.com/track/5Hkj927A3CCy6Xymg9Z2Br) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:54 | 2022-07-16 | 2022-07-23 |
 | [像晴天像雨天（电视剧《难哄》心动曲）](https://open.spotify.com/track/298LjjcBvuQCAlwUWb9dKb) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [电视剧《难哄》影视原声带·只喜欢你Love Moments](https://open.spotify.com/album/7hcotSWQZpoxnAmA04vCOr) | 3:56 | 2025-03-02 |  |
 | [八方來財\(Stacks from All Sides\)](https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT) | [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI) | [八方來財\(Stacks from All Sides\)](https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg) | 2:53 | 2025-03-29 |  |
+| [再遇见你](https://open.spotify.com/track/2i2sfWt2zXZMHjoCuAJDe6) | [Daryl Lee](https://open.spotify.com/artist/2uCvo7X6kJ2iBELAei9aNE) | [再遇见你](https://open.spotify.com/album/1h3EqAmIsaQVaOuO7xC6bQ) | 3:40 | 2025-06-14 |  |
 | [刻在我心底的名字 \(Your Name Engraved Herein\) \- 電影<刻在你心底的名字>主題曲](https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [刻在我心底的名字 \(Your Name Engraved Herein\)](https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2) | 5:20 | 2021-03-27\* | 2021-09-16 |
 | [南北大道](https://open.spotify.com/track/5w4Nh8Cs2QDK9MOOBSh8Gp) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [南北大道](https://open.spotify.com/album/5wE5SEf4sRYOw89E7txLMz) | 4:21 | 2025-01-30 | 2025-02-01 |
 | [友谊长存](https://open.spotify.com/track/3Z9RDHetSqrfqCl31fcSN2) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [友谊长存](https://open.spotify.com/album/0teughBYfffqo1RhvAX51S) | 5:19 | 2024-04-14 | 2024-08-25 |
@@ -1591,7 +1592,7 @@
 | [嘉賓 \- EP/Single](https://open.spotify.com/track/3vItl2vBpmEw20g4v8g0rS) | [張遠](https://open.spotify.com/artist/4TfiBmwTbweJlui16UmUec) | [嘉賓](https://open.spotify.com/album/50mB8uH9KpQYgqIsTEPX59) | 5:33 | 2021-07-28 | 2021-09-03 |
 | [嚣张](https://open.spotify.com/track/1vfUASvUGt3gxQ1x3T3u1C) | [en](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [嚣张](https://open.spotify.com/album/09KIrKBU3kamLtHV5IkHSp) | 4:13 | 2025-06-02 |  |
 | [嚣张](https://open.spotify.com/track/3t8M86tiO0aKMMTXzRrFn8) | [En](https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET) | [嚣张](https://open.spotify.com/album/7HBIfL5J50gkUIjSWMRWqw) | 4:13 | 2021-03-27\* | 2021-05-23 |
-| [在加納共和國離婚](https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [在加納共和國離婚](https://open.spotify.com/album/0yZmjmMyA25lq1giL8yl0a) | 4:21 | 2024-05-14 |  |
+| [在加納共和國離婚](https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [在加納共和國離婚](https://open.spotify.com/album/0yZmjmMyA25lq1giL8yl0a) | 4:21 | 2024-05-14 | 2025-06-15 |
 | [大展鴻圖\(Blueprint Supreme\)](https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz) | [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI), [AR刘夫阳](https://open.spotify.com/artist/0Ayv7StVio9fi017JAgu45) | [八方來財\(Stacks from All Sides\)](https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg) | 3:31 | 2025-06-01 |  |
 | [天天好天](https://open.spotify.com/track/2Cf2X7XDK3yeDpLioM6vWk) | [MY ASTRO](https://open.spotify.com/artist/7bmFi3dRcpOeOPbSlxIjlZ) | [天天好天好福气](https://open.spotify.com/album/6fshgZlyva5XbhNcuapkOY) | 4:09 | 2022-02-01 | 2025-02-01 |
 | [好運一條龍](https://open.spotify.com/track/6Oy8RUCPJjmm8Vs0sotleT) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D), [薛家燕](https://open.spotify.com/artist/668nZs0XpEFx6CNj8y9JXf), [Jaspers Lai](https://open.spotify.com/artist/7fY9nr7g1gjyn3IdjdvX9k) | [好運一條龍](https://open.spotify.com/album/7y5HTXG4GKA7jE1Fo5mCm8) | 3:16 | 2024-02-10 | 2024-02-14 |

@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cA3!\u201d, Japan\u2019s top anime style mobile games.\u00a9Liber Entertainment Inc. All Rights Reserved.",
-  "num_followers": 40025,
+  "num_followers": 40028,
   "original_name": "A3!",
   "owner": {
     "name": "Spotify",
@@ -956,6 +956,22 @@
       },
       "artists": [
         {
+          "name": "\u6cc9\u7530\u8387(CV:\u5c0f\u897f\u6210\u5f25)",
+          "url": "https://open.spotify.com/artist/6vs80AhrELN6M47kwfpfCA"
+        }
+      ],
+      "duration_ms": 257120,
+      "name": "\u9913\u9b3c\u6271\u3044",
+      "url": "https://open.spotify.com/track/3Z18XcDKq3etDT07IrK1bm"
+    },
+    {
+      "added_at": "2025-04-22 19:04:27",
+      "album": {
+        "name": "A3! VIVID AUTUMN EP",
+        "url": "https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS"
+      },
+      "artists": [
+        {
           "name": "\u30a2\u30d9\u30eb[\u6cc9\u7530\u8387(CV:\u5c0f\u897f\u6210\u5f25)]",
           "url": "https://open.spotify.com/artist/3w0Vs5cZKyRNSrYeKzSgi9"
         },
@@ -967,22 +983,6 @@
       "duration_ms": 232280,
       "name": "RESPAWN",
       "url": "https://open.spotify.com/track/473pr8GEED1xr1EdJHRk0J"
-    },
-    {
-      "added_at": "2025-04-22 19:04:27",
-      "album": {
-        "name": "A3! VIVID AUTUMN EP",
-        "url": "https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS"
-      },
-      "artists": [
-        {
-          "name": "\u6cc9\u7530\u8387(CV:\u5c0f\u897f\u6210\u5f25)",
-          "url": "https://open.spotify.com/artist/6vs80AhrELN6M47kwfpfCA"
-        }
-      ],
-      "duration_ms": 257120,
-      "name": "\u9913\u9b3c\u6271\u3044",
-      "url": "https://open.spotify.com/track/3Z18XcDKq3etDT07IrK1bm"
     },
     {
       "added_at": "2025-04-22 19:04:27",

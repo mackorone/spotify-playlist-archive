@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: illusionize, Visage Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,244,481 likes - 74 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,244,266 likes - 74 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 73 | [Show Me Love](https://open.spotify.com/track/5jjNxpM5g6uxPddY9EslF2) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf) | [Show Me Love](https://open.spotify.com/album/5SEg9M3duP0tCbrxnzWugH) | 3:35 |
 | 74 | [My Heart](https://open.spotify.com/track/6dJUsLrcm679OZld1wZIGH) | [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj), [ETTA](https://open.spotify.com/artist/7CUhs4JfIPg1zFs3BTvKTn) | [My Heart](https://open.spotify.com/album/0MT17WhlXQzq4J8aI6SHZy) | 2:10 |
 
-Snapshot ID: `aEuUjAAAAAA3WZdlAhWl2Px5VvjAGgkZ`
+Snapshot ID: `aEuUjAAAAAC3Zf90tDWkaHpdOuQwz0DR`

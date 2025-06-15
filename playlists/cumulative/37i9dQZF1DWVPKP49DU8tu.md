@@ -4,7 +4,7 @@
 
 > Solo hit da cantare \(anche fuori dalla doccia\).
 
-410 songs - 23 hr 57 min
+411 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [La musica non c'è](https://open.spotify.com/track/6cBM8x7RVG06MAkwP3JMvX) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4) | 3:42 | 2025-01-28 |  |
 | [la noia](https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [la noia](https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI) | 3:09 | 2024-03-27 |  |
 | [La rabbia non ti basta](https://open.spotify.com/track/0CjNKLqvr5tDvepagOIKlu) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [La rabbia non ti basta](https://open.spotify.com/album/7rex9i7hSRRzJAlRdm3xle) | 3:09 | 2024-03-27 | 2024-05-05 |
+| [La tua canzone](https://open.spotify.com/track/17ctLiAYSfZkL8ksjtSchO) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T) | 3:12 | 2025-05-28 |  |
 | [La tua canzone](https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy) | 3:12 | 2024-03-27 | 2025-05-29 |
 | [lady](https://open.spotify.com/track/7wXb66O5ZZU77xtqNDH0gl) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [lady](https://open.spotify.com/album/3X7nxQaNFuK1W5QYVpIvUL) | 2:36 | 2022-05-05 | 2022-07-29 |
 | [Latina](https://open.spotify.com/track/5ve9r4C6D4NnDXQ6AAXu5V) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Fortuna](https://open.spotify.com/album/0sODDDrfUq5gsokMbtWB6W) | 3:23 | 2022-05-05 | 2022-07-29 |
@@ -374,7 +375,7 @@
 | [Torna a casa](https://open.spotify.com/track/3590AAEoqH50z4UmhMIY85) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Il ballo della vita](https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj) | 3:50 | 2022-05-05 | 2022-07-28 |
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-06-09 | 2023-08-19 |
 | [Treat You Better](https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate](https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd) | 3:07 | 2022-05-05 | 2024-01-31 |
-| [Tu No](https://open.spotify.com/track/5mQTzYTDDob48mOP3U9k7Q) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Tu No](https://open.spotify.com/album/73tk3YTX5XnmuZtUwcIPED) | 3:35 | 2024-03-27 |  |
+| [Tu No](https://open.spotify.com/track/5mQTzYTDDob48mOP3U9k7Q) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Tu No](https://open.spotify.com/album/73tk3YTX5XnmuZtUwcIPED) | 3:35 | 2024-03-27 | 2025-06-15 |
 | [Tusa](https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tusa](https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F) | 3:20 | 2022-05-05 | 2023-05-21 |
 | [TUTA GOLD](https://open.spotify.com/track/654Jxp6rUFgPckixlIusRJ) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [TUTA GOLD](https://open.spotify.com/album/298TPucavaqMuiInBsW7jX) | 2:58 | 2024-03-27 |  |
 | [Tuttecose \(feat\. Mara Sattei\)](https://open.spotify.com/track/46Au7GJaQ6XzjdQ4KJU1vt) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [OK UN CAZZO](https://open.spotify.com/album/7dxiiqebvmLMlavUYgE4sf) | 3:17 | 2022-05-05 | 2022-07-29 |

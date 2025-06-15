@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 
 > This is Trivium\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,391 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,407 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 | 5 | [Dying in Your Arms](https://open.spotify.com/track/2nuA1esWzYEgnfQ4DpsSsm) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 2:53 |
 | 6 | [The Sin and the Sentence](https://open.spotify.com/track/6156ZPGcezId0Bmw7x7c7K) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 5:49 |
 | 7 | [Down from the Sky](https://open.spotify.com/track/5LePaQIrJcIwrUzNEr3m86) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 5:34 |
-| 8 | [I Don't Wanna Be Me](https://open.spotify.com/track/2tNx0sauNCGfpniMNu9hEh) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [I Don't Wanna Be Me](https://open.spotify.com/album/6vupYQiT3uyxz2a25HUNX9) | 3:48 |
+| 8 | [Catastrophist](https://open.spotify.com/track/3fnqNxjN7o0tJe7zOQZV68) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 6:28 |
 | 9 | [Pull Harder on the Strings of Your Martyr](https://open.spotify.com/track/0UXaslpoA81no74N7U56U9) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 4:51 |
-| 10 | [Catastrophist](https://open.spotify.com/track/3fnqNxjN7o0tJe7zOQZV68) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 6:28 |
+| 10 | [I Don't Wanna Be Me](https://open.spotify.com/track/2tNx0sauNCGfpniMNu9hEh) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [I Don't Wanna Be Me](https://open.spotify.com/album/6vupYQiT3uyxz2a25HUNX9) | 3:48 |
 | 11 | [Beyond Oblivion](https://open.spotify.com/track/2xOwDv18iuRmDI7akoJ250) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 5:16 |
 | 12 | [In The Court Of The Dragon](https://open.spotify.com/track/1N8HMQL90GFdDaFUz6ONcs) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 5:09 |
 | 13 | [Like Light to the Flies](https://open.spotify.com/track/3wuGM9ka6DGQPtrEaVGl00) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 5:40 |
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 | 37 | [Amongst The Shadows & The Stones](https://open.spotify.com/track/0XonjMgieW7uTIeAXzgbAB) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 5:40 |
 | 38 | [Watch the World Burn](https://open.spotify.com/track/1JwKA8yiG6cO43ZjEPawng) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 4:53 |
 | 39 | [Through Blood and Dirt and Bone](https://open.spotify.com/track/5wsGmJgkTbddIDOoRU6xOT) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:26 |
-| 40 | [Dig](https://open.spotify.com/track/7nVIE2M0t4sIh3ZkEqrjlY) | [Kevin Sherwood](https://open.spotify.com/artist/0etNimDSQLWFbktPBHQ5vb), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5), [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Call of Duty®: Black Ops 6 \- Zombies "The Tomb" \(Original Soundtrack\)](https://open.spotify.com/album/3xPKKfr1Llm3NU6sF7Zn7C) | 3:49 |
+| 40 | [Master of Puppets](https://open.spotify.com/track/0P5D7ji9AJi85bEdQhq50a) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy \(Special Edition\)](https://open.spotify.com/album/21mOhkOtrPVySn4D2SbOAF) | 8:09 |
 | 41 | [Scattering The Ashes](https://open.spotify.com/track/1jo4t3gX4wXdSwotsH9J5u) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 3:24 |
 | 42 | [Black](https://open.spotify.com/track/6APaLjBA0uKDTpHMaGA7eY) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 3:27 |
-| 43 | [Master of Puppets](https://open.spotify.com/track/0P5D7ji9AJi85bEdQhq50a) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy \(Special Edition\)](https://open.spotify.com/album/21mOhkOtrPVySn4D2SbOAF) | 8:09 |
+| 43 | [Dig](https://open.spotify.com/track/7nVIE2M0t4sIh3ZkEqrjlY) | [Kevin Sherwood](https://open.spotify.com/artist/0etNimDSQLWFbktPBHQ5vb), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5), [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Call of Duty®: Black Ops 6 \- Zombies "The Tomb" \(Original Soundtrack\)](https://open.spotify.com/album/3xPKKfr1Llm3NU6sF7Zn7C) | 3:49 |
 | 44 | [Shogun](https://open.spotify.com/track/5FaEX9EwutRqVvOZsJ27G3) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 11:54 |
 | 45 | [Anthem \(We Are the Fire\)](https://open.spotify.com/track/36ZvFmD6IuW1nawOBbpC8z) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Crusade](https://open.spotify.com/album/42MixogSAsobX5po649Y0j) | 4:03 |
 | 46 | [Inception of the End](https://open.spotify.com/track/0P1weKhEUYqP4UMV4UNr4G) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 | 49 | [Ember to Inferno](https://open.spotify.com/track/3IKNbveo9wfVgEjEFLpY6b) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ember to Inferno](https://open.spotify.com/album/3hnOE93weJxgpQZOkVC4as) | 4:11 |
 | 50 | [Dusk Dismantled](https://open.spotify.com/track/59BD3aWvuPYCXCOqJzSqP7) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 3:47 |
 
-Snapshot ID: `aEoYgAAAAAD0j8VpQ6JwjwftLAF2ibS+`
+Snapshot ID: `aEtqAAAAAAAurd+eh0wwCiEReTjsMOot`

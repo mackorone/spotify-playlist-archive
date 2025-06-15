@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24k9lG.md) - [plain]
 
 > This is Binomio de Oro de América\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,535 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,548 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24k9lG.md) - [plain]
 | 49 | [Celos](https://open.spotify.com/track/0ZrddFVnZp5galGScp8NK5) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [De La Mano Con El Pueblo](https://open.spotify.com/album/5nCKUZvev5ocWCIICjFvO8) | 5:19 |
 | 50 | [El Forastero](https://open.spotify.com/track/6uz1ZeeLDnuadYCDXi83aH) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Lo Nuestro](https://open.spotify.com/album/3jUFTOiJjPAVAgCdz2NipN) | 4:55 |
 
-Snapshot ID: `aEoYgAAAAABrC9wNsDLSMLZuZVDCOrAh`
+Snapshot ID: `aEtqAAAAAAAjhhPkUytWw8vJAVB8pZZa`

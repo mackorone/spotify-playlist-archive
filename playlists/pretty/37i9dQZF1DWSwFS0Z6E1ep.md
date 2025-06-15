@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > The biggest party hits of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,715 likes - 135 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,841 likes - 135 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 21 | [Cheek To Cheek](https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 5:54 |
 | 22 | [Come On, Let's Go](https://open.spotify.com/track/4cRfSR0QxDlXRHTKyEOu93) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:04 |
 | 23 | [Rockin' Robin](https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt) | [Bobby Day](https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj) | [Rockin' With Robin](https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y) | 2:40 |
-| 24 | [What'd I Say, Pt\. 1 & 2](https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [What'd I Say](https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn) | 5:07 |
-| 25 | [Splish Splash](https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Bobby Darin](https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB) | 2:11 |
+| 24 | [Splish Splash](https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Bobby Darin](https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB) | 2:11 |
+| 25 | [What'd I Say, Pt\. 1 & 2](https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [What'd I Say](https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn) | 5:07 |
 | 26 | [That'll Be The Day](https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:30 |
 | 27 | [Get Rhythm](https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Greatest](https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV) | 2:12 |
 | 28 | [Sweet Little Sixteen](https://open.spotify.com/track/4GWHrdyVTC0AWwuRgoWzE7) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [One Dozen Berry's](https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ) | 3:00 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 32 | [Come Go With Me](https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Come Go With Me: The Best Of The Del\-Vikings](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) | 2:42 |
 | 33 | [Ain't That A Shame](https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Fats Domino Swings](https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf) | 2:32 |
 | 34 | [Peggy Sue](https://open.spotify.com/track/2OARIMw1hpehr86Iwmv04c) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D), [The Crickets](https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR) | [Buddy Holly](https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP) | 2:30 |
-| 35 | [C’Mon Everybody](https://open.spotify.com/track/7ItZM6DMZE2m1X7yIaRxjq) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [12 Of His Biggest Hits](https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6) | 1:58 |
-| 36 | [I Wonder Why](https://open.spotify.com/track/7vAw4LLIms6X8ZHcbtoazz) | [Dion & The Belmonts](https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4) | [Presenting Dion And The Belmonts](https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el) | 2:21 |
+| 35 | [I Wonder Why](https://open.spotify.com/track/7vAw4LLIms6X8ZHcbtoazz) | [Dion & The Belmonts](https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4) | [Presenting Dion And The Belmonts](https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el) | 2:21 |
+| 36 | [C’Mon Everybody](https://open.spotify.com/track/7ItZM6DMZE2m1X7yIaRxjq) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [12 Of His Biggest Hits](https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6) | 1:58 |
 | 37 | [See You Later, Alligator](https://open.spotify.com/track/05eNEozACh10Rn0ewFnH8Y) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rockin' The Joint](https://open.spotify.com/album/0N5EMEMyYN6BW9R3PjCxxz) | 2:46 |
 | 38 | [All Shook Up](https://open.spotify.com/track/5ueyLj6e6oVaTY0KQ6yLaA) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 1:57 |
 | 39 | [Calendar Girl](https://open.spotify.com/track/7Gpx2fNJiilvrf9Ss8qbit) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:39 |

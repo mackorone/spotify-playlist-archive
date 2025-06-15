@@ -1049,6 +1049,32 @@
     },
     {
       "album": {
+        "name": "Music For People Who Believe In Love",
+        "url": "https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        },
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        },
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205230,
+      "name": "Hey Beautiful (with Louane & Tiny Habits)",
+      "url": "https://open.spotify.com/track/4apbWcMX0yV7eE4orbPH2K"
+    },
+    {
+      "album": {
         "name": "HONEYMOONERS",
         "url": "https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY"
       },

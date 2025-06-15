@@ -15648,7 +15648,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
@@ -17972,7 +17972,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 271801,
       "name": "NUBES",
       "url": "https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF"
@@ -19480,7 +19480,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 200680,
       "name": "PERFuMITO NUEVO",
       "url": "https://open.spotify.com/track/1Q9Efnm5csdCMFynISxL2x"
@@ -21342,6 +21342,32 @@
       "duration_ms": 165412,
       "name": "Rah Tah Tah",
       "url": "https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK"
+    },
+    {
+      "album": {
+        "name": "RAMEN PARA DOS",
+        "url": "https://open.spotify.com/album/2InOeOytZrdWOiCeSvQFlF"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "XROSS",
+          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231999,
+      "name": "RAMEN PARA DOS",
+      "url": "https://open.spotify.com/track/0vcuJjViqrFCCWUrjrZW1X"
     },
     {
       "album": {

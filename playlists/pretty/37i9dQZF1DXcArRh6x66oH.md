@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > roots run deep
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,139 likes - 168 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,453 likes - 168 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 | 167 | [Widows of Normandy](https://open.spotify.com/track/3djAYoVGOkzXsgo7OKzFx0) | [Rye LaChance](https://open.spotify.com/artist/2Se7WvcOZLwezj91JjlVCj) | [Widows of Normandy](https://open.spotify.com/album/5PwfQsDyAcUo4XP3ljb6O1) | 3:10 |
 | 168 | [Dirt Cheap](https://open.spotify.com/track/48X5k2vce5rXckgDAnXMsa) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:59 |
 
-Snapshot ID: `aEuiawAAAAAEuq9MosXaQj25gmZqi9B3`
+Snapshot ID: `aEuiawAAAAARFXAkr6/ICGsMj5K+CiQ8`

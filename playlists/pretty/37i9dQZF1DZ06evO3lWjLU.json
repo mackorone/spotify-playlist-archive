@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Ocean. The essential tracks, all in one playlist.",
-  "num_followers": 288442,
+  "num_followers": 288519,
   "original_name": "This Is Danny Ocean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAATF93f1P9z2c5X2MWn+7Rd",
+  "snapshot_id": "aEtqAAAAAACOv3Q5SytcYywdSK6efvdV",
   "tracks": [
     {
       "added_at": null,
@@ -227,18 +227,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "REFLEXA",
-        "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
+        "name": "CUARTO AZUL",
+        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
       },
       "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
         {
           "name": "Danny Ocean",
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 180857,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/58UCQZoSDprVXVLgcCVBHt"
+      "duration_ms": 202713,
+      "name": "HOY ES TU CUMPLEA\u00d1OS",
+      "url": "https://open.spotify.com/track/4gQUdvZbxu7G9G7NlREw21"
     },
     {
       "added_at": null,
@@ -263,22 +267,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CUARTO AZUL",
-        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+        "name": "REFLEXA",
+        "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
       },
       "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
         {
           "name": "Danny Ocean",
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 202713,
-      "name": "HOY ES TU CUMPLEA\u00d1OS",
-      "url": "https://open.spotify.com/track/4gQUdvZbxu7G9G7NlREw21"
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/58UCQZoSDprVXVLgcCVBHt"
     },
     {
       "added_at": null,

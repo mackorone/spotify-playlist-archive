@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Sophia Frank
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,590 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,600 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 18 | [Hemel Op Die Platteland](https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [As Jy Met Vuur Speel Sal Jy Brand](https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM) | 2:39 |
 | 19 | [Glamour Poes](https://open.spotify.com/track/1StVDjRaq2zNtYcizSsvXl) | [Robbie Perrott](https://open.spotify.com/artist/3k3FcK16PCE7XiDTGpub8K) | [Glamour Poes](https://open.spotify.com/album/5fntDJM3KF40fuW0pJopmk) | 1:19 |
 | 20 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
-| 21 | [Modo](https://open.spotify.com/track/6O7rJqVltHSlHccxKgJrqZ) | [FREDDY L](https://open.spotify.com/artist/6UisYsxBIJxT8NGZvmzXsm) | [Modo](https://open.spotify.com/album/5Rt0j3oFothc5SZpeQQmMZ) | 3:37 |
+| 21 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 |
 | 22 | [Cheap Rooiwyn](https://open.spotify.com/track/7feAdNUBSbNgWZGGUS2m8j) | [Sonder Onderbroeke](https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx) | [Cheap Rooiwyn](https://open.spotify.com/album/2o3bbmaNXCbu5MpkbJGE6n) | 3:03 |
 | 23 | [Black Book](https://open.spotify.com/track/1vTbBTzLzLKz6TVmRIwIBK) | [Our Bodies](https://open.spotify.com/artist/1WROvbRgHUv2btWps6WzGW) | [Black Book](https://open.spotify.com/album/2ZhCAotYBPm0EfTOAyfTvg) | 2:56 |
-| 24 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 |
+| 24 | [Modo](https://open.spotify.com/track/6O7rJqVltHSlHccxKgJrqZ) | [FREDDY L](https://open.spotify.com/artist/6UisYsxBIJxT8NGZvmzXsm) | [Modo](https://open.spotify.com/album/5Rt0j3oFothc5SZpeQQmMZ) | 3:37 |
 | 25 | [Aquaplane](https://open.spotify.com/track/6ttMUZsziMM9xFHTVUxFZ2) | [EL](https://open.spotify.com/artist/48C1smjh5KIXLnEI8ENld6) | [Aquaplane](https://open.spotify.com/album/2Zj4oz0kR7YxmpryZzctCn) | 3:36 |
 | 26 | [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 |
 | 27 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 31 | [Lego](https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ) | [Sonder Onderbroeke](https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx) | [Lego](https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1) | 2:31 |
 | 32 | [Suikerbossie Gedekonstrueer](https://open.spotify.com/track/0PhMtLX6Z2tjjAIwriNbI1) | [Klaas Zaberman en die Nie\-reisende Reserwes](https://open.spotify.com/artist/4H6OMdEui2kMQ4FAMFM3aA) | [Suikerbossie Gedekonstrueer](https://open.spotify.com/album/6DdDeFPJJj14w7E8ojF0TF) | 2:49 |
 | 33 | [Die Ruimte](https://open.spotify.com/track/2dJNS220dOuB5taOM56DsG) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Die Ruimte](https://open.spotify.com/album/7Evf8SmwVgb9vUxuvkSRql) | 2:58 |
-| 34 | [Doen Sy Bes](https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS) | [Die Beste Band In Die Wêreld ...Ooit, Ek Sweer](https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd) | [Nou Toer Ons!](https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89) | 2:58 |
+| 34 | [Fantasy Factory](https://open.spotify.com/track/79i1iB5GYqIHaZGMh14uS6) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [Fantasy Factory](https://open.spotify.com/album/2eDfOklG1zGZsiLPgTIdce) | 2:52 |
 | 35 | [Tevrede](https://open.spotify.com/track/51sRTrwrFheB2qZn5cRtnZ) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Tevrede](https://open.spotify.com/album/2ruygRH00NvGn0NUkSH0hO) | 2:56 |
 | 36 | [Pure](https://open.spotify.com/track/4GdSFKzduqSxPicICuivi3) | [Zondagkraal](https://open.spotify.com/artist/0k9d7PDNcw5uY0JlHmjTy7) | [Pure](https://open.spotify.com/album/6WxmD3J9DcUbFOqXELVCB1) | 3:53 |
-| 37 | [Fantasy Factory](https://open.spotify.com/track/79i1iB5GYqIHaZGMh14uS6) | [The Tazers](https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce) | [Fantasy Factory](https://open.spotify.com/album/2eDfOklG1zGZsiLPgTIdce) | 2:52 |
+| 37 | [Doen Sy Bes](https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS) | [Die Beste Band In Die Wêreld ...Ooit, Ek Sweer](https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd) | [Nou Toer Ons!](https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89) | 2:58 |
 | 38 | [cobra\~](https://open.spotify.com/track/1fdQEQM1LHmTgScM6qf9XC) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [cobra\~](https://open.spotify.com/album/0q4Q3myGcOhUfGYveoXcb5) | 1:40 |
 | 39 | [Ons Lewe Net Een Keer](https://open.spotify.com/track/5GgWWVgpPfX9qFHtZ1TNU2) | [Babette](https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa) | [Ons Lewe Net Een Keer](https://open.spotify.com/album/1BSTOeLYWb5wh8t4SSGSpV) | 2:56 |
 | 40 | [Change](https://open.spotify.com/track/6C4VkYbuUh13rTCrnrYfyv) | [GRANGE](https://open.spotify.com/artist/3E82Y3u4xMJqadI1AkzvSb) | [Change](https://open.spotify.com/album/3RFMCxQUQxxL3lydudnfah) | 3:59 |
 | 41 | [Sonskyn Vrou](https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl) | [Hendré Baard](https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R) | [Sonskyn Vrou](https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1) | 4:26 |
-| 42 | [Die Dood Is Blou](https://open.spotify.com/track/5v6s3vYnADMh18n2lX4K4I) | [L!SA](https://open.spotify.com/artist/7mS1L11vTDofWkmMEs5aVm) | [Die Dood Is Blou](https://open.spotify.com/album/66nEhtrNE7G3RE7rXbNEob) | 2:38 |
-| 43 | [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 |
+| 42 | [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 |
+| 43 | [Die Dood Is Blou](https://open.spotify.com/track/5v6s3vYnADMh18n2lX4K4I) | [L!SA](https://open.spotify.com/artist/7mS1L11vTDofWkmMEs5aVm) | [Die Dood Is Blou](https://open.spotify.com/album/66nEhtrNE7G3RE7rXbNEob) | 2:38 |
 | 44 | [Little Witch](https://open.spotify.com/track/2op43ss71AgXOzo5zVdo6M) | [The Cinematic Rejects](https://open.spotify.com/artist/0PY9NkUN8qsYGfAI4DqSsd) | [Little Witch](https://open.spotify.com/album/6jTSxywhwAkrxJXSilVUhT) | 3:37 |
 | 45 | [Die Brug](https://open.spotify.com/track/0MozIJQu2CAVWogDilKDKj) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Die Brug](https://open.spotify.com/album/0yC6sDUuyb6T1rf0ruJjwA) | 3:30 |
 | 46 | [Back in the Day](https://open.spotify.com/track/0b8XiWav4wIZClvoxC2ptM) | [Nina Brand](https://open.spotify.com/artist/52xuRtfsFW0C8aBeDjc86a) | [Back in the Day](https://open.spotify.com/album/7CoECeuiiMHAxmV2W7vuM2) | 3:19 |
 | 47 | [Cordelia](https://open.spotify.com/track/6d16sOs45vdNnd8UZfUT0Z) | [Lavender Acres](https://open.spotify.com/artist/4vfYlcoXm4h6lgzArlVfhG) | [Cordelia](https://open.spotify.com/album/2IcJNDGSfsD0mIEWzuiPTC) | 3:24 |
 | 48 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |
-| 49 | [Die Kortste Hier](https://open.spotify.com/track/5xO82P7iaRC0LoUc2pz21l) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Die Kortste Hier](https://open.spotify.com/album/7bQzKeNQdvwiiPmOh4yAo8) | 2:51 |
+| 49 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |
 | 50 | [Green World](https://open.spotify.com/track/1oPmYaI4mNoGB0vEkfJeuz) | [Tim Parr](https://open.spotify.com/artist/4yLTWvlnNIMCSAcH9f3Au9) | [Green World](https://open.spotify.com/album/0w5qAqan2iDlfyqnDc2Gmo) | 4:53 |
 
 Snapshot ID: `aEvNEAAAAAAkPJACeG5J/Zcxln5Yx+x4`

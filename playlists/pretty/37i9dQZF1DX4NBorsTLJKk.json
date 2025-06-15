@@ -1,6 +1,6 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 34912,
+  "num_followers": 34918,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u4f60\u6240\u4e0d\u77e5\u9053\u7684\u675c\u632f\u7199\u4e4b\u5167\u90e8\u6574\u4fee",
-        "url": "https://open.spotify.com/album/5bQhqKf8GVKyOj7Py0SoIS"
-      },
-      "artists": [
-        {
-          "name": "Soft Lipa",
-          "url": "https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T"
-        }
-      ],
-      "duration_ms": 285851,
-      "name": "\u96e8\u6c92\u505c\u904e",
-      "url": "https://open.spotify.com/track/4CjsfB0jDEgLcAXrlOyFmR"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "\u98db\u884c\u90e8\u843d",
         "url": "https://open.spotify.com/album/4QUDMVhCj9fDvJSyiXzZNy"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 271640,
       "name": "\u96e8\u6afb\u82b1",
       "url": "https://open.spotify.com/track/3ZxKUt8nudvrJbUvX0haHJ"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u4f60\u6240\u4e0d\u77e5\u9053\u7684\u675c\u632f\u7199\u4e4b\u5167\u90e8\u6574\u4fee",
+        "url": "https://open.spotify.com/album/5bQhqKf8GVKyOj7Py0SoIS"
+      },
+      "artists": [
+        {
+          "name": "Soft Lipa",
+          "url": "https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T"
+        }
+      ],
+      "duration_ms": 285851,
+      "name": "\u96e8\u6c92\u505c\u904e",
+      "url": "https://open.spotify.com/track/4CjsfB0jDEgLcAXrlOyFmR"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u602a\u80ce",
-        "url": "https://open.spotify.com/album/5EtVeNXucxhZvlz7v8wf7r"
-      },
-      "artists": [
-        {
-          "name": "Ronald Cheng",
-          "url": "https://open.spotify.com/artist/66FF9LF0uO3W1zxEN0m8uN"
-        }
-      ],
-      "duration_ms": 263314,
-      "name": "\u9ed1\u98a8\u66b4\u96e8",
-      "url": "https://open.spotify.com/track/4aERDhzOp02MSlYVzUh2I5"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "rain...",
         "url": "https://open.spotify.com/album/7srVgPbAoeK65QAHUGmiov"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 158571,
       "name": "rain...",
       "url": "https://open.spotify.com/track/0OEqtj2lJxMPI9jTwhzubo"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u602a\u80ce",
+        "url": "https://open.spotify.com/album/5EtVeNXucxhZvlz7v8wf7r"
+      },
+      "artists": [
+        {
+          "name": "Ronald Cheng",
+          "url": "https://open.spotify.com/artist/66FF9LF0uO3W1zxEN0m8uN"
+        }
+      ],
+      "duration_ms": 263314,
+      "name": "\u9ed1\u98a8\u66b4\u96e8",
+      "url": "https://open.spotify.com/track/4aERDhzOp02MSlYVzUh2I5"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u6d77\u6d0b\u97f3\u6a02\u5275\u4f5c\u5c08\u8f2f",
-        "url": "https://open.spotify.com/album/3lgDIJPRUSsSgim5cBZ5mE"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5efa\u5e74",
-          "url": "https://open.spotify.com/artist/1UAZlkup3OPkbEYiH8tlbi"
-        }
-      ],
-      "duration_ms": 369586,
-      "name": "\u96e8\u8207\u4f60",
-      "url": "https://open.spotify.com/track/01BQfSbNd3LflgSiPXizkO"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "\u5bc4\u5c45\u87f9",
         "url": "https://open.spotify.com/album/6Ph7NAFao76ppkg9FpDi6f"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 284225,
       "name": "\u96e8\u4e0d\u505c",
       "url": "https://open.spotify.com/track/7ARryPCDXBDHptuCjqaxYf"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u6d77\u6d0b\u97f3\u6a02\u5275\u4f5c\u5c08\u8f2f",
+        "url": "https://open.spotify.com/album/3lgDIJPRUSsSgim5cBZ5mE"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5efa\u5e74",
+          "url": "https://open.spotify.com/artist/1UAZlkup3OPkbEYiH8tlbi"
+        }
+      ],
+      "duration_ms": 369586,
+      "name": "\u96e8\u8207\u4f60",
+      "url": "https://open.spotify.com/track/01BQfSbNd3LflgSiPXizkO"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u4e0b\u96e8\u5929",
-        "url": "https://open.spotify.com/album/65cvYcrZQA6nWGphMBlYYI"
-      },
-      "artists": [
-        {
-          "name": "Moon Chew",
-          "url": "https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "\u4e0b\u96e8\u5929",
-      "url": "https://open.spotify.com/track/4OoJ6yYi1h01D0LWXT8dQr"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "\u6b61\u8fce\u812b\u62c9\u5eab",
         "url": "https://open.spotify.com/album/6DxtTS5klLqGAl68AzouEk"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 258000,
       "name": "\u96e8",
       "url": "https://open.spotify.com/track/6LagCTmPN43dbbTvfiGwLz"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u4e0b\u96e8\u5929",
+        "url": "https://open.spotify.com/album/65cvYcrZQA6nWGphMBlYYI"
+      },
+      "artists": [
+        {
+          "name": "Moon Chew",
+          "url": "https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "\u4e0b\u96e8\u5929",
+      "url": "https://open.spotify.com/track/4OoJ6yYi1h01D0LWXT8dQr"
     },
     {
       "added_at": "2024-11-21 17:08:53",

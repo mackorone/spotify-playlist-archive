@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 
 > This is Eric Clapton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,185 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,203 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,16 +31,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 21 | [Sensitive Kind](https://open.spotify.com/track/5P6cmAVNoSIWyqZm9gu0mQ) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Don White](https://open.spotify.com/artist/3LPEgo9F2HJTkMFTtUbi1G) | [Eric Clapton & Friends: The Breeze \- An Appreciation Of JJ Cale](https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H) | 5:17 |
 | 22 | [Rock Me Baby](https://open.spotify.com/track/1bursm5ZnNHQS55a23h7kR) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 6:37 |
 | 23 | [Old Love \- Acoustic Live](https://open.spotify.com/track/0XuDj6qH64RUAljehbd8O3) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 7:51 |
-| 24 | [Forever Man \- 1999 Remaster](https://open.spotify.com/track/6x7jcl21wMqyt5R2bAxPyP) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Behind the Sun](https://open.spotify.com/album/5WX2WQT74bVZl9UqqY6LZT) | 3:11 |
-| 25 | [Heads in Georgia](https://open.spotify.com/track/4PC1KhzSfxchqRjBlAN7We) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Road to Escondido](https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079) | 4:09 |
+| 24 | [Heads in Georgia](https://open.spotify.com/track/4PC1KhzSfxchqRjBlAN7We) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Road to Escondido](https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079) | 4:09 |
+| 25 | [Forever Man \- 1999 Remaster](https://open.spotify.com/track/6x7jcl21wMqyt5R2bAxPyP) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Behind the Sun](https://open.spotify.com/album/5WX2WQT74bVZl9UqqY6LZT) | 3:11 |
 | 26 | [Knockin' On Heaven's Door](https://open.spotify.com/track/7fIZpIYzxzSV9s7oc6u1IA) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [The Cream Of Clapton](https://open.spotify.com/album/6uTteowoZyrRDJ9GHITrEp) | 4:24 |
 | 27 | [Key to the Highway](https://open.spotify.com/track/1a0CDu5jpwW2arT34HbwUP) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 3:39 |
 | 28 | [Can't Find My Way Home \- Live from Madison Square Garden](https://open.spotify.com/track/2mnUGxY7QpO62QH1KqhY4O) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | [Live from Madison Square Garden](https://open.spotify.com/album/438cphNkpzGKfsC0PcaDLH) | 5:32 |
 | 29 | [They Call Me The Breeze](https://open.spotify.com/track/5zX6E4brIhshX7MPWQiiO5) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton & Friends: The Breeze \- An Appreciation Of JJ Cale](https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H) | 3:06 |
 | 30 | [It's in the Way That You Use It](https://open.spotify.com/track/02FvigqN15ekfiaR42pJHu) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [August](https://open.spotify.com/album/02v9Z7vUiuWUlOlNzNtmPA) | 4:11 |
 | 31 | [Danger](https://open.spotify.com/track/1tvT5VBrLMxMM2LvzBRA91) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Road to Escondido](https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079) | 5:32 |
-| 32 | [I've Got a Rock 'n' Roll Heart](https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Money and Cigarettes \(2007 Remaster\)](https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq) | 3:13 |
-| 33 | [Let It Rain](https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton](https://open.spotify.com/album/7nAtrGNUxCNwx9R1Q5PTdh) | 5:01 |
+| 32 | [Let It Rain](https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton](https://open.spotify.com/album/7nAtrGNUxCNwx9R1Q5PTdh) | 5:01 |
+| 33 | [I've Got a Rock 'n' Roll Heart](https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Money and Cigarettes \(2007 Remaster\)](https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq) | 3:13 |
 | 34 | [Alberta \- Acoustic Live](https://open.spotify.com/track/713D0u0XMewrhWIQwjrlrd) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 3:38 |
 | 35 | [Before You Accuse Me](https://open.spotify.com/track/2AF4VO2D3wOT4ik18tSXX4) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Journeyman](https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B) | 3:58 |
 | 36 | [Three O'Clock Blues](https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 8:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 49 | [Moon River](https://open.spotify.com/track/5oq29tJEj14LjLjXyaXCEF) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Meanwhile](https://open.spotify.com/album/7ASFpTja76OXENB9qkzXjJ) | 5:06 |
 | 50 | [Hard to Thrill](https://open.spotify.com/track/0fX9pA3TukbkWCEdNoyysH) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Road to Escondido](https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079) | 5:10 |
 
-Snapshot ID: `aEoYgAAAAACL8MzCui3ZDahdejywEtwM`
+Snapshot ID: `aEtqAAAAAABunf/WKwHTKuwU+0aki8JH`

@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 | 40 | [MearlGo 8 \(Flint, MI\)](https://open.spotify.com/track/506Pui46P9KLOs0eDS9IFu) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [MearlGo 8 \(Flint, MI\)](https://open.spotify.com/album/7gGSdvXj0rqLC96IsPAIfE) | 2:02 |
 | 41 | [Notice](https://open.spotify.com/track/1MKG5KyMFQKYmq6LUISDoa) | [Next Town Down](https://open.spotify.com/artist/2jJCk4fs0irQjjrG0Yo4I9) | [Juliet](https://open.spotify.com/album/4jvZzMdRxjs2JqGseI9O0H) | 1:45 |
 | 42 | [For the Whole Team](https://open.spotify.com/track/0n0HYl3ExiGeY6vUaajKPE) | [MajorLeagueTrvll](https://open.spotify.com/artist/09auIhNscHq5o6RJHlRmw1), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [For the Whole Team](https://open.spotify.com/album/4GBtfezL2WcgXp9S2JLc05) | 2:05 |
-| 43 | [Bottom Line](https://open.spotify.com/track/5OM4xg1l4H9SogiriLEz1U) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [BIG MF](https://open.spotify.com/album/3ZwSucN8fSlXfRExpPP81b) | 2:05 |
-| 44 | [Since 92](https://open.spotify.com/track/4oPikxqsNEjb62N7X8GarH) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [F.U.N.](https://open.spotify.com/album/1dp5AbK2U94jjLVliJh3BV) | 3:17 |
+| 43 | [Since 92](https://open.spotify.com/track/4oPikxqsNEjb62N7X8GarH) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [F.U.N.](https://open.spotify.com/album/1dp5AbK2U94jjLVliJh3BV) | 3:17 |
+| 44 | [Bottom Line](https://open.spotify.com/track/5OM4xg1l4H9SogiriLEz1U) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [BIG MF](https://open.spotify.com/album/3ZwSucN8fSlXfRExpPP81b) | 2:05 |
 | 45 | [Testimony](https://open.spotify.com/track/50UcV2PiUj2pX2ZmCFOzPY) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp) | [Lighten Up](https://open.spotify.com/album/2cOUZ5AnAz7dCO2sdIg3Ic) | 2:32 |
 | 46 | [I Do](https://open.spotify.com/track/6ljzmW6pverX0TuNnPXLU2) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 3:29 |
 | 47 | [Emotionless](https://open.spotify.com/track/5KIttjYYPbjw91ypzSqRyR) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 3:19 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 | 88 | [W.H.E.W\. \(Fat Al & The Silk Drawers\)](https://open.spotify.com/track/5ZxIVf6rWtKuBnYMe6smcH) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 1:21 |
 | 89 | [W.H.E.W\. \(SouthWest Kesha Mission\)](https://open.spotify.com/track/2nXQCxv2VSlHZ1ELHpOnLo) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 1:27 |
 
-Snapshot ID: `Ab0D1AAAAAAqC12thcutkkYlaeW5b7mY`
+Snapshot ID: `Ab0JkwAAAAAGaOOlFp92rUT/+SRLm+e4`

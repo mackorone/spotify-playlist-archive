@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-444 songs - 23 hr 29 min
+445 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 | 2024-05-03 |  |
 | [King](https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [King](https://open.spotify.com/album/1Iiu7xbEoH46CCvp5F9o7D) | 3:30 | 2023-01-27 | 2025-02-15 |
 | [Knew That Second](https://open.spotify.com/track/0m6unz6uP458oqXaPWyIgt) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx), [Trygge](https://open.spotify.com/artist/50fazcvxDiXlzBHusOK6gu) | [Knew That Second](https://open.spotify.com/album/79SkOcwPqz3dsNo2dKTigJ) | 2:40 | 2021-10-29 | 2022-07-28 |
-| [Kongo \(Hanî´s Remix\)](https://open.spotify.com/track/0ogdZxS5XtjVQeRfwgkjUN) | [Kolinga](https://open.spotify.com/artist/1l4wo8qR1qvFN8aym2xmDM), [HANÎ](https://open.spotify.com/artist/1M56F5uqrk6uA42Gmy6Vqv) | [Kongo \(Hanî 's Remix\)](https://open.spotify.com/album/1wMmeCeow1EZ422q2e7119) | 3:53 | 2024-06-07 |  |
+| [Kongo \(Hanî´s Remix\)](https://open.spotify.com/track/0ogdZxS5XtjVQeRfwgkjUN) | [Kolinga](https://open.spotify.com/artist/1l4wo8qR1qvFN8aym2xmDM), [HANÎ](https://open.spotify.com/artist/1M56F5uqrk6uA42Gmy6Vqv) | [Kongo \(Hanî 's Remix\)](https://open.spotify.com/album/1wMmeCeow1EZ422q2e7119) | 3:53 | 2024-06-07 | 2025-06-15 |
 | [L.I.F.E](https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [L.I.F.E](https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2) | 7:29 | 2024-06-07 | 2024-11-06 |
 | [La Musique Forte](https://open.spotify.com/track/00drCeGE6dauNLdLcL4OEQ) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [La Musique Forte](https://open.spotify.com/album/6ZWBq3aU151TdCRBJcjugj) | 3:04 | 2023-09-08 | 2023-09-16 |
 | [La Verdolaga](https://open.spotify.com/track/5PL7k9QH7Kj7B4527dHvon) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Verdolaga](https://open.spotify.com/album/6NC1xi5hipWfyrwkq3fe4r) | 2:30 | 2025-06-02 |  |
@@ -331,6 +331,7 @@
 | [Selfish Love \(with Selena Gomez\) \- Tiësto Remix](https://open.spotify.com/track/2IDBh3Nuej2wFUk2JmWEmQ) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Selfish Love \(with Selena Gomez\) \(Tiësto Remix\)](https://open.spotify.com/album/6PFuomeQgR2sRWje5dxPKa) | 2:33 | 2022-03-25 | 2022-04-19 |
 | [September](https://open.spotify.com/track/2KDIFU4O8qjgydU5K33HUW) | [sunsets & sandals](https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA) | [September](https://open.spotify.com/album/4QozAibp9n6LP8im7VSR2w) | 2:20 | 2022-04-08 | 2022-07-26 |
 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2023-06-16 |  |
+| [Set Me Free](https://open.spotify.com/track/4FOTUoZP8r4mYZ8H7aUVsu) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Robert Courtois](https://open.spotify.com/artist/2GH4RemTUuK19ieus3JaLa) | [Set Me Free](https://open.spotify.com/album/7ppa0KNU8DUtT0Qyl3EC68) | 2:30 | 2025-06-06 |  |
 | [Set Me Free \(feat\. Robert Courtois\)](https://open.spotify.com/track/4oWNy3mghAjy8LGsomdCej) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Robert Courtois](https://open.spotify.com/artist/2GH4RemTUuK19ieus3JaLa) | [Set Me Free \(feat\. Robert Courtois\)](https://open.spotify.com/album/4f92p1nVAtD3Kj3ytHgAsB) | 2:30 | 2024-09-27 | 2025-02-23 |
 | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [The Jammin Kid](https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF) | 2:59 | 2024-05-10 |  |
 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 | 2024-06-07 |  |

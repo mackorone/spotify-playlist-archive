@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-219 songs - 11 hr 9 min
+220 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [CARACAS EN EL 2000](https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Jerry Di](https://open.spotify.com/artist/3tveA7l6PmZICdkhBPVvak) | [CARACAS EN EL 2000](https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV) | 3:47 | 2024-03-20 |  |
 | [Carne y Hueso](https://open.spotify.com/track/21dCU6wWhGDjrrvgg7g4NM) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:58 | 2024-02-01 |  |
 | [Carne y Hueso](https://open.spotify.com/track/0a80IRu0hisxuELg8YKcsT) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Carne y Hueso \(Video Oficial\)](https://open.spotify.com/album/7ECvxMNyVJI15lB3N8dwLb) | 3:07 | 2024-01-29 | 2024-02-02 |
+| [Carteras Chinas](https://open.spotify.com/track/40V77QgNlrEn4V03E13zxh) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Carteras Chinas](https://open.spotify.com/album/0ZCjHDJjqhUctbgH7HXzqe) | 3:07 | 2025-06-14 |  |
 | [Catira](https://open.spotify.com/track/1RrkjcfPa9p4ZCo2fL5qnE) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Catira](https://open.spotify.com/album/5N4avOZpzaFrMbB2XJrsCY) | 3:04 | 2024-12-11 |  |
 | [Celosa](https://open.spotify.com/track/5a1rnALt6YUyg3XDgMKycx) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [ANGEL22](https://open.spotify.com/album/6z8f56oLqunjYmLlst0OvP) | 2:30 | 2024-12-13 |  |
 | [Celosa](https://open.spotify.com/track/7jD6f0JGn3S4wwQlx9P5g3) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [ANGEL22](https://open.spotify.com/album/5uXD1YCyJ5Cwh7O0JHWnVL) | 2:30 | 2024-01-29 | 2024-12-14 |

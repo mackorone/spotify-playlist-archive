@@ -3210,7 +3210,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 175665,
       "name": "Background",
       "url": "https://open.spotify.com/track/1qmcc6IRvBdhmqhLhSaJoo"
@@ -3774,7 +3774,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -11058,7 +11058,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 207000,
       "name": "Finding Her",
       "url": "https://open.spotify.com/track/5ThyDv6aRVU8AH4vXQNldF"
@@ -12312,7 +12312,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 137316,
       "name": "Gnarly",
       "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
@@ -19242,7 +19242,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 155638,
       "name": "Loser (feat. YENA)",
       "url": "https://open.spotify.com/track/4WrkJNGb4zUwARc0FD3iNf"
@@ -23476,7 +23476,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 176126,
       "name": "Nothing Without Your Love",
       "url": "https://open.spotify.com/track/4H6s1mTZcjHAMU36ZF3Xoz"
@@ -24524,6 +24524,24 @@
       "duration_ms": 236906,
       "name": "Overpass Graffiti",
       "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
+    },
+    {
+      "album": {
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132380,
+      "name": "OWA OWA",
+      "url": "https://open.spotify.com/track/1lfO0bqThTLimzHsvk3LrN"
     },
     {
       "album": {
@@ -27332,7 +27350,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 165809,
       "name": "Rope It",
       "url": "https://open.spotify.com/track/5566hAPt0WmMPr9Xn749L7"
@@ -32220,7 +32238,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
@@ -32784,7 +32802,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 250800,
       "name": "Thattathil (From \"Abhilasham\")",
       "url": "https://open.spotify.com/track/6PxB85rPecatl7jZcFHlYK"
@@ -33524,10 +33542,28 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 326666,
       "name": "Tibok",
       "url": "https://open.spotify.com/track/2Dhdu4YB3y5U3RiIcCJduv"
+    },
+    {
+      "album": {
+        "name": "Himig at Pag-ibig",
+        "url": "https://open.spotify.com/album/4AxnZ4xJ266tS2n435qdMU"
+      },
+      "artists": [
+        {
+          "name": "Earl Agustin",
+          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326666,
+      "name": "Tibok",
+      "url": "https://open.spotify.com/track/5K6f4gciCEFTZkKTooU5AZ"
     },
     {
       "album": {

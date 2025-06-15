@@ -4,7 +4,7 @@
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-876 songs - 1 day 23 hr 50 min
+877 songs - 1 day 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,12 +628,13 @@
 | [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 | 2023-03-09 | 2023-05-10 |
 | [THE HEAT](https://open.spotify.com/track/3Dvw0juzCUC3ul6Uba3RKR) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [THE HEAT](https://open.spotify.com/album/5YOqB25VvOrskAmamHvwPd) | 2:56 | 2024-03-05 | 2024-04-13 |
 | [The Planet](https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Planet](https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5) | 2:58 | 2023-05-11 | 2023-08-30 |
-| [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-05-09 |  |
+| [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-05-09 | 2025-06-15 |
 | [Thick Of It All](https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Thick Of It All](https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx) | 3:19 | 2024-09-05 | 2024-09-20 |
 | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6) | 3:56 | 2024-04-12 | 2024-08-03 |
 | [This Is Not The Ending](https://open.spotify.com/track/7h0F0qv2vExZ5Kv2ZincA8) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [curtain call](https://open.spotify.com/album/7D4cMYPY6OmOt9ZEJg4kiC) | 2:52 | 2023-01-31 | 2023-03-25 |
 | [This Song](https://open.spotify.com/track/2k6FKrR0wDIs6xCtU51GZ7) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [This Song](https://open.spotify.com/album/5PawlLnqcZnrqiAEDLwH2G) | 3:33 | 2025-06-05 |  |
 | [THRIFTED](https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [THRIFTED](https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq) | 2:41 | 2025-02-20 | 2025-05-02 |
+| [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 | 2025-06-05 |  |
 | [Timetrip in Ginza](https://open.spotify.com/track/1Yep3nQQgmuxWe81vBUoqt) | [LUA](https://open.spotify.com/artist/6Kn5qpqJoHEY2D8uvgUQut) | [Timetrip in Ginza](https://open.spotify.com/album/0GcB3G8bifIuqsuPHjDSgl) | 3:43 | 2023-01-31 | 2023-02-03 |
 | [Timing\~タイミング\~](https://open.spotify.com/track/7EoJiTUWO1G7QOqHOHVLfL) | [ブラック・ビスケッツ](https://open.spotify.com/artist/0BwamWEHmgdWwM3AoGxyay) | [LIFE](https://open.spotify.com/album/0a7b5Gka90kgkpxN0HAd2Y) | 4:04 | 2023-01-31 | 2023-02-03 |
 | [Tokimeki](https://open.spotify.com/track/04t700q0Hehfp88fPpZGAg) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [Tokimeki](https://open.spotify.com/album/6GhZqqV9Y1gqGJzDnzmUvb) | 3:32 | 2023-10-03 | 2023-11-18 |

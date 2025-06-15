@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-1,012 songs - 2 day 13 hr 5 min
+1,015 songs - 2 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,8 @@
 | [Cupid](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-04-08 | 2023-04-26 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2023-03-13 | 2023-04-03 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-04-02 | 2023-09-17 |
-| [Dalangin](https://open.spotify.com/track/2cIxxsxXNvOXNFVvDJpF3x) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Dalangin](https://open.spotify.com/album/5HEC19abEhLQQ7IuNuKixV) | 4:12 | 2025-03-11 |  |
+| [Dalangin](https://open.spotify.com/track/2cIxxsxXNvOXNFVvDJpF3x) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Dalangin](https://open.spotify.com/album/5HEC19abEhLQQ7IuNuKixV) | 4:12 | 2025-03-11 | 2025-06-15 |
+| [Dalangin](https://open.spotify.com/track/5dO666voi2S72ZupppSOi4) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Himig at Pag\-ibig](https://open.spotify.com/album/4AxnZ4xJ266tS2n435qdMU) | 4:12 | 2025-06-14 |  |
 | [DAM](https://open.spotify.com/track/1NNsL6tYk06TqTea3mKB9P) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [DAM](https://open.spotify.com/album/612lgzG3p1PYJCxZFFLztN) | 3:29 | 2025-03-01 | 2025-03-24 |
 | [Dance With You](https://open.spotify.com/track/7bUvgvAf0tdQIty95lV5wf) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Dance With You](https://open.spotify.com/album/3SIGbTYOaRM0UHA64nUtgE) | 4:04 | 2021-03-27\* | 2021-07-16 |
 | [dancing in the kitchen](https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [dancing in the kitchen](https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez) | 3:28 | 2021-06-27 | 2021-08-18 |
@@ -221,7 +222,8 @@
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-10-08 | 2024-11-12 |
 | [Dikapamigay](https://open.spotify.com/track/5bEoMNE8AuautKnCVKHyxf) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5), [ENZO MF](https://open.spotify.com/artist/1Miwe0S1KiQu7zZhTYdtJV) | [Dikapamigay](https://open.spotify.com/album/1kISZMlDKKu14boq3Ze9Qp) | 4:17 | 2024-06-29 | 2024-10-07 |
 | [Dilaw](https://open.spotify.com/track/2ADSh3Mp744n2586tpUtIW) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Dilaw](https://open.spotify.com/album/1gbgbQj9mCxtp3IPybhMzp) | 3:12 | 2024-05-25 |  |
-| [Dito Sa'kin](https://open.spotify.com/track/4g6QB9ktIdyEW5sIfcp71i) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Dito Sa'kin](https://open.spotify.com/album/23xK9zJT0znRZLwhIw3pEQ) | 5:30 | 2025-03-16 |  |
+| [Dito Sa'kin](https://open.spotify.com/track/4g6QB9ktIdyEW5sIfcp71i) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Dito Sa'kin](https://open.spotify.com/album/23xK9zJT0znRZLwhIw3pEQ) | 5:30 | 2025-03-16 | 2025-06-15 |
+| [Dito Sa'kin](https://open.spotify.com/track/6Owt1G43Ip2DtVnIl7omvI) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Himig at Pag\-ibig](https://open.spotify.com/album/4AxnZ4xJ266tS2n435qdMU) | 5:30 | 2025-06-14 |  |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-21 | 2023-04-16 |
 | [Diwata \(Miss Universe Philippines 2021\)](https://open.spotify.com/track/152sJgmftB46Q6IsDTUDLN) | [Sam Concepcion](https://open.spotify.com/artist/2P3aLwJ41aRYkyFFw2FRM7) | [Diwata \(Miss Universe Philippines 2021\)](https://open.spotify.com/album/45ZolRka5exOabNpGPfbTo) | 3:30 | 2022-02-18 | 2022-08-11 |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2022-01-01 | 2022-01-03 |
@@ -912,7 +914,8 @@
 | [This Na Malambing](https://open.spotify.com/track/5ZIyDMWHtEjIS9YkmUY5zz) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD), [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [This Na Malambing](https://open.spotify.com/album/4gNnQzuEStRVzmWvpK1s6T) | 3:50 | 2024-06-17 | 2024-10-12 |
 | [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 | 2023-02-12 | 2023-08-13 |
 | [THUNDER](https://open.spotify.com/track/0qkYuCno3SoU8vxkCdx0iJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 2:44 | 2025-05-28 | 2025-05-30 |
-| [Tibok](https://open.spotify.com/track/2Dhdu4YB3y5U3RiIcCJduv) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Tibok](https://open.spotify.com/album/0adQix0U0hF4YN1xxbSgUU) | 5:26 | 2025-03-08 |  |
+| [Tibok](https://open.spotify.com/track/2Dhdu4YB3y5U3RiIcCJduv) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Tibok](https://open.spotify.com/album/0adQix0U0hF4YN1xxbSgUU) | 5:26 | 2025-03-08 | 2025-06-15 |
+| [Tibok](https://open.spotify.com/track/5K6f4gciCEFTZkKTooU5AZ) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Himig at Pag\-ibig](https://open.spotify.com/album/4AxnZ4xJ266tS2n435qdMU) | 5:26 | 2025-06-14 |  |
 | [Timeless \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/1HCdems7PQZRj42QDWLA0A) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 5:21 | 2023-07-08 | 2023-07-14 |
 | [Tingin](https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN), [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Tingin](https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3) | 3:42 | 2023-10-06 |  |
 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 | 2024-04-04 | 2024-04-13 |

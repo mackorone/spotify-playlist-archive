@@ -4,7 +4,7 @@
 
 > Welcome to the BTS's universe\. A.R.M.Y's World! 💜
 
-508 songs - 1 day 6 hr 8 min
+509 songs - 1 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Jump](https://open.spotify.com/track/6bv8GUc337blg2QcskhdAJ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Skool Luv Affair \(Special Addition\)](https://open.spotify.com/album/0pX41mddl0CZXxpxkQ7347) | 3:56 | 2022-05-27 |  |
 | [Just One Day](https://open.spotify.com/track/5oXLcjfVfq0QxIfgIHgYGn) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Skool Luv Affair \(Special Addition\)](https://open.spotify.com/album/0pX41mddl0CZXxpxkQ7347) | 3:59 | 2022-05-27 |  |
 | [Just One Day](https://open.spotify.com/track/6t7WriKgVszATnrdBKSUAf) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Skool Luv Affair](https://open.spotify.com/album/5r35iS0uSSoQBKzQj0IeI3) | 3:59 | 2022-05-27 | 2023-02-03 |
+| [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs) | 2:28 | 2025-06-14 |  |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-08-08 |  |
 | [Let Go](https://open.spotify.com/track/1OqDvYVDhJyFZny7XlfIyZ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [FACE YOURSELF](https://open.spotify.com/album/66J1OXSaS3hBZASOV3el8t) | 4:59 | 2022-06-10 | 2022-06-18 |
 | [Let Me Know](https://open.spotify.com/track/2uqzfXB7NlBnhQd04W7HaH) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dark & Wild](https://open.spotify.com/album/35voVqYGkotyJ945O9egDY) | 4:14 | 2022-05-27 |  |

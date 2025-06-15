@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Loquillo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,410 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,388 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 39 | [Eso Que Tú Me Das](https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Tragas o Escupes](https://open.spotify.com/album/654eDsgy2UItWWpSOly0U7) | 3:34 |
 | 40 | [Rojitas las orejas](https://open.spotify.com/track/42R5irny7qThOYUThAL7VW) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [A Puerta Cerrada](https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1) | 3:44 |
 | 41 | [Que se joda el viento](https://open.spotify.com/track/35RZlC2of95tgErjy8BtVx) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [28.000 puñaladas](https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR) | 5:05 |
-| 42 | [El roce de tu cuerpo](https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Muy Deficiente](https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1) | 4:10 |
-| 43 | [La senda del tiempo](https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [Gente Impresentable](https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD) | 4:30 |
+| 42 | [La senda del tiempo](https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [Gente Impresentable](https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD) | 4:30 |
+| 43 | [El roce de tu cuerpo](https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Muy Deficiente](https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1) | 4:10 |
 | 44 | [Feo Fuerte y Formal](https://open.spotify.com/track/24w139jhWNnuQjnlhlzLvi) | [Loquillo Y Los Trogloditas](https://open.spotify.com/artist/4EM1gc21UrYHQ3eal963Xl) | [Feo, Fuerte y Formal](https://open.spotify.com/album/4D4nUPgZckdsczheG6hYIF) | 4:02 |
 | 45 | [Dulce introducción al caos](https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [La ley innata](https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu) | 7:42 |
 | 46 | [Todos los días sale el sol](https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv) | [Bongo Botrako](https://open.spotify.com/artist/6XcqNunmoXrhbq6rAYgFxJ) | [Todos Los Días Sale El Sol](https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh) | 2:26 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 52 | [Flores de Venganza](https://open.spotify.com/track/4qbTy8NMciMml7ZpMwVu2q) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [Flores de Venganza](https://open.spotify.com/album/0S022kFJdy0bDv9y25fIhf) | 2:46 |
 | 53 | [A San Fernando un Ratito a Pie y Otro Caminando](https://open.spotify.com/track/740Rh302Wm6uHRsYTa4KDQ) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Arena En Los Bolsillos](https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf) | 3:47 |
 | 54 | [El Limite](https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu) | [La Frontera](https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3) | [La Rosa De Los Vientos](https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT) | 4:35 |
-| 55 | [Necesito Respirar](https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:29 |
-| 56 | [El ritmo del garaje](https://open.spotify.com/track/020aPMXlwYFpPB7cI8Kuc1) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Heroes De Los 80](https://open.spotify.com/album/6Lml9AoEtkTD7BW6J57wzd) | 4:53 |
+| 55 | [El ritmo del garaje](https://open.spotify.com/track/020aPMXlwYFpPB7cI8Kuc1) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Heroes De Los 80](https://open.spotify.com/album/6Lml9AoEtkTD7BW6J57wzd) | 4:53 |
+| 56 | [Necesito Respirar](https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:29 |
 | 57 | [Escuela de Calor](https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [La Ley Del Desierto](https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu) | 3:30 |
 | 58 | [Diablo](https://open.spotify.com/track/511ZMyXhrPlJvQSYtBWDy3) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Diablo](https://open.spotify.com/album/3r78Qu7OFZre4Otl5eVvz7) | 2:44 |
 | 59 | [Y volar \(con los Caligaris\)](https://open.spotify.com/track/0vabIwEiZDGml2CyVmGNBX) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Ahora o nunca](https://open.spotify.com/album/1gVTdZJaemKysGPHgMQfvD) | 3:09 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 70 | [Adiós papá](https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [Saca La Lengua](https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY) | 3:57 |
 | 71 | [Del Tiempo Perdido](https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Destrozares, Canciones para el Final de los Tiempos](https://open.spotify.com/album/0XAsAUaEDTl6wlOAMhqfDS) | 7:09 |
 | 72 | [Todo Tiene Su Fin](https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:56 |
-| 73 | [Flojos de pantalón](https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Jugar Al Gua](https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0) | 4:22 |
-| 74 | [20 de abril \- En directo 1997](https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [Nos Vemos En Los Bares](https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz) | 3:57 |
+| 73 | [20 de abril \- En directo 1997](https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [Nos Vemos En Los Bares](https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz) | 3:57 |
+| 74 | [Flojos de pantalón](https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Jugar Al Gua](https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0) | 4:22 |
 | 75 | [Gigante](https://open.spotify.com/track/2utHyBwLp3ONsYUkGoWoPw) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Gigante](https://open.spotify.com/album/4GQpWhe2XtYdluFaDjqRup) | 4:12 |
 | 76 | [El Día Que Tú Te Marches](https://open.spotify.com/track/5chHtm0x86aE3jxmylJA6z) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [El Día Que Tú Te Marches](https://open.spotify.com/album/2HLsMqrSQzRdPzoi0NzijC) | 3:28 |
 | 77 | [Lo difícil](https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1) | [Arco](https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY) | [Uno](https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl) | 3:08 |

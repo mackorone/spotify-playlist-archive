@@ -4,7 +4,7 @@
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-160 songs - 8 hr 54 min
+161 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Be There Still](https://open.spotify.com/track/1FWqWaH781R6T32agyhpFQ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:15 | 2025-05-08 |  |
 | [Be There Still](https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Be There Still](https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL) | 3:15 | 2025-03-16 | 2025-05-07 |
 | [Betty Butter](https://open.spotify.com/track/4cCo1QTHuuJCZQDnAUahQI) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Betty Butter](https://open.spotify.com/album/3EOaOT5E1TOzXt1LtkLykd) | 2:09 | 2023-05-02 | 2024-06-26 |
+| [Blessings On Blessings \(B.O.B\) \(feat\. Davido\)](https://open.spotify.com/track/0mjYhFrdVxmcKGW96pW5zS) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Still The Mayor](https://open.spotify.com/album/0Ev8VZe0x9bTzf55gVQNeR) | 3:14 | 2025-06-15 |  |
 | [Blessings REMIX \(feat\. French Montana & Davido\)](https://open.spotify.com/track/4qxWose1KJgPDYQkMs0Ng5) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Blessings REMIX \(feat\. French Montana & Davido\)](https://open.spotify.com/album/3kxuAgeGxSrMLi9qu4F6x9) | 3:45 | 2021-12-28 | 2024-07-21 |
 | [Blow My Mind](https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Blow My Mind](https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp) | 3:19 | 2021-12-28 | 2025-04-20 |
 | [Blow My Mind](https://open.spotify.com/track/3MYG7lZANqw54i2Du7Y0WN) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 3:19 | 2025-05-15 |  |
@@ -120,7 +121,7 @@
 | [Owo Ni Koko](https://open.spotify.com/track/3umUZmrbG4mQpqKDqdn7hI) | [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Owo Ni Koko](https://open.spotify.com/album/4rwPFgP23IUYqriM6kBV3O) | 3:25 | 2022-01-12 | 2022-03-15 |
 | [Park Well](https://open.spotify.com/track/7wUUWsweDvSkhjv0N7QQBd) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Celia](https://open.spotify.com/album/0v0pKqegGprcnGYUGitYvO) | 2:58 | 2023-04-19 | 2023-07-14 |
 | [Peace of Mind](https://open.spotify.com/track/0NcnzIoouhXB3qc9ZcyHS3) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Peace of Mind](https://open.spotify.com/album/4QKaoPynmreMExrmIU4Nz0) | 4:25 | 2021-12-28 | 2022-10-13 |
-| [PrAy](https://open.spotify.com/track/2NLZskCPIYnG2vwiEBXLpC) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [TESTIMONY.](https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK) | 3:37 | 2024-12-16 |  |
+| [PrAy](https://open.spotify.com/track/2NLZskCPIYnG2vwiEBXLpC) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [TESTIMONY.](https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK) | 3:37 | 2024-12-16 | 2025-06-15 |
 | [R&B \(feat\. Shenseea & 450\)](https://open.spotify.com/track/5W2NXp5DIYj8Pb99rvKELG) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:12 | 2025-04-20 | 2025-05-16 |
 | [Ride for You](https://open.spotify.com/track/5SwcKxSMFVxftpfHclPc03) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Deal with It](https://open.spotify.com/album/73chBzty2A658sLKCYy54h) | 3:37 | 2022-01-11 | 2025-03-30 |
 | [Right Now](https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Right Now](https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K) | 2:50 | 2024-10-13 |  |

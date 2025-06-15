@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 
 > a hardcore home for slowcore fans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,498 likes - 87 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,521 likes - 87 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 86 | [nail i couldn't bite](https://open.spotify.com/track/0AgghN0YfYSZRilCXOb3do) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [Hypnic Jerks](https://open.spotify.com/album/3M1hjHgDdFdhZKQRAccl8n) | 5:15 |
 | 87 | [Lullaby](https://open.spotify.com/track/1De66xUavye2fNqhCwtgyo) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 9:49 |
 
-Snapshot ID: `ZtyH4wAAAAA30OyLAZipRhcznLwIdB4T`
+Snapshot ID: `ZtyH4wAAAACTPdIAQoHfI3EhXlmSb+po`

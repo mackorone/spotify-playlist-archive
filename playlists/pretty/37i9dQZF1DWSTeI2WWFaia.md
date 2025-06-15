@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Benny The Butcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,588,858 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,588,804 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 47 | [Bad Choices](https://open.spotify.com/track/7bFXjldFpiHnXqM38oSi50) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Bad Choices](https://open.spotify.com/album/4X6ifMiovznIkvjZ4Ti98g) | 3:04 |
 | 48 | [3:AM \(feat\. Erykah Badu\)](https://open.spotify.com/track/44BRidSOFkXcKH3oZzHKdR) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 3:33 |
 | 49 | [36 Ounces and a Mercedes](https://open.spotify.com/track/4IfQLjiAk1bahtL0TRkWxQ) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [ILL Tone Beats](https://open.spotify.com/artist/6tnVrW2kcTINik13Z4vTb8) | [The Pre\-Game](https://open.spotify.com/album/5EPczt43gqjn3GY3OdMLCn) | 3:20 |
-| 50 | [CEMETERY lanterns](https://open.spotify.com/track/0xaloe0I542PKzVJqAQnca) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [CEMETERY lanterns](https://open.spotify.com/album/1nuh4LbgW3jcalOcmF17d2) | 3:45 |
+| 50 | [Diego Maradona](https://open.spotify.com/track/384lbjCji1ciQLiKRIMHiK) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [The Genuine Articulate](https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp) | 2:37 |
 
 Snapshot ID: `aEuicQAAAABwXJ5rtbO+cLQx9LTbgm3h`

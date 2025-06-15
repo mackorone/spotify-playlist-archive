@@ -4,11 +4,12 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6m3hSTUS0vdJhCUl1EBPXA">Abby Keen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-42 songs - 2 hr 2 min
+43 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [333](https://open.spotify.com/track/6xCPeUPZFaQMI3l4GDaAwI) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [333](https://open.spotify.com/album/2VOHb02PHjs4bu5qPPy1Dy) | 3:01 | 2025-05-02 |  |
+| [All Of Me](https://open.spotify.com/track/1puuLNsoHPRSyrMGQjY0wI) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Jupiter](https://open.spotify.com/album/66HcLnKvY2NUrUta3OduYH) | 2:45 | 2025-06-14 |  |
 | [Amor Real \- Holiday Song](https://open.spotify.com/track/6532nOWtuYIzYaN44pcrHy) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Amor Real \(Holiday Song\)](https://open.spotify.com/album/0X4nxSqynfCpG9LMJ9jK13) | 3:05 | 2025-05-02 |  |
 | [Arrivals](https://open.spotify.com/track/3s1nTmSxNzqdp2aF3aHISL) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:05 | 2025-05-02 |  |
 | [Boyz \(feat\. Nicki Minaj\)](https://open.spotify.com/track/59nbIJxGb1qkrzbtTomZkL) | [Jesy Nelson](https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Boyz \(feat\. Nicki Minaj\)](https://open.spotify.com/album/4ShgsMHEHPPLI6Dk16HNF1) | 2:59 | 2025-05-02 |  |

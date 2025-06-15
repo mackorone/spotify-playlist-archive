@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 103339,
+  "num_followers": 103356,
   "original_name": "Dance Workout",
   "owner": {
     "name": "Spotify",
@@ -679,26 +679,6 @@
     {
       "added_at": "2025-06-11 23:06:47",
       "album": {
-        "name": "Careful What You Wish For (feat. Alida)",
-        "url": "https://open.spotify.com/album/5AyE7tjRTu5Qgzupx5UYMb"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Alida",
-          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
-        }
-      ],
-      "duration_ms": 176264,
-      "name": "Careful What You Wish For (feat. Alida)",
-      "url": "https://open.spotify.com/track/6F5CRnO0SbW5FxAyRB6Vp0"
-    },
-    {
-      "added_at": "2025-06-11 23:06:47",
-      "album": {
         "name": "Glad You Came",
         "url": "https://open.spotify.com/album/5EuYe9bOkj023Gk2sD2mZt"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 139250,
       "name": "Glad You Came",
       "url": "https://open.spotify.com/track/5qC4mPqxfp9LDPsO7GhseX"
+    },
+    {
+      "added_at": "2025-06-11 23:06:47",
+      "album": {
+        "name": "Careful What You Wish For (feat. Alida)",
+        "url": "https://open.spotify.com/album/5AyE7tjRTu5Qgzupx5UYMb"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        }
+      ],
+      "duration_ms": 176264,
+      "name": "Careful What You Wish For (feat. Alida)",
+      "url": "https://open.spotify.com/track/6F5CRnO0SbW5FxAyRB6Vp0"
     },
     {
       "added_at": "2025-06-11 23:06:47",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-06-11 23:06:47",
       "album": {
-        "name": "Renegade Master",
-        "url": "https://open.spotify.com/album/7jed62ZXmaqO0C04QO6OYe"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        }
-      ],
-      "duration_ms": 170307,
-      "name": "Renegade Master",
-      "url": "https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L"
-    },
-    {
-      "added_at": "2025-06-11 23:06:47",
-      "album": {
         "name": "Dance Alone",
         "url": "https://open.spotify.com/album/7nGM3tRAjPEMjDaLhL5Ys4"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 174720,
       "name": "Dance Alone",
       "url": "https://open.spotify.com/track/5G8pdZq3HL2sEVi5yGsq0Z"
+    },
+    {
+      "added_at": "2025-06-11 23:06:47",
+      "album": {
+        "name": "Renegade Master",
+        "url": "https://open.spotify.com/album/7jed62ZXmaqO0C04QO6OYe"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "Renegade Master",
+      "url": "https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L"
     },
     {
       "added_at": "2025-06-11 23:06:47",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2025-06-11 23:06:47",
       "album": {
-        "name": "Morumbi",
-        "url": "https://open.spotify.com/album/5a9vexwClSZXqcMkWIfnZw"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Tocadisco",
-          "url": "https://open.spotify.com/artist/2iwhenp5euZtZLmtK6cgbe"
-        }
-      ],
-      "duration_ms": 185538,
-      "name": "Morumbi",
-      "url": "https://open.spotify.com/track/3Ffgz1prGwJuIeNiEvKO5h"
-    },
-    {
-      "added_at": "2025-06-11 23:06:47",
-      "album": {
         "name": "Got That",
         "url": "https://open.spotify.com/album/2zbCrqjLeh3tWowXjGQHN1"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 166874,
       "name": "Got That",
       "url": "https://open.spotify.com/track/4RHeXreYnosasCxxjBsEVN"
+    },
+    {
+      "added_at": "2025-06-11 23:06:47",
+      "album": {
+        "name": "Morumbi",
+        "url": "https://open.spotify.com/album/5a9vexwClSZXqcMkWIfnZw"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Tocadisco",
+          "url": "https://open.spotify.com/artist/2iwhenp5euZtZLmtK6cgbe"
+        }
+      ],
+      "duration_ms": 185538,
+      "name": "Morumbi",
+      "url": "https://open.spotify.com/track/3Ffgz1prGwJuIeNiEvKO5h"
     },
     {
       "added_at": "2025-06-11 23:06:47",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2025-06-11 23:06:47",
       "album": {
-        "name": "Good Lie",
-        "url": "https://open.spotify.com/album/6RR6VBJ7Ipit4OIhKkqpyB"
-      },
-      "artists": [
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        },
-        {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
-        }
-      ],
-      "duration_ms": 171304,
-      "name": "Good Lie",
-      "url": "https://open.spotify.com/track/4kkKKawDhsFj37ulsYRFOl"
-    },
-    {
-      "added_at": "2025-06-11 23:06:47",
-      "album": {
         "name": "Waste Your Love",
         "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
       },
@@ -1427,26 +1407,6 @@
     {
       "added_at": "2025-06-11 23:06:47",
       "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/2lHojU2mWFc5mVAkz3B9x2"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 181417,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/5j1XuqSJqLDRceRqMjcUhT"
-    },
-    {
-      "added_at": "2025-06-11 23:06:47",
-      "album": {
         "name": "What You Need",
         "url": "https://open.spotify.com/album/36WVqPt4HocsuiPQer82ob"
       },
@@ -1467,6 +1427,46 @@
     {
       "added_at": "2025-06-11 23:06:47",
       "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/2lHojU2mWFc5mVAkz3B9x2"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 181417,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5j1XuqSJqLDRceRqMjcUhT"
+    },
+    {
+      "added_at": "2025-06-11 23:06:47",
+      "album": {
+        "name": "Good Lie",
+        "url": "https://open.spotify.com/album/6RR6VBJ7Ipit4OIhKkqpyB"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        }
+      ],
+      "duration_ms": 171304,
+      "name": "Good Lie",
+      "url": "https://open.spotify.com/track/4kkKKawDhsFj37ulsYRFOl"
+    },
+    {
+      "added_at": "2025-06-11 23:06:47",
+      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/1L4dKn2nbO7JCNfZbtoEmh"
       },
@@ -1479,6 +1479,26 @@
       "duration_ms": 138491,
       "name": "Talk",
       "url": "https://open.spotify.com/track/5RgqLIWWb1ceLM01BORkez"
+    },
+    {
+      "added_at": "2025-06-11 23:06:47",
+      "album": {
+        "name": "When You're Lonely",
+        "url": "https://open.spotify.com/album/1kfbRsla1nsTki4JVunQFW"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "duration_ms": 159016,
+      "name": "When You're Lonely",
+      "url": "https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc"
     },
     {
       "added_at": "2025-06-11 23:06:47",
@@ -1515,26 +1535,6 @@
       "duration_ms": 160629,
       "name": "Elektro",
       "url": "https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO"
-    },
-    {
-      "added_at": "2025-06-11 23:06:47",
-      "album": {
-        "name": "When You're Lonely",
-        "url": "https://open.spotify.com/album/1kfbRsla1nsTki4JVunQFW"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
-        }
-      ],
-      "duration_ms": 159016,
-      "name": "When You're Lonely",
-      "url": "https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc"
     },
     {
       "added_at": "2025-06-11 23:06:47",
@@ -1659,6 +1659,26 @@
     {
       "added_at": "2025-06-11 23:06:47",
       "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/0DC1qER7OczaSRCZ75bULZ"
+      },
+      "artists": [
+        {
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+        },
+        {
+          "name": "RMB",
+          "url": "https://open.spotify.com/artist/4YXOQZR6WVMNXaQ5e72DnG"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/24qGzpKagxg9t1zkzzg03Z"
+    },
+    {
+      "added_at": "2025-06-11 23:06:47",
+      "album": {
         "name": "Without Your Love",
         "url": "https://open.spotify.com/album/7MX0snymC4VDz5hpGojcIs"
       },
@@ -1679,26 +1699,6 @@
       "duration_ms": 154513,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/3cFdgPFBfGZuPisJhyN5az"
-    },
-    {
-      "added_at": "2025-06-11 23:06:47",
-      "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/0DC1qER7OczaSRCZ75bULZ"
-      },
-      "artists": [
-        {
-          "name": "MOGUAI",
-          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
-        },
-        {
-          "name": "RMB",
-          "url": "https://open.spotify.com/artist/4YXOQZR6WVMNXaQ5e72DnG"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Redemption",
-      "url": "https://open.spotify.com/track/24qGzpKagxg9t1zkzzg03Z"
     },
     {
       "added_at": "2025-06-11 23:06:47",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2025-06-11 23:06:47",
       "album": {
+        "name": "Combo",
+        "url": "https://open.spotify.com/album/6stJfQJm5ooEJJoufO41Mn"
+      },
+      "artists": [
+        {
+          "name": "Karma Child",
+          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Combo",
+      "url": "https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS"
+    },
+    {
+      "added_at": "2025-06-11 23:06:47",
+      "album": {
         "name": "Lay Low",
         "url": "https://open.spotify.com/album/49U4muHd77m24ZC0h09385"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 129242,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/3Fg4Zh5pEg6TVSCHZ1XpUp"
-    },
-    {
-      "added_at": "2025-06-11 23:06:47",
-      "album": {
-        "name": "Combo",
-        "url": "https://open.spotify.com/album/6stJfQJm5ooEJJoufO41Mn"
-      },
-      "artists": [
-        {
-          "name": "Karma Child",
-          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Combo",
-      "url": "https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS"
     },
     {
       "added_at": "2025-06-11 23:06:47",

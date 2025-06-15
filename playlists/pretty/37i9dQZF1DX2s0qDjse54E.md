@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2s0qDjse54E.md) - [plain]
 
 > 鼠年生的人向來柔和單純、坦誠有趣，而且總是帶來驚喜哦！看看有哪些歌手吧！Cover: 徐佳瑩 \(Lala Hsu\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 395 likes - 20 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 394 likes - 20 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

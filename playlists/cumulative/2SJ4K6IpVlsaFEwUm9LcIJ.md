@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-603 songs - 1 day 10 hr 48 min
+607 songs - 1 day 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [By the Mark](https://open.spotify.com/track/7vZ499OwlWTpddvdXXb0VF) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Revival](https://open.spotify.com/album/2rQnb3cAjCW49K3sA7xaep) | 3:40 | 2024-04-13 | 2024-05-16 |
 | [C Is The Heavenly Option](https://open.spotify.com/track/08mk6DH2nTVwlrQTE0Hunr) | [Heavenly](https://open.spotify.com/artist/1sDWIdL18InXgES9TwvsL2), [Calvin Johnson](https://open.spotify.com/artist/4L0x6V9ckwc4QhR069mk9M) | [Le Jardin De Heavenly](https://open.spotify.com/album/0InB1oG08YUmJuztRRoHvK) | 3:21 | 2024-05-24 | 2024-07-12 |
 | [Café Style 4](https://open.spotify.com/track/3mvAYqD6LJIFcPhkfkcMJe) | [The Convenience](https://open.spotify.com/artist/2PKfkrNktahdkVFB47NjGv) | [Like Cartoon Vampires](https://open.spotify.com/album/2A2py4eAMFQCUdvuY22Bum) | 1:57 | 2025-05-08 |  |
+| [Can U Read Me?](https://open.spotify.com/track/5VQctXg4C2R2bEiIxjEeeS) | [Nite\-Funk](https://open.spotify.com/artist/2qpbJXtYrpwyNwgXM3MRsn) | [Believer / Can U Read Me?](https://open.spotify.com/album/4l8FsRiQpbxROp8cQEDPil) | 3:35 | 2025-06-14 |  |
 | [Can You Feel the Beat Tonight?](https://open.spotify.com/track/5xbpkr8kuz9Djodai18VIA) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [Cooper B Handy's Album, Vol\. 3](https://open.spotify.com/album/0uRS4EwISSvwcBbfaxdfJi) | 1:57 | 2024-03-18 | 2024-05-16 |
 | [Cap Hits the Button](https://open.spotify.com/track/4B4Rhg8TMUXeUXMnqdAjTm) | [Mope Grooves](https://open.spotify.com/artist/180kJdOQylLrSL0euYbqLF) | [Box of Dark Roses](https://open.spotify.com/album/4ZvT0dsezILOXo0YEV6Z8Q) | 5:25 | 2025-02-19 | 2025-03-02 |
 | [Car Song](https://open.spotify.com/track/2PLlDmo8ugWB0uKPxovQ6E) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [This Land is Your Land: The Asch Recordings, Vol\. 1](https://open.spotify.com/album/6Q75uix22iebN7q6WwNLDt) | 1:52 | 2025-02-21 | 2025-03-02 |
@@ -480,6 +481,7 @@
 | [Silly Girl](https://open.spotify.com/track/4s8rwUpjO2RT0AiKhS827c) | [Scribble](https://open.spotify.com/artist/3Ib4CzrIzFgmCUuu0kqyH8) | [Scribble](https://open.spotify.com/album/4cOGsGT3sE4PDiejAHrfai) | 3:43 | 2025-01-27 | 2025-03-02 |
 | [Silver](https://open.spotify.com/track/6zJu9qqwSxx1aPnqQmdAlv) | [Astra King](https://open.spotify.com/artist/1lf6ZLHzJmR8d6gLHt51dn) | [Silver](https://open.spotify.com/album/1HLmtzoF0ZGdY2iSiCvP3y) | 2:39 | 2024-01-05 | 2024-03-10 |
 | [Silver & Ice](https://open.spotify.com/track/4vD1bLq7iLPbTVPXNvpahV) | [Cities Aviv](https://open.spotify.com/artist/4m0HRALRlPxbZp5SwvktFX) | [Cafe Tom Tom](https://open.spotify.com/album/3QYiKVuV0VrOhh2iJavzjN) | 1:50 | 2024-12-09 | 2025-01-12 |
+| [Single](https://open.spotify.com/track/3ApFIzLLV6Gkgu6zWh9dcn) | [Brittason](https://open.spotify.com/artist/0yoG2QCHyddnk7H4UB06iX) | [Single](https://open.spotify.com/album/4bw8kjkCJtpx1YGNpaj16q) | 1:30 | 2025-06-14 |  |
 | [Sleeping Satellite](https://open.spotify.com/track/3WSyYBhLZRLbQo2tJgFvSR) | [Tasmin Archer](https://open.spotify.com/artist/6EgtYGZoF5jLydCpz43xu1) | [Great Expectations](https://open.spotify.com/album/4W5bJ5C6XGKEGWQNvhsSSY) | 4:41 | 2024-12-27 | 2025-01-12 |
 | [Slow](https://open.spotify.com/track/2r8qfNBFEXlYrIpF0m31un) | [Florence Sinclair](https://open.spotify.com/artist/1zIrnPKywoksAoyOuTDL2W) | [It's a big man ting](https://open.spotify.com/album/2NIMo3HrBwvtkIHsTmluZa) | 1:55 | 2024-04-01 | 2024-05-16 |
 | [Smells Like Content](https://open.spotify.com/track/0zSeLF3w3mPF9ibTkHZqCp) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Lost and Safe \(Remastered\)](https://open.spotify.com/album/6OEOtKsx5WOuKXdJFMx3AY) | 3:42 | 2025-05-19 |  |
@@ -577,6 +579,7 @@
 | [Virtual You](https://open.spotify.com/track/5TAlGe3sXWSYHuVEbrwN2W) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Virtual You](https://open.spotify.com/album/4qgvcFgjKdcLQRcgd12DNo) | 2:08 | 2024-09-07 | 2024-11-14 |
 | [Walkin'](https://open.spotify.com/track/2Ll9VtmKPqyA09NnNEO6r7) | [Patti Whipp](https://open.spotify.com/artist/5eZRV1fHID81uBDkgQbofh) | [Walkin' b/w It's Gone](https://open.spotify.com/album/0zrnvbumoAzMEUHRbfNBwN) | 2:34 | 2024-03-09 | 2024-05-16 |
 | [Walking and Falling](https://open.spotify.com/track/0jV8lPEbz6mVI6Q34Ru0ym) | [Laurie Anderson](https://open.spotify.com/artist/5hqB3Fxgin9YGYa0mIGf1G) | [Big Science](https://open.spotify.com/album/5nfdstl6JxGrDQtm1B2LnZ) | 2:13 | 2025-04-20 | 2025-05-09 |
+| [Warm Canto](https://open.spotify.com/track/24US80Wtwk4KmaqktZW8VZ) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3), [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp), [Booker Ervin](https://open.spotify.com/artist/3ZppcUE7tHnE6SzUR4ipSy) | [The Quest](https://open.spotify.com/album/7AFeyZd2N1i4LTzIZ2V8u1) | 5:40 | 2025-06-14 |  |
 | [Was That Love](https://open.spotify.com/track/4Cu7qmICfQ3fXSzhEt9k1C) | [Ryan Power](https://open.spotify.com/artist/1Q3vyHmUHwacqnLGstlLMS) | [World of Wonder](https://open.spotify.com/album/4uel1amT8AA4wHOsju2kCS) | 3:50 | 2024-06-20 | 2024-07-12 |
 | [Water Table](https://open.spotify.com/track/5KLMheJDladX9Rt5gNULKh) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Deep in View](https://open.spotify.com/album/6xCiTaBETJXjbRP68e7g0P) | 4:03 | 2024-01-10 | 2024-03-10 |
 | [Well I Know You're Shy](https://open.spotify.com/track/2t1PBeyHtPyGaHvxh3lLoY) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 3:29 | 2025-02-16 | 2025-03-02 |
@@ -590,6 +593,7 @@
 | [Whoops](https://open.spotify.com/track/31Py5T2AyzhjcFJYHhZO2q) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Barbecue in the Sun / Whoops](https://open.spotify.com/album/4g2KpP7elPxojIWn0d1yRD) | 3:38 | 2024-11-18 | 2025-01-12 |
 | [Why I Cry](https://open.spotify.com/track/63eLvJ4LTI1Q30s0980UT7) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [Get Lost](https://open.spotify.com/album/41xkD8HnEZ4ad9DPeL2kY0) | 3:37 | 2024-05-30 | 2024-07-12 |
 | [Wild Eyes](https://open.spotify.com/track/06kfJgnlXLbXhhRFXS42xP) | [Vivian Girls](https://open.spotify.com/artist/0WkO9Px6qQCM7so8lYvaCv) | [Vivian Girls](https://open.spotify.com/album/1wMo0mB7JqxzTCERNk0uMP) | 1:55 | 2024-07-12 | 2024-09-08 |
+| [Wild Goose Chase](https://open.spotify.com/track/6gRn4Cs6bJeo0RP7XXxn95) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF) | 3:06 | 2025-06-14 |  |
 | [Winter in America](https://open.spotify.com/track/06taFelNWknt8fhZ2jQey1) | [Doug Ashdown](https://open.spotify.com/artist/0Vy1HzvSfJ3bjbxZQxR2eZ) | [No Cheap Grace](https://open.spotify.com/album/09ZOx9IwXvXAjeiLMYK6dl) | 4:16 | 2025-02-06 | 2025-03-02 |
 | [Wishing Well](https://open.spotify.com/track/64w8GIJRkm6zejGjxLVN3K) | [Chris Cohen](https://open.spotify.com/artist/2OYDcH3MLWeNjj7gQVUbEF) | [Paint a Room](https://open.spotify.com/album/3sZZlLS1JY1MPWOGWe8mtQ) | 2:38 | 2024-10-23 | 2024-11-14 |
 | [With You \- Demo](https://open.spotify.com/track/0fxf9dkUc8r8AHWPx7Cdkn) | [NumbDome](https://open.spotify.com/artist/2dt0CUEEL1u22uqRoocBQP) | [Pretty Place Demos](https://open.spotify.com/album/2aSMfYhkI2RwV6ucurrWV2) | 2:03 | 2024-07-16 | 2024-09-08 |

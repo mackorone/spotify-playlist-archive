@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Molly Sandén, Asme, Zara Larsson och Deki Alem med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,804 likes - 106 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,840 likes - 106 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

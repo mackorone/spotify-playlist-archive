@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Quake Matthews
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,145 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,170 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 36 | [I LIE](https://open.spotify.com/track/5LH189w5B5XeECfKbELs6H) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [I LIE](https://open.spotify.com/album/0QN26woxii8wPVt4j5tBO2) | 2:16 |
 | 37 | [SUNDIVER](https://open.spotify.com/track/7qR9LwGky6vrWITZisfKEX) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn), [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF), [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [LINE LEADERS](https://open.spotify.com/album/01Rjv79w0OMjPQQRNsQvJk) | 2:40 |
 | 38 | [Wonnadem](https://open.spotify.com/track/4ACA8Qm7zQ4DTrlSiqTHSq) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Wonnadem](https://open.spotify.com/album/2hgYAPWOXodDtZWPmw0BKw) | 2:13 |
-| 39 | [Seventeen](https://open.spotify.com/track/3VgFxRLEvav1ewTx5IaROh) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Seventeen](https://open.spotify.com/album/1xZkfphab61c5kqctCexP7) | 3:14 |
+| 39 | [Seventeen](https://open.spotify.com/track/3VgFxRLEvav1ewTx5IaROh) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Seventeen](https://open.spotify.com/album/1xZkfphab61c5kqctCexP7) | 3:13 |
 | 40 | [I Just Wanna Know](https://open.spotify.com/track/3XLSJ7wHFJBdl4uw5gZ4jW) | [Kimmortal](https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS) | [sunniest of days](https://open.spotify.com/album/5X0cdPab6cpcyE9qekzCJ7) | 3:21 |
 | 41 | [Alright](https://open.spotify.com/track/3yrhr8lDXzx83tfhwvp7wy) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Baby Truth](https://open.spotify.com/artist/3JSZUZkyZbG583ywTOr4tD) | [Alright](https://open.spotify.com/album/3SHL8OJzYcVZxStR0NOH1c) | 3:19 |
 | 42 | [Lion](https://open.spotify.com/track/2JnMEz1aD9m6bZAXUXFliU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 2:57 |

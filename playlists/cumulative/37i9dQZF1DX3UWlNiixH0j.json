@@ -3746,7 +3746,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-12",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Can we do it again?",
       "url": "https://open.spotify.com/track/1RytrvNto1GzocVV1RHkLn"
@@ -6760,7 +6760,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 190666,
       "name": "Dying Star",
       "url": "https://open.spotify.com/track/60fJwXfsLswVout8DYaAzf"
@@ -8178,6 +8178,24 @@
       "duration_ms": 276681,
       "name": "FLAG",
       "url": "https://open.spotify.com/track/6If6vrgZ9Ap4tR3C5RzDmj"
+    },
+    {
+      "album": {
+        "name": "Fleeting",
+        "url": "https://open.spotify.com/album/7gX18yup62JNjr4M0rC4eP"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stella",
+          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236866,
+      "name": "Fleeting",
+      "url": "https://open.spotify.com/track/5g9CvT45CSD10sEm5aUwoN"
     },
     {
       "album": {
@@ -16988,7 +17006,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 192213,
       "name": "Nebula",
       "url": "https://open.spotify.com/track/6kwY0G0AFSDyFNNGXgL9Rm"
@@ -31392,7 +31410,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 202654,
       "name": "\u305d\u306e\u65e5",
       "url": "https://open.spotify.com/track/2zBzHYumBgFh2sm6dE4ckh"
@@ -31854,7 +31872,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 291366,
       "name": "\u3068\u308f\u306e\u796d\u308a",
       "url": "https://open.spotify.com/track/1VSG9RkIORqUX2oXKNL37E"

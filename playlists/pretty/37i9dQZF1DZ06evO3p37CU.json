@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAACrHJe+MtmOgvqiaQ3cSlZ3",
+  "snapshot_id": "aEtqAAAAAAAhJEfI1M5qX4L+GJ+mJKum",
   "tracks": [
     {
       "added_at": null,
@@ -67,26 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back At Sixes And Sevens",
-        "url": "https://open.spotify.com/album/3QX0G9KLHXd84busDSiJxq"
-      },
-      "artists": [
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "Collide - From \"Queen & Slim: The Soundtrack\"",
-      "url": "https://open.spotify.com/track/6mDz3yFi4hJeL2mP4lmg51"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Church (feat. EARTHGANG)",
         "url": "https://open.spotify.com/album/1jAJCdLpq8lMwN7oTPRCQN"
       },
@@ -103,6 +83,26 @@
       "duration_ms": 228117,
       "name": "Church (feat. EARTHGANG)",
       "url": "https://open.spotify.com/track/1T37rmthd8KPcRPcD5Tm7u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back At Sixes And Sevens",
+        "url": "https://open.spotify.com/album/3QX0G9KLHXd84busDSiJxq"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "Collide - From \"Queen & Slim: The Soundtrack\"",
+      "url": "https://open.spotify.com/track/6mDz3yFi4hJeL2mP4lmg51"
     },
     {
       "added_at": null,
@@ -1119,22 +1119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mirrorland",
-        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 179493,
-      "name": "Bank",
-      "url": "https://open.spotify.com/track/0uqJQ1k1N63nl4tAYW8t2A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GHETTO GODS (Deluxe)",
         "url": "https://open.spotify.com/album/4ePq280jPLzy5FR0Z1yQW2"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 201191,
       "name": "AMBEYONC\u00c9 (feat. Smino)",
       "url": "https://open.spotify.com/track/4Ub97P3nIIM1flQuvC7GOK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mirrorland",
+        "url": "https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 179493,
+      "name": "Bank",
+      "url": "https://open.spotify.com/track/0uqJQ1k1N63nl4tAYW8t2A"
     },
     {
       "added_at": null,

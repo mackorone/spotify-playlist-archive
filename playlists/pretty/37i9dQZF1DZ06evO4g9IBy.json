@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 168384,
+  "num_followers": 168422,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAABFEbcQHgYKZx1ET4BK0lkA",
+  "snapshot_id": "aEtqAAAAAABBnuJ7ptqB4BkHS2976b32",
   "tracks": [
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "24 Karat Gold: Songs from the Vault",
-        "url": "https://open.spotify.com/album/7jCfopf1GmfBfYJh63aW7R"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 278138,
-      "name": "The Dealer",
-      "url": "https://open.spotify.com/track/3MhtDiOUmoL5Yw3uh9asB1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live In Concert: The 24 Karat Gold Tour",
         "url": "https://open.spotify.com/album/6RXy2mL8HlVhzHU0JOO9dq"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 256546,
       "name": "Gypsy (Live)",
       "url": "https://open.spotify.com/track/3gsoMKVzc0FoKaxn2rdGUL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "24 Karat Gold: Songs from the Vault",
+        "url": "https://open.spotify.com/album/7jCfopf1GmfBfYJh63aW7R"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 278138,
+      "name": "The Dealer",
+      "url": "https://open.spotify.com/track/3MhtDiOUmoL5Yw3uh9asB1"
     },
     {
       "added_at": null,

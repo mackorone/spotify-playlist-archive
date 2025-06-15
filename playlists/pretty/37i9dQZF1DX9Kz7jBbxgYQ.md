@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Aditya Rikhari
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,088 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,149 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 74 | [Naina](https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Naina](https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh) | 2:18 |
 | 75 | [Dilshad](https://open.spotify.com/track/487NdFWy4ie4r5xb0avzKw) | [Yawar Abdal](https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P), [Sifar](https://open.spotify.com/artist/4lQzaSJjGUm6LfySUnYKEK) | [Dilshad](https://open.spotify.com/album/1liRfiO6i0jEeosUm4BBNp) | 3:43 |
 
-Snapshot ID: `aEfLzAAAAACGVOqzrGkPkpci1Gu7cIr3`
+Snapshot ID: `AAAAAKLL0neD1iKsgEs3Exx8dzCp967x`

@@ -11,22 +11,6 @@
     {
       "added_at": "2025-06-03 14:29:41",
       "album": {
-        "name": "Kh\u00fac T\u00ecnh X\u01b0a 1",
-        "url": "https://open.spotify.com/album/0KP7JvQacUA8pNIsX9wVFp"
-      },
-      "artists": [
-        {
-          "name": "L\u1ec7 Quy\u00ean",
-          "url": "https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF"
-        }
-      ],
-      "duration_ms": 348138,
-      "name": "T\u00ecnh L\u1ee1",
-      "url": "https://open.spotify.com/track/5EaDSkp6yIfA516tmCGOPd"
-    },
-    {
-      "added_at": "2025-06-03 14:29:41",
-      "album": {
         "name": "Cho Ng\u01b0\u1eddi T\u00ecnh L\u1ee1",
         "url": "https://open.spotify.com/album/2DTriHYKkXQNqf6tVyucvk"
       },
@@ -39,6 +23,22 @@
       "duration_ms": 356671,
       "name": "Cho Ng\u01b0\u1eddi T\u00ecnh L\u1ee1",
       "url": "https://open.spotify.com/track/417NJZjAjPLX0p7xf4H8uJ"
+    },
+    {
+      "added_at": "2025-06-03 14:29:41",
+      "album": {
+        "name": "Kh\u00fac T\u00ecnh X\u01b0a 1",
+        "url": "https://open.spotify.com/album/0KP7JvQacUA8pNIsX9wVFp"
+      },
+      "artists": [
+        {
+          "name": "L\u1ec7 Quy\u00ean",
+          "url": "https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF"
+        }
+      ],
+      "duration_ms": 348138,
+      "name": "T\u00ecnh L\u1ee1",
+      "url": "https://open.spotify.com/track/5EaDSkp6yIfA516tmCGOPd"
     },
     {
       "added_at": "2025-06-03 14:29:41",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-06-03 14:29:41",
       "album": {
-        "name": "V\u1ec1 \u0110\u00e2u M\u00e1i T\u00f3c Ng\u01b0\u1eddi Th\u01b0\u01a1ng",
-        "url": "https://open.spotify.com/album/5r9F0ckw8JHmCq90VgBzx0"
-      },
-      "artists": [
-        {
-          "name": "Quang L\u1eadp",
-          "url": "https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ"
-        }
-      ],
-      "duration_ms": 317333,
-      "name": "V\u1ec1 \u0111\u00e2u m\u00e1i t\u00f3c ng\u01b0\u1eddi th\u01b0\u01a1ng",
-      "url": "https://open.spotify.com/track/27fatF8hvPt6l2qQcY3I58"
-    },
-    {
-      "added_at": "2025-06-03 14:29:41",
-      "album": {
         "name": "X\u00f3t Xa",
         "url": "https://open.spotify.com/album/0WTjdkH320Kk3jiUeCWLU5"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 355266,
       "name": "Gi\u1ecdt L\u1ec7 \u0110\u00e0i Trang (feat. Ho\u00e0i L\u00e2m)",
       "url": "https://open.spotify.com/track/29MAQcIvkJOQ0NVceIdElR"
+    },
+    {
+      "added_at": "2025-06-03 14:29:41",
+      "album": {
+        "name": "V\u1ec1 \u0110\u00e2u M\u00e1i T\u00f3c Ng\u01b0\u1eddi Th\u01b0\u01a1ng",
+        "url": "https://open.spotify.com/album/5r9F0ckw8JHmCq90VgBzx0"
+      },
+      "artists": [
+        {
+          "name": "Quang L\u1eadp",
+          "url": "https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ"
+        }
+      ],
+      "duration_ms": 317333,
+      "name": "V\u1ec1 \u0111\u00e2u m\u00e1i t\u00f3c ng\u01b0\u1eddi th\u01b0\u01a1ng",
+      "url": "https://open.spotify.com/track/27fatF8hvPt6l2qQcY3I58"
     },
     {
       "added_at": "2025-06-03 14:29:41",
@@ -739,26 +739,18 @@
     {
       "added_at": "2025-06-03 14:29:41",
       "album": {
-        "name": "The Best Of Thanh Tuy\u1ec1n (Ng\u01b0\u1eddi M\u1eb9 B\u00e1n N\u00f3n)",
-        "url": "https://open.spotify.com/album/1l9TAIhugInsg1Mjzg3xiJ"
+        "name": "Hoa No Ve Dem",
+        "url": "https://open.spotify.com/album/04b4J4LM9xzBG8V4F9VdDx"
       },
       "artists": [
         {
-          "name": "Thanh Tuy\u1ec1n",
-          "url": "https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED"
-        },
-        {
-          "name": "Tu\u1ea5n V\u0169",
-          "url": "https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP"
-        },
-        {
-          "name": "S\u01a1n Tuy\u1ec1n",
-          "url": "https://open.spotify.com/artist/0RoUGjbZ9d63jXyUylDs1Q"
+          "name": "Ph\u01b0\u01a1ng Dung",
+          "url": "https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3"
         }
       ],
-      "duration_ms": 320892,
-      "name": "Li\u00ean kh\u00fac D\u1ea5u ch\u00e2n k\u1ef7 ni\u1ec7m",
-      "url": "https://open.spotify.com/track/2UvwNy4NzDXF0OXhrTIALT"
+      "duration_ms": 285269,
+      "name": "Tau Dem Nam Cu",
+      "url": "https://open.spotify.com/track/5tVuKbPyMauB0YKbJeCGDc"
     },
     {
       "added_at": "2025-06-03 14:29:41",
@@ -783,18 +775,26 @@
     {
       "added_at": "2025-06-03 14:29:41",
       "album": {
-        "name": "Hoa No Ve Dem",
-        "url": "https://open.spotify.com/album/04b4J4LM9xzBG8V4F9VdDx"
+        "name": "The Best Of Thanh Tuy\u1ec1n (Ng\u01b0\u1eddi M\u1eb9 B\u00e1n N\u00f3n)",
+        "url": "https://open.spotify.com/album/1l9TAIhugInsg1Mjzg3xiJ"
       },
       "artists": [
         {
-          "name": "Ph\u01b0\u01a1ng Dung",
-          "url": "https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3"
+          "name": "Thanh Tuy\u1ec1n",
+          "url": "https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED"
+        },
+        {
+          "name": "Tu\u1ea5n V\u0169",
+          "url": "https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP"
+        },
+        {
+          "name": "S\u01a1n Tuy\u1ec1n",
+          "url": "https://open.spotify.com/artist/0RoUGjbZ9d63jXyUylDs1Q"
         }
       ],
-      "duration_ms": 285269,
-      "name": "Tau Dem Nam Cu",
-      "url": "https://open.spotify.com/track/5tVuKbPyMauB0YKbJeCGDc"
+      "duration_ms": 320892,
+      "name": "Li\u00ean kh\u00fac D\u1ea5u ch\u00e2n k\u1ef7 ni\u1ec7m",
+      "url": "https://open.spotify.com/track/2UvwNy4NzDXF0OXhrTIALT"
     },
     {
       "added_at": "2025-06-03 14:29:41",

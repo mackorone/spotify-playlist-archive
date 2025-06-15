@@ -4,7 +4,7 @@
 
 > This is Grupo Frontera\. The essential tracks, all in one playlist.
 
-84 songs - 4 hr 20 min
+85 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,13 +39,14 @@
 | [EN ALTAVOZ](https://open.spotify.com/track/1EKZmfqveHKe78Isfk07w4) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:46 | 2023-09-15 |  |
 | [EN ALTAVOZ](https://open.spotify.com/track/6L2wWlVVD6R2bczNdnSqKr) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 2:46 | 2023-08-04 | 2023-09-16 |
 | [Estos Celos \- En Vivo](https://open.spotify.com/track/01VmJGbwBz19j21aYqR6Ju) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:41 | 2023-03-10 | 2024-12-15 |
-| [Ex de Verdad](https://open.spotify.com/track/1fbhmkwQMs2tE0kasY1oq9) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ex de Verdad](https://open.spotify.com/album/4YZ591dkOPwDRuDtTrf9XZ) | 3:06 | 2023-03-10 |  |
+| [Ex de Verdad](https://open.spotify.com/track/1fbhmkwQMs2tE0kasY1oq9) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ex de Verdad](https://open.spotify.com/album/4YZ591dkOPwDRuDtTrf9XZ) | 3:06 | 2023-03-10 | 2025-06-15 |
 | [F\*CKIN AMOR](https://open.spotify.com/track/4pRnziizbp4Fa4Bcmbg50J) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 3:12 | 2024-05-12 | 2024-05-15 |
 | [Frágil](https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Frágil](https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2) | 2:40 | 2023-04-08 |  |
 | [Hecha Pa' Mí](https://open.spotify.com/track/1uGUbgZuO1kD1JZ0UeFupN) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Hecha Pa' Mí](https://open.spotify.com/album/3Z9jjBDBjKUkf7CXPm5aSF) | 3:15 | 2024-10-07 |  |
 | [Hoy no me siento bien](https://open.spotify.com/track/5xKUXB7fsIEpDYc6mBfSwT) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Hoy no me siento bien](https://open.spotify.com/album/10x06vQjH3rh2JGETxzRZD) | 2:33 | 2025-01-27 |  |
 | [IBIZA](https://open.spotify.com/track/4v3j31SwtB07C58XljuK3h) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 2:52 | 2024-05-13 | 2024-06-09 |
 | [La Buena Eras Tú](https://open.spotify.com/track/2R8ddYbnIJqH1T6Pi2zU7s) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [La Buena Eras Tú](https://open.spotify.com/album/7BnYrQCH2FxDF3aiuhQioX) | 3:22 | 2025-05-07 |  |
+| [La Del Proceso](https://open.spotify.com/track/7FbMbTR9BXCq3zfywePLJV) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Y Lo Que Viene](https://open.spotify.com/album/5Rghy8jEh35uc0gDRcoydO) | 3:04 | 2025-06-15 |  |
 | [La Ladrona \- En Vivo](https://open.spotify.com/track/4YKsiPP0QqHsANNaZJwQBT) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:06 | 2023-03-10 |  |
 | [La Pareja Ideal \- En Vivo](https://open.spotify.com/track/2gpgzhumYabZNyrsyvdAat) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 4:14 | 2023-03-10 |  |
 | [La Plata \- En Vivo](https://open.spotify.com/track/7yMU0OMBAHp9m74hdTBtIP) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [La Plata \(En Vivo\)](https://open.spotify.com/album/4R0lRmTOqQsjhCv0psBpms) | 2:19 | 2023-03-10 | 2025-03-08 |

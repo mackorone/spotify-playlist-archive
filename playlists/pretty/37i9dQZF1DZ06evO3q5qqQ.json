@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 114149,
+  "num_followers": 114175,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAAgAnaNR0ReyKvKPBqbaJkx",
+  "snapshot_id": "aEtqAAAAAACy9ypNtamCp3voE3mVtM/Q",
   "tracks": [
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Tiempos De Aguas",
+        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 171989,
+      "name": "El Bolas",
+      "url": "https://open.spotify.com/track/68qYyjg8Y10HVr3YcY8Yp8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Matitas Verdes (En Vivo)",
         "url": "https://open.spotify.com/album/6dFaDaCDQqEKfdcELahkAt"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 161906,
       "name": "Matitas Verdes (En Vivo)",
       "url": "https://open.spotify.com/track/6602oDHS6ArzmjCXUz1DeS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Tiempos De Aguas",
-        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 171989,
-      "name": "El Bolas",
-      "url": "https://open.spotify.com/track/68qYyjg8Y10HVr3YcY8Yp8"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Mes De Las Madres",
+        "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 154409,
+      "name": "El Me\u00f1o",
+      "url": "https://open.spotify.com/track/0R7ryDiB3sID2SDt9ny50C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jalando La Bandona (En Vivo)",
         "url": "https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 129500,
       "name": "Levantando Polvadera (En vivo)",
       "url": "https://open.spotify.com/track/63z6pfIFHMXPUvZCuXOL9W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mes De Las Madres",
-        "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 154409,
-      "name": "El Me\u00f1o",
-      "url": "https://open.spotify.com/track/0R7ryDiB3sID2SDt9ny50C"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Precio De La Soledad (En vivo)",
-        "url": "https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 166143,
-      "name": "El Precio De La Soledad - En vivo",
-      "url": "https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Mes De Las Madres",
         "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 175673,
       "name": "El Chapio",
       "url": "https://open.spotify.com/track/67awu82DAAtJGUtvfbSZM8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Precio De La Soledad (En vivo)",
+        "url": "https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 166143,
+      "name": "El Precio De La Soledad - En vivo",
+      "url": "https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK"
     },
     {
       "added_at": null,

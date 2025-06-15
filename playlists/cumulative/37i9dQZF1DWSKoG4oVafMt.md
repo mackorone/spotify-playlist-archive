@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-1,077 songs - 2 day 10 hr 4 min
+1,078 songs - 2 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -903,6 +903,7 @@
 | [Suit Purane](https://open.spotify.com/track/3JmpJDQTyYnLlQSDVFR1vT) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk) | [Suit Purane](https://open.spotify.com/album/2HXJnIbm2a140pa9f4j1zX) | 2:56 | 2021-12-02 | 2022-02-05 |
 | [Suita To Payara](https://open.spotify.com/track/2sh6Ny6YTf6Ku0ShOmbCmW) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Majestic Lane](https://open.spotify.com/album/2mSkfnGXVg801G25WOgzXk) | 2:40 | 2022-02-03 | 2022-02-12 |
 | [Sukoon](https://open.spotify.com/track/3MsYW2rHLwdxEYyg8QQlaw) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Sukoon](https://open.spotify.com/album/45Iu7k4XRZFvFFF7Vfd8y7) | 3:16 | 2025-04-14 | 2025-05-05 |
+| [Sunakhiye](https://open.spotify.com/track/3stEAEHyom7xAppdfemWDm) | [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy), [Nvjot](https://open.spotify.com/artist/0BMNh8oG3eRoHJe1XSsghj) | [Sunakhiye](https://open.spotify.com/album/4RT6YxqYxK77fIEEskwdRW) | 3:04 | 2025-06-14 |  |
 | [Suniyan Suniyan](https://open.spotify.com/track/0XRb6eZE4dBIJdqwf1Mixu) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Suniyan Suniyan](https://open.spotify.com/album/7fDOsfo0KfyUV2crgrG6zR) | 3:17 | 2024-05-27 | 2025-01-17 |
 | [Sunne Sunne](https://open.spotify.com/track/746fRWJEgWvvRdhB7ympjw) | [G Noor](https://open.spotify.com/artist/3oCuewGts8hB4pGDkG5Lo8) | [Sunne Sunne](https://open.spotify.com/album/5B5NSoy499WpmUEWQHtXZw) | 3:04 | 2022-05-26 | 2022-07-06 |
 | [Sunset](https://open.spotify.com/track/708ATCPhF2aagzUo8A9Dgo) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Sunset](https://open.spotify.com/album/2CHwDNJ5Kbv05I385dVFKG) | 3:08 | 2022-03-31 | 2022-04-06 |

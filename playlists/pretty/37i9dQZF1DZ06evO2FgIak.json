@@ -1,12 +1,12 @@
 {
   "description": "This is Muddy Waters. The essential tracks, all in one playlist.",
-  "num_followers": 50503,
+  "num_followers": 50505,
   "original_name": "This Is Muddy Waters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAB86MJYpFsivOW4r6eTmrrS",
+  "snapshot_id": "aEtqAAAAAAB1RK+6qkCfdni5nnrInfU0",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Electric Mud",
+        "url": "https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 217640,
+      "name": "Tom Cat",
+      "url": "https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Super Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 445026,
       "name": "The Red Rooster",
       "url": "https://open.spotify.com/track/1qdLSzpYZBqJcSBKbSc4e6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electric Mud",
-        "url": "https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "Tom Cat",
-      "url": "https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last Waltz (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP"
-      },
-      "artists": [
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 368773,
-      "name": "Caldonia (feat. Muddy Waters) - Concert Version",
-      "url": "https://open.spotify.com/track/2AU5y0y0mGPkwTt0znU7P5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
         "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 388826,
       "name": "Back to the Chicken Shack - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
       "url": "https://open.spotify.com/track/3losOKYp0VStjuhL9t4XGi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last Waltz (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 368773,
+      "name": "Caldonia (feat. Muddy Waters) - Concert Version",
+      "url": "https://open.spotify.com/track/2AU5y0y0mGPkwTt0znU7P5"
     },
     {
       "added_at": null,

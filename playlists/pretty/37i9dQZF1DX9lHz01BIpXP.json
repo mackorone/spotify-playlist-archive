@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=xBa_9WSXQAGcMj9SpxUMJQ\">Ziggy4x</a> ",
-  "num_followers": 2672,
+  "num_followers": 2675,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -919,6 +919,22 @@
     {
       "added_at": "2025-05-02 08:13:49",
       "album": {
+        "name": "Gan Se Jou Mense",
+        "url": "https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy"
+      },
+      "artists": [
+        {
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+        }
+      ],
+      "duration_ms": 181480,
+      "name": "Wiggy",
+      "url": "https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU"
+    },
+    {
+      "added_at": "2025-05-02 08:13:49",
+      "album": {
         "name": "Dubble G's",
         "url": "https://open.spotify.com/album/2Qe1foItp17ymshvUdGQpH"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 139415,
       "name": "Dubble G's",
       "url": "https://open.spotify.com/track/2VYYkJDDcK2FJdrWPHdd9d"
-    },
-    {
-      "added_at": "2025-05-02 08:13:49",
-      "album": {
-        "name": "Gan Se Jou Mense",
-        "url": "https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy"
-      },
-      "artists": [
-        {
-          "name": "Loufi",
-          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
-        }
-      ],
-      "duration_ms": 181480,
-      "name": "Wiggy",
-      "url": "https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU"
     },
     {
       "added_at": "2025-05-02 08:13:49",

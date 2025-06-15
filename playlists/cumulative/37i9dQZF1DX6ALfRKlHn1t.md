@@ -4,7 +4,7 @@
 
 > the soundtrack for your vitamin d fix.
 
-355 songs - 20 hr 3 min
+356 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Barrio Hustle](https://open.spotify.com/track/6UK4epTqVwWpeFfslXecth) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t) | 3:14 | 2024-06-21 |  |
 | [Beaches](https://open.spotify.com/track/1a19jsjG2DvbN1fVJonKUU) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 3:50 | 2025-03-24 |  |
 | [Better Together](https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Better Together](https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g) | 2:58 | 2022-04-22 | 2023-04-15 |
+| [Big Time](https://open.spotify.com/track/27Bn2trsGicmJlZe3qFMHg) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Big Time](https://open.spotify.com/album/6fGZ262oL8OhT96uhuoZc4) | 3:48 | 2025-06-05 |  |
 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 | 2022-02-04 |  |
 | [Blackout](https://open.spotify.com/track/2ZocFU8AgL3NYeG8vFMWbm) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Blackout](https://open.spotify.com/album/45d3TzOxeMA1bWgCD4RkYs) | 3:42 | 2021-03-24 | 2022-07-29 |
 | [Blackout](https://open.spotify.com/track/3R4rGlA4MbG0I3XjfsH8If) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Blessings](https://open.spotify.com/album/5eL6kdOkLUdF35zemcJJGg) | 3:42 | 2022-06-24 | 2023-03-15 |
@@ -302,7 +303,7 @@
 | [Straight Jacket](https://open.spotify.com/track/6t6bOh1jmVcRke7rmzAegb) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [Fountain Tropical EP](https://open.spotify.com/album/7ttLLyyHakisBEXzhedMYm) | 3:25 | 2022-06-24 | 2023-05-18 |
 | [Strawberry Jam](https://open.spotify.com/track/2ANtjCxEa3I883stgWh5Mz) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Strawberry Jam](https://open.spotify.com/album/3WtWzLerFbkjmu2Uh2f2k9) | 3:32 | 2024-06-07 | 2024-10-22 |
 | [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 | 2022-04-26 | 2023-03-15 |
-| [Sugarcat](https://open.spotify.com/track/18pICKHsEvVhiKB2zwW1ta) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Sugarcat](https://open.spotify.com/album/1Z8ssIYHiBTNsCTwUCpOHP) | 2:54 | 2025-04-21 |  |
+| [Sugarcat](https://open.spotify.com/track/18pICKHsEvVhiKB2zwW1ta) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Sugarcat](https://open.spotify.com/album/1Z8ssIYHiBTNsCTwUCpOHP) | 2:54 | 2025-04-21 | 2025-06-15 |
 | [Summertime Voodoo \- Edit](https://open.spotify.com/track/3BMeKUAZ7K6arC5X77fB2a) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Summertime Voodoo](https://open.spotify.com/album/0ZnQYSd99bPzYRMCKd3B6P) | 3:41 | 2024-06-07 | 2025-04-14 |
 | [sun keeps on shining](https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sun keeps on shining](https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8) | 2:47 | 2022-06-03 | 2025-04-22 |
 | [Sunburn](https://open.spotify.com/track/6Fn7on22IiSxsCzSps3eQo) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Sunburn](https://open.spotify.com/album/6JsLFPRu7sFRRCJWZiKLaD) | 1:53 | 2022-04-26 | 2022-07-29 |

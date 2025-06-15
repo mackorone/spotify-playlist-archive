@@ -1,13 +1,29 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 44714,
+  "num_followers": 44790,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAACh3EJr3quOjkWG/osqHcu1",
+  "snapshot_id": "aEtqAAAAAAAawKbFCav1ps9PZO8jvQiA",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "MOJA1TA",
+        "url": "https://open.spotify.com/album/62inXmrayK1vAwbclJtp0D"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 144230,
+      "name": "MOJA1TA",
+      "url": "https://open.spotify.com/track/5HPNYgjgYWdpB7x6rNDWCM"
+    },
     {
       "added_at": null,
       "album": {
@@ -23,26 +39,6 @@
       "duration_ms": 161326,
       "name": "SIN AUTOTUNE",
       "url": "https://open.spotify.com/track/2xkAMFdKwbFFfY5jMEhi42"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "QUE SED",
-        "url": "https://open.spotify.com/album/2q6PAdBBf4L2Xpxqc3jd8b"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 124714,
-      "name": "POR EL EX NO SE LLORA",
-      "url": "https://open.spotify.com/track/1ZNLgW8KFCK695C9C5sIq7"
     },
     {
       "added_at": null,
@@ -63,6 +59,26 @@
       "duration_ms": 239482,
       "name": "1000COSAS",
       "url": "https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "QUE SED",
+        "url": "https://open.spotify.com/album/2q6PAdBBf4L2Xpxqc3jd8b"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 124714,
+      "name": "POR EL EX NO SE LLORA",
+      "url": "https://open.spotify.com/track/1ZNLgW8KFCK695C9C5sIq7"
     },
     {
       "added_at": null,
@@ -415,6 +431,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DISCOTEKA",
+        "url": "https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 174801,
+      "name": "DISCOTEKA",
+      "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u272a Ego (feat. GIMS & Lola Indigo)",
         "url": "https://open.spotify.com/album/6KAR8WOAy1GDf3Ffzi3Xkf"
       },
@@ -435,26 +471,6 @@
       "duration_ms": 208094,
       "name": "\u272a Ego (feat. GIMS & Lola Indigo)",
       "url": "https://open.spotify.com/track/0RudoX6OQvCNibT0wYrPAx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DISCOTEKA",
-        "url": "https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 174801,
-      "name": "DISCOTEKA",
-      "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
     },
     {
       "added_at": null,
@@ -631,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL TIBUR\u00d3N",
-        "url": "https://open.spotify.com/album/4ASAFxOzKAivUFqMoLoI5t"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 182242,
-      "name": "COMO EST\u00c1S BB",
-      "url": "https://open.spotify.com/track/0gwokSEwgcwf1QHJq7gH4B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUPERPOP",
         "url": "https://open.spotify.com/album/6V77SSxyvFabMPHt4I5BF8"
       },
@@ -667,6 +663,26 @@
       "duration_ms": 172632,
       "name": "LA TIRITA",
       "url": "https://open.spotify.com/track/3PDpyXUoutFfBapsCDKAY8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL TIBUR\u00d3N",
+        "url": "https://open.spotify.com/album/4ASAFxOzKAivUFqMoLoI5t"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 182242,
+      "name": "COMO EST\u00c1S BB",
+      "url": "https://open.spotify.com/track/0gwokSEwgcwf1QHJq7gH4B"
     },
     {
       "added_at": null,
@@ -811,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 174433,
-      "name": "Me Quedo",
-      "url": "https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Romeo Y Julieta",
         "url": "https://open.spotify.com/album/3xWDkfHl65CP2OgF488trX"
       },
@@ -847,6 +843,26 @@
       "duration_ms": 178753,
       "name": "Romeo Y Julieta",
       "url": "https://open.spotify.com/track/1rJat7yJE9fHXLuoaJfoND"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 174433,
+      "name": "Me Quedo",
+      "url": "https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf"
     },
     {
       "added_at": null,
@@ -983,22 +999,6 @@
       "duration_ms": 207804,
       "name": "Autoestima (Feat. Lola Indigo, Alizzz) - Remix",
       "url": "https://open.spotify.com/track/7cmRd1iwDaANckyPHSOv5V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya No Quiero N\u00e1",
-        "url": "https://open.spotify.com/album/0qvWm5gyv7jLuRwj4Ioaob"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 192975,
-      "name": "Ya No Quiero N\u00e1",
-      "url": "https://open.spotify.com/track/2A2Q4CYBcVvBF2OqgJ3OWX"
     }
   ],
   "unique_name": "This Is Lola Indigo",

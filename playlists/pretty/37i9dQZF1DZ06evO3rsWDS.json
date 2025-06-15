@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAACVux1ZL9lZGrMN6cXM+emQ",
+  "snapshot_id": "aEtqAAAAAAC8ntjoIvRKGoNrFqkUv6Gm",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Porque Soy Abeja Reina",
-        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 158146,
-      "name": "PORQUE SOY ABEJA REINA",
-      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
-    },
     {
       "added_at": null,
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 156640,
       "name": "Lo Que No Sirve, Estorba",
       "url": "https://open.spotify.com/track/5kDmZruM2jWU1A8A0o1EmN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Porque Soy Abeja Reina",
+        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 158146,
+      "name": "PORQUE SOY ABEJA REINA",
+      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
     },
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 229893,
+      "name": "Esa No Soy Yo",
+      "url": "https://open.spotify.com/track/0KP6ZRIx0ncKnzlm44S1s0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ni Muerta",
         "url": "https://open.spotify.com/album/45ID2WdGfnY0a0d9kjMdzE"
       },
@@ -535,26 +551,6 @@
       "duration_ms": 178226,
       "name": "NI MUERTA",
       "url": "https://open.spotify.com/track/1i6t6hQBpdzrXElkROHNfp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 203013,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt"
     },
     {
       "added_at": null,
@@ -579,18 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
       },
       "artists": [
         {
           "name": "Chiquis",
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 229893,
-      "name": "Esa No Soy Yo",
-      "url": "https://open.spotify.com/track/0KP6ZRIx0ncKnzlm44S1s0"
+      "duration_ms": 203013,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamantes",
-        "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 189586,
-      "name": "Brindaremos Por \u00c9l",
-      "url": "https://open.spotify.com/track/4xH6VqehWB9nVz8SebSYUP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Got It From My Mama (Lo Tengo De Mi Mama)",
         "url": "https://open.spotify.com/album/6QXVVqTWjbGQA3RZsYoUDc"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 198442,
       "name": "Got It From My Mama (Lo Tengo De Mi Mama)",
       "url": "https://open.spotify.com/track/7Ez88DLp50CyywDPZeEN4j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 189586,
+      "name": "Brindaremos Por \u00c9l",
+      "url": "https://open.spotify.com/track/4xH6VqehWB9nVz8SebSYUP"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entre Botellas",
+        "url": "https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 153653,
+      "name": "Cuanto Te Debo",
+      "url": "https://open.spotify.com/track/3XIsoRTP18VmEoSEBMr5yD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Porque Puedo",
         "url": "https://open.spotify.com/album/4MDYcn4PWPszWkqAqeRfVs"
       },
@@ -755,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Botellas",
-        "url": "https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 153653,
-      "name": "Cuanto Te Debo",
-      "url": "https://open.spotify.com/track/3XIsoRTP18VmEoSEBMr5yD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Regresar\u00e1s",
         "url": "https://open.spotify.com/album/2G0rUhLzTVlJrq07AlF2fB"
       },
@@ -783,26 +783,6 @@
       "duration_ms": 170106,
       "name": "No Regresar\u00e1s",
       "url": "https://open.spotify.com/track/0VAAJceCGgRX2qRilcAXxe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Homenaje a la Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/1c0G1Sx9WCmjEc2a49tFEr"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        },
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 203773,
-      "name": "Ovarios (feat. Chiquis Rivera)",
-      "url": "https://open.spotify.com/track/044OsAv6c6UqIlIZzw687O"
     },
     {
       "added_at": null,
@@ -823,6 +803,26 @@
       "duration_ms": 199746,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/6YR5NgX4Ecz3H0vvJIfFWV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homenaje a la Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/1c0G1Sx9WCmjEc2a49tFEr"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 203773,
+      "name": "Ovarios (feat. Chiquis Rivera)",
+      "url": "https://open.spotify.com/track/044OsAv6c6UqIlIZzw687O"
     },
     {
       "added_at": null,

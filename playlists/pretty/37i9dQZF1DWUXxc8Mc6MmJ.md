@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks\. \(그 시절 그 때의 감성이 담겨 있는 OST 명곡들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 956,297 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 956,597 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 82 | [You&I](https://open.spotify.com/track/6nqXh3vnt1mMRYVIK6SL0L) | [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Weightlifting Fairy Kim Bok Joo \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/5CWesejcPaGkUPNauwwSXv) | 3:35 |
 | 83 | [Stardust love song](https://open.spotify.com/track/01Evjih77HRm4aG3YeGcX7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Twenty\-Five Twenty\-One OST Part 6](https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3) | 4:11 |
 | 84 | [Confession Is Not Flashy \- Drama Version](https://open.spotify.com/track/1cG1SmUAcASMFUy75bc7aq) | [Mido and Falasol](https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\) SPECIAL](https://open.spotify.com/album/4PiSzOTOdTkD4kl2SJM8o5) | 3:55 |
-| 85 | [Please say something, even though it is a lie](https://open.spotify.com/track/3w1OiIgombILLvuVo8HRAm) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [W OST Part.2](https://open.spotify.com/album/5pcvUvnnXKju9j9qR5b7HK) | 3:33 |
-| 86 | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX) | 3:46 |
+| 85 | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX) | 3:46 |
+| 86 | [Please say something, even though it is a lie](https://open.spotify.com/track/3w1OiIgombILLvuVo8HRAm) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [W OST Part.2](https://open.spotify.com/album/5pcvUvnnXKju9j9qR5b7HK) | 3:33 |
 | 87 | [Beautiful Moment](https://open.spotify.com/track/3SXg7A9M3pY2aWYdzQ0BMW) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The Beauty Inside Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/0BhoxE4nRkVv4GjS8draWN) | 3:58 |
 | 88 | [Eternal Love](https://open.spotify.com/track/0HIr8uSRGF14DHO1sckYx0) | [Michael Learns To Rock](https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe) | [Healer \(Original Television Soundtrack\)](https://open.spotify.com/album/0EQJ8RXISHsoZafV3PgUFv) | 4:16 |
 | 89 | [For You](https://open.spotify.com/track/0tejqLrXfsXT5SEDld8fKk) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Cinderella & Four Knights, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/3heg9wwUtmvksQ1s68OZBT) | 4:19 |

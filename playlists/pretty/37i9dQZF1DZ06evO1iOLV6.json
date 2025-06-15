@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAABFblSnQvQGRfJNqTttiJyB",
+  "snapshot_id": "aEtqAAAAAAAVeW1sn9fPoh4K/RL3xqqD",
   "tracks": [
     {
       "added_at": null,
@@ -155,18 +155,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suh Different",
-        "url": "https://open.spotify.com/album/0FGE6PIsjF1Dk9OFq3iQU7"
+        "name": "Omo Charlie Champagne Vol.1",
+        "url": "https://open.spotify.com/album/2c8Mf9ScYdKrb9foJiNaGe"
       },
       "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 218488,
-      "name": "Suh Different",
-      "url": "https://open.spotify.com/track/3mdPtsarSxesXYqBP8OxJ5"
+      "duration_ms": 195030,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/1Am00a8Tk3uEaMMToIYNQo"
     },
     {
       "added_at": null,
@@ -191,22 +195,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omo Charlie Champagne Vol.1",
-        "url": "https://open.spotify.com/album/2c8Mf9ScYdKrb9foJiNaGe"
+        "name": "Suh Different",
+        "url": "https://open.spotify.com/album/0FGE6PIsjF1Dk9OFq3iQU7"
       },
       "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        },
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 195030,
-      "name": "Jericho",
-      "url": "https://open.spotify.com/track/1Am00a8Tk3uEaMMToIYNQo"
+      "duration_ms": 218488,
+      "name": "Suh Different",
+      "url": "https://open.spotify.com/track/3mdPtsarSxesXYqBP8OxJ5"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 191945,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/0f8Xy3OX3eW75Z6jFJiko3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rudi (feat. Patoranking)",
         "url": "https://open.spotify.com/album/7GBbTkIxylA9vWLPJkBNDt"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 219820,
       "name": "Rudi (feat. Patoranking)",
       "url": "https://open.spotify.com/track/5UTUhxdfkdIxXoXSJzOeUO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 191945,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/0f8Xy3OX3eW75Z6jFJiko3"
     },
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 175316,
-      "name": "Control Me",
-      "url": "https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Make Am (feat. Ebonyi State Band)",
         "url": "https://open.spotify.com/album/0ansMS1zm0JoxSpDVOGCHS"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 232893,
       "name": "Make Am (feat. Ebonyi State Band)",
       "url": "https://open.spotify.com/track/0URKYeAgtNb9WPf8OCGo7O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 175316,
+      "name": "Control Me",
+      "url": "https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv"
     },
     {
       "added_at": null,
@@ -979,26 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/0GJWhWInQgWTI9iA7Pi2v1"
-      },
-      "artists": [
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 194417,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/5ooiTZRRjdOlMcNw5hsKlT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ONLY ONE KING",
         "url": "https://open.spotify.com/album/0u649Gff5qgywplGmwA74P"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 260146,
       "name": "Happy Day",
       "url": "https://open.spotify.com/track/2SWqkpJmHPnLFaEf4HW7xr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/0GJWhWInQgWTI9iA7Pi2v1"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 194417,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/5ooiTZRRjdOlMcNw5hsKlT"
     },
     {
       "added_at": null,

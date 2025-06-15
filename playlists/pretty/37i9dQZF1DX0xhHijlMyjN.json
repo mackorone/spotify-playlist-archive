@@ -1,6 +1,6 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 338416,
+  "num_followers": 338369,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Ricky Martin",
-        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "Livin' la Vida Loca",
-      "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "F.A.M.E.",
         "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 230000,
       "name": "Felices los 4",
       "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Ricky Martin",
+        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "Livin' la Vida Loca",
+      "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
+        "name": "Pitbull Starring In Rebelution",
+        "url": "https://open.spotify.com/album/00zN65JStpVnpJn9ckMsQI"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "I Know You Want Me (Calle Ocho)",
+      "url": "https://open.spotify.com/track/5RzFJd6W40SDTyZkX6xx45"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
         "name": "Stereo Love",
         "url": "https://open.spotify.com/album/5kRrvgSyY0eyuCIoeQZN2S"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 184015,
       "name": "Stereo Love - Edit",
       "url": "https://open.spotify.com/track/2Xf4RoFpi7n06ppsGKbxiq"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
-        "name": "Pitbull Starring In Rebelution",
-        "url": "https://open.spotify.com/album/00zN65JStpVnpJn9ckMsQI"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "I Know You Want Me (Calle Ocho)",
-      "url": "https://open.spotify.com/track/5RzFJd6W40SDTyZkX6xx45"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Electric Warrior",
-        "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 262613,
-      "name": "Get It On",
-      "url": "https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Middle Of Nowhere",
         "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 268653,
       "name": "MMMBop",
       "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Electric Warrior",
+        "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 262613,
+      "name": "Get It On",
+      "url": "https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "The Singles 83/87",
-        "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
-      },
-      "artists": [
-        {
-          "name": "Righeira",
-          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
-        }
-      ],
-      "duration_ms": 217327,
-      "name": "Vamos a la Playa",
-      "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "The Biggest Reggae Hits",
         "url": "https://open.spotify.com/album/1GDBjjWoOsRzvmK4PRo92a"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 243695,
       "name": "Gimme Hope Jo'anna",
       "url": "https://open.spotify.com/track/6295Cr4SGdjJgnJ6DLtZFn"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "The Singles 83/87",
+        "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
+      },
+      "artists": [
+        {
+          "name": "Righeira",
+          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Vamos a la Playa",
+      "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "La Cucaracha",
-        "url": "https://open.spotify.com/album/52RyozzM58iDLzgKyxuOZ1"
-      },
-      "artists": [
-        {
-          "name": "El Combo Dominicano",
-          "url": "https://open.spotify.com/artist/0SRhX6qz5KzKtfvY85Jgsb"
-        }
-      ],
-      "duration_ms": 244500,
-      "name": "La Cucaracha",
-      "url": "https://open.spotify.com/track/3VBnhEvPBkH5nUMCtAGpv7"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Puerto Presente",
         "url": "https://open.spotify.com/album/0NfmXeIvmXywovqG2uGVpr"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 199960,
       "name": "Moving",
       "url": "https://open.spotify.com/track/2wvmkXG4foIJ2xUiwLhBjA"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "La Cucaracha",
+        "url": "https://open.spotify.com/album/52RyozzM58iDLzgKyxuOZ1"
+      },
+      "artists": [
+        {
+          "name": "El Combo Dominicano",
+          "url": "https://open.spotify.com/artist/0SRhX6qz5KzKtfvY85Jgsb"
+        }
+      ],
+      "duration_ms": 244500,
+      "name": "La Cucaracha",
+      "url": "https://open.spotify.com/track/3VBnhEvPBkH5nUMCtAGpv7"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -2307,26 +2307,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Fast Five (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4m2xhUYfu1TIPoSDpQAOp8"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Lucenzo",
-          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
-        }
-      ],
-      "duration_ms": 198386,
-      "name": "Danza Kuduro",
-      "url": "https://open.spotify.com/track/4sCSUQnWQ6HJsOMjfPicdn"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ"
       },
@@ -2375,6 +2355,26 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
+        "name": "Fast Five (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4m2xhUYfu1TIPoSDpQAOp8"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        }
+      ],
+      "duration_ms": 198386,
+      "name": "Danza Kuduro",
+      "url": "https://open.spotify.com/track/4sCSUQnWQ6HJsOMjfPicdn"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
         "name": "Dicen",
         "url": "https://open.spotify.com/album/3O0KlT4zFXkLKtXJyTo9OM"
       },
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/6Q8IfiJa5VOCfjVAaZW8RW"
-      },
-      "artists": [
-        {
-          "name": "Formula V",
-          "url": "https://open.spotify.com/artist/71Hp04UVv3eXJAn3BGsKJe"
-        }
-      ],
-      "duration_ms": 175506,
-      "name": "Eva Maria",
-      "url": "https://open.spotify.com/track/5fc3XWSpJo6jTlbjnhGOJQ"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Ni jaulas ni peceras",
         "url": "https://open.spotify.com/album/4YQKh4b18oo805c9LP89dw"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 191333,
       "name": "No me llames iluso",
       "url": "https://open.spotify.com/track/1xobZzJ5b478hISL3oKskp"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/6Q8IfiJa5VOCfjVAaZW8RW"
+      },
+      "artists": [
+        {
+          "name": "Formula V",
+          "url": "https://open.spotify.com/artist/71Hp04UVv3eXJAn3BGsKJe"
+        }
+      ],
+      "duration_ms": 175506,
+      "name": "Eva Maria",
+      "url": "https://open.spotify.com/track/5fc3XWSpJo6jTlbjnhGOJQ"
     },
     {
       "added_at": "2024-06-18 12:57:48",

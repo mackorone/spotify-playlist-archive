@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-259 songs - 13 hr 39 min
+260 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Anyway \(feat\. Tayla Parx\)](https://open.spotify.com/track/02yRHV9Cgk8CUS2fx9lKVC) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Royalty \(Deluxe Version\)](https://open.spotify.com/album/0VWmEVuQ8tA5iA3cCTrgxa) | 3:31 | 2024-06-14 |  |
 | [Asleep](https://open.spotify.com/track/0dMf8FEScSs8ieHPFlunxn) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [The Space Between](https://open.spotify.com/album/6tHcEzChizk2IXd5Kxl5hs) | 3:49 | 2024-06-14 |  |
 | [Bad Thing](https://open.spotify.com/track/4iQz6o1dEA3dZY81d3DiJm) | [Jesy Nelson](https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9) | [Bad Thing](https://open.spotify.com/album/0QY0A6aKhw0f2D1RfpCYk7) | 3:33 | 2024-06-14 |  |
+| [Best For Me](https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:27 | 2025-06-14 |  |
 | [Better Man](https://open.spotify.com/track/2BHbnX2TI08CyUa9gWFeqK) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 2:52 | 2024-06-14 |  |
 | [Birthday \(feat\. 50 Cent\)](https://open.spotify.com/track/2y70lWYidJKME62BChQ2nt) | [Elle Varner](https://open.spotify.com/artist/7zmk5lkmCMVvfvwF3H8FWC), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Birthday \(feat\. 50 Cent\)](https://open.spotify.com/album/4bTXnH9Hwnb0de2JA6mybQ) | 4:20 | 2024-06-14 |  |
 | [BO$$](https://open.spotify.com/track/1EtU16em39vcCVMx2mGpHq) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 2:51 | 2024-06-14 |  |
@@ -194,7 +195,7 @@
 | [Rich](https://open.spotify.com/track/0mLXX67niqacawrE54oMbz) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:57 | 2024-07-14 |  |
 | [Rich](https://open.spotify.com/track/2Gh6kOnozibGZC0iTEWMiE) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Rich](https://open.spotify.com/album/7EpkVV9OWoywiqkeMcHXaw) | 2:57 | 2024-06-14 | 2024-07-15 |
 | [Rick James](https://open.spotify.com/track/2h90uLMnaiqAbAMyYpPYJd) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [One Foot In](https://open.spotify.com/album/20P7AYaleRjg3IOcehylSD) | 2:46 | 2024-06-14 |  |
-| [Right Moves \(feat\. Keida & Shenseea\)](https://open.spotify.com/track/10EdIGnkizaN7v1uYljTd7) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Keida](https://open.spotify.com/artist/60W5voThnCKW5p1iH3KjQZ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 3:48 | 2024-07-29 |  |
+| [Right Moves \(feat\. Keida & Shenseea\)](https://open.spotify.com/track/10EdIGnkizaN7v1uYljTd7) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Keida](https://open.spotify.com/artist/60W5voThnCKW5p1iH3KjQZ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 3:48 | 2024-07-29 | 2025-06-15 |
 | [Road Trip](https://open.spotify.com/track/4DiTzj5a3YAnDOjx7srHki) | [Hyomin](https://open.spotify.com/artist/1K8kkeM8j0BL8sQ4aR7Vh6) | [Sketch](https://open.spotify.com/album/6pTgLbKoE6GYtVZUvIhwE4) | 3:44 | 2025-05-09 |  |
 | [Road Trip](https://open.spotify.com/track/53F0wuZooYnpzHrGhKcJ3S) | [Hyomin](https://open.spotify.com/artist/1K8kkeM8j0BL8sQ4aR7Vh6) | [Sketch](https://open.spotify.com/album/6rqz0Ct7lj3Bchg3xwtvy9) | 3:44 | 2024-06-14 | 2025-05-10 |
 | [Rock This Smoove](https://open.spotify.com/track/2ZCxvRA0YuI1Y7a0UOTRcX) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Good Burger 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7bJbc9Qnr5z8OBPGwSc88q) | 2:09 | 2024-06-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 17145,
+  "num_followers": 17152,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAAp+yWLcSiJ+bNjNbbUFB2e",
+  "snapshot_id": "aEtqAAAAAADyd8klrCUBSb9rRH8O81GW",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi Y Tequila",
-        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 185346,
-      "name": "Se Solicita",
-      "url": "https://open.spotify.com/track/572C9YliZ90R176sy2702N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Canta Con El Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 257640,
       "name": "C\u00f3mo Te Olvido",
       "url": "https://open.spotify.com/track/6apNNvYFcXv7pzVcTFKqpI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariachi Y Tequila",
+        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 185346,
+      "name": "Se Solicita",
+      "url": "https://open.spotify.com/track/572C9YliZ90R176sy2702N"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1hsPg6bG6BBj5czbuF34sT"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "No Pidas Perd\u00f3n",
-      "url": "https://open.spotify.com/track/4T25QSWF3CemmblwbyZqkt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Triste Recuerdo",
         "url": "https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O"
       },
@@ -447,22 +431,6 @@
       "duration_ms": 208902,
       "name": "Triste Recuerdo",
       "url": "https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mariachi M\u00edo",
-        "url": "https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 150384,
-      "name": "Mala Mala",
-      "url": "https://open.spotify.com/track/4R8O3wXfUpiWOTglaSLyDk"
     },
     {
       "added_at": null,
@@ -483,6 +451,38 @@
       "duration_ms": 170400,
       "name": "Un Pu\u00f1o De Tierra",
       "url": "https://open.spotify.com/track/6aCH4XhrhW0AG7NVZghJad"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariachi M\u00edo",
+        "url": "https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 150384,
+      "name": "Mala Mala",
+      "url": "https://open.spotify.com/track/4R8O3wXfUpiWOTglaSLyDk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1hsPg6bG6BBj5czbuF34sT"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "No Pidas Perd\u00f3n",
+      "url": "https://open.spotify.com/track/4T25QSWF3CemmblwbyZqkt"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mariachi Y Tequila (Deluxe)",
+        "url": "https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 187720,
+      "name": "Nos Gan\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuando Te Enamores",
         "url": "https://open.spotify.com/album/1a14TBSWfnPbsB4zDNXu2f"
       },
@@ -611,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi Y Tequila (Deluxe)",
-        "url": "https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr"
+        "name": "Mariachi Y Tequila",
+        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
       },
       "artists": [
         {
@@ -620,9 +636,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 187720,
-      "name": "Nos Gan\u00f3 El Amor",
-      "url": "https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L"
+      "duration_ms": 180320,
+      "name": "Cuando Hablo De Ti",
+      "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
     },
     {
       "added_at": null,
@@ -643,22 +659,6 @@
       "duration_ms": 188066,
       "name": "Mi Meta Contigo - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/5DUGx0K4LR3aRPDFphYNzf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mariachi Y Tequila",
-        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Cuando Hablo De Ti",
-      "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
-        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 199973,
-      "name": "\u00c9chame A M\u00ed La Culpa - En Vivo Desde Pa\u2019l Norte",
-      "url": "https://open.spotify.com/track/2FR0aP9ppAiu2LYH122ZFa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e9xico Mi Amor",
         "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 205120,
       "name": "Paloma Negra",
       "url": "https://open.spotify.com/track/6azmVYavoYRuLjLYhMwTDP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
+        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 199973,
+      "name": "\u00c9chame A M\u00ed La Culpa - En Vivo Desde Pa\u2019l Norte",
+      "url": "https://open.spotify.com/track/2FR0aP9ppAiu2LYH122ZFa"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tik Tik Tik",
-        "url": "https://open.spotify.com/album/52YZyzwbqzIMPuxlfXpBP0"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 191546,
-      "name": "Tik Tik Tik",
-      "url": "https://open.spotify.com/track/6Seb15Io8eCdPKwfY5Klyd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Te Apartes De M\u00ed",
         "url": "https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ"
       },
@@ -795,18 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Beso",
-        "url": "https://open.spotify.com/album/7g9R1E1UH8WlAjg4zV2xfi"
+        "name": "Tik Tik Tik",
+        "url": "https://open.spotify.com/album/52YZyzwbqzIMPuxlfXpBP0"
       },
       "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        },
         {
           "name": "Majo Aguilar",
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 155645,
-      "name": "El Beso",
-      "url": "https://open.spotify.com/track/37yyaWgqSRle0sKxW2p4Vc"
+      "duration_ms": 191546,
+      "name": "Tik Tik Tik",
+      "url": "https://open.spotify.com/track/6Seb15Io8eCdPKwfY5Klyd"
     },
     {
       "added_at": null,
@@ -831,6 +815,22 @@
       "duration_ms": 185834,
       "name": "Hasta Que Regreses",
       "url": "https://open.spotify.com/track/113DePdXtrX328UFntdtyP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Beso",
+        "url": "https://open.spotify.com/album/7g9R1E1UH8WlAjg4zV2xfi"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 155645,
+      "name": "El Beso",
+      "url": "https://open.spotify.com/track/37yyaWgqSRle0sKxW2p4Vc"
     },
     {
       "added_at": null,

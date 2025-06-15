@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 110 | [Map](https://open.spotify.com/track/4NkChmX8CyyCON0YqqVeze) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Trespassing \(Deluxe Version\)](https://open.spotify.com/album/5rPJM6RayMaqtseiNvhGqv) | 3:46 |
 | 111 | [Tomorrow Never Dies](https://open.spotify.com/track/1FH0foV70oRzZNZ92z4XZy) | [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Killer Love \(Deluxe Edition\)](https://open.spotify.com/album/103CJSreSMtgNGvwOSg3CN) | 3:40 |
 | 112 | [When It All Comes Down](https://open.spotify.com/track/10ex5Q9A8WrtaeJ0fjMQHd) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:05 |
-| 113 | [Sayonara](https://open.spotify.com/track/16ixxF0p99BSfdN6c5GvFx) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp) | [Sparks Fly Japan Edition](https://open.spotify.com/album/2Tk5k6EEQRf1tZBtLR2H8W) | 2:41 |
-| 114 | [Show You Mine](https://open.spotify.com/track/06VOFlj1yY5SZTN29OOo5n) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:01 |
+| 113 | [Show You Mine](https://open.spotify.com/track/06VOFlj1yY5SZTN29OOo5n) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:01 |
+| 114 | [Sayonara](https://open.spotify.com/track/16ixxF0p99BSfdN6c5GvFx) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp) | [Sparks Fly Japan Edition](https://open.spotify.com/album/2Tk5k6EEQRf1tZBtLR2H8W) | 2:41 |
 | 115 | [Sensitive Subject Matter](https://open.spotify.com/track/2KbyUAh59HHFd4SRAa5VG3) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:05 |
 | 116 | [Electric Heaven](https://open.spotify.com/track/2I02ASw3z4X4GXOvnKn6sq) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:25 |
 | 117 | [Snatched](https://open.spotify.com/track/0U9GbG7Bmzzd586ZgGXxHF) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N), [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:21 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 138 | [Burnin'](https://open.spotify.com/track/16zrncqFw9Jlh9x98rhVFp) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Dehiro](https://open.spotify.com/artist/5wveL5t3Phar9SspgSSf1f) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 3:29 |
 | 139 | [Hasta La Vista](https://open.spotify.com/track/7Hqkibl2LIjY1gWtqTb4HW) | [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV), [Static Revenger](https://open.spotify.com/artist/4Q08msBV0v3oEN91O7ubsD) | [Hasta La Vista](https://open.spotify.com/album/7tyoTr3dPhTbDZ8QDmfopy) | 2:48 |
 
-Snapshot ID: `Ab0D1AAAAABbaLkgK32V9+dPBEcPXiWD`
+Snapshot ID: `Ab0JkwAAAACdd2BreegnveocjXgyQv7i`

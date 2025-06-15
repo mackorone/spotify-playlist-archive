@@ -2,9 +2,9 @@
 
 ### [Acoustic Soul](https://open.spotify.com/playlist/37i9dQZF1DX5lDysu4GbKR)
 
-> Stripped back vibes\. Cover: Cynthia Erivo
+> Stripped back vibes\. Cover: Annahstasia
 
-282 songs - 16 hr 38 min
+283 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Run Away \(Acoustic\)](https://open.spotify.com/track/76qFHkFLDTtjD4k52SFrfA) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Run Away \(Acoustic\)](https://open.spotify.com/album/4Ldv9EEgRkugkJq2eB7Q2k) | 3:32 | 2023-05-18 |  |
 | [Run Away \- Acoustic](https://open.spotify.com/track/4M4RdY2SvrljBF4md0PWdS) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Run Away \(Acoustic\)](https://open.spotify.com/album/2qgNSbWCMabO8jZ2Rnucg0) | 3:32 | 2023-05-18 | 2024-04-19 |
 | [Runaway](https://open.spotify.com/track/2djLuf0US0tAhZQqGHF8Q2) | [KWAYE](https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ) | [Runaway](https://open.spotify.com/album/0N21fqUh7pnxP1BmPBctTc) | 5:08 | 2021-12-09 |  |
+| [Satisfy Me](https://open.spotify.com/track/4Q33mh1QlWoXs8Vlc9LBac) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Tether](https://open.spotify.com/album/3SBuk7ZuXQCJQ6IfrOPfyz) | 3:06 | 2025-06-14 |  |
 | [Save You](https://open.spotify.com/track/4gGjys9urpojUMJboFI9xk) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [aiMless](https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n) | 3:43 | 2021-12-09 | 2023-08-31 |
 | [Say So \- Acoustic Version](https://open.spotify.com/track/39xeg5Cq23RJMNnXs2A4Mf) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The Piano Album](https://open.spotify.com/album/3pjx1tSQJ60Zk1drGGf3RW) | 3:57 | 2021-12-09 | 2023-04-09 |
 | [Say Something](https://open.spotify.com/track/7bA2I7BtpuuxPwQE91nBUM) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Say Something](https://open.spotify.com/album/4HUrG51NvntAjcSuC9TPQp) | 2:45 | 2024-01-25 | 2024-08-10 |

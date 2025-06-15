@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain]
 
 > This is Peggy Gou\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,352 likes - 32 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,375 likes - 32 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain]
 | 4 | [Find The Way](https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Find The Way](https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN) | 3:57 |
 | 5 | [It Makes You Forget \(Itgehane\) \- Edit](https://open.spotify.com/track/1GZJu6ciZ55S8Kp1s8Z5ex) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [It Makes You Forget \(Itgehane\)](https://open.spotify.com/album/6KQHrwJdcPIUx1mb97b1Nj) | 3:56 |
 | 6 | [Can't Get You out of My Head \- Peggy Gou’s Midnight Remix](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Can't Get You out of My Head \(Peggy Gou’s Midnight Remix\)](https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3) | 4:31 |
-| 7 | [I Believe In Love Again](https://open.spotify.com/track/1xYsgHPHiR3IIdpRzkfKcE) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 2:56 |
-| 8 | [Lobster Telephone \- Edit](https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Lobster Telephone \(Edit\)](https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp) | 3:34 |
+| 7 | [Lobster Telephone \- Edit](https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Lobster Telephone \(Edit\)](https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp) | 3:34 |
+| 8 | [I Believe In Love Again](https://open.spotify.com/track/1xYsgHPHiR3IIdpRzkfKcE) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 2:56 |
 | 9 | [Nabi \(feat\. OHHYUK\)](https://open.spotify.com/track/6zQ24McTYC36rMWRgEfzqC) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Nabi \(feat\. Ohhyuk\)](https://open.spotify.com/album/06LftbqN9jVmaHDFq4eitA) | 3:52 |
 | 10 | [Han Jan \- Edit](https://open.spotify.com/track/0R7KkoK3CRaKwb9gYeH1st) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Han Jan](https://open.spotify.com/album/1roLEv2utEsKhcuKA6DnGc) | 4:02 |
 | 11 | [1+1=11 \- Edit](https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [1+1=11](https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc) | 3:10 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain]
 | 31 | [Travelling Without Arriving](https://open.spotify.com/track/4FiadIuhjYbjq5jkEwCOFF) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Travelling Without Arriving](https://open.spotify.com/album/6deWiLAKj3Zpb85JrFbvlO) | 5:57 |
 | 32 | [In Sum](https://open.spotify.com/track/03lJOQU2pvvNVTppJ3VvIs) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art of War EP](https://open.spotify.com/album/2GSiOe0Olm5qoWM6jLtxKo) | 6:36 |
 
-Snapshot ID: `aEoYgAAAAAAdH41W6eOmQvUh9Lh4mrgm`
+Snapshot ID: `aEtqAAAAAAB6dIjTRPnUphpGDR/93Cid`

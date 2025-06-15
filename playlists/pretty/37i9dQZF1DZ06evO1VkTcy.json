@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 22117,
+  "num_followers": 22118,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAADfBDyO72LeMwh9QHQEuNE8",
+  "snapshot_id": "aEtqAAAAAADZamVZbOFbSXvMZCQMJx4p",
   "tracks": [
     {
       "added_at": null,
@@ -787,6 +787,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Frio e Vento",
+        "url": "https://open.spotify.com/album/2iUn2X1RgWoNH0XYR88W4Z"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 213999,
+      "name": "Melhor N\u00e3o",
+      "url": "https://open.spotify.com/track/0HaI4Im8kE1YuZQRB7Kuaa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Avi\u00e3o",
-        "url": "https://open.spotify.com/album/3jofE4ABxA4B0nNFGEvj1P"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        }
-      ],
-      "duration_ms": 241171,
-      "name": "Avi\u00e3o",
-      "url": "https://open.spotify.com/track/6kdJ1Y8M9IDrEczN8FFweO"
     },
     {
       "added_at": null,
@@ -863,6 +863,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Avi\u00e3o",
+        "url": "https://open.spotify.com/album/3jofE4ABxA4B0nNFGEvj1P"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        }
+      ],
+      "duration_ms": 241171,
+      "name": "Avi\u00e3o",
+      "url": "https://open.spotify.com/track/6kdJ1Y8M9IDrEczN8FFweO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Um Pouco de Mim",
         "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 180705,
       "name": "Tira minha paz",
       "url": "https://open.spotify.com/track/5EOydzBnaxzhzj7iHqiRUo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frio e Vento",
-        "url": "https://open.spotify.com/album/2iUn2X1RgWoNH0XYR88W4Z"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 213999,
-      "name": "Melhor N\u00e3o",
-      "url": "https://open.spotify.com/track/0HaI4Im8kE1YuZQRB7Kuaa"
     },
     {
       "added_at": null,
@@ -947,30 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Pouco de Mim",
-        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Cupido Querido",
-      "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Posturadin",
         "url": "https://open.spotify.com/album/66QOsOeesc7RCRddsMOLKo"
       },
@@ -999,6 +975,30 @@
       "duration_ms": 226521,
       "name": "Posturadin",
       "url": "https://open.spotify.com/track/60nf4kVvOPfKPL8C9INkCI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Um Pouco de Mim",
+        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "Cupido Querido",
+      "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
     },
     {
       "added_at": null,
@@ -1291,30 +1291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00f3s",
-        "url": "https://open.spotify.com/album/132yCJcTYjzemvRMtLKIep"
-      },
-      "artists": [
-        {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 216344,
-      "name": "Cabe\u00e7a erguida",
-      "url": "https://open.spotify.com/track/0QLvzqKWTmSXLexxrn3n4K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fogo",
         "url": "https://open.spotify.com/album/7cQXR7MaVQEGjRwCnyoNcL"
       },
@@ -1335,6 +1311,30 @@
       "duration_ms": 181800,
       "name": "Fogo",
       "url": "https://open.spotify.com/track/2WPh5Iwekb2GVG8T3shK3D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00f3s",
+        "url": "https://open.spotify.com/album/132yCJcTYjzemvRMtLKIep"
+      },
+      "artists": [
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 216344,
+      "name": "Cabe\u00e7a erguida",
+      "url": "https://open.spotify.com/track/0QLvzqKWTmSXLexxrn3n4K"
     },
     {
       "added_at": null,

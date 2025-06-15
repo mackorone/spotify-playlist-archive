@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1H7isVCYz3f.md) - [plain]
 
 > muy fuego, curated by Bob the Drag Queen\. Traitors S3 now streaming on Peacock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,088 likes - 30 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,106 likes - 30 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1H7isVCYz3f.md) - [plain]
 | 29 | [A.S.M.R Lover \(feat\. Skeltal Ki\)](https://open.spotify.com/track/3Kj6YsVjkw63d0t3BL9oLQ) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Black Butta](https://open.spotify.com/album/6CuOVePkORDKSJKS15cQMd) | 2:53 |
 | 30 | [Balloon \(feat\. Doechii\)](https://open.spotify.com/track/35D1RA5uVFVhMc1qX80TaQ) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:34 |
 
-Snapshot ID: `AAAAAJR0ompYPChOYGT/Y7J/0xB3UCup`
+Snapshot ID: `Z39X1QAAAADJRX97WpKl0JAE3y1ZUxT7`

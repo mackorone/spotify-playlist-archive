@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 255677,
+  "num_followers": 255714,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAADjw/rmsmcHEGYeLwHmzuTa",
+  "snapshot_id": "aEtqAAAAAAD6cZNO+fhJn9P1W0ujyZw2",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recycler",
-        "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 261026,
-      "name": "My Head's in Mississippi",
-      "url": "https://open.spotify.com/track/6LPQVBRDTZK539mKAbyMHC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rio Grande Mud",
         "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 267480,
       "name": "Just Got Paid",
       "url": "https://open.spotify.com/track/53jhILFzXhKPHAfsLoLUwA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recycler",
+        "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 261026,
+      "name": "My Head's in Mississippi",
+      "url": "https://open.spotify.com/track/6LPQVBRDTZK539mKAbyMHC"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ZZ Top's First Album",
-        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 250120,
-      "name": "Just Got Back from Baby's",
-      "url": "https://open.spotify.com/track/2L72UXO13cFevWxF3Q1xFx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tres Hombres (Expanded 2006 Remaster)",
         "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 197520,
       "name": "Hot, Blue and Righteous (2006 Remaster)",
       "url": "https://open.spotify.com/track/3PjUjSHQcZteFB77WX3WYZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ZZ Top's First Album",
+        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 250120,
+      "name": "Just Got Back from Baby's",
+      "url": "https://open.spotify.com/track/2L72UXO13cFevWxF3Q1xFx"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Velcro Fly",
-      "url": "https://open.spotify.com/track/0RdncvNPTN9NVX8VffgKsR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tres Hombres (Expanded 2006 Remaster)",
         "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 189666,
       "name": "Precious and Grace (2005 Remaster)",
       "url": "https://open.spotify.com/track/4nOO08BLnAVGnRpSOmqJB5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Velcro Fly",
+      "url": "https://open.spotify.com/track/0RdncvNPTN9NVX8VffgKsR"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Delirious",
-      "url": "https://open.spotify.com/track/0AhIMik5qSUqlTLLRI9mdV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tejas",
         "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 209626,
       "name": "Asleep in the Desert (Instrumental)",
       "url": "https://open.spotify.com/track/4PCPSEEKOsqr7vhX19dExv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Delirious",
+      "url": "https://open.spotify.com/track/0AhIMik5qSUqlTLLRI9mdV"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 207706,
-      "name": "Certified Blues",
-      "url": "https://open.spotify.com/track/2WecIwijceRnfYDxwUGJPK"
+      "duration_ms": 203613,
+      "name": "Goin' Down to Mexico",
+      "url": "https://open.spotify.com/track/0Pm15uaCb1apAbVG1c1FY1"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 203613,
-      "name": "Goin' Down to Mexico",
-      "url": "https://open.spotify.com/track/0Pm15uaCb1apAbVG1c1FY1"
+      "duration_ms": 207706,
+      "name": "Certified Blues",
+      "url": "https://open.spotify.com/track/2WecIwijceRnfYDxwUGJPK"
     },
     {
       "added_at": null,

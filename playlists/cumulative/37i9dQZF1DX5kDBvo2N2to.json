@@ -1773,6 +1773,24 @@
     },
     {
       "album": {
+        "name": "fooo00oool",
+        "url": "https://open.spotify.com/album/0PyiLqUiHUVpC2QqlH4kTs"
+      },
+      "artists": [
+        {
+          "name": "Venus Anon",
+          "url": "https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188108,
+      "name": "fooo00oool",
+      "url": "https://open.spotify.com/track/14jB6NjGfnSjWzW9tVTMXq"
+    },
+    {
+      "album": {
         "name": "Forget,",
         "url": "https://open.spotify.com/album/1CrkjivjCUyyotAissCcqN"
       },
@@ -4866,7 +4884,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 172838,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn"

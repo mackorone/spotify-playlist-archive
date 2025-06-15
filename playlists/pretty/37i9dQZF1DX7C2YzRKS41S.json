@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 139030,
+  "num_followers": 139072,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2025-06-06 03:52:21",
       "album": {
-        "name": "N",
-        "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 245538,
-      "name": "relic\u00e1rio",
-      "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
-    },
-    {
-      "added_at": "2025-06-06 03:52:21",
-      "album": {
         "name": "Menino de Papel",
         "url": "https://open.spotify.com/album/1ykcByGySTdMT3veccKEXT"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 176566,
       "name": "Menino de Papel",
       "url": "https://open.spotify.com/track/2iiZsYIyb2MUANhTkNjtIy"
+    },
+    {
+      "added_at": "2025-06-06 03:52:21",
+      "album": {
+        "name": "N",
+        "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "relic\u00e1rio",
+      "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
     },
     {
       "added_at": "2025-06-06 03:52:21",
@@ -451,26 +451,18 @@
     {
       "added_at": "2025-06-06 03:52:21",
       "album": {
-        "name": "At\u00e9 o Sol Aparecer",
-        "url": "https://open.spotify.com/album/57Yk3ZdMMRE0gu7aP4dkrV"
+        "name": "Cafun\u00e9",
+        "url": "https://open.spotify.com/album/5iSqDjYcmolXIVFqInrgFl"
       },
       "artists": [
         {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        },
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        },
-        {
-          "name": "Pedro Alt\u00e9rio",
-          "url": "https://open.spotify.com/artist/1O8mpR5WQPL6AbixaSZ5td"
+          "name": "Pedro Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
         }
       ],
-      "duration_ms": 160594,
-      "name": "At\u00e9 o Sol Aparecer",
-      "url": "https://open.spotify.com/track/1cffPepIm6Lu941dLTu07m"
+      "duration_ms": 122970,
+      "name": "Cafun\u00e9",
+      "url": "https://open.spotify.com/track/7zjKBYb0C2NxGWLBmrveQl"
     },
     {
       "added_at": "2025-06-06 03:52:21",
@@ -491,18 +483,26 @@
     {
       "added_at": "2025-06-06 03:52:21",
       "album": {
-        "name": "Cafun\u00e9",
-        "url": "https://open.spotify.com/album/5iSqDjYcmolXIVFqInrgFl"
+        "name": "At\u00e9 o Sol Aparecer",
+        "url": "https://open.spotify.com/album/57Yk3ZdMMRE0gu7aP4dkrV"
       },
       "artists": [
         {
-          "name": "Pedro Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        },
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        },
+        {
+          "name": "Pedro Alt\u00e9rio",
+          "url": "https://open.spotify.com/artist/1O8mpR5WQPL6AbixaSZ5td"
         }
       ],
-      "duration_ms": 122970,
-      "name": "Cafun\u00e9",
-      "url": "https://open.spotify.com/track/7zjKBYb0C2NxGWLBmrveQl"
+      "duration_ms": 160594,
+      "name": "At\u00e9 o Sol Aparecer",
+      "url": "https://open.spotify.com/track/1cffPepIm6Lu941dLTu07m"
     },
     {
       "added_at": "2025-06-06 03:52:21",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-06-06 03:52:21",
       "album": {
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Bertoni",
+          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
+    },
+    {
+      "added_at": "2025-06-06 03:52:21",
+      "album": {
         "name": "Milton + esperanza",
         "url": "https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 276906,
       "name": "A Day in the Life",
       "url": "https://open.spotify.com/track/3bRBaAPIdMqP53D29w19d5"
-    },
-    {
-      "added_at": "2025-06-06 03:52:21",
-      "album": {
-        "name": "Be Here Now",
-        "url": "https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Bertoni",
-          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Be Here Now",
-      "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
     },
     {
       "added_at": "2025-06-06 03:52:21",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-06-06 03:52:21",
       "album": {
+        "name": "Amores E Flores",
+        "url": "https://open.spotify.com/album/6rqpxYPwbgn348n8b5j7ne"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 210323,
+      "name": "\u00cdmpar",
+      "url": "https://open.spotify.com/track/3vXKSy1vWDvl6DeKUxxpaG"
+    },
+    {
+      "added_at": "2025-06-06 03:52:21",
+      "album": {
         "name": "Varanda dos Palpites",
         "url": "https://open.spotify.com/album/3vMBt9c6LGUvwbZ7e3J1HD"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 239827,
       "name": "Falta",
       "url": "https://open.spotify.com/track/4GxYuiyGijRuGslaPLl2MJ"
-    },
-    {
-      "added_at": "2025-06-06 03:52:21",
-      "album": {
-        "name": "Amores E Flores",
-        "url": "https://open.spotify.com/album/6rqpxYPwbgn348n8b5j7ne"
-      },
-      "artists": [
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        }
-      ],
-      "duration_ms": 210323,
-      "name": "\u00cdmpar",
-      "url": "https://open.spotify.com/track/3vXKSy1vWDvl6DeKUxxpaG"
     },
     {
       "added_at": "2025-06-06 03:52:21",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2025-06-06 03:52:21",
       "album": {
-        "name": "N\u00e3o Tem Lua",
-        "url": "https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh"
-      },
-      "artists": [
-        {
-          "name": "Josyara",
-          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
-        },
-        {
-          "name": "Juliana Linhares",
-          "url": "https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN"
-        }
-      ],
-      "duration_ms": 179843,
-      "name": "N\u00e3o Tem Lua",
-      "url": "https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc"
-    },
-    {
-      "added_at": "2025-06-06 03:52:21",
-      "album": {
         "name": "Meu Primeiro Amor",
         "url": "https://open.spotify.com/album/4XzvYXmxuOyV0gXpVVz5pT"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 193136,
       "name": "Meu Primeiro Amor",
       "url": "https://open.spotify.com/track/5Ui1KfWnjRAl3gCM6mrkVN"
+    },
+    {
+      "added_at": "2025-06-06 03:52:21",
+      "album": {
+        "name": "N\u00e3o Tem Lua",
+        "url": "https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh"
+      },
+      "artists": [
+        {
+          "name": "Josyara",
+          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
+        },
+        {
+          "name": "Juliana Linhares",
+          "url": "https://open.spotify.com/artist/06nnwdhfK1jBLXF9uwyDlN"
+        }
+      ],
+      "duration_ms": 179843,
+      "name": "N\u00e3o Tem Lua",
+      "url": "https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc"
     },
     {
       "added_at": "2025-06-06 03:52:21",

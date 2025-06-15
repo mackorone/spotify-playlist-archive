@@ -1,0 +1,37 @@
+[pretty](/playlists/pretty/37i9dQZF1DZ06evO3U8HPt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3U8HPt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3U8HPt)
+
+### [This Is Ella Langley](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3U8HPt)
+
+> This is Ella Langley\. The essential tracks, all in one playlist.
+
+25 songs - 1 hr 21 min
+
+| Title | Artist(s) | Album | Length | Added | Removed |
+|---|---|---|---|---|---|
+| [20\-20](https://open.spotify.com/track/0HhzALLRmKKP8iP2C9qzAP) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:15 | 2025-06-15 |  |
+| [Beautiful Lies](https://open.spotify.com/track/4CJQwcIon6uKc3gfIivuhS) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Crossing Lines](https://open.spotify.com/album/0iXQJDkspV7JKEcpm6G1uu) | 3:52 | 2025-06-15 |  |
+| [better be tough](https://open.spotify.com/track/0gmQyWfN1iSYnwLMOlMPLi) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 3:06 | 2025-06-15 |  |
+| [Buzzes Like Neon](https://open.spotify.com/track/6Tj35xx9Rmb13ybnVh0OLk) | [Adam Hood](https://open.spotify.com/artist/4oqOpULfSzd2BRoBT4aTXk), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Buzzes Like Neon](https://open.spotify.com/album/0Nrc4EuEY9c7XDHOaXCx23) | 3:28 | 2025-06-15 |  |
+| [Could've Been Her](https://open.spotify.com/track/1I8EAskXPELoy0q3EkErsg) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 3:25 | 2025-06-15 |  |
+| [Country Boy's Dream Girl](https://open.spotify.com/track/5eVuVYp9OyD9dm6Wcyb5nr) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 3:05 | 2025-06-15 |  |
+| [Damn You](https://open.spotify.com/track/2DvOwcQd7RB5IV7MdlwpvN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/7zdOR8OO3NCAzsDtFui5Je) | 3:03 | 2025-06-15 |  |
+| [Don't Mind If I Do](https://open.spotify.com/track/1FHIZknONrV2c20w0x5AVG) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 3:38 | 2025-06-15 |  |
+| [Don't We All \(Acoustic\)](https://open.spotify.com/track/7kwSLtR8B2XOtBtorr372O) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 2:41 | 2025-06-15 |  |
+| [Excuse The Mess](https://open.spotify.com/track/5KP3uYT70kYwQYLXUwLlua) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 3:25 | 2025-06-15 |  |
+| [girl you're taking home](https://open.spotify.com/track/13TtTCE6v8vwTSgWJPjwLl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:04 | 2025-06-15 |  |
+| [Hey Ma I Made It](https://open.spotify.com/track/0mmneggTzBRWdiiXyTbpDF) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Hey Ma I Made It](https://open.spotify.com/album/5Pr7NCTji1hzZxQttXNiqb) | 3:30 | 2025-06-15 |  |
+| [hungover](https://open.spotify.com/track/1p7V6RyEgPPPYRcvJSCpnF) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 3:18 | 2025-06-15 |  |
+| [If You Have To](https://open.spotify.com/track/6FxC6j3SQlVsnokxxhAxXN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [If You Have To](https://open.spotify.com/album/6G8k0Ah1l0Nr94WKyU8G7p) | 3:19 | 2025-06-15 |  |
+| [love you tonight](https://open.spotify.com/track/2nMJZxXtV5oTPbtIXMpzhX) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 2:53 | 2025-06-15 |  |
+| [made it out of mexico \- acoustic](https://open.spotify.com/track/5quvD61yko8VdSh5Q0hrA6) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:10 | 2025-06-15 |  |
+| [Make Me Wanna Smoke](https://open.spotify.com/track/3eh2jtDdUk59q7BKI0l4YP) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 3:02 | 2025-06-15 |  |
+| [monsters](https://open.spotify.com/track/1lV0wIr5ZJg94SwVvZg6UN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:02 | 2025-06-15 |  |
+| [nicotine](https://open.spotify.com/track/47CCJxLcvIB8KS7lZxXDDN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 3:36 | 2025-06-15 |  |
+| [paint the town blue](https://open.spotify.com/track/3hlnEAM64xfug9i81hwPB7) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 3:05 | 2025-06-15 |  |
+| [people change](https://open.spotify.com/track/2x3ilJIp5c8KtZW03lThQX) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:22 | 2025-06-15 |  |
+| [Strangers](https://open.spotify.com/track/1maZDh7a04ixruZ36q2kha) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Keepin' The Lights On](https://open.spotify.com/album/1vcPPMVBjcmmP7yK9XWJzf) | 3:32 | 2025-06-15 |  |
+| [That's Why We Fight \(feat\. Koe Wetzel\)](https://open.spotify.com/track/5yIOCX7Mnu8WFvil2NGLRg) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 2:43 | 2025-06-15 |  |
+| [weren't for the wind](https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:13 | 2025-06-15 |  |
+| [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/track/2PyJAiQjp1OPkow2FJZKHR) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 3:44 | 2025-06-15 |  |
+
+\*This playlist was first scraped on 2025-06-15. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 
 > This is Mau y Ricky\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,541 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,544 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 | 47 | [ME ACOSTUMBRÉ](https://open.spotify.com/track/65tCqCMNr7tGPSAWFVGvat) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:36 |
 | 48 | [Canción 2](https://open.spotify.com/track/04yUAvNYBJfOescfqT8UlS) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Hotel Caracas](https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS) | 2:28 |
 | 49 | [Ya No Tiene Novio \- Remix](https://open.spotify.com/track/7o3FMIu6KldnAwXaA8MO8x) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Sharo Towers](https://open.spotify.com/artist/4h6Eg0dBZ4Fr8vRcSn8r5r) | [Ya No Tiene Novio \(Remix\)](https://open.spotify.com/album/5DhvMwwdPorHfK7Aihfrc3) | 3:32 |
-| 50 | [Ya Tú Me Conoces](https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ya Tú Me Conoces](https://open.spotify.com/album/1HLBpz1LijH2GD2Um5vemj) | 3:15 |
+| 50 | [Mal de la Cabeza](https://open.spotify.com/track/62mmVqtsiY2dob1EMxC5W2) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 4:02 |
 
-Snapshot ID: `aEoYgAAAAAB0rSdmAR1hj+kurT6HqnIn`
+Snapshot ID: `aEtqAAAAAACPg6NT5zNx2lV354LOYD9C`

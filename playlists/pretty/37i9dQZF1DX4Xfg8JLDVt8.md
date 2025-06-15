@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xfg8JLDVt8.md) - [plain]
 
 > Modo cursi: ON \#RelationshipGoals
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,068 likes - 65 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,106 likes - 65 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xfg8JLDVt8.md) - [plain]
 | 64 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 |
 | 65 | [Anyone](https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Anyone](https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU) | 3:10 |
 
-Snapshot ID: `ZzbVFAAAAAAOd2svo38DSvyErzxYPNjk`
+Snapshot ID: `ZzbVFAAAAADX9eUNfboeb3csPi9sL2Nx`

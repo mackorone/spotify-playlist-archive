@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > I'm a real bad girl but a real good kisser 🔁
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,581,825 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,581,806 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 99 | [Wondering](https://open.spotify.com/track/7ixrhaISHqN5I9H98uRDcS) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Wondering](https://open.spotify.com/album/5Rl5nlaZGwwZRZb04wT1cn) | 2:57 |
 | 100 | [Juno](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:43 |
 
-Snapshot ID: `aEuohwAAAAD9Ns57XW2BzdFQ6WhnCfzN`
+Snapshot ID: `aEuohwAAAACHF8Pu4/mYmHcUrjU/KKL4`

@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 34093,
+  "num_followers": 34102,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAAAiHy3KF1GufS6pKG5H5LHS",
+  "snapshot_id": "aEtqAAAAAADAbVdt3U1/mN3WnJ1bIDsj",
   "tracks": [
     {
       "added_at": null,
@@ -275,26 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Fly",
-        "url": "https://open.spotify.com/album/5bPJWz3z4NWjOaRYBRZBED"
-      },
-      "artists": [
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 184541,
-      "name": "Swerve (with G Herbo)",
-      "url": "https://open.spotify.com/track/6Pi7DDPcJuWoZnb5GFsTUQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandson",
         "url": "https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 163013,
       "name": "Real Oppy (feat. G Herbo)",
       "url": "https://open.spotify.com/track/33b88WhmUTvmavA6yAsKQp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Me Fly",
+        "url": "https://open.spotify.com/album/5bPJWz3z4NWjOaRYBRZBED"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 184541,
+      "name": "Swerve (with G Herbo)",
+      "url": "https://open.spotify.com/track/6Pi7DDPcJuWoZnb5GFsTUQ"
     },
     {
       "added_at": null,
@@ -787,6 +787,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peter Piper (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/032JQb782ZO6JgoyOMwbps"
+      },
+      "artists": [
+        {
+          "name": "Chicken P",
+          "url": "https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Peter Piper (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/1LtfT4iJrlISYbYc2yLkqT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UNDERWORLD",
         "url": "https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 160145,
       "name": "Stress Relief (with G Herbo)",
       "url": "https://open.spotify.com/track/7GsiWWr0TlgnehdkgAg3Yq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peter Piper (feat. G Herbo)",
-        "url": "https://open.spotify.com/album/032JQb782ZO6JgoyOMwbps"
-      },
-      "artists": [
-        {
-          "name": "Chicken P",
-          "url": "https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Peter Piper (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/1LtfT4iJrlISYbYc2yLkqT"
     },
     {
       "added_at": null,

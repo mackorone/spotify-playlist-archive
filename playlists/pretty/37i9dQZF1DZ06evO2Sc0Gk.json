@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 20142,
+  "num_followers": 20144,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAADtMh0GBT0tFAAiCQLfC1W2",
+  "snapshot_id": "aEtqAAAAAAAh5HIA8swfcmUShDtlPVn4",
   "tracks": [
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doyin",
-        "url": "https://open.spotify.com/album/3G9nwad9keufs9f45T69Z9"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 153962,
-      "name": "Doyin",
-      "url": "https://open.spotify.com/track/71iknvVFjHMMs0nit8eh2M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad (feat. Yungen, MoStack, Mr Eazi & Not3s)",
         "url": "https://open.spotify.com/album/3X34zuRCa6RTlmAUP30kIh"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 204832,
       "name": "Bad (feat. Yungen, MoStack, Mr Eazi & Not3s)",
       "url": "https://open.spotify.com/track/5vySkXA0v40CDwofIvhc1Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doyin",
+        "url": "https://open.spotify.com/album/3G9nwad9keufs9f45T69Z9"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 153962,
+      "name": "Doyin",
+      "url": "https://open.spotify.com/track/71iknvVFjHMMs0nit8eh2M"
     },
     {
       "added_at": null,
@@ -747,18 +747,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/0wDPXirmkaRKLWIfYAsnKH"
+        "name": "Call Waiting",
+        "url": "https://open.spotify.com/album/5JkpF4etIZ5IOrAPzCcfjI"
       },
       "artists": [
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "emPawa Africa",
+          "url": "https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
         }
       ],
-      "duration_ms": 109747,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/4Vo3oCRHQI8KT7kv9Ayism"
+      "duration_ms": 150702,
+      "name": "Call Waiting",
+      "url": "https://open.spotify.com/track/6E7inQoWgdOxhFw4GmNS4c"
     },
     {
       "added_at": null,
@@ -787,22 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
-        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0wDPXirmkaRKLWIfYAsnKH"
       },
       "artists": [
         {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Mugeez",
-          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Business",
-      "url": "https://open.spotify.com/track/6Px2Esj5oY27ZvkbkLSA5d"
+      "duration_ms": 109747,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/4Vo3oCRHQI8KT7kv9Ayism"
     },
     {
       "added_at": null,
@@ -831,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call Waiting",
-        "url": "https://open.spotify.com/album/5JkpF4etIZ5IOrAPzCcfjI"
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
       },
       "artists": [
         {
@@ -840,21 +848,33 @@
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "emPawa Africa",
-          "url": "https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN"
-        },
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+          "name": "Mugeez",
+          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
         }
       ],
-      "duration_ms": 150702,
-      "name": "Call Waiting",
-      "url": "https://open.spotify.com/track/6E7inQoWgdOxhFw4GmNS4c"
+      "duration_ms": 242000,
+      "name": "Business",
+      "url": "https://open.spotify.com/track/6Px2Esj5oY27ZvkbkLSA5d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sample You (Remix)",
+        "url": "https://open.spotify.com/album/4NqSxpwqFC9RZU6wh9xgUE"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+        }
+      ],
+      "duration_ms": 213812,
+      "name": "Sample You - Remix",
+      "url": "https://open.spotify.com/track/0rTYNZiZb6jnHE6W4qGsbb"
     },
     {
       "added_at": null,
@@ -887,22 +907,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sample You (Remix)",
-        "url": "https://open.spotify.com/album/4NqSxpwqFC9RZU6wh9xgUE"
+        "name": "Body",
+        "url": "https://open.spotify.com/album/276Wmuj5vozbr8ud6lGTCv"
       },
       "artists": [
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
         },
         {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 213812,
-      "name": "Sample You - Remix",
-      "url": "https://open.spotify.com/track/0rTYNZiZb6jnHE6W4qGsbb"
+      "duration_ms": 216000,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/44xkTNfuxSrc7VKAegVI1O"
     },
     {
       "added_at": null,
@@ -927,26 +947,6 @@
       "duration_ms": 262219,
       "name": "Dame Un Break - Remix",
       "url": "https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/276Wmuj5vozbr8ud6lGTCv"
-      },
-      "artists": [
-        {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/44xkTNfuxSrc7VKAegVI1O"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtmGxs4S4N7.md) - [plain]
 
 > Shout ¡Viva México! with these classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,831 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,921 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtmGxs4S4N7.md) - [plain]
 | 79 | [Menos Mal Que Me Querías](https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Menos Mal Que Me Querías](https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW) | 2:37 |
 | 80 | [Nube de Paso](https://open.spotify.com/track/1OKSoHANCvAxufNdHZKhes) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup) | [Nube de Paso](https://open.spotify.com/album/7xT119M1qgkNUP8UDSjya4) | 2:58 |
 
-Snapshot ID: `AAAAAL7mLO7NVGannengJCYDyPaCBeGH`
+Snapshot ID: `Z70oJwAAAAC054pVajw0JohO7JzjoSj1`

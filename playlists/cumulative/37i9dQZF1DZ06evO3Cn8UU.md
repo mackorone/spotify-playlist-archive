@@ -4,7 +4,7 @@
 
 > This is Teddy Pendergrass\. The essential tracks, all in one playlist.
 
-80 songs - 6 hr 53 min
+81 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Easy, Easy, Got To Take It Easy](https://open.spotify.com/track/5zqA1u5TMNsZUgcVfSdVs3) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 4:52 | 2023-05-05 |  |
 | [Feel the Fire](https://open.spotify.com/track/2Dlo3MHqNxgRKOX6KAmWWO) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [TP \(Expanded Edition\)](https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO) | 5:32 | 2022-05-25 |  |
 | [Get Up, Get Down, Get Funky, Get Loose](https://open.spotify.com/track/45j8dDUMU4SLVL8xMYY8XE) | [Don Arcadio](https://open.spotify.com/artist/6ihzZuNxERm0dxAQltMHjh), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Get Up, Get Down, Get Funky, Get Loose](https://open.spotify.com/album/3uFzBDPPhfjC8rpB38XmlY) | 7:12 | 2023-02-02 | 2023-02-22 |
-| [Get Up, Get Down, Get Funky, Get Loose](https://open.spotify.com/track/53i3FnA4AZEZ8xfC4Rw6bB) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 5:23 | 2022-05-25 |  |
+| [Get Up, Get Down, Get Funky, Get Loose](https://open.spotify.com/track/53i3FnA4AZEZ8xfC4Rw6bB) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 5:23 | 2022-05-25 | 2025-06-15 |
 | [Good to You](https://open.spotify.com/track/5xAj9r0FpQoTbSj9bg9R6G) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Joy](https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu) | 5:16 | 2022-05-25 | 2022-10-13 |
 | [Happy Christmas](https://open.spotify.com/track/1WObBbayq5HgMVbzB18tCa) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [This Christmas \(I'd Rather Have Love\)](https://open.spotify.com/album/5ufLI1OiVQMhhNFmxF1A5v) | 5:38 | 2023-11-10 | 2023-12-14 |
 | [Happy Kwanzaa](https://open.spotify.com/track/3G8MNUNRQSbPcihO71aekf) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Happy Kwanzaa](https://open.spotify.com/album/6oLdUzgbzV9OYFWWIgueUx) | 5:12 | 2023-10-10 | 2023-11-11 |
@@ -35,6 +35,7 @@
 | [Hold Me \(with Teddy Pendergrass\)](https://open.spotify.com/track/00W1p1EeD140DHSrVjhhlR) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 6:02 | 2022-05-25 |  |
 | [Hold Me \- 45 Version](https://open.spotify.com/track/5YJjCGmO9QfEvB7Ap1oHpp) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Hold Me / Love \[Digital 45\]](https://open.spotify.com/album/4D9avWhg4pxSzQSSVSClnQ) | 5:21 | 2022-05-25 |  |
 | [How Can You Mend a Broken Heart](https://open.spotify.com/track/7idH2ycyQPXvdAwX9GVWeX) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Truly Blessed](https://open.spotify.com/album/4ZNl9QsJrlbWizJafSKQog) | 4:39 | 2022-05-26 |  |
+| [I Am Who I Am \(Re\-mastered\)](https://open.spotify.com/track/5tq73HT5XCaTb39Wop9b5f) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [I Am Who I Am \(Re\-mastered\)](https://open.spotify.com/album/6vVLNrQDUFeF26MgZUGLT4) | 4:41 | 2025-06-15 |  |
 | [I Can't Live Without Your Love](https://open.spotify.com/track/07iF2abYbJg0ndDc1hFdIT) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [It's Time For Love](https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV) | 3:00 | 2024-01-01 |  |
 | [I Don't Love You Anymore](https://open.spotify.com/track/2NLgJVAko27NbJo5wINukh) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy Pendergrass](https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5) | 3:58 | 2022-05-25 |  |
 | [I Miss You \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5y0yvFr9dAsT1ycNUYSRPl) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 8:38 | 2022-05-25 |  |

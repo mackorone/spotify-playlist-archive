@@ -4,7 +4,7 @@
 
 > This is Los Invasores De Nuevo León\. The essential tracks, all in one playlist.
 
-94 songs - 4 hr 39 min
+95 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Coincidencia](https://open.spotify.com/track/6mG194I8D0FM4lHwVnfdWu) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Coincidencia](https://open.spotify.com/album/5kZpacNK5T75ydnsjHPI5A) | 3:10 | 2023-05-26 | 2023-06-18 |
 | [Concha Del Alma](https://open.spotify.com/track/0fgfdMYuelVZXYkrsS9joX) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [16 Exitos](https://open.spotify.com/album/4Q9YcxSONwOGiK0Wpi4GkU) | 3:02 | 2022-06-01 | 2022-10-13 |
 | [Corazón De Oro](https://open.spotify.com/track/3hEDujdXlHpKEv8pW7SxBz) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [15 Boleros De Oro](https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT) | 3:07 | 2022-06-02 |  |
+| [Curé Tus Heridas](https://open.spotify.com/track/5oGDiAlh7LTxOX8bOjFYtQ) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Curé Tus Heridas](https://open.spotify.com/album/5NibKBIwLWZ5DR77owuDnT) | 2:45 | 2025-06-15 |  |
 | [De Vida O Muerte](https://open.spotify.com/track/4TbjXIEyA9VKdBx5WuSw4B) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [De Vida O Muerte](https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V) | 3:01 | 2022-06-01 |  |
 | [Degenerado](https://open.spotify.com/track/413NV5nNVfbEh7vG1x2GTl) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Mi Héroe](https://open.spotify.com/album/1Flg5XJrhqjvd70wX6QV9C) | 2:39 | 2022-06-01 |  |
 | [Derrotado Corazón](https://open.spotify.com/track/0rCMtvxL1xtZe4qkEm2cix) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Aguanta Corazón](https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5) | 2:51 | 2022-06-06 | 2025-04-09 |
@@ -92,7 +93,7 @@
 | [Qué Valor De Mujer](https://open.spotify.com/track/0hwkRlOiOiMSsvPFpAFFZW) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Que Valor De Mujer](https://open.spotify.com/album/0LVFpAYVyRHG5RTdJPRYD1) | 3:10 | 2025-01-24 | 2025-03-08 |
 | [Qué Valor De Mujer](https://open.spotify.com/track/4GT3fRkjpQO8uXEWe0A4oB) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [15 Boleros De Oro](https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT) | 3:13 | 2022-06-01 | 2024-06-04 |
 | [Rafael Caro Quintero](https://open.spotify.com/track/6CaDhKiByDaJlLRgAlW0QF) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:08 | 2022-06-01 |  |
-| [Reproches Del Viento](https://open.spotify.com/track/6UftyO69RjPSEMf8bluuVO) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Es Demasiado Tarde](https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx) | 3:26 | 2022-06-06 |  |
+| [Reproches Del Viento](https://open.spotify.com/track/6UftyO69RjPSEMf8bluuVO) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Es Demasiado Tarde](https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx) | 3:26 | 2022-06-06 | 2025-06-15 |
 | [Rosalinda](https://open.spotify.com/track/2Le4YQV3wlP9KRY4Uku4Xk) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [20 Rancheras](https://open.spotify.com/album/0Sj2tO0uGkHE7EVasrPeIC) | 3:08 | 2022-06-01 | 2023-07-10 |
 | [Rosalinda](https://open.spotify.com/track/76JjJHMjVRSpI86NOzbWeZ) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Laurita Garza](https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg) | 3:08 | 2023-07-21 |  |
 | [Se Acabó](https://open.spotify.com/track/2Tq1NVRQwWSZ0CUSxU0cFA) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [De Vida O Muerte](https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V) | 3:28 | 2022-06-01 |  |

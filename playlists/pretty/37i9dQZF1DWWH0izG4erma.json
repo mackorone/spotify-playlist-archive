@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Treaty Oak Revival",
-  "num_followers": 622330,
+  "num_followers": 622462,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-06-13 16:09:36",
       "album": {
-        "name": "Happy Never After",
-        "url": "https://open.spotify.com/album/2Jf7dwFtZjdrUL0RDnn8Y6"
-      },
-      "artists": [
-        {
-          "name": "Sterling Elza",
-          "url": "https://open.spotify.com/artist/4KKiX98Tb5MRPiPnTmPgP0"
-        }
-      ],
-      "duration_ms": 166985,
-      "name": "Happy Never After",
-      "url": "https://open.spotify.com/track/022yiRKZI9ZNJIV4bEA3fR"
-    },
-    {
-      "added_at": "2025-06-13 16:09:36",
-      "album": {
         "name": "Up To No Good",
         "url": "https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 133629,
       "name": "Up To No Good",
       "url": "https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA"
+    },
+    {
+      "added_at": "2025-06-13 16:09:36",
+      "album": {
+        "name": "Happy Never After",
+        "url": "https://open.spotify.com/album/2Jf7dwFtZjdrUL0RDnn8Y6"
+      },
+      "artists": [
+        {
+          "name": "Sterling Elza",
+          "url": "https://open.spotify.com/artist/4KKiX98Tb5MRPiPnTmPgP0"
+        }
+      ],
+      "duration_ms": 166985,
+      "name": "Happy Never After",
+      "url": "https://open.spotify.com/track/022yiRKZI9ZNJIV4bEA3fR"
     },
     {
       "added_at": "2025-06-13 16:09:36",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-06-13 16:09:36",
       "album": {
-        "name": "Backroad of My Mind",
-        "url": "https://open.spotify.com/album/1vdc23D9Hqs70BuqYXDPm0"
-      },
-      "artists": [
-        {
-          "name": "Ryan Jesse",
-          "url": "https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl"
-        }
-      ],
-      "duration_ms": 169480,
-      "name": "Backroad of My Mind",
-      "url": "https://open.spotify.com/track/0EHEhSDMITh2e89rIqnu4s"
-    },
-    {
-      "added_at": "2025-06-13 16:09:36",
-      "album": {
         "name": "Black Powder Soul",
         "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
       },
@@ -1471,22 +1455,6 @@
       "duration_ms": 216153,
       "name": "Black Powder Soul",
       "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
-    },
-    {
-      "added_at": "2025-06-13 16:09:36",
-      "album": {
-        "name": "Made For This",
-        "url": "https://open.spotify.com/album/2oILhqKBizkC5tfTvh3J8T"
-      },
-      "artists": [
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        }
-      ],
-      "duration_ms": 223693,
-      "name": "Made For This",
-      "url": "https://open.spotify.com/track/7FR7CofCQiuyt75srjwhER"
     },
     {
       "added_at": "2025-06-13 16:09:36",
@@ -1507,6 +1475,22 @@
     {
       "added_at": "2025-06-13 16:09:36",
       "album": {
+        "name": "Made For This",
+        "url": "https://open.spotify.com/album/2oILhqKBizkC5tfTvh3J8T"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "duration_ms": 223693,
+      "name": "Made For This",
+      "url": "https://open.spotify.com/track/7FR7CofCQiuyt75srjwhER"
+    },
+    {
+      "added_at": "2025-06-13 16:09:36",
+      "album": {
         "name": "5AM",
         "url": "https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 187899,
       "name": "5AM",
       "url": "https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac"
+    },
+    {
+      "added_at": "2025-06-13 16:09:36",
+      "album": {
+        "name": "Backroad of My Mind",
+        "url": "https://open.spotify.com/album/1vdc23D9Hqs70BuqYXDPm0"
+      },
+      "artists": [
+        {
+          "name": "Ryan Jesse",
+          "url": "https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl"
+        }
+      ],
+      "duration_ms": 169480,
+      "name": "Backroad of My Mind",
+      "url": "https://open.spotify.com/track/0EHEhSDMITh2e89rIqnu4s"
     },
     {
       "added_at": "2025-06-13 16:09:36",
@@ -1575,18 +1575,22 @@
     {
       "added_at": "2025-06-13 16:09:36",
       "album": {
-        "name": "Trainwreck",
-        "url": "https://open.spotify.com/album/5ae3UYQnHYgWmlCJJJFCTN"
+        "name": "The Better Me",
+        "url": "https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm"
       },
       "artists": [
         {
-          "name": "Ryan Jesse",
-          "url": "https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl"
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 196736,
-      "name": "Trainwreck",
-      "url": "https://open.spotify.com/track/3O2ayZuGK2uqX8ubT2GVVW"
+      "duration_ms": 195236,
+      "name": "The Better Me",
+      "url": "https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz"
     },
     {
       "added_at": "2025-06-13 16:09:36",
@@ -1607,6 +1611,22 @@
     {
       "added_at": "2025-06-13 16:09:36",
       "album": {
+        "name": "Trainwreck",
+        "url": "https://open.spotify.com/album/5ae3UYQnHYgWmlCJJJFCTN"
+      },
+      "artists": [
+        {
+          "name": "Ryan Jesse",
+          "url": "https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl"
+        }
+      ],
+      "duration_ms": 196736,
+      "name": "Trainwreck",
+      "url": "https://open.spotify.com/track/3O2ayZuGK2uqX8ubT2GVVW"
+    },
+    {
+      "added_at": "2025-06-13 16:09:36",
+      "album": {
         "name": "Greener (with Mitchell Tenpenny)",
         "url": "https://open.spotify.com/album/2UdCM4OKs6455gkT1Gqc0f"
       },
@@ -1623,26 +1643,6 @@
       "duration_ms": 175566,
       "name": "Greener (with Mitchell Tenpenny)",
       "url": "https://open.spotify.com/track/1YhiHwFFJ73j8nMnT1CkGt"
-    },
-    {
-      "added_at": "2025-06-13 16:09:36",
-      "album": {
-        "name": "The Better Me",
-        "url": "https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 195236,
-      "name": "The Better Me",
-      "url": "https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz"
     },
     {
       "added_at": "2025-06-13 16:09:36",

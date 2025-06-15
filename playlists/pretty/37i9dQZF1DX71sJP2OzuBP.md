@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,766 likes - 135 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,763 likes - 135 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,7 +130,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 120 | [夢](https://open.spotify.com/track/4KKPxjnisbo94ejOFcETtk) | [Lu Han](https://open.spotify.com/artist/3fS78kAWd9dVFyaPQ363YO) | [夢](https://open.spotify.com/album/7J2t67wSy5UDFPQ36q5P2Z) | 3:02 |
 | 121 | [梦见你 \- 电影《时间之子》主题曲/片尾曲](https://open.spotify.com/track/0viccRZ2ydS60FQNnHJtTV) | [Zhou Shen](https://open.spotify.com/artist/0BezPR1Hn38i8qShQKunSD) | [梦见你 \(电影《时间之子》主题曲/片尾曲\)](https://open.spotify.com/album/0eQtA6Yo80wqptzzowJZ1I) | 4:31 |
 | 122 | [心若有风千万里](https://open.spotify.com/track/6dblPUOzeWJvreJ1HoBtJI) | [Joi Chua](https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg) | [心若有风千万里](https://open.spotify.com/album/4WnxOYxgjJurNOT3vBzhx7) | 3:33 |
-| 123 | [賓夕凡尼亞](https://open.spotify.com/track/4iRLjErREYy0hpKE10hXyz) | [午睡大熊](https://open.spotify.com/artist/2C7v6c9bAXJnPP3ijMGjcC) | [賓夕凡尼亞](https://open.spotify.com/album/5Hy2EbsK8MAQmo3GuRybPV) | 3:12 |
+| 123 | [賓夕凡尼亞](https://open.spotify.com/track/4iRLjErREYy0hpKE10hXyz) | [午睡大熊](https://open.spotify.com/artist/2C7v6c9bAXJnPP3ijMGjcC), [Ognam](https://open.spotify.com/artist/3rAhkIywGLdaIvt2TJi6Ha) | [賓夕凡尼亞](https://open.spotify.com/album/5Hy2EbsK8MAQmo3GuRybPV) | 3:12 |
 | 124 | [520](https://open.spotify.com/track/6ESk6ZLqp1gYzoBcBdPY1V) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [520](https://open.spotify.com/album/3oEJH71CqQoGcuP1Edu0mo) | 3:53 |
 | 125 | [风月局中 \(《藏海传》电视剧旖旎纯音\)](https://open.spotify.com/track/139GYZ2xkA5zkdGQKugswY) | [希林娜依•高](https://open.spotify.com/artist/2BzEJybfRAL6DxCeYW2e7G) | [风月局中 \(《藏海传》电视剧旖旎纯音\)](https://open.spotify.com/album/6aVFjhnNeQIEyppaadX3pS) | 3:35 |
 | 126 | [都是真的](https://open.spotify.com/track/03QM0KlTuTykBvepd6ZSRm) | [Norton Street 諾頓街](https://open.spotify.com/artist/1Ha6m76jqF70QoKiIavuFp) | [都是真的](https://open.spotify.com/album/5VrZowA5rxepVk2BoxBKRM) | 4:19 |

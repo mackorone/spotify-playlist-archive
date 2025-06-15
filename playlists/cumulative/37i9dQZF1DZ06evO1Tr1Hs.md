@@ -4,7 +4,7 @@
 
 > This is Ken Carson\. The essential tracks, all in one playlist.
 
-75 songs - 3 hr 8 min
+76 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [The End](https://open.spotify.com/track/5tqzMWoUJrCLESpGKROHQ3) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:15 | 2024-11-24 | 2025-04-13 |
 | [THRILL \(with Ken Carson\)](https://open.spotify.com/track/3FMKkmAXsCrJM9ZDIbQejN) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [LOVE LASTS FOREVER](https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv) | 4:12 | 2024-09-01 |  |
 | [Thx](https://open.spotify.com/track/4EJaMoBaqhbhGn4KX0vwOU) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 2:52 | 2025-04-15 |  |
+| [Tic Tac Toe \(with Ken Carson\)](https://open.spotify.com/track/0YgyE3xIbYNzYhaPPHqrXJ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:57 | 2025-06-15 |  |
 | [toxic](https://open.spotify.com/track/4c1LjGTCF8kMEikirzFgkm) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 2:45 | 2024-07-08 |  |
 | [Trap Jump](https://open.spotify.com/track/56BtPjjWiRc0ch7DH8DNu9) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 2:30 | 2025-04-13 |  |
 | [VETERAN \(feat\. Ken Carson\)](https://open.spotify.com/track/6nB8lELQBAmRXeNQivxBJ4) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [NO STYLIST](https://open.spotify.com/album/0G4XTKDAeBmdfV8pZFaYu2) | 2:56 | 2023-11-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,126 likes - 60 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,127 likes - 60 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 48 | [Estilo Vagabundo](https://open.spotify.com/track/3hn7hzXAbrOjUXN8XNwy5M) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Kmila](https://open.spotify.com/artist/4YrCOVYOuq5HqJ5LoKFEXj) | [Falcão \- O Bagulho É Doido](https://open.spotify.com/album/4YP56WByoqlCMW2AhxDMjc) | 5:00 |
 | 49 | [Para pra Pensar](https://open.spotify.com/track/3x3k5PnejMAIRjtU59BwxP) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Para pra Pensar](https://open.spotify.com/album/0FDi3B8r4Xio6ZSfgZkcRV) | 4:04 |
 | 50 | [Cake](https://open.spotify.com/track/4c98woI6F0ptrGFyK8O1m2) | [Entre Linhas](https://open.spotify.com/artist/0JGXguxnX2MUk3joFyJPjX), [Kuririn](https://open.spotify.com/artist/6R85n4akSmUKlnYZ2QnzmC), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Matuê](https://open.spotify.com/artist/6g0nBehL70Q9AW8jozS0JS), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Solo](https://open.spotify.com/album/09pLe9TmUD5UxYWiWqjBqf) | 3:37 |
-| 51 | [Umaextrapunkprumextrafunk](https://open.spotify.com/track/469zFH0iu9p9MtGAkuJG27) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 3:48 |
-| 52 | [É o Moio](https://open.spotify.com/track/6gTqJukT2CudOlBIHQsipW) | [Pentagono](https://open.spotify.com/artist/3lhhkRFNyUUA1US4BuMQsB), [Uterço](https://open.spotify.com/artist/2ygKolq01W8yZgE5PqwERm) | [Natural](https://open.spotify.com/album/6Q2eI8igMSdvCHsyz9rkJ4) | 4:06 |
+| 51 | [É o Moio](https://open.spotify.com/track/6gTqJukT2CudOlBIHQsipW) | [Pentagono](https://open.spotify.com/artist/3lhhkRFNyUUA1US4BuMQsB), [Uterço](https://open.spotify.com/artist/2ygKolq01W8yZgE5PqwERm) | [Natural](https://open.spotify.com/album/6Q2eI8igMSdvCHsyz9rkJ4) | 4:06 |
+| 52 | [Umaextrapunkprumextrafunk](https://open.spotify.com/track/469zFH0iu9p9MtGAkuJG27) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 3:48 |
 | 53 | [Eu Tiro É Onda \- Remix](https://open.spotify.com/track/7rY8HdRaxTUcJIP5ZV3Y5A) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Eu Tiro É Onda \(Remix\)](https://open.spotify.com/album/46mzP0WCiw6q1zbd31AWoa) | 2:54 |
 | 54 | [Lágrimas do Palhaço](https://open.spotify.com/track/78qdx0sVnBYTGAKqnLHxcp) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | ["...Entre..."](https://open.spotify.com/album/4BXTL3vb3tzS05aLTRiosX) | 3:54 |
 | 55 | [Nipsey do Azul](https://open.spotify.com/track/7oOZ6CmKSUUgTtVIYPJiNk) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [MC Flavinho](https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM), [DJ Decco](https://open.spotify.com/artist/4csPpIaHzl4d8yO5obNcm0) | [Êxito](https://open.spotify.com/album/3d19qMiZoSQHsgKshBpyuf) | 3:24 |

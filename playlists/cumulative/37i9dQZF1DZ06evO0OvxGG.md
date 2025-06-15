@@ -4,7 +4,7 @@
 
 > This is Slipmami\. The essential tracks, all in one playlist.
 
-57 songs - 2 hr 31 min
+58 songs - 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Malvatrem](https://open.spotify.com/track/6wsR1Hk6yshbjO3Wi7M1GJ) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Dorly](https://open.spotify.com/artist/1mAJkqf6ZX7Tm1WCTwRuI2), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem](https://open.spotify.com/album/1ZPKYFpymZKgLc0T0Z9WDL) | 1:49 | 2023-12-30 | 2024-04-06 |
 | [me dá dinheiro ou me faz gozar](https://open.spotify.com/track/2jTzEkoOmhRWG8DWUMQ7de) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [me dá dinheiro ou me faz gozar](https://open.spotify.com/album/0ICuS46DawFjbPKYXZE1Gp) | 2:00 | 2025-05-14 |  |
 | [me dá dinheiro ou me faz gozar](https://open.spotify.com/track/6dX7MYD8SXum7KFgcfdxdT) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [me dá dinheiro ou me faz gozar](https://open.spotify.com/album/6inLM6jekV3HXn8IW3AYWS) | 2:00 | 2023-12-30 | 2025-05-14 |
+| [MERCÚRIO EM CÂNCER](https://open.spotify.com/track/4lhWuWc0vE38yKUVEqLEwt) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp) | [MERCÚRIO EM CÂNCER](https://open.spotify.com/album/5APa6S6BAhmFTy7fP2lZGp) | 2:58 | 2025-06-15 |  |
 | [Mete Ficha](https://open.spotify.com/track/5qrjKcKr5Xgxw5dIVSrcZL) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Dr\. Ace](https://open.spotify.com/artist/1ViYB3Neu32Mi6vBZFjl1d) | [Malvatrem](https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh) | 2:01 | 2024-04-06 |  |
 | [Mete Ficha](https://open.spotify.com/track/7aGtqxie1CFQQMFe6vCKNt) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Dr\. Ace](https://open.spotify.com/artist/52dSNopLwNvZtlrQ0TUAh7) | [Malvatrem](https://open.spotify.com/album/1ZPKYFpymZKgLc0T0Z9WDL) | 2:01 | 2023-12-30 | 2024-04-06 |
 | [Mizuno ;7](https://open.spotify.com/track/28ADTthzHzF8xSiGhOreFj) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [1berto](https://open.spotify.com/artist/0yHRY5xBM1KF0DbtXRY9DV) | [SENSITIVO ;7](https://open.spotify.com/album/5Lk1RcTvugXvIinZpFMLJl) | 4:18 | 2023-12-30 | 2024-09-15 |

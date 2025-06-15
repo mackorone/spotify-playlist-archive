@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,702 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,751 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 22 | [Joro](https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Joro](https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh) | 4:22 |
 | 23 | [Link Up \(Metro Boomin & Don Toliver, Wizkid feat\. BEAM & Toian\) \- Spider\-Verse Remix \(Spider\-Man: Across the Spider\-Verse \)](https://open.spotify.com/track/0y8Pu7x5jXgUjOIJvQIF5L) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Toian](https://open.spotify.com/artist/5sBdzqT2jx5jacEUcBn6X1) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 3:15 |
 | 24 | [Come Closer \(feat\. Drake\)](https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Sounds From The Other Side](https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P) | 3:31 |
-| 25 | [Troubled Mind](https://open.spotify.com/track/6yIEi8mvrYSi2IgPhQ5Ym9) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 3:02 |
+| 25 | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/7Ijsqi4y74qZB04PaxnYBq) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 4:19 |
 | 26 | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q) | 3:33 |
 | 27 | [Diamonds](https://open.spotify.com/track/0UEct6UTSjqEex8AHOUf5z) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 2:29 |
 | 28 | [KANA](https://open.spotify.com/track/3uTe5oVxtAO1cnsJm4uFCJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [KANA](https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 49 | [Glow In The Dark](https://open.spotify.com/track/0kmxWw7KjktV4V1ZpbOeru) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Lay\-Z](https://open.spotify.com/artist/0wjb0t7aYMuIwyuXnPOilh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ignorance is Bliss](https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec) | 2:55 |
 | 50 | [This Kind Luv](https://open.spotify.com/track/2UrxkIScshPyPlgRpy57Fm) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:49 |
 
-Snapshot ID: `aEoYgAAAAAA/g9DHryu65493m8MiWbgc`
+Snapshot ID: `aEtqAAAAAAD0Pmr3GDdUMbz6Xx9iUYZ5`

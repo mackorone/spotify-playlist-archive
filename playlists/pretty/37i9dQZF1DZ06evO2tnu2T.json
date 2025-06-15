@@ -1,13 +1,29 @@
 {
   "description": "This is Absolutely. The essential tracks, all in one playlist.",
-  "num_followers": 131,
+  "num_followers": 153,
   "original_name": "This Is Absolutely",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAABgW4+YXpEd4RtN4D8cilKo",
+  "snapshot_id": "aEtqAAAAAABJxFD1U03ks4Jm6h11jeid",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Goodbye Glitter",
+        "url": "https://open.spotify.com/album/0HlOCXeTk8T2gBUfexLOii"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 234698,
+      "name": "Goodbye Glitter",
+      "url": "https://open.spotify.com/track/4y9dYCCC1oZ6s0OIKWoXqK"
+    },
     {
       "added_at": null,
       "album": {
@@ -112,9 +128,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 143640,
-      "name": "Window",
-      "url": "https://open.spotify.com/track/4tyFeHplcXUlAFhb6y28AT"
+      "duration_ms": 185638,
+      "name": "Arrivals",
+      "url": "https://open.spotify.com/track/3s7j6rr4X9PcSRl6i0qtUb"
     },
     {
       "added_at": null,
@@ -188,9 +204,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 185638,
-      "name": "Arrivals",
-      "url": "https://open.spotify.com/track/3s7j6rr4X9PcSRl6i0qtUb"
+      "duration_ms": 143640,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/4tyFeHplcXUlAFhb6y28AT"
     },
     {
       "added_at": null,

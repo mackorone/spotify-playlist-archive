@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 
 > Fue durante los '70 que el Rock se manifestó como un gigante a nivel mundial\. Argentina no fue la excepción\.  Foto: <a href="spotify:artist:10vtHOCA3qPLmrGylgO2F1">Manal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,252 likes - 55 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,254 likes - 55 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 17 | [Necesito](https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Vida](https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM) | 2:13 |
 | 18 | [Viento, Dile a la Lluvia](https://open.spotify.com/track/5Qz4D3NixycveVWlTgksDn) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Viento Dile a la Lluvia](https://open.spotify.com/album/2z1Mp2nXoOHfcI3biDXS8h) | 2:49 |
 | 19 | [Maribel Se Durmió](https://open.spotify.com/track/5BaqCOW8FaahrXIRIvU6Ad) | [Spinetta Jade](https://open.spotify.com/artist/3WxVICwFDAWMTWH8sELmRe) | [Bajo Belgrano](https://open.spotify.com/album/3pFMaPwaHb6D0EkMtRlaO9) | 2:35 |
-| 20 | [Casa Con Diez Pinos](https://open.spotify.com/track/2Ras7UcXvzenVmkyVMibdh) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 4:14 |
+| 20 | [Amor de Primavera](https://open.spotify.com/track/1bvQiT1IglZ3QKIpEHgKeC) | [Tango](https://open.spotify.com/artist/7CSiyutcNoggAxGRxymDHM) | [Tango](https://open.spotify.com/album/1p9tykpcBRGa6lHjviOn9x) | 3:31 |
 | 21 | [Cantata de Puentes Amarillos](https://open.spotify.com/track/7BCQ7bfdNpCdLmlvEGUfSG) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Artaud](https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA) | 9:07 |
-| 22 | [Amor de Primavera](https://open.spotify.com/track/1bvQiT1IglZ3QKIpEHgKeC) | [Tango](https://open.spotify.com/artist/7CSiyutcNoggAxGRxymDHM) | [Tango](https://open.spotify.com/album/1p9tykpcBRGa6lHjviOn9x) | 3:31 |
+| 22 | [Casa Con Diez Pinos](https://open.spotify.com/track/2Ras7UcXvzenVmkyVMibdh) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 4:14 |
 | 23 | [El Momento En Que Estás](https://open.spotify.com/track/45X4LNePuohdGmuLxpf6oO) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [Cuero Caliente](https://open.spotify.com/album/4mM0WL1bhWu1AUggznW2tN) | 3:42 |
 | 24 | [En El Hospicio](https://open.spotify.com/track/21ywJkUEm6UqevAYE8gTXB) | [Pastoral](https://open.spotify.com/artist/3budmcJD4fTyytFVDp5lud) | [El Album](https://open.spotify.com/album/5kt3IW5sMQZSqknVBh1UOC) | 3:40 |
 | 25 | [El Oso](https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB) | [Moris](https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5) | [Treinta Minutos de Vida](https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT) | 2:54 |
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 33 | [A Dieciocho Minutos del Sol](https://open.spotify.com/track/7ze8PcVXJzcAfCQ0Etjp6v) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [A 18' Del Sol](https://open.spotify.com/album/1uZafurVG5V3TZDqEnVmeR) | 5:31 |
 | 34 | [Más Fuerte Que El Hombre](https://open.spotify.com/track/0kCvymt8ka2hQqecsJDC4h) | [El Reloj](https://open.spotify.com/artist/4qZeDZdBD3NiWVbkwX2Lpx) | [El Reloj](https://open.spotify.com/album/3xIkQ0YsEyRvjEY1a8KdXc) | 3:09 |
 | 35 | [Todo Tiempo Posible](https://open.spotify.com/track/0aF2ape2b7Tzgo1GLs9re3) | [Crucis](https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g) | [Crucis](https://open.spotify.com/album/7q4FDjboZh9zLPRqIxdWng) | 4:06 |
-| 36 | [Violencia En El Parque](https://open.spotify.com/track/79Endo4IymZMWDQ0wk116S) | [Aquelarre](https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc) | [Otras Pistas](https://open.spotify.com/album/4vNaQkW0hQORx5gVi0WFJV) | 5:22 |
+| 36 | [Oye Dios Que Me Has Dado](https://open.spotify.com/track/7xfYEIvk2qRxODCefqdOuR) | [Polifemo](https://open.spotify.com/artist/5kt7SkycNsq8vbKoFb3QxO) | [Serie De Oro](https://open.spotify.com/album/0K5znMCZ80jQtl2zqMCoyE) | 3:49 |
 | 37 | [Mi Cuarto](https://open.spotify.com/track/1eD4rXi4Orx0b3k5an1LBL) | [Vivencia](https://open.spotify.com/artist/65IXQZtLc1OfW8H9YxRFwY) | [Mi Cuarto](https://open.spotify.com/album/5bvtHEGG4MGEGkGTFw1lv6) | 3:35 |
-| 38 | [Oye Dios Que Me Has Dado](https://open.spotify.com/track/7xfYEIvk2qRxODCefqdOuR) | [Polifemo](https://open.spotify.com/artist/5kt7SkycNsq8vbKoFb3QxO) | [Serie De Oro](https://open.spotify.com/album/0K5znMCZ80jQtl2zqMCoyE) | 3:49 |
+| 38 | [Violencia En El Parque](https://open.spotify.com/track/79Endo4IymZMWDQ0wk116S) | [Aquelarre](https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc) | [Otras Pistas](https://open.spotify.com/album/4vNaQkW0hQORx5gVi0WFJV) | 5:22 |
 | 39 | [Ana No Duerme](https://open.spotify.com/track/4ev0iQn9HTKQHxcSDxklhu) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 2:46 |
 | 40 | [Vamos A Buscar La Luz \- Remastered Version](https://open.spotify.com/track/7eVl8VDo6nzNvZbzkW2kc2) | [Aeroblus](https://open.spotify.com/artist/0oIxiHRBpqq0VJe3wOY8Qr) | [Aeroblus](https://open.spotify.com/album/5rapG1i2HxcbyOwtUTnKHe) | 3:53 |
-| 41 | [Hoy Te Queremos Cantar](https://open.spotify.com/track/6O036ngVof8dIfCILsJkVv) | [Alma Y Vida](https://open.spotify.com/artist/6Qv7PzO62iPNtE9jNTPGDG) | [Alma y Vida, Vol\. 2](https://open.spotify.com/album/7MHEzCpcFrBeVBaqzM6cSl) | 2:45 |
-| 42 | [Los Delirios del Mariscal](https://open.spotify.com/track/56vhyP9UvLtGYUbeBBxqke) | [Crucis](https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g) | [Los Delirios del Mariscal](https://open.spotify.com/album/1IQKV1zaM2GihjCXjZTdeJ) | 10:03 |
-| 43 | [Sueltate Rock And Roll](https://open.spotify.com/track/1HbLdtZvbp8JRVAJhlktfK) | [Polifemo](https://open.spotify.com/artist/5kt7SkycNsq8vbKoFb3QxO) | [Serie De Oro](https://open.spotify.com/album/0K5znMCZ80jQtl2zqMCoyE) | 3:33 |
+| 41 | [Sueltate Rock And Roll](https://open.spotify.com/track/1HbLdtZvbp8JRVAJhlktfK) | [Polifemo](https://open.spotify.com/artist/5kt7SkycNsq8vbKoFb3QxO) | [Serie De Oro](https://open.spotify.com/album/0K5znMCZ80jQtl2zqMCoyE) | 3:33 |
+| 42 | [Hoy Te Queremos Cantar](https://open.spotify.com/track/6O036ngVof8dIfCILsJkVv) | [Alma Y Vida](https://open.spotify.com/artist/6Qv7PzO62iPNtE9jNTPGDG) | [Alma y Vida, Vol\. 2](https://open.spotify.com/album/7MHEzCpcFrBeVBaqzM6cSl) | 2:45 |
+| 43 | [Los Delirios del Mariscal](https://open.spotify.com/track/56vhyP9UvLtGYUbeBBxqke) | [Crucis](https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g) | [Los Delirios del Mariscal](https://open.spotify.com/album/1IQKV1zaM2GihjCXjZTdeJ) | 10:03 |
 | 44 | [Blues de Dana](https://open.spotify.com/track/32Du6z7oXiowmiZCPpnLj5) | [Arco Iris](https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW) | [Arco Iris \- Cronología I](https://open.spotify.com/album/1vNUHRvUEXMmcjAzFW4b5m) | 5:47 |
 | 45 | [Tema Solísimo](https://open.spotify.com/track/4UGWzrBtHDDqyPGi2RjrLL) | [Aeroblus](https://open.spotify.com/artist/0oIxiHRBpqq0VJe3wOY8Qr) | [Aeroblus](https://open.spotify.com/album/5rapG1i2HxcbyOwtUTnKHe) | 2:06 |
 | 46 | [Figuración](https://open.spotify.com/track/2ZXPZV2w9KSEH6YXJQwFBP) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 3:32 |

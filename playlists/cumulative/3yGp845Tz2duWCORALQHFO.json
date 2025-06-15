@@ -1043,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "Somedays are pure noise",
+        "url": "https://open.spotify.com/album/4UoEqo3NXRmXrZwGSNzts5"
+      },
+      "artists": [
+        {
+          "name": "Aftr Mrkt",
+          "url": "https://open.spotify.com/artist/2ZJlZ4tvsIwbzebyJoMOOC"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208615,
+      "name": "A$$",
+      "url": "https://open.spotify.com/track/5mKea9w9hGq8iwk6eyZjKX"
+    },
+    {
+      "album": {
         "name": "About To Lose It",
         "url": "https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY"
       },
@@ -16110,6 +16128,24 @@
       "duration_ms": 153000,
       "name": "Electric",
       "url": "https://open.spotify.com/track/3AOg8WUD0UmlDZpHMuMCOZ"
+    },
+    {
+      "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/1IFuN3j0nwVD4GCn2eUH2Q"
+      },
+      "artists": [
+        {
+          "name": "Harryson",
+          "url": "https://open.spotify.com/artist/1mOJGwKwSgGlFp7Kl6vCIS"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202031,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/6cdq0ZPAGtj3nkbxlZU3gf"
     },
     {
       "album": {

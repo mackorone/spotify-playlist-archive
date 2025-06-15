@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 246533,
+  "num_followers": 246610,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAACMyu63u7VVsVQ2snjjXnTi",
+  "snapshot_id": "aEtqAAAAAAAiAeDwHlZKfvIo2FORS6e1",
   "tracks": [
     {
       "added_at": null,
@@ -703,18 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
+        "name": "No Pienses Que Me Fui",
+        "url": "https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG"
       },
       "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 214545,
-      "name": "Te Hice Llorar",
-      "url": "https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP"
+      "duration_ms": 150186,
+      "name": "No Pienses Que Me Fui",
+      "url": "https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM"
     },
     {
       "added_at": null,
@@ -739,26 +743,6 @@
       "duration_ms": 313500,
       "name": "D\u00e9jame en Paz",
       "url": "https://open.spotify.com/track/7y16XmtzjTGe8QxTmExwSX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Pienses Que Me Fui",
-        "url": "https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 150186,
-      "name": "No Pienses Que Me Fui",
-      "url": "https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM"
     },
     {
       "added_at": null,
@@ -790,15 +774,11 @@
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 213773,
-      "name": "Camina Sola",
-      "url": "https://open.spotify.com/track/1wmcdpR6xizYnjgw0lC3tv"
+      "duration_ms": 214545,
+      "name": "Te Hice Llorar",
+      "url": "https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP"
     },
     {
       "added_at": null,
@@ -859,6 +839,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 213773,
+      "name": "Camina Sola",
+      "url": "https://open.spotify.com/track/1wmcdpR6xizYnjgw0lC3tv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como T\u00fa Ninguna",
         "url": "https://open.spotify.com/album/30nUAI8wWDgNjyOfHPJpRn"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 236756,
       "name": "Como T\u00fa Ninguna",
       "url": "https://open.spotify.com/track/2a3WucROZGobQgS2LvZph5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duelo",
+        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 133953,
+      "name": "El D\u00eda Que Te Duela",
+      "url": "https://open.spotify.com/track/1YwgKoqzARPFZuOPlvFEhL"
     },
     {
       "added_at": null,
@@ -899,22 +915,6 @@
       "duration_ms": 219200,
       "name": "Desde el Fondo",
       "url": "https://open.spotify.com/track/0j8q4omzZCCL62GsxixOCO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Duelo",
-        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 133953,
-      "name": "El D\u00eda Que Te Duela",
-      "url": "https://open.spotify.com/track/1YwgKoqzARPFZuOPlvFEhL"
     },
     {
       "added_at": null,
@@ -959,22 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Bolero",
-        "url": "https://open.spotify.com/album/5XDYqdmYZykDK3uFHF9Mz3"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 194495,
-      "name": "Como Bolero",
-      "url": "https://open.spotify.com/track/5sBFBv0WHFp6n7IkHPZjMM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duelo",
         "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 160826,
       "name": "Me Da\u00f1as Por Deporte",
       "url": "https://open.spotify.com/track/4uSVVolWZ9VtprCYJSgVmG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Bolero",
+        "url": "https://open.spotify.com/album/5XDYqdmYZykDK3uFHF9Mz3"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 194495,
+      "name": "Como Bolero",
+      "url": "https://open.spotify.com/track/5sBFBv0WHFp6n7IkHPZjMM"
     }
   ],
   "unique_name": "This Is Nanpa B\u00e1sico",

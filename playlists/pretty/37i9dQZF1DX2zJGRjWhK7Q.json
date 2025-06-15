@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 221223,
+  "num_followers": 221342,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,26 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/1mJroViGaNhgmckqDiIfBU"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Willie Colon Y Ruben Blades",
+          "url": "https://open.spotify.com/artist/3j2xUU9GSvJLBKhp7maKaO"
+        }
+      ],
+      "duration_ms": 443480,
+      "name": "Pedro Navaja",
+      "url": "https://open.spotify.com/track/09PGyODYYlVsL49N7TR914"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
         "name": "De Ti Depende",
         "url": "https://open.spotify.com/album/79ww1pmfO8Y9fvZeSlSHFy"
       },
@@ -159,26 +179,6 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/1mJroViGaNhgmckqDiIfBU"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        },
-        {
-          "name": "Willie Colon Y Ruben Blades",
-          "url": "https://open.spotify.com/artist/3j2xUU9GSvJLBKhp7maKaO"
-        }
-      ],
-      "duration_ms": 443480,
-      "name": "Pedro Navaja",
-      "url": "https://open.spotify.com/track/09PGyODYYlVsL49N7TR914"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
         "name": "Aqui Esta el Reencuentro",
         "url": "https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld"
       },
@@ -199,6 +199,22 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
+        "name": "Fuego En El 23",
+        "url": "https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f"
+      },
+      "artists": [
+        {
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+        }
+      ],
+      "duration_ms": 284653,
+      "name": "Fuego En El 23",
+      "url": "https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
         "name": "Vamonos Pal' Monte",
         "url": "https://open.spotify.com/album/5H4Hl0KVngkCy1h6Z7jrYM"
       },
@@ -215,22 +231,18 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/4886ILGnNYIFzsgxC6JFLJ"
+        "name": "Hector Lavoe El Cantante -The Originals",
+        "url": "https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4"
       },
       "artists": [
         {
           "name": "H\u00e9ctor Lavoe",
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 370640,
-      "name": "Triste Y Vac\u00eda",
-      "url": "https://open.spotify.com/track/53GPxPUQjOBFIU4SEbQ1ze"
+      "duration_ms": 327360,
+      "name": "El Dia De Suerte",
+      "url": "https://open.spotify.com/track/0Az3jAeIEImuTugUp33ajY"
     },
     {
       "added_at": "2024-09-24 20:30:16",
@@ -287,38 +299,6 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "Fuego En El 23",
-        "url": "https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f"
-      },
-      "artists": [
-        {
-          "name": "Sonora Ponce\u00f1a",
-          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
-        }
-      ],
-      "duration_ms": 284653,
-      "name": "Fuego En El 23",
-      "url": "https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
-        "name": "Hector Lavoe El Cantante -The Originals",
-        "url": "https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 327360,
-      "name": "El Dia De Suerte",
-      "url": "https://open.spotify.com/track/0Az3jAeIEImuTugUp33ajY"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
         "name": "El Sonero Mayor",
         "url": "https://open.spotify.com/album/2lV3Tmgb4lIv6CbVJKJmjZ"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 183626,
       "name": "El Negro Bembon",
       "url": "https://open.spotify.com/track/1xVSHCVq7yfjl3txyq9dsw"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/4886ILGnNYIFzsgxC6JFLJ"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 370640,
+      "name": "Triste Y Vac\u00eda",
+      "url": "https://open.spotify.com/track/53GPxPUQjOBFIU4SEbQ1ze"
     },
     {
       "added_at": "2024-09-24 20:30:16",

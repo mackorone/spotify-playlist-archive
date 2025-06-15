@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,071 likes - 44 songs - 2 hr 37 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,073 likes - 48 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,5 +52,9 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 42 | [Yo Chavez](https://open.spotify.com/track/7bufLy1mTp5ckluqJdDptX) | [Yussef Kamaal](https://open.spotify.com/artist/710FHFQeXKC6dZGCxt7kQh) | [Black Focus](https://open.spotify.com/album/6pDAh84nyNU7x3xje9G03I) | 3:59 |
 | 43 | [Ma mère l'Oye, M\. 60: III\. Laideronnette, impératrice des pagodes \- Mouvement de Marche](https://open.spotify.com/track/2lHztmZYCiWdhReHnRnmYN) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Louis Lortie](https://open.spotify.com/artist/2uLLmndNOXyB4XqMH3auYK), [Hélène Mercier](https://open.spotify.com/artist/2bjMZJv3PurMW5EIbn5t2T) | [Ravel: Piano Music For 4 Hands](https://open.spotify.com/album/5L2fRGuiRXNj195pPZdX4P) | 3:07 |
 | 44 | [It's A Grand Night For Swinging](https://open.spotify.com/track/5yDCIkowVpSagtZ3sxgpX7) | [Rahsaan Roland Kirk](https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV) | [Now Please Don't You Cry, Beautiful Edith](https://open.spotify.com/album/6slc6K1xjI49vqZL0dnXMp) | 3:09 |
+| 45 | [Warm Canto](https://open.spotify.com/track/24US80Wtwk4KmaqktZW8VZ) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3), [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp), [Booker Ervin](https://open.spotify.com/artist/3ZppcUE7tHnE6SzUR4ipSy) | [The Quest](https://open.spotify.com/album/7AFeyZd2N1i4LTzIZ2V8u1) | 5:40 |
+| 46 | [Wild Goose Chase](https://open.spotify.com/track/6gRn4Cs6bJeo0RP7XXxn95) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF) | 3:06 |
+| 47 | [Can U Read Me?](https://open.spotify.com/track/5VQctXg4C2R2bEiIxjEeeS) | [Nite\-Funk](https://open.spotify.com/artist/2qpbJXtYrpwyNwgXM3MRsn) | [Believer / Can U Read Me?](https://open.spotify.com/album/4l8FsRiQpbxROp8cQEDPil) | 3:35 |
+| 48 | [Single](https://open.spotify.com/track/3ApFIzLLV6Gkgu6zWh9dcn) | [Brittason](https://open.spotify.com/artist/0yoG2QCHyddnk7H4UB06iX) | [Single](https://open.spotify.com/album/4bw8kjkCJtpx1YGNpaj16q) | 1:30 |
 
-Snapshot ID: `AAAMj7YTqENJFe8KOfASgdhsjSeC/7yn`
+Snapshot ID: `AAAMk/sXFV12+iR31wrG1ciKrw1K2+ql`

@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 1048128,
+  "num_followers": 1048421,
   "original_name": "Energy Booster: Pop",
   "owner": {
     "name": "Spotify",
@@ -447,34 +447,18 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
         }
       ],
-      "duration_ms": 238886,
-      "name": "How Bad Do U Want Me",
-      "url": "https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
-        "name": "DNCE",
-        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
-      },
-      "artists": [
-        {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
-        }
-      ],
-      "duration_ms": 219146,
-      "name": "Cake By The Ocean",
-      "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
+      "duration_ms": 129882,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -495,6 +479,22 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
+        "name": "DNCE",
+        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
+      },
+      "artists": [
+        {
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+        }
+      ],
+      "duration_ms": 219146,
+      "name": "Cake By The Ocean",
+      "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
       },
@@ -511,18 +511,18 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
       "artists": [
         {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 129882,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
+      "duration_ms": 238886,
+      "name": "How Bad Do U Want Me",
+      "url": "https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 255093,
-      "name": "Hey Brother",
-      "url": "https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
         "name": "Con Calma",
         "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 193226,
       "name": "Con Calma",
       "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 255093,
+      "name": "Hey Brother",
+      "url": "https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "Tribute",
-        "url": "https://open.spotify.com/album/2Bgfdyrywv3KEe0WwZdb0V"
-      },
-      "artists": [
-        {
-          "name": "John Newman",
-          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
-        }
-      ],
-      "duration_ms": 239894,
-      "name": "Love Me Again",
-      "url": "https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
         "name": "Confessions on a Dance Floor",
         "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 337733,
       "name": "Hung Up",
       "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
+        "name": "Tribute",
+        "url": "https://open.spotify.com/album/2Bgfdyrywv3KEe0WwZdb0V"
+      },
+      "artists": [
+        {
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+        }
+      ],
+      "duration_ms": 239894,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/5TbzAWWc5eJaANpA9kfGCd"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
+        "name": "Funhouse (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
         "name": "My Everything (Deluxe)",
         "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
       },
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "Funhouse (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
         "name": "One Of The Boys",
         "url": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ"
       },
@@ -1103,26 +1103,6 @@
       "duration_ms": 220226,
       "name": "Hot N Cold",
       "url": "https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 196613,
-      "name": "Perfect Strangers",
-      "url": "https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -1143,6 +1123,26 @@
       "duration_ms": 214480,
       "name": "Work from Home (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 196613,
+      "name": "Perfect Strangers",
+      "url": "https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "Raise Your Glass",
-        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "Raise Your Glass",
-      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 222400,
       "name": "Paper Rings",
       "url": "https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
+        "name": "Raise Your Glass",
+        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "Raise Your Glass",
+      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "Talk That Talk",
-        "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 242680,
-      "name": "Where Have You Been",
-      "url": "https://open.spotify.com/track/5WQQIDU3HRaMyPkob8mpFb"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/33YSJfsBkjN3yqcq18bdRi"
       },
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 242680,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/5WQQIDU3HRaMyPkob8mpFb"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
         "name": "My Way",
         "url": "https://open.spotify.com/album/0dzeoQhVNzKkwM5ieOJC54"
       },
@@ -1295,22 +1295,6 @@
       "duration_ms": 219159,
       "name": "My Way",
       "url": "https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 193829,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -1347,6 +1331,22 @@
       "duration_ms": 202613,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 193829,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
-    },
-    {
-      "added_at": "2025-05-27 13:50:42",
-      "album": {
         "name": "Chromatica",
         "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 182200,
       "name": "Rain On Me (with Ariana Grande)",
       "url": "https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9"
+    },
+    {
+      "added_at": "2025-05-27 13:50:42",
+      "album": {
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -1679,22 +1679,22 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "Solo (feat. Demi Lovato)",
-        "url": "https://open.spotify.com/album/1q7a5wZeti0neU2jDn8Dz3"
+        "name": "Shock Value II",
+        "url": "https://open.spotify.com/album/5FK6borHO8QcztXhXCPn5H"
       },
       "artists": [
         {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
         },
         {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 222653,
-      "name": "Solo (feat. Demi Lovato)",
-      "url": "https://open.spotify.com/track/6kPJZM97LwdG9QIsT7khp6"
+      "duration_ms": 292706,
+      "name": "If We Ever Meet Again (Featuring Katy Perry)",
+      "url": "https://open.spotify.com/track/360UM2DaiHZPRu0EsrOvMp"
     },
     {
       "added_at": "2025-05-27 13:50:42",
@@ -1715,22 +1715,22 @@
     {
       "added_at": "2025-05-27 13:50:42",
       "album": {
-        "name": "Shock Value II",
-        "url": "https://open.spotify.com/album/5FK6borHO8QcztXhXCPn5H"
+        "name": "Solo (feat. Demi Lovato)",
+        "url": "https://open.spotify.com/album/1q7a5wZeti0neU2jDn8Dz3"
       },
       "artists": [
         {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
         },
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 292706,
-      "name": "If We Ever Meet Again (Featuring Katy Perry)",
-      "url": "https://open.spotify.com/track/360UM2DaiHZPRu0EsrOvMp"
+      "duration_ms": 222653,
+      "name": "Solo (feat. Demi Lovato)",
+      "url": "https://open.spotify.com/track/6kPJZM97LwdG9QIsT7khp6"
     },
     {
       "added_at": "2025-05-27 13:50:42",

@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Jackson Wang, Galantis, MK",
-  "num_followers": 47254,
+  "num_followers": 47252,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAIBVICUt+Z7U04AXhLze075QAohFFE",
+  "snapshot_id": "AAAIBtvCs9iCOaOVj46gR3ccyqOXzFxL",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -1613,6 +1613,26 @@
       "url": "https://open.spotify.com/track/0WieTfhf6N0alEhBpSiOtd"
     },
     {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "Easier (feat. LOWES) [Radio Edit]",
+        "url": "https://open.spotify.com/album/1OsuxoklYDFBNDtGXcFQui"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "LOWES",
+          "url": "https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g"
+        }
+      ],
+      "duration_ms": 214687,
+      "name": "Easier (feat. LOWES) - Radio Edit",
+      "url": "https://open.spotify.com/track/133YafRPaKLYCR28FSbN4M"
+    },
+    {
       "added_at": "2025-05-09 00:41:05",
       "album": {
         "name": "Comes Down",
@@ -1651,26 +1671,6 @@
       "duration_ms": 141951,
       "name": "Comes Down",
       "url": "https://open.spotify.com/track/2pHphXOJZdc6NWgenTkaXd"
-    },
-    {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
-        "name": "Easier (feat. LOWES) [Radio Edit]",
-        "url": "https://open.spotify.com/album/1OsuxoklYDFBNDtGXcFQui"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "LOWES",
-          "url": "https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g"
-        }
-      ],
-      "duration_ms": 214687,
-      "name": "Easier (feat. LOWES) - Radio Edit",
-      "url": "https://open.spotify.com/track/133YafRPaKLYCR28FSbN4M"
     },
     {
       "added_at": "2024-07-26 00:41:03",

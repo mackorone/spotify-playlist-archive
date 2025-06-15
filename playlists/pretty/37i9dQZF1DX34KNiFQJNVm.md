@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Grelo, Orochi, Luedji Luna e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,103,203 likes - 91 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,103,574 likes - 91 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 59 | [Top 1 \- Ao Vivo](https://open.spotify.com/track/16tdvAFC5F2D3Uv6RFzzdO) | [Renno](https://open.spotify.com/artist/3yWtLbJMXNarBl4CQRA1go), [Manim Vaqueiro](https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt) | [Top 1 \(Ao Vivo\)](https://open.spotify.com/album/3D8osRozQ0pPrS8GcZAWGj) | 2:51 |
 | 60 | [Sentando \(So Sick\)](https://open.spotify.com/track/0fhSPl8JmPMCFH3TIoPdtx) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe) | [Sentando \(So Sick\)](https://open.spotify.com/album/7I1CvhXZnDb5fcyTxNHDbP) | 2:46 |
 | 61 | [O Passado](https://open.spotify.com/track/4HK5rKBrzobcZ7PwgNKdn9) | [Seresta do Rasta](https://open.spotify.com/artist/76dRnYNyHy7h4hYQXyd2Oj) | [Luau do Rasta](https://open.spotify.com/album/3Q5lrGba47EOIPxDg0K8ug) | 3:07 |
-| 62 | [Do São João pra Vida \- Ao Vivo](https://open.spotify.com/track/0J7lY6yJacFaoY8UzM4rky) | [Juarez](https://open.spotify.com/artist/3cRalLtHPXkW7pm6N3DazS) | [Do São João pra Vida \(Ao Vivo\)](https://open.spotify.com/album/1QECJkPY8jl60LdqU2jWTf) | 2:30 |
+| 62 | [Do São João pra Vida](https://open.spotify.com/track/0J7lY6yJacFaoY8UzM4rky) | [Juarez](https://open.spotify.com/artist/3cRalLtHPXkW7pm6N3DazS) | [Do São João pra Vida](https://open.spotify.com/album/1QECJkPY8jl60LdqU2jWTf) | 2:30 |
 | 63 | [Quero uma Mulher da Vida](https://open.spotify.com/track/2bqRohlpbln3ccooWEfB5L) | [Silfarley o Rei da Seresta](https://open.spotify.com/artist/1VBoKHRz3tFd4H5abiCECH) | [Quero uma Mulher da Vida](https://open.spotify.com/album/70PweSB7Od69KCIhLe0l15) | 2:46 |
 | 64 | [Perfeição](https://open.spotify.com/track/7xQMvUikHg1I8AJERR2rFq) | [Paula Guilherme](https://open.spotify.com/artist/1FDT0PZnOcCFOEClMFLLsS), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Dj Chulo](https://open.spotify.com/artist/3BghITG6VZEovGthLlG3ji) | [Perfeição](https://open.spotify.com/album/7BEHgG47JsmfVf5WuV2Oy9) | 2:47 |
 | 65 | [Deixar](https://open.spotify.com/track/4dTzcw2ajjxSde0XFMoxXE) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R), [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Mostrando Os Dentes](https://open.spotify.com/album/5c0oHJioFpM2zSSJCvjay8) | 2:31 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 90 | [Passo de Avarandar](https://open.spotify.com/track/2iOsmwztOjHeeOVsQLy4Hu) | [Wado](https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo), [Priscila Tossan](https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA), [Janu](https://open.spotify.com/artist/3bQFCFtlZox4Re0AuoFSXk) | [Passo de Avarandar](https://open.spotify.com/album/3vVyPFzoOchyQpCyys1Enw) | 2:34 |
 | 91 | [Dores no Varal](https://open.spotify.com/track/14ZW8MpLMLUesmP4jjZp83) | [Papisa](https://open.spotify.com/artist/0DvW5foWWFUfe8xHEtPtNE) | [Amor Delírio](https://open.spotify.com/album/1mWo6oWDpsphS9RabjVPnu) | 3:37 |
 
-Snapshot ID: `aExSCQAAAABBYahT3uddi9e1WIhhNJmS`
+Snapshot ID: `AAAAABBNT6AFqZfWJ24ut4sxJ7pauKdK`

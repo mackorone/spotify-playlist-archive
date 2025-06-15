@@ -1,6 +1,6 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 21517,
+  "num_followers": 21524,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "In My Bones",
         "url": "https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 156126,
       "name": "In My Bones",
       "url": "https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Me Provocas",
-        "url": "https://open.spotify.com/album/7nTh2NTu702X1jGG4Ew02x"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        },
-        {
-          "name": "Fumaratto",
-          "url": "https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw"
-        }
-      ],
-      "duration_ms": 147255,
-      "name": "Me Provocas",
-      "url": "https://open.spotify.com/track/7sEwsJK7Ol0J6PFV9nioxu"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Tillf\u00e4lligheter / Hungry Hearts (Mashup)",
         "url": "https://open.spotify.com/album/2dJWXi5jTW9MFHJ17ruXFc"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 194933,
       "name": "Tillf\u00e4lligheter / Hungry Hearts - Mashup",
       "url": "https://open.spotify.com/track/2BCskl15k3IkQmj2YTYk2b"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Me Provocas",
+        "url": "https://open.spotify.com/album/7nTh2NTu702X1jGG4Ew02x"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        },
+        {
+          "name": "Fumaratto",
+          "url": "https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw"
+        }
+      ],
+      "duration_ms": 147255,
+      "name": "Me Provocas",
+      "url": "https://open.spotify.com/track/7sEwsJK7Ol0J6PFV9nioxu"
     },
     {
       "added_at": "2024-08-29 22:00:00",

@@ -12469,6 +12469,24 @@
     },
     {
       "album": {
+        "name": "Camilla",
+        "url": "https://open.spotify.com/album/4MGZL6LTZHQYWM1tFGPDMS"
+      },
+      "artists": [
+        {
+          "name": "YUNG SAINT PAUL",
+          "url": "https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R"
+        }
+      ],
+      "date_added": "2025-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192312,
+      "name": "Camilla",
+      "url": "https://open.spotify.com/track/4IgsV4j9x88UgXTiYSzMK5"
+    },
+    {
+      "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV"
       },
@@ -38018,7 +38036,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 141738,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/1T38okUZknebljidMNSvfJ"
@@ -39760,7 +39778,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 403520,
       "name": "LOOK OUT FOR ME",
       "url": "https://open.spotify.com/track/4gM6AHXp4h8aj5482znmYz"
@@ -69468,7 +69486,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 125232,
       "name": "Tia Monika - Remix",
       "url": "https://open.spotify.com/track/77nqvRYLWciZ5ZjgwUWwnu"
@@ -71036,7 +71054,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 177994,
       "name": "TU SANCHO",
       "url": "https://open.spotify.com/track/6eLQXa6uk2EW8drsiKbABZ"
@@ -72308,7 +72326,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-15",
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"

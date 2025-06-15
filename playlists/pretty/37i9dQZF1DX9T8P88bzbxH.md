@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Lighting up Singapore with her aura\. Cover: Ernie Zakri
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,055 likes - 24 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,043 likes - 24 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

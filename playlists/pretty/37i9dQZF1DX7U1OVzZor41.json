@@ -1,6 +1,6 @@
 {
   "description": "\u5728KTV\u91cc\uff0c\u8fd9\u4e9b\u90fd\u662f\u5fc5\u70b9\u5fc5\u5531\u7684\u534e\u8bedK\u6b4c\u3002\u4f60\u51c6\u5907\u597d\u4e86\u5417\uff1f",
-  "num_followers": 145527,
+  "num_followers": 145523,
   "original_name": "\u4eba\u6c14K\u6b4c\u699c",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-10-11 05:22:52",
       "album": {
-        "name": "\u5341\u5149\u5e74\u7cbe\u9078\u8f2f",
-        "url": "https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm"
-      },
-      "artists": [
-        {
-          "name": "Michael Wong",
-          "url": "https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "\u7ae5\u8a71",
-      "url": "https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg"
-    },
-    {
-      "added_at": "2024-10-11 05:22:52",
-      "album": {
         "name": "\u672a\u5b8c\u6210",
         "url": "https://open.spotify.com/album/1kOV94kOm4oCBzloDcW9ry"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 320400,
       "name": "\u6211\u4e0d\u96e3\u904e",
       "url": "https://open.spotify.com/track/4XrWar13kLO1jr535AzKrQ"
+    },
+    {
+      "added_at": "2024-10-11 05:22:52",
+      "album": {
+        "name": "\u5341\u5149\u5e74\u7cbe\u9078\u8f2f",
+        "url": "https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm"
+      },
+      "artists": [
+        {
+          "name": "Michael Wong",
+          "url": "https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "\u7ae5\u8a71",
+      "url": "https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg"
     },
     {
       "added_at": "2024-10-11 05:22:52",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-10-11 05:22:52",
       "album": {
-        "name": "\u6211\u597d\u55ce? - \u592a\u967d\u5982\u5e38\u5347\u8d77",
-        "url": "https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM"
-      },
-      "artists": [
-        {
-          "name": "Fish Leong",
-          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
-        }
-      ],
-      "duration_ms": 289604,
-      "name": "\u6162\u51b7",
-      "url": "https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW"
-    },
-    {
-      "added_at": "2024-10-11 05:22:52",
-      "album": {
         "name": "\u60f3\u898b\u4f60\u60f3\u898b\u4f60\u60f3\u898b\u4f60(\u96fb\u8996\u5287\"\u60f3\u898b\u4f60\"\u7247\u5c3e\u66f2)",
         "url": "https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2024-10-11 05:22:52",
       "album": {
-        "name": "\u611b\u2027\u6b4c\u59ec",
-        "url": "https://open.spotify.com/album/3jFtKa1iT9rD5Xb40mHgQ1"
+        "name": "\u6211\u597d\u55ce? - \u592a\u967d\u5982\u5e38\u5347\u8d77",
+        "url": "https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM"
       },
       "artists": [
         {
-          "name": "F.I.R.",
-          "url": "https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu"
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
         }
       ],
-      "duration_ms": 308546,
-      "name": "\u6708\u7259\u7063",
-      "url": "https://open.spotify.com/track/1b5IRT3iraxjHOsKZx93sW"
+      "duration_ms": 289604,
+      "name": "\u6162\u51b7",
+      "url": "https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW"
     },
     {
       "added_at": "2024-10-11 05:22:52",
@@ -635,6 +619,22 @@
       "duration_ms": 289400,
       "name": "\u5929\u540e",
       "url": "https://open.spotify.com/track/4D0KlK4Fl8lotvsoys1bYQ"
+    },
+    {
+      "added_at": "2024-10-11 05:22:52",
+      "album": {
+        "name": "\u611b\u2027\u6b4c\u59ec",
+        "url": "https://open.spotify.com/album/3jFtKa1iT9rD5Xb40mHgQ1"
+      },
+      "artists": [
+        {
+          "name": "F.I.R.",
+          "url": "https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu"
+        }
+      ],
+      "duration_ms": 308546,
+      "name": "\u6708\u7259\u7063",
+      "url": "https://open.spotify.com/track/1b5IRT3iraxjHOsKZx93sW"
     },
     {
       "added_at": "2024-10-11 05:22:52",
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-10-11 05:22:52",
       "album": {
-        "name": "\u5b64\u52c7\u8005 (\u300a\u82f1\u96c4\u806f\u76df\uff1a\u96d9\u57ce\u4e4b\u6230\u300b\u52d5\u756b\u5287\u96c6\u4e2d\u6587\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/5AXZCa9l5fESG0jLuaOchp"
+        "name": "\u5c0f\u5e78\u904b",
+        "url": "https://open.spotify.com/album/6PqQY9oiU7zXQEuWUYBZs5"
       },
       "artists": [
         {
-          "name": "Eason Chan",
-          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+          "name": "Hebe Tien",
+          "url": "https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5"
         }
       ],
-      "duration_ms": 256000,
-      "name": "\u5b64\u52c7\u8005 - \u300a\u82f1\u96c4\u806f\u76df\uff1a\u96d9\u57ce\u4e4b\u6230\u300b\u52d5\u756b\u5287\u96c6\u4e2d\u6587\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/6akVETVeqqPVvuBS5e0EB1"
+      "duration_ms": 265521,
+      "name": "\u5c0f\u5e78\u904b",
+      "url": "https://open.spotify.com/track/1ZeVIrCWzEmsJexkrgvjFv"
     }
   ],
   "unique_name": "\u4eba\u6c14K\u6b4c\u699c",

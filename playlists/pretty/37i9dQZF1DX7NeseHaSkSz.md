@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NeseHaSkSz.md) - [plain]
 
 > Indian flute and nature sounds transport you to a hidden sacred place deep in the woods..\. Escape to your inner sanctuary to find recovery, healing and tranquility.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,806 likes - 140 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,864 likes - 140 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

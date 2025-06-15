@@ -1,4 +1,4 @@
-## Playlists \(8539\)
+## Playlists \(8541\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -6173,6 +6173,7 @@
 - [This Is Elaine Martins](/playlists/pretty/37i9dQZF1DZ06evO2ByiTJ.md)
 - [This Is Elevation Worship](/playlists/pretty/37i9dQZF1DZ06evO2jUWJ2.md)
 - [This Is Elevation Worship \(2\)](/playlists/pretty/37i9dQZF1DX8bVI1ONP87c.md)
+- [This Is Ella Langley](/playlists/pretty/37i9dQZF1DZ06evO3U8HPt.md)
 - [This Is Elliott Smith](/playlists/pretty/37i9dQZF1DZ06evO1u2tEI.md)
 - [This Is Elliott Smith \(2\)](/playlists/pretty/37i9dQZF1DWZkGQGk1ZjrI.md)
 - [This Is Elton John](/playlists/pretty/37i9dQZF1DX7VulteLVOkq.md)
@@ -6640,6 +6641,7 @@
 - [This Is Panter Bélico](/playlists/pretty/37i9dQZF1DZ06evO4o6ufo.md)
 - [This Is Pantera](/playlists/pretty/37i9dQZF1DZ06evO0zub2o.md)
 - [This Is Paramore](/playlists/pretty/37i9dQZF1DZ06evO4bEkUM.md)
+- [This Is Parker McCollum](/playlists/pretty/37i9dQZF1DZ06evO0wjz4k.md)
 - [This Is Parkway Drive](/playlists/pretty/37i9dQZF1DZ06evO0zVFVC.md)
 - [This Is Passion](/playlists/pretty/37i9dQZF1DZ06evO3MA8us.md)
 - [This Is Patoranking](/playlists/pretty/37i9dQZF1DZ06evO1iOLV6.md)

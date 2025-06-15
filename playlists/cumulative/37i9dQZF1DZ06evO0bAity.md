@@ -4,7 +4,7 @@
 
 > This is DZ Deathrays\. The essential tracks, all in one playlist.
 
-97 songs - 5 hr 10 min
+98 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Hope for the Best](https://open.spotify.com/track/3nQI4mYa0NPQ89dK8OKHyW) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:07 | 2023-06-03 |  |
 | [Hot Potato](https://open.spotify.com/track/47BpBh1URWXLF26ckpGT4S) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [ReWiggled](https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2) | 1:15 | 2022-09-16 |  |
 | [Hypercolour](https://open.spotify.com/track/1JpGubCuJfLzf9zRYrIJ8p) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 4:24 | 2022-09-16 |  |
+| [I felt all there is to feel](https://open.spotify.com/track/4uYdwdPQQqgIdsWY43UV3o) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD), [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [I felt all there is to feel](https://open.spotify.com/album/3sRm6ZhRGz2P7826NhIcBt) | 3:22 | 2025-06-15 |  |
 | [IN\-TO\-IT](https://open.spotify.com/track/6PMapmhT9QjSC3X4h0tgEX) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising \(Pt\. 1\)](https://open.spotify.com/album/40t8R9VOXLSxMzUjXbtDuN) | 3:15 | 2022-09-21 |  |
 | [IN\-TO\-IT](https://open.spotify.com/track/1h2nlMzL1hFRaSMKuUHaDB) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [IN\-TO\-IT](https://open.spotify.com/album/1jjrbaOJ59IHj9fxaDy0pI) | 3:16 | 2022-09-16 | 2022-09-22 |
 | [Intro](https://open.spotify.com/track/1bHC1H7tuDpfq2h7y2n5uf) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 0:59 | 2023-06-13 | 2023-06-26 |

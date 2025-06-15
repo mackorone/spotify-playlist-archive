@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 
 > This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,388 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,409 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 49 | [Si Preguntan por Mí](https://open.spotify.com/track/4BHysBnR9QD9cSDlx0hC5s) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Si Preguntan por Mí](https://open.spotify.com/album/4POHA2ZskfSfw9s2zqRtKY) | 3:48 |
 | 50 | [Los Opaco](https://open.spotify.com/track/11uBOJBC9zh7pVuX0USUok) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Badguychapo](https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Desde El Infierno](https://open.spotify.com/album/2GzPIRTuUasRgnSyvcSs7n) | 3:53 |
 
-Snapshot ID: `aEoYgAAAAACg0uMidFNQLA/m80KP5Djw`
+Snapshot ID: `aEtqAAAAAAD80hfNE+ZtGkyAkvNz8tfZ`

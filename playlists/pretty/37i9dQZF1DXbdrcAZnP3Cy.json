@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Mexican anthems to get the party started! ",
-  "num_followers": 190262,
+  "num_followers": 190400,
   "original_name": "Mexican Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -983,22 +983,18 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Esto S\u00ed Es Cumbia",
-        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
+        "name": "Estamos Locos",
+        "url": "https://open.spotify.com/album/58vEBu5rvv8ct4Pk158A8L"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Grupo G",
+          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
         }
       ],
-      "duration_ms": 266213,
-      "name": "Nunca Es Suficiente",
-      "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
+      "duration_ms": 191333,
+      "name": "La Inconforme - Sonidera",
+      "url": "https://open.spotify.com/track/6sti0UCUQQzfmSfzCHHUXW"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1019,18 +1015,22 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Estamos Locos",
-        "url": "https://open.spotify.com/album/58vEBu5rvv8ct4Pk158A8L"
+        "name": "Esto S\u00ed Es Cumbia",
+        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
       "artists": [
         {
-          "name": "Grupo G",
-          "url": "https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 191333,
-      "name": "La Inconforme - Sonidera",
-      "url": "https://open.spotify.com/track/6sti0UCUQQzfmSfzCHHUXW"
+      "duration_ms": 266213,
+      "name": "Nunca Es Suficiente",
+      "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
     },
     {
       "added_at": "2024-08-30 08:25:49",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-08-30 08:25:49",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
-        }
-      ],
-      "duration_ms": 201084,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
-    },
-    {
-      "added_at": "2024-08-30 08:25:49",
-      "album": {
         "name": "En Vida",
         "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 145826,
       "name": "En Vida",
       "url": "https://open.spotify.com/track/7LNtyuekYHiZ99UxkrfCQR"
+    },
+    {
+      "added_at": "2024-08-30 08:25:49",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+        }
+      ],
+      "duration_ms": 201084,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
     },
     {
       "added_at": "2024-08-30 08:25:49",

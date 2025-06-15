@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 517222,
+  "num_followers": 517299,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,38 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "GUACHINEO (Cubaton - Cuban Reggaeton 2015 - Lo Que Mas Suena En Cuba)",
+        "url": "https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc"
+      },
+      "artists": [
+        {
+          "name": "Chocolate Mc",
+          "url": "https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Guachineo",
+      "url": "https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Mi Vida Es Cantar",
+        "url": "https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 275253,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Cuba Isla Bella (feat. Gente de Zona, Leoni Torres, Isaac Delgado, Buena Fe, Descemer Bueno, Laritza Bacallao, Waldo Mendoza & Pedrito Martinez)",
         "url": "https://open.spotify.com/album/0ki5BFqVtshpdc2Vx3jGdc"
       },
@@ -159,38 +191,6 @@
       "duration_ms": 284266,
       "name": "Cuba Isla Bella (feat. Gente de Zona, Leoni Torres, Isaac Delgado, Buena Fe, Descemer Bueno, Laritza Bacallao, Waldo Mendoza & Pedrito Martinez)",
       "url": "https://open.spotify.com/track/6T9Cyj2tFiV1epQbQm0Gb2"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Mi Vida Es Cantar",
-        "url": "https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 275253,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "GUACHINEO (Cubaton - Cuban Reggaeton 2015 - Lo Que Mas Suena En Cuba)",
-        "url": "https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc"
-      },
-      "artists": [
-        {
-          "name": "Chocolate Mc",
-          "url": "https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Guachineo",
-      "url": "https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on"
     },
     {
       "added_at": "2025-03-07 06:00:25",

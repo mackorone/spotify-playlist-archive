@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 165223,
+  "num_followers": 165235,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEoYgAAAAACoVaUAavKJ/wj012VUTkpD",
+  "snapshot_id": "aEtqAAAAAACZOYesh9T4jFSeeUjbsrIy",
   "tracks": [
     {
       "added_at": null,
@@ -799,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beijo De Judas",
-        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 187311,
-      "name": "Rol\u00ea",
-      "url": "https://open.spotify.com/track/0qgqALtsDFdyTdXXNHyw5q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Sil\u00eancio Que Grita",
         "url": "https://open.spotify.com/album/6dyzdn5KrBgmmQnznQI1PO"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 190196,
       "name": "Retrovisor",
       "url": "https://open.spotify.com/track/4HYZYfXAeETot63750cbxe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beijo De Judas",
+        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 187311,
+      "name": "Rol\u00ea",
+      "url": "https://open.spotify.com/track/0qgqALtsDFdyTdXXNHyw5q"
     },
     {
       "added_at": null,

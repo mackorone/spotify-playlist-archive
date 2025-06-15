@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 92553,
+  "num_followers": 92650,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -187,50 +187,6 @@
     {
       "added_at": "2025-06-13 03:12:36",
       "album": {
-        "name": "Hey Jago",
-        "url": "https://open.spotify.com/album/0z4JNG0qrRWOZnrub2A40d"
-      },
-      "artists": [
-        {
-          "name": "Poco Lee",
-          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "Rahman Jago",
-          "url": "https://open.spotify.com/artist/65ekBj6zdws3gFRSYH7yNS"
-        }
-      ],
-      "duration_ms": 125284,
-      "name": "Hey Jago",
-      "url": "https://open.spotify.com/track/4xVj25uTjTZCaHbSFbYwAE"
-    },
-    {
-      "added_at": "2025-06-13 03:12:36",
-      "album": {
-        "name": "Uncle K: Lemon Chase",
-        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 181606,
-      "name": "Titi",
-      "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
-    },
-    {
-      "added_at": "2025-06-13 03:12:36",
-      "album": {
         "name": "99 (feat. Daecolm)",
         "url": "https://open.spotify.com/album/2BhFjpBKVdJxl1U4XqiIUv"
       },
@@ -259,6 +215,50 @@
       "duration_ms": 248832,
       "name": "99 (feat. Daecolm)",
       "url": "https://open.spotify.com/track/4sm7xhaW2PT4iLuTtXaKa1"
+    },
+    {
+      "added_at": "2025-06-13 03:12:36",
+      "album": {
+        "name": "Uncle K: Lemon Chase",
+        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 181606,
+      "name": "Titi",
+      "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
+    },
+    {
+      "added_at": "2025-06-13 03:12:36",
+      "album": {
+        "name": "Hey Jago",
+        "url": "https://open.spotify.com/album/0z4JNG0qrRWOZnrub2A40d"
+      },
+      "artists": [
+        {
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Rahman Jago",
+          "url": "https://open.spotify.com/artist/65ekBj6zdws3gFRSYH7yNS"
+        }
+      ],
+      "duration_ms": 125284,
+      "name": "Hey Jago",
+      "url": "https://open.spotify.com/track/4xVj25uTjTZCaHbSFbYwAE"
     },
     {
       "added_at": "2025-06-13 03:12:36",
@@ -403,26 +403,22 @@
     {
       "added_at": "2025-06-13 03:12:36",
       "album": {
-        "name": "Police",
-        "url": "https://open.spotify.com/album/1UxjoXYJBDwQ4npIGWQhS6"
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/08MZ91zt5s5BXOnsgVDmhm"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
         },
         {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
         }
       ],
-      "duration_ms": 166286,
-      "name": "Police",
-      "url": "https://open.spotify.com/track/2Wj5YuUfvbAOzA2kxRlnqi"
+      "duration_ms": 153000,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/2aisLWyo4vnIsh7yJHweaN"
     },
     {
       "added_at": "2025-06-13 03:12:36",
@@ -451,22 +447,26 @@
     {
       "added_at": "2025-06-13 03:12:36",
       "album": {
-        "name": "Sweet",
-        "url": "https://open.spotify.com/album/08MZ91zt5s5BXOnsgVDmhm"
+        "name": "Police",
+        "url": "https://open.spotify.com/album/1UxjoXYJBDwQ4npIGWQhS6"
       },
       "artists": [
         {
-          "name": "Spyro",
-          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         },
         {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Sweet",
-      "url": "https://open.spotify.com/track/2aisLWyo4vnIsh7yJHweaN"
+      "duration_ms": 166286,
+      "name": "Police",
+      "url": "https://open.spotify.com/track/2Wj5YuUfvbAOzA2kxRlnqi"
     },
     {
       "added_at": "2025-06-13 03:12:36",
@@ -727,26 +727,6 @@
     {
       "added_at": "2025-06-13 03:12:36",
       "album": {
-        "name": "Viva Lavida",
-        "url": "https://open.spotify.com/album/2v9BQysB6oA12Vcm9kjL5w"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 173858,
-      "name": "Free of Charge",
-      "url": "https://open.spotify.com/track/5yyVAz3WD6L6143oGfQ3AT"
-    },
-    {
-      "added_at": "2025-06-13 03:12:36",
-      "album": {
         "name": "Anytime (feat. Ayo Maff)",
         "url": "https://open.spotify.com/album/0tlsC4tKamKTl9PYoMuPTY"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 192028,
       "name": "Anytime (feat. Ayo Maff)",
       "url": "https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a"
+    },
+    {
+      "added_at": "2025-06-13 03:12:36",
+      "album": {
+        "name": "Viva Lavida",
+        "url": "https://open.spotify.com/album/2v9BQysB6oA12Vcm9kjL5w"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 173858,
+      "name": "Free of Charge",
+      "url": "https://open.spotify.com/track/5yyVAz3WD6L6143oGfQ3AT"
     },
     {
       "added_at": "2025-06-13 03:12:36",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-06-13 03:12:36",
       "album": {
-        "name": "FOR YOU",
-        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 148672,
-      "name": "FOR YOU",
-      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
-    },
-    {
-      "added_at": "2025-06-13 03:12:36",
-      "album": {
         "name": "Feel D Mood",
         "url": "https://open.spotify.com/album/0t6AQDnfc459I7m4NebGiv"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 133172,
       "name": "Feel D Mood",
       "url": "https://open.spotify.com/track/5V24zNpUfkiMx5eWYXXCHN"
+    },
+    {
+      "added_at": "2025-06-13 03:12:36",
+      "album": {
+        "name": "FOR YOU",
+        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 148672,
+      "name": "FOR YOU",
+      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
     },
     {
       "added_at": "2025-06-13 03:12:36",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2025-06-13 03:12:36",
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ"
-      },
-      "artists": [
-        {
-          "name": "Yung Alpha",
-          "url": "https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 185396,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE"
-    },
-    {
-      "added_at": "2025-06-13 03:12:36",
-      "album": {
         "name": "Composure (feat. ODUMODUBLVCK)",
         "url": "https://open.spotify.com/album/1cSj4PQelBB7VvBRH05fWw"
       },
@@ -1167,26 +1147,22 @@
     {
       "added_at": "2025-06-13 03:12:36",
       "album": {
-        "name": "THE MACHINE IS COMING",
-        "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Yung Alpha",
+          "url": "https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6"
         },
         {
-          "name": "Tolibian",
-          "url": "https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 128741,
-      "name": "RAMADAN KAREEM (with Tolibian & Boj)",
-      "url": "https://open.spotify.com/track/6xIcJYyk3f3WvgnX7dcHmw"
+      "duration_ms": 185396,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE"
     },
     {
       "added_at": "2025-06-13 03:12:36",
@@ -1207,6 +1183,30 @@
       "duration_ms": 137068,
       "name": "World Best",
       "url": "https://open.spotify.com/track/3r1xguZdjdgl8W0LO4ZtBF"
+    },
+    {
+      "added_at": "2025-06-13 03:12:36",
+      "album": {
+        "name": "THE MACHINE IS COMING",
+        "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Tolibian",
+          "url": "https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 128741,
+      "name": "RAMADAN KAREEM (with Tolibian & Boj)",
+      "url": "https://open.spotify.com/track/6xIcJYyk3f3WvgnX7dcHmw"
     },
     {
       "added_at": "2025-06-13 03:12:36",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2025-06-13 03:12:36",
       "album": {
+        "name": "My Amigo",
+        "url": "https://open.spotify.com/album/4qoO1TD2bb8DHOeB2EArUj"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 160043,
+      "name": "My Amigo",
+      "url": "https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk"
+    },
+    {
+      "added_at": "2025-06-13 03:12:36",
+      "album": {
         "name": "Management",
         "url": "https://open.spotify.com/album/7wO7ortMBavUmgj8pEELkq"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 155669,
       "name": "Management",
       "url": "https://open.spotify.com/track/4Ivn5yGEU3tRVhMhIjvAVl"
-    },
-    {
-      "added_at": "2025-06-13 03:12:36",
-      "album": {
-        "name": "HAUSAPIANO",
-        "url": "https://open.spotify.com/album/3TeZuQ3I3cZyyZ6xITnYR5"
-      },
-      "artists": [
-        {
-          "name": "Kvng Vinci",
-          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
-        }
-      ],
-      "duration_ms": 103507,
-      "name": "HAUSAPIANO",
-      "url": "https://open.spotify.com/track/45eArmaTp7V4cN4CJvRV72"
     },
     {
       "added_at": "2025-06-13 03:12:36",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2025-06-13 03:12:36",
       "album": {
-        "name": "My Amigo",
-        "url": "https://open.spotify.com/album/4qoO1TD2bb8DHOeB2EArUj"
+        "name": "HAUSAPIANO",
+        "url": "https://open.spotify.com/album/3TeZuQ3I3cZyyZ6xITnYR5"
       },
       "artists": [
         {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+          "name": "Kvng Vinci",
+          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
         }
       ],
-      "duration_ms": 160043,
-      "name": "My Amigo",
-      "url": "https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk"
+      "duration_ms": 103507,
+      "name": "HAUSAPIANO",
+      "url": "https://open.spotify.com/track/45eArmaTp7V4cN4CJvRV72"
     },
     {
       "added_at": "2025-06-13 03:12:36",
