@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: ATEEZ
 
-609 songs - 1 day 9 hr 51 min
+610 songs - 1 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Carnival](https://open.spotify.com/track/0XeRC5Xrwgidq81yZ7vCdR) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [また夏に帰ろう](https://open.spotify.com/album/1RmfPrr9Wx4iqABjGk5cX1) | 3:39 | 2025-05-27 |  |
 | [CBZ \(Prime time\)](https://open.spotify.com/track/0ofqcEBPdlyczRjUhjCiIS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [BSS 2nd Single Album ‘TELEPARTY’](https://open.spotify.com/album/4aVPbSv7GmCaa1qRxjpLSq) | 2:33 | 2025-03-06 | 2025-04-09 |
 | [Chameleon](https://open.spotify.com/track/33DkA0THiSLDZTRMlk3ByB) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [Chameleon](https://open.spotify.com/album/14wBrRu7gwBuN5haV2HKmA) | 2:44 | 2025-05-02 | 2025-05-05 |
+| [CHEAT](https://open.spotify.com/track/2Ih1mUbJmdMXf0lxMxZ2TO) | [Kis\-My\-Ft2](https://open.spotify.com/artist/4kxoWjOpCVYKgPv9nea95k) | [MAGFACT](https://open.spotify.com/album/2V7gt6rsTNyQedRSK1HPk2) | 3:29 | 2025-06-13 |  |
 | [Cheek to Cheek](https://open.spotify.com/track/1IAWO5M6TLqnWEIeNrL30F) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [Cheek to Cheek](https://open.spotify.com/album/4yqMcO0ifNRrGi7lBWn6a4) | 2:37 | 2025-04-07 | 2025-05-26 |
 | [Cinderella](https://open.spotify.com/track/6JwtjfXL7HWpdTOZPdDrMW) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [PHENOMENON](https://open.spotify.com/album/0zXQvdFAbXpptoCqBliBjB) | 3:30 | 2025-01-21 | 2025-03-07 |
 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 | 2023-11-23 | 2024-10-02 |

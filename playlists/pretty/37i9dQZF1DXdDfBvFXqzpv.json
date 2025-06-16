@@ -1,6 +1,6 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 106573,
+  "num_followers": 106575,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Episode ll",
+        "url": "https://open.spotify.com/album/52ttYpaN6OzZLAcqpjVhyh"
+      },
+      "artists": [
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        }
+      ],
+      "duration_ms": 405693,
+      "name": "Played-A-Live (The Bongo Song)",
+      "url": "https://open.spotify.com/track/7uuo02BIR76qZ6ZXQhz7Ys"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Inner Light",
         "url": "https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 257984,
       "name": "Inner Light",
       "url": "https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Episode ll",
-        "url": "https://open.spotify.com/album/52ttYpaN6OzZLAcqpjVhyh"
-      },
-      "artists": [
-        {
-          "name": "Safri Duo",
-          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
-        }
-      ],
-      "duration_ms": 405693,
-      "name": "Played-A-Live (The Bongo Song)",
-      "url": "https://open.spotify.com/track/7uuo02BIR76qZ6ZXQhz7Ys"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -659,26 +659,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Ahora y Siempre",
-        "url": "https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Linton",
-          "url": "https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S"
-        }
-      ],
-      "duration_ms": 149275,
-      "name": "Ahora y Siempre",
-      "url": "https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "The Stone Roses",
         "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 161720,
       "name": "Always Where I Need To Be",
       "url": "https://open.spotify.com/track/6gGSSrKMiV2yec1DrqGhhy"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Ahora y Siempre",
+        "url": "https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Linton",
+          "url": "https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S"
+        }
+      ],
+      "duration_ms": 149275,
+      "name": "Ahora y Siempre",
+      "url": "https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -943,6 +943,26 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Beamer (Bad Boys)",
+        "url": "https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "duration_ms": 195047,
+      "name": "Beamer (Bad Boys)",
+      "url": "https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Scissor Sisters",
         "url": "https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 200933,
       "name": "Same Old Story",
       "url": "https://open.spotify.com/track/6kh17zXl4MM4AzSeJP02hB"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Beamer (Bad Boys)",
-        "url": "https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        }
-      ],
-      "duration_ms": 195047,
-      "name": "Beamer (Bad Boys)",
-      "url": "https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Evil Friends",
-        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 249746,
-      "name": "Purple Yellow Red and Blue",
-      "url": "https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Window",
         "url": "https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 350893,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Evil Friends",
+        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 249746,
+      "name": "Purple Yellow Red and Blue",
+      "url": "https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Emergency EP",
+        "url": "https://open.spotify.com/album/1hZkAUxHrsteOYTCnrdD6J"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 169617,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/6E7oFW7xTK6Ghucsq6tMUj"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "CAPRISONGS",
         "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 220040,
       "name": "papi bones (feat. shygirl)",
       "url": "https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Emergency EP",
-        "url": "https://open.spotify.com/album/1hZkAUxHrsteOYTCnrdD6J"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 169617,
-      "name": "Emergency",
-      "url": "https://open.spotify.com/track/6E7oFW7xTK6Ghucsq6tMUj"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "life's a beach",
-        "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
-      },
-      "artists": [
-        {
-          "name": "hard life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
-        }
-      ],
-      "duration_ms": 178713,
-      "name": "skeletons",
-      "url": "https://open.spotify.com/track/0K0JJ3QZEHYhBwkE21L2HZ"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Don't Believe The Truth",
         "url": "https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 310440,
       "name": "Lyla",
       "url": "https://open.spotify.com/track/1XYLtiNehOF8D5NmlQknpI"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "life's a beach",
+        "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
+      },
+      "artists": [
+        {
+          "name": "hard life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        }
+      ],
+      "duration_ms": 178713,
+      "name": "skeletons",
+      "url": "https://open.spotify.com/track/0K0JJ3QZEHYhBwkE21L2HZ"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "RELAXER",
-        "url": "https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 231013,
-      "name": "Deadcrush",
-      "url": "https://open.spotify.com/track/7gn0MfkV4ZuMkqbPlmhIlx"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 245533,
       "name": "Postpone",
       "url": "https://open.spotify.com/track/1IMtCtSqlw3VJv3IvCxkaz"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "RELAXER",
+        "url": "https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 231013,
+      "name": "Deadcrush",
+      "url": "https://open.spotify.com/track/7gn0MfkV4ZuMkqbPlmhIlx"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Some Cities",
-        "url": "https://open.spotify.com/album/1b8wM8rrNJzdxHykdygy9V"
-      },
-      "artists": [
-        {
-          "name": "Doves",
-          "url": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
-        }
-      ],
-      "duration_ms": 255413,
-      "name": "Black And White Town",
-      "url": "https://open.spotify.com/track/3KoJckjaWGPpqfyVLrLjVS"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "B. Inspired",
         "url": "https://open.spotify.com/album/2hnJVh7gOSbRDHanTb5Lnr"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 270266,
       "name": "Ordinary People (feat. JP Cooper)",
       "url": "https://open.spotify.com/track/5YmmqeU1a7KsNzvbj4aCGS"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Some Cities",
+        "url": "https://open.spotify.com/album/1b8wM8rrNJzdxHykdygy9V"
+      },
+      "artists": [
+        {
+          "name": "Doves",
+          "url": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+        }
+      ],
+      "duration_ms": 255413,
+      "name": "Black And White Town",
+      "url": "https://open.spotify.com/track/3KoJckjaWGPpqfyVLrLjVS"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Smallpools",
-        "url": "https://open.spotify.com/album/6DadUIElI6GgDh8XCscyxn"
-      },
-      "artists": [
-        {
-          "name": "Smallpools",
-          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
-        }
-      ],
-      "duration_ms": 216560,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/3c7vquF4xacCmFrxztLUVH"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Talkie Walkie",
         "url": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363"
       },
@@ -1675,18 +1659,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Royal",
-        "url": "https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg"
+        "name": "Smallpools",
+        "url": "https://open.spotify.com/album/6DadUIElI6GgDh8XCscyxn"
       },
       "artists": [
         {
-          "name": "The Royal Concept",
-          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
+          "name": "Smallpools",
+          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
         }
       ],
-      "duration_ms": 193853,
-      "name": "On Our Way",
-      "url": "https://open.spotify.com/track/3GTXok0dIm0mMqBiVklBYS"
+      "duration_ms": 216560,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/3c7vquF4xacCmFrxztLUVH"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1703,6 +1687,22 @@
       "duration_ms": 148942,
       "name": "ErruDumEllaHvad",
       "url": "https://open.spotify.com/track/5qaaQp6KvkEdB2q7SKQAcJ"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Royal",
+        "url": "https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg"
+      },
+      "artists": [
+        {
+          "name": "The Royal Concept",
+          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
+        }
+      ],
+      "duration_ms": 193853,
+      "name": "On Our Way",
+      "url": "https://open.spotify.com/track/3GTXok0dIm0mMqBiVklBYS"
     }
   ],
   "unique_name": "EA SPORTS FIFA Mix",

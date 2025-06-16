@@ -1,12 +1,12 @@
 {
   "description": "This is Roy Ayers. The essential tracks, all in one playlist.",
-  "num_followers": 16247,
+  "num_followers": 16252,
   "original_name": "This Is Roy Ayers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAD1jSO/56lU+vMwwM1yklHE",
+  "snapshot_id": "aEy7gAAAAACd0ABbFGjpVVup8GQlkaBU",
   "tracks": [
     {
       "added_at": null,
@@ -139,26 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Brighter Day",
-        "url": "https://open.spotify.com/album/6OPYx8TIsbGLZQAvCddKNh"
-      },
-      "artists": [
-        {
-          "name": "Ronny Jordan",
-          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
-        },
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 253933,
-      "name": "Mystic Voyage",
-      "url": "https://open.spotify.com/track/6eGghCgGqV7xo7FrU0hjcB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/7hAg1MAB7TPe6IEDKk2SUD"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 206523,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/3dJ97nSNxX3Ssxflmh7PoF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Brighter Day",
+        "url": "https://open.spotify.com/album/6OPYx8TIsbGLZQAvCddKNh"
+      },
+      "artists": [
+        {
+          "name": "Ronny Jordan",
+          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 253933,
+      "name": "Mystic Voyage",
+      "url": "https://open.spotify.com/track/6eGghCgGqV7xo7FrU0hjcB"
     },
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ubiquity",
-        "url": "https://open.spotify.com/album/5yzOqiGbl3VgoJQF2jk198"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 224920,
-      "name": "Hummin' In The Sun",
-      "url": "https://open.spotify.com/track/2kL5xYzPEBw45eW9oBwlX7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roy Ayers JID002",
         "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
       },
@@ -295,6 +279,38 @@
       "duration_ms": 142127,
       "name": "Hey Lover",
       "url": "https://open.spotify.com/track/0zE96LJrCv81I6N1zRaJSO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coffy",
+        "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 175213,
+      "name": "Aragon - From The \"Coffy\" Soundtrack",
+      "url": "https://open.spotify.com/track/6pxqP6XNBLbKVozvtgTH08"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ubiquity",
+        "url": "https://open.spotify.com/album/5yzOqiGbl3VgoJQF2jk198"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 224920,
+      "name": "Hummin' In The Sun",
+      "url": "https://open.spotify.com/track/2kL5xYzPEBw45eW9oBwlX7"
     },
     {
       "added_at": null,
@@ -331,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coffy",
-        "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 175213,
-      "name": "Aragon - From The \"Coffy\" Soundtrack",
-      "url": "https://open.spotify.com/track/6pxqP6XNBLbKVozvtgTH08"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Send Me",
         "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
       },
@@ -359,6 +359,22 @@
       "duration_ms": 508186,
       "name": "You Send Me",
       "url": "https://open.spotify.com/track/4EbIIWf305n1WOJAWEb8cc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coffy",
+        "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 166133,
+      "name": "Brawling Broads - From The \"Coffy\" Soundtrack",
+      "url": "https://open.spotify.com/track/2ZoZzG6PESuJ9taOuLevxk"
     },
     {
       "added_at": null,
@@ -403,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coffy",
-        "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 166133,
-      "name": "Brawling Broads - From The \"Coffy\" Soundtrack",
-      "url": "https://open.spotify.com/track/2ZoZzG6PESuJ9taOuLevxk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Virgin Ubiquity II",
         "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
       },
@@ -431,6 +431,22 @@
       "duration_ms": 336546,
       "name": "Funk in the Hole",
       "url": "https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Send Me",
+        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "And Don't You Say No",
+      "url": "https://open.spotify.com/track/5CMjTh5RhPt5WkvcDvCaqw"
     },
     {
       "added_at": null,
@@ -455,22 +471,6 @@
       "duration_ms": 211977,
       "name": "Synchronize Vibration",
       "url": "https://open.spotify.com/track/7FLT4dXxZMaapLcNn4SgBc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Send Me",
-        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "And Don't You Say No",
-      "url": "https://open.spotify.com/track/5CMjTh5RhPt5WkvcDvCaqw"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Virgin Ubiquity II",
-        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 515840,
-      "name": "I Am Your Mind (Part 2)",
-      "url": "https://open.spotify.com/track/5BeYu3uJAMVZ5oyReLFupf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Send Me",
         "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 217866,
       "name": "Everytime I See You",
       "url": "https://open.spotify.com/track/3Ravb8XPBKL6sE2jqStRJf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Virgin Ubiquity II",
+        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 515840,
+      "name": "I Am Your Mind (Part 2)",
+      "url": "https://open.spotify.com/track/5BeYu3uJAMVZ5oyReLFupf"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coffy",
+        "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Exotic Dance - From The \"Coffy\" Soundtrack",
+      "url": "https://open.spotify.com/track/7DGeZKtZkisHSnN2HMTWWW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roy Ayers JID002",
         "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 219989,
       "name": "Shadows of The East",
       "url": "https://open.spotify.com/track/5lZKoCghq9BWOU2i0qX7wk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coffy",
-        "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Exotic Dance - From The \"Coffy\" Soundtrack",
-      "url": "https://open.spotify.com/track/7DGeZKtZkisHSnN2HMTWWW"
     },
     {
       "added_at": null,
@@ -675,6 +675,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eardrum",
+        "url": "https://open.spotify.com/album/4gjttixmMAKMzzfrfGmDGr"
+      },
+      "artists": [
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "In the Mood (feat. Kanye West & Roy Ayers)",
+      "url": "https://open.spotify.com/track/4v3AYUgQvwdbO9FY8tJBCo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roy Ayers JID002",
         "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
       },
@@ -719,30 +743,6 @@
       "duration_ms": 206523,
       "name": "Gravity - Instrumental",
       "url": "https://open.spotify.com/track/0dCbGiiBc3Cf1QVtWgcdqE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eardrum",
-        "url": "https://open.spotify.com/album/4gjttixmMAKMzzfrfGmDGr"
-      },
-      "artists": [
-        {
-          "name": "Talib Kweli",
-          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "In the Mood (feat. Kanye West & Roy Ayers)",
-      "url": "https://open.spotify.com/track/4v3AYUgQvwdbO9FY8tJBCo"
     },
     {
       "added_at": null,

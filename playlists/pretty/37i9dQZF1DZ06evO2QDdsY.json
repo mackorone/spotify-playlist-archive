@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 16114,
+  "num_followers": 16122,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAAxDyFG+thahxjBbrifG/Qv",
+  "snapshot_id": "aEy7gAAAAADer4t693vlBM34pkZJCpgG",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 157986,
-      "name": "Sweet Things Just for You",
-      "url": "https://open.spotify.com/track/3Njnztq7RcqwQycbOzaI8i"
+      "duration_ms": 163760,
+      "name": "All I Really Wanna Do",
+      "url": "https://open.spotify.com/track/6zwaAZzlDrap10CYFQQIsq"
     },
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 163760,
-      "name": "All I Really Wanna Do",
-      "url": "https://open.spotify.com/track/6zwaAZzlDrap10CYFQQIsq"
+      "duration_ms": 157986,
+      "name": "Sweet Things Just for You",
+      "url": "https://open.spotify.com/track/3Njnztq7RcqwQycbOzaI8i"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pushin' Against A Stone",
-        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/5n0zsZHAP1lUwc9cGuwxhr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Black Country: The Songs of Alice Randall",
         "url": "https://open.spotify.com/album/55YFzxmWdGxAUFSp9zh9sN"
       },
@@ -467,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/5n0zsZHAP1lUwc9cGuwxhr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Moon And Stars: Prescriptions For Dreamers",
         "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
       },
@@ -479,6 +479,26 @@
       "duration_ms": 181786,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0lXhdx5FL08z86AjpYPqRo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High Note [Feat. Stax Music Academy]",
+        "url": "https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        },
+        {
+          "name": "Stax Music Academy",
+          "url": "https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K"
+        }
+      ],
+      "duration_ms": 182099,
+      "name": "High Note [Feat. Stax Music Academy]",
+      "url": "https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf"
     },
     {
       "added_at": null,
@@ -511,26 +531,6 @@
       "duration_ms": 193066,
       "name": "Twined & Twisted",
       "url": "https://open.spotify.com/track/1odjg0Ct6jcXl9hK0nx02f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "High Note [Feat. Stax Music Academy]",
-        "url": "https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        },
-        {
-          "name": "Stax Music Academy",
-          "url": "https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K"
-        }
-      ],
-      "duration_ms": 182099,
-      "name": "High Note [Feat. Stax Music Academy]",
-      "url": "https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pushin' Against A Stone",
-        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 182093,
-      "name": "Trials, Troubles, Tribulations",
-      "url": "https://open.spotify.com/track/16sKiqhg3YdpeyJ8bsxYxM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up and Rolling (feat. Son Little and Valerie June)",
         "url": "https://open.spotify.com/album/7lhmScuKFqX2uzvuBkXYOk"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 201921,
       "name": "Up and Rolling (feat. Son Little and Valerie June)",
       "url": "https://open.spotify.com/track/2Z76Gvp5iZcEkszy10LNQp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 182093,
+      "name": "Trials, Troubles, Tribulations",
+      "url": "https://open.spotify.com/track/16sKiqhg3YdpeyJ8bsxYxM"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pushin' against a Stone",
-        "url": "https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 229668,
-      "name": "The Hour",
-      "url": "https://open.spotify.com/track/4pn8AsvuA3JpMnK0pbVgsy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Red Hot: A Memphis Celebration of Sun Records",
         "url": "https://open.spotify.com/album/5i5GqRNs1ifV07HCQLQH6c"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 171693,
       "name": "Sure to Fall",
       "url": "https://open.spotify.com/track/13RQs1T5nEDGq5JVBFHJEo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pushin' against a Stone",
+        "url": "https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 229668,
+      "name": "The Hour",
+      "url": "https://open.spotify.com/track/4pn8AsvuA3JpMnK0pbVgsy"
     },
     {
       "added_at": null,

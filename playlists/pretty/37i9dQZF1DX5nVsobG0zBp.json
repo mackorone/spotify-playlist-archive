@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto:Mizzy Miles, Slow J, Gson",
-  "num_followers": 75931,
+  "num_followers": 75958,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,26 @@
     {
       "added_at": "2025-04-11 14:56:02",
       "album": {
+        "name": "Sweet Spot",
+        "url": "https://open.spotify.com/album/2qK6Eff85oD0PcsmFbv4Dj"
+      },
+      "artists": [
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        },
+        {
+          "name": "Murta",
+          "url": "https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Sweet Spot",
+      "url": "https://open.spotify.com/track/7yrH4ghvW4hivGBpLU7dDb"
+    },
+    {
+      "added_at": "2025-04-11 14:56:02",
+      "album": {
         "name": "Europa (feat. Deejay Telio, Teto & Gson)",
         "url": "https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 216800,
       "name": "Europa (feat. Deejay Telio, Teto & Gson)",
       "url": "https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq"
-    },
-    {
-      "added_at": "2025-04-11 14:56:02",
-      "album": {
-        "name": "Sweet Spot",
-        "url": "https://open.spotify.com/album/2qK6Eff85oD0PcsmFbv4Dj"
-      },
-      "artists": [
-        {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
-        },
-        {
-          "name": "Murta",
-          "url": "https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Sweet Spot",
-      "url": "https://open.spotify.com/track/7yrH4ghvW4hivGBpLU7dDb"
     },
     {
       "added_at": "2025-04-11 14:56:02",

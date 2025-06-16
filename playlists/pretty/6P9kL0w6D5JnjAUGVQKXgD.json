@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Jackson Wang, Galantis, MK",
-  "num_followers": 47252,
+  "num_followers": 47251,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAIBtvCs9iCOaOVj46gR3ccyqOXzFxL",
+  "snapshot_id": "AAAIB2TruaIA9cW49JA/QeQA3OAccZeQ",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -1633,6 +1633,26 @@
       "url": "https://open.spotify.com/track/133YafRPaKLYCR28FSbN4M"
     },
     {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "Stay the Night",
+        "url": "https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Talia Mar",
+          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
+        }
+      ],
+      "duration_ms": 171954,
+      "name": "Stay the Night",
+      "url": "https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR"
+    },
+    {
       "added_at": "2025-05-09 00:41:05",
       "album": {
         "name": "Comes Down",
@@ -1699,22 +1719,22 @@
     {
       "added_at": "2023-06-13 09:44:03",
       "album": {
-        "name": "Stay the Night",
-        "url": "https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ"
+        "name": "Still Think About You",
+        "url": "https://open.spotify.com/album/58GpWonAE9FAuHf4wDawKy"
       },
       "artists": [
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+          "name": "Deep Chills",
+          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
         },
         {
-          "name": "Talia Mar",
-          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
+          "name": "MAZE",
+          "url": "https://open.spotify.com/artist/5A0NriHXv9tLlUYztVXeGP"
         }
       ],
-      "duration_ms": 171954,
-      "name": "Stay the Night",
-      "url": "https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR"
+      "duration_ms": 201157,
+      "name": "Still Think About You",
+      "url": "https://open.spotify.com/track/3IXBadXz4oaYZCuJNwHDFD"
     },
     {
       "added_at": "2024-09-27 00:41:03",
@@ -1739,26 +1759,6 @@
       "duration_ms": 130500,
       "name": "Torn",
       "url": "https://open.spotify.com/track/6IrZcWFFvMF0UzUKyeUpwn"
-    },
-    {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
-        "name": "Still Think About You",
-        "url": "https://open.spotify.com/album/58GpWonAE9FAuHf4wDawKy"
-      },
-      "artists": [
-        {
-          "name": "Deep Chills",
-          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
-        },
-        {
-          "name": "MAZE",
-          "url": "https://open.spotify.com/artist/5A0NriHXv9tLlUYztVXeGP"
-        }
-      ],
-      "duration_ms": 201157,
-      "name": "Still Think About You",
-      "url": "https://open.spotify.com/track/3IXBadXz4oaYZCuJNwHDFD"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1861,26 +1861,6 @@
       "url": "https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa"
     },
     {
-      "added_at": "2024-07-26 00:41:03",
-      "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/6mU3Tduq9a0Cd8ZIVXoeSg"
-      },
-      "artists": [
-        {
-          "name": "Dualh\u00ef",
-          "url": "https://open.spotify.com/artist/4HzQLZAdLvGvyqVhhJ5CW6"
-        },
-        {
-          "name": "JandB",
-          "url": "https://open.spotify.com/artist/4jN5GS2qlp50fhNUrrLrkA"
-        }
-      ],
-      "duration_ms": 150447,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/0DqooBsYdHc3QajIX0c6op"
-    },
-    {
       "added_at": "2024-11-17 00:41:03",
       "album": {
         "name": "Heaven On My Mind (with Sigala)",
@@ -1901,6 +1881,26 @@
       "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
     },
     {
+      "added_at": "2024-07-26 00:41:03",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/6mU3Tduq9a0Cd8ZIVXoeSg"
+      },
+      "artists": [
+        {
+          "name": "Dualh\u00ef",
+          "url": "https://open.spotify.com/artist/4HzQLZAdLvGvyqVhhJ5CW6"
+        },
+        {
+          "name": "JandB",
+          "url": "https://open.spotify.com/artist/4jN5GS2qlp50fhNUrrLrkA"
+        }
+      ],
+      "duration_ms": 150447,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/0DqooBsYdHc3QajIX0c6op"
+    },
+    {
       "added_at": "2024-11-20 00:41:04",
       "album": {
         "name": "All My Friends (Eden Prince Remix)",
@@ -1919,22 +1919,6 @@
       "duration_ms": 173548,
       "name": "All My Friends - Eden Prince Remix",
       "url": "https://open.spotify.com/track/5WaXMQMlQpq8pwIdaFP43L"
-    },
-    {
-      "added_at": "2025-03-21 00:41:04",
-      "album": {
-        "name": "Be On Your Mind",
-        "url": "https://open.spotify.com/album/25nGGtZvIcDsOHllzw262i"
-      },
-      "artists": [
-        {
-          "name": "Luis Elba",
-          "url": "https://open.spotify.com/artist/1DA4e1dx0O1N10b3bw18Le"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Be On Your Mind",
-      "url": "https://open.spotify.com/track/4cNbpYE2fBcU0ZaO7Xlfu3"
     },
     {
       "added_at": "2024-11-25 00:44:03",
@@ -1961,6 +1945,42 @@
       "url": "https://open.spotify.com/track/25qhCdtNV7jCiAbcxFxZgx"
     },
     {
+      "added_at": "2025-03-21 00:41:04",
+      "album": {
+        "name": "Be On Your Mind",
+        "url": "https://open.spotify.com/album/25nGGtZvIcDsOHllzw262i"
+      },
+      "artists": [
+        {
+          "name": "Luis Elba",
+          "url": "https://open.spotify.com/artist/1DA4e1dx0O1N10b3bw18Le"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Be On Your Mind",
+      "url": "https://open.spotify.com/track/4cNbpYE2fBcU0ZaO7Xlfu3"
+    },
+    {
+      "added_at": "2025-06-08 00:41:06",
+      "album": {
+        "name": "More Than Friends",
+        "url": "https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 140698,
+      "name": "More Than Friends",
+      "url": "https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD"
+    },
+    {
       "added_at": "2024-10-12 00:41:03",
       "album": {
         "name": "Forever Young",
@@ -1983,26 +2003,6 @@
       "duration_ms": 173610,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/3bSQhzEakXK108UasRWP4t"
-    },
-    {
-      "added_at": "2025-06-08 00:41:06",
-      "album": {
-        "name": "More Than Friends",
-        "url": "https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 140698,
-      "name": "More Than Friends",
-      "url": "https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD"
     },
     {
       "added_at": "2025-06-10 00:41:07",

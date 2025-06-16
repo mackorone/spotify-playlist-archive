@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist.
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,673 likes - 156 songs - 9 hr 7 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,679 likes - 156 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

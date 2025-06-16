@@ -3756,7 +3756,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-15",
+      "date_removed": null,
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -4284,7 +4284,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 139975,
       "name": "Bender",
       "url": "https://open.spotify.com/track/0IstZK4ERxONEDvE5wxwHS"
@@ -6196,7 +6196,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 194173,
       "name": "Call me when you need me",
       "url": "https://open.spotify.com/track/5sJ7YLGwsOP7pmwGTz2Osu"
@@ -9844,7 +9844,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 138187,
       "name": "Drugs N Love",
       "url": "https://open.spotify.com/track/5bpNC61pnAqXWJg8CLoxhP"
@@ -18254,7 +18254,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 176160,
       "name": "Hva Du Vil",
       "url": "https://open.spotify.com/track/5bbEHwi1fO0BsQ6XdE1okY"
@@ -21254,6 +21254,24 @@
       "duration_ms": 138568,
       "name": "Jentekveld",
       "url": "https://open.spotify.com/track/3ULg1vFh05UW6TPSnsgGpy"
+    },
+    {
+      "album": {
+        "name": "Jenter & S\u00e5nn",
+        "url": "https://open.spotify.com/album/1Nh6VXyJudIkskjLLS8VHM"
+      },
+      "artists": [
+        {
+          "name": "Di Derre",
+          "url": "https://open.spotify.com/artist/3xhyJwgAUGZSE162fJXRJY"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256706,
+      "name": "Jenter",
+      "url": "https://open.spotify.com/track/6SOmLQXDnvZhOHoQQue50V"
     },
     {
       "album": {

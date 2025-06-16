@@ -2291,6 +2291,28 @@
     },
     {
       "album": {
+        "name": "Dragon",
+        "url": "https://open.spotify.com/album/5Cv0KXpWQ2fMyal3kbqkqU"
+      },
+      "artists": [
+        {
+          "name": "Indira Paganotto",
+          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181099,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/1J827bhoOFER99MdWqeoyU"
+    },
+    {
+      "album": {
         "name": "Drop It Down",
         "url": "https://open.spotify.com/album/6B8cJuwQEZFN0jmxs7X5EF"
       },
@@ -2430,7 +2452,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 149666,
       "name": "eat, sleep, slay, \ud83d\udd01",
       "url": "https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi"
@@ -3818,7 +3840,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 196941,
       "name": "Hype Boy",
       "url": "https://open.spotify.com/track/4I4LIjM7gHmIFQ210Ycx2j"
@@ -3928,6 +3950,28 @@
       "duration_ms": 283936,
       "name": "I Like",
       "url": "https://open.spotify.com/track/42g6zqu6JHQk9FthUcCZZd"
+    },
+    {
+      "album": {
+        "name": "I Like It Bad",
+        "url": "https://open.spotify.com/album/1BqzauSmju8W1UW5DCQ1Fc"
+      },
+      "artists": [
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158734,
+      "name": "I Like It Bad",
+      "url": "https://open.spotify.com/track/2ippr4N1K9MvLKoqI27MRt"
     },
     {
       "album": {
@@ -8080,7 +8124,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 145822,
       "name": "Skank In The Rave",
       "url": "https://open.spotify.com/track/4nceOR9TnmePBmrnDwFGMS"
@@ -8730,6 +8774,28 @@
       "duration_ms": 124864,
       "name": "tell you straight",
       "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"
+    },
+    {
+      "album": {
+        "name": "The Beat",
+        "url": "https://open.spotify.com/album/3sgObgnVBBMppg1qMoVP7i"
+      },
+      "artists": [
+        {
+          "name": "Mandidextrous",
+          "url": "https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp"
+        },
+        {
+          "name": "GEA",
+          "url": "https://open.spotify.com/artist/3OHl7zl5cliNK2ADa18ZxL"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206500,
+      "name": "The Beat",
+      "url": "https://open.spotify.com/track/3sSvL4QtYlXAae7TyUgCzh"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 39857,
+  "num_followers": 39932,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAADnO7X5aXdg0hejDCMSmO8w",
+  "snapshot_id": "aEy7gAAAAACd2T4toEKF6WPTmz93mXY4",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "MIJA NO TE ASUSTES",
-        "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
+        "name": "Redenci\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
       },
       "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
         {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 161238,
-      "name": "PASAPORTES",
-      "url": "https://open.spotify.com/track/2Vq1rhWlKNEEGWTJrWOYmp"
+      "duration_ms": 190431,
+      "name": "Frecuencia",
+      "url": "https://open.spotify.com/track/56bPsRfOKla3bGGmVz1uk4"
     },
     {
       "added_at": null,
@@ -407,6 +403,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MIJA NO TE ASUSTES",
+        "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 161238,
+      "name": "PASAPORTES",
+      "url": "https://open.spotify.com/track/2Vq1rhWlKNEEGWTJrWOYmp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Con Banda",
         "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
       },
@@ -419,26 +435,6 @@
       "duration_ms": 235480,
       "name": "Hasta El D\u00eda De Hoy",
       "url": "https://open.spotify.com/track/7z5jPeiVTBP7bGNk3AY7dg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV",
-        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 150045,
-      "name": "Las Dos R",
-      "url": "https://open.spotify.com/track/1rlxNbQXvB9mRBB0kszHXq"
     },
     {
       "added_at": null,
@@ -483,6 +479,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 150045,
+      "name": "Las Dos R",
+      "url": "https://open.spotify.com/track/1rlxNbQXvB9mRBB0kszHXq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NEPTUNO",
         "url": "https://open.spotify.com/album/6vQLZiZwK4XctII0RdWhqg"
       },
@@ -503,6 +519,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Redenci\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 142285,
+      "name": "Tommy Vercetti",
+      "url": "https://open.spotify.com/track/6Dqy6XTXUcjnUUxkGCmtOp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
@@ -519,22 +559,6 @@
       "duration_ms": 177815,
       "name": "Puro MQueen",
       "url": "https://open.spotify.com/track/1npx6ZSuv0KOIa8Pv7qCsu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Redenci\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 190431,
-      "name": "Frecuencia",
-      "url": "https://open.spotify.com/track/56bPsRfOKla3bGGmVz1uk4"
     },
     {
       "added_at": null,
@@ -583,30 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pobreza Buena",
-        "url": "https://open.spotify.com/album/5pvt7RiMn0dNrzHbxg2NAI"
-      },
-      "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 209683,
-      "name": "La Pobreza Buena",
-      "url": "https://open.spotify.com/track/6znmbSFyJDp4diXQWO5QW8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Redenci\u00f3n (Deluxe)",
         "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
       },
@@ -616,17 +616,13 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         },
         {
-          "name": "Esau Ortiz",
-          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
-        },
-        {
           "name": "Luis R Conriquez",
           "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 142285,
-      "name": "Tommy Vercetti",
-      "url": "https://open.spotify.com/track/6Dqy6XTXUcjnUUxkGCmtOp"
+      "duration_ms": 194469,
+      "name": "Jacob and Co.",
+      "url": "https://open.spotify.com/track/2l8ZwBatbKXlVrSexA4Gbr"
     },
     {
       "added_at": null,
@@ -651,22 +647,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Leyenda",
-        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
+        "name": "La Pobreza Buena",
+        "url": "https://open.spotify.com/album/5pvt7RiMn0dNrzHbxg2NAI"
       },
       "artists": [
         {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 211035,
-      "name": "Yo Soy Iv\u00e1n",
-      "url": "https://open.spotify.com/track/6q6b2yBPsEbitjEVeHvWCd"
+      "duration_ms": 209683,
+      "name": "La Pobreza Buena",
+      "url": "https://open.spotify.com/track/6znmbSFyJDp4diXQWO5QW8"
     },
     {
       "added_at": null,
@@ -702,15 +702,31 @@
         {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 194469,
-      "name": "Jacob and Co.",
-      "url": "https://open.spotify.com/track/2l8ZwBatbKXlVrSexA4Gbr"
+      "duration_ms": 143160,
+      "name": "Ando Surtiendo",
+      "url": "https://open.spotify.com/track/6EZTK5PCM3hycubqgQjNka"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos Leyenda",
+        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 211035,
+      "name": "Yo Soy Iv\u00e1n",
+      "url": "https://open.spotify.com/track/6q6b2yBPsEbitjEVeHvWCd"
     },
     {
       "added_at": null,
@@ -759,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Redenci\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 170155,
+      "name": "Maybach",
+      "url": "https://open.spotify.com/track/4icH0O4D7CZOs9reT2CXVv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Polvo Soy",
         "url": "https://open.spotify.com/album/3SWmKgWCz1IOYbkdPjqVc7"
       },
@@ -775,22 +811,6 @@
       "duration_ms": 173793,
       "name": "Polvo Soy",
       "url": "https://open.spotify.com/track/7rzEV4j9gxblnC9DHN53iC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Redenci\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 143160,
-      "name": "Ando Surtiendo",
-      "url": "https://open.spotify.com/track/6EZTK5PCM3hycubqgQjNka"
     },
     {
       "added_at": null,
@@ -851,42 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Redenci\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 170155,
-      "name": "Maybach",
-      "url": "https://open.spotify.com/track/4icH0O4D7CZOs9reT2CXVv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Due\u00f1a De Mi Vida",
-        "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "La Mas Bonita De Todas",
-      "url": "https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Booty Booty",
         "url": "https://open.spotify.com/album/3qF3IgcIPMurpqXASo9F0E"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 150155,
       "name": "Booty Booty",
       "url": "https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Due\u00f1a De Mi Vida",
+        "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "La Mas Bonita De Todas",
+      "url": "https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn"
     },
     {
       "added_at": null,

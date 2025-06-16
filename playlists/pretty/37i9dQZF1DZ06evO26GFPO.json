@@ -1,12 +1,12 @@
 {
   "description": "This is LUDMILLA. The essential tracks, all in one playlist.",
-  "num_followers": 306292,
+  "num_followers": 306307,
   "original_name": "This Is LUDMILLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAAkozBfPOIulWBBlrjoyljI",
+  "snapshot_id": "aEy7gAAAAAAQPwWbd+chYPCLBRbZDtac",
   "tracks": [
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 281421,
-      "name": "Mande Um Sinal / Sinais - Ao vivo",
-      "url": "https://open.spotify.com/track/7gGCGzNFmW0xjhA8dA3Y5w"
+      "duration_ms": 401511,
+      "name": "Desse Jeito \u00e9 Ruim Pra Mim / Perfume / Antes de Dizer Adeus - Ao vivo",
+      "url": "https://open.spotify.com/track/1CehxijvhSszrBS3FuCxBw"
     },
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Whine",
-      "url": "https://open.spotify.com/track/1RMEvuPu0Lq5GzBedlzEdA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Falta de Mim (Ao Vivo na Resenha Pagode e Chinelo)",
         "url": "https://open.spotify.com/album/0gcFrFuriHDLPi8fzPTy8R"
       },
@@ -695,6 +675,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Whine",
+      "url": "https://open.spotify.com/track/1RMEvuPu0Lq5GzBedlzEdA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Numanice (Ao vivo)",
         "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
       },
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 401511,
-      "name": "Desse Jeito \u00e9 Ruim Pra Mim / Perfume / Antes de Dizer Adeus - Ao vivo",
-      "url": "https://open.spotify.com/track/1CehxijvhSszrBS3FuCxBw"
+      "duration_ms": 281421,
+      "name": "Mande Um Sinal / Sinais - Ao vivo",
+      "url": "https://open.spotify.com/track/7gGCGzNFmW0xjhA8dA3Y5w"
     },
     {
       "added_at": null,

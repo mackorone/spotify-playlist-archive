@@ -739,6 +739,24 @@
     },
     {
       "album": {
+        "name": "Arabella",
+        "url": "https://open.spotify.com/album/4hxavFm1178TFitlCMV3qi"
+      },
+      "artists": [
+        {
+          "name": "Tulip",
+          "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293913,
+      "name": "Arabella",
+      "url": "https://open.spotify.com/track/5p7LGKUTjHcFrZ78kjJauw"
+    },
+    {
+      "album": {
         "name": "Manifest",
         "url": "https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa"
       },
@@ -3052,7 +3070,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 191999,
       "name": "Empire",
       "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
@@ -5052,6 +5070,24 @@
       "duration_ms": 236440,
       "name": "In Times of Despair",
       "url": "https://open.spotify.com/track/3CPTxcIAGwHLmWRDcKOiiv"
+    },
+    {
+      "album": {
+        "name": "Inquisition",
+        "url": "https://open.spotify.com/album/1vtYXlNR6avt28pSZnJqhT"
+      },
+      "artists": [
+        {
+          "name": "Burning Witches",
+          "url": "https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341743,
+      "name": "Inquisition",
+      "url": "https://open.spotify.com/track/1dh8SWXV7lGsmcjQpoIVJj"
     },
     {
       "album": {
@@ -8758,7 +8794,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 201114,
       "name": "Seventh Rum of a Seventh Rum",
       "url": "https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3"

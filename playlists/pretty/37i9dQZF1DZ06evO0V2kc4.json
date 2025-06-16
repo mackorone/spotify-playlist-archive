@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 71714,
+  "num_followers": 71731,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAAQNeB8g3u7K2cZ8LFUxDp0",
+  "snapshot_id": "aEy7gAAAAAAbrBeQJRPXWwbHmhqPz3gY",
   "tracks": [
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baez Sings Dylan",
+        "url": "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 193466,
+      "name": "One Too Many Mornings",
+      "url": "https://open.spotify.com/track/2EEwfPipVVar4QgttlX7UR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall",
         "url": "https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY"
       },
@@ -655,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baez Sings Dylan",
-        "url": "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "One Too Many Mornings",
-      "url": "https://open.spotify.com/track/2EEwfPipVVar4QgttlX7UR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joan Baez 75th Birthday Celebration",
         "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 445880,
       "name": "The Boxer",
       "url": "https://open.spotify.com/track/2wdvaWg7mqmLUDVYLOrKVJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/5RbUDT4ZWJZTRVRcfAbV0J"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/5RbUDT4ZWJZTRVRcfAbV0J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joan Baez",
         "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
       },
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Baez, Vol. 2",
-        "url": "https://open.spotify.com/album/05okUkdZoQT6MgJsfN7kwg"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 190973,
-      "name": "Plaisir D' Amour",
-      "url": "https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gracias A La Vida (Here's To Life)",
         "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
       },
@@ -803,6 +787,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joan Baez, Vol. 2",
+        "url": "https://open.spotify.com/album/05okUkdZoQT6MgJsfN7kwg"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 190973,
+      "name": "Plaisir D' Amour",
+      "url": "https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If I Wrote You: Favorite Songs By Some Of My Favorite Songwriters",
+        "url": "https://open.spotify.com/album/5pyD4MonVyt9h9tcgoYpBM"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "God Is God",
+      "url": "https://open.spotify.com/track/5eKQFLU9s7vVtZKvza2on8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joan Baez",
         "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
       },
@@ -815,26 +831,6 @@
       "duration_ms": 223733,
       "name": "East Virginia",
       "url": "https://open.spotify.com/track/7cOXUx0Q5PYafyNFriFajr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall",
-        "url": "https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        },
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "Silver Dagger - Live at Philharmonic Hall, New York, NY - October 1964",
-      "url": "https://open.spotify.com/track/7buaEIGFa9f7rXjOAApie9"
     }
   ],
   "unique_name": "This Is Joan Baez",

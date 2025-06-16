@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Marco Mengoni, Rkomi e Sayf
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,513 likes - 155 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,517 likes - 155 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

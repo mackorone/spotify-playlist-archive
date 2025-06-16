@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Morat
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,582 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,595 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 | 31 | [Un Beso Menos](https://open.spotify.com/track/107UcGiqICT0mWhzvDCZMK) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Un Beso Menos](https://open.spotify.com/album/6zubHY30q9LfWVJYX7KPQR) | 3:40 |
 | 32 | [Pinceles](https://open.spotify.com/track/1esQcf1nmd91BZlGm576fz) | [Javi Medina](https://open.spotify.com/artist/6dwFgF51JkLBz93ocNJ0Ol), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pinceles](https://open.spotify.com/album/7McG5klQmerZ48pwuNt3Yv) | 3:02 |
 | 33 | [el ingeniero](https://open.spotify.com/track/6TT5rB0Rwneb6ZaopHQir4) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:26 |
-| 34 | [Aloh Aloh](https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Aloh Aloh](https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky) | 2:16 |
+| 34 | [ALOH ALOH](https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [ALOH ALOH](https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky) | 2:16 |
 | 35 | [Señorita \- Remix](https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH) | [Jean Pi](https://open.spotify.com/artist/2MBHhHSyqs8LFJsdmgf9pK), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Señorita \(Remix\)](https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT) | 3:01 |
 | 36 | [capaz \(merengueton\)](https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:53 |
 | 37 | [Querida Yo](https://open.spotify.com/track/1dXfyBNV1Dv6Qj73bCtdrk) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Querida Yo](https://open.spotify.com/album/2n3f9KNVpIQ1z3rnwtahB7) | 1:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 | 74 | [Otra Canción](https://open.spotify.com/track/5PjsROhhpXFTnjhAeTd2OB) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Andrés Obregón](https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve) | [Otra Canción](https://open.spotify.com/album/6z6fclMwLj1Q2CxFxHGp1q) | 3:36 |
 | 75 | [Café](https://open.spotify.com/track/10qhwiwVoeKVnF7mvr9Uqs) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Afro Vibes](https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ) | 3:16 |
 
-Snapshot ID: `aEJ+/AAAAACGkZNu2VIhGRPHuZe3qPYZ`
+Snapshot ID: `aEJ+/AAAAABvbu1LAIe8akb41IdQxzva`

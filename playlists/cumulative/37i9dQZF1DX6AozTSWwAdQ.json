@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "Big Ol' Hammer",
+        "url": "https://open.spotify.com/album/6tnp1KpDg5ZCAxkHnk3hhX"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147571,
+      "name": "Big Ol' Hammer",
+      "url": "https://open.spotify.com/track/0KC3gdNQmZcNmGUJg4iXEV"
+    },
+    {
+      "album": {
         "name": "Bite Me",
         "url": "https://open.spotify.com/album/6DgueXg1ArV74AlVJArLSv"
       },
@@ -3844,7 +3862,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 232384,
       "name": "Irrelevant",
       "url": "https://open.spotify.com/track/5Oz15cyQP3TMDDXKWm4tYH"
@@ -4450,7 +4468,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 191963,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb"
@@ -5026,6 +5044,24 @@
       "duration_ms": 206112,
       "name": "Mile Away",
       "url": "https://open.spotify.com/track/4ZwJ25jbonqnzlYTB89aQK"
+    },
+    {
+      "album": {
+        "name": "Mine, Lord Willing",
+        "url": "https://open.spotify.com/album/6tzOBUB8YWLKWkDzNYuBZL"
+      },
+      "artists": [
+        {
+          "name": "Pynk Beard",
+          "url": "https://open.spotify.com/artist/7arsY1oYkvANg3CNAxdp9Y"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139922,
+      "name": "Mine, Lord Willing",
+      "url": "https://open.spotify.com/track/31LdGmDGKm1GWuLX4bLkqo"
     },
     {
       "album": {

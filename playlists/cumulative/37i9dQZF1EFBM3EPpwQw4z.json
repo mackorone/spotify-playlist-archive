@@ -1215,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/5WOyodAauh50nUftaZ355E"
+      },
+      "artists": [
+        {
+          "name": "Terace",
+          "url": "https://open.spotify.com/artist/0OV8LLvJaGRRsSlBsBKdUl"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275887,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/6jVqvY3LKTBqZAkq7sRUfP"
+    },
+    {
+      "album": {
         "name": "Levitate",
         "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
       },
@@ -1870,6 +1888,28 @@
       "duration_ms": 158675,
       "name": "Sing You a Lullaby",
       "url": "https://open.spotify.com/track/43VtNuMa0a03jqeQ0ZjXNT"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/7t0yydFmDChmSPla4Yi3Hm"
+      },
+      "artists": [
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        },
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185490,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/3LK7BfvGHtRCdd6DIQIpiC"
     },
     {
       "album": {

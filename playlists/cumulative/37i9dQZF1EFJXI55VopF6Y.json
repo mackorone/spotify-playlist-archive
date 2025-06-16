@@ -435,6 +435,28 @@
     },
     {
       "album": {
+        "name": "Strawberry Blonde",
+        "url": "https://open.spotify.com/album/4PIjW5Rjso48AHzoRsZ5Qk"
+      },
+      "artists": [
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        },
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194425,
+      "name": "Konfetti",
+      "url": "https://open.spotify.com/track/0db2mv3OG9HKqPObWRauEY"
+    },
+    {
+      "album": {
         "name": "Konfetti",
         "url": "https://open.spotify.com/album/4aWHBRPvgHpM39DUrvCMTR"
       },
@@ -450,7 +472,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 194425,
       "name": "Konfetti",
       "url": "https://open.spotify.com/track/57ilwMdNXbsbVaP8GtfEIB"

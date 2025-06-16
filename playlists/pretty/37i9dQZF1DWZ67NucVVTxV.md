@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Money on my Mind\. Mind on my money.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,701 likes - 85 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,735 likes - 85 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 17 | [Mukutu](https://open.spotify.com/track/71d4wliLLDL2fhUcwalp11) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Mukutu](https://open.spotify.com/album/4Q2pEBNlOZAhdIDdtOZI2Z) | 2:35 |
 | 18 | [Hallelujah](https://open.spotify.com/track/3G2kltZAM8iyrUSDGJj85M) | [Demmie Vee](https://open.spotify.com/artist/4GOAIksGygyVj3KxUPXMtq), [Damo K](https://open.spotify.com/artist/2EbTRZdju2hUrMqClX4wyO), [Tia](https://open.spotify.com/artist/3JAdD9AfJI9QymrEo49Qhp) | [Hallelujah](https://open.spotify.com/album/4D7ZvDZBApebTFd8BVrFtK) | 2:43 |
 | 19 | [See Me See God \(SMSG\)](https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar Vol\. 1](https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA) | 3:12 |
-| 20 | [Applaudize](https://open.spotify.com/track/1x4FtaeuGzzpIqLePqPYv8) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Applaudize](https://open.spotify.com/album/6CEzk5u4GMv8E9J0x5qclR) | 2:29 |
+| 20 | [Applaudize \(Father's Song\)](https://open.spotify.com/track/1x4FtaeuGzzpIqLePqPYv8) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Applaudize \(Father's Song\)](https://open.spotify.com/album/6CEzk5u4GMv8E9J0x5qclR) | 2:29 |
 | 21 | [Till Thy Kingdom Come](https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Till Thy Kingdom Come](https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO) | 2:29 |
 | 22 | [Where I’m from](https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Timileyin 2.0](https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a) | 2:39 |
 | 23 | [EGBAMI](https://open.spotify.com/track/3mq3HujlffiS5jDqmHec5N) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [EGBAMI](https://open.spotify.com/album/1evrYcNjwbTlrNCbmfPgpW) | 2:03 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 84 | [Look To You \(feat\. Llona\)](https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:00 |
 | 85 | [AMERICA](https://open.spotify.com/track/5CFz4grlqiE2TtrfFWKY2R) | [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [AMERICA](https://open.spotify.com/album/4CA1o2nf4CPm4yyyNkfp95) | 3:32 |
 
-Snapshot ID: `aEuW9wAAAAAwnRw/ev0OIq40iBUohiwF`
+Snapshot ID: `AAAAAJLm7D7ea3HCymvJS/i2FnpzUI1b`

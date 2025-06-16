@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,463 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,550 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 21 | [Gangsta's Paradise](https://open.spotify.com/track/0LrL7mzCA0iOYGKl12OxvF) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o), [Bladdy\-T](https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc) | [Gangsta's Paradise](https://open.spotify.com/album/38FYUgLqzuJH0gUUpy29zx) | 3:17 |
 | 22 | [Ni\*\*as in Paris \- HEDEGAARD & Matt Hawk Remix](https://open.spotify.com/track/5MnY5YCv552pFeSwNdCqZw) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [Ni\*\*as in Paris \(HEDEGAARD & Matt Hawk Remix\)](https://open.spotify.com/album/6oazaMjIfrJiNU2HLKtqzs) | 4:06 |
 | 23 | [Sztoj Pa Moru](https://open.spotify.com/track/3BHe1jnaW3hocrfMqytTP2) | [BROHM](https://open.spotify.com/artist/33cjmfhkyHbulkQwkuxe3i), [Thingstad](https://open.spotify.com/artist/4nl0BnCSRpuneTf0d7fV3G) | [Sztoj Pa Moru](https://open.spotify.com/album/6jqIGpQn1A00DdYut4vCNs) | 2:18 |
-| 24 | [G.M.S.L.B](https://open.spotify.com/track/45Xx8ugh2uRTy4wahb7ZzC) | [FRHAD](https://open.spotify.com/artist/0418xhpb0MLi9OfTGiTRas) | [G.M.S.L.B](https://open.spotify.com/album/0PWY1VO9dCKK0nEHH3xNAm) | 2:07 |
-| 25 | [Balenciaga](https://open.spotify.com/track/3Wn2LERRfDw8N6CAi1auJZ) | [Ozlig](https://open.spotify.com/artist/0DsznjV8aaiEYdTDHmy86L) | [Balenciaga](https://open.spotify.com/album/5nWn90op5We3SUN8Jeuy8q) | 2:31 |
+| 24 | [Balenciaga](https://open.spotify.com/track/3Wn2LERRfDw8N6CAi1auJZ) | [Ozlig](https://open.spotify.com/artist/0DsznjV8aaiEYdTDHmy86L) | [Balenciaga](https://open.spotify.com/album/5nWn90op5We3SUN8Jeuy8q) | 2:31 |
+| 25 | [G.M.S.L.B](https://open.spotify.com/track/45Xx8ugh2uRTy4wahb7ZzC) | [FRHAD](https://open.spotify.com/artist/0418xhpb0MLi9OfTGiTRas) | [G.M.S.L.B](https://open.spotify.com/album/0PWY1VO9dCKK0nEHH3xNAm) | 2:07 |
 | 26 | [Spaceship](https://open.spotify.com/track/7GWXjklWJA0kjWWf9sNw1k) | [OLZXVS](https://open.spotify.com/artist/1tqvR13suC3SB24Ngd0zVI) | [Spaceship](https://open.spotify.com/album/6s22PosumlZIKoqu2pjyzy) | 2:54 |
 | 27 | [Tricky Trippy](https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu) | [Demeter](https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz) | [Tricky Trippy](https://open.spotify.com/album/4dWjIRpYaCY3G0t52azdR5) | 2:58 |
 | 28 | [Ethnic](https://open.spotify.com/track/5j5dVqtX2YESmIy5T45EHq) | [SINDICVT](https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf) | [Ethnic](https://open.spotify.com/album/1OElQtPbcZZYj9NN5gphXj) | 3:37 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 43 | [Yeah!](https://open.spotify.com/track/2MZkILMJHm0p4JTY2qbUJW) | [Panzer](https://open.spotify.com/artist/3CCPoNaYvH1LPFSBbRGdrl), [HVZVRD](https://open.spotify.com/artist/0TBbjAcKVKKc8QwMoHPI9f), [azZza](https://open.spotify.com/artist/4NSf7ko5N1o44cBzWGoVCP) | [Yeah!](https://open.spotify.com/album/7BCbDhUmjXcQDPn2SAilwu) | 2:33 |
 | 44 | [Go Away](https://open.spotify.com/track/1U6rcpjOhEDWTMRMamZkQ1) | [Alieff Green](https://open.spotify.com/artist/75mrERnQpiYVQ0yg7ObPLe), [Rio Bakoo](https://open.spotify.com/artist/0baOAtqOc46DHJmE2v4w1c) | [Go Away](https://open.spotify.com/album/04ATbfkuAkKlxYv9mirGHr) | 2:57 |
 | 45 | [Night Tales](https://open.spotify.com/track/2Xc6xRbyiBpVCgShumtXpV) | [TBT Prod.](https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM), [WONGA](https://open.spotify.com/artist/4xq4vuvsEgo8UzaAn8HlIY) | [Night Tales](https://open.spotify.com/album/0ByvoTP8BJwZG3P09gaKMO) | 2:34 |
-| 46 | [Slow Down](https://open.spotify.com/track/09rtoOBDXlydwVQ90ITHnW) | [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu), [Bladdy\-T](https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc) | [Slow Down](https://open.spotify.com/album/5HgyUvnPlzOyyPLR2gpufN) | 2:16 |
-| 47 | [Ha Mer](https://open.spotify.com/track/20R6MFfByX8wWVoZKEQRq8) | [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [ZL](https://open.spotify.com/artist/4w8PGLhS3yzYSzeV3x2hkA) | [Ha Mer](https://open.spotify.com/album/68dGOUeCx4bW8xgB0d09to) | 2:12 |
+| 46 | [Ha Mer](https://open.spotify.com/track/20R6MFfByX8wWVoZKEQRq8) | [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [ZL](https://open.spotify.com/artist/4w8PGLhS3yzYSzeV3x2hkA) | [Ha Mer](https://open.spotify.com/album/68dGOUeCx4bW8xgB0d09to) | 2:12 |
+| 47 | [Slow Down](https://open.spotify.com/track/09rtoOBDXlydwVQ90ITHnW) | [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu), [Bladdy\-T](https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc) | [Slow Down](https://open.spotify.com/album/5HgyUvnPlzOyyPLR2gpufN) | 2:16 |
 | 48 | [BACK](https://open.spotify.com/track/2EatWIkFOkO7hOBhONxhfX) | [WYR GEMI](https://open.spotify.com/artist/3Qubu5zXcOh0EIb2bDwMdB) | [BACK](https://open.spotify.com/album/56QofpWRkpb3rtxLA3PUFr) | 2:29 |
 | 49 | [S.O.M.F](https://open.spotify.com/track/3ZtfHJwLo5cww3sRc5IqrW) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [S.O.M.F](https://open.spotify.com/album/7cw43EzYeT0OOAkNq4NEyb) | 2:30 |
 | 50 | [Fighters](https://open.spotify.com/track/1kyGkFDLQcO5umN5HlDsEy) | [TBT Prod.](https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM), [ALan](https://open.spotify.com/artist/4nDKlmTjgg1o8PriTk0Wma) | [Fighters](https://open.spotify.com/album/4VIp4Tc0UF3HpKMEl1loGz) | 2:29 |

@@ -1,13 +1,33 @@
 {
   "description": "All songs made for furs, by furs.  Check top 25 @ spotify.furrest.net",
-  "num_followers": 591,
+  "num_followers": 594,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADneA2fVfjfYo4Y2IjF3JSBTJffZKA",
+  "snapshot_id": "AAADnhGYTEab3RB4PuSl6K0QqeY+vW9x",
   "tracks": [
+    {
+      "added_at": "2025-06-16 02:33:42",
+      "album": {
+        "name": "ALL BITE NO BARK!",
+        "url": "https://open.spotify.com/album/3ceTSOBLg0uUYR5J9kNats"
+      },
+      "artists": [
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        },
+        {
+          "name": "Dea_Pressed",
+          "url": "https://open.spotify.com/artist/5IHmBy1wo43rPzugHhEfWK"
+        }
+      ],
+      "duration_ms": 99455,
+      "name": "ALL BITE NO BARK!",
+      "url": "https://open.spotify.com/track/0OLeL1tpL4vAvj7kUuzAgv"
+    },
     {
       "added_at": "2025-06-13 17:09:28",
       "album": {

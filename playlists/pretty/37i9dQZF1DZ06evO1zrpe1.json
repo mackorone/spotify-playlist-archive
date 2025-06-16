@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAADe8iFHCZwjKLbYHWipSz0W",
+  "snapshot_id": "aEy7gAAAAABZ+d5t0s3bUa+JPytfcUq+",
   "tracks": [
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+        "name": "Entre la Guerra y el Amor",
+        "url": "https://open.spotify.com/album/4dGWpZzWmzh35ofyU6GqzO"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 140662,
-      "name": "Pinocho",
-      "url": "https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L"
+      "duration_ms": 178826,
+      "name": "Entre la Guerra y el Amor",
+      "url": "https://open.spotify.com/track/1EV0IQkQqklR3vPQhjW3cU"
     },
     {
       "added_at": null,
@@ -275,38 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre la Guerra y el Amor",
-        "url": "https://open.spotify.com/album/4dGWpZzWmzh35ofyU6GqzO"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 178826,
-      "name": "Entre la Guerra y el Amor",
-      "url": "https://open.spotify.com/track/1EV0IQkQqklR3vPQhjW3cU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Fuimos",
-        "url": "https://open.spotify.com/album/6rh0MIedi2ywwZ1HpVGCYE"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 166346,
-      "name": "No Fuimos",
-      "url": "https://open.spotify.com/track/4kGkxso0MzCbSYvVjZmCAx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Loter\u00eda",
         "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },
@@ -316,9 +284,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 152768,
-      "name": "Le Cale A Quien Le Cale",
-      "url": "https://open.spotify.com/track/3YqCO55lqjeSnF9WPWgRqd"
+      "duration_ms": 140662,
+      "name": "Pinocho",
+      "url": "https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L"
     },
     {
       "added_at": null,
@@ -343,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Fuimos",
+        "url": "https://open.spotify.com/album/6rh0MIedi2ywwZ1HpVGCYE"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 166346,
+      "name": "No Fuimos",
+      "url": "https://open.spotify.com/track/4kGkxso0MzCbSYvVjZmCAx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si Ya Sabemos",
         "url": "https://open.spotify.com/album/0DFY26ziXu4HvSIC3Mi3KS"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 216132,
       "name": "Si Ya Sabemos",
       "url": "https://open.spotify.com/track/4QLGl9Uknn2xmIH8589tqO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 152768,
+      "name": "Le Cale A Quien Le Cale",
+      "url": "https://open.spotify.com/track/3YqCO55lqjeSnF9WPWgRqd"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin \u00c9l",
-        "url": "https://open.spotify.com/album/5IXf6mhhYXL9Pv51E3DAMJ"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 193223,
-      "name": "Sin \u00c9l",
-      "url": "https://open.spotify.com/track/1zAV4lROpjgXQkqO1he6lI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Loter\u00eda",
         "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 200728,
       "name": "Yo soy Buena Mujer",
       "url": "https://open.spotify.com/track/5TPe8X3ngcYaglWrocitbz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin \u00c9l",
+        "url": "https://open.spotify.com/album/5IXf6mhhYXL9Pv51E3DAMJ"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 193223,
+      "name": "Sin \u00c9l",
+      "url": "https://open.spotify.com/track/1zAV4lROpjgXQkqO1he6lI"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Tanto Es Tantito?",
-        "url": "https://open.spotify.com/album/3PWvvcSA1xFwXwy8fyO83F"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 221554,
-      "name": "Qu\u00e9 Tanto Es Tantito?",
-      "url": "https://open.spotify.com/track/3XhWQiIm58FolG13hJyzVE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Loter\u00eda",
         "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },
@@ -539,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Azules Reflejos (En Vivo)",
-        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
+        "name": "Qu\u00e9 Tanto Es Tantito?",
+        "url": "https://open.spotify.com/album/3PWvvcSA1xFwXwy8fyO83F"
       },
       "artists": [
         {
@@ -548,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 207644,
-      "name": "Chapul\u00edn - En Vivo",
-      "url": "https://open.spotify.com/track/5zhcglne5hkFPmBGgaGV7R"
+      "duration_ms": 221554,
+      "name": "Qu\u00e9 Tanto Es Tantito?",
+      "url": "https://open.spotify.com/track/3XhWQiIm58FolG13hJyzVE"
     },
     {
       "added_at": null,
@@ -567,6 +551,22 @@
       "duration_ms": 254003,
       "name": "Lo Que No Me Gusta",
       "url": "https://open.spotify.com/track/2XTJsfeUb2fDqaXoKoqjFg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Azules Reflejos (En Vivo)",
+        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 207644,
+      "name": "Chapul\u00edn - En Vivo",
+      "url": "https://open.spotify.com/track/5zhcglne5hkFPmBGgaGV7R"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 191985,
+      "name": "Ojal\u00e1 que Quererte Bastara",
+      "url": "https://open.spotify.com/track/76VcLV0jBskhnoxWmbz7yI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Desde Tijuana",
         "url": "https://open.spotify.com/album/115RR5wcAhaupZF8E3mlM8"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 230230,
       "name": "Qu\u00e9 Me Vas A Dar Si Vuelvo",
       "url": "https://open.spotify.com/track/5zsTl6ShHa4JyvkJZeDM0L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 191985,
-      "name": "Ojal\u00e1 que Quererte Bastara",
-      "url": "https://open.spotify.com/track/76VcLV0jBskhnoxWmbz7yI"
     },
     {
       "added_at": null,

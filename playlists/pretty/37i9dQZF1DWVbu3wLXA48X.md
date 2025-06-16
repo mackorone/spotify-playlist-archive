@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Japanese Breakfast
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,116 likes - 63 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,118 likes - 63 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

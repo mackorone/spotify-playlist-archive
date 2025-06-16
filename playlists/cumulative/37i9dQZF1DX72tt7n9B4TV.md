@@ -4,7 +4,7 @@
 
 > TURNSTILE SUMMER
 
-402 songs - 22 hr 0 min
+403 songs - 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 | 2024-07-25 | 2025-05-02 |
 | [Making A Fire](https://open.spotify.com/track/2u8NmvhYX6wiviyxJTOhEi) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:15 | 2022-04-01 | 2023-06-03 |
 | [Man Made of Meat](https://open.spotify.com/track/5gR6gTGOGsg9zcR7JhvwQz) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys](https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB) | 3:09 | 2025-05-01 |  |
-| [March on for Pax Ramona](https://open.spotify.com/track/02EvfBHuBf5QmG6RdVzkih) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [March on for Pax Ramona](https://open.spotify.com/album/5sZfixhUM7Siag5o0cbmi0) | 4:33 | 2025-05-01 |  |
+| [March on for Pax Ramona](https://open.spotify.com/track/02EvfBHuBf5QmG6RdVzkih) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [March on for Pax Ramona](https://open.spotify.com/album/5sZfixhUM7Siag5o0cbmi0) | 4:33 | 2025-05-01 | 2025-06-16 |
 | [MEDZ](https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/6Xwq41gv27p5DPAqnoZmxQ) | 2:45 | 2024-07-25 | 2025-05-02 |
 | [Miracle Pill](https://open.spotify.com/track/7Az7CZGlPdRMq8E4rfOAS3) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Miracle Pill](https://open.spotify.com/album/6YkjHyoVbR8Qx9STl3veBl) | 3:17 | 2022-04-01 | 2024-06-01 |
 | [Mood Swings \- Spotify Singles](https://open.spotify.com/track/7lnDmOjAU6K1LjAxfSHa9n) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Spotify Singles](https://open.spotify.com/album/1C5fhhTePIQ3MVw1OZIGMc) | 2:33 | 2025-05-01 | 2025-06-14 |
@@ -335,6 +335,7 @@
 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 | 2025-05-01 |  |
 | [Summer Is a Curse](https://open.spotify.com/track/0cSNN4fgW1RFDQV58eVRKK) | [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [Summer Is a Curse](https://open.spotify.com/album/1yQQOHHAxZAc1sI5K4sHrJ) | 3:01 | 2022-04-01 | 2023-05-26 |
 | [Summer Never Dies](https://open.spotify.com/track/7ppyG40pUDh915fSp4qqBo) | [The Foxies](https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd) | [Summer Never Dies](https://open.spotify.com/album/6xy0ww0FjRTIVSxwOSrPid) | 3:01 | 2022-04-01 | 2022-12-16 |
+| [sundays](https://open.spotify.com/track/1Wvl7G2pzy53umhn3RC05u) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [sundays](https://open.spotify.com/album/5oIO3BuotbdFVpulc9NUDi) | 3:51 | 2025-06-13 |  |
 | [Supernatural](https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Supernatural](https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD) | 2:47 | 2023-03-17 | 2024-06-01 |
 | [Sympathy Boy](https://open.spotify.com/track/37IdryFx51R1HXHcllWFjg) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Sympathy Boy](https://open.spotify.com/album/7EqlppvyB40QLPYPuaiUMD) | 3:35 | 2022-04-01 | 2022-07-29 |
 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 | 2022-04-01 | 2024-06-01 |

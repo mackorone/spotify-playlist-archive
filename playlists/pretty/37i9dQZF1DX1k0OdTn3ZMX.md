@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with Nevertel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,302 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,342 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 74 | [Bomb.com](https://open.spotify.com/track/3LRfBx8Z1PMQEwlFIyeNAs) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Bomb.com](https://open.spotify.com/album/5pBDxsLn3W3V8ZAvt1QZ1m) | 2:30 |
 | 75 | [LOTUS](https://open.spotify.com/track/2rYj6DXSO7B0H7MajunV07) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [LOTUS](https://open.spotify.com/album/1xn196oTyd4kH1o2ZYZzPu) | 3:19 |
 
-Snapshot ID: `aEuiZgAAAACQ2IBdI7B6v4h5JMqUGj8v`
+Snapshot ID: `aEuiZgAAAAD3HA6mdm8rLsxo0yNvE+E3`

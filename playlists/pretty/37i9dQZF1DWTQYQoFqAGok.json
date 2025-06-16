@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 63298,
+  "num_followers": 63305,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Dilo! Homenaje a P\u00e9rez Prado",
+        "url": "https://open.spotify.com/album/5LVqYbgeGwuLsYu40x2QEY"
+      },
+      "artists": [
+        {
+          "name": "Los M\u00fasicos De Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4TmuqEtY8PysZouSgBKizd"
+        }
+      ],
+      "duration_ms": 195066,
+      "name": "Mambo en Sax",
+      "url": "https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Tino Contreras",
         "url": "https://open.spotify.com/album/1kyt03TDrHd4JPoBPjHMJ2"
       },
@@ -191,18 +207,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Dilo! Homenaje a P\u00e9rez Prado",
-        "url": "https://open.spotify.com/album/5LVqYbgeGwuLsYu40x2QEY"
+        "name": "Dream Maker (Guitar Smooth Jazz)",
+        "url": "https://open.spotify.com/album/3lU5UO8Orf9biP3BjftPWc"
       },
       "artists": [
         {
-          "name": "Los M\u00fasicos De Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4TmuqEtY8PysZouSgBKizd"
+          "name": "Cristobal Lopez",
+          "url": "https://open.spotify.com/artist/5NI5xhoDsyrbcnBYH6UNmI"
         }
       ],
-      "duration_ms": 195066,
-      "name": "Mambo en Sax",
-      "url": "https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj"
+      "duration_ms": 202826,
+      "name": "Susano's Calipso",
+      "url": "https://open.spotify.com/track/5qAQXLoUQrLpfyst5PNFnB"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -223,22 +239,6 @@
       "duration_ms": 270466,
       "name": "Los Peque\u00f1os Detalles",
       "url": "https://open.spotify.com/track/7JIuo1FbYeIdJlwXXztn01"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Dream Maker (Guitar Smooth Jazz)",
-        "url": "https://open.spotify.com/album/3lU5UO8Orf9biP3BjftPWc"
-      },
-      "artists": [
-        {
-          "name": "Cristobal Lopez",
-          "url": "https://open.spotify.com/artist/5NI5xhoDsyrbcnBYH6UNmI"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "Susano's Calipso",
-      "url": "https://open.spotify.com/track/5qAQXLoUQrLpfyst5PNFnB"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Funk da Power",
-        "url": "https://open.spotify.com/album/04THe7KJSRQ6zRh9idIg63"
-      },
-      "artists": [
-        {
-          "name": "Fiusha",
-          "url": "https://open.spotify.com/artist/0CwPHvEoMX4vMIARIu2WZk"
-        }
-      ],
-      "duration_ms": 316023,
-      "name": "Let It Play",
-      "url": "https://open.spotify.com/track/1Czyel4ty0L3Jhsw6jQTKl"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Mezcal",
         "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
       },
@@ -615,74 +599,6 @@
       "duration_ms": 393786,
       "name": "La Cigarra",
       "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Mi Sentimiento Guerrerense",
-        "url": "https://open.spotify.com/album/6035edQMGEkEvpgomvasDC"
-      },
-      "artists": [
-        {
-          "name": "Guerrero Jazz",
-          "url": "https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6"
-        }
-      ],
-      "duration_ms": 339280,
-      "name": "Por los Caminos del Sur",
-      "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Semillas De Copinol",
-        "url": "https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2"
-      },
-      "artists": [
-        {
-          "name": "Juanjo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/2xXOq35UCrY7y2IAx1P8fp"
-        },
-        {
-          "name": "Xuc Tr\u00edo",
-          "url": "https://open.spotify.com/artist/5eHROgXWpoOumSJvUs76Z9"
-        }
-      ],
-      "duration_ms": 352952,
-      "name": "En Cualquier Momento",
-      "url": "https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "KonFussion",
-        "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
-      },
-      "artists": [
-        {
-          "name": "Lalo Galv\u00e1n",
-          "url": "https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc"
-        }
-      ],
-      "duration_ms": 304213,
-      "name": "Nada Es Para Siempre",
-      "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
-    },
-    {
-      "added_at": "2024-08-29 03:09:23",
-      "album": {
-        "name": "Tlapaler\u00eda Don Chuy",
-        "url": "https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx"
-      },
-      "artists": [
-        {
-          "name": "Tlapaler\u00eda Don Chuy",
-          "url": "https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj"
-        }
-      ],
-      "duration_ms": 198083,
-      "name": "La Franca",
-      "url": "https://open.spotify.com/track/6FXwtco31vObUeG7Zxfolq"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -707,18 +623,86 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "So\u00f1e - Jazz Mexicano",
-        "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
+        "name": "Funk da Power",
+        "url": "https://open.spotify.com/album/04THe7KJSRQ6zRh9idIg63"
       },
       "artists": [
         {
-          "name": "Gerardo Batiz",
-          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
+          "name": "Fiusha",
+          "url": "https://open.spotify.com/artist/0CwPHvEoMX4vMIARIu2WZk"
         }
       ],
-      "duration_ms": 266866,
-      "name": "La Cocola",
-      "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
+      "duration_ms": 316023,
+      "name": "Let It Play",
+      "url": "https://open.spotify.com/track/1Czyel4ty0L3Jhsw6jQTKl"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "KonFussion",
+        "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
+      },
+      "artists": [
+        {
+          "name": "Lalo Galv\u00e1n",
+          "url": "https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc"
+        }
+      ],
+      "duration_ms": 304213,
+      "name": "Nada Es Para Siempre",
+      "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Mi Sentimiento Guerrerense",
+        "url": "https://open.spotify.com/album/6035edQMGEkEvpgomvasDC"
+      },
+      "artists": [
+        {
+          "name": "Guerrero Jazz",
+          "url": "https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6"
+        }
+      ],
+      "duration_ms": 339280,
+      "name": "Por los Caminos del Sur",
+      "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
+    },
+    {
+      "added_at": "2024-08-29 03:09:23",
+      "album": {
+        "name": "Tlapaler\u00eda Don Chuy",
+        "url": "https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx"
+      },
+      "artists": [
+        {
+          "name": "Tlapaler\u00eda Don Chuy",
+          "url": "https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj"
+        }
+      ],
+      "duration_ms": 198083,
+      "name": "La Franca",
+      "url": "https://open.spotify.com/track/6FXwtco31vObUeG7Zxfolq"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Semillas De Copinol",
+        "url": "https://open.spotify.com/album/07JoB7eh5xPrXyM1BWlov2"
+      },
+      "artists": [
+        {
+          "name": "Juanjo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/2xXOq35UCrY7y2IAx1P8fp"
+        },
+        {
+          "name": "Xuc Tr\u00edo",
+          "url": "https://open.spotify.com/artist/5eHROgXWpoOumSJvUs76Z9"
+        }
+      ],
+      "duration_ms": 352952,
+      "name": "En Cualquier Momento",
+      "url": "https://open.spotify.com/track/1f6XivE4RhqNR3EBLz1QU4"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -735,6 +719,22 @@
       "duration_ms": 285746,
       "name": "Ana's Song",
       "url": "https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "So\u00f1e - Jazz Mexicano",
+        "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Batiz",
+          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "La Cocola",
+      "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
     },
     {
       "added_at": "2023-04-13 19:45:15",

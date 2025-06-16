@@ -253,6 +253,28 @@
     },
     {
       "album": {
+        "name": "A Better World",
+        "url": "https://open.spotify.com/album/3hAcZ5awmnV1zc2P3WNSzr"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172606,
+      "name": "A Better World",
+      "url": "https://open.spotify.com/track/7tCXmtYrYNFWMa7vyQfuAI"
+    },
+    {
+      "album": {
         "name": "A Lovestory",
         "url": "https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT"
       },
@@ -2530,6 +2552,32 @@
       "duration_ms": 229997,
       "name": "Disease",
       "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
+    },
+    {
+      "album": {
+        "name": "Distant Strangers (feat. The Kid LAROI & Imogen Heap)",
+        "url": "https://open.spotify.com/album/1cwp5FEVGQaKoBV1WPbIdJ"
+      },
+      "artists": [
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        },
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Distant Strangers (feat. The Kid LAROI & Imogen Heap)",
+      "url": "https://open.spotify.com/track/7oa9VKcTKyWIYTnaz5V6xI"
     },
     {
       "album": {
@@ -5184,7 +5232,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 179157,
       "name": "Hvor Var Jeg Endt",
       "url": "https://open.spotify.com/track/1upFqX3mJflCB0QGJNJStY"
@@ -6780,7 +6828,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 177543,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/1GRwEsNUPJ8iTUyeYy0YQM"
@@ -8614,7 +8662,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 184346,
       "name": "Ryggen Mod Muren",
       "url": "https://open.spotify.com/track/5kCbaKeAqsStnSE4QXsvTo"
@@ -9780,6 +9828,28 @@
       "duration_ms": 202207,
       "name": "Surprise Party",
       "url": "https://open.spotify.com/track/2YXTDtcDhQUiszqGlrF1Iv"
+    },
+    {
+      "album": {
+        "name": "Suzanne",
+        "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235328,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1698711,
+  "num_followers": 1699041,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -1151,30 +1151,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Show Me Love (feat. Robin S)",
-        "url": "https://open.spotify.com/album/32SxAN231WZpNVzHaFZ9O2"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        },
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Robin S",
-          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
-        }
-      ],
-      "duration_ms": 185613,
-      "name": "Show Me Love (feat. Robin S) - Radio Edit",
-      "url": "https://open.spotify.com/track/5Nzph7bpgv2GNh2DcVX29T"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Behind",
         "url": "https://open.spotify.com/album/2ZbVWuSdf3uR01YlBSH06M"
       },
@@ -1239,6 +1215,30 @@
       "duration_ms": 171280,
       "name": "Make Your Move - Radio Edit",
       "url": "https://open.spotify.com/track/2Ug4PnkxcwkcL3fhM0B9Xe"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Show Me Love (feat. Robin S)",
+        "url": "https://open.spotify.com/album/32SxAN231WZpNVzHaFZ9O2"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        }
+      ],
+      "duration_ms": 185613,
+      "name": "Show Me Love (feat. Robin S) - Radio Edit",
+      "url": "https://open.spotify.com/track/5Nzph7bpgv2GNh2DcVX29T"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Cry for You",
-        "url": "https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD"
-      },
-      "artists": [
-        {
-          "name": "September",
-          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Cry for You",
-      "url": "https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 443426,
       "name": "Adagio For Strings",
       "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Cry for You",
+        "url": "https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD"
+      },
+      "artists": [
+        {
+          "name": "September",
+          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Cry for You",
+      "url": "https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Pacha Ibiza - The House Collection (2000-2009)",
         "url": "https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 281516,
       "name": "Day 'N' Night - Club Mix",
       "url": "https://open.spotify.com/track/5BsRZqHI8oLMc1YKsHtauE"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1715,6 +1715,46 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
+        "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
+      },
+      "artists": [
+        {
+          "name": "Freemasons",
+          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
+        },
+        {
+          "name": "Wynter Gordon",
+          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
+        }
+      ],
+      "duration_ms": 189388,
+      "name": "Believer (feat. Wynter Gordon) - Radio Edit",
+      "url": "https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "BT",
+          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
+        }
+      ],
+      "duration_ms": 489373,
+      "name": "Love Comes Again",
+      "url": "https://open.spotify.com/track/4D869p0uPTcU4e1ClLB8Kj"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Deep Inside (2009 Mixes)",
         "url": "https://open.spotify.com/album/7I6sfxjett2TI6lJF75gJI"
       },
@@ -1747,22 +1787,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 562573,
-      "name": "A Tear In The Open",
-      "url": "https://open.spotify.com/track/2ECwcDngvqCBpLuQNyOZop"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "The Longest Road",
         "url": "https://open.spotify.com/album/3gAWkt3YKBDuaGWZdV46bt"
       },
@@ -1783,26 +1807,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
-        "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
-      },
-      "artists": [
-        {
-          "name": "Freemasons",
-          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
-        },
-        {
-          "name": "Wynter Gordon",
-          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
-        }
-      ],
-      "duration_ms": 189388,
-      "name": "Believer (feat. Wynter Gordon) - Radio Edit",
-      "url": "https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Back 2 House",
         "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
       },
@@ -1819,6 +1823,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 562573,
+      "name": "A Tear In The Open",
+      "url": "https://open.spotify.com/track/2ECwcDngvqCBpLuQNyOZop"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Release Me",
         "url": "https://open.spotify.com/album/3cFLgIF55Q6vG7eSInoH8b"
       },
@@ -1831,26 +1851,6 @@
       "duration_ms": 254120,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/0EMyqiMNDRptenOpbe2mcK"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "BT",
-          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
-        }
-      ],
-      "duration_ms": 489373,
-      "name": "Love Comes Again",
-      "url": "https://open.spotify.com/track/4D869p0uPTcU4e1ClLB8Kj"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/2mRezrqtiSjOdo902xAzyJ"
+      },
+      "artists": [
+        {
+          "name": "Lasgo",
+          "url": "https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Gone - Radio Edit",
+      "url": "https://open.spotify.com/track/7okxXBe93gMNiXqOd6cCdU"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Fight For You",
         "url": "https://open.spotify.com/album/3Lh1osrbEC5fPycPBhoVO1"
       },
@@ -1911,26 +1927,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Floorfillers Club Anthems",
-        "url": "https://open.spotify.com/album/7DL594iAHi5xd9zCayZbzE"
-      },
-      "artists": [
-        {
-          "name": "Axwell",
-          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
-        },
-        {
-          "name": "Max C",
-          "url": "https://open.spotify.com/artist/5U1SD4dkb35G7e1JVdqkWJ"
-        }
-      ],
-      "duration_ms": 171430,
-      "name": "I Found U - Radio Edit",
-      "url": "https://open.spotify.com/track/1OLNYVZejaOmBJ7ykGnyoG"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Elements of Life",
         "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
       },
@@ -1951,18 +1947,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/2mRezrqtiSjOdo902xAzyJ"
+        "name": "Floorfillers Club Anthems",
+        "url": "https://open.spotify.com/album/7DL594iAHi5xd9zCayZbzE"
       },
       "artists": [
         {
-          "name": "Lasgo",
-          "url": "https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp"
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "Max C",
+          "url": "https://open.spotify.com/artist/5U1SD4dkb35G7e1JVdqkWJ"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Gone - Radio Edit",
-      "url": "https://open.spotify.com/track/7okxXBe93gMNiXqOd6cCdU"
+      "duration_ms": 171430,
+      "name": "I Found U - Radio Edit",
+      "url": "https://open.spotify.com/track/1OLNYVZejaOmBJ7ykGnyoG"
     },
     {
       "added_at": "2024-07-12 15:40:20",

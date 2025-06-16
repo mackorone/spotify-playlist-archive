@@ -4,7 +4,7 @@
 
 > aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Grupo Menos É Mais, Simone Mendes
 
-452 songs - 21 hr 36 min
+453 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Calma Vai Devagar \(Feat\. Dj JR FELIX, DJ Yuri Chagas\)](https://open.spotify.com/track/1ewBd65QHljy6vRabdxjt1) | [Gilberto Vasconcelos](https://open.spotify.com/artist/7fmjbzBCbHyDrx8EmpgDOY), [MC Marsha](https://open.spotify.com/artist/6jlX5Md4XM8Qpz86CRnwxP), [DJ Yuri Chagas](https://open.spotify.com/artist/57ViLnr0EklP5uxd2Hd67c), [Dj JR FELIX](https://open.spotify.com/artist/0XGdltjBN4NhpM6TMyFu3G), [sim](https://open.spotify.com/artist/4jHW7pd30NKgVN7GFtRTQr) | [Calma Vai Devagar](https://open.spotify.com/album/59jmPN9aIqUNqCB0QbFG5V) | 1:58 | 2023-09-13 | 2023-10-28 |
 | [Cama Embrasa](https://open.spotify.com/track/6p6ohOKSzL4JaIRzSeOmWx) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Cama Embrasa](https://open.spotify.com/album/4AhQtALj74gYj252jZGkwI) | 2:58 | 2023-05-16 | 2024-01-20 |
 | [Cama Repetida](https://open.spotify.com/track/0wuj2T6IZtotux1Jjluo7m) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Sofrência Ou Fuleragem? \(Ao Vivo / Parte 2\)](https://open.spotify.com/album/54W7v0wwVhbrc4HfwtsutS) | 2:51 | 2023-11-17 | 2024-12-27 |
+| [Caminhão De Frete \- Ao Vivo](https://open.spotify.com/track/6rquG5U7wPL4WWxc2kJn7c) | [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [Grelo \(Ao Vivo Em Salvador\)](https://open.spotify.com/album/7iAXtXMxTo0PdyWETShXhc) | 3:24 | 2025-06-13 |  |
 | [Campo De Morango](https://open.spotify.com/track/4T88uzmAghjSBhABSz7jcB) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Campo De Morango](https://open.spotify.com/album/4HsyzmEw3gKCS1fFfHjccT) | 1:16 | 2023-08-16 | 2023-09-09 |
 | [Canudinho \- Ao Vivo](https://open.spotify.com/track/6AENBD8I0mDGglFqrRZGu7) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Canudinho \(Ao Vivo\)](https://open.spotify.com/album/1w5McUqm1LoGFBynpndS6x) | 2:04 | 2023-10-23 | 2024-06-01 |
 | [Capricorniana](https://open.spotify.com/track/6l1U4fX41XmzZfi67q9i8X) | [Mc Lzyn](https://open.spotify.com/artist/4CjwZ3c0XNrtf2JkXV0Ss6), [DJ DuBom](https://open.spotify.com/artist/7wQO16n82QaPAnxFkAGIFt) | [Capricorniana](https://open.spotify.com/album/3exXrNMJ6fvuLZyTZcnwb1) | 2:50 | 2023-05-15 | 2023-05-30 |
@@ -389,7 +390,7 @@
 | [Sou Musa do Verão](https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Sugar Papi](https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH) | 3:07 | 2023-11-27 | 2024-02-10 |
 | [Sua Preferida](https://open.spotify.com/track/0bREVcSAxXl3WgWsxzjJT1) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Sua Preferida](https://open.spotify.com/album/4RQvTnJzJbkK0nz6AMKE5O) | 2:31 | 2024-11-08 | 2025-02-25 |
 | [Surra De Toma \- Ao Vivo](https://open.spotify.com/track/3lzZ8IKfeyefBvv7qVbUmR) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Tem paGGodeiro aí? \(\#sónostalgia\) \[Ao Vivo\]](https://open.spotify.com/album/12rouM3CKMKqJAorMwbaxO) | 2:14 | 2025-01-10 |  |
-| [Surto Coletivo \- Ao Vivo](https://open.spotify.com/track/4BJnnK4LPHhNK2TqwC6s99) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Tem paGGodeiro aí? \(\#sónostalgia\) \[Ao Vivo\]](https://open.spotify.com/album/12rouM3CKMKqJAorMwbaxO) | 3:10 | 2024-12-20 |  |
+| [Surto Coletivo \- Ao Vivo](https://open.spotify.com/track/4BJnnK4LPHhNK2TqwC6s99) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Tem paGGodeiro aí? \(\#sónostalgia\) \[Ao Vivo\]](https://open.spotify.com/album/12rouM3CKMKqJAorMwbaxO) | 3:10 | 2024-12-20 | 2025-06-16 |
 | [São Amores](https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 2:55 | 2024-07-23 | 2025-05-04 |
 | [São João Chegou](https://open.spotify.com/track/6sZYCAvTEYjTtQ9Tt5ACbX) | [Renanzin Pressão](https://open.spotify.com/artist/0L7NGVE2t7zDGOL3x53Axo) | [São João Chegou](https://open.spotify.com/album/2mRd5JYntGJebVPtg7l3mu) | 1:54 | 2023-05-15 | 2023-10-24 |
 | [Só Fé](https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1) | [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [É o Grelo](https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN) | 3:23 | 2024-08-12 | 2025-02-01 |

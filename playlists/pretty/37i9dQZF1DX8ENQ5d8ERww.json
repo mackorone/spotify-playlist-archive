@@ -1,6 +1,6 @@
 {
   "description": "Die Klassiker des Schweizer Hip-Hop.",
-  "num_followers": 12734,
+  "num_followers": 12737,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,26 @@
     {
       "added_at": "2024-12-09 12:11:25",
       "album": {
+        "name": "Picasso",
+        "url": "https://open.spotify.com/album/15CdVyhICOqQrPprJEh7v2"
+      },
+      "artists": [
+        {
+          "name": "Knackeboul",
+          "url": "https://open.spotify.com/artist/5bp4bA5lgte1Iag0omrGYw"
+        },
+        {
+          "name": "Polo Hofer",
+          "url": "https://open.spotify.com/artist/5J0q4JXRlR7EjwTU8gThxF"
+        }
+      ],
+      "duration_ms": 170026,
+      "name": "Weisch Du no?",
+      "url": "https://open.spotify.com/track/23Sd2rLCLz1Bd9BHbZb9iQ"
+    },
+    {
+      "added_at": "2024-12-09 12:11:25",
+      "album": {
         "name": "Discochugle",
         "url": "https://open.spotify.com/album/2kOnkk5f7NHrXDZT0CQHjK"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 273005,
       "name": "Du Hesch Ke",
       "url": "https://open.spotify.com/track/6uUqFin8qIVVTP8ch9MMmW"
-    },
-    {
-      "added_at": "2024-12-09 12:11:25",
-      "album": {
-        "name": "Picasso",
-        "url": "https://open.spotify.com/album/15CdVyhICOqQrPprJEh7v2"
-      },
-      "artists": [
-        {
-          "name": "Knackeboul",
-          "url": "https://open.spotify.com/artist/5bp4bA5lgte1Iag0omrGYw"
-        },
-        {
-          "name": "Polo Hofer",
-          "url": "https://open.spotify.com/artist/5J0q4JXRlR7EjwTU8gThxF"
-        }
-      ],
-      "duration_ms": 170026,
-      "name": "Weisch Du no?",
-      "url": "https://open.spotify.com/track/23Sd2rLCLz1Bd9BHbZb9iQ"
     },
     {
       "added_at": "2024-12-09 12:11:25",

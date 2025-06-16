@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : TheFrenchKris
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,693 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,691 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Sunlight](https://open.spotify.com/track/6kkBXPMpoQPFQ6SrgSQ7IK) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [Sunlight](https://open.spotify.com/album/0J4ZjIpLALO2xXcyUBxI6G) | 2:51 |
 | 50 | [Juste toi et moi](https://open.spotify.com/track/2LsigtUd0PhjrtVIibZOQB) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Juste toi et moi](https://open.spotify.com/album/4UzT23o7A0FSi1rwsplBkW) | 2:55 |
 
-Snapshot ID: `AAAAABMvQ/l3OB51GExLVOHx+Jlcpfi/`
+Snapshot ID: `aEtOCwAAAADNoUW3QbxSfNEhaDlxDCu5`

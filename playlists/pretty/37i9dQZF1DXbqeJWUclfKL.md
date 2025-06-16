@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqeJWUclfKL.md) - [plain]
 
 > Classic love story? Enemies to lovers? Or something more..\. complicated? Spend Cupid’s holiday with romance anime tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,153 likes - 36 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,150 likes - 36 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqeJWUclfKL.md) - [plain]
 | 35 | [rose](https://open.spotify.com/track/1aXkCl0ABWivQBPjvLXbLA) | [Anna Tsuchiya](https://open.spotify.com/artist/1XTqQwcJw9D1bo0cuO8Oq2) | [ANNA TSUCHIYA inspi' NANA\(BLACK STONES\)](https://open.spotify.com/album/09TWKejidEhOAcb70umIJS) | 3:46 |
 | 36 | [ベビーローテンション \- TV Size](https://open.spotify.com/track/6ZgJvBtRKcQKsD6qePm0dd) | [meg rock](https://open.spotify.com/artist/3n7opYDMm0iHGekqc3Acvq) | [TVアニメ『ピーチガール』オリジナルサウンドトラック](https://open.spotify.com/album/57o2soQCiUq80Ar7rrZc9z) | 1:32 |
 
-Snapshot ID: `Z6oijgAAAACuG55dBojiVfvXVhRulpwF`
+Snapshot ID: `AAAAAJ89aX0RkSHjCTYvg8dITkXx8tFu`

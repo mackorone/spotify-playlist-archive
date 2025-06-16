@@ -121,6 +121,28 @@
     },
     {
       "album": {
+        "name": "ALL BITE NO BARK!",
+        "url": "https://open.spotify.com/album/3ceTSOBLg0uUYR5J9kNats"
+      },
+      "artists": [
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        },
+        {
+          "name": "Dea_Pressed",
+          "url": "https://open.spotify.com/artist/5IHmBy1wo43rPzugHhEfWK"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99455,
+      "name": "ALL BITE NO BARK!",
+      "url": "https://open.spotify.com/track/0OLeL1tpL4vAvj7kUuzAgv"
+    },
+    {
+      "album": {
         "name": "ALL MY FELLAS",
         "url": "https://open.spotify.com/album/7eLQnewAuacJFug06cN6Er"
       },

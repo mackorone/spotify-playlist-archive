@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Smerz
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,268 likes - 114 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,400 likes - 114 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

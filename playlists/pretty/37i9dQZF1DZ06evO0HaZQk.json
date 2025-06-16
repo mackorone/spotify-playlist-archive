@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 518245,
+  "num_followers": 518291,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAA8U6kxT/i+5ogaZ/el425R",
+  "snapshot_id": "aEy7gAAAAAAUdMt2G8qofPLcdf8w95dT",
   "tracks": [
     {
       "added_at": null,
@@ -823,38 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 233800,
-      "name": "Mi manera de querer",
-      "url": "https://open.spotify.com/track/2rT9arG3oKOPquWNik5l73"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cancionera",
-        "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 385816,
-      "name": "Mascaritas de Cristal",
-      "url": "https://open.spotify.com/track/7wXNrDKCtYQGqtw1GFptJ0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Show",
         "url": "https://open.spotify.com/album/7Ch5rxzw3crO3zrQJ0CBqc"
       },
@@ -875,6 +843,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cancionera",
+        "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 385816,
+      "name": "Mascaritas de Cristal",
+      "url": "https://open.spotify.com/track/7wXNrDKCtYQGqtw1GFptJ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 233800,
+      "name": "Mi manera de querer",
+      "url": "https://open.spotify.com/track/2rT9arG3oKOPquWNik5l73"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En el 2000",
         "url": "https://open.spotify.com/album/5C2bUVAqDyZOm63TxgGsJU"
       },
@@ -891,18 +891,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+        "name": "Ca\u00f3tica Belleza",
+        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
       "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
         {
           "name": "Natalia Lafourcade",
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 322013,
-      "name": "De todas las flores",
-      "url": "https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU"
+      "duration_ms": 237880,
+      "name": "Ca\u00f3tica Belleza",
+      "url": "https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1"
     },
     {
       "added_at": null,
@@ -927,22 +931,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ca\u00f3tica Belleza",
-        "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
       },
       "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
         {
           "name": "Natalia Lafourcade",
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 237880,
-      "name": "Ca\u00f3tica Belleza",
-      "url": "https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1"
+      "duration_ms": 322013,
+      "name": "De todas las flores",
+      "url": "https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU"
     }
   ],
   "unique_name": "This Is Natalia Lafourcade",

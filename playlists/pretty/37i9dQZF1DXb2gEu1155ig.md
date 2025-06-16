@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2gEu1155ig.md) - [plain]
 
 > Canciones tropicales que te transportan a Caleta y Caletilla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,417 likes - 174 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,442 likes - 174 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2gEu1155ig.md) - [plain]
 | 173 | [Un Amor Como El Mío](https://open.spotify.com/track/6QctybFvIasVMqsdOa9EEQ) | [Grupo Flash](https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK) | [Relámpago De Corazón](https://open.spotify.com/album/4tZj0CXIlo06ypTyAG1Xpl) | 3:10 |
 | 174 | [Volvere](https://open.spotify.com/track/53RPrPo2LlWeSo657i0W09) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Quiereme](https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6) | 3:29 |
 
-Snapshot ID: `ZzJXxQAAAACbAfcWH38LjF5dcY7oWRMr`
+Snapshot ID: `ZzJXxQAAAACCTHrDmqoWBPnbhyhaCOht`

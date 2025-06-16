@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Kl\u00f4 Pelgag",
-  "num_followers": 45148,
+  "num_followers": 45152,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -547,26 +547,6 @@
     {
       "added_at": "2025-06-13 04:00:40",
       "album": {
-        "name": "TOUT DROIT",
-        "url": "https://open.spotify.com/album/4d7sU643kUdpmolO1M7bRF"
-      },
-      "artists": [
-        {
-          "name": "Niaks",
-          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
-        },
-        {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "ON FAIT LES CHOSES",
-      "url": "https://open.spotify.com/track/2nZjmURwYf4eSsfkmFB4co"
-    },
-    {
-      "added_at": "2025-06-13 04:00:40",
-      "album": {
         "name": "J'ai ce qu'il faut",
         "url": "https://open.spotify.com/album/19tjQ0TPFX7z1h6eKM6qre"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 201786,
       "name": "J'ai ce qu'il faut",
       "url": "https://open.spotify.com/track/5Z15WSSa7fvaPJZRI4OgDS"
+    },
+    {
+      "added_at": "2025-06-13 04:00:40",
+      "album": {
+        "name": "TOUT DROIT",
+        "url": "https://open.spotify.com/album/4d7sU643kUdpmolO1M7bRF"
+      },
+      "artists": [
+        {
+          "name": "Niaks",
+          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
+        },
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "ON FAIT LES CHOSES",
+      "url": "https://open.spotify.com/track/2nZjmURwYf4eSsfkmFB4co"
     },
     {
       "added_at": "2025-06-13 04:00:40",
@@ -631,6 +631,22 @@
     {
       "added_at": "2025-06-13 04:00:40",
       "album": {
+        "name": "COM\u00c8TE",
+        "url": "https://open.spotify.com/album/2zQQAxnFJsYXAIP23v516s"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "COM\u00c8TE",
+      "url": "https://open.spotify.com/track/4PsXJ6y2MN1zSqdDV4XJbX"
+    },
+    {
+      "added_at": "2025-06-13 04:00:40",
+      "album": {
         "name": "PANDEMONIUM",
         "url": "https://open.spotify.com/album/5HATOAKIjRUr7vpZTF91YM"
       },
@@ -643,6 +659,22 @@
       "duration_ms": 260252,
       "name": "DIEU MERCI",
       "url": "https://open.spotify.com/track/3BgCXkXF6K6pwi9RZrzPDp"
+    },
+    {
+      "added_at": "2025-06-13 04:00:40",
+      "album": {
+        "name": "Feel Good (Version Acoustique)",
+        "url": "https://open.spotify.com/album/5t1ClJpWR3OqXO3hxG7oBz"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 149896,
+      "name": "Feel Good - Version Acoustique",
+      "url": "https://open.spotify.com/track/2lmYsDvV8grxCcZ2FNi7Wt"
     },
     {
       "added_at": "2025-06-13 04:00:40",
@@ -679,22 +711,6 @@
       "duration_ms": 201933,
       "name": "Ma Meilleure Ennemie ft. Coldplay (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2FGPKZ6c4b0isCFyxLGiqv"
-    },
-    {
-      "added_at": "2025-06-13 04:00:40",
-      "album": {
-        "name": "Feel Good (Version Acoustique)",
-        "url": "https://open.spotify.com/album/5t1ClJpWR3OqXO3hxG7oBz"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 149896,
-      "name": "Feel Good - Version Acoustique",
-      "url": "https://open.spotify.com/track/2lmYsDvV8grxCcZ2FNi7Wt"
     },
     {
       "added_at": "2025-06-13 04:00:40",
@@ -767,22 +783,26 @@
     {
       "added_at": "2025-06-13 04:00:40",
       "album": {
-        "name": "LA MEILLEURE",
-        "url": "https://open.spotify.com/album/2xEKZQHGihbX8MY1kfJARS"
+        "name": "La G World, Pt.1",
+        "url": "https://open.spotify.com/album/1WedA6VtCNpsTI3LYGOA9q"
       },
       "artists": [
         {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+          "name": "GAULOIS",
+          "url": "https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT"
         },
         {
-          "name": "Kalash",
-          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
         }
       ],
-      "duration_ms": 129130,
-      "name": "LA MEILLEURE",
-      "url": "https://open.spotify.com/track/4zoWirwGFfX4Jj9n4mmUg0"
+      "duration_ms": 247864,
+      "name": "VIDA (feat. Ninho & Morad)",
+      "url": "https://open.spotify.com/track/1zfBApK5OdvVU9t1tFZ8uG"
     },
     {
       "added_at": "2025-06-13 04:00:40",
@@ -803,18 +823,22 @@
     {
       "added_at": "2025-06-13 04:00:40",
       "album": {
-        "name": "B\u00eatise",
-        "url": "https://open.spotify.com/album/7qa5bQNZ7lfxPJwRY82D0Y"
+        "name": "LA MEILLEURE",
+        "url": "https://open.spotify.com/album/2xEKZQHGihbX8MY1kfJARS"
       },
       "artists": [
         {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        },
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
         }
       ],
-      "duration_ms": 165253,
-      "name": "B\u00eatise",
-      "url": "https://open.spotify.com/track/4s95iMSAxoMLN0PUpJ2I2L"
+      "duration_ms": 129130,
+      "name": "LA MEILLEURE",
+      "url": "https://open.spotify.com/track/4zoWirwGFfX4Jj9n4mmUg0"
     },
     {
       "added_at": "2025-06-13 04:00:40",
@@ -835,6 +859,22 @@
       "duration_ms": 178632,
       "name": "Try Try Try - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0frABA1e4eX0HKmEFxtkEC"
+    },
+    {
+      "added_at": "2025-06-13 04:00:40",
+      "album": {
+        "name": "B\u00eatise",
+        "url": "https://open.spotify.com/album/7qa5bQNZ7lfxPJwRY82D0Y"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 165253,
+      "name": "B\u00eatise",
+      "url": "https://open.spotify.com/track/4s95iMSAxoMLN0PUpJ2I2L"
     },
     {
       "added_at": "2025-06-13 04:00:40",
@@ -883,38 +923,6 @@
       "duration_ms": 169842,
       "name": "Tant qu'on est toi et moi",
       "url": "https://open.spotify.com/track/4BalTIdao8I2XZzbMIMJDg"
-    },
-    {
-      "added_at": "2025-06-13 04:00:40",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 173906,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/4SrbRoCwiEMWyyizN49TwU"
-    },
-    {
-      "added_at": "2025-06-13 04:00:40",
-      "album": {
-        "name": "Confession",
-        "url": "https://open.spotify.com/album/4iSFg0cxwRdN0e3k7lAZFw"
-      },
-      "artists": [
-        {
-          "name": "Myl\u00e8ne Farmer",
-          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
-        }
-      ],
-      "duration_ms": 166617,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/2iPA5FhF7sPOUibIVuNOgf"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

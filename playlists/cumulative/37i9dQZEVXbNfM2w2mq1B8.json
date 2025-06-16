@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 219545,
       "name": "1 \u043c\u0438\u043b\u0438\u043e\u043d",
       "url": "https://open.spotify.com/track/7fmP2URec1aLre8J5ce5Gp"
@@ -1980,7 +1980,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -5526,7 +5526,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 181333,
       "name": "Chasat",
       "url": "https://open.spotify.com/track/4Rl34RU1EMpxsuxuHCpo1k"
@@ -13319,6 +13319,24 @@
     },
     {
       "album": {
+        "name": "HIM",
+        "url": "https://open.spotify.com/album/7r24VVdZzWuuM3NvnOCeDw"
+      },
+      "artists": [
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180996,
+      "name": "HIM",
+      "url": "https://open.spotify.com/track/5vmToQDu62oaDQZTgNYLr6"
+    },
+    {
+      "album": {
         "name": "HISS",
         "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
       },
@@ -15520,7 +15538,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 169833,
       "name": "JACKPOT",
       "url": "https://open.spotify.com/track/4zDHpQmJTbUfvdiFTXgF0j"
@@ -25788,6 +25806,24 @@
       "duration_ms": 256738,
       "name": "Roadrunner",
       "url": "https://open.spotify.com/track/5DxA8tzKieKkOrvKnCrADi"
+    },
+    {
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268840,
+      "name": "Rock That Body",
+      "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
     },
     {
       "album": {
@@ -37982,7 +38018,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 180779,
       "name": "\u041a\u0430\u043a",
       "url": "https://open.spotify.com/track/7qQg0QPm4KoquSjo6rkzH4"
@@ -39146,7 +39182,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "\u041d\u0430\u0448\u0430\u0442\u0430",
       "url": "https://open.spotify.com/track/1fTNb11PK6Ode6hx4bC8pl"
@@ -41050,7 +41086,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 172235,
       "name": "\u0422\u0430\u043a\u0430 \u0441\u044a\u043c \u0430\u0437, \u0442\u0430\u043a\u0430 \u0441\u0438 \u0442\u0438",
       "url": "https://open.spotify.com/track/7cMp1gzM4aSdbX6vJKmDh4"
@@ -41752,7 +41788,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 195164,
       "name": "\u0427\u0443\u043f\u0438 \u0431\u0430\u0440\u0438\u0435\u0440\u0438",
       "url": "https://open.spotify.com/track/7injeo0OCRz5C9UKtYmiP0"

@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: Katatonia
 
-803 songs - 2 day 20 hr 52 min
+804 songs - 2 day 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -536,7 +536,7 @@
 | [Ray of Light](https://open.spotify.com/track/1NQlXj1pg6LiZbOuIbOYLg) | [Silver Lake by Esa Holopainen](https://open.spotify.com/artist/5snqVyyNcZNQPRkcTnFi4A), [Einar Solberg](https://open.spotify.com/artist/20xK8nEhn71rTjjBNoR5nv) | [Ray of Light](https://open.spotify.com/album/6b4Q0HLy4dZotblQ1lmemW) | 3:31 | 2021-12-17 | 2022-07-28 |
 | [Reaching for the Sky](https://open.spotify.com/track/3qtdGRlnee4fQPXsiFz0Nk) | [Transatlantic](https://open.spotify.com/artist/4eOjprZV7J3pEjQOsdtLjC) | [Reaching for the Sky](https://open.spotify.com/album/7MB6phnSBj1c7Bh1CIay2K) | 5:40 | 2021-12-31 | 2022-04-18 |
 | [Reclaim](https://open.spotify.com/track/4CYXS6XxPaqPdTOu7RApQ4) | [From Sorrow To Serenity](https://open.spotify.com/artist/2s4zBLzqaGlaBYzGG5G3Q5) | [Reclaim](https://open.spotify.com/album/3P8HJRzE1Awh92lXIZqsU0) | 3:16 | 2022-07-13 | 2024-11-23 |
-| [Red Letter](https://open.spotify.com/track/5t10PRTb216lrqwi1PPRMG) | [Arch Echo](https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh) | [Red Letter](https://open.spotify.com/album/1NCLqFsHz3CArDSzA3V2T1) | 4:50 | 2022-01-28 |  |
+| [Red Letter](https://open.spotify.com/track/5t10PRTb216lrqwi1PPRMG) | [Arch Echo](https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh) | [Red Letter](https://open.spotify.com/album/1NCLqFsHz3CArDSzA3V2T1) | 4:50 | 2022-01-28 | 2025-06-16 |
 | [Reflection](https://open.spotify.com/track/6suhC134iU9dsegUGIngx6) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Different Kinds of Losses](https://open.spotify.com/album/0MvqWh7ClKxsWSndsSpEni) | 6:04 | 2022-12-09 | 2025-02-08 |
 | [Reimagined \- Set 1 \- Live From Atlanta](https://open.spotify.com/track/1AozJrg5k08jsn54Watygb) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Retrospective: Live From Atlanta \(Box Set\)](https://open.spotify.com/album/6nSjuxftoDh07XO5uNNpMg) | 4:30 | 2023-12-06 | 2024-04-19 |
 | [Reimagined \- Set 1 \- Live From Atlanta](https://open.spotify.com/track/46m4ysq3XUa8qf9nZO2kmS) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Retrospective: Live From Atlanta \(Box Set\)](https://open.spotify.com/album/3uzkgSIJnLReaw1R3zLXSC) | 4:30 | 2023-12-06 | 2023-12-24 |
@@ -799,6 +799,7 @@
 | [Why Do I Care](https://open.spotify.com/track/0jjAghbDie2a2cETSDl1ky) | [Torrential Rain](https://open.spotify.com/artist/76QqWxJTkOJLTe99MkSEom) | [Why Do I Care](https://open.spotify.com/album/6Ukl77GQ4tlcOS2Na2lQ6q) | 5:00 | 2021-12-31 | 2023-01-21 |
 | [Wildfire](https://open.spotify.com/track/5lF73HA0eQYUBg8DyPESXJ) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Wildfire / Zagreus](https://open.spotify.com/album/3zQmZXV9xdk2AzJRQGVk2a) | 7:05 | 2023-01-13 |  |
 | [Wind of no Change](https://open.spotify.com/track/1gGqd0eLe2XBwXKr3SxHKU) | [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [Wind of no Change](https://open.spotify.com/album/1ngzziiE3nVGMP5zq8rmdC) | 4:52 | 2025-06-06 |  |
+| [Winds of Time](https://open.spotify.com/track/7piaXNn95jDeesxcdLca7E) | [Wings of Steel](https://open.spotify.com/artist/0y43lCvntQtyFlhCABGb0T) | [Winds of Time](https://open.spotify.com/album/5fR2dtNeHgvBVawwNz1c0N) | 10:40 | 2025-06-13 |  |
 | [Within the Sphere](https://open.spotify.com/track/1f4BjsMcz7zR7HHtDXlNEC) | [Paralydium](https://open.spotify.com/artist/65X6T9OJ2gXGpkc1DgrYgR) | [Within the Sphere](https://open.spotify.com/album/7FICWjTaVxI1T1sy4ae37L) | 5:15 | 2021-12-17 | 2022-07-11 |
 | [Wonderland](https://open.spotify.com/track/32xzobEEYV8nphwopudnTY) | [No name faces](https://open.spotify.com/artist/1qe30odFQvnHMOTaBud0PH), [Skeb](https://open.spotify.com/artist/0l22ZecRDOBWHJdmVmw9Rf) | [Wonderland](https://open.spotify.com/album/2pF7TT6tSoOpkct2Jfsqi1) | 4:05 | 2022-04-22 | 2025-05-24 |
 | [Yonder](https://open.spotify.com/track/1n4viFiH0y3iBwoURa8uY3) | [Klone](https://open.spotify.com/artist/0J2gE1fVwnMhsh0OxUpUPT) | [Le Grand Voyage](https://open.spotify.com/album/6vkVCBBaqsTiraWDpIbRZV) | 7:32 | 2022-07-08 | 2022-09-03 |

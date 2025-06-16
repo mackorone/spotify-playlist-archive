@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 
 > Best served with party jollof
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,705 likes - 61 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,717 likes - 61 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 | 60 | [HANG MY BOOTS \(feat\. King Promise\)](https://open.spotify.com/track/0Wi9WFZpUd4W4PjzIgq637) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [HANG MY BOOTS](https://open.spotify.com/album/660uXRVzFGz4WZe8QOqKzj) | 3:07 |
 | 61 | [Onyeka \(Baby\)](https://open.spotify.com/track/5gsvgZuxT41OWmH03SBT8J) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV) | 3:22 |
 
-Snapshot ID: `AAAAADAu2XLflWxM4pxba5OqEL9MacFq`
+Snapshot ID: `aADSyQAAAAB/I/a1d9q5AAtUpUE46/ds`

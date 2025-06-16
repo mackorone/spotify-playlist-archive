@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무 & 공부시간을 보내세요!\)
 
-1,050 songs - 2 day 10 hr 9 min
+1,051 songs - 2 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,6 +542,7 @@
 | [Law](https://open.spotify.com/track/1jlC6MEmlRbjMV182flmYZ) | [Eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Do monsters love too?](https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET) | 2:35 | 2021-11-17 | 2022-07-26 |
 | [Left & Right](https://open.spotify.com/track/5QGooKayQPVZMUDc8Qt3Dm) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) | 3:21 | 2024-03-27 | 2024-04-19 |
 | [Left & Right](https://open.spotify.com/track/66orj0qtDgnU6DlmllAxbq) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3tWstxfjHMtqt2ZsRvhlYy) | 3:21 | 2021-11-17 | 2022-07-29 |
+| [Lemon Drop](https://open.spotify.com/track/2kpmBZqu52h6uCZXFTIXJK) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3](https://open.spotify.com/album/5LlszztgR3YH7aN7SPgTVi) | 2:59 | 2025-06-13 |  |
 | [Let Me Dance](https://open.spotify.com/track/1fimfc1OQeellxi69Lo1pE) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [Let Me Dance \(The Spies Who Loved Me OST Special Track\)](https://open.spotify.com/album/57Vlygz8CFQHzlpHTKrkqI) | 3:20 | 2021-11-17 | 2022-05-28 |
 | [Let Me In \(20 CUBE\)](https://open.spotify.com/track/4eOcd47wPU3ixxYw0spREl) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 3:09 | 2021-11-17 | 2023-11-05 |
 | [Let's Love](https://open.spotify.com/track/2oi8UJstcKTo2sLbd53h9t) | [PARK JI HOON](https://open.spotify.com/artist/0tBYMeHDDJCzRuREuCTWi7) | [The W](https://open.spotify.com/album/6XqSbtKtmWkEAYbXfzFkV6) | 2:50 | 2022-03-24 | 2022-04-16 |
@@ -905,7 +906,7 @@
 | [THE GIRLS \- BLACKPINK THE GAME OST](https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS) | 2:42 | 2023-11-04 | 2023-12-26 |
 | [The Moon \- 2021 Remaster](https://open.spotify.com/track/16F4FJ5WqLH4zHYs9BIOXK) | [SOOIN](https://open.spotify.com/artist/1DxQgqC0FRx2RkiGAlXNPb) | [The End of a Wander](https://open.spotify.com/album/55oIrLyWTFPySdvdY5PP6f) | 3:52 | 2022-01-03 | 2022-07-09 |
 | [The Planet](https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Planet](https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5) | 2:58 | 2024-03-27 |  |
-| [The Real \- Heung Version](https://open.spotify.com/track/36pZ33EaTBFSl4n0asZYNU) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 3:30 | 2022-02-03 |  |
+| [The Real \- Heung Version](https://open.spotify.com/track/36pZ33EaTBFSl4n0asZYNU) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 3:30 | 2022-02-03 | 2025-06-16 |
 | [Think About Me](https://open.spotify.com/track/32Le9Id5nHZRYBoOADDbVu) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Think About Me \- SM STATION](https://open.spotify.com/album/6QtFTapfqH40al5lsCJzMr) | 2:50 | 2021-11-17 | 2022-07-26 |
 | [This Love](https://open.spotify.com/track/1mh5s6XJ3RLJBRPErACsHW) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Descendants Of The Sun Pt.3 \(Original Television Soundtrack\)](https://open.spotify.com/album/3NnCgQwNBmXdppDt9PSpmu) | 3:45 | 2022-07-08 | 2024-04-19 |
 | [THRILL RIDE](https://open.spotify.com/track/3wEYYVD6uC3A3LhVhqARZv) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 6TH MINI ALBUM \[THRILL\-ING\]](https://open.spotify.com/album/0lh0pZ8GjZGrAhzIG4Jn0E) | 3:16 | 2021-11-17 | 2022-07-31 |

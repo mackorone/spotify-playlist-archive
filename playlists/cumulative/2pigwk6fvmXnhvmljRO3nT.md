@@ -4,7 +4,7 @@
 
 > 
 
-7,373 songs - 19 day 3 hr 48 min
+7,375 songs - 19 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2280,6 +2280,7 @@
 | [Halo](https://open.spotify.com/track/3ERa3mEeOnrh2Mc47qM6T1) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:21 | 2025-01-25 |  |
 | [Halo](https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 4:21 | 2025-03-22 |  |
 | [Halo](https://open.spotify.com/track/00CqEmnPLFKDhAb3cuu6Cs) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 2:57 | 2024-12-14 |  |
+| [HALO](https://open.spotify.com/track/35wZiQV2QPEEGjyh6XScaz) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [HALO](https://open.spotify.com/album/05X7klCQo760eyhjGMB87Q) | 3:06 | 2025-06-16 |  |
 | [Hamptons](https://open.spotify.com/track/1jlBePA3tcycCoANSSZbgj) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:08 | 2025-01-04 |  |
 | [Hana](https://open.spotify.com/track/02tNuntKQsoou5T4O8meyh) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hana](https://open.spotify.com/album/0v6vQ9tMopUTccn0wUvzQD) | 4:06 | 2025-05-21 |  |
 | [Hand Me Downs](https://open.spotify.com/track/1YIy56OJyVpuzoTQYiqkpg) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles \(Deluxe\)](https://open.spotify.com/album/1YZ3k65Mqw3G8FzYlW1mmp) | 4:58 | 2025-01-04 |  |
@@ -6794,6 +6795,7 @@
 | [君の恋人になったら](https://open.spotify.com/track/0k4KaqElLVjdR6sVHPTS6h) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ハッピーエンド](https://open.spotify.com/album/756KBTfY0YiHQNkg3UJhR6) | 4:04 | 2024-12-10 |  |
 | [君の知らない物語](https://open.spotify.com/track/0HAi4Xk8v9JlkkxzfzPlYN) | [supercell](https://open.spotify.com/artist/4Mc3zbnQx4wRb0tYg7A8sG) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 5:44 | 2025-01-15 |  |
 | [君はロックを聴かない](https://open.spotify.com/track/59eluCMn0XbOWqeWQ91FTM) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 4:06 | 2024-12-05 |  |
+| [味噌汁とバター \- Miso Soup and Butter](https://open.spotify.com/track/6QrokLHD7AFvDqFH7pCY7U) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [味噌汁とバター](https://open.spotify.com/album/0v2oNQqJLMRZefjFrJg6YN) | 3:52 | 2025-06-16 |  |
 | [命に嫌われている](https://open.spotify.com/track/1hl2HnJJUVIB1yDSEkQaJs) | [カンザキイオリ](https://open.spotify.com/artist/54CcLaFcLnAElSbnjKGCm6) | [不器用な男](https://open.spotify.com/album/7qopS2FD6YvyIXoBG7FDJU) | 4:27 | 2025-01-15 |  |
 | [命に嫌われている](https://open.spotify.com/track/2KcVBFyeEHdF14KP6ZAI1S) | [宵崎奏](https://open.spotify.com/artist/1PbOXi3QIPB8AxbJ8byCl6) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 4:33 | 2025-04-19 |  |
 | [命に嫌われている。](https://open.spotify.com/track/2lXu7SNGIKHJ8EV2EetYFa) | [majiko](https://open.spotify.com/artist/6HX4Jrnb0WhEv9goeGoh6p) | [命に嫌われている。](https://open.spotify.com/album/269VLkFLdR0j82eY9kTBCG) | 4:34 | 2025-01-04 |  |

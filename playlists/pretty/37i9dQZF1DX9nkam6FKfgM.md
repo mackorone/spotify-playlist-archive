@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nkam6FKfgM.md) - [plain]
 
 > summer has landed
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,976 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,168 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nkam6FKfgM.md) - [plain]
 | 74 | [GUAPA](https://open.spotify.com/track/5c7hCvAfvS1c9X27L8hFZF) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [GUAPA](https://open.spotify.com/album/2zYm7ggrjv0Xkj13BNuyHH) | 2:52 |
 | 75 | [Summer Song](https://open.spotify.com/track/0pwIbDtddJhPSyLaWecP9j) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Summer Song](https://open.spotify.com/album/32CejEs2rOmbJcTXy1Nuzy) | 4:05 |
 
-Snapshot ID: `aEuiZQAAAADzWANkLr7Z8pLTXv+2hOxN`
+Snapshot ID: `AAAAAHxbqiu+rZ/MpoWMHybzUSlGgeFQ`

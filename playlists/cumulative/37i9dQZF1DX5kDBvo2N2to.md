@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-341 songs - 18 hr 35 min
+343 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Blomma i city](https://open.spotify.com/track/1kjhnKWwhrUFNxuOpzxy2S) | [Johanna Frostling](https://open.spotify.com/artist/4vbrC3LBk1yySodkSbG3IY) | [Blomma i city](https://open.spotify.com/album/2UeQe6zB080WCiO0NIOIRi) | 3:19 | 2024-06-28 | 2024-08-16 |
 | [Blue Sky & The Painter](https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part Two](https://open.spotify.com/album/3vtvRu36Sh69lyYkMHY352) | 3:52 | 2024-09-13 | 2025-05-09 |
 | [Blöder Tårar](https://open.spotify.com/track/6ubTijQQFdUO6Epu2nPJzv) | [Oh Mar](https://open.spotify.com/artist/1FuN1nqOZUFzpJMZih3XMe) | [Blöder Tårar](https://open.spotify.com/album/6Th0DHNQbzAvyPDYTWXwWI) | 2:18 | 2025-05-29 | 2025-06-06 |
+| [Bon Voyage](https://open.spotify.com/track/5Y9UJiXsJSXWlOOJl2FRLW) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Bon Voyage](https://open.spotify.com/album/59423YD9JZdvJsFSICrsfg) | 2:43 | 2025-06-13 |  |
 | [borde sagt hejdå för ett tag sen](https://open.spotify.com/track/4jh8asgmeHD8IU8V2Yw1K7) | [ASTE](https://open.spotify.com/artist/5zYmm4lmcacjQo9zns3aDJ) | [borde sagt hejdå för ett tag sen](https://open.spotify.com/album/5nj39MtTjPwl1E7XkDzNDl) | 2:25 | 2024-06-28 | 2024-08-16 |
 | [Borderline Iconic](https://open.spotify.com/track/67Po00mBd0gRq7Z4lZ30CG) | [Linn Koch\-Emmery](https://open.spotify.com/artist/1VXNcQgSnqCXw4kWGeKNFu) | [Borderline Iconic](https://open.spotify.com/album/6csDiDKWnoejngfWD7gvhK) | 3:06 | 2024-06-28 | 2024-08-23 |
 | [Born a Riot](https://open.spotify.com/track/6bdTCyQozk9a7mBfNHzSYb) | [DAKOO](https://open.spotify.com/artist/72343jDquF52drRGQa3xZV) | [Born a Riot](https://open.spotify.com/album/5brdqGmI6uyXYnvANurSZc) | 2:39 | 2024-06-28 | 2024-09-20 |
@@ -219,6 +220,7 @@
 | [Might Destroy You](https://open.spotify.com/track/58tteWR7XWQwM7sfH6hDaP) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Might Destroy You](https://open.spotify.com/album/6wreWP88Dq9htpmXBz0qQe) | 2:34 | 2024-08-08 | 2024-10-25 |
 | [Min Elsa](https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Min Elsa](https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC) | 2:52 | 2024-08-15 | 2024-10-05 |
 | [Mirrors](https://open.spotify.com/track/2EKz3OWAJPZOufOpgBmeYe) | [Julia Logan](https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0) | [Mirrors](https://open.spotify.com/album/5lgVfF0JPiYDnL6espVfgv) | 3:38 | 2024-06-28 | 2024-08-30 |
+| [Missing Out](https://open.spotify.com/track/5w1F0iEvlqRHm3uZt9ZejA) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Missing Out](https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0) | 3:02 | 2025-06-13 |  |
 | [Missing You](https://open.spotify.com/track/3nxtdmT0yTl8236nuyyVdC) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Missing You](https://open.spotify.com/album/2NLXnnWGIAJV0tCsXdyDNW) | 2:44 | 2024-09-13 | 2025-05-09 |
 | [Mitt hjärta av guld](https://open.spotify.com/track/7Ma4xWMBilJP90yLC5H3ZY) | [Lia Lindstén](https://open.spotify.com/artist/4GnwFUXajKqpZ9cOnIIUnM) | [Mitt hjärta av guld](https://open.spotify.com/album/0q9XvbSVVLkA8F14Oqaz0i) | 2:50 | 2025-06-05 |  |
 | [Moln & Sommarregn](https://open.spotify.com/track/18q6GQAd9VK6IRzz6xofKN) | [Vince Wavy](https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW) | [Moln & Sommarregn](https://open.spotify.com/album/67TZQ41vEtrLZbxWzzG9vT) | 3:07 | 2025-05-01 |  |
@@ -270,7 +272,7 @@
 | [Sexy](https://open.spotify.com/track/1cTJBsAwjKxZggc8HTeSrs) | [Emma Liambi](https://open.spotify.com/artist/79ni0gLHGqim5iM0lzKMLI) | [Sexy](https://open.spotify.com/album/5uAVsNYiC7FTKTGWUgfm5w) | 2:02 | 2024-06-28 | 2024-08-16 |
 | [Shoppen \(Millenial\) \[feat\. Isak Friberg\]](https://open.spotify.com/track/6D5gxUfDMn28tm1TyUlIX4) | [Hanna Järver](https://open.spotify.com/artist/6JHabNWuD8rd3TQQtMf6Q5), [Isak Friberg](https://open.spotify.com/artist/6GmrIORIM4ZZctjceeMkyx) | [Absolute Romance](https://open.spotify.com/album/0FAegR0Ac5ODCForSWg1OK) | 3:06 | 2025-05-08 | 2025-06-13 |
 | [Side Effect](https://open.spotify.com/track/5Q6anRiSkE00pWfDlLiN58) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Side Effect](https://open.spotify.com/album/2JHwZDprkm6TLWrYdxaOCS) | 2:06 | 2025-06-12 |  |
-| [SIGHTS](https://open.spotify.com/track/2svUIV9N4rXk5V7cyA9jbS) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [SIGHTS](https://open.spotify.com/album/7fehq5D80Esh91dT8G87oe) | 3:06 | 2025-04-03 |  |
+| [SIGHTS](https://open.spotify.com/track/2svUIV9N4rXk5V7cyA9jbS) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [SIGHTS](https://open.spotify.com/album/7fehq5D80Esh91dT8G87oe) | 3:06 | 2025-04-03 | 2025-06-16 |
 | [SILUETT](https://open.spotify.com/track/6Fj6QAV3lWhqjsxvSJEDDK) | [EMILIA STRAND](https://open.spotify.com/artist/50YvgUtF9Yqr6Z0KI64Ls0) | [SILUETT](https://open.spotify.com/album/1nN3yZmAYIYgZgTVCpQr0U) | 3:10 | 2025-05-01 | 2025-05-30 |
 | [Sirens](https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Sirens](https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110) | 2:52 | 2025-01-16 | 2025-06-15 |
 | [Sista andetag](https://open.spotify.com/track/3Sdift3qjLtfOyXoKZFzcS) | [KarreV](https://open.spotify.com/artist/3U47KYSzkeq9AGPP5uYBuu) | [Sista andetag](https://open.spotify.com/album/35S5fdVvxyPYQm7Zs4LPd9) | 3:42 | 2025-05-15 | 2025-06-03 |
@@ -335,7 +337,7 @@
 | [Vem?](https://open.spotify.com/track/5W90tHshx7hSbmHNIgsHYi) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vem?](https://open.spotify.com/album/1LMGKjmmL4rPAlGyy3tiy8) | 3:45 | 2024-06-28 | 2024-08-16 |
 | [Venter du](https://open.spotify.com/track/4MWldeK06AisUkSYARj8YD) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV), [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Venter du](https://open.spotify.com/album/33rnPbG5uBGM1klUO46Arc) | 2:37 | 2025-02-27 |  |
 | [Vincent's Wife \(p.33\)](https://open.spotify.com/track/2YqjRiCr5WfH7VBd2ctHcX) | [Salty Licorice](https://open.spotify.com/artist/6ipya2KPF19iwpylWPCHZs) | [Vincent's Wife \(p.33\)](https://open.spotify.com/album/3aj4SLrcyZzswSqbfBflP9) | 4:33 | 2025-04-17 | 2025-06-10 |
-| [violet](https://open.spotify.com/track/636roEe0dWBQwgTLJoBr9j) | [ENVYYOU](https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm) | [i guess this is me now?](https://open.spotify.com/album/0fr8btLAWf5vRidQtFtVxc) | 2:28 | 2025-02-24 |  |
+| [violet](https://open.spotify.com/track/636roEe0dWBQwgTLJoBr9j) | [ENVYYOU](https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm) | [i guess this is me now?](https://open.spotify.com/album/0fr8btLAWf5vRidQtFtVxc) | 2:28 | 2025-02-24 | 2025-06-16 |
 | [Världen är inte vacker \(men det är vi\)](https://open.spotify.com/track/4kpu0HVUbw1Ozb1pV1pXIX) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Världen är inte vacker \(men det är vi\)](https://open.spotify.com/album/0G2qck3MgeAeBACj0q0dZR) | 3:08 | 2024-10-04 | 2025-02-20 |
 | [Wedding Present](https://open.spotify.com/track/0QhJXZjQpVfiApkmvjNlGi) | [OLSSON](https://open.spotify.com/artist/6InjDqElJC0wOI2rEy9ldH) | [Wedding Present](https://open.spotify.com/album/1LhDdfNuVURcfynS096kQs) | 4:05 | 2025-03-27 | 2025-04-22 |
 | [Weightless](https://open.spotify.com/track/5sLgL3nHvgZUbtYVAt5FxN) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [LOVEGRUNGE](https://open.spotify.com/album/6GgcxPxxsyPqAlIWkAGyjR) | 3:01 | 2025-04-03 | 2025-04-11 |

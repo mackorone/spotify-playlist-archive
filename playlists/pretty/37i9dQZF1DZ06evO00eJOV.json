@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 36758,
+  "num_followers": 36763,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAADTaM1by87qTNEpDJB9qgtd",
+  "snapshot_id": "aEy7gAAAAAAY7FpENf0WRL7tPIXlzXL/",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Myekeleni",
-        "url": "https://open.spotify.com/album/7chQEP3pHqRHTnm3egstPL"
+        "name": "Nomakanjani",
+        "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 263093,
-      "name": "Mama I'm Sorry",
-      "url": "https://open.spotify.com/track/1Tuh0lfagSr2ggyZXyWofx"
+      "duration_ms": 275493,
+      "name": "Mpundulu",
+      "url": "https://open.spotify.com/track/0UqdpKfjQXx242CoKQMVqr"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nomakanjani",
-        "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
+        "name": "Myekeleni",
+        "url": "https://open.spotify.com/album/7chQEP3pHqRHTnm3egstPL"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 275493,
-      "name": "Mpundulu",
-      "url": "https://open.spotify.com/track/0UqdpKfjQXx242CoKQMVqr"
+      "duration_ms": 263093,
+      "name": "Mama I'm Sorry",
+      "url": "https://open.spotify.com/track/1Tuh0lfagSr2ggyZXyWofx"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/3gMIm1DzHL4BFdfzarGX42"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 270133,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/1pLVv5izG6cj2GiQdsEreq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mali",
         "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 321253,
       "name": "Ponci Ponci (Pontjie Pontjie)",
       "url": "https://open.spotify.com/track/49SjeHQevHY5zP1cqqxi9t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/3gMIm1DzHL4BFdfzarGX42"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 270133,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/1pLVv5izG6cj2GiQdsEreq"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits 1964-2004",
+        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "Zola Budd",
+      "url": "https://open.spotify.com/track/2YAaOJ86NNPFq70QrMNc4g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Refe Matla",
         "url": "https://open.spotify.com/album/3GaxO1raa0cySNEF0ZnCC8"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 296733,
       "name": "Dikonyana",
       "url": "https://open.spotify.com/track/2v3m71lnJIB8GPeMdnjVlx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits 1964-2004",
-        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Zola Budd",
-      "url": "https://open.spotify.com/track/2YAaOJ86NNPFq70QrMNc4g"
     },
     {
       "added_at": null,
@@ -775,18 +775,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ag Shame Lovey",
-        "url": "https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8"
+        "name": "Soon And Very Soon",
+        "url": "https://open.spotify.com/album/6lCOAL1VyOJF5pcCDwKRxs"
       },
       "artists": [
+        {
+          "name": "Children Of God",
+          "url": "https://open.spotify.com/artist/7M649YaEUgAnKaIW48vbcZ"
+        },
+        {
+          "name": "Chicco",
+          "url": "https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f"
+        },
         {
           "name": "Brenda Fassie",
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 348893,
-      "name": "The Lord Is My Shepherd",
-      "url": "https://open.spotify.com/track/2oaBWSFWKd5Nc3c0cE2pLE"
+      "duration_ms": 236560,
+      "name": "Only Jesus",
+      "url": "https://open.spotify.com/track/1uqXE6k9BlpdWHBnnoxiSg"
     },
     {
       "added_at": null,
@@ -811,26 +819,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soon And Very Soon",
-        "url": "https://open.spotify.com/album/6lCOAL1VyOJF5pcCDwKRxs"
+        "name": "Ag Shame Lovey",
+        "url": "https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8"
       },
       "artists": [
-        {
-          "name": "Children Of God",
-          "url": "https://open.spotify.com/artist/7M649YaEUgAnKaIW48vbcZ"
-        },
-        {
-          "name": "Chicco",
-          "url": "https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f"
-        },
         {
           "name": "Brenda Fassie",
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 236560,
-      "name": "Only Jesus",
-      "url": "https://open.spotify.com/track/1uqXE6k9BlpdWHBnnoxiSg"
+      "duration_ms": 348893,
+      "name": "The Lord Is My Shepherd",
+      "url": "https://open.spotify.com/track/2oaBWSFWKd5Nc3c0cE2pLE"
     },
     {
       "added_at": null,

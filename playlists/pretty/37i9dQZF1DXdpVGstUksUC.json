@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 545043,
+  "num_followers": 545056,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Sunrise On The Sufferbus",
-        "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
-      },
-      "artists": [
-        {
-          "name": "Masters Of Reality",
-          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Rabbit One",
-      "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Berlin",
         "url": "https://open.spotify.com/album/433VO5ZmCPluaLEAgRmwXu"
       },
@@ -363,18 +347,34 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Repeater",
-        "url": "https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok"
+        "name": "Sunrise On The Sufferbus",
+        "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
       },
       "artists": [
         {
-          "name": "King Buffalo",
-          "url": "https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R"
+          "name": "Masters Of Reality",
+          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
         }
       ],
-      "duration_ms": 356824,
-      "name": "Centurion",
-      "url": "https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV"
+      "duration_ms": 213333,
+      "name": "Rabbit One",
+      "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 364924,
+      "name": "God Is In The Radio",
+      "url": "https://open.spotify.com/track/1dVWz4VM5QkgzHLjFEKM4u"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -395,18 +395,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+        "name": "Repeater",
+        "url": "https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "King Buffalo",
+          "url": "https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R"
         }
       ],
-      "duration_ms": 364924,
-      "name": "God Is In The Radio",
-      "url": "https://open.spotify.com/track/1dVWz4VM5QkgzHLjFEKM4u"
+      "duration_ms": 356824,
+      "name": "Centurion",
+      "url": "https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Dead Roots Stirring",
-        "url": "https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp"
-      },
-      "artists": [
-        {
-          "name": "Elder",
-          "url": "https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT"
-        }
-      ],
-      "duration_ms": 580237,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Dopethrone",
         "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 389466,
       "name": "Barbarian",
       "url": "https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Dead Roots Stirring",
+        "url": "https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp"
+      },
+      "artists": [
+        {
+          "name": "Elder",
+          "url": "https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT"
+        }
+      ],
+      "duration_ms": 580237,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Tempel",
-        "url": "https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5"
-      },
-      "artists": [
-        {
-          "name": "Colour Haze",
-          "url": "https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8"
-        }
-      ],
-      "duration_ms": 526293,
-      "name": "Aquamaria",
-      "url": "https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Vols. 11 & 12",
         "url": "https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 333859,
       "name": "Noses in Roses, Forever",
       "url": "https://open.spotify.com/track/4tPTqcJWt67CGJLro27pwe"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Tempel",
+        "url": "https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5"
+      },
+      "artists": [
+        {
+          "name": "Colour Haze",
+          "url": "https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8"
+        }
+      ],
+      "duration_ms": 526293,
+      "name": "Aquamaria",
+      "url": "https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Stoner Witch",
-        "url": "https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw"
-      },
-      "artists": [
-        {
-          "name": "Melvins",
-          "url": "https://open.spotify.com/artist/2oJi7LuMzftVGKB6wpsBmO"
-        }
-      ],
-      "duration_ms": 72800,
-      "name": "Skweetis",
-      "url": "https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Love Like Machines",
         "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 149973,
       "name": "Late Night",
       "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Stoner Witch",
+        "url": "https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw"
+      },
+      "artists": [
+        {
+          "name": "Melvins",
+          "url": "https://open.spotify.com/artist/2oJi7LuMzftVGKB6wpsBmO"
+        }
+      ],
+      "duration_ms": 72800,
+      "name": "Skweetis",
+      "url": "https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Superskull",
+        "url": "https://open.spotify.com/album/37Hmm2L5DZxf7BNWtAAit1"
+      },
+      "artists": [
+        {
+          "name": "Black Rainbows",
+          "url": "https://open.spotify.com/artist/6VNmsa4FPNunveA9ktg0Nb"
+        }
+      ],
+      "duration_ms": 229866,
+      "name": "Cosmic Ride Of The Crystal Skull",
+      "url": "https://open.spotify.com/track/42uc5A9WH0jy0AYHFnw5ZB"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Desert Cold",
         "url": "https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 651110,
       "name": "Bright Dawn of the Soul",
       "url": "https://open.spotify.com/track/2vMfQgTA6wv0Lzs1zBim2E"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Superskull",
-        "url": "https://open.spotify.com/album/37Hmm2L5DZxf7BNWtAAit1"
-      },
-      "artists": [
-        {
-          "name": "Black Rainbows",
-          "url": "https://open.spotify.com/artist/6VNmsa4FPNunveA9ktg0Nb"
-        }
-      ],
-      "duration_ms": 229866,
-      "name": "Cosmic Ride Of The Crystal Skull",
-      "url": "https://open.spotify.com/track/42uc5A9WH0jy0AYHFnw5ZB"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Blast Tyrant (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5KxVwhPQ9d0qp4iuQcAkgR"
+        "name": "Dead Rock Commandos",
+        "url": "https://open.spotify.com/album/6EfupU9Irwh51zlDbCicAx"
       },
       "artists": [
         {
-          "name": "Clutch",
-          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+          "name": "Nightstalker",
+          "url": "https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk"
         }
       ],
-      "duration_ms": 325026,
-      "name": "The Regulator",
-      "url": "https://open.spotify.com/track/5HjPlgTCOBWjh65fF4aaR9"
+      "duration_ms": 196866,
+      "name": "Dead Rock Commandos",
+      "url": "https://open.spotify.com/track/3mxMNHNWhan1cZByg3WHL4"
     }
   ],
   "unique_name": "Stoner Rock",

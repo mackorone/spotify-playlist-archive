@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > South African gems across the decades\. Cover: <a href="https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli?si=2VnM\_9GqSrCkUNwtfpaCPQ">Pro Kid</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,377 likes - 60 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,425 likes - 60 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 34 | [Doo Be Doo](https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 5:11 |
 | 35 | [Ndawo Yami](https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Ndawo Yami](https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU) | 4:47 |
 | 36 | [Sana Luma \(Thats The Way Love Is\)](https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Khokhovula](https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK) | 5:17 |
-| 37 | [Feel Good](https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo) | [Lira](https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj) | [Feel Good](https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB) | 5:20 |
-| 38 | [Free](https://open.spotify.com/track/45k24cRKkfkLoA6nslCwHG) | [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Legends](https://open.spotify.com/album/0kiATdsriTo3fErLWa1rBp) | 5:14 |
+| 37 | [Free](https://open.spotify.com/track/45k24cRKkfkLoA6nslCwHG) | [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Legends](https://open.spotify.com/album/0kiATdsriTo3fErLWa1rBp) | 5:14 |
+| 38 | [Feel Good](https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo) | [Lira](https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj) | [Feel Good](https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB) | 5:20 |
 | 39 | [I'd Like](https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 6:22 |
 | 40 | [Dlala Mapantsula](https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:32 |
 | 41 | [Don't Cry \- Remastered 2024](https://open.spotify.com/track/0TW01kL2sGNnqc9Lvas6FN) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW), [Thembisile](https://open.spotify.com/artist/3yjaPmf61NL5y3U3hAoZML) | [Bhambatha \(Remastered 2024\)](https://open.spotify.com/album/4yX88UXZ6Q0X9IxLwgMmtE) | 3:37 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 51 | [Magesh](https://open.spotify.com/track/0lfi2bjtJdYWiaxjjCryuY) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 4:29 |
 | 52 | [Doc Shebeleza](https://open.spotify.com/track/1fRMv66SdJrWowk0rJduKM) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Tsholofelo \(Platinum Edition\)](https://open.spotify.com/album/367X12thcQ6YbzKYWLGXFc) | 3:51 |
 | 53 | [Khona](https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN), [Uhuru](https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2) | [Evo Mix](https://open.spotify.com/album/5Vi28u2YzzR0X5OGszHajc) | 4:55 |
-| 54 | [Tot Die Son Uitkom](https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 4:56 |
-| 55 | [Ndiredi](https://open.spotify.com/track/4AxFUQVcla7vyMSl4tGBZj) | [Simphiwe Dana](https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu) | [Grand Masters](https://open.spotify.com/album/4pZt9qJUgqAevuCKmzw5Fj) | 4:56 |
+| 54 | [Ndiredi](https://open.spotify.com/track/4AxFUQVcla7vyMSl4tGBZj) | [Simphiwe Dana](https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu) | [Grand Masters](https://open.spotify.com/album/4pZt9qJUgqAevuCKmzw5Fj) | 4:56 |
+| 55 | [Tot Die Son Uitkom](https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 4:56 |
 | 56 | [Scatterlings Of Africa](https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn) | [Savuka](https://open.spotify.com/artist/3UDSQSzFctmDSlmY75BWV7), [Johnny Clegg](https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O) | [Rain Man: Original Motion Picture Soundtrack](https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi) | 4:05 |
 | 57 | [Zabalaza](https://open.spotify.com/track/7nLs6J61QEVgfJsCFBCl4S) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2) | 6:42 |
 | 58 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
-| 59 | [Thula Mama](https://open.spotify.com/track/28w5yEBRRqVhxxHgoBNzfM) | [Sibongile Khumalo](https://open.spotify.com/artist/0Weus9dOTFjSa7Kv230UsI) | [Ancient Evening](https://open.spotify.com/album/76liT8ky1ucxXF1niWhRYT) | 4:06 |
-| 60 | [Zandisile](https://open.spotify.com/track/3RZevm4NTP6UFNpdR5JWzq) | [Simphiwe Dana](https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu) | [Zandisile](https://open.spotify.com/album/1Zg3W11SiHfbzQVFiWgTBB) | 6:02 |
+| 59 | [Zandisile](https://open.spotify.com/track/3RZevm4NTP6UFNpdR5JWzq) | [Simphiwe Dana](https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu) | [Zandisile](https://open.spotify.com/album/1Zg3W11SiHfbzQVFiWgTBB) | 6:02 |
+| 60 | [Thula Mama](https://open.spotify.com/track/28w5yEBRRqVhxxHgoBNzfM) | [Sibongile Khumalo](https://open.spotify.com/artist/0Weus9dOTFjSa7Kv230UsI) | [Ancient Evening](https://open.spotify.com/album/76liT8ky1ucxXF1niWhRYT) | 4:06 |
 
 Snapshot ID: `aAq2xQAAAAAO5W6KxrIaLQBimI+RzCjl`

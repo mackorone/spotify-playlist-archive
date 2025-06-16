@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Willi Carlisle
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,002 likes - 124 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,979 likes - 124 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 123 | [Hey Brother](https://open.spotify.com/track/1PJyFJkbpzost4QjRaa01J) | [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [Hey Brother](https://open.spotify.com/album/6rtyoioVowLfAh1PvoKtdU) | 4:22 |
 | 124 | [Little Satchel](https://open.spotify.com/track/2NAtu56kCVNhTzu8Cz0NVN) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Little Satchel](https://open.spotify.com/album/3PLL0AGHcVDPgK03UR1H0T) | 3:17 |
 
-Snapshot ID: `aEuiZgAAAACR5CA7dm8t7SyDX7JqWFBC`
+Snapshot ID: `AAAAAHsAuagUNf/icMZpL6Le9cNEYKhY`

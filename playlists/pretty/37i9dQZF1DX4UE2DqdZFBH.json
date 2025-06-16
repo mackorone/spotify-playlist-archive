@@ -1,6 +1,6 @@
 {
   "description": "Unwind to the real beauty of Instrumentals!",
-  "num_followers": 52860,
+  "num_followers": 52874,
   "original_name": "Indie Instrumental",
   "owner": {
     "name": "Spotify",
@@ -55,22 +55,6 @@
     {
       "added_at": "2024-05-14 07:47:03",
       "album": {
-        "name": "Bhagyada Lakshmi Baramma (Instrumental) - Single",
-        "url": "https://open.spotify.com/album/3QlVv7CsHbeKypUyGGwgqv"
-      },
-      "artists": [
-        {
-          "name": "Veena Srivani",
-          "url": "https://open.spotify.com/artist/2IXmArsz1OFUyiIFLZIUsD"
-        }
-      ],
-      "duration_ms": 352622,
-      "name": "Bhagyada Lakshmi Baramma - Instrumental",
-      "url": "https://open.spotify.com/track/0cckP8UhJqr6XhQ3ijAuTD"
-    },
-    {
-      "added_at": "2024-05-14 07:47:03",
-      "album": {
         "name": "Mukti",
         "url": "https://open.spotify.com/album/6sqUHY8P1HVLfMCLJng7tY"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 111764,
       "name": "Mukti",
       "url": "https://open.spotify.com/track/6n5ZoPiavpCUYSl9pmDXIj"
+    },
+    {
+      "added_at": "2024-05-14 07:47:03",
+      "album": {
+        "name": "Bhagyada Lakshmi Baramma (Instrumental) - Single",
+        "url": "https://open.spotify.com/album/3QlVv7CsHbeKypUyGGwgqv"
+      },
+      "artists": [
+        {
+          "name": "Veena Srivani",
+          "url": "https://open.spotify.com/artist/2IXmArsz1OFUyiIFLZIUsD"
+        }
+      ],
+      "duration_ms": 352622,
+      "name": "Bhagyada Lakshmi Baramma - Instrumental",
+      "url": "https://open.spotify.com/track/0cckP8UhJqr6XhQ3ijAuTD"
     },
     {
       "added_at": "2024-11-14 08:41:09",
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-05-14 07:47:03",
       "album": {
+        "name": "Veenai Jayanthi Kumaresh",
+        "url": "https://open.spotify.com/album/4kUGwkHXKBbaLwnqTIrg0J"
+      },
+      "artists": [
+        {
+          "name": "Jayanthi Kumaresh",
+          "url": "https://open.spotify.com/artist/3Zbm5f0WBZM9ChNuTBbLsT"
+        }
+      ],
+      "duration_ms": 394400,
+      "name": "Varnam",
+      "url": "https://open.spotify.com/track/4ZFM5yFsjEzvZ1XmP27L5r"
+    },
+    {
+      "added_at": "2024-05-14 07:47:03",
+      "album": {
         "name": "Sitar On Drumz",
         "url": "https://open.spotify.com/album/2SZUA0nyUALGjG55J8CJhx"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 311470,
       "name": "Sitar On Drumz",
       "url": "https://open.spotify.com/track/1vA2niQtiOjSmvuFOEWDEZ"
-    },
-    {
-      "added_at": "2024-05-14 07:47:03",
-      "album": {
-        "name": "Veenai Jayanthi Kumaresh",
-        "url": "https://open.spotify.com/album/4kUGwkHXKBbaLwnqTIrg0J"
-      },
-      "artists": [
-        {
-          "name": "Jayanthi Kumaresh",
-          "url": "https://open.spotify.com/artist/3Zbm5f0WBZM9ChNuTBbLsT"
-        }
-      ],
-      "duration_ms": 394400,
-      "name": "Varnam",
-      "url": "https://open.spotify.com/track/4ZFM5yFsjEzvZ1XmP27L5r"
     },
     {
       "added_at": "2024-05-14 07:47:03",
@@ -373,26 +373,6 @@
       "url": "https://open.spotify.com/track/4GEzdXpbeGB97W1C3gH8Hh"
     },
     {
-      "added_at": "2024-05-14 07:47:03",
-      "album": {
-        "name": "Reach Out",
-        "url": "https://open.spotify.com/album/24dP5sZgOex0EQun8x4ddk"
-      },
-      "artists": [
-        {
-          "name": "Tajdar Junaid",
-          "url": "https://open.spotify.com/artist/3tEJo0yjxFfLljtseITzVr"
-        },
-        {
-          "name": "Blackstratblues",
-          "url": "https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1"
-        }
-      ],
-      "duration_ms": 216116,
-      "name": "Reach Out",
-      "url": "https://open.spotify.com/track/5XTkSCwVY9X0rGrOqxtR3S"
-    },
-    {
       "added_at": "2024-08-22 12:12:11",
       "album": {
         "name": "Satyagrah",
@@ -419,6 +399,26 @@
       "duration_ms": 434000,
       "name": "Satyagrah",
       "url": "https://open.spotify.com/track/1dLc6lcm5sYUiyypCxEame"
+    },
+    {
+      "added_at": "2024-05-14 07:47:03",
+      "album": {
+        "name": "Reach Out",
+        "url": "https://open.spotify.com/album/24dP5sZgOex0EQun8x4ddk"
+      },
+      "artists": [
+        {
+          "name": "Tajdar Junaid",
+          "url": "https://open.spotify.com/artist/3tEJo0yjxFfLljtseITzVr"
+        },
+        {
+          "name": "Blackstratblues",
+          "url": "https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1"
+        }
+      ],
+      "duration_ms": 216116,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/5XTkSCwVY9X0rGrOqxtR3S"
     },
     {
       "added_at": "2024-05-14 07:47:03",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-05-14 07:47:03",
       "album": {
+        "name": "No Passport Control",
+        "url": "https://open.spotify.com/album/3PJf1a7bCNUqdJSX28wb1I"
+      },
+      "artists": [
+        {
+          "name": "Sharat Chandra Srivastava",
+          "url": "https://open.spotify.com/artist/3CPeq5bCgG560Ixb2DcM8U"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Inspired",
+      "url": "https://open.spotify.com/track/36lMru2HEErt8tz9MBxDoi"
+    },
+    {
+      "added_at": "2024-05-14 07:47:03",
+      "album": {
         "name": "Ragas: Classical Indian music for sarod, sitar and tabla",
         "url": "https://open.spotify.com/album/08CSfF5H2SWzz5KKX5tngY"
       },
@@ -567,18 +583,18 @@
     {
       "added_at": "2024-05-14 07:47:03",
       "album": {
-        "name": "No Passport Control",
-        "url": "https://open.spotify.com/album/3PJf1a7bCNUqdJSX28wb1I"
+        "name": "Epic Shit",
+        "url": "https://open.spotify.com/album/0bwFDuIwLE4OzoHmgiSYPc"
       },
       "artists": [
         {
-          "name": "Sharat Chandra Srivastava",
-          "url": "https://open.spotify.com/artist/3CPeq5bCgG560Ixb2DcM8U"
+          "name": "Sanjeev T",
+          "url": "https://open.spotify.com/artist/4i3H5BsVTVwxXcWC3CdVPu"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Inspired",
-      "url": "https://open.spotify.com/track/36lMru2HEErt8tz9MBxDoi"
+      "duration_ms": 316006,
+      "name": "Electric Pranaam",
+      "url": "https://open.spotify.com/track/1MpBIySytqhvWAHFUFdJtg"
     },
     {
       "added_at": "2024-05-14 07:47:03",
@@ -599,22 +615,6 @@
     {
       "added_at": "2024-05-14 07:47:03",
       "album": {
-        "name": "Epic Shit",
-        "url": "https://open.spotify.com/album/0bwFDuIwLE4OzoHmgiSYPc"
-      },
-      "artists": [
-        {
-          "name": "Sanjeev T",
-          "url": "https://open.spotify.com/artist/4i3H5BsVTVwxXcWC3CdVPu"
-        }
-      ],
-      "duration_ms": 316006,
-      "name": "Electric Pranaam",
-      "url": "https://open.spotify.com/track/1MpBIySytqhvWAHFUFdJtg"
-    },
-    {
-      "added_at": "2024-05-14 07:47:03",
-      "album": {
         "name": "Tabla Tonic",
         "url": "https://open.spotify.com/album/7ege3FGyKO1IGmWgGAOdYK"
       },
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-05-14 07:47:03",
       "album": {
-        "name": "Opening Act",
-        "url": "https://open.spotify.com/album/5YbOpTHfXOAe90CJobDHp0"
-      },
-      "artists": [
-        {
-          "name": "Rhythm Shaw",
-          "url": "https://open.spotify.com/artist/15VQCxbC4rQp2ooxlkd40D"
-        }
-      ],
-      "duration_ms": 238626,
-      "name": "All I Was Thinking Of",
-      "url": "https://open.spotify.com/track/45hfMaXmzdvEt92BeCdu8f"
-    },
-    {
-      "added_at": "2024-05-14 07:47:03",
-      "album": {
         "name": "No Passport Control",
         "url": "https://open.spotify.com/album/3PJf1a7bCNUqdJSX28wb1I"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 582000,
       "name": "Garden Lounge",
       "url": "https://open.spotify.com/track/5yYy5YAfL3KaheD5qlRAnp"
+    },
+    {
+      "added_at": "2024-05-14 07:47:03",
+      "album": {
+        "name": "Opening Act",
+        "url": "https://open.spotify.com/album/5YbOpTHfXOAe90CJobDHp0"
+      },
+      "artists": [
+        {
+          "name": "Rhythm Shaw",
+          "url": "https://open.spotify.com/artist/15VQCxbC4rQp2ooxlkd40D"
+        }
+      ],
+      "duration_ms": 238626,
+      "name": "All I Was Thinking Of",
+      "url": "https://open.spotify.com/track/45hfMaXmzdvEt92BeCdu8f"
     },
     {
       "added_at": "2024-05-14 07:47:03",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-05-14 07:47:03",
       "album": {
+        "name": "The Emerging",
+        "url": "https://open.spotify.com/album/6tHfh49o6KkTwugdI9kh0N"
+      },
+      "artists": [
+        {
+          "name": "Sutej Singh",
+          "url": "https://open.spotify.com/artist/1LQ87p0qt3OEhSGbjMVuVe"
+        }
+      ],
+      "duration_ms": 547186,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/6yPIsdN9uXp0uRCWxTvq1c"
+    },
+    {
+      "added_at": "2024-05-14 07:47:03",
+      "album": {
         "name": "Siya",
         "url": "https://open.spotify.com/album/665kiBV7RpNrKDRCUXD5ve"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 185600,
       "name": "Siya",
       "url": "https://open.spotify.com/track/09zcdMhq7l3q3tbPjp0HTT"
-    },
-    {
-      "added_at": "2024-05-14 07:47:03",
-      "album": {
-        "name": "The Emerging",
-        "url": "https://open.spotify.com/album/6tHfh49o6KkTwugdI9kh0N"
-      },
-      "artists": [
-        {
-          "name": "Sutej Singh",
-          "url": "https://open.spotify.com/artist/1LQ87p0qt3OEhSGbjMVuVe"
-        }
-      ],
-      "duration_ms": 547186,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/6yPIsdN9uXp0uRCWxTvq1c"
     },
     {
       "added_at": "2024-05-14 07:47:03",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-05-14 07:47:03",
       "album": {
-        "name": "Across the River",
-        "url": "https://open.spotify.com/album/1uG7fo8EPPJz6FJ0W4aQuX"
-      },
-      "artists": [
-        {
-          "name": "Eashwar Subramanian",
-          "url": "https://open.spotify.com/artist/5hmltn4HmYFNVXM9TuvGK7"
-        }
-      ],
-      "duration_ms": 215063,
-      "name": "Offering at Dawn",
-      "url": "https://open.spotify.com/track/5I0dxGHQbeqLYaHLxLWF6g"
-    },
-    {
-      "added_at": "2024-05-14 07:47:03",
-      "album": {
         "name": "Brown Man's Funk",
         "url": "https://open.spotify.com/album/4iznu2dfLMbDad818PFzLc"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2024-05-14 07:47:03",
       "album": {
+        "name": "Across the River",
+        "url": "https://open.spotify.com/album/1uG7fo8EPPJz6FJ0W4aQuX"
+      },
+      "artists": [
+        {
+          "name": "Eashwar Subramanian",
+          "url": "https://open.spotify.com/artist/5hmltn4HmYFNVXM9TuvGK7"
+        }
+      ],
+      "duration_ms": 215063,
+      "name": "Offering at Dawn",
+      "url": "https://open.spotify.com/track/5I0dxGHQbeqLYaHLxLWF6g"
+    },
+    {
+      "added_at": "2024-05-14 07:47:03",
+      "album": {
         "name": "This is Carnatic Fusion, Vol. 4",
         "url": "https://open.spotify.com/album/6a8P91f5BM5eykZPz7M2jV"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 261626,
       "name": "Bantureethi Koluvu - Instrumental",
       "url": "https://open.spotify.com/track/54cexJUIswXGxlfR2eky8y"
+    },
+    {
+      "added_at": "2024-05-14 07:47:03",
+      "album": {
+        "name": "The Emerging",
+        "url": "https://open.spotify.com/album/6tHfh49o6KkTwugdI9kh0N"
+      },
+      "artists": [
+        {
+          "name": "Sutej Singh",
+          "url": "https://open.spotify.com/artist/1LQ87p0qt3OEhSGbjMVuVe"
+        }
+      ],
+      "duration_ms": 402000,
+      "name": "The Comeback Trail",
+      "url": "https://open.spotify.com/track/0qxZuWjcIzhIUWslev4aP5"
     },
     {
       "added_at": "2024-08-09 13:42:34",
@@ -867,22 +883,6 @@
       "duration_ms": 156609,
       "name": "Latika",
       "url": "https://open.spotify.com/track/36XnoMM6gOLsxzgFKX2yTL"
-    },
-    {
-      "added_at": "2024-05-14 07:47:03",
-      "album": {
-        "name": "The Emerging",
-        "url": "https://open.spotify.com/album/6tHfh49o6KkTwugdI9kh0N"
-      },
-      "artists": [
-        {
-          "name": "Sutej Singh",
-          "url": "https://open.spotify.com/artist/1LQ87p0qt3OEhSGbjMVuVe"
-        }
-      ],
-      "duration_ms": 402000,
-      "name": "The Comeback Trail",
-      "url": "https://open.spotify.com/track/0qxZuWjcIzhIUWslev4aP5"
     },
     {
       "added_at": "2024-05-14 07:47:03",
@@ -991,26 +991,6 @@
     {
       "added_at": "2024-05-14 07:47:03",
       "album": {
-        "name": "Of Agency and Abstraction",
-        "url": "https://open.spotify.com/album/0IWc6Er95KUR9p5xVXXm9B"
-      },
-      "artists": [
-        {
-          "name": "Rajna Swaminathan",
-          "url": "https://open.spotify.com/artist/76Kr5nklB4ofbdxy0OISZA"
-        },
-        {
-          "name": "Anjna Swaminathan",
-          "url": "https://open.spotify.com/artist/0tjmkKWHrOabhi2Po3O8EQ"
-        }
-      ],
-      "duration_ms": 249063,
-      "name": "Peregrination (feat. Anjna Swaminathan)",
-      "url": "https://open.spotify.com/track/00u1ZHXpQNW9H8a4dupCCa"
-    },
-    {
-      "added_at": "2024-05-14 07:47:03",
-      "album": {
         "name": "A Reclaimed Interval",
         "url": "https://open.spotify.com/album/0IcL9FQ2Tz0LLhPi2vhiPa"
       },
@@ -1041,24 +1021,24 @@
       "url": "https://open.spotify.com/track/2pWLZPs7fj9zHKgccr6J88"
     },
     {
-      "added_at": "2025-01-13 05:39:46",
+      "added_at": "2024-05-14 07:47:03",
       "album": {
-        "name": "AZAADI",
-        "url": "https://open.spotify.com/album/5shYocGFdwVo9F1Yd9kKpz"
+        "name": "Of Agency and Abstraction",
+        "url": "https://open.spotify.com/album/0IWc6Er95KUR9p5xVXXm9B"
       },
       "artists": [
         {
-          "name": "Susmit Sen",
-          "url": "https://open.spotify.com/artist/05dWvaSp7ABuXclHkVPi5s"
+          "name": "Rajna Swaminathan",
+          "url": "https://open.spotify.com/artist/76Kr5nklB4ofbdxy0OISZA"
         },
         {
-          "name": "Gayathri Natarajan",
-          "url": "https://open.spotify.com/artist/6LlHigNKvwRVVHohJ2zHBh"
+          "name": "Anjna Swaminathan",
+          "url": "https://open.spotify.com/artist/0tjmkKWHrOabhi2Po3O8EQ"
         }
       ],
-      "duration_ms": 577294,
-      "name": "Mazaar",
-      "url": "https://open.spotify.com/track/0PfL3lUBmyxd2aVVykDTrc"
+      "duration_ms": 249063,
+      "name": "Peregrination (feat. Anjna Swaminathan)",
+      "url": "https://open.spotify.com/track/00u1ZHXpQNW9H8a4dupCCa"
     },
     {
       "added_at": "2024-05-14 07:47:03",
@@ -1077,20 +1057,24 @@
       "url": "https://open.spotify.com/track/6cMH2fGXa2mnVmpH5ZJQ9r"
     },
     {
-      "added_at": "2024-05-14 07:47:03",
+      "added_at": "2025-01-13 05:39:46",
       "album": {
-        "name": "Hindsight Is 2020",
-        "url": "https://open.spotify.com/album/4JqFv2qEGyJylss14D0BYM"
+        "name": "AZAADI",
+        "url": "https://open.spotify.com/album/5shYocGFdwVo9F1Yd9kKpz"
       },
       "artists": [
         {
-          "name": "Blackstratblues",
-          "url": "https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1"
+          "name": "Susmit Sen",
+          "url": "https://open.spotify.com/artist/05dWvaSp7ABuXclHkVPi5s"
+        },
+        {
+          "name": "Gayathri Natarajan",
+          "url": "https://open.spotify.com/artist/6LlHigNKvwRVVHohJ2zHBh"
         }
       ],
-      "duration_ms": 177531,
-      "name": "Hey 2020",
-      "url": "https://open.spotify.com/track/4nVNpumEiHV7TrK2Y5d04E"
+      "duration_ms": 577294,
+      "name": "Mazaar",
+      "url": "https://open.spotify.com/track/0PfL3lUBmyxd2aVVykDTrc"
     },
     {
       "added_at": "2024-05-14 07:47:03",
@@ -1131,22 +1115,18 @@
     {
       "added_at": "2024-05-14 07:47:03",
       "album": {
-        "name": "Imperfect Things",
-        "url": "https://open.spotify.com/album/0so0Y8UzBKc7aiGTuhdxo7"
+        "name": "Hindsight Is 2020",
+        "url": "https://open.spotify.com/album/4JqFv2qEGyJylss14D0BYM"
       },
       "artists": [
         {
-          "name": "Sridhar Varadarajan",
-          "url": "https://open.spotify.com/artist/6Jy10JIWhSv5VvFzi6sHwg"
-        },
-        {
-          "name": "Dr. Prakash Sontakke",
-          "url": "https://open.spotify.com/artist/6fYFqyR7XR02bh9xpEXEHu"
+          "name": "Blackstratblues",
+          "url": "https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1"
         }
       ],
-      "duration_ms": 185685,
-      "name": "Snowfall",
-      "url": "https://open.spotify.com/track/6jBKigEE4UpWHuTitAqAdG"
+      "duration_ms": 177531,
+      "name": "Hey 2020",
+      "url": "https://open.spotify.com/track/4nVNpumEiHV7TrK2Y5d04E"
     },
     {
       "added_at": "2024-05-14 07:47:03",
@@ -1163,6 +1143,26 @@
       "duration_ms": 215722,
       "name": "Mind In Wonderland",
       "url": "https://open.spotify.com/track/7Gicp5eFq4pbTdqAjva2Xe"
+    },
+    {
+      "added_at": "2024-05-14 07:47:03",
+      "album": {
+        "name": "Imperfect Things",
+        "url": "https://open.spotify.com/album/0so0Y8UzBKc7aiGTuhdxo7"
+      },
+      "artists": [
+        {
+          "name": "Sridhar Varadarajan",
+          "url": "https://open.spotify.com/artist/6Jy10JIWhSv5VvFzi6sHwg"
+        },
+        {
+          "name": "Dr. Prakash Sontakke",
+          "url": "https://open.spotify.com/artist/6fYFqyR7XR02bh9xpEXEHu"
+        }
+      ],
+      "duration_ms": 185685,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/6jBKigEE4UpWHuTitAqAdG"
     },
     {
       "added_at": "2024-05-14 07:47:03",
@@ -1219,50 +1219,6 @@
     {
       "added_at": "2024-05-14 07:47:03",
       "album": {
-        "name": "A Walk Through Brindavan (feat. Vijay Gopal & Nel Bucktowar)",
-        "url": "https://open.spotify.com/album/38oyyrR3JnQKZjQOzIq2xn"
-      },
-      "artists": [
-        {
-          "name": "Devan Ekambaram",
-          "url": "https://open.spotify.com/artist/1HUZ6vfsSWpfLoxjgDavEB"
-        },
-        {
-          "name": "Vijay Gopal",
-          "url": "https://open.spotify.com/artist/5aRP9KONz01wF6kUFA173F"
-        },
-        {
-          "name": "Nel Bucktowar",
-          "url": "https://open.spotify.com/artist/1IRL56HV87GLsLg71g4REl"
-        }
-      ],
-      "duration_ms": 268157,
-      "name": "A Walk Through Brindavan (feat. Vijay Gopal & Nel Bucktowar)",
-      "url": "https://open.spotify.com/track/4IUm1uqTDRkyIA1T33GrnR"
-    },
-    {
-      "added_at": "2024-05-14 07:47:03",
-      "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/39btMG9DNAir8fkFT7OcXN"
-      },
-      "artists": [
-        {
-          "name": "Vinay Kaushal",
-          "url": "https://open.spotify.com/artist/397mfo5Gp4jT72aYLnnSDZ"
-        },
-        {
-          "name": "Shirish Malhotra",
-          "url": "https://open.spotify.com/artist/09BRSkC9du5CQy9r6u6Bv2"
-        }
-      ],
-      "duration_ms": 328285,
-      "name": "Mind Games",
-      "url": "https://open.spotify.com/track/25huDxLSCWw37NB5J2lkS5"
-    },
-    {
-      "added_at": "2024-05-14 07:47:03",
-      "album": {
         "name": "Ascent",
         "url": "https://open.spotify.com/album/6IM9vWv8KvbSg65TlBAFCS"
       },
@@ -1291,18 +1247,62 @@
     {
       "added_at": "2024-05-14 07:47:03",
       "album": {
-        "name": "Monsoon Melodies",
-        "url": "https://open.spotify.com/album/39gBKIFpzZGzBIF21xwg60"
+        "name": "A Walk Through Brindavan (feat. Vijay Gopal & Nel Bucktowar)",
+        "url": "https://open.spotify.com/album/38oyyrR3JnQKZjQOzIq2xn"
       },
       "artists": [
         {
-          "name": "Bhooshan Gogad",
-          "url": "https://open.spotify.com/artist/7rZipNXSBDQicSLNRZbN2B"
+          "name": "Devan Ekambaram",
+          "url": "https://open.spotify.com/artist/1HUZ6vfsSWpfLoxjgDavEB"
+        },
+        {
+          "name": "Vijay Gopal",
+          "url": "https://open.spotify.com/artist/5aRP9KONz01wF6kUFA173F"
+        },
+        {
+          "name": "Nel Bucktowar",
+          "url": "https://open.spotify.com/artist/1IRL56HV87GLsLg71g4REl"
         }
       ],
-      "duration_ms": 296275,
-      "name": "Monsoon Melodies",
-      "url": "https://open.spotify.com/track/3uMMZfQrOG8dNfioP0nWaU"
+      "duration_ms": 268157,
+      "name": "A Walk Through Brindavan (feat. Vijay Gopal & Nel Bucktowar)",
+      "url": "https://open.spotify.com/track/4IUm1uqTDRkyIA1T33GrnR"
+    },
+    {
+      "added_at": "2024-05-14 07:47:03",
+      "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/4Vusp4EKvs4vTCJ3mGKIfo"
+      },
+      "artists": [
+        {
+          "name": "The Gap",
+          "url": "https://open.spotify.com/artist/7Hg022H1GhPzbegtrM8c9g"
+        }
+      ],
+      "duration_ms": 173388,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/2fNzV86ZTgfnl845KzyTaB"
+    },
+    {
+      "added_at": "2024-05-14 07:47:03",
+      "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/39btMG9DNAir8fkFT7OcXN"
+      },
+      "artists": [
+        {
+          "name": "Vinay Kaushal",
+          "url": "https://open.spotify.com/artist/397mfo5Gp4jT72aYLnnSDZ"
+        },
+        {
+          "name": "Shirish Malhotra",
+          "url": "https://open.spotify.com/artist/09BRSkC9du5CQy9r6u6Bv2"
+        }
+      ],
+      "duration_ms": 328285,
+      "name": "Mind Games",
+      "url": "https://open.spotify.com/track/25huDxLSCWw37NB5J2lkS5"
     },
     {
       "added_at": "2024-05-14 07:47:03",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-05-14 07:47:03",
       "album": {
+        "name": "Monsoon Melodies",
+        "url": "https://open.spotify.com/album/39gBKIFpzZGzBIF21xwg60"
+      },
+      "artists": [
+        {
+          "name": "Bhooshan Gogad",
+          "url": "https://open.spotify.com/artist/7rZipNXSBDQicSLNRZbN2B"
+        }
+      ],
+      "duration_ms": 296275,
+      "name": "Monsoon Melodies",
+      "url": "https://open.spotify.com/track/3uMMZfQrOG8dNfioP0nWaU"
+    },
+    {
+      "added_at": "2024-05-14 07:47:03",
+      "album": {
         "name": "Ode To My Beloved (Bhalobeshe Shokhi)",
         "url": "https://open.spotify.com/album/2gaJaqnhluGbirPSDqJsyg"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 304390,
       "name": "Bhenge Mor Ghawrer Chabi",
       "url": "https://open.spotify.com/track/4isMsWHPQvwGewHEflkkGD"
-    },
-    {
-      "added_at": "2024-05-14 07:47:03",
-      "album": {
-        "name": "Moving On",
-        "url": "https://open.spotify.com/album/4Vusp4EKvs4vTCJ3mGKIfo"
-      },
-      "artists": [
-        {
-          "name": "The Gap",
-          "url": "https://open.spotify.com/artist/7Hg022H1GhPzbegtrM8c9g"
-        }
-      ],
-      "duration_ms": 173388,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/2fNzV86ZTgfnl845KzyTaB"
     },
     {
       "added_at": "2024-05-14 07:47:03",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-05-14 07:47:03",
       "album": {
-        "name": "Back to One",
-        "url": "https://open.spotify.com/album/5r2rB9OynhQbvJeBE24z28"
-      },
-      "artists": [
-        {
-          "name": "Chris Jason",
-          "url": "https://open.spotify.com/artist/2V2s3Ojx8fA8C0kZhyWmkl"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Back to One",
-      "url": "https://open.spotify.com/track/4yEXxzaeY1QfEfRVXTNqi9"
-    },
-    {
-      "added_at": "2024-05-14 07:47:03",
-      "album": {
         "name": "J'ai Fame",
         "url": "https://open.spotify.com/album/7ANN5Eoq5PUKMAnwh2q8tp"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 213718,
       "name": "La Lune (Prelude)",
       "url": "https://open.spotify.com/track/0UBhlyZ8UVLQJRJYeuWZAN"
+    },
+    {
+      "added_at": "2024-05-14 07:47:03",
+      "album": {
+        "name": "Back to One",
+        "url": "https://open.spotify.com/album/5r2rB9OynhQbvJeBE24z28"
+      },
+      "artists": [
+        {
+          "name": "Chris Jason",
+          "url": "https://open.spotify.com/artist/2V2s3Ojx8fA8C0kZhyWmkl"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Back to One",
+      "url": "https://open.spotify.com/track/4yEXxzaeY1QfEfRVXTNqi9"
     },
     {
       "added_at": "2024-05-14 07:47:03",

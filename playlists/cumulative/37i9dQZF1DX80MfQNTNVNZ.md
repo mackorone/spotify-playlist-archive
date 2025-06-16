@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-585 songs - 1 day 10 hr 30 min
+586 songs - 1 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Hands On](https://open.spotify.com/track/0YmU22gCHDKFejuvI8nDou) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [JMF](https://open.spotify.com/artist/6V5X6OhHNqA0q01XiQHF8I) | [Hands On](https://open.spotify.com/album/6H1ArOOmdPY8XYp1x1pXem) | 6:06 | 2021-12-23 | 2022-07-08 |
 | [happy im](https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [happy im](https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI) | 2:54 | 2023-08-10 | 2024-01-19 |
 | [HARD TRUTHS](https://open.spotify.com/track/2kkRW9QXMQ6shaneQWqCgB) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [HARD TRUTHS](https://open.spotify.com/album/0fuIOqcLppUGvtS9sVssCF) | 2:26 | 2025-05-16 |  |
+| [Head Over Heels](https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Head Over Heels](https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp) | 3:48 | 2025-06-12 |  |
 | [Headphones](https://open.spotify.com/track/04B64zIf89qyXyEoxFS3pH) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK), [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [Gela](https://open.spotify.com/album/6U4EyQWAc1wCohtIV3wBqz) | 2:46 | 2022-03-24 | 2022-04-19 |
 | [Health Food](https://open.spotify.com/track/0Dylgc29zZwO3YRC1VrMdo) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [HAN](https://open.spotify.com/album/5lNkWEQ3JI2nrJL07xjbTh) | 4:07 | 2021-12-23 | 2022-06-30 |
 | [Heart Ain't Empty](https://open.spotify.com/track/1PqnJfIMxnUrpUISfdbPGQ) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Heart Ain't Empty](https://open.spotify.com/album/7s00wxQvavyaVWYPJjL9gr) | 2:57 | 2024-01-25 | 2024-04-26 |
@@ -469,7 +470,7 @@
 | [Tell Him \(feat\. Lalah Hathaway\)](https://open.spotify.com/track/3ztdJR4uU8uzw1148ODXkc) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Tell Him \(feat\. Lalah Hathaway\)](https://open.spotify.com/album/2unAAfdm8fsN9HZt8QXvnz) | 3:54 | 2022-01-06 | 2022-07-29 |
 | [Tell Me Why \(feat\. Sabri\)](https://open.spotify.com/track/7v3F2unkzBsPQVgTcChkM1) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Tell Me Why \(feat\. Sabri\)](https://open.spotify.com/album/2zKqFkItWJB90sn1EKhNgu) | 3:08 | 2022-03-31 | 2022-04-12 |
 | [Temperature High](https://open.spotify.com/track/7EfXF5eDjdGvAp6Lvqz7w0) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Temperature High](https://open.spotify.com/album/6KOHE7segw0upBTSCpWELD) | 3:10 | 2023-08-10 | 2024-01-19 |
-| [Temptress](https://open.spotify.com/track/3oRXIgoaxiemxMk3uXmH7N) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:56 | 2025-01-24 |  |
+| [Temptress](https://open.spotify.com/track/3oRXIgoaxiemxMk3uXmH7N) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:56 | 2025-01-24 | 2025-06-16 |
 | [Terms and Conditions](https://open.spotify.com/track/3vv2KJC3vaWPXXF5Ba7biE) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Terms and Conditions](https://open.spotify.com/album/7CJe1NJRPmK5et3uevNQw5) | 3:29 | 2023-04-06 | 2023-07-07 |
 | [Text Me When You Get Home](https://open.spotify.com/track/2izQTx8Kqqim7uwsd6JDTt) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Lola Vialet](https://open.spotify.com/artist/17pVXx2X9nRMCPFkdrxkUD), [UHMEER](https://open.spotify.com/artist/5PsYkefUonoeM9VCnpf5zd) | [A Kid From Yerevan](https://open.spotify.com/album/1OBqbm22aIZsHyxkrUVVOu) | 5:17 | 2023-06-01 | 2024-04-19 |
 | [Text Me When You Get Home](https://open.spotify.com/track/3smoRPTQLhVoKbSX9kX5Y2) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Lola Vialet](https://open.spotify.com/artist/17pVXx2X9nRMCPFkdrxkUD), [UHMEER](https://open.spotify.com/artist/5PsYkefUonoeM9VCnpf5zd) | [A Kid From Yerevan](https://open.spotify.com/album/15faNhkthd1ph8RFvsuB2o) | 5:17 | 2023-06-01 | 2024-10-12 |

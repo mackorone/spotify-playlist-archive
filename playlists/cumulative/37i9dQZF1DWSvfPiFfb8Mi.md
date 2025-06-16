@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-380 songs - 1 day 1 hr 5 min
+381 songs - 1 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [All My Friends](https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Real Cultural Shit](https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0) | 4:03 | 2023-05-19 |  |
 | [All The Things We Say](https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [All The Things We Say / Move Me](https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4) | 3:51 | 2023-06-09 | 2025-04-14 |
 | [All This Love](https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [All This Love](https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb) | 3:53 | 2024-07-12 |  |
+| [Allora Amore](https://open.spotify.com/track/5LaJmV58x4FXGiz4mmdQBH) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Joe Le Groove](https://open.spotify.com/artist/3Vny01PfbbFxQ6bCtW4AFr) | [Allora Amore](https://open.spotify.com/album/3S5nQZtFOTcrJ8EUbRroE6) | 3:29 | 2025-06-06 |  |
 | [Alsace](https://open.spotify.com/track/4JFtsiOtsOXbuXPg1qXjBX) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Alsace](https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS) | 1:57 | 2024-07-05 |  |
 | [Always By Your Side](https://open.spotify.com/track/11jjzsFPIuaVORI0HSdLGt) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Always By Your Side](https://open.spotify.com/album/1o4hTnWRBt6GxbNytqNHxH) | 5:37 | 2024-06-14 | 2025-05-24 |
 | [Amantes \- Poolside Remix](https://open.spotify.com/track/1Bj4RpZHBXXz0G4wX4QYRi) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Amantes \(Poolside Remix\)](https://open.spotify.com/album/1nPnBp78vPtN3xdnTXUlUm) | 3:25 | 2024-05-31 | 2024-11-06 |
@@ -362,7 +363,7 @@
 | [Unconditional feat\. Rationale \- Girls of the Internet Remix](https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Unconditional feat\. Rationale \(Girls of the Internet Remix\)](https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF) | 3:50 | 2024-06-28 | 2025-05-29 |
 | [Under My Skin](https://open.spotify.com/track/2YHWK4dHz9dcL4gAeMXvF6) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Under My Skin](https://open.spotify.com/album/712jM2DQdTggQ3Uzp8cxW9) | 3:42 | 2024-09-20 |  |
 | [Unholy Delights](https://open.spotify.com/track/1K7CGcnQpclZiuUtFGXo4o) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Unholy Delights](https://open.spotify.com/album/2EgnK1VNU4wv952DUhvwPO) | 3:08 | 2023-10-27 | 2024-03-31 |
-| [UP DOWN BOUNCE](https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [UP DOWN BOUNCE](https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd) | 3:08 | 2024-09-13 |  |
+| [UP DOWN BOUNCE](https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [UP DOWN BOUNCE](https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd) | 3:08 | 2024-09-13 | 2025-06-16 |
 | [Vesuvio](https://open.spotify.com/track/6d5Ef0SJJxvzafpgKCRFoC) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:41 | 2022-06-20 |  |
 | [Waiting 4 You](https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe) | [Ekkah](https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb) | [Waiting 4 You](https://open.spotify.com/album/6azOujmzDmxwelXemqImSU) | 3:40 | 2023-05-19 |  |
 | [Walking Away](https://open.spotify.com/track/5vhNn6ZfEXbFMw0qR6Grpn) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Walking Away](https://open.spotify.com/album/2WJYEyGr2q6xUt0jyDuJq1) | 3:01 | 2021-07-24 | 2023-05-20 |

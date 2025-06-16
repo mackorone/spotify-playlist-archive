@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,522 likes - 40 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,543 likes - 40 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [Crying Over Nothing](https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Crying Over Nothing](https://open.spotify.com/album/1THXecpd4s8ahsnlWIxEOz) | 3:15 |
 | 40 | [Heat](https://open.spotify.com/track/7gn1dVwAYxmzpj5peCAOWt) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Heat](https://open.spotify.com/album/3fAes6kOJqF8H5IumD0aik) | 2:51 |
 
-Snapshot ID: `AAAAADWAf9VeJDYrP+WPjWcwzOlQi/kZ`
+Snapshot ID: `aEis4wAAAAAw1fPeyRyG/1mguTWv6qll`

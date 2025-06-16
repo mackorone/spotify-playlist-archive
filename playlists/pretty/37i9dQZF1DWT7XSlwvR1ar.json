@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2112136,
+  "num_followers": 2112312,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
+        "name": "Gossip In The Grain",
+        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "You Are the Best Thing",
+      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 310553,
       "name": "Mariella",
       "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
-        "name": "Gossip In The Grain",
-        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "You Are the Best Thing",
-      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 227240,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -959,18 +959,18 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "Pour It Out Into The Night",
-        "url": "https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK"
+        "name": "Chronicles of a Diamond",
+        "url": "https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH"
       },
       "artists": [
         {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
         }
       ],
-      "duration_ms": 262066,
-      "name": "Good Old Days",
-      "url": "https://open.spotify.com/track/3ycnLH0vm7D9K2QHA4cAnq"
+      "duration_ms": 232466,
+      "name": "Ice Cream (Pay Phone)",
+      "url": "https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -991,18 +991,18 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "Chronicles of a Diamond",
-        "url": "https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH"
+        "name": "Pour It Out Into The Night",
+        "url": "https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK"
       },
       "artists": [
         {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
         }
       ],
-      "duration_ms": 232466,
-      "name": "Ice Cream (Pay Phone)",
-      "url": "https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t"
+      "duration_ms": 262066,
+      "name": "Good Old Days",
+      "url": "https://open.spotify.com/track/3ycnLH0vm7D9K2QHA4cAnq"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 253613,
-      "name": "Sunblind",
-      "url": "https://open.spotify.com/track/308prODCCD0O660tIktbUi"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
         "name": "Tales Of America (The Second Coming)",
         "url": "https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 206880,
       "name": "Lebanon",
       "url": "https://open.spotify.com/track/1jKG59NQTTCr1tSG9YDzuZ"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 253613,
+      "name": "Sunblind",
+      "url": "https://open.spotify.com/track/308prODCCD0O660tIktbUi"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "(watch my moves)",
-        "url": "https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 332533,
-      "name": "Mount Airy Hill (Way Gone)",
-      "url": "https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
         "name": "Heartless",
         "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 198456,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
+        "name": "(watch my moves)",
+        "url": "https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 332533,
+      "name": "Mount Airy Hill (Way Gone)",
+      "url": "https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "German Cars",
-        "url": "https://open.spotify.com/album/319NY8ddHWxtHWaYzbPdjT"
-      },
-      "artists": [
-        {
-          "name": "Matt Nathanson",
-          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
-        }
-      ],
-      "duration_ms": 201453,
-      "name": "German Cars",
-      "url": "https://open.spotify.com/track/4yPEdX4KdqujBwQWlzhBMu"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
         "name": "Gloria Sparks",
         "url": "https://open.spotify.com/album/7FsCFNZmtYmEJMEGnhaboR"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 216120,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/75ZZuV6Y954ONtyoQboey1"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
+        "name": "German Cars",
+        "url": "https://open.spotify.com/album/319NY8ddHWxtHWaYzbPdjT"
+      },
+      "artists": [
+        {
+          "name": "Matt Nathanson",
+          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
+        }
+      ],
+      "duration_ms": 201453,
+      "name": "German Cars",
+      "url": "https://open.spotify.com/track/4yPEdX4KdqujBwQWlzhBMu"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "Good Luck, Kid",
-        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 223453,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
         "name": "Forget About Us",
         "url": "https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 196359,
       "name": "Forget About Us",
       "url": "https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
+        "name": "Good Luck, Kid",
+        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "Making Do",
-        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 214150,
-      "name": "Making Do",
-      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
         "name": "Love Is Love",
         "url": "https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45"
       },
@@ -1795,6 +1779,22 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
+        "name": "Making Do",
+        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 214150,
+      "name": "Making Do",
+      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
         "name": "Freewheelin' Woman",
         "url": "https://open.spotify.com/album/2evFHBABBhgV5OtDqHPomo"
       },
@@ -1811,22 +1811,6 @@
       "duration_ms": 200173,
       "name": "Dancing Slow",
       "url": "https://open.spotify.com/track/1en09AnmYzVyIp4su1cnGK"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
-        "name": "Colour Your World",
-        "url": "https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ"
-      },
-      "artists": [
-        {
-          "name": "Mega",
-          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
-        }
-      ],
-      "duration_ms": 193367,
-      "name": "If Not My Heart",
-      "url": "https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -1859,6 +1843,22 @@
       "duration_ms": 248210,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
+        "name": "Colour Your World",
+        "url": "https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ"
+      },
+      "artists": [
+        {
+          "name": "Mega",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
+        }
+      ],
+      "duration_ms": 193367,
+      "name": "If Not My Heart",
+      "url": "https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "Soul Sweet Song",
-        "url": "https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 235626,
-      "name": "Soul Sweet Song",
-      "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
-    },
-    {
-      "added_at": "2025-05-02 04:00:31",
-      "album": {
         "name": "Sweet Unknown",
         "url": "https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 238933,
       "name": "Sweet Unknown",
       "url": "https://open.spotify.com/track/6ypf8ClLV8sPrJPp2WwFoh"
+    },
+    {
+      "added_at": "2025-05-02 04:00:31",
+      "album": {
+        "name": "Soul Sweet Song",
+        "url": "https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 235626,
+      "name": "Soul Sweet Song",
+      "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
     },
     {
       "added_at": "2025-05-02 04:00:31",
@@ -2111,18 +2111,18 @@
     {
       "added_at": "2025-05-02 04:00:31",
       "album": {
-        "name": "En Garde",
-        "url": "https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy"
+        "name": "Black Jeans",
+        "url": "https://open.spotify.com/album/1CVxayI7MG3L73PgA1DCz6"
       },
       "artists": [
         {
-          "name": "Ethan Gruska",
-          "url": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
         }
       ],
-      "duration_ms": 220175,
-      "name": "Teenage Drug",
-      "url": "https://open.spotify.com/track/2FpLyV7tVMRHJAq3foYHPU"
+      "duration_ms": 306600,
+      "name": "Black Jeans",
+      "url": "https://open.spotify.com/track/2vBnxZkr6K0Py6iTxHXUKS"
     }
   ],
   "unique_name": "Totally Stress Free",

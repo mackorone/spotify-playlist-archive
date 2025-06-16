@@ -4,7 +4,7 @@
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-268 songs - 16 hr 3 min
+269 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Drowning In You](https://open.spotify.com/track/0bqJDrb7zRLOiCnUm7MXZW) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [Drowning In You](https://open.spotify.com/album/6px2l6DvudSYsp8FSddKKj) | 3:37 | 2022-08-05 | 2024-06-28 |
 | [Elastic Soul](https://open.spotify.com/track/0TDcoX3kaOzikpliV426r5) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Elastic Soul](https://open.spotify.com/album/2I6CUVgFyftFEw23eIsYDU) | 4:50 | 2024-07-25 |  |
 | [Elektrify](https://open.spotify.com/track/5W6i0LRLEsd4Q5fBL5unzU) | [London Elektricity](https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal), [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Makoto](https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu), [Vonné](https://open.spotify.com/artist/5hIlKKpuYPLaWx7c9k9Fa1) | [Elektrify](https://open.spotify.com/album/4b6ooX4uIbShYJ7htG7Auh) | 4:11 | 2025-03-06 | 2025-05-31 |
+| [Elevate](https://open.spotify.com/track/40WOqqydIlVzhbCHYsXejk) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [FEMME](https://open.spotify.com/artist/2lcT6qkYGkmQQ3KCU5BW9K) | [Elevate](https://open.spotify.com/album/0NdWdBW0KWrKsqlEe5BQnO) | 3:24 | 2025-05-08 |  |
 | [Enemies](https://open.spotify.com/track/6TpoVBaYIfJ1wx57gNoJuA) | [Brookes Brothers](https://open.spotify.com/artist/2FPeVdIIXD9Wb9Kbn1Hyz6), [Mia Kirkland](https://open.spotify.com/artist/4hfw8XD3PTSsBAKj3Zx3fD) | [Enemies](https://open.spotify.com/album/25cVfr0hdtNY6IayDhR1d8) | 3:26 | 2024-08-15 |  |
 | [Even If \- Original Mix](https://open.spotify.com/track/5nVkaIXaqQtoMX4V1jncdO) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Even If](https://open.spotify.com/album/2YjxUlgCtx6RYLtKIGwqLK) | 7:34 | 2022-08-05 | 2024-08-19 |
 | [Everybody Loves The Sunshine](https://open.spotify.com/track/4ch0ejqrSwJrotLroa9mXn) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Babl Lemmens](https://open.spotify.com/artist/2xHPYFV4Cs58qCZoMTAOmP), [Daddy Waku](https://open.spotify.com/artist/19DWkWsLdFRuzN8naS8cUH), [Chantal Kashala](https://open.spotify.com/artist/5wlcoAg1EcZWqHkqo2RaTD) | [Second Nature](https://open.spotify.com/album/0SUfKH80GjuKbA5dTWSwkh) | 3:20 | 2023-08-25 | 2024-04-19 |
@@ -268,7 +269,7 @@
 | [Walk Through Fire](https://open.spotify.com/track/6GAIFjKSUCb4ndyDwDgKsJ) | [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Walk Through Fire](https://open.spotify.com/album/7CYvf2lpIFGAwOM1NDXA6Y) | 3:33 | 2023-06-13 | 2024-04-05 |
 | [Waste My Time](https://open.spotify.com/track/6Dy8UR9dhacqq6BJlumXN1) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [HEIGHTS](https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH) | [Waste My Time](https://open.spotify.com/album/72xrwHrXihuGZxJiliuFdz) | 2:25 | 2023-10-13 | 2025-03-07 |
 | [Watercolour \- Full Version; Single](https://open.spotify.com/track/5ami95W9OOWQPwrBb5tud5) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Immersion](https://open.spotify.com/album/3XtEGVx9uh7J46nBzEc1VS) | 5:04 | 2022-08-05 | 2024-09-20 |
-| [Way We Move](https://open.spotify.com/track/4FIReaKIlDRnhfaPe9SXep) | [Krakota](https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Way We Move](https://open.spotify.com/album/6WcJxJnCuCsRPEoKy3Ex5O) | 3:57 | 2022-08-05 |  |
+| [Way We Move](https://open.spotify.com/track/4FIReaKIlDRnhfaPe9SXep) | [Krakota](https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Way We Move](https://open.spotify.com/album/6WcJxJnCuCsRPEoKy3Ex5O) | 3:57 | 2022-08-05 | 2025-06-16 |
 | [We All Need Someone](https://open.spotify.com/track/6w7lAYEIwnV5R0FxmgmGFP) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Empara Mi](https://open.spotify.com/artist/2nhyc8aipr32vUz8Sd5Gp6) | [We All Need Someone](https://open.spotify.com/album/7zIEQjvo9fnhRvUIKv0dpK) | 3:54 | 2022-08-05 | 2024-05-20 |
 | [What You Heard About Me](https://open.spotify.com/track/1ErOaiF4mXvdhb5YQTG6vE) | [Posk](https://open.spotify.com/artist/0Se9VSGYSzcS0QmxztSJxe), [Ekstatic](https://open.spotify.com/artist/1VQbUvRt7zz4zzLGD3vrMD) | [What You Heard About Me](https://open.spotify.com/album/5AiGxsokv0sJxw1IOYR1pV) | 2:39 | 2024-10-16 | 2025-03-07 |
 | [When It Runs Out \(feat\. Felix Samuel\)](https://open.spotify.com/track/4MZCttWZHqjmIefkrUiA0t) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [When It Runs Out \(feat\. Felix Samuel\)](https://open.spotify.com/album/4mvaF4ugSd44nVs4SLsTZs) | 2:07 | 2025-03-06 | 2025-03-30 |

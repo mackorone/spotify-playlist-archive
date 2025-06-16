@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Crate Classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,296 likes - 239 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,288 likes - 239 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

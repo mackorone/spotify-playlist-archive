@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Parece que va a llover, el cielo se está nublando..\. pero todo mejora con música nueva! 🌦️ Grupo Frontera en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,512 likes - 55 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,698 likes - 55 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 54 | [Decisión](https://open.spotify.com/track/3thXiXy8Y9Db1GwoHmxbnp) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Decisión](https://open.spotify.com/album/3VfF9AzOdrtJrN4yvwWV1H) | 3:24 |
 | 55 | [Trapped In Silence](https://open.spotify.com/track/19WZpaTrUb0oMnU7A8XhAP) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Trapped In Silence](https://open.spotify.com/album/64DSi1YElrV0lkr5gxgt4X) | 2:55 |
 
-Snapshot ID: `AAAAAFHfOBdVpnFZK8kOUa+7fqQcekqL`
+Snapshot ID: `aEvXnQAAAAAYNVsjSOIjJbQ/ar5FhKer`

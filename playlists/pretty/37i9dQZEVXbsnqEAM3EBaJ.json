@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAB1eGWJypyCGtMS9zTKJ9wv",
+  "snapshot_id": "AAAAAAAAAAAN9zlNj2XIm82B3gcBA0FS",
   "tracks": [
     {
       "added_at": "2025-06-13 04:00:00",
@@ -147,6 +147,30 @@
     {
       "added_at": "2025-06-13 04:00:00",
       "album": {
+        "name": "What Else Is There? (Jennifer Loveless Collage of Time Remix)",
+        "url": "https://open.spotify.com/album/2Bj5jrDeLZXFgYammdYS2m"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Jennifer Loveless",
+          "url": "https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c"
+        },
+        {
+          "name": "Fever Ray",
+          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+        }
+      ],
+      "duration_ms": 187949,
+      "name": "What Else Is There? - Jennifer Loveless Collage of Time Remix",
+      "url": "https://open.spotify.com/track/6ovu8myawQiaUkY8Uyfiyy"
+    },
+    {
+      "added_at": "2025-06-13 04:00:00",
+      "album": {
         "name": "VSQ Performs the Hits of 2025, Vol. 1",
         "url": "https://open.spotify.com/album/6zVzIXdCpItzGUetIXfsPW"
       },
@@ -163,38 +187,18 @@
     {
       "added_at": "2025-06-13 04:00:00",
       "album": {
-        "name": "God Is A Weapon",
-        "url": "https://open.spotify.com/album/4VzRZ2DzakebhZtsmG42lw"
+        "name": "4th Liners",
+        "url": "https://open.spotify.com/album/2GEg05aEySgUWtDoGtUYso"
       },
       "artists": [
         {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
-        },
-        {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+          "name": "League Minimum",
+          "url": "https://open.spotify.com/artist/70ETMV2vrvNx16y7ht6BBD"
         }
       ],
-      "duration_ms": 215444,
-      "name": "God Is A Weapon",
-      "url": "https://open.spotify.com/track/0mROspyBziPHPyxTPFvKaH"
-    },
-    {
-      "added_at": "2025-06-13 04:00:00",
-      "album": {
-        "name": "From Zero (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 208739,
-      "name": "Let You Fade",
-      "url": "https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc"
+      "duration_ms": 144750,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/1iSDn0mTpb0ZLZcbZgYkef"
     },
     {
       "added_at": "2025-06-13 04:00:00",
@@ -215,26 +219,6 @@
     {
       "added_at": "2025-06-13 04:00:00",
       "album": {
-        "name": "I Refuse (feat. Maria Brink of In This Moment) [2025 VERSION]",
-        "url": "https://open.spotify.com/album/2IrqDjpjH3dOVz8Nd7rPqI"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        },
-        {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "I Refuse (feat. Maria Brink of In This Moment) - 2025 VERSION",
-      "url": "https://open.spotify.com/track/183LHdf7z7LG2eQf10popU"
-    },
-    {
-      "added_at": "2025-06-13 04:00:00",
-      "album": {
         "name": "Taphephobia",
         "url": "https://open.spotify.com/album/3nsvLJadE0giMIxYB7tYpH"
       },
@@ -247,26 +231,6 @@
       "duration_ms": 222355,
       "name": "Taphephobia",
       "url": "https://open.spotify.com/track/06IhSNQeoWnzEThNAu0GAX"
-    },
-    {
-      "added_at": "2025-06-13 04:00:00",
-      "album": {
-        "name": "Sing Like A Siren",
-        "url": "https://open.spotify.com/album/2Tvh9SL8T4Aezh9PyHWQrD"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Jerry Heil",
-          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
-        }
-      ],
-      "duration_ms": 192561,
-      "name": "Sing Like A Siren",
-      "url": "https://open.spotify.com/track/1cJsdrliWdGWCYN43Y5eOV"
     },
     {
       "added_at": "2025-06-13 04:00:00",
@@ -291,82 +255,6 @@
     {
       "added_at": "2025-06-13 04:00:00",
       "album": {
-        "name": "Teacher",
-        "url": "https://open.spotify.com/album/13sZYGUAkPtUrLWoeVgTDC"
-      },
-      "artists": [
-        {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
-        }
-      ],
-      "duration_ms": 296200,
-      "name": "Teacher - UK Single Version, 2025 Remix",
-      "url": "https://open.spotify.com/track/4fahnT6SfZeTd8mzNtXMei"
-    },
-    {
-      "added_at": "2025-06-13 04:00:00",
-      "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6EDydwoQn6E7A4oUMkZNwy"
-      },
-      "artists": [
-        {
-          "name": "Nik Nocturnal",
-          "url": "https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q"
-        },
-        {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
-        },
-        {
-          "name": "Phil Labonte",
-          "url": "https://open.spotify.com/artist/6OY2JTDo9YnoupbqPJggDY"
-        }
-      ],
-      "duration_ms": 205494,
-      "name": "Scarlet",
-      "url": "https://open.spotify.com/track/0HEO3qMRynGJJm42EMDnwC"
-    },
-    {
-      "added_at": "2025-06-13 04:00:00",
-      "album": {
-        "name": "no rest for the dreamer",
-        "url": "https://open.spotify.com/album/4XdijybRm85vm6RZZGNg3v"
-      },
-      "artists": [
-        {
-          "name": "We Came As Romans",
-          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
-        }
-      ],
-      "duration_ms": 188059,
-      "name": "no rest for the dreamer",
-      "url": "https://open.spotify.com/track/0qCdxP1pLL3a5qdOBTasDT"
-    },
-    {
-      "added_at": "2025-06-13 04:00:00",
-      "album": {
-        "name": "Break These Chains (feat. Niko Vilhelm of Blind Channel)",
-        "url": "https://open.spotify.com/album/7ouCL5sH19AwXq1VMHhXmV"
-      },
-      "artists": [
-        {
-          "name": "The Rasmus",
-          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
-        },
-        {
-          "name": "Blind Channel",
-          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
-        }
-      ],
-      "duration_ms": 223906,
-      "name": "Break These Chains (feat. Niko Vilhelm of Blind Channel)",
-      "url": "https://open.spotify.com/track/03epNQcpWbIg6kWRIWLfN7"
-    },
-    {
-      "added_at": "2025-06-13 04:00:00",
-      "album": {
         "name": "Let All That We Imagine Be The Light",
         "url": "https://open.spotify.com/album/3SVwtqCeeVLPdnxipKxgIj"
       },
@@ -379,22 +267,6 @@
       "duration_ms": 219691,
       "name": "R U Happy Now",
       "url": "https://open.spotify.com/track/4XGNzQ0JdnV27LPXVPvHWV"
-    },
-    {
-      "added_at": "2025-06-13 04:00:00",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1O9vAGeUFOerYsIC88NEvy"
-      },
-      "artists": [
-        {
-          "name": "Richard Ashcroft",
-          "url": "https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU"
-        }
-      ],
-      "duration_ms": 220509,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/7AWaNIEuvoBCS4koRVDfbH"
     },
     {
       "added_at": "2025-06-13 04:00:00",
@@ -499,42 +371,6 @@
       "duration_ms": 295162,
       "name": "Plus One - ft. Iggy Pop",
       "url": "https://open.spotify.com/track/5fjLWUoQ5NMKh5YlUeE385"
-    },
-    {
-      "added_at": "2025-06-13 04:00:00",
-      "album": {
-        "name": "My Valentine (with Paul McCartney)",
-        "url": "https://open.spotify.com/album/7opVxBLRbaAq1q7aMSLeHo"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        },
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 258712,
-      "name": "My Valentine (with Paul McCartney)",
-      "url": "https://open.spotify.com/track/5ieWsEv2u9vMHWB3uV3R5Z"
-    },
-    {
-      "added_at": "2025-06-13 04:00:00",
-      "album": {
-        "name": "MAKUAKE / Little Lennon",
-        "url": "https://open.spotify.com/album/7FJWmktB9bZkCLodWGwpwu"
-      },
-      "artists": [
-        {
-          "name": "ASIAN KUNG-FU GENERATION",
-          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
-        }
-      ],
-      "duration_ms": 243426,
-      "name": "Little Lennon / \u5c0f\u3055\u306a\u30ec\u30ce\u30f3 (Born in 1976 ver.)",
-      "url": "https://open.spotify.com/track/3HxGbSffysJxutaEL2cucu"
     },
     {
       "added_at": "2025-06-13 04:00:00",

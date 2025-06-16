@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 
 > Affirmations and meditation music for a mindful start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,085 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,114 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 | 12 | [Playful, Harmonious and Happy](https://open.spotify.com/track/3oI6AgASkpUBdgCW0qnTvN) | [Anna Thompson](https://open.spotify.com/artist/5JoRvqviRCB3B6i4b1vBCl) | [Self Confidence and Charisma, Hypnosis for Developing Personal Magnetism and High Self\-Esteem](https://open.spotify.com/album/3ij5HXzoOi76MvldPK0Nzf) | 5:52 |
 | 13 | [Afloat](https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ) | [Pristeen](https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj) | [Afloat](https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx) | 2:19 |
 | 14 | [528 Hz Mindfulness](https://open.spotify.com/track/67zLFjnzqQ7UppDq1HXczR) | [Spiritual Frequencies](https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5) | [528 Hz Positive Transformation](https://open.spotify.com/album/19xQ3Y3XrQz88UeM1lfe1d) | 1:36 |
-| 15 | [Aardvark](https://open.spotify.com/track/4f0g8C72ve7dWIzYTvf8it) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Aardvark](https://open.spotify.com/album/4hGjRmvDwyuAKOFo1sjoHV) | 2:48 |
-| 16 | [Plethora](https://open.spotify.com/track/6DF70a9Hi31LKuhBPhWIVa) | [B4YOU](https://open.spotify.com/artist/6Zzxsxo13eLJJRWJRFX3Lv) | [Plethora](https://open.spotify.com/album/4JPXoatxEYP5QawdLhVBZO) | 2:44 |
+| 15 | [Plethora](https://open.spotify.com/track/6DF70a9Hi31LKuhBPhWIVa) | [B4YOU](https://open.spotify.com/artist/6Zzxsxo13eLJJRWJRFX3Lv) | [Plethora](https://open.spotify.com/album/4JPXoatxEYP5QawdLhVBZO) | 2:44 |
+| 16 | [Aardvark](https://open.spotify.com/track/4f0g8C72ve7dWIzYTvf8it) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Aardvark](https://open.spotify.com/album/4hGjRmvDwyuAKOFo1sjoHV) | 2:48 |
 | 17 | [A New Beginning](https://open.spotify.com/track/3STalU0FBxYS9hU3hXazYJ) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [A New Beginning](https://open.spotify.com/album/7HmJNzgf80p5RjNz56qSgC) | 2:40 |
 | 18 | [Wealth & Abundance Affirmations V](https://open.spotify.com/track/6fxQ4rWM61VA2qMlV6WHS6) | [Conscious Evolution](https://open.spotify.com/artist/3MK0kIDFuny7zZdLdVdCiS) | [Affirmations for Wealth & Abundance](https://open.spotify.com/album/15uDVru4nXzmJHYRilgN2P) | 2:34 |
 | 19 | [528 Hz \- Why The Rush](https://open.spotify.com/track/1mTiTdeoUoB3kXEqv2aXNH) | [Dora Waller](https://open.spotify.com/artist/36gygmeIKRKTfOHo5pf6E4) | [Why The Rush \(Solfeggio Frequencies\)](https://open.spotify.com/album/2lfMgal1aJw6QngoiMEBQH) | 2:17 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 | 46 | [Star Above Parvati](https://open.spotify.com/track/1v6wDVHNEhAWgQ2ccBHjqg) | [Peyote Level](https://open.spotify.com/artist/4pYUORZCLABNwtzn9kezVd) | [Star Above Parvati](https://open.spotify.com/album/2O7c5JeLgSUTCj3Z403M4k) | 3:04 |
 | 47 | [Revitalizing Frequencies \- 285 Hz](https://open.spotify.com/track/3mmo00VwW1NzRcK6QsfsF9) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk) | [Revitalizing Frequencies \- 285 Hz](https://open.spotify.com/album/4uEYqgYfHUab4CsoioqaAn) | 2:50 |
 | 48 | [Courageous Healing \- 174 Hz](https://open.spotify.com/track/4XTFF9BX7qfWjTNSmydBNl) | [Sleep Sound Hub](https://open.spotify.com/artist/0eQbWfd6C8ygIpoWvUQHJY) | [Courageous Healing \- 174 Hz](https://open.spotify.com/album/4Il09onZqCgQ5keq6X1tim) | 2:27 |
-| 49 | [Vibrating with Calm \- 285 Hz](https://open.spotify.com/track/1geG3OimV05iMnChjbWdyz) | [Enchanted Feel](https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX) | [Vibrating with Calm \- 285 Hz](https://open.spotify.com/album/1KWtye7sNbmjGvqyrJVZEj) | 2:20 |
-| 50 | [Emotional Resilience \- 174 Hz](https://open.spotify.com/track/3ofc1ailmJ8I8eD6M4ayrn) | [Guyara](https://open.spotify.com/artist/49T0DVfkGS1kA17BI3PGKF) | [Emotional Resilience \- 174 Hz](https://open.spotify.com/album/423zRtEyaDMv90lQDd6hF2) | 2:53 |
+| 49 | [Emotional Resilience \- 174 Hz](https://open.spotify.com/track/3ofc1ailmJ8I8eD6M4ayrn) | [Guyara](https://open.spotify.com/artist/49T0DVfkGS1kA17BI3PGKF) | [Emotional Resilience \- 174 Hz](https://open.spotify.com/album/423zRtEyaDMv90lQDd6hF2) | 2:53 |
+| 50 | [Blue Skies \(174 Hz\)](https://open.spotify.com/track/2gXD7eSRbKOQgwggkcSsuB) | [Endemoniada](https://open.spotify.com/artist/5yBQew0Dy7qPue4XoyHkO2) | [Blue Skies \(174 Hz\)](https://open.spotify.com/album/4EVCcEzQekL26my2vfBuis) | 3:03 |
 
 Snapshot ID: `Zs80WgAAAAAiKQOkJSHhOUafaBnXmn9D`

@@ -1517,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "MAGFACT",
+        "url": "https://open.spotify.com/album/2V7gt6rsTNyQedRSK1HPk2"
+      },
+      "artists": [
+        {
+          "name": "Kis-My-Ft2",
+          "url": "https://open.spotify.com/artist/4kxoWjOpCVYKgPv9nea95k"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209626,
+      "name": "CHEAT",
+      "url": "https://open.spotify.com/track/2Ih1mUbJmdMXf0lxMxZ2TO"
+    },
+    {
+      "album": {
         "name": "Cheek to Cheek",
         "url": "https://open.spotify.com/album/4yqMcO0ifNRrGi7lBWn6a4"
       },

@@ -913,6 +913,24 @@
     },
     {
       "album": {
+        "name": "My Almost Forever",
+        "url": "https://open.spotify.com/album/41tFrGMv7y47SiR6VvxBmU"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Baily",
+          "url": "https://open.spotify.com/artist/1QfgytrRilvQ1HVXZGFJji"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172746,
+      "name": "My Almost Forever",
+      "url": "https://open.spotify.com/track/57VDBMxzvYq9jhuD2ISTrR"
+    },
+    {
+      "album": {
         "name": "My Fault",
         "url": "https://open.spotify.com/album/6AZqYYArJb8u4E6hilDreL"
       },

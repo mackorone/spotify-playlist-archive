@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: <a href="https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy?si=FfcOtSRrQiCxivwrvrofWA">  تامر حسني و   <a href="https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k?si=BZx8j7OJRe23ahe63YqC4Q"> الشامي
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,264 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,441 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 21 | [Wahshak](https://open.spotify.com/track/5QVN7a9quXpdKgYKPgmVsf) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Wahshak](https://open.spotify.com/album/6COX98TbK2BoUMw6e3Oc6x) | 3:48 |
 | 22 | [Makrehtosh](https://open.spotify.com/track/01O9Ijz8tcyllso5VJ6w75) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/4ovMza1WebamIyWDRupshi) | 3:32 |
 | 23 | [روقان](https://open.spotify.com/track/6bltDO0jvqd9OQqhtR4Hjf) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [روقان](https://open.spotify.com/album/4A2j98zoNqWWBTUp9sygjs) | 2:42 |
-| 24 | [لا أبالي](https://open.spotify.com/track/61GQ8j8SU63HhNGlGuLg8X) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [لا أبالي](https://open.spotify.com/album/5GXQ90huKrqo2SNjDpJcAz) | 2:54 |
+| 24 | [لا أبالي](https://open.spotify.com/track/61GQ8j8SU63HhNGlGuLg8X) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [لا أبالي](https://open.spotify.com/album/5GXQ90huKrqo2SNjDpJcAz) | 2:54 |
 | 25 | [نخبى ليه](https://open.spotify.com/track/3I76xQ1eSBTZRQKQToms4h) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [نخبى ليه](https://open.spotify.com/album/5YugWewSikcRYCDY68h9ME) | 3:27 |
 | 26 | [وتقابل حبيب](https://open.spotify.com/track/7M1EnR4adNU8vth13OjtBM) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [وتقابل حبيب](https://open.spotify.com/album/0kW5bh1ijiHrwxw828IyAF) | 3:04 |
 | 27 | [انا من غيرك](https://open.spotify.com/track/2nQeY3iJpE57Rnc7r8z2Qx) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [انا من غيرك](https://open.spotify.com/album/6r21z8FXZjYr4Lz1s86u2o) | 3:31 |

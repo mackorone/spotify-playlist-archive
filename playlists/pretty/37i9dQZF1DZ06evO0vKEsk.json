@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 133129,
+  "num_followers": 133132,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAABhS+mvZS2OCIdC6M/MihGK",
+  "snapshot_id": "aEy7gAAAAADXPVa+Qzld60LnTLEYacJq",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aceito o Teu Chamado",
-        "url": "https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 259181,
-      "name": "Deixar a L\u00e1grima Rolar",
-      "url": "https://open.spotify.com/track/0MYOLA6eOwPBO5KjXSpEhz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu Te Ouvi (Ao Vivo)",
         "url": "https://open.spotify.com/album/2U9dIctF3FOBSdHS4n1nnt"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 243368,
       "name": "Eu Te Ouvi - Ao Vivo",
       "url": "https://open.spotify.com/track/6Nd8xm5PxHE3E7cRtDRfP8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aceito o Teu Chamado",
+        "url": "https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 259181,
+      "name": "Deixar a L\u00e1grima Rolar",
+      "url": "https://open.spotify.com/track/0MYOLA6eOwPBO5KjXSpEhz"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aviva-nos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0WvYxMgrxjbcpSlLexrjRT"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 362502,
-      "name": "Aviva-nos (Ao Vivo)",
-      "url": "https://open.spotify.com/track/03mpdr8HJfKqihrPDl9F14"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recompensa (Ao Vivo)",
         "url": "https://open.spotify.com/album/0vQ7L4VXrnkUnQ7B8nmEdx"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 231754,
       "name": "Recompensa (Ao Vivo)",
       "url": "https://open.spotify.com/track/73DqTcyWoULHoOjmsjYFhd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aviva-nos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0WvYxMgrxjbcpSlLexrjRT"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 362502,
+      "name": "Aviva-nos (Ao Vivo)",
+      "url": "https://open.spotify.com/track/03mpdr8HJfKqihrPDl9F14"
     },
     {
       "added_at": null,

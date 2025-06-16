@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 96202,
+  "num_followers": 96235,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAABuAkrpIdxyk1fb1KlvD1B1",
+  "snapshot_id": "aEy7gAAAAAB3TlqmQnXoQzPcVGrxdvcL",
   "tracks": [
     {
       "added_at": null,
@@ -759,26 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reyes Magos",
-        "url": "https://open.spotify.com/album/607kkbEXNd4v5AOE5CnttF"
+        "name": "F\u00e1cil no Fue",
+        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
       },
       "artists": [
         {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        },
+        {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        },
-        {
-          "name": "JOP",
-          "url": "https://open.spotify.com/artist/7ob0holUszbJOSSotPiyba"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Reyes Magos",
-      "url": "https://open.spotify.com/track/4FdSA59Wyl2p5FOW3lrNkX"
+      "duration_ms": 194929,
+      "name": "Chevrolet 4X4",
+      "url": "https://open.spotify.com/track/6kZs6GbMlGVkMpf6jWPGnq"
     },
     {
       "added_at": null,
@@ -803,22 +799,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00e1cil no Fue",
-        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
+        "name": "Reyes Magos",
+        "url": "https://open.spotify.com/album/607kkbEXNd4v5AOE5CnttF"
       },
       "artists": [
         {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        },
-        {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "JOP",
+          "url": "https://open.spotify.com/artist/7ob0holUszbJOSSotPiyba"
         }
       ],
-      "duration_ms": 194929,
-      "name": "Chevrolet 4X4",
-      "url": "https://open.spotify.com/track/6kZs6GbMlGVkMpf6jWPGnq"
+      "duration_ms": 128000,
+      "name": "Reyes Magos",
+      "url": "https://open.spotify.com/track/4FdSA59Wyl2p5FOW3lrNkX"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo con Tololoche Vol. 1",
-        "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 174739,
-      "name": "Pancho Conos",
-      "url": "https://open.spotify.com/track/5NNu8DfB4Db1cbr4BSeUsu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F\u00e1cil no Fue",
         "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 162013,
       "name": "Pura Adrenalina",
       "url": "https://open.spotify.com/track/5Ho2PsKBXFpSjRBrnDwF3N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo con Tololoche Vol. 1",
+        "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 174739,
+      "name": "Pancho Conos",
+      "url": "https://open.spotify.com/track/5NNu8DfB4Db1cbr4BSeUsu"
     },
     {
       "added_at": null,

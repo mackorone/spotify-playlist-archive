@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 
 > Cumbia Norteña y Norteño Sax para prender el ambiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,366 likes - 111 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,397 likes - 111 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 | 110 | [Como Estas Tú](https://open.spotify.com/track/2ljlODbJrQrMEcC4wmoCkg) | [Cumbre Norteña](https://open.spotify.com/artist/0d1jlQUtg6wJtmOVWSFU0t) | [De Frente](https://open.spotify.com/album/70bYfLrHCQMkUHtHQZFLYR) | 2:16 |
 | 111 | [Voy a Conquistarte](https://open.spotify.com/track/4wR1PmSCcxNMjP9koGWWd8) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Voy a Conquistarte](https://open.spotify.com/album/5tb09wCXY5tZr1Xz6Obul4) | 3:18 |
 
-Snapshot ID: `Z+bvJgAAAAAldcxMpPFsEJJQHlmZjUw4`
+Snapshot ID: `AAAAABg46B4kbS8foYlBWEIsNRV0/PYH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with Kai Wachi
 
-[Spotify](https://open.spotify.com/user/spotify) - 985,415 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 985,414 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 99 | [No Brakes](https://open.spotify.com/track/7t47Clhjv0tivc9lPCV61Q) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [No Brakes](https://open.spotify.com/album/0qiV7IIlpdFca8AUboS3P3) | 1:48 |
 | 100 | [Down Low \- YDG Remix](https://open.spotify.com/track/20iODoi8eZUC1sBS5C01GF) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4), [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Down Low \(YDG Remix\)](https://open.spotify.com/album/4OgyJ5Zk7Ucye5ZKupsjhD) | 3:09 |
 
-Snapshot ID: `aExgDgAAAACGmKtx6XWzCQRin5Qsni0b`
+Snapshot ID: `aExgDgAAAADwzsu24sAPw0bts2KTm0KE`

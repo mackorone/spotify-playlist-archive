@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 | 29 | [Free Lunch](https://open.spotify.com/track/5FX89IUKm9QJT9ymrmyK4k) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [The Sun's Tirade](https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1) | 3:12 |
 | 30 | [BLACK EFFECT](https://open.spotify.com/track/2rCuBpIkHVtY16o0PRv2GS) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 5:15 |
 
-Snapshot ID: `aBJJGgAAAADz3e1mHAk7rO73Dw0NQdHm`
+Snapshot ID: `AAAAAJQF48E/PmOOJWv6klgW2XC2t8Cv`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Tyler Childers
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,285 likes - 104 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,484 likes - 104 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

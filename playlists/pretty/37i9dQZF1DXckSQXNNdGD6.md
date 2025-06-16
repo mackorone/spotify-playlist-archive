@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto:  RUSLANA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,549 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,551 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,13 +18,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 8 | [Full Lace y el Tuck](https://open.spotify.com/track/4zfg7OC2mJDe6OXyKqjWtd) | [Samantha Hudson](https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Full Lace y el Tuck](https://open.spotify.com/album/22CPf2eEYMEPz2zm1BRVbw) | 2:53 |
 | 9 | [En la calle Ave María](https://open.spotify.com/track/0TDFfuczkvLCoq2fTtXcOn) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [ANGÉLIKA](https://open.spotify.com/album/2rshagTLsxItpqeGbKkeS2) | 2:30 |
 | 10 | [Mocatriz](https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [Mocatriz](https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe) | 3:57 |
-| 11 | [Objetos Perdidos](https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Objetos Perdidos](https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ) | 3:27 |
+| 11 | [He sido](https://open.spotify.com/track/4iejnjpuEuh1BDoFNj2h5E) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [He sido](https://open.spotify.com/album/7ePDXhq4qte3UdIJEIhxHh) | 3:19 |
 | 12 | [pies sin plomo](https://open.spotify.com/track/4CLP5XEbqjJAMbg03kO2S5) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [pies sin plomo](https://open.spotify.com/album/5wKYsfSm0ed3Dbe8AfoItZ) | 3:31 |
 | 13 | [Pedro Bicicletas](https://open.spotify.com/track/7lXH03N9sAScdPeQ9HDJXx) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [Pedro Bicicletas](https://open.spotify.com/album/0P3Hdlh6LmtJXei8SVJFsj) | 3:39 |
 | 14 | [\(otra\) noche +](https://open.spotify.com/track/09NDXiGFUCpKYx19IS8FMr) | [D.Valentino](https://open.spotify.com/artist/01WzyfcDKX94myMXnGfU4N), [Sneaky wh](https://open.spotify.com/artist/0hUhE5n1TjnCHwNLp2mIKf) | [Ciao!](https://open.spotify.com/album/10yYYzdkRsTboBKxXLd1Ft) | 2:21 |
 | 15 | [Mujerón](https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [GORGONA](https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD) | 2:50 |
 | 16 | [Putón Verbenero](https://open.spotify.com/track/4J1wiCJoD62Wsibu8We17z) | [Pupi Poisson](https://open.spotify.com/artist/2mgr9vzB7VF10t1S5x20yn) | [Verbenera](https://open.spotify.com/album/0yuUDWK1vVKMzT3ttG4BZh) | 3:11 |
-| 17 | [He sido](https://open.spotify.com/track/4iejnjpuEuh1BDoFNj2h5E) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [He sido](https://open.spotify.com/album/7ePDXhq4qte3UdIJEIhxHh) | 3:19 |
+| 17 | [Objetos Perdidos](https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Objetos Perdidos](https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ) | 3:27 |
 | 18 | [Muero X Verte](https://open.spotify.com/track/0TYSuIwGG6sO0eSTiEHgmW) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Muero X Verte](https://open.spotify.com/album/1xXQ297EaVkgUScacoiiUa) | 3:26 |
 | 19 | [Futuros amantes](https://open.spotify.com/track/6o8AfVju660AZb5XL5rzzP) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Futuros amantes](https://open.spotify.com/album/39TjxfT1BDkWln8r249ymi) | 2:44 |
 | 20 | [Pipe dream](https://open.spotify.com/track/6UeLnS7MmYy5ReoVDtw5lQ) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Pipe dream](https://open.spotify.com/album/20X4FOyFRV6i5pHm7Miztf) | 2:37 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 44 | [NO PUDE SALVARNOS](https://open.spotify.com/track/292HLgM3QgJNZbfZFDu3BY) | [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [NO PUDE SALVARNOS](https://open.spotify.com/album/2iCBgzJqgwhsDysYWrjFXO) | 3:33 |
 | 45 | [A PLENO PULMÓN](https://open.spotify.com/track/5Vo2jF4Y4cCpLlOIwEt26v) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [entre cuatro paredes y una verdad](https://open.spotify.com/album/3Z7t8y8zwnplMYgQR8g0IV) | 2:49 |
 | 46 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
-| 47 | [Flow deskiciada](https://open.spotify.com/track/40qsscMhIjUNzq1ZwDkTjp) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Flow deskiciada](https://open.spotify.com/album/7emrmUiVMMj5sQ3xt02d0Z) | 2:42 |
-| 48 | [ENGATUSAO =^.^=](https://open.spotify.com/track/00MEN35cUoB4rp00iZuiFV) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [ENGATUSAO =^.^=](https://open.spotify.com/album/6VAQrU9cMD2HbLEg6lkw8S) | 2:28 |
+| 47 | [ENGATUSAO =^.^=](https://open.spotify.com/track/00MEN35cUoB4rp00iZuiFV) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [ENGATUSAO =^.^=](https://open.spotify.com/album/6VAQrU9cMD2HbLEg6lkw8S) | 2:28 |
+| 48 | [Flow deskiciada](https://open.spotify.com/track/40qsscMhIjUNzq1ZwDkTjp) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Flow deskiciada](https://open.spotify.com/album/7emrmUiVMMj5sQ3xt02d0Z) | 2:42 |
 | 49 | [filosofar](https://open.spotify.com/track/79S7y4SK9JH1jmq6rEtb5L) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [filosofar](https://open.spotify.com/album/5GGzlFiPvXm9FEtitwFQJ4) | 3:43 |
 | 50 | [Mi Amor \- Spanish Version](https://open.spotify.com/track/24hN9kdcOyZgY2qytkl4KN) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP), [Kat Almagro](https://open.spotify.com/artist/368VnBU3hf3EtaIeuSykSU) | [Mi Amor \(Spanish Version\)](https://open.spotify.com/album/54cNBA0cMAFBJ1xao2HFmA) | 2:24 |
 

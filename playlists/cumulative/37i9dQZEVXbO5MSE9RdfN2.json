@@ -7309,6 +7309,32 @@
     },
     {
       "album": {
+        "name": "DIA DEL\u00cdCIA",
+        "url": "https://open.spotify.com/album/3bT53CJPMsSXSn0vDAX2Do"
+      },
+      "artists": [
+        {
+          "name": "Nakama",
+          "url": "https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j"
+        },
+        {
+          "name": "Mc Staff",
+          "url": "https://open.spotify.com/artist/3awueWqdp1OZudPelsEIgx"
+        },
+        {
+          "name": "\u03a3P",
+          "url": "https://open.spotify.com/artist/2Q3xviVw2VXFRXtsF2gpR1"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75461,
+      "name": "DIA DEL\u00cdCIA",
+      "url": "https://open.spotify.com/track/094IjHeVUviN4aBnSXYsuj"
+    },
+    {
+      "album": {
         "name": "Did It First (with Central Cee)",
         "url": "https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr"
       },
@@ -10232,7 +10258,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 383400,
       "name": "Gethsemane",
       "url": "https://open.spotify.com/track/29JLgNBcOky7QB68OrvYxO"
@@ -15242,7 +15268,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 127732,
       "name": "JESSE",
       "url": "https://open.spotify.com/track/1FwCGiIiWy3zpLavmMYQfD"
@@ -17176,7 +17202,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 403520,
       "name": "LOOK OUT FOR ME",
       "url": "https://open.spotify.com/track/4gM6AHXp4h8aj5482znmYz"
@@ -18535,6 +18561,24 @@
     },
     {
       "album": {
+        "name": "Dark Country, Vol. 1",
+        "url": "https://open.spotify.com/album/4MKvDAkZBOTV75JBQ4xO7U"
+      },
+      "artists": [
+        {
+          "name": "Aventhis",
+          "url": "https://open.spotify.com/artist/0a97V3mDhGyNg93Dcf9Ahj"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239799,
+      "name": "Mercy on my Grave",
+      "url": "https://open.spotify.com/track/5EA88w5X3vkTOPRWUauJGD"
+    },
+    {
+      "album": {
         "name": "This Wasn't Meant For You Anyway",
         "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
       },
@@ -19074,7 +19118,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 103727,
       "name": "MONTAGEM BAIL\u00c3O",
       "url": "https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh"
@@ -19946,7 +19990,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 287159,
       "name": "NEVER ENOUGH",
       "url": "https://open.spotify.com/track/1zoXDi9AY4TF5JoUuCCTL6"
@@ -21782,6 +21826,24 @@
       "duration_ms": 296653,
       "name": "party 4 u",
       "url": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE"
+    },
+    {
+      "album": {
+        "name": "party 4 u x Never Be Like You",
+        "url": "https://open.spotify.com/album/5CEPuNFDdphbkdlLBTgYVF"
+      },
+      "artists": [
+        {
+          "name": "altered",
+          "url": "https://open.spotify.com/artist/7CxamnV1IgbY6kVLKrVJm4"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202348,
+      "name": "party 4 u x Never Be Like You",
+      "url": "https://open.spotify.com/track/1hx2n69yC5JYEx5TXrnIxg"
     },
     {
       "album": {
@@ -23830,7 +23892,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 137633,
       "name": "Rivet Gun",
       "url": "https://open.spotify.com/track/5HIUt05qG93skNLEAlNUSt"
@@ -26330,7 +26392,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 196227,
       "name": "Staring Into The Sun",
       "url": "https://open.spotify.com/track/4ZyOjIxFyf6UWdERULkFKE"

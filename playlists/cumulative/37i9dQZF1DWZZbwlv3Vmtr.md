@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,042 songs - 1 day 16 hr 20 min
+1,043 songs - 1 day 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [A Walk In The Park](https://open.spotify.com/track/7pVrmqr17ArAKyXcJn7SCB) | [Jamie Von Chill](https://open.spotify.com/artist/02cAa2Hlx1rHiBoam4mAO2) | [A Walk In The Park](https://open.spotify.com/album/2Gu0OnHJgCGB1cIC1PU1kp) | 2:26 | 2022-10-28 |  |
 | [act n' chill](https://open.spotify.com/track/1Q4eNqqua4EeURDyCA0sbE) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [act n' chill](https://open.spotify.com/album/7MOhCxNRgpZL1TPpFX6od1) | 2:12 | 2024-05-29 |  |
 | [Acting Out](https://open.spotify.com/track/0499UUSNO6l4Jc4apURe0U) | [enix lee](https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF) | [Acting Out](https://open.spotify.com/album/7imrc1FLahS1gK1xw9zQp9) | 1:59 | 2023-09-08 |  |
-| [actually](https://open.spotify.com/track/2dg8COfiazX55vr3qeoIZB) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [actually](https://open.spotify.com/album/2ypI9Zr48QaenckUpp8SgA) | 2:01 | 2023-01-06 |  |
+| [actually](https://open.spotify.com/track/2dg8COfiazX55vr3qeoIZB) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [actually](https://open.spotify.com/album/2ypI9Zr48QaenckUpp8SgA) | 2:01 | 2023-01-06 | 2025-06-16 |
 | [Adrift](https://open.spotify.com/track/5LtSbDktkoCBD4tO1rEwoq) | [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb), [Luke Tidbury](https://open.spotify.com/artist/4g1NSdBab7fmTNzr8UKVJP), [Pevanni](https://open.spotify.com/artist/3YG6GacnNybthfkmJbsaVE) | [Eudaemonia](https://open.spotify.com/album/0PkkyOxcvloLmgvm8GmnQt) | 1:45 | 2022-11-25 |  |
 | [advanced language](https://open.spotify.com/track/7dJll5i9wNnBRu15GFfinK) | [hoodeeny](https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg) | [advanced language](https://open.spotify.com/album/1PfDudxJRdBjR7S47UMBDj) | 2:16 | 2024-07-12 | 2024-08-31 |
 | [Aesthetics](https://open.spotify.com/track/2msdkpUBE5J9k4zbGeng6n) | [elephvnt](https://open.spotify.com/artist/5q1SBpeVA2vh8h9gfxjY36) | [Aesthetics](https://open.spotify.com/album/2xD6hfBIn6muHL7MwNuXQ4) | 1:49 | 2022-04-15 | 2022-04-22 |
@@ -1022,6 +1022,7 @@
 | [Win Some Lose Some \- Instrumental](https://open.spotify.com/track/5NerYFWTLAp7hufWNlCher) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [Sunday Supper](https://open.spotify.com/artist/1dGhjuZe5hSXnfKGUoZnWS) | [Win Some Lose Some \- Instrumental](https://open.spotify.com/album/5kgfyrBRCm2vXDWh7YRwIz) | 2:25 | 2025-03-21 | 2025-05-17 |
 | [Winding Down](https://open.spotify.com/track/2d1rs0lIYPWQ26Z0S81fRY) | [BB Queen](https://open.spotify.com/artist/0xYs9AtekcZjUcEjJBqtmN) | [Winding Down](https://open.spotify.com/album/05v43i2aZhI8tSmORcWSDE) | 2:31 | 2025-02-07 | 2025-02-15 |
 | [Winding Paths](https://open.spotify.com/track/2Zbx2FhSITYmBSGZ3oMxB1) | [grenedine](https://open.spotify.com/artist/5Zl6z0uleWI3PhrBQFque1) | [Winding Paths](https://open.spotify.com/album/0vhZxa3VnfDDfI6QN5rDh4) | 2:17 | 2025-04-03 | 2025-05-13 |
+| [window seat](https://open.spotify.com/track/4TrxWjFGGjmfqcLxdL8Wbb) | [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [window seat](https://open.spotify.com/album/0dlRzrxJAu3gzKfg5VgkE5) | 3:07 | 2025-06-13 |  |
 | [Wine To The Plants](https://open.spotify.com/track/6XqLGVVMtx8ZUK8jsZhAWR) | [Green Bicycle](https://open.spotify.com/artist/6pusENjxOSBxgEdWFNCA3j) | [Wine To The Plants](https://open.spotify.com/album/3V0GXWAPQnhMiYuWnr8jzi) | 2:27 | 2022-04-15 | 2022-07-08 |
 | [Winter Wander](https://open.spotify.com/track/3EPBKsUyZH08juX1WfKOXS) | [kosmikk](https://open.spotify.com/artist/7ttBQqZEqRcKAyTstldlyj), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Winter Wander](https://open.spotify.com/album/1A5gxXGpnI1l7jGHzDt66n) | 1:46 | 2023-01-06 |  |
 | [Wisps Of Mist](https://open.spotify.com/track/2kfrKI1L3INqbbTY7zDWZ5) | [Kosibeats](https://open.spotify.com/artist/2Yrmz6F0FhNkIVOt2Lfco3), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Wisps Of Mist](https://open.spotify.com/album/3ojY79JiyqFY39CIwmZ5oD) | 2:26 | 2022-04-15 | 2022-12-10 |

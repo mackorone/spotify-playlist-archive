@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Little Homie
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,458 likes - 168 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,401 likes - 168 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 27 | [UNI](https://open.spotify.com/track/69OVdkNhliNn79BBHmbKBq) | [Sinfonico](https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy), [El Ciego y El Goldo](https://open.spotify.com/artist/3GPnxj2yJw0FnGY1ubQM9g) | [UNI](https://open.spotify.com/album/7f9t0teYHFJ1Osy8T5axo9) | 2:50 |
 | 28 | [LATINA FOREVA](https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [LATINA FOREVA](https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT) | 2:39 |
 | 29 | [AURORA](https://open.spotify.com/track/18m5dJOPB2geFwOymXNaWg) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 3:12 |
-| 30 | [Korazong](https://open.spotify.com/track/43J20QsNeYhG23RcLHIGIn) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Korazong](https://open.spotify.com/album/1HVqPBOI5b3OTpbEqxvDUM) | 2:54 |
+| 30 | [KORAZONG](https://open.spotify.com/track/43J20QsNeYhG23RcLHIGIn) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [KORAZONG](https://open.spotify.com/album/1HVqPBOI5b3OTpbEqxvDUM) | 2:54 |
 | 31 | [Un Afrito](https://open.spotify.com/track/213EYsG3x95vtxupDU1XMc) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Un Afrito](https://open.spotify.com/album/4Gpxahsskuc5R2nj1Wqft7) | 2:07 |
 | 32 | [Ski Mask](https://open.spotify.com/track/0LpriRPZ9jTRRD9cMfOgLK) | [Queen Parker](https://open.spotify.com/artist/5NqWNYHuqvJl4qSXk9gI1b), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Ski Mask](https://open.spotify.com/album/1LwWMKZWCsI04Y9vCsp9ba) | 1:57 |
 | 33 | [SOLEAO](https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [SOLEAO](https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP) | 3:38 |

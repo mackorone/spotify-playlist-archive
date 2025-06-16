@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4oPFwE7aF2p4FfqMByg3k8">Em Walcott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-44 songs - 1 hr 57 min
+45 songs - 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [For What It's Worth](https://open.spotify.com/track/0yu2qeSEuZLaLX66VZtF5T) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:31 | 2024-07-14 |  |
 | [For What It's Worth](https://open.spotify.com/track/11TSZcCco9oHmpTv3TRS9M) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [For What It's Worth](https://open.spotify.com/album/7xbIDc3R7zS0yrOOKRSLAX) | 2:31 | 2024-03-22 | 2024-07-15 |
 | [Homesick](https://open.spotify.com/track/3bi38Ij1hlTBjp62XipZr6) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:41 | 2024-03-22 |  |
-| [Konfetti](https://open.spotify.com/track/57ilwMdNXbsbVaP8GtfEIB) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Konfetti](https://open.spotify.com/album/4aWHBRPvgHpM39DUrvCMTR) | 3:14 | 2025-05-29 |  |
+| [Konfetti](https://open.spotify.com/track/0db2mv3OG9HKqPObWRauEY) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Strawberry Blonde](https://open.spotify.com/album/4PIjW5Rjso48AHzoRsZ5Qk) | 3:14 | 2025-06-15 |  |
+| [Konfetti](https://open.spotify.com/track/57ilwMdNXbsbVaP8GtfEIB) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Konfetti](https://open.spotify.com/album/4aWHBRPvgHpM39DUrvCMTR) | 3:14 | 2025-05-29 | 2025-06-16 |
 | [My Man](https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [My Man](https://open.spotify.com/album/6WVs3cfYvBdZVRYqZjfNmg) | 2:07 | 2024-06-19 |  |
 | [Only Have Eyes 42](https://open.spotify.com/track/7C4aRmcAQuNGuFyTvmETii) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/76yGR9gMIP6BdHuWsb7Iun) | 2:50 | 2024-03-22 |  |
 | [Paid In Pleasure](https://open.spotify.com/track/0aixSIaFcj3Ba0VDACOV62) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/76yGR9gMIP6BdHuWsb7Iun) | 1:46 | 2024-03-22 |  |

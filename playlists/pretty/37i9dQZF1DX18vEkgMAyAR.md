@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,599 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,595 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 23 | [I'm With You](https://open.spotify.com/track/5gXjp3ZnKx0UDaXvwXCOgS) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [I'm With You](https://open.spotify.com/album/1PHQokRN6Hrh10ZQNjZn6A) | 3:33 |
 | 24 | [Days Like This](https://open.spotify.com/track/7ekGdD9l1YWFUngF9jVKcf) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Days Like This](https://open.spotify.com/album/6WV1Mmy9a5kmJkbDBicdLx) | 2:26 |
 | 25 | [Falling](https://open.spotify.com/track/4v9nRXzGgTFc2GuxWpG0Mg) | [Majozi](https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt) | [Falling](https://open.spotify.com/album/7ziJdl59dI4sSnp5M3AIPc) | 3:12 |
-| 26 | [Queen \- Dan Kye Remix](https://open.spotify.com/track/6R8VPBAucL2CBoW06RfBva) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Queen \(Dan Kye Remix\)](https://open.spotify.com/album/5swCT2OVTQuomBylGL7f7K) | 5:27 |
+| 26 | [Fine Little Rhythm](https://open.spotify.com/track/2YPAhxlPU2tcdlS4YSx5PA) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Fine Little Rhythm](https://open.spotify.com/album/05VHHbajKoryAVCTSZDDkb) | 3:31 |
 | 27 | [Postcards](https://open.spotify.com/track/3Xi27eCYtFFEqDOGCWr6T8) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Postcards](https://open.spotify.com/album/3xAba1npkOgz18eO00d2Ft) | 3:49 |
-| 28 | [Fine Little Rhythm](https://open.spotify.com/track/2YPAhxlPU2tcdlS4YSx5PA) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Fine Little Rhythm](https://open.spotify.com/album/05VHHbajKoryAVCTSZDDkb) | 3:31 |
-| 29 | [be my guest](https://open.spotify.com/track/6EsxMkOPOgMvRcGJO02pyt) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [the world i love](https://open.spotify.com/album/0PGaguvVjayjOSfFjwVKRV) | 3:06 |
+| 28 | [be my guest](https://open.spotify.com/track/6EsxMkOPOgMvRcGJO02pyt) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [the world i love](https://open.spotify.com/album/0PGaguvVjayjOSfFjwVKRV) | 3:06 |
+| 29 | [Queen \- Dan Kye Remix](https://open.spotify.com/track/6R8VPBAucL2CBoW06RfBva) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5), [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Queen \(Dan Kye Remix\)](https://open.spotify.com/album/5swCT2OVTQuomBylGL7f7K) | 5:27 |
 | 30 | [Bosana](https://open.spotify.com/track/4oK68YNIvg4J4lBvcwak6h) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay), [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK) | [Bosana](https://open.spotify.com/album/5t6pQwDnbCwsduBrrnJMh1) | 3:31 |
 | 31 | [Say You Will Remember Me \- Remix](https://open.spotify.com/track/4r4vKPPrhM8leqcpjnT9QC) | [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP), [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI) | [Say You Will Remember Me \(Remix\)](https://open.spotify.com/album/3R6zzWT8hdZhGQ3XTUTmuQ) | 2:54 |
 | 32 | ['Til I Found You \- Montmartre Remix](https://open.spotify.com/track/1W3DjILstwRfspKO8vpfZp) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [‘Til I Found You \(Montmartre Remix\)](https://open.spotify.com/album/2gtbA1YdkxivCi36EambHn) | 2:46 |

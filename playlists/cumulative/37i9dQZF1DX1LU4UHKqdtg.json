@@ -852,7 +852,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 201760,
       "name": "Almond Chocolate",
       "url": "https://open.spotify.com/track/75yAymNsjxzPPNG6LiIQ9P"
@@ -3496,7 +3496,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 199133,
       "name": "BURN",
       "url": "https://open.spotify.com/track/194uztQZdWMZutepG4ZkeB"
@@ -6728,7 +6728,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 195835,
       "name": "DROP TOP",
       "url": "https://open.spotify.com/track/2QmoGPYjajOOCtiv3wQseI"
@@ -9797,6 +9797,24 @@
     },
     {
       "album": {
+        "name": "MY EYES OPEN VVIDE",
+        "url": "https://open.spotify.com/album/0PdpYy9Pe9vZkiDtCMnXRV"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192467,
+      "name": "HANDS UP",
+      "url": "https://open.spotify.com/track/4mNPtNfIp4vSlW2z0I7Bgm"
+    },
+    {
+      "album": {
         "name": "Hands Up",
         "url": "https://open.spotify.com/album/6J2BAxUAbaNojOQNAvXMiR"
       },
@@ -11226,6 +11244,24 @@
       "duration_ms": 201386,
       "name": "I'mma Be",
       "url": "https://open.spotify.com/track/09B49mDd16vmAxbRKXdTfd"
+    },
+    {
+      "album": {
+        "name": "<Club Icarus>",
+        "url": "https://open.spotify.com/album/5h5Ort0gghTn9VgqsUzEvq"
+      },
+      "artists": [
+        {
+          "name": "ARTMS",
+          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173306,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/2l2pKMAYOnoc9KcHPwiUCk"
     },
     {
       "album": {
@@ -16406,7 +16442,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 219991,
       "name": "On Such a Day",
       "url": "https://open.spotify.com/track/59RLYQQ8v9PItVwFf1qNhx"

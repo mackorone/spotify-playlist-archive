@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: MAYDAYs
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,779 likes - 52 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,792 likes - 52 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

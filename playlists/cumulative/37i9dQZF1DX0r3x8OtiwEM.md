@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-703 songs - 2 day 19 hr 59 min
+704 songs - 2 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Cheat Codes \- Original Mix](https://open.spotify.com/track/2TvBFi5v0GUYQMSgoAldhr) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Cheat Codes](https://open.spotify.com/album/5MmxsbxHmB0rRsxNW33F13) | 6:36 | 2019-09-06 | 2019-12-07 |
 | [Chemistry \- Dub](https://open.spotify.com/track/00tXZaFz6NWHVJzBeamE9a) | [Hannes Bieger](https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9), [Sailor & I](https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx) | [Chemistry](https://open.spotify.com/album/0iYKxzQLzIoWf7SbvoXI2O) | 6:47 | 2019-08-06\* | 2019-09-06 |
 | [Child Of A Child](https://open.spotify.com/track/3WKzLlCF3Xfx4jaCqv1Nri) | [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [Child Of A Child](https://open.spotify.com/album/3XW5UJ6G7fGBXNLLeWxHKK) | 7:34 | 2019-10-10 | 2019-11-10 |
+| [Childhood](https://open.spotify.com/track/5L16Ed5kXdbY40EJmAlY1y) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Childhood](https://open.spotify.com/album/1yrHN3SY262lkoXmSm0g6G) | 4:04 | 2025-06-13 |  |
 | [Children](https://open.spotify.com/track/29BtUsMWJTEP34WeAAAK2x) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children](https://open.spotify.com/album/3lcO3qCUjIPbSSvJZ6ukjB) | 4:05 | 2020-12-12 | 2022-07-20 |
 | [Children](https://open.spotify.com/track/3PUnmXpIRfLa8yI9wfgJPC) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children](https://open.spotify.com/album/6GtPnONSzvxyWXkSTmLQiR) | 4:05 | 2022-07-08 | 2023-04-06 |
 | [Choral](https://open.spotify.com/track/2yoigTHwwyXxa1xU96OdLd) | [Starkato](https://open.spotify.com/artist/1lO9ligq8J6pXAAbvXwk9z), [Intaktogene](https://open.spotify.com/artist/4Xb3F7RouTER6Dckc2PCG0) | [Triation, Vol\. IV](https://open.spotify.com/album/5zMvClsJF6Y4NacMjwOKqQ) | 6:13 | 2022-04-04 | 2022-04-21 |
@@ -464,7 +465,7 @@
 | [Pictures In My Head \- Matthias Schuell Remix](https://open.spotify.com/track/2kXiVa8vQ0xPDDTQ93TvqR) | [Bondi](https://open.spotify.com/artist/0ZPxafqcgMv07OtNWFapKk), [Matthias Schuell](https://open.spotify.com/artist/4JPG7E5xdfg4TIaRPRSFrk) | [Pictures In My Head](https://open.spotify.com/album/78BT5wuemTAnYjFb4xMrR3) | 6:57 | 2019-08-06\* | 2020-06-11 |
 | [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/track/5ZIcOUUEP2IaQG2ayxjLkH) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Scheinizzl](https://open.spotify.com/artist/1V7BhnZpY3khae9xpS1LfV) | [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/album/4JFCApp2LJi4CEe1m7rPd2) | 6:47 | 2021-09-12 | 2022-11-09 |
 | [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/track/69xVp5nLMHBlD7KWdm3YEP) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Scheinizzl](https://open.spotify.com/artist/1V7BhnZpY3khae9xpS1LfV) | [Plastic \(Scheinizzl Remix\)](https://open.spotify.com/album/56x2n57k26tNK4x2RdeiNq) | 6:47 | 2022-11-14 | 2024-04-19 |
-| [Polar Lights](https://open.spotify.com/track/485Th9A00AaXGv6CJUEtfi) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Polar Lights](https://open.spotify.com/album/0fTi4Vl8KyHCLnfSfYowd2) | 3:10 | 2024-12-06 |  |
+| [Polar Lights](https://open.spotify.com/track/485Th9A00AaXGv6CJUEtfi) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Polar Lights](https://open.spotify.com/album/0fTi4Vl8KyHCLnfSfYowd2) | 3:10 | 2024-12-06 | 2025-06-16 |
 | [Polarprojektion](https://open.spotify.com/track/5H5vxvuhguYLnH1hwsc1j0) | [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Space Techno](https://open.spotify.com/album/4Mt2mVk8HQfvc9P8Z6VNl4) | 6:17 | 2019-12-14 | 2020-06-12 |
 | [Polymid](https://open.spotify.com/track/6Ob7lH8xFS2HYPnkFsdzrl) | [Renga Weh](https://open.spotify.com/artist/28xBr8Qn3mikTNu5yswXYR) | [Mera](https://open.spotify.com/album/7fg9iODTa8OBPcgrtSXv7p) | 7:11 | 2020-01-16 | 2020-07-18 |
 | [Portal](https://open.spotify.com/track/4Z1FN3padWsSOrvisQWlKj) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Portal](https://open.spotify.com/album/30sRKwQaX8DwjJqybgCviM) | 7:51 | 2021-03-20 | 2021-06-18 |

@@ -2503,6 +2503,24 @@
     },
     {
       "album": {
+        "name": "Era a M\u00e3o de Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6JqRTUofnu10dun9IXpa3Z"
+      },
+      "artists": [
+        {
+          "name": "Kailane Frauches",
+          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347698,
+      "name": "Era a M\u00e3o de Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/5oWAMVC1YYs8Sn3SW6vDM5"
+    },
+    {
+      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/1OZP7A6bb4HPNXLwhmVNfj"
       },
@@ -8898,7 +8916,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 393529,
       "name": "Vem Messias - Ao Vivo",
       "url": "https://open.spotify.com/track/49tBDE02HqEZ4yWKpEwqFd"

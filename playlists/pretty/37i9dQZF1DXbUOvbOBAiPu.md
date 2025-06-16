@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Camille, DYSTINCT & J Balvin, Sylvie Kreusch and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,269 likes - 94 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,272 likes - 94 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 93 | [Family Life](https://open.spotify.com/track/3p2m9f4U9Cx9LUqFicatt6) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [neil young and the chrome hearts](https://open.spotify.com/artist/35S7T09aV4E9CC0R2RgTXK) | [Talkin to the Trees](https://open.spotify.com/album/6El5jxbJexRAdZseQEH0XB) | 2:50 |
 | 94 | [Remembering Now](https://open.spotify.com/track/4YGzW2h8XB0XV9c3jAqi3V) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Remembering Now](https://open.spotify.com/album/6Cgi0pq9Y2ACdspc2LtbYq) | 5:19 |
 
-Snapshot ID: `aEtOFAAAAADOYhgtPPd68GOuaKeP+0uy`
+Snapshot ID: `aE8bYwAAAAB+FnaPy1FgbS4bMuzv71kh`

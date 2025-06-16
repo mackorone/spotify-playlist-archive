@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 486241,
+  "num_followers": 486280,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -111,26 +111,6 @@
     {
       "added_at": "2025-06-13 14:32:28",
       "album": {
-        "name": "Rio Amazing",
-        "url": "https://open.spotify.com/album/5fgZC8oUAh81jIaFC1uGTW"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 142267,
-      "name": "Rio Amazing",
-      "url": "https://open.spotify.com/track/1eS2HniGToALW0y9cjB2Qk"
-    },
-    {
-      "added_at": "2025-06-13 14:32:28",
-      "album": {
         "name": "Table For 2",
         "url": "https://open.spotify.com/album/3eH0FdLqQtwQepYe6PazQw"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 176283,
       "name": "Table For 2",
       "url": "https://open.spotify.com/track/11xOwUHV7P1q7UpEQuMIrx"
+    },
+    {
+      "added_at": "2025-06-13 14:32:28",
+      "album": {
+        "name": "Rio Amazing",
+        "url": "https://open.spotify.com/album/5fgZC8oUAh81jIaFC1uGTW"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 142267,
+      "name": "Rio Amazing",
+      "url": "https://open.spotify.com/track/1eS2HniGToALW0y9cjB2Qk"
     },
     {
       "added_at": "2025-06-13 14:32:28",
@@ -407,30 +407,6 @@
     {
       "added_at": "2025-06-13 14:32:28",
       "album": {
-        "name": "Morar No Mar",
-        "url": "https://open.spotify.com/album/26jQcqCEEGISiJRDihBsXG"
-      },
-      "artists": [
-        {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
-        },
-        {
-          "name": "Tato",
-          "url": "https://open.spotify.com/artist/6qx1m0fSdGssJ6o8Wn6w0e"
-        },
-        {
-          "name": "soa",
-          "url": "https://open.spotify.com/artist/1Po9h1Y9gpv8SHdoGRxsBw"
-        }
-      ],
-      "duration_ms": 230500,
-      "name": "Morar No Mar",
-      "url": "https://open.spotify.com/track/5d21ic3cXPqd2uMwaDDoRx"
-    },
-    {
-      "added_at": "2025-06-13 14:32:28",
-      "album": {
         "name": "Me Cura",
         "url": "https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8"
       },
@@ -451,6 +427,30 @@
       "duration_ms": 183652,
       "name": "Me Cura",
       "url": "https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ"
+    },
+    {
+      "added_at": "2025-06-13 14:32:28",
+      "album": {
+        "name": "Algum Ritmo (Remix)",
+        "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
+      },
+      "artists": [
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "Algum Ritmo - Remix",
+      "url": "https://open.spotify.com/track/2oMlMXJUUKtLrsw6jCVyHG"
     },
     {
       "added_at": "2025-06-13 14:32:28",
@@ -479,26 +479,26 @@
     {
       "added_at": "2025-06-13 14:32:28",
       "album": {
-        "name": "Algum Ritmo (Remix)",
-        "url": "https://open.spotify.com/album/1FfRtToPv63IurU5tHWyn2"
+        "name": "Morar No Mar",
+        "url": "https://open.spotify.com/album/26jQcqCEEGISiJRDihBsXG"
       },
       "artists": [
         {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
         },
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+          "name": "Tato",
+          "url": "https://open.spotify.com/artist/6qx1m0fSdGssJ6o8Wn6w0e"
         },
         {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+          "name": "soa",
+          "url": "https://open.spotify.com/artist/1Po9h1Y9gpv8SHdoGRxsBw"
         }
       ],
-      "duration_ms": 197419,
-      "name": "Algum Ritmo - Remix",
-      "url": "https://open.spotify.com/track/2oMlMXJUUKtLrsw6jCVyHG"
+      "duration_ms": 230500,
+      "name": "Morar No Mar",
+      "url": "https://open.spotify.com/track/5d21ic3cXPqd2uMwaDDoRx"
     },
     {
       "added_at": "2025-06-13 14:32:28",
@@ -631,6 +631,26 @@
     {
       "added_at": "2025-06-13 14:32:28",
       "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Valerie Broussard",
+          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
+        }
+      ],
+      "duration_ms": 193747,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
+    },
+    {
+      "added_at": "2025-06-13 14:32:28",
+      "album": {
         "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
         "url": "https://open.spotify.com/album/2OPAXOtXreC4YAx09pDtiD"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 186680,
       "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
       "url": "https://open.spotify.com/track/6wYfIm7ZNahRFw8c9QL3st"
-    },
-    {
-      "added_at": "2025-06-13 14:32:28",
-      "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Valerie Broussard",
-          "url": "https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c"
-        }
-      ],
-      "duration_ms": 193747,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
     },
     {
       "added_at": "2025-06-13 14:32:28",
@@ -775,26 +775,6 @@
     {
       "added_at": "2025-06-13 14:32:28",
       "album": {
-        "name": "Low (feat. Victor Perry)",
-        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Victor Perry",
-          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
-        }
-      ],
-      "duration_ms": 145952,
-      "name": "Low (feat. Victor Perry)",
-      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
-    },
-    {
-      "added_at": "2025-06-13 14:32:28",
-      "album": {
         "name": "Paradise (Vintage Culture Remix)",
         "url": "https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 241823,
       "name": "Paradise - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433"
+    },
+    {
+      "added_at": "2025-06-13 14:32:28",
+      "album": {
+        "name": "Low (feat. Victor Perry)",
+        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Victor Perry",
+          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
+        }
+      ],
+      "duration_ms": 145952,
+      "name": "Low (feat. Victor Perry)",
+      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
     },
     {
       "added_at": "2025-06-13 14:32:28",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2025-06-13 14:32:28",
       "album": {
+        "name": "Deixe Me Ir",
+        "url": "https://open.spotify.com/album/4cUP4A6DlXz2LOADhjsr9Q"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "duration_ms": 214634,
+      "name": "Deixe Me Ir",
+      "url": "https://open.spotify.com/track/5iG6XGRTfFjL2iky4d8Q5L"
+    },
+    {
+      "added_at": "2025-06-13 14:32:28",
+      "album": {
         "name": "Novo Movimento (Tu-Tum)",
         "url": "https://open.spotify.com/album/1e60jrAWhMZFFdFdg58P5L"
       },
@@ -1503,34 +1523,6 @@
       "duration_ms": 277565,
       "name": "Olhos Coloridos (Rap Singulares)",
       "url": "https://open.spotify.com/track/6mnm2vF8ERCRrJQZeCtsbg"
-    },
-    {
-      "added_at": "2025-06-13 14:32:28",
-      "album": {
-        "name": "Quem N\u00e3o Quer Sou Eu",
-        "url": "https://open.spotify.com/album/5W6Q0cY6UPrE8xETTenYVr"
-      },
-      "artists": [
-        {
-          "name": "DJ TOPO",
-          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Santti",
-          "url": "https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 178205,
-      "name": "Quem N\u00e3o Quer Sou Eu",
-      "url": "https://open.spotify.com/track/2kVbOlICxuNwFU8pFEx12q"
     }
   ],
   "unique_name": "Festa na Praia",

@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-752 songs - 1 day 12 hr 36 min
+753 songs - 1 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,6 +469,7 @@
 | [Noctis](https://open.spotify.com/track/3SwiMJxBE5eqYdbXJBRtiT) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Noctis](https://open.spotify.com/album/07SebSgKlgeYAYb4I4lpiA) | 2:38 | 2023-03-23 | 2024-01-18 |
 | [Nocturna](https://open.spotify.com/track/0uiyVJTRC7N6rsFNwK33D9) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [Nocturna](https://open.spotify.com/album/6KDdmMfLSq8z3vhCbQrZ7d) | 2:27 | 2025-05-27 |  |
 | [Nocturnal](https://open.spotify.com/track/02AHGXhpfeQKEy4hzEhthj) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Nocturnal](https://open.spotify.com/album/3f79qX2LFjGmuHeXklYUpf) | 2:21 | 2025-03-27 |  |
+| [Nocturne](https://open.spotify.com/track/5icCD82DOWPNVkSRq2unvX) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Nocturne](https://open.spotify.com/album/3XZnVxYxeYWGfCM5LKPKLj) | 2:13 | 2025-06-12 |  |
 | [Noraezean](https://open.spotify.com/track/2vQ4scL1dp9w3jKBv99GVm) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Noraezean](https://open.spotify.com/album/2cAQpN9wxcwyy63PQ1xQ61) | 3:32 | 2023-03-23 | 2024-01-18 |
 | [Northern Sirenes](https://open.spotify.com/track/6wELTXkMA16b4sOgFl7011) | [Malie Aolani](https://open.spotify.com/artist/0MHLh3lEKY42exyifjlDbf) | [Northern Sirenes](https://open.spotify.com/album/02yNGBTR9KMkk6iBlbsuxZ) | 2:09 | 2023-03-23 | 2024-05-05 |
 | [Northern Vision](https://open.spotify.com/track/5YOZJuXBLkMiOakT0xi0CA) | [Elie Elie](https://open.spotify.com/artist/4n4uZ65TRiHl7622KzgTIE) | [Northern Vision](https://open.spotify.com/album/7i5sFYMam5oo9R8yxaFG25) | 3:18 | 2024-05-20 | 2024-09-14 |
@@ -607,7 +608,7 @@
 | [Sineway](https://open.spotify.com/track/5BuUke8soY1IIEeJK4eNkk) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Sineway](https://open.spotify.com/album/3pm1lsNsbrEeOAJqts6hOO) | 2:21 | 2023-03-23 | 2024-02-09 |
 | [Singularity](https://open.spotify.com/track/7nV2HPhYAWLBtJ2JCUyYfx) | [Everlasting Theta](https://open.spotify.com/artist/0xE2E5AhNCCeAfZj0uVKW9) | [Singularity](https://open.spotify.com/album/648LX1seqqG3MhQPyYjWWK) | 2:50 | 2024-05-04 | 2025-03-05 |
 | [Sky & Sea](https://open.spotify.com/track/4bRFHEiobRkNS6C1bmPxuB) | [Silbo Gomera](https://open.spotify.com/artist/1tqEUIzDhdbZW3EC7Cz97W) | [Sky & Sea](https://open.spotify.com/album/6FA9uYzacOsCQPPTERRzP4) | 2:53 | 2024-02-08 | 2024-07-13 |
-| [Skyfold](https://open.spotify.com/track/5482qIt2ZNCpnsxLiiRdob) | [Ziraphine](https://open.spotify.com/artist/11GUbolCBySYUL4wIUv1Ex) | [Skyfold](https://open.spotify.com/album/2fPUmnWD9iXgRHsYBLOaAQ) | 2:45 | 2025-06-12 |  |
+| [Skyfold](https://open.spotify.com/track/5482qIt2ZNCpnsxLiiRdob) | [Ziraphine](https://open.spotify.com/artist/11GUbolCBySYUL4wIUv1Ex) | [Skyfold](https://open.spotify.com/album/2fPUmnWD9iXgRHsYBLOaAQ) | 2:45 | 2025-06-12 | 2025-06-16 |
 | [Sleep Infusion](https://open.spotify.com/track/4FO02oVfqzwAS4pNXnibiV) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Sleep Infusion](https://open.spotify.com/album/4Frl4Lw6O4AFWWIiiQAuXW) | 3:06 | 2024-12-17 |  |
 | [Sleep Meridian](https://open.spotify.com/track/6p0QQYKH786hoZYn1Rm9S5) | [Shimmerweave](https://open.spotify.com/artist/7wcPlyyyXe4zqgOuHHwJ5s) | [Sleep Meridian](https://open.spotify.com/album/6RH1z7gdCq0PUyOmtvBWuE) | 3:21 | 2025-03-27 |  |
 | [Sleeping Asteroid](https://open.spotify.com/track/4ku5ZI6yCAvTBgEUvoVc5R) | [Light & Sound](https://open.spotify.com/artist/2PUPgKWq4JNwSVQE41PXrT) | [Sleeping Asteroid](https://open.spotify.com/album/4TTHB2J83pa337ICnoYQlu) | 2:57 | 2023-03-23 | 2024-01-18 |

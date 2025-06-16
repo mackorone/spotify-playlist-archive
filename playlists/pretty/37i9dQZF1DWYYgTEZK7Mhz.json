@@ -1,6 +1,6 @@
 {
   "description": "Un'estate al mare, stile balenare \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 41244,
+  "num_followers": 41286,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2025-05-02 09:12:30",
       "album": {
+        "name": "Gruppo Italiano",
+        "url": "https://open.spotify.com/album/4qGJn9ggCnF2YMh3q7pVfD"
+      },
+      "artists": [
+        {
+          "name": "Gruppo Italiano",
+          "url": "https://open.spotify.com/artist/7sai3Jr74gYNxLfDnAW6ft"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Tropicana",
+      "url": "https://open.spotify.com/track/4Ak0UaodK4JW3B8rHIEv3R"
+    },
+    {
+      "added_at": "2025-05-02 09:12:30",
+      "album": {
         "name": "Un'ora con...",
         "url": "https://open.spotify.com/album/3jYaY4hJL3Ene7hctpoX44"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 236813,
       "name": "Nell'aria",
       "url": "https://open.spotify.com/track/5PXaja7dpezSS8nSDsyfb7"
-    },
-    {
-      "added_at": "2025-05-02 09:12:30",
-      "album": {
-        "name": "Balla (Remastered)",
-        "url": "https://open.spotify.com/album/4A6errXJxy9750cknTxu1p"
-      },
-      "artists": [
-        {
-          "name": "Umberto Rosario Balsamo",
-          "url": "https://open.spotify.com/artist/3Rq9HHem3z97gYP5vD6BUm"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "Balla",
-      "url": "https://open.spotify.com/track/2xoVgHZKhYCmCNxqidJ4en"
     },
     {
       "added_at": "2025-05-02 09:12:30",
@@ -267,18 +267,18 @@
     {
       "added_at": "2025-05-02 09:12:30",
       "album": {
-        "name": "Gruppo Italiano",
-        "url": "https://open.spotify.com/album/4qGJn9ggCnF2YMh3q7pVfD"
+        "name": "Balla (Remastered)",
+        "url": "https://open.spotify.com/album/4A6errXJxy9750cknTxu1p"
       },
       "artists": [
         {
-          "name": "Gruppo Italiano",
-          "url": "https://open.spotify.com/artist/7sai3Jr74gYNxLfDnAW6ft"
+          "name": "Umberto Rosario Balsamo",
+          "url": "https://open.spotify.com/artist/3Rq9HHem3z97gYP5vD6BUm"
         }
       ],
-      "duration_ms": 210266,
-      "name": "Tropicana",
-      "url": "https://open.spotify.com/track/4Ak0UaodK4JW3B8rHIEv3R"
+      "duration_ms": 195333,
+      "name": "Balla",
+      "url": "https://open.spotify.com/track/2xoVgHZKhYCmCNxqidJ4en"
     },
     {
       "added_at": "2025-05-02 09:12:30",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-05-02 09:12:30",
       "album": {
-        "name": "Renato Carosone: Solo Grandi Successi",
-        "url": "https://open.spotify.com/album/0WG3ahQQelMxtsjTAW5psE"
-      },
-      "artists": [
-        {
-          "name": "Renato Carosone",
-          "url": "https://open.spotify.com/artist/5bt1p0ybrvQPJwt4YINGTF"
-        }
-      ],
-      "duration_ms": 208586,
-      "name": "Tu Vuo Fa 'L'Americano - From \"The American\" Soundtrack",
-      "url": "https://open.spotify.com/track/41mqT9VZCiE4r9Kpga5Frr"
-    },
-    {
-      "added_at": "2025-05-02 09:12:30",
-      "album": {
         "name": "Stessa spiaggia stesso mare",
         "url": "https://open.spotify.com/album/6G8ubrPkyF6iNFO5mCOUlK"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 180333,
       "name": "Stessa spiaggia stesso mare",
       "url": "https://open.spotify.com/track/30FSOhZMMbmbBvWHKO1zRH"
+    },
+    {
+      "added_at": "2025-05-02 09:12:30",
+      "album": {
+        "name": "Renato Carosone: Solo Grandi Successi",
+        "url": "https://open.spotify.com/album/0WG3ahQQelMxtsjTAW5psE"
+      },
+      "artists": [
+        {
+          "name": "Renato Carosone",
+          "url": "https://open.spotify.com/artist/5bt1p0ybrvQPJwt4YINGTF"
+        }
+      ],
+      "duration_ms": 208586,
+      "name": "Tu Vuo Fa 'L'Americano - From \"The American\" Soundtrack",
+      "url": "https://open.spotify.com/track/41mqT9VZCiE4r9Kpga5Frr"
     },
     {
       "added_at": "2025-05-02 09:12:30",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-05-02 09:12:30",
       "album": {
-        "name": "Catherine Spaak",
-        "url": "https://open.spotify.com/album/43kTmexEORoUruj66w0F4o"
-      },
-      "artists": [
-        {
-          "name": "Catherine Spaak",
-          "url": "https://open.spotify.com/artist/0GBQEo1KqJaRlPqO1UMLh2"
-        }
-      ],
-      "duration_ms": 129573,
-      "name": "L'esercito del surf",
-      "url": "https://open.spotify.com/track/0JceaCTWD2nVzPqA27yK9W"
-    },
-    {
-      "added_at": "2025-05-02 09:12:30",
-      "album": {
         "name": "24 mila baci - Aul\u00ec-Ul\u00e9 - Furore - Movimento di Rock",
         "url": "https://open.spotify.com/album/61YBg8B6No6F6STEmfoplF"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 138920,
       "name": "24 mila baci",
       "url": "https://open.spotify.com/track/3hJ27hXmaDY4PdNjTVvMzn"
+    },
+    {
+      "added_at": "2025-05-02 09:12:30",
+      "album": {
+        "name": "Catherine Spaak",
+        "url": "https://open.spotify.com/album/43kTmexEORoUruj66w0F4o"
+      },
+      "artists": [
+        {
+          "name": "Catherine Spaak",
+          "url": "https://open.spotify.com/artist/0GBQEo1KqJaRlPqO1UMLh2"
+        }
+      ],
+      "duration_ms": 129573,
+      "name": "L'esercito del surf",
+      "url": "https://open.spotify.com/track/0JceaCTWD2nVzPqA27yK9W"
     },
     {
       "added_at": "2025-05-02 09:12:30",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-05-02 09:12:30",
       "album": {
-        "name": "Rita Pavone",
-        "url": "https://open.spotify.com/album/1c5unYhvdg4dPgJQpsCTum"
-      },
-      "artists": [
-        {
-          "name": "Rita Pavone",
-          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
-        }
-      ],
-      "duration_ms": 137573,
-      "name": "Il Ballo Del Mattone",
-      "url": "https://open.spotify.com/track/7HsCbVk1DlfgBqxk7yX8ym"
-    },
-    {
-      "added_at": "2025-05-02 09:12:30",
-      "album": {
         "name": "Qualcuno mi pu\u00f2 giudicare",
         "url": "https://open.spotify.com/album/1ydi18iypjZlrUszS7gsbO"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 161933,
       "name": "Nessuno mi pu\u00f2 giudicare",
       "url": "https://open.spotify.com/track/0ZXKyekFgjiSJ6q2Wc3bRn"
+    },
+    {
+      "added_at": "2025-05-02 09:12:30",
+      "album": {
+        "name": "Rita Pavone",
+        "url": "https://open.spotify.com/album/1c5unYhvdg4dPgJQpsCTum"
+      },
+      "artists": [
+        {
+          "name": "Rita Pavone",
+          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
+        }
+      ],
+      "duration_ms": 137573,
+      "name": "Il Ballo Del Mattone",
+      "url": "https://open.spotify.com/track/7HsCbVk1DlfgBqxk7yX8ym"
     },
     {
       "added_at": "2025-05-02 09:12:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ShCuCszBOs.md) - [plain]
 
 > Enjoy the ZEROBASEONE Seoul world tour LIVE SET including the voices of them on stage! \(제로베이스원의 무대 멘트와 목소리가 포함된 서울 월드투어 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,261 likes - 30 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,277 likes - 30 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

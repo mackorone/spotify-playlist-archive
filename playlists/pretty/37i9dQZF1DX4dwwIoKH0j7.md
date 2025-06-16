@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dwwIoKH0j7.md) - [plain]
 
 > The most streamed artists in the USA in 2024\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,839 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,803 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dwwIoKH0j7.md) - [plain]
 | 49 | [FTCU](https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 2:52 |
 | 50 | [BANDIT](https://open.spotify.com/track/0PHrcmOtDE89ew4vVEaD7S) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 2:27 |
 
-Snapshot ID: `AAAAACrZj0bqM298v7UukikEpQpvE1uF`
+Snapshot ID: `Z1BIAAAAAACGJBFUgjwSAd3Dyt+MWQ0f`

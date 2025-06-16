@@ -114,7 +114,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 198333,
       "name": "Adore",
       "url": "https://open.spotify.com/track/2sENyZSkrNmZcePPnkPszn"
@@ -935,6 +935,24 @@
     },
     {
       "album": {
+        "name": "Tobias Sten",
+        "url": "https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215156,
+      "name": "Fy faen du e deili",
+      "url": "https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6"
+    },
+    {
+      "album": {
         "name": "Fy Faen S\u00e5 Deilig",
         "url": "https://open.spotify.com/album/1j6xIUm9WZ4K9uTojnvFC0"
       },
@@ -964,7 +982,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 176808,
       "name": "F\u00f8r han for",
       "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
@@ -986,6 +1004,24 @@
       "duration_ms": 221076,
       "name": "Get Away",
       "url": "https://open.spotify.com/track/1cZCvmW4b4DGpiZhgwvb5j"
+    },
+    {
+      "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/1QZMCyEf9XZB52oKGhkqZa"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211489,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/2mii3Q0tuCBI5DNyt0pBqW"
     },
     {
       "album": {
@@ -2674,7 +2710,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 201774,
       "name": "Oh Love - Acoustic",
       "url": "https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur"
@@ -2750,7 +2786,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-13",
+      "date_removed": null,
       "duration_ms": 155000,
       "name": "Om hundre \u00e5r",
       "url": "https://open.spotify.com/track/0fQ46jJDD5pjok8iX7XuCX"

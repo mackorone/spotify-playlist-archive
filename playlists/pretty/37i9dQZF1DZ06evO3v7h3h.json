@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAALjWGsDyHfkeuovVSgxzX/",
+  "snapshot_id": "aEy7gAAAAAAmxAc2RxJK8aOCYh660P1G",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Movimento R\u00e1pido dos Olhos",
+        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Marissol Mwaba",
+          "url": "https://open.spotify.com/artist/3lQz5wScc7Njw8d2nLD88A"
+        }
+      ],
+      "duration_ms": 243424,
+      "name": "Jogo S\u00e9rio",
+      "url": "https://open.spotify.com/track/1FoH0gEY1wdAyF7I1f0TSE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quem Sou",
         "url": "https://open.spotify.com/album/1bN3MF60sdTK9DEdjV62Kh"
       },
@@ -503,46 +527,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Movimento R\u00e1pido dos Olhos",
-        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
+        "name": "At\u00e9 O Amanhecer",
+        "url": "https://open.spotify.com/album/3zSLT2ErzzistZs3ij9wce"
       },
       "artists": [
         {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+          "name": "Lucas e Orelha",
+          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
         },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Marissol Mwaba",
-          "url": "https://open.spotify.com/artist/3lQz5wScc7Njw8d2nLD88A"
-        }
-      ],
-      "duration_ms": 243424,
-      "name": "Jogo S\u00e9rio",
-      "url": "https://open.spotify.com/track/1FoH0gEY1wdAyF7I1f0TSE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confundindo S\u00e1bios",
-        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
-      },
-      "artists": [
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Daniel Cohen",
-          "url": "https://open.spotify.com/artist/3iJIROwAPLVwQIjZN8minH"
         }
       ],
-      "duration_ms": 261642,
-      "name": "Virando a Mesa",
-      "url": "https://open.spotify.com/track/2utZpgJA3ajxmGpJ8TOSUR"
+      "duration_ms": 179818,
+      "name": "At\u00e9 O Amanhecer",
+      "url": "https://open.spotify.com/track/1oeFF7vzI6vqdX35mj6JAl"
     },
     {
       "added_at": null,
@@ -567,22 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 O Amanhecer",
-        "url": "https://open.spotify.com/album/3zSLT2ErzzistZs3ij9wce"
+        "name": "Confundindo S\u00e1bios",
+        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
       },
       "artists": [
         {
-          "name": "Lucas e Orelha",
-          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
-        },
-        {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Daniel Cohen",
+          "url": "https://open.spotify.com/artist/3iJIROwAPLVwQIjZN8minH"
         }
       ],
-      "duration_ms": 179818,
-      "name": "At\u00e9 O Amanhecer",
-      "url": "https://open.spotify.com/track/1oeFF7vzI6vqdX35mj6JAl"
+      "duration_ms": 261642,
+      "name": "Virando a Mesa",
+      "url": "https://open.spotify.com/track/2utZpgJA3ajxmGpJ8TOSUR"
     },
     {
       "added_at": null,
@@ -599,6 +599,26 @@
       "duration_ms": 277472,
       "name": "Se o Mundo Acabar",
       "url": "https://open.spotify.com/track/1JvW1HJ9IJqThvuuzWMgfB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hora de Acordar",
+        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Fi\u00f3ti",
+          "url": "https://open.spotify.com/artist/2M89xAvGk4XHPq4C2tkISM"
+        }
+      ],
+      "duration_ms": 264666,
+      "name": "Bilhete",
+      "url": "https://open.spotify.com/track/13bwumEsyE9pgINu4whxaG"
     },
     {
       "added_at": null,
@@ -627,26 +647,6 @@
       "duration_ms": 251418,
       "name": "Aulas e Palestras",
       "url": "https://open.spotify.com/track/0eh5ZxasoT8tJBDEZ6oi6c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hora de Acordar",
-        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Fi\u00f3ti",
-          "url": "https://open.spotify.com/artist/2M89xAvGk4XHPq4C2tkISM"
-        }
-      ],
-      "duration_ms": 264666,
-      "name": "Bilhete",
-      "url": "https://open.spotify.com/track/13bwumEsyE9pgINu4whxaG"
     },
     {
       "added_at": null,
@@ -1119,26 +1119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Coragem da Luz",
-        "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 197633,
-      "name": "Homem do Mundo (feat. Criolo)",
-      "url": "https://open.spotify.com/track/5MsCM2wH563bsuSkqp5Upb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hora de Acordar",
         "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 297000,
       "name": "Eu",
       "url": "https://open.spotify.com/track/540hxebLj7w5EHhVx0lUUv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Coragem da Luz",
+        "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 197633,
+      "name": "Homem do Mundo (feat. Criolo)",
+      "url": "https://open.spotify.com/track/5MsCM2wH563bsuSkqp5Upb"
     }
   ],
   "unique_name": "This Is Rashid",

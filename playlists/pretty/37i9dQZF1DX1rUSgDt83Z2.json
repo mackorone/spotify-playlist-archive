@@ -1,6 +1,6 @@
 {
   "description": "Mooi van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 39573,
+  "num_followers": 39614,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -31,6 +31,26 @@
     {
       "added_at": "2025-06-12 22:00:52",
       "album": {
+        "name": "(Die Man Is) Verliefd",
+        "url": "https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2"
+      },
+      "artists": [
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        },
+        {
+          "name": "3JS",
+          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
+        }
+      ],
+      "duration_ms": 186799,
+      "name": "(Die Man Is) Verliefd",
+      "url": "https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs"
+    },
+    {
+      "added_at": "2025-06-12 22:00:52",
+      "album": {
         "name": "Op Jou Heb Ik Gewacht",
         "url": "https://open.spotify.com/album/2FNg6ZrAoDT0KxI1sy97b2"
       },
@@ -55,26 +75,6 @@
       "duration_ms": 175979,
       "name": "Op Jou Heb Ik Gewacht",
       "url": "https://open.spotify.com/track/0uOc3SO3ZkrNeL5khr4GUn"
-    },
-    {
-      "added_at": "2025-06-12 22:00:52",
-      "album": {
-        "name": "(Die Man Is) Verliefd",
-        "url": "https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2"
-      },
-      "artists": [
-        {
-          "name": "Jan Smit",
-          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
-        },
-        {
-          "name": "3JS",
-          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
-        }
-      ],
-      "duration_ms": 186799,
-      "name": "(Die Man Is) Verliefd",
-      "url": "https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs"
     },
     {
       "added_at": "2025-06-12 22:00:52",
@@ -191,22 +191,6 @@
     {
       "added_at": "2025-06-12 22:00:52",
       "album": {
-        "name": "Morgen Wordt Fantastisch",
-        "url": "https://open.spotify.com/album/2gwvQ8E4bcZbua78zLrj61"
-      },
-      "artists": [
-        {
-          "name": "Acda en de Munnik",
-          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
-        }
-      ],
-      "duration_ms": 158604,
-      "name": "Morgen Wordt Fantastisch",
-      "url": "https://open.spotify.com/track/2UI9rmmINuXVWeOrprjWBy"
-    },
-    {
-      "added_at": "2025-06-12 22:00:52",
-      "album": {
         "name": "Wat Is Dan Liefde",
         "url": "https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 156813,
       "name": "Wat Is Dan Liefde - Hazes Is De Basis",
       "url": "https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2"
+    },
+    {
+      "added_at": "2025-06-12 22:00:52",
+      "album": {
+        "name": "Morgen Wordt Fantastisch",
+        "url": "https://open.spotify.com/album/2gwvQ8E4bcZbua78zLrj61"
+      },
+      "artists": [
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "duration_ms": 158604,
+      "name": "Morgen Wordt Fantastisch",
+      "url": "https://open.spotify.com/track/2UI9rmmINuXVWeOrprjWBy"
     },
     {
       "added_at": "2025-06-12 22:00:52",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-06-12 22:00:52",
       "album": {
-        "name": "Hoeveel Tranen Moet Ik Huilen",
-        "url": "https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm"
-      },
-      "artists": [
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        }
-      ],
-      "duration_ms": 208977,
-      "name": "Hoeveel Tranen Moet Ik Huilen",
-      "url": "https://open.spotify.com/track/6nmHOYTnybAfvIVCFdnkhe"
-    },
-    {
-      "added_at": "2025-06-12 22:00:52",
-      "album": {
         "name": "Wat Als Ik Wat Mis",
         "url": "https://open.spotify.com/album/0LwwaLVVLn7hCXYoojVZwQ"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 165001,
       "name": "Wat Als Ik Wat Mis",
       "url": "https://open.spotify.com/track/6M8VUoELSGXNSPDJrU3JNQ"
+    },
+    {
+      "added_at": "2025-06-12 22:00:52",
+      "album": {
+        "name": "Hoeveel Tranen Moet Ik Huilen",
+        "url": "https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "duration_ms": 208977,
+      "name": "Hoeveel Tranen Moet Ik Huilen",
+      "url": "https://open.spotify.com/track/6nmHOYTnybAfvIVCFdnkhe"
     },
     {
       "added_at": "2025-06-12 22:00:52",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-06-12 22:00:52",
       "album": {
-        "name": "Zij Bij Mij",
-        "url": "https://open.spotify.com/album/3suqFdXc38laVrVYAD5PiD"
-      },
-      "artists": [
-        {
-          "name": "Leev",
-          "url": "https://open.spotify.com/artist/7FKzn9rRpQYeNSouksgMzy"
-        }
-      ],
-      "duration_ms": 132754,
-      "name": "Zij Bij Mij",
-      "url": "https://open.spotify.com/track/1HQyIisTd4Q3F0wLaGCijN"
-    },
-    {
-      "added_at": "2025-06-12 22:00:52",
-      "album": {
         "name": "Ga Maar Gauw",
         "url": "https://open.spotify.com/album/2eOt2P8J0vvlS7tR1Mw7CH"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 187586,
       "name": "Ga Maar Gauw",
       "url": "https://open.spotify.com/track/7BqgNKFlthSF7kF0bjqg3N"
+    },
+    {
+      "added_at": "2025-06-12 22:00:52",
+      "album": {
+        "name": "Zij Bij Mij",
+        "url": "https://open.spotify.com/album/3suqFdXc38laVrVYAD5PiD"
+      },
+      "artists": [
+        {
+          "name": "Leev",
+          "url": "https://open.spotify.com/artist/7FKzn9rRpQYeNSouksgMzy"
+        }
+      ],
+      "duration_ms": 132754,
+      "name": "Zij Bij Mij",
+      "url": "https://open.spotify.com/track/1HQyIisTd4Q3F0wLaGCijN"
     },
     {
       "added_at": "2025-06-12 22:00:52",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-06-12 22:00:52",
       "album": {
-        "name": "Samen \u00c9\u00e9n",
-        "url": "https://open.spotify.com/album/0F2Oyz1BS2A5xTU7iCvzxf"
-      },
-      "artists": [
-        {
-          "name": "Miss Montreal",
-          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
-        }
-      ],
-      "duration_ms": 175381,
-      "name": "Schreeuwen",
-      "url": "https://open.spotify.com/track/2xn7cPoNGK74i52b5whZ7A"
-    },
-    {
-      "added_at": "2025-06-12 22:00:52",
-      "album": {
         "name": "Wat Had Jij Van Mij Verwacht",
         "url": "https://open.spotify.com/album/0d7TswwHubviX1mnZzbUSN"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 155724,
       "name": "Echte Liefde",
       "url": "https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2"
+    },
+    {
+      "added_at": "2025-06-12 22:00:52",
+      "album": {
+        "name": "Samen \u00c9\u00e9n",
+        "url": "https://open.spotify.com/album/0F2Oyz1BS2A5xTU7iCvzxf"
+      },
+      "artists": [
+        {
+          "name": "Miss Montreal",
+          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
+        }
+      ],
+      "duration_ms": 175381,
+      "name": "Schreeuwen",
+      "url": "https://open.spotify.com/track/2xn7cPoNGK74i52b5whZ7A"
     },
     {
       "added_at": "2025-06-12 22:00:52",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-06-12 22:00:52",
       "album": {
-        "name": "Achter De Regen",
-        "url": "https://open.spotify.com/album/1mrmJX383QcaTEiHMtVa3d"
-      },
-      "artists": [
-        {
-          "name": "Ana Luca",
-          "url": "https://open.spotify.com/artist/1YdVJS9YSkFrrKDI388PsI"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Achter De Regen",
-      "url": "https://open.spotify.com/track/3lk6NH9MPrP9TriWNKTedu"
-    },
-    {
-      "added_at": "2025-06-12 22:00:52",
-      "album": {
         "name": "Beste Zangers 2024 (Aflevering 3- Matthijn Buwalda)",
         "url": "https://open.spotify.com/album/08pHaYLv5D5f7uX86DtRXq"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 203349,
       "name": "Je Draagt Het Niet Alleen",
       "url": "https://open.spotify.com/track/1sJ91H9pD2L0MXgyjJUZSo"
+    },
+    {
+      "added_at": "2025-06-12 22:00:52",
+      "album": {
+        "name": "Achter De Regen",
+        "url": "https://open.spotify.com/album/1mrmJX383QcaTEiHMtVa3d"
+      },
+      "artists": [
+        {
+          "name": "Ana Luca",
+          "url": "https://open.spotify.com/artist/1YdVJS9YSkFrrKDI388PsI"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Achter De Regen",
+      "url": "https://open.spotify.com/track/3lk6NH9MPrP9TriWNKTedu"
     },
     {
       "added_at": "2025-06-12 22:00:52",

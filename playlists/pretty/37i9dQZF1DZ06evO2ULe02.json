@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAABxdYMbvNjwsZUYSi7paAgn",
+  "snapshot_id": "aEy7gAAAAAAfF8+jZUGB96SrHjg1VXlx",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tripping Over Air",
-        "url": "https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 182382,
-      "name": "Tripping Over Air",
-      "url": "https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 183012,
       "name": "More Than Friends",
       "url": "https://open.spotify.com/track/1Ph96WpdjNlwD6iKRE2Xa3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tripping Over Air",
+        "url": "https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 182382,
+      "name": "Tripping Over Air",
+      "url": "https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dC34O2dxyM.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,797 likes - 76 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,874 likes - 76 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dC34O2dxyM.md) - [plain]
 | 75 | [When All is Still](https://open.spotify.com/track/5wlqpvyKm7gB9wApVgaIB5) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [When All is Still](https://open.spotify.com/album/6Lx0sIEcfysXZfGFm2QAMC) | 2:01 |
 | 76 | [May Your Dreams Come True](https://open.spotify.com/track/0NWSjBvxmDU39tIm7z1EJk) | [Leo Fosbrook](https://open.spotify.com/artist/3KWH7rrwTcMZJd9ni15iZW) | [May Your Dreams Come True](https://open.spotify.com/album/2iApYUYbAkkZa7inorBGrq) | 1:51 |
 
-Snapshot ID: `AAAAAPt9pFvIZdYFv94cKsLILCu3YA1g`
+Snapshot ID: `aEltkAAAAAAFXW9W/0BlBtus8P4QlV6z`

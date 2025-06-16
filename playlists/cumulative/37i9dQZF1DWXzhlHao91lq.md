@@ -4,7 +4,7 @@
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-283 songs - 16 hr 1 min
+284 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Ribbon](https://open.spotify.com/track/79NgV7tDGLl02w769mlryw) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Ribbon](https://open.spotify.com/album/2upoNqPCO7A76AJnFLLigT) | 3:57 | 2025-04-21 | 2025-05-19 |
 | [Rose Petals](https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 3:33 | 2022-08-08 | 2024-04-19 |
 | [Rosie](https://open.spotify.com/track/09t8F6vwElB6scMtsGpyaP) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sometimes It's Something, Sometimes It's Nothing at All](https://open.spotify.com/album/3vgpygHRpJDWTVUXEqNTUR) | 1:58 | 2024-04-08 | 2025-04-26 |
+| [Running Boy](https://open.spotify.com/track/6DbbojCIW5t4ltDZgEpdh0) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Running Boy](https://open.spotify.com/album/2t32iJ7QwHe8oFqIi8JPRD) | 3:35 | 2025-06-15 |  |
 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 | 2024-09-23 | 2025-02-25 |
 | [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 | 2024-01-22 |  |
 | [Sailin'](https://open.spotify.com/track/5HjXPn273UhYAC5ELFrUZJ) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Henry Kapono](https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E) | [Grateful](https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc) | 5:39 | 2023-09-11 | 2023-09-19 |
@@ -279,7 +280,7 @@
 | [Wish Upon A Star](https://open.spotify.com/track/4dRlRt2jZKOd7WsPRQ5KVq) | [H I N A N O](https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY) | [Wish Upon A Star](https://open.spotify.com/album/6Z5QlpJojN80fwGLHFEkDS) | 4:25 | 2022-05-30 | 2022-07-26 |
 | [without you](https://open.spotify.com/track/0zdUjThG0sDfyF27Ji3XHd) | [Vivien Yap](https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53) | [without you](https://open.spotify.com/album/3Y7mCZN8kDs7oZX89bazbg) | 2:48 | 2025-03-31 | 2025-04-07 |
 | [Written in the Sand](https://open.spotify.com/track/2A69wys3S9uiPSmn6UZWJn) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Happy Endings](https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V) | 3:04 | 2022-07-25 | 2022-08-09 |
-| [Yard Sale](https://open.spotify.com/track/4sH3OxT6GqGsihPcO3wmhw) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Yard Sale](https://open.spotify.com/album/4j3OwjL2lZAzUcSx1Lpju5) | 4:17 | 2023-04-10 |  |
+| [Yard Sale](https://open.spotify.com/track/4sH3OxT6GqGsihPcO3wmhw) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Yard Sale](https://open.spotify.com/album/4j3OwjL2lZAzUcSx1Lpju5) | 4:17 | 2023-04-10 | 2025-06-16 |
 | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/track/1ydzL5SIoSRCpEIYWhsWE5) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days \(Deluxe Edition\) In The Canyon Haze](https://open.spotify.com/album/2FOAtTMAfplWnTKf7rl12Q) | 4:17 | 2022-10-31 | 2022-11-13 |
 | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/track/7tmtdHPAoUZLuJqTnDR7FS) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You and Me On The Rock \(In The Canyon Haze\)](https://open.spotify.com/album/22EMSIjfksTwA1yizWVXa6) | 4:17 | 2022-09-05 | 2022-10-08 |
 | [You Are Not I](https://open.spotify.com/track/6ptIX0lt36WmgNioqKrW5z) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [You Are Not I](https://open.spotify.com/album/2IEFI0My1TWvHxaweaTtSn) | 2:58 | 2024-10-28 | 2024-11-04 |

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Nordics](https://open.spotify.com/playlist/37i9dQZF1DX2gIolsgpyjq)
 
-> Celebrating 10 years of Fresh Finds! The best new music by independent artists in the Nordics\. Cover: Olga Myko
+> Fresh Finds Nordics x Debaser Alternative June 16th! See Aggy Ally, ABY iO, Salty Licorice, Jaycov, Anna\-My & DJ Carpenter live!
 
 1,143 songs - 2 day 12 hr 11 min
 

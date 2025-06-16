@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 43065,
+  "num_followers": 43061,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAACndqxqEaH+Lv8cOmu2L/a6",
+  "snapshot_id": "aEy7gAAAAACB44Ma28tUSnJYswNw0P3y",
   "tracks": [
     {
       "added_at": null,
@@ -139,26 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sigo a Lo M\u00edo",
-        "url": "https://open.spotify.com/album/7mRlOJYRk9u7I8MteTkfzZ"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "\u00bfQu\u00e9 Ha Pasao'?",
-      "url": "https://open.spotify.com/track/5fxnoiUBJ5DMAQEYb2uFOr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How You Samba",
         "url": "https://open.spotify.com/album/6qm3xWNQ0APs9N1KmXAD9B"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 151680,
       "name": "How You Samba",
       "url": "https://open.spotify.com/track/5OsYviJJXb8g8uM1K7JiPm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sigo a Lo M\u00edo",
+        "url": "https://open.spotify.com/album/7mRlOJYRk9u7I8MteTkfzZ"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "\u00bfQu\u00e9 Ha Pasao'?",
+      "url": "https://open.spotify.com/track/5fxnoiUBJ5DMAQEYb2uFOr"
     },
     {
       "added_at": null,
@@ -531,26 +531,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbia del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2vfaAgiqzNxbHP14nIe0Ht"
+        "name": "Gotta Be Patient",
+        "url": "https://open.spotify.com/album/6zqf7sIi51QWskNvkEYaA7"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        {
+          "name": "Barenaked Ladies",
+          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
         },
         {
           "name": "Sof\u00eda Reyes",
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 215200,
-      "name": "Esa Parte de M\u00ed",
-      "url": "https://open.spotify.com/track/3dqMBQ70vjK7B0LWryJLzy"
+      "duration_ms": 160318,
+      "name": "Gotta Be Patient",
+      "url": "https://open.spotify.com/track/2Nb2SSUnGfThgDyG9ZOAkS"
     },
     {
       "added_at": null,
@@ -575,26 +575,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gotta Be Patient",
-        "url": "https://open.spotify.com/album/6zqf7sIi51QWskNvkEYaA7"
+        "name": "Cumbia del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2vfaAgiqzNxbHP14nIe0Ht"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        },
-        {
-          "name": "Barenaked Ladies",
-          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         },
         {
           "name": "Sof\u00eda Reyes",
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 160318,
-      "name": "Gotta Be Patient",
-      "url": "https://open.spotify.com/track/2Nb2SSUnGfThgDyG9ZOAkS"
+      "duration_ms": 215200,
+      "name": "Esa Parte de M\u00ed",
+      "url": "https://open.spotify.com/track/3dqMBQ70vjK7B0LWryJLzy"
     },
     {
       "added_at": null,
@@ -623,42 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 136015,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/6vsajTbLWyrVPHtYvbX35J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MILAMORES",
-        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 211791,
-      "name": "MILAMORES",
-      "url": "https://open.spotify.com/track/38K7p7vJm8rOGUBAZrEyW3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1+1 (feat. Yandel & Sof\u00eda Reyes) [Banx & Ranx Remix]",
         "url": "https://open.spotify.com/album/2ds7l2UKWHAj3nKX2Pfmdz"
       },
@@ -683,6 +647,42 @@
       "duration_ms": 204707,
       "name": "1+1 (feat. Yandel & Sof\u00eda Reyes) - Banx & Ranx Remix",
       "url": "https://open.spotify.com/track/2en8KkmwWVRnAFlUueeDs0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MILAMORES",
+        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 211791,
+      "name": "MILAMORES",
+      "url": "https://open.spotify.com/track/38K7p7vJm8rOGUBAZrEyW3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 136015,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/6vsajTbLWyrVPHtYvbX35J"
     },
     {
       "added_at": null,

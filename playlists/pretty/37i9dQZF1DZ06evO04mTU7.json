@@ -1,12 +1,12 @@
 {
   "description": "This is AJULIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8569,
+  "num_followers": 8573,
   "original_name": "This Is AJULIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAAxjTQaJZ//OPvJrHAnnN6O",
+  "snapshot_id": "aEy7gAAAAACdjg0LA/bmckZSfZuwRcE8",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Tipo de Garota",
+        "url": "https://open.spotify.com/album/7mnSOMErfK00QXnUnxxo6y"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 203352,
+      "name": "O Tipo de Garota",
+      "url": "https://open.spotify.com/track/2HdViad1em77egtiCxsNiW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ai Caralh*",
         "url": "https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 169655,
       "name": "Ai Caralh*",
       "url": "https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Tipo de Garota",
-        "url": "https://open.spotify.com/album/7mnSOMErfK00QXnUnxxo6y"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 203352,
-      "name": "O Tipo de Garota",
-      "url": "https://open.spotify.com/track/2HdViad1em77egtiCxsNiW"
     },
     {
       "added_at": null,

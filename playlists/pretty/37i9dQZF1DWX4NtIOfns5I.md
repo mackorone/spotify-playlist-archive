@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > the debut album from Annahstasia is here 🍃
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,925 likes - 130 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,927 likes - 130 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

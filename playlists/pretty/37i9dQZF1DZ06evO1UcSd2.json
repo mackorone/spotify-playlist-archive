@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAC0F3797Oy60WRhzMO8vguO",
+  "snapshot_id": "aEy7gAAAAABEWUqQva5hZG+lu1MytAWf",
   "tracks": [
     {
       "added_at": null,
@@ -227,18 +227,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Tu Jalas Yo Jalo",
-        "url": "https://open.spotify.com/album/4zrsMyqaFttELssgAZNfNa"
+        "name": "El Chino",
+        "url": "https://open.spotify.com/album/6cIC7nXT8crS5Q7XaPPZdo"
       },
       "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 174615,
-      "name": "Si Tu Jalas Yo Jalo",
-      "url": "https://open.spotify.com/track/75abYDt8Lcik0jvf2JNFbo"
+      "duration_ms": 167439,
+      "name": "El Chino",
+      "url": "https://open.spotify.com/track/268zPLDFKoXULAX7aFqcE7"
     },
     {
       "added_at": null,
@@ -263,22 +267,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chino",
-        "url": "https://open.spotify.com/album/6cIC7nXT8crS5Q7XaPPZdo"
+        "name": "Si Tu Jalas Yo Jalo",
+        "url": "https://open.spotify.com/album/4zrsMyqaFttELssgAZNfNa"
       },
       "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 167439,
-      "name": "El Chino",
-      "url": "https://open.spotify.com/track/268zPLDFKoXULAX7aFqcE7"
+      "duration_ms": 174615,
+      "name": "Si Tu Jalas Yo Jalo",
+      "url": "https://open.spotify.com/track/75abYDt8Lcik0jvf2JNFbo"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ojo Por Ojo",
-        "url": "https://open.spotify.com/album/4sppfYOQBDKd8lICwjb4PJ"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 163260,
-      "name": "Ojo Por Ojo",
-      "url": "https://open.spotify.com/track/6xC7C3j8AcGUC2gq1N8qjB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Perder El Estilo",
         "url": "https://open.spotify.com/album/4NKLTN7nQxOfhKtxZo1MLF"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 159786,
       "name": "Polvo Rosita",
       "url": "https://open.spotify.com/track/2wFr4kDAHG9Q3BeetDRpqU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ojo Por Ojo",
+        "url": "https://open.spotify.com/album/4sppfYOQBDKd8lICwjb4PJ"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 163260,
+      "name": "Ojo Por Ojo",
+      "url": "https://open.spotify.com/track/6xC7C3j8AcGUC2gq1N8qjB"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Conquista",
+        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 193190,
+      "name": "La Vida del Changuito",
+      "url": "https://open.spotify.com/track/6IoVCLDSIZnSYkvn1Br1dG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Capitulo 3: El Drag\u00f3n Para Siempre",
         "url": "https://open.spotify.com/album/7CHWUNRIxM8wXgqb0KbJjb"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 313775,
       "name": "Ya Nimodo",
       "url": "https://open.spotify.com/track/0BzSw9TEaoE1OpF5g3bWfG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Conquista",
-        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "La Fuga del Jefe",
-      "url": "https://open.spotify.com/track/4z0JvSowfvAdIIl22UqCxM"
     },
     {
       "added_at": null,
@@ -899,6 +899,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Conquista",
+        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "La Fuga del Jefe",
+      "url": "https://open.spotify.com/track/4z0JvSowfvAdIIl22UqCxM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ariel Camacho Para Siempre",
         "url": "https://open.spotify.com/album/4M57SO3tOI7AhXqUc4ujde"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 156972,
       "name": "El Mentado",
       "url": "https://open.spotify.com/track/2K5oFDtsSM0Wf6rzOmVEMT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Conquista",
-        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 193190,
-      "name": "La Vida del Changuito",
-      "url": "https://open.spotify.com/track/6IoVCLDSIZnSYkvn1Br1dG"
     },
     {
       "added_at": null,

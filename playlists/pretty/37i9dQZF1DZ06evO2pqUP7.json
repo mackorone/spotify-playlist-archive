@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 68993,
+  "num_followers": 69004,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAABYMe/QrH16V+YUDlZUYgWL",
+  "snapshot_id": "aEy7gAAAAAA9UlWWjoe1WgasPffpPSZ+",
   "tracks": [
     {
       "added_at": null,
@@ -655,30 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Condado",
-        "url": "https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 232813,
-      "name": "Condado",
-      "url": "https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMIGA CON BENEFICIOS",
         "url": "https://open.spotify.com/album/1ED1fTcpHUfsXRIGDHPHaS"
       },
@@ -699,6 +675,30 @@
       "duration_ms": 193411,
       "name": "AMIGA CON BENEFICIOS",
       "url": "https://open.spotify.com/track/0Nd9sV9FrxZoDUwiy18Mxs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Condado",
+        "url": "https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 232813,
+      "name": "Condado",
+      "url": "https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh"
     },
     {
       "added_at": null,
@@ -819,6 +819,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00c9pico",
+        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 190951,
+      "name": "Amigos Na' Mas",
+      "url": "https://open.spotify.com/track/1zuMoycNBmpN4p6X8sJeh5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Llamada (Remix)",
         "url": "https://open.spotify.com/album/0UO597AtNYs5g9tJtVApZA"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 414320,
       "name": "Mi Llamada (Remix)",
       "url": "https://open.spotify.com/track/78i2QPC8prEzftYZrBjKOM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c9pico",
-        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 190951,
-      "name": "Amigos Na' Mas",
-      "url": "https://open.spotify.com/track/1zuMoycNBmpN4p6X8sJeh5"
     },
     {
       "added_at": null,
@@ -923,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 229955,
       "name": "Mi Favorita",
       "url": "https://open.spotify.com/track/439FqaiIK6wg9eIzm4HPgL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
     },
     {
       "added_at": null,
@@ -995,6 +995,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Org\u00e1nico",
+        "url": "https://open.spotify.com/album/4sAj704PbYTvBF2fFa88a1"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 220465,
+      "name": "Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/7xiZayz1eFWnzLPztL80VQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fantasia Sexual",
         "url": "https://open.spotify.com/album/1lf70hdVQoWSntSmDE738c"
       },
@@ -1023,30 +1047,6 @@
       "duration_ms": 253469,
       "name": "Fantasia Sexual",
       "url": "https://open.spotify.com/track/2Gbdc2PNfE5tXu9ujCxEiQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Org\u00e1nico",
-        "url": "https://open.spotify.com/album/4sAj704PbYTvBF2fFa88a1"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 220465,
-      "name": "Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/7xiZayz1eFWnzLPztL80VQ"
     },
     {
       "added_at": null,
@@ -1135,22 +1135,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Castillo",
-        "url": "https://open.spotify.com/album/4l0cvZurvFcRSY9JolKkIo"
+        "name": "Fin De Semana",
+        "url": "https://open.spotify.com/album/5xoULy1zmC7mR6u23LMW6B"
       },
       "artists": [
-        {
-          "name": "Juliito",
-          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
-        },
         {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         }
       ],
-      "duration_ms": 198122,
-      "name": "Vicio",
-      "url": "https://open.spotify.com/track/3pIzCbwJjBZIF4J3fi2ypR"
+      "duration_ms": 151562,
+      "name": "Fin De Semana",
+      "url": "https://open.spotify.com/track/2DFn7QiaiaNNWXuWLABatP"
     },
     {
       "added_at": null,
@@ -1171,18 +1167,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fin De Semana",
-        "url": "https://open.spotify.com/album/5xoULy1zmC7mR6u23LMW6B"
+        "name": "El Castillo",
+        "url": "https://open.spotify.com/album/4l0cvZurvFcRSY9JolKkIo"
       },
       "artists": [
+        {
+          "name": "Juliito",
+          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
+        },
         {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         }
       ],
-      "duration_ms": 151562,
-      "name": "Fin De Semana",
-      "url": "https://open.spotify.com/track/2DFn7QiaiaNNWXuWLABatP"
+      "duration_ms": 198122,
+      "name": "Vicio",
+      "url": "https://open.spotify.com/track/3pIzCbwJjBZIF4J3fi2ypR"
     },
     {
       "added_at": null,

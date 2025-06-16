@@ -1,6 +1,6 @@
 {
   "description": "take the road less traveled ",
-  "num_followers": 37776,
+  "num_followers": 37789,
   "original_name": "Americana Drive ",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2025-04-22 17:11:19",
       "album": {
+        "name": "Copperhead Road",
+        "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 269920,
+      "name": "Copperhead Road",
+      "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
+    },
+    {
+      "added_at": "2025-04-22 17:11:19",
+      "album": {
         "name": "Evergreen (feat. Caamp)",
         "url": "https://open.spotify.com/album/4fzAuOHpDdUDAdIHYbaVjW"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 177512,
       "name": "Evergreen (feat. Caamp)",
       "url": "https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp"
-    },
-    {
-      "added_at": "2025-04-22 17:11:19",
-      "album": {
-        "name": "Copperhead Road",
-        "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 269920,
-      "name": "Copperhead Road",
-      "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
     },
     {
       "added_at": "2025-04-22 17:11:19",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-04-22 17:11:19",
       "album": {
-        "name": "Pink Moon",
-        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Pink Moon",
-      "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
-    },
-    {
-      "added_at": "2025-04-22 17:11:19",
-      "album": {
         "name": "Fear Fun",
         "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 234160,
       "name": "Nancy From Now On",
       "url": "https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i"
+    },
+    {
+      "added_at": "2025-04-22 17:11:19",
+      "album": {
+        "name": "Pink Moon",
+        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
     },
     {
       "added_at": "2025-04-22 17:11:19",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-04-22 17:11:19",
       "album": {
-        "name": "Absolute Loser",
-        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Humbug Mountain Song",
-      "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
-    },
-    {
-      "added_at": "2025-04-22 17:11:19",
-      "album": {
         "name": "Tigers Blood",
         "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 273026,
       "name": "Right Back to It",
       "url": "https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo"
+    },
+    {
+      "added_at": "2025-04-22 17:11:19",
+      "album": {
+        "name": "Absolute Loser",
+        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Humbug Mountain Song",
+      "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
     },
     {
       "added_at": "2025-04-22 17:11:19",
@@ -715,18 +715,22 @@
     {
       "added_at": "2025-04-22 17:11:19",
       "album": {
-        "name": "The Recordings of the Middle East",
-        "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
+        "name": "I Was Born To Love You",
+        "url": "https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6"
       },
       "artists": [
         {
-          "name": "The Middle East",
-          "url": "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 326920,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
+      "duration_ms": 265843,
+      "name": "I Was Born To Love You",
+      "url": "https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1"
     },
     {
       "added_at": "2025-04-22 17:11:19",
@@ -747,22 +751,18 @@
     {
       "added_at": "2025-04-22 17:11:19",
       "album": {
-        "name": "I Was Born To Love You",
-        "url": "https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6"
+        "name": "The Recordings of the Middle East",
+        "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+          "name": "The Middle East",
+          "url": "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
         }
       ],
-      "duration_ms": 265843,
-      "name": "I Was Born To Love You",
-      "url": "https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1"
+      "duration_ms": 326920,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
     },
     {
       "added_at": "2025-04-22 17:11:19",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-04-22 17:11:19",
       "album": {
-        "name": "Caamp",
-        "url": "https://open.spotify.com/album/7spHo6tjPR8hbJab6I0Bwo"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 129463,
-      "name": "Vagabond",
-      "url": "https://open.spotify.com/track/2R3I5DiDf8bLz2QjrPmUpk"
-    },
-    {
-      "added_at": "2025-04-22 17:11:19",
-      "album": {
         "name": "Sky Blue Sky",
         "url": "https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4"
       },
@@ -979,6 +963,22 @@
     {
       "added_at": "2025-04-22 17:11:19",
       "album": {
+        "name": "Caamp",
+        "url": "https://open.spotify.com/album/7spHo6tjPR8hbJab6I0Bwo"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 129463,
+      "name": "Vagabond",
+      "url": "https://open.spotify.com/track/2R3I5DiDf8bLz2QjrPmUpk"
+    },
+    {
+      "added_at": "2025-04-22 17:11:19",
+      "album": {
         "name": "Sweet Symphony",
         "url": "https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 228076,
       "name": "Sweet Symphony (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS"
+    },
+    {
+      "added_at": "2025-04-22 17:11:19",
+      "album": {
+        "name": "Wandering (Love Me Back)",
+        "url": "https://open.spotify.com/album/3DEtpqVl2R2gEe9fLCa1DE"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "duration_ms": 186464,
+      "name": "Worry 'Bout My Wandering",
+      "url": "https://open.spotify.com/track/1gKPM0k1iyhwSKnTvIoE1L"
     },
     {
       "added_at": "2025-04-22 17:11:19",
@@ -1047,18 +1063,18 @@
     {
       "added_at": "2025-04-22 17:11:19",
       "album": {
-        "name": "Wandering (Love Me Back)",
-        "url": "https://open.spotify.com/album/3DEtpqVl2R2gEe9fLCa1DE"
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
       },
       "artists": [
         {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 186464,
-      "name": "Worry 'Bout My Wandering",
-      "url": "https://open.spotify.com/track/1gKPM0k1iyhwSKnTvIoE1L"
+      "duration_ms": 334802,
+      "name": "Spud Infinity",
+      "url": "https://open.spotify.com/track/3Q6VfeIZ1bTjWiNe2Or4LQ"
     },
     {
       "added_at": "2025-04-22 17:11:19",
@@ -1075,22 +1091,6 @@
       "duration_ms": 270413,
       "name": "After The Setting Sun",
       "url": "https://open.spotify.com/track/2F9T7qKqhmZeAR7fdKBQF1"
-    },
-    {
-      "added_at": "2025-04-22 17:11:19",
-      "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 334802,
-      "name": "Spud Infinity",
-      "url": "https://open.spotify.com/track/3Q6VfeIZ1bTjWiNe2Or4LQ"
     },
     {
       "added_at": "2025-04-22 17:11:19",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-04-22 17:11:19",
       "album": {
-        "name": "Watch Out for the Wolf",
-        "url": "https://open.spotify.com/album/65IhXgviKunwZuTCnb2UOY"
-      },
-      "artists": [
-        {
-          "name": "Ryan Bingham",
-          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
-        }
-      ],
-      "duration_ms": 231837,
-      "name": "This Life",
-      "url": "https://open.spotify.com/track/1fEbeOqzgVJWGWydZoMLn7"
-    },
-    {
-      "added_at": "2025-04-22 17:11:19",
-      "album": {
         "name": "Middle",
         "url": "https://open.spotify.com/album/66esRfCq1pX9ofsg4wwp3Q"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 215236,
       "name": "Horses",
       "url": "https://open.spotify.com/track/2xvIz18sQhhNWsjnVTo8OS"
+    },
+    {
+      "added_at": "2025-04-22 17:11:19",
+      "album": {
+        "name": "Watch Out for the Wolf",
+        "url": "https://open.spotify.com/album/65IhXgviKunwZuTCnb2UOY"
+      },
+      "artists": [
+        {
+          "name": "Ryan Bingham",
+          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+        }
+      ],
+      "duration_ms": 231837,
+      "name": "This Life",
+      "url": "https://open.spotify.com/track/1fEbeOqzgVJWGWydZoMLn7"
     },
     {
       "added_at": "2025-04-22 17:11:19",

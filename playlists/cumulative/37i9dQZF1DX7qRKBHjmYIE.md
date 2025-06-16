@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con rusowsky.
 
-892 songs - 2 day 0 hr 7 min
+893 songs - 2 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,6 +519,7 @@
 | [Mimosas](https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors](https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox) | 3:05 | 2022-01-28 | 2022-07-23 |
 | [Mine](https://open.spotify.com/track/4Q5RhFWUcfPexfZLx6i9hj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Mine](https://open.spotify.com/album/0564OxBLhKgRNX9OX57FvD) | 2:58 | 2022-07-20 | 2022-07-29 |
 | [Minute In The Morning](https://open.spotify.com/track/1Epn4eSgWUPQ1gGM64jmGc) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Principe Azul](https://open.spotify.com/album/5OZV8awIYVFNjbxq0ucMIJ) | 2:41 | 2022-07-20 | 2023-03-09 |
+| [Miraverahí](https://open.spotify.com/track/1SAXS6YuktTyNF39cADeU9) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Se Amaba Así](https://open.spotify.com/album/6oH9zF3t0iy2WhxLXwHrZK) | 3:14 | 2025-06-13 |  |
 | [Mirror In My Living Room](https://open.spotify.com/track/6sjd3IipyGU97VimolF0yR) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [Mirror In My Living Room](https://open.spotify.com/album/59KKhEV8ydurxp9XxdQEwg) | 3:00 | 2023-03-22 | 2023-04-07 |
 | [Miénteme](https://open.spotify.com/track/2Ach6TMHHih48PYNszSQzP) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Miénteme](https://open.spotify.com/album/1LVpA6huMFTyjyplx8tQgD) | 2:38 | 2023-10-13 | 2024-02-24 |
 | [Modo Avión](https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Modo Avión](https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn) | 3:01 | 2023-05-26 | 2023-08-05 |
@@ -804,7 +805,7 @@
 | [Tikiri](https://open.spotify.com/track/3x6mcLgaZNaBGONTG2Ebb1) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Pan](https://open.spotify.com/album/2Z7Q2m7lLYBHJlZWRMENft) | 3:41 | 2025-01-24 |  |
 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 | 2022-07-22 | 2023-02-17 |
 | [Tira La Puerta](https://open.spotify.com/track/0RyZbvuv6h5AeKXi1AYvJs) | [Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [Tira La Puerta](https://open.spotify.com/album/31vwz8em3IHKspVCw9hC3x) | 2:34 | 2021-12-02 | 2022-01-25 |
-| [tirados](https://open.spotify.com/track/78KH1q8fgnt5EexkepoijI) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [tirados](https://open.spotify.com/album/4dOujit25Ge8WgONNqfa0v) | 3:30 | 2025-02-28 |  |
+| [tirados](https://open.spotify.com/track/78KH1q8fgnt5EexkepoijI) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [tirados](https://open.spotify.com/album/4dOujit25Ge8WgONNqfa0v) | 3:30 | 2025-02-28 | 2025-06-16 |
 | [Tiroteo \- Remix](https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tiroteo \(Remix\)](https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C) | 5:21 | 2022-01-24 | 2023-02-03 |
 | [To Love](https://open.spotify.com/track/0a64exvT5aKVaRSmAVMaCT) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [To Love](https://open.spotify.com/album/3ZyQIG8k6Tx28reDJFBbOK) | 3:56 | 2023-04-13 | 2023-05-13 |
 | [Toco Madera](https://open.spotify.com/track/4YqrNwdHgiuu8CC4M9CWbS) | [Cabra](https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3), [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i), [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [MARTÍNEZ](https://open.spotify.com/album/51M1v1cWZb3KE6jNRwl67I) | 3:48 | 2023-08-25 | 2023-09-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Hamilton, Randy, Tokischa  and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,618 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,664 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 39 | [El Gallo De Sinaloa](https://open.spotify.com/track/4Ea4BWsBhOE5A9Qn7Q3YgX) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [El Gallo De Sinaloa](https://open.spotify.com/album/6sJEZiaadyIN0MVzrI8BbM) | 3:16 |
 | 40 | [El Jardín del Edén](https://open.spotify.com/track/68BUsDcCMJQ83pFTGbuLuI) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [I.M YONI](https://open.spotify.com/artist/2gyrcmT4DLH5zqWBW4bKRn) | [El Jardín del Edén](https://open.spotify.com/album/2BaZSwQZ30BR2dpK78Iuih) | 3:36 |
 | 41 | [PARTICULAR](https://open.spotify.com/track/4XvKrtqV1ZUKPWQnl1FLzc) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Lennex](https://open.spotify.com/artist/3ssyUL4nk9Nc0q99EUj5B2) | [PARTICULAR](https://open.spotify.com/album/2QsnVoJTBTPaeFA8hJdutY) | 3:41 |
-| 42 | [Vice City](https://open.spotify.com/track/3F2wBxemqUNlpGGtpA2W8g) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs) | [Vice City](https://open.spotify.com/album/4AyH5a2k3UnsLlEyfHb4RM) | 2:30 |
+| 42 | [Vice City](https://open.spotify.com/track/3F2wBxemqUNlpGGtpA2W8g) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [Flame 火炎](https://open.spotify.com/artist/31eYHfjltzC2VyNsoVHHR9) | [Vice City](https://open.spotify.com/album/4AyH5a2k3UnsLlEyfHb4RM) | 2:30 |
 | 43 | [No Te Vayas](https://open.spotify.com/track/1Unx6MZzhYyb0nwBq9RT1d) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [FineSound Music](https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh) | [No Te Vayas](https://open.spotify.com/album/5fmx5hlkz0De4qitaT1wXN) | 2:23 |
 | 44 | [TAKA](https://open.spotify.com/track/7KRNnoQRleJrZ51uBtPOHo) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Lucca](https://open.spotify.com/artist/3Sw5QsqUV0ADRkBYpLcxAs) | [TAKA](https://open.spotify.com/album/4ozvNAAJnOag9nIQl4VPlF) | 1:26 |
 | 45 | [Yeti](https://open.spotify.com/track/349FLkJtROXAcVmfO1EZoU) | [Rojas On The Beat](https://open.spotify.com/artist/48yQpzWYzshNnJ2bmruUS5), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Copa Del Rey](https://open.spotify.com/album/5npcmtC8dDxz2HPQLioz6a) | 2:28 |
 | 46 | [No Hay Que Forzar](https://open.spotify.com/track/5KmgBWQoYqMb9dktxncGU2) | [Branbel](https://open.spotify.com/artist/1VmUUb7wBfRQKnq1hgVaGS) | [No Hay Que Forzar](https://open.spotify.com/album/2ArJxMoSPYUv7oFjxKjg35) | 2:29 |
 | 47 | [A Quien Voy a Mentir](https://open.spotify.com/track/1posFagYHqWGxghBjw3mK2) | [Milo Bvgatti](https://open.spotify.com/artist/7lyNgZSgWXCRYXx6y1flAK), [LAYAN](https://open.spotify.com/artist/4LiAzozVB7WdJgquSwEH9a) | [A Quien Voy a Mentir](https://open.spotify.com/album/7dcsHVdb5Xrj0YNL1naGfH) | 3:28 |
-| 48 | [Mentiras](https://open.spotify.com/track/0tHdL4Gvf3Vt4F1gB2PK04) | [Yuma](https://open.spotify.com/artist/0Bsuh3pep7ZxBGmLvX1BoD), [AndrahPR](https://open.spotify.com/artist/3ICR0LgQlwZ2F78lTexRYS) | [Mentiras](https://open.spotify.com/album/5tX2lLCnl9ePXI87nd06VY) | 3:21 |
+| 48 | [Mentiras](https://open.spotify.com/track/0tHdL4Gvf3Vt4F1gB2PK04) | [Yuma](https://open.spotify.com/artist/0Bsuh3pep7ZxBGmLvX1BoD) | [Mentiras](https://open.spotify.com/album/5tX2lLCnl9ePXI87nd06VY) | 3:21 |
 | 49 | [IMPOSIBLE](https://open.spotify.com/track/3vHn11WvOcv3vYG0ZpQd3I) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4), [Argenis Ruiz](https://open.spotify.com/artist/5RE7YMfqaXY9YV1VpaiCUW) | [IMPOSIBLE](https://open.spotify.com/album/1rahrfsDeqESpYVqjyLPEg) | 3:28 |
 | 50 | [VEN](https://open.spotify.com/track/2HOyTAN9AzYSDrDLJtWjg1) | [Melanie Santiler](https://open.spotify.com/artist/1ZN9ReUi4VKQjhzQDVV3Zk) | [VEN](https://open.spotify.com/album/4u70tnidSR0T5L5I4qdb8e) | 2:41 |
 

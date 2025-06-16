@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Sangiovanni
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,293 likes - 110 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,288 likes - 110 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

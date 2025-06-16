@@ -1,6 +1,6 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 84016,
+  "num_followers": 84032,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
@@ -128,7 +128,7 @@
       "added_at": "2022-06-27 14:42:44",
       "album": {
         "name": "Verdi: La Traviata",
-        "url": "https://open.spotify.com/album/1KxPFNyCkMLYvggGAshs3X"
+        "url": "https://open.spotify.com/album/56wRW64Pb6yVU8NIC2Ywgq"
       },
       "artists": [
         {
@@ -136,17 +136,21 @@
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
         },
         {
-          "name": "Carlo Rizzi",
-          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+          "name": "Bavarian State Orchestra",
+          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
+        },
+        {
+          "name": "Carlos Kleiber",
+          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
         }
       ],
-      "duration_ms": 218240,
-      "name": "La traviata / Act III: Prelude",
-      "url": "https://open.spotify.com/track/5xwlLnghuHyBoPl0UOCF4K"
+      "duration_ms": 213133,
+      "name": "La traviata, Act II: Lunge da lei - De' miei bollenti spiriti",
+      "url": "https://open.spotify.com/track/2wcaQSBshsekwpHINTWHkG"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -367,34 +371,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Villaz\u00f3n - Verdi",
-        "url": "https://open.spotify.com/album/1P18XYJ3aHkRgV5COTFF8I"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Rolando Villaz\u00f3n",
-          "url": "https://open.spotify.com/artist/3BbwO46TU61EPYFcC9l9Lq"
-        },
-        {
-          "name": "Orchestra del Teatro Regio di Torino",
-          "url": "https://open.spotify.com/artist/7cCOauMuHRz9yZYbWUjAsL"
-        },
-        {
-          "name": "Gianandrea Noseda",
-          "url": "https://open.spotify.com/artist/4ZfhELUmrY86zwcJHY2q19"
-        }
-      ],
-      "duration_ms": 115920,
-      "name": "La traviata / Act II: \"O mio rimorso!\"",
-      "url": "https://open.spotify.com/track/25p6BUZVPaMmRxR2N5Knik"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi: Rigoletto",
         "url": "https://open.spotify.com/album/1NLwPDTSFM1qIqYBCUfLHe"
       },
@@ -427,6 +403,34 @@
       "duration_ms": 165160,
       "name": "Rigoletto / Act 1: Zitti, zitti...Soccorso, padre mio",
       "url": "https://open.spotify.com/track/0lwh0r181aPU0ef3y5JZwL"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Villaz\u00f3n - Verdi",
+        "url": "https://open.spotify.com/album/1P18XYJ3aHkRgV5COTFF8I"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Rolando Villaz\u00f3n",
+          "url": "https://open.spotify.com/artist/3BbwO46TU61EPYFcC9l9Lq"
+        },
+        {
+          "name": "Orchestra del Teatro Regio di Torino",
+          "url": "https://open.spotify.com/artist/7cCOauMuHRz9yZYbWUjAsL"
+        },
+        {
+          "name": "Gianandrea Noseda",
+          "url": "https://open.spotify.com/artist/4ZfhELUmrY86zwcJHY2q19"
+        }
+      ],
+      "duration_ms": 115920,
+      "name": "La traviata / Act II: \"O mio rimorso!\"",
+      "url": "https://open.spotify.com/track/25p6BUZVPaMmRxR2N5Knik"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -531,34 +535,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Bad Boys",
-        "url": "https://open.spotify.com/album/0UjlmVE9hfz4FcAc7mr0DE"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Bryn Terfel",
-          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
-        },
-        {
-          "name": "Swedish Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
-        },
-        {
-          "name": "Paul Daniel",
-          "url": "https://open.spotify.com/artist/2xKKukBMJy7G4hJ3pNfhNs"
-        }
-      ],
-      "duration_ms": 282506,
-      "name": "Otello / Act I: \"Vanne! la tua meta gi\u00e0 vedo\" - \"Credo in un Dio cru- del\"",
-      "url": "https://open.spotify.com/track/4TOZjBNOBM61DRo9a8Esju"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi: Requiem; Quattro pezzi sacri",
         "url": "https://open.spotify.com/album/1XaC3xBAnXxc08TzyrT03t"
       },
@@ -591,6 +567,34 @@
       "duration_ms": 801000,
       "name": "4 Pezzi sacri: II. Stabat Mater",
       "url": "https://open.spotify.com/track/6kN6X8ZetLVbftch3W8pzO"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Bad Boys",
+        "url": "https://open.spotify.com/album/0UjlmVE9hfz4FcAc7mr0DE"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Bryn Terfel",
+          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
+        },
+        {
+          "name": "Swedish Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
+        },
+        {
+          "name": "Paul Daniel",
+          "url": "https://open.spotify.com/artist/2xKKukBMJy7G4hJ3pNfhNs"
+        }
+      ],
+      "duration_ms": 282506,
+      "name": "Otello / Act I: \"Vanne! la tua meta gi\u00e0 vedo\" - \"Credo in un Dio cru- del\"",
+      "url": "https://open.spotify.com/track/4TOZjBNOBM61DRo9a8Esju"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -703,38 +707,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Nabucco",
-        "url": "https://open.spotify.com/album/6dLhLAMPKpxpyhKjphx62U"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Riccardo Muti",
-          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
-        },
-        {
-          "name": "Matteo Manuguerra",
-          "url": "https://open.spotify.com/artist/0lh6dQTetUL7cGQTn6Xa0Q"
-        },
-        {
-          "name": "Renata Scotto",
-          "url": "https://open.spotify.com/artist/5W7pOtn53qBRrQo00IvHTj"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        }
-      ],
-      "duration_ms": 667640,
-      "name": "Verdi: Nabucco, Act 3: \"Donna, chi sei?\" - \"Chi \u00e8 costei?... Oh, di qual'onta aggravisi\" (Nabucco, Abigaille)",
-      "url": "https://open.spotify.com/track/74hbxXrq3TYPK5JzDgHkeL"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi: Requiem; Quattro pezzi sacri",
         "url": "https://open.spotify.com/album/1XaC3xBAnXxc08TzyrT03t"
       },
@@ -767,30 +739,6 @@
       "duration_ms": 966000,
       "name": "4 Pezzi sacri: IV. Te Deum",
       "url": "https://open.spotify.com/track/5witywN8YtKvIj95C2zdKz"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: Rigoletto - highlights",
-        "url": "https://open.spotify.com/album/5px6Ru4KO8RFVqioyGnwtr"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        },
-        {
-          "name": "Giuseppe Sinopoli",
-          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "Rigoletto: Overture (Preludio)",
-      "url": "https://open.spotify.com/track/7DznRdt0WiktJCgxXjK0z1"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -835,6 +783,62 @@
       "duration_ms": 275626,
       "name": "Aida / Act 4: \"O terra, addio; addio valle di pianti\"",
       "url": "https://open.spotify.com/track/7cZzmx8BXqoCfuif0E3brY"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Nabucco",
+        "url": "https://open.spotify.com/album/6dLhLAMPKpxpyhKjphx62U"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        },
+        {
+          "name": "Matteo Manuguerra",
+          "url": "https://open.spotify.com/artist/0lh6dQTetUL7cGQTn6Xa0Q"
+        },
+        {
+          "name": "Renata Scotto",
+          "url": "https://open.spotify.com/artist/5W7pOtn53qBRrQo00IvHTj"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "duration_ms": 667640,
+      "name": "Verdi: Nabucco, Act 3: \"Donna, chi sei?\" - \"Chi \u00e8 costei?... Oh, di qual'onta aggravisi\" (Nabucco, Abigaille)",
+      "url": "https://open.spotify.com/track/74hbxXrq3TYPK5JzDgHkeL"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Rigoletto - highlights",
+        "url": "https://open.spotify.com/album/5px6Ru4KO8RFVqioyGnwtr"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        },
+        {
+          "name": "Giuseppe Sinopoli",
+          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Rigoletto: Overture (Preludio)",
+      "url": "https://open.spotify.com/track/7DznRdt0WiktJCgxXjK0z1"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -895,34 +899,6 @@
       "duration_ms": 123333,
       "name": "Aida: Danza Sacre delle Sacerdotesse",
       "url": "https://open.spotify.com/track/3u02B57scqZyXHuy7bfFjl"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: Nabucco",
-        "url": "https://open.spotify.com/album/0qup4PMyopHsRFROiy1HYt"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Piero Cappuccilli",
-          "url": "https://open.spotify.com/artist/3RUGMx9yxNg3lltGmkTB2I"
-        },
-        {
-          "name": "Orchester der Deutschen Oper Berlin",
-          "url": "https://open.spotify.com/artist/4UH0f8KeI9GR9H403vxsNO"
-        },
-        {
-          "name": "Giuseppe Sinopoli",
-          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
-        }
-      ],
-      "duration_ms": 180400,
-      "name": "Nabucco / Act 4: Dio di Giuda!",
-      "url": "https://open.spotify.com/track/4NHXTEsJtPayAbxT4xsHHS"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1047,6 +1023,34 @@
       "duration_ms": 85733,
       "name": "Aida: Danza di piccoli schiavi mori",
       "url": "https://open.spotify.com/track/1vmUKUlXXZChWhCdnE8LxS"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Nabucco",
+        "url": "https://open.spotify.com/album/0qup4PMyopHsRFROiy1HYt"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Piero Cappuccilli",
+          "url": "https://open.spotify.com/artist/3RUGMx9yxNg3lltGmkTB2I"
+        },
+        {
+          "name": "Orchester der Deutschen Oper Berlin",
+          "url": "https://open.spotify.com/artist/4UH0f8KeI9GR9H403vxsNO"
+        },
+        {
+          "name": "Giuseppe Sinopoli",
+          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "Nabucco / Act 4: Dio di Giuda!",
+      "url": "https://open.spotify.com/track/4NHXTEsJtPayAbxT4xsHHS"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1231,6 +1235,30 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
+        "name": "Verdi: Aida",
+        "url": "https://open.spotify.com/album/3i05h9cx661EAQLC1RwJYb"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        }
+      ],
+      "duration_ms": 263120,
+      "name": "Verdi: Aida, Act 2: Ballet",
+      "url": "https://open.spotify.com/track/3qbbzJ2Z0zldaL04fwnHlY"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
         "name": "Verdi: Rigoletto - Highlights",
         "url": "https://open.spotify.com/album/48AEXVEQNEgVfgV0krkxZI"
       },
@@ -1267,30 +1295,6 @@
       "duration_ms": 275000,
       "name": "Rigoletto / Act 3: \"Bella figlia dell'amore\"",
       "url": "https://open.spotify.com/track/6E2M3tcn1YJiQHorpGnpxY"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: Aida",
-        "url": "https://open.spotify.com/album/3i05h9cx661EAQLC1RwJYb"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Antonio Pappano",
-          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        }
-      ],
-      "duration_ms": 263120,
-      "name": "Verdi: Aida, Act 2: Ballet",
-      "url": "https://open.spotify.com/track/3qbbzJ2Z0zldaL04fwnHlY"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1528,7 +1532,7 @@
       "added_at": "2022-06-27 14:42:44",
       "album": {
         "name": "Verdi: La Traviata",
-        "url": "https://open.spotify.com/album/56wRW64Pb6yVU8NIC2Ywgq"
+        "url": "https://open.spotify.com/album/1KxPFNyCkMLYvggGAshs3X"
       },
       "artists": [
         {
@@ -1536,21 +1540,17 @@
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
         },
         {
-          "name": "Bavarian State Orchestra",
-          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
-        },
-        {
-          "name": "Carlos Kleiber",
-          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
+          "name": "Carlo Rizzi",
+          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
         }
       ],
-      "duration_ms": 213133,
-      "name": "La traviata, Act II: Lunge da lei - De' miei bollenti spiriti",
-      "url": "https://open.spotify.com/track/2wcaQSBshsekwpHINTWHkG"
+      "duration_ms": 218240,
+      "name": "La traviata / Act III: Prelude",
+      "url": "https://open.spotify.com/track/5xwlLnghuHyBoPl0UOCF4K"
     },
     {
       "added_at": "2022-06-27 14:42:44",

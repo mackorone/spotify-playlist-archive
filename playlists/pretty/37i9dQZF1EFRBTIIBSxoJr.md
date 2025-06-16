@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 735 likes - 131 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 734 likes - 131 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 71 | [My Love](https://open.spotify.com/track/5ptFpFPLIEANgoSVb0qPJ6) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Turn It Up](https://open.spotify.com/album/4S2rMIWiGeYCe5pxZxycyN) | 3:19 |
 | 72 | [Love Me Anyway](https://open.spotify.com/track/10P4pphovyx8PAoz4OPZ4L) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Kids In Love](https://open.spotify.com/album/4M2p2BIRHIeBu8Ew9IBQ0s) | 3:19 |
 | 73 | [Take My Place](https://open.spotify.com/track/1qo2h2KvBQPbl8ENdecgtJ) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 4:14 |
-| 74 | [Freedom \(feat\. Jussie Smollett\)](https://open.spotify.com/track/3K21eqPSN8Fb4SxEnKfEOo) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jussie Smollett](https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm) | [Empire: Original Soundtrack, Season 2 Volume 2 \(Deluxe\)](https://open.spotify.com/album/5F63FnyDVZcFljjvVRdPd8) | 3:05 |
-| 75 | [Anyway \(feat\. RuthAnne\)](https://open.spotify.com/track/5TAlj8WBSEWPdzudunvu0B) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Anyway \(feat\. RuthAnne\)](https://open.spotify.com/album/709dbtr4OzXUGUfOeRrAV7) | 2:48 |
+| 74 | [Anyway \(feat\. RuthAnne\)](https://open.spotify.com/track/5TAlj8WBSEWPdzudunvu0B) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Anyway \(feat\. RuthAnne\)](https://open.spotify.com/album/709dbtr4OzXUGUfOeRrAV7) | 2:48 |
+| 75 | [Freedom \(feat\. Jussie Smollett\)](https://open.spotify.com/track/3K21eqPSN8Fb4SxEnKfEOo) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jussie Smollett](https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm) | [Empire: Original Soundtrack, Season 2 Volume 2 \(Deluxe\)](https://open.spotify.com/album/5F63FnyDVZcFljjvVRdPd8) | 3:05 |
 | 76 | [Goodbye My Friend](https://open.spotify.com/track/5Zn2RY4CFqzm9lxQWyN8i9) | [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [Cold Heart](https://open.spotify.com/album/3UJW1p1qiGScFrGKLwBptB) | 3:48 |
 | 77 | [Enough](https://open.spotify.com/track/2GrEn4GJECJgW8Q1zr2XbH) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:24 |
 | 78 | [Wait For You](https://open.spotify.com/track/4yliBaTgjyxPfXunWOhgUK) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Wait For You](https://open.spotify.com/album/1SlN6kwrQTOvBE7FMIPJYC) | 3:03 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 130 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha Lee](https://open.spotify.com/artist/3dT9AnyUKXdrXCzGsJjx7H) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 131 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `Ab0JiAAAAAAnwkVu3pSEUSp7inWMrDi/`
+Snapshot ID: `Ab0PKAAAAACCEv0G1WWTb2Ywh7rsDlhk`

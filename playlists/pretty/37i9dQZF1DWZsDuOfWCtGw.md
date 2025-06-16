@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsDuOfWCtGw.md) - [plain]
 
 > The hottest house tracks we had on repeat in 2024\. Cover: The Blessed Madonna
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,340 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,337 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,009 likes - 130 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,010 likes - 130 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 68 | [Sberla](https://open.spotify.com/track/0XPw6ytd9PxgCh1wUWNzqR) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 2:51 |
 | 69 | [PAZZIA v1](https://open.spotify.com/track/2Frf3hOEjo3PpbKtH5ige5) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:51 |
 | 70 | [BREAKOUT v10](https://open.spotify.com/track/6bkNqpZYmcM4kbOCa8ubPl) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/3cQbctP7TYxlAQIZjDduuv) | 2:19 |
-| 71 | [Flights](https://open.spotify.com/track/3KKLnhraL4Dgdav4jDz3VY) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 3:07 |
-| 72 | [Soliloquio \(feat\. Vale LP\)](https://open.spotify.com/track/0jFMalinhTNl67iYNBfYSd) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9), [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ) | [Bambina](https://open.spotify.com/album/24DzoYmI9DkE8AqaQ593EP) | 3:01 |
+| 71 | [Soliloquio \(feat\. Vale LP\)](https://open.spotify.com/track/0jFMalinhTNl67iYNBfYSd) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9), [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ) | [Bambina](https://open.spotify.com/album/24DzoYmI9DkE8AqaQ593EP) | 3:01 |
+| 72 | [Flights](https://open.spotify.com/track/3KKLnhraL4Dgdav4jDz3VY) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 3:07 |
 | 73 | [ok](https://open.spotify.com/track/5D9OWjK5p7eQyWPrr4jHlM) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/1w7C8fTWGQu5QhHdS5B7pi) | 1:19 |
 | 74 | [Fantasmi](https://open.spotify.com/track/6dY5LOFtTIwo54HeGclMxQ) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Fantasmi](https://open.spotify.com/album/6yQnrMHJtwV7AjRuWmHFeX) | 2:57 |
 | 75 | [BUGIA](https://open.spotify.com/track/2LrD9eskzGNULjsdc4z8PG) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/3F8GHkZjiGX9djLFSAGgW9) | 2:36 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 129 | [Ninna Nanna Triste](https://open.spotify.com/track/2bthDKc7nePa2aChDXjiMB) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:19 |
 | 130 | [Intro](https://open.spotify.com/track/6qyeQ7FdZXM44vqY2DWtv4) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 0:46 |
 
-Snapshot ID: `Ab0JiAAAAABJsYM/6Cz7d+A+firmwV3d`
+Snapshot ID: `Ab0PKAAAAACClS1v6crcm3WKNBFpmHwn`

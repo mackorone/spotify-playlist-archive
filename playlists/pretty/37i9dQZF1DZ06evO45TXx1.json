@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 14079,
+  "num_followers": 14080,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAAWX6209KKgEG7YZV6jZt4W",
+  "snapshot_id": "aEy7gAAAAADYOduuc+QK95SnEHxF5Yu9",
   "tracks": [
     {
       "added_at": null,
@@ -759,6 +759,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Antes Que a Terra Acabe",
+        "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Duda Raupp",
+          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
+        }
+      ],
+      "duration_ms": 266213,
+      "name": "Pav\u00e3o",
+      "url": "https://open.spotify.com/track/2KctlfjhWHJ3dTAxOGZ2UM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAGIC SHOW",
         "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
       },
@@ -787,34 +815,6 @@
       "duration_ms": 169830,
       "name": "SERENATA",
       "url": "https://open.spotify.com/track/7LjNjigC0Jqru3idZwKL3x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Antes Que a Terra Acabe",
-        "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Duda Raupp",
-          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
-        }
-      ],
-      "duration_ms": 266213,
-      "name": "Pav\u00e3o",
-      "url": "https://open.spotify.com/track/2KctlfjhWHJ3dTAxOGZ2UM"
     },
     {
       "added_at": null,

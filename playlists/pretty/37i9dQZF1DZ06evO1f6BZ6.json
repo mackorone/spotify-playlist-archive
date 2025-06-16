@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 121147,
+  "num_followers": 121176,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAADZyTJQMC4ZQ8RuwVHp5yl",
+  "snapshot_id": "aEy7gAAAAAC63Kq56gDHVpDohtA9k5Qt",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "That Don't Make Me a Bad Guy",
-        "url": "https://open.spotify.com/album/2wkmIPd9my2KpsBgZZer7e"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "God Love Her",
-      "url": "https://open.spotify.com/track/2VwBhM5L7wGE4lLavyJy0L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Let the Old Man In",
         "url": "https://open.spotify.com/album/1lsOkbVF2Wk8U1IrF3FWLa"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 172994,
       "name": "Don't Let the Old Man In",
       "url": "https://open.spotify.com/track/4DLSN6f2Cp5eWIa5Vfn9kj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That Don't Make Me a Bad Guy",
+        "url": "https://open.spotify.com/album/2wkmIPd9my2KpsBgZZer7e"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "God Love Her",
+      "url": "https://open.spotify.com/track/2VwBhM5L7wGE4lLavyJy0L"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Honkytonk University",
+        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 214920,
+      "name": "Honkytonk U",
+      "url": "https://open.spotify.com/track/0pCc4FyfMBheq3ZgXj3oz6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Worst Country Song Of All Time",
         "url": "https://open.spotify.com/album/6s9wR3rqVwA5Jbyx6K8R8h"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 197666,
       "name": "The Worst Country Song Of All Time",
       "url": "https://open.spotify.com/track/3dlkeKPc3pCveXvMFVJasK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Honkytonk University",
-        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 214920,
-      "name": "Honkytonk U",
-      "url": "https://open.spotify.com/track/0pCc4FyfMBheq3ZgXj3oz6"
     },
     {
       "added_at": null,

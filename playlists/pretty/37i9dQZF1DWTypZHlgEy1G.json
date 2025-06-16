@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 536587,
+  "num_followers": 536597,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Salade de fruits + 29 succ\u00e8s de Bourvil (Chanson fran\u00e7aise)",
-        "url": "https://open.spotify.com/album/25mVw0jBpfwJWrvnGYpwo7"
-      },
-      "artists": [
-        {
-          "name": "Bourvil",
-          "url": "https://open.spotify.com/artist/14kYvF52x0QjAkBjPAQBlm"
-        }
-      ],
-      "duration_ms": 195280,
-      "name": "Salade de fruits",
-      "url": "https://open.spotify.com/track/028I09aqplLUYRJXGLAPNq"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "En Vogue",
         "url": "https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 173586,
       "name": "Il est cinq heures, Paris s'\u00e9veille",
       "url": "https://open.spotify.com/track/1Gw2viJ4XE9hylW4ujtNef"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Salade de fruits + 29 succ\u00e8s de Bourvil (Chanson fran\u00e7aise)",
+        "url": "https://open.spotify.com/album/25mVw0jBpfwJWrvnGYpwo7"
+      },
+      "artists": [
+        {
+          "name": "Bourvil",
+          "url": "https://open.spotify.com/artist/14kYvF52x0QjAkBjPAQBlm"
+        }
+      ],
+      "duration_ms": 195280,
+      "name": "Salade de fruits",
+      "url": "https://open.spotify.com/track/028I09aqplLUYRJXGLAPNq"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Du Caf' Conc' au Music Hall",
-        "url": "https://open.spotify.com/album/0HDHNxKK6IUuF1QLnGYYHe"
-      },
-      "artists": [
-        {
-          "name": "Ray Ventura",
-          "url": "https://open.spotify.com/artist/49B3AeUtYjr0iqzc2NwvPO"
-        }
-      ],
-      "duration_ms": 205133,
-      "name": "Tout va tr\u00e8s bien madame la marquise",
-      "url": "https://open.spotify.com/track/3CbCvxfRVk0Ba0Z761Ys12"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Les Plus Belles Chansons De Fernandel (The Most Beautiful Songs Of Fernandel)",
         "url": "https://open.spotify.com/album/2eS82B4l4mFIa08EBbVPxW"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Ferrat Chante Aragon: L'int\u00e9grale",
-        "url": "https://open.spotify.com/album/1zRWFeLiYxPW48gefbBpV5"
+        "name": "Du Caf' Conc' au Music Hall",
+        "url": "https://open.spotify.com/album/0HDHNxKK6IUuF1QLnGYYHe"
       },
       "artists": [
         {
-          "name": "Jean Ferrat",
-          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
+          "name": "Ray Ventura",
+          "url": "https://open.spotify.com/artist/49B3AeUtYjr0iqzc2NwvPO"
         }
       ],
-      "duration_ms": 143026,
-      "name": "Aimer \u00e0 perdre la raison",
-      "url": "https://open.spotify.com/track/5okI57GiUG0innS360o2bH"
+      "duration_ms": 205133,
+      "name": "Tout va tr\u00e8s bien madame la marquise",
+      "url": "https://open.spotify.com/track/3CbCvxfRVk0Ba0Z761Ys12"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -711,6 +695,22 @@
       "duration_ms": 182266,
       "name": "Frou-Frou",
       "url": "https://open.spotify.com/track/4W9ZcMFqQMbG1llswppGY0"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Ferrat Chante Aragon: L'int\u00e9grale",
+        "url": "https://open.spotify.com/album/1zRWFeLiYxPW48gefbBpV5"
+      },
+      "artists": [
+        {
+          "name": "Jean Ferrat",
+          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
+        }
+      ],
+      "duration_ms": 143026,
+      "name": "Aimer \u00e0 perdre la raison",
+      "url": "https://open.spotify.com/track/5okI57GiUG0innS360o2bH"
     },
     {
       "added_at": "2024-07-25 13:22:22",

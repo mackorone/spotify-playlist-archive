@@ -4,7 +4,7 @@
 
 > أحسن أغاني البوب المغربي مجموعين في بوبستارز
 
-185 songs - 10 hr 1 min
+186 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Ghir Ntiya](https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Ghir Ntiya](https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm) | 3:34 | 2023-07-07 | 2023-08-09 |
 | [Golli](https://open.spotify.com/track/2iPUpptsp5uRNMWFoAOdbH) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Golli](https://open.spotify.com/album/6LmfEw8AXNfCKGWhh24BZd) | 3:33 | 2024-02-07 | 2024-05-10 |
 | [Ha Mamma](https://open.spotify.com/track/0Tfz7a7pNfv4D5yp35DNFR) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Ha Mamma](https://open.spotify.com/album/3WxV7oGGwoeFDMBUrciCLW) | 2:46 | 2023-07-07 | 2024-01-04 |
+| [Ha Wlidi](https://open.spotify.com/track/0LEk8LeOeBQ5pODPernnPP) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Ha Wlidi](https://open.spotify.com/album/4tJC2QnYjmkTQPJ6tyhDXQ) | 2:47 | 2025-06-15 |  |
 | [Hada Hali Min Baadak](https://open.spotify.com/track/2lvG3rlN2hXJzien2hGU6t) | [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [Hada Hali Min Baadak](https://open.spotify.com/album/2P5KHLfSqOKehqmB2Y8p3u) | 3:10 | 2024-04-17 | 2024-07-18 |
 | [Hak Ela Babah](https://open.spotify.com/track/3yatozm6pb25lgFGXXOKh7) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Hak Ela Babah](https://open.spotify.com/album/1gGfWC7gnNrB2I70YbACZK) | 3:15 | 2024-06-07 |  |
 | [Heeya](https://open.spotify.com/track/7tG8Kl89b8gVuDGnlyCXQA) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Heeya](https://open.spotify.com/album/2CFvYOAGceKa9RNyfG1rfX) | 3:33 | 2023-07-07 | 2024-05-03 |
@@ -128,7 +129,7 @@
 | [Makhelaw magalou](https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Makhelaw magalou](https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO) | 3:00 | 2023-07-07 | 2023-11-08 |
 | [Mal Zin Ka3i](https://open.spotify.com/track/1BlVs0gLBfUFfUcyKl5vYk) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Mal Zin Ka3i](https://open.spotify.com/album/7obbmiS8zGRgc5fAjfZqTG) | 3:30 | 2024-02-24 | 2024-08-31 |
 | [Malak](https://open.spotify.com/track/3Xj2v1c3y5rm9L7CjmSCrA) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h) | [Malak](https://open.spotify.com/album/4FGAjuNQNKJDpkw2ufs6B0) | 3:04 | 2023-07-07 | 2024-05-03 |
-| [Mali](https://open.spotify.com/track/68usOQC8GTlFTsUxyBaFhU) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Mali](https://open.spotify.com/album/0N8j1mxPghNwB09CQy13aT) | 2:57 | 2025-06-02 |  |
+| [Mali](https://open.spotify.com/track/68usOQC8GTlFTsUxyBaFhU) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Mali](https://open.spotify.com/album/0N8j1mxPghNwB09CQy13aT) | 2:57 | 2025-06-02 | 2025-06-16 |
 | [Mali Hakda](https://open.spotify.com/track/5XC6SzFNy3aYjkHGkp0C9X) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l), [Reda Soussia](https://open.spotify.com/artist/0Mctr7wQzPz5IsfcYrbPSX) | [Mali Hakda](https://open.spotify.com/album/6q6COT6pv8layuZcWdOrWi) | 3:07 | 2024-08-16 |  |
 | [Maria](https://open.spotify.com/track/2ieat98TO6yujpLeTsb9U4) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 3:13 | 2023-07-07 | 2024-01-05 |
 | [MARJANA](https://open.spotify.com/track/5lWQ5qYAy2pe11J3Ze7u9o) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MARJANA](https://open.spotify.com/album/4rOy8yQlICtPvNwZubYkh6) | 3:58 | 2023-07-31 | 2025-06-04 |

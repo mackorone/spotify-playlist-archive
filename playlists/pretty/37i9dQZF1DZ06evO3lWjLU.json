@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Ocean. The essential tracks, all in one playlist.",
-  "num_followers": 288519,
+  "num_followers": 288585,
   "original_name": "This Is Danny Ocean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAACOv3Q5SytcYywdSK6efvdV",
+  "snapshot_id": "aEy7gAAAAACJVxsRiOhw4v5DXKavO8xl",
   "tracks": [
     {
       "added_at": null,
@@ -695,18 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "amor tonight",
-        "url": "https://open.spotify.com/album/5IDYpetjP1jw3MboyXqoDc"
+        "name": "Fino",
+        "url": "https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2"
       },
       "artists": [
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        },
         {
           "name": "Danny Ocean",
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 210526,
-      "name": "amor tonight",
-      "url": "https://open.spotify.com/track/6jmjb6lF1vRv6lHIrdGFAI"
+      "duration_ms": 205210,
+      "name": "Fino",
+      "url": "https://open.spotify.com/track/2aa3zu8JIbWrE92naVcy7H"
     },
     {
       "added_at": null,
@@ -763,22 +767,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fino",
-        "url": "https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2"
+        "name": "amor tonight",
+        "url": "https://open.spotify.com/album/5IDYpetjP1jw3MboyXqoDc"
       },
       "artists": [
-        {
-          "name": "Llane",
-          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
-        },
         {
           "name": "Danny Ocean",
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 205210,
-      "name": "Fino",
-      "url": "https://open.spotify.com/track/2aa3zu8JIbWrE92naVcy7H"
+      "duration_ms": 210526,
+      "name": "amor tonight",
+      "url": "https://open.spotify.com/track/6jmjb6lF1vRv6lHIrdGFAI"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Découvrez les artistes à l'affiche de l’édition 2025 des Francos de Montréal.
 
-545 songs - 1 day 6 hr 50 min
+546 songs - 1 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,6 +455,7 @@
 | [Retiens les rêves](https://open.spotify.com/track/27sn3RfZzADwUpI2kbmrc6) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [PLUS DE REFLETS](https://open.spotify.com/album/673iiuWKaEWX6MqvvN0Cw6) | 3:39 | 2025-04-29 |  |
 | [Revoir le monde](https://open.spotify.com/track/2EOIAHCr3irNh5NEhv0qzN) | [Michelle & Les Garçons](https://open.spotify.com/artist/4pkiINtgqRjnKwflzhlH2z) | [Revoir le monde](https://open.spotify.com/album/5CR4XEKyc3ipMnKjevgkfk) | 2:48 | 2024-04-23 | 2025-04-30 |
 | [Rien de moins](https://open.spotify.com/track/2qO3vIBPP5OBsOm67dG9W0) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Aucune promesse](https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP) | 2:54 | 2023-05-24 | 2024-04-04 |
+| [Right Now](https://open.spotify.com/track/4vqwpFRN7mFFrJPUJgE5pj) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Right Now](https://open.spotify.com/album/4vzuP1SgLMNW1YKYGKGCTP) | 2:06 | 2025-06-15 |  |
 | [Rock Band](https://open.spotify.com/track/6rqWGgXtPRQ00iEOQMUbCB) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [GLAM](https://open.spotify.com/album/3oXFV6ywdIGcB5MTE1D7WM) | 3:56 | 2023-05-25 | 2024-04-04 |
 | [Rodeo](https://open.spotify.com/track/1iMZ5lbez6jVFSieWYtcZf) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Fleur de l'Âge](https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev) | 2:53 | 2023-05-25 | 2024-04-04 |
 | [Roi](https://open.spotify.com/track/3FVlQblG8CCPrTHfwcUUk0) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Roi](https://open.spotify.com/album/7hEml1pfNKG8hgkC8l2vmY) | 2:33 | 2022-05-25 | 2023-04-13 |

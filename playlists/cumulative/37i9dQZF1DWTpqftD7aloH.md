@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-467 songs - 1 day 21 hr 14 min
+468 songs - 1 day 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Enfermo de Amor \- Ao Vivo](https://open.spotify.com/track/5pJY1fdkQkLZVOhkfYr0XJ) | [Carol Braga](https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA), [BRASAS](https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg) | [Enfermo de Amor \(Ao Vivo\)](https://open.spotify.com/album/60M92zQZXtXIr3MbcHAGuK) | 6:50 | 2025-05-23 | 2025-06-07 |
 | [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/track/3pVXiIXJHHJkai9xaVhCww) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/album/0VHUVbOQsycwcTAL3DjvJ1) | 4:56 | 2025-02-21 |  |
 | [Era a Mão de Deus \- Ao Vivo](https://open.spotify.com/track/4lOmvsPliiQYrzOu7E2cFA) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Era a Mão de Deus \(Ao Vivo\)](https://open.spotify.com/album/5MesMCBT0UOFd8F05266dW) | 2:50 | 2025-02-21 |  |
+| [Era a Mão de Deus \- Ao Vivo](https://open.spotify.com/track/5oWAMVC1YYs8Sn3SW6vDM5) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [Era a Mão de Deus \(Ao Vivo\)](https://open.spotify.com/album/6JqRTUofnu10dun9IXpa3Z) | 5:47 | 2025-06-06 |  |
 | [Escape](https://open.spotify.com/track/6z5hadHglLMtp2sf8L8Or9) | [Jeyzer Maia](https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh) | [Escape](https://open.spotify.com/album/1OZP7A6bb4HPNXLwhmVNfj) | 4:33 | 2025-01-31 |  |
 | [Escape / Nunca Pare de Lutar](https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9) | [Jadson Moreno](https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23) | [Escape / Nunca Pare de Lutar](https://open.spotify.com/album/4TbHIqNcUNuIYN9Btkcc4q) | 9:25 | 2024-11-07 |  |
 | [Escolho Deus](https://open.spotify.com/track/4DlUWz3HnEoQrwKN0fFfwO) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Saudade, Vol\. 2](https://open.spotify.com/album/2Zg8Q0hCbXr56S86f1C918) | 4:01 | 2022-10-28 |  |
@@ -441,7 +442,7 @@
 | [Vai Passar \- Acústico](https://open.spotify.com/track/1hFe34pro0Dt4a74njqOhB) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Vai Passar \(Acústico\)](https://open.spotify.com/album/7fstEEn2fBN6WM4zE12Ovm) | 4:45 | 2022-09-09 | 2023-03-12 |
 | [Vai Valer a Pena](https://open.spotify.com/track/7fzImqefMkagp3jEeKtdVy) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Pra que outros possam viver](https://open.spotify.com/album/0hPCxbrJbUeArwhQpBbq2h) | 6:26 | 2022-09-09 | 2024-12-21 |
 | [Vem Me Perdoar](https://open.spotify.com/track/5AHdMHrX3GMuGhsF1KMaNO) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Gretter Records](https://open.spotify.com/artist/3Z2Z6CsDAshW1MA64J0xdP) | [Vem Me Perdoar](https://open.spotify.com/album/2ZGrzFpugYh3roe32RYIyg) | 2:57 | 2025-05-02 | 2025-06-01 |
-| [Vem Messias \- Ao Vivo](https://open.spotify.com/track/49tBDE02HqEZ4yWKpEwqFd) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Vem Messias \(Ao Vivo\)](https://open.spotify.com/album/4O3JYs3cZsrEf5Fmxui68s) | 6:33 | 2025-04-05 |  |
+| [Vem Messias \- Ao Vivo](https://open.spotify.com/track/49tBDE02HqEZ4yWKpEwqFd) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Vem Messias \(Ao Vivo\)](https://open.spotify.com/album/4O3JYs3cZsrEf5Fmxui68s) | 6:33 | 2025-04-05 | 2025-06-16 |
 | [Vencido \- Live](https://open.spotify.com/track/3qxlmfkJIQI6iLoncBQa8A) | [Lakewood Music Español](https://open.spotify.com/artist/3hQcvPIPBPvb9loR6XbIK6), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Vencido \(Live\)](https://open.spotify.com/album/2kh9Yrv0RwSEpiRYxKbgjV) | 8:19 | 2025-03-07 |  |
 | [Vento Impetuoso](https://open.spotify.com/track/7rV0gKsZndQeQ3OhXxoAGM) | [Ministério Atitude](https://open.spotify.com/artist/0pbx4jJ7KkygStvqKplUV4), [Filipe Bitencourt](https://open.spotify.com/artist/12eLZflwp21B3NNLVlKKsR) | [Vento Impetuoso \(ao vivo\)](https://open.spotify.com/album/0Hh7iFFwGykH9FaPiA5MRJ) | 6:38 | 2024-06-28 | 2024-07-19 |
 | [Verdadeira Adoração \- Ao Vivo](https://open.spotify.com/track/6NiC5J44xmSx5khpYTs0pE) | [Vitória Lima](https://open.spotify.com/artist/3gLt37xxZ7gMhLeoymcJeW) | [Verdadeira Adoração \(Ao Vivo\)](https://open.spotify.com/album/4mll9sU4DycQsglDjkOwek) | 6:07 | 2025-01-31 |  |

@@ -8451,6 +8451,24 @@
     },
     {
       "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/4vzuP1SgLMNW1YKYGKGCTP"
+      },
+      "artists": [
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126139,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/4vqwpFRN7mFFrJPUJgE5pj"
+    },
+    {
+      "album": {
         "name": "GLAM",
         "url": "https://open.spotify.com/album/3oXFV6ywdIGcB5MTE1D7WM"
       },

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAADyuUu9fOIfa/j1YwJwXjso",
+  "snapshot_id": "aEy7gAAAAADIq5J5Y5uqo2jJTc/iPyri",
   "tracks": [
     {
       "added_at": null,
@@ -947,6 +947,26 @@
       "duration_ms": 120187,
       "name": "Big George Bombs",
       "url": "https://open.spotify.com/track/5Ts0RBQLHGiDhCDsSJNSm6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Craven N",
+        "url": "https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "duration_ms": 137525,
+      "name": "Razors",
+      "url": "https://open.spotify.com/track/2p6pbRVWgZscjKcRcKnLg4"
     },
     {
       "added_at": null,

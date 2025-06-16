@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2019. Cover: James Blake",
-  "num_followers": 47643,
+  "num_followers": 47656,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Nothing Happens",
-        "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 166520,
-      "name": "Scrawny",
-      "url": "https://open.spotify.com/track/1pNUmVxDiE8t6P1XxcZAv8"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Hypersonic Missiles",
         "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 162600,
       "name": "Will We Talk?",
       "url": "https://open.spotify.com/track/5g0HSob4PEq7M8blV6y70i"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Nothing Happens",
+        "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 166520,
+      "name": "Scrawny",
+      "url": "https://open.spotify.com/track/1pNUmVxDiE8t6P1XxcZAv8"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -367,6 +367,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 177768,
+      "name": "Lo/Hi",
+      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Assume Form",
         "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 193600,
       "name": "Mile High (feat. Travis Scott & Metro Boomin)",
       "url": "https://open.spotify.com/track/4cQrSREMqBSvJ8ZzBZjVb8"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 177768,
-      "name": "Lo/Hi",
-      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -535,18 +535,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Violet Street",
-        "url": "https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY"
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
       "artists": [
         {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 264213,
-      "name": "When Am I Gonna Lose You",
-      "url": "https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6"
+      "duration_ms": 196776,
+      "name": "Shine A Little Light",
+      "url": "https://open.spotify.com/track/365TSrFPqM66giaxJuafR3"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -567,18 +567,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+        "name": "Violet Street",
+        "url": "https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
         }
       ],
-      "duration_ms": 196776,
-      "name": "Shine A Little Light",
-      "url": "https://open.spotify.com/track/365TSrFPqM66giaxJuafR3"
+      "duration_ms": 264213,
+      "name": "When Am I Gonna Lose You",
+      "url": "https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -763,6 +763,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Don't Feed The Pop Monster",
+        "url": "https://open.spotify.com/album/3KzbSN2H2bqf9b8NKiCIL0"
+      },
+      "artists": [
+        {
+          "name": "BROODS",
+          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
+        }
+      ],
+      "duration_ms": 255397,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/6M8qU2rDpeRQLE88DF2xtq"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "DYSFUNCTIONAL",
         "url": "https://open.spotify.com/album/2io9FL9DbX7AtefnQXFTOH"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 138115,
       "name": "Doom Days",
       "url": "https://open.spotify.com/track/1TkXApzsz0a6YRArjbqprt"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Don't Feed The Pop Monster",
-        "url": "https://open.spotify.com/album/3KzbSN2H2bqf9b8NKiCIL0"
-      },
-      "artists": [
-        {
-          "name": "BROODS",
-          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
-        }
-      ],
-      "duration_ms": 255397,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/6M8qU2rDpeRQLE88DF2xtq"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Metronomy Forever",
+        "url": "https://open.spotify.com/album/7IzNAyOsxeWhKPyNNz1urS"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 210293,
+      "name": "Salted Caramel Ice Cream",
+      "url": "https://open.spotify.com/track/13QZb2ua0JY2VJU9wG4PmQ"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Doom Days",
         "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 223853,
       "name": "Rylan",
       "url": "https://open.spotify.com/track/6XxPXXqkE4lG7MVkpom6F8"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Metronomy Forever",
-        "url": "https://open.spotify.com/album/7IzNAyOsxeWhKPyNNz1urS"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 210293,
-      "name": "Salted Caramel Ice Cream",
-      "url": "https://open.spotify.com/track/13QZb2ua0JY2VJU9wG4PmQ"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Bipolar",
-        "url": "https://open.spotify.com/album/7bbDmub6x679LEFy8eZj5w"
-      },
-      "artists": [
-        {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "duration_ms": 212750,
-      "name": "YKWIM?",
-      "url": "https://open.spotify.com/track/7ejeQLLLGjVriLS7cojERB"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/54DU59anGQsdrFP7utpshG"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 262266,
       "name": "Naeem",
       "url": "https://open.spotify.com/track/1ff60tDWdcdVN6PtKQXWny"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/7bbDmub6x679LEFy8eZj5w"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "duration_ms": 212750,
+      "name": "YKWIM?",
+      "url": "https://open.spotify.com/track/7ejeQLLLGjVriLS7cojERB"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Someone To Spend Time With",
-        "url": "https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv"
-      },
-      "artists": [
-        {
-          "name": "Los Retros",
-          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
-        }
-      ],
-      "duration_ms": 173953,
-      "name": "Someone To Spend Time With",
-      "url": "https://open.spotify.com/track/0qQ9VcVPkWDTnff6HIhISU"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Lux Prima",
         "url": "https://open.spotify.com/album/1kgurOfUl0Qu20MDK46xur"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Twenty Twenty",
-        "url": "https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv"
+        "name": "Someone To Spend Time With",
+        "url": "https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
         }
       ],
-      "duration_ms": 252987,
-      "name": "Roddy",
-      "url": "https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH"
+      "duration_ms": 173953,
+      "name": "Someone To Spend Time With",
+      "url": "https://open.spotify.com/track/0qQ9VcVPkWDTnff6HIhISU"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1339,6 +1323,22 @@
       "duration_ms": 216706,
       "name": "Hey, Ma",
       "url": "https://open.spotify.com/track/0d6bZwEAi1XblGRhnzPfgC"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Twenty Twenty",
+        "url": "https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 252987,
+      "name": "Roddy",
+      "url": "https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1423,6 +1423,38 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/54DU59anGQsdrFP7utpshG"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 145720,
+      "name": "U (Man Like)",
+      "url": "https://open.spotify.com/track/2a8HLMRc6E0AM4xXiQ4wh6"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "All Mirrors",
+        "url": "https://open.spotify.com/album/0RedX0LZkGUFoRwFntAaI0"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 206413,
+      "name": "New Love Cassette",
+      "url": "https://open.spotify.com/track/4SsWVvNKAHJP1T2bP6d2ut"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Song 32",
         "url": "https://open.spotify.com/album/7eVx4XXwY3KrIPGRrW66UI"
       },
@@ -1435,6 +1467,22 @@
       "duration_ms": 162496,
       "name": "Song 32",
       "url": "https://open.spotify.com/track/7GWAIzOmt5iznpu8RbSiSI"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Fuzzybrain",
+        "url": "https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Fuzzybrain",
+      "url": "https://open.spotify.com/track/57HJa4ktE7iHGrbFhwzEr2"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1471,34 +1519,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "All Mirrors",
-        "url": "https://open.spotify.com/album/0RedX0LZkGUFoRwFntAaI0"
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX"
       },
       "artists": [
         {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
         }
       ],
-      "duration_ms": 206413,
-      "name": "New Love Cassette",
-      "url": "https://open.spotify.com/track/4SsWVvNKAHJP1T2bP6d2ut"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Fuzzybrain",
-        "url": "https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Fuzzybrain",
-      "url": "https://open.spotify.com/track/57HJa4ktE7iHGrbFhwzEr2"
+      "duration_ms": 280186,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/3NQMi6VzmxmKeqhcbE02WI"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1531,38 +1563,6 @@
       "duration_ms": 175280,
       "name": "Lovestained",
       "url": "https://open.spotify.com/track/4cTPtlhSo6NDdOe1fXzx1N"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "i,i",
-        "url": "https://open.spotify.com/album/54DU59anGQsdrFP7utpshG"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 145720,
-      "name": "U (Man Like)",
-      "url": "https://open.spotify.com/track/2a8HLMRc6E0AM4xXiQ4wh6"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Titanic Rising",
-        "url": "https://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 280186,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/3NQMi6VzmxmKeqhcbE02WI"
     },
     {
       "added_at": "2022-09-16 04:53:36",

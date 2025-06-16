@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Jon Keith
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,460 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,466 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Adonai](https://open.spotify.com/track/3TEHgvwiuZ2NsGfKohjOlF) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Adonai](https://open.spotify.com/album/124CGwgNr7JQ2ZRerZ8tba) | 2:07 |
 | 100 | [Oluwa is Involved](https://open.spotify.com/track/3RnsjEScubf0TKdH2HP1oP) | [Faith Child](https://open.spotify.com/artist/0FMlGMImrFqeOL7ykcYdZy), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Oluwa is Involved](https://open.spotify.com/album/47TponZngaYl10SgRs5jrJ) | 3:08 |
 
-Snapshot ID: `AAAAAMdXRDOo05HSEH0YKUkxuYDpa4Vb`
+Snapshot ID: `aEvVJwAAAAD66SXc7wtxH29vHGc9UGPf`

@@ -1493,6 +1493,28 @@
     },
     {
       "album": {
+        "name": "Dragon",
+        "url": "https://open.spotify.com/album/5Cv0KXpWQ2fMyal3kbqkqU"
+      },
+      "artists": [
+        {
+          "name": "Indira Paganotto",
+          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181099,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/1J827bhoOFER99MdWqeoyU"
+    },
+    {
+      "album": {
         "name": "Dreamlike",
         "url": "https://open.spotify.com/album/2vO8jppjM5Ld8NbLPefGBc"
       },
@@ -2014,7 +2036,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 211467,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5"

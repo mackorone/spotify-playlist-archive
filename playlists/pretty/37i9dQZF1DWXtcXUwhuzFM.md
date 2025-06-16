@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia Averagekidlukelta, Eveliinalta & Juuna Chilliltä, Mikael Gabrielilta, Portion Boysilta ja monelta muulta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,578 likes - 122 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,589 likes - 122 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

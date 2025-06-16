@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Paleface Swiss
 
-671 songs - 1 day 19 hr 23 min
+672 songs - 1 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Barren and Breathless Macrocosm](https://open.spotify.com/track/3FlPw9Js3uGZQ0eNqWKtS3) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Barren and Breathless Macrocosm](https://open.spotify.com/album/5yOlm4DL4IfxA1EJotKHZz) | 4:56 | 2021-12-17 | 2025-06-07 |
 | [Bathe in the Flame](https://open.spotify.com/track/3fJWw5Od5tGvKlyh02jLib) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Bathe in the Flame](https://open.spotify.com/album/1hHaXapKFTDXsnDhlZbmN6) | 4:00 | 2021-12-17 | 2024-06-26 |
 | [Battles Are Won Within](https://open.spotify.com/track/1x3h4Gt8q5lr3lCr9DwW40) | [Krosis](https://open.spotify.com/artist/7gfEb4adETwNZgWLUlcHQy) | [Battles Are Won Within](https://open.spotify.com/album/2SxBnU5KV2nnjndfDlQgqZ) | 3:56 | 2021-12-17 | 2022-07-23 |
+| [Been There, Mutilated That](https://open.spotify.com/track/3I58ZL3BbnwNsPgV9gpMQZ) | [Rev3rent](https://open.spotify.com/artist/45q5wK6iCBMgxlghmyjkUD) | [Been There, Mutilated That](https://open.spotify.com/album/6IzuEnCsz9celfE3THxHuW) | 2:38 | 2025-06-13 |  |
 | [Befouler \(feat\. Alex Terrible\)](https://open.spotify.com/track/0Lr0MHPtvyM6pGlfGX6ch5) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC), [Alex Terrible](https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO) | [Befouler \(feat\. Alex Terrible\)](https://open.spotify.com/album/20zVLJm0y5D6pzmkxUpjBD) | 3:43 | 2023-03-24 |  |
 | [Behind the Crowd](https://open.spotify.com/track/09vdbE9riiqUAnS8RNSZ0z) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Behind The Crowd](https://open.spotify.com/album/2vnONzlyg4ITtYh4H8Z5oM) | 3:14 | 2022-04-15 | 2025-02-05 |
 | [Behind the Crowd](https://open.spotify.com/track/0RaMMxG2LIexxGz4a3fEZt) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Bleed\-Abide](https://open.spotify.com/album/1PcvrxS7q5g9n1MxC7BOo4) | 3:14 | 2023-12-13 | 2024-04-19 |
@@ -419,7 +420,7 @@
 | [New Dawn](https://open.spotify.com/track/458jbRBNS7zdEdH7XJlWZP) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [New Dawn](https://open.spotify.com/album/2jzZI6qgIqULUKdFMrv7pr) | 1:49 | 2022-07-08 | 2025-06-09 |
 | [New Gods](https://open.spotify.com/track/5wDscoENTsVsW6gvCLsLpX) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Human Target](https://open.spotify.com/album/45oaK6XdF8aZ9tIF6aPQCM) | 3:01 | 2022-07-08 | 2023-08-03 |
 | [New Gods](https://open.spotify.com/track/70TLs0LJ6hG2m7lq21kqdV) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Human Target](https://open.spotify.com/album/4RKvBFRoBD45oZ9z1VyKyU) | 3:01 | 2021-12-17 | 2022-07-28 |
-| [Nightmare](https://open.spotify.com/track/16COWH18tMTErphM5E58XH) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [Nightmare](https://open.spotify.com/album/7F1rW2vvNThPFpUtlxc0l5) | 3:48 | 2022-04-22 |  |
+| [Nightmare](https://open.spotify.com/track/16COWH18tMTErphM5E58XH) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [Nightmare](https://open.spotify.com/album/7F1rW2vvNThPFpUtlxc0l5) | 3:48 | 2022-04-22 | 2025-06-16 |
 | [Nightmare Vision](https://open.spotify.com/track/0FhCI4cKLfNKOyNPJt4Rku) | [Inferious](https://open.spotify.com/artist/3GsjlNLSPhQthK4XG6Uius) | [Nightmare Vision](https://open.spotify.com/album/23Y0im3BCMNgVGLtkfWj9Q) | 2:48 | 2021-12-17 | 2022-04-05 |
 | [Nihilus](https://open.spotify.com/track/7e9lo5xNLCxtGF3AuU5WNW) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Nihilus](https://open.spotify.com/album/45QoTiIMPyNXb2tHkxex6T) | 3:34 | 2022-06-10 |  |
 | [No Dignity](https://open.spotify.com/track/3lN5zEux9kS6wuAOynFQlO) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [No Dignity](https://open.spotify.com/album/0d1OWLprMSKHi4aeeIhpEZ) | 3:29 | 2021-12-17 | 2022-07-24 |

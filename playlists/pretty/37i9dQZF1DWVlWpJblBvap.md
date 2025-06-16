@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > All of your recent Worship hits in one place!  Cover: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 651,833 likes - 55 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 652,251 likes - 55 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 54 | [Your Great Name](https://open.spotify.com/track/5pdYFUzu94cFVCqOFCd3lk) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Love Revolution](https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG) | 6:01 |
 | 55 | [Hallelujah For The Cross \- Live](https://open.spotify.com/track/5F8BAvMlGfsmSEIHEJb5BT) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Hallelujah For The Cross \(Live\)](https://open.spotify.com/album/7gl4xo51W88Hp6PaYuEVOL) | 5:31 |
 
-Snapshot ID: `aELTVAAAAAAWvfehHe3gRLpR8quKOYLk`
+Snapshot ID: `AAAAAFI1ui+mFjFHDViJDD9aocvSC7Tj`

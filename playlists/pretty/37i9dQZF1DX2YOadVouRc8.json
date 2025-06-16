@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 36626,
+  "num_followers": 36653,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2025-06-13 02:55:53",
       "album": {
+        "name": "Phenomena",
+        "url": "https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 202861,
+      "name": "Phenomena",
+      "url": "https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo"
+    },
+    {
+      "added_at": "2025-06-13 02:55:53",
+      "album": {
         "name": "Mwah!",
         "url": "https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 128000,
       "name": "Mwah!",
       "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw"
-    },
-    {
-      "added_at": "2025-06-13 02:55:53",
-      "album": {
-        "name": "Phenomena",
-        "url": "https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 202861,
-      "name": "Phenomena",
-      "url": "https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo"
     },
     {
       "added_at": "2025-06-13 02:55:53",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-06-13 02:55:53",
       "album": {
-        "name": "Taxi Driver",
-        "url": "https://open.spotify.com/album/7c2XZws36PYpazUQUgMPUh"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 156226,
-      "name": "Taxi Driver",
-      "url": "https://open.spotify.com/track/2vQJRynClKi21S5CBnFHvj"
-    },
-    {
-      "added_at": "2025-06-13 02:55:53",
-      "album": {
         "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
         "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": "2025-06-13 02:55:53",
       "album": {
+        "name": "Taxi Driver",
+        "url": "https://open.spotify.com/album/7c2XZws36PYpazUQUgMPUh"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 156226,
+      "name": "Taxi Driver",
+      "url": "https://open.spotify.com/track/2vQJRynClKi21S5CBnFHvj"
+    },
+    {
+      "added_at": "2025-06-13 02:55:53",
+      "album": {
         "name": "Mukutu",
         "url": "https://open.spotify.com/album/4Q2pEBNlOZAhdIDdtOZI2Z"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 155164,
       "name": "Mukutu",
       "url": "https://open.spotify.com/track/71d4wliLLDL2fhUcwalp11"
-    },
-    {
-      "added_at": "2025-06-13 02:55:53",
-      "album": {
-        "name": "Arike",
-        "url": "https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 124286,
-      "name": "Arike",
-      "url": "https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb"
     },
     {
       "added_at": "2025-06-13 02:55:53",
@@ -671,6 +655,22 @@
       "duration_ms": 205238,
       "name": "Fall In Love (feat. Ayo Jay)",
       "url": "https://open.spotify.com/track/4GdnJEbOxXMJMSzdkql8X3"
+    },
+    {
+      "added_at": "2025-06-13 02:55:53",
+      "album": {
+        "name": "Arike",
+        "url": "https://open.spotify.com/album/2auZixvw1TIVsHDvIyhJjw"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "duration_ms": 124286,
+      "name": "Arike",
+      "url": "https://open.spotify.com/track/1y9DKiy8X0zejal5Avpleb"
     },
     {
       "added_at": "2025-06-13 02:55:53",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-06-13 02:55:53",
       "album": {
-        "name": "Bodycon",
-        "url": "https://open.spotify.com/album/0HdNiCaRBvvwtruMCKsHJY"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 159720,
-      "name": "Bodycon",
-      "url": "https://open.spotify.com/track/7ouRkgZUc2OOrsdf1hQUDx"
-    },
-    {
-      "added_at": "2025-06-13 02:55:53",
-      "album": {
         "name": "Ifeoma",
         "url": "https://open.spotify.com/album/1EbcTy7CMKfT3G4hqbw9uD"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 124865,
       "name": "Ifeoma",
       "url": "https://open.spotify.com/track/4elt86Mgijb74wnuO1nTcG"
+    },
+    {
+      "added_at": "2025-06-13 02:55:53",
+      "album": {
+        "name": "Bodycon",
+        "url": "https://open.spotify.com/album/0HdNiCaRBvvwtruMCKsHJY"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 159720,
+      "name": "Bodycon",
+      "url": "https://open.spotify.com/track/7ouRkgZUc2OOrsdf1hQUDx"
     },
     {
       "added_at": "2025-06-13 02:55:53",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-06-13 02:55:53",
       "album": {
+        "name": "Bad Belle",
+        "url": "https://open.spotify.com/album/1C5CS9qseNOh13TsHRUK4d"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 206191,
+      "name": "Bad Belle",
+      "url": "https://open.spotify.com/track/4iFqHFseTx2tXn6PHCETYl"
+    },
+    {
+      "added_at": "2025-06-13 02:55:53",
+      "album": {
         "name": "Storytime",
         "url": "https://open.spotify.com/album/1MoX3r1GbmjH4VWZg1ERrX"
       },
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2025-06-13 02:55:53",
       "album": {
-        "name": "Bad Belle",
-        "url": "https://open.spotify.com/album/1C5CS9qseNOh13TsHRUK4d"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 206191,
-      "name": "Bad Belle",
-      "url": "https://open.spotify.com/track/4iFqHFseTx2tXn6PHCETYl"
-    },
-    {
-      "added_at": "2025-06-13 02:55:53",
-      "album": {
         "name": "ARABAMBI",
         "url": "https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1"
       },
@@ -1243,6 +1243,22 @@
       "duration_ms": 190226,
       "name": "ARABAMBI",
       "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
+    },
+    {
+      "added_at": "2025-06-13 02:55:53",
+      "album": {
+        "name": "Ave Maria",
+        "url": "https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS"
+      },
+      "artists": [
+        {
+          "name": "Ema Onigah",
+          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
+        }
+      ],
+      "duration_ms": 167052,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL"
     },
     {
       "added_at": "2025-06-13 02:55:53",
@@ -1275,22 +1291,6 @@
       "duration_ms": 177720,
       "name": "mo de ma [by any minz]",
       "url": "https://open.spotify.com/track/1YvsFwQPkCOB3YhKBKOnyL"
-    },
-    {
-      "added_at": "2025-06-13 02:55:53",
-      "album": {
-        "name": "Ave Maria",
-        "url": "https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS"
-      },
-      "artists": [
-        {
-          "name": "Ema Onigah",
-          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
-        }
-      ],
-      "duration_ms": 167052,
-      "name": "Ave Maria",
-      "url": "https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL"
     },
     {
       "added_at": "2025-06-13 02:55:53",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2025-06-13 02:55:53",
       "album": {
+        "name": "FaceCard (Only Me)",
+        "url": "https://open.spotify.com/album/1UDFtcP2BNJRORKx2pXAHJ"
+      },
+      "artists": [
+        {
+          "name": "Noon Dave",
+          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "FaceCard (Only Me)",
+      "url": "https://open.spotify.com/track/1oVqMHVxQNyHqZk9Kf2APO"
+    },
+    {
+      "added_at": "2025-06-13 02:55:53",
+      "album": {
         "name": "Wicked Jazz",
         "url": "https://open.spotify.com/album/3rrsLPWZr2ZXXcDmDtbqwQ"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 149160,
       "name": "Wicked Jazz",
       "url": "https://open.spotify.com/track/5OfBwAgbfsPb6dvPLFvrfH"
-    },
-    {
-      "added_at": "2025-06-13 02:55:53",
-      "album": {
-        "name": "FaceCard (Only Me)",
-        "url": "https://open.spotify.com/album/1UDFtcP2BNJRORKx2pXAHJ"
-      },
-      "artists": [
-        {
-          "name": "Noon Dave",
-          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "FaceCard (Only Me)",
-      "url": "https://open.spotify.com/track/1oVqMHVxQNyHqZk9Kf2APO"
     },
     {
       "added_at": "2025-06-13 02:55:53",

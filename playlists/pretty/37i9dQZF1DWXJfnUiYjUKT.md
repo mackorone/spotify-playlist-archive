@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Gunna on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,661 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,738 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [One You](https://open.spotify.com/track/079uRy9uPL2zkBzIeyUdPA) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [One You](https://open.spotify.com/album/1ewkCMESWXafZayQNBsSiN) | 2:27 |
 | 100 | [Kamusale](https://open.spotify.com/track/5vQQI8prjjFvK5LN6Gelzc) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Kamusale](https://open.spotify.com/album/0doFE1DCIJIGNoNNxgzPLv) | 3:51 |
 
-Snapshot ID: `aEuicQAAAAD6tuUgq09duy3b23nAvYVk`
+Snapshot ID: `AAAAANAmwNw2tcYaVsbmt2y1xGRuA0d2`

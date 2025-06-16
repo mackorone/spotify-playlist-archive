@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-254 songs - 15 hr 24 min
+255 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Estrela e o Astronauta](https://open.spotify.com/track/7gMYX7O4kaij5IMsPH2ohd) | [Parde2](https://open.spotify.com/artist/4TvbeEkwn4ar4HdDxSeGDj), [Cris Delanno](https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd), [Alex Moreira](https://open.spotify.com/artist/5xQSgIYsZy3Hr0gguDgpI8) | [A Estrela e o Astronauta](https://open.spotify.com/album/4F2Fdtg26oRbzDfzFykVt4) | 3:24 | 2022-03-22 | 2022-04-20 |
 | [A Paraíba Não É Chicago](https://open.spotify.com/track/1YL6kqPu1Pde4zb5u93x9t) | [Quarteto do Rio](https://open.spotify.com/artist/2IRXlLBgHK3HSNJ7YlbyW4) | [A Paraíba Não É Chicago](https://open.spotify.com/album/1g4IpOiQIki2xR1198ntds) | 2:53 | 2022-02-04 | 2022-07-15 |
 | [A parte que falta](https://open.spotify.com/track/0NUu7f2wLfBrdNgiLmyVBz) | [LoreB](https://open.spotify.com/artist/7MjaGpdVZenDgXEUF4CXSz) | [A parte que falta](https://open.spotify.com/album/5LSpRZX5Bm6rQ9ye5ACNra) | 4:46 | 2022-02-04 | 2022-07-23 |
-| [Acalanto](https://open.spotify.com/track/1TkWCfVoxYqGY5umsKFT0n) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx) | [Acalanto](https://open.spotify.com/album/0vfEOSIgEL5tGirjQmpzQz) | 4:28 | 2022-03-22 |  |
+| [Acalanto](https://open.spotify.com/track/1TkWCfVoxYqGY5umsKFT0n) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx) | [Acalanto](https://open.spotify.com/album/0vfEOSIgEL5tGirjQmpzQz) | 4:28 | 2022-03-22 | 2025-06-16 |
 | [afro futurista](https://open.spotify.com/track/707zgXxO0fchdraumiV1R9) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [raiz](https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5) | 4:06 | 2022-02-04 | 2025-06-08 |
 | [Ainda É Tempo pra Ser Feliz](https://open.spotify.com/track/08hIFSxQLvmSCwgECBLLBv) | [Sambabook](https://open.spotify.com/artist/2FW6Zt8gyIF7Fb7O3TGxnE), [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3), [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Sambabook Beth Carvalho](https://open.spotify.com/album/6n2DZ90JnfaXLij3cqfLye) | 4:16 | 2025-04-04 |  |
 | [Alfazema](https://open.spotify.com/track/7hzIyUaBEYn75POSXlwjuR) | [Rafael Mike](https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Alfazema](https://open.spotify.com/album/37HpuPIwVs7PJ1q6sVPA6R) | 3:21 | 2022-02-04 | 2022-07-28 |
@@ -131,6 +131,7 @@
 | [Ideias E Ideais](https://open.spotify.com/track/5KnxRBU9N6KikeAtSukIqX) | [Ramonzin](https://open.spotify.com/artist/46cY4jGxAkRuMxXhtMue8Q), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Arteiro](https://open.spotify.com/album/4Jj3aHQ745B9x1XwhbUmFM) | 3:08 | 2022-02-04 | 2022-07-27 |
 | [Imunização Racional](https://open.spotify.com/track/4Y4XzfNAzOqax0YcXxkP0u) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Aquele Frevo Axé](https://open.spotify.com/album/5jhcmxv1YOORIADhphS2SE) | 4:40 | 2022-03-22 | 2022-07-25 |
 | [indo praí](https://open.spotify.com/track/5zDlee8YR5gPq9sU9mGkNR) | [lekinnn](https://open.spotify.com/artist/3FzhoDomc0ISOn6YiQiQCw) | [indo praí](https://open.spotify.com/album/2CEHYnOWLDT4QGpEdNaUiF) | 3:37 | 2022-03-22 | 2022-05-12 |
+| [Iôiô](https://open.spotify.com/track/6robaBYVAygXynNhcjP74Q) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC) | [Antes Que a Terra Acabe](https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi) | 4:12 | 2025-06-13 |  |
 | [Jorge De Capadocia](https://open.spotify.com/track/0kYpoESyBbEqd74Ie8elca) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Qualquer Coisa](https://open.spotify.com/album/3c6QuGftzoHlZZ10TPsHsB) | 3:20 | 2022-02-04 | 2022-07-29 |
 | [Lago Luciana](https://open.spotify.com/track/09gR88Tu1S3UCzcfnIlq1t) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k), [Magno Brito](https://open.spotify.com/artist/6PBnyjnpLiQIhicjCOV8dX), [Pedro Malcher](https://open.spotify.com/artist/4hDRyVT1vb7vdIvAQwaYo6) | [Lago Luciana](https://open.spotify.com/album/1nchLADkPEhxKW0nTOGAZO) | 3:34 | 2022-03-22 | 2022-05-02 |
 | [Lara](https://open.spotify.com/track/75MFRM8K2wYwMx9lrD8sel) | [Biltre](https://open.spotify.com/artist/2mQmDB0JpRnx5MsU6RBeev), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Lara](https://open.spotify.com/album/5SAP0iDZFQJiSUaCkvgFqq) | 3:20 | 2022-02-04 | 2022-07-20 |

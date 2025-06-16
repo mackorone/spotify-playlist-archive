@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,799 likes - 331 songs - 17 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,800 likes - 331 songs - 17 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,8 +198,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 188 | [BIG \(feat\. Rubi Rose\)](https://open.spotify.com/track/2ZSQWhxpNwAbHG3n3V5Ol1) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [BIG \(feat\. Rubi Rose\)](https://open.spotify.com/album/0Vu6i6ro4Gc5KWG93ieeac) | 3:19 |
 | 189 | [Woke Up](https://open.spotify.com/track/61qCOFYVc2N2No5F8EWrOC) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Nobody Safe](https://open.spotify.com/album/1w3bK9CG80xsuDPlrz5EV7) | 2:44 |
 | 190 | [Meet Me Outside](https://open.spotify.com/track/5Bv5DAVxABwZSwCZlSEbHU) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [JADED](https://open.spotify.com/album/6KePTmkw32h7TdPsAfdN1u) | 4:04 |
-| 191 | [Mexico \(feat\. Tory Lanez\)](https://open.spotify.com/track/5DpmweSqZzF6EATVnMnEXM) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Shadow of a Doubt](https://open.spotify.com/album/41zRghNRGMG6l8dYtRp3iI) | 4:12 |
-| 192 | [Rocket Power](https://open.spotify.com/track/4wmanmyr7qybonPp2WT5WW) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 3:36 |
+| 191 | [Rocket Power](https://open.spotify.com/track/4wmanmyr7qybonPp2WT5WW) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 3:36 |
+| 192 | [Mexico \(feat\. Tory Lanez\)](https://open.spotify.com/track/5DpmweSqZzF6EATVnMnEXM) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Shadow of a Doubt](https://open.spotify.com/album/41zRghNRGMG6l8dYtRp3iI) | 4:12 |
 | 193 | [Copy Me](https://open.spotify.com/track/4oFgLUoVJX3Y9W6RCpvcpD) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 4:40 |
 | 194 | [On You](https://open.spotify.com/track/4c6ZGF26kGR2Nr1AMG6PCL) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 1:59 |
 | 195 | [Hate It Or Love It](https://open.spotify.com/track/23HW7md2zN56ho9MaRgtN2) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [YRN 2 \(Young Rich Niggas 2\)](https://open.spotify.com/album/7Hd1Gqx8xFRAnQOLHAZxn3) | 4:42 |
@@ -291,8 +291,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 281 | [Murda \(with Murda Beatz feat\. Toosii\)](https://open.spotify.com/track/0RvSaJ0W8n89cb0uVoV9H8) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Welcome To 4 Vegas](https://open.spotify.com/album/5o1mQH493nGffEPnxekTR6) | 2:42 |
 | 282 | [Peggy Sue \(feat\. Kodak Black & Petey Pablo\)](https://open.spotify.com/track/76gxbQmNlec0KD3cATTjAv) | [Sniper Gang](https://open.spotify.com/artist/1epzPjnUDvHNek0HqGsyOd), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Petey Pablo](https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9) | [Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies](https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti) | 3:32 |
 | 283 | [Farmers Market](https://open.spotify.com/track/1v58rKXHAc5dqxEXKWC3ql) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:27 |
-| 284 | [Payback](https://open.spotify.com/track/09wHCkCytuJW7wRx7idH54) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Do Not Disturb](https://open.spotify.com/album/5FqDmgwHHtCDFRmNyOBJ9Q) | 2:00 |
-| 285 | [Too Many](https://open.spotify.com/track/3vbvylwEVk3GDKf5W6uKPZ) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:39 |
+| 284 | [Too Many](https://open.spotify.com/track/3vbvylwEVk3GDKf5W6uKPZ) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:39 |
+| 285 | [Payback](https://open.spotify.com/track/09wHCkCytuJW7wRx7idH54) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Do Not Disturb](https://open.spotify.com/album/5FqDmgwHHtCDFRmNyOBJ9Q) | 2:00 |
 | 286 | [A Nice Time](https://open.spotify.com/track/4eb21fsZhCL2l5Q2C7a2c1) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 3:03 |
 | 287 | [Here We Go Again](https://open.spotify.com/track/0UjreU6H687kMaZd6Vl3jo) | [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [MOTIONS](https://open.spotify.com/album/7aWTt4WJJdlObKHDWjH8x8) | 2:37 |
 | 288 | [Humana \(feat\. Donnie & Smoke Dawg\)](https://open.spotify.com/track/5Rsz2OB6mMEZuUbnrZfdpg) | [Jimmy Prime](https://open.spotify.com/artist/4FtU90cHXNvErDdCM5ibqi), [Donnie](https://open.spotify.com/artist/6bIrrMZ8IPwjG1zD0XBCLS), [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd) | [Humana \(feat\. Donnie & Smoke Dawg\)](https://open.spotify.com/album/782EfY56wSjLrBndf5u4X5) | 3:13 |
@@ -340,4 +340,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 330 | [On God](https://open.spotify.com/track/1rmWQqmKWRtm9bks6Lr0Sp) | [Majin Murda](https://open.spotify.com/artist/7LLv3nfvIIYTqBAV8XjlO9) | [3K](https://open.spotify.com/album/7zjBIckQRALycP2MCWEYUg) | 3:27 |
 | 331 | [Peace Of Mind](https://open.spotify.com/track/6xISF2zBnsQ8SGWT4KmWsC) | [Heightsbaby](https://open.spotify.com/artist/4fEE1O32L50PqVbKhnfkCD) | [Peace Of Mind](https://open.spotify.com/album/1Kqzy0cn7DIKQKkHqTqQD6) | 2:55 |
 
-Snapshot ID: `Ab0JkgAAAAD3hOCjPPFglYAKNeKzYsqr`
+Snapshot ID: `Ab0PMgAAAADvRwqy+kCGnnr0QYonC+A0`

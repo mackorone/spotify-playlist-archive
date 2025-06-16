@@ -4,7 +4,7 @@
 
 > Música groovera, for the true Funk Soldiers!
 
-160 songs - 10 hr 22 min
+161 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Alergica](https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG) | [Los Funktasticos Genitales](https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2) | [Los Funktasticos Genitales](https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b) | 3:56 | 2023-02-17 |  |
 | [Ameba](https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe) | [Groovin' Bohemia](https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1) | [Groovin' Bohemia](https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI) | 7:25 | 2023-02-17 |  |
 | [Amor Inocente](https://open.spotify.com/track/5Ua8g5V7j5ah5ieDeJHzNV) | [Antes de Nacer](https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo) | [Amor Inocente](https://open.spotify.com/album/7pWtehv340syIcZaXSZclR) | 3:47 | 2023-02-17 | 2025-05-01 |
-| [Ando Buscando](https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk) | [Flor Lovaglio](https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU) | [Ando Buscando](https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1) | 3:26 | 2023-02-17 |  |
+| [Ando Buscando](https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk) | [Flor Lovaglio](https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU) | [Ando Buscando](https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1) | 3:26 | 2023-02-17 | 2025-06-16 |
 | [Angelitos](https://open.spotify.com/track/6hd26gwc4eVVHNqnWUTFBB) | [Carlota Urdiales](https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl), [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0) | [Angelitos](https://open.spotify.com/album/4fITmzzlp4Q1ZsxgwVvsfF) | 2:23 | 2025-05-02 |  |
 | [Aspiradora](https://open.spotify.com/track/5pF1fRrOEv9pYSWNnb4ow1) | [La Negra Nieves](https://open.spotify.com/artist/0RL00Y8FR6izezA58JczU8) | [La Negra Nieves](https://open.spotify.com/album/6sPBV1t4LgqATxFjb6VPpj) | 5:01 | 2023-12-08 | 2024-01-13 |
 | [Asterisco](https://open.spotify.com/track/2jfEG3HUT7tCsmQGRzBxL2) | [La Negra Nieves](https://open.spotify.com/artist/0RL00Y8FR6izezA58JczU8) | [La Negra Nieves](https://open.spotify.com/album/6sPBV1t4LgqATxFjb6VPpj) | 4:19 | 2023-02-17 | 2024-04-19 |
@@ -141,6 +141,7 @@
 | [Sedas](https://open.spotify.com/track/3pB89Vp80LDCGEuXdIvbG0) | [SEDA](https://open.spotify.com/artist/6nCnKNt7CTOHzLPyWn3sHl) | [Sedas](https://open.spotify.com/album/0c8UFEPW3g6roJR38IUh2x) | 2:48 | 2025-05-30 |  |
 | [See you](https://open.spotify.com/track/2fWi95TFVVGrxxAiYIomnZ) | [Martín Longoni](https://open.spotify.com/artist/2jb0o40W69Jdbfq7TgyuYf), [Axel Mark](https://open.spotify.com/artist/0BxJVdQrTrAKG3x3STcevC) | [See you](https://open.spotify.com/album/3X0LmvRNjaJnlmsgcwNSXt) | 3:30 | 2024-03-29 | 2025-06-04 |
 | [Selva](https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr) | [De La Rivera](https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b) | [Selva](https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC) | 3:30 | 2023-02-17 |  |
+| [Sepia](https://open.spotify.com/track/5tNssisrG10u3i8M2tuK8X) | [Ekathé](https://open.spotify.com/artist/2QodtlX1l4FWXEETTWtLvz) | [Sepia](https://open.spotify.com/album/7n8DQxmEU59eGsqK89zqaE) | 5:26 | 2025-06-13 |  |
 | [Shine It](https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [End Of The World Party \(Just In Case\)](https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX) | 4:59 | 2023-02-17 |  |
 | [Silver Mule](https://open.spotify.com/track/3PJmsTebOq650PohvoAOny) | [Reiband](https://open.spotify.com/artist/10JfXtdWDeKZKjP0LJkpiM) | [Disconnected](https://open.spotify.com/album/19SYYIX0zzZvm3zZjuncT3) | 3:50 | 2023-09-07 | 2024-01-29 |
 | [Simon Freak](https://open.spotify.com/track/6mYRXQDxEpeVLMcDBi7zlr) | [Tony 70](https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv) | [Tony 70](https://open.spotify.com/album/6BKVskjcx78fG8bPWQ3Ypx) | 3:53 | 2023-02-17 |  |

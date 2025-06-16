@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:4uqHgaeBynLBQgfhMEIm1G">PLUTO</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,804,923 likes - 101 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,804,656 likes - 101 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 100 | [Controversy 2 \(feat\. Tee Grizzley\)](https://open.spotify.com/track/3nPI8WzSQWAhF0WjH8cnrH) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Crack Music 3](https://open.spotify.com/album/7GgMU6eXAkAJ1IJ9WcPVIo) | 2:00 |
 | 101 | [act ii: date @ 8](https://open.spotify.com/track/5wzPDiNVgJ5Rvhjne9Uj3F) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [u made me a st4r](https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr) | 1:53 |
 
-Snapshot ID: `aEuiYwAAAABgUVUJIfgXQ/eM1SZPrOtk`
+Snapshot ID: `aEuiYwAAAACfnwqk81P9KgxMTu07V8vZ`

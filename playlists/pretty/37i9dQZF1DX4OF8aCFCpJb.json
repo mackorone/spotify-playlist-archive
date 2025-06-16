@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 70658,
+  "num_followers": 70659,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "K\u00e4rlek",
+        "url": "https://open.spotify.com/album/3wjpMLo7H6dN3NAG3cbZVZ"
+      },
+      "artists": [
+        {
+          "name": "Jacco",
+          "url": "https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk"
+        }
+      ],
+      "duration_ms": 217263,
+      "name": "K\u00e4rlek",
+      "url": "https://open.spotify.com/track/3ZnZPPqpDO3kR8aY3zBtaj"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "Fri",
         "url": "https://open.spotify.com/album/5f8H1KwJEnHUdJESdUdkqF"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 194181,
       "name": "Fri (feat. Robert Athill)",
       "url": "https://open.spotify.com/track/3AJ7HhpCdI5bc4mchElu4M"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "K\u00e4rlek",
-        "url": "https://open.spotify.com/album/3wjpMLo7H6dN3NAG3cbZVZ"
-      },
-      "artists": [
-        {
-          "name": "Jacco",
-          "url": "https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk"
-        }
-      ],
-      "duration_ms": 217263,
-      "name": "K\u00e4rlek",
-      "url": "https://open.spotify.com/track/3ZnZPPqpDO3kR8aY3zBtaj"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -695,26 +695,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Baluns",
-        "url": "https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN"
-      },
-      "artists": [
-        {
-          "name": "Antonio D",
-          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
-        },
-        {
-          "name": "Dirty Jens",
-          "url": "https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "Baluns",
-      "url": "https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Sweet Reggaemusik",
         "url": "https://open.spotify.com/album/6chVGuHYBS3fdTmhdx3AaC"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 162000,
       "name": "Sweet Reggaemusik",
       "url": "https://open.spotify.com/track/7z5sf617bXkdI8BUOiANL9"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Baluns",
+        "url": "https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN"
+      },
+      "artists": [
+        {
+          "name": "Antonio D",
+          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+        },
+        {
+          "name": "Dirty Jens",
+          "url": "https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "Baluns",
+      "url": "https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -791,26 +791,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "V\u00e5r Dans",
-        "url": "https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6"
-      },
-      "artists": [
-        {
-          "name": "Antonio D",
-          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
-        },
-        {
-          "name": "Admiral P",
-          "url": "https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD"
-        }
-      ],
-      "duration_ms": 181115,
-      "name": "V\u00e5r Dans",
-      "url": "https://open.spotify.com/track/0akrglttILrVEe2ncifHsH"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Ska vi",
         "url": "https://open.spotify.com/album/7oWzSnb9fMgx3qo9e4Omz9"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 195000,
       "name": "Ska vi",
       "url": "https://open.spotify.com/track/5yzm25tJbuTnbmK9hjNiH6"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "V\u00e5r Dans",
+        "url": "https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6"
+      },
+      "artists": [
+        {
+          "name": "Antonio D",
+          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+        },
+        {
+          "name": "Admiral P",
+          "url": "https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD"
+        }
+      ],
+      "duration_ms": 181115,
+      "name": "V\u00e5r Dans",
+      "url": "https://open.spotify.com/track/0akrglttILrVEe2ncifHsH"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -883,22 +883,26 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Fr\u00e5n och med Du",
-        "url": "https://open.spotify.com/album/4roiBkmOkDwfZHpI6spw6G"
+        "name": "Back on track",
+        "url": "https://open.spotify.com/album/79ja6VUuZvbr0g7POJ1Xb1"
       },
       "artists": [
         {
-          "name": "Antonio D",
-          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+          "name": "Moncho",
+          "url": "https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc"
         },
         {
-          "name": "Wha Gwaan Band",
-          "url": "https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG"
+          "name": "MIVAS",
+          "url": "https://open.spotify.com/artist/21xJtgcxDrr0ahUS5GIjFG"
+        },
+        {
+          "name": "Partillo",
+          "url": "https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Fr\u00e5n och med Du",
-      "url": "https://open.spotify.com/track/2wStsM878RWyPXv0yMfpca"
+      "duration_ms": 214125,
+      "name": "Back on track",
+      "url": "https://open.spotify.com/track/1yCqXDVbXDyF75VliHTJyv"
     }
   ],
   "unique_name": "Svensk Reggae",

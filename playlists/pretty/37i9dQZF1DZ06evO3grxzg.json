@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 234506,
+  "num_followers": 234510,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAA6ZjYfsnKngzPW33w6dAhb",
+  "snapshot_id": "aEy7gAAAAAALSsp6DEer8Rr4L/8oYWU8",
   "tracks": [
     {
       "added_at": null,
@@ -675,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuatro Estaciones",
-        "url": "https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 183880,
-      "name": "Ladrones",
-      "url": "https://open.spotify.com/track/23R6LNvr5YGUw4iJiPhXOb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cachito",
         "url": "https://open.spotify.com/album/0OcBXPOOzTDvQKUJxnQSvf"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 188546,
       "name": "Cachito",
       "url": "https://open.spotify.com/track/5S4rNAIyjLyUVdrGWy48Ub"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuatro Estaciones",
+        "url": "https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 183880,
+      "name": "Ladrones",
+      "url": "https://open.spotify.com/track/23R6LNvr5YGUw4iJiPhXOb"
     },
     {
       "added_at": null,
@@ -830,19 +830,11 @@
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 208773,
-      "name": "Friend De Semana",
-      "url": "https://open.spotify.com/track/3VxQC3iXh0rDVy5jhv8j71"
+      "duration_ms": 185573,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/2cjSAsmn2oTNyeAVVum23R"
     },
     {
       "added_at": null,
@@ -906,11 +898,19 @@
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 185573,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/2cjSAsmn2oTNyeAVVum23R"
+      "duration_ms": 208773,
+      "name": "Friend De Semana",
+      "url": "https://open.spotify.com/track/3VxQC3iXh0rDVy5jhv8j71"
     },
     {
       "added_at": null,

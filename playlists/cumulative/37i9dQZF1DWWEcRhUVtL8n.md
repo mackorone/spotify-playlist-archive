@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Olivia Dean
 
-2,134 songs - 4 day 16 hr 57 min
+2,135 songs - 4 day 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,7 @@
 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 | 2024-08-23 | 2024-12-06 |
 | [BLOOM](https://open.spotify.com/track/4UvH9dyjiUBnvC8yb18wik) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [BLOOM](https://open.spotify.com/album/15WtmLc4a8HGxHMsLPpHaN) | 3:26 | 2023-06-16 | 2023-08-18 |
 | [Bloom \- Remix](https://open.spotify.com/track/1WWXRNfFhZWbLD3jGcC8T0) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [eli.](https://open.spotify.com/artist/05TvjXcgQveeF7wh2DBHvp), [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Birthday Boy \(Party Favors\)](https://open.spotify.com/album/2ZjzdxS9GOQn9IEdOmWen1) | 3:48 | 2020-11-20 | 2021-02-28 |
-| [Blue](https://open.spotify.com/track/7nicn8ELgX9KaaHSS3MWxw) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Blue](https://open.spotify.com/album/01tkNiiy4FwDYTOSU4Bu9W) | 2:33 | 2025-03-28 |  |
+| [Blue](https://open.spotify.com/track/7nicn8ELgX9KaaHSS3MWxw) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Blue](https://open.spotify.com/album/01tkNiiy4FwDYTOSU4Bu9W) | 2:33 | 2025-03-28 | 2025-06-16 |
 | [Blue Ceiling](https://open.spotify.com/track/4TQd8QvI6SdxnBbdEILnXI) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB) | [Blue Ceiling](https://open.spotify.com/album/3Bbsr7ZHxi4Y1ANu8S7gbw) | 2:46 | 2021-04-03 | 2021-05-26 |
 | [Blue Eyed Boy](https://open.spotify.com/track/2Pa3wJwBskgjo3CXz5y0n1) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Blue Eyed Boy](https://open.spotify.com/album/5NhlbhBmjU4q0BPTf4J47V) | 2:43 | 2023-07-07 | 2023-07-22 |
 | [Blue Skies](https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0) | 2:39 | 2021-06-04 | 2022-04-16 |
@@ -724,6 +724,7 @@
 | [Garden of Eden](https://open.spotify.com/track/6jF6VwQeIiy18FUH0wuIQN) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Garden of Eden](https://open.spotify.com/album/3pw1gb17EJ7ILSm9b28ZgQ) | 3:19 | 2021-02-08 | 2021-10-28 |
 | [Gasoline](https://open.spotify.com/track/5tVbKij7vNLI0psFkkzyew) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/6NtEjhPWfZcvJQuvjGX4bk) | 3:13 | 2020-10-20 | 2021-06-03 |
 | [Gave U My Love](https://open.spotify.com/track/3Q4Pa5EybvFw8O5P3eVrMW) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [MOVIES! WORLDWIDE: PART I](https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md) | 1:38 | 2023-09-22 | 2023-11-03 |
+| [Geezer](https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Geezer](https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO) | 2:49 | 2025-06-13 |  |
 | [gentle](https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:18 | 2022-06-17 | 2022-10-28 |
 | [Georgia](https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Georgia](https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ) | 2:56 | 2022-11-11 | 2022-12-22 |
 | [Georgia Peach \(Sketch\)](https://open.spotify.com/track/4ymCext30WfpFv4suoi0Tg) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Georgia Peach \(Sketch\)](https://open.spotify.com/album/6EoZjS60umuw3aoEDr2kbA) | 2:15 | 2021-10-14 | 2021-10-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bnzK9KPvrz.md) - [plain]
 
 > The essential tracks from The Weeknd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,773,233 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,773,582 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bnzK9KPvrz.md) - [plain]
 | 49 | [Acquainted](https://open.spotify.com/track/7uJH0YdSZL6psjxI6Xy08b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 5:48 |
 | 50 | [House Of Balloons / Glass Table Girls](https://open.spotify.com/track/50iiDJGpAPdr2VTrz999XA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 6:45 |
 
-Snapshot ID: `AAAAAIKJrCnNKfSY94+pUQH/eeyNrZgM`
+Snapshot ID: `aC3dKQAAAAALHZNRck9Atn5GdAiLnmcY`

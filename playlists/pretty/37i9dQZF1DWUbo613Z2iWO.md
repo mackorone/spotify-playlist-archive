@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  Psyrin
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,572 likes - 190 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,585 likes - 190 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

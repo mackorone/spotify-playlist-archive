@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,334 songs - 3 day 16 hr 59 min
+2,336 songs - 3 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Always be mine](https://open.spotify.com/track/3Llf4MEMJvO99Hv8yBJtVu) | [submarine](https://open.spotify.com/artist/5Z939ZaWYTA9rJyHq1jzKv) | [Minecraft Thong](https://open.spotify.com/album/6I4a6SNWmypJbB7x74i0Hq) | 1:44 | 2022-04-15 | 2023-08-18 |
 | [Always June](https://open.spotify.com/track/56CgYH9CRH62m5qLC3qbB0) | [Reeve](https://open.spotify.com/artist/0OX3FCZUygSczPyekt9Ne3) | [Always June](https://open.spotify.com/album/6ddQFl7CIOw5FIFe6RT1Jg) | 2:18 | 2022-04-15 | 2022-07-15 |
 | [Always On Time](https://open.spotify.com/track/0k2i7sMuEFtFgJoZsaqodx) | [Milo the Cat](https://open.spotify.com/artist/2f9Z69FJqZkUrUdi5zuCK9) | [Always On Time](https://open.spotify.com/album/6G9UyeGZAkvFLs2Sv7a9tH) | 2:31 | 2022-04-15 | 2022-08-12 |
+| [amber hour](https://open.spotify.com/track/0M7o1CJXykcmyzizdCDV67) | [sad notes](https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A) | [amber hour](https://open.spotify.com/album/1LNMjVUBDyOuNPxFHvxuos) | 2:17 | 2025-06-13 |  |
 | [amber lights](https://open.spotify.com/track/4xbJ6k1wNNLtw9ZvAdgApZ) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [amber lights](https://open.spotify.com/album/4AVJJggB3lvbTxNCBQVTng) | 2:00 | 2024-06-07 | 2024-08-24 |
 | [ambivalence](https://open.spotify.com/track/2N0VqqJmyoPsBfn4sbSXoG) | [softflow](https://open.spotify.com/artist/7bpXsZz8CK2r8QWptlceTP) | [ambivalence](https://open.spotify.com/album/5Y5qwgK5kCbwjxwbtAxjH0) | 1:58 | 2025-04-18 | 2025-05-17 |
 | [american midsummer](https://open.spotify.com/track/1gfdvlMyagmkXVnnVn1o0q) | [lagom.](https://open.spotify.com/artist/2isRNqunLqbfBjiXZ4ZGdX) | [american midsummer](https://open.spotify.com/album/0hSmrjvgKp6au8r7Cnq0Pd) | 2:48 | 2023-08-17 | 2025-05-04 |
@@ -951,7 +952,7 @@
 | [I Do](https://open.spotify.com/track/2wJrTlyqgJFj7RsoswJHIF) | [Nikachu](https://open.spotify.com/artist/5ehbC9QZVDRJcaEwmgGVfb) | [I Do](https://open.spotify.com/album/3SI68TzqPo4OwaVgMSjpJp) | 2:20 | 2023-11-17 | 2024-07-13 |
 | [I fly by](https://open.spotify.com/track/3RiD3K4dx0dcWafH0kZboB) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [I fly by](https://open.spotify.com/album/3Slu8hAHhie7QTdReKjuXe) | 2:08 | 2022-04-15 | 2023-03-02 |
 | [I Just Want to Know You](https://open.spotify.com/track/7cBMqUyvjsRRC5RPMNPIJb) | [Analog Bow](https://open.spotify.com/artist/7kQ9kQ588r6INRWFlU1k1T) | [I Just Want to Know You](https://open.spotify.com/album/5CbZsUZjooxzpksZulU7DX) | 2:57 | 2024-09-13 | 2025-02-28 |
-| [I Love You, Girl](https://open.spotify.com/track/36RJxgfJQjSBCb26klkFR4) | [AAGAPE](https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W) | [I Love You, Girl](https://open.spotify.com/album/0yHWLTdcCWTVbUeM7wOGAb) | 2:14 | 2024-01-12 |  |
+| [I Love You, Girl](https://open.spotify.com/track/36RJxgfJQjSBCb26klkFR4) | [AAGAPE](https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W) | [I Love You, Girl](https://open.spotify.com/album/0yHWLTdcCWTVbUeM7wOGAb) | 2:14 | 2024-01-12 | 2025-06-16 |
 | [i n d i c a](https://open.spotify.com/track/1isvJir39qBjocCTYt7KI8) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [kiwi juice](https://open.spotify.com/album/67CGdn3DQeQLJkRJ4QgNst) | 3:12 | 2023-02-06 |  |
 | [i think it was november](https://open.spotify.com/track/7D6CD56bThLj54TdC4laLz) | [Genser 55](https://open.spotify.com/artist/3UFbxZyncA9yrkXQjjYdMG) | [i think it was november](https://open.spotify.com/album/0DH3UPAh1j4qzCV3Aot9QS) | 2:22 | 2023-02-06 |  |
 | [i'm fine](https://open.spotify.com/track/5nyCgKqcA6KhSRHeC0Qicu) | [Cafune](https://open.spotify.com/artist/07jJECbFecl5DmNw2lEtGR), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [i'm fine](https://open.spotify.com/album/4mFPvD3XNMun4srlJw6nzU) | 2:13 | 2022-07-08 | 2022-12-03 |
@@ -1831,7 +1832,7 @@
 | [Slump Chills](https://open.spotify.com/track/3hLIeWkgVEno7EtXRF03wl) | [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7) | [Slump Chills](https://open.spotify.com/album/7tx1pc4ZwRuC4KefeaDarI) | 2:42 | 2022-05-27 | 2022-11-12 |
 | [smileyface](https://open.spotify.com/track/6oGk8aYZv1s28KeBrFGQax) | [Ali Kaj](https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI) | [smileyface](https://open.spotify.com/album/78DU2xHbAo9sss8dmbstyI) | 2:54 | 2023-11-17 |  |
 | [Smokey](https://open.spotify.com/track/4p14eOpDYsh7lxZCNDFeF6) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Smokey](https://open.spotify.com/album/25uVN5TAJTQ2byMKlkOJab) | 1:30 | 2022-04-15 | 2022-05-27 |
-| [Smokin' aces](https://open.spotify.com/track/3GoTqkZ7NxIGy7uBLkeLuR) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [Smokin' aces](https://open.spotify.com/album/2hWKhdSkjrJAhYMepkdxkf) | 2:01 | 2023-01-20 |  |
+| [Smokin' aces](https://open.spotify.com/track/3GoTqkZ7NxIGy7uBLkeLuR) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [Smokin' aces](https://open.spotify.com/album/2hWKhdSkjrJAhYMepkdxkf) | 2:01 | 2023-01-20 | 2025-06-16 |
 | [Smoking at Sundown](https://open.spotify.com/track/7fZE886mHBzgaeA5SlMSaa) | [peerless](https://open.spotify.com/artist/1c2JWfQucGww8ADlPqc0oJ) | [Laboratoire](https://open.spotify.com/album/6TmlJOoGjqc57gXO0lxgvX) | 2:12 | 2022-11-25 |  |
 | [smooof](https://open.spotify.com/track/1LvgRFtCVEAPSB3wi71XCz) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [smooof](https://open.spotify.com/album/1g3DAdvE09HPSC8pkvIQ3L) | 1:55 | 2022-04-15 | 2022-08-19 |
 | [Smooth](https://open.spotify.com/track/3jSuyQDMePz5zAusBX4Wh1) | [Aran Brôg](https://open.spotify.com/artist/7ba3vzhS4RU7esRdjexxwA), [Chiljalo](https://open.spotify.com/artist/5FshA6iHVcvQYwaPafaWjO) | [Smooth](https://open.spotify.com/album/6JqYaastMBcPBiezjq7elr) | 2:16 | 2022-10-01 | 2023-01-07 |
@@ -2115,6 +2116,7 @@
 | [To The Moon](https://open.spotify.com/track/68HvRKLpQNKsLCe0PwlvMH) | [wyn wyn](https://open.spotify.com/artist/6kwzDhgCKDRoXRmS4eO1QT) | [To The Moon](https://open.spotify.com/album/2NPDCbWyUgKCIVfwnx0C2e) | 2:20 | 2024-08-23 |  |
 | [toasty](https://open.spotify.com/track/1wiToTJb3JoC3KLevi9mzx) | [costa rossa](https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U) | [toasty](https://open.spotify.com/album/3YDDPxNCBqCJOlStSPUnoG) | 1:56 | 2024-02-23 |  |
 | [Today](https://open.spotify.com/track/5Bk5CBbwikskZagBqfulKH) | [AWL](https://open.spotify.com/artist/7DYdwCUdpyJMKpaaL1cSBF) | [Today](https://open.spotify.com/album/37NkZxf9dMg1nNgFFalURX) | 2:00 | 2023-12-08 | 2025-05-24 |
+| [toffee creme](https://open.spotify.com/track/66UVUCBg1weSzPWKvAPo1j) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [toffee creme](https://open.spotify.com/album/0uYN0O6Tj5TH2Tot2EwlFa) | 2:07 | 2025-06-13 |  |
 | [Together](https://open.spotify.com/track/553aIceOihS2BuPTSGpdQ7) | [Gaya Police](https://open.spotify.com/artist/3rWsJ32qEIEONVLc6nimRY), [ommood](https://open.spotify.com/artist/7mNKnRt1aoVswbRjEUP1WZ) | [Together](https://open.spotify.com/album/2vNc334FebmbhE6pCVMW9P) | 2:16 | 2023-02-06 | 2023-09-14 |
 | [Together](https://open.spotify.com/track/5ijJZ7nK5bzVk09wLloi5O) | [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O), [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi) | [Together](https://open.spotify.com/album/4A3sriGvQTkrUY7G0l5Out) | 2:48 | 2022-10-07 | 2023-01-13 |
 | [Tokyo memories](https://open.spotify.com/track/1CTmCRw7nadyvJdUF9M65d) | [yoshio.](https://open.spotify.com/artist/7vsHpjrVJSGYK17KnLu6cy), [Komachi](https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr), [yoshinori takezawa](https://open.spotify.com/artist/0DtSFAYXpepz39MyKktbMD) | [Tokyo memories](https://open.spotify.com/album/0sPHP6DVAvRwUGkj1nc40S) | 2:41 | 2022-05-27 | 2022-11-12 |

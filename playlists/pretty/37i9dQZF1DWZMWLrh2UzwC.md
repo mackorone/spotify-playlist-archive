@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Marsha Milan, Kehlani, Chris Brown, Ismail Izzani, HxW, ITZY and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,053 likes - 116 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,061 likes - 116 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

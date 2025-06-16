@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-94 songs - 4 hr 48 min
+95 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [malibu](https://open.spotify.com/track/4p0o4pBoJPxYMXKhYbRzzw) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [sangiovanni](https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz) | 2:46 | 2022-09-16 |  |
 | [malibu](https://open.spotify.com/track/34VtrzecYLVHKmcuuwGb8q) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [malibu](https://open.spotify.com/album/44sFwu9PaZJ0bVKT5JkdAd) | 3:03 | 2023-12-14 | 2024-01-27 |
 | [malibu \(with Trevor Daniel\)](https://open.spotify.com/track/31cxJ8JDVyYM1Ybqppmi9s) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [sangiovanni](https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz) | 2:46 | 2022-09-16 |  |
-| [Maranza](https://open.spotify.com/track/189QAlCQGRHlHctMkIW0ot) | [Il Pagante](https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn), [Fabio Rovazzi](https://open.spotify.com/artist/35orQw8LgQn7KOFjzCyY7E) | [Maranza](https://open.spotify.com/album/3Uxxs4524HPBmxiApER8A5) | 3:00 | 2024-05-31 |  |
+| [Maranza](https://open.spotify.com/track/189QAlCQGRHlHctMkIW0ot) | [Il Pagante](https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn), [Fabio Rovazzi](https://open.spotify.com/artist/35orQw8LgQn7KOFjzCyY7E) | [Maranza](https://open.spotify.com/album/3Uxxs4524HPBmxiApER8A5) | 3:00 | 2024-05-31 | 2025-06-16 |
+| [Maranza](https://open.spotify.com/track/6Ybc2KTvfEiJeHSneaak7o) | [Il Pagante](https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn), [Fabio Rovazzi](https://open.spotify.com/artist/35orQw8LgQn7KOFjzCyY7E) | [FOMO](https://open.spotify.com/album/54ya3twstlGFMzEtsETqpl) | 3:00 | 2025-06-15 |  |
 | [mariposas](https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [mariposas](https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH) | 2:34 | 2022-09-16 |  |
 | [mariposas](https://open.spotify.com/track/7uGG7fssFM4BwW698xCpYg) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [mariposas](https://open.spotify.com/album/0GaIRDUkMJ6juvZU7D5cg8) | 2:42 | 2023-12-14 | 2024-01-29 |
 | [melodrama](https://open.spotify.com/track/5y7dpbKf0E3TW93k5w0JIs) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [poké melodrama](https://open.spotify.com/album/2wTktpdvwoQdSYVhw54Lbz) | 2:27 | 2024-09-11 |  |

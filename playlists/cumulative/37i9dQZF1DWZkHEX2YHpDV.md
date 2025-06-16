@@ -4,7 +4,7 @@
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Mayday Parade
 
-1,386 songs - 3 day 1 hr 12 min
+1,387 songs - 3 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,7 +363,7 @@
 | [Dying to Feel Alive](https://open.spotify.com/track/0esr1qU2Alrke9bK4eesbZ) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Dying to Feel Alive](https://open.spotify.com/album/3RJfs1tD7Uoonhn6JF0Ie0) | 4:36 | 2021-12-10 | 2022-07-05 |
 | [Earthquake \(feat\. jxdn\)](https://open.spotify.com/track/4QD5tfexKVwATpESYSc7qM) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Earthquake \(feat\. jxdn\)](https://open.spotify.com/album/1AJCMgQmWGjHZTGS38BgUW) | 2:57 | 2022-04-15 | 2023-05-13 |
 | [Easily Undone](https://open.spotify.com/track/6AgYRZ8emI2qW25JAS3vPA) | [Macseal](https://open.spotify.com/artist/1b1pwTnc2DJVXGy8pniShT) | [Permanent Repeat](https://open.spotify.com/album/3q7K3RDedlfLfHZAxGJCLK) | 3:39 | 2024-07-12 | 2024-08-24 |
-| [Eastern St\. Kids](https://open.spotify.com/track/0Ni4E3BVCmzuRBpdUbe8Zp) | [Agent 51](https://open.spotify.com/artist/6gZocvVCxS7FDiDgckbbOI) | [Age of Validation](https://open.spotify.com/album/1SnK5OF5aMVeuPcipp6jOo) | 3:09 | 2025-06-06 |  |
+| [Eastern Street Kids](https://open.spotify.com/track/0Ni4E3BVCmzuRBpdUbe8Zp) | [Agent 51](https://open.spotify.com/artist/6gZocvVCxS7FDiDgckbbOI) | [Age of Validation](https://open.spotify.com/album/1SnK5OF5aMVeuPcipp6jOo) | 3:09 | 2025-06-06 |  |
 | [Easy Life](https://open.spotify.com/track/0bHye6KNjoSftKF6GPJj4B) | [The Young Hearts](https://open.spotify.com/artist/6sbDFRTzVhnTYfgmVP0DVX) | [Easy Life](https://open.spotify.com/album/3g78WzC43y53ISi41zKru1) | 3:54 | 2021-12-10 | 2022-05-11 |
 | [EAT YOUR FRIENDS](https://open.spotify.com/track/226TwjZFNgEVqx68jLF9Et) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP), [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [EAT YOUR FRIENDS](https://open.spotify.com/album/0csxLFq6XZnkMOYBIpjhu6) | 3:16 | 2023-10-27 | 2024-02-24 |
 | [Echoes](https://open.spotify.com/track/4b6fFrGqGEzE5vhrcUtjTJ) | [John Floreani](https://open.spotify.com/artist/6melTVZFYp3m5UU72sIhdY) | [Echoes](https://open.spotify.com/album/0ENjKdafhEJ6oBZ63xk6Wa) | 3:31 | 2021-12-10 | 2022-06-16 |
@@ -426,6 +426,7 @@
 | [Feel A Thing](https://open.spotify.com/track/2KXudYjDXkUbbLzN5VXT7N) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Feel A Thing](https://open.spotify.com/album/5JcDvYT7w6o6Mz9Yv7aVFw) | 3:26 | 2021-12-10 | 2022-07-29 |
 | [Feel Something](https://open.spotify.com/track/6N4j7RO9FJabMrMOS4Tj7e) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [Feel Something](https://open.spotify.com/album/6PsHXh69M2FYNf9inMrra5) | 3:00 | 2022-05-20 | 2023-04-12 |
 | [Fentanyl](https://open.spotify.com/track/6mj0AwKCkLXDUIIHJx40La) | [Miss Fortune](https://open.spotify.com/artist/5kx19W2Z47r0eF76IIRG7l) | [Fentanyl](https://open.spotify.com/album/5YaSEkuyUZtNci5ScygwTz) | 3:45 | 2021-12-10 | 2022-07-28 |
+| [FEVER](https://open.spotify.com/track/6vgtAqnANqEZ8tUWGDSyjt) | [BEAUTY SCHOOL DROPOUT](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [FEVER](https://open.spotify.com/album/0TE9DjZPAVT9LFtpjUhi6F) | 3:39 | 2025-06-13 |  |
 | [Fight It](https://open.spotify.com/track/4zYdOhICwdBYkSTG2W4v6p) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Elijah Midjord](https://open.spotify.com/artist/1bCclRGmTIDEfKmcW0bv95) | [Fight It](https://open.spotify.com/album/6SUG8ZmGOHJ6wYSsLpzYde) | 2:20 | 2021-12-10 | 2022-07-28 |
 | [Figure 8](https://open.spotify.com/track/5RZ1CPAYA2q3gxHBkZuJ84) | [John Harvie](https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h) | [Figure 8](https://open.spotify.com/album/6sdo6MlzIARRUlAqo8UMri) | 3:32 | 2023-11-10 | 2025-04-05 |
 | [Figure 8](https://open.spotify.com/track/2Jb3hVkRFoiiwXYcELiBfC) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:24 | 2023-04-28 | 2024-02-24 |
@@ -1084,7 +1085,7 @@
 | [Some Kind of Miracle](https://open.spotify.com/track/59cvVKUHE92LWyTvkQ5wQA) | [High Wire](https://open.spotify.com/artist/5djG2fWMe75twMqdSDorI6) | [Some Kind of Miracle](https://open.spotify.com/album/4zrL79G2UxJ2iE3u0m3McK) | 3:36 | 2022-02-04 | 2022-04-20 |
 | [Somebody](https://open.spotify.com/track/52SHgfSMoaVZ3dyeQg9cNq) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Somebody](https://open.spotify.com/album/2VXYLA6qQE9qjlkELomwE0) | 2:58 | 2021-12-10 | 2022-06-14 |
 | [Someone Else](https://open.spotify.com/track/2difkxoCWFI8heCIu8deOE) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Someone Else](https://open.spotify.com/album/6iSpCFZpcvUUxpmcy3ThYQ) | 2:56 | 2021-12-10 | 2022-08-03 |
-| [Something About You](https://open.spotify.com/track/352rVkzjhMmzhivUPghajg) | [Brooklane](https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW) | [Something About You](https://open.spotify.com/album/60IGbp8jEh7hiknYc9cCdu) | 2:37 | 2024-05-14 |  |
+| [Something About You](https://open.spotify.com/track/352rVkzjhMmzhivUPghajg) | [Brooklane](https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW) | [Something About You](https://open.spotify.com/album/60IGbp8jEh7hiknYc9cCdu) | 2:37 | 2024-05-14 | 2025-06-16 |
 | [Something Blue](https://open.spotify.com/track/1XQecFY99zarSryU7dS1RN) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Something Blue](https://open.spotify.com/album/46aNsiacKvNKDOQP535ORt) | 3:06 | 2024-03-08 | 2025-04-05 |
 | [Songs on the Radio](https://open.spotify.com/track/5rrq3Q48Zh8kZ38mhC6rAm) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx) | [Songs on the Radio](https://open.spotify.com/album/3zRLuo2FVdTAP0MozqAiOL) | 3:28 | 2023-05-12 | 2023-07-29 |
 | [SORRY 4 MYSELF](https://open.spotify.com/track/617vlwnmLpKRnMkotVThcu) | [KD BADLUNG](https://open.spotify.com/artist/6HdsAVRJZcvzy0aM8X9lSY), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [SORRY 4 MYSELF](https://open.spotify.com/album/5Ng2BR9GAUtcEN6o1nRXRt) | 3:20 | 2022-05-20 | 2023-04-12 |

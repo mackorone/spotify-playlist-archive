@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Maahi.
 
-2,024 songs - 4 day 13 hr 23 min
+2,025 songs - 4 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1117,6 +1117,7 @@
 | [Na Na Na](https://open.spotify.com/track/5zoJ1eChvongUvr14bzckH) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/61S9dOljMoxlArx68sMYdo) | 4:11 | 2022-03-24 | 2023-06-03 |
 | [Na Área dos Boys](https://open.spotify.com/track/2PYtXthvfINMFu1YWkAa4n) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Na Área dos Boys](https://open.spotify.com/album/2jmPZdF7AqusFZRDDeHjBW) | 3:45 | 2022-09-08 | 2023-05-09 |
 | [Naakay](https://open.spotify.com/track/2mB3SEFZ883snaGO1lVGmA) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Naakay](https://open.spotify.com/album/2Ql9w0m7BgXs69T6yZrIDb) | 2:38 | 2023-06-09 | 2024-01-27 |
+| [Nada](https://open.spotify.com/track/7Lum2Q2VG0Paq9adSxNTSi) | [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4), [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0) | [Nada](https://open.spotify.com/album/3jGBkZE4D2zbTYeWSny4RI) | 3:20 | 2025-06-13 |  |
 | [Naina](https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Naina](https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh) | 2:18 | 2025-03-07 |  |
 | [NANA](https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [NANA](https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi) | 2:26 | 2024-03-15 | 2024-08-03 |
 | [napori](https://open.spotify.com/track/5Ym4egUmT9wHEvZM2anGG8) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/6v1LcUpY4GNjQ1pQ4SJCDY) | 3:23 | 2022-02-03 | 2022-03-17 |
@@ -1199,7 +1200,7 @@
 | [Odejdź](https://open.spotify.com/track/2CNxXzuVRCqL27d6pBDyZv) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [Dziwna Wiosna](https://open.spotify.com/album/0DOWUOYuRU1EsakUy3eLMG) | 4:12 | 2022-03-24 | 2022-08-02 |
 | [odpływam](https://open.spotify.com/track/362sPAroLBtYQhg4nJGton) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [odpływam](https://open.spotify.com/album/23a6rGwxVVEcFxaJdwWeQQ) | 4:08 | 2022-03-24 | 2022-04-16 |
 | [oh boi](https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [oh boi](https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM) | 2:40 | 2024-02-09 | 2024-06-22 |
-| [Oh Love](https://open.spotify.com/track/2bnkNJJEzmcIxCAGeMfzjP) | [Thorsteinn Einarsson](https://open.spotify.com/artist/7kCeNecZvb7zxsnRUC8jTV) | [Teardrops & Confettiguns](https://open.spotify.com/album/7A9PDIsFC0Jp77r8jbliZg) | 2:42 | 2025-03-21 |  |
+| [Oh Love](https://open.spotify.com/track/2bnkNJJEzmcIxCAGeMfzjP) | [Thorsteinn Einarsson](https://open.spotify.com/artist/7kCeNecZvb7zxsnRUC8jTV) | [Teardrops & Confettiguns](https://open.spotify.com/album/7A9PDIsFC0Jp77r8jbliZg) | 2:42 | 2025-03-21 | 2025-06-16 |
 | [OH YA YA YA](https://open.spotify.com/track/4zoQaQd0smo3LbyyfSBBfm) | [LUNARSOLAR](https://open.spotify.com/artist/64XtE3KrOhSYaS3dX04kI1) | [SOLAR : flare](https://open.spotify.com/album/61V200A41BxgDAvuiycVxc) | 3:00 | 2022-03-24 | 2022-04-18 |
 | [OIK](https://open.spotify.com/track/1p8XXEIjVHIqS6EKXG5qhb) | [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [OIK](https://open.spotify.com/album/42DetgJYUEjFsXM1rSD3a1) | 2:39 | 2023-08-18 | 2024-03-30 |
 | [Ojos Marrones](https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Ojos Marrones](https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63) | 3:18 | 2022-11-11 | 2023-01-07 |

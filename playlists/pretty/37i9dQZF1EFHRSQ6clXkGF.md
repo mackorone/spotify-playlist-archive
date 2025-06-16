@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,249 likes - 270 songs - 17 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,248 likes - 270 songs - 17 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,8 +181,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 171 | [Eastern Rain](https://open.spotify.com/track/0ByksfVpE3YeltkOWkr8Pz) | [Fairport Convention](https://open.spotify.com/artist/2LIdnZDzySb04oH40be1fR) | [What We Did On Our Holidays](https://open.spotify.com/album/39BUQxMN2WPLvdivLIyrk5) | 3:34 |
 | 172 | [A Bird That Whistles](https://open.spotify.com/track/0IwH3WfpSkxDsjNRnry236) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 2:37 |
 | 173 | [Snakes And Ladders](https://open.spotify.com/track/07wiC8crUT7gMSVTbUREsv) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 5:40 |
-| 174 | [Dancin' Clown](https://open.spotify.com/track/0MXDZIZgnLyVlTcfff2p25) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 3:52 |
-| 175 | [Man To Man](https://open.spotify.com/track/5Gyw75BPHQxjz6q5wzkxVK) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Wild Things Run Fast](https://open.spotify.com/album/2fcwm99VFatdh3e5HTxzFS) | 3:45 |
+| 174 | [Man To Man](https://open.spotify.com/track/5Gyw75BPHQxjz6q5wzkxVK) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Wild Things Run Fast](https://open.spotify.com/album/2fcwm99VFatdh3e5HTxzFS) | 3:45 |
+| 175 | [Dancin' Clown](https://open.spotify.com/track/0MXDZIZgnLyVlTcfff2p25) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Chalk Mark In A Rain Storm](https://open.spotify.com/album/2qVwLFYnUbFT8kbl27uZ1J) | 3:52 |
 | 176 | [Love or Money \- Live at Universal Amphitheatre, Los Angeles, CA, 8/14\-17, 1974](https://open.spotify.com/track/4WmILdqbZOqBfy1zOtCuno) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Miles of Aisles \(Live\)](https://open.spotify.com/album/2nZveqbqe3w1xTfaZmRpbz) | 4:50 |
 | 177 | [Taming the Tiger](https://open.spotify.com/track/7a4m9rG8ykbFCD3t10psAm) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Taming the Tiger](https://open.spotify.com/album/4YijzwtAqIRGtNiN4cB2aO) | 4:17 |
 | 178 | [Lucky Girl](https://open.spotify.com/track/206LaBt2SaRhtF8QEG7Ql9) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 3:59 |
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 269 | [Intro To California \(with James Taylor\) \- Live on In Concert, BBC, Paris Theatre, London, England, 10/29/1970](https://open.spotify.com/track/4RQHJvLC2tytuuFxqPR15u) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 | 270 | [Intro To Chelsea Morning: John Peel \- Live on Top Gear, BBC Radio, London, England, 9/23/1968](https://open.spotify.com/track/5RjnysVYo2c1aDi4w2A3OC) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 
-Snapshot ID: `Ab0JiAAAAAAOSxKWmdq6coz6dRGC+DbV`
+Snapshot ID: `Ab0PMgAAAADiPfviAzuUwEoOma6UxGF5`

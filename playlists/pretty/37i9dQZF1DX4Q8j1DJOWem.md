@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองแห่งปี 2025 ที่นี่เลย! ปก: guncharlie
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,899 likes - 40 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,911 likes - 40 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

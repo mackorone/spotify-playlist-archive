@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Big Up",
-  "num_followers": 292653,
+  "num_followers": 292650,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -103,6 +103,26 @@
     {
       "added_at": "2025-06-13 03:00:19",
       "album": {
+        "name": "FRAGMENTADO",
+        "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+        }
+      ],
+      "duration_ms": 194782,
+      "name": "BASQUIAT",
+      "url": "https://open.spotify.com/track/0gXPalg35be7z7TONlqJl0"
+    },
+    {
+      "added_at": "2025-06-13 03:00:19",
+      "album": {
         "name": "Minha Arte",
         "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
       },
@@ -123,26 +143,6 @@
       "duration_ms": 223912,
       "name": "Minha Arte",
       "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
-    },
-    {
-      "added_at": "2025-06-13 03:00:19",
-      "album": {
-        "name": "FRAGMENTADO",
-        "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
-        }
-      ],
-      "duration_ms": 194782,
-      "name": "BASQUIAT",
-      "url": "https://open.spotify.com/track/0gXPalg35be7z7TONlqJl0"
     },
     {
       "added_at": "2025-06-13 03:00:19",
@@ -227,30 +227,6 @@
     {
       "added_at": "2025-06-13 03:00:19",
       "album": {
-        "name": "Me Espera",
-        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Camila Zasoul",
-          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
-        }
-      ],
-      "duration_ms": 194821,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ"
-    },
-    {
-      "added_at": "2025-06-13 03:00:19",
-      "album": {
         "name": "Eu vim pra Somar",
         "url": "https://open.spotify.com/album/6x2rSX6jgdCmqhLUi6pVku"
       },
@@ -271,6 +247,30 @@
       "duration_ms": 223448,
       "name": "Eu vim pra Somar",
       "url": "https://open.spotify.com/track/5CZXwIoZKIji8dNP0yy5L0"
+    },
+    {
+      "added_at": "2025-06-13 03:00:19",
+      "album": {
+        "name": "Me Espera",
+        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        }
+      ],
+      "duration_ms": 194821,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ"
     },
     {
       "added_at": "2025-06-13 03:00:19",
@@ -443,26 +443,6 @@
     {
       "added_at": "2025-06-13 03:00:19",
       "album": {
-        "name": "Onda",
-        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 245714,
-      "name": "Meu I\u00f4 I\u00f4",
-      "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
-    },
-    {
-      "added_at": "2025-06-13 03:00:19",
-      "album": {
         "name": "Flor de Maio",
         "url": "https://open.spotify.com/album/18jhTVeRNyNOTkM1YeOYZt"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 154105,
       "name": "O Despertar",
       "url": "https://open.spotify.com/track/33wlhom1u9DpjP28vbjj1u"
+    },
+    {
+      "added_at": "2025-06-13 03:00:19",
+      "album": {
+        "name": "Onda",
+        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 245714,
+      "name": "Meu I\u00f4 I\u00f4",
+      "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
     },
     {
       "added_at": "2025-06-13 03:00:19",
@@ -527,26 +527,6 @@
     {
       "added_at": "2025-06-13 03:00:19",
       "album": {
-        "name": "Pode Sair / Pode Ficar",
-        "url": "https://open.spotify.com/album/3DGdy9CvatHGlNjFSlsFiS"
-      },
-      "artists": [
-        {
-          "name": "Math Basso",
-          "url": "https://open.spotify.com/artist/39vofNTfJCZegFfSljqxhZ"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 173042,
-      "name": "Pode Sair / Pode Ficar",
-      "url": "https://open.spotify.com/track/7aDbe2Ga5ptrXhJ5oRReaR"
-    },
-    {
-      "added_at": "2025-06-13 03:00:19",
-      "album": {
         "name": "Beira Mar",
         "url": "https://open.spotify.com/album/1cp33YxpxZBcnc8RpoHLYX"
       },
@@ -563,26 +543,22 @@
     {
       "added_at": "2025-06-13 03:00:19",
       "album": {
-        "name": "Teu Sorriso",
-        "url": "https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE"
+        "name": "Pode Sair / Pode Ficar",
+        "url": "https://open.spotify.com/album/3DGdy9CvatHGlNjFSlsFiS"
       },
       "artists": [
         {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+          "name": "Math Basso",
+          "url": "https://open.spotify.com/artist/39vofNTfJCZegFfSljqxhZ"
         },
         {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
         }
       ],
-      "duration_ms": 183265,
-      "name": "Teu Sorriso",
-      "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
+      "duration_ms": 173042,
+      "name": "Pode Sair / Pode Ficar",
+      "url": "https://open.spotify.com/track/7aDbe2Ga5ptrXhJ5oRReaR"
     },
     {
       "added_at": "2025-06-13 03:00:19",
@@ -611,6 +587,30 @@
       "duration_ms": 235862,
       "name": "Te Pe\u00e7o Pra Ficar",
       "url": "https://open.spotify.com/track/74JYs66H7a8iEM1CJdkBwA"
+    },
+    {
+      "added_at": "2025-06-13 03:00:19",
+      "album": {
+        "name": "Teu Sorriso",
+        "url": "https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "Teu Sorriso",
+      "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
     },
     {
       "added_at": "2025-06-13 03:00:19",
@@ -667,6 +667,26 @@
     {
       "added_at": "2025-06-13 03:00:19",
       "album": {
+        "name": "viciado em mim",
+        "url": "https://open.spotify.com/album/4qwKGWfcXm2kZDygtI8YOg"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "viciado em mim",
+      "url": "https://open.spotify.com/track/7wEtrxQRf2BAWCCOuAPHVj"
+    },
+    {
+      "added_at": "2025-06-13 03:00:19",
+      "album": {
         "name": "Arcano 19",
         "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
       },
@@ -699,22 +719,22 @@
     {
       "added_at": "2025-06-13 03:00:19",
       "album": {
-        "name": "Tudo \u00c9 Pra Sempre Agora",
-        "url": "https://open.spotify.com/album/7rKUa1ln9WBcyjY0N7v7m1"
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/3jGBkZE4D2zbTYeWSny4RI"
       },
       "artists": [
         {
-          "name": "Don L",
-          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+          "name": "Mago de Tarso",
+          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
         },
         {
-          "name": "Luiza De Alexandre",
-          "url": "https://open.spotify.com/artist/1LIAMLWV3frQDDLETfApOS"
+          "name": "Luiz Lins",
+          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
         }
       ],
-      "duration_ms": 185328,
-      "name": "Tudo \u00c9 Pra Sempre Agora",
-      "url": "https://open.spotify.com/track/3E1D41LubUTY33kldnIKbB"
+      "duration_ms": 200930,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/7Lum2Q2VG0Paq9adSxNTSi"
     },
     {
       "added_at": "2025-06-13 03:00:19",
@@ -747,6 +767,26 @@
     {
       "added_at": "2025-06-13 03:00:19",
       "album": {
+        "name": "Tudo \u00c9 Pra Sempre Agora",
+        "url": "https://open.spotify.com/album/7rKUa1ln9WBcyjY0N7v7m1"
+      },
+      "artists": [
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Luiza De Alexandre",
+          "url": "https://open.spotify.com/artist/1LIAMLWV3frQDDLETfApOS"
+        }
+      ],
+      "duration_ms": 185328,
+      "name": "Tudo \u00c9 Pra Sempre Agora",
+      "url": "https://open.spotify.com/track/3E1D41LubUTY33kldnIKbB"
+    },
+    {
+      "added_at": "2025-06-13 03:00:19",
+      "album": {
         "name": "Pensando Em N\u00f3s",
         "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
       },
@@ -767,22 +807,6 @@
       "duration_ms": 192786,
       "name": "Pensando Em N\u00f3s",
       "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
-    },
-    {
-      "added_at": "2025-06-13 03:00:19",
-      "album": {
-        "name": "TUDO VAI SER COMO DEVE SER (Deluxe)",
-        "url": "https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "Seu Her\u00f3i",
-      "url": "https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq"
     },
     {
       "added_at": "2025-06-13 03:00:19",
@@ -823,6 +847,22 @@
       "duration_ms": 211764,
       "name": "Sempre Que Me V\u00ea",
       "url": "https://open.spotify.com/track/486dXyOiD0WKfEtSzUEWuj"
+    },
+    {
+      "added_at": "2025-06-13 03:00:19",
+      "album": {
+        "name": "TUDO VAI SER COMO DEVE SER (Deluxe)",
+        "url": "https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "Seu Her\u00f3i",
+      "url": "https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq"
     },
     {
       "added_at": "2025-06-13 03:00:19",
@@ -895,26 +935,6 @@
     {
       "added_at": "2025-06-13 03:00:19",
       "album": {
-        "name": "Ele Me Falou",
-        "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 209268,
-      "name": "Ele Me Falou",
-      "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
-    },
-    {
-      "added_at": "2025-06-13 03:00:19",
-      "album": {
         "name": "Desliga",
         "url": "https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx"
       },
@@ -931,6 +951,26 @@
       "duration_ms": 167478,
       "name": "Desliga",
       "url": "https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR"
+    },
+    {
+      "added_at": "2025-06-13 03:00:19",
+      "album": {
+        "name": "Ele Me Falou",
+        "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 209268,
+      "name": "Ele Me Falou",
+      "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
     },
     {
       "added_at": "2025-06-13 03:00:19",
@@ -975,6 +1015,26 @@
     {
       "added_at": "2025-06-13 03:00:19",
       "album": {
+        "name": "Me Deixe S\u00f3",
+        "url": "https://open.spotify.com/album/0b1UyJHazZPocxMljaURMy"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Coelho",
+          "url": "https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa"
+        }
+      ],
+      "duration_ms": 91826,
+      "name": "Me Deixe S\u00f3",
+      "url": "https://open.spotify.com/track/4gF3E79pvTSE4pLSxgb5ge"
+    },
+    {
+      "added_at": "2025-06-13 03:00:19",
+      "album": {
         "name": "A Laje",
         "url": "https://open.spotify.com/album/2SJX2EcFiTzY466hX1cWMv"
       },
@@ -1003,6 +1063,26 @@
     {
       "added_at": "2025-06-13 03:00:19",
       "album": {
+        "name": "Um Pouco Mais",
+        "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Zoli",
+          "url": "https://open.spotify.com/artist/1zcTmvDGRgjuXCLs2pO2sF"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "Um Pouco Mais",
+      "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
+    },
+    {
+      "added_at": "2025-06-13 03:00:19",
+      "album": {
         "name": "Voc\u00ea Falou pra Mim",
         "url": "https://open.spotify.com/album/3C4GwIc7117OxDuu66G248"
       },
@@ -1027,26 +1107,6 @@
       "duration_ms": 141120,
       "name": "Voc\u00ea Falou pra Mim",
       "url": "https://open.spotify.com/track/1tPgLKnmMJf6rp2m6YYBd1"
-    },
-    {
-      "added_at": "2025-06-13 03:00:19",
-      "album": {
-        "name": "Um Pouco Mais",
-        "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Zoli",
-          "url": "https://open.spotify.com/artist/1zcTmvDGRgjuXCLs2pO2sF"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 182586,
-      "name": "Um Pouco Mais",
-      "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
     },
     {
       "added_at": "2025-06-13 03:00:19",
@@ -1091,26 +1151,6 @@
     {
       "added_at": "2025-06-13 03:00:19",
       "album": {
-        "name": "Cairo",
-        "url": "https://open.spotify.com/album/38JxNquNHXzRAERGj6Ibti"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Bernardo Massot",
-          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
-        }
-      ],
-      "duration_ms": 205672,
-      "name": "Cairo",
-      "url": "https://open.spotify.com/track/6wpqAxnc59HZ4WbdPzLjam"
-    },
-    {
-      "added_at": "2025-06-13 03:00:19",
-      "album": {
         "name": "Meus Olhos",
         "url": "https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw"
       },
@@ -1131,6 +1171,26 @@
       "duration_ms": 188548,
       "name": "Meus Olhos",
       "url": "https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd"
+    },
+    {
+      "added_at": "2025-06-13 03:00:19",
+      "album": {
+        "name": "Cairo",
+        "url": "https://open.spotify.com/album/38JxNquNHXzRAERGj6Ibti"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Bernardo Massot",
+          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
+        }
+      ],
+      "duration_ms": 205672,
+      "name": "Cairo",
+      "url": "https://open.spotify.com/track/6wpqAxnc59HZ4WbdPzLjam"
     },
     {
       "added_at": "2025-06-13 03:00:19",
@@ -1315,30 +1375,6 @@
     {
       "added_at": "2025-06-13 03:00:19",
       "album": {
-        "name": "Inseguran\u00e7a",
-        "url": "https://open.spotify.com/album/56Cys7wpKwA7K4BTj7R3x7"
-      },
-      "artists": [
-        {
-          "name": "GVBE",
-          "url": "https://open.spotify.com/artist/2MHy3p4PeBgsb7WMIftgpM"
-        },
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        },
-        {
-          "name": "Fresh Records",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
-        }
-      ],
-      "duration_ms": 190243,
-      "name": "Inseguran\u00e7a",
-      "url": "https://open.spotify.com/track/48a7MGZKXcq4MQCkXJBB0k"
-    },
-    {
-      "added_at": "2025-06-13 03:00:19",
-      "album": {
         "name": "Toda Mal\u00e9vola",
         "url": "https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD"
       },
@@ -1367,6 +1403,30 @@
     {
       "added_at": "2025-06-13 03:00:19",
       "album": {
+        "name": "Inseguran\u00e7a",
+        "url": "https://open.spotify.com/album/56Cys7wpKwA7K4BTj7R3x7"
+      },
+      "artists": [
+        {
+          "name": "GVBE",
+          "url": "https://open.spotify.com/artist/2MHy3p4PeBgsb7WMIftgpM"
+        },
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "Fresh Records",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        }
+      ],
+      "duration_ms": 190243,
+      "name": "Inseguran\u00e7a",
+      "url": "https://open.spotify.com/track/48a7MGZKXcq4MQCkXJBB0k"
+    },
+    {
+      "added_at": "2025-06-13 03:00:19",
+      "album": {
         "name": "n\u00e3o te amo mais",
         "url": "https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj"
       },
@@ -1387,26 +1447,6 @@
       "duration_ms": 133921,
       "name": "n\u00e3o te amo mais",
       "url": "https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko"
-    },
-    {
-      "added_at": "2025-06-13 03:00:19",
-      "album": {
-        "name": "Sagitariano",
-        "url": "https://open.spotify.com/album/3iD9CHDt1bW7Umxxhy9en9"
-      },
-      "artists": [
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Rob",
-          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
-        }
-      ],
-      "duration_ms": 141125,
-      "name": "Sagitariano",
-      "url": "https://open.spotify.com/track/3XyJIhLqnHdWi3VPRf0yyZ"
     },
     {
       "added_at": "2025-06-13 03:00:19",
@@ -1447,6 +1487,26 @@
       "duration_ms": 364195,
       "name": "Ac\u00fastico Altamira #20 - Mulher Carioca",
       "url": "https://open.spotify.com/track/1dPYH7lKhUZHoaZMMeQHN3"
+    },
+    {
+      "added_at": "2025-06-13 03:00:19",
+      "album": {
+        "name": "Sagitariano",
+        "url": "https://open.spotify.com/album/3iD9CHDt1bW7Umxxhy9en9"
+      },
+      "artists": [
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
+        }
+      ],
+      "duration_ms": 141125,
+      "name": "Sagitariano",
+      "url": "https://open.spotify.com/track/3XyJIhLqnHdWi3VPRf0yyZ"
     },
     {
       "added_at": "2025-06-13 03:00:19",
@@ -1819,26 +1879,6 @@
     {
       "added_at": "2025-06-13 03:00:19",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/3jGBkZE4D2zbTYeWSny4RI"
-      },
-      "artists": [
-        {
-          "name": "Mago de Tarso",
-          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
-        },
-        {
-          "name": "Luiz Lins",
-          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
-        }
-      ],
-      "duration_ms": 200930,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/7Lum2Q2VG0Paq9adSxNTSi"
-    },
-    {
-      "added_at": "2025-06-13 03:00:19",
-      "album": {
         "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
         "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
       },
@@ -1939,26 +1979,6 @@
     {
       "added_at": "2025-06-13 03:00:19",
       "album": {
-        "name": "Me Deixe S\u00f3",
-        "url": "https://open.spotify.com/album/0b1UyJHazZPocxMljaURMy"
-      },
-      "artists": [
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "Coelho",
-          "url": "https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa"
-        }
-      ],
-      "duration_ms": 91826,
-      "name": "Me Deixe S\u00f3",
-      "url": "https://open.spotify.com/track/4gF3E79pvTSE4pLSxgb5ge"
-    },
-    {
-      "added_at": "2025-06-13 03:00:19",
-      "album": {
         "name": "CULPADO",
         "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
       },
@@ -1995,26 +2015,6 @@
       "duration_ms": 201600,
       "name": "Fora da Lei",
       "url": "https://open.spotify.com/track/2N2iV005DwQZEYfQxFM3Bp"
-    },
-    {
-      "added_at": "2025-06-13 03:00:19",
-      "album": {
-        "name": "viciado em mim",
-        "url": "https://open.spotify.com/album/4qwKGWfcXm2kZDygtI8YOg"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 194760,
-      "name": "viciado em mim",
-      "url": "https://open.spotify.com/track/7wEtrxQRf2BAWCCOuAPHVj"
     }
   ],
   "unique_name": "brisa",

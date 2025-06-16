@@ -4,7 +4,7 @@
 
 > This is Manu Dibango\. The essential tracks, all in one playlist.
 
-152 songs - 11 hr 34 min
+153 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Full Up](https://open.spotify.com/track/1Eqqs8DRzLzlBps9Jm4EGP) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [À La Jamaïque](https://open.spotify.com/album/4KyEPH6oDu0v4Poz1mfpRT) | 4:31 | 2021-12-28 | 2022-10-06 |
 | [Full Up](https://open.spotify.com/track/1jE9db1pT5WrdCw1RLKuW3) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Gone Clear \(The Complete Kingston Sessions\)](https://open.spotify.com/album/2DTqR31j9GAyHoWK2smUAt) | 4:31 | 2023-08-10 | 2023-08-22 |
 | [Funk Makossa \(feat\. Manu Dibango\)](https://open.spotify.com/track/1ZYuJnAIKw6tAM2F4XEwoe) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro](https://open.spotify.com/album/2S5svej55Av0CGFxcy3573) | 3:19 | 2021-12-28 |  |
-| [Goro City](https://open.spotify.com/track/2MduGlWbGQfy1RaYe0L2tZ) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [À La Jamaïque](https://open.spotify.com/album/4KyEPH6oDu0v4Poz1mfpRT) | 8:34 | 2021-12-28 |  |
+| [Goro City](https://open.spotify.com/track/0tY0DSIGsYHHKHFbQ0ZJwS) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Gone Clear \(The Complete Kingston Sessions\)](https://open.spotify.com/album/2DTqR31j9GAyHoWK2smUAt) | 8:34 | 2025-06-16 |  |
+| [Goro City](https://open.spotify.com/track/2MduGlWbGQfy1RaYe0L2tZ) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [À La Jamaïque](https://open.spotify.com/album/4KyEPH6oDu0v4Poz1mfpRT) | 8:34 | 2021-12-28 | 2025-06-16 |
 | [Groovy Flute](https://open.spotify.com/track/672sXt55h2Ol2MTcbKR5Sw) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 2:33 | 2022-05-13 |  |
 | [Groovy Flute](https://open.spotify.com/track/12c55j76xPJwbw0MWkDwut) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Woodoo](https://open.spotify.com/album/3KoCNy8UEBuCcrz5GLFHiv) | 2:37 | 2021-12-28 | 2022-05-14 |
 | [Happy Feeling](https://open.spotify.com/track/74mdlIZEVBZn8AXbpOOcIe) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [À La Jamaïque](https://open.spotify.com/album/4KyEPH6oDu0v4Poz1mfpRT) | 6:25 | 2021-12-28 | 2022-04-01 |

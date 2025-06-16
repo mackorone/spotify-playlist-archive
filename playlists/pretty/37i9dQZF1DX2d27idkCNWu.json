@@ -195,22 +195,6 @@
     {
       "added_at": "2025-03-28 04:59:26",
       "album": {
-        "name": "Sheezus",
-        "url": "https://open.spotify.com/album/4NX5W3fZmCOzXoLTKO1tIb"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 208504,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/56N9s9PS6VwGolUnx1CJkv"
-    },
-    {
-      "added_at": "2025-03-28 04:59:26",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 219960,
       "name": "I'm Like A Bird - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p"
+    },
+    {
+      "added_at": "2025-03-28 04:59:26",
+      "album": {
+        "name": "Sheezus",
+        "url": "https://open.spotify.com/album/4NX5W3fZmCOzXoLTKO1tIb"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 208504,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/56N9s9PS6VwGolUnx1CJkv"
     },
     {
       "added_at": "2025-03-28 04:59:26",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-03-28 04:59:26",
       "album": {
-        "name": "Meant to Be (Acoustic)",
-        "url": "https://open.spotify.com/album/0nqqPaOPgl5wWEacRw1pKI"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 158279,
-      "name": "Meant to Be - Acoustic",
-      "url": "https://open.spotify.com/track/7bu8i7HwACY0m1H5lXFSpw"
-    },
-    {
-      "added_at": "2025-03-28 04:59:26",
-      "album": {
         "name": "Believe Acoustic",
         "url": "https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 187680,
       "name": "Boyfriend - Acoustic Version",
       "url": "https://open.spotify.com/track/3ZsOYk34IQMrH4B1PBdofL"
+    },
+    {
+      "added_at": "2025-03-28 04:59:26",
+      "album": {
+        "name": "Meant to Be (Acoustic)",
+        "url": "https://open.spotify.com/album/0nqqPaOPgl5wWEacRw1pKI"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 158279,
+      "name": "Meant to Be - Acoustic",
+      "url": "https://open.spotify.com/track/7bu8i7HwACY0m1H5lXFSpw"
     },
     {
       "added_at": "2025-03-28 04:59:26",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-03-28 04:59:26",
       "album": {
-        "name": "Let Yourself In",
-        "url": "https://open.spotify.com/album/4rYwGKBGTapGLz4oUyr2fy"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Nothing But a Song - Bonus Acoustic Version",
-      "url": "https://open.spotify.com/track/4WY3fLbBiHw6MdHBB7K31V"
-    },
-    {
-      "added_at": "2025-03-28 04:59:26",
-      "album": {
         "name": "Crazy in Love",
         "url": "https://open.spotify.com/album/70qfNX4OLt1X1C8t40YxRd"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 218528,
       "name": "Crazy in Love",
       "url": "https://open.spotify.com/track/6kvKiy3SJXTEF44w1hXRud"
+    },
+    {
+      "added_at": "2025-03-28 04:59:26",
+      "album": {
+        "name": "Let Yourself In",
+        "url": "https://open.spotify.com/album/4rYwGKBGTapGLz4oUyr2fy"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Nothing But a Song - Bonus Acoustic Version",
+      "url": "https://open.spotify.com/track/4WY3fLbBiHw6MdHBB7K31V"
     },
     {
       "added_at": "2025-03-28 04:59:26",
@@ -967,18 +967,18 @@
     {
       "added_at": "2025-03-28 04:59:26",
       "album": {
-        "name": "Numa Ilha Ao Vivo",
-        "url": "https://open.spotify.com/album/2bC3idqVrTZsUvg9JsrmL0"
+        "name": "Com Calor, Lary (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0tbYusuVtJNEwSbqo4uYFv"
       },
       "artists": [
         {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+          "name": "Lary",
+          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
         }
       ],
-      "duration_ms": 278835,
-      "name": "Numa Ilha Ao Vivo",
-      "url": "https://open.spotify.com/track/0vmQzhON4VUUryyZ6eMiqa"
+      "duration_ms": 151542,
+      "name": "Um Milh\u00e3o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/70eWwEoMdikM1U7jjItXJQ"
     },
     {
       "added_at": "2025-03-28 04:59:26",
@@ -1015,34 +1015,18 @@
     {
       "added_at": "2025-03-28 04:59:26",
       "album": {
-        "name": "Com Calor, Lary (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0tbYusuVtJNEwSbqo4uYFv"
+        "name": "Numa Ilha Ao Vivo",
+        "url": "https://open.spotify.com/album/2bC3idqVrTZsUvg9JsrmL0"
       },
       "artists": [
         {
-          "name": "Lary",
-          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 151542,
-      "name": "Um Milh\u00e3o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/70eWwEoMdikM1U7jjItXJQ"
-    },
-    {
-      "added_at": "2025-03-28 04:59:26",
-      "album": {
-        "name": "Mistakes",
-        "url": "https://open.spotify.com/album/2gdsRtb1ckC5S0sC2VxwTJ"
-      },
-      "artists": [
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        }
-      ],
-      "duration_ms": 149451,
-      "name": "Mistakes",
-      "url": "https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa"
+      "duration_ms": 278835,
+      "name": "Numa Ilha Ao Vivo",
+      "url": "https://open.spotify.com/track/0vmQzhON4VUUryyZ6eMiqa"
     },
     {
       "added_at": "2025-03-28 04:59:26",
@@ -1063,6 +1047,22 @@
       "duration_ms": 230772,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
       "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
+    },
+    {
+      "added_at": "2025-03-28 04:59:26",
+      "album": {
+        "name": "Mistakes",
+        "url": "https://open.spotify.com/album/2gdsRtb1ckC5S0sC2VxwTJ"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 149451,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa"
     },
     {
       "added_at": "2025-03-28 04:59:26",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-03-28 04:59:26",
       "album": {
+        "name": "Our Roots Run Deep (Live)",
+        "url": "https://open.spotify.com/album/6XbVPI4jI8vUQ0W89cM5WR"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 535611,
+      "name": "All I Want - Live in Dublin / 2022",
+      "url": "https://open.spotify.com/track/1uon8dTdFD7RrG8B1yGttV"
+    },
+    {
+      "added_at": "2025-03-28 04:59:26",
+      "album": {
         "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
         "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 295223,
       "name": "Ovelha Negra - Ac\u00fastico MTV",
       "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
-    },
-    {
-      "added_at": "2025-03-28 04:59:26",
-      "album": {
-        "name": "Our Roots Run Deep (Live)",
-        "url": "https://open.spotify.com/album/6XbVPI4jI8vUQ0W89cM5WR"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 535611,
-      "name": "All I Want - Live in Dublin / 2022",
-      "url": "https://open.spotify.com/track/1uon8dTdFD7RrG8B1yGttV"
     },
     {
       "added_at": "2025-03-28 04:59:26",
@@ -1475,42 +1475,6 @@
     {
       "added_at": "2025-03-28 04:59:26",
       "album": {
-        "name": "Eu Gosto Assim",
-        "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
-      },
-      "artists": [
-        {
-          "name": "Karol Rib\u00ea",
-          "url": "https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt"
-        }
-      ],
-      "duration_ms": 206505,
-      "name": "Eu Gosto Assim",
-      "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
-    },
-    {
-      "added_at": "2025-03-28 04:59:26",
-      "album": {
-        "name": "FRIENDS (Acoustic)",
-        "url": "https://open.spotify.com/album/233AbsgzaS416igerB12cS"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 209434,
-      "name": "FRIENDS - Acoustic",
-      "url": "https://open.spotify.com/track/7cWAu4fGyUN2XAET9fuvxR"
-    },
-    {
-      "added_at": "2025-03-28 04:59:26",
-      "album": {
         "name": "At\u00e9 Envelhecer",
         "url": "https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O"
       },
@@ -1523,6 +1487,22 @@
       "duration_ms": 177500,
       "name": "At\u00e9 Envelhecer",
       "url": "https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z"
+    },
+    {
+      "added_at": "2025-03-28 04:59:26",
+      "album": {
+        "name": "Eu Gosto Assim",
+        "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
+      },
+      "artists": [
+        {
+          "name": "Karol Rib\u00ea",
+          "url": "https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt"
+        }
+      ],
+      "duration_ms": 206505,
+      "name": "Eu Gosto Assim",
+      "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
     },
     {
       "added_at": "2025-03-28 04:59:26",
@@ -1559,6 +1539,26 @@
       "duration_ms": 229785,
       "name": "Nada Sei - Apneia, Ao Vivo",
       "url": "https://open.spotify.com/track/3x8QrTuZCTbEJI0NrWEye2"
+    },
+    {
+      "added_at": "2025-03-28 04:59:26",
+      "album": {
+        "name": "FRIENDS (Acoustic)",
+        "url": "https://open.spotify.com/album/233AbsgzaS416igerB12cS"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 209434,
+      "name": "FRIENDS - Acoustic",
+      "url": "https://open.spotify.com/track/7cWAu4fGyUN2XAET9fuvxR"
     }
   ],
   "unique_name": "Pop Ac\u00fastico",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vl8XKmpwdM.md) - [plain]
 
 > Dance Machi Dance<br/>Cover : Retro
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,026 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,226 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

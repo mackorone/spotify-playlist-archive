@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 626390,
+  "num_followers": 626444,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAADXy2mStki39nDSTGttoYL7",
+  "snapshot_id": "aEy7gAAAAABQ9E4Iavykz1OLzgkwf2co",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Your Baby Tonight",
-        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
+        "name": "I Wish You Love: More From The Bodyguard",
+        "url": "https://open.spotify.com/album/3qEUTNGTeDXwYwSl3v2hNV"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 251426,
-      "name": "All The Man That I Need",
-      "url": "https://open.spotify.com/track/07M76e7IXxYdnC1BBiJxEX"
+      "duration_ms": 274693,
+      "name": "I Will Always Love You - Film Version",
+      "url": "https://open.spotify.com/track/6XQz4HwNIQZ652JFa7putY"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Wish You Love: More From The Bodyguard",
-        "url": "https://open.spotify.com/album/3qEUTNGTeDXwYwSl3v2hNV"
+        "name": "I'm Your Baby Tonight",
+        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 274693,
-      "name": "I Will Always Love You - Film Version",
-      "url": "https://open.spotify.com/track/6XQz4HwNIQZ652JFa7putY"
+      "duration_ms": 251426,
+      "name": "All The Man That I Need",
+      "url": "https://open.spotify.com/track/07M76e7IXxYdnC1BBiJxEX"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
       "duration_ms": 204333,
       "name": "Exhale (Shoop Shoop) - from \"Waiting to Exhale\" - Original Soundtrack",
       "url": "https://open.spotify.com/track/1X3ypzPnyerpZuMqrDFK29"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm Your Baby Tonight",
-        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 299426,
-      "name": "I'm Your Baby Tonight",
-      "url": "https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE"
     },
     {
       "added_at": null,
@@ -423,6 +407,22 @@
       "duration_ms": 280426,
       "name": "Try It On My Own",
       "url": "https://open.spotify.com/track/2IpeftovkFwpkWBYuS0qCz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Your Baby Tonight",
+        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 299426,
+      "name": "I'm Your Baby Tonight",
+      "url": "https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE"
     },
     {
       "added_at": null,
@@ -678,11 +678,15 @@
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Deborah Cox",
+          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
         }
       ],
-      "duration_ms": 281066,
-      "name": "Why Does It Hurt So Bad - from \"Waiting to Exhale\" - Original Soundtrack",
-      "url": "https://open.spotify.com/track/5DgNGI95SbwM64C4apE6Or"
+      "duration_ms": 298106,
+      "name": "Same Script, Different Cast",
+      "url": "https://open.spotify.com/track/2tzf1KhNuANrujMqN10fvF"
     },
     {
       "added_at": null,
@@ -746,15 +750,11 @@
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Deborah Cox",
-          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
         }
       ],
-      "duration_ms": 298106,
-      "name": "Same Script, Different Cast",
-      "url": "https://open.spotify.com/track/2tzf1KhNuANrujMqN10fvF"
+      "duration_ms": 281066,
+      "name": "Why Does It Hurt So Bad - from \"Waiting to Exhale\" - Original Soundtrack",
+      "url": "https://open.spotify.com/track/5DgNGI95SbwM64C4apE6Or"
     },
     {
       "added_at": null,

@@ -1121,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "Gone Clear (The Complete Kingston Sessions)",
+        "url": "https://open.spotify.com/album/2DTqR31j9GAyHoWK2smUAt"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 514000,
+      "name": "Goro City",
+      "url": "https://open.spotify.com/track/0tY0DSIGsYHHKHFbQ0ZJwS"
+    },
+    {
+      "album": {
         "name": "\u00c0 La Jama\u00efque",
         "url": "https://open.spotify.com/album/4KyEPH6oDu0v4Poz1mfpRT"
       },
@@ -1132,7 +1150,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 514000,
       "name": "Goro City",
       "url": "https://open.spotify.com/track/2MduGlWbGQfy1RaYe0L2tZ"

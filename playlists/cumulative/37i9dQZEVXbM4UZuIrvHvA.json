@@ -3210,7 +3210,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 175665,
       "name": "Background",
       "url": "https://open.spotify.com/track/1qmcc6IRvBdhmqhLhSaJoo"
@@ -3774,7 +3774,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-15",
+      "date_removed": null,
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -11058,7 +11058,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-15",
+      "date_removed": null,
       "duration_ms": 207000,
       "name": "Finding Her",
       "url": "https://open.spotify.com/track/5ThyDv6aRVU8AH4vXQNldF"
@@ -15352,7 +15352,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 223004,
       "name": "I was Always More",
       "url": "https://open.spotify.com/track/2zHrr20qhx3NoOYyZqlkQf"
@@ -17332,7 +17332,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 354666,
       "name": "Kanmanipoove",
       "url": "https://open.spotify.com/track/3iiiuE1iI2viPi0Z55eiPM"
@@ -19242,7 +19242,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 155638,
       "name": "Loser (feat. YENA)",
       "url": "https://open.spotify.com/track/4WrkJNGb4zUwARc0FD3iNf"
@@ -21137,6 +21137,24 @@
     },
     {
       "album": {
+        "name": "PROYECTO ONE",
+        "url": "https://open.spotify.com/album/0EONaECmaYgR6xR3UT2tPl"
+      },
+      "artists": [
+        {
+          "name": "IurisEkero",
+          "url": "https://open.spotify.com/artist/4yh3pmJ514U9AfOrcPZyID"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239722,
+      "name": "Midnight Drive",
+      "url": "https://open.spotify.com/track/4WIqSwFtfwa8LpUxjvZmud"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/4moVP48t9bji7djUc5VOvi"
       },
@@ -23026,7 +23044,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 226600,
       "name": "Night Changes",
       "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
@@ -23476,7 +23494,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 176126,
       "name": "Nothing Without Your Love",
       "url": "https://open.spotify.com/track/4H6s1mTZcjHAMU36ZF3Xoz"
@@ -24538,7 +24556,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 132380,
       "name": "OWA OWA",
       "url": "https://open.spotify.com/track/1lfO0bqThTLimzHsvk3LrN"
@@ -27350,7 +27368,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 165809,
       "name": "Rope It",
       "url": "https://open.spotify.com/track/5566hAPt0WmMPr9Xn749L7"
@@ -28658,7 +28676,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -28900,7 +28918,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 239999,
       "name": "Shimmy",
       "url": "https://open.spotify.com/track/3AZGF9eV68DnDbhWDWGBzn"
@@ -32802,7 +32820,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-15",
+      "date_removed": null,
       "duration_ms": 250800,
       "name": "Thattathil (From \"Abhilasham\")",
       "url": "https://open.spotify.com/track/6PxB85rPecatl7jZcFHlYK"
@@ -35210,7 +35228,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 239354,
       "name": "Vaada Veda",
       "url": "https://open.spotify.com/track/6NSRxpUH6va2AHjx68jCcw"
@@ -37556,7 +37574,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 241776,
       "name": "You'll Be in My Heart",
       "url": "https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC"

@@ -1,12 +1,12 @@
 {
   "description": "This is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda. The essential tracks, all in one playlist.",
-  "num_followers": 852986,
+  "num_followers": 853201,
   "original_name": "This Is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAACvu7NZIWhOH7S5CmtJD6BB",
+  "snapshot_id": "aEy7gAAAAABzA0v/4FHwTr6Je8Ie6PqO",
   "tracks": [
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1rchate Y Olv\u00eddame",
-        "url": "https://open.spotify.com/album/1laTU2tuhmcjEaZHCgwOiP"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 243133,
-      "name": "Olv\u00eddame",
-      "url": "https://open.spotify.com/track/0S0O5SDpY3DSAz4cLED6Ay"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Aferrado",
         "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 134613,
       "name": "Eso Si Me Doli\u00f3",
       "url": "https://open.spotify.com/track/3rfDkHCYGAwngKxArHz08k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1rchate Y Olv\u00eddame",
+        "url": "https://open.spotify.com/album/1laTU2tuhmcjEaZHCgwOiP"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 243133,
+      "name": "Olv\u00eddame",
+      "url": "https://open.spotify.com/track/0S0O5SDpY3DSAz4cLED6Ay"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Lo Intentes",
-        "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 150466,
-      "name": "Perd\u00f3n Porque?",
-      "url": "https://open.spotify.com/track/5hPLduAGq6QIKhId97NzcP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Aferrado",
         "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 187173,
       "name": "No S\u00e9",
       "url": "https://open.spotify.com/track/76LNcs9r5RU3b6yB2UW10E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni Lo Intentes",
+        "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 150466,
+      "name": "Perd\u00f3n Porque?",
+      "url": "https://open.spotify.com/track/5hPLduAGq6QIKhId97NzcP"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like this\. cover: sombr
 
-909 songs - 2 day 2 hr 5 min
+910 songs - 2 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,7 +353,7 @@
 | [How Do You Dress for the Rain?](https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [How Do You Dress for the Rain?](https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh) | 2:40 | 2022-03-11 | 2022-04-23 |
 | [How It Ends](https://open.spotify.com/track/3X7afM4V4ZMLNVmwBgqWzp) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [How It Ends](https://open.spotify.com/album/0Vw7DrVmTj4IhV5rae5pKF) | 2:55 | 2024-04-26 | 2024-06-08 |
 | [How Much Longer?](https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [How Much Longer?](https://open.spotify.com/album/0DaO7SKybQhxKPK4HLCZrV) | 4:03 | 2024-01-26 | 2024-04-26 |
-| [How To Be Human](https://open.spotify.com/track/5wF20iV36qPgsBbjnZfzTU) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [How To Be Human](https://open.spotify.com/album/7toTchc8ZCYGYP4V05MziV) | 3:16 | 2024-07-15 |  |
+| [How To Be Human](https://open.spotify.com/track/5wF20iV36qPgsBbjnZfzTU) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [How To Be Human](https://open.spotify.com/album/7toTchc8ZCYGYP4V05MziV) | 3:16 | 2024-07-15 | 2025-06-16 |
 | [how to change a tire](https://open.spotify.com/track/6ZlwbgqfMALnnwi8zVJTyr) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [how to change a tire](https://open.spotify.com/album/09oYcPRYGDwOZcP7XkO6Mr) | 3:00 | 2024-03-15 | 2024-03-30 |
 | [How To Drive](https://open.spotify.com/track/4memBjRe8ZXDJha8grYdRm) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [How To Drive](https://open.spotify.com/album/6ztNIufAkZjQ7aadvJdTN0) | 3:39 | 2023-01-28 | 2023-02-24 |
 | [How?](https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [How?](https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY) | 3:02 | 2024-04-12 | 2024-08-17 |
@@ -686,6 +686,7 @@
 | [Save You a Seat](https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Save You a Seat](https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu) | 3:17 | 2024-06-28 | 2024-09-14 |
 | [Saw It Coming](https://open.spotify.com/track/6gecBiCMM6BBttZ4r9BOma) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Saw It Coming](https://open.spotify.com/album/4hO2snTnpeTR9DxIpyGAPY) | 3:09 | 2023-02-24 | 2023-04-01 |
 | [Say Don't Go \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 4:39 | 2023-10-27 | 2024-04-27 |
+| [Second Chances](https://open.spotify.com/track/66bfRDJ4opMOviIi6esyYV) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Under Different Skies](https://open.spotify.com/album/3bGEbZfduDw6irXvNiD2qL) | 3:31 | 2025-06-13 |  |
 | [Second to Last](https://open.spotify.com/track/5QqBKaGI2vLb8d33krUWap) | [Ryan Nealon](https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux) | [Second to Last](https://open.spotify.com/album/0AwxkrLnKxKZHwGb2WZyP2) | 2:50 | 2023-09-01 | 2023-09-23 |
 | [Secondhand Smoke](https://open.spotify.com/track/6qkIHn2trQOSJJrzyD1ew9) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [Secondhand Smoke](https://open.spotify.com/album/4Wu9Clf4wH6ItUqMfJkJA6) | 4:03 | 2023-03-10 | 2024-05-11 |
 | [Seeing Other People](https://open.spotify.com/track/3LpbQsIPCrp4nKqmCbx7xi) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6), [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Seeing Other People](https://open.spotify.com/album/014cyjQZihVY9akGL5uoIx) | 3:30 | 2022-12-09 | 2023-01-28 |

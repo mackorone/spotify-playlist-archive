@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 147939,
+  "num_followers": 147953,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAADRu5xYJLvluMecpjRzW3fb",
+  "snapshot_id": "aEy7gAAAAAB8VUnryAGf9zCyl4gDxDJg",
   "tracks": [
     {
       "added_at": null,
@@ -151,8 +151,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost Highway",
-        "url": "https://open.spotify.com/album/75xRAiBzaIxASbYLy8EJdf"
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
       },
       "artists": [
         {
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 189607,
-      "name": "Lost Highway",
-      "url": "https://open.spotify.com/track/7okG4aydS3Sb8xZvI3BvLH"
+      "duration_ms": 183734,
+      "name": "All Is Found - Kacey Musgraves Version",
+      "url": "https://open.spotify.com/track/5EeQQ8BVJTRkp1AIKJILGY"
     },
     {
       "added_at": null,
@@ -215,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+        "name": "Lost Highway",
+        "url": "https://open.spotify.com/album/75xRAiBzaIxASbYLy8EJdf"
       },
       "artists": [
         {
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 183734,
-      "name": "All Is Found - Kacey Musgraves Version",
-      "url": "https://open.spotify.com/track/5EeQQ8BVJTRkp1AIKJILGY"
+      "duration_ms": 189607,
+      "name": "Lost Highway",
+      "url": "https://open.spotify.com/track/7okG4aydS3Sb8xZvI3BvLH"
     },
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 139653,
+      "name": "angel",
+      "url": "https://open.spotify.com/track/1fr6WZfau4vNzDFfHYSJVT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rogue Waves",
         "url": "https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 246293,
       "name": "waves (feat. Kacey Musgraves) - Remix",
       "url": "https://open.spotify.com/track/0JhyMqi5ihsk5neC8DMbbz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "star-crossed",
-        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 139653,
-      "name": "angel",
-      "url": "https://open.spotify.com/track/1fr6WZfau4vNzDFfHYSJVT"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,327 songs - 19 day 1 hr 21 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,329 songs - 19 day 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7335,5 +7335,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7325 | [お願いマッスル](https://open.spotify.com/track/5no7mcSWpXEiA9TfsOcIEd) | [紗倉ひびき\(CV:ファイルーズあい\)](https://open.spotify.com/artist/6s8j3klwQxJ9wYm6r4YXPU), [街雄鳴造\(CV:石川界人\)](https://open.spotify.com/artist/02R36FyZZ3oAF0wElreEuQ) | [TVアニメ「ダンベル何キロ持てる？」OPテーマ「お願いマッスル」/EDテーマ「マッチョアネーム？」](https://open.spotify.com/album/16Tjzz7Z6aOqQsLXIuyxg5) | 3:40 |
 | 7326 | [달팽이](https://open.spotify.com/track/2CWmaFHco9CDIZX4M8ofrX) | [Panic](https://open.spotify.com/artist/13bWD4s098qRgPVlHcbgCU) | [Panic](https://open.spotify.com/album/7dhpXYef4M1yUEJVV66sHZ) | 4:55 |
 | 7327 | [It's Not up to You](https://open.spotify.com/track/4bZnIdaGBf162pZEkxXSgQ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1) | 5:08 |
+| 7328 | [HALO](https://open.spotify.com/track/35wZiQV2QPEEGjyh6XScaz) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [HALO](https://open.spotify.com/album/05X7klCQo760eyhjGMB87Q) | 3:06 |
+| 7329 | [味噌汁とバター \- Miso Soup and Butter](https://open.spotify.com/track/6QrokLHD7AFvDqFH7pCY7U) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [味噌汁とバター](https://open.spotify.com/album/0v2oNQqJLMRZefjFrJg6YN) | 3:52 |
 
-Snapshot ID: `AAAHSg8pacbwLbelVotTdVJSW5ASrLOY`
+Snapshot ID: `AAAHTP0Evu9kzSNrXI65trF1dod82nLI`

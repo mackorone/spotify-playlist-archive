@@ -4,7 +4,7 @@
 
 > New indie from black artists driving the current\. Cover: John Glacier
 
-531 songs - 1 day 4 hr 4 min
+532 songs - 1 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [9 lives](https://open.spotify.com/track/0v3qc1Q0LFX9jN7xQWasII) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [crumbs in my bed](https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh) | 2:27 | 2023-08-09 | 2023-11-18 |
 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 | 2023-06-07 | 2024-02-06 |
 | [A baby girl named Heaven](https://open.spotify.com/track/4PWiV6RlqzS9dVNdCMBGEk) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [A baby girl named Heaven](https://open.spotify.com/album/0XdkSIfm1SSMNmIJf6jUbW) | 2:21 | 2025-05-14 | 2025-06-07 |
-| [A Girl Like You](https://open.spotify.com/track/7hLkwgguzGRq1rTyA3P9pr) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [A Girl Like You](https://open.spotify.com/album/21bl39xHspuIISAteKFXoq) | 1:56 | 2024-08-16 |  |
+| [A Girl Like You](https://open.spotify.com/track/7hLkwgguzGRq1rTyA3P9pr) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [A Girl Like You](https://open.spotify.com/album/21bl39xHspuIISAteKFXoq) | 1:56 | 2024-08-16 | 2025-06-16 |
 | [A Little Love](https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [A Little Love](https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff) | 3:21 | 2023-08-09 | 2024-08-17 |
 | [Abyss](https://open.spotify.com/track/07BCkoZW66cM9nQhOsKPSr) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Abyss](https://open.spotify.com/album/4WC7YAk1hPsSL4hEeNz18l) | 2:26 | 2022-02-18 | 2023-02-11 |
 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 | 2022-02-18 | 2024-06-10 |
@@ -54,6 +54,7 @@
 | [Beautiful](https://open.spotify.com/track/0SPvoWOI3cUvLSF61bToD0) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Beautiful](https://open.spotify.com/album/6izE6ya12rKksWBZXKh7zU) | 2:46 | 2022-10-03 | 2023-02-11 |
 | [Beautifully Black](https://open.spotify.com/track/0EgaO4boPVHe3Kk1sNUdMB) | [Rahael](https://open.spotify.com/artist/3oldP3klCA3xONdq9IW6YJ) | [Beautifully Black](https://open.spotify.com/album/74Ps9MKdrjQwRHY4rryHCG) | 3:05 | 2022-02-18 | 2022-03-26 |
 | [Before It Hurts](https://open.spotify.com/track/7iP6bz6tvVKzy1rZOvJ4Pz) | [Naimah](https://open.spotify.com/artist/4RNIFrUK6i8KFU2Nga8rVf) | [Before It Hurts](https://open.spotify.com/album/5RXvlBiL2CgJR6eRdiGdvg) | 4:13 | 2022-02-18 | 2022-11-12 |
+| [Believer](https://open.spotify.com/track/6gLOkCljeiC4m4bJj6BT8l) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Tether](https://open.spotify.com/album/3SBuk7ZuXQCJQ6IfrOPfyz) | 6:02 | 2025-06-13 |  |
 | [bella](https://open.spotify.com/track/2i5q9JRYHVkPNegErZ2WvA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [bella / i can't find anyone](https://open.spotify.com/album/3AJEvGdq17HHvF20ITVbD7) | 3:19 | 2023-11-17 | 2024-02-29 |
 | [Benchmark](https://open.spotify.com/track/17Ct6PmsR5laPdylW8cRms) | [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [Benchmark](https://open.spotify.com/album/0nDORNahzyOzSM4jBwNMEz) | 3:07 | 2022-02-25 | 2022-11-12 |
 | [Best One](https://open.spotify.com/track/5ZIpwHR8KLeo6qibMb5nRI) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y) | [MotherFather](https://open.spotify.com/album/6G76PblQXf5i8JB7mC0mv3) | 2:31 | 2023-04-21 | 2023-08-22 |

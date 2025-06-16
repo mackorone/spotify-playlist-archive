@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off\. cover: aaron page
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,351 likes - 169 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,462 likes - 169 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

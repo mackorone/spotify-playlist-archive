@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 
 > This is Nicholas Craven\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 609 likes - 47 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 609 likes - 48 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 | 43 | [Peaches and Herb \- Remix](https://open.spotify.com/track/46DS5VcDCIWh54ljkXz2MI) | [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Peaches and Herb \(Remix\)](https://open.spotify.com/album/2fUhrIKAeSXuwdxH5vMcph) | 3:02 |
 | 44 | [Midsommar](https://open.spotify.com/track/6n4hU8yiTKd9vdusec8auo) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 1:09 |
 | 45 | [Big George Bombs](https://open.spotify.com/track/5Ts0RBQLHGiDhCDsSJNSm6) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 2:00 |
-| 46 | [Spring](https://open.spotify.com/track/7z0mAsQSbW6eB9beoVeCGu) | [Jimmie D](https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Good Music Hypnotizes](https://open.spotify.com/album/6gRt97VXKvCAti89oAI7LZ) | 2:33 |
-| 47 | [Eyes Wide Shut](https://open.spotify.com/track/7AkHHkRNWLc9Ytz60MH8lW) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 3:04 |
+| 46 | [Razors](https://open.spotify.com/track/2p6pbRVWgZscjKcRcKnLg4) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Craven N](https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP) | 2:17 |
+| 47 | [Spring](https://open.spotify.com/track/7z0mAsQSbW6eB9beoVeCGu) | [Jimmie D](https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Good Music Hypnotizes](https://open.spotify.com/album/6gRt97VXKvCAti89oAI7LZ) | 2:33 |
+| 48 | [Eyes Wide Shut](https://open.spotify.com/track/7AkHHkRNWLc9Ytz60MH8lW) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 3:04 |
 
-Snapshot ID: `aEtqAAAAAADyuUu9fOIfa/j1YwJwXjso`
+Snapshot ID: `aEy7gAAAAADIq5J5Y5uqo2jJTc/iPyri`

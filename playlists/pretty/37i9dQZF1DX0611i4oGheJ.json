@@ -1,6 +1,6 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 488695,
+  "num_followers": 488723,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
+        "name": "Southeastern",
+        "url": "https://open.spotify.com/album/1bg476ZQn7hmcXaU05SHV4"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        }
+      ],
+      "duration_ms": 293973,
+      "name": "Cover Me Up",
+      "url": "https://open.spotify.com/track/5qW6ZYct54PhKliCntyxRX"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
         "name": "End Of The World",
         "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 210506,
       "name": "If You Need To, Keep Time on Me",
       "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
-        "name": "Southeastern",
-        "url": "https://open.spotify.com/album/1bg476ZQn7hmcXaU05SHV4"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell",
-          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
-        }
-      ],
-      "duration_ms": 293973,
-      "name": "Cover Me Up",
-      "url": "https://open.spotify.com/track/5qW6ZYct54PhKliCntyxRX"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 191413,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/6f2unaaUhIqTkbHsWMbGcm"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "Party of One (feat. Sam Smith)",
         "url": "https://open.spotify.com/album/4W61XWkIAxG9kVVp6FbZ47"
       },
@@ -639,6 +623,22 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/6f2unaaUhIqTkbHsWMbGcm"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
         "name": "Mick Flannery",
         "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 202677,
       "name": "I'll Be out Here",
       "url": "https://open.spotify.com/track/7tkOm1ZNcIg4lKu0XCQgCq"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
-        "name": "My Arms Were Always Around You",
-        "url": "https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc"
-      },
-      "artists": [
-        {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "My Arms Were Always Around You",
-      "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -687,18 +671,18 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
+        "name": "My Arms Were Always Around You",
+        "url": "https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
         }
       ],
-      "duration_ms": 307534,
-      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
+      "duration_ms": 200800,
+      "name": "My Arms Were Always Around You",
+      "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -719,6 +703,22 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 307534,
+      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
         "name": "martingale",
         "url": "https://open.spotify.com/album/61Hkj6ooUZ0SXaHjrkS4R9"
       },
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "postcard season",
-        "url": "https://open.spotify.com/album/1jrrjvl5djCDh5fBN8ZE0q"
-      },
-      "artists": [
-        {
-          "name": "November Ultra",
-          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
-        }
-      ],
-      "duration_ms": 172300,
-      "name": "sunflower \u201824",
-      "url": "https://open.spotify.com/track/4B5bFK1CWLg3MHo56HNizi"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 244960,
       "name": "Horse to Water",
       "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "postcard season",
+        "url": "https://open.spotify.com/album/1jrrjvl5djCDh5fBN8ZE0q"
+      },
+      "artists": [
+        {
+          "name": "November Ultra",
+          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
+        }
+      ],
+      "duration_ms": 172300,
+      "name": "sunflower \u201824",
+      "url": "https://open.spotify.com/track/4B5bFK1CWLg3MHo56HNizi"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -795,22 +795,6 @@
       "duration_ms": 174373,
       "name": "Stay With Me - Live From Spotify Berlin",
       "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
-        "name": "Sadness As A Gift",
-        "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 259015,
-      "name": "Sadness As A Gift",
-      "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -863,6 +847,22 @@
       "duration_ms": 179306,
       "name": "Cairo, IL",
       "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "Sadness As A Gift",
+        "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 259015,
+      "name": "Sadness As A Gift",
+      "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Mudroom",
-        "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 239895,
-      "name": "Mudroom",
-      "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "Mick Flannery",
         "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 216781,
       "name": "Fool",
       "url": "https://open.spotify.com/track/4NgfxzTUZw3s953GcTvDxC"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "Mudroom",
+        "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 239895,
+      "name": "Mudroom",
+      "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Sleepless in Seattle",
-        "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        }
-      ],
-      "duration_ms": 240813,
-      "name": "Sleepless in Seattle",
-      "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "GPS (w/ Felly)",
         "url": "https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Dead & Born & Grown",
-        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
+        "name": "Sleepless in Seattle",
+        "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
         }
       ],
-      "duration_ms": 246413,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
+      "duration_ms": 240813,
+      "name": "Sleepless in Seattle",
+      "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1235,6 +1219,22 @@
       "duration_ms": 137060,
       "name": "To Learn",
       "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "Dead & Born & Grown",
+        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 246413,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/15tYnqIqZrwaQbLYQozlRY"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 247253,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/1EeGzOrz5d8S2Q5p7OORun"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
         "name": "Twenty-Twenty",
         "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
       },
@@ -1515,18 +1531,18 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/15tYnqIqZrwaQbLYQozlRY"
+        "name": "Silicone Heart",
+        "url": "https://open.spotify.com/album/2NbquPo8J4VCEqkrDyV9KR"
       },
       "artists": [
         {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
         }
       ],
-      "duration_ms": 247253,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/1EeGzOrz5d8S2Q5p7OORun"
+      "duration_ms": 193361,
+      "name": "Silicone Heart",
+      "url": "https://open.spotify.com/track/18YdjxKgfyjcaIKRrfpndh"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1547,22 +1563,6 @@
       "duration_ms": 224893,
       "name": "How (ft. Brandi Carlile)",
       "url": "https://open.spotify.com/track/4da4p7RgqK9AjtVh4sEEHc"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
-        "name": "Silicone Heart",
-        "url": "https://open.spotify.com/album/2NbquPo8J4VCEqkrDyV9KR"
-      },
-      "artists": [
-        {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
-        }
-      ],
-      "duration_ms": 193361,
-      "name": "Silicone Heart",
-      "url": "https://open.spotify.com/track/18YdjxKgfyjcaIKRrfpndh"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
+        "name": "A Running Start",
+        "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 261165,
+      "name": "A Running Start",
+      "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
         "name": "multiverse",
         "url": "https://open.spotify.com/album/4P9CkSDRbEULCwwFNnneBC"
       },
@@ -1715,22 +1731,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "A Running Start",
-        "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 261165,
-      "name": "A Running Start",
-      "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "Sun",
         "url": "https://open.spotify.com/album/6h0naf4GxzkRMEdzOZnStm"
       },
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "This Time Around",
-        "url": "https://open.spotify.com/album/4JBjcczbRn6gAqiieTOX4R"
-      },
-      "artists": [
-        {
-          "name": "Miya Folick",
-          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "This Time Around",
-      "url": "https://open.spotify.com/track/76LZ3g7Kc8o9g2qh8fYPvv"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "TRANSA",
         "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 263933,
       "name": "Feel Better",
       "url": "https://open.spotify.com/track/0StzhtAAdEIAcAMwDWY0kV"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "This Time Around",
+        "url": "https://open.spotify.com/album/4JBjcczbRn6gAqiieTOX4R"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "This Time Around",
+      "url": "https://open.spotify.com/track/76LZ3g7Kc8o9g2qh8fYPvv"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Reliance",
-        "url": "https://open.spotify.com/album/2tTLL49vo53UoDXLcDjPgS"
-      },
-      "artists": [
-        {
-          "name": "Amy Jay",
-          "url": "https://open.spotify.com/artist/7ztk56WZhRA5oIiMaNYuh3"
-        }
-      ],
-      "duration_ms": 219245,
-      "name": "Reliance",
-      "url": "https://open.spotify.com/track/2rNlmDqduDNkj8W9D1O7KM"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/1moTvG9SmxZ59rYEpitQ64"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 231131,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/359hAVmBw0503I81ATOcaJ"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "Reliance",
+        "url": "https://open.spotify.com/album/2tTLL49vo53UoDXLcDjPgS"
+      },
+      "artists": [
+        {
+          "name": "Amy Jay",
+          "url": "https://open.spotify.com/artist/7ztk56WZhRA5oIiMaNYuh3"
+        }
+      ],
+      "duration_ms": 219245,
+      "name": "Reliance",
+      "url": "https://open.spotify.com/track/2rNlmDqduDNkj8W9D1O7KM"
     },
     {
       "added_at": "2025-06-11 19:27:11",

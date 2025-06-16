@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 344690,
+  "num_followers": 344795,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAADnXXR8jmE0kuBovxB3KUUL",
+  "snapshot_id": "aEy7gAAAAAB/47EIalwRpLp7LH1vm3iE",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SUPERCHARGED",
+        "url": "https://open.spotify.com/album/2shcF3CrkjD6MgndMyDCP1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 185856,
+      "name": "SUPERCHARGED",
+      "url": "https://open.spotify.com/track/58c33wvOVysB63tVyU28wB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alucin",
         "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
       },
@@ -291,26 +311,6 @@
       "duration_ms": 161194,
       "name": "Eres Mi Crush",
       "url": "https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SUPERCHARGED",
-        "url": "https://open.spotify.com/album/2shcF3CrkjD6MgndMyDCP1"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
-        }
-      ],
-      "duration_ms": 185856,
-      "name": "SUPERCHARGED",
-      "url": "https://open.spotify.com/track/58c33wvOVysB63tVyU28wB"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EVO LUXURY 2",
+        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 165957,
+      "name": "7x7",
+      "url": "https://open.spotify.com/track/7hSiTZy3OImgzZaj3Y25JA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Stop The Magic",
         "url": "https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EVO LUXURY 2",
-        "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 165957,
-      "name": "7x7",
-      "url": "https://open.spotify.com/track/7hSiTZy3OImgzZaj3Y25JA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Haciendo Magia",
         "url": "https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5"
       },
@@ -799,22 +799,6 @@
       "duration_ms": 167893,
       "name": "As\u00ed Nac\u00ed",
       "url": "https://open.spotify.com/track/30yaDgoJbR3wujuclohMaq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 208491,
-      "name": "Nada Es F\u00e1cil",
-      "url": "https://open.spotify.com/track/4T5qPCagVQnkJ7KyQki44L"
     },
     {
       "added_at": null,
@@ -855,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 208491,
+      "name": "Nada Es F\u00e1cil",
+      "url": "https://open.spotify.com/track/4T5qPCagVQnkJ7KyQki44L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Subiendo De Nivel",
         "url": "https://open.spotify.com/album/0H58hvJ4R2WRJEKPG6lOmw"
       },
@@ -867,26 +867,6 @@
       "duration_ms": 110828,
       "name": "Tu No Eres Lo Que Quer\u00eda",
       "url": "https://open.spotify.com/track/5dzDXov0yNDEPl1GYNpzrh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somos Leyenda",
-        "url": "https://open.spotify.com/album/4YZvricm07RlfqSWbVKz4D"
-      },
-      "artists": [
-        {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 170484,
-      "name": "El Postre",
-      "url": "https://open.spotify.com/track/2ARlaUXbKVrYcryoQLE9CZ"
     },
     {
       "added_at": null,
@@ -927,6 +907,26 @@
       "duration_ms": 206629,
       "name": "Emprendedor",
       "url": "https://open.spotify.com/track/5SEXhPd5qppIW3TXdTMy32"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos Leyenda",
+        "url": "https://open.spotify.com/album/4YZvricm07RlfqSWbVKz4D"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 170484,
+      "name": "El Postre",
+      "url": "https://open.spotify.com/track/2ARlaUXbKVrYcryoQLE9CZ"
     },
     {
       "added_at": null,

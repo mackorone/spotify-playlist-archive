@@ -1,12 +1,12 @@
 {
   "description": "This is Fuerza Regida. The essential tracks, all in one playlist.",
-  "num_followers": 643011,
+  "num_followers": 643458,
   "original_name": "This Is Fuerza Regida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAARrln1nZWfzifa9rVa4ZgV",
+  "snapshot_id": "aEy7gAAAAACTOyLDjsNg4wXN6xzHABIP",
   "tracks": [
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO PASA NADA",
-        "url": "https://open.spotify.com/album/1GYvleTMaxQUICBntl1rau"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "NO PASA NADA",
-      "url": "https://open.spotify.com/track/2Oj3iCVLQgwjwRF9VHo7gt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV",
         "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 140987,
       "name": "Fresas Con Crema",
       "url": "https://open.spotify.com/track/0zoYPA5OMLiGwzRAXaEft7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO PASA NADA",
+        "url": "https://open.spotify.com/album/1GYvleTMaxQUICBntl1rau"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "NO PASA NADA",
+      "url": "https://open.spotify.com/track/2Oj3iCVLQgwjwRF9VHo7gt"
     },
     {
       "added_at": null,
@@ -707,6 +707,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rico o Muerto, Vol. 1",
+        "url": "https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 208216,
+      "name": "Baja Beach (feat. Fuerza Regida)",
+      "url": "https://open.spotify.com/track/14tg6YVfdbWngTlk09UzJt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TQM",
         "url": "https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e"
       },
@@ -719,26 +743,6 @@
       "duration_ms": 158965,
       "name": "TQM",
       "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MALA M\u00cdA",
-        "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 169020,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/0Jps9bc30C1BCr0UUAXUlc"
     },
     {
       "added_at": null,
@@ -763,26 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rico o Muerto, Vol. 1",
-        "url": "https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO"
+        "name": "MALA M\u00cdA",
+        "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
           "name": "Fuerza Regida",
           "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 208216,
-      "name": "Baja Beach (feat. Fuerza Regida)",
-      "url": "https://open.spotify.com/track/14tg6YVfdbWngTlk09UzJt"
+      "duration_ms": 169020,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/0Jps9bc30C1BCr0UUAXUlc"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Blondshell
 
-480 songs - 1 day 5 hr 22 min
+481 songs - 1 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Darlin’](https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Darlin'](https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI) | 2:58 | 2022-05-20 | 2022-07-27 |
 | [Dearly Departed](https://open.spotify.com/track/7ciFh1cZjyZE2gVhjvhsmD) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Dearly Departed](https://open.spotify.com/album/1T2kgbzp4R7p4Gm06jjfFh) | 5:11 | 2021-07-21 | 2022-04-20 |
 | [del mar county fair 2008](https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [del mar county fair 2008](https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9) | 2:54 | 2023-03-17 |  |
-| [Desperado](https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Desperado / Born on a Train](https://open.spotify.com/album/49GxzbR4cjgBH5JAeYF9mz) | 3:40 | 2022-02-25 |  |
+| [Desperado](https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Desperado / Born on a Train](https://open.spotify.com/album/49GxzbR4cjgBH5JAeYF9mz) | 3:40 | 2022-02-25 | 2025-06-16 |
 | [Diet Pepsi \(Live at Sirius XMU\)](https://open.spotify.com/track/06vnM67RcfQcc7oPQRA9tP) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Diet Pepsi \(Live at Sirius XMU\)](https://open.spotify.com/album/5sXraFFxIpNrj01MoAESTO) | 2:45 | 2025-06-13 |  |
 | [Different Now](https://open.spotify.com/track/1J0aTXvZG634UfviOVGMi5) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y), [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [Different Now](https://open.spotify.com/album/7AKbVhsHqz4enFZBTsJe4n) | 4:25 | 2023-08-08 |  |
 | [Do I Wanna Know? \- BBC Live Lounge](https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH) | 4:17 | 2025-01-28 |  |
@@ -232,6 +232,7 @@
 | [Industry Baby](https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Industry Baby](https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq) | 3:51 | 2022-01-28 |  |
 | [Inside Out](https://open.spotify.com/track/5qGF9n1aXKPRGJnbgkXiFn) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Inside Out](https://open.spotify.com/album/2ahECDJ7RaEDeFH8dK19x9) | 2:13 | 2025-01-03 |  |
 | [Into My Arms](https://open.spotify.com/track/3kodZApJaGmtZxw9gEpFki) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Into My Arms](https://open.spotify.com/album/2TcUXol1xti07nGrjoxyUG) | 4:18 | 2021-03-12 | 2022-04-21 |
+| [Into My Arms](https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Covers](https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su) | 4:35 | 2025-06-13 |  |
 | [It's Called: Freefall](https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [It's Called: Freefall](https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs) | 2:38 | 2022-10-28 |  |
 | [It's Okay to Cry](https://open.spotify.com/track/6H0R4ejgQbU15cyc0RYsIs) | [Sophie Blair](https://open.spotify.com/artist/66vUjZhH2eD9vWzWgQsYbT) | [It's Okay to Cry](https://open.spotify.com/album/2gcwXOGiD2el0GMxjIXl3K) | 4:10 | 2022-01-07 | 2022-04-18 |
 | [It's Too Late](https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Again / It's Too Late](https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc) | 3:17 | 2022-10-03 |  |

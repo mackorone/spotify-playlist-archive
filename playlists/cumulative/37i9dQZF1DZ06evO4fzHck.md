@@ -4,7 +4,7 @@
 
 > This is The Cure\. The essential tracks, all in one playlist.
 
-98 songs - 7 hr 43 min
+99 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [A Night Like This](https://open.spotify.com/track/5AQqtXvhgDKl3v4JzkdEsG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door](https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx) | 4:16 | 2022-11-04 |  |
 | [A Strange Day](https://open.spotify.com/track/6Gy6FSCOVFKhB8XcfgaF3D) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Pornography](https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm) | 5:04 | 2022-12-07 | 2022-12-15 |
 | [Accuracy](https://open.spotify.com/track/2hqRpEdHuGlnTpJyfHZEAF) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 2:17 | 2024-05-11 | 2024-07-09 |
-| [All I Ever Am](https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 5:21 | 2024-11-03 |  |
+| [All I Ever Am](https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 5:21 | 2024-11-03 | 2025-06-16 |
+| [All I Ever Am \- Mura Masa Remix](https://open.spotify.com/track/36H5mG7pK0cGhldOuqDIk5) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Mixes Of A Lost World](https://open.spotify.com/album/2OlRb9ISy8xZku7ImTV9n8) | 6:39 | 2025-06-16 |  |
 | [Alone](https://open.spotify.com/track/1FlKUh04wsO7Z2AFmzplCw) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 6:48 | 2024-11-07 | 2025-04-24 |
 | [Alone](https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Alone](https://open.spotify.com/album/5Fe0AaIdua2BPx5cTXMM4M) | 6:48 | 2024-09-29 | 2024-11-07 |
 | [Alone \- Four Tet Remix](https://open.spotify.com/track/33gpxTp8FlcGTyj9ksswGe) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Alone \(Four Tet Remix\)](https://open.spotify.com/album/4NeAALY2Y5w5UnEaVmqjgp) | 6:16 | 2025-04-24 |  |

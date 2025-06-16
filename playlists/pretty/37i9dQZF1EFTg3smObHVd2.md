@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314 likes - 82 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 313 likes - 82 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 46 | [Iron Heart](https://open.spotify.com/track/4T0cHbcxGzEGzUki89NFp9) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [Fearless](https://open.spotify.com/album/4JSxcVM4fUnaluGVtKRBo7) | 3:47 |
 | 47 | [If I Don't Have You \- Radio Edit](https://open.spotify.com/track/4qVnjAOLFDbCNLAewTQsSU) | [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [If I Don't Have You \(Radio Edit\)](https://open.spotify.com/album/2B0d3NShrpfLiXTwhshWSS) | 4:13 |
 | 48 | [Why Do the Bad Things Feel Good](https://open.spotify.com/track/6OHkEMiSDoJ8PWaD5uzA3p) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [Heavenbound](https://open.spotify.com/album/5vNJ0VAIYS5Na10nzHkbaY) | 3:21 |
-| 49 | [Pretty little secret](https://open.spotify.com/track/2m1gC6k79JDXgySEQzyDOi) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Emma Steinbakken](https://open.spotify.com/album/3wOKUF7vMPvTC7YmIxo0zq) | 3:21 |
-| 50 | [Save Some](https://open.spotify.com/track/78zn53pukXBwKHxvDMB59P) | [D'Sound](https://open.spotify.com/artist/2EyVzQKEoNoGCAWJYfoJRg), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [25](https://open.spotify.com/album/359sbIX1FqGQ08ohs2z3on) | 3:17 |
+| 49 | [Save Some](https://open.spotify.com/track/78zn53pukXBwKHxvDMB59P) | [D'Sound](https://open.spotify.com/artist/2EyVzQKEoNoGCAWJYfoJRg), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [25](https://open.spotify.com/album/359sbIX1FqGQ08ohs2z3on) | 3:17 |
+| 50 | [Pretty little secret](https://open.spotify.com/track/2m1gC6k79JDXgySEQzyDOi) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Emma Steinbakken](https://open.spotify.com/album/3wOKUF7vMPvTC7YmIxo0zq) | 3:21 |
 | 51 | [Too Good for a Bad Thing](https://open.spotify.com/track/4OvDV0juxyQnrgoiIPffCx) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love](https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD) | 3:11 |
 | 52 | [Easy](https://open.spotify.com/track/2VNki6YNkni3iYUdEKw2vU) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Easy](https://open.spotify.com/album/6O6ky1wloijv3LEz5bEzno) | 2:27 |
 | 53 | [Say You're Wrong](https://open.spotify.com/track/0WbSs6CUc3UQxy4VjkaKIu) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Like A Woman](https://open.spotify.com/album/7sTP5Nk2rQJpXpPrJFRdyN) | 2:50 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 81 | [Like The First Time](https://open.spotify.com/track/3ILRrgErUM2ffPmT6cJiQW) | [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [Emotional \(Bonus Track Version\)](https://open.spotify.com/album/6OtZ98sd2pn9qaFr5NLUdG) | 3:08 |
 | 82 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 
-Snapshot ID: `Ab0JiAAAAAAB2YZUCwKJ15mTjOw1RRWC`
+Snapshot ID: `Ab0PHgAAAADd74O0TArGaHEkNA12AuMp`

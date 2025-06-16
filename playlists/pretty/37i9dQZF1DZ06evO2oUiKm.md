@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 
 > This is Cynthia Erivo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,758 likes - 45 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,767 likes - 45 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 | 41 | [Jump](https://open.spotify.com/track/2Y8G0g8ob0QfL8mubxi6bA) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [STEP \(Music From and Inspired by the Motion Picture\)](https://open.spotify.com/album/0Mq5k6flqV4doXtSQvNpuG) | 5:59 |
 | 42 | [I Don't Know How to Love Him](https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [She is Risen: Volume One](https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE) | 4:19 |
 | 43 | [Bridge Over Troubled Water](https://open.spotify.com/track/3oYfGUdhyhlHRrb29EVdrA) | [Alison Jiear](https://open.spotify.com/artist/7JpWm6GJgOca4w9WejYES8), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Inspirational](https://open.spotify.com/album/4l3nsPf67pl9mqggEpmVVZ) | 6:00 |
-| 44 | [Si Pudiera Leer Tus Sueños](https://open.spotify.com/track/1ZPFEGzfCOQP8qaEhRVNKm) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Singing You Home \- Children's Songs for Family Reunification](https://open.spotify.com/album/4J65ICYdG58WI6HMlPVbyv) | 2:37 |
-| 45 | [Our Prayer](https://open.spotify.com/track/6BmnVvND7DHAZs5SgzRPF3) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Joaquina Kalukango](https://open.spotify.com/artist/0QcsX0a3SZO3F61Thbx1jb), [Isaiah Johnson](https://open.spotify.com/artist/7MYNM3h4lEjuKcOqiqNVhB), [Kevyn Morrow](https://open.spotify.com/artist/1MjW1SNPKPd5gyt7JpK7z3) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 4:38 |
+| 44 | [Our Prayer](https://open.spotify.com/track/6BmnVvND7DHAZs5SgzRPF3) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Joaquina Kalukango](https://open.spotify.com/artist/0QcsX0a3SZO3F61Thbx1jb), [Isaiah Johnson](https://open.spotify.com/artist/7MYNM3h4lEjuKcOqiqNVhB), [Kevyn Morrow](https://open.spotify.com/artist/1MjW1SNPKPd5gyt7JpK7z3) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 4:38 |
+| 45 | [Si Pudiera Leer Tus Sueños](https://open.spotify.com/track/1ZPFEGzfCOQP8qaEhRVNKm) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Singing You Home \- Children's Songs for Family Reunification](https://open.spotify.com/album/4J65ICYdG58WI6HMlPVbyv) | 2:37 |
 
-Snapshot ID: `aEtqAAAAAAAhP0/Knk38TtKGDIg8zHrq`
+Snapshot ID: `aEy7gAAAAAD6J1a9MBE2u0j8qQ1aKQnw`

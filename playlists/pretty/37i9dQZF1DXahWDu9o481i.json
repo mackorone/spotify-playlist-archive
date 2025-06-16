@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors.",
-  "num_followers": 19682,
+  "num_followers": 19778,
   "original_name": "Editors' Picks: Best Songs of May",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2025-06-04 18:47:12",
       "album": {
+        "name": "Nice To Each Other",
+        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Nice To Each Other",
+      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
+    },
+    {
+      "added_at": "2025-06-04 18:47:12",
+      "album": {
         "name": "Burning Blue",
         "url": "https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 205724,
       "name": "Burning Blue",
       "url": "https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc"
-    },
-    {
-      "added_at": "2025-06-04 18:47:12",
-      "album": {
-        "name": "Me Promet\u00ed",
-        "url": "https://open.spotify.com/album/3uitW0pQMa3sZi80pjMNU4"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 171788,
-      "name": "Me Promet\u00ed",
-      "url": "https://open.spotify.com/track/5uXL0CN1mQxHJSJRHN44Od"
     },
     {
       "added_at": "2025-06-04 18:47:12",
@@ -107,22 +107,6 @@
     {
       "added_at": "2025-06-04 18:47:12",
       "album": {
-        "name": "Nice To Each Other",
-        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Nice To Each Other",
-      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
-    },
-    {
-      "added_at": "2025-06-04 18:47:12",
-      "album": {
         "name": "111XPANTIA (Deluxe)",
         "url": "https://open.spotify.com/album/5h9OPxhByc4FaeqeNM6rCT"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 177994,
       "name": "TU SANCHO",
       "url": "https://open.spotify.com/track/1PPnOTtaxRaY3LWao2HPRU"
+    },
+    {
+      "added_at": "2025-06-04 18:47:12",
+      "album": {
+        "name": "Me Promet\u00ed",
+        "url": "https://open.spotify.com/album/3uitW0pQMa3sZi80pjMNU4"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 171788,
+      "name": "Me Promet\u00ed",
+      "url": "https://open.spotify.com/track/5uXL0CN1mQxHJSJRHN44Od"
     },
     {
       "added_at": "2025-06-04 18:47:12",
@@ -227,22 +227,6 @@
     {
       "added_at": "2025-06-04 18:47:12",
       "album": {
-        "name": "Spend It",
-        "url": "https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Spend It",
-      "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
-    },
-    {
-      "added_at": "2025-06-04 18:47:12",
-      "album": {
         "name": "Something Beautiful",
         "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 318249,
       "name": "Every Girl You've Ever Loved (feat. Naomi Campbell)",
       "url": "https://open.spotify.com/track/22WFoPT9VIJlZ0VcJVkCpm"
+    },
+    {
+      "added_at": "2025-06-04 18:47:12",
+      "album": {
+        "name": "Spend It",
+        "url": "https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Spend It",
+      "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
     },
     {
       "added_at": "2025-06-04 18:47:12",
@@ -303,26 +303,6 @@
     {
       "added_at": "2025-06-04 18:47:12",
       "album": {
-        "name": "Orange Tape",
-        "url": "https://open.spotify.com/album/3mpkdo7GWwzFfqhIBQNhHU"
-      },
-      "artists": [
-        {
-          "name": "Ro$ama",
-          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 107520,
-      "name": "Microwave",
-      "url": "https://open.spotify.com/track/6EZ6hE4t5rUGbmyRQGexAF"
-    },
-    {
-      "added_at": "2025-06-04 18:47:12",
-      "album": {
         "name": "Slow Burner",
         "url": "https://open.spotify.com/album/6j4ffFjnsHqYexblnGJwdB"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 212647,
       "name": "Slow Burner",
       "url": "https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg"
+    },
+    {
+      "added_at": "2025-06-04 18:47:12",
+      "album": {
+        "name": "Orange Tape",
+        "url": "https://open.spotify.com/album/3mpkdo7GWwzFfqhIBQNhHU"
+      },
+      "artists": [
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 107520,
+      "name": "Microwave",
+      "url": "https://open.spotify.com/track/6EZ6hE4t5rUGbmyRQGexAF"
     },
     {
       "added_at": "2025-06-04 18:47:12",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-06-04 18:47:12",
       "album": {
+        "name": "If That Makes Sense",
+        "url": "https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 178304,
+      "name": "Whateverrrr",
+      "url": "https://open.spotify.com/track/7rmqj2wCUD7rmeFLrcEfNC"
+    },
+    {
+      "added_at": "2025-06-04 18:47:12",
+      "album": {
         "name": "SISTA WIVES (from the Short Film \"Red Clay\")",
         "url": "https://open.spotify.com/album/4tvzXj50dYLuUgyahr39ng"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 149960,
       "name": "SISTA WIVES - from the Short Film \"Red Clay\"",
       "url": "https://open.spotify.com/track/56R7kwzrKx7BhlwiLhoCph"
-    },
-    {
-      "added_at": "2025-06-04 18:47:12",
-      "album": {
-        "name": "If That Makes Sense",
-        "url": "https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 178304,
-      "name": "Whateverrrr",
-      "url": "https://open.spotify.com/track/7rmqj2wCUD7rmeFLrcEfNC"
     },
     {
       "added_at": "2025-06-04 18:47:12",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-06-04 18:47:12",
       "album": {
-        "name": "Paradise Now",
-        "url": "https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 149624,
-      "name": "Holy Mountain",
-      "url": "https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG"
-    },
-    {
-      "added_at": "2025-06-04 18:47:12",
-      "album": {
         "name": "The Only Love We Know",
         "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 237210,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
+    },
+    {
+      "added_at": "2025-06-04 18:47:12",
+      "album": {
+        "name": "Paradise Now",
+        "url": "https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 149624,
+      "name": "Holy Mountain",
+      "url": "https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG"
     },
     {
       "added_at": "2025-06-04 18:47:12",

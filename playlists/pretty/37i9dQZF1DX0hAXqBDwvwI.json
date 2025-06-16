@@ -1,6 +1,6 @@
 {
   "description": "A mega Anime hits mix! Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 706441,
+  "num_followers": 706535,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,22 @@
     {
       "added_at": "2025-06-12 15:10:10",
       "album": {
+        "name": "Devil",
+        "url": "https://open.spotify.com/album/7DDrVqzCsXJAdR2fQh9GZD"
+      },
+      "artists": [
+        {
+          "name": "VK Blanka",
+          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
+        }
+      ],
+      "duration_ms": 196946,
+      "name": "Black Catcher",
+      "url": "https://open.spotify.com/track/2y7f8qkrgIqY5KsfPNcuix"
+    },
+    {
+      "added_at": "2025-06-12 15:10:10",
+      "album": {
         "name": "Anytime Anywhere",
         "url": "https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X"
       },
@@ -827,26 +843,6 @@
       "duration_ms": 230449,
       "name": "Anytime Anywhere",
       "url": "https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2"
-    },
-    {
-      "added_at": "2025-06-12 15:10:10",
-      "album": {
-        "name": "LEveL",
-        "url": "https://open.spotify.com/album/5ZEZ8rAsHVUoPqA5a5ZZcL"
-      },
-      "artists": [
-        {
-          "name": "SawanoHiroyuki[nZk]",
-          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
-        },
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 180330,
-      "name": "LEveL",
-      "url": "https://open.spotify.com/track/0Zp9WOkXX8xZS8QOhtdQ5k"
     },
     {
       "added_at": "2025-06-12 15:10:10",
@@ -903,18 +899,22 @@
     {
       "added_at": "2025-06-12 15:10:10",
       "album": {
-        "name": "Devil",
-        "url": "https://open.spotify.com/album/7DDrVqzCsXJAdR2fQh9GZD"
+        "name": "LEveL",
+        "url": "https://open.spotify.com/album/5ZEZ8rAsHVUoPqA5a5ZZcL"
       },
       "artists": [
         {
-          "name": "VK Blanka",
-          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 196946,
-      "name": "Black Catcher",
-      "url": "https://open.spotify.com/track/2y7f8qkrgIqY5KsfPNcuix"
+      "duration_ms": 180330,
+      "name": "LEveL",
+      "url": "https://open.spotify.com/track/0Zp9WOkXX8xZS8QOhtdQ5k"
     },
     {
       "added_at": "2025-06-12 15:10:10",
@@ -995,38 +995,6 @@
     {
       "added_at": "2025-06-12 15:10:10",
       "album": {
-        "name": "\u7136\u3089\u3070",
-        "url": "https://open.spotify.com/album/3QytKHy36FzI4Cb3PJMO08"
-      },
-      "artists": [
-        {
-          "name": "Macaroni Empitsu",
-          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
-        }
-      ],
-      "duration_ms": 237904,
-      "name": "\u7136\u3089\u3070",
-      "url": "https://open.spotify.com/track/7MLRXVVgkCGHJFa81dRnW7"
-    },
-    {
-      "added_at": "2025-06-12 15:10:10",
-      "album": {
-        "name": "\u5e78\u305b\u306e\u30ec\u30b7\u30d4",
-        "url": "https://open.spotify.com/album/6CPkOcAuD3omh45m8SQHbL"
-      },
-      "artists": [
-        {
-          "name": "HIRAIDAI",
-          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
-        }
-      ],
-      "duration_ms": 192640,
-      "name": "\u5e78\u305b\u306e\u30ec\u30b7\u30d4",
-      "url": "https://open.spotify.com/track/32FikT5AiqTb7aM6szI0sa"
-    },
-    {
-      "added_at": "2025-06-12 15:10:10",
-      "album": {
         "name": "\u71c8",
         "url": "https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz"
       },
@@ -1055,6 +1023,38 @@
       "duration_ms": 201973,
       "name": "\u88f8\u306e\u52c7\u8005",
       "url": "https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o"
+    },
+    {
+      "added_at": "2025-06-12 15:10:10",
+      "album": {
+        "name": "\u5e78\u305b\u306e\u30ec\u30b7\u30d4",
+        "url": "https://open.spotify.com/album/6CPkOcAuD3omh45m8SQHbL"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "duration_ms": 192640,
+      "name": "\u5e78\u305b\u306e\u30ec\u30b7\u30d4",
+      "url": "https://open.spotify.com/track/32FikT5AiqTb7aM6szI0sa"
+    },
+    {
+      "added_at": "2025-06-12 15:10:10",
+      "album": {
+        "name": "\u7136\u3089\u3070",
+        "url": "https://open.spotify.com/album/3QytKHy36FzI4Cb3PJMO08"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+        }
+      ],
+      "duration_ms": 237904,
+      "name": "\u7136\u3089\u3070",
+      "url": "https://open.spotify.com/track/7MLRXVVgkCGHJFa81dRnW7"
     },
     {
       "added_at": "2025-06-12 15:10:10",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-06-12 15:10:10",
       "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/0LLsacEXZ39HCzTcXzg81C"
-      },
-      "artists": [
-        {
-          "name": "Awich",
-          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
-        }
-      ],
-      "duration_ms": 156111,
-      "name": "Frontiers",
-      "url": "https://open.spotify.com/track/5wDeR4q2dm5UAOFSWDEiaR"
-    },
-    {
-      "added_at": "2025-06-12 15:10:10",
-      "album": {
         "name": "\u65b0\u6642\u4ee3 (\u30a6\u30bf from ONE PIECE FILM RED)",
         "url": "https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb"
       },
@@ -1139,6 +1123,38 @@
       "duration_ms": 230524,
       "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
       "url": "https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH"
+    },
+    {
+      "added_at": "2025-06-12 15:10:10",
+      "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/0LLsacEXZ39HCzTcXzg81C"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "duration_ms": 156111,
+      "name": "Frontiers",
+      "url": "https://open.spotify.com/track/5wDeR4q2dm5UAOFSWDEiaR"
+    },
+    {
+      "added_at": "2025-06-12 15:10:10",
+      "album": {
+        "name": "\u708e",
+        "url": "https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "\u708e",
+      "url": "https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn"
     },
     {
       "added_at": "2025-06-12 15:10:10",
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2025-06-12 15:10:10",
       "album": {
-        "name": "\u708e",
-        "url": "https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY"
-      },
-      "artists": [
-        {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "\u708e",
-      "url": "https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn"
-    },
-    {
-      "added_at": "2025-06-12 15:10:10",
-      "album": {
         "name": "\u30e1\u30d5\u30a3\u30b9\u30c8",
         "url": "https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0"
       },
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-06-12 15:10:10",
       "album": {
-        "name": "Burning",
-        "url": "https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 231250,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM"
-    },
-    {
-      "added_at": "2025-06-12 15:10:10",
-      "album": {
         "name": "SOUVENIR",
         "url": "https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2025-06-12 15:10:10",
       "album": {
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 231250,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM"
+    },
+    {
+      "added_at": "2025-06-12 15:10:10",
+      "album": {
         "name": "porte",
         "url": "https://open.spotify.com/album/2vV8klrByPkSnocfIlaOMI"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 209636,
       "name": "veil",
       "url": "https://open.spotify.com/track/1dGF5ymTyBB2ZmOypkeU1F"
-    },
-    {
-      "added_at": "2025-06-12 15:10:10",
-      "album": {
-        "name": "UN-APEX",
-        "url": "https://open.spotify.com/album/09xKEYd8CymEeCNANki8Sl"
-      },
-      "artists": [
-        {
-          "name": "TK from Ling tosite sigure",
-          "url": "https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS"
-        }
-      ],
-      "duration_ms": 260099,
-      "name": "UN-APEX",
-      "url": "https://open.spotify.com/track/0jmMSb8fGqcn7gKQ7vfdNj"
     },
     {
       "added_at": "2025-06-12 15:10:10",
@@ -1315,6 +1299,22 @@
       "duration_ms": 200997,
       "name": "CHAINSAW BLOOD",
       "url": "https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU"
+    },
+    {
+      "added_at": "2025-06-12 15:10:10",
+      "album": {
+        "name": "UN-APEX",
+        "url": "https://open.spotify.com/album/09xKEYd8CymEeCNANki8Sl"
+      },
+      "artists": [
+        {
+          "name": "TK from Ling tosite sigure",
+          "url": "https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS"
+        }
+      ],
+      "duration_ms": 260099,
+      "name": "UN-APEX",
+      "url": "https://open.spotify.com/track/0jmMSb8fGqcn7gKQ7vfdNj"
     },
     {
       "added_at": "2025-06-12 15:10:10",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-06-12 15:10:10",
       "album": {
-        "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30fb\u30ea\u30d5\u30ec\u30af\u30b7\u30e7\u30f3",
-        "url": "https://open.spotify.com/album/2ikaiGXxmfc3ENG4BjxMcq"
-      },
-      "artists": [
-        {
-          "name": "NOMELON NOLEMON",
-          "url": "https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30fb\u30ea\u30d5\u30ec\u30af\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/3sAlrCLgPW8hzoG4QNsMIi"
-    },
-    {
-      "added_at": "2025-06-12 15:10:10",
-      "album": {
         "name": "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc/FLY ME TO THE MOON",
         "url": "https://open.spotify.com/album/27ysS0QNhMKuq2UBBxu8d9"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 245826,
       "name": "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc",
       "url": "https://open.spotify.com/track/3dDZFJSvdT9N2nNAdsE9j2"
+    },
+    {
+      "added_at": "2025-06-12 15:10:10",
+      "album": {
+        "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30fb\u30ea\u30d5\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/2ikaiGXxmfc3ENG4BjxMcq"
+      },
+      "artists": [
+        {
+          "name": "NOMELON NOLEMON",
+          "url": "https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30fb\u30ea\u30d5\u30ec\u30af\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/3sAlrCLgPW8hzoG4QNsMIi"
     },
     {
       "added_at": "2025-06-12 15:10:10",

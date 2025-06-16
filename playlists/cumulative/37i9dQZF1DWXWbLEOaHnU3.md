@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-313 songs - 1 day 3 hr 23 min
+314 songs - 1 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Don't Give Up](https://open.spotify.com/track/2cskW9Z51Lh57KFab9Mjp8) | [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z), [Zahar](https://open.spotify.com/artist/0g26Yvko7W50BTiwl5vbvA) | [Don't Give Up](https://open.spotify.com/album/3mO66DErj3uSmOZZp4r13t) | 5:35 | 2023-09-14 | 2025-05-12 |
 | [Dont Blame Me](https://open.spotify.com/track/0xhptxNOQnCsbbBJKPQmCH) | [Interactive Noise](https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv) | [Dont Blame Me](https://open.spotify.com/album/2hX9BljyOUiFR0whzVaNBS) | 5:10 | 2023-11-25 |  |
 | [Down](https://open.spotify.com/track/73q270xh3XdySWtt9NZxWX) | [Dang3r](https://open.spotify.com/artist/1w3bZrV4XveeRTaCJAtkGr), [Kova](https://open.spotify.com/artist/4fEckNuqOODv3H0ZimhCft), [NewGapy](https://open.spotify.com/artist/0rz8esMME7lhGigsAoKmQ3) | [Down](https://open.spotify.com/album/4BWrUcOTBw2Ydp58kRYTj8) | 4:38 | 2024-09-27 | 2024-10-30 |
+| [Dragon](https://open.spotify.com/track/1J827bhoOFER99MdWqeoyU) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Dragon](https://open.spotify.com/album/5Cv0KXpWQ2fMyal3kbqkqU) | 3:01 | 2025-06-13 |  |
 | [Dreamlike](https://open.spotify.com/track/2IQ55IFyww2HtADa9Ewsdq) | [Interactive Noise](https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv) | [Dreamlike](https://open.spotify.com/album/2vO8jppjM5Ld8NbLPefGBc) | 6:24 | 2022-04-15 | 2022-07-28 |
 | [Dreams \- Original Mix](https://open.spotify.com/track/3vCZ4kTemwiMYk8eUyS4Ya) | [Cosmic Tone](https://open.spotify.com/artist/2kQ7WbtAt7ioIdrQNRP2yx), [Freak Control](https://open.spotify.com/artist/4CQdoJZzttlzydycHO9A9Q) | [Dreams](https://open.spotify.com/album/46UKLk7SoL5qayNYfI1kIk) | 7:39 | 2022-04-28 | 2022-04-30 |
 | [Dreamworld](https://open.spotify.com/track/3lGnnnYxNxDwH2XTWtAyxD) | [Inner State](https://open.spotify.com/artist/3BAc3hPXwWuhHsIvTIA9vY), [Kanobi](https://open.spotify.com/artist/1mIHHeqSkE6B9nM3QDBnxf) | [Dreamworld](https://open.spotify.com/album/3IwHnMj0XbgP8FdTkBoZH9) | 8:14 | 2022-04-22 | 2022-07-28 |
@@ -99,7 +100,7 @@
 | [Far Away](https://open.spotify.com/track/7kBSg3CM7jQnhBD6D88uJk) | [Jilax](https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B), [Crazy Box](https://open.spotify.com/artist/1dRcKuOPCEqKUxF42QSnLP) | [Far Away](https://open.spotify.com/album/4GHpKxv7nMxU4OJ3Yc0Bal) | 4:50 | 2023-10-27 | 2024-03-24 |
 | [Feel Alive](https://open.spotify.com/track/5s5fN7k5z3xyx0Ckz5OzzX) | [Phazed](https://open.spotify.com/artist/14tndkroegMGtPSz50zZAb) | [Feel Alive](https://open.spotify.com/album/4eR53Ww2OBRCJsMSTK7rma) | 5:03 | 2023-11-25 | 2025-01-27 |
 | [Feel Home](https://open.spotify.com/track/1gsatgs4xQi1FsCzaL50Ma) | [Liquexx](https://open.spotify.com/artist/5v5HDK4ZozQQZJ7NVL8phC), [WoZa](https://open.spotify.com/artist/7AI3OS9LJ0ZD8DfTk0uDej) | [Feel Home](https://open.spotify.com/album/28EWTMUSAatw0LPVz2mCdc) | 4:23 | 2022-04-15 | 2022-05-21 |
-| [Feel It](https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5) | [DNA](https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs), [Weaver](https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW) | [Feel It](https://open.spotify.com/album/2VOqFMtSaJVbxhRlegRD7g) | 3:31 | 2022-04-15 |  |
+| [Feel It](https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5) | [DNA](https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs), [Weaver](https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW) | [Feel It](https://open.spotify.com/album/2VOqFMtSaJVbxhRlegRD7g) | 3:31 | 2022-04-15 | 2025-06-16 |
 | [Flame](https://open.spotify.com/track/5y8drYVT8SGRPxEQEEjSts) | [Sighter](https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM), [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z) | [Flame](https://open.spotify.com/album/5BRloFEHPzJozlMlwV6HhB) | 5:49 | 2023-11-10 |  |
 | [Follow](https://open.spotify.com/track/6C6Ixhekm3a9jSjpPM3U97) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Follow](https://open.spotify.com/album/0av69MlAvGnUj1CnFXdEui) | 3:03 | 2025-05-02 |  |
 | [Foresight](https://open.spotify.com/track/3Gu3dF2xLaOI3fVPlJmMxw) | [Jacob](https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN), [Thorment](https://open.spotify.com/artist/1NnRsALz6e8q4avnRof6cd), [Synna](https://open.spotify.com/artist/1vBNxnNqXVC0oY4W7iOKNr) | [Foresight](https://open.spotify.com/album/5h8eQnis3E78Hf5n9hUFPa) | 5:03 | 2022-04-22 | 2022-07-25 |

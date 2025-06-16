@@ -8307,6 +8307,24 @@
     },
     {
       "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/3XZnVxYxeYWGfCM5LKPKLj"
+      },
+      "artists": [
+        {
+          "name": "Calmative",
+          "url": "https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133288,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/5icCD82DOWPNVkSRq2unvX"
+    },
+    {
+      "album": {
         "name": "Noraezean",
         "url": "https://open.spotify.com/album/2cAQpN9wxcwyy63PQ1xQ61"
       },
@@ -10806,7 +10824,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 165000,
       "name": "Skyfold",
       "url": "https://open.spotify.com/track/5482qIt2ZNCpnsxLiiRdob"

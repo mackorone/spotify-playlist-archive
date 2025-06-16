@@ -524,7 +524,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 196463,
       "name": "Gone Again",
       "url": "https://open.spotify.com/track/2awElNTUMbC5jmiNSIoxEM"
@@ -650,7 +650,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-15",
+      "date_removed": null,
       "duration_ms": 309143,
       "name": "My Madrigal",
       "url": "https://open.spotify.com/track/71hxmZWsasa71twZ6Mn93Y"
@@ -902,7 +902,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 248533,
       "name": "Space Monkey",
       "url": "https://open.spotify.com/track/6rH42cutB9ZnEmTwgFY6tq"
@@ -960,6 +960,24 @@
       "duration_ms": 229400,
       "name": "This Is the Girl",
       "url": "https://open.spotify.com/track/3aDLTIgOoi21boHt8KXIKB"
+    },
+    {
+      "album": {
+        "name": "Easter",
+        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167293,
+      "name": "Till Victory",
+      "url": "https://open.spotify.com/track/0ykdasEHKPJbVFYUibtaap"
     },
     {
       "album": {

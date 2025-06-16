@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Zúmbale Primo, & Corazón Serrano.
 
-147 songs - 9 hr 57 min
+148 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Fue Dificil](https://open.spotify.com/track/6ntuD3ofO39wHlPqu27p0M) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Fue Dificil](https://open.spotify.com/album/0yzcxrxkFt98m6kGeWSaVb) | 3:44 | 2023-03-03 | 2023-06-18 |
 | [Furia Loca \(Mujer Cósmica\)](https://open.spotify.com/track/6cg8xpwqNvh7VVPG5dyymT) | [La Gran Magia Tropical](https://open.spotify.com/artist/25n4vLuiRlvNe67pJ8WvdP) | [Furia Loca](https://open.spotify.com/album/2I5YX797d9b7DN67fWhr8S) | 3:10 | 2023-03-03 | 2024-04-19 |
 | [Fué Difícil](https://open.spotify.com/track/0gvzdBfwfcHbqAmAL1ioZy) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Fue Difícil](https://open.spotify.com/album/5fFxoM29guUMA4jbiE4GHr) | 3:44 | 2023-05-29 | 2023-09-09 |
-| [Galantes y Caballeros](https://open.spotify.com/track/41d9HYA4qgfQ51sc5Vvyjg) | [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [Galantes y Caballeros](https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2) | 2:32 | 2023-03-03 |  |
+| [Galantes y Caballeros](https://open.spotify.com/track/41d9HYA4qgfQ51sc5Vvyjg) | [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [Galantes y Caballeros](https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2) | 2:32 | 2023-03-03 | 2025-06-16 |
 | [Golero Emparamao](https://open.spotify.com/track/6gOBJrl6mbrtr5NUFaTbYj) | [Koky y su banda tropical ranchera](https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf) | [Golero Emparamao](https://open.spotify.com/album/35DKFImacmTdYePcu2utI7) | 4:28 | 2023-10-05 |  |
 | [Golpes y Besos](https://open.spotify.com/track/0RnzGw4vP6XEZbEIHOPFNT) | [Los Principes del Norte](https://open.spotify.com/artist/1iob7ma3J3xLV2disvGcjG), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Grandes Éxitos](https://open.spotify.com/album/1qE854buRuUPuvoHNkgb7I) | 3:55 | 2023-03-03 |  |
 | [Guaijirito](https://open.spotify.com/track/3BPFQHWgeb1lO0X6iAODlW) | [Los Lumaquinos Alegres](https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0) | [Cumbias Campesinas](https://open.spotify.com/album/7bbjI9LPbJvgXw6u3foBZt) | 3:57 | 2023-03-03 |  |
@@ -96,6 +96,7 @@
 | [Maldita Sea la Primera Vez](https://open.spotify.com/track/3lMCr3w4Z1wnugLe1TMaQ4) | [Los Villanos de Coltauco](https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk) | [Siempre Villanos](https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E) | 3:40 | 2023-03-03 |  |
 | [María Elena](https://open.spotify.com/track/4ZfLKMRWeAIhPhPlkIDLNv) | [Los Lumaquinos Alegres](https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [La Nueva Cumbia del Pueblo](https://open.spotify.com/album/2kzejhpjHj1v40pl7m72h2) | 3:22 | 2023-03-03 |  |
 | [Matalas](https://open.spotify.com/track/7pSYLS1okWaevRLU2oXCqa) | [Los Tigres de Parral](https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B) | [Yo Lo Canto y Tu Lo Bailas](https://open.spotify.com/album/3UW6tbYhtJYrYVGR0U85W1) | 3:51 | 2023-03-03 |  |
+| [Me Quisiste Jugar A La Mala](https://open.spotify.com/track/46PIRSCePoQ6iJ8cFeZtAi) | [Los Tigres de Parral](https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B) | [Me Quisiste Jugar a La Mala](https://open.spotify.com/album/1EX91QM9Yuy4uI3q0MfR8x) | 4:16 | 2025-06-13 |  |
 | [Me Vas a Extrañar](https://open.spotify.com/track/5yPGRcZj487QaIP6Qfi1DW) | [Banda Salvaje](https://open.spotify.com/artist/6QO04IJTCHf4iedGSa7iqg) | [Descaderando Viejos por Todo Chile](https://open.spotify.com/album/1s7OSAGyz5wM1C0qm2Cb6Q) | 4:47 | 2023-03-03 |  |
 | [Me Voy a Lanzar](https://open.spotify.com/track/6AS0noGYYnY35moMZw1SdH) | [RIVALES DE CHILE](https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g) | [Me Voy a Lanzar](https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt) | 2:57 | 2023-03-03 |  |
 | [Mentirosa](https://open.spotify.com/track/4fLSNdj45MMwAynymYuWJz) | [Los Potros Del Sur](https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY) | [En 3d y a Todo Color](https://open.spotify.com/album/4izoOBAYsECpgty3zi9w80) | 3:43 | 2023-03-03 |  |

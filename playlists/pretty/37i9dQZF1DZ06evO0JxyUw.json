@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 273184,
+  "num_followers": 273194,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAACs6B5XVEiSsQAbofTa8Ycy",
+  "snapshot_id": "aEy7gAAAAABaNYaJqxtXkRJfDxup3oOy",
   "tracks": [
     {
       "added_at": null,
@@ -959,18 +959,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bionic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H"
+        "name": "Particles",
+        "url": "https://open.spotify.com/album/1qY2yMeihnMGKoFggYCrRB"
       },
       "artists": [
+        {
+          "name": "A Great Big World",
+          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+        },
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 219786,
-      "name": "Glam",
-      "url": "https://open.spotify.com/track/4mMMraFsF2WWRZhmrkW02v"
+      "duration_ms": 262820,
+      "name": "Fall On Me",
+      "url": "https://open.spotify.com/track/7oyFihJppZYPP7o0NfoHnZ"
     }
   ],
   "unique_name": "This Is Christina Aguilera",

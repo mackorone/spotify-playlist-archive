@@ -1,6 +1,6 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1077993,
+  "num_followers": 1077595,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
+        "name": "The Giver",
+        "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 202768,
+      "name": "The Giver",
+      "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
         "name": "I Ain't Comin' Back",
         "url": "https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 175271,
       "name": "I Ain't Comin' Back (feat. Post Malone)",
       "url": "https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
-        "name": "The Giver",
-        "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 202768,
-      "name": "The Giver",
-      "url": "https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "Born With a Broken Heart",
-        "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 208956,
-      "name": "Born With a Broken Heart",
-      "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
         "name": "Leave Me Alone",
         "url": "https://open.spotify.com/album/3BKy2tD6GZCsfYkmgWkdbq"
       },
@@ -483,22 +467,6 @@
       "duration_ms": 141738,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/1T38okUZknebljidMNSvfJ"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
-        "name": "Back To Me",
-        "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -519,18 +487,18 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "eternal sunshine deluxe: brighter days ahead",
-        "url": "https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn"
+        "name": "Born With a Broken Heart",
+        "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
         }
       ],
-      "duration_ms": 198320,
-      "name": "twilight zone",
-      "url": "https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu"
+      "duration_ms": 208956,
+      "name": "Born With a Broken Heart",
+      "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -551,18 +519,34 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "FUNNY little FEARS",
-        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
       },
       "artists": [
         {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 188952,
-      "name": "Zombie Lady",
-      "url": "https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV"
+      "duration_ms": 214800,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "twilight zone",
+      "url": "https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -587,6 +571,22 @@
       "duration_ms": 209051,
       "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
       "url": "https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 188952,
+      "name": "Zombie Lady",
+      "url": "https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "boom",
-        "url": "https://open.spotify.com/album/2F9Hj91XXDt5FRvJyyLG6X"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "boom",
-      "url": "https://open.spotify.com/track/6zhyXTuRkMSabSHvmMchpp"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
         "name": "A Minute, A Moment...",
         "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 164000,
       "name": "Gold",
       "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
+        "name": "boom",
+        "url": "https://open.spotify.com/album/2F9Hj91XXDt5FRvJyyLG6X"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "boom",
+      "url": "https://open.spotify.com/track/6zhyXTuRkMSabSHvmMchpp"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
+        "name": "SMOKE THE PAIN AWAY",
+        "url": "https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 162772,
+      "name": "SMOKE THE PAIN AWAY",
+      "url": "https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
         "name": "Can\u2019t Get Enough",
         "url": "https://open.spotify.com/album/3AjPHQqgkjcqwhpRxwiFP2"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 165276,
       "name": "Can\u2019t Get Enough",
       "url": "https://open.spotify.com/track/6zY829UlOMYoOIULHiGIZz"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
-        "name": "SMOKE THE PAIN AWAY",
-        "url": "https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 162772,
-      "name": "SMOKE THE PAIN AWAY",
-      "url": "https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/1PoebRqjvlN71Tjdwg6I37"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 207661,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/4mSDOE2kImbodUtKFLmcqm"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
         "name": "My First Heartbreak",
         "url": "https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm"
       },
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/1PoebRqjvlN71Tjdwg6I37"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 207661,
-      "name": "Truth",
-      "url": "https://open.spotify.com/track/4mSDOE2kImbodUtKFLmcqm"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
         "name": "FUFN (Fuck You For Now)",
         "url": "https://open.spotify.com/album/2q2NWhj9rd5WnKokMmapIq"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 215094,
       "name": "FUFN (Fuck You For Now)",
       "url": "https://open.spotify.com/track/7hWESP9salkKYucipe5W99"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
-        "name": "Heart By Heart",
-        "url": "https://open.spotify.com/album/2QasGAycrDSiVNtUtTslgU"
-      },
-      "artists": [
-        {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        }
-      ],
-      "duration_ms": 190754,
-      "name": "Heart By Heart",
-      "url": "https://open.spotify.com/track/6NUoW7RwcO1jcrSvJ2V6od"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -1203,6 +1187,22 @@
       "duration_ms": 202026,
       "name": "Relationships",
       "url": "https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
+        "name": "Heart By Heart",
+        "url": "https://open.spotify.com/album/2QasGAycrDSiVNtUtTslgU"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "duration_ms": 190754,
+      "name": "Heart By Heart",
+      "url": "https://open.spotify.com/track/6NUoW7RwcO1jcrSvJ2V6od"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
+        "name": "Second Self",
+        "url": "https://open.spotify.com/album/7wamK6t2NizBz3HScDpRY0"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 163054,
+      "name": "Try Your Luck",
+      "url": "https://open.spotify.com/track/4OeHwa1G1CXBnbqZokaMwk"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
         "name": "Come With Me (feat. Jorja Smith)",
         "url": "https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 214886,
       "name": "Come With Me (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
-        "name": "Second Self",
-        "url": "https://open.spotify.com/album/7wamK6t2NizBz3HScDpRY0"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 163054,
-      "name": "Try Your Luck",
-      "url": "https://open.spotify.com/track/4OeHwa1G1CXBnbqZokaMwk"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "Brokenhearted",
-        "url": "https://open.spotify.com/album/2XBqdcw1rora7B6t3qPAsE"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 152888,
-      "name": "Brokenhearted",
-      "url": "https://open.spotify.com/track/4S7jZg43skkD2YqLa31URQ"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
         "name": "I Saw The Mountains",
         "url": "https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK"
       },
@@ -1527,6 +1507,42 @@
       "duration_ms": 266586,
       "name": "Running/Planning",
       "url": "https://open.spotify.com/track/65Csu3DczS27ZFv6LCieKl"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
+        "name": "Brokenhearted",
+        "url": "https://open.spotify.com/album/2XBqdcw1rora7B6t3qPAsE"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 152888,
+      "name": "Brokenhearted",
+      "url": "https://open.spotify.com/track/4S7jZg43skkD2YqLa31URQ"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
+        "name": "Wrong Places",
+        "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Wrong Places",
+      "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2025-05-29 22:00:25",
       "album": {
-        "name": "Wrong Places",
-        "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Wrong Places",
-      "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
         "name": "Little House",
         "url": "https://open.spotify.com/album/5pDnBe24XMck0UQnDGD8WL"
       },
@@ -1607,6 +1607,22 @@
       "duration_ms": 181785,
       "name": "23:42",
       "url": "https://open.spotify.com/track/0I1WEMYSU0dfENElriMamz"
+    },
+    {
+      "added_at": "2025-05-29 22:00:25",
+      "album": {
+        "name": "Disco Cowgirl",
+        "url": "https://open.spotify.com/album/0xnQxuzAjBDkab4zPtFwOh"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "duration_ms": 205156,
+      "name": "Disco Cowgirl",
+      "url": "https://open.spotify.com/track/3ShZPsqNw5P6AxqEzWcgMp"
     },
     {
       "added_at": "2025-05-29 22:00:25",
@@ -1639,22 +1655,6 @@
       "duration_ms": 139153,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/5VpPQHUxGdz7ntrITnaRBg"
-    },
-    {
-      "added_at": "2025-05-29 22:00:25",
-      "album": {
-        "name": "Disco Cowgirl",
-        "url": "https://open.spotify.com/album/0xnQxuzAjBDkab4zPtFwOh"
-      },
-      "artists": [
-        {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        }
-      ],
-      "duration_ms": 205156,
-      "name": "Disco Cowgirl",
-      "url": "https://open.spotify.com/track/3ShZPsqNw5P6AxqEzWcgMp"
     },
     {
       "added_at": "2025-05-29 22:00:25",

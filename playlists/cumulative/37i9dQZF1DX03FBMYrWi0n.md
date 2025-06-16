@@ -4,7 +4,7 @@
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: Population II
 
-234 songs - 13 hr 31 min
+236 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Cool et branchée](https://open.spotify.com/track/1yOQDjZTq4hrj6iemnUlzr) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Cool et branchée](https://open.spotify.com/album/5BmwnrAljljUUUmUoGifFz) | 2:57 | 2023-09-08 | 2023-11-21 |
 | [Crash](https://open.spotify.com/track/2DGzUHKVdweDIyafjIbpuC) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Crash \(feat\. Corneille\)](https://open.spotify.com/album/4Wq3lP2QIyQ1wdx50VbgLI) | 2:59 | 2023-02-10 | 2024-11-04 |
 | [creusercreuser](https://open.spotify.com/track/6SGNMZl1YURiOVxiYyZZuZ) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [creusercreuser](https://open.spotify.com/album/7KjYrwYCXeAOnHZrl0iOCP) | 4:17 | 2023-02-10 | 2023-04-21 |
-| [Dans tes rêves](https://open.spotify.com/track/2dfr2ndUE6UOeJQ9lAplfo) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Des feux pour voir](https://open.spotify.com/album/2sQho2MsHKvdsDtwtnV3kd) | 4:03 | 2023-02-10 |  |
+| [Cycle trois \- partie 2](https://open.spotify.com/track/3ez9WhsTGvrT7BGvAESFQY) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Il y eut un rythme](https://open.spotify.com/album/6k7wmXKvwCskQo2nUsahE9) | 4:14 | 2025-06-13 |  |
+| [Dans tes rêves](https://open.spotify.com/track/2dfr2ndUE6UOeJQ9lAplfo) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Des feux pour voir](https://open.spotify.com/album/2sQho2MsHKvdsDtwtnV3kd) | 4:03 | 2023-02-10 | 2025-06-16 |
 | [Demande spéciale](https://open.spotify.com/track/41Ne4XNjs1z8oTH7zYy2nj) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Demande spéciale](https://open.spotify.com/album/40qfBrz1foTi9duZlJCd33) | 2:55 | 2024-09-13 | 2025-02-23 |
 | [Demande\-moi](https://open.spotify.com/track/6w7Uk8ppY33i1uD3KHpiO1) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Tu ne mourras pas](https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1) | 3:20 | 2023-02-10 |  |
 | [Depuis](https://open.spotify.com/track/1Usjk5AH5azDSfUstQ50bG) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Depuis](https://open.spotify.com/album/5kcemtwM4yXjUk5C6a24Va) | 4:53 | 2023-02-10 |  |
@@ -145,13 +146,14 @@
 | [Maison ouverte](https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD) | 3:59 | 2023-02-10 | 2024-04-19 |
 | [Maison\-tison](https://open.spotify.com/track/0krFomY1f9C401AeuG7MCG) | [Embo/phlébite](https://open.spotify.com/artist/1ljgoKCx9MKLoDa5rdzNBt), [Duu](https://open.spotify.com/artist/1SsXg212vipwIjhJp0Ut9q) | [Maison\-tison](https://open.spotify.com/album/1sW37m9AgNzSuWzwWZhGJU) | 3:48 | 2025-03-14 |  |
 | [Maladresses](https://open.spotify.com/track/3HLN74FVPGyvoep9o0HN4h) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [PISSENLIT](https://open.spotify.com/album/3MxL97tOzerdtCi366hhZe) | 1:59 | 2023-02-17 | 2023-03-11 |
-| [Mariano \(Jamais je ne t’oublierai\)](https://open.spotify.com/track/2bZyKgrqmL9id66rCrVjf6) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [Mariano \(Jamais je ne t’oublierai\)](https://open.spotify.com/album/7JzqEoQJivzko3A14Q0yua) | 4:14 | 2025-02-28 |  |
+| [Mariano \(Jamais je ne t’oublierai\)](https://open.spotify.com/track/2bZyKgrqmL9id66rCrVjf6) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [Mariano \(Jamais je ne t’oublierai\)](https://open.spotify.com/album/7JzqEoQJivzko3A14Q0yua) | 4:14 | 2025-02-28 | 2025-06-16 |
 | [Maïa](https://open.spotify.com/track/74VUaKDV1hUSpEpMxe2Ct4) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Premier juin](https://open.spotify.com/album/4lOsb9ZHpbTcom0mZ7Qz86) | 4:28 | 2023-02-10 |  |
 | [Megastar](https://open.spotify.com/track/2yJ3ULFBKKC5MX0x9e9NVW) | [Les Dales Hawerchuk](https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC) | [Attaque à cinq](https://open.spotify.com/album/71XdYuOf1H7TWaUOsEHklR) | 2:42 | 2024-11-08 |  |
 | [Messie](https://open.spotify.com/track/6JMVUBNCmJm8ezhtkVxZEY) | [zouz](https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi) | [Messie](https://open.spotify.com/album/2iShXqWzIlmUbUFsjOB2kw) | 4:05 | 2024-05-10 | 2024-09-03 |
 | [Miroirs](https://open.spotify.com/track/2vHfUP4xN5KmbJR6A80k4Q) | [zouz](https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi) | [Jours de cendre](https://open.spotify.com/album/4qVeyzi0kYZ2ry5cR8ZFbF) | 3:32 | 2024-10-25 |  |
 | [Mon Argent](https://open.spotify.com/track/2S2MHKQYRA6LdBWsTb6fcK) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Mon Argent](https://open.spotify.com/album/3DO7QiZvBdCRAxHt8AmVR4) | 3:37 | 2024-04-05 | 2024-04-19 |
 | [Mon Argent](https://open.spotify.com/track/4KkF7rio8VithG50zRJgmZ) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Mon Argent](https://open.spotify.com/album/3O9E9GLDqNFVn6qYY76Mnr) | 3:37 | 2024-04-19 | 2024-05-25 |
+| [Montréal](https://open.spotify.com/track/3dsOTm1NvWmBgNZlngpPVY) | [Béton Armé](https://open.spotify.com/artist/7B9AYoMBJAGlHtB97cPt9z) | [Renaissance](https://open.spotify.com/album/1M4aJVG6hyX6xpaRxOgqzi) | 2:10 | 2025-06-13 |  |
 | [Mourir au large \- sunset version](https://open.spotify.com/track/2g9ZVSmnDT6q2uIIDeI5rC) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [SEUM](https://open.spotify.com/album/33CZjzTw0EWuESPByXMyJL) | 2:50 | 2023-03-07 | 2023-04-29 |
 | [Mourir Demain](https://open.spotify.com/track/27OazPRfoFSZh1kfYujHhp) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Mourir Demain](https://open.spotify.com/album/2maYUGRhPI9z4D2gBsWgkw) | 3:27 | 2024-01-26 | 2024-07-04 |
 | [Mélamine](https://open.spotify.com/track/0JtMrH5khKzzjDztgZrpkI) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Notre\-Dame\-des\-Sept\-Douleurs](https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh) | 2:50 | 2023-02-10 | 2024-05-05 |

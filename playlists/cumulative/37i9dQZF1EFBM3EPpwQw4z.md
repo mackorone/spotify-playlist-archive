@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-132 songs - 7 hr 44 min
+134 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Jungle Gym](https://open.spotify.com/track/239JsGOqqmnTnvi0m8z95r) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 1:41 | 2023-12-30 |  |
 | [Lately](https://open.spotify.com/track/1Z6RuYFWKqNaEKUrkgVJHT) | [WZA](https://open.spotify.com/artist/2TqOxk4tzOGX9ns3feBXU7), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Lately](https://open.spotify.com/album/2eO58FVIBNoEjGgJ6OrjFU) | 3:16 | 2024-09-23 | 2025-05-22 |
 | [Let Me Know](https://open.spotify.com/track/29310yrKMYwmCw9yJwZJXV) | [Terace](https://open.spotify.com/artist/0OV8LLvJaGRRsSlBsBKdUl) | [Let Me Know](https://open.spotify.com/album/5WOyodAauh50nUftaZ355E) | 4:35 | 2023-12-30 |  |
+| [Let Me Know](https://open.spotify.com/track/6jVqvY3LKTBqZAkq7sRUfP) | [Terace](https://open.spotify.com/artist/0OV8LLvJaGRRsSlBsBKdUl) | [Let Me Know](https://open.spotify.com/album/5WOyodAauh50nUftaZ355E) | 4:35 | 2025-06-15 |  |
 | [Levitate](https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Levitate](https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr) | 2:45 | 2024-03-13 |  |
 | [Love Focus](https://open.spotify.com/track/6ysLchNczIS4xLwU1xLTkU) | [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ) | [Love Focus](https://open.spotify.com/album/0kwAXI1WMtUShXlGIAMeXF) | 3:58 | 2024-03-08 |  |
 | [Love is Love \(Rainbow Family\)](https://open.spotify.com/track/5pCCM63CTua6J8PszAZdyZ) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 2:24 | 2023-12-30 |  |
@@ -104,6 +105,7 @@
 | [Sharing Is Caring](https://open.spotify.com/track/5GcXj0rDWSlLQIPktW5ADB) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 1:31 | 2023-12-30 |  |
 | [Shout Out Loud](https://open.spotify.com/track/7otkkXuwLdVPPWMuuCw0Hs) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [Shout Out Loud](https://open.spotify.com/album/0RxDOIayfWgryjYbkgDQRK) | 3:26 | 2024-07-12 |  |
 | [Sing You a Lullaby](https://open.spotify.com/track/43VtNuMa0a03jqeQ0ZjXNT) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 2:38 | 2023-12-30 |  |
+| [Smile](https://open.spotify.com/track/3LK7BfvGHtRCdd6DIQIpiC) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Smile](https://open.spotify.com/album/7t0yydFmDChmSPla4Yi3Hm) | 3:05 | 2025-06-15 |  |
 | [Space In Between](https://open.spotify.com/track/5hNauSpHsisS2APmxMj8QV) | [Kristy Lee](https://open.spotify.com/artist/7Fo8xLTTUeoqisinWacdag), [Mike Ross](https://open.spotify.com/artist/3bUhrdYSG4lDtHfFyyqXnj) | [Opus Label Two](https://open.spotify.com/album/4S7IyQQwt55svl1sli9bJN) | 6:24 | 2023-12-30 | 2025-04-27 |
 | [Space In Between](https://open.spotify.com/track/7kOEpNzMIjKdnppkAPSy2Q) | [Kristy Lee & Mike Ross](https://open.spotify.com/artist/5TSEkQLz9DEl32Seds5k0m) | [Opus Label Two](https://open.spotify.com/album/66WHYSG4pQyeGk0Evca96d) | 6:24 | 2025-04-26 |  |
 | [Standing Too Close](https://open.spotify.com/track/0YI4yEe1LAFYhJq3J2sOS4) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Standing Too Close](https://open.spotify.com/album/0bvnoBq3jC1yQSdyO8CfKf) | 3:22 | 2023-12-30 |  |

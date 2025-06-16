@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 748847,
+  "num_followers": 748972,
   "original_name": "This Is Los Tigres Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAABSc6zGpm3pAHA1BSSDYwa0",
+  "snapshot_id": "aEy7gAAAAAC7V83jtZQZ0KYGRbvKxyoA",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Reuni\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "\u00bfEn D\u00f3nde Estabas?",
-      "url": "https://open.spotify.com/track/4yZQMrO8OJ8oj9HZqUZ3QN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unidos Para Siempre",
         "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
       },
@@ -619,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Idolos Del Pueblo",
-        "url": "https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 171920,
-      "name": "Tres Veces Mojado",
-      "url": "https://open.spotify.com/track/7pVP11CCxAvSEWf9fLueWr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pacto De Sangre",
         "url": "https://open.spotify.com/album/7GAOrdfIZhaU3G7vPZg1dn"
       },
@@ -647,6 +615,38 @@
       "duration_ms": 233853,
       "name": "Jos\u00e9 P\u00e9rez Le\u00f3n",
       "url": "https://open.spotify.com/track/3xKToHlV3enPcQVpns4kUf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Reuni\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "\u00bfEn D\u00f3nde Estabas?",
+      "url": "https://open.spotify.com/track/4yZQMrO8OJ8oj9HZqUZ3QN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Idolos Del Pueblo",
+        "url": "https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 171920,
+      "name": "Tres Veces Mojado",
+      "url": "https://open.spotify.com/track/7pVP11CCxAvSEWf9fLueWr"
     },
     {
       "added_at": null,

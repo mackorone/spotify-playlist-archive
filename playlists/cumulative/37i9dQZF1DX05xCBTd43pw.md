@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Eileen Alister
 
-365 songs - 18 hr 48 min
+367 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Don't Stop The Car](https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Don't Stop The Car](https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m) | 3:14 | 2024-06-27 |  |
 | [Don't You](https://open.spotify.com/track/4SCGx3pO13awv6gpHz1ebm) | [Marc Sway](https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w), [Naomi Ayleen](https://open.spotify.com/artist/7eHijIZEf09FGSZYcysqe9) | [Don't You](https://open.spotify.com/album/5cvlDr98frKNS47U2Antil) | 3:11 | 2024-12-07 | 2025-03-23 |
 | [Doomsday Kiss](https://open.spotify.com/track/0b6CfOTTJQGJhS4mliyjAV) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Doomsday Kiss](https://open.spotify.com/album/3nfIttcOYNsLZWtFXd7kGa) | 2:48 | 2025-05-22 |  |
-| [dormant plants](https://open.spotify.com/track/1rS3xMPOBLjS6Nm4MlYiN7) | [Elie Zoé](https://open.spotify.com/artist/2t7zzvR3tKMctlLIUkTvjc) | [dormant plants](https://open.spotify.com/album/5wLF3Uc5IDZqcXjhR7vIvm) | 4:15 | 2025-05-29 |  |
+| [dormant plants](https://open.spotify.com/track/1rS3xMPOBLjS6Nm4MlYiN7) | [Elie Zoé](https://open.spotify.com/artist/2t7zzvR3tKMctlLIUkTvjc) | [dormant plants](https://open.spotify.com/album/5wLF3Uc5IDZqcXjhR7vIvm) | 4:15 | 2025-05-29 | 2025-06-16 |
 | [Down To My Bones](https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Down To My Bones](https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD) | 3:21 | 2024-11-01 |  |
 | [Drei Stunden](https://open.spotify.com/track/6L0Ii1AzM0W4ZAl8FPPN1b) | [jan SEVEN dettwyler](https://open.spotify.com/artist/0vzAclaaTGJDFQzdWxmTej) | [Drei Stunden](https://open.spotify.com/album/2XMofoZm4xZtaWWkuQEVON) | 2:29 | 2024-08-05 | 2024-08-30 |
 | [Du](https://open.spotify.com/track/0EM85Qj3526QtxCBOQL6rT) | [Nemo \(CH\)](https://open.spotify.com/artist/1KbDYbNErlTGfWPENELJgM) | [Du](https://open.spotify.com/album/3VDAjCOWVKdGVmnVFvTTUr) | 3:36 | 2025-05-08 | 2025-05-16 |
@@ -208,6 +208,7 @@
 | [Linger](https://open.spotify.com/track/3ICWCYXPGnRLXS1iB0SzkR) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Linger](https://open.spotify.com/album/2YX2p7h92C7d7ISvDiz5qG) | 4:04 | 2025-02-14 | 2025-04-02 |
 | [Long Year](https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Long Year](https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI) | 3:16 | 2024-10-03 | 2025-02-08 |
 | [Los Dos](https://open.spotify.com/track/58189tJfGnaAZtNKFStQVp) | [Cachita](https://open.spotify.com/artist/6CzgU7GybLlPawV1SVBc1V) | [Los Dos](https://open.spotify.com/album/5w88ova33Eob6q7EbeBn0G) | 2:56 | 2024-07-04 | 2024-08-06 |
+| [Lose Control](https://open.spotify.com/track/0Jwvr34wPba4TA2B5Z6PSr) | [ANIKK](https://open.spotify.com/artist/2wvznrRx5MZ2qwqRJPYNmN) | [Lose Control](https://open.spotify.com/album/1kELQM73NVUWomyg32wXJ7) | 2:55 | 2025-06-13 |  |
 | [Losing Grip](https://open.spotify.com/track/4Vmn4tPZSp6B82XH2KMsHZ) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V) | [Losing Grip](https://open.spotify.com/album/2gQ3GaQhjnXM8M6PlBYAkO) | 2:55 | 2024-08-23 | 2024-12-08 |
 | [Losing My Mind](https://open.spotify.com/track/3dB12m9FLxV7ezUR7QTas7) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Losing My Mind](https://open.spotify.com/album/7nVYW5nmxvdUsKdGwIdmdH) | 3:10 | 2024-11-22 |  |
 | [Losloh](https://open.spotify.com/track/0ZXFSrGieGGO6e5kHVdEE6) | [Riana](https://open.spotify.com/artist/539s6EvqBuxuA5xzRyCIMz) | [Losloh](https://open.spotify.com/album/4S5RluviJRmFhvjX5MmJyT) | 3:32 | 2025-04-17 | 2025-04-25 |
@@ -360,7 +361,7 @@
 | [Wenn Du Das Lied Ghörsch](https://open.spotify.com/track/4Iu56eMBRx5CN6l5m4M16o) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Fürs Volk](https://open.spotify.com/album/5LMk7KjAHAhOqEna4GNqZG) | 3:33 | 2025-05-01 | 2025-05-09 |
 | [Wer hats erfunden](https://open.spotify.com/track/0QDZw9cs0VnQzEol2DfGJh) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Wer hats erfunden](https://open.spotify.com/album/52JBA7u2pkfcovbX91KTpm) | 2:12 | 2025-05-22 |  |
 | [What Went Wrong](https://open.spotify.com/track/09LPMQYwT0rv2OleNUJajK) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [April](https://open.spotify.com/album/6g2f5WpDL8hYf8zvrXMiUW) | 2:08 | 2025-05-22 | 2025-06-01 |
-| [When We Get There We'll Know](https://open.spotify.com/track/4wXHE6HfR95WkzbAwWkMP3) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [When We Get There We'll Know](https://open.spotify.com/album/2uNlRP9wGl6kZnzAcO0piz) | 3:00 | 2025-05-22 |  |
+| [When We Get There We'll Know](https://open.spotify.com/track/4wXHE6HfR95WkzbAwWkMP3) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [When We Get There We'll Know](https://open.spotify.com/album/2uNlRP9wGl6kZnzAcO0piz) | 3:00 | 2025-05-22 | 2025-06-16 |
 | [Where Were You](https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Where Were You](https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG) | 2:42 | 2024-08-19 | 2025-03-15 |
 | [Will you read my mind?](https://open.spotify.com/track/5OAsL40eMUld36G5c6ankC) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Will you read my mind?](https://open.spotify.com/album/107YlaWLAAp5qqvKy8F2BN) | 4:05 | 2025-05-22 |  |
 | [Winner4Life](https://open.spotify.com/track/0pSl7HdS2qMpnxauQQGMDS) | [Pato](https://open.spotify.com/artist/3kwSyO1era9AP6vAh13hTu) | [Winner4Life](https://open.spotify.com/album/2tNlLfmxuVjaeAxqO1BpZ5) | 2:38 | 2025-04-24 | 2025-05-02 |
@@ -369,6 +370,7 @@
 | [Yaa Dede](https://open.spotify.com/track/5GgjeY48LU11zjGXXktqkI) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO) | [LUNO V](https://open.spotify.com/album/43q6qDcaoGAZBRAO8TVsCz) | 2:45 | 2025-04-24 | 2025-05-02 |
 | [you & i](https://open.spotify.com/track/7qanXHrGDdACDlCLqiY4qe) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY), [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [you & i](https://open.spotify.com/album/4l4ndt4BmOY2oeoa1qqEst) | 2:05 | 2025-05-22 |  |
 | [You Hurt Me](https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [January](https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2) | 2:16 | 2025-02-07 |  |
+| [You You You](https://open.spotify.com/track/02SfLsj1wEIyFT86dhwi8n) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P), [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH) | [June](https://open.spotify.com/album/4cVvZI4iqSdk3pCsuQQ0HZ) | 2:41 | 2025-06-13 |  |
 | [Zeilen für dich](https://open.spotify.com/track/79jLtzgfJDXcEbMiTGzOUV) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Zeilen für dich](https://open.spotify.com/album/4aKndM39CDDcGyx1wBYx4P) | 3:17 | 2024-06-27 | 2024-10-12 |
 | [Zoot](https://open.spotify.com/track/1QCf5EvUGZnEGVI888MHa9) | [Lisa Oribasi](https://open.spotify.com/artist/1waNCj8NsTBTb1WzOPkTyR) | [Somewhere IDK](https://open.spotify.com/album/0b3OWKTpkrhVx2qtSb9rgu) | 2:48 | 2024-08-29 | 2024-10-16 |
 | [Zweni](https://open.spotify.com/track/5t583ypah1rOexls7zRRVJ) | [Sophie](https://open.spotify.com/artist/3fk0aODXAMActCwbdl2odS), [Pit](https://open.spotify.com/artist/4U4ogvgnnLjJ6z9pgbyPQM) | [M.R.X.](https://open.spotify.com/album/1tDRKqqqOaKDfliDY8pWwn) | 3:03 | 2025-04-24 | 2025-05-02 |

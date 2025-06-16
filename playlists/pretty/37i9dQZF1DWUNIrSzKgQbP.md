@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 
 > Dreamy springtime melodies to watch the flowers bloom 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,705,664 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,705,474 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 69 | [Wake Up Child](https://open.spotify.com/track/6a0XYTjvT9kSOCxRXvmhp2) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt), [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Wake Up Child](https://open.spotify.com/album/3Zo0AQ3MUiqvqzVAorWODi) | 3:53 |
 | 70 | [Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:17 |
 
-Snapshot ID: `aC/y5gAAAABaM1/QRLJIPomk43WLs/x+`
+Snapshot ID: `aC/y5gAAAABoYBm4LsMMVT8+gwcLw10g`

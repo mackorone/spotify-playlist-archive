@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3067\u30ea\u30e9\u30c3\u30af\u30b9\u3057\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 139336,
+  "num_followers": 139337,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
@@ -859,6 +859,22 @@
     {
       "added_at": "2025-06-12 15:00:06",
       "album": {
+        "name": "Elderberry Wine",
+        "url": "https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Elderberry Wine",
+      "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
+    },
+    {
+      "added_at": "2025-06-12 15:00:06",
+      "album": {
         "name": "Diamonds On The Inside",
         "url": "https://open.spotify.com/album/0EgXWt3Lur2Fx2WHlG9AXf"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 149803,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp"
-    },
-    {
-      "added_at": "2025-06-12 15:00:06",
-      "album": {
-        "name": "Elderberry Wine",
-        "url": "https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Elderberry Wine",
-      "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
     },
     {
       "added_at": "2025-06-12 15:00:06",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-06-12 15:00:06",
       "album": {
-        "name": "The Surface",
-        "url": "https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "The Surface",
-      "url": "https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn"
-    },
-    {
-      "added_at": "2025-06-12 15:00:06",
-      "album": {
         "name": "Talking Dreams (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 220626,
       "name": "Bright",
       "url": "https://open.spotify.com/track/3WKg25vrbjJlkhsgl2W4p3"
+    },
+    {
+      "added_at": "2025-06-12 15:00:06",
+      "album": {
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "The Surface",
+      "url": "https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn"
     },
     {
       "added_at": "2025-06-12 15:00:06",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-06-12 15:00:06",
       "album": {
-        "name": "Soft Spot (Alternate Versions)",
-        "url": "https://open.spotify.com/album/54QpKvhFEDWb9U0NhSeZVe"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 208039,
-      "name": "Soft Spot - Acoustic",
-      "url": "https://open.spotify.com/track/7FB6Nx7TK8y1Ke8dY6ROpQ"
-    },
-    {
-      "added_at": "2025-06-12 15:00:06",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 220812,
       "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
+    },
+    {
+      "added_at": "2025-06-12 15:00:06",
+      "album": {
+        "name": "Soft Spot (Alternate Versions)",
+        "url": "https://open.spotify.com/album/54QpKvhFEDWb9U0NhSeZVe"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 208039,
+      "name": "Soft Spot - Acoustic",
+      "url": "https://open.spotify.com/track/7FB6Nx7TK8y1Ke8dY6ROpQ"
     },
     {
       "added_at": "2025-06-12 15:00:06",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2025-06-12 15:00:06",
       "album": {
-        "name": "Tell me I never knew that",
-        "url": "https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW"
-      },
-      "artists": [
-        {
-          "name": "caroline",
-          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
-        },
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 279051,
-      "name": "Tell me I never knew that",
-      "url": "https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f"
-    },
-    {
-      "added_at": "2025-06-12 15:00:06",
-      "album": {
         "name": "You Could Start A Cult (with Lizzy McAlpine)",
         "url": "https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 194869,
       "name": "You Could Start A Cult (with Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
+    },
+    {
+      "added_at": "2025-06-12 15:00:06",
+      "album": {
+        "name": "Tell me I never knew that",
+        "url": "https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW"
+      },
+      "artists": [
+        {
+          "name": "caroline",
+          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 279051,
+      "name": "Tell me I never knew that",
+      "url": "https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f"
     },
     {
       "added_at": "2025-06-12 15:00:06",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2025-06-12 15:00:06",
       "album": {
+        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
+        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
+      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
+    },
+    {
+      "added_at": "2025-06-12 15:00:06",
+      "album": {
         "name": "For Sale Sign (feat. Lizzy McAlpine)",
         "url": "https://open.spotify.com/album/6Ew8bEDBgeYcl7wmyA2P1P"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 266666,
       "name": "For Sale Sign (feat. Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/0WYip0MXpOGYvNH2h7q8ng"
-    },
-    {
-      "added_at": "2025-06-12 15:00:06",
-      "album": {
-        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
-        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
-      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
     },
     {
       "added_at": "2025-06-12 15:00:06",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2025-06-12 15:00:06",
       "album": {
-        "name": "Listen to Your Heart",
-        "url": "https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV"
-      },
-      "artists": [
-        {
-          "name": "Grey Grey",
-          "url": "https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t"
-        }
-      ],
-      "duration_ms": 186153,
-      "name": "Listen to Your Heart",
-      "url": "https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ"
-    },
-    {
-      "added_at": "2025-06-12 15:00:06",
-      "album": {
         "name": "Know the Night",
         "url": "https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 190266,
       "name": "Know the Night",
       "url": "https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8"
+    },
+    {
+      "added_at": "2025-06-12 15:00:06",
+      "album": {
+        "name": "Listen to Your Heart",
+        "url": "https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV"
+      },
+      "artists": [
+        {
+          "name": "Grey Grey",
+          "url": "https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t"
+        }
+      ],
+      "duration_ms": 186153,
+      "name": "Listen to Your Heart",
+      "url": "https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ"
     },
     {
       "added_at": "2025-06-12 15:00:06",

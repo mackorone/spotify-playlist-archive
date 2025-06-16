@@ -1,6 +1,6 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 437200,
+  "num_followers": 437337,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
@@ -499,8 +499,8 @@
     {
       "added_at": "2025-06-12 16:00:06",
       "album": {
-        "name": "Man In Finance (with David Guetta)",
-        "url": "https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS"
+        "name": "A Better World",
+        "url": "https://open.spotify.com/album/3hAcZ5awmnV1zc2P3WNSzr"
       },
       "artists": [
         {
@@ -508,17 +508,13 @@
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Girl On Couch",
-          "url": "https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy"
-        },
-        {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
         }
       ],
-      "duration_ms": 113595,
-      "name": "Man In Finance (with David Guetta)",
-      "url": "https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T"
+      "duration_ms": 172606,
+      "name": "A Better World",
+      "url": "https://open.spotify.com/track/7tCXmtYrYNFWMa7vyQfuAI"
     },
     {
       "added_at": "2025-06-12 16:00:06",
@@ -599,6 +595,30 @@
       "duration_ms": 213946,
       "name": "You Don't Know Me",
       "url": "https://open.spotify.com/track/1rFMYAZxBoAKSzXI54brMu"
+    },
+    {
+      "added_at": "2025-06-12 16:00:06",
+      "album": {
+        "name": "Man In Finance (with David Guetta)",
+        "url": "https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Girl On Couch",
+          "url": "https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        }
+      ],
+      "duration_ms": 113595,
+      "name": "Man In Finance (with David Guetta)",
+      "url": "https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T"
     },
     {
       "added_at": "2025-06-12 16:00:06",
@@ -1043,26 +1063,6 @@
       "duration_ms": 188500,
       "name": "Hear Me Tonight",
       "url": "https://open.spotify.com/track/0v8OKUrqZGoEbgEUXScRSQ"
-    },
-    {
-      "added_at": "2025-06-12 16:00:06",
-      "album": {
-        "name": "Creep",
-        "url": "https://open.spotify.com/album/60SKSurtzL5m59nahMg9TL"
-      },
-      "artists": [
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "Haley Reinhart",
-          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
-        }
-      ],
-      "duration_ms": 203225,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/7CEIFwLf4XmFz8okORSizE"
     }
   ],
   "unique_name": "EDM Samplings",

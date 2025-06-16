@@ -6465,6 +6465,24 @@
     },
     {
       "album": {
+        "name": "Planetary",
+        "url": "https://open.spotify.com/album/08PXW0KjcLUccvIsZBvomW"
+      },
+      "artists": [
+        {
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177489,
+      "name": "Planetary",
+      "url": "https://open.spotify.com/track/5v2bUbn70jpJcPkWL3EYwF"
+    },
+    {
+      "album": {
         "name": "Q.",
         "url": "https://open.spotify.com/album/68UCYi46B4pP5WUo6Yxeuf"
       },
@@ -11844,7 +11862,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 218413,
       "name": "\u30ad\u30e3\u30e9\u30e1\u30eb\u30d1\u30a4",
       "url": "https://open.spotify.com/track/2WCCNii7NpoIgPdVOeu8Dy"
@@ -13148,7 +13166,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 215965,
       "name": "\u30c8\u30e9\u30f3\u30b9\u30d5\u30a1\u30fc",
       "url": "https://open.spotify.com/track/1eiRefLrtxufPxIhtLAocB"
@@ -18468,6 +18486,24 @@
       "duration_ms": 225233,
       "name": "\u65e7\u4e16\u754c\u3088\u308a",
       "url": "https://open.spotify.com/track/4r428hWKE7Br4LKKfpYFvi"
+    },
+    {
+      "album": {
+        "name": "\u65e7\u4e16\u754c\u7d00\u884c",
+        "url": "https://open.spotify.com/album/5fmsaQA7OCtUEU1QFaTQQh"
+      },
+      "artists": [
+        {
+          "name": "PK shampoo",
+          "url": "https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ"
+        }
+      ],
+      "date_added": "2025-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265920,
+      "name": "\u65e7\u4e16\u754c\u7d00\u884c",
+      "url": "https://open.spotify.com/track/5ic24TLf4RcN63g96MXtLH"
     },
     {
       "album": {

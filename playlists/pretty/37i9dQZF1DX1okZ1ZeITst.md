@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 
 > From the shower to the car, Disney songs that make you want to sing along, including songs from Disney's Lilo & Stitch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,092,360 likes - 163 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092,573 likes - 163 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 | 162 | [Fixer Upper \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/5covTs92HnHJwAWrXF7l14) | [Maia Wilson](https://open.spotify.com/artist/5FghcZFWriEQFftyizgKEU), [Cast \- Frozen](https://open.spotify.com/artist/2GOnnsN5XmABjEwX1fstby) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:02 |
 | 163 | [I Am Moana \(Song of the Ancestors\)](https://open.spotify.com/track/6uk7QQiWRDjPHSiSMZlez8) | [Rachel House](https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:42 |
 
-Snapshot ID: `aEx+LQAAAACHWvSqjB5RiX4B5D3vWtK0`
+Snapshot ID: `aEx+LQAAAACc+gTU7/LGyPG5CYOnAaFa`

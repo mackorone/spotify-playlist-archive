@@ -1,6 +1,6 @@
 {
   "description": "\u30c9\u30e9\u30a4\u30d6\u7528\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01\u6e0b\u6ede\u3082\u6c17\u306b\u305b\u305a\u3001\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u697d\u66f2\u3092\u30bb\u30ec\u30af\u30c8\u3002",
-  "num_followers": 108737,
+  "num_followers": 108746,
   "original_name": "Drive Loud!: \u30c9\u30e9\u30a4\u30d6\u30fb\u30e9\u30a6\u30c9",
   "owner": {
     "name": "Spotify",
@@ -319,18 +319,18 @@
     {
       "added_at": "2025-06-12 15:00:04",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+        "name": "The Contract",
+        "url": "https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 211141,
-      "name": "get him back!",
-      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
+      "duration_ms": 228000,
+      "name": "The Contract",
+      "url": "https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG"
     },
     {
       "added_at": "2025-06-12 15:00:04",
@@ -347,6 +347,22 @@
       "duration_ms": 152871,
       "name": "\u7206\u901f\u8ad6\u7406ness",
       "url": "https://open.spotify.com/track/3JT0OG84nHM2wjomQRwgiR"
+    },
+    {
+      "added_at": "2025-06-12 15:00:04",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 211141,
+      "name": "get him back!",
+      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
     },
     {
       "added_at": "2025-06-12 15:00:04",
@@ -371,22 +387,6 @@
     {
       "added_at": "2025-06-12 15:00:04",
       "album": {
-        "name": "\u602a\u7363",
-        "url": "https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT"
-      },
-      "artists": [
-        {
-          "name": "sakanaction",
-          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
-        }
-      ],
-      "duration_ms": 252722,
-      "name": "\u602a\u7363",
-      "url": "https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC"
-    },
-    {
-      "added_at": "2025-06-12 15:00:04",
-      "album": {
         "name": "GRAND POP",
         "url": "https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H"
       },
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-06-12 15:00:04",
       "album": {
-        "name": "From Zero (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 208739,
-      "name": "Let You Fade",
-      "url": "https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc"
-    },
-    {
-      "added_at": "2025-06-12 15:00:04",
-      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
       },
@@ -439,18 +423,34 @@
     {
       "added_at": "2025-06-12 15:00:04",
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 2)",
-        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
+        "name": "\u602a\u7363",
+        "url": "https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
         }
       ],
-      "duration_ms": 176424,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf"
+      "duration_ms": 252722,
+      "name": "\u602a\u7363",
+      "url": "https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC"
+    },
+    {
+      "added_at": "2025-06-12 15:00:04",
+      "album": {
+        "name": "From Zero (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 208739,
+      "name": "Let You Fade",
+      "url": "https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc"
     },
     {
       "added_at": "2025-06-12 15:00:04",
@@ -471,6 +471,22 @@
     {
       "added_at": "2025-06-12 15:00:04",
       "album": {
+        "name": "I've Tried Everything But Therapy (Part 2)",
+        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 176424,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf"
+    },
+    {
+      "added_at": "2025-06-12 15:00:04",
+      "album": {
         "name": "Chemical",
         "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
       },
@@ -487,22 +503,6 @@
     {
       "added_at": "2025-06-12 15:00:04",
       "album": {
-        "name": "Oysters In My Pocket",
-        "url": "https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 162338,
-      "name": "Oysters In My Pocket",
-      "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
-    },
-    {
-      "added_at": "2025-06-12 15:00:04",
-      "album": {
         "name": "Take me back",
         "url": "https://open.spotify.com/album/2lNf4UcthxACQ1Ks8BUw98"
       },
@@ -515,6 +515,22 @@
       "duration_ms": 225160,
       "name": "Take me back",
       "url": "https://open.spotify.com/track/3CkBVxtfny3epwPhQfw9t8"
+    },
+    {
+      "added_at": "2025-06-12 15:00:04",
+      "album": {
+        "name": "Oysters In My Pocket",
+        "url": "https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 162338,
+      "name": "Oysters In My Pocket",
+      "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
     },
     {
       "added_at": "2025-06-12 15:00:04",
@@ -595,22 +611,6 @@
     {
       "added_at": "2025-06-12 15:00:04",
       "album": {
-        "name": "Unshatter",
-        "url": "https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 196112,
-      "name": "Unshatter",
-      "url": "https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht"
-    },
-    {
-      "added_at": "2025-06-12 15:00:04",
-      "album": {
         "name": "Hold Me Closer",
         "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
       },
@@ -631,6 +631,22 @@
     {
       "added_at": "2025-06-12 15:00:04",
       "album": {
+        "name": "DIFFERENT",
+        "url": "https://open.spotify.com/album/3ktE9BFKxeYT90NbKnDn7v"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 141756,
+      "name": "DIFFERENT",
+      "url": "https://open.spotify.com/track/0c6PVOqHNDuhH6uNfA13IX"
+    },
+    {
+      "added_at": "2025-06-12 15:00:04",
+      "album": {
         "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
         "url": "https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08"
       },
@@ -643,6 +659,22 @@
       "duration_ms": 203149,
       "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
       "url": "https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz"
+    },
+    {
+      "added_at": "2025-06-12 15:00:04",
+      "album": {
+        "name": "Unshatter",
+        "url": "https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 196112,
+      "name": "Unshatter",
+      "url": "https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht"
     },
     {
       "added_at": "2025-06-12 15:00:04",
@@ -799,38 +831,6 @@
     {
       "added_at": "2025-06-12 15:00:04",
       "album": {
-        "name": "DIFFERENT",
-        "url": "https://open.spotify.com/album/3ktE9BFKxeYT90NbKnDn7v"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 141756,
-      "name": "DIFFERENT",
-      "url": "https://open.spotify.com/track/0c6PVOqHNDuhH6uNfA13IX"
-    },
-    {
-      "added_at": "2025-06-12 15:00:04",
-      "album": {
-        "name": "Dear",
-        "url": "https://open.spotify.com/album/6vMKpUwuJVC0sukrtZo0zL"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        }
-      ],
-      "duration_ms": 311215,
-      "name": "Dear",
-      "url": "https://open.spotify.com/track/33qTER0xTXBQPDMSYR1hGX"
-    },
-    {
-      "added_at": "2025-06-12 15:00:04",
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
       },
@@ -847,18 +847,18 @@
     {
       "added_at": "2025-06-12 15:00:04",
       "album": {
-        "name": "When You're Gone",
-        "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
+        "name": "Dear",
+        "url": "https://open.spotify.com/album/6vMKpUwuJVC0sukrtZo0zL"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
         }
       ],
-      "duration_ms": 172266,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
+      "duration_ms": 311215,
+      "name": "Dear",
+      "url": "https://open.spotify.com/track/33qTER0xTXBQPDMSYR1hGX"
     }
   ],
   "unique_name": "Drive Loud!: \u30c9\u30e9\u30a4\u30d6\u30fb\u30e9\u30a6\u30c9",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: La Dispute
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,336 likes - 125 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,333 likes - 125 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 20 | [Warning Signs](https://open.spotify.com/track/4PX2d8yYSEeg3CfvLlStdW) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Warning Signs](https://open.spotify.com/album/6bfymLkLbH09CDd8F3GAnk) | 2:54 |
 | 21 | [I Hate My Collarbones](https://open.spotify.com/track/1JlBjta6QkMgP1o70KkhCm) | [Tooth Gore](https://open.spotify.com/artist/5RRVoUOAYvQxZiU2ZxlgT8) | [I Hate My Collarbones](https://open.spotify.com/album/1UC0pb9QjBPXCKZLIS04Bv) | 2:59 |
 | 22 | [hug me](https://open.spotify.com/track/7byP16wLmQCTGG49FgQyb1) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91), [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [hug me](https://open.spotify.com/album/2QmLw1jFMCxTFrF2ATEFvu) | 2:00 |
-| 23 | [Eastern St\. Kids](https://open.spotify.com/track/0Ni4E3BVCmzuRBpdUbe8Zp) | [Agent 51](https://open.spotify.com/artist/6gZocvVCxS7FDiDgckbbOI) | [Age of Validation](https://open.spotify.com/album/1SnK5OF5aMVeuPcipp6jOo) | 3:09 |
+| 23 | [Eastern Street Kids](https://open.spotify.com/track/0Ni4E3BVCmzuRBpdUbe8Zp) | [Agent 51](https://open.spotify.com/artist/6gZocvVCxS7FDiDgckbbOI) | [Age of Validation](https://open.spotify.com/album/1SnK5OF5aMVeuPcipp6jOo) | 3:09 |
 | 24 | [sycophant](https://open.spotify.com/track/09Am9PoKF5IGHrPy95t7Hb) | [Wet World](https://open.spotify.com/artist/2oPV90oeIctzVCsPqpCgko) | [sycophant](https://open.spotify.com/album/3CZAPVV4buBpBXHFRNzDaT) | 2:09 |
 | 25 | [Headcrusher](https://open.spotify.com/track/1RjG2epXceAYiUHG5tA7Oe) | [Penny & the Pits](https://open.spotify.com/artist/0Imlx4wJ1RmlIXvO6ON5HI) | [Headcrusher](https://open.spotify.com/album/0kUxELNCFvcoA0cIuNyieg) | 1:51 |
 | 26 | [Rabid Beach](https://open.spotify.com/track/3LZvuHYXkQtf0nZaAAQKgh) | [Pig Pen](https://open.spotify.com/artist/5gz02MKm1uxQLcjE5Cs9Hr) | [Rabid Beach](https://open.spotify.com/album/4lZ3GjSPnt7tNRuSUDbzG7) | 2:01 |

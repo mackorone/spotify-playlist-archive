@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Depresión Sonora en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,102 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,108 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 99 | [Orfeo](https://open.spotify.com/track/3E5pFfPekRnE0RIRP6s7sA) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Orfeo](https://open.spotify.com/album/78ZQ9sFpDGdPpVEtZaPrrp) | 3:45 |
 | 100 | [¿Hoy a qué vamos a jugar?](https://open.spotify.com/track/6zQ3sTiUg5mDHcuWdTeKJz) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [¿Hoy a qué vamos a jugar?](https://open.spotify.com/album/3yDCar8MFsuUv10nYsD0km) | 2:32 |
 
-Snapshot ID: `aEzOqgAAAADRkPnZBr0GbjyFs5l5CXoK`
+Snapshot ID: `aEzOqgAAAABRbQnizN8Gs5Y85W+64rny`

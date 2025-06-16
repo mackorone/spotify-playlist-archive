@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tl6tGvyHMK5cyDc38ZF7I">Fanny Hultman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-124 songs - 6 hr 12 min
+125 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Lägenheten \(Säg till han\)](https://open.spotify.com/track/3VJMWOIZZ3dmsExKbGi7DP) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 2:55 | 2024-01-29 |  |
 | [Mad Woman](https://open.spotify.com/track/6SScgnks6GJUzSDx8BgCEB) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Mad Woman](https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq) | 2:47 | 2024-01-29 | 2024-03-27 |
 | [Mad Woman](https://open.spotify.com/track/5zMvjDWCoNtH3KJZZVYiHf) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ), [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Mad Woman](https://open.spotify.com/album/01XFfAn904bPwUQ8Hgt2fy) | 2:48 | 2024-03-26 |  |
+| [Missing Out](https://open.spotify.com/track/5w1F0iEvlqRHm3uZt9ZejA) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Missing Out](https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0) | 3:02 | 2025-06-15 |  |
 | [My Town](https://open.spotify.com/track/1hJtKCA8sZOoRTYxRKa7Qc) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [My Town](https://open.spotify.com/album/18SfYsQ4uFVYaMVctPDAvX) | 2:46 | 2024-01-29 |  |
 | [Now That I Found You](https://open.spotify.com/track/1HqlMQsDtVUUJnf24eZLRC) | [MARI](https://open.spotify.com/artist/6Qda4oVRMWJl7Ri8ZTCgfq) | [Now That I Found You](https://open.spotify.com/album/5MJwGNYvUTFfCNkL2ZPEtb) | 3:09 | 2024-01-29 |  |
 | [Nowhere](https://open.spotify.com/track/1EfSY6vpLYxpB0Yvzb3kUR) | [Steerner](https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz) | [Nowhere](https://open.spotify.com/album/3wqkLsMBNhwECtY6YWXsIN) | 3:08 | 2024-01-29 |  |

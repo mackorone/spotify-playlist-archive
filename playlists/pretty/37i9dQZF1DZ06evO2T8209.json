@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 712411,
+  "num_followers": 712470,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAD+MSoJ/U4ChJFNgd6FExyI",
+  "snapshot_id": "aEy7gAAAAADCEJphDfHm8jyIW4w2v19r",
   "tracks": [
     {
       "added_at": null,
@@ -975,6 +975,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 230554,
+      "name": "HEAVEN TO ME",
+      "url": "https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 209777,
       "name": "Here We Go\u2026 Again (feat. Tyler, the Creator)",
       "url": "https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
-        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 230554,
-      "name": "HEAVEN TO ME",
-      "url": "https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs"
     }
   ],
   "unique_name": "This Is Tyler, The Creator",

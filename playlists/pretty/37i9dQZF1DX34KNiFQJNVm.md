@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Grelo, Orochi, Luedji Luna e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,103,574 likes - 91 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,103,883 likes - 91 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 90 | [Passo de Avarandar](https://open.spotify.com/track/2iOsmwztOjHeeOVsQLy4Hu) | [Wado](https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo), [Priscila Tossan](https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA), [Janu](https://open.spotify.com/artist/3bQFCFtlZox4Re0AuoFSXk) | [Passo de Avarandar](https://open.spotify.com/album/3vVyPFzoOchyQpCyys1Enw) | 2:34 |
 | 91 | [Dores no Varal](https://open.spotify.com/track/14ZW8MpLMLUesmP4jjZp83) | [Papisa](https://open.spotify.com/artist/0DvW5foWWFUfe8xHEtPtNE) | [Amor Delírio](https://open.spotify.com/album/1mWo6oWDpsphS9RabjVPnu) | 3:37 |
 
-Snapshot ID: `AAAAABBNT6AFqZfWJ24ut4sxJ7pauKdK`
+Snapshot ID: `aExSCQAAAABBYahT3uddi9e1WIhhNJmS`

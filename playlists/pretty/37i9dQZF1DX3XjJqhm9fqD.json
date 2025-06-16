@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Francis Mercier",
-  "num_followers": 96074,
+  "num_followers": 96090,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -1231,30 +1231,6 @@
     {
       "added_at": "2025-04-04 14:00:39",
       "album": {
-        "name": "10 IS IT",
-        "url": "https://open.spotify.com/album/3Un7lXX88umyt0YffFDzAU"
-      },
-      "artists": [
-        {
-          "name": "Master Brain",
-          "url": "https://open.spotify.com/artist/0NP194EnYajZdRa0hBiyQR"
-        },
-        {
-          "name": "Mechanst",
-          "url": "https://open.spotify.com/artist/7nbBRH8kZ28ejxzsltDX2M"
-        },
-        {
-          "name": "Maykimac",
-          "url": "https://open.spotify.com/artist/4v8m8xiWZ9wBAP8jImyiBg"
-        }
-      ],
-      "duration_ms": 229341,
-      "name": "Valide",
-      "url": "https://open.spotify.com/track/3UJqfTCaYTRmfMKAnWbHHP"
-    },
-    {
-      "added_at": "2025-04-04 14:00:39",
-      "album": {
         "name": "Kelly Krow",
         "url": "https://open.spotify.com/album/3EYeR8N7uxBO83LZxaqAXk"
       },
@@ -1287,6 +1263,30 @@
       "duration_ms": 188250,
       "name": "Thug Love",
       "url": "https://open.spotify.com/track/37PRqXgbusYfrUitGoVsKP"
+    },
+    {
+      "added_at": "2025-04-04 14:00:39",
+      "album": {
+        "name": "10 IS IT",
+        "url": "https://open.spotify.com/album/3Un7lXX88umyt0YffFDzAU"
+      },
+      "artists": [
+        {
+          "name": "Master Brain",
+          "url": "https://open.spotify.com/artist/0NP194EnYajZdRa0hBiyQR"
+        },
+        {
+          "name": "Mechanst",
+          "url": "https://open.spotify.com/artist/7nbBRH8kZ28ejxzsltDX2M"
+        },
+        {
+          "name": "Maykimac",
+          "url": "https://open.spotify.com/artist/4v8m8xiWZ9wBAP8jImyiBg"
+        }
+      ],
+      "duration_ms": 229341,
+      "name": "Valide",
+      "url": "https://open.spotify.com/track/3UJqfTCaYTRmfMKAnWbHHP"
     },
     {
       "added_at": "2025-04-04 14:00:39",

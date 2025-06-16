@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,941 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,956 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 43 | [SUSUME \(feat\. NENE & JP THE WAVY\)](https://open.spotify.com/track/7j6oAHpOU0k0sszlMK8ioQ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [SUSUME \(feat\. NENE & JP THE WAVY\)](https://open.spotify.com/album/4zUGmG0XwbpEw67ArG1oFh) | 3:18 |
 | 44 | [Psycho](https://open.spotify.com/track/2IVuU4LByPrwUky12rk3Bw) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3) | [Psycho](https://open.spotify.com/album/5lnX2L4TLYkW4e57oGOdI1) | 2:37 |
 | 45 | [ヤバいな](https://open.spotify.com/track/1acXpvOjQiCDgEkPLPFupe) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [ヤバいな](https://open.spotify.com/album/4vOk4ViilWFM1MUCO94oU8) | 2:29 |
-| 46 | [Rainy Day](https://open.spotify.com/track/3Gd02MdGmacvasxJDXeQNM) | [D3adStock](https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd) | [Rainy Day](https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9) | 1:50 |
-| 47 | [For Real \(feat\. Fuji Taito & SIMON\)](https://open.spotify.com/track/2zxHqRUVGPbngtOWdzwqSE) | [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [Fuji Taito](https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f), [SIMON](https://open.spotify.com/artist/6CcuEcSETRxpybrEt14OSx) | [Type 1 Diabetes](https://open.spotify.com/album/5WGu4r5gfIA5sZeVQGSyg8) | 3:17 |
+| 46 | [For Real \(feat\. Fuji Taito & SIMON\)](https://open.spotify.com/track/2zxHqRUVGPbngtOWdzwqSE) | [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [Fuji Taito](https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f), [SIMON](https://open.spotify.com/artist/6CcuEcSETRxpybrEt14OSx) | [Type 1 Diabetes](https://open.spotify.com/album/5WGu4r5gfIA5sZeVQGSyg8) | 3:17 |
+| 47 | [Rainy Day](https://open.spotify.com/track/3Gd02MdGmacvasxJDXeQNM) | [D3adStock](https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd) | [Rainy Day](https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9) | 1:50 |
 | 48 | [RAKURAI](https://open.spotify.com/track/1w062ZFlKViaWMFkbxJRF3) | [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [GUNJO](https://open.spotify.com/album/4B1SD47qfhR8pDJIPd97V6) | 2:44 |
-| 49 | [FEEL THE RAIN \(feat\. Ralph\)](https://open.spotify.com/track/6ZB93YnsCgJjfxQ6cCwVhS) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [BRAIN RUSH](https://open.spotify.com/album/7mL8jpozxu6trsgcNC76jW) | 3:27 |
-| 50 | [DEATH NOTE](https://open.spotify.com/track/2OCQMg5OLGIMEWHHZcHABc) | [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [Pxrge Trxxxper](https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie), [NEMLAND](https://open.spotify.com/artist/2Sim83TyMbBiQ9m9uh7V6j) | [DEATH NOTE](https://open.spotify.com/album/173yOrrgkqrUFwte1Pd7VW) | 2:54 |
+| 49 | [DEATH NOTE](https://open.spotify.com/track/2OCQMg5OLGIMEWHHZcHABc) | [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [Pxrge Trxxxper](https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie), [NEMLAND](https://open.spotify.com/artist/2Sim83TyMbBiQ9m9uh7V6j) | [DEATH NOTE](https://open.spotify.com/album/173yOrrgkqrUFwte1Pd7VW) | 2:54 |
+| 50 | [FEEL THE RAIN \(feat\. Ralph\)](https://open.spotify.com/track/6ZB93YnsCgJjfxQ6cCwVhS) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [BRAIN RUSH](https://open.spotify.com/album/7mL8jpozxu6trsgcNC76jW) | 3:27 |
 
 Snapshot ID: `aEj+7gAAAAC6iMfm0BE5knoQEX3FfwMb`

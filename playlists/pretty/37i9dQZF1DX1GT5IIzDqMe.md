@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,874 likes - 50 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,898 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 44 | [Telekinesis](https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [The Art of Music](https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm) | 5:20 |
 | 45 | [The Curse Breaker](https://open.spotify.com/track/0cSjUF4T2ETqFaiajbP2Rj) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [The Curse Breaker / What You Need](https://open.spotify.com/album/00kKPJvarQWnQlFqekyvy6) | 3:39 |
 | 46 | [Elements](https://open.spotify.com/track/4aZXoNpqXVZ8tAyoaLNrPh) | [Psyche/BFC](https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw) | [Psyche/BFC \- DELUXE DIGITAL VERSION](https://open.spotify.com/album/505rV6smETxuNFTgRphph7) | 6:51 |
-| 47 | [Desire](https://open.spotify.com/track/0oe3RsEJZRr7XeofKjgvTq) | [69](https://open.spotify.com/artist/7L7l7toWdGA3T1wmFr83sg) | [Legendary Adventures Of A Filter King](https://open.spotify.com/album/6oZag0We7gLZWfWTn6gVW6) | 6:27 |
+| 47 | [A Wonderful Life \- Version](https://open.spotify.com/track/5yXoaywtrfHi1dcoSn69CV) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [The Album Formerly Known As ...](https://open.spotify.com/album/6BP19StMYNWhcV0bv9zAZr) | 6:55 |
 | 48 | [Riod](https://open.spotify.com/track/6v4tA05iYtUZ7N7l2Nd6HD) | [Juan Atkins](https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh), [Moritz Von Oswald](https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q) | [Juan Atkins & Moritz von Oswald Present Borderland: Transport](https://open.spotify.com/album/2qL2XDMFnnmoUWrwUuIEHp) | 9:14 |
 | 49 | [Make Me Laugh](https://open.spotify.com/track/4Xq068QQqtTiuPpiGVfsyA) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [Sounds](https://open.spotify.com/album/6639iZ8oPeMPXZqgh8Vd0V) | 4:33 |
-| 50 | [Tedra](https://open.spotify.com/track/6Au8dwqW17E3rykzOtXzqn) | [Kenny Larkin](https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV) | [Azimuth](https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53) | 5:41 |
+| 50 | [Desire](https://open.spotify.com/track/0oe3RsEJZRr7XeofKjgvTq) | [69](https://open.spotify.com/artist/7L7l7toWdGA3T1wmFr83sg) | [Legendary Adventures Of A Filter King](https://open.spotify.com/album/6oZag0We7gLZWfWTn6gVW6) | 6:27 |
 
 Snapshot ID: `Z5ef8wAAAAC4ZGeunR9EJoO7waDP+8u4`

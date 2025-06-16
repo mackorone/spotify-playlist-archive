@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 23 | [412](https://open.spotify.com/track/4HAUQ35gRU5GS1VuhqlqLw) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 3:54 |
 | 24 | [Winona Ryder](https://open.spotify.com/track/030oADbNg4fbHOKC9UPZqi) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/6ij08Dw2Ec5K8bwgJvxPiI) | 4:14 |
 
-Snapshot ID: `aEtqAAAAAAAKGmbjsxnVpyrQdUcnBssy`
+Snapshot ID: `aEy7gAAAAACPpg4VV00l8Au9uK2FVH1E`

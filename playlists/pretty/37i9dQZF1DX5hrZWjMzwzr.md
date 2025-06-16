@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillery rozdane! Posłuchaj zwycięzców i wszystkich nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,900 likes - 61 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,896 likes - 61 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 32 | [Samolotowy tryb](https://open.spotify.com/track/0wKxfnayyQ1wa9WExvn4qF) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz) | [Samolotowy tryb](https://open.spotify.com/album/37JhQCkxQ23mA2uw349E3h) | 2:40 |
 | 33 | [JZWWZJ](https://open.spotify.com/track/6SHI61VemlOua5StSLM6sL) | [Bonus RPK](https://open.spotify.com/artist/070tdNOiP3pIsGlqNfVkG3), [Czaha](https://open.spotify.com/artist/4QnVEkkzc4FkISFmri44MW), [DJ Gondek](https://open.spotify.com/artist/77rH9w8wnkKGNrKDSAFOsU) | [Życia Weteran](https://open.spotify.com/album/56axY2U9ujBdKqkPz7e07p) | 2:51 |
 | 34 | [INTRODESTRUKCJA](https://open.spotify.com/track/1T4n3A9KWa2Gno5tJlMqwf) | [Macias](https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho), [White Widow](https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0) | [INTRODESTRUKCJA](https://open.spotify.com/album/2Ww21uhTbsK2Z3b6yb9GRA) | 2:14 |
-| 35 | [Offwhite](https://open.spotify.com/track/75rO8VUFuUUsuLmpf1p6rk) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT), [DKanee](https://open.spotify.com/artist/2B1qzhgPVz2eb4M7DxOadz) | [Offwhite](https://open.spotify.com/album/3FhUHjFhhWguRwjfoq68x1) | 2:22 |
+| 35 | [Offwhite](https://open.spotify.com/track/75rO8VUFuUUsuLmpf1p6rk) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT), [DKanee](https://open.spotify.com/artist/4ixbLtejEaAWMmgOxKKew6) | [Offwhite](https://open.spotify.com/album/3FhUHjFhhWguRwjfoq68x1) | 2:22 |
 | 36 | [DRUGI RAZ](https://open.spotify.com/track/1JtzklHvsTQcrpFXfg5eeC) | [Qry](https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy), [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY) | [DRUGI RAZ](https://open.spotify.com/album/7ebpxbXFX2Mk5nw7OrOiAm) | 2:07 |
 | 37 | [LV Parano](https://open.spotify.com/track/6J7a6S2F6yMGVlNIfEq2P6) | [Louis Villain](https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv) | [LV Parano](https://open.spotify.com/album/3ekTeWvVUxFxgFhuVL4fm1) | 2:41 |
 | 38 | [młody gandolfini](https://open.spotify.com/track/3tf8gSdD6Ch9Rz4H2uJKOO) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [młody gandolfini](https://open.spotify.com/album/3hzZqUcymHfXpnuo9Czhig) | 2:32 |

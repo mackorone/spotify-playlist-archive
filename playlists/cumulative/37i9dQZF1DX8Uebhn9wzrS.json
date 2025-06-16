@@ -1769,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "amber hour",
+        "url": "https://open.spotify.com/album/1LNMjVUBDyOuNPxFHvxuos"
+      },
+      "artists": [
+        {
+          "name": "sad notes",
+          "url": "https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "amber hour",
+      "url": "https://open.spotify.com/track/0M7o1CJXykcmyzizdCDV67"
+    },
+    {
+      "album": {
         "name": "amber lights",
         "url": "https://open.spotify.com/album/4AVJJggB3lvbTxNCBQVTng"
       },
@@ -17810,7 +17828,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 134142,
       "name": "I Love You, Girl",
       "url": "https://open.spotify.com/track/36RJxgfJQjSBCb26klkFR4"
@@ -34350,7 +34368,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 121500,
       "name": "Smokin' aces",
       "url": "https://open.spotify.com/track/3GoTqkZ7NxIGy7uBLkeLuR"
@@ -39696,6 +39714,24 @@
       "duration_ms": 120000,
       "name": "Today",
       "url": "https://open.spotify.com/track/5Bk5CBbwikskZagBqfulKH"
+    },
+    {
+      "album": {
+        "name": "toffee creme",
+        "url": "https://open.spotify.com/album/0uYN0O6Tj5TH2Tot2EwlFa"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127359,
+      "name": "toffee creme",
+      "url": "https://open.spotify.com/track/66UVUCBg1weSzPWKvAPo1j"
     },
     {
       "album": {

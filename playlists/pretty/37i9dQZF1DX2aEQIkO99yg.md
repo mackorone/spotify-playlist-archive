@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aEQIkO99yg.md) - [plain]
 
 > El 29 de Septiembre celebramos a la reina\. \#DiaDeShakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,017 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,108 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aEQIkO99yg.md) - [plain]
 | 49 | [Antes de las Seis](https://open.spotify.com/track/5J5uyhoBZxJwmjy2Zg6DgF) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Sale el Sol](https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW) | 2:54 |
 | 50 | [Can't Remember to Forget You \(feat\. Rihanna\)](https://open.spotify.com/track/7o1Pm9jpH0wFpN5g793Lnq) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Shakira\. \(Expanded Edition\) \[Spanish Version\]](https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM) | 3:26 |
 
-Snapshot ID: `Z8YCJAAAAACP+04vmWcceu5eG/ruAkSI`
+Snapshot ID: `AAAAADzm0W97sxmLpAZUmetHtjGQKK9o`

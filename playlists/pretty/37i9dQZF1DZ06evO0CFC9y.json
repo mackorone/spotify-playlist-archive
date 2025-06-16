@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 36591,
+  "num_followers": 36594,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAADrCBzLBWd2+m3JZi5F99Nd",
+  "snapshot_id": "aEy7gAAAAAAuKGjQ05tU02BJt9S4jgrG",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crash Love (Deluxe)",
-        "url": "https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz"
+        "name": "Crash Love",
+        "url": "https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 260760,
-      "name": "Medicate",
-      "url": "https://open.spotify.com/track/42vwak6ZIFMscDhRB3S52z"
+      "duration_ms": 226026,
+      "name": "Beautiful Thieves",
+      "url": "https://open.spotify.com/track/1HZsS7bmZvn3TzCyI0Vs2C"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crash Love",
-        "url": "https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I"
+        "name": "Crash Love (Deluxe)",
+        "url": "https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 226026,
-      "name": "Beautiful Thieves",
-      "url": "https://open.spotify.com/track/1HZsS7bmZvn3TzCyI0Vs2C"
+      "duration_ms": 260760,
+      "name": "Medicate",
+      "url": "https://open.spotify.com/track/42vwak6ZIFMscDhRB3S52z"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burials",
-        "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 241560,
-      "name": "A Deep Slow Panic",
-      "url": "https://open.spotify.com/track/4ihV0ic9h89fhCLdEkH1aE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Answer That And Stay Fashionable",
         "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 72560,
       "name": "I Wanna Get A Mohawk (But Mom Won't Let Me Get One)",
       "url": "https://open.spotify.com/track/1RlIa3ho39v23Bs9tWbrCN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burials",
+        "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 241560,
+      "name": "A Deep Slow Panic",
+      "url": "https://open.spotify.com/track/4ihV0ic9h89fhCLdEkH1aE"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 118800,
-      "name": "Perfect Fit",
-      "url": "https://open.spotify.com/track/4HZOxAJRr86gp0HmyiAUSB"
+      "duration_ms": 140240,
+      "name": "This Secret Ninja",
+      "url": "https://open.spotify.com/track/55O5Cy0aULLS0Gvt4XakVM"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 140240,
-      "name": "This Secret Ninja",
-      "url": "https://open.spotify.com/track/55O5Cy0aULLS0Gvt4XakVM"
+      "duration_ms": 118800,
+      "name": "Perfect Fit",
+      "url": "https://open.spotify.com/track/4HZOxAJRr86gp0HmyiAUSB"
     },
     {
       "added_at": null,

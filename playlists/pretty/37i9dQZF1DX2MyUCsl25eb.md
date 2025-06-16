@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 968,789 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 968,665 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 99 | [Don't Make Sense](https://open.spotify.com/track/1PJiZjIcN08pjgJgKDHqUZ) | [Shannon Lauren Callihan](https://open.spotify.com/artist/4bbW7o78JYMG9yuIZgPXD2) | [Don't Make Sense](https://open.spotify.com/album/3pXvt9PNq59Rl7ZhHrLxOC) | 4:20 |
 | 100 | [Glory](https://open.spotify.com/track/3Ku8Zc9cnCkKwvXs7qErVQ) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Glory](https://open.spotify.com/album/51VWvFuTcJuqfvms0SLXQr) | 2:45 |
 
-Snapshot ID: `aEuieQAAAABxo57wvyQjI86cDytoKcMm`
+Snapshot ID: `AAAAAKGyRqF1/rZimPI6zmAAFueYgYBv`

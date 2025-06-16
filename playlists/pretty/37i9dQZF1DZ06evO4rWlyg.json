@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 145424,
+  "num_followers": 145439,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAC5WTylAuQQ3nP/YXBDghqs",
+  "snapshot_id": "aEy7gAAAAAAPfHz2kwMnYE72BvBx9xVH",
   "tracks": [
     {
       "added_at": null,
@@ -623,22 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fossora",
-        "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
+        "name": "ex:el",
+        "url": "https://open.spotify.com/album/5q3FCcPTqLUT0UkrqMb45z"
       },
       "artists": [
         {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+          "name": "808 State",
+          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
         },
         {
-          "name": "Kasimyn",
-          "url": "https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5"
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 259064,
-      "name": "Fossora",
-      "url": "https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK"
+      "duration_ms": 282013,
+      "name": "Ooops",
+      "url": "https://open.spotify.com/track/1RvhTbg8D5p4dUZSPKA4pK"
     },
     {
       "added_at": null,
@@ -659,22 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ex:el",
-        "url": "https://open.spotify.com/album/5q3FCcPTqLUT0UkrqMb45z"
+        "name": "Fossora",
+        "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
       },
       "artists": [
         {
-          "name": "808 State",
-          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
-        },
-        {
           "name": "Bj\u00f6rk",
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Kasimyn",
+          "url": "https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5"
         }
       ],
-      "duration_ms": 282013,
-      "name": "Ooops",
-      "url": "https://open.spotify.com/track/1RvhTbg8D5p4dUZSPKA4pK"
+      "duration_ms": 259064,
+      "name": "Fossora",
+      "url": "https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK"
     },
     {
       "added_at": null,

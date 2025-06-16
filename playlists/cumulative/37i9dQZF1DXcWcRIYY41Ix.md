@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Silvana Estrada.
 
-845 songs - 2 day 2 hr 18 min
+846 songs - 2 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Agüita del equilibrio](https://open.spotify.com/track/4FHCDi6WjHPYUpoDqsD1VJ) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Agüita del equilibrio](https://open.spotify.com/album/7ofJqkZR4YXfEB4guQ0YD5) | 4:23 | 2024-08-30 |  |
 | [Ahizpa / Germana](https://open.spotify.com/track/0EkOCrrkvCV6Fu47APCj2J) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [IDOIA](https://open.spotify.com/artist/2iq1FxEfislRCbTq8A1GzC) | [Artean](https://open.spotify.com/album/3Kw5RPRLo5h9S1Jd0tKEF8) | 3:17 | 2024-11-11 | 2025-03-08 |
 | [Ahora](https://open.spotify.com/track/3o6rq0a3BsvoIgRvm0Fdcz) | [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez), [Emilia Siede](https://open.spotify.com/artist/6RWlJiSPLshpRuQ6emBMpX) | [1990](https://open.spotify.com/album/4oBEsetdltXNnOMT1t61QU) | 3:56 | 2023-04-28 | 2024-06-22 |
-| [Ahora que no estoy yo](https://open.spotify.com/track/0jIfperi4ijSe3FJocs9i4) | [Víctor Martín](https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN) | [Ahora que no estoy yo](https://open.spotify.com/album/7u64UARMdG0AGgzG1NPGhm) | 3:08 | 2024-10-11 |  |
+| [Ahora que no estoy yo](https://open.spotify.com/track/0jIfperi4ijSe3FJocs9i4) | [Víctor Martín](https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN) | [Ahora que no estoy yo](https://open.spotify.com/album/7u64UARMdG0AGgzG1NPGhm) | 3:08 | 2024-10-11 | 2025-06-16 |
 | [Ahots Hari](https://open.spotify.com/track/3mAJCzd7AfdIedlgA2MDvB) | [Olatz Salvador](https://open.spotify.com/artist/7cV8rrm23yUOT1ZRJFxZxk), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Aho Uhal](https://open.spotify.com/album/65DlBfjz05l7ogPJOi19Sg) | 3:26 | 2021-12-24 | 2023-05-13 |
 | [ahí atrás \(miedo en el mar\)](https://open.spotify.com/track/4xcZZdAB9IZ9mOFrC9cmsL) | [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS) | [ahí atrás \(miedo en el mar\)](https://open.spotify.com/album/0r6JJGfoXpCqOPvGCh9Sup) | 3:53 | 2023-12-01 | 2024-01-13 |
 | [Ahí va la loca](https://open.spotify.com/track/2W3MgCC9NcsnjSYjY9IKGu) | [IRIA M](https://open.spotify.com/artist/03Vw7tyeZfyhZ0lQQQsXAa), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [Ahi va la loca](https://open.spotify.com/album/6TvABeewgd63ktF6OCwYqD) | 3:24 | 2024-06-21 | 2024-06-29 |
@@ -553,6 +553,7 @@
 | [Ojalá](https://open.spotify.com/track/1sEL2I1NRU2GZk5nS4ydxD) | [Faneka](https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo) | [Ojalá](https://open.spotify.com/album/119lk8kg6xyDPTvdlHXq9z) | 4:23 | 2022-11-25 | 2022-12-24 |
 | [Ojitos Grises](https://open.spotify.com/track/3Yd31UDuYwCMU5OFraFcS8) | [Gonzalete](https://open.spotify.com/artist/4SCQ36ne7NXrwaR1bX9yWl) | [Ojitos Míos](https://open.spotify.com/album/0V8a2v7Qq4CDgUoDPKQsSq) | 3:12 | 2023-06-30 | 2023-07-22 |
 | [Ojos De Ajonjolí](https://open.spotify.com/track/4rwTCcE1Rh1xFgC1mORvLg) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Ojos De Ajonjolí](https://open.spotify.com/album/71Rt64ZyeOHkrbbfePG663) | 2:38 | 2025-05-30 |  |
+| [Ojos de Dragón](https://open.spotify.com/track/453vx3wceLm2dE1Z8E6glw) | [Kike M](https://open.spotify.com/artist/03V1FJKRO1ZPrdA8zLxFu9), [Ombligo](https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y) | [Ojos de Dragón](https://open.spotify.com/album/7BaZgUXRH2fFB3ba09wZlk) | 3:21 | 2025-06-12 |  |
 | [Orquesta natural](https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo \(Lado A\)](https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid) | 3:17 | 2021-12-24 | 2024-08-03 |
 | [Oye mi Voz](https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM) | [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [Deshielo](https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ) | 3:41 | 2024-02-16 |  |
 | [Paciencia](https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 2:14 | 2021-12-24 | 2023-12-23 |

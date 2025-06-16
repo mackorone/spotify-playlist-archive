@@ -4,7 +4,7 @@
 
 > Songs that show your dad love and appreciation
 
-80 songs - 5 hr 22 min
+81 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Daddy's Hands](https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66) | [Holly Dunn](https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH) | [Milestones\- Greatest Hits](https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP) | 3:29 | 2021-06-17 |  |
 | [Daddy's Little Girl](https://open.spotify.com/track/2XDxDUxTOMWRoeyl322oG8) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Vintage](https://open.spotify.com/album/0JADWCVegOaq8ECTdGtDPy) | 2:12 | 2022-06-09 | 2024-10-12 |
 | [Daddy's Working Boots](https://open.spotify.com/track/0Tz9aAESK5MHPPmolbrPq2) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [My Tennessee Mountain Home](https://open.spotify.com/album/73GbNR619uJnkCtcgNn45e) | 2:53 | 2021-06-17 | 2022-07-28 |
+| [Dale Jr.](https://open.spotify.com/track/4iBqrjHrqEBafmRe8FstMK) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Dale Jr.](https://open.spotify.com/album/3ieOkLgEJWVADeBeqIXPs1) | 3:35 | 2025-06-13 |  |
 | [Dance Like Yo Daddy](https://open.spotify.com/track/1gBU2sM7nEhp6HZjWHqOg9) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 3:03 | 2021-06-17 | 2022-07-29 |
 | [Dance Like Yo Daddy](https://open.spotify.com/track/6nIMEvZUmWXKp008VsZKDL) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe Version\)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:03 | 2022-06-09 | 2024-04-19 |
 | [Dance With My Father](https://open.spotify.com/track/7snmvZMLdGGk3l9PcvoYSM) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:26 | 2021-06-17 |  |
@@ -85,7 +86,7 @@
 | [Unforgettable](https://open.spotify.com/track/5h1mm1R9Jy531CbvptILX7) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Unforgettable Nat King Cole \(Remastered\)](https://open.spotify.com/album/4GTwzXDzczrmF67glcuNxt) | 3:28 | 2021-06-17 | 2022-07-29 |
 | [Unforgettable](https://open.spotify.com/track/2MVQbDuhVs2muWFURtIdNb) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable: With Love](https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0) | 3:30 | 2022-06-09 | 2024-04-19 |
 | [When She Grows Up](https://open.spotify.com/track/44Fg7XesYHN9RIpg6oggLk) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [Never Regret](https://open.spotify.com/album/0iRTiQTZCcXvL4kd1lfk7X) | 3:50 | 2022-06-09 |  |
-| [Winter](https://open.spotify.com/track/69mhMyy8rxYKGfPpr9wesT) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes](https://open.spotify.com/album/1pFUGy3ABpLRRE3oNMPbDb) | 5:42 | 2022-06-09 |  |
+| [Winter](https://open.spotify.com/track/69mhMyy8rxYKGfPpr9wesT) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes](https://open.spotify.com/album/1pFUGy3ABpLRRE3oNMPbDb) | 5:42 | 2022-06-09 | 2025-06-16 |
 | [Winter \- 2015 Remaster](https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes \(Deluxe Edition\)](https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE) | 5:41 | 2021-06-17 | 2025-06-12 |
 | [You Should Be Here](https://open.spotify.com/track/63thx7OANplv4I4BQsanHk) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [You Should Be Here](https://open.spotify.com/album/7EZEhfO3ULNRHwX2jaiGei) | 3:10 | 2023-05-31 |  |
 

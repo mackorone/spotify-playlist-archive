@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 34626,
+  "num_followers": 34693,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAABLm6WyxS4hauTV2Y3xJtfT",
+  "snapshot_id": "aEy7gAAAAAAi81duBFi1bObLpu+9JSm9",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 275582,
+      "name": "Just for Me",
+      "url": "https://open.spotify.com/track/37llIA4HTMvM3IvZUVbbC0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Rebirth Of Kirk Franklin (Live)",
         "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
       },
@@ -527,38 +543,6 @@
       "duration_ms": 368560,
       "name": "Don't Cry - Live at Lakewood Church, Houston, TX - June 16, 2000",
       "url": "https://open.spotify.com/track/7H9ye7JTsRRlOFeOOlb1v6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Losing My Religion",
-        "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "123 Victory",
-      "url": "https://open.spotify.com/track/0hDTfFE4QECNZAuVTkcGLH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 275582,
-      "name": "Just for Me",
-      "url": "https://open.spotify.com/track/37llIA4HTMvM3IvZUVbbC0"
     },
     {
       "added_at": null,
@@ -587,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Restoration",
-        "url": "https://open.spotify.com/album/406YMcI7NSxhTbhvxkfu2H"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 241988,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/1bO3GYFQ1ZPXHa1EUtKJlt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Losing My Religion",
         "url": "https://open.spotify.com/album/0Uvc0XDk2O8KsPIsMMdasM"
       },
@@ -631,6 +595,26 @@
       "duration_ms": 423106,
       "name": "My World Needs You (feat. Sarah Reeves, Tasha Cobbs & Tamela Mann)",
       "url": "https://open.spotify.com/track/0GRRDzyfiF5dQU1ZpC4Ftk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Restoration",
+        "url": "https://open.spotify.com/album/406YMcI7NSxhTbhvxkfu2H"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 241988,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/1bO3GYFQ1ZPXHa1EUtKJlt"
     },
     {
       "added_at": null,
@@ -671,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "123 Victory",
+      "url": "https://open.spotify.com/track/0hDTfFE4QECNZAuVTkcGLH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Citizen of Heaven",
         "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kirk Franklin and the Family",
-        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 292040,
-      "name": "Silver and Gold - Live",
-      "url": "https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hello Fear",
         "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 388586,
       "name": "Give Me (feat. Mali Music)",
       "url": "https://open.spotify.com/track/5vY1TilwK6G4k5j5gejOV1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kirk Franklin and the Family",
+        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 292040,
+      "name": "Silver and Gold - Live",
+      "url": "https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rebirth Of Kirk Franklin (Live)",
-        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 404600,
-      "name": "Always - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/3loaCZ2ZeolNXvrxmB3RaJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hello Fear",
         "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 263973,
       "name": "Before I Die",
       "url": "https://open.spotify.com/track/7m2iK1UP3anMfXwP3Oc5gF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rebirth Of Kirk Franklin (Live)",
+        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 404600,
+      "name": "Always - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/3loaCZ2ZeolNXvrxmB3RaJ"
     },
     {
       "added_at": null,
@@ -847,38 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Father's Day",
-        "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        },
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        },
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 374780,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hello Fear",
         "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
       },
@@ -907,6 +875,38 @@
       "duration_ms": 336773,
       "name": "Something About The Name Jesus Pt. 2 (feat. Rance Allen, Marvin Winans, John P. Kee & Isaac Carree)",
       "url": "https://open.spotify.com/track/3JELE0SCT2f9Wfg31OkhOG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Father's Day",
+        "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 374780,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5"
     },
     {
       "added_at": null,

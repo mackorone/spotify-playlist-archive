@@ -4,7 +4,7 @@
 
 > a strictly smooth mood...cover:
 
-245 songs - 12 hr 54 min
+246 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Do it up](https://open.spotify.com/track/4py6nUdXXfh4yLUKOE4Kq9) | [Lukan Raisey](https://open.spotify.com/artist/0bwxbNKufvEMi1wcb5dkMR) | [Do it up](https://open.spotify.com/album/4x0sb9xWRqniuqGA07xz7j) | 3:30 | 2024-03-14 | 2024-10-05 |
 | [Do You Want Love](https://open.spotify.com/track/5Tg4prCXiO6PDWB30nSXH1) | [RENZI](https://open.spotify.com/artist/6vmhMeXBCSMtkCEcDD8Wmk) | [Do You Want Love](https://open.spotify.com/album/5JHBoa635NgUlhgCe29aen) | 3:26 | 2024-03-14 | 2024-07-30 |
 | [Double Standards \(feat\. Sampha\)](https://open.spotify.com/track/0eAXtuToazVgRJvKn8Rln9) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Double Standards \(feat\. Sampha\)](https://open.spotify.com/album/7tHZxQL7iGN8iFGMYqHA8i) | 5:01 | 2024-03-14 | 2024-10-05 |
-| [DOWN BAD](https://open.spotify.com/track/6V2GsxdsoC7s81pD0ZMyi6) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [DOWN BAD](https://open.spotify.com/album/7vACZGvCij77fUPfSi54TC) | 2:12 | 2025-04-29 |  |
+| [DOWN BAD](https://open.spotify.com/track/1AuR5buU0B3Bs6iQLo1sFg) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [FROM FLORIDA'S FINEST](https://open.spotify.com/album/0IUPaZBHVn7qc22l3cvR2q) | 2:12 | 2025-06-16 |  |
+| [DOWN BAD](https://open.spotify.com/track/6V2GsxdsoC7s81pD0ZMyi6) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [DOWN BAD](https://open.spotify.com/album/7vACZGvCij77fUPfSi54TC) | 2:12 | 2025-04-29 | 2025-06-16 |
 | [Dreamin](https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Dreamin](https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd) | 2:27 | 2025-04-29 |  |
 | [DSYL](https://open.spotify.com/track/42sXr2c3Y0fJQE5jEiR71e) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [DSYL](https://open.spotify.com/album/4uXeEFRpCSomXbXwGyxfhV) | 2:47 | 2024-03-14 | 2024-10-05 |
 | [DTB](https://open.spotify.com/track/4ydiRNXIuhD1ehRpUpdcLw) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [DTB](https://open.spotify.com/album/7icXXSu17oor9WIvME1txz) | 2:15 | 2024-03-14 | 2024-07-30 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Angelique Kidjo. The essential tracks, all in one playlist.",
-  "num_followers": 14670,
+  "num_followers": 14672,
   "original_name": "This Is Angelique Kidjo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAAG8KO5a0MxscS2kEtZamYC",
+  "snapshot_id": "aEy7gAAAAAD4h4oqV+Rfqd00MqWdVSkp",
   "tracks": [
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/7pR9BKlxr6IlLhkf4Oc1eB"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 253373,
+      "name": "Olofoofo",
+      "url": "https://open.spotify.com/track/394xrmhtbDhnh682wbPJgk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shadow",
         "url": "https://open.spotify.com/album/1bm8lycQzE0Hx7w0dgPOKW"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 394640,
       "name": "Sparrow (feat. Angelique Kidjo)",
       "url": "https://open.spotify.com/track/324kvzJnO81wfCvR5eHAL8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Ivory Soul",
-        "url": "https://open.spotify.com/album/7pR9BKlxr6IlLhkf4Oc1eB"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 253373,
-      "name": "Olofoofo",
-      "url": "https://open.spotify.com/track/394xrmhtbDhnh682wbPJgk"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 134693,
+      "name": "Ces Petits Riens",
+      "url": "https://open.spotify.com/track/6oprRIQ5Vis7NXtJUPIQ3w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mother Nature",
         "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 242906,
       "name": "Do Yourself",
       "url": "https://open.spotify.com/track/2yNfqf0Sty6D2INZFohjHc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Ivory Soul",
-        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 134693,
-      "name": "Ces Petits Riens",
-      "url": "https://open.spotify.com/track/6oprRIQ5Vis7NXtJUPIQ3w"
     },
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunlight to My Soul",
-        "url": "https://open.spotify.com/album/17lav51JaQFr582kgXg007"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Soweto Gospel Choir",
-          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
-        }
-      ],
-      "duration_ms": 205797,
-      "name": "Sunlight to My Soul",
-      "url": "https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Ivory Soul",
         "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 329189,
       "name": "JERUSALEMA",
       "url": "https://open.spotify.com/track/0HcxM7O49XgSNbWVn5C8vi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunlight to My Soul",
+        "url": "https://open.spotify.com/album/17lav51JaQFr582kgXg007"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        }
+      ],
+      "duration_ms": 205797,
+      "name": "Sunlight to My Soul",
+      "url": "https://open.spotify.com/track/21SCoFAQJjWMGKB1cml4v8"
     },
     {
       "added_at": null,
@@ -1003,26 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aida",
-        "url": "https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 312093,
-      "name": "Easy As Life",
-      "url": "https://open.spotify.com/track/3XZfPLynSWvy4RopQIuTkM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quanto Mais Curtido Melhor",
         "url": "https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 221573,
       "name": "Africa Nangadef",
       "url": "https://open.spotify.com/track/1bcdYsNISTkYpnbuAXp9Le"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aida",
+        "url": "https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 312093,
+      "name": "Easy As Life",
+      "url": "https://open.spotify.com/track/3XZfPLynSWvy4RopQIuTkM"
     },
     {
       "added_at": null,
@@ -1123,22 +1123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mother Nature",
-        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "Mother Nature",
-      "url": "https://open.spotify.com/track/09UiY7Lj5ircmWblcX2sF6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Ivory Soul",
         "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 226826,
       "name": "Iwoya (feat. Dave Matthews)",
       "url": "https://open.spotify.com/track/69Fn1hfYXOe8qJxqzsl9gE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "Mother Nature",
+      "url": "https://open.spotify.com/track/09UiY7Lj5ircmWblcX2sF6"
     }
   ],
   "unique_name": "This Is Angelique Kidjo",

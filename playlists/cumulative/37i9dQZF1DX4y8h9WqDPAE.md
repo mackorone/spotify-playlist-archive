@@ -4,7 +4,7 @@
 
 > Where R&B meets Hip\-Hop, Pop, Afrobeats and everything in between !  Cover: CKAY
 
-1,069 songs - 2 day 7 hr 24 min
+1,070 songs - 2 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -563,7 +563,7 @@
 | [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2022-12-09 | 2024-08-17 |
 | [Low Waist](https://open.spotify.com/track/5rb99A8aR2scVXSLIbLAft) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Low Waist](https://open.spotify.com/album/48xKnLRBNSajT7mcP4zdTb) | 3:01 | 2023-09-29 | 2024-03-16 |
 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2024-11-22 |  |
-| [LUV IN DA 6 \(with Smino\)](https://open.spotify.com/track/5rt9HY56cN2Ke1vLCLQEpz) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [WONDERLOVE](https://open.spotify.com/album/762bn51AK5BKS70aJnvgc9) | 3:04 | 2025-02-07 |  |
+| [LUV IN DA 6 \(with Smino\)](https://open.spotify.com/track/5rt9HY56cN2Ke1vLCLQEpz) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [WONDERLOVE](https://open.spotify.com/album/762bn51AK5BKS70aJnvgc9) | 3:04 | 2025-02-07 | 2025-06-16 |
 | [Mad Apology](https://open.spotify.com/track/4rl3QSAy9yZ0n6yc0vLQF0) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Anger Management](https://open.spotify.com/album/3wI3YjXudpkiPQLQUNEyU4) | 3:00 | 2023-06-09 | 2023-11-11 |
 | [Mad Apology \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/22Z5ZlYSSMaxL1JsXsaDmx) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Anger Management: At LEasT wE tRIED](https://open.spotify.com/album/4qAZzIQ2VtbxCRsBvaJaNX) | 3:00 | 2023-11-10 | 2024-02-10 |
 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 | 2024-01-26 | 2024-05-25 |
@@ -895,6 +895,7 @@
 | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/album/7gZSlFN7JLTjoBMEmApXHk) | 4:53 | 2022-07-15 | 2022-09-24 |
 | [Superpowers](https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 2:54 | 2024-01-19 | 2024-11-02 |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2023-01-13 | 2023-09-30 |
+| [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 | 2025-06-13 |  |
 | [Suzette](https://open.spotify.com/track/7gEuNBqXluQqu0LJXyHxeV) | [Nami](https://open.spotify.com/artist/5wIkfOCGLMGSeYTC0F9gdq) | [Suzette](https://open.spotify.com/album/10XllZTnTF12lcSuRERcrm) | 2:43 | 2025-03-14 | 2025-05-10 |
 | [swag it! \- Remix](https://open.spotify.com/track/5TH16toxd8LXyTKr35zQja) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [swag it! \(Remix\)](https://open.spotify.com/album/7KjmXSpjjhHctk0eyQNNEB) | 3:11 | 2024-05-17 | 2024-06-08 |
 | [Sweat](https://open.spotify.com/track/3wdbGER9TIbNeCXfOD2CTr) | [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Sweat](https://open.spotify.com/album/5vBlJU3wNcLv9Pobuzk988) | 2:00 | 2024-05-31 | 2024-08-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: ITZY\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,756 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,847 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 99 | [wing](https://open.spotify.com/track/0p4OOOcnvqlAeg4ZC1hpKG) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [wing](https://open.spotify.com/album/6spb6NqhJ6knea1WA151WV) | 2:53 |
 | 100 | [In Wandering Times](https://open.spotify.com/track/1Xp2RUcUO2hFbLZYZhxaw7) | [Far East Asian Tigers](https://open.spotify.com/artist/6GUWxio3LfJjV8DyH6RXEM) | [In Wandering Times](https://open.spotify.com/album/6KbgLgiYukU9vp9rOdt7ri) | 3:41 |
 
-Snapshot ID: `aEvqFAAAAACelSXjUoGj0EKALU9gcXkw`
+Snapshot ID: `aEvqFAAAAAAwbdNtSrUn9bsl7j32Lpfh`

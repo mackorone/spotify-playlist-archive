@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from the winners and nominees of the 82nd Golden Globe Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,375 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,377 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 30 | [Memoir of a Snail](https://open.spotify.com/track/6JLSDSyBfFWP1QWLBNB9kz) | [Australian Chamber Orchestra](https://open.spotify.com/artist/694yYA2tOpl9qHCdzwkISn), [Jane Sheldon](https://open.spotify.com/artist/1DL5xJ97sRiNgi90l8FHGq), [Elena Kats\-Chernin](https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk) | [Memoir of a Snail \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1H8bD3MLvHXILLndloghYL) | 1:30 |
 | 31 | [Scherzo for a Flightless Bird \(The Penguin Theme\)](https://open.spotify.com/track/2OmmOXE9y2XeMP8EaLcn8v) | [Mick Giacchino](https://open.spotify.com/artist/4E0UqUr5zm3CltCdkaKaV0) | [The Penguin \(Soundtrack from the HBO® Original Series\) \[Expanded Edition\]](https://open.spotify.com/album/3Iqpj3lrnfMLOwL0FuxXaM) | 3:14 |
 | 32 | [No Use](https://open.spotify.com/track/2lefkt1rVzH99r5nxMG1Dj) | [John Hawkes](https://open.spotify.com/artist/0HM33x7ygNCjJ5Pr32Z65J) | [True Detective: Night Country \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/0YYtxCRIwJ7whWUZoSBtqL) | 2:30 |
-| 33 | [MacArthur Park \- Single Version](https://open.spotify.com/track/438FjmTQD9khZWN5tGGHSg) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Beetlejuice Beetlejuice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63PDHCTMl5YxaqmbdQ66jj) | 3:55 |
-| 34 | [The Chrysalis](https://open.spotify.com/track/2aUTiExslj9SGVRwZyh5VG) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Alien: Romulus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3ATIqlNEKrhahipc3NiBqt) | 2:38 |
+| 33 | [The Chrysalis](https://open.spotify.com/track/2aUTiExslj9SGVRwZyh5VG) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Alien: Romulus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3ATIqlNEKrhahipc3NiBqt) | 2:38 |
+| 34 | [MacArthur Park \- Single Version](https://open.spotify.com/track/438FjmTQD9khZWN5tGGHSg) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Beetlejuice Beetlejuice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63PDHCTMl5YxaqmbdQ66jj) | 3:55 |
 | 35 | [Leaving Darrien](https://open.spotify.com/track/5Ebf43ulRIpMHSaWzSIIZL) | [Evgueni Galperine](https://open.spotify.com/artist/6wUwrf6CPtVdxhMX8TejqM), [Sacha Galperine](https://open.spotify.com/artist/4rhbbNkUATyvGiYxGMmx7H) | [Baby Reindeer \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1mO7Kknfl075sdQfCQ4ixh) | 2:43 |
 | 36 | [Sweet Dreams \(Are Made of This\) \- 2005 Remaster](https://open.spotify.com/track/6CENME8R9Eu4zkV8qIQVPI) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Kinds of Kindness \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0VRgQLW4xwRHBkOXpd3YAJ) | 3:39 |
 | 37 | [Grown Into](https://open.spotify.com/track/6LfeM2dBS486SVKneSCH3Z) | [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Nickel Boys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6pAGYJhh68vHdZFUCezwKM) | 2:35 |

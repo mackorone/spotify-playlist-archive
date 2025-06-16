@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLc3c.md) - [plain]
 
 > This is Patti Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,603 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,616 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,32 +19,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLc3c.md) - [plain]
 | 9 | [Wing](https://open.spotify.com/track/3CKLNsnMOpi4yPZepcHDth) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/00Oaqp3cDVtauWepC7cXfZ) | 4:53 |
 | 10 | [We Three](https://open.spotify.com/track/62qEv00qkhGyQdwVzeyXsC) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 4:18 |
 | 11 | [Free Money](https://open.spotify.com/track/1wP1qnWy0cZWxnbWkzf9La) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 3:52 |
-| 12 | [Pastime Paradise](https://open.spotify.com/track/3aT5zZz6FEtWAGDRJy7t8j) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta) | 5:24 |
+| 12 | [So You Want to Be](https://open.spotify.com/track/5dZDQPiC2PGom8Q8pEqKgW) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 4:20 |
 | 13 | [Dead To The World](https://open.spotify.com/track/4mJvTXNFDhmUkUIpokZ314) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/00Oaqp3cDVtauWepC7cXfZ) | 4:17 |
-| 14 | [Going Under](https://open.spotify.com/track/3ROjEAi1WPAPwFds429NTX) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/7BoH01CP0QBbx1wFQmwr7g) | 5:59 |
-| 15 | [So You Want to Be](https://open.spotify.com/track/5dZDQPiC2PGom8Q8pEqKgW) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 4:20 |
+| 14 | [Pastime Paradise](https://open.spotify.com/track/3aT5zZz6FEtWAGDRJy7t8j) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta) | 5:24 |
+| 15 | [Looking for You \(I Was\)](https://open.spotify.com/track/7F99ZydjXEoAwCQ2XmAeT6) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/7BoH01CP0QBbx1wFQmwr7g) | 4:07 |
 | 16 | [Privilege \(Set Me Free\)](https://open.spotify.com/track/7enBcpQhj0zPppIMLUyMC7) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 3:32 |
-| 17 | [Ravens](https://open.spotify.com/track/2Lw1gLVw4vX1hTgDIEmqlt) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/00Oaqp3cDVtauWepC7cXfZ) | 3:57 |
-| 18 | [Looking for You \(I Was\)](https://open.spotify.com/track/7F99ZydjXEoAwCQ2XmAeT6) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/7BoH01CP0QBbx1wFQmwr7g) | 4:07 |
-| 19 | [Pissing In a River](https://open.spotify.com/track/5UYo2NoLUzBlP09NGJRGsc) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Radio Ethiopia](https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu) | 4:52 |
+| 17 | [About a Boy](https://open.spotify.com/track/0HdfLwXZOHeUUcO2maelzV) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/00Oaqp3cDVtauWepC7cXfZ) | 8:17 |
+| 18 | [Pissing In a River](https://open.spotify.com/track/5UYo2NoLUzBlP09NGJRGsc) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Radio Ethiopia](https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu) | 4:52 |
+| 19 | [Going Under](https://open.spotify.com/track/3ROjEAi1WPAPwFds429NTX) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/7BoH01CP0QBbx1wFQmwr7g) | 5:59 |
 | 20 | [Land: Horses / Land of a Thousand Dances / La Mer\(de\)](https://open.spotify.com/track/0KkXMzaRaXL8AyChkWbYCx) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 9:25 |
-| 21 | [Wicked Messenger](https://open.spotify.com/track/2CKlx0XM0zACsOfl3SWE2w) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/00Oaqp3cDVtauWepC7cXfZ) | 3:48 |
-| 22 | [Up There Down There](https://open.spotify.com/track/3G1qf3HSMxuTpOrTfh3TPt) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/7BoH01CP0QBbx1wFQmwr7g) | 4:50 |
-| 23 | [Changing of the Guards](https://open.spotify.com/track/2NUDgu1fFrFHSKda4IErpr) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta) | 5:45 |
+| 21 | [Ravens](https://open.spotify.com/track/2Lw1gLVw4vX1hTgDIEmqlt) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/00Oaqp3cDVtauWepC7cXfZ) | 3:57 |
+| 22 | [Changing of the Guards](https://open.spotify.com/track/2NUDgu1fFrFHSKda4IErpr) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta) | 5:45 |
+| 23 | [Up There Down There](https://open.spotify.com/track/3G1qf3HSMxuTpOrTfh3TPt) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/7BoH01CP0QBbx1wFQmwr7g) | 4:50 |
 | 24 | [Kimberly](https://open.spotify.com/track/0iI8LriXKjg47IxjNCWuwz) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 4:25 |
-| 25 | [About a Boy](https://open.spotify.com/track/0HdfLwXZOHeUUcO2maelzV) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/00Oaqp3cDVtauWepC7cXfZ) | 8:17 |
-| 26 | [Where Duty Calls](https://open.spotify.com/track/3kdwpUPHqdjUJwkYUUaHSI) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/7BoH01CP0QBbx1wFQmwr7g) | 7:48 |
-| 27 | [25th Floor](https://open.spotify.com/track/4juJw163tH0zGCptRcoTM4) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 4:03 |
+| 25 | [Wicked Messenger](https://open.spotify.com/track/2CKlx0XM0zACsOfl3SWE2w) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/00Oaqp3cDVtauWepC7cXfZ) | 3:48 |
+| 26 | [25th Floor](https://open.spotify.com/track/4juJw163tH0zGCptRcoTM4) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 4:03 |
+| 27 | [The Jackson Song](https://open.spotify.com/track/6Ijgxl0HgCMHqB4gae0T1x) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/7BoH01CP0QBbx1wFQmwr7g) | 5:31 |
 | 28 | [Everybody Wants to Rule the World](https://open.spotify.com/track/4LXwDXCJnTPoWexw3BJFVZ) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta) | 4:03 |
-| 29 | [Gone Again](https://open.spotify.com/track/2awElNTUMbC5jmiNSIoxEM) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/00Oaqp3cDVtauWepC7cXfZ) | 3:16 |
-| 30 | [The Jackson Song](https://open.spotify.com/track/6Ijgxl0HgCMHqB4gae0T1x) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/7BoH01CP0QBbx1wFQmwr7g) | 5:31 |
-| 31 | [Ghost Dance](https://open.spotify.com/track/3JRoZqOoTuQu6pI1prK7QC) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 4:43 |
+| 29 | [My Madrigal](https://open.spotify.com/track/71hxmZWsasa71twZ6Mn93Y) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/00Oaqp3cDVtauWepC7cXfZ) | 5:09 |
+| 30 | [Ghost Dance](https://open.spotify.com/track/3JRoZqOoTuQu6pI1prK7QC) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 4:43 |
+| 31 | [Where Duty Calls](https://open.spotify.com/track/3kdwpUPHqdjUJwkYUUaHSI) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/7BoH01CP0QBbx1wFQmwr7g) | 7:48 |
 | 32 | [Gimme Shelter](https://open.spotify.com/track/1ENXYUosf6ifDYaIAj2trr) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta) | 4:58 |
 | 33 | [April Fool](https://open.spotify.com/track/53eJ84ALjlKpU2A2OpohCN) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Banga](https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA) | 3:47 |
 | 34 | [Ask the Angels](https://open.spotify.com/track/6BmAr1i0Jnk8ztzRVQHyEi) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Radio Ethiopia](https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu) | 3:09 |
 | 35 | [Piss Factory](https://open.spotify.com/track/5KLKSxNQQqg8hOaHVqEwuk) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Hey Joe / Piss Factory](https://open.spotify.com/album/6fPPFPRXxoXNCc3LaotmQM) | 4:41 |
-| 36 | [Revenge](https://open.spotify.com/track/00QrHgrVlYOsleK3Vb62OJ) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 5:04 |
-| 37 | [Space Monkey](https://open.spotify.com/track/6rH42cutB9ZnEmTwgFY6tq) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 4:08 |
+| 36 | [Till Victory](https://open.spotify.com/track/0ykdasEHKPJbVFYUibtaap) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 2:47 |
+| 37 | [Revenge](https://open.spotify.com/track/00QrHgrVlYOsleK3Vb62OJ) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 5:04 |
 | 38 | [After the Gold Rush](https://open.spotify.com/track/6aqJhVpN3T3n2SppOM0Vh5) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Banga](https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA) | 4:13 |
 | 39 | [Mother Rose](https://open.spotify.com/track/5MCHIUiEjVJKuKxoMgLVZe) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Trampin'](https://open.spotify.com/album/3od0OdWDIIO8fF9Plb8Qiu) | 4:56 |
 | 40 | [Pumping](https://open.spotify.com/track/49TDyRgRbpvpDOZJOslDlh) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Radio Ethiopia](https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLc3c.md) - [plain]
 | 49 | [Glitter In Their Eyes](https://open.spotify.com/track/3XGLnUh9XzH1KiAobnpzsv) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gung Ho](https://open.spotify.com/album/6H6ntLDDo8dC7dHKg1UYSE) | 3:03 |
 | 50 | [This Is the Girl](https://open.spotify.com/track/3aDLTIgOoi21boHt8KXIKB) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Banga](https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA) | 3:49 |
 
-Snapshot ID: `aEtqAAAAAAAUrVDJoOnwUkqxXLBYFs8o`
+Snapshot ID: `aEy7gAAAAACACtahH/jeoWAiHx2wPP3x`

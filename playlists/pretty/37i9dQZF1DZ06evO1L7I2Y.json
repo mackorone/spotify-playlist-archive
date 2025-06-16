@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3346,
+  "num_followers": 3345,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAAvMU9230AUD1H3M3VhxIAK",
+  "snapshot_id": "aEy7gAAAAADNmHHb2+0NvrdxqtDo24A/",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NOVA ERA",
+        "url": "https://open.spotify.com/album/122yRf2xz5FT2ua5Vbv3tp"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Tanto Faz",
+      "url": "https://open.spotify.com/track/05EOQ6Cmgb8tSFkKI4vesG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set Ajc",
         "url": "https://open.spotify.com/album/3DymWr7vqMdUQbX7ko9OFh"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 343399,
       "name": "Set Ajc",
       "url": "https://open.spotify.com/track/4Rm0KWTctjT6Fw0yny87Gq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NOVA ERA",
-        "url": "https://open.spotify.com/album/122yRf2xz5FT2ua5Vbv3tp"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Tanto Faz",
-      "url": "https://open.spotify.com/track/05EOQ6Cmgb8tSFkKI4vesG"
     },
     {
       "added_at": null,
@@ -739,30 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FUTURO III",
-        "url": "https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR"
-      },
-      "artists": [
-        {
-          "name": "Attlanta",
-          "url": "https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Ogrand",
-          "url": "https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe"
-        }
-      ],
-      "duration_ms": 139591,
-      "name": "VIM DE L\u00c1",
-      "url": "https://open.spotify.com/track/48e962A7BqrinOw2mWYpxD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "40\u02da.40",
         "url": "https://open.spotify.com/album/0IDVpLdT6AbMirnZPpRcz2"
       },
@@ -783,6 +759,30 @@
       "duration_ms": 159455,
       "name": "Stop Time",
       "url": "https://open.spotify.com/track/6kQ5atus6GiOG3c1ggFWbw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FUTURO III",
+        "url": "https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR"
+      },
+      "artists": [
+        {
+          "name": "Attlanta",
+          "url": "https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Ogrand",
+          "url": "https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe"
+        }
+      ],
+      "duration_ms": 139591,
+      "name": "VIM DE L\u00c1",
+      "url": "https://open.spotify.com/track/48e962A7BqrinOw2mWYpxD"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,452 likes - 215 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,490 likes - 215 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 | 214 | [Streets](https://open.spotify.com/track/4IGA2hFfOSJSw0gScaNCw6) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Here And Now \(Deluxe\)](https://open.spotify.com/album/1KElY4EWWoOIQeYfpUbJrM) | 5:05 |
 | 215 | [Here On Earth](https://open.spotify.com/track/0iMtc3As4fLUymohJSVjw8) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth](https://open.spotify.com/album/7haZ3eXsSFhEjG6kL2kRx8) | 4:21 |
 
-Snapshot ID: `aB19zAAAAAAv1a6OE4AECjgz+ZSiRvHn`
+Snapshot ID: `aB19zAAAAAD4kkZGuDwCcGGa+5ZCH93F`

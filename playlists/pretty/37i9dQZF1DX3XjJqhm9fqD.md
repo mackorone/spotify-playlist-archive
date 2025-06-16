@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Francis Mercier
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,074 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,090 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 62 | [Guava](https://open.spotify.com/track/1soIICX1Bwkc6pluVZoEkd) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [TRANSITIONS EP](https://open.spotify.com/album/6q5DmoPZ6JpH0NMvNQ6rM1) | 2:50 |
 | 63 | [2 Gouden](https://open.spotify.com/track/2VcVmSWadOf4SMGBB2abov) | [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [2 Gouden](https://open.spotify.com/album/2tpKEaCwrm618xsJngj0Og) | 3:49 |
 | 64 | [A.k.i.ko.](https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu) | [Emeline Michel](https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r) | [The Very Best](https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb) | 4:51 |
-| 65 | [Valide](https://open.spotify.com/track/3UJqfTCaYTRmfMKAnWbHHP) | [Master Brain](https://open.spotify.com/artist/0NP194EnYajZdRa0hBiyQR), [Mechanst](https://open.spotify.com/artist/7nbBRH8kZ28ejxzsltDX2M), [Maykimac](https://open.spotify.com/artist/4v8m8xiWZ9wBAP8jImyiBg) | [10 IS IT](https://open.spotify.com/album/3Un7lXX88umyt0YffFDzAU) | 3:49 |
-| 66 | [Sal Vle](https://open.spotify.com/track/1fGEwTxAB5Q4bgtPQL47rm) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Mozart Louis](https://open.spotify.com/artist/1IgFh9pBdbDBFgaSn91oul) | [Kelly Krow](https://open.spotify.com/album/3EYeR8N7uxBO83LZxaqAXk) | 4:30 |
-| 67 | [Thug Love](https://open.spotify.com/track/37PRqXgbusYfrUitGoVsKP) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Thug Love](https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5) | 3:08 |
+| 65 | [Sal Vle](https://open.spotify.com/track/1fGEwTxAB5Q4bgtPQL47rm) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Mozart Louis](https://open.spotify.com/artist/1IgFh9pBdbDBFgaSn91oul) | [Kelly Krow](https://open.spotify.com/album/3EYeR8N7uxBO83LZxaqAXk) | 4:30 |
+| 66 | [Thug Love](https://open.spotify.com/track/37PRqXgbusYfrUitGoVsKP) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Thug Love](https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5) | 3:08 |
+| 67 | [Valide](https://open.spotify.com/track/3UJqfTCaYTRmfMKAnWbHHP) | [Master Brain](https://open.spotify.com/artist/0NP194EnYajZdRa0hBiyQR), [Mechanst](https://open.spotify.com/artist/7nbBRH8kZ28ejxzsltDX2M), [Maykimac](https://open.spotify.com/artist/4v8m8xiWZ9wBAP8jImyiBg) | [10 IS IT](https://open.spotify.com/album/3Un7lXX88umyt0YffFDzAU) | 3:49 |
 | 68 | [Premye Fwa](https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs) | [DANOLA](https://open.spotify.com/artist/3X5IOZ3uAV3ClZg7hkeU7y) | [Premye Fwa](https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB) | 3:09 |
 | 69 | [Flanm](https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ) | [Emeline Michel](https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r) | [The Very Best](https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb) | 4:46 |
 | 70 | [Destine](https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7) | [Fatima Altieri](https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk), [Jmd Tunes](https://open.spotify.com/artist/0W43bPKlWhooocqSrhzTXj) | [Destine](https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2) | 3:31 |

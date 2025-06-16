@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 370711,
+  "num_followers": 370769,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
-        "name": "improvisation",
-        "url": "https://open.spotify.com/album/6YN6hrmHvrLewiHT4h7tRD"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 137775,
-      "name": "improvisation",
-      "url": "https://open.spotify.com/track/1BmSnDPeEgtI9lYp4resjj"
-    },
-    {
-      "added_at": "2025-06-03 16:40:22",
-      "album": {
         "name": "C. Schumann: 3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
         "url": "https://open.spotify.com/album/3q0ogG562Nocti3uDkZmAP"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 190866,
       "name": "3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
       "url": "https://open.spotify.com/track/1W6ZSpMRXgeM9iSJxA1xus"
+    },
+    {
+      "added_at": "2025-06-03 16:40:22",
+      "album": {
+        "name": "improvisation",
+        "url": "https://open.spotify.com/album/6YN6hrmHvrLewiHT4h7tRD"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 137775,
+      "name": "improvisation",
+      "url": "https://open.spotify.com/track/1BmSnDPeEgtI9lYp4resjj"
     },
     {
       "added_at": "2025-06-03 16:40:22",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
+        "name": "Bach: Inventions & Sinfonias",
+        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Simone Dinnerstein",
+          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
+        }
+      ],
+      "duration_ms": 88573,
+      "name": "Invention No. 1 in C Major, BWV 772",
+      "url": "https://open.spotify.com/track/3pfdjnHlyKoLd6UYYrifWs"
+    },
+    {
+      "added_at": "2025-06-03 16:40:22",
+      "album": {
         "name": "Bruch, Brahms & Schubert: Chamber Works",
         "url": "https://open.spotify.com/album/7opugbzWAHbl5FKUZGjzgz"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 159010,
       "name": "8 Pieces, Op. 83 (Arr. for Violin, Viola & Piano): No. 2, Allegro con moto",
       "url": "https://open.spotify.com/track/1xWTaBLkw6T758GCLXNubf"
-    },
-    {
-      "added_at": "2025-06-03 16:40:22",
-      "album": {
-        "name": "Bach: Inventions & Sinfonias",
-        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Simone Dinnerstein",
-          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
-        }
-      ],
-      "duration_ms": 88573,
-      "name": "Invention No. 1 in C Major, BWV 772",
-      "url": "https://open.spotify.com/track/3pfdjnHlyKoLd6UYYrifWs"
     },
     {
       "added_at": "2025-06-03 16:40:22",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
+        "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
+        "url": "https://open.spotify.com/album/4eYyEdtwong1g17SQMvbww"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Gabriele Bagnati",
+          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
+        }
+      ],
+      "duration_ms": 151923,
+      "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
+      "url": "https://open.spotify.com/track/4hgo2apb7EngXvnpQiYJBK"
+    },
+    {
+      "added_at": "2025-06-03 16:40:22",
+      "album": {
         "name": "Saint-Sa\u00ebns: Symphonic Poems",
         "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 376560,
       "name": "Sarabande et rigaudon, Op. 93: Sarabande",
       "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
-    },
-    {
-      "added_at": "2025-06-03 16:40:22",
-      "album": {
-        "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
-        "url": "https://open.spotify.com/album/4eYyEdtwong1g17SQMvbww"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Gabriele Bagnati",
-          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
-        }
-      ],
-      "duration_ms": 151923,
-      "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
-      "url": "https://open.spotify.com/track/4hgo2apb7EngXvnpQiYJBK"
     },
     {
       "added_at": "2025-06-03 16:40:22",
@@ -1271,30 +1271,6 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
-        "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
-        "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Jean-Claude Vanden Eynden",
-          "url": "https://open.spotify.com/artist/2vmsTRj0IgajXmCE8G5ALg"
-        },
-        {
-          "name": "Pierre-Alain Volondat",
-          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
-        }
-      ],
-      "duration_ms": 153640,
-      "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
-      "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
-    },
-    {
-      "added_at": "2025-06-03 16:40:22",
-      "album": {
         "name": "Schubert: Fantasie in F Minor and Other Piano Duets",
         "url": "https://open.spotify.com/album/2ibKzWy888LJRqRvwpAd1x"
       },
@@ -1339,6 +1315,30 @@
       "duration_ms": 140626,
       "name": "Bach, JS: Gottes Zeit ist die allerbeste Zeit, BWV 106 \"Actus tragicus\": No. 2, Ch\u00f6re, Arioso und Aria. \"Gottes Zeit ist die allerbeste Zeit\" (Arr. Kurt\u00e1g for Piano 4-Hands)",
       "url": "https://open.spotify.com/track/4wPU1i9XmAFixhrLeO5AVw"
+    },
+    {
+      "added_at": "2025-06-03 16:40:22",
+      "album": {
+        "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
+        "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Jean-Claude Vanden Eynden",
+          "url": "https://open.spotify.com/artist/2vmsTRj0IgajXmCE8G5ALg"
+        },
+        {
+          "name": "Pierre-Alain Volondat",
+          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
+        }
+      ],
+      "duration_ms": 153640,
+      "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
+      "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
     },
     {
       "added_at": "2025-06-03 16:40:22",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/60dptYAyv7EK6evaotqKwv"
-      },
-      "artists": [
-        {
-          "name": "Regn\u00f8r",
-          "url": "https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq"
-        }
-      ],
-      "duration_ms": 144415,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/4M5TBrCTxqTCzM4qDaI2sM"
-    },
-    {
-      "added_at": "2025-06-03 16:40:22",
-      "album": {
         "name": "Wachet auf, ruft uns die Stimme, BWV 645",
         "url": "https://open.spotify.com/album/3z1uXzSAmlVJPlExDMYkV4"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 354560,
       "name": "Wachet auf, ruft uns die Stimme, BWV 645",
       "url": "https://open.spotify.com/track/5IWMAfQolGDofjvKTHpBsv"
+    },
+    {
+      "added_at": "2025-06-03 16:40:22",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/60dptYAyv7EK6evaotqKwv"
+      },
+      "artists": [
+        {
+          "name": "Regn\u00f8r",
+          "url": "https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq"
+        }
+      ],
+      "duration_ms": 144415,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/4M5TBrCTxqTCzM4qDaI2sM"
     },
     {
       "added_at": "2025-06-03 16:40:22",
@@ -1675,6 +1675,26 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
+        "name": "Cl\u00e1sicos Inolvidables Vol. 5, M\u00fasica Iberoamericana",
+        "url": "https://open.spotify.com/album/27ZQVAnijk89wbWZ8BQMmy"
+      },
+      "artists": [
+        {
+          "name": "Francisco Mignone",
+          "url": "https://open.spotify.com/artist/4ZZPTcDGu6kLyT8QEICyUg"
+        },
+        {
+          "name": "Luiz de Moura Castro",
+          "url": "https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK"
+        }
+      ],
+      "duration_ms": 117053,
+      "name": "Valsinha",
+      "url": "https://open.spotify.com/track/3MUR1Ku2OcQFcel5ECeR1s"
+    },
+    {
+      "added_at": "2025-06-03 16:40:22",
+      "album": {
         "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
         "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
       },
@@ -1695,26 +1715,6 @@
       "duration_ms": 261213,
       "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: III. Minuets I & II",
       "url": "https://open.spotify.com/track/5Olix25Y5aNqIWGDrrB0Pb"
-    },
-    {
-      "added_at": "2025-06-03 16:40:22",
-      "album": {
-        "name": "Cl\u00e1sicos Inolvidables Vol. 5, M\u00fasica Iberoamericana",
-        "url": "https://open.spotify.com/album/27ZQVAnijk89wbWZ8BQMmy"
-      },
-      "artists": [
-        {
-          "name": "Francisco Mignone",
-          "url": "https://open.spotify.com/artist/4ZZPTcDGu6kLyT8QEICyUg"
-        },
-        {
-          "name": "Luiz de Moura Castro",
-          "url": "https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK"
-        }
-      ],
-      "duration_ms": 117053,
-      "name": "Valsinha",
-      "url": "https://open.spotify.com/track/3MUR1Ku2OcQFcel5ECeR1s"
     },
     {
       "added_at": "2025-06-03 16:40:22",
@@ -1791,30 +1791,6 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
-        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
-        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
-        }
-      ],
-      "duration_ms": 230426,
-      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: VI. Air",
-      "url": "https://open.spotify.com/track/0n9cHRLNSCXECfXx4cvw0D"
-    },
-    {
-      "added_at": "2025-06-03 16:40:22",
-      "album": {
         "name": "W.F. Bach: Sinfonias",
         "url": "https://open.spotify.com/album/0AHlJDfnuTSujoKtK0y9FX"
       },
@@ -1839,6 +1815,30 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
+        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
+        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        }
+      ],
+      "duration_ms": 230426,
+      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: VI. Air",
+      "url": "https://open.spotify.com/track/0n9cHRLNSCXECfXx4cvw0D"
+    },
+    {
+      "added_at": "2025-06-03 16:40:22",
+      "album": {
         "name": "Alexandre Tharaud. \"Voyage en France\"",
         "url": "https://open.spotify.com/album/1UfEH15W0MVwWbAGa9OXqE"
       },
@@ -1855,6 +1855,30 @@
       "duration_ms": 326400,
       "name": "Jeux d\u2019eau, M 30",
       "url": "https://open.spotify.com/track/5DmiFGgPMz8bupvKHrAtu4"
+    },
+    {
+      "added_at": "2025-06-03 16:40:22",
+      "album": {
+        "name": "Mozart: Night Music - Serenades Nos. 6 & 13; A Musical Joke; Adagio & Fugue",
+        "url": "https://open.spotify.com/album/4nf4imwG0lfPqhoEGCazGT"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "The English Concert",
+          "url": "https://open.spotify.com/artist/2Oz3z7PPQUMU2KNYgcO1sA"
+        },
+        {
+          "name": "Andrew Manze",
+          "url": "https://open.spotify.com/artist/0MPbAeGQj0YatrUMdY2KEr"
+        }
+      ],
+      "duration_ms": 144333,
+      "name": "Minuet & Trio in C Major, K. 485a (Compl. Attwood)",
+      "url": "https://open.spotify.com/track/04HFjYp900E9b3Plshyvzo"
     },
     {
       "added_at": "2025-06-03 16:40:22",
@@ -1895,26 +1919,26 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
-        "name": "Mozart: Night Music - Serenades Nos. 6 & 13; A Musical Joke; Adagio & Fugue",
-        "url": "https://open.spotify.com/album/4nf4imwG0lfPqhoEGCazGT"
+        "name": "Telemann Collection",
+        "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
       },
       "artists": [
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+          "name": "Georg Philipp Telemann",
+          "url": "https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj"
         },
         {
-          "name": "The English Concert",
-          "url": "https://open.spotify.com/artist/2Oz3z7PPQUMU2KNYgcO1sA"
+          "name": "Collegium Instrumentale Brugense",
+          "url": "https://open.spotify.com/artist/58WgXgh03rjIO1BkByxMgu"
         },
         {
-          "name": "Andrew Manze",
-          "url": "https://open.spotify.com/artist/0MPbAeGQj0YatrUMdY2KEr"
+          "name": "Marc Peire",
+          "url": "https://open.spotify.com/artist/1W2a3r99zPaSl50jkBxhgz"
         }
       ],
-      "duration_ms": 144333,
-      "name": "Minuet & Trio in C Major, K. 485a (Compl. Attwood)",
-      "url": "https://open.spotify.com/track/04HFjYp900E9b3Plshyvzo"
+      "duration_ms": 112440,
+      "name": "Ouverture-Suite in D Minor, TWV 55:d2: V. Sarabande",
+      "url": "https://open.spotify.com/track/3etJfG58ulqDBqjih4kExx"
     },
     {
       "added_at": "2025-06-03 16:40:22",
@@ -1939,30 +1963,6 @@
       "duration_ms": 138239,
       "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: III. (b) Andante",
       "url": "https://open.spotify.com/track/6AG7ekfWoiYTY6gyiEebCN"
-    },
-    {
-      "added_at": "2025-06-03 16:40:22",
-      "album": {
-        "name": "Telemann Collection",
-        "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
-      },
-      "artists": [
-        {
-          "name": "Georg Philipp Telemann",
-          "url": "https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj"
-        },
-        {
-          "name": "Collegium Instrumentale Brugense",
-          "url": "https://open.spotify.com/artist/58WgXgh03rjIO1BkByxMgu"
-        },
-        {
-          "name": "Marc Peire",
-          "url": "https://open.spotify.com/artist/1W2a3r99zPaSl50jkBxhgz"
-        }
-      ],
-      "duration_ms": 112440,
-      "name": "Ouverture-Suite in D Minor, TWV 55:d2: V. Sarabande",
-      "url": "https://open.spotify.com/track/3etJfG58ulqDBqjih4kExx"
     },
     {
       "added_at": "2025-06-03 16:40:22",
@@ -2027,26 +2027,6 @@
     {
       "added_at": "2025-06-03 16:40:22",
       "album": {
-        "name": "Klassieke Muziek voor Zondagochtend",
-        "url": "https://open.spotify.com/album/3dL5xXrW6tsjQNH6rml5Rn"
-      },
-      "artists": [
-        {
-          "name": "Enrique Granados",
-          "url": "https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT"
-        },
-        {
-          "name": "Xavier De Maistre",
-          "url": "https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp"
-        }
-      ],
-      "duration_ms": 96786,
-      "name": "Valses Po\u00e9ticos H. 147, DLR 7:8: No. 1: Mel\u00f3dico",
-      "url": "https://open.spotify.com/track/1UT4F8DOvzM616ZTOm1z6s"
-    },
-    {
-      "added_at": "2025-06-03 16:40:22",
-      "album": {
         "name": "Telemann Edition, Vol. 1",
         "url": "https://open.spotify.com/album/5cEqeaVOOShRNlsEe4ubLC"
       },
@@ -2067,6 +2047,26 @@
       "duration_ms": 120813,
       "name": "Overture-Suite in G Major, TWV 55:G10: \"Burlesque de Quixotte\": IV. Ses soupirs amoureux apr\u00e8s la princesse Dulcin\u00e9e",
       "url": "https://open.spotify.com/track/5p2665rdi1sFIoCY5BFTy0"
+    },
+    {
+      "added_at": "2025-06-03 16:40:22",
+      "album": {
+        "name": "Klassieke Muziek voor Zondagochtend",
+        "url": "https://open.spotify.com/album/3dL5xXrW6tsjQNH6rml5Rn"
+      },
+      "artists": [
+        {
+          "name": "Enrique Granados",
+          "url": "https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT"
+        },
+        {
+          "name": "Xavier De Maistre",
+          "url": "https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp"
+        }
+      ],
+      "duration_ms": 96786,
+      "name": "Valses Po\u00e9ticos H. 147, DLR 7:8: No. 1: Mel\u00f3dico",
+      "url": "https://open.spotify.com/track/1UT4F8DOvzM616ZTOm1z6s"
     },
     {
       "added_at": "2025-06-03 16:40:22",

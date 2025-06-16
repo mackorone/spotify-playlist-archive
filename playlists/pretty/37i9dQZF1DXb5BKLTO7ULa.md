@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: Antoon, DYSTINCT & J Balvin, Mark Ronson & RAYE en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,277 likes - 97 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,276 likes - 97 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 96 | [Summer 17](https://open.spotify.com/track/7t1Oz20dDYMjyvyrbIKqI5) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Summer 17](https://open.spotify.com/album/5M75VygWOzLrY2MwK1sdl4) | 3:01 |
 | 97 | [Nostalgia](https://open.spotify.com/track/7FQ58RvuF2BVFkBnOs6NWe) | [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp) | [Nostalgia](https://open.spotify.com/album/1RMxGiOXW1GCmcSIltjDqx) | 3:06 |
 
-Snapshot ID: `aEvcvwAAAABGkI5WVv2K0XicmtlV0wd3`
+Snapshot ID: `aE8bVQAAAACD0Cxhr2cNqx2AoxyiaZOP`

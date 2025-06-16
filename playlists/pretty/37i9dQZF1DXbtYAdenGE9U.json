@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 683975,
+  "num_followers": 684220,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "1992 - 2012",
-        "url": "https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq"
-      },
-      "artists": [
-        {
-          "name": "Underworld",
-          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
-        }
-      ],
-      "duration_ms": 456480,
-      "name": "Born Slippy (Nuxx)",
-      "url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 212133,
       "name": "Ecuador - Original Radio Edit",
       "url": "https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "1992 - 2012",
+        "url": "https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "duration_ms": 456480,
+      "name": "Born Slippy (Nuxx)",
+      "url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -111,22 +111,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/7m03aYUMXQ19qB1s5rTz4w"
-      },
-      "artists": [
-        {
-          "name": "4 Strings",
-          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
-        }
-      ],
-      "duration_ms": 190426,
-      "name": "Take Me Away (Into The Night) - Vocal Radio Mix",
-      "url": "https://open.spotify.com/track/0EcH1iItB5rVIZaaiQMbsG"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 221160,
       "name": "Encore Une Fois - Future Breeze Edit",
       "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/7m03aYUMXQ19qB1s5rTz4w"
+      },
+      "artists": [
+        {
+          "name": "4 Strings",
+          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
+        }
+      ],
+      "duration_ms": 190426,
+      "name": "Take Me Away (Into The Night) - Vocal Radio Mix",
+      "url": "https://open.spotify.com/track/0EcH1iItB5rVIZaaiQMbsG"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -199,26 +199,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Vocal Trance Hits - The Anthems",
-        "url": "https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m"
-      },
-      "artists": [
-        {
-          "name": "Ian van Dahl",
-          "url": "https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ"
-        },
-        {
-          "name": "Marsha",
-          "url": "https://open.spotify.com/artist/28Y5nsvbE8IdoUAGNgCk0Y"
-        }
-      ],
-      "duration_ms": 227133,
-      "name": "Castles In The Sky",
-      "url": "https://open.spotify.com/track/3uMZMYC0GurzpeTf9QvPe0"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU"
       },
@@ -239,6 +219,26 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "Vocal Trance Hits - The Anthems",
+        "url": "https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m"
+      },
+      "artists": [
+        {
+          "name": "Ian van Dahl",
+          "url": "https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ"
+        },
+        {
+          "name": "Marsha",
+          "url": "https://open.spotify.com/artist/28Y5nsvbE8IdoUAGNgCk0Y"
+        }
+      ],
+      "duration_ms": 227133,
+      "name": "Castles In The Sky",
+      "url": "https://open.spotify.com/track/3uMZMYC0GurzpeTf9QvPe0"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "Before the Storm, Special Edition",
         "url": "https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo"
       },
@@ -251,6 +251,26 @@
       "duration_ms": 259200,
       "name": "Feel the Beat",
       "url": "https://open.spotify.com/track/5BZx0wikkFZF2BnaIo2qTy"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Need To Feel Loved",
+        "url": "https://open.spotify.com/album/5OEUYpDcqOo7wIJsdqnh3X"
+      },
+      "artists": [
+        {
+          "name": "Reflekt",
+          "url": "https://open.spotify.com/artist/1AjG4kPZtTlEhqkrLC1yno"
+        },
+        {
+          "name": "delline bass",
+          "url": "https://open.spotify.com/artist/4mYOtUmFApJtEbaeGt0RCk"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "Need To Feel Loved - Radio Edit",
+      "url": "https://open.spotify.com/track/4b9S5yZpvIVxMEuI0rHzk6"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -323,26 +343,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Need To Feel Loved",
-        "url": "https://open.spotify.com/album/5OEUYpDcqOo7wIJsdqnh3X"
-      },
-      "artists": [
-        {
-          "name": "Reflekt",
-          "url": "https://open.spotify.com/artist/1AjG4kPZtTlEhqkrLC1yno"
-        },
-        {
-          "name": "delline bass",
-          "url": "https://open.spotify.com/artist/4mYOtUmFApJtEbaeGt0RCk"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Need To Feel Loved - Radio Edit",
-      "url": "https://open.spotify.com/track/4b9S5yZpvIVxMEuI0rHzk6"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Hard Hop Superstars",
         "url": "https://open.spotify.com/album/6aUOnon0SzOA8ZxmY53HPj"
       },
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "One For The Lad's",
-        "url": "https://open.spotify.com/album/5jdiTLHBNbOqHLkYbBiPN9"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Insomnia - Radio Edit",
-      "url": "https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Fitness Beats 2013",
         "url": "https://open.spotify.com/album/7fym5VfEqhrrQhzFMLghvD"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 220565,
       "name": "Barber's Adagio for Strings - Ferry Corsten Remix; Radio Edit;",
       "url": "https://open.spotify.com/track/6qlmPJiL0uQZ45Jirn3VA5"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "One For The Lad's",
+        "url": "https://open.spotify.com/album/5jdiTLHBNbOqHLkYbBiPN9"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Insomnia - Radio Edit",
+      "url": "https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "Fire Wire",
+        "url": "https://open.spotify.com/album/0aotMmIvDysOzHXkCwkXbY"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        }
+      ],
+      "duration_ms": 171973,
+      "name": "Fire Wire - Radio Edit",
+      "url": "https://open.spotify.com/track/3Wj2bla9BKs0tcbmpq1p71"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "Greece 2000",
         "url": "https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 219000,
       "name": "Greece 2000 - Edit",
       "url": "https://open.spotify.com/track/3JxBHvOkVvgZTtQ9shl4fI"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "Fire Wire",
-        "url": "https://open.spotify.com/album/0aotMmIvDysOzHXkCwkXbY"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
-        }
-      ],
-      "duration_ms": 171973,
-      "name": "Fire Wire - Radio Edit",
-      "url": "https://open.spotify.com/track/3Wj2bla9BKs0tcbmpq1p71"
     },
     {
       "added_at": "2024-07-23 09:55:55",

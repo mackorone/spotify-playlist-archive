@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-243 songs - 11 hr 22 min
+244 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,10 +15,10 @@
 | [Aardvark](https://open.spotify.com/track/4f0g8C72ve7dWIzYTvf8it) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Aardvark](https://open.spotify.com/album/4hGjRmvDwyuAKOFo1sjoHV) | 2:48 | 2023-10-20 |  |
 | [Above all](https://open.spotify.com/track/32lWGnfRRUk44f4zWHV37L) | [Henrietta Patrick](https://open.spotify.com/artist/4dCZm6THef8wb8x4VwrSO0) | [Above all](https://open.spotify.com/album/2SndImMqTgOaikElBmLHQP) | 2:24 | 2023-03-03 | 2025-06-12 |
 | [Above The Sea](https://open.spotify.com/track/6GjFNvPjQCSC7rPABT72lY) | [Hans Westerström](https://open.spotify.com/artist/1WOVNBPjCOR40fEBWjNUNe) | [Above The Sea](https://open.spotify.com/album/0uTCVqSAdqeGodq6ATzxHh) | 2:14 | 2023-04-13 | 2024-08-24 |
-| [Absence](https://open.spotify.com/track/3tx8zKA5bnnVfUL6cF45sm) | [Nel Brim](https://open.spotify.com/artist/5Q2iuYLQELQ31oUzPVcYBC) | [Absence](https://open.spotify.com/album/1HyhZ7qDVrCcGMDu24ULKq) | 2:42 | 2023-03-03 | 2025-01-16 |
+| [Absence](https://open.spotify.com/track/3tx8zKA5bnnVfUL6cF45sm) | [Nel Brim](https://open.spotify.com/artist/5Q2iuYLQELQ31oUzPVcYBC) | [Absence](https://open.spotify.com/album/1HyhZ7qDVrCcGMDu24ULKq) | 2:42 | 2023-03-03 |  |
 | [Alheimur Nature](https://open.spotify.com/track/6BuimqcmC5oOT9J852S5IF) | [Recov](https://open.spotify.com/artist/58xXf7mLuff18t0yV3TK47) | [Alheimur Nature](https://open.spotify.com/album/326NrHb78w1mFiCxolY3bK) | 2:48 | 2024-02-06 | 2024-10-20 |
 | [Amicitia](https://open.spotify.com/track/4tARuHIlzeVp0XCdz2QlRj) | [Novataire](https://open.spotify.com/artist/55xdv1NaYNZdMBLT7yRTEC) | [Amicitia](https://open.spotify.com/album/2ZoWABKbu1bnwjcL1YIeSi) | 1:58 | 2023-04-13 | 2023-10-07 |
-| [Ancient Canopy \(Forest\)](https://open.spotify.com/track/0UO8UzZOloodYVBliWxzA1) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [Ancient Canopy \(Forest\)](https://open.spotify.com/album/7u6Zi2FR0K3xYJ1efkel9h) | 2:34 | 2024-03-20 |  |
+| [Ancient Canopy \(Forest\)](https://open.spotify.com/track/0UO8UzZOloodYVBliWxzA1) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [Ancient Canopy \(Forest\)](https://open.spotify.com/album/7u6Zi2FR0K3xYJ1efkel9h) | 2:34 | 2024-03-20 | 2025-06-16 |
 | [Angelic Birds](https://open.spotify.com/track/4RRSAw83nF2cnrIlmmVAq5) | [Inara Rex](https://open.spotify.com/artist/1z7Wz5Nf6ZcKVMbTbrfGmj) | [Angelic Birds](https://open.spotify.com/album/3IxoZadyhQnLHeDxKo06YX) | 2:07 | 2024-02-06 |  |
 | [Anima Naturale](https://open.spotify.com/track/2kFfuFMjmXUuIyWEBDoKXA) | [Sleep Dimension](https://open.spotify.com/artist/2ZV8Daj4IYuvunYiUTQIFN) | [Anima Naturale](https://open.spotify.com/album/3FjoYivEdT9lJFiD10OrHZ) | 2:28 | 2024-07-18 |  |
 | [April Showers](https://open.spotify.com/track/7qh6Nig18nVfgX8yFnEJAi) | [Milton Laines](https://open.spotify.com/artist/1vqqsJp0EfIy8Er9jINKKu) | [The Perfect Morning](https://open.spotify.com/album/0FFTxou2PMl9sDPcxopeCB) | 2:48 | 2023-03-03 | 2024-11-23 |
@@ -33,7 +33,7 @@
 | [Beautiful Nature](https://open.spotify.com/track/5y25kyQQTAqyPoSchOAnxS) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Beautiful Nature](https://open.spotify.com/album/1xzSTEV4uuA8KvCXuiNpdY) | 2:57 | 2023-10-26 |  |
 | [Before I Wake Up](https://open.spotify.com/track/1xGlmw5v4POLlk4NbifkWC) | [Oline Kleist](https://open.spotify.com/artist/2HpjQO0r6XkIRCC6UE9AgS) | [Before I Wake Up](https://open.spotify.com/album/6Om4dd5U9FDfdaqPWbfpzU) | 2:51 | 2023-03-03 | 2024-03-21 |
 | [Berolige](https://open.spotify.com/track/15dsm3bIFI6HLkvMcRdJ5I) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Berolige](https://open.spotify.com/album/0XRbQIYB0Zis5Onjac79SF) | 2:36 | 2024-04-01 | 2025-06-12 |
-| [Birds of Paradise](https://open.spotify.com/track/5Qm47coZ5Eph0roKaCml85) | [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Duality Pt 2 Peace](https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw) | 5:24 | 2025-06-11 |  |
+| [Birds of Paradise](https://open.spotify.com/track/5Qm47coZ5Eph0roKaCml85) | [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Duality Pt 2 Peace](https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw) | 5:24 | 2025-06-11 | 2025-06-16 |
 | [Blue Shadows](https://open.spotify.com/track/1S5UW31xDfoNW3Tc7rNyKp) | [Maira](https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04) | [Blue Shadows](https://open.spotify.com/album/1Iy98GEoDPSUJHx6iIKh5E) | 2:52 | 2025-02-21 |  |
 | [Blue Spruce](https://open.spotify.com/track/64pSoTFsckMZnV691Ya4wJ) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Blue Spruce](https://open.spotify.com/album/2yQbp9WEyvRS2YUGfEAvNY) | 3:07 | 2025-02-21 |  |
 | [Bogha Sound Bath](https://open.spotify.com/track/3WeUY3OjcntfpnRl1VuV9Q) | [Immensitas](https://open.spotify.com/artist/16d45BnN9e2xcS1gvar1wV) | [Bogha Sound Bath](https://open.spotify.com/album/3qZJU2nHCMDr45jVEZWfgl) | 3:26 | 2023-11-18 | 2025-01-16 |
@@ -53,6 +53,7 @@
 | [Catacea Animals](https://open.spotify.com/track/65nwy2Gx3Om5fuyySr1RAS) | [Aya Morata](https://open.spotify.com/artist/6ryTZyH1Vnxas1vzYPzE0L) | [Catacea Animals](https://open.spotify.com/album/38yEh4LCIMJil5LsbUVT6m) | 2:28 | 2023-10-16 | 2025-06-12 |
 | [Ceredona Peace \(Nature\)](https://open.spotify.com/track/253f7Tp8DzFA5q1xKlyF4K) | [Lars Peters](https://open.spotify.com/artist/6UFCmfl7djtHECEfm4Vhcx) | [Ceredona Peace \(Nature\)](https://open.spotify.com/album/58qI5TV9Qdnj65CQtzldvH) | 2:42 | 2024-03-05 |  |
 | [Changing Colors](https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf) | [Hiwet Tesmi](https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T) | [Changing Colors](https://open.spotify.com/album/2FPYTlqy2N3I8wicQabdTf) | 3:00 | 2023-03-03 | 2024-07-19 |
+| [Clearing](https://open.spotify.com/track/6Mwk3R7MPHpUHXutMKS80e) | [Luminary Night](https://open.spotify.com/artist/1nWniKVaY64039kcA7kfRj) | [Clearing](https://open.spotify.com/album/48OGNEQhJhWsFeGE6kRAoH) | 2:37 | 2025-06-11 |  |
 | [Clearing](https://open.spotify.com/track/0f5GfTuUqptnN2GOUbeCZJ) | [Memories of the Forgotten](https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD) | [Clearing](https://open.spotify.com/album/280KxJyB75D1qmYZTeBGYS) | 2:40 | 2024-01-25 |  |
 | [Clearing Away](https://open.spotify.com/track/3mT1CQmG7ndvpqDLidJ7rf) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Clearing Away](https://open.spotify.com/album/3ioIRza0mtQiHvBfnZnIqk) | 2:51 | 2025-02-21 |  |
 | [Compassion](https://open.spotify.com/track/5tfjNUVtd6wbHnIwGUuHA8) | [Calma Totalis](https://open.spotify.com/artist/1s9skrP96FBxQyrPC3mlVy) | [Compassion](https://open.spotify.com/album/6MLWy4hrYqW1T3Z3bghUQd) | 3:07 | 2023-10-06 |  |

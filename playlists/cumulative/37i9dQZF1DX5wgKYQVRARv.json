@@ -9796,7 +9796,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 290250,
       "name": "Red Letter",
       "url": "https://open.spotify.com/track/5t10PRTb216lrqwi1PPRMG"
@@ -14620,6 +14620,24 @@
       "duration_ms": 292560,
       "name": "Wind of no Change",
       "url": "https://open.spotify.com/track/1gGqd0eLe2XBwXKr3SxHKU"
+    },
+    {
+      "album": {
+        "name": "Winds of Time",
+        "url": "https://open.spotify.com/album/5fR2dtNeHgvBVawwNz1c0N"
+      },
+      "artists": [
+        {
+          "name": "Wings of Steel",
+          "url": "https://open.spotify.com/artist/0y43lCvntQtyFlhCABGb0T"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 640306,
+      "name": "Winds of Time",
+      "url": "https://open.spotify.com/track/7piaXNn95jDeesxcdLca7E"
     },
     {
       "album": {

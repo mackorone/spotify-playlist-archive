@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 185760,
+  "num_followers": 185775,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAAaLNtjhvZdHsKZLl8WOymP",
+  "snapshot_id": "aEy7gAAAAACStOnyt9ANzADMr7XE4RJa",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Raw Velvet (Live '66)",
+        "url": "https://open.spotify.com/album/3lLyZCP5HXuu8O0UKMm1TU"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 231549,
+      "name": "Call On Me - Live",
+      "url": "https://open.spotify.com/track/2sUUxw9YpOxVqsoehLkwqd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cheap Thrills",
         "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 183706,
       "name": "Flower In the Sun",
       "url": "https://open.spotify.com/track/3O59UWV5NDKZ6Td64Acpzv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Raw Velvet (Live '66)",
-        "url": "https://open.spotify.com/album/3lLyZCP5HXuu8O0UKMm1TU"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 231549,
-      "name": "Call On Me - Live",
-      "url": "https://open.spotify.com/track/2sUUxw9YpOxVqsoehLkwqd"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
         }
       ],
-      "duration_ms": 70487,
-      "name": "\"How 'Bout This?\"",
-      "url": "https://open.spotify.com/track/2cLeyjgYro18QHgJA6N36h"
+      "duration_ms": 46964,
+      "name": "\"Are We Taping Now?\"",
+      "url": "https://open.spotify.com/track/3jpfF9gHUjuv2Tgc2tigNg"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
         }
       ],
-      "duration_ms": 46964,
-      "name": "\"Are We Taping Now?\"",
-      "url": "https://open.spotify.com/track/3jpfF9gHUjuv2Tgc2tigNg"
+      "duration_ms": 70487,
+      "name": "\"How 'Bout This?\"",
+      "url": "https://open.spotify.com/track/2cLeyjgYro18QHgJA6N36h"
     },
     {
       "added_at": null,
@@ -759,22 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joplin In Concert",
-        "url": "https://open.spotify.com/album/2wb0OEOLPIiEtsqq2tgCk5"
+        "name": "Steve Mann: Alive And Pickin'",
+        "url": "https://open.spotify.com/album/2e82i0uQxkMwdJr8ASIvFe"
       },
       "artists": [
         {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+          "name": "Steve Mann",
+          "url": "https://open.spotify.com/artist/2hcBQcl1OhkGXtcsuy2Mc1"
         },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 345800,
-      "name": "All Is Loneliness - Live at The Fillmore West, San Francisco, CA - April 1970",
-      "url": "https://open.spotify.com/track/7AQD7uDsoBbVE9gk0Rb2pu"
+      "duration_ms": 187413,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/0c3YbzSctWakEYtmjVzlWB"
     },
     {
       "added_at": null,
@@ -792,29 +792,29 @@
           "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
         }
       ],
-      "duration_ms": 234366,
-      "name": "Long Black Train",
-      "url": "https://open.spotify.com/track/4kOb2Bu8UPRHpEJpza4hd5"
+      "duration_ms": 200205,
+      "name": "Nobody Knows You When You're Down and Out",
+      "url": "https://open.spotify.com/track/4xtxGynUKSGzHdW5iZ2uQE"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Steve Mann: Alive And Pickin'",
-        "url": "https://open.spotify.com/album/2e82i0uQxkMwdJr8ASIvFe"
+        "name": "Joplin In Concert",
+        "url": "https://open.spotify.com/album/2wb0OEOLPIiEtsqq2tgCk5"
       },
       "artists": [
         {
-          "name": "Steve Mann",
-          "url": "https://open.spotify.com/artist/2hcBQcl1OhkGXtcsuy2Mc1"
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
         },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 187413,
-      "name": "Trouble In Mind",
-      "url": "https://open.spotify.com/track/0c3YbzSctWakEYtmjVzlWB"
+      "duration_ms": 345800,
+      "name": "All Is Loneliness - Live at The Fillmore West, San Francisco, CA - April 1970",
+      "url": "https://open.spotify.com/track/7AQD7uDsoBbVE9gk0Rb2pu"
     },
     {
       "added_at": null,
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
         }
       ],
-      "duration_ms": 200205,
-      "name": "Nobody Knows You When You're Down and Out",
-      "url": "https://open.spotify.com/track/4xtxGynUKSGzHdW5iZ2uQE"
+      "duration_ms": 234366,
+      "name": "Long Black Train",
+      "url": "https://open.spotify.com/track/4kOb2Bu8UPRHpEJpza4hd5"
     },
     {
       "added_at": null,

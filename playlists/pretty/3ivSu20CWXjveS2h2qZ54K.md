@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,868 likes - 103 songs - 5 hr 33 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,867 likes - 103 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 70 | [Heat](https://open.spotify.com/track/7gn1dVwAYxmzpj5peCAOWt) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Heat](https://open.spotify.com/album/3fAes6kOJqF8H5IumD0aik) | 2:51 |
 | 71 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 |
 | 72 | [Pick Up The Phone](https://open.spotify.com/track/1bcZHf64xOalMif12Fy7jc) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Pick Up The Phone](https://open.spotify.com/album/1vaUC7CZtnJjaMWUbdzIN5) | 3:31 |
-| 73 | [Korazong](https://open.spotify.com/track/43J20QsNeYhG23RcLHIGIn) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Korazong](https://open.spotify.com/album/1HVqPBOI5b3OTpbEqxvDUM) | 2:54 |
+| 73 | [KORAZONG](https://open.spotify.com/track/43J20QsNeYhG23RcLHIGIn) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [KORAZONG](https://open.spotify.com/album/1HVqPBOI5b3OTpbEqxvDUM) | 2:54 |
 | 74 | [Mujer Maravilla](https://open.spotify.com/track/5Ngqa0mESN79RkVf7YLYBE) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Mujer Maravilla](https://open.spotify.com/album/3FQcQcmVw3Xe5bFxB0VuCN) | 2:27 |
 | 75 | [Coche de Choque](https://open.spotify.com/track/0j2Xbt1iHDDZaJrPz6j5rd) | [Arce](https://open.spotify.com/artist/7eH1UUCyxL8Wf9PztvvPJ6) | [Coche de Choque](https://open.spotify.com/album/6gnWhMnp486LekHhyZtXTS) | 3:22 |
 | 76 | [Cora Roto](https://open.spotify.com/track/7ftYb4y7GwiSmpbZizpZgZ) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Cora Roto](https://open.spotify.com/album/6UWjSwQgQyAhaWcHF6K1oj) | 3:17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,112 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,084 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 39 | [Supersonic](https://open.spotify.com/track/01jx3vXwUaw9cfFeBk8sJQ) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Supersonic / Hands Up In The Sky](https://open.spotify.com/album/0x72kHM5nCDu7qtoIJcnfT) | 3:08 |
 | 40 | [Left & Right](https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Left & Right](https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS) | 2:34 |
 | 41 | [Like Wooh Wooh \- Radio Edit](https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 2:16 |
-| 42 | [La La La](https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [La La La](https://open.spotify.com/album/1vvIQmbcJHJG1jO1Fn5ZuA) | 2:17 |
-| 43 | [Burn](https://open.spotify.com/track/49B2nbhiXZMQzIp5txtn2d) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v) | [Burn](https://open.spotify.com/album/4mFCVN4WSXbNUtfxJufvLE) | 2:38 |
+| 42 | [Burn](https://open.spotify.com/track/49B2nbhiXZMQzIp5txtn2d) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v) | [Burn](https://open.spotify.com/album/4mFCVN4WSXbNUtfxJufvLE) | 2:38 |
+| 43 | [La La La](https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [La La La](https://open.spotify.com/album/1vvIQmbcJHJG1jO1Fn5ZuA) | 2:17 |
 | 44 | [Gravity](https://open.spotify.com/track/1vMMwDCd1Hnb91a3x9MdfX) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Sem Vox](https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Gravity](https://open.spotify.com/album/5XjuB8WjardHuZpaMy6LXP) | 4:45 |
 | 45 | [Sound of da Police \(with DES3ETT\)](https://open.spotify.com/track/3g3kOgJyakUFt8FClE2EbQ) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [DES3ETT](https://open.spotify.com/artist/2tBbq6Y0ejbtc8tNWtaMyN) | [Sound of da Police \(with DES3ETT\)](https://open.spotify.com/album/19tOFbOwSqZkQONwDtxss9) | 2:07 |
-| 46 | [Indestructible](https://open.spotify.com/track/4SBuL5T5CGhl3k9w7PLf8a) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Indestructible](https://open.spotify.com/album/11azJx0sq9HvxhC47bJRQ7) | 2:40 |
-| 47 | [BASS DOWN LOW](https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3) | [BASS DOWN LOW](https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1) | 2:46 |
+| 46 | [BASS DOWN LOW](https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3) | [BASS DOWN LOW](https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1) | 2:46 |
+| 47 | [Indestructible](https://open.spotify.com/track/4SBuL5T5CGhl3k9w7PLf8a) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Indestructible](https://open.spotify.com/album/11azJx0sq9HvxhC47bJRQ7) | 2:40 |
 | 48 | [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/5Y8mnPgyb9hOJxY1M0OJdx) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/10aoLyfcDY7b9zSRogaSLa) | 2:27 |
-| 49 | [More Baby](https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 2:55 |
-| 50 | [Typa Girl](https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 3:04 |
+| 49 | [Typa Girl](https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 3:04 |
+| 50 | [More Baby](https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 2:55 |
 
 Snapshot ID: `aEaxugAAAAB4byuvwn1utdZv5mKpV0ik`

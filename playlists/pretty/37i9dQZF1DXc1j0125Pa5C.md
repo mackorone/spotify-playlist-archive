@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: BG, Gamadinho, Yan, Pagode do Adame
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,632 likes - 75 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,871 likes - 75 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 16 | [É Na Madrugada / Amor Bipolar / A Casa Caiu \- Ao Vivo](https://open.spotify.com/track/1r7Ik46RmpvfQAfBu40No6) | [Bom Gosto](https://open.spotify.com/artist/4SaxUo7mfdHBowU0llwxFd), [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Guerêguerê, Bloco 6 \(Ao Vivo\)](https://open.spotify.com/album/5ABomsOe78kUOdG1ZJHt7V) | 4:27 |
 | 17 | [Terra do Nunca / Alamedas da Vida \(365 Dias\) \- Ao Vivo](https://open.spotify.com/track/1qEAq7AvVY5ef30XmXEoBp) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h) | [Só VVamo Sunset, Part\. 1 \(Ao Vivo\)](https://open.spotify.com/album/73L5lCkfDpEaDgN84rJQLp) | 3:47 |
 | 18 | [Nike e Shortinho / Desencana \- Ao Vivo](https://open.spotify.com/track/2l1fgtVMhwKdmkbhOc9ySl) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Ayla](https://open.spotify.com/artist/4LAIEyVpU7BhGGdXIRvbLe), [Mannda Lym](https://open.spotify.com/artist/78WvOgIBo2emAnJLbv7nXO) | [Só VVamo Sunset \(Ao Vivo\)](https://open.spotify.com/album/552JgFjFaUfcDdx8Kx4SdN) | 4:44 |
-| 19 | [Sem Abuso / Maneiras \- Ao Vivo](https://open.spotify.com/track/20ba17syY508T4hRtI8Oic) | [Samba 90 Graus](https://open.spotify.com/artist/6h3xVRZMOFMRIyKOqvRnCE) | [Samba 90 Graus Vol\. 1](https://open.spotify.com/album/0dMN58fUFDX1R33PWuLY9K) | 4:41 |
+| 19 | [Sem Abuso / Maneiras \- Ao Vivo](https://open.spotify.com/track/20ba17syY508T4hRtI8Oic) | [Samba 90 Graus](https://open.spotify.com/artist/6h3xVRZMOFMRIyKOqvRnCE) | [Samba 90 Graus Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0dMN58fUFDX1R33PWuLY9K) | 4:41 |
 | 20 | [Ainda É Tempo pra Ser Feliz / Sonhos / Além do Meu Querer \- Ao Vivo](https://open.spotify.com/track/1iD74iy9nHHwp5jijdbyVz) | [Thiago Soares](https://open.spotify.com/artist/4zIE7LEe6kABBDLHLzAS4D) | [Máximo Respeito \(Ao Vivo\)](https://open.spotify.com/album/75pmiGb6cobkH1uj7vNoEc) | 4:31 |
 | 21 | [Ela Não Vale Nada \- Só Penso No Lar \- Ao Vivo](https://open.spotify.com/track/2X1gPm5uuO9ugPRbcpjxVP) | [4 Stylus](https://open.spotify.com/artist/03l0KU0IgAbpAvzy74fLLA), [Samba da Ladeira](https://open.spotify.com/artist/0IB2uaFC6Xm2I9VSaUlesk) | [Ela Não Vale Nada \- Só Penso No Lar \(Ao Vivo\)](https://open.spotify.com/album/6yX3C5QUx1QXr7ZeM1mYYa) | 3:50 |
 | 22 | [Quem / Deixa Rolar / Homem Perfeito \- Ao Vivo](https://open.spotify.com/track/28Uap5Z1ln3bzEd61lbZGH) | [Billy SP](https://open.spotify.com/artist/4GH92X1Uuv583KVfSiQBxJ), [Cleverson Luiz](https://open.spotify.com/artist/1qsMWW4u7KkD22SErIjogd) | [Na Pagodeira, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/7InArBmaRfYqVlY7oBPvph) | 8:00 |

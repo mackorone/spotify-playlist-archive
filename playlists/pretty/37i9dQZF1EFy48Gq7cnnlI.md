@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1St9w8DIFsyXLZAnjNUpZ1">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 978 likes - 117 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 977 likes - 117 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 83 | [Keep Them Close 'Cause They Will Fuck You Too](https://open.spotify.com/track/2QZml0QtO2dkbhkoaBTUqW) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:14 |
 | 84 | [Brighter Days](https://open.spotify.com/track/2DfB76u7ww77XsBLD2IFFa) | [Taylor Henderson](https://open.spotify.com/artist/40usJiKvNyNHy3GAcNXSWx) | [Burnt Letters](https://open.spotify.com/album/35q6agQrUXirvl16mq8YAa) | 3:17 |
 | 85 | [We Don't Have Fun When We're Together Anymore](https://open.spotify.com/track/2cpUOU7bo8tVMom7cjzAgn) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:17 |
-| 86 | [Life On Earth?](https://open.spotify.com/track/5RpEqAXIsRvVwCJdVmufm9) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Two Songs For Now](https://open.spotify.com/album/1heHLpyhV8jv8dprQxJrki) | 2:10 |
-| 87 | [Lose You](https://open.spotify.com/track/2SF6DL81zTodxZPW7m3VHl) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [Slow Down](https://open.spotify.com/album/72z8nsQyY1ncs5b7fodeYQ) | 2:54 |
+| 86 | [Lose You](https://open.spotify.com/track/2SF6DL81zTodxZPW7m3VHl) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [Slow Down](https://open.spotify.com/album/72z8nsQyY1ncs5b7fodeYQ) | 2:54 |
+| 87 | [Life On Earth?](https://open.spotify.com/track/5RpEqAXIsRvVwCJdVmufm9) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Two Songs For Now](https://open.spotify.com/album/1heHLpyhV8jv8dprQxJrki) | 2:10 |
 | 88 | [Fear Of Missing Out](https://open.spotify.com/track/3SuYCsNMFa61CxlLU6ukNV) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 3:55 |
 | 89 | [Need You Like This](https://open.spotify.com/track/6XS0MhQCtr1Sjvifptm5cv) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 4:25 |
 | 90 | [Burnt Letters](https://open.spotify.com/track/43LKbeJBFLXlShCcfvwhOz) | [Taylor Henderson](https://open.spotify.com/artist/40usJiKvNyNHy3GAcNXSWx) | [Burnt Letters](https://open.spotify.com/album/35q6agQrUXirvl16mq8YAa) | 3:54 |
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 97 | [Let You Down](https://open.spotify.com/track/3RfCrI6Mmteu7Tp4xGndWd) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [FAME](https://open.spotify.com/album/3pF80DknR77Qb9gyd1CXM9) | 3:15 |
 | 98 | [Alien](https://open.spotify.com/track/7q9fCrPFy5MdQcDPFbDR85) | [TOMI](https://open.spotify.com/artist/4FUg6Smq0DbieQJyg1AwXz) | [Alien](https://open.spotify.com/album/5Z5AlMnCuoVkL5sEfnSpUL) | 3:21 |
 | 99 | [Lanterns](https://open.spotify.com/track/43Zwrtbau8McAXvvxw9Qv2) | [Benny Tipene](https://open.spotify.com/artist/6iGRpCDnRmtqYF0tNjRoKJ) | [Bricks \- Extended Sessions](https://open.spotify.com/album/35StGDg3dq2KgNrpC0LwrK) | 2:50 |
-| 100 | [Hallucinate](https://open.spotify.com/track/1OkWTc4o5N7e78c5lrabPQ) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [Solastalgia](https://open.spotify.com/album/7rwzI6iThLPPhZWL07AgE4) | 3:07 |
-| 101 | [Revolution](https://open.spotify.com/track/1cMkI0yq7RjIjSQA7cqZhQ) | [Lily Donat](https://open.spotify.com/artist/3jRKjQ2Eul9SnJVFfdyTj2) | [I Am Woman \(Original Motion Picture Soundtrack\) \[Inspired by the story of Helen Reddy\]](https://open.spotify.com/album/4Dv1Twt5mHut1IGY3XF6Dq) | 2:51 |
+| 100 | [Revolution](https://open.spotify.com/track/1cMkI0yq7RjIjSQA7cqZhQ) | [Lily Donat](https://open.spotify.com/artist/3jRKjQ2Eul9SnJVFfdyTj2) | [I Am Woman \(Original Motion Picture Soundtrack\) \[Inspired by the story of Helen Reddy\]](https://open.spotify.com/album/4Dv1Twt5mHut1IGY3XF6Dq) | 2:51 |
+| 101 | [Hallucinate](https://open.spotify.com/track/1OkWTc4o5N7e78c5lrabPQ) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [Solastalgia](https://open.spotify.com/album/7rwzI6iThLPPhZWL07AgE4) | 3:07 |
 | 102 | [Diss and Disappoint](https://open.spotify.com/track/1RXFZcTmIoG3BpYobw0eyu) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [Diss and Disappoint](https://open.spotify.com/album/7oaEeaY8WIXyHbV72oLHfk) | 2:57 |
 | 103 | [Silver Second](https://open.spotify.com/track/7xQWEbfhhw60STdzIar6dP) | [Theia](https://open.spotify.com/artist/29ADVF7I6YQyY2SGUlzCcB) | [Theia](https://open.spotify.com/album/0JlZC7e9FLo1bgQ0stvEbM) | 3:09 |
 | 104 | [Hold Back](https://open.spotify.com/track/1d0Uq6maOfblLvOZdrgrwT) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Run Where The Light Calls](https://open.spotify.com/album/6RDBPh2kbTqWoGCKckNPHX) | 3:46 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 116 | [die!](https://open.spotify.com/track/3XUqv7Ou5XyrGfbSi15KqU) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm), [Alex Hope](https://open.spotify.com/artist/4vYPr06Tg8byX6r8i2Q3rP) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:13 |
 | 117 | [Look On](https://open.spotify.com/track/5j8txL4kkBL71lbHFfdPX0) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [The Start of Something Beautiful](https://open.spotify.com/album/2I0Fq1wuE7WffXEYdiy5QJ) | 3:03 |
 
-Snapshot ID: `Ab0JkwAAAADqgpdVDhV0S/8WkHpUcYPT`
+Snapshot ID: `Ab0PMgAAAAD4MyFTENZrYUSl8K8olXYe`

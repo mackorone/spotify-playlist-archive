@@ -4,7 +4,7 @@
 
 > Cool és trendi dalok Magyarországon!
 
-334 songs - 16 hr 43 min
+335 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Gyere Kislány](https://open.spotify.com/track/4ZXIRnU7kU6HCxjIUEVgoH) | [Fehér Krisztián](https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX), [Burai](https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO) | [Gyere Kislány](https://open.spotify.com/album/7u1VEXdOplmEB5UQPJEzUX) | 3:36 | 2024-09-16 |  |
 | [Gyufa a lángon](https://open.spotify.com/track/0NlXimeK63kcIg51nnfY0W) | [ÉBERKÓMA](https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1) | [Gyufa a lángon](https://open.spotify.com/album/5Q6M1tY1pBE7tcqHMGO6h4) | 2:56 | 2025-01-07 | 2025-01-11 |
 | [gát](https://open.spotify.com/track/1Qzkw4QaTXbVd1TmDzSNOv) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 3:09 | 2024-07-01 | 2025-03-18 |
-| [GÁZ](https://open.spotify.com/track/07L9KepMsQ4mG9BLE04mXc) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Jaber](https://open.spotify.com/artist/6T2yephqss2R5uK7CmfLgo) | [GÁZ](https://open.spotify.com/album/3AChlpJwQJBBiGrL1wsizp) | 3:05 | 2024-07-01 |  |
+| [GÁZ](https://open.spotify.com/track/07L9KepMsQ4mG9BLE04mXc) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Jaber](https://open.spotify.com/artist/6T2yephqss2R5uK7CmfLgo) | [GÁZ](https://open.spotify.com/album/3AChlpJwQJBBiGrL1wsizp) | 3:05 | 2024-07-01 | 2025-06-16 |
 | [Ha Ha Ha](https://open.spotify.com/track/6RHdmGAFkPS9uuupwv9VVE) | [hazetomika](https://open.spotify.com/artist/3hvIZ2TPVhx5ZcTV7Q9nHL) | [ÁTLAG FELETT](https://open.spotify.com/album/6vVFF9pN3xslTcRLmNz4Al) | 2:30 | 2024-09-30 | 2024-10-08 |
 | [Ha Meghalnék \(feat\. Indigo & Mehringer & sosehol\)](https://open.spotify.com/track/05kTAevWO4W5HyzRUCc8IE) | [Lil Frakk](https://open.spotify.com/artist/0CJxR2iBZb64SRwApcj2Ev), [Indigo](https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA), [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai) | [A Happy End Után Is Van Másnap](https://open.spotify.com/album/43ytyMluoBbUp6WA7z0nek) | 2:55 | 2025-03-17 | 2025-03-25 |
 | [Ha reám süt](https://open.spotify.com/track/5i4iq0eLK1JlrkKgTpQwR3) | [Bagossy Brothers Company](https://open.spotify.com/artist/1vpC76RZf9ndFkOEB7agn9) | [Ha reám süt](https://open.spotify.com/album/2wS3rrXMfrrAZ96cZBOMYk) | 3:24 | 2024-08-06 | 2024-08-13 |
@@ -137,6 +137,7 @@
 | [Huncut menyecskék](https://open.spotify.com/track/0zFBtxhLtKsQJEaLJz0nNv) | [Péterfy Bori & Love Band](https://open.spotify.com/artist/1rRAJF3FBwQsGx4twrUqiC), [Sisi](https://open.spotify.com/artist/36u9Dv4YhMto70ODgOT8mD) | [Medúza](https://open.spotify.com/album/32QM8xH4rYWLe0817ZhMju) | 2:16 | 2024-11-19 | 2024-11-26 |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-07-01 |  |
 | [Idegen](https://open.spotify.com/track/2YI0g5epsyiT7x0IG9g1Vr) | [Nemes](https://open.spotify.com/artist/6PpqLUiqmMT5pKV3CkFVwg), [BOTTKA](https://open.spotify.com/artist/6ldpbLMr9rj1ya5dZSp3Zx) | [Idegen](https://open.spotify.com/album/3FwKlindLHxKcktH2c0iuN) | 3:32 | 2024-07-01 | 2024-07-09 |
+| [Illeg\*lis party](https://open.spotify.com/track/45D2eYiMaCKXGBIaDdepqV) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [ILLEG\*LIS PARTYK](https://open.spotify.com/album/6uyJvmYnCoZ64sGKTAxD8B) | 2:38 | 2025-06-09 |  |
 | [ILMB \(feat\. Travis Scott\)](https://open.spotify.com/track/697mqzUk9iIdnY3yHLXYEt) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ILMB \(feat\. Travis Scott\)](https://open.spotify.com/album/0OORiZ1arhRjbiSzNq9itT) | 3:04 | 2025-04-14 | 2025-05-06 |
 | [Infó\-infó](https://open.spotify.com/track/29AEUAfd7mwlTonlAAJ5h9) | [Fehér Krisztián](https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX) | [Infó\-infó](https://open.spotify.com/album/1BBPGKC1CW1J8wQzpuf59E) | 2:29 | 2025-05-26 | 2025-06-03 |
 | [introvertált dal](https://open.spotify.com/track/2EAvOY1uymm5ZAd0ZbnnPW) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [memento](https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT) | 2:49 | 2024-07-01 |  |

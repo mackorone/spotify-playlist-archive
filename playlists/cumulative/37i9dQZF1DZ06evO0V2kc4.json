@@ -703,6 +703,24 @@
     },
     {
       "album": {
+        "name": "If I Wrote You: Favorite Songs By Some Of My Favorite Songwriters",
+        "url": "https://open.spotify.com/album/5pyD4MonVyt9h9tcgoYpBM"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209813,
+      "name": "God Is God",
+      "url": "https://open.spotify.com/track/5eKQFLU9s7vVtZKvza2on8"
+    },
+    {
+      "album": {
         "name": "Joan Baez 75th Birthday Celebration",
         "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
       },
@@ -1682,7 +1700,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 221493,
       "name": "Silver Dagger - Live at Philharmonic Hall, New York, NY - October 1964",
       "url": "https://open.spotify.com/track/7buaEIGFa9f7rXjOAApie9"

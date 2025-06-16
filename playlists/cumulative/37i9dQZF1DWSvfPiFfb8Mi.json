@@ -301,6 +301,32 @@
     },
     {
       "album": {
+        "name": "Allora Amore",
+        "url": "https://open.spotify.com/album/3S5nQZtFOTcrJ8EUbRroE6"
+      },
+      "artists": [
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        },
+        {
+          "name": "Joe Le Groove",
+          "url": "https://open.spotify.com/artist/3Vny01PfbbFxQ6bCtW4AFr"
+        }
+      ],
+      "date_added": "2025-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209400,
+      "name": "Allora Amore",
+      "url": "https://open.spotify.com/track/5LaJmV58x4FXGiz4mmdQBH"
+    },
+    {
+      "album": {
         "name": "Alsace",
         "url": "https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS"
       },
@@ -7388,7 +7414,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 188571,
       "name": "UP DOWN BOUNCE",
       "url": "https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y"

@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Brandee Younger
 
-1,899 songs - 4 day 6 hr 43 min
+1,900 songs - 4 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1269,7 +1269,7 @@
 | [Pain](https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:38 | 2022-06-01 | 2022-07-07 |
 | [Paint The Town Blue](https://open.spotify.com/track/0XgOhyJWH5UVWyV7farWDr) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Paint The Town Blue](https://open.spotify.com/album/0lifeDOx0hIOwqMUEwmcfZ) | 3:05 | 2023-11-08 | 2023-11-30 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2025-03-05 | 2025-03-19 |
-| [Pajamas](https://open.spotify.com/track/3svAabqImjfGaLARJDuFg0) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06) | [Pajamas](https://open.spotify.com/album/3KqPQgeeJyuWSl5naBFh1o) | 2:36 | 2025-06-04 |  |
+| [Pajamas](https://open.spotify.com/track/3svAabqImjfGaLARJDuFg0) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06) | [Pajamas](https://open.spotify.com/album/3KqPQgeeJyuWSl5naBFh1o) | 2:36 | 2025-06-04 | 2025-06-16 |
 | [Palace](https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Palace](https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO) | 2:32 | 2023-04-05 | 2023-05-04 |
 | [PANIC ATTACK](https://open.spotify.com/track/7Gf6BvF5vHKq1ZABgdbMkx) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [PANIC ATTACK](https://open.spotify.com/album/49iWkiTVH0JxJM36bVT7ey) | 2:29 | 2021-12-01 | 2022-01-06 |
 | [Paper Bag](https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 3:39 | 2022-04-06 | 2022-05-05 |
@@ -1757,6 +1757,7 @@
 | [Valerie \- Live At BBC Radio 1 Live Lounge, London / 2007](https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:53 | 2024-10-01 | 2024-11-02 |
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-08-02 | 2023-09-07 |
 | [Vegas](https://open.spotify.com/track/4eUddSnDzVwdEOAJrgUJTc) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Vegas](https://open.spotify.com/album/691ksPJCtqp8oy1zjVxHNT) | 3:13 | 2022-08-03 | 2022-09-09 |
+| [Vertigo](https://open.spotify.com/track/5ElhrA4i6PX4vkJ6sOEPE3) | [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Vertigo](https://open.spotify.com/album/7awFCf1IxOUrMpBqt4IZxx) | 3:04 | 2025-06-04 |  |
 | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR) | 3:07 | 2022-07-06 | 2022-08-04 |
 | [Virginity](https://open.spotify.com/track/71UNeDnHSi1dWnGgRgFdLU) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Virginity](https://open.spotify.com/album/6YXOcBLyEC6ah8w302CLsw) | 2:18 | 2022-09-07 | 2022-10-06 |
 | [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:07 | 2023-04-05 | 2023-05-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Celebrating 10 years of the best new country music from independent artists\. Cover: The Kentucky Gentlemen, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,517 likes - 206 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,538 likes - 206 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

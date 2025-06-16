@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 13211,
+  "num_followers": 13226,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAAVvZvqPJ6waofKbUmO1mc3",
+  "snapshot_id": "aEy7gAAAAAB0QepSwKum4RCl73Mbj3Qq",
   "tracks": [
     {
       "added_at": null,
@@ -411,18 +411,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "LoveSong",
-        "url": "https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS"
+        "name": "F\u00daRIA",
+        "url": "https://open.spotify.com/album/3J5ykRCZav5xEqcZTkh7Sm"
       },
       "artists": [
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "name": "Monna Brutal",
+          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
+        },
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         }
       ],
-      "duration_ms": 142268,
-      "name": "LoveSong",
-      "url": "https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD"
+      "duration_ms": 168588,
+      "name": "Maserati",
+      "url": "https://open.spotify.com/track/43cQmlREc5Fvt1f2Lo5RLz"
     },
     {
       "added_at": null,
@@ -467,26 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00daRIA",
-        "url": "https://open.spotify.com/album/3J5ykRCZav5xEqcZTkh7Sm"
+        "name": "LoveSong",
+        "url": "https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS"
       },
       "artists": [
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        },
-        {
-          "name": "Monna Brutal",
-          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
-        },
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         }
       ],
-      "duration_ms": 168588,
-      "name": "Maserati",
-      "url": "https://open.spotify.com/track/43cQmlREc5Fvt1f2Lo5RLz"
+      "duration_ms": 142268,
+      "name": "LoveSong",
+      "url": "https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD"
     },
     {
       "added_at": null,

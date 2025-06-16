@@ -4,7 +4,7 @@
 
 > One in a million! TWICE!
 
-249 songs - 13 hr 28 min
+250 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [DON'T CALL ME AGAIN](https://open.spotify.com/track/5Y3OPUKCfbGNygyijpeP4e) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 2:53 | 2022-03-24 |  |
 | [DON’T CALL ME AGAIN](https://open.spotify.com/track/4pOPTaIor4ilgBCcOmnJRU) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 2:53 | 2022-07-19 | 2024-04-19 |
 | [Doughnut](https://open.spotify.com/track/6YBcbXDYIITuyCEN2YwGRy) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Doughnut](https://open.spotify.com/album/2g8Uav5MCzs3B4pJO9U24p) | 4:23 | 2022-03-24 |  |
+| [Era with NAYEON \- \(Remix\)](https://open.spotify.com/track/0Nezjtp74RRI0p6C3gXN13) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [Era with NAYEON \(TWICE\)](https://open.spotify.com/album/4oRP4R749QNBtxOob5lylI) | 2:29 | 2025-06-16 |  |
 | [ESPRESSO](https://open.spotify.com/track/5xUJPd7wa2sVsu7TtjmRdn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:07 | 2022-03-24 |  |
 | [ESPRESSO](https://open.spotify.com/track/61iEzLnJzBnMwumWtn0nFp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:07 | 2022-07-19 | 2024-04-19 |
 | [F.I.L.A \(Fall In Love Again\)](https://open.spotify.com/track/300nzoKtNDcwlNCZpF58be) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:11 | 2022-03-24 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 14302,
+  "num_followers": 14322,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAACLijt/+fyq72RlJb3APfju",
+  "snapshot_id": "aEy7gAAAAABS1I6pphwxtXeeJwH/1k55",
   "tracks": [
     {
       "added_at": null,
@@ -239,30 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEYENDA",
-        "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Yng Naz",
-          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
-        }
-      ],
-      "duration_ms": 214410,
-      "name": "VIAJA CONMIGO (feat. Jasiel Nu\u00f1ez, Yng Naz) - Remix",
-      "url": "https://open.spotify.com/track/3jUi2kxcsmnc23QtgXve4p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Que Te Escrib\u00ed y Nunca Te Cant\u00e9",
         "url": "https://open.spotify.com/album/2LaGANWLbDpG6A1Mcpj6SB"
       },
@@ -283,6 +259,30 @@
       "duration_ms": 273200,
       "name": "Jugando a Perder",
       "url": "https://open.spotify.com/track/2HCBHEC5GOevDnWTIP7OH3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEYENDA",
+        "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Yng Naz",
+          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
+        }
+      ],
+      "duration_ms": 214410,
+      "name": "VIAJA CONMIGO (feat. Jasiel Nu\u00f1ez, Yng Naz) - Remix",
+      "url": "https://open.spotify.com/track/3jUi2kxcsmnc23QtgXve4p"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/76dKiYbd23p07GGKOxTRBF"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 164347,
-      "name": "Vibras",
-      "url": "https://open.spotify.com/track/1JeZEBITR6xA1fTM7Jbttp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Lo Busque",
         "url": "https://open.spotify.com/album/1QJIg7QwIAxHMWR9mX22vr"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 225348,
       "name": "Y Lo Busque",
       "url": "https://open.spotify.com/track/1Jhpx16lJWQM9p961qHSnc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/76dKiYbd23p07GGKOxTRBF"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 164347,
+      "name": "Vibras",
+      "url": "https://open.spotify.com/track/1JeZEBITR6xA1fTM7Jbttp"
     },
     {
       "added_at": null,
@@ -685,8 +685,8 @@
         }
       ],
       "duration_ms": 136000,
-      "name": "Modo On",
-      "url": "https://open.spotify.com/track/5Xpp9bvruz8h8XcoDIa1kB"
+      "name": "Flow Criminal",
+      "url": "https://open.spotify.com/track/2qH76OVzQR5AAexNHhrFEj"
     },
     {
       "added_at": null,
@@ -733,8 +733,8 @@
         }
       ],
       "duration_ms": 136000,
-      "name": "Flow Criminal",
-      "url": "https://open.spotify.com/track/2qH76OVzQR5AAexNHhrFEj"
+      "name": "Modo On",
+      "url": "https://open.spotify.com/track/5Xpp9bvruz8h8XcoDIa1kB"
     },
     {
       "added_at": null,

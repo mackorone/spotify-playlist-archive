@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 936670,
+  "num_followers": 936629,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2025-06-13 04:00:55",
       "album": {
+        "name": "Movin",
+        "url": "https://open.spotify.com/album/6QCAQ6yMORnlCBu3ZslblQ"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Movin",
+      "url": "https://open.spotify.com/track/4ZrZ4JTnITEhLSYpZw43vV"
+    },
+    {
+      "added_at": "2025-06-13 04:00:55",
+      "album": {
         "name": "Don't Be Shy",
         "url": "https://open.spotify.com/album/1viRLvWGXRMCmZwSwnd1dF"
       },
@@ -511,22 +527,6 @@
     {
       "added_at": "2025-06-13 04:00:55",
       "album": {
-        "name": "Movin",
-        "url": "https://open.spotify.com/album/6QCAQ6yMORnlCBu3ZslblQ"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Movin",
-      "url": "https://open.spotify.com/track/4ZrZ4JTnITEhLSYpZw43vV"
-    },
-    {
-      "added_at": "2025-06-13 04:00:55",
-      "album": {
         "name": "Let Me Think About It Again",
         "url": "https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz"
       },
@@ -543,38 +543,6 @@
       "duration_ms": 195813,
       "name": "Let Me Think About It Again",
       "url": "https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY"
-    },
-    {
-      "added_at": "2025-06-13 04:00:55",
-      "album": {
-        "name": "Goosebumps",
-        "url": "https://open.spotify.com/album/3MoEKmUWinVchDsrOmka16"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 150128,
-      "name": "Goosebumps",
-      "url": "https://open.spotify.com/track/1pjBBHUjHqS92OmaNa2fWS"
-    },
-    {
-      "added_at": "2025-06-13 04:00:55",
-      "album": {
-        "name": "Midnight Trip",
-        "url": "https://open.spotify.com/album/6HNCtwAe16YWpp2i5HKbk6"
-      },
-      "artists": [
-        {
-          "name": "TOYZZ",
-          "url": "https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV"
-        }
-      ],
-      "duration_ms": 194545,
-      "name": "Midnight Trip",
-      "url": "https://open.spotify.com/track/0kcM5HzMLTc3K15an6nZcJ"
     },
     {
       "added_at": "2025-06-13 04:00:55",
@@ -603,6 +571,38 @@
     {
       "added_at": "2025-06-13 04:00:55",
       "album": {
+        "name": "Midnight Trip",
+        "url": "https://open.spotify.com/album/6HNCtwAe16YWpp2i5HKbk6"
+      },
+      "artists": [
+        {
+          "name": "TOYZZ",
+          "url": "https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV"
+        }
+      ],
+      "duration_ms": 194545,
+      "name": "Midnight Trip",
+      "url": "https://open.spotify.com/track/0kcM5HzMLTc3K15an6nZcJ"
+    },
+    {
+      "added_at": "2025-06-13 04:00:55",
+      "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/3MoEKmUWinVchDsrOmka16"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 150128,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/1pjBBHUjHqS92OmaNa2fWS"
+    },
+    {
+      "added_at": "2025-06-13 04:00:55",
+      "album": {
         "name": "The Future Is Now - The Truth",
         "url": "https://open.spotify.com/album/1pa9ceQtw8p6Gl8EAY7ZIh"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 178560,
       "name": "The Future Is Now",
       "url": "https://open.spotify.com/track/1XZhL5Rgbgbhf9o9MWneOx"
-    },
-    {
-      "added_at": "2025-06-13 04:00:55",
-      "album": {
-        "name": "Charged Up",
-        "url": "https://open.spotify.com/album/4HckeGUqZQrIUCOGbNJB30"
-      },
-      "artists": [
-        {
-          "name": "Firebeatz",
-          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
-        }
-      ],
-      "duration_ms": 123222,
-      "name": "Charged Up",
-      "url": "https://open.spotify.com/track/414AiThcDCEw5KDrpouSlQ"
     },
     {
       "added_at": "2025-06-13 04:00:55",
@@ -675,18 +659,18 @@
     {
       "added_at": "2025-06-13 04:00:55",
       "album": {
-        "name": "C.R.E.A.M.",
-        "url": "https://open.spotify.com/album/7pOk3ct870S4hLB547f7VJ"
+        "name": "Charged Up",
+        "url": "https://open.spotify.com/album/4HckeGUqZQrIUCOGbNJB30"
       },
       "artists": [
         {
-          "name": "Lukas Vane",
-          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
+          "name": "Firebeatz",
+          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
         }
       ],
-      "duration_ms": 149562,
-      "name": "C.R.E.A.M.",
-      "url": "https://open.spotify.com/track/3sPnvTRfLlviMwOGbvjIug"
+      "duration_ms": 123222,
+      "name": "Charged Up",
+      "url": "https://open.spotify.com/track/414AiThcDCEw5KDrpouSlQ"
     },
     {
       "added_at": "2025-06-13 04:00:55",
@@ -707,6 +691,22 @@
       "duration_ms": 165000,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
+    },
+    {
+      "added_at": "2025-06-13 04:00:55",
+      "album": {
+        "name": "C.R.E.A.M.",
+        "url": "https://open.spotify.com/album/7pOk3ct870S4hLB547f7VJ"
+      },
+      "artists": [
+        {
+          "name": "Lukas Vane",
+          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
+        }
+      ],
+      "duration_ms": 149562,
+      "name": "C.R.E.A.M.",
+      "url": "https://open.spotify.com/track/3sPnvTRfLlviMwOGbvjIug"
     },
     {
       "added_at": "2025-06-13 04:00:55",
@@ -819,30 +819,6 @@
     {
       "added_at": "2025-06-13 04:00:55",
       "album": {
-        "name": "Oxygen",
-        "url": "https://open.spotify.com/album/62FE6CAsHHKN3E2UxwLHCi"
-      },
-      "artists": [
-        {
-          "name": "Repiet",
-          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
-        },
-        {
-          "name": "Brooks",
-          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
-        },
-        {
-          "name": "JAI RYU",
-          "url": "https://open.spotify.com/artist/1YtiawZzH3pF90C07iauWh"
-        }
-      ],
-      "duration_ms": 166048,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/6UMhxtPmas7o2Lk21aGH9O"
-    },
-    {
-      "added_at": "2025-06-13 04:00:55",
-      "album": {
         "name": "2HEARTs dlux",
         "url": "https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ"
       },
@@ -871,6 +847,30 @@
       "duration_ms": 191250,
       "name": "2 Things",
       "url": "https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O"
+    },
+    {
+      "added_at": "2025-06-13 04:00:55",
+      "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/62FE6CAsHHKN3E2UxwLHCi"
+      },
+      "artists": [
+        {
+          "name": "Repiet",
+          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
+        },
+        {
+          "name": "Brooks",
+          "url": "https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e"
+        },
+        {
+          "name": "JAI RYU",
+          "url": "https://open.spotify.com/artist/1YtiawZzH3pF90C07iauWh"
+        }
+      ],
+      "duration_ms": 166048,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/6UMhxtPmas7o2Lk21aGH9O"
     },
     {
       "added_at": "2025-06-13 04:00:55",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2025-06-13 04:00:55",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/2SWKH00mLsaRmLa1f05Sox"
-      },
-      "artists": [
-        {
-          "name": "Wenzday",
-          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
-        },
-        {
-          "name": "Confession",
-          "url": "https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/6bqKjzTRCFudLgD4kPpMpC"
-    },
-    {
-      "added_at": "2025-06-13 04:00:55",
-      "album": {
         "name": "Feel The Beat",
         "url": "https://open.spotify.com/album/0lNYFhvrwG8dAeUvAzLznh"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 192382,
       "name": "Outer Space",
       "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
+    },
+    {
+      "added_at": "2025-06-13 04:00:55",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2SWKH00mLsaRmLa1f05Sox"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        },
+        {
+          "name": "Confession",
+          "url": "https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/6bqKjzTRCFudLgD4kPpMpC"
     },
     {
       "added_at": "2025-06-13 04:00:55",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2025-06-13 04:00:55",
       "album": {
-        "name": "Welcome To The Future",
-        "url": "https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb"
-      },
-      "artists": [
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Welcome To The Future",
-      "url": "https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo"
-    },
-    {
-      "added_at": "2025-06-13 04:00:55",
-      "album": {
         "name": "Anywhere You Go",
         "url": "https://open.spotify.com/album/6mRvKOoHZhmm0MLoztR9ky"
       },
@@ -1315,6 +1295,26 @@
     {
       "added_at": "2025-06-13 04:00:55",
       "album": {
+        "name": "Welcome To The Future",
+        "url": "https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Welcome To The Future",
+      "url": "https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo"
+    },
+    {
+      "added_at": "2025-06-13 04:00:55",
+      "album": {
         "name": "Ravers Bounce",
         "url": "https://open.spotify.com/album/0nj0CJnBAKK7gkrXQgczxi"
       },
@@ -1331,6 +1331,22 @@
       "duration_ms": 195357,
       "name": "Ravers Bounce",
       "url": "https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ"
+    },
+    {
+      "added_at": "2025-06-13 04:00:55",
+      "album": {
+        "name": "Selecta",
+        "url": "https://open.spotify.com/album/4bq8jTnpZ8HrQ29TpE0URG"
+      },
+      "artists": [
+        {
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/63ypuogvE15L0ju8wCGJDx"
     },
     {
       "added_at": "2025-06-13 04:00:55",
@@ -1407,22 +1423,6 @@
       "duration_ms": 147420,
       "name": "Repeating",
       "url": "https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk"
-    },
-    {
-      "added_at": "2025-06-13 04:00:55",
-      "album": {
-        "name": "Selecta",
-        "url": "https://open.spotify.com/album/4bq8jTnpZ8HrQ29TpE0URG"
-      },
-      "artists": [
-        {
-          "name": "Kapuzen",
-          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/63ypuogvE15L0ju8wCGJDx"
     },
     {
       "added_at": "2025-06-13 04:00:55",
@@ -1515,34 +1515,6 @@
     {
       "added_at": "2025-06-13 04:00:55",
       "album": {
-        "name": "No More",
-        "url": "https://open.spotify.com/album/1HSw1aVWGMkh1vi7fBG6bo"
-      },
-      "artists": [
-        {
-          "name": "Vluarr",
-          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
-        },
-        {
-          "name": "GRX",
-          "url": "https://open.spotify.com/artist/2xgAJkalFHfceCNGETOkyM"
-        },
-        {
-          "name": "Thomas Nan",
-          "url": "https://open.spotify.com/artist/0hxxNMb3Egp5oWzR0vcX8v"
-        },
-        {
-          "name": "ZANA",
-          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/6KYAjSvbUR9ODsnNJH3O6P"
-    },
-    {
-      "added_at": "2025-06-13 04:00:55",
-      "album": {
         "name": "Losing My Head",
         "url": "https://open.spotify.com/album/3JWoL41S9fFXbMooVYxvCz"
       },
@@ -1579,6 +1551,34 @@
     {
       "added_at": "2025-06-13 04:00:55",
       "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/1HSw1aVWGMkh1vi7fBG6bo"
+      },
+      "artists": [
+        {
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+        },
+        {
+          "name": "GRX",
+          "url": "https://open.spotify.com/artist/2xgAJkalFHfceCNGETOkyM"
+        },
+        {
+          "name": "Thomas Nan",
+          "url": "https://open.spotify.com/artist/0hxxNMb3Egp5oWzR0vcX8v"
+        },
+        {
+          "name": "ZANA",
+          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/6KYAjSvbUR9ODsnNJH3O6P"
+    },
+    {
+      "added_at": "2025-06-13 04:00:55",
+      "album": {
         "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
       },
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2025-06-13 04:00:55",
       "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/51wiwpo6ZoXNiYX4KagKuh"
+        "name": "Still Cutting Shapes",
+        "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
       },
       "artists": [
         {
-          "name": "Repiet",
-          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 198047,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/2QOadE17eoDQSzXWcfCSJD"
+      "duration_ms": 148571,
+      "name": "Still Cutting Shapes",
+      "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
     },
     {
       "added_at": "2025-06-13 04:00:55",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2025-06-13 04:00:55",
       "album": {
-        "name": "Still Cutting Shapes",
-        "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Still Cutting Shapes",
-      "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
-    },
-    {
-      "added_at": "2025-06-13 04:00:55",
-      "album": {
         "name": "For The People",
         "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
       },
@@ -1667,6 +1651,42 @@
       "duration_ms": 219345,
       "name": "For The People",
       "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
+    },
+    {
+      "added_at": "2025-06-13 04:00:55",
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/51wiwpo6ZoXNiYX4KagKuh"
+      },
+      "artists": [
+        {
+          "name": "Repiet",
+          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
+        }
+      ],
+      "duration_ms": 198047,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/2QOadE17eoDQSzXWcfCSJD"
+    },
+    {
+      "added_at": "2025-06-13 04:00:55",
+      "album": {
+        "name": "Make a Living",
+        "url": "https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        }
+      ],
+      "duration_ms": 177798,
+      "name": "Make a Living",
+      "url": "https://open.spotify.com/track/5VlY1cabCZa9YQ9JtLhFlP"
     },
     {
       "added_at": "2025-06-13 04:00:55",
@@ -1731,26 +1751,6 @@
     {
       "added_at": "2025-06-13 04:00:55",
       "album": {
-        "name": "Make a Living",
-        "url": "https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p"
-      },
-      "artists": [
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        },
-        {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
-        }
-      ],
-      "duration_ms": 177798,
-      "name": "Make a Living",
-      "url": "https://open.spotify.com/track/5VlY1cabCZa9YQ9JtLhFlP"
-    },
-    {
-      "added_at": "2025-06-13 04:00:55",
-      "album": {
         "name": "Night Shift",
         "url": "https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT"
       },
@@ -1791,38 +1791,6 @@
     {
       "added_at": "2025-06-13 04:00:55",
       "album": {
-        "name": "Bass Down Low",
-        "url": "https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "Bass Down Low",
-      "url": "https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS"
-    },
-    {
-      "added_at": "2025-06-13 04:00:55",
-      "album": {
-        "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
-        "url": "https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        }
-      ],
-      "duration_ms": 176309,
-      "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
-      "url": "https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u"
-    },
-    {
-      "added_at": "2025-06-13 04:00:55",
-      "album": {
         "name": "Free My Mind",
         "url": "https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU"
       },
@@ -1839,6 +1807,42 @@
       "duration_ms": 171076,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF"
+    },
+    {
+      "added_at": "2025-06-13 04:00:55",
+      "album": {
+        "name": "I'm Drunk (feat. AMY MIY\u00da)",
+        "url": "https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta"
+      },
+      "artists": [
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        },
+        {
+          "name": "AMY MIY\u00da",
+          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
+        }
+      ],
+      "duration_ms": 150234,
+      "name": "I'm Drunk (feat. AMY MIY\u00da)",
+      "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
+    },
+    {
+      "added_at": "2025-06-13 04:00:55",
+      "album": {
+        "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
+        "url": "https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "duration_ms": 176309,
+      "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
+      "url": "https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u"
     },
     {
       "added_at": "2025-06-13 04:00:55",
@@ -1867,22 +1871,18 @@
     {
       "added_at": "2025-06-13 04:00:55",
       "album": {
-        "name": "I'm Drunk (feat. AMY MIY\u00da)",
-        "url": "https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta"
+        "name": "Bass Down Low",
+        "url": "https://open.spotify.com/album/2DaViq18I0lL0DIfyVWTe4"
       },
       "artists": [
         {
-          "name": "Yung Felix",
-          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
-        },
-        {
-          "name": "AMY MIY\u00da",
-          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         }
       ],
-      "duration_ms": 150234,
-      "name": "I'm Drunk (feat. AMY MIY\u00da)",
-      "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
+      "duration_ms": 184320,
+      "name": "Bass Down Low",
+      "url": "https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS"
     },
     {
       "added_at": "2025-06-13 04:00:55",

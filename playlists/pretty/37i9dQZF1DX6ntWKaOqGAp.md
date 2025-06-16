@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: UVERworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,692 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,701 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [Kanpaku Sengen](https://open.spotify.com/track/0uuaYmRMQkmqXywMCanpBz) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Kanpaku Sengen](https://open.spotify.com/album/0to3DAagBzCHvlfv1IyrQP) | 3:05 |
 | 100 | [SUNBURST](https://open.spotify.com/track/2w3zalxLtDZ79Y0rckb9LR) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [SUNBURST](https://open.spotify.com/album/14DsydSdy9xFYHzQ5avdlU) | 3:15 |
 
-Snapshot ID: `AAAAAPyMkFRCeLMb6PqA22qUiQoE+gr0`
+Snapshot ID: `aErutwAAAACirRTebzhc8qmhLLc3MdUt`

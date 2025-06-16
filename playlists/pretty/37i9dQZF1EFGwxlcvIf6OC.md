@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGwxlcvIf6OC.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3bgocJUTFhXlCEOEZEBTBr">Cam</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204 likes - 32 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 203 likes - 32 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGwxlcvIf6OC.md) - [plain]
 | 31 | [Never Let Us Fade ft\. Cam](https://open.spotify.com/track/11PE2uYRZJLvJFnRETVKT5) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Petrichor](https://open.spotify.com/album/6y3Qwq2Cfba06BoiqtLd7E) | 3:43 |
 | 32 | [Alchemy](https://open.spotify.com/track/2xoH0GxWAq8AxivBQdg4SY) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Alchemy](https://open.spotify.com/album/7C0o4kiZosGwLdgsdHKmtU) | 2:40 |
 
-Snapshot ID: `Ab0JfgAAAADLeOYkus+WDIYji9HWaes3`
+Snapshot ID: `Ab0PHgAAAADQkrqQaPJ3IV/AmTQ6Gi4I`

@@ -4,7 +4,7 @@
 
 > Welcome to the Nordic queendom.
 
-160 songs - 8 hr 10 min
+161 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,9 +113,10 @@
 | [Nothing's Really Over, Not With Anyone](https://open.spotify.com/track/58FryVfE2TK3vRu64yWkBY) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Catharsis](https://open.spotify.com/album/66gqu98OyVLm1yrfDKtdOm) | 2:22 | 2025-03-11 | 2025-05-27 |
 | [On and On and On](https://open.spotify.com/track/7aLXAoR6RB5qQmBRvKE2kO) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [On and On and On](https://open.spotify.com/album/5WVwKAUf52Lo1QxZLOYTFj) | 2:59 | 2025-03-04 |  |
 | [One Day](https://open.spotify.com/track/0MGC7gE67o7QluGjtMGLtA) | [Mariette](https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns) | [One Day](https://open.spotify.com/album/7eB0QLTXvh52cnDFt0Ppry) | 2:55 | 2024-02-08 | 2025-03-05 |
-| [PARASITE](https://open.spotify.com/track/4L5jAC9hM6uJ9T7wW7SlXI) | [Wilma Vidal](https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O) | [PARASITE](https://open.spotify.com/album/4XWYTwYbIQ5Av9dcMrheEH) | 3:40 | 2025-03-04 |  |
+| [PARASITE](https://open.spotify.com/track/4L5jAC9hM6uJ9T7wW7SlXI) | [Wilma Vidal](https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O) | [PARASITE](https://open.spotify.com/album/4XWYTwYbIQ5Av9dcMrheEH) | 3:40 | 2025-03-04 | 2025-06-16 |
 | [Partner In Crime](https://open.spotify.com/track/6iuni8ZCs2mPeUfmCsZqsg) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Partner In Crime](https://open.spotify.com/album/6bt48pYHOYZUDHQLYZx01F) | 2:35 | 2024-02-08 | 2025-03-05 |
 | [Picking Up](https://open.spotify.com/track/6tNIRsPksF7AO6dzE2zjlP) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Romeo](https://open.spotify.com/album/4JILgQ2bXqNFc0QvIGb0LR) | 3:19 | 2025-03-04 |  |
+| [Pieces](https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [Pieces](https://open.spotify.com/album/5PT3pq9vG5gS1IQGfFXpH2) | 2:58 | 2025-05-06 |  |
 | [Pluto \- Bonus Track](https://open.spotify.com/track/1hdcXfKIZmasAWOUHOuvsL) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Home](https://open.spotify.com/album/5xIhqzT3uHMgftvTyMWUvn) | 2:51 | 2024-02-08 |  |
 | [Pornography](https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T), [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Pornography](https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK) | 3:46 | 2025-03-04 |  |
 | [Portland](https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Portland](https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf) | 2:52 | 2025-03-04 |  |

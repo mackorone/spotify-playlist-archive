@@ -1,12 +1,12 @@
 {
   "description": "This is Rex Orange County. The essential tracks, all in one playlist.",
-  "num_followers": 380299,
+  "num_followers": 380298,
   "original_name": "This Is Rex Orange County",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAD7gsu12AdcM8XYeQUivBig",
+  "snapshot_id": "aEy7gAAAAADgon16biA4RVP/iRaz/432",
   "tracks": [
     {
       "added_at": null,
@@ -455,18 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apricot Princess",
-        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
+        "name": "WHO CARES?",
+        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
       },
       "artists": [
         {
           "name": "Rex Orange County",
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 240346,
-      "name": "Waiting Room",
-      "url": "https://open.spotify.com/track/1B04mWViAk7jcLEifYbvdi"
+      "duration_ms": 218586,
+      "name": "OPEN A WINDOW (feat. Tyler, The Creator)",
+      "url": "https://open.spotify.com/track/1TDeDFUYHjZKLsO6bzoVg1"
     },
     {
       "added_at": null,
@@ -503,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHO CARES?",
-        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 218586,
-      "name": "OPEN A WINDOW (feat. Tyler, The Creator)",
-      "url": "https://open.spotify.com/track/1TDeDFUYHjZKLsO6bzoVg1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apricot Princess",
         "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
       },
@@ -532,9 +516,25 @@
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 301773,
-      "name": "4 Seasons",
-      "url": "https://open.spotify.com/track/4fg2EzaeNhR2PWNGXbX18n"
+      "duration_ms": 240346,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/1B04mWViAk7jcLEifYbvdi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHO CARES?",
+        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 115400,
+      "name": "MAKING TIME",
+      "url": "https://open.spotify.com/track/6VxUwrFA62k7apLawHsC08"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHO CARES?",
-        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
+        "name": "Apricot Princess",
+        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 115400,
-      "name": "MAKING TIME",
-      "url": "https://open.spotify.com/track/6VxUwrFA62k7apLawHsC08"
+      "duration_ms": 301773,
+      "name": "4 Seasons",
+      "url": "https://open.spotify.com/track/4fg2EzaeNhR2PWNGXbX18n"
     },
     {
       "added_at": null,

@@ -637,6 +637,24 @@
     },
     {
       "album": {
+        "name": "I'm All Ears",
+        "url": "https://open.spotify.com/album/5Bnhkya5cGltQFTrnC0grx"
+      },
+      "artists": [
+        {
+          "name": "Let's Eat Grandma",
+          "url": "https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346489,
+      "name": "Falling Into Me",
+      "url": "https://open.spotify.com/track/6tBoGL2cAkf4e7737QQUU9"
+    },
+    {
+      "album": {
         "name": "Soy Pablo",
         "url": "https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw"
       },
@@ -2552,7 +2570,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 184693,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/5L40lPxGOtkpCYfaakKJbq"

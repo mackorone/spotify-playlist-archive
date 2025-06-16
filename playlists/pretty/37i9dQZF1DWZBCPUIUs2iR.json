@@ -1,6 +1,6 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 753935,
+  "num_followers": 754116,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
+        "name": "#1s ... and then some",
+        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "My Maria",
+      "url": "https://open.spotify.com/track/09qzRI951OVkXGCc33gzcT"
+    },
+    {
+      "added_at": "2024-06-13 21:28:36",
+      "album": {
         "name": "Carrying Your Love With Me",
         "url": "https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 232426,
       "name": "Carrying Your Love With Me",
       "url": "https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH"
-    },
-    {
-      "added_at": "2024-06-13 21:28:36",
-      "album": {
-        "name": "Here's To The Good Times",
-        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 208960,
-      "name": "Cruise",
-      "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -423,18 +423,18 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "#1s ... and then some",
-        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
+        "name": "Here's To The Good Times",
+        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
       },
       "artists": [
         {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 208106,
-      "name": "My Maria",
-      "url": "https://open.spotify.com/track/09qzRI951OVkXGCc33gzcT"
+      "duration_ms": 208960,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -471,22 +471,18 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "Here's To The Good Times...This Is How We Roll",
-        "url": "https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI"
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
       },
       "artists": [
         {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        },
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
         }
       ],
-      "duration_ms": 220906,
-      "name": "This Is How We Roll",
-      "url": "https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U"
+      "duration_ms": 287266,
+      "name": "Cowboy Take Me Away",
+      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -507,18 +503,22 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
+        "name": "Here's To The Good Times...This Is How We Roll",
+        "url": "https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI"
       },
       "artists": [
         {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        },
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 287266,
-      "name": "Cowboy Take Me Away",
-      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
+      "duration_ms": 220906,
+      "name": "This Is How We Roll",
+      "url": "https://open.spotify.com/track/2TR7A4ulH9R1PNwMyd8o8U"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "Some Hearts",
-        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 226493,
-      "name": "Jesus, Take the Wheel",
-      "url": "https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87"
-    },
-    {
-      "added_at": "2024-06-13 21:28:36",
-      "album": {
         "name": "Rose Garden",
         "url": "https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 175866,
       "name": "Rose Garden",
       "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
+    },
+    {
+      "added_at": "2024-06-13 21:28:36",
+      "album": {
+        "name": "Some Hearts",
+        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 226493,
+      "name": "Jesus, Take the Wheel",
+      "url": "https://open.spotify.com/track/3lec3CzDPAxsZokPph5w87"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "When I Call Your Name",
-        "url": "https://open.spotify.com/album/0jFNLoCH4SxUlCX7DwCauK"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "When I Call Your Name",
-      "url": "https://open.spotify.com/track/5g12xHasIIOu6rNGQ933qT"
-    },
-    {
-      "added_at": "2024-06-13 21:28:36",
-      "album": {
         "name": "#1s ... and then some",
         "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 199413,
       "name": "Ain't Nothing 'Bout You",
       "url": "https://open.spotify.com/track/6CkydK3NOAMScIhViRzXoB"
+    },
+    {
+      "added_at": "2024-06-13 21:28:36",
+      "album": {
+        "name": "When I Call Your Name",
+        "url": "https://open.spotify.com/album/0jFNLoCH4SxUlCX7DwCauK"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "When I Call Your Name",
+      "url": "https://open.spotify.com/track/5g12xHasIIOu6rNGQ933qT"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "Number One Hits",
-        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
-      },
-      "artists": [
-        {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
-        }
-      ],
-      "duration_ms": 171653,
-      "name": "Every Which Way but Loose - 2009 Remaster",
-      "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
-    },
-    {
-      "added_at": "2024-06-13 21:28:36",
-      "album": {
         "name": "Toby Keith 35 Biggest Hits",
         "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 205920,
       "name": "How Do You Like Me Now?!",
       "url": "https://open.spotify.com/track/7LimFGKop84KMDutqYaNIF"
+    },
+    {
+      "added_at": "2024-06-13 21:28:36",
+      "album": {
+        "name": "Number One Hits",
+        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
+      },
+      "artists": [
+        {
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+        }
+      ],
+      "duration_ms": 171653,
+      "name": "Every Which Way but Loose - 2009 Remaster",
+      "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "No Holdin' Back",
-        "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "It's Just a Matter of Time",
-      "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
-    },
-    {
-      "added_at": "2024-06-13 21:28:36",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/43KDShB3LKQv7r6Lq2OR9u"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 209866,
       "name": "Should've Been A Cowboy",
       "url": "https://open.spotify.com/track/4EDBgrYqYQ6b50yhJWKsHp"
+    },
+    {
+      "added_at": "2024-06-13 21:28:36",
+      "album": {
+        "name": "No Holdin' Back",
+        "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "It's Just a Matter of Time",
+      "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
     },
     {
       "added_at": "2024-06-13 21:28:36",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-06-13 21:28:36",
       "album": {
-        "name": "Straight Ahead (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1XNfE0t3kM8zV4XVqPDHNQ"
-      },
-      "artists": [
-        {
-          "name": "Larry Gatlin & The Gatlin Brothers",
-          "url": "https://open.spotify.com/artist/0KzlJXg6A3NVSCkRjecKnS"
-        }
-      ],
-      "duration_ms": 157533,
-      "name": "All the Gold In California",
-      "url": "https://open.spotify.com/track/6yLDMogQVRdVmwlh8uw526"
-    },
-    {
-      "added_at": "2024-06-13 21:28:36",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 212706,
       "name": "Party Time",
       "url": "https://open.spotify.com/track/6hlvRaZM1U279W3rVkQ9qY"
+    },
+    {
+      "added_at": "2024-06-13 21:28:36",
+      "album": {
+        "name": "Straight Ahead (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1XNfE0t3kM8zV4XVqPDHNQ"
+      },
+      "artists": [
+        {
+          "name": "Larry Gatlin & The Gatlin Brothers",
+          "url": "https://open.spotify.com/artist/0KzlJXg6A3NVSCkRjecKnS"
+        }
+      ],
+      "duration_ms": 157533,
+      "name": "All the Gold In California",
+      "url": "https://open.spotify.com/track/6yLDMogQVRdVmwlh8uw526"
     },
     {
       "added_at": "2024-06-13 21:28:36",

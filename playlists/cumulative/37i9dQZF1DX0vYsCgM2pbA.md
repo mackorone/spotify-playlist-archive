@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-267 songs - 16 hr 13 min
+268 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Frake](https://open.spotify.com/track/5phpSn3y1mjWu3pR35RbTf) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Frake](https://open.spotify.com/album/49fLLY675afFl4yqm0C7vS) | 3:17 | 2025-06-03 |  |
 | [Frauds \(Mall Grab Remix\)](https://open.spotify.com/track/6scCpOSEfY7FfDRjkHnUwL) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Frauds \(Mall Grab Remix\)](https://open.spotify.com/album/1JsPxT71G12JueIEVP0UR1) | 3:36 | 2023-04-13 |  |
 | [Function](https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5) | [Function](https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV) | 3:17 | 2022-12-01 |  |
-| [GEMINI](https://open.spotify.com/track/7fvgfalLXZBa0y7AMXZadu) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [GEMINI](https://open.spotify.com/album/0UEDwo3KtuQHtuKkeZkRyi) | 3:48 | 2025-01-09 |  |
+| [GEMINI](https://open.spotify.com/track/7fvgfalLXZBa0y7AMXZadu) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [GEMINI](https://open.spotify.com/album/0UEDwo3KtuQHtuKkeZkRyi) | 3:48 | 2025-01-09 | 2025-06-16 |
 | [Get To Know \(feat\. Winston Surfshirt\)](https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [What Comes Next](https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv) | 4:03 | 2022-12-01 |  |
 | [Get What You Want \- Vintage Culture Remix](https://open.spotify.com/track/0MikGbA8bt5Fo07NVW6HQ7) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Get What You Want \(Vintage Culture Remix\)](https://open.spotify.com/album/54DJoT0IkExQ6druq7hQ57) | 3:43 | 2022-12-15 | 2023-01-13 |
 | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/track/53XWeDWh7v0BxpHcnZVeJf) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/album/7aAXhHWwZALLDrsgI3PC6I) | 3:45 | 2023-10-12 |  |
@@ -117,6 +117,7 @@
 | [Heart Strings](https://open.spotify.com/track/5fUcckBVUWX4HbShrP6YoI) | [Jantoje](https://open.spotify.com/artist/0ISMhfuHRFjqZ8PztWHHDx) | [Verano](https://open.spotify.com/album/4PQJ3PG46fo29GN0a3Dj7H) | 3:32 | 2024-01-25 | 2024-08-23 |
 | [Hide and Seek](https://open.spotify.com/track/6v6TnpusHVcVTiIpLXQU1m) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Lustre](https://open.spotify.com/album/69jUVZWhJy974WUFPCqohq) | 4:08 | 2023-10-05 | 2023-10-07 |
 | [Hide and Seek](https://open.spotify.com/track/7MF2sZdu9QmAe9ABVjE5Y3) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Lustre](https://open.spotify.com/album/4ItxYoE7OV3dGs7xswvnCx) | 4:08 | 2023-10-05 | 2023-11-17 |
+| [Higher](https://open.spotify.com/track/2qMS5qYe10o9EmEM7i5k9f) | [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Higher](https://open.spotify.com/album/6jOOQDwkPl8o55CdYYzlWB) | 4:38 | 2025-06-03 |  |
 | [Higher Elevation](https://open.spotify.com/track/6rOO4rvFRvljFZlcpylgPR) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Higher Elevation](https://open.spotify.com/album/6p5guaSzlOafeYyHI75yIv) | 6:13 | 2025-04-01 | 2025-04-06 |
 | [Highest Building \(feat\. Oklou\)](https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:36 | 2022-12-01 | 2023-12-11 |
 | [Highest Building \(feat\. Oklou\)](https://open.spotify.com/track/7ArxGCEhnDapBu3NWCsytf) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Palaces](https://open.spotify.com/album/6SZtno2XqSmfr5MKsNeXmC) | 3:36 | 2023-12-21 | 2024-04-19 |

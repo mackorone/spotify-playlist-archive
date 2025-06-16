@@ -1,6 +1,6 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61804,
+  "num_followers": 61807,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-06-09 05:17:40",
       "album": {
-        "name": "Ordet",
-        "url": "https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq"
-      },
-      "artists": [
-        {
-          "name": "Bremer/McCoy",
-          "url": "https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J"
-        }
-      ],
-      "duration_ms": 118400,
-      "name": "Forenet",
-      "url": "https://open.spotify.com/track/1Xzr6UzZzm2ksXBafZzowm"
-    },
-    {
-      "added_at": "2025-06-09 05:17:40",
-      "album": {
         "name": "Go! (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
       },
@@ -395,18 +379,18 @@
     {
       "added_at": "2025-06-09 05:17:40",
       "album": {
-        "name": "Night Dreamer",
-        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
+        "name": "Ordet",
+        "url": "https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq"
       },
       "artists": [
         {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+          "name": "Bremer/McCoy",
+          "url": "https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J"
         }
       ],
-      "duration_ms": 426800,
-      "name": "Virgo - Remastered 2004 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c"
+      "duration_ms": 118400,
+      "name": "Forenet",
+      "url": "https://open.spotify.com/track/1Xzr6UzZzm2ksXBafZzowm"
     },
     {
       "added_at": "2025-06-09 05:17:40",
@@ -423,6 +407,22 @@
       "duration_ms": 168666,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/2JR1WeETsXmFR1kRC2oXXq"
+    },
+    {
+      "added_at": "2025-06-09 05:17:40",
+      "album": {
+        "name": "Night Dreamer",
+        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 426800,
+      "name": "Virgo - Remastered 2004 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c"
     },
     {
       "added_at": "2025-06-09 05:17:40",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-06-09 05:17:40",
       "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 405226,
+      "name": "I'm A Fool To Want You",
+      "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
+    },
+    {
+      "added_at": "2025-06-09 05:17:40",
+      "album": {
         "name": "Undercurrent",
         "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 280026,
       "name": "I Hear A Rhapsody",
       "url": "https://open.spotify.com/track/2oEvw0AfrT2fPNpEnBwVml"
-    },
-    {
-      "added_at": "2025-06-09 05:17:40",
-      "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 405226,
-      "name": "I'm A Fool To Want You",
-      "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
     },
     {
       "added_at": "2025-06-09 05:17:40",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-06-09 05:17:40",
       "album": {
-        "name": "Romaria",
-        "url": "https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY"
-      },
-      "artists": [
-        {
-          "name": "Andy Sheppard Quartet",
-          "url": "https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb"
-        }
-      ],
-      "duration_ms": 311480,
-      "name": "Romaria",
-      "url": "https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0"
-    },
-    {
-      "added_at": "2025-06-09 05:17:40",
-      "album": {
         "name": "The Original Quartet With Chet Baker",
         "url": "https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 195160,
       "name": "Lullaby Of The Leaves - 1998 Digital Remaster",
       "url": "https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT"
+    },
+    {
+      "added_at": "2025-06-09 05:17:40",
+      "album": {
+        "name": "Romaria",
+        "url": "https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY"
+      },
+      "artists": [
+        {
+          "name": "Andy Sheppard Quartet",
+          "url": "https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb"
+        }
+      ],
+      "duration_ms": 311480,
+      "name": "Romaria",
+      "url": "https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0"
     },
     {
       "added_at": "2025-06-09 05:17:40",
@@ -815,18 +815,18 @@
     {
       "added_at": "2025-06-09 05:17:40",
       "album": {
-        "name": "Songbook",
-        "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
+        "name": "Wind",
+        "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
       },
       "artists": [
         {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
         }
       ],
-      "duration_ms": 317946,
-      "name": "Before It's Time to Say Goodbye",
-      "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
+      "duration_ms": 294586,
+      "name": "Doubts 2",
+      "url": "https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn"
     },
     {
       "added_at": "2025-06-09 05:17:40",
@@ -859,18 +859,18 @@
     {
       "added_at": "2025-06-09 05:17:40",
       "album": {
-        "name": "Wind",
-        "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
+        "name": "Songbook",
+        "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
       },
       "artists": [
         {
-          "name": "Ibrahim Maalouf",
-          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
         }
       ],
-      "duration_ms": 294586,
-      "name": "Doubts 2",
-      "url": "https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn"
+      "duration_ms": 317946,
+      "name": "Before It's Time to Say Goodbye",
+      "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
     },
     {
       "added_at": "2025-06-09 05:17:40",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-06-09 05:17:40",
       "album": {
-        "name": "And Suddenly There Was Love",
-        "url": "https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4"
-      },
-      "artists": [
-        {
-          "name": "Jonah Aardekker",
-          "url": "https://open.spotify.com/artist/0uznEwAun1tXBVJWQASNns"
-        }
-      ],
-      "duration_ms": 267142,
-      "name": "And Suddenly There Was Love",
-      "url": "https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH"
-    },
-    {
-      "added_at": "2025-06-09 05:17:40",
-      "album": {
         "name": "Playing The Room",
         "url": "https://open.spotify.com/album/3Uh0OBXUvooc3z8IgqO5US"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 221000,
       "name": "Azalea",
       "url": "https://open.spotify.com/track/2Lz03NspvyxfiCjgdtpEVR"
+    },
+    {
+      "added_at": "2025-06-09 05:17:40",
+      "album": {
+        "name": "And Suddenly There Was Love",
+        "url": "https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4"
+      },
+      "artists": [
+        {
+          "name": "Jonah Aardekker",
+          "url": "https://open.spotify.com/artist/0uznEwAun1tXBVJWQASNns"
+        }
+      ],
+      "duration_ms": 267142,
+      "name": "And Suddenly There Was Love",
+      "url": "https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH"
     },
     {
       "added_at": "2025-06-09 05:17:40",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-06-09 05:17:40",
       "album": {
+        "name": "Ellis In Wonderland",
+        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
+      },
+      "artists": [
+        {
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+        }
+      ],
+      "duration_ms": 224320,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
+    },
+    {
+      "added_at": "2025-06-09 05:17:40",
+      "album": {
         "name": "The Incredible Kai Winding Trombones",
         "url": "https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 245013,
       "name": "Lil Darlin'",
       "url": "https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4"
-    },
-    {
-      "added_at": "2025-06-09 05:17:40",
-      "album": {
-        "name": "Blue Lake",
-        "url": "https://open.spotify.com/album/199WEkdDKGEtOdKtheHjY0"
-      },
-      "artists": [
-        {
-          "name": "Ikigai",
-          "url": "https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Blue Lake",
-      "url": "https://open.spotify.com/track/0owIJBBWP1Q5FvnyoywK2E"
     },
     {
       "added_at": "2025-06-09 05:17:40",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2025-06-09 05:17:40",
       "album": {
-        "name": "Ellis In Wonderland",
-        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
+        "name": "Blue Lake",
+        "url": "https://open.spotify.com/album/199WEkdDKGEtOdKtheHjY0"
       },
       "artists": [
         {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+          "name": "Ikigai",
+          "url": "https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv"
         }
       ],
-      "duration_ms": 224320,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
+      "duration_ms": 215000,
+      "name": "Blue Lake",
+      "url": "https://open.spotify.com/track/0owIJBBWP1Q5FvnyoywK2E"
     },
     {
       "added_at": "2025-06-09 05:17:40",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-06-09 05:17:40",
       "album": {
-        "name": "Scott Hamilton Plays Ballads",
-        "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
-      },
-      "artists": [
-        {
-          "name": "Scott Hamilton",
-          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "Maybe September",
-      "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
-    },
-    {
-      "added_at": "2025-06-09 05:17:40",
-      "album": {
         "name": "Earfood",
         "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 316866,
       "name": "Speak Low",
       "url": "https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00"
+    },
+    {
+      "added_at": "2025-06-09 05:17:40",
+      "album": {
+        "name": "Scott Hamilton Plays Ballads",
+        "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
+      },
+      "artists": [
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Maybe September",
+      "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
     },
     {
       "added_at": "2025-06-09 05:17:40",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-06-09 05:17:40",
       "album": {
-        "name": "Wind",
-        "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Maalouf",
-          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
-        }
-      ],
-      "duration_ms": 387733,
-      "name": "Surprises",
-      "url": "https://open.spotify.com/track/6dlrKYdYDu3UTm3cSo6rFb"
-    },
-    {
-      "added_at": "2025-06-09 05:17:40",
-      "album": {
         "name": "Incredible Jazz Guitar",
         "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 292093,
       "name": "In Your Own Sweet Way",
       "url": "https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH"
+    },
+    {
+      "added_at": "2025-06-09 05:17:40",
+      "album": {
+        "name": "No Regrets",
+        "url": "https://open.spotify.com/album/78ccjUQoTpPQNrcF8dSnQQ"
+      },
+      "artists": [
+        {
+          "name": "Goblin Quartet",
+          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/7HiCCrUE1ywpWs0wM4TpiP"
     }
   ],
   "unique_name": "\u50ac\u7720\u7235\u58eb",

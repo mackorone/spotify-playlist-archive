@@ -1267,6 +1267,24 @@
     },
     {
       "album": {
+        "name": "Calculate",
+        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180688,
+      "name": "Calculate",
+      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
+    },
+    {
+      "album": {
         "name": "Call of Duty",
         "url": "https://open.spotify.com/album/4ULxpCQINF17EWAhbE8w2T"
       },
@@ -6570,7 +6588,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 149743,
       "name": "Till Thy Kingdom Come",
       "url": "https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF"

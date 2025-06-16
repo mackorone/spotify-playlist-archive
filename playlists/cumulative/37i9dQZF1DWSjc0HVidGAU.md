@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of GOOD BOY\. \(굿보이의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-20 songs - 1 hr 1 min
+21 songs - 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,5 +28,6 @@
 | [That's okay](https://open.spotify.com/track/2Ghu1DdMwxS3VAyB7i38Wo) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [That's okay](https://open.spotify.com/album/6EzpktNa8oT04yXVfQieJf) | 3:41 | 2025-06-11 |  |
 | [Through the Night](https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:13 | 2025-06-11 |  |
 | [Very Good](https://open.spotify.com/track/6svBgFCnXYst3N8OJJ1XAB) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [Very Good](https://open.spotify.com/album/5AujjoJ3gAth9YnrIXa7Ww) | 3:20 | 2025-06-11 |  |
+| [With Your Love](https://open.spotify.com/track/7Il5jEgeqJmhVRCvcw7f1a) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/2J5G4nG3Yld22VHOGA90Lq) | 3:55 | 2025-06-16 |  |
 
 \*This playlist was first scraped on 2025-06-12. Prior content cannot be recovered.

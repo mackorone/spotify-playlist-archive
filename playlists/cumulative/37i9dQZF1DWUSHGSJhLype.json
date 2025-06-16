@@ -1527,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "Grelo (Ao Vivo Em Salvador)",
+        "url": "https://open.spotify.com/album/7iAXtXMxTo0PdyWETShXhc"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204792,
+      "name": "Caminh\u00e3o De Frete - Ao Vivo",
+      "url": "https://open.spotify.com/track/6rquG5U7wPL4WWxc2kJn7c"
+    },
+    {
+      "album": {
         "name": "Campo De Morango",
         "url": "https://open.spotify.com/album/4HsyzmEw3gKCS1fFfHjccT"
       },
@@ -8866,7 +8884,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 190875,
       "name": "Surto Coletivo - Ao Vivo",
       "url": "https://open.spotify.com/track/4BJnnK4LPHhNK2TqwC6s99"

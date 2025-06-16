@@ -1,6 +1,6 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 201516,
+  "num_followers": 201594,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Amores Ajenos",
-        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 162510,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Despacito (Acoustic)",
         "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 218108,
       "name": "Despacito - Acoustic",
       "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Amores Ajenos",
+        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 162510,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Me Llamas (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/0eYb5PlrKL31jDjvKWNGTG"
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/6TLzzUALIChbWMAvR95Ktg"
       },
       "artists": [
         {
-          "name": "Segundo Piso",
-          "url": "https://open.spotify.com/artist/5qN0sPcoiBWKOXJw6b5659"
+          "name": "Aurelia Goldspark",
+          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Me Llamas - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/1NNNDr8YjI7oIzEksdi5ap"
+      "duration_ms": 213000,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/3bvmQ44nZ2716I9Snc2rh1"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -571,34 +571,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/6TLzzUALIChbWMAvR95Ktg"
+        "name": "Me Llamas (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/0eYb5PlrKL31jDjvKWNGTG"
       },
       "artists": [
         {
-          "name": "Aurelia Goldspark",
-          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
+          "name": "Segundo Piso",
+          "url": "https://open.spotify.com/artist/5qN0sPcoiBWKOXJw6b5659"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/3bvmQ44nZ2716I9Snc2rh1"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Nube Viajera",
-        "url": "https://open.spotify.com/album/4RgJgnhWLDN7bWCWxgcigD"
-      },
-      "artists": [
-        {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
-        }
-      ],
-      "duration_ms": 230730,
-      "name": "Nube Viajera",
-      "url": "https://open.spotify.com/track/3lpNkHGruZDaedfYv9ehLt"
+      "duration_ms": 210000,
+      "name": "Me Llamas - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1NNNDr8YjI7oIzEksdi5ap"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -639,6 +623,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Nube Viajera",
+        "url": "https://open.spotify.com/album/4RgJgnhWLDN7bWCWxgcigD"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 230730,
+      "name": "Nube Viajera",
+      "url": "https://open.spotify.com/track/3lpNkHGruZDaedfYv9ehLt"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Vaina Loca",
         "url": "https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 189090,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/19MixFiWncCkjVnqmqROdC"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "El Microbito",
-        "url": "https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR"
-      },
-      "artists": [
-        {
-          "name": "Kendra Soliz",
-          "url": "https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ"
-        }
-      ],
-      "duration_ms": 194874,
-      "name": "El Microbito",
-      "url": "https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -723,18 +707,34 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Felices los 4 (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5ywUlCNTlkwvnnpZ5uXNd7"
+        "name": "El Microbito",
+        "url": "https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR"
       },
       "artists": [
         {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
+          "name": "Kendra Soliz",
+          "url": "https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ"
         }
       ],
-      "duration_ms": 249088,
-      "name": "Felices los 4 - Acoustic version",
-      "url": "https://open.spotify.com/track/4N0Md19ln8Fq3O7Up0lqme"
+      "duration_ms": 194874,
+      "name": "El Microbito",
+      "url": "https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/3mYIi2EtIUUVWsMlEUzrUb"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Luna",
+          "url": "https://open.spotify.com/artist/5haTMRhcwfF9yHRJGTMvbi"
+        }
+      ],
+      "duration_ms": 214838,
+      "name": "Dembow - Acoustic Version",
+      "url": "https://open.spotify.com/track/2DpBQ4fq4bEr2IZJ40s9Dy"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Covers, Vol. 2",
-        "url": "https://open.spotify.com/album/6KMPmqSSPMWe8HImn6q4S5"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        }
-      ],
-      "duration_ms": 149292,
-      "name": "Esc\u00e1pate Conmigo",
-      "url": "https://open.spotify.com/track/0OWuNa52w8ZqQo0pBGdDAL"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Calma (Remix)",
         "url": "https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ"
       },
@@ -807,18 +791,34 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/3mYIi2EtIUUVWsMlEUzrUb"
+        "name": "Felices los 4 (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5ywUlCNTlkwvnnpZ5uXNd7"
       },
       "artists": [
         {
-          "name": "Rebeca Luna",
-          "url": "https://open.spotify.com/artist/5haTMRhcwfF9yHRJGTMvbi"
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
         }
       ],
-      "duration_ms": 214838,
-      "name": "Dembow - Acoustic Version",
-      "url": "https://open.spotify.com/track/2DpBQ4fq4bEr2IZJ40s9Dy"
+      "duration_ms": 249088,
+      "name": "Felices los 4 - Acoustic version",
+      "url": "https://open.spotify.com/track/4N0Md19ln8Fq3O7Up0lqme"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/6KMPmqSSPMWe8HImn6q4S5"
+      },
+      "artists": [
+        {
+          "name": "Connie Isla",
+          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        }
+      ],
+      "duration_ms": 149292,
+      "name": "Esc\u00e1pate Conmigo",
+      "url": "https://open.spotify.com/track/0OWuNa52w8ZqQo0pBGdDAL"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Bohemia Y Trova, Vol. 2",
-        "url": "https://open.spotify.com/album/4HaMf32uLd9i4F6Yrv0mTb"
-      },
-      "artists": [
-        {
-          "name": "Hugo Coronel",
-          "url": "https://open.spotify.com/artist/0RGnnaJ9xMIKNvKCuvNvfj"
-        }
-      ],
-      "duration_ms": 174040,
-      "name": "Alguien Te Va a Hacer Llorar",
-      "url": "https://open.spotify.com/track/6kQiVs1qyD6dZMJ0BmtJ2D"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Extra\u00f1\u00e1ndote en Cuarentena",
         "url": "https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 131500,
       "name": "Solamente una Vez",
       "url": "https://open.spotify.com/track/4uqmcATBKbBKN5Tec5I4T1"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Bohemia Y Trova, Vol. 2",
+        "url": "https://open.spotify.com/album/4HaMf32uLd9i4F6Yrv0mTb"
+      },
+      "artists": [
+        {
+          "name": "Hugo Coronel",
+          "url": "https://open.spotify.com/artist/0RGnnaJ9xMIKNvKCuvNvfj"
+        }
+      ],
+      "duration_ms": 174040,
+      "name": "Alguien Te Va a Hacer Llorar",
+      "url": "https://open.spotify.com/track/6kQiVs1qyD6dZMJ0BmtJ2D"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Amigos con derechos",
-        "url": "https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 160237,
-      "name": "Amigos con derechos",
-      "url": "https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Muerte En Hawaii",
         "url": "https://open.spotify.com/album/2oSkI5ztZQV313ZNifkbDM"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 186689,
       "name": "Muerte En Hawaii",
       "url": "https://open.spotify.com/track/4y2wnQgN93puWVDavsMTUi"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Amigos con derechos",
+        "url": "https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2"
+      },
+      "artists": [
+        {
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+        }
+      ],
+      "duration_ms": 160237,
+      "name": "Amigos con derechos",
+      "url": "https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Vaina Loca",
-        "url": "https://open.spotify.com/album/3LTGzOSbZdjNNqgKOKiyrD"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 110580,
-      "name": "Vaina loca",
-      "url": "https://open.spotify.com/track/5hWNpIhfIWozucVH85I0WX"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Otros Labios (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/5fRkFb6UrPeUlCpwJTLTil"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 218722,
       "name": "Otros Labios (Versi\u00f3n Ac\u00fastica)",
       "url": "https://open.spotify.com/track/2eTLsumTdtFMIrS1g37sId"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Vaina Loca",
+        "url": "https://open.spotify.com/album/3LTGzOSbZdjNNqgKOKiyrD"
+      },
+      "artists": [
+        {
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+        }
+      ],
+      "duration_ms": 110580,
+      "name": "Vaina loca",
+      "url": "https://open.spotify.com/track/5hWNpIhfIWozucVH85I0WX"
     },
     {
       "added_at": "2022-02-18 06:00:00",

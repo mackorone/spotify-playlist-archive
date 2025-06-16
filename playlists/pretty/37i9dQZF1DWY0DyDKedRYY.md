@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring Disco Lines
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,362 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,320 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 49 | [If I ever lose my way](https://open.spotify.com/track/6dWU6lGzqsrnVHRcToUa36) | [Haynza](https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb) | [If I ever lose my way](https://open.spotify.com/album/4wEKrfWQ1GGlF3dakWmj0Y) | 2:57 |
 | 50 | [MORRO MAÑOSO](https://open.spotify.com/track/2tNSQeKEVtrsMhRYixazni) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [MORRO MAÑOSO](https://open.spotify.com/album/2XuDTR0qbeS2GgbypCY2Pp) | 2:47 |
 
-Snapshot ID: `aDvQZAAAAACwB2BgCnslmw8lffcDzQ4y`
+Snapshot ID: `aDvQZAAAAAA13/iRdzK71m1A3JJPxcVC`

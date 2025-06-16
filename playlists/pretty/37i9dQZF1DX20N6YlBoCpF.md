@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Wentzel, Nicola Dreyer,  CHARLIZE BERG, Loufi, Glaskas, en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,884 likes - 101 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,889 likes - 101 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

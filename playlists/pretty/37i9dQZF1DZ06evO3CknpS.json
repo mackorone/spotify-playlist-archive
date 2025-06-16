@@ -1,12 +1,12 @@
 {
   "description": "This is Clara Rockmore. The essential tracks, all in one playlist.",
-  "num_followers": 1683,
+  "num_followers": 1685,
   "original_name": "This Is Clara Rockmore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAASdfORlJN09B5MsBaHITld",
+  "snapshot_id": "aEy7gAAAAADehNZWb2HUEw3YQ0+l6PVe",
   "tracks": [
     {
       "added_at": null,
@@ -296,8 +296,8 @@
       },
       "artists": [
         {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
         },
         {
           "name": "Clara Rockmore",
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 256760,
-      "name": "18 morceaux, Op. 72, No. 2. Berceuse. 18 morceaux, Op. 72: No. 2, Berceuse (Arr. For theremin and piano)",
-      "url": "https://open.spotify.com/track/3paKSv3Hjjdfyck1A2O060"
+      "duration_ms": 229666,
+      "name": "14 Songs, Op. 34, No. 14. Vocalise: 14 Songs, Op. 34: No. 14, Vocalise (Arr. For theremin and piano)",
+      "url": "https://open.spotify.com/track/69QIXVjGq4o35oajsLgrYv"
     },
     {
       "added_at": null,
@@ -392,8 +392,8 @@
       },
       "artists": [
         {
-          "name": "Igor Stravinsky",
-          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
         },
         {
           "name": "Clara Rockmore",
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 190400,
-      "name": "The Firebird: Berceuse (Arr. For theremin and piano)",
-      "url": "https://open.spotify.com/track/6W1t6X1d24OQJ2E1tXXFmZ"
+      "duration_ms": 256760,
+      "name": "18 morceaux, Op. 72, No. 2. Berceuse. 18 morceaux, Op. 72: No. 2, Berceuse (Arr. For theremin and piano)",
+      "url": "https://open.spotify.com/track/3paKSv3Hjjdfyck1A2O060"
     },
     {
       "added_at": null,
@@ -480,8 +480,8 @@
       },
       "artists": [
         {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+          "name": "Igor Stravinsky",
+          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
         },
         {
           "name": "Clara Rockmore",
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 229666,
-      "name": "14 Songs, Op. 34, No. 14. Vocalise: 14 Songs, Op. 34: No. 14, Vocalise (Arr. For theremin and piano)",
-      "url": "https://open.spotify.com/track/69QIXVjGq4o35oajsLgrYv"
+      "duration_ms": 190400,
+      "name": "The Firebird: Berceuse (Arr. For theremin and piano)",
+      "url": "https://open.spotify.com/track/6W1t6X1d24OQJ2E1tXXFmZ"
     },
     {
       "added_at": null,
@@ -547,6 +547,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Music In and On The Air",
+        "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
+      },
+      "artists": [
+        {
+          "name": "Robert Sherman",
+          "url": "https://open.spotify.com/artist/5f4noQpEoJy7W1Jsa6aQyR"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        }
+      ],
+      "duration_ms": 68560,
+      "name": "Commentary 2",
+      "url": "https://open.spotify.com/track/5czANS42gv78Jcsd9BmE6j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Music and Memories: Clara Rockmore (Bonus Album)",
         "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
       },
@@ -567,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music In and On The Air",
-        "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
+        "name": "Music and Memories: Clara Rockmore",
+        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
       },
       "artists": [
         {
@@ -578,11 +598,31 @@
         {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 68560,
-      "name": "Commentary 2",
-      "url": "https://open.spotify.com/track/5czANS42gv78Jcsd9BmE6j"
+      "duration_ms": 259600,
+      "name": "Opening remarks",
+      "url": "https://open.spotify.com/track/4gcNQkAcGnyyFPLkMTYgln"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
+        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
+      },
+      "artists": [
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        }
+      ],
+      "duration_ms": 62013,
+      "name": "Concluding Announcements",
+      "url": "https://open.spotify.com/track/2v6RrCzcuUz2oUovrrWy4w"
     },
     {
       "added_at": null,
@@ -611,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
-        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
-      },
-      "artists": [
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        }
-      ],
-      "duration_ms": 62013,
-      "name": "Concluding Announcements",
-      "url": "https://open.spotify.com/track/2v6RrCzcuUz2oUovrrWy4w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music and Memories: Clara Rockmore",
         "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
       },
@@ -651,30 +675,6 @@
       "duration_ms": 439640,
       "name": "WNYC Radio Broadcast, September 12, 1995",
       "url": "https://open.spotify.com/track/5syGA1YsxaZ21ypwfKygOZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music and Memories: Clara Rockmore",
-        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
-      },
-      "artists": [
-        {
-          "name": "Robert Sherman",
-          "url": "https://open.spotify.com/artist/5f4noQpEoJy7W1Jsa6aQyR"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 259600,
-      "name": "Opening remarks",
-      "url": "https://open.spotify.com/track/4gcNQkAcGnyyFPLkMTYgln"
     },
     {
       "added_at": null,

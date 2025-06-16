@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > Celebrating 10 years of the best new music by independent artists! Cover: CéJae \| Artwork: Laina Deene
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,011 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,036 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

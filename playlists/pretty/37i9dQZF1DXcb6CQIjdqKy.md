@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,632,864 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,632,855 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [I FEEL HOME](https://open.spotify.com/track/0BFYrL6UGqLnQuNdnTb9at) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [I FEEL HOME](https://open.spotify.com/album/0VLOPfxc8lPX1d9zEzfDZM) | 3:23 |
 | 100 | [Temple](https://open.spotify.com/track/66XywM16QAO6Stui0fBEAz) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Restore](https://open.spotify.com/album/2Upq0VFnL6M6Q9UlyN8bCx) | 3:59 |
 
-Snapshot ID: `aEvaNwAAAADkSP65l2M05QZtyFc/FMax`
+Snapshot ID: `AAAAAMdzP6oXLMJy4asC3GsuPUH9KQho`

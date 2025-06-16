@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 241869,
       "name": "Diz pra Mim",
       "url": "https://open.spotify.com/track/4ddDW7Ao1h5UgISvnF1Npg"
@@ -1272,7 +1272,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 191866,
       "name": "Enquanto Houver Raz\u00f5es - Ao Vivo",
       "url": "https://open.spotify.com/track/2oRZ5SfQQl34A1rq4yMQQ8"
@@ -2674,7 +2674,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 179722,
       "name": "quando a bad bater - ao vivo",
       "url": "https://open.spotify.com/track/5gvrBqNFFEWcxYPt3mamvJ"
@@ -3620,6 +3620,24 @@
       "duration_ms": 189059,
       "name": "Vou Ter Que Superar - Ao Vivo",
       "url": "https://open.spotify.com/track/6sRLrSetyIwIKhW1eMlUNP"
+    },
+    {
+      "album": {
+        "name": "Como. Sempre Feito. Nunca (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2025-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236501,
+      "name": "Vou Voando - Ao Vivo",
+      "url": "https://open.spotify.com/track/1WCn5QBp0Kl9uHrR0J02GS"
     },
     {
       "album": {

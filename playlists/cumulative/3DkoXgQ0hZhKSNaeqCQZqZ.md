@@ -4,7 +4,7 @@
 
 > All songs made for furs, by furs\.  Check top 25 @ spotify.furrest.net
 
-352 songs - 18 hr 35 min
+353 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [adhd music for FURRIES!!!](https://open.spotify.com/track/1VZAXgKpDuJoMVcWHvp1HM) | [glitterpop!](https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40) | [adhd music for FURRIES!!!](https://open.spotify.com/album/0XfTGfD8AAHNlb8SMQ7iuf) | 3:12 | 2023-11-24 | 2025-02-06 |
 | [AFTERSOME](https://open.spotify.com/track/0bZ1ftFjPoIXEBBh1vQ6vS) | [NOISE ARTIFACT](https://open.spotify.com/artist/6UojgIi7c86XvCyk5NCKs5), [Aran P\. Ink](https://open.spotify.com/artist/3zsgnxXynW9dg2wXNl7JbV) | [log off and go outside!!](https://open.spotify.com/album/6jA8zF4ert7R9NJroj8CNc) | 3:18 | 2024-11-18 |  |
 | [Airsdance](https://open.spotify.com/track/3RZDuMFtspQGtUfi1HgpxT) | [Them Airs](https://open.spotify.com/artist/5YKfdY0mylaZ2AIMeYJPy4) | [Viper Island](https://open.spotify.com/album/5cJwdErCShhPQd9JZooQM4) | 2:11 | 2024-08-15 |  |
+| [ALL BITE NO BARK!](https://open.spotify.com/track/0OLeL1tpL4vAvj7kUuzAgv) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2), [Dea\_Pressed](https://open.spotify.com/artist/5IHmBy1wo43rPzugHhEfWK) | [ALL BITE NO BARK!](https://open.spotify.com/album/3ceTSOBLg0uUYR5J9kNats) | 1:39 | 2025-06-16 |  |
 | [ALL MY FELLAS](https://open.spotify.com/track/1ckhUtD8nBH2ShPlU8w2nU) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [ALL MY FELLAS](https://open.spotify.com/album/7eLQnewAuacJFug06cN6Er) | 2:21 | 2024-11-25 |  |
 | [ALL MY FELLAS \(FRIZKY\)](https://open.spotify.com/track/5vFju82HZ4rmbeskIjTpD1) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [ALL MY FELLAS \(FRIZKY\)](https://open.spotify.com/album/1xvBAEQsCT0c96NOpLD0A0) | 1:48 | 2024-11-25 |  |
 | [ALL MY FRIENDS ARE PXRNSTARS](https://open.spotify.com/track/6UBj2A9zC5RYpLXGquEIYu) | [JohnieCanine](https://open.spotify.com/artist/7aGboTX3PPIk0lm1UpN9aS), [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ) | [ALL MY FRIENDS ARE PXRNSTARS](https://open.spotify.com/album/1aBzdLP3keSLVKEq1uJcyJ) | 2:43 | 2024-05-28 |  |

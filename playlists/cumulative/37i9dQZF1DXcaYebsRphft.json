@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u300e2025 BABYMONSTER 1st WORLD TOUR 'HELLO MONSTERS' IN JAPAN\u300f \u30bb\u30c3\u30c8\u30ea\u30b9\u30c8\u3092\u516c\u958b\uff01",
-  "name": "On Tour Japan: BABYMONSTER",
+  "description": "\u6765\u65e5\u516c\u6f14\u300e2025 LE SSERAFIM TOUR \u2018EASY CRAZY HOT\u2019 IN JAPAN\u300f \u306e\u30bb\u30c3\u30c8\u30ea\u30b9\u30c8\u3092MC\u3068\u3042\u308f\u305b\u3066\u516c\u958b\uff01",
+  "name": "On Tour Japan: LE SSERAFIM",
   "tracks": [
+    {
+      "album": {
+        "name": "CRAZY",
+        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173431,
+      "name": "1-800-hot-n-fun",
+      "url": "https://open.spotify.com/track/7vjfnsnDXZGK4PSq54ISjc"
+    },
     {
       "album": {
         "name": "We Boom - The 3rd Mini Album",
@@ -185,6 +203,24 @@
     },
     {
       "album": {
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184444,
+      "name": "ANTIFRAGILE",
+      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
+    },
+    {
+      "album": {
         "name": "Glitch Mode - The 2nd Album",
         "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
       },
@@ -236,6 +272,24 @@
       "duration_ms": 134386,
       "name": "ASAP",
       "url": "https://open.spotify.com/track/5fpyAakgFOm4YTXkgfPzvV"
+    },
+    {
+      "album": {
+        "name": "HOT",
+        "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197853,
+      "name": "Ash",
+      "url": "https://open.spotify.com/track/5o4U0weUIAXolji4sEAnjI"
     },
     {
       "album": {
@@ -340,7 +394,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 188881,
       "name": "BATTER UP (7 ver.)",
       "url": "https://open.spotify.com/track/2MQmaHNnCCuisRHu551ZQq"
@@ -362,7 +416,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 226938,
       "name": "BATTER UP [Remix]",
       "url": "https://open.spotify.com/track/5HOqEc8PVJCe2N865YHMn3"
@@ -470,7 +524,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 157179,
       "name": "BILLIONAIRE",
       "url": "https://open.spotify.com/track/2eEBg0fpGBwXOGyN6k1m44"
@@ -571,6 +625,24 @@
     },
     {
       "album": {
+        "name": "FEARLESS",
+        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201894,
+      "name": "Blue Flame",
+      "url": "https://open.spotify.com/track/37YoRLUu1qId0ewavgvnkG"
+    },
+    {
+      "album": {
         "name": "ISTJ - The 3rd Album",
         "url": "https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7"
       },
@@ -622,6 +694,24 @@
       "duration_ms": 175733,
       "name": "BOOM",
       "url": "https://open.spotify.com/track/2iR76I8Q4WovfgvaJb9JEg"
+    },
+    {
+      "album": {
+        "name": "HOT",
+        "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136327,
+      "name": "Born Fire",
+      "url": "https://open.spotify.com/track/2FktPXK8yLMFyx6ZTQtRSm"
     },
     {
       "album": {
@@ -748,6 +838,24 @@
       "duration_ms": 208893,
       "name": "Bungee",
       "url": "https://open.spotify.com/track/2dRiyL82K8xPV3gLBDJZMx"
+    },
+    {
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154649,
+      "name": "Burn the Bridge",
+      "url": "https://open.spotify.com/track/3NJ5Ksj7LNbvfNgEtl3o6Z"
     },
     {
       "album": {
@@ -895,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "CRAZY",
+        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205090,
+      "name": "Chasing Lightning",
+      "url": "https://open.spotify.com/track/5hfKDfqthxHt6xsgCjimuO"
+    },
+    {
+      "album": {
         "name": "Chewing Gum",
         "url": "https://open.spotify.com/album/53wPhgvCnPI6QMvF7SABkX"
       },
@@ -960,10 +1086,118 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 169073,
       "name": "CLIK CLAK",
       "url": "https://open.spotify.com/track/4hCKVecuybp8IrwRfN8fr1"
+    },
+    {
+      "album": {
+        "name": "HOT",
+        "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137178,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1"
+    },
+    {
+      "album": {
+        "name": "2025 LE SSERAFIM TOUR \u2018EASY CRAZY HOT\u2019 IN JAPAN",
+        "url": "https://open.spotify.com/album/2rG1zOkeWLIYsxRzUI3zfV"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 33751,
+      "name": "Comment - CRAZIER",
+      "url": "https://open.spotify.com/track/5WdTqtnznz9K4dpExRr3Fk"
+    },
+    {
+      "album": {
+        "name": "2025 LE SSERAFIM TOUR \u2018EASY CRAZY HOT\u2019 IN JAPAN",
+        "url": "https://open.spotify.com/album/2rG1zOkeWLIYsxRzUI3zfV"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 24928,
+      "name": "Comment - CRAZY",
+      "url": "https://open.spotify.com/track/3U4ivREbrhGEm5YW212VJp"
+    },
+    {
+      "album": {
+        "name": "2025 LE SSERAFIM TOUR \u2018EASY CRAZY HOT\u2019 IN JAPAN",
+        "url": "https://open.spotify.com/album/2rG1zOkeWLIYsxRzUI3zfV"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15372,
+      "name": "Comment - FEARLESS",
+      "url": "https://open.spotify.com/track/2LNpjkvpUwddiLqYn4AVAK"
+    },
+    {
+      "album": {
+        "name": "2025 LE SSERAFIM TOUR \u2018EASY CRAZY HOT\u2019 IN JAPAN",
+        "url": "https://open.spotify.com/album/2rG1zOkeWLIYsxRzUI3zfV"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 23208,
+      "name": "Comment - SAKI Seat",
+      "url": "https://open.spotify.com/track/3C9vXb8LSi3OrrpOYzulba"
+    },
+    {
+      "album": {
+        "name": "2025 LE SSERAFIM TOUR \u2018EASY CRAZY HOT\u2019 IN JAPAN",
+        "url": "https://open.spotify.com/album/2rG1zOkeWLIYsxRzUI3zfV"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54276,
+      "name": "Comment - Star Signs",
+      "url": "https://open.spotify.com/track/704eEmgsDrvgRkHO8EzDp4"
     },
     {
       "album": {
@@ -1018,6 +1252,42 @@
       "duration_ms": 214666,
       "name": "Countdown (3, 2, 1)",
       "url": "https://open.spotify.com/track/5ngy93w3QaZl3mN9YinIux"
+    },
+    {
+      "album": {
+        "name": "CRAZY",
+        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178736,
+      "name": "Crazier",
+      "url": "https://open.spotify.com/track/3druZC9WrM7UUv82PX0SfA"
+    },
+    {
+      "album": {
+        "name": "CRAZY",
+        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164554,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
     },
     {
       "album": {
@@ -1237,6 +1507,24 @@
     },
     {
       "album": {
+        "name": "DIFFERENT",
+        "url": "https://open.spotify.com/album/3ktE9BFKxeYT90NbKnDn7v"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141756,
+      "name": "DIFFERENT",
+      "url": "https://open.spotify.com/track/0c6PVOqHNDuhH6uNfA13IX"
+    },
+    {
+      "album": {
         "name": "Hot Sauce - The 1st Album",
         "url": "https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi"
       },
@@ -1356,7 +1644,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 183362,
       "name": "DREAM",
       "url": "https://open.spotify.com/track/580sy6eZ6j0LrjvayPKD0k"
@@ -1392,7 +1680,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 180845,
       "name": "DRIP",
       "url": "https://open.spotify.com/track/1MUZitHRpmng5NevrvNx4T"
@@ -1536,7 +1824,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 164545,
       "name": "EASY",
       "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
@@ -1558,6 +1846,24 @@
       "duration_ms": 174426,
       "name": "En Garde",
       "url": "https://open.spotify.com/track/4GZvo0OL3BsRxNrj4TBeP3"
+    },
+    {
+      "album": {
+        "name": "2025 LE SSERAFIM TOUR \u2018EASY CRAZY HOT\u2019 IN JAPAN",
+        "url": "https://open.spotify.com/album/2rG1zOkeWLIYsxRzUI3zfV"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36442,
+      "name": "Ending Comment",
+      "url": "https://open.spotify.com/track/1xNZ5peKeJ0GCXLoAQzzjw"
     },
     {
       "album": {
@@ -1608,7 +1914,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 185538,
       "name": "Eve, Psyche & The Bluebeard\u2019s wife",
       "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
@@ -1651,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "FEARLESS",
+        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168437,
+      "name": "FEARLESS",
+      "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
+    },
+    {
+      "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
       },
@@ -1662,7 +1986,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 206831,
       "name": "FEARNOT (Between you, me and the lamppost)",
       "url": "https://open.spotify.com/track/0sNfFxw3pJkVmRsgY781vM"
@@ -1723,6 +2047,24 @@
     },
     {
       "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198232,
+      "name": "Fire in the belly",
+      "url": "https://open.spotify.com/track/05RlBHEZg1RmL9DnPgv9Qq"
+    },
+    {
+      "album": {
         "name": "Fireflies (THE OFFICIAL SONG OF THE WORLD SCOUT FOUNDATION)",
         "url": "https://open.spotify.com/album/6MYKofPnqIdjfznGSopzCi"
       },
@@ -1770,7 +2112,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 212734,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/7a6vvAM1cjAuyVQpqv9pmu"
@@ -1979,6 +2321,24 @@
     },
     {
       "album": {
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160001,
+      "name": "Good Bones",
+      "url": "https://open.spotify.com/track/4UXmlYr1AbcsWsIbrUz2DC"
+    },
+    {
+      "album": {
         "name": "AND,",
         "url": "https://open.spotify.com/album/3Hs8WBB47spgGcUhtQ9rXB"
       },
@@ -2177,6 +2537,24 @@
     },
     {
       "album": {
+        "name": "HOT",
+        "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143797,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY"
+    },
+    {
+      "album": {
         "name": "Hot Mess",
         "url": "https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU"
       },
@@ -2321,6 +2699,24 @@
     },
     {
       "album": {
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196365,
+      "name": "Impurities",
+      "url": "https://open.spotify.com/track/7F0MuIk5glqtowCUjbn9es"
+    },
+    {
+      "album": {
         "name": "\u3086\u3089\u3086\u3089 -\u904b\u547d\u306e\u82b1-",
         "url": "https://open.spotify.com/album/27A3UO5hMd5WUHfw4n2NWv"
       },
@@ -2354,6 +2750,24 @@
       "duration_ms": 163556,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/6clvVbsFeIKdLXqnHX9xj7"
+    },
+    {
+      "album": {
+        "name": "2025 LE SSERAFIM TOUR \u2018EASY CRAZY HOT\u2019 IN JAPAN",
+        "url": "https://open.spotify.com/album/2rG1zOkeWLIYsxRzUI3zfV"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104873,
+      "name": "Intro\uff06Greeting",
+      "url": "https://open.spotify.com/track/0NpByyNr151KxuYWU0YFSS"
     },
     {
       "album": {
@@ -2728,7 +3142,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 168358,
       "name": "LIKE THAT",
       "url": "https://open.spotify.com/track/7GDgpad2BQVuDUzaxHFakc"
@@ -2818,7 +3232,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 192186,
       "name": "Love In My Heart",
       "url": "https://open.spotify.com/track/0A9s1ZDOZsYsbfkRk6q2cr"
@@ -2872,7 +3286,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 187895,
       "name": "Love,Maybe",
       "url": "https://open.spotify.com/track/25hdoW5qtOOsxVJnZoFfzm"
@@ -2980,7 +3394,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 40373,
       "name": "Message from BABYMONSTER",
       "url": "https://open.spotify.com/track/3pGnWJd43Vut9gveDvKf3Y"
@@ -3124,7 +3538,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 44495,
       "name": "MONSTERS (Intro)",
       "url": "https://open.spotify.com/track/2TDIYXFSaesHBw3ZtWpFev"
@@ -3344,6 +3758,24 @@
       "duration_ms": 166491,
       "name": "No Celestial",
       "url": "https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt"
+    },
+    {
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184823,
+      "name": "No-Return (Into the unknown)",
+      "url": "https://open.spotify.com/track/6DSGb5CmwHX4pvclq8HUU1"
     },
     {
       "album": {
@@ -3599,6 +4031,42 @@
     },
     {
       "album": {
+        "name": "Perfect Night",
+        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159080,
+      "name": "Perfect Night",
+      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
+    },
+    {
+      "album": {
+        "name": "CRAZY",
+        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170315,
+      "name": "Pierrot",
+      "url": "https://open.spotify.com/track/411fZBnpfU4eIDIZmDKswx"
+    },
+    {
+      "album": {
         "name": "ISTJ - The 3rd Album",
         "url": "https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7"
       },
@@ -3736,7 +4204,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 197657,
       "name": "Really Like You",
       "url": "https://open.spotify.com/track/5xqM1HOndjxfH7NmyD8SVS"
@@ -3977,6 +4445,24 @@
     },
     {
       "album": {
+        "name": "2025 LE SSERAFIM TOUR \u2018EASY CRAZY HOT\u2019 IN JAPAN",
+        "url": "https://open.spotify.com/album/2rG1zOkeWLIYsxRzUI3zfV"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52888,
+      "name": "Setlist Teaser",
+      "url": "https://open.spotify.com/track/5dtJOoOCg32yWWVzyLZcJD"
+    },
+    {
+      "album": {
         "name": "BABYMONS7ER",
         "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
       },
@@ -3988,7 +4474,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 170356,
       "name": "SHEESH",
       "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
@@ -4118,7 +4604,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 166384,
       "name": "Smart",
       "url": "https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T"
@@ -4140,6 +4626,24 @@
       "duration_ms": 188080,
       "name": "Smoothie",
       "url": "https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I"
+    },
+    {
+      "album": {
+        "name": "HOT",
+        "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155488,
+      "name": "So Cynical (Badum)",
+      "url": "https://open.spotify.com/track/1Hw8WhXlRjfUFDMykf92gA"
     },
     {
       "album": {
@@ -4233,6 +4737,24 @@
     },
     {
       "album": {
+        "name": "FEARLESS",
+        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196540,
+      "name": "Sour Grapes",
+      "url": "https://open.spotify.com/track/6wBpO4Xc4YgShnENGSFA1M"
+    },
+    {
+      "album": {
         "name": "So\u00f1ar (Breaker)",
         "url": "https://open.spotify.com/album/3atDr2UW1WQBLzDsL5iOJT"
       },
@@ -4266,6 +4788,24 @@
       "duration_ms": 197040,
       "name": "Spicy",
       "url": "https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP"
+    },
+    {
+      "album": {
+        "name": "Star Signs",
+        "url": "https://open.spotify.com/album/3V9OWu0finGlIhiPkf2XUv"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160629,
+      "name": "Star Signs",
+      "url": "https://open.spotify.com/track/21ZvC8aUTJIe5IBT34sLbG"
     },
     {
       "album": {
@@ -4370,7 +4910,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 199618,
       "name": "Stuck In The Middle (Remix)",
       "url": "https://open.spotify.com/track/2fJgQ2gjt5boaD9sMqwMTw"
@@ -4496,7 +5036,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 157179,
       "name": "Swan Song",
       "url": "https://open.spotify.com/track/2GquhrcHbl2zOnF5javAFp"
@@ -4665,6 +5205,24 @@
     },
     {
       "album": {
+        "name": "FEARLESS",
+        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177795,
+      "name": "The Great Mermaid",
+      "url": "https://open.spotify.com/track/5XO1SOADQxkdqGLFxX8rLN"
+    },
+    {
+      "album": {
         "name": "Beatbox - The 2nd Album Repackage",
         "url": "https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W"
       },
@@ -4752,6 +5310,28 @@
       "duration_ms": 206791,
       "name": "Trigger the fever - Bonus Track",
       "url": "https://open.spotify.com/track/1b0EgjAcJAkOlMh1U5zXLU"
+    },
+    {
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182148,
+      "name": "UNFORGIVEN (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"
     },
     {
       "album": {
@@ -5008,7 +5588,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 143535,
       "name": "Woke Up In Tokyo [RUKA & ASA]",
       "url": "https://open.spotify.com/track/1gWeMqlOkZ0LBnvD0PZWlP"

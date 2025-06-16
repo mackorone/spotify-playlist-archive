@@ -7443,6 +7443,32 @@
     },
     {
       "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/5RvuULhUiw1Z8lOVmcxOgS"
+      },
+      "artists": [
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        },
+        {
+          "name": "Don Gianni",
+          "url": "https://open.spotify.com/artist/05a2yjvz7pTPTzQY0AuacM"
+        },
+        {
+          "name": "LO",
+          "url": "https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192210,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/25ptHEGFaskKZQPv4dq4T7"
+    },
+    {
+      "album": {
         "name": "How It Feels (feat. Lauren L'aimant)",
         "url": "https://open.spotify.com/album/3j1TIHTviPzFeR2rx57l1Q"
       },
@@ -15900,7 +15926,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 188739,
       "name": "Shout It Out",
       "url": "https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm"

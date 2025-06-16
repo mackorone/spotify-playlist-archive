@@ -1,6 +1,6 @@
 {
   "description": "Funky Jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
-  "num_followers": 85464,
+  "num_followers": 85500,
   "original_name": "Hard Bop Classics",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-09-03 09:38:03",
       "album": {
-        "name": "Lee-Way",
-        "url": "https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 565106,
-      "name": "These Are Soulful Days",
-      "url": "https://open.spotify.com/track/3HQBY6YfomUIXgyowl6pvs"
-    },
-    {
-      "added_at": "2024-09-03 09:38:03",
-      "album": {
         "name": "Rollin' With Leo (Rudy Van Gelder Edition/2009 Remaster)",
         "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 385200,
       "name": "Rollin' With Leo - Rudy Van Gelder Edition/2009 Remaster",
       "url": "https://open.spotify.com/track/42iENLbnZCyVDCcc3CKzQ3"
+    },
+    {
+      "added_at": "2024-09-03 09:38:03",
+      "album": {
+        "name": "Lee-Way",
+        "url": "https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 565106,
+      "name": "These Are Soulful Days",
+      "url": "https://open.spotify.com/track/3HQBY6YfomUIXgyowl6pvs"
     },
     {
       "added_at": "2024-09-03 09:38:03",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-09-03 09:38:03",
       "album": {
-        "name": "My Conception",
-        "url": "https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 438000,
-      "name": "Blues Blue",
-      "url": "https://open.spotify.com/track/42s1AW8BjI7Z01BEKEtyD6"
-    },
-    {
-      "added_at": "2024-09-03 09:38:03",
-      "album": {
         "name": "A New Sound - A New Star, Vol. 2",
         "url": "https://open.spotify.com/album/0YbnuLEO8V39shvuHTDI5k"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 519360,
       "name": "The Champ",
       "url": "https://open.spotify.com/track/2LabSli3Hawqd8hq4N7IHp"
+    },
+    {
+      "added_at": "2024-09-03 09:38:03",
+      "album": {
+        "name": "My Conception",
+        "url": "https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 438000,
+      "name": "Blues Blue",
+      "url": "https://open.spotify.com/track/42s1AW8BjI7Z01BEKEtyD6"
     },
     {
       "added_at": "2024-09-03 09:38:03",

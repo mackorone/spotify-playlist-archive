@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 
 > KeBlack au sommet de la première playlist de France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,363,711 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,363,852 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 | 49 | [J’ai changé](https://open.spotify.com/track/03wJxjfTjjvnwqA0c4JoaS) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [J'ai changé](https://open.spotify.com/album/59CBG84jIKqTno4rW2rbHs) | 3:07 |
 | 50 | [A Girl Like You](https://open.spotify.com/track/0hh94JJOOvvgugZUWWQxcr) | [FDVM](https://open.spotify.com/artist/6J0Y4CoGMKL5RyeozHnVKl) | [A Girl Like You](https://open.spotify.com/album/1djjUIth4cI84ZmyvvGJUb) | 2:31 |
 
-Snapshot ID: `aEtOBgAAAABnY0fUQGJBcEnO3iQVrMAI`
+Snapshot ID: `aEtOBgAAAACoVcAlnX8AuS0lOM4i9X5d`

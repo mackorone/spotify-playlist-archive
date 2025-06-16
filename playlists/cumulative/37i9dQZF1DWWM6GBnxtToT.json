@@ -2394,6 +2394,24 @@
     {
       "album": {
         "name": "Passion",
+        "url": "https://open.spotify.com/album/7h5PjKTxcFbEJJVld2cVdd"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187009,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/0YBCdEKgz8G2wP7FeTZ91x"
+    },
+    {
+      "album": {
+        "name": "Passion",
         "url": "https://open.spotify.com/album/63j7U3jLepWFG6sSbxVwuP"
       },
       "artists": [
@@ -3450,7 +3468,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 202310,
       "name": "Where Do You Go",
       "url": "https://open.spotify.com/track/6fFV8yGBRnXRYkXDzXLgQG"

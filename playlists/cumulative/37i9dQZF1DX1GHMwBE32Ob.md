@@ -4,7 +4,7 @@
 
 > From the trenches\. Through the streets.<br/>Cover: Zerrydl
 
-362 songs - 16 hr 37 min
+363 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Bust Down](https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bust Down](https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G) | 3:16 | 2024-02-02 |  |
 | [Busy](https://open.spotify.com/track/207EjYJwVSc0ypijvKBMic) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Busy](https://open.spotify.com/album/1wVpvX9AjgmIoIfikkwFdK) | 2:52 | 2023-12-15 | 2024-02-16 |
 | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi) | 2:54 | 2024-12-16 |  |
+| [Calculate](https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Calculate](https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo) | 3:00 | 2025-06-13 |  |
 | [Call of Duty](https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Call of Duty](https://open.spotify.com/album/4ULxpCQINF17EWAhbE8w2T) | 2:24 | 2022-08-25 | 2024-01-05 |
 | [Cana](https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk) | 2:20 | 2024-01-08 | 2024-11-17 |
 | [Caro \(Remix\)](https://open.spotify.com/track/0q4b2aZRhZMRD3HvLy45s7) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Caro \(Remix\)](https://open.spotify.com/album/2LAhZSO0Zcnp1NsrdyashT) | 3:08 | 2023-05-04 | 2023-08-18 |
@@ -327,7 +328,7 @@
 | [Therapist](https://open.spotify.com/track/0EHJsg3FsmyksqKx3TOWoI) | [Ajesings](https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF) | [Therapist](https://open.spotify.com/album/2dzJKHfizbfzvq6be269eK) | 2:32 | 2024-06-07 | 2024-06-21 |
 | [Things on Things](https://open.spotify.com/track/0tt7KXPcP2Vez6cOedspRE) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Things on Things](https://open.spotify.com/album/5OXS5DoiCaozs5l7WztbLc) | 3:16 | 2023-10-13 | 2024-04-05 |
 | [Tiff](https://open.spotify.com/track/5jdJ6Flvi1ep0mpnWKa04R) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Tiff](https://open.spotify.com/album/1KeUFIH7fYkSCWByLwCiAO) | 2:12 | 2022-11-25 | 2024-05-20 |
-| [Till Thy Kingdom Come](https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Till Thy Kingdom Come](https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO) | 2:29 | 2024-08-30 |  |
+| [Till Thy Kingdom Come](https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Till Thy Kingdom Come](https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO) | 2:29 | 2024-08-30 | 2025-06-16 |
 | [Time \- Remix](https://open.spotify.com/track/2ETc95EJp82O8Bbx1MGEAR) | [Damo K](https://open.spotify.com/artist/2EbTRZdju2hUrMqClX4wyO), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Time \(Remix\)](https://open.spotify.com/album/1c2FeiwmSLO8prJnDg24Z1) | 2:27 | 2023-02-16 | 2023-12-30 |
 | [Tintok Cruise Beat](https://open.spotify.com/track/4KDnF7cF5UwTBEJYosVSnw) | [Dj Yk Mule](https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u) | [TinTok Cruise Beat](https://open.spotify.com/album/3AdRRuXQ3Rs8B0APJsbaOu) | 2:13 | 2022-06-29 | 2023-03-25 |
 | [Today](https://open.spotify.com/track/1jYIMLLTKnecfOgccQnaHb) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk) | 2:37 | 2023-12-08 | 2024-07-27 |

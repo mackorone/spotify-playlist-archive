@@ -1,6 +1,6 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 430337,
+  "num_followers": 430383,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
+        "name": "As Nasty As They Wanna Be",
+        "url": "https://open.spotify.com/album/5E27A8RO0L5fEkJut86TXb"
+      },
+      "artists": [
+        {
+          "name": "2 LIVE CREW",
+          "url": "https://open.spotify.com/artist/58Dx4HPzeOO3dbpD9YYEes"
+        }
+      ],
+      "duration_ms": 276466,
+      "name": "Me So Horny",
+      "url": "https://open.spotify.com/track/3EgvmOhP3NQUHY7d6PDOUg"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
         "name": "Paid In Full",
         "url": "https://open.spotify.com/album/5GSidytcItIkYvD0GVQ68m"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 228266,
       "name": "Paid In Full",
       "url": "https://open.spotify.com/track/3fatX7w8Wt9nmwGlXZsRFh"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
-        "name": "As Nasty As They Wanna Be",
-        "url": "https://open.spotify.com/album/5E27A8RO0L5fEkJut86TXb"
-      },
-      "artists": [
-        {
-          "name": "2 LIVE CREW",
-          "url": "https://open.spotify.com/artist/58Dx4HPzeOO3dbpD9YYEes"
-        }
-      ],
-      "duration_ms": 276466,
-      "name": "Me So Horny",
-      "url": "https://open.spotify.com/track/3EgvmOhP3NQUHY7d6PDOUg"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "Planet Rock",
-        "url": "https://open.spotify.com/album/1uN3SzldnRO8CrsVN0lh2O"
-      },
-      "artists": [
-        {
-          "name": "Afrika Bambaataa",
-          "url": "https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p"
-        },
-        {
-          "name": "The Soulsonic Force",
-          "url": "https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP"
-        }
-      ],
-      "duration_ms": 319960,
-      "name": "Planet Rock",
-      "url": "https://open.spotify.com/track/3uy0jtkM8QYVTsBazkli1x"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
         "name": "The Best Is Yet To Come",
         "url": "https://open.spotify.com/album/4cj641XM0e3LcGSTWr2oEV"
       },
@@ -1151,6 +1131,22 @@
       "duration_ms": 216000,
       "name": "Let The Music Play",
       "url": "https://open.spotify.com/track/4d8Bqtm7ODdQLFXxPSuK64"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
+        "name": "The Message (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6hrwAx3KoigDlYJx2TCAwC"
+      },
+      "artists": [
+        {
+          "name": "Grandmaster Flash & The Furious Five",
+          "url": "https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop"
+        }
+      ],
+      "duration_ms": 430013,
+      "name": "The Message - Extended Version",
+      "url": "https://open.spotify.com/track/5isA9icHWl2651hvfr1EOV"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

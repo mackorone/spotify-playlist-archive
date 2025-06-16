@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,258 likes - 338 songs - 21 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,257 likes - 338 songs - 21 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -334,8 +334,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 324 | [Sóc de Titani \- Titanium](https://open.spotify.com/track/4AfD1g69gUYC2TekIIF21a) | [Edurne](https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh) | [Sóc de Titani \(Titanium\)](https://open.spotify.com/album/7HI1HOsUFRUoFlNyiWfTn0) | 3:12 |
 | 325 | [Losing You](https://open.spotify.com/track/5SZuPkpxwgoP2pgxI76Z6Y) | [Love Hits](https://open.spotify.com/artist/4OGYWMUEByPvHnXdjSVDhB) | [Love Songs Now](https://open.spotify.com/album/6xZy4c6pJEqnQaXbHUI108) | 3:00 |
 | 326 | [Unstoppable \(Winner\)](https://open.spotify.com/track/5REbtP9VVeEZjbtoPfZKi5) | [Nicholson](https://open.spotify.com/artist/7ak5W5CiG11tI24HVUJlqw), [Elle Mariachi](https://open.spotify.com/artist/16GJH7ZlDVulpvX4jJrnfY) | [Unstoppable \(Winner\)](https://open.spotify.com/album/0Q4LMMEqjbYBamGbs9ovbE) | 3:48 |
-| 327 | [Blame It On the Radio](https://open.spotify.com/track/0FS4cFiS05fzihSTZy4Xej) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Girl You Lost](https://open.spotify.com/album/1cOQ4Jc5MCUMvycbFCl5Si) | 2:30 |
-| 328 | [Suitcase](https://open.spotify.com/track/7sj2ICJy6txmIl1KlpOBKJ) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Chandelier](https://open.spotify.com/album/4m1gjdCj0lHYrAcxMdVcZL) | 3:15 |
+| 327 | [Suitcase](https://open.spotify.com/track/7sj2ICJy6txmIl1KlpOBKJ) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Chandelier](https://open.spotify.com/album/4m1gjdCj0lHYrAcxMdVcZL) | 3:15 |
+| 328 | [Blame It On the Radio](https://open.spotify.com/track/0FS4cFiS05fzihSTZy4Xej) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Girl You Lost](https://open.spotify.com/album/1cOQ4Jc5MCUMvycbFCl5Si) | 2:30 |
 | 329 | [Up](https://open.spotify.com/track/2DmrjeW34yN2azsE2Xwj1p) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [B\. R\. Gunna](https://open.spotify.com/artist/6YIllbHGkgifcCut5A6Nrl), [Fat Ray](https://open.spotify.com/artist/7tjfWNXhMsf8G6WosK2hy2) | [Prequel to a Classic](https://open.spotify.com/album/7dSFl29aOSj3rq0fiBH2R5) | 2:47 |
 | 330 | [By Your Side \(Workout Mix + 135 BPM\)](https://open.spotify.com/track/470aIBFtqulDFlH5UtEbzr) | [Christian Workout Hits](https://open.spotify.com/artist/39HVSCCZMeqZ005U3CU1Pj) | [50 \#1 Workout Christian Hits! \(Deluxe Edition\) + Bonus Cardio Remixes + Instrumental Remixes + Classics \[2 Collection Set\]](https://open.spotify.com/album/3b8h601KQqKOiE00nOIgz5) | 5:59 |
 | 331 | [Text Me Back](https://open.spotify.com/track/0SEA2Tin86daYsOzXTGmsQ) | [Barney McAll](https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9), [TQX](https://open.spotify.com/artist/1kDuoI1Eqt7R8xXuUAGAd7), [Sirah](https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38), [KOOL A.D.](https://open.spotify.com/artist/6Xnvmw6KieZ1nVs0YdWemQ) | [Global Intimacy](https://open.spotify.com/album/6vRNDhVToXjZbxKyyIajWM) | 3:25 |
@@ -347,4 +347,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 337 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 338 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `Ab0JkgAAAACZ8/30y3gQxTr6yykSTo4d`
+Snapshot ID: `Ab0PMgAAAAC/JYNGK2/zLXFG7uR9TWll`

@@ -4,7 +4,7 @@
 
 > Cover: Shaw
 
-397 songs - 21 hr 3 min
+398 songs - 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [Oui Mr](https://open.spotify.com/track/4o49sZiYtgf89SzQ1MzpEB) | [Marouane](https://open.spotify.com/artist/0NOPgjB8SLX44CDPTaW0Be) | [Oui Mr](https://open.spotify.com/album/0XZbt2PWXdvGNIfezWU3rM) | 2:25 | 2023-08-26 | 2023-09-09 |
 | [Ouli Liya](https://open.spotify.com/track/5sk6R2149eT82gPVQI5vSY) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Ouli Liya](https://open.spotify.com/album/2sqrTDtjVrLRG2qradXlHQ) | 3:21 | 2023-01-15 | 2023-06-16 |
 | [Papiers](https://open.spotify.com/track/5wlHxud11fPNBjYMMppCAY) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Ok Wait](https://open.spotify.com/album/3k9wutDahqiqO2YfohyG4d) | 2:44 | 2024-10-23 |  |
-| [Paprika](https://open.spotify.com/track/1sRxcnih7w5PfbJAujdbJo) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Molno Jorjo](https://open.spotify.com/album/5kQ3ixWHYSnogyUZpurEkc) | 2:49 | 2025-01-27 |  |
+| [Paprika](https://open.spotify.com/track/1sRxcnih7w5PfbJAujdbJo) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Molno Jorjo](https://open.spotify.com/album/5kQ3ixWHYSnogyUZpurEkc) | 2:49 | 2025-01-27 | 2025-06-16 |
 | [Passé simple](https://open.spotify.com/track/3QY4sVs362wtj80Q5eyWWQ) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [L'MORPHINE](https://open.spotify.com/album/4uOkyB9V8LUsqQz4FP6pdq) | 3:29 | 2024-10-09 | 2024-10-31 |
 | [Pepete](https://open.spotify.com/track/2vVX6SI8eLIk5ycRk1rCTR) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Lmektoub](https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB) | 2:45 | 2023-07-11 | 2024-01-14 |
 | [Pharmacie 2](https://open.spotify.com/track/3oeS7Fx2DMathnP2qSztJi) | [21 Tach](https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc) | [Pharmacie 2](https://open.spotify.com/album/66C2VxOUAuM5ldmVPPGAvh) | 3:40 | 2023-12-15 | 2024-01-24 |
@@ -360,6 +360,7 @@
 | [TRAUMA](https://open.spotify.com/track/4c3wYPl65eHyt3oicxlJqJ) | [HB BOSS](https://open.spotify.com/artist/75kSwvCfQ095CKfPCd07sj), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [TRAUMA](https://open.spotify.com/album/2A7jeOCRQ9xbklAosed2eg) | 3:35 | 2025-02-17 | 2025-05-31 |
 | [Tsali Hna](https://open.spotify.com/track/6fbulsCLH3xzVQV3rIOKg1) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Tsali Hna](https://open.spotify.com/album/2cHLj5YOFFqZ0hi0pKslPt) | 2:40 | 2024-02-09 | 2024-02-17 |
 | [TU SAIS DEJA](https://open.spotify.com/track/5aEqH3jmxYadMW6IeA6G0W) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [TU SAIS DEJA](https://open.spotify.com/album/4Aw22griAVsPwxRv0wD8Cz) | 2:57 | 2023-11-24 | 2023-12-08 |
+| [Twam Mafyouzi](https://open.spotify.com/track/5m0WDhOtaCO4yCoy8bqOy7) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Twam Mafyouzi](https://open.spotify.com/album/4eqDkabbyPAMkojyo9OYHQ) | 2:06 | 2025-06-15 |  |
 | [Tyson](https://open.spotify.com/track/0jtgbnxjhaxqOmc8TJ0Eys) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Tyson](https://open.spotify.com/album/7yGKJvNTKg6MnQU2gknQay) | 5:05 | 2024-09-01 | 2024-11-05 |
 | [UNICEF](https://open.spotify.com/track/5IGhxeMAkpsQlyEIOsNmDE) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [UNICEF](https://open.spotify.com/album/17rnDndSLdVrQR0CbHvCq1) | 2:30 | 2023-05-12 | 2023-06-23 |
 | [Unique](https://open.spotify.com/track/4SIEgCDS7h90gFP5MEU4ai) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Unique](https://open.spotify.com/album/0iVvvnQXwwLBQhiwX3WFQ8) | 3:03 | 2024-03-01 | 2024-08-11 |

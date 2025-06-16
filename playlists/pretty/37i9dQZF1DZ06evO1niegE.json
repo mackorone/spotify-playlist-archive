@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 8426,
+  "num_followers": 8428,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAADUxvZDYS5yZWmxI0oxdioy",
+  "snapshot_id": "aEy7gAAAAADVwdlaF2AiR2ZQerym7tQn",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00cdO",
-        "url": "https://open.spotify.com/album/2GdI0IR3dlKQVgNtuwksJP"
+        "name": "Demasiado",
+        "url": "https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV"
       },
       "artists": [
-        {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 217232,
-      "name": "M\u00cdO",
-      "url": "https://open.spotify.com/track/7uPHgWAcx4Knbu6Qp0ULNe"
+      "duration_ms": 177426,
+      "name": "Demasiado",
+      "url": "https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7"
     },
     {
       "added_at": null,
@@ -543,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demasiado",
-        "url": "https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV"
+        "name": "M\u00cdO",
+        "url": "https://open.spotify.com/album/2GdI0IR3dlKQVgNtuwksJP"
       },
       "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 177426,
-      "name": "Demasiado",
-      "url": "https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7"
+      "duration_ms": 217232,
+      "name": "M\u00cdO",
+      "url": "https://open.spotify.com/track/7uPHgWAcx4Knbu6Qp0ULNe"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 226586,
-      "name": "Esper\u00e1ndote",
-      "url": "https://open.spotify.com/track/39nSeEjpm1bIMM275pSaef"
+      "duration_ms": 290040,
+      "name": "La Buena Lecci\u00f3n",
+      "url": "https://open.spotify.com/track/6kKmJ38xO1j0YoSLqg4e1r"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 290040,
-      "name": "La Buena Lecci\u00f3n",
-      "url": "https://open.spotify.com/track/6kKmJ38xO1j0YoSLqg4e1r"
+      "duration_ms": 226586,
+      "name": "Esper\u00e1ndote",
+      "url": "https://open.spotify.com/track/39nSeEjpm1bIMM275pSaef"
     },
     {
       "added_at": null,

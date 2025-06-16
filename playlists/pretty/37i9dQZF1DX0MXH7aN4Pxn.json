@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 749371,
+  "num_followers": 749232,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
@@ -259,26 +259,6 @@
     {
       "added_at": "2025-06-12 23:00:12",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 197549,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8"
-    },
-    {
-      "added_at": "2025-06-12 23:00:12",
-      "album": {
         "name": "My Love (2024)",
         "url": "https://open.spotify.com/album/73PdhRzMikkkImZ4qHOzZ3"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 184949,
       "name": "My Love (2024)",
       "url": "https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk"
+    },
+    {
+      "added_at": "2025-06-12 23:00:12",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 197549,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8"
     },
     {
       "added_at": "2025-06-12 23:00:12",
@@ -539,22 +539,22 @@
     {
       "added_at": "2025-06-12 23:00:12",
       "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/4MkZ4elzb1iHTMmzyYh1Jc"
+        "name": "Cops & Robbers",
+        "url": "https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U"
       },
       "artists": [
         {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         },
         {
-          "name": "bbyclose",
-          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         }
       ],
-      "duration_ms": 184827,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/2B0xsnWUjm7cPLs9gGoepp"
+      "duration_ms": 161495,
+      "name": "Cops & Robbers",
+      "url": "https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi"
     },
     {
       "added_at": "2025-06-12 23:00:12",
@@ -575,6 +575,26 @@
     {
       "added_at": "2025-06-12 23:00:12",
       "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/4MkZ4elzb1iHTMmzyYh1Jc"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "duration_ms": 184827,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/2B0xsnWUjm7cPLs9gGoepp"
+    },
+    {
+      "added_at": "2025-06-12 23:00:12",
+      "album": {
         "name": "REHAB",
         "url": "https://open.spotify.com/album/7cWLfM1fEbvTA4x8FW4Eas"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 195003,
       "name": "REHAB",
       "url": "https://open.spotify.com/track/5KWlttlxtvmcPigdrfpQnz"
-    },
-    {
-      "added_at": "2025-06-12 23:00:12",
-      "album": {
-        "name": "Cops & Robbers",
-        "url": "https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 161495,
-      "name": "Cops & Robbers",
-      "url": "https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi"
     },
     {
       "added_at": "2025-06-12 23:00:12",
@@ -727,6 +727,34 @@
     {
       "added_at": "2025-06-12 23:00:12",
       "album": {
+        "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
+        "url": "https://open.spotify.com/album/0WWjvPdLmnwYrTi03XJ9ib"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 227283,
+      "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
+      "url": "https://open.spotify.com/track/1NpIUD4KqHaMT91kw0YV40"
+    },
+    {
+      "added_at": "2025-06-12 23:00:12",
+      "album": {
         "name": "Deep In Your Love",
         "url": "https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs"
       },
@@ -763,50 +791,6 @@
     {
       "added_at": "2025-06-12 23:00:12",
       "album": {
-        "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
-        "url": "https://open.spotify.com/album/0WWjvPdLmnwYrTi03XJ9ib"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 227283,
-      "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
-      "url": "https://open.spotify.com/track/1NpIUD4KqHaMT91kw0YV40"
-    },
-    {
-      "added_at": "2025-06-12 23:00:12",
-      "album": {
-        "name": "So Much In Love",
-        "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        }
-      ],
-      "duration_ms": 178453,
-      "name": "So Much In Love",
-      "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
-    },
-    {
-      "added_at": "2025-06-12 23:00:12",
-      "album": {
         "name": "Happier (feat. Clementine Douglas)",
         "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 170358,
       "name": "Happier (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
+    },
+    {
+      "added_at": "2025-06-12 23:00:12",
+      "album": {
+        "name": "So Much In Love",
+        "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "So Much In Love",
+      "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
     },
     {
       "added_at": "2025-06-12 23:00:12",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2025-06-12 23:00:12",
       "album": {
-        "name": "Disconnect",
-        "url": "https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        }
-      ],
-      "duration_ms": 164914,
-      "name": "Disconnect",
-      "url": "https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE"
-    },
-    {
-      "added_at": "2025-06-12 23:00:12",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 135796,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y"
+    },
+    {
+      "added_at": "2025-06-12 23:00:12",
+      "album": {
+        "name": "Disconnect",
+        "url": "https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        }
+      ],
+      "duration_ms": 164914,
+      "name": "Disconnect",
+      "url": "https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE"
     },
     {
       "added_at": "2025-06-12 23:00:12",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-06-12 23:00:12",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/73A8cKzllUa1BwNebMT7xB"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 165961,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4EyIt50f46KvqdJphEPg8U"
-    },
-    {
-      "added_at": "2025-06-12 23:00:12",
-      "album": {
         "name": "Damager",
         "url": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 224591,
       "name": "Damager",
       "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
+    },
+    {
+      "added_at": "2025-06-12 23:00:12",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/73A8cKzllUa1BwNebMT7xB"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 165961,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4EyIt50f46KvqdJphEPg8U"
     },
     {
       "added_at": "2025-06-12 23:00:12",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2025-06-12 23:00:12",
       "album": {
-        "name": "In My Room",
-        "url": "https://open.spotify.com/album/4EslqDlOgXkIhbEQHHjl3g"
-      },
-      "artists": [
-        {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
-        },
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        }
-      ],
-      "duration_ms": 159387,
-      "name": "In My Room",
-      "url": "https://open.spotify.com/track/5Yqqm8RJ5Rm7FDAv3g1obU"
-    },
-    {
-      "added_at": "2025-06-12 23:00:12",
-      "album": {
         "name": "Piece of Me",
         "url": "https://open.spotify.com/album/64wvW9YtNDyMBWgNjVl3v8"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 188706,
       "name": "Piece of Me",
       "url": "https://open.spotify.com/track/1ZQnV7ePl8yXoLjPfhWE5L"
+    },
+    {
+      "added_at": "2025-06-12 23:00:12",
+      "album": {
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/4EslqDlOgXkIhbEQHHjl3g"
+      },
+      "artists": [
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        },
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        }
+      ],
+      "duration_ms": 159387,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/5Yqqm8RJ5Rm7FDAv3g1obU"
     },
     {
       "added_at": "2025-06-12 23:00:12",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2025-06-12 23:00:12",
       "album": {
+        "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
+        "url": "https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 160650,
+      "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
+      "url": "https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn"
+    },
+    {
+      "added_at": "2025-06-12 23:00:12",
+      "album": {
         "name": "0800 HEAVEN",
         "url": "https://open.spotify.com/album/1E3veDntN7jiBB0zRdUN2Q"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 159316,
       "name": "0800 HEAVEN",
       "url": "https://open.spotify.com/track/2Vewxhl9sD0IhO9Az4qLS5"
-    },
-    {
-      "added_at": "2025-06-12 23:00:12",
-      "album": {
-        "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
-        "url": "https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 160650,
-      "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
-      "url": "https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn"
     },
     {
       "added_at": "2025-06-12 23:00:12",
@@ -1791,6 +1791,26 @@
     {
       "added_at": "2025-06-12 23:00:12",
       "album": {
+        "name": "ALL MY PEOPLE",
+        "url": "https://open.spotify.com/album/5mphRUgHGOOZetFKkHf8QB"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "Sweely",
+          "url": "https://open.spotify.com/artist/1SYJDHr7kjUL4LlfK1jJ9m"
+        }
+      ],
+      "duration_ms": 268989,
+      "name": "ALL MY PEOPLE",
+      "url": "https://open.spotify.com/track/0r56lpZulrcqJxi0kA9wM2"
+    },
+    {
+      "added_at": "2025-06-12 23:00:12",
+      "album": {
         "name": "We Want More",
         "url": "https://open.spotify.com/album/7nKp2UoahBhOLo5KiYHqpd"
       },
@@ -1815,26 +1835,6 @@
     {
       "added_at": "2025-06-12 23:00:12",
       "album": {
-        "name": "ALL MY PEOPLE",
-        "url": "https://open.spotify.com/album/5mphRUgHGOOZetFKkHf8QB"
-      },
-      "artists": [
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        },
-        {
-          "name": "Sweely",
-          "url": "https://open.spotify.com/artist/1SYJDHr7kjUL4LlfK1jJ9m"
-        }
-      ],
-      "duration_ms": 268989,
-      "name": "ALL MY PEOPLE",
-      "url": "https://open.spotify.com/track/0r56lpZulrcqJxi0kA9wM2"
-    },
-    {
-      "added_at": "2025-06-12 23:00:12",
-      "album": {
         "name": "Rhymes",
         "url": "https://open.spotify.com/album/4hqlx8mdrCorDXsdzQfmX1"
       },
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2025-06-12 23:00:12",
       "album": {
+        "name": "They Don't Know (Radio Edit)",
+        "url": "https://open.spotify.com/album/3PFPHmT6f2Meat5xuT42MV"
+      },
+      "artists": [
+        {
+          "name": "Disciples",
+          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
+        }
+      ],
+      "duration_ms": 161726,
+      "name": "They Don't Know - Radio Edit",
+      "url": "https://open.spotify.com/track/3ddsRCIG5TcpytqsfTOnX1"
+    },
+    {
+      "added_at": "2025-06-12 23:00:12",
+      "album": {
         "name": "I See Colors",
         "url": "https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 192428,
       "name": "I See Colors",
       "url": "https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3"
-    },
-    {
-      "added_at": "2025-06-12 23:00:12",
-      "album": {
-        "name": "They Don't Know (Radio Edit)",
-        "url": "https://open.spotify.com/album/3PFPHmT6f2Meat5xuT42MV"
-      },
-      "artists": [
-        {
-          "name": "Disciples",
-          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
-        }
-      ],
-      "duration_ms": 161726,
-      "name": "They Don't Know - Radio Edit",
-      "url": "https://open.spotify.com/track/3ddsRCIG5TcpytqsfTOnX1"
     },
     {
       "added_at": "2025-06-12 23:00:12",

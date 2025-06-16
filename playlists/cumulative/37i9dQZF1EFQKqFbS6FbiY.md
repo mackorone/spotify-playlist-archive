@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-654 songs - 1 day 7 hr 47 min
+655 songs - 1 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -651,6 +651,7 @@
 | [Volta por Dó](https://open.spotify.com/track/0zGTsN9Zwb0a9S9hYuXSld) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Naiara Sunrise, Ep3](https://open.spotify.com/album/473826n2BTdzaVKChaFvwM) | 2:46 | 2023-12-30 |  |
 | [Volta Pro Felipe](https://open.spotify.com/track/6QkJHtSOWdcbmVtzJRuxjV) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Check](https://open.spotify.com/album/4VtFp9aoqQYTqxlsN0A8Qg) | 2:31 | 2023-12-30 |  |
 | [Vontade De Terminar \- Ao Vivo](https://open.spotify.com/track/5a3usmwW7FYgzxPKf2jZlv) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Ao Vivo Em Barretos](https://open.spotify.com/album/3285qnjOrD9rF7SErvKa0y) | 3:05 | 2023-12-30 |  |
+| [Vontadezinha](https://open.spotify.com/track/53SHolQrZOGAEAdlLIJBph) | [Caio & Breno](https://open.spotify.com/artist/7JLrcwPWOrZTMEErSpwlRL) | [Vontadezinha](https://open.spotify.com/album/1ZbOsEaXSBdSyQreVmq2IV) | 2:42 | 2025-06-15 |  |
 | [Vou Rezar Pra Você Me Perdoar \- Ao Vivo](https://open.spotify.com/track/1Kntuwz52WWE8g5YuUMpGa) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Foi Deus \(Ao Vivo\)](https://open.spotify.com/album/1tDSUVPzasnw5EloTxMdwf) | 2:46 | 2024-03-26 | 2025-03-15 |
 | [Vou Rezar Pra Você Me Perdoar \- Ao Vivo](https://open.spotify.com/track/1wI7K41GteOHQBFrLNm35w) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Foi Deus, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/7mmkl86XhHDw82Cl39ZCKq) | 2:46 | 2025-03-14 |  |
 | [Vô Num Vô](https://open.spotify.com/track/3YQ23xhBbGAG0o4PM27FEX) | [Marcello Teodoro](https://open.spotify.com/artist/5YaJ30w1xFCq76GRWIMuvn) | [Vô Num Vô](https://open.spotify.com/album/2xVTqwTuXdsJUGhj1sHng3) | 2:45 | 2024-03-21 |  |

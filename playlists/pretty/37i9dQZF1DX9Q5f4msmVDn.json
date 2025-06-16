@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 23432,
+  "num_followers": 23435,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Soundgasm",
+        "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 204755,
+      "name": "Soundgasm",
+      "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
       },
@@ -303,22 +319,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Soundgasm",
-        "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 204755,
-      "name": "Soundgasm",
-      "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Thirsty",
         "url": "https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy"
       },
@@ -367,26 +367,6 @@
       "duration_ms": 159130,
       "name": "Got It All",
       "url": "https://open.spotify.com/track/5sHVIQEzTg8qcEstqlIig1"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "CALL ME IF YOU GET LOST",
-        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "DAISY WORLD",
-          "url": "https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT"
-        }
-      ],
-      "duration_ms": 203588,
-      "name": "RISE! (feat. DAISY WORLD)",
-      "url": "https://open.spotify.com/track/4Hta7Oy5W9HD0UgT1P8PPV"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -483,6 +463,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "DAISY WORLD",
+          "url": "https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT"
+        }
+      ],
+      "duration_ms": 203588,
+      "name": "RISE! (feat. DAISY WORLD)",
+      "url": "https://open.spotify.com/track/4Hta7Oy5W9HD0UgT1P8PPV"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Dinner Party",
         "url": "https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r"
       },
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Slauson Boy 2",
-        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 261373,
-      "name": "I Don't Stress",
-      "url": "https://open.spotify.com/track/2FJnGx6mOQh7bB1dKj4IpI"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "TwoFr 2",
         "url": "https://open.spotify.com/album/6IFG8yV0MHsyAaZxbDHzlK"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 460573,
       "name": "FEAR.",
       "url": "https://open.spotify.com/track/28J8MZFrSMvd5gWxAGRBq1"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Slauson Boy 2",
+        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 261373,
+      "name": "I Don't Stress",
+      "url": "https://open.spotify.com/track/2FJnGx6mOQh7bB1dKj4IpI"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 135862,
+      "name": "Pump Up The Jam",
+      "url": "https://open.spotify.com/track/2aUQpQBZF5KjfGHffx2oFo"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "What It Feels Like",
         "url": "https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 275162,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 135862,
-      "name": "Pump Up The Jam",
-      "url": "https://open.spotify.com/track/2aUQpQBZF5KjfGHffx2oFo"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Princesses Nubiennes",
-        "url": "https://open.spotify.com/album/18Tc3CrTP3lb8nMJnoRGSK"
-      },
-      "artists": [
-        {
-          "name": "Les Nubians",
-          "url": "https://open.spotify.com/artist/55PeYSS1g71a1BZLeIr0Sd"
-        }
-      ],
-      "duration_ms": 232933,
-      "name": "Demain jazz",
-      "url": "https://open.spotify.com/track/5cU5fWOztxf1YFmXVh7Oe6"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 191067,
       "name": "About That Time (with G-Eazy, P-Lo & White Dave)",
       "url": "https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Princesses Nubiennes",
+        "url": "https://open.spotify.com/album/18Tc3CrTP3lb8nMJnoRGSK"
+      },
+      "artists": [
+        {
+          "name": "Les Nubians",
+          "url": "https://open.spotify.com/artist/55PeYSS1g71a1BZLeIr0Sd"
+        }
+      ],
+      "duration_ms": 232933,
+      "name": "Demain jazz",
+      "url": "https://open.spotify.com/track/5cU5fWOztxf1YFmXVh7Oe6"
     },
     {
       "added_at": "2022-10-01 16:00:00",

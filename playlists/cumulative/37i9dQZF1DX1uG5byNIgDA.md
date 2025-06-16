@@ -4,7 +4,7 @@
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-442 songs - 1 day 0 hr 6 min
+443 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Friend](https://open.spotify.com/track/5Ok0AYLymugVEB200ioKFN) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Friend](https://open.spotify.com/album/3VhPvsUFEkpIZYKD9PZMvD) | 3:39 | 2022-03-23 | 2022-04-18 |
 | [Future](https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [START\-UP \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/06h9n6zGd1T17s1RkdXIc4) | 3:35 | 2021-12-06 | 2023-04-27 |
 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-03-10 | 2024-03-28 |
-| [Get A Guitar](https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k) | 2:40 | 2024-03-27 |  |
+| [Get A Guitar](https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k) | 2:40 | 2024-03-27 | 2025-06-16 |
 | [Get Cool](https://open.spotify.com/track/2Q0IIf62kXoAo24LX70iyb) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [I am YOU](https://open.spotify.com/album/40Pa1bnWFp4I48tuoal1mS) | 3:14 | 2022-03-23 | 2022-04-16 |
 | [Get Ya! \(feat\. pH\-1\)](https://open.spotify.com/track/4FPWDZRRREW99mWChTCyYr) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Get Ya! \(feat\. pH\-1\)](https://open.spotify.com/album/3eexqM5OLi0HlN3JDyqZhx) | 2:39 | 2022-05-03 | 2022-07-24 |
 | [Giddy](https://open.spotify.com/track/6blIAzkMKENKqAfMwj5cZQ) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [LOVESTRUCK!](https://open.spotify.com/album/06qoehc4xjI7IW9J8jQFEX) | 3:04 | 2023-04-26 | 2023-07-29 |
@@ -210,6 +210,7 @@
 | [Je T'aime](https://open.spotify.com/track/3wS47sXPddjE6rbhU7u20w) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Je T'aime](https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH) | 4:21 | 2021-12-06 | 2022-07-29 |
 | [Just Good](https://open.spotify.com/track/1Q7BxZ0eWJ0nY08idRET5r) | [Harryan Yoonsoan](https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ) | [Just Good](https://open.spotify.com/album/0R0SuB559BvKENJYqZelUS) | 2:36 | 2021-12-06 | 2022-07-22 |
 | [kickkick 킥킥](https://open.spotify.com/track/0hAcqZNqVR5AyTypgFn7v5) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [kickkick 킥킥](https://open.spotify.com/album/31CDbMhsOM6WrODufPFTpA) | 3:49 | 2022-01-11 | 2022-04-13 |
+| [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs) | 2:28 | 2025-06-13 |  |
 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2021-12-06 | 2023-05-08 |
 | [Killin’ Me Good](https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:05 | 2023-08-24 | 2024-04-19 |
 | [Kimchi Fried Rice](https://open.spotify.com/track/5Y5loSGPxq7ZUB9TNimi1H) | [Tarin](https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO) | [Kimchi Fried Rice](https://open.spotify.com/album/6K6hFeFn7o307wnhRrK84G) | 3:32 | 2023-05-23 | 2023-06-08 |

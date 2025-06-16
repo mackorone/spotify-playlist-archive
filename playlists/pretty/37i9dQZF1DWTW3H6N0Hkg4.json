@@ -1,6 +1,6 @@
 {
   "description": "Cumbias de anta\u00f1o para bailar.",
-  "num_followers": 292577,
+  "num_followers": 292664,
   "original_name": "Cumbias Viejitas",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
-        "name": "20 Cumbias Andinas",
-        "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
-      },
-      "artists": [
-        {
-          "name": "Los Llayras",
-          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Coraz\u00f3n Adolorido",
-      "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
-    },
-    {
-      "added_at": "2024-07-11 00:09:39",
-      "album": {
         "name": "30 Aniversario (Edici\u00f3n Limitada)",
         "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 185880,
       "name": "A Donde Iras Ahora",
       "url": "https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3"
+    },
+    {
+      "added_at": "2024-07-11 00:09:39",
+      "album": {
+        "name": "Exitos, Vol. 1",
+        "url": "https://open.spotify.com/album/7jeKLx1cNUzdOLZdH8iEn1"
+      },
+      "artists": [
+        {
+          "name": "Junior Klan",
+          "url": "https://open.spotify.com/artist/38nF3ZyCqorhu0SaQ7yMqI"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "Como Agua en las Manos",
+      "url": "https://open.spotify.com/track/2LoKCVvq23Zuh0kaKCLv6P"
     },
     {
       "added_at": "2024-07-11 00:09:39",
@@ -363,18 +363,18 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
-        "name": "Exitos, Vol. 1",
-        "url": "https://open.spotify.com/album/7jeKLx1cNUzdOLZdH8iEn1"
+        "name": "20 Cumbias Andinas",
+        "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
       },
       "artists": [
         {
-          "name": "Junior Klan",
-          "url": "https://open.spotify.com/artist/38nF3ZyCqorhu0SaQ7yMqI"
+          "name": "Los Llayras",
+          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
         }
       ],
-      "duration_ms": 162920,
-      "name": "Como Agua en las Manos",
-      "url": "https://open.spotify.com/track/2LoKCVvq23Zuh0kaKCLv6P"
+      "duration_ms": 230133,
+      "name": "Coraz\u00f3n Adolorido",
+      "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
     },
     {
       "added_at": "2024-07-11 00:09:39",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
-        "name": "Sus Mejores Exitos",
-        "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Saya",
-          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
-        }
-      ],
-      "duration_ms": 195946,
-      "name": "Ca\u00f1ita Ca\u00f1averal",
-      "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
-    },
-    {
-      "added_at": "2024-07-11 00:09:39",
-      "album": {
         "name": "Se Nos Paso La Mano En Sabor",
         "url": "https://open.spotify.com/album/6oL9RVp9PRaVi7ldTgMErs"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 185306,
       "name": "Ag\u00fcita De Mel\u00f3n",
       "url": "https://open.spotify.com/track/67RNKBsqRiyMOtor2RxfWR"
+    },
+    {
+      "added_at": "2024-07-11 00:09:39",
+      "album": {
+        "name": "Sus Mejores Exitos",
+        "url": "https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Saya",
+          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
+        }
+      ],
+      "duration_ms": 195946,
+      "name": "Ca\u00f1ita Ca\u00f1averal",
+      "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
     },
     {
       "added_at": "2024-07-11 00:09:39",
@@ -831,8 +831,8 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
-        "name": "M\u00fasica Sin Limites - Tropical",
-        "url": "https://open.spotify.com/album/44uggEuojKvKPTL1jQumGp"
+        "name": "Las Viejas Mas Bailadas",
+        "url": "https://open.spotify.com/album/6Q6fb0PsCRX0n0ufBmdxET"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt"
         }
       ],
-      "duration_ms": 161520,
-      "name": "Amor De Unas Horas",
-      "url": "https://open.spotify.com/track/61qpGyo77FZw8HixIR0S0K"
+      "duration_ms": 185115,
+      "name": "Amor A\u00f1ejo",
+      "url": "https://open.spotify.com/track/1H1kbmFt0EExo2dRPjZjCL"
     },
     {
       "added_at": "2024-07-11 00:09:39",
@@ -915,8 +915,8 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
-        "name": "Las Viejas Mas Bailadas",
-        "url": "https://open.spotify.com/album/6Q6fb0PsCRX0n0ufBmdxET"
+        "name": "M\u00fasica Sin Limites - Tropical",
+        "url": "https://open.spotify.com/album/44uggEuojKvKPTL1jQumGp"
       },
       "artists": [
         {
@@ -924,9 +924,9 @@
           "url": "https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt"
         }
       ],
-      "duration_ms": 185115,
-      "name": "Amor A\u00f1ejo",
-      "url": "https://open.spotify.com/track/1H1kbmFt0EExo2dRPjZjCL"
+      "duration_ms": 161520,
+      "name": "Amor De Unas Horas",
+      "url": "https://open.spotify.com/track/61qpGyo77FZw8HixIR0S0K"
     },
     {
       "added_at": "2024-07-11 00:09:39",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Masterizados",
-        "url": "https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "\u00a1Ay! El Amor",
-      "url": "https://open.spotify.com/track/6PAUYlcbuqx6s2MC5RAGLJ"
-    },
-    {
-      "added_at": "2024-07-11 00:09:39",
-      "album": {
         "name": "Cumbias de Oro: 16 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/1lFsVuX8eLCcNU6PCG8MHY"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 155946,
       "name": "Se Me Perdi\u00f3 la Cadenita",
       "url": "https://open.spotify.com/track/3zhQ74Oan1RIO78RmMr1F4"
+    },
+    {
+      "added_at": "2024-07-11 00:09:39",
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Masterizados",
+        "url": "https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "\u00a1Ay! El Amor",
+      "url": "https://open.spotify.com/track/6PAUYlcbuqx6s2MC5RAGLJ"
     },
     {
       "added_at": "2024-07-11 00:09:39",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
-        "name": "Antolog\u00eda...Los Sonor's",
-        "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
-      },
-      "artists": [
-        {
-          "name": "Los Sonor's",
-          "url": "https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0"
-        }
-      ],
-      "duration_ms": 167013,
-      "name": "Cozumel",
-      "url": "https://open.spotify.com/track/0qzSnmWhuj6LFf34y3X8hk"
-    },
-    {
-      "added_at": "2024-07-11 00:09:39",
-      "album": {
         "name": "El Toque Tropical del Barrio Vol. 3",
         "url": "https://open.spotify.com/album/6TWE8uxJLDv912MqhXnxP1"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 244826,
       "name": "Sin Ella",
       "url": "https://open.spotify.com/track/6UvJvZ5asLHazFpCxhHTVM"
+    },
+    {
+      "added_at": "2024-07-11 00:09:39",
+      "album": {
+        "name": "Mensajeros del Amor",
+        "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
+      },
+      "artists": [
+        {
+          "name": "Mensajeros del Amor",
+          "url": "https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "El Soy Yo",
+      "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
     },
     {
       "added_at": "2024-07-11 00:09:39",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
-        "name": "Mensajeros del Amor",
-        "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
+        "name": "Antolog\u00eda...Los Sonor's",
+        "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
       },
       "artists": [
         {
-          "name": "Mensajeros del Amor",
-          "url": "https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3"
+          "name": "Los Sonor's",
+          "url": "https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0"
         }
       ],
-      "duration_ms": 192120,
-      "name": "El Soy Yo",
-      "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
+      "duration_ms": 167013,
+      "name": "Cozumel",
+      "url": "https://open.spotify.com/track/0qzSnmWhuj6LFf34y3X8hk"
     },
     {
       "added_at": "2024-07-11 00:09:39",
@@ -1687,6 +1687,38 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
+        "name": "Lo Mejor De Lo Mejor",
+        "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 161239,
+      "name": "Yo Tomo Licor",
+      "url": "https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU"
+    },
+    {
+      "added_at": "2024-07-11 00:09:39",
+      "album": {
+        "name": "Lo mejor de R\u00e1faga",
+        "url": "https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Una R\u00e1faga de Amor",
+      "url": "https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB"
+    },
+    {
+      "added_at": "2024-07-11 00:09:39",
+      "album": {
         "name": "Guarachando",
         "url": "https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI"
       },
@@ -1719,22 +1751,6 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
-        "name": "Lo Mejor De Lo Mejor",
-        "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 161239,
-      "name": "Yo Tomo Licor",
-      "url": "https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU"
-    },
-    {
-      "added_at": "2024-07-11 00:09:39",
-      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj"
       },
@@ -1751,6 +1767,22 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
+        "name": "corazon de papel",
+        "url": "https://open.spotify.com/album/6BKIN0ZfJGzO4iBCoOsmu4"
+      },
+      "artists": [
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "Amores Como el Nuestro",
+      "url": "https://open.spotify.com/track/6z6aUQtuqZzq2tbyVwHO6n"
+    },
+    {
+      "added_at": "2024-07-11 00:09:39",
+      "album": {
         "name": "A Morir",
         "url": "https://open.spotify.com/album/3odNjgXP8eMSz2g8n890mH"
       },
@@ -1763,22 +1795,6 @@
       "duration_ms": 229920,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/2aJuCPajaqOVaNjmgKGRhF"
-    },
-    {
-      "added_at": "2024-07-11 00:09:39",
-      "album": {
-        "name": "Lo mejor de R\u00e1faga",
-        "url": "https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "Una R\u00e1faga de Amor",
-      "url": "https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB"
     },
     {
       "added_at": "2024-07-11 00:09:39",
@@ -1847,6 +1863,22 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
+        "name": "Con Carino A Oaxaca",
+        "url": "https://open.spotify.com/album/0IuDm4Z0RGNVsPZBDcNnUJ"
+      },
+      "artists": [
+        {
+          "name": "Simba Musical",
+          "url": "https://open.spotify.com/artist/2lxLwYbYnQZv7wkubtAq3J"
+        }
+      ],
+      "duration_ms": 354520,
+      "name": "Mix Juguito De Pina",
+      "url": "https://open.spotify.com/track/68PWHpcmWTC92qoGADfOEG"
+    },
+    {
+      "added_at": "2024-07-11 00:09:39",
+      "album": {
         "name": "Grupo Ca\u00f1averal, Vol. III",
         "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
       },
@@ -1859,22 +1891,6 @@
       "duration_ms": 280826,
       "name": "Echarme Al Olvido",
       "url": "https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU"
-    },
-    {
-      "added_at": "2024-07-11 00:09:39",
-      "album": {
-        "name": "corazon de papel",
-        "url": "https://open.spotify.com/album/6BKIN0ZfJGzO4iBCoOsmu4"
-      },
-      "artists": [
-        {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "Amores Como el Nuestro",
-      "url": "https://open.spotify.com/track/6z6aUQtuqZzq2tbyVwHO6n"
     },
     {
       "added_at": "2024-07-11 00:09:39",
@@ -1927,6 +1943,22 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 228400,
+      "name": "Vida No Te Vayas",
+      "url": "https://open.spotify.com/track/5Kai2HEyMEN12TyndhDyZn"
+    },
+    {
+      "added_at": "2024-07-11 00:09:39",
+      "album": {
         "name": "Coraz\u00f3n Valiente",
         "url": "https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn"
       },
@@ -1943,22 +1975,6 @@
     {
       "added_at": "2024-07-11 00:09:39",
       "album": {
-        "name": "Amor de Internet",
-        "url": "https://open.spotify.com/album/0x63AO9cXTLCjhRzdT1BuW"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        }
-      ],
-      "duration_ms": 230226,
-      "name": "Amor de Internet",
-      "url": "https://open.spotify.com/track/5LxGgIGHOjbzvPm5CclD1h"
-    },
-    {
-      "added_at": "2024-07-11 00:09:39",
-      "album": {
         "name": "Los Reyes de la Cumbia",
         "url": "https://open.spotify.com/album/7dqGNgngoKiz7sRR7DaBjw"
       },
@@ -1971,6 +1987,22 @@
       "duration_ms": 284160,
       "name": "Rumba Cha Cha",
       "url": "https://open.spotify.com/track/5OSUQtHDX5L0bW8MbLFlS7"
+    },
+    {
+      "added_at": "2024-07-11 00:09:39",
+      "album": {
+        "name": "Amor de Internet",
+        "url": "https://open.spotify.com/album/0x63AO9cXTLCjhRzdT1BuW"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "duration_ms": 230226,
+      "name": "Amor de Internet",
+      "url": "https://open.spotify.com/track/5LxGgIGHOjbzvPm5CclD1h"
     },
     {
       "added_at": "2024-07-11 00:09:39",
@@ -2003,38 +2035,6 @@
       "duration_ms": 220533,
       "name": "Cumbia Francesa",
       "url": "https://open.spotify.com/track/74VcBE1CXvIIOMGqHJn74z"
-    },
-    {
-      "added_at": "2024-07-11 00:09:39",
-      "album": {
-        "name": "Con Carino A Oaxaca",
-        "url": "https://open.spotify.com/album/0IuDm4Z0RGNVsPZBDcNnUJ"
-      },
-      "artists": [
-        {
-          "name": "Simba Musical",
-          "url": "https://open.spotify.com/artist/2lxLwYbYnQZv7wkubtAq3J"
-        }
-      ],
-      "duration_ms": 354520,
-      "name": "Mix Juguito De Pina",
-      "url": "https://open.spotify.com/track/68PWHpcmWTC92qoGADfOEG"
-    },
-    {
-      "added_at": "2024-07-11 00:09:39",
-      "album": {
-        "name": "Vol\u00f3 La Paloma/Un Toque Diferente",
-        "url": "https://open.spotify.com/album/04lLSTAYIBNjlJ0L6JJnDK"
-      },
-      "artists": [
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        }
-      ],
-      "duration_ms": 290120,
-      "name": "Olv\u00eddala",
-      "url": "https://open.spotify.com/track/0cXGtTRfQKSHojilCoBAOd"
     }
   ],
   "unique_name": "Cumbias Viejitas",

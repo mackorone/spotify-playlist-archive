@@ -1,6 +1,6 @@
 {
   "description": "In this house we celebrate Australian music. Cover: ONEFOUR",
-  "num_followers": 128772,
+  "num_followers": 128768,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
@@ -241,20 +241,20 @@
       "url": "https://open.spotify.com/track/3WjljjNzoLEQxghZLoAyFQ"
     },
     {
-      "added_at": "2025-04-08 14:00:10",
+      "added_at": "2025-05-08 14:00:23",
       "album": {
-        "name": "Small Change",
-        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
+        "name": "moody",
+        "url": "https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro"
       },
       "artists": [
         {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 165020,
-      "name": "Small Change",
-      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
+      "duration_ms": 175833,
+      "name": "moody",
+      "url": "https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH"
     },
     {
       "added_at": "2025-06-12 14:00:31",
@@ -277,6 +277,22 @@
       "url": "https://open.spotify.com/track/7LSq6cn5rFWH1gQzG2rMgD"
     },
     {
+      "added_at": "2025-04-08 14:00:10",
+      "album": {
+        "name": "Small Change",
+        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 165020,
+      "name": "Small Change",
+      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
+    },
+    {
       "added_at": "2025-05-08 14:00:23",
       "album": {
         "name": "Yougotmefeeling",
@@ -291,22 +307,6 @@
       "duration_ms": 183462,
       "name": "Yougotmefeeling",
       "url": "https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP"
-    },
-    {
-      "added_at": "2025-05-08 14:00:23",
-      "album": {
-        "name": "moody",
-        "url": "https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 175833,
-      "name": "moody",
-      "url": "https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -357,30 +357,6 @@
       "url": "https://open.spotify.com/track/4FLzbyklBSxPgU1PW82UUj"
     },
     {
-      "added_at": "2025-05-01 14:00:27",
-      "album": {
-        "name": "We Live In A Society",
-        "url": "https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 169061,
-      "name": "Is It Real (feat. Ravyn Lenae)",
-      "url": "https://open.spotify.com/track/3tYxKs4D1Xqyt9xR8soVdr"
-    },
-    {
       "added_at": "2025-05-29 14:00:09",
       "album": {
         "name": "Truth",
@@ -429,6 +405,30 @@
       "url": "https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN"
     },
     {
+      "added_at": "2025-05-01 14:00:27",
+      "album": {
+        "name": "We Live In A Society",
+        "url": "https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 169061,
+      "name": "Is It Real (feat. Ravyn Lenae)",
+      "url": "https://open.spotify.com/track/3tYxKs4D1Xqyt9xR8soVdr"
+    },
+    {
       "added_at": "2025-06-12 14:00:31",
       "album": {
         "name": "Got Them",
@@ -445,22 +445,6 @@
       "url": "https://open.spotify.com/track/3GLV0BMXvc9S1yQsnnplm0"
     },
     {
-      "added_at": "2025-05-08 14:00:23",
-      "album": {
-        "name": "If That Makes Sense",
-        "url": "https://open.spotify.com/album/5xG6I0x1jJzC6eWWEB6cwx"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 178303,
-      "name": "Whateverrrr",
-      "url": "https://open.spotify.com/track/4QkFVyMAaCheg4rCoaytYZ"
-    },
-    {
       "added_at": "2025-05-29 14:00:09",
       "album": {
         "name": "Send It Back",
@@ -475,6 +459,22 @@
       "duration_ms": 173112,
       "name": "Send It Back",
       "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
+    },
+    {
+      "added_at": "2025-05-08 14:00:23",
+      "album": {
+        "name": "If That Makes Sense",
+        "url": "https://open.spotify.com/album/5xG6I0x1jJzC6eWWEB6cwx"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 178303,
+      "name": "Whateverrrr",
+      "url": "https://open.spotify.com/track/4QkFVyMAaCheg4rCoaytYZ"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -609,38 +609,6 @@
       "url": "https://open.spotify.com/track/5HiyqL9aXOxGn0ORd6ua13"
     },
     {
-      "added_at": "2025-05-15 14:00:27",
-      "album": {
-        "name": "Grow Wings and Fly",
-        "url": "https://open.spotify.com/album/1nNQXEVoIOeQ2lvGItoB8c"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 308424,
-      "name": "Grow Wings and Fly",
-      "url": "https://open.spotify.com/track/6hQDM3GCZ1mxV0jLyUpoyd"
-    },
-    {
-      "added_at": "2025-04-08 14:00:10",
-      "album": {
-        "name": "Backflips in a Restaurant",
-        "url": "https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 165522,
-      "name": "Need You Around",
-      "url": "https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z"
-    },
-    {
       "added_at": "2025-05-22 22:30:26",
       "album": {
         "name": "Save The Cat",
@@ -677,36 +645,36 @@
       "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
     },
     {
-      "added_at": "2025-06-05 14:00:35",
+      "added_at": "2025-04-08 14:00:10",
       "album": {
-        "name": "Love Balloon",
-        "url": "https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK"
+        "name": "Backflips in a Restaurant",
+        "url": "https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7"
       },
       "artists": [
         {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
         }
       ],
-      "duration_ms": 240906,
-      "name": "Love Balloon",
-      "url": "https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI"
+      "duration_ms": 165522,
+      "name": "Need You Around",
+      "url": "https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z"
     },
     {
-      "added_at": "2025-04-10 14:00:36",
+      "added_at": "2025-05-15 14:00:27",
       "album": {
-        "name": "Don't Forget You Love Me",
-        "url": "https://open.spotify.com/album/4ZyeSbYo2RNNTqLtuxahK1"
+        "name": "Grow Wings and Fly",
+        "url": "https://open.spotify.com/album/1nNQXEVoIOeQ2lvGItoB8c"
       },
       "artists": [
         {
-          "name": "Calum Hood",
-          "url": "https://open.spotify.com/artist/663fZd6uEkPKLwBzPj50S3"
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
         }
       ],
-      "duration_ms": 217400,
-      "name": "Don't Forget You Love Me",
-      "url": "https://open.spotify.com/track/3PCpcXOeOFSkJORnFuBF4B"
+      "duration_ms": 308424,
+      "name": "Grow Wings and Fly",
+      "url": "https://open.spotify.com/track/6hQDM3GCZ1mxV0jLyUpoyd"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -725,6 +693,38 @@
       "url": "https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk"
     },
     {
+      "added_at": "2025-06-05 14:00:35",
+      "album": {
+        "name": "Love Balloon",
+        "url": "https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 240906,
+      "name": "Love Balloon",
+      "url": "https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI"
+    },
+    {
+      "added_at": "2025-05-29 14:00:09",
+      "album": {
+        "name": "Return to the Roots",
+        "url": "https://open.spotify.com/album/5aPo5ap8k9H0v3MNSgcI02"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 316972,
+      "name": "Kiss the Sky",
+      "url": "https://open.spotify.com/track/0lzJGFS25DUEXxiAMyl3Xm"
+    },
+    {
       "added_at": "2025-05-15 14:00:27",
       "album": {
         "name": "Luxford",
@@ -739,6 +739,22 @@
       "duration_ms": 207015,
       "name": "Luxford",
       "url": "https://open.spotify.com/track/7asYmLWx9FqYTBqfkOxRsv"
+    },
+    {
+      "added_at": "2025-04-10 14:00:36",
+      "album": {
+        "name": "Don't Forget You Love Me",
+        "url": "https://open.spotify.com/album/4ZyeSbYo2RNNTqLtuxahK1"
+      },
+      "artists": [
+        {
+          "name": "Calum Hood",
+          "url": "https://open.spotify.com/artist/663fZd6uEkPKLwBzPj50S3"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Don't Forget You Love Me",
+      "url": "https://open.spotify.com/track/3PCpcXOeOFSkJORnFuBF4B"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -773,22 +789,6 @@
       "url": "https://open.spotify.com/track/7LXN0LffItjMb9bq61htdB"
     },
     {
-      "added_at": "2025-05-29 14:00:09",
-      "album": {
-        "name": "Return to the Roots",
-        "url": "https://open.spotify.com/album/5aPo5ap8k9H0v3MNSgcI02"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 316972,
-      "name": "Kiss the Sky",
-      "url": "https://open.spotify.com/track/0lzJGFS25DUEXxiAMyl3Xm"
-    },
-    {
       "added_at": "2025-04-08 14:00:10",
       "album": {
         "name": "Spend My Nights",
@@ -803,22 +803,6 @@
       "duration_ms": 150250,
       "name": "Spend My Nights",
       "url": "https://open.spotify.com/track/74qReKzsc3H2TcJaXIEZpa"
-    },
-    {
-      "added_at": "2025-04-08 14:00:10",
-      "album": {
-        "name": "Electric Feel (Spotify Singles)",
-        "url": "https://open.spotify.com/album/6SSUyG0rMITj4m4o1E1A8B"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 176800,
-      "name": "Electric Feel - Spotify Singles",
-      "url": "https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -851,6 +835,22 @@
       "duration_ms": 219812,
       "name": "The Hit",
       "url": "https://open.spotify.com/track/0cDf1WMAJW9CUubbp6Fb3d"
+    },
+    {
+      "added_at": "2025-04-08 14:00:10",
+      "album": {
+        "name": "Electric Feel (Spotify Singles)",
+        "url": "https://open.spotify.com/album/6SSUyG0rMITj4m4o1E1A8B"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "Electric Feel - Spotify Singles",
+      "url": "https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
-        "name": "New Love",
-        "url": "https://open.spotify.com/album/0PPBf8JkGGRsjb3nWkiYtT"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 161982,
-      "name": "Learn Yourself",
-      "url": "https://open.spotify.com/track/3tJg9otwUlRKUVg0M7Wncl"
-    },
-    {
-      "added_at": "2025-04-08 14:00:10",
-      "album": {
         "name": "The Loop",
         "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 206571,
       "name": "Trust",
       "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
+    },
+    {
+      "added_at": "2025-04-08 14:00:10",
+      "album": {
+        "name": "New Love",
+        "url": "https://open.spotify.com/album/0PPBf8JkGGRsjb3nWkiYtT"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 161982,
+      "name": "Learn Yourself",
+      "url": "https://open.spotify.com/track/3tJg9otwUlRKUVg0M7Wncl"
     },
     {
       "added_at": "2025-04-10 14:00:36",
@@ -971,6 +971,54 @@
       "duration_ms": 189373,
       "name": "Don\u2019t Happy, Be Worry",
       "url": "https://open.spotify.com/track/7ep7tmv4MzpkC5ozd6GC3D"
+    },
+    {
+      "added_at": "2025-05-08 14:00:23",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "duration_ms": 328655,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW"
+    },
+    {
+      "added_at": "2025-04-08 14:00:10",
+      "album": {
+        "name": "DON WEST",
+        "url": "https://open.spotify.com/album/3AvqrhILCQ0rnGqOkUcL2w"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 284026,
+      "name": "What Turns You On",
+      "url": "https://open.spotify.com/track/2c0lcLBsxCCQGYJ8zpCwhu"
+    },
+    {
+      "added_at": "2025-04-17 14:00:17",
+      "album": {
+        "name": "The Actor",
+        "url": "https://open.spotify.com/album/4cuqUw4Z17ym8fvzgkrOOm"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "duration_ms": 170256,
+      "name": "The Actor",
+      "url": "https://open.spotify.com/track/3BnXwrGZwJ2kDtACt4TOIX"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -995,38 +1043,6 @@
       "duration_ms": 221602,
       "name": "Give Thanks, Give Praise",
       "url": "https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM"
-    },
-    {
-      "added_at": "2025-04-17 14:00:17",
-      "album": {
-        "name": "The Actor",
-        "url": "https://open.spotify.com/album/4cuqUw4Z17ym8fvzgkrOOm"
-      },
-      "artists": [
-        {
-          "name": "Folk Bitch Trio",
-          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
-        }
-      ],
-      "duration_ms": 170256,
-      "name": "The Actor",
-      "url": "https://open.spotify.com/track/3BnXwrGZwJ2kDtACt4TOIX"
-    },
-    {
-      "added_at": "2025-04-08 14:00:10",
-      "album": {
-        "name": "DON WEST",
-        "url": "https://open.spotify.com/album/3AvqrhILCQ0rnGqOkUcL2w"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 284026,
-      "name": "What Turns You On",
-      "url": "https://open.spotify.com/track/2c0lcLBsxCCQGYJ8zpCwhu"
     },
     {
       "added_at": "2025-05-08 14:00:23",
@@ -1061,6 +1077,22 @@
       "url": "https://open.spotify.com/track/7CzKTho2uvyJdOJjbOVLth"
     },
     {
+      "added_at": "2025-05-22 22:30:26",
+      "album": {
+        "name": "BACK IN THE DAY",
+        "url": "https://open.spotify.com/album/5yRdZrCHMTcJVqJOcDL2TP"
+      },
+      "artists": [
+        {
+          "name": "James Johnston",
+          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "duration_ms": 168167,
+      "name": "BACK IN THE DAY",
+      "url": "https://open.spotify.com/track/4OxaRflmTPVg5fSwEWZJqh"
+    },
+    {
       "added_at": "2025-04-08 14:00:10",
       "album": {
         "name": "No One Does It Like",
@@ -1081,38 +1113,6 @@
       "url": "https://open.spotify.com/track/3tX4wGJbMYgNGZC0Tr5V3t"
     },
     {
-      "added_at": "2025-05-08 14:00:23",
-      "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 328655,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW"
-    },
-    {
-      "added_at": "2025-05-22 22:30:26",
-      "album": {
-        "name": "BACK IN THE DAY",
-        "url": "https://open.spotify.com/album/5yRdZrCHMTcJVqJOcDL2TP"
-      },
-      "artists": [
-        {
-          "name": "James Johnston",
-          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
-        }
-      ],
-      "duration_ms": 168167,
-      "name": "BACK IN THE DAY",
-      "url": "https://open.spotify.com/track/4OxaRflmTPVg5fSwEWZJqh"
-    },
-    {
       "added_at": "2025-04-08 14:00:10",
       "album": {
         "name": "Left Of The Dealer",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-04-08 14:00:10",
       "album": {
-        "name": "Milk & Honey",
-        "url": "https://open.spotify.com/album/2evlCGKSXmun0ByXPY5BY2"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Milk & Honey",
-      "url": "https://open.spotify.com/track/3FeHLLnTnOvDKuFo46nTKI"
-    },
-    {
-      "added_at": "2025-04-08 14:00:10",
-      "album": {
         "name": "HEAVEN",
         "url": "https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 174595,
       "name": "HEAVEN",
       "url": "https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD"
+    },
+    {
+      "added_at": "2025-04-08 14:00:10",
+      "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/2evlCGKSXmun0ByXPY5BY2"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Milk & Honey",
+      "url": "https://open.spotify.com/track/3FeHLLnTnOvDKuFo46nTKI"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -1225,10 +1225,10 @@
       "url": "https://open.spotify.com/track/3uQzLQIn6SVdMQSRNCybtz"
     },
     {
-      "added_at": "2025-04-08 14:00:10",
+      "added_at": "2025-05-15 14:00:27",
       "album": {
-        "name": "All I Am",
-        "url": "https://open.spotify.com/album/1F5otXEI2rOJD3LOJafnM4"
+        "name": "Fuck My Computer",
+        "url": "https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy"
       },
       "artists": [
         {
@@ -1236,9 +1236,9 @@
           "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
         }
       ],
-      "duration_ms": 182099,
-      "name": "All I Am",
-      "url": "https://open.spotify.com/track/7z1knymHRO7iuMys6dnanT"
+      "duration_ms": 190762,
+      "name": "Fuck My Computer",
+      "url": "https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj"
     },
     {
       "added_at": "2025-04-08 14:00:10",
@@ -1261,20 +1261,20 @@
       "url": "https://open.spotify.com/track/473PUp4n0CKUOpavKubWcV"
     },
     {
-      "added_at": "2025-04-08 14:00:10",
+      "added_at": "2025-05-01 14:00:27",
       "album": {
-        "name": "Through My Teeth",
-        "url": "https://open.spotify.com/album/4x7Jd8pLbRyJdhuIrlhnBZ"
+        "name": "Glimmers",
+        "url": "https://open.spotify.com/album/5OOD5eUlJc6N8shol45UIb"
       },
       "artists": [
         {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+          "name": "Velvet Trip",
+          "url": "https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK"
         }
       ],
-      "duration_ms": 205373,
-      "name": "Through My Teeth",
-      "url": "https://open.spotify.com/track/1HPjqA8j8yVb4DoqD7dJpx"
+      "duration_ms": 209303,
+      "name": "The Bends",
+      "url": "https://open.spotify.com/track/3Gy2aRqQkCY6VAgeYu1Qpf"
     }
   ],
   "unique_name": "Turn Up Aus",

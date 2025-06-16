@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from the continent to Paris\. Photo : Dydy Yeman
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,424 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,459 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [C'est le moment](https://open.spotify.com/track/2MOlw94ecEZ2ZfaXstl3KG) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [C'est le moment](https://open.spotify.com/album/7KfEmS33up7GwkaeGi5wLx) | 4:34 |
 | 40 | [Korotoumou](https://open.spotify.com/track/6P5FxeaDrBJUC0cVFWyjgd) | [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9), [3xdavs](https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr) | [Korotoumou](https://open.spotify.com/album/0UdRLJ4ow70maxJ1LutisP) | 2:36 |
 
-Snapshot ID: `aEtOBAAAAAARRtJ4QezKbZe4ZfJqQ2su`
+Snapshot ID: `aEtOBAAAAAAl5nR3CQBtWyCjZyeZ+Gz2`

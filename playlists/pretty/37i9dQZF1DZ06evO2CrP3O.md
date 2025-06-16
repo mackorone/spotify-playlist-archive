@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 
 > This is Blondie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,770 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,780 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 | 49 | [What I Heard](https://open.spotify.com/track/77mO1n1s6ouUD2EIZk56NH) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Panic of Girls](https://open.spotify.com/album/3taJK6ccQov0Z5FlKox65t) | 3:17 |
 | 50 | [Live It Up \- Remastered 2001](https://open.spotify.com/track/3DCatgVUgQ3nOvTmuOtq9y) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 4:09 |
 
-Snapshot ID: `aEtqAAAAAACURyusZD6WfTJnIYIKeVU4`
+Snapshot ID: `aEy7gAAAAAATmCfEUKXSkqKwpprFnmQ4`

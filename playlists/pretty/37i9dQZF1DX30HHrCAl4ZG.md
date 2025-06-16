@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Balu Brigada
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,800 likes - 111 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,658 likes - 111 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 110 | [Lead Up](https://open.spotify.com/track/27MaTwiBKmoQyF2yyINzJg) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Lead Up](https://open.spotify.com/album/5RhCEqk9Hmw5xWaLdjo2Ge) | 5:18 |
 | 111 | [Fourth Street](https://open.spotify.com/track/7cTXYDY95vfhwUXQuPgPTB) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Fourth Street](https://open.spotify.com/album/79vV88LYJy0OLT3n5RIYAl) | 4:12 |
 
-Snapshot ID: `aEJn0wAAAAA6KT+xq1cE9fR+aq92g107`
+Snapshot ID: `aEJn0wAAAACEoO/MQ/V37hgCuzFvxeMr`

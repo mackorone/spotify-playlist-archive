@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸   Lea Eyðbjørg og Østen
 
-232 songs - 12 hr 3 min
+233 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [En Som Dig](https://open.spotify.com/track/4hCLByf2DyXB4RPsC2mNZd) | [BJØRN](https://open.spotify.com/artist/6JgNOXKB2X1JjGYReJIa9D) | [En Som Dig](https://open.spotify.com/album/40AJcpbZh1cji3B6hgOXc0) | 2:32 | 2025-01-23 | 2025-03-02 |
 | [En Vandretur i Peru](https://open.spotify.com/track/08IL88yJTN613mf0G7IIiz) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [En Vandretur i Peru](https://open.spotify.com/album/7vL0hjoIGeOqDO2rWdz7YU) | 3:28 | 2025-04-10 | 2025-05-07 |
 | [ENDORFINER](https://open.spotify.com/track/2HvqyWJEzmr51bWogSVIb2) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [ENDORFINER \(JEG VIL IKKE VIDE DU FINDES\)](https://open.spotify.com/album/2Hq70DHdUVp1Y5jsx4rGyg) | 3:08 | 2024-06-27 | 2024-09-19 |
-| [Et Sted på Vesterbro](https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ) | [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Et Sted på Vesterbro](https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn) | 2:28 | 2025-03-13 |  |
+| [Et Sted på Vesterbro](https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ) | [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Et Sted på Vesterbro](https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn) | 2:28 | 2025-03-13 | 2025-06-16 |
 | [Falder I](https://open.spotify.com/track/4YtgUbrhVuBiGTemZ9BnO9) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Falder I](https://open.spotify.com/album/2dWHihGERxkPBR1zLKv3yw) | 3:00 | 2024-08-09 | 2024-08-30 |
 | [Feisty](https://open.spotify.com/track/7Laa4tXNvO1QC63Qac53Gp) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Feisty](https://open.spotify.com/album/50u0hKlOJF0MNT1tqe8Gmd) | 2:40 | 2025-05-01 |  |
 | [For Livet](https://open.spotify.com/track/6xD4xNZEsk83U2PdgOjEZm) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [For Livet](https://open.spotify.com/album/3lVfAlqdkQ6SShp4UsYrOc) | 2:17 | 2025-02-20 | 2025-06-07 |
@@ -224,6 +224,7 @@
 | [Under Din Sne](https://open.spotify.com/track/1D9P6P6yR4LB3Cq0ozn8ZE) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Under Din Sne](https://open.spotify.com/album/5ay6w69e8LM9fjLAzTxFsZ) | 4:24 | 2024-06-27 | 2025-01-24 |
 | [Under The Influence](https://open.spotify.com/track/1BxWMfu4hzrWqExWSeT8Nx) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Under The Influence](https://open.spotify.com/album/5EponkQHgGru0rIA4Oge0p) | 2:36 | 2025-05-01 |  |
 | [Under Vand](https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [SAMBA](https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt) | 3:35 | 2024-06-27 |  |
+| [Undskyld](https://open.spotify.com/track/6Wau9vZtw62qiHfBOFnsfy) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Undskyld](https://open.spotify.com/album/2TURzDtJyIqpYaU7NFhmkb) | 2:34 | 2025-06-12 |  |
 | [Undskyld](https://open.spotify.com/track/1ug3sLJmoOfkAePLrwLaTE) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Undskyld](https://open.spotify.com/album/4NXmhhae3kO8EJBrTVmmoQ) | 2:34 | 2024-10-18 | 2024-11-29 |
 | [Ung & Smuk](https://open.spotify.com/track/1TXZrOx2LgKZfHsxKyUSia) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [Ung & Smuk](https://open.spotify.com/album/34l6ED81fuFFDNLy4jJWX3) | 2:40 | 2024-06-27 | 2025-01-24 |
 | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/track/5uUkQmXHGBp4Epl9pwv8fp) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn), [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/album/6qDSXjURvSBcvVzWpIg2SX) | 2:32 | 2025-05-15 |  |

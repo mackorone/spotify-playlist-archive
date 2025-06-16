@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from CKAY, Olamide, Gunna, Mayorkun and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,086 likes - 76 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,200 likes - 76 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 23 | [Gen\-Z Arewazobia \(feat\. Jeriq & Zlatan\)](https://open.spotify.com/track/0FXuDfxekkdEzGMMaCPAvr) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [Iliya Entertainment Music](https://open.spotify.com/artist/0NwtS6wE1fRewrOxxSCSKh), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Gen\-Z Arewazobia \(feat\. Jeriq & Zlatan\)](https://open.spotify.com/album/7MFEWR37o9soZbhWwBWQvY) | 2:37 |
 | 24 | [1 WORK \- Remix](https://open.spotify.com/track/5LDB1Cal2PnHN3Ioy84SdN) | [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A) | [1 WORK \(Remix\)](https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls) | 2:16 |
 | 25 | [Cocoa Butter \(Remix\) \(feat\. Kojo Blak & Chop Daily\)](https://open.spotify.com/track/2JsFtohoXdtJGQOHEfS8qU) | [The Majeek](https://open.spotify.com/artist/7DEAydHZRSI5lVqy85n5V8), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG) | [Cocoa Butter \(Remix\) \(feat\. Kojo Blak & Chop Daily\)](https://open.spotify.com/album/5jgpvBNkMUAYBV4kpqtSUq) | 2:09 |
-| 26 | [Applaudize](https://open.spotify.com/track/1x4FtaeuGzzpIqLePqPYv8) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Applaudize](https://open.spotify.com/album/6CEzk5u4GMv8E9J0x5qclR) | 2:29 |
+| 26 | [Applaudize \(Father's Song\)](https://open.spotify.com/track/1x4FtaeuGzzpIqLePqPYv8) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Applaudize \(Father's Song\)](https://open.spotify.com/album/6CEzk5u4GMv8E9J0x5qclR) | 2:29 |
 | 27 | [Allez Tobina](https://open.spotify.com/track/47W4qjBTy2E7N7x0p6y2P9) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s), [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X) | [Allez Tobina](https://open.spotify.com/album/1qxHpIueABpUg2Hqm4r0JK) | 1:40 |
 | 28 | [Sore Sa](https://open.spotify.com/track/1zSLE6LyUzzjM8th0dcxPb) | [Dessireé](https://open.spotify.com/artist/56oWbpiLZ9gyUqOStbymZV), [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X) | [Sore Sa](https://open.spotify.com/album/49vMNkDaulV0DYgKmxSd0O) | 1:18 |
 | 29 | [Coco Rico](https://open.spotify.com/track/7cZQZyK4zXfPoJ1vD0uyr7) | [CJ Tell'm](https://open.spotify.com/artist/2fAo6honVWkCul5xO8y97T), [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Coco Rico](https://open.spotify.com/album/21HjIA4TQrOU3nzs11dytC) | 2:26 |

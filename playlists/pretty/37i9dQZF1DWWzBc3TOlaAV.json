@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the '60s. Cover: The Rolling Stones",
-  "num_followers": 965413,
+  "num_followers": 965568,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
+        "name": "Smiley Smile (Remastered)",
+        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Good Vibrations - Remastered 2001",
+      "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
         "name": "Steppenwolf",
         "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 378146,
       "name": "Sympathy For The Devil - 50th Anniversary Edition",
       "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
-        "name": "Smiley Smile (Remastered)",
-        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Good Vibrations - Remastered 2001",
-      "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -267,38 +267,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 165426,
-      "name": "Blowin' in the Wind",
-      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
-        "name": "David Bowie (aka Space Oddity) [2015 Remaster]",
-        "url": "https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 318026,
-      "name": "Space Oddity - 2015 Remaster",
-      "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "Surfin' USA (Remastered)",
         "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
       },
@@ -315,6 +283,22 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 165426,
+      "name": "Blowin' in the Wind",
+      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
         "name": "Willy And The Poor Boys (Expanded Edition)",
         "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 166280,
       "name": "Down On The Corner",
       "url": "https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "David Bowie (aka Space Oddity) [2015 Remaster]",
+        "url": "https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 318026,
+      "name": "Space Oddity - 2015 Remaster",
+      "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
+        "name": "All Summer Long (Mono & Stereo)",
+        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 134386,
+      "name": "I Get Around (Mono)",
+      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
         "name": "The Second",
         "url": "https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 315200,
       "name": "Born On The Bayou",
       "url": "https://open.spotify.com/track/587bVBCHYW5Q2VNRLig4AS"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
-        "name": "All Summer Long (Mono & Stereo)",
-        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 134386,
-      "name": "I Get Around (Mono)",
-      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "The Singles Plus",
-        "url": "https://open.spotify.com/album/1v4O55JGou3T0Vlj06fdXz"
+        "name": "Crosby, Stills & Nash",
+        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
       },
       "artists": [
         {
-          "name": "The Animals",
-          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
         }
       ],
-      "duration_ms": 145693,
-      "name": "Don't Let Me Be Misunderstood",
-      "url": "https://open.spotify.com/track/0KpTFH1SzexN8SGc0GPILC"
+      "duration_ms": 444053,
+      "name": "Suite: Judy Blue Eyes - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -875,18 +875,18 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Crosby, Stills & Nash",
-        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
+        "name": "The Singles Plus",
+        "url": "https://open.spotify.com/album/1v4O55JGou3T0Vlj06fdXz"
       },
       "artists": [
         {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
         }
       ],
-      "duration_ms": 444053,
-      "name": "Suite: Judy Blue Eyes - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv"
+      "duration_ms": 145693,
+      "name": "Don't Let Me Be Misunderstood",
+      "url": "https://open.spotify.com/track/0KpTFH1SzexN8SGc0GPILC"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
-      },
-      "artists": [
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        }
-      ],
-      "duration_ms": 270293,
-      "name": "Up On Cripple Creek",
-      "url": "https://open.spotify.com/track/7aTCCNpHJD2Jgv0LLVJb8Y"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "Are You Experienced",
         "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 198773,
       "name": "Foxey Lady",
       "url": "https://open.spotify.com/track/23MrkN7g6Q5U7GLIxNHN1B"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "duration_ms": 270293,
+      "name": "Up On Cripple Creek",
+      "url": "https://open.spotify.com/track/7aTCCNpHJD2Jgv0LLVJb8Y"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
+        "name": "In My Lifetime",
+        "url": "https://open.spotify.com/album/0mfMzPJTJni2cy7O5C2sxi"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Sweet Caroline - Single Version",
+      "url": "https://open.spotify.com/track/6l7tK5SsMlN8a9ccgeIkpS"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
         "name": "Tommy (Remastered 2013 Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/5OISW6z3D02yCZn06mR1or"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 180943,
       "name": "Pinball Wizard",
       "url": "https://open.spotify.com/track/60C8zGPTdAAmDshHnMuyfc"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
-        "name": "Needles & Pins",
-        "url": "https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0"
-      },
-      "artists": [
-        {
-          "name": "The Searchers",
-          "url": "https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe"
-        }
-      ],
-      "duration_ms": 131360,
-      "name": "Needles and Pins - Mono",
-      "url": "https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -1307,18 +1307,34 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "In My Lifetime",
-        "url": "https://open.spotify.com/album/0mfMzPJTJni2cy7O5C2sxi"
+        "name": "Needles & Pins",
+        "url": "https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0"
       },
       "artists": [
         {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+          "name": "The Searchers",
+          "url": "https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe"
         }
       ],
-      "duration_ms": 201800,
-      "name": "Sweet Caroline - Single Version",
-      "url": "https://open.spotify.com/track/6l7tK5SsMlN8a9ccgeIkpS"
+      "duration_ms": 131360,
+      "name": "Needles and Pins - Mono",
+      "url": "https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "Hit Single Anthology",
+        "url": "https://open.spotify.com/album/2TG4d4Y39z7yDW7iTmVi6v"
+      },
+      "artists": [
+        {
+          "name": "The Troggs",
+          "url": "https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25"
+        }
+      ],
+      "duration_ms": 158250,
+      "name": "Wild Thing",
+      "url": "https://open.spotify.com/track/2cM6hAcaR3zsh2oYYV2MWU"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -1351,22 +1367,6 @@
       "duration_ms": 184880,
       "name": "The Sounds of Silence",
       "url": "https://open.spotify.com/track/39CGrUZUozjtjgAASzzB56"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
-        "name": "Hit Single Anthology",
-        "url": "https://open.spotify.com/album/2TG4d4Y39z7yDW7iTmVi6v"
-      },
-      "artists": [
-        {
-          "name": "The Troggs",
-          "url": "https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25"
-        }
-      ],
-      "duration_ms": 158250,
-      "name": "Wild Thing",
-      "url": "https://open.spotify.com/track/2cM6hAcaR3zsh2oYYV2MWU"
     },
     {
       "added_at": "2024-07-05 23:26:53",

@@ -4,7 +4,7 @@
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-110 songs - 6 hr 39 min
+111 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Girl Of Constant Sorrow](https://open.spotify.com/track/3WZl07ITusPN7bQY3vzGdx) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 1:45 | 2022-09-30 |  |
 | [Give Me Cornbread When I'm Hungry](https://open.spotify.com/track/1Tx3MFbSzWddHQzgnOEr3W) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Dirk Powell](https://open.spotify.com/artist/0WLXcCZ84s9zsmIOoJeEwG), [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Another Day, Another Time: Celebrating the Music of 'Inside Llewyn Davis'](https://open.spotify.com/album/6t4h3psMfV6uQ49CmZklhn) | 2:43 | 2022-10-16 | 2023-06-30 |
 | [Go 'Way From My Window](https://open.spotify.com/track/2RSre4aOaeIK1Uf48olKfP) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [5](https://open.spotify.com/album/7vELrwL2rJjzn5SzaxnYQN) | 2:13 | 2023-02-01 | 2023-08-12 |
+| [God Is God](https://open.spotify.com/track/5eKQFLU9s7vVtZKvza2on8) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [If I Wrote You: Favorite Songs By Some Of My Favorite Songwriters](https://open.spotify.com/album/5pyD4MonVyt9h9tcgoYpBM) | 3:29 | 2025-06-16 |  |
 | [God Is God](https://open.spotify.com/track/1l8Adf2L6CiKmLNH9JuTLz) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez 75th Birthday Celebration](https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl) | 3:36 | 2022-09-22 | 2024-07-23 |
 | [Gracias A La Vida](https://open.spotify.com/track/438DhujK6gJ3nlWj5QoNsx) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:36 | 2022-09-22 |  |
 | [Green, Green Grass Of Home](https://open.spotify.com/track/1xQEivegyN8QM49T5ZLZnE) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [David's Album](https://open.spotify.com/album/6zGWXlox2wynk0odTuylQ5) | 3:14 | 2022-09-28 | 2022-09-30 |
@@ -97,7 +98,7 @@
 | [Sagt Mir Wo Die Blumen Sind](https://open.spotify.com/track/7azEbwOXh4ylBBLjYnEwRZ) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Farewell, Angelina](https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun) | 4:04 | 2022-09-22 | 2024-07-23 |
 | [She Moved Through The Fair](https://open.spotify.com/track/3lroklVIelJiObRBewQXz7) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Joan Baez 75th Birthday Celebration](https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl) | 5:44 | 2022-10-30 | 2024-01-21 |
 | [Silver Dagger](https://open.spotify.com/track/2hulWLdzjBexk2bxQpcUp7) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 2:32 | 2022-09-27 |  |
-| [Silver Dagger \- Live at Philharmonic Hall, New York, NY \- October 1964](https://open.spotify.com/track/7buaEIGFa9f7rXjOAApie9) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Bootleg Volume 6: Bob Dylan Live 1964 \- Concert At Philharmonic Hall](https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY) | 3:41 | 2025-02-15 |  |
+| [Silver Dagger \- Live at Philharmonic Hall, New York, NY \- October 1964](https://open.spotify.com/track/7buaEIGFa9f7rXjOAApie9) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Bootleg Volume 6: Bob Dylan Live 1964 \- Concert At Philharmonic Hall](https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY) | 3:41 | 2025-02-15 | 2025-06-16 |
 | [Simple Twist Of Fate](https://open.spotify.com/track/6f39dg5y3Hj0p179o2Bu8z) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:45 | 2022-09-24 | 2024-10-20 |
 | [Streets Of Laredo](https://open.spotify.com/track/6atyMxxmx1kmVkNSncQfxv) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Newport Era](https://open.spotify.com/album/6kuUoWmtG2Hn2pWJx19pRN) | 2:40 | 2025-01-27 | 2025-06-04 |
 | [Swallow Song \- Live](https://open.spotify.com/track/3CyG7tEbrRzGtrO4i8NxYe) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Mimi Fariña](https://open.spotify.com/artist/3CCf0ToNoY3qXMCnVJrSop) | [Ring Them Bells \(Collector's Edition / Live\)](https://open.spotify.com/album/5UVNLEgUPc2vhDB30herJN) | 3:09 | 2023-04-12 | 2023-04-15 |

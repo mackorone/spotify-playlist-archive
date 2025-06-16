@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Mq3bnXVvzd.md) - [plain]
 
 > High School has never been this FIRE\. Listen to the music from Jentry Chau vs\. The Underworld, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,955 likes - 53 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,969 likes - 53 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Mq3bnXVvzd.md) - [plain]
 | 52 | [Always Rising](https://open.spotify.com/track/7m4xUEEivwPGz4U0TA1TWD) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:04 |
 | 53 | [Da Funk](https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 5:28 |
 
-Snapshot ID: `Z1I7IgAAAACDI5LnMGSi6NlLzLso9IYG`
+Snapshot ID: `AAAAAC3iAg9U7HezN0nORUAI/5KD+zBf`

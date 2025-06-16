@@ -1009,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "Il y eut un rythme",
+        "url": "https://open.spotify.com/album/6k7wmXKvwCskQo2nUsahE9"
+      },
+      "artists": [
+        {
+          "name": "Hippie Hourrah",
+          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254986,
+      "name": "Cycle trois - partie 2",
+      "url": "https://open.spotify.com/track/3ez9WhsTGvrT7BGvAESFQY"
+    },
+    {
+      "album": {
         "name": "Des feux pour voir",
         "url": "https://open.spotify.com/album/2sQho2MsHKvdsDtwtnV3kd"
       },
@@ -1020,7 +1038,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 243859,
       "name": "Dans tes r\u00eaves",
       "url": "https://open.spotify.com/track/2dfr2ndUE6UOeJQ9lAplfo"
@@ -2538,7 +2556,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 254748,
       "name": "Mariano (Jamais je ne t\u2019oublierai)",
       "url": "https://open.spotify.com/track/2bZyKgrqmL9id66rCrVjf6"
@@ -2650,6 +2668,24 @@
       "duration_ms": 217402,
       "name": "Mon Argent",
       "url": "https://open.spotify.com/track/4KkF7rio8VithG50zRJgmZ"
+    },
+    {
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/1M4aJVG6hyX6xpaRxOgqzi"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9ton Arm\u00e9",
+          "url": "https://open.spotify.com/artist/7B9AYoMBJAGlHtB97cPt9z"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130571,
+      "name": "Montr\u00e9al",
+      "url": "https://open.spotify.com/track/3dsOTm1NvWmBgNZlngpPVY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 
 > 正宗 Spotify 原創全台最紅西洋歌單！熱門就此一張！Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,961 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,986 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

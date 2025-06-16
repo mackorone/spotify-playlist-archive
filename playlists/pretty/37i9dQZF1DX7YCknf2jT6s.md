@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Brandee Younger
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,887 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,868 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Emmet’s Blues](https://open.spotify.com/track/4oewd0Mm4mvlHHA2hLY4td) | [Emmet Cohen](https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT) | [Emmet's Blues](https://open.spotify.com/album/36MVRpKXE5ecXxwOqxKADG) | 3:20 |
 | 100 | [Ofafrii](https://open.spotify.com/track/2FpbV6zmzihAGz5JepkYoX) | [Out Of/Into](https://open.spotify.com/artist/59COS6dQZSpIn9uz7BPgVT), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Kendrick Scott](https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux), [Matt Brewer](https://open.spotify.com/artist/2lbkXLlMyaHxra7bczgRqU) | [Motion I](https://open.spotify.com/album/4lT8g8vcE3uQEVX5yNLeCd) | 7:47 |
 
-Snapshot ID: `aEuibwAAAAB9miJsAM2gG+QR5j7VoFPk`
+Snapshot ID: `aEuibwAAAAANsXC5EfOr6/4xSTcu/KJE`

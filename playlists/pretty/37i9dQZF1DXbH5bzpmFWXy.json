@@ -1,6 +1,6 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Esau Ortiz en portada.",
-  "num_followers": 288032,
+  "num_followers": 288060,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,42 @@
     {
       "added_at": "2025-05-09 06:00:10",
       "album": {
+        "name": "Por Mi M\u00e9xico (Remix)",
+        "url": "https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 405000,
+      "name": "Por Mi M\u00e9xico (Remix)",
+      "url": "https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79"
+    },
+    {
+      "added_at": "2025-05-09 06:00:10",
+      "album": {
         "name": "Cachondos Session #1 (feat. Victor Mendivil, Dani Flow, Tiagz & Los Esquivel)",
         "url": "https://open.spotify.com/album/7MAbhQjPNHnD411F8VyamG"
       },
@@ -475,42 +511,6 @@
       "duration_ms": 297969,
       "name": "Cachondos Session #1 (feat. Sebastian Esquivel, Eugenio Esquivel, Tiagz & Los Esquivel)",
       "url": "https://open.spotify.com/track/5vNRuXbnqV6ISkNxvHEfbM"
-    },
-    {
-      "added_at": "2025-05-09 06:00:10",
-      "album": {
-        "name": "Por Mi M\u00e9xico (Remix)",
-        "url": "https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 405000,
-      "name": "Por Mi M\u00e9xico (Remix)",
-      "url": "https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79"
     },
     {
       "added_at": "2025-05-09 06:00:10",
@@ -827,26 +827,6 @@
     {
       "added_at": "2025-05-09 06:00:10",
       "album": {
-        "name": "Apaga El Cel",
-        "url": "https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        },
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 170832,
-      "name": "Apaga El Cel",
-      "url": "https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF"
-    },
-    {
-      "added_at": "2025-05-09 06:00:10",
-      "album": {
         "name": "Malas Rachas",
         "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
@@ -867,6 +847,42 @@
       "duration_ms": 260285,
       "name": "Malas Rachas - En Vivo",
       "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
+    },
+    {
+      "added_at": "2025-05-09 06:00:10",
+      "album": {
+        "name": "Apaga El Cel",
+        "url": "https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 170832,
+      "name": "Apaga El Cel",
+      "url": "https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF"
+    },
+    {
+      "added_at": "2025-05-09 06:00:10",
+      "album": {
+        "name": "La Brabus",
+        "url": "https://open.spotify.com/album/3TA3TzlJWGWecdKyERJC72"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 209018,
+      "name": "La Brabus",
+      "url": "https://open.spotify.com/track/2Of9oTzvMLeaSncjYf4TDC"
     },
     {
       "added_at": "2025-05-09 06:00:10",
@@ -903,22 +919,6 @@
       "duration_ms": 114125,
       "name": "R\u00e1pido Soy",
       "url": "https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35"
-    },
-    {
-      "added_at": "2025-05-09 06:00:10",
-      "album": {
-        "name": "La Brabus",
-        "url": "https://open.spotify.com/album/3TA3TzlJWGWecdKyERJC72"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 209018,
-      "name": "La Brabus",
-      "url": "https://open.spotify.com/track/2Of9oTzvMLeaSncjYf4TDC"
     },
     {
       "added_at": "2025-05-09 06:00:10",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2025-05-09 06:00:10",
       "album": {
+        "name": "La Cagu\u00e9",
+        "url": "https://open.spotify.com/album/74gVdaDvYpQF91s7e8eIAN"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        },
+        {
+          "name": "Sucesi\u00f3n M",
+          "url": "https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "La Cagu\u00e9",
+      "url": "https://open.spotify.com/track/2HcRbiUHQZ8NSvYhUgRfC9"
+    },
+    {
+      "added_at": "2025-05-09 06:00:10",
+      "album": {
         "name": "Lunetas",
         "url": "https://open.spotify.com/album/77PjwDAfnqkqKWm4yGlV93"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 176760,
       "name": "Lunetas",
       "url": "https://open.spotify.com/track/5stvPTThbnckmxWgW8Nswj"
-    },
-    {
-      "added_at": "2025-05-09 06:00:10",
-      "album": {
-        "name": "La Cagu\u00e9",
-        "url": "https://open.spotify.com/album/74gVdaDvYpQF91s7e8eIAN"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        },
-        {
-          "name": "Sucesi\u00f3n M",
-          "url": "https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "La Cagu\u00e9",
-      "url": "https://open.spotify.com/track/2HcRbiUHQZ8NSvYhUgRfC9"
     },
     {
       "added_at": "2025-05-09 06:00:10",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-05-09 06:00:10",
       "album": {
-        "name": "Como Pancho Villa",
-        "url": "https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 143661,
-      "name": "Como Pancho Villa",
-      "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
-    },
-    {
-      "added_at": "2025-05-09 06:00:10",
-      "album": {
         "name": "CINDERELLA",
         "url": "https://open.spotify.com/album/3UCNmAyO3Kwl5kI0ccmZVK"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 216920,
       "name": "CINDERELLA",
       "url": "https://open.spotify.com/track/1dXrN1k5P85gXjcixMa44j"
+    },
+    {
+      "added_at": "2025-05-09 06:00:10",
+      "album": {
+        "name": "Como Pancho Villa",
+        "url": "https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 143661,
+      "name": "Como Pancho Villa",
+      "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
     },
     {
       "added_at": "2025-05-09 06:00:10",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-05-09 06:00:10",
       "album": {
-        "name": "LA MALA",
-        "url": "https://open.spotify.com/album/4R2sQCI4LfP0SVFdm8kobO"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 144602,
-      "name": "LA MALA",
-      "url": "https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B"
-    },
-    {
-      "added_at": "2025-05-09 06:00:10",
-      "album": {
         "name": "GOMIN0LA",
         "url": "https://open.spotify.com/album/2r2oiyUHHm0ugOwVmBocoq"
       },
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2025-05-09 06:00:10",
       "album": {
+        "name": "LA MALA",
+        "url": "https://open.spotify.com/album/4R2sQCI4LfP0SVFdm8kobO"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 144602,
+      "name": "LA MALA",
+      "url": "https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B"
+    },
+    {
+      "added_at": "2025-05-09 06:00:10",
+      "album": {
         "name": "Capitan O Chachito",
         "url": "https://open.spotify.com/album/4aOOppgBB4dJ7CmCbTy3yw"
       },
@@ -1543,6 +1543,22 @@
       "duration_ms": 224314,
       "name": "Capitan O Chachito",
       "url": "https://open.spotify.com/track/3fMRwWZeyBWNVuqXwNas0R"
+    },
+    {
+      "added_at": "2025-05-09 06:00:10",
+      "album": {
+        "name": "El Jefe Lexus (Grupo Rangers)",
+        "url": "https://open.spotify.com/album/6lCqZM55HhMTL7HHnDl3iO"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 150489,
+      "name": "El Jefe Lexus (Grupo Rangers)",
+      "url": "https://open.spotify.com/track/6BxPeqwW77mELe0lxb9QGG"
     },
     {
       "added_at": "2025-05-09 06:00:10",
@@ -1567,22 +1583,6 @@
       "duration_ms": 125000,
       "name": "Rosita Fresita",
       "url": "https://open.spotify.com/track/2XUhIYueWwSJvgPJ5L5VNF"
-    },
-    {
-      "added_at": "2025-05-09 06:00:10",
-      "album": {
-        "name": "El Jefe Lexus (Grupo Rangers)",
-        "url": "https://open.spotify.com/album/6lCqZM55HhMTL7HHnDl3iO"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 150489,
-      "name": "El Jefe Lexus (Grupo Rangers)",
-      "url": "https://open.spotify.com/track/6BxPeqwW77mELe0lxb9QGG"
     },
     {
       "added_at": "2025-05-09 06:00:10",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2025-05-09 06:00:10",
       "album": {
+        "name": "Proyecto Akwid",
+        "url": "https://open.spotify.com/album/5NWuecfh5WbfmDPdIOb2zq"
+      },
+      "artists": [
+        {
+          "name": "Akwid",
+          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+        }
+      ],
+      "duration_ms": 215132,
+      "name": "Es Mi Gusto",
+      "url": "https://open.spotify.com/track/0rvq213XxZoie8MfC1qO65"
+    },
+    {
+      "added_at": "2025-05-09 06:00:10",
+      "album": {
         "name": "Hasta El QLO",
         "url": "https://open.spotify.com/album/59QlyRjPd5USQQ7OdbMIe3"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 162480,
       "name": "Hasta El QLO",
       "url": "https://open.spotify.com/track/4lTlUpfOSZphX37uotVwx6"
-    },
-    {
-      "added_at": "2025-05-09 06:00:10",
-      "album": {
-        "name": "Proyecto Akwid",
-        "url": "https://open.spotify.com/album/5NWuecfh5WbfmDPdIOb2zq"
-      },
-      "artists": [
-        {
-          "name": "Akwid",
-          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
-        }
-      ],
-      "duration_ms": 215132,
-      "name": "Es Mi Gusto",
-      "url": "https://open.spotify.com/track/0rvq213XxZoie8MfC1qO65"
     },
     {
       "added_at": "2025-05-09 06:00:10",

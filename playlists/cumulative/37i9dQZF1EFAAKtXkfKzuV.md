@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-77 songs - 3 hr 36 min
+78 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [MONEY](https://open.spotify.com/track/4KZ3njsKgWlAa8h470mF49) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG), [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [THE RUDE AWAKENING OF MR BIG JUICE.](https://open.spotify.com/album/2usQC6dMqygYaTWUaO0UGk) | 3:02 | 2024-11-24 | 2024-11-26 |
 | [MONEY](https://open.spotify.com/track/6v1KoPYh1PuEDVWC8uImLe) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG), [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [THE RUDE AWAKENING OF MR BIG JUICE.](https://open.spotify.com/album/3EkoUqxtpRbsaywozm9Wg5) | 3:02 | 2024-11-25 |  |
 | [Moonlight](https://open.spotify.com/track/5KrBTqQJlYtKyn3JU3MXOA) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Moonlight](https://open.spotify.com/album/44RntYU90KXg2eCH9zj9Lq) | 2:20 | 2023-06-29 |  |
+| [My Almost Forever](https://open.spotify.com/track/57VDBMxzvYq9jhuD2ISTrR) | [Jonathan Baily](https://open.spotify.com/artist/1QfgytrRilvQ1HVXZGFJji) | [My Almost Forever](https://open.spotify.com/album/41tFrGMv7y47SiR6VvxBmU) | 2:52 | 2025-06-15 |  |
 | [My Fault](https://open.spotify.com/track/1YcoVVvOeJRCPD8P7zvvmX) | [Jenna Lotti](https://open.spotify.com/artist/7dIm02RDiyp2Nmdsx4H8Gc) | [My Fault](https://open.spotify.com/album/6AZqYYArJb8u4E6hilDreL) | 1:57 | 2023-06-29 |  |
 | [Next to You](https://open.spotify.com/track/0JJTRwLHHtjMbR1cxjN61h) | [Myles Green](https://open.spotify.com/artist/056UtN0LwZFbayHkU45DEb) | [Next to You](https://open.spotify.com/album/7gdmXNNzOaA9GTT5Xb57lY) | 2:44 | 2023-06-29 |  |
 | [Nicht Ich](https://open.spotify.com/track/0mmxpWqh2KJgrjWMqNkgB7) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 3:41 | 2024-02-10 |  |

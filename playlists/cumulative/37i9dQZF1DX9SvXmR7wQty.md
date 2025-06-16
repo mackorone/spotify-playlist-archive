@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Klô Pelgag
 
-3,348 songs - 7 day 9 hr 17 min
+3,350 songs - 7 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -611,7 +611,8 @@
 | [COMMERCE](https://open.spotify.com/track/1cdXXX76eqOFvCOOXSXF4w) | [Stavo](https://open.spotify.com/artist/2j93xBBtZnS9YJGJUcWHwg), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Il était une fois](https://open.spotify.com/album/3yz6Lwcs083pVZkLstxDLL) | 2:05 | 2024-05-03 | 2024-06-15 |
 | [Commun maintenant \- Session live H2T](https://open.spotify.com/track/5cqlX4QK1VnaK0cT0d8vSL) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Commun maintenant \(Session Live H2T\)](https://open.spotify.com/album/7wgAYh8mujlxEtD8wtpQFQ) | 3:24 | 2022-05-27 | 2022-06-04 |
 | [Complémentaires](https://open.spotify.com/track/0Td2ZM1GoIj8SJ3IITcehD) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Complémentaires](https://open.spotify.com/album/5D06Ps9NI6YjURP8W81xde) | 3:12 | 2024-08-30 | 2024-10-26 |
-| [Confession](https://open.spotify.com/track/2iPA5FhF7sPOUibIVuNOgf) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Confession](https://open.spotify.com/album/4iSFg0cxwRdN0e3k7lAZFw) | 2:46 | 2025-05-15 |  |
+| [COMÈTE](https://open.spotify.com/track/4PsXJ6y2MN1zSqdDV4XJbX) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [COMÈTE](https://open.spotify.com/album/2zQQAxnFJsYXAIP23v516s) | 2:26 | 2025-06-13 |  |
+| [Confession](https://open.spotify.com/track/2iPA5FhF7sPOUibIVuNOgf) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Confession](https://open.spotify.com/album/4iSFg0cxwRdN0e3k7lAZFw) | 2:46 | 2025-05-15 | 2025-06-16 |
 | [Confetti \(VF\)](https://open.spotify.com/track/5Avs3gR4TlMVBZMp0YvsHN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti \(VF\)](https://open.spotify.com/album/4VJNLOXqF1aKhk2BIxMeuI) | 3:04 | 2023-05-05 | 2023-06-09 |
 | [confettis \(hey ho hey\)](https://open.spotify.com/track/6XqNQEPsnrRESrG75HJgDt) | [Fovelle](https://open.spotify.com/artist/6LoMfV6BitdhcaKkme41PS), [Ramon Chicharron](https://open.spotify.com/artist/5tRvJi08ALKPOojVS4ch5s), [TDH](https://open.spotify.com/artist/1pFYAdXD5dgTdJBa68uHfq) | [confettis \(hey ho hey\)](https://open.spotify.com/album/0Iil8DzHWziaanaWishAv5) | 2:16 | 2024-06-07 | 2024-06-15 |
 | [Confidences](https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Confidences](https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE) | 2:08 | 2024-05-10 | 2024-07-06 |
@@ -2223,7 +2224,7 @@
 | [On y va](https://open.spotify.com/track/4Q8b4DRrRRpxRSurGIEo7g) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [On y va](https://open.spotify.com/album/1ovpt5YRiwmrx0rmRuKikm) | 2:35 | 2024-04-26 | 2024-06-15 |
 | [One Night Thing](https://open.spotify.com/track/6EoPV2i2JNh3gK0dxxCaAc) | [Cshmr](https://open.spotify.com/artist/4ZNir8YWJxjx6xcZ2xOMak) | [SVINT, Volume 1](https://open.spotify.com/album/4u2MFO6rdp94e3OYVWEc1v) | 2:55 | 2021-12-31 | 2022-01-08 |
 | [One Thing](https://open.spotify.com/track/0Bs56JlclotElvFYTRWhIc) | [MTO Hutsu](https://open.spotify.com/artist/115caDn8rzO6GlMLH6KANa), [FlipTunesMusic](https://open.spotify.com/artist/1E4zec6yKQRB9yh28vKrwG) | [One Thing](https://open.spotify.com/album/6djrlFJHxIB0GJt9LEhi5n) | 3:25 | 2022-04-01 | 2022-04-16 |
-| [One Time](https://open.spotify.com/track/4SrbRoCwiEMWyyizN49TwU) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Aura](https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY) | 2:53 | 2025-04-11 |  |
+| [One Time](https://open.spotify.com/track/4SrbRoCwiEMWyyizN49TwU) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Aura](https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY) | 2:53 | 2025-04-11 | 2025-06-16 |
 | [One Way](https://open.spotify.com/track/3uNBQNdMuVdM7M0zTJbvSd) | [Marc Déry](https://open.spotify.com/artist/0IX0nppAnGjDz53emI5YAW) | [One Way](https://open.spotify.com/album/3C5LzbGtXRqBY3DkxnHKaH) | 3:17 | 2025-06-13 |  |
 | [Onirisme](https://open.spotify.com/track/2z1T0cX0Ejfn2cBHkfDwaE) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE), [Twani](https://open.spotify.com/artist/6Msx0U86zJHArfvDk6zO9Q), [Latitude 45](https://open.spotify.com/artist/6okG8kU8o6PpE3OFeWahxJ) | [Onirisme](https://open.spotify.com/album/3d32bUlwtdWbqjLIS7GuQf) | 3:03 | 2022-05-13 | 2022-05-28 |
 | [Onze](https://open.spotify.com/track/6DrxgVFozVbFmyRRXm5Bkr) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Onze / À l'étang des roseaux](https://open.spotify.com/album/1r65So7Rknf9GTdsPSWFaR) | 3:10 | 2023-11-24 | 2023-12-16 |
@@ -3187,6 +3188,7 @@
 | [VIAUVILLE](https://open.spotify.com/track/30g0IU3gMdc2hF7v09G5pG) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [VIAUVILLE](https://open.spotify.com/album/6sKwsxSZk7W17bbYE7jwf6) | 4:28 | 2023-12-01 | 2023-12-09 |
 | [Vibes](https://open.spotify.com/track/5Ewrq10sWq0WYTSW6Br57l) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Vibes](https://open.spotify.com/album/6MHJuglMIWFJBIc9J0MWUG) | 2:14 | 2023-06-23 | 2023-09-09 |
 | [Vice](https://open.spotify.com/track/1CQw290cl4D8c4di4z6RrW) | [Renzo Rivolta](https://open.spotify.com/artist/41i5fl8UQOdY5ZIJtYPh4O) | [Vice](https://open.spotify.com/album/0nI95YjB1bnyE0LUIa5ycz) | 3:45 | 2024-09-20 | 2024-09-28 |
+| [VIDA \(feat\. Ninho & Morad\)](https://open.spotify.com/track/1zfBApK5OdvVU9t1tFZ8uG) | [GAULOIS](https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [La G World, Pt.1](https://open.spotify.com/album/1WedA6VtCNpsTI3LYGOA9q) | 4:07 | 2025-06-13 |  |
 | [VIDA LOCA](https://open.spotify.com/track/3m4e1Cr5hTz4iF2bU9QTz6) | [Dinor rdt](https://open.spotify.com/artist/3RJNCnIkqvVwEicgGo2nqJ), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [VIDA LOCA](https://open.spotify.com/album/19SQT2btnkRb7De5XkfpLM) | 2:49 | 2023-07-07 | 2023-09-16 |
 | [Vidéodrome](https://open.spotify.com/track/6o9QXLoLe1SBmufPo5Dyu4) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Vidéodrome](https://open.spotify.com/album/6wvnzv5Y9xg6SH14Q598xe) | 3:07 | 2022-07-22 | 2022-08-20 |
 | [Vie de rêve](https://open.spotify.com/track/6YBZulvcw96qlkzg1Udzdk) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Vie de rêve](https://open.spotify.com/album/4v3HOHcAZ6Ip94i6XyzLtC) | 2:40 | 2022-04-01 | 2022-04-16 |

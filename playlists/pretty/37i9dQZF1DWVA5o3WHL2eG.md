@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Zsá Zsá
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,130 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,141 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,12 +23,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 13 | [Arschloch](https://open.spotify.com/track/7zrONlmULDcVEi5Z1yrHkz) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [Arschloch](https://open.spotify.com/album/4Kr76gbMDTFr2uFVEyB3nQ) | 3:16 |
 | 14 | [hungerspiele](https://open.spotify.com/track/5EnJNlBSbircsRkFlpINQ0) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [hungerspiele](https://open.spotify.com/album/0XD2A1SUf0gl6LkWBNzQ2R) | 2:57 |
 | 15 | [Vespa](https://open.spotify.com/track/4cQXzeob93WskDrYumvoqn) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [Vespa](https://open.spotify.com/album/6pUSfO8PGUDlUFWh8SMZJQ) | 2:17 |
-| 16 | [Feuerkind](https://open.spotify.com/track/56ldjSVqZJ332ntiGLSPvW) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Feuerkind](https://open.spotify.com/album/5zwr0tXhxtJmfvgL1G8BK0) | 3:40 |
-| 17 | [Knoppers](https://open.spotify.com/track/42nG2hVZIVNfPBQ8RiOCAj) | [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W), [Traya](https://open.spotify.com/artist/0bo1LMgTEg5qpicrIee54M) | [Knoppers](https://open.spotify.com/album/0RzlcFXkk0MJmcQhYxwcwR) | 2:06 |
+| 16 | [Knoppers](https://open.spotify.com/track/42nG2hVZIVNfPBQ8RiOCAj) | [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W), [Traya](https://open.spotify.com/artist/0bo1LMgTEg5qpicrIee54M) | [Knoppers](https://open.spotify.com/album/0RzlcFXkk0MJmcQhYxwcwR) | 2:06 |
+| 17 | [Feuerkind](https://open.spotify.com/track/56ldjSVqZJ332ntiGLSPvW) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Feuerkind](https://open.spotify.com/album/5zwr0tXhxtJmfvgL1G8BK0) | 3:40 |
 | 18 | [Bitte sag](https://open.spotify.com/track/5rj7ExuHtdyVGtUMuprZqe) | [Paula Douglas](https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ) | [Bitte sag](https://open.spotify.com/album/7GV5MAj4vGJ6UBwpUcKmnX) | 2:11 |
-| 19 | [Hey Chatty](https://open.spotify.com/track/5v1cAVbBR0v5Gev5NF1GZd) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Hey Chatty](https://open.spotify.com/album/0Bvd5BIjtgxoAvg3F7OTla) | 2:47 |
+| 19 | [Daddy](https://open.spotify.com/track/5UEdzLdq8tICr6x0abO4gM) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Daddy](https://open.spotify.com/album/4sQdg2DCe4J2ZJbOEZ615l) | 2:34 |
 | 20 | [Er kriegt mich nicht](https://open.spotify.com/track/3QlqPRUCScMH9SRdRSPhid) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Er kriegt mich nicht](https://open.spotify.com/album/32KQ2dKaKl0XXalzDj9b5U) | 1:29 |
-| 21 | [Daddy](https://open.spotify.com/track/5UEdzLdq8tICr6x0abO4gM) | [SHOKI](https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3) | [Daddy](https://open.spotify.com/album/4sQdg2DCe4J2ZJbOEZ615l) | 2:34 |
+| 21 | [Hey Chatty](https://open.spotify.com/track/5v1cAVbBR0v5Gev5NF1GZd) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Hey Chatty](https://open.spotify.com/album/0Bvd5BIjtgxoAvg3F7OTla) | 2:47 |
 | 22 | [215 fehlstunden](https://open.spotify.com/track/3X4DZ9xR9ASP2mApkmOWg3) | [chiara](https://open.spotify.com/artist/4WimfwqguLTlWfpNaaonvG) | [215 fehlstunden](https://open.spotify.com/album/46Vbi8Z2yGVDa3D1k9ZRmD) | 2:31 |
 | 23 | [paradox](https://open.spotify.com/track/7caBLs17zpDr8qfRPoTPw3) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [paradox](https://open.spotify.com/album/3pexxVelQfabVmGJNTmq24) | 5:09 |
 | 24 | [blauäugig](https://open.spotify.com/track/1x9Nayn5si8O2ijcz7lfQe) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [sad girl summer](https://open.spotify.com/album/6TsjtXGkd8JKtB400it3nF) | 3:34 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 32 | [Healing](https://open.spotify.com/track/4ilObt2d81ny3mrhkHiThh) | [Eunique](https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe) | [Healing](https://open.spotify.com/album/3mAeleHsO986ZPtRTd2I8X) | 2:58 |
 | 33 | [Das Beste](https://open.spotify.com/track/5dholWRj5q0lQUxHS5hRWh) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Das Beste](https://open.spotify.com/album/5dVA4L80HLjdBTKkjVo2sm) | 2:32 |
 | 34 | [Luftmatratze](https://open.spotify.com/track/75nKqTGkhBZrGWD7Tx0kTw) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Luftmatratze](https://open.spotify.com/album/2SLwigOmRvIBuY241sDf9t) | 2:40 |
-| 35 | [Polarität](https://open.spotify.com/track/2McjdvztjQZyJQT3bYsSkq) | [KIALA](https://open.spotify.com/artist/4zABHPQ2hWIUwHPv7Zhqdq) | [Polarität](https://open.spotify.com/album/3yfk9gv4M8GP3AJfP99ZBq) | 2:10 |
-| 36 | [PILOT](https://open.spotify.com/track/2NqVNlEi1EURj6acNnjs7W) | [Yasola](https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS) | [PILOT](https://open.spotify.com/album/6JjgeAEOPAR84qwQrB1SeQ) | 3:24 |
+| 35 | [PILOT](https://open.spotify.com/track/2NqVNlEi1EURj6acNnjs7W) | [Yasola](https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS) | [PILOT](https://open.spotify.com/album/6JjgeAEOPAR84qwQrB1SeQ) | 3:24 |
+| 36 | [Polarität](https://open.spotify.com/track/2McjdvztjQZyJQT3bYsSkq) | [KIALA](https://open.spotify.com/artist/4zABHPQ2hWIUwHPv7Zhqdq) | [Polarität](https://open.spotify.com/album/3yfk9gv4M8GP3AJfP99ZBq) | 2:10 |
 | 37 | [Mund voll Gold](https://open.spotify.com/track/02xAk8tVXxFFXCREiEzR5t) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [Mund voll Gold](https://open.spotify.com/album/6aj1rjldbn0RyUCN9UzncI) | 3:02 |
 | 38 | [Pacify](https://open.spotify.com/track/4vdIMyvKTGh9kFZhi9Kt7w) | [The Red Flags](https://open.spotify.com/artist/7FIb3f7HlWJre42vwT6rDN) | [Self\-Centred And Delusional](https://open.spotify.com/album/2VGX96Cq2zq9n2tp2lOQ3K) | 2:31 |
 | 39 | [C C C](https://open.spotify.com/track/2SXLCcrH227dQ1ffi7PbnH) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [C C C](https://open.spotify.com/album/4LxaKUWOsO7I15CMN0wVxC) | 3:06 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 42 | [Warriors Of The Sea](https://open.spotify.com/track/4v43w0RfWBs2dPUAHaiTf7) | [Doro](https://open.spotify.com/artist/5GLeyUhj8B8f5pJxqZllKl) | [Warriors Of The Sea](https://open.spotify.com/album/4cxENbFoE4iuayIPsz8MSo) | 4:20 |
 | 43 | [Imaginary Friend](https://open.spotify.com/track/3UJtYt80oyV9oHS7YemxnZ) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Imaginary Friend](https://open.spotify.com/album/7zruNgHAbhS7yI1bYbERpv) | 4:46 |
 | 44 | [FiiRE](https://open.spotify.com/track/3cBXkCnguNwiOkzZbheOvk) | [MADANii](https://open.spotify.com/artist/1RzGXB2manO8IeUxrPSG4f) | [BiiLINGUAL](https://open.spotify.com/album/3pEd1BiDvPjSjFSWff5z7t) | 3:36 |
-| 45 | [This Time](https://open.spotify.com/track/4r4VfrGShdNq1uf0lHBWoC) | [Lener](https://open.spotify.com/artist/4z6eCRDaL8dNvotGKlPhoS) | [This Time](https://open.spotify.com/album/2afefi75vyKcOS52Ht520I) | 3:13 |
-| 46 | [Sternschnuppe](https://open.spotify.com/track/3FnD5COGtGg6ORDsoKxoEn) | [LIÄN](https://open.spotify.com/artist/66lqRDCF3RB3kxtuLTaow3) | [Sternschnuppe](https://open.spotify.com/album/0fnxxDF8kBCyWTPEF0OJ57) | 2:29 |
+| 45 | [Sternschnuppe](https://open.spotify.com/track/3FnD5COGtGg6ORDsoKxoEn) | [LIÄN](https://open.spotify.com/artist/66lqRDCF3RB3kxtuLTaow3) | [Sternschnuppe](https://open.spotify.com/album/0fnxxDF8kBCyWTPEF0OJ57) | 2:29 |
+| 46 | [This Time](https://open.spotify.com/track/4r4VfrGShdNq1uf0lHBWoC) | [Lener](https://open.spotify.com/artist/4z6eCRDaL8dNvotGKlPhoS) | [This Time](https://open.spotify.com/album/2afefi75vyKcOS52Ht520I) | 3:13 |
 | 47 | [Water Your Plants!](https://open.spotify.com/track/1DKc3IfxmLdSuTFU5gZp34) | [Brosie](https://open.spotify.com/artist/1BhHfoVYBG9UF75NYr61RB) | [Water Your Plants!](https://open.spotify.com/album/0NX7nE3wc8Ujw4O4nboZv3) | 2:58 |
 | 48 | [Boys Club](https://open.spotify.com/track/1BOx5dccNvhnv0udC3QAye) | [Batbait](https://open.spotify.com/artist/1PGFrlFMjm2RIi2ndQ0lHG) | [Boys Club](https://open.spotify.com/album/08QXYglCJqvNFPrfYyCyth) | 3:10 |
 | 49 | [aufribbeln](https://open.spotify.com/track/2DbX3oaPunzAeNpnBWz5Qy) | [LISABETH](https://open.spotify.com/artist/2LB3CqyRr5ttDlWqGl5CEv) | [aufribbeln](https://open.spotify.com/album/7MtrWPMStCEDdBknw1pfze) | 3:28 |

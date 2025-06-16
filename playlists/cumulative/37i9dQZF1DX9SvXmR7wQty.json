@@ -11931,6 +11931,24 @@
     },
     {
       "album": {
+        "name": "COM\u00c8TE",
+        "url": "https://open.spotify.com/album/2zQQAxnFJsYXAIP23v516s"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "COM\u00c8TE",
+      "url": "https://open.spotify.com/track/4PsXJ6y2MN1zSqdDV4XJbX"
+    },
+    {
+      "album": {
         "name": "Confession",
         "url": "https://open.spotify.com/album/4iSFg0cxwRdN0e3k7lAZFw"
       },
@@ -11942,7 +11960,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 166617,
       "name": "Confession",
       "url": "https://open.spotify.com/track/2iPA5FhF7sPOUibIVuNOgf"
@@ -43230,7 +43248,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 173906,
       "name": "One Time",
       "url": "https://open.spotify.com/track/4SrbRoCwiEMWyyizN49TwU"
@@ -61996,6 +62014,32 @@
       "duration_ms": 225441,
       "name": "Vice",
       "url": "https://open.spotify.com/track/1CQw290cl4D8c4di4z6RrW"
+    },
+    {
+      "album": {
+        "name": "La G World, Pt.1",
+        "url": "https://open.spotify.com/album/1WedA6VtCNpsTI3LYGOA9q"
+      },
+      "artists": [
+        {
+          "name": "GAULOIS",
+          "url": "https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2025-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247864,
+      "name": "VIDA (feat. Ninho & Morad)",
+      "url": "https://open.spotify.com/track/1zfBApK5OdvVU9t1tFZ8uG"
     },
     {
       "album": {

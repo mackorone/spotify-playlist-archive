@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > Celebrating 10 years of the best new dance music by independent artists and labels, featuring Collect 200\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,819 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,852 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [just a feeling](https://open.spotify.com/track/5b6BUda5b3JGm7ForCOQL0) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl) | [just a feeling](https://open.spotify.com/album/4j0wvCuZDQk2kfhiAM1Twv) | 2:54 |
 | 100 | [Westside](https://open.spotify.com/track/27bKtnJX9Fe4sM2CZ4nbjy) | [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ) | [Westside](https://open.spotify.com/album/6MiGMLLVMQUdtE12WlvwGj) | 3:08 |
 
-Snapshot ID: `aEuieQAAAACWVo9vhSorb8LeP6QjCB3+`
+Snapshot ID: `aEuieQAAAABD/lP4ltxnvw/3GN+SvXlM`

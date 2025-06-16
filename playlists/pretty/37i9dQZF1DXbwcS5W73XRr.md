@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwcS5W73XRr.md) - [plain]
 
 > The original soundtrack to a dancefloor revolution, from the basement to the world \- this is Acid.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,059 likes - 50 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,078 likes - 50 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwcS5W73XRr.md) - [plain]
 | 49 | [Pump Up the Acid \- Hardrock Striker K.O\. 12'S Mix](https://open.spotify.com/track/5Nk6yokDV2LbWOoZdv1Oks) | [Michael Oliver](https://open.spotify.com/artist/7r11QZJAzMlhmSvRae4R3P) | [Jackin' the Acid](https://open.spotify.com/album/73G2j2LnFxvszt5FeNs9kb) | 6:19 |
 | 50 | [The Garden of Eden \(A Himalayan Song\)](https://open.spotify.com/track/4I51NjXIhLPfFVzn4SgYGj) | [The Garden Of Eden](https://open.spotify.com/artist/3BTGILbxq4Bjb5qwkIr3af) | [The Garden of Eden](https://open.spotify.com/album/3B4JK1Sy22RFDQfOZJbBEk) | 4:01 |
 
-Snapshot ID: `ZqNicAAAAAArOmg5RRxTZGrILgWQxoyv`
+Snapshot ID: `ZqNicAAAAACkAUPMPUf/cvsmBH7kS6BI`

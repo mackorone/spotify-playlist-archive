@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 
 > Instrumental covers of favourites played on ukulele.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,494 likes - 88 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,527 likes - 88 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 | 87 | [Sweet Caroline \(Instrumental Version\)](https://open.spotify.com/track/1QUPoigzuwFjZf4NEbDoMe) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW), [The Ukulele Boys](https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T) | [Popular Instrumental Songs on Ukulele](https://open.spotify.com/album/6rNPhHvHlRuIKJSYeJYo0V) | 3:19 |
 | 88 | [Yellow](https://open.spotify.com/track/0sTQXBg6RLuPrHI5jmuqyA) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Yellow](https://open.spotify.com/album/1RJsXLUI6EVcPAIyNsnpwZ) | 2:48 |
 
-Snapshot ID: `AAAAAFTVPqxGc13vKv73RP5kSxWdIRyW`
+Snapshot ID: `aD6/uwAAAAArgWvPlI3GdUzMtLSaCtGd`

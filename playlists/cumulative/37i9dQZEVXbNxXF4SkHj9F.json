@@ -176,7 +176,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-15",
+      "date_removed": null,
       "duration_ms": 160333,
       "name": "123-78",
       "url": "https://open.spotify.com/track/4XLfRpryO7Qn0SXp1ARIfj"
@@ -5802,7 +5802,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 194546,
       "name": "Closely Far Away",
       "url": "https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242"
@@ -7238,7 +7238,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 202026,
       "name": "Dear",
       "url": "https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL"
@@ -13694,7 +13694,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-10",
+      "date_removed": null,
       "duration_ms": 219026,
       "name": "How Sweet",
       "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
@@ -14698,7 +14698,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-02",
+      "date_removed": null,
       "duration_ms": 250573,
       "name": "If I have you only (My love X Nerd Connection)",
       "url": "https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL"
@@ -16794,6 +16794,24 @@
       "duration_ms": 255826,
       "name": "Lemon",
       "url": "https://open.spotify.com/track/04TshWXkhV1qkqHzf31Hn6"
+    },
+    {
+      "album": {
+        "name": "GOLDEN HOUR : Part.3",
+        "url": "https://open.spotify.com/album/5LlszztgR3YH7aN7SPgTVi"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179395,
+      "name": "Lemon Drop",
+      "url": "https://open.spotify.com/track/2kpmBZqu52h6uCZXFTIXJK"
     },
     {
       "album": {
@@ -19112,7 +19130,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
@@ -19888,7 +19906,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 137191,
       "name": "MONA LISA",
       "url": "https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ"
@@ -23438,7 +23456,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 206400,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/2tA3NP12r4niSRhb9Y6AoY"
@@ -25370,7 +25388,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"

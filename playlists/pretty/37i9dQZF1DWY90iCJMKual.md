@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 
 > PH vibin' cover: PLAYERTWO
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,741 likes - 66 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,774 likes - 66 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ikigai \(feat\. Loonie\)](https://open.spotify.com/track/521fDEPuyS2szREJ9NkMDs) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Loonie](https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc) | [Ikigai \(feat\. Loonie\)](https://open.spotify.com/album/4XkhhI9dq3Dr2IJGpiXpBf) | 4:05 |
 | 2 | [Mhine \(The Ending Story\) \(feat\. Ms\. Yumi\)](https://open.spotify.com/track/4PPSpz34aol6Xe5kWOcyKK) | [Repablikan](https://open.spotify.com/artist/2KQQZKs8W3hegtKyt5DFA5), [Jslim](https://open.spotify.com/artist/2d0kcx3WqzvmgAolZohbMy), [Ms\. Yumi](https://open.spotify.com/artist/5vgnCBkhcH7Omm2yvf86kN) | [Mhine \(The Ending Story\) \(feat\. Ms\. Yumi\)](https://open.spotify.com/album/18uhpx7yA8mTiA0Gew7Bde) | 3:21 |
-| 3 | [Florita](https://open.spotify.com/track/2SaE6WhsNMqa6ElPINBYr8) | [KV](https://open.spotify.com/artist/4ZPvMY3YPMZbVZn5WIjzvB) | [Florita](https://open.spotify.com/album/74JjHdH1qHyLjymNdmVcb7) | 3:14 |
+| 3 | [Florita](https://open.spotify.com/track/2SaE6WhsNMqa6ElPINBYr8) | [KV](https://open.spotify.com/artist/4ZPvMY3YPMZbVZn5WIjzvB) | [Florita](https://open.spotify.com/album/74JjHdH1qHyLjymNdmVcb7) | 3:13 |
 | 4 | [ONE NIGHT](https://open.spotify.com/track/25lCIVyiwksrf28v9hldGR) | [SJ Maglana](https://open.spotify.com/artist/28lD6fIj7acTZNQHr7UIqc) | [ONE NIGHT](https://open.spotify.com/album/1wk5qpEqmT1xW695nH7jAe) | 2:49 |
 | 5 | [U & I](https://open.spotify.com/track/0fCu02teDBZyrhIygrStO6) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [U & I](https://open.spotify.com/album/5FGn83gWhrhfPlES1nbcuC) | 3:03 |
 | 6 | [QC Gurlz Remix \(feat\. Sassa Gurl\)](https://open.spotify.com/track/5174ISeCjlLkeoESkNHiGl) | [Stef Aranas](https://open.spotify.com/artist/741S9vc1M279OomvdEsFhg), [Sassa Gurl](https://open.spotify.com/artist/52D0Fi29GcObaFnweqsV6d) | [QC Gurlz Remix \(feat\. Sassa Gurl\)](https://open.spotify.com/album/7wuDE5gXpKntb23qRMXiLZ) | 3:18 |

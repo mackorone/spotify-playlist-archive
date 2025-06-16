@@ -1,12 +1,12 @@
 {
   "description": "This is Ladysmith Black Mambazo. The essential tracks, all in one playlist.",
-  "num_followers": 28318,
+  "num_followers": 28319,
   "original_name": "This Is Ladysmith Black Mambazo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAAb4kbYM17Lu+NMZWv7WK8p",
+  "snapshot_id": "aEy7gAAAAACSrUH500Pcu3bi9yIKOiqQ",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/6E6fumzB50Dwmzc7MUkXuC"
+        "name": "Ezinkulu",
+        "url": "https://open.spotify.com/album/5w7fCN6djX1UXL1rTG9Rnh"
       },
       "artists": [
-        {
-          "name": "Josh Groban",
-          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
-        },
         {
           "name": "Ladysmith Black Mambazo",
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         }
       ],
-      "duration_ms": 152040,
-      "name": "Lullaby (with Ladysmith Black Mambazo)",
-      "url": "https://open.spotify.com/track/4Fkq8yuuohRXxmmAeFikub"
+      "duration_ms": 275613,
+      "name": "Amafutha Esibane",
+      "url": "https://open.spotify.com/track/5msU28j9wIWfTAK9Zcewrm"
     },
     {
       "added_at": null,
@@ -635,18 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ezinkulu",
-        "url": "https://open.spotify.com/album/5w7fCN6djX1UXL1rTG9Rnh"
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/6E6fumzB50Dwmzc7MUkXuC"
       },
       "artists": [
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        },
         {
           "name": "Ladysmith Black Mambazo",
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         }
       ],
-      "duration_ms": 275613,
-      "name": "Amafutha Esibane",
-      "url": "https://open.spotify.com/track/5msU28j9wIWfTAK9Zcewrm"
+      "duration_ms": 152040,
+      "name": "Lullaby (with Ladysmith Black Mambazo)",
+      "url": "https://open.spotify.com/track/4Fkq8yuuohRXxmmAeFikub"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Isitimela",
-        "url": "https://open.spotify.com/album/6wVhMiTP7jYVZC7W44Z3bK"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "Thandiwe Wami",
-      "url": "https://open.spotify.com/track/5UZFdcIvMIdCaNajKHBJIJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ulwandle Olungcwele",
         "url": "https://open.spotify.com/album/2auxBwPk8Q0uhBJtzoSaRg"
       },
@@ -783,22 +767,6 @@
       "duration_ms": 198800,
       "name": "Sishumayel' Ivangeli",
       "url": "https://open.spotify.com/track/2CgAlc3jjlpnTrTeQUKq5X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wenyukela",
-        "url": "https://open.spotify.com/album/1sCK9ROgvlWRvN08keQmb7"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 297213,
-      "name": "Wangibambezela (Message From His Heart)",
-      "url": "https://open.spotify.com/track/43EM1Raenxk6YrW73ytjcX"
     },
     {
       "added_at": null,
@@ -823,6 +791,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wenyukela",
+        "url": "https://open.spotify.com/album/1sCK9ROgvlWRvN08keQmb7"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 297213,
+      "name": "Wangibambezela (Message From His Heart)",
+      "url": "https://open.spotify.com/track/43EM1Raenxk6YrW73ytjcX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Isitimela",
+        "url": "https://open.spotify.com/album/6wVhMiTP7jYVZC7W44Z3bK"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "Thandiwe Wami",
+      "url": "https://open.spotify.com/track/5UZFdcIvMIdCaNajKHBJIJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inala",
+        "url": "https://open.spotify.com/album/0lkb2v75YhtDpCtufDW2Ec"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Ngothandaza Njalo (I'll Keep on Looking)",
+      "url": "https://open.spotify.com/track/5cSr5dZoikDnkGX35l7rlj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Awu Wemadoda",
         "url": "https://open.spotify.com/album/5DWZDoLZrKRPwrImMehQu5"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 235179,
       "name": "Awu Wemadoda - Club Mix",
       "url": "https://open.spotify.com/track/2GlEeBVT9pTy2Kqoeq48dP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inala",
-        "url": "https://open.spotify.com/album/0lkb2v75YhtDpCtufDW2Ec"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Ngothandaza Njalo (I'll Keep on Looking)",
-      "url": "https://open.spotify.com/track/5cSr5dZoikDnkGX35l7rlj"
     },
     {
       "added_at": null,

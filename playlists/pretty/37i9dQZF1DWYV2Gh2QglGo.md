@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Josh Ross and Canadian country music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,931 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,938 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 49 | [Write About You](https://open.spotify.com/track/4OiBrTvW98VevYyRGWVoes) | [Parker Graye](https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8) | [Write About You](https://open.spotify.com/album/4hBVxzzLZoFO6eTn7dA4ix) | 2:24 |
 | 50 | [Never Not Care](https://open.spotify.com/track/76QLV6Eu2S375hXioGynF5) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Never Not Care](https://open.spotify.com/album/3rpA5VLqSQ1WfrDt050OZv) | 2:35 |
 
-Snapshot ID: `aExQJAAAAACq9yhxZBga2GygwM0t1mTC`
+Snapshot ID: `AAAAANhvwzysWtrK/WhrHY4pFPBJ1Jpm`

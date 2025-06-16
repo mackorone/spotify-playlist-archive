@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Orochi, FIlipe Ret
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,157 likes - 74 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,176 likes - 74 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 73 | [Jogo da Vida](https://open.spotify.com/track/6jK8DJfC4wVPyfEc7SEgfe) | [Visão Records](https://open.spotify.com/artist/51jC7VpvzmZ6gN6LHrJNy5), [A.LBeats](https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Jogo da Vida](https://open.spotify.com/album/2ZcjMx3IEjStin63pGb7u2) | 2:00 |
 | 74 | [A$HP On The Radar Freestyle](https://open.spotify.com/track/3HG1O4JAqZeQSih4IA6qTs) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [A$HP](https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9) | [A$HP On The Radar Freestyle](https://open.spotify.com/album/2RmktTN9U63N3t6pGF4tPg) | 2:05 |
 
-Snapshot ID: `AAAAAECfaDwkd0RmzsZS4WrmQmCZC7h+`
+Snapshot ID: `aEuUiwAAAACM/Ng9X+eDuLrK5NLtehe0`

@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-525 songs - 1 day 19 hr 49 min
+526 songs - 1 day 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [By the Air \- Six Missing Rework](https://open.spotify.com/track/2OGLsbkQN7nv4iDFvN183f) | [Wicked Expectation](https://open.spotify.com/artist/2DNFg3KAsbnkj62zIc9lyQ), [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [By the Air \(Six Missing Rework\)](https://open.spotify.com/album/261LawGBTfFPu5oGT9TphF) | 3:30 | 2023-01-28 |  |
 | [C.A.](https://open.spotify.com/track/0Ep1pV0KhVvSof5eGN8803) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [C.A.](https://open.spotify.com/album/5UguzHZtztr352RQ9froFT) | 3:06 | 2022-11-22 | 2025-05-17 |
 | [C.A.](https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Feorm Falorx](https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME) | 3:06 | 2023-01-20 | 2024-04-19 |
-| [Cabin Six](https://open.spotify.com/track/79zvtXZtE8LPsstt8SdNTh) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Time Indefinite, Part One](https://open.spotify.com/album/4QvUYBL0pKF5GSingEw5Tu) | 8:14 | 2025-05-12 |  |
+| [Cabin Six](https://open.spotify.com/track/79zvtXZtE8LPsstt8SdNTh) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Time Indefinite, Part One](https://open.spotify.com/album/4QvUYBL0pKF5GSingEw5Tu) | 8:14 | 2025-05-12 | 2025-06-16 |
 | [Calma](https://open.spotify.com/track/22Td0L84DAT9G819RIfIQz) | [Pablo Bolivar](https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs), [Nacho Sanchez](https://open.spotify.com/artist/4YEgaKhOIrhCE9QYrSpzjf) | [Calma](https://open.spotify.com/album/5d6P1j9WQSrkcT9DpwMk8x) | 4:53 | 2023-08-25 |  |
 | [Camina](https://open.spotify.com/track/4c8VB5HRoc6FqXLXXKhtxq) | [Daniel Imhof](https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS) | [Camina](https://open.spotify.com/album/7rcnZunoM1Fn8HPDKD6Lev) | 8:37 | 2023-12-01 |  |
 | [CAPRICORN](https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu) | [Pauli The PSM](https://open.spotify.com/artist/0REk2fMEqOBQKenqZv4sgp), [OFFAIR](https://open.spotify.com/artist/7Ma4FYYpM6vqvTeXHAMKkp), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE](https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG) | 3:42 | 2022-01-07 | 2025-03-30 |
@@ -327,6 +327,7 @@
 | [One Note](https://open.spotify.com/track/3P8AwFnMXOgHNkbuwu8GfP) | [dBridge](https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y), [Madison Willing](https://open.spotify.com/artist/6b94jpRH15mdDslUuqDwMl) | [Made In Silence](https://open.spotify.com/album/3ei0jT1ME3lIF1nvBy3riV) | 2:34 | 2022-02-25 | 2024-12-24 |
 | [Open](https://open.spotify.com/track/4JJgSm2ffsfHmXy6E7QWEG) | [Nazar](https://open.spotify.com/artist/6JBAyC8fskYhZHKXI5VRdq) | [Open](https://open.spotify.com/album/14yCVV6SVsxsNen0zGZ8gY) | 4:09 | 2025-05-12 | 2025-06-08 |
 | [Open plain](https://open.spotify.com/track/730hlLtDWpD2i0492i9rME) | [Low Flung](https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw) | [The landscape has become a bed](https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6) | 4:59 | 2021-12-26 | 2023-08-12 |
+| [Open Shadow](https://open.spotify.com/track/4g0HhFBcBhPU4bkuhhGVEg) | [7038634357](https://open.spotify.com/artist/2k55GlZ4XckJwuYEQ4HJAO) | [Waterfall Horizon](https://open.spotify.com/album/78qlomYI4uQHUSVOJETLud) | 4:02 | 2025-06-13 |  |
 | [Opposite Sides](https://open.spotify.com/track/03VbNLKlENAi4IUbClDw1n) | [Ocoeur](https://open.spotify.com/artist/4lybctGarwN1hdctv433Js) | [Connections](https://open.spotify.com/album/6PXeUwaH1WzmEhQcgb3wDd) | 5:18 | 2023-04-21 | 2023-11-02 |
 | [Opposite Sides](https://open.spotify.com/track/0zjfRQNFfXIRfknfUgWmL5) | [Ocoeur](https://open.spotify.com/artist/4lybctGarwN1hdctv433Js) | [Connections](https://open.spotify.com/album/1ZrWgu2napuGWL5yiHUC1Z) | 5:18 | 2022-07-01 | 2025-02-01 |
 | [Opposite Sides](https://open.spotify.com/track/5KwIpjS1J5h0ZaDlPtEL76) | [Ocoeur](https://open.spotify.com/artist/4lybctGarwN1hdctv433Js) | [Connections](https://open.spotify.com/album/0XPEa03giPkkTHDsCHf3H0) | 5:18 | 2022-07-15 | 2023-05-01 |

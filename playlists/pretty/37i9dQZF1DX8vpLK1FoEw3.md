@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 
 > é Carnaval 24h por dia com a energia do GG da Bahia!! Criada por <a href="spotify:artist:7KVJCU4z5L4EUHILL8aMxR"> Léo Santana</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,083 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,043 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 | 48 | [Cria Da Ivete \- Ao Vivo](https://open.spotify.com/track/4XpB5oBPuygG2Gbpi3PUhu) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Chega Mais \(Ao Vivo\)](https://open.spotify.com/album/72ubm2vqYUYmYOjEUl687c) | 3:57 |
 | 49 | [Levada Louca \- Live](https://open.spotify.com/track/7nmbhx87ShhfofNMZStry2) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Ao Vivo](https://open.spotify.com/album/0aqrvS57NXwVRYRsYjk47a) | 3:37 |
 
-Snapshot ID: `AAAAAFID7nP+jZTFPvb0W+jiN1xPmioB`
+Snapshot ID: `Z9yz6QAAAAAWGyb63QfcH72PbFW5FGdJ`

@@ -14421,6 +14421,24 @@
     },
     {
       "album": {
+        "name": "GOLDEN HOUR : Part.3",
+        "url": "https://open.spotify.com/album/5LlszztgR3YH7aN7SPgTVi"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179395,
+      "name": "Lemon Drop",
+      "url": "https://open.spotify.com/track/2kpmBZqu52h6uCZXFTIXJK"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -16444,7 +16462,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 179055,
       "name": "Messy (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9"
@@ -30206,7 +30224,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 220781,
       "name": "\u518d\u9047\u89c1\u4f60",
       "url": "https://open.spotify.com/track/2i2sfWt2zXZMHjoCuAJDe6"
@@ -31114,7 +31132,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 280288,
       "name": "\u770b\u7740\u6211\u7684\u773c\u775b\u8bf4 - Live",
       "url": "https://open.spotify.com/track/1cgz7ebMOUWlhrLX8aGp5A"

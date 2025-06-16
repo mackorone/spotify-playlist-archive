@@ -1,6 +1,6 @@
 {
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
-  "num_followers": 111912,
+  "num_followers": 111923,
   "original_name": "Sunset Chill",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "ZfBnpAAAAACLuoDkaygIc9lwZdBRr2+S",
   "tracks": [
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
-        "name": "the clearing",
-        "url": "https://open.spotify.com/album/4KtXivGbPCcyyzs8mb54CJ"
-      },
-      "artists": [
-        {
-          "name": "Zoe Reed",
-          "url": "https://open.spotify.com/artist/4mZWwBPYRI8NSMUBAH8WFE"
-        }
-      ],
-      "duration_ms": 148583,
-      "name": "the clearing",
-      "url": "https://open.spotify.com/track/3oY2RXnYoPhtf6r552KfbN"
-    },
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 110000,
       "name": "It's Time",
       "url": "https://open.spotify.com/track/0FQJcnHx67utr98s11Q2qX"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "the clearing",
+        "url": "https://open.spotify.com/album/4KtXivGbPCcyyzs8mb54CJ"
+      },
+      "artists": [
+        {
+          "name": "Zoe Reed",
+          "url": "https://open.spotify.com/artist/4mZWwBPYRI8NSMUBAH8WFE"
+        }
+      ],
+      "duration_ms": 148583,
+      "name": "the clearing",
+      "url": "https://open.spotify.com/track/3oY2RXnYoPhtf6r552KfbN"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Through The Garden",
-        "url": "https://open.spotify.com/album/7fl4nfQ0Sxav2ovfUWOLhC"
-      },
-      "artists": [
-        {
-          "name": "eze east",
-          "url": "https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth"
-        }
-      ],
-      "duration_ms": 126486,
-      "name": "Through The Garden",
-      "url": "https://open.spotify.com/track/1oAFrGbUMmg7pPXVzrVrS6"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "With U",
         "url": "https://open.spotify.com/album/5YuMyydKScBvKXbYii0AH3"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 218666,
       "name": "With U",
       "url": "https://open.spotify.com/track/0rNpm25xLsckCS9JPAgpwP"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Through The Garden",
+        "url": "https://open.spotify.com/album/7fl4nfQ0Sxav2ovfUWOLhC"
+      },
+      "artists": [
+        {
+          "name": "eze east",
+          "url": "https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth"
+        }
+      ],
+      "duration_ms": 126486,
+      "name": "Through The Garden",
+      "url": "https://open.spotify.com/track/1oAFrGbUMmg7pPXVzrVrS6"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Autumn Briefs",
-        "url": "https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW"
-      },
-      "artists": [
-        {
-          "name": "Dasunny",
-          "url": "https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza"
-        }
-      ],
-      "duration_ms": 145242,
-      "name": "Autumn Briefs",
-      "url": "https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "\u30b9\u30e2\u30fc\u30af",
         "url": "https://open.spotify.com/album/5W8Y8PmcfrlkuYHdtV3OtP"
       },
@@ -291,6 +275,22 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
+        "name": "Autumn Briefs",
+        "url": "https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW"
+      },
+      "artists": [
+        {
+          "name": "Dasunny",
+          "url": "https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza"
+        }
+      ],
+      "duration_ms": 145242,
+      "name": "Autumn Briefs",
+      "url": "https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
         "name": "BUBBA",
         "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
@@ -303,22 +303,6 @@
       "duration_ms": 113346,
       "name": "Puff Lah",
       "url": "https://open.spotify.com/track/21mimz3pv3JD4r8wEJJfNg"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
-        "name": "My Promise",
-        "url": "https://open.spotify.com/album/5rL8vcVAck9ba3BC8X0WFg"
-      },
-      "artists": [
-        {
-          "name": "myndstream",
-          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
-        }
-      ],
-      "duration_ms": 241739,
-      "name": "My Promise",
-      "url": "https://open.spotify.com/track/2tLMEIVC98DSoq8jjypvg6"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -351,6 +335,22 @@
       "duration_ms": 138750,
       "name": "Zen Way",
       "url": "https://open.spotify.com/track/1E7FBgfsrBbS2hSaoecQp1"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "My Promise",
+        "url": "https://open.spotify.com/album/5rL8vcVAck9ba3BC8X0WFg"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "duration_ms": 241739,
+      "name": "My Promise",
+      "url": "https://open.spotify.com/track/2tLMEIVC98DSoq8jjypvg6"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/4u4xybF9lWoWmLR7OzVeCR"
+      },
+      "artists": [
+        {
+          "name": "Blvk",
+          "url": "https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/0MKb6jtMMFY0FZNg6P3dAI"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
         "name": "Surp",
         "url": "https://open.spotify.com/album/4tdzH69lzNwW84ZArVHH83"
       },
@@ -519,34 +535,18 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Cloudy",
-        "url": "https://open.spotify.com/album/4fabio6xe0XUscomxRu8rl"
+        "name": "Cadillac Mountain",
+        "url": "https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul"
       },
       "artists": [
         {
-          "name": "Kimm\u00f8",
-          "url": "https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz"
+          "name": "Brock Berrigan",
+          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
         }
       ],
-      "duration_ms": 152960,
-      "name": "Cloudy",
-      "url": "https://open.spotify.com/track/6QvqzWJY96PZXEOdDpGdP7"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/4u4xybF9lWoWmLR7OzVeCR"
-      },
-      "artists": [
-        {
-          "name": "Blvk",
-          "url": "https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/0MKb6jtMMFY0FZNg6P3dAI"
+      "duration_ms": 103255,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Cadillac Mountain",
-        "url": "https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul"
+        "name": "Cloudy",
+        "url": "https://open.spotify.com/album/4fabio6xe0XUscomxRu8rl"
       },
       "artists": [
         {
-          "name": "Brock Berrigan",
-          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
+          "name": "Kimm\u00f8",
+          "url": "https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz"
         }
       ],
-      "duration_ms": 103255,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz"
+      "duration_ms": 152960,
+      "name": "Cloudy",
+      "url": "https://open.spotify.com/track/6QvqzWJY96PZXEOdDpGdP7"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
+        "name": "I Don't Love You Anymore",
+        "url": "https://open.spotify.com/album/0n64xoWxg6GJpUzA1zOWnl"
+      },
+      "artists": [
+        {
+          "name": "Sarcastic Sounds",
+          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
+        }
+      ],
+      "duration_ms": 77600,
+      "name": "I Don't Love You Anymore",
+      "url": "https://open.spotify.com/track/6QOVWoZUD3IEszbfO46mYW"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
         "name": "It's Ok",
         "url": "https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 168297,
       "name": "It's Ok",
       "url": "https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
-        "name": "I Don't Love You Anymore",
-        "url": "https://open.spotify.com/album/0n64xoWxg6GJpUzA1zOWnl"
-      },
-      "artists": [
-        {
-          "name": "Sarcastic Sounds",
-          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
-        }
-      ],
-      "duration_ms": 77600,
-      "name": "I Don't Love You Anymore",
-      "url": "https://open.spotify.com/track/6QOVWoZUD3IEszbfO46mYW"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
+        "name": "RAS",
+        "url": "https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5"
+      },
+      "artists": [
+        {
+          "name": "RAS",
+          "url": "https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj"
+        }
+      ],
+      "duration_ms": 691760,
+      "name": "4:20",
+      "url": "https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/5q9NOWJIvib6TFdgHgkt1W"
       },
@@ -779,38 +795,6 @@
       "duration_ms": 161041,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/3B1CEpzdKIny47WADN2DGc"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
-        "name": "RAS",
-        "url": "https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5"
-      },
-      "artists": [
-        {
-          "name": "RAS",
-          "url": "https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj"
-        }
-      ],
-      "duration_ms": 691760,
-      "name": "4:20",
-      "url": "https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
-        "name": "Waffle Date",
-        "url": "https://open.spotify.com/album/4wMHT93kypp3DEwsNHQ7Yr"
-      },
-      "artists": [
-        {
-          "name": "Breakfast For Brunch",
-          "url": "https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O"
-        }
-      ],
-      "duration_ms": 151216,
-      "name": "Waffle Date",
-      "url": "https://open.spotify.com/track/2iM6bo1Mb6rdw7N3FNMcWE"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -875,6 +859,22 @@
       "duration_ms": 172277,
       "name": "End Credits",
       "url": "https://open.spotify.com/track/0IQGNx2y8xUec752lNCUQk"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Waffle Date",
+        "url": "https://open.spotify.com/album/4wMHT93kypp3DEwsNHQ7Yr"
+      },
+      "artists": [
+        {
+          "name": "Breakfast For Brunch",
+          "url": "https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O"
+        }
+      ],
+      "duration_ms": 151216,
+      "name": "Waffle Date",
+      "url": "https://open.spotify.com/track/2iM6bo1Mb6rdw7N3FNMcWE"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "The Blyat Tapes,Vol.1",
-        "url": "https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu"
-      },
-      "artists": [
-        {
-          "name": "DVLTVN",
-          "url": "https://open.spotify.com/artist/4EjD919dnuBCJRZ9QnUagb"
-        }
-      ],
-      "duration_ms": 85514,
-      "name": "Dont.Be.Afraid.",
-      "url": "https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Nineteen",
         "url": "https://open.spotify.com/album/69fOwmdCZIaWPE4OLLnuQi"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 66023,
       "name": "Make Up",
       "url": "https://open.spotify.com/track/61JERhZCmTcba3dkm2k53O"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "The Blyat Tapes,Vol.1",
+        "url": "https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu"
+      },
+      "artists": [
+        {
+          "name": "DVLTVN",
+          "url": "https://open.spotify.com/artist/4EjD919dnuBCJRZ9QnUagb"
+        }
+      ],
+      "duration_ms": 85514,
+      "name": "Dont.Be.Afraid.",
+      "url": "https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "poppy",
-        "url": "https://open.spotify.com/album/2KhU3J9GYoqTjmAnBQcMwg"
-      },
-      "artists": [
-        {
-          "name": "knock on wood",
-          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
-        }
-      ],
-      "duration_ms": 153291,
-      "name": "poppy",
-      "url": "https://open.spotify.com/track/2n4AwQls3F6atW1Av1sLIM"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "St. Clements",
         "url": "https://open.spotify.com/album/1XXmc02uygqHueQUYutfZZ"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 77519,
       "name": "St. Clements",
       "url": "https://open.spotify.com/track/4AzvNQcn1I4sZ2wJrW5ATq"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "poppy",
+        "url": "https://open.spotify.com/album/2KhU3J9GYoqTjmAnBQcMwg"
+      },
+      "artists": [
+        {
+          "name": "knock on wood",
+          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
+        }
+      ],
+      "duration_ms": 153291,
+      "name": "poppy",
+      "url": "https://open.spotify.com/track/2n4AwQls3F6atW1Av1sLIM"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "End Of Day Bop",
-        "url": "https://open.spotify.com/album/4qP5YOgZ9UMfjhoow8a9s2"
-      },
-      "artists": [
-        {
-          "name": "Noah Park",
-          "url": "https://open.spotify.com/artist/6dgSiYNST9AWofoxzLI9q0"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "End Of Day Bop",
-      "url": "https://open.spotify.com/track/2vVKIEmcqzNt3ZqBPP5EGV"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/766qimmxJrU3wXg0coClg9"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 79204,
       "name": "Life",
       "url": "https://open.spotify.com/track/5Pxb3DpymMiRl8JDiOXTPE"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "End Of Day Bop",
+        "url": "https://open.spotify.com/album/4qP5YOgZ9UMfjhoow8a9s2"
+      },
+      "artists": [
+        {
+          "name": "Noah Park",
+          "url": "https://open.spotify.com/artist/6dgSiYNST9AWofoxzLI9q0"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "End Of Day Bop",
+      "url": "https://open.spotify.com/track/2vVKIEmcqzNt3ZqBPP5EGV"
     },
     {
       "added_at": "2024-03-12 14:33:08",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-03-12 14:33:08",
       "album": {
-        "name": "Forest",
-        "url": "https://open.spotify.com/album/0XQ4ErI49IzOQAh7UAIkVn"
-      },
-      "artists": [
-        {
-          "name": "Cloudsurfin'",
-          "url": "https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif"
-        }
-      ],
-      "duration_ms": 119171,
-      "name": "Night Sky",
-      "url": "https://open.spotify.com/track/650q7YaIlNgEha9lB1bHY4"
-    },
-    {
-      "added_at": "2024-03-12 14:33:08",
-      "album": {
         "name": "Imaginary",
         "url": "https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 126280,
       "name": "Rose Garden",
       "url": "https://open.spotify.com/track/37I8L2Cx6PScWXn0tkN4wV"
+    },
+    {
+      "added_at": "2024-03-12 14:33:08",
+      "album": {
+        "name": "Forest",
+        "url": "https://open.spotify.com/album/0XQ4ErI49IzOQAh7UAIkVn"
+      },
+      "artists": [
+        {
+          "name": "Cloudsurfin'",
+          "url": "https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif"
+        }
+      ],
+      "duration_ms": 119171,
+      "name": "Night Sky",
+      "url": "https://open.spotify.com/track/650q7YaIlNgEha9lB1bHY4"
     },
     {
       "added_at": "2024-03-12 14:33:08",

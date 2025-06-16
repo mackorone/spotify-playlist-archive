@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,285 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,280 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 20 | [For me… formidable](https://open.spotify.com/track/1luvgfM7mLstsy2JqhXKmk) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20), [Marc Dupré](https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx), [Éric Lapointe](https://open.spotify.com/artist/3fzExoQtGmGs8w7ba2nTJc), [Alex Nevsky](https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc) | [For me… formidable \- Single](https://open.spotify.com/album/3xd8LnjV6ed93PygCbkpFQ) | 2:28 |
 | 21 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:26 |
 | 22 | [Noël brun](https://open.spotify.com/track/3b27vkCsStP9LIAiRWa8bj) | [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a) | [Les nuits de Repentigny](https://open.spotify.com/album/0XCvQlTZV9Pyp3SyyceAsc) | 4:15 |
-| 23 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 |
-| 24 | [Have Yourself A Merry Little Christmas \- Remastered 1999](https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:26 |
+| 23 | [Have Yourself A Merry Little Christmas \- Remastered 1999](https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:26 |
+| 24 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 |
 | 25 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 |
 | 26 | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Holiday Road \- Spotify Singles Holiday](https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU) | 2:05 |
 | 27 | [Somewhere Only We Know](https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU) | 3:28 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 80 | [Petit garçon](https://open.spotify.com/track/4mzJTzRomZtFDBGRbvYR1t) | [Nana Mouskouri](https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod) | [Les Plus Beaux Noels Du Monde](https://open.spotify.com/album/0ok068mhWBRbDI0ckAcDAW) | 2:49 |
 | 81 | [Noël blanc](https://open.spotify.com/track/0Ic4nb89C5IH81E6KecKpW) | [Brigitte](https://open.spotify.com/artist/3pwoLiEbkKB4c4Vj9Mzypk) | [Encore \(Bonus Album\)](https://open.spotify.com/album/5c5JnPyf5XJtCiyQeHJKGj) | 2:26 |
 | 82 | [Noël Lougawou](https://open.spotify.com/track/6YzwtfjuqeSM6fEqExcaNi) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP), [Melissa Laveaux](https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 3:28 |
-| 83 | [J'ai vu maman](https://open.spotify.com/track/7C2rBix360wLA61Al61APh) | [Ginette Reno](https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon) | [Joyeux Noël](https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT) | 3:13 |
-| 84 | [Noël au camp](https://open.spotify.com/track/4zyf5yczO1tfFoURy1ztMe) | [Tex Lecor](https://open.spotify.com/artist/0NQFAOqyEmJJi6wFoBJcek) | [Québec love : La collection](https://open.spotify.com/album/25ZA9qudDjAWVjCZw45Ci8) | 3:02 |
+| 83 | [Noël au camp](https://open.spotify.com/track/4zyf5yczO1tfFoURy1ztMe) | [Tex Lecor](https://open.spotify.com/artist/0NQFAOqyEmJJi6wFoBJcek) | [Québec love : La collection](https://open.spotify.com/album/25ZA9qudDjAWVjCZw45Ci8) | 3:02 |
+| 84 | [J'ai vu maman](https://open.spotify.com/track/7C2rBix360wLA61Al61APh) | [Ginette Reno](https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon) | [Joyeux Noël](https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT) | 3:13 |
 | 85 | [Joyeux Noël et bonne année!](https://open.spotify.com/track/10chugYLrW9d5HzLcpm0w2) | [Villeray](https://open.spotify.com/artist/3TpVDpx6jmUNyU7KqP4nYP) | [Joyeux Noël et bonne année!](https://open.spotify.com/album/2XGNMqMs4jnaNm6c2dIZAC) | 2:27 |
 | 86 | [On attendait Noël](https://open.spotify.com/track/6G8UzGYZbWTFfThhOmRudY) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [On attendait Noël](https://open.spotify.com/album/4WusiC2tPI65QpMbqUQ6GN) | 3:46 |
 | 87 | [Mon Beau Sapin](https://open.spotify.com/track/11hdqrF9lIy8OaoRxGVuYf) | [Marie Michèle Desrosiers](https://open.spotify.com/artist/6O5owguKnGHHhGE8nLBvTS) | [Marie\-Michèle Desrosiers Chante Les Classiques De Noël](https://open.spotify.com/album/1odCUBL4jmgCOxkK0axxNV) | 3:09 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 96 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/2hDMG2AP8qOOEzkV01wiNS) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/3IHAcppXJFjkNRyz3XngKB) | 3:34 |
 | 97 | [Le ciel était blanc](https://open.spotify.com/track/7gbD4p5u9NXeJWX919ZZOZ) | [Mirabelle](https://open.spotify.com/artist/7ccDEQF3klS28iA5TI3b6m), [Laurence Hélie](https://open.spotify.com/artist/1TazAmJyAWviNg6dPC6JcE) | [Le ciel était blanc / Ribbons](https://open.spotify.com/album/4eAw0GsaNZm3bGfgUUvzi1) | 4:26 |
 | 98 | [Trois anges](https://open.spotify.com/track/0CEf5RUrI8lymsEXxQlMZG) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Trois anges](https://open.spotify.com/album/5v4av8x3cutGER7uiU69ZK) | 3:40 |
-| 99 | [Jolis sapins](https://open.spotify.com/track/6qH7KJZXbfjmTlz0d18R7n) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx), [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Noël ! Noël !! Noël !!!](https://open.spotify.com/album/2rbYdy6TGghrdNWbCkqAIK) | 4:02 |
-| 100 | [La nuit de Noël](https://open.spotify.com/track/5nMtJWNUVjVqI4IgMzS7Ja) | [Sally Folk](https://open.spotify.com/artist/3nYYNAjiUnXUKQZ5qrcrrr) | [La nuit de Noël](https://open.spotify.com/album/2OsOErxzgnuqi0r2K9YuxO) | 3:10 |
+| 99 | [La nuit de Noël](https://open.spotify.com/track/5nMtJWNUVjVqI4IgMzS7Ja) | [Sally Folk](https://open.spotify.com/artist/3nYYNAjiUnXUKQZ5qrcrrr) | [La nuit de Noël](https://open.spotify.com/album/2OsOErxzgnuqi0r2K9YuxO) | 3:10 |
+| 100 | [Baby It's Cold Outside](https://open.spotify.com/track/2geS45BIgEJ8JTU1qrWG1F) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi), [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [Baby It's Cold Outside](https://open.spotify.com/album/0RXHs2gYhQUTaA6x7RIWGJ) | 2:37 |
 
 Snapshot ID: `Z1xjcgAAAAB7QOXwJxbCdz/LfLVTYip7`

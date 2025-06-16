@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > padrin pepito e coyote com AULAS chamando na relíquia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,170,638 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,170,492 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Sensação de Liberdade](https://open.spotify.com/track/5Mlq6dGC4QUk8p07HLxsMt) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Rocco](https://open.spotify.com/artist/06NDDonUGSC7qknse3ZpoP) | [Eu Ainda Tenho Coração](https://open.spotify.com/album/2BWuEcfvGCiIaqwb0HTqFm) | 2:58 |
 | 50 | [OUTRA REALIDADE](https://open.spotify.com/track/28DVvFIEB1NAYcxKL65oMl) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Cris SNJ](https://open.spotify.com/artist/69qkC8x2DGT4yjuwXNFQPf), [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Nega Gizza](https://open.spotify.com/artist/3oiQITN04AtBYNL1vRvAZy), [DJ Negrito](https://open.spotify.com/artist/7moCvonQ3XMZVzrlsTK4K1) | [OUTRA REALIDADE](https://open.spotify.com/album/0HmLrWoCZvc4d2Cz0cB4Jq) | 4:24 |
 
-Snapshot ID: `AAAAAEhpmG9WiPn5tIPUPKJN1soiz7Hf`
+Snapshot ID: `aExHkQAAAAD/oL4V/2b1Wvj8yA19v0I4`

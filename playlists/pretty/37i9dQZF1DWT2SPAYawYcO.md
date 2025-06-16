@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from King Gizzard & The Lizard Wizard, ONEFOUR, The Kid LAROI, Imogen Heap, Mark Ronson, Raye + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,897 likes - 88 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,899 likes - 88 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 87 | [So Sweet, So Sublime](https://open.spotify.com/track/0gvSB4JsWyhx7XnWywESBG) | [Wet Bandits](https://open.spotify.com/artist/5kTUCytvCuMBh7LG1xZHFc) | [So Sweet, So Sublime](https://open.spotify.com/album/1DBoZKxfb0jYC3YWC6JSyJ) | 4:19 |
 | 88 | [Keep On Keeping On](https://open.spotify.com/track/6slN1qecSOImyahsP3Z8Mu) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Keep On Keeping On](https://open.spotify.com/album/0kivW345iYRWhl8LYC2PC0) | 4:28 |
 
-Snapshot ID: `aEtXwwAAAABOgtkIiEk6BGCC/uh7i6xQ`
+Snapshot ID: `aE9gtAAAAADk5HetIoroMExN9VPwXxSg`

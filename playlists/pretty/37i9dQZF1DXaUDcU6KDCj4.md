@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Mon Rovîa
 
-[Spotify](https://open.spotify.com/user/spotify) - 851,366 likes - 150 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 851,330 likes - 150 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Tardigrade Love](https://open.spotify.com/track/5ndmNZUeojUHvSPuBG6rDh) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Tardigrade Love](https://open.spotify.com/album/2q92o3TPwD1GmZohxc7VZn) | 3:38 |
 | 150 | [How Easy](https://open.spotify.com/track/2ZX6IPeuz6N2TTQpxhXC7l) | [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [How Easy](https://open.spotify.com/album/6AXNl7ykSbrqy72f6zKWCH) | 3:33 |
 
-Snapshot ID: `aEuidAAAAABCO722Ubf7P4C5nBPV98CZ`
+Snapshot ID: `aEuidAAAAAB/cBG7m5KVw6QJ3QncsbOx`

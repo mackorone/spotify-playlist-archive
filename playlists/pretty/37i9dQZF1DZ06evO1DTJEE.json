@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 54372,
+  "num_followers": 54413,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAD2byEKtdWSFa6+d9ml4qfG",
+  "snapshot_id": "aEy7gAAAAACow+e/QrvloT98YzlyI9pm",
   "tracks": [
     {
       "added_at": null,
@@ -647,6 +647,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Broken Branches",
+        "url": "https://open.spotify.com/album/28VlYkYjNd6Bs8bIl69BW8"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "John Anderson",
+          "url": "https://open.spotify.com/artist/5ZFCSzNuSiixgVlsEXG0gz"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "Broken Branches (feat. John Anderson, Riley Green)",
+      "url": "https://open.spotify.com/track/2lt1wErcai6RBy0VdO2NkZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blue In The Sky",
         "url": "https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3"
       },
@@ -715,30 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broken Branches",
-        "url": "https://open.spotify.com/album/28VlYkYjNd6Bs8bIl69BW8"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        },
-        {
-          "name": "John Anderson",
-          "url": "https://open.spotify.com/artist/5ZFCSzNuSiixgVlsEXG0gz"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 197280,
-      "name": "Broken Branches (feat. John Anderson, Riley Green)",
-      "url": "https://open.spotify.com/track/2lt1wErcai6RBy0VdO2NkZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Hope She\u2019s Drinkin' Tonight / Get Back Home",
         "url": "https://open.spotify.com/album/4Q1aVUAcdCKiEUW5uTpYVl"
       },
@@ -751,6 +751,26 @@
       "duration_ms": 183318,
       "name": "Get Back Home",
       "url": "https://open.spotify.com/track/14t327yyQ4aXGXiPUnSWUK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If It Wasn't For Trucks",
+        "url": "https://open.spotify.com/album/6KwbEegYFIlCEhjaIIE3IH"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Randy Owen",
+          "url": "https://open.spotify.com/artist/7ApjMfT8P3bcePl99oKYFP"
+        }
+      ],
+      "duration_ms": 231466,
+      "name": "Better Than Me",
+      "url": "https://open.spotify.com/track/78GzKUvv47KVd9VT0UZv77"
     },
     {
       "added_at": null,
@@ -787,22 +807,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "If It Wasn't For Trucks",
-        "url": "https://open.spotify.com/album/6KwbEegYFIlCEhjaIIE3IH"
+        "name": "Miles On Main / Wild Woman",
+        "url": "https://open.spotify.com/album/1wwjlUmksFWlxgMiQrc4Gp"
       },
       "artists": [
         {
           "name": "Riley Green",
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        },
-        {
-          "name": "Randy Owen",
-          "url": "https://open.spotify.com/artist/7ApjMfT8P3bcePl99oKYFP"
         }
       ],
-      "duration_ms": 231466,
-      "name": "Better Than Me",
-      "url": "https://open.spotify.com/track/78GzKUvv47KVd9VT0UZv77"
+      "duration_ms": 202167,
+      "name": "Miles On Main",
+      "url": "https://open.spotify.com/track/3f8UChU4rRcFLMP4r8Fhi6"
     },
     {
       "added_at": null,
@@ -819,22 +835,6 @@
       "duration_ms": 207360,
       "name": "North On 21",
       "url": "https://open.spotify.com/track/0wQCiHAgUJdlBdRtdrnLFK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Miles On Main / Wild Woman",
-        "url": "https://open.spotify.com/album/1wwjlUmksFWlxgMiQrc4Gp"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 202167,
-      "name": "Miles On Main",
-      "url": "https://open.spotify.com/track/3f8UChU4rRcFLMP4r8Fhi6"
     },
     {
       "added_at": null,

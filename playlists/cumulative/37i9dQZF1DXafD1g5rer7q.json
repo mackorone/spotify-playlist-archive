@@ -81,6 +81,28 @@
     },
     {
       "album": {
+        "name": "A Better World",
+        "url": "https://open.spotify.com/album/3hAcZ5awmnV1zc2P3WNSzr"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "date_added": "2025-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172606,
+      "name": "A Better World",
+      "url": "https://open.spotify.com/track/7tCXmtYrYNFWMa7vyQfuAI"
+    },
+    {
+      "album": {
         "name": "Adrenaline Rush (feat. MORGAN)",
         "url": "https://open.spotify.com/album/49MtrlNhaTuqn3C1QGrU0c"
       },
@@ -792,7 +814,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 203225,
       "name": "Creep",
       "url": "https://open.spotify.com/track/7CEIFwLf4XmFz8okORSizE"

@@ -1,12 +1,12 @@
 {
   "description": "This is Rihanna. The essential tracks, all in one playlist.",
-  "num_followers": 3164403,
+  "num_followers": 3164424,
   "original_name": "This Is Rihanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAABAMz8pQuQ+lh4/jTc09tT5",
+  "snapshot_id": "aEy7gAAAAACRavXXNvB4FLwpZbIW/v4T",
   "tracks": [
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Girl Like Me",
-        "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 226973,
-      "name": "Unfaithful",
-      "url": "https://open.spotify.com/track/13xxBnXOuiBxVxJI458B0i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 263373,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/3BtuIIrQlkujKPuWF2B85z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Girl Like Me",
+        "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 226973,
+      "name": "Unfaithful",
+      "url": "https://open.spotify.com/track/13xxBnXOuiBxVxJI458B0i"
     },
     {
       "added_at": null,

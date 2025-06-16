@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-451 songs - 23 hr 43 min
+453 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Beatrice](https://open.spotify.com/track/0En2k1h4ql8cmyFeSuqIIS) | [The Toxhards](https://open.spotify.com/artist/6LOm4xDQLq8kmcRaZIzB2s) | [Beatrice](https://open.spotify.com/album/4JNzKKGci7XpmIptgPoCic) | 2:43 | 2025-02-10 | 2025-02-17 |
 | [Ben & Jerry](https://open.spotify.com/track/2sg5fd4wF4r6NKMj9Zm3Rr) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Ben & Jerry](https://open.spotify.com/album/1Hn5Rbk7431cLlGNQw32Cj) | 2:38 | 2022-06-06 | 2022-07-29 |
 | [Best of Me](https://open.spotify.com/track/022KUgS0Q5c3MTePafMLai) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Best of Me](https://open.spotify.com/album/3oASV6tuBSN9tpImtPJO3U) | 3:33 | 2022-06-06 | 2022-07-29 |
+| [Big Ol' Hammer](https://open.spotify.com/track/0KC3gdNQmZcNmGUJg4iXEV) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Big Ol' Hammer](https://open.spotify.com/album/6tnp1KpDg5ZCAxkHnk3hhX) | 2:27 | 2025-06-15 |  |
 | [Bite Me](https://open.spotify.com/track/4bNa2MHnPB7zckROAHh8mR) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bite Me](https://open.spotify.com/album/6DgueXg1ArV74AlVJArLSv) | 2:39 | 2022-06-06 | 2022-06-25 |
 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 | 2022-07-25 | 2023-01-17 |
 | [Black And White](https://open.spotify.com/track/7rpNuuoMbid56XkDsx2FjE) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:13 | 2022-06-06 |  |
@@ -214,7 +215,7 @@
 | [In My Head](https://open.spotify.com/track/1yc5LZHmb4HMkRNTWRmjSt) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [In My Head](https://open.spotify.com/album/1akIArJX3OYAgf9xCcPVA1) | 3:39 | 2023-05-15 | 2023-05-23 |
 | [Internet Official](https://open.spotify.com/track/15tD9GvqAyY15buCuUa2IK) | [CRAY](https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K) | [Internet Official](https://open.spotify.com/album/4tkSjaAxhfsUCG67qqpgeY) | 2:25 | 2023-05-01 | 2023-05-09 |
 | [Invincible \- from Kaiju No\. 8](https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Invincible \(from Kaiju No\. 8\)](https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p) | 2:35 | 2025-04-21 |  |
-| [Irrelevant](https://open.spotify.com/track/5Oz15cyQP3TMDDXKWm4tYH) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Irrelevant](https://open.spotify.com/album/02wEEiMLBV64tAhyPCtD4J) | 3:52 | 2022-07-25 |  |
+| [Irrelevant](https://open.spotify.com/track/5Oz15cyQP3TMDDXKWm4tYH) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Irrelevant](https://open.spotify.com/album/02wEEiMLBV64tAhyPCtD4J) | 3:52 | 2022-07-25 | 2025-06-16 |
 | [It Could've Been You](https://open.spotify.com/track/5eQAybRCE1L1YgPgu6n6UG) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [It Could've Been You](https://open.spotify.com/album/1fz0TnFIf2lhouk219X1mt) | 3:35 | 2023-10-02 | 2023-10-10 |
 | [It Is What It Is](https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 2:05 | 2022-06-06 |  |
 | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/track/0D4yVl9Pn45xW2s63MFCmT) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/album/5idWJVJgo5Wa7wFGsB3Kjj) | 4:08 | 2022-06-27 | 2022-07-16 |
@@ -247,7 +248,7 @@
 | [Let's Jam](https://open.spotify.com/track/7y0xNkes5vdQXLCzmcTlGm) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Vai/Gash](https://open.spotify.com/album/4Hv4iR1M5Bh1KlZ3J6fJOe) | 4:19 | 2023-01-30 | 2023-02-07 |
 | [Let's Love](https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Let's Love](https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr) | 3:20 | 2022-07-25 |  |
 | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/track/3CGAtMSboRN65Jo4wb3eOH) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/album/1Z63CEuNOQf5UIZ1LoI9fP) | 2:54 | 2023-08-07 | 2023-08-15 |
-| [Lighthouse](https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lighthouse](https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S) | 3:11 | 2024-01-22 |  |
+| [Lighthouse](https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lighthouse](https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S) | 3:11 | 2024-01-22 | 2025-06-16 |
 | [Little Bit of Love](https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Little Bit of Love](https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2) | 3:46 | 2022-06-13 |  |
 | [Little Things](https://open.spotify.com/track/5t8TV1U5vmKL5UIQo5pNtN) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Troubleshooting](https://open.spotify.com/album/26ogXm7X0kUSidtoaQVBei) | 3:32 | 2024-05-06 | 2024-06-17 |
 | [Living Proof](https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Living Proof](https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA) | 3:39 | 2024-05-20 | 2024-07-07 |
@@ -278,6 +279,7 @@
 | [Micro Aggression](https://open.spotify.com/track/0AoVDlD4Da25HVGUpM0liK) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Micro Aggression](https://open.spotify.com/album/22keIGmNhJW6JnSN0beV4z) | 2:37 | 2023-02-14 | 2023-02-21 |
 | [Midnight](https://open.spotify.com/track/3uTdOMyG1ixtUxdtspkngM) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Midnight](https://open.spotify.com/album/4JheIQU7B3Fb8pCld4z5iB) | 3:48 | 2022-09-26 | 2022-10-04 |
 | [Mile Away](https://open.spotify.com/track/4ZwJ25jbonqnzlYTB89aQK) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Mile Away](https://open.spotify.com/album/3jWJ0eFI78vTuyZwNpZfrD) | 3:26 | 2024-04-15 | 2024-04-22 |
+| [Mine, Lord Willing](https://open.spotify.com/track/31LdGmDGKm1GWuLX4bLkqo) | [Pynk Beard](https://open.spotify.com/artist/7arsY1oYkvANg3CNAxdp9Y) | [Mine, Lord Willing](https://open.spotify.com/album/6tzOBUB8YWLKWkDzNYuBZL) | 2:19 | 2025-06-15 |  |
 | [Mixed Emotions \(I Didn't Know How To Tell You What I Was Going Through\)](https://open.spotify.com/track/5tsBGhl0yosGxoj992WtjJ) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Mixed Emotions \(I Didn't Know How To Tell You What I Was Going Through\)](https://open.spotify.com/album/3iGGzFgQvqNXc9E6Qnyvol) | 4:09 | 2022-10-25 | 2022-11-01 |
 | [MMMBop 2.0](https://open.spotify.com/track/3lngW7QTDn2ZsWTuRgGyIT) | [Busted](https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj), [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [MMMBop 2.0](https://open.spotify.com/album/3D4ChwgtoX9oOTKf7YenFP) | 2:56 | 2023-05-29 | 2023-06-06 |
 | [Modern Love](https://open.spotify.com/track/4Qjv4VFulw2xS9P5EVLvOp) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Modern Love](https://open.spotify.com/album/4q5GY0DRqSNEOb3n3JCigy) | 3:14 | 2023-02-21 | 2023-02-28 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAB31Cu3w/BhH/ILKjY8dGNy",
+  "snapshot_id": "aEy7gAAAAAD5tGUlU1MZXqllDyuxsQ3c",
   "tracks": [
     {
       "added_at": null,
@@ -503,22 +503,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "MHSTD",
-        "url": "https://open.spotify.com/album/7BBWxe16ztpNQsT1s2aT7D"
+        "name": "Banana Split (with YNW Melly feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/3QWBKAttGO0ONYIcsDHBW4"
       },
       "artists": [
         {
-          "name": "Bay Swag",
-          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
-        },
-        {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 159970,
-      "name": "MHSTD",
-      "url": "https://open.spotify.com/track/1DSGtRk2T5beu0zoTtAwny"
+      "duration_ms": 192968,
+      "name": "Banana Split (with YNW Melly feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/57Lw4YmOvpighLOnwqiuKr"
     },
     {
       "added_at": null,
@@ -563,26 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banana Split (with YNW Melly feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/3QWBKAttGO0ONYIcsDHBW4"
+        "name": "MHSTD",
+        "url": "https://open.spotify.com/album/7BBWxe16ztpNQsT1s2aT7D"
       },
       "artists": [
         {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        },
+        {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "YNW Melly",
-          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 192968,
-      "name": "Banana Split (with YNW Melly feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/57Lw4YmOvpighLOnwqiuKr"
+      "duration_ms": 159970,
+      "name": "MHSTD",
+      "url": "https://open.spotify.com/track/1DSGtRk2T5beu0zoTtAwny"
     },
     {
       "added_at": null,

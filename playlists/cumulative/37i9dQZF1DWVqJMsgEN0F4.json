@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Pulp along with the hottest alternative songs right now.\n",
+  "description": "Kevin Abstract along with the hottest alternative songs right now.\n",
   "name": "ALT NOW",
   "tracks": [
     {
@@ -930,7 +930,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 171200,
       "name": "Archbishop Harold Holmes",
       "url": "https://open.spotify.com/track/0hIYrRFTLlG8pRjAn9tW4P"
@@ -2142,7 +2142,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 203490,
       "name": "Bullseye (with Hozier)",
       "url": "https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9"
@@ -4696,10 +4696,32 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 123464,
       "name": "Fuck Off",
       "url": "https://open.spotify.com/track/52L8TAHmnao8FWoMiOj9hZ"
+    },
+    {
+      "album": {
+        "name": "Geezer",
+        "url": "https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169776,
+      "name": "Geezer",
+      "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
     },
     {
       "album": {
@@ -9206,7 +9228,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 213283,
       "name": "Nothing I Need",
       "url": "https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4"
@@ -10144,6 +10166,24 @@
       "duration_ms": 201467,
       "name": "Pink Skies",
       "url": "https://open.spotify.com/track/43Ka2d0YZZlOzVGwf96xNw"
+    },
+    {
+      "album": {
+        "name": "Piranha",
+        "url": "https://open.spotify.com/album/4VEd0SDgR3oRQZHz8fgCa4"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Piranha",
+      "url": "https://open.spotify.com/track/3CsNQEi0aX88xnSVkWUH3i"
     },
     {
       "album": {
@@ -11616,6 +11656,24 @@
       "duration_ms": 197542,
       "name": "Silverlines - prod. Labrinth",
       "url": "https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol"
+    },
+    {
+      "album": {
+        "name": "Sinking Feeling",
+        "url": "https://open.spotify.com/album/1BfIqHOVWRBcqzUUc4jIey"
+      },
+      "artists": [
+        {
+          "name": "LEAP",
+          "url": "https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227529,
+      "name": "Sinking Feeling",
+      "url": "https://open.spotify.com/track/3lTj6VhUedrKhpCsw5Rnbb"
     },
     {
       "album": {
@@ -13106,6 +13164,24 @@
       "duration_ms": 181938,
       "name": "The Bridge",
       "url": "https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD"
+    },
+    {
+      "album": {
+        "name": "The Contract",
+        "url": "https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "The Contract",
+      "url": "https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG"
     },
     {
       "album": {

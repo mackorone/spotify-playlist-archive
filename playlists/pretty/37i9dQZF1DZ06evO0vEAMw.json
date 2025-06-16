@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 94175,
+  "num_followers": 94192,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAAvkLybBjyxUsjWE4XLOTlK",
+  "snapshot_id": "aEy7gAAAAACPkK38yULqepYLWelNC4QM",
   "tracks": [
     {
       "added_at": null,
@@ -130,11 +130,19 @@
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
         }
       ],
-      "duration_ms": 136755,
-      "name": "10 Kilo",
-      "url": "https://open.spotify.com/track/2IOMDdgUZfjlsPYXGeeoaH"
+      "duration_ms": 206948,
+      "name": "Funds (feat. ODUMODUBLVCK & Chike)",
+      "url": "https://open.spotify.com/track/6zZixF6uYbtG8uiNzDO2LH"
     },
     {
       "added_at": null,
@@ -210,15 +218,11 @@
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 189071,
-      "name": "Offa Me (feat. Victoria Mon\u00e9t)",
-      "url": "https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA"
+      "duration_ms": 136755,
+      "name": "10 Kilo",
+      "url": "https://open.spotify.com/track/2IOMDdgUZfjlsPYXGeeoaH"
     },
     {
       "added_at": null,
@@ -292,17 +296,13 @@
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 206948,
-      "name": "Funds (feat. ODUMODUBLVCK & Chike)",
-      "url": "https://open.spotify.com/track/6zZixF6uYbtG8uiNzDO2LH"
+      "duration_ms": 189071,
+      "name": "Offa Me (feat. Victoria Mon\u00e9t)",
+      "url": "https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA"
     },
     {
       "added_at": null,
@@ -483,6 +483,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Still The Mayor",
+        "url": "https://open.spotify.com/album/0Ev8VZe0x9bTzf55gVQNeR"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "Blessings On Blessings (B.O.B) (feat. Davido)",
+      "url": "https://open.spotify.com/track/0mjYhFrdVxmcKGW96pW5zS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aye",
         "url": "https://open.spotify.com/album/2XqFAn4dRXjHOAQnslNR8s"
       },
@@ -651,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ"
       },
@@ -671,18 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like Dat",
-        "url": "https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM"
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
       "artists": [
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7"
+      "duration_ms": 199173,
+      "name": "Blow My Mind",
+      "url": "https://open.spotify.com/track/3MYG7lZANqw54i2Du7Y0WN"
     },
     {
       "added_at": null,
@@ -715,26 +755,6 @@
       "duration_ms": 263683,
       "name": "Yebo",
       "url": "https://open.spotify.com/track/3GLF4uV3uS1ImSEPyhLZLp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 199173,
-      "name": "Blow My Mind",
-      "url": "https://open.spotify.com/track/3MYG7lZANqw54i2Du7Y0WN"
     },
     {
       "added_at": null,
@@ -779,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still The Mayor",
-        "url": "https://open.spotify.com/album/0Ev8VZe0x9bTzf55gVQNeR"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "Blessings On Blessings (B.O.B) (feat. Davido)",
-      "url": "https://open.spotify.com/track/0mjYhFrdVxmcKGW96pW5zS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
@@ -815,6 +815,26 @@
       "duration_ms": 171724,
       "name": "The Best (feat. Mayorkun)",
       "url": "https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ada",
+        "url": "https://open.spotify.com/album/0jjnnEjMF5hoydjQeT8jky"
+      },
+      "artists": [
+        {
+          "name": "Ecool",
+          "url": "https://open.spotify.com/artist/6JR1ZXP9TnnNSPb1hgIYt2"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 183335,
+      "name": "Ada",
+      "url": "https://open.spotify.com/track/3WMpfOFiAvYnLeqhCT67EN"
     },
     {
       "added_at": null,
@@ -851,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ada",
-        "url": "https://open.spotify.com/album/0jjnnEjMF5hoydjQeT8jky"
-      },
-      "artists": [
-        {
-          "name": "Ecool",
-          "url": "https://open.spotify.com/artist/6JR1ZXP9TnnNSPb1hgIYt2"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 183335,
-      "name": "Ada",
-      "url": "https://open.spotify.com/track/3WMpfOFiAvYnLeqhCT67EN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
@@ -891,26 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "D & G (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Doe",
         "url": "https://open.spotify.com/album/61T8t21pCXXAwBb1b5UHJP"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 242886,
       "name": "Doe",
       "url": "https://open.spotify.com/track/5BGDsaokGCwQ9OpeVy0MUs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "D & G (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7"
     },
     {
       "added_at": null,

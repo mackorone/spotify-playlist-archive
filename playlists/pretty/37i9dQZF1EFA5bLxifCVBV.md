@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115 likes - 188 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 116 likes - 188 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 133 | [Jump Little Chillun'](https://open.spotify.com/track/6CMUjymlod20BbHTYxFD7n) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 1:41 |
 | 134 | [All the Elks and Masons](https://open.spotify.com/track/4tE4IU3mjgUx0EIV4kxSuk) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA), [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA), [Ira Gershwin](https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV), [Christopher Fitzgerald](https://open.spotify.com/artist/1Yq9Q4bPuxh1N4wtIEXyII), [Jessica Stone](https://open.spotify.com/artist/7LqVU6rPQIAyrXa693LBvA), [Life Begins At 8:40 Ensemble](https://open.spotify.com/artist/572zWa1Ubku0cS0mWaFWNx) | [Life Begins at 8:40](https://open.spotify.com/album/0pMUpjTUpcNkLMpar7D5fo) | 3:02 |
 | 135 | [No More Flahooleys](https://open.spotify.com/track/6rwk0Bt1R8cAxA1cdpM0VQ) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 0:54 |
-| 136 | [How Do You Do It?](https://open.spotify.com/track/2CG3acTynVaJNismnFQG0n) | [Harlan Lattimore](https://open.spotify.com/artist/6duMdRTLHOSiawChnRsoqc) | [Art Deco Series: The Crooners](https://open.spotify.com/album/7aUYCMmg4f2QC2wTdRfPsw) | 3:15 |
-| 137 | [Silent Spring](https://open.spotify.com/track/0QbwCYoLekb2Ghg2uL0no9) | [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [24K Pure Gold: Lena Horne](https://open.spotify.com/album/4J9ADhuUlC09iw50uiS0Q7) | 2:45 |
+| 136 | [Silent Spring](https://open.spotify.com/track/0QbwCYoLekb2Ghg2uL0no9) | [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [24K Pure Gold: Lena Horne](https://open.spotify.com/album/4J9ADhuUlC09iw50uiS0Q7) | 2:45 |
+| 137 | [How Do You Do It?](https://open.spotify.com/track/2CG3acTynVaJNismnFQG0n) | [Harlan Lattimore](https://open.spotify.com/artist/6duMdRTLHOSiawChnRsoqc) | [Art Deco Series: The Crooners](https://open.spotify.com/album/7aUYCMmg4f2QC2wTdRfPsw) | 3:15 |
 | 138 | [Consternation](https://open.spotify.com/track/61plzvIApD4JcK824d9UMx) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:53 |
 | 139 | [Bloomer Girl Overture](https://open.spotify.com/track/5rH5Y26ZWq14brmeUL6NJt) | [Another Openin', Another Show Orchestra](https://open.spotify.com/artist/70TiD7tn30uQUswL0Sr1jm), [Lehman Engel](https://open.spotify.com/artist/6uq6cUwOJmgO50qP4hIrTr) | [Another Openin', Another Show: Broadway Overtures](https://open.spotify.com/album/4YfCRaFUIGyxr7XVnqjLWP) | 5:53 |
 | 140 | [Five Minutes of Spring](https://open.spotify.com/track/5z5SPHiG3Nbt7HlrFGXQJj) | [Bruce Yarnell](https://open.spotify.com/artist/71f1m1S8hZ0J0ofpB050Vi) | [The Happiest Girl in the World \(Original Broadway Cast Recording\)](https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C) | 1:43 |
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 187 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
 | 188 | [Intro to Necessity](https://open.spotify.com/track/7BiVEwi5DvPSFb8Z2WE518) | [David Staller](https://open.spotify.com/artist/3NZQn55ReTcDxkdftWW1Az), [Terri White](https://open.spotify.com/artist/79Gxi9msUDwqFtEvocmAJN) | [Finian's Rainbow \(Irish Repertory Theatre Cast Recording\)](https://open.spotify.com/album/1MmpLk5yBwgHevhiGh3FVB) | 0:27 |
 
-Snapshot ID: `Ab0JkgAAAAAJhLjLcc3U1kpna8m9LkiC`
+Snapshot ID: `Ab0PMwAAAABn+T5ofMsM9I9hVXm/+cMn`

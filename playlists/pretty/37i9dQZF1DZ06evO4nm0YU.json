@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 174739,
+  "num_followers": 174806,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAABYwj0All0m72Gf6j1Yjhe0",
+  "snapshot_id": "aEy7gAAAAABIACS+IHe2+5g/Meeu+Eb/",
   "tracks": [
     {
       "added_at": null,
@@ -891,6 +891,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00a1Que Sentimiento!",
+        "url": "https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 366586,
+      "name": "\u00c9l Son",
+      "url": "https://open.spotify.com/track/7EN7Hl5S3UHMtK3eDUaMFc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dia De Ayer",
         "url": "https://open.spotify.com/album/5CjN1hidT7zC2QhMy6gyfI"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 206827,
       "name": "Dia De Ayer",
       "url": "https://open.spotify.com/track/2UmblzGZJ9L39cGBamLhgs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00a1Que Sentimiento!",
-        "url": "https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 366586,
-      "name": "\u00c9l Son",
-      "url": "https://open.spotify.com/track/7EN7Hl5S3UHMtK3eDUaMFc"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 711225,
+  "num_followers": 711203,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Between The Bars (EP)",
-        "url": "https://open.spotify.com/album/3N99UWfASH8iTQqGoFV7q5"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 259920,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/4zzi2eD2cEPpQ3a307mPPj"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "I Can Help",
         "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 218225,
       "name": "I Can Help",
       "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Between The Bars (EP)",
+        "url": "https://open.spotify.com/album/3N99UWfASH8iTQqGoFV7q5"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 259920,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/4zzi2eD2cEPpQ3a307mPPj"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
-      },
-      "artists": [
-        {
-          "name": "Rachel Brown",
-          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "I Wanna Dance with Somebody",
-      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Barton Hollow",
         "url": "https://open.spotify.com/album/3GtyVMEnfmc3rl8pTYBJqi"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 185053,
       "name": "Dance Me to the End of Love - Bonus",
       "url": "https://open.spotify.com/track/68KCwQ2PNKNT17sEx32DEG"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
+      },
+      "artists": [
+        {
+          "name": "Rachel Brown",
+          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "I Wanna Dance with Somebody",
+      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Vignettes",
-        "url": "https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ"
-      },
-      "artists": [
-        {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
-        }
-      ],
-      "duration_ms": 256798,
-      "name": "My City of Ruins",
-      "url": "https://open.spotify.com/track/22NL5h9eOZqVeBRLrRgMJk"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Ben Folds Live",
         "url": "https://open.spotify.com/album/2DgQmqmJ5PH34rErXoUhK8"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 323600,
       "name": "Tiny Dancer - Live at Newport Music Festival, Newport, RI - July 2002",
       "url": "https://open.spotify.com/track/6QMujKWzo7QpC39f7M9tzV"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Vignettes",
+        "url": "https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ"
+      },
+      "artists": [
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "duration_ms": 256798,
+      "name": "My City of Ruins",
+      "url": "https://open.spotify.com/track/22NL5h9eOZqVeBRLrRgMJk"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Mercy Mercy Me (The Ecology)",
-        "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 190885,
-      "name": "Mercy Mercy Me (The Ecology)",
-      "url": "https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Won't You Be My Neighbor? (A Benefit For Refugee Aid)",
         "url": "https://open.spotify.com/album/7mr65EthWJRSzJ6AvoIj3S"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 192927,
       "name": "I Won't Back Down",
       "url": "https://open.spotify.com/track/0ty4f4slQKbXZnPrcHWHsu"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Mercy Mercy Me (The Ecology)",
+        "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 190885,
+      "name": "Mercy Mercy Me (The Ecology)",
+      "url": "https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "The Times They Are A-Changin\u2019 (Performance Version)",
-        "url": "https://open.spotify.com/album/78XZBuGwbg9DtB95S95dJ6"
-      },
-      "artists": [
-        {
-          "name": "Dillon James",
-          "url": "https://open.spotify.com/artist/5bdPShbvAASQjO3mIMOWRR"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "The Times They Are A-Changin\u2019 - Performance Version",
-      "url": "https://open.spotify.com/track/03ob02uf5cOtDGQe7U9SYE"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Common People",
         "url": "https://open.spotify.com/album/1XM4qAth5mhPmlpUJQcKlg"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 243750,
       "name": "Common People",
       "url": "https://open.spotify.com/track/0RA1JKkRycZg27V6o70lf7"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "The Times They Are A-Changin\u2019 (Performance Version)",
+        "url": "https://open.spotify.com/album/78XZBuGwbg9DtB95S95dJ6"
+      },
+      "artists": [
+        {
+          "name": "Dillon James",
+          "url": "https://open.spotify.com/artist/5bdPShbvAASQjO3mIMOWRR"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "The Times They Are A-Changin\u2019 - Performance Version",
+      "url": "https://open.spotify.com/track/03ob02uf5cOtDGQe7U9SYE"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Every Breath You Take (feat. Liza Anne)",
         "url": "https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh"
       },
@@ -1747,22 +1763,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "7\" Singles",
         "url": "https://open.spotify.com/album/7JE9DRRB2m7IG1lvlztQ8q"
       },
@@ -1775,6 +1775,22 @@
       "duration_ms": 206896,
       "name": "This Must Be the Place (Naive Melody) [by Talking Heads]",
       "url": "https://open.spotify.com/track/0udJrKQOgJz6TwZXuhi7IM"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "With A Little Help From My Friends",
+        "url": "https://open.spotify.com/album/3C5cW9dAz11OXXsavHNR7N"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "duration_ms": 312173,
+      "name": "With A Little Help From My Friends",
+      "url": "https://open.spotify.com/track/1yOPFin76ojxOnecsV3v81"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1811,22 +1827,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "With A Little Help From My Friends",
-        "url": "https://open.spotify.com/album/3C5cW9dAz11OXXsavHNR7N"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        }
-      ],
-      "duration_ms": 312173,
-      "name": "With A Little Help From My Friends",
-      "url": "https://open.spotify.com/track/1yOPFin76ojxOnecsV3v81"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Mr. Sandman",
         "url": "https://open.spotify.com/album/2fdSGlrhEbkEC9an1uPg9b"
       },
@@ -1843,18 +1843,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Drain The Blood b/w Eye Of The Tiger",
-        "url": "https://open.spotify.com/album/3ERhhl10nW1ixfxezvCCm7"
+        "name": "Sweet Child o\u2019 Mine",
+        "url": "https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7"
       },
       "artists": [
         {
-          "name": "The Rural Alberta Advantage",
-          "url": "https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23"
+          "name": "Taken By Trees",
+          "url": "https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN"
         }
       ],
-      "duration_ms": 180866,
-      "name": "Eye of the Tiger",
-      "url": "https://open.spotify.com/track/7bqtShG4VYS372JEtHLXRp"
+      "duration_ms": 302880,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z"
     }
   ],
   "unique_name": "Classic Covers",

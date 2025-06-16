@@ -12269,6 +12269,24 @@
     },
     {
       "album": {
+        "name": "Ha Wlidi",
+        "url": "https://open.spotify.com/album/4tJC2QnYjmkTQPJ6tyhDXQ"
+      },
+      "artists": [
+        {
+          "name": "Jaylann",
+          "url": "https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg"
+        }
+      ],
+      "date_added": "2025-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167111,
+      "name": "Ha Wlidi",
+      "url": "https://open.spotify.com/track/0LEk8LeOeBQ5pODPernnPP"
+    },
+    {
+      "album": {
         "name": "Habeel",
         "url": "https://open.spotify.com/album/7DWnM9EKQ12gwBMI6jHCBJ"
       },
@@ -18264,7 +18282,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 160824,
       "name": "L\u2019appel V2",
       "url": "https://open.spotify.com/track/4wnqyUswpvK48T8LkfV75J"
@@ -19924,7 +19942,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 201758,
       "name": "Melina",
       "url": "https://open.spotify.com/track/0qFlboEpOSiM1WuEEBhH7f"
@@ -22936,7 +22954,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-03",
+      "date_removed": null,
       "duration_ms": 270000,
       "name": "Obligaci\u00f3n",
       "url": "https://open.spotify.com/track/2OkDSD6ZTzHGgYF4j10c0m"

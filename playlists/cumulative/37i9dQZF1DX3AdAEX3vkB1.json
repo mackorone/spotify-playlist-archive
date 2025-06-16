@@ -2679,24 +2679,6 @@
     },
     {
       "album": {
-        "name": "20 All-Time Greatest Hits!",
-        "url": "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "date_added": "2021-04-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 125706,
-      "name": "Papa's Got A Brand New Bag",
-      "url": "https://open.spotify.com/track/6v4gV9s0pnwKbmF1yk5knO"
-    },
-    {
-      "album": {
         "name": "Star Time",
         "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
       },
@@ -2712,6 +2694,24 @@
       "duration_ms": 128173,
       "name": "Papa's Got A Brand New Bag",
       "url": "https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv"
+    },
+    {
+      "album": {
+        "name": "20 All-Time Greatest Hits!",
+        "url": "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125706,
+      "name": "Papa's Got A Brand New Bag - Pt. 1",
+      "url": "https://open.spotify.com/track/6v4gV9s0pnwKbmF1yk5knO"
     },
     {
       "album": {

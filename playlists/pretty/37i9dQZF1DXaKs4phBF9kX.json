@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1980s.",
-  "num_followers": 92358,
+  "num_followers": 92411,
   "original_name": "80s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-07-12 14:55:35",
       "album": {
-        "name": "Violent Femmes",
-        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
-      },
-      "artists": [
-        {
-          "name": "Violent Femmes",
-          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
-        }
-      ],
-      "duration_ms": 145706,
-      "name": "Blister In The Sun",
-      "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
-    },
-    {
-      "added_at": "2024-07-12 14:55:35",
-      "album": {
         "name": "4 (Expanded)",
         "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 271200,
       "name": "Urgent",
       "url": "https://open.spotify.com/track/08onVqQ8YicJ98Ycm1qoLf"
+    },
+    {
+      "added_at": "2024-07-12 14:55:35",
+      "album": {
+        "name": "Violent Femmes",
+        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
+      },
+      "artists": [
+        {
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+        }
+      ],
+      "duration_ms": 145706,
+      "name": "Blister In The Sun",
+      "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
     },
     {
       "added_at": "2024-07-12 14:55:35",

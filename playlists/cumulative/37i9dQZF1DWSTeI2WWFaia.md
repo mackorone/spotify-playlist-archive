@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Benny The Butcher
 
-801 songs - 1 day 18 hr 49 min
+802 songs - 1 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Derrick Boleman](https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Peace "Fly" God](https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer) | 3:34 | 2022-07-08 | 2022-10-31 |
 | [Devil's Work 2](https://open.spotify.com/track/17NiQhpGEQZUlTBqRKeKve) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Devil's Work 2](https://open.spotify.com/album/54LfEBAO7J0GYfR9YH3hUr) | 5:01 | 2023-03-10 | 2023-07-08 |
 | [Die Together](https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:44 | 2024-12-20 |  |
-| [Diego Maradona](https://open.spotify.com/track/384lbjCji1ciQLiKRIMHiK) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [The Genuine Articulate](https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp) | 2:37 | 2024-09-23 |  |
+| [Diego Maradona](https://open.spotify.com/track/384lbjCji1ciQLiKRIMHiK) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [The Genuine Articulate](https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp) | 2:37 | 2024-09-23 | 2025-06-16 |
 | [Diet Coke](https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Diet Coke](https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF) | 2:59 | 2022-02-08 | 2022-10-01 |
 | [DIET\_](https://open.spotify.com/track/1AzqpMy3yLYNITSOUrnL8i) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [UNLOCKED](https://open.spotify.com/album/5LsyqeWryTmxsmda4xkm5a) | 2:23 | 2021-09-03 | 2022-02-17 |
 | [Different](https://open.spotify.com/track/4B9eAQnzraeMTZ2B0ioKQG) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co) | [4\-Pack Fridays, Vol\. 2](https://open.spotify.com/album/1r3C3zQtoiMi4d9VL1QKoD) | 3:21 | 2022-03-25 | 2022-04-18 |
@@ -507,6 +507,7 @@
 | [Off\-White Lumberjack](https://open.spotify.com/track/4v4k5AH10JSyT6eU1zXHPk) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [Off\-White Lumberjack](https://open.spotify.com/album/1CUOlrRYZkzhNyRRHq2Yd4) | 2:33 | 2024-06-21 | 2024-08-03 |
 | [Office Hours \(feat\. 50 Cent\)](https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Magic 2](https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz) | 3:52 | 2023-07-21 | 2024-05-18 |
 | [oHio \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 4:51 | 2024-03-01 | 2024-11-23 |
+| [ON SITE](https://open.spotify.com/track/6gyGwHaukkgOsvdLxa1TNv) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [I Love You Again \(Extended\)](https://open.spotify.com/album/52byopOwUnZnKRbxKWg2pZ) | 2:47 | 2025-06-13 |  |
 | [On The Set](https://open.spotify.com/track/5LUShL5oF7n4all1pqSauD) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Die 1nce](https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h) | 3:38 | 2024-11-01 | 2025-01-04 |
 | [One Foot In \(with Stove God Cooks\)](https://open.spotify.com/track/5t8cjiKVfQeNUgrGIaRUBy) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [One Foot In](https://open.spotify.com/album/6lngN4MM1P71ocrwive5Cg) | 2:44 | 2023-12-08 | 2024-02-22 |
 | [One Life](https://open.spotify.com/track/2rfc0DDTqNwSkLCVzEdVVA) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [One Life](https://open.spotify.com/album/3ZmgIf9xdBHuCds9qD5ab8) | 3:29 | 2023-03-17 | 2023-05-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Depresión Sonora en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,963 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,968 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Luna, tú me llevas](https://open.spotify.com/track/0WswQoaavbBtDaigYfsJeG) | [Los Estanques](https://open.spotify.com/artist/2viZosiTrNf88YlPRVHkos), [El Canijo de Jerez](https://open.spotify.com/artist/1F1UN5rQ0UCxM8A8ZDE6k7) | [Luna, tú me llevas](https://open.spotify.com/album/2pJYgDlBCNuqOC9D5sdL70) | 3:16 |
 | 50 | [Oro y Plástico](https://open.spotify.com/track/1ZbApa6huol8xqfqQuG1A2) | [Mauri](https://open.spotify.com/artist/02dvTJ10rq2GCCk7Y0UvAf) | [Oro y Plástico](https://open.spotify.com/album/1ruThbfF85sacwcDorgEiH) | 4:19 |
 
-Snapshot ID: `aEuidwAAAACbRA9FClrl2XKs9SssaO/n`
+Snapshot ID: `aEuidwAAAABcZbtupghMV/6mGIgUKvf5`

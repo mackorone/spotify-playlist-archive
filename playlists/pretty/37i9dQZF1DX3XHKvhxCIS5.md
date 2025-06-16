@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XHKvhxCIS5.md) - [plain]
 
 > Our editor’s picks of the freshest music from Ireland in 2024\. Cover: KNEECAP
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,549 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,557 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XHKvhxCIS5.md) - [plain]
 | 24 | [LOSTWITHOUTMARIA](https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [LOSTWITHOUTMARIA](https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT) | 2:34 |
 | 25 | [Truth☆Truth](https://open.spotify.com/track/6uP0ClIeBEYjfZoFDwqpcT) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/77b1lJi47zN2gULvNkbsjH) | 3:44 |
 | 26 | [Love & Crisis](https://open.spotify.com/track/4pfQbrzANC8DuqbmRiVEJ3) | [Will Troy](https://open.spotify.com/artist/2D9TZalGr1SmjkGguD6Jy1) | [Love & Crisis](https://open.spotify.com/album/4hBD2h0Ky9M6xr8EJwtmLt) | 3:01 |
-| 27 | [fall](https://open.spotify.com/track/3uXd797WQGCiuEFPz9TVtM) | [new teeth](https://open.spotify.com/artist/4QUzOO8ZbUor3180J86hMa) | [fall](https://open.spotify.com/album/5lRPg4vIBciZ0EEqRJQ4Nu) | 4:03 |
+| 27 | [fall \- Old Teeth Version](https://open.spotify.com/track/3uXd797WQGCiuEFPz9TVtM) | [new teeth](https://open.spotify.com/artist/4QUzOO8ZbUor3180J86hMa) | [fall \(Old Teeth Version\)](https://open.spotify.com/album/5lRPg4vIBciZ0EEqRJQ4Nu) | 4:03 |
 | 28 | [Naive](https://open.spotify.com/track/09m9mc9HLJ83WGFhIyaXth) | [Melina Malone](https://open.spotify.com/artist/605KmpfOyF5FrdSfQkHnq3) | [Aphrodite](https://open.spotify.com/album/48s5QZAFQiv86wOCGDwjAz) | 4:17 |
 | 29 | [In The End](https://open.spotify.com/track/0EzrpH6IwHdPbZKHqtIS4Q) | [Fiona O' Connell](https://open.spotify.com/artist/0EycwYy6PGKtlZntaQThjr) | [In The End](https://open.spotify.com/album/2YhJJxFJUEh7yuRqOKHbAU) | 4:40 |
 | 30 | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/track/0C8xoNcpp9EPoQViNVY39O) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [When I Was Lost, I Found Myself](https://open.spotify.com/album/0c4Rp13qXx1NlFC62j8c4E) | 3:09 |

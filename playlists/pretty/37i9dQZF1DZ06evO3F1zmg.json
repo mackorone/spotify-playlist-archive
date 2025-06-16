@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 41485,
+  "num_followers": 41484,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAD4c9ypQKnWn9tszUA6XRS4",
+  "snapshot_id": "aEy7gAAAAADnKRKt+a0lWhDnkpHN5V1y",
   "tracks": [
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "High Maintenance",
+        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 49242,
+      "name": "High Maintenance",
+      "url": "https://open.spotify.com/track/3pxHcgYG8aKkclfWXBFSWv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Come First (feat. Saweetie)",
         "url": "https://open.spotify.com/album/53fnJWISeZ4hjXYXBDVqB0"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 191254,
       "name": "You Come First (feat. Saweetie)",
       "url": "https://open.spotify.com/track/5Ef2noaxqTAfa5gLVw05OJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "High Maintenance",
-        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 49242,
-      "name": "High Maintenance",
-      "url": "https://open.spotify.com/track/3pxHcgYG8aKkclfWXBFSWv"
     },
     {
       "added_at": null,

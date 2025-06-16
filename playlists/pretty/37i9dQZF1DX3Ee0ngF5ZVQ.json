@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Jake Worthington",
-  "num_followers": 409269,
+  "num_followers": 409237,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -431,18 +431,22 @@
     {
       "added_at": "2025-06-13 04:00:57",
       "album": {
-        "name": "It Won't Be Long",
-        "url": "https://open.spotify.com/album/1JXyyQl8aPFi9rAXwOF7pv"
+        "name": "Long Live Cowgirls (with Cody Johnson)",
+        "url": "https://open.spotify.com/album/5zxTZhMN5oGzbGnXtfrfCN"
       },
       "artists": [
         {
-          "name": "George Birge",
-          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        },
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 197794,
-      "name": "It Won't Be Long",
-      "url": "https://open.spotify.com/track/4L7H1toyQvfKJWNlD0RfHt"
+      "duration_ms": 184746,
+      "name": "Long Live Cowgirls (with Cody Johnson)",
+      "url": "https://open.spotify.com/track/16LGRLfaVIC5rT2ZvLk0gd"
     },
     {
       "added_at": "2025-06-13 04:00:57",
@@ -519,22 +523,18 @@
     {
       "added_at": "2025-06-13 04:00:57",
       "album": {
-        "name": "Long Live Cowgirls (with Cody Johnson)",
-        "url": "https://open.spotify.com/album/5zxTZhMN5oGzbGnXtfrfCN"
+        "name": "It Won't Be Long",
+        "url": "https://open.spotify.com/album/1JXyyQl8aPFi9rAXwOF7pv"
       },
       "artists": [
         {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        },
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
         }
       ],
-      "duration_ms": 184746,
-      "name": "Long Live Cowgirls (with Cody Johnson)",
-      "url": "https://open.spotify.com/track/16LGRLfaVIC5rT2ZvLk0gd"
+      "duration_ms": 197794,
+      "name": "It Won't Be Long",
+      "url": "https://open.spotify.com/track/4L7H1toyQvfKJWNlD0RfHt"
     },
     {
       "added_at": "2025-06-13 04:00:57",
@@ -843,18 +843,18 @@
     {
       "added_at": "2025-06-13 04:00:57",
       "album": {
-        "name": "Start at the End",
-        "url": "https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1"
+        "name": "Old Tricks",
+        "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
       },
       "artists": [
         {
-          "name": "Clayton Mullen",
-          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+          "name": "The Droptines",
+          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
         }
       ],
-      "duration_ms": 208573,
-      "name": "Start at the End",
-      "url": "https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI"
+      "duration_ms": 148778,
+      "name": "Old Tricks",
+      "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
     },
     {
       "added_at": "2025-06-13 04:00:57",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-06-13 04:00:57",
       "album": {
-        "name": "Old Tricks",
-        "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
-      },
-      "artists": [
-        {
-          "name": "The Droptines",
-          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
-        }
-      ],
-      "duration_ms": 148778,
-      "name": "Old Tricks",
-      "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
-    },
-    {
-      "added_at": "2025-06-13 04:00:57",
-      "album": {
         "name": "Another Man",
         "url": "https://open.spotify.com/album/65YJysIIuFqJN6irbIxJxv"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 196970,
       "name": "Another Man",
       "url": "https://open.spotify.com/track/7uzj53gXpNtiQw82rE3h2g"
+    },
+    {
+      "added_at": "2025-06-13 04:00:57",
+      "album": {
+        "name": "Start at the End",
+        "url": "https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1"
+      },
+      "artists": [
+        {
+          "name": "Clayton Mullen",
+          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Start at the End",
+      "url": "https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI"
     },
     {
       "added_at": "2025-06-13 04:00:57",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2025-06-13 04:00:57",
       "album": {
-        "name": "Old Fashioned Feeling",
-        "url": "https://open.spotify.com/album/3ojGoD6lwIzSjHKqgndFD9"
+        "name": "Coulda Been Love",
+        "url": "https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6"
       },
       "artists": [
         {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
         }
       ],
-      "duration_ms": 202280,
-      "name": "Old Fashioned Feeling",
-      "url": "https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo"
+      "duration_ms": 172866,
+      "name": "Coulda Been Love",
+      "url": "https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp"
     },
     {
       "added_at": "2025-06-13 04:00:57",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2025-06-13 04:00:57",
       "album": {
-        "name": "Coulda Been Love",
-        "url": "https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6"
+        "name": "Old Fashioned Feeling",
+        "url": "https://open.spotify.com/album/3ojGoD6lwIzSjHKqgndFD9"
       },
       "artists": [
         {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
         }
       ],
-      "duration_ms": 172866,
-      "name": "Coulda Been Love",
-      "url": "https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp"
+      "duration_ms": 202280,
+      "name": "Old Fashioned Feeling",
+      "url": "https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo"
     },
     {
       "added_at": "2025-06-13 04:00:57",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2025-06-13 04:00:57",
       "album": {
+        "name": "Green Eyes Blue",
+        "url": "https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 217093,
+      "name": "Green Eyes Blue",
+      "url": "https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6"
+    },
+    {
+      "added_at": "2025-06-13 04:00:57",
+      "album": {
         "name": "Whole Lotta Lubbock",
         "url": "https://open.spotify.com/album/0RWcrXzqJdnKGwTA70a2hY"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 192651,
       "name": "Whole Lotta Lubbock",
       "url": "https://open.spotify.com/track/5MWhVTIZG6x7VHV2vdkmft"
-    },
-    {
-      "added_at": "2025-06-13 04:00:57",
-      "album": {
-        "name": "Starting Over Again",
-        "url": "https://open.spotify.com/album/0eKWH1z22oFzi2D8S3D13C"
-      },
-      "artists": [
-        {
-          "name": "William Beckmann",
-          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
-        }
-      ],
-      "duration_ms": 179645,
-      "name": "Starting Over Again",
-      "url": "https://open.spotify.com/track/48G2MXa9GeJZFkZz7j7Nyo"
     },
     {
       "added_at": "2025-06-13 04:00:57",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2025-06-13 04:00:57",
       "album": {
-        "name": "Green Eyes Blue",
-        "url": "https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq"
+        "name": "Starting Over Again",
+        "url": "https://open.spotify.com/album/0eKWH1z22oFzi2D8S3D13C"
       },
       "artists": [
         {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
         }
       ],
-      "duration_ms": 217093,
-      "name": "Green Eyes Blue",
-      "url": "https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6"
+      "duration_ms": 179645,
+      "name": "Starting Over Again",
+      "url": "https://open.spotify.com/track/48G2MXa9GeJZFkZz7j7Nyo"
     },
     {
       "added_at": "2025-06-13 04:00:57",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2025-06-13 04:00:57",
       "album": {
-        "name": "House Again",
-        "url": "https://open.spotify.com/album/6Oxk5FxwVNUMD9KxChEVrY"
+        "name": "When My Baby\u2019s In Boots",
+        "url": "https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q"
       },
       "artists": [
         {
-          "name": "Hudson Westbrook",
-          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
         }
       ],
-      "duration_ms": 202290,
-      "name": "House Again",
-      "url": "https://open.spotify.com/track/4OG8nSaGmiATo0y59bvehc"
+      "duration_ms": 183613,
+      "name": "When My Baby\u2019s In Boots",
+      "url": "https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL"
     },
     {
       "added_at": "2025-06-13 04:00:57",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-06-13 04:00:57",
       "album": {
-        "name": "When My Baby\u2019s In Boots",
-        "url": "https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q"
-      },
-      "artists": [
-        {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
-        }
-      ],
-      "duration_ms": 183613,
-      "name": "When My Baby\u2019s In Boots",
-      "url": "https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL"
-    },
-    {
-      "added_at": "2025-06-13 04:00:57",
-      "album": {
         "name": "Turning Point",
         "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 197861,
       "name": "That's What Makes The World Go Around",
       "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"
+    },
+    {
+      "added_at": "2025-06-13 04:00:57",
+      "album": {
+        "name": "House Again",
+        "url": "https://open.spotify.com/album/6Oxk5FxwVNUMD9KxChEVrY"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "duration_ms": 202290,
+      "name": "House Again",
+      "url": "https://open.spotify.com/track/4OG8nSaGmiATo0y59bvehc"
     },
     {
       "added_at": "2025-06-13 04:00:57",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-06-13 04:00:57",
       "album": {
-        "name": "Baker Hotel",
-        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
-      },
-      "artists": [
-        {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
-        }
-      ],
-      "duration_ms": 276280,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
-    },
-    {
-      "added_at": "2025-06-13 04:00:57",
-      "album": {
         "name": "Never Again One More Time",
         "url": "https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 178284,
       "name": "Never Again One More Time",
       "url": "https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j"
+    },
+    {
+      "added_at": "2025-06-13 04:00:57",
+      "album": {
+        "name": "Baker Hotel",
+        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
+      },
+      "artists": [
+        {
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+        }
+      ],
+      "duration_ms": 276280,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
     },
     {
       "added_at": "2025-06-13 04:00:57",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2025-06-13 04:00:57",
       "album": {
-        "name": "Life Behind Bars",
-        "url": "https://open.spotify.com/album/2yPg5aTs0CypCiLPzTjPCT"
+        "name": "Green in Colorado",
+        "url": "https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2"
       },
       "artists": [
         {
-          "name": "Vandoliers",
-          "url": "https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE"
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
         }
       ],
-      "duration_ms": 215960,
-      "name": "Life Behind Bars",
-      "url": "https://open.spotify.com/track/2wZ1K4RDhCOonx5bNGmJRr"
+      "duration_ms": 196833,
+      "name": "Green in Colorado",
+      "url": "https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV"
     },
     {
       "added_at": "2025-06-13 04:00:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1">Ilsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510 likes - 157 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 509 likes - 157 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 71 | [two nights \(feat\. Aminé\)](https://open.spotify.com/track/1CPNoBoQIc0dgK8MQDyx0T) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 3:24 |
 | 72 | [Breach \(Walk Alone\)](https://open.spotify.com/track/3X3Go0oPCDC88Rexjt5Npa) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J) | [Breach \(Walk Alone\)](https://open.spotify.com/album/2ovvPpqXt4dj2OABryLIKy) | 2:58 |
 | 73 | [New Look](https://open.spotify.com/track/1In3jkWHnGCwK3LzhBGEv8) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Phoenix \(Deluxe Edition\)](https://open.spotify.com/album/6Vn8F3hERVHYYz5RfKmsAN) | 2:34 |
-| 74 | [Overnight](https://open.spotify.com/track/3mVQUlrhWN5Z1i1HUhU8ZH) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Overnight](https://open.spotify.com/album/00lWTbQ4MQezqzl0S8M37D) | 3:37 |
-| 75 | [Danger](https://open.spotify.com/track/4CevWKebcrg0qzZCI6vu9c) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 2:55 |
+| 74 | [Danger](https://open.spotify.com/track/4CevWKebcrg0qzZCI6vu9c) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 2:55 |
+| 75 | [Overnight](https://open.spotify.com/track/3mVQUlrhWN5Z1i1HUhU8ZH) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Overnight](https://open.spotify.com/album/00lWTbQ4MQezqzl0S8M37D) | 3:37 |
 | 76 | [Meaning of Life](https://open.spotify.com/track/6YWStBSFmmeE5TZJmlUfhB) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Meaning of Life](https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2) | 3:51 |
 | 77 | [Young & Stupid](https://open.spotify.com/track/26a1ih91NiFLHgJo4Tk2Dw) | [Travis Mills](https://open.spotify.com/artist/5fzbfP3jLDaJZe7TdFDXRY), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Young & Stupid](https://open.spotify.com/album/6ev3uzvc1OqixkGvNC82gN) | 3:06 |
 | 78 | [Alfie's Song \(Not So Typical Love Song\)](https://open.spotify.com/track/4xYzcWOLM685vCa5AkJXe9) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Alfie's Song \(Not So Typical Love Song\)](https://open.spotify.com/album/7mxEr6CfzmRQN3c7PoAQIP) | 3:01 |
@@ -159,11 +159,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDR6FFYat4B7.md) - [plain]
 | 149 | [Down That Road \- The Voice Performance](https://open.spotify.com/track/3sS03NvxbrVgFNZgvnR26k) | [Alisan Porter](https://open.spotify.com/artist/3Yw2flLUwQIZgpA2qSNj30) | [The Complete Season 10 Collection \(The Voice Performance\)](https://open.spotify.com/album/0zhezrgO3ZFtDAbRj0wkG2) | 3:52 |
 | 150 | [Everything I Want](https://open.spotify.com/track/40uwsYGzTlU0GP51eiVqh1) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 1:41 |
 | 151 | [Waiting In The Wings](https://open.spotify.com/track/25DDablRTX29gvd35HzSKY) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Evolution \(Deluxe\)](https://open.spotify.com/album/17u2BRLhnXTtnDRaOuebQy) | 3:27 |
-| 152 | [Down to the Bone](https://open.spotify.com/track/2iimKOdSwTpDNk2THDByro) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:12 |
-| 153 | [forgot to be my lover](https://open.spotify.com/track/3HMxNEaOXOjedAhKxYHZEy) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:13 |
+| 152 | [forgot to be my lover](https://open.spotify.com/track/3HMxNEaOXOjedAhKxYHZEy) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:13 |
+| 153 | [Down to the Bone](https://open.spotify.com/track/2iimKOdSwTpDNk2THDByro) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:12 |
 | 154 | [Overcome](https://open.spotify.com/track/4IuTlIOPvRgwnwQCBvEyYN) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 2:52 |
 | 155 | [Catch Fire](https://open.spotify.com/track/5gLLJl41ykuWqu47RWlXhX) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 2:45 |
 | 156 | [Never Be the Same \(Janice Version\)](https://open.spotify.com/track/3TcbamuYWYAthnrfgB8Zcd) | [Janice Freeman](https://open.spotify.com/artist/1fPx8a7LcIn4fF21Euvhov) | [Never Be the Same \(Janice Version\)](https://open.spotify.com/album/22vTU5aT0UFkDfpp8u5LPs) | 3:35 |
 | 157 | [Slow Dance](https://open.spotify.com/track/48iQ59o2m0IFrTvPk1XRyY) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life \(The Party That I Almost Missed\)](https://open.spotify.com/album/72eTTNHbA8QydOaUSZWFug) | 3:55 |
 
-Snapshot ID: `Ab0JkwAAAACzU7bAU7Hd6zRtsRpiedpo`
+Snapshot ID: `Ab0PMgAAAAB3Oc+NitpJSbQvVuCaJe65`

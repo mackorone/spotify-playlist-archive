@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 
 > This is Jonas Blue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,405 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,410 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 28 | [Younger](https://open.spotify.com/track/4D7ERaKgv8NAeck8RzUtRz) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Younger](https://open.spotify.com/album/26IuzA897QHyOQVYBWXtTD) | 3:14 |
 | 29 | [In Your Arms Tonight](https://open.spotify.com/track/1frhPzQ2B7rM62INKyuLV7) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Mark Villa](https://open.spotify.com/artist/5WClIOxkXF0aG93CLEC96i) | [Jonas Blue: Electronic Nature \- The Mix 2017](https://open.spotify.com/album/0zMLyv1kNV2B0LDGEK2RbB) | 2:43 |
 | 30 | [Finally](https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Finally](https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9) | 3:08 |
-| 31 | [Hearts Ain't Gonna Lie \- Eden Prince Remix](https://open.spotify.com/track/6B9cqNooxIyPfr3P5EB8LA) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Hearts Ain't Gonna Lie \(Remixes, Pt\. 1\)](https://open.spotify.com/album/00wIfIEWOqJ2RFrRazVl0i) | 3:58 |
-| 32 | [I See Love \- From Hotel Transylvania 3](https://open.spotify.com/track/32UJH1F38AMSjZilQyBzOE) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [I See Love \(From Hotel Transylvania 3\)](https://open.spotify.com/album/3aH4OEoC8UGnCyHhVZDJav) | 2:53 |
+| 31 | [I See Love \- From Hotel Transylvania 3](https://open.spotify.com/track/32UJH1F38AMSjZilQyBzOE) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [I See Love \(From Hotel Transylvania 3\)](https://open.spotify.com/album/3aH4OEoC8UGnCyHhVZDJav) | 2:53 |
+| 32 | [Hearts Ain't Gonna Lie \- Eden Prince Remix](https://open.spotify.com/track/6B9cqNooxIyPfr3P5EB8LA) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Hearts Ain't Gonna Lie \(Remixes, Pt\. 1\)](https://open.spotify.com/album/00wIfIEWOqJ2RFrRazVl0i) | 3:58 |
 | 33 | [Naked](https://open.spotify.com/track/2gGLpMzoo80A7jGEIr4ou8) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Naked](https://open.spotify.com/album/6C8hZT4nmCER89JVbhq9BV) | 3:30 |
 | 34 | [yes, and? \- Jonas Blue Remix](https://open.spotify.com/track/62iX6bbxe9T81LrNwqre3p) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [yes, and? \(remixes\)](https://open.spotify.com/album/0kHBlnc69hLOSyXAZn2yeX) | 3:32 |
 | 35 | [Mistakes](https://open.spotify.com/track/4zCEJUxsW73s2sIIoM4SLC) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Mistakes](https://open.spotify.com/album/7dm0STpyctopt8zjJ0IHPT) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 49 | [Siento](https://open.spotify.com/track/2Ys5BmzK3AZWNCrKihq50z) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Siento](https://open.spotify.com/album/4kKvFPFsPnBgSvTxG1ybPq) | 3:37 |
 | 50 | [Roll With Me \(feat\. Shungudzo & ZieZie\)](https://open.spotify.com/track/5nsJclFXUIQajs8WJIkds7) | [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Roll With Me \(feat\. Shungudzo & ZieZie\)](https://open.spotify.com/album/20SORgtgHYtIn2xjpjXres) | 3:02 |
 
-Snapshot ID: `aEtqAAAAAACe3GEJYcvvPlMEjdctQD8/`
+Snapshot ID: `aEy7gAAAAADFMPEkgVNljMREjvrOypvZ`

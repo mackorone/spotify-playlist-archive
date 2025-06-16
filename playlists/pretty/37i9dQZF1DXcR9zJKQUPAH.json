@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2017. Cover: The xx",
-  "num_followers": 158169,
+  "num_followers": 158187,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "Roy Pablo",
+        "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Dance, Baby!",
+      "url": "https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Humanz (Deluxe)",
         "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 181906,
       "name": "Saturnz Barz (feat. Popcaan)",
       "url": "https://open.spotify.com/track/7l9CE3wmEGOUYw1j4ETjnL"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Roy Pablo",
-        "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Dance, Baby!",
-      "url": "https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Blood Type",
-        "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 202597,
-      "name": "Cold War",
-      "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Lighting Matches (Deluxe)",
         "url": "https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 191933,
       "name": "Found What I've Been Looking For",
       "url": "https://open.spotify.com/track/4Gw1SXoN1MlAmdM3J1NjmR"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Blood Type",
+        "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 202597,
+      "name": "Cold War",
+      "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
+        "name": "Landmark",
+        "url": "https://open.spotify.com/album/3l5MTodEP0uBhcAwyxfVmX"
       },
       "artists": [
         {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
         }
       ],
-      "duration_ms": 290616,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
+      "duration_ms": 245456,
+      "name": "Way It Goes",
+      "url": "https://open.spotify.com/track/1AsQFm7ORbr4NEZ0dUltOY"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Landmark",
-        "url": "https://open.spotify.com/album/3l5MTodEP0uBhcAwyxfVmX"
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
       },
       "artists": [
         {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 245456,
-      "name": "Way It Goes",
-      "url": "https://open.spotify.com/track/1AsQFm7ORbr4NEZ0dUltOY"
+      "duration_ms": 290616,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1171,38 +1171,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Foreign Hands (George's Version)",
-        "url": "https://open.spotify.com/album/11OoifQTfRnad4m4ocQdZs"
-      },
-      "artists": [
-        {
-          "name": "George Ogilvie",
-          "url": "https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI"
-        }
-      ],
-      "duration_ms": 258530,
-      "name": "Foreign Hands (George's Version)",
-      "url": "https://open.spotify.com/track/78e02OxzIocXs21FqQ4UGK"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 215150,
-      "name": "Sunsetz",
-      "url": "https://open.spotify.com/track/0SpkyS1Q4MD8GaVcP5YjT4"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Landmark",
         "url": "https://open.spotify.com/album/3l5MTodEP0uBhcAwyxfVmX"
       },
@@ -1215,6 +1183,22 @@
       "duration_ms": 226610,
       "name": "Buttercup",
       "url": "https://open.spotify.com/track/7GUPYx7ywjcqBIUXssYjaW"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Foreign Hands (George's Version)",
+        "url": "https://open.spotify.com/album/11OoifQTfRnad4m4ocQdZs"
+      },
+      "artists": [
+        {
+          "name": "George Ogilvie",
+          "url": "https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI"
+        }
+      ],
+      "duration_ms": 258530,
+      "name": "Foreign Hands (George's Version)",
+      "url": "https://open.spotify.com/track/78e02OxzIocXs21FqQ4UGK"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 215150,
+      "name": "Sunsetz",
+      "url": "https://open.spotify.com/track/0SpkyS1Q4MD8GaVcP5YjT4"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "ken (Deluxe Version)",
         "url": "https://open.spotify.com/album/2QYznp5mHZ0d7XboOfBHFR"
       },
@@ -1263,22 +1263,6 @@
       "duration_ms": 286027,
       "name": "Tinseltown Swimming in Blood",
       "url": "https://open.spotify.com/track/2pseEtJHsIBo6BV2i8zHJs"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 292110,
-      "name": "Sweet",
-      "url": "https://open.spotify.com/track/6ilc4vQcwMPlvAHFfsTGng"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1331,6 +1315,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 292110,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/6ilc4vQcwMPlvAHFfsTGng"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Dark Red",
         "url": "https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ"
       },
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "Mt. Joy",
+        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Astrovan",
+      "url": "https://open.spotify.com/track/14e46mURUUwB3i2vTe1gFz"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Begin (feat. Wales)",
         "url": "https://open.spotify.com/album/3611xLiDgXb1doMwP0YizT"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 242859,
       "name": "Begin (feat. Wales)",
       "url": "https://open.spotify.com/track/3uSwz1gv799BQhkqgIgfSz"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Mt. Joy",
-        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Astrovan",
-      "url": "https://open.spotify.com/track/14e46mURUUwB3i2vTe1gFz"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Goodie Bag",
-        "url": "https://open.spotify.com/album/31u58iuxrUOJeKJj4SKqOl"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 146390,
-      "name": "Goodie Bag",
-      "url": "https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Tailwhip",
         "url": "https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 225263,
       "name": "Tailwhip",
       "url": "https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Goodie Bag",
+        "url": "https://open.spotify.com/album/31u58iuxrUOJeKJj4SKqOl"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 146390,
+      "name": "Goodie Bag",
+      "url": "https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Down the Line",
-        "url": "https://open.spotify.com/album/2rejwIeesDOudIQpbwDZFM"
-      },
-      "artists": [
-        {
-          "name": "Beach Fossils",
-          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
-        }
-      ],
-      "duration_ms": 158474,
-      "name": "Down the Line",
-      "url": "https://open.spotify.com/track/15eduSFXnQfnQvcmWHDBPi"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Iris",
         "url": "https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 181136,
       "name": "Iris",
       "url": "https://open.spotify.com/track/5oV8bZaShr2d01FFMHBUPq"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Down the Line",
+        "url": "https://open.spotify.com/album/2rejwIeesDOudIQpbwDZFM"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "duration_ms": 158474,
+      "name": "Down the Line",
+      "url": "https://open.spotify.com/track/15eduSFXnQfnQvcmWHDBPi"
     }
   ],
   "unique_name": "Best of Indie 2017",

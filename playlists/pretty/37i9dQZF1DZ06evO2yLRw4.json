@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37453,
+  "num_followers": 37455,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAABZ266ZcuA9DXNg3WpYQUxY",
+  "snapshot_id": "aEy7gAAAAADCpUtrm8s1lT8cBVn22wNo",
   "tracks": [
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Echo, My Shadow, My Covers & Me",
-        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
+        "name": "Material Girl (feat. Taylor Hanson of Hanson)",
+        "url": "https://open.spotify.com/album/5nfPvmgxIqQnGR8J9n8WUh"
       },
       "artists": [
         {
@@ -536,13 +536,13 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         },
         {
-          "name": "Jewel",
-          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
         }
       ],
-      "duration_ms": 241499,
-      "name": "Take A Chance On Me (feat. Jewel)",
-      "url": "https://open.spotify.com/track/2QZpV3KZnDfqrvOfJNcvCY"
+      "duration_ms": 249240,
+      "name": "Material Girl (feat. Taylor Hanson of Hanson)",
+      "url": "https://open.spotify.com/track/7IyRPhyQIRoCSBnLNLbM36"
     },
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Material Girl (feat. Taylor Hanson of Hanson)",
-        "url": "https://open.spotify.com/album/5nfPvmgxIqQnGR8J9n8WUh"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Hanson",
-          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
-        }
-      ],
-      "duration_ms": 249240,
-      "name": "Material Girl (feat. Taylor Hanson of Hanson)",
-      "url": "https://open.spotify.com/track/7IyRPhyQIRoCSBnLNLbM36"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 217205,
       "name": "Windows",
       "url": "https://open.spotify.com/track/6eXfVpYZW6v0VhUaNAh3K9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Echo, My Shadow, My Covers & Me",
+        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+        }
+      ],
+      "duration_ms": 241499,
+      "name": "Take A Chance On Me (feat. Jewel)",
+      "url": "https://open.spotify.com/track/2QZpV3KZnDfqrvOfJNcvCY"
     },
     {
       "added_at": null,
@@ -748,13 +748,13 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         },
         {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 249212,
-      "name": "Flagpole Sitta (feat. Elohim)",
-      "url": "https://open.spotify.com/track/5KcdcUuL8YI3PqeQIvJj2H"
+      "duration_ms": 243066,
+      "name": "Eye In The Sky (feat. Beck)",
+      "url": "https://open.spotify.com/track/4JxXyhC4FAALmp7uXrmsrG"
     },
     {
       "added_at": null,
@@ -824,13 +824,13 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         },
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
         }
       ],
-      "duration_ms": 243066,
-      "name": "Eye In The Sky (feat. Beck)",
-      "url": "https://open.spotify.com/track/4JxXyhC4FAALmp7uXrmsrG"
+      "duration_ms": 249212,
+      "name": "Flagpole Sitta (feat. Elohim)",
+      "url": "https://open.spotify.com/track/5KcdcUuL8YI3PqeQIvJj2H"
     },
     {
       "added_at": null,

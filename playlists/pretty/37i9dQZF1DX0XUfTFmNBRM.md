@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 > Hottest Hindi music that India is listening to\. Cover \- Stree 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,722,912 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,725,023 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 | 49 | [Tenu Sang Rakhna](https://open.spotify.com/track/67oNO9GjcDn7NO08lg08jj) | [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ), [Varun Grover](https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT) | [Jigra](https://open.spotify.com/album/5DP3N53LnOXK8ZjSRvcJRD) | 4:09 |
 | 50 | [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/album/72nKBrp0K6Nv6Q76TmEWLY) | 3:27 |
 
-Snapshot ID: `aEmIPAAAAABnRMMs0nPxVrYDPfCjmgBE`
+Snapshot ID: `aEmIPAAAAAAdfIf7x9lGknY4bD61bfNZ`

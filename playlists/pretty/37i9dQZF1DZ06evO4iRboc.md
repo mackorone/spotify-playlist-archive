@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iRboc.md) - [plain]
 
 > This is Laufey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,519 likes - 33 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,625 likes - 33 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iRboc.md) - [plain]
 | 32 | [The Nearness of You \- Live at The Symphony](https://open.spotify.com/track/4vjFL3VnYcaJqX1HmQEBRa) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Iceland Symphony Orchestra](https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b) | [A Night At The Symphony](https://open.spotify.com/album/0ONGXnqkOl98GYJy619wqn) | 2:48 |
 | 33 | [Everytime We Say Goodbye \- Live at The Symphony](https://open.spotify.com/track/5cddyAdFOA3JsC3MhYmc2Y) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Iceland Symphony Orchestra](https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b) | [A Night At The Symphony](https://open.spotify.com/album/0ONGXnqkOl98GYJy619wqn) | 4:33 |
 
-Snapshot ID: `aEtqAAAAAAAVI43QQTaQ9huB7hIaI/y1`
+Snapshot ID: `aEy7gAAAAAAXHCjHoRmQNREjNxvAV50G`

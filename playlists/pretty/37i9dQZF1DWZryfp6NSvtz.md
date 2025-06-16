@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: King Gizzard & The Lizard Wizard
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,471 likes - 124 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,514 likes - 124 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Aquí viven las acústicas\. Cover: Valentina Rico
 
-231 songs - 13 hr 35 min
+232 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [BIG BANG](https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [BIG BANG](https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS) | 3:03 | 2021-12-16 |  |
 | [Brutalmente Honesta](https://open.spotify.com/track/6KYyzQaFSu6Y3Cdp8di2xl) | [Michi Sanz](https://open.spotify.com/artist/3upPawRH8B04mVJR5p0ZVx) | [Brutalmente Honesta](https://open.spotify.com/album/0NBV1w1mgOqHifIMKil9Zy) | 2:33 | 2024-07-26 | 2024-11-12 |
 | [Café con Leche](https://open.spotify.com/track/4wwDoA99aUTa97SSVeqBvK) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Mujer Eléctrica](https://open.spotify.com/album/3uQKmW3KxrIKOQfwqPPSPH) | 1:53 | 2024-05-07 |  |
-| [Cama de Papel](https://open.spotify.com/track/1k4EMd4OzpawfGTFvxkRg7) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq), [Khotton](https://open.spotify.com/artist/3nJV4WKGZ6rh9LqpdwCOnS) | [SOMOS JAVYPABLO](https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq) | 3:16 | 2024-12-13 |  |
+| [Cama de Papel](https://open.spotify.com/track/1k4EMd4OzpawfGTFvxkRg7) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq), [Khotton](https://open.spotify.com/artist/3nJV4WKGZ6rh9LqpdwCOnS) | [SOMOS JAVYPABLO](https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq) | 3:16 | 2024-12-13 | 2025-06-16 |
 | [Capulí](https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Capulí](https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA) | 3:22 | 2024-05-07 | 2024-12-09 |
 | [Casita](https://open.spotify.com/track/6s3z0pozH3BaWoIhSPAWTp) | [KAINA](https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj) | [Casita](https://open.spotify.com/album/3wVJ5xvQuzzuvTbWQtTVEb) | 3:39 | 2022-01-26 | 2022-03-05 |
 | [Cenizas y Miel](https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Cenizas y Miel](https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt) | 3:11 | 2021-12-16 |  |
@@ -59,6 +59,7 @@
 | [De Adentro Pa Afuera \- En Vivo Desde La Puerta de Alcalá](https://open.spotify.com/track/6Br10W2EX7UkOxAWWAAZm5) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [De Adentro Pa Afuera \(Deluxe Edition\)](https://open.spotify.com/album/33CW5fr7A0nTN5prOTyScI) | 3:13 | 2023-06-09 |  |
 | [De Camino](https://open.spotify.com/track/0OnfT8ZB33ST5fRBzJjaIo) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Agua Del Pozo](https://open.spotify.com/album/08C8LxgyBqG84Xv8Wbrokd) | 3:26 | 2021-12-16 |  |
 | [De Rodillas \- Acústico](https://open.spotify.com/track/2iMb7HAmOcdnZzAOa4yNAq) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [De Rodillas \(Acústico\)](https://open.spotify.com/album/1vjl5MYuhrEKd9leIUnADp) | 4:28 | 2021-12-16 | 2024-04-21 |
+| [Decisión](https://open.spotify.com/track/3thXiXy8Y9Db1GwoHmxbnp) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Decisión](https://open.spotify.com/album/3VfF9AzOdrtJrN4yvwWV1H) | 3:24 | 2025-06-13 |  |
 | [Derrumbe](https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Derrumbe](https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W) | 2:11 | 2024-02-16 |  |
 | [DESASTRE](https://open.spotify.com/track/6GUKOpUYvQtgHoCpcTmhWk) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [DESASTRE](https://open.spotify.com/album/3O0R0OFOqeC5yG7B0OVHWB) | 3:42 | 2024-06-07 | 2024-07-20 |
 | [Desde las Alturas](https://open.spotify.com/track/44ojSkwMRjy7GRAOdKkNKz) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Desde las Alturas](https://open.spotify.com/album/7LjiZnqwouFkTnOKFJntcS) | 3:43 | 2021-12-16 | 2022-05-20 |

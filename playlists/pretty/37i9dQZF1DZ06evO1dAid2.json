@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 132107,
+  "num_followers": 132115,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAADgdeJ6nW5JBOGkg4F9dc7h",
+  "snapshot_id": "aEy7gAAAAAC3NXqxh38QdWEda+oBPwvp",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 122533,
+      "name": "Bye Bye Johnny",
+      "url": "https://open.spotify.com/track/6qIMhhXZckFxcWLzevDQaz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back Home",
         "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
       },
@@ -411,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockin' At The Hops",
-        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 122533,
-      "name": "Bye Bye Johnny",
-      "url": "https://open.spotify.com/track/6qIMhhXZckFxcWLzevDQaz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chuck Berry Twist",
         "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
       },
@@ -439,22 +439,6 @@
       "duration_ms": 142586,
       "name": "Thirty Days",
       "url": "https://open.spotify.com/track/1t5XUupizGiodTmIhqcqD2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Tulane",
-      "url": "https://open.spotify.com/track/5L5RO8srDgDnWcAAy2v5Br"
     },
     {
       "added_at": null,
@@ -475,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "After School Session",
-        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
       },
       "artists": [
         {
@@ -484,9 +468,25 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 177200,
-      "name": "No Money Down",
-      "url": "https://open.spotify.com/track/6RpRXXv69SeNcRqScvyd0F"
+      "duration_ms": 158400,
+      "name": "Tulane",
+      "url": "https://open.spotify.com/track/5L5RO8srDgDnWcAAy2v5Br"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From St. Louie To Frisco",
+        "url": "https://open.spotify.com/album/4qce3g6j5IGks63lY23eTD"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "Louis To Frisco",
+      "url": "https://open.spotify.com/track/6H7OQEC6V2X0mB0ss3yrI8"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From St. Louie To Frisco",
-        "url": "https://open.spotify.com/album/4qce3g6j5IGks63lY23eTD"
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 140160,
-      "name": "Louis To Frisco",
-      "url": "https://open.spotify.com/track/6H7OQEC6V2X0mB0ss3yrI8"
+      "duration_ms": 177200,
+      "name": "No Money Down",
+      "url": "https://open.spotify.com/track/6RpRXXv69SeNcRqScvyd0F"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 146760,
+      "name": "House Of Blue Lights",
+      "url": "https://open.spotify.com/track/0iVcJZ8bjL82406m2og7Df"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live At Fillmore Auditorium",
         "url": "https://open.spotify.com/album/5FJCM8i8sWEjra1sXI9mIQ"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 161893,
       "name": "Flying Home - Live At Fillmore Auditorium, San Francisco, CA/1967",
       "url": "https://open.spotify.com/track/3eswSYTPy8wMVWcc05cLpv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 146760,
-      "name": "House Of Blue Lights",
-      "url": "https://open.spotify.com/track/0iVcJZ8bjL82406m2og7Df"
     },
     {
       "added_at": null,

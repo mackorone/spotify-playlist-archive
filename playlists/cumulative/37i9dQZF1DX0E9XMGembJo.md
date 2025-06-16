@@ -4,7 +4,7 @@
 
 > your daily dose of dopamine
 
-680 songs - 1 day 13 hr 0 min
+681 songs - 1 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,7 @@
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-03-31 | 2024-04-19 |
 | [Heaven Falls / Fall on Me](https://open.spotify.com/track/7yHqOZfsXYlicyoMt62yC6) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Heaven Falls / Fall on Me](https://open.spotify.com/album/47FlG4nYHBCVO0DKbdMbCz) | 4:00 | 2021-12-29 | 2022-05-14 |
 | [Heavy Hearted](https://open.spotify.com/track/3yXgttblOo006gd4eGOvw1) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Heavy Hearted](https://open.spotify.com/album/6TqyOjnzxtdboeo8XiSYcj) | 4:16 | 2022-04-14 | 2022-04-16 |
-| [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2021-12-29 |  |
+| [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2021-12-29 | 2025-06-16 |
 | [HELLO](https://open.spotify.com/track/6fvNZQoTK4eOfNg8MGzoiY) | [Josh Fudge](https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp) | [HELLO](https://open.spotify.com/album/7ENTmmB50lQi4pvn0w6v25) | 2:42 | 2022-04-01 | 2022-04-18 |
 | [hello!](https://open.spotify.com/track/7a2IJHzw9WJjoknwdnCop0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [oh, how perfect](https://open.spotify.com/album/5xNYe96E1oMXdS1FdboZZv) | 3:08 | 2021-12-29 | 2022-07-29 |
 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 | 2022-03-25 | 2024-06-29 |
@@ -597,6 +597,7 @@
 | [Sunshower \- Remastered](https://open.spotify.com/track/34ZFX5zDheyGVZW1vP9aeW) | [Dr\. Buzzard's Original Savannah Band](https://open.spotify.com/artist/0i64fKwsnTQsPqbov8mZUh) | [Kid Creole \- Ze August Darnell Sessions \(Remastered 2018\)](https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ) | 4:08 | 2022-03-28 | 2022-04-17 |
 | [Surrender To Me](https://open.spotify.com/track/34sIEdi9tN5Fi2rNaSHVTQ) | [FireCityFunk](https://open.spotify.com/artist/3fp7WTKKzrpXiS9kXzkhkF) | [Surrender To Me](https://open.spotify.com/album/1MHqH1tfMRvWJXmHzJlQNZ) | 3:34 | 2022-02-04 | 2022-04-17 |
 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 | 2025-06-13 |  |
+| [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/track/0D57lQnn110jGaup4NguSI) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR) | 3:32 | 2025-05-30 |  |
 | [Sweet Talk](https://open.spotify.com/track/6kcHg7XL6SKyPNd78daRBL) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [saintmotelevision](https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs) | 3:12 | 2021-12-29 | 2022-07-29 |
 | [Swimming Pool](https://open.spotify.com/track/2EJ8biaqSmbFay6DANx7gs) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Swimming Pool](https://open.spotify.com/album/3hcMcEo5O1i707MVen72zi) | 3:24 | 2024-08-30 | 2024-09-17 |
 | [Sympathy](https://open.spotify.com/track/2qRbZNMMkD8Yl9WlgQ73N5) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Sympathy](https://open.spotify.com/album/3vv955STX9C50UTGlaXrpI) | 3:05 | 2023-07-14 | 2023-07-27 |

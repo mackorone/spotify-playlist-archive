@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,099 likes - 236 songs - 12 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,100 likes - 236 songs - 12 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,8 +182,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 172 | [Mother Nature](https://open.spotify.com/track/0Cyp9kufRZOCwvcTLLIuWq) | [Femme It Forward](https://open.spotify.com/artist/3rw1MKkbLTZw46AqC7gRpH), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Big Femme Energy Volume 1](https://open.spotify.com/album/7mRnNfdDMiu6xuLNzXgcHB) | 2:11 |
 | 173 | [Afraid To Fall](https://open.spotify.com/track/0YlyEicyEhlWU1z6rKrWqT) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 2:10 |
 | 174 | [Windows](https://open.spotify.com/track/2sDjAcLzPYZYUYOtfk5R4x) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:16 |
-| 175 | [Let Me Help You](https://open.spotify.com/track/3LiHCDh5fNDpZx7iPgwgsv) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 2:54 |
-| 176 | [Loneliness](https://open.spotify.com/track/0dPQXzKfYSVPCoTftltoiC) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [Loneliness](https://open.spotify.com/album/0rtgFB3NTb4M2hjJcU05zJ) | 4:14 |
+| 175 | [Loneliness](https://open.spotify.com/track/0dPQXzKfYSVPCoTftltoiC) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [Loneliness](https://open.spotify.com/album/0rtgFB3NTb4M2hjJcU05zJ) | 4:14 |
+| 176 | [Let Me Help You](https://open.spotify.com/track/3LiHCDh5fNDpZx7iPgwgsv) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 2:54 |
 | 177 | [For What It's Worth](https://open.spotify.com/track/0yu2qeSEuZLaLX66VZtF5T) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:31 |
 | 178 | [What Can I Say \- Interlude](https://open.spotify.com/track/0osC0o9ffcCqlAG0Clypds) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 1:30 |
 | 179 | [Fuck It Tho](https://open.spotify.com/track/10Jg6KU0rNPM6n4sS2BhpD) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH) | [Unbound 02](https://open.spotify.com/album/3ApKQgytJiUVlYSPwSqfOF) | 3:14 |
@@ -215,9 +215,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 205 | [Break My Heart](https://open.spotify.com/track/0YwVv5OCbuCoc1Qyso1Ree) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:43 |
 | 206 | [What's Hannin'](https://open.spotify.com/track/1Bt5SsyEoWBCYEszpiv0cY) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 1](https://open.spotify.com/album/64wWGauCcGFiuXr9RkjgHd) | 2:34 |
 | 207 | [Since U Left \(feat\. Taylor Parks\)](https://open.spotify.com/track/7tpI2bkgiEefOIgM7TjCdJ) | [Brianna Perry](https://open.spotify.com/artist/7dCeHFqROnBJFZwRfp8B3Z), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Since U Left \(feat\. Taylor Parks\)](https://open.spotify.com/album/7ilA0JKkMjalJImiLWOlcs) | 3:22 |
-| 208 | [Road Trip](https://open.spotify.com/track/4DiTzj5a3YAnDOjx7srHki) | [Hyomin](https://open.spotify.com/artist/1K8kkeM8j0BL8sQ4aR7Vh6) | [Sketch](https://open.spotify.com/album/6pTgLbKoE6GYtVZUvIhwE4) | 3:44 |
-| 209 | [Standing Up To The Wind](https://open.spotify.com/track/5LDZR1EgPtlaAEUDPt90yq) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:18 |
-| 210 | [More Me Than Ever](https://open.spotify.com/track/3gDHwH3XIzqsFlk3N7MQV9) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [More Me Than Ever](https://open.spotify.com/album/1pcrLuaZJBDRmTQiVdeqSY) | 2:21 |
+| 208 | [More Me Than Ever](https://open.spotify.com/track/3gDHwH3XIzqsFlk3N7MQV9) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [More Me Than Ever](https://open.spotify.com/album/1pcrLuaZJBDRmTQiVdeqSY) | 2:21 |
+| 209 | [Road Trip](https://open.spotify.com/track/4DiTzj5a3YAnDOjx7srHki) | [Hyomin](https://open.spotify.com/artist/1K8kkeM8j0BL8sQ4aR7Vh6) | [Sketch](https://open.spotify.com/album/6pTgLbKoE6GYtVZUvIhwE4) | 3:44 |
+| 210 | [Standing Up To The Wind](https://open.spotify.com/track/5LDZR1EgPtlaAEUDPt90yq) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:18 |
 | 211 | [Celebration Weight](https://open.spotify.com/track/7MC6izvYsq545k7jDsYTOO) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:08 |
 | 212 | [Girlfriend's Girlfriend](https://open.spotify.com/track/068OE0oRKSnDrDM9HdEpO0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 2:51 |
 | 213 | [Options \- Interlude](https://open.spotify.com/track/4u0s7A0MchkZdopCAvRMox) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 0:50 |
@@ -245,4 +245,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 235 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 | 236 | [SummerTime](https://open.spotify.com/track/364fkWjCvOvHzCUBTHvU3I) | [KE](https://open.spotify.com/artist/1OQbZJyFhZMWGINxNBCUzB), [LAGITT](https://open.spotify.com/artist/1OhNC7ULDsgId5WEKsNsMY) | [SummerTime](https://open.spotify.com/album/0KgWqv4TZlwGCk3M7E6E7j) | 3:40 |
 
-Snapshot ID: `Ab0JkgAAAAAxxjA+WvqxVnkk5sihhkY4`
+Snapshot ID: `Ab0PMgAAAABHg5OvL/NLSJuSTrVjwaoI`

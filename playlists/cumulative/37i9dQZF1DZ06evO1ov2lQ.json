@@ -376,7 +376,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-29",
+      "date_removed": null,
       "duration_ms": 122346,
       "name": "Bjorvika",
       "url": "https://open.spotify.com/track/4NYchtfMAXMOvgr8LEQnNV"
@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 395294,
       "name": "Genkai - 1",
       "url": "https://open.spotify.com/track/71qKEYU8UkJFoui97QvhIY"
@@ -1879,6 +1879,24 @@
     },
     {
       "album": {
+        "name": "Cirque (2016 Reissue Version)",
+        "url": "https://open.spotify.com/album/5PMRqcZu3T90ensFTSSB67"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2025-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481520,
+      "name": "Minuarta",
+      "url": "https://open.spotify.com/track/4AIIuMhG2xhXA5MFtpCFKD"
+    },
+    {
+      "album": {
         "name": "Patashnik",
         "url": "https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx"
       },
@@ -2358,7 +2376,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-06-16",
       "duration_ms": 299284,
       "name": "Shenzhou",
       "url": "https://open.spotify.com/track/7tXtScBvkr3jYe6e6MfVuL"

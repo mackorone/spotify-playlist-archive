@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236 likes - 68 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 237 likes - 69 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 64 | [Wenn mein Herz wieder bricht](https://open.spotify.com/track/2JCNmjkXZ9XZaGYGy15QOL) | [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Wenn mein Herz wieder bricht](https://open.spotify.com/album/4Fq0A9Ayu7gKZaPsghKFw4) | 3:14 |
 | 65 | [miss you](https://open.spotify.com/track/2p5PjL2TLhongka8qsHTco) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [this is iggy](https://open.spotify.com/album/0kyjMpCVzimrmEspVwx8TX) | 2:29 |
 | 66 | [My Fault](https://open.spotify.com/track/1YcoVVvOeJRCPD8P7zvvmX) | [Jenna Lotti](https://open.spotify.com/artist/7dIm02RDiyp2Nmdsx4H8Gc) | [My Fault](https://open.spotify.com/album/6AZqYYArJb8u4E6hilDreL) | 1:57 |
-| 67 | [Flimmerlicht](https://open.spotify.com/track/7J2aP9q1HDpq7edb4b7sK5) | [48 Stunden](https://open.spotify.com/artist/0lzjvvk1UkMwgbpDYlpE7M) | [Der Letzte Sommer](https://open.spotify.com/album/3i9sd6fOlY6b6EVrs6lzT6) | 4:04 |
-| 68 | [Superstars \(Tonight\) \- Original](https://open.spotify.com/track/67U3q4t5IS3hq4uzpn1avq) | [Rush Hour](https://open.spotify.com/artist/5NlrkQ9wUg4sDUZ0DcgNfq) | [Superstars \(Tonight\)](https://open.spotify.com/album/2sUMawAATz5SuhOfkjlYxw) | 4:45 |
+| 67 | [My Almost Forever](https://open.spotify.com/track/57VDBMxzvYq9jhuD2ISTrR) | [Jonathan Baily](https://open.spotify.com/artist/1QfgytrRilvQ1HVXZGFJji) | [My Almost Forever](https://open.spotify.com/album/41tFrGMv7y47SiR6VvxBmU) | 2:52 |
+| 68 | [Flimmerlicht](https://open.spotify.com/track/7J2aP9q1HDpq7edb4b7sK5) | [48 Stunden](https://open.spotify.com/artist/0lzjvvk1UkMwgbpDYlpE7M) | [Der Letzte Sommer](https://open.spotify.com/album/3i9sd6fOlY6b6EVrs6lzT6) | 4:04 |
+| 69 | [Superstars \(Tonight\) \- Original](https://open.spotify.com/track/67U3q4t5IS3hq4uzpn1avq) | [Rush Hour](https://open.spotify.com/artist/5NlrkQ9wUg4sDUZ0DcgNfq) | [Superstars \(Tonight\)](https://open.spotify.com/album/2sUMawAATz5SuhOfkjlYxw) | 4:45 |
 
-Snapshot ID: `Ab0JiAAAAADhudJg0w9QEGkDQ/OMWBra`
+Snapshot ID: `Ab0PHgAAAABlLkOTYzpmoGvINNO8F7ID`

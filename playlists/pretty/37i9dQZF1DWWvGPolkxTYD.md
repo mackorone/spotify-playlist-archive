@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 
 > A selection of relaxing, spiritual, and instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,915 likes - 40 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,913 likes - 40 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 | 25 | [The Persian Nightingale](https://open.spotify.com/track/4Qllk9fsTYK9qJpWrC6uVq) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [The Persian Nightingale](https://open.spotify.com/album/1FUgOS4nYegLdaFAu3wmZH) | 3:13 |
 | 26 | [Islands of Peace](https://open.spotify.com/track/2MhrdSEfjv2cjQ226BHEN5) | [Abdul Al Kahabir](https://open.spotify.com/artist/6jQNoAYC0mpgCRpIIU89Pi) | [Best of Arabian Lounge](https://open.spotify.com/album/44seqBGCa20ECWZBI2RviV) | 3:54 |
 | 27 | [Dreams Of A Dying City](https://open.spotify.com/track/6ZEmjcKnZvbWV2qBvDR3rm) | [Rabih Abou\-Khalil](https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT), [Jarrod Cagwin](https://open.spotify.com/artist/5sWtE2cBLTTbo9bfrNOYN0), [Luciano Biondini](https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0), [Gavino Murgia](https://open.spotify.com/artist/6iCQomJORy2bN4R47rVTvP), [Michel Godard](https://open.spotify.com/artist/1A25jYWj9rD6Co1KbnBGav) | [Hungry People](https://open.spotify.com/album/37ZVvmVPYFCyaDdNZaSRof) | 5:34 |
-| 28 | [FIRAT](https://open.spotify.com/track/3vjOp0AczE2nzHxMxr8Dwj) | [ismet Demirhan](https://open.spotify.com/artist/6JmJZt2L5BFINYsz9IldUV) | [ISMET DEMIRHAN](https://open.spotify.com/album/2N3iaWdPPDxXuMukwkdlOo) | 4:47 |
-| 29 | [Al\-Andalus Abre Sus Puertas\. Al\-Andalus Opens Its Gates](https://open.spotify.com/track/4iQvCKLlT8DlRm7hqBPS3n) | [Naseer Shamma](https://open.spotify.com/artist/57NW7ND6Cdzrj5z8ARvUEZ), [Shabbaz Hussain](https://open.spotify.com/artist/1entpGIZiFUjcFLOMzbXUL), [Ashraf Sharif Khan](https://open.spotify.com/artist/75hY1HGxwO5zlBmXzj1UQs) | [Viaje De Las Almas\. Travelling Souls](https://open.spotify.com/album/1nEZo4Uk9UfaAnt0AvqDAb) | 6:35 |
+| 28 | [Al\-Andalus Abre Sus Puertas\. Al\-Andalus Opens Its Gates](https://open.spotify.com/track/4iQvCKLlT8DlRm7hqBPS3n) | [Naseer Shamma](https://open.spotify.com/artist/57NW7ND6Cdzrj5z8ARvUEZ), [Shabbaz Hussain](https://open.spotify.com/artist/1entpGIZiFUjcFLOMzbXUL), [Ashraf Sharif Khan](https://open.spotify.com/artist/75hY1HGxwO5zlBmXzj1UQs) | [Viaje De Las Almas\. Travelling Souls](https://open.spotify.com/album/1nEZo4Uk9UfaAnt0AvqDAb) | 6:35 |
+| 29 | [FIRAT](https://open.spotify.com/track/3vjOp0AczE2nzHxMxr8Dwj) | [ismet Demirhan](https://open.spotify.com/artist/6JmJZt2L5BFINYsz9IldUV) | [ISMET DEMIRHAN](https://open.spotify.com/album/2N3iaWdPPDxXuMukwkdlOo) | 4:47 |
 | 30 | [Aman Avcı Vurma Beni \- Turkey](https://open.spotify.com/track/3seIC3w5tl74L5CwUMtzU2) | [Ismail Ounal](https://open.spotify.com/artist/3n3Whufi84YqBH5BA6YnP9) | [Oriental Guitar \- Turkish & Arabic Instrumental Music](https://open.spotify.com/album/3YShnla4X4oKouDTJH9JKl) | 1:45 |
 | 31 | [Aridda wal noor](https://open.spotify.com/track/7Itre0ipPz3XVU9nx85SXv) | [Bashir Abdel Aal](https://open.spotify.com/artist/1LUP5tRXvMB3Oc9YFUnfMe), [Ivor Goldberg](https://open.spotify.com/artist/5cgyJ65fkE9qRAQxwCgzvj), [George Dergham](https://open.spotify.com/artist/0w2t7XcxtOVGc9rkPsmbtw) | [Bashir Abdel Aal: Master of Arabian Flute](https://open.spotify.com/album/5WiJ9bzESeuDxa0P6MmSt1) | 3:02 |
 | 32 | [The Road to Sahara](https://open.spotify.com/track/3374nqNtSOSDlM9nQUCMyI) | [Kader Fahem](https://open.spotify.com/artist/6lnsLih5OIO8EALCg5vqoS), [Adnan Joubran](https://open.spotify.com/artist/4KFaYjtHWI85JjkeHWyaih) | [The Road to Sahara](https://open.spotify.com/album/0zf0KF6c7igAW53uEuUT5n) | 4:29 |

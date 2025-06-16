@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 60104,
+  "num_followers": 60106,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aEtqAAAAAAB8DkjelwFiXGwCKNEvnuYZ",
+  "snapshot_id": "aEy7gAAAAACibg59mRbdjoGqdnzXfIjn",
   "tracks": [
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 170965,
+      "name": "Triste Historia",
+      "url": "https://open.spotify.com/track/6gisw2l8eODktsWPknZNvK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin Hacer Ruido",
         "url": "https://open.spotify.com/album/6wWICPpm8uk6FkPO9kGObs"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 155499,
       "name": "Sin Hacer Ruido",
       "url": "https://open.spotify.com/track/3jAVdwO7ycWZOJl76vn3c9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resiliencia",
-        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 170965,
-      "name": "Triste Historia",
-      "url": "https://open.spotify.com/track/6gisw2l8eODktsWPknZNvK"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Manzanita",
-        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 194845,
-      "name": "Se\u00f1or de la A - En Vivo",
-      "url": "https://open.spotify.com/track/4LmuzqcwGGERD1BvBhz4vy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Rey De Los Paquetes",
         "url": "https://open.spotify.com/album/6J8KawEafsnKq5lIVX9cbc"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 122212,
       "name": "El Rey de Los Paquetes",
       "url": "https://open.spotify.com/track/3xL6WPIw4Gf65zxDpo0wcy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Manzanita",
+        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 194845,
+      "name": "Se\u00f1or de la A - En Vivo",
+      "url": "https://open.spotify.com/track/4LmuzqcwGGERD1BvBhz4vy"
     },
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kilos De Oro",
-        "url": "https://open.spotify.com/album/74HlrlKwzkzH7s0dyTgVjY"
-      },
-      "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 220947,
-      "name": "Miran Mi Brillo",
-      "url": "https://open.spotify.com/track/3Y3aXFZit9oCIt0Hk3wFVb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parque de Diversiones",
         "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 179200,
       "name": "Alucinado",
       "url": "https://open.spotify.com/track/3hHOW6QUvwImlYSQFDWFqo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kilos De Oro",
+        "url": "https://open.spotify.com/album/74HlrlKwzkzH7s0dyTgVjY"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 220947,
+      "name": "Miran Mi Brillo",
+      "url": "https://open.spotify.com/track/3Y3aXFZit9oCIt0Hk3wFVb"
     },
     {
       "added_at": null,
